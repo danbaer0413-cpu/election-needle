@@ -254,6 +254,83 @@
    "params": {
     "sd_poll": 5.0
    }
+  },
+  {
+   "id": "FL-senate",
+   "state": "FL",
+   "race": "U.S. Senate (special)",
+   "level": "Federal",
+   "dir": "data/FL/u-s-senate-special",
+   "poll_margin": null,
+   "params": {
+    "sd_poll": 5.0
+   }
+  },
+  {
+   "id": "SC-governor",
+   "state": "SC",
+   "race": "Governor",
+   "level": "State",
+   "dir": "data/SC/governor",
+   "poll_margin": null,
+   "params": {
+    "sd_poll": 5.0
+   }
+  },
+  {
+   "id": "IA-governor",
+   "state": "IA",
+   "race": "Governor",
+   "level": "State",
+   "dir": "data/IA/governor",
+   "poll_margin": null,
+   "params": {
+    "sd_poll": 5.0
+   }
+  },
+  {
+   "id": "AK-governor",
+   "state": "AK",
+   "race": "Governor",
+   "level": "State",
+   "dir": "data/AK/governor",
+   "poll_margin": null,
+   "params": {
+    "sd_poll": 5.0
+   }
+  },
+  {
+   "id": "MI-governor",
+   "state": "MI",
+   "race": "Governor",
+   "level": "State",
+   "dir": "data/MI/governor",
+   "poll_margin": null,
+   "params": {
+    "sd_poll": 5.0
+   }
+  },
+  {
+   "id": "MN-governor",
+   "state": "MN",
+   "race": "Governor",
+   "level": "State",
+   "dir": "data/MN/governor",
+   "poll_margin": null,
+   "params": {
+    "sd_poll": 5.0
+   }
+  },
+  {
+   "id": "NH-governor",
+   "state": "NH",
+   "race": "Governor",
+   "level": "State",
+   "dir": "data/NH/governor",
+   "poll_margin": null,
+   "params": {
+    "sd_poll": 5.0
+   }
   }
  ],
  "_note": "third_share values for GA, ME and AK are placeholders: set them from polls or past results. rcv_history CSVs (past ranked-choice contests) calibrate the transfer skew; see rcv.py."
