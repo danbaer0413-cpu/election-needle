@@ -6,6 +6,8 @@ and your hand-typed data/poll_inputs_2026.csv, so uploading cannot overwrite the
 
 New or changed in this round:
 - poll_error_fit.py, POLL_ERROR.md, config/poll_error.json (new); run_update.py, check_setup.py, README.md (changed)
+- backtest_poll_average.py (new, optional), config/fundamentals.json (sd_fund 12), POLL_ERROR.md, FUNDAMENTALS.md (changed)
+- probe_portals.py, config/results_portals.csv, .github/workflows/probe-portals.yml (new); config/feeds.csv (portal notes added), ELECTION_NIGHT.md (changed)
 Earlier round:
 - fundamentals.py, check_setup.py (new)
 - FUNDAMENTALS.md, UPLOAD_LIST.md, README.md

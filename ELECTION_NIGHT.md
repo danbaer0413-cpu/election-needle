@@ -5,6 +5,15 @@ The GitHub job already runs every 10 minutes from 7pm ET Nov 3. For each race it
 2. `data/<race folder>/results.csv` (pasted or hand-made; also the automatic fallback if the URL fails)
 3. nothing yet -> keeps showing the pre-election needle
 
+## Step 0: let GitHub look for the feeds (new)
+`config/results_portals.csv` holds the official results portal for each state (from your spreadsheet). On GitHub go to
+Actions -> probe-portals -> Run workflow. In about a minute it saves `data/portal_probe.txt`: for each portal, the data-looking
+links (.json/.csv/.xml, /api/, download) found in the page and its scripts. Send me that file and I will fill in `config/feeds.csv`.
+Portals that load their tables in the browser (single-page apps) will say so; use the Network-tab method below for those.
+Only the portals marked Yes in the `verified` column were confirmed to exist; the rest are from memory, so click them first.
+Wisconsin has no state-run live feed (results are on county clerk sites), so WI-governor will need the paste fallback or a few county feeds.
+The Alaska portal folder for 2026 is unconfirmed; Michigan's statewide page only fills in once all counties report.
+
 ## Nov 2 (or any time the state results pages are live): find the feeds
 For each race, open the state's results page in Chrome/Safari, open developer tools -> Network -> reload,
 filter by Fetch/XHR, and look for the file that returns county-level numbers (.json, .csv, .xml).

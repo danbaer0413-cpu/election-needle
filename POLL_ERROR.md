@@ -41,3 +41,12 @@ Races on a hand-typed Silver average count as 4+ polls. NE-senate gets no state 
 
 ## Caveats
 Two midterms are a thin base; the SD for 4+ polls rests on 28 races. State bias is largest where history is thinnest, so it is shrunk. Mississippi (+2.7) and Nevada (+2.4) are the biggest pushes toward Democrats, Florida (-2.7) and Alaska (-2.7) the biggest toward Republicans.
+
+## Which poll average feeds the needle? (backtest_poll_average.py)
+As of 9 days before each 2016-2024 election, the tier average the needles use was compared with the own quality-weighted average (the one on the chart):
+| Races | Tier average RMSE | Own weighted RMSE | 50/50 blend |
+|---|---|---|---|
+| 2018/2022, all (n=87) | **4.43** | 5.02 | 4.63 |
+| 2018/2022, competitive (n=60) | **3.93** | 4.27 | 3.99 |
+| All years (n=246) | 5.54 | 5.65 | 5.51 |
+The own average also had a look-ahead advantage (the pollster ratings include these elections) and still did not win, and the gap between the two methods did not predict which was right. So the needle keeps the tier average; the own average stays on the chart as a cross-check. House-effect adjustment could not be tested without look-ahead.

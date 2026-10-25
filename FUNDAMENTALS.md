@@ -19,7 +19,7 @@ observation (label "fundamentals"). Not copied from any forecaster. Every input 
 ## Backtest (2018 and 2022 competitive statewide races, n=54)
 * Prior presidential margin plus the actual House swing misses by **10.5 points RMSE out of sample** (leave-one-year-out).
 * The swing passed through unevenly: 2018 about 1:1 (Dems gained 6.8 vs a 6.5 national swing), 2022 almost none (Republicans gained 0.4 vs a 7.3 national swing). With only two midterms, k is uncertain (0.05 to 1.05 depending on the year left out). I use the pooled 0.5.
-* Polls in the same races missed by about 3.8 points. Blending showed the best result at roughly 10% fundamentals weight. With sd_poll 5.0 and sd_fund 10.5 the model gives it about 18% where polls are normal and more where they are thin.
+* Polls in the same races missed by about 3.8 points. Blending showed the best result at roughly 10% fundamentals weight. Regressing actual-minus-poll on fundamentals-minus-poll gives an optimal weight of about 0.11 (se 0.06; unstable by year, 0 to 0.16). The model uses sd_fund 12, which is 10% weight with 4+ polls and 13% with fewer.
 * Not validated: the approval adjustment (no state approval history exists for 2018/2022). It moves races by 1.4 points at most.
 
 ## What the environment says (sources)
