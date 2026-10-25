@@ -255,6 +255,11 @@ elif mode.startswith("Latest"):
         st.warning("latest.json has no race summaries yet. Statuses: " +
                    "; ".join(f"{k}: {v.get('status')}" for k, v in data["races"].items()))
         st.stop()
+    waiting = {k: v for k, v in data["races"].items() if not v.get("summary")}
+    if waiting:
+        with st.sidebar.expander(f"{len(waiting)} races without a needle yet"):
+            for k, v in waiting.items():
+                st.caption(f"{k}: {v.get('status') or 'no data'}")
     rid = st.sidebar.selectbox("Race", list(ready),
                                format_func=lambda k: f"{ready[k]['meta'].get('state')} - {ready[k]['meta'].get('race')}")
     item = ready[rid]
