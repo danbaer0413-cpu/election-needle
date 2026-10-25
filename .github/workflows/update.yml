@@ -36,14 +36,21 @@ jobs:
         if: github.event_name == 'workflow_dispatch' || contains('7 */12 * * *|17 */3 30-31 10 *|17 */3 1-2 11 *', github.event.schedule)
         continue-on-error: true
         run: python fetch_polls.py
+      - name: Preflight (warnings only)
+        continue-on-error: true
+        run: python check_setup.py
       - run: python run_update.py
       - name: Commit results
         run: |
           git config user.name "needle-bot"
           git config user.email "needle-bot@users.noreply.github.com"
-          git add data/latest.json data/needle_log.csv data/votehub_latest.csv data/votehub_history.csv data/votehub_unparsed.txt data/poll_inputs_auto.csv data/polls_all.csv data/poll_average.json data/polls_raw data/bsky_raw.json data/bsky_unmatched.txt data/poll_compare.csv 2>/dev/null || git add data/latest.json data/needle_log.csv
+          for f in data/latest.json data/needle_log.csv data/votehub_latest.csv data/votehub_history.csv data/votehub_unparsed.txt \
+                   data/poll_inputs_auto.csv data/polls_all.csv data/poll_average.json data/polls_raw data/bsky_raw.json \
+                   data/bsky_unmatched.txt data/poll_compare.csv; do
+            if [ -e "$f" ]; then git add "$f"; fi
+          done
           if ! git diff --cached --quiet; then
             git commit -m "needle update"
-            git pull --rebase
-            git push
+            git pull --rebase -X theirs || git rebase --abort
+            git push || (git pull --rebase -X theirs && git push)
           fi
