@@ -16,26 +16,34 @@ from synthetic import make_scenario
 
 st.set_page_config(page_title="Election Needle", layout="wide")
 
+# ---------------------------------------------------------------- data mode first
+mode = st.sidebar.radio("Data", ["Latest published (GitHub)", "Replay demo (synthetic)",
+                                 "My data (CSV)", "Live feed"])
+latest_mode = mode.startswith("Latest")
+
 # ---------------------------------------------------------------- race picker
-st.sidebar.subheader("Race")
-abbr = st.sidebar.selectbox("State", list(STATES), format_func=lambda a: f"{STATES[a][0]} ({a})")
-level = st.sidebar.radio("Level", LEVELS, horizontal=True)
-race = st.sidebar.selectbox("Race", races_for(abbr, level), format_func=lambda r: r["name"])
+# For published data the race is chosen from the "Published race" list below, so the picker is tucked away.
+box = st.sidebar.expander("Race picker (not used for published data)") if latest_mode else st.sidebar
+if not latest_mode:
+    st.sidebar.subheader("Race")
+abbr = box.selectbox("State", list(STATES), format_func=lambda a: f"{STATES[a][0]} ({a})")
+level = box.radio("Level", LEVELS, horizontal=True)
+race = box.selectbox("Race", races_for(abbr, level), format_func=lambda r: r["name"])
 preset = PRESETS[race["kind"]]
 state_name, has_party_reg = STATES[abbr]
 folder = race_dir(abbr, race["name"])
 
-st.title(f"Election Needle - {state_name}")
-st.subheader(f"{level}: {race['name']}")
-st.caption(f"{race['scope']}. Early-vote prior first, then counted returns. Win chance comes from a "
-           "Monte Carlo, not a call. Margins are Dem minus GOP, two-party points.")
-if has_party_reg:
-    st.sidebar.caption("This state records party registration, so early/mail files may carry party.")
+if latest_mode:
+    st.title("Election Needle")
 else:
-    st.sidebar.caption("No party registration here: the early-vote signal uses geography only.")
-
-mode = st.sidebar.radio("Data", ["Latest published (GitHub)", "Replay demo (synthetic)",
-                                 "My data (CSV)", "Live feed"])
+    st.title(f"Election Needle - {state_name}")
+    st.subheader(f"{level}: {race['name']}")
+    st.caption(f"{race['scope']}. Early-vote prior first, then counted returns. Win chance comes from a "
+               "Monte Carlo, not a call. Margins are Dem minus GOP, two-party points.")
+    if has_party_reg:
+        st.sidebar.caption("This state records party registration, so early/mail files may carry party.")
+    else:
+        st.sidebar.caption("No party registration here: the early-vote signal uses geography only.")
 
 # ---------------------------------------------------------------- model settings
 st.sidebar.subheader("Model settings")
@@ -229,8 +237,8 @@ elif mode.startswith("Latest"):
 
     from publish import from_json_summary, read_log
 
-    st.sidebar.caption("Reads what the scheduled GitHub job publishes. The race picker above doesn't "
-                       "apply here; choose the race below.")
+    st.sidebar.caption("Reads what the scheduled GitHub job publishes. The race picker doesn't "
+                       "apply here; choose from the Published race list below.")
     src = st.sidebar.text_input("Raw URL of latest.json (blank = local data/latest.json)", "")
     every = st.sidebar.number_input("Page refresh seconds", 30, 600, 60)
     auto = st.sidebar.checkbox("Auto-refresh", value=True)
@@ -260,7 +268,7 @@ elif mode.startswith("Latest"):
         with st.sidebar.expander(f"{len(waiting)} races without a needle yet"):
             for k, v in waiting.items():
                 st.caption(f"{k}: {v.get('status') or 'no data'}")
-    rid = st.sidebar.selectbox("Race", list(ready),
+    rid = st.sidebar.selectbox("Published race", list(ready),
                                format_func=lambda k: f"{ready[k]['meta'].get('state')} - {ready[k]['meta'].get('race')}")
     item = ready[rid]
     st.subheader(f"{item['meta'].get('state')}: {item['meta'].get('race')}")
