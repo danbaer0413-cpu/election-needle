@@ -1,0 +1,496 @@
+state,county,year,race,dem_votes,rep_votes,other_votes,early_votes
+IA,Adair,2016,President,1133,2461,217,
+IA,Adams,2016,President,565,1395,146,
+IA,Allamakee,2016,President,2421,4093,409,
+IA,Appanoose,2016,President,1814,4033,289,
+IA,Audubon,2016,President,1080,2136,196,
+IA,Benton,2016,President,4678,8232,934,
+IA,Black Hawk,2016,President,32233,27476,4696,
+IA,Boone,2016,President,5541,7484,1171,
+IA,Bremer,2016,President,5356,7208,974,
+IA,Buchanan,2016,President,3970,5510,772,
+IA,Buena Vista,2016,President,2856,4903,519,
+IA,Butler,2016,President,2157,4921,435,
+IA,Calhoun,2016,President,1398,3468,293,
+IA,Carroll,2016,President,3309,6638,597,
+IA,Cass,2016,President,1951,4761,413,
+IA,Cedar,2016,President,3599,5295,647,
+IA,Cerro Gordo,2016,President,9862,11621,1482,
+IA,Cherokee,2016,President,1679,4192,387,
+IA,Chickasaw,2016,President,2266,3742,427,
+IA,Clarke,2016,President,1465,2713,276,
+IA,Clay,2016,President,2249,5877,491,
+IA,Clayton,2016,President,3237,5317,575,
+IA,Clinton,2016,President,10095,11276,1696,
+IA,Crawford,2016,President,1991,4617,327,
+IA,Dallas,2016,President,15701,19339,3212,
+IA,Davis,2016,President,977,2723,182,
+IA,Decatur,2016,President,1201,2296,237,
+IA,Delaware,2016,President,2957,5694,590,
+IA,Des Moines,2016,President,8212,9529,1362,
+IA,Dickinson,2016,President,3056,6753,545,
+IA,Dubuque,2016,President,22850,23460,3411,
+IA,Emmet,2016,President,1357,3124,272,
+IA,Fayette,2016,President,3689,5620,666,
+IA,Floyd,2016,President,3179,4375,506,
+IA,Franklin,2016,President,1493,3163,312,
+IA,Fremont,2016,President,963,2407,225,
+IA,Greene,2016,President,1691,2820,310,
+IA,Grundy,2016,President,1856,4527,489,
+IA,Guthrie,2016,President,1732,3628,390,
+IA,Hamilton,2016,President,2726,4463,505,
+IA,Hancock,2016,President,1587,3977,307,
+IA,Hardin,2016,President,2787,5254,492,
+IA,Harrison,2016,President,2131,4902,432,
+IA,Henry,2016,President,2904,5779,721,
+IA,Howard,2016,President,1677,2611,271,
+IA,Humboldt,2016,President,1252,3568,267,
+IA,Ida,2016,President,792,2655,165,
+IA,Iowa,2016,President,3084,5205,615,
+IA,Jackson,2016,President,3837,5824,649,
+IA,Jasper,2016,President,7109,10560,1365,
+IA,Jefferson,2016,President,3710,3748,698,
+IA,Johnson,2016,President,50200,21044,5696,
+IA,Jones,2016,President,3787,5720,626,
+IA,Keokuk,2016,President,1342,3390,253,
+IA,Kossuth,2016,President,2543,5653,411,
+IA,Lee,2016,President,6215,8803,1133,
+IA,Linn,2016,President,58935,48390,9773,
+IA,Louisa,2016,President,1648,3069,291,
+IA,Lucas,2016,President,1239,2877,238,
+IA,Lyon,2016,President,920,5192,265,
+IA,Madison,2016,President,2678,5360,598,
+IA,Mahaska,2016,President,2619,7432,581,
+IA,Marion,2016,President,5482,10962,1372,
+IA,Marshall,2016,President,7652,9146,1182,
+IA,Mills,2016,President,2090,5067,541,
+IA,Mitchell,2016,President,1888,3190,339,
+IA,Monona,2016,President,1247,3120,205,
+IA,Monroe,2016,President,1056,2638,171,
+IA,Montgomery,2016,President,1314,3436,294,
+IA,Muscatine,2016,President,8368,9584,1482,
+IA,O'Brien,2016,President,1315,5752,339,
+IA,Osceola,2016,President,552,2531,130,
+IA,Page,2016,President,1807,4893,344,
+IA,Palo Alto,2016,President,1398,3081,224,
+IA,Plymouth,2016,President,2885,9680,625,
+IA,Pocahontas,2016,President,963,2702,200,
+IA,Polk,2016,President,119804,93492,18259,
+IA,Pottawattamie,2016,President,15355,24447,2878,
+IA,Poweshiek,2016,President,4304,4946,583,
+IA,Ringgold,2016,President,753,1824,130,
+IA,Sac,2016,President,1270,3703,239,
+IA,Scott,2016,President,40440,39149,6631,
+IA,Shelby,2016,President,1662,4362,346,
+IA,Sioux,2016,President,2300,14785,1109,
+IA,Story,2016,President,25709,19458,5500,
+IA,Tama,2016,President,3196,4971,585,
+IA,Taylor,2016,President,758,2111,160,
+IA,Union,2016,President,1922,3525,385,
+IA,Van Buren,2016,President,845,2527,189,
+IA,Wapello,2016,President,5594,8715,840,
+IA,Warren,2016,President,10411,14814,2075,
+IA,Washington,2016,President,3943,6173,813,
+IA,Wayne,2016,President,719,2069,152,
+IA,Webster,2016,President,6305,10056,1069,
+IA,Winnebago,2016,President,1931,3447,409,
+IA,Winneshiek,2016,President,5254,5344,764,
+IA,Woodbury,2016,President,16210,24727,2781,
+IA,Worth,2016,President,1530,2453,274,
+IA,Wright,2016,President,1896,3800,330,
+IA,Adair,2020,President,1198,2922,57,2057.0
+IA,Adams,2020,President,590,1535,35,1236.0
+IA,Allamakee,2020,President,2576,4744,102,4816.0
+IA,Appanoose,2020,President,1891,4522,103,3220.0
+IA,Audubon,2020,President,1071,2299,50,2029.0
+IA,Benton,2020,President,5160,9208,274,6455.0
+IA,Black Hawk,2020,President,35647,29813,1133,40870.0
+IA,Boone,2020,President,6303,8729,308,9494.0
+IA,Bremer,2020,President,5958,8324,264,8365.0
+IA,Buchanan,2020,President,4169,6430,175,5549.0
+IA,Buena Vista,2020,President,2961,5074,132,4728.0
+IA,Butler,2020,President,2424,5556,118,4190.0
+IA,Calhoun,2020,President,1470,3698,90,2519.0
+IA,Carroll,2020,President,3454,7766,115,6383.0
+IA,Cass,2020,President,2201,4979,96,4245.0
+IA,Cedar,2020,President,4337,6184,182,5995.0
+IA,Cerro Gordo,2020,President,10941,12499,361,13988.0
+IA,Cherokee,2020,President,1936,4510,72,4012.0
+IA,Chickasaw,2020,President,2233,4322,76,4285.0
+IA,Clarke,2020,President,1466,3153,51,2566.0
+IA,Clay,2020,President,2662,6158,149,5659.0
+IA,Clayton,2020,President,3340,6119,135,4721.0
+IA,Clinton,2020,President,10812,13410,465,15954.0
+IA,Crawford,2020,President,2220,4862,72,4144.0
+IA,Dallas,2020,President,26879,28162,981,34261.0
+IA,Davis,2020,President,1013,3035,54,2172.0
+IA,Decatur,2020,President,1120,2618,66,1672.0
+IA,Delaware,2020,President,3157,6688,158,4821.0
+IA,Des Moines,2020,President,8893,10642,421,12726.0
+IA,Dickinson,2020,President,3661,7452,131,7860.0
+IA,Dubuque,2020,President,25657,27358,911,34323.0
+IA,Emmet,2020,President,1520,3268,65,2614.0
+IA,Fayette,2020,President,3835,6174,177,5424.0
+IA,Floyd,2020,President,3172,4747,113,4641.0
+IA,Franklin,2020,President,1626,3433,71,2523.0
+IA,Fremont,2020,President,1080,2717,60,2048.0
+IA,Greene,2020,President,1769,3229,59,3149.0
+IA,Grundy,2020,President,2206,4945,125,3354.0
+IA,Guthrie,2020,President,1985,4280,106,3321.0
+IA,Hamilton,2020,President,2843,4982,118,4665.0
+IA,Hancock,2020,President,1683,4401,88,2892.0
+IA,Hardin,2020,President,2976,5864,149,4879.0
+IA,Harrison,2020,President,2440,5580,135,4000.0
+IA,Henry,2020,President,3275,6525,182,6370.0
+IA,Howard,2020,President,1772,3133,53,2531.0
+IA,Humboldt,2020,President,1442,3825,60,2848.0
+IA,Ida,2020,President,917,2885,47,1880.0
+IA,Iowa,2020,President,3547,6035,160,5540.0
+IA,Jackson,2020,President,4029,6957,149,6220.0
+IA,Jasper,2020,President,7737,12125,322,10924.0
+IA,Jefferson,2020,President,4319,4476,164,6137.0
+IA,Johnson,2020,President,59177,23206,1468,60672.0
+IA,Jones,2020,President,4213,6596,180,6011.0
+IA,Keokuk,2020,President,1414,3809,80,2362.0
+IA,Kossuth,2020,President,2696,6288,106,5072.0
+IA,Lee,2020,President,6541,9808,385,9839.0
+IA,Linn,2020,President,70874,53744,2840,81941.0
+IA,Louisa,2020,President,1726,3506,100,2753.0
+IA,Lucas,2020,President,1284,3295,51,2607.0
+IA,Lyon,2020,President,1067,5718,78,3335.0
+IA,Madison,2020,President,3134,6525,165,5352.0
+IA,Mahaska,2020,President,2894,8320,190,6845.0
+IA,Marion,2020,President,6178,12722,332,10192.0
+IA,Marshall,2020,President,8176,9610,350,11429.0
+IA,Mills,2020,President,2508,5616,144,5108.0
+IA,Mitchell,2020,President,2053,3684,85,3469.0
+IA,Monona,2020,President,1407,3262,59,2202.0
+IA,Monroe,2020,President,1078,2978,32,2275.0
+IA,Montgomery,2020,President,1583,3666,78,2906.0
+IA,Muscatine,2020,President,9372,10865,434,12062.0
+IA,O'Brien,2020,President,1569,5871,111,3655.0
+IA,Osceola,2020,President,601,2695,32,1468.0
+IA,Page,2020,President,2086,5328,114,4276.0
+IA,Palo Alto,2020,President,1519,3378,61,2780.0
+IA,Plymouth,2020,President,3494,10515,179,7640.0
+IA,Pocahontas,2020,President,933,2832,58,2048.0
+IA,Polk,2020,President,146250,107564,4941,140936.0
+IA,Pottawattamie,2020,President,18575,26352,817,27443.0
+IA,Poweshiek,2020,President,4306,5673,161,6285.0
+IA,Ringgold,2020,President,709,1974,31,1532.0
+IA,Sac,2020,President,1389,4069,77,2580.0
+IA,Scott,2020,President,46926,43958,1715,63662.0
+IA,Shelby,2020,President,1959,4711,125,4281.0
+IA,Sioux,2020,President,3019,15775,257,8357.0
+IA,Story,2020,President,29175,20541,1322,30340.0
+IA,Tama,2020,President,3577,5325,146,3958.0
+IA,Taylor,2020,President,746,2470,33,1376.0
+IA,Union,2020,President,2061,4024,100,3666.0
+IA,Van Buren,2020,President,875,2870,46,1489.0
+IA,Wapello,2020,President,5821,9536,276,8444.0
+IA,Warren,2020,President,12574,17868,597,17532.0
+IA,Washington,2020,President,4561,6991,213,7044.0
+IA,Wayne,2020,President,727,2344,38,1611.0
+IA,Webster,2020,President,6613,10970,239,10072.0
+IA,Winnebago,2020,President,2135,3726,109,2951.0
+IA,Winneshiek,2020,President,5617,6263,184,8780.0
+IA,Woodbury,2020,President,18704,25926,732,27505.0
+IA,Worth,2020,President,1596,2742,80,1933.0
+IA,Wright,2020,President,1996,4148,110,3340.0
+IA,Adair,2024,President,1086,2916,102,1567.0
+IA,Adams,2024,President,576,1517,60,979.0
+IA,Allamakee,2024,President,2350,4857,203,3335.0
+IA,Appanoose,2024,President,1686,4704,145,2687.0
+IA,Audubon,2024,President,970,2214,102,1422.0
+IA,Benton,2024,President,4739,9549,305,3985.0
+IA,Black Hawk,2024,President,31299,30572,1408,25005.0
+IA,Boone,2024,President,5895,9199,426,7051.0
+IA,Bremer,2024,President,5571,8799,303,5734.0
+IA,Buchanan,2024,President,3766,6790,300,3865.0
+IA,Buena Vista,2024,President,2462,4962,169,3367.0
+IA,Butler,2024,President,2144,5784,174,2611.0
+IA,Calhoun,2024,President,1328,3708,85,1747.0
+IA,Carroll,2024,President,3153,7814,242,4603.0
+IA,Cass,2024,President,2077,5007,208,2990.0
+IA,Cedar,2024,President,4075,6390,244,4562.0
+IA,Cerro Gordo,2024,President,9955,12627,570,10021.0
+IA,Cherokee,2024,President,1611,4398,134,2763.0
+IA,Chickasaw,2024,President,1919,4234,124,3243.0
+IA,Clarke,2024,President,1265,3140,147,1843.0
+IA,Clay,2024,President,2367,6047,195,4046.0
+IA,Clayton,2024,President,3017,6255,189,2906.0
+IA,Clinton,2024,President,9472,13964,590,15946.0
+IA,Crawford,2024,President,1812,4651,142,2573.0
+IA,Dallas,2024,President,29402,32374,1554,25869.0
+IA,Davis,2024,President,878,3027,65,1708.0
+IA,Decatur,2024,President,957,2711,86,1379.0
+IA,Delaware,2024,President,2978,6984,249,3544.0
+IA,Des Moines,2024,President,7935,10794,442,9168.0
+IA,Dickinson,2024,President,3297,7775,247,6313.0
+IA,Dubuque,2024,President,23705,28224,1128,24326.0
+IA,Emmet,2024,President,1315,3422,94,1708.0
+IA,Fayette,2024,President,3334,6325,269,3193.0
+IA,Floyd,2024,President,2782,4744,178,2969.0
+IA,Franklin,2024,President,1393,3431,123,1785.0
+IA,Fremont,2024,President,1023,2711,80,1319.0
+IA,Greene,2024,President,1603,3211,154,2415.0
+IA,Grundy,2024,President,2019,4998,185,2446.0
+IA,Guthrie,2024,President,1974,4446,186,2553.0
+IA,Hamilton,2024,President,2482,5004,157,3349.0
+IA,Hancock,2024,President,1523,4336,120,1885.0
+IA,Hardin,2024,President,2553,5790,195,3050.0
+IA,Harrison,2024,President,2245,5566,204,2406.0
+IA,Henry,2024,President,2995,6439,239,5367.0
+IA,Howard,2024,President,1619,3157,108,1753.0
+IA,Humboldt,2024,President,1236,3770,129,2104.0
+IA,Ida,2024,President,826,2771,74,1130.0
+IA,Iowa,2024,President,3400,6068,236,3884.0
+IA,Jackson,2024,President,3567,7074,208,4096.0
+IA,Jasper,2024,President,7141,12701,464,8172.0
+IA,Jefferson,2024,President,3788,4353,313,4770.0
+IA,Johnson,2024,President,58846,26087,2174,45692.0
+IA,Jones,2024,President,3942,6820,292,4846.0
+IA,Keokuk,2024,President,1219,3869,94,2332.0
+IA,Kossuth,2024,President,2284,5983,183,3269.0
+IA,Lee,2024,President,5659,10152,500,7460.0
+IA,Linn,2024,President,66358,54237,3155,52176.0
+IA,Louisa,2024,President,1480,3584,114,2126.0
+IA,Lucas,2024,President,1169,3400,107,2192.0
+IA,Lyon,2024,President,1023,5899,124,2181.0
+IA,Madison,2024,President,3008,6864,245,4266.0
+IA,Mahaska,2024,President,2577,8207,233,4642.0
+IA,Marion,2024,President,5928,13289,444,7097.0
+IA,Marshall,2024,President,7134,9815,457,8326.0
+IA,Mills,2024,President,2456,5671,202,3463.0
+IA,Mitchell,2024,President,1943,3736,117,2326.0
+IA,Monona,2024,President,1236,3331,102,1541.0
+IA,Monroe,2024,President,1002,3104,79,1994.0
+IA,Montgomery,2024,President,1508,3486,111,2097.0
+IA,Muscatine,2024,President,8212,11152,509,7852.0
+IA,O'Brien,2024,President,1428,5998,143,2055.0
+IA,Osceola,2024,President,555,2623,67,938.0
+IA,Page,2024,President,2060,5153,206,2847.0
+IA,Palo Alto,2024,President,1338,3576,99,1853.0
+IA,Plymouth,2024,President,3104,10661,319,5708.0
+IA,Pocahontas,2024,President,796,2727,77,1318.0
+IA,Polk,2024,President,140075,112240,5752,88608.0
+IA,Pottawattamie,2024,President,17468,26335,963,15946.0
+IA,Poweshiek,2024,President,4067,5758,244,4216.0
+IA,Ringgold,2024,President,638,2015,58,1231.0
+IA,Sac,2024,President,1289,4100,109,1616.0
+IA,Scott,2024,President,42479,45976,2157,42964.0
+IA,Shelby,2024,President,1811,4600,132,3050.0
+IA,Sioux,2024,President,2626,16053,441,5593.0
+IA,Story,2024,President,26765,21665,1388,17989.0
+IA,Tama,2024,President,3070,5379,236,2230.0
+IA,Taylor,2024,President,666,2381,55,1075.0
+IA,Union,2024,President,1874,4044,123,2783.0
+IA,Van Buren,2024,President,778,2785,92,1157.0
+IA,Wapello,2024,President,4896,9479,322,6095.0
+IA,Warren,2024,President,12712,19486,925,13569.0
+IA,Washington,2024,President,4297,7119,257,5666.0
+IA,Wayne,2024,President,643,2426,93,1289.0
+IA,Webster,2024,President,5641,10850,334,6666.0
+IA,Winnebago,2024,President,1909,3636,123,1745.0
+IA,Winneshiek,2024,President,5321,6427,331,7385.0
+IA,Woodbury,2024,President,16145,25969,1133,21113.0
+IA,Worth,2024,President,1508,2715,90,1087.0
+IA,Wright,2024,President,1770,3853,149,2126.0
+IA,Adair,2022,Governor,761,2333,80,938.0
+IA,Adair,2022,U.S. Senate,887,2279,3,936.0
+IA,Adams,2022,Governor,381,1241,51,536.0
+IA,Adams,2022,U.S. Senate,467,1167,3,516.0
+IA,Allamakee,2022,Governor,1579,4100,115,1896.0
+IA,Allamakee,2022,U.S. Senate,1934,3806,2,1879.0
+IA,Appanoose,2022,Governor,1134,3432,134,1305.0
+IA,Appanoose,2022,U.S. Senate,1349,3357,5,1312.0
+IA,Audubon,2022,Governor,661,1757,33,722.0
+IA,Audubon,2022,U.S. Senate,760,1661,4,717.0
+IA,Benton,2022,Governor,3292,7745,309,2358.0
+IA,Benton,2022,U.S. Senate,3823,7502,21,2361.0
+IA,Black Hawk,2022,Governor,21585,24236,1319,14734.0
+IA,Black Hawk,2022,U.S. Senate,24036,23133,54,14811.0
+IA,Boone,2022,Governor,4065,6813,326,3888.0
+IA,Boone,2022,U.S. Senate,4618,6456,20,3843.0
+IA,Bremer,2022,Governor,3820,6989,281,3217.0
+IA,Bremer,2022,U.S. Senate,4345,6641,6,3173.0
+IA,Buchanan,2022,Governor,2650,5356,211,2227.0
+IA,Buchanan,2022,U.S. Senate,3071,5085,10,2193.0
+IA,Buena Vista,2022,Governor,1299,3745,101,1541.0
+IA,Buena Vista,2022,U.S. Senate,1518,3530,5,1494.0
+IA,Butler,2022,Governor,1429,4501,136,1524.0
+IA,Butler,2022,U.S. Senate,1669,4334,6,1506.0
+IA,Calhoun,2022,Governor,870,3021,89,902.0
+IA,Calhoun,2022,U.S. Senate,1027,2853,6,882.0
+IA,Carroll,2022,Governor,1854,6261,137,2496.0
+IA,Carroll,2022,U.S. Senate,2327,5773,10,2441.0
+IA,Cass,2022,Governor,1299,3864,109,1327.0
+IA,Cass,2022,U.S. Senate,1502,3698,9,1292.0
+IA,Cedar,2022,Governor,2734,4996,208,2376.0
+IA,Cedar,2022,U.S. Senate,3106,4806,5,2371.0
+IA,Cerro Gordo,2022,Governor,7096,9607,394,5697.0
+IA,Cerro Gordo,2022,U.S. Senate,7644,9260,23,5630.0
+IA,Cherokee,2022,Governor,911,3579,87,1519.0
+IA,Cherokee,2022,U.S. Senate,1159,3338,3,1499.0
+IA,Chickasaw,2022,Governor,1292,3570,77,2093.0
+IA,Chickasaw,2022,U.S. Senate,1665,3276,4,2099.0
+IA,Clarke,2022,Governor,824,2494,74,1064.0
+IA,Clarke,2022,U.S. Senate,1005,2332,6,1039.0
+IA,Clay,2022,Governor,1536,4805,133,2434.0
+IA,Clay,2022,U.S. Senate,1795,4578,10,2372.0
+IA,Clayton,2022,Governor,2105,5110,157,1700.0
+IA,Clayton,2022,U.S. Senate,2512,4839,9,1701.0
+IA,Clinton,2022,Governor,6406,10173,315,5753.0
+IA,Clinton,2022,U.S. Senate,7213,9595,15,5722.0
+IA,Crawford,2022,Governor,876,3504,86,1247.0
+IA,Crawford,2022,U.S. Senate,1101,3289,4,1225.0
+IA,Dallas,2022,Governor,19272,24403,934,13668.0
+IA,Dallas,2022,U.S. Senate,20757,23286,60,13525.0
+IA,Davis,2022,Governor,626,2338,65,888.0
+IA,Davis,2022,U.S. Senate,764,2206,3,870.0
+IA,Decatur,2022,Governor,651,2081,61,717.0
+IA,Decatur,2022,U.S. Senate,794,1944,7,700.0
+IA,Delaware,2022,Governor,1871,5632,144,2017.0
+IA,Delaware,2022,U.S. Senate,2210,5423,6,2014.0
+IA,Des Moines,2022,Governor,5184,7929,375,4397.0
+IA,Des Moines,2022,U.S. Senate,5836,7353,17,4310.0
+IA,Dickinson,2022,Governor,2078,6062,144,3090.0
+IA,Dickinson,2022,U.S. Senate,2459,5821,6,3094.0
+IA,Dubuque,2022,Governor,15774,22035,1012,13158.0
+IA,Dubuque,2022,U.S. Senate,18020,20762,41,13196.0
+IA,Emmet,2022,Governor,803,2525,69,863.0
+IA,Emmet,2022,U.S. Senate,935,2391,2,850.0
+IA,Fayette,2022,Governor,2328,5032,178,1982.0
+IA,Fayette,2022,U.S. Senate,2744,4784,8,1993.0
+IA,Floyd,2022,Governor,1953,3657,147,1686.0
+IA,Floyd,2022,U.S. Senate,2247,3465,5,1669.0
+IA,Franklin,2022,Governor,881,2676,65,938.0
+IA,Franklin,2022,U.S. Senate,1025,2558,5,927.0
+IA,Fremont,2022,Governor,600,1987,48,598.0
+IA,Fremont,2022,U.S. Senate,735,1861,4,592.0
+IA,Greene,2022,Governor,1078,2473,81,1394.0
+IA,Greene,2022,U.S. Senate,1218,2340,11,1372.0
+IA,Grundy,2022,Governor,1229,4033,116,1065.0
+IA,Grundy,2022,U.S. Senate,1462,3909,7,1067.0
+IA,Guthrie,2022,Governor,1275,3619,143,1463.0
+IA,Guthrie,2022,U.S. Senate,1549,3448,16,1461.0
+IA,Hamilton,2022,Governor,1704,3914,125,1851.0
+IA,Hamilton,2022,U.S. Senate,1945,3757,5,1842.0
+IA,Hancock,2022,Governor,1009,3302,77,974.0
+IA,Hancock,2022,U.S. Senate,1194,3148,8,965.0
+IA,Hardin,2022,Governor,1793,4645,160,1893.0
+IA,Hardin,2022,U.S. Senate,2044,4539,8,1897.0
+IA,Harrison,2022,Governor,1325,4069,138,994.0
+IA,Harrison,2022,U.S. Senate,1548,3889,26,986.0
+IA,Henry,2022,Governor,1987,4837,139,2808.0
+IA,Henry,2022,U.S. Senate,2261,4602,7,2764.0
+IA,Howard,2022,Governor,1010,2310,68,879.0
+IA,Howard,2022,U.S. Senate,1221,2126,6,863.0
+IA,Humboldt,2022,Governor,796,3016,64,1046.0
+IA,Humboldt,2022,U.S. Senate,931,2896,3,1036.0
+IA,Ida,2022,Governor,468,2239,46,564.0
+IA,Ida,2022,U.S. Senate,588,2130,8,561.0
+IA,Iowa,2022,Governor,2299,5001,179,1976.0
+IA,Iowa,2022,U.S. Senate,2539,4803,15,1934.0
+IA,Jackson,2022,Governor,2278,5260,245,2203.0
+IA,Jackson,2022,U.S. Senate,2816,4816,7,2144.0
+IA,Jasper,2022,Governor,5019,9552,442,4236.0
+IA,Jasper,2022,U.S. Senate,5658,9298,23,4240.0
+IA,Jefferson,2022,Governor,3086,3449,125,3103.0
+IA,Jefferson,2022,U.S. Senate,3214,3263,12,3010.0
+IA,Johnson,2022,Governor,43686,18413,1539,25446.0
+IA,Johnson,2022,U.S. Senate,45416,18245,62,25527.0
+IA,Jones,2022,Governor,2678,5285,213,2356.0
+IA,Jones,2022,U.S. Senate,3041,5118,14,2359.0
+IA,Keokuk,2022,Governor,837,2953,51,783.0
+IA,Keokuk,2022,U.S. Senate,949,2811,6,761.0
+IA,Kossuth,2022,Governor,1592,5030,114,1877.0
+IA,Kossuth,2022,U.S. Senate,1925,4781,9,1874.0
+IA,Lee,2022,Governor,4032,7182,251,3549.0
+IA,Lee,2022,U.S. Senate,4476,6964,13,3534.0
+IA,Linn,2022,Governor,47539,42887,3073,28451.0
+IA,Linn,2022,U.S. Senate,51008,42551,123,28578.0
+IA,Louisa,2022,Governor,864,2578,81,871.0
+IA,Louisa,2022,U.S. Senate,1038,2441,3,850.0
+IA,Lucas,2022,Governor,782,2599,72,1091.0
+IA,Lucas,2022,U.S. Senate,937,2513,10,1101.0
+IA,Lyon,2022,Governor,534,4438,27,638.0
+IA,Lyon,2022,U.S. Senate,662,4277,1,619.0
+IA,Madison,2022,Governor,2077,5307,175,2372.0
+IA,Madison,2022,U.S. Senate,2405,5064,16,2353.0
+IA,Mahaska,2022,Governor,1667,6299,163,2216.0
+IA,Mahaska,2022,U.S. Senate,1936,6049,8,2177.0
+IA,Marion,2022,Governor,3808,10237,319,3549.0
+IA,Marion,2022,U.S. Senate,4341,9799,20,3444.0
+IA,Marshall,2022,Governor,4584,7544,262,4439.0
+IA,Marshall,2022,U.S. Senate,5060,7307,16,4442.0
+IA,Mills,2022,Governor,1487,4034,128,1595.0
+IA,Mills,2022,U.S. Senate,1654,3937,11,1579.0
+IA,Mitchell,2022,Governor,1263,2899,90,1268.0
+IA,Mitchell,2022,U.S. Senate,1479,2761,6,1269.0
+IA,Monona,2022,Governor,718,2555,62,715.0
+IA,Monona,2022,U.S. Senate,879,2376,9,694.0
+IA,Monroe,2022,Governor,635,2266,65,976.0
+IA,Monroe,2022,U.S. Senate,762,2135,6,950.0
+IA,Montgomery,2022,Governor,871,2602,81,841.0
+IA,Montgomery,2022,U.S. Senate,1004,2509,5,837.0
+IA,Muscatine,2022,Governor,4950,7902,379,4293.0
+IA,Muscatine,2022,U.S. Senate,5550,7623,20,4286.0
+IA,O'Brien,2022,Governor,776,4541,79,829.0
+IA,O'Brien,2022,U.S. Senate,972,4361,3,821.0
+IA,Osceola,2022,Governor,245,2018,42,354.0
+IA,Osceola,2022,U.S. Senate,346,1923,3,351.0
+IA,Page,2022,Governor,1192,3796,115,1397.0
+IA,Page,2022,U.S. Senate,1385,3707,12,1399.0
+IA,Palo Alto,2022,Governor,829,2706,67,971.0
+IA,Palo Alto,2022,U.S. Senate,994,2586,6,967.0
+IA,Plymouth,2022,Governor,1643,8027,153,2568.0
+IA,Plymouth,2022,U.S. Senate,2053,7650,13,2510.0
+IA,Pocahontas,2022,Governor,532,2269,59,752.0
+IA,Pocahontas,2022,U.S. Senate,658,2158,4,746.0
+IA,Polk,2022,Governor,100312,85542,5145,53219.0
+IA,Polk,2022,U.S. Senate,107478,83279,377,53536.0
+IA,Pottawattamie,2022,Governor,10318,18152,610,6563.0
+IA,Pottawattamie,2022,U.S. Senate,11173,17785,50,6553.0
+IA,Poweshiek,2022,Governor,2957,4491,180,2397.0
+IA,Poweshiek,2022,U.S. Senate,3174,4325,12,2331.0
+IA,Ringgold,2022,Governor,456,1574,50,583.0
+IA,Ringgold,2022,U.S. Senate,556,1484,3,570.0
+IA,Sac,2022,Governor,754,3135,71,787.0
+IA,Sac,2022,U.S. Senate,914,2999,8,779.0
+IA,Scott,2022,Governor,27530,34604,1608,23220.0
+IA,Scott,2022,U.S. Senate,30655,32955,96,23248.0
+IA,Shelby,2022,Governor,1023,3570,104,1396.0
+IA,Shelby,2022,U.S. Senate,1213,3401,6,1354.0
+IA,Sioux,2022,Governor,1280,12790,120,2097.0
+IA,Sioux,2022,U.S. Senate,1694,12398,15,2086.0
+IA,Story,2022,Governor,19876,16214,882,10433.0
+IA,Story,2022,U.S. Senate,21022,15870,66,10471.0
+IA,Tama,2022,Governor,2053,4389,192,1305.0
+IA,Tama,2022,U.S. Senate,2373,4241,10,1302.0
+IA,Taylor,2022,Governor,405,1850,43,466.0
+IA,Taylor,2022,U.S. Senate,487,1764,4,455.0
+IA,Union,2022,Governor,1278,3180,123,1476.0
+IA,Union,2022,U.S. Senate,1464,3035,7,1455.0
+IA,Van Buren,2022,Governor,568,2189,44,712.0
+IA,Van Buren,2022,U.S. Senate,671,2097,6,701.0
+IA,Wapello,2022,Governor,3397,6822,291,3094.0
+IA,Wapello,2022,U.S. Senate,3837,6601,10,3082.0
+IA,Warren,2022,Governor,8531,14631,675,6796.0
+IA,Warren,2022,U.S. Senate,9634,14052,52,6756.0
+IA,Washington,2022,Governor,2937,5692,176,2619.0
+IA,Washington,2022,U.S. Senate,3235,5450,6,2603.0
+IA,Wayne,2022,Governor,406,1939,38,671.0
+IA,Wayne,2022,U.S. Senate,514,1860,4,673.0
+IA,Webster,2022,Governor,3774,8028,249,3135.0
+IA,Webster,2022,U.S. Senate,4244,7704,17,3129.0
+IA,Winnebago,2022,Governor,1301,2991,107,851.0
+IA,Winnebago,2022,U.S. Senate,1478,2881,3,840.0
+IA,Winneshiek,2022,Governor,3974,5530,173,4535.0
+IA,Winneshiek,2022,U.S. Senate,4477,5094,15,4485.0
+IA,Woodbury,2022,Governor,9053,18982,621,10554.0
+IA,Woodbury,2022,U.S. Senate,10409,18161,66,10591.0
+IA,Worth,2022,Governor,1039,2123,91,606.0
+IA,Worth,2022,U.S. Senate,1183,2031,5,599.0
+IA,Wright,2022,Governor,1071,3105,111,1175.0
+IA,Wright,2022,U.S. Senate,1268,2982,9,1167.0

@@ -15,11 +15,14 @@ from states import LEVELS, PRESETS, RULES, STATES, race_dir, races_for
 from synthetic import make_scenario
 
 st.set_page_config(page_title="Election Needle", layout="wide")
+st.warning("Unofficial, experimental model. These are statistical projections, not election results or race calls. "
+           "Check official state results and news organizations for calls.")
 
 # ---------------------------------------------------------------- data mode first
 mode = st.sidebar.radio("Data", ["Latest published (GitHub)", "Replay demo (synthetic)",
                                  "My data (CSV)", "Live feed"])
 latest_mode = mode.startswith("Latest")
+top = st.sidebar.container()   # published-race list goes here, right under "Data"
 
 # ---------------------------------------------------------------- race picker
 # For published data the race is chosen from the "Published race" list below, so the picker is tucked away.
@@ -237,8 +240,7 @@ elif mode.startswith("Latest"):
 
     from publish import from_json_summary, read_log
 
-    st.sidebar.caption("Reads what the scheduled GitHub job publishes. The race picker doesn't "
-                       "apply here; choose from the Published race list below.")
+    top.caption("Shows what the scheduled GitHub job publishes. Choose the race here.")
     src = st.sidebar.text_input("Raw URL of latest.json (blank = local data/latest.json)", "")
     every = st.sidebar.number_input("Page refresh seconds", 30, 600, 60)
     auto = st.sidebar.checkbox("Auto-refresh", value=True)
@@ -265,10 +267,10 @@ elif mode.startswith("Latest"):
         st.stop()
     waiting = {k: v for k, v in data["races"].items() if not v.get("summary")}
     if waiting:
-        with st.sidebar.expander(f"{len(waiting)} races without a needle yet"):
+        with top.expander(f"{len(waiting)} races without a needle yet"):
             for k, v in waiting.items():
                 st.caption(f"{k}: {v.get('status') or 'no data'}")
-    rid = st.sidebar.selectbox("Published race", list(ready),
+    rid = top.selectbox("Published race", list(ready),
                                format_func=lambda k: f"{ready[k]['meta'].get('state')} - {ready[k]['meta'].get('race')}")
     item = ready[rid]
     st.subheader(f"{item['meta'].get('state')}: {item['meta'].get('race')}")

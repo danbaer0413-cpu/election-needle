@@ -1,0 +1,231 @@
+state,county,year,race,dem_votes,rep_votes,other_votes,early_votes
+SC,Abbeville,2016,President,3741,6763,271,
+SC,Aiken,2016,President,25455,46025,3371,
+SC,Allendale,2016,President,2735,789,68,
+SC,Anderson,2016,President,21097,56232,3154,
+SC,Bamberg,2016,President,3898,2204,112,
+SC,Barnwell,2016,President,4400,4889,196,
+SC,Beaufort,2016,President,32138,42922,3464,
+SC,Berkeley,2016,President,30705,44587,4225,
+SC,Calhoun,2016,President,3573,3787,189,
+SC,Charleston,2016,President,89299,75443,11603,
+SC,Cherokee,2016,President,6092,15167,500,
+SC,Chester,2016,President,6579,7265,348,
+SC,Chesterfield,2016,President,6858,9312,411,
+SC,Clarendon,2016,President,7732,7386,277,
+SC,Colleton,2016,President,7627,9091,533,
+SC,Darlington,2016,President,13888,14989,797,
+SC,Dillon,2016,President,5834,5637,227,
+SC,Dorchester,2016,President,24055,34987,3525,
+SC,Edgefield,2016,President,4491,6842,311,
+SC,Fairfield,2016,President,6945,4027,295,
+SC,Florence,2016,President,26710,29573,1648,
+SC,Georgetown,2016,President,13310,17389,958,
+SC,Greenville,2016,President,74483,127832,12850,
+SC,Greenwood,2016,President,10711,16961,1091,
+SC,Hampton,2016,President,5170,3488,148,
+SC,Horry,2016,President,39410,89288,4222,
+SC,Jasper,2016,President,5956,5187,284,
+SC,Kershaw,2016,President,10330,17542,1123,
+SC,Lancaster,2016,President,13812,23719,1407,
+SC,Laurens,2016,President,8889,16816,861,
+SC,Lee,2016,President,5199,2803,154,
+SC,Lexington,2016,President,35230,80026,6837,
+SC,Marion,2016,President,8569,5444,263,
+SC,Marlboro,2016,President,5954,4267,168,
+SC,Mccormick,2016,President,2479,2652,85,
+SC,Newberry,2016,President,6217,10017,573,
+SC,Oconee,2016,President,7998,24178,1459,
+SC,Orangeburg,2016,President,26318,11931,661,
+SC,Pickens,2016,President,10354,36236,2459,
+SC,Richland,2016,President,108000,52469,8253,
+SC,Saluda,2016,President,2813,5526,225,
+SC,Spartanburg,2016,President,39997,76277,4816,
+SC,Sumter,2016,President,24047,18745,1294,
+SC,Union,2016,President,4729,7061,302,
+SC,Williamsburg,2016,President,9953,4864,237,
+SC,York,2016,President,41593,66754,6010,
+SC,Abbeville,2020,President,4101,8215,117,6838.0
+SC,Aiken,2020,President,32275,51589,1321,44596.0
+SC,Allendale,2020,President,2718,835,40,2409.0
+SC,Anderson,2020,President,27169,67565,1359,31178.0
+SC,Bamberg,2020,President,4010,2417,55,3657.0
+SC,Barnwell,2020,President,4720,5492,109,5617.0
+SC,Beaufort,2020,President,43419,53194,1222,56391.0
+SC,Berkeley,2020,President,45223,57397,1838,57080.0
+SC,Calhoun,2020,President,3905,4305,81,4327.0
+SC,Charleston,2020,President,121485,93297,4075,161272.0
+SC,Cherokee,2020,President,6983,18043,244,10578.0
+SC,Chester,2020,President,6941,8660,156,8200.0
+SC,Chesterfield,2020,President,7431,11297,148,8896.0
+SC,Clarendon,2020,President,8250,8361,122,10222.0
+SC,Colleton,2020,President,8602,10440,241,10106.0
+SC,Darlington,2020,President,15220,16832,365,18687.0
+SC,Dillon,2020,President,6436,6582,83,5996.0
+SC,Dorchester,2020,President,33824,41913,1541,46641.0
+SC,Edgefield,2020,President,4953,8184,167,7081.0
+SC,Fairfield,2020,President,7382,4625,129,6789.0
+SC,Florence,2020,President,31153,32615,742,35728.0
+SC,Georgetown,2020,President,15822,20487,359,20753.0
+SC,Greenville,2020,President,103030,150021,5104,93850.0
+SC,Greenwood,2020,President,12145,19431,430,15370.0
+SC,Hampton,2020,President,5323,3906,76,4796.0
+SC,Horry,2020,President,59180,118821,1743,100347.0
+SC,Jasper,2020,President,7185,7078,131,7580.0
+SC,Kershaw,2020,President,12699,20471,459,18395.0
+SC,Lancaster,2020,President,18937,30312,619,27850.0
+SC,Laurens,2020,President,10159,20004,325,10721.0
+SC,Lee,2020,President,5329,3008,94,4455.0
+SC,Lexington,2020,President,49301,92817,2450,58329.0
+SC,Marion,2020,President,8872,5711,121,8791.0
+SC,Marlboro,2020,President,6290,5044,112,7722.0
+SC,Mccormick,2020,President,2687,2958,52,3848.0
+SC,Newberry,2020,President,6958,11443,230,9281.0
+SC,Oconee,2020,President,10414,29698,556,19684.0
+SC,Orangeburg,2020,President,27295,13603,307,25673.0
+SC,Pickens,2020,President,13645,42907,994,24360.0
+SC,Richland,2020,President,132570,58313,2939,136780.0
+SC,Saluda,2020,President,2963,6210,101,3902.0
+SC,Spartanburg,2020,President,52926,93560,2169,63900.0
+SC,Sumter,2020,President,27379,21000,541,31851.0
+SC,Union,2020,President,4935,8183,139,5626.0
+SC,Williamsburg,2020,President,10289,5532,164,9398.0
+SC,York,2020,President,59008,82727,2315,69783.0
+SC,Abbeville,2024,President,3399,8509,140,6485.0
+SC,Aiken,2024,President,31298,53592,1201,54181.0
+SC,Allendale,2024,President,2165,813,45,1817.0
+SC,Anderson,2024,President,25281,71828,1187,48379.0
+SC,Bamberg,2024,President,3245,2376,73,3293.0
+SC,Barnwell,2024,President,4082,5605,116,5808.0
+SC,Beaufort,2024,President,44002,59123,1278,68821.0
+SC,Berkeley,2024,President,46416,64777,1641,66266.0
+SC,Calhoun,2024,President,3339,4474,101,4376.0
+SC,Charleston,2024,President,111427,99265,3829,151208.0
+SC,Cherokee,2024,President,5939,18697,203,12718.0
+SC,Chester,2024,President,6353,9030,173,9221.0
+SC,Chesterfield,2024,President,6520,11682,189,8481.0
+SC,Clarendon,2024,President,7064,9065,191,10350.0
+SC,Colleton,2024,President,7376,10696,204,10441.0
+SC,Darlington,2024,President,12977,17017,337,18020.0
+SC,Dillon,2024,President,5241,6526,94,5780.0
+SC,Dorchester,2024,President,32489,43839,1436,54719.0
+SC,Edgefield,2024,President,4659,9092,168,8757.0
+SC,Fairfield,2024,President,6277,4792,146,5920.0
+SC,Florence,2024,President,27706,32615,819,38937.0
+SC,Georgetown,2024,President,14965,22326,463,25931.0
+SC,Greenville,2024,President,100074,158541,4701,152375.0
+SC,Greenwood,2024,President,10766,19715,407,17970.0
+SC,Hampton,2024,President,4328,3801,104,4612.0
+SC,Horry,2024,President,62325,141719,1910,130812.0
+SC,Jasper,2024,President,8144,9900,183,12567.0
+SC,Kershaw,2024,President,11826,21289,418,20357.0
+SC,Lancaster,2024,President,20146,33623,658,37890.0
+SC,Laurens,2024,President,8769,21110,334,14104.0
+SC,Lee,2024,President,4505,3078,493,4721.0
+SC,Lexington,2024,President,47815,96965,2123,87382.0
+SC,Marion,2024,President,7316,5906,166,7648.0
+SC,Marlboro,2024,President,5137,4896,119,5960.0
+SC,Mccormick,2024,President,2513,3565,75,4401.0
+SC,Newberry,2024,President,5841,12067,221,9575.0
+SC,Oconee,2024,President,9987,31772,505,24812.0
+SC,Orangeburg,2024,President,22832,13750,388,21555.0
+SC,Pickens,2024,President,13891,45728,832,38734.0
+SC,Richland,2024,President,121110,58019,3282,120644.0
+SC,Saluda,2024,President,2454,6452,108,4616.0
+SC,Spartanburg,2024,President,50710,103032,1855,85815.0
+SC,Sumter,2024,President,23425,21215,530,28515.0
+SC,Union,2024,President,4084,8102,103,6230.0
+SC,Williamsburg,2024,President,8634,5524,172,8008.0
+SC,York,2024,President,59600,88239,2220,104697.0
+SC,Abbeville,2022,Governor,2499,6014,93,
+SC,Abbeville,2022,U.S. Senate,2311,6263,4,
+SC,Aiken,2022,Governor,18083,36070,904,
+SC,Aiken,2022,U.S. Senate,17238,37687,50,
+SC,Allendale,2022,Governor,1235,562,24,
+SC,Allendale,2022,U.S. Senate,1225,585,0,
+SC,Anderson,2022,Governor,16645,46405,741,
+SC,Anderson,2022,U.S. Senate,14471,49091,72,
+SC,Bamberg,2022,Governor,2194,1737,55,
+SC,Bamberg,2022,U.S. Senate,2151,1821,0,
+SC,Barnwell,2022,Governor,2548,3650,71,
+SC,Barnwell,2022,U.S. Senate,2458,3815,4,
+SC,Beaufort,2022,Governor,29412,42107,610,
+SC,Beaufort,2022,U.S. Senate,26475,45307,45,
+SC,Berkeley,2022,Governor,30608,39839,979,
+SC,Berkeley,2022,U.S. Senate,26637,44418,75,
+SC,Calhoun,2022,Governor,2302,3251,83,
+SC,Calhoun,2022,U.S. Senate,2160,3442,10,
+SC,Charleston,2022,Governor,85871,66716,1590,
+SC,Charleston,2022,U.S. Senate,72369,79880,230,
+SC,Cherokee,2022,Governor,3709,12347,157,
+SC,Cherokee,2022,U.S. Senate,3377,12802,12,
+SC,Chester,2022,Governor,3695,5762,126,
+SC,Chester,2022,U.S. Senate,3621,5954,4,
+SC,Chesterfield,2022,Governor,4436,7984,139,
+SC,Chesterfield,2022,U.S. Senate,4235,8299,6,
+SC,Clarendon,2022,Governor,4992,6387,100,
+SC,Clarendon,2022,U.S. Senate,4801,6625,6,
+SC,Colleton,2022,Governor,5239,7160,147,
+SC,Colleton,2022,U.S. Senate,4750,7748,10,
+SC,Darlington,2022,Governor,8338,11541,169,
+SC,Darlington,2022,U.S. Senate,7902,12122,12,
+SC,Dillon,2022,Governor,3521,4345,66,
+SC,Dillon,2022,U.S. Senate,3433,4460,6,
+SC,Dorchester,2022,Governor,21745,27366,695,
+SC,Dorchester,2022,U.S. Senate,18647,30822,55,
+SC,Edgefield,2022,Governor,2797,5920,109,
+SC,Edgefield,2022,U.S. Senate,2693,6121,13,
+SC,Fairfield,2022,Governor,4623,3663,136,
+SC,Fairfield,2022,U.S. Senate,4447,3889,7,
+SC,Florence,2022,Governor,18203,22751,510,
+SC,Florence,2022,U.S. Senate,17185,24129,35,
+SC,Georgetown,2022,Governor,10893,16383,239,
+SC,Georgetown,2022,U.S. Senate,9889,17467,15,
+SC,Greenville,2022,Governor,67408,108879,2991,
+SC,Greenville,2022,U.S. Senate,59508,118718,316,
+SC,Greenwood,2022,Governor,7402,14262,281,
+SC,Greenwood,2022,U.S. Senate,6792,15104,12,
+SC,Hampton,2022,Governor,2912,2667,59,
+SC,Hampton,2022,U.S. Senate,2805,2827,2,
+SC,Horry,2022,Governor,39870,92816,1143,
+SC,Horry,2022,U.S. Senate,36247,97061,66,
+SC,Jasper,2022,Governor,4753,6265,120,
+SC,Jasper,2022,U.S. Senate,4536,6560,4,
+SC,Kershaw,2022,Governor,8079,14033,306,
+SC,Kershaw,2022,U.S. Senate,7367,14945,14,
+SC,Lancaster,2022,Governor,11691,22499,500,
+SC,Lancaster,2022,U.S. Senate,11341,23263,23,
+SC,Laurens,2022,Governor,5796,13825,286,
+SC,Laurens,2022,U.S. Senate,5238,14564,40,
+SC,Lee,2022,Governor,3083,2117,57,
+SC,Lee,2022,U.S. Senate,3029,2210,3,
+SC,Lexington,2022,Governor,33943,64608,1590,
+SC,Lexington,2022,U.S. Senate,29036,70441,113,
+SC,Marion,2022,Governor,4508,3851,87,
+SC,Marion,2022,U.S. Senate,4443,3959,4,
+SC,Marlboro,2022,Governor,3253,3215,82,
+SC,Marlboro,2022,U.S. Senate,3175,3314,9,
+SC,Mccormick,2022,Governor,1764,2766,51,
+SC,Mccormick,2022,U.S. Senate,1753,2827,0,
+SC,Newberry,2022,Governor,4249,8417,174,
+SC,Newberry,2022,U.S. Senate,3776,8971,10,
+SC,Oconee,2022,Governor,7000,21671,356,
+SC,Oconee,2022,U.S. Senate,5984,22977,21,
+SC,Orangeburg,2022,Governor,16490,9507,209,
+SC,Orangeburg,2022,U.S. Senate,16105,10030,16,
+SC,Pickens,2022,Governor,9615,30209,645,
+SC,Pickens,2022,U.S. Senate,8064,32238,43,
+SC,Richland,2022,Governor,84795,41095,1830,
+SC,Richland,2022,U.S. Senate,79368,47100,237,
+SC,Saluda,2022,Governor,1784,4698,82,
+SC,Saluda,2022,U.S. Senate,1606,4941,2,
+SC,Spartanburg,2022,Governor,32128,64042,1307,
+SC,Spartanburg,2022,U.S. Senate,28854,68284,111,
+SC,Sumter,2022,Governor,16065,14304,334,
+SC,Sumter,2022,U.S. Senate,15455,15113,24,
+SC,Union,2022,Governor,2873,5760,86,
+SC,Union,2022,U.S. Senate,2659,6032,2,
+SC,Williamsburg,2022,Governor,5845,3864,95,
+SC,Williamsburg,2022,U.S. Senate,5702,4052,2,
+SC,York,2022,Governor,36386,58552,1693,
+SC,York,2022,U.S. Senate,34590,61753,72,

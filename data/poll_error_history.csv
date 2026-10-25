@@ -1,0 +1,283 @@
+state,year,race,poll_margin,actual_margin,n_polls,rule_used
+IN,2016,Governor,3.0,-6.16,2,tier1
+MO,2016,Governor,1.67,-5.76,3,tier1
+NC,2016,Governor,1.96,0.22,7,tier1
+NH,2016,Governor,-1.79,-2.38,5,tier1
+UT,2016,Governor,-35.48,-39.8,1,thin
+WA,2016,Governor,10.22,8.78,2,tier1
+AK,2016,President,-3.53,-16.77,1,thin
+AR,2016,President,-24.03,-28.57,1,thin
+AZ,2016,President,-3.85,-3.78,4,tier1
+CA,2016,President,27.84,32.25,3,tier1
+CO,2016,President,4.44,5.37,2,tier1
+FL,2016,President,1.22,-1.24,10,tier1
+GA,2016,President,-4.2,-5.32,7,tier1
+IA,2016,President,-4.01,-10.13,3,tier1
+ID,2016,President,-32.05,-36.62,2,tier1
+IL,2016,President,12.77,18.04,1,thin
+IN,2016,President,-12.68,-20.24,2,tier1
+KS,2016,President,-12.64,-22.23,1,thin
+KY,2016,President,-27.27,-31.34,1,thin
+LA,2016,President,-22.73,-20.34,1,thin
+MA,2016,President,37.86,29.31,2,tier1
+ME,2016,President,8.62,3.19,2,tier1+2
+MI,2016,President,6.15,-0.23,3,tier1
+MN,2016,President,10.4,1.67,2,tier1
+MO,2016,President,-10.62,-19.63,4,tier1
+NC,2016,President,1.9,-3.81,9,tier1
+NH,2016,President,3.02,0.4,7,tier1
+NJ,2016,President,12.09,14.57,1,thin
+NM,2016,President,8.28,9.31,2,tier1+2
+NV,2016,President,0.43,2.59,3,tier1
+NY,2016,President,20.55,23.54,2,tier1+2
+OH,2016,President,-3.22,-8.54,4,tier1
+OR,2016,President,4.76,12.31,1,thin
+PA,2016,President,5.42,-0.76,8,tier1
+SC,2016,President,-5.49,-14.93,1,thin
+SD,2016,President,-11.33,-31.94,2,tier1+2
+TX,2016,President,-11.77,-9.43,3,tier1
+US,2016,President,5.91,2.22,17,tier1
+UT,2016,President,-21.06,-24.77,3,tier1
+VA,2016,President,7.26,5.65,5,tier1
+WA,2016,President,17.28,17.57,2,tier1
+WI,2016,President,6.86,-0.82,2,tier1
+AR,2016,U.S. Senate,-23.24,-24.59,1,thin
+AZ,2016,U.S. Senate,-11.83,-13.72,4,tier1
+CO,2016,U.S. Senate,8.32,6.0,2,tier1
+FL,2016,U.S. Senate,-6.87,-7.97,10,tier1
+GA,2016,U.S. Senate,-13.78,-14.35,5,tier1
+IA,2016,U.S. Senate,-25.04,-25.53,3,tier1
+ID,2016,U.S. Senate,-40.74,-40.91,1,thin
+IL,2016,U.S. Senate,19.47,15.93,1,thin
+IN,2016,U.S. Senate,-3.16,-10.26,2,tier1
+KS,2016,U.S. Senate,-27.91,-31.71,1,thin
+KY,2016,U.S. Senate,-10.4,-14.55,1,thin
+MO,2016,U.S. Senate,-0.38,-2.92,3,tier1
+NC,2016,U.S. Senate,-2.4,-5.9,9,tier1
+NH,2016,U.S. Senate,-0.7,0.15,7,tier1
+NV,2016,U.S. Senate,-2.38,2.65,3,tier1
+NY,2016,U.S. Senate,45.65,43.61,1,thin
+OH,2016,U.S. Senate,-20.66,-21.92,4,tier1
+PA,2016,U.S. Senate,3.46,-1.49,8,tier1
+SD,2016,U.S. Senate,-29.59,-43.66,2,tier1+2
+UT,2016,U.S. Senate,-37.15,-43.16,2,tier1
+WA,2016,U.S. Senate,18.95,18.02,2,tier1
+WI,2016,U.S. Senate,2.66,-3.47,2,tier1
+AK,2018,Governor,-0.24,-7.34,1,thin
+AZ,2018,Governor,-15.23,-14.47,5,tier1
+CA,2018,Governor,17.55,23.9,4,tier1
+CT,2018,Governor,5.72,3.31,2,tier1
+FL,2018,Governor,5.03,-0.4,9,tier1
+GA,2018,Governor,-1.27,-1.4,4,tier1
+IA,2018,Governor,-1.44,-2.8,2,tier1
+KS,2018,Governor,0.45,5.57,2,tier1+2
+MA,2018,Governor,-43.63,-33.58,3,tier1
+ME,2018,Governor,8.75,8.19,1,thin
+MI,2018,Governor,10.28,9.85,4,tier1
+MN,2018,Governor,7.95,11.87,2,tier1
+NH,2018,Governor,-4.46,-7.15,2,tier1+2
+NM,2018,Governor,9.88,14.4,2,tier1
+NV,2018,Governor,-0.68,4.31,4,tier1+2
+NY,2018,Governor,16.84,24.43,2,tier1+2
+OH,2018,Governor,1.78,-3.82,2,tier1
+OR,2018,Governor,5.78,6.84,1,thin
+PA,2018,Governor,24.67,17.34,2,tier1
+SD,2018,Governor,-2.17,-3.42,2,tier1
+TN,2018,Governor,-16.94,-21.41,5,tier1
+TX,2018,Governor,-12.11,-13.53,2,tier1
+VT,2018,Governor,-11.36,-15.64,1,thin
+WI,2018,Governor,2.08,1.12,2,tier1
+AZ,2018,U.S. Senate,2.0,2.41,7,tier1
+CT,2018,U.S. Senate,18.46,20.41,2,tier1
+FL,2018,U.S. Senate,3.93,-0.12,9,tier1
+IN,2018,U.S. Senate,3.07,-6.16,3,tier1
+MA,2018,U.S. Senate,28.02,25.04,3,tier1
+MI,2018,U.S. Senate,11.38,6.63,4,tier1
+MN,2018,U.S. Senate,25.58,24.96,2,tier1
+MO,2018,U.S. Senate,-0.88,-5.99,4,tier1
+MS,2018,U.S. Senate,-30.0,-19.42,1,thin
+MT,2018,U.S. Senate,5.56,3.66,2,tier1+2
+ND,2018,U.S. Senate,-9.68,-10.9,1,thin
+NJ,2018,U.S. Senate,10.99,11.54,4,tier1
+NM,2018,U.S. Senate,22.6,27.84,2,tier1
+NV,2018,U.S. Senate,0.58,5.25,4,tier1+2
+NY,2018,U.S. Senate,27.33,34.0,2,tier1+2
+OH,2018,U.S. Senate,8.6,6.84,2,tier1
+PA,2018,U.S. Senate,16.04,13.34,2,tier1
+TN,2018,U.S. Senate,-7.28,-10.94,5,tier1
+TX,2018,U.S. Senate,-4.25,-2.58,2,tier1
+WI,2018,U.S. Senate,10.33,10.84,2,tier1
+WV,2018,U.S. Senate,6.53,3.45,1,thin
+MN,2018,U.S. Senate (special),7.87,11.14,2,tier1
+MO,2020,Governor,-6.38,-16.79,1,thin
+MT,2020,Governor,-3.78,-13.41,2,tier1+2
+NC,2020,Governor,12.5,4.58,5,tier1
+NH,2020,Governor,-25.34,-32.25,2,tier1
+UT,2020,Governor,-31.58,-34.96,1,thin
+AK,2020,President,-9.47,-10.52,1,thin
+AR,2020,President,-34.02,-28.42,1,thin
+AZ,2020,President,0.94,0.3,8,tier1
+CA,2020,President,35.29,29.82,2,tier1
+CO,2020,President,12.5,13.87,1,thin
+FL,2020,President,2.29,-3.39,11,tier1
+GA,2020,President,-0.55,0.23,7,tier1
+IA,2020,President,-0.61,-8.37,7,tier1
+IL,2020,President,18.28,17.32,1,thin
+KS,2020,President,-7.87,-14.98,1,thin
+KY,2020,President,-17.89,-26.4,1,thin
+MA,2020,President,37.71,34.23,2,tier1+2
+ME,2020,President,12.99,9.34,2,tier1
+MI,2020,President,7.39,2.82,8,tier1
+MN,2020,President,8.6,7.28,2,tier1
+MO,2020,President,-5.26,-15.67,1,thin
+MS,2020,President,-14.58,-16.76,1,thin
+MT,2020,President,-5.33,-16.79,2,tier1+2
+NC,2020,President,0.54,-1.37,9,tier1
+NH,2020,President,9.3,7.49,2,tier1
+NJ,2020,President,19.15,16.13,1,thin
+NM,2020,President,12.5,11.03,1,thin
+NV,2020,President,4.21,2.44,2,tier1
+NY,2020,President,29.79,23.44,1,thin
+OH,2020,President,-0.9,-8.15,5,tier1
+PA,2020,President,4.63,1.18,14,tier1
+SD,2020,President,-12.09,-26.86,1,thin
+TX,2020,President,-1.2,-5.66,6,tier1
+US,2020,President,7.18,4.54,12,tier1
+UT,2020,President,-13.64,-21.38,1,thin
+VA,2020,President,12.3,10.31,2,tier1
+WI,2020,President,7.83,0.64,7,tier1
+AK,2020,U.S. Senate,-3.23,-13.36,1,thin
+CO,2020,U.S. Senate,11.58,9.54,1,thin
+GA,2020,U.S. Senate,0.86,-1.82,5,tier1
+IA,2020,U.S. Senate,-0.8,-6.81,7,tier1
+IL,2020,U.S. Senate,26.83,17.12,1,thin
+KS,2020,U.S. Senate,-4.55,-12.03,1,thin
+KY,2020,U.S. Senate,-9.68,-20.35,1,thin
+MA,2020,U.S. Senate,38.58,33.38,2,tier1+2
+ME,2020,U.S. Senate,1.73,-9.21,2,tier1
+MI,2020,U.S. Senate,7.77,1.71,6,tier1
+MN,2020,U.S. Senate,6.7,5.68,2,tier1
+MS,2020,U.S. Senate,-8.33,-10.16,1,thin
+MT,2020,U.S. Senate,-2.61,-10.02,2,tier1+2
+NC,2020,U.S. Senate,4.3,-1.83,7,tier1
+NH,2020,U.S. Senate,17.92,16.03,2,tier1
+NJ,2020,U.S. Senate,26.44,16.62,1,thin
+NM,2020,U.S. Senate,8.33,6.28,1,thin
+TX,2020,U.S. Senate,-6.2,-9.9,5,tier1
+VA,2020,U.S. Senate,20.01,12.1,2,tier1
+AZ,2020,U.S. Senate (special),4.0,2.35,7,tier1
+AK,2022,Governor,-32.43,-35.01,1,thin
+AL,2022,Governor,-40.33,-39.27,1,thin
+AR,2022,Governor,-21.98,-28.28,1,thin
+AZ,2022,Governor,-1.6,0.67,7,tier1
+CA,2022,Governor,21.74,18.36,2,tier1
+CO,2022,Governor,13.33,19.8,2,tier1+2
+CT,2022,Governor,13.64,12.98,2,tier1
+FL,2022,Governor,-12.54,-19.53,3,tier1
+GA,2022,Governor,-7.41,-7.58,10,tier1
+IA,2022,Governor,-15.78,-18.98,2,tier1+2
+IL,2022,Governor,15.36,12.89,3,tier1+2
+KS,2022,Governor,4.96,2.28,1,thin
+MA,2022,Governor,29.72,29.57,2,tier1+2
+ME,2022,Governor,7.38,13.49,2,tier1+2
+MI,2022,Governor,5.66,10.7,5,tier1
+MN,2022,Governor,8.51,7.9,1,thin
+NH,2022,Governor,-19.11,-15.75,4,tier1
+NM,2022,Governor,6.16,6.54,3,tier1
+NV,2022,Governor,-2.56,-1.57,8,tier1
+NY,2022,Governor,7.65,6.4,6,tier1+2
+OH,2022,Governor,-19.23,-25.08,3,tier1
+OK,2022,Governor,-10.13,-14.05,1,thin
+OR,2022,Governor,6.36,3.77,1,thin
+PA,2022,Governor,13.35,15.05,11,tier1
+SD,2022,Governor,-19.67,-27.6,1,thin
+TX,2022,Governor,-9.95,-11.05,2,tier1
+WI,2022,Governor,-0.35,3.44,4,tier1
+AL,2022,U.S. Senate,-34.99,-36.65,1,thin
+AR,2022,U.S. Senate,-35.82,-35.78,1,thin
+AZ,2022,U.S. Senate,2.32,4.98,7,tier1
+CA,2022,U.S. Senate,17.78,22.12,1,thin
+CO,2022,U.S. Senate,8.53,15.04,2,tier1+2
+CT,2022,U.S. Senate,14.36,14.91,2,tier1
+FL,2022,U.S. Senate,-8.75,-16.58,3,tier1
+GA,2022,U.S. Senate,0.28,0.97,10,tier1
+IA,2022,U.S. Senate,-10.69,-12.2,2,tier1+2
+IL,2022,U.S. Senate,14.88,15.58,3,tier1+2
+IN,2022,U.S. Senate,-12.64,-21.5,1,thin
+KS,2022,U.S. Senate,-24.88,-23.66,1,thin
+MO,2022,U.S. Senate,-12.28,-13.57,2,tier1
+NC,2022,U.S. Senate,-2.85,-3.3,2,tier1
+NH,2022,U.S. Senate,3.44,9.25,4,tier1
+NV,2022,U.S. Senate,-2.52,0.81,8,tier1
+NY,2022,U.S. Senate,18.42,14.07,3,tier1+2
+OH,2022,U.S. Senate,-5.65,-6.11,3,tier1
+OK,2022,U.S. Senate,-28.53,-33.4,1,thin
+OR,2022,U.S. Senate,20.19,15.41,1,thin
+PA,2022,U.S. Senate,2.06,5.04,11,tier1
+SD,2022,U.S. Senate,-36.47,-45.4,1,thin
+WA,2022,U.S. Senate,2.6,14.56,2,tier1+2
+WI,2022,U.S. Senate,-3.13,-1.01,4,tier1
+CA,2022,U.S. Senate (special),17.78,21.78,1,thin
+OK,2022,U.S. Senate (special),-23.74,-27.35,1,thin
+MO,2024,Governor,-13.62,-20.86,2,tier1+2
+NC,2024,Governor,16.05,15.58,7,tier1
+NH,2024,Governor,-3.22,-9.59,3,tier1
+PA,2024,Governor,14.29,15.05,1,thin
+UT,2024,Governor,-37.18,-29.98,2,tier1+2
+VT,2024,Governor,-42.86,-54.2,1,thin
+WA,2024,Governor,14.89,11.2,1,thin
+AK,2024,President,-8.51,-14.02,1,thin
+AZ,2024,President,-3.39,-5.56,8,tier1
+CA,2024,President,25.13,20.87,2,tier1
+CO,2024,President,14.58,11.18,1,thin
+FL,2024,President,-7.66,-13.22,3,tier1
+GA,2024,President,-0.27,-2.22,6,tier1
+IA,2024,President,-4.27,-13.48,3,tier1
+MA,2024,President,27.51,25.97,2,tier1
+MD,2024,President,29.93,29.57,2,tier1
+ME,2024,President,10.3,7.05,2,tier1+2
+MI,2024,President,1.57,-1.43,16,tier1
+MN,2024,President,4.51,4.29,2,tier1
+MO,2024,President,-15.44,-18.66,2,tier1+2
+MT,2024,President,-20.09,-20.54,2,tier1
+NC,2024,President,-0.99,-3.24,8,tier1
+NE,2024,President,-15.65,-20.77,2,tier1+2
+NH,2024,President,5.31,2.83,3,tier1
+NJ,2024,President,14.83,6.01,2,tier1+2
+NM,2024,President,6.38,6.13,1,thin
+NV,2024,President,-0.69,-3.16,6,tier1
+NY,2024,President,18.89,12.6,2,tier1
+OH,2024,President,-10.08,-11.29,2,tier1
+PA,2024,President,-0.31,-1.72,17,tier1
+RI,2024,President,14.89,14.11,1,thin
+SD,2024,President,-25.89,-29.92,1,thin
+TX,2024,President,-9.63,-13.88,4,tier1
+US,2024,President,1.19,-1.53,13,tier1
+UT,2024,President,-28.61,-22.22,2,tier1+2
+VA,2024,President,6.5,5.89,3,tier1
+VT,2024,President,34.04,32.78,1,thin
+WA,2024,President,16.13,18.89,1,thin
+WI,2024,President,0.33,-0.81,12,tier1
+WY,2024,President,-44.5,-46.95,1,thin
+AZ,2024,U.S. Senate,3.21,2.45,8,tier1
+CA,2024,U.S. Senate,23.55,17.8,2,tier1
+FL,2024,U.S. Senate,-4.66,-13.01,3,tier1
+GA,2024,U.S. Senate,5.38,0.97,1,thin
+MA,2024,U.S. Senate,23.4,19.8,2,tier1
+MD,2024,U.S. Senate,13.12,12.18,2,tier1
+MI,2024,U.S. Senate,3.81,0.31,16,tier1
+MN,2024,U.S. Senate,14.1,16.32,2,tier1+2
+MO,2024,U.S. Senate,-11.2,-14.17,2,tier1+2
+MT,2024,U.S. Senate,-6.89,-7.24,2,tier1
+NJ,2024,U.S. Senate,18.27,9.84,2,tier1
+NV,2024,U.S. Senate,5.05,1.81,6,tier1
+NY,2024,U.S. Senate,25.24,18.39,2,tier1
+OH,2024,U.S. Senate,-3.57,-3.73,2,tier1
+PA,2024,U.S. Senate,2.59,-0.21,17,tier1
+RI,2024,U.S. Senate,14.89,20.0,1,thin
+TX,2024,U.S. Senate,-4.72,-8.7,4,tier1
+UT,2024,U.S. Senate,-40.75,-32.56,2,tier1+2
+VA,2024,U.S. Senate,10.78,9.0,3,tier1
+WA,2024,U.S. Senate,20.83,18.48,1,thin
+WI,2024,U.S. Senate,2.07,0.92,12,tier1
+WY,2024,U.S. Senate,-48.03,-51.4,1,thin
