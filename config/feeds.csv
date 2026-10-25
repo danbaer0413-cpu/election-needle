@@ -1,30 +1,30 @@
 id,url,fmt,json_records,json_explode,sheet,county_col,dem_col,rep_col,pct_col,cand_col,votes_col,party_col,dem_name,rep_name,notes
-OH-senate,,,,,,,,,,,,,,,
-OH-governor,,,,,,,,,,,,,,,
-MI-senate,,,,,,,,,,,,,,,
-MN-senate,,,,,,,,,,,,,,,
-IA-senate,,,,,,,,,,,,,,,
-KS-senate,,,,,,,,,,,,,,,
-KS-governor,,,,,,,,,,,,,,,
-NE-senate,,,,,,,,,,,,,,,
-NE-governor,,,,,,,,,,,,,,,
-ME-senate,,,,,,,,,,,,,,,
-AK-senate,,,,,,,,,,,,,,,
-TX-senate,,,,,,,,,,,,,,,
-TX-governor,,,,,,,,,,,,,,,
-SC-senate,,,,,,,,,,,,,,,
-MS-senate,,,,,,,,,,,,,,,
-FL-governor,,,,,,,,,,,,,,,
-GA-governor,,,,,,,,,,,,,,,
-NV-governor,,,,,,,,,,,,,,,
-WI-governor,,,,,,,,,,,,,,,
-GA-senate,,,,,,,,,,,,,,,
-ME-governor,,,,,,,,,,,,,,,
-NH-senate,,,,,,,,,,,,,,,
-FL-senate,,,,,,,,,,,,,,,
-SC-governor,,,,,,,,,,,,,,,
-IA-governor,,,,,,,,,,,,,,,
-AK-governor,,,,,,,,,,,,,,,
-MI-governor,,,,,,,,,,,,,,,
-MN-governor,,,,,,,,,,,,,,,
-NH-governor,,,,,,,,,,,,,,,
+OH-senate,,,,,,,,,,,,,,,PORTAL https://liveresults.ohiosos.gov | Secretary of State | verified: Yes
+OH-governor,,,,,,,,,,,,,,,PORTAL https://liveresults.ohiosos.gov | Secretary of State | verified: Yes
+MI-senate,,,,,,,,,,,,,,,PORTAL https://mi.gov/vote | Department of State | verified: Yes
+MN-senate,,,,,,,,,,,,,,,PORTAL https://electionresults.sos.mn.gov | Secretary of State | verified: Agency yes; live URL from memory
+IA-senate,,,,,,,,,,,,,,,PORTAL https://electionresults.iowa.gov | Secretary of State | verified: Agency yes; live URL from memory
+KS-senate,,,,,,,,,,,,,,,PORTAL https://sos.ks.gov | Secretary of State | verified: Page type yes; exact path not confirmed
+KS-governor,,,,,,,,,,,,,,,PORTAL https://sos.ks.gov | Secretary of State | verified: Page type yes; exact path not confirmed
+NE-senate,,,,,,,,,,,,,,,PORTAL https://electionresults.nebraska.gov | Secretary of State | verified: Yes
+NE-governor,,,,,,,,,,,,,,,PORTAL https://electionresults.nebraska.gov | Secretary of State | verified: Yes
+ME-senate,,,,,,,,,,,,,,,"PORTAL https://www.maine.gov/sos/cec/elec/results/index.html | Secretary of State (Bureau of Corporations, Elections & Commissions) | verified: Yes"
+AK-senate,,,,,,,,,,,,,,,PORTAL https://www.elections.alaska.gov/results/ | Division of Elections | verified: Partly
+TX-senate,,,,,,,,,,,,,,,PORTAL https://results.texas-election.com | Secretary of State | verified: Archive yes; live URL from memory
+TX-governor,,,,,,,,,,,,,,,PORTAL https://results.texas-election.com | Secretary of State | verified: Archive yes; live URL from memory
+SC-senate,,,,,,,,,,,,,,,PORTAL https://www.enr-scvotes.org/SC/ | State Election Commission (not SOS) | verified: Yes
+MS-senate,,,,,,,,,,,,,,,PORTAL https://www.sos.ms.gov/elections-voting/election-results | Secretary of State | verified: Agency yes; path from memory
+FL-governor,,,,,,,,,,,,,,,"PORTAL https://floridaelectionwatch.gov | Dept. of State, Division of Elections | verified: Yes"
+GA-governor,,,,,,,,,,,,,,,PORTAL https://results.sos.ga.gov | Secretary of State | verified: Agency page yes; live URL from memory
+NV-governor,,,,,,,,,,,,,,,PORTAL https://silverstateelection.nv.gov | Secretary of State | verified: Yes
+WI-governor,,,,,,,,,,,,,,,PORTAL https://elections.wi.gov/wisconsin-county-election-websites | Wisconsin Elections Commission (not SOS) | verified: Yes
+GA-senate,,,,,,,,,,,,,,,PORTAL https://results.sos.ga.gov | Secretary of State | verified: Agency page yes; live URL from memory
+ME-governor,,,,,,,,,,,,,,,"PORTAL https://www.maine.gov/sos/cec/elec/results/index.html | Secretary of State (Bureau of Corporations, Elections & Commissions) | verified: Yes"
+NH-senate,,,,,,,,,,,,,,,PORTAL https://sos.nh.gov | Secretary of State | verified: Agency yes; results portal not confirmed
+FL-senate,,,,,,,,,,,,,,,"PORTAL https://floridaelectionwatch.gov | Dept. of State, Division of Elections | verified: Yes"
+SC-governor,,,,,,,,,,,,,,,PORTAL https://www.enr-scvotes.org/SC/ | State Election Commission (not SOS) | verified: Yes
+IA-governor,,,,,,,,,,,,,,,PORTAL https://electionresults.iowa.gov | Secretary of State | verified: Agency yes; live URL from memory
+AK-governor,,,,,,,,,,,,,,,PORTAL https://www.elections.alaska.gov/results/ | Division of Elections | verified: Partly
+MI-governor,,,,,,,,,,,,,,,PORTAL https://mi.gov/vote | Department of State | verified: Yes
+MN-governor,,,,,,,,,,,,,,,PORTAL https://electionresults.sos.mn.gov | Secretary of State | verified: Agency yes; live URL from memory
+NH-governor,,,,,,,,,,,,,,,PORTAL https://sos.nh.gov | Secretary of State | verified: Agency yes; results portal not confirmed
