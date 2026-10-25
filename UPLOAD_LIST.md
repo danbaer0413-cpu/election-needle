@@ -8,6 +8,7 @@ New or changed in this round:
 - poll_error_fit.py, POLL_ERROR.md, config/poll_error.json (new); run_update.py, check_setup.py, README.md (changed)
 - backtest_poll_average.py (new, optional), config/fundamentals.json (sd_fund 12), POLL_ERROR.md, FUNDAMENTALS.md (changed)
 - probe_portals.py, config/results_portals.csv, .github/workflows/probe-portals.yml (new); config/feeds.csv (portal notes added), ELECTION_NIGHT.md (changed)
+- maps.py, build_geo.py, .github/workflows/build-geo.yml (new); app.py (Race/Map switch), README.md (changed). After uploading run Actions -> build-geo once so the county map has outlines.
 Earlier round:
 - fundamentals.py, check_setup.py (new)
 - FUNDAMENTALS.md, UPLOAD_LIST.md, README.md

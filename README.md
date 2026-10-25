@@ -114,3 +114,7 @@ A structure-only estimate (2024 lean + generic-ballot swing + small approval nud
 
 ## Historical polling error
 State bias, a global midterm bias and a poll-count-based error SD are applied to every poll average. See POLL_ERROR.md; refit with `python poll_error_fit.py`.
+
+
+## Maps
+The app has a Race / Map switch. The Map view shows the states we model colored by the model's projected winner (pale before votes are counted, solid once they are) and a county map for any race. County outlines are built once: Actions -> build-geo -> Run workflow (creates data/geo/). Alaska has no county map (it reports by district). Colors are projections, not race calls.

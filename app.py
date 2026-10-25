@@ -9,6 +9,7 @@ import requests
 import streamlit as st
 
 from charts import BLUE, RED, history_figure, needle_figure, poll_figure
+from maps import LEGEND, county_map_figure, load_geo, us_map_figure
 from explain import drivers_lines, firewall_lines, inputs_lines, outcome_lines
 from publish import from_json_summary, read_log
 from states import STATES
@@ -80,6 +81,37 @@ except Exception as ex:
 ready = {k: v for k, v in data["races"].items() if v.get("summary")}
 if not ready:
     st.warning("Nothing to show yet - the first update has not produced any needles.")
+    st.stop()
+
+
+# ---------------------------------------------------------------- map view
+view = st.radio("View", ["Race", "Map"], horizontal=True, label_visibility="collapsed", key="view")
+if view == "Map":
+    try:
+        cdf = pd.read_csv("config/candidates.csv")
+        cand = {r.id: (r.dem, r.rep) for r in cdf.itertuples()}
+    except Exception:
+        cand = {}
+    kind = st.radio("Race type", ["Senate", "Governor"], horizontal=True, key="mapkind")
+    names = {k: v[0] for k, v in STATES.items()}
+    st.plotly_chart(us_map_figure(ready, kind.lower(), cand, names), use_container_width=True, config={"displayModeBar": False})
+    st.markdown("".join(f'<span class="chip" style="border-left:12px solid {c}">{l}</span> ' for l, c in LEGEND), unsafe_allow_html=True)
+    st.caption("Colors are the model's projection, not race calls. Pale = nothing counted yet (pre-election forecast); solid = votes are in. "
+               "Tap a state for details.")
+    kind_ids = [k for k in ready if k.endswith("-" + kind.lower())]
+    if kind_ids:
+        pick = st.selectbox("County map for", sorted(kind_ids, key=lambda k: state_name(ready[k]["meta"].get("state"))),
+                            format_func=lambda k: label(ready[k]), key="mapraces")
+        geo, fx = load_geo()
+        st_code = pick.split("-")[0]
+        if geo is None:
+            st.info("County outlines are not built yet. Run the build-geo workflow on GitHub once.")
+        elif st_code == "AK":
+            st.info("Alaska reports by election district, so it has no county map.")
+        else:
+            st.plotly_chart(county_map_figure(ready[pick]["summary"], st_code, geo, fx), use_container_width=True,
+                            config={"displayModeBar": False})
+            st.caption("Counties are colored by projected final margin. Pale counties have under 5% counted.")
     st.stop()
 
 order = sorted(ready, key=lambda k: (state_name(ready[k]["meta"].get("state")), label(ready[k])))
