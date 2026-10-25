@@ -1,0 +1,16 @@
+{
+  "_notes": "Copy entries into races.json. dir holds counties.csv (+ early.csv / results.csv for file feeds). poll_margin and params are optional; params accepts any model.Params field (early_gap, poll_bias, sd_poll, poll_skew, tau_county, ...).",
+  "races": [
+    {
+      "id": "NC-senate", "state": "NC", "race": "U.S. Senate", "level": "Federal",
+      "dir": "data/NC/u-s-senate",
+      "poll_margin": null,
+      "params": {"early_gap": 8.0, "early_final_pct_in": 0.85},
+      "early_feed": {"kind": "url", "url": "https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/2026_11_03/absentee_counts_county_20261103.csv",
+                     "fmt": "csv",
+                     "columns": {"county": "<county column in file>", "early_returned": "<total returned column>"}},
+      "feed": {"kind": "url", "url": "<results feed url>", "fmt": "csv",
+               "county_col": "county", "dem_col": "dem", "rep_col": "rep", "pct_col": null}
+    }
+  ]
+}
