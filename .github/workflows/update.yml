@@ -2,10 +2,13 @@ name: update-needle
 
 on:
   schedule:
-    - cron: "7 */12 * * *"
-    - cron: "*/10 23 3 11 *"
-    - cron: "*/10 0-13 4 11 *"
-  workflow_dispatch: {}
+    # All times UTC. Actions cron is best-effort: runs can start several minutes late.
+    - cron: "7 */12 * * *"      # every 12 hours (disable this after election week)
+    - cron: "17 */3 30-31 10 *"   # live poll checks every 3 hours, Oct 30 - Nov 2
+    - cron: "17 */3 1-2 11 *"
+    - cron: "*/10 23 3 11 *"    # Nov 3, 6-7pm ET
+    - cron: "*/10 0-13 4 11 *"  # Nov 3 7pm ET through Nov 4 ~9am ET
+  workflow_dispatch: {}          # manual "Run workflow" button
 
 permissions:
   contents: write
@@ -29,12 +32,16 @@ jobs:
       - name: Read VoteHub posts (statewide early vote; failure is fine)
         continue-on-error: true
         run: python votehub.py
+      - name: Pull polls from PollResults.org (NYT poll data, CC BY 4.0; failure is fine)
+        if: github.event_name == 'workflow_dispatch' || contains('7 */12 * * *|17 */3 30-31 10 *|17 */3 1-2 11 *', github.event.schedule)
+        continue-on-error: true
+        run: python fetch_polls.py
       - run: python run_update.py
       - name: Commit results
         run: |
           git config user.name "needle-bot"
           git config user.email "needle-bot@users.noreply.github.com"
-          git add data/latest.json data/needle_log.csv data/votehub_latest.csv data/votehub_history.csv data/votehub_unparsed.txt 2>/dev/null || git add data/latest.json data/needle_log.csv
+          git add data/latest.json data/needle_log.csv data/votehub_latest.csv data/votehub_history.csv data/votehub_unparsed.txt data/poll_inputs_auto.csv data/polls_raw data/bsky_raw.json data/bsky_unmatched.txt data/poll_compare.csv 2>/dev/null || git add data/latest.json data/needle_log.csv
           if ! git diff --cached --quiet; then
             git commit -m "needle update"
             git pull --rebase
