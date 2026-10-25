@@ -1,5 +1,9 @@
 # Election Needle
 
+> **Unofficial, experimental model.** Statistical projections only - not election results or race calls. Always check official state results.
+
+**Sources:** county results from MIT Election Data + Science Lab (MEDSL) and state election offices; Georgia Secretary of State; early-vote totals from VoteHub's public posts; polls selected using Silver Bulletin pollster ratings.
+
     pip install -r requirements.txt
     streamlit run app.py
 
@@ -75,3 +79,9 @@ Unit names are matched ignoring case, "County/Parish/Borough", "Saint/St." and h
 - Polling averages: PROMPTS.md Prompt B (history) and Prompt D (2026) use only top-rated pollsters
   (Silver Bulletin grade B+ or better; B/B- only if fewer than 2 qualify). Save Prompt D's output as
   `data/poll_inputs_2026.csv`; `run_update.py` uses it for any race without its own `poll_margin`.
+
+## Automatic polls
+`fetch_polls.py` (run by the workflow every 12 hours) pulls individual Senate/governor polls from
+PollResults.org (poll data from the New York Times, CC BY 4.0, non-commercial; not affiliated with the NYT)
+and writes `data/poll_inputs_auto.csv`. `data/poll_inputs_2026.csv` is a manual override and wins for any
+race listed in it (delete a row to let the automatic number through). Raw responses are kept in `data/polls_raw/`.

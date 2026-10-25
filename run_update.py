@@ -53,7 +53,26 @@ def load_early(cfg: dict, folder: str):
     return _read(os.path.join(folder, f.get("path", "early.csv")))
 
 
-def load_results(cfg: dict, folder: str):
+def load_feedmap(path="config/feeds.csv"):
+    df = _read(path)
+    if df is None or "id" not in df:
+        return {}
+    return {str(r["id"]): r for r in df.to_dict("records") if str(r.get("url", "")).strip() not in ("", "nan")}
+
+
+def load_results(cfg: dict, folder: str, rid: str = "", feedmap=None):
+    """Order: config/feeds.csv URL -> races.json feed -> data/<race>/results.csv (paste/manual). A failing
+    URL falls back to the results.csv file, so a dead feed never blanks the needle."""
+    fm = (feedmap or {}).get(rid)
+    if fm is not None:
+        try:
+            from feeds import load_feed
+            df = load_feed(fm)
+            if df is not None and len(df):
+                return df
+        except Exception as ex:
+            print(f"  feed for {rid} failed ({ex}); falling back to results.csv")
+        return _read(os.path.join(folder, "results.csv"))
     f = cfg.get("feed") or {}
     if f.get("kind") == "url" and f.get("url"):
         raw = fetch_table(f["url"], f.get("fmt", "csv"), sheet=f.get("sheet"))
@@ -61,7 +80,7 @@ def load_results(cfg: dict, folder: str):
                           f.get("rep_col", "rep"), f.get("pct_col"), f.get("long_format"))
     if f.get("kind") == "file":
         return _read(os.path.join(folder, f.get("path", "results.csv")))
-    return None
+    return _read(os.path.join(folder, "results.csv"))
 
 
 def build_params(cfg: dict) -> Params:
@@ -88,10 +107,23 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
             old = {}
     now = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
     # Top-rated-pollster averages (PROMPTS.md Prompt D): used when a race has no poll_margin of its own.
-    pin = _read(cfg.get("poll_inputs", "data/poll_inputs_2026.csv"))
-    pollmap = {}
-    if pin is not None and {"id", "poll_margin"} <= set(pin.columns):
-        pollmap = {str(k): float(v) for k, v in zip(pin["id"], pin["poll_margin"]) if pd.notna(v)}
+    pollmap, auto_m, manual_m = {}, {}, {}
+    # automatic pull first, then the hand-entered file wins where it has a race (manual override)
+    for label, pf, store in (("auto", cfg.get("poll_inputs_auto", "data/poll_inputs_auto.csv"), auto_m),
+                             ("manual", cfg.get("poll_inputs", "data/poll_inputs_2026.csv"), manual_m)):
+        pin = _read(pf)
+        if pin is not None and {"id", "poll_margin"} <= set(pin.columns):
+            store.update({str(k): float(v) for k, v in zip(pin["id"], pin["poll_margin"]) if pd.notna(v)})
+    pollmap.update(auto_m); pollmap.update(manual_m)
+    both = sorted(set(auto_m) & set(manual_m))
+    if both:                                # tell you when the live poll pull and your hand-entered numbers drift apart
+        cmp_rows = [(i, manual_m[i], auto_m[i], round(auto_m[i] - manual_m[i], 2)) for i in both]
+        with open("data/poll_compare.csv", "w", newline="") as cf:
+            cw = csv.writer(cf); cw.writerow(["id", "manual", "auto", "auto_minus_manual"]); cw.writerows(cmp_rows)
+        for i, m_, a_, d_ in cmp_rows:
+            if abs(d_) >= 1.5:
+                print(f"  POLL DRIFT {i}: manual {m_:+.1f} vs live pull {a_:+.1f} (diff {d_:+.1f}); refresh your numbers?")
+    feedmap = load_feedmap(cfg.get("feeds", "config/feeds.csv"))
     races: dict = {}
     new_log = not os.path.exists(log_path)
     with open(log_path, "a", newline="") as lf:
@@ -113,10 +145,14 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
                 continue
             try:
                 early = load_early(r, folder)
-                results = load_results(r, folder)
+                results = load_results(r, folder, rid, feedmap)
                 rr = dict(r)
                 if rr.get("poll_margin") is None and rid in pollmap:
                     rr["poll_margin"] = pollmap[rid]
+                if rr.get("poll_margin") is None and (results is None or not len(results)):
+                    races[rid] = {"meta": meta, "status": "baseline ready, waiting for polls", "checked": now,
+                                  "summary": prev.get("summary"), "as_of": prev.get("as_of")}
+                    continue
                 s = project(counties, early, results, build_params(rr))
                 races[rid] = {"meta": meta, "status": "ok", "checked": now, "as_of": now,
                               "summary": to_json_summary(s)}

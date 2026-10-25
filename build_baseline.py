@@ -27,6 +27,7 @@ import sys
 import numpy as np
 import pandas as pd
 
+from model import norm_name
 from states import race_dir
 
 REQUIRED = ["state", "county", "year", "race", "dem_votes", "rep_votes", "other_votes", "early_votes"]
@@ -39,7 +40,7 @@ def parse_weights(s: str) -> dict:
 def build(hist: pd.DataFrame, state: str, race: str, margin_w: dict, turnout_w: dict,
           growth: float = 1.0, office_bonus: float = 1.5, early_default: float = 0.4,
           regions: pd.DataFrame | None = None,
-          early_pattern: pd.DataFrame | None = None) -> tuple[pd.DataFrame, dict]:
+          early_pattern: pd.DataFrame | None = None, midterm_scale: float = 0.80) -> tuple[pd.DataFrame, dict]:
     miss = [c for c in REQUIRED if c not in hist]
     if miss:
         raise ValueError(f"history is missing columns: {miss}")
@@ -48,6 +49,9 @@ def build(hist: pd.DataFrame, state: str, race: str, margin_w: dict, turnout_w: 
         raise ValueError(f"no rows for state {state}")
     for c in ("dem_votes", "rep_votes", "other_votes", "early_votes"):
         h[c] = pd.to_numeric(h[c], errors="coerce")
+    # one spelling per county: different source files spell some names differently (St. Clair / St Clair)
+    h["_k"] = h["county"].map(norm_name)
+    h["county"] = h.groupby("_k")["county"].transform(lambda s: s.value_counts().index[0])
     h["two"] = h["dem_votes"] + h["rep_votes"]
     h = h[h["two"] > 0].copy()
     h["margin"] = (h["dem_votes"] - h["rep_votes"]) / h["two"] * 100
@@ -71,15 +75,24 @@ def build(hist: pd.DataFrame, state: str, race: str, margin_w: dict, turnout_w: 
 
     # ---- expected votes ------------------------------------------------------------
     t = h[h["year"].isin(turnout_w)].copy()
+    notes["turnout_fallback"] = None
     if t.empty:
-        raise ValueError(f"none of the turnout years {sorted(turnout_w)} are in the history for {state}")
+        # no midterm county results yet: use presidential-year turnout scaled down to a midterm level
+        pres = {y: w for y, w in margin_w.items() if y in set(h["year"]) and y % 4 == 0}
+        if not pres:
+            raise ValueError(f"no turnout years found in the history for {state}")
+        t = h[h["year"].isin(pres)].copy()
+        turnout_w = pres
+        notes["turnout_fallback"] = f"presidential years {sorted(pres)} x {midterm_scale}"
+    else:
+        midterm_scale = 1.0
     # per county-year: the target office if present, else the top of the ticket that year
     def pick(d):
         d = d[d["is_target"]] if d["is_target"].any() else d
         return d["two"].max()
     ty = t.groupby(["county", "year"]).apply(pick, include_groups=False).reset_index(name="two")
     ty["w"] = ty["year"].map(turnout_w)
-    exp_votes = ty.groupby("county").apply(lambda d: np.average(d["two"], weights=d["w"]) * growth,
+    exp_votes = ty.groupby("county").apply(lambda d: np.average(d["two"], weights=d["w"]) * growth * midterm_scale,
                                            include_groups=False)
 
     # ---- early share ---------------------------------------------------------------
@@ -150,6 +163,8 @@ if __name__ == "__main__":
     print("Statewide margin (D-R, two-party) per contest found - compare with certified results:")
     for y, rc, n, mg in sorted(notes["contests"]):
         print(f"  {y} {rc:22s} {n:3d} units  {mg:+.2f}")
+    if notes.get("turnout_fallback"):
+        print(f"NOTE: no midterm county results, so expected votes use {notes['turnout_fallback']}. Add 2018/2022 results to improve.")
     print(f"Baseline statewide margin from weights: {notes['baseline_statewide_margin']:+.2f}; "
           f"expected two-party votes {notes['expected_two_party_votes']:,}; "
           f"early share from data for {notes['early_share_from_data']}/{len(table)} units "
