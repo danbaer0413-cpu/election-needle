@@ -6,8 +6,8 @@ MN-senate,3.15,4,"tier1,35d",InsiderAdvantage;Mason-Dixon Polling & Strategy;Ras
 IA-senate,2.22,4,tier1,Suffolk University;Emerson College;Marist College;InsiderAdvantage,2026-10-04,2026-10-25
 KS-senate,-0.04,5,"tier1+2,60d",co/efficient;Emerson College;Siena;YouGov;InsiderAdvantage,2026-08-26,2026-10-25
 KS-governor,-5.13,4,"tier1+2,60d",co/efficient;Emerson College;The New York Times/Siena College;YouGov,2026-08-26,2026-10-25
-NE-senate,-0.44,3,"tier1+2,60d",SurveyUSA;co/efficient;YouGov,2026-08-26,2026-10-25
-NE-governor,-3.49,3,"tier1+2,60d",SurveyUSA;co/efficient;YouGov,2026-08-26,2026-10-25
+NE-senate,2.56,4,"tier1+2,60d",SurveyUSA;co/efficient;YouGov;Concord,2026-08-26,2026-10-25
+NE-governor,-1.26,4,"tier1+2,60d",SurveyUSA;co/efficient;YouGov;Concord,2026-08-26,2026-10-25
 ME-senate,2.02,5,tier1,Marist College;Rasmussen;Suffolk University;InsiderAdvantage;Beacon Research/Shaw & Co. Research,2026-10-04,2026-10-25
 AK-senate,2.44,4,"tier1+2,60d",Alaska Survey Research;co/efficient;The New York Times/Siena College;InsiderAdvantage,2026-08-26,2026-10-25
 TX-senate,1.11,6,tier1,ReconMR/Siena Research Institute;Marist College;InsiderAdvantage;Emerson College;Beacon Research/Shaw & Co. Research;Rasmussen,2026-10-04,2026-10-25
