@@ -94,6 +94,8 @@ def parse_post(post, cands):
         d, r = _pct_for(t, c["dem"]), _pct_for(t, c["rep"])
         if d is None or r is None or not (5 <= d <= 90 and 5 <= r <= 90) or d + r > 100:
             continue
+        if c["id"] == "AK-governor" and d + r < 90:
+            continue        # first-round numbers (several Republicans) are not a head-to-head: only final-round / two-way posts
         m = SAMPLE.search(t)
         n = float((m.group(1) or m.group(2)).replace(",", "")) if m else 600.0
         if not pollster:

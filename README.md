@@ -92,3 +92,10 @@ race listed in it (delete a row to let the automatic number through). Raw respon
   "what's been inputted". Built for phones: one column, no sidebar. The URL keeps the race (`?race=OH-senate`) so you can bookmark or share it.
   Auto-refresh and a custom data URL are under "Settings" at the bottom.
 - `app_advanced.py`: the full version (every model control, replay demo, your own CSVs, live feed). Run it locally with `streamlit run app_advanced.py`.
+
+## How many polls the auto average uses
+Goal: at least 4 polls per race (`MIN_POLLS` in `fetch_polls.py`). It tries, in order: B+ or better in the last 21 days, then 35 days,
+then adds B and B- pollsters, then 60 days, then 90 days. It stops at the first step with 4+ polls; if none gets there it uses the step
+with the most. One (latest) poll per firm, weighted by sqrt(sample) and faded after 14 days. Unrated pollsters never count.
+`rule_used` in `data/poll_inputs_auto.csv` shows which step was used (e.g. `tier1+2,60d`). Set `ALLOW_LOWER = True` to let very thin races
+(like Mississippi) also use B/C and C+ pollsters as a last resort.

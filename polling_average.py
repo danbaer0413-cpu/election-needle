@@ -12,7 +12,7 @@ Method (kept simple on purpose, so every number can be explained):
              quality   from Silver Bulletin's Predictive Plus-Minus (pm, expected extra points of error; lower = better):
                        (4.6 / (4.6 + pm))^2, so the best firms (pm about -1.1) count 1.7, an average firm 1.0, a weak one (pm +1.3) 0.6.
                        Grade table used only if pm is missing: A+/A 1.0, A- .9, A/B .85, B+ .8, B .6, B- .5, B/C .4, C+ .3, C .25, C/D .15,
-                       D .1; unrated 0.35; F (banned or worst) 0
+                       D .1; unrated pollsters are EXCLUDED (no Silver Bulletin rating = not used); F / banned 0
              sample    sqrt(n/600), capped 0.7 - 1.6
              recency   exp(-age/10 days)   (a 10-day-old poll counts about 37%)
              repeats   a pollster with k recent polls: each counts 1/sqrt(k), so one firm cannot dominate
@@ -32,7 +32,7 @@ import pandas as pd
 
 GRADE_W = {"A+": 1.0, "A": 1.0, "A-": 0.9, "A/B": 0.85, "B+": 0.8, "B": 0.6, "B-": 0.5, "B/C": 0.4, "C+": 0.3,
            "C": 0.25, "C/D": 0.15, "D+": 0.1, "D": 0.1, "D-": 0.1, "F": 0.0}
-TAU, SIGMA, UNRATED = 10.0, 4.4, 0.35
+TAU, SIGMA, UNRATED = 10.0, 4.4, 0.0
 
 
 def prepare(polls: pd.DataFrame, grades: pd.DataFrame | None, match) -> pd.DataFrame:
@@ -54,6 +54,7 @@ def prepare(polls: pd.DataFrame, grades: pd.DataFrame | None, match) -> pd.DataF
         pm = pm_by.get(k)
         pms.append(float(pm) if g is not None and pm is not None and pd.notna(pm) else None)
     p["key"], p["grade"], p["bias"], p["pm"] = keys, gr, bs, pms
+    p = p[p["grade"].notna() & (p["grade"] != "F")].copy()            # unrated or banned: left out entirely, dots included
     p["adj"] = p["margin"] - 0.5 * p["bias"]
     return p
 

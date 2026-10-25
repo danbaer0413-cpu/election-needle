@@ -60,6 +60,11 @@ def _last(name):
     return re.sub(r"[^a-z]", "", str(name).lower().replace("jr.", "").split()[-1] if str(name).strip() else "")
 
 
+def _same(ln, want):
+    """Surname match; 'kreiss' also matches 'kreisstomkins' (lets one short form cover spelling variants)."""
+    return ln == want or (len(want) >= 5 and ln.startswith(want))
+
+
 def parse_poll(p, cand=None):
     """PollResults.org poll -> dict(pollster,end,n,d,r) or None.
     Schema (seen in data/polls_raw): poll{pollster,endDate 'M/D/YY',partisan,internal,hypothetical,questions[]}, each
@@ -82,12 +87,16 @@ def parse_poll(p, cand=None):
             if pct is None or "generic" in name.lower() or "generic" in str(a.get("answer") or "").lower():
                 continue
             ln = _last(name)
-            if cand and ln == cand["dem"]:
+            if cand and _same(ln, cand["dem"]):
                 d = max(d or 0, float(pct))
-            elif cand and ln == cand["rep"]:
+            elif cand and _same(ln, cand["rep"]):
                 r = max(r or 0, float(pct))
-            elif not cand or (ln not in (cand["dem"], cand["rep"])):
-                pass
+        if cand and cand.get("sum"):                       # several same-party candidates in round 1: add them up
+            ans = [a for a in q.get("answers") or [] if a.get("pct") is not None and "generic" not in str(a.get("candidateName")).lower()]
+            ds = sum(float(a["pct"]) for a in ans if str(a.get("party")).upper().startswith("D"))
+            rs = sum(float(a["pct"]) for a in ans if str(a.get("party")).upper().startswith("R"))
+            if ds and rs:
+                d, r = ds, rs
         if cand is None or d is None or r is None:         # fall back to party codes (largest candidate per party)
             if cand is not None and (d is None) != (r is None):
                 continue                                    # one of our two candidates is missing: wrong matchup
@@ -147,32 +156,49 @@ def grade_for(name, grades):
     return _match(name, grades)[1]
 
 
-def average(polls, days, grades, _retry=True):
+MIN_POLLS = 4                                  # aim for this many polls per race before settling
+STAGES = [(21, "t1"), (35, "t1"), (35, "t12"), (60, "t12"), (90, "t12")]   # (window days, grades allowed), tried in order
+ALLOW_LOWER = False                            # True: as a last resort in very thin races also allow B/C and C+ (provisional/weak)
+LOWER = {"B/C", "C+"}
+
+
+def _avg_stage(allp, days, tiers, grades):
     cut = (dt.date.today() - dt.timedelta(days=days)).isoformat()
-    allp = polls
-    polls = [p for p in polls if p["end"] >= cut]
     latest = {}
-    for p in sorted(polls, key=lambda x: x["end"]):
-        latest[_match(p["pollster"], grades)[0]] = p       # same firm under different names counts once
+    for p in sorted([p for p in allp if p["end"] >= cut], key=lambda x: x["end"]):
+        latest[_match(p["pollster"], grades)[0]] = p        # one poll per firm (its latest), even under different names
     use = list(latest.values())
-    rule = "unrated"
     if grades:
-        t1 = [p for p in use if grade_for(p["pollster"], grades) in GOOD]
-        t2 = [p for p in use if grade_for(p["pollster"], grades) in OK2]
-        if len(t1) >= 2: use, rule = t1, "tier1"
-        elif t1 or t2: use, rule = t1 + t2, "tier1+2"
-        else: use, rule = [], "none"
-    if not use or (len(use) < 2 and _retry):                 # sparse race: widen the window once, to 35 days, and say so
-        wide = average(allp, max(days, 35), grades, _retry=False) if days < 35 else None
-        if wide and wide["n_polls"] > len(use):
-            wide["rule_used"] += f",{max(days, 35)}d"
-            return wide
+        ok = GOOD if tiers == "t1" else GOOD | OK2 | (LOWER if tiers == "t3" else set())
+        use = [p for p in use if grade_for(p["pollster"], grades) in ok]
     if not use:
         return None
-    w = [math.sqrt(p["n"]) for p in use]
+    today = dt.date.today()
+    w = []
+    for p in use:                                           # sqrt(sample), faded after two weeks (half-life 14 days)
+        age = (today - dt.date.fromisoformat(p["end"])).days
+        w.append(math.sqrt(p["n"]) * 0.5 ** (max(0, age - 14) / 14))
     m = sum(wi * (p["d"] - p["r"]) / (p["d"] + p["r"]) * 100 for wi, p in zip(w, use)) / sum(w)
-    return dict(poll_margin=round(m, 2), n_polls=len(use), rule_used=rule, pollsters=";".join(p["pollster"] for p in use),
-                window_start=cut, window_end=dt.date.today().isoformat())
+    names = {"t1": "tier1", "t12": "tier1+2", "t3": "tier1+2+3"}
+    rule = names[tiers] if grades else "unrated"
+    return dict(poll_margin=round(m, 2), n_polls=len(use), rule_used=rule + ("" if days <= 21 else f",{days}d"),
+                pollsters=";".join(p["pollster"] for p in use), window_start=cut, window_end=today.isoformat())
+
+
+def average(polls, days, grades, min_polls=MIN_POLLS):
+    """Widen step by step until we have min_polls: B+ or better in 21 days -> 35 days -> add B/B- -> 60 days -> 90 days.
+    If no step reaches min_polls, use the step with the most polls (ties: the tighter one). Unrated pollsters never count."""
+    stages = [(days, "t1")] + [x for x in STAGES[1:]]
+    if ALLOW_LOWER:
+        stages.append((90, "t3"))
+    best = None
+    for d, t in stages:
+        r = _avg_stage(polls, d, t, grades)
+        if r and r["n_polls"] >= min_polls:
+            return r
+        if r and (best is None or r["n_polls"] > best["n_polls"]):
+            best = r
+    return best
 
 
 def main():
@@ -199,7 +225,7 @@ def main():
     try:
         import pandas as pd
         for _, c in pd.read_csv('config/candidates.csv').iterrows():
-            cmap[c['id']] = dict(dem=_last(c['dem']), rep=_last(c['rep']))
+            cmap[c['id']] = dict(dem=_last(c['dem']), rep=_last(c['rep']), sum=(c['id'] == 'AK-governor'))
     except Exception as ex:
         print('candidates.csv not read:', ex)
     rows, parsed_any, ungraded, allrows = [], False, set(), []
