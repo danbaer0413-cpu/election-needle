@@ -55,4 +55,4 @@ GA, MI, NV, WI, TX, OH, NH, ME, AK, IA, KS, NE, then the safe races.
 No feed has been tried against a live state site. The adapter has been tested with fake wide CSV, long CSV
 (with party) and nested JSON files, and the paste tool with a fake table, all through the full model.
 Alaska reports by election district; the baseline units are those districts, so match on those names.
-Maine and Alaska first-round counts exclude ranked-choice transfers; the needle shows the model's estimate of them.
+Ranked-choice: Maine uses it for the Senate general only (the governor general is plurality, so ME-governor has no transfers). Alaska uses it for both Senate and governor. First-round counts exclude transfers; the needle shows the model's estimate of them, and Alaska's tabulation is scheduled for Nov 18 if no one tops 50%. Alaska Ballot Measure 2 (repeal of RCV) is on the ballot but does not change how this election is counted.

@@ -54,16 +54,64 @@ def parse_post(text: str) -> dict | None:
             "rating": rating.group(1).strip() if rating else "", "day": day.group(1) if day else ""}
 
 
-def fetch_posts(actor="votehub.com", limit=100, timeout=30) -> list[str]:
+API = "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed"
+
+
+def _record(i) -> dict:
+    p = i["post"]; emb = p.get("embed") or {}
+    imgs = emb.get("images") or (emb.get("media") or {}).get("images") or []
+    return {"uri": p.get("uri", ""), "created": p["record"].get("createdAt", ""), "text": p["record"].get("text", ""),
+            "alt": " | ".join(x.get("alt", "") for x in imgs if x.get("alt")),
+            "link": ((emb.get("external") or {}).get("title", ""))}
+
+
+def fetch_records(actor="votehub.com", pages=1, limit=100, timeout=30) -> list[dict]:
+    """Posts with date, image alt text (results are often posted as pictures) and link title. pages > 1 walks back in time."""
     import requests
-    r = requests.get("https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed",
-                     params={"actor": actor, "limit": limit, "filter": "posts_no_replies"}, timeout=timeout)
-    r.raise_for_status()
-    return [i["post"]["record"].get("text", "") for i in r.json().get("feed", [])]
+    out, cursor = [], None
+    for _ in range(pages):
+        params = {"actor": actor, "limit": limit, "filter": "posts_no_replies"}
+        if cursor:
+            params["cursor"] = cursor
+        r = requests.get(API, params=params, timeout=timeout)
+        r.raise_for_status()
+        j = r.json()
+        out += [_record(i) for i in j.get("feed", [])]
+        cursor = j.get("cursor")
+        if not cursor:
+            break
+    return out
+
+
+def fetch_posts(actor="votehub.com", limit=100, timeout=30) -> list[str]:
+    return [r["text"] for r in fetch_records(actor, 1, limit, timeout)]
+
+
+def archive(records, path="data/votehub_raw.jsonl", keep=3000):
+    """Append every new post (any topic) so election-night posts are kept even if the parser does not understand them yet."""
+    import json
+    seen, rows = set(), []
+    if os.path.exists(path):
+        for line in open(path):
+            try:
+                r = json.loads(line); rows.append(r); seen.add(r["uri"])
+            except Exception:
+                pass
+    new = [r for r in records if r["uri"] and r["uri"] not in seen]
+    rows = (rows + new)[-keep:]
+    with open(path, "w") as f:
+        f.write("\n".join(json.dumps(r) for r in rows) + ("\n" if rows else ""))
+    return len(new)
 
 
 def run(out="data/votehub_latest.csv", unparsed="data/votehub_unparsed.txt", texts=None):
-    texts = texts if texts is not None else fetch_posts()
+    if texts is None:
+        recs = fetch_records()
+        try:
+            archive(recs)
+        except Exception as ex:
+            print("could not archive posts:", ex)
+        texts = [r["text"] + (("\n" + r["alt"]) if r["alt"] and r["alt"] not in r["text"] else "") for r in recs]
     rows, bad = [], []
     for t in texts:
         r = parse_post(t)

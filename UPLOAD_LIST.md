@@ -9,6 +9,8 @@ New or changed in this round:
 - backtest_poll_average.py (new, optional), config/fundamentals.json (sd_fund 12), POLL_ERROR.md, FUNDAMENTALS.md (changed)
 - probe_portals.py, config/results_portals.csv, .github/workflows/probe-portals.yml (new); config/feeds.csv (portal notes added), ELECTION_NIGHT.md (changed)
 - maps.py, build_geo.py, .github/workflows/build-geo.yml (new); app.py (Race/Map switch), README.md (changed). After uploading run Actions -> build-geo once so the county map has outlines.
+- config/races.json (ME-governor now plurality; AK-governor now ranked-choice), ELECTION_NIGHT.md (changed)
+- votehub.py (now archives every VoteHub post to data/votehub_raw.jsonl), votehub_samples.py and .github/workflows/votehub-samples.yml (new), .github/workflows/update.yml (commits the archive)
 Earlier round:
 - fundamentals.py, check_setup.py (new)
 - FUNDAMENTALS.md, UPLOAD_LIST.md, README.md
