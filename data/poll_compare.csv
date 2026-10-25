@@ -1,0 +1,14 @@
+id,manual,auto,auto_minus_manual
+FL-governor,-4.88,-8.28,-3.4
+IA-senate,0.87,1.8,0.93
+KS-governor,-4.39,-3.3,1.09
+KS-senate,1.08,3.23,2.15
+ME-governor,12.81,12.84,0.03
+ME-senate,2.38,3.08,0.7
+MI-senate,2.99,1.54,-1.45
+NE-governor,-3.82,-1.15,2.67
+NE-senate,-0.53,1.05,1.58
+OH-governor,4.29,3.88,-0.41
+OH-senate,3.66,3.29,-0.37
+TX-governor,-2.82,-3.19,-0.37
+TX-senate,2.53,2.88,0.35

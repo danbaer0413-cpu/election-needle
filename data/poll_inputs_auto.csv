@@ -1,0 +1,14 @@
+id,poll_margin,n_polls,rule_used,pollsters,window_start,window_end
+OH-senate,3.29,3,tier1+2,Marist;YouGov;co/efficient,2026-10-04,2026-10-25
+OH-governor,3.88,3,tier1+2,Marist;YouGov;co/efficient,2026-10-04,2026-10-25
+MI-senate,1.54,2,tier1+2,Marist;YouGov,2026-10-04,2026-10-25
+IA-senate,1.8,3,tier1,Suffolk;Emerson;Marist,2026-10-04,2026-10-25
+KS-senate,3.23,1,tier1+2,YouGov,2026-10-04,2026-10-25
+KS-governor,-3.3,1,tier1+2,YouGov,2026-10-04,2026-10-25
+NE-senate,1.05,1,tier1+2,YouGov,2026-10-04,2026-10-25
+NE-governor,-1.15,1,tier1+2,YouGov,2026-10-04,2026-10-25
+ME-senate,3.08,2,tier1,Marist;Suffolk,2026-10-04,2026-10-25
+TX-senate,2.88,3,tier1,Siena;Marist;Emerson,2026-10-04,2026-10-25
+TX-governor,-3.19,3,tier1,Siena;Marist;Emerson,2026-10-04,2026-10-25
+FL-governor,-8.28,2,tier1+2,Mason-Dixon;YouGov,2026-10-04,2026-10-25
+ME-governor,12.84,2,tier1,Marist;Suffolk,2026-10-04,2026-10-25
