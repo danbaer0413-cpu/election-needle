@@ -1,0 +1,121 @@
+"""Plain-language explanation of a projection: what was inputted, what moves the needle."""
+from __future__ import annotations
+
+import pandas as pd
+
+LABELS = {
+    "polls": "Polling prior",
+    "no polls": "No-poll prior",
+    "early party reg": "Early vote: party registration",
+    "early geography": "Early vote: where ballots are coming from",
+    "counted": "Counted votes",
+}
+TIER_NOTE = {"Solid D": "Solid D", "Lean D": "Lean D", "Toss-up": "Toss-up",
+             "Lean R": "Lean R", "Solid R": "Solid R"}
+
+
+def _votes(x: float) -> str:
+    return f"{x:+,.0f}"
+
+
+def _tiers(s: dict) -> pd.DataFrame:
+    t = s.get("tiers")
+    return t if isinstance(t, pd.DataFrame) else pd.DataFrame(t or [])
+
+
+def inputs_lines(s: dict) -> list[str]:
+    i = s.get("inputs") or {}
+    if not i:
+        return ["No input summary available."]
+    L = []
+    if i.get("poll_margin") is None:
+        L.append("**Polls:** none entered, so the starting point is the baseline with a wide range.")
+    else:
+        extra = []
+        if i.get("poll_bias"):
+            extra.append(f"history-based bias {i['poll_bias']:+.1f}")
+        if i.get("poll_skew"):
+            extra.append(f"skew shape {i['poll_skew']:+.1f}")
+        L.append(f"**Polls:** average margin {i['poll_margin']:+.1f} (Dem minus GOP), polling-error "
+                 f"spread {i['sd_poll']:.1f}" + (f", {', '.join(extra)}" if extra else "") + ".")
+    L.append(f"**Baseline:** statewide margin {i['baseline_margin']:+.1f} built from {i['units']} reporting units.")
+    if i["units_with_early"]:
+        pct = i["early_returned"] / max(i["early_expected_final"], 1) * 100
+        kind = "party registration and geography" if i["early_party_data"] else "geography only (no party data)"
+        L.append(f"**Early/mail vote:** {i['early_returned']:,.0f} ballots returned in {i['units_with_early']} units, "
+                 f"about {pct:.0f}% of the expected final early vote; signals used: {kind}. "
+                 f"Turnout adjustment x{i['turnout_mult']:.2f}.")
+        L.append(f"**Early vs Election Day gap assumed:** {i['early_gap']:.1f} points more Democratic; "
+                 f"{'early votes are reported first' if i['early_first'] else 'early and Election Day votes are mixed'}.")
+    else:
+        L.append("**Early/mail vote:** none loaded.")
+    if i["counted"] > 0:
+        L.append(f"**Counted:** {i['counted']:,.0f} votes, {i['counted'] / max(i['expected_total'], 1) * 100:.0f}% of "
+                 f"expected, {i['units_reporting']} units reporting ({i['units_final']} complete).")
+    else:
+        L.append("**Counted:** nothing yet.")
+    if i.get("rcv"):
+        L.append(f"**Ranked-choice:** other candidates hold {i['third_share'] * 100:.1f}% of first-round ballots; "
+                 f"{i['rcv_to_d'] * 100:.0f}% assumed to end with D, {i['rcv_to_r'] * 100:.0f}% with R, "
+                 f"{max(1 - i['rcv_to_d'] - i['rcv_to_r'], 0) * 100:.0f}% exhausted.")
+    if i.get("runoff_rule"):
+        L.append(f"**Runoff rule:** a candidate needs a majority of all ballots; other candidates hold "
+                 f"{i['third_share'] * 100:.1f}%.")
+    warn = []
+    if not i["units_with_early"] and i["counted"] == 0:
+        warn.append("No early-vote or results data yet: this is only the polling prior and baseline.")
+    if i["units_with_early"] and not i["early_party_data"]:
+        warn.append("No party registration on the early file, so the early signal is weaker.")
+    if i["poll_margin"] is None:
+        warn.append("No polling average entered.")
+    return L + [f":warning: {w}" for w in warn]
+
+
+def drivers_lines(s: dict) -> list[str]:
+    L = [f"Estimated swing vs baseline: **{s['swing']:+.1f}** (±{s['swing_sd']:.1f})."]
+    for d in sorted(s.get("drivers") or [], key=lambda d: -d["weight"]):
+        L.append(f"- {LABELS.get(d['source'], d['source'])}: points to {d['swing']:+.1f}, "
+                 f"{d['weight']:.0f}% of the estimate")
+    i = s.get("inputs") or {}
+    if i:
+        out = i["outstanding_share"]
+        L.append(f"{out * 100:.0f}% of the expected vote is still out, so a 1-point miss in how it breaks "
+                 f"moves the final margin about {out:.2f} points.")
+    return L
+
+
+def firewall_lines(s: dict) -> list[str]:
+    t = _tiers(s)
+    if t.empty:
+        return ["No unit breakdown yet."]
+    c, r = t["counted_net"].sum(), t["remaining_net"].sum()
+    L = [f"Net votes (Dem minus GOP): counted **{_votes(c)}**, still expected from outstanding votes "
+         f"**{_votes(r)}**, projected final **{_votes(c + r)}**."]
+    for row in t.itertuples():
+        if row.remaining > 0:
+            L.append(f"- **{TIER_NOTE.get(row.tier, row.tier)} firewall:** {_votes(row.remaining_net)} net votes expected "
+                     f"from {row.remaining:,.0f} outstanding votes in {row.units} units "
+                     f"(counted so far {_votes(row.counted_net)}).")
+    tab = s.get("table")
+    if isinstance(tab, pd.DataFrame) and len(tab):
+        top = tab.sort_values("remaining", ascending=False).head(3)
+        bits = [f"{x.county} ({x.remaining:,.0f} out, projected {x.proj_margin:+.1f})" for x in top.itertuples()
+                if x.remaining > 0]
+        if bits:
+            L.append("Biggest outstanding piles: " + "; ".join(bits) + ".")
+    return L
+
+
+def outcome_lines(s: dict) -> list[str]:
+    L = []
+    o = s.get("outcome")
+    if o:
+        L.append(f"Majority rule: Dem wins outright {o['p_d_outright'] * 100:.0f}%, GOP wins outright "
+                 f"{o['p_r_outright'] * 100:.0f}%, **runoff {o['p_runoff'] * 100:.0f}%**."
+                 + (f" If it goes to a runoff, Dem wins about {o['p_d_wins_runoff_given'] * 100:.0f}%."
+                    if o.get("p_d_wins_runoff_given") is not None else ""))
+    fr = s.get("first_round")
+    if fr:
+        L.append(f"Ranked-choice: first-round margin about {fr['median']:+.1f} (Dem win {fr['win_prob'] * 100:.0f}%); "
+                 f"after transfers {s['median']:+.1f} (Dem win {s['win_prob'] * 100:.0f}%).")
+    return L

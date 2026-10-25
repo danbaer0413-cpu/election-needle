@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.zip
+# Raw Georgia absentee files contain voter names and addresses. Never commit them.
+**/raw/
+data/**/voterfile/
+*voter*file*.csv
+APPLING.csv
