@@ -60,7 +60,9 @@ API = "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed"
 def _record(i) -> dict:
     p = i["post"]; emb = p.get("embed") or {}
     imgs = emb.get("images") or (emb.get("media") or {}).get("images") or []
+    repost = "reasonRepost" in str((i.get("reason") or {}).get("$type", ""))
     return {"uri": p.get("uri", ""), "created": p["record"].get("createdAt", ""), "text": p["record"].get("text", ""),
+            "author": (p.get("author") or {}).get("handle", ""), "repost": repost,
             "alt": " | ".join(x.get("alt", "") for x in imgs if x.get("alt")),
             "link": ((emb.get("external") or {}).get("title", ""))}
 
@@ -111,7 +113,7 @@ def run(out="data/votehub_latest.csv", unparsed="data/votehub_unparsed.txt", tex
             archive(recs)
         except Exception as ex:
             print("could not archive posts:", ex)
-        texts = [r["text"] + (("\n" + r["alt"]) if r["alt"] and r["alt"] not in r["text"] else "") for r in recs]
+        texts = [r["text"] + (("\n" + r["alt"]) if r["alt"] and r["alt"] not in r["text"] else "") for r in recs if not r.get("repost")]
     rows, bad = [], []
     for t in texts:
         r = parse_post(t)

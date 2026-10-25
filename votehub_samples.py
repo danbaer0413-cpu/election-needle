@@ -28,11 +28,17 @@ def main():
             continue
         if RESULT.search(full):
             keep.append(r)
+    keep.sort(key=lambda r: (r["repost"], r["created"]))          # VoteHub's own posts first
     with open(a.out, "w") as f:
         f.write(f"{len(keep)} possible results posts {a.since} to {a.until}\n\n")
         for r in keep:
-            f.write(f"[{r['created']}] {r['uri']}\nTEXT: {r['text']}\nIMAGE ALT: {r['alt'] or '-'}\nLINK: {r['link'] or '-'}\n\n-----\n\n")
-    print(f"saved {len(keep)} posts to {a.out}")
+            f.write(f"[{r['created']}] {'REPOST of ' if r['repost'] else 'OWN POST by '}{r['author']} {r['uri']}\nTEXT: {r['text']}\nIMAGE ALT: {r['alt'] or '-'}\nLINK: {r['link'] or '-'}\n\n-----\n\n")
+    own = sum(1 for r in keep if not r["repost"])
+    print(f"saved {len(keep)} posts to {a.out} ({own} written by the account itself, {len(keep) - own} reposts of other accounts)")
+    day_counts = {}
+    for r in recs:
+        day_counts[r["created"][:10]] = day_counts.get(r["created"][:10], 0) + 1
+    print("posts per day in range:", {d: n for d, n in sorted(day_counts.items()) if a.since <= d <= a.until})
 
 
 if __name__ == "__main__":
