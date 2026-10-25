@@ -4,7 +4,7 @@ OH-governor,5.44,4,"tier1,35d",Suffolk University;Marist College;The New York Ti
 MI-senate,2.37,6,"tier1,35d",Suffolk University;The New York Times/Siena College;Marist College;Beacon Research/Shaw & Co. Research;InsiderAdvantage;Rasmussen,2026-09-20,2026-10-25
 MN-senate,3.15,4,"tier1,35d",InsiderAdvantage;Mason-Dixon Polling & Strategy;Rasmussen;SurveyUSA,2026-09-20,2026-10-25
 IA-senate,2.22,4,tier1,Suffolk University;Emerson College;Marist College;InsiderAdvantage,2026-10-04,2026-10-25
-KS-senate,0.17,4,"tier1+2,35d",The New York Times/Siena College;Siena;YouGov;InsiderAdvantage,2026-09-20,2026-10-25
+KS-senate,-0.04,5,"tier1+2,60d",co/efficient;Emerson College;Siena;YouGov;InsiderAdvantage,2026-08-26,2026-10-25
 KS-governor,-5.13,4,"tier1+2,60d",co/efficient;Emerson College;The New York Times/Siena College;YouGov,2026-08-26,2026-10-25
 NE-senate,-0.44,3,"tier1+2,60d",SurveyUSA;co/efficient;YouGov,2026-08-26,2026-10-25
 NE-governor,-3.49,3,"tier1+2,60d",SurveyUSA;co/efficient;YouGov,2026-08-26,2026-10-25
@@ -21,8 +21,8 @@ GA-senate,9.79,2,"tier1+2,60d",YouGov;InsiderAdvantage,2026-08-26,2026-10-25
 ME-governor,12.51,4,"tier1,35d",The New York Times/Siena College;Marist College;Suffolk University;Beacon Research/Shaw & Co. Research,2026-09-20,2026-10-25
 NH-senate,7.43,5,"tier1+2,35d",University of New Hampshire Survey Center;The New York Times/Siena College;Saint Anselm College Survey Center;Rasmussen;YouGov,2026-09-20,2026-10-25
 FL-senate,-9.77,5,"tier1+2,35d",InsiderAdvantage;Mason-Dixon Polling & Strategy;Targoz Market Research;YouGov/Univision;co/efficient,2026-09-20,2026-10-25
-IA-governor,8.85,6,"tier1,35d",Marist College;Beacon Research/Shaw & Co. Research;Siena;The New York Times/Siena College;Suffolk University;Emerson College,2026-09-20,2026-10-25
-AK-governor,4.78,4,"tier1+2,60d",co/efficient;Siena;The New York Times/Siena College;Alaska Survey Research,2026-08-26,2026-10-25
+IA-governor,8.42,5,"tier1,35d",Marist College;Beacon Research/Shaw & Co. Research;The New York Times/Siena College;Suffolk University;Emerson College,2026-09-20,2026-10-25
+AK-governor,4.96,3,"tier1+2,60d",co/efficient;The New York Times/Siena College;Alaska Survey Research,2026-08-26,2026-10-25
 MI-governor,8.41,4,"tier1,35d",Suffolk University;The New York Times/Siena College;Marist College;Beacon Research/Shaw & Co. Research,2026-09-20,2026-10-25
 MN-governor,7.89,3,"tier1+2,60d",SurveyUSA;co/efficient;Mason-Dixon Polling & Strategy,2026-08-26,2026-10-25
 NH-governor,-8.88,4,"tier1+2,35d",University of New Hampshire Survey Center;The New York Times/Siena College;Saint Anselm College Survey Center;YouGov,2026-09-20,2026-10-25

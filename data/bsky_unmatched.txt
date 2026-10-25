@@ -32,6 +32,7 @@ Generic Ballot Polling:  🔵 Democrat: 49% 🔴 Republican: 39%  SSRS / Oct 18,
 Generic Ballot Polling:  🔵 DEM: 54% 🔴 GOP: 42%  Verasight/SIN / Oct 19, 2026
 Michigan - Trump Approval Polling:  Disapprove: 57% Approve: 43%  Marist / Oct 18, 2026
 Missouri - 2nd House Polling:  🔵 Wellman: 46% 🔴 Wagner: 45%*  PPP / Oct 20, 2026  (Democratic Pollster)  (MO-2 Model Result: GOP 49% - DEM 48.1%)  unitedstatespolling.com/p/democrats-...
+Michigan - "Who do you think will win the race for..."  Governor: 🔵Benson: 61% 🔴James: 35%  Senate: 🔵El-Sayed: 51% 🔴Rogers: 45%  Marist / Oct 18, 2026
 New York - Governor Polling:  🔵 Hochul: 50% 🔴 Blakeman: 46%  OnMessage / Oct 14, 2026  (Republican Pollster / Republican Commissioner)  (Current NY-GOV Model: DEM 61% - GOP 38%)
 DCCC Targeting - Oct 19, 2026 - (Dem Pollster):  OH-10: 🔵 Knickerbocker: 47% 🔴 Turner: 44%*  (OH-10: GOP 54% - DEM 46%) --  FL-7: 🔵 Dalton: 45% 🔴 Elijah: 45%  (FL-7: GOP 52% - DEM 48%) --  TX-28: 🔵 Cuellar: 54% 🔴 Tijerina: 34%  (TX-28: DEM 54% - GOP 46%)  unitedstatespolling.com/p/democrats-...
 Generic Ballot Polling:  🔵 DEM: 50% 🔴 GOP: 45%  Echelon / Oct 19, 2026  (Republican Pollster)
@@ -149,3 +150,4 @@ Generic Ballot Polling:  🔵Democrat: 50% 🔴Republican: 42%  WSJ / Sept 21, 2
 Generic Ballot Polling:  🔵 Democrats: 55%  🔴 Republicans: 45%  Argument/Verasight / Sept 21, 2026
 Oregon - Governor Polling:  🔴Drazan: 47% 🔵Kotek: 46% ⚪Smith: 3%  DHM Research / Sept 27, 2026  (Current OR-GOV model result is DEM 51% - GOP 45%)  unitedstatespolling.com/p/republican...
 Michigan - Generic Ballot Polling:  🔵DEM: 53%  (+5) 🔴GOP: 44% (-5)  Marist / Sept 27, 2026  (% change with 2024 House election)
+Michigan - "Who do you expect to win in each race?"  Senate: 🔵El-Sayed: 54% 🔴Rogers: 42%  Governor: 🔵Benson: 61% 🔴James: 35%  Marist / Sept 27, 2026

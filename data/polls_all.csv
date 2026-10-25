@@ -55,7 +55,6 @@ FL-governor,YouGov,2026-10-05,3813.0,45.0,47.0
 FL-governor,St. Pete Polls,2026-10-07,836.0,44.6,44.7
 FL-governor,Stetson University Center for Public Opinion Research,2026-10-09,716.0,41.0,52.0
 FL-governor,MDW Communications,2026-10-10,2351.0,43.8,45.9
-FL-governor,Change Research,2026-10-10,600.0,47.0,47.0
 FL-governor,YouGov,2026-10-15,825.0,42.0,50.0
 FL-governor,University of North Florida Public Opinion Research Lab,2026-10-19,1471.0,47.0,49.0
 FL-governor,ActiVote,2026-10-19,400.0,48.3,51.7
@@ -126,7 +125,6 @@ IA-governor,CNN,2026-10-05,801.0,51.0,42.0
 IA-governor,Emerson College,2026-10-06,650.0,49.0,45.3
 IA-governor,Marist College,2026-10-11,1100.0,52.0,45.0
 IA-governor,YouGov,2026-10-12,2244.0,50.0,44.0
-IA-governor,NPA,2026-10-12,600.0,50.0,45.0
 IA-governor,New River Strategies/GS Strategy Group,2026-10-13,602.0,54.0,43.0
 IA-governor,co/efficient,2026-10-19,863.0,49.0,45.0
 IA-senate,Change Research,2026-01-11,1108.0,41.0,44.0
@@ -158,7 +156,6 @@ IA-senate,InsiderAdvantage,2026-10-22,1200.0,45.0,47.0
 IA-senate,InsiderAdvantage,2026-10-22,1200.0,45.5,47.0
 KS-governor,co/efficient,2026-09-10,915.0,43.0,51.0
 KS-governor,Emerson College,2026-09-16,750.0,43.48,50.82
-KS-governor,GSG,2026-09-16,600.0,49.0,46.0
 KS-governor,The New York Times/Siena College,2026-09-30,605.0,44.38,48.52
 KS-governor,YouGov,2026-10-04,2252.0,44.0,47.0
 KS-governor,YouGov,2026-10-05,600.0,44.0,47.0
@@ -235,10 +232,8 @@ MI-governor,Cygnal/Beacon Research,2026-09-21,600.0,45.0,38.0
 MI-governor,The New York Times/Siena College,2026-09-22,605.0,48.45,42.82
 MI-governor,co/efficient,2026-09-23,843.0,47.0,44.0
 MI-governor,Marist College,2026-09-27,1235.0,53.0,41.0
-MI-governor,Guidant,2026-09-27,600.0,50.0,45.0
 MI-governor,Beacon Research/Shaw & Co. Research,2026-09-28,1028.0,54.0,45.0
 MI-governor,Mitchell Research & Communications,2026-10-01,682.0,46.0,39.0
-MI-governor,Z to A Research,2026-10-01,600.0,50.0,40.0
 MI-governor,YouGov,2026-10-04,3949.0,48.0,45.0
 MI-governor,YouGov,2026-10-05,600.0,48.0,45.0
 MI-governor,Wedgewood,2026-10-09,600.0,55.0,45.0
@@ -271,15 +266,13 @@ MI-senate,Cygnal/Beacon Research,2026-09-21,600.0,45.0,40.0
 MI-senate,The New York Times/Siena College,2026-09-22,605.0,49.45,44.5
 MI-senate,co/efficient,2026-09-23,843.0,50.0,50.0
 MI-senate,Big Data Poll,2026-09-24,678.0,46.7,42.1
-MI-senate,Marist College,2026-09-27,1235.0,51.0,44.0
 MI-senate,Guidant,2026-09-27,600.0,48.0,43.0
+MI-senate,Marist College,2026-09-27,1235.0,51.0,44.0
 MI-senate,Beacon Research/Shaw & Co. Research,2026-09-28,1028.0,50.0,49.0
 MI-senate,Mitchell Research & Communications,2026-10-01,682.0,45.6,41.4
-MI-senate,Z to A Research,2026-10-01,600.0,49.0,42.0
 MI-senate,YouGov,2026-10-04,3947.0,49.0,48.0
 MI-senate,YouGov,2026-10-05,600.0,49.0,48.0
 MI-senate,Quantus Insights,2026-10-06,744.0,48.4,47.2
-MI-senate,Tyson Group,2026-10-08,600.0,44.0,46.0
 MI-senate,Wedgewood,2026-10-09,600.0,53.0,47.0
 MI-senate,InsiderAdvantage,2026-10-10,1200.0,47.8,45.5
 MI-senate,Rasmussen,2026-10-14,600.0,46.0,44.0
@@ -306,17 +299,13 @@ MN-senate,Mason-Dixon Polling & Strategy,2026-10-07,800.0,47.0,43.0
 MN-senate,Morning Consult,2026-10-07,1000.0,45.0,41.0
 MN-senate,Rasmussen,2026-10-07,600.0,48.0,45.0
 MN-senate,SurveyUSA,2026-10-12,718.0,45.0,42.0
-MS-senate,Change Research,2026-10-22,600.0,40.0,43.0
 NE-governor,SurveyUSA,2026-09-13,503.0,35.0,43.0
 NE-governor,co/efficient,2026-09-30,1113.0,38.0,42.0
 NE-governor,YouGov,2026-10-03,1808.0,43.0,44.0
-NE-governor,NPA,2026-10-18,600.0,41.0,47.0
 NE-senate,SurveyUSA,2026-09-13,503.0,46.0,42.0
 NE-senate,co/efficient,2026-09-30,1113.0,44.0,47.0
 NE-senate,YouGov,2026-10-03,1808.0,48.0,47.0
 NE-senate,YouGov,2026-10-05,600.0,48.0,47.0
-NE-senate,NPA,2026-10-18,600.0,47.0,50.0
-NE-senate,Impact,2026-10-20,600.0,48.0,50.0
 NH-governor,Saint Anselm College Survey Center,2026-03-18,1491.0,39.0,46.0
 NH-governor,University of New Hampshire Survey Center,2026-04-21,1117.0,39.0,47.0
 NH-governor,University of New Hampshire Survey Center,2026-06-23,2221.0,39.0,44.0
@@ -328,7 +317,6 @@ NH-governor,University of New Hampshire Survey Center,2026-09-21,1407.0,43.0,47.
 NH-governor,The New York Times/Siena College,2026-09-22,613.0,40.84,52.31
 NH-governor,Saint Anselm College Survey Center,2026-09-29,1042.0,45.0,52.0
 NH-governor,YouGov,2026-10-05,1520.0,40.0,49.0
-NH-governor,National Public Affairs,2026-10-12,600.0,38.0,54.0
 NH-governor,Saint Anselm College Survey Center,2026-10-20,1672.0,42.0,50.0
 NH-senate,Praecones Analytica,2025-03-01,626.0,58.9,41.1
 NH-senate,co/efficient,2025-09-12,904.0,46.0,43.0
@@ -428,7 +416,6 @@ SC-senate,Abacus Data,2026-08-28,306.0,38.0,51.0
 SC-senate,InsiderAdvantage,2026-09-09,1200.0,43.2,45.1
 SC-senate,InsiderAdvantage,2026-09-29,1200.0,45.0,46.0
 SC-senate,Rasmussen,2026-10-08,600.0,45.0,49.0
-SC-senate,Impact Research,2026-10-21,600.0,45.0,44.0
 TX-governor,Emerson College,2026-01-12,1165.0,42.3,50.2
 TX-governor,University of Houston Hobby School of Public Affairs,2026-01-31,1502.0,42.0,49.0
 TX-governor,University of Texas at Tyler Center for Opinion Research,2026-02-22,1117.0,41.0,49.0
@@ -460,7 +447,6 @@ TX-governor,Slingshot Strategies,2026-09-22,1007.0,46.0,50.0
 TX-governor,Big Data Poll,2026-09-26,698.0,44.4,48.9
 TX-governor,University of Massachusetts Lowell Center for Public Opinion,2026-09-28,850.0,44.0,48.0
 TX-governor,Beacon Research/Shaw & Co. Research,2026-09-28,881.0,47.0,52.0
-TX-governor,Guidant,2026-09-28,600.0,44.0,46.0
 TX-governor,The New York Times/Siena College,2026-09-30,615.0,49.04,45.53
 TX-governor,TSU,2026-10-02,600.0,51.0,40.0
 TX-governor,YouGov,2026-10-05,861.0,49.0,48.0
@@ -517,7 +503,6 @@ TX-senate,Slingshot Strategies,2026-09-22,1007.0,49.0,44.0
 TX-senate,Big Data Poll,2026-09-26,698.0,46.8,44.9
 TX-senate,University of Massachusetts Lowell Center for Public Opinion,2026-09-28,850.0,45.0,45.0
 TX-senate,Beacon Research/Shaw & Co. Research,2026-09-28,881.0,51.0,49.0
-TX-senate,Guidant,2026-09-28,600.0,47.0,44.0
 TX-senate,Rasmussen,2026-09-29,600.0,46.0,45.0
 TX-senate,The New York Times/Siena College,2026-09-30,615.0,50.8,45.09
 TX-senate,TSU,2026-10-02,600.0,56.0,38.0
@@ -544,4 +529,3 @@ WI-governor,RMG Research,2026-07-24,800.0,46.0,43.0
 WI-governor,Platform Communications,2026-08-13,500.0,48.0,44.0
 WI-governor,Marquette University Law School,2026-08-20,738.0,49.0,44.0
 WI-governor,Marquette University Law School,2026-09-23,692.0,49.0,46.0
-WI-governor,Z to A Research,2026-10-01,600.0,49.0,44.0
