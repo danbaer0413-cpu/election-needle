@@ -1,0 +1,478 @@
+county,year,race,early,total
+Appling,2020,President,6237,8341
+Appling,2020,U.S. Senate,6104,8187
+Appling,2020,U.S. Senate (special),6115,8159
+Atkinson,2020,President,2174,3155
+Atkinson,2020,U.S. Senate,2144,3097
+Atkinson,2020,U.S. Senate (special),2074,2995
+Bacon,2020,President,4087,4668
+Bacon,2020,U.S. Senate,4021,4590
+Bacon,2020,U.S. Senate (special),3964,4512
+Baker,2020,President,1111,1555
+Baker,2020,U.S. Senate,1094,1534
+Baker,2020,U.S. Senate (special),1080,1514
+Baldwin,2020,President,14783,18251
+Baldwin,2020,U.S. Senate,14622,18082
+Baldwin,2020,U.S. Senate (special),14527,17942
+Banks,2020,President,6974,8801
+Banks,2020,U.S. Senate,6908,8725
+Banks,2020,U.S. Senate (special),6898,8679
+Barrow,2020,President,30087,37921
+Barrow,2020,U.S. Senate,29762,37576
+Barrow,2020,U.S. Senate (special),29534,37190
+Bartow,2020,President,37807,50467
+Bartow,2020,U.S. Senate,37419,50034
+Bartow,2020,U.S. Senate (special),37220,49619
+Ben Hill,2020,President,5764,6560
+Ben Hill,2020,U.S. Senate,5686,6477
+Ben Hill,2020,U.S. Senate (special),5665,6444
+Berrien,2020,President,5543,7743
+Berrien,2020,U.S. Senate,5471,7650
+Berrien,2020,U.S. Senate (special),5420,7565
+Bibb,2020,President,53704,70802
+Bibb,2020,U.S. Senate,52909,69987
+Bibb,2020,U.S. Senate (special),52993,69940
+Bleckley,2020,President,4447,5706
+Bleckley,2020,U.S. Senate,4386,5644
+Bleckley,2020,U.S. Senate (special),4374,5613
+Brantley,2020,President,5577,7746
+Brantley,2020,U.S. Senate,5475,7616
+Brantley,2020,U.S. Senate (special),5340,7388
+Brooks,2020,President,5129,7100
+Brooks,2020,U.S. Senate,5024,6976
+Brooks,2020,U.S. Senate (special),4933,6835
+Bryan,2020,President,17808,21340
+Bryan,2020,U.S. Senate,17639,21163
+Bryan,2020,U.S. Senate (special),17444,20884
+Bulloch,2020,President,20765,30084
+Bulloch,2020,U.S. Senate,20502,29793
+Bulloch,2020,U.S. Senate (special),20417,29558
+Burke,2020,President,7220,10684
+Burke,2020,U.S. Senate,7115,10560
+Burke,2020,U.S. Senate (special),7073,10465
+Butts,2020,President,10546,11771
+Butts,2020,U.S. Senate,10446,11673
+Butts,2020,U.S. Senate (special),10413,11609
+Calhoun,2020,President,1548,2194
+Calhoun,2020,U.S. Senate,1528,2172
+Calhoun,2020,U.S. Senate (special),1517,2156
+Camden,2020,President,18724,23688
+Camden,2020,U.S. Senate,18420,23349
+Camden,2020,U.S. Senate (special),18163,22917
+Candler,2020,President,3792,4431
+Candler,2020,U.S. Senate,3737,4370
+Candler,2020,U.S. Senate (special),3699,4322
+Carroll,2020,President,40073,54474
+Carroll,2020,U.S. Senate,39627,53973
+Carroll,2020,U.S. Senate (special),39510,53687
+Catoosa,2020,President,26244,32593
+Catoosa,2020,U.S. Senate,25868,32174
+Catoosa,2020,U.S. Senate (special),25575,31714
+Charlton,2020,President,3190,4566
+Charlton,2020,U.S. Senate,3126,4477
+Charlton,2020,U.S. Senate (special),3031,4323
+Chatham,2020,President,95942,133420
+Chatham,2020,U.S. Senate,94397,131847
+Chatham,2020,U.S. Senate (special),94499,131423
+Chattahoochee,2020,President,1120,1582
+Chattahoochee,2020,U.S. Senate,1094,1546
+Chattahoochee,2020,U.S. Senate (special),1087,1534
+Chattooga,2020,President,7162,10050
+Chattooga,2020,U.S. Senate,7077,9938
+Chattooga,2020,U.S. Senate (special),6933,9703
+Cherokee,2020,President,113527,144830
+Cherokee,2020,U.S. Senate,112262,143526
+Cherokee,2020,U.S. Senate (special),111645,142240
+Clarke,2020,President,42276,51333
+Clarke,2020,U.S. Senate,41876,50950
+Clarke,2020,U.S. Senate (special),41792,50714
+Clay,2020,President,1133,1434
+Clay,2020,U.S. Senate,1117,1416
+Clay,2020,U.S. Senate (special),1115,1409
+Clayton,2020,President,91519,112344
+Clayton,2020,U.S. Senate,90234,111045
+Clayton,2020,U.S. Senate (special),90591,111262
+Clinch,2020,President,2008,2864
+Clinch,2020,U.S. Senate,1963,2797
+Clinch,2020,U.S. Senate (special),1901,2700
+Cobb,2020,President,322843,393746
+Cobb,2020,U.S. Senate,319681,390772
+Cobb,2020,U.S. Senate (special),319042,388963
+Coffee,2020,President,11473,15214
+Coffee,2020,U.S. Senate,11292,14991
+Coffee,2020,U.S. Senate (special),11122,14722
+Colquitt,2020,President,10642,16083
+Colquitt,2020,U.S. Senate,10482,15891
+Colquitt,2020,U.S. Senate (special),10439,15782
+Columbia,2020,President,61676,80579
+Columbia,2020,U.S. Senate,61020,79907
+Columbia,2020,U.S. Senate (special),60847,79405
+Cook,2020,President,5357,7035
+Cook,2020,U.S. Senate,5305,6972
+Cook,2020,U.S. Senate (special),5264,6914
+Coweta,2020,President,52677,76799
+Coweta,2020,U.S. Senate,52012,76122
+Coweta,2020,U.S. Senate (special),51868,75642
+Crawford,2020,President,4664,6102
+Crawford,2020,U.S. Senate,4597,6026
+Crawford,2020,U.S. Senate (special),4588,5998
+Crisp,2020,President,6463,8039
+Crisp,2020,U.S. Senate,6407,7968
+Crisp,2020,U.S. Senate (special),6346,7885
+Dade,2020,President,5122,7434
+Dade,2020,U.S. Senate,5045,7332
+Dade,2020,U.S. Senate (special),4948,7157
+Dawson,2020,President,13425,16081
+Dawson,2020,U.S. Senate,13278,15924
+Dawson,2020,U.S. Senate (special),13249,15853
+Decatur,2020,President,9336,11627
+Decatur,2020,U.S. Senate,9169,11449
+Decatur,2020,U.S. Senate (special),9077,11319
+DeKalb,2020,President,322491,370804
+DeKalb,2020,U.S. Senate,319141,367643
+DeKalb,2020,U.S. Senate (special),319201,367133
+Dodge,2020,President,5145,8070
+Dodge,2020,U.S. Senate,5062,7952
+Dodge,2020,U.S. Senate (special),5021,7890
+Dooly,2020,President,3142,4105
+Dooly,2020,U.S. Senate,3103,4059
+Dooly,2020,U.S. Senate (special),3071,4005
+Dougherty,2020,President,23493,35311
+Dougherty,2020,U.S. Senate,23109,34911
+Dougherty,2020,U.S. Senate (special),23172,34876
+Douglas,2020,President,57951,69097
+Douglas,2020,U.S. Senate,57320,68441
+Douglas,2020,U.S. Senate (special),57429,68441
+Early,2020,President,3732,5187
+Early,2020,U.S. Senate,3661,5105
+Early,2020,U.S. Senate (special),3576,4969
+Echols,2020,President,1178,1441
+Echols,2020,U.S. Senate,1161,1418
+Echols,2020,U.S. Senate (special),1139,1381
+Effingham,2020,President,22206,31570
+Effingham,2020,U.S. Senate,21961,31287
+Effingham,2020,U.S. Senate (special),21812,30974
+Elbert,2020,President,6775,9171
+Elbert,2020,U.S. Senate,6695,9075
+Elbert,2020,U.S. Senate (special),6649,8981
+Emanuel,2020,President,6093,9501
+Emanuel,2020,U.S. Senate,5991,9368
+Emanuel,2020,U.S. Senate (special),5889,9191
+Evans,2020,President,3528,4247
+Evans,2020,U.S. Senate,3485,4191
+Evans,2020,U.S. Senate (special),3450,4147
+Fannin,2020,President,10237,14850
+Fannin,2020,U.S. Senate,10098,14686
+Fannin,2020,U.S. Senate (special),10047,14571
+Fayette,2020,President,61834,71993
+Fayette,2020,U.S. Senate,61288,71470
+Fayette,2020,U.S. Senate (special),60952,70942
+Floyd,2020,President,31228,41648
+Floyd,2020,U.S. Senate,30904,41288
+Floyd,2020,U.S. Senate (special),30704,40930
+Forsyth,2020,President,115722,129305
+Forsyth,2020,U.S. Senate,114715,128267
+Forsyth,2020,U.S. Senate (special),113790,127000
+Franklin,2020,President,8085,10765
+Franklin,2020,U.S. Senate,7986,10645
+Franklin,2020,U.S. Senate (special),7969,10586
+Fulton,2020,President,461979,524659
+Fulton,2020,U.S. Senate,457996,520778
+Fulton,2020,U.S. Senate (special),455801,517607
+Gilmer,2020,President,11624,16525
+Gilmer,2020,U.S. Senate,11448,16307
+Gilmer,2020,U.S. Senate (special),11420,16201
+Glascock,2020,President,1120,1566
+Glascock,2020,U.S. Senate,1095,1540
+Glascock,2020,U.S. Senate (special),1073,1500
+Glynn,2020,President,34923,41984
+Glynn,2020,U.S. Senate,34446,41468
+Glynn,2020,U.S. Senate (special),33932,40767
+Gordon,2020,President,15921,24033
+Gordon,2020,U.S. Senate,15707,23766
+Gordon,2020,U.S. Senate (special),15575,23470
+Grady,2020,President,8001,10707
+Grady,2020,U.S. Senate,7890,10580
+Grady,2020,U.S. Senate (special),7791,10406
+Greene,2020,President,9789,11247
+Greene,2020,U.S. Senate,9701,11162
+Greene,2020,U.S. Senate (special),9681,11123
+Gwinnett,2020,President,340360,413865
+Gwinnett,2020,U.S. Senate,337729,411206
+Gwinnett,2020,U.S. Senate (special),330274,402715
+Habersham,2020,President,17204,20432
+Habersham,2020,U.S. Senate,17052,20259
+Habersham,2020,U.S. Senate (special),16967,20122
+Hall,2020,President,75086,90523
+Hall,2020,U.S. Senate,74400,89787
+Hall,2020,U.S. Senate (special),74332,89495
+Hancock,2020,President,3254,4165
+Hancock,2020,U.S. Senate,3192,4097
+Hancock,2020,U.S. Senate (special),3190,4089
+Haralson,2020,President,9497,14248
+Haralson,2020,U.S. Senate,9387,14116
+Haralson,2020,U.S. Senate (special),9319,13969
+Harris,2020,President,12999,19991
+Harris,2020,U.S. Senate,12875,19854
+Harris,2020,U.S. Senate (special),12845,19738
+Hart,2020,President,9782,12727
+Hart,2020,U.S. Senate,9607,12532
+Hart,2020,U.S. Senate (special),9490,12354
+Heard,2020,President,3543,5391
+Heard,2020,U.S. Senate,3492,5328
+Heard,2020,U.S. Senate (special),3454,5247
+Henry,2020,President,105982,122742
+Henry,2020,U.S. Senate,104925,121709
+Henry,2020,U.S. Senate (special),104892,121470
+Houston,2020,President,56310,74823
+Houston,2020,U.S. Senate,55678,74162
+Houston,2020,U.S. Senate (special),55560,73818
+Irwin,2020,President,3273,4168
+Irwin,2020,U.S. Senate,3250,4144
+Irwin,2020,U.S. Senate (special),3215,4093
+Jackson,2020,President,31492,37670
+Jackson,2020,U.S. Senate,31227,37383
+Jackson,2020,U.S. Senate (special),31116,37156
+Jasper,2020,President,5767,7644
+Jasper,2020,U.S. Senate,5724,7592
+Jasper,2020,U.S. Senate (special),5686,7537
+Jeff Davis,2020,President,4087,5771
+Jeff Davis,2020,U.S. Senate,4032,5698
+Jeff Davis,2020,U.S. Senate (special),3983,5603
+Jefferson,2020,President,5461,7642
+Jefferson,2020,U.S. Senate,5380,7554
+Jefferson,2020,U.S. Senate (special),5321,7462
+Jenkins,2020,President,2565,3455
+Jenkins,2020,U.S. Senate,2518,3400
+Jenkins,2020,U.S. Senate (special),2500,3366
+Johnson,2020,President,3111,4100
+Johnson,2020,U.S. Senate,3054,4034
+Johnson,2020,U.S. Senate (special),2997,3961
+Jones,2020,President,11048,14966
+Jones,2020,U.S. Senate,10938,14842
+Jones,2020,U.S. Senate (special),10905,14754
+Lamar,2020,President,6773,9039
+Lamar,2020,U.S. Senate,6719,8988
+Lamar,2020,U.S. Senate (special),6700,8943
+Lanier,2020,President,2878,3576
+Lanier,2020,U.S. Senate,2831,3519
+Lanier,2020,U.S. Senate (special),2771,3428
+Laurens,2020,President,15117,22729
+Laurens,2020,U.S. Senate,14914,22474
+Laurens,2020,U.S. Senate (special),14852,22323
+Lee,2020,President,12697,16714
+Lee,2020,U.S. Senate,12573,16559
+Lee,2020,U.S. Senate (special),12525,16458
+Liberty,2020,President,17911,21389
+Liberty,2020,U.S. Senate,17631,21091
+Liberty,2020,U.S. Senate (special),17547,20953
+Lincoln,2020,President,3465,4650
+Lincoln,2020,U.S. Senate,3414,4593
+Lincoln,2020,U.S. Senate (special),3399,4561
+Long,2020,President,4102,5656
+Long,2020,U.S. Senate,4043,5581
+Long,2020,U.S. Senate (special),4008,5520
+Lowndes,2020,President,37491,46355
+Lowndes,2020,U.S. Senate,36978,45772
+Lowndes,2020,U.S. Senate (special),36591,45145
+Lumpkin,2020,President,13133,15531
+Lumpkin,2020,U.S. Senate,12964,15363
+Lumpkin,2020,U.S. Senate (special),12963,15324
+Macon,2020,President,3612,4662
+Macon,2020,U.S. Senate,3554,4593
+Macon,2020,U.S. Senate (special),3523,4553
+Madison,2020,President,10608,14937
+Madison,2020,U.S. Senate,10498,14798
+Madison,2020,U.S. Senate (special),10430,14674
+Marion,2020,President,2633,3624
+Marion,2020,U.S. Senate,2611,3599
+Marion,2020,U.S. Senate (special),2576,3550
+McDuffie,2020,President,8989,10455
+McDuffie,2020,U.S. Senate,8908,10370
+McDuffie,2020,U.S. Senate (special),8870,10307
+McIntosh,2020,President,5409,6696
+McIntosh,2020,U.S. Senate,5326,6602
+McIntosh,2020,U.S. Senate (special),5253,6494
+Meriwether,2020,President,7426,10877
+Meriwether,2020,U.S. Senate,7336,10762
+Meriwether,2020,U.S. Senate (special),7304,10694
+Miller,2020,President,2121,2835
+Miller,2020,U.S. Senate,2074,2781
+Miller,2020,U.S. Senate (special),1974,2643
+Mitchell,2020,President,6570,8963
+Mitchell,2020,U.S. Senate,6488,8871
+Mitchell,2020,U.S. Senate (special),6443,8810
+Monroe,2020,President,11740,15592
+Monroe,2020,U.S. Senate,11602,15428
+Monroe,2020,U.S. Senate (special),11564,15345
+Montgomery,2020,President,2595,3966
+Montgomery,2020,U.S. Senate,2554,3920
+Montgomery,2020,U.S. Senate (special),2503,3838
+Morgan,2020,President,9291,11707
+Morgan,2020,U.S. Senate,9221,11627
+Morgan,2020,U.S. Senate (special),9178,11565
+Murray,2020,President,10916,15389
+Murray,2020,U.S. Senate,10721,15151
+Murray,2020,U.S. Senate (special),10480,14731
+Muscogee,2020,President,67080,80543
+Muscogee,2020,U.S. Senate,66126,79550
+Muscogee,2020,U.S. Senate (special),66079,79348
+Newton,2020,President,36277,54239
+Newton,2020,U.S. Senate,35830,53778
+Newton,2020,U.S. Senate (special),35820,53572
+Oconee,2020,President,21647,25168
+Oconee,2020,U.S. Senate,21603,25142
+Oconee,2020,U.S. Senate (special),21432,24909
+Oglethorpe,2020,President,6623,8131
+Oglethorpe,2020,U.S. Senate,6556,8057
+Oglethorpe,2020,U.S. Senate (special),6502,7970
+Paulding,2020,President,71485,85385
+Paulding,2020,U.S. Senate,70685,84548
+Paulding,2020,U.S. Senate (special),70392,83986
+Peach,2020,President,10721,12545
+Peach,2020,U.S. Senate,10610,12432
+Peach,2020,U.S. Senate (special),10573,12352
+Pickens,2020,President,10334,17116
+Pickens,2020,U.S. Senate,10216,16969
+Pickens,2020,U.S. Senate (special),10221,16836
+Pierce,2020,President,7704,9048
+Pierce,2020,U.S. Senate,7605,8941
+Pierce,2020,U.S. Senate (special),7482,8786
+Pike,2020,President,8062,10720
+Pike,2020,U.S. Senate,7994,10649
+Pike,2020,U.S. Senate (special),7962,10576
+Polk,2020,President,13864,17399
+Polk,2020,U.S. Senate,13728,17235
+Polk,2020,U.S. Senate (special),13579,17018
+Pulaski,2020,President,3547,4059
+Pulaski,2020,U.S. Senate,3503,4005
+Pulaski,2020,U.S. Senate (special),3484,3979
+Putnam,2020,President,9802,11855
+Putnam,2020,U.S. Senate,9713,11767
+Putnam,2020,U.S. Senate (special),9679,11694
+Quitman,2020,President,776,1106
+Quitman,2020,U.S. Senate,762,1085
+Quitman,2020,U.S. Senate (special),767,1077
+Rabun,2020,President,8134,9568
+Rabun,2020,U.S. Senate,8051,9472
+Rabun,2020,U.S. Senate (special),8005,9386
+Randolph,2020,President,2342,3074
+Randolph,2020,U.S. Senate,2313,3041
+Randolph,2020,U.S. Senate (special),2303,3022
+Richmond,2020,President,65973,87016
+Richmond,2020,U.S. Senate,64967,85968
+Richmond,2020,U.S. Senate (special),65018,85744
+Rockdale,2020,President,38452,44686
+Rockdale,2020,U.S. Senate,38020,44263
+Rockdale,2020,U.S. Senate (special),38048,44212
+Schley,2020,President,1901,2275
+Schley,2020,U.S. Senate,1882,2256
+Schley,2020,U.S. Senate (special),1863,2226
+Screven,2020,President,4725,6628
+Screven,2020,U.S. Senate,4657,6547
+Screven,2020,U.S. Senate (special),4599,6457
+Seminole,2020,President,2631,3884
+Seminole,2020,U.S. Senate,2592,3838
+Seminole,2020,U.S. Senate (special),2535,3743
+Spalding,2020,President,21286,30116
+Spalding,2020,U.S. Senate,20971,29764
+Spalding,2020,U.S. Senate (special),21033,29713
+Stephens,2020,President,10323,11885
+Stephens,2020,U.S. Senate,10217,11768
+Stephens,2020,U.S. Senate (special),10112,11638
+Stewart,2020,President,1455,1990
+Stewart,2020,U.S. Senate,1421,1953
+Stewart,2020,U.S. Senate (special),1401,1906
+Sumter,2020,President,9442,12150
+Sumter,2020,U.S. Senate,9323,12022
+Sumter,2020,U.S. Senate (special),9297,11978
+Talbot,2020,President,2507,3522
+Talbot,2020,U.S. Senate,2438,3450
+Talbot,2020,U.S. Senate (special),2455,3452
+Taliaferro,2020,President,727,928
+Taliaferro,2020,U.S. Senate,704,902
+Taliaferro,2020,U.S. Senate (special),690,884
+Tattnall,2020,President,6201,8183
+Tattnall,2020,U.S. Senate,6130,8091
+Tattnall,2020,U.S. Senate (special),6025,7937
+Taylor,2020,President,3190,3839
+Taylor,2020,U.S. Senate,3147,3792
+Taylor,2020,U.S. Senate (special),3129,3769
+Telfair,2020,President,3038,4333
+Telfair,2020,U.S. Senate,2979,4255
+Telfair,2020,U.S. Senate (special),2951,4189
+Terrell,2020,President,3168,4416
+Terrell,2020,U.S. Senate,3133,4375
+Terrell,2020,U.S. Senate (special),3120,4348
+Thomas,2020,President,17592,21853
+Thomas,2020,U.S. Senate,17362,21600
+Thomas,2020,U.S. Senate (special),17131,21253
+Tift,2020,President,12371,16283
+Tift,2020,U.S. Senate,12193,16075
+Tift,2020,U.S. Senate (special),12152,15987
+Toombs,2020,President,8489,10914
+Toombs,2020,U.S. Senate,8393,10798
+Toombs,2020,U.S. Senate (special),8288,10651
+Towns,2020,President,6851,7979
+Towns,2020,U.S. Senate,6767,7888
+Towns,2020,U.S. Senate (special),6737,7847
+Treutlen,2020,President,2526,3077
+Treutlen,2020,U.S. Senate,2481,3023
+Treutlen,2020,U.S. Senate (special),2434,2965
+Troup,2020,President,22348,30049
+Troup,2020,U.S. Senate,22136,29809
+Troup,2020,U.S. Senate (special),21999,29538
+Turner,2020,President,3075,3792
+Turner,2020,U.S. Senate,3031,3741
+Turner,2020,U.S. Senate (special),3016,3717
+Twiggs,2020,President,3158,4444
+Twiggs,2020,U.S. Senate,3106,4381
+Twiggs,2020,U.S. Senate (special),3083,4344
+Union,2020,President,11800,15560
+Union,2020,U.S. Senate,11646,15378
+Union,2020,U.S. Senate (special),11675,15362
+Upson,2020,President,10861,12905
+Upson,2020,U.S. Senate,10754,12784
+Upson,2020,U.S. Senate (special),10714,12723
+Walker,2020,President,22628,29354
+Walker,2020,U.S. Senate,22280,28968
+Walker,2020,U.S. Senate (special),22017,28536
+Walton,2020,President,39497,51095
+Walton,2020,U.S. Senate,39165,50738
+Walton,2020,U.S. Senate (special),38964,50408
+Ware,2020,President,10959,14192
+Ware,2020,U.S. Senate,10776,13979
+Ware,2020,U.S. Senate (special),10620,13748
+Warren,2020,President,2158,2651
+Warren,2020,U.S. Senate,2122,2614
+Warren,2020,U.S. Senate (special),2100,2584
+Washington,2020,President,6872,9459
+Washington,2020,U.S. Senate,6731,9279
+Washington,2020,U.S. Senate (special),6675,9197
+Wayne,2020,President,9779,12778
+Wayne,2020,U.S. Senate,9664,12633
+Wayne,2020,U.S. Senate (special),9562,12473
+Webster,2020,President,1109,1390
+Webster,2020,U.S. Senate,1093,1372
+Webster,2020,U.S. Senate (special),1082,1359
+Wheeler,2020,President,1645,2285
+Wheeler,2020,U.S. Senate,1620,2254
+Wheeler,2020,U.S. Senate (special),1608,2228
+White,2020,President,10910,14816
+White,2020,U.S. Senate,10815,14716
+White,2020,U.S. Senate (special),10785,14646
+Whitfield,2020,President,24711,36746
+Whitfield,2020,U.S. Senate,24356,36297
+Whitfield,2020,U.S. Senate (special),23962,35593
+Wilcox,2020,President,2245,3281
+Wilcox,2020,U.S. Senate,2205,3230
+Wilcox,2020,U.S. Senate (special),2204,3218
+Wilkes,2020,President,3798,5029
+Wilkes,2020,U.S. Senate,3726,4945
+Wilkes,2020,U.S. Senate (special),3706,4905
+Wilkinson,2020,President,2926,4770
+Wilkinson,2020,U.S. Senate,2874,4704
+Wilkinson,2020,U.S. Senate (special),2869,4689
+Worth,2020,President,5903,9285
+Worth,2020,U.S. Senate,5845,9210
+Worth,2020,U.S. Senate (special),5802,9129

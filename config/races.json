@@ -1,0 +1,221 @@
+{
+  "races": [
+    {
+      "id": "OH-senate",
+      "state": "OH",
+      "race": "U.S. Senate (special)",
+      "level": "Federal",
+      "dir": "data/OH/u-s-senate-special",
+      "poll_margin": null,
+      "params": {}
+    },
+    {
+      "id": "OH-governor",
+      "state": "OH",
+      "race": "Governor",
+      "level": "State",
+      "dir": "data/OH/governor",
+      "poll_margin": null,
+      "params": {}
+    },
+    {
+      "id": "MI-senate",
+      "state": "MI",
+      "race": "U.S. Senate",
+      "level": "Federal",
+      "dir": "data/MI/u-s-senate",
+      "poll_margin": null,
+      "params": {}
+    },
+    {
+      "id": "MN-senate",
+      "state": "MN",
+      "race": "U.S. Senate",
+      "level": "Federal",
+      "dir": "data/MN/u-s-senate",
+      "poll_margin": null,
+      "params": {}
+    },
+    {
+      "id": "IA-senate",
+      "state": "IA",
+      "race": "U.S. Senate",
+      "level": "Federal",
+      "dir": "data/IA/u-s-senate",
+      "poll_margin": null,
+      "params": {}
+    },
+    {
+      "id": "KS-senate",
+      "state": "KS",
+      "race": "U.S. Senate",
+      "level": "Federal",
+      "dir": "data/KS/u-s-senate",
+      "poll_margin": null,
+      "params": {}
+    },
+    {
+      "id": "KS-governor",
+      "state": "KS",
+      "race": "Governor",
+      "level": "State",
+      "dir": "data/KS/governor",
+      "poll_margin": null,
+      "params": {}
+    },
+    {
+      "id": "NE-senate",
+      "state": "NE",
+      "race": "U.S. Senate",
+      "level": "Federal",
+      "dir": "data/NE/u-s-senate",
+      "poll_margin": null,
+      "params": {}
+    },
+    {
+      "id": "NE-governor",
+      "state": "NE",
+      "race": "Governor",
+      "level": "State",
+      "dir": "data/NE/governor",
+      "poll_margin": null,
+      "params": {}
+    },
+    {
+      "id": "ME-senate",
+      "state": "ME",
+      "race": "U.S. Senate",
+      "level": "Federal",
+      "dir": "data/ME/u-s-senate",
+      "poll_margin": null,
+      "params": {
+        "rcv": true,
+        "third_share": 0.05
+      },
+      "rcv_history": "data/ME/rcv_history.csv"
+    },
+    {
+      "id": "AK-senate",
+      "state": "AK",
+      "race": "U.S. Senate",
+      "level": "Federal",
+      "dir": "data/AK/u-s-senate",
+      "poll_margin": null,
+      "params": {
+        "rcv": true,
+        "third_share": 0.04
+      },
+      "rcv_history": "data/AK/rcv_history.csv"
+    },
+    {
+      "id": "TX-senate",
+      "state": "TX",
+      "race": "U.S. Senate",
+      "level": "Federal",
+      "dir": "data/TX/u-s-senate",
+      "poll_margin": null,
+      "params": {}
+    },
+    {
+      "id": "TX-governor",
+      "state": "TX",
+      "race": "Governor",
+      "level": "State",
+      "dir": "data/TX/governor",
+      "poll_margin": null,
+      "params": {}
+    },
+    {
+      "id": "SC-senate",
+      "state": "SC",
+      "race": "U.S. Senate",
+      "level": "Federal",
+      "dir": "data/SC/u-s-senate",
+      "poll_margin": null,
+      "params": {}
+    },
+    {
+      "id": "MS-senate",
+      "state": "MS",
+      "race": "U.S. Senate",
+      "level": "Federal",
+      "dir": "data/MS/u-s-senate",
+      "poll_margin": null,
+      "params": {}
+    },
+    {
+      "id": "FL-governor",
+      "state": "FL",
+      "race": "Governor",
+      "level": "State",
+      "dir": "data/FL/governor",
+      "poll_margin": null,
+      "params": {}
+    },
+    {
+      "id": "GA-governor",
+      "state": "GA",
+      "race": "Governor",
+      "level": "State",
+      "dir": "data/GA/governor",
+      "poll_margin": null,
+      "params": {
+        "runoff_rule": true,
+        "third_share": 0.025
+      }
+    },
+    {
+      "id": "NV-governor",
+      "state": "NV",
+      "race": "Governor",
+      "level": "State",
+      "dir": "data/NV/governor",
+      "poll_margin": null,
+      "params": {}
+    },
+    {
+      "id": "WI-governor",
+      "state": "WI",
+      "race": "Governor",
+      "level": "State",
+      "dir": "data/WI/governor",
+      "poll_margin": null,
+      "params": {}
+    },
+    {
+      "id": "GA-senate",
+      "state": "GA",
+      "race": "U.S. Senate",
+      "level": "Federal",
+      "dir": "data/GA/u-s-senate",
+      "poll_margin": null,
+      "params": {
+        "runoff_rule": true,
+        "third_share": 0.025
+      }
+    },
+    {
+      "id": "ME-governor",
+      "state": "ME",
+      "race": "Governor",
+      "level": "State",
+      "dir": "data/ME/governor",
+      "poll_margin": null,
+      "params": {
+        "rcv": true,
+        "third_share": 0.05
+      },
+      "rcv_history": "data/ME/rcv_history.csv"
+    },
+    {
+      "id": "NH-senate",
+      "state": "NH",
+      "race": "U.S. Senate",
+      "level": "Federal",
+      "dir": "data/NH/u-s-senate",
+      "poll_margin": null,
+      "params": {}
+    }
+  ],
+  "_note": "third_share values for GA, ME and AK are placeholders: set them from polls or past results. rcv_history CSVs (past ranked-choice contests) calibrate the transfer skew; see rcv.py."
+}
