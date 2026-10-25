@@ -1,0 +1,7 @@
+year,president,party,approval_pct,house_vote_margin_out_party,house_seats_pres_party,senate_seats_pres_party,source
+1982,Reagan,R,42,D+11,-26,0,"approval/seats: Gallup & DaveManuel; vote margin: recollection (unverified)"
+1994,Clinton,D,46,R+7,-53,-8,"approval/House seats: Gallup; Senate & vote margin: recollection (unverified)"
+2006,Bush,R,38,D+8,-30,-6,"approval/seats: Gallup & DaveManuel; vote margin: recollection (unverified)"
+2010,Obama,D,45,R+7,-63,-6,"approval/seats: Gallup & DaveManuel; vote margin: recollection (unverified)"
+2018,Trump,R,44,D+8.6,-40,2,"approval/seats: DaveManuel; vote margin: recollection (unverified)"
+2022,Biden,D,40,R+2.8,-9,1,"approval/seats: DaveManuel; vote margin: recollection (unverified)"
