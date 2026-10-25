@@ -41,7 +41,7 @@ jobs:
         run: |
           git config user.name "needle-bot"
           git config user.email "needle-bot@users.noreply.github.com"
-          git add data/latest.json data/needle_log.csv data/votehub_latest.csv data/votehub_history.csv data/votehub_unparsed.txt data/poll_inputs_auto.csv data/polls_raw data/bsky_raw.json data/bsky_unmatched.txt data/poll_compare.csv 2>/dev/null || git add data/latest.json data/needle_log.csv
+          git add data/latest.json data/needle_log.csv data/votehub_latest.csv data/votehub_history.csv data/votehub_unparsed.txt data/poll_inputs_auto.csv data/polls_all.csv data/poll_average.json data/polls_raw data/bsky_raw.json data/bsky_unmatched.txt data/poll_compare.csv 2>/dev/null || git add data/latest.json data/needle_log.csv
           if ! git diff --cached --quiet; then
             git commit -m "needle update"
             git pull --rebase
