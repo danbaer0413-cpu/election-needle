@@ -8,6 +8,9 @@ on:
       until:
         description: "Last date (YYYY-MM-DD)"
         default: "2026-08-31"
+      pages:
+        description: "How far back to search (100 posts per page; raise if the log says the oldest post is newer than your dates)"
+        default: "80"
 permissions:
   contents: write
 jobs:
@@ -20,7 +23,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install requests pandas
-      - run: python votehub_samples.py --since "${{ github.event.inputs.since }}" --until "${{ github.event.inputs.until }}"
+      - run: python votehub_samples.py --since "${{ github.event.inputs.since }}" --until "${{ github.event.inputs.until }}" --pages "${{ github.event.inputs.pages }}"
       - name: Save samples
         run: |
           git config user.name "needle-bot"
