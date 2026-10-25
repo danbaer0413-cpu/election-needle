@@ -192,7 +192,9 @@
    "params": {
     "runoff_rule": true,
     "third_share": 0.025,
-    "sd_poll": 5.0
+    "sd_poll": 5.0,
+    "sd_early_geo": 8.0,
+    "early_gap": 7.0
    }
   },
   {
@@ -227,7 +229,9 @@
    "params": {
     "runoff_rule": true,
     "third_share": 0.025,
-    "sd_poll": 5.0
+    "sd_poll": 5.0,
+    "sd_early_geo": 8.0,
+    "early_gap": 7.0
    }
   },
   {

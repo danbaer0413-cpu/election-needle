@@ -1,0 +1,22 @@
+{
+  "_note": "Inputs for the fundamentals prior (fundamentals.py). Every number has a source below. k, sd_fund, gamma, cap are measured or chosen in the backtest (see FUNDAMENTALS.md).",
+  "generic_ballot_margin_dem": 9.1,
+  "generic_ballot_source": "Silver Bulletin generic ballot average, updated 2026-10-23 (natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls). Cross-check: Pew RV poll 44-36 (D+8), 2026-10-08.",
+  "pres_2024_national_margin_dem": -1.5,
+  "pres_2024_note": "Harris 48.3 vs Trump 49.8, two-party D-R, national.",
+  "sd_fund": 10.5,
+  "gamma_approval": 0.1,
+  "approval_cap": 2.0,
+  "skip_races": [
+    "NE-senate"
+  ],
+  "skip_note": "NE-senate: independent Osborn is on the ballot, so the presidential lean is not a valid baseline.",
+  "generic_ballot_asof": "2026-10-23",
+  "generic_shrink": 0.85,
+  "generic_shrink_note": "Final House vote has landed below the late generic average in some wave years (2006 overstated by ~3) and near it in others (2018). 0.85 x D+9.1 = D+7.7, inside my D+6 to D+8 read.",
+  "k_pooled": 0.5,
+  "k_wave": 1.0,
+  "wave_threshold": 6.0,
+  "k_note": "Backtest pooled k=0.49 (2018 ~1.0, 2022 ~0). When the house swing is wave-sized (>= wave_threshold, as in 2018) k is the midpoint of k_pooled and k_wave = 0.75. Judgment informed by the analog years, not a fitted value.",
+  "stale_after_days": 14
+}
