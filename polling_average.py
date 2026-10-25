@@ -98,10 +98,11 @@ def build(polls: pd.DataFrame, grades, match, today: date | None = None, start: 
         if now is None:
             continue
         first = max(start, min(p["end"]))
+        # (series starts only once two or more polls are in the window)
         series, d = [], first
         while d <= today:
             a = average_on(p, d)
-            if a:
+            if a and len(a["q"]) >= 2:                     # a line needs at least 2 polls behind it; one old poll is just a dot
                 series.append(dict(date=d.isoformat(), avg=a["avg"], lo=a["lo"], hi=a["hi"]))
             d += timedelta(days=1)
         q = now["q"]

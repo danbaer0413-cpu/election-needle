@@ -172,7 +172,7 @@ def show(summary, hist, true_margin=None):
         st.metric("Baseline margin", f"{summary['baseline_margin']:+.1f}")
         st.metric("Estimated swing vs baseline", f"{summary['swing']:+.1f}  (±{summary['swing_sd']:.1f})")
         sig = summary["signals"]
-        rows = {"Polls": sig["poll_swing"], "Early party reg": sig["early_party"],
+        rows = {"Polls": sig["poll_swing"], "Fundamentals": sig.get("fund_swing"), "Early party reg": sig["early_party"],
                 "Early geography": sig["early_geo"]}
         st.write("**Early signals (swing, pts)**")
         st.table(pd.DataFrame({"signal": list(rows), "swing": [None if v is None else round(v, 2)

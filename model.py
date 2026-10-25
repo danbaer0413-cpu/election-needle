@@ -50,6 +50,8 @@ class Params:
     poll_margin: float | None = None   # statewide polling-average margin (D-R)
     sd_poll: float = 3.0               # how far the result can land from the polls
     sd_prior_nopoll: float = 5.0       # used when no poll is given
+    fund_margin: float | None = None   # fundamentals prior (fundamentals.py): 2024 lean + national swing
+    sd_fund: float = 10.5              # its out-of-sample error from the 2018/2022 backtest
     poll_bias: float = 0.0             # expected (actual - poll) for this state, from poll_error.py
     poll_skew: float = 0.0             # skew-normal shape of poll error (+ = long Dem-side tail)
     # structure
@@ -80,7 +82,7 @@ class Params:
     runoff_shift: float = 0.0          # runoff margin shift vs the general, points (+ = toward D)
     runoff_sd: float = 3.0             # extra uncertainty in the runoff, points
     # simulation
-    n_sims: int = 4000
+    n_sims: int = 8000
     seed: int = 0
 
 
@@ -173,6 +175,8 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
         obs.append((p.poll_margin + p.poll_bias - M0, p.sd_poll ** 2, "polls"))
     else:
         obs.append((0.0, p.sd_prior_nopoll ** 2, "no polls"))
+    if p.fund_margin is not None:
+        obs.append((p.fund_margin - M0, p.sd_fund ** 2, "fundamentals"))
 
     early_counted_state = float(ce.sum() / max(E_final.sum(), 1.0))
     infl = 1.0 / max(1.0 - early_counted_state, 0.02)  # early ballots are counted -> don't double count
@@ -356,6 +360,7 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
         "swing": S_hat, "swing_sd": sd_S,
         "turnout_mult": float(mult),
         "signals": {"poll_swing": (None if p.poll_margin is None else p.poll_margin - M0),
+                    "fund_swing": (None if p.fund_margin is None else p.fund_margin - M0),
                     "early_party": sig_party, "early_geo": sig_geo},
         "table": table,
         "sims": margins,

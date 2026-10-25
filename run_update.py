@@ -107,13 +107,21 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
             old = {}
     now = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
     # Top-rated-pollster averages (PROMPTS.md Prompt D): used when a race has no poll_margin of its own.
-    pollmap, auto_m, manual_m = {}, {}, {}
+    pollmap, auto_m, manual_m, npolls = {}, {}, {}, {}
+    try:
+        perr = json.load(open("config/poll_error.json"))     # historical polling error (poll_error_fit.py)
+    except Exception:
+        perr = None
     # automatic pull first, then the hand-entered file wins where it has a race (manual override)
     for label, pf, store in (("auto", cfg.get("poll_inputs_auto", "data/poll_inputs_auto.csv"), auto_m),
                              ("manual", cfg.get("poll_inputs", "data/poll_inputs_2026.csv"), manual_m)):
         pin = _read(pf)
         if pin is not None and {"id", "poll_margin"} <= set(pin.columns):
             store.update({str(k): float(v) for k, v in zip(pin["id"], pin["poll_margin"]) if pd.notna(v)})
+            if "n_polls" in pin.columns:
+                for k_, n_ in zip(pin["id"], pin["n_polls"]):
+                    if pd.notna(n_):
+                        npolls[(label, str(k_))] = float(n_)
     pollmap.update(auto_m); pollmap.update(manual_m)
     both = sorted(set(auto_m) & set(manual_m))
     if both:                                # tell you when the live poll pull and your hand-entered numbers drift apart
@@ -123,6 +131,12 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
         for i, m_, a_, d_ in cmp_rows:
             if abs(d_) >= 1.5:
                 print(f"  POLL DRIFT {i}: manual {m_:+.1f} vs live pull {a_:+.1f} (diff {d_:+.1f}); refresh your numbers?")
+    try:                                    # fundamentals prior (structure only; small weight, see FUNDAMENTALS.md)
+        from fundamentals import compute as _fund
+        fundmap = _fund(out=None)
+    except Exception as ex:
+        print(f"  fundamentals unavailable ({ex}); running without them")
+        fundmap = {}
     feedmap = load_feedmap(cfg.get("feeds", "config/feeds.csv"))
     races: dict = {}
     new_log = not os.path.exists(log_path)
@@ -153,6 +167,15 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
                     races[rid] = {"meta": meta, "status": "baseline ready, waiting for polls", "checked": now,
                                   "summary": prev.get("summary"), "as_of": prev.get("as_of")}
                     continue
+                if perr and rr.get("poll_margin") is not None and "poll_bias" not in (rr.get("params") or {}):
+                    src = "manual" if rid in manual_m else "auto"
+                    n_ = npolls.get((src, rid), 4.0 if src == "manual" else 1.0)   # a hand-typed Silver average is a broad average
+                    sd_ = (perr["sd_by_polls"].get("4+") if n_ >= 4 else perr["sd_by_polls"].get("<4")) or perr["sd_default"]
+                    sb_ = 0.0 if rid in perr.get("skip_state_bias", []) else perr["state_bias"].get(rr.get("state"), 0.0)
+                    rr["params"] = dict(rr.get("params") or {}, poll_bias=round(perr["global_bias"] + sb_, 2),
+                                        sd_poll=max(perr.get("sd_floor", 3.5), sd_))
+                if rid in fundmap and "fund_margin" not in (rr.get("params") or {}):
+                    rr["params"] = dict(rr.get("params") or {}, fund_margin=fundmap[rid][0], sd_fund=fundmap[rid][1])
                 s = project(counties, early, results, build_params(rr))
                 races[rid] = {"meta": meta, "status": "ok", "checked": now, "as_of": now,
                               "summary": to_json_summary(s)}

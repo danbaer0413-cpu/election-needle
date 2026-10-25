@@ -65,14 +65,16 @@ def _same(ln, want):
     return ln == want or (len(want) >= 5 and ln.startswith(want))
 
 
-def parse_poll(p, cand=None):
+def parse_poll(p, cand=None, include_partisan=False):
     """PollResults.org poll -> dict(pollster,end,n,d,r) or None.
     Schema (seen in data/polls_raw): poll{pollster,endDate 'M/D/YY',partisan,internal,hypothetical,questions[]}, each
     question{sampleSize,population,stage,answers[{party,pct,candidateName}]}.
     cand = {'dem': surname, 'rep': surname} from config/candidates.csv (needed for independents such as Osborn, who are
     listed as IND). Skips partisan/internal/hypothetical polls and primaries. Picks the question with the largest Dem+Rep
     share (the head-to-head / final ranked-choice round), preferring likely voters."""
-    if str(p.get("partisan") or "").strip() or str(p.get("internal") or "").strip() or str(p.get("hypothetical") or "").strip():
+    if str(p.get("hypothetical") or "").strip():
+        return None
+    if not include_partisan and (str(p.get("partisan") or "").strip() or str(p.get("internal") or "").strip()):
         return None
     end = _date(p.get("endDate"))
     if not end:
@@ -122,6 +124,9 @@ def _norm(s):
 
 
 ALIASES = {   # short names seen on Bluesky -> the name in Silver Bulletin's ratings (keys are _norm() of the short name)
+    "siena": "The New York Times/Siena College", "nytsiena": "The New York Times/Siena College",
+    "nyt": "The New York Times/Siena College", "reconmrsienainstitute": "The New York Times/Siena College",
+    "sienainstitute": "The New York Times/Siena College", "sienanyt": "The New York Times/Siena College",
     "stanselm": "Saint Anselm College", "unf": "University of North Florida", "uh": "University of Houston",
     "aarp": "Fabrizio Lee & Associates/Impact Research", "impact": "Fabrizio Lee & Associates/Impact Research",
     "gsg": "Global Strategy Group", "beaconshaw": "Beacon Research/Shaw & Co. Research", "shawbeacon": "Beacon Research/Shaw & Co. Research", "ajc": "University of Georgia", "uga": "University of Georgia",
@@ -228,20 +233,28 @@ def main():
             cmap[c['id']] = dict(dem=_last(c['dem']), rep=_last(c['rep']), sum=(c['id'] == 'AK-governor'))
     except Exception as ex:
         print('candidates.csv not read:', ex)
-    rows, parsed_any, ungraded, allrows = [], False, set(), []
+    rows, parsed_any, ungraded, allrows, allblocked = [], False, set(), [], []
     for r in cfg["races"]:
         kind = "senate" if "senate" in r["id"] else "governor"
         try:
-            polls = []
+            polls, blocked = [], []
             try:
                 raw, _ = get_all(kind, r["state"])
                 json.dump(raw, open(f"data/polls_raw/{r['id']}.json", "w"))
                 polls = [x for x in (parse_poll(p, cmap.get(r['id'])) for p in raw) if x]
+                blocked = [x for x in (parse_poll(p, cmap.get(r['id']), include_partisan=True) for p in raw
+                                       if str(p.get("partisan") or "").strip() or str(p.get("internal") or "").strip()) if x]
             except Exception as ex:
                 print(f"{r['id']}: PollResults failed ({ex})")
             seen = {(re.sub(r"\W.*", "", p["pollster"].lower()), p["end"]) for p in polls}
             seen2 = {(p["end"], round(p["d"]), round(p["r"])) for p in polls}      # same numbers on the same day = same poll
-            extra = [b for b in bsky.get(r["id"], []) if (re.sub(r"\W.*", "", b["pollster"].lower()), b["end"]) not in seen
+            # polls PollResults marks as party/campaign-sponsored must not sneak in through Bluesky (its posts carry no sponsor tag)
+            bl1 = {(re.sub(r"\W.*", "", p["pollster"].lower()), p["end"]) for p in blocked}
+            bl2 = {(p["end"], round(p["d"]), round(p["r"])) for p in blocked}
+            allblocked += [(r["id"], p["end"], round(p["d"]), round(p["r"])) for p in blocked]
+            bsky_in = [b for b in bsky.get(r["id"], []) if (re.sub(r"\W.*", "", b["pollster"].lower()), b["end"]) not in bl1
+                       and (b["end"], round(b["d"]), round(b["r"])) not in bl2]
+            extra = [b for b in bsky_in if (re.sub(r"\W.*", "", b["pollster"].lower()), b["end"]) not in seen
                      and (b["end"], round(b["d"]), round(b["r"])) not in seen2]
             polls += extra
             parsed_any |= bool(polls)
@@ -264,6 +277,9 @@ def main():
         both["_k"] = both["pollster"].map(lambda n: _match(n, grades)[0]); both["_dr"] = both["d"].round() .astype(int).astype(str) + both["r"].round().astype(int).astype(str)
         both = both.drop_duplicates(["id", "end", "_k", "_dr"], keep="last").drop(columns=["_k", "_dr"])
         both = both[~both["pollster"].astype(str).str.startswith("unknown-")]
+        if allblocked:                       # purge party/campaign-sponsored polls saved by an earlier run
+            bk = set(allblocked)
+            both = both[[(i, e, round(d), round(r)) not in bk for i, e, d, r in zip(both["id"], both["end"], both["d"], both["r"])]]
         both.sort_values(["id", "end"]).to_csv("data/polls_all.csv", index=False)
         try:
             import polling_average

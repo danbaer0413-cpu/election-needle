@@ -62,7 +62,7 @@ def _pct_for(text, surname):
 
 MONTHS = {m: i + 1 for i, m in enumerate(["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"])}
 DATE_LINE = re.compile(r"^(.*?)\s+/\s+(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s+(\d{1,2}),?\s+(\d{4})", re.I | re.M)
-SKIP = re.compile(r"internal|generic ballot|approval|mayor|lt\.? gov|\d(?:st|nd|rd|th)\s+house|house polling|district|hypothetical", re.I)
+SKIP = re.compile(r"who do you|will win|expect to win|win the race|favorab|which outcome|prefer|internal|generic ballot|approval|mayor|lt\.? gov|\d(?:st|nd|rd|th)\s+house|house polling|district|hypothetical", re.I)
 
 
 def source_and_date(text, fallback):

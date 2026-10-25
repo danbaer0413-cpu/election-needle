@@ -90,14 +90,16 @@ def poll_figure(pa: dict):
     ser = pa["series"]
     x = [d["date"] for d in ser]
     fig = go.Figure()
-    fig.add_trace(go.Scatter(x=x, y=[d["hi"] for d in ser], mode="lines", line=dict(width=0), showlegend=False, hoverinfo="skip"))
-    fig.add_trace(go.Scatter(x=x, y=[d["lo"] for d in ser], mode="lines", line=dict(width=0), fill="tonexty",
-                             fillcolor="rgba(100,100,100,0.22)", name="80% range", hoverinfo="skip"))
+    if ser:
+        fig.add_trace(go.Scatter(x=x, y=[d["hi"] for d in ser], mode="lines", line=dict(width=0), showlegend=False, hoverinfo="skip"))
+        fig.add_trace(go.Scatter(x=x, y=[d["lo"] for d in ser], mode="lines", line=dict(width=0), fill="tonexty",
+                                 fillcolor="rgba(100,100,100,0.22)", name="80% range", hoverinfo="skip"))
     pts = pa["points"]
     fig.add_trace(go.Scatter(x=[p["date"] for p in pts], y=[p["margin"] for p in pts], mode="markers", name="Polls",
                              marker=dict(size=[6 + 22 * min(1.0, p["weight"]) for p in pts], color="rgba(60,60,60,0.45)"),
                              text=[f"{p['pollster']} ({p['grade']}) {p['margin']:+.1f}" for p in pts], hoverinfo="text"))
-    fig.add_trace(go.Scatter(x=x, y=[d["avg"] for d in ser], mode="lines", line=dict(color="black", width=3), name="Our average"))
+    if ser:
+        fig.add_trace(go.Scatter(x=x, y=[d["avg"] for d in ser], mode="lines", line=dict(color="black", width=3), name="Our average"))
     fig.add_hline(y=0, line_color="gray", line_dash="dot")
     fig.update_layout(height=280, margin=dict(l=4, r=4, t=10, b=4), yaxis_title="Margin (D-R, pts)",
                       legend=dict(orientation="h", y=1.15))

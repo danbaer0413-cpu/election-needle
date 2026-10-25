@@ -99,3 +99,18 @@ then adds B and B- pollsters, then 60 days, then 90 days. It stops at the first 
 with the most. One (latest) poll per firm, weighted by sqrt(sample) and faded after 14 days. Unrated pollsters never count.
 `rule_used` in `data/poll_inputs_auto.csv` shows which step was used (e.g. `tier1+2,60d`). Set `ALLOW_LOWER = True` to let very thin races
 (like Mississippi) also use B/C and C+ pollsters as a last resort.
+
+## Georgia early-vote calibration notes
+From the statewide vote-method splits of past Georgia results (Total Votes by Group sheets): early (advance + mail) margin minus Election Day margin was
++29.1 in the 2020 general, +30.6 in the 2022 Senate runoff and +6.7 in the 2024 general. So the early/Election-Day gap swings a lot between elections;
+`early_gap` is set to 7 (the 2024 value; the old default was 8) and `sd_early_geo` to 8 so polls dominate the early-geography signal.
+To measure `sd_early_geo` properly we need county-level early-ballot counts from a week before PAST Georgia elections (2022 and 2024 absentee voter files,
+mvp.sos.ga.gov/s/voter-absentee-files, read with ga_voterfile.py) to backtest the signal against the final results.
+
+
+## Fundamentals prior
+A structure-only estimate (2024 lean + generic-ballot swing + small approval nudge) is added to each race as one weak observation. See FUNDAMENTALS.md for sources, the 2018/2022 backtest, and how to turn it off (config/fundamentals.json).
+
+
+## Historical polling error
+State bias, a global midterm bias and a poll-count-based error SD are applied to every poll average. See POLL_ERROR.md; refit with `python poll_error_fit.py`.

@@ -133,9 +133,11 @@ try:
         pa = json.load(fh).get(rid)
 except Exception:
     pa = None
-if pa and len(pa["series"]) > 1:
+if pa and pa.get("points"):
     with st.expander(f"Polling average: {'D' if pa['avg'] > 0 else 'R'}+{abs(pa['avg']):.1f}  ({pa['n_polls']} polls)"):
         st.plotly_chart(poll_figure(pa), use_container_width=True, config={"displayModeBar": False})
+        if len(pa["series"]) < 2:
+            st.caption("Too few polls for a trend line yet - showing the individual polls only.")
         st.caption(f"Our own average of every poll we collect: weighted by pollster grade, sample size and recency, "
                    f"adjusted for pollsters' usual lean. Dots are single polls (bigger = more weight). "
                    f"80% range {pa['lo']:+.1f} to {pa['hi']:+.1f}. Margins are Dem minus GOP.")
