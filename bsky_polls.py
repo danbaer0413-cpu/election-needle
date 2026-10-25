@@ -60,9 +60,30 @@ def _pct_for(text, surname):
     return float(m.group(1)) if m else None
 
 
+MONTHS = {m: i + 1 for i, m in enumerate(["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"])}
+DATE_LINE = re.compile(r"^(.*?)\s+/\s+(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s+(\d{1,2}),?\s+(\d{4})", re.I | re.M)
+SKIP = re.compile(r"internal|generic ballot|approval|mayor|lt\.? gov|\d(?:st|nd|rd|th)\s+house|house polling|district|hypothetical", re.I)
+
+
+def source_and_date(text, fallback):
+    """'Poll Vault / Oct 22, 2026' or 'House Polling - PPP / Oct 22, 2026 - (Democratic Pollster)' -> (pollster, 'YYYY-MM-DD')."""
+    m = DATE_LINE.search(text)
+    if not m:
+        return None, fallback
+    name = re.split(r"\s[-–—]\s|:\s", m.group(1).strip())[-1].strip(" -–—")
+    name = re.sub(r"\bPolling\b", "", name).strip()
+    return (name or None), f"{int(m.group(4)):04d}-{MONTHS[m.group(2).lower()[:3]]:02d}-{int(m.group(3)):02d}"
+
+
 def parse_post(post, cands):
-    """-> list of dict(id,pollster,end,n,d,r,uri) for races this post reports."""
+    """-> list of dict(id,pollster,end,n,d,r,uri) for races this post reports.
+    Seen in real posts: 'Nebraska - Senate Polling:\n⚪️ Osborn: 46%\n🔴 Ricketts: 45%*\n\nGBAO / Oct 22, 2026\n\n(Osborn Internal)'.
+    Skips internals (sponsor's own poll), district-level House posts (their Senate/Governor lines are district samples),
+    generic ballots, approval and hypotheticals. Pollster and field date come from the 'Pollster / Mon D, YYYY' line."""
     t = post["text"]
+    if SKIP.search(t):
+        return []
+    pollster, end = source_and_date(t, post["created"])
     out = []
     for c in cands:
         if c["dem"].lower() not in t.lower() or c["rep"].lower() not in t.lower():
@@ -75,9 +96,10 @@ def parse_post(post, cands):
             continue
         m = SAMPLE.search(t)
         n = float((m.group(1) or m.group(2)).replace(",", "")) if m else 600.0
-        pm = PSTER.search(t)
-        pollster = pm.group(0) if pm else f"unknown-{post['uri']}"      # unknown pollsters never merge with each other
-        out.append(dict(id=c["id"], pollster=pollster, end=post["created"], n=n, d=d, r=r, uri=post["uri"]))
+        if not pollster:
+            pm = PSTER.search(t)
+            pollster = pm.group(0) if pm else None
+        out.append(dict(id=c["id"], pollster=pollster or f"unknown-{post['uri']}", end=end, n=n, d=d, r=r, uri=post["uri"]))
     return out
 
 

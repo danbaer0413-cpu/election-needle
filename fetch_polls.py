@@ -45,33 +45,66 @@ def _find(d, *needles):
     return None
 
 
-def parse_poll(p):
-    """Best-effort: returns dict(pollster,end,n,d,r) or None. Adjust after checking data/polls_raw."""
-    pollster = _find(p, "pollster") or _find(p, "source")
-    if isinstance(pollster, dict):
-        pollster = pollster.get("name") or pollster.get("title")
-    end = _find(p, "end") or _find(p, "date")
-    n = _find(p, "sample") or _find(p, "size")
-    d = r = None
-    cands = _find(p, "answer") or _find(p, "candidate") or _find(p, "result") or []
-    if isinstance(cands, list):
-        for c in cands:
-            if not isinstance(c, dict):
-                continue
-            party = str(c.get("party") or c.get("party_code") or "").upper()[:3]
-            pct = c.get("pct") or c.get("percent") or c.get("value")
-            if pct is None:
-                continue
-            if party.startswith("D") and d is None:
-                d = float(pct)
-            elif party.startswith("R") and r is None:
-                r = float(pct)
-    if d is None: d = _find(p, "dem")
-    if r is None: r = _find(p, "rep")
-    try:
-        return dict(pollster=str(pollster), end=str(end)[:10], n=float(n or 600), d=float(d), r=float(r))
-    except Exception:
+def _date(x):
+    """'10/16/26' or '2026-10-16' -> '2026-10-16'."""
+    x = str(x or "").strip()
+    for f in ("%m/%d/%y", "%m/%d/%Y", "%Y-%m-%d"):
+        try:
+            return dt.datetime.strptime(x[:10] if f == "%Y-%m-%d" else x.split()[0], f).date().isoformat()
+        except Exception:
+            pass
+    return ""
+
+
+def _last(name):
+    return re.sub(r"[^a-z]", "", str(name).lower().replace("jr.", "").split()[-1] if str(name).strip() else "")
+
+
+def parse_poll(p, cand=None):
+    """PollResults.org poll -> dict(pollster,end,n,d,r) or None.
+    Schema (seen in data/polls_raw): poll{pollster,endDate 'M/D/YY',partisan,internal,hypothetical,questions[]}, each
+    question{sampleSize,population,stage,answers[{party,pct,candidateName}]}.
+    cand = {'dem': surname, 'rep': surname} from config/candidates.csv (needed for independents such as Osborn, who are
+    listed as IND). Skips partisan/internal/hypothetical polls and primaries. Picks the question with the largest Dem+Rep
+    share (the head-to-head / final ranked-choice round), preferring likely voters."""
+    if str(p.get("partisan") or "").strip() or str(p.get("internal") or "").strip() or str(p.get("hypothetical") or "").strip():
         return None
+    end = _date(p.get("endDate"))
+    if not end:
+        return None
+    best = None
+    for q in p.get("questions") or []:
+        if str(q.get("stage") or "general").lower() != "general" or str(q.get("subpopulation") or "").strip():
+            continue
+        d = r = None
+        for a in q.get("answers") or []:
+            name, party, pct = str(a.get("candidateName") or a.get("answer") or ""), str(a.get("party") or "").upper(), a.get("pct")
+            if pct is None or "generic" in name.lower() or "generic" in str(a.get("answer") or "").lower():
+                continue
+            ln = _last(name)
+            if cand and ln == cand["dem"]:
+                d = max(d or 0, float(pct))
+            elif cand and ln == cand["rep"]:
+                r = max(r or 0, float(pct))
+            elif not cand or (ln not in (cand["dem"], cand["rep"])):
+                pass
+        if cand is None or d is None or r is None:         # fall back to party codes (largest candidate per party)
+            if cand is not None and (d is None) != (r is None):
+                continue                                    # one of our two candidates is missing: wrong matchup
+            if d is None:
+                ds = [float(a["pct"]) for a in q.get("answers") or [] if str(a.get("party")).upper().startswith("D") and a.get("pct") is not None and "generic" not in str(a.get("candidateName")).lower()]
+                rs = [float(a["pct"]) for a in q.get("answers") or [] if str(a.get("party")).upper().startswith("R") and a.get("pct") is not None and "generic" not in str(a.get("candidateName")).lower()]
+                if not ds or not rs:
+                    continue
+                d, r = max(ds), max(rs)
+        pop = str(q.get("population") or "").lower()
+        key = (d + r, pop in ("lv", "v"), pop == "rv", float(q.get("sampleSize") or 0))
+        if best is None or key > best[0]:
+            best = (key, d, r, float(q.get("sampleSize") or 600))
+    if not best:
+        return None
+    pollster = p.get("pollsterRatingName") or p.get("displayName") or p.get("pollster")
+    return dict(pollster=str(pollster), end=end, n=best[3], d=best[1], r=best[2])
 
 
 def _norm(s):
@@ -79,30 +112,48 @@ def _norm(s):
     return re.sub(r"[^a-z0-9]", "", s)
 
 
-def grade_for(name, grades, _cache={}):
-    """Silver Bulletin grade for a pollster name as it appears in the poll feed. Exact normalised match first, then
-    containment either way (e.g. 'Emerson' / 'Emerson College', 'NYT/Siena' / 'The New York Times/Siena College')."""
+ALIASES = {   # short names seen on Bluesky -> the name in Silver Bulletin's ratings (keys are _norm() of the short name)
+    "stanselm": "Saint Anselm College", "unf": "University of North Florida", "uh": "University of Houston",
+    "aarp": "Fabrizio Lee & Associates/Impact Research", "impact": "Fabrizio Lee & Associates/Impact Research",
+    "gsg": "Global Strategy Group", "beaconshaw": "Beacon Research/Shaw & Co. Research", "shawbeacon": "Beacon Research/Shaw & Co. Research", "ajc": "University of Georgia", "uga": "University of Georgia",
+    "scharpoll": "The Washington Post/George Mason University Schar School of Policy and Government",
+    "utt": "University of Texas at Tyler", "ut tyler": "University of Texas at Tyler", "fau": "Florida Atlantic University",
+}
+
+
+def _match(name, grades, _cache={}):
+    """-> (canonical normalised key, Silver Bulletin grade or None). Exact normalised match first, then containment either
+    way ('Emerson' / 'Emerson College', 'NYT/Siena' / 'The New York Times/Siena College'); the worst grade wins if ambiguous."""
+    k = _norm(name)
+    if k in {_norm(x) for x in ALIASES}:
+        k = _norm(ALIASES[next(x for x in ALIASES if _norm(x) == k)])
     if not grades:
-        return None
-    if not _cache.get("n") or _cache.get("src") is not grades:
-        _cache["n"] = {_norm(k): v for k, v in grades.items()}; _cache["src"] = grades
-    n = _cache["n"]; k = _norm(name)
+        return k, None
+    if _cache.get("src") is not grades:
+        _cache["n"] = {_norm(x): v for x, v in grades.items()}; _cache["src"] = grades
+    n = _cache["n"]
     if k in n:
-        return n[k]
+        return k, n[k]
     if len(k) >= 5:
-        hits = [v for kk, v in n.items() if len(kk) >= 5 and (k in kk or kk in k)]
+        hits = [(kk, v) for kk, v in n.items() if len(kk) >= 5 and (k in kk or kk in k)]
         if hits:
             order = ["A+", "A", "A-", "A/B", "B+", "B", "B-", "B/C", "C+", "C", "C/D", "D+", "F"]
-            return sorted(hits, key=lambda g: order.index(g) if g in order else 99)[-1]      # worst grade if ambiguous
-    return None
+            kk, v = sorted(hits, key=lambda h: order.index(h[1]) if h[1] in order else 99)[-1]
+            return kk, v
+    return k, None
 
 
-def average(polls, days, grades):
+def grade_for(name, grades):
+    return _match(name, grades)[1]
+
+
+def average(polls, days, grades, _retry=True):
     cut = (dt.date.today() - dt.timedelta(days=days)).isoformat()
+    allp = polls
     polls = [p for p in polls if p["end"] >= cut]
     latest = {}
     for p in sorted(polls, key=lambda x: x["end"]):
-        latest[p["pollster"]] = p
+        latest[_match(p["pollster"], grades)[0]] = p       # same firm under different names counts once
     use = list(latest.values())
     rule = "unrated"
     if grades:
@@ -111,6 +162,11 @@ def average(polls, days, grades):
         if len(t1) >= 2: use, rule = t1, "tier1"
         elif t1 or t2: use, rule = t1 + t2, "tier1+2"
         else: use, rule = [], "none"
+    if not use or (len(use) < 2 and _retry):                 # sparse race: widen the window once, to 35 days, and say so
+        wide = average(allp, max(days, 35), grades, _retry=False) if days < 35 else None
+        if wide and wide["n_polls"] > len(use):
+            wide["rule_used"] += f",{max(days, 35)}d"
+            return wide
     if not use:
         return None
     w = [math.sqrt(p["n"]) for p in use]
@@ -139,7 +195,14 @@ def main():
             bsky.setdefault(p["id"], []).append(dict(pollster=p["pollster"], end=p["end"], n=p["n"], d=p["d"], r=p["r"]))
     except Exception as ex:
         print("bluesky source skipped:", ex)
-    rows, parsed_any = [], False
+    cmap = {}
+    try:
+        import pandas as pd
+        for _, c in pd.read_csv('config/candidates.csv').iterrows():
+            cmap[c['id']] = dict(dem=_last(c['dem']), rep=_last(c['rep']))
+    except Exception as ex:
+        print('candidates.csv not read:', ex)
+    rows, parsed_any, ungraded = [], False, set()
     for r in cfg["races"]:
         kind = "senate" if "senate" in r["id"] else "governor"
         try:
@@ -147,23 +210,24 @@ def main():
             try:
                 raw, _ = get_all(kind, r["state"])
                 json.dump(raw, open(f"data/polls_raw/{r['id']}.json", "w"))
-                polls = [x for x in (parse_poll(p) for p in raw) if x]
+                polls = [x for x in (parse_poll(p, cmap.get(r['id'])) for p in raw) if x]
             except Exception as ex:
                 print(f"{r['id']}: PollResults failed ({ex})")
             seen = {(re.sub(r"\W.*", "", p["pollster"].lower()), p["end"]) for p in polls}
-            extra = [b for b in bsky.get(r["id"], []) if (re.sub(r"\W.*", "", b["pollster"].lower()), b["end"]) not in seen]
+            seen2 = {(p["end"], round(p["d"]), round(p["r"])) for p in polls}      # same numbers on the same day = same poll
+            extra = [b for b in bsky.get(r["id"], []) if (re.sub(r"\W.*", "", b["pollster"].lower()), b["end"]) not in seen
+                     and (b["end"], round(b["d"]), round(b["r"])) not in seen2]
             polls += extra
             parsed_any |= bool(polls)
             avg = average(polls, a.days, grades)
+            ungraded |= {p['pollster'] for p in polls if grades and grade_for(p['pollster'], grades) is None}
             print(f"{r['id']}: {len(polls)} polls ({len(extra)} from Bluesky) ->", avg and avg["poll_margin"])
             if avg:
                 rows.append(dict(id=r["id"], **avg))
         except Exception as ex:
             print(f"{r['id']}: failed ({ex})")
-    if grades:                              # pollsters we could not grade (excluded from the average): review and add aliases
-        seen = {}
-        for r in cfg["races"]:
-            pass
+    if grades and ungraded:
+        print("UNGRADED pollsters (excluded from averages; add to data/pollster_grades.csv if wrong):", "; ".join(sorted(ungraded)))
     if parsed_any and rows:
         with open(a.out, "w", newline="") as f:
             w = csv.DictWriter(f, fieldnames=["id", "poll_margin", "n_polls", "rule_used", "pollsters", "window_start", "window_end"])

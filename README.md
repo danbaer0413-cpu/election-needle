@@ -85,3 +85,10 @@ Unit names are matched ignoring case, "County/Parish/Borough", "Saint/St." and h
 PollResults.org (poll data from the New York Times, CC BY 4.0, non-commercial; not affiliated with the NYT)
 and writes `data/poll_inputs_auto.csv`. `data/poll_inputs_2026.csv` is a manual override and wins for any
 race listed in it (delete a row to let the automatic number through). Raw responses are kept in `data/polls_raw/`.
+
+
+## The app
+- `app.py` (what Streamlit Cloud runs): one drop-down to pick a race, a win-chance card, the needle, "what's moving the needle" and
+  "what's been inputted". Built for phones: one column, no sidebar. The URL keeps the race (`?race=OH-senate`) so you can bookmark or share it.
+  Auto-refresh and a custom data URL are under "Settings" at the bottom.
+- `app_advanced.py`: the full version (every model control, replay demo, your own CSVs, live feed). Run it locally with `streamlit run app_advanced.py`.

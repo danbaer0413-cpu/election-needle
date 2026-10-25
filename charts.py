@@ -24,7 +24,8 @@ def needle_segment(m, R=15.0, length=0.95):
     return np.array([0, length * np.cos(th)]), np.array([0, length * np.sin(th)])
 
 
-def needle_figure(summary: dict, R: float = 15.0, title: str = ""):
+def needle_figure(summary: dict, R: float = 15.0, title: str = "", compact: bool = False):
+    """compact=True: phone-sized (no big caption inside the plot; the app shows the headline as text)."""
     import plotly.graph_objects as go
 
     fig = go.Figure()
@@ -47,13 +48,15 @@ def needle_figure(summary: dict, R: float = 15.0, title: str = ""):
                              hoverinfo="skip", showlegend=False))
     lead = summary["median"]
     who = "Dem" if lead > 0 else "GOP"
-    fig.add_annotation(x=0, y=-0.12, showarrow=False, font=dict(size=22),
-                       text=f"<b>{who} +{abs(lead):.1f}</b>  ·  Dem win chance {summary['win_prob'] * 100:.0f}%")
+    if not compact:
+        fig.add_annotation(x=0, y=-0.12, showarrow=False, font=dict(size=22),
+                           text=f"<b>{who} +{abs(lead):.1f}</b>  ·  Dem win chance {summary['win_prob'] * 100:.0f}%")
     fig.add_annotation(x=-1.0, y=0.02, text="GOP", showarrow=False, font=dict(color=RED, size=14))
     fig.add_annotation(x=1.0, y=0.02, text="Dem", showarrow=False, font=dict(color=BLUE, size=14))
-    fig.update_layout(title=title, height=360, margin=dict(l=10, r=10, t=40, b=10),
+    fig.update_layout(title=title, height=230 if compact else 360,
+                      margin=dict(l=4, r=4, t=4 if compact else 40, b=4),
                       xaxis=dict(visible=False, range=[-1.15, 1.15]),
-                      yaxis=dict(visible=False, range=[-0.25, 1.1], scaleanchor="x"),
+                      yaxis=dict(visible=False, range=[-0.05 if compact else -0.25, 1.05 if compact else 1.1], scaleanchor="x"),
                       plot_bgcolor="rgba(0,0,0,0)")
     return fig
 
@@ -74,7 +77,7 @@ def history_figure(hist, true_margin: float | None = None):
     if true_margin is not None:
         fig.add_hline(y=true_margin, line_color="green", line_dash="dash",
                       annotation_text="final (replay only)")
-    fig.update_layout(height=280, margin=dict(l=10, r=10, t=10, b=10),
+    fig.update_layout(height=260, margin=dict(l=4, r=4, t=10, b=4),
                       xaxis_title="% of expected vote counted", yaxis_title="Margin (D-R, pts)",
-                      legend=dict(orientation="h", y=1.1))
+                      legend=dict(orientation="h", y=1.15))
     return fig
