@@ -202,7 +202,7 @@ def main():
             cmap[c['id']] = dict(dem=_last(c['dem']), rep=_last(c['rep']))
     except Exception as ex:
         print('candidates.csv not read:', ex)
-    rows, parsed_any, ungraded = [], False, set()
+    rows, parsed_any, ungraded, allrows = [], False, set(), []
     for r in cfg["races"]:
         kind = "senate" if "senate" in r["id"] else "governor"
         try:
@@ -219,6 +219,8 @@ def main():
                      and (b["end"], round(b["d"]), round(b["r"])) not in seen2]
             polls += extra
             parsed_any |= bool(polls)
+            for x in polls:
+                allrows.append(dict(id=r["id"], pollster=x["pollster"], end=x["end"], n=x["n"], d=x["d"], r=x["r"]))
             avg = average(polls, a.days, grades)
             ungraded |= {p['pollster'] for p in polls if grades and grade_for(p['pollster'], grades) is None}
             print(f"{r['id']}: {len(polls)} polls ({len(extra)} from Bluesky) ->", avg and avg["poll_margin"])
@@ -228,6 +230,20 @@ def main():
             print(f"{r['id']}: failed ({ex})")
     if grades and ungraded:
         print("UNGRADED pollsters (excluded from averages; add to data/pollster_grades.csv if wrong):", "; ".join(sorted(ungraded)))
+    if allrows:                              # keep every poll we ever saw (Bluesky only shows recent ones) for the trend chart
+        import pandas as pd
+        new = pd.DataFrame(allrows)
+        old = pd.read_csv("data/polls_all.csv") if os.path.exists("data/polls_all.csv") else pd.DataFrame(columns=new.columns)
+        both = pd.concat([old, new], ignore_index=True)
+        both["_k"] = both["pollster"].map(lambda n: _match(n, grades)[0]); both["_dr"] = both["d"].round() .astype(int).astype(str) + both["r"].round().astype(int).astype(str)
+        both = both.drop_duplicates(["id", "end", "_k", "_dr"], keep="last").drop(columns=["_k", "_dr"])
+        both = both[~both["pollster"].astype(str).str.startswith("unknown-")]
+        both.sort_values(["id", "end"]).to_csv("data/polls_all.csv", index=False)
+        try:
+            import polling_average
+            polling_average.main()
+        except Exception as ex:
+            print("polling_average skipped:", ex)
     if parsed_any and rows:
         with open(a.out, "w", newline="") as f:
             w = csv.DictWriter(f, fieldnames=["id", "poll_margin", "n_polls", "rule_used", "pollsters", "window_start", "window_end"])

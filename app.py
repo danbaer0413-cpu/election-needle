@@ -8,7 +8,7 @@ import pandas as pd
 import requests
 import streamlit as st
 
-from charts import BLUE, RED, history_figure, needle_figure
+from charts import BLUE, RED, history_figure, needle_figure, poll_figure
 from explain import drivers_lines, firewall_lines, inputs_lines, outcome_lines
 from publish import from_json_summary, read_log
 from states import STATES
@@ -128,6 +128,19 @@ with st.expander("What's moving the needle", expanded=True):
     st.markdown("**Which counties decide it**")
     for line in firewall_lines(s):
         st.markdown(line)
+try:
+    with open("data/poll_average.json") as fh:
+        pa = json.load(fh).get(rid)
+except Exception:
+    pa = None
+if pa and len(pa["series"]) > 1:
+    with st.expander(f"Polling average: {'D' if pa['avg'] > 0 else 'R'}+{abs(pa['avg']):.1f}  ({pa['n_polls']} polls)"):
+        st.plotly_chart(poll_figure(pa), use_container_width=True, config={"displayModeBar": False})
+        st.caption(f"Our own average of every poll we collect: weighted by pollster grade, sample size and recency, "
+                   f"adjusted for pollsters' usual lean. Dots are single polls (bigger = more weight). "
+                   f"80% range {pa['lo']:+.1f} to {pa['hi']:+.1f}. Margins are Dem minus GOP.")
+        rec = sorted(pa["points"], key=lambda p: p["date"], reverse=True)[:10]
+        st.dataframe(pd.DataFrame(rec)[["date", "pollster", "grade", "margin"]], use_container_width=True, hide_index=True)
 with st.expander("What's been inputted"):
     for line in inputs_lines(s):
         st.markdown(line)
