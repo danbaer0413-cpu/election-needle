@@ -55,65 +55,56 @@ def texas():
 
 def georgia():
     say("\n==== GEORGIA ====")
-    j = get("https://results.sos.ga.gov/results/public/api/jurisdictions/Georgia").json()
-    say("jurisdictions keys:", list(j.keys()))
-    for k, v in j.items():
-        if isinstance(v, list) and v and isinstance(v[0], dict) and k != "childLocalities":
-            say(f"  list {k}: {len(v)} items, first: {trim(v[0], 500)}")
     with sync_playwright() as p:
         br = p.chromium.launch()
         ctx = br.new_context(user_agent=UA, viewport={"width": 1400, "height": 900}, ignore_https_errors=True)
-        page = ctx.new_page()
-        seen = []
+        for slug in ("2024NovGen", "11032026GeneralAndSpecialElection"):
+            page = ctx.new_page()
+            seen = []
 
-        def on_resp(r):
-            ct = r.headers.get("content-type", "")
-            if "json" in ct and "/api/" in r.url:
-                try:
-                    seen.append((r.status, r.url, r.body()))
-                except Exception:
-                    seen.append((r.status, r.url, b""))
-
-        page.on("response", on_resp)
-        page.goto("https://results.sos.ga.gov/results/public/Georgia", wait_until="domcontentloaded", timeout=45000)
-        page.wait_for_timeout(5000)
-        links = page.eval_on_selector_all("a", "els => els.map(e => [e.innerText.trim().slice(0,70), e.href])")
-        say("election links:", [l for l in links if "elections/" in l[1] or "General" in l[0]][:15])
-        for pat in (r"November 5, 2024", r"2024.*General", r"November 8, 2022", r"November 3, 2026"):
-            loc = page.get_by_text(re.compile(pat, re.I)).first
-            if loc.count():
-                say("clicking:", pat)
-                n0 = len(seen)
-                try:
-                    loc.click(timeout=5000)
-                    page.wait_for_timeout(7000)
-                except Exception as ex:
-                    say("  click failed", str(ex)[:100])
-                say("  now at:", page.url)
-                for s, u, b in seen[n0:]:
-                    say(f"  API {s} {u[:220]} {len(b):,}B")
+            def on_resp(r, seen=seen):
+                ct = r.headers.get("content-type", "")
+                if "json" in ct and "/api/" in r.url:
                     try:
-                        say("     shape: " + trim(json.loads(b), 500))
+                        seen.append((r.status, r.url, r.body()))
+                    except Exception:
+                        seen.append((r.status, r.url, b""))
+
+            page.on("response", on_resp)
+            url = f"https://results.sos.ga.gov/results/public/Georgia/{slug}"
+            say(f"-- {url}")
+            try:
+                page.goto(url, wait_until="domcontentloaded", timeout=45000)
+                page.wait_for_timeout(9000)
+                say("  text:", re.sub(r"\s+", " ", page.inner_text("body"))[:500])
+                links = page.eval_on_selector_all("a", "els => els.map(e => [e.innerText.trim().slice(0,60), e.href])")
+                say("  links:", [l for l in links if "Georgia/" in l[1] and slug in l[1]][:12])
+                for s_, u, b in seen:
+                    say(f"  API {s_} {u[:240]} {len(b):,}B")
+                    try:
+                        say("     shape: " + trim(json.loads(b), 700))
                     except Exception:
                         pass
-                # try one race / county click for the deeper calls
-                for t in (r"Senate|President", r"County|Counties"):
-                    l2 = page.get_by_text(re.compile(t, re.I)).first
-                    if l2.count():
+                # open the first race link / US Senate / President to trigger the race and county calls
+                for t in (r"U\.?S\.? Senate|President|Governor|Senator",):
+                    loc = page.get_by_text(re.compile(t, re.I)).first
+                    if loc.count():
                         n1 = len(seen)
                         try:
-                            l2.click(timeout=4000)
-                            page.wait_for_timeout(5000)
-                        except Exception:
-                            continue
-                        say("  after clicking", t, "->", page.url)
-                        for s, u, b in seen[n1:]:
-                            say(f"    API {s} {u[:240]} {len(b):,}B")
+                            loc.click(timeout=5000)
+                            page.wait_for_timeout(8000)
+                        except Exception as ex:
+                            say("  click failed:", str(ex)[:100])
+                        say("  after race click ->", page.url)
+                        for s_, u, b in seen[n1:]:
+                            say(f"  API {s_} {u[:260]} {len(b):,}B")
                             try:
-                                say("       shape: " + trim(json.loads(b), 600))
+                                say("     shape: " + trim(json.loads(b), 900))
                             except Exception:
                                 pass
-                break
+            except Exception as ex:
+                say("  FAILED:", type(ex).__name__, str(ex)[:200])
+            page.close()
         br.close()
 
 
