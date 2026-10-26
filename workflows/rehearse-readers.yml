@@ -1,0 +1,39 @@
+name: rehearse-readers
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  rehearse:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements-runner.txt && playwright install --with-deps chromium
+      - name: Run readers against 2024 results and compare to history
+        run: python check_readers.py | tee data/rehearsal.txt
+        continue-on-error: true
+      - name: Result-file probe (NC, FL, and the paste states)
+        run: python probe_files.py
+        continue-on-error: true
+      - name: Nebraska service scan
+        run: python probe_ne.py
+        continue-on-error: true
+      - name: Save reports
+        run: |
+          git config user.name "needle-bot"
+          git config user.email "needle-bot@users.noreply.github.com"
+          git add data/rehearsal.txt data/portal_ne.txt data/portal_files.txt
+          git commit -m "rehearsal report" || echo "nothing to commit"
+          git pull --rebase -X theirs || true
+          git push || (sleep 5 && git pull --rebase -X theirs && git push)
+      - uses: actions/upload-artifact@v4
+        with:
+          name: rehearsal
+          path: |
+            data/rehearsal.txt
+            data/portal_ne.txt
+            data/portal_files.txt

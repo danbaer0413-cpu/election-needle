@@ -1,0 +1,32 @@
+name: votehub-samples
+on:
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "First date (YYYY-MM-DD), e.g. a primary night"
+        default: "2026-08-01"
+      until:
+        description: "Last date (YYYY-MM-DD)"
+        default: "2026-08-31"
+      pages:
+        description: "How far back to search (100 posts per page; raise if the log says the oldest post is newer than your dates)"
+        default: "80"
+permissions:
+  contents: write
+jobs:
+  samples:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests pandas
+      - run: python votehub_samples.py --since "${{ github.event.inputs.since }}" --until "${{ github.event.inputs.until }}" --pages "${{ github.event.inputs.pages }}"
+      - name: Save samples
+        run: |
+          git config user.name "needle-bot"
+          git config user.email "needle-bot@users.noreply.github.com"
+          git add data/votehub_samples.txt
+          if ! git diff --cached --quiet; then git commit -m "votehub samples"; git pull --rebase -X theirs || git rebase --abort; git push; fi

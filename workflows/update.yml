@@ -1,0 +1,58 @@
+name: update-needle
+
+on:
+  schedule:
+    # All times UTC. Actions cron is best-effort: runs can start several minutes late.
+    - cron: "7 */12 * * *"      # every 12 hours (disable this after election week)
+    - cron: "17 */3 30-31 10 *"   # live poll checks every 3 hours, Oct 30 - Nov 2
+    - cron: "17 */3 1-2 11 *"
+    - cron: "*/10 23 3 11 *"    # Nov 3, 6-7pm ET
+    - cron: "*/10 0-13 4 11 *"  # Nov 3 7pm ET through Nov 4 ~9am ET
+  workflow_dispatch: {}          # manual "Run workflow" button
+
+permissions:
+  contents: write
+
+concurrency:
+  group: needle
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements-runner.txt
+      - run: pip install -r requirements-runner.txt
+      - name: Install browser (only if a feed uses fmt=browser)
+        run: grep -q ',browser,' config/feeds.csv && playwright install --with-deps chromium || echo 'no browser feeds'
+      - name: Read VoteHub posts (statewide early vote; failure is fine)
+        continue-on-error: true
+        run: python votehub.py
+      - name: Pull polls from PollResults.org (NYT poll data, CC BY 4.0; failure is fine)
+        if: github.event_name == 'workflow_dispatch' || contains('7 */12 * * *|17 */3 30-31 10 *|17 */3 1-2 11 *', github.event.schedule)
+        continue-on-error: true
+        run: python fetch_polls.py
+      - name: Preflight (warnings only)
+        continue-on-error: true
+        run: python check_setup.py
+      - run: python run_update.py
+      - name: Commit results
+        run: |
+          git config user.name "needle-bot"
+          git config user.email "needle-bot@users.noreply.github.com"
+          for f in data/latest.json data/needle_log.csv data/votehub_latest.csv data/votehub_history.csv data/votehub_unparsed.txt data/votehub_raw.jsonl \
+                   data/poll_inputs_auto.csv data/polls_all.csv data/poll_average.json data/polls_raw data/bsky_raw.json \
+                   data/bsky_unmatched.txt data/poll_compare.csv; do
+            if [ -e "$f" ]; then git add "$f"; fi
+          done
+          if ! git diff --cached --quiet; then
+            git commit -m "needle update"
+            git pull --rebase -X theirs || git rebase --abort
+            git push || (git pull --rebase -X theirs && git push)
+          fi
