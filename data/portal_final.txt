@@ -1,0 +1,91 @@
+==== NEBRASKA script ====
+  bundle 801,901 chars
+  Get* names: ['GetDefinedColor', 'GetDistrictName', 'GetWinnerHover']
+  [page ResultsAjax] ...
+
+            if (eid !== undefined && !isNaN(eid) && eid != "") {
+                results = getValues(ServiceRoot + "ResultsAjax.svc/GetCandidates?ElectionType=" + electionType + "&ElectionID=" + eid);
+                eid = "&eid=" + eid;
+                mode = "";
+            } else {
+                results = getValues(ServiceRoot + "ResultsAjax.svc/GetCandida
+  [page ResultsAjax] ... = "&eid=" + eid;
+                mode = "";
+            } else {
+                results = getValues(ServiceRoot + "ResultsAjax.svc/GetCandidates?ElectionType=" + electionType + "&ElectionID=0");
+                eid = "";
+                if (mode !== undefined && mode !== "") {
+                    mode = "&mode=" + mode;
+                } else {
+              
+  page failed: missing ), unterminated subpattern at position 4
+
+==== ALASKA 24GENR ENRbyPrecinct.csv ====
+  status 200, 3,645,446 chars, 21734 lines
+    Precinct_name,Reporting_flag,Pct_Id,Pct_seq_nbr,Reg_voters,Aggregation_ID,Contest_Id,Contest_seq_nbr,Contest_title,Contest_party_name,Selectable_Options,Candidate_State_ID,candidate_id,candidate_name,Candidate_Type,cand_seq_nbr,Party_Code,total_ballots,total_votes,total_under_votes,total_over_votes,
+    "01-600 Ketchikan No. 1",0,"01-600",1,2301,"",4,4,"U.S. President / Vice President","",1,"",542,"Harris/Walz",C,1,"DEM",561,269,7,0,561,269,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+    "01-600 Ketchikan No. 1",0,"01-600",1,2301,"",4,4,"U.S. President / Vice President","",1,"",554,"Kennedy/Shanahan",C,2,"NOM",561,13,7,0,561,13,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+    "01-600 Ketchikan No. 1",0,"01-600",1,2301,"",4,4,"U.S. President / Vice President","",1,"",540,"Oliver/Maat",C,3,"LIB",561,2,7,0,561,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+    "01-600 Ketchikan No. 1",0,"01-600",1,2301,"",4,4,"U.S. President / Vice President","",1,"",547,"Sonski/Onak",C,4,"ASP",561,0,7,0,561,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+    "01-600 Ketchikan No. 1",0,"01-600",1,2301,"",4,4,"U.S. President / Vice President","",1,"",545,"Stein/Ware",C,5,"NOM",561,3,7,0,561,3,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+   [candidate row] "01-600 Ketchikan No. 1",0,"01-600",1,2301,"",7,7,"U.S. Representative","",1,"",517,"Begich, Nick",C,9,"REP",561,208,5,1,561,208,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+   [candidate row] "01-600 Ketchikan No. 1",0,"01-600",1,2301,"",7,7,"U.S. Representative","",1,"",518,"Peltola, Mary S.",C,12,"DEM",561,305,5,1,561,305,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+   [candidate row] "01-610 Ketchikan No. 2",0,"01-610",2,2636,"",7,7,"U.S. Representative","",1,"",517,"Begich, Nick",C,9,"REP",846,362,23,1,846,362,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+
+==== ALASKA 26PRIM ENRbyPrecinct.csv ====
+  status 404, 69,617 chars, 383 lines
+    <!DOCTYPE html>
+    <html dir="ltr" lang="en-US" prefix="og: https://ogp.me/ns#">
+    <head >
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Page not found</title>
+
+==== ALASKA 22GENR ENRbyPrecinct.csv ====
+  status 404, 69,617 chars, 383 lines
+    <!DOCTYPE html>
+    <html dir="ltr" lang="en-US" prefix="og: https://ogp.me/ns#">
+    <head >
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Page not found</title>
+
+==== MN governor county view: https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&scenario=Governor&officeInElectionId=38695 ====
+  status 200 title='Index - Election Results' text="Skip to main content MENU Toggle navigation OFFICE OF THE MINNESOTA SECRETARY OF STATE STEVE SIMON SEARCH SEARCH Elections & Voting Español Hmoob Soomaali Tiếng Việt Pусский 中文 ພາສາລາວ Afaan Oromo ខ្មែរ አማርኛ ကညီကျိာ် Register to Vote Election Day Voting Other Ways to Vote What's on My Ballot? Election Results Find County Election Office Secure and Fair Elections Get Involved! How Elections Work Unofficial Results Tuesday, August 11, 2026 Results Home Previous Page Counties Reporting: 87 of 87 Co"
+  link 'Find County Election Office' -> https://www.sos.mn.gov/elections-voting/find-county-election-office/
+
+==== MN results home: https://electionresults.sos.mn.gov/200 ====
+  status 200 title='Radware Captcha Page' text='We apologize for the inconvenience... ...but your activity and behavior on this site made us think that you are a bot. Note: A number of things could be going on here. If you are attempting to access this site using an anonymous Private/Proxy network, please disable that and try accessing site again'
+
+==== NV Washoe files: https://www.washoecounty.gov/voters/results/results.php ====
+  status 200 title='2026 Primary Results Files - Washoe County' text='Skip to content Select Language English Español Filipino 简体中文 Tiếng Việt ਪੰਜਾਬੀ Français Deutsch Italiano Русский Українська LIVING HERE DOING BUSINESS HEALTH & SAFETY HOMES & PROPERTY YOUR GOVERNMENT'
+  link 'Skip to content' -> https://www.washoecounty.gov/voters/results/results.php#subpageText
+  link 'Menu' -> https://www.washoecounty.gov/voters/results/results.php#
+  link 'Results Dashboard' -> https://electionresults.washoecounty.gov/
+  link '2026 Primary Results Files' -> https://www.washoecounty.gov/voters/results/results.php
+  link '2026 Election Data' -> https://www.washoecounty.gov/voters/results/2026data.php
+  link 'Archived Election Results' -> https://www.washoecounty.gov/voters/results/archivedresults.php
+  link 'Zero Results File' -> https://www.washoecounty.gov/voters/results/datafiles/WASHOE2026PRIMARYSummary-Zero-File.pdf
+  link '1st Results Upload' -> https://www.washoecounty.gov/voters/results/datafiles/WASHOE2026PRIMARYSummary01.pdf
+  link '2nd Results Upload' -> https://www.washoecounty.gov/voters/results/datafiles/WASHOE2026PRIMARYSummary02.pdf
+  link '3rd Results Upload' -> https://www.washoecounty.gov/voters/results/datafiles/WASHOE2026PRIMARYSummary03.pdf
+  link '4th Results Upload' -> https://www.washoecounty.gov/voters/results/datafiles/WASHOE2026PRIMARYSummary04.pdf
+  link '5th Results Upload' -> https://www.washoecounty.gov/voters/results/datafiles/WASHOE2026PRIMARYSummary05.pdf
+  link '6th Results Upload' -> https://www.washoecounty.gov/voters/results/datafiles/WASHOE2026PRIMARYSummary06.pdf
+  link '7th Results Upload' -> https://www.washoecounty.gov/voters/results/datafiles/WASHOE2026PRIMARYSummary07.pdf
+  link '8th Results Upload' -> https://www.washoecounty.gov/voters/results/datafiles/WASHOE2026PRIMARYSummary08.pdf
+  link '9th Results Upload' -> https://www.washoecounty.gov/voters/results/datafiles/WASHOE2026PRIMARYSummary09.pdf
+  link '10th Results Upload' -> https://www.washoecounty.gov/voters/results/datafiles/WASHOE2026PRIMARYSummary10.pdf
+  link '11th Results Upload' -> https://www.washoecounty.gov/voters/results/datafiles/WASHOE2026PRIMARYSummary11.pdf
+  link '12th Results Upload' -> https://www.washoecounty.gov/voters/results/datafiles/WASHOE2026PRIMARYSummary12.pdf
+  link '13th Results Upload' -> https://www.washoecounty.gov/voters/results/datafiles/WASHOE2026PRIMARYSummary13.pdf
+  link '14th Results Upload' -> https://www.washoecounty.gov/voters/results/datafiles/WASHOE2026PRIMARYSummary14.pdf
+  link '15th Results Upload' -> https://www.washoecounty.gov/voters/results/datafiles/WASHOE2026PRIMARYSummary15.pdf
+  link '16th Results Upload' -> https://www.washoecounty.gov/voters/results/datafiles/WASHOE2026PRIMARYSummary16.pdf
+  link '17th Results Upload' -> https://www.washoecounty.gov/voters/results/datafiles/WASHOE2026PRIMARYSummary17.pdf
+  link '18th Results Upload' -> https://www.washoecounty.gov/voters/results/datafiles/WASHOE2026PRIMARYSummary18.pdf
+  link 'Unofficial Final Results' -> https://www.washoecounty.gov/voters/results/datafiles/Washoe%202026%20Primary%20Unofficial%20Final%20Results.pdf
+  link 'Official Final Results' -> https://www.washoecounty.gov/voters/results/datafiles/WASHOE2026PRIMARYSummaryFINAL.pdf
+
+==== NV Clark results TV: https://elections.clarkcountynv.gov/ElectionResultsTV/ ====
+  status 200 title='Election Results' text=' 2026 General Election '
