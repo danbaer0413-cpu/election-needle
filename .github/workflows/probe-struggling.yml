@@ -1,0 +1,29 @@
+name: probe-struggling
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  struggling:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install playwright && playwright install --with-deps chromium
+      - run: python probe_struggling.py
+        continue-on-error: true
+      - name: Save report
+        run: |
+          git config user.name "needle-bot"
+          git config user.email "needle-bot@users.noreply.github.com"
+          git add data/portal_struggling.txt
+          git commit -m "struggling-states probe" || echo "nothing to commit"
+          git pull --rebase -X theirs || true
+          git push || (sleep 5 && git pull --rebase -X theirs && git push)
+      - uses: actions/upload-artifact@v4
+        with:
+          name: portal-struggling
+          path: data/portal_struggling.txt
