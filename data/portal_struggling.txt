@@ -1,0 +1,437 @@
+
+==== MN state: https://electionresults.sos.mn.gov/ ====
+  status 200  BLOCKED=False  title='Home - Election Results'
+  text: 'Skip to main content MENU Toggle navigation OFFICE OF THE MINNESOTA SECRETARY OF STATE STEVE SIMON SEARCH SEARCH Elections & Voting Español Hmoob Soomaali Tiếng Việt Pусский 中文 ພາສາລາວ Afaan Oromo ខ្មែរ አማርኛ ကညီကျိာ် Register to Vote Election Day Voting Other '
+  tables on page: 0
+  link 'Skip to main content' -> https://electionresults.sos.mn.gov/#main-content
+  link 'Open Menu' -> https://electionresults.sos.mn.gov/#
+  link 'Election Results' -> https://www.sos.mn.gov/elections-voting/election-results
+  link 'Ballot Questions' -> https://electionresults.sos.mn.gov/Select/BallotQuestions/Index?ersElectionId=200
+  link 'Search by Candidate' -> https://electionresults.sos.mn.gov/Select/SearchByCandidate/Index?ersElectionId=200
+  link 'About these Results' -> https://electionresults.sos.mn.gov/Select/AboutTheseResults/Index?ersElectionId=200
+  link 'Voter Turnout' -> https://electionresults.sos.mn.gov/Select/VoterTurnOut/Index?ersElectionId=200
+  link 'All without Judicial' -> https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&scenario=AllwithoutJudicial&electionDate=8%2F11%2F2026%2012%3A00%3A00%20AM
+  link 'U.S. Senate' -> https://electionresults.sos.mn.gov/Results/Index?ErsElectionId=200&officeInElectionIdList=38485&officeInElectionIdList=-1&scenario=USSenate&electionDate=08%2F11%2F2026%2000%3A00%3A00
+  link 'Governor' -> https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&scenario=Governor&officeInElectionId=38695
+  link 'Secretary of State' -> https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&scenario=SecretaryOfState&officeInElectionId=38696
+  link 'State Auditor' -> https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&scenario=StateAuditor&officeInElectionId=38697
+  link 'Attorney General' -> https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&scenario=AttorneyGeneral&officeInElectionId=38698
+  link 'Judicial' -> https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&scenario=AllJudicial&electionDate=8%2F11%2F2026%2012%3A00%3A00%20AM
+
+==== MN Hennepin: https://vote.hennepin.us/ ====
+  FAILED: Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://vote.hennepin.us/
+Call log:
+  - navigating to "https://vote.hennepin.us/", waiting until "d
+
+==== MN Ramsey: https://www.ramseycounty.us/residents/elections-voting ====
+  status 200  BLOCKED=False  title='Elections & Voting | Ramsey County, Minnesota'
+  text: 'Skip to main content Language Home Jobs News & Updates Calendar Contact Us Residents Businesses Your Government Elections & Voting Quick links for Ramsey County voters, candidates and election judges. Voting basics Find answers to questions about eligibility, '
+  tables on page: 0
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/residents/elections-voting.json?slug=residents&slug=elections-voting [application/json] 13,565B
+  data call 200 https://content.ramseycountymn.gov/api/alerts/www [application/json] 86B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en.json [application/json] 22,286B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/news.json [application/json] 9,684B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/events.json [application/json] 9,120B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/your-government/contacts-locations.json?slug=your-government&slug=contacts-locations [application/json] 14,317B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/residents/licenses-permits-records.json?slug=residents&slug=licenses-permits-records [application/json] 14,242B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/residents/emergency-response-preparedness.json?slug=residents&slug=emergency-response-preparedness [application/json] 15,017B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/residents/libraries.json?slug=residents&slug=libraries [application/json] 13,791B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/residents.json?slug=residents [application/json] 27,372B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/residents/recycling-waste.json?slug=residents&slug=recycling-waste [application/json] 16,174B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/residents/parks-recreation.json?slug=residents&slug=parks-recreation [application/json] 23,677B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/residents/property-home.json?slug=residents&slug=property-home [application/json] 17,270B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/your-government/about-ramsey-county/jobs.json?slug=your-government&slug=about-ramsey-county&slug=jobs [application/json] 22,141B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/residents/health-medical.json?slug=residents&slug=health-medical [application/json] 24,363B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/businesses/property-development.json?slug=businesses&slug=property-development [application/json] 18,868B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/residents/assistance-support.json?slug=residents&slug=assistance-support [application/json] 20,110B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/your-government.json?slug=your-government [application/json] 19,724B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/businesses/recycling-waste.json?slug=businesses&slug=recycling-waste [application/json] 14,013B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/residents/event-spaces.json?slug=residents&slug=event-spaces [application/json] 25,113B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/businesses/doing-business-ramsey-county.json?slug=businesses&slug=doing-business-ramsey-county [application/json] 16,644B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/businesses/transit-sales-use-tax.json?slug=businesses&slug=transit-sales-use-tax [application/json] 11,058B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/businesses.json?slug=businesses [application/json] 16,728B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/businesses/licenses-permits-inspections.json?slug=businesses&slug=licenses-permits-inspections [application/json] 14,892B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/businesses/workforce-business-development.json?slug=businesses&slug=workforce-business-development [application/json] 12,739B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/your-government/leadership.json?slug=your-government&slug=leadership [application/json] 13,387B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/your-government/departments.json?slug=your-government&slug=departments [application/json] 18,755B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/your-government/ordinances-regulations.json?slug=your-government&slug=ordinances-regulations [application/json] 41,903B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/residents/environment.json?slug=residents&slug=environment [application/json] 22,261B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/residents/roads-transportation.json?slug=residents&slug=roads-transportation [application/json] 27,458B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/residents/public-safety-law.json?slug=residents&slug=public-safety-law [application/json] 19,955B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/your-government/open-government.json?slug=your-government&slug=open-government [application/json] 14,019B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/your-government/about-ramsey-county.json?slug=your-government&slug=about-ramsey-county [application/json] 23,785B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/your-government/projects-initiatives.json?slug=your-government&slug=projects-initiatives [application/json] 42,511B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/your-government/volunteer.json?slug=your-government&slug=volunteer [application/json] 32,504B
+  data call 200 https://www.ramseycountymn.gov/_next/data/c015549f635e3bf778eb849944fea33422e3258f/en/residents/elections-voting/voters/voting-basics.json?slug=residents&slug=elections-voting&slug=voters&slug=voting- [application/json] 21,769B
+  data call 200 https://cdn.weglot.com/projects-settings/0dd01dd46e07b593cf78209a175e57e55.json [application/json] 2,195B
+  data call 200 https://api-js.mixpanel.com/track/?verbose=1&ip=1&_=1792982395963 [application/json] 25B
+
+==== MN Dakota: https://www.co.dakota.mn.us/Government/Elections/Pages/default.aspx ====
+  status 200  BLOCKED=False  title='Government | Dakota County'
+  text: 'Skip to main content Dakota County Library Parks Translate Contact News Notices Calendar Residents Businesses Government Dakota County Government Government About Dakota County Advisory Committees Board of Commissioners Budget and Financial Reports County Atto'
+  tables on page: 0
+  data call 200 https://dakotacountymn.gov/libs/granite/csrf/token.json [application/json] 2B
+  data call 200 https://docaccess.com/domains/dakotacountymn.gov/domain.json [application/json] 180,215B
+  data call 200 https://adobedc.demdex.net/ee/v1/interact?configId=ba366375-eade-4120-bb4c-343f57c0ee11&requestId=afb6a05a-1b1a-448f-9754-9ef40241de2c [application/json;charset=utf-8] 822B
+
+==== MN Anoka: https://www.anokacounty.us/elections ====
+  status 200  BLOCKED=False  title='Elections & Voter Registration | Anoka County, MN - Official Website'
+  text: 'Skip to Main Content Search Services Departments Your Government Business HomeDepartmentsProperty Records & TaxationElections & Voter Registration Elections & Voter Registration New Video Series - Behind the Ballot Watch our new video series that dives into ho'
+  tables on page: 1
+  link '' -> https://www.anokacountymn.gov/Search/Results
+  link 'Click here for full 2026 Election Calendar' -> https://www.anokacountymn.gov/DocumentCenter/View/39722/2026-Public-Calendar
+  link 'Election Results' -> https://www.anokacountymn.gov/1241/Election-Results
+  data call 200 https://www.anokacountymn.gov/antiforgery [application/json; charset=utf-] 120B
+  data call 200 https://www.anokacountymn.gov/ImageRepository/Document?documentID=39364 [image/svg+xml] 1,292B
+  data call 200 https://www.anokacountymn.gov/ImageRepository/Document?documentID=39374 [image/svg+xml] 953B
+  data call 200 https://www.anokacountymn.gov/ImageRepository/Document?documentID=29727 [image/svg+xml] 674B
+  data call 200 https://www.anokacountymn.gov/ImageRepository/Document?documentId=29726 [image/svg+xml] 21,790B
+  data call 200 https://www.anokacountymn.gov/ImageRepository/Document?documentID=29728 [image/svg+xml] 9,725B
+  data call 200 https://www.anokacountymn.gov/ImageRepository/Document?documentID=29736 [image/svg+xml] 679B
+  data call 200 https://www.anokacountymn.gov/Toggle [application/json; charset=utf-] 11,361B
+  data call 200 https://www.anokacountymn.gov/api/v1/SplashModal/Get?targetId=220&targetType=1&requestMode=0&_=1792982404371 [application/json; charset=utf-] 358B
+  data call 200 https://docaccess.com/domains/anokacountymn.gov/domain.json [application/json] 1,052,086B
+
+==== MN St. Louis: https://www.stlouiscountymn.gov/departments-a-m/elections/ ====
+  status 404  BLOCKED=False  title='404 Error Page'
+  text: 'LOCATIONS JOBS DOCUMENT SEARCH FAQS A | A | A SELECT LANGUAGE\u200b▼ OUR COUNTY I WANT TO... RESIDENTS BUSINESS DEPARTMENTS A-Z 404 ERROR PAGE Home / 404 Error Page Sorry, the page you are looking for cannot be found and might have been removed, had its name change'
+  tables on page: 1
+
+==== NV Clark: https://elections.clarkcountynv.gov/ ====
+  status 200  BLOCKED=False  title='Clark County Election Department | Official Site'
+  text: 'Skip to main content WHAT WOULD YOU LIKE TO DO? SERVICES GOVERNMENT SEARCH US HomeGovernmentDepartment DirectoryElection Election Services Toggle submenu All Elected Officials Toggle submenu Military and Overseas Voters Voters with Disabilities Reports, Data, '
+  tables on page: 0
+  link 'Special Districts, General Improvement Districts, and Conser' -> https://www.clarkcountynv.gov/government/departments/elections/all_elected_officials/specdist-gid
+  link 'One-Stop Page for Information about the 2026 General Electio' -> https://www.clarkcountynv.gov/government/departments/elections/26g-info
+  link 'Mail Ballot Processing Schedule, Oct. 21-26, 2026' -> https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:f1cc5edb-9d6b-4a1f-b22d-1b5482619b18/original/as/mbprocess-oct21tooct26-26g.pdf
+  link 'Early Voting Daily Totals' -> https://elections.clarkcountynv.gov/ElectionResultsTV/evturnout.aspx
+  link 'Key Important Dates for the 2026 Elections' -> https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:a5950eb8-cb6d-404e-a533-b4856da8aa86/original/as/2026-dates.pdf
+  link 'Check your Registration Before You Vote' -> https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:228bc80b-da3b-42da-bc72-25cce75470d1/original/as/cced-newsletter-fall2026.pdf
+  data call 200 https://www.clarkcountynv.gov/placeholders.json [application/json] 725B
+
+==== NV Clark dept: https://www.clarkcountynv.gov/government/departments/elections ====
+  status 404  BLOCKED=False  title="404. The page/URL requested wasn't found on this site."
+  text: "Skip to main content WHAT WOULD YOU LIKE TO DO? SERVICES GOVERNMENT SEARCH US 404. The page/URL requested wasn't found on this site. Oops! That page couldn't be found because . . . Clark County, NV has a new website at www.clarkcountynv.gov You can easily find"
+  tables on page: 0
+  data call 200 https://www.clarkcountynv.gov/placeholders.json [application/json] 725B
+
+==== NV Washoe: https://www.washoecounty.gov/voters/ ====
+  status 200  BLOCKED=False  title='Registrar of Voters - Washoe County'
+  text: 'Skip to content Select Language English Español Filipino 简体中文 Tiếng Việt ਪੰਜਾਬੀ Français Deutsch Italiano Русский Українська LIVING HERE DOING BUSINESS HEALTH & SAFETY HOMES & PROPERTY YOUR GOVERNMENT ALL DEPARTMENTS Registrar of Voters RESULTS DASHBOARD REGIS'
+  tables on page: 1
+  link 'Results Dashboard' -> https://electionresults.washoecounty.gov/
+  link '2026 Primary Results Files' -> https://www.washoecounty.gov/voters/results/results.php
+  link '2026 Election Data' -> https://www.washoecounty.gov/voters/results/2026data.php
+  link 'Archived Election Results' -> https://www.washoecounty.gov/voters/results/archivedresults.php
+  link '2026 non-judicial candidate filing begins March 2' -> https://washoelife.washoecounty.gov/washoe-county/2026-non-judicial-candidate-filing-begins-march-2/
+  link 'Find the list of vote centers for the 2026 General Election,' -> https://washoelife.washoecounty.gov/washoe-county/find-the-list-of-vote-centers-for-the-2026-general-election-now-available/
+  link 'Registrar of Voters announces results of post-primary voter ' -> https://washoelife.washoecounty.gov/washoe-county/registrar-of-voters-announces-results-of-post-primary-voter-roll-maintenance/
+  link 'Washoe County Enters Final Stages of 2026 Primary Election a' -> https://washoelife.washoecounty.gov/washoe-county/2026-primary-final-stages/
+  link 'Nearly 950 Mail Ballots Still Require Signature Cure Before ' -> https://washoelife.washoecounty.gov/washoe-county/2026-primary-last-day-to-cure/
+  link '2026 Primary Election Weekend Processing Plans' -> https://washoelife.washoecounty.gov/washoe-county/2026-primary-election-update-june-12/
+  link '2026 Primary Election Night Update, June 11' -> https://washoelife.washoecounty.gov/washoe-county/2026-primary-election-night-update-june-11-2/
+  link '2026 Primary Election Mid-Day Update, June 11' -> https://washoelife.washoecounty.gov/washoe-county/2026-primary-election-mid-day-update-june-11/
+  link 'Registrar of Voters announces results of off-year voter roll' -> https://washoelife.washoecounty.gov/washoe-county/registrar-of-voters-announces-results-of-off-year-voter-roll-maintenance/
+  link '2026 Election Information' -> https://www.washoecounty.gov/voters/information/index.php
+  data call 200 https://docaccess.com/domains/washoecounty.gov/domain.json [application/json] 2,030,266B
+
+==== NV Washoe results: https://www.washoecounty.gov/voters/results/ ====
+  status 403  BLOCKED=False  title='403 Forbidden'
+  text: "Forbidden You don't have permission to access this resource."
+  tables on page: 0
+
+==== NH SOS elections: https://www.sos.nh.gov/elections ====
+  status 200  BLOCKED=False  title='Elections | New Hampshire Secretary of State'
+  text: 'Skip to main content A A A Change Text Size Change Site Language Search The Site New Hampshire Secretary of State David M. Scanlan Contact Us Main navigation Home Administration Elections Civic & Voter Education Corporations UCC and Statutory Liens Securities '
+  tables on page: 0
+  link 'Party Registration History 1970-2026' -> https://www.sos.nh.gov/party-registration-history-1970-2026
+  link '2026 Election Details' -> https://www.sos.nh.gov/2026-election-details
+  link '2026 Election Results' -> https://www.sos.nh.gov/2026-election-results
+  link '2024 Election Results' -> https://www.sos.nh.gov/2024-election-results
+  link '2022 Election Results' -> https://www.sos.nh.gov/elections/2022-election-results
+  link '2020 Election Results' -> https://www.sos.nh.gov/elections/2020-election-results
+  link '2018 Election Results' -> https://www.sos.nh.gov/elections/2018-election-results
+  link '2016 Election Results' -> https://www.sos.nh.gov/elections/2016-election-results
+  link '2025-2026 Special Elections' -> https://www.sos.nh.gov/2025-2026-special-elections
+  link '2023-2024 Special Election Results' -> https://www.sos.nh.gov/elections/2023-2024-special-elections
+  link '2021-2022 Special Election Results' -> https://www.sos.nh.gov/elections/2021-2022-special-elections
+  link 'Election Procedure Manual' -> https://mm.nh.gov/files/uploads/sos/docs/nhsos-2026-epm-complete-book-remediated.pdf
+  link 'Political Calendar' -> https://www.sos.nh.gov/elections/2026-2027-political-calendar
+
+==== NH electionstats: https://nh.electionstats.com/ ====
+  status 404  BLOCKED=False  title='Page not found - ElectionStats'
+  text: 'ALL CIVERA REQUEST DEMO 404. Not Found. GO TO THE HOMEPAGE ElectionStats is built by Civera Since 2012, we’ve been using software to bring public data to life. About Civera Our Team Join the Team Our Solutions ElectionStats Publishing platform and a searchable'
+  tables on page: 0
+
+==== NH Manchester: https://www.manchesternh.gov/Departments/City-Clerk/Elections ====
+  status 200  BLOCKED=False  title='City Clerk'
+  text: 'Pay Online Employment Accessibility Search Use the up and down arrows to select a result. Press enter to go to the selected search result. Touch device users can use touch and swipe gestures. Home Government Departments Business Residents Visitors Contact Us C'
+  tables on page: 0
+  link 'Code of Ordinances Title IX General Regulations' -> https://codelibrary.amlegal.com/codes/manchester/latest/manchester_nh/0-0-0-2958
+  link 'Code of Ordinances Title XIII: General Offenses' -> https://codelibrary.amlegal.com/codes/manchester/latest/manchester_nh/0-0-0-4996
+  link 'Election Results' -> https://www.manchesternh.gov/Departments/City-Clerk/Voter-Registration-and-Elections/Election-Results
+  link 'Mosquito Surveillance and Results' -> https://www.manchesternh.gov/Departments/Health/Environmental-Health/Arbovirus-Surveillance-and-Control/Mosquito-Surveillance-and-Results
+  link 'Resources and Downloads' -> https://www.manchesternh.gov/Departments/Planning-and-Comm-Dev/ConPlan-Update/Resources-and-Downloads
+  link 'General Information' -> https://www.manchesternh.gov/Departments/Police/General-Information
+  link 'Bid Opportunities and Results' -> https://www.manchesternh.gov/Departments/Purchasing/Bid-Opportunities-and-Results
+  link 'General Announcements' -> https://www.manchesternh.gov/Government/General-Announcements
+  data call 200 https://pagecorrect.monsido.com/v1/settings/bYl47GJW-QT7Hj4j00jopw.json [application/json] 2B
+  data call 200 https://heatmaps.monsido.com/v1/settings/bYl47GJW-QT7Hj4j00jopw.json [application/json] 1,213B
+
+==== MI state: https://mielections.us/election/results/ ====
+  FAILED: TimeoutError: Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to "https://mielections.us/election/results/", waiting until "domcontentloaded
+
+==== MI Wayne: https://www.waynecounty.com/elected/clerk/election-results.aspx ====
+  status 200  BLOCKED=False  title='Election Results & Candidates - Wayne County, Michigan'
+  text: 'Skip to main content Select a language to translate to Search Services Government Parks & Recreation Home / Government/ Elected Officials / Clerk / Elections / Election Results & Candidates Clerk Menu In This Section Clerk Home Elections Voter Information Mich'
+  tables on page: 0
+  link 'Skip to main content' -> https://www.waynecountymi.gov/Government/Elected-Officials/Clerk/Elections/Election-Results-Candidates#main-content
+  link 'English (United States) Select this as your preferred langua' -> https://www.waynecountymi.gov/Government/Elected-Officials/Clerk/Elections/Election-Results-Candidates?oc_lang=en-US
+  link 'French Select this as your preferred language' -> https://www.waynecountymi.gov/Government/Elected-Officials/Clerk/Elections/Election-Results-Candidates?oc_lang=fr
+  link 'Arabic Select this as your preferred language' -> https://www.waynecountymi.gov/Government/Elected-Officials/Clerk/Elections/Election-Results-Candidates?oc_lang=ar
+  link 'Spanish Select this as your preferred language' -> https://www.waynecountymi.gov/Government/Elected-Officials/Clerk/Elections/Election-Results-Candidates?oc_lang=es
+  link 'Hindi Select this as your preferred language' -> https://www.waynecountymi.gov/Government/Elected-Officials/Clerk/Elections/Election-Results-Candidates?oc_lang=hi
+  link 'Hmong Select this as your preferred language' -> https://www.waynecountymi.gov/Government/Elected-Officials/Clerk/Elections/Election-Results-Candidates?oc_lang=hmn
+  link 'German Select this as your preferred language' -> https://www.waynecountymi.gov/Government/Elected-Officials/Clerk/Elections/Election-Results-Candidates?oc_lang=de
+  link 'Polish Select this as your preferred language' -> https://www.waynecountymi.gov/Government/Elected-Officials/Clerk/Elections/Election-Results-Candidates?oc_lang=pl
+  link 'Greek Select this as your preferred language' -> https://www.waynecountymi.gov/Government/Elected-Officials/Clerk/Elections/Election-Results-Candidates?oc_lang=el
+  link 'Italian Select this as your preferred language' -> https://www.waynecountymi.gov/Government/Elected-Officials/Clerk/Elections/Election-Results-Candidates?oc_lang=it
+  link 'FOIA Request Form - General' -> https://www.waynecountymi.gov/Services/Records/FOIA-Request-Form-General
+  link 'Election Results & Candidates' -> https://www.waynecountymi.gov/Government/Elected-Officials/Clerk/Elections/Election-Results-Candidates
+  link '2011-2024 Elections' -> https://www.waynecountymi.gov/Government/Elected-Officials/Clerk/Elections/Election-Results-Candidates/2021-2024-Elections
+  data call 302 https://www.waynecountymi.gov/Government/Elected-Officials/Clerk/Elections/Election-Candidates-Results [text/xml; charset=utf-8] 0B
+
+==== MI Oakland: https://www.oakgov.com/clerk-register-of-deeds/elections ====
+  status 404  BLOCKED=False  title='Oakland County, MI'
+  text: 'Skip to main content Enable accessibility for low vision Open the accessibility menu dashboard Skip to main content ↵ ENTER Contact Us News Jobs Test Test1 Business Community Government Find Service Whoops! The page you are trying to reach may have been rename'
+  tables on page: 0
+  data call 200 https://www.oaklandcountymi.gov/_next/image?url=https%3A%2F%2Fcdn.oaklandcountymi.gov%2Foakland-sitefinity-prod%2Fimages%2Fdefault-source%2Flogos%2Flogo-footer.svg%3Fsfvrsn%3D2ad9a2eb_3&w=256&q=75 [image/svg+xml] 55,193B
+  data call 200 https://www.oaklandcountymi.gov/api/domain-splash [application/json] 8,689B
+  data call 200 https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php?Q_ZoneID=ZN_27TlvQEIonf3xG7&Q_CLIENTVERSION=2.60.1&Q_CLIENTTYPE=web [application/json] 4,173B
+  data call 200 https://api.userway.org/api/v1/tunings/hgz54VKEfR [application/json; charset=utf-] 1,476B
+  data call 200 https://cdn.userway.org/widgetapp/2026-09-29-10-33-22/locales/en-US.json [application/json] 674B
+  data call 200 https://cdn.userway.org/remediations/consolidated/3639763/EfDBeBqK7Ut1VHdn.json [application/json] 104,065B
+  data call 200 https://cdn77.api.userway.org/api/img-dscr/v2/hgz54VKEfR/3858044/TIxVf7bHfbvWocsi/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.oaklandcountymi.gov%2F_next%2Fimage%3Furl%3Dhtt [application/json; charset=utf-] 583B
+  data call 200 https://api.userway.org/api/br-links/v0/links/3858044 [application/json; charset=utf-] 338B
+  data call 200 https://cdn77.api.userway.org/api/img-dscr/v2/hgz54VKEfR/3858044/TIxVf7bHfbvWocsi/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.oaklandcountymi.gov%2F_next%2Fimage%3Furl%3Dhtt [application/json; charset=utf-] 2,200B
+
+==== MI Kent: https://www.accesskent.com/Elections/ ====
+  status 200  BLOCKED=False  title='Kent County, MI • CivicEngage'
+  text: 'Skip to Main Content Search Home Custom404 An error has occurred. An error has occurred in this application. All information about this error has been logged. We apologize for any inconvenience. Please use this number to reference this error: Return to HOME pa'
+  tables on page: 1
+  link '' -> https://www.kentcountymi.gov/Search/Results
+  data call 200 https://docaccess.com/domains/kentcountymi.gov/domain.json [application/json] 320,861B
+  data call 200 https://backend-answers-prod.frase.io/getQaBotsForOrg [application/json] 18,381B
+
+==== WI Milwaukee: http://county.milwaukee.gov/ElectionResults23729.htm ====
+  status 403  BLOCKED=True  title='Just a moment...'
+  text: 'county.milwaukee.gov Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a5061b5bcf43eac5 Performance and Security by Cloudflare P'
+  tables on page: 0
+
+==== WI Dane: https://elections.countyofdane.com/Election-Dates ====
+  status 200  BLOCKED=False  title='Election Dates'
+  text: ' Toggle Dropdown Translate Home Dates and Results How to Vote Run for Office Campaign Finance Auditing Contact Us Election and Voting Information Election Dates The following are dates of elections held in Dane County, Wisconsin. 2026 Elections View Results 11'
+  tables on page: 0
+  link 'Dates and Results' -> https://elections.countyofdane.com/election-dates
+  link 'View Results' -> https://elections.countyofdane.com/Election-Result/197
+  link 'View Results' -> https://elections.countyofdane.com/Election-Result/194
+  link 'View Results' -> https://elections.countyofdane.com/Election-Result/190
+  link 'View Results' -> https://elections.countyofdane.com/Election-Result/187
+  link 'View Results' -> https://elections.countyofdane.com/Election-Result/185
+  link 'View Results' -> https://elections.countyofdane.com/Election-Result/183
+  link 'View Results' -> https://elections.countyofdane.com/Election-Result/180
+  link 'View Results' -> https://elections.countyofdane.com/Election-Result/179
+  link 'View Results' -> https://elections.countyofdane.com/Election-Result/177
+  link 'View Results' -> https://elections.countyofdane.com/Election-Result/172
+  link 'View Results' -> https://elections.countyofdane.com/Election-Result/168
+  link 'View Results' -> https://elections.countyofdane.com/Election-Result/164
+  link 'View Results' -> https://elections.countyofdane.com/Election-Result/159
+  data call 200 https://cdn.danecounty.gov/json/departments/globalStaticDepartmentFooter.json [application/json] 384B
+  data call 200 https://cdn.danecounty.gov/json/departments/globalnav.json [application/json] 56,376B
+  data call 200 https://pagecorrect.monsido.com/v1/settings/prKR0wHUK2YX28M_fVQdhg.json [application/json] 2B
+  data call 200 https://heatmaps.monsido.com/v1/settings/prKR0wHUK2YX28M_fVQdhg.json [application/json] 56B
+
+==== WI Waukesha: http://electionresults.waukeshacounty.gov/contests.aspx?contest=-1 ====
+  status 200  BLOCKED=False  title='Official Election Results | Waukesha County'
+  text: 'This website uses cookies to enhance usability and provide you with a more personal experience. By using this website, you agree to our use of cookies as explained in our Privacy Policy. Agree Skip to main content Skip to footer Waukesha County Living in Wauke'
+  tables on page: 5
+  link 'Skip to main content' -> https://www.waukeshacounty.gov/county-clerks-office/election-information/official-election-results/#site-content
+  link 'Skip to footer' -> https://www.waukeshacounty.gov/county-clerks-office/election-information/official-election-results/#site-footer
+  link 'I Want To ⯆' -> https://www.waukeshacounty.gov/county-clerks-office/election-information/official-election-results/#modal_19876
+  link 'August 11 Official Results (View Only)' -> https://www.waukeshacounty.gov/media/13enpbkp/summary-stmts.pdf
+  link 'April 7 Official Results (View Only)' -> https://www.waukeshacounty.gov/media/2nodyfv2/boc-summaries-signed.pdf
+  link 'February 17 Official Results (View Only)' -> https://www.waukeshacounty.gov/media/luqjx2ui/boc-summary-stmt.pdf
+  link 'August 11 Official Results (Detail)' -> https://www.waukeshacounty.gov/media/gcfiyvk3/contests-by-reporting-unit-for-county-use.xlsx
+  link 'April 7 Official Results (Detail)' -> https://www.waukeshacounty.gov/media/03dpwqkd/state-and-county-results-detail.xlsx
+  link 'February 17 Official Results (Detail-View Only)' -> https://www.waukeshacounty.gov/media/5pvcjon2/feb-election-detail-report-contests-by-reporting-unit-for-county-use.pdf
+  link 'February 18 Official Results (View Only)' -> https://www.waukeshacounty.gov/media/agfobxsc/summary-statement-boc-waukesha-county.pdf
+  link 'April 1 Official Results (View Only)' -> https://www.waukeshacounty.gov/media/15lnppcx/april-1-official-results-view-only.pdf
+  link 'February 18 Official Results (Detail)' -> https://www.waukeshacounty.gov/media/mnthotdj/official-results-february-2025-detail.xlsx
+  link 'April 1 Official Results (Detail)' -> https://www.waukeshacounty.gov/media/zpbfohmn/april-1-official-results-detail.xlsx
+  link 'April 2 Official Results (View only)' -> https://www.waukeshacounty.gov/media/gukjojdh/web-summary-state-boc-fed-state-co.pdf
+  data call 200 https://cdn-account.optimonk.com/192157/accountInfo.json?v=1789075018630 [application/json] 467B
+  data call 200 https://cdn-account.optimonk.com/192157/campaigns.json?v=1789075018558 [application/json] 12,781B
+  data call 200 https://cdn-limit.optimonk.com/public/192157/limit.json [application/json; charset=utf-] 19B
+  data call 200 https://jfapiprod.optimonk.com/v2/ [application/json; charset=utf-] 26B
+
+==== WI Brown: https://www.browncountywi.gov/departments/county-clerk/elections/ ====
+  status 200  BLOCKED=False  title='Brown County > Departments > County Clerk > Elections'
+  text: "Press Alt+1 for screen-reader mode, Alt+0 to cancel Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window Select Language\u200b▼ OFFICE HOURS: THE BROWN COUNTY CLERK'S OFFICE PROVIDES WALK-IN COUNTER SERVICE MON - THU - 7:30AM - 4:30PM & FRI"
+  tables on page: 19
+  link '-' -> https://www.browncountywi.gov/departments/county-clerk/general-information/
+  link '• Election Results' -> https://www.browncountywi.gov/departments/county-clerk/elections/election-results/
+  link 'County Executive' -> https://www.browncountywi.gov/departments/county-executive/general-information/
+  link 'Circuit Court' -> https://www.browncountywi.gov/departments/circuit-court/general-information/
+  link 'Emergency Management' -> https://www.browncountywi.gov/departments/emergency-management/general-information/
+  link 'Extension Brown County' -> https://www.browncountywi.gov/departments/extension-brown-county/general-information/
+  link 'Parks Department' -> https://www.browncountywi.gov/departments/parks-department/general-information/
+  link 'Public Works' -> https://www.browncountywi.gov/departments/public-works/general-information/
+  link "Sheriff's Office" -> https://www.browncountywi.gov/departments/sheriffs-office/general-information/
+  link "Sheriff's Office - Jail Division" -> https://www.browncountywi.gov/departments/sheriffs-office-jail-division/general-information/
+  link 'Syble Hopp School' -> https://www.browncountywi.gov/departments/syble-hopp-school/general-information/
+  link 'Treasurer' -> https://www.browncountywi.gov/departments/treasurer/general-information/
+  link "Veterans' Services" -> https://www.browncountywi.gov/departments/veterans-services/general-information/
+  link 'Airport' -> https://www.browncountywi.gov/departments/airport/general-information/
+  data call 200 https://cdn.acsbapp.com/config/browncountywi.gov/config.json [application/json] 921B
+
+==== WI Racine: https://www.racinecounty.com/departments/county-clerk/election-information/election-results ====
+  status 403  BLOCKED=True  title='Access Denied'
+  text: 'Access Denied You don\'t have permission to access "http://www.racinecounty.gov/departments/county-clerk/election-information/election-results" on this server. Reference #18.a625c017.1792982565.82419e4f https://errors.edgesuite.net/18.a625c017.1792982565.82419e'
+  tables on page: 0
+
+==== WI Kenosha: https://www.kenoshacountywi.gov/1405/Election-Results ====
+  status 200  BLOCKED=False  title='Election Results | Kenosha County, WI - Official Website'
+  text: 'Skip to Main Content County Government Departments How Do I... Search County Candidate Registration & Filings Election Results Election Schedule Previous Election Results Where Do I Vote Voter Registration Information Election Notices Home Departments Elected '
+  tables on page: 0
+  link 'Skip to Main Content' -> https://www.kenoshacountywi.gov/1405/Election-Results#cc8bcebfac-c2fd-47f6-b31a-84dab49c3e89
+  link '' -> https://www.kenoshacountywi.gov/Search/Results
+  link 'Election Results' -> https://www.kenoshacountywi.gov/1405/Election-Results
+  link 'Previous Election Results' -> https://www.kenoshacountywi.gov/840/Previous-Election-Results
+  link '' -> https://www.kenoshacountywi.gov/1405/Election-Results#
+  link '2025 Election Results' -> https://www.kenoshacountywi.gov/2430/2025-Election-Results
+  link 'Election Results for 02/18/2025' -> https://www.kenoshacountywi.gov/2431/Election-Results-for-02182025
+  link 'Election Results for 04/01/2025' -> https://www.kenoshacountywi.gov/2434/Election-Results-for-04012025
+  link '2024 Election Results' -> https://www.kenoshacountywi.gov/2363/2024-Election-Results
+  link 'Election Results for 02/20/2024' -> https://www.kenoshacountywi.gov/2367/Election-Results-for-02202024
+  link 'Election Results for 04/02/2024' -> https://www.kenoshacountywi.gov/2366/Election-Results-for-04022024
+  link 'Election Results for 08/13/2024' -> https://www.kenoshacountywi.gov/2365/Election-Results-for-08132024
+  link 'Election Results for 11/05/2024' -> https://www.kenoshacountywi.gov/2364/Election-Results-for-11052024
+  link '2023 Elections Results' -> https://www.kenoshacountywi.gov/2253/2023-Elections-Results
+  data call 200 https://docaccess.com/domains/kenoshacountywi.gov/domain.json [application/json] 1,814,648B
+
+==== WI Outagamie: https://www.outagamie.gov/Our-County/County-Clerk/Elections ====
+  status 200  BLOCKED=False  title='Elections | Outagamie County, Wisconsin'
+  text: 'Skip to main content Quick Links: Contact UsStaff Login English (United States) is your current preferred language. MENU Search Home / Our County/ County Clerk / Elections County Clerk Menu In This Section Marriage Licenses Elections County Board Filing Requir'
+  tables on page: 1
+  link 'April 2026 Flood Disaster Response Page' -> https://www.outagamie.gov/County-Services/Emergency-Management/April-2026-Flood-Disaster-Response-Page
+  link 'July 2026 Tornado Disaster Response Page' -> https://www.outagamie.gov/County-Services/Emergency-Management/July-2026-Tornado-Disaster-Response-Page
+  link '2026 Extension Education Committee' -> https://www.outagamie.gov/Outagamie-County-Board/Standing-Committees/2026-Extension-Education-Committee
+  link 'Outagamie County Election Results' -> https://www.outagamie.gov/Our-County/County-Clerk/Elections/Outagamie-County-Election-Results
+  link '2026 Elections' -> https://www.outagamie.gov/Our-County/County-Clerk/Elections/Outagamie-County-Election-Results/2026-Elections
+  link 'Prior Outagamie County Elections' -> https://www.outagamie.gov/Our-County/County-Clerk/Elections/Outagamie-County-Election-Results/Election-Archive
+  data call 200 https://docaccess.com/domains/outagamie.gov/domain.json [application/json] 563,032B
+
+==== WI Winnebago: https://www.winnebagocountywi.gov/262/Election-Information ====
+  status 200  BLOCKED=False  title='Election Information | Winnebago County, WI'
+  text: 'Skip To Main Content This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more informati'
+  tables on page: 1
+  link '' -> https://www.winnebagocountywi.gov/Search/Results
+  link 'Past Election Results' -> https://www.winnebagocountywi.gov/Archive.aspx?AMID=37
+  link 'Election Information Packet for November 3, 2026 (PDF)' -> https://www.winnebagocountywi.gov/DocumentCenter/View/4097
+  link 'Certificate of Nomination for General Election 11.3.2026 (PD' -> https://www.winnebagocountywi.gov/DocumentCenter/View/4062
+  link 'Certification of State Races 8.11.2026 (PDF)' -> https://www.winnebagocountywi.gov/DocumentCenter/View/4050
+  link 'Certification of County Races 8.11.2026 (PDF)' -> https://www.winnebagocountywi.gov/DocumentCenter/View/4051
+  link 'fficial Election Night Results 8.11.2026 (PDF)' -> https://www.winnebagocountywi.gov/DocumentCenter/View/3920
+  link 'Unofficial Election Night Results by Reporting Districts 8.1' -> https://www.winnebagocountywi.gov/DocumentCenter/View/3935
+  link 'Official Election Results per Precinct(PDF)' -> https://www.winnebagocountywi.gov/DocumentCenter/View/4048
+  link 'Outstanding Provisional Ballots 8.11.2026 (PDF)' -> https://www.winnebagocountywi.gov/DocumentCenter/View/3921
+  link 'Election Information Packet for August 11, 2026 (PDF)' -> https://www.winnebagocountywi.gov/DocumentCenter/View/3798/Election-Information-Packet-8112026
+  link 'Type A Notice for November 3, 2026 Election (PDF)' -> https://www.winnebagocountywi.gov/DocumentCenter/View/3643
+  link 'Certificate of Nomination for August 11, 2026 (PDF)' -> https://www.winnebagocountywi.gov/DocumentCenter/View/3715
+  link 'fficial Election Night Results 2.17.2026 (PDF)' -> https://www.winnebagocountywi.gov/DocumentCenter/View/3333
+  data call 200 https://pagecorrect.monsido.com/v1/settings/SvCyDti__QqoToLFDgsRwQ.json [application/json] 74B
+  data call 200 https://heatmaps.monsido.com/v1/settings/SvCyDti__QqoToLFDgsRwQ.json [application/json] 246B
+  data call 200 https://docaccess.com/domains/winnebagocountywi.gov/domain.json [application/json] 449,219B
+
+==== WI Rock: https://www.co.rock.wi.us/departments/county-clerk/election-information ====
+  status 403  BLOCKED=True  title='Access Denied'
+  text: 'Access Denied You don\'t have permission to access "http://www.co.rock.wi.us/$(SERVE_403)/departments/county-clerk/election-information?" on this server. Reference #18.a925c017.1792982592.475be17b https://errors.edgesuite.net/18.a925c017.1792982592.475be17b'
+  tables on page: 0
+
+==== WI Marathon: https://www.marathoncounty.gov/services/elections-voting/results ====
+  status 403  BLOCKED=True  title='Access Denied'
+  text: 'Access Denied You don\'t have permission to access "http://www.marathoncounty.gov/$(SERVE_403)/services/elections-voting/results?" on this server. Reference #18.a525c017.1792982599.5e67b6bc https://errors.edgesuite.net/18.a525c017.1792982599.5e67b6bc'
+  tables on page: 0
+
+==== WI Eau Claire: https://www.eauclairecounty.gov/departments/county_clerk/elections/election_results.php ====
+  status 200  BLOCKED=False  title='Eau Claire County, WI'
+  text: 'Skip To Main Content Government Departments Community I Want To Election Results Voter Registration And Locations Accessibility Directory Careers (Opens in new window) Opens in new window (Opens in new window) Opens in new window (Opens in new window) Opens in'
+  tables on page: 0
+  link 'Skip To Main Content' -> https://www.eauclairecounty.gov/departments/county_clerk/elections/election_results.php#main
+  link '2026 County Budget' -> https://www.eauclairecounty.gov/government/transparency/2026_county_budget.php
+  link 'Election Results' -> https://www.eauclairecounty.gov/departments/county_clerk/elections/election_results.php
+  link 'English' -> https://www.eauclairecounty.gov/departments/county_clerk/elections/election_results.php#
+  link '(Opens in new window) Opens in new window' -> https://www.eauclairecounty.gov/Images/Departments/Elected%20Offices/County%20Clerk/Elections/Election.png?t=202608111019290
+  link 'November 3, 2026 Unofficial General Election Results Summary' -> https://www.eauclairecounty.gov/Documents/Departments/Elected%20Offices/County%20Clerk/Elections/Election%20Results/Summary%20Zero%2011032026.pdf?t=202609151318380
+  link 'November 3, 2026 Unofficial General Election Results Detaile' -> https://www.eauclairecounty.gov/Documents/Departments/Elected%20Offices/County%20Clerk/Elections/Election%20Results/Detailed%20Zero%2011032026.pdf?t=202609151319460
+  link 'August 17-18, 2026 Board of Canvass Agenda (Opens in new win' -> https://www.eauclairecounty.gov/Documents/Departments/Elected%20Offices/County%20Clerk/Elections/Board%20of%20Canvas/August2026BoardOfCanvassAgenda.pdf?t=202607301630280
+  link 'April 13, 2026 Board of Canvassers Agenda (Opens in new wind' -> https://www.eauclairecounty.gov/Documents/Departments/Elected%20Offices/County%20Clerk/Elections/Board%20of%20Canvas/April2026BoardOfCanvassAgenda.pdf?t=202604091114330
+  link 'August 11, 2026 Canvassed Election Results (10 pages) FINAL ' -> https://www.eauclairecounty.gov/Documents/Departments/Elected%20Offices/County%20Clerk/Elections/Election%20Results/ALLCanvasFinal08112026.pdf?t=202609151153090
+  link 'August 11, 2026 Unofficial Partisan Primary Election Results' -> https://www.eauclairecounty.gov/Documents/Departments/Elected%20Offices/County%20Clerk/Elections/Election%20Results/Summary0940.pdf?t=202609151152150
+  link 'August 11, 2026 Unofficial Partisan Primary Election Results' -> https://www.eauclairecounty.gov/Documents/Departments/Elected%20Offices/County%20Clerk/Elections/Election%20Results/Detailed0946.pdf?t=202609151132280
+  link 'April 7, 2026 Canvassed State & County Race Results (11 Page' -> https://www.eauclairecounty.gov/Documents/Departments/Elected%20Offices/County%20Clerk/Elections/Election%20Results/CanvassedResults04072026website.pdf?t=202607011311190
+  link 'April 7, 2026 Unofficial Summary Results (16 pages) (Opens i' -> https://www.eauclairecounty.gov/Documents/Departments/Elected%20Offices/County%20Clerk/Elections/Election%20Results/summary%20report%2004072026%20FINAL2.pdf?t=202607011317440
+  data call 200 https://webapp.recyclecoach.com/js/jsfiles.json?2026-10-26---02 [application/json] 32B
+  data call 200 https://heatmaps.monsido.com/v1/settings/DbEKE8ICbAa7zel77Dw-OA.json [application/json] 822B
+  data call 200 https://pagecorrect.monsido.com/v1/settings/DbEKE8ICbAa7zel77Dw-OA.json [application/json] 844B
+  data call 200 https://www.eauclairecounty.gov/_assets_/plugins/revizeCalendar/calendar_data_handler?webspace=eauclairecountywi&relative_revize_url=//cms2.revize.com&protocol=https: [application/json] 510,386B
+
+==== WI La Crosse: https://lacrossecounty.org/countyclerk/elections/election-results ====
+  status 403  BLOCKED=True  title='Just a moment...'
+  text: 'lacrossecounty.org Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a5061d2e58916e6c Performance and Security by Cloudflare Pri'
+  tables on page: 0
+
+==== KS state: https://sos.ks.gov/elections/election-results.html ====
+  status 200  BLOCKED=False  title='Kansas Secretary of State | Elections | Election Results'
+  text: "An official State of Kansas government website. Here's how you know. Businesses Elections Publications General Services Lobbyist Media About Election Results Election information for years prior to 2004 and unofficial and precinct specific election results are"
+  tables on page: 0
+  link "Here's how you know." -> https://sos.ks.gov/elections/election-results.html#collapseOfficial
+  link 'Businesses' -> https://sos.ks.gov/elections/election-results.html#
+  link 'Election Results' -> https://sos.ks.gov/elections/election-results.html
+  link 'Forms' -> https://sos.ks.gov/forms/forms_results.aspx?division=EL
+  link 'General Services' -> https://sos.ks.gov/general-services/general-services.html
+  link 'Notary' -> https://sos.ks.gov/general-services/notary.html
+  link 'Apostilles & Authentications' -> https://sos.ks.gov/general-services/apostilles-authentications.html
+  link 'Filing Information' -> https://sos.ks.gov/general-services/ucc-filing-information.html
+  link 'Definitions' -> https://sos.ks.gov/general-services/ucc-definitions.html
+  link 'Frequently Asked Questions' -> https://sos.ks.gov/general-services/ucc-faq.html
+  link 'Trademark/Service Mark Information' -> https://sos.ks.gov/general-services/trademark-information.html
+  link 'Trademark/Service Mark Search' -> https://sos.ks.gov/general-services/trademark/mark-search.aspx
+  link 'Frequently Asked Questions' -> https://sos.ks.gov/general-services/trademark-faq.html
+  link 'Professional Employer Organization Filings' -> https://sos.ks.gov/general-services/professional-employer-organization.html
+  data call 200 https://wabi-us-gov-virginia-api.analysis.usgovcloudapi.net/public/reports/fdbdbdb1-07ce-4840-afaf-72b930f2f8d6/modelsAndExploration?preferReadOnlySession=true [application/json; charset=utf-] 539,026B
+  data call 200 https://app.powerbigov.us/13.0.28520.307/sharedresources/BaseThemes/CY24SU10.json [application/json] 19,596B
+  data call 200 https://pbivisuals.powerbigov.us/approvedResources.json [application/json] 706,204B
+  data call 200 https://wabi-us-gov-virginia-api.analysis.usgovcloudapi.net/public/reports/conceptualschema [application/json; charset=utf-] 15,759B
+  data call 200 https://appsource.powerbi.com/visuals.json [application/json] 48,261B
+
+==== AK results: https://www.elections.alaska.gov/election-results/ ====
+  status 200  BLOCKED=False  title='Election Results - Division of Elections'
+  text: 'State of Alaska myAlaska Departments State Employees Skip to content Skip to primary navigation Skip to main content Skip to footer Division of Elections State of Alaska Voters Elections Language Assistance Candidates Petitions Political Parties Contact Us Res'
+  tables on page: 7
+  link 'Statewide Links' -> https://www.elections.alaska.gov/election-results/#SOAfooterlinks
+  link 'Skip to content' -> https://www.elections.alaska.gov/election-results/#main_content
+  link 'Skip to primary navigation' -> https://www.elections.alaska.gov/election-results/#genesis-nav-primary
+  link 'Skip to main content' -> https://www.elections.alaska.gov/election-results/#genesis-content
+  link 'Skip to footer' -> https://www.elections.alaska.gov/election-results/#genesis-footer-widgets
+  link 'Back to Top' -> https://www.elections.alaska.gov/election-results/#
+  link 'General Election Information' -> https://www.elections.alaska.gov/election-information/#GENR
+  link 'Election Results' -> https://www.elections.alaska.gov/election-results/
+  link 'Yugtun Mumigcisteḿek Ikayungcalleq (General Central Yup’ik)' -> https://www.elections.alaska.gov/language-assistance/gcy/
+  link 'Search Official Election Results' -> https://www.elections.alaska.gov/election-results/#officialresults
+  link 'All Details' -> https://www.elections.alaska.gov/election-results/e/?id=24genr
+  link 'All Details' -> https://www.elections.alaska.gov/election-results/e/?id=22genr
+  link 'All Details' -> https://www.elections.alaska.gov/election-results/e/?id=26prim
+  link 'All Details' -> https://www.elections.alaska.gov/election-results/e/?id=24prim
