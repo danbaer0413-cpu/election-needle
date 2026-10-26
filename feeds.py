@@ -127,6 +127,34 @@ def _read_any(url, fmt, sheet=None, records=None, explode=None, timeout=20):
     raise ValueError("fmt must be csv, json, xml or xlsx")
 
 
+BLOCKED_PAGE = r"verify you are not a bot|security verification|Just a moment|Access Denied|you are a bot|captcha|unusual traffic"
+
+
+def _render(url, click=None, wait_ms=7000):
+    """Open a page in headless Chromium (as a visitor would), let its scripts draw the numbers, and return the page HTML.
+    `click` = text of a tab/link to press first (for example a race name). Raises a clear message if the site shows a bot check."""
+    import re
+    from playwright.sync_api import sync_playwright
+    with sync_playwright() as p:
+        br = p.chromium.launch()
+        ctx = br.new_context(user_agent=BROWSER["User-Agent"], viewport={"width": 1400, "height": 1000}, ignore_https_errors=True)
+        page = ctx.new_page()
+        page.goto(url, wait_until="domcontentloaded", timeout=45000)
+        page.wait_for_timeout(wait_ms)
+        if click:
+            try:
+                page.get_by_text(re.compile(click, re.I)).first.click(timeout=6000)
+                page.wait_for_timeout(wait_ms)
+            except Exception:
+                pass
+        html = page.content()
+        body = re.sub(r"\s+", " ", page.inner_text("body"))[:600]
+        br.close()
+    if re.search(BLOCKED_PAGE, body, re.I):
+        raise ValueError(f"{url} showed a bot check, so it can't be read automatically: paste this race instead")
+    return html
+
+
 def _html_results(row: dict) -> pd.DataFrame:
     """fmt=html: a results web page with a county table. Finds the table whose first column best matches our baseline counties,
     then picks the Democrat's and Republican's vote columns by candidate surname (headers like 'Brown', 'Brown Votes',
@@ -147,7 +175,10 @@ def _html_results(row: dict) -> pd.DataFrame:
     except Exception:
         pass
     url = str(row.get("url"))
-    text = _fetch(url).text if url.startswith("http") else open(url, encoding="utf-8", errors="replace").read()
+    if str(row.get("fmt") or "").strip().lower() == "browser":
+        text = _render(url, click=clean(row.get("sheet")) or None)      # fmt=browser: let the page's scripts run first
+    else:
+        text = _fetch(url).text if url.startswith("http") else open(url, encoding="utf-8", errors="replace").read()
     tables = pd.read_html(io.StringIO(text))
 
     def flat(cols):
@@ -250,14 +281,57 @@ def _texas_results(row: dict) -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
+def _ohio_results(row: dict) -> pd.DataFrame:
+    """Ohio SOS live results API. feeds.csv row: fmt=ohio; cand_col = regex of the contest name (default by id:
+    senate -> 'senat' (not state/district races), governor -> 'governor')."""
+    import re
+    base = (str(row.get("url") or "").strip().rstrip("/") or "https://liveresults.ohiosos.gov") + "/Api/v1/Contest/"
+    g = lambda k: (str(row.get(k)).strip() if row.get(k) is not None and str(row.get(k)).strip() not in ("", "nan") else None)
+    rid = str(row.get("id", "")).lower()
+    pat = g("cand_col") or ("senat" if "senate" in rid else "governor")
+    lst = _fetch(base + "getContestList").json()
+    found = [(c["contestName"], c["contestObjectId"]) for grp in lst for c in grp.get("contestGroupings", [])
+             if re.search(pat, c["contestName"], re.I)]
+    if "senate" in rid:
+        found = [f for f in found if not re.search(r"\bstate senat|district|house|representative", f[0], re.I)] or found
+    if not found:
+        raise ValueError(f"no Ohio contest matches /{pat}/")
+    name, oid = found[0]
+    import requests
+    r = requests.get(base + "GetContestDetailsObject", headers=BROWSER, timeout=40,
+                     params={"contestName": name, "contestObjectId": oid, "resultsLevel": "County", "countyId": ""})
+    r.raise_for_status()
+    rows = []
+    for c in r.json().get("contestList", []):
+        d = rp = 0.0
+        for k in c.get("candidatesRunning", []):
+            v = k.get("vCount")
+            if v is None:
+                v = pd.to_numeric(str(k.get("voteCount", "0")).replace(",", ""), errors="coerce")
+            v = 0.0 if pd.isna(v) else float(v)
+            party = str(k.get("candidateParty", "")).lower()
+            if party.startswith("dem"):
+                d += v
+            elif party.startswith("rep"):
+                rp += v
+        tot = c.get("totalPrecincts") or 0
+        rows.append({"county": str(c.get("name", "")).strip(), "dem": d, "rep": rp,
+                     "final": bool(tot and (c.get("reportedPrecincts") or 0) >= tot)})
+    if not rows:
+        raise ValueError("Ohio returned no county rows for this contest")
+    return pd.DataFrame(rows)
+
+
 def load_feed(row: dict) -> pd.DataFrame:
     """row keys (all optional except url): url, fmt, sheet, json_records, json_explode, county_col, dem_col, rep_col,
     pct_col, cand_col, votes_col, party_col, dem_name, rep_name. Blank columns are auto-detected."""
     g = lambda k: (str(row.get(k)).strip() if row.get(k) is not None and str(row.get(k)).strip() not in ("", "nan") else None)
-    if (g("fmt") or "").lower() == "html":
+    if (g("fmt") or "").lower() in ("html", "browser"):
         return _html_results(row)
     if (g("fmt") or "").lower() == "texas":
         return _texas_results(row)
+    if (g("fmt") or "").lower() == "ohio":
+        return _ohio_results(row)
     raw = _read_any(g("url"), g("fmt"), g("sheet"), g("json_records"), g("json_explode"))
     county = g("county_col") or _pick(raw.columns, COUNTY_NAMES)
     if county is None:

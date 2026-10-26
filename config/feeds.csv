@@ -1,6 +1,6 @@
 id,url,fmt,json_records,json_explode,sheet,county_col,dem_col,rep_col,pct_col,cand_col,votes_col,party_col,dem_name,rep_name,notes
-OH-senate,,,,,,,,,,,,,,,PORTAL https://liveresults.ohiosos.gov | Secretary of State | verified: Yes
-OH-governor,,,,,,,,,,,,,,,PORTAL https://liveresults.ohiosos.gov | Secretary of State | verified: Yes
+OH-senate,https://liveresults.ohiosos.gov,ohio,,,,,,,,,,,,,Ohio JSON API (found by probe); contest found by name | PORTAL https://liveresults.ohiosos.gov | Secretary of State | verified: Yes
+OH-governor,https://liveresults.ohiosos.gov,ohio,,,,,,,,,,,,,Ohio JSON API (found by probe); contest found by name | PORTAL https://liveresults.ohiosos.gov | Secretary of State | verified: Yes
 MI-senate,,,,,,,,,,,,,,,PORTAL https://mi.gov/vote | Department of State | verified: Yes
 MN-senate,,,,,,,,,,,,,,,PORTAL https://electionresults.sos.mn.gov | Secretary of State | verified: Agency yes; live URL from memory
 IA-senate,,,,,,,,,,,,,,,PORTAL https://electionresults.iowa.gov | Secretary of State | verified: Agency yes; live URL from memory
