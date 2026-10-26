@@ -3,7 +3,7 @@ OH-senate,https://liveresults.ohiosos.gov,ohio,,,,,,,,,,,,,Ohio JSON API (found 
 OH-governor,https://liveresults.ohiosos.gov,ohio,,,,,,,,,,,,,Ohio JSON API (found by probe); contest found by name | PORTAL https://liveresults.ohiosos.gov | Secretary of State | verified: Yes
 MI-senate,,,,,,,,,,,,,,,PORTAL https://mi.gov/vote | Department of State | verified: Yes
 MN-senate,,,,,,,,,,,,,,,PORTAL https://electionresults.sos.mn.gov | Secretary of State | verified: Agency yes; live URL from memory
-IA-senate,,,,,,,,,,,,,,,PORTAL https://electionresults.iowa.gov | Secretary of State | verified: Agency yes; live URL from memory
+IA-senate,https://electionresults.iowa.gov/IA,soe,,,,,,,,,,,,,Iowa SOE Software JSON (found by probe); uses a normal headless browser if the site's invisible check blocks plain requests
 KS-senate,,,,,,,,,,,,,,,PORTAL https://sos.ks.gov | Secretary of State | verified: Page type yes; exact path not confirmed
 KS-governor,,,,,,,,,,,,,,,PORTAL https://sos.ks.gov | Secretary of State | verified: Page type yes; exact path not confirmed
 NE-senate,,,,,,,,,,,,,,,PORTAL https://electionresults.nebraska.gov | Secretary of State | verified: Yes
@@ -14,16 +14,16 @@ TX-senate,https://results.texas-election.com,texas,,,,,,,,,,,,,Texas static JSON
 TX-governor,https://results.texas-election.com,texas,,,,,,,,,,,,,Texas static JSON (found by browser probe); race and 2026 election id found automatically | PORTAL https://results.texas-election.com | Secretary of State | verified: Archive yes; live URL from memory
 SC-senate,,,,,,,,,,,,,,,PORTAL https://www.enr-scvotes.org/SC/ | State Election Commission (not SOS) | verified: Yes
 MS-senate,,,,,,,,,,,,,,,PORTAL https://www.sos.ms.gov/elections-voting/election-results | Secretary of State | verified: Agency yes; path from memory
-FL-governor,,,,,,,,,,,,,,,"PORTAL https://floridaelectionwatch.gov | Dept. of State, Division of Elections | verified: Yes"
-GA-governor,,,,,,,,,,,,,,,PORTAL https://results.sos.ga.gov | Secretary of State | verified: Agency page yes; live URL from memory
+FL-governor,https://floridaelectionwatch.gov/StateOffices/Governor,florida,,,,,,,,,,,,,Florida Election Watch county table
+GA-governor,https://results.sos.ga.gov,georgia,,,,,,,,,,,,,Georgia SOS API (found by probe); race and county breakdown read automatically
 NV-governor,,,,,,,,,,,,,,,PORTAL https://silverstateelection.nv.gov | Secretary of State | verified: Yes
 WI-governor,,,,,,,,,,,,,,,PORTAL https://elections.wi.gov/wisconsin-county-election-websites | Wisconsin Elections Commission (not SOS) | verified: Yes
-GA-senate,,,,,,,,,,,,,,,PORTAL https://results.sos.ga.gov | Secretary of State | verified: Agency page yes; live URL from memory
+GA-senate,https://results.sos.ga.gov,georgia,,,,,,,,,,,,,Georgia SOS API (found by probe); race and county breakdown read automatically
 ME-governor,,,,,,,,,,,,,,,"PORTAL https://www.maine.gov/sos/cec/elec/results/index.html | Secretary of State (Bureau of Corporations, Elections & Commissions) | verified: Yes"
 NH-senate,,,,,,,,,,,,,,,PORTAL https://sos.nh.gov | Secretary of State | verified: Agency yes; results portal not confirmed
-FL-senate,,,,,,,,,,,,,,,"PORTAL https://floridaelectionwatch.gov | Dept. of State, Division of Elections | verified: Yes"
+FL-senate,https://floridaelectionwatch.gov/FederalOffices/USSenator,florida,,,,,,,,,,,,,Florida Election Watch county table
 SC-governor,,,,,,,,,,,,,,,PORTAL https://www.enr-scvotes.org/SC/ | State Election Commission (not SOS) | verified: Yes
-IA-governor,,,,,,,,,,,,,,,PORTAL https://electionresults.iowa.gov | Secretary of State | verified: Agency yes; live URL from memory
+IA-governor,https://electionresults.iowa.gov/IA,soe,,,,,,,,,,,,,Iowa SOE Software JSON (found by probe); uses a normal headless browser if the site's invisible check blocks plain requests
 AK-governor,,,,,,,,,,,,,,,PORTAL https://www.elections.alaska.gov/results/ | Division of Elections | verified: Partly
 MI-governor,,,,,,,,,,,,,,,PORTAL https://mi.gov/vote | Department of State | verified: Yes
 MN-governor,,,,,,,,,,,,,,,PORTAL https://electionresults.sos.mn.gov | Secretary of State | verified: Agency yes; live URL from memory

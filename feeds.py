@@ -322,6 +322,144 @@ def _ohio_results(row: dict) -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
+def _cell(row, k):
+    v = row.get(k)
+    return None if v is None or str(v).strip() in ("", "nan", "None") else str(v).strip()
+
+
+def _party_side(p):
+    p = str(p or "").strip().lower()
+    return "dem" if p.startswith("dem") or p == "d" else ("rep" if p.startswith("rep") or p == "r" else None)
+
+
+def _georgia_results(row: dict) -> pd.DataFrame:
+    """Georgia SOS results (Enhanced Voting). feeds.csv row: fmt=georgia; cand_col = regex of the contest name (default by id:
+    senate -> '^US Senate', governor -> '^Governor$'); sheet = election slug (blank = 11032026GeneralAndSpecialElection)."""
+    import re
+    root = (_cell(row, "url") or "https://results.sos.ga.gov").rstrip("/")
+    slug = _cell(row, "sheet") or "11032026GeneralAndSpecialElection"
+    B = f"{root}/results/public/api/elections/Georgia/{slug}/data"
+    rid = str(row.get("id", "")).lower()
+    pat = _cell(row, "cand_col") or (r"^US Senate" if "senate" in rid else r"^Governor$")
+    items = _fetch(B).json().get("ballotItems", [])
+    hit = [x for x in items if re.search(pat, (x.get("name") or [{}])[0].get("text", ""), re.I)]
+    if not hit:
+        raise ValueError(f"no Georgia contest matches /{pat}/")
+    d = _fetch(f"{B}/ballot-item/{hit[0]['id']}").json().get("ballotItemWithBreakdown") or {}
+    rows = []
+    for b in d.get("breakdownResults", []):
+        votes = {"dem": 0.0, "rep": 0.0}
+        for o in b.get("ballotOptions", []):
+            side = _party_side((o.get("party") or {}).get("abbreviation"))
+            if side:
+                votes[side] += float(o.get("voteCount") or 0)
+        st = b.get("precinctReportingStatus") or {}
+        tot = st.get("totalUnits") or 0
+        rows.append({"county": re.sub(r"\s+County$", "", b["locality"]["name"][0]["text"]).strip(),
+                     "dem": votes["dem"], "rep": votes["rep"], "final": bool(tot and (st.get("reportingUnits") or 0) >= tot)})
+    if not rows:
+        raise ValueError("Georgia returned no county rows for this contest")
+    return pd.DataFrame(rows)
+
+
+def _soe_browser(base, eid=None):
+    """SOE Software sites (Iowa, South Carolina) put an invisible check in front of their files. Open the election page in a
+    normal headless browser, as a visitor would, and read the data files the page itself loads. Returns (elections, sum, details)."""
+    import json as _j, re
+    from playwright.sync_api import sync_playwright
+    got = {}
+    with sync_playwright() as p:
+        br = p.chromium.launch()
+        ctx = br.new_context(user_agent=BROWSER["User-Agent"], ignore_https_errors=True)
+        page = ctx.new_page()
+
+        def on_resp(r):
+            m = re.search(r"/(elections|sum|details)\.json", r.url)
+            if m and r.status == 200:
+                try:
+                    got[m.group(1)] = _j.loads(r.body())
+                except Exception:
+                    pass
+
+        page.on("response", on_resp)
+        if not eid:
+            page.goto(base + "/", wait_until="domcontentloaded", timeout=45000)
+            page.wait_for_timeout(8000)
+            eid = _soe_pick_election(got.get("elections") or [])
+        page.goto(f"{base}/{eid}/", wait_until="domcontentloaded", timeout=45000)
+        page.wait_for_timeout(12000)
+        br.close()
+    if "sum" not in got or "details" not in got:
+        raise ValueError(f"{base}: the results files did not load (election {eid}); paste this race instead")
+    return got.get("elections"), got["sum"], got["details"]
+
+
+def _soe_pick_election(elections):
+    gen = [e for e in elections if "general" in str(e.get("ElectionName", "")).lower() and "2026" in str(e.get("Date", "")) + str(e.get("ElectionName", ""))]
+    if not gen:
+        raise ValueError("no 2026 general election is listed yet")
+    return str(gen[-1]["EID"])
+
+
+def _soe_results(row: dict) -> pd.DataFrame:
+    """SOE Software election-night sites (Iowa electionresults.iowa.gov/IA, South Carolina enr-scvotes.org/SC).
+    feeds.csv row: fmt=soe; url = site base incl. state code; cand_col = regex of the contest name (default by id:
+    senate -> 'United States Senator', governor -> '^Governor'); sheet = election id (blank = find the 2026 general)."""
+    import re
+    base = (_cell(row, "url") or "").rstrip("/")
+    eid = _cell(row, "sheet")
+    rid = str(row.get("id", "")).lower()
+    pat = _cell(row, "cand_col") or ("United States Senator" if "senate" in rid else r"^Governor")
+    try:
+        if not eid:
+            eid = _soe_pick_election(_fetch(base + "/elections.json").json())
+        ver = _fetch(f"{base}/{eid}/current_ver.txt").text.strip()
+        if not ver.isdigit():
+            raise ValueError("not a version number")
+        sm = _fetch(f"{base}/{eid}/{ver}/json/sum.json").json()
+        dt = _fetch(f"{base}/{eid}/{ver}/json/details.json").json()
+    except Exception as ex:
+        if "no 2026 general" in str(ex):
+            raise
+        _, sm, dt = _soe_browser(base, eid)
+    cs = [c for c in sm.get("Contests", []) if re.search(pat, str(c.get("C", "")), re.I)]
+    if not cs:
+        raise ValueError(f"no contest matches /{pat}/")
+    c = cs[0]
+    sides = [_party_side(x) for x in c.get("P", [])]
+    d = next((x for x in dt.get("Contests", []) if str(x.get("K")) == str(c.get("K"))), None)
+    if d is None:
+        raise ValueError("no county detail for this contest yet")
+    done = bool(c.get("TP") and (c.get("PR") or 0) >= c.get("TP"))
+    rows = []
+    for name, v in zip(d.get("P", []), d.get("V", [])):
+        dem = sum(x for x, sd in zip(v, sides) if sd == "dem")
+        rep = sum(x for x, sd in zip(v, sides) if sd == "rep")
+        rows.append({"county": str(name).strip(), "dem": float(dem), "rep": float(rep), "final": done})
+    if not rows:
+        raise ValueError("no county rows yet")
+    return pd.DataFrame(rows)
+
+
+def _florida_results(row: dict) -> pd.DataFrame:
+    """Florida Election Watch. feeds.csv row: fmt=florida; url = the race page (…/FederalOffices/USSenator or …/StateOffices/Governor).
+    Follows that page's ContestResultsByCounty links and reads the first county table that holds both candidates."""
+    import re
+    url = _cell(row, "url")
+    html = _fetch(url).text
+    root = re.match(r"https?://[^/]+", url).group(0)
+    links = list(dict.fromkeys(re.findall(r"href=[\"'](/ContestResultsByCounty/\d+)", html)))
+    if not links:
+        raise ValueError("no county-results links on the race page yet")
+    last = None
+    for ln in links:
+        try:
+            return _html_results({**row, "url": root + ln, "fmt": "html"})
+        except Exception as ex:
+            last = ex
+    raise ValueError(f"no Florida county table held both candidates: {last}")
+
+
 def load_feed(row: dict) -> pd.DataFrame:
     """row keys (all optional except url): url, fmt, sheet, json_records, json_explode, county_col, dem_col, rep_col,
     pct_col, cand_col, votes_col, party_col, dem_name, rep_name. Blank columns are auto-detected."""
@@ -332,6 +470,12 @@ def load_feed(row: dict) -> pd.DataFrame:
         return _texas_results(row)
     if (g("fmt") or "").lower() == "ohio":
         return _ohio_results(row)
+    if (g("fmt") or "").lower() == "georgia":
+        return _georgia_results(row)
+    if (g("fmt") or "").lower() == "soe":
+        return _soe_results(row)
+    if (g("fmt") or "").lower() == "florida":
+        return _florida_results(row)
     raw = _read_any(g("url"), g("fmt"), g("sheet"), g("json_records"), g("json_explode"))
     county = g("county_col") or _pick(raw.columns, COUNTY_NAMES)
     if county is None:
