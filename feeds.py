@@ -362,7 +362,7 @@ def _georgia_results(row: dict) -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
-def _soe_browser(base, eid=None):
+def _soe_browser(base, eid=None, year="2026"):
     """SOE Software sites (Iowa, South Carolina) put an invisible check in front of their files. Open the election page in a
     normal headless browser, as a visitor would, and read the data files the page itself loads. Returns (elections, sum, details)."""
     import json as _j, re
@@ -385,7 +385,7 @@ def _soe_browser(base, eid=None):
         if not eid:
             page.goto(base + "/", wait_until="domcontentloaded", timeout=45000)
             page.wait_for_timeout(8000)
-            eid = _soe_pick_election(got.get("elections") or [])
+            eid = _soe_pick_election(got.get("elections") or [], year)
         page.goto(f"{base}/{eid}/", wait_until="domcontentloaded", timeout=45000)
         page.wait_for_timeout(12000)
         br.close()
@@ -394,10 +394,10 @@ def _soe_browser(base, eid=None):
     return got.get("elections"), got["sum"], got["details"]
 
 
-def _soe_pick_election(elections):
-    gen = [e for e in elections if "general" in str(e.get("ElectionName", "")).lower() and "2026" in str(e.get("Date", "")) + str(e.get("ElectionName", ""))]
+def _soe_pick_election(elections, year="2026"):
+    gen = [e for e in elections if "general" in str(e.get("ElectionName", "")).lower() and year in str(e.get("Date", "")) + str(e.get("ElectionName", ""))]
     if not gen:
-        raise ValueError("no 2026 general election is listed yet")
+        raise ValueError(f"no {year} general election is listed yet")
     return str(gen[-1]["EID"])
 
 
@@ -408,20 +408,23 @@ def _soe_results(row: dict) -> pd.DataFrame:
     import re
     base = (_cell(row, "url") or "").rstrip("/")
     eid = _cell(row, "sheet")
+    year = "2026"
+    if eid and eid.lower().startswith("year:"):          # rehearsal: sheet = year:2024 reads that year's general election
+        year, eid = eid.split(":", 1)[1].strip(), None
     rid = str(row.get("id", "")).lower()
     pat = _cell(row, "cand_col") or ("United States Senator" if "senate" in rid else r"^Governor")
     try:
         if not eid:
-            eid = _soe_pick_election(_fetch(base + "/elections.json").json())
+            eid = _soe_pick_election(_fetch(base + "/elections.json").json(), year)
         ver = _fetch(f"{base}/{eid}/current_ver.txt").text.strip()
         if not ver.isdigit():
             raise ValueError("not a version number")
         sm = _fetch(f"{base}/{eid}/{ver}/json/sum.json").json()
         dt = _fetch(f"{base}/{eid}/{ver}/json/details.json").json()
     except Exception as ex:
-        if "no 2026 general" in str(ex):
+        if "general election is listed yet" in str(ex):
             raise
-        _, sm, dt = _soe_browser(base, eid)
+        _, sm, dt = _soe_browser(base, eid, year)
     cs = [c for c in sm.get("Contests", []) if re.search(pat, str(c.get("C", "")), re.I)]
     if not cs:
         raise ValueError(f"no contest matches /{pat}/")
@@ -460,6 +463,148 @@ def _florida_results(row: dict) -> pd.DataFrame:
     raise ValueError(f"no Florida county table held both candidates: {last}")
 
 
+def _file_party(v):
+    p = str(v).strip().upper()
+    if p.startswith("DEM") or p == "D":
+        return "dem"
+    if p.startswith("REP") or p in ("R", "GOP"):
+        return "rep"
+    return None
+
+
+def _pick_col(cols, *needles):
+    low = {str(c).strip().lower().replace("_", " "): c for c in cols}
+    for n in needles:
+        for k, c in low.items():
+            if n in k:
+                return c
+    return None
+
+
+def _file_totals(df, contest_col, contest_re, county_col, party_col, votes_col, name_col=None, row=None):
+    """Keep rows whose contest matches, map party to dem/rep, add up by county."""
+    import re
+    d = df[df[contest_col].astype(str).str.contains(contest_re, case=False, regex=True)].copy()
+    if not len(d):
+        raise ValueError(f"no contest matches /{contest_re}/ in the file yet")
+    d["_side"] = d[party_col].map(_file_party)
+    if name_col is not None and d["_side"].isna().all():
+        for side, key in (("dem", "dem_name"), ("rep", "rep_name")):
+            nm = _cell(row or {}, key)
+            if nm:
+                d.loc[d[name_col].astype(str).str.contains(nm, case=False), "_side"] = side
+    d = d[d["_side"].notna()]
+    d["_v"] = pd.to_numeric(d[votes_col].astype(str).str.replace(",", ""), errors="coerce").fillna(0)
+    w = d.pivot_table(index=county_col, columns="_side", values="_v", aggfunc="sum").reset_index()
+    for c in ("dem", "rep"):
+        if c not in w:
+            w[c] = 0.0
+    out = pd.DataFrame({"county": w[county_col].astype(str).str.strip().str.replace(r"\s+County$", "", regex=True),
+                        "dem": w["dem"], "rep": w["rep"], "final": False})
+    if not len(out) or (out.dem.sum() + out.rep.sum()) <= 0:
+        raise ValueError("matched the contest but found no Dem/Rep votes yet")
+    return out
+
+
+def _ncsbe_results(row: dict) -> pd.DataFrame:
+    """North Carolina State Board of Elections election-night file (tab-delimited precinct results, zipped).
+    feeds.csv row: fmt=ncsbe; url = base (default https://s3.amazonaws.com/dl.ncsbe.gov/ENRS); sheet = election folder date
+    like 2026_11_03 (default); cand_col = contest regex (default ^US SENATE). Adds precincts up to counties, all vote types."""
+    import io
+    import zipfile
+    base = (_cell(row, "url") or "https://s3.amazonaws.com/dl.ncsbe.gov/ENRS").rstrip("/")
+    folder = _cell(row, "sheet") or "2026_11_03"
+    ymd = folder.replace("_", "")
+    url = f"{base}/{folder}/results_pct_{ymd}.zip"
+    raw = _fetch(url, timeout=60).content
+    z = zipfile.ZipFile(io.BytesIO(raw))
+    name = next(n for n in z.namelist() if n.lower().endswith((".txt", ".csv", ".tsv")))
+    df = pd.read_csv(z.open(name), sep="\t", dtype=str, encoding="latin-1")
+    cc = _pick_col(df.columns, "contest name", "contest")
+    cty = _pick_col(df.columns, "county")
+    pty = _pick_col(df.columns, "choice party", "party")
+    vot = _pick_col(df.columns, "total votes", "votes")
+    if not all((cc, cty, pty, vot)):
+        raise ValueError(f"unexpected NC file columns: {list(df.columns)[:14]}")
+    pat = _cell(row, "cand_col") or (r"^US SENATE" if "senate" in str(row.get("id", "")).lower() else r"GOVERNOR")
+    return _file_totals(df, cc, pat, cty, pty, vot)
+
+
+def _flfile_results(row: dict) -> pd.DataFrame:
+    """Florida Division of Elections election-night file (one tab-delimited text file, all counties).
+    feeds.csv row: fmt=flfile; url = full file URL (default https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt);
+    sheet = YYYYMMDD to use the default pattern for another date; cand_col = contest regex (senate: United States Senator, governor: Governor)."""
+    import io
+    url = _cell(row, "url")
+    if not url or not url.lower().endswith(".txt"):
+        ymd = _cell(row, "sheet") or "20261103"
+        url = f"https://flelectionfiles.floridados.gov/enightfilespublic/{ymd}_ElecResultsFL.txt"
+    txt = _fetch(url, timeout=90).content.decode("latin-1")
+    df = pd.read_csv(io.StringIO(txt), sep="\t", dtype=str)
+    cc = _pick_col(df.columns, "officedesc", "contestname", "office")
+    cty = _pick_col(df.columns, "countyname", "county")
+    pty = _pick_col(df.columns, "partycode", "partyname", "party")
+    vot = _pick_col(df.columns, "canvotes", "votes")
+    if not all((cc, cty, pty, vot)):
+        raise ValueError(f"unexpected Florida file columns: {list(df.columns)[:14]}")
+    pat = _cell(row, "cand_col") or (r"United States Senator|U\.?S\.? Senat" if "senate" in str(row.get("id", "")).lower() else r"^Governor")
+    return _file_totals(df, cc, pat, cty, pty, vot)
+
+
+def _alaska_results(row: dict) -> pd.DataFrame:
+    """Alaska Division of Elections precinct file: results/<slug>/ENRbyPrecinct.csv, added up to House districts ('District 01'...).
+    feeds.csv row: fmt=alaska; url = site root (blank = https://www.elections.alaska.gov); sheet = results folder (blank = 26GENR);
+    cand_col = regex of the contest title (default by id: senate -> 'U.?S.? Senat', governor -> '^Governor'). First-choice votes."""
+    import io, re
+    root = (_cell(row, "url") or "https://www.elections.alaska.gov").rstrip("/")
+    slug = _cell(row, "sheet") or "26GENR"
+    url = f"{root}/results/{slug}/ENRbyPrecinct.csv"
+    rid = str(row.get("id", "")).lower()
+    pat = _cell(row, "cand_col") or (r"U\.?\s?S\.?\s+Senat" if "senate" in rid else r"^Governor")
+    try:
+        text = _fetch(url, timeout=60).text
+    except Exception:
+        from playwright.sync_api import sync_playwright
+        with sync_playwright() as p:
+            br = p.chromium.launch()
+            ctx = br.new_context(user_agent=BROWSER["User-Agent"])
+            r = ctx.request.get(url, timeout=90000)
+            if r.status != 200:
+                br.close()
+                raise ValueError(f"Alaska results file not posted yet ({url}: HTTP {r.status})")
+            text = r.text()
+            br.close()
+    df = pd.read_csv(io.StringIO(text.lstrip("\ufeff")), dtype=str)
+    df.columns = [c.strip() for c in df.columns]
+    need = {"Pct_Id", "Contest_title", "candidate_name", "Party_Code", "total_votes"}
+    if not need <= set(df.columns):
+        raise ValueError(f"Alaska file layout changed; columns now {list(df.columns)[:12]}")
+    d = df[df["Contest_title"].astype(str).str.contains(pat, case=False, regex=True)].copy()
+    if d.empty:
+        raise ValueError(f"no Alaska contest matches /{pat}/ yet")
+    titles = d["Contest_title"].unique()
+    d = d[d["Contest_title"] == titles[0]]
+    d["votes"] = pd.to_numeric(d["total_votes"].astype(str).str.replace(",", ""), errors="coerce").fillna(0)
+    d["side"] = d["Party_Code"].map(_party_side)
+    if not (d["side"] == "dem").any() or not (d["side"] == "rep").any():       # party codes missing: use surnames from candidates.csv
+        c = pd.read_csv("config/candidates.csv", dtype=str).set_index("id")
+        rid0 = str(row.get("id", ""))
+        dk, rk = c.loc[rid0, "dem"].lower().split()[-1], c.loc[rid0, "rep"].lower().split()[-1]
+        nm = d["candidate_name"].astype(str).str.lower()
+        d.loc[nm.str.contains(dk, regex=False), "side"] = "dem"
+        d.loc[nm.str.contains(rk, regex=False), "side"] = "rep"
+    def dist(p):
+        m = re.match(r"\s*(\d{1,2})\b", str(p))
+        return f"District {int(m.group(1)):02d}" if m else "Other"
+    d["county"] = d["Pct_Id"].map(dist)
+    w = d[d["side"].notna()].pivot_table(index="county", columns="side", values="votes", aggfunc="sum").reset_index()
+    for k in ("dem", "rep"):
+        if k not in w:
+            w[k] = 0.0
+    w["final"] = False
+    return w[["county", "dem", "rep", "final"]].fillna(0)
+
+
 def load_feed(row: dict) -> pd.DataFrame:
     """row keys (all optional except url): url, fmt, sheet, json_records, json_explode, county_col, dem_col, rep_col,
     pct_col, cand_col, votes_col, party_col, dem_name, rep_name. Blank columns are auto-detected."""
@@ -474,6 +619,12 @@ def load_feed(row: dict) -> pd.DataFrame:
         return _georgia_results(row)
     if (g("fmt") or "").lower() == "soe":
         return _soe_results(row)
+    if (g("fmt") or "").lower() == "ncsbe":
+        return _ncsbe_results(row)
+    if (g("fmt") or "").lower() == "flfile":
+        return _flfile_results(row)
+    if (g("fmt") or "").lower() == "alaska":
+        return _alaska_results(row)
     if (g("fmt") or "").lower() == "florida":
         return _florida_results(row)
     raw = _read_any(g("url"), g("fmt"), g("sheet"), g("json_records"), g("json_explode"))

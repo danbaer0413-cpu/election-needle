@@ -21,3 +21,8 @@ Earlier round:
 Then: Actions -> update-needle -> Run workflow.
 Before Nov 1: update generic_ballot_margin_dem and generic_ballot_asof in config/fundamentals.json,
 and refresh data/poll_inputs_2026.csv from Silver Bulletin.
+
+
+## Final round (consolidated zip)
+Unzip over your repo (replace files). New/changed: feeds.py, check_readers.py, probe_ne.py, config/feeds.csv, config/results_portals.csv, LINKS.md, ELECTION_NIGHT.md, UPLOAD_LIST.md, .github/workflows/rehearse-readers.yml and update.yml, requirements-runner.txt.
+Then run Actions -> rehearse-readers once and send me data/rehearsal.txt and data/portal_ne.txt.

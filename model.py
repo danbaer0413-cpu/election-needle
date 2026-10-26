@@ -118,6 +118,9 @@ def _prepare(counties, early, results, p: Params) -> pd.DataFrame:
         if c not in df:
             df[c] = 0.0
         df[c] = df[c].fillna(0.0).astype(float)
+    if "weight" not in df:
+        df["weight"] = 1.0
+    df["weight"] = pd.to_numeric(df["weight"], errors="coerce").fillna(1.0).clip(0.01, 1.0)
     if "final" not in df:
         df["final"] = False
     df["final"] = df["final"].fillna(False).astype(bool)
@@ -206,6 +209,8 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
     d_i = np.where(has, obs_margin - exp_counted, 0.0)
     v_i = p.sigma_nonrep ** 2 * (1 - frac) + 1e4 / np.maximum(counted, 1.0)
     v_i = np.where(final, 1e4 / np.maximum(counted, 1.0), v_i)
+    # `weight` < 1 marks rows ESTIMATED from a statewide total (statewide_mode.py): they carry less information than real county counts
+    v_i = v_i / df["weight"].to_numpy(float)
     var_swing_i = v_i + p.tau_county ** 2 + p.tau_region ** 2
     for i in np.where(has)[0]:
         obs.append((float(d_i[i]), float(var_swing_i[i]), "counted"))

@@ -24,7 +24,13 @@ def needle_segment(m, R=15.0, length=0.95):
     return np.array([0, length * np.cos(th)]), np.array([0, length * np.sin(th)])
 
 
-def needle_figure(summary: dict, R: float = 15.0, title: str = "", compact: bool = False):
+def fmt_range(lo: float, hi: float) -> str:
+    """'D+0.2 to D+5.1' when both ends are on one side, 'R+2.1 to D+5.1' when the range crosses zero."""
+    f = lambda v: f"{'D' if v >= 0 else 'R'}+{abs(v):.1f}"
+    return f"{f(lo)} to {f(hi)}"
+
+
+def needle_figure(summary: dict, R: float = 15.0, title: str = "", compact: bool = False, wiggle: bool = False):
     """compact=True: phone-sized (no big caption inside the plot; the app shows the headline as text)."""
     import plotly.graph_objects as go
 
@@ -51,6 +57,23 @@ def needle_figure(summary: dict, R: float = 15.0, title: str = "", compact: bool
     if not compact:
         fig.add_annotation(x=0, y=-0.12, showarrow=False, font=dict(size=22),
                            text=f"<b>{who} +{abs(lead):.1f}</b>  ·  Dem win chance {summary['win_prob'] * 100:.0f}%")
+    if wiggle:
+      try:
+        import numpy as np
+        rng = np.random.default_rng(int(abs(summary["median"]) * 1000) % 2**31)
+        sd = max((summary["p90"] - summary["p10"]) / 2.563, 0.05)
+        frames = []
+        for i in range(40):
+            v = float(np.clip(summary["median"] + sd * rng.standard_normal(), -R, R))
+            wx, wy = needle_segment(v, R)
+            frames.append(go.Frame(name=str(i), data=[go.Scatter(x=wx, y=wy)], traces=[len(fig.data) - 2]))
+        fig.frames = frames
+        fig.update_layout(updatemenus=[dict(type="buttons", showactive=False, x=0.5, xanchor="center", y=-0.02, yanchor="top",
+                                            buttons=[dict(label="▶ Play", method="animate",
+                                                          args=[None, dict(frame=dict(duration=350, redraw=True), transition=dict(duration=250),
+                                                                           fromcurrent=True, mode="immediate")])])])
+      except Exception:
+        pass   # the wiggle is cosmetic; never break the needle over it
     fig.add_annotation(x=-1.0, y=0.02, text="GOP", showarrow=False, font=dict(color=RED, size=14))
     fig.add_annotation(x=1.0, y=0.02, text="Dem", showarrow=False, font=dict(color=BLUE, size=14))
     fig.update_layout(title=title, height=230 if compact else 360,

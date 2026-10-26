@@ -20,6 +20,8 @@ import traceback
 import pandas as pd
 
 from feeds import fetch_table, to_results
+import sources
+import statewide_mode
 from model import Params, project
 from publish import to_json_summary, write_json_atomic
 
@@ -139,6 +141,7 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
         fundmap = {}
     feedmap = load_feedmap(cfg.get("feeds", "config/feeds.csv"))
     races: dict = {}
+    jobs: dict = {}
     new_log = not os.path.exists(log_path)
     with open(log_path, "a", newline="") as lf:
         w = csv.writer(lf)
@@ -160,6 +163,9 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
             try:
                 early = load_early(r, folder)
                 results = load_results(r, folder, rid, feedmap)
+                extra, sw_auto = sources.load_race(rid)
+                results = sources.merge_results(results, extra)
+                results = statewide_mode.build(counties, results, folder, rid, statewide=sw_auto)
                 rr = dict(r)
                 if rr.get("poll_margin") is None and rid in pollmap:
                     rr["poll_margin"] = pollmap[rid]
@@ -177,6 +183,7 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
                 if rid in fundmap and "fund_margin" not in (rr.get("params") or {}):
                     rr["params"] = dict(rr.get("params") or {}, fund_margin=fundmap[rid][0], sd_fund=fundmap[rid][1])
                 s = project(counties, early, results, build_params(rr))
+                jobs[rid] = (counties, early, results, rr, meta)
                 races[rid] = {"meta": meta, "status": "ok", "checked": now, "as_of": now,
                               "summary": to_json_summary(s)}
                 w.writerow([now, rid, round(s["pct_in"], 2), round(s["median"], 2), round(s["p10"], 2),
@@ -185,7 +192,53 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
                 traceback.print_exc()
                 races[rid] = {"meta": meta, "status": f"feed/model error: {ex}", "checked": now,
                               "summary": prev.get("summary"), "as_of": prev.get("as_of")}
-    payload = {"updated": now, "races": races}
+
+    # ---- cross-race adjustment: races counted bluer/redder than expected move the races still out ----
+    try:
+        import cross_race
+        from dataclasses import replace
+        ccfg = cross_race.load_cfg()
+        items = {}
+        for rid, (counties, early, results, rr, meta) in jobs.items():
+            sm_ = (races.get(rid) or {}).get("summary") or {}
+            if sm_.get("pct_in") is None:
+                continue
+            sur = None
+            if sm_["pct_in"] >= ccfg["min_pct_in"]:
+                prior = project(counties, early, None, build_params(rr))["median"]
+                sur = sm_["median"] - prior
+            items[rid] = dict(state=meta.get("state"), pct_in=sm_["pct_in"], surprise=sur)
+        shifts = cross_race.compute_shifts(items, ccfg)
+        for rid, sh in shifts.items():
+            if abs(sh) < 0.05 or items[rid]["pct_in"] >= 99.5:
+                continue
+            counties, early, results, rr, meta = jobs[rid]
+            p_ = build_params(rr)
+            if p_.poll_margin is None and p_.fund_margin is None:
+                continue
+            kw_ = {}
+            if p_.poll_margin is not None:
+                kw_["poll_bias"] = p_.poll_bias + sh
+            if p_.fund_margin is not None:
+                kw_["fund_margin"] = p_.fund_margin + sh
+            s2 = project(counties, early, results, replace(p_, **kw_))
+            races[rid]["summary"] = to_json_summary(s2)
+            races[rid]["summary"]["cross_race_shift"] = round(sh, 2)
+            print(f"  cross-race: {rid} prior moved {sh:+.1f} (from counted races) -> median {s2['median']:+.1f}")
+        if shifts:
+            for rid, it in items.items():
+                if it["surprise"] is not None:
+                    races[rid].setdefault("summary", {})["surprise"] = round(it["surprise"], 2)
+    except Exception as ex:
+        print(f"  cross-race adjustment skipped ({ex})")
+    try:
+        import control
+        import cross_race as _cr
+        rho = _cr.load_cfg().get("rho_shared", 0.5)
+        ctl = control.simulate(races, rho)
+    except Exception as ex:
+        print(f"  control summary skipped ({ex})"); ctl = {}
+    payload = {"updated": now, "races": races, "control": ctl}
     write_json_atomic(out_path, payload)
     return payload
 

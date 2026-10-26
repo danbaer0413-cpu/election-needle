@@ -63,3 +63,30 @@ No feed has been tried against a live state site. The adapter has been tested wi
 (with party) and nested JSON files, and the paste tool with a fake table, all through the full model.
 Alaska reports by election district; the baseline units are those districts, so match on those names.
 Ranked-choice: Maine uses it for the Senate general only (the governor general is plurality, so ME-governor has no transfers). Alaska uses it for both Senate and governor. First-round counts exclude transfers; the needle shows the model's estimate of them, and Alaska's tabulation is scheduled for Nov 18 if no one tops 50%. Alaska Ballot Measure 2 (repeal of RCV) is on the ballot but does not change how this election is counted.
+
+## fmt=browser (page reader for sites with no data feed)
+Use it for government or county results pages that draw their numbers with scripts, so a plain download shows an empty page.
+In `config/feeds.csv` set `url` to the page, `fmt` to `browser`, and (optional) `sheet` to the text of a tab or link to press first, such as `Governor`.
+It opens the page in a headless browser, waits for the numbers, then reads the county table the same way `fmt=html` does.
+If a page shows a bot check (Minnesota, Nevada, New Hampshire so far) it stops with a "paste this race instead" message; it never tries to get past a check.
+It is slower than a data feed (about 15 to 30 seconds per page), so use it only where no feed exists. Test it against last cycle's results page first.
+
+## Automatic readers (config/feeds.csv `fmt`)
+Set `url` to the site root; leave `sheet` blank unless noted. A reader that cannot find the 2026 general yet fails cleanly and the paste file is used instead.
+- `texas` (TX): results.texas-election.com static JSON, county level. Appears once the state lists the Nov 3 general.
+- `ohio` (OH): liveresults.ohiosos.gov API. Shows mock data until election day.
+- `georgia` (GA): results.sos.ga.gov Enhanced Voting API, slug 11032026GeneralAndSpecialElection.
+- `soe` (IA, SC): SOE Software ENR (sum.json/details.json). For a rehearsal on 2024 use `sheet=year:2024`.
+- `florida` (FL): floridaelectionwatch.gov race pages, county tables. Results start after 8 PM ET.
+- `alaska` (AK): results/26GENR/ENRbyPrecinct.csv, added up to House districts. The big absentee count lands days later.
+- `browser`: any county-table page, rendered headless. Stops with "paste this race instead" on a bot check.
+
+Everything else (MI, MN, NV, WI, NH, ME, KS, MS, NE) is paste. Best links are in config/feeds.csv notes, config/results_portals.csv and LINKS.md.
+
+## Rehearsal
+Actions -> rehearse-readers. It runs each reader on 2024 results and compares to our history files (PASS = 98% of counties match and totals within 0.5%). It also scans Nebraska's service (data/portal_ne.txt).
+
+### More readers
+- `ncsbe` (NC): NCSBE election-night precinct file `results_pct_20261103.zip` (tab-delimited), added up to counties. Set in feeds.csv. Rehearsed on 2024.
+- `flfile` (FL): the Division of Elections election-night text file; a second source for Florida in config/sources.csv (the larger county count wins). Rehearsed on 2024.
+- `probe_files.py` (runs with rehearse-readers): checks which result files exist for NC, FL, MI, KS, NH, ME, MN, MS, WI, NE and shows past-file layouts in data/portal_files.txt.

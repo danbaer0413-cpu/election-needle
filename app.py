@@ -8,7 +8,7 @@ import pandas as pd
 import requests
 import streamlit as st
 
-from charts import BLUE, RED, history_figure, needle_figure, poll_figure
+from charts import BLUE, RED, history_figure, needle_figure, poll_figure, fmt_range
 from maps import LEGEND, county_map_figure, load_geo, us_map_figure
 from explain import drivers_lines, firewall_lines, inputs_lines, outcome_lines
 from publish import from_json_summary, read_log
@@ -132,12 +132,15 @@ edge = abs(dem - 50)
 verdict = "Toss-up" if edge <= 5 else f"{'Leans' if edge <= 20 else 'Likely' if edge <= 40 else 'Solid'} {who}"
 counted = float(s["pct_in"])
 chips = [f"{counted:.0f}% of vote counted" if counted > 0 else "Polls open Nov 3 - pre-election estimate",
-         f"Projected margin {'D' if lead > 0 else 'R'}+{abs(lead):.1f}",
+         f"Likely range (80%): {fmt_range(float(s['p10']), float(s['p90']))}",
+         f"Middle estimate {'D' if lead > 0 else 'R'}+{abs(lead):.1f}",
          f"Updated {ago(item.get('as_of') or item.get('checked'))}"]
 st.markdown(f"""
 <div class="card">
   <div class="race">{label(item)}</div>
   <div class="lead">{verdict}</div>
+  <div style="font-size:1.35rem;font-weight:700;margin:.15rem 0 .4rem 0">{fmt_range(float(s['p10']), float(s['p90']))}
+    <span style="font-size:.8rem;font-weight:400;opacity:.7">likely range (80%)</span></div>
   <div class="bar">
     <div style="background:{BLUE};width:{max(dem, 8):.1f}%">Dem {dem:.0f}%</div>
     <div style="background:{RED};width:{max(gop, 8):.1f}%;justify-content:flex-end">GOP {gop:.0f}%</div>
@@ -148,10 +151,32 @@ if item.get("status") != "ok":
     st.warning("The latest refresh for this race failed, so these are the last good numbers.")
 
 # ---------------------------------------------------------------- needle
-st.plotly_chart(needle_figure(s, compact=True), use_container_width=True, config={"displayModeBar": False})
-st.caption("Needle = projected margin. Dark band: 80% range. Light band: 90% range. Margins are Dem minus GOP.")
+wiggle = st.toggle("Show the needle moving through its range", value=False,
+                   help="Replays the needle at random points inside today's range, the way a live needle jitters. It is not live data.")
+st.plotly_chart(needle_figure(s, compact=True, wiggle=wiggle), use_container_width=True, config={"displayModeBar": False})
+st.caption("Needle = middle estimate. Dark band: 80% range (the headline range). Light band: 90% range. Margins are Dem minus GOP. "
+           "As votes are counted the bands narrow and the needle moves to where the model now expects the race to land.")
 for line in outcome_lines(s)[:2]:
     st.info(line)
+
+
+# ---------------------------------------------------------------- all races together
+_ctl = (data or {}).get("control") or {}
+if _ctl:
+    with st.expander("All races together (Senate and governor counts)", expanded=False):
+        import plotly.graph_objects as go
+        for key, title in (("senate", "Senate races on this site"), ("governor", "Governor races on this site")):
+            c_ = _ctl.get(key)
+            if not c_:
+                continue
+            st.markdown(f"**{title}** ({c_['n']} races): Democrats expected to win **{c_['expected_dem_wins']:.1f}**; "
+                        f"chance of winning more than half **{c_['p_dem_majority'] * 100:.0f}%**, Republicans **{c_['p_rep_majority'] * 100:.0f}%**.")
+            fig_ = go.Figure(go.Bar(x=list(range(c_["n"] + 1)), y=[d * 100 for d in c_["dist"]],
+                                    marker_color=[BLUE if i > c_["n"] / 2 else RED if i < c_["n"] / 2 else "gray" for i in range(c_["n"] + 1)]))
+            fig_.update_layout(height=200, margin=dict(l=4, r=4, t=4, b=4), xaxis_title="Democratic wins", yaxis_title="% chance")
+            st.plotly_chart(fig_, use_container_width=True, config={"displayModeBar": False})
+        st.caption("Races share part of their error, so a miss in one place tends to hit everywhere. Counts only the races listed here, "
+                   "not full chamber control (no holdover seats or races outside these 16 states).")
 
 # ---------------------------------------------------------------- detail panels (collapsed by default)
 with st.expander("What's moving the needle", expanded=True):
