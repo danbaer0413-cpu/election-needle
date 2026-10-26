@@ -1,36 +1,36 @@
 
 ==== GA2: https://sos.ga.gov/election-data-hub ====
   page status 403, title: 'Just a moment...'
-  visible text: 'sos.ga.gov\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a505aa7bcd9a9200\nPerformance and Security by Cloudflare\nPrivacy'
+  visible text: 'sos.ga.gov\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a505e538dd78cb9d\nPerformance and Security by Cloudflare\nPrivacy'
   0 data responses:
 
 ==== GA2: https://sos.ga.gov/page/election-data-hub-unofficial-turnout ====
   page status 403, title: 'Just a moment...'
-  visible text: 'sos.ga.gov\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a505aabb0a7e9200\nPerformance and Security by Cloudflare\nPrivacy'
+  visible text: 'sos.ga.gov\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a505e57828a3cb9d\nPerformance and Security by Cloudflare\nPrivacy'
   0 data responses:
 
 ==== MI: https://app.powerbigov.us/view?r=eyJrIjoiMTk3MjM4ZWQtMTlkZi00N2QxLTk5ZTktODdhYjk3YTVmMzk3IiwidCI6ImQ1ZmI3MDg3LTM3NzctNDJhZC05NjZhLTg5MmVmNDcyMjVkMSJ9 ====
   page status 200, title: 'Microsoft Power BI'
   visible text: 'Show keyboard shortcuts\nShow screen reader tips\nSkip to main content\nPower BI Report\n\nWhat voting methods are voters choosing in Michigan?\n\nLast updated: October 25, 2026 07:03:44 AM\n\nSelect an election to view from drop down menu\n2026 November General Election - Tuesday, November 3, 2026\n\nStatewide\n\nActive registered voters\n\nActive registered vote'
   10 data responses:
-  GET 200 https://js.monitor.azure.com/scripts/b/ai.config.1.cfg.json  [application/json] 1,828B
-      shape: {"version": "1.0.5", "enabled": true, "featureOptIn": {"iKeyUsage": {"mode": 3, "onCfg": {"throttleMgrCfg.109.disabled": "bool", "throttleMgrCfg.106.disabled": "bool"}, "offCfg": {"throttleMgrCfg.109.disabled": "bool", "throttleMgrCfg.106.disabled": "bool"}}, "CdnUsage": {"mode": 4, "onCfg": {"throttleMgrCfg.109.disabled": "bool", "throttleMgrCfg.110.disabled": "bool"}, "offCfg": {"throttleMgrCfg.109.disabled": "bool", "throttleMgrCfg.110.disabled": "bool"}}}, "config": {"throttleMgrCfg": {"109": {"disabled": "bool", "limit": "dict", "interval": "dict"}, "106": {"disabled": "bool", "limit": "dict", "interval": "dict"}, "110": {"disabled": "bool", "limit": "dict", "interval": "dict"}}}}
   GET 200 https://res.cdn.office.net/teams-js/validDomains/json/validDomains.json  [application/json] 2,757B
       shape: {"validOrigins": ["teams.microsoft.com", "...76 items"]}
+  GET 200 https://js.monitor.azure.com/scripts/b/ai.config.1.cfg.json  [application/json] 1,828B
+      shape: {"version": "1.0.5", "enabled": true, "featureOptIn": {"iKeyUsage": {"mode": 3, "onCfg": {"throttleMgrCfg.109.disabled": "bool", "throttleMgrCfg.106.disabled": "bool"}, "offCfg": {"throttleMgrCfg.109.disabled": "bool", "throttleMgrCfg.106.disabled": "bool"}}, "CdnUsage": {"mode": 4, "onCfg": {"throttleMgrCfg.109.disabled": "bool", "throttleMgrCfg.110.disabled": "bool"}, "offCfg": {"throttleMgrCfg.109.disabled": "bool", "throttleMgrCfg.110.disabled": "bool"}}}, "config": {"throttleMgrCfg": {"109": {"disabled": "bool", "limit": "dict", "interval": "dict"}, "106": {"disabled": "bool", "limit": "dict", "interval": "dict"}, "110": {"disabled": "bool", "limit": "dict", "interval": "dict"}}}}
   GET 200 https://wabi-us-gov-iowa-api.analysis.usgovcloudapi.net/public/reports/197238ed-19df-47d1-99e9-87ab97a5f397/modelsAndExploration?preferReadOnlySession=true  [application/json; charset=utf-8] 854,979B
       shape: {"models": [{"id": 764331, "vsName": "sobe_wowvirtualserver", "dbName": "14f669dd-c44f-4d24-b865-1f278871e575", "currentRefreshStartingTime": "", "refreshSchedule": {"importAndRefreshBehavior": "int", "executionTime": "NoneType", "localTimeZoneId": "str", "refreshEnabled": "bool", "isDaily": "bool", "isRefreshable": "bool", "numberOfTimeIntervals": "int", "refreshNotificationEnabled": "bool", "forceQueryRefreshEnabled": "bool", "forceModelRefreshEnabled": "bool", "refreshDisabledReason": "int"}, "nextRefreshTime": "/Date(1792998000000)/", "NextRefreshTime": "2026-10-26T07:00:00", "LastRefreshTime": "2026-10-25T11:06:44.817", "nextRefreshTimeUtc": "2026-10-26T07:00:00Z", "lastRefreshTime": "/
+  GET 200 https://pbivisuals.powerbigov.us/approvedResources.json  [application/json] 706,204B
+      shape: {"scvationGanttBasicC5993D93B1E74FF0B5EDB3ECF70154DF": {"isMsVisual": false, "allVersions": [{"hash": "str", "version": "str", "apiVersion": "str"}, "...4 items"], "assetId": "str"}, "canvasBarChart2F492679705746F580D0CD21FBDA6C07": {"isMsVisual": false, "allVersions": [{"hash": "str", "version": "str", "apiVersion": "str"}, "...1 items"], "assetId": "str"}, "epjSmartWaterfall": {"isMsVisual": false, "allVersions": [{"approvedForServerRender": "bool", "hash": "str", "version": "str", "apiVersion": "str"}, "...1 items"], "assetId": "str"}, "briqlabFlowSankeyA451A47C31D642F48BE889E1B061C82B": {"isMsVisual": false, "allVersions": [{"hash": "str", "version": "str", "apiVersion": "str"}, "...1 it
   GET 200 https://app.powerbigov.us/13.0.28520.307/sharedresources/BaseThemes/CY24SU02.json  [application/json] 18,274B
       shape: {"name": "CY24SU02", "dataColors": ["#118DFF", "...41 items"], "foreground": "#252423", "foregroundNeutralSecondary": "#605E5C", "foregroundNeutralTertiary": "#B3B0AD", "background": "#FFFFFF", "backgroundLight": "#F3F2F1", "backgroundNeutral": "#C8C6C4", "tableAccent": "#118DFF", "good": "#1AAB40", "neutral": "#D9B300", "bad": "#D64554", "maximum": "#118DFF", "center": "#D9B300"}
   GET 200 https://wabi-us-gov-iowa-api.analysis.usgovcloudapi.net/public/reports/resourcePackage/4734931/1%2Fd5fb7087-3777-42ad-966a-892ef47225d1%2FResourcePackage%2FBlobIdV2-a10d5476-1c36-4848-8504-11ba362ba7e  [application/octet-stream] 7,715B
       shape: {"name": "Custom", "textClasses": {"label": {"fontFace": "str", "fontSize": 14}, "callout": {"fontFace": "str", "fontSize": 32}, "title": {"fontFace": "str", "fontSize": 14}}, "dataColors": ["#222A89", "...480 items"], "minimum": "#ECF6FF", "center": "#93CBFF", "maximum": "#0185FF"}
   POST 200 https://wabi-us-gov-iowa-api.analysis.usgovcloudapi.net/public/reports/conceptualschema  [application/json; charset=utf-8] 57,371B
       shape: {"schemas": [{"modelId": 764331, "schema": {"Entities": "list", "Capabilities": "dict"}, "error": "NoneType"}, "...1 items"]}
-  GET 200 https://pbivisuals.powerbigov.us/approvedResources.json  [application/json] 706,204B
-      shape: {"scvationGanttBasicC5993D93B1E74FF0B5EDB3ECF70154DF": {"isMsVisual": false, "allVersions": [{"hash": "str", "version": "str", "apiVersion": "str"}, "...4 items"], "assetId": "str"}, "canvasBarChart2F492679705746F580D0CD21FBDA6C07": {"isMsVisual": false, "allVersions": [{"hash": "str", "version": "str", "apiVersion": "str"}, "...1 items"], "assetId": "str"}, "epjSmartWaterfall": {"isMsVisual": false, "allVersions": [{"approvedForServerRender": "bool", "hash": "str", "version": "str", "apiVersion": "str"}, "...1 items"], "assetId": "str"}, "briqlabFlowSankeyA451A47C31D642F48BE889E1B061C82B": {"isMsVisual": false, "allVersions": [{"hash": "str", "version": "str", "apiVersion": "str"}, "...1 it
-  GET 200 https://appsource.powerbi.com/visuals.json  [application/json] 48,261B
-      shape: {"buildDate": "2024-02-23T16:18:07.682Z", "visualsMP": {"PBI_CV_EB3A4088_75C5_4746_9D8B_255A7B7ECD6D": {"version": "1.6.0.1"}, "Multi_target_KPI": {"version": "1.3.1.4"}, "lipstickcolumnproAB273B43B8753CDD9BF5F94FAC9CCE10": {"version": "1.2.1.0"}, "calendarProByOKVIZ359F68153F3C4C1B84994D4D62ED4EAC": {"version": "1.0.5.3"}, "InforiverCharts582F6C55AB6442EF8FA129089285CB47": {"version": "3.5.0.0"}, "verticalText7CDBD87C36014D9E9DBFD9FC129DFA25": {"version": "2.0.0.0"}, "swPowerSlicer_sharewinfo_612350D75BB94427B2E530403CFB0292_vusial": {"version": "1.5.1.2"}, "customGantt3E4C07C6049F43778D09D3DD5677C29C": {"version": "1.2.2.2"}, "selectionSlicer75918E1108FD45E0B85F2A29F491BBA8": {"version": "
   GET 200 https://pbivisuals.powerbigov.us/advanceCardE03760C5AB684758B56AA29F9E6C257B.2.1.1.6d1de949c83c0a9018f012a56036a071ca9706bee3bba9d32522f6f2f25fa326.pbiviz.json  [application/json] 307,044B
       shape: {"visual": {"name": "advanceCard", "displayName": "Advance Card", "guid": "str", "visualClassName": "AdvanceCardVisual", "version": "2.1.1", "description": "str", "supportUrl": "str", "gitHubUrl": "str"}, "author": {"name": "Bhavesh Jadav", "email": "bhavesh.jadav@outlook.com"}, "apiVersion": "2.1.0", "style": "style/visual.less", "stringResources": {}, "capabilities": {"dataRoles": [{"displayName": "str", "name": "str", "kind": "str", "description": "str"}, "...5 items"], "dataViewMappings": [{"conditions": "list", "table": "dict"}, "...1 items"], "objects": {"general": {"displayName": "str", "description": "str", "properties": "dict"}, "dataLabelSettings": {"displayName": "str", "descripti
+  GET 200 https://appsource.powerbi.com/visuals.json  [application/json] 48,261B
+      shape: {"buildDate": "2024-02-23T16:18:07.682Z", "visualsMP": {"PBI_CV_EB3A4088_75C5_4746_9D8B_255A7B7ECD6D": {"version": "1.6.0.1"}, "Multi_target_KPI": {"version": "1.3.1.4"}, "lipstickcolumnproAB273B43B8753CDD9BF5F94FAC9CCE10": {"version": "1.2.1.0"}, "calendarProByOKVIZ359F68153F3C4C1B84994D4D62ED4EAC": {"version": "1.0.5.3"}, "InforiverCharts582F6C55AB6442EF8FA129089285CB47": {"version": "3.5.0.0"}, "verticalText7CDBD87C36014D9E9DBFD9FC129DFA25": {"version": "2.0.0.0"}, "swPowerSlicer_sharewinfo_612350D75BB94427B2E530403CFB0292_vusial": {"version": "1.5.1.2"}, "customGantt3E4C07C6049F43778D09D3DD5677C29C": {"version": "1.2.2.2"}, "selectionSlicer75918E1108FD45E0B85F2A29F491BBA8": {"version": "
   GET 200 https://wabi-us-gov-iowa-api.analysis.usgovcloudapi.net/public/reports/resourcePackage/4734931/1%2Fd5fb7087-3777-42ad-966a-892ef47225d1%2FResourcePackage%2FBlobIdV2-8d20b1be-2acd-4d3e-973b-bd5ac09f4ee  [application/octet-stream] 174,596B
       shape: {"type": "Topology", "arcs": [[[14843, "...2 items"], "...5 items"], "...264 items"], "transform": {"scale": [0.000439690273240446, "...2 items"], "translate": [-90.41496154066284, "...2 items"]}, "objects": {"Counties_(v17a)": {"type": "GeometryCollection", "geometries": [{"arcs": "list", "type": "str", "properties": "dict"}, "...83 items"]}}}
 
@@ -64,7 +64,7 @@ Call log:
 
 ==== WI: https://elections.wi.gov/elections-voting/results ====
   page status 403, title: 'Just a moment...'
-  visible text: 'elections.wi.gov\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a505ae59f91868e8\nPerformance and Security by Cloudflare\nPrivacy'
+  visible text: 'elections.wi.gov\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a505e9194e901131\nPerformance and Security by Cloudflare\nPrivacy'
   0 data responses:
 
 ==== NE: https://electionresults.nebraska.gov/ ====
@@ -74,7 +74,7 @@ Call log:
   GET 200 https://neresultswebservice.azurewebsites.us/ResultsAjax.svc/GetCandidates?ElectionType=General&ElectionID=0  [application/json; charset=utf-8] 158,350B
       shape: {"d": [{"__type": "CandidateData:#NEResultsWebService", "ID": 1, "Party": "Nonpartisan", "desc": "str", "label": "str", "name": "Dwane  Piere "}, "...625 items"]}
   GET 200 https://neresultswebservice.azurewebsites.us/ResultsAjax.svc/GetVoterTurnoutData?  [application/json; charset=utf-8] 27,147B
-      shape: {"d": [{"__type": "TurnoutData:#NEResultsWebService", "CountyID": "14", "CountyName": "Adams", "CountyPercent": 0, "CurrentDateTime": "10/25/2026 8:28:14 PM", "IsReported": false, "PartialPrecincts": 0, "PrecinctName": "Countywide", "PrecinctsReporting": 0, "TotalPrecincts": 22, "Voters": 19246, "calcVoterTurnout": 0}, "...93 items"]}
+      shape: {"d": [{"__type": "TurnoutData:#NEResultsWebService", "CountyID": "14", "CountyName": "Adams", "CountyPercent": 0, "CurrentDateTime": "10/25/2026 9:08:20 PM", "IsReported": false, "PartialPrecincts": 0, "PrecinctName": "Countywide", "PrecinctsReporting": 0, "TotalPrecincts": 22, "Voters": 19246, "calcVoterTurnout": 0}, "...93 items"]}
 
 ==== IA: https://electionresults.iowa.gov/ ====
   page status 202, title: 'List Elections'
@@ -84,12 +84,12 @@ Call log:
       shape: {"challenge": {"input": "str", "region": "us-east-1"}, "challenge_type": "str", "difficulty": 3}
   POST 200 https://db8016089cd6.da35edec.us-east-1.token.awswaf.com/db8016089cd6/d8e4662a7f1e/acb628cde51e/mp_verify?region=us-east-1  [application/json] 404B
       shape: {"token": "str", "inputs": "NoneType"}
-  GET 200 https://electionresults.iowa.gov/IA/elections.json?v=1792978100724  [application/json] 712B
+  GET 200 https://electionresults.iowa.gov/IA/elections.json?v=1792980506771  [application/json] 712B
       shape: [{"State": "IA", "StateId": "608", "County": "", "CountyId": "", "EID": "126082", "ElectionName": "2026 Primary Election", "Date": "6/2/2026 12:00:00 AM"}, "...5 items"]
 
 ==== IA: https://sos.iowa.gov/iowans/election-results-statistics ====
   page status 403, title: 'Just a moment...'
-  visible text: 'sos.iowa.gov\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a505af45a9154c91\nPerformance and Security by Cloudflare\nPrivacy'
+  visible text: 'sos.iowa.gov\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a505ea043e6b0d35\nPerformance and Security by Cloudflare\nPrivacy'
   0 data responses:
 
 ==== SC: https://www.enr-scvotes.org/SC/ ====
@@ -100,7 +100,7 @@ Call log:
       shape: {"challenge": {"input": "str", "region": "us-east-1"}, "challenge_type": "str", "difficulty": 3}
   POST 200 https://db8016089cd6.da35edec.us-east-1.token.awswaf.com/db8016089cd6/d8e4662a7f1e/acb628cde51e/mp_verify?region=us-east-1  [application/json] 396B
       shape: {"token": "str", "inputs": "NoneType"}
-  GET 200 https://www.enr-scvotes.org/SC/elections.json?v=1792978121300  [application/json] 2B
+  GET 200 https://www.enr-scvotes.org/SC/elections.json?v=1792980527198  [application/json] 2B
 
 ==== SC: https://scvotes.gov/elections-statistics/election-results/ ====
   page status 200, title: 'Election Results - SC Votes - South Carolina Election Commission'
@@ -126,7 +126,7 @@ Call log:
   GET 200 https://appsource.powerbi.com/visuals.json  [application/json] 48,261B
       shape: {"buildDate": "2024-02-23T16:18:07.682Z", "visualsMP": {"PBI_CV_EB3A4088_75C5_4746_9D8B_255A7B7ECD6D": {"version": "1.6.0.1"}, "Multi_target_KPI": {"version": "1.3.1.4"}, "lipstickcolumnproAB273B43B8753CDD9BF5F94FAC9CCE10": {"version": "1.2.1.0"}, "calendarProByOKVIZ359F68153F3C4C1B84994D4D62ED4EAC": {"version": "1.0.5.3"}, "InforiverCharts582F6C55AB6442EF8FA129089285CB47": {"version": "3.5.0.0"}, "verticalText7CDBD87C36014D9E9DBFD9FC129DFA25": {"version": "2.0.0.0"}, "swPowerSlicer_sharewinfo_612350D75BB94427B2E530403CFB0292_vusial": {"version": "1.5.1.2"}, "customGantt3E4C07C6049F43778D09D3DD5677C29C": {"version": "1.2.2.2"}, "selectionSlicer75918E1108FD45E0B85F2A29F491BBA8": {"version": "
   GET 200 https://dev.virtualearth.net/webservices/v1/LoggingService/LoggingService.svc/Log?entry=0&fmt=1&type=3&group=MapControl&name=MVC&version=v8&mkt=en-US&auth=AoW85FdF-eTJavFmWhZjaQ970kwG1FuainbyVSlP5Hglk  [application/json; charset=utf-8] 315B
-      start: Microsoft.Maps.NetworkCallbacks.f_logCallbackRequest({"sessionId":"AvtWBWXGQjCA8y4-LEeTAET00ibmG6GnHoKJvAUhD1kzCioNvCd0JffPg62tkDJC","authenticationResultCode":"ValidCredentials","sessionIdCreationTim
+      start: Microsoft.Maps.NetworkCallbacks.f_logCallbackRequest({"sessionId":"AriBywmeWkuA5ih0w_kqR3bNPoYmO15aKN-t20QOuKINI5hAucWsFnhMcO2S1c7G","authenticationResultCode":"ValidCredentials","sessionIdCreationTim
   GET 200 https://www.bing.com/maps/geotfe/comp/stl?ctpv=2&og=2867  [application/json] 16,027B
       shape: {"categoryMap": [{"categoryId": 91263, "bucketId": 1848, "entry": "CommunityPoint"}, "...129 items"]}
   GET 200 https://www.bing.com/maps/geotfe/comp/stl?mssetbv=9.26&og=2867  [application/json] 13,238B
@@ -134,7 +134,7 @@ Call log:
   GET 200 https://www.bing.com/maps/geotfe/comp/stl?v=9.26&tpp=DC2B2930-4CA4-45EB-9EE9-3F4EFA4267E5&og=2867  [application/json] 3,543,068B
       shape: {"booleanValues": [{"fValue": false, "type": 1}, "...561 items"], "colorValues": [{"fValue": 16777215, "type": 1}, "...696 items"], "enumValues": [{"fValue": 0, "type": 1, "graphEnumType": "FontWeight"}, "...205 items"], "fixedStrings": ["Segoe UI", "...9532 items"], "groupedImageOptions": [{"mapImage": 0, "stateId": 0}, "...359 items"], "imageGroups": [{"images": [0, "...1 items"]}, "...347 items"], "imageVariantsList": [{"imageReferences": [{"imageId": "int", "keyId": "int"}, "...1 items"]}, "...499 items"], "paletteDefinitions": {"nodes": [{"parentId": "int", "nameId": "int", "nodeTypeId": "int"}, "...389 items"], "types": [{"parentId": "int", "nameId": "int", "properties": "list"}, "...7
   POST 200 https://dev.virtualearth.net/REST/v1/Locations/multigeocode?culture=en-US&output=json&key=AoW85FdF-eTJavFmWhZjaQ970kwG1FuainbyVSlP5HglkbhVVIFOyNwlaQxAIj-S  [application/json; charset=utf-8] 19,072B
-      shape: {"authenticationResultCode": "ValidCredentials", "brandLogoUri": "str", "copyright": "str", "resourceSets": [{"estimatedTotal": 1, "resources": [{"__type": "str", "bbox": "list", "name": "str", "point": "dict", "address": "dict", "confidence": "str", "entityType": "str", "geocodePoints": "list", "matchCodes": "list"}, "...1 items"]}, "...30 items"], "statusCode": 200, "statusDescription": "OK", "traceId": "86d4a012b45207a030c7335d7c37a389"}
+      shape: {"authenticationResultCode": "ValidCredentials", "brandLogoUri": "str", "copyright": "str", "resourceSets": [{"estimatedTotal": 1, "resources": [{"__type": "str", "bbox": "list", "name": "str", "point": "dict", "address": "dict", "confidence": "str", "entityType": "str", "geocodePoints": "list", "matchCodes": "list"}, "...1 items"]}, "...30 items"], "statusCode": 200, "statusDescription": "OK", "traceId": "fed17a519a387afb9c36781a963b5b6b"}
   GET 200 https://www.bing.com/maps/geotfe/comp/stl?v=9.26&og=2867&idx=2,388,411,440,471,472,501,506,517,518,519&oidjs=&features=ci  [application/json] 7,709B
       shape: {"2": {"records": [{"type": "str", "data": "str", "bounds": "list", "fill": "str"}, "...1 items"], "anchorX": 11, "anchorY": 11}, "388": {"layers": {"background": {"records": "list", "shape": "int"}, "icon": {"records": "list", "shape": "int"}}, "defaultEntry": "Business"}, "411": {"layers": {"background": {"records": "list", "shape": "int"}, "icon": {"records": "list", "shape": "int"}}, "defaultEntry": "Transit"}, "440": {"records": [{"type": "str", "radius": "int", "fill": "dict", "stroke": "dict", "strokeWidth": "int", "strokeScale": "dict", "scale": "dict"}, "...1 items"], "defaultEntry": "PointHighlight"}, "471": {"layers": {"background": {"records": "list", "shape": "int"}, "icon": {"r
   GET 200 https://www.bing.com/maps/geotfe/comp/stl?v=9.26&og=2867&idx=524&oidjs=&features=ci  [application/json] 319B
@@ -147,7 +147,7 @@ Call log:
 
 ==== NH: https://www.sos.nh.gov/2026-general-election-results ====
   page status 403, title: 'Access Denied'
-  visible text: 'Access Denied\nYou don\'t have permission to access "http://www.sos.nh.gov/2026-general-election-results" on this server.\n\nReference #18.5018d017.1792978189.176c0ca3\n\nhttps://errors.edgesuite.net/18.5018d017.1792978189.176c0ca3'
+  visible text: 'Access Denied\nYou don\'t have permission to access "http://www.sos.nh.gov/2026-general-election-results" on this server.\n\nReference #18.4c18d017.1792980595.8cee94c2\n\nhttps://errors.edgesuite.net/18.4c18d017.1792980595.8cee94c2'
   0 data responses:
 
 ==== FL: https://floridaelectionwatch.gov/ ====
@@ -159,7 +159,7 @@ Call log:
   page status 200, title: 'Precinct-Level Election Results - Division of Elections - Florida Department of '
   visible text: 'Corporations\nArts & Culture\nElections\nHistorical Resources\nLibrary and Information Services\n\nThe Division of Elections facilitates coordination and interpretation of election laws and establishes uniform standards to ensure fair and accurate elections in Florida.\n\nAbout Us\n\t\nCandidates & Committees\n\t\nData & Statistics\n\t\nFor Voters\n\t\nForms & Publica'
   1 data responses:
-  GET 200 https://syndication.twitter.com/settings?session_id=ad1e5674b22b10f23ac9010f43be2c0775aafe18  [application/json; charset=utf-8] 869B
+  GET 200 https://syndication.twitter.com/settings?session_id=9796dd353f368c858262b4614f3cc833ae4dec1b  [application/json; charset=utf-8] 869B
       shape: {"should_obtain_cookie_consent": true, "features": {"tfw_timeline_list": {"bucket": ["empty", "...0 items"], "version": "NoneType"}, "tfw_follower_count_sunset": {"bucket": true, "version": "NoneType"}, "tfw_tweet_edit_backend": {"bucket": "on", "version": "NoneType"}, "tfw_refsrc_session": {"bucket": "on", "version": "NoneType"}, "tfw_fosnr_soft_interventions_enabled": {"bucket": "on", "version": "NoneType"}, "tfw_mixed_media_15897": {"bucket": "treatment", "version": "NoneType"}, "tfw_experiments_cookie_expiration": {"bucket": 1209600, "version": "NoneType"}, "tfw_show_birdwatch_pivots_enabled": {"bucket": "on", "version": "NoneType"}, "tfw_duplicate_scribes_to_settings": {"bucket": "on", 
 
 ==== ME: https://www.maine.gov/sos/elections-voting/election-results-data ====
@@ -185,10 +185,10 @@ Call log:
       shape: "Governor and Lieutenant Governor"
   GET 200 https://liveresults.ohiosos.gov/Api/v1/Contest/getTabs  [application/json; charset=utf-8] 1,514B
       shape: [{"name": "Statewide Offices", "children": [{"name": "str", "children": "NoneType", "parent": "str", "hasChildren": "bool"}, "...5 items"], "parent": "ROOT", "hasChildren": true}, "...6 items"]
-  POST 200 https://liveresults.ohiosos.gov/cdn-cgi/challenge-platform/h/b/precursor/d2d3316b729e/0.32002038332505645:1792977012:LBUqfRKQPsFXlgr_888EXIAVW4cXCLZ-aXJst0fb6-A/a505b3d7bfc44ca8  [application/json; charset=UTF-8] 18B
-      shape: {"i": 60, "n": false}
   GET 200 https://liveresults.ohiosos.gov/Api/v1/Contest/getMarquee  [application/json; charset=utf-8] 199B
       shape: [{"message": "str"}, "...1 items"]
+  POST 200 https://liveresults.ohiosos.gov/cdn-cgi/challenge-platform/h/b/precursor/d2d3316b729e/0.32002038332505645:1792977012:LBUqfRKQPsFXlgr_888EXIAVW4cXCLZ-aXJst0fb6-A/a505ee94cc4b9602  [application/json; charset=UTF-8] 18B
+      shape: {"i": 60, "n": false}
 
 ==== OH: https://www.ohiosos.gov/data ====
   page status 403, title: 'Just a moment...'
