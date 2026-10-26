@@ -1,0 +1,163 @@
+
+==== GA: https://results.sos.ga.gov/results/public/Georgia ====
+  page status 200, title: 'Election Results'
+  visible text: 'GeorgiaElection Results\n\nResults for Recent and Historical Elections\n\nNovember 3, 2026 - General & Special Elections\nNovember 3, 2026\nAugust 25th, 2026 Special Election Runoff\nAugust 25, 2026\nJuly 28th, 2026 - Special Election\nJuly 28, 2026\nFilter by Year:\nShow All\n2026\n2025\n2024\n2023\n2022\n2021\n2020\n2019\n2018\n2017\n2016\n2015\n2014\n2013\n2012\nApply\n202'
+  1 data responses:
+  GET 200 https://results.sos.ga.gov/results/public/api/jurisdictions/Georgia  [application/json; charset=utf-8] 88,082B
+      shape: {"bannerUrl": "str", "bannerUrlAltText": "NoneType", "bannerLinkUrl": "NoneType", "bannerUrlLeft": "NoneType", "bannerUrlLeftAltText": "NoneType", "bannerLinkUrlLeft": "NoneType", "bannerUrlRight": "NoneType", "bannerUrlRightAltText": "NoneType", "bannerLinkUrlRight": "NoneType", "childLocalities": [{"id": "D58E790A-A271-4225-8CD6-A1ED0AA829B1", "name": [{"languageId": "str", "text": "str"}, "...1 items"], "shortName": "appling-county-ga", "turnoutPercent": "NoneType", "percentReporting": "NoneType", "precinctsReporting": "NoneType", "hasCountGroupStatus": false, "hasPrecinctStatus": false, "mapFeatureId": "Appling"}, "...159 items"], "clientTexts": [{"id": "active-voters-label", "languageTe
+
+==== TX: https://results.texas-election.com/ ====
+  page status 200, title: '::Texas Election Night Results::'
+  visible text: 'Skip to Main Content\nTEXAS ELECTION RESULTS\nOFFICIAL RESULTS\nHome\nCounty\nFavorite Races (0)\nReports\nSearch\nElection: 2024 NOVEMBER 5TH GENERAL ELECTION\nView/Change Election here\nThe top two candidates in terms of votes received are shown here. Additional candidates for this office can be found in the detailed views below.\nPrevious\nCRIMINAL DISTRICT'
+  13 data responses:
+  GET 200 https://results.texas-election.com/static/data/Version.json  [application/json] 20B
+      shape: {"___versionNo": 404}
+  GET 200 https://results.texas-election.com/static/data/ElectionConstants_404.json  [application/json] 5,848B
+      shape: {"electionInfo": {"2019": {"SE": {"44052": "dict", "44054": "dict", "44053": "dict", "42840": "dict"}}, "2020": {"G": {"44144": "dict"}, "P": {"44145": "dict", "44146": "dict"}, "RU": {"44376": "dict", "44387": "dict"}, "SE": {"44520": "dict", "44823": "dict"}, "SR": {"45648": "dict", "44149": "dict", "44147": "dict", "44148": "dict"}}, "2021": {"SE": {"46750": "dict", "45820": "dict", "45703": "dict", "46891": "dict", "45706": "dict"}, "SR": {"45749": "dict", "46928": "dict", "47012": "dict", "46698": "dict"}}, "2022": {"G": {"47009": "dict"}, "P": {"47010": "dict", "47011": "dict"}, "RU": {"47292": "dict", "47293": "dict"}, "SE": {"47072": "dict", "47689": "dict", "47058": "dict"}}, "2023"
+  GET 200 https://results.texas-election.com/static/data/election/49664/Version.json  [application/json] 43B
+      shape: {"___versionNo": 1012, "elecDate": "11052024"}
+  GET 200 https://results.texas-election.com/static/data/election/49664/1012/Home.json  [application/json] 221B
+      shape: {"CountiesReporting": {"CR": 254, "CT": 254}, "LastUpdatedTime": "Nov 26, 2024 12:57:43", "Report": "Y", "Search": "Y", "Rss": "N", "RefreshTime": 5, "PrecinctsReporting": {"PR": 9885, "PT": 9885}, "PollingReporting": {"PLR": 5807, "PLT": 5807}}
+  GET 200 https://results.texas-election.com/static/data/election/49664/1012/Race.json  [application/json] 33,550B
+      shape: {"OfficeTypes": [{"OfficeType": "FEDERAL OFFICES", "OfficeTypeID": 1001, "Races": [{"id": "int", "N": "str"}, "...40 items"]}, "...3 items"]}
+  GET 200 https://results.texas-election.com/static/data/election/49664/1012/OfficeSummary.json  [application/json] 87,842B
+      shape: {"OS": [{"OID": 1001, "ON": "PRESIDENT/VICE-PRESIDENT", "C": [{"N": "str", "P": "str", "C": "str", "T": "int", "O": "int"}, "...2 items"]}, "...592 items"]}
+  GET 200 https://results.texas-election.com/static/data/election/49664/1012/Federal.json  [application/json] 13,137B
+      shape: {"OffType": "FEDERAL OFFICES", "OffTypeID": 1001, "Races": [{"id": 1001, "N": "PRESIDENT/VICE-PRESIDENT", "Candidates": [{"ID": "int", "N": "str", "P": "str", "V": "int", "PE": "float", "C": "str", "O": "int", "EV": "int"}, "...10 items"], "T": 11388674, "RTEV": 9133238}, "...40 items"]}
+  GET 200 https://results.texas-election.com/static/data/election/49664/1012/StateWide.json  [application/json] 2,528B
+      shape: {"OffType": "STATEWIDE OFFICES", "OffTypeID": 1002, "Races": [{"id": 7956, "N": "RAILROAD COMMISSIONER ", "Candidates": [{"ID": "int", "N": "str", "P": "str", "V": "int", "PE": "float", "C": "str", "O": "int", "EV": "int"}, "...5 items"], "T": 10965115, "RTEV": 8835982}, "...7 items"]}
+  GET 200 https://results.texas-election.com/static/data/election/49664/1012/Lookups.json  [application/json] 82,572B
+      shape: {"Candidates": [{"ID": 340860, "BN": "KAMALA D. HARRIS/TIM WALZ"}, "...837 items"], "OfficeType": [{"ID": 1, "OT": "Federal"}, "...4 items"], "Office": [{"ID": 1001, "ON": "PRESIDENT/VICE-PRESIDENT", "OT": 1, "SO": 1}, "...592 items"], "County": [{"ID": 1, "CN": "ANDERSON", "MID": 48001}, "...254 items"]}
+  GET 200 https://results.texas-election.com/static/data/Texas_Map.json  [application/json] 366,609B
+      shape: {"type": "Topology", "arcs": [[[18615, "...2 items"], "...6 items"], "...724 items"], "transform": {"scale": [0.00038851258930191953, "...2 items"], "translate": [-106.64613979277499, "...2 items"]}, "objects": {"type": "GeometryCollection", "geometries": [{"arcs": "list", "type": "str", "properties": "dict"}, "...254 items"]}}
+  GET 200 https://results.texas-election.com/static/data/election/49664/1012/County.json  [application/json] 1,818,450B
+      shape: {"48001": {"N": "ANDERSON", "TV": 30613, "C": "#19b90f", "Races": {"1001": {"OID": "int", "ON": "str", "T": "int", "C": "dict", "OT": "str", "O": "int", "PR": "int", "OTRV": "int", "TPR": "int"}, "7958": {"OID": "int", "ON": "str", "T": "int", "C": "dict", "OT": "str", "O": "int", "PR": "int", "OTRV": "int", "TPR": "int"}, "2018": {"OID": "int", "ON": "str", "T": "int", "C": "dict", "OT": "str", "O": "int", "PR": "int", "OTRV": "int", "TPR": "int"}, "7956": {"OID": "int", "ON": "str", "T": "int", "C": "dict", "OT": "str", "O": "int", "PR": "int", "OTRV": "int", "TPR": "int"}, "1015": {"OID": "int", "ON": "str", "T": "int", "C": "dict", "OT": "str", "O": "int", "PR": "int", "OTRV": "int", "TP
+
+==== MI: https://mielections.us/election/results/ ====
+  FAILED: TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://mielections.us/election/results/", waiting until "networkidle"
+
+  0 data responses:
+
+==== MI: https://mielections.us/election/results/2024GEN_CENR.html ====
+  FAILED: TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://mielections.us/election/results/2024GEN_CENR.html", waiting until "networkidle"
+
+  0 data responses:
+
+==== NV: https://silverstateelection.nv.gov/ ====
+  FAILED: TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://silverstateelection.nv.gov/", waiting until "networkidle"
+
+  3 data responses:
+  POST 200 https://silverstateelection.nv.gov/ins-That-will-of-Trificious-Fathere-andinocking-/jg9qLH7K6tCZv5kTDHFDRtd_GmBapZBzltNYNlW0BWI?d=silverstateelection.nv.gov  [application/json] 656B
+      shape: {"token": "str", "renewInSec": 780, "cookieDomain": "NoneType"}
+  POST 200 https://silverstateelection.nv.gov/f-and-Macb-Ther-cry-there-you-I-prace-on-Macb-Wh?d=silverstateelection.nv.gov  [application/json] 656B
+      shape: {"token": "str", "renewInSec": 775, "cookieDomain": "NoneType"}
+  POST 200 https://api.hcaptcha.com/checksiteconfig?v=aca5f59ac1dedd238fa84e3f3225f622e5735959&host=silverstateelection.nv.gov&sitekey=dd6e16a7-972e-47d2-93d0-96642fb6d8de&sc=1&swa=1&spst=1  [application/json] 850B
+      shape: {"features": {"a11y_challenge": true, "custom_theme": true, "enc_get_req": true}, "c": {"type": "hsw", "req": "str"}, "pass": true}
+
+==== MN: https://electionresults.sos.mn.gov/ ====
+  page status 200, title: 'Home - Election Results'
+  visible text: 'We apologize for the inconvenience...\n\n...but your activity and behavior on this site made us think that you are a bot.\n\nNote: A number of things could be going on here.\n\nIf you are attempting to access this site using an anonymous Private/Proxy network, please disable that and try accessing site again.\nDue to previously detected malicious behavior'
+  2 data responses:
+  GET 200 https://commoncontent.sos.mn.gov/fonts/mn-icons/icomoon.ttf?-b40lv  [application/octet-stream] 24,664B
+      start:       �  0OS/26   �   `cmap�B�      \gasp     x   glyfcB  �  Ythead ɐ  Z�   6hhea �K  [,   $hmtx# !  [P  (loca!� �  ]x  maxp �:  ^�    name�J �  ^�  �post     `8     �   �
+  POST 200 https://api.hcaptcha.com/checksiteconfig?v=aca5f59ac1dedd238fa84e3f3225f622e5735959&host=validate.perfdrive.com&sitekey=ae73173b-7003-44e0-bc87-654d0dab8b75&sc=1&swa=1&spst=1  [application/json] 830B
+      shape: {"features": {"a11y_challenge": true, "enc_get_req": true}, "c": {"type": "hsw", "req": "str"}, "pass": true}
+
+==== WI: https://elections.wi.gov/elections-voting/results ====
+  page status 200, title: 'Election Results Archive | Wisconsin Elections Commission'
+  visible text: 'Skip to main content\nAbout the WEC\nSub items\nContact Us\nNews & Events\nSub items\nSearch\n\nWISCONSIN ELECTIONS COMMISSION\n\nClerks\nToggle Clerks sub menu\nCandidates\nToggle Candidates sub menu\nElections\nToggle Elections sub menu\nPoll Workers & Observers\nToggle Poll Workers &amp; Observers sub menu\nStatistics & Data\nToggle Statistics &amp; Data sub menu\n'
+  0 data responses:
+
+==== NE: https://electionresults.nebraska.gov/ ====
+  page status 200, title: 'Nebraska Secretary of State'
+  visible text: 'MENU\nEXPORT\nMY TRACKED CONTESTS\nHOME\nNEBRASKA SECRETARY OF STATE\nUnofficial Results\nGENERAL ELECTION NOVEMBER 3, 2026\nResults last updated:\n10/6/2026 8:49 AM CT\nSTATEWIDE VOTER TURNOUT\n0%\nBallots Cast\n0\n\nRegistered Voters\n1,259,447\nPRECINCTS REPORTING\n0%\nPartially\n0\n\n\nFully\n0\n\n\nTotal\n1322\nVOTER TURNOUT\nSTATEWIDE VOTER TURNOUT\n0%\n0 out of 1322 Preci'
+  3 data responses:
+  GET 200 https://neresultswebservice.azurewebsites.us/ResultsAjax.svc/GetCandidates?ElectionType=General&ElectionID=0  [application/json; charset=utf-8] 158,350B
+      shape: {"d": [{"__type": "CandidateData:#NEResultsWebService", "ID": 1, "Party": "Nonpartisan", "desc": "str", "label": "str", "name": "Dwane  Piere "}, "...625 items"]}
+  GET 200 https://neresultswebservice.azurewebsites.us/ResultsAjax.svc/GetVoterTurnoutData?  [application/json; charset=utf-8] 27,147B
+      shape: {"d": [{"__type": "TurnoutData:#NEResultsWebService", "CountyID": "14", "CountyName": "Adams", "CountyPercent": 0, "CurrentDateTime": "10/25/2026 7:36:02 PM", "IsReported": false, "PartialPrecincts": 0, "PrecinctName": "Countywide", "PrecinctsReporting": 0, "TotalPrecincts": 22, "Voters": 19246, "calcVoterTurnout": 0}, "...93 items"]}
+
+==== IA: https://electionresults.iowa.gov/ ====
+  page status 202, title: 'List Elections'
+  visible text: 'Election List\nElection Night Reporting\nFilter by:\nALL\n2026\n2025\n2024\n2026\n2026 Primary Election\n6/2/2026\n2025\n2025 Special - SD 16\n12/30/2025\n2025 Special - HD 7\n12/9/2025\n2025 City-School Election\n11/4/2025\n2024\n2024 General Election\n11/5/2024\nCopyright 2026 - SOE Software\nPowered by SOE Software'
+  3 data responses:
+  GET 200 https://db8016089cd6.a380df15.us-west-1.token.awswaf.com/db8016089cd6/d8e4662a7f1e/acb628cde51e/inputs?client=browser  [application/json] 769B
+      shape: {"challenge": {"input": "str", "region": "us-west-1"}, "challenge_type": "str", "difficulty": 3}
+  POST 200 https://db8016089cd6.a380df15.us-west-1.token.awswaf.com/db8016089cd6/d8e4662a7f1e/acb628cde51e/mp_verify?region=us-west-1  [application/json] 404B
+      shape: {"token": "str", "inputs": "NoneType"}
+  GET 200 https://electionresults.iowa.gov/IA/elections.json?v=1792974968679  [application/json] 712B
+      shape: [{"State": "IA", "StateId": "608", "County": "", "CountyId": "", "EID": "126082", "ElectionName": "2026 Primary Election", "Date": "6/2/2026 12:00:00 AM"}, "...5 items"]
+
+==== SC: https://enr.scvotes.sc.gov/ ====
+  FAILED: Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://enr.scvotes.sc.gov/
+Call log:
+  - navigating to "https://enr.scvotes.sc.gov/", waiting until "networkidle"
+
+  0 data responses:
+
+==== KS: https://sos.ks.gov/elections/election-results.html ====
+  page status 200, title: 'Kansas Secretary of State | Elections | Election Results'
+  visible text: "An official State of Kansas government website. Here's how you know.\n\nBusinesses\nElections\nPublications\nGeneral Services\nLobbyist\nMedia\nAbout\nElection Results\n   \n\nElection information for years prior to 2004 and unofficial and precinct specific election results are available upon request. Please call 800-262-VOTE (8683) or email election@ks.gov.\n\n"
+  17 data responses:
+  GET 200 https://res.cdn.office.net/teams-js/validDomains/json/validDomains.json  [application/json] 2,757B
+      shape: {"validOrigins": ["teams.microsoft.com", "...76 items"]}
+  GET 200 https://js.monitor.azure.com/scripts/b/ai.config.1.cfg.json  [application/json] 1,828B
+      shape: {"version": "1.0.5", "enabled": true, "featureOptIn": {"iKeyUsage": {"mode": 3, "onCfg": {"throttleMgrCfg.109.disabled": "bool", "throttleMgrCfg.106.disabled": "bool"}, "offCfg": {"throttleMgrCfg.109.disabled": "bool", "throttleMgrCfg.106.disabled": "bool"}}, "CdnUsage": {"mode": 4, "onCfg": {"throttleMgrCfg.109.disabled": "bool", "throttleMgrCfg.110.disabled": "bool"}, "offCfg": {"throttleMgrCfg.109.disabled": "bool", "throttleMgrCfg.110.disabled": "bool"}}}, "config": {"throttleMgrCfg": {"109": {"disabled": "bool", "limit": "dict", "interval": "dict"}, "106": {"disabled": "bool", "limit": "dict", "interval": "dict"}, "110": {"disabled": "bool", "limit": "dict", "interval": "dict"}}}}
+  GET 200 https://wabi-us-gov-virginia-api.analysis.usgovcloudapi.net/public/reports/fdbdbdb1-07ce-4840-afaf-72b930f2f8d6/modelsAndExploration?preferReadOnlySession=true  [application/json; charset=utf-8] 539,026B
+      shape: {"models": [{"id": 1851138, "vsName": "sobe_wowvirtualserver", "dbName": "2fd71af5-295e-4551-81e2-03ffdc3961b6", "currentRefreshStartingTime": "", "refreshSchedule": {"importAndRefreshBehavior": "int", "executionTime": "NoneType", "localTimeZoneId": "str", "refreshEnabled": "bool", "isDaily": "bool", "isRefreshable": "bool", "numberOfTimeIntervals": "int", "refreshNotificationEnabled": "bool", "forceQueryRefreshEnabled": "bool", "forceModelRefreshEnabled": "bool", "refreshDisabledReason": "int"}, "nextRefreshTime": "/Date(253402214399999)/", "NextRefreshTime": "9999-12-30T23:59:59.9999999", "LastRefreshTime": "2026-03-18T16:35:03.09", "nextRefreshTimeUtc": "9999-12-30T23:59:59.9999999Z", "la
+  GET 200 https://app.powerbigov.us/13.0.28520.307/sharedresources/BaseThemes/CY24SU10.json  [application/json] 19,596B
+      shape: {"name": "CY24SU10", "dataColors": ["#118DFF", "...41 items"], "foreground": "#252423", "foregroundNeutralSecondary": "#605E5C", "foregroundNeutralTertiary": "#B3B0AD", "background": "#FFFFFF", "backgroundLight": "#F3F2F1", "backgroundNeutral": "#C8C6C4", "tableAccent": "#118DFF", "good": "#1AAB40", "neutral": "#D9B300", "bad": "#D64554", "maximum": "#118DFF", "center": "#D9B300"}
+  POST 200 https://wabi-us-gov-virginia-api.analysis.usgovcloudapi.net/public/reports/conceptualschema  [application/json; charset=utf-8] 15,759B
+      shape: {"schemas": [{"modelId": 1851138, "schema": {"Entities": "list", "Capabilities": "dict"}, "error": "NoneType"}, "...1 items"]}
+  GET 200 https://pbivisuals.powerbigov.us/approvedResources.json  [application/json] 706,204B
+      shape: {"scvationGanttBasicC5993D93B1E74FF0B5EDB3ECF70154DF": {"isMsVisual": false, "allVersions": [{"hash": "str", "version": "str", "apiVersion": "str"}, "...4 items"], "assetId": "str"}, "canvasBarChart2F492679705746F580D0CD21FBDA6C07": {"isMsVisual": false, "allVersions": [{"hash": "str", "version": "str", "apiVersion": "str"}, "...1 items"], "assetId": "str"}, "epjSmartWaterfall": {"isMsVisual": false, "allVersions": [{"approvedForServerRender": "bool", "hash": "str", "version": "str", "apiVersion": "str"}, "...1 items"], "assetId": "str"}, "briqlabFlowSankeyA451A47C31D642F48BE889E1B061C82B": {"isMsVisual": false, "allVersions": [{"hash": "str", "version": "str", "apiVersion": "str"}, "...1 it
+  GET 200 https://appsource.powerbi.com/visuals.json  [application/json] 48,261B
+      shape: {"buildDate": "2024-02-23T16:18:07.682Z", "visualsMP": {"PBI_CV_EB3A4088_75C5_4746_9D8B_255A7B7ECD6D": {"version": "1.6.0.1"}, "Multi_target_KPI": {"version": "1.3.1.4"}, "lipstickcolumnproAB273B43B8753CDD9BF5F94FAC9CCE10": {"version": "1.2.1.0"}, "calendarProByOKVIZ359F68153F3C4C1B84994D4D62ED4EAC": {"version": "1.0.5.3"}, "InforiverCharts582F6C55AB6442EF8FA129089285CB47": {"version": "3.5.0.0"}, "verticalText7CDBD87C36014D9E9DBFD9FC129DFA25": {"version": "2.0.0.0"}, "swPowerSlicer_sharewinfo_612350D75BB94427B2E530403CFB0292_vusial": {"version": "1.5.1.2"}, "customGantt3E4C07C6049F43778D09D3DD5677C29C": {"version": "1.2.2.2"}, "selectionSlicer75918E1108FD45E0B85F2A29F491BBA8": {"version": "
+  GET 200 https://dev.virtualearth.net/webservices/v1/LoggingService/LoggingService.svc/Log?entry=0&fmt=1&type=3&group=MapControl&name=MVC&version=v8&mkt=en-US&auth=AoW85FdF-eTJavFmWhZjaQ970kwG1FuainbyVSlP5Hglk  [application/json; charset=utf-8] 317B
+      start: Microsoft.Maps.NetworkCallbacks.f_logCallbackRequest({"sessionId":"ApNLHJWJwDVDfWsLtXG-6vt7FFlnbYGVHRODtHpvknOQHuH5xdx1HzwAGZLP-Ere","authenticationResultCode":"ValidCredentials","sessionIdCreationTim
+  GET 200 https://www.bing.com/maps/geotfe/comp/stl?ctpv=2&og=2867  [application/json] 16,027B
+      shape: {"categoryMap": [{"categoryId": 91263, "bucketId": 1848, "entry": "CommunityPoint"}, "...129 items"]}
+  GET 200 https://www.bing.com/maps/geotfe/comp/stl?v=9.26&tpp=DC2B2930-4CA4-45EB-9EE9-3F4EFA4267E5&og=2867  [application/json] 3,543,068B
+      shape: {"booleanValues": [{"fValue": false, "type": 1}, "...561 items"], "colorValues": [{"fValue": 16777215, "type": 1}, "...696 items"], "enumValues": [{"fValue": 0, "type": 1, "graphEnumType": "FontWeight"}, "...205 items"], "fixedStrings": ["Segoe UI", "...9532 items"], "groupedImageOptions": [{"mapImage": 0, "stateId": 0}, "...359 items"], "imageGroups": [{"images": [0, "...1 items"]}, "...347 items"], "imageVariantsList": [{"imageReferences": [{"imageId": "int", "keyId": "int"}, "...1 items"]}, "...499 items"], "paletteDefinitions": {"nodes": [{"parentId": "int", "nameId": "int", "nodeTypeId": "int"}, "...389 items"], "types": [{"parentId": "int", "nameId": "int", "properties": "list"}, "...7
+  GET 200 https://www.bing.com/maps/geotfe/comp/stl?mssetbv=9.26&og=2867  [application/json] 13,238B
+      shape: {"area": {"abbr": "ar", "a": 959}, "airport": {"abbr": "ap", "a": 1072}, "cemetery": {"abbr": "cm", "a": 1098}, "education": {"abbr": "ed", "a": 1106}, "frozenWater": {"abbr": "fw", "a": 1234}, "indigenousPeoplesReserve": {"abbr": "ipr", "a": 892}, "industrial": {"abbr": "ind", "a": 1126}, "island": {"abbr": "is", "a": 27}, "medical": {"abbr": "md", "a": 1131}, "military": {"abbr": "ima", "a": 1121}, "nautical": {"abbr": "nt", "a": 1135}, "neighborhood": {"abbr": "nh", "a": 72}, "runway": {"abbr": "rw", "a": 1086}, "sand": {"abbr": "sn", "a": 796}}
+  POST 200 https://dev.virtualearth.net/REST/v1/Locations/multigeocode?culture=en-US&output=json&key=AoW85FdF-eTJavFmWhZjaQ970kwG1FuainbyVSlP5HglkbhVVIFOyNwlaQxAIj-S  [application/json; charset=utf-8] 19,084B
+      shape: {"authenticationResultCode": "ValidCredentials", "brandLogoUri": "str", "copyright": "str", "resourceSets": [{"estimatedTotal": 1, "resources": [{"__type": "str", "bbox": "list", "name": "str", "point": "dict", "address": "dict", "confidence": "str", "entityType": "str", "geocodePoints": "list", "matchCodes": "list"}, "...1 items"]}, "...30 items"], "statusCode": 200, "statusDescription": "OK", "traceId": "261ca8abcc8edad4507551b7a028a3ef"}
+  GET 200 https://www.bing.com/maps/geotfe/comp/stl?v=9.26&og=2867&idx=2,388,411,440,471,472,501,506,517,518,519&oidjs=&features=ci  [application/json] 7,709B
+      shape: {"2": {"records": [{"type": "str", "data": "str", "bounds": "list", "fill": "str"}, "...1 items"], "anchorX": 11, "anchorY": 11}, "388": {"layers": {"background": {"records": "list", "shape": "int"}, "icon": {"records": "list", "shape": "int"}}, "defaultEntry": "Business"}, "411": {"layers": {"background": {"records": "list", "shape": "int"}, "icon": {"records": "list", "shape": "int"}}, "defaultEntry": "Transit"}, "440": {"records": [{"type": "str", "radius": "int", "fill": "dict", "stroke": "dict", "strokeWidth": "int", "strokeScale": "dict", "scale": "dict"}, "...1 items"], "defaultEntry": "PointHighlight"}, "471": {"layers": {"background": {"records": "list", "shape": "int"}, "icon": {"r
+  GET 200 https://www.bing.com/maps/geotfe/comp/stl?v=9.26&og=2867&idx=524&oidjs=&features=ci  [application/json] 319B
+      shape: {"524": {"layers": {"background": {"records": "list", "shape": "int"}, "icon": {"records": "list", "shape": "int"}}, "defaultEntry": "PopulatedPlace"}}
+
+==== AK: https://www.elections.alaska.gov/results/ ====
+  page status 403, title: '403 Forbidden'
+  visible text: "Forbidden\n\nYou don't have permission to access this resource.\n\nApache/2.4.58 (Ubuntu) Server at www.elections.alaska.gov Port 443"
+  0 data responses:
+
+==== NH: https://www.sos.nh.gov/elections/election-results ====
+  page status 403, title: 'Access Denied'
+  visible text: 'Access Denied\nYou don\'t have permission to access "http://www.sos.nh.gov/elections/election-results" on this server.\n\nReference #18.6e6d3e17.1792974997.3674dad7\n\nhttps://errors.edgesuite.net/18.6e6d3e17.1792974997.3674dad7'
+  0 data responses:
+
+==== FL: https://floridaelectionwatch.gov/ ====
+  page status 200, title: 'Florida Election Watch - Home Page'
+  visible text: '2026 Primary Election\nAugust 18, 2026\nOfficial Election Results\n\nHome\nElection Day Turnout\nCounty Reporting Status\nFAQs\nTimeline\nTrack By County\nSelect County \nFederal Offices\nU.S. Senator\nU.S. Representative\nState Offices\nGovernor\nChief Financial Officer\nCommissioner of Agriculture\nMulti-County or District Offices\nState Senate\nState Representative'
+  0 data responses:
+
+==== OH: https://liveresults.ohiosos.gov/ ====
+  page status 200, title: 'Ohio Decides - Election Night Reporting'
+  visible text: "An official State of Ohio government site.\nHere's how you know\nThe vote totals currently being displayed are the result of mock elections performed by the Office of the Secretary of State in preparation for the November 3, 2026 General Election.\n\nThe vote totals currently being displayed are the result of mock elections performed by the Office of t"
+  4 data responses:
+  GET 200 https://liveresults.ohiosos.gov/Api/v1/Contest/getDefaultingContestName  [application/json; charset=utf-8] 34B
+      shape: "Governor and Lieutenant Governor"
+  GET 200 https://liveresults.ohiosos.gov/Api/v1/Contest/getTabs  [application/json; charset=utf-8] 1,514B
+      shape: [{"name": "Statewide Offices", "children": [{"name": "str", "children": "NoneType", "parent": "str", "hasChildren": "bool"}, "...5 items"], "parent": "ROOT", "hasChildren": true}, "...6 items"]
+  POST 200 https://liveresults.ohiosos.gov/cdn-cgi/challenge-platform/h/b/precursor/d2d3316b729e/0.06315080389745487:1792973419:MEB4TCgko_lny-uDMW3JG21WziLWC-5rKGAhoYuNme8/a50563b3e96e2b8f  [application/json; charset=UTF-8] 18B
+      shape: {"i": 60, "n": false}
+  GET 200 https://liveresults.ohiosos.gov/Api/v1/Contest/getMarquee  [application/json; charset=utf-8] 199B
+      shape: [{"message": "str"}, "...1 items"]
