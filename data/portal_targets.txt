@@ -1,0 +1,107 @@
+
+==== OHIO ====
+162 contests; Senate/Governor ones:
+   ('Governor and Lieutenant Governor', 'Governor and Lieutenant Governor', '_55A742EA542A09A3E0633390EE0AE290')
+  GetContestDetailsObject resultsLevel='County': status 200, 290,386 bytes
+    shape: {"contestStatistics": {"statsTitle": "Statewide Statistics", "allStatistics": [{"name": "str", "value": "str"}, "... 5 items"], "thumbPicture": "i_voted_thumb.png", "largePicture": "i_voted_large.png", "countyName": "i_voted", "directLinkToCounty": "NoneType"}, "contestDisplayName": "Governor and Lieutenant Governor", "contestName": "Governor and Lieutenant Governor", "contestId": "_55A742EA542A09A3E0633390EE0AE290", "contestSubHeader": "Results By County", "contestPartyCode": "", "isPartisan": true, "isPrimaryElection": false, "hasWriteIns": true, "isElectionOfficial": true, "contestList": [{"objectId": "_55A742EA504C09A3E0633390EE0AE290", "jurisdictionalScopeId": "", "name": "Adams", "reportedPrecincts": 0, "totalPrecincts": 21, "candidatesRunning": [{"primaryCandidate": "str", "primaryCandidateDisplayOrder": "str", "runningMate": "str", "runningMateDisplayOrder": "str", "candidateParty": "str", "displayCandidateParty": "bool", "candidatePartyDisclaimer": "dict", "votePercentage": "str", "votePercentageNum": "float", "totalVotes": "float", "partyColor": "str", "isWriteIn": "bool", "voteCount": "str", "vCount": "float"}, "... 6 items"], "linkText": "Adams", "precinctReportingStats": "0% (0 of 21) Precincts Reporting", "selectionType": "District", "enableRegionLink": true, "enableSummaryLink": true, "enablePrecinctLink": false, "enableCountyLink": false, "isPartisan": true, "hasWriteIns": true, "totalContestVotes": "0"}, "... 88 items"], "partyDisclaimers": ["empty", "... 0 items"]}
+
+==== TEXAS (Enhanced Voting) ====
+  [main.f89d701ce55b3047ce5a.js] /appJsonPath/ -> ...l:"https://results.texas-election.com/",appJsonPath:"https://results.texas-election.com/static/data",appReportPath:"https://results.texas-election.com/static/data/Reports/",appRSSPath:"https://results.texas-election.com/static/data/RSS/",appServiceUrl:"https://candidate.texas-election.com/ElectionResults/Servi
+  [main.f89d701ce55b3047ce5a.js] /appJsonPath/ -> ...rrentElectionData={},this.electionUrl=r.appJsonPath+"/election/",this._electionUrl=r.appJsonPath+"/election/",this.electionVerisonUrl=""}return t.prototype.electionChange=function(){return this.electionChange$.asObservable()},t.prototype.getElectionUrl=function(){return this.electionUrl},t.prototype.setElectio
+  [main.f89d701ce55b3047ce5a.js] /appJsonPath/ -> ...onPath+"/election/",this._electionUrl=r.appJsonPath+"/election/",this.electionVerisonUrl=""}return t.prototype.electionChange=function(){return this.electionChange$.asObservable()},t.prototype.getElectionUrl=function(){return this.electionUrl},t.prototype.setElectionUrl=function(){this.electionUrl=this._electi
+  [main.f89d701ce55b3047ce5a.js] /appJsonPath/ -> ...ype.GetJsonFilePath=function(){return r.appJsonPath},t.prototype.GetLocalOfficers=function(){return new Set(JSON.parse(localStorage.getItem("arryOfficeIDs_"+this.electionDataService.getCurrentElection().ID)))||new Set},t.prototype.SetLocalStorageOfficers=function(t){localStorage.setItem("arryOfficeIDs_"+this.e
+  [main.f89d701ce55b3047ce5a.js] /appJsonPath/ -> ...,n){t.jsonDataFetcher.fetchSingleJson(r.appJsonPath+"/Version.json").subscribe(function(n){t.jsonDataFetcher.fetchSingleJson(r.appJsonPath+"/ElectionConstants_"+n.___versionNo+".json").subscribe(function(n){if(t.electionData.setElectionConstants(n),n.showLandingPage)return t.commonService.SetLandingPageShowSta
+  [main.f89d701ce55b3047ce5a.js] /appJsonPath/ -> ...(n){t.jsonDataFetcher.fetchSingleJson(r.appJsonPath+"/ElectionConstants_"+n.___versionNo+".json").subscribe(function(n){if(t.electionData.setElectionConstants(n),n.showLandingPage)return t.commonService.SetLandingPageShowStatus(!0),void e(!0);t.electionData.setCurrentElection(n.currentelectionInfo),t.electionD
+  (no match for /getElectionVersionUrl\(\)\s*\{/)
+  (no match for /GetJsonFilePath\(\)\s*\{/)
+  (no match for /jsonFilePath/)
+  (no match for /electionVersion/)
+
+==== GEORGIA (Enhanced Voting) ====
+  (no match for /environment\.api/)
+  (no match for /\.api\}/)
+  (no match for /apiBase/)
+  [main-JASQDGBV.js] /mediaExportPath/ -> ...iction:p,languageId:o,mediaExportLink:p.mediaExportPath&&`${this.environment.cdn}/${p.mediaExportPath}`,scrollToTopTooltip:this.languageService.getLanguageText(M,o),enableAutoScollTooltip:this.languageService.getLanguageText(I,o),disableAutoScollTooltip:this.languageService.getLanguageText(N,o)}))),this.lastPublis
+  [main-JASQDGBV.js] /mediaExportPath/ -> ...xportPath&&`${this.environment.cdn}/${p.mediaExportPath}`,scrollToTopTooltip:this.languageService.getLanguageText(M,o),enableAutoScollTooltip:this.languageService.getLanguageText(I,o),disableAutoScollTooltip:this.languageService.getLanguageText(N,o)}))),this.lastPublished=null,this.lastPublishDate=null,this.lastRe
+  [main-JASQDGBV.js] /graphQlEndpoint/ -> ...!0},api:{endpoint:"/results/public/api",graphQlEndpoint:"/admin/gateway/graphql"},imageCdn:"/cdn/results/",cdn:"/cdn/results",pathBase:"/results/public"};function C5(c,d){(d==null||d>c.length)&&(d=c.length);for(var a=0,p=Array(d);a<d;a++)p[a]=c[a];return p}function Cb(c){if(Array.isArray(c))return c}function zb(c)
+  [main-JASQDGBV.js] /graphQlEndpoint/ -> ...ivate:[()=>{let c=Le(h1);return!!(c.api.graphQlEndpoint&&c.flags?.enableBallotImageHosting)}]},{path:":name",pathMatch:"full",component:n_,resolve:{jurisdiction:sf}},{path:":name/:id",redirectTo:":name/elections/:id",pathMatch:"full",resolve:{jurisdiction:Su}},{path:":name/elections/:id",component:Mg,data:{isResul
+  [scripts-TTWY4XDY.js] /query\s*[A-Z][A-Za-z]+\s*[\(\{/ -> ...typeof i=="string"&&i.length>0?document.querySelector(hi(i)):null,Ce=i=>{if(!ie(i)||i.getClientRects().length===0)return!1;const e=getComputedStyle(i).getPropertyValue("visibility")==="visible",t=i.closest("details:not([open])");if(!t)return e;if(t!==i){const n=i.closest("summary");if(n&&n.parentNode!==t||n===nul
+  [scripts-TTWY4XDY.js] /query\s*[A-Z][A-Za-z]+\s*[\(\{/ -> ...n(p,g,m){return function _(C){const k=p.querySelectorAll(g);for(let{target:y}=C;y&&y!==this;y=y.parentNode)for(const E of k)if(E===y)return xt(C,{delegateTarget:y}),_.oneOff&&l.off(p,C.type,g,m),m.apply(y,[C])}})(i,t,r):(function(p,g){return function m(_){return xt(_,{delegateTarget:p}),m.oneOff&&l.off(p,_.type,g),g
+  [scripts-TTWY4XDY.js] /query\s*[A-Z][A-Za-z]+\s*[\(\{/ -> ...ypeof n!="string"||(n=e.elements.popper.querySelector(n)))&&Ri(e.elements.popper,n)&&(e.elements.arrow=n)},requires:["popperOffsets"],requiresIfExists:["preventOverflow"]};function je(i){return i.split("-")[1]}var Ws={top:"auto",right:"auto",bottom:"auto",left:"auto"};function Yi(i){var e,t=i.popper,n=i.popperRec
+  [scripts-TTWY4XDY.js] /query\s*[A-Z][A-Za-z]+\s*[\(\{/ -> ...ng(t,"text/html"),r=[].concat(...o.body.querySelectorAll("*"));for(const a of r){const c=a.nodeName.toLowerCase();if(!Object.keys(n).includes(c)){a.remove();continue}const d=[].concat(...a.attributes),u=[].concat(n["*"]||[],n[c]||[]);for(const h of d)jo(h,u)||a.removeAttribute(h.nodeName)}return o.body.innerHTML})(e
+  [main-JASQDGBV.js] /query\s*[A-Z][A-Za-z]+\s*[\(\{/ -> ...ies,f)}createBucket(e){return new Ca(e)}queryRadius(){return 0}queryIntersectsFeature(){return!1}_setPaintOverrides(){for(let e of V8.paint.overridableProperties){if(!cc.hasPaintOverride(this.layout,e))continue;let r=this.paint.get(e),n=new n7(r),l=new Es(n,r.property.specification),f=null;f=r.value.kind==="con
+  [main-JASQDGBV.js] /query\s*[A-Z][A-Za-z]+\s*[\(\{/ -> ...return new Ca(e)}queryRadius(){return 0}queryIntersectsFeature(){return!1}_setPaintOverrides(){for(let e of V8.paint.overridableProperties){if(!cc.hasPaintOverride(this.layout,e))continue;let r=this.paint.get(e),n=new n7(r),l=new Es(n,r.property.specification),f=null;f=r.value.kind==="constant"||r.value.kind==="source"?ne
+  [main-JASQDGBV.js] /query\s*[A-Z][A-Za-z]+\s*[\(\{/ -> ...(i,yv)}createBucket(i){return new n8(i)}queryRadius(i){let e=i;return Ys("circle-radius",this,e)+Ys("circle-stroke-width",this,e)+P3(this.paint.get("circle-translate"))}queryIntersectsFeature(i,e,r,n,l,f,m,y){let x=Ff(this.paint.get("circle-translate"),this.paint.get("circle-translate-anchor"),f.angle,i.pixelTo
+  [main-JASQDGBV.js] /query\s*[A-Z][A-Za-z]+\s*[\(\{/ -> ...+P3(this.paint.get("circle-translate"))}queryIntersectsFeature(i,e,r,n,l,f,m,y){let x=Ff(this.paint.get("circle-translate"),this.paint.get("circle-translate-anchor"),f.angle,i.pixelToTileUnitsFactor),b=this.paint.get("circle-radius").evaluate(e,r)+this.paint.get("circle-stroke-width").evaluate(e,r);return Kf(i,n,f,m,y,thi
+  GET /results/public/api/elections: status 404, 0 bytes 
+  GET /results/public/api/elections/Georgia: status 404, 0 bytes 
+  GET /results/public/api/states: status 404, 0 bytes 
+  GET /results/public/api/config: status 404, 0 bytes 
+  GET /results/public/api/election-lookup: status 404, 0 bytes 
+
+==== FLORIDA reporting status: https://floridaelectionwatch.gov/CountyReportingStatus ====
+  status 200, 152,896 chars
+  1 tables
+  table 0: shape (68, 9), columns ['County SOE Website', 'Voter  Turnout', 'Eligible Active Registered Voters', 'Turnout Percentage', 'Precincts Reporting', 'Precincts Completed', 'Vote-by-Mail Ballots Completed', 'Early Voting Ballots Completed', 'Provisional Ballots Completed']
+      County SOE Website  Voter  Turnout  Eligible Active Registered Voters Turnout Percentage Precincts Reporting  Precincts Completed  Vote-by-Mail Ballots Completed  Early Voting Ballots Completed  Provisional Ballots Completed
+    0            Alachua           44839                             164928             27.19%                100%                  NaN                             NaN                             NaN                            NaN
+    1              Baker            6281                              17754             35.38%                100%                  NaN                             NaN                             NaN                            NaN
+    2                Bay           33491                             126286             26.52%                100%                  NaN                             NaN                             NaN            
+  mentions Senate: True ...                                                    State Senate                                                                                                               
+  mentions Governor: True ...                                                          Governor                                                                                                             
+
+==== FLORIDA county page: https://floridaelectionwatch.gov/TrackCounty/ALA ====
+  status 200, 92,947 chars
+  11 tables
+  table 0: shape (8, 4), columns ['0', '1', '2', '3']
+                           0    1        2       3
+    0          Chris Gleason  REP   228010  13.74%
+    1           Ashley Moody  REP  1320780  79.56%
+    2    Neelam Taneja Perry  REP    31250   1.88%
+    3  Ernest "Ernie" Rivera  REP    79973   4.82%
+  table 1: shape (6, 4), columns ['0', '1', '2', '3']
+                  0      1               2       3
+    0   Angie Nixon    DEM          705835  56.06%
+    1  Alex Vindman    DEM          553138  43.94%
+    2     Candidate  Party  Votes Received     NaN
+    3           NaN    NaN             NaN     NaN
+  table 2: shape (8, 4), columns ['0', '1', '2', '3']
+                  0    1      2       3
+    0   Troy Albers  DEM   5188  11.34%
+    1     Seth Harp  DEM  20671  45.17%
+    2  George Hubac  DEM   4458   9.74%
+    3     Tom Wells  DEM  15447  33.75%
+  table 3: shape (15, 4), columns ['0', '1', '2', '3']
+                    0    1       2       3
+    0     Jay Collins  REP  427014  25.16%
+    1   Byron Donalds  REP  811131  47.79%
+    2  James Fishback  REP  177809  10.48%
+    3     Jim Holcomb  REP   13183   0.78%
+  table 4: shape (10, 4), columns ['0', '1', '2', '3']
+                                 0    1       2       3
+    0         Evelyn Castillo-Bach  DEM   96706   7.73%
+    1        Thomas Eloy Fernandez  DEM   47324   3.78%
+    2           Dayna Marie Foster  DEM  189421  15.15%
+    3  David Jolly and Gwen Graham  DEM  762160  60.95%
+  table 5: shape (6, 4), columns ['0', '1', '2', '3']
+                           0      1               2       3
+    0  Frank William Collige    REP          610860  38.68%
+    1        Blaise Ingoglia    REP          968222  61.32%
+    2              Candidate  Party  Votes Received     NaN
+    3                    NaN    NaN             NaN     NaN
+  mentions Senate: True ...                                                    State Senate                                                                                                               
+  mentions Governor: True ...                                                          Governor                                                                                                             
+  links on county page: ['/ContestResultsByCounty/120001', '/ContestResultsByCounty/120002', '/ContestResultsByCounty/140032', '/ContestResultsByCounty/160001', '/ContestResultsByCounty/160002', '/ContestResultsByCounty/160501', '/ContestResultsByCounty/160502', '/ContestResultsByCounty/160801', '/ContestResultsByCounty/160802', '/ContestResultsByCounty/260101', '/ContestResultsByCounty/260212', '/Downloads']
+  home-page links: ['/Content/BSVerticalMenu.css', '/Content/bootstrap.css', '/Content/site.css', '/CountyReportingStatus', '/DistrictOffices', '/DistrictOffices/StateRepresentative', '/DistrictOffices/StateSenator', '/Downloads', '/ElectionDayTurnout', '/FAQs', '/FederalOffices', '/FederalOffices/USRepresentative', '/FederalOffices/USSenator', '/Home', '/JudicialOffices', '/JudicialOffices/CircuitCourt', '/Scripts/umd/popper.js', '/StateOffices', '/StateOffices/ChiefFinancialOfficer', '/StateOffices/CommissionerOfAgriculture', '/StateOffices/Governor', '/Timeline', '/TrackCounty/ALA', '/TrackCounty/BAK', '/TrackCounty/BAY', '/TrackCounty/BRA', '/TrackCounty/BRE', '/TrackCounty/BRO', '/TrackCounty/CAL', '/TrackCounty/CHA', '/TrackCounty/CIT', '/TrackCounty/CLA', '/TrackCounty/CLL', '/TrackCounty/CLM', '/TrackCounty/DAD', '/TrackCounty/DES', '/TrackCounty/DIX', '/TrackCounty/DUV', '/TrackCounty/ESC', '/TrackCounty/FLA']
+
+==== NEBRASKA: https://electionresults.nebraska.gov/ ====
+  status 200, 54,947 chars
+  no tables: `Import html5lib` failed.  Use pip, conda, or your preferred package management tool to install the html5lib package.
+  0 tables
+  mentions Senate: False
+  mentions Governor: False
+  form inputs: [('__VIEWSTATE', 'KHNmnue5PGYLx3t2pjgfFyU4FIjOteX/3rLuqwgo'), ('__VIEWSTATEGENERATOR', 'CA0B0334'), ('__EVENTVALIDATION', 'g681LpZesyEg7E0Q/jvLHOVpaaimhHmQogy0J0Ck'), ('hidElectionType', 'General'), ('hidElectionDate', '11/3/2026'), ('hidPrecinctsReported', '0'), ('hidPrecinctsPartial', '0'), ('hidPrecinctsNotReported', '1322'), ('hidVoterTurnout', '0'), ('hidVoterTotal', '1259447'), ('ctl00$btnSearch', 'Search')]
+  links: ['/resultsSW.aspx?type=CC&amp;map=CTY', '/resultsSW.aspx?type=CC&map=CTY', '/resultsSW.aspx?type=CG&amp;map=DIST', '/resultsSW.aspx?type=CG&map=DIST', '/resultsSW.aspx?type=ED&amp;map=CTY', '/resultsSW.aspx?type=ED&map=CTY', '/resultsSW.aspx?type=JD&amp;map=CTY', '/resultsSW.aspx?type=JD&map=CTY', '/resultsSW.aspx?type=LC&amp;map=CTY', '/resultsSW.aspx?type=LC&map=CTY', '/resultsSW.aspx?type=LD&amp;map=DIST', '/resultsSW.aspx?type=LD&map=DIST', '/resultsSW.aspx?type=NR&amp;map=CTY', '/resultsSW.aspx?type=NR&map=CTY', '/resultsSW.aspx?type=PA&amp;map=CTY', '/resultsSW.aspx?type=PA&map=CTY', '/resultsSW.aspx?type=PP&amp;map=CTY', '/resultsSW.aspx?type=PP&map=CTY', '/resultsSW.aspx?type=PS&amp;map=DIST', '/resultsSW.aspx?type=PS&map=DIST', '/resultsSW.aspx?type=RD&amp;map=CTY', '/resultsSW.aspx?type=RD&map=CTY', '/resultsSW.aspx?type=RG&amp;map=DIST', '/resultsSW.aspx?type=RG&map=DIST', '/resultsSW.aspx?type=SE&amp;map=DIST', '/resultsSW.aspx?type=SE&map=DIST', '/resultsSW.aspx?type=SW&amp;map=CTY', '/resultsSW.aspx?type=SW&map=CTY', '/resultsSW.aspx?type=UT&amp;map=CTY', '/resultsSW.aspx?type=UT&map=CTY', 'Default.aspx', 'ElectionTerminology.aspx', 'MyTrackedContests.aspx', 'ResultsMedia.aspx', 'SearchResults.aspx?ID=', 'VoterTurnoutDetails.aspx?map=PREC', 'VoterTurnoutDetails.aspx?map=TURN', 'http://www.facebook.com/sharer.php?u=http://electionresults.nebraska.gov/default.aspx', 'https://neresultswebservice.azurewebsites.us/Styles/styles.bundle.css', 'https://sos.nebraska.gov/elections']
+
+==== NEVADA ====
+  html: <!DOCTYPE html> <html> <head> <noscript> <title>Pardon Our Interruption</title> </noscript> <meta name="viewport" content="width=device-width, initial-scale=1"> <meta name="robots" content="noindex, nofollow"> <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate"> <meta http-equiv="pragma" content="no-cache"> <meta http-equiv="expires" content="0"> <style> .container { max-width: 800px; margin: auto; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #7a838c; } h1 { color: #2a2d30; font-weight: 500; } li { margin: 0 0 10px; } a { color: #428bca; } a:hover, a:focus { color: #2a6496; } </style> <script> window.reeseSkipExpirationCheck = true; const isSpa = new URLSear
