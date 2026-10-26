@@ -1,0 +1,401 @@
+state,county,year,race,dem_votes,rep_votes,other_votes,early_votes
+NC,Alamance,2022,U.S. Senate,25866,32866,1281,
+NC,Alexander,2022,U.S. Senate,3031,11833,401,
+NC,Alleghany,2022,U.S. Senate,1249,3648,124,
+NC,Anson,2022,U.S. Senate,3324,3711,128,
+NC,Ashe,2022,U.S. Senate,3172,8371,274,
+NC,Avery,2022,U.S. Senate,1595,5089,150,
+NC,Beaufort,2022,U.S. Senate,6245,12338,393,
+NC,Bertie,2022,U.S. Senate,3492,2781,87,
+NC,Bladen,2022,U.S. Senate,4799,6745,239,
+NC,Brunswick,2022,U.S. Senate,26685,44911,1497,
+NC,Buncombe,2022,U.S. Senate,73807,43222,3097,
+NC,Burke,2022,U.S. Senate,8847,20456,675,
+NC,Cabarrus,2022,U.S. Senate,32372,41468,1841,
+NC,Caldwell,2022,U.S. Senate,6404,20900,604,
+NC,Camden,2022,U.S. Senate,1006,3127,147,
+NC,Carteret,2022,U.S. Senate,8827,22709,704,
+NC,Caswell,2022,U.S. Senate,3121,4867,130,
+NC,Catawba,2022,U.S. Senate,16076,38252,1238,
+NC,Chatham,2022,U.S. Senate,22493,16275,701,
+NC,Cherokee,2022,U.S. Senate,2448,9493,249,
+NC,Chowan,2022,U.S. Senate,2047,3360,112,
+NC,Clay,2022,U.S. Senate,1339,4073,106,
+NC,Cleveland,2022,U.S. Senate,10557,21654,635,
+NC,Columbus,2022,U.S. Senate,6888,11723,428,
+NC,Craven,2022,U.S. Senate,14101,21981,903,
+NC,Cumberland,2022,U.S. Senate,46449,35674,1884,
+NC,Currituck,2022,U.S. Senate,2739,8593,306,
+NC,Dare,2022,U.S. Senate,7097,10236,511,
+NC,Davidson,2022,U.S. Senate,14643,43393,1224,
+NC,Davie,2022,U.S. Senate,4501,13191,367,
+NC,Duplin,2022,U.S. Senate,5071,9852,287,
+NC,Durham,2022,U.S. Senate,103630,22107,2360,
+NC,Edgecombe,2022,U.S. Senate,9213,6046,236,
+NC,Forsyth,2022,U.S. Senate,73524,58350,2944,
+NC,Franklin,2022,U.S. Senate,11701,15292,637,
+NC,Gaston,2022,U.S. Senate,25676,46256,1510,
+NC,Gates,2022,U.S. Senate,1756,2431,119,
+NC,Graham,2022,U.S. Senate,639,2791,113,
+NC,Granville,2022,U.S. Senate,9950,11770,521,
+NC,Greene,2022,U.S. Senate,2410,3518,117,
+NC,Guilford,2022,U.S. Senate,108688,74544,4004,
+NC,Halifax,2022,U.S. Senate,8884,6631,200,
+NC,Harnett,2022,U.S. Senate,13133,22860,930,
+NC,Haywood,2022,U.S. Senate,9972,16078,718,
+NC,Henderson,2022,U.S. Senate,20167,29798,1200,
+NC,Hertford,2022,U.S. Senate,4096,2400,105,
+NC,Hoke,2022,U.S. Senate,7111,5589,387,
+NC,Hyde,2022,U.S. Senate,731,1083,49,
+NC,Iredell,2022,U.S. Senate,21442,46598,1585,
+NC,Jackson,2022,U.S. Senate,6556,7920,455,
+NC,Johnston,2022,U.S. Senate,28121,46239,1694,
+NC,Jones,2022,U.S. Senate,1397,2382,94,
+NC,Lee,2022,U.S. Senate,7767,11042,424,
+NC,Lenoir,2022,U.S. Senate,7872,10452,362,
+NC,Lincoln,2022,U.S. Senate,9418,26130,737,
+NC,Macon,2022,U.S. Senate,4617,10698,429,
+NC,Madison,2022,U.S. Senate,3959,5797,345,
+NC,Martin,2022,U.S. Senate,3841,4717,188,
+NC,Mcdowell,2022,U.S. Senate,3895,11776,415,
+NC,Mecklenburg,2022,U.S. Senate,234787,117742,7765,
+NC,Mitchell,2022,U.S. Senate,1353,5024,155,
+NC,Montgomery,2022,U.S. Senate,2667,5834,183,
+NC,Moore,2022,U.S. Senate,14586,26874,856,
+NC,Nash,2022,U.S. Senate,16401,18796,542,
+NC,New Hanover,2022,U.S. Senate,46785,45012,2220,
+NC,Northampton,2022,U.S. Senate,3718,2962,97,
+NC,Onslow,2022,U.S. Senate,13544,29106,1363,
+NC,Orange,2022,U.S. Senate,51125,14213,1215,
+NC,Pamlico,2022,U.S. Senate,2091,3908,142,
+NC,Pasquotank,2022,U.S. Senate,6468,7304,389,
+NC,Pender,2022,U.S. Senate,7548,15466,511,
+NC,Perquimans,2022,U.S. Senate,1557,3813,98,
+NC,Person,2022,U.S. Senate,5905,9201,332,
+NC,Pitt,2022,U.S. Senate,27705,26160,1161,
+NC,Polk,2022,U.S. Senate,3635,5686,231,
+NC,Randolph,2022,U.S. Senate,9313,38030,1003,
+NC,Richmond,2022,U.S. Senate,5016,7317,263,
+NC,Robeson,2022,U.S. Senate,10586,15555,572,
+NC,Rockingham,2022,U.S. Senate,10110,21617,839,
+NC,Rowan,2022,U.S. Senate,14282,32766,1149,
+NC,Rutherford,2022,U.S. Senate,5538,17330,573,
+NC,Sampson,2022,U.S. Senate,6045,11574,260,
+NC,Scotland,2022,U.S. Senate,4359,4922,238,
+NC,Stanly,2022,U.S. Senate,5163,17927,536,
+NC,Stokes,2022,U.S. Senate,3803,13915,487,
+NC,Surry,2022,U.S. Senate,5828,18303,573,
+NC,Swain,2022,U.S. Senate,1708,2884,184,
+NC,Transylvania,2022,U.S. Senate,6867,8832,471,
+NC,Tyrrell,2022,U.S. Senate,481,770,29,
+NC,Union,2022,U.S. Senate,31354,56882,1867,
+NC,Vance,2022,U.S. Senate,7097,5620,250,
+NC,Wake,2022,U.S. Senate,281367,160818,10985,
+NC,Warren,2022,U.S. Senate,4344,2753,86,
+NC,Washington,2022,U.S. Senate,2002,1996,77,
+NC,Watauga,2022,U.S. Senate,11677,10455,654,
+NC,Wayne,2022,U.S. Senate,13990,20723,615,
+NC,Wilkes,2022,U.S. Senate,4770,19294,482,
+NC,Wilson,2022,U.S. Senate,12503,13310,436,
+NC,Yadkin,2022,U.S. Senate,2400,11117,353,
+NC,Yancey,2022,U.S. Senate,2940,5705,234,
+NC,Alamance,2016,President,29833,38815,2509,
+NC,Alexander,2016,President,3767,13893,611,
+NC,Alleghany,2016,President,1306,3814,195,
+NC,Anson,2016,President,5859,4506,180,
+NC,Ashe,2016,President,3500,9412,512,
+NC,Avery,2016,President,1689,6298,262,
+NC,Beaufort,2016,President,8764,14543,631,
+NC,Bertie,2016,President,5778,3456,113,
+NC,Bladen,2016,President,7058,8550,289,
+NC,Brunswick,2016,President,23282,42720,2349,
+NC,Buncombe,2016,President,75452,55716,7779,
+NC,Burke,2016,President,11251,26238,1431,
+NC,Cabarrus,2016,President,35521,53819,3949,
+NC,Caldwell,2016,President,8425,26621,1274,
+NC,Camden,2016,President,1274,3546,186,
+NC,Carteret,2016,President,9939,26569,1273,
+NC,Caswell,2016,President,4792,6026,252,
+NC,Catawba,2016,President,21216,48324,2811,
+NC,Chatham,2016,President,21065,17105,1679,
+NC,Cherokee,2016,President,2860,10844,477,
+NC,Chowan,2016,President,2992,4014,222,
+NC,Clay,2016,President,1367,4437,206,
+NC,Cleveland,2016,President,14964,28479,1230,
+NC,Columbus,2016,President,9063,14272,397,
+NC,Craven,2016,President,17630,27731,1640,
+NC,Cumberland,2016,President,71605,51265,4636,
+NC,Currituck,2016,President,2913,9163,593,
+NC,Dare,2016,President,7222,11460,927,
+NC,Davidson,2016,President,18109,54317,2430,
+NC,Davie,2016,President,5270,15602,884,
+NC,Duplin,2016,President,8283,12217,356,
+NC,Durham,2016,President,121250,28350,6534,
+NC,Edgecombe,2016,President,16224,8261,401,
+NC,Forsyth,2016,President,94464,75975,7873,
+NC,Franklin,2016,President,12874,16368,1126,
+NC,Gaston,2016,President,31177,61798,3456,
+NC,Gates,2016,President,2385,2874,133,
+NC,Graham,2016,President,768,3283,117,
+NC,Granville,2016,President,12909,13591,853,
+NC,Greene,2016,President,3605,4374,116,
+NC,Guilford,2016,President,149248,98062,10095,
+NC,Halifax,2016,President,15748,9031,388,
+NC,Harnett,2016,President,16737,27614,1714,
+NC,Haywood,2016,President,10473,18929,1325,
+NC,Henderson,2016,President,19827,35809,2540,
+NC,Hertford,2016,President,6910,3099,177,
+NC,Hoke,2016,President,9726,7760,744,
+NC,Hyde,2016,President,965,1288,51,
+NC,Iredell,2016,President,24734,54754,3079,
+NC,Jackson,2016,President,7713,9870,1130,
+NC,Johnston,2016,President,28362,54372,3175,
+NC,Jones,2016,President,2065,2974,96,
+NC,Lee,2016,President,10469,13712,903,
+NC,Lenoir,2016,President,12634,13613,560,
+NC,Lincoln,2016,President,9897,28806,1320,
+NC,Macon,2016,President,4876,12127,731,
+NC,Madison,2016,President,3926,6783,560,
+NC,Martin,2016,President,5846,5897,221,
+NC,Mcdowell,2016,President,4667,14568,640,
+NC,Mecklenburg,2016,President,294562,155518,22777,
+NC,Mitchell,2016,President,1596,6282,218,
+NC,Montgomery,2016,President,4150,7130,260,
+NC,Moore,2016,President,16329,30490,1873,
+NC,Nash,2016,President,23235,23319,1111,
+NC,New Hanover,2016,President,50979,55344,5582,
+NC,Northampton,2016,President,6144,3582,122,
+NC,Onslow,2016,President,17514,37122,2499,
+NC,Orange,2016,President,59923,18557,3860,
+NC,Pamlico,2016,President,2448,4258,164,
+NC,Pasquotank,2016,President,8615,8180,596,
+NC,Pender,2016,President,9354,17639,892,
+NC,Perquimans,2016,President,2319,4177,212,
+NC,Person,2016,President,7833,11185,597,
+NC,Pitt,2016,President,41824,35691,3012,
+NC,Polk,2016,President,3735,6768,431,
+NC,Randolph,2016,President,13194,49430,1951,
+NC,Richmond,2016,President,8501,10383,444,
+NC,Robeson,2016,President,19016,20762,1080,
+NC,Rockingham,2016,President,14228,26830,1220,
+NC,Rowan,2016,President,19400,42810,2159,
+NC,Rutherford,2016,President,7512,21871,924,
+NC,Sampson,2016,President,10547,14838,543,
+NC,Scotland,2016,President,7319,6256,353,
+NC,Stanly,2016,President,7094,21964,859,
+NC,Stokes,2016,President,4665,17116,769,
+NC,Surry,2016,President,7488,23671,1037,
+NC,Swain,2016,President,2196,3565,363,
+NC,Transylvania,2016,President,6558,10520,791,
+NC,Tyrrell,2016,President,720,975,44,
+NC,Union,2016,President,34337,66707,4666,
+NC,Vance,2016,President,12229,7332,416,
+NC,Wake,2016,President,302736,196082,28806,
+NC,Warren,2016,President,6413,3214,215,
+NC,Washington,2016,President,3510,2564,91,
+NC,Watauga,2016,President,14138,13697,2150,
+NC,Wayne,2016,President,21770,27540,1379,
+NC,Wilkes,2016,President,6638,23752,906,
+NC,Wilson,2016,President,19663,17531,941,
+NC,Yadkin,2016,President,3160,13880,584,
+NC,Yancey,2016,President,3196,6385,379,
+NC,Alamance,2020,President,38825,46056,1210,15672.0
+NC,Alexander,2020,President,4145,15888,203,1778.0
+NC,Alleghany,2020,President,1486,4527,63,750.0
+NC,Anson,2020,President,5789,5321,84,818.0
+NC,Ashe,2020,President,4164,11451,199,2085.0
+NC,Avery,2020,President,2191,7172,95,959.0
+NC,Beaufort,2020,President,9633,16437,245,3005.0
+NC,Bertie,2020,President,5939,3817,59,777.0
+NC,Bladen,2020,President,7326,9676,123,1357.0
+NC,Brunswick,2020,President,33310,55850,1015,18429.0
+NC,Buncombe,2020,President,96515,62412,2642,35985.0
+NC,Burke,2020,President,13118,31019,465,5230.0
+NC,Cabarrus,2020,President,52162,63237,1828,21770.0
+NC,Caldwell,2020,President,10245,32119,465,4885.0
+NC,Camden,2020,President,1537,4312,104,538.0
+NC,Carteret,2020,President,12093,30028,574,5164.0
+NC,Caswell,2020,President,4860,7089,102,1354.0
+NC,Catawba,2020,President,25689,56588,1148,10393.0
+NC,Chatham,2020,President,26787,21186,626,12317.0
+NC,Cherokee,2020,President,3583,12628,212,2073.0
+NC,Chowan,2020,President,3247,4471,66,833.0
+NC,Clay,2020,President,1699,5112,82,787.0
+NC,Cleveland,2020,President,16955,33798,555,5666.0
+NC,Columbus,2020,President,9446,16832,168,2100.0
+NC,Craven,2020,President,21148,31032,885,9227.0
+NC,Cumberland,2020,President,84469,60032,2649,23508.0
+NC,Currituck,2020,President,4195,11657,295,1496.0
+NC,Dare,2020,President,9936,13938,358,3893.0
+NC,Davidson,2020,President,22636,64658,1220,12316.0
+NC,Davie,2020,President,6713,18228,370,3134.0
+NC,Duplin,2020,President,8767,13793,155,1860.0
+NC,Durham,2020,President,144688,32459,2767,47632.0
+NC,Edgecombe,2020,President,16089,9206,182,2379.0
+NC,Forsyth,2020,President,113033,85064,3173,43420.0
+NC,Franklin,2020,President,15879,20901,571,4718.0
+NC,Gaston,2020,President,40959,73033,1506,16637.0
+NC,Gates,2020,President,2546,3367,58,577.0
+NC,Graham,2020,President,905,3710,50,381.0
+NC,Granville,2020,President,14565,16647,386,4535.0
+NC,Greene,2020,President,3832,4874,47,888.0
+NC,Guilford,2020,President,173086,107294,4106,49702.0
+NC,Halifax,2020,President,15545,10080,134,2102.0
+NC,Harnett,2020,President,22093,35177,1023,8898.0
+NC,Haywood,2020,President,13144,22834,564,6145.0
+NC,Henderson,2020,President,27211,40032,1128,15451.0
+NC,Hertford,2020,President,7097,3479,58,1010.0
+NC,Hoke,2020,President,11804,9453,382,2862.0
+NC,Hyde,2020,President,1046,1418,28,217.0
+NC,Iredell,2020,President,33888,67010,1473,17454.0
+NC,Jackson,2020,President,9591,11356,481,2858.0
+NC,Johnston,2020,President,41257,68353,1747,15991.0
+NC,Jones,2020,President,2197,3280,48,447.0
+NC,Lee,2020,President,12143,16469,396,4056.0
+NC,Lenoir,2020,President,13605,14590,214,3140.0
+NC,Lincoln,2020,President,13274,36341,602,6324.0
+NC,Macon,2020,President,6230,14211,302,3607.0
+NC,Madison,2020,President,4901,7979,196,1717.0
+NC,Martin,2020,President,5911,6532,97,1163.0
+NC,Mcdowell,2020,President,5832,16883,288,2675.0
+NC,Mecklenburg,2020,President,378107,179211,9735,134743.0
+NC,Mitchell,2020,President,1867,7090,84,1016.0
+NC,Montgomery,2020,President,4327,8411,111,1106.0
+NC,Moore,2020,President,20779,36764,796,11349.0
+NC,Nash,2020,President,25947,25827,497,5627.0
+NC,New Hanover,2020,President,66138,63331,2361,27349.0
+NC,Northampton,2020,President,6069,3989,52,975.0
+NC,Onslow,2020,President,24266,46078,1891,10103.0
+NC,Orange,2020,President,63594,20176,1227,26018.0
+NC,Pamlico,2020,President,2713,4849,69,1081.0
+NC,Pasquotank,2020,President,9832,9770,295,2570.0
+NC,Pender,2020,President,11723,21956,490,4399.0
+NC,Perquimans,2020,President,2492,4903,89,658.0
+NC,Person,2020,President,8465,13184,245,2367.0
+NC,Pitt,2020,President,47252,38982,1339,11314.0
+NC,Polk,2020,President,4518,7689,151,2569.0
+NC,Randolph,2020,President,15618,56894,804,7841.0
+NC,Richmond,2020,President,8754,11830,179,1826.0
+NC,Robeson,2020,President,19020,27806,362,3655.0
+NC,Rockingham,2020,President,15992,31301,516,4520.0
+NC,Rowan,2020,President,23114,49297,997,10196.0
+NC,Rutherford,2020,President,9135,24891,403,4307.0
+NC,Sampson,2020,President,10966,17411,241,2362.0
+NC,Scotland,2020,President,7186,7473,116,1568.0
+NC,Stanly,2020,President,8129,25458,352,3549.0
+NC,Stokes,2020,President,5286,20142,273,2626.0
+NC,Surry,2020,President,8721,27538,379,5000.0
+NC,Swain,2020,President,2780,4161,127,749.0
+NC,Transylvania,2020,President,8444,11636,324,3943.0
+NC,Tyrrell,2020,President,758,1044,15,104.0
+NC,Union,2020,President,48725,80382,1904,19549.0
+NC,Vance,2020,President,12431,8391,177,2491.0
+NC,Wake,2020,President,393336,226197,12297,173383.0
+NC,Warren,2020,President,6400,3752,141,1316.0
+NC,Washington,2020,President,3396,2781,28,672.0
+NC,Watauga,2020,President,17122,14451,647,5370.0
+NC,Wayne,2020,President,24215,30709,613,6897.0
+NC,Wilkes,2020,President,7511,27592,363,4382.0
+NC,Wilson,2020,President,20754,19581,400,4693.0
+NC,Yadkin,2020,President,3763,15933,227,2177.0
+NC,Yancey,2020,President,3688,7516,148,1569.0
+NC,Alamance,2024,President,40624,47937,1270,
+NC,Alexander,2024,President,4060,16404,213,
+NC,Alleghany,2024,President,1533,4900,63,
+NC,Anson,2024,President,5253,5525,97,
+NC,Ashe,2024,President,4431,11629,193,
+NC,Avery,2024,President,2220,7181,88,
+NC,Beaufort,2024,President,9049,17296,227,
+NC,Bertie,2024,President,5279,3840,67,
+NC,Bladen,2024,President,6620,10035,109,
+NC,Brunswick,2024,President,40557,67658,1163,
+NC,Buncombe,2024,President,98662,59016,2832,
+NC,Burke,2024,President,13272,32130,445,
+NC,Cabarrus,2024,President,54494,63746,1962,
+NC,Caldwell,2024,President,10146,33009,385,
+NC,Camden,2024,President,1522,4716,66,
+NC,Carteret,2024,President,12813,32508,496,
+NC,Caswell,2024,President,4493,7445,102,
+NC,Catawba,2024,President,26569,59577,963,
+NC,Chatham,2024,President,29014,22507,780,
+NC,Cherokee,2024,President,3686,13883,255,
+NC,Chowan,2024,President,2895,4587,70,
+NC,Clay,2024,President,1899,5761,68,
+NC,Cleveland,2024,President,16603,34654,449,
+NC,Columbus,2024,President,8648,17592,162,
+NC,Craven,2024,President,22011,33477,685,
+NC,Cumberland,2024,President,78631,59840,2042,
+NC,Currituck,2024,President,4604,13235,214,
+NC,Dare,2024,President,10074,14792,330,
+NC,Davidson,2024,President,24150,67959,1343,
+NC,Davie,2024,President,6988,19398,464,
+NC,Duplin,2024,President,8057,14677,164,
+NC,Durham,2024,President,144450,32853,3609,
+NC,Edgecombe,2024,President,14900,9355,193,
+NC,Forsyth,2024,President,114145,87292,3289,
+NC,Franklin,2024,President,18167,23938,562,
+NC,Gaston,2024,President,44062,73828,1366,
+NC,Gates,2024,President,2268,3538,62,
+NC,Graham,2024,President,839,3883,57,
+NC,Granville,2024,President,14365,17383,356,
+NC,Greene,2024,President,3437,4965,48,
+NC,Guilford,2024,President,171118,109077,4858,
+NC,Halifax,2024,President,14014,9778,173,
+NC,Harnett,2024,President,23472,39440,845,
+NC,Haywood,2024,President,13913,23393,545,
+NC,Henderson,2024,President,29361,39497,1116,
+NC,Hertford,2024,President,6191,3561,91,
+NC,Hoke,2024,President,11896,10547,324,
+NC,Hyde,2024,President,931,1465,25,
+NC,Iredell,2024,President,36739,72801,1335,
+NC,Jackson,2024,President,9746,11796,400,
+NC,Johnston,2024,President,48116,74878,1684,
+NC,Jones,2024,President,2007,3409,47,
+NC,Lee,2024,President,12245,17489,347,
+NC,Lenoir,2024,President,12700,14564,239,
+NC,Lincoln,2024,President,14842,40183,557,
+NC,Macon,2024,President,6675,14981,278,
+NC,Madison,2024,President,5090,8275,256,
+NC,Martin,2024,President,5360,6601,79,
+NC,Mcdowell,2024,President,5911,17520,224,
+NC,Mecklenburg,2024,President,376454,187770,13281,
+NC,Mitchell,2024,President,1915,6843,84,
+NC,Montgomery,2024,President,4055,9044,107,
+NC,Moore,2024,President,21436,39617,737,
+NC,Nash,2024,President,25508,26431,532,
+NC,New Hanover,2024,President,68814,67949,1971,
+NC,Northampton,2024,President,5239,3905,71,
+NC,Onslow,2024,President,25684,54960,1037,
+NC,Orange,2024,President,65444,20806,1557,
+NC,Pamlico,2024,President,2676,5229,71,
+NC,Pasquotank,2024,President,9549,10537,257,
+NC,Pender,2024,President,12460,26042,407,
+NC,Perquimans,2024,President,2269,5278,119,
+NC,Person,2024,President,8295,13509,232,
+NC,Pitt,2024,President,45595,40403,1132,
+NC,Polk,2024,President,4827,8107,134,
+NC,Randolph,2024,President,15951,59357,700,
+NC,Richmond,2024,President,7787,11931,155,
+NC,Robeson,2024,President,16728,29647,395,
+NC,Rockingham,2024,President,15676,33447,472,
+NC,Rowan,2024,President,23788,50807,799,
+NC,Rutherford,2024,President,8914,25456,300,
+NC,Sampson,2024,President,9797,18178,226,
+NC,Scotland,2024,President,6754,7767,105,
+NC,Stanly,2024,President,8881,27518,315,
+NC,Stokes,2024,President,5380,21548,247,
+NC,Surry,2024,President,8613,28565,330,
+NC,Swain,2024,President,2643,4311,98,
+NC,Transylvania,2024,President,8972,11492,316,
+NC,Tyrrell,2024,President,680,1057,20,
+NC,Union,2024,President,51168,86271,1916,
+NC,Vance,2024,President,11292,8614,186,
+NC,Wake,2024,President,402984,236735,13861,
+NC,Warren,2024,President,5872,3976,165,
+NC,Washington,2024,President,3138,2768,38,
+NC,Watauga,2024,President,17225,15254,616,
+NC,Wayne,2024,President,22618,31580,564,
+NC,Wilkes,2024,President,7194,28812,314,
+NC,Wilson,2024,President,19909,19750,386,
+NC,Yadkin,2024,President,3739,16439,219,
+NC,Yancey,2024,President,3635,7509,139,
