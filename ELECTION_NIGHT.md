@@ -23,7 +23,7 @@ Put it in `config/feeds.csv` (edit the file on GitHub with the pencil icon):
 | column | what to put |
 |---|---|
 | url | the link (or leave blank) |
-| fmt | csv, json, xml or xlsx |
+| fmt | csv, json, xml, xlsx or **html** (a results web page with a county table) |
 | json_records | for json: path to the list of counties, e.g. `data.counties` (blank if the file is a plain list) |
 | json_explode | for json where each county has a nested list of candidates: the name of that list, e.g. `candidates` |
 | county_col, dem_col, rep_col | only if auto-detect guesses wrong. Wide feed = one row per county. |
@@ -33,6 +33,13 @@ Put it in `config/feeds.csv` (edit the file on GitHub with the pencil icon):
 
 Most states fill in automatically (county, candidate, votes, party columns are detected). Georgia, Texas, Florida,
 Ohio, Michigan, Wisconsin, Nevada, Maine, New Hampshire, Alaska... each differs, so check each one.
+
+### Results web pages (fmt = html)
+If a state only has a normal web page with a county table (no data file), put the page address in `url` and `html` in `fmt`.
+The reader finds the table whose first column matches our baseline counties and picks the Democrat's and Republican's vote
+columns by candidate last name (from config/candidates.csv, or `dem_name` / `rep_name` if you fill them in). It copes with
+two-row headers, percent columns, commas, a Total row and tables printed sideways. A page that builds its table in the
+browser (JavaScript) will not work; look for its data file instead (probe-deep helps), or use the paste fallback.
 
 ## Test it
     python check_feeds.py            # all races with a URL

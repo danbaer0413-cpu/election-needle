@@ -81,13 +81,28 @@ def _pick(cols, names):
     return None
 
 
+BROWSER = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+           "Accept": "text/html,application/xhtml+xml,application/xml,application/json,text/csv;q=0.9,*/*;q=0.8"}
+
+
+def _fetch(url, timeout=20):
+    """GET with browser-like headers; one retry without certificate checks if a state site has a broken certificate chain
+    (public, read-only results pages)."""
+    import requests
+    try:
+        r = requests.get(url, timeout=timeout, headers=BROWSER)
+    except requests.exceptions.SSLError:
+        requests.packages.urllib3.disable_warnings()
+        r = requests.get(url, timeout=timeout, headers=BROWSER, verify=False)
+    r.raise_for_status()
+    return r
+
+
 def _read_any(url, fmt, sheet=None, records=None, explode=None, timeout=20):
     """URL or local file path -> DataFrame. fmt: csv | json | xml | xlsx."""
     import json as _json, os
     if str(url).startswith("http"):
-        import requests
-        r = requests.get(url, timeout=timeout, headers={"User-Agent": "election-needle/0.2"})
-        r.raise_for_status()
+        r = _fetch(url, timeout)
         text, content = r.text, r.content
     else:
         content = open(url, "rb").read()
@@ -112,10 +127,77 @@ def _read_any(url, fmt, sheet=None, records=None, explode=None, timeout=20):
     raise ValueError("fmt must be csv, json, xml or xlsx")
 
 
+def _html_results(row: dict) -> pd.DataFrame:
+    """fmt=html: a results web page with a county table. Finds the table whose first column best matches our baseline counties,
+    then picks the Democrat's and Republican's vote columns by candidate surname (headers like 'Brown', 'Brown Votes',
+    'Candidate / Brown / Votes'). Handles percent columns, commas, a Total row, and tables printed sideways."""
+    import json as _json, os, re
+    from model import norm_name
+    rid = str(row.get("id", ""))
+    clean = lambda v: "" if v is None or str(v).strip().lower() in ("", "nan", "none") else str(v).strip()
+    dem, rep = clean(row.get("dem_name")), clean(row.get("rep_name"))
+    if not (dem and rep):
+        c = pd.read_csv("config/candidates.csv", dtype=str).set_index("id")
+        dem, rep = c.loc[rid, "dem"], c.loc[rid, "rep"]
+    dem_k, rep_k = dem.lower().split()[-1], rep.lower().split()[-1]
+    base = set()
+    try:
+        races = {r["id"]: r for r in _json.load(open("config/races.json"))["races"]}
+        base = {norm_name(x) for x in pd.read_csv(os.path.join(races[rid].get("dir", f"data/{rid}"), "counties.csv"))["county"]}
+    except Exception:
+        pass
+    url = str(row.get("url"))
+    text = _fetch(url).text if url.startswith("http") else open(url, encoding="utf-8", errors="replace").read()
+    tables = pd.read_html(io.StringIO(text))
+
+    def flat(cols):
+        return [" ".join(str(p) for p in (c if isinstance(c, tuple) else (c,)) if not str(p).startswith("Unnamed")).strip() for c in cols]
+
+    def num(s):
+        return pd.to_numeric(s.astype(str).str.replace(r"[,\s]", "", regex=True), errors="coerce")
+
+    def votecol(cols, key):
+        hits = [c for c in cols if key in str(c).lower()]
+        good = [c for c in hits if "%" not in str(c) and "percent" not in str(c).lower() and "pct" not in str(c).lower()]
+        return (good or hits or [None])[0]
+
+    best = None
+    for t in tables:
+        for cand, sideways in ((t, False), (t.T.reset_index(), True)):          # also try the table turned sideways
+            d = cand.copy()
+            if not d.columns.is_unique and not isinstance(d.columns, pd.MultiIndex):
+                continue
+            d.columns = flat(d.columns) if isinstance(d.columns, pd.MultiIndex) else [str(c) for c in d.columns]
+            if sideways and len(d) > 1:                                         # sideways: first row holds the headers
+                d.columns = [str(x) for x in d.iloc[0]]
+                d = d.iloc[1:].reset_index(drop=True)
+            dc, rc = votecol(list(d.columns), dem_k), votecol(list(d.columns), rep_k)
+            if dc is None or rc is None or dc == rc:
+                continue
+            ccol, score = None, -1
+            for c in d.columns:
+                s = d[c].astype(str).map(norm_name).isin(base).sum() if base else d[c].astype(str).str.contains(r"[A-Za-z]").sum()
+                if s > score:
+                    ccol, score = c, s
+            if best is None or score > best[0]:
+                out = pd.DataFrame({"county": d[ccol].astype(str).str.strip(), "dem": num(d[dc]), "rep": num(d[rc])})
+                out = out[~out["county"].str.lower().str.contains(r"^(?:total|statewide|state total|grand total|all counties)")]
+                out = out.dropna(subset=["dem", "rep"])
+                best = (score, out)
+    if best is None or len(best[1]) == 0:
+        raise ValueError(f"no table with columns for {dem_k!r} and {rep_k!r} found on {url} (tables seen: {len(tables)})")
+    out = best[1].copy()
+    out["final"] = False
+    out["county"] = out["county"].str.replace(r"\s+County$", "", regex=True)
+    return out.reset_index(drop=True)
+
+
 def load_feed(row: dict) -> pd.DataFrame:
     """row keys (all optional except url): url, fmt, sheet, json_records, json_explode, county_col, dem_col, rep_col,
     pct_col, cand_col, votes_col, party_col, dem_name, rep_name. Blank columns are auto-detected."""
     g = lambda k: (str(row.get(k)).strip() if row.get(k) is not None and str(row.get(k)).strip() not in ("", "nan") else None)
+    if (g("fmt") or "").lower() == "html":
+        return _html_results(row)
     raw = _read_any(g("url"), g("fmt"), g("sheet"), g("json_records"), g("json_explode"))
     county = g("county_col") or _pick(raw.columns, COUNTY_NAMES)
     if county is None:
