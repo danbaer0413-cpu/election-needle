@@ -1,0 +1,184 @@
+AK senate: https://www.elections.alaska.gov/results/
+  FAILED: SSLError: HTTPSConnectionPool(host='www.elections.alaska.gov', port=443): Max retries exceeded with url: /results/ (Caused by SSLError(SSLCertVerificationError(
+FL senate: https://floridaelectionwatch.gov
+  status 200 | text/html | final url https://floridaelectionwatch.gov/ | 22,187 chars
+  visible words 247 | external scripts 5
+  69 data-looking links (first 25):
+    https://floridaelectionwatch.gov/CountyReportingStatus
+    https://floridaelectionwatch.gov/TrackCounty/ALA
+    https://floridaelectionwatch.gov/TrackCounty/BAK
+    https://floridaelectionwatch.gov/TrackCounty/BAY
+    https://floridaelectionwatch.gov/TrackCounty/BRA
+    https://floridaelectionwatch.gov/TrackCounty/BRE
+    https://floridaelectionwatch.gov/TrackCounty/BRO
+    https://floridaelectionwatch.gov/TrackCounty/CAL
+    https://floridaelectionwatch.gov/TrackCounty/CHA
+    https://floridaelectionwatch.gov/TrackCounty/CIT
+    https://floridaelectionwatch.gov/TrackCounty/CLA
+    https://floridaelectionwatch.gov/TrackCounty/CLL
+    https://floridaelectionwatch.gov/TrackCounty/CLM
+    https://floridaelectionwatch.gov/TrackCounty/DES
+    https://floridaelectionwatch.gov/TrackCounty/DIX
+    https://floridaelectionwatch.gov/TrackCounty/DUV
+    https://floridaelectionwatch.gov/TrackCounty/ESC
+    https://floridaelectionwatch.gov/TrackCounty/FLA
+    https://floridaelectionwatch.gov/TrackCounty/FRA
+    https://floridaelectionwatch.gov/TrackCounty/GAD
+    https://floridaelectionwatch.gov/TrackCounty/GIL
+    https://floridaelectionwatch.gov/TrackCounty/GLA
+    https://floridaelectionwatch.gov/TrackCounty/GUL
+    https://floridaelectionwatch.gov/TrackCounty/HAM
+    https://floridaelectionwatch.gov/TrackCounty/HAR
+GA senate: https://results.sos.ga.gov
+  status 200 | text/html | final url https://results.sos.ga.gov/results/public/Georgia | 10,622 chars
+  visible words 3 | external scripts 3  -> looks like a single-page app (data loads in the browser)
+  5 data-looking links (first 25):
+    https://results.sos.ga.gov/results/public/
+    https://results.sos.ga.gov/results/public/api
+    https://results.sos.ga.gov/cdn/results/
+    https://results.sos.ga.gov/results/public
+    https://www.enhancedvoting.com/
+IA senate: https://electionresults.iowa.gov
+  status 202 | text/html | final url https://electionresults.iowa.gov/ | 0 chars
+KS senate: https://sos.ks.gov
+  status 200 | text/html | final url https://sos.ks.gov/ | 65,032 chars
+  visible words 856 | external scripts 7
+  no data-looking links found in the page or its scripts
+ME senate: https://www.maine.gov/sos/cec/elec/results/index.html
+  status 200 | text/html | final url https://www.maine.gov/sos/elections-voting/election-results-data | 115,579 chars
+  visible words 1692 | external scripts 36
+  65 data-looking links (first 25):
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/2026%20Primary%20Candidate%20List%20posting%20FINAL%203.16.26.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Representative%20to%20Congress%20District%202%20-%20Democratic.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/DEM%20CG2%20Additional%20CVR%20Export%2020260618.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/DEM%20CG2%20Vienna%2020260618.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20CG2%2020260618.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20CG2%20Auburn%202060616.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20CG2%20AUX%20MANUAL1%2020260617.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20CG2%20AUX%20MANUAL2%2020260617.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20CG2%20AUX%20MANUAL3%20Updated%2020260623.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Representative%20to%20Congress%20District%202%20%28D%29%20UOCAVA.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Governor%20-%20Democratic.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/DEM%20Gov%20Additional%20CVR%20Export%2020260618.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/DEM%20Gov%20Vienna%2020260618.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Governor%20%28D%29%20UOCAVA.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20GOV%2020260618%20-%201.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20GOV%2020260618%20-%202.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20GOV%2020260618.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20Gov%20Auburn%2020260616.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20Gov%20AUX%20MANUAL1%2020260617.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20Gov%20AUX%20MANUAL2%2020260617.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20Gov%20AUX%20MANUAL3%20Updated%2020260623.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Governor%20-%20Republican.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Governor%20%28R%29%20UOCAVA.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20REP%20GOV%2020260618%20-%201.xlsx
+    https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20REP%20GOV%2020260618_2.xlsx
+MI senate: https://mi.gov/vote
+  status 200 | text/html | final url https://mvic.sos.state.mi.us/ | 27,519 chars
+  visible words 539 | external scripts 13
+  no data-looking links found in the page or its scripts
+MN senate: https://electionresults.sos.mn.gov
+  status 200 | text/html | final url https://electionresults.sos.mn.gov/ | 101,291 chars
+  visible words 2176 | external scripts 4
+  25 data-looking links (first 25):
+    https://www.sos.mn.gov/elections-voting/find-county-election-office/
+    https://electionresults.sos.mn.gov/Select/AboutTheseResults/Index?ersElectionId=200
+    https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&amp;scenario=AllwithoutJudicial&amp;electionDate=8%2F11%2F2026%2012%3A00%3A00%20AM
+    https://electionresults.sos.mn.gov/Results/Index?ErsElectionId=200&amp;officeInElectionIdList=38485&amp;officeInElectionIdList=-1&amp;scenario=USSenate&amp;electionDate=08%2F11%2F2026%2000%3A00%3A00
+    https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&amp;scenario=Governor&amp;officeInElectionId=38695
+    https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&amp;scenario=SecretaryOfState&amp;officeInElectionId=38696
+    https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&amp;scenario=StateAuditor&amp;officeInElectionId=38697
+    https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&amp;scenario=AttorneyGeneral&amp;officeInElectionId=38698
+    https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&amp;scenario=AllJudicial&amp;electionDate=8%2F11%2F2026%2012%3A00%3A00%20AM
+    https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&amp;scenario=USRepresentative
+    https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&amp;scenario=USRepresentative&amp;districtId=556
+    https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&amp;scenario=USRepresentative&amp;districtId=557
+    https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&amp;scenario=USRepresentative&amp;districtId=558
+    https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&amp;scenario=USRepresentative&amp;districtId=559
+    https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&amp;scenario=USRepresentative&amp;districtId=560
+    https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&amp;scenario=USRepresentative&amp;districtId=561
+    https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&amp;scenario=USRepresentative&amp;districtId=562
+    https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&amp;scenario=USRepresentative&amp;districtId=563
+    https://electionresults.sos.mn.gov/results/Index
+    https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&amp;scenario=StateSenate
+    https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&amp;scenario=StateRepresentative
+    https://electionresults.sos.mn.gov/Select/MapCounty/Index?scenario=LocalCounty&amp;ersElectionId=200
+    https://electionresults.sos.mn.gov/Select/MapCounty/Index?scenario=StateFedCounty&amp;ersElectionId=200
+    https://electionresults.sos.mn.gov/Select/MapCounty/Index?scenario=LocalRacesInCounty&amp;ersElectionId=200
+    https://electionresults.sos.mn.gov/Results/CountyStatisticsStatewide/Index?ersElectionId=200
+MS senate: https://www.sos.ms.gov/elections-voting/election-results
+  status 200 | text/html | final url https://www.sos.ms.gov/elections-voting/election-results | 182,163 chars
+  visible words 1342 | external scripts 33
+  155 data-looking links (first 25):
+    https://www.sos.ms.gov/elections-voting/elections-officials-training/county-paty-executive-committee-training
+    https://www.sos.ms.gov/elections-voting/county-election-information
+    https://www.sos.ms.gov/business-services/uniform-commercial-code/counties-county-codes
+    https://www.sos.ms.gov/business-services-external-affairs/search-municipal-and-county-documents
+    https://www.sos.ms.gov/elections-voting/election-results/2026/march-10-2026-republican-primary-results
+    https://www.sos.ms.gov/elections-voting/election-results/2026/march-10-2026-democratic-primary-results
+    https://www.sos.ms.gov/elections-voting/election-results/2025/2025-municipal-democratic-primary-results
+    https://www.sos.ms.gov/elections-voting/election-results/2025/2025-municipal-republican-primary-results
+    https://www.sos.ms.gov/elections-voting/election-results/2025/2025-municipal-republican-primary-run-results
+    https://www.sos.ms.gov/elections-voting/election-results/2025/2025-municipal-democratic-primary-run-results
+    https://www.sos.ms.gov/elections-voting/election-results/2025/2025-legislative-redistricting-primaries-results
+    https://www.sos.ms.gov/elections-voting/election-results/2025/2025-legislative-special-election-results
+    https://www.sos.ms.gov/elections-voting/election-results/2025/2025-municipal-general-election-results
+    https://www.sos.ms.gov/elections-voting/election-results/2025/august-5-2025-special-primary-election-results
+    https://www.sos.ms.gov/elections-voting/election-results/2025/november-4-2025-special-election
+    https://www.sos.ms.gov/elections-voting/election-results/2024/2024-democratic-primary-results
+    https://www.sos.ms.gov/elections-voting/election-results/2024/2024-republican-primary-results
+    https://www.sos.ms.gov/elections-voting/election-results/2024/2024-republican-primary-runoff-results
+    https://www.sos.ms.gov/elections-voting/election-results/2024/2024-municipal-election-results
+    https://www.sos.ms.gov/elections-voting/election-results/2024/2024-general-election-results
+    https://www.sos.ms.gov/elections-voting/election-results/2024/2024-general-election-runoff-results
+    https://www.sos.ms.gov/elections-voting/election-results/2023/2023-state-district-special-elections-results
+    https://www.sos.ms.gov/elections-voting/election-results/2023/2023-municipal-special-elections-results
+    https://www.sos.ms.gov/elections-voting/election-results/2023/2023-democratic-primary-results
+    https://www.sos.ms.gov/elections-voting/election-results/2023/2023-democratic-primary-runoff-results
+NE senate: https://electionresults.nebraska.gov
+  status 200 | text/html | final url https://electionresults.nebraska.gov/ | 54,947 chars
+  visible words 153 | external scripts 10
+  no data-looking links found in the page or its scripts
+NH senate: https://sos.nh.gov
+  status 403 | text/html | final url https://www.sos.nh.gov/ | 370 chars
+NV governor: https://silverstateelection.nv.gov
+  status 200 | text/html | final url https://silverstateelection.nv.gov/ | 1,026 chars
+  visible words 6 | external scripts 2  -> looks like a single-page app (data loads in the browser)
+  no data-looking links found in the page or its scripts
+OH senate: https://liveresults.ohiosos.gov
+  status 200 | text/html | final url https://liveresults.ohiosos.gov/ | 67,528 chars
+  visible words 498 | external scripts 2
+  15 data-looking links (first 25):
+    https://liveresults.ohiosos.gov/Content/browser-icons/manifest.json
+    https://liveresults.ohiosos.gov/Content/browser-icons/browserconfig.xml
+    https://liveresults.ohiosos.gov/Api/v1/Contest/getTabs
+    https://liveresults.ohiosos.gov/ResultbyCounty
+    https://liveresults.ohiosos.gov/Api/v1/Contest/getMarquee
+    https://liveresults.ohiosos.gov/Api/v1/Contest/getStatistics
+    https://liveresults.ohiosos.gov/Api/v1/Contest/GetContestDetailsObject
+    https://liveresults.ohiosos.gov/Api/v1/Contest/getCountyList
+    https://liveresults.ohiosos.gov/Api/v1/Contest/GetContestsByCounty
+    https://liveresults.ohiosos.gov/Api/v1/Contest/getContestList
+    https://liveresults.ohiosos.gov/Api/v1/Contest/getMyResults
+    https://liveresults.ohiosos.gov/Api/v1/Contest/getBallotsCastByCounty
+    https://liveresults.ohiosos.gov/Api/v1/Contest/getDefaultingContestName
+    https://liveresults.ohiosos.gov/Api/v1/Contest/getReportList
+    https://liveresults.ohiosos.gov/Api/v1/Contest/GetElectionSummaryCsv
+SC senate: https://www.enr-scvotes.org/SC/
+  status 202 | text/html | final url https://www.enr-scvotes.org/SC/ | 0 chars
+TX senate: https://results.texas-election.com
+  status 200 | text/html | final url https://results.texas-election.com/ | 2,095 chars
+  visible words 4 | external scripts 4  -> looks like a single-page app (data loads in the browser)
+  10 data-looking links (first 25):
+    https://candidate.texas-election.com/ElectionResults/Service/
+    https://candidate.texas-election.com/ElectionResults/rss/login
+    https://results.texas-election.com/Version.json
+    https://results.texas-election.com/Race.json
+    https://results.texas-election.com/County.json
+    https://results.texas-election.com/Texas_Map.json
+    https://results.texas-election.com/Lookups.json
+    https://results.texas-election.com/Home.json
+    https://results.texas-election.com/county
+    https://results.texas-election.com/OfficeSummary.json
+WI governor: https://elections.wi.gov/wisconsin-county-election-websites
+  status 403 | text/html | final url https://elections.wi.gov/wisconsin-county-election-websites | 5,604 chars
