@@ -11,19 +11,22 @@ from playwright.sync_api import sync_playwright
 
 SITES = {
     "GA": ["https://results.sos.ga.gov/results/public/Georgia"],
+    "GA2": ["https://sos.ga.gov/election-data-hub", "https://sos.ga.gov/page/election-data-hub-unofficial-turnout"],
     "TX": ["https://results.texas-election.com/"],
-    "MI": ["https://mielections.us/election/results/", "https://mielections.us/election/results/2024GEN_CENR.html"],
+    "MI": ["https://app.powerbigov.us/view?r=eyJrIjoiMTk3MjM4ZWQtMTlkZi00N2QxLTk5ZTktODdhYjk3YTVmMzk3IiwidCI6ImQ1ZmI3MDg3LTM3NzctNDJhZC05NjZhLTg5MmVmNDcyMjVkMSJ9", "https://www.michigan.gov/sos/elections/election-results-and-data", "https://mielections.us/election/results/", "https://mielections.us/election/results/2024GEN_CENR.html"],
     "NV": ["https://silverstateelection.nv.gov/"],
     "MN": ["https://electionresults.sos.mn.gov/"],
-    "WI": ["https://elections.wi.gov/elections-voting/results"],
+    "WI": ["https://elections.wi.gov/wisconsin-county-election-websites", "https://elections.wi.gov/elections-voting/results"],
     "NE": ["https://electionresults.nebraska.gov/"],
-    "IA": ["https://electionresults.iowa.gov/"],
-    "SC": ["https://enr.scvotes.sc.gov/"],
+    "IA": ["https://electionresults.iowa.gov/", "https://sos.iowa.gov/iowans/election-results-statistics"],
+    "SC": ["https://www.enr-scvotes.org/SC/", "https://scvotes.gov/elections-statistics/election-results/"],
     "KS": ["https://sos.ks.gov/elections/election-results.html"],
-    "AK": ["https://www.elections.alaska.gov/results/"],
-    "NH": ["https://www.sos.nh.gov/elections/election-results"],
-    "FL": ["https://floridaelectionwatch.gov/"],
-    "OH": ["https://liveresults.ohiosos.gov/"],
+    "AK": ["https://www.elections.alaska.gov/election-results/"],
+    "NH": ["https://www.sos.nh.gov/2026-general-election-results"],
+    "FL": ["https://floridaelectionwatch.gov/", "https://dos.fl.gov/elections/data-statistics/elections-data/precinct-level-election-results/"],
+    "ME": ["https://www.maine.gov/sos/elections-voting/election-results-data", "https://www.maine.gov/sos/cec/elec/results/index.html"],
+    "MS": ["https://www.sos.ms.gov/elections-voting/election-results"],
+    "OH": ["https://liveresults.ohiosos.gov/", "https://www.ohiosos.gov/data", "https://data.ohiosos.gov/portal/election-dashboards", "https://data.ohiosos.gov/portal/election-dashboards/absentee"],
 }
 DATA = re.compile(r"json|xml|csv|spreadsheet|excel|octet-stream|javascript\+json", re.I)
 SKIP = re.compile(r"google|analytics|gtag|doubleclick|facebook|cloudflareinsights|fonts\.|\.(png|jpg|svg|css|woff2?)(\?|$)", re.I)
@@ -63,7 +66,8 @@ def probe(ctx, st, url):
 
     page.on("response", on_resp)
     try:
-        resp = page.goto(url, wait_until="networkidle", timeout=60000)
+        resp = page.goto(url, wait_until="domcontentloaded", timeout=45000)
+        page.wait_for_timeout(6000)
         say(f"  page status {resp.status if resp else '?'}, title: {page.title()[:80]!r}")
         page.wait_for_timeout(4000)
         # click through anything that looks like a race / county link to trigger more data loads
@@ -107,6 +111,7 @@ def main(only=None):
                     probe(ctx, st, u)
                 except Exception as ex:
                     say(f"  {st} crashed: {ex}")
+                open("data/portal_browser.txt", "w").write("\n".join(OUT) + "\n")
         br.close()
     txt = "\n".join(OUT) + "\n"
     open("data/portal_browser.txt", "w").write(txt)
