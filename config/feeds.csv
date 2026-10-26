@@ -10,8 +10,8 @@ NE-senate,,,,,,,,,,,,,,,PORTAL https://electionresults.nebraska.gov | Secretary 
 NE-governor,,,,,,,,,,,,,,,PORTAL https://electionresults.nebraska.gov | Secretary of State | verified: Yes
 ME-senate,,,,,,,,,,,,,,,"PORTAL https://www.maine.gov/sos/cec/elec/results/index.html | Secretary of State (Bureau of Corporations, Elections & Commissions) | verified: Yes"
 AK-senate,,,,,,,,,,,,,,,PORTAL https://www.elections.alaska.gov/results/ | Division of Elections | verified: Partly
-TX-senate,,,,,,,,,,,,,,,PORTAL https://results.texas-election.com | Secretary of State | verified: Archive yes; live URL from memory
-TX-governor,,,,,,,,,,,,,,,PORTAL https://results.texas-election.com | Secretary of State | verified: Archive yes; live URL from memory
+TX-senate,https://results.texas-election.com,texas,,,,,,,,,,,,,Texas static JSON (found by browser probe); race and 2026 election id found automatically | PORTAL https://results.texas-election.com | Secretary of State | verified: Archive yes; live URL from memory
+TX-governor,https://results.texas-election.com,texas,,,,,,,,,,,,,Texas static JSON (found by browser probe); race and 2026 election id found automatically | PORTAL https://results.texas-election.com | Secretary of State | verified: Archive yes; live URL from memory
 SC-senate,,,,,,,,,,,,,,,PORTAL https://www.enr-scvotes.org/SC/ | State Election Commission (not SOS) | verified: Yes
 MS-senate,,,,,,,,,,,,,,,PORTAL https://www.sos.ms.gov/elections-voting/election-results | Secretary of State | verified: Agency yes; path from memory
 FL-governor,,,,,,,,,,,,,,,"PORTAL https://floridaelectionwatch.gov | Dept. of State, Division of Elections | verified: Yes"

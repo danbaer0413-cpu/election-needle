@@ -192,12 +192,72 @@ def _html_results(row: dict) -> pd.DataFrame:
     return out.reset_index(drop=True)
 
 
+def _find_tx_election(ec, year="2026"):
+    """Texas election id for the November general: electionInfo[year]['G'], else any record with Y==year, ET=='G'."""
+    g = (ec.get("electionInfo", {}).get(year, {}) or {}).get("G") or {}
+    if g:
+        return str(sorted(g)[-1])
+    found = []
+
+    def walk(x, key=None):
+        if isinstance(x, dict):
+            if str(x.get("Y")) == year and x.get("ET") == "G" and key is not None:
+                found.append(str(key))
+            for k, v in x.items():
+                walk(v, k)
+        elif isinstance(x, list):
+            for v in x:
+                walk(v, key)
+    walk(ec)
+    return found[-1] if found else None
+
+
+def _texas_results(row: dict) -> pd.DataFrame:
+    """Texas SOS results site (static JSON files). feeds.csv row: fmt=texas; cand_col = regex of the race name
+    (default by id: senate -> 'U\\. ?S\\. SENATOR', governor -> '^GOVERNOR'); sheet = election id (blank = find the 2026 general)."""
+    import re
+    B = (str(row.get("url") or "").strip().rstrip("/") or "https://results.texas-election.com") + "/static/data/"
+    g = lambda k: (str(row.get(k)).strip() if row.get(k) is not None and str(row.get(k)).strip() not in ("", "nan") else None)
+    rid = str(row.get("id", "")).lower()
+    pat = g("cand_col") or (r"U\. ?S\. SENATOR" if "senate" in rid else r"^GOVERNOR")
+    eid = g("sheet")
+    if not eid:
+        v = _fetch(B + "Version.json").json()["___versionNo"]
+        ec = _fetch(f"{B}ElectionConstants_{v}.json").json()
+        eid = _find_tx_election(ec)
+        if not eid:
+            raise ValueError("Texas has not listed the 2026 general election yet")
+    ver = _fetch(f"{B}election/{eid}/Version.json").json()["___versionNo"]
+    base = f"{B}election/{eid}/{ver}/"
+    race = _fetch(base + "Race.json").json()
+    ids = [r["id"] for ot in race["OfficeTypes"] for r in ot["Races"] if re.search(pat, str(r["N"]).strip(), re.I)]
+    if not ids:
+        raise ValueError(f"no Texas race matches /{pat}/")
+    oid = str(ids[0])
+    cj = _fetch(base + "County.json").json()
+    rows = []
+    for fips, c in cj.items():
+        rc = (c.get("Races") or {}).get(oid)
+        if not rc or not isinstance(rc.get("C"), dict):
+            continue
+        d = sum(x.get("V", 0) for x in rc["C"].values() if str(x.get("P", "")).upper().startswith("DEM"))
+        r_ = sum(x.get("V", 0) for x in rc["C"].values() if str(x.get("P", "")).upper().startswith("REP"))
+        tpr = rc.get("TPR") or 0
+        rows.append({"county": str(c.get("N", fips)).title(), "dem": d, "rep": r_,
+                     "final": bool(tpr and (rc.get("PR") or 0) >= tpr)})
+    if not rows:
+        raise ValueError("Texas County.json has no results for this race yet")
+    return pd.DataFrame(rows)
+
+
 def load_feed(row: dict) -> pd.DataFrame:
     """row keys (all optional except url): url, fmt, sheet, json_records, json_explode, county_col, dem_col, rep_col,
     pct_col, cand_col, votes_col, party_col, dem_name, rep_name. Blank columns are auto-detected."""
     g = lambda k: (str(row.get(k)).strip() if row.get(k) is not None and str(row.get(k)).strip() not in ("", "nan") else None)
     if (g("fmt") or "").lower() == "html":
         return _html_results(row)
+    if (g("fmt") or "").lower() == "texas":
+        return _texas_results(row)
     raw = _read_any(g("url"), g("fmt"), g("sheet"), g("json_records"), g("json_explode"))
     county = g("county_col") or _pick(raw.columns, COUNTY_NAMES)
     if county is None:
