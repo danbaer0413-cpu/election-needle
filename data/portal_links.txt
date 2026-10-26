@@ -1,0 +1,265 @@
+
+==== ALASKA: https://www.elections.alaska.gov/election-results/ ====
+  'Statewide Links' -> https://www.elections.alaska.gov/election-results/#SOAfooterlinks
+  'Skip to content' -> https://www.elections.alaska.gov/election-results/#main_content
+  'Skip to primary navigation' -> https://www.elections.alaska.gov/election-results/#genesis-nav-primary
+  'Skip to main content' -> https://www.elections.alaska.gov/election-results/#genesis-content
+  'Skip to footer' -> https://www.elections.alaska.gov/election-results/#genesis-footer-widgets
+  'Back to Top' -> https://www.elections.alaska.gov/election-results/#
+  'General Election Information' -> https://www.elections.alaska.gov/election-information/#GENR
+  'Election Results' -> https://www.elections.alaska.gov/election-results/
+  'Yugtun Mumigcisteḿek Ikayungcalleq (General Central Yup’ik)' -> https://www.elections.alaska.gov/language-assistance/gcy/
+  'Search Official Election Results' -> https://www.elections.alaska.gov/election-results/#officialresults
+  'All Details' -> https://www.elections.alaska.gov/election-results/e/?id=24genr
+  'All Details' -> https://www.elections.alaska.gov/election-results/e/?id=22genr
+  'All Details' -> https://www.elections.alaska.gov/election-results/e/?id=26prim
+  'All Details' -> https://www.elections.alaska.gov/election-results/e/?id=24prim
+  'All Details' -> https://www.elections.alaska.gov/election-results/e/?id=22prim
+  'All Details' -> https://www.elections.alaska.gov/election-results/e/?id=26reaa
+  'All Details' -> https://www.elections.alaska.gov/election-results/e/?id=26reaa-16rc
+  'All Details' -> https://www.elections.alaska.gov/election-results/e/?id=25reaa
+  'All Details' -> https://www.elections.alaska.gov/election-results/e/?id=24reaa
+  'All Details' -> https://www.elections.alaska.gov/election-results/e/?id=23reaa-2ro
+  'All Details' -> https://www.elections.alaska.gov/election-results/e/?id=23reaa
+  'All Details' -> https://www.elections.alaska.gov/election-results/e/?id=23reaa-16recall
+  'All Details' -> https://www.elections.alaska.gov/election-results/e/?id=22reaa-15ro
+  'All Details' -> https://www.elections.alaska.gov/election-results/e/?id=22reaa
+  'All Details' -> https://www.elections.alaska.gov/election-results/e/?id=22sspg
+  'All Details' -> https://www.elections.alaska.gov/election-results/e/?id=22sspe
+  (26 shown of 88 unique links)
+
+==== MAINE: https://www.maine.gov/sos/elections-voting/election-results-data ====
+  'Skip to main navigation' -> https://www.maine.gov/sos/elections-voting/election-results-data#top-nav
+  'Skip to main content' -> https://www.maine.gov/sos/elections-voting/election-results-data#page-body
+  'Skip to footer' -> https://www.maine.gov/sos/elections-voting/election-results-data#footer
+  'Election Results/Data »' -> https://www.maine.gov/sos/elections-voting/election-results-data
+  'Previous Election Year Results' -> https://www.maine.gov/sos/elections-voting/election-results-data/previous-election-results
+  'State General Schedules for Records' -> https://www.maine.gov/sos/archives/records-management/state-government-agency-policies-and-guidance/state-general-schedules-for-records
+  '2026 Primary Candidate List' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/2026%20Primary%20Candidate%20List%20posting%20FINAL%203.16.26.xlsx
+  '2026 Primary Candidate Withdrawals and Replacement Candidate Nominatio' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/2026%20PrePrimary%20Withdrawal%20List%205%2022%202026.pdf
+  'RCV Central Count first choice votes' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Representative%20to%20Congress%20District%202%20-%20Democratic.xlsx
+  'Jun26 DEM CG2 RCV Summary Report' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/CG2%20Democratic%20RCV%20Summary%20Report.pdf
+  'Jun26 DEM CG2 Export 2' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/DEM%20CG2%20Additional%20CVR%20Export%2020260618.xlsx
+  'Jun26 DEM CG2 Export Vienna' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/DEM%20CG2%20Vienna%2020260618.xlsx
+  'Jun26 DEM CG2 Export 1' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20CG2%2020260618.xlsx
+  'Jun26 DEM CG2 Export Auburn' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20CG2%20Auburn%202060616.xlsx
+  'Jun26 DEM CG2 Manual Auxiliary 1' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20CG2%20AUX%20MANUAL1%2020260617.xlsx
+  'Jun26 DEM CG2 Manual Auxiliary 2' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20CG2%20AUX%20MANUAL2%2020260617.xlsx
+  'Jun26 DEM CG2 Manual Auxiliary 3' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20CG2%20AUX%20MANUAL3%20Updated%2020260623.xlsx
+  'Jun26 UOCAVA' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Representative%20to%20Congress%20District%202%20%28D%29%20UOCAVA.xlsx
+  'RCV Central Count first choice vote' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Governor%20-%20Democratic.xlsx
+  'Jun26 DEM Gov RCV Summary Report' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/GOV%20Democratic%20RCV%20Summary%20Report.pdf
+  'Jun26 DEM Gov Export 4' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/DEM%20Gov%20Additional%20CVR%20Export%2020260618.xlsx
+  'Jun26 DEM Gov Export Vienna' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/DEM%20Gov%20Vienna%2020260618.xlsx
+  'Jun26 DEM Gov UOCAVA' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Governor%20%28D%29%20UOCAVA.xlsx
+  'Jun26 DEM Gov Export 1' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20GOV%2020260618%20-%201.xlsx
+  'Jun26 DEM Gov Export 2' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20GOV%2020260618%20-%202.xlsx
+  'Jun26 DEM Gov Export 3' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20GOV%2020260618.xlsx
+  'Jun26 DEM Gov Export Auburn' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20Gov%20Auburn%2020260616.xlsx
+  'Jun26 DEM Gov Manual Auxiliary 1' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20Gov%20AUX%20MANUAL1%2020260617.xlsx
+  'Jun26 DEM Gov Manual Auxiliary 2' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20Gov%20AUX%20MANUAL2%2020260617.xlsx
+  'Jun26 DEM Gov Manual Auxiliary 3' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20Gov%20AUX%20MANUAL3%20Updated%2020260623.xlsx
+  'RCV Central Count first choice votes' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Governor%20-%20Republican.xlsx
+  'Jun26 REP Gov RCV Summary Report' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/GOV%20Republican%20RCV%20Summary%20Reportxlsx.pdf
+  'Jun26 REP Gov UOCAVA' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Governor%20%28R%29%20UOCAVA.xlsx
+  'Jun26 REP Gov Export 1' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20REP%20GOV%2020260618%20-%201.xlsx
+  'Jun26 REP Gov Export 2' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20REP%20GOV%2020260618_2.xlsx
+  'Jun26 REP Gov Export Auburn' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20REP%20Gov%20Auburn%2020260616.xlsx
+  'Jun26 REP Gov Manual Auxiliary 1' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20REP%20Gov%20AUX1%2020260617.xlsx
+  'Jun26 REP Gov Manual Auxiliary 2' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20REP%20Gov%20AUX2%2020260617.xlsx
+  'Jun26 REP Gov Manual Auxiliary 3' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20REP%20Gov%20AUX3%20MANUAL%20Updated%2020260623.xlsx
+  'Jun26 REP Gov Export 3' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/REP%20Gov%20Additional%20CVR%20Export%2020260618.xlsx
+  'Jun26 REP Gov Export Vienna' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/REP%20Gov%20Vienna%2020260618.xlsx
+  'RCV Central Count first choice votes' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Senate%20District%204%20-%20Republican.xlsx
+  'Jun26 REP SS4 RCV Summary Report' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/REP%20SS4%20RCV%20Summary%20Report.pdf
+  'Jun26 REP SS4 Export' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20REP%20SS4%2020260618.xlsx
+  'Jun26 REP SS4 Manual Auxiliary' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20REP%20SS4%20AUX%20MANUAL%2020260617.xlsx
+  'Jun26 REP SS4 UOCAVA' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/State%20Senator%20District%204%20%28R%29%20UOCAVA.xlsx
+  'RCV Central Count first choice votes' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/House%20District%2058%20-%20Republican.xlsx
+  'Jun26 REP SR58 RCV Summary Report' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/REP%20SR58%20RCV%20Summary%20Report.pdf
+  'Jun26 REP SR58 Export 1' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20REP%20SR58%2020260618.xlsx
+  'Jun26 REP SR58 Manual Auxiliary' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Jun26%20REP%20SR58%20AUX1.xlsx
+  'Jun26 REP SR58 Export 2' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/REP%20SR58%20Additional%20CVR%20Export%2020260618.xlsx
+  'Jun26 REP SR58 Vienna' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/REP%20SR58%20Vienna%2020260618.xlsx
+  'Jun26 REP SR58 UOCAVA' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Representative%20to%20the%20Legislature%20District%2058%20%28R%29%20UOCAVA.xlsx
+  'Democratic' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/US%20Senate%20DEM%20-%20FINAL.xlsx
+  'Republican' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/US%20Senate%20REP%20-%20FINAL.xlsx
+  'Democratic' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Rep%20to%20Congress%20Dist%201%20FINAL.xlsx
+  'Republican' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Rep%20to%20Congress%20Dis%201%20REP%20-%20FINAL.xlsx
+  'Republican' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Rep%20to%20Congress%20Dis%202%20REP%20-%20FINAL.xlsx
+  'Democratic' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/State%20Senate%20DEM%20-%20FINAL.xlsx
+  'Republican' -> https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/State%20Senate%20REP%20-%20FINAL.xlsx
+  (60 shown of 318 unique links)
+
+==== WISCONSIN counties: https://elections.wi.gov/wisconsin-county-election-websites ====
+  'Brown County' -> https://www.browncountywi.gov/departments/county-clerk/elections/
+  'Dane County' -> https://elections.countyofdane.com/Election-Dates
+  'Eau Claire County' -> https://www.eauclairecounty.gov/departments/county_clerk/elections/election_results.php
+  'Fond du Lac County' -> https://www.fdlco.wi.gov/departments/departments-a-e/county-clerk/election-results
+  'Jefferson County' -> https://apps.jeffersoncountywi.gov/jc/election
+  'Kenosha County' -> https://www.kenoshacountywi.gov/1405/Election-Results
+  'La Crosse County' -> https://lacrossecounty.org/countyclerk/elections/election-results
+  'Marathon County' -> https://www.marathoncounty.gov/services/elections-voting/results
+  'Milwaukee County Election Commission' -> http://county.milwaukee.gov/ElectionResults23729.htm
+  'Outagamie County' -> https://www.outagamie.gov/Our-County/County-Clerk/Elections
+  'Ozaukee County' -> http://www.co.ozaukee.wi.us/162/Election-Information
+  'Racine County' -> https://www.racinecounty.com/departments/county-clerk/election-information/election-results
+  'Rock County' -> https://www.co.rock.wi.us/departments/county-clerk/election-information
+  'Sheboygan County' -> https://secure-web.cisco.com/16tEgFzO0V52nE_epS4Nkv62cSOZZywh7-Zoh3LBhQtUM5bSJcu_bjwahM2WLcI7VXPIJpH-RqZ56b4Ap9CQyrLi5G4TDbiFquL2IUBeG8KxtUl1DZk0OmlCckknsAqZAiDAAig214i_ynuW4PdtfvhzS5AXEvH_6C60CFCLqKB8VUerqP9aFYOSuZ0aJukHQW89T2iXHPF0zXDu8lirJWQgRnmEr9Ynx4iZ4t7fsBuvq3g-MqeXfCrc7Wv4TzpY69N-9nS_HmTVsG5M69881iLTHR14d-S4Dp1JqPMtB3wGFK3hoMAs2L3Nb3nZbBaal/https%3A%2F%2Fwww.sheboygancounty.com%2Fdepartments%2Fdepartments-a-e%2Fcounty-clerk%2Felections%2Funofficial-election-night-results
+  'Walworth County' -> https://www.co.walworth.wi.us/198/Elections
+  'Washington County' -> https://www.washcowisco.gov/cms/One.aspx?portalId=16228038&pageId=17298071
+  'Waukesha County' -> http://electionresults.waukeshacounty.gov/contests.aspx?contest=-1
+  'Winnebago County' -> https://www.winnebagocountywi.gov/262/Election-Information
+  (18 shown of 146 unique links)
+
+==== FLORIDA: https://floridaelectionwatch.gov/ ====
+  'County Reporting Status' -> https://floridaelectionwatch.gov/CountyReportingStatus
+  'Select County' -> https://floridaelectionwatch.gov/#
+  'AlachuaCounty' -> https://floridaelectionwatch.gov/TrackCounty/ALA
+  'BakerCounty' -> https://floridaelectionwatch.gov/TrackCounty/BAK
+  'BayCounty' -> https://floridaelectionwatch.gov/TrackCounty/BAY
+  'BradfordCounty' -> https://floridaelectionwatch.gov/TrackCounty/BRA
+  'BrevardCounty' -> https://floridaelectionwatch.gov/TrackCounty/BRE
+  'BrowardCounty' -> https://floridaelectionwatch.gov/TrackCounty/BRO
+  'CalhounCounty' -> https://floridaelectionwatch.gov/TrackCounty/CAL
+  'CharlotteCounty' -> https://floridaelectionwatch.gov/TrackCounty/CHA
+  'CitrusCounty' -> https://floridaelectionwatch.gov/TrackCounty/CIT
+  'ClayCounty' -> https://floridaelectionwatch.gov/TrackCounty/CLA
+  'CollierCounty' -> https://floridaelectionwatch.gov/TrackCounty/CLL
+  'ColumbiaCounty' -> https://floridaelectionwatch.gov/TrackCounty/CLM
+  'DesotoCounty' -> https://floridaelectionwatch.gov/TrackCounty/DES
+  'DixieCounty' -> https://floridaelectionwatch.gov/TrackCounty/DIX
+  'DuvalCounty' -> https://floridaelectionwatch.gov/TrackCounty/DUV
+  'EscambiaCounty' -> https://floridaelectionwatch.gov/TrackCounty/ESC
+  'FlaglerCounty' -> https://floridaelectionwatch.gov/TrackCounty/FLA
+  'FranklinCounty' -> https://floridaelectionwatch.gov/TrackCounty/FRA
+  'GadsdenCounty' -> https://floridaelectionwatch.gov/TrackCounty/GAD
+  'GilchristCounty' -> https://floridaelectionwatch.gov/TrackCounty/GIL
+  'GladesCounty' -> https://floridaelectionwatch.gov/TrackCounty/GLA
+  'GulfCounty' -> https://floridaelectionwatch.gov/TrackCounty/GUL
+  'HamiltonCounty' -> https://floridaelectionwatch.gov/TrackCounty/HAM
+  'HardeeCounty' -> https://floridaelectionwatch.gov/TrackCounty/HAR
+  'HendryCounty' -> https://floridaelectionwatch.gov/TrackCounty/HEN
+  'HernandoCounty' -> https://floridaelectionwatch.gov/TrackCounty/HER
+  'HighlandsCounty' -> https://floridaelectionwatch.gov/TrackCounty/HIG
+  'HillsboroughCounty' -> https://floridaelectionwatch.gov/TrackCounty/HIL
+  'HolmesCounty' -> https://floridaelectionwatch.gov/TrackCounty/HOL
+  'Indian RiverCounty' -> https://floridaelectionwatch.gov/TrackCounty/IND
+  'JacksonCounty' -> https://floridaelectionwatch.gov/TrackCounty/JAC
+  'JeffersonCounty' -> https://floridaelectionwatch.gov/TrackCounty/JEF
+  'LafayetteCounty' -> https://floridaelectionwatch.gov/TrackCounty/LAF
+  'LakeCounty' -> https://floridaelectionwatch.gov/TrackCounty/LAK
+  'LeeCounty' -> https://floridaelectionwatch.gov/TrackCounty/LEE
+  'LeonCounty' -> https://floridaelectionwatch.gov/TrackCounty/LEO
+  'LevyCounty' -> https://floridaelectionwatch.gov/TrackCounty/LEV
+  'LibertyCounty' -> https://floridaelectionwatch.gov/TrackCounty/LIB
+  (40 shown of 45 unique links)
+
+==== NEBRASKA: https://electionresults.nebraska.gov/ ====
+  text: MENU MY TRACKED CONTESTS SOS HOME NEBRASKA SECRETARY OF STATE Unofficial Results GENERAL ELECTION NOVEMBER 3, 2026 Results last updated: 10/6/2026 8:49 AM CT STATEWIDE VOTER TURNOUT 0% Ballots Cast 0 Registered Voters 1,259,447 PRECINCTS REPORTING 0% Partially 0 Fully 0 Total 1322 ELECTION RESULTS Statewide U.S. Congressional District Legislature Public Service Commission State Board of Education 
+  clicked /County|Counties/ -> https://electionresults.nebraska.gov/
+  200 https://electionresults.nebraska.gov/ 54,947B
+     start:  <!DOCTYPE html> <html> <head><title> Nebraska Secretary of State </title><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta conten
+  200 https://electionresults.nebraska.gov/Scripts/jquery/jquery-3.6.0.min.js 89,503B
+     start: /*! jQuery v3.6.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){"use strict";"object"==typeof module&&"object"==typeof 
+  200 https://electionresults.nebraska.gov/Scripts/sticky.js 7,403B
+     start: function sticky_relocate() { var window_top = $(window).scrollTop(); var div_top = $('#sticky-anchor').offset().top; if (window_top > div_top) { 
+  200 https://electionresults.nebraska.gov/Scripts/imageMapResizer.min.js 1,857B
+     start: /*! Image Map Resizer (imageMapResizer.min.js ) - v1.0.0 - 2015-10-02 * Desc: Resize HTML imageMap to scaled image. * Copyright: (c) 2015 David J. Bradsha
+  200 https://electionresults.nebraska.gov/Scripts/HeaderTurnoutChart.js 4,273B
+     start: $(document).ready(function () { Chart.defaults.global.responsive = true; //Chart.defaults.Doughnut.segmentShowStroke = false; Chart.defaults.glob
+  200 https://electionresults.nebraska.gov/Scripts/utils.js 22,922B
+     start:  var addCommas = function (str) { return (str + "").replace(/(\d)(?=(\d{3})+(\.\d+|)\b)/g, "$1,"); }; var percentBuilder = function (str) { //ret
+  200 https://electionresults.nebraska.gov/Scripts/Chart.min.js 139,391B
+     start: /*! * Chart.js * http://chartjs.org/ * Version: 2.1.6 * * Copyright 2016 Nick Downie * Released under the MIT license * https://github.com/chartjs
+  200 https://electionresults.nebraska.gov/Scripts/jquery/jquery-ui.js 539,530B
+     start: /*! jQuery UI - v1.12.1 - 2017-07-30 * http://jqueryui.com * Includes: widget.js, position.js, data.js, disable-selection.js, focusable.js, form-reset-mixin.j
+  200 https://neresultswebservice.azurewebsites.us/Scripts/script.bundle.js 801,901B
+     start: /*! jQuery v3.2.1 | (c) JS Foundation and other contributors | jquery.org/license */ !function(a,b){"use strict";"object"==typeof module&&"object"==typeof modu
+  200 https://neresultswebservice.azurewebsites.us/ResultsAjax.svc/GetCandidates?ElectionType=General&ElectionID=0 158,350B
+     shape: {"d": [{"__type": "CandidateData:#NEResultsWebService", "ID": 1, "Party": "Nonpartisan", "desc": "Burt County Public Power District - 6  Year Term", "label": "str", "name": "Dwane  Piere "}, "...625 items"]}
+  204 https://www.google-analytics.com/g/collect?v=2&tid=G-Y1QB8H6MWK&gtm=45je6al1v9184557134za208zd9184557134xf1&_p=1792981584377&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=109538186.1792981585&frm=0&ngs=1&pscdl=noapi&rcb=17&sr=1400x900&uaa=x86& 0B
+     start: 
+  204 https://www.google-analytics.com/g/collect?v=2&tid=G-Y1QB8H6MWK&gtm=45je6al1v9184557134za200zd9184557134xf1&_p=1792981584377&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&cid=109538186.1792981585&frm=0&ngs=1&pscdl=noapi&rcb=17&sr= 0B
+     start: 
+
+==== IOWA (SOE Software): https://electionresults.iowa.gov/ ====
+  text: Election List Election Night Reporting Filter by: ALL 2026 2025 2024 2026 2026 Primary Election 6/2/2026 2025 2025 Special - SD 16 12/30/2025 2025 Special - HD 7 12/9/2025 2025 City-School Election 11/4/2025 2024 2024 General Election 11/5/2024 Copyright 2026 - SOE Software Powered by SOE Software
+  clicked /2024 General Election/ -> https://electionresults.iowa.gov/IA/
+  202 https://electionresults.iowa.gov/ 2,399B
+     start: <!DOCTYPE html> <html lang="en"> <head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title></title> 
+  200 https://electionresults.iowa.gov/IA/ 4,440B
+     start: <!DOCTYPE html> <html lang="en" data-beasties-container> <head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=
+  200 https://electionresults.iowa.gov/IA/runtime.3346ff4c4348be22.js 888B
+     start: (()=>{"use strict";var e,i={},_={};function n(e){var l=_[e];if(void 0!==l)return l.exports;var r=_[e]={exports:{}};return i[e](r,r.exports,n),r.exports}n.m=i,e=
+  200 https://electionresults.iowa.gov/IA/polyfills.1d7e5585264e248b.js 34,836B
+     start: "use strict";(self.webpackChunkstate=self.webpackChunkstate||[]).push([[461],{935:()=>{const te=globalThis;function ee(e){return(te.__Zone_symbol_prefix||"__zon
+  200 https://electionresults.iowa.gov/IA/main.0b64d11241fc455a.js 283,330B
+     start: "use strict";(self.webpackChunkstate=self.webpackChunkstate||[]).push([[792],{84:()=>{let io;function Ci(){return io}function yn(e){const t=io;return io=e,t}con
+  404 https://electionresults.iowa.gov/fonts/segoe_ui.ttf?-ldguj1 0B
+     start: 
+  200 https://electionresults.iowa.gov/IA/elections.json?v=1792981600436 712B
+     shape: [{"State": "IA", "StateId": "608", "County": "", "CountyId": "", "EID": "126082", "ElectionName": "2026 Primary Election", "Date": "6/2/2026 12:00:00 AM"}, "...5 items"]
+
+==== GEORGIA deep ====
+  data top-level keys: ['jurisdiction', 'election', 'localityElections', 'ballotItems', 'precincts', 'pollingPlaces', 'statistics', 'voterRegistration', 'voterTurnout', 'ballotItemWithBreakdown']
+  election: dict keys ['ballotItemCount', 'dateText', 'id', 'jurisdictionId', 'name', 'isOfficialResults', 'electionDate', 'isProduction', 'asOf', 'lastUpdated', 'publishDate', 'publishVersionId', 'publicReportCategories', 'groupReportingStatus', 'precinctReportingStatus', 'contestGroups', 'countGroups', 'precinctsReporting', 'map', 'totalVoters']; shape {"ballotItemCount": 1, "dateText": [{"languageId": "en", "text": "November 3, 2026"}, "...1 items"], "id": "01000000-70f4-ca87-08cb-08df23e5fea8", "jurisdictionId": "09378a07-e6cf-4f66-be7c-ca4aa534f99a", "name": [{"languageId": "en", "text": "November 3, 2026 - General & Special Elections"}, "...1 items"], "isOfficialResults": false, "electionDate": "2026-11-03", "isProduction": true, "asOf": "2026-10-23T18:24:06.0517405Z", "lastUpdated": "2026-10-23T17:18:05.136361Z", "publishDate": "2026-10-23T18:24:18.9469301Z", "publishVersionId": "c15c345b-5768-4328-93f4-85df1ad1d1c7", "publicReportCategories": [{"id": "NoneType", "categoryName": "NoneType", "reports": [{"reportName": "str", "blobName": "str", "order": "int", "versions": "NoneType"}, "...1 items"], "order": 0}, "...1 items"], "groupReportingStatus": "NoneType"}
+  localityElections: list of 159; first item shape: {"ballotItemCount": 1, "dateText": [{"languageId": "en", "text": "November 3, 2026"}, "...1 items"], "id": "01000000-3a82-a359-6120-08df23e60773", "jurisdictionId": "e19c5769-eec5-4127-a883-058ddcc4e977", "name": [{"languageId": "en", "text": "November 3, 2026 - General & Special Elections"}, "...1 items"], "isOfficialResults": false, "electionDate": "2026-11-03", "isProduction": true, "asOf": "2026-10-23T18:24:04.7457885Z", "lastUpdated": "2026-10-16T20:49:32.5864231Z", "publishDate": "NoneType", "publishVersionId": "NoneType", "publicReportCategories": "NoneType", "groupReportingStatus": "NoneType"}
+  ballotItems: list of 274; first item shape: {"id": "01000000-3a82-a359-4042-08df23e5ff36", "parentId": "NoneType", "parentJurisdictionName": "", "publishPublicElectionId": "11032026GeneralAndSpecialElection", "relatedIds": "NoneType", "name": [{"languageId": "en", "text": "US Senate"}, "...1 items"], "voteFor": [{"languageId": "en", "text": "Vote for 1"}, "...1 items"], "referendum": ["empty", "...0 items"], "turnout": "NoneType", "reportingStatus": {"reportingUnits": 0, "totalUnits": 156, "asOf": "2026-10-23T18:24:06.0517405Z", "reportingStatusDetails": "NoneType"}, "voteTotal": 0, "underVoteCount": "NoneType", "overVoteCount": "NoneType", "contestGroupId": "NoneType"}
+  precincts: list of 0; first item shape: 
+  pollingPlaces: list of 0; first item shape: 
+  statistics: list of 0; first item shape: 
+  voterRegistration: list of 0; first item shape: 
+  voterTurnout: list of 0; first item shape: 
+  ballotItemWithBreakdown: None
+
+==== GA ballot item 2026 US Senate: https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection/ballot-items/01000000-3a82-a359-4042-08df23e5ff36 ====
+  text: Georgia November 3, 2026 - General & Special Elections November 3, 2026 UNOFFICIAL RESULTS Last Updated Friday, October 23, 2026 at 6:24:06 PM This page auto-refreshes and is updated in real-time. Georgia > US Senate © Mapbox © OpenStreetMap Improve this map Mike Collins (Rep) Jon Ossoff (I) (Dem) US Senate (Vote for 1) Last Updated: October 23, 2026, 6:24:06 PM (2 days ago) Candidate Percentage V
+  200 https://results.sos.ga.gov/results/public/api/elections/Georgia/11032026GeneralAndSpecialElection/closeraces 2B
+     shape: ["empty", "...0 items"]
+  200 https://results.sos.ga.gov/results/public/api/elections/Georgia/11032026GeneralAndSpecialElection/data 1,058,215B
+     shape: {"jurisdiction": {"bannerUrl": "str", "bannerUrlAltText": "NoneType", "bannerLinkUrl": "NoneType", "bannerUrlLeft": "NoneType", "bannerUrlLeftAltText": "NoneType", "bannerLinkUrlLeft": "NoneType", "bannerUrlRight": "NoneType", "bannerUrlRightAltText": "NoneType", "bannerLinkUrlRight": "NoneType", "childLocalities": [{"id": "str", "name": "list", "shortName": "str", "turnoutPercent": "NoneType", "percentReporting": "NoneType", "precinctsReporting": "NoneType", "hasCountGroupStatus": "bool", "hasPrecinctStatus": "bool", "mapFeatureId": "str"}, "...159 items"], "clientTexts": [{"id": "str", "languageTexts": "list"}, "...163 items"], "id": "09378a07-e6cf-4f66-be7c-ca4aa534f99a", "isParent": true, "languages": ["empty", "...0 items"]}, "election": {"ballotItemCount": 1, "dateText": [{"languageI
+  200 https://results.sos.ga.gov/results/public/api/elections/Georgia/11032026GeneralAndSpecialElection/data/ballot-item/01000000-3a82-a359-4042-08df23e5ff36 1,489,543B
+     shape: {"jurisdiction": {"bannerUrl": "str", "bannerUrlAltText": "NoneType", "bannerLinkUrl": "NoneType", "bannerUrlLeft": "NoneType", "bannerUrlLeftAltText": "NoneType", "bannerLinkUrlLeft": "NoneType", "bannerUrlRight": "NoneType", "bannerUrlRightAltText": "NoneType", "bannerLinkUrlRight": "NoneType", "childLocalities": [{"id": "str", "name": "list", "shortName": "str", "turnoutPercent": "NoneType", "percentReporting": "NoneType", "precinctsReporting": "NoneType", "hasCountGroupStatus": "bool", "hasPrecinctStatus": "bool", "mapFeatureId": "str"}, "...159 items"], "clientTexts": [{"id": "str", "languageTexts": "list"}, "...163 items"], "id": "09378a07-e6cf-4f66-be7c-ca4aa534f99a", "isParent": true, "languages": ["empty", "...0 items"]}, "election": {"ballotItemCount": 1, "dateText": [{"languageI
+
+==== GA ballot item 2024 President: https://results.sos.ga.gov/results/public/Georgia/elections/2024NovGen/ballot-items/01000000-d884-2e72-6367-08dcda4b86b5 ====
+  text: Georgia November General Election November 5, 2024 OFFICIAL RESULTS Last Updated Thursday, January 30, 2025 at 1:59:22 PM This page auto-refreshes and is updated in real-time. Georgia > President of the US © Mapbox © OpenStreetMap Improve this map Donald J. Trump (Rep) Kamala D. Harris (Dem) Chase Oliver (Lib) Jill Stein (Grn) President of the US (Vote for 1) Last Updated: January 30, 2025, 1:59:2
+  200 https://results.sos.ga.gov/results/public/api/elections/Georgia/2024NovGen/closeraces 2B
+     shape: ["empty", "...0 items"]
+  200 https://results.sos.ga.gov/results/public/api/elections/Georgia/2024NovGen/data 932,971B
+     shape: {"jurisdiction": {"bannerUrl": "str", "bannerUrlAltText": "NoneType", "bannerLinkUrl": "NoneType", "bannerUrlLeft": "NoneType", "bannerUrlLeftAltText": "NoneType", "bannerLinkUrlLeft": "NoneType", "bannerUrlRight": "NoneType", "bannerUrlRightAltText": "NoneType", "bannerLinkUrlRight": "NoneType", "childLocalities": [{"id": "str", "name": "list", "shortName": "str", "turnoutPercent": "NoneType", "percentReporting": "float", "precinctsReporting": "float", "hasCountGroupStatus": "bool", "hasPrecinctStatus": "bool", "mapFeatureId": "str"}, "...159 items"], "clientTexts": [{"id": "str", "languageTexts": "list"}, "...122 items"], "id": "09378a07-e6cf-4f66-be7c-ca4aa534f99a", "isParent": true, "languages": ["empty", "...0 items"]}, "election": {"ballotItemCount": 1, "dateText": [{"languageId": "s
+  200 https://results.sos.ga.gov/results/public/api/elections/Georgia/2024NovGen/data/ballot-item/01000000-d884-2e72-6367-08dcda4b86b5 1,589,446B
+     shape: {"jurisdiction": {"bannerUrl": "str", "bannerUrlAltText": "NoneType", "bannerLinkUrl": "NoneType", "bannerUrlLeft": "NoneType", "bannerUrlLeftAltText": "NoneType", "bannerLinkUrlLeft": "NoneType", "bannerUrlRight": "NoneType", "bannerUrlRightAltText": "NoneType", "bannerLinkUrlRight": "NoneType", "childLocalities": [{"id": "str", "name": "list", "shortName": "str", "turnoutPercent": "NoneType", "percentReporting": "float", "precinctsReporting": "float", "hasCountGroupStatus": "bool", "hasPrecinctStatus": "bool", "mapFeatureId": "str"}, "...159 items"], "clientTexts": [{"id": "str", "languageTexts": "list"}, "...122 items"], "id": "09378a07-e6cf-4f66-be7c-ca4aa534f99a", "isParent": true, "languages": ["empty", "...0 items"]}, "election": {"ballotItemCount": 1, "dateText": [{"languageId": "s
+
+==== MICHIGAN dashboard (Power BI schema) ====
+  text: Show keyboard shortcuts Show screen reader tips Skip to main content Power BI Report What voting methods are voters choosing in Michigan? Last updated: October 25, 2026 07:03:44 AM Select an election to view from drop down menu 2026 November General Election - Tuesday, November 3, 2026 Statewide Active registered voters Active registered voter turnout 7,408,123 15.4% (1,141,300) Number of registered voters with an "active" status in the Qualified Voter File (QVF). Note: value stops updating after Election Day. Percentage of active registered voters who cast a ballot in the selected election. Learn about voter statuses Learn how turnout is measured Absentee ballots returned Early voting ballots cast Election Day ballots cast 1,059,893 81,407 No data available Number of absentee ballots received by local clerks for the selected election. Number of in-person ballots cast during the early vo
+  table 'DateTableTemplate_5e7c9905-d589-4e60-a03c-04b96578369f': 7 fields: ['Date', 'Year', 'MonthNo', 'Month', 'QuarterNo', 'Quarter', 'Day']
+  table 'RefreshDate': 1 fields: ['Last_Refreshed_Date']
+  table 'COUNTY_AV_APP_COUNT': 9 fields: ['COUNT_DATE', 'COUNTY_CODE', 'COUNTY_NAME', 'ELECTION_DATE', 'IS_PERM_BALLOT', 'AV_APP_COUNT', 'M_Current_Abs_Ballots_requested', 'IS_PERM_BALLOTPercentage', 'M_PVBM']
+  table 'COUNTY_AV_BALLOT_COUNT': 8 fields: ['COUNT_DATE', 'COUNTY_CODE', 'COUNTY_NAME', 'ELECTION_DATE', 'AV_BALLOT_COUNT', 'AV_BALLOT_SENT_COUNT', 'M_TotalAVBallotsReturned', 'M_TotalAVBallotssent']
+  table 'COUNTY_IN_PERSON_ED_VOTE_COUNT': 8 fields: ['COUNT_DATE', 'COUNTY_CODE', 'COUNTY_NAME', 'ELECTION_DATE', 'IS_CONVERTED_AV_BALLOT', 'IN_PERSON_VOTE_COUNT', 'M_Total_In_Person_ED_Votes', 'M_Total_Ballots']
+  table 'COUNTY_IN_PERSON_EV_VOTE_COUNT': 12 fields: ['COUNT_DATE', 'COUNTY_CODE', 'COUNTY_NAME', 'ELECTION_DATE', 'IS_CONVERTED_AV_BALLOT', 'IN_PERSON_VOTE_COUNT', 'IN_PERSON_VOTE_COUNT_RUNNING_TOTAL', 'Test', 'Formatted_Count_Date', 'County EV Charts display window', 'M_Total_In_Person_Votes', 'M_Ballots_Cast_duringEV_SoFar']
+  table 'COUNTY_REGISTRATION_COUNT': 6 fields: ['COUNTY_CODE', 'COUNTY_NAME', 'REGISTRATION_COUNT', 'REGISTRATION_DATE', 'VOTER_CHANGE_ACTION_ID', 'M_Total_Registered_Voters']
+  table 'COUNTY_VOTER_COUNT': 9 fields: ['COUNT_DATE', 'COUNTY_CODE', 'COUNTY_NAME', 'VOTER_COUNT', 'FIRST_CANCELLATION_YEAR', 'FIRST_CANCELLATION_COUNT', 'SECOND_CANCELLATION_YEAR', 'SECOND_CANCELLATION_COUNT', 'M_Total_Voters']
+  table 'JURISDICTION_AV_APP_COUNT': 10 fields: ['COUNT_DATE', 'JURISDICTION_CODE', 'JURISDICTION_NAME', 'PRIMARY_COUNTY_NAME', 'ELECTION_DATE', 'IS_PERM_BALLOT', 'AV_APP_COUNT', 'Juris_IS_PERM_BALLOTPercentage', 'M_Juris_Current_Abs_Ballots_requested', 'M_Juris_PVBM']
+  table 'JURISDICTION_AV_BALLOT_COUNT': 9 fields: ['COUNT_DATE', 'JURISDICTION_CODE', 'JURISDICTION_NAME', 'PRIMARY_COUNTY_NAME', 'ELECTION_DATE', 'AV_BALLOT_COUNT', 'AV_BALLOT_SENT_COUNT', 'M_Juris_TotalAVBallotsReturned', 'M_Juris_TotalAVBallotssent']
+  table 'JURISDICTION_IN_PERSON_ED_VOTE_COUNT': 9 fields: ['COUNT_DATE', 'JURISDICTION_CODE', 'JURISDICTION_NAME', 'PRIMARY_COUNTY_NAME', 'ELECTION_DATE', 'IS_CONVERTED_AV_BALLOT', 'IN_PERSON_VOTE_COUNT', 'M_Juris_Total_Ballots', 'M_Juris_Total_In_person_ED_Votes']
+  table 'JURISDICTION_IN_PERSON_EV_VOTE_COUNT': 12 fields: ['COUNT_DATE', 'JURISDICTION_CODE', 'JURISDICTION_NAME', 'PRIMARY_COUNTY_NAME', 'ELECTION_DATE', 'IS_CONVERTED_AV_BALLOT', 'IN_PERSON_VOTE_COUNT', 'IN_PERSON_VOTE_COUNT_RUNNING_TOTAL', 'Formatted_Count_Date', 'Juris EV Charts display window', 'M_Juris_Total_In_Person_Votes', 'M_Juris_Ballots_Cast_duringEV_SoFar']
+  table 'JURISDICTION_REGISTRATION_COUNT': 6 fields: ['JURISDICTION_CODE', 'JURISDICTION_NAME', 'PRIMARY_COUNTY_NAME', 'REGISTRATION_COUNT', 'REGISTRATION_DATE', 'VOTER_CHANGE_ACTION_ID']
+  table 'JURISDICTION_VOTER_COUNT': 10 fields: ['COUNT_DATE', 'JURISDICTION_CODE', 'JURISDICTION_NAME', 'PRIMARY_COUNTY_NAME', 'VOTER_COUNT', 'FIRST_CANCELLATION_YEAR', 'FIRST_CANCELLATION_COUNT', 'SECOND_CANCELLATION_YEAR', 'SECOND_CANCELLATION_COUNT', 'M_Juris_Total_Voters']
+  table 'STATEWIDE_INACTIVE_COUNT_WITH_CANCELLATION_YEAR': 4 fields: ['FIRST_CANCELLATION_YEAR', 'Inactive voters scheduled to be removed in 2025', 'SECOND_CANCELLATION_YEAR', 'Inactive voters scheduled to be removed in 2027']
+  table 'MDOSDates': 1 fields: ['Date']
+  table 'DIM_County': 2 fields: ['COUNTY_CODE', 'COUNTY_NAME']
+  table 'MDOSElectionDates': 12 fields: ['ELECTION_DATE', 'ElectionName', 'M_Latest_AV_Ballots', 'M_Latest_IP_ED', 'M_Latest_IP_EV', 'M_Latest_Converted_IP_ED', 'M_Latest_Converted_IP_EV', 'M_J_Latest_Converted_IP_ED', 'M_J_Latest_Converted_IP_EV', 'M_J_Latest_AV_Ballots', 'M_J_Latest_IP_ED', 'M_J_Latest_IP_EV']
+  table 'LocalDateTable_cd4bdf09-c97f-4968-8e8e-298910c22712': 7 fields: ['Date', 'Year', 'MonthNo', 'Month', 'QuarterNo', 'Quarter', 'Day']
+  table 'DIM_Jurisdiction': 3 fields: ['JURISDICTION_CODE', 'JURISDICTION_NAME', 'PRIMARY_COUNTY_NAME']
+  table 'Table': 27 fields: ['This will host all report measures', 'M_Voter_Turnout', 'M_Display_County', 'M_Absentee_Ballot_Returned_Percentage', 'M_target', 'M_County_Display_VoterTurnout', 'M_Juris_Display_VoterTurnout', 'M_Juris_Voter_Turnout', 'M_NewDisplay', 'M_Absentee_Ballot_Sent_Percentage', 'M_Display_Jurisdiction', 'M_Display_PVBM_Support_County', 'M_Display_PVBM_Support_Jurisdiction', 'M_Title_AB_Sent', 'M_Title_AB_Returned', 'M_Title_EV_Daily', 'M_Title_EV_Total', 'M_Title_AB_Returned_Juris', 'M_Title_AB_Sent_Juris', 'M_Title_EV_Total_Juris', 'M_Title_EV_Daily_Juris', 'Data minimum error message', 'BG Color Error message', 'County Data minimum error message', 'County BG Color Error message', 'SumM1M2_state', 'SumM1M2_juris']
+  table 'Progress Bar': 9 fields: ['Value', 'Percentage Display column', 'Static', 'Returned Progress', 'Returned Progress Label', 'Only Label Returned', 'Sent Progress Label', 'Sent Progress', 'Only Label Sent']
+  table 'COUNTY_IN_PERSON_EV_VOTE_COUNT_SUM': 6 fields: ['COUNT_DATE', 'COUNTY_CODE', 'COUNTY_NAME', 'ELECTION_DATE', 'IS_CONVERTED_AV_BALLOT', 'IN_PERSON_VOTE_COUNT_RUNNING_TOTAL']
+  table 'LocalDateTable_8e5bbea1-a513-4b9e-8007-630519e8fcaf': 7 fields: ['Date', 'Year', 'MonthNo', 'Month', 'QuarterNo', 'Quarter', 'Day']
+  table 'LocalDateTable_679443f1-2f70-4d70-a341-afea9601d3c4': 7 fields: ['Date', 'Year', 'MonthNo', 'Month', 'QuarterNo', 'Quarter', 'Day']
+  table 'JURISDICTION_IN_PERSON_EV_VOTE_COUNT_SUM': 7 fields: ['COUNT_DATE', 'ELECTION_DATE', 'PRIMARY_COUNTY_NAME', 'JURISDICTION_CODE', 'JURISDICTION_NAME', 'IS_CONVERTED_AV_BALLOT', 'IN_PERSON_VOTE_COUNT_RUNNING_TOTAL']
+  table 'LocalDateTable_1e86c7e8-093c-4786-adf4-43fcff5f73bf': 7 fields: ['Date', 'Year', 'MonthNo', 'Month', 'QuarterNo', 'Quarter', 'Day']
+  table 'LocalDateTable_4a993b92-a1c6-4efa-a7d8-b3b9b0006e59': 7 fields: ['Date', 'Year', 'MonthNo', 'Month', 'QuarterNo', 'Quarter', 'Day']
+  table 'LocalDateTable_dec38006-9187-4a73-aa6e-d50e34bd88fe': 7 fields: ['Date', 'Year', 'MonthNo', 'Month', 'QuarterNo', 'Quarter', 'Day']
+  table 'LocalDateTable_c21479e9-1dd8-430d-a887-d18e870ea9a5': 7 fields: ['Date', 'Year', 'MonthNo', 'Month', 'QuarterNo', 'Quarter', 'Day']
