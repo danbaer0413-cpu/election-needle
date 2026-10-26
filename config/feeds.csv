@@ -1,30 +1,31 @@
 id,url,fmt,json_records,json_explode,sheet,county_col,dem_col,rep_col,pct_col,cand_col,votes_col,party_col,dem_name,rep_name,notes
 OH-senate,https://liveresults.ohiosos.gov,ohio,,,,,,,,,,,,,Ohio JSON API (found by probe); contest found by name | PORTAL https://liveresults.ohiosos.gov | Secretary of State | verified: Yes
 OH-governor,https://liveresults.ohiosos.gov,ohio,,,,,,,,,,,,,Ohio JSON API (found by probe); contest found by name | PORTAL https://liveresults.ohiosos.gov | Secretary of State | verified: Yes
-MI-senate,,,,,,,,,,,,,,,PORTAL https://mi.gov/vote | Department of State | verified: Yes
-MN-senate,,,,,,,,,,,,,,,PORTAL https://electionresults.sos.mn.gov | Secretary of State | verified: Agency yes; live URL from memory
+MI-senate,,,,,,,,,,,,,,,BEST LINK https://www.michigan.gov/sos/elections/election-results-and-data ; county sites first (Wayne https://www.waynecountymi.gov/Government/Elected-Officials/Clerk/Elections/Election-Results-Candidates ); dashboard https://app.powerbigov.us/view?r=eyJrIjoiMTk3MjM4ZWQtMTlkZi00N2QxLTk5ZTktODdhYjk3YTVmMzk3IiwidCI6ImQ1ZmI3MDg3LTM3NzctNDJhZC05NjZhLTg5MmVmNDcyMjVkMSJ9 is turnout only: paste results
+MN-senate,,,,,,,,,,,,,,,BEST LINK https://electionresults.sos.mn.gov/Results/Index?ersElectionId=<general id>&scenario=USSenate (intermittent Radware captcha: paste if blocked)
 IA-senate,https://electionresults.iowa.gov/IA,soe,,,,,,,,,,,,,Iowa SOE Software JSON (found by probe); uses a normal headless browser if the site's invisible check blocks plain requests
-KS-senate,,,,,,,,,,,,,,,PORTAL https://sos.ks.gov | Secretary of State | verified: Page type yes; exact path not confirmed
-KS-governor,,,,,,,,,,,,,,,PORTAL https://sos.ks.gov | Secretary of State | verified: Page type yes; exact path not confirmed
-NE-senate,,,,,,,,,,,,,,,PORTAL https://electionresults.nebraska.gov | Secretary of State | verified: Yes
-NE-governor,,,,,,,,,,,,,,,PORTAL https://electionresults.nebraska.gov | Secretary of State | verified: Yes
-ME-senate,,,,,,,,,,,,,,,"PORTAL https://www.maine.gov/sos/cec/elec/results/index.html | Secretary of State (Bureau of Corporations, Elections & Commissions) | verified: Yes"
-AK-senate,,,,,,,,,,,,,,,PORTAL https://www.elections.alaska.gov/results/ | Division of Elections | verified: Partly
+KS-senate,,,,,,,,,,,,,,,"BEST LINK https://sos.ks.gov/elections/election-results.html (Power BI report, refreshed rarely): paste"
+KS-governor,,,,,,,,,,,,,,,BEST LINK https://sos.ks.gov/elections/election-results.html : paste
+NE-senate,,,,,,,,,,,,,,,BEST LINK https://electionresults.nebraska.gov/resultsSW.aspx?type=SW&map=CTY (data service neresultswebservice.azurewebsites.us/ResultsAjax.svc); reader not built yet: paste or use probe_ne output
+NE-governor,,,,,,,,,,,,,,,BEST LINK https://electionresults.nebraska.gov/resultsSW.aspx?type=SW&map=CTY; reader not built yet: paste
+ME-senate,,,,,,,,,,,,,,,BEST LINK https://www.maine.gov/sos/elections-voting/election-results-data (xlsx files posted after the election): paste on the night
+AK-senate,https://www.elections.alaska.gov,alaska,,,,,,,,,,,,,"Alaska precinct CSV results/26GENR/ENRbyPrecinct.csv, added up to House districts; page https://www.elections.alaska.gov/election-results/e/?id=26genr"
 TX-senate,https://results.texas-election.com,texas,,,,,,,,,,,,,Texas static JSON (found by browser probe); race and 2026 election id found automatically | PORTAL https://results.texas-election.com | Secretary of State | verified: Archive yes; live URL from memory
 TX-governor,https://results.texas-election.com,texas,,,,,,,,,,,,,Texas static JSON (found by browser probe); race and 2026 election id found automatically | PORTAL https://results.texas-election.com | Secretary of State | verified: Archive yes; live URL from memory
 SC-senate,https://www.enr-scvotes.org/SC,soe,,,,,,,,,,,,,South Carolina SOE Software (same platform as Iowa); works once the 2026 general is listed
-MS-senate,,,,,,,,,,,,,,,PORTAL https://www.sos.ms.gov/elections-voting/election-results | Secretary of State | verified: Agency yes; path from memory
+MS-senate,,,,,,,,,,,,,,,BEST LINK https://www.sos.ms.gov/elections-voting/election-results : paste
 FL-governor,https://floridaelectionwatch.gov/StateOffices/Governor,florida,,,,,,,,,,,,,Florida Election Watch county table
 GA-governor,https://results.sos.ga.gov,georgia,,,,,,,,,,,,,Georgia SOS API (found by probe); race and county breakdown read automatically
-NV-governor,,,,,,,,,,,,,,,PORTAL https://silverstateelection.nv.gov | Secretary of State | verified: Yes
-WI-governor,,,,,,,,,,,,,,,PORTAL https://elections.wi.gov/wisconsin-county-election-websites | Wisconsin Elections Commission (not SOS) | verified: Yes
+NV-governor,,,,,,,,,,,,,,,BEST LINKS Clark https://elections.clarkcountynv.gov/ElectionResultsTV/ ; Washoe https://electionresults.washoecounty.gov/ and https://www.washoecounty.gov/voters/results/results.php (PDF files); state site blocks bots: paste
+WI-governor,,,,,,,,,,,,,,,BEST LINKS Dane https://elections.countyofdane.com/Election-Result/197 ; Waukesha http://electionresults.waukeshacounty.gov/contests.aspx?contest=-1 ; list of all counties https://elections.wi.gov/wisconsin-county-election-websites ; Milwaukee/Racine/Rock/Marathon/La Crosse block bots: paste
 GA-senate,https://results.sos.ga.gov,georgia,,,,,,,,,,,,,Georgia SOS API (found by probe); race and county breakdown read automatically
-ME-governor,,,,,,,,,,,,,,,"PORTAL https://www.maine.gov/sos/cec/elec/results/index.html | Secretary of State (Bureau of Corporations, Elections & Commissions) | verified: Yes"
-NH-senate,,,,,,,,,,,,,,,PORTAL https://sos.nh.gov | Secretary of State | verified: Agency yes; results portal not confirmed
+ME-governor,,,,,,,,,,,,,,,BEST LINK https://www.maine.gov/sos/elections-voting/election-results-data : paste on the night
+NH-senate,,,,,,,,,,,,,,,BEST LINK https://www.sos.nh.gov/2026-election-results (Akamai blocks bots: paste; town totals by hand)
 FL-senate,https://floridaelectionwatch.gov/FederalOffices/USSenator,florida,,,,,,,,,,,,,Florida Election Watch county table
 SC-governor,https://www.enr-scvotes.org/SC,soe,,,,,,,,,,,,,South Carolina SOE Software (same platform as Iowa); works once the 2026 general is listed
 IA-governor,https://electionresults.iowa.gov/IA,soe,,,,,,,,,,,,,Iowa SOE Software JSON (found by probe); uses a normal headless browser if the site's invisible check blocks plain requests
-AK-governor,,,,,,,,,,,,,,,PORTAL https://www.elections.alaska.gov/results/ | Division of Elections | verified: Partly
-MI-governor,,,,,,,,,,,,,,,PORTAL https://mi.gov/vote | Department of State | verified: Yes
-MN-governor,,,,,,,,,,,,,,,PORTAL https://electionresults.sos.mn.gov | Secretary of State | verified: Agency yes; live URL from memory
-NH-governor,,,,,,,,,,,,,,,PORTAL https://sos.nh.gov | Secretary of State | verified: Agency yes; results portal not confirmed
+AK-governor,https://www.elections.alaska.gov,alaska,,,,,,,,,,,,,"Alaska precinct CSV results/26GENR/ENRbyPrecinct.csv, added up to House districts; page https://www.elections.alaska.gov/election-results/e/?id=26genr"
+MI-governor,,,,,,,,,,,,,,,BEST LINK https://www.michigan.gov/sos/elections/election-results-and-data ; county sites first: paste results
+MN-governor,,,,,,,,,,,,,,,BEST LINK https://electionresults.sos.mn.gov/Results/Index?ersElectionId=<general id>&scenario=Governor (statewide totals only; paste counties)
+NH-governor,,,,,,,,,,,,,,,BEST LINK https://www.sos.nh.gov/2026-election-results (Akamai blocks bots: paste)
+NC-senate,https://s3.amazonaws.com/dl.ncsbe.gov/ENRS,ncsbe,,,2026_11_03,,,,,,,,,,"AUTO (untested on 2026): NCSBE election-night precinct file results_pct_20261103.zip added to counties. Rehearse with check_readers (NC 2024). PASTE/screenshot. BEST LINK https://er.ncsbe.gov/?election_dt=11/03/2026&county_id=0&office=FED&contest=0 (NC State Board of Elections results, county tables); file downloads https://dl.ncsbe.gov/?prefix=ENRS/2026_11_03/ . Reader not built. | NCSBE results page https://www.ncsbe.gov/results-data/election-results ; dashboard https://er.ncsbe.gov/ ; files https://dl.ncsbe.gov/ ; timeline https://www.ncsbe.gov/results-data/election-results/election-night-reporting-timeline (no feed/API listed: screenshot or paste)"

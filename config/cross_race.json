@@ -1,0 +1,1 @@
+{"enabled": true, "rho_national": 0.5, "rho_same_state": 0.8, "min_pct_in": 20, "k": 1.0, "cap": 6.0, "rho_shared": 0.5, "skip": ["NE-senate", "NE-governor"]}

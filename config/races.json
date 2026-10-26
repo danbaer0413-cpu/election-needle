@@ -339,6 +339,17 @@
       "params": {
         "sd_poll": 5.0
       }
+    },
+    {
+      "id": "NC-senate",
+      "state": "NC",
+      "race": "U.S. Senate",
+      "level": "Federal",
+      "dir": "data/NC/u-s-senate",
+      "poll_margin": null,
+      "params": {
+        "sd_poll": 5.0
+      }
     }
   ],
   "_note": "third_share values for GA, ME and AK are placeholders: set them from polls or past results. rcv_history CSVs (past ranked-choice contests) calibrate the transfer skew; see rcv.py."
