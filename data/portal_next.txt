@@ -1,0 +1,195 @@
+==== GEORGIA ballot-item breakdown ====
+-- 2024 President (finished): top keys ['jurisdiction', 'election', 'localityElections', 'ballotItems', 'precincts', 'pollingPlaces', 'statistics', 'voterRegistration', 'voterTurnout', 'ballotItemWithBreakdown']
+   ballotItemWithBreakdown: {"id": "01000000-d884-2e72-6367-08dcda4b86b5", "name": [{"languageId": "en", "text": "President of the US"}, "...1 items"], "voteFor": [{"languageId": "en", "text": "Vote for 1"}, "...1 items"], "referendum": ["empty", "...0 items"], "turnout": "NoneType", "reportingStatus": {"reportingUnits": 159, "totalUnits": 159, "asOf": "2025-01-30T13:59:22.4956582Z", "reportingStatusDetails": "NoneType"}, "contestType": "Candidate", "voteTotal": 5250047, "underVoteCount": "NoneType", "overVoteCount": "NoneType", "summaryResults": {"ballotOptions": [{"id": "01000000-d884-2e72-71ff-08dcda4b86b5", "nativeId": "1", "name": [{"languageId": "en", "text": "Donald J. Trump (Rep)"}, "...1 items"], "voteCount": 2663117, "party": {"id": "01000000-d884-2e72-6e4b-08dcda4b86b5", "name": [{"languageId": "en", "text": "Rep"}, "...1 items"], "abbreviation": "Rep", "standardName": "NoneType", "color": "#960018", "textColor": "#000000"}, "groupResults": [{"groupId": "01000000-d884-2e72-d324-08dcda4b869c", "groupName": [{"languageId": "str", "text": "str"}, "...1 items"], "voteCount": 647080}, "...4 items"], "isWriteIn": false, "isQualifiedWriteIn": false, "isWinner": "NoneType"}, "...4 items"]}, "rankedChoiceSummaryResults": "NoneType", "breakdownResults": [{"parentBallotItemId": "01000000-d884-2e72-ab5a-08dcda4b86b0", "locality": {"id": "01000000-cab9-ca6f-2fc0-08dcda4f4c33", "name": [{"languageId": "en", "text": "Appling County"}, "...1 items"], "shortName": "appling-county-ga", "turnoutPercent": "NoneType", "percentReporting": "NoneType", "precinctsReporting": "NoneType", "hasCountGroupStatus": false, "hasPrecinctStatus": false, "mapFeatureId": "Appling"}, "voteTotal": 8334, "underVoteCount": "NoneType", "overVoteCount": "NoneType", "precinctReportingStatus": {"reportingUnits": 9, "totalUnits": 9, "asOf": "2025-01-30T13:59:22.4956971Z", "reportingStatusDetails": "NoneType"}, "ballotOptions": [{"id": "01000000-d884-2e72-71ff-08dcda4b86b5", "nativeId": "1", "name": [{"languageId": "en", "text": "Donald J. Trump (Rep)"}, "...1 items"], "voteCount": 6761, "party": {"id": "01000000-d884-2e72-6e4b-08dcda4b86b5", "name": [{"languageId": "str", "text": "str"}, "...1 items"], "abbreviation": "Rep", "standardName": "NoneType", "color": "#960018", "textColor": "#000000"}, "groupResults": [{"groupId": "01000000-d884-2e72-c3fb-08dcda4bd320", "groupName": [{"languageId": "str", "text": "str"}, "...1 items"], "voteCount": 4564}, "...4 items"], "isWriteIn": false, "isQualifiedWriteIn": false, "isWinner": "NoneType"}, "...4 items"]}, "...159 items"], "breakdownResultCount": 159}
+-- 2026 US Senate (empty): top keys ['jurisdiction', 'election', 'localityElections', 'ballotItems', 'precincts', 'pollingPlaces', 'statistics', 'voterRegistration', 'voterTurnout', 'ballotItemWithBreakdown']
+   ballotItemWithBreakdown: {"id": "01000000-3a82-a359-4042-08df23e5ff36", "name": [{"languageId": "en", "text": "US Senate"}, "...1 items"], "voteFor": [{"languageId": "en", "text": "Vote for 1"}, "...1 items"], "referendum": ["empty", "...0 items"], "turnout": "NoneType", "reportingStatus": {"reportingUnits": 0, "totalUnits": 156, "asOf": "2026-10-23T18:24:06.0517405Z", "reportingStatusDetails": "NoneType"}, "contestType": "Candidate", "voteTotal": 0, "underVoteCount": "NoneType", "overVoteCount": "NoneType", "summaryResults": {"ballotOptions": [{"id": "01000000-3a82-a359-482e-08df23e5ff36", "nativeId": "1", "name": [{"languageId": "en", "text": "Mike Collins (Rep)"}, "...1 items"], "voteCount": 0, "party": {"id": "01000000-3a82-a359-46c9-08df23e5ff36", "name": [{"languageId": "en", "text": "Rep"}, "...1 items"], "abbreviation": "Rep", "standardName": "NoneType", "color": "#960018", "textColor": "#000000"}, "groupResults": [{"groupId": "01000000-3a82-a359-956f-08df23e5ff21", "groupName": [{"languageId": "str", "text": "str"}, "...1 items"], "voteCount": 0}, "...4 items"], "isWriteIn": false, "isQualifiedWriteIn": false, "isWinner": "NoneType"}, "...2 items"]}, "rankedChoiceSummaryResults": "NoneType", "breakdownResults": [{"parentBallotItemId": "01000000-3a82-a359-5a9e-08df23e630d2", "locality": {"id": "d58e790a-a271-4225-8cd6-a1ed0aa829b1", "name": [{"languageId": "en", "text": "Appling County"}, "...1 items"], "shortName": "appling-county-ga", "turnoutPercent": "NoneType", "percentReporting": "NoneType", "precinctsReporting": "NoneType", "hasCountGroupStatus": false, "hasPrecinctStatus": false, "mapFeatureId": "Appling"}, "voteTotal": 0, "underVoteCount": "NoneType", "overVoteCount": "NoneType", "precinctReportingStatus": {"reportingUnits": 0, "totalUnits": 9, "asOf": "2026-10-23T18:24:06.051755Z", "reportingStatusDetails": [{"groupName": [{"languageId": "NoneType", "text": "str"}, "...1 items"], "reportingStatusClientTextKey": "reporting-status-fully-reported", "order": 1, "value": 9}, "...3 items"]}, "ballotOptions": [{"id": "01000000-3a82-a359-482e-08df23e5ff36", "nativeId": "1", "name": [{"languageId": "en", "text": "Mike Collins (Rep)"}, "...1 items"], "voteCount": 0, "party": {"id": "01000000-3a82-a359-46c9-08df23e5ff36", "name": [{"languageId": "str", "text": "str"}, "...1 items"], "abbreviation": "Rep", "standardName": "NoneType", "color": "#960018", "textColor": "#000000"}, "groupResults": [{"groupId": "01000000-3a82-a359-a55e-08df23e5ff28", "groupName": [{"languageId": "str", "text": "str"}, "...1 items"], "voteCount": 0}, "...4 items"], "isWriteIn": false, "isQualifiedWriteIn": false, "isWinner": "NoneType"}, "...2 items"]}, "...156 items"], "breakdownResultCount": 156}
+2026 Senate/Governor ids: [('US Senate', '01000000-3a82-a359-4042-08df23e5ff36'), ('Governor', '01000000-3a82-a359-0434-08df23e5ff46')]
+
+==== FLORIDA ====
+-- /FederalOffices/USSenator: 32,248 chars
+   links: ['/ContestResultsByCounty/120001', '/ContestResultsByCounty/120002', '/Downloads']
+   2 tables
+   table 0 shape (8, 4):
+                             0      1               2       3
+      0          Chris Gleason    REP          228010  13.74%
+      1           Ashley Moody    REP         1320780  79.56%
+      2    Neelam Taneja Perry    REP           31250   1.88%
+      3  Ernest "Ernie" Rivera    REP           79973   4.82%
+      4              Candidate  Party  Votes Received     NaN
+      5                    NaN    NaN             NaN     NaN
+   table 1 shape (6, 4):
+                       0                1                2       3
+      0      Angie Nixon              DEM           705835  56.06%
+      1     Alex Vindman              DEM           553138  43.94%
+      2        Candidate            Party   Votes Received     NaN
+      3              NaN              NaN              NaN     NaN
+      4  Total 1,258,973  Total 1,258,973  Total 1,258,973     NaN
+      5              NaN              NaN              NaN     NaN
+   /ContestResultsByCounty/120001: 1 tables; first: shape (68, 5), columns ['County', 'Chris Gleason', 'Ashley Moody', 'Neelam Taneja Perry', 'Ernest "Ernie" Rivera']
+           County  Chris Gleason  Ashley Moody  Neelam Taneja Perry  Ernest "Ernie" Rivera
+      0   Alachua           1797         11098                  347                    661
+      1     Baker            715          4047                   50                    169
+      2       Bay           2842         19902                  361                    785
+      3  Bradford            424          3015                   30                    102
+      4   Brevard           9096         52235                 1330                   2898
+-- /StateOffices/Governor: 43,158 chars
+   links: ['/ContestResultsByCounty/160001', '/ContestResultsByCounty/160002', '/Downloads']
+   2 tables
+   table 0 shape (15, 4):
+                               0    1       2       3
+      0              Jay Collins  REP  427014  25.16%
+      1            Byron Donalds  REP  811131  47.79%
+      2           James Fishback  REP  177809  10.48%
+      3              Jim Holcomb  REP   13183   0.78%
+      4  Arthur Joseph McCaffrey  REP    7048   0.42%
+      5          Daniel Nokovich  REP    5192   0.31%
+   table 1 shape (10, 4):
+                                   0    1       2       3
+      0         Evelyn Castillo-Bach  DEM   96706   7.73%
+      1        Thomas Eloy Fernandez  DEM   47324   3.78%
+      2           Dayna Marie Foster  DEM  189421  15.15%
+      3  David Jolly and Gwen Graham  DEM  762160  60.95%
+      4                 Dotie Joseph  DEM  119968   9.59%
+      5              Stephann Norman  DEM   34965    2.8%
+   /ContestResultsByCounty/160001: 1 tables; first: shape (68, 12), columns ['County', 'Jay Collins', 'Byron Donalds', 'James Fishback', 'Jim Holcomb', 'Arthur Joseph McCaffrey', 'Daniel Nokovich', 'Paul Renner', 'Rachel Rodriguez', 'James W. Shaw', 'Caneste Succe', 'Bobby Williams']
+           County  Jay Collins  Byron Donalds  James Fishback  Jim Holcomb  Arthur Joseph McCaffrey  Daniel Nokovich  Paul Renner  Rachel Rodriguez  James W. Shaw  Caneste Succe  Bobby Williams
+      0   Alachua         3932           5408            2015           84                       59               39         1574               196             91             87             729
+      1     Baker         1364           1484             805           21                       12                6          734                26             35              4             644
+      2       Bay         7413          10218            2327          285                      113               71         2622               257             96             81             691
+      3  Bradford         1019           1183             396           15                        4                4          483 
+-- /Downloads: 22,215 chars
+   links: ['../Downloads/ES', '/Downloads', 'https://flelectionfiles.floridados.gov/enightfilespublic/20260818_ElecResultsFL.txt', 'https://flelectionfiles.floridados.gov/enightfilespublic/20260818_ElecResultsFL_PipeDlm_Info.txt', 'https://flelectionfiles.floridados.gov/enightfilespublic/20260818_ElecResultsFL_PipeDlm_Votes.txt']
+   no tables: `Import html5lib` failed.  Use pip, conda, or your preferred
+
+==== OHIO contest names ====
+statewide-looking: ['Governor and Lieutenant Governor', 'Attorney General', 'Auditor of State', 'Secretary of State', 'Treasurer of State', 'Justice of the Supreme Court', 'Justice of the Supreme Court', 'U.S. Senator', 'State Senator', 'State Senator', 'State Senator', 'State Senator', 'State Senator', 'State Senator', 'State Senator', 'State Senator', 'State Senator', 'State Senator', 'State Senator', 'State Senator']
+
+==== NEBRASKA statewide by county: https://electionresults.nebraska.gov/resultsSW.aspx?type=SW&map=CTY ====
+  text: MENU EXPORT MY TRACKED CONTESTS HOME NEBRASKA SECRETARY OF STATE Unofficial Results GENERAL ELECTION NOVEMBER 3, 2026 Results last updated: 10/6/2026 8:49 AM CT STATEWIDE VOTER TURNOUT 0% Ballots Cast 0 Registered Voters 1,259,447 PRECINCTS REPORTING 0% Partially 0 Fully 0 Total 1322 FOR UNITED STATES SENATOR - 6 YEAR TERM FOLLOW THIS CONTEST EXPORT PRECINCTS FULLY: 0 / 1322 | PARTIALLY: 0 / 1322 PETE RICKETTS Republican 0% 0 MIKE MARVIN Legal Marijuana Now 0% 0 ROBIN RICHARDS Nebraska Working P
+  tables: 0
+  200 https://electionresults.nebraska.gov/resultsSW.aspx?type=SW&map=CTY [text/html; charset=utf-8] 94,053B
+  200 https://electionresults.nebraska.gov/Scripts/jquery/jquery-3.6.0.min.js [application/x-javascript] 89,503B
+  200 https://electionresults.nebraska.gov/Scripts/utils.js [application/x-javascript] 22,922B
+  200 https://electionresults.nebraska.gov/Scripts/HeaderTurnoutChart.js [application/x-javascript] 4,273B
+  200 https://electionresults.nebraska.gov/Scripts/sticky.js [application/x-javascript] 7,403B
+  200 https://electionresults.nebraska.gov/Scripts/animated-horizontal-charts/jqbar.js [application/x-javascript] 4,904B
+  200 https://electionresults.nebraska.gov/Scripts/Chart.min.js [application/x-javascript] 139,391B
+  200 https://electionresults.nebraska.gov/Scripts/imageMapResizer.min.js [application/x-javascript] 1,857B
+  200 https://electionresults.nebraska.gov/maps/static/js/BuildCountyMap.js [application/x-javascript] 34,842B
+  200 https://electionresults.nebraska.gov/Scripts/jquery-jtemplates.js [application/x-javascript] 11,297B
+  200 https://electionresults.nebraska.gov/maps/static/js/BuildDistrictMap.js [application/x-javascript] 28,371B
+  200 https://electionresults.nebraska.gov/Maps/static/js/BuildSWLegMap.js [application/x-javascript] 2,649B
+  200 https://electionresults.nebraska.gov/maps/static/js/Leaflet.Label/Marker.Label.min.js [application/x-javascript] 884B
+  200 https://electionresults.nebraska.gov/maps/static/js/Leaflet.Label/Path.Label.js [application/x-javascript] 1,193B
+  200 https://electionresults.nebraska.gov/Maps/static/js/Leaflet.Zoom/L.Control.ZoomMin.js [application/x-javascript] 1,995B
+  200 https://electionresults.nebraska.gov/Scripts/BuildCounties.js [application/x-javascript] 5,282B
+  200 https://electionresults.nebraska.gov/Scripts/BuildPrecincts.js [application/x-javascript] 4,260B
+  200 https://electionresults.nebraska.gov/maps/static/js/Leaflet.Label/BaseMarkerMethods.min.js [application/x-javascript] 1,768B
+  200 https://electionresults.nebraska.gov/maps/static/js/underscore-umd-min.js [application/x-javascript] 19,576B
+  200 https://electionresults.nebraska.gov/maps/static/js/Leaflet.Label/FeatureGroup.Label.js [application/x-javascript] 525B
+  200 https://electionresults.nebraska.gov/maps/static/js/Leaflet.Label/Label.min.js [application/x-javascript] 4,080B
+  200 https://electionresults.nebraska.gov/maps/static/js/CreateMap.js [application/x-javascript] 3,871B
+  200 https://electionresults.nebraska.gov/maps/static/js/Leaflet.Label/Map.Label.js [application/x-javascript] 73B
+  200 https://electionresults.nebraska.gov/maps/static/js/Leaflet.Label/CircleMarker.Label.js [application/x-javascript] 192B
+  200 https://electionresults.nebraska.gov/Scripts/jquery/jquery-ui.js [application/x-javascript] 539,530B
+  200 https://electionresults.nebraska.gov/maps/static/js/0_7_7_leaflet.js [application/x-javascript] 125,253B
+  200 https://electionresults.nebraska.gov/Scripts/CountyTurnoutChart.js [application/x-javascript] 11,251B
+  200 https://neresultswebservice.azurewebsites.us/Scripts/script.bundle.js [application/x-javascript] 801,901B
+  200 https://neresultswebservice.azurewebsites.us/ResultsAjax.svc/GetCandidates?ElectionType=General&ElectionID=0 [application/json; charset=ut] 158,350B
+     shape: {"d": [{"__type": "CandidateData:#NEResultsWebService", "ID": 1, "Party": "Nonpartisan", "desc": "Burt County Public Power District - 6  Year Term", "label": "str", "name": "Dwane  Piere "}, "...625 items"]}
+  204 https://www.google-analytics.com/g/collect?v=2&tid=G-Y1QB8H6MWK&gtm=45je6al1v9184557134za208zd9184557134xf1&_p=1792982277696&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1207748997.1792982278&frm=0&ngs=1&pscdl=no [] 0B
+
+==== NEBRASKA congressional: https://electionresults.nebraska.gov/resultsSW.aspx?type=CG&map=DIST ====
+  text: MENU EXPORT MY TRACKED CONTESTS HOME NEBRASKA SECRETARY OF STATE Unofficial Results GENERAL ELECTION NOVEMBER 3, 2026 Results last updated: 10/6/2026 8:49 AM CT STATEWIDE VOTER TURNOUT 0% Ballots Cast 0 Registered Voters 1,259,447 PRECINCTS REPORTING 0% Partially 0 Fully 0 Total 1322 FOR REPRESENTATIVE IN CONGRESS - 2 YEAR TERM - DISTRICT 01 FOLLOW THIS CONTEST EXPORT PRECINCTS FULLY: 0 / 438 | PARTIALLY: 0 / 438 MIKE FLOOD Republican 0% 0 CHRIS BACKEMEYER Democratic 0% 0 NIK SANDMAN Libertarian
+  tables: 0
+  200 https://neresultswebservice.azurewebsites.us/Scripts/script.bundle.js [application/x-javascript] 801,901B
+  200 https://neresultswebservice.azurewebsites.us/ResultsAjax.svc/GetCandidates?ElectionType=General&ElectionID=0 [application/json; charset=ut] 158,350B
+     shape: {"d": [{"__type": "CandidateData:#NEResultsWebService", "ID": 1, "Party": "Nonpartisan", "desc": "Burt County Public Power District - 6  Year Term", "label": "str", "name": "Dwane  Piere "}, "...625 items"]}
+
+==== ALASKA 2024 general: https://www.elections.alaska.gov/election-results/e/?id=24genr ====
+  text: State of Alaska myAlaska Departments State Employees Skip to content Skip to primary navigation Skip to main content Skip to footer Division of Elections State of Alaska Voters Elections Language Assistance Candidates Petitions Political Parties Contact Us Research Election Results To search other certified results, use the Search Results form. Historical election results are available dating back to 1958. 2024 General Election – November 5, 2024 Results Status: Official Page last updated Januar
+  tables: 6
+  table 0:  
+  table 1:  
+  200 https://www.elections.alaska.gov/election-results/e/?id=24genr [text/html; charset=UTF-8] 109,325B
+  200 https://www.elections.alaska.gov/wp-content/plugins/table-sorter/jquery.tablesorter.min.js?ver=b9f12e0586c8f2ed8a51746840165d0d [text/javascript] 41,853B
+  200 https://www.elections.alaska.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1 [text/javascript] 87,553B
+  200 https://www.elections.alaska.gov/wp-content/plugins/table-sorter/jquery.metadata.js?ver=2.2 [text/javascript] 3,892B
+  200 https://www.elections.alaska.gov/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1 [text/javascript] 13,577B
+  200 https://www.elections.alaska.gov/wp-content/plugins/table-sorter/wp-script.js?ver=2.2 [text/javascript] 184B
+  200 https://www.elections.alaska.gov/wp-content/plugins/wpfront-scroll-top/includes/assets/wpfront-scroll-top.min.js?ver=3.0.1.09211 [text/javascript] 1,490B
+  200 https://www.elections.alaska.gov/wp-content/plugins/gutentor/assets/library/wow/wow.min.js?ver=1.2.1 [text/javascript] 8,157B
+  200 https://www.elections.alaska.gov/wp-includes/js/hoverIntent.min.js?ver=1.10.2 [text/javascript] 1,499B
+  200 https://www.elections.alaska.gov/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.10 [text/javascript] 4,499B
+  200 https://www.elections.alaska.gov/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=3.6.2 [text/javascript] 119B
+  200 https://www.elections.alaska.gov/wp-content/themes/genesis/lib/js/menu/responsive-menus.min.js?ver=1.1.3 [text/javascript] 3,676B
+  200 https://www.elections.alaska.gov/wp-content/themes/genesis/lib/js/skip-links.min.js?ver=3.6.2 [text/javascript] 371B
+  200 https://www.elections.alaska.gov/wp-content/plugins/gutentor/assets/library/theia-sticky-sidebar/theia-sticky-sidebar.min.js?ver=1.7.0 [text/javascript] 5,370B
+  200 https://www.elections.alaska.gov/wp-content/plugins/gutentor/assets/js/gutentor.min.js?ver=4.0.5 [text/javascript] 33,017B
+  200 https://www.elections.alaska.gov/wp-content/plugins/formidable-pro/js/frm.min.js?ver=6.34-jquery [text/javascript] 485,921B
+  200 blob:https://www.elections.alaska.gov/5ff00907-1f73-4e85-b894-fc9796c5667a [text/javascript] 1,327B
+  204 https://www.google-analytics.com/g/collect?v=2&tid=G-WKFY24EPT4&gtm=45Pe6am0h2v9106637969za208zd9106637969xf1&_p=1792982296584&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dZTNiMT&_eu=EA&cid=1407293608.179298229 [] 0B
+  200 https://www.elections.alaska.gov/wp-includes/js/wp-emoji-release.min.js?ver=b9f12e0586c8f2ed8a51746840165d0d [text/javascript] 22,752B
+
+==== IOWA primary election page: https://electionresults.iowa.gov/IA/126082/ ====
+  text: Skip to main content IOWA SECRETARY OF STATE Search Select County 2026 Primary Election June 2, 2026 RESULTS Republican 145 Democratic 145 SELECT COUNTY (SELECT COUNTY) MY FAVORITE RACES (MY RACES TRACKER) (0) COUNTIES REPORTING (PRECINCT REPORTING) Official Results HOME RESULTS RESULTS filters Last updated Tuesday, July 14, 2026, 4:12:01 PM (3 months ago) (0) Republican Federal United States Senator - Rep. (Vote For 1) Show Chart Counties reporting99/99 Party Candidate Votes REP Jim Carlin 53,1
+  tables: 20
+  table 0: Party Candidate Votes REP Jim Carlin 53,196 REP Ashley Hinson 153,059 Write-in 531 Vote Cast 206,786
+  table 1: Party Candidate Votes REP Mariannette Miller-Meeks 35,182 REP David Pautsch 13,957 Write-in 79 Vote Cast 49,218
+  202 https://electionresults.iowa.gov/IA/126082/ [text/html; charset=UTF-8] 2,399B
+  404 https://electionresults.iowa.gov/IA/126082/versions.txt [] 0B
+  200 https://electionresults.iowa.gov/IA/126082/web.345435/ [text/html; charset=utf-8] 16,937B
+  200 https://electionresults.iowa.gov/IA/126082/web.345435/runtime.e0434e93626e5a85.js [application/javascript; char] 2,999B
+  200 https://electionresults.iowa.gov/IA/126082/web.345435/polyfills.9997145ec1c0fc64.js [application/javascript; char] 35,396B
+  200 https://electionresults.iowa.gov/IA/126082/web.345435/main.dcd83cf4c43f4a85.js [application/javascript; char] 5,463,235B
+     JS /current_ver/ x1: StraightParty="sp.json",vn.Sum="sum.json",vn.Summary="summary.json",vn.Version="current_ver.txt",vn.VoteCenter="vc.json",vn.VoteCenterStatus="vc_status.json",vn.VoterType="vt.json",vn.SummaryDetail="summary-details.json",vn.WebConf
+     JS /\.json/ x4: const Q=`${this.webConfig.publicAppUri}?host=${encodeURIComponent(this.webConfig.jsonUri)}&widget=${encodeURIComponent(this.widgetSelected.id)}&state=${encodeURIComponent(this.webConfig.State)}&county=${encodeURIComponent(thi || bjectURL(nn),ir=document.createElement("a");ir.href=Fn,ir.download=`${this.name}.json`,ir.click(),window.URL.revokeObjectURL(Fn)}formatNumberWithCommas(Q){const k="string"==typeof Q?parseInt(Q.replace(/,/g,""),10):Q;return is || (r,A,t){"use strict";var u=r("./encrypter"),s=r("./decrypter"),l=r("./modes/list.json");t.createCipher=t.Cipher=u.createCipher,t.createCipheriv=t.Cipheriv=u.createCipheriv,t.createDecipher=t.Decipher=s.createDecipher,t.create || ion(){return Object.keys(l)}},{"./decrypter":192,"./encrypter":193,"./modes/list.json":203}],192:[function(r,A,t){"use strict";var u=r("./authCipher"),s=r("safe-buffer").Buffer,l=r("./modes"),a=r("./streamCipher")
+     JS /summary/ x4: QX],imports:[a.MD,i.dX,Ho,$o,wA,Rt.iI,o.X1]}))}return B(),z})();const K6=()=>["/summary"],X6=B=>({category:B,subcategory:null}),Fc=(B,z)=>({category:B,subcategory:z}),Z6=()=>["/favorite-races"],x5=()=>["/reporting"],q6=()=>["/a || xt"),e.bIt("click",function(){n.eBV(C);const k=e.XpG();return n.Njj(k.setTitle("summary"))}),e.k0s()()}if(2&B){const C=e.XpG();e.AVh("active",C.summary),e.R7$(),e.Y8G("icon",C.faAnglesRight),e.R7$(),e.Y8G("routerLink",e.lJ4(7,K || Njj(k.setTitle("summary"))}),e.k0s()()}if(2&B){const C=e.XpG();e.AVh("active",C.summary),e.R7$(),e.Y8G("icon",C.faAnglesRight),e.R7$(),e.Y8G("routerLink",e.lJ4(7,K6))("innerHTML",e.bMT(3,5,C.strings.summary),e.npT)}}function T5 || sRight),e.R7$(),e.Y8G("routerLink",e.lJ4(7,K6))("innerHTML",e.bMT(3,5,C.strings.summary),e.npT)}}function T5(B,z){if(1&B){const C=e.RV6();e.j41(0,"li",13),e.nrm(1,"fa-icon",11),e.j41(2,"a",14),e.nI1(3,"htmlT
+     JS //\$\{[^}]+\}// x4: (C)})};getScriptSrc(){return le(this.tinymceScriptSrc)?`https://cdn.tiny.cloud/1/${this.apiKey}/tinymce/${this.cloudChannel}/tinymce.min.js`:this.tinymceScriptSrc}initEditor(C){D(C,"blur",this.destroy$).subscribe(()=>{this.cdRef.markFor || eturn le(this.tinymceScriptSrc)?`https://cdn.tiny.cloud/1/${this.apiKey}/tinymce/${this.cloudChannel}/tinymce.min.js`:this.tinymceScriptSrc}initEditor(C){D(C,"blur",this.destroy$).subscribe(()=>{this.cdRef.markForCheck(),this.ngZone.run(()=>t || ect.defineProperty(c,n.yAH,{get:()=>(null===E&&(E=y().compileInjectable(M,`ng:///${c.name}/\u0275prov.js`,function Pt(c,p){const E=p||{providedIn:null},x={name:c.name,type:c,typeArgumentCount:0,providedIn:E.providedIn};return(Tn(E) || eProperty(c,n.zSs,{get:()=>{if(null===x){const U=y();x=U.compileFactory(M,`ng:///${c.name}/\u0275fac.js`,{name:c.name,type:c,typeArgumentCount:0,deps:Nt(c),target:U.FactoryTarget.
+     JS /ElectionId|electionId|EID/ x4: d)||"copied")}}let gE=(()=>{var B;class z{get settingId(){return this.webConfig.EID}get Uri(){return""}constructor(Q,k,re,rt){this.activeModal=Q,this.formBuilder=k,this.modalService=re,this.sanitizer=rt,this.strings={},this || odeURIComponent(this.webConfig.County)}&eid=${encodeURIComponent(this.webConfig.EID)}&contest=${encodeURIComponent(this.data)}`;return[Q,this.sanitizer.bypassSecurityTrustResourceUrl(Q)]}static#e=B=()=>(this.\u0275fac=funct || rticipatingCountyService.getDataInfo(k,this.countyService.processName(Q.name),Q.electionId,Q.version,Q.template.getTemplateId())}toggleParticipatingCountie(Q){this.isActive(Q)||this.loadContestsOf(Q).subscribe(({contests:k})=>{thi || s.enrDataService.load(this.webConfig.State,this.webConfig.County,this.webConfig.EID,null,De).pipe((0,Nt.c)(0),(0,It.M)(({version:Fe})=>this.appService.version=Fe),(0,It.M)(({settings:Fe})=>{Lr.Yf.create("global",
+  200 https://electionresults.iowa.gov/IA/126082/web.345435/web.json [application/json] 114B
+     shape: {"State": "IA", "County": "", "EID": "126082", "jsonUri": "https://electionresults.iowa.gov/", "apiUri": "", "results": true}
+  200 https://electionresults.iowa.gov/IA/126082/web.345435/672.9517f3a21935967f.js [application/javascript; char] 16,943B
+  200 https://electionresults.iowa.gov/IA/126082/current_ver.txt [text/plain; charset=utf-8] 6B
+  200 https://electionresults.iowa.gov/IA/126082/377216/json/config.json [application/json] 82B
+     shape: {"languages": "en|English", "lang": "en", "isPublished": true, "versionTemplate": 345435}
+  200 https://electionresults.iowa.gov/IA/126082/377216/json/en/electionsettings.json?1792982307551 [application/json] 53,076B
+     shape: {"settings": {"hasvotecenters": "NoneType", "totalprecinctsreporting": 0, "numberofprecinctsreporting": 0, "winners": {"18300": {"runofflist": "", "recountlist": "", "winnerlist": "124|Amy Tagliareni"}, "13700": {"runofflist": "", "recountlist": "", "winnerlist": "001|Benjamin Thomas Larson"}, "13500": {"runofflist": "", "recountlist": "", "winnerlist": "130|Tripp Narup"}, "6900": {"runofflist": "", "recountlist": "", "winnerlist": "134|Jim Vowels"}, "28900": {"runofflist": "", "recountlist": "", "winnerlist": "001|Adam Zabner"}, "12500": {"runofflist": "", "recountlist": "", "winnerlist": ""}, "1700": {"runofflist": "", "recountlist": "", "winnerlist": "122|Sarah Trone Garriott"}, "7300": {
+  200 https://electionresults.iowa.gov/IA/126082/377216/json/en/nav.json [application/json] 1,233B
+     shape: [{"T": "Republican", "KEY": "C_1", "N": [{"T": "Federal", "KEY": "C_1_1", "Contests": 5}, "...8 items"], "Contests": 145}, "...2 items"]
+  200 https://electionresults.iowa.gov/IA/126082/377216/json/details.json [application/json] 127,396B
+     shape: {"Contests": [{"PX": [5, "...99 items"], "PY": [5, "...99 items"], "K": "1000", "Eid": ["126083", "...99 items"], "Cid": ["287", "...99 items"], "P": ["Adair", "...99 items"], "V": [[161, "...3 items"], "...99 items"], "T": [664, "...99 items"]}, "...272 items"]}
+  200 https://electionresults.iowa.gov/IA/126082/377216/json/vt.json [application/json] 20,880B
+     shape: {"Types": ["Election Day", "...2 items"], "Contests": [{"K": "1000", "Votes": [[46121, "...2 items"], "...3 items"], "T": [181222, "...2 items"]}, "...272 items"]}
+  200 https://electionresults.iowa.gov/IA/126082/377216/json/status.json [application/json] 3,242B
+     shape: {"PX": [5, "...99 items"], "PY": [5, "...99 items"], "P": ["Adair", "...99 items"], "S": [4, "...99 items"], "R": [5157, "...99 items"], "B": [958, "...99 items"], "C": [1, "...99 items"], "CONTEST": [0, "...99 items"], "PT": "NoneType", "U": 1}
+  404 https://electionresults.iowa.gov/IA/126082/377216/json/vc_status.json [text/html; charset=utf-8] 2,616B
+  200 https://electionresults.iowa.gov/IA/126082/377216/json/colors.json [application/json] 69,448B
+     shape: {"AC": ["#FFFFFF", "...45 items"], "Contests": [{"K": "1000", "C": [30, "...3 items"], "P": [28, "...99 items"]}, "...272 items"]}
+  404 https://electionresults.iowa.gov/IA/126082/377216/json/contestdistrictconfig.json [text/html; charset=utf-8] 2,616B
+  404 https://electionresults.iowa.gov/IA/126082/377216/json/multicountycontestconfig.json [text/html; charset=utf-8] 2,616B
+  200 https://electionresults.iowa.gov/IA/126082/377216/json/sum.json [application/json] 175,478B
+     shape: {"VPCFE": false, "Contests": [{"CATKEY": "NoneType", "CAT": "NoneType", "C": "United States Senator - Rep.", "K": "1000", "AggID": "1000", "regvoters": 0, "BCxContest": 0, "VF": 1, "TP": 99, "PR": 99, "TV": 2147930, "BC": 411785, "RC": 0, "RO": 0, "CH": ["Jim Carlin", "...3 items"], "CHAggId": [1, "...3 items"], "P": ["REP", "...3 items"], "PCT": [25.7251458029074, "...3 items"]}, "...272 items"]}
+  404 https://electionresults.iowa.gov/IA/126082/377216/json/sp.json [text/html; charset=utf-8] 2,616B
+  404 https://electionresults.iowa.gov/IA/126082/377216/json/en/summary-details.json [text/html; charset=utf-8] 2,616B
+  200 https://electionresults.iowa.gov/IA/126082/377216/json/en/summary.json [application/json] 191,072B
+     shape: [{"CATKEY": "C_1", "CAT": "Republican", "SUBCATKEY": "C_1_1", "SUBCAT": "Federal", "C": "United States Senator - Rep.", "K": "1000", "AggID": "NoneType", "regvoters": 0, "BCxContest": 0, "VF": 1, "TP": 99, "PR": 88, "TV": 0, "BC": 0, "RC": 0, "RO": 0, "CH": ["Jim Carlin", "...3 items"], "CHAggId": "NoneType"}, "...272 items"]
+  200 https://electionresults.iowa.gov/IA/126082/377216/json/Election_Day.json [application/json] 61,159B
+     shape: {"Contests": [{"A": "Adair", "C": ["1000", "...18 items"], "V": [[130, "...3 items"], "...18 items"], "T": [543, "...18 items"]}, "...100 items"]}
+  200 https://electionresults.iowa.gov/IA/126082/377216/json/ALL.json [application/json] 61,793B
+     shape: {"Contests": [{"A": "Adair", "C": ["1000", "...18 items"], "V": [[161, "...3 items"], "...18 items"], "T": [664, "...18 items"]}, "...100 items"]}
+  200 https://electionresults.iowa.gov/IA/126082/377216/json/Absentee.json [application/json] 61,159B
+     shape: {"Contests": [{"A": "Adair", "C": ["1000", "...18 items"], "V": [[130, "...3 items"], "...18 items"], "T": [543, "...18 items"]}, "...100 items"]}
+  200 https://electionresults.iowa.gov/IA/126082/377216/json/a84ac0fe-d70d-4504-bdc1-b7a2b08d4443.json [application/json] 108,184B
+     shape: [{"Name": "Scott", "Cords": "NoneType", "GCords": "str", "NV": "NoneType", "Data": "[desc]", "Color": "#FF0000"}, "...99 items"]
+  204 https://www.google-analytics.com/g/collect?v=2&tid=G-WMVN49168Q&gtm=45je6al1v897044927za208zb9246580984zd9246580984xf1&_p=1792982306458&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1908738630.1792982308&frm=0&ngs [] 0B
+
+==== SC list: https://www.enr-scvotes.org/SC/ ====
+  text: Election List Election Night Reporting Filter by: ALL Elections not available! Copyright 2026 - SOE Software Powered by SOE Software
+  tables: 0
+  202 https://www.enr-scvotes.org/SC/ [text/html; charset=UTF-8] 2,399B
+  200 https://www.enr-scvotes.org/SC/runtime.3346ff4c4348be22.js [application/javascript; char] 888B
+  200 https://www.enr-scvotes.org/SC/polyfills.1d7e5585264e248b.js [application/javascript; char] 34,836B
+  200 https://www.enr-scvotes.org/SC/main.368091a9cfbee61b.js [application/javascript; char] 283,327B
+  200 https://www.enr-scvotes.org/SC/elections.json?v=1792982315866 [application/json] 2B
+     shape: ["empty", "...0 items"]
