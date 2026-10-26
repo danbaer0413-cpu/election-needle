@@ -12,7 +12,7 @@ ME-senate,,,,,,,,,,,,,,,"PORTAL https://www.maine.gov/sos/cec/elec/results/index
 AK-senate,,,,,,,,,,,,,,,PORTAL https://www.elections.alaska.gov/results/ | Division of Elections | verified: Partly
 TX-senate,https://results.texas-election.com,texas,,,,,,,,,,,,,Texas static JSON (found by browser probe); race and 2026 election id found automatically | PORTAL https://results.texas-election.com | Secretary of State | verified: Archive yes; live URL from memory
 TX-governor,https://results.texas-election.com,texas,,,,,,,,,,,,,Texas static JSON (found by browser probe); race and 2026 election id found automatically | PORTAL https://results.texas-election.com | Secretary of State | verified: Archive yes; live URL from memory
-SC-senate,,,,,,,,,,,,,,,PORTAL https://www.enr-scvotes.org/SC/ | State Election Commission (not SOS) | verified: Yes
+SC-senate,https://www.enr-scvotes.org/SC,soe,,,,,,,,,,,,,South Carolina SOE Software (same platform as Iowa); works once the 2026 general is listed
 MS-senate,,,,,,,,,,,,,,,PORTAL https://www.sos.ms.gov/elections-voting/election-results | Secretary of State | verified: Agency yes; path from memory
 FL-governor,https://floridaelectionwatch.gov/StateOffices/Governor,florida,,,,,,,,,,,,,Florida Election Watch county table
 GA-governor,https://results.sos.ga.gov,georgia,,,,,,,,,,,,,Georgia SOS API (found by probe); race and county breakdown read automatically
@@ -22,7 +22,7 @@ GA-senate,https://results.sos.ga.gov,georgia,,,,,,,,,,,,,Georgia SOS API (found 
 ME-governor,,,,,,,,,,,,,,,"PORTAL https://www.maine.gov/sos/cec/elec/results/index.html | Secretary of State (Bureau of Corporations, Elections & Commissions) | verified: Yes"
 NH-senate,,,,,,,,,,,,,,,PORTAL https://sos.nh.gov | Secretary of State | verified: Agency yes; results portal not confirmed
 FL-senate,https://floridaelectionwatch.gov/FederalOffices/USSenator,florida,,,,,,,,,,,,,Florida Election Watch county table
-SC-governor,,,,,,,,,,,,,,,PORTAL https://www.enr-scvotes.org/SC/ | State Election Commission (not SOS) | verified: Yes
+SC-governor,https://www.enr-scvotes.org/SC,soe,,,,,,,,,,,,,South Carolina SOE Software (same platform as Iowa); works once the 2026 general is listed
 IA-governor,https://electionresults.iowa.gov/IA,soe,,,,,,,,,,,,,Iowa SOE Software JSON (found by probe); uses a normal headless browser if the site's invisible check blocks plain requests
 AK-governor,,,,,,,,,,,,,,,PORTAL https://www.elections.alaska.gov/results/ | Division of Elections | verified: Partly
 MI-governor,,,,,,,,,,,,,,,PORTAL https://mi.gov/vote | Department of State | verified: Yes
