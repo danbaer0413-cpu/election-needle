@@ -1,0 +1,248 @@
+==== NEBRASKA data-service methods ====
+  methods: []
+
+==== MN governor (Aug primary): https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&scenario=Governor&officeInElectionId=38695 ====
+  status 200 BLOCKED=False title='Index - Election Results'
+  text: "Skip to main content MENU Toggle navigation OFFICE OF THE MINNESOTA SECRETARY OF STATE STEVE SIMON SEARCH SEARCH Elections & Voting Español Hmoob Soomaali Tiếng Việt Pусский 中文 ພາສາລາວ Afaan Oromo ខ្មែរ አማርኛ ကညီကျိာ် Register to Vote Election Day Voting Other Ways to Vote What's on My Ballot? Electi"
+  tables: 3
+  table 0: Counties Reporting: 87 of 87 Counties Complete: 87 Precincts Reporting in State: 100% 4,105 of 4,105 Last Updated: 08/19/26 8:47 PM Voters Registered at 7AM: 3,889,442
+  table 1:  Counties Reporting: 87 of 87 Counties Complete: 87 Precincts Reporting in State: 100% 4,105 of 4,105 Last Updated: 08/19/26 8:47 PM Voters Registered at 7AM: 3,889,442 
+  table 2: Governor & Lt Governor Republican Candidate Totals Percent Graph John Krhin and Dennis Conn 4,663 1.13% Ross Nova and Kerry Busby 2,760 0.67% Loner Blue and Andrew Maass 1,393 0.34% Mike Lindell and Phillip C Parrish 134,282 32.47% Raul J Estrada and Joe Kincaid 2,411 0.58% Lisa Demuth and Ryan Wilson 179,683 43.44% Kendall Qualls and Brian Nicholson 88,413 21.38% Democratic-Farmer-Labor Candidate Totals Percent Grap
+  link 'Skip to main content' -> https://electionresults.sos.mn.gov/Results/Index?ersElectionId=200&scenario=Governor&officeInElectionId=38695#main-content
+  link 'Election Results' -> https://www.sos.mn.gov/elections-voting/election-results
+  link 'Find County Election Office' -> https://www.sos.mn.gov/elections-voting/find-county-election-office/
+  link 'Results Home' -> https://electionresults.sos.mn.gov/200
+
+==== MN US Senate (Aug primary): https://electionresults.sos.mn.gov/Results/Index?ErsElectionId=200&officeInElectionIdList=38485&officeInElectionIdList=-1&scenario=USSenate&electionDate=08%2F11%2F2026%2000%3A00%3A00 ====
+  status 200 BLOCKED=True title='Radware Captcha Page'
+  text: 'We apologize for the inconvenience... ...but your activity and behavior on this site made us think that you are a bot. Note: A number of things could be going on here. If you are attempting to access this site using an anonymous Private/Proxy network, please disable that and try accessing site again'
+  tables: 0
+  data call 200 https://api.hcaptcha.com/checksiteconfig?v=aca5f59ac1dedd238fa84e3f3225f622e5735959&host=validate.perfdrive.com&sitekey=ae73173b-7003-44e0-bc87-654d0dab8b75&sc=1&swa=1&spst=1 [application/json]
+
+==== NH 2026 results: https://www.sos.nh.gov/2026-election-results ====
+  status 403 BLOCKED=True title='Access Denied'
+  text: 'Access Denied You don\'t have permission to access "http://www.sos.nh.gov/2026-election-results" on this server. Reference #18.dd4f4317.1792983245.2c23ac21 https://errors.edgesuite.net/18.dd4f4317.1792983245.2c23ac21'
+  tables: 0
+
+==== NH 2024 results: https://www.sos.nh.gov/2024-election-results ====
+  status 403 BLOCKED=True title='Access Denied'
+  text: 'Access Denied You don\'t have permission to access "http://www.sos.nh.gov/2024-election-results" on this server. Reference #18.dd4f4317.1792983254.2c23b254 https://errors.edgesuite.net/18.dd4f4317.1792983254.2c23b254'
+  tables: 0
+
+==== NV Clark results TV: https://elections.clarkcountynv.gov/ElectionResultsTV/ ====
+  status 200 BLOCKED=False title='Election Results'
+  text: ' 2026 General Election '
+  tables: 1
+  table 0: 2026 General Election 
+
+==== NV Clark early vote: https://elections.clarkcountynv.gov/ElectionResultsTV/evturnout.aspx ====
+  status 200 BLOCKED=False title='Early Voting Turnout Summary'
+  text: '2026 GENERAL ELECTION Early Voting Turnout Early Voting Site Turnout ARROYO MARKET SQUARE - EV 5,388 BLUE DIAMOND CROSSING CENTER - EV 4,957 CAMBRIDGE RECREATION CENTER - EV 1,225 CRAIG RANCH REGIONAL PARK - EV 4,002 DESERT BREEZE COMMUNITY CENTER - EV 4,657 DOWNTOWN SUMMERLIN - EV 4,645 GALLERIA AT'
+  tables: 6
+  table 0: 2026 GENERAL ELECTION Early Voting Turnout Early Voting Site Turnout ARROYO MARKET SQUARE - EV 5,388 BLUE DIAMOND CROSSING CENTER - EV 4,957 CAMBRIDGE RECREATION CENTER - EV 1,225 CRAIG RANCH REGIONAL PARK - EV 4,002 DESERT BREEZE COMMUNITY CENTER - EV 4,657 DOWNTOWN SUMMERLIN - EV 4,645 GALLERIA AT SUNSET - EV 9,890 HENDERSON CITY HALL - EV 2,938 IKEA - EV 2,139 LAS VEGAS CITY HALL - EV 344 LAS VEGAS ATHLETIC CLUB -
+  table 1: 2026 GENERAL ELECTION Early Voting Turnout Early Voting Site Turnout ARROYO MARKET SQUARE - EV 5,388 BLUE DIAMOND CROSSING CENTER - EV 4,957 CAMBRIDGE RECREATION CENTER - EV 1,225 CRAIG RANCH REGIONAL PARK - EV 4,002 DESERT BREEZE COMMUNITY CENTER - EV 4,657 DOWNTOWN SUMMERLIN - EV 4,645 GALLERIA AT SUNSET - EV 9,890 HENDERSON CITY HALL - EV 2,938 IKEA - EV 2,139 LAS VEGAS CITY HALL - EV 344 LAS VEGAS ATHLETIC CLUB -
+  table 2: Early Voting Site Turnout ARROYO MARKET SQUARE - EV 5,388 BLUE DIAMOND CROSSING CENTER - EV 4,957 CAMBRIDGE RECREATION CENTER - EV 1,225 CRAIG RANCH REGIONAL PARK - EV 4,002 DESERT BREEZE COMMUNITY CENTER - EV 4,657 DOWNTOWN SUMMERLIN - EV 4,645 GALLERIA AT SUNSET - EV 9,890 HENDERSON CITY HALL - EV 2,938 IKEA - EV 2,139 LAS VEGAS CITY HALL - EV 344 LAS VEGAS ATHLETIC CLUB - DECATUR - EV 6,857 LAS VEGAS ATHLETIC CLUB
+  table 3: Daily Turnout - Week 1 Early Voting Site 10/17 10/18 10/19 10/20 10/21 10/22 10/23 Totals ARROYO MARKET SQUARE - EV 954 513 741 650 600 561 622 4,641 BLUE DIAMOND CROSSING CENTER - EV 957 563 585 567 482 469 513 4,136 CAMBRIDGE RECREATION CENTER - EV 250 98 159 143 141 139 160 1,090 CRAIG RANCH REGIONAL PARK - EV 782 384 483 432 441 392 431 3,345 DESERT BREEZE COMMUNITY CENTER - EV 902 361 670 554 565 484 522 4,058 D
+  link 'Early Voting Team Schedule for the General Election.' -> https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:24274aa4-1833-4bf3-bf1d-972ff4c30ae7/original/as/evteamsched-26g.pdf
+
+==== NV Washoe dashboard: https://electionresults.washoecounty.gov/ ====
+  status 503 BLOCKED=False title='Washoe County Election Results'
+  text: 'Washoe County Registrar of Voters Genral Election Results 2026 General Election results will be displayed here after the election.'
+  tables: 0
+  link '' -> https://www.washoecounty.gov/voters/
+
+==== NV Washoe files: https://www.washoecounty.gov/voters/results/results.php ====
+  status 200 BLOCKED=False title='2026 Primary Results Files - Washoe County'
+  text: 'Skip to content Select Language English Español Filipino 简体中文 Tiếng Việt ਪੰਜਾਬੀ Français Deutsch Italiano Русский Українська LIVING HERE DOING BUSINESS HEALTH & SAFETY HOMES & PROPERTY YOUR GOVERNMENT ALL DEPARTMENTS Registrar of Voters UP Results Dashboard 2026 Primary Results Files Turnout Tracker'
+  tables: 0
+  link 'Skip to content' -> https://www.washoecounty.gov/voters/results/results.php#subpageText
+  link 'Living Here' -> https://www.washoecounty.gov/living_here/index.php
+  link 'Doing Business' -> https://www.washoecounty.gov/doing_business/index.php
+  link 'Health & Safety' -> https://www.washoecounty.gov/health_safety/index.php
+  link 'Homes & Property' -> https://www.washoecounty.gov/homes_and_property/index.php
+  link 'Your Government' -> https://www.washoecounty.gov/your_government/index.php
+  link 'All Departments' -> https://www.washoecounty.gov/your_government/departments.php
+  link '' -> https://www.washoecounty.gov/contact.php
+  link '' -> https://twitter.com/washoecounty
+  link '' -> https://www.facebook.com/washoecounty
+  link '' -> https://www.washoecounty.gov/mgrsoff/divisions/Communications/WCTV/index.php
+  link 'Washoe County, NV' -> https://www.washoecounty.gov/index.php
+  link 'Get Involved' -> https://www.washoecounty.gov/bcc/index.php
+  link 'Library System' -> https://www.washoecountylibrary.us/
+  link 'Parks & Open Spaces' -> https://www.washoecounty.gov/parks/index.php
+  link 'Regional Animal Services' -> https://www.washoecounty.gov/animal/index.php
+  link 'Events and Clinics' -> https://www.washoecounty.gov/animal/Services%20and%20Resources/index.php
+  link 'Licenses' -> https://www.washoecounty.gov/animal/Licenses/index.php
+
+==== AK 2024 general tables: https://www.elections.alaska.gov/election-results/e/?id=24genr ====
+  status 200 BLOCKED=False title='Election - Division of Elections'
+  text: 'State of Alaska myAlaska Departments State Employees Skip to content Skip to primary navigation Skip to main content Skip to footer Division of Elections State of Alaska Voters Elections Language Assistance Candidates Petitions Political Parties Contact Us Research Election Results To search other c'
+  tables: 6
+  table 0:  
+  table 1:  
+  table 2: 
+  table 3: Contest File Type US House pdf HD06 pdf HD28 pdf HD36 pdf HD38 pdf HD40 pdf SD D pdf SD F pdf SD L pdf HD28 (Recount) pdf
+  link 'Statewide Links' -> https://www.elections.alaska.gov/election-results/e/?id=24genr#SOAfooterlinks
+  link 'Skip to content' -> https://www.elections.alaska.gov/election-results/e/?id=24genr#main_content
+  link 'Skip to primary navigation' -> https://www.elections.alaska.gov/election-results/e/?id=24genr#genesis-nav-primary
+  link 'Skip to main content' -> https://www.elections.alaska.gov/election-results/e/?id=24genr#genesis-content
+  link 'Skip to footer' -> https://www.elections.alaska.gov/election-results/e/?id=24genr#genesis-footer-widgets
+  link 'Election Results' -> https://www.elections.alaska.gov/election-results/
+  link 'use the Search Results' -> https://www.elections.alaska.gov/election-results/#officialresults
+  link '' -> https://www.elections.alaska.gov/results/24GENR/20241204_Combined-Ballot-Count-Report.html
+  link 'Results Map' -> https://www.elections.alaska.gov/results/24GENR/map/
+  link 'Download Cast Vote Record' -> https://www.elections.alaska.gov/results/24GENR/CVR_Export_20241130154411.zip
+  link 'Summary' -> https://www.elections.alaska.gov/results/24GENR/ElectionSummaryReport.pdf
+  link 'Summary' -> https://www.elections.alaska.gov/results/24GENR/ENRbyPrecinct.csv
+  link 'Summary – Recount Results' -> https://www.elections.alaska.gov/results/24GENR/ElectionSummaryReport-Recount-Result.pdf
+  link 'HD01' -> https://www.elections.alaska.gov/results/24GENR/HD1.pdf
+  link 'HD02' -> https://www.elections.alaska.gov/results/24GENR/HD2.pdf
+  link 'HD03' -> https://www.elections.alaska.gov/results/24GENR/HD3.pdf
+  link 'HD04' -> https://www.elections.alaska.gov/results/24GENR/HD4.pdf
+  link 'HD05' -> https://www.elections.alaska.gov/results/24GENR/HD5.pdf
+
+==== WI Dane latest: https://elections.countyofdane.com/Election-Result/197 ====
+  status 200 BLOCKED=False title='Election Result'
+  text: ' Toggle Dropdown Translate Home Dates and Results How to Vote Run for Office Campaign Finance Auditing Contact Us Election and Voting Information 2026 General Election Unofficial Results Disclaimer Please Select A Race BALLOTS CAST - TOTAL Governor / Lieutenant Governor Attorney General Secretary of'
+  tables: 34
+  table 0: Candidate Vote Percentage Number of Votes REP Tom Tiffany /David Varnam (REP) 0.0% 0 DEM David Crowley /Sarah Godlewski (DEM) 0.0% 0 write-in: (NON) 0.0% 0
+  table 1: Candidate Vote Percentage Number of Votes REP Eric Toney (REP) 0.0% 0 DEM Josh Kaul (DEM) 0.0% 0 write-in: (NON) 0.0% 0
+  table 2: Candidate Vote Percentage Number of Votes REP Jay Schroeder (REP) 0.0% 0 DEM JoCasta Zamarripa (DEM) 0.0% 0 GRN Pete Karas (GRN) 0.0% 0 write-in: (NON) 0.0% 0
+  table 3: Candidate Vote Percentage Number of Votes REP John S. Leiber (REP) 0.0% 0 DEM Yee Leng Xiong (DEM) 0.0% 0 write-in: (NON) 0.0% 0
+  link '' -> http://www.countyofdane.com/
+  link 'Translate' -> https://elections.countyofdane.com/Election-Result/197#footer
+  link 'Resident' -> https://www.danecounty.gov/Resident
+  link 'Online Services' -> https://www.danecounty.gov/online-services-old
+  link 'Permits & Licenses' -> https://www.danecounty.gov/permits-and-licenses
+  link 'Voting & Elections' -> https://elections.danecounty.gov/
+  link 'Human Services' -> https://www.danecountyhumanservices.org/
+  link 'Events' -> https://www.danecounty.gov/events
+  link 'Landfill' -> https://landfill.danecounty.gov/
+  link 'Get Involved' -> https://www.danecounty.gov/get-involved
+  link 'Visitor' -> https://www.danecounty.gov/Visitor
+  link 'Parks' -> https://www.danecountyparks.com/
+  link 'Business' -> https://www.danecounty.gov/Business
+  link 'Doing Business with Dane' -> https://www.danecounty.gov/doing-business
+  link 'Access Dane' -> https://accessdane.danecounty.gov/
+  link 'Grants & Loans' -> https://www.danecounty.gov/business/grants
+  link 'Economic Development' -> https://cdbg.danecounty.gov/Economic-Development
+  link 'Facility Rental' -> https://www.danecounty.gov/facility-rental
+  data call 200 https://cdn.danecounty.gov/json/departments/globalStaticDepartmentFooter.json [application/json]
+  data call 200 https://cdn.danecounty.gov/json/departments/globalnav.json [application/json]
+
+==== WI Waukesha: http://electionresults.waukeshacounty.gov/contests.aspx?contest=-1 ====
+  status 200 BLOCKED=False title='Official Election Results | Waukesha County'
+  text: 'This website uses cookies to enhance usability and provide you with a more personal experience. By using this website, you agree to our use of cookies as explained in our Privacy Policy. Agree Skip to main content Skip to footer Waukesha County Living in Waukesha County Expand sub pages Living in Wa'
+  tables: 5
+  table 0: ×Search 
+  table 1: ×
+  table 2: 2026 OFFICIAL ELECTION RESULTS August 11 Official Results (View Only) April 7 Official Results (View Only) February 17 Official Results (View Only) August 11 Official Results (Detail) April 7 Official Results (Detail) February 17 Official Results (Detail-View Only)
+  table 3: 2025 OFFICIAL ELECTION RESULTS February 18 Official Results (View Only) April 1 Official Results (View Only) February 18 Official Results (Detail) April 1 Official Results (Detail) 2024 OFFICIAL ELECTION RESULTS April 2 Official Results (View only) August 13 Official Federal/State Results (View Only) August 13 Official County Results (View Only) November 5 Official Federal/State Results (View Only) November 5 Officia
+  link 'Privacy Policy' -> https://www.waukeshacounty.gov/website-policies-notices/
+  link 'Skip to main content' -> https://www.waukeshacounty.gov/county-clerks-office/election-information/official-election-results/#site-content
+  link 'Skip to footer' -> https://www.waukeshacounty.gov/county-clerks-office/election-information/official-election-results/#site-footer
+  link 'Waukesha County' -> https://www.waukeshacounty.gov/
+  link 'Living in Waukesha County' -> https://www.waukeshacounty.gov/living-in-waukesha-county/
+  link 'Adult, Child, and Family Services' -> https://www.waukeshacounty.gov/health-and-human-services/
+  link 'Aging and Disability Resource Center' -> https://www.waukeshacounty.gov/health-and-human-services/aging-and-disability-resource-center-adrc-of-waukesha-county/
+  link 'Animal Services' -> https://www.waukeshacounty.gov/parks-and-land-use/environmental-health/animal-welfare/
+  link 'Birth, Death and Marriage Certificates' -> https://www.waukeshacounty.gov/register-of-deeds/vital-records/
+  link 'Community Block Grant' -> https://www.waukeshacounty.gov/parks-and-land-use/community-development/community-development/
+  link 'Deeds/Land Records' -> https://www.waukeshacounty.gov/register-of-deeds/land-records/
+  link 'Elections' -> https://www.waukeshacounty.gov/county-clerks-office/election-information/
+  link 'Emergency Preparedness' -> https://www.waukeshacounty.gov/emergency-preparedness/
+  link 'Extension Waukesha County' -> https://waukesha.extension.wisc.edu/
+  link 'Geographic Information System (GIS)' -> https://www.waukeshacounty.gov/parks-and-land-use/land-information-system/
+  link 'Housing' -> https://www.waukeshacounty.gov/parks-and-land-use/community-development/housing/
+  link 'Lake and River Quality' -> https://www.waukeshacounty.gov/parks-and-land-use/land-resources-division/water-quality/
+  link 'Marriage License' -> https://www.waukeshacounty.gov/county-clerks-office/marriage-licenses/
+
+==== WI Brown results: https://www.browncountywi.gov/departments/county-clerk/elections/election-results/ ====
+  status 200 BLOCKED=False title='Brown County > Departments > County Clerk > Elections > Elec'
+  text: 'Press Alt+1 for screen-reader mode, Alt+0 to cancel Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window Select Language\u200b▼ County Clerk > Elections County Clerk » Elections Election Results Please select a year below to view election results. 2026 2025 2024 2023 2022 2021 20'
+  tables: 19
+  table 0:  Home Government -About Brown County -Brown County Payments -Committees -County Board of Supervisors -County Calendar -County Executive -District Attorney -Elected Officials -FAQ -Forms & Documents -History of Brown County -Minutes & Agendas -Sheriff's Office -Sheriff's Office - Jail Division Departments -Administration -Aging and Disability Resource Center -Child Support -Circuit Court -Clerk of Circuit Court -Commu
+  table 1:  -About Brown County -Brown County Payments -Committees -County Board of Supervisors -County Calendar -County Executive -District Attorney -Elected Officials -FAQ -Forms & Documents -History of Brown County -Minutes & Agendas -Sheriff's Office -Sheriff's Office - Jail Division 
+  table 2:  -Administration -Aging and Disability Resource Center -Child Support -Circuit Court -Clerk of Circuit Court -Community Services -Community Treatment Center -Corporation Counsel -County Board Office -County Clerk -Criminal Justice Services -Emergency Management -Extension Brown County -Facilities -Health & Human Services -Highway -Housing Authority -Human Resources -Information Technology -Land & Water Conservation -
+  table 3:  -Airport -Brown County Expo Center -Community Gardens -Covid-19 -Crime Prevention Grant -Flooding in Brown County -Foster Parenting -Golf Course -Library -Municipalities -Neville Public Museum -NEW Zoo & Adventure Park -Parks Department -Port of Green Bay -Public School Districts -Social Media Community -STEM Innovation -Virtual Brown County -Volunteer Community 
+  link '' -> https://www.browncountywi.gov/
+  link '' -> https://www.browncountywi.gov/government/
+  link '' -> https://www.browncountywi.gov/departments/
+  link '' -> https://www.browncountywi.gov/community/
+  link '' -> https://www.browncountywi.gov/site-search/
+  link '-About Brown County' -> https://www.browncountywi.gov/government/about-brown-county/
+  link '-Brown County Payments' -> https://www.browncountywi.gov/government/brown-county-payments/
+  link '-Committees' -> https://www.browncountywi.gov/government/committees/
+  link '-County Board of Supervisors' -> https://www.browncountywi.gov/government/county-board-of-supervisors/
+  link '-County Calendar' -> https://www.browncountywi.gov/government/county-calendar/
+  link '-County Executive' -> https://www.browncountywi.gov/government/county-executive/
+  link '-District Attorney' -> https://www.browncountywi.gov/government/district-attorney/
+  link '-Elected Officials' -> https://www.browncountywi.gov/government/elected-officials/
+  link '-FAQ' -> https://www.browncountywi.gov/government/faq/
+  link '-Forms & Documents' -> https://www.browncountywi.gov/government/forms-documents/
+  link '-History of Brown County' -> https://www.browncountywi.gov/government/history-of-brown-county/
+  link '-Minutes & Agendas' -> https://www.browncountywi.gov/government/minutes-agendas/
+  link "-Sheriff's Office" -> https://www.browncountywi.gov/government/sheriffs-office/
+  data call 200 https://cdn.acsbapp.com/config/browncountywi.gov/config.json [application/json]
+
+==== WI Outagamie 2026: https://www.outagamie.gov/Our-County/County-Clerk/Elections/Outagamie-County-Election-Results/2026-Elections ====
+  status 200 BLOCKED=False title='2026 Elections | Outagamie County, Wisconsin'
+  text: 'Skip to main content Quick Links: Contact UsStaff Login English (United States) is your current preferred language. MENU Search Home / Our County/ County Clerk / Elections / Outagamie County Election Results / 2026 Elections County Clerk Menu 2026 Elections On Election Day, polls are open from 7 a.m'
+  tables: 0
+  link 'Skip to main content' -> https://www.outagamie.gov/Our-County/County-Clerk/Elections/Outagamie-County-Election-Results/2026-Elections#main-content
+  link 'Contact Us' -> https://www.outagamie.gov/Our-County/Contact-Us
+  link 'English (United States) Select this as your preferred langua' -> https://www.outagamie.gov/Our-County/County-Clerk/Elections/Outagamie-County-Election-Results/2026-Elections?oc_lang=en-US
+  link 'Hmong Select this as your preferred language' -> https://www.outagamie.gov/Our-County/County-Clerk/Elections/Outagamie-County-Election-Results/2026-Elections?oc_lang=hmn
+  link 'Spanish Select this as your preferred language' -> https://www.outagamie.gov/Our-County/County-Clerk/Elections/Outagamie-County-Election-Results/2026-Elections?oc_lang=es
+  link 'German Select this as your preferred language' -> https://www.outagamie.gov/Our-County/County-Clerk/Elections/Outagamie-County-Election-Results/2026-Elections?oc_lang=de
+  link 'Swahili Select this as your preferred language' -> https://www.outagamie.gov/Our-County/County-Clerk/Elections/Outagamie-County-Election-Results/2026-Elections?oc_lang=sw
+  link 'Our County' -> https://www.outagamie.gov/Our-County
+  link 'Calendar of Events' -> https://www.outagamie.gov/Our-County/Calendar-of-Events
+  link 'Board/Committee Meetings Calendar' -> https://www.outagamie.gov/Our-County/BoardCommittee-Meetings-Calendar
+  link 'Office of the County Executive' -> https://www.outagamie.gov/Our-County/Office-of-the-County-Executive
+  link 'Proclamation Request' -> https://www.outagamie.gov/Our-County/Office-of-the-County-Executive/Proclamation-Request
+  link 'Appleton International Airport' -> https://www.outagamie.gov/Our-County/ATW
+  link 'Brewster Village' -> https://www.outagamie.gov/Our-County/Brewster-Village
+  link 'County Clerk' -> https://www.outagamie.gov/Our-County/County-Clerk
+  link 'Marriage Licenses' -> https://www.outagamie.gov/Our-County/County-Clerk/Marriage-Licenses
+  link 'Elections' -> https://www.outagamie.gov/Our-County/County-Clerk/Elections
+  link 'County Board Information' -> https://www.outagamie.gov/Our-County/County-Clerk/County-Board-Information
+  data call 200 https://outagamiecowi.admin.opencities.com/api/v1/folder/Get?FolderId=7590cf91-f0f6-4dd1-86e4-4924fce43f50 [application/json; charset=]
+  data call 200 https://outagamiecowi.admin.opencities.com/api/v1/folder/GetChildFolders?FolderId=7590cf91-f0f6-4dd1-86e4-4924fce43f50 [application/json; charset=]
+  data call 200 https://outagamiecowi.admin.opencities.com/api/v1/folder/GetChildFolders?FolderId=12da94fb-1201-4dab-9c13-6b42080d9c03 [application/json; charset=]
+  data call 200 https://outagamiecowi.admin.opencities.com/api/v1/folder/GetChildFolders?FolderId=72d17a37-b440-44ed-a16c-5f1cbcbceaa2 [application/json; charset=]
+  data call 200 https://outagamiecowi.admin.opencities.com/api/v1/folder/GetFiles?FolderId=7590cf91-f0f6-4dd1-86e4-4924fce43f50 [application/json; charset=]
+  data call 200 https://outagamiecowi.admin.opencities.com/api/v1/folder/GetChildFolders?FolderId=8dda1f0b-0dc9-45dc-b49f-ff23e65e518a [application/json; charset=]
+  data call 200 https://outagamiecowi.admin.opencities.com/api/v1/folder/GetChildFolders?FolderId=56dca802-1ab2-44c7-9962-a4fbc4a91364 [application/json; charset=]
+  data call 200 https://outagamiecowi.admin.opencities.com/api/v1/folder/GetFiles?FolderId=12da94fb-1201-4dab-9c13-6b42080d9c03 [application/json; charset=]
+  data call 200 https://outagamiecowi.admin.opencities.com/api/v1/folder/GetFiles?FolderId=72d17a37-b440-44ed-a16c-5f1cbcbceaa2 [application/json; charset=]
+  data call 200 https://outagamiecowi.admin.opencities.com/api/v1/folder/GetFiles?FolderId=56dca802-1ab2-44c7-9962-a4fbc4a91364 [application/json; charset=]
+  data call 200 https://outagamiecowi.admin.opencities.com/api/v1/folder/GetFiles?FolderId=8dda1f0b-0dc9-45dc-b49f-ff23e65e518a [application/json; charset=]
+
+==== WI Kenosha Nov 2024: https://www.kenoshacountywi.gov/2364/Election-Results-for-11052024 ====
+  status 200 BLOCKED=False title='Election Results for 11/05/2024 | Kenosha County, WI - Offic'
+  text: 'Skip to Main Content County Government Departments How Do I... Search Election Results for 02/20/2024 Election Results for 04/02/2024 Election Results for 08/13/2024 Election Results for 11/05/2024 HomeDepartmentsElected OfficesCounty ClerkElection InformationPrevious Election Results2024 Election R'
+  tables: 0
+  link 'Skip to Main Content' -> https://www.kenoshacountywi.gov/2364/Election-Results-for-11052024#cc8bcebfac-c2fd-47f6-b31a-84dab49c3e89
+  link '' -> https://www.kenoshacountywi.gov/
+  link 'County Government' -> https://www.kenoshacountywi.gov/27/County-Government
+  link 'Departments' -> https://www.kenoshacountywi.gov/1678/Departments
+  link 'How Do I...' -> https://www.kenoshacountywi.gov/2186/How-Do-I
+  link '' -> https://www.kenoshacountywi.gov/Search/Results
+  link 'Election Results for 02/20/2024' -> https://www.kenoshacountywi.gov/2367/Election-Results-for-02202024
+  link 'Election Results for 04/02/2024' -> https://www.kenoshacountywi.gov/2366/Election-Results-for-04022024
+  link 'Election Results for 08/13/2024' -> https://www.kenoshacountywi.gov/2365/Election-Results-for-08132024
+  link 'Election Results for 11/05/2024' -> https://www.kenoshacountywi.gov/2364/Election-Results-for-11052024
+  link 'Elected Offices' -> https://www.kenoshacountywi.gov/1679/Elected-Offices
+  link 'County Clerk' -> https://www.kenoshacountywi.gov/137/County-Clerk
+  link 'Election Information' -> https://www.kenoshacountywi.gov/139/Election-Information
+  link 'Previous Election Results' -> https://www.kenoshacountywi.gov/840/Previous-Election-Results
+  link '2024 Election Results' -> https://www.kenoshacountywi.gov/2363/2024-Election-Results
+  link 'County Directory Listing' -> https://www.kenoshacountywi.gov/directory.aspx
+  link 'Site Links' -> https://www.kenoshacountywi.gov/QuickLinks.aspx?CID=88
+  link 'Social Media' -> https://www.kenoshacountywi.gov/1901/Social-Media
+  data call 200 https://www.kenoshacountywi.gov/ImageRepository/Document?documentID=22431 [image/svg+xml]
+  data call 200 https://www.kenoshacountywi.gov/antiforgery [application/json; charset=]
+  data call 200 https://www.kenoshacountywi.gov/ImageRepository/Document?documentId=22455 [image/svg+xml]
+  data call 200 https://www.kenoshacountywi.gov/Toggle [application/json; charset=]
+  data call 200 https://www.kenoshacountywi.gov/api/v1/SplashModal/Get?targetId=2364&targetType=1&requestMode=0&_=1792983345038 [application/json; charset=]
