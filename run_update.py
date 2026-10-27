@@ -22,6 +22,7 @@ import pandas as pd
 from feeds import fetch_table, to_results
 import sources
 import statewide_mode
+import house_live
 from model import Params, project
 from publish import to_json_summary, write_json_atomic
 
@@ -147,6 +148,10 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
         w = csv.writer(lf)
         if new_log:
             w.writerow(["timestamp", "id", "pct_in", "median", "p10", "p90", "win_prob"])
+        try:
+            house_live.refresh()
+        except Exception as ex:
+            print(f"  house reader skipped ({str(ex)[:100]})")
         for r in cfg.get("races", []):
             rid = r["id"]
             if only and rid != only:
@@ -165,7 +170,10 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
                 results = load_results(r, folder, rid, feedmap)
                 extra, sw_auto = sources.load_race(rid)
                 results = sources.merge_results(results, extra)
-                results = statewide_mode.build(counties, results, folder, rid, statewide=sw_auto)
+                hp = house_live.county_pct_for(r.get("state"), counties["county"])
+                if hp:
+                    print(f"  {rid}: House progress gives % counted for {len(hp)} counties")
+                results = statewide_mode.build(counties, results, folder, rid, statewide=sw_auto, extra_pct=hp)
                 rr = dict(r)
                 if rr.get("poll_margin") is None and rid in pollmap:
                     rr["poll_margin"] = pollmap[rid]

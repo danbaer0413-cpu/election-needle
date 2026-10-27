@@ -60,7 +60,7 @@ def _forced(sw) -> bool:
         return False
 
 
-def build(counties: pd.DataFrame, results: pd.DataFrame | None, folder: str, rid: str = "", log=print, statewide=None):
+def build(counties: pd.DataFrame, results: pd.DataFrame | None, folder: str, rid: str = "", log=print, statewide=None, extra_pct=None):
     sw = _read(os.path.join(folder, "statewide.csv"))
     sw = sw.iloc[-1] if sw is not None and len(sw) else None
     forced = _forced(sw)
@@ -102,6 +102,9 @@ def build(counties: pd.DataFrame, results: pd.DataFrame | None, folder: str, rid
             elif p is not None:
                 pct[k] = p
 
+    for k, v in (extra_pct or {}).items():             # % counted worked out from House district progress; typed/scraped numbers win
+        if k not in known and k not in pct:
+            pct[k] = float(v)
     kd = sum(v[0] for v in known.values()); kr = sum(v[1] for v in known.values())
     if kd + kr >= D + R - 1:
         return results                                   # county detail already covers the statewide count
