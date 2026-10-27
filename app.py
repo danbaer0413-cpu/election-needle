@@ -9,7 +9,7 @@ import requests
 import streamlit as st
 
 from charts import BLUE, RED, history_figure, needle_figure, poll_figure, fmt_range
-from maps import LEGEND, county_map_figure, load_geo, us_map_figure
+from maps import LEGEND, county_map_figure, district_map_figure, load_ak_geo, load_geo, us_map_figure
 from explain import drivers_lines, firewall_lines, inputs_lines, outcome_lines
 import changes
 from publish import from_json_summary, read_log
@@ -144,11 +144,24 @@ if view == "Map":
         if geo is None:
             st.info("County outlines are not built yet. Run the build-geo workflow on GitHub once.")
         elif st_code == "AK":
-            st.info("Alaska reports by election district, so it has no county map.")
+            _ak = load_ak_geo()
+            if _ak is None:
+                st.info("Alaska reports by state House election district. Run the build-ak-geo workflow on GitHub once to draw them.")
+            else:
+                _bub = st.toggle("Show votes left as bubbles", value=True, key="bubbles_ak")
+                st.plotly_chart(district_map_figure(ready[pick]["summary"], _ak, bubbles=_bub), use_container_width=True,
+                                config={"displayModeBar": False})
+                st.caption("Alaska reports by state House election district. Districts are colored by projected final margin; pale ones have under 5% counted. "
+                           "Bubble area = votes still to count. Hover or tap a district for votes counted and left.")
         else:
-            st.plotly_chart(county_map_figure(ready[pick]["summary"], st_code, geo, fx), use_container_width=True,
+            _bub = st.toggle("Show votes left as bubbles", value=True, key="bubbles")
+            st.plotly_chart(county_map_figure(ready[pick]["summary"], st_code, geo, fx, bubbles=_bub), use_container_width=True,
                             config={"displayModeBar": False})
-            st.caption("Counties are colored by projected final margin. Pale counties have under 5% counted.")
+            _tb = pd.DataFrame(ready[pick]["summary"]["table"])
+            _big = float(_tb["remaining"].max()) if "remaining" in _tb and len(_tb) else 0.0
+            st.caption("Counties are colored by projected final margin. Pale counties have under 5% counted. "
+                       + (f"Bubble area = votes still to count (largest: about {_big:,.0f}). " if _bub and _big > 0 else "")
+                       + "Hover or tap a county or bubble for votes counted and left.")
     st.stop()
 
 order = sorted(ready, key=lambda k: (state_name(ready[k]["meta"].get("state")), label(ready[k])))
