@@ -1,0 +1,54 @@
+name: shutdown-after-election
+
+# Manual only. Type SHUT DOWN in the box. It (1) archives the data, then (2) disables every other workflow
+# in this repo so nothing runs on a schedule again. Nothing is deleted. To restart: Actions tab -> pick a
+# workflow -> "Enable workflow".
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: "Type SHUT DOWN to archive the data and disable all other workflows"
+        required: true
+        default: ""
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: needle
+  cancel-in-progress: false
+
+jobs:
+  shutdown:
+    if: ${{ github.event.inputs.confirm == 'SHUT DOWN' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Archive the data
+        run: python shutdown.py
+      - name: Commit the archive
+        run: |
+          git config user.name "needle-bot"
+          git config user.email "needle-bot@users.noreply.github.com"
+          git add -f data/archive
+          if ! git diff --cached --quiet; then
+            git commit -m "archive: 2026 midterms"
+            git pull --rebase -X theirs || git rebase --abort
+            git push || (git pull --rebase -X theirs && git push)
+          fi
+      - name: Disable every other workflow
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          self="shutdown-after-election"
+          gh workflow list --all --json id,name,state --jq '.[] | select(.state=="active") | select(.name!="'"$self"'") | "\(.id)\t\(.name)"' | while IFS=$'\t' read -r id name; do
+            echo "disabling: $name ($id)"
+            gh workflow disable "$id" || echo "could not disable $name"
+          done
+          echo "--- state now ---"
+          gh workflow list --all
