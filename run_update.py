@@ -252,8 +252,6 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
                               "summary": to_json_summary(s)}
                 if vh_info.get("modeled") and vh_swing and s.get("inputs", {}).get("early_pool_expected") is not None:
                     vh_pending[rid] = (s, vh_info)
-                w.writerow([now, rid, round(s["pct_in"], 2), round(s["median"], 2), round(s["p10"], 2),
-                            round(s["p90"], 2), round(s["win_prob"], 3)])
             except Exception as ex:  # keep last good numbers, flag the problem
                 traceback.print_exc()
                 races[rid] = {"meta": meta, "status": f"feed/model error: {ex}", "checked": now,
@@ -341,6 +339,16 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
         ctl = control.simulate(races, rho)
     except Exception as ex:
         print(f"  control summary skipped ({ex})"); ctl = {}
+    try:        # the log records the FINAL numbers of this run (after VoteHub and cross-race steps), so 'what changed' compares like with like
+        with open(log_path, "a", newline="") as lf2:
+            w2 = csv.writer(lf2)
+            for rid_, r_ in races.items():
+                s_ = r_.get("summary")
+                if s_ and r_.get("status") == "ok" and s_.get("median") is not None:
+                    w2.writerow([now, rid_, round(s_["pct_in"], 2), round(s_["median"], 2), round(s_["p10"], 2),
+                                 round(s_["p90"], 2), round(s_["win_prob"], 3)])
+    except Exception as ex:
+        print(f"  could not write needle log ({ex})")
     payload = {"updated": now, "races": races, "control": ctl}
     write_json_atomic(out_path, payload)
     return payload
