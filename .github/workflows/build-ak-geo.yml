@@ -1,0 +1,23 @@
+name: build-ak-geo
+# Run once: Actions -> build-ak-geo -> Run workflow. Makes the Alaska election-district outlines for the map.
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  geo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements-runner.txt pyshp
+      - run: python build_ak_geo.py
+      - name: Save outlines
+        run: |
+          git config user.name "needle-bot"
+          git config user.email "needle-bot@users.noreply.github.com"
+          git add data/geo
+          if ! git diff --cached --quiet; then git commit -m "Alaska district outlines"; git pull --rebase -X theirs || git rebase --abort; git push; fi
