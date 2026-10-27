@@ -346,7 +346,7 @@
       "race": "U.S. Senate",
       "level": "Federal",
       "dir": "data/NC/u-s-senate",
-      "poll_margin": null,
+      "poll_margin": 10.3,
       "params": {
         "sd_poll": 5.0
       }

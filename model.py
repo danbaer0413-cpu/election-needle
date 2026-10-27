@@ -68,7 +68,7 @@ class Params:
     reg_loyalty: float = 0.92          # share of registered partisans voting their party
     party_bias: float = 0.0            # calibrate on a past cycle (points)
     sd_early_party: float = 3.5
-    sd_early_geo: float = 3.0
+    sd_early_geo: float = 8.0          # was 3.0; geography of returns says little about the swing (see README Georgia notes)
     # turnout
     turnout_sd: float = 0.04           # statewide
     county_turnout_sd: float = 0.03
