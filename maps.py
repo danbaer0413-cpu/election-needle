@@ -152,3 +152,40 @@ def county_map_figure(summary: dict, state: str, geo, fips: pd.DataFrame, title:
     fig.update_geos(fitbounds="locations", visible=False)
     fig.update_layout(margin=dict(l=0, r=0, t=0, b=0), height=360, paper_bgcolor="rgba(0,0,0,0)", title=dict(text=title, x=0.01) if title else None)
     return fig
+
+
+def load_ak_geo(folder="data/geo"):
+    p = os.path.join(folder, "ak_districts.json")
+    return json.load(open(p)) if os.path.exists(p) else None
+
+
+def district_map_figure(summary: dict, geo: dict, title: str = "", bubbles: bool = True):
+    """Alaska: one shape per state House election district (our units are 'District 01'...'District 40')."""
+    import re
+    t = pd.DataFrame(summary["table"])
+    t["loc"] = t["county"].map(lambda c: (lambda m: f"District {int(m.group(1)):02d}" if m else None)(re.search(r"(\d+)", str(c))))
+    have = {str(f.get("id")) for f in geo.get("features", [])}
+    t = t[t["loc"].isin(have)].copy()
+    t["z"] = t["proj_margin"].clip(-30, 30)
+    t["hover"] = t.apply(lambda r: f"<b>{r['county']}</b><br>Projected {'D' if r['proj_margin'] > 0 else 'R'}+{abs(r['proj_margin']):.1f}"
+                         f"<br>{r['pct_in']:.0f}% counted · baseline {r['base_margin']:+.1f}"
+                         f"<br>{_fmt_n(r['counted'])} counted · about {_fmt_n(r['remaining'])} votes left", axis=1)
+    fig = go.Figure()
+    scale = [[0, R3], [0.5, "#f2f2f2"], [1, D3]]
+    for flag, op in ((False, 0.4), (True, 1.0)):
+        d = t[(t["pct_in"] >= COUNTY_REPORTING_MIN) == flag]
+        if d.empty:
+            continue
+        fig.add_trace(go.Choropleth(geojson=geo, locations=d["loc"], z=d["z"], zmin=-30, zmax=30, colorscale=scale, showscale=False,
+                                    text=d["hover"], hoverinfo="text", marker_opacity=op, marker_line_color="white", marker_line_width=0.6))
+    if bubbles and "remaining" in t:
+        cen = _centers(geo, set(t["loc"]))
+        b = t[t["loc"].isin(cen) & (t["remaining"] > 0)]
+        if len(b):
+            sz = bubble_sizes(b["remaining"].to_numpy())
+            fig.add_trace(go.Scattergeo(lon=[cen[f][0] for f in b["loc"]], lat=[cen[f][1] for f in b["loc"]], mode="markers",
+                                        marker=dict(size=sz, color="rgba(240,190,60,0.55)", line=dict(color="rgba(110,80,0,0.9)", width=0.8)),
+                                        text=b["hover"], hoverinfo="text", showlegend=False))
+    fig.update_geos(fitbounds="locations", visible=False, projection=dict(type="conic conformal", rotation=dict(lon=-150), parallels=[55, 65]))
+    fig.update_layout(margin=dict(l=0, r=0, t=0, b=0), height=360, paper_bgcolor="rgba(0,0,0,0)", title=dict(text=title, x=0.01) if title else None)
+    return fig

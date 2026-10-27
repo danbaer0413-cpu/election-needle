@@ -9,7 +9,14 @@ import requests
 import streamlit as st
 
 from charts import BLUE, RED, history_figure, needle_figure, poll_figure, fmt_range
-from maps import LEGEND, county_map_figure, district_map_figure, load_ak_geo, load_geo, us_map_figure
+from maps import LEGEND, county_map_figure, load_geo, us_map_figure
+try:                                     # newer maps.py only; an older copy must not take the whole app down
+    from maps import district_map_figure, load_ak_geo
+except ImportError:
+    district_map_figure = None
+
+    def load_ak_geo():
+        return None
 from explain import drivers_lines, firewall_lines, inputs_lines, outcome_lines
 import changes
 from publish import from_json_summary, read_log
@@ -145,7 +152,9 @@ if view == "Map":
             st.info("County outlines are not built yet. Run the build-geo workflow on GitHub once.")
         elif st_code == "AK":
             _ak = load_ak_geo()
-            if _ak is None:
+            if district_map_figure is None:
+                st.info("The Alaska district map needs the newest maps.py. Upload it and reload.")
+            elif _ak is None:
                 st.info("Alaska reports by state House election district. Run the build-ak-geo workflow on GitHub once to draw them.")
             else:
                 _bub = st.toggle("Show votes left as bubbles", value=True, key="bubbles_ak")
