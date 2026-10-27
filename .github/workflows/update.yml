@@ -3,7 +3,7 @@ name: update-needle
 on:
   schedule:
     # All times UTC. Actions cron is best-effort: runs can start several minutes late.
-    - cron: "7 */12 * * *"      # every 12 hours (disable this after election week)
+    - cron: "7 */6 * * *"       # every 6 hours (disable this after election week)
     - cron: "17 */3 30-31 10 *"   # live poll checks every 3 hours, Oct 30 - Nov 2
     - cron: "17 */3 1-2 11 *"
     - cron: "*/10 23 3 11 *"    # Nov 3, 6-7pm ET
