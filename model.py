@@ -59,6 +59,8 @@ class Params:
     tau_region: float = 2.0            # region-level spread
     sigma_nonrep: float = 12.0         # error of a county's counted pool when little is in
     sd_remaining: float = 4.0          # extra county-level noise on outstanding votes
+    slope_prior_sd: float = 0.12       # swing may differ by county lean: shift_i = S + beta*(m0_i - M0). beta is learned from counted counties; prior N(0, this).
+                                       # 0.12 = a county 20 points bluer than the state moves 2.4 points more (or less) than average. 0 turns the slope off.
     # early vs Election Day
     early_gap: float = 8.0             # early margin minus Election Day margin
     sd_gap: float = 3.0                # uncertainty on that gap
@@ -67,6 +69,9 @@ class Params:
     # early-vote signals
     reg_loyalty: float = 0.92          # share of registered partisans voting their party
     party_bias: float = 0.0            # calibrate on a past cycle (points)
+    other_lean: float = 4.0            # how many points MORE Democratic (D-R margin) unaffiliated/other voters are than the early pool overall.
+                                       # default +4: exit polls had independents about 3.4 (2018) and 4.8 (2022) points MORE Democratic than the national House vote; Trump's approval among independents is ~20-25% in 2026 (see INDEPENDENTS.md). Set 0 for 'a wash'
+    sd_other: float = 5.0              # uncertainty on that lean (points); widens the early party signal in states with many 'other' registrants
     sd_early_party: float = 3.5
     sd_early_geo: float = 8.0          # was 3.0; geography of returns says little about the swing (see README Georgia notes)
     # turnout
@@ -193,12 +198,14 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
             pD = (df["d_reg"] / reg.where(reg > 0, 1)).to_numpy(float)
             pR = (df["r_reg"] / reg.where(reg > 0, 1)).to_numpy(float)
             pO = (df["o_reg"] / reg.where(reg > 0, 1)).to_numpy(float)
-            u = (1 + em0 / 100) / 2
+            u = (1 + (em0 + p.other_lean) / 100) / 2
+            u = np.clip(u, 0.02, 0.98)
             s = pD * L + pR * (1 - L) + pO * u
             e_est = (2 * s - 1) * 100
             dev = e_est - em0 - p.party_bias
             sig_party = float((E_ret[ok] * dev[ok]).sum() / E_ret[ok].sum())
-            obs.append((sig_party, (p.sd_early_party * infl) ** 2, "early party reg"))
+            pO_bar = float((E_ret[ok] * pO[ok]).sum() / E_ret[ok].sum())       # weight of 'other' registrants in the returned ballots
+            obs.append((sig_party, (p.sd_early_party * infl) ** 2 + (pO_bar * p.sd_other * infl) ** 2, "early party reg"))
         sig_geo = float((E_ret * m0).sum() / E_ret.sum() - (exp_early0 * m0).sum() / exp_early0.sum())
         obs.append((sig_geo, (p.sd_early_geo * infl) ** 2, "early geography"))
 
@@ -212,8 +219,25 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
     # `weight` < 1 marks rows ESTIMATED from a statewide total (statewide_mode.py): they carry less information than real county counts
     v_i = v_i / df["weight"].to_numpy(float)
     var_swing_i = v_i + p.tau_county ** 2 + p.tau_region ** 2
+    # ---- does the swing depend on how blue/red the county is? (turnout and composition effects) --------------------------
+    x_i = m0 - M0
+    beta_hat, sd_beta = 0.0, 0.0
+    if p.slope_prior_sd > 0:
+        hh = np.where(has)[0]
+        if len(hh) >= 3:
+            ww = 1.0 / var_swing_i[hh]
+            xm = float((ww * x_i[hh]).sum() / ww.sum())
+            xc = x_i[hh] - xm
+            sxx = float((ww * xc * xc).sum())
+            sxy = float((ww * xc * d_i[hh]).sum())
+            prec_b = sxx + 1.0 / p.slope_prior_sd ** 2
+            beta_hat = sxy / prec_b
+            sd_beta = float(np.sqrt(1.0 / prec_b))
+        else:
+            sd_beta = p.slope_prior_sd
+    d_adj = d_i - beta_hat * x_i
     for i in np.where(has)[0]:
-        obs.append((float(d_i[i]), float(var_swing_i[i]), "counted"))
+        obs.append((float(d_adj[i]), float(var_swing_i[i]), "counted"))
 
     prec = np.array([1.0 / v for _, v, _ in obs])
     means = np.array([m for m, _, _ in obs])
@@ -241,11 +265,11 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
         m = (reg_idx == j) & has
         if m.any():
             wt = 1.0 / (v_i[m] + p.tau_county ** 2)
-            num = (wt * (d_i[m] - S_hat)).sum()
+            num = (wt * (d_adj[m] - S_hat)).sum()
             den = wt.sum() + 1.0 / p.tau_region ** 2
             g_mean[j] = num / den
             g_sd[j] = np.sqrt(1.0 / den)
-    resid = d_i - S_hat - g_mean[reg_idx]
+    resid = d_adj - S_hat - g_mean[reg_idx]
     shrink = p.tau_county ** 2 / (p.tau_county ** 2 + v_i)
     r_mean = np.where(has, resid * shrink, 0.0)
     r_sd = np.where(has, np.sqrt(p.tau_county ** 2 * v_i / (p.tau_county ** 2 + v_i)), p.tau_county)
@@ -255,7 +279,7 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
         num = rem_e * (em0 + shift) + rem_ed * (edm0 + shift)
         return np.clip(np.where(rem > 0, num / np.maximum(rem, 1e-9), m0 + shift), -100, 100)
 
-    shift_pt = S_hat + g_mean[reg_idx] + r_mean
+    shift_pt = S_hat + beta_hat * x_i + g_mean[reg_idx] + r_mean
     rm_pt = pooled_margin(shift_pt)
     D_pt = dem + rem * (0.5 + rm_pt / 200)
     R_pt = rep + rem * (0.5 - rm_pt / 200)
@@ -301,7 +325,8 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
     S = S_hat + sd_S * z
     G = rng.normal(g_mean, g_sd, (n, len(uniq)))[:, reg_idx]
     Rr = rng.normal(r_mean, r_sd, (n, K))
-    shift = S + G + Rr
+    Bd = rng.normal(beta_hat, sd_beta, (n, 1)) if sd_beta > 0 else np.zeros((n, 1))
+    shift = S + Bd * x_i[None, :] + G + Rr
     num = rem_e * (em0 + shift) + rem_ed * (edm0 + shift)
     rm = np.where(rem > 0, num / np.maximum(rem, 1e-9), m0 + shift)
     # the last votes counted rarely look like the first ones (late mail, big precincts)
@@ -332,6 +357,7 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
                        "win_prob": float((margins_first > 0).mean())}
     inputs = {
         "units": int(K), "units_with_early": int((E_ret > 0).sum()), "early_returned": float(E_ret.sum()),
+        "swing_slope": float(beta_hat), "swing_slope_sd": float(sd_beta),
         "early_expected_final": float(E_final.sum()), "early_final_pct_in": p.early_final_pct_in,
         "early_party_data": sig_party is not None, "units_reporting": int(has.sum()),
         "units_final": int(final.sum()), "counted": float(counted.sum()), "expected_total": float(T_hat.sum()),

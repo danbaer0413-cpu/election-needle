@@ -179,6 +179,25 @@ def sync_early(races: list[dict], log=print):
             new[c] = _num(new[c]) if c in new else None
         new = new[new["early_returned"].notna()]
         changed = 0
+        # a STATE row (statewide total only, no county table) is spread over the counties NOT named in this batch,
+        # in proportion to their expected early vote (expected votes x expected early share). This carries the statewide volume and party mix, not geography.
+        isst = new["county"].astype(str).str.strip().str.upper().isin(["STATE", "STATEWIDE"])
+        if isst.any():
+            srow = new[isst].iloc[-1]
+            new = new[~isst]
+            cp = os.path.join(r.get("dir", f"data/{r['id']}"), "counties.csv")
+            if os.path.exists(cp):
+                cc = pd.read_csv(cp)
+                named = {norm_name(str(c)) for c in new["county"]}
+                cc = cc[~cc["county"].astype(str).map(norm_name).isin(named)]
+                wt = (pd.to_numeric(cc["exp_votes"], errors="coerce").fillna(0) * pd.to_numeric(cc["exp_early_share"], errors="coerce").fillna(0.5)).to_numpy(float)
+                if wt.sum() > 0:
+                    sh = wt / wt.sum()
+                    spread = pd.DataFrame({"county": cc["county"].to_numpy()})
+                    for c in EARLY[1:]:
+                        spread[c] = (srow[c] * sh) if pd.notna(srow[c]) else None
+                    new = pd.concat([new, spread], ignore_index=True)
+                    log(f"  early vote: statewide row for {r['id']} spread over {len(cc)} counties")
         for row in new.to_dict("records"):
             k = norm_name(str(row["county"]))
             vals = {c: row.get(c) for c in EARLY[1:]}

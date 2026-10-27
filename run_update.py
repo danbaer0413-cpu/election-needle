@@ -141,6 +141,30 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
     except Exception as ex:
         print(f"  fundamentals unavailable ({ex}); running without them")
         fundmap = {}
+    try:                                    # electorate model: state-specific deviation from the national swing adjusts the fundamentals prior (no extra weight)
+        import electorate
+        _rows = []
+        for _r in cfg.get("races", []):
+            _c = _read(os.path.join(_r.get("dir", f"data/{_r['id']}"), "counties.csv"))
+            if _c is not None and len(_c):
+                _v = pd.to_numeric(_c["exp_votes"], errors="coerce").fillna(0.0)
+                _m = pd.to_numeric(_c["base_margin"], errors="coerce").fillna(0.0)
+                _rows.append((_r["id"], _r["state"], float((_v * _m).sum() / max(_v.sum(), 1.0)), float(_v.sum())))
+        _swing = electorate.compute(_rows)
+        _nat = electorate.national_swing()
+        for _rid, _s in _swing.items():
+            if _rid in fundmap:
+                fundmap[_rid] = (round(fundmap[_rid][0] + (_s - _nat), 2), fundmap[_rid][1])
+        print(f"  electorate model: adjusted {len(_swing)} fundamentals priors (national swing {_nat:.1f})")
+    except Exception as ex:
+        print(f"  electorate model skipped ({str(ex)[:100]})")
+    olean = {}
+    try:
+        _ol = _read("config/other_lean.csv")
+        if _ol is not None:
+            olean = {x["race"]: (float(x["other_lean"]), float(x["sd_other"])) for x in _ol.to_dict("records")}
+    except Exception:
+        olean = {}
     feedmap = load_feedmap(cfg.get("feeds", "config/feeds.csv"))
     races: dict = {}
     jobs: dict = {}
@@ -194,6 +218,8 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
                     sb_ = 0.0 if rid in perr.get("skip_state_bias", []) else perr["state_bias"].get(rr.get("state"), 0.0)
                     rr["params"] = dict(rr.get("params") or {}, poll_bias=round(perr["global_bias"] + sb_, 2),
                                         sd_poll=max(perr.get("sd_floor", 3.5), sd_))
+                if rid in olean and "other_lean" not in (rr.get("params") or {}):
+                    rr["params"] = dict(rr.get("params") or {}, other_lean=olean[rid][0], sd_other=olean[rid][1])
                 if rid in fundmap and "fund_margin" not in (rr.get("params") or {}):
                     rr["params"] = dict(rr.get("params") or {}, fund_margin=fundmap[rid][0], sd_fund=fundmap[rid][1])
                 s = project(counties, early, results, build_params(rr))
