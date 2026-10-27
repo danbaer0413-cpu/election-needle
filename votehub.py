@@ -5,8 +5,8 @@ Read VoteHub's early-vote posts from Bluesky and turn them into rows.
     python votehub.py --text post.txt # parse one post saved as text (for testing)
 
 Uses Bluesky's public read API (no login). Each post is parsed with plain patterns; a post that does
-not match is written to data/votehub_unparsed.txt instead of being guessed at. Their modeled vote
-ranges and ratings are stored for display only; nothing here feeds the model's numbers.
+not match is written to data/votehub_unparsed.txt instead of being guessed at. Totals, share of projected final turnout and their modeled vote are
+stored here; votehub_feed.py feeds them to the model (switch 'votehub' in config/switches.json).
 """
 from __future__ import annotations
 
@@ -16,7 +16,8 @@ import datetime as dt
 import os
 import re
 
-FIELDS = ["state", "as_of", "kind", "total", "delta", "pct_of_final", "implied_final", "candidates", "rating", "day"]
+FIELDS = ["state", "as_of", "kind", "total", "delta", "pct_of_final", "implied_final", "candidates", "rating", "day",
+          "dem_name", "dem_lo", "dem_hi", "rep_name", "rep_lo", "rep_hi", "early_margin"]
 STATES = ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida",
           "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine",
           "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska",
@@ -33,7 +34,7 @@ def _num(s):
 def parse_post(text: str) -> dict | None:
     """One row, or None if the post is not an early-vote total post."""
     t = text.replace("–", "-").replace("—", "-")
-    m_total = re.search(r"Total\s+(early\s+|mail\s+)?votes:\s*([\d,]+)\s*(?:\(\s*([+-][\d,]+)\s*\))?", t, re.I)
+    m_total = re.search(r"Total\s+(early\s+|mail\s+)?votes(?:\s+cast)?:\s*([\d,]+)\s*(?:\(\s*([+-][\d,]+)\s*\))?", t, re.I)
     m_asof = re.search(r"As of\s+([A-Z][a-z]{2})[a-z]*\.?\s+(\d{1,2}),\s*(\d{4})", t)
     if not (m_total and m_asof):
         return None
@@ -45,13 +46,24 @@ def parse_post(text: str) -> dict | None:
     day = re.search(r"Day\s+(\d+)", t)
     rating = re.search(r"rate[s]?\s+(?:this\s+)?(?:the\s+)?race\s+as\s+([A-Za-z ]+?)\.", t)
     cands = re.findall(r"([A-Z][A-Za-z.' -]+?):\s*([\d.]+)%?\s*-\s*([\d.]+)%", t)
+    def _side(emoji):
+        m = re.search(emoji + r"\s*([^:\n]+?)\s*:\s*([\d.]+)%?\s*-\s*([\d.]+)%", t)
+        return (m.group(1).strip(), float(m.group(2)), float(m.group(3))) if m else ("", None, None)
+    dn, dlo, dhi = _side("🔵")
+    rn, rlo, rhi = _side("🔴")
+    em = ""
+    if dlo is not None and rlo is not None:      # two-party margin of the range midpoints (their modeled vote of the ballots cast)
+        d_, r_ = (dlo + dhi) / 2, (rlo + rhi) / 2
+        em = round(100 * (2 * d_ / (d_ + r_) - 1), 2)
     mo = MONTHS.get(m_asof.group(1)[:3])
     as_of = dt.date(int(m_asof.group(3)), mo, int(m_asof.group(2))).isoformat() if mo else ""
     return {"state": state, "as_of": as_of, "kind": kind, "total": total,
             "delta": _num(m_total.group(3)) if m_total.group(3) else "",
             "pct_of_final": pct, "implied_final": round(total / (pct / 100)) if pct else "",
             "candidates": "; ".join(f"{n.strip()} {a}-{b}" for n, a, b in cands),
-            "rating": rating.group(1).strip() if rating else "", "day": day.group(1) if day else ""}
+            "rating": rating.group(1).strip() if rating else "", "day": day.group(1) if day else "",
+            "dem_name": dn, "dem_lo": dlo if dlo is not None else "", "dem_hi": dhi if dhi is not None else "",
+            "rep_name": rn, "rep_lo": rlo if rlo is not None else "", "rep_hi": rhi if rhi is not None else "", "early_margin": em}
 
 
 API = "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed"

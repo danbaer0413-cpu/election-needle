@@ -1,11 +1,10 @@
-state,as_of,kind,total,delta,pct_of_final,implied_final,candidates,rating,day
-Michigan,2026-10-23,mail,905256,60546,20.6,4394447,Abdul El-Sayed 56.8-64.6; Mike Rogers 32.9-40.7,Lean D,
-Georgia,2026-10-26,early,1743492,142798,45.5,3831851,Jon Ossoff 54.0-62.1; Mike Collins 37.9-46.0,Solid D,
-Texas,2026-10-17,mail,38592,38592,0.4,9648000,James Talarico 55.7-64.2; Ken Paxton 33.6-42.1,Tilt D,
-Kansas,2026-10-20,early,52933,29395,5.0,1058660,Adam Hamilton 59.5-69.5; Roger Marshall 27.7-37.7,Lean R,
-North Carolina,2026-10-26,early,1545501,468183,39.6,3902780,Roy Cooper 56.4-66.0; Michael Whatley 32.0-41.6,Solid D,
-Texas,2026-10-26,total,4342999,285094,43.9,9892936,James Talarico 45.5-54.9; Ken Paxton 42.9-52.3,Tilt D,7
-Ohio,2026-10-22,early,763436,68592,17.9,4265006,Sherrod Brown 52.0-62.9; Jon Husted 36.9-45.8,Lean D,
-Florida,2026-10-23,mail,1903230,287488,26.2,7264237,,,
-Maine,2026-10-21,early,130520,32650,18.8,694255,Troy Jackson 57.7-70.0; Susan Collins 30.0-42.3,Tilt D,
-Florida,2026-10-26,total,2671880,768650,37.0,7221297,Angie Nixon 46.2-56.6; Republican 42.7-53.1,Likely R,
+state,as_of,kind,total,delta,pct_of_final,implied_final,candidates,rating,day,dem_name,dem_lo,dem_hi,rep_name,rep_lo,rep_hi,early_margin
+Texas,2026-10-24,total,4057905,553367,41.9,9684737,James Talarico 45.4-54.9; Ken Paxton 42.9-52.4,Tilt D,5,James Talarico,45.4,54.9,Ken Paxton,42.9,52.4,2.56
+North Carolina,2026-10-26,early,1545501,468183,39.6,3902780,Roy Cooper 56.4-66.0; Michael Whatley 32.0-41.6,Solid D,,Roy Cooper,56.4,66.0,Michael Whatley,32.0,41.6,24.9
+Florida,2026-10-26,total,2671880,768650,37.0,7221297,Angie Nixon 46.2-56.6; Republican 42.7-53.1,Likely R,,Angie Nixon,46.2,56.6,Republican,42.7,53.1,3.52
+Michigan,2026-10-23,mail,905256,60546,20.6,4394447,Abdul El-Sayed 56.8-64.6; Mike Rogers 32.9-40.7,Lean D,,Abdul El-Sayed,56.8,64.6,Mike Rogers,32.9,40.7,24.51
+Ohio,2026-10-22,early,763436,68592,17.9,4265006,Sherrod Brown 52.0-62.9; Jon Husted 36.9-45.8,Lean D,,Sherrod Brown,52.0,62.9,Jon Husted,36.9,45.8,16.3
+Iowa,2026-10-22,total,161537,41548,11.4,1416991,Josh Turek 57.7-66.7; Ashley Hinson 31.3-40.3,Tilt R,,Josh Turek,57.7,66.7,Ashley Hinson,31.3,40.3,26.94
+Georgia,2026-10-26,early,1743492,142798,45.5,3831851,Jon Ossoff 54.0-62.1; Mike Collins 37.9-46.0,Solid D,,Jon Ossoff,54.0,62.1,Mike Collins,37.9,46.0,16.1
+Kansas,2026-10-20,early,52933,29395,5.0,1058660,Adam Hamilton 59.5-69.5; Roger Marshall 27.7-37.7,Lean R,,Adam Hamilton,59.5,69.5,Roger Marshall,27.7,37.7,32.72
+Nevada,2026-10-20,total,123563,31109,13.1,943229,Aaron Ford 41.9-57.2; Joe Lombardo 38.3-53.6,,,Aaron Ford,41.9,57.2,Joe Lombardo,38.3,53.6,3.77

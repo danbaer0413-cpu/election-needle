@@ -49,6 +49,16 @@ def inputs_lines(s: dict) -> list[str]:
                  f"{'early votes are reported first' if i['early_first'] else 'early and Election Day votes are mixed'}.")
     else:
         L.append("**Early/mail vote:** none loaded.")
+    vh = i.get("votehub")
+    if vh:
+        t = f"**VoteHub (as of {vh.get('as_of')}):** {vh.get('total') or 0:,.0f} ballots cast"
+        if vh.get("pct_of_final"):
+            t += f", {vh['pct_of_final']:.1f}% of their projected final turnout of {vh.get('implied_final') or 0:,.0f} (about {(vh.get('implied_final') or 0) - (vh.get('total') or 0):,.0f} still to come)"
+        if vh.get("early_margin") is not None:
+            t += f"; their modeled vote of ballots cast {vh.get('dem')} vs {vh.get('rep')} = {vh['early_margin']:+.1f} two-party among ballots cast ({('used as a bounded signal: their house bias of ' + format(vh['bias'], '+.1f') + ' removed across ' + str(vh['states']) + ' states, effect on the median ' + format(vh['effect'], '+.2f') + ' pts') if vh.get('effect') is not None else 'shown; used only once 3+ states have posted'})"
+        if vh.get("rating"):
+            t += f"; their rating: {vh['rating']} (display only)"
+        L.append(t + ".")
     if i["counted"] > 0:
         L.append(f"**Counted:** {i['counted']:,.0f} votes, {i['counted'] / max(i['expected_total'], 1) * 100:.0f}% of "
                  f"expected, {i['units_reporting']} units reporting ({i['units_final']} complete).")

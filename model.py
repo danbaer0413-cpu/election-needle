@@ -66,6 +66,13 @@ class Params:
     sd_gap: float = 3.0                # uncertainty on that gap
     early_first: bool = True           # state reports early/mail votes first
     early_final_pct_in: float = 0.85   # share of the FINAL early vote returned so far
+    # VoteHub (votehub_feed.py)
+    vh_final_turnout: float | None = None   # their projected final TOTAL turnout (ballots cast / share of projected final turnout)
+    vh_early_margin: float | None = None    # two-party margin of their modeled vote among ballots cast so far
+    early_geo_signal: bool = True           # False when the early table is only a statewide total spread over counties (no geography to read)
+    vh_scale: float = 1.0                   # multiplies how far VoteHub's signal sits from the other evidence (run_update uses it to limit the move per update)
+    vh_max_effect: float = 1.0              # VoteHub's modeled vote can move this race's statewide median by at most this many points
+    sd_votehub: float = 9.0                 # how far that can miss the early-pool margin we expect (points); third-party model, uncalibrated, so wide
     # early-vote signals
     reg_loyalty: float = 0.92          # share of registered partisans voting their party
     party_bias: float = 0.0            # calibrate on a past cycle (points)
@@ -147,7 +154,11 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
     # ---- turnout: let early returns nudge expected turnout (shrunk 50%) -------------
     E_ret = df["early_returned"].to_numpy(float)
     have_early = E_ret.sum() > 0
-    if have_early:
+    if have_early and p.vh_final_turnout:
+        # VoteHub's projected final turnout fixes how much early vote is still to come (shrunk 50% toward our baseline, as below)
+        mult = 1.0 + 0.5 * (np.clip(p.vh_final_turnout / T0.sum(), 0.7, 1.4) - 1.0)
+        E_final = E_ret * (exp_early0.sum() * mult / E_ret.sum())
+    elif have_early:
         E_final = E_ret / max(p.early_final_pct_in, 0.05)
         raw = E_final.sum() / exp_early0.sum()
         mult = 1.0 + 0.5 * (np.clip(raw, 0.7, 1.4) - 1.0)
@@ -207,7 +218,20 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
             pO_bar = float((E_ret[ok] * pO[ok]).sum() / E_ret[ok].sum())       # weight of 'other' registrants in the returned ballots
             obs.append((sig_party, (p.sd_early_party * infl) ** 2 + (pO_bar * p.sd_other * infl) ** 2, "early party reg"))
         sig_geo = float((E_ret * m0).sum() / E_ret.sum() - (exp_early0 * m0).sum() / exp_early0.sum())
-        obs.append((sig_geo, (p.sd_early_geo * infl) ** 2, "early geography"))
+        if p.early_geo_signal:
+            obs.append((sig_geo, (p.sd_early_geo * infl) ** 2, "early geography"))
+
+    wv = E_ret if have_early else exp_early0
+    em_exp = float((wv * em0).sum() / max(wv.sum(), 1.0))
+    if p.vh_early_margin is not None:
+        # VoteHub's early-electorate margin, read as a swing; it can only pull the swing estimate toward it, never by more than vh_max_effect points
+        mean_raw = float(p.vh_early_margin) - em_exp
+        var_v = (p.sd_votehub * infl) ** 2
+        P0 = sum(1.0 / v for _, v, _ in obs)
+        S0 = sum(mm / v for mm, v, _ in obs) / P0
+        om = (1.0 / var_v) / (1.0 / var_v + P0)
+        dev = float(np.clip((mean_raw - S0) * p.vh_scale, -p.vh_max_effect / om, p.vh_max_effect / om))
+        obs.append((S0 + dev, var_v, "VoteHub early model"))
 
     # ---- counted votes: deviation of each county from expectation -------------------
     has = counted > 0
@@ -358,7 +382,7 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
     inputs = {
         "units": int(K), "units_with_early": int((E_ret > 0).sum()), "early_returned": float(E_ret.sum()),
         "swing_slope": float(beta_hat), "swing_slope_sd": float(sd_beta),
-        "early_expected_final": float(E_final.sum()), "early_final_pct_in": p.early_final_pct_in,
+        "early_pool_expected": em_exp, "early_expected_final": float(E_final.sum()), "early_final_pct_in": (float(E_ret.sum() / max(E_final.sum(), 1.0)) if have_early else p.early_final_pct_in),
         "early_party_data": sig_party is not None, "units_reporting": int(has.sum()),
         "units_final": int(final.sum()), "counted": float(counted.sum()), "expected_total": float(T_hat.sum()),
         "outstanding_share": float(rem.sum() / T_hat.sum()), "poll_margin": p.poll_margin,

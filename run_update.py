@@ -36,6 +36,12 @@ def _read(path):
     return df if len(df) else None
 
 
+import votehub_feed
+STATE_NAMES = {"AK": "Alaska", "FL": "Florida", "GA": "Georgia", "IA": "Iowa", "KS": "Kansas", "ME": "Maine", "MI": "Michigan",
+               "MN": "Minnesota", "MS": "Mississippi", "NE": "Nebraska", "NH": "New Hampshire", "NV": "Nevada", "OH": "Ohio",
+               "SC": "South Carolina", "TX": "Texas", "WI": "Wisconsin", "NC": "North Carolina"}
+
+
 def load_early(cfg: dict, folder: str):
     f = cfg.get("early_feed") or {}
     if f.get("kind") == "url" and f.get("url"):
@@ -165,6 +171,14 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
             olean = {x["race"]: (float(x["other_lean"]), float(x["sd_other"])) for x in _ol.to_dict("records")}
     except Exception:
         olean = {}
+    try:
+        vh_on = votehub_feed.enabled()
+        vh_rows, vh_map = (votehub_feed.load(), votehub_feed.load_map()) if vh_on else ({}, {})
+    except Exception as ex:
+        vh_on, vh_rows, vh_map = False, {}, {}
+        print(f"  VoteHub feed skipped ({str(ex)[:100]})")
+    vh_swing = vh_on and votehub_feed.swing_on()
+    vh_pending: dict = {}
     feedmap = load_feedmap(cfg.get("feeds", "config/feeds.csv"))
     races: dict = {}
     jobs: dict = {}
@@ -197,6 +211,11 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
                 continue
             try:
                 early = load_early(r, folder)
+                vh_kw, vh_info = {}, {}
+                if vh_on and r.get("state_name", STATE_NAMES.get(r.get("state"))) in vh_rows:
+                    sn = r.get("state_name", STATE_NAMES.get(r.get("state")))
+                    early = votehub_feed.adjust_early(early, counties, vh_rows[sn])
+                    vh_kw, vh_info = votehub_feed.params_for(rid, sn, vh_rows, vh_map, early)
                 results = load_results(r, folder, rid, feedmap)
                 extra, sw_auto = sources.load_race(rid)
                 results = sources.merge_results(results, extra)
@@ -222,16 +241,58 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
                     rr["params"] = dict(rr.get("params") or {}, other_lean=olean[rid][0], sd_other=olean[rid][1])
                 if rid in fundmap and "fund_margin" not in (rr.get("params") or {}):
                     rr["params"] = dict(rr.get("params") or {}, fund_margin=fundmap[rid][0], sd_fund=fundmap[rid][1])
+                if vh_kw:
+                    rr["params"] = dict(rr.get("params") or {}, **vh_kw)
                 s = project(counties, early, results, build_params(rr))
+                if vh_info:
+                    s.setdefault("inputs", {})["votehub"] = vh_info
+                    rr["_vh_info"] = vh_info
                 jobs[rid] = (counties, early, results, rr, meta)
                 races[rid] = {"meta": meta, "status": "ok", "checked": now, "as_of": now,
                               "summary": to_json_summary(s)}
+                if vh_info.get("modeled") and vh_swing and s.get("inputs", {}).get("early_pool_expected") is not None:
+                    vh_pending[rid] = (s, vh_info)
                 w.writerow([now, rid, round(s["pct_in"], 2), round(s["median"], 2), round(s["p10"], 2),
                             round(s["p90"], 2), round(s["win_prob"], 3)])
             except Exception as ex:  # keep last good numbers, flag the problem
                 traceback.print_exc()
                 races[rid] = {"meta": meta, "status": f"feed/model error: {ex}", "checked": now,
                               "summary": prev.get("summary"), "as_of": prev.get("as_of")}
+
+    # ---- VoteHub modeled vote as a bounded swing signal (needs several states to remove their house bias) ----
+    if vh_pending:
+        try:
+            import numpy as _np
+            sp = "data/votehub_state.json"
+            prev_eff = json.load(open(sp)) if os.path.exists(sp) else {}
+            step = votehub_feed.STEP
+            devs = {rid: info["early_margin"] - s0["inputs"]["early_pool_expected"] - s0["swing"] for rid, (s0, info) in vh_pending.items()}
+            if len(devs) >= 3:
+                bias = float(_np.median(list(devs.values())))
+                new_eff = dict(prev_eff)
+                for rid, (s0, info) in vh_pending.items():
+                    counties, early, results, rr, meta = jobs[rid]
+                    rr["params"] = dict(rr.get("params") or {}, vh_early_margin=info["early_margin"] - bias, vh_scale=1.0)
+                    s1 = project(counties, early, results, build_params(rr))
+                    eff = s1["median"] - s0["median"]
+                    prv = float(prev_eff.get(rid, 0.0))
+                    tgt = min(max(eff, prv - step), prv + step)
+                    if abs(eff - tgt) > 0.01:
+                        rr["params"]["vh_scale"] = max(0.0, min(1.0, tgt / eff)) if eff * tgt > 0 else 0.0
+                        s1 = project(counties, early, results, build_params(rr))
+                        eff = s1["median"] - s0["median"]
+                    info = dict(info, bias=round(bias, 1), effect=round(eff, 2), states=len(devs))
+                    s1.setdefault("inputs", {})["votehub"] = info
+                    rr["_vh_info"] = info
+                    races[rid]["summary"] = to_json_summary(s1)
+                    new_eff[rid] = round(eff, 3)
+                    print(f"  VoteHub swing signal {rid}: {eff:+.2f} pts (their house bias {bias:+.1f} removed, {len(devs)} states)")
+                write_json_atomic(sp, new_eff)
+            else:
+                print(f"  VoteHub swing signal waits for 3+ states with modeled votes (have {len(devs)})")
+        except Exception as ex:
+            traceback.print_exc()
+            print(f"  VoteHub swing signal skipped ({str(ex)[:100]})")
 
     # ---- cross-race adjustment: races counted bluer/redder than expected move the races still out ----
     try:
@@ -262,6 +323,8 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
             if p_.fund_margin is not None:
                 kw_["fund_margin"] = p_.fund_margin + sh
             s2 = project(counties, early, results, replace(p_, **kw_))
+            if jobs[rid][3].get("_vh_info"):
+                s2.setdefault("inputs", {})["votehub"] = jobs[rid][3]["_vh_info"]
             races[rid]["summary"] = to_json_summary(s2)
             races[rid]["summary"]["cross_race_shift"] = round(sh, 2)
             print(f"  cross-race: {rid} prior moved {sh:+.1f} (from counted races) -> median {s2['median']:+.1f}")

@@ -2,5 +2,7 @@
   "electiontracker": true,
   "_note": "true = run sources whose `switch` column matches. Edit on GitHub to turn one off.",
   "house": true,
-  "electionhub": true
+  "electionhub": true,
+  "votehub": true,
+  "votehub_swing": true
 }
