@@ -13,7 +13,7 @@ import argparse, glob, json, os
 import pandas as pd
 
 SRC = "https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json"
-FIPS = {"FL": "12", "GA": "13", "IA": "19", "KS": "20", "ME": "23", "MI": "26", "MN": "27", "MS": "28", "NE": "31",
+FIPS = {"FL": "12", "GA": "13", "IA": "19", "KS": "20", "ME": "23", "MI": "26", "MN": "27", "MS": "28", "NC": "37", "NE": "31",
         "NH": "33", "NV": "32", "OH": "39", "SC": "45", "TX": "48", "WI": "55"}
 
 
