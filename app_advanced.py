@@ -103,6 +103,11 @@ party_bias = st.sidebar.number_input("Early party-signal bias (pts)", value=0.0,
                                      disabled=not has_party_reg,
                                      help="Calibrate on a past cycle so the signal reads ~0 when "
                                           "nothing changed.")
+other_lean = st.sidebar.number_input("Independents/other lean (pts D)", value=4.0, step=1.0, min_value=-10.0, max_value=10.0,
+                                     disabled=not has_party_reg,
+                                     help="How many points more Democratic unaffiliated/other voters are than the early pool overall. "
+                                          "0 = they wash out. Default +4: exit polls had them about +3 to +5 Dem of the national vote in 2018 and 2022, and Trump's approval with them is ~20-25% now.")
+sd_other = st.sidebar.slider("Uncertainty on that lean (pts)", 0.0, 10.0, 5.0, 0.5, disabled=not has_party_reg)
 with st.sidebar.expander("Unit noise (advanced)"):
     tau_county = st.slider("County/unit spread (pts)", 1.0, 8.0, preset["tau_county"], 0.5, key=f"tc_{k}")
     tau_region = st.slider("Region spread (pts)", 0.5, 6.0, preset["tau_region"], 0.5, key=f"tr_{k}")
@@ -149,7 +154,7 @@ def make_params(poll):
                   rcv_to_r=rcv_to_r, runoff_rule=runoff_rule, runoff_shift=runoff_shift,
                   runoff_sd=runoff_sd, early_gap=early_gap,
                   early_first=early_first, early_final_pct_in=early_pct_in, reg_loyalty=loyalty,
-                  party_bias=party_bias, tau_county=tau_county, tau_region=tau_region,
+                  party_bias=party_bias, other_lean=other_lean, sd_other=sd_other, tau_county=tau_county, tau_region=tau_region,
                   sigma_nonrep=sigma_nonrep)
 
 

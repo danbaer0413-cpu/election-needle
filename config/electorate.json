@@ -1,0 +1,10 @@
+{
+  "loyalty": 0.95,
+  "sd_comp": 6.0,
+  "poll_check": true,
+  "poll_check_free_gap": 3.0,
+  "poll_check_per_point": 0.04,
+  "poll_check_max_widen": 0.30,
+  "skip_races": ["NE-senate"],
+  "_note": "Electorate model (electorate.py): rough per-state guess of who votes and how. Edit config/electorate.csv. Weight is small (sd_comp 6)."
+}
