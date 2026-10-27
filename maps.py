@@ -159,33 +159,77 @@ def load_ak_geo(folder="data/geo"):
     return json.load(open(p)) if os.path.exists(p) else None
 
 
+def _albers_ak(lon, lat):
+    """Alaska Albers (equal-area conic, parallels 55 and 65, origin 50N 154W) on a unit sphere. Returns (x, y). Longitudes below -180 are fine."""
+    import math
+    p1, p2, p0, l0 = (math.radians(v) for v in (55.0, 65.0, 50.0, -154.0))
+    n = (math.sin(p1) + math.sin(p2)) / 2
+    C = math.cos(p1) ** 2 + 2 * n * math.sin(p1)
+    r0 = math.sqrt(C - 2 * n * math.sin(p0)) / n
+    r = math.sqrt(C - 2 * n * math.sin(math.radians(lat))) / n
+    th = n * (math.radians(lon) - l0)
+    return r * math.sin(th), r0 - r * math.cos(th)
+
+
+def _blend(a: str, b: str, t: float) -> tuple:
+    pa = [int(a[i:i + 2], 16) for i in (1, 3, 5)]
+    pb = [int(b[i:i + 2], 16) for i in (1, 3, 5)]
+    return tuple(round(x + (y - x) * t) for x, y in zip(pa, pb))
+
+
+def _margin_rgb(z: float) -> tuple:
+    """Projected margin (clipped to +-30) -> the red / grey / blue scale used on the county maps."""
+    t = max(-30.0, min(30.0, z)) / 30.0
+    return _blend("#f2f2f2", D3, t) if t >= 0 else _blend("#f2f2f2", R3, -t)
+
+
 def district_map_figure(summary: dict, geo: dict, title: str = "", bubbles: bool = True):
-    """Alaska: one shape per state House election district (our units are 'District 01'...'District 40')."""
+    """Alaska: one shape per state House election district (our units are 'District 01'...'District 40').
+    Drawn as plain filled shapes in Alaska Albers coordinates (not plotly's map layer, which struggles with the Aleutians)."""
     import re
     t = pd.DataFrame(summary["table"])
     t["loc"] = t["county"].map(lambda c: (lambda m: f"District {int(m.group(1)):02d}" if m else None)(re.search(r"(\d+)", str(c))))
-    have = {str(f.get("id")) for f in geo.get("features", [])}
-    t = t[t["loc"].isin(have)].copy()
-    t["z"] = t["proj_margin"].clip(-30, 30)
-    t["hover"] = t.apply(lambda r: f"<b>{r['county']}</b><br>Projected {'D' if r['proj_margin'] > 0 else 'R'}+{abs(r['proj_margin']):.1f}"
-                         f"<br>{r['pct_in']:.0f}% counted · baseline {r['base_margin']:+.1f}"
-                         f"<br>{_fmt_n(r['counted'])} counted · about {_fmt_n(r['remaining'])} votes left", axis=1)
+    feats = {str(f.get("id")): f for f in geo.get("features", [])}
+    t = t[t["loc"].isin(feats)].copy()
     fig = go.Figure()
-    scale = [[0, R3], [0.5, "#f2f2f2"], [1, D3]]
-    for flag, op in ((False, 0.4), (True, 1.0)):
-        d = t[(t["pct_in"] >= COUNTY_REPORTING_MIN) == flag]
-        if d.empty:
+    centers = {}
+    for r in t.itertuples():
+        g = feats[r.loc].get("geometry") or {}
+        polys = g.get("coordinates") or []
+        if g.get("type") == "Polygon":
+            polys = [polys]
+        xs, ys, best = [], [], None
+        for poly in polys:
+            if not poly or not poly[0]:
+                continue
+            pr = [_albers_ak(x, y) for x, y in poly[0]]
+            xs += [p[0] for p in pr] + [None]
+            ys += [p[1] for p in pr] + [None]
+            bx = [p[0] for p in pr]; by = [p[1] for p in pr]
+            area = (max(bx) - min(bx)) * (max(by) - min(by))
+            if best is None or area > best[0]:
+                best = (area, (min(bx) + max(bx)) / 2, (min(by) + max(by)) / 2)
+        if not xs:
             continue
-        fig.add_trace(go.Choropleth(geojson=geo, locations=d["loc"], z=d["z"], zmin=-30, zmax=30, colorscale=scale, showscale=False,
-                                    text=d["hover"], hoverinfo="text", marker_opacity=op, marker_line_color="white", marker_line_width=0.6))
-    if bubbles and "remaining" in t:
-        cen = _centers(geo, set(t["loc"]))
-        b = t[t["loc"].isin(cen) & (t["remaining"] > 0)]
+        if best:
+            centers[r.loc] = (best[1], best[2])
+        z = float(r.proj_margin)
+        op = 1.0 if float(r.pct_in) >= COUNTY_REPORTING_MIN else 0.4
+        rgb = _margin_rgb(z)
+        hover = (f"<b>{r.county}</b><br>Projected {'D' if z > 0 else 'R'}+{abs(z):.1f}"
+                 f"<br>{float(r.pct_in):.0f}% counted · baseline {float(r.base_margin):+.1f}"
+                 f"<br>{_fmt_n(r.counted)} counted · about {_fmt_n(r.remaining)} votes left")
+        fig.add_trace(go.Scatter(x=xs, y=ys, mode="lines", fill="toself", fillcolor=f"rgba({rgb[0]},{rgb[1]},{rgb[2]},{op})",
+                                 line=dict(color="white", width=0.6), hoveron="fills", text=hover, hoverinfo="text", showlegend=False))
+        t.loc[t["loc"] == r.loc, "hover"] = hover
+    if bubbles and "remaining" in t and "hover" in t:
+        b = t[t["loc"].isin(centers) & (t["remaining"] > 0)]
         if len(b):
-            sz = bubble_sizes(b["remaining"].to_numpy())
-            fig.add_trace(go.Scattergeo(lon=[cen[f][0] for f in b["loc"]], lat=[cen[f][1] for f in b["loc"]], mode="markers",
-                                        marker=dict(size=sz, color="rgba(240,190,60,0.55)", line=dict(color="rgba(110,80,0,0.9)", width=0.8)),
-                                        text=b["hover"], hoverinfo="text", showlegend=False))
-    fig.update_geos(fitbounds="locations", visible=False, projection=dict(type="conic conformal", rotation=dict(lon=-150), parallels=[55, 65]))
-    fig.update_layout(margin=dict(l=0, r=0, t=0, b=0), height=360, paper_bgcolor="rgba(0,0,0,0)", title=dict(text=title, x=0.01) if title else None)
+            fig.add_trace(go.Scatter(x=[centers[f][0] for f in b["loc"]], y=[centers[f][1] for f in b["loc"]], mode="markers",
+                                     marker=dict(size=bubble_sizes(b["remaining"].to_numpy()), color="rgba(240,190,60,0.55)",
+                                                 line=dict(color="rgba(110,80,0,0.9)", width=0.8)),
+                                     text=b["hover"], hoverinfo="text", showlegend=False))
+    fig.update_layout(margin=dict(l=0, r=0, t=0, b=0), height=360, paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)",
+                      xaxis=dict(visible=False), yaxis=dict(visible=False, scaleanchor="x"), hovermode="closest",
+                      title=dict(text=title, x=0.01) if title else None)
     return fig
