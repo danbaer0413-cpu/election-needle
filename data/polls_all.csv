@@ -12,6 +12,7 @@ AK-governor,The New York Times/Siena College,2026-10-01,448.0,46.39,53.61
 AK-governor,Alaska Survey Research,2026-10-03,1512.0,54.0,46.0
 AK-governor,Data for Progress,2026-10-16,629.0,53.0,47.0
 AK-governor,Alaska Survey Research,2026-10-18,1568.0,55.0,45.0
+AK-governor,Alaska Survey Research,2026-10-25,1068.0,53.4,46.6
 AK-senate,Alaska Survey Research,2023-04-25,1261.0,44.0,41.0
 AK-senate,Data for Progress,2025-07-27,678.0,45.0,46.0
 AK-senate,Alaska Survey Research,2025-08-01,1613.0,42.5,46.7
@@ -238,6 +239,7 @@ MI-governor,YouGov,2026-10-04,3949.0,48.0,45.0
 MI-governor,YouGov,2026-10-05,600.0,48.0,45.0
 MI-governor,Wedgewood,2026-10-09,600.0,55.0,45.0
 MI-governor,Marist College,2026-10-18,1185.0,51.0,45.0
+MI-governor,Michigan State University Institute for Public Policy and Social Research/YouGov,2026-10-19,836.0,53.3,40.9
 MI-senate,Glengariff Group,2025-05-08,600.0,40.8,46.9
 MI-senate,Rosetta Stone,2025-10-25,637.0,31.0,45.0
 MI-senate,Mitchell Research & Communications,2025-11-21,616.0,38.0,41.0
@@ -277,6 +279,7 @@ MI-senate,Wedgewood,2026-10-09,600.0,53.0,47.0
 MI-senate,InsiderAdvantage,2026-10-10,1200.0,47.8,45.5
 MI-senate,Rasmussen,2026-10-14,600.0,46.0,44.0
 MI-senate,Marist College,2026-10-18,1185.0,50.0,48.0
+MI-senate,Michigan State University Institute for Public Policy and Social Research/YouGov,2026-10-19,836.0,48.0,45.5
 MI-senate,InsiderAdvantage,2026-10-22,1200.0,47.2,46.0
 MN-governor,SurveyUSA,2025-09-18,568.0,49.0,38.0
 MN-governor,SurveyUSA,2026-01-30,575.0,49.0,34.0
@@ -299,6 +302,42 @@ MN-senate,Mason-Dixon Polling & Strategy,2026-10-07,800.0,47.0,43.0
 MN-senate,Morning Consult,2026-10-07,1000.0,45.0,41.0
 MN-senate,Rasmussen,2026-10-07,600.0,48.0,45.0
 MN-senate,SurveyUSA,2026-10-12,718.0,45.0,42.0
+NC-senate,Victory Insights,2025-07-30,600.0,44.4,43.5
+NC-senate,Emerson College,2025-07-30,1000.0,46.7,41.4
+NC-senate,Harper Polling,2025-08-12,600.0,47.3,39.1
+NC-senate,Harper Polling,2025-09-15,600.0,46.1,41.9
+NC-senate,Harper Polling,2025-11-10,600.0,47.3,38.6
+NC-senate,Public Policy Polling,2026-03-14,556.0,47.0,44.0
+NC-senate,YouGov,2026-03-18,872.0,48.0,34.0
+NC-senate,Harper Polling,2026-03-23,600.0,48.9,41.1
+NC-senate,Quantus Insights,2026-04-01,987.0,48.6,43.8
+NC-senate,High Point University Survey Research Center,2026-04-06,703.0,50.0,42.0
+NC-senate,Opinion Diagnostics,2026-04-24,830.0,50.4,41.4
+NC-senate,Harper Polling,2026-05-11,600.0,49.8,38.7
+NC-senate,YouGov,2026-06-10,905.0,47.73,34.03
+NC-senate,The New York Times/Siena College,2026-06-27,601.0,50.0,43.19
+NC-senate,Public Policy Polling,2026-07-11,759.0,48.0,44.0
+NC-senate,Beacon Research/Shaw & Co. Research,2026-07-27,1005.0,53.0,44.0
+NC-senate,YouGov,2026-07-31,466.0,53.0,42.0
+NC-senate,Harper Polling,2026-08-10,600.0,51.5,39.0
+NC-senate,High Point University Survey Research Center,2026-08-12,660.0,50.0,45.0
+NC-senate,YouGov,2026-08-31,565.0,49.0,38.0
+NC-senate,East Carolina University Center for Survey Research,2026-09-03,675.0,51.7,43.6
+NC-senate,YouGov,2026-09-15,885.0,48.0,37.0
+NC-senate,Harper Polling,2026-09-15,608.0,49.2,34.1
+NC-senate,High Point University Survey Research Center,2026-09-16,706.0,50.0,42.0
+NC-senate,InsiderAdvantage,2026-09-17,1200.0,48.4,42.5
+NC-senate,YouGov,2026-09-18,3511.0,54.0,41.0
+NC-senate,Fabrizio Lee & Associates/Impact Research,2026-09-20,1115.0,53.0,42.0
+NC-senate,Opinion Diagnostics,2026-09-20,857.0,51.7,43.5
+NC-senate,Quantus Insights,2026-09-22,686.0,48.4,43.3
+NC-senate,Big Data Poll,2026-09-29,642.0,50.8,38.5
+NC-senate,East Carolina University Center for Survey Research,2026-10-03,810.0,50.0,43.0
+NC-senate,YouGov,2026-10-08,560.0,54.0,43.0
+NC-senate,SurveyUSA,2026-10-11,643.0,54.0,40.0
+NC-senate,Harper Polling,2026-10-20,600.0,51.6,42.0
+NC-senate,ActiVote,2026-10-20,400.0,56.9,43.1
+NC-senate,Quantus Insights,2026-10-25,722.0,52.4,43.4
 NE-governor,SurveyUSA,2026-09-13,503.0,35.0,43.0
 NE-governor,co/efficient,2026-09-30,1113.0,38.0,42.0
 NE-governor,YouGov,2026-10-03,1808.0,43.0,44.0
@@ -342,6 +381,7 @@ NH-senate,Rasmussen,2026-10-02,600.0,49.0,44.0
 NH-senate,YouGov,2026-10-05,1519.0,51.0,43.0
 NH-senate,National Public Affairs,2026-10-12,600.0,50.0,43.0
 NH-senate,Saint Anselm College Survey Center,2026-10-20,1672.0,50.0,43.0
+NH-senate,Rasmussen,2026-10-23,600.0,50.0,44.0
 NV-governor,Noble Predictive Insights,2025-10-13,766.0,37.0,40.0
 NV-governor,Emerson College,2025-11-18,800.0,41.1,41.1
 NV-governor,Noble Predictive Insights,2026-03-13,845.0,38.0,39.0
@@ -412,10 +452,12 @@ OH-senate,Beacon Research/Shaw & Co. Research,2026-10-19,1592.0,52.0,47.0
 OH-senate,Verasight,2026-10-20,531.0,47.5,43.6
 OH-senate,InsiderAdvantage,2026-10-22,1200.0,46.7,44.4
 SC-governor,Resonance Media,2026-10-03,600.0,35.0,45.0
+SC-governor,Targoz,2026-10-25,600.0,41.0,51.0
 SC-senate,Abacus Data,2026-08-28,306.0,38.0,51.0
 SC-senate,InsiderAdvantage,2026-09-09,1200.0,43.2,45.1
 SC-senate,InsiderAdvantage,2026-09-29,1200.0,45.0,46.0
 SC-senate,Rasmussen,2026-10-08,600.0,45.0,49.0
+SC-senate,Targoz,2026-10-25,600.0,46.0,47.0
 TX-governor,Emerson College,2026-01-12,1165.0,42.3,50.2
 TX-governor,University of Houston Hobby School of Public Affairs,2026-01-31,1502.0,42.0,49.0
 TX-governor,University of Texas at Tyler Center for Opinion Research,2026-02-22,1117.0,41.0,49.0

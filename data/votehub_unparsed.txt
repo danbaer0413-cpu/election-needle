@@ -43,16 +43,3 @@ North Carolina Early Voting, Day 2:
 ⚪ Unaffiliated: 34.3%
 
 Democrats led by 22 points in party registration, down from 27 points on Thursday. Republicans should continue to gain ground, but the gap remains substantial.
-
------
-
-North Carolina October 15th Returns
-
-🔵 Democratic - 96,706 (47.38%)
-🔴 Republican - 40,639 (19.91%)
-⚪ Unaffiliated - 66,378 (32.52%)
-🟡 Libertarian - 317 (0.16%)
-🟢 Green - 53 (0.03%)
-
-Total: 204,093 ballots (98.7% In-Person Early Vote)
-Registration margin: D+27.47
