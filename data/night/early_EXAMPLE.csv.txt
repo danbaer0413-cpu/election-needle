@@ -1,0 +1,2 @@
+race,county,early_returned,d_reg,r_reg,o_reg
+GA-senate,Fulton,250000,120000,60000,70000

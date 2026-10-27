@@ -23,6 +23,7 @@ from feeds import fetch_table, to_results
 import sources
 import statewide_mode
 import house_live
+import sheet_inbox
 from model import Params, project
 from publish import to_json_summary, write_json_atomic
 
@@ -148,6 +149,11 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
         w = csv.writer(lf)
         if new_log:
             w.writerow(["timestamp", "id", "pct_in", "median", "p10", "p90", "win_prob"])
+        try:
+            sheet_inbox.sync(cfg.get("races", []))
+            sheet_inbox.sync_early(cfg.get("races", []))
+        except Exception as ex:
+            print(f"  election-night sheet skipped ({str(ex)[:100]})")
         try:
             house_live.refresh()
         except Exception as ex:
