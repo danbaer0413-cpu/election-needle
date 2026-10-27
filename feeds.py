@@ -541,7 +541,7 @@ def _flfile_results(row: dict) -> pd.DataFrame:
         url = f"https://flelectionfiles.floridados.gov/enightfilespublic/{ymd}_ElecResultsFL.txt"
     txt = _fetch(url, timeout=90).content.decode("latin-1")
     df = pd.read_csv(io.StringIO(txt), sep="\t", dtype=str)
-    cc = _pick_col(df.columns, "officedesc", "contestname", "office")
+    cc = _pick_col(df.columns, "racename", "officedesc", "contestname", "office")
     cty = _pick_col(df.columns, "countyname", "county")
     pty = _pick_col(df.columns, "partycode", "partyname", "party")
     vot = _pick_col(df.columns, "canvotes", "votes")
