@@ -185,6 +185,8 @@ ME-governor,Marist College,2026-10-04,1505.0,52.0,40.0
 ME-governor,The Washington Post/George Mason University Schar School of Policy and Government,2026-10-05,800.0,49.0,36.0
 ME-governor,Suffolk University,2026-10-11,500.0,49.0,38.0
 ME-governor,Beacon Research/Shaw & Co. Research,2026-10-20,1514.0,49.0,39.0
+ME-governor,Marist,2026-10-24,600.0,44.0,44.0
+ME-governor,Marist College,2026-10-25,1449.0,51.0,40.0
 ME-senate,University of New Hampshire Survey Center,2026-07-20,1178.0,49.0,46.0
 ME-senate,Beacon Research/Shaw & Co. Research,2026-08-10,1000.0,48.0,46.0
 ME-senate,Abacus Data,2026-08-28,327.0,50.0,42.0
@@ -205,6 +207,8 @@ ME-senate,Rasmussen,2026-10-05,600.0,49.0,47.0
 ME-senate,Suffolk University,2026-10-11,500.0,49.0,47.0
 ME-senate,InsiderAdvantage,2026-10-14,1200.0,49.3,46.8
 ME-senate,Beacon Research/Shaw & Co. Research,2026-10-20,1514.0,49.0,49.0
+ME-senate,Marist,2026-10-24,600.0,49.0,47.0
+ME-senate,Marist College,2026-10-25,1449.0,53.0,44.0
 MI-governor,Target Insyght,2025-03-06,600.0,42.0,30.0
 MI-governor,Mitchell Research & Communications,2025-03-13,688.0,37.0,34.0
 MI-governor,Glengariff Group,2025-05-08,600.0,34.5,34.0
@@ -240,6 +244,7 @@ MI-governor,YouGov,2026-10-05,600.0,48.0,45.0
 MI-governor,Wedgewood,2026-10-09,600.0,55.0,45.0
 MI-governor,Marist College,2026-10-18,1185.0,51.0,45.0
 MI-governor,Michigan State University Institute for Public Policy and Social Research/YouGov,2026-10-19,836.0,53.3,40.9
+MI-governor,Glengariff Group,2026-10-22,600.0,51.4,44.5
 MI-senate,Glengariff Group,2025-05-08,600.0,40.8,46.9
 MI-senate,Rosetta Stone,2025-10-25,637.0,31.0,45.0
 MI-senate,Mitchell Research & Communications,2025-11-21,616.0,38.0,41.0
@@ -280,6 +285,7 @@ MI-senate,InsiderAdvantage,2026-10-10,1200.0,47.8,45.5
 MI-senate,Rasmussen,2026-10-14,600.0,46.0,44.0
 MI-senate,Marist College,2026-10-18,1185.0,50.0,48.0
 MI-senate,Michigan State University Institute for Public Policy and Social Research/YouGov,2026-10-19,836.0,48.0,45.5
+MI-senate,Glengariff Group,2026-10-22,600.0,51.4,45.1
 MI-senate,InsiderAdvantage,2026-10-22,1200.0,47.2,46.0
 MN-governor,SurveyUSA,2025-09-18,568.0,49.0,38.0
 MN-governor,SurveyUSA,2026-01-30,575.0,49.0,34.0
@@ -452,12 +458,12 @@ OH-senate,Beacon Research/Shaw & Co. Research,2026-10-19,1592.0,52.0,47.0
 OH-senate,Verasight,2026-10-20,531.0,47.5,43.6
 OH-senate,InsiderAdvantage,2026-10-22,1200.0,46.7,44.4
 SC-governor,Resonance Media,2026-10-03,600.0,35.0,45.0
-SC-governor,Targoz,2026-10-25,600.0,41.0,51.0
+SC-governor,Targoz Market Research,2026-10-25,895.0,41.0,51.0
 SC-senate,Abacus Data,2026-08-28,306.0,38.0,51.0
 SC-senate,InsiderAdvantage,2026-09-09,1200.0,43.2,45.1
 SC-senate,InsiderAdvantage,2026-09-29,1200.0,45.0,46.0
 SC-senate,Rasmussen,2026-10-08,600.0,45.0,49.0
-SC-senate,Targoz,2026-10-25,600.0,46.0,47.0
+SC-senate,Targoz Market Research,2026-10-25,895.0,46.0,47.0
 TX-governor,Emerson College,2026-01-12,1165.0,42.3,50.2
 TX-governor,University of Houston Hobby School of Public Affairs,2026-01-31,1502.0,42.0,49.0
 TX-governor,University of Texas at Tyler Center for Opinion Research,2026-02-22,1117.0,41.0,49.0
@@ -506,6 +512,7 @@ TX-governor,Slingshot Strategies,2026-10-18,969.0,48.0,51.0
 TX-governor,Emerson College,2026-10-19,1000.0,46.59,51.07
 TX-governor,Beacon Research/Shaw & Co. Research,2026-10-19,1398.0,47.0,52.0
 TX-governor,Verasight,2026-10-20,601.0,46.4,47.7
+TX-governor,YouGov,2026-10-21,1000.0,46.0,48.0
 TX-governor,ActiVote,2026-10-21,400.0,47.5,52.5
 TX-senate,Barbara Jordan Public Policy Research and Survey Center,2025-05-19,1200.0,44.0,48.0
 TX-senate,Emerson College,2025-08-12,1000.0,38.1,45.2
@@ -565,6 +572,7 @@ TX-senate,Slingshot Strategies,2026-10-18,969.0,51.0,47.0
 TX-senate,Emerson College,2026-10-19,1000.0,49.37,47.83
 TX-senate,Beacon Research/Shaw & Co. Research,2026-10-19,1398.0,49.0,49.0
 TX-senate,Verasight,2026-10-20,601.0,47.6,45.2
+TX-senate,YouGov,2026-10-21,1000.0,50.0,45.0
 TX-senate,ActiVote,2026-10-21,400.0,51.0,49.0
 TX-senate,Rasmussen,2026-10-21,600.0,45.0,45.0
 WI-governor,RMG Research,2026-07-24,800.0,46.0,43.0
