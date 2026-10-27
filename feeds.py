@@ -85,17 +85,31 @@ BROWSER = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
            "Accept": "text/html,application/xhtml+xml,application/xml,application/json,text/csv;q=0.9,*/*;q=0.8"}
 
 
-def _fetch(url, timeout=20):
-    """GET with browser-like headers; one retry without certificate checks if a state site has a broken certificate chain
-    (public, read-only results pages)."""
-    import requests
-    try:
-        r = requests.get(url, timeout=timeout, headers=BROWSER)
-    except requests.exceptions.SSLError:
-        requests.packages.urllib3.disable_warnings()
-        r = requests.get(url, timeout=timeout, headers=BROWSER, verify=False)
-    r.raise_for_status()
-    return r
+def _fetch(url, timeout=20, tries=3):
+    """GET with browser-like headers. Retries politely (waits 4 s, then 12 s) when a state site answers 403/429/5xx or times out, because
+    those are often momentary; a block that persists is reported, never worked around. One retry without certificate checks if a state
+    site has a broken certificate chain (public, read-only results pages)."""
+    import requests, time
+    last = None
+    for i in range(tries):
+        try:
+            try:
+                r = requests.get(url, timeout=timeout, headers=BROWSER)
+            except requests.exceptions.SSLError:
+                requests.packages.urllib3.disable_warnings()
+                r = requests.get(url, timeout=timeout, headers=BROWSER, verify=False)
+            if r.status_code in (403, 429, 500, 502, 503, 504) and i < tries - 1:
+                time.sleep(4 * (3 ** i))
+                continue
+            r.raise_for_status()
+            return r
+        except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as ex:
+            last = ex
+            if i < tries - 1:
+                time.sleep(4 * (3 ** i))
+                continue
+            raise
+    raise last
 
 
 def _read_any(url, fmt, sheet=None, records=None, explode=None, timeout=20):
@@ -567,7 +581,7 @@ def _alaska_results(row: dict) -> pd.DataFrame:
         from playwright.sync_api import sync_playwright
         with sync_playwright() as p:
             br = p.chromium.launch()
-            ctx = br.new_context(user_agent=BROWSER["User-Agent"])
+            ctx = br.new_context(user_agent=BROWSER["User-Agent"], ignore_https_errors=True)   # same policy as _fetch: public read-only file, incomplete certificate chain
             r = ctx.request.get(url, timeout=90000)
             if r.status != 200:
                 br.close()
