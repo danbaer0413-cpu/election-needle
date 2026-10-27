@@ -24,14 +24,12 @@
   PASS
 
 == Florida 2024 President (election-night file) ==
-  ERROR: ValueError: unexpected Florida file columns: ['ElectionDate', 'PartyCode', 'PartyName', 'RaceCode', 'RaceName', 'CountyCode', 'CountyName', 'Juris1num', 'Juris2num', 'Precincts', 'PrecinctsReporting', 'CanNameLast', 'CanNameFirst', 'CanNameMiddle']
+  ERROR: HTTPError: 403 Client Error: Forbidden for url: https://flelectionfiles.floridados.gov/enightfilespublic/20241105_ElecResultsFL.txt
 
 == Alaska 2024 President (by House district) ==
-  counties: reader 42, history 41, matched 41
-  totals  : reader D 140,026 R 184,458 | history D 140,026 R 184,458
-  total difference: D 0.000%, R 0.000%
-  names only in reader: ['other']
-  names only in history: []
-  PASS
+  ERROR: Error: APIRequestContext.get: unable to verify the first certificate; if the root CA is installed locally, try running Node.js with --use-system-ca
+Call log:
+  - → GET https://www.elections.alaska.gov/results/24GENR/ENRbyPrecinct.csv
+    - user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/5
 
-5 of 6 passed
+4 of 6 passed
