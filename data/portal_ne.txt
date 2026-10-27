@@ -1,0 +1,35 @@
+
+== /resultsSW.aspx?type=SW&map=CTY: 94,053 chars, 2 service calls
+   GetCandidates: ...= "") { results = getValues(ServiceRoot + "ResultsAjax.svc/GetCandidates?ElectionType=" + electionType + "&ElectionID=" + eid); eid = "&eid=" + eid; mode = ""; } else { results = getValues(Servic
+   [ServiceRoot] ServiceRoot = 'https://neresultswebservice.azurewebsites.us/';
+
+== /Default.aspx: 54,959 chars, 2 service calls
+   GetCandidates: ...= "") { results = getValues(ServiceRoot + "ResultsAjax.svc/GetCandidates?ElectionType=" + electionType + "&ElectionID=" + eid); eid = "&eid=" + eid; mode = ""; } else { results = getValues(Servic
+   [ServiceRoot] ServiceRoot = 'https://neresultswebservice.azurewebsites.us/';
+
+== /Scripts/utils.js: 22,922 chars, 0 service calls
+   [getValues] getValues(url) {
+
+== /Scripts/BuildCounties.js: 5,282 chars, 3 service calls
+   GetMapDataArchive: ...tionID != "") { results = getValues(ServiceRoot + "ResultsAjax.svc/GetMapDataArchive?type=" + type + "&category=CTY" + "&raceID=" + raceID + "&osn=" + osn + "&county=0&party=" + party + "&electionID=" + electionID); } else { results = getValues
+   GetMapData: ...; } else { results = getValues(ServiceRoot + "ResultsAjax.svc/GetMapData?type=" + type + "&category=CTY" + "&raceID=" + raceID + "&osn=" + osn + "&county=0&party=" + party); } //var results = getValues(ServiceRoot + "ResultsAjax.svc/GetMapData
+
+== /Scripts/BuildPrecincts.js: 4,260 chars, 3 service calls
+   GetMapDataArchive: ...tionID != "") { results = getValues(ServiceRoot + "ResultsAjax.svc/GetMapDataArchive?type=" + type + "&category=PREC" + "&raceID=" + raceID + "&osn=" + osn + "&county=" + countyID + "&party=" + party + "&electionID=" + electionID); } else { res
+   GetMapData: ...; } else { results = getValues(ServiceRoot + "ResultsAjax.svc/GetMapData?type=" + type + "&category=PREC" + "&raceID=" + raceID + "&osn=" + osn + "&county=" + countyID + "&party=" + party); } //var results = getValues(ServiceRoot + "ResultsAja
+
+== /maps/static/js/BuildCountyMap.js: 34,842 chars, 2 service calls
+   GetMapDataArchive: ...tionID != "") { results = getValues(ServiceRoot + "ResultsAjax.svc/GetMapDataArchive?type=" + type + "&category=CTY" + "&raceID=" + raceID + "&osn=" + osn + "&county=0&party=" + party + "&electionID=" + electionID); } else { results = getValues
+   GetMapData: ...; } else { results = getValues(ServiceRoot + "ResultsAjax.svc/GetMapData?type=" + type + "&category=CTY" + "&raceID=" + raceID + "&osn=" + osn + "&county=0&party=" + party); } rs_object = results["d"]; counties = _.uniq(_.pluck(rs_obj
+
+== /maps/static/js/CreateMap.js: 3,871 chars, 0 service calls
+
+== /Scripts/CountyTurnoutChart.js: 11,251 chars, 2 service calls
+   GetVoterTurnoutArchive: ...tionID != "") { results = getValues(ServiceRoot + "ResultsAjax.svc/GetVoterTurnoutArchive?electionID=" + electionID) } else { results = getValues(ServiceRoot + "ResultsAjax.svc/GetVoterTurnoutData?"); } rs_object = results["d"]; var Pre
+   GetVoterTurnoutData: ...) } else { results = getValues(ServiceRoot + "ResultsAjax.svc/GetVoterTurnoutData?"); } rs_object = results["d"]; var PrecReport, Turnout, PrecReportMobile, TurnoutMobile; //var BallotType = {}; var doughnutChart = {}; var precinc
+
+== /Scripts/HeaderTurnoutChart.js: 4,273 chars, 0 service calls
+
+== /ResultsMedia.aspx: 29,310 chars, 2 service calls
+   GetCandidates: ...= "") { results = getValues(ServiceRoot + "ResultsAjax.svc/GetCandidates?ElectionType=" + electionType + "&ElectionID=" + eid); eid = "&eid=" + eid; mode = ""; } else { results = getValues(Servic
+   [ServiceRoot] ServiceRoot = 'https://neresultswebservice.azurewebsites.us/';

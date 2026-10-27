@@ -1,0 +1,62 @@
+
+== NC 2024 precinct results zip: https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/2024_11_05/results_pct_20241105.zip
+   status 200, 3,741,131 bytes, application/x-zip-compressed
+   zip members: ['results_pct_20241105.txt']
+   first lines: County	Election Date	Precinct	Contest Group ID	Contest Type	Contest Name	Choice	Choice Party	Vote For	Election Day	Early Voting	Absentee by Mail	Provisional	Total Votes	Real Precinct	 | BUNCOMBE	11/05/2024	01.1	7	C	CITY OF ASHEVILLE CITY COUNCIL	Write-In (Miscellaneous)		3	6	14	1	0	21	Y	 | BUNCOMBE	11/05/2024	01.1	22	C	CITY OF ASHEVILLE TRANSPORTATION BONDS REFERENDUM	No	 	1	62	215	20	1	298	Y	 | BUNCOMBE	11/05/2024	01.1	1301	S	NC LIEUTENANT GOVERNOR	Shannon W. Bray	LIB	1	14	21	4	0	39	Y	 | BUNCOMBE	11/05/2024	01.1	1351	S	NC STATE SENATE DISTRICT 49	Kristie Tincher Sluder	REP	1	50	123	19	2	194	Y	 | BUNCOMBE	11/05/2024	01.1	1393	S	US PRESIDENT	Claudia De la Cruz (Write-In)		1	0	0	0	0	0	Y	
+
+== NC 2026 folder (general): https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/2026_11_03/results_pct_20261103.zip
+   status 200, 636,927 bytes, application/x-zip-compressed
+   zip members: ['results_pct_20261103.txt']
+   first lines: County	Election Date	Precinct	Contest Group ID	Contest Type	Contest Name	Choice	Choice Party	Vote For	Election Day	Early Voting	Absentee by Mail	Provisional	Total Votes	Real Precinct | ALAMANCE	11/03/2026	01	1	C	ALAMANCE COUNTY BOARD OF COMMISSIONERS	Kelly Allen	REP	2	0	0	0	0	0	Y | ALAMANCE	11/03/2026	01	1	C	ALAMANCE COUNTY BOARD OF COMMISSIONERS	Ramona Allen	DEM	2	0	0	0	0	0	Y | ALAMANCE	11/03/2026	01	1	C	ALAMANCE COUNTY BOARD OF COMMISSIONERS	Sean C. Ewing	DEM	2	0	0	0	0	0	Y | ALAMANCE	11/03/2026	01	1	C	ALAMANCE COUNTY BOARD OF COMMISSIONERS	Steve Carter	REP	2	0	0	0	0	0	Y | ALAMANCE	11/03/2026	01	2	C	ALAMANCE COUNTY CLERK OF SUPERIOR COURT	Kristie Miller Culler	REP	1	0	0	0	0	0	Y | ALAM
+
+== NC file index: https://dl.ncsbe.gov/?prefix=ENRS/2026_11_03/
+   status 200, 523 bytes, text/html
+   text: ï»¿ var S3BL_IGNORE_PATH = true; var BUCKET_NAME = 'dl.ncsbe.gov'; var BUCKET_URL = 'https://s3.amazonaws.com'; var S3B_ROOT_DIR = ''; 
+   data links: []
+
+== FL 2024 election-night file: https://flelectionfiles.floridados.gov/enightfilespublic/20241105_ElecResultsFL.txt
+   status 200, 392,733 bytes, application/octet-stream
+   first lines: ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes | 11/05/2024	REP	Republican Party	PRE	President and Vice President	ALA	Alachua	   	 	63	63	Vance	Trump	 / 	52939 | 11/05/2024	REP	Republican Party	PRE	President and Vice President	BAK	Baker	   	 	9	9	Vance	Trump	 / 	12926 | 11/05/2024	REP	Republican Party	PRE	President and Vice President	BAY	Bay	   	 	29	29	Vance	Trump	 / 	71497 | 11/05/2024	REP	Republican Party	PRE	President and Vice President	BRA	Bradford	   	 	13	13	Vance	Trump	 / 	10920 | 11/05/2024	REP	Republican Party	PRE	President and Vice President	BRE	Brevard	   	 	151	1
+
+== FL 2026 election-night file: https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt
+   status 200, 336,792 bytes, application/octet-stream
+   first lines: ElectionDate	PartyCode	PartyName	RaceCode	RaceName	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes | 11/03/2026	REP	Republican Party	USS	United States Senator	ALA	Alachua	   	 	63	0	Moody	Ashley		0 | 11/03/2026	REP	Republican Party	USS	United States Senator	BAK	Baker	   	 	9	0	Moody	Ashley		0 | 11/03/2026	REP	Republican Party	USS	United States Senator	BAY	Bay	   	 	30	0	Moody	Ashley		0 | 11/03/2026	REP	Republican Party	USS	United States Senator	BRA	Bradford	   	 	13	0	Moody	Ashley		0 | 11/03/2026	REP	Republican Party	USS	United States Senator	BRE	Brevard	   	 	156	0	Moody	Ashley		0 | 11/03/2026	REP	Republican Party	USS	United S
+
+== MN media results page: https://electionresults.sos.mn.gov/Results/MediaSupport
+   status 200, 15,067 bytes, text/html; charset=UTF-8
+   text:  Radware Captcha Page window.SSJSInternal = 83043; var __uzdbm_1 = "df1777f5-8ed8-4f6b-b541-8782dd3e23d3"; var __uzdbm_2 = "Mzg0N2I2MGEtY3hnMi00ZWFhLThlZDItYzcwOWRiOTc1MTFkJDIwLjE3MS4xMjcuOTg="; (function(w, d, e, u, c, g, a, b){ w["SSJSConnectorObj"] = w["SSJSConnectorObj"] || {ss_cid : c, domain_i
+   data links: []
+
+== MI results data page: https://www.michigan.gov/sos/elections/election-results-and-data
+   status 200, 424,314 bytes, text/html; charset=utf-8
+   text:  Election results and data (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insert
+   data links: []
+
+== MI election results site: https://mielections.us/election/results/
+   failed: HTTPSConnectionPool(host='mielections.us', port=443): Max retries exceeded with url: /election/results/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='mi
+
+== KS results page: https://sos.ks.gov/elections/election-results.html
+   status 200, 99,478 bytes, text/html
+   text:  window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-110819933-1'); Kansas Secretary of State | Elections | Election Results --> An official State of Kansas government website. Here's how you know. The .gov means it's offi
+   data links: ['24elec/2024-Presidential-Results.xlsx', '24elec/2024-General-Election-President-Precinct-Level-Results.xlsx', '24elec/2024-General-Election-United-States-House-of-Representatives-Precinct-Results.xlsx', '24elec/2024-General-Election-Kansas-Senate-Precinct-Results.xlsx', '24elec/2024-General-Election-Kansas-House-of-Representatives-Precinct-Results.xlsx', '24elec/2024-General-Election-State-Board-of-Education-Precinct-Results.xlsx', '24elec/2024-General-Election-Court-of-Appeals-Precinct-Results.xlsx', '24elec/2024-General-Election-District-Court-Judge-Precinct-Results.xlsx', '24elec/2024-General-Election-District-Magistrate-Judge-Precinct-Results.xlsx', '24elec/2024-General-Election-District-Attorney-Precinct-Results.xlsx', '26elec/2026-Primary-Election-United-States-Senate-Precinct-Level-Results.xlsx', '26elec/2026-Primary-Election-United-States-House-of-Representatives-Precinct-Level-Results.xlsx', '26elec/2026-Primary-Election-Governor-Precinct-Level-Results.xlsx', '26elec/2026-Primary-Election-Secretary-of-State-Precinct-Level-Results.xlsx', '26elec/2026-Primary-Election-Attorney-General-Precinct-Level-Results.xlsx']
+
+== NH results page: https://www.sos.nh.gov/2026-general-election-results
+   status 403, 413 bytes, text/html
+
+== ME results data page: https://www.maine.gov/sos/elections-voting/election-results-data
+   status 200, 115,588 bytes, text/html; charset=UTF-8
+   text:  Election Results/Data | SOS {"path":{"baseUrl":"\/sos\/","pathPrefix":"","currentPath":"node\/1955","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_classe
+   data links: ['/sos/sites/maine.gov.sos/files/inline-files/2026%20Primary%20Candidate%20List%20posting%20FINAL%203.16.26.xlsx', '/sos/sites/maine.gov.sos/files/inline-files/Representative%20to%20Congress%20District%202%20-%20Democratic.xlsx', '/sos/sites/maine.gov.sos/files/inline-files/DEM%20CG2%20Additional%20CVR%20Export%2020260618.xlsx', '/sos/sites/maine.gov.sos/files/inline-files/DEM%20CG2%20Vienna%2020260618.xlsx', '/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20CG2%2020260618.xlsx', '/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20CG2%20Auburn%202060616.xlsx', '/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20CG2%20AUX%20MANUAL1%2020260617.xlsx', '/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20CG2%20AUX%20MANUAL2%2020260617.xlsx', '/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20CG2%20AUX%20MANUAL3%20Updated%2020260623.xlsx', '/sos/sites/maine.gov.sos/files/inline-files/Representative%20to%20Congress%20District%202%20%28D%29%20UOCAVA.xlsx', '/sos/sites/maine.gov.sos/files/inline-files/Governor%20-%20Democratic.xlsx', '/sos/sites/maine.gov.sos/files/inline-files/DEM%20Gov%20Additional%20CVR%20Export%2020260618.xlsx', '/sos/sites/maine.gov.sos/files/inline-files/DEM%20Gov%20Vienna%2020260618.xlsx', '/sos/sites/maine.gov.sos/files/inline-files/Governor%20%28D%29%20UOCAVA.xlsx', '/sos/sites/maine.gov.sos/files/inline-files/Jun26%20DEM%20GOV%2020260618%20-%201.xlsx']
+
+== MS results page: https://www.sos.ms.gov/elections-voting/election-results
+   status 200, 182,278 bytes, text/html; charset=UTF-8
+   text:  Election Results | MS SOS {"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/68","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtag":{"tagId":"G-8MHENQNEBK","consentMode":false,"otherIds":[],"events":[],"add
+   data links: []
+
+== WI results (WEC): https://elections.wi.gov/elections-voting/results
+   status 403, 5,723 bytes, text/html; charset=UTF-8
+
+== NE results: https://electionresults.nebraska.gov/
+   status 200, 54,947 bytes, text/html; charset=utf-8
+   text:  Nebraska Secretary of State var ServiceRoot = 'https://neresultswebservice.azurewebsites.us/'; var Maps = {}; var Bound = {}; var mapBuilt = []; window.onload = function () { var WatchList = getCookie("NETracked"); //var temp = document.cookie; if (WatchList) { var checked = WatchList.split("_"); f
+   data links: []

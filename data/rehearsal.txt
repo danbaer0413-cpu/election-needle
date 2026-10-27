@@ -1,0 +1,37 @@
+
+== Texas 2024 US Senate ==
+  counties: reader 254, history 254, matched 254
+  totals  : reader D 5,031,249 R 5,990,741 | history D 5,031,249 R 5,990,741
+  total difference: D 0.000%, R 0.000%
+  PASS
+
+== Georgia 2024 President ==
+  counties: reader 159, history 159, matched 159
+  totals  : reader D 2,548,017 R 2,663,117 | history D 2,548,017 R 2,663,117
+  total difference: D 0.000%, R 0.000%
+  PASS
+
+== Iowa 2024 President ==
+  counties: reader 99, history 99, matched 99
+  totals  : reader D 707,278 R 927,019 | history D 707,278 R 927,019
+  total difference: D 0.000%, R 0.000%
+  PASS
+
+== North Carolina 2024 President (state results file) ==
+  counties: reader 100, history 100, matched 100
+  totals  : reader D 2,715,375 R 2,898,423 | history D 2,715,375 R 2,898,423
+  total difference: D 0.000%, R 0.000%
+  PASS
+
+== Florida 2024 President (election-night file) ==
+  ERROR: ValueError: unexpected Florida file columns: ['ElectionDate', 'PartyCode', 'PartyName', 'RaceCode', 'RaceName', 'CountyCode', 'CountyName', 'Juris1num', 'Juris2num', 'Precincts', 'PrecinctsReporting', 'CanNameLast', 'CanNameFirst', 'CanNameMiddle']
+
+== Alaska 2024 President (by House district) ==
+  counties: reader 42, history 41, matched 41
+  totals  : reader D 140,026 R 184,458 | history D 140,026 R 184,458
+  total difference: D 0.000%, R 0.000%
+  names only in reader: ['other']
+  names only in history: []
+  PASS
+
+5 of 6 passed
