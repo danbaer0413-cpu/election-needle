@@ -22,6 +22,9 @@ jobs:
       - name: Nebraska service scan
         run: python probe_ne.py
         continue-on-error: true
+      - name: Nebraska service scan 2
+        run: python probe_ne2.py
+        continue-on-error: true
       - name: House reader dry run
         run: python check_house.py | tee data/house_check.txt
         continue-on-error: true
@@ -29,7 +32,7 @@ jobs:
         run: |
           git config user.name "needle-bot"
           git config user.email "needle-bot@users.noreply.github.com"
-          git add data/rehearsal.txt data/portal_ne.txt data/portal_files.txt data/house_check.txt
+          git add data/rehearsal.txt data/portal_ne.txt data/portal_ne2.txt data/portal_files.txt data/house_check.txt data/portal_ne2.txt
           git commit -m "rehearsal report" || echo "nothing to commit"
           git pull --rebase -X theirs || true
           git push || (sleep 5 && git pull --rebase -X theirs && git push)
@@ -41,3 +44,4 @@ jobs:
             data/portal_ne.txt
             data/portal_files.txt
             data/house_check.txt
+            data/portal_ne2.txt
