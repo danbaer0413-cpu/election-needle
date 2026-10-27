@@ -11,6 +11,7 @@ import streamlit as st
 from charts import BLUE, RED, history_figure, needle_figure, poll_figure, fmt_range
 from maps import LEGEND, county_map_figure, load_geo, us_map_figure
 from explain import drivers_lines, firewall_lines, inputs_lines, outcome_lines
+import changes
 from publish import from_json_summary, read_log
 from states import STATES
 
@@ -84,6 +85,42 @@ if not ready:
     st.stop()
 
 
+# ---------------------------------------------------------------- "what changed" screen (once per visit)
+log_src = src.strip().replace("latest.json", "needle_log.csv") if src.strip() else "data/needle_log.csv"
+if st.session_state.get("flash_on", True) and not st.session_state.get("flash_done"):
+    st.markdown("### What's changed")
+    _win = st.radio("Compare with", list(changes.WINDOWS), horizontal=True, key="flash_win", label_visibility="collapsed")
+    try:
+        chg, ref = changes.compute(changes.read(log_src), ready, changes.WINDOWS[_win])
+    except Exception:
+        chg, ref = changes.compute(pd.DataFrame(), ready)
+    st.session_state["prev_medians"] = {} if chg.empty else dict(zip(chg["id"], chg["prev_median"]))
+    if chg.empty:
+        st.info("Nothing to compare yet. This is the first update.")
+    else:
+        moved = chg[chg["d_median"].abs() >= 0.05]
+        st.caption(f"Compared with the update from {ago(ref.isoformat())}. Margins are Dem minus GOP; the needle is the middle estimate.")
+        if moved.empty:
+            st.info("No race has moved since then.")
+        for r in moved.head(8).itertuples():
+            col = "blue" if r.d_median > 0 else "red"
+            c1, c2 = st.columns([4, 1])
+            c1.markdown(f"**{label(ready[r.id])}**  \n:{col}[{changes.arrow(r.d_median)} {abs(r.d_median):.1f} pts] · "
+                        f"{changes.margin_text(r.prev_median)} → {changes.margin_text(r.median)} · "
+                        f"Dem win {r.prev_win:.0f}% → {r.win:.0f}%")
+            if c2.button("See needle", key=f"fl_{r.id}"):
+                st.session_state["flash_done"] = True
+                st.query_params["race"] = r.id
+                st.rerun()
+        if len(moved) > 8:
+            st.caption(f"{len(moved) - 8} more races moved by less. Pick any race after you continue.")
+        if len(chg) > len(moved):
+            st.caption(f"{len(chg) - len(moved)} races did not move.")
+    if st.button("Continue", type="primary"):
+        st.session_state["flash_done"] = True
+        st.rerun()
+    st.stop()
+
 # ---------------------------------------------------------------- map view
 view = st.radio("View", ["Race", "Map"], horizontal=True, label_visibility="collapsed", key="view")
 if view == "Map":
@@ -135,6 +172,9 @@ chips = [f"{counted:.0f}% of vote counted" if counted > 0 else "Polls open Nov 3
          f"Likely range (80%): {fmt_range(float(s['p10']), float(s['p90']))}",
          f"Middle estimate {'D' if lead > 0 else 'R'}+{abs(lead):.1f}",
          f"Updated {ago(item.get('as_of') or item.get('checked'))}"]
+_pm = st.session_state.get("prev_medians", {}).get(rid)
+if _pm is not None and abs(lead - _pm) >= 0.05:
+    chips.insert(0, f"{'▲' if lead > _pm else '▼'} {abs(lead - _pm):.1f} pts toward {'Dem' if lead > _pm else 'GOP'} since the last update")
 st.markdown(f"""
 <div class="card">
   <div class="race">{label(item)}</div>
@@ -153,7 +193,20 @@ if item.get("status") != "ok":
 # ---------------------------------------------------------------- needle
 wiggle = st.toggle("Show the needle moving through its range", value=False,
                    help="Replays the needle at random points inside today's range, the way a live needle jitters. It is not live data.")
-st.plotly_chart(needle_figure(s, compact=True, wiggle=wiggle), use_container_width=True, config={"displayModeBar": False})
+_ph = st.empty()
+_shown = st.session_state.setdefault("shown", {})
+_start = _shown.get(rid, st.session_state.get("prev_medians", {}).get(rid))
+_end = float(s["median"])
+if st.session_state.get("anim_on", True) and not wiggle and _start is not None and abs(_start - _end) >= 0.05:
+    try:        # sweep from where the needle was to where it is now
+        for _i, _v in enumerate(changes.sweep(float(_start), _end)):
+            _ph.plotly_chart(needle_figure({**s, "median": _v}, compact=True), use_container_width=True,
+                             config={"displayModeBar": False}, key=f"needle_{rid}_{_i}")
+            time.sleep(0.05)
+    except Exception:
+        pass        # the sweep is cosmetic
+_shown[rid] = _end
+_ph.plotly_chart(needle_figure(s, compact=True, wiggle=wiggle), use_container_width=True, config={"displayModeBar": False}, key=f"needle_{rid}_final")
 st.caption("Needle = middle estimate. Dark band: 80% range (the headline range). Light band: 90% range. Margins are Dem minus GOP. "
            "As votes are counted the bands narrow and the needle moves to where the model now expects the race to land.")
 for line in outcome_lines(s)[:2]:
@@ -203,7 +256,6 @@ if pa and pa.get("points"):
 with st.expander("What's been inputted"):
     for line in inputs_lines(s):
         st.markdown(line)
-log_src = src.strip().replace("latest.json", "needle_log.csv") if src.strip() else "data/needle_log.csv"
 hist = read_log(log_src, rid)
 if len(hist) > 1:
     with st.expander("How the projection has moved"):
@@ -216,6 +268,8 @@ with st.expander("County / unit table"):
 # ---------------------------------------------------------------- tucked-away settings
 with st.expander("Settings"):
     st.checkbox("Auto-refresh", value=auto, key="auto")
+    st.checkbox("Show the 'what changed' screen when the app opens", value=True, key="flash_on")
+    st.checkbox("Sweep the needle from its previous position", value=True, key="anim_on")
     st.number_input("Refresh every (seconds)", 30, 600, every, key="every")
     st.text_input("Data URL (leave blank for the built-in data)", src, key="src",
                   help="Raw URL of latest.json on GitHub, if the app is hosted away from the repo.")
