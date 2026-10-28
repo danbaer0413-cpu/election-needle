@@ -51,7 +51,7 @@ jobs:
           git config user.email "needle-bot@users.noreply.github.com"
           for f in data/latest.json data/needle_log.csv data/votehub_latest.csv data/votehub_history.csv data/votehub_state.json data/votehub_unparsed.txt data/votehub_raw.jsonl \
                    data/poll_inputs_auto.csv data/polls_all.csv data/poll_average.json data/polls_raw data/bsky_raw.json \
-                   data/bsky_unmatched.txt data/poll_compare.csv data/night/early_civic.csv data/civic_early_log.csv; do
+                   data/bsky_unmatched.txt data/poll_compare.csv data/night/early_civic.csv data/civic_early_log.csv data/house/lean.json; do
             if [ -e "$f" ]; then git add "$f"; fi
           done
           # early vote files the model merged into (returned ballots only go up, so keep them)
