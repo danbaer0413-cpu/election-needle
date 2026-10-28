@@ -1,0 +1,23 @@
+name: civic-probe
+# Run once: Actions -> civic-probe -> Run workflow. Checks whether civicAPI has a readable early-vote data endpoint. Read-only; saves data/civic_probe.json.
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - run: python civic_probe.py
+      - name: Save result
+        run: |
+          git config user.name "needle-bot"
+          git config user.email "needle-bot@users.noreply.github.com"
+          git add data/civic_probe.json
+          if ! git diff --cached --quiet; then git commit -m "civicAPI probe result"; git pull --rebase -X theirs || git rebase --abort; git push; fi
