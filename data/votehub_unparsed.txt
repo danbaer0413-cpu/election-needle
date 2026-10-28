@@ -1,3 +1,9 @@
+NEWS — A hacker is attempting to breach the Federal Election Commission's systems, and the agency had to "temporarily shut down" its web-facing services, per an email seen by Reuters.
+
+The FEC regulates campaign finance and plays no role in running elections or counting votes.
+
+-----
+
 🚨🚨 We are thrilled to launch the VoteHub 2026 National Donor Map.
 
 See where nearly $2 billion in donations to House and Senate campaigns came from, county by county, for every 2026 race and nearly 2,900 candidates.
@@ -20,14 +26,3 @@ Trump won Mississippi by nearly 23 points in 2024; no Democrat has won a Senate 
 -----
 
 NEWS — A federal judge ruled North Carolina’s new mail-in ballot restrictions will remain in place through the 2026 midterms, per NOTUS.
-
------
-
-Florida's 14th Congressional District
-
-Small-Dollar Contributions (Under $200):
-
-🔵 Kathy Castor (D): $445,487  
-🔴 Mike Beltran (R): $14,959
-
-Castor has raised nearly 30 times as much as Beltran from small-dollar contributions.
