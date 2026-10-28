@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T02:40:34+00:00",
+ "updated": "2026-10-28T06:50:14+00:00",
  "source": "Cook Political Report via 270toWin, Oct 23 2026",
  "districts": [
   {
@@ -634,9 +634,9 @@
    "district": "27",
    "rating": "Leans Rep",
    "m0": -5.0,
-   "early_adj": -0.16,
+   "early_adj": -0.17,
    "early_margin": 5.4,
-   "m": -5.16,
+   "m": -5.17,
    "bin": "Lean R",
    "called": null
   },
