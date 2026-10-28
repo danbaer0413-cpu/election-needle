@@ -1,0 +1,10 @@
+{
+  "_note": "Cook Political Report ratings as of Oct 23 2026 (via 270toWin). The 81 non-safe districts are listed in data/house/ratings_2026.csv; the rest are Solid. Type the seats the networks have CALLED among Solid seats on election night in called_safe_D / called_safe_R (or leave 0).",
+  "solid_D": 186,
+  "solid_R": 168,
+  "total_seats": 435,
+  "majority": 218,
+  "called_safe_D": 0,
+  "called_safe_R": 0,
+  "source": "Cook Political Report via 270toWin, Oct 23 2026"
+}
