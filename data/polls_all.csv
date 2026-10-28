@@ -60,6 +60,7 @@ FL-governor,YouGov,2026-10-15,825.0,42.0,50.0
 FL-governor,University of North Florida Public Opinion Research Lab,2026-10-19,1471.0,47.0,49.0
 FL-governor,ActiVote,2026-10-19,400.0,48.3,51.7
 FL-governor,co/efficient,2026-10-20,1014.0,40.0,49.0
+FL-governor,Echelon Insights,2026-10-23,515.0,44.0,50.0
 FL-senate,University of North Florida Public Opinion Research Lab,2026-03-02,768.0,38.0,46.0
 FL-senate,Emerson College,2026-03-31,1125.0,36.3,47.3
 FL-senate,Stetson University Center for Public Opinion Research,2026-04-13,414.0,38.0,51.0
@@ -78,6 +79,8 @@ FL-senate,ActiVote,2026-10-15,400.0,46.9,53.1
 FL-senate,YouGov/Univision,2026-10-15,600.0,42.0,51.0
 FL-senate,University of North Florida Public Opinion Research Lab,2026-10-19,1471.0,45.0,49.0
 FL-senate,co/efficient,2026-10-20,1014.0,40.0,48.0
+FL-senate,Echelon Insights,2026-10-23,515.0,43.0,51.0
+FL-senate,ActiVote,2026-10-27,400.0,47.0,53.0
 GA-governor,Echelon Insights,2026-04-09,407.0,49.0,43.0
 GA-governor,Beacon Research/Shaw & Co. Research,2026-06-27,1002.0,52.0,47.0
 GA-governor,Wick,2026-06-30,1175.0,42.7,43.2
@@ -93,6 +96,7 @@ GA-governor,InsiderAdvantage,2026-10-13,800.0,47.0,49.0
 GA-governor,University of Georgia School of Public and International Affairs,2026-10-15,1000.0,45.0,46.0
 GA-governor,Quantus Insights,2026-10-17,755.0,47.5,49.0
 GA-governor,ActiVote,2026-10-20,400.0,48.5,51.5
+GA-governor,Echelon Insights,2026-10-23,508.0,49.0,48.0
 GA-senate,Cygnal,2025-05-17,800.0,45.7,43.3
 GA-senate,Quantus Insights,2025-09-12,624.0,37.8,37.7
 GA-senate,Emerson College,2026-03-02,1000.0,47.7,43.3
@@ -109,6 +113,7 @@ GA-senate,Wedgewood,2026-10-03,600.0,55.0,45.0
 GA-senate,University of Georgia School of Public and International Affairs,2026-10-15,1000.0,48.0,40.0
 GA-senate,Quantus Insights,2026-10-17,755.0,52.7,45.4
 GA-senate,ActiVote,2026-10-20,400.0,54.0,46.0
+GA-senate,Echelon Insights,2026-10-23,508.0,55.0,40.0
 IA-governor,Beacon Research/Shaw & Co. Research,2026-06-27,1003.0,53.0,44.0
 IA-governor,The New York Times/Siena College,2026-06-27,600.0,48.19,46.54
 IA-governor,Emerson College,2026-08-04,712.0,48.4,42.69
@@ -128,6 +133,7 @@ IA-governor,Marist College,2026-10-11,1100.0,52.0,45.0
 IA-governor,YouGov,2026-10-12,2244.0,50.0,44.0
 IA-governor,New River Strategies/GS Strategy Group,2026-10-13,602.0,54.0,43.0
 IA-governor,co/efficient,2026-10-19,863.0,49.0,45.0
+IA-governor,Echelon Insights,2026-10-23,403.0,50.0,46.0
 IA-senate,Change Research,2026-01-11,1108.0,41.0,44.0
 IA-senate,Echelon Insights,2026-04-09,377.0,46.0,45.0
 IA-senate,Beacon Research/Shaw & Co. Research,2026-06-27,1003.0,50.0,46.0
@@ -155,6 +161,7 @@ IA-senate,New River Strategies/GS Strategy Group,2026-10-13,602.0,46.0,44.0
 IA-senate,co/efficient,2026-10-19,863.0,45.0,48.0
 IA-senate,InsiderAdvantage,2026-10-22,1200.0,45.0,47.0
 IA-senate,InsiderAdvantage,2026-10-22,1200.0,45.5,47.0
+IA-senate,Echelon Insights,2026-10-23,403.0,45.0,43.0
 KS-governor,co/efficient,2026-09-10,915.0,43.0,51.0
 KS-governor,Emerson College,2026-09-16,750.0,43.48,50.82
 KS-governor,The New York Times/Siena College,2026-09-30,605.0,44.38,48.52
@@ -185,6 +192,7 @@ ME-governor,Marist College,2026-10-04,1505.0,52.0,40.0
 ME-governor,The Washington Post/George Mason University Schar School of Policy and Government,2026-10-05,800.0,49.0,36.0
 ME-governor,Suffolk University,2026-10-11,500.0,49.0,38.0
 ME-governor,Beacon Research/Shaw & Co. Research,2026-10-20,1514.0,49.0,39.0
+ME-governor,Echelon Insights,2026-10-23,413.0,51.0,38.0
 ME-governor,Marist,2026-10-24,600.0,44.0,44.0
 ME-governor,Marist College,2026-10-25,1449.0,51.0,40.0
 ME-senate,University of New Hampshire Survey Center,2026-07-20,1178.0,49.0,46.0
@@ -207,6 +215,7 @@ ME-senate,Rasmussen,2026-10-05,600.0,49.0,47.0
 ME-senate,Suffolk University,2026-10-11,500.0,49.0,47.0
 ME-senate,InsiderAdvantage,2026-10-14,1200.0,49.3,46.8
 ME-senate,Beacon Research/Shaw & Co. Research,2026-10-20,1514.0,49.0,49.0
+ME-senate,Echelon Insights,2026-10-23,413.0,51.0,44.0
 ME-senate,Marist,2026-10-24,600.0,49.0,47.0
 ME-senate,Marist College,2026-10-25,1449.0,53.0,44.0
 MI-governor,Target Insyght,2025-03-06,600.0,42.0,30.0
@@ -347,10 +356,12 @@ NC-senate,Quantus Insights,2026-10-25,722.0,52.4,43.4
 NE-governor,SurveyUSA,2026-09-13,503.0,35.0,43.0
 NE-governor,co/efficient,2026-09-30,1113.0,38.0,42.0
 NE-governor,YouGov,2026-10-03,1808.0,43.0,44.0
+NE-governor,Echelon Insights,2026-10-23,407.0,40.0,47.0
 NE-senate,SurveyUSA,2026-09-13,503.0,46.0,42.0
 NE-senate,co/efficient,2026-09-30,1113.0,44.0,47.0
 NE-senate,YouGov,2026-10-03,1808.0,48.0,47.0
 NE-senate,YouGov,2026-10-05,600.0,48.0,47.0
+NE-senate,Echelon Insights,2026-10-23,407.0,46.0,47.0
 NH-governor,Saint Anselm College Survey Center,2026-03-18,1491.0,39.0,46.0
 NH-governor,University of New Hampshire Survey Center,2026-04-21,1117.0,39.0,47.0
 NH-governor,University of New Hampshire Survey Center,2026-06-23,2221.0,39.0,44.0
@@ -421,6 +432,7 @@ OH-governor,Marist College,2026-10-18,1176.0,51.0,43.0
 OH-governor,Beacon Research/Shaw & Co. Research,2026-10-19,1592.0,50.0,48.0
 OH-governor,ActiVote,2026-10-19,400.0,48.6,51.4
 OH-governor,Verasight,2026-10-20,531.0,46.2,45.4
+OH-governor,Echelon Insights,2026-10-23,508.0,45.0,47.0
 OH-senate,Bowling Green State University/YouGov,2025-02-21,800.0,41.0,47.0
 OH-senate,Bowling Green State University/YouGov,2025-04-24,800.0,46.0,49.0
 OH-senate,Emerson College,2025-08-19,1000.0,43.7,49.5
@@ -457,12 +469,15 @@ OH-senate,ActiVote,2026-10-18,400.0,49.8,50.2
 OH-senate,Beacon Research/Shaw & Co. Research,2026-10-19,1592.0,52.0,47.0
 OH-senate,Verasight,2026-10-20,531.0,47.5,43.6
 OH-senate,InsiderAdvantage,2026-10-22,1200.0,46.7,44.4
+OH-senate,Echelon Insights,2026-10-23,508.0,47.0,47.0
 SC-governor,Resonance Media,2026-10-03,600.0,35.0,45.0
+SC-governor,The Citadel School of Humanities and Social Sciences,2026-10-25,890.0,31.0,42.0
 SC-governor,Targoz Market Research,2026-10-25,895.0,41.0,51.0
 SC-senate,Abacus Data,2026-08-28,306.0,38.0,51.0
 SC-senate,InsiderAdvantage,2026-09-09,1200.0,43.2,45.1
 SC-senate,InsiderAdvantage,2026-09-29,1200.0,45.0,46.0
 SC-senate,Rasmussen,2026-10-08,600.0,45.0,49.0
+SC-senate,The Citadel School of Humanities and Social Sciences,2026-10-25,890.0,39.0,42.0
 SC-senate,Targoz Market Research,2026-10-25,895.0,46.0,47.0
 TX-governor,Emerson College,2026-01-12,1165.0,42.3,50.2
 TX-governor,University of Houston Hobby School of Public Affairs,2026-01-31,1502.0,42.0,49.0
