@@ -40,15 +40,23 @@ def _fmt_n(x: float) -> str:
     return f"{x / 1e6:.2f}M" if x >= 1e6 else f"{x / 1e3:.0f}K" if x >= 1e4 else f"{x:,.0f}"
 
 
-def _state_votes(s: dict) -> tuple[float, float]:
-    """(counted, remaining) votes statewide from the unit table."""
+def _votes_line(counted, early, remaining) -> str:
+    """Hover line: votes counted, early ballots already returned, and votes still to count."""
+    out = f"<br>{_fmt_n(counted)} counted"
+    if early and float(early) > 0:
+        out += f" · {_fmt_n(early)} early ballots returned"
+    return out + f"<br>about {_fmt_n(remaining)} votes left to count"
+
+
+def _state_votes(s: dict) -> tuple[float, float, float]:
+    """(counted, remaining, early ballots returned) votes statewide from the unit table."""
     t = s.get("table")
     if t is None:
-        return 0.0, 0.0
+        return 0.0, 0.0, 0.0
     t = pd.DataFrame(t)
     if "remaining" not in t or "counted" not in t:
-        return 0.0, 0.0
-    return float(t["counted"].sum()), float(t["remaining"].sum())
+        return 0.0, 0.0, 0.0
+    return float(t["counted"].sum()), float(t["remaining"].sum()), float(t["early_returned"].sum()) if "early_returned" in t else 0.0
 
 
 def _centers(geo: dict, fips_set: set) -> dict:
@@ -100,7 +108,7 @@ def us_map_figure(races: dict, kind: str, cand: dict | None = None, state_names:
         nm = (state_names or {}).get(st, st)
         hover = (f"<b>{nm} {kind.title()}</b><br>{c[0]} (D) vs {c[1]} (R)<br>{_label(z)} · {'D' if lead > 0 else 'R'}+{abs(lead):.1f}"
                  f"<br>Dem win {float(s['win_prob']) * 100:.0f}% · {float(s['pct_in']):.0f}% counted"
-                 + (lambda cr: f"<br>{_fmt_n(cr[0])} counted · about {_fmt_n(cr[1])} votes left" if cr[1] > 0 else "")(_state_votes(s)))
+                 + (lambda cr: _votes_line(cr[0], cr[2], cr[1]) if cr[1] > 0 else "")(_state_votes(s)))
         rows.append(dict(st=st, z=z, hover=hover, rep=float(s["pct_in"]) >= REPORTING_MIN))
     df = pd.DataFrame(rows, columns=["st", "z", "hover", "rep"])
     fig = go.Figure()
@@ -123,16 +131,21 @@ def load_geo(folder="data/geo"):
     return json.load(open(p)), pd.read_csv(q, dtype={"fips": str})
 
 
-def county_map_figure(summary: dict, state: str, geo, fips: pd.DataFrame, title: str = "", bubbles: bool = True):
+def county_map_figure(summary: dict, state: str, geo, fips: pd.DataFrame, title: str = "", bubbles: bool = True, bubble_by: str = "remaining"):
     from model import norm_name
     t = pd.DataFrame(summary["table"])
-    fx = fips[fips.state == state].set_index("norm")["fips"]
-    t["fips"] = t["county"].map(lambda c: fx.get(norm_name(c)))
-    t = t.dropna(subset=["fips"])
+    for _c in ("proj_margin", "pct_in", "base_margin", "counted", "remaining", "early_returned"):
+        if _c in t:
+            t[_c] = pd.to_numeric(t[_c], errors="coerce").fillna(0.0)
+    fx = fips[fips.state == state].drop_duplicates("norm").set_index("norm")["fips"]
+    t["fips"] = [fx.get(norm_name(c)) for c in t["county"]]
+    t = t.dropna(subset=["fips"]).copy()
+    if t.empty:
+        return go.Figure()
     t["z"] = t["proj_margin"].clip(-30, 30)
-    t["hover"] = t.apply(lambda r: f"<b>{r['county']}</b><br>Projected {'D' if r['proj_margin'] > 0 else 'R'}+{abs(r['proj_margin']):.1f}"
-                         f"<br>{r['pct_in']:.0f}% counted · baseline {r['base_margin']:+.1f}"
-                         f"<br>{_fmt_n(r['counted'])} counted · about {_fmt_n(r['remaining'])} votes left", axis=1)
+    _er = t["early_returned"] if "early_returned" in t else pd.Series(0.0, index=t.index)
+    t["hover"] = [f"<b>{c}</b><br>Projected {'D' if pm > 0 else 'R'}+{abs(pm):.1f}<br>{pi:.0f}% counted · baseline {bm:+.1f}" + _votes_line(cn, er, rm)
+                  for c, pm, pi, bm, cn, er, rm in zip(t["county"], t["proj_margin"], t["pct_in"], t["base_margin"], t["counted"], _er, t["remaining"])]
     fig = go.Figure()
     scale = [[0, R3], [0.5, "#f2f2f2"], [1, D3]]
     for flag, op in ((False, 0.4), (True, 1.0)):
@@ -141,11 +154,12 @@ def county_map_figure(summary: dict, state: str, geo, fips: pd.DataFrame, title:
             continue
         fig.add_trace(go.Choropleth(geojson=geo, locations=d["fips"], z=d["z"], zmin=-30, zmax=30, colorscale=scale, showscale=False,
                                     text=d["hover"], hoverinfo="text", marker_opacity=op, marker_line_color="white", marker_line_width=0.6))
+    _col = bubble_by if (bubble_by in t and float(t[bubble_by].sum()) > 0) else "remaining"
     if bubbles and "remaining" in t:         # bubble area = votes still to count (the same idea as VoteHub's ballots-cast bubbles)
         cen = _centers(geo, set(t["fips"].astype(str)))
-        b = t[t["fips"].astype(str).isin(cen) & (t["remaining"] > 0)]
+        b = t[t["fips"].astype(str).isin(cen) & (t[_col] > 0)]
         if len(b):
-            sz = bubble_sizes(b["remaining"].to_numpy())
+            sz = bubble_sizes(b[_col].to_numpy())
             fig.add_trace(go.Scattergeo(lon=[cen[str(f)][0] for f in b["fips"]], lat=[cen[str(f)][1] for f in b["fips"]], mode="markers",
                                         marker=dict(size=sz, color="rgba(240,190,60,0.55)", line=dict(color="rgba(110,80,0,0.9)", width=0.8)),
                                         text=b["hover"], hoverinfo="text", showlegend=False))
@@ -183,7 +197,7 @@ def _margin_rgb(z: float) -> tuple:
     return _blend("#f2f2f2", D3, t) if t >= 0 else _blend("#f2f2f2", R3, -t)
 
 
-def district_map_figure(summary: dict, geo: dict, title: str = "", bubbles: bool = True):
+def district_map_figure(summary: dict, geo: dict, title: str = "", bubbles: bool = True, bubble_by: str = "remaining"):
     """Alaska: one shape per state House election district (our units are 'District 01'...'District 40').
     Drawn as plain filled shapes in Alaska Albers coordinates (not plotly's map layer, which struggles with the Aleutians)."""
     import re
@@ -191,6 +205,9 @@ def district_map_figure(summary: dict, geo: dict, title: str = "", bubbles: bool
     t["loc"] = t["county"].map(lambda c: (lambda m: f"District {int(m.group(1)):02d}" if m else None)(re.search(r"(\d+)", str(c))))
     feats = {str(f.get("id")): f for f in geo.get("features", [])}
     t = t[t["loc"].isin(feats)].copy()
+    for _c in ("proj_margin", "pct_in", "base_margin", "counted", "remaining", "early_returned"):
+        if _c in t:
+            t[_c] = pd.to_numeric(t[_c], errors="coerce").fillna(0.0)
     fig = go.Figure()
     centers = {}
     for r in t.itertuples():
@@ -218,15 +235,16 @@ def district_map_figure(summary: dict, geo: dict, title: str = "", bubbles: bool
         rgb = _margin_rgb(z)
         hover = (f"<b>{r.county}</b><br>Projected {'D' if z > 0 else 'R'}+{abs(z):.1f}"
                  f"<br>{float(r.pct_in):.0f}% counted · baseline {float(r.base_margin):+.1f}"
-                 f"<br>{_fmt_n(r.counted)} counted · about {_fmt_n(r.remaining)} votes left")
+                 + _votes_line(r.counted, getattr(r, "early_returned", 0), r.remaining))
         fig.add_trace(go.Scatter(x=xs, y=ys, mode="lines", fill="toself", fillcolor=f"rgba({rgb[0]},{rgb[1]},{rgb[2]},{op})",
                                  line=dict(color="white", width=0.6), hoveron="fills", text=hover, hoverinfo="text", showlegend=False))
         t.loc[t["loc"] == r.loc, "hover"] = hover
+    _col = bubble_by if (bubble_by in t and float(t[bubble_by].sum()) > 0) else "remaining"
     if bubbles and "remaining" in t and "hover" in t:
-        b = t[t["loc"].isin(centers) & (t["remaining"] > 0)]
+        b = t[t["loc"].isin(centers) & (t[_col] > 0)]
         if len(b):
             fig.add_trace(go.Scatter(x=[centers[f][0] for f in b["loc"]], y=[centers[f][1] for f in b["loc"]], mode="markers",
-                                     marker=dict(size=bubble_sizes(b["remaining"].to_numpy()), color="rgba(240,190,60,0.55)",
+                                     marker=dict(size=bubble_sizes(b[_col].to_numpy()), color="rgba(240,190,60,0.55)",
                                                  line=dict(color="rgba(110,80,0,0.9)", width=0.8)),
                                      text=b["hover"], hoverinfo="text", showlegend=False))
     fig.update_layout(margin=dict(l=0, r=0, t=0, b=0), height=360, paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)",

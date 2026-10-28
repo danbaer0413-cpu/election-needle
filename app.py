@@ -145,7 +145,12 @@ if view == "Map":
         cand = {}
     kind = st.radio("Race type", ["Senate", "Governor"], horizontal=True, key="mapkind")
     names = {k: v[0] for k, v in STATES.items()}
-    st.plotly_chart(us_map_figure(ready, kind.lower(), cand, names), use_container_width=True, config={"displayModeBar": False})
+    try:
+        st.plotly_chart(us_map_figure(ready, kind.lower(), cand, names), use_container_width=True, config={"displayModeBar": False})
+    except Exception as _e:
+        import traceback
+        st.warning(f"US map could not be drawn: {type(_e).__name__}: {_e}")
+        st.code(traceback.format_exc()[-1500:])
     st.markdown("".join(f'<span class="chip" style="border-left:12px solid {c}">{l}</span> ' for l, c in LEGEND), unsafe_allow_html=True)
     st.caption("Colors are the model's projection, not race calls. Pale = nothing counted yet (pre-election forecast); solid = votes are in. "
                "Tap a state for details.")
@@ -168,8 +173,11 @@ if view == "Map":
                 _by = st.radio("Bubble size", ["Votes left to count", "Early ballots returned"], horizontal=True, key="bubble_by_ak",
                                label_visibility="collapsed") if _bub else "Votes left to count"
                 _bcol = "early_returned" if _by.startswith("Early") else "remaining"
-                st.plotly_chart(district_map_figure(ready[pick]["summary"], _ak, bubbles=_bub, bubble_by=_bcol), use_container_width=True,
-                                config={"displayModeBar": False})
+                try:
+                    st.plotly_chart(district_map_figure(ready[pick]["summary"], _ak, bubbles=_bub, bubble_by=_bcol), use_container_width=True,
+                                    config={"displayModeBar": False})
+                except Exception as _e:
+                    st.warning(f"Alaska map could not be drawn: {type(_e).__name__}: {_e}")
                 st.caption("Alaska reports by state House election district. Districts are colored by projected final margin; pale ones have under 5% counted. "
                            "Bubble area = votes still to count. Hover or tap a district for votes counted and left.")
         else:
@@ -177,8 +185,13 @@ if view == "Map":
             _by = st.radio("Bubble size", ["Votes left to count", "Early ballots returned"], horizontal=True, key="bubble_by",
                            label_visibility="collapsed") if _bub else "Votes left to count"
             _bcol = "early_returned" if _by.startswith("Early") else "remaining"
-            st.plotly_chart(county_map_figure(ready[pick]["summary"], st_code, geo, fx, bubbles=_bub, bubble_by=_bcol), use_container_width=True,
-                            config={"displayModeBar": False})
+            try:
+                st.plotly_chart(county_map_figure(ready[pick]["summary"], st_code, geo, fx, bubbles=_bub, bubble_by=_bcol), use_container_width=True,
+                                config={"displayModeBar": False})
+            except Exception as _e:
+                import traceback
+                st.warning(f"County map could not be drawn: {type(_e).__name__}: {_e}")
+                st.code(traceback.format_exc()[-1500:])
             _tb = pd.DataFrame(ready[pick]["summary"]["table"])
             _big = float(_tb["remaining"].max()) if "remaining" in _tb and len(_tb) else 0.0
             st.caption("Counties are colored by projected final margin. Pale counties have under 5% counted. "
