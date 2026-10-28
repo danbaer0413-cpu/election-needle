@@ -1,0 +1,9 @@
+{
+  "_note": "civicAPI early vote (civicapi.org, free, attribution: civicAPI). mode per state: auto = county rows when region names match our counties.csv (>=95% of ballots), else one STATE row; log_only = compare and log, don't feed the model; off = skip. A state with no data (404) is skipped.",
+  "max_age_days": 2,
+  "states": {
+    "AK": "state", "IA": "auto", "KS": "auto", "ME": "auto", "MI": "auto", "MN": "auto", "MS": "auto",
+    "NE": "auto", "NV": "auto", "OH": "auto", "SC": "auto", "WI": "auto", "NH": "auto",
+    "FL": "log_only", "GA": "log_only", "NC": "log_only", "TX": "log_only"
+  }
+}
