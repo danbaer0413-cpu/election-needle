@@ -1,55 +1,34 @@
-"""Finds out whether civicAPI's early-vote pages have a data endpoint we can read.
-Run once from GitHub Actions (civic-probe workflow). Writes data/civic_probe.json and prints a summary.
-Steps: 1) read the page HTML + its script files and list any /api/ or fetch( URLs, 2) try likely endpoints for a few states."""
-import json, re, sys, requests
+"""Round 2: civicAPI early-vote endpoints found in round 1 are /api/v2/early-vote/{country}/{state}, .../capabilities, /US/{x}.
+Tries them for our gap states and saves the JSON (trimmed) to data/civic_probe.json. Read-only."""
+import json, requests
 
-BASE = "https://civicapi.org"
+BASE = "https://civicapi.org/api/v2"
 H = {"User-Agent": "election-needle-probe/1.0 (personal project; attribution: civicapi.org)"}
-out = {"pages": {}, "found": [], "tries": []}
+out = {"tries": [], "found": []}
 
 
-def get(u):
+def get(p):
+    u = BASE + p
     try:
         r = requests.get(u, headers=H, timeout=25)
-        return r.status_code, r.headers.get("content-type", ""), r.text
+        ct = r.headers.get("content-type", "")
+        ok = r.status_code == 200 and "json" in ct.lower()
+        body = r.text
     except Exception as ex:
-        return 0, "", str(ex)[:200]
-
-
-pat = re.compile(r"""["'`]((?:https?://civicapi\.org)?/(?:api|v2)[^"'`\s<>)]{2,120})["'`]""")
-for page in ("/early-vote", "/early-vote/me", "/early-vote/ne", "/early-vote/wi"):
-    code, ct, html = get(BASE + page)
-    info = {"status": code, "bytes": len(html)}
-    urls = set(pat.findall(html))
-    for s in set(re.findall(r'src=["\']([^"\']+\.js[^"\']*)', html)):
-        su = s if s.startswith("http") else BASE + (s if s.startswith("/") else "/" + s)
-        c2, _, js = get(su)
-        if c2 == 200:
-            urls |= set(pat.findall(js))
-            urls |= {m for m in re.findall(r"""["'`](/[A-Za-z0-9_\-/\.]*early[A-Za-z0-9_\-/\.\?=\$\{\}]*)["'`]""", js)}
-    info["urls"] = sorted(urls)[:60]
-    out["pages"][page] = info
-    print(page, code, len(html), "candidate urls:", len(urls))
-    for u in sorted(urls)[:25]:
-        print("   ", u)
-
-cands = []
-for st in ("me", "ne", "wi"):
-    for p in (f"/api/v2/early-vote/{st}", f"/api/v2/early-vote?state={st}", f"/api/v2/earlyvote/{st}", f"/api/early-vote/{st}",
-              f"/api/early-vote?state={st}", f"/api/v2/early/{st}", f"/api/v2/early-vote/{st}/counties"):
-        cands.append(p)
-cands += ["/api/v2/early-vote", "/api/early-vote", "/api/v2/status"]
-for u in out["pages"].values():
-    for x in u["urls"]:
-        if "early" in x.lower() and x not in cands:
-            cands.append(x)
-for p in cands:
-    u = p if p.startswith("http") else BASE + p
-    code, ct, body = get(u)
-    ok = code == 200 and "json" in ct.lower()
-    out["tries"].append({"url": u, "status": code, "json": ok, "head": body[:300] if ok else ""})
-    print(("OK  " if ok else "no  ") + str(code), u)
+        r, ok, body = None, False, str(ex)[:200]
+    out["tries"].append({"path": p, "status": getattr(r, "status_code", 0), "json": ok, "bytes": len(body), "head": body[:2500] if ok else body[:200]})
+    print(("OK  " if ok else "no  "), getattr(r, "status_code", 0), len(body), p)
     if ok:
-        out["found"].append(u)
+        out["found"].append(p)
+        print("     ", body[:400].replace("\n", " "))
+    return body if ok else None
+
+
+paths = ["/early-vote/US/capabilities", "/early-vote/US/2026", "/early-vote/US/ME", "/early-vote/US/me", "/early-vote/US/Maine"]
+for st in ("NE", "WI", "IA", "KS", "NH", "MS", "SC", "AK", "MN", "NV", "MI", "OH"):
+    paths.append(f"/early-vote/US/{st}")
+paths += ["/early-vote/US/ME/demographics", "/early-vote/historical/US/ME/2022", "/race", "/race/search", "/getElectionYears", "/getElectionDates?country=US&year=2026"]
+for p in paths:
+    get(p)
 json.dump(out, open("data/civic_probe.json", "w"), indent=1)
 print("JSON endpoints found:", out["found"] or "none")
