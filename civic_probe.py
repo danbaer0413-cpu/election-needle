@@ -1,46 +1,68 @@
-"""Round 6: (a) every Nov 3 2026 race name for GA, NC, ME (to see how the U.S. Senate races are filed),
-(b) the structure of `region_results` on a COMPLETED statewide race (Arizona U.S. Senate 2024, id 29243) and on the 2026 Georgia governor race.
-Read-only. Saves data/civic_probe.json."""
+"""Election-day readiness probe (run on/after Nov 2-3, 2026).  Read-only.
+For every state we cover it looks up the Nov 3 2026 races civicAPI has filed and reports, per race type
+(U.S. Senate, Governor, U.S. House), how many exist, whether any are flagged test_data, whether they report percent_reporting / votes,
+and whether county-level `region_results` are present.  Also pulls one House district in detail.
+Saves data/civic_probe.json and prints a summary."""
 import json, requests
 
 BASE = "https://civicapi.org/api/v2"
 H = {"User-Agent": "election-needle-probe/1.0 (personal project; attribution: civicapi.org)"}
+STATES = ["AK", "FL", "GA", "IA", "KS", "ME", "MI", "MN", "MS", "NE", "NH", "NV", "OH", "SC", "TX", "WI", "NC"]
 
 
 def get(p):
     try:
         r = requests.get(BASE + p, headers=H, timeout=40)
         return r.status_code, (r.json() if "json" in r.headers.get("content-type", "") else None)
-    except Exception as ex:
+    except Exception:
         return 0, None
 
 
-out = {"names": {}, "detail": {}}
-for st in ("GA", "NC", "ME"):
-    names, off = [], 0
-    while off < 300:
+def kind(name):
+    n = str(name)
+    if "Primary" in n:
+        return None
+    if "Senate" in n and "State Senate" not in n:
+        return "senate"
+    if "Governor" in n and "Lieutenant" not in n:
+        return "governor"
+    if ("U.S. House" in n or "US House" in n or "Congressional" in n or "United States House" in n) and "State" not in n:
+        return "house"
+    return None
+
+
+out = {"states": {}, "detail": {}}
+for st in STATES:
+    found, off = [], 0
+    while off < 400:
         code, js = get(f"/race/search?country=US&province={st}&date=2026-11-03&offset={off}")
         if not js or not js.get("races"):
             break
-        names += [(r["id"], r.get("election_name"), r.get("type"), r.get("election_type")) for r in js["races"]]
+        for r in js["races"]:
+            k = kind(r.get("election_name"))
+            if k:
+                found.append((k, r["id"], r.get("election_name")))
         off += 20
-    out["names"][st] = names
-    short = [n for n in names if "House" not in str(n[1]) and "Judge" not in str(n[1]) and "Court" not in str(n[1])]
-    print(st, len(names), "races on 2026-11-03; non-local sample:", short[:25])
+    cnt = {k: sum(1 for f in found if f[0] == k) for k in ("senate", "governor", "house")}
+    out["states"][st] = {"counts": cnt, "races": found}
+    print(st, cnt)
 
-for label, rid in (("AZ Senate 2024", 29243), ("GA Governor 2026", 87088)):
-    code, d = get(f"/race/{rid}?data=json")
-    rr = (d or {}).get("region_results")
-    info = {"status": code, "pct": (d or {}).get("percent_reporting"), "called_at": (d or {}).get("called_at"), "candidates": (d or {}).get("candidates", [])[:3],
-            "region_results_type": type(rr).__name__, "n": len(rr) if rr else 0}
-    if isinstance(rr, dict):
-        info["sample"] = list(rr.items())[:2]
-    elif isinstance(rr, list):
-        info["sample"] = rr[:2]
-    out["detail"][label] = info
-    print(label, code, "pct", info["pct"], "region_results:", info["region_results_type"], info["n"])
-    print("  candidates:", json.dumps(info["candidates"], default=str)[:500])
-    print("  sample:", json.dumps(info.get("sample"), default=str)[:900])
-code, h = get("/race/29243/history")
-print("history AZ", code, json.dumps(h, default=str)[:300])
+# detail on one race of each kind (first found anywhere), then one House race in a covered state
+seen = set()
+for st in STATES:
+    for k, rid, nm in out["states"][st]["races"]:
+        if k in seen:
+            continue
+        seen.add(k)
+        code, d = get(f"/race/{rid}?data=json")
+        d = d or {}
+        rr = d.get("region_results")
+        info = {"id": rid, "name": nm, "state": st, "status": code, "test_data": d.get("test_data"), "pct": d.get("percent_reporting"),
+                "called_at": d.get("called_at"), "candidates": [(c.get("name"), c.get("party"), c.get("votes")) for c in (d.get("candidates") or [])[:4]],
+                "n_regions": len(rr) if rr else 0, "region_sample": (list(rr.items())[:1] if isinstance(rr, dict) else (rr or [])[:1])}
+        out["detail"][k] = info
+        print(f"{k.upper()} sample {nm} ({st}) id {rid}: test_data={info['test_data']} pct={info['pct']} regions={info['n_regions']} candidates={info['candidates']}")
+        code, h = get(f"/race/{rid}/history")
+        print("   history", code, json.dumps(h, default=str)[:200])
 json.dump(out, open("data/civic_probe.json", "w"), indent=1, default=str)
+print("saved data/civic_probe.json")
