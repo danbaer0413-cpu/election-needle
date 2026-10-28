@@ -1,584 +1,5623 @@
 {
- "senate": [
-  {
-   "id": 87556,
-   "name": "Massachusetts US Senate Democratic Primary",
-   "type": "Senate",
-   "province": "MA",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-09-01T05:00:00.000Z"
-  },
-  {
-   "id": 87572,
-   "name": "Massachusetts US Senate Republican Primary",
-   "type": "Senate",
-   "province": "MA",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-09-01T05:00:00.000Z"
-  },
-  {
-   "id": 84322,
-   "name": "Colorado US Senate Democratic Primary",
-   "type": "Senate",
-   "province": "CO",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-06-30T05:00:00.000Z"
-  },
-  {
-   "id": 84157,
-   "name": "Louisiana US Senate Republican Primary Runoff",
-   "type": "Senate",
-   "province": "LA",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-06-27T05:00:00.000Z"
-  },
-  {
-   "id": 84156,
-   "name": "Louisiana US Senate Democratic Primary Runoff",
-   "type": "Senate",
-   "province": "LA",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-06-27T05:00:00.000Z"
-  },
-  {
-   "id": 83428,
-   "name": "Alabama US Senate Republican Primary Runoff",
-   "type": "Senate",
-   "province": "AL",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-06-16T05:00:00.000Z"
-  },
-  {
-   "id": 83427,
-   "name": "Alabama US Senate Democratic Primary Runoff",
-   "type": "Senate",
-   "province": "AL",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-06-16T05:00:00.000Z"
-  },
-  {
-   "id": 83316,
-   "name": "Georgia US Senate Republican Primary Runoff",
-   "type": "Senate",
-   "province": "GA",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-06-16T05:00:00.000Z"
-  },
-  {
-   "id": 80210,
-   "name": "Iowa US Senate Democratic Primary",
-   "type": "Senate",
-   "province": "IA",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-06-02T05:00:00.000Z"
-  },
-  {
-   "id": 81015,
-   "name": "New Mexico US Senate Republican Primary",
-   "type": "Senate",
-   "province": "NM",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-06-02T05:00:00.000Z"
-  },
-  {
-   "id": 80459,
-   "name": "Montana US Senate Libertarian Primary",
-   "type": "Senate",
-   "province": "MT",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-06-02T05:00:00.000Z"
-  },
-  {
-   "id": 81014,
-   "name": "New Mexico US Senate Democratic Primary",
-   "type": "Senate",
-   "province": "NM",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-06-02T05:00:00.000Z"
-  },
-  {
-   "id": 80458,
-   "name": "Montana US Senate Democratic Primary",
-   "type": "Senate",
-   "province": "MT",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-06-02T05:00:00.000Z"
-  },
-  {
-   "id": 80512,
-   "name": "South Dakota US Senate Republican Primary",
-   "type": "Senate",
-   "province": "SD",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-06-02T05:00:00.000Z"
-  },
-  {
-   "id": 80211,
-   "name": "Iowa US Senate Republican Primary",
-   "type": "Senate",
-   "province": "IA",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-06-02T05:00:00.000Z"
-  },
-  {
-   "id": 80460,
-   "name": "Montana US Senate Republican Primary",
-   "type": "Senate",
-   "province": "MT",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-06-02T05:00:00.000Z"
-  },
-  {
-   "id": 79766,
-   "name": "Texas US Senate Republican Primary Runoff",
-   "type": "Senate",
-   "province": "TX",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-05-26T05:00:00.000Z"
-  },
-  {
-   "id": 78434,
-   "name": "Idaho US Senate Republican Primary",
-   "type": "Senate",
-   "province": "ID",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-05-19T05:00:00.000Z"
-  },
-  {
-   "id": 79432,
-   "name": "Alabama US Senate Republican Primary",
-   "type": "Senate",
-   "province": "AL",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-05-19T05:00:00.000Z"
-  },
-  {
-   "id": 79431,
-   "name": "Alabama US Senate Democratic Primary",
-   "type": "Senate",
-   "province": "AL",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-05-19T05:00:00.000Z"
-  },
-  {
-   "id": 76946,
-   "name": "Kentucky US Senate Democratic Primary",
-   "type": "Senate",
-   "province": "KY",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-05-19T05:00:00.000Z"
-  },
-  {
-   "id": 78433,
-   "name": "Idaho US Senate Libertarian Primary",
-   "type": "Senate",
-   "province": "ID",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-05-19T05:00:00.000Z"
-  },
-  {
-   "id": 70368,
-   "name": "Georgia US Senate Republican Primary",
-   "type": "Senate",
-   "province": "GA",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-05-19T05:00:00.000Z"
-  },
-  {
-   "id": 78432,
-   "name": "Idaho US Senate Democratic Primary",
-   "type": "Senate",
-   "province": "ID",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-05-19T05:00:00.000Z"
-  },
-  {
-   "id": 70367,
-   "name": "Georgia US Senate Democratic Primary",
-   "type": "Senate",
-   "province": "GA",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-05-19T05:00:00.000Z"
-  },
-  {
-   "id": 76947,
-   "name": "Kentucky US Senate Republican Primary",
-   "type": "Senate",
-   "province": "KY",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-05-19T05:00:00.000Z"
-  },
-  {
-   "id": 75323,
-   "name": "Louisiana US Senate Democratic Primary",
-   "type": "Senate",
-   "province": "LA",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-05-16T05:00:00.000Z"
-  },
-  {
-   "id": 75324,
-   "name": "Louisiana US Senate Republican Primary",
-   "type": "Senate",
-   "province": "LA",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-05-16T05:00:00.000Z"
-  },
-  {
-   "id": 74896,
-   "name": "Nebraska US Senate Republican Primary",
-   "type": "Senate",
-   "province": "NE",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-05-12T05:00:00.000Z"
-  },
-  {
-   "id": 74895,
-   "name": "Nebraska US Senate Legal Marijuana Now Primary",
-   "type": "Senate",
-   "province": "NE",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-05-12T05:00:00.000Z"
-  },
-  {
-   "id": 75244,
-   "name": "West Virginia US Senate Republican Primary",
-   "type": "Senate",
-   "province": "WV",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-05-12T05:00:00.000Z"
-  },
-  {
-   "id": 74894,
-   "name": "Nebraska US Senate Democratic Primary",
-   "type": "Senate",
-   "province": "NE",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-05-12T05:00:00.000Z"
-  },
-  {
-   "id": 75243,
-   "name": "West Virginia US Senate Democratic Primary",
-   "type": "Senate",
-   "province": "WV",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-05-12T05:00:00.000Z"
-  },
-  {
-   "id": 68679,
-   "name": "Ohio US Senate Republican Primary",
-   "type": "Senate",
-   "province": "OH",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-05-05T05:00:00.000Z"
-  },
-  {
-   "id": 68678,
-   "name": "Ohio US Senate Democratic Primary",
-   "type": "Senate",
-   "province": "OH",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-05-05T05:00:00.000Z"
-  },
-  {
-   "id": 68680,
-   "name": "Ohio US Senate Libertarian Primary",
-   "type": "Senate",
-   "province": "OH",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-05-05T05:00:00.000Z"
-  },
-  {
-   "id": 55550,
-   "name": "Illinois US Senate Democratic Primary",
-   "type": "Senate",
-   "province": "IL",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-03-17T05:00:00.000Z"
-  },
-  {
-   "id": 55551,
-   "name": "Illinois US Senate Republican Primary",
-   "type": "Senate",
-   "province": "IL",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-03-17T05:00:00.000Z"
-  },
-  {
-   "id": 51420,
-   "name": "Mississippi US Senate Republican Primary",
-   "type": "Senate",
-   "province": "MS",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-03-10T05:00:00.000Z"
-  },
-  {
-   "id": 46673,
-   "name": "Mississippi US Senate Democratic Primary",
-   "type": "Senate",
-   "province": "MS",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-03-10T05:00:00.000Z"
-  },
-  {
-   "id": 44285,
-   "name": "Texas US Senate Republican Primary",
-   "type": "Senate",
-   "province": "TX",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-03-03T05:00:00.000Z"
-  },
-  {
-   "id": 44730,
-   "name": "Arkansas US Senate Democratic Primary",
-   "type": "Senate",
-   "province": "AR",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-03-03T05:00:00.000Z"
-  },
-  {
-   "id": 44729,
-   "name": "Arkansas US Senate Republican Primary",
-   "type": "Senate",
-   "province": "AR",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-03-03T05:00:00.000Z"
-  },
-  {
-   "id": 46303,
-   "name": "North Carolina US Senate Republican Primary",
-   "type": "Senate",
-   "province": "NC",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-03-03T05:00:00.000Z"
-  },
-  {
-   "id": 44286,
-   "name": "Texas US Senate Democratic Primary",
-   "type": "Senate",
-   "province": "TX",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-03-03T05:00:00.000Z"
-  },
-  {
-   "id": 46302,
-   "name": "North Carolina US Senate Democratic Primary",
-   "type": "Senate",
-   "province": "NC",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2026-03-03T05:00:00.000Z"
-  },
-  {
-   "id": 26331,
-   "name": "Delaware US Senate",
-   "type": "Senate",
-   "province": "DE",
-   "scope": "General",
-   "has_breakdown": true,
-   "date": "2024-11-05T05:00:00.000Z"
-  },
-  {
-   "id": 32987,
-   "name": "California US Senate",
-   "type": "Senate",
-   "province": "CA",
-   "scope": "General",
-   "has_breakdown": true,
-   "date": "2024-11-05T05:00:00.000Z"
-  },
-  {
-   "id": 26262,
-   "name": "Delaware US Senate",
-   "type": "Senate",
-   "province": "DE",
-   "scope": "General",
-   "has_breakdown": false,
-   "date": "2024-11-05T05:00:00.000Z"
-  },
-  {
-   "id": 32940,
-   "name": "California US Senate Special",
-   "type": "Senate",
-   "province": "CA",
-   "scope": "General",
-   "has_breakdown": true,
-   "date": "2024-11-05T05:00:00.000Z"
-  },
-  {
-   "id": 2146,
-   "name": "Maryland United States Senate Election (Class I)",
-   "type": "Senate",
-   "province": "MD",
-   "scope": "General",
-   "has_breakdown": true,
-   "date": "2024-11-05T05:00:00.000Z"
-  },
-  {
-   "id": 29243,
-   "name": "Arizona US Senate",
-   "type": "Senate",
-   "province": "AZ",
-   "scope": "General",
-   "has_breakdown": true,
-   "date": "2024-11-05T05:00:00.000Z"
-  },
-  {
-   "id": 29253,
-   "name": "Arizona US Senate Democratic Primary",
-   "type": "Senate",
-   "province": "AZ",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2024-07-30T05:00:00.000Z"
-  },
-  {
-   "id": 29251,
-   "name": "Arizona US Senate Republican Primary",
-   "type": "Senate",
-   "province": "AZ",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2024-07-30T05:00:00.000Z"
-  },
-  {
-   "id": 29191,
-   "name": "Arizona US Senate Green Primary",
-   "type": "Senate",
-   "province": "AZ",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2024-07-30T05:00:00.000Z"
-  },
-  {
-   "id": 32939,
-   "name": "California US Senate Special Open Primary",
-   "type": "Senate",
-   "province": "CA",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2024-03-05T05:00:00.000Z"
-  },
-  {
-   "id": 32986,
-   "name": "California US Senate Open Primary",
-   "type": "Senate",
-   "province": "CA",
-   "scope": "Primary",
-   "has_breakdown": true,
-   "date": "2024-03-05T05:00:00.000Z"
-  },
-  {
-   "id": 29244,
-   "name": "Arizona US Senate",
-   "type": "Senate",
-   "province": "AZ",
-   "scope": "General",
-   "has_breakdown": true,
-   "date": "2022-11-08T05:00:00.000Z"
-  },
-  {
-   "id": 32991,
-   "name": "California US Senate Special",
-   "type": "Senate",
-   "province": "CA",
-   "scope": "General",
-   "has_breakdown": true,
-   "date": "2022-11-08T05:00:00.000Z"
-  },
-  {
-   "id": 32989,
-   "name": "California US Senate",
-   "type": "Senate",
-   "province": "CA",
-   "scope": "General",
-   "has_breakdown": true,
-   "date": "2022-11-08T05:00:00.000Z"
-  },
-  {
-   "id": 87528,
-   "name": "United States Senate",
-   "type": "US Senate",
-   "province": "US",
-   "scope": "General",
-   "has_breakdown": true,
-   "date": "2026-11-03T05:00:00.000Z"
-  }
- ],
+ "names": {
+  "GA": [
+   [
+    87097,
+    "Georgia Public Service Commission 5",
+    "Public Service Commission 5",
+    "Statewide"
+   ],
+   [
+    87091,
+    "Georgia Secretary of State",
+    "Secretary of State",
+    "Statewide"
+   ],
+   [
+    87089,
+    "Georgia Lieutenant Governor",
+    "Lieutenant Governor",
+    "Statewide"
+   ],
+   [
+    87090,
+    "Georgia Attorney General",
+    "Attorney General",
+    "Statewide"
+   ],
+   [
+    87095,
+    "Georgia Agriculture Commissioner",
+    "Agriculture Commissioner",
+    "Statewide"
+   ],
+   [
+    87093,
+    "Georgia Labor Commissioner",
+    "Labor Commissioner",
+    "Statewide"
+   ],
+   [
+    87094,
+    "Georgia State Superintendent",
+    "State Superintendent",
+    "Statewide"
+   ],
+   [
+    87092,
+    "Georgia Insurance Commissioner",
+    "Insurance Commissioner",
+    "Statewide"
+   ],
+   [
+    87088,
+    "Georgia Governor",
+    "Governor",
+    "Statewide"
+   ],
+   [
+    159514,
+    "Georgia State House",
+    "State House",
+    "Statewide"
+   ],
+   [
+    159515,
+    "Georgia State Senate",
+    "State Senate",
+    "Statewide"
+   ],
+   [
+    87096,
+    "Georgia Public Service Commission 3",
+    "Public Service Commission 3",
+    "Statewide"
+   ],
+   [
+    151678,
+    "Georgia State House 123",
+    "State House",
+    "Local"
+   ],
+   [
+    151685,
+    "Georgia State House 130",
+    "State House",
+    "Local"
+   ],
+   [
+    151589,
+    "Georgia State House 34",
+    "State House",
+    "Local"
+   ],
+   [
+    151717,
+    "Georgia State House 162",
+    "State House",
+    "Local"
+   ],
+   [
+    151621,
+    "Georgia State House 66",
+    "State House",
+    "Local"
+   ],
+   [
+    151525,
+    "Georgia State Senate 26",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151653,
+    "Georgia State House 98",
+    "State House",
+    "Local"
+   ],
+   [
+    151557,
+    "Georgia State House 2",
+    "State House",
+    "Local"
+   ],
+   [
+    151732,
+    "Georgia State House 177",
+    "State House",
+    "Local"
+   ],
+   [
+    151590,
+    "Georgia State House 35",
+    "State House",
+    "Local"
+   ],
+   [
+    151629,
+    "Georgia State House 74",
+    "State House",
+    "Local"
+   ],
+   [
+    151668,
+    "Georgia State House 113",
+    "State House",
+    "Local"
+   ],
+   [
+    151725,
+    "Georgia State House 170",
+    "State House",
+    "Local"
+   ],
+   [
+    151540,
+    "Georgia State Senate 41",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151622,
+    "Georgia State House 67",
+    "State House",
+    "Local"
+   ],
+   [
+    151661,
+    "Georgia State House 106",
+    "State House",
+    "Local"
+   ],
+   [
+    151700,
+    "Georgia State House 145",
+    "State House",
+    "Local"
+   ],
+   [
+    151533,
+    "Georgia State Senate 34",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151565,
+    "Georgia State House 10",
+    "State House",
+    "Local"
+   ],
+   [
+    151604,
+    "Georgia State House 49",
+    "State House",
+    "Local"
+   ],
+   [
+    151654,
+    "Georgia State House 99",
+    "State House",
+    "Local"
+   ],
+   [
+    151693,
+    "Georgia State House 138",
+    "State House",
+    "Local"
+   ],
+   [
+    151508,
+    "Georgia State Senate 9",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151558,
+    "Georgia State House 3",
+    "State House",
+    "Local"
+   ],
+   [
+    151597,
+    "Georgia State House 42",
+    "State House",
+    "Local"
+   ],
+   [
+    151636,
+    "Georgia State House 81",
+    "State House",
+    "Local"
+   ],
+   [
+    151686,
+    "Georgia State House 131",
+    "State House",
+    "Local"
+   ],
+   [
+    151501,
+    "Georgia State Senate 2",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151544,
+    "Georgia State Senate 45",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151551,
+    "Georgia State Senate 52",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151672,
+    "Georgia State House 117",
+    "State House",
+    "Local"
+   ],
+   [
+    151679,
+    "Georgia State House 124",
+    "State House",
+    "Local"
+   ],
+   [
+    151654,
+    "Georgia State House 99",
+    "State House",
+    "Local"
+   ],
+   [
+    151537,
+    "Georgia State Senate 38",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151576,
+    "Georgia State House 21",
+    "State House",
+    "Local"
+   ],
+   [
+    151583,
+    "Georgia State House 28",
+    "State House",
+    "Local"
+   ],
+   [
+    151697,
+    "Georgia State House 142",
+    "State House",
+    "Local"
+   ],
+   [
+    151704,
+    "Georgia State House 149",
+    "State House",
+    "Local"
+   ],
+   [
+    151711,
+    "Georgia State House 156",
+    "State House",
+    "Local"
+   ],
+   [
+    151608,
+    "Georgia State House 53",
+    "State House",
+    "Local"
+   ],
+   [
+    151615,
+    "Georgia State House 60",
+    "State House",
+    "Local"
+   ],
+   [
+    151505,
+    "Georgia State Senate 6",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151512,
+    "Georgia State Senate 13",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151519,
+    "Georgia State Senate 20",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151640,
+    "Georgia State House 85",
+    "State House",
+    "Local"
+   ],
+   [
+    151647,
+    "Georgia State House 92",
+    "State House",
+    "Local"
+   ],
+   [
+    151622,
+    "Georgia State House 67",
+    "State House",
+    "Local"
+   ],
+   [
+    151729,
+    "Georgia State House 174",
+    "State House",
+    "Local"
+   ],
+   [
+    151631,
+    "Georgia State House 76",
+    "State House",
+    "Local"
+   ],
+   [
+    151670,
+    "Georgia State House 115",
+    "State House",
+    "Local"
+   ],
+   [
+    151709,
+    "Georgia State House 154",
+    "State House",
+    "Local"
+   ],
+   [
+    151720,
+    "Georgia State House 165",
+    "State House",
+    "Local"
+   ],
+   [
+    151535,
+    "Georgia State Senate 36",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151574,
+    "Georgia State House 19",
+    "State House",
+    "Local"
+   ],
+   [
+    151663,
+    "Georgia State House 108",
+    "State House",
+    "Local"
+   ],
+   [
+    151702,
+    "Georgia State House 147",
+    "State House",
+    "Local"
+   ],
+   [
+    151517,
+    "Georgia State Senate 18",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151528,
+    "Georgia State Senate 29",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151567,
+    "Georgia State House 12",
+    "State House",
+    "Local"
+   ],
+   [
+    151606,
+    "Georgia State House 51",
+    "State House",
+    "Local"
+   ],
+   [
+    151695,
+    "Georgia State House 140",
+    "State House",
+    "Local"
+   ],
+   [
+    151510,
+    "Georgia State Senate 11",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151734,
+    "Georgia State House 179",
+    "State House",
+    "Local"
+   ],
+   [
+    151599,
+    "Georgia State House 44",
+    "State House",
+    "Local"
+   ],
+   [
+    151638,
+    "Georgia State House 83",
+    "State House",
+    "Local"
+   ],
+   [
+    151503,
+    "Georgia State Senate 4",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151727,
+    "Georgia State House 172",
+    "State House",
+    "Local"
+   ],
+   [
+    151542,
+    "Georgia State Senate 43",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151640,
+    "Georgia State House 85",
+    "State House",
+    "Local"
+   ],
+   [
+    151647,
+    "Georgia State House 92",
+    "State House",
+    "Local"
+   ],
+   [
+    151654,
+    "Georgia State House 99",
+    "State House",
+    "Local"
+   ],
+   [
+    151544,
+    "Georgia State Senate 45",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151551,
+    "Georgia State Senate 52",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151558,
+    "Georgia State House 3",
+    "State House",
+    "Local"
+   ],
+   [
+    151672,
+    "Georgia State House 117",
+    "State House",
+    "Local"
+   ],
+   [
+    151679,
+    "Georgia State House 124",
+    "State House",
+    "Local"
+   ],
+   [
+    151576,
+    "Georgia State House 21",
+    "State House",
+    "Local"
+   ],
+   [
+    151583,
+    "Georgia State House 28",
+    "State House",
+    "Local"
+   ],
+   [
+    151590,
+    "Georgia State House 35",
+    "State House",
+    "Local"
+   ],
+   [
+    151704,
+    "Georgia State House 149",
+    "State House",
+    "Local"
+   ],
+   [
+    151711,
+    "Georgia State House 156",
+    "State House",
+    "Local"
+   ],
+   [
+    151718,
+    "Georgia State House 163",
+    "State House",
+    "Local"
+   ],
+   [
+    151608,
+    "Georgia State House 53",
+    "State House",
+    "Local"
+   ],
+   [
+    151615,
+    "Georgia State House 60",
+    "State House",
+    "Local"
+   ],
+   [
+    151622,
+    "Georgia State House 67",
+    "State House",
+    "Local"
+   ],
+   [
+    151512,
+    "Georgia State Senate 13",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151519,
+    "Georgia State Senate 20",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151526,
+    "Georgia State Senate 27",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151687,
+    "Georgia State House 132",
+    "State House",
+    "Local"
+   ],
+   [
+    151609,
+    "Georgia State House 54",
+    "State House",
+    "Local"
+   ],
+   [
+    151584,
+    "Georgia State House 29",
+    "State House",
+    "Local"
+   ],
+   [
+    151591,
+    "Georgia State House 36",
+    "State House",
+    "Local"
+   ],
+   [
+    151712,
+    "Georgia State House 157",
+    "State House",
+    "Local"
+   ],
+   [
+    151719,
+    "Georgia State House 164",
+    "State House",
+    "Local"
+   ],
+   [
+    151641,
+    "Georgia State House 86",
+    "State House",
+    "Local"
+   ],
+   [
+    151616,
+    "Georgia State House 61",
+    "State House",
+    "Local"
+   ],
+   [
+    151623,
+    "Georgia State House 68",
+    "State House",
+    "Local"
+   ],
+   [
+    151520,
+    "Georgia State Senate 21",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151527,
+    "Georgia State Senate 28",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151534,
+    "Georgia State Senate 35",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151673,
+    "Georgia State House 118",
+    "State House",
+    "Local"
+   ],
+   [
+    151648,
+    "Georgia State House 93",
+    "State House",
+    "Local"
+   ],
+   [
+    151655,
+    "Georgia State House 100",
+    "State House",
+    "Local"
+   ],
+   [
+    151577,
+    "Georgia State House 22",
+    "State House",
+    "Local"
+   ],
+   [
+    151552,
+    "Georgia State Senate 53",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151559,
+    "Georgia State House 4",
+    "State House",
+    "Local"
+   ],
+   [
+    151705,
+    "Georgia State House 150",
+    "State House",
+    "Local"
+   ],
+   [
+    151680,
+    "Georgia State House 125",
+    "State House",
+    "Local"
+   ],
+   [
+    151723,
+    "Georgia State House 168",
+    "State House",
+    "Local"
+   ],
+   [
+    151730,
+    "Georgia State House 175",
+    "State House",
+    "Local"
+   ],
+   [
+    151627,
+    "Georgia State House 72",
+    "State House",
+    "Local"
+   ],
+   [
+    151634,
+    "Georgia State House 79",
+    "State House",
+    "Local"
+   ],
+   [
+    151673,
+    "Georgia State House 118",
+    "State House",
+    "Local"
+   ],
+   [
+    151524,
+    "Georgia State Senate 25",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151531,
+    "Georgia State Senate 32",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151538,
+    "Georgia State Senate 39",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151659,
+    "Georgia State House 104",
+    "State House",
+    "Local"
+   ],
+   [
+    151666,
+    "Georgia State House 111",
+    "State House",
+    "Local"
+   ],
+   [
+    151698,
+    "Georgia State House 143",
+    "State House",
+    "Local"
+   ],
+   [
+    151563,
+    "Georgia State House 8",
+    "State House",
+    "Local"
+   ],
+   [
+    151570,
+    "Georgia State House 15",
+    "State House",
+    "Local"
+   ],
+   [
+    151684,
+    "Georgia State House 129",
+    "State House",
+    "Local"
+   ],
+   [
+    151691,
+    "Georgia State House 136",
+    "State House",
+    "Local"
+   ],
+   [
+    151506,
+    "Georgia State Senate 7",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151595,
+    "Georgia State House 40",
+    "State House",
+    "Local"
+   ],
+   [
+    151602,
+    "Georgia State House 47",
+    "State House",
+    "Local"
+   ],
+   [
+    151641,
+    "Georgia State House 86",
+    "State House",
+    "Local"
+   ],
+   [
+    151716,
+    "Georgia State House 161",
+    "State House",
+    "Local"
+   ],
+   [
+    151586,
+    "Georgia State House 31",
+    "State House",
+    "Local"
+   ],
+   [
+    151561,
+    "Georgia State House 6",
+    "State House",
+    "Local"
+   ],
+   [
+    151600,
+    "Georgia State House 45",
+    "State House",
+    "Local"
+   ],
+   [
+    151714,
+    "Georgia State House 159",
+    "State House",
+    "Local"
+   ],
+   [
+    151689,
+    "Georgia State House 134",
+    "State House",
+    "Local"
+   ],
+   [
+    151504,
+    "Georgia State Senate 5",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151618,
+    "Georgia State House 63",
+    "State House",
+    "Local"
+   ],
+   [
+    151593,
+    "Georgia State House 38",
+    "State House",
+    "Local"
+   ],
+   [
+    151632,
+    "Georgia State House 77",
+    "State House",
+    "Local"
+   ],
+   [
+    151547,
+    "Georgia State Senate 48",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151522,
+    "Georgia State Senate 23",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151721,
+    "Georgia State House 166",
+    "State House",
+    "Local"
+   ],
+   [
+    151650,
+    "Georgia State House 95",
+    "State House",
+    "Local"
+   ],
+   [
+    151625,
+    "Georgia State House 70",
+    "State House",
+    "Local"
+   ],
+   [
+    151664,
+    "Georgia State House 109",
+    "State House",
+    "Local"
+   ],
+   [
+    151554,
+    "Georgia State Senate 55",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151529,
+    "Georgia State Senate 30",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151682,
+    "Georgia State House 127",
+    "State House",
+    "Local"
+   ],
+   [
+    151657,
+    "Georgia State House 102",
+    "State House",
+    "Local"
+   ],
+   [
+    151696,
+    "Georgia State House 141",
+    "State House",
+    "Local"
+   ],
+   [
+    151595,
+    "Georgia State House 40",
+    "State House",
+    "Local"
+   ],
+   [
+    151602,
+    "Georgia State House 47",
+    "State House",
+    "Local"
+   ],
+   [
+    151641,
+    "Georgia State House 86",
+    "State House",
+    "Local"
+   ],
+   [
+    151723,
+    "Georgia State House 168",
+    "State House",
+    "Local"
+   ],
+   [
+    151730,
+    "Georgia State House 175",
+    "State House",
+    "Local"
+   ],
+   [
+    151545,
+    "Georgia State Senate 46",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151634,
+    "Georgia State House 79",
+    "State House",
+    "Local"
+   ],
+   [
+    151666,
+    "Georgia State House 111",
+    "State House",
+    "Local"
+   ],
+   [
+    151531,
+    "Georgia State Senate 32",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151538,
+    "Georgia State Senate 39",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151577,
+    "Georgia State House 22",
+    "State House",
+    "Local"
+   ],
+   [
+    151659,
+    "Georgia State House 104",
+    "State House",
+    "Local"
+   ],
+   [
+    151698,
+    "Georgia State House 143",
+    "State House",
+    "Local"
+   ],
+   [
+    151705,
+    "Georgia State House 150",
+    "State House",
+    "Local"
+   ],
+   [
+    151563,
+    "Georgia State House 8",
+    "State House",
+    "Local"
+   ],
+   [
+    151570,
+    "Georgia State House 15",
+    "State House",
+    "Local"
+   ],
+   [
+    151609,
+    "Georgia State House 54",
+    "State House",
+    "Local"
+   ],
+   [
+    151691,
+    "Georgia State House 136",
+    "State House",
+    "Local"
+   ],
+   [
+    151506,
+    "Georgia State Senate 7",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151513,
+    "Georgia State Senate 14",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151706,
+    "Georgia State House 151",
+    "State House",
+    "Local"
+   ],
+   [
+    151564,
+    "Georgia State House 9",
+    "State House",
+    "Local"
+   ],
+   [
+    151603,
+    "Georgia State House 48",
+    "State House",
+    "Local"
+   ],
+   [
+    151610,
+    "Georgia State House 55",
+    "State House",
+    "Local"
+   ],
+   [
+    151507,
+    "Georgia State Senate 8",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151514,
+    "Georgia State Senate 15",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151596,
+    "Georgia State House 41",
+    "State House",
+    "Local"
+   ],
+   [
+    151635,
+    "Georgia State House 80",
+    "State House",
+    "Local"
+   ],
+   [
+    151642,
+    "Georgia State House 87",
+    "State House",
+    "Local"
+   ],
+   [
+    151731,
+    "Georgia State House 176",
+    "State House",
+    "Local"
+   ],
+   [
+    151546,
+    "Georgia State Senate 47",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151521,
+    "Georgia State Senate 22",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151628,
+    "Georgia State House 73",
+    "State House",
+    "Local"
+   ],
+   [
+    151667,
+    "Georgia State House 112",
+    "State House",
+    "Local"
+   ],
+   [
+    151674,
+    "Georgia State House 119",
+    "State House",
+    "Local"
+   ],
+   [
+    151539,
+    "Georgia State Senate 40",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151571,
+    "Georgia State House 16",
+    "State House",
+    "Local"
+   ],
+   [
+    151578,
+    "Georgia State House 23",
+    "State House",
+    "Local"
+   ],
+   [
+    151660,
+    "Georgia State House 105",
+    "State House",
+    "Local"
+   ],
+   [
+    151699,
+    "Georgia State House 144",
+    "State House",
+    "Local"
+   ],
+   [
+    151710,
+    "Georgia State House 155",
+    "State House",
+    "Local"
+   ],
+   [
+    151685,
+    "Georgia State House 130",
+    "State House",
+    "Local"
+   ],
+   [
+    151614,
+    "Georgia State House 59",
+    "State House",
+    "Local"
+   ],
+   [
+    151589,
+    "Georgia State House 34",
+    "State House",
+    "Local"
+   ],
+   [
+    151596,
+    "Georgia State House 41",
+    "State House",
+    "Local"
+   ],
+   [
+    151511,
+    "Georgia State Senate 12",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151518,
+    "Georgia State Senate 19",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151717,
+    "Georgia State House 162",
+    "State House",
+    "Local"
+   ],
+   [
+    151646,
+    "Georgia State House 91",
+    "State House",
+    "Local"
+   ],
+   [
+    151621,
+    "Georgia State House 66",
+    "State House",
+    "Local"
+   ],
+   [
+    151628,
+    "Georgia State House 73",
+    "State House",
+    "Local"
+   ],
+   [
+    151550,
+    "Georgia State Senate 51",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151525,
+    "Georgia State Senate 26",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151678,
+    "Georgia State House 123",
+    "State House",
+    "Local"
+   ],
+   [
+    151653,
+    "Georgia State House 98",
+    "State House",
+    "Local"
+   ],
+   [
+    151660,
+    "Georgia State House 105",
+    "State House",
+    "Local"
+   ],
+   [
+    151582,
+    "Georgia State House 27",
+    "State House",
+    "Local"
+   ],
+   [
+    151557,
+    "Georgia State House 2",
+    "State House",
+    "Local"
+   ],
+   [
+    151564,
+    "Georgia State House 9",
+    "State House",
+    "Local"
+   ],
+   [
+    151703,
+    "Georgia State House 148",
+    "State House",
+    "Local"
+   ],
+   [
+    151573,
+    "Georgia State House 18",
+    "State House",
+    "Local"
+   ],
+   [
+    151612,
+    "Georgia State House 57",
+    "State House",
+    "Local"
+   ],
+   [
+    151587,
+    "Georgia State House 32",
+    "State House",
+    "Local"
+   ],
+   [
+    151701,
+    "Georgia State House 146",
+    "State House",
+    "Local"
+   ],
+   [
+    151516,
+    "Georgia State Senate 17",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151715,
+    "Georgia State House 160",
+    "State House",
+    "Local"
+   ],
+   [
+    151605,
+    "Georgia State House 50",
+    "State House",
+    "Local"
+   ],
+   [
+    151644,
+    "Georgia State House 89",
+    "State House",
+    "Local"
+   ],
+   [
+    151619,
+    "Georgia State House 64",
+    "State House",
+    "Local"
+   ],
+   [
+    151509,
+    "Georgia State Senate 10",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151733,
+    "Georgia State House 178",
+    "State House",
+    "Local"
+   ],
+   [
+    151548,
+    "Georgia State Senate 49",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151637,
+    "Georgia State House 82",
+    "State House",
+    "Local"
+   ],
+   [
+    151676,
+    "Georgia State House 121",
+    "State House",
+    "Local"
+   ],
+   [
+    151651,
+    "Georgia State House 96",
+    "State House",
+    "Local"
+   ],
+   [
+    151541,
+    "Georgia State Senate 42",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151580,
+    "Georgia State House 25",
+    "State House",
+    "Local"
+   ],
+   [
+    151669,
+    "Georgia State House 114",
+    "State House",
+    "Local"
+   ],
+   [
+    151708,
+    "Georgia State House 153",
+    "State House",
+    "Local"
+   ],
+   [
+    151683,
+    "Georgia State House 128",
+    "State House",
+    "Local"
+   ],
+   [
+    151564,
+    "Georgia State House 9",
+    "State House",
+    "Local"
+   ],
+   [
+    151500,
+    "Georgia State Senate 1",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151596,
+    "Georgia State House 41",
+    "State House",
+    "Local"
+   ],
+   [
+    151724,
+    "Georgia State House 169",
+    "State House",
+    "Local"
+   ],
+   [
+    151628,
+    "Georgia State House 73",
+    "State House",
+    "Local"
+   ],
+   [
+    151660,
+    "Georgia State House 105",
+    "State House",
+    "Local"
+   ],
+   [
+    151532,
+    "Georgia State Senate 33",
+    "State Senate",
+    "Local"
+   ],
+   [
+    151692,
+    "Georgia State House 137",
+    "State House",
+    "Local"
+   ],
+   [
+    87084,
+    "Georgia US House 12",
+    "House of Representatives",
+    "General"
+   ],
+   [
+    87086,
+    "Georgia US House 14",
+    "House of Representatives",
+    "General"
+   ],
+   [
+    87087,
+    "Georgia US Senate",
+    "US Senate",
+    "General"
+   ],
+   [
+    87078,
+    "Georgia US House 6",
+    "House of Representatives",
+    "General"
+   ],
+   [
+    87079,
+    "Georgia US House 7",
+    "House of Representatives",
+    "General"
+   ],
+   [
+    87080,
+    "Georgia US House 8",
+    "House of Representatives",
+    "General"
+   ],
+   [
+    87082,
+    "Georgia US House 10",
+    "House of Representatives",
+    "General"
+   ],
+   [
+    87083,
+    "Georgia US House 11",
+    "House of Representatives",
+    "General"
+   ],
+   [
+    87073,
+    "Georgia US House 1",
+    "House of Representatives",
+    "General"
+   ],
+   [
+    87075,
+    "Georgia US House 3",
+    "House of Representatives",
+    "General"
+   ],
+   [
+    87076,
+    "Georgia US House 4",
+    "House of Representatives",
+    "General"
+   ],
+   [
+    87085,
+    "Georgia US House 13",
+    "House of Representatives",
+    "General"
+   ],
+   [
+    87078,
+    "Georgia US House 6",
+    "House of Representatives",
+    "General"
+   ],
+   [
+    87074,
+    "Georgia US House 2",
+    "House of Representatives",
+    "General"
+   ],
+   [
+    87085,
+    "Georgia US House 13",
+    "House of Representatives",
+    "General"
+   ],
+   [
+    87536,
+    "Georgia US House 13 Runoff",
+    "US House",
+    "General"
+   ],
+   [
+    84570,
+    "Georgia US House 13 Special",
+    "House of Representatives",
+    "General"
+   ],
+   [
+    83237,
+    "Brantley County Commission Post 4 Republican Primary Runoff",
+    "County Commissioner",
+    "Primary"
+   ],
+   [
+    83312,
+    "Georgia US House 11 Republican Primary Runoff",
+    "House of Representatives",
+    "Primary"
+   ],
+   [
+    83262,
+    "Fulton County Commissioner District 5 Dem Runoff",
+    "County Commissioner",
+    "Primary"
+   ],
+   [
+    83319,
+    "Wayne County Commissioner District 2 Republican Primary Runoff",
+    "County Commissioner",
+    "Primary"
+   ],
+   [
+    83269,
+    "Hall County Commission District 1 Republican Primary Runoff",
+    "County Commissioner",
+    "Primary"
+   ],
+   [
+    83241,
+    "Clarke County Commission District 9 Runoff",
+    "County Commissioner",
+    "Primary"
+   ],
+   [
+    83294,
+    "Georgia State House 177 Democratic Primary Runoff",
+    "State House",
+    "Primary"
+   ],
+   [
+    83248,
+    "Georgia Insurance & Fire Safety Commissioner Democratic Primary Runoff",
+    "Insurance Commissioner",
+    "Primary"
+   ],
+   [
+    83301,
+    "Georgia State Senate 10 Democratic Primary Runoff",
+    "State Senate",
+    "Primary"
+   ],
+   [
+    83273,
+    "Jasper Board of Education District 3 Runoff",
+    "School Board",
+    "Primary"
+   ],
+   [
+    83255,
+    "DeKalb County Commission District 3 Democratic Primary Runoff",
+    "County Commissioner",
+    "Primary"
+   ],
+   [
+    83280,
+    "Marion Board of Education District 1 Runoff",
+    "School Board",
+    "Primary"
+   ],
+   [
+    83230,
+    "Athens Mayor Runoff",
+    "Mayor",
+    "Primary"
+   ],
+   [
+    83305,
+    "Georgia State Senate 7 Democratic Primary Runoff",
+    "State Senate",
+    "Primary"
+   ],
+   [
+    83287,
+    "Rockdale County Commission Post 2 Democratic Primary Runoff",
+    "County Commissioner",
+    "Primary"
+   ],
+   [
+    83238,
+    "Bulloch Commissioner- 2-B Republican Primary Runoff",
+    "County Commissioner",
+    "Primary"
+   ],
+   [
+    83291,
+    "South Fulton City Council District 3 Special Runoff",
+    "City Council",
+    "Primary"
+   ],
+   [
+    83263,
+    "Fairburn Special City Council At-Large Runoff",
+    "City Council",
+    "Primary"
+   ],
+   [
+    83245,
+    "Columbia County Board of Education District 2 Runoff",
+    "School Board",
+    "Primary"
+   ],
+   [
+    83266,
+    "Georgia Governor Republican Primary Runoff",
+    "Governor",
+    "Primary"
+   ],
+   [
+    83320,
+    "Wheeler Board of Education At Large Runoff",
+    "School Board",
+    "Primary"
+   ],
+   [
+    83270,
+    "Hall County Commission District 3 Republican Primary Runoff",
+    "County Commissioner",
+    "Primary"
+   ],
+   [
+    83252,
+    "Coweta County Commission District 3 Republican Primary Runoff",
+    "County Commissioner",
+    "Primary"
+   ],
+   [
+    83295,
+    "Georgia State House 47 Republican Primary Runoff",
+    "State House",
+    "Primary"
+   ],
+   [
+    83277,
+    "Georgia Lieutenant Governor Republican Primary Runoff",
+    "Lieutenant Governor",
+    "Primary"
+   ],
+   [
+    83298,
+    "Georgia State House 68 Democratic Primary Runoff",
+    "State House",
+    "Primary"
+   ],
+   [
+    83302,
+    "Georgia State Senate 14 Democratic Primary Runoff",
+    "State Senate",
+    "Primary"
+   ],
+   [
+    83284,
+    "Muscogee Council District 9 At-Large Runoff",
+    "City Council",
+    "Primary"
+   ],
+   [
+    83256,
+    "Elbert County Board of Education District 2 Republican Primary Runoff",
+    "School Board",
+    "Primary"
+   ],
+   [
+    83309,
+    "Toombs County Commissioner District 4 Republican Primary Runoff",
+    "County Commissioner",
+    "Primary"
+   ],
+   [
+    83259,
+    "Forsyth County Commission District 1 Republican Primary Runoff",
+    "County Commissioner",
+    "Primary"
+   ],
+   [
+    83231,
+    "Augusta Commission District 8 Runoff",
+    "Commissioner",
+    "Primary"
+   ],
+   [
+    83316,
+    "Georgia US Senate Republican Primary Runoff",
+    "Senate",
+    "Primary"
+   ],
+   [
+    83234,
+    "Berrien County Commissioner District 2 Republican Primary Runoff",
+    "County Commissioner",
+    "Primary"
+   ],
+   [
+    83288,
+    "Georgia Secretary of State Democratic Primary Runoff",
+    "Secretary of State",
+    "Primary"
+   ]
+  ],
+  "NC": [
+   [
+    140108,
+    "North Carolina Court of Appeals Judge Seat 2",
+    "Judiciary",
+    "Statewide"
+   ],
+   [
+    159547,
+    "North Carolina State Senate",
+    "State Senate",
+    "Statewide"
+   ],
+   [
+    140109,
+    "North Carolina Court of Appeals Judge Seat 3",
+    "Judiciary",
+    "Statewide"
+   ],
+   [
+    140115,
+    "North Carolina Supreme Court Associate Justice Seat 01",
+    "Judiciary",
+    "Statewide"
+   ],
+   [
+    159546,
+    "North Carolina State House",
+    "State House",
+    "Statewide"
+   ],
+   [
+    140107,
+    "North Carolina Court of Appeals Judge Seat 1",
+    "Judiciary",
+    "Statewide"
+   ],
+   [
+    140332,
+    "District Attorney District 04",
+    "District Attorney",
+    "Local"
+   ],
+   [
+    141292,
+    "City Of Mount Airy Mayor",
+    "Mayor",
+    "Local"
+   ],
+   [
+    140748,
+    "Haywood - Maggie Valley Sanitary District",
+    "Local",
+    "Local"
+   ],
+   [
+    140716,
+    "Halifax County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141132,
+    "Pitt County Board Of Education District 05",
+    "School Board",
+    "Local"
+   ],
+   [
+    140300,
+    "Caldwell County Board Of Commissioners",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140556,
+    "NC District Court Judge District 16 Seat 04",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140524,
+    "NC District Court Judge District 33 Seat 06",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140140,
+    "NC District Court Judge District 34 Seat 02",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141100,
+    "Pender County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    141324,
+    "Union County Board Of Commissioners (Unexpired)",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140492,
+    "Currituck County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140940,
+    "City Of Charlotte Neighborhood Improvement Bonds Referendum",
+    "Referendum",
+    "Local"
+   ],
+   [
+    140908,
+    "Madison County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140828,
+    "Jackson County Board Of Education District 04",
+    "School Board",
+    "Local"
+   ],
+   [
+    141084,
+    "Town Of Minnesott Beach Commissioner",
+    "Local",
+    "Local"
+   ],
+   [
+    141244,
+    "Stanly County Board Of Commissioners District 02",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141212,
+    "Rutherford County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    140476,
+    "NC District Court Judge District 14 Seat 06",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140636,
+    "NC District Court Judge District 38 Seat 02",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140892,
+    "Lincoln Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    140252,
+    "Town Of Black Mountain Town Council",
+    "City Council",
+    "Local"
+   ],
+   [
+    140220,
+    "Brunswick County Board Of Education District 05",
+    "School Board",
+    "Local"
+   ],
+   [
+    141276,
+    "NC District Court Judge District 23 Seat 03",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141436,
+    "Wilson Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    141404,
+    "Washington Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    140508,
+    "Dare County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    140860,
+    "Town Of Trenton Commissioner",
+    "Local",
+    "Local"
+   ],
+   [
+    141020,
+    "Nash County Board Of Education District 07",
+    "School Board",
+    "Local"
+   ],
+   [
+    140284,
+    "Cabarrus Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    140444,
+    "Craven County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140412,
+    "Clay Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    141308,
+    "Transylvania County Board Of Education",
+    "School Board",
+    "Local"
+   ],
+   [
+    140668,
+    "District Attorney District 09",
+    "District Attorney",
+    "Local"
+   ],
+   [
+    140123,
+    "Alexander County Register Of Deeds",
+    "Register of Deeds",
+    "Local"
+   ],
+   [
+    140283,
+    "Cabarrus County Schools Board Of Education",
+    "School Board",
+    "Local"
+   ],
+   [
+    141339,
+    "Vance County Board Of Education District 02",
+    "School Board",
+    "Local"
+   ],
+   [
+    141307,
+    "Transylvania County Board Of Commissioners",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140866,
+    "Lee County Board Of Commissioners District 04",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140763,
+    "District Attorney District 42",
+    "District Attorney",
+    "Local"
+   ],
+   [
+    140923,
+    "McDowell County Board Of Education Nebo District",
+    "School Board",
+    "Local"
+   ],
+   [
+    141083,
+    "Town Of Minnesott Beach Mayor",
+    "Mayor",
+    "Local"
+   ],
+   [
+    140347,
+    "Caswell County Board Of Commissioners District 02",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140315,
+    "NC District Court Judge District 01 Seat 02",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140475,
+    "NC District Court Judge District 14 Seat 05",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140731,
+    "Harnett County Board Of Commissioners District 02",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140891,
+    "City Of Lincolnton City Council Ward Three",
+    "City Council",
+    "Local"
+   ],
+   [
+    141147,
+    "Randolph County Board Of Commissioners District 03",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141115,
+    "Person County School Bonds Referendum",
+    "Referendum",
+    "Local"
+   ],
+   [
+    141275,
+    "NC District Court Judge District 23 Seat 02",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140539,
+    "Duplin Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    140507,
+    "Dare County Register Of Deeds",
+    "Register of Deeds",
+    "Local"
+   ],
+   [
+    141058,
+    "Orange County Register Of Deeds",
+    "Register of Deeds",
+    "Local"
+   ],
+   [
+    140955,
+    "Mecklenburg County Board Of Commissioners District 03",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140453,
+    "Town Of Trent Woods Commissioner",
+    "Local",
+    "Local"
+   ],
+   [
+    141413,
+    "Wayne County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140581,
+    "Edgecombe County Board Of Commissioners District 06",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140677,
+    "Guilford County Board Of Commissioners At-Large",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140837,
+    "Johnston County Board Of Education District 05",
+    "School Board",
+    "Local"
+   ],
+   [
+    140997,
+    "Town Of Star Board Of Commissioners",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141253,
+    "Stanly County Board Of Education District 01",
+    "School Board",
+    "Local"
+   ],
+   [
+    141221,
+    "Town Of Forest City Commissioner",
+    "Local",
+    "Local"
+   ],
+   [
+    141381,
+    "Wake County Board Of Commissioners District 02",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141285,
+    "Surry Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    140645,
+    "Gates County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    140805,
+    "Hyde - Ocracoke Sanitary District Supervisors",
+    "Local",
+    "Local"
+   ],
+   [
+    140261,
+    "Burke County Board Of Education Western District",
+    "School Board",
+    "Local"
+   ],
+   [
+    140229,
+    "Buncombe County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140389,
+    "Cherokee County Bd Of Commissioners District V (Unexpired)",
+    "Local",
+    "Local"
+   ],
+   [
+    141445,
+    "Wilson County Board Of Commissioners District 03",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140613,
+    "Franklin Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    140869,
+    "Lee County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    141029,
+    "New Hanover County School Bonds Referendum",
+    "Referendum",
+    "Local"
+   ],
+   [
+    141189,
+    "Rowan County Register Of Deeds",
+    "Register of Deeds",
+    "Local"
+   ],
+   [
+    141116,
+    "Pitt County Board Of Commissioners District 02",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141276,
+    "NC District Court Judge District 23 Seat 03",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141436,
+    "Wilson Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    140508,
+    "Dare County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    140860,
+    "Town Of Trenton Commissioner",
+    "Local",
+    "Local"
+   ],
+   [
+    141219,
+    "Town Of Ellenboro Aldermen",
+    "Local",
+    "Local"
+   ],
+   [
+    140284,
+    "Cabarrus Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    140444,
+    "Craven County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141308,
+    "Transylvania County Board Of Education",
+    "School Board",
+    "Local"
+   ],
+   [
+    140668,
+    "District Attorney District 09",
+    "District Attorney",
+    "Local"
+   ],
+   [
+    140828,
+    "Jackson County Board Of Education District 04",
+    "School Board",
+    "Local"
+   ],
+   [
+    141084,
+    "Town Of Minnesott Beach Commissioner",
+    "Local",
+    "Local"
+   ],
+   [
+    141244,
+    "Stanly County Board Of Commissioners District 02",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141411,
+    "Watauga County Board Of Education District 01",
+    "School Board",
+    "Local"
+   ],
+   [
+    140316,
+    "NC District Court Judge District 01 Seat 03",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140476,
+    "NC District Court Judge District 14 Seat 06",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140636,
+    "NC District Court Judge District 38 Seat 02",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140892,
+    "Lincoln Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    140252,
+    "Town Of Black Mountain Town Council",
+    "City Council",
+    "Local"
+   ],
+   [
+    140419,
+    "District Attorney District 39",
+    "District Attorney",
+    "Local"
+   ],
+   [
+    140846,
+    "Jones County Board Of Commissioners District 01",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140302,
+    "Caldwell County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141262,
+    "Town Of Oakboro Board Of Commissioners",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141230,
+    "Sampson Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    140686,
+    "Guilford County Board Of Education District 08",
+    "School Board",
+    "Local"
+   ],
+   [
+    140654,
+    "Granville County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141102,
+    "Pender Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    140270,
+    "NC District Court Judge District 36 Seat 05",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140238,
+    "NC District Court Judge District 40 Seat 01",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140494,
+    "Currituck County Board Of Education At-Large",
+    "School Board",
+    "Local"
+   ],
+   [
+    141454,
+    "Town Of Boonville Town Commissioner",
+    "Local",
+    "Local"
+   ],
+   [
+    140622,
+    "Franklin County Board Of Education District 01",
+    "School Board",
+    "Local"
+   ],
+   [
+    140110,
+    "NC District Court Judge District 17 Seat 01",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141070,
+    "Town Of Oriental Commissioner",
+    "Local",
+    "Local"
+   ],
+   [
+    141038,
+    "NC Superior Court Judge District 06b Seat 01",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141294,
+    "City Of Mount Airy Commissioner South Ward",
+    "Local",
+    "Local"
+   ],
+   [
+    140462,
+    "Craven County Board Of Commissioners District 03",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140430,
+    "Whiteville City Schools Board Of Education At-Large",
+    "School Board",
+    "Local"
+   ],
+   [
+    140910,
+    "Madison Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    140878,
+    "Lenoir County Board Of Commissioners District 02",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140557,
+    "NC District Court Judge District 16 Seat 05",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140909,
+    "Madison County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    140173,
+    "Beaufort County Board Of Commissioners",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140141,
+    "NC District Court Judge District 34 Seat 03",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141293,
+    "City Of Mount Airy Commissioner North Ward",
+    "Local",
+    "Local"
+   ],
+   [
+    141389,
+    "Wake County Board Of Education District 02",
+    "School Board",
+    "Local"
+   ],
+   [
+    141357,
+    "NC Superior Court Judge District 10d Seat 01",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140717,
+    "Halifax County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    140973,
+    "Mecklenburg County Board Of Commissioners District 06",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140941,
+    "District Attorney District 26",
+    "District Attorney",
+    "Local"
+   ],
+   [
+    140301,
+    "Caldwell County Board Of Education",
+    "School Board",
+    "Local"
+   ],
+   [
+    140365,
+    "Chatham County Board Of Commissioners District 03",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141325,
+    "Union County Jail Bonds Referendum",
+    "Referendum",
+    "Local"
+   ],
+   [
+    140781,
+    "Hertford County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    140749,
+    "Henderson County Board Of Commissioners District 01",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141101,
+    "Pender County Board Of Commissioners District 04 (Unexpired)",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141165,
+    "Richmond County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141133,
+    "Pitt County Board Of Commissioners District 01",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140493,
+    "Currituck County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    140589,
+    "Forsyth County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    141296,
+    "Elkin City Schools Board Of Education West District",
+    "School Board",
+    "Local"
+   ],
+   [
+    141463,
+    "Yancey County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    141431,
+    "Town Of Ronda Board Of Commissioners",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140528,
+    "Handy Sanitary District Supervisor",
+    "Local",
+    "Local"
+   ],
+   [
+    141079,
+    "Town Of Vandemere Mayor",
+    "Mayor",
+    "Local"
+   ],
+   [
+    141047,
+    "Onslow County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140304,
+    "Caldwell Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    140471,
+    "NC District Court Judge District 14 Seat 01",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140439,
+    "Whiteville City Schools Board Of Education District 02",
+    "School Board",
+    "Local"
+   ],
+   [
+    141328,
+    "Union County Board Of Education District 06",
+    "School Board",
+    "Local"
+   ],
+   [
+    140688,
+    "Guilford County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    140855,
+    "Jones County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    141104,
+    "Perquimans County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141271,
+    "Stokes County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    141239,
+    "Scotland County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    140496,
+    "Currituck County Board Of Education Poplar Branch Twp",
+    "School Board",
+    "Local"
+   ],
+   [
+    140663,
+    "Greene County Board Of Commissioners District 05",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140912,
+    "Martin County Board Of Commissioners Western District",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140279,
+    "Town Of Rutherford College Council Member",
+    "City Council",
+    "Local"
+   ],
+   [
+    140247,
+    "Buncombe County Schools Board Of Education District 03",
+    "School Board",
+    "Local"
+   ],
+   [
+    141102,
+    "Pender Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    140270,
+    "NC District Court Judge District 36 Seat 05",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140238,
+    "NC District Court Judge District 40 Seat 01",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140494,
+    "Currituck County Board Of Education At-Large",
+    "School Board",
+    "Local"
+   ],
+   [
+    141454,
+    "Town Of Boonville Town Commissioner",
+    "Local",
+    "Local"
+   ],
+   [
+    140821,
+    "Jackson County Board Of Commissioners Chairman",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141070,
+    "Town Of Oriental Commissioner",
+    "Local",
+    "Local"
+   ],
+   [
+    141038,
+    "NC Superior Court Judge District 06b Seat 01",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141294,
+    "City Of Mount Airy Commissioner South Ward",
+    "Local",
+    "Local"
+   ],
+   [
+    140462,
+    "Craven County Board Of Commissioners District 03",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140430,
+    "Whiteville City Schools Board Of Education At-Large",
+    "School Board",
+    "Local"
+   ],
+   [
+    140878,
+    "Lenoir County Board Of Commissioners District 02",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140846,
+    "Jones County Board Of Commissioners District 01",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140213,
+    "Bladen County Board Of Commissioners District 03",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140302,
+    "Caldwell County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141262,
+    "Town Of Oakboro Board Of Commissioners",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141230,
+    "Sampson Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    140686,
+    "Guilford County Board Of Education District 08",
+    "School Board",
+    "Local"
+   ],
+   [
+    140654,
+    "Granville County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141013,
+    "Nash County Board Of Commissioners District 06",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140288,
+    "NC District Court Judge District 25 Seat 01",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140953,
+    "NC District Court Judge District 26 Seat 06 (Unexpired)",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141312,
+    "Tyrrell County Board Of Commissioners",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140672,
+    "Town Of Hookerton Mayor",
+    "Mayor",
+    "Local"
+   ],
+   [
+    140736,
+    "Haywood County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141088,
+    "Pasquotank County Board Of Education Inside Members",
+    "School Board",
+    "Local"
+   ],
+   [
+    140761,
+    "Henderson Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    140320,
+    "Carteret County Board Of Commissioners District 01",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140480,
+    "NC Superior Court Judge District 14a Seat 01",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141145,
+    "Town Of Tryon Board Of Commissioners",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140896,
+    "Macon County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141056,
+    "Orange County Board Of Commissioners District 02",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140569,
+    "City Of Raleigh Transportation Bonds Referendum",
+    "Referendum",
+    "Local"
+   ],
+   [
+    141120,
+    "Pitt County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    141280,
+    "Surry County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140153,
+    "NC District Court Judge District 21 Seat 03",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140512,
+    "Davidson County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140864,
+    "Lee County Board Of Commissioners District 02",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141369,
+    "NC District Court Judge District 10a Seat 01",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140928,
+    "McDowell County Local Sales And Use Tax Referendum",
+    "Referendum",
+    "Local"
+   ],
+   [
+    141001,
+    "Moore County Board Of Commissioners District III",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140169,
+    "District Attorney District 35",
+    "District Attorney",
+    "Local"
+   ],
+   [
+    141129,
+    "Village Of Simpson Mayor",
+    "Mayor",
+    "Local"
+   ],
+   [
+    140425,
+    "Columbus County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    140393,
+    "NC District Court Judge District 43 Seat 03",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141353,
+    "NC District Court Judge District 10d Seat 03",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140809,
+    "Iredell County Register Of Deeds",
+    "Register of Deeds",
+    "Local"
+   ],
+   [
+    140777,
+    "City Of Saluda City Commissioner",
+    "Local",
+    "Local"
+   ],
+   [
+    140137,
+    "Alleghany Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    141225,
+    "Town Of Rutherfordton Mayor",
+    "Mayor",
+    "Local"
+   ],
+   [
+    141193,
+    "Rowan-Salisbury Board Of Education Seat 04 (West)",
+    "School Board",
+    "Local"
+   ],
+   [
+    140361,
+    "Newton-Conover Schools Board Of Education Newton District",
+    "School Board",
+    "Local"
+   ],
+   [
+    140617,
+    "NC Superior Court Judge District 11 Seat 01",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140585,
+    "Forsyth County Board Of Commissioners District B",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140937,
+    "Mecklenburg Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    140201,
+    "Bladen County Board Of Education District 02",
+    "School Board",
+    "Local"
+   ],
+   [
+    141161,
+    "City Of Trinity Mayor",
+    "Mayor",
+    "Local"
+   ],
+   [
+    141417,
+    "Wayne County Board Of Commissioners At-Large (Unexpired)",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141385,
+    "Wake County Board Of Education District 01",
+    "School Board",
+    "Local"
+   ],
+   [
+    140553,
+    "NC District Court Judge District 16 Seat 01",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140448,
+    "City Of Havelock Commissioner",
+    "Local",
+    "Local"
+   ],
+   [
+    140999,
+    "Town Of Troy Board Of Commissioners",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141159,
+    "NC Superior Court Judge District 37 Seat 01",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141024,
+    "New Hanover County Board Of Commissioners",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140391,
+    "NC District Court Judge District 43 Seat 01",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140743,
+    "Haywood County Board Of Education Fines Creek District",
+    "School Board",
+    "Local"
+   ],
+   [
+    140807,
+    "Iredell County Board Of Commissioners",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140167,
+    "Avery County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    140832,
+    "Johnston County Board Of Commissioners District 03",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141191,
+    "Rowan-Salisbury Board Of Education Seat 01 (North)",
+    "School Board",
+    "Local"
+   ],
+   [
+    140551,
+    "Durham Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    141415,
+    "Wayne County Board Of Education District 01",
+    "School Board",
+    "Local"
+   ],
+   [
+    140775,
+    "Town Of Laurel Park Town Council",
+    "City Council",
+    "Local"
+   ],
+   [
+    140135,
+    "Alleghany County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141440,
+    "Wilson County Board Of Commissioners District 05",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140199,
+    "Bladen County Board Of Commissioners District 02",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141351,
+    "NC District Court Judge District 10d Seat 01",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140224,
+    "Brunswick County School Bonds Referendum",
+    "Referendum",
+    "Local"
+   ],
+   [
+    140583,
+    "NC Superior Court Judge District 08b Seat 01",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140935,
+    "Mecklenburg County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141240,
+    "Scotland Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    141208,
+    "Rutherford County Board Of Education District 01",
+    "School Board",
+    "Local"
+   ],
+   [
+    140664,
+    "Greene County Board Of Education",
+    "School Board",
+    "Local"
+   ],
+   [
+    140632,
+    "Gaston County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    140792,
+    "NC District Court Judge District 29 Seat 05",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141073,
+    "Town Of Bayboro Mayor",
+    "Mayor",
+    "Local"
+   ],
+   [
+    140248,
+    "Buncombe County Board Of Commissioners District 01",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140216,
+    "Bladen County Board Of Education District 01",
+    "School Board",
+    "Local"
+   ],
+   [
+    141464,
+    "Yancey Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    141432,
+    "Town Of Ronda Board Of Commissioners (Unexpired)",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141400,
+    "Washington County Board Of Education At-Large",
+    "School Board",
+    "Local"
+   ],
+   [
+    141048,
+    "Onslow County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    141016,
+    "Nash County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    140472,
+    "NC District Court Judge District 14 Seat 02",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140440,
+    "Whiteville City Schools Board Of Education District 01",
+    "School Board",
+    "Local"
+   ],
+   [
+    140408,
+    "Clay County Board Of Education",
+    "School Board",
+    "Local"
+   ],
+   [
+    140856,
+    "Jones Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    140824,
+    "Jackson County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140984,
+    "Montgomery County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141272,
+    "Stokes Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    140338,
+    "Caswell County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140811,
+    "Iredell Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    140363,
+    "Hickory City Schools Board Of Education Ward 05",
+    "School Board",
+    "Local"
+   ],
+   [
+    140722,
+    "Harnett County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141195,
+    "Rowan Soil And Water Conservation District Supervisor",
+    "Soil and Water Conservation",
+    "Local"
+   ],
+   [
+    141138,
+    "Polk County Board Of Education Columbus Twp",
+    "School Board",
+    "Local"
+   ],
+   [
+    140619,
+    "Franklin County Board Of Commissioners District 02",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141163,
+    "City Of Trinity City Council Ward 04",
+    "City Council",
+    "Local"
+   ],
+   [
+    140530,
+    "Davie County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    140203,
+    "Bladen County Register Of Deeds",
+    "Register of Deeds",
+    "Local"
+   ],
+   [
+    140747,
+    "Haywood - Junaluska Sanitary District",
+    "Local",
+    "Local"
+   ],
+   [
+    140114,
+    "NC Superior Court Judge District 17 Seat 02",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141419,
+    "Wayne County Malt Beverage Election",
+    "Local",
+    "Local"
+   ],
+   [
+    140779,
+    "Hertford County Board Of Commissioners District 02",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141330,
+    "Union County Board Of Education District 04",
+    "School Board",
+    "Local"
+   ],
+   [
+    141003,
+    "Moore County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140555,
+    "NC District Court Judge District 16 Seat 03",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140914,
+    "Martin County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    140427,
+    "Columbus County Schools Board Of Education District 03",
+    "School Board",
+    "Local"
+   ],
+   [
+    140587,
+    "Forsyth County Board Of Education District 02",
+    "School Board",
+    "Local"
+   ],
+   [
+    140635,
+    "NC District Court Judge District 38 Seat 01",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140603,
+    "NC Superior Court Judge District 31b Seat 01",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140763,
+    "District Attorney District 42",
+    "District Attorney",
+    "Local"
+   ],
+   [
+    140251,
+    "Town Of Black Mountain Mayor",
+    "Mayor",
+    "Local"
+   ],
+   [
+    140219,
+    "Brunswick County Board Of Education District 03",
+    "School Board",
+    "Local"
+   ],
+   [
+    140187,
+    "Bertie County Board Of Commissioners District 02",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141435,
+    "Wilson County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    141403,
+    "Washington County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140571,
+    "Edgecombe County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    140859,
+    "Town Of Trenton Mayor",
+    "Mayor",
+    "Local"
+   ],
+   [
+    141019,
+    "Nash County Board Of Education District 06",
+    "School Board",
+    "Local"
+   ],
+   [
+    140987,
+    "Montgomery County Board Of Education District 06",
+    "School Board",
+    "Local"
+   ],
+   [
+    140443,
+    "Craven County Board Of Education District 06",
+    "School Board",
+    "Local"
+   ],
+   [
+    140411,
+    "Clay County Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    140379,
+    "Cherokee County Board Of Commissioners District III",
+    "County Commission",
+    "Local"
+   ],
+   [
+    140827,
+    "Jackson County Board Of Education District 02",
+    "School Board",
+    "Local"
+   ],
+   [
+    140795,
+    "NC Superior Court Judge District 29 Seat 01",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141243,
+    "Stanly County Board Of Commissioners District 01",
+    "County Commission",
+    "Local"
+   ],
+   [
+    141211,
+    "Rutherford County Clerk Of Superior Court",
+    "Judiciary",
+    "Local"
+   ],
+   [
+    141179,
+    "Robeson County Board Of Commissioners District 06",
+    "County Commission",
+    "Local"
+   ]
+  ],
+  "ME": [
+   [
+    159536,
+    "Maine State Senate",
+    "State Senate",
+    "Statewide"
+   ],
+   [
+    87189,
+    "Maine Governor",
+    "Governor",
+    "Statewide"
+   ],
+   [
+    159535,
+    "Maine State House",
+    "State House",
+    "Statewide"
+   ],
+   [
+    154761,
+    "Maine Waldo County Commissioner 1",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154601,
+    "Maine State House 67",
+    "State House",
+    "Local"
+   ],
+   [
+    154640,
+    "Maine State House 106",
+    "State House",
+    "Local"
+   ],
+   [
+    154505,
+    "Maine State Senate 6",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154736,
+    "Maine District Attorney 5",
+    "District Attorney",
+    "Local"
+   ],
+   [
+    154633,
+    "Maine State House 99",
+    "State House",
+    "Local"
+   ],
+   [
+    154672,
+    "Maine State House 138",
+    "State House",
+    "Local"
+   ],
+   [
+    154729,
+    "Maine Waldo Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    154544,
+    "Maine State House 10",
+    "State House",
+    "Local"
+   ],
+   [
+    154576,
+    "Maine State House 42",
+    "State House",
+    "Local"
+   ],
+   [
+    154665,
+    "Maine State House 131",
+    "State House",
+    "Local"
+   ],
+   [
+    154704,
+    "Maine Somerset County Treasurer",
+    "County Treasurer",
+    "Local"
+   ],
+   [
+    154537,
+    "Maine State House 3",
+    "State House",
+    "Local"
+   ],
+   [
+    154768,
+    "Maine Sagadahoc Register of Probate Special",
+    "Register of Probate",
+    "Local"
+   ],
+   [
+    154608,
+    "Maine State House 74",
+    "State House",
+    "Local"
+   ],
+   [
+    154697,
+    "Maine Hancock County Treasurer",
+    "County Treasurer",
+    "Local"
+   ],
+   [
+    154512,
+    "Maine State Senate 13",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154705,
+    "Maine York County Treasurer",
+    "County Treasurer",
+    "Local"
+   ],
+   [
+    154520,
+    "Maine State Senate 21",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154769,
+    "Maine Piscataquis County Commissioner 3 Special",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154609,
+    "Maine State House 75",
+    "State House",
+    "Local"
+   ],
+   [
+    154648,
+    "Maine State House 114",
+    "State House",
+    "Local"
+   ],
+   [
+    154666,
+    "Maine State House 132",
+    "State House",
+    "Local"
+   ],
+   [
+    154513,
+    "Maine State Senate 14",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154744,
+    "Maine Aroostook County Commissioner 1",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154577,
+    "Maine State House 43",
+    "State House",
+    "Local"
+   ],
+   [
+    154641,
+    "Maine State House 107",
+    "State House",
+    "Local"
+   ],
+   [
+    154680,
+    "Maine State House 146",
+    "State House",
+    "Local"
+   ],
+   [
+    154737,
+    "Maine District Attorney 6",
+    "District Attorney",
+    "Local"
+   ],
+   [
+    154552,
+    "Maine State House 18",
+    "State House",
+    "Local"
+   ],
+   [
+    154602,
+    "Maine State House 68",
+    "State House",
+    "Local"
+   ],
+   [
+    154673,
+    "Maine State House 139",
+    "State House",
+    "Local"
+   ],
+   [
+    154712,
+    "Maine Oxford Register of Deeds",
+    "Register of Deeds",
+    "Local"
+   ],
+   [
+    154545,
+    "Maine State House 11",
+    "State House",
+    "Local"
+   ],
+   [
+    154584,
+    "Maine State House 50",
+    "State House",
+    "Local"
+   ],
+   [
+    154616,
+    "Maine State House 82",
+    "State House",
+    "Local"
+   ],
+   [
+    154634,
+    "Maine State House 100",
+    "State House",
+    "Local"
+   ],
+   [
+    154634,
+    "Maine State House 100",
+    "State House",
+    "Local"
+   ],
+   [
+    154524,
+    "Maine State Senate 25",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154755,
+    "Maine Penobscot County Commissioner 3",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154762,
+    "Maine Washington County Commissioner 3",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154659,
+    "Maine State House 125",
+    "State House",
+    "Local"
+   ],
+   [
+    154691,
+    "Maine Penobscot Judge of Probate",
+    "Judge of Probate",
+    "Local"
+   ],
+   [
+    154748,
+    "Maine Franklin County Commissioner 4",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154563,
+    "Maine State House 29",
+    "State House",
+    "Local"
+   ],
+   [
+    154570,
+    "Maine State House 36",
+    "State House",
+    "Local"
+   ],
+   [
+    154684,
+    "Maine State House 150",
+    "State House",
+    "Local"
+   ],
+   [
+    154723,
+    "Maine Knox Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    154730,
+    "Maine Washington Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    154556,
+    "Maine State House 22",
+    "State House",
+    "Local"
+   ],
+   [
+    154595,
+    "Maine State House 61",
+    "State House",
+    "Local"
+   ],
+   [
+    154602,
+    "Maine State House 68",
+    "State House",
+    "Local"
+   ],
+   [
+    154716,
+    "Maine Somerset Register of Deeds",
+    "Register of Deeds",
+    "Local"
+   ],
+   [
+    154531,
+    "Maine State Senate 32",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154538,
+    "Maine State House 4",
+    "State House",
+    "Local"
+   ],
+   [
+    154588,
+    "Maine State House 54",
+    "State House",
+    "Local"
+   ],
+   [
+    154627,
+    "Maine State House 93",
+    "State House",
+    "Local"
+   ],
+   [
+    154522,
+    "Maine State Senate 23",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154753,
+    "Maine Lincoln County Commissioner 2",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154568,
+    "Maine State House 34",
+    "State House",
+    "Local"
+   ],
+   [
+    154618,
+    "Maine State House 84",
+    "State House",
+    "Local"
+   ],
+   [
+    154650,
+    "Maine State House 116",
+    "State House",
+    "Local"
+   ],
+   [
+    154689,
+    "Maine Hancock Judge of Probate",
+    "Judge of Probate",
+    "Local"
+   ],
+   [
+    154746,
+    "Maine Cumberland County Commissioner 4",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154561,
+    "Maine State House 27",
+    "State House",
+    "Local"
+   ],
+   [
+    154600,
+    "Maine State House 66",
+    "State House",
+    "Local"
+   ],
+   [
+    154643,
+    "Maine State House 109",
+    "State House",
+    "Local"
+   ],
+   [
+    154682,
+    "Maine State House 148",
+    "State House",
+    "Local"
+   ],
+   [
+    154721,
+    "Maine Cumberland Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    154554,
+    "Maine State House 20",
+    "State House",
+    "Local"
+   ],
+   [
+    154593,
+    "Maine State House 59",
+    "State House",
+    "Local"
+   ],
+   [
+    154632,
+    "Maine State House 98",
+    "State House",
+    "Local"
+   ],
+   [
+    154714,
+    "Maine Piscataquis Register of Deeds",
+    "Register of Deeds",
+    "Local"
+   ],
+   [
+    154529,
+    "Maine State Senate 30",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154586,
+    "Maine State House 52",
+    "State House",
+    "Local"
+   ],
+   [
+    154625,
+    "Maine State House 91",
+    "State House",
+    "Local"
+   ],
+   [
+    154657,
+    "Maine State House 123",
+    "State House",
+    "Local"
+   ],
+   [
+    154659,
+    "Maine State House 125",
+    "State House",
+    "Local"
+   ],
+   [
+    154506,
+    "Maine State Senate 7",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154737,
+    "Maine District Attorney 6",
+    "District Attorney",
+    "Local"
+   ],
+   [
+    154570,
+    "Maine State House 36",
+    "State House",
+    "Local"
+   ],
+   [
+    154634,
+    "Maine State House 100",
+    "State House",
+    "Local"
+   ],
+   [
+    154673,
+    "Maine State House 139",
+    "State House",
+    "Local"
+   ],
+   [
+    154730,
+    "Maine Washington Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    154545,
+    "Maine State House 11",
+    "State House",
+    "Local"
+   ],
+   [
+    154595,
+    "Maine State House 61",
+    "State House",
+    "Local"
+   ],
+   [
+    154666,
+    "Maine State House 132",
+    "State House",
+    "Local"
+   ],
+   [
+    154705,
+    "Maine York County Treasurer",
+    "County Treasurer",
+    "Local"
+   ],
+   [
+    154538,
+    "Maine State House 4",
+    "State House",
+    "Local"
+   ],
+   [
+    154769,
+    "Maine Piscataquis County Commissioner 3 Special",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154609,
+    "Maine State House 75",
+    "State House",
+    "Local"
+   ],
+   [
+    154627,
+    "Maine State House 93",
+    "State House",
+    "Local"
+   ],
+   [
+    154698,
+    "Maine Kennebec County Treasurer",
+    "County Treasurer",
+    "Local"
+   ],
+   [
+    154513,
+    "Maine State Senate 14",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154762,
+    "Maine Washington County Commissioner 3",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154602,
+    "Maine State House 68",
+    "State House",
+    "Local"
+   ],
+   [
+    154641,
+    "Maine State House 107",
+    "State House",
+    "Local"
+   ],
+   [
+    154706,
+    "Maine Aroostook Register of Deeds North",
+    "Register of Deeds",
+    "Local"
+   ],
+   [
+    154539,
+    "Maine State House 5",
+    "State House",
+    "Local"
+   ],
+   [
+    154578,
+    "Maine State House 44",
+    "State House",
+    "Local"
+   ],
+   [
+    154617,
+    "Maine State House 83",
+    "State House",
+    "Local"
+   ],
+   [
+    154699,
+    "Maine Lincoln County Treasurer",
+    "County Treasurer",
+    "Local"
+   ],
+   [
+    154514,
+    "Maine State Senate 15",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154763,
+    "Maine York County Commissioner 1",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154610,
+    "Maine State House 76",
+    "State House",
+    "Local"
+   ],
+   [
+    154649,
+    "Maine State House 115",
+    "State House",
+    "Local"
+   ],
+   [
+    154507,
+    "Maine State Senate 8",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154738,
+    "Maine District Attorney 7",
+    "District Attorney",
+    "Local"
+   ],
+   [
+    154553,
+    "Maine State House 19",
+    "State House",
+    "Local"
+   ],
+   [
+    154571,
+    "Maine State House 37",
+    "State House",
+    "Local"
+   ],
+   [
+    154642,
+    "Maine State House 108",
+    "State House",
+    "Local"
+   ],
+   [
+    154674,
+    "Maine State House 140",
+    "State House",
+    "Local"
+   ],
+   [
+    154731,
+    "Maine York Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    154546,
+    "Maine State House 12",
+    "State House",
+    "Local"
+   ],
+   [
+    154585,
+    "Maine State House 51",
+    "State House",
+    "Local"
+   ],
+   [
+    154603,
+    "Maine State House 69",
+    "State House",
+    "Local"
+   ],
+   [
+    154667,
+    "Maine State House 133",
+    "State House",
+    "Local"
+   ],
+   [
+    154537,
+    "Maine State House 3",
+    "State House",
+    "Local"
+   ],
+   [
+    154768,
+    "Maine Sagadahoc Register of Probate Special",
+    "Register of Probate",
+    "Local"
+   ],
+   [
+    154615,
+    "Maine State House 81",
+    "State House",
+    "Local"
+   ],
+   [
+    154633,
+    "Maine State House 99",
+    "State House",
+    "Local"
+   ],
+   [
+    154697,
+    "Maine Hancock County Treasurer",
+    "County Treasurer",
+    "Local"
+   ],
+   [
+    154512,
+    "Maine State Senate 13",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154761,
+    "Maine Waldo County Commissioner 1",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154576,
+    "Maine State House 42",
+    "State House",
+    "Local"
+   ],
+   [
+    154640,
+    "Maine State House 106",
+    "State House",
+    "Local"
+   ],
+   [
+    154658,
+    "Maine State House 124",
+    "State House",
+    "Local"
+   ],
+   [
+    154505,
+    "Maine State Senate 6",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154736,
+    "Maine District Attorney 5",
+    "District Attorney",
+    "Local"
+   ],
+   [
+    154569,
+    "Maine State House 35",
+    "State House",
+    "Local"
+   ],
+   [
+    154608,
+    "Maine State House 74",
+    "State House",
+    "Local"
+   ],
+   [
+    154672,
+    "Maine State House 138",
+    "State House",
+    "Local"
+   ],
+   [
+    154729,
+    "Maine Waldo Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    154544,
+    "Maine State House 10",
+    "State House",
+    "Local"
+   ],
+   [
+    154601,
+    "Maine State House 67",
+    "State House",
+    "Local"
+   ],
+   [
+    154665,
+    "Maine State House 131",
+    "State House",
+    "Local"
+   ],
+   [
+    154704,
+    "Maine Somerset County Treasurer",
+    "County Treasurer",
+    "Local"
+   ],
+   [
+    154706,
+    "Maine Aroostook Register of Deeds North",
+    "Register of Deeds",
+    "Local"
+   ],
+   [
+    154521,
+    "Maine State Senate 22",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154752,
+    "Maine Knox County Commissioner 1",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154610,
+    "Maine State House 76",
+    "State House",
+    "Local"
+   ],
+   [
+    154649,
+    "Maine State House 115",
+    "State House",
+    "Local"
+   ],
+   [
+    154688,
+    "Maine Franklin Judge of Probate",
+    "Judge of Probate",
+    "Local"
+   ],
+   [
+    154745,
+    "Maine Cumberland County Commissioner 3",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154560,
+    "Maine State House 26",
+    "State House",
+    "Local"
+   ],
+   [
+    154642,
+    "Maine State House 108",
+    "State House",
+    "Local"
+   ],
+   [
+    154681,
+    "Maine State House 147",
+    "State House",
+    "Local"
+   ],
+   [
+    154720,
+    "Maine Androscoggin Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    154553,
+    "Maine State House 19",
+    "State House",
+    "Local"
+   ],
+   [
+    154585,
+    "Maine State House 51",
+    "State House",
+    "Local"
+   ],
+   [
+    154624,
+    "Maine State House 90",
+    "State House",
+    "Local"
+   ],
+   [
+    154674,
+    "Maine State House 140",
+    "State House",
+    "Local"
+   ],
+   [
+    154713,
+    "Maine Penobscot Register of Deeds",
+    "Register of Deeds",
+    "Local"
+   ],
+   [
+    154528,
+    "Maine State Senate 29",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154578,
+    "Maine State House 44",
+    "State House",
+    "Local"
+   ],
+   [
+    154617,
+    "Maine State House 83",
+    "State House",
+    "Local"
+   ],
+   [
+    154656,
+    "Maine State House 122",
+    "State House",
+    "Local"
+   ],
+   [
+    154593,
+    "Maine State House 59",
+    "State House",
+    "Local"
+   ],
+   [
+    154625,
+    "Maine State House 91",
+    "State House",
+    "Local"
+   ],
+   [
+    154714,
+    "Maine Piscataquis Register of Deeds",
+    "Register of Deeds",
+    "Local"
+   ],
+   [
+    154529,
+    "Maine State Senate 30",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154760,
+    "Maine Somerset County Commissioner 5",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154586,
+    "Maine State House 52",
+    "State House",
+    "Local"
+   ],
+   [
+    154618,
+    "Maine State House 84",
+    "State House",
+    "Local"
+   ],
+   [
+    154657,
+    "Maine State House 123",
+    "State House",
+    "Local"
+   ],
+   [
+    154522,
+    "Maine State Senate 23",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154753,
+    "Maine Lincoln County Commissioner 2",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154568,
+    "Maine State House 34",
+    "State House",
+    "Local"
+   ],
+   [
+    154650,
+    "Maine State House 116",
+    "State House",
+    "Local"
+   ],
+   [
+    154689,
+    "Maine Hancock Judge of Probate",
+    "Judge of Probate",
+    "Local"
+   ],
+   [
+    154746,
+    "Maine Cumberland County Commissioner 4",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154561,
+    "Maine State House 27",
+    "State House",
+    "Local"
+   ],
+   [
+    154600,
+    "Maine State House 66",
+    "State House",
+    "Local"
+   ],
+   [
+    154682,
+    "Maine State House 148",
+    "State House",
+    "Local"
+   ],
+   [
+    154721,
+    "Maine Cumberland Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    154536,
+    "Maine State House 2",
+    "State House",
+    "Local"
+   ],
+   [
+    154554,
+    "Maine State House 20",
+    "State House",
+    "Local"
+   ],
+   [
+    154579,
+    "Maine State House 45",
+    "State House",
+    "Local"
+   ],
+   [
+    154636,
+    "Maine State House 102",
+    "State House",
+    "Local"
+   ],
+   [
+    154700,
+    "Maine Oxford County Treasurer",
+    "County Treasurer",
+    "Local"
+   ],
+   [
+    154515,
+    "Maine State Senate 16",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154764,
+    "Maine York County Commissioner 2",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154611,
+    "Maine State House 77",
+    "State House",
+    "Local"
+   ],
+   [
+    154693,
+    "Maine Lincoln Register of Probate",
+    "Register of Probate",
+    "Local"
+   ],
+   [
+    154508,
+    "Maine State Senate 9",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154739,
+    "Maine District Attorney 8",
+    "District Attorney",
+    "Local"
+   ],
+   [
+    154572,
+    "Maine State House 38",
+    "State House",
+    "Local"
+   ],
+   [
+    154643,
+    "Maine State House 109",
+    "State House",
+    "Local"
+   ],
+   [
+    154675,
+    "Maine State House 141",
+    "State House",
+    "Local"
+   ],
+   [
+    154501,
+    "Maine State Senate 2",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154732,
+    "Maine District Attorney 1",
+    "District Attorney",
+    "Local"
+   ],
+   [
+    154547,
+    "Maine State House 13",
+    "State House",
+    "Local"
+   ],
+   [
+    154604,
+    "Maine State House 70",
+    "State House",
+    "Local"
+   ],
+   [
+    154668,
+    "Maine State House 134",
+    "State House",
+    "Local"
+   ],
+   [
+    154707,
+    "Maine Aroostook Register of Deeds South",
+    "Register of Deeds",
+    "Local"
+   ],
+   [
+    154725,
+    "Maine Oxford Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    154540,
+    "Maine State House 6",
+    "State House",
+    "Local"
+   ],
+   [
+    154634,
+    "Maine State House 100",
+    "State House",
+    "Local"
+   ],
+   [
+    154698,
+    "Maine Kennebec County Treasurer",
+    "County Treasurer",
+    "Local"
+   ],
+   [
+    154513,
+    "Maine State Senate 14",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154531,
+    "Maine State Senate 32",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154762,
+    "Maine Washington County Commissioner 3",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154577,
+    "Maine State House 43",
+    "State House",
+    "Local"
+   ],
+   [
+    154659,
+    "Maine State House 125",
+    "State House",
+    "Local"
+   ],
+   [
+    154506,
+    "Maine State Senate 7",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154737,
+    "Maine District Attorney 6",
+    "District Attorney",
+    "Local"
+   ],
+   [
+    154755,
+    "Maine Penobscot County Commissioner 3",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154570,
+    "Maine State House 36",
+    "State House",
+    "Local"
+   ],
+   [
+    154609,
+    "Maine State House 75",
+    "State House",
+    "Local"
+   ],
+   [
+    154691,
+    "Maine Penobscot Judge of Probate",
+    "Judge of Probate",
+    "Local"
+   ],
+   [
+    154730,
+    "Maine Washington Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    154545,
+    "Maine State House 11",
+    "State House",
+    "Local"
+   ],
+   [
+    154602,
+    "Maine State House 68",
+    "State House",
+    "Local"
+   ],
+   [
+    154666,
+    "Maine State House 132",
+    "State House",
+    "Local"
+   ],
+   [
+    154723,
+    "Maine Knox Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    154538,
+    "Maine State House 4",
+    "State House",
+    "Local"
+   ],
+   [
+    154769,
+    "Maine Piscataquis County Commissioner 3 Special",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154604,
+    "Maine State House 70",
+    "State House",
+    "Local"
+   ],
+   [
+    154611,
+    "Maine State House 77",
+    "State House",
+    "Local"
+   ],
+   [
+    154650,
+    "Maine State House 116",
+    "State House",
+    "Local"
+   ],
+   [
+    154515,
+    "Maine State Senate 16",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154746,
+    "Maine Cumberland County Commissioner 4",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154561,
+    "Maine State House 27",
+    "State House",
+    "Local"
+   ],
+   [
+    154643,
+    "Maine State House 109",
+    "State House",
+    "Local"
+   ],
+   [
+    154682,
+    "Maine State House 148",
+    "State House",
+    "Local"
+   ],
+   [
+    154739,
+    "Maine District Attorney 8",
+    "District Attorney",
+    "Local"
+   ],
+   [
+    154554,
+    "Maine State House 20",
+    "State House",
+    "Local"
+   ],
+   [
+    154586,
+    "Maine State House 52",
+    "State House",
+    "Local"
+   ],
+   [
+    154675,
+    "Maine State House 141",
+    "State House",
+    "Local"
+   ],
+   [
+    154714,
+    "Maine Piscataquis Register of Deeds",
+    "Register of Deeds",
+    "Local"
+   ],
+   [
+    154529,
+    "Maine State Senate 30",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154547,
+    "Maine State House 13",
+    "State House",
+    "Local"
+   ],
+   [
+    154579,
+    "Maine State House 45",
+    "State House",
+    "Local"
+   ],
+   [
+    154618,
+    "Maine State House 84",
+    "State House",
+    "Local"
+   ],
+   [
+    154707,
+    "Maine Aroostook Register of Deeds South",
+    "Register of Deeds",
+    "Local"
+   ],
+   [
+    154522,
+    "Maine State Senate 23",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154753,
+    "Maine Lincoln County Commissioner 2",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154715,
+    "Maine Sagadahoc Register of Deeds",
+    "Register of Deeds",
+    "Local"
+   ],
+   [
+    154530,
+    "Maine State Senate 31",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154587,
+    "Maine State House 53",
+    "State House",
+    "Local"
+   ],
+   [
+    154619,
+    "Maine State House 85",
+    "State House",
+    "Local"
+   ],
+   [
+    154658,
+    "Maine State House 124",
+    "State House",
+    "Local"
+   ],
+   [
+    154708,
+    "Maine Franklin Register of Deeds",
+    "Register of Deeds",
+    "Local"
+   ],
+   [
+    154523,
+    "Maine State Senate 24",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154754,
+    "Maine Oxford County Commissioner 3",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154612,
+    "Maine State House 78",
+    "State House",
+    "Local"
+   ],
+   [
+    154651,
+    "Maine State House 117",
+    "State House",
+    "Local"
+   ],
+   [
+    154690,
+    "Maine Knox Judge of Probate",
+    "Judge of Probate",
+    "Local"
+   ],
+   [
+    154747,
+    "Maine Cumberland County Commissioner 5",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154562,
+    "Maine State House 28",
+    "State House",
+    "Local"
+   ],
+   [
+    154644,
+    "Maine State House 110",
+    "State House",
+    "Local"
+   ],
+   [
+    154683,
+    "Maine State House 149",
+    "State House",
+    "Local"
+   ],
+   [
+    154722,
+    "Maine Hancock Sheriff",
+    "Sheriff",
+    "Local"
+   ],
+   [
+    154555,
+    "Maine State House 21",
+    "State House",
+    "Local"
+   ],
+   [
+    154594,
+    "Maine State House 60",
+    "State House",
+    "Local"
+   ],
+   [
+    154626,
+    "Maine State House 92",
+    "State House",
+    "Local"
+   ],
+   [
+    154676,
+    "Maine State House 142",
+    "State House",
+    "Local"
+   ],
+   [
+    154701,
+    "Maine Penobscot County Treasurer",
+    "County Treasurer",
+    "Local"
+   ],
+   [
+    154765,
+    "Maine York County Commissioner 3",
+    "County Commissioner",
+    "Local"
+   ],
+   [
+    154612,
+    "Maine State House 78",
+    "State House",
+    "Local"
+   ],
+   [
+    154509,
+    "Maine State Senate 10",
+    "State Senate",
+    "Local"
+   ],
+   [
+    154573,
+    "Maine State House 39",
+    "State House",
+    "Local"
+   ],
+   [
+    154644,
+    "Maine State House 110",
+    "State House",
+    "Local"
+   ],
+   [
+    154733,
+    "Maine District Attorney 2",
+    "District Attorney",
+    "Local"
+   ],
+   [
+    154548,
+    "Maine State House 14",
+    "State House",
+    "Local"
+   ],
+   [
+    154605,
+    "Maine State House 71",
+    "State House",
+    "Local"
+   ],
+   [
+    154669,
+    "Maine State House 135",
+    "State House",
+    "Local"
+   ],
+   [
+    154541,
+    "Maine State House 7",
+    "State House",
+    "Local"
+   ],
+   [
+    154580,
+    "Maine State House 46",
+    "State House",
+    "Local"
+   ],
+   [
+    154637,
+    "Maine State House 103",
+    "State House",
+    "Local"
+   ],
+   [
+    87186,
+    "Maine US House 1",
+    "House of Representatives",
+    "General"
+   ],
+   [
+    87187,
+    "Maine US House 2",
+    "House of Representatives",
+    "General"
+   ],
+   [
+    87188,
+    "Maine US Senate",
+    "US Senate",
+    "General"
+   ],
+   [
+    83055,
+    "Maine State Senate 7 Republican Primary",
+    "State Senate",
+    "Primary"
+   ],
+   [
+    82863,
+    "Maine State House 33 Republican Primary",
+    "State House",
+    "Primary"
+   ],
+   [
+    82671,
+    "Maine Aroostook County Commissioner 1 Republican Primary",
+    "County Commissioner",
+    "Primary"
+   ],
+   [
+    82895,
+    "Maine State House 4 Republican Primary",
+    "State House",
+    "Primary"
+   ],
+   [
+    82706,
+    "Maine Kennebec Register of Deeds Republican Primary",
+    "Register of Deeds",
+    "Primary"
+   ],
+   [
+    82802,
+    "Maine State House 140 Republican Primary",
+    "State House",
+    "Primary"
+   ],
+   [
+    82905,
+    "Maine State House 54 Republican Primary",
+    "State House",
+    "Primary"
+   ],
+   [
+    82866,
+    "Maine State House 35 Democratic Primary",
+    "State House",
+    "Primary"
+   ],
+   [
+    82962,
+    "Maine State House 82 Democratic Primary",
+    "State House",
+    "Primary"
+   ],
+   [
+    83065,
+    "Maine Waldo County Commissioner 1 Democratic Primary",
+    "County Commissioner",
+    "Primary"
+   ],
+   [
+    83026,
+    "Maine State Senate 24 Democratic Primary",
+    "State Senate",
+    "Primary"
+   ],
+   [
+    82713,
+    "Maine Lincoln Register of Probate Republican Primary",
+    "Register of Probate",
+    "Primary"
+   ],
+   [
+    82674,
+    "Maine Cumberland County Commissioner 3 Democratic Primary",
+    "County Commissioner",
+    "Primary"
+   ],
+   [
+    82770,
+    "Maine State House 120 Republican Primary",
+    "State House",
+    "Primary"
+   ],
+   [
+    82873,
+    "Maine State House 38 Republican Primary",
+    "State House",
+    "Primary"
+   ],
+   [
+    82834,
+    "Maine State House 1 Democratic Primary",
+    "State House",
+    "Primary"
+   ],
+   [
+    82937,
+    "Maine State House 70 Democratic Primary",
+    "State House",
+    "Primary"
+   ],
+   [
+    83033,
+    "Maine State Senate 29 Republican Primary",
+    "State Senate",
+    "Primary"
+   ],
+   [
+    82898,
+    "Maine State House 51 Democratic Primary",
+    "State House",
+    "Primary"
+   ],
+   [
+    82994,
+    "Maine State House 98 Republican Primary",
+    "State House",
+    "Primary"
+   ],
+   [
+    82681,
+    "Maine Attorney 3 Republican Primary",
+    "District Attorney",
+    "Primary"
+   ],
+   [
+    83058,
+    "Maine State Senate 9 Democratic Primary",
+    "State Senate",
+    "Primary"
+   ],
+   [
+    82745,
+    "Maine State House 107 Democratic Primary",
+    "State House",
+    "Primary"
+   ],
+   [
+    82841,
+    "Maine State House 22 Republican Primary",
+    "State House",
+    "Primary"
+   ]
+  ]
+ },
  "detail": {
-  "?data=json": {
+  "AZ Senate 2024": {
    "status": 200,
-   "keys": [
-    "election_name",
-    "election_type",
-    "election_scope",
-    "election_date",
-    "country",
-    "province",
-    "district",
-    "municipality",
-    "polls_open",
-    "polls_close",
-    "is_disputed",
-    "has_map",
-    "registered_voters",
-    "percent_reporting",
-    "test_data",
-    "last_updated",
-    "called_at",
-    "round",
-    "maps",
-    "candidates",
-    "region_results"
-   ],
    "pct": 100,
-   "n_regions": 0,
-   "sample": null,
+   "called_at": null,
+   "candidates": [
+    {
+     "name": "Ruben M. Gallego",
+     "candidate_id": 74298,
+     "party": "Democratic",
+     "incumbent": false,
+     "major_candidate": true,
+     "winner": true,
+     "color": "#4874a3",
+     "votes": 1676335,
+     "percent": 50.06
+    },
+    {
+     "name": "Kari Lake",
+     "candidate_id": 74299,
+     "party": "Republican",
+     "incumbent": false,
+     "major_candidate": true,
+     "winner": false,
+     "color": "#c6606b",
+     "votes": 1595761,
+     "percent": 47.65
+    },
+    {
+     "name": "Eduardo Quintana",
+     "candidate_id": 74300,
+     "party": "Green",
+     "incumbent": false,
+     "major_candidate": false,
+     "winner": false,
+     "color": "#09ad00",
+     "votes": 75868,
+     "percent": 2.27
+    }
+   ],
+   "region_results_type": "dict",
+   "n": 15,
+   "sample": [
+    [
+     "apache",
+     {
+      "name": "Apache",
+      "type": "County",
+      "fill": "#4874a3",
+      "percent_reporting": 100,
+      "candidates": [
+       {
+        "name": "Ruben M. Gallego",
+        "party": "Democratic",
+        "incumbent": false,
+        "major_candidate": true,
+        "winner": true,
+        "color": "#4874a3",
+        "votes": 19901,
+        "percent": 62.46
+       },
+       {
+        "name": "Kari Lake",
+        "party": "Republican",
+        "incumbent": false,
+        "major_candidate": true,
+        "winner": false,
+        "color": "#c6606b",
+        "votes": 11283,
+        "percent": 35.41
+       },
+       {
+        "name": "Eduardo Quintana",
+        "party": "Green",
+        "incumbent": false,
+        "major_candidate": false,
+        "winner": false,
+        "color": "#09ad00",
+        "votes": 675,
+        "percent": 2.12
+       },
+       {
+        "name": "Christopher Beckett",
+        "party": "Independent",
+        "incumbent": false,
+        "major_candidate": false,
+        "winner": false,
+        "color": "#63c660",
+        "votes": 3,
+        "percent": 0.01
+       },
+       {
+        "name": "Jannie Prosser",
+        "party": "Independent Republican",
+        "incumbent": false,
+        "major_candidate": false,
+        "winner": false,
+        "color": "#808080",
+        "votes": 1,
+        "percent": 0
+       }
+      ]
+     }
+    ],
+    [
+     "cochise",
+     {
+      "name": "Cochise",
+      "type": "County",
+      "fill": "#c6606b",
+      "percent_reporting": 100,
+      "candidates": [
+       {
+        "name": "Kari Lake",
+        "party": "Republican",
+        "incumbent": false,
+        "major_candidate": true,
+        "winner": true,
+        "color": "#c6606b",
+        "votes": 33184,
+        "percent": 57.1
+       },
+       {
+        "name": "Ruben M. Gallego",
+        "party": "Democratic",
+        "incumbent": false,
+        "major_candidate": true,
+        "winner": false,
+        "color": "#4874a3",
+        "votes": 23347,
+        "percent": 40.17
+       },
+       {
+        "name": "Eduardo Quintana",
+        "party": "Green",
+        "incumbent": false,
+        "major_candidate": false,
+        "winner": false,
+        "color": "#09ad00",
+        "votes": 1562,
+        "percent": 2.69
+       },
+       {
+        "name": "Sarah Williams",
+        "party": "Libertarian",
+        "incumbent": false,
+        "major_candidate": false,
+        "winner": false,
+        "color": "#d4c029",
+        "votes": 12,
+        "percent": 0.02
+       },
+       {
+        "name": "Steven Cavin Sanders",
+        "party": "Independent",
+        "incumbent": false,
+        "major_candidate": false,
+        "winner": false,
+        "color": "#af81a2",
+        "votes": 5,
+        "percent": 0.01
+       },
+       {
+        "name": "Jannie Prosser",
+        "party": "Independent Republican",
+        "incumbent": false,
+        "major_candidate": false,
+        "winner": false,
+        "color": "#808080",
+        "votes": 3,
+        "percent": 0.01
+       },
+       {
+        "name": "Christopher Beckett",
+        "party": "Independent",
+        "incumbent": false,
+        "major_candidate": false,
+        "winner": false,
+        "color": "#63c660",
+        "votes": 1,
+        "percent": 0
+       },
+       {
+        "name": "Benjamin Rodriguez",
+        "party": "Independent",
+        "incumbent": false,
+        "major_candidate": false,
+        "winner": false,
+        "color": "#af81a2",
+        "votes": 1,
+        "percent": 0
+       },
+       {
+        "name": "Shawn Petty",
+        "party": "Independent",
+        "incumbent": false,
+        "major_candidate": false,
+        "winner": false,
+        "color": "#af81a2",
+        "votes": 1,
+        "percent": 0
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  "GA Governor 2026": {
+   "status": 200,
+   "pct": 100,
+   "called_at": "2026-10-27T12:48:05.069Z",
    "candidates": [
     {
      "name": "Rick Jackson",
@@ -604,66 +5643,79 @@
      "votes": 1998677,
      "percent": 48.89
     }
-   ]
-  },
-  "?data=json&precinct": {
-   "status": 200,
-   "keys": [
-    "election_name",
-    "election_type",
-    "election_scope",
-    "election_date",
-    "country",
-    "province",
-    "district",
-    "municipality",
-    "polls_open",
-    "polls_close",
-    "is_disputed",
-    "has_map",
-    "registered_voters",
-    "percent_reporting",
-    "test_data",
-    "last_updated",
-    "called_at",
-    "round",
-    "maps",
-    "candidates",
-    "region_results"
    ],
-   "pct": 100,
-   "n_regions": 0,
-   "sample": null,
-   "candidates": [
-    {
-     "name": "Rick Jackson",
-     "candidate_id": 220202,
-     "party": "Republican",
-     "incumbent": false,
-     "major_candidate": false,
-     "winner": true,
-     "advanced": false,
-     "color": "#c6606b",
-     "votes": 2089699,
-     "percent": 51.11
-    },
-    {
-     "name": "Keisha Lance Bottoms",
-     "candidate_id": 220203,
-     "party": "Democratic",
-     "incumbent": false,
-     "major_candidate": false,
-     "winner": false,
-     "advanced": false,
-     "color": "#4874a3",
-     "votes": 1998677,
-     "percent": 48.89
-    }
+   "region_results_type": "dict",
+   "n": 159,
+   "sample": [
+    [
+     "appling",
+     {
+      "name": "Appling",
+      "type": "County",
+      "fips": "13001",
+      "fill": "#c6606b",
+      "percent_reporting": 100,
+      "candidates": [
+       {
+        "name": "Rick Jackson",
+        "party": "Republican",
+        "votes": 6099,
+        "percent": 80.08,
+        "color": "#c6606b",
+        "winner": false,
+        "advanced": false,
+        "incumbent": false,
+        "major_candidate": false
+       },
+       {
+        "name": "Keisha Lance Bottoms",
+        "party": "Democratic",
+        "votes": 1517,
+        "percent": 19.92,
+        "color": "#4874a3",
+        "winner": false,
+        "advanced": false,
+        "incumbent": false,
+        "major_candidate": false
+       }
+      ]
+     }
+    ],
+    [
+     "atkinson",
+     {
+      "name": "Atkinson",
+      "type": "County",
+      "fips": "13003",
+      "fill": "#c6606b",
+      "percent_reporting": 100,
+      "candidates": [
+       {
+        "name": "Rick Jackson",
+        "party": "Republican",
+        "votes": 2219,
+        "percent": 78.41,
+        "color": "#c6606b",
+        "winner": false,
+        "advanced": false,
+        "incumbent": false,
+        "major_candidate": false
+       },
+       {
+        "name": "Keisha Lance Bottoms",
+        "party": "Democratic",
+        "votes": 611,
+        "percent": 21.59,
+        "color": "#4874a3",
+        "winner": false,
+        "advanced": false,
+        "incumbent": false,
+        "major_candidate": false
+       }
+      ]
+     }
+    ]
    ]
-  },
-  "history": {
-   "status": 200,
-   "head": "{\"id\": 87088, \"count\": 16, \"raw\": false, \"filtered\": true, \"timestamps\": [\"2026-10-27T13:40:32.917Z\", \"2026-10-27T13:35:13.204Z\", \"2026-10-27T13:23:26.298Z\", \"2026-10-27T13:12:20.061Z\", \"2026-10-27T12:58:41.830Z\", \"2026-10-27T12:48:05.069Z\", \"2026-10-27T12:41:21.052Z\", \"2026-10-27T12:28:44.633Z\", \"2026-10-27T12:18:33.638Z\", \"2026-10-27T12:06:33.036Z\", \"2026-10-27T11:56:04.226Z\", \"2026-10-27T11:42:41.255Z\", \"2026-10-27T11:29:01.361Z\", \"2026-10-27T11:17:32.110Z\", \"2026-10-27T11:06:16.177Z\", \"2026-10-27T10:00:00.000Z\"]}"
   }
  }
 }
