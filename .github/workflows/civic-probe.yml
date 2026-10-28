@@ -1,5 +1,5 @@
 name: civic-probe
-# Run once: Actions -> civic-probe -> Run workflow. Checks whether civicAPI has a readable early-vote data endpoint. Read-only; saves data/civic_probe.json.
+# Run once: Actions -> civic-probe -> Run workflow. Election-day readiness check: which Senate, governor and House races civicAPI has for Nov 3, and whether they carry live votes. Read-only; saves data/civic_probe.json.
 on:
   workflow_dispatch: {}
 permissions:
@@ -7,7 +7,7 @@ permissions:
 jobs:
   probe:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
