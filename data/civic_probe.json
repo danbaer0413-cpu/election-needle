@@ -1,351 +1,170 @@
 {
- "pages": {
-  "/early-vote": {
-   "status": 200,
-   "bytes": 12128,
-   "urls": [
-    "/api-documentation",
-    "/early-vote",
-    "https://civicapi.org/api/v2/early-vote/${e}/${t}",
-    "https://civicapi.org/api/v2/early-vote/${e}/${t}/demographics?${i}",
-    "https://civicapi.org/api/v2/early-vote/${e}/${t}/demographics?${o}",
-    "https://civicapi.org/api/v2/early-vote/${e}/capabilities",
-    "https://civicapi.org/api/v2/early-vote/US/${e}",
-    "https://civicapi.org/api/v2/early-vote/historical/${t}/${e}/${n}?date=${r}",
-    "https://civicapi.org/api/v2/forecast/${e}/2026/civicapi",
-    "https://civicapi.org/api/v2/forecast/${t}/2026/${e}",
-    "https://civicapi.org/api/v2/forecast/governor/2026/civicapi",
-    "https://civicapi.org/api/v2/forecast/house/2026/civicapi",
-    "https://civicapi.org/api/v2/forecast/senate/2026/civicapi",
-    "https://civicapi.org/api/v2/getElectionDates",
-    "https://civicapi.org/api/v2/getElectionDates?country=[country]&province=[province]&year=[year]",
-    "https://civicapi.org/api/v2/getElectionYears",
-    "https://civicapi.org/api/v2/race",
-    "https://civicapi.org/api/v2/race/${e}",
-    "https://civicapi.org/api/v2/race/${e}?generateMap",
-    "https://civicapi.org/api/v2/race/${n.raceId}",
-    "https://civicapi.org/api/v2/race/${n.raceId}/history",
-    "https://civicapi.org/api/v2/race/${n.raceId}/history/${e}?light",
-    "https://civicapi.org/api/v2/race/${n}",
-    "https://civicapi.org/api/v2/race/${t.raceId}",
-    "https://civicapi.org/api/v2/race/${t.raceId}/history",
-    "https://civicapi.org/api/v2/race/${t.raceId}/log",
-    "https://civicapi.org/api/v2/race/87524${Nj}",
-    "https://civicapi.org/api/v2/race/87528${Nj}",
-    "https://civicapi.org/api/v2/race/87535${Nj}",
-    "https://civicapi.org/api/v2/race/search",
-    "https://civicapi.org/api/v2/race/{raceid}/history/[timestamp]?[generateMap|generateMapPNG|light|precinct]",
-    "https://civicapi.org/api/v2/race/{raceid}?[generateMap|generateMapPNG]&data=[csv|json]&[embed]&[precinct]",
-    "https://civicapi.org/api/v2/status"
-   ]
-  },
-  "/early-vote/me": {
-   "status": 200,
-   "bytes": 11997,
-   "urls": [
-    "/api-documentation",
-    "/early-vote",
-    "https://civicapi.org/api/v2/early-vote/${e}/${t}",
-    "https://civicapi.org/api/v2/early-vote/${e}/${t}/demographics?${i}",
-    "https://civicapi.org/api/v2/early-vote/${e}/${t}/demographics?${o}",
-    "https://civicapi.org/api/v2/early-vote/${e}/capabilities",
-    "https://civicapi.org/api/v2/early-vote/US/${e}",
-    "https://civicapi.org/api/v2/early-vote/historical/${t}/${e}/${n}?date=${r}",
-    "https://civicapi.org/api/v2/forecast/${e}/2026/civicapi",
-    "https://civicapi.org/api/v2/forecast/${t}/2026/${e}",
-    "https://civicapi.org/api/v2/forecast/governor/2026/civicapi",
-    "https://civicapi.org/api/v2/forecast/house/2026/civicapi",
-    "https://civicapi.org/api/v2/forecast/senate/2026/civicapi",
-    "https://civicapi.org/api/v2/getElectionDates",
-    "https://civicapi.org/api/v2/getElectionDates?country=[country]&province=[province]&year=[year]",
-    "https://civicapi.org/api/v2/getElectionYears",
-    "https://civicapi.org/api/v2/race",
-    "https://civicapi.org/api/v2/race/${e}",
-    "https://civicapi.org/api/v2/race/${e}?generateMap",
-    "https://civicapi.org/api/v2/race/${n.raceId}",
-    "https://civicapi.org/api/v2/race/${n.raceId}/history",
-    "https://civicapi.org/api/v2/race/${n.raceId}/history/${e}?light",
-    "https://civicapi.org/api/v2/race/${n}",
-    "https://civicapi.org/api/v2/race/${t.raceId}",
-    "https://civicapi.org/api/v2/race/${t.raceId}/history",
-    "https://civicapi.org/api/v2/race/${t.raceId}/log",
-    "https://civicapi.org/api/v2/race/87524${Nj}",
-    "https://civicapi.org/api/v2/race/87528${Nj}",
-    "https://civicapi.org/api/v2/race/87535${Nj}",
-    "https://civicapi.org/api/v2/race/search",
-    "https://civicapi.org/api/v2/race/{raceid}/history/[timestamp]?[generateMap|generateMapPNG|light|precinct]",
-    "https://civicapi.org/api/v2/race/{raceid}?[generateMap|generateMapPNG]&data=[csv|json]&[embed]&[precinct]",
-    "https://civicapi.org/api/v2/status"
-   ]
-  },
-  "/early-vote/ne": {
-   "status": 200,
-   "bytes": 12009,
-   "urls": [
-    "/api-documentation",
-    "/early-vote",
-    "https://civicapi.org/api/v2/early-vote/${e}/${t}",
-    "https://civicapi.org/api/v2/early-vote/${e}/${t}/demographics?${i}",
-    "https://civicapi.org/api/v2/early-vote/${e}/${t}/demographics?${o}",
-    "https://civicapi.org/api/v2/early-vote/${e}/capabilities",
-    "https://civicapi.org/api/v2/early-vote/US/${e}",
-    "https://civicapi.org/api/v2/early-vote/historical/${t}/${e}/${n}?date=${r}",
-    "https://civicapi.org/api/v2/forecast/${e}/2026/civicapi",
-    "https://civicapi.org/api/v2/forecast/${t}/2026/${e}",
-    "https://civicapi.org/api/v2/forecast/governor/2026/civicapi",
-    "https://civicapi.org/api/v2/forecast/house/2026/civicapi",
-    "https://civicapi.org/api/v2/forecast/senate/2026/civicapi",
-    "https://civicapi.org/api/v2/getElectionDates",
-    "https://civicapi.org/api/v2/getElectionDates?country=[country]&province=[province]&year=[year]",
-    "https://civicapi.org/api/v2/getElectionYears",
-    "https://civicapi.org/api/v2/race",
-    "https://civicapi.org/api/v2/race/${e}",
-    "https://civicapi.org/api/v2/race/${e}?generateMap",
-    "https://civicapi.org/api/v2/race/${n.raceId}",
-    "https://civicapi.org/api/v2/race/${n.raceId}/history",
-    "https://civicapi.org/api/v2/race/${n.raceId}/history/${e}?light",
-    "https://civicapi.org/api/v2/race/${n}",
-    "https://civicapi.org/api/v2/race/${t.raceId}",
-    "https://civicapi.org/api/v2/race/${t.raceId}/history",
-    "https://civicapi.org/api/v2/race/${t.raceId}/log",
-    "https://civicapi.org/api/v2/race/87524${Nj}",
-    "https://civicapi.org/api/v2/race/87528${Nj}",
-    "https://civicapi.org/api/v2/race/87535${Nj}",
-    "https://civicapi.org/api/v2/race/search",
-    "https://civicapi.org/api/v2/race/{raceid}/history/[timestamp]?[generateMap|generateMapPNG|light|precinct]",
-    "https://civicapi.org/api/v2/race/{raceid}?[generateMap|generateMapPNG]&data=[csv|json]&[embed]&[precinct]",
-    "https://civicapi.org/api/v2/status"
-   ]
-  },
-  "/early-vote/wi": {
-   "status": 200,
-   "bytes": 12013,
-   "urls": [
-    "/api-documentation",
-    "/early-vote",
-    "https://civicapi.org/api/v2/early-vote/${e}/${t}",
-    "https://civicapi.org/api/v2/early-vote/${e}/${t}/demographics?${i}",
-    "https://civicapi.org/api/v2/early-vote/${e}/${t}/demographics?${o}",
-    "https://civicapi.org/api/v2/early-vote/${e}/capabilities",
-    "https://civicapi.org/api/v2/early-vote/US/${e}",
-    "https://civicapi.org/api/v2/early-vote/historical/${t}/${e}/${n}?date=${r}",
-    "https://civicapi.org/api/v2/forecast/${e}/2026/civicapi",
-    "https://civicapi.org/api/v2/forecast/${t}/2026/${e}",
-    "https://civicapi.org/api/v2/forecast/governor/2026/civicapi",
-    "https://civicapi.org/api/v2/forecast/house/2026/civicapi",
-    "https://civicapi.org/api/v2/forecast/senate/2026/civicapi",
-    "https://civicapi.org/api/v2/getElectionDates",
-    "https://civicapi.org/api/v2/getElectionDates?country=[country]&province=[province]&year=[year]",
-    "https://civicapi.org/api/v2/getElectionYears",
-    "https://civicapi.org/api/v2/race",
-    "https://civicapi.org/api/v2/race/${e}",
-    "https://civicapi.org/api/v2/race/${e}?generateMap",
-    "https://civicapi.org/api/v2/race/${n.raceId}",
-    "https://civicapi.org/api/v2/race/${n.raceId}/history",
-    "https://civicapi.org/api/v2/race/${n.raceId}/history/${e}?light",
-    "https://civicapi.org/api/v2/race/${n}",
-    "https://civicapi.org/api/v2/race/${t.raceId}",
-    "https://civicapi.org/api/v2/race/${t.raceId}/history",
-    "https://civicapi.org/api/v2/race/${t.raceId}/log",
-    "https://civicapi.org/api/v2/race/87524${Nj}",
-    "https://civicapi.org/api/v2/race/87528${Nj}",
-    "https://civicapi.org/api/v2/race/87535${Nj}",
-    "https://civicapi.org/api/v2/race/search",
-    "https://civicapi.org/api/v2/race/{raceid}/history/[timestamp]?[generateMap|generateMapPNG|light|precinct]",
-    "https://civicapi.org/api/v2/race/{raceid}?[generateMap|generateMapPNG]&data=[csv|json]&[embed]&[precinct]",
-    "https://civicapi.org/api/v2/status"
-   ]
-  }
- },
- "found": [
-  "https://civicapi.org/api/v2/status"
- ],
  "tries": [
   {
-   "url": "https://civicapi.org/api/v2/early-vote/me",
-   "status": 404,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/v2/early-vote?state=me",
-   "status": 404,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/v2/earlyvote/me",
-   "status": 404,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/early-vote/me",
-   "status": 404,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/early-vote?state=me",
-   "status": 404,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/v2/early/me",
-   "status": 404,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/v2/early-vote/me/counties",
-   "status": 400,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/v2/early-vote/ne",
-   "status": 404,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/v2/early-vote?state=ne",
-   "status": 404,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/v2/earlyvote/ne",
-   "status": 404,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/early-vote/ne",
-   "status": 404,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/early-vote?state=ne",
-   "status": 404,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/v2/early/ne",
-   "status": 404,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/v2/early-vote/ne/counties",
-   "status": 400,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/v2/early-vote/wi",
-   "status": 404,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/v2/early-vote?state=wi",
-   "status": 404,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/v2/earlyvote/wi",
-   "status": 404,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/early-vote/wi",
-   "status": 404,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/early-vote?state=wi",
-   "status": 404,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/v2/early/wi",
-   "status": 404,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/v2/early-vote/wi/counties",
-   "status": 400,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/v2/early-vote",
-   "status": 404,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/early-vote",
-   "status": 404,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/v2/status",
+   "path": "/early-vote/US/capabilities",
    "status": 200,
    "json": true,
-   "head": "{\"status\":\"ok\"}"
+   "bytes": 432,
+   "head": "{\"state\":\"US\",\"provides\":{\"party\":true,\"gender\":true,\"race\":true,\"ethnicity\":true,\"age\":true},\"categories\":{\"requested\":{\"party\":true,\"gender\":true,\"race\":true,\"ethnicity\":true,\"age\":true},\"returned\":{\"party\":true,\"gender\":true,\"race\":true,\"ethnicity\":true,\"age\":true},\"inperson\":{\"party\":true,\"gender\":true,\"race\":true,\"ethnicity\":true,\"age\":true},\"grace\":{\"party\":false,\"gender\":false,\"race\":false,\"ethnicity\":false,\"age\":false}}}"
   },
   {
-   "url": "https://civicapi.org/early-vote",
+   "path": "/early-vote/US/2026",
+   "status": 400,
+   "json": false,
+   "bytes": 87,
+   "head": "{\"error\":\"invalid parameters\",\"categories\":[\"requested\",\"returned\",\"inperson\",\"grace\"]}"
+  },
+  {
+   "path": "/early-vote/US/ME",
+   "status": 400,
+   "json": false,
+   "bytes": 87,
+   "head": "{\"error\":\"invalid parameters\",\"categories\":[\"requested\",\"returned\",\"inperson\",\"grace\"]}"
+  },
+  {
+   "path": "/early-vote/US/me",
+   "status": 400,
+   "json": false,
+   "bytes": 87,
+   "head": "{\"error\":\"invalid parameters\",\"categories\":[\"requested\",\"returned\",\"inperson\",\"grace\"]}"
+  },
+  {
+   "path": "/early-vote/US/Maine",
+   "status": 400,
+   "json": false,
+   "bytes": 87,
+   "head": "{\"error\":\"invalid parameters\",\"categories\":[\"requested\",\"returned\",\"inperson\",\"grace\"]}"
+  },
+  {
+   "path": "/early-vote/US/NE",
+   "status": 400,
+   "json": false,
+   "bytes": 87,
+   "head": "{\"error\":\"invalid parameters\",\"categories\":[\"requested\",\"returned\",\"inperson\",\"grace\"]}"
+  },
+  {
+   "path": "/early-vote/US/WI",
+   "status": 400,
+   "json": false,
+   "bytes": 87,
+   "head": "{\"error\":\"invalid parameters\",\"categories\":[\"requested\",\"returned\",\"inperson\",\"grace\"]}"
+  },
+  {
+   "path": "/early-vote/US/IA",
+   "status": 400,
+   "json": false,
+   "bytes": 87,
+   "head": "{\"error\":\"invalid parameters\",\"categories\":[\"requested\",\"returned\",\"inperson\",\"grace\"]}"
+  },
+  {
+   "path": "/early-vote/US/KS",
+   "status": 400,
+   "json": false,
+   "bytes": 87,
+   "head": "{\"error\":\"invalid parameters\",\"categories\":[\"requested\",\"returned\",\"inperson\",\"grace\"]}"
+  },
+  {
+   "path": "/early-vote/US/NH",
+   "status": 400,
+   "json": false,
+   "bytes": 87,
+   "head": "{\"error\":\"invalid parameters\",\"categories\":[\"requested\",\"returned\",\"inperson\",\"grace\"]}"
+  },
+  {
+   "path": "/early-vote/US/MS",
+   "status": 400,
+   "json": false,
+   "bytes": 87,
+   "head": "{\"error\":\"invalid parameters\",\"categories\":[\"requested\",\"returned\",\"inperson\",\"grace\"]}"
+  },
+  {
+   "path": "/early-vote/US/SC",
+   "status": 400,
+   "json": false,
+   "bytes": 87,
+   "head": "{\"error\":\"invalid parameters\",\"categories\":[\"requested\",\"returned\",\"inperson\",\"grace\"]}"
+  },
+  {
+   "path": "/early-vote/US/AK",
+   "status": 400,
+   "json": false,
+   "bytes": 87,
+   "head": "{\"error\":\"invalid parameters\",\"categories\":[\"requested\",\"returned\",\"inperson\",\"grace\"]}"
+  },
+  {
+   "path": "/early-vote/US/MN",
+   "status": 400,
+   "json": false,
+   "bytes": 87,
+   "head": "{\"error\":\"invalid parameters\",\"categories\":[\"requested\",\"returned\",\"inperson\",\"grace\"]}"
+  },
+  {
+   "path": "/early-vote/US/NV",
+   "status": 400,
+   "json": false,
+   "bytes": 87,
+   "head": "{\"error\":\"invalid parameters\",\"categories\":[\"requested\",\"returned\",\"inperson\",\"grace\"]}"
+  },
+  {
+   "path": "/early-vote/US/MI",
+   "status": 400,
+   "json": false,
+   "bytes": 87,
+   "head": "{\"error\":\"invalid parameters\",\"categories\":[\"requested\",\"returned\",\"inperson\",\"grace\"]}"
+  },
+  {
+   "path": "/early-vote/US/OH",
+   "status": 400,
+   "json": false,
+   "bytes": 87,
+   "head": "{\"error\":\"invalid parameters\",\"categories\":[\"requested\",\"returned\",\"inperson\",\"grace\"]}"
+  },
+  {
+   "path": "/early-vote/US/ME/demographics",
+   "status": 400,
+   "json": false,
+   "bytes": 87,
+   "head": "{\"error\":\"invalid parameters\",\"categories\":[\"requested\",\"returned\",\"inperson\",\"grace\"]}"
+  },
+  {
+   "path": "/early-vote/historical/US/ME/2022",
+   "status": 400,
+   "json": false,
+   "bytes": 90,
+   "head": "{\"error\":\"invalid parameters\",\"categories\":[\"requested\",\"returned\",\"rejected\",\"inperson\"]}"
+  },
+  {
+   "path": "/race",
+   "status": 404,
+   "json": false,
+   "bytes": 79,
+   "head": "{\"message\":\"Route GET:/v2/race not found\",\"error\":\"Not Found\",\"statusCode\":404}"
+  },
+  {
+   "path": "/race/search",
+   "status": 400,
+   "json": false,
+   "bytes": 105,
+   "head": "{\"error\":\"search query, type, province, district, country, election type, or election date is required!\"}"
+  },
+  {
+   "path": "/getElectionYears",
    "status": 200,
-   "json": false,
-   "head": ""
+   "json": true,
+   "bytes": 1858,
+   "head": "[\"2026\",\"2025\",\"2024\",\"2023\",\"2022\",\"2021\",\"2020\",\"2019\",\"2018\",\"2017\",\"2016\",\"2015\",\"2014\",\"2013\",\"2012\",\"2011\",\"2010\",\"2009\",\"2008\",\"2007\",\"2006\",\"2005\",\"2004\",\"2003\",\"2002\",\"2001\",\"2000\",\"1999\",\"1998\",\"1997\",\"1996\",\"1995\",\"1994\",\"1993\",\"1992\",\"1991\",\"1990\",\"1989\",\"1988\",\"1987\",\"1986\",\"1985\",\"1984\",\"1983\",\"1982\",\"1981\",\"1980\",\"1979\",\"1978\",\"1977\",\"1976\",\"1975\",\"1974\",\"1973\",\"1972\",\"1971\",\"1970\",\"1969\",\"1968\",\"1967\",\"1966\",\"1965\",\"1964\",\"1963\",\"1962\",\"1961\",\"1960\",\"1959\",\"1958\",\"1957\",\"1956\",\"1955\",\"1954\",\"1953\",\"1952\",\"1951\",\"1950\",\"1949\",\"1948\",\"1947\",\"1946\",\"1945\",\"1944\",\"1943\",\"1942\",\"1941\",\"1940\",\"1938\",\"1937\",\"1936\",\"1935\",\"1934\",\"1933\",\"1932\",\"1931\",\"1930\",\"1928\",\"1926\",\"1925\",\"1924\",\"1923\",\"1922\",\"1921\",\"1920\",\"1919\",\"1918\",\"1917\",\"1916\",\"1915\",\"1914\",\"1913\",\"1912\",\"1911\",\"1910\",\"1909\",\"1908\",\"1907\",\"1906\",\"1905\",\"1904\",\"1903\",\"1902\",\"1901\",\"1900\",\"1899\",\"1898\",\"1897\",\"1896\",\"1895\",\"1894\",\"1893\",\"1892\",\"1891\",\"1890\",\"1889\",\"1888\",\"1887\",\"1886\",\"1885\",\"1884\",\"1883\",\"1882\",\"1881\",\"1880\",\"1879\",\"1878\",\"1877\",\"1876\",\"1875\",\"1874\",\"1873\",\"1872\",\"1871\",\"1870\",\"1869\",\"1868\",\"1867\",\"1866\",\"1865\",\"1864\",\"1863\",\"1862\",\"1861\",\"1860\",\"1859\",\"1858\",\"1857\",\"1856\",\"1855\",\"1854\",\"1853\",\"1852\",\"1851\",\"1850\",\"1849\",\"1848\",\"1847\",\"1846\",\"1845\",\"1844\",\"1843\",\"1842\",\"1841\",\"1840\",\"1839\",\"1838\",\"1837\",\"1836\",\"1835\",\"1834\",\"1833\",\"1832\",\"1831\",\"1830\",\"1829\",\"1828\",\"1827\",\"1826\",\"1825\",\"1824\",\"1823\",\"1822\",\"1821\",\"1820\",\"1819\",\"1818\",\"1817\",\"1816\",\"1815\",\"1814\",\"1813\",\"1812\",\"1811\",\"1810\",\"1809\",\"1808\",\"1807\",\"1806\",\"1805\",\"1804\",\"1803\",\"1802\",\"1801\",\"1800\",\"1799\",\"1798\",\"1797\",\"1796\",\"1795\",\"1794\",\"1793\",\"1792\",\"1791\",\"1790\",\"1789\",\"1788\",\"1787\",\"1786\",\"1785\",\"1784\",\"1783\",\"1782\",\"1781\",\"1780\",\"1779\",\"1778\",\"1777\",\"1776\",\"1775\",\"1774\",\"1771\",\"1769\",\"1752\",\"1733\",\"1725\",\"1723\",\"1722\",\"1714\",\"1712\",\"1711\",\"1706\",\"1704\",\"1689\",\"1664\",\"66\",\"1\"]"
   },
   {
-   "url": "https://civicapi.org/api/v2/early-vote/${e}/${t}",
-   "status": 400,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/v2/early-vote/${e}/${t}/demographics?${i}",
-   "status": 400,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/v2/early-vote/${e}/${t}/demographics?${o}",
-   "status": 400,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/v2/early-vote/${e}/capabilities",
-   "status": 400,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/v2/early-vote/US/${e}",
-   "status": 400,
-   "json": false,
-   "head": ""
-  },
-  {
-   "url": "https://civicapi.org/api/v2/early-vote/historical/${t}/${e}/${n}?date=${r}",
-   "status": 400,
-   "json": false,
-   "head": ""
+   "path": "/getElectionDates?country=US&year=2026",
+   "status": 200,
+   "json": true,
+   "bytes": 3500,
+   "head": "{\"year\":2026,\"total_unique_dates\":51,\"months\":[{\"month\":\"September\",\"month_num\":9,\"dates\":[{\"day\":15,\"date\":\"2026-09-15\",\"slug\":\"september-15\",\"count\":33},{\"day\":9,\"date\":\"2026-09-09\",\"slug\":\"september-9\",\"count\":160},{\"day\":8,\"date\":\"2026-09-08\",\"slug\":\"september-8\",\"count\":667},{\"day\":1,\"date\":\"2026-09-01\",\"slug\":\"september-1\",\"count\":26}]},{\"month\":\"August\",\"month_num\":8,\"dates\":[{\"day\":25,\"date\":\"2026-08-25\",\"slug\":\"august-25\",\"count\":25},{\"day\":18,\"date\":\"2026-08-18\",\"slug\":\"august-18\",\"count\":518},{\"day\":11,\"date\":\"2026-08-11\",\"slug\":\"august-11\",\"count\":771},{\"day\":9,\"date\":\"2026-08-09\",\"slug\":\"august-9\",\"count\":1},{\"day\":8,\"date\":\"2026-08-08\",\"slug\":\"august-8\",\"count\":127},{\"day\":6,\"date\":\"2026-08-06\",\"slug\":\"august-6\",\"count\":418},{\"day\":4,\"date\":\"2026-08-04\",\"slug\":\"august-4\",\"count\":456}]},{\"month\":\"July\",\"month_num\":7,\"dates\":[{\"day\":28,\"date\":\"2026-07-28\",\"slug\":\"july-28\",\"count\":2},{\"day\":21,\"date\":\"2026-07-21\",\"slug\":\"july-21\",\"count\":244},{\"day\":7,\"date\":\"2026-07-07\",\"slug\":\"july-7\",\"count\":1}]},{\"month\":\"June\",\"month_num\":6,\"dates\":[{\"day\":30,\"date\":\"2026-06-30\",\"slug\":\"june-30\",\"count\":41},{\"day\":27,\"date\":\"2026-06-27\",\"slug\":\"june-27\",\"count\":134},{\"day\":23,\"date\":\"2026-06-23\",\"slug\":\"june-23\",\"count\":669},{\"day\":16,\"date\":\"2026-06-16\",\"slug\":\"june-16\",\"count\":250},{\"day\":9,\"date\":\"2026-06-09\",\"slug\":\"june-9\",\"count\":2167},{\"day\":2,\"date\":\"2026-06-02\",\"slug\":\"june-2\",\"count\":1285}]},{\"month\":\"May\",\"month_num\":5,\"dates\":[{\"day\":26,\"date\":\"2026-05-26\",\"slug\":\"may-26\",\"count\":49},{\"day\":19,\"date\":\"2026-05-19\",\"slug\":\"may-19\",\"count\":5992},{\"day\":16,\"date\":\"2026-05-16\",\"slug\":\"may-16\",\"count\":211},{\"day\":12,\"date\":\"2026-05-12\",\"slug\":\"may-12\",\"count\":377},{\"day\":5,\"date\":\"2026-05-05\",\"slug\":\"may-5\",\"count\":6541},{\"day\":2,\"date\":\"2026-05-02\",\"slug\":\"may-2\",\"count\":408}]},{\"month\":\"April\",\"month_num\":4,\"dates\":[{\"day\":28,\"date\":\"2026-04-28\",\"slug\":\"april-28\",\"count\":4},{\"day\":21,\"date\":\"2026-04-21\",\"slug\":\"april-21\",\"count\":11},{\"day\":16,\"date\":\"2026-04-16\",\"slug\":\"april-16\",\"count\":1},{\"day\":14,\"date\":\"2026-04-14\",\"slug\":\"april-14\",\"count\":22},{\"day\":7,\"date\":\"2026-04-07\",\"slug\":\"april-7\",\"count\":3172}]},{\"month\":\"March\",\"month_num\":3,\"dates\":[{\"day\":31,\"date\":\"2026-03-31\",\"slug\":\"march-31\",\"count\":40},{\"day\":24,\"date\":\"2026-03-24\",\"slug\":\"march-24\",\"count\":3},{\"day\":17,\"date\":\"2026-03-17\",\"slug\":\"march-17\",\"count\":3367},{\"day\":14,\"date\":\"2026-03-14\",\"slug\":\"march-14\",\"count\":3},{\"day\":10,\"date\":\"2026-03-10\",\"slug\":\"march-10\",\"count\":97},{\"day"
   }
+ ],
+ "found": [
+  "/early-vote/US/capabilities",
+  "/getElectionYears",
+  "/getElectionDates?country=US&year=2026"
  ]
 }
