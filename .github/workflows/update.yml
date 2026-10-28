@@ -54,8 +54,10 @@ jobs:
                    data/bsky_unmatched.txt data/poll_compare.csv data/night/early_civic.csv data/civic_early_log.csv; do
             if [ -e "$f" ]; then git add "$f"; fi
           done
+          # early vote files the model merged into (returned ballots only go up, so keep them)
+          git add data/*/early.csv data/*/*/early.csv 2>/dev/null || true
           if ! git diff --cached --quiet; then
             git commit -m "needle update"
-            git pull --rebase -X theirs || git rebase --abort
-            git push || (git pull --rebase -X theirs && git push)
+            git pull --rebase --autostash -X theirs || git rebase --abort
+            git push || (git pull --rebase --autostash -X theirs && git push)
           fi
