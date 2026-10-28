@@ -65,6 +65,7 @@ def main(fetch_fn=fetch, today=None):
     from model import norm_name
     today = today or dt.datetime.now(dt.timezone(dt.timedelta(hours=-4))).date()
     rows, logrows = [], []
+    us_cache = {}
     for st, mode in cfg["states"].items():
         if mode == "off":
             continue
@@ -72,6 +73,19 @@ def main(fetch_fn=fetch, today=None):
         if not sr:
             continue
         ret, inp = fetch_fn(st, "returned"), fetch_fn(st, "inperson")
+        if sum(v["tot"] for v in {**(regions_total(ret) if ret else {}), **{}}.values()) + sum(v["tot"] for v in (regions_total(inp) if inp else {}).values()) <= 0:
+            # state page empty: the nationwide table sometimes still has the state (AK did)
+            for cat in ("returned", "inperson"):
+                us = us_cache.get(cat)
+                if us is None:
+                    us_cache[cat] = us = fetch_fn("US", cat) or {}
+                one = (us.get("regions") or {}).get(st)
+                if one:
+                    js = {"snapshot_date": us.get("snapshot_date"), "regions": {st: one}}
+                    if cat == "returned":
+                        ret = js
+                    else:
+                        inp = js
         if not ret and not inp:
             print(f"{st}: no civicAPI early vote data")
             continue
@@ -103,7 +117,7 @@ def main(fetch_fn=fetch, today=None):
         party_ok = sum(v["D"] + v["R"] for v in reg.values()) > 0.5 * total and all(v["party"] for v in reg.values() if v["tot"] > 0)
         print(f"{st}: civic {total:,.0f} (mail {rtot:,.0f} + in-person {itot:,.0f}) as of {snap}; ours {ours:,.0f}; "
               f"{len(reg)} regions, {matched / total * 100 if total else 0:.0f}% match counties; party {'yes' if party_ok else 'no'}; mode {use} {note}")
-        logrows.append([dt.datetime.utcnow().isoformat(timespec="minutes"), st, snap, round(rtot), round(itot), round(total), use, note])
+        logrows.append([dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes"), st, snap, round(rtot), round(itot), round(total), use, note])
         if use == "log_only":
             continue
         for r in sr:
