@@ -3,7 +3,7 @@ OH-senate,3.66,5,tier1,Rasmussen;Marist College;Beacon Research/Shaw & Co. Resea
 OH-governor,3.97,5,"tier1,35d",Suffolk University;Marist College;The New York Times/Siena College;Beacon Research/Shaw & Co. Research;Echelon Insights,2026-09-23,2026-10-28
 MI-senate,2.79,4,tier1,InsiderAdvantage;Rasmussen;Marist College;Glengariff Group,2026-10-07,2026-10-28
 MN-senate,3.16,4,"tier1,35d",InsiderAdvantage;Mason-Dixon Polling & Strategy;Rasmussen;SurveyUSA,2026-09-23,2026-10-28
-IA-senate,2.01,8,"tier1,35d",InsiderAdvantage;Beacon Research/Shaw & Co. Research;Rasmussen;The New York Times/Siena College;Suffolk University;Emerson College;Marist College;Echelon Insights,2026-09-23,2026-10-28
+IA-senate,1.79,7,"tier1,35d",InsiderAdvantage;Beacon Research/Shaw & Co. Research;The New York Times/Siena College;Suffolk University;Emerson College;Marist College;Echelon Insights,2026-09-23,2026-10-28
 KS-senate,-0.12,5,"tier1+2,60d",co/efficient;Emerson College;Siena;YouGov;InsiderAdvantage,2026-08-29,2026-10-28
 KS-governor,-5.13,4,"tier1+2,60d",co/efficient;Emerson College;The New York Times/Siena College;YouGov,2026-08-29,2026-10-28
 NE-senate,-0.67,4,"tier1+2,60d",SurveyUSA;co/efficient;YouGov;Echelon Insights,2026-08-29,2026-10-28
