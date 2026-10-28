@@ -1,10 +1,9 @@
-"""Round 4: find civicAPI's Nov 3 2026 statewide races for our states (U.S. Senate, Governor) and see what their detail looks like.
-Read-only. Prints race ids, whether county breakdowns exist, and saves data/civic_probe.json."""
+"""Round 5: (a) find U.S. Senate races (round 4 found governors only), (b) look at a COMPLETED 2022 governor race to see the county/results format.
+Read-only. Saves data/civic_probe.json."""
 import json, requests
 
 BASE = "https://civicapi.org/api/v2"
 H = {"User-Agent": "election-needle-probe/1.0 (personal project; attribution: civicapi.org)"}
-STATES = ["AK", "FL", "GA", "IA", "KS", "ME", "MI", "MN", "MS", "NE", "NH", "NV", "OH", "SC", "TX", "WI", "NC"]
 
 
 def get(p):
@@ -15,34 +14,40 @@ def get(p):
         return 0, None
 
 
-out = {"types": {}, "races": {}, "detail": {}}
-for st in STATES:
-    found, off = [], 0
-    while off < 400:
-        code, js = get(f"/race/search?country=US&province={st}&date=2026-11-03&offset={off}")
+out = {"senate": [], "detail": {}}
+tries = ["country=US&type=Senate&date=2026-11-03", "country=US&type=U.S.%20Senate&date=2026-11-03", "country=US&province=US&date=2026-11-03",
+         "country=US&type=United%20States%20Senate&date=2026-11-03", "country=US&search=Senate&date=2026-11-03", "search=Collins&date=2026-11-03",
+         "country=US&province=GA&search=Ossoff", "country=US&province=GA&search=Senate&date=2026-11-03", "country=US&province=GA&date=2026-11-03&election_type=Federal"]
+seen = {}
+for q in tries:
+    for off in (0, 20, 40):
+        code, js = get(f"/race/search?{q}&offset={off}")
         if not js or not js.get("races"):
+            print("no ", code, q, off)
             break
         for r in js["races"]:
-            out["types"][r.get("type")] = out["types"].get(r.get("type"), 0) + 1
-            nm = (r.get("election_name") or "")
-            if r.get("election_type") == "Statewide" and "State Senate" not in nm and "State House" not in nm and any(
-                    w in nm for w in ("Senate", "Governor")):
-                found.append({"id": r["id"], "name": nm, "type": r.get("type"), "scope": r.get("election_type"), "has_breakdown": r.get("has_breakdown"),
-                              "pct": r.get("percent_reporting"), "cands": [(c.get("name"), c.get("party")) for c in r.get("candidates", [])][:6]})
-        off += js.get("limit", 20)
-        if off >= (js.get("count") or 0):
-            break
-    out["races"][st] = found
-    print(st, "statewide Senate/Governor races:", [(f["id"], f["name"]) for f in found] or "none found")
-first = [f for st in STATES for f in out["races"][st]][:3]
-for f in first:
+            nm = r.get("election_name") or ""
+            if "Senate" in nm and "State Senate" not in nm:
+                seen[r["id"]] = {"id": r["id"], "name": nm, "type": r.get("type"), "province": r.get("province"), "scope": r.get("election_type"),
+                                 "has_breakdown": r.get("has_breakdown"), "date": r.get("election_date")}
+        print("ok ", code, q, off, "count", js.get("count"), "senate seen so far", len(seen))
+out["senate"] = list(seen.values())
+for s in out["senate"][:60]:
+    print("SENATE", s["id"], s["name"], s["province"], s["type"], s["scope"], s["date"])
+
+# completed race for format: Georgia governor 2022
+code, js = get("/race/search?country=US&province=GA&date=2022-11-08&offset=0")
+cands = [r for r in (js or {}).get("races", []) if r.get("election_name") == "Georgia Governor"]
+print("GA 2022 governor search:", [(r["id"], r["election_name"], r.get("has_breakdown")) for r in cands])
+for r in cands[:1]:
     for suffix in ("?data=json", "?data=json&precinct"):
-        code, js = get(f"/race/{f['id']}{suffix}")
-        keys = list(js.keys()) if isinstance(js, dict) else None
-        reg = js.get("regions") if isinstance(js, dict) else None
-        info = {"status": code, "keys": keys, "n_regions": len(reg) if reg else 0,
-                "sample_region": (list(reg.items())[:1] if isinstance(reg, dict) else (reg[:1] if reg else None)), "candidates": (js or {}).get("candidates", [])[:3]}
-        out["detail"][f"{f['id']}{suffix}"] = info
-        print(f["id"], f["name"], suffix, "status", code, "regions:", info["n_regions"])
-print("types seen:", out["types"])
+        code, d = get(f"/race/{r['id']}{suffix}")
+        reg = (d or {}).get("regions")
+        out["detail"][suffix] = {"status": code, "keys": list((d or {}).keys()), "pct": (d or {}).get("percent_reporting"), "n_regions": len(reg) if reg else 0,
+                                 "sample": (list(reg.items())[:2] if isinstance(reg, dict) else (reg[:2] if reg else None)), "candidates": (d or {}).get("candidates", [])[:3]}
+        print("2022 GA gov", suffix, code, "keys", out["detail"][suffix]["keys"], "regions", out["detail"][suffix]["n_regions"])
+        print("   sample:", json.dumps(out["detail"][suffix]["sample"], default=str)[:600])
+    code, h = get(f"/race/{r['id']}/history")
+    out["detail"]["history"] = {"status": code, "head": json.dumps(h, default=str)[:800]}
+    print("history", code, json.dumps(h, default=str)[:400])
 json.dump(out, open("data/civic_probe.json", "w"), indent=1, default=str)
