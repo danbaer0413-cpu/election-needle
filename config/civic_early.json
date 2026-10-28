@@ -4,6 +4,6 @@
   "states": {
     "AK": "state", "IA": "auto", "KS": "auto", "ME": "auto", "MI": "auto", "MN": "auto", "MS": "auto",
     "NE": "auto", "NV": "auto", "OH": "auto", "SC": "auto", "WI": "auto", "NH": "auto",
-    "FL": "auto", "GA": "log_only", "NC": "auto", "TX": "auto"
+    "FL": "auto", "GA": "auto", "NC": "auto", "TX": "auto"
   }
 }
