@@ -1,0 +1,351 @@
+{
+ "pages": {
+  "/early-vote": {
+   "status": 200,
+   "bytes": 12128,
+   "urls": [
+    "/api-documentation",
+    "/early-vote",
+    "https://civicapi.org/api/v2/early-vote/${e}/${t}",
+    "https://civicapi.org/api/v2/early-vote/${e}/${t}/demographics?${i}",
+    "https://civicapi.org/api/v2/early-vote/${e}/${t}/demographics?${o}",
+    "https://civicapi.org/api/v2/early-vote/${e}/capabilities",
+    "https://civicapi.org/api/v2/early-vote/US/${e}",
+    "https://civicapi.org/api/v2/early-vote/historical/${t}/${e}/${n}?date=${r}",
+    "https://civicapi.org/api/v2/forecast/${e}/2026/civicapi",
+    "https://civicapi.org/api/v2/forecast/${t}/2026/${e}",
+    "https://civicapi.org/api/v2/forecast/governor/2026/civicapi",
+    "https://civicapi.org/api/v2/forecast/house/2026/civicapi",
+    "https://civicapi.org/api/v2/forecast/senate/2026/civicapi",
+    "https://civicapi.org/api/v2/getElectionDates",
+    "https://civicapi.org/api/v2/getElectionDates?country=[country]&province=[province]&year=[year]",
+    "https://civicapi.org/api/v2/getElectionYears",
+    "https://civicapi.org/api/v2/race",
+    "https://civicapi.org/api/v2/race/${e}",
+    "https://civicapi.org/api/v2/race/${e}?generateMap",
+    "https://civicapi.org/api/v2/race/${n.raceId}",
+    "https://civicapi.org/api/v2/race/${n.raceId}/history",
+    "https://civicapi.org/api/v2/race/${n.raceId}/history/${e}?light",
+    "https://civicapi.org/api/v2/race/${n}",
+    "https://civicapi.org/api/v2/race/${t.raceId}",
+    "https://civicapi.org/api/v2/race/${t.raceId}/history",
+    "https://civicapi.org/api/v2/race/${t.raceId}/log",
+    "https://civicapi.org/api/v2/race/87524${Nj}",
+    "https://civicapi.org/api/v2/race/87528${Nj}",
+    "https://civicapi.org/api/v2/race/87535${Nj}",
+    "https://civicapi.org/api/v2/race/search",
+    "https://civicapi.org/api/v2/race/{raceid}/history/[timestamp]?[generateMap|generateMapPNG|light|precinct]",
+    "https://civicapi.org/api/v2/race/{raceid}?[generateMap|generateMapPNG]&data=[csv|json]&[embed]&[precinct]",
+    "https://civicapi.org/api/v2/status"
+   ]
+  },
+  "/early-vote/me": {
+   "status": 200,
+   "bytes": 11997,
+   "urls": [
+    "/api-documentation",
+    "/early-vote",
+    "https://civicapi.org/api/v2/early-vote/${e}/${t}",
+    "https://civicapi.org/api/v2/early-vote/${e}/${t}/demographics?${i}",
+    "https://civicapi.org/api/v2/early-vote/${e}/${t}/demographics?${o}",
+    "https://civicapi.org/api/v2/early-vote/${e}/capabilities",
+    "https://civicapi.org/api/v2/early-vote/US/${e}",
+    "https://civicapi.org/api/v2/early-vote/historical/${t}/${e}/${n}?date=${r}",
+    "https://civicapi.org/api/v2/forecast/${e}/2026/civicapi",
+    "https://civicapi.org/api/v2/forecast/${t}/2026/${e}",
+    "https://civicapi.org/api/v2/forecast/governor/2026/civicapi",
+    "https://civicapi.org/api/v2/forecast/house/2026/civicapi",
+    "https://civicapi.org/api/v2/forecast/senate/2026/civicapi",
+    "https://civicapi.org/api/v2/getElectionDates",
+    "https://civicapi.org/api/v2/getElectionDates?country=[country]&province=[province]&year=[year]",
+    "https://civicapi.org/api/v2/getElectionYears",
+    "https://civicapi.org/api/v2/race",
+    "https://civicapi.org/api/v2/race/${e}",
+    "https://civicapi.org/api/v2/race/${e}?generateMap",
+    "https://civicapi.org/api/v2/race/${n.raceId}",
+    "https://civicapi.org/api/v2/race/${n.raceId}/history",
+    "https://civicapi.org/api/v2/race/${n.raceId}/history/${e}?light",
+    "https://civicapi.org/api/v2/race/${n}",
+    "https://civicapi.org/api/v2/race/${t.raceId}",
+    "https://civicapi.org/api/v2/race/${t.raceId}/history",
+    "https://civicapi.org/api/v2/race/${t.raceId}/log",
+    "https://civicapi.org/api/v2/race/87524${Nj}",
+    "https://civicapi.org/api/v2/race/87528${Nj}",
+    "https://civicapi.org/api/v2/race/87535${Nj}",
+    "https://civicapi.org/api/v2/race/search",
+    "https://civicapi.org/api/v2/race/{raceid}/history/[timestamp]?[generateMap|generateMapPNG|light|precinct]",
+    "https://civicapi.org/api/v2/race/{raceid}?[generateMap|generateMapPNG]&data=[csv|json]&[embed]&[precinct]",
+    "https://civicapi.org/api/v2/status"
+   ]
+  },
+  "/early-vote/ne": {
+   "status": 200,
+   "bytes": 12009,
+   "urls": [
+    "/api-documentation",
+    "/early-vote",
+    "https://civicapi.org/api/v2/early-vote/${e}/${t}",
+    "https://civicapi.org/api/v2/early-vote/${e}/${t}/demographics?${i}",
+    "https://civicapi.org/api/v2/early-vote/${e}/${t}/demographics?${o}",
+    "https://civicapi.org/api/v2/early-vote/${e}/capabilities",
+    "https://civicapi.org/api/v2/early-vote/US/${e}",
+    "https://civicapi.org/api/v2/early-vote/historical/${t}/${e}/${n}?date=${r}",
+    "https://civicapi.org/api/v2/forecast/${e}/2026/civicapi",
+    "https://civicapi.org/api/v2/forecast/${t}/2026/${e}",
+    "https://civicapi.org/api/v2/forecast/governor/2026/civicapi",
+    "https://civicapi.org/api/v2/forecast/house/2026/civicapi",
+    "https://civicapi.org/api/v2/forecast/senate/2026/civicapi",
+    "https://civicapi.org/api/v2/getElectionDates",
+    "https://civicapi.org/api/v2/getElectionDates?country=[country]&province=[province]&year=[year]",
+    "https://civicapi.org/api/v2/getElectionYears",
+    "https://civicapi.org/api/v2/race",
+    "https://civicapi.org/api/v2/race/${e}",
+    "https://civicapi.org/api/v2/race/${e}?generateMap",
+    "https://civicapi.org/api/v2/race/${n.raceId}",
+    "https://civicapi.org/api/v2/race/${n.raceId}/history",
+    "https://civicapi.org/api/v2/race/${n.raceId}/history/${e}?light",
+    "https://civicapi.org/api/v2/race/${n}",
+    "https://civicapi.org/api/v2/race/${t.raceId}",
+    "https://civicapi.org/api/v2/race/${t.raceId}/history",
+    "https://civicapi.org/api/v2/race/${t.raceId}/log",
+    "https://civicapi.org/api/v2/race/87524${Nj}",
+    "https://civicapi.org/api/v2/race/87528${Nj}",
+    "https://civicapi.org/api/v2/race/87535${Nj}",
+    "https://civicapi.org/api/v2/race/search",
+    "https://civicapi.org/api/v2/race/{raceid}/history/[timestamp]?[generateMap|generateMapPNG|light|precinct]",
+    "https://civicapi.org/api/v2/race/{raceid}?[generateMap|generateMapPNG]&data=[csv|json]&[embed]&[precinct]",
+    "https://civicapi.org/api/v2/status"
+   ]
+  },
+  "/early-vote/wi": {
+   "status": 200,
+   "bytes": 12013,
+   "urls": [
+    "/api-documentation",
+    "/early-vote",
+    "https://civicapi.org/api/v2/early-vote/${e}/${t}",
+    "https://civicapi.org/api/v2/early-vote/${e}/${t}/demographics?${i}",
+    "https://civicapi.org/api/v2/early-vote/${e}/${t}/demographics?${o}",
+    "https://civicapi.org/api/v2/early-vote/${e}/capabilities",
+    "https://civicapi.org/api/v2/early-vote/US/${e}",
+    "https://civicapi.org/api/v2/early-vote/historical/${t}/${e}/${n}?date=${r}",
+    "https://civicapi.org/api/v2/forecast/${e}/2026/civicapi",
+    "https://civicapi.org/api/v2/forecast/${t}/2026/${e}",
+    "https://civicapi.org/api/v2/forecast/governor/2026/civicapi",
+    "https://civicapi.org/api/v2/forecast/house/2026/civicapi",
+    "https://civicapi.org/api/v2/forecast/senate/2026/civicapi",
+    "https://civicapi.org/api/v2/getElectionDates",
+    "https://civicapi.org/api/v2/getElectionDates?country=[country]&province=[province]&year=[year]",
+    "https://civicapi.org/api/v2/getElectionYears",
+    "https://civicapi.org/api/v2/race",
+    "https://civicapi.org/api/v2/race/${e}",
+    "https://civicapi.org/api/v2/race/${e}?generateMap",
+    "https://civicapi.org/api/v2/race/${n.raceId}",
+    "https://civicapi.org/api/v2/race/${n.raceId}/history",
+    "https://civicapi.org/api/v2/race/${n.raceId}/history/${e}?light",
+    "https://civicapi.org/api/v2/race/${n}",
+    "https://civicapi.org/api/v2/race/${t.raceId}",
+    "https://civicapi.org/api/v2/race/${t.raceId}/history",
+    "https://civicapi.org/api/v2/race/${t.raceId}/log",
+    "https://civicapi.org/api/v2/race/87524${Nj}",
+    "https://civicapi.org/api/v2/race/87528${Nj}",
+    "https://civicapi.org/api/v2/race/87535${Nj}",
+    "https://civicapi.org/api/v2/race/search",
+    "https://civicapi.org/api/v2/race/{raceid}/history/[timestamp]?[generateMap|generateMapPNG|light|precinct]",
+    "https://civicapi.org/api/v2/race/{raceid}?[generateMap|generateMapPNG]&data=[csv|json]&[embed]&[precinct]",
+    "https://civicapi.org/api/v2/status"
+   ]
+  }
+ },
+ "found": [
+  "https://civicapi.org/api/v2/status"
+ ],
+ "tries": [
+  {
+   "url": "https://civicapi.org/api/v2/early-vote/me",
+   "status": 404,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/early-vote?state=me",
+   "status": 404,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/earlyvote/me",
+   "status": 404,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/early-vote/me",
+   "status": 404,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/early-vote?state=me",
+   "status": 404,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/early/me",
+   "status": 404,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/early-vote/me/counties",
+   "status": 400,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/early-vote/ne",
+   "status": 404,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/early-vote?state=ne",
+   "status": 404,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/earlyvote/ne",
+   "status": 404,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/early-vote/ne",
+   "status": 404,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/early-vote?state=ne",
+   "status": 404,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/early/ne",
+   "status": 404,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/early-vote/ne/counties",
+   "status": 400,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/early-vote/wi",
+   "status": 404,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/early-vote?state=wi",
+   "status": 404,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/earlyvote/wi",
+   "status": 404,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/early-vote/wi",
+   "status": 404,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/early-vote?state=wi",
+   "status": 404,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/early/wi",
+   "status": 404,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/early-vote/wi/counties",
+   "status": 400,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/early-vote",
+   "status": 404,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/early-vote",
+   "status": 404,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/status",
+   "status": 200,
+   "json": true,
+   "head": "{\"status\":\"ok\"}"
+  },
+  {
+   "url": "https://civicapi.org/early-vote",
+   "status": 200,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/early-vote/${e}/${t}",
+   "status": 400,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/early-vote/${e}/${t}/demographics?${i}",
+   "status": 400,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/early-vote/${e}/${t}/demographics?${o}",
+   "status": 400,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/early-vote/${e}/capabilities",
+   "status": 400,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/early-vote/US/${e}",
+   "status": 400,
+   "json": false,
+   "head": ""
+  },
+  {
+   "url": "https://civicapi.org/api/v2/early-vote/historical/${t}/${e}/${n}?date=${r}",
+   "status": 400,
+   "json": false,
+   "head": ""
+  }
+ ]
+}
