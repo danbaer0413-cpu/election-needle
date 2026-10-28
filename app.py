@@ -17,7 +17,7 @@ except ImportError:
 
     def load_ak_geo():
         return None
-from explain import drivers_lines, firewall_lines, inputs_lines, outcome_lines
+from explain import behind_lines, drivers_lines, firewall_lines, inputs_lines, outcome_lines
 import changes
 from publish import from_json_summary, read_log
 from states import STATES
@@ -114,7 +114,7 @@ if st.session_state.get("flash_on", True) and not st.session_state.get("flash_do
             c1, c2 = st.columns([4, 1])
             c1.markdown(f"**{label(ready[r.id])}**  \n:{col}[{changes.arrow(r.d_median)} {abs(r.d_median):.1f} pts] · "
                         f"{changes.margin_text(r.prev_median)} → {changes.margin_text(r.median)} · "
-                        f"Dem win {r.prev_win:.0f}% → {r.win:.0f}%")
+                        f"{changes.rating_text(r.prev_win)} → {changes.rating_text(r.win)}")
             if c2.button("See needle", key=f"fl_{r.id}"):
                 st.session_state["flash_done"] = True
                 st.query_params["race"] = r.id
@@ -129,7 +129,14 @@ if st.session_state.get("flash_on", True) and not st.session_state.get("flash_do
     st.stop()
 
 # ---------------------------------------------------------------- map view
-view = st.radio("View", ["Race", "Map"], horizontal=True, label_visibility="collapsed", key="view")
+view = st.radio("View", ["Race", "Map", "House"], horizontal=True, label_visibility="collapsed", key="view")
+if view == "House":
+    try:
+        import house_view
+        house_view.render(st)
+    except Exception as _ex:
+        st.info(f"The House view is not available yet ({str(_ex)[:120]}).")
+    st.stop()
 if view == "Map":
     try:
         cdf = pd.read_csv("config/candidates.csv")
@@ -157,19 +164,25 @@ if view == "Map":
             elif _ak is None:
                 st.info("Alaska reports by state House election district. Run the build-ak-geo workflow on GitHub once to draw them.")
             else:
-                _bub = st.toggle("Show votes left as bubbles", value=True, key="bubbles_ak")
-                st.plotly_chart(district_map_figure(ready[pick]["summary"], _ak, bubbles=_bub), use_container_width=True,
+                _bub = st.toggle("Show bubbles", value=True, key="bubbles_ak")
+                _by = st.radio("Bubble size", ["Votes left to count", "Early ballots returned"], horizontal=True, key="bubble_by_ak",
+                               label_visibility="collapsed") if _bub else "Votes left to count"
+                _bcol = "early_returned" if _by.startswith("Early") else "remaining"
+                st.plotly_chart(district_map_figure(ready[pick]["summary"], _ak, bubbles=_bub, bubble_by=_bcol), use_container_width=True,
                                 config={"displayModeBar": False})
                 st.caption("Alaska reports by state House election district. Districts are colored by projected final margin; pale ones have under 5% counted. "
                            "Bubble area = votes still to count. Hover or tap a district for votes counted and left.")
         else:
-            _bub = st.toggle("Show votes left as bubbles", value=True, key="bubbles")
-            st.plotly_chart(county_map_figure(ready[pick]["summary"], st_code, geo, fx, bubbles=_bub), use_container_width=True,
+            _bub = st.toggle("Show bubbles", value=True, key="bubbles")
+            _by = st.radio("Bubble size", ["Votes left to count", "Early ballots returned"], horizontal=True, key="bubble_by",
+                           label_visibility="collapsed") if _bub else "Votes left to count"
+            _bcol = "early_returned" if _by.startswith("Early") else "remaining"
+            st.plotly_chart(county_map_figure(ready[pick]["summary"], st_code, geo, fx, bubbles=_bub, bubble_by=_bcol), use_container_width=True,
                             config={"displayModeBar": False})
             _tb = pd.DataFrame(ready[pick]["summary"]["table"])
             _big = float(_tb["remaining"].max()) if "remaining" in _tb and len(_tb) else 0.0
             st.caption("Counties are colored by projected final margin. Pale counties have under 5% counted. "
-                       + (f"Bubble area = votes still to count (largest: about {_big:,.0f}). " if _bub and _big > 0 else "")
+                       + (f"Bubble area = {'early ballots returned' if _bcol == 'early_returned' else 'votes still to count'}. " if _bub and _big > 0 else "")
                        + "Hover or tap a county or bubble for votes counted and left.")
     st.stop()
 
@@ -187,8 +200,7 @@ dem = float(s["win_prob"]) * 100
 gop = 100 - dem
 lead = float(s["median"])
 who = "Democrat" if lead > 0 else "Republican"
-edge = abs(dem - 50)
-verdict = "Toss-up" if edge <= 5 else f"{'Leans' if edge <= 20 else 'Likely' if edge <= 40 else 'Solid'} {who}"
+verdict = changes.rating_text(dem)
 counted = float(s["pct_in"])
 chips = [f"{counted:.0f}% of vote counted" if counted > 0 else "Polls open Nov 3 - pre-election estimate",
          f"Likely range (80%): {fmt_range(float(s['p10']), float(s['p90']))}",
@@ -204,8 +216,8 @@ st.markdown(f"""
   <div style="font-size:1.35rem;font-weight:700;margin:.15rem 0 .4rem 0">{fmt_range(float(s['p10']), float(s['p90']))}
     <span style="font-size:.8rem;font-weight:400;opacity:.7">likely range (80%)</span></div>
   <div class="bar">
-    <div style="background:{BLUE};width:{max(dem, 8):.1f}%">Dem {dem:.0f}%</div>
-    <div style="background:{RED};width:{max(gop, 8):.1f}%;justify-content:flex-end">GOP {gop:.0f}%</div>
+    <div style="background:{BLUE};width:{max(dem, 8):.1f}%">Dem</div>
+    <div style="background:{RED};width:{max(gop, 8):.1f}%;justify-content:flex-end">GOP</div>
   </div>
   <div class="chips">{''.join(f'<span class="chip">{c}</span>' for c in chips)}</div>
 </div>""", unsafe_allow_html=True)
@@ -254,7 +266,16 @@ if _ctl:
                    "not full chamber control (no holdover seats or races outside these 16 states).")
 
 # ---------------------------------------------------------------- detail panels (collapsed by default)
-with st.expander("What's moving the needle", expanded=True):
+try:
+    with open("data/poll_average.json") as _fh:
+        _pa0 = json.load(_fh).get(rid)
+except Exception:
+    _pa0 = None
+_pa_avg = _pa0.get("avg") if _pa0 else None
+with st.expander("What's behind this number", expanded=True):
+    for line in behind_lines(s, pa_avg=_pa_avg):
+        st.markdown(line)
+with st.expander("What's moving the needle", expanded=False):
     for line in drivers_lines(s):
         st.markdown(line)
     st.markdown("**Which counties decide it**")

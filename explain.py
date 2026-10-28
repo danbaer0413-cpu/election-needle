@@ -129,3 +129,40 @@ def outcome_lines(s: dict) -> list[str]:
         L.append(f"Ranked-choice: first-round margin about {fr['median']:+.1f} (Dem win {fr['win_prob'] * 100:.0f}%); "
                  f"after transfers {s['median']:+.1f} (Dem win {s['win_prob'] * 100:.0f}%).")
     return L
+
+
+SRC_TEXT = {
+    "polls": "Polling average",
+    "no polls": "No polls (baseline only)",
+    "fundamentals": "National environment (generic ballot)",
+    "early party reg": "Early vote: party mix of returned ballots",
+    "early geography": "Early vote: which counties are voting",
+    "votehub": "VoteHub early-vote model",
+    "counted": "Votes counted so far",
+}
+
+
+def behind_lines(s: dict, pa_avg: float | None = None) -> list[str]:
+    """Plain-language table: each source, what it says, how much it counts."""
+    drv = sorted(s.get("drivers") or [], key=lambda d: -d["weight"])
+    base = (s.get("inputs") or {}).get("baseline_margin")
+    L = []
+    if base is not None:
+        m, sd = float(s["median"]), float(s.get("swing_sd") or 0)
+        head = f"**Model: {m:+.1f}** (Dem minus GOP), start point {base:+.1f}"
+        if pa_avg is not None:
+            head += f"; polling average {pa_avg:+.1f}, so the other evidence moves it **{m - pa_avg:+.1f}**"
+        L.append(head + ".")
+    if drv:
+        L.append("\n| Source | What it says | Share of the estimate |\n|---|---|---|")
+        for d in drv:
+            name = SRC_TEXT.get(d["source"], LABELS.get(d["source"], d["source"]))
+            L.append(f"| {name} | {float(d['swing']) + float(base or 0):+.1f} margin | {d['weight']:.0f}% |")
+    i = s.get("inputs") or {}
+    if i:
+        L.append(f"Early vote loaded: {i.get('early_returned', 0):,.0f} ballots"
+                 + ("; party data used, but capped so it can't swing the result more than 1.5 pts." if i.get("early_party_data")
+                    else "; no party data, so only geography is read.")
+                 + f" About {i.get('outstanding_share', 0) * 100:.0f}% of the vote is still out.")
+    L.append("The rating (Toss-up, Tilt, Lean, Likely, Solid) comes from the model win chance; polls can miss by 5+ points, so treat it as a lean, not a lock.")
+    return L

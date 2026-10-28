@@ -62,6 +62,7 @@ class Params:
     slope_prior_sd: float = 0.12       # swing may differ by county lean: shift_i = S + beta*(m0_i - M0). beta is learned from counted counties; prior N(0, this).
                                        # 0.12 = a county 20 points bluer than the state moves 2.4 points more (or less) than average. 0 turns the slope off.
     # early vs Election Day
+    early_gap_max: float = 20.0        # the early-vs-Election-Day gap can be raised to at most this when the early electorate is lopsided
     early_gap: float = 8.0             # early margin minus Election Day margin
     sd_gap: float = 3.0                # uncertainty on that gap
     early_first: bool = True           # state reports early/mail votes first
@@ -80,6 +81,8 @@ class Params:
                                        # default +4: exit polls had independents about 3.4 (2018) and 4.8 (2022) points MORE Democratic than the national House vote; Trump's approval among independents is ~20-25% in 2026 (see INDEPENDENTS.md). Set 0 for 'a wash'
     sd_other: float = 5.0              # uncertainty on that lean (points); widens the early party signal in states with many 'other' registrants
     sd_early_party: float = 3.5
+    party_max_effect: float = 1.5      # early party-registration evidence can move the swing estimate by at most this many points (as for VoteHub)
+    sd_floor_swing: float = 6.5        # the swing estimate never gets more certain than this before votes are counted (state polls miss by ~5 pts; signals share one national environment)
     sd_early_geo: float = 8.0          # was 3.0; geography of returns says little about the swing (see README Georgia notes)
     # turnout
     turnout_sd: float = 0.04           # statewide
@@ -185,6 +188,29 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
     frac = counted / T_hat
 
     w = np.clip(E_final / np.maximum(E_final + ED_tot, 1.0), 0.02, 0.98)
+    # ---- how lopsided is the early electorate? --------------------------------------------------------------
+    # The 8-pt gap is only a prior.  If the early ballots already banked are far more Democratic than baseline + polling swing explains,
+    # the leftover (Election Day) vote is redder than a flat gap assumes, so the gap is raised (never lowered), by half the excess, up to early_gap_max.
+    g_prior = g
+    if have_early:
+        S_prior = (p.poll_margin + p.poll_bias - M0) if p.poll_margin is not None else 0.0
+        em_obs = None
+        regp = df["d_reg"] + df["r_reg"] + df["o_reg"]
+        okp = ((regp > 0) & (E_ret > 0)).to_numpy(bool)
+        if okp.any():
+            rg = regp.where(regp > 0, 1)
+            pD_, pR_, pO_ = (df[c] / rg for c in ("d_reg", "r_reg", "o_reg"))
+            u_ = np.clip((1 + (m0 + p.other_lean) / 100) / 2, 0.02, 0.98)
+            e_ = (2 * (pD_.to_numpy(float) * p.reg_loyalty + pR_.to_numpy(float) * (1 - p.reg_loyalty) + pO_.to_numpy(float) * u_) - 1) * 100
+            em_obs = float((E_ret[okp] * e_[okp]).sum() / E_ret[okp].sum()) - p.party_bias
+            wsel = okp
+        elif p.vh_early_margin is not None:
+            em_obs, wsel = float(p.vh_early_margin), E_ret > 0
+        if em_obs is not None:
+            Mw = float((E_ret[wsel] * m0[wsel]).sum() / E_ret[wsel].sum())
+            wbar = float((E_ret[wsel] * w[wsel]).sum() / E_ret[wsel].sum())
+            g_obs = (em_obs - Mw - S_prior) / max(1.0 - wbar, 0.15)
+            g = float(np.clip(g + 0.5 * (g_obs - g), g, p.early_gap_max))
     em0 = m0 + (1 - w) * g      # expected early-pool margin
     edm0 = m0 - w * g           # expected Election Day-pool margin
 
@@ -216,10 +242,22 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
             dev = e_est - em0 - p.party_bias
             sig_party = float((E_ret[ok] * dev[ok]).sum() / E_ret[ok].sum())
             pO_bar = float((E_ret[ok] * pO[ok]).sum() / E_ret[ok].sum())       # weight of 'other' registrants in the returned ballots
-            obs.append((sig_party, (p.sd_early_party * infl) ** 2 + (pO_bar * p.sd_other * infl) ** 2, "early party reg"))
+            var_ep = (p.sd_early_party * infl) ** 2 + (pO_bar * p.sd_other * infl) ** 2
+            # bounded like the VoteHub signal: whatever the early party mix says, it moves the swing estimate by at most party_max_effect points
+            P0_ = sum(1.0 / v for _, v, _ in obs)
+            S0_ = sum(mm_ / v for mm_, v, _ in obs) / P0_
+            om_ = (1.0 / var_ep) / (1.0 / var_ep + P0_)
+            lim_ = p.party_max_effect / om_
+            sig_party_raw = sig_party
+            sig_party = float(np.clip(sig_party, S0_ - lim_, S0_ + lim_))
+            obs.append((sig_party, var_ep, "early party reg"))
         sig_geo = float((E_ret * m0).sum() / E_ret.sum() - (exp_early0 * m0).sum() / exp_early0.sum())
-        if p.early_geo_signal:
-            obs.append((sig_geo, (p.sd_early_geo * infl) ** 2, "early geography"))
+        if p.early_geo_signal and abs(sig_geo) > 1e-6:      # exactly 0 = the early table is a statewide total spread over counties: no geography to read
+            var_eg = (p.sd_early_geo * infl) ** 2
+            P1_ = sum(1.0 / v for _, v, _ in obs)
+            S1_ = sum(mm_ / v for mm_, v, _ in obs) / P1_
+            lim_g = p.party_max_effect / ((1.0 / var_eg) / (1.0 / var_eg + P1_))     # same bound as the party signal
+            obs.append((float(np.clip(sig_geo, S1_ - lim_g, S1_ + lim_g)), var_eg, "early geography"))
 
     wv = E_ret if have_early else exp_early0
     em_exp = float((wv * em0).sum() / max(wv.sum(), 1.0))
@@ -277,6 +315,8 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
     # differs from the baseline mix (e.g. early already counted, Election Day still out).
     gap_sens = float((rem_e * (1 - w) - rem_ed * w).sum() / T_hat.sum())
     var_S = 1.0 / prec.sum() + (p.sd_gap * gap_sens) ** 2
+    _floor = p.sd_floor_swing * (1.0 - float(counted.sum() / max(T_hat.sum(), 1.0))) ** 0.5    # relaxes as the vote is counted
+    var_S = max(var_S, _floor ** 2)
     sd_S = float(np.sqrt(var_S))
 
     # ---- region and county effects (empirical-Bayes shrinkage) ----------------------
@@ -387,7 +427,7 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
         "units_final": int(final.sum()), "counted": float(counted.sum()), "expected_total": float(T_hat.sum()),
         "outstanding_share": float(rem.sum() / T_hat.sum()), "poll_margin": p.poll_margin,
         "poll_bias": p.poll_bias, "sd_poll": p.sd_poll, "poll_skew": p.poll_skew,
-        "early_gap": p.early_gap, "early_first": p.early_first, "turnout_mult": float(mult),
+        "early_gap": g, "early_gap_prior": g_prior, "early_first": p.early_first, "turnout_mult": float(mult),
         "tau_county": p.tau_county, "tau_region": p.tau_region, "rcv": p.rcv, "third_share": third,
         "rcv_to_d": p.rcv_to_d, "rcv_to_r": p.rcv_to_r, "runoff_rule": p.runoff_rule,
         "baseline_margin": M0,
@@ -399,6 +439,7 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
         "counted": counted.round(0), "remaining": rem.round(0),
         "proj_margin": two_party_margin(D_pt, R_pt).round(1),
         "base_margin": m0.round(1),
+        "early_returned": E_ret.round(0),                                # early / mail ballots returned so far (loaded early vote)
     })
     table.loc[~has & ~final, "pct_in"] = 0.0
 

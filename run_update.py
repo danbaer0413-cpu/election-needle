@@ -235,7 +235,7 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
                     n_ = npolls.get((src, rid), 4.0 if src == "manual" else 1.0)   # a hand-typed Silver average is a broad average
                     sd_ = (perr["sd_by_polls"].get("4+") if n_ >= 4 else perr["sd_by_polls"].get("<4")) or perr["sd_default"]
                     sb_ = 0.0 if rid in perr.get("skip_state_bias", []) else perr["state_bias"].get(rr.get("state"), 0.0)
-                    rr["params"] = dict(rr.get("params") or {}, poll_bias=round(perr["global_bias"] + sb_, 2),
+                    rr["params"] = dict(rr.get("params") or {}, poll_bias=round(perr["global_bias"] + sb_ + perr.get("race_bias", {}).get(rid, 0.0), 2),
                                         sd_poll=max(perr.get("sd_floor", 3.5), sd_))
                 if rid in olean and "other_lean" not in (rr.get("params") or {}):
                     rr["params"] = dict(rr.get("params") or {}, other_lean=olean[rid][0], sd_other=olean[rid][1])
@@ -351,6 +351,11 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
         print(f"  could not write needle log ({ex})")
     payload = {"updated": now, "races": races, "control": ctl}
     write_json_atomic(out_path, payload)
+    try:                                   # House lean map + seat chart data (separate file; never affects the needles)
+        import house_lean
+        house_lean.build_and_save()
+    except Exception as ex:
+        print(f"  house lean skipped ({str(ex)[:120]})")
     return payload
 
 

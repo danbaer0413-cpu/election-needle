@@ -75,3 +75,17 @@ def sweep(start: float, end: float, steps: int = 14) -> list[float]:
         out.append(start + (end - start) * e)
     out[-1] = end
     return out
+
+
+def pct_text(p: float) -> str:
+    """Win chance for display: never a flat 100% or 0% (the model is never that sure)."""
+    return ">99%" if p > 99.0 else "<1%" if p < 1.0 else f"{p:.0f}%"
+
+
+def rating_text(dem_pct: float) -> str:
+    """Words instead of a win percentage: Toss-up / Tilt / Lean / Likely / Solid (by Dem win chance)."""
+    side = "Dem" if dem_pct >= 50 else "GOP"
+    p = max(dem_pct, 100 - dem_pct)
+    if p < 55:
+        return "Toss-up"
+    return f"{'Tilt' if p < 65 else 'Lean' if p < 80 else 'Likely' if p < 95 else 'Solid'} {side}"
