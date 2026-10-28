@@ -1,562 +1,557 @@
 {
- "types": {
-  "Judicial": 56,
-  "State Senate": 24,
-  "Governor": 15,
-  "State House": 90,
-  "Commissioner of Agriculture": 1,
-  "Referendum": 17,
-  "Chief Financial Officer": 1,
-  "Attorney General": 11,
-  "State Superintendent": 1,
-  "Public Service Commission 3": 1,
-  "Insurance Commissioner": 2,
-  "Public Service Commission 5": 1,
-  "Secretary of State": 9,
-  "Lieutenant Governor": 3,
-  "Agriculture Commissioner": 2,
-  "Labor Commissioner": 1,
-  "State Treasurer": 4,
-  "Secretary of Agriculture": 1,
-  "State Auditor": 2,
-  "County Treasurer": 2,
-  "District Attorney": 2,
-  "County Commissioner": 1,
-  "Charter Commission": 1,
-  "Register of Deeds": 2,
-  "University Board": 3,
-  "Supreme Court": 4,
-  "State Board of Education": 1,
-  "Other": 5,
-  "District Court Judge": 1,
-  "Treasurer": 3,
-  "Auditor": 2,
-  "Natural Resources District": 5,
-  "Educational Service Unit": 2,
-  "Public Power District": 1,
-  "Executive Council": 1,
-  "Sheriff": 3,
-  "State Controller": 1,
-  "Mayor": 3,
-  "Local": 2,
-  "Proposition": 1,
-  "Statewide": 6,
-  "School Board": 5,
-  "County Commission": 5,
-  "Coroner": 2,
-  "Judiciary": 9,
-  "State Supreme Court": 4,
-  "Comptroller": 1,
-  "Land Commissioner": 1,
-  "Court of Criminal Appeals": 3,
-  "Railroad Commissioner": 1,
-  "Judge": 3,
-  "House of Representatives": 9,
-  "County Sheriff": 2,
-  "Soil and Water Conservation": 1
- },
- "races": {
-  "AK": [
-   {
-    "id": 148898,
-    "name": "Alaska Governor",
-    "type": "Governor",
-    "scope": "Statewide",
-    "has_breakdown": true,
-    "pct": 100,
-    "cands": [
-     [
-      "Jonathan S. \u201cJKT\u201d Kreiss-Tomkins",
-      "Democratic"
-     ],
-     [
-      "Dave Bronson",
-      "Republican"
-     ],
-     [
-      "James W. \u201cJP4\u201d Parkin",
-      "Republican"
-     ],
-     [
-      "Treg Taylor",
-      "Republican"
-     ],
-     [
-      "Bernadette M. Wilson",
-      "Republican"
-     ]
-    ]
-   }
-  ],
-  "FL": [
-   {
-    "id": 87069,
-    "name": "Florida Governor",
-    "type": "Governor",
-    "scope": "Statewide",
-    "has_breakdown": true,
-    "pct": 100,
-    "cands": [
-     [
-      "Byron Donalds",
-      "Republican"
-     ],
-     [
-      "David Jolly",
-      "Democratic"
-     ],
-     [
-      "Jeffrey Peter \"Dr. Jeff\" Datto",
-      "Independent"
-     ],
-     [
-      "Scott Eckhard Jewett",
-      "Libertarian"
-     ],
-     [
-      "Dean Ocean Abrams",
-      "Independent"
-     ],
-     [
-      "Charles Burkett",
-      "Independent"
-     ]
-    ]
-   }
-  ],
-  "GA": [
-   {
-    "id": 87088,
-    "name": "Georgia Governor",
-    "type": "Governor",
-    "scope": "Statewide",
-    "has_breakdown": true,
-    "pct": 100,
-    "cands": [
-     [
-      "Rick Jackson",
-      "Republican"
-     ],
-     [
-      "Keisha Lance Bottoms",
-      "Democratic"
-     ]
-    ]
-   },
-   {
-    "id": 87089,
-    "name": "Georgia Lieutenant Governor",
-    "type": "Lieutenant Governor",
-    "scope": "Statewide",
-    "has_breakdown": true,
-    "pct": 0,
-    "cands": [
-     [
-      "Greg Dolezal",
-      "Republican"
-     ],
-     [
-      "Josh McLaurin",
-      "Democratic"
-     ]
-    ]
-   }
-  ],
-  "IA": [
-   {
-    "id": 87152,
-    "name": "Iowa Governor",
-    "type": "Governor",
-    "scope": "Statewide",
-    "has_breakdown": true,
-    "pct": 100,
-    "cands": [
-     [
-      "Rob Sand",
-      "Democratic"
-     ],
-     [
-      "Zach Lahn",
-      "Republican"
-     ]
-    ]
-   }
-  ],
-  "KS": [
-   {
-    "id": 87163,
-    "name": "Kansas Governor",
-    "type": "Governor",
-    "scope": "Statewide",
-    "has_breakdown": true,
-    "pct": 100,
-    "cands": [
-     [
-      "Ty Masterson",
-      "Republican"
-     ],
-     [
-      "Cindy Holscher",
-      "Democratic"
-     ]
-    ]
-   }
-  ],
-  "ME": [
-   {
-    "id": 87189,
-    "name": "Maine Governor",
-    "type": "Governor",
-    "scope": "Statewide",
-    "has_breakdown": true,
-    "pct": 100,
-    "cands": [
-     [
-      "Hannah Pingree",
-      "Democratic"
-     ],
-     [
-      "Bobby Charles",
-      "Republican"
-     ],
-     [
-      "Rick Bennett",
-      "Independent"
-     ]
-    ]
-   }
-  ],
-  "MI": [
-   {
-    "id": 155751,
-    "name": "Michigan Wayne State University Board of Governors",
-    "type": "University Board",
-    "scope": "Statewide",
-    "has_breakdown": true,
-    "pct": 0,
-    "cands": [
-     [
-      "Shereef Akeel",
-      "Democratic"
-     ],
-     [
-      "Richard Mack",
-      "Democratic"
-     ],
-     [
-      "Andy Anuzis",
-      "Republican"
-     ],
-     [
-      "Christa Murphy",
-      "Republican"
-     ],
-     [
-      "Alex Avery",
-      "Libertarian"
-     ],
-     [
-      "Jami Van Alstine",
-      "Libertarian"
-     ]
-    ]
-   },
-   {
-    "id": 87215,
-    "name": "Michigan Governor",
-    "type": "Governor",
-    "scope": "Statewide",
-    "has_breakdown": true,
-    "pct": 100,
-    "cands": [
-     [
-      "Jocelyn Benson",
-      "Democratic"
-     ],
-     [
-      "John James",
-      "Republican"
-     ],
-     [
-      "Douglas Campbell",
-      "Green"
-     ],
-     [
-      "Donna Brandenburg",
-      "U.S. Taxpayers"
-     ],
-     [
-      "Anthony Hudson",
-      "Libertarian"
-     ]
-    ]
-   }
-  ],
-  "MN": [
-   {
-    "id": 87230,
-    "name": "Minnesota Governor",
-    "type": "Governor",
-    "scope": "Statewide",
-    "has_breakdown": true,
-    "pct": 100,
-    "cands": [
-     [
-      "Amy Klobuchar",
-      "Democratic"
-     ],
-     [
-      "Lisa Demuth",
-      "Republican"
-     ],
-     [
-      "Steven Young",
-      "Green"
-     ],
-     [
-      "Write-in",
-      "Nonpartisan"
-     ]
-    ]
-   }
-  ],
-  "MS": [],
-  "NE": [
-   {
-    "id": 87255,
-    "name": "Nebraska Governor",
-    "type": "Governor",
-    "scope": "Statewide",
-    "has_breakdown": true,
-    "pct": 100,
-    "cands": [
-     [
-      "Jim Pillen",
-      "Republican"
-     ],
-     [
-      "Lynne Walz",
-      "Democratic"
-     ],
-     [
-      "Rick Beard",
-      "Legal Marijuana Now"
-     ],
-     [
-      "Brett Lindstrom",
-      "America First"
-     ]
-    ]
-   }
-  ],
-  "NH": [
-   {
-    "id": 87284,
-    "name": "New Hampshire Governor",
-    "type": "Governor",
-    "scope": "Statewide",
-    "has_breakdown": true,
-    "pct": 100,
-    "cands": [
-     [
-      "Kelly Ayotte",
-      "Republican"
-     ],
-     [
-      "Cinde Warmington",
-      "Democratic"
-     ],
-     [
-      "Stephen Villee",
-      "Libertarian"
-     ]
-    ]
-   }
-  ],
-  "NV": [
-   {
-    "id": 87260,
-    "name": "Nevada Governor",
-    "type": "Governor",
-    "scope": "Statewide",
-    "has_breakdown": true,
-    "pct": 100,
-    "cands": [
-     [
-      "Joe Lombardo",
-      "Republican"
-     ],
-     [
-      "Aaron Ford",
-      "Democratic"
-     ],
-     [
-      "Danielle Ford",
-      "No Political Party"
-     ]
-    ]
-   },
-   {
-    "id": 87261,
-    "name": "Nevada Lieutenant Governor",
-    "type": "Lieutenant Governor",
-    "scope": "Statewide",
-    "has_breakdown": true,
-    "pct": 0,
-    "cands": [
-     [
-      "Stavros Anthony",
-      "Republican"
-     ],
-     [
-      "Sandra Jauregui",
-      "Democratic"
-     ],
-     [
-      "Janine Hansen",
-      "Independent American"
-     ]
-    ]
-   }
-  ],
-  "OH": [
-   {
-    "id": 87365,
-    "name": "Ohio Governor",
-    "type": "Governor",
-    "scope": "Statewide",
-    "has_breakdown": true,
-    "pct": 100,
-    "cands": [
-     [
-      "Vivek Ramaswamy",
-      "Republican"
-     ],
-     [
-      "Amy Acton",
-      "Democratic"
-     ],
-     [
-      "Don Kissick",
-      "Libertarian"
-     ],
-     [
-      "Renea Turner",
-      "Write-In"
-     ],
-     [
-      "Timothy Grady",
-      "Write-In"
-     ],
-     [
-      "Heather Hill",
-      "Write-In"
-     ]
-    ]
-   }
-  ],
-  "SC": [
-   {
-    "id": 87410,
-    "name": "South Carolina Governor",
-    "type": "Governor",
-    "scope": "Statewide",
-    "has_breakdown": true,
-    "pct": 100,
-    "cands": [
-     [
-      "Alan Wilson",
-      "Republican"
-     ],
-     [
-      "Jermaine Johnson",
-      "Democratic"
-     ],
-     [
-      "Michael Addison",
-      "United Citizens"
-     ],
-     [
-      "Walid Hakim",
-      "Green"
-     ]
-    ]
-   }
-  ],
-  "TX": [
-   {
-    "id": 87439,
-    "name": "Texas Lieutenant Governor",
-    "type": "Lieutenant Governor",
-    "scope": "Statewide",
-    "has_breakdown": true,
-    "pct": 0,
-    "cands": [
-     [
-      "Vikki Goodwin",
-      "Democratic"
-     ],
-     [
-      "Dan Patrick",
-      "Republican"
-     ],
-     [
-      "Kevin McCormick",
-      "Green"
-     ],
-     [
-      "Anthony Cristo",
-      "Libertarian"
-     ]
-    ]
-   },
-   {
-    "id": 55857,
-    "name": "Texas Governor",
-    "type": "Governor",
-    "scope": "Statewide",
-    "has_breakdown": true,
-    "pct": 100,
-    "cands": [
-     [
-      "Greg Abbott",
-      "Republican"
-     ],
-     [
-      "Gina Hinojosa",
-      "Democratic"
-     ],
-     [
-      "Pat Dixon",
-      "Libertarian"
-     ]
-    ]
-   }
-  ],
-  "WI": [
-   {
-    "id": 87491,
-    "name": "Wisconsin Governor",
-    "type": "Governor",
-    "scope": "Statewide",
-    "has_breakdown": true,
-    "pct": 100,
-    "cands": [
-     [
-      "David Crowley",
-      "Democratic"
-     ],
-     [
-      "Tom Tiffany",
-      "Republican"
-     ]
-    ]
-   }
-  ],
-  "NC": []
- },
+ "senate": [
+  {
+   "id": 87556,
+   "name": "Massachusetts US Senate Democratic Primary",
+   "type": "Senate",
+   "province": "MA",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-09-01T05:00:00.000Z"
+  },
+  {
+   "id": 87572,
+   "name": "Massachusetts US Senate Republican Primary",
+   "type": "Senate",
+   "province": "MA",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-09-01T05:00:00.000Z"
+  },
+  {
+   "id": 84322,
+   "name": "Colorado US Senate Democratic Primary",
+   "type": "Senate",
+   "province": "CO",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-06-30T05:00:00.000Z"
+  },
+  {
+   "id": 84157,
+   "name": "Louisiana US Senate Republican Primary Runoff",
+   "type": "Senate",
+   "province": "LA",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-06-27T05:00:00.000Z"
+  },
+  {
+   "id": 84156,
+   "name": "Louisiana US Senate Democratic Primary Runoff",
+   "type": "Senate",
+   "province": "LA",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-06-27T05:00:00.000Z"
+  },
+  {
+   "id": 83428,
+   "name": "Alabama US Senate Republican Primary Runoff",
+   "type": "Senate",
+   "province": "AL",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-06-16T05:00:00.000Z"
+  },
+  {
+   "id": 83427,
+   "name": "Alabama US Senate Democratic Primary Runoff",
+   "type": "Senate",
+   "province": "AL",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-06-16T05:00:00.000Z"
+  },
+  {
+   "id": 83316,
+   "name": "Georgia US Senate Republican Primary Runoff",
+   "type": "Senate",
+   "province": "GA",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-06-16T05:00:00.000Z"
+  },
+  {
+   "id": 80210,
+   "name": "Iowa US Senate Democratic Primary",
+   "type": "Senate",
+   "province": "IA",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-06-02T05:00:00.000Z"
+  },
+  {
+   "id": 81015,
+   "name": "New Mexico US Senate Republican Primary",
+   "type": "Senate",
+   "province": "NM",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-06-02T05:00:00.000Z"
+  },
+  {
+   "id": 80459,
+   "name": "Montana US Senate Libertarian Primary",
+   "type": "Senate",
+   "province": "MT",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-06-02T05:00:00.000Z"
+  },
+  {
+   "id": 81014,
+   "name": "New Mexico US Senate Democratic Primary",
+   "type": "Senate",
+   "province": "NM",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-06-02T05:00:00.000Z"
+  },
+  {
+   "id": 80458,
+   "name": "Montana US Senate Democratic Primary",
+   "type": "Senate",
+   "province": "MT",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-06-02T05:00:00.000Z"
+  },
+  {
+   "id": 80512,
+   "name": "South Dakota US Senate Republican Primary",
+   "type": "Senate",
+   "province": "SD",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-06-02T05:00:00.000Z"
+  },
+  {
+   "id": 80211,
+   "name": "Iowa US Senate Republican Primary",
+   "type": "Senate",
+   "province": "IA",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-06-02T05:00:00.000Z"
+  },
+  {
+   "id": 80460,
+   "name": "Montana US Senate Republican Primary",
+   "type": "Senate",
+   "province": "MT",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-06-02T05:00:00.000Z"
+  },
+  {
+   "id": 79766,
+   "name": "Texas US Senate Republican Primary Runoff",
+   "type": "Senate",
+   "province": "TX",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-05-26T05:00:00.000Z"
+  },
+  {
+   "id": 78434,
+   "name": "Idaho US Senate Republican Primary",
+   "type": "Senate",
+   "province": "ID",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-05-19T05:00:00.000Z"
+  },
+  {
+   "id": 79432,
+   "name": "Alabama US Senate Republican Primary",
+   "type": "Senate",
+   "province": "AL",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-05-19T05:00:00.000Z"
+  },
+  {
+   "id": 79431,
+   "name": "Alabama US Senate Democratic Primary",
+   "type": "Senate",
+   "province": "AL",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-05-19T05:00:00.000Z"
+  },
+  {
+   "id": 76946,
+   "name": "Kentucky US Senate Democratic Primary",
+   "type": "Senate",
+   "province": "KY",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-05-19T05:00:00.000Z"
+  },
+  {
+   "id": 78433,
+   "name": "Idaho US Senate Libertarian Primary",
+   "type": "Senate",
+   "province": "ID",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-05-19T05:00:00.000Z"
+  },
+  {
+   "id": 70368,
+   "name": "Georgia US Senate Republican Primary",
+   "type": "Senate",
+   "province": "GA",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-05-19T05:00:00.000Z"
+  },
+  {
+   "id": 78432,
+   "name": "Idaho US Senate Democratic Primary",
+   "type": "Senate",
+   "province": "ID",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-05-19T05:00:00.000Z"
+  },
+  {
+   "id": 70367,
+   "name": "Georgia US Senate Democratic Primary",
+   "type": "Senate",
+   "province": "GA",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-05-19T05:00:00.000Z"
+  },
+  {
+   "id": 76947,
+   "name": "Kentucky US Senate Republican Primary",
+   "type": "Senate",
+   "province": "KY",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-05-19T05:00:00.000Z"
+  },
+  {
+   "id": 75323,
+   "name": "Louisiana US Senate Democratic Primary",
+   "type": "Senate",
+   "province": "LA",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-05-16T05:00:00.000Z"
+  },
+  {
+   "id": 75324,
+   "name": "Louisiana US Senate Republican Primary",
+   "type": "Senate",
+   "province": "LA",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-05-16T05:00:00.000Z"
+  },
+  {
+   "id": 74896,
+   "name": "Nebraska US Senate Republican Primary",
+   "type": "Senate",
+   "province": "NE",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-05-12T05:00:00.000Z"
+  },
+  {
+   "id": 74895,
+   "name": "Nebraska US Senate Legal Marijuana Now Primary",
+   "type": "Senate",
+   "province": "NE",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-05-12T05:00:00.000Z"
+  },
+  {
+   "id": 75244,
+   "name": "West Virginia US Senate Republican Primary",
+   "type": "Senate",
+   "province": "WV",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-05-12T05:00:00.000Z"
+  },
+  {
+   "id": 74894,
+   "name": "Nebraska US Senate Democratic Primary",
+   "type": "Senate",
+   "province": "NE",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-05-12T05:00:00.000Z"
+  },
+  {
+   "id": 75243,
+   "name": "West Virginia US Senate Democratic Primary",
+   "type": "Senate",
+   "province": "WV",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-05-12T05:00:00.000Z"
+  },
+  {
+   "id": 68679,
+   "name": "Ohio US Senate Republican Primary",
+   "type": "Senate",
+   "province": "OH",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-05-05T05:00:00.000Z"
+  },
+  {
+   "id": 68678,
+   "name": "Ohio US Senate Democratic Primary",
+   "type": "Senate",
+   "province": "OH",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-05-05T05:00:00.000Z"
+  },
+  {
+   "id": 68680,
+   "name": "Ohio US Senate Libertarian Primary",
+   "type": "Senate",
+   "province": "OH",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-05-05T05:00:00.000Z"
+  },
+  {
+   "id": 55550,
+   "name": "Illinois US Senate Democratic Primary",
+   "type": "Senate",
+   "province": "IL",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-03-17T05:00:00.000Z"
+  },
+  {
+   "id": 55551,
+   "name": "Illinois US Senate Republican Primary",
+   "type": "Senate",
+   "province": "IL",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-03-17T05:00:00.000Z"
+  },
+  {
+   "id": 51420,
+   "name": "Mississippi US Senate Republican Primary",
+   "type": "Senate",
+   "province": "MS",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-03-10T05:00:00.000Z"
+  },
+  {
+   "id": 46673,
+   "name": "Mississippi US Senate Democratic Primary",
+   "type": "Senate",
+   "province": "MS",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-03-10T05:00:00.000Z"
+  },
+  {
+   "id": 44285,
+   "name": "Texas US Senate Republican Primary",
+   "type": "Senate",
+   "province": "TX",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-03-03T05:00:00.000Z"
+  },
+  {
+   "id": 44730,
+   "name": "Arkansas US Senate Democratic Primary",
+   "type": "Senate",
+   "province": "AR",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-03-03T05:00:00.000Z"
+  },
+  {
+   "id": 44729,
+   "name": "Arkansas US Senate Republican Primary",
+   "type": "Senate",
+   "province": "AR",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-03-03T05:00:00.000Z"
+  },
+  {
+   "id": 46303,
+   "name": "North Carolina US Senate Republican Primary",
+   "type": "Senate",
+   "province": "NC",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-03-03T05:00:00.000Z"
+  },
+  {
+   "id": 44286,
+   "name": "Texas US Senate Democratic Primary",
+   "type": "Senate",
+   "province": "TX",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-03-03T05:00:00.000Z"
+  },
+  {
+   "id": 46302,
+   "name": "North Carolina US Senate Democratic Primary",
+   "type": "Senate",
+   "province": "NC",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2026-03-03T05:00:00.000Z"
+  },
+  {
+   "id": 26331,
+   "name": "Delaware US Senate",
+   "type": "Senate",
+   "province": "DE",
+   "scope": "General",
+   "has_breakdown": true,
+   "date": "2024-11-05T05:00:00.000Z"
+  },
+  {
+   "id": 32987,
+   "name": "California US Senate",
+   "type": "Senate",
+   "province": "CA",
+   "scope": "General",
+   "has_breakdown": true,
+   "date": "2024-11-05T05:00:00.000Z"
+  },
+  {
+   "id": 26262,
+   "name": "Delaware US Senate",
+   "type": "Senate",
+   "province": "DE",
+   "scope": "General",
+   "has_breakdown": false,
+   "date": "2024-11-05T05:00:00.000Z"
+  },
+  {
+   "id": 32940,
+   "name": "California US Senate Special",
+   "type": "Senate",
+   "province": "CA",
+   "scope": "General",
+   "has_breakdown": true,
+   "date": "2024-11-05T05:00:00.000Z"
+  },
+  {
+   "id": 2146,
+   "name": "Maryland United States Senate Election (Class I)",
+   "type": "Senate",
+   "province": "MD",
+   "scope": "General",
+   "has_breakdown": true,
+   "date": "2024-11-05T05:00:00.000Z"
+  },
+  {
+   "id": 29243,
+   "name": "Arizona US Senate",
+   "type": "Senate",
+   "province": "AZ",
+   "scope": "General",
+   "has_breakdown": true,
+   "date": "2024-11-05T05:00:00.000Z"
+  },
+  {
+   "id": 29253,
+   "name": "Arizona US Senate Democratic Primary",
+   "type": "Senate",
+   "province": "AZ",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2024-07-30T05:00:00.000Z"
+  },
+  {
+   "id": 29251,
+   "name": "Arizona US Senate Republican Primary",
+   "type": "Senate",
+   "province": "AZ",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2024-07-30T05:00:00.000Z"
+  },
+  {
+   "id": 29191,
+   "name": "Arizona US Senate Green Primary",
+   "type": "Senate",
+   "province": "AZ",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2024-07-30T05:00:00.000Z"
+  },
+  {
+   "id": 32939,
+   "name": "California US Senate Special Open Primary",
+   "type": "Senate",
+   "province": "CA",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2024-03-05T05:00:00.000Z"
+  },
+  {
+   "id": 32986,
+   "name": "California US Senate Open Primary",
+   "type": "Senate",
+   "province": "CA",
+   "scope": "Primary",
+   "has_breakdown": true,
+   "date": "2024-03-05T05:00:00.000Z"
+  },
+  {
+   "id": 29244,
+   "name": "Arizona US Senate",
+   "type": "Senate",
+   "province": "AZ",
+   "scope": "General",
+   "has_breakdown": true,
+   "date": "2022-11-08T05:00:00.000Z"
+  },
+  {
+   "id": 32991,
+   "name": "California US Senate Special",
+   "type": "Senate",
+   "province": "CA",
+   "scope": "General",
+   "has_breakdown": true,
+   "date": "2022-11-08T05:00:00.000Z"
+  },
+  {
+   "id": 32989,
+   "name": "California US Senate",
+   "type": "Senate",
+   "province": "CA",
+   "scope": "General",
+   "has_breakdown": true,
+   "date": "2022-11-08T05:00:00.000Z"
+  },
+  {
+   "id": 87528,
+   "name": "United States Senate",
+   "type": "US Senate",
+   "province": "US",
+   "scope": "General",
+   "has_breakdown": true,
+   "date": "2026-11-03T05:00:00.000Z"
+  }
+ ],
  "detail": {
-  "148898?data=json": {
+  "?data=json": {
    "status": 200,
    "keys": [
     "election_name",
@@ -581,272 +576,9 @@
     "candidates",
     "region_results"
    ],
+   "pct": 100,
    "n_regions": 0,
-   "sample_region": null,
-   "candidates": [
-    {
-     "name": "Jonathan S. \u201cJKT\u201d Kreiss-Tomkins",
-     "candidate_id": 369933,
-     "party": "Democratic",
-     "incumbent": false,
-     "major_candidate": false,
-     "winner": true,
-     "advanced": false,
-     "color": "#4874a3",
-     "votes": 134815,
-     "percent": 50.11
-    },
-    {
-     "name": "Dave Bronson",
-     "candidate_id": 369932,
-     "party": "Republican",
-     "incumbent": false,
-     "major_candidate": false,
-     "winner": false,
-     "advanced": false,
-     "color": "#c6606b",
-     "votes": 121375,
-     "percent": 45.12
-    },
-    {
-     "name": "James W. \u201cJP4\u201d Parkin",
-     "candidate_id": 369934,
-     "party": "Republican",
-     "incumbent": false,
-     "major_candidate": false,
-     "winner": false,
-     "advanced": false,
-     "color": "#e0bb24",
-     "votes": 5682,
-     "percent": 2.11
-    }
-   ]
-  },
-  "148898?data=json&precinct": {
-   "status": 200,
-   "keys": [
-    "election_name",
-    "election_type",
-    "election_scope",
-    "election_date",
-    "country",
-    "province",
-    "district",
-    "municipality",
-    "polls_open",
-    "polls_close",
-    "is_disputed",
-    "has_map",
-    "registered_voters",
-    "percent_reporting",
-    "test_data",
-    "last_updated",
-    "called_at",
-    "round",
-    "maps",
-    "candidates",
-    "region_results"
-   ],
-   "n_regions": 0,
-   "sample_region": null,
-   "candidates": [
-    {
-     "name": "Jonathan S. \u201cJKT\u201d Kreiss-Tomkins",
-     "candidate_id": 369933,
-     "party": "Democratic",
-     "incumbent": false,
-     "major_candidate": false,
-     "winner": true,
-     "advanced": false,
-     "color": "#4874a3",
-     "votes": 134815,
-     "percent": 50.11
-    },
-    {
-     "name": "Dave Bronson",
-     "candidate_id": 369932,
-     "party": "Republican",
-     "incumbent": false,
-     "major_candidate": false,
-     "winner": false,
-     "advanced": false,
-     "color": "#c6606b",
-     "votes": 121375,
-     "percent": 45.12
-    },
-    {
-     "name": "James W. \u201cJP4\u201d Parkin",
-     "candidate_id": 369934,
-     "party": "Republican",
-     "incumbent": false,
-     "major_candidate": false,
-     "winner": false,
-     "advanced": false,
-     "color": "#e0bb24",
-     "votes": 5682,
-     "percent": 2.11
-    }
-   ]
-  },
-  "87069?data=json": {
-   "status": 200,
-   "keys": [
-    "election_name",
-    "election_type",
-    "election_scope",
-    "election_date",
-    "country",
-    "province",
-    "district",
-    "municipality",
-    "polls_open",
-    "polls_close",
-    "is_disputed",
-    "has_map",
-    "registered_voters",
-    "percent_reporting",
-    "test_data",
-    "last_updated",
-    "called_at",
-    "round",
-    "maps",
-    "candidates",
-    "region_results"
-   ],
-   "n_regions": 0,
-   "sample_region": null,
-   "candidates": [
-    {
-     "name": "Byron Donalds",
-     "candidate_id": 220154,
-     "party": "Republican",
-     "incumbent": false,
-     "major_candidate": false,
-     "winner": true,
-     "advanced": false,
-     "color": "#c6606b",
-     "votes": 3540364,
-     "percent": 50.55
-    },
-    {
-     "name": "David Jolly",
-     "candidate_id": 220155,
-     "party": "Democratic",
-     "incumbent": false,
-     "major_candidate": false,
-     "winner": false,
-     "advanced": false,
-     "color": "#4874a3",
-     "votes": 3146432,
-     "percent": 44.92
-    },
-    {
-     "name": "Jeffrey Peter \"Dr. Jeff\" Datto",
-     "candidate_id": 220159,
-     "party": "Independent",
-     "incumbent": false,
-     "major_candidate": false,
-     "winner": false,
-     "advanced": false,
-     "color": "#2a9bbd",
-     "votes": 68504,
-     "percent": 0.98
-    }
-   ]
-  },
-  "87069?data=json&precinct": {
-   "status": 200,
-   "keys": [
-    "election_name",
-    "election_type",
-    "election_scope",
-    "election_date",
-    "country",
-    "province",
-    "district",
-    "municipality",
-    "polls_open",
-    "polls_close",
-    "is_disputed",
-    "has_map",
-    "registered_voters",
-    "percent_reporting",
-    "test_data",
-    "last_updated",
-    "called_at",
-    "round",
-    "maps",
-    "candidates",
-    "region_results"
-   ],
-   "n_regions": 0,
-   "sample_region": null,
-   "candidates": [
-    {
-     "name": "Byron Donalds",
-     "candidate_id": 220154,
-     "party": "Republican",
-     "incumbent": false,
-     "major_candidate": false,
-     "winner": true,
-     "advanced": false,
-     "color": "#c6606b",
-     "votes": 3540364,
-     "percent": 50.55
-    },
-    {
-     "name": "David Jolly",
-     "candidate_id": 220155,
-     "party": "Democratic",
-     "incumbent": false,
-     "major_candidate": false,
-     "winner": false,
-     "advanced": false,
-     "color": "#4874a3",
-     "votes": 3146432,
-     "percent": 44.92
-    },
-    {
-     "name": "Jeffrey Peter \"Dr. Jeff\" Datto",
-     "candidate_id": 220159,
-     "party": "Independent",
-     "incumbent": false,
-     "major_candidate": false,
-     "winner": false,
-     "advanced": false,
-     "color": "#2a9bbd",
-     "votes": 68504,
-     "percent": 0.98
-    }
-   ]
-  },
-  "87088?data=json": {
-   "status": 200,
-   "keys": [
-    "election_name",
-    "election_type",
-    "election_scope",
-    "election_date",
-    "country",
-    "province",
-    "district",
-    "municipality",
-    "polls_open",
-    "polls_close",
-    "is_disputed",
-    "has_map",
-    "registered_voters",
-    "percent_reporting",
-    "test_data",
-    "last_updated",
-    "called_at",
-    "round",
-    "maps",
-    "candidates",
-    "region_results"
-   ],
-   "n_regions": 0,
-   "sample_region": null,
+   "sample": null,
    "candidates": [
     {
      "name": "Rick Jackson",
@@ -874,7 +606,7 @@
     }
    ]
   },
-  "87088?data=json&precinct": {
+  "?data=json&precinct": {
    "status": 200,
    "keys": [
     "election_name",
@@ -899,8 +631,9 @@
     "candidates",
     "region_results"
    ],
+   "pct": 100,
    "n_regions": 0,
-   "sample_region": null,
+   "sample": null,
    "candidates": [
     {
      "name": "Rick Jackson",
@@ -927,6 +660,10 @@
      "percent": 48.89
     }
    ]
+  },
+  "history": {
+   "status": 200,
+   "head": "{\"id\": 87088, \"count\": 16, \"raw\": false, \"filtered\": true, \"timestamps\": [\"2026-10-27T13:40:32.917Z\", \"2026-10-27T13:35:13.204Z\", \"2026-10-27T13:23:26.298Z\", \"2026-10-27T13:12:20.061Z\", \"2026-10-27T12:58:41.830Z\", \"2026-10-27T12:48:05.069Z\", \"2026-10-27T12:41:21.052Z\", \"2026-10-27T12:28:44.633Z\", \"2026-10-27T12:18:33.638Z\", \"2026-10-27T12:06:33.036Z\", \"2026-10-27T11:56:04.226Z\", \"2026-10-27T11:42:41.255Z\", \"2026-10-27T11:29:01.361Z\", \"2026-10-27T11:17:32.110Z\", \"2026-10-27T11:06:16.177Z\", \"2026-10-27T10:00:00.000Z\"]}"
   }
  }
 }
