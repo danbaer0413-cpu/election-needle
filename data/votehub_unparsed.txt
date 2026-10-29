@@ -1,3 +1,13 @@
+NEWS — Judge David Carter rejected the DOJ’s request to force California to set aside mail ballots from roughly 20,000 people the Trump administration claims are not U.S. citizens, per CBS News.
+
+-----
+
+NEWS - Pres. Trump has called on Alaska to exclude Mary Peltola and Daniel J. Sullivan from the general election ballot, alleging fraud.
+
+Absentee ballots have been sent out and early voting began last week.
+
+-----
+
 NEWS — A hacker is attempting to breach the Federal Election Commission's systems, and the agency had to "temporarily shut down" its web-facing services, per an email seen by Reuters.
 
 The FEC regulates campaign finance and plays no role in running elections or counting votes.
@@ -16,9 +26,3 @@ VoteHub collected full Day 1 voter rosters from 242 different Texas county websi
 
 Explore the data below in our Early Vote Tracker:
 votehub.com/2026-early-v...
-
------
-
-NEW — Senate Majority PAC announced a $1.2 million ad campaign for Democrat Scott Colom in Mississippi’s Senate race, targeting Republican Sen. Cindy Hyde-Smith.
-
-Trump won Mississippi by nearly 23 points in 2024; no Democrat has won a Senate race there since 1982.
