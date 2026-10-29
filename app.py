@@ -202,6 +202,8 @@ if view == "Map":
                 import traceback
                 st.warning(f"County map could not be drawn: {type(_e).__name__}: {_e}")
                 st.code(traceback.format_exc()[-1500:])
+            if _color_by.startswith("Over") and float(pd.DataFrame(ready[pick]["summary"]["table"])["counted"].sum()) <= 0:
+                st.info("No votes counted yet, so every county is grey here. Counties turn blue or red as results come in.")
             _tb = pd.DataFrame(ready[pick]["summary"]["table"])
             _big = float(_tb["remaining"].max()) if "remaining" in _tb and len(_tb) else 0.0
             st.caption("Counties are colored by projected final margin. Pale counties have under 5% counted. "

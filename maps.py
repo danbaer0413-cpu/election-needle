@@ -158,7 +158,8 @@ def county_map_figure(summary: dict, state: str, geo, fips: pd.DataFrame, title:
         return go.Figure()
     if color_by == "perf" and "vs_state" in t:
         # over/under-performance: how each county is running against expectations (grey until it has votes counted)
-        t["z"] = (t["vs_expected"].where(t["counted"] > 0, 0.0) * 3).clip(-30, 30)       # x3 so a 5-pt miss shows as a clear color
+        # x3 so a 5-pt miss shows as a clear color; a county with only a sliver counted is faded in (full strength at 15% in) so a few early precincts cannot flash it dark
+        t["z"] = (t["vs_expected"].where(t["counted"] > 0, 0.0) * 3 * (t["pct_in"] / 15.0).clip(0, 1)).clip(-30, 30)
     else:
         t["z"] = t["proj_margin"].clip(-30, 30)
     _er = t["early_returned"] if "early_returned" in t else pd.Series(0.0, index=t.index)
