@@ -37,6 +37,10 @@ jobs:
       - name: Pull early vote from civicAPI (free, credit civicAPI; failure is fine)
         continue-on-error: true
         run: python civic_early.py
+      - name: Automated calls (two sources must agree; failure is fine)
+        if: github.event_name == 'workflow_dispatch' || contains('*/10 23 3 11 *|*/10 0-13 4 11 *', github.event.schedule)
+        continue-on-error: true
+        run: python auto_calls.py
       - name: Pull polls from PollResults.org (NYT poll data, CC BY 4.0; failure is fine)
         if: github.event_name == 'workflow_dispatch' || contains('7 */12 * * *|17 */3 30-31 10 *|17 */3 1-2 11 *', github.event.schedule)
         continue-on-error: true
@@ -51,7 +55,7 @@ jobs:
           git config user.email "needle-bot@users.noreply.github.com"
           for f in data/latest.json data/needle_log.csv data/votehub_latest.csv data/votehub_history.csv data/votehub_state.json data/votehub_unparsed.txt data/votehub_raw.jsonl \
                    data/poll_inputs_auto.csv data/polls_all.csv data/poll_average.json data/polls_raw data/bsky_raw.json \
-                   data/bsky_unmatched.txt data/poll_compare.csv data/night/early_civic.csv data/civic_early_log.csv data/house/lean.json; do
+                   data/bsky_unmatched.txt data/poll_compare.csv data/night/early_civic.csv data/civic_early_log.csv data/house/lean.json data/auto_calls.csv data/calls_pending.csv data/auto_calls_log.csv; do
             if [ -e "$f" ]; then git add "$f"; fi
           done
           # early vote files the model merged into (returned ballots only go up, so keep them)
