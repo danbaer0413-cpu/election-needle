@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T00:51:49+00:00",
+ "updated": "2026-10-29T06:52:41+00:00",
  "source": "Cook Political Report via 270toWin, Oct 23 2026",
  "districts": [
   {
@@ -106,9 +106,9 @@
    "district": "3",
    "rating": "Likely Dem",
    "m0": 9.0,
-   "early_adj": -0.78,
+   "early_adj": -0.79,
    "early_margin": 17.8,
-   "m": 8.22,
+   "m": 8.21,
    "bin": "Likely D",
    "called": null
   },
@@ -250,7 +250,7 @@
    "rating": "Leans Dem",
    "m0": 5.0,
    "early_adj": 1.13,
-   "early_margin": 22.4,
+   "early_margin": 22.5,
    "m": 6.13,
    "bin": "Lean D",
    "called": null
@@ -271,9 +271,9 @@
    "district": "3",
    "rating": "Leans Dem",
    "m0": 5.0,
-   "early_adj": 0.32,
+   "early_adj": 0.31,
    "early_margin": 26.9,
-   "m": 5.32,
+   "m": 5.31,
    "bin": "Lean D",
    "called": null
   },
@@ -403,9 +403,9 @@
    "district": "22",
    "rating": "Toss-up",
    "m0": 0.0,
-   "early_adj": 0.42,
-   "early_margin": 11.8,
-   "m": 0.42,
+   "early_adj": 0.43,
+   "early_margin": 11.9,
+   "m": 0.43,
    "bin": "Toss-up",
    "called": null
   },
@@ -799,9 +799,9 @@
    "district": "16",
    "rating": "Likely Rep",
    "m0": -9.0,
-   "early_adj": -0.65,
+   "early_adj": -0.66,
    "early_margin": -6.2,
-   "m": -9.65,
+   "m": -9.66,
    "bin": "Likely R",
    "called": null
   },
