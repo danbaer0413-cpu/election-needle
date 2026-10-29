@@ -161,14 +161,19 @@ def early_adjustments(log=print) -> dict:
 
 def load_called() -> dict:
     p = "data/house/called.csv"
-    if not os.path.exists(p) or os.path.getsize(p) == 0:
-        return {}
-    c = pd.read_csv(p, dtype=str).fillna("")
     out = {}
-    for r in c.to_dict("records"):
-        w = r.get("winner", "").strip().upper()[:1]
-        if w in ("D", "R") and r.get("state"):
-            out[(r["state"].strip().upper(), _dk(r["district"]))] = w
+    if os.path.exists(p) and os.path.getsize(p) > 0:
+        c = pd.read_csv(p, dtype=str).fillna("")
+        for r in c.to_dict("records"):
+            w = r.get("winner", "").strip().upper()[:1]
+            if w in ("D", "R") and r.get("state"):
+                out[(r["state"].strip().upper(), _dk(r["district"]))] = w
+    if os.path.exists("data/auto_calls.csv"):                 # automated calls (two sources agreed); typed calls above always win
+        a = pd.read_csv("data/auto_calls.csv", dtype=str).fillna("")
+        for r in a.to_dict("records"):
+            if r.get("kind") == "house" and r.get("winner") in ("D", "R") and "-" in r.get("race", ""):
+                st_, d_ = r["race"].split("-", 1)
+                out.setdefault((st_.strip().upper(), _dk(d_)), r["winner"])
     return out
 
 

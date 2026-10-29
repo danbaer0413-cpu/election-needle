@@ -1,0 +1,8 @@
+{
+  "_note": "Bluesky accounts whose posts count as one source each for a call. A call is written only when min_sources sources agree (civicAPI counts as one). I have NOT verified these handles - check each is the real, official account before relying on it, and add or remove as you like.",
+  "accounts": ["apnews.com", "decisiondeskhq.com"],
+  "min_sources": 2,
+  "civic": true,
+  "not_before": "2026-11-03T21:00:00Z",
+  "max_age_hours": 96
+}

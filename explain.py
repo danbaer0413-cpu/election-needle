@@ -14,6 +14,15 @@ TIER_NOTE = {"Solid D": "Solid D", "Lean D": "Lean D", "Toss-up": "Toss-up",
              "Lean R": "Lean R", "Solid R": "Solid R"}
 
 
+def _dr(x: float) -> str:
+    return "Even" if abs(x) < 0.05 else f"{'D' if x > 0 else 'R'}+{abs(x):.1f}"
+
+
+def _pts(x: float) -> str:
+    """A shift in points, named by who it favors (e.g. 'D+1.2')."""
+    return _dr(x)
+
+
 def _votes(x: float) -> str:
     return f"{x:+,.0f}"
 
@@ -33,12 +42,12 @@ def inputs_lines(s: dict) -> list[str]:
     else:
         extra = []
         if i.get("poll_bias"):
-            extra.append(f"history-based bias {i['poll_bias']:+.1f}")
+            extra.append(f"history-based bias {_pts(i['poll_bias'])}")
         if i.get("poll_skew"):
             extra.append(f"skew shape {i['poll_skew']:+.1f}")
-        L.append(f"**Polls:** average margin {i['poll_margin']:+.1f} (Dem minus GOP), polling-error "
+        L.append(f"**Polls:** average margin {_dr(i['poll_margin'])}, polling-error "
                  f"spread {i['sd_poll']:.1f}" + (f", {', '.join(extra)}" if extra else "") + ".")
-    L.append(f"**Baseline:** statewide margin {i['baseline_margin']:+.1f} built from {i['units']} reporting units.")
+    L.append(f"**Baseline:** statewide margin {_dr(i['baseline_margin'])} built from {i['units']} reporting units.")
     if i["units_with_early"]:
         pct = i["early_returned"] / max(i["early_expected_final"], 1) * 100
         kind = "party registration and geography" if i["early_party_data"] else "geography only (no party data)"
@@ -55,7 +64,7 @@ def inputs_lines(s: dict) -> list[str]:
         if vh.get("pct_of_final"):
             t += f", {vh['pct_of_final']:.1f}% of their projected final turnout of {vh.get('implied_final') or 0:,.0f} (about {(vh.get('implied_final') or 0) - (vh.get('total') or 0):,.0f} still to come)"
         if vh.get("early_margin") is not None:
-            t += f"; their modeled vote of ballots cast {vh.get('dem')} vs {vh.get('rep')} = {vh['early_margin']:+.1f} two-party among ballots cast ({('used as a bounded signal: their house bias of ' + format(vh['bias'], '+.1f') + ' removed across ' + str(vh['states']) + ' states, effect on the median ' + format(vh['effect'], '+.2f') + ' pts') if vh.get('effect') is not None else 'shown; used only once 3+ states have posted'})"
+            t += f"; their modeled vote of ballots cast {vh.get('dem')} vs {vh.get('rep')} = {_dr(vh['early_margin'])} two-party among ballots cast ({('used as a bounded signal: their house bias of ' + format(vh['bias'], '+.1f') + ' removed across ' + str(vh['states']) + ' states, effect on the median ' + format(vh['effect'], '+.2f') + ' pts') if vh.get('effect') is not None else 'shown; used only once 3+ states have posted'})"
         if vh.get("rating"):
             t += f"; their rating: {vh['rating']} (display only)"
         L.append(t + ".")
@@ -82,9 +91,9 @@ def inputs_lines(s: dict) -> list[str]:
 
 
 def drivers_lines(s: dict) -> list[str]:
-    L = [f"Estimated swing vs baseline: **{s['swing']:+.1f}** (±{s['swing_sd']:.1f})."]
+    L = [f"Estimated swing vs baseline: **{_pts(s['swing'])}** (±{s['swing_sd']:.1f})."]
     for d in sorted(s.get("drivers") or [], key=lambda d: -d["weight"]):
-        L.append(f"- {LABELS.get(d['source'], d['source'])}: points to {d['swing']:+.1f}, "
+        L.append(f"- {LABELS.get(d['source'], d['source'])}: points to {_pts(d['swing'])}, "
                  f"{d['weight']:.0f}% of the estimate")
     i = s.get("inputs") or {}
     if i:
@@ -109,7 +118,7 @@ def firewall_lines(s: dict) -> list[str]:
     tab = s.get("table")
     if isinstance(tab, pd.DataFrame) and len(tab):
         top = tab.sort_values("remaining", ascending=False).head(3)
-        bits = [f"{x.county} ({x.remaining:,.0f} out, projected {x.proj_margin:+.1f})" for x in top.itertuples()
+        bits = [f"{x.county} ({x.remaining:,.0f} out, projected {_dr(x.proj_margin)})" for x in top.itertuples()
                 if x.remaining > 0]
         if bits:
             L.append("Biggest outstanding piles: " + "; ".join(bits) + ".")
@@ -126,8 +135,8 @@ def outcome_lines(s: dict) -> list[str]:
                     if o.get("p_d_wins_runoff_given") is not None else ""))
     fr = s.get("first_round")
     if fr:
-        L.append(f"Ranked-choice: first-round margin about {fr['median']:+.1f} (Dem win {fr['win_prob'] * 100:.0f}%); "
-                 f"after transfers {s['median']:+.1f} (Dem win {s['win_prob'] * 100:.0f}%).")
+        L.append(f"Ranked-choice: first-round margin about {_dr(fr['median'])} (Dem win {fr['win_prob'] * 100:.0f}%); "
+                 f"after transfers {_dr(s['median'])} (Dem win {s['win_prob'] * 100:.0f}%).")
     return L
 
 
@@ -146,23 +155,47 @@ def behind_lines(s: dict, pa_avg: float | None = None) -> list[str]:
     """Plain-language table: each source, what it says, how much it counts."""
     drv = sorted(s.get("drivers") or [], key=lambda d: -d["weight"])
     base = (s.get("inputs") or {}).get("baseline_margin")
+    dr = lambda x: "Even" if abs(x) < 0.05 else f"{'D' if x > 0 else 'R'}+{abs(x):.1f}"
     L = []
     if base is not None:
         m, sd = float(s["median"]), float(s.get("swing_sd") or 0)
-        head = f"**Model: {m:+.1f}** (Dem minus GOP), start point {base:+.1f}"
+        head = f"**Model: {dr(m)}**, start point {dr(base)}"
         if pa_avg is not None:
-            head += f"; polling average {pa_avg:+.1f}, so the other evidence moves it **{m - pa_avg:+.1f}**"
+            diff = m - pa_avg
+            head += f"; polling average {dr(pa_avg)}, so the other evidence moves it **{abs(diff):.1f} pts toward {'Democrats' if diff > 0 else 'Republicans'}**" if abs(diff) >= 0.05 else f"; polling average {dr(pa_avg)}, the same as the model"
         L.append(head + ".")
     if drv:
         L.append("\n| Source | What it says | Share of the estimate |\n|---|---|---|")
         for d in drv:
             name = SRC_TEXT.get(d["source"], LABELS.get(d["source"], d["source"]))
-            L.append(f"| {name} | {float(d['swing']) + float(base or 0):+.1f} margin | {d['weight']:.0f}% |")
+            L.append(f"| {name} | {dr(float(d['swing']) + float(base or 0))} | {d['weight']:.0f}% |")
     i = s.get("inputs") or {}
     if i:
         L.append(f"Early vote loaded: {i.get('early_returned', 0):,.0f} ballots"
                  + ("; party data used, but capped so it can't swing the result more than 1.5 pts." if i.get("early_party_data")
                     else "; no party data, so only geography is read.")
                  + f" About {i.get('outstanding_share', 0) * 100:.0f}% of the vote is still out.")
+    _p = performance_line(s)
+    if _p:
+        L.append(_p)
     L.append("The rating (Toss-up, Tilt, Lean, Likely, Solid) comes from the model win chance; polls can miss by 5+ points, so treat it as a lean, not a lock.")
     return L
+
+
+def performance_line(s: dict) -> str | None:
+    """One line: is the statewide count running more Democratic or Republican than expected, and which counties drive it."""
+    t = s.get("table")
+    if not isinstance(t, pd.DataFrame) or "vs_expected" not in t or "counted" not in t:
+        return None
+    t = t[t["counted"] > 0]
+    if t.empty or float(t["counted"].sum()) <= 0:
+        return None
+    w = t["counted"].astype(float)
+    avg = float((t["vs_expected"] * w).sum() / w.sum())
+    side = "more Democratic" if avg > 0 else "more Republican"
+    if abs(avg) < 0.3:
+        return "So far the count is running about as expected statewide."
+    big = t.assign(push=(t["vs_expected"] * w) * (1 if avg > 0 else -1)).sort_values("push", ascending=False)
+    names = [f"{r.county} ({_pts(r.vs_expected)})" for r in big.head(2).itertuples() if r.push > 0]
+    return (f"So far the count is running **{abs(avg):.1f} points {side} than expected** statewide"
+            + (f", led by {' and '.join(names)}." if names else "."))

@@ -59,7 +59,7 @@ def hover(d: dict) -> str:
     t = f"<b>{code}</b><br>{d['bin']}<br>Cook: {d['rating']}"
     if d.get("early_margin") is not None:
         t += f"<br>Early vote (party reg.): {'D' if d['early_margin'] >= 0 else 'R'}+{abs(d['early_margin']):.0f}"
-        t += f"<br>Early-vote adjustment: {d['early_adj']:+.1f} pts"
+        t += f"<br>Early-vote adjustment: {('toward D ' if d['early_adj'] > 0 else 'toward R ' if d['early_adj'] < 0 else '')}{abs(d['early_adj']):.1f} pts"
     else:
         t += "<br>Rating only (no district early-vote data)"
     return t

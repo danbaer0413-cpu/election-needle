@@ -48,6 +48,20 @@ def _votes_line(counted, early, remaining) -> str:
     return out + f"<br>about {_fmt_n(remaining)} votes left to count"
 
 
+def _perf_line(counted, cm, ve, vs) -> str:
+    """Hover line: how the counted vote compares with expectations (only once votes are in)."""
+    try:
+        if float(counted) <= 0 or cm != cm or ve != ve:
+            return ""
+        side = lambda x: f"{'D' if x > 0 else 'R'}+{abs(x):.1f}"
+        out = f"<br>Counted so far: {side(cm)}; {'more Democratic' if ve > 0 else 'more Republican'} than expected by {abs(ve):.1f}"
+        if vs == vs:
+            out += f"<br>vs rest of state: {'bluer' if vs > 0 else 'redder'} by {abs(vs):.1f}"
+        return out
+    except Exception:
+        return ""
+
+
 def _state_votes(s: dict) -> tuple[float, float, float]:
     """(counted, remaining, early ballots returned) votes statewide from the unit table."""
     t = s.get("table")
@@ -131,7 +145,7 @@ def load_geo(folder="data/geo"):
     return json.load(open(p)), pd.read_csv(q, dtype={"fips": str})
 
 
-def county_map_figure(summary: dict, state: str, geo, fips: pd.DataFrame, title: str = "", bubbles: bool = True, bubble_by: str = "remaining"):
+def county_map_figure(summary: dict, state: str, geo, fips: pd.DataFrame, title: str = "", bubbles: bool = True, bubble_by: str = "remaining", color_by: str = "margin"):
     from model import norm_name
     t = pd.DataFrame(summary["table"])
     for _c in ("proj_margin", "pct_in", "base_margin", "counted", "remaining", "early_returned"):
@@ -142,10 +156,16 @@ def county_map_figure(summary: dict, state: str, geo, fips: pd.DataFrame, title:
     t = t.dropna(subset=["fips"]).copy()
     if t.empty:
         return go.Figure()
-    t["z"] = t["proj_margin"].clip(-30, 30)
+    if color_by == "perf" and "vs_state" in t:
+        # over/under-performance: how each county is running against expectations (grey until it has votes counted)
+        t["z"] = (t["vs_expected"].where(t["counted"] > 0, 0.0) * 3).clip(-30, 30)       # x3 so a 5-pt miss shows as a clear color
+    else:
+        t["z"] = t["proj_margin"].clip(-30, 30)
     _er = t["early_returned"] if "early_returned" in t else pd.Series(0.0, index=t.index)
-    t["hover"] = [f"<b>{c}</b><br>Projected {'D' if pm > 0 else 'R'}+{abs(pm):.1f}<br>{pi:.0f}% counted · baseline {bm:+.1f}" + _votes_line(cn, er, rm)
-                  for c, pm, pi, bm, cn, er, rm in zip(t["county"], t["proj_margin"], t["pct_in"], t["base_margin"], t["counted"], _er, t["remaining"])]
+    _nan = pd.Series(float("nan"), index=t.index)
+    _cm, _ve, _vs = (t[c] if c in t else _nan for c in ("counted_margin", "vs_expected", "vs_state"))
+    t["hover"] = [f"<b>{c}</b><br>Projected {'D' if pm > 0 else 'R'}+{abs(pm):.1f}<br>{pi:.0f}% counted · baseline {'D' if bm > 0 else 'R'}+{abs(bm):.1f}" + _votes_line(cn, er, rm) + _perf_line(cn, a, b_, c_)
+                  for c, pm, pi, bm, cn, er, rm, a, b_, c_ in zip(t["county"], t["proj_margin"], t["pct_in"], t["base_margin"], t["counted"], _er, t["remaining"], _cm, _ve, _vs)]
     fig = go.Figure()
     scale = [[0, R3], [0.5, "#f2f2f2"], [1, D3]]
     for flag, op in ((False, 0.4), (True, 1.0)):
@@ -234,7 +254,7 @@ def district_map_figure(summary: dict, geo: dict, title: str = "", bubbles: bool
         op = 1.0 if float(r.pct_in) >= COUNTY_REPORTING_MIN else 0.4
         rgb = _margin_rgb(z)
         hover = (f"<b>{r.county}</b><br>Projected {'D' if z > 0 else 'R'}+{abs(z):.1f}"
-                 f"<br>{float(r.pct_in):.0f}% counted · baseline {float(r.base_margin):+.1f}"
+                 f"<br>{float(r.pct_in):.0f}% counted · baseline {'D' if float(r.base_margin) > 0 else 'R'}+{abs(float(r.base_margin)):.1f}"
                  + _votes_line(r.counted, getattr(r, "early_returned", 0), r.remaining))
         fig.add_trace(go.Scatter(x=xs, y=ys, mode="lines", fill="toself", fillcolor=f"rgba({rgb[0]},{rgb[1]},{rgb[2]},{op})",
                                  line=dict(color="white", width=0.6), hoveron="fills", text=hover, hoverinfo="text", showlegend=False))

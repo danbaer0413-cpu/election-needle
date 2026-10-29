@@ -440,6 +440,9 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
         "proj_margin": two_party_margin(D_pt, R_pt).round(1),
         "base_margin": m0.round(1),
         "early_returned": E_ret.round(0),                                # early / mail ballots returned so far (loaded early vote)
+        "counted_margin": np.where(has, obs_margin, 0.0).round(1),     # margin among the votes counted so far
+        "vs_expected": np.where(has, d_i, 0.0).round(1),              # counted margin minus what we expected from those votes before the election (+ = more Democratic)
+        "vs_state": np.where(has, d_i - S_hat, 0.0).round(1),         # same, after removing the statewide swing: how this county is running vs the rest of the state
     })
     table.loc[~has & ~final, "pct_in"] = 0.0
 

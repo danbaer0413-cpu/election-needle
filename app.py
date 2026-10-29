@@ -17,7 +17,7 @@ except ImportError:
 
     def load_ak_geo():
         return None
-from explain import behind_lines, drivers_lines, firewall_lines, inputs_lines, outcome_lines
+from explain import behind_lines, performance_line, drivers_lines, firewall_lines, inputs_lines, outcome_lines
 import changes
 from publish import from_json_summary, read_log
 from states import STATES
@@ -129,7 +129,14 @@ if st.session_state.get("flash_on", True) and not st.session_state.get("flash_do
     st.stop()
 
 # ---------------------------------------------------------------- map view
-view = st.radio("View", ["Race", "Map", "House"], horizontal=True, label_visibility="collapsed", key="view")
+view = st.radio("View", ["Race", "Map", "Senate", "House"], horizontal=True, label_visibility="collapsed", key="view")
+if view == "Senate":
+    try:
+        import senate_view
+        senate_view.render(st, ready, label, changes.rating_text)
+    except Exception as _ex:
+        st.info(f"The Senate view is not available yet ({str(_ex)[:160]}).")
+    st.stop()
 if view == "House":
     try:
         import house_view
@@ -185,8 +192,11 @@ if view == "Map":
             _by = st.radio("Bubble size", ["Votes left to count", "Early ballots returned"], horizontal=True, key="bubble_by",
                            label_visibility="collapsed") if _bub else "Votes left to count"
             _bcol = "early_returned" if _by.startswith("Early") else "remaining"
+            _color_by = st.radio("Color counties by", ["Projected margin", "Over/under-performance"], horizontal=True, key="color_by",
+                                 help="Over/under-performance: blue = the count there is running more Democratic than expected, red = more Republican. Grey until votes are in.")
             try:
-                st.plotly_chart(county_map_figure(ready[pick]["summary"], st_code, geo, fx, bubbles=_bub, bubble_by=_bcol), use_container_width=True,
+                st.plotly_chart(county_map_figure(ready[pick]["summary"], st_code, geo, fx, bubbles=_bub, bubble_by=_bcol,
+                                                  color_by="perf" if _color_by.startswith("Over") else "margin"), use_container_width=True,
                                 config={"displayModeBar": False})
             except Exception as _e:
                 import traceback
@@ -256,6 +266,9 @@ _shown[rid] = _end
 _ph.plotly_chart(needle_figure(s, compact=True, wiggle=wiggle), use_container_width=True, config={"displayModeBar": False}, key=f"needle_{rid}_final")
 st.caption("Needle = middle estimate. Dark band: 80% range (the headline range). Light band: 90% range. Margins are Dem minus GOP. "
            "As votes are counted the bands narrow and the needle moves to where the model now expects the race to land.")
+_perf = performance_line(s)
+if _perf:
+    st.info(_perf)
 for line in outcome_lines(s)[:2]:
     st.info(line)
 
@@ -306,7 +319,7 @@ if pa and pa.get("points"):
             st.caption("Too few polls for a trend line yet - showing the individual polls only.")
         st.caption(f"Our own average of every poll we collect: weighted by pollster grade, sample size and recency, "
                    f"adjusted for pollsters' usual lean. Dots are single polls (bigger = more weight). "
-                   f"80% range {pa['lo']:+.1f} to {pa['hi']:+.1f}. Margins are Dem minus GOP.")
+                   f"80% range {fmt_range(float(pa['lo']), float(pa['hi']))}. D+ = Democratic lead, R+ = Republican lead.")
         rec = sorted(pa["points"], key=lambda p: p["date"], reverse=True)[:10]
         st.dataframe(pd.DataFrame(rec)[["date", "pollster", "grade", "margin"]], use_container_width=True, hide_index=True)
 with st.expander("What's been inputted"):
@@ -317,9 +330,21 @@ if len(hist) > 1:
     with st.expander("How the projection has moved"):
         st.plotly_chart(history_figure(hist), use_container_width=True, config={"displayModeBar": False})
 with st.expander("County / unit table"):
-    t = s["table"].sort_values("remaining", ascending=False)
+    t = s["table"].sort_values("remaining", ascending=False).copy()
+    _dr = lambda x: "-" if x != x else ("Even" if abs(x) < 0.05 else f"{'D' if x > 0 else 'R'}+{abs(x):.1f}")
+    _has = t["counted"] > 0 if "counted" in t else None
+    for _c in ("proj_margin", "base_margin"):
+        if _c in t:
+            t[_c] = t[_c].astype(float).map(_dr)
+    for _c in ("counted_margin", "vs_expected", "vs_state"):
+        if _c in t:
+            t[_c] = [(_dr(v) if h else "-") for v, h in zip(t[_c].astype(float), _has)]
+    t = t.rename(columns={"proj_margin": "Projected final", "base_margin": "Baseline", "counted_margin": "Counted so far",
+                          "vs_expected": "vs expected", "vs_state": "vs rest of state"})
     st.dataframe(t, use_container_width=True, hide_index=True,
                  column_config={"pct_in": st.column_config.ProgressColumn("% in", min_value=0, max_value=100, format="%.0f%%")})
+    st.caption("Margins read D+ for a Democratic lead and R+ for a Republican lead. 'vs expected' and 'vs rest of state' show how far a county is running "
+               "from what the model expected (D+ = bluer, R+ = redder), once it has votes counted.")
 
 # ---------------------------------------------------------------- tucked-away settings
 with st.expander("Settings"):

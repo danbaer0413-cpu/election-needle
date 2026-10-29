@@ -1,0 +1,13 @@
+{
+  "_note": "Seats NOT on the 2026 ballot or not covered by a needle. Current Senate 53 R - 47 D (the 47 includes independents Sanders and King, who caucus with Democrats). 35 seats are up: 15 covered here, 20 not. Holdover = seat not up in 2026. Safe = up in 2026 but not covered here and not in play.",
+  "holdover_D": 34,
+  "holdover_R": 31,
+  "safe_D": 9,
+  "safe_R": 11,
+  "safe_D_states": "CO, DE, IL, MA, NJ, NM, OR, RI, VA",
+  "safe_R_states": "AL, AR, ID, KY, LA, MT, OK, SD, TN, WV, WY",
+  "majority_D": 51,
+  "majority_R": 50,
+  "majority_note": "Democrats need 51 for control. Republicans need 50, because the Vice President (a Republican) breaks a 50-50 tie.",
+  "contested": ["OH-senate", "MI-senate", "MN-senate", "IA-senate", "KS-senate", "NE-senate", "ME-senate", "AK-senate", "TX-senate", "SC-senate", "MS-senate", "GA-senate", "NH-senate", "FL-senate", "NC-senate"]
+}

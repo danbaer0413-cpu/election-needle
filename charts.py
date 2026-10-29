@@ -84,6 +84,24 @@ def needle_figure(summary: dict, R: float = 15.0, title: str = "", compact: bool
     return fig
 
 
+def dr(v: float, d: int = 1) -> str:
+    """Margin as D+x / R+x ('Even' at zero). The model keeps the signed number; this is display only."""
+    return "Even" if abs(v) < 0.5 * 10 ** -d else f"{'D' if v > 0 else 'R'}+{abs(v):.{d}f}"
+
+
+def dr_axis(fig, ys) -> None:
+    """Label the y axis D+/R+ instead of positive/negative numbers."""
+    import math
+    ys = [float(v) for v in ys if v is not None and v == v]
+    if not ys:
+        return
+    lo, hi = min(ys + [0.0]), max(ys + [0.0])
+    step = 2 if hi - lo <= 14 else 5 if hi - lo <= 40 else 10
+    a, b = math.floor(lo / step) * step, math.ceil(hi / step) * step
+    vals = list(range(int(a), int(b) + 1, step))
+    fig.update_yaxes(tickvals=vals, ticktext=["Even" if v == 0 else f"{'D' if v > 0 else 'R'}{abs(v)}" for v in vals])
+
+
 def history_figure(hist, true_margin: float | None = None):
     """hist: list of dicts with pct_in, median, p10, p90."""
     import plotly.graph_objects as go
@@ -101,8 +119,9 @@ def history_figure(hist, true_margin: float | None = None):
         fig.add_hline(y=true_margin, line_color="green", line_dash="dash",
                       annotation_text="final (replay only)")
     fig.update_layout(height=260, margin=dict(l=4, r=4, t=10, b=4),
-                      xaxis_title="% of expected vote counted", yaxis_title="Margin (D-R, pts)",
+                      xaxis_title="% of expected vote counted", yaxis_title="Margin (pts)",
                       legend=dict(orientation="h", y=1.15))
+    dr_axis(fig, [h["p90"] for h in hist] + [h["p10"] for h in hist] + [h["median"] for h in hist] + ([true_margin] if true_margin is not None else []))
     return fig
 
 
@@ -120,10 +139,11 @@ def poll_figure(pa: dict):
     pts = pa["points"]
     fig.add_trace(go.Scatter(x=[p["date"] for p in pts], y=[p["margin"] for p in pts], mode="markers", name="Polls",
                              marker=dict(size=[6 + 22 * min(1.0, p["weight"]) for p in pts], color="rgba(60,60,60,0.45)"),
-                             text=[f"{p['pollster']} ({p['grade']}) {p['margin']:+.1f}" for p in pts], hoverinfo="text"))
+                             text=[f"{p['pollster']} ({p['grade']}) {dr(p['margin'])}" for p in pts], hoverinfo="text"))
     if ser:
         fig.add_trace(go.Scatter(x=x, y=[d["avg"] for d in ser], mode="lines", line=dict(color="black", width=3), name="Our average"))
     fig.add_hline(y=0, line_color="gray", line_dash="dot")
-    fig.update_layout(height=280, margin=dict(l=4, r=4, t=10, b=4), yaxis_title="Margin (D-R, pts)",
+    fig.update_layout(height=280, margin=dict(l=4, r=4, t=10, b=4), yaxis_title="Margin (pts)",
                       legend=dict(orientation="h", y=1.15))
+    dr_axis(fig, [d["hi"] for d in ser] + [d["lo"] for d in ser] + [p["margin"] for p in pts])
     return fig

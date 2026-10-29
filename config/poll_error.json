@@ -66,7 +66,7 @@
   "adjusted_oos": 3.99
  },
  "race_bias": {
-  "_note": "Candidate-specific poll miss added to a race's poll margin (+ = polls understate Dems), e.g. an incumbent who runs ahead of polls. Race id -> points. Empty = none.",
-  "ME-senate": 0.0
+  "_note": "Candidate-specific poll miss added to a race's poll margin (+ = polls understate Dems, - = understate the GOP), e.g. an incumbent who runs ahead of polls. Race id -> points. ME-senate -2.0: Collins has beaten her polls in past races (2020 by about 11 pts); set to 0 to remove.",
+  "ME-senate": -2.0
  }
 }
