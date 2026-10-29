@@ -1,0 +1,9 @@
+time,event,kind,race,winner,sources
+2026-10-29T23:21+00:00,pending,house,AZ-1,R,civicapi
+2026-10-29T23:21+00:00,pending,house,AZ-2,R,civicapi
+2026-10-29T23:21+00:00,pending,house,AZ-6,R,civicapi
+2026-10-29T23:21+00:00,pending,house,CA-13,D,civicapi
+2026-10-29T23:21+00:00,pending,house,CA-22,R,civicapi
+2026-10-29T23:21+00:00,pending,house,CA-45,D,civicapi
+2026-10-29T23:21+00:00,pending,house,CA-48,R,civicapi
+2026-10-29T23:21+00:00,pending,house,CO-8,R,civicapi
