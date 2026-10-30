@@ -1,7 +1,7 @@
 id,manual,auto,auto_minus_manual
 AK-senate,4.13,1.89,-2.24
-FL-governor,-4.88,-8.01,-3.13
-FL-senate,-6.71,-8.96,-2.25
+FL-governor,-4.88,-5.25,-0.37
+FL-senate,-6.71,-7.55,-0.84
 GA-governor,-1.4,-1.2,0.2
 GA-senate,9.48,12.61,3.13
 IA-senate,0.86,1.72,0.86
@@ -9,8 +9,8 @@ KS-governor,-4.39,-4.79,-0.4
 KS-senate,1.08,0.9,-0.18
 ME-governor,12.81,12.37,-0.44
 ME-senate,2.0,4.25,2.25
-MI-senate,3.3,4.51,1.21
-MN-senate,5.15,6.38,1.23
+MI-senate,3.3,4.97,1.67
+MN-senate,5.15,7.4,2.25
 NC-senate,10.3,12.03,1.73
 NE-governor,-3.82,-4.97,-1.15
 NE-senate,0.54,-0.68,-1.22
