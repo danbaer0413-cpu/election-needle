@@ -1,3 +1,9 @@
+South Dakota - Governor Polling:  🔴 Rhoden: 48%* 🔵 Ahlers: 39%  Concord / Oct 26, 2026
+Arizona - Governor Polling:  🔵 Hobbs: 51% 🔴 Biggs: 45%  Noble Predictive / Oct 2026
+South Dakota - Senate Polling:  ⚪ Bengs 43% 🔴 Rounds 41%*  Concord / Oct 26, 2026
+Generic Ballot Polling:  🔵 Democrat: 47% 🔴 Republican: 43%  YouGov/Penn State / Oct 20, 2026
+Florida Polling:  Senate: 🔴 Moody: 49% 🔵 Nixon: 47%  Governor: 🔵 Jolly: 48% 🔴 Donalds: 46%  Angie Nixon Internal / Oct 2026
+Generic Ballot Polling:  🔵 Democrat: 52% 🔴 Republican: 42%  Emerson / Oct 26, 2026
 Generic Ballot Polling:  🔵 Democrat: 54% 🔴 Republican: 41%  Honest Poll / Oct 29, 2026
 Generic Ballot Polling:  🔵 Democrat: 55%  🔴 Republican: 45%  Verasight/TA / Oct 23, 2026
 Montana Polling:  Senate: 🔴 Alme: 30% ⚪️ Bodnar: 26% 🔵 Bankhead: 21% ⚪️ Austin: 3%  1st House - (Trump +11): 🔵 Forstag: 49% 🔴 Flint: 32% ⚪️ Sheedy: 4%  Montana State / Oct 21, 2026  (Current MT-1 Model: DEM 51% - GOP 49%) (Current MT-SEN Model: GOP 47% - DEM 41%) unitedstatespolling.com/p/the-gops-m
@@ -142,8 +148,3 @@ New York - Governor Polling:  🔵Hochul: 48%* 🔴Blakeman: 41%  co/efficient /
 Illinois Polling:  Governor: 🔵Pritzker: 54% 🔴Bailey: 34% ⚪️Corbett: 6%  Senate: 🔵Stratton: 49% 🔴Tracy: 36%  PPP/Chicago News Weekly / Oct 1, 2026  (Dem Pollster)  (Current IL-GOV model result: DEM 59% - GOP 33%) (Current IL-SEN model result: DEM 60% - GOP 36%)  unitedstatespolling.com/p/democrats-..
 Florida - 16th House Polling - (Trump +16 District)  🔴Gruters: 43% 🔵Kirschner: 39%  PPP / Oct 2, 2026  (Democratic Pollster)  (Current model result in FL-16 is DEM 50% - GOP 50%)  unitedstatespolling.com/p/democrats-...
 West Virginia - State Senate Polling:  District 1 - (Trump +39): 🔴Chapman: 48% 🔵Fluharty: 43%  District 8 - (Trump +27) 🔴Wheeler: 46% 🔵Hundley: 40%  State Navigate / Oct 1, 2026
-Trump Approval Polling:  Disapprove: 56% Approve: 43% Net: -13%  Rasmussen / Oct 4, 2026  (Republican Pollster)
-California - Governor Polling:  🔵Becerra: 48% 🔴Hilton: 38%  IVC Media / Oct 2, 2026  (Current model result in CA-GOV is DEM 66% - GOP 34%)  unitedstatespolling.com/p/democrats-...
-New Mexico - Governor Polling:  🔵Haaland: 47% 🔴Hull: 41%  SurveyUSA / Sept 30, 2026  (Current model result in NM-GOV is DEM 59% - GOP 41%)  unitedstatespolling.com/p/democrats-...
-Texas - Generic Ballot Polling:  🔵 Democrat: 48% (+8) 🔴 Republican: 47% (-11)  Siena / Sept 30, 2026  (% Change with 2024 House result)
-Maine - 2nd House Polling:  House: 🔵Dunlap: 50% 🔴LePage: 48%  (Model result: DEM 51% - GOP 49%)  Senate: 🔴Collins: 53% 🔵Jackson: 43%  (For context: Trump won the second with 53.5% - Harris at 44.5%)  unitedstatespolling.com/p/democrats-...

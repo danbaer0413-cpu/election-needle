@@ -177,7 +177,9 @@ KS-governor,Emerson College,2026-09-16,750.0,43.48,50.82
 KS-governor,The New York Times/Siena College,2026-09-30,605.0,44.38,48.52
 KS-governor,YouGov,2026-10-04,2252.0,44.0,47.0
 KS-governor,YouGov,2026-10-05,600.0,44.0,47.0
+KS-governor,The Washington Post/George Mason University Schar School of Policy and Government,2026-10-26,801.0,51.0,45.0
 KS-governor,CNN,2026-10-26,838.0,45.0,50.0
+KS-governor,Emerson College,2026-10-28,800.0,47.5,52.5
 KS-senate,Tavern Research,2026-01-28,1013.0,46.0,54.0
 KS-senate,co/efficient,2026-09-10,915.0,44.0,49.0
 KS-senate,Emerson College,2026-09-16,750.0,44.75,43.3
@@ -187,7 +189,10 @@ KS-senate,YouGov,2026-10-04,2253.0,48.0,45.0
 KS-senate,YouGov,2026-10-05,600.0,48.0,45.0
 KS-senate,InsiderAdvantage,2026-10-10,1200.0,47.5,46.7
 KS-senate,InsiderAdvantage,2026-10-14,1200.0,46.6,47.7
+KS-senate,The Washington Post/George Mason University Schar School of Policy and Government,2026-10-26,801.0,54.0,44.0
 KS-senate,CNN,2026-10-26,838.0,49.0,45.0
+KS-senate,Schar,2026-10-26,600.0,52.0,43.0
+KS-senate,Emerson College,2026-10-28,800.0,49.5,47.1
 ME-governor,The New York Times/Siena College,2026-06-26,608.0,55.38,39.62
 ME-governor,Beacon Research/Shaw & Co. Research,2026-06-27,1003.0,53.0,42.0
 ME-governor,University of New Hampshire Survey Center,2026-07-20,1150.0,49.0,35.0
@@ -568,6 +573,7 @@ TX-governor,ActiVote,2026-10-21,400.0,47.5,52.5
 TX-governor,Barbara Jordan Public Policy Research and Survey Center,2026-10-25,2000.0,47.0,50.0
 TX-governor,YouGov,2026-10-26,1000.0,49.0,46.0
 TX-governor,CNN,2026-10-27,923.0,46.0,48.0
+TX-governor,Quantus Insights,2026-10-28,1214.0,46.3,51.6
 TX-governor,ActiVote,2026-10-29,400.0,47.9,52.1
 TX-senate,Barbara Jordan Public Policy Research and Survey Center,2025-05-19,1200.0,44.0,48.0
 TX-senate,Emerson College,2025-08-12,1000.0,38.1,45.2
@@ -634,6 +640,7 @@ TX-senate,Barbara Jordan Public Policy Research and Survey Center,2026-10-25,200
 TX-senate,YouGov,2026-10-26,1000.0,51.0,43.0
 TX-senate,A2 Insights,2026-10-27,631.0,50.2,47.2
 TX-senate,CNN,2026-10-27,923.0,49.0,43.0
+TX-senate,Quantus Insights,2026-10-28,1207.0,48.4,49.4
 WI-governor,RMG Research,2026-07-24,800.0,46.0,43.0
 WI-governor,Platform Communications,2026-08-13,500.0,48.0,44.0
 WI-governor,Marquette University Law School,2026-08-20,738.0,49.0,44.0
