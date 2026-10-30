@@ -1,10 +1,11 @@
 state,as_of,kind,total,delta,pct_of_final,implied_final,candidates,rating,day,dem_name,dem_lo,dem_hi,rep_name,rep_lo,rep_hi,early_margin
 Florida,2026-10-20,mail,1061305,193634.0,14.7,7219762,,,,,,,,,,
-Florida,2026-10-21,mail,1339338,278033,18.5,7239665,,,,,,,,,,
+Florida,2026-10-21,mail,1339338,278033.0,18.5,7239665,,,,,,,,,,
 Florida,2026-10-22,mail,1615742,276404,22.3,7245480,,,,,,,,,,
 Florida,2026-10-23,mail,1903230,287488,26.2,7264237,,,,,,,,,,
 Florida,2026-10-27,mail,3022878,350998,41.3,7319317,Angie Nixon 45.7-56.1; Ashley Moody 43.2-53.6,Likely R,,Angie Nixon,45.7,56.1,Ashley Moody,43.2,53.6,2.52
 Florida,2026-10-28,mail,3374005,351217,45.7,7382943,Angie Nixon 45.4-55.6; Ashley Moody 43.7-53.9,Likely R,,Angie Nixon,45.4,55.6,Ashley Moody,43.7,53.9,1.71
+Florida,2026-10-30,mail,3732555,358550,50.0,7465110,Angie Nixon 45.0-55.3; Ashley Moody 44.0-54.3,Likely R,,Angie Nixon,45.0,55.3,Ashley Moody,44.0,54.3,1.01
 Florida,2026-10-26,total,2671880,768650,37.0,7221297,Angie Nixon 46.2-56.6; Republican 42.7-53.1,Likely R,,Angie Nixon,46.2,56.6,Republican,42.7,53.1,3.52
 Georgia,2026-10-16,early,846617,304314.0,22.2,3813590,Jon Ossoff 55.9-63.8; Mike Collins 36.2-44.1,Solid D,,Jon Ossoff,55.9,63.8,Mike Collins,36.2,44.1,19.7
 Georgia,2026-10-20,early,1304883,140242,33.9,3849212,Jon Ossoff 54.4-62.3; Mike Collins 37.7-45.6,Solid D,,Jon Ossoff,54.4,62.3,Mike Collins,37.7,45.6,16.7
@@ -14,7 +15,7 @@ Georgia,2026-10-27,early,1913811,170319,49.1,3897782,Jon Ossoff 53.8-61.9; Mike 
 Georgia,2026-10-28,early,2082841,169030,52.9,3937318,Jon Ossoff 53.4-61.6; Mike Collins 38.4-46.6,Solid D,,Jon Ossoff,53.4,61.6,Mike Collins,38.4,46.6,15.0
 Georgia,2026-10-29,early,2258400,175559,57.0,3962105,Jon Ossoff 53.3-61.5; Mike Collins 38.5-46.7,Solid D,,Jon Ossoff,53.3,61.5,Mike Collins,38.5,46.7,14.8
 Iowa,2026-10-20,total,89595,31109.0,6.3,1422143,Josh Turek 58.4-67.5; Ashley Hinson 30.5-39.6,Tilt R,,Josh Turek,58.4,67.5,Ashley Hinson,30.5,39.6,28.47
-Iowa,2026-10-21,total,119989,30394,8.5,1411635,Josh Turek 58.3-67.3; Ashley Hinson 30.7-39.7,Tilt R,,Josh Turek,58.3,67.3,Ashley Hinson,30.7,39.7,28.16
+Iowa,2026-10-21,total,119989,30394.0,8.5,1411635,Josh Turek 58.3-67.3; Ashley Hinson 30.7-39.7,Tilt R,,Josh Turek,58.3,67.3,Ashley Hinson,30.7,39.7,28.16
 Iowa,2026-10-22,total,161537,41548,11.4,1416991,Josh Turek 57.7-66.7; Ashley Hinson 31.3-40.3,Tilt R,,Josh Turek,57.7,66.7,Ashley Hinson,31.3,40.3,26.94
 Iowa,2026-10-27,total,296592,135055,21.0,1412343,Josh Turek 56.7-65.7; Ashley Hinson 32.3-41.3,Tilt R,,Josh Turek,56.7,65.7,Ashley Hinson,32.3,41.3,24.9
 Kansas,2026-10-19,early,23538,23538.0,2.2,1069909,Adam Hamilton 60.9-70.7; Roger Marshall 26.5-36.3,Lean R,,Adam Hamilton,60.9,70.7,Roger Marshall,26.5,36.3,35.39
