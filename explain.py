@@ -160,15 +160,28 @@ def behind_lines(s: dict, pa_avg: float | None = None) -> list[str]:
     if base is not None:
         m, sd = float(s["median"]), float(s.get("swing_sd") or 0)
         head = f"**Model: {dr(m)}**, start point {dr(base)}"
-        if pa_avg is not None:
-            diff = m - pa_avg
-            head += f"; polling average {dr(pa_avg)}, so the other evidence moves it **{abs(diff):.1f} pts toward {'Democrats' if diff > 0 else 'Republicans'}**" if abs(diff) >= 0.05 else f"; polling average {dr(pa_avg)}, the same as the model"
+        i0 = s.get("inputs") or {}
+        if i0.get("poll_margin") is not None:
+            adj = float(i0["poll_margin"]) + float(i0.get("poll_bias") or 0)
+            head += f"; polls {dr(float(i0['poll_margin']))}"
+            if abs(adj - float(i0["poll_margin"])) >= 0.05:
+                head += f", adjusted to {dr(adj)} for the state's and candidate's polling history"
+            diff = m - adj
+            head += (f", so the other evidence moves it **{abs(diff):.1f} pts toward {'Democrats' if diff > 0 else 'Republicans'}**" if abs(diff) >= 0.05
+                     else ", the same as the model")
         L.append(head + ".")
     if drv:
-        L.append("\n| Source | What it says | Share of the estimate |\n|---|---|---|")
+        bullets = []
         for d in drv:
             name = SRC_TEXT.get(d["source"], LABELS.get(d["source"], d["source"]))
-            L.append(f"| {name} | {dr(float(d['swing']) + float(base or 0))} | {d['weight']:.0f}% |")
+            if d["source"] == "polls":
+                name = "Polls (adjusted)"
+            eff = d.get("effect")
+            tail = f"{d['weight']:.0f}% of the weight"
+            if eff is not None and d["source"] != "polls" and abs(eff) >= 0.05:
+                tail += f"; pulls the estimate {abs(eff):.1f} pts toward {'Democrats' if eff > 0 else 'Republicans'}"
+            bullets.append(f"- {name}: {dr(float(d['swing']) + float(base or 0))} ({tail})")
+        L.append("\n".join(bullets))
     i = s.get("inputs") or {}
     if i:
         L.append(f"Early vote loaded: {i.get('early_returned', 0):,.0f} ballots"

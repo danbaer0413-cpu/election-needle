@@ -80,7 +80,7 @@ class Params:
     other_lean: float = 4.0            # how many points MORE Democratic (D-R margin) unaffiliated/other voters are than the early pool overall.
                                        # default +4: exit polls had independents about 3.4 (2018) and 4.8 (2022) points MORE Democratic than the national House vote; Trump's approval among independents is ~20-25% in 2026 (see INDEPENDENTS.md). Set 0 for 'a wash'
     sd_other: float = 5.0              # uncertainty on that lean (points); widens the early party signal in states with many 'other' registrants
-    sd_early_party: float = 3.5
+    sd_early_party: float = 6.5
     party_max_effect: float = 1.5      # early party-registration evidence can move the swing estimate by at most this many points (as for VoteHub)
     sd_floor_swing: float = 6.5        # the swing estimate never gets more certain than this before votes are counted (state polls miss by ~5 pts; signals share one national environment)
     sd_early_geo: float = 8.0          # was 3.0; geography of returns says little about the swing (see README Georgia notes)
@@ -309,7 +309,9 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
         g_ = groups.setdefault(lab, [0.0, 0.0])
         g_[0] += 1.0 / vv
         g_[1] += mm / vv
-    drivers = [dict(source=lab, swing=g_[1] / g_[0], weight=g_[0] / float(prec.sum()) * 100)
+    _P, _PM = float(prec.sum()), float((prec * means).sum())
+    drivers = [dict(source=lab, swing=g_[1] / g_[0], weight=g_[0] / _P * 100,
+                    effect=(S_hat - (_PM - g_[1]) / (_P - g_[0])) if _P - g_[0] > 1e-12 else 0.0)        # how far the estimate would move if this source were left out
                for lab, g_ in groups.items()]
     # A wrong early-vs-Election-Day gap only matters when the outstanding pool's mix
     # differs from the baseline mix (e.g. early already counted, Election Day still out).
