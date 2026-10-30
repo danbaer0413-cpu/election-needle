@@ -35,31 +35,40 @@ def needle_figure(summary: dict, R: float = 15.0, title: str = "", compact: bool
     import plotly.graph_objects as go
 
     fig = go.Figure()
+    PANEL, INK = "#171c26", "#e8ecf3"          # dark dial face: readable in light and dark app themes
     for (a, b, col) in ((-R, 0, RED), (0, R, BLUE)):
-        x, y = arc_polygon(a, b, 0.35, 1.0, R)
+        x, y = arc_polygon(a, b, 0.5, 1.0, R)
         fig.add_trace(go.Scatter(x=x, y=y, fill="toself", mode="none", fillcolor=col,
-                                 opacity=0.25, hoverinfo="skip", showlegend=False))
-    # 80% range
-    x, y = arc_polygon(summary["p10"], summary["p90"], 0.35, 1.0, R)
-    fig.add_trace(go.Scatter(x=x, y=y, fill="toself", mode="none", fillcolor="rgba(40,40,40,0.55)",
-                             hoverinfo="skip", showlegend=False))
+                                 opacity=0.38, hoverinfo="skip", showlegend=False))
     # 90% range, lighter
-    x, y = arc_polygon(summary["p05"], summary["p95"], 0.35, 1.0, R)
-    fig.add_trace(go.Scatter(x=x, y=y, fill="toself", mode="none", fillcolor="rgba(40,40,40,0.18)",
+    x, y = arc_polygon(summary["p05"], summary["p95"], 0.5, 1.0, R)
+    fig.add_trace(go.Scatter(x=x, y=y, fill="toself", mode="none", fillcolor="rgba(255,255,255,0.18)",
                              hoverinfo="skip", showlegend=False))
-    nx, ny = needle_segment(summary["median"], R)
-    fig.add_trace(go.Scatter(x=nx, y=ny, mode="lines", line=dict(color="black", width=5),
+    # 80% range, brighter
+    x, y = arc_polygon(summary["p10"], summary["p90"], 0.5, 1.0, R)
+    fig.add_trace(go.Scatter(x=x, y=y, fill="toself", mode="none", fillcolor="rgba(255,255,255,0.5)",
                              hoverinfo="skip", showlegend=False))
-    fig.add_trace(go.Scatter(x=[0], y=[0], mode="markers", marker=dict(size=14, color="black"),
+    # tick marks every 5 points, longer at the centre (toss-up line)
+    for tv in (-10, -5, 0, 5, 10):
+        th = float(_theta(tv, R))
+        r0 = 0.5 if tv == 0 else 0.93
+        fig.add_trace(go.Scatter(x=[r0 * np.cos(th), 1.04 * np.cos(th)], y=[r0 * np.sin(th), 1.04 * np.sin(th)], mode="lines",
+                                 line=dict(color="#8a93a6", width=1.5 if tv == 0 else 1), hoverinfo="skip", showlegend=False))
+        if tv != 0:
+            fig.add_annotation(x=1.14 * np.cos(th), y=1.14 * np.sin(th), showarrow=False, font=dict(color="#8a93a6", size=10),
+                               text=f"{'D' if tv > 0 else 'R'}{abs(tv)}")
+    nx, ny = needle_segment(summary["median"], R, length=0.97)
+    fig.add_trace(go.Scatter(x=nx, y=ny, mode="lines", line=dict(color="#ffffff", width=5),
+                             hoverinfo="skip", showlegend=False))
+    fig.add_trace(go.Scatter(x=[0], y=[0], mode="markers", marker=dict(size=15, color="#ffffff", line=dict(color=PANEL, width=3)),
                              hoverinfo="skip", showlegend=False))
     lead = summary["median"]
     who = "Dem" if lead > 0 else "GOP"
     if not compact:
-        fig.add_annotation(x=0, y=-0.12, showarrow=False, font=dict(size=22),
+        fig.add_annotation(x=0, y=-0.12, showarrow=False, font=dict(size=22, color=INK),
                            text=f"<b>{who} +{abs(lead):.1f}</b>  ·  Dem win chance {summary['win_prob'] * 100:.0f}%")
     if wiggle:
       try:
-        import numpy as np
         rng = np.random.default_rng(int(abs(summary["median"]) * 1000) % 2**31)
         sd = max((summary["p90"] - summary["p10"]) / 2.563, 0.05)
         frames = []
@@ -74,13 +83,13 @@ def needle_figure(summary: dict, R: float = 15.0, title: str = "", compact: bool
                                                                            fromcurrent=True, mode="immediate")])])])
       except Exception:
         pass   # the wiggle is cosmetic; never break the needle over it
-    fig.add_annotation(x=-1.0, y=0.02, text="GOP", showarrow=False, font=dict(color=RED, size=14))
-    fig.add_annotation(x=1.0, y=0.02, text="Dem", showarrow=False, font=dict(color=BLUE, size=14))
+    fig.add_annotation(x=-0.75, y=-0.1 if compact else 0.02, text="GOP", showarrow=False, font=dict(color="#f08a78", size=14))
+    fig.add_annotation(x=0.75, y=-0.1 if compact else 0.02, text="Dem", showarrow=False, font=dict(color="#6fb3e8", size=14))
     fig.update_layout(title=title, height=230 if compact else 360,
                       margin=dict(l=4, r=4, t=4 if compact else 40, b=4),
-                      xaxis=dict(visible=False, range=[-1.15, 1.15]),
-                      yaxis=dict(visible=False, range=[-0.05 if compact else -0.25, 1.05 if compact else 1.1], scaleanchor="x"),
-                      plot_bgcolor="rgba(0,0,0,0)")
+                      dragmode=False, xaxis=dict(visible=False, range=[-1.3, 1.3], fixedrange=True),
+                      yaxis=dict(visible=False, range=[-0.2 if compact else -0.25, 1.2 if compact else 1.25], scaleanchor="x", fixedrange=True),
+                      plot_bgcolor=PANEL, paper_bgcolor=PANEL)
     return fig
 
 

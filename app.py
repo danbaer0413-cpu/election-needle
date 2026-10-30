@@ -129,13 +129,22 @@ if st.session_state.get("flash_on", True) and not st.session_state.get("flash_do
     st.stop()
 
 # ---------------------------------------------------------------- map view
-view = st.radio("View", ["Race", "Map", "Senate", "House"], horizontal=True, label_visibility="collapsed", key="view")
+view = st.radio("View", ["Race", "Map", "Senate", "House", "All needles"], horizontal=True, label_visibility="collapsed", key="view")
 if view == "Senate":
     try:
         import senate_view
         senate_view.render(st, ready, label, changes.rating_text)
     except Exception as _ex:
         st.info(f"The Senate view is not available yet ({str(_ex)[:160]}).")
+    st.stop()
+if view == "All needles":
+    try:
+        import cluster_view
+        cluster_view.render(st, ready, label, changes.rating_text, data.get("national"))
+    except Exception as _ex:
+        import traceback
+        st.info(f"The all-needles view is not available yet ({type(_ex).__name__}: {str(_ex)[:160]}).")
+        st.code(traceback.format_exc()[-1200:])
     st.stop()
 if view == "House":
     try:
@@ -260,13 +269,13 @@ if st.session_state.get("anim_on", True) and not wiggle and _start is not None a
     try:        # sweep from where the needle was to where it is now
         for _i, _v in enumerate(changes.sweep(float(_start), _end)):
             _ph.plotly_chart(needle_figure({**s, "median": _v}, compact=True), use_container_width=True,
-                             config={"displayModeBar": False}, key=f"needle_{rid}_{_i}")
+                             config={"displayModeBar": False, "scrollZoom": False, "doubleClick": False}, key=f"needle_{rid}_{_i}")
             time.sleep(0.05)
     except Exception:
         pass        # the sweep is cosmetic
 _shown[rid] = _end
-_ph.plotly_chart(needle_figure(s, compact=True, wiggle=wiggle), use_container_width=True, config={"displayModeBar": False}, key=f"needle_{rid}_final")
-st.caption("Needle = middle estimate. Dark band: 80% range (the headline range). Light band: 90% range. Margins are Dem minus GOP. "
+_ph.plotly_chart(needle_figure(s, compact=True, wiggle=wiggle), use_container_width=True, config={"displayModeBar": False, "scrollZoom": False, "doubleClick": False}, key=f"needle_{rid}_final")
+st.caption("Needle = middle estimate. Bright band: 80% range (the headline range). Faint band: 90% range. Margins are Dem minus GOP. "
            "As votes are counted the bands narrow and the needle moves to where the model now expects the race to land.")
 _perf = performance_line(s)
 if _perf:

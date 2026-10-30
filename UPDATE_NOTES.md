@@ -18,3 +18,14 @@ Data and calls
 - .github/workflows/update.yml: includes the civicAPI step, the push fix and the automatic-calls step
 
 First run: run the update workflow by hand. Auto calls should print "0 called".
+
+## All needles tab (Oct 30)
+New "All needles" view: every race's needle in one instrument-cluster grid (cluster_view.py + one line set in app.py).
+Filters: All / Senate / Governor; order: closest first / by state / most Dem first; 2-4 dials per row. Hover for numbers.
+
+## Needle restyle, no-zoom, national needle (Oct 30)
+- charts.py: Race-tab needle restyled (white needle, bright 80% / faint 90% bands, tick labels, dark dial face); touch no longer zooms or drags it.
+- cluster_view.py: All needles tab, now with the National environment needle at the top and zoom locked.
+- national_env.py (new) + run_update.py: writes a "national" block to data/latest.json (model assumption D+6.4, moved by races with 20%+ counted).
+- app.py: passes the national block to the All needles tab.
+Upload: charts.py, cluster_view.py, national_env.py, run_update.py, app.py, UPDATE_NOTES.md. Then run Actions -> update.

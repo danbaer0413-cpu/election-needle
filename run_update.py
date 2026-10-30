@@ -331,7 +331,15 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
                 if it["surprise"] is not None:
                     races[rid].setdefault("summary", {})["surprise"] = round(it["surprise"], 2)
     except Exception as ex:
+        items = {}
         print(f"  cross-race adjustment skipped ({ex})")
+    try:        # national environment needle (national_env.py): the model's assumption, moved by what the counted races show
+        import national_env
+        national = national_env.estimate(items)
+        print(f"  national environment: D{national['median']:+.1f} ({national['races_counted']} races counted, shift {national['shift']:+.1f})")
+    except Exception as ex:
+        national = {}
+        print(f"  national environment skipped ({ex})")
     try:
         import control
         import cross_race as _cr
@@ -349,7 +357,7 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
                                  round(s_["p90"], 2), round(s_["win_prob"], 3)])
     except Exception as ex:
         print(f"  could not write needle log ({ex})")
-    payload = {"updated": now, "races": races, "control": ctl}
+    payload = {"updated": now, "races": races, "control": ctl, "national": national}
     write_json_atomic(out_path, payload)
     try:                                   # House lean map + seat chart data (separate file; never affects the needles)
         import house_lean
