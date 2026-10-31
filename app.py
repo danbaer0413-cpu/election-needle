@@ -129,7 +129,7 @@ if st.session_state.get("flash_on", True) and not st.session_state.get("flash_do
     st.stop()
 
 # ---------------------------------------------------------------- map view
-view = st.radio("View", ["Race", "Map", "Senate", "House", "All needles"], horizontal=True, label_visibility="collapsed", key="view")
+view = st.radio("View", ["Race", "Map", "Senate", "House", "All needles", "Simulation"], horizontal=True, label_visibility="collapsed", key="view")
 if view == "Senate":
     try:
         import senate_view
@@ -144,6 +144,16 @@ if view == "All needles":
     except Exception as _ex:
         import traceback
         st.info(f"The all-needles view is not available yet ({type(_ex).__name__}: {str(_ex)[:160]}).")
+        st.code(traceback.format_exc()[-1200:])
+    st.stop()
+if view == "Simulation":
+    try:
+        import whatif_view
+        st.markdown("**Simulation** - re-run the election under a different national environment.")
+        whatif_view.render(st, ready, label, changes.rating_text, data.get("national"))
+    except Exception as _ex:
+        import traceback
+        st.info(f"The simulation tab is not available yet ({type(_ex).__name__}: {str(_ex)[:160]}).")
         st.code(traceback.format_exc()[-1200:])
     st.stop()
 if view == "House":

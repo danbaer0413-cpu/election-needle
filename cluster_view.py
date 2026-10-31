@@ -167,12 +167,6 @@ def render_national(st, nat):
 
 def render(st, ready, label, rating_text, national=None):
     render_national(st, national)
-    try:
-        import whatif_view
-        st.divider()
-        whatif_view.render(st, ready, label, rating_text, national)
-    except Exception as _ex:
-        st.info(f"The what-if tool is not available yet ({type(_ex).__name__}: {str(_ex)[:120]}).")
     st.divider()
     st.markdown("**All needles** - every race in one place. Hover a dial for the numbers. "
                 "Red left = Republican, blue right = Democrat; the white band is the likely (80%) range.")
