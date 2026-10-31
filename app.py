@@ -295,9 +295,23 @@ if _ctl:
                 continue
             st.markdown(f"**{title}** ({c_['n']} races): Democrats expected to win **{c_['expected_dem_wins']:.1f}**; "
                         f"chance of winning more than half **{c_['p_dem_majority'] * 100:.0f}%**, Republicans **{c_['p_rep_majority'] * 100:.0f}%**.")
-            fig_ = go.Figure(go.Bar(x=list(range(c_["n"] + 1)), y=[d * 100 for d in c_["dist"]],
-                                    marker_color=[BLUE if i > c_["n"] / 2 else RED if i < c_["n"] / 2 else "gray" for i in range(c_["n"] + 1)]))
-            fig_.update_layout(height=200, margin=dict(l=4, r=4, t=4, b=4), xaxis_title="Democratic wins", yaxis_title="% chance")
+            _dist = [float(d) for d in c_["dist"]]
+            _top = max(range(len(_dist)), key=lambda i: _dist[i])
+            _cum, _lo, _hi = 0.0, 0, len(_dist) - 1
+            for _i, _d in enumerate(_dist):
+                if _cum < 0.10 <= _cum + _d:
+                    _lo = _i
+                if _cum < 0.90 <= _cum + _d:
+                    _hi = _i
+                _cum += _d
+            _sims = int(c_.get("sims") or 20000)
+            st.markdown(f"After **{_sims:,}** simulated elections, the most likely result is Democrats winning **{_top} of {c_['n']}** "
+                        f"({_dist[_top] * 100:.0f}% of simulations). 80% of simulations land between **{_lo}** and **{_hi}** Democratic wins.")
+            fig_ = go.Figure(go.Bar(x=list(range(c_["n"] + 1)), y=[d * 100 for d in _dist],
+                                    marker_color=[BLUE if i > c_["n"] / 2 else RED if i < c_["n"] / 2 else "gray" for i in range(c_["n"] + 1)],
+                                    marker_line_color=["white" if i == _top else "rgba(0,0,0,0)" for i in range(c_["n"] + 1)],
+                                    marker_line_width=[2 if i == _top else 0 for i in range(c_["n"] + 1)]))
+            fig_.update_layout(height=200, margin=dict(l=4, r=4, t=4, b=4), xaxis_title="Democratic wins", yaxis_title="% chance", dragmode=False)
             st.plotly_chart(fig_, use_container_width=True, config={"displayModeBar": False})
         st.caption("Races share part of their error, so a miss in one place tends to hit everywhere. Counts only the races listed here, "
                    "not full chamber control (no holdover seats or races outside these 16 states).")

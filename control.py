@@ -14,7 +14,9 @@ import numpy as np
 Z80 = 1.2816
 
 
-def simulate(races: dict, rho: float = 0.5, n: int = 20000, seed: int = 7) -> dict:
+def simulate(races: dict, rho: float = 0.5, n: int = 20000, seed: int = 7, shift: float = 0.0) -> dict:
+    """shift: what-if move of the national environment in points (+ = more Democratic). Applied to every race, but only to the part of
+    the vote not yet counted (a counted vote is a fact), so mu += shift * (1 - pct_in/100)."""
     out = {}
     rng = np.random.default_rng(seed)
     for key, word in (("senate", "senate"), ("governor", "governor")):
@@ -24,7 +26,7 @@ def simulate(races: dict, rho: float = 0.5, n: int = 20000, seed: int = 7) -> di
             meta = v.get("meta") or {}
             if not s or s.get("swing_sd") in (None, 0) or word not in str(meta.get("race", "")).lower():
                 continue
-            ids.append(rid); mu.append(float(s["median"]))
+            ids.append(rid); mu.append(float(s["median"]) + float(shift) * (1.0 - min(max(float(s.get("pct_in") or 0), 0.0), 100.0) / 100.0))
             sd.append(max((float(s["p90"]) - float(s["p10"])) / (2 * Z80), 0.05))
         if not ids:
             continue
@@ -33,7 +35,7 @@ def simulate(races: dict, rho: float = 0.5, n: int = 20000, seed: int = 7) -> di
         wins = ((mu + sd * z) > 0).sum(axis=1)
         k = len(ids)
         dist = [float((wins == i).mean()) for i in range(k + 1)]
-        out[key] = dict(n=k, races=ids, expected_dem_wins=float(wins.mean()), dist=dist,
+        out[key] = dict(n=k, sims=n, races=ids, expected_dem_wins=float(wins.mean()), dist=dist,
                         p_dem_majority=float((wins > k / 2).mean()), p_rep_majority=float((wins < k / 2).mean()),
                         rho=rho)
     return out
