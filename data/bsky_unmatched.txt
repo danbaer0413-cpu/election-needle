@@ -141,6 +141,3 @@ Pennsylvania - Generic Ballot Polling:  🔵DEM: 54% (+5) 🔴GOP: 39% (-11)  Qu
 Pennsylvania - Governor Polling:  🔵 Shapiro: 59%  🔴 Garrity: 34%  Quinnipiac / Oct 5, 2026
 Kansas - Senate Polling:  🔵 Hamilton: 46% 🔴 Marshall: 41%* ⚪ Graham: 7%  🔵 Hamilton: 49% 🔴 Marshall: 44%  GBAO / Oct 4, 2026  (Hamilton Internal)
 New York - Governor Polling:  🔵 Hochul: 53% 🔴 Blakeman: 42%  Marist / Oct 5, 2026  (Current NY-GOV model result: DEM 61% - GOP 38%)  unitedstatespolling.com/p/democrats-...
-Generic Ballot Polling:  🔵DEM: 54% 🔴GOP: 42%  Honest Polling / Oct 6, 2026
-Generic Ballot Polling:  🔵DEM: 50% 🔴GOP: 42%  Centerline Research / Oct 1, 2026
-Generic Ballot Polling:  🔵DEM: 51% 🔴GOP: 40%  YouGov / Oct 5, 2026

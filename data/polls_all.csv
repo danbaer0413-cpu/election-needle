@@ -66,8 +66,11 @@ FL-governor,Echelon Insights,2026-10-23,515.0,44.0,50.0
 FL-governor,The New York Times/Siena College,2026-10-25,813.0,44.43,48.36
 FL-governor,Siena,2026-10-26,600.0,44.0,48.0
 FL-governor,St. Pete Polls,2026-10-27,916.0,45.5,47.8
-FL-governor,InsiderAdvantage,2026-10-29,1200.0,45.0,49.0
+FL-governor,The Political Matrix/The Listener Group,2026-10-28,500.0,38.8,40.3
+FL-governor,InsiderAdvantage,2026-10-29,1200.0,44.9,49.0
+FL-governor,Stetson University Center for Public Opinion Research,2026-10-30,858.0,45.0,51.0
 FL-governor,Big Data Poll,2026-10-30,1067.0,44.2,47.4
+FL-governor,ActiVote,2026-10-31,400.0,47.7,52.3
 FL-senate,University of North Florida Public Opinion Research Lab,2026-03-02,768.0,38.0,46.0
 FL-senate,Emerson College,2026-03-31,1125.0,36.3,47.3
 FL-senate,Stetson University Center for Public Opinion Research,2026-04-13,414.0,38.0,51.0
@@ -91,7 +94,10 @@ FL-senate,The New York Times/Siena College,2026-10-25,813.0,44.32,50.35
 FL-senate,Siena,2026-10-26,600.0,44.0,50.0
 FL-senate,St. Pete Polls,2026-10-27,916.0,44.7,49.0
 FL-senate,ActiVote,2026-10-27,400.0,47.0,53.0
+FL-senate,The Political Matrix/The Listener Group,2026-10-28,500.0,35.8,41.8
 FL-senate,InsiderAdvantage,2026-10-29,1200.0,43.0,49.0
+FL-senate,InsiderAdvantage,2026-10-29,1200.0,42.7,48.5
+FL-senate,Stetson University Center for Public Opinion Research,2026-10-30,859.0,45.0,49.0
 FL-senate,Big Data Poll,2026-10-30,1067.0,44.7,51.6
 GA-governor,Echelon Insights,2026-04-09,407.0,49.0,43.0
 GA-governor,Beacon Research/Shaw & Co. Research,2026-06-27,1002.0,52.0,47.0
@@ -475,8 +481,8 @@ OH-governor,Suffolk University,2026-09-27,500.0,50.4,41.4
 OH-governor,Marist College,2026-09-27,1298.0,50.0,44.0
 OH-governor,YouGov,2026-09-30,3777.0,48.0,44.0
 OH-governor,The New York Times/Siena College,2026-10-01,616.0,48.97,45.02
-OH-governor,CNN,2026-10-05,760.0,50.0,42.0
 OH-governor,YouGov,2026-10-05,600.0,48.0,44.0
+OH-governor,CNN,2026-10-05,760.0,50.0,42.0
 OH-governor,co/efficient,2026-10-06,925.0,43.0,45.0
 OH-governor,Bowling Green State University/YouGov,2026-10-09,1000.0,50.0,44.0
 OH-governor,YouGov/BSGU,2026-10-10,600.0,50.0,44.0
@@ -487,6 +493,7 @@ OH-governor,ActiVote,2026-10-19,400.0,48.6,51.4
 OH-governor,Verasight,2026-10-20,531.0,46.2,45.4
 OH-governor,Echelon Insights,2026-10-23,508.0,45.0,47.0
 OH-governor,Suffolk University,2026-10-26,500.0,48.0,44.0
+OH-governor,ActiVote,2026-10-31,400.0,50.8,49.2
 OH-senate,Bowling Green State University/YouGov,2025-02-21,800.0,41.0,47.0
 OH-senate,Bowling Green State University/YouGov,2025-04-24,800.0,46.0,49.0
 OH-senate,Emerson College,2025-08-19,1000.0,43.7,49.5
@@ -511,8 +518,8 @@ OH-senate,Marist College,2026-09-27,1298.0,51.0,43.0
 OH-senate,InsiderAdvantage,2026-09-29,1200.0,43.8,42.5
 OH-senate,YouGov,2026-09-30,3777.0,49.0,45.0
 OH-senate,The New York Times/Siena College,2026-10-01,616.0,48.76,46.09
-OH-senate,CNN,2026-10-05,760.0,49.0,43.0
 OH-senate,YouGov,2026-10-05,600.0,49.0,45.0
+OH-senate,CNN,2026-10-05,760.0,49.0,43.0
 OH-senate,co/efficient,2026-10-06,925.0,45.0,46.0
 OH-senate,Bowling Green State University/YouGov,2026-10-09,1000.0,48.0,42.0
 OH-senate,YouGov/BSGU,2026-10-10,600.0,48.0,42.0
@@ -525,6 +532,7 @@ OH-senate,Verasight,2026-10-20,531.0,47.5,43.6
 OH-senate,InsiderAdvantage,2026-10-22,1200.0,46.7,44.4
 OH-senate,Echelon Insights,2026-10-23,508.0,47.0,47.0
 OH-senate,Suffolk University,2026-10-26,500.0,46.6,43.8
+OH-senate,ActiVote,2026-10-31,400.0,50.2,49.8
 SC-governor,Resonance Media,2026-10-03,600.0,35.0,45.0
 SC-governor,The Citadel School of Humanities and Social Sciences,2026-10-25,890.0,31.0,42.0
 SC-governor,Targoz Market Research,2026-10-25,895.0,41.0,51.0
@@ -596,6 +604,7 @@ TX-governor,CNN,2026-10-27,923.0,46.0,48.0
 TX-governor,Data For Progress,2026-10-27,600.0,47.0,48.0
 TX-governor,Quantus Insights,2026-10-28,1214.0,46.3,51.6
 TX-governor,ActiVote,2026-10-29,400.0,47.9,52.1
+TX-governor,Kreate Strategies,2026-10-30,900.0,47.0,49.0
 TX-senate,Barbara Jordan Public Policy Research and Survey Center,2025-05-19,1200.0,44.0,48.0
 TX-senate,Emerson College,2025-08-12,1000.0,38.1,45.2
 TX-senate,University of Texas at Tyler Center for Opinion Research,2025-09-24,1032.0,37.0,43.0
@@ -666,6 +675,7 @@ TX-senate,CNN,2026-10-27,923.0,49.0,43.0
 TX-senate,Data For Progress,2026-10-27,600.0,49.0,45.0
 TX-senate,Quantus Insights,2026-10-28,1207.0,48.4,49.4
 TX-senate,ActiVote,2026-10-28,400.0,52.1,47.9
+TX-senate,Kreate Strategies,2026-10-30,900.0,48.0,45.0
 WI-governor,RMG Research,2026-07-24,800.0,46.0,43.0
 WI-governor,Platform Communications,2026-08-13,500.0,48.0,44.0
 WI-governor,Marquette University Law School,2026-08-20,738.0,49.0,44.0
