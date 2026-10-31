@@ -96,7 +96,7 @@ NR = 12.0   # national dial runs R+12 to D+12
 
 
 def national_figure(nat):
-    """One big dial: the national House-vote margin the model assumes (and, once votes are in, what the count implies)."""
+    """One big dial: the national environment the model assumes (and, once votes are in, what the count implies)."""
     import plotly.graph_objects as go
     from charts import _theta
 
@@ -148,7 +148,7 @@ def render_national(st, nat):
         m = float(nat["median"])
         lead = f"{'D' if m >= 0 else 'R'}+{abs(m):.1f}"
         rng = f"{'D' if nat['p10'] >= 0 else 'R'}+{abs(nat['p10']):.1f} to {'D' if nat['p90'] >= 0 else 'R'}+{abs(nat['p90']):.1f}"
-        st.markdown("**National environment** - the national House-vote margin the model is built on, and what the count says it is.")
+        st.markdown("**National environment** - the overall national lean (Dem minus GOP) the model is built on, and what the count says it is.")
         st.plotly_chart(national_figure(nat), use_container_width=True, config={"displayModeBar": False, "scrollZoom": False, "doubleClick": False})
         if nat.get("races_counted", 0) > 0:
             moved = float(nat["shift"])

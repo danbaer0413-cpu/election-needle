@@ -48,7 +48,7 @@ def render(st, ready, label, rating_text, national=None):
         base_pt = round(base_env, 1)
         opts = sorted({round(x * 0.5, 1) for x in range(-8, 31)} | {base_pt})     # R+4 ... D+15 in half points, plus the model's own value
         start = base_pt
-        pick = st.select_slider("National environment (Dem minus GOP, House vote)", options=opts, value=start,
+        pick = st.select_slider("National environment (Dem minus GOP)", options=opts, value=start,
                                 format_func=lambda v: _dr(v), key="whatif_env")
         delta = float(pick) - base_pt
         eff = BETA * delta                                           # what actually reaches the races

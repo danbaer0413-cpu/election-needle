@@ -1,4 +1,4 @@
-"""National environment needle: what national House-vote margin (generic-ballot equivalent) the counted vote implies.
+"""National environment needle: what overall national margin (generic-ballot equivalent) the counted vote implies.
 
 Before any votes: the model's own assumption, generic ballot x generic_shrink (config/fundamentals.json), D+6.4 now, with a
 spread tau (default 3.0) for how far the real national vote can land from it.
