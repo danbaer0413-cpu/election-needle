@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T19:17:47+00:00",
+ "updated": "2026-10-31T21:25:33+00:00",
  "source": "Cook Political Report House ratings, updated list Oct 30 2026",
  "districts": [
   {
@@ -106,9 +106,9 @@
    "district": "3",
    "rating": "Likely Dem",
    "m0": 9.0,
-   "early_adj": -0.84,
+   "early_adj": -0.83,
    "early_margin": 17.6,
-   "m": 8.16,
+   "m": 8.17,
    "bin": "Likely D",
    "called": null
   },
@@ -249,9 +249,9 @@
    "district": "25",
    "rating": "Leans Dem",
    "m0": 5.0,
-   "early_adj": 1.14,
-   "early_margin": 21.0,
-   "m": 6.14,
+   "early_adj": 1.13,
+   "early_margin": 20.8,
+   "m": 6.13,
    "bin": "Lean D",
    "called": null
   },
@@ -271,9 +271,9 @@
    "district": "3",
    "rating": "Leans Dem",
    "m0": 5.0,
-   "early_adj": 0.33,
+   "early_adj": 0.34,
    "early_margin": 24.7,
-   "m": 5.33,
+   "m": 5.34,
    "bin": "Lean D",
    "called": null
   },
@@ -426,7 +426,7 @@
    "rating": "Toss-up",
    "m0": 0.0,
    "early_adj": 0.41,
-   "early_margin": 8.3,
+   "early_margin": 8.1,
    "m": 0.41,
    "bin": "Toss-up",
    "called": null
@@ -437,7 +437,7 @@
    "rating": "Toss-up",
    "m0": 0.0,
    "early_adj": 0.43,
-   "early_margin": 10.2,
+   "early_margin": 10.1,
    "m": 0.43,
    "bin": "Toss-up",
    "called": null
@@ -646,7 +646,7 @@
    "rating": "Leans Rep",
    "m0": -5.0,
    "early_adj": 0.15,
-   "early_margin": 4.0,
+   "early_margin": 3.9,
    "m": -4.85,
    "bin": "Lean R",
    "called": null
@@ -656,9 +656,9 @@
    "district": "9",
    "rating": "Leans Rep",
    "m0": -5.0,
-   "early_adj": 0.06,
-   "early_margin": -2.9,
-   "m": -4.94,
+   "early_adj": 0.07,
+   "early_margin": -3.0,
+   "m": -4.93,
    "bin": "Lean R",
    "called": null
   },
@@ -668,7 +668,7 @@
    "rating": "Leans Rep",
    "m0": -5.0,
    "early_adj": -0.27,
-   "early_margin": -2.4,
+   "early_margin": -2.5,
    "m": -5.27,
    "bin": "Lean R",
    "called": null
@@ -678,9 +678,9 @@
    "district": "27",
    "rating": "Leans Rep",
    "m0": -5.0,
-   "early_adj": -0.06,
-   "early_margin": 4.2,
-   "m": -5.06,
+   "early_adj": -0.09,
+   "early_margin": 3.8,
+   "m": -5.09,
    "bin": "Lean R",
    "called": null
   },
@@ -810,9 +810,9 @@
    "district": "16",
    "rating": "Likely Rep",
    "m0": -9.0,
-   "early_adj": -0.65,
-   "early_margin": -8.2,
-   "m": -9.65,
+   "early_adj": -0.66,
+   "early_margin": -8.4,
+   "m": -9.66,
    "bin": "Likely R",
    "called": null
   },
