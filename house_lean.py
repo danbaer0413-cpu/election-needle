@@ -1,6 +1,6 @@
 """House lean map + seat chart data (no needles).
 
-Start: Cook Political Report ratings (data/house/ratings_2026.csv = the 81 non-safe seats; the other seats are Solid, counts in config/house_totals.json).
+Start: Cook Political Report ratings (data/house/ratings_2026.csv = the 85 non-safe seats; the other seats are Solid, counts in config/house_totals.json).
 Early vote: for states with early ballots by party and a county->district crosswalk (FL, NV, IA, KS, NE), each district's early D-R margin is compared with what its
 2024 partisanship predicts (pooled regression, state by state); the gap moves the district's lean a little (capped at +/-2 pts). No party data / no crosswalk = rating only.
 Election night: data/house/called.csv (state,district,winner D/R) turns a seat solid. Solid-seat calls go in config/house_totals.json (called_safe_D / called_safe_R).

@@ -29,3 +29,8 @@ Filters: All / Senate / Governor; order: closest first / by state / most Dem fir
 - national_env.py (new) + run_update.py: writes a "national" block to data/latest.json (model assumption D+6.4, moved by races with 20%+ counted).
 - app.py: passes the national block to the All needles tab.
 Upload: charts.py, cluster_view.py, national_env.py, run_update.py, app.py, UPDATE_NOTES.md. Then run Actions -> update.
+
+## Cook House ratings refresh (Oct 30)
+data/house/ratings_2026.csv now has 85 non-safe seats (was 81). config/house_totals.json solid_D 186, solid_R 164.
+Moved: OH-09, PA-08 Toss-up -> Leans Dem; CO-05, PA-01, SC-01 Leans Rep -> Toss-up; FL-07, FL-09, IN-05 Likely Rep -> Leans Rep.
+Added (were Solid R): NC-05, NC-09, NJ-02, WA-05 as Likely Rep.
