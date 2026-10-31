@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T05:40:08+00:00",
+ "updated": "2026-10-31T12:12:09+00:00",
  "source": "Cook Political Report House ratings, updated list Oct 30 2026",
  "districts": [
   {
@@ -436,9 +436,9 @@
    "district": "22",
    "rating": "Toss-up",
    "m0": 0.0,
-   "early_adj": 0.43,
+   "early_adj": 0.44,
    "early_margin": 10.8,
-   "m": 0.43,
+   "m": 0.44,
    "bin": "Toss-up",
    "called": null
   },
@@ -811,7 +811,7 @@
    "rating": "Likely Rep",
    "m0": -9.0,
    "early_adj": -0.66,
-   "early_margin": -7.7,
+   "early_margin": -7.6,
    "m": -9.66,
    "bin": "Likely R",
    "called": null
