@@ -36,6 +36,7 @@ AK-senate,Alaska Survey Research,2026-10-03,1512.0,51.0,49.0
 AK-senate,InsiderAdvantage,2026-10-10,1200.0,50.1,48.0
 AK-senate,Rasmussen,2026-10-15,600.0,47.0,48.0
 AK-senate,Data for Progress,2026-10-16,671.0,51.0,49.0
+AK-senate,Alaska Survey Research,2026-10-29,1326.0,50.8,49.2
 FL-governor,Targoz Market Research,2025-05-07,1144.0,35.0,39.0
 FL-governor,Victory Insights,2025-06-10,600.0,31.4,36.7
 FL-governor,McLaughlin & Associates,2025-08-27,800.0,41.0,49.0
@@ -66,6 +67,7 @@ FL-governor,The New York Times/Siena College,2026-10-25,813.0,44.43,48.36
 FL-governor,Siena,2026-10-26,600.0,44.0,48.0
 FL-governor,St. Pete Polls,2026-10-27,916.0,45.5,47.8
 FL-governor,InsiderAdvantage,2026-10-29,1200.0,45.0,49.0
+FL-governor,Big Data Poll,2026-10-30,1067.0,44.2,47.4
 FL-senate,University of North Florida Public Opinion Research Lab,2026-03-02,768.0,38.0,46.0
 FL-senate,Emerson College,2026-03-31,1125.0,36.3,47.3
 FL-senate,Stetson University Center for Public Opinion Research,2026-04-13,414.0,38.0,51.0
@@ -90,6 +92,7 @@ FL-senate,Siena,2026-10-26,600.0,44.0,50.0
 FL-senate,St. Pete Polls,2026-10-27,916.0,44.7,49.0
 FL-senate,ActiVote,2026-10-27,400.0,47.0,53.0
 FL-senate,InsiderAdvantage,2026-10-29,1200.0,43.0,49.0
+FL-senate,Big Data Poll,2026-10-30,1067.0,44.7,51.6
 GA-governor,Echelon Insights,2026-04-09,407.0,49.0,43.0
 GA-governor,Beacon Research/Shaw & Co. Research,2026-06-27,1002.0,52.0,47.0
 GA-governor,Wick,2026-06-30,1175.0,42.7,43.2
@@ -215,6 +218,7 @@ ME-governor,Echelon Insights,2026-10-23,413.0,51.0,38.0
 ME-governor,Marist,2026-10-24,600.0,44.0,44.0
 ME-governor,Marist College,2026-10-25,1449.0,51.0,40.0
 ME-governor,CNN,2026-10-26,783.0,53.0,39.0
+ME-governor,Data for Progress,2026-10-27,652.0,49.0,37.0
 ME-senate,University of New Hampshire Survey Center,2026-07-20,1178.0,49.0,46.0
 ME-senate,Beacon Research/Shaw & Co. Research,2026-08-10,1000.0,48.0,46.0
 ME-senate,Abacus Data,2026-08-28,327.0,50.0,42.0
@@ -239,6 +243,7 @@ ME-senate,Echelon Insights,2026-10-23,413.0,51.0,44.0
 ME-senate,Marist,2026-10-24,600.0,49.0,47.0
 ME-senate,Marist College,2026-10-25,1449.0,53.0,44.0
 ME-senate,CNN,2026-10-26,783.0,49.0,45.0
+ME-senate,Data for Progress,2026-10-27,652.0,50.0,45.0
 ME-senate,SSRS,2026-10-27,600.0,49.0,45.0
 MI-governor,Target Insyght,2025-03-06,600.0,42.0,30.0
 MI-governor,Mitchell Research & Communications,2025-03-13,688.0,37.0,34.0
@@ -278,8 +283,10 @@ MI-governor,Michigan State University Institute for Public Policy and Social Res
 MI-governor,Glengariff Group,2026-10-22,600.0,51.4,44.5
 MI-governor,Michigan State University Office for Survey Research/Verasight,2026-10-23,1383.0,51.4,41.2
 MI-governor,Verasight,2026-10-23,600.0,51.0,42.0
+MI-governor,Data for Progress,2026-10-25,622.0,52.0,43.0
 MI-governor,CNN,2026-10-27,768.0,53.0,41.0
 MI-governor,Mitchell Research & Communications,2026-10-27,636.0,49.0,44.0
+MI-governor,Data For Progress,2026-10-27,600.0,52.0,43.0
 MI-governor,Rasmussen,2026-10-29,600.0,50.0,40.0
 MI-senate,Glengariff Group,2025-05-08,600.0,40.8,46.9
 MI-senate,Rosetta Stone,2025-10-25,637.0,31.0,45.0
@@ -325,8 +332,10 @@ MI-senate,Glengariff Group,2026-10-22,600.0,51.4,45.1
 MI-senate,InsiderAdvantage,2026-10-22,1200.0,47.2,46.0
 MI-senate,Michigan State University Office for Survey Research/Verasight,2026-10-23,1383.0,51.4,42.2
 MI-senate,Verasight,2026-10-23,600.0,51.0,43.0
+MI-senate,Data for Progress,2026-10-25,622.0,50.0,46.0
 MI-senate,CNN,2026-10-27,768.0,49.0,42.0
 MI-senate,Mitchell Research & Communications,2026-10-27,636.0,51.0,44.0
+MI-senate,Data For Progress,2026-10-27,600.0,50.0,46.0
 MI-senate,Upswing Research,2026-10-28,600.0,50.0,45.0
 MI-senate,Rasmussen,2026-10-29,600.0,49.0,44.0
 MN-governor,SurveyUSA,2025-09-18,568.0,49.0,38.0
@@ -579,8 +588,10 @@ TX-governor,YouGov,2026-10-21,1000.0,46.0,48.0
 TX-governor,ActiVote,2026-10-21,400.0,47.5,52.5
 TX-governor,Barbara Jordan Public Policy Research and Survey Center,2026-10-25,2000.0,47.0,50.0
 TX-governor,YouGov,2026-10-26,1000.0,49.0,46.0
+TX-governor,Data for Progress,2026-10-26,712.0,47.0,48.0
 TX-governor,YouGov,2026-10-26,1000.0,50.0,46.0
 TX-governor,CNN,2026-10-27,923.0,46.0,48.0
+TX-governor,Data For Progress,2026-10-27,600.0,47.0,48.0
 TX-governor,Quantus Insights,2026-10-28,1214.0,46.3,51.6
 TX-governor,ActiVote,2026-10-29,400.0,47.9,52.1
 TX-senate,Barbara Jordan Public Policy Research and Survey Center,2025-05-19,1200.0,44.0,48.0
@@ -646,9 +657,11 @@ TX-senate,ActiVote,2026-10-21,400.0,51.0,49.0
 TX-senate,Rasmussen,2026-10-21,600.0,45.0,45.0
 TX-senate,Barbara Jordan Public Policy Research and Survey Center,2026-10-25,2000.0,49.0,47.0
 TX-senate,YouGov,2026-10-26,1000.0,51.0,43.0
+TX-senate,Data for Progress,2026-10-26,712.0,49.0,45.0
 TX-senate,YouGov,2026-10-26,1000.0,52.0,43.0
 TX-senate,A2 Insights,2026-10-27,631.0,50.2,47.2
 TX-senate,CNN,2026-10-27,923.0,49.0,43.0
+TX-senate,Data For Progress,2026-10-27,600.0,49.0,45.0
 TX-senate,Quantus Insights,2026-10-28,1207.0,48.4,49.4
 TX-senate,ActiVote,2026-10-28,400.0,52.1,47.9
 WI-governor,RMG Research,2026-07-24,800.0,46.0,43.0

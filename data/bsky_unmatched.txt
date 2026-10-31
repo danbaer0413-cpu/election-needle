@@ -144,6 +144,3 @@ New York - Governor Polling:  🔵 Hochul: 53% 🔴 Blakeman: 42%  Marist / Oct 
 Generic Ballot Polling:  🔵DEM: 54% 🔴GOP: 42%  Honest Polling / Oct 6, 2026
 Generic Ballot Polling:  🔵DEM: 50% 🔴GOP: 42%  Centerline Research / Oct 1, 2026
 Generic Ballot Polling:  🔵DEM: 51% 🔴GOP: 40%  YouGov / Oct 5, 2026
-New Mexico - Senate Polling:  🔵Lujan: 54%* 🔴Marker: 36%  SurveyUSA / Sept 30, 2026  (Current model result for NM-SEN: DEM 61% - GOP 39%)  unitedstatespolling.com/p/democrats-...
-Generic Ballot Polling:  🔵 Democrat: 45% 🔴 Republican: 35%  KFF / Sept 21, 2026
-Arizona - Governor Polling:  🔵 Hobbs: 47%* 🔴 Biggs: 34%  BSP / Sept 4, 2026 - (Released Today)
