@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30T22:19:36+00:00",
- "source": "Cook Political Report via 270toWin, Oct 23 2026",
+ "updated": "2026-10-31T02:37:07+00:00",
+ "source": "Cook Political Report House ratings, updated list Oct 30 2026",
  "districts": [
   {
    "state": "CA",
@@ -62,9 +62,9 @@
    "district": "2",
    "rating": "Likely Dem",
    "m0": 9.0,
-   "early_adj": 0.48,
-   "early_margin": 13.1,
-   "m": 9.48,
+   "early_adj": 0.0,
+   "early_margin": null,
+   "m": 9.0,
    "bin": "Likely D",
    "called": null
   },
@@ -95,9 +95,9 @@
    "district": "1",
    "rating": "Likely Dem",
    "m0": 9.0,
-   "early_adj": -1.25,
-   "early_margin": 18.4,
-   "m": 7.75,
+   "early_adj": 0.0,
+   "early_margin": null,
+   "m": 9.0,
    "bin": "Likely D",
    "called": null
   },
@@ -106,9 +106,9 @@
    "district": "3",
    "rating": "Likely Dem",
    "m0": 9.0,
-   "early_adj": -0.84,
-   "early_margin": 18.4,
-   "m": 8.16,
+   "early_adj": 0.0,
+   "early_margin": null,
+   "m": 9.0,
    "bin": "Likely D",
    "called": null
   },
@@ -117,9 +117,9 @@
    "district": "4",
    "rating": "Likely Dem",
    "m0": 9.0,
-   "early_adj": -2.0,
-   "early_margin": 11.8,
-   "m": 7.0,
+   "early_adj": 0.0,
+   "early_margin": null,
+   "m": 9.0,
    "bin": "Likely D",
    "called": null
   },
@@ -249,9 +249,9 @@
    "district": "25",
    "rating": "Leans Dem",
    "m0": 5.0,
-   "early_adj": 1.14,
-   "early_margin": 21.5,
-   "m": 6.14,
+   "early_adj": 0.17,
+   "early_margin": 24.1,
+   "m": 5.17,
    "bin": "Lean D",
    "called": null
   },
@@ -260,9 +260,9 @@
    "district": "1",
    "rating": "Leans Dem",
    "m0": 5.0,
-   "early_adj": -0.09,
-   "early_margin": 23.6,
-   "m": 4.91,
+   "early_adj": -0.75,
+   "early_margin": 30.0,
+   "m": 4.25,
    "bin": "Lean D",
    "called": null
   },
@@ -271,9 +271,9 @@
    "district": "3",
    "rating": "Leans Dem",
    "m0": 5.0,
-   "early_adj": 0.34,
-   "early_margin": 24.7,
-   "m": 5.34,
+   "early_adj": -0.45,
+   "early_margin": 28.5,
+   "m": 4.55,
    "bin": "Lean D",
    "called": null
   },
@@ -311,8 +311,30 @@
    "called": null
   },
   {
+   "state": "OH",
+   "district": "9",
+   "rating": "Leans Dem",
+   "m0": 5.0,
+   "early_adj": 0.0,
+   "early_margin": null,
+   "m": 5.0,
+   "bin": "Lean D",
+   "called": null
+  },
+  {
    "state": "PA",
    "district": "7",
+   "rating": "Leans Dem",
+   "m0": 5.0,
+   "early_adj": 0.0,
+   "early_margin": null,
+   "m": 5.0,
+   "bin": "Lean D",
+   "called": null
+  },
+  {
+   "state": "PA",
+   "district": "8",
    "rating": "Leans Dem",
    "m0": 5.0,
    "early_adj": 0.0,
@@ -388,13 +410,24 @@
    "called": null
   },
   {
+   "state": "CO",
+   "district": "5",
+   "rating": "Toss-up",
+   "m0": 0.0,
+   "early_adj": 0.0,
+   "early_margin": null,
+   "m": 0.0,
+   "bin": "Toss-up",
+   "called": null
+  },
+  {
    "state": "FL",
    "district": "14",
    "rating": "Toss-up",
    "m0": 0.0,
-   "early_adj": 0.38,
-   "early_margin": 8.5,
-   "m": 0.38,
+   "early_adj": -0.39,
+   "early_margin": 8.6,
+   "m": -0.39,
    "bin": "Toss-up",
    "called": null
   },
@@ -403,9 +436,9 @@
    "district": "22",
    "rating": "Toss-up",
    "m0": 0.0,
-   "early_adj": 0.41,
-   "early_margin": 10.6,
-   "m": 0.41,
+   "early_adj": 0.04,
+   "early_margin": 15.1,
+   "m": 0.04,
    "bin": "Toss-up",
    "called": null
   },
@@ -414,9 +447,9 @@
    "district": "2",
    "rating": "Toss-up",
    "m0": 0.0,
-   "early_adj": 1.04,
-   "early_margin": 22.3,
-   "m": 1.04,
+   "early_adj": 1.26,
+   "early_margin": 29.4,
+   "m": 1.26,
    "bin": "Tilt D",
    "called": null
   },
@@ -509,19 +542,8 @@
    "called": null
   },
   {
-   "state": "OH",
-   "district": "9",
-   "rating": "Toss-up",
-   "m0": 0.0,
-   "early_adj": 0.0,
-   "early_margin": null,
-   "m": 0.0,
-   "bin": "Toss-up",
-   "called": null
-  },
-  {
    "state": "PA",
-   "district": "8",
+   "district": "1",
    "rating": "Toss-up",
    "m0": 0.0,
    "early_adj": 0.0,
@@ -531,8 +553,8 @@
    "called": null
   },
   {
-   "state": "TX",
-   "district": "15",
+   "state": "SC",
+   "district": "1",
    "rating": "Toss-up",
    "m0": 0.0,
    "early_adj": 0.0,
@@ -544,6 +566,17 @@
   {
    "state": "TX",
    "district": "35",
+   "rating": "Toss-up",
+   "m0": 0.0,
+   "early_adj": 0.0,
+   "early_margin": null,
+   "m": 0.0,
+   "bin": "Toss-up",
+   "called": null
+  },
+  {
+   "state": "TX",
+   "district": "15",
    "rating": "Toss-up",
    "m0": 0.0,
    "early_adj": 0.0,
@@ -608,13 +641,24 @@
    "called": null
   },
   {
-   "state": "CO",
-   "district": "5",
+   "state": "FL",
+   "district": "7",
    "rating": "Leans Rep",
    "m0": -5.0,
-   "early_adj": 0.0,
-   "early_margin": null,
-   "m": -5.0,
+   "early_adj": -0.25,
+   "early_margin": 6.4,
+   "m": -5.25,
+   "bin": "Lean R",
+   "called": null
+  },
+  {
+   "state": "FL",
+   "district": "9",
+   "rating": "Leans Rep",
+   "m0": -5.0,
+   "early_adj": 0.19,
+   "early_margin": 0.1,
+   "m": -4.81,
    "bin": "Lean R",
    "called": null
   },
@@ -623,9 +667,9 @@
    "district": "13",
    "rating": "Leans Rep",
    "m0": -5.0,
-   "early_adj": -0.3,
-   "early_margin": -2.1,
-   "m": -5.3,
+   "early_adj": -0.59,
+   "early_margin": -1.1,
+   "m": -5.59,
    "bin": "Lean R",
    "called": null
   },
@@ -634,9 +678,20 @@
    "district": "27",
    "rating": "Leans Rep",
    "m0": -5.0,
-   "early_adj": -0.04,
-   "early_margin": 4.8,
-   "m": -5.04,
+   "early_adj": -0.66,
+   "early_margin": 6.1,
+   "m": -5.66,
+   "bin": "Lean R",
+   "called": null
+  },
+  {
+   "state": "IN",
+   "district": "5",
+   "rating": "Leans Rep",
+   "m0": -5.0,
+   "early_adj": 0.0,
+   "early_margin": null,
+   "m": -5.0,
    "bin": "Lean R",
    "called": null
   },
@@ -667,9 +722,9 @@
    "district": "2",
    "rating": "Leans Rep",
    "m0": -5.0,
-   "early_adj": 2.0,
-   "early_margin": -9.9,
-   "m": -3.0,
+   "early_adj": 0.0,
+   "early_margin": null,
+   "m": -5.0,
    "bin": "Lean R",
    "called": null
   },
@@ -698,28 +753,6 @@
   {
    "state": "OH",
    "district": "15",
-   "rating": "Leans Rep",
-   "m0": -5.0,
-   "early_adj": 0.0,
-   "early_margin": null,
-   "m": -5.0,
-   "bin": "Lean R",
-   "called": null
-  },
-  {
-   "state": "PA",
-   "district": "1",
-   "rating": "Leans Rep",
-   "m0": -5.0,
-   "early_adj": 0.0,
-   "early_margin": null,
-   "m": -5.0,
-   "bin": "Lean R",
-   "called": null
-  },
-  {
-   "state": "SC",
-   "district": "1",
    "rating": "Leans Rep",
    "m0": -5.0,
    "early_adj": 0.0,
@@ -774,45 +807,12 @@
   },
   {
    "state": "FL",
-   "district": "7",
-   "rating": "Likely Rep",
-   "m0": -9.0,
-   "early_adj": 0.12,
-   "early_margin": 4.3,
-   "m": -8.88,
-   "bin": "Likely R",
-   "called": null
-  },
-  {
-   "state": "FL",
-   "district": "9",
-   "rating": "Likely Rep",
-   "m0": -9.0,
-   "early_adj": 0.05,
-   "early_margin": -2.4,
-   "m": -8.95,
-   "bin": "Likely R",
-   "called": null
-  },
-  {
-   "state": "FL",
    "district": "16",
    "rating": "Likely Rep",
    "m0": -9.0,
-   "early_adj": -0.66,
-   "early_margin": -7.7,
-   "m": -9.66,
-   "bin": "Likely R",
-   "called": null
-  },
-  {
-   "state": "IN",
-   "district": "5",
-   "rating": "Likely Rep",
-   "m0": -9.0,
-   "early_adj": 0.0,
-   "early_margin": null,
-   "m": -9.0,
+   "early_adj": -0.49,
+   "early_margin": -4.4,
+   "m": -9.49,
    "bin": "Likely R",
    "called": null
   },
@@ -821,9 +821,9 @@
    "district": "2",
    "rating": "Likely Rep",
    "m0": -9.0,
-   "early_adj": 1.39,
-   "early_margin": 7.9,
-   "m": -7.61,
+   "early_adj": 0.0,
+   "early_margin": null,
+   "m": -9.0,
    "bin": "Likely R",
    "called": null
   },
@@ -851,6 +851,28 @@
   },
   {
    "state": "NC",
+   "district": "5",
+   "rating": "Likely Rep",
+   "m0": -9.0,
+   "early_adj": 0.0,
+   "early_margin": null,
+   "m": -9.0,
+   "bin": "Likely R",
+   "called": null
+  },
+  {
+   "state": "NC",
+   "district": "9",
+   "rating": "Likely Rep",
+   "m0": -9.0,
+   "early_adj": 0.0,
+   "early_margin": null,
+   "m": -9.0,
+   "bin": "Likely R",
+   "called": null
+  },
+  {
+   "state": "NC",
    "district": "13",
    "rating": "Likely Rep",
    "m0": -9.0,
@@ -865,9 +887,20 @@
    "district": "1",
    "rating": "Likely Rep",
    "m0": -9.0,
-   "early_adj": 0.89,
-   "early_margin": 4.0,
-   "m": -8.11,
+   "early_adj": 0.0,
+   "early_margin": null,
+   "m": -9.0,
+   "bin": "Likely R",
+   "called": null
+  },
+  {
+   "state": "NJ",
+   "district": "2",
+   "rating": "Likely Rep",
+   "m0": -9.0,
+   "early_adj": 0.0,
+   "early_margin": null,
+   "m": -9.0,
    "bin": "Likely R",
    "called": null
   },
@@ -892,19 +925,27 @@
    "m": -9.0,
    "bin": "Likely R",
    "called": null
+  },
+  {
+   "state": "WA",
+   "district": "5",
+   "rating": "Likely Rep",
+   "m0": -9.0,
+   "early_adj": 0.0,
+   "early_margin": null,
+   "m": -9.0,
+   "bin": "Likely R",
+   "called": null
   }
  ],
  "solid_D": 186,
- "solid_R": 168,
+ "solid_R": 164,
  "called_safe_D": 0,
  "called_safe_R": 0,
  "total": 435,
  "majority": 218,
  "early_states": [
   "FL",
-  "IA",
-  "KS",
-  "NE",
-  "NV"
+  "IA"
  ]
 }
