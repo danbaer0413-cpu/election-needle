@@ -154,6 +154,7 @@ IA-governor,New River Strategies/GS Strategy Group,2026-10-13,602.0,54.0,43.0
 IA-governor,co/efficient,2026-10-19,863.0,49.0,45.0
 IA-governor,Echelon Insights,2026-10-23,403.0,50.0,46.0
 IA-governor,co/efficient,2026-10-28,1020.0,50.0,45.0
+IA-governor,YouGov,2026-10-29,2020.0,53.0,46.0
 IA-senate,Change Research,2026-01-11,1108.0,41.0,44.0
 IA-senate,Echelon Insights,2026-04-09,377.0,46.0,45.0
 IA-senate,Beacon Research/Shaw & Co. Research,2026-06-27,1003.0,50.0,46.0
@@ -183,6 +184,7 @@ IA-senate,InsiderAdvantage,2026-10-22,1200.0,45.0,47.0
 IA-senate,InsiderAdvantage,2026-10-22,1200.0,45.5,47.0
 IA-senate,Echelon Insights,2026-10-23,403.0,45.0,43.0
 IA-senate,co/efficient,2026-10-28,1020.0,46.0,48.0
+IA-senate,YouGov,2026-10-29,2020.0,50.0,49.0
 KS-governor,co/efficient,2026-09-10,915.0,43.0,51.0
 KS-governor,Emerson College,2026-09-16,750.0,43.48,50.82
 KS-governor,The New York Times/Siena College,2026-09-30,605.0,44.38,48.52
@@ -191,6 +193,7 @@ KS-governor,YouGov,2026-10-05,600.0,44.0,47.0
 KS-governor,The Washington Post/George Mason University Schar School of Policy and Government,2026-10-26,801.0,51.0,45.0
 KS-governor,CNN,2026-10-26,838.0,45.0,50.0
 KS-governor,Emerson College,2026-10-28,800.0,47.5,52.5
+KS-governor,YouGov,2026-10-29,2092.0,49.0,50.0
 KS-senate,Tavern Research,2026-01-28,1013.0,46.0,54.0
 KS-senate,co/efficient,2026-09-10,915.0,44.0,49.0
 KS-senate,Emerson College,2026-09-16,750.0,44.75,43.3
@@ -204,6 +207,7 @@ KS-senate,The Washington Post/George Mason University Schar School of Policy and
 KS-senate,CNN,2026-10-26,838.0,49.0,45.0
 KS-senate,Schar,2026-10-26,600.0,52.0,43.0
 KS-senate,Emerson College,2026-10-28,800.0,49.5,47.1
+KS-senate,YouGov,2026-10-29,2092.0,50.0,49.0
 ME-governor,The New York Times/Siena College,2026-06-26,608.0,55.38,39.62
 ME-governor,Beacon Research/Shaw & Co. Research,2026-06-27,1003.0,53.0,42.0
 ME-governor,University of New Hampshire Survey Center,2026-07-20,1150.0,49.0,35.0
@@ -225,6 +229,7 @@ ME-governor,Marist,2026-10-24,600.0,44.0,44.0
 ME-governor,Marist College,2026-10-25,1449.0,51.0,40.0
 ME-governor,CNN,2026-10-26,783.0,53.0,39.0
 ME-governor,Data for Progress,2026-10-27,652.0,49.0,37.0
+ME-governor,YouGov,2026-10-29,1503.0,53.0,45.0
 ME-senate,University of New Hampshire Survey Center,2026-07-20,1178.0,49.0,46.0
 ME-senate,Beacon Research/Shaw & Co. Research,2026-08-10,1000.0,48.0,46.0
 ME-senate,Abacus Data,2026-08-28,327.0,50.0,42.0
@@ -251,6 +256,7 @@ ME-senate,Marist College,2026-10-25,1449.0,53.0,44.0
 ME-senate,CNN,2026-10-26,783.0,49.0,45.0
 ME-senate,Data for Progress,2026-10-27,652.0,50.0,45.0
 ME-senate,SSRS,2026-10-27,600.0,49.0,45.0
+ME-senate,YouGov,2026-10-29,1503.0,52.0,47.0
 MI-governor,Target Insyght,2025-03-06,600.0,42.0,30.0
 MI-governor,Mitchell Research & Communications,2025-03-13,688.0,37.0,34.0
 MI-governor,Glengariff Group,2025-05-08,600.0,34.5,34.0
@@ -293,6 +299,7 @@ MI-governor,Data for Progress,2026-10-25,622.0,52.0,43.0
 MI-governor,CNN,2026-10-27,768.0,53.0,41.0
 MI-governor,Mitchell Research & Communications,2026-10-27,636.0,49.0,44.0
 MI-governor,Data For Progress,2026-10-27,600.0,52.0,43.0
+MI-governor,YouGov,2026-10-29,2093.0,52.0,46.0
 MI-governor,Rasmussen,2026-10-29,600.0,50.0,40.0
 MI-senate,Glengariff Group,2025-05-08,600.0,40.8,46.9
 MI-senate,Rosetta Stone,2025-10-25,637.0,31.0,45.0
@@ -343,6 +350,7 @@ MI-senate,CNN,2026-10-27,768.0,49.0,42.0
 MI-senate,Mitchell Research & Communications,2026-10-27,636.0,51.0,44.0
 MI-senate,Data For Progress,2026-10-27,600.0,50.0,46.0
 MI-senate,Upswing Research,2026-10-28,600.0,50.0,45.0
+MI-senate,YouGov,2026-10-29,2093.0,51.0,47.0
 MI-senate,Rasmussen,2026-10-29,600.0,49.0,44.0
 MN-governor,SurveyUSA,2025-09-18,568.0,49.0,38.0
 MN-governor,SurveyUSA,2026-01-30,575.0,49.0,34.0
@@ -407,16 +415,19 @@ NC-senate,High Point University Survey Research Center,2026-10-20,620.0,54.0,40.
 NC-senate,Harper Polling,2026-10-20,600.0,51.6,42.0
 NC-senate,ActiVote,2026-10-20,400.0,56.9,43.1
 NC-senate,Quantus Insights,2026-10-25,722.0,52.4,43.4
+NC-senate,YouGov,2026-10-29,2130.0,55.0,44.0
 NE-governor,SurveyUSA,2026-09-13,503.0,35.0,43.0
 NE-governor,co/efficient,2026-09-30,1113.0,38.0,42.0
 NE-governor,YouGov,2026-10-03,1808.0,43.0,44.0
 NE-governor,Echelon Insights,2026-10-23,407.0,40.0,47.0
+NE-governor,YouGov,2026-10-29,1979.0,47.0,50.0
 NE-governor,The New York Times/Siena College,2026-10-29,809.0,39.57,53.09
 NE-senate,SurveyUSA,2026-09-13,503.0,46.0,42.0
 NE-senate,co/efficient,2026-09-30,1113.0,44.0,47.0
 NE-senate,YouGov,2026-10-03,1808.0,48.0,47.0
 NE-senate,YouGov,2026-10-05,600.0,48.0,47.0
 NE-senate,Echelon Insights,2026-10-23,407.0,46.0,47.0
+NE-senate,YouGov,2026-10-29,1979.0,49.0,49.0
 NE-senate,The New York Times/Siena College,2026-10-29,809.0,43.01,48.7
 NH-governor,Saint Anselm College Survey Center,2026-03-18,1491.0,39.0,46.0
 NH-governor,University of New Hampshire Survey Center,2026-04-21,1117.0,39.0,47.0
@@ -493,6 +504,7 @@ OH-governor,ActiVote,2026-10-19,400.0,48.6,51.4
 OH-governor,Verasight,2026-10-20,531.0,46.2,45.4
 OH-governor,Echelon Insights,2026-10-23,508.0,45.0,47.0
 OH-governor,Suffolk University,2026-10-26,500.0,48.0,44.0
+OH-governor,YouGov,2026-10-29,2090.0,52.0,46.0
 OH-governor,ActiVote,2026-10-31,400.0,50.8,49.2
 OH-senate,Bowling Green State University/YouGov,2025-02-21,800.0,41.0,47.0
 OH-senate,Bowling Green State University/YouGov,2025-04-24,800.0,46.0,49.0
@@ -532,6 +544,7 @@ OH-senate,Verasight,2026-10-20,531.0,47.5,43.6
 OH-senate,InsiderAdvantage,2026-10-22,1200.0,46.7,44.4
 OH-senate,Echelon Insights,2026-10-23,508.0,47.0,47.0
 OH-senate,Suffolk University,2026-10-26,500.0,46.6,43.8
+OH-senate,YouGov,2026-10-29,2090.0,50.0,48.0
 OH-senate,ActiVote,2026-10-31,400.0,50.2,49.8
 SC-governor,Resonance Media,2026-10-03,600.0,35.0,45.0
 SC-governor,The Citadel School of Humanities and Social Sciences,2026-10-25,890.0,31.0,42.0
@@ -603,6 +616,7 @@ TX-governor,YouGov,2026-10-26,1000.0,50.0,46.0
 TX-governor,CNN,2026-10-27,923.0,46.0,48.0
 TX-governor,Data For Progress,2026-10-27,600.0,47.0,48.0
 TX-governor,Quantus Insights,2026-10-28,1214.0,46.3,51.6
+TX-governor,YouGov,2026-10-29,2141.0,49.0,50.0
 TX-governor,ActiVote,2026-10-29,400.0,47.9,52.1
 TX-governor,Kreate Strategies,2026-10-30,900.0,47.0,49.0
 TX-senate,Barbara Jordan Public Policy Research and Survey Center,2025-05-19,1200.0,44.0,48.0
@@ -675,6 +689,7 @@ TX-senate,CNN,2026-10-27,923.0,49.0,43.0
 TX-senate,Data For Progress,2026-10-27,600.0,49.0,45.0
 TX-senate,Quantus Insights,2026-10-28,1207.0,48.4,49.4
 TX-senate,ActiVote,2026-10-28,400.0,52.1,47.9
+TX-senate,YouGov,2026-10-29,2141.0,51.0,47.0
 TX-senate,Kreate Strategies,2026-10-30,900.0,48.0,45.0
 WI-governor,RMG Research,2026-07-24,800.0,46.0,43.0
 WI-governor,Platform Communications,2026-08-13,500.0,48.0,44.0
