@@ -1,6 +1,6 @@
 id,poll_margin,n_polls,rule_used,pollsters,window_start,window_end
-OH-senate,3.73,6,tier1,Rasmussen;Marist College;Beacon Research/Shaw & Co. Research;InsiderAdvantage;Echelon Insights;Suffolk University,2026-10-11,2026-11-01
-OH-governor,3.54,4,tier1,Marist College;Beacon Research/Shaw & Co. Research;Echelon Insights;Suffolk University,2026-10-11,2026-11-01
+OH-senate,3.64,6,tier1,Rasmussen;Marist College;Beacon Research/Shaw & Co. Research;InsiderAdvantage;Echelon Insights;Suffolk University,2026-10-11,2026-11-01
+OH-governor,3.45,5,tier1,Marist College;Beacon Research/Shaw & Co. Research;Echelon Insights;Suffolk University;InsiderAdvantage,2026-10-11,2026-11-01
 MI-senate,4.97,5,tier1,Rasmussen;Marist College;Glengariff Group;InsiderAdvantage;Michigan State University Office for Survey Research/Verasight,2026-10-11,2026-11-01
 MN-senate,7.6,5,"tier1,35d",InsiderAdvantage;Mason-Dixon Polling & Strategy;Rasmussen;SurveyUSA;The New York Times/Siena College,2026-09-27,2026-11-01
 IA-senate,1.64,7,"tier1,35d",Beacon Research/Shaw & Co. Research;The New York Times/Siena College;Suffolk University;Emerson College;Marist College;InsiderAdvantage;Echelon Insights,2026-09-27,2026-11-01
