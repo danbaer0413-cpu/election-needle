@@ -212,3 +212,28 @@ def performance_line(s: dict) -> str | None:
     names = [f"{r.county} ({_pts(r.vs_expected)})" for r in big.head(2).itertuples() if r.push > 0]
     return (f"So far the count is running **{abs(avg):.1f} points {side} than expected** statewide"
             + (f", led by {' and '.join(names)}." if names else "."))
+
+
+def independents_line(rid: str, s: dict) -> str | None:
+    """One line on how the model assumes independents vote in this race's state (config/electorate.csv, config/other_lean.csv).
+    These are assumptions, not measurements, and a small input to the estimate. None when the race has no electorate row."""
+    try:
+        st_code = str(rid).split("-")[0]
+        tab = pd.read_csv("config/electorate.csv").set_index("state")
+        if st_code not in tab.index or s.get("baseline_margin") is None:
+            return None
+        r = tab.loc[st_code]
+        m24 = float(s["baseline_margin"])
+        i24 = m24 + float(r["ind_edge_24"])
+        i26 = i24 + float(r["ind_shift"])
+        txt = (f"**Independents** are about {float(r['ind_share']) * 100:.0f}% of voters here. The model assumes they vote about **{_dr(i26)}** "
+               f"(about {_dr(i24)} in 2024, moved {float(r['ind_shift']):.0f} pts toward Democrats). ")
+        try:
+            ol = pd.read_csv("config/other_lean.csv").set_index("race")
+            if rid in ol.index:
+                txt += f"Among early voters with no party, it assumes they lean {float(ol.loc[rid, 'other_lean']):.1f} pts more Democratic than the early pool. "
+        except Exception:
+            pass
+        return txt + "These are assumptions, not measured numbers, and a small part of the estimate: the polls already include independents."
+    except Exception:
+        return None

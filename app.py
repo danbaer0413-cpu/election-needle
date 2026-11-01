@@ -17,7 +17,7 @@ except ImportError:
 
     def load_ak_geo():
         return None
-from explain import behind_lines, performance_line, drivers_lines, firewall_lines, inputs_lines, outcome_lines
+from explain import behind_lines, independents_line, performance_line, drivers_lines, firewall_lines, inputs_lines, outcome_lines
 import changes
 from publish import from_json_summary, read_log
 from states import STATES
@@ -336,6 +336,9 @@ _pa_avg = _pa0.get("avg") if _pa0 else None
 with st.expander("What's behind this number", expanded=True):
     for line in behind_lines(s, pa_avg=_pa_avg):
         st.markdown(line)
+    _ind = independents_line(rid, item.get("summary") or {})
+    if _ind:
+        st.markdown(_ind)
 with st.expander("What's moving the needle", expanded=False):
     for line in drivers_lines(s):
         st.markdown(line)
