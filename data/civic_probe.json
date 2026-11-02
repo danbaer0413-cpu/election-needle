@@ -1,4 +1,5 @@
 {
+ "version": 2,
  "states": {
   "AK": {
    "counts": {
@@ -26,15 +27,160 @@
   },
   "FL": {
    "counts": {
-    "senate": 0,
+    "senate": 1,
     "governor": 1,
-    "house": 0
+    "house": 28
    },
    "races": [
     [
      "governor",
      87069,
      "Florida Governor"
+    ],
+    [
+     "house",
+     87063,
+     "Florida US House 24"
+    ],
+    [
+     "house",
+     87066,
+     "Florida US House 27"
+    ],
+    [
+     "house",
+     87058,
+     "Florida US House 19"
+    ],
+    [
+     "house",
+     87043,
+     "Florida US House 4"
+    ],
+    [
+     "house",
+     87067,
+     "Florida US House 28"
+    ],
+    [
+     "house",
+     87055,
+     "Florida US House 16"
+    ],
+    [
+     "house",
+     87047,
+     "Florida US House 8"
+    ],
+    [
+     "house",
+     87064,
+     "Florida US House 25"
+    ],
+    [
+     "house",
+     87056,
+     "Florida US House 17"
+    ],
+    [
+     "house",
+     87059,
+     "Florida US House 20"
+    ],
+    [
+     "house",
+     87051,
+     "Florida US House 12"
+    ],
+    [
+     "senate",
+     87068,
+     "Florida US Senate Special"
+    ],
+    [
+     "house",
+     87060,
+     "Florida US House 21"
+    ],
+    [
+     "house",
+     87048,
+     "Florida US House 9"
+    ],
+    [
+     "house",
+     87040,
+     "Florida US House 1"
+    ],
+    [
+     "house",
+     87057,
+     "Florida US House 18"
+    ],
+    [
+     "house",
+     87049,
+     "Florida US House 10"
+    ],
+    [
+     "house",
+     87052,
+     "Florida US House 13"
+    ],
+    [
+     "house",
+     87044,
+     "Florida US House 5"
+    ],
+    [
+     "house",
+     87061,
+     "Florida US House 22"
+    ],
+    [
+     "house",
+     87053,
+     "Florida US House 14"
+    ],
+    [
+     "house",
+     87041,
+     "Florida US House 2"
+    ],
+    [
+     "house",
+     87065,
+     "Florida US House 26"
+    ],
+    [
+     "house",
+     87050,
+     "Florida US House 11"
+    ],
+    [
+     "house",
+     87042,
+     "Florida US House 3"
+    ],
+    [
+     "house",
+     87045,
+     "Florida US House 6"
+    ],
+    [
+     "house",
+     87062,
+     "Florida US House 23"
+    ],
+    [
+     "house",
+     87054,
+     "Florida US House 15"
+    ],
+    [
+     "house",
+     87046,
+     "Florida US House 7"
     ]
    ]
   },
@@ -42,13 +188,53 @@
    "counts": {
     "senate": 1,
     "governor": 1,
-    "house": 16
+    "house": 14
    },
    "races": [
     [
      "governor",
      87088,
      "Georgia Governor"
+    ],
+    [
+     "house",
+     87082,
+     "Georgia US House 10"
+    ],
+    [
+     "house",
+     87073,
+     "Georgia US House 1"
+    ],
+    [
+     "house",
+     87083,
+     "Georgia US House 11"
+    ],
+    [
+     "house",
+     87074,
+     "Georgia US House 2"
+    ],
+    [
+     "house",
+     87075,
+     "Georgia US House 3"
+    ],
+    [
+     "house",
+     87084,
+     "Georgia US House 12"
+    ],
+    [
+     "house",
+     87076,
+     "Georgia US House 4"
+    ],
+    [
+     "house",
+     87085,
+     "Georgia US House 13"
     ],
     [
      "house",
@@ -59,6 +245,11 @@
      "house",
      87077,
      "Georgia US House 5"
+    ],
+    [
+     "senate",
+     87087,
+     "Georgia US Senate"
     ],
     [
      "house",
@@ -79,75 +270,45 @@
      "house",
      87081,
      "Georgia US House 9"
-    ],
-    [
-     "house",
-     87082,
-     "Georgia US House 10"
-    ],
-    [
-     "house",
-     87073,
-     "Georgia US House 1"
-    ],
-    [
-     "house",
-     87074,
-     "Georgia US House 2"
-    ],
-    [
-     "house",
-     87075,
-     "Georgia US House 3"
-    ],
-    [
-     "house",
-     87084,
-     "Georgia US House 12"
-    ],
-    [
-     "house",
-     87085,
-     "Georgia US House 13"
-    ],
-    [
-     "house",
-     87083,
-     "Georgia US House 11"
-    ],
-    [
-     "house",
-     87076,
-     "Georgia US House 4"
-    ],
-    [
-     "senate",
-     87087,
-     "Georgia US Senate"
-    ],
-    [
-     "house",
-     87536,
-     "Georgia US House 13 Runoff"
-    ],
-    [
-     "house",
-     84570,
-     "Georgia US House 13 Special"
     ]
    ]
   },
   "IA": {
    "counts": {
-    "senate": 0,
+    "senate": 1,
     "governor": 1,
-    "house": 0
+    "house": 4
    },
    "races": [
     [
      "governor",
      87152,
      "Iowa Governor"
+    ],
+    [
+     "house",
+     87149,
+     "Iowa US House 3"
+    ],
+    [
+     "house",
+     87147,
+     "Iowa US House 1"
+    ],
+    [
+     "house",
+     87150,
+     "Iowa US House 4"
+    ],
+    [
+     "senate",
+     87151,
+     "Iowa US Senate"
+    ],
+    [
+     "house",
+     87148,
+     "Iowa US House 2"
     ]
    ]
   },
@@ -164,6 +325,11 @@
      "Kansas Governor"
     ],
     [
+     "house",
+     87161,
+     "Kansas US House 4"
+    ],
+    [
      "senate",
      87162,
      "Kansas US Senate"
@@ -172,11 +338,6 @@
      "house",
      87159,
      "Kansas US House 2"
-    ],
-    [
-     "house",
-     87161,
-     "Kansas US House 4"
     ],
     [
      "house",
@@ -192,48 +353,173 @@
   },
   "ME": {
    "counts": {
-    "senate": 0,
+    "senate": 1,
     "governor": 1,
-    "house": 0
+    "house": 2
    },
    "races": [
     [
      "governor",
      87189,
      "Maine Governor"
+    ],
+    [
+     "house",
+     87187,
+     "Maine US House 2"
+    ],
+    [
+     "senate",
+     87188,
+     "Maine US Senate"
+    ],
+    [
+     "house",
+     87186,
+     "Maine US House 1"
     ]
    ]
   },
   "MI": {
    "counts": {
-    "senate": 0,
-    "governor": 2,
-    "house": 0
+    "senate": 1,
+    "governor": 1,
+    "house": 13
    },
    "races": [
     [
      "governor",
-     155751,
-     "Michigan Wayne State University Board of Governors"
-    ],
-    [
-     "governor",
      87215,
      "Michigan Governor"
+    ],
+    [
+     "house",
+     87202,
+     "Michigan US House 2"
+    ],
+    [
+     "house",
+     87211,
+     "Michigan US House 11"
+    ],
+    [
+     "house",
+     87203,
+     "Michigan US House 3"
+    ],
+    [
+     "house",
+     87212,
+     "Michigan US House 12"
+    ],
+    [
+     "house",
+     87213,
+     "Michigan US House 13"
+    ],
+    [
+     "house",
+     87204,
+     "Michigan US House 4"
+    ],
+    [
+     "senate",
+     87214,
+     "Michigan US Senate"
+    ],
+    [
+     "house",
+     87205,
+     "Michigan US House 5"
+    ],
+    [
+     "house",
+     87206,
+     "Michigan US House 6"
+    ],
+    [
+     "house",
+     87208,
+     "Michigan US House 8"
+    ],
+    [
+     "house",
+     87207,
+     "Michigan US House 7"
+    ],
+    [
+     "house",
+     87209,
+     "Michigan US House 9"
+    ],
+    [
+     "house",
+     87210,
+     "Michigan US House 10"
+    ],
+    [
+     "house",
+     87201,
+     "Michigan US House 1"
     ]
    ]
   },
   "MN": {
    "counts": {
-    "senate": 0,
+    "senate": 1,
     "governor": 1,
-    "house": 0
+    "house": 8
    },
    "races": [
     [
      "governor",
      87230,
      "Minnesota Governor"
+    ],
+    [
+     "house",
+     87225,
+     "Minnesota US House 5"
+    ],
+    [
+     "house",
+     87223,
+     "Minnesota US House 3"
+    ],
+    [
+     "senate",
+     87229,
+     "Minnesota US Senate"
+    ],
+    [
+     "house",
+     87227,
+     "Minnesota US House 7"
+    ],
+    [
+     "house",
+     87228,
+     "Minnesota US House 8"
+    ],
+    [
+     "house",
+     87222,
+     "Minnesota US House 2"
+    ],
+    [
+     "house",
+     87224,
+     "Minnesota US House 4"
+    ],
+    [
+     "house",
+     87221,
+     "Minnesota US House 1"
+    ],
+    [
+     "house",
+     87226,
+     "Minnesota US House 6"
     ]
    ]
   },
@@ -244,6 +530,16 @@
     "house": 4
    },
    "races": [
+    [
+     "house",
+     81000,
+     "Mississippi US House 1"
+    ],
+    [
+     "house",
+     81003,
+     "Mississippi US House 4"
+    ],
     [
      "senate",
      81004,
@@ -258,24 +554,14 @@
      "house",
      81002,
      "Mississippi US House 3"
-    ],
-    [
-     "house",
-     81000,
-     "Mississippi US House 1"
-    ],
-    [
-     "house",
-     81003,
-     "Mississippi US House 4"
     ]
    ]
   },
   "NE": {
    "counts": {
-    "senate": 0,
-    "governor": 28,
-    "house": 0
+    "senate": 1,
+    "governor": 1,
+    "house": 3
    },
    "races": [
     [
@@ -284,139 +570,24 @@
      "Nebraska Governor"
     ],
     [
-     "governor",
-     132521,
-     "Northeast Community College For Board of Governors - District 1"
+     "senate",
+     87254,
+     "Nebraska US Senate"
     ],
     [
-     "governor",
-     132553,
-     "Southeast Community College For Board of Governors - District 2"
+     "house",
+     87251,
+     "Nebraska US House 1"
     ],
     [
-     "governor",
-     132177,
-     "Central Community College For Board of Governors - District 4"
+     "house",
+     87252,
+     "Nebraska US House 2"
     ],
     [
-     "governor",
-     132554,
-     "Southeast Community College For Board of Governors - District 3"
-    ],
-    [
-     "governor",
-     132522,
-     "Northeast Community College For Board of Governors - District 2"
-    ],
-    [
-     "governor",
-     132618,
-     "Western Community College For Board of Governors - District 1"
-    ],
-    [
-     "governor",
-     132387,
-     "Mid-Plains Community College For Board of Governors - District 1"
-    ],
-    [
-     "governor",
-     132390,
-     "Mid-Plains Community College For Board of Governors - District 4"
-    ],
-    [
-     "governor",
-     132391,
-     "Mid-Plains Community College For Board of Governors - District 5"
-    ],
-    [
-     "governor",
-     132554,
-     "Southeast Community College For Board of Governors - District 3"
-    ],
-    [
-     "governor",
-     132522,
-     "Northeast Community College For Board of Governors - District 2"
-    ],
-    [
-     "governor",
-     132618,
-     "Western Community College For Board of Governors - District 1"
-    ],
-    [
-     "governor",
-     132387,
-     "Mid-Plains Community College For Board of Governors - District 1"
-    ],
-    [
-     "governor",
-     132178,
-     "Central Community College For Board of Governors - District 5"
-    ],
-    [
-     "governor",
-     132523,
-     "Northeast Community College For Board of Governors - District 3"
-    ],
-    [
-     "governor",
-     132619,
-     "Western Community College For Board of Governors - District 2"
-    ],
-    [
-     "governor",
-     132388,
-     "Mid-Plains Community College For Board of Governors - District 2"
-    ],
-    [
-     "governor",
-     132555,
-     "Southeast Community College For Board of Governors - District 4"
-    ],
-    [
-     "governor",
-     132381,
-     "Metropolitan Community College For Board of Governors - District 3"
-    ],
-    [
-     "governor",
-     132391,
-     "Mid-Plains Community College For Board of Governors - District 5"
-    ],
-    [
-     "governor",
-     132523,
-     "Northeast Community College For Board of Governors - District 3"
-    ],
-    [
-     "governor",
-     132619,
-     "Western Community College For Board of Governors - District 2"
-    ],
-    [
-     "governor",
-     132178,
-     "Central Community College For Board of Governors - District 5"
-    ],
-    [
-     "governor",
-     132555,
-     "Southeast Community College For Board of Governors - District 4"
-    ],
-    [
-     "governor",
-     132525,
-     "Northeast Community College For Board of Governors - District 5"
-    ],
-    [
-     "governor",
-     132175,
-     "Central Community College For Board of Governors - District 2"
-    ],
-    [
-     "governor",
-     132552,
-     "Southeast Community College For Board of Governors - District 1"
+     "house",
+     87253,
+     "Nebraska US House 3"
     ]
    ]
   },
@@ -433,11 +604,6 @@
      "New Hampshire Governor"
     ],
     [
-     "senate",
-     87283,
-     "New Hampshire US Senate"
-    ],
-    [
      "house",
      87281,
      "New Hampshire US House 1"
@@ -446,6 +612,11 @@
      "house",
      87282,
      "New Hampshire US House 2"
+    ],
+    [
+     "senate",
+     87283,
+     "New Hampshire US Senate"
     ]
    ]
   },
@@ -463,16 +634,6 @@
     ],
     [
      "house",
-     87258,
-     "Nevada US House 3"
-    ],
-    [
-     "house",
-     87259,
-     "Nevada US House 4"
-    ],
-    [
-     "house",
      87256,
      "Nevada US House 1"
     ],
@@ -480,6 +641,16 @@
      "house",
      87257,
      "Nevada US House 2"
+    ],
+    [
+     "house",
+     87258,
+     "Nevada US House 3"
+    ],
+    [
+     "house",
+     87259,
+     "Nevada US House 4"
     ]
    ]
   },
@@ -497,13 +668,13 @@
     ],
     [
      "house",
-     87355,
-     "Ohio US House 6"
+     87356,
+     "Ohio US House 7"
     ],
     [
      "house",
-     87356,
-     "Ohio US House 7"
+     87362,
+     "Ohio US House 13"
     ],
     [
      "house",
@@ -517,8 +688,18 @@
     ],
     [
      "house",
+     87354,
+     "Ohio US House 5"
+    ],
+    [
+     "house",
      87360,
      "Ohio US House 11"
+    ],
+    [
+     "house",
+     87355,
+     "Ohio US House 6"
     ],
     [
      "house",
@@ -532,13 +713,13 @@
     ],
     [
      "house",
-     87353,
-     "Ohio US House 4"
+     87358,
+     "Ohio US House 9"
     ],
     [
      "house",
-     87362,
-     "Ohio US House 13"
+     87353,
+     "Ohio US House 4"
     ],
     [
      "senate",
@@ -552,56 +733,281 @@
     ],
     [
      "house",
+     87351,
+     "Ohio US House 2"
+    ],
+    [
+     "house",
      87364,
      "Ohio US House 15"
     ],
     [
      "house",
-     87359,
-     "Ohio US House 10"
-    ],
-    [
-     "house",
-     87352,
-     "Ohio US House 3"
-    ],
-    [
-     "house",
-     87363,
-     "Ohio US House 14"
-    ],
-    [
-     "house",
-     87356,
-     "Ohio US House 7"
+     87361,
+     "Ohio US House 12"
     ]
    ]
   },
   "SC": {
    "counts": {
-    "senate": 0,
+    "senate": 1,
     "governor": 1,
-    "house": 0
+    "house": 7
    },
    "races": [
     [
      "governor",
      87410,
      "South Carolina Governor"
+    ],
+    [
+     "house",
+     87408,
+     "South Carolina US House 7"
+    ],
+    [
+     "house",
+     87403,
+     "South Carolina US House 2"
+    ],
+    [
+     "house",
+     87405,
+     "South Carolina US House 4"
+    ],
+    [
+     "senate",
+     87409,
+     "South Carolina US Senate"
+    ],
+    [
+     "house",
+     87407,
+     "South Carolina US House 6"
+    ],
+    [
+     "house",
+     87402,
+     "South Carolina US House 1"
+    ],
+    [
+     "house",
+     87404,
+     "South Carolina US House 3"
+    ],
+    [
+     "house",
+     87406,
+     "South Carolina US House 5"
     ]
    ]
   },
   "TX": {
    "counts": {
-    "senate": 0,
+    "senate": 1,
     "governor": 1,
-    "house": 0
+    "house": 38
    },
    "races": [
     [
      "governor",
      55857,
      "Texas Governor"
+    ],
+    [
+     "house",
+     87412,
+     "Texas US House 2"
+    ],
+    [
+     "house",
+     56008,
+     "Texas US House 22"
+    ],
+    [
+     "house",
+     56011,
+     "Texas US House 28"
+    ],
+    [
+     "house",
+     87428,
+     "Texas US House 23"
+    ],
+    [
+     "house",
+     87413,
+     "Texas US House 3"
+    ],
+    [
+     "house",
+     56009,
+     "Texas US House 26"
+    ],
+    [
+     "house",
+     56012,
+     "Texas US House 31"
+    ],
+    [
+     "house",
+     87436,
+     "Texas US House 37"
+    ],
+    [
+     "house",
+     87414,
+     "Texas US House 5"
+    ],
+    [
+     "house",
+     56010,
+     "Texas US House 27"
+    ],
+    [
+     "house",
+     56013,
+     "Texas US House 34"
+    ],
+    [
+     "house",
+     87437,
+     "Texas US House 38"
+    ],
+    [
+     "house",
+     87415,
+     "Texas US House 6"
+    ],
+    [
+     "house",
+     87418,
+     "Texas US House 11"
+    ],
+    [
+     "house",
+     56014,
+     "Texas US House 36"
+    ],
+    [
+     "senate",
+     87438,
+     "Texas US Senate"
+    ],
+    [
+     "house",
+     87416,
+     "Texas US House 7"
+    ],
+    [
+     "house",
+     87419,
+     "Texas US House 12"
+    ],
+    [
+     "house",
+     87429,
+     "Texas US House 24"
+    ],
+    [
+     "house",
+     87432,
+     "Texas US House 30"
+    ],
+    [
+     "house",
+     87417,
+     "Texas US House 9"
+    ],
+    [
+     "house",
+     87420,
+     "Texas US House 13"
+    ],
+    [
+     "house",
+     87430,
+     "Texas US House 25"
+    ],
+    [
+     "house",
+     87433,
+     "Texas US House 32"
+    ],
+    [
+     "house",
+     56004,
+     "Texas US House 4"
+    ],
+    [
+     "house",
+     87421,
+     "Texas US House 14"
+    ],
+    [
+     "house",
+     87431,
+     "Texas US House 29"
+    ],
+    [
+     "house",
+     87434,
+     "Texas US House 33"
+    ],
+    [
+     "house",
+     56005,
+     "Texas US House 8"
+    ],
+    [
+     "house",
+     87422,
+     "Texas US House 15"
+    ],
+    [
+     "house",
+     87425,
+     "Texas US House 18"
+    ],
+    [
+     "house",
+     87435,
+     "Texas US House 35"
+    ],
+    [
+     "house",
+     56006,
+     "Texas US House 10"
+    ],
+    [
+     "house",
+     87423,
+     "Texas US House 16"
+    ],
+    [
+     "house",
+     87426,
+     "Texas US House 19"
+    ],
+    [
+     "house",
+     87411,
+     "Texas US House 1"
+    ],
+    [
+     "house",
+     56007,
+     "Texas US House 21"
+    ],
+    [
+     "house",
+     87424,
+     "Texas US House 17"
+    ],
+    [
+     "house",
+     87427,
+     "Texas US House 20"
     ]
    ]
   },
@@ -619,18 +1025,28 @@
     ],
     [
      "house",
+     87487,
+     "Wisconsin US House 5"
+    ],
+    [
+     "house",
      87486,
      "Wisconsin US House 4"
     ],
     [
      "house",
-     87488,
-     "Wisconsin US House 6"
+     87484,
+     "Wisconsin US House 2"
     ],
     [
      "house",
      87490,
      "Wisconsin US House 8"
+    ],
+    [
+     "house",
+     87488,
+     "Wisconsin US House 6"
     ],
     [
      "house",
@@ -646,26 +1062,92 @@
      "house",
      87489,
      "Wisconsin US House 7"
-    ],
-    [
-     "house",
-     87487,
-     "Wisconsin US House 5"
-    ],
-    [
-     "house",
-     87484,
-     "Wisconsin US House 2"
     ]
    ]
   },
   "NC": {
    "counts": {
-    "senate": 0,
+    "senate": 1,
     "governor": 0,
-    "house": 0
+    "house": 14
    },
-   "races": []
+   "races": [
+    [
+     "house",
+     87332,
+     "North Carolina US House 1"
+    ],
+    [
+     "house",
+     87336,
+     "North Carolina US House 5"
+    ],
+    [
+     "house",
+     87339,
+     "North Carolina US House 8"
+    ],
+    [
+     "house",
+     87343,
+     "North Carolina US House 12"
+    ],
+    [
+     "house",
+     87341,
+     "North Carolina US House 10"
+    ],
+    [
+     "house",
+     87334,
+     "North Carolina US House 3"
+    ],
+    [
+     "house",
+     87344,
+     "North Carolina US House 13"
+    ],
+    [
+     "house",
+     87342,
+     "North Carolina US House 11"
+    ],
+    [
+     "house",
+     87333,
+     "North Carolina US House 2"
+    ],
+    [
+     "house",
+     87345,
+     "North Carolina US House 14"
+    ],
+    [
+     "house",
+     87337,
+     "North Carolina US House 6"
+    ],
+    [
+     "senate",
+     87346,
+     "North Carolina US Senate"
+    ],
+    [
+     "house",
+     87338,
+     "North Carolina US House 7"
+    ],
+    [
+     "house",
+     87340,
+     "North Carolina US House 9"
+    ],
+    [
+     "house",
+     87335,
+     "North Carolina US House 4"
+    ]
+   ]
   }
  },
  "detail": {
@@ -675,28 +1157,28 @@
    "state": "AK",
    "status": 200,
    "test_data": true,
-   "pct": 11.6,
+   "pct": 48,
    "called_at": null,
    "candidates": [
     [
      "Jonathan S. \u201cJKT\u201d Kreiss-Tomkins",
      "Democratic",
-     16957
+     71417
     ],
     [
      "Dave Bronson",
      "Republican",
-     16679
+     68053
     ],
     [
      "Bernadette M. Wilson",
      "Republican",
-     637
+     2668
     ],
     [
      "James W. \u201cJP4\u201d Parkin",
      "Republican",
-     563
+     2335
     ]
    ],
    "n_regions": 31,
@@ -707,13 +1189,13 @@
       "name": "Alaska",
       "type": "State",
       "fill": "#4874a3",
-      "percent_reporting": 11.6,
+      "percent_reporting": 48,
       "candidates": [
        {
         "name": "Jonathan S. \u201cJKT\u201d Kreiss-Tomkins",
         "party": "Democratic",
-        "votes": 16957,
-        "percent": 48.11,
+        "votes": 71417,
+        "percent": 48.86,
         "color": "#4874a3",
         "winner": false,
         "advanced": false,
@@ -723,8 +1205,8 @@
        {
         "name": "Dave Bronson",
         "party": "Republican",
-        "votes": 16679,
-        "percent": 47.32,
+        "votes": 68053,
+        "percent": 46.56,
         "color": "#c6606b",
         "winner": false,
         "advanced": false,
@@ -734,8 +1216,8 @@
        {
         "name": "Bernadette M. Wilson",
         "party": "Republican",
-        "votes": 637,
-        "percent": 1.81,
+        "votes": 2668,
+        "percent": 1.83,
         "color": "#69cea8",
         "winner": false,
         "advanced": false,
@@ -745,7 +1227,7 @@
        {
         "name": "James W. \u201cJP4\u201d Parkin",
         "party": "Republican",
-        "votes": 563,
+        "votes": 2335,
         "percent": 1.6,
         "color": "#e0bb24",
         "winner": false,
@@ -756,8 +1238,74 @@
        {
         "name": "Treg Taylor",
         "party": "Republican",
-        "votes": 410,
-        "percent": 1.16,
+        "votes": 1684,
+        "percent": 1.15,
+        "color": "#CD7F32",
+        "winner": false,
+        "advanced": false,
+        "incumbent": false,
+        "major_candidate": false
+       }
+      ]
+     }
+    ],
+    [
+     "aleutians_east_borough",
+     {
+      "name": "Aleutians East Borough",
+      "type": "Borough",
+      "fill": "#c6606b",
+      "percent_reporting": 25.6,
+      "candidates": [
+       {
+        "name": "Dave Bronson",
+        "party": "Republican",
+        "votes": 307,
+        "percent": 50.83,
+        "color": "#c6606b",
+        "winner": false,
+        "advanced": false,
+        "incumbent": false,
+        "major_candidate": false
+       },
+       {
+        "name": "Jonathan S. \u201cJKT\u201d Kreiss-Tomkins",
+        "party": "Democratic",
+        "votes": 272,
+        "percent": 45.03,
+        "color": "#4874a3",
+        "winner": false,
+        "advanced": false,
+        "incumbent": false,
+        "major_candidate": false
+       },
+       {
+        "name": "James W. \u201cJP4\u201d Parkin",
+        "party": "Republican",
+        "votes": 11,
+        "percent": 1.82,
+        "color": "#e0bb24",
+        "winner": false,
+        "advanced": false,
+        "incumbent": false,
+        "major_candidate": false
+       },
+       {
+        "name": "Bernadette M. Wilson",
+        "party": "Republican",
+        "votes": 8,
+        "percent": 1.32,
+        "color": "#69cea8",
+        "winner": false,
+        "advanced": false,
+        "incumbent": false,
+        "major_candidate": false
+       },
+       {
+        "name": "Treg Taylor",
+        "party": "Republican",
+        "votes": 6,
+        "percent": 0.99,
         "color": "#CD7F32",
         "winner": false,
         "advanced": false,
@@ -767,6 +1315,132 @@
       ]
      }
     ]
+   ],
+   "region_names": [
+    [
+     "Alaska",
+     "State"
+    ],
+    [
+     "Aleutians East Borough",
+     "Borough"
+    ],
+    [
+     "Aleutians West Census Area",
+     "Borough"
+    ],
+    [
+     "Anchorage Municipality",
+     "Borough"
+    ],
+    [
+     "Bethel Census Area",
+     "Borough"
+    ],
+    [
+     "Bristol Bay Borough",
+     "Borough"
+    ],
+    [
+     "Chugach Census Area",
+     "Borough"
+    ],
+    [
+     "Copper River Census Area",
+     "Borough"
+    ],
+    [
+     "Denali Borough",
+     "Borough"
+    ],
+    [
+     "Dillingham Census Area",
+     "Borough"
+    ],
+    [
+     "Fairbanks North Star Borough",
+     "Borough"
+    ],
+    [
+     "Haines Borough",
+     "Borough"
+    ],
+    [
+     "Hoonah-Angoon Census Area",
+     "Borough"
+    ],
+    [
+     "Juneau City and Borough",
+     "Borough"
+    ],
+    [
+     "Kenai Peninsula Borough",
+     "Borough"
+    ],
+    [
+     "Ketchikan Gateway Borough",
+     "Borough"
+    ],
+    [
+     "Kodiak Island Borough",
+     "Borough"
+    ],
+    [
+     "Kusilvak Census Area",
+     "Borough"
+    ],
+    [
+     "Lake and Peninsula Borough",
+     "Borough"
+    ],
+    [
+     "Matanuska-Susitna Borough",
+     "Borough"
+    ],
+    [
+     "Nome Census Area",
+     "Borough"
+    ],
+    [
+     "North Slope Borough",
+     "Borough"
+    ],
+    [
+     "Northwest Arctic Borough",
+     "Borough"
+    ],
+    [
+     "Petersburg Borough",
+     "Borough"
+    ],
+    [
+     "Prince of Wales-Hyder Census Area",
+     "Borough"
+    ],
+    [
+     "Sitka City and Borough",
+     "Borough"
+    ],
+    [
+     "Skagway Municipality",
+     "Borough"
+    ],
+    [
+     "Southeast Fairbanks Census Area",
+     "Borough"
+    ],
+    [
+     "Wrangell City and Borough",
+     "Borough"
+    ],
+    [
+     "Yakutat City and Borough",
+     "Borough"
+    ],
+    [
+     "Yukon-Koyukuk Census Area",
+     "Borough"
+    ]
    ]
   },
   "senate": {
@@ -775,28 +1449,28 @@
    "state": "AK",
    "status": 200,
    "test_data": true,
-   "pct": 9.8,
+   "pct": 49.1,
    "called_at": null,
    "candidates": [
     [
      "Mary Peltola",
      "Democratic",
-     14079
+     71569
     ],
     [
      "Gerald L. Heikes",
      "Republican",
-     13540
+     66908
     ],
     [
      "Daniel J. Jr. Sullivan",
      "Republican",
-     823
+     4113
     ],
     [
      "Heather McElwain",
      "Libertarian",
-     397
+     1988
     ]
    ],
    "n_regions": 31,
@@ -807,13 +1481,13 @@
       "name": "Alaska",
       "type": "State",
       "fill": "#4874a3",
-      "percent_reporting": 9.8,
+      "percent_reporting": 49.1,
       "candidates": [
        {
         "name": "Mary Peltola",
         "party": "Democratic",
-        "votes": 14079,
-        "percent": 47.78,
+        "votes": 71569,
+        "percent": 48.46,
         "color": "#4874a3",
         "winner": false,
         "advanced": false,
@@ -823,8 +1497,8 @@
        {
         "name": "Gerald L. Heikes",
         "party": "Republican",
-        "votes": 13540,
-        "percent": 45.95,
+        "votes": 66908,
+        "percent": 45.3,
         "color": "#c6606b",
         "winner": false,
         "advanced": false,
@@ -834,8 +1508,8 @@
        {
         "name": "Daniel J. Jr. Sullivan",
         "party": "Republican",
-        "votes": 823,
-        "percent": 2.79,
+        "votes": 4113,
+        "percent": 2.78,
         "color": "#CD7F32",
         "winner": false,
         "advanced": false,
@@ -845,7 +1519,7 @@
        {
         "name": "Heather McElwain",
         "party": "Libertarian",
-        "votes": 397,
+        "votes": 1988,
         "percent": 1.35,
         "color": "#d4c029",
         "winner": false,
@@ -856,8 +1530,8 @@
        {
         "name": "Dan Sullivan",
         "party": "Republican",
-        "votes": 337,
-        "percent": 1.14,
+        "votes": 1670,
+        "percent": 1.13,
         "color": "#e0bb24",
         "winner": false,
         "advanced": false,
@@ -867,7 +1541,7 @@
        {
         "name": "Sidney \u201cSid\u201d Hill",
         "party": "Undeclared",
-        "votes": 289,
+        "votes": 1450,
         "percent": 0.98,
         "color": "#808080",
         "winner": false,
@@ -877,6 +1551,209 @@
        }
       ]
      }
+    ],
+    [
+     "aleutians_east_borough",
+     {
+      "name": "Aleutians East Borough",
+      "type": "Borough",
+      "fill": "#4874a3",
+      "percent_reporting": 28.8,
+      "candidates": [
+       {
+        "name": "Mary Peltola",
+        "party": "Democratic",
+        "votes": 313,
+        "percent": 48.83,
+        "color": "#4874a3",
+        "winner": false,
+        "advanced": false,
+        "incumbent": false,
+        "major_candidate": false
+       },
+       {
+        "name": "Gerald L. Heikes",
+        "party": "Republican",
+        "votes": 293,
+        "percent": 45.71,
+        "color": "#c6606b",
+        "winner": false,
+        "advanced": false,
+        "incumbent": false,
+        "major_candidate": false
+       },
+       {
+        "name": "Daniel J. Jr. Sullivan",
+        "party": "Republican",
+        "votes": 15,
+        "percent": 2.34,
+        "color": "#CD7F32",
+        "winner": false,
+        "advanced": false,
+        "incumbent": false,
+        "major_candidate": false
+       },
+       {
+        "name": "Dan Sullivan",
+        "party": "Republican",
+        "votes": 8,
+        "percent": 1.25,
+        "color": "#e0bb24",
+        "winner": false,
+        "advanced": false,
+        "incumbent": true,
+        "major_candidate": false
+       },
+       {
+        "name": "Heather McElwain",
+        "party": "Libertarian",
+        "votes": 8,
+        "percent": 1.25,
+        "color": "#d4c029",
+        "winner": false,
+        "advanced": false,
+        "incumbent": false,
+        "major_candidate": false
+       },
+       {
+        "name": "Sidney \u201cSid\u201d Hill",
+        "party": "Undeclared",
+        "votes": 4,
+        "percent": 0.62,
+        "color": "#808080",
+        "winner": false,
+        "advanced": false,
+        "incumbent": false,
+        "major_candidate": false
+       }
+      ]
+     }
+    ]
+   ],
+   "region_names": [
+    [
+     "Alaska",
+     "State"
+    ],
+    [
+     "Aleutians East Borough",
+     "Borough"
+    ],
+    [
+     "Aleutians West Census Area",
+     "Borough"
+    ],
+    [
+     "Anchorage Municipality",
+     "Borough"
+    ],
+    [
+     "Bethel Census Area",
+     "Borough"
+    ],
+    [
+     "Bristol Bay Borough",
+     "Borough"
+    ],
+    [
+     "Chugach Census Area",
+     "Borough"
+    ],
+    [
+     "Copper River Census Area",
+     "Borough"
+    ],
+    [
+     "Denali Borough",
+     "Borough"
+    ],
+    [
+     "Dillingham Census Area",
+     "Borough"
+    ],
+    [
+     "Fairbanks North Star Borough",
+     "Borough"
+    ],
+    [
+     "Haines Borough",
+     "Borough"
+    ],
+    [
+     "Hoonah-Angoon Census Area",
+     "Borough"
+    ],
+    [
+     "Juneau City and Borough",
+     "Borough"
+    ],
+    [
+     "Kenai Peninsula Borough",
+     "Borough"
+    ],
+    [
+     "Ketchikan Gateway Borough",
+     "Borough"
+    ],
+    [
+     "Kodiak Island Borough",
+     "Borough"
+    ],
+    [
+     "Kusilvak Census Area",
+     "Borough"
+    ],
+    [
+     "Lake and Peninsula Borough",
+     "Borough"
+    ],
+    [
+     "Matanuska-Susitna Borough",
+     "Borough"
+    ],
+    [
+     "Nome Census Area",
+     "Borough"
+    ],
+    [
+     "North Slope Borough",
+     "Borough"
+    ],
+    [
+     "Northwest Arctic Borough",
+     "Borough"
+    ],
+    [
+     "Petersburg Borough",
+     "Borough"
+    ],
+    [
+     "Prince of Wales-Hyder Census Area",
+     "Borough"
+    ],
+    [
+     "Sitka City and Borough",
+     "Borough"
+    ],
+    [
+     "Skagway Municipality",
+     "Borough"
+    ],
+    [
+     "Southeast Fairbanks Census Area",
+     "Borough"
+    ],
+    [
+     "Wrangell City and Borough",
+     "Borough"
+    ],
+    [
+     "Yakutat City and Borough",
+     "Borough"
+    ],
+    [
+     "Yukon-Koyukuk Census Area",
+     "Borough"
     ]
    ]
   },
@@ -886,28 +1763,28 @@
    "state": "AK",
    "status": 200,
    "test_data": true,
-   "pct": 9.1,
-   "called_at": null,
+   "pct": 53,
+   "called_at": "2026-11-02T06:52:00.312Z",
    "candidates": [
     [
      "Nick Begich III",
      "Republican",
-     14617
+     83660
     ],
     [
      "Eric Hafner",
      "Democratic",
-     11647
+     68730
     ],
     [
      "James C. \u201cJim\u201d McDermott",
      "Libertarian",
-     463
+     2739
     ],
     [
      "Bill Hill",
      "Nonpartisan",
-     180
+     1005
     ]
    ],
    "n_regions": 31,
@@ -918,13 +1795,13 @@
       "name": "Alaska",
       "type": "State",
       "fill": "#c6606b",
-      "percent_reporting": 9.1,
+      "percent_reporting": 53,
       "candidates": [
        {
         "name": "Nick Begich III",
         "party": "Republican",
-        "votes": 14617,
-        "percent": 54.32,
+        "votes": 83660,
+        "percent": 53.58,
         "color": "#c6606b",
         "winner": false,
         "advanced": false,
@@ -934,8 +1811,8 @@
        {
         "name": "Eric Hafner",
         "party": "Democratic",
-        "votes": 11647,
-        "percent": 43.29,
+        "votes": 68730,
+        "percent": 44.02,
         "color": "#4874a3",
         "winner": false,
         "advanced": false,
@@ -945,8 +1822,8 @@
        {
         "name": "James C. \u201cJim\u201d McDermott",
         "party": "Libertarian",
-        "votes": 463,
-        "percent": 1.72,
+        "votes": 2739,
+        "percent": 1.75,
         "color": "#d4c029",
         "winner": false,
         "advanced": false,
@@ -956,8 +1833,8 @@
        {
         "name": "Bill Hill",
         "party": "Nonpartisan",
-        "votes": 180,
-        "percent": 0.67,
+        "votes": 1005,
+        "percent": 0.64,
         "color": "#9A36FF",
         "winner": false,
         "advanced": false,
@@ -966,6 +1843,187 @@
        }
       ]
      }
+    ],
+    [
+     "aleutians_east_borough",
+     {
+      "name": "Aleutians East Borough",
+      "type": "Borough",
+      "fill": "#c6606b",
+      "percent_reporting": 43.3,
+      "candidates": [
+       {
+        "name": "Nick Begich III",
+        "party": "Republican",
+        "votes": 479,
+        "percent": 53.05,
+        "color": "#c6606b",
+        "winner": false,
+        "advanced": false,
+        "incumbent": true,
+        "major_candidate": false
+       },
+       {
+        "name": "Eric Hafner",
+        "party": "Democratic",
+        "votes": 402,
+        "percent": 44.52,
+        "color": "#4874a3",
+        "winner": false,
+        "advanced": false,
+        "incumbent": false,
+        "major_candidate": false
+       },
+       {
+        "name": "James C. \u201cJim\u201d McDermott",
+        "party": "Libertarian",
+        "votes": 17,
+        "percent": 1.88,
+        "color": "#d4c029",
+        "winner": false,
+        "advanced": false,
+        "incumbent": false,
+        "major_candidate": false
+       },
+       {
+        "name": "Bill Hill",
+        "party": "Nonpartisan",
+        "votes": 5,
+        "percent": 0.55,
+        "color": "#9A36FF",
+        "winner": false,
+        "advanced": false,
+        "incumbent": false,
+        "major_candidate": false
+       }
+      ]
+     }
+    ]
+   ],
+   "region_names": [
+    [
+     "Alaska",
+     "State"
+    ],
+    [
+     "Aleutians East Borough",
+     "Borough"
+    ],
+    [
+     "Aleutians West Census Area",
+     "Borough"
+    ],
+    [
+     "Anchorage Municipality",
+     "Borough"
+    ],
+    [
+     "Bethel Census Area",
+     "Borough"
+    ],
+    [
+     "Bristol Bay Borough",
+     "Borough"
+    ],
+    [
+     "Chugach Census Area",
+     "Borough"
+    ],
+    [
+     "Copper River Census Area",
+     "Borough"
+    ],
+    [
+     "Denali Borough",
+     "Borough"
+    ],
+    [
+     "Dillingham Census Area",
+     "Borough"
+    ],
+    [
+     "Fairbanks North Star Borough",
+     "Borough"
+    ],
+    [
+     "Haines Borough",
+     "Borough"
+    ],
+    [
+     "Hoonah-Angoon Census Area",
+     "Borough"
+    ],
+    [
+     "Juneau City and Borough",
+     "Borough"
+    ],
+    [
+     "Kenai Peninsula Borough",
+     "Borough"
+    ],
+    [
+     "Ketchikan Gateway Borough",
+     "Borough"
+    ],
+    [
+     "Kodiak Island Borough",
+     "Borough"
+    ],
+    [
+     "Kusilvak Census Area",
+     "Borough"
+    ],
+    [
+     "Lake and Peninsula Borough",
+     "Borough"
+    ],
+    [
+     "Matanuska-Susitna Borough",
+     "Borough"
+    ],
+    [
+     "Nome Census Area",
+     "Borough"
+    ],
+    [
+     "North Slope Borough",
+     "Borough"
+    ],
+    [
+     "Northwest Arctic Borough",
+     "Borough"
+    ],
+    [
+     "Petersburg Borough",
+     "Borough"
+    ],
+    [
+     "Prince of Wales-Hyder Census Area",
+     "Borough"
+    ],
+    [
+     "Sitka City and Borough",
+     "Borough"
+    ],
+    [
+     "Skagway Municipality",
+     "Borough"
+    ],
+    [
+     "Southeast Fairbanks Census Area",
+     "Borough"
+    ],
+    [
+     "Wrangell City and Borough",
+     "Borough"
+    ],
+    [
+     "Yakutat City and Borough",
+     "Borough"
+    ],
+    [
+     "Yukon-Koyukuk Census Area",
+     "Borough"
     ]
    ]
   }
