@@ -37,16 +37,29 @@ def switch_on(name, path="config/switches.json", default=False):
         return False
 
 
+_PAGES: dict = {}       # (url, browser) -> page text, or an Exception: each page is fetched ONCE per update run, even when 30 races read it
+
+
 def _text(url, browser=False):
     import feeds
-    if browser:
-        html = feeds._render(url)
-    else:
-        html = feeds._fetch(url).text
+    key = (url, bool(browser))
+    if key in _PAGES:
+        if isinstance(_PAGES[key], Exception):
+            raise _PAGES[key]                                # it failed earlier in this run: don't wait on it again
+        return _PAGES[key]
+    try:
+        if browser:
+            html = feeds._render(url)
+        else:
+            html = feeds._fetch(url, timeout=15, tries=1).text
+    except Exception as ex:
+        _PAGES[key] = ex
+        raise
     if isinstance(html, bytes):
         html = html.decode("utf-8", "ignore")
     html = re.sub(r"(?is)<(script|style)[^>]*>.*?</\1>", " ", html)
-    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html))
+    _PAGES[key] = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html))
+    return _PAGES[key]
 
 
 def _surnames(rid):

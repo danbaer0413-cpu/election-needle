@@ -15,7 +15,8 @@ What is in here (same folder layout as your repo):
   civicAPI live results (new):
   civic_results.py         NEW. Reads civicAPI's live vote counts: county (or Alaska district) table + statewide total,
                            for all 30 races. If civicAPI is slow or down it gives up after 3 failures, so the run keeps going.
-  sources.py               adds the civicAPI source type. Nothing else changed.
+  sources.py               adds the civicAPI source type, and fetches each scraped page ONCE per run (electiontracker
+                           used to be fetched 30 times, with retries); a page that fails is not retried in that run.
   config/sources.csv       30 new civicAPI rows at the top; your existing rows are unchanged below them.
   model.py                 one fix: when an early-vote file is a statewide total spread over counties (civicAPI's
                            STATE rows do this), the "which counties are voting" signal is now skipped automatically.
@@ -27,7 +28,8 @@ What is in here (same folder layout as your repo):
   house_results.py         NEW. Live House results for the map: when you hover a district square you see the top two
                            candidates' % and the % counted (civicAPI). Display only: it never changes a lean, call or seat count.
   house_lean.py            calls house_results.py when it builds the House data. Nothing else changed.
-  house_view.py            the hover box shows those results. Nothing else changed.
+  house_view.py            the hover box shows those results; district squares are spaced so they no longer
+                           overlap (easier to hover each one); white hover box.
                            Refreshed every 30 minutes (the needles still update every 10).
                            Off switch: "house_results": false in config/switches.json.
   .github/workflows/update.yml   time limits: the job may run 9 minutes (was 8); VoteHub, civicAPI early vote,

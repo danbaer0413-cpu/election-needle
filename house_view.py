@@ -8,6 +8,7 @@ import house_lean as hl
 D_COL = ["#0a3a8c", "#2b6cd9", "#4f86e0", "#8fb0ec", "#c3d5f6"]      # called, solid, likely, lean, tilt
 R_COL = ["#8c1111", "#d63a3a", "#de5c5c", "#ec9a9a", "#f6c9c9"]
 NEUTRAL = "#d9d9d9"
+GAP = 0.36             # spacing between district squares inside a state tile (was 0.27, which let 17px squares overlap)
 BIN_COL = {"Likely D": "#4f86e0", "Lean D": "#8fb0ec", "Tilt D": "#c3d5f6", "Toss-up": "#e6e1d3",
            "Tilt R": "#f6c9c9", "Lean R": "#ec9a9a", "Likely R": "#de5c5c"}
 # NPR-style US tile grid: state -> (col, row)
@@ -40,8 +41,8 @@ def tile_positions(h: dict) -> list:
         rows = (len(ds) + cols - 1) // cols
         for i, d in enumerate(ds):
             r, c = divmod(i, cols)
-            x = cx * 1.35 + (c - (cols - 1) / 2) * 0.27
-            y = -(cy * 1.35) - (r - (rows - 1) / 2) * 0.27
+            x = cx * 1.35 + (c - (cols - 1) / 2) * GAP          # GAP > the square's width, so squares sit side by side
+            y = -(cy * 1.35) - (r - (rows - 1) / 2) * GAP       # instead of overlapping (easier to hover each one)
             out.append((x, y, d))
     return out
 
@@ -90,11 +91,12 @@ def lean_map_figure(h: dict):
     pts = tile_positions(h)
     fig = go.Figure()
     fig.add_trace(go.Scatter(x=[p[0] for p in pts], y=[p[1] for p in pts], mode="markers",
-                             marker=dict(symbol="square", size=17, color=[district_color(p[2]) for p in pts], line=dict(width=1, color="#555")),
+                             marker=dict(symbol="square", size=16, color=[district_color(p[2]) for p in pts], line=dict(width=1, color="#555")),
                              text=[hover(p[2]) for p in pts], hoverinfo="text", showlegend=False))
+    fig.update_layout(hovermode="closest", hoverlabel=dict(bgcolor="white", font_size=13, align="left"))
     for st, (cx, cy) in GRID.items():
         if any(d["state"] == st for d in h["districts"]):
-            fig.add_annotation(x=cx * 1.35, y=-(cy * 1.35) - 0.62, text=st, showarrow=False, font=dict(size=10, color="#888"))
+            fig.add_annotation(x=cx * 1.35, y=-(cy * 1.35) - 0.66, text=st, showarrow=False, font=dict(size=10, color="#888"))
     fig.update_xaxes(visible=False, range=[-0.9, 14.6]); fig.update_yaxes(visible=False, range=[-10.8, 0.9], scaleanchor="x")
     fig.update_layout(height=520, margin=dict(l=0, r=0, t=0, b=0), paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)")
     return fig
