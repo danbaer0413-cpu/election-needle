@@ -1,0 +1,22 @@
+name: civic-check
+# Run once: Actions -> civic-check -> Run workflow. Read-only rehearsal of the civicAPI results reader on civicAPI's
+# pre-election TEST data: for every race it prints how many civicAPI counties match our counties.csv.
+# The vote numbers are fake; only the match counts matter. Commits nothing.
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pandas requests
+      - name: Match civicAPI counties to ours (test data)
+        env:
+          CIVIC_ALLOW_TEST: "1"
+        run: python civic_results.py
