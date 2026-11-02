@@ -123,6 +123,22 @@ def find_race(rid: str, state: str, date: str = DATE, get=None, log=print):
     return cache[key]
 
 
+# First poll closing in each state, UTC, Nov 3 2026 (EST = UTC-5). Before it, any civicAPI numbers are ignored, even if
+# test_data is off, so a premature or leftover test result can never move a needle.
+POLL_CLOSE_UTC = {"GA": "2026-11-04T00:00", "SC": "2026-11-04T00:00", "FL": "2026-11-04T00:00", "NH": "2026-11-04T00:00",
+                  "NC": "2026-11-04T00:30", "OH": "2026-11-04T00:30", "ME": "2026-11-04T01:00", "MI": "2026-11-04T01:00",
+                  "MS": "2026-11-04T01:00", "TX": "2026-11-04T01:00", "KS": "2026-11-04T01:00", "MN": "2026-11-04T02:00",
+                  "NE": "2026-11-04T02:00", "WI": "2026-11-04T02:00", "IA": "2026-11-04T03:00", "NV": "2026-11-04T03:00",
+                  "AK": "2026-11-04T05:00"}
+
+
+def polls_closed(state, now=None):
+    import datetime as _dt
+    now = now or _dt.datetime.now(_dt.timezone.utc)
+    t = POLL_CLOSE_UTC.get(state, "2026-11-03T23:00")
+    return now >= _dt.datetime.fromisoformat(t).replace(tzinfo=_dt.timezone.utc)
+
+
 SPECIAL = {"OH-senate", "FL-senate"}
 _SEARCH: dict = {}      # U.S. Senate (special) in config/races.json
 
@@ -237,6 +253,9 @@ def read_race(rid: str, state: str, date: str = DATE, get=None, log=print):
     if d.get("test_data") and os.environ.get("CIVIC_ALLOW_TEST") != "1":
         log(f"  civicAPI {rid}: race flagged test_data; not used")
         return None, None, info
+    if not polls_closed(state) and os.environ.get("CIVIC_ALLOW_TEST") != "1":
+        log(f"  civicAPI {rid}: polls not closed yet in {state}; numbers not used")
+        return None, None, info
     dem_sn, rep_sn = _surnames(rid)
     cands = d.get("candidates") or []
     cand_party = {str(c.get("name")): c.get("party") for c in cands if isinstance(c, dict)}
@@ -277,6 +296,8 @@ def main():
     ap.add_argument("--only", default=None)
     ap.add_argument("--config", default="config/races.json")
     a = ap.parse_args()
+    global BUDGET_S
+    BUDGET_S = 900          # a standalone check may take longer than the 100 s allowed inside an update run
     from model import norm_name
     races = json.load(open(a.config))["races"]
     for r in races:

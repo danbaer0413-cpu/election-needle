@@ -55,7 +55,14 @@ def senate_races(path="config/candidates.csv") -> dict:
 
 
 def house_seats(path="data/house/ratings_2026.csv") -> set:
-    return {(r["state"].strip().upper(), str(int(r["district"]))) for r in csv.DictReader(open(path, newline="")) if str(r.get("district", "")).strip().isdigit()}
+    out = set()
+    for r in csv.DictReader(open(path, newline="")):
+        d = str(r.get("district", "")).strip().upper()
+        if d.isdigit():
+            out.add((r["state"].strip().upper(), str(int(d))))
+        elif d in ("AL", "AT-LARGE", "0"):                     # at-large seats (e.g. AK-AL)
+            out.add((r["state"].strip().upper(), "AL"))
+    return out
 
 
 # ---------------------------------------------------------------- civicAPI
@@ -84,6 +91,8 @@ def civic_calls(senate: dict, house: set, get=_get) -> dict:
                         n = str(int(m.group(1) or m.group(2)))
                         if (st, n) in house:
                             key = ("house", f"{st}-{n}")
+                    elif re.search(r"(?:U\.?S\.?|United States)\s+House\s+At[- ]Large", name, re.I) and (st, "AL") in house:
+                        key = ("house", f"{st}-AL")
                 if not key or (key[0] == "senate" and key[1] not in senate):
                     continue
                 d = get(f"{CIVIC}/race/{r['id']}", {"data": "json"}) or {}

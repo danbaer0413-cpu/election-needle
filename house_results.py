@@ -67,10 +67,14 @@ def _party(p):
     return "D" if p.startswith("democ") or p == "dfl" else "R" if p.startswith("republ") else (p[:3].upper() or "?")
 
 
-def race_live(rid, get=None):
+def race_live(rid, get=None, now=None):
+    import os
     get = get or _get
+    now = now or dt.datetime.now(dt.timezone.utc)
+    if now < dt.datetime(2026, 11, 3, 23, 0, tzinfo=dt.timezone.utc) and os.environ.get("CIVIC_ALLOW_TEST") != "1":
+        return None                                   # before the first polls close (6 pm ET): nothing real to show
     d = get(f"/race/{rid}?data=json&light=true") or {}
-    if d.get("test_data"):
+    if d.get("test_data") and os.environ.get("CIVIC_ALLOW_TEST") != "1":
         return None
     cands = [c for c in (d.get("candidates") or []) if isinstance(c, dict)]
     tot = sum(float(c.get("votes") or 0) for c in cands)
