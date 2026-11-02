@@ -23,3 +23,9 @@ WI-governor,3.4,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-27
 SC-senate,-1.85,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-26
 NC-senate,10.3,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-26
 FL-senate,-6.71,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-26
+SC-governor,-9.08,2,"auto_frozen_nov1(tier1+2,35d)",Targoz Market Research;The New York Times/Siena College,2026-09-28,2026-11-01
+IA-governor,7.35,6,"auto_frozen_nov1(tier1,35d)",Beacon Research/Shaw & Co. Research;The New York Times/Siena College;Suffolk University;Emerson College;Marist College;Echelon Insights,2026-09-28,2026-11-01
+AK-governor,6.69,3,"auto_frozen_nov1(tier1+2,60d)",co/efficient;The New York Times/Siena College;Alaska Survey Research,2026-09-03,2026-11-01
+MI-governor,9.92,5,auto_frozen_nov1(tier1),Marist College;Glengariff Group;Michigan State University Office for Survey Research/Verasight;Rasmussen;The New York Times/Siena College,2026-10-12,2026-11-01
+MN-governor,13.97,4,"auto_frozen_nov1(tier1+2,60d)",SurveyUSA;co/efficient;Mason-Dixon Polling & Strategy;The New York Times/Siena College,2026-09-03,2026-11-01
+NH-governor,-9.0,6,"auto_frozen_nov1(tier1+2,60d)",co/efficient;University of New Hampshire Survey Center;The New York Times/Siena College;Saint Anselm College Survey Center;YouGov;University of Massachusetts Lowell Center for Public Opinion,2026-09-03,2026-11-01
