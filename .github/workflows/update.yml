@@ -20,7 +20,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 9
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -32,16 +32,20 @@ jobs:
       - name: Install browser (only if a feed uses fmt=browser)
         run: grep -q ',browser,' config/feeds.csv && playwright install --with-deps chromium || echo 'no browser feeds'
       - name: Read VoteHub posts (statewide early vote; failure is fine)
+        timeout-minutes: 2
         continue-on-error: true
         run: python votehub.py
       - name: Pull early vote from civicAPI (free, credit civicAPI; failure is fine)
+        timeout-minutes: 2
         continue-on-error: true
         run: python civic_early.py
       - name: Automated calls (two sources must agree; failure is fine)
+        timeout-minutes: 2
         if: github.event_name == 'workflow_dispatch' || contains('*/10 23 3 11 *|*/10 0-13 4 11 *', github.event.schedule)
         continue-on-error: true
         run: python auto_calls.py
       - name: Pull polls from PollResults.org (NYT poll data, CC BY 4.0; failure is fine)
+        timeout-minutes: 2
         if: github.event_name == 'workflow_dispatch' || contains('7 */12 * * *|17 */3 30-31 10 *|17 */3 1-2 11 *', github.event.schedule)
         continue-on-error: true
         run: python fetch_polls.py
