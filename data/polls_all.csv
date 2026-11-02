@@ -237,6 +237,7 @@ ME-governor,CNN,2026-10-26,783.0,53.0,39.0
 ME-governor,Data for Progress,2026-10-27,652.0,49.0,37.0
 ME-governor,YouGov,2026-10-29,1503.0,53.0,45.0
 ME-governor,UNH,2026-10-31,600.0,51.0,40.0
+ME-governor,University of New Hampshire Survey Center,2026-10-31,1648.0,51.0,40.0
 ME-governor,The New York Times/Siena College,2026-11-01,714.0,54.8,39.8
 ME-senate,University of New Hampshire Survey Center,2026-07-20,1178.0,49.0,46.0
 ME-senate,Beacon Research/Shaw & Co. Research,2026-08-10,1000.0,48.0,46.0
@@ -266,6 +267,7 @@ ME-senate,Data for Progress,2026-10-27,652.0,50.0,45.0
 ME-senate,SSRS,2026-10-27,600.0,49.0,45.0
 ME-senate,YouGov,2026-10-29,1503.0,52.0,47.0
 ME-senate,UNH,2026-10-31,600.0,54.0,45.0
+ME-senate,University of New Hampshire Survey Center,2026-10-31,1633.0,54.0,45.0
 ME-senate,The New York Times/Siena College,2026-11-01,714.0,50.9,45.0
 MI-governor,Target Insyght,2025-03-06,600.0,42.0,30.0
 MI-governor,Mitchell Research & Communications,2025-03-13,688.0,37.0,34.0
@@ -311,6 +313,7 @@ MI-governor,Mitchell Research & Communications,2026-10-27,636.0,49.0,44.0
 MI-governor,Data For Progress,2026-10-27,600.0,52.0,43.0
 MI-governor,YouGov,2026-10-29,2093.0,52.0,46.0
 MI-governor,Rasmussen,2026-10-29,600.0,50.0,40.0
+MI-governor,Research Co.,2026-11-01,450.0,53.0,41.0
 MI-governor,The New York Times/Siena College,2026-11-01,1011.0,51.8,39.4
 MI-senate,Glengariff Group,2025-05-08,600.0,40.8,46.9
 MI-senate,Rosetta Stone,2025-10-25,637.0,31.0,45.0
@@ -363,6 +366,7 @@ MI-senate,Data For Progress,2026-10-27,600.0,50.0,46.0
 MI-senate,Upswing Research,2026-10-28,600.0,50.0,45.0
 MI-senate,YouGov,2026-10-29,2093.0,51.0,47.0
 MI-senate,Rasmussen,2026-10-29,600.0,49.0,44.0
+MI-senate,Research Co.,2026-11-01,450.0,48.0,46.0
 MI-senate,The New York Times/Siena College,2026-11-01,1011.0,52.6,41.6
 MN-governor,SurveyUSA,2025-09-18,568.0,49.0,38.0
 MN-governor,SurveyUSA,2026-01-30,575.0,49.0,34.0
@@ -377,6 +381,7 @@ MN-governor,SurveyUSA,2026-10-12,718.0,48.0,41.0
 MN-governor,The New York Times/Siena College,2026-10-26,752.0,55.92,37.88
 MN-governor,SurveyUSA,2026-10-28,714.0,51.0,39.0
 MN-governor,State Navigate,2026-10-28,806.0,52.0,42.0
+MN-governor,Research Co.,2026-11-01,450.0,53.0,40.0
 MN-senate,Emerson College,2026-02-08,1000.0,47.1,40.6
 MN-senate,SurveyUSA,2026-08-17,661.0,46.0,41.0
 MN-senate,Quantus Insights,2026-09-10,720.0,48.9,45.4
@@ -391,6 +396,7 @@ MN-senate,SurveyUSA,2026-10-12,718.0,45.0,42.0
 MN-senate,The New York Times/Siena College,2026-10-26,752.0,54.21,40.31
 MN-senate,SurveyUSA,2026-10-28,714.0,48.0,41.0
 MN-senate,InsiderAdvantage,2026-10-30,1200.0,49.3,46.4
+MN-senate,Research Co.,2026-11-01,450.0,48.0,43.0
 NC-senate,Victory Insights,2025-07-30,600.0,44.4,43.5
 NC-senate,Emerson College,2025-07-30,1000.0,46.7,41.4
 NC-senate,Harper Polling,2025-08-12,600.0,47.3,39.1
@@ -457,6 +463,7 @@ NH-governor,YouGov,2026-10-05,1520.0,40.0,49.0
 NH-governor,University of Massachusetts Lowell Center for Public Opinion,2026-10-19,600.0,42.0,48.0
 NH-governor,Saint Anselm College Survey Center,2026-10-20,1672.0,42.0,50.0
 NH-governor,UNH,2026-10-31,600.0,48.0,48.0
+NH-governor,University of New Hampshire Survey Center,2026-10-31,2026.0,48.0,48.0
 NH-senate,Praecones Analytica,2025-03-01,626.0,58.9,41.1
 NH-senate,co/efficient,2025-09-12,904.0,46.0,43.0
 NH-senate,University of New Hampshire Survey Center,2025-09-23,1225.0,49.0,43.0
@@ -483,6 +490,7 @@ NH-senate,National Public Affairs,2026-10-12,600.0,50.0,43.0
 NH-senate,University of Massachusetts Lowell Center for Public Opinion,2026-10-19,600.0,48.0,41.0
 NH-senate,Saint Anselm College Survey Center,2026-10-20,1672.0,50.0,43.0
 NH-senate,Rasmussen,2026-10-23,600.0,50.0,44.0
+NH-senate,University of New Hampshire Survey Center,2026-10-31,2035.0,54.0,42.0
 NV-governor,Noble Predictive Insights,2025-10-13,766.0,37.0,40.0
 NV-governor,Emerson College,2025-11-18,800.0,41.1,41.1
 NV-governor,Noble Predictive Insights,2026-03-13,845.0,38.0,39.0
@@ -523,6 +531,7 @@ OH-governor,Concord,2026-10-26,600.0,49.0,39.0
 OH-governor,YouGov,2026-10-29,2090.0,52.0,46.0
 OH-governor,InsiderAdvantage,2026-10-30,1200.0,49.2,46.3
 OH-governor,ActiVote,2026-10-31,400.0,50.8,49.2
+OH-governor,Research Co.,2026-11-01,450.0,48.0,42.0
 OH-governor,The New York Times/Siena College,2026-11-01,717.0,48.8,43.2
 OH-senate,Bowling Green State University/YouGov,2025-02-21,800.0,41.0,47.0
 OH-senate,Bowling Green State University/YouGov,2025-04-24,800.0,46.0,49.0
@@ -566,6 +575,7 @@ OH-senate,Concord,2026-10-26,600.0,46.0,42.0
 OH-senate,YouGov,2026-10-29,2090.0,50.0,48.0
 OH-senate,InsiderAdvantage,2026-10-30,1200.0,48.8,47.0
 OH-senate,ActiVote,2026-10-31,400.0,50.2,49.8
+OH-senate,Research Co.,2026-11-01,450.0,45.0,44.0
 OH-senate,The New York Times/Siena College,2026-11-01,717.0,49.3,43.7
 SC-governor,Resonance Media,2026-10-03,600.0,35.0,45.0
 SC-governor,The Citadel School of Humanities and Social Sciences,2026-10-25,890.0,31.0,42.0
@@ -640,6 +650,7 @@ TX-governor,Quantus Insights,2026-10-28,1214.0,46.3,51.6
 TX-governor,YouGov,2026-10-29,2141.0,49.0,50.0
 TX-governor,ActiVote,2026-10-29,400.0,47.9,52.1
 TX-governor,Kreate Strategies,2026-10-30,900.0,47.0,49.0
+TX-governor,AtlasIntel,2026-11-01,1678.0,49.2,47.6
 TX-governor,The New York Times/Siena College,2026-11-01,1215.0,48.1,46.6
 TX-senate,Barbara Jordan Public Policy Research and Survey Center,2025-05-19,1200.0,44.0,48.0
 TX-senate,Emerson College,2025-08-12,1000.0,38.1,45.2
@@ -713,9 +724,11 @@ TX-senate,Quantus Insights,2026-10-28,1207.0,48.4,49.4
 TX-senate,ActiVote,2026-10-28,400.0,52.1,47.9
 TX-senate,YouGov,2026-10-29,2141.0,51.0,47.0
 TX-senate,Kreate Strategies,2026-10-30,900.0,48.0,45.0
+TX-senate,AtlasIntel,2026-11-01,1678.0,52.2,46.2
 TX-senate,The New York Times/Siena College,2026-11-01,1215.0,50.2,43.1
 WI-governor,RMG Research,2026-07-24,800.0,46.0,43.0
 WI-governor,Platform Communications,2026-08-13,500.0,48.0,44.0
 WI-governor,Marquette University Law School,2026-08-20,738.0,49.0,44.0
 WI-governor,Marquette University Law School,2026-09-23,692.0,49.0,46.0
 WI-governor,Marquette University Law School,2026-10-22,668.0,53.0,46.0
+WI-governor,Research Co.,2026-11-01,450.0,50.0,45.0
