@@ -11,3 +11,7 @@ time,event,kind,race,winner,sources
 2026-11-02T02:03+00:00,pending,house,AZ-2,R,civicapi
 2026-11-02T02:03+00:00,pending,house,AZ-6,R,civicapi
 2026-11-02T02:03+00:00,pending,house,CO-8,R,civicapi
+2026-11-02T03:09+00:00,pending,house,AZ-1,R,civicapi
+2026-11-02T03:09+00:00,pending,house,AZ-2,R,civicapi
+2026-11-02T03:09+00:00,pending,house,AZ-6,R,civicapi
+2026-11-02T03:09+00:00,pending,house,CO-8,R,civicapi

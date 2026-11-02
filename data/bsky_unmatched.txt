@@ -1,3 +1,5 @@
+New Hampshire - Senate Polling:  🔵 Papas: 54% 🔴 Sununu: 42%  UNH / Oct 31, 2026
+Vermont Polling:  Governor: 🔵 Janoo: 51% 🔴 Scott: 43%*  Lt. Gov: 🔵 Gray: 63% 🔴 Rodgers: 34%*  UNH / Oct 31, 2026
 Generic Ballot Polling:  🔵 DEM: 56% 🔴 GOP 41%  Atlas Intel / Nov 1, 2026
 Louisiana - Senate Polling:  🔵 Davis: 47% 🔴 Letlow: 47%  Lincoln Park / Oct 31, 2026  (Democratic Internal)
 Arizona - Governor Polling:  🔵 Hobbs: 50% 🔴 Biggs: 45%  Grayhouse / Oct 29, 2026  (Republican Internal)  (Current AZ-GOV Model: DEM 57% - GOP 43%)  unitedstatespolling.com/p/the-gops-m...
@@ -134,4 +136,3 @@ North Carolina - Senate Polling:  🔵 Cooper: 53% 🔴 Whately: 46% ⚪️ Bray
 Oregon - Governor Polling:  🔵 Kotek: 46%* 🔴 Drazan: 44% ⚪ Smith: 3%  DHM / Oct 1, 2026
 New York - Governor Polling:  🔵 Hochul 52%* 🔴 Blakeman 40%  Emerson / Oct 5, 2026
 Arizona - Governor Polling:  🔵 Hobbs: 49%* 🔴 Biggs: 45%  GQR / Oct 4, 2026  (Hobbs Internal)
-Los Angeles - Mayoral Polling:  🔵 Raman: 35% 🔵 Bass: 33%*  FM3 / Oct 5, 2026

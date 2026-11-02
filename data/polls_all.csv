@@ -236,6 +236,7 @@ ME-governor,Marist College,2026-10-25,1449.0,51.0,40.0
 ME-governor,CNN,2026-10-26,783.0,53.0,39.0
 ME-governor,Data for Progress,2026-10-27,652.0,49.0,37.0
 ME-governor,YouGov,2026-10-29,1503.0,53.0,45.0
+ME-governor,UNH,2026-10-31,600.0,51.0,40.0
 ME-governor,The New York Times/Siena College,2026-11-01,714.0,54.8,39.8
 ME-senate,University of New Hampshire Survey Center,2026-07-20,1178.0,49.0,46.0
 ME-senate,Beacon Research/Shaw & Co. Research,2026-08-10,1000.0,48.0,46.0
@@ -264,6 +265,7 @@ ME-senate,CNN,2026-10-26,783.0,49.0,45.0
 ME-senate,Data for Progress,2026-10-27,652.0,50.0,45.0
 ME-senate,SSRS,2026-10-27,600.0,49.0,45.0
 ME-senate,YouGov,2026-10-29,1503.0,52.0,47.0
+ME-senate,UNH,2026-10-31,600.0,54.0,45.0
 ME-senate,The New York Times/Siena College,2026-11-01,714.0,50.9,45.0
 MI-governor,Target Insyght,2025-03-06,600.0,42.0,30.0
 MI-governor,Mitchell Research & Communications,2025-03-13,688.0,37.0,34.0
@@ -454,6 +456,7 @@ NH-governor,Saint Anselm College Survey Center,2026-09-29,1042.0,45.0,52.0
 NH-governor,YouGov,2026-10-05,1520.0,40.0,49.0
 NH-governor,University of Massachusetts Lowell Center for Public Opinion,2026-10-19,600.0,42.0,48.0
 NH-governor,Saint Anselm College Survey Center,2026-10-20,1672.0,42.0,50.0
+NH-governor,UNH,2026-10-31,600.0,48.0,48.0
 NH-senate,Praecones Analytica,2025-03-01,626.0,58.9,41.1
 NH-senate,co/efficient,2025-09-12,904.0,46.0,43.0
 NH-senate,University of New Hampshire Survey Center,2025-09-23,1225.0,49.0,43.0
