@@ -8,7 +8,8 @@
       "dir": "data/OH/u-s-senate-special",
       "poll_margin": null,
       "params": {
-        "sd_poll": 5.0
+        "sd_poll": 5.0,
+        "early_geo_signal": false
       }
     },
     {
@@ -19,7 +20,8 @@
       "dir": "data/OH/governor",
       "poll_margin": null,
       "params": {
-        "sd_poll": 5.0
+        "sd_poll": 5.0,
+        "early_geo_signal": false
       }
     },
     {
@@ -30,7 +32,9 @@
       "dir": "data/MI/u-s-senate",
       "poll_margin": null,
       "params": {
-        "sd_poll": 5.0
+        "sd_poll": 5.0,
+        "early_first": false,
+        "early_geo_signal": false
       }
     },
     {
@@ -41,7 +45,9 @@
       "dir": "data/MN/u-s-senate",
       "poll_margin": null,
       "params": {
-        "sd_poll": 5.0
+        "sd_poll": 5.0,
+        "early_first": false,
+        "early_geo_signal": false
       }
     },
     {
@@ -63,7 +69,8 @@
       "dir": "data/KS/u-s-senate",
       "poll_margin": null,
       "params": {
-        "sd_poll": 5.0
+        "sd_poll": 5.0,
+        "early_geo_signal": false
       }
     },
     {
@@ -74,7 +81,8 @@
       "dir": "data/KS/governor",
       "poll_margin": null,
       "params": {
-        "sd_poll": 5.0
+        "sd_poll": 5.0,
+        "early_geo_signal": false
       }
     },
     {
@@ -85,7 +93,8 @@
       "dir": "data/NE/u-s-senate",
       "poll_margin": null,
       "params": {
-        "sd_poll": 5.0
+        "sd_poll": 5.0,
+        "early_geo_signal": false
       }
     },
     {
@@ -96,7 +105,8 @@
       "dir": "data/NE/governor",
       "poll_margin": null,
       "params": {
-        "sd_poll": 5.0
+        "sd_poll": 5.0,
+        "early_geo_signal": false
       }
     },
     {
@@ -109,7 +119,9 @@
       "params": {
         "rcv": true,
         "third_share": 0.05,
-        "sd_poll": 5.0
+        "sd_poll": 5.0,
+        "early_first": false,
+        "early_geo_signal": false
       },
       "rcv_history": "data/ME/rcv_history.csv"
     },
@@ -124,7 +136,8 @@
         "early_first": false,
         "rcv": true,
         "third_share": 0.04,
-        "sd_poll": 5.0
+        "sd_poll": 5.0,
+        "early_geo_signal": false
       },
       "rcv_history": "data/AK/rcv_history.csv"
     },
@@ -169,7 +182,8 @@
       "dir": "data/MS/u-s-senate",
       "poll_margin": null,
       "params": {
-        "sd_poll": 5.0
+        "sd_poll": 5.0,
+        "early_geo_signal": false
       }
     },
     {
@@ -180,7 +194,9 @@
       "dir": "data/FL/governor",
       "poll_margin": null,
       "params": {
-        "sd_poll": 5.0
+        "sd_poll": 5.0,
+        "early_geo_signal": false,
+        "early_final_pct_in": 0.95
       }
     },
     {
@@ -206,7 +222,8 @@
       "dir": "data/NV/governor",
       "poll_margin": null,
       "params": {
-        "sd_poll": 5.0
+        "sd_poll": 5.0,
+        "early_geo_signal": false
       }
     },
     {
@@ -217,7 +234,9 @@
       "dir": "data/WI/governor",
       "poll_margin": null,
       "params": {
-        "sd_poll": 5.0
+        "sd_poll": 5.0,
+        "early_first": false,
+        "early_geo_signal": false
       }
     },
     {
@@ -245,7 +264,9 @@
       "params": {
         "rcv": false,
         "third_share": 0.05,
-        "sd_poll": 5.0
+        "sd_poll": 5.0,
+        "early_first": false,
+        "early_geo_signal": false
       },
       "_note": "Maine uses RCV for federal general elections only; governor is plurality (state constitution; Maine SJC Apr 2026)."
     },
@@ -257,7 +278,9 @@
       "dir": "data/NH/u-s-senate",
       "poll_margin": null,
       "params": {
-        "sd_poll": 5.0
+        "sd_poll": 5.0,
+        "early_first": false,
+        "early_geo_signal": false
       }
     },
     {
@@ -268,7 +291,9 @@
       "dir": "data/FL/u-s-senate-special",
       "poll_margin": null,
       "params": {
-        "sd_poll": 5.0
+        "sd_poll": 5.0,
+        "early_geo_signal": false,
+        "early_final_pct_in": 0.95
       }
     },
     {
@@ -304,7 +329,8 @@
         "early_first": false,
         "sd_poll": 5.0,
         "rcv": true,
-        "third_share": 0.06
+        "third_share": 0.06,
+        "early_geo_signal": false
       },
       "rcv_history": "data/AK/rcv_history.csv",
       "_note": "Alaska general uses RCV for governor and Senate. third_share 0.06 is a placeholder; set it from the polls' other-candidate share."
@@ -317,7 +343,9 @@
       "dir": "data/MI/governor",
       "poll_margin": null,
       "params": {
-        "sd_poll": 5.0
+        "sd_poll": 5.0,
+        "early_first": false,
+        "early_geo_signal": false
       }
     },
     {
@@ -328,7 +356,9 @@
       "dir": "data/MN/governor",
       "poll_margin": null,
       "params": {
-        "sd_poll": 5.0
+        "sd_poll": 5.0,
+        "early_first": false,
+        "early_geo_signal": false
       }
     },
     {
@@ -339,7 +369,9 @@
       "dir": "data/NH/governor",
       "poll_margin": null,
       "params": {
-        "sd_poll": 5.0
+        "sd_poll": 5.0,
+        "early_first": false,
+        "early_geo_signal": false
       }
     },
     {
@@ -350,7 +382,8 @@
       "dir": "data/NC/u-s-senate",
       "poll_margin": 10.3,
       "params": {
-        "sd_poll": 5.0
+        "sd_poll": 5.0,
+        "early_final_pct_in": 0.95
       }
     }
   ],
