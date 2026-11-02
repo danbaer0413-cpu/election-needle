@@ -252,7 +252,12 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
             sig_party = float(np.clip(sig_party, S0_ - lim_, S0_ + lim_))
             obs.append((sig_party, var_ep, "early party reg"))
         sig_geo = float((E_ret * m0).sum() / E_ret.sum() - (exp_early0 * m0).sum() / exp_early0.sum())
-        if p.early_geo_signal and abs(sig_geo) > 1e-6:      # exactly 0 = the early table is a statewide total spread over counties: no geography to read
+        # a statewide total spread over counties in proportion to expected early vote has (almost) the same returned/expected ratio
+        # everywhere: no geography to read. Rounding leaves sig_geo slightly off zero, so test the ratio's spread, not sig_geo == 0.
+        _ok = exp_early0 > 0
+        _ratio = E_ret[_ok] / exp_early0[_ok]
+        spread_only = bool(_ratio.size and _ratio.mean() > 0 and _ratio.std() / _ratio.mean() < 0.01)
+        if p.early_geo_signal and not spread_only and abs(sig_geo) > 1e-6:
             var_eg = (p.sd_early_geo * infl) ** 2
             P1_ = sum(1.0 / v for _, v, _ in obs)
             S1_ = sum(mm_ / v for mm_, v, _ in obs) / P1_

@@ -1,0 +1,275 @@
+"""
+Live vote counts from civicAPI (civicapi.org, free; credit them) as a results source for the model.
+
+Used by sources.py for rows with scope = civic (config/sources.csv). For one race id (e.g. MI-senate) it
+  1. finds civicAPI's race for that state, date and office (cached in data/civic_race_ids.json),
+  2. reads candidates' statewide votes and the county / district breakdown (region_results),
+  3. returns (county table with dem, rep, final) and (statewide dict dem, rep).
+Dem and Rep are picked by surname from config/candidates.csv first, then by party label. Races flagged test_data are
+skipped unless CIVIC_ALLOW_TEST=1. Anything it cannot read is skipped and logged; it never raises into the update run.
+
+Rehearse on a past election:   python civic_results.py --date 2024-11-05 --only TX-senate
+Check every race for Nov 3:     python civic_results.py
+"""
+from __future__ import annotations
+
+import argparse
+import json
+import os
+import re
+
+import pandas as pd
+
+BASE = "https://civicapi.org/api/v2"
+UA = {"User-Agent": "election-needle (personal, non-commercial; attribution civicapi.org)"}
+DATE = "2026-11-03"
+CACHE = "data/civic_race_ids.json"
+PROBE = "data/civic_probe.json"
+DEM_WORDS = ("democrat", "dem", "dfl")
+REP_WORDS = ("republican", "rep", "gop")
+
+
+_FAILS = [0]
+
+
+def _get(path, timeout=12):
+    """One GET. After 3 failures in a run, civicAPI is skipped for the rest of that run, so a slow or down API cannot stall the update."""
+    import requests
+    if _FAILS[0] >= 3:
+        raise RuntimeError("civicAPI skipped for this run after 3 failures")
+    try:
+        r = requests.get(BASE + path, headers=UA, timeout=timeout)
+        r.raise_for_status()
+        return r.json()
+    except Exception:
+        _FAILS[0] += 1
+        raise
+
+
+def _kind(name: str):
+    n = str(name)
+    if "primary" in n.lower() or "runoff" in n.lower():
+        return None
+    if "Senate" in n and "State Senate" not in n:
+        return "senate"
+    if "Governor" in n and "Lieutenant" not in n:
+        return "governor"
+    return None
+
+
+def _want(rid: str):
+    return "governor" if rid.lower().endswith("governor") else "senate"
+
+
+def find_race(rid: str, state: str, date: str = DATE, get=None, log=print):
+    """civicAPI race id for our race, cached per (race, date)."""
+    get = get or _get
+    cache = {}
+    if os.path.exists(CACHE):
+        try:
+            cache = json.load(open(CACHE))
+        except Exception:
+            cache = {}
+    key = f"{rid}|{date}"
+    if key in cache:
+        return cache[key]
+    want, hits, off = _want(rid), [], 0
+    if date == DATE and os.path.exists(PROBE):          # race ids saved by the civic-probe workflow: no searching on the night
+        try:
+            pr = json.load(open(PROBE)).get("states", {}).get(state, {}).get("races") or []
+            hits = [{"id": x[1], "election_name": x[2]} for x in pr if x[0] == want]
+        except Exception:
+            hits = []
+    while not hits and off < 400:
+        sk = (state, date, off)
+        js = _SEARCH.get(sk) or get(f"/race/search?country=US&province={state}&date={date}&offset={off}")
+        _SEARCH[sk] = js
+        races = (js or {}).get("races") or []
+        if not races:
+            break
+        for r in races:
+            if _kind(r.get("election_name")) == want:
+                hits.append(r)
+        off += 20
+    if not hits:
+        log(f"  civicAPI: no {want} race for {state} on {date}")
+        return None
+    if len(hits) > 1:      # two Senate races in one state (regular + special): prefer the special for ids that say so
+        spec = [h for h in hits if "special" in str(h.get("election_name", "")).lower()]
+        hits = spec if (rid in SPECIAL and spec) else ([h for h in hits if h not in spec] or hits)
+    cache[key] = hits[0]["id"]
+    try:
+        os.makedirs(os.path.dirname(CACHE), exist_ok=True)
+        json.dump(cache, open(CACHE, "w"), indent=1)
+    except Exception:
+        pass
+    return cache[key]
+
+
+SPECIAL = {"OH-senate", "FL-senate"}
+_SEARCH: dict = {}      # U.S. Senate (special) in config/races.json
+
+
+def _surnames(rid):
+    try:
+        import sources
+        return sources._surnames(rid)
+    except Exception:
+        return None, None
+
+
+def _side(label, party, dem_sn, rep_sn):
+    """'D', 'R' or None for one candidate / party label."""
+    lab = str(label or "").lower()
+    if dem_sn and dem_sn.lower() in lab:
+        return "D"
+    if rep_sn and rep_sn.lower() in lab:
+        return "R"
+    p = str(party or label or "").lower().strip()       # region tables keyed by party name ('Democratic': {...}) use the label
+    if p in ("d", "dem") or any(w in p for w in ("democrat", "dfl")):
+        return "D"
+    if p in ("r", "rep", "gop") or "republican" in p:
+        return "R"
+    return None
+
+
+def _num(v):
+    if isinstance(v, dict):
+        for k in ("votes", "vote", "count", "total"):
+            if k in v:
+                return _num(v[k])
+        return None
+    try:
+        return float(str(v).replace(",", ""))
+    except Exception:
+        return None
+
+
+def _pairs(x, cand_party):
+    """Flatten one region's payload into [(label, party, votes)]. Handles a list of candidate dicts, a dict of
+    {candidate or party: votes or {votes: n}}, and a dict holding such a list under candidates/results."""
+    out = []
+    if isinstance(x, list):
+        for c in x:
+            if isinstance(c, dict):
+                lab = c.get("name") or c.get("candidate") or c.get("candidate_name") or c.get("id")
+                out.append((lab, c.get("party") or cand_party.get(str(lab)), _num(c)))
+    elif isinstance(x, dict):
+        for k in ("candidates", "results", "votes_by_candidate"):
+            if isinstance(x.get(k), (list, dict)):
+                return _pairs(x[k], cand_party)
+        for lab, v in x.items():
+            if lab in ("percent_reporting", "pct", "name", "region", "id", "total", "precincts_reporting", "precincts_total"):
+                continue
+            n = _num(v)
+            if n is not None:
+                out.append((lab, (v.get("party") if isinstance(v, dict) else None) or cand_party.get(str(lab)), n))
+    return out
+
+
+def _region_pct(x):
+    if isinstance(x, dict):
+        for k in ("percent_reporting", "pct", "pct_reporting"):
+            if x.get(k) is not None:
+                try:
+                    return float(x[k])
+                except Exception:
+                    pass
+    return None
+
+
+def _regions(rr):
+    """[(region name, payload)] from region_results as a dict or a list."""
+    if isinstance(rr, dict):
+        return list(rr.items())
+    out = []
+    for item in rr or []:
+        if isinstance(item, dict):
+            nm = item.get("name") or item.get("region") or item.get("county") or item.get("region_name")
+            if nm is not None:
+                out.append((nm, item))
+    return out
+
+
+def _clean_region(name, state):
+    s = str(name).strip()
+    s = re.sub(r"\s+(County|Parish|Borough|Census Area)$", "", s, flags=re.I)
+    if state == "AK":                                       # our Alaska units are 'District 01' ... 'District 40'
+        m = re.search(r"(\d+)", s)
+        if m and "district" in s.lower():
+            s = f"District {int(m.group(1)):02d}"
+    return s
+
+
+def read_race(rid: str, state: str, date: str = DATE, get=None, log=print):
+    """-> (county DataFrame or None, statewide dict or None, info dict)."""
+    get = get or _get
+    cid = find_race(rid, state, date, get=get, log=log)
+    if cid is None:
+        return None, None, {}
+    d = get(f"/race/{cid}?data=json") or {}
+    info = {"civic_id": cid, "name": d.get("election_name"), "pct": d.get("percent_reporting"), "test_data": d.get("test_data")}
+    if d.get("test_data") and os.environ.get("CIVIC_ALLOW_TEST") != "1":
+        log(f"  civicAPI {rid}: race flagged test_data; not used")
+        return None, None, info
+    dem_sn, rep_sn = _surnames(rid)
+    cands = d.get("candidates") or []
+    cand_party = {str(c.get("name")): c.get("party") for c in cands if isinstance(c, dict)}
+    D = R = 0.0
+    for c in cands:
+        if not isinstance(c, dict):
+            continue
+        side, n = _side(c.get("name"), c.get("party"), dem_sn, rep_sn), _num(c)
+        if side == "D" and n:
+            D += n
+        elif side == "R" and n:
+            R += n
+    sw = dict(dem=D, rep=R) if D + R > 0 else None
+    rows = []
+    for name, payload in _regions(d.get("region_results")):
+        if str(name).strip().lower() in ("statewide", "total", state.lower()):
+            continue
+        dd = rr = 0.0
+        for lab, party, n in _pairs(payload, cand_party):
+            side = _side(lab, party, dem_sn, rep_sn)
+            if side == "D" and n:
+                dd += n
+            elif side == "R" and n:
+                rr += n
+        if dd + rr > 0:
+            pct = _region_pct(payload)
+            rows.append(dict(county=_clean_region(name, state), dem=dd, rep=rr, final=bool(pct is not None and pct >= 100)))
+    df = pd.DataFrame(rows) if rows else None
+    info.update(regions=len(rows), D=D, R=R)
+    return df, sw, info
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--date", default=DATE)
+    ap.add_argument("--only", default=None)
+    ap.add_argument("--config", default="config/races.json")
+    a = ap.parse_args()
+    from model import norm_name
+    races = json.load(open(a.config))["races"]
+    for r in races:
+        if a.only and r["id"] != a.only:
+            continue
+        try:
+            df, sw, info = read_race(r["id"], r["state"], a.date)
+        except Exception as ex:
+            print(f"{r['id']}: ERROR {str(ex)[:150]}")
+            continue
+        base = pd.read_csv(os.path.join(r["dir"], "counties.csv"))
+        bk = set(base["county"].astype(str).map(norm_name))
+        if df is not None:
+            got = set(df["county"].astype(str).map(norm_name))
+            miss = sorted(got - bk)[:6]
+            print(f"{r['id']}: {info.get('name')} | statewide D {info.get('D', 0):,.0f} R {info.get('R', 0):,.0f} | {len(df)} regions, "
+                  f"{len(got & bk)}/{len(bk)} match our counties" + (f" | not matched: {miss}" if miss else ""))
+        else:
+            print(f"{r['id']}: {info.get('name')} | statewide {sw} | no county breakdown | {info}")
+
+
+if __name__ == "__main__":
+    main()

@@ -28,11 +28,11 @@ NUM = re.compile(r"\d{1,3}(?:,\d{3})+|\d{4,}")
 LICENSED = re.compile(r"associated press|\bAP\b|edison|decision desk|\bDDHQ\b|licensed|NBC|CNN|Fox News", re.I)
 
 
-def switch_on(name, path="config/switches.json"):
+def switch_on(name, path="config/switches.json", default=False):
     """config/switches.json: {"electiontracker": false}. A source row with a `switch` value only runs when that switch is true."""
     try:
         import json
-        return bool(json.load(open(path)).get(name, False))
+        return bool(json.load(open(path)).get(name, default))
     except Exception:
         return False
 
@@ -102,10 +102,19 @@ def load_race(rid: str, path="config/sources.csv", log=print):
     for row in s.to_dict("records"):
         scope = (row.get("scope") or "counties").strip()
         sw_name = (row.get("switch") or "").strip()
-        if sw_name and not switch_on(sw_name):
+        if sw_name and not switch_on(sw_name, default=(sw_name == "civic")):     # civic is on unless switches.json says "civic": false
             continue                                       # switched off in config/switches.json
         tag = f"{rid} source '{row.get('name') or row['url'][:40]}'"
         try:
+            if scope == "civic":                               # civicAPI live counts: county table + statewide total (civic_results.py)
+                import civic_results
+                cdf, csw, cinfo = civic_results.read_race(rid, rid.split("-")[0], log=log)
+                if cdf is not None and len(cdf):
+                    parts.append(cdf[["county", "dem", "rep", "final"]])
+                if csw and (sw is None or csw["dem"] + csw["rep"] > sw["dem"] + sw["rep"]):
+                    sw = dict(dem=csw["dem"], rep=csw["rep"])
+                log(f"  {tag}: {cinfo.get('regions', 0)} regions, statewide D {cinfo.get('D', 0):,.0f} R {cinfo.get('R', 0):,.0f}")
+                continue
             if scope == "counties":
                 df = load_feed(row)
                 if df is not None and len(df):
