@@ -1,3 +1,5 @@
+Generic Ballot Polling:  🔵 Democrat: 52% 🔴 Republican: 42%  TIPP / Oct 30, 2026
+Colorado - Governor Polling:  🔵 Weiser: 57% 🔴 Marx: 37%  YouGov/UC / Oct 20, 2026
 New Hampshire - Senate Polling:  🔵 Papas: 54% 🔴 Sununu: 42%  UNH / Oct 31, 2026
 Vermont Polling:  Governor: 🔵 Janoo: 51% 🔴 Scott: 43%*  Lt. Gov: 🔵 Gray: 63% 🔴 Rodgers: 34%*  UNH / Oct 31, 2026
 Generic Ballot Polling:  🔵 DEM: 56% 🔴 GOP 41%  Atlas Intel / Nov 1, 2026
@@ -133,4 +135,3 @@ Pennsylvania - Governor Polling:  🔵 Shapiro: 53%* 🔴 Garrity: 34% 🟡 Kraw
 Kentucky - 6th House Polling:  🔵Dembo: 47% 🔴Alvarado: 38%  Change Research / Oct 5, 2026  (House model for KY-6: GOP 51% - DEM 49%)  unitedstatespolling.com/p/democrats-...
 Kentucky - 6th House Polling:  🔵Dembo: 48% 🔴Alvarado: 45%  House Majority PAC / Oct 2026  (Democratic Internal)  (House model for KY-6: GOP 51% - DEM 49%)  unitedstatespolling.com/p/democrats-...
 North Carolina - Senate Polling:  🔵 Cooper: 53% 🔴 Whately: 46% ⚪️ Bray: 2%  East Carolina U. / Oct 3, 2026  (Current NC-SEN Model: DEM 54% - GOP 45%)  unitedstatespolling.com/p/democrats-...
-Oregon - Governor Polling:  🔵 Kotek: 46%* 🔴 Drazan: 44% ⚪ Smith: 3%  DHM / Oct 1, 2026
