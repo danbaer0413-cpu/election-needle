@@ -261,7 +261,10 @@ def read_race(rid: str, state: str, date: str = DATE, get=None, log=print):
     cands = d.get("candidates") or []
     cand_party = {str(c.get("name")): c.get("party") for c in cands if isinstance(c, dict)}
     names = [str(c.get("name", "")).lower() for c in cands if isinstance(c, dict)]
-    bp = (not (dem_sn and any(dem_sn.lower() in x for x in names)), not (rep_sn and any(rep_sn.lower() in x for x in names)))
+    # All candidates of a party count for that side, the same rule as the Alaska state feed (Party_Code). In Alaska's top-four
+    # governor race three Republicans are on the ballot (Wilson, Bronson, Taylor); their combined vote approximates the final
+    # ranked-choice round. Surnames still decide independents (Osborn in Nebraska).
+    bp = (True, True)
     D = R = 0.0
     for c in cands:
         if not isinstance(c, dict):
