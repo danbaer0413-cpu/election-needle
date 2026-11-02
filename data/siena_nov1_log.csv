@@ -1,0 +1,12 @@
+id,old_avg,siena_two_party,new_avg,siena_dates,siena_n
+KS-senate,1.08,5.38,2.51,Oct 27-Nov 1,736.0
+KS-governor,-4.39,0.0,-2.93,Oct 27-Nov 1,736.0
+TX-senate,2.53,7.53,4.2,Oct 27-Nov 1,1215.0
+TX-governor,-2.82,2.11,-1.18,Oct 27-Nov 1,1215.0
+MI-senate,3.3,11.58,6.06,Oct 23-Nov 1,1011.0
+OH-senate,3.54,6.45,4.51,Oct 26-Nov 1,717.0
+OH-governor,4.29,6.52,5.03,Oct 26-Nov 1,
+IA-senate,0.86,1.05,0.92,Oct 26-Nov 1,
+ME-senate,2.0,6.25,3.42,Oct 27-Nov 1,
+ME-governor,12.81,15.12,13.58,Oct 27-Nov 1,
+AK-senate,4.13,1.06,3.11,Oct 23-30,

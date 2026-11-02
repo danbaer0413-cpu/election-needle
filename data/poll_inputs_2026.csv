@@ -1,24 +1,24 @@
 id,poll_margin,n_polls,rule_used,pollsters,window_start,window_end
 GA-governor,-1.4,3.0,unrated,Quantus Insights;University of Georgia;InsiderAdvantage,2026-10-03,2026-10-24
-OH-governor,4.29,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-25
-TX-governor,-2.82,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-25
+OH-governor,5.03,,silver_bulletin_avg+NYT_Siena(1/3),Silver Bulletin polling average;NYT/Siena Oct 26-Nov 1,,2026-11-01
+TX-governor,-1.18,,silver_bulletin_avg+NYT_Siena(1/3),Silver Bulletin polling average;NYT/Siena Oct 27-Nov 1,,2026-11-01
 NE-governor,-3.82,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-25
-ME-governor,12.81,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-25
-KS-governor,-4.39,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-25
+ME-governor,13.58,,silver_bulletin_avg+NYT_Siena(1/3),Silver Bulletin polling average;NYT/Siena Oct 27-Nov 1,,2026-11-01
+KS-governor,-2.93,,silver_bulletin_avg+NYT_Siena(1/3),Silver Bulletin polling average;NYT/Siena Oct 27-Nov 1,,2026-11-01
 FL-governor,-4.88,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-25
 NV-governor,-0.5,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-27
-TX-senate,2.53,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-26
-OH-senate,3.54,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-26
+TX-senate,4.2,,silver_bulletin_avg+NYT_Siena(1/3),Silver Bulletin polling average;NYT/Siena Oct 27-Nov 1,,2026-11-01
+OH-senate,4.51,,silver_bulletin_avg+NYT_Siena(1/3),Silver Bulletin polling average;NYT/Siena Oct 26-Nov 1,,2026-11-01
 NH-senate,7.93,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-26
 NE-senate,0.54,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-26
-MI-senate,3.3,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-27
-ME-senate,2.0,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-27
+MI-senate,6.06,,silver_bulletin_avg+NYT_Siena(1/3),Silver Bulletin polling average;NYT/Siena Oct 23-Nov 1,,2026-11-01
+ME-senate,3.42,,silver_bulletin_avg+NYT_Siena(1/3),Silver Bulletin polling average;NYT/Siena Oct 27-Nov 1,,2026-11-01
 MS-senate,-7.86,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-26
 MN-senate,5.15,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-26
-KS-senate,1.08,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-26
-IA-senate,0.86,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-26
+KS-senate,2.51,,silver_bulletin_avg+NYT_Siena(1/3),Silver Bulletin polling average;NYT/Siena Oct 27-Nov 1,,2026-11-01
+IA-senate,0.92,,silver_bulletin_avg+NYT_Siena(1/3),Silver Bulletin polling average;NYT/Siena Oct 26-Nov 1,,2026-11-01
 GA-senate,9.48,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-26
-AK-senate,4.13,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-26
+AK-senate,3.11,,silver_bulletin_avg+NYT_Siena(1/3),Silver Bulletin polling average;NYT/Siena Oct 23-30,,2026-11-01
 WI-governor,3.4,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-27
 SC-senate,-1.85,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-26
 NC-senate,10.3,,silver_bulletin_avg,Silver Bulletin polling average,,2026-10-26
