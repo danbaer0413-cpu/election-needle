@@ -1,8 +1,11 @@
 {
-  "_note": "Bluesky accounts whose posts count as one source each for a call. A call is written only when min_sources sources agree (civicAPI counts as one). I have NOT verified these handles - check each is the real, official account before relying on it, and add or remove as you like.",
-  "accounts": ["apnews.com", "decisiondeskhq.com"],
-  "min_sources": 2,
-  "civic": true,
-  "not_before": "2026-11-03T21:00:00Z",
-  "max_age_hours": 96
+ "_note": "Bluesky accounts whose posts count as one source each for a call. A call is written only when min_sources sources agree (civicAPI counts as one). Checked 2026-11-02: decisiondeskhq.bsky.social is Decision Desk HQ's account (decisiondeskhq.com was wrong); apnews.com is the AP's domain handle.",
+ "accounts": [
+  "apnews.com",
+  "decisiondeskhq.bsky.social"
+ ],
+ "min_sources": 2,
+ "civic": true,
+ "not_before": "2026-11-03T21:00:00Z",
+ "max_age_hours": 96
 }
