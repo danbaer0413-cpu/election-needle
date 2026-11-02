@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T07:28:04+00:00",
+ "updated": "2026-11-02T15:35:40+00:00",
  "source": "Cook Political Report House ratings, updated list Oct 30 2026",
  "districts": [
   {
@@ -62,9 +62,9 @@
    "district": "2",
    "rating": "Likely Dem",
    "m0": 9.0,
-   "early_adj": 0.49,
-   "early_margin": 13.1,
-   "m": 9.49,
+   "early_adj": 0.57,
+   "early_margin": 13.2,
+   "m": 9.57,
    "bin": "Likely D",
    "called": null
   },
@@ -249,9 +249,9 @@
    "district": "25",
    "rating": "Leans Dem",
    "m0": 5.0,
-   "early_adj": 1.03,
-   "early_margin": 20.2,
-   "m": 6.03,
+   "early_adj": 1.04,
+   "early_margin": 20.3,
+   "m": 6.04,
    "bin": "Lean D",
    "called": null
   },
@@ -261,7 +261,7 @@
    "rating": "Leans Dem",
    "m0": 5.0,
    "early_adj": -0.07,
-   "early_margin": 22.4,
+   "early_margin": 22.7,
    "m": 4.93,
    "bin": "Lean D",
    "called": null
@@ -271,9 +271,9 @@
    "district": "3",
    "rating": "Leans Dem",
    "m0": 5.0,
-   "early_adj": 0.37,
-   "early_margin": 23.6,
-   "m": 5.37,
+   "early_adj": 0.34,
+   "early_margin": 23.7,
+   "m": 5.34,
    "bin": "Lean D",
    "called": null
   },
@@ -425,9 +425,9 @@
    "district": "14",
    "rating": "Toss-up",
    "m0": 0.0,
-   "early_adj": 0.39,
+   "early_adj": 0.38,
    "early_margin": 8.3,
-   "m": 0.39,
+   "m": 0.38,
    "bin": "Toss-up",
    "called": null
   },
@@ -437,7 +437,7 @@
    "rating": "Toss-up",
    "m0": 0.0,
    "early_adj": 0.5,
-   "early_margin": 10.9,
+   "early_margin": 11.0,
    "m": 0.5,
    "bin": "Toss-up",
    "called": null
@@ -448,7 +448,7 @@
    "rating": "Toss-up",
    "m0": 0.0,
    "early_adj": 0.99,
-   "early_margin": 20.7,
+   "early_margin": 20.9,
    "m": 0.99,
    "bin": "Toss-up",
    "called": null
@@ -646,7 +646,7 @@
    "rating": "Leans Rep",
    "m0": -5.0,
    "early_adj": 0.17,
-   "early_margin": 4.3,
+   "early_margin": 4.4,
    "m": -4.83,
    "bin": "Lean R",
    "called": null
@@ -667,9 +667,9 @@
    "district": "13",
    "rating": "Leans Rep",
    "m0": -5.0,
-   "early_adj": -0.27,
-   "early_margin": -2.2,
-   "m": -5.27,
+   "early_adj": -0.26,
+   "early_margin": -2.1,
+   "m": -5.26,
    "bin": "Lean R",
    "called": null
   },
@@ -678,9 +678,9 @@
    "district": "27",
    "rating": "Leans Rep",
    "m0": -5.0,
-   "early_adj": -0.17,
-   "early_margin": 3.4,
-   "m": -5.17,
+   "early_adj": -0.15,
+   "early_margin": 3.6,
+   "m": -5.15,
    "bin": "Lean R",
    "called": null
   },
@@ -810,9 +810,9 @@
    "district": "16",
    "rating": "Likely Rep",
    "m0": -9.0,
-   "early_adj": -0.72,
-   "early_margin": -8.5,
-   "m": -9.72,
+   "early_adj": -0.71,
+   "early_margin": -8.4,
+   "m": -9.71,
    "bin": "Likely R",
    "called": null
   },
@@ -888,7 +888,7 @@
    "rating": "Likely Rep",
    "m0": -9.0,
    "early_adj": 0.89,
-   "early_margin": 4.0,
+   "early_margin": 3.4,
    "m": -8.11,
    "bin": "Likely R",
    "called": null
@@ -951,5 +951,5 @@
   "NE",
   "NV"
  ],
- "live_fetched_at": "2026-11-02T07:10:30+00:00"
+ "live_fetched_at": "2026-11-02T15:35:40+00:00"
 }
