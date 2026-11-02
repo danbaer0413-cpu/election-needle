@@ -1,0 +1,61 @@
+GitHub upload, Mon Nov 2 (before the evening freeze)
+
+What is in here (same folder layout as your repo):
+  config/races.json        replaces the one from last night. Alaska: early "which counties" signal off.
+                           Reporting order set to "mixed" for WI, MI, MN, NH, ME.
+                           Early "which counties" signal off in the 21 races whose early-vote shares are placeholders.
+                           FL and NC: 95% of the early vote assumed in by Monday night (in-person early voting is over).
+  config/poll_error.json   Alaska poll-history adjustment halved: -2.53 -> -1.27. Nothing else changed.
+  data/NC/u-s-senate/counties.csv            early-vote share per county from the NC voter file, 2022 midterm (state 58%)
+  data/FL/governor/counties.csv              early-vote share 0.65 (2022 Florida, about 65% voted early)
+  data/FL/u-s-senate-special/counties.csv    same
+  data/NV/governor/counties.csv              early-vote share 0.80 (2022 Nevada, about 80%)
+  In the four counties.csv files ONLY the exp_early_share column changed.
+
+  civicAPI live results (new):
+  civic_results.py         NEW. Reads civicAPI's live vote counts: county (or Alaska district) table + statewide total,
+                           for all 30 races. If civicAPI is slow or down it gives up after 3 failures, so the run keeps going.
+  sources.py               adds the civicAPI source type. Nothing else changed.
+  config/sources.csv       30 new civicAPI rows at the top; your existing rows are unchanged below them.
+  model.py                 one fix: when an early-vote file is a statewide total spread over counties (civicAPI's
+                           STATE rows do this), the "which counties are voting" signal is now skipped automatically.
+                           Before, rounding let it through and it pulled the race toward its 2024 baseline (the Alaska bug).
+  civic_probe.py           fixed: it now uses civicAPI's real date filter (startDate/endDate). The old one ignored the
+                           date, stopped after 400 races, and missed 9 Senate races and all of NC.
+  auto_calls.py            same date-filter fix for the automatic race calls. The old search mixed in races from other
+                           years (e.g. a 2024 House winner) and only looked at the first 600 races per state.
+  house_results.py         NEW. Live House results for the map: when you hover a district square you see the top two
+                           candidates' % and the % counted (civicAPI). Display only: it never changes a lean, call or seat count.
+  house_lean.py            calls house_results.py when it builds the House data. Nothing else changed.
+  house_view.py            the hover box shows those results. Nothing else changed.
+                           Refreshed every 30 minutes (the needles still update every 10).
+                           Off switch: "house_results": false in config/switches.json.
+  .github/workflows/update.yml   time limits: the job may run 9 minutes (was 8); VoteHub, civicAPI early vote,
+                           auto-calls and the poll pull get at most 2 minutes each, so the model step always has time.
+                           civicAPI readers also stop on their own after 100 s (results), 75 s (House) and 90 s (calls).
+  It is on by default. To turn it off: add "civic": false to config/switches.json.
+  Like every source, the count with the most votes wins per county, so it can only add information.
+
+Before uploading, check: open data/FL/governor/counties.csv in your repo. If every exp_early_share is 0.4, upload.
+If it is anything else, your repo has a newer file: stop and tell Claude.
+
+How to upload (Chrome, github.com):
+  1. Unzip this file.
+  2. Open your repo's main page. Click Add file > Upload files.
+  3. Drag the config folder AND the data folder from the unzipped folder onto the page (drag the folders, not the files).
+     GitHub keeps the folder paths and replaces the matching files.
+  Also drag civic_results.py, civic_probe.py, auto_calls.py, sources.py, model.py, house_results.py, house_lean.py and
+     house_view.py (they all go in the top folder of the repo).
+  The .github folder starts with a dot: if you can't see it, turn on hidden items (File Explorer > View > Hidden items).
+     Drag it in too.
+  4. Check the list shows 16 files with paths like config/races.json and data/NC/u-s-senate/counties.csv.
+  5. Commit changes. Then Actions > civic-probe > Run workflow (again, with the fixed probe). When it finishes,
+     Actions > update workflow > Run workflow.
+Do not upload UPLOAD_STEPS.txt (harmless if you do).
+
+Rehearse civicAPI on the PC (after the upload, GitHub Desktop > Fetch origin > Pull):
+  cd /d E:\election-needle-repo\election-needle
+  python civic_results.py --date 2024-11-05 --only TX-senate      (2024 Cruz-Allred: real counts, should match ~250 counties)
+  Then on GitHub: Actions > civic-probe > Run workflow. After it finishes, Fetch/Pull on the PC and run:
+  python civic_results.py                                          (finds all 30 races for Nov 3; numbers stay 0 until polls close)
+Send Claude what both print.

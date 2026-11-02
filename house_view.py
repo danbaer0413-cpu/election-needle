@@ -52,11 +52,31 @@ def district_color(d: dict) -> str:
     return BIN_COL[d["bin"]]
 
 
+def live_text(d: dict) -> str:
+    """'<br>Results (63% in): Gray (D) 51.2% · Duarte (R) 48.8%' from civicAPI, or '' when there are none yet."""
+    lv = d.get("live")
+    if not lv or not lv.get("a"):
+        return ""
+    def one(c):
+        last = str(c[0]).split()[-1] if c[0] else "?"
+        return f"{last} ({c[1]}) {c[3]:.1f}%"
+    pct = lv.get("pct_in")
+    head = f"Results ({pct:.0f}% in)" if isinstance(pct, (int, float)) else "Results"
+    body = one(lv["a"]) + (f" · {one(lv['b'])}" if lv.get("b") else "")
+    try:
+        import datetime as _dt
+        from zoneinfo import ZoneInfo
+        when = _dt.datetime.fromisoformat(str(lv.get("as_of"))).astimezone(ZoneInfo("America/New_York")).strftime("%-I:%M %p ET")
+    except Exception:
+        when = ""
+    return f"<br>{head}: {body}<br><i>civicAPI{', ' + when if when else ''}</i>"
+
+
 def hover(d: dict) -> str:
     code = f"{d['state']}-{d['district']}"
     if d.get("called"):
-        return f"<b>{code}</b><br>Called: {'Democrat' if d['called'] == 'D' else 'Republican'}"
-    t = f"<b>{code}</b><br>{d['bin']}<br>Cook: {d['rating']}"
+        return f"<b>{code}</b><br>Called: {'Democrat' if d['called'] == 'D' else 'Republican'}" + live_text(d)
+    t = f"<b>{code}</b><br>{d['bin']}<br>Cook: {d['rating']}" + live_text(d)
     if d.get("early_margin") is not None:
         t += f"<br>Early vote (party reg.): {'D' if d['early_margin'] >= 0 else 'R'}+{abs(d['early_margin']):.0f}"
         t += f"<br>Early-vote adjustment: {('toward D ' if d['early_adj'] > 0 else 'toward R ' if d['early_adj'] < 0 else '')}{abs(d['early_adj']):.1f} pts"

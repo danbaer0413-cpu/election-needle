@@ -265,6 +265,13 @@ def parliament_xy(n: int = 435, rows: int = 10):
 
 def build_and_save(log=print):
     h = build(log)
+    try:                                                  # live results for the map's hover box (display only; house_results.py)
+        import sources
+        if sources.switch_on("house_results", default=True):
+            import house_results
+            house_results.attach_throttled(h, OUT, log=log)
+    except Exception as ex:
+        log(f"  house results skipped ({str(ex)[:100]})")
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     tmp = OUT + ".tmp"
     json.dump(h, open(tmp, "w"), indent=1)

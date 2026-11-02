@@ -24,25 +24,28 @@ def kind(name):
         return None
     if "Senate" in n and "State Senate" not in n:
         return "senate"
-    if "Governor" in n and "Lieutenant" not in n:
+    if "Governor" in n and not any(w in n for w in ("Lieutenant", "Board", "College", "University")):
         return "governor"
     if ("U.S. House" in n or "US House" in n or "Congressional" in n or "United States House" in n) and "State" not in n:
         return "house"
     return None
 
 
-out = {"states": {}, "detail": {}}
+out = {"version": 2, "states": {}, "detail": {}}
 for st in STATES:
-    found, off = [], 0
-    while off < 400:
-        code, js = get(f"/race/search?country=US&province={st}&date=2026-11-03&offset={off}")
-        if not js or not js.get("races"):
-            break
-        for r in js["races"]:
+    found, off, seen_ids = [], 0, set()
+    while off < 20000:
+        # startDate/endDate are the API's date filters (`date=` is ignored and returns every year); limit up to 50000
+        code, js = get(f"/race/search?country=US&province={st}&startDate=2026-11-03&endDate=2026-11-03&limit=1000&offset={off}")
+        races = (js or {}).get("races") or []
+        for r in races:
             k = kind(r.get("election_name"))
-            if k:
+            if k and r["id"] not in seen_ids:
+                seen_ids.add(r["id"])
                 found.append((k, r["id"], r.get("election_name")))
-        off += 20
+        if len(races) < 1000:
+            break
+        off += 1000
     cnt = {k: sum(1 for f in found if f[0] == k) for k in ("senate", "governor", "house")}
     out["states"][st] = {"counts": cnt, "races": found}
     print(st, cnt)
@@ -59,7 +62,8 @@ for st in STATES:
         rr = d.get("region_results")
         info = {"id": rid, "name": nm, "state": st, "status": code, "test_data": d.get("test_data"), "pct": d.get("percent_reporting"),
                 "called_at": d.get("called_at"), "candidates": [(c.get("name"), c.get("party"), c.get("votes")) for c in (d.get("candidates") or [])[:4]],
-                "n_regions": len(rr) if rr else 0, "region_sample": (list(rr.items())[:1] if isinstance(rr, dict) else (rr or [])[:1])}
+                "n_regions": len(rr) if rr else 0, "region_sample": (list(rr.items())[:2] if isinstance(rr, dict) else (rr or [])[:2]),
+                "region_names": [(v.get("name"), v.get("type")) for v in (rr.values() if isinstance(rr, dict) else rr or []) if isinstance(v, dict)]}
         out["detail"][k] = info
         print(f"{k.upper()} sample {nm} ({st}) id {rid}: test_data={info['test_data']} pct={info['pct']} regions={info['n_regions']} candidates={info['candidates']}")
         code, h = get(f"/race/{rid}/history")

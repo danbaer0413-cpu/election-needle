@@ -30,13 +30,19 @@ REP_WORDS = ("republican", "rep", "gop")
 
 
 _FAILS = [0]
+_T0 = [None]
+BUDGET_S = 100          # all civicAPI calls in one update run must finish within this many seconds; then it is skipped
 
 
 def _get(path, timeout=12):
     """One GET. After 3 failures in a run, civicAPI is skipped for the rest of that run, so a slow or down API cannot stall the update."""
     import requests
+    import time
     if _FAILS[0] >= 3:
         raise RuntimeError("civicAPI skipped for this run after 3 failures")
+    _T0[0] = _T0[0] or time.time()
+    if time.time() - _T0[0] > BUDGET_S:
+        raise RuntimeError(f"civicAPI time budget ({BUDGET_S}s) used up for this run")
     try:
         r = requests.get(BASE + path, headers=UA, timeout=timeout)
         r.raise_for_status()
@@ -52,9 +58,18 @@ def _kind(name: str):
         return None
     if "Senate" in n and "State Senate" not in n:
         return "senate"
-    if "Governor" in n and "Lieutenant" not in n:
+    if "Governor" in n and not re.search(r"Lieutenant|Board|College|University", n):
         return "governor"
     return None
+
+
+def _date_ok(r, date):
+    """True unless the race carries a date field that differs from the one we want."""
+    for k in ("election_date", "date", "electionDate"):
+        v = r.get(k)
+        if v:
+            return str(v)[:10] == date
+    return True
 
 
 def _want(rid: str):
@@ -76,21 +91,23 @@ def find_race(rid: str, state: str, date: str = DATE, get=None, log=print):
     want, hits, off = _want(rid), [], 0
     if date == DATE and os.path.exists(PROBE):          # race ids saved by the civic-probe workflow: no searching on the night
         try:
-            pr = json.load(open(PROBE)).get("states", {}).get(state, {}).get("races") or []
+            pj = json.load(open(PROBE))
+            pr = (pj.get("states", {}).get(state, {}).get("races") or []) if pj.get("version", 1) >= 2 else []
             hits = [{"id": x[1], "election_name": x[2]} for x in pr if x[0] == want]
         except Exception:
             hits = []
-    while not hits and off < 400:
+    while not hits and off < 5000:
         sk = (state, date, off)
-        js = _SEARCH.get(sk) or get(f"/race/search?country=US&province={state}&date={date}&offset={off}")
+        # startDate/endDate are civicAPI's date filters (a plain `date=` is ignored and returns every year); limit up to 50000
+        js = _SEARCH.get(sk) or get(f"/race/search?country=US&province={state}&startDate={date}&endDate={date}&limit=1000&offset={off}")
         _SEARCH[sk] = js
         races = (js or {}).get("races") or []
-        if not races:
-            break
         for r in races:
-            if _kind(r.get("election_name")) == want:
+            if _kind(r.get("election_name")) == want and _date_ok(r, date):
                 hits.append(r)
-        off += 20
+        if len(races) < 1000:
+            break
+        off += 1000
     if not hits:
         log(f"  civicAPI: no {want} race for {state} on {date}")
         return None
@@ -118,17 +135,19 @@ def _surnames(rid):
         return None, None
 
 
-def _side(label, party, dem_sn, rep_sn):
-    """'D', 'R' or None for one candidate / party label."""
+def _side(label, party, dem_sn, rep_sn, by_party=(True, True)):
+    """'D', 'R' or None for one candidate / party label. Surname first. When our candidate's surname is on the ballot,
+    other candidates of the same party do NOT count for that side (Alaska's top-four general can have several Republicans);
+    by_party = (use party label for D, use it for R) is False for a side whose surname was found."""
     lab = str(label or "").lower()
     if dem_sn and dem_sn.lower() in lab:
         return "D"
     if rep_sn and rep_sn.lower() in lab:
         return "R"
     p = str(party or label or "").lower().strip()       # region tables keyed by party name ('Democratic': {...}) use the label
-    if p in ("d", "dem") or any(w in p for w in ("democrat", "dfl")):
+    if by_party[0] and (p in ("d", "dem") or any(w in p for w in ("democrat", "dfl"))):
         return "D"
-    if p in ("r", "rep", "gop") or "republican" in p:
+    if by_party[1] and (p in ("r", "rep", "gop") or "republican" in p):
         return "R"
     return None
 
@@ -181,12 +200,18 @@ def _region_pct(x):
 def _regions(rr):
     """[(region name, payload)] from region_results as a dict or a list."""
     if isinstance(rr, dict):
-        return list(rr.items())
+        out = []
+        for key, item in rr.items():                     # civicAPI: {"slug": {"name": "Dane", "type": "County", "candidates": [...]}}
+            if isinstance(item, dict) and str(item.get("type", "")).lower() == "state":
+                continue
+            nm = item.get("name") if isinstance(item, dict) and item.get("name") else key
+            out.append((nm, item))
+        return out
     out = []
     for item in rr or []:
         if isinstance(item, dict):
             nm = item.get("name") or item.get("region") or item.get("county") or item.get("region_name")
-            if nm is not None:
+            if nm is not None and str(item.get("type", "")).lower() != "state":
                 out.append((nm, item))
     return out
 
@@ -215,11 +240,13 @@ def read_race(rid: str, state: str, date: str = DATE, get=None, log=print):
     dem_sn, rep_sn = _surnames(rid)
     cands = d.get("candidates") or []
     cand_party = {str(c.get("name")): c.get("party") for c in cands if isinstance(c, dict)}
+    names = [str(c.get("name", "")).lower() for c in cands if isinstance(c, dict)]
+    bp = (not (dem_sn and any(dem_sn.lower() in x for x in names)), not (rep_sn and any(rep_sn.lower() in x for x in names)))
     D = R = 0.0
     for c in cands:
         if not isinstance(c, dict):
             continue
-        side, n = _side(c.get("name"), c.get("party"), dem_sn, rep_sn), _num(c)
+        side, n = _side(c.get("name"), c.get("party"), dem_sn, rep_sn, bp), _num(c)
         if side == "D" and n:
             D += n
         elif side == "R" and n:
@@ -231,7 +258,7 @@ def read_race(rid: str, state: str, date: str = DATE, get=None, log=print):
             continue
         dd = rr = 0.0
         for lab, party, n in _pairs(payload, cand_party):
-            side = _side(lab, party, dem_sn, rep_sn)
+            side = _side(lab, party, dem_sn, rep_sn, bp)
             if side == "D" and n:
                 dd += n
             elif side == "R" and n:

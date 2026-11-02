@@ -30,9 +30,17 @@ def load_cfg() -> dict:
     return d
 
 
+_T0 = [None]
+BUDGET_S = 90           # all web requests in one auto-calls run must finish within this; later requests return nothing
+
+
 def _get(url, params=None):
+    import time
+    _T0[0] = _T0[0] or time.time()
+    if time.time() - _T0[0] > BUDGET_S:
+        return None
     try:
-        r = requests.get(url, params=params, headers=UA, timeout=40)
+        r = requests.get(url, params=params, headers=UA, timeout=15)
         return r.json() if r.status_code == 200 else None
     except Exception:
         return None
@@ -56,8 +64,10 @@ def civic_calls(senate: dict, house: set, get=_get) -> dict:
     out, states = {}, sorted({v["state"] for v in senate.values()} | {s for s, _ in house})
     for st in states:
         off = 0
-        while off < 600:
-            js = get(f"{CIVIC}/race/search", {"country": "US", "province": st, "date": "2026-11-03", "offset": off})
+        while off < 20000:
+            # startDate/endDate are civicAPI's date filters; the old `date=` was ignored, which mixed in races from other years
+            js = get(f"{CIVIC}/race/search", {"country": "US", "province": st, "startDate": "2026-11-03", "endDate": "2026-11-03",
+                                                "limit": 1000, "offset": off})
             races = (js or {}).get("races") or []
             if not races:
                 break
@@ -88,7 +98,9 @@ def civic_calls(senate: dict, house: set, get=_get) -> dict:
                             side = "D" if senate[key[1]]["D"].lower() in nm.lower() else "R" if senate[key[1]]["R"].lower() in nm.lower() else None
                         if side:
                             out[key] = side
-            off += 20
+            if len(races) < 1000:
+                break
+            off += 1000
     return out
 
 
