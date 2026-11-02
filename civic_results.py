@@ -250,6 +250,7 @@ def read_race(rid: str, state: str, date: str = DATE, get=None, log=print):
         return None, None, {}
     d = get(f"/race/{cid}?data=json") or {}
     info = {"civic_id": cid, "name": d.get("election_name"), "pct": d.get("percent_reporting"), "test_data": d.get("test_data")}
+    info["region_names"] = [_clean_region(n, state) for n, _ in _regions(d.get("region_results"))]   # all regions, even with 0 votes (for the name check)
     if d.get("test_data") and os.environ.get("CIVIC_ALLOW_TEST") != "1":
         log(f"  civicAPI {rid}: race flagged test_data; not used")
         return None, None, info
@@ -310,6 +311,12 @@ def main():
             continue
         base = pd.read_csv(os.path.join(r["dir"], "counties.csv"))
         bk = set(base["county"].astype(str).map(norm_name))
+        names = {norm_name(x) for x in info.get("region_names") or []}
+        if names:                                          # name check works even before any votes are in
+            miss = sorted(names - bk)[:8]
+            print(f"{r['id']}: names {len(names & bk)}/{len(bk)} of our units match civicAPI's {len(names)} regions"
+                  + (f" | civicAPI names not in ours: {miss}" if miss else ""))
+            continue
         if df is not None:
             got = set(df["county"].astype(str).map(norm_name))
             miss = sorted(got - bk)[:6]
