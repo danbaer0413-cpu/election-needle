@@ -92,6 +92,12 @@ if not ready:
     st.stop()
 
 
+# a link ending in ?view=dumps opens straight on the Vote dumps tab (handy for a multiviewer window)
+if st.query_params.get("view") == "dumps" and not st.session_state.get("_view_set"):
+    st.session_state["view"] = "Vote dumps"
+    st.session_state["flash_done"] = True
+    st.session_state["_view_set"] = True
+
 # ---------------------------------------------------------------- "what changed" screen (once per visit)
 log_src = src.strip().replace("latest.json", "needle_log.csv") if src.strip() else "data/needle_log.csv"
 if st.session_state.get("flash_on", True) and not st.session_state.get("flash_done"):
@@ -129,7 +135,17 @@ if st.session_state.get("flash_on", True) and not st.session_state.get("flash_do
     st.stop()
 
 # ---------------------------------------------------------------- map view
-view = st.radio("View", ["Race", "Map", "Senate", "House", "All needles", "Simulation"], horizontal=True, label_visibility="collapsed", key="view")
+view = st.radio("View", ["Race", "Map", "Senate", "House", "All needles", "Vote dumps", "Simulation"], horizontal=True, label_visibility="collapsed", key="view")
+if view == "Vote dumps":
+    try:
+        import dumps_view
+        dumps_view.render(st, ready, label, src)
+    except Exception as _ex:
+        st.info(f"The vote dumps view is not available yet ({type(_ex).__name__}: {str(_ex)[:160]}).")
+    if auto:
+        time.sleep(every)
+        st.rerun()
+    st.stop()
 if view == "Senate":
     try:
         import senate_view
