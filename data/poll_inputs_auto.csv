@@ -1,30 +1,30 @@
 id,poll_margin,n_polls,rule_used,pollsters,window_start,window_end
-OH-senate,3.98,8,tier1,Rasmussen;Marist College;Beacon Research/Shaw & Co. Research;InsiderAdvantage;Echelon Insights;Suffolk University;Concord;The New York Times/Siena College,2026-10-12,2026-11-02
-OH-governor,4.69,7,tier1,Marist College;Beacon Research/Shaw & Co. Research;Echelon Insights;Suffolk University;Concord;InsiderAdvantage;The New York Times/Siena College,2026-10-12,2026-11-02
-MI-senate,6.15,6,tier1,Rasmussen;Marist College;Glengariff Group;InsiderAdvantage;Michigan State University Office for Survey Research/Verasight;The New York Times/Siena College,2026-10-12,2026-11-02
-MN-senate,7.05,5,"tier1,35d",InsiderAdvantage;Mason-Dixon Polling & Strategy;Rasmussen;SurveyUSA;The New York Times/Siena College,2026-09-28,2026-11-02
-IA-senate,1.62,7,"tier1,35d",Beacon Research/Shaw & Co. Research;The New York Times/Siena College;Suffolk University;Emerson College;Marist College;InsiderAdvantage;Echelon Insights,2026-09-28,2026-11-02
-KS-senate,1.82,4,"tier1+2,35d",The New York Times/Siena College;YouGov;InsiderAdvantage;Emerson College,2026-09-28,2026-11-02
-KS-governor,-2.02,4,"tier1+2,60d",co/efficient;Emerson College;The New York Times/Siena College;YouGov,2026-09-03,2026-11-02
-NE-senate,-2.27,4,"tier1+2,35d",co/efficient;YouGov;Echelon Insights;The New York Times/Siena College,2026-09-28,2026-11-02
-NE-governor,-7.35,4,"tier1+2,35d",co/efficient;YouGov;Echelon Insights;The New York Times/Siena College,2026-09-28,2026-11-02
-ME-senate,4.88,5,tier1,InsiderAdvantage;Beacon Research/Shaw & Co. Research;Echelon Insights;Marist College;The New York Times/Siena College,2026-10-12,2026-11-02
-AK-senate,0.7,4,tier1,Rasmussen;Alaska Survey Research;The New York Times/Siena College;InsiderAdvantage,2026-10-12,2026-11-02
-TX-senate,2.68,7,tier1,InsiderAdvantage;Emerson College;Beacon Research/Shaw & Co. Research;Rasmussen;Barbara Jordan Public Policy Research and Survey Center;AtlasIntel;The New York Times/Siena College,2026-10-12,2026-11-02
-TX-governor,-1.84,5,tier1,Emerson College;Beacon Research/Shaw & Co. Research;Barbara Jordan Public Policy Research and Survey Center;AtlasIntel;The New York Times/Siena College,2026-10-12,2026-11-02
-SC-senate,-1.51,4,"tier1+2,35d",InsiderAdvantage;Rasmussen;Targoz Market Research;The New York Times/Siena College,2026-09-28,2026-11-02
-FL-governor,-5.25,4,"tier1,35d",Mason-Dixon Polling & Strategy;Echelon Insights;Siena;InsiderAdvantage,2026-09-28,2026-11-02
-GA-governor,-1.08,3,"tier1+2,60d",YouGov;InsiderAdvantage;Echelon Insights,2026-09-03,2026-11-02
-NV-governor,2.45,1,"tier1+2,60d",Emerson College,2026-09-03,2026-11-02
-WI-governor,6.26,2,"tier1+2,35d",Marquette University Law School;Research Co.,2026-09-28,2026-11-02
-GA-senate,12.83,3,"tier1+2,60d",YouGov;InsiderAdvantage;Echelon Insights,2026-09-03,2026-11-02
-ME-governor,13.09,4,tier1,Beacon Research/Shaw & Co. Research;Echelon Insights;Marist College;The New York Times/Siena College,2026-10-12,2026-11-02
-NH-senate,8.98,5,"tier1+2,35d",Saint Anselm College Survey Center;YouGov;University of Massachusetts Lowell Center for Public Opinion;Rasmussen;University of New Hampshire Survey Center,2026-09-28,2026-11-02
-FL-senate,-7.43,4,"tier1,35d",Mason-Dixon Polling & Strategy;Echelon Insights;Siena;InsiderAdvantage,2026-09-28,2026-11-02
-SC-governor,-9.08,2,"tier1+2,35d",Targoz Market Research;The New York Times/Siena College,2026-09-28,2026-11-02
-IA-governor,7.35,6,"tier1,35d",Beacon Research/Shaw & Co. Research;The New York Times/Siena College;Suffolk University;Emerson College;Marist College;Echelon Insights,2026-09-28,2026-11-02
-AK-governor,6.69,3,"tier1+2,60d",co/efficient;The New York Times/Siena College;Alaska Survey Research,2026-09-03,2026-11-02
-MI-governor,9.92,5,tier1,Marist College;Glengariff Group;Michigan State University Office for Survey Research/Verasight;Rasmussen;The New York Times/Siena College,2026-10-12,2026-11-02
-MN-governor,14.67,4,"tier1+2,35d",Mason-Dixon Polling & Strategy;SurveyUSA;The New York Times/Siena College;Research Co.,2026-09-28,2026-11-02
-NH-governor,-5.51,4,"tier1+2,35d",Saint Anselm College Survey Center;YouGov;University of Massachusetts Lowell Center for Public Opinion;University of New Hampshire Survey Center,2026-09-28,2026-11-02
-NC-senate,11.56,3,"tier1+2,60d",YouGov;InsiderAdvantage;SurveyUSA,2026-09-03,2026-11-02
+OH-senate,4.01,10,tier1,Rasmussen;Marist College;Beacon Research/Shaw & Co. Research;InsiderAdvantage;Echelon Insights;Suffolk University;Concord;AtlasIntel;The New York Times/Siena College;Emerson,2026-10-13,2026-11-03
+OH-governor,4.82,9,tier1,Marist College;Beacon Research/Shaw & Co. Research;Echelon Insights;Suffolk University;Concord;InsiderAdvantage;AtlasIntel;The New York Times/Siena College;Emerson,2026-10-13,2026-11-03
+MI-senate,6.19,7,tier1,Rasmussen;Marist College;Glengariff Group;InsiderAdvantage;Michigan State University Office for Survey Research/Verasight;The New York Times/Siena College;Emerson,2026-10-13,2026-11-03
+MN-senate,6.2,4,tier1,The New York Times/Siena College;SurveyUSA;InsiderAdvantage;AtlasIntel,2026-10-13,2026-11-03
+IA-senate,1.53,6,"tier1,35d",The New York Times/Siena College;Suffolk University;Emerson College;Marist College;InsiderAdvantage;Echelon Insights,2026-09-29,2026-11-03
+KS-senate,1.86,4,"tier1+2,35d",The New York Times/Siena College;YouGov;InsiderAdvantage;Emerson College,2026-09-29,2026-11-03
+KS-governor,-2.01,4,"tier1+2,60d",co/efficient;Emerson College;The New York Times/Siena College;YouGov,2026-09-04,2026-11-03
+NE-senate,-2.27,4,"tier1+2,35d",co/efficient;YouGov;Echelon Insights;The New York Times/Siena College,2026-09-29,2026-11-03
+NE-governor,-7.37,4,"tier1+2,35d",co/efficient;YouGov;Echelon Insights;The New York Times/Siena College,2026-09-29,2026-11-03
+ME-senate,3.93,6,tier1,InsiderAdvantage;Beacon Research/Shaw & Co. Research;Echelon Insights;Marist College;The New York Times/Siena College;Emerson,2026-10-13,2026-11-03
+AK-senate,0.71,4,tier1,Rasmussen;Alaska Survey Research;The New York Times/Siena College;InsiderAdvantage,2026-10-13,2026-11-03
+TX-senate,2.81,7,tier1,InsiderAdvantage;Emerson;Beacon Research/Shaw & Co. Research;Rasmussen;Barbara Jordan Public Policy Research and Survey Center;AtlasIntel;The New York Times/Siena College,2026-10-13,2026-11-03
+TX-governor,-1.22,5,tier1,Emerson;Beacon Research/Shaw & Co. Research;Barbara Jordan Public Policy Research and Survey Center;AtlasIntel;The New York Times/Siena College,2026-10-13,2026-11-03
+SC-senate,-1.49,4,"tier1+2,35d",InsiderAdvantage;Rasmussen;Targoz Market Research;The New York Times/Siena College,2026-09-29,2026-11-03
+FL-governor,-5.23,4,"tier1,35d",Mason-Dixon Polling & Strategy;Echelon Insights;Siena;InsiderAdvantage,2026-09-29,2026-11-03
+GA-governor,0.23,4,"tier1+2,60d",YouGov;InsiderAdvantage;Echelon Insights;Research Co.,2026-09-04,2026-11-03
+NV-governor,2.45,1,"tier1+2,60d",Emerson College,2026-09-04,2026-11-03
+WI-governor,6.26,2,"tier1+2,35d",Marquette University Law School;Research Co.,2026-09-29,2026-11-03
+GA-senate,9.91,4,"tier1+2,60d",YouGov;InsiderAdvantage;Echelon Insights;Research Co.,2026-09-04,2026-11-03
+ME-governor,12.56,5,tier1,Beacon Research/Shaw & Co. Research;Echelon Insights;Marist College;The New York Times/Siena College;Emerson,2026-10-13,2026-11-03
+NH-senate,8.99,5,"tier1+2,35d",Saint Anselm College Survey Center;YouGov;University of Massachusetts Lowell Center for Public Opinion;Rasmussen;University of New Hampshire Survey Center,2026-09-29,2026-11-03
+FL-senate,-7.41,4,"tier1,35d",Mason-Dixon Polling & Strategy;Echelon Insights;Siena;InsiderAdvantage,2026-09-29,2026-11-03
+SC-governor,-9.08,2,"tier1+2,35d",Targoz Market Research;The New York Times/Siena College,2026-09-29,2026-11-03
+IA-governor,7.11,5,"tier1,35d",The New York Times/Siena College;Suffolk University;Emerson College;Marist College;Echelon Insights,2026-09-29,2026-11-03
+AK-governor,6.72,3,"tier1+2,60d",co/efficient;The New York Times/Siena College;Alaska Survey Research,2026-09-04,2026-11-03
+MI-governor,9.14,6,tier1,Marist College;Glengariff Group;Michigan State University Office for Survey Research/Verasight;Rasmussen;The New York Times/Siena College;Emerson,2026-10-13,2026-11-03
+MN-governor,14.71,4,"tier1+2,35d",Mason-Dixon Polling & Strategy;SurveyUSA;The New York Times/Siena College;Research Co.,2026-09-29,2026-11-03
+NH-governor,-5.47,4,"tier1+2,35d",Saint Anselm College Survey Center;YouGov;University of Massachusetts Lowell Center for Public Opinion;University of New Hampshire Survey Center,2026-09-29,2026-11-03
+NC-senate,12.86,4,"tier1+2,60d",YouGov;InsiderAdvantage;SurveyUSA;AtlasIntel,2026-09-04,2026-11-03
