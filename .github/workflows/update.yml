@@ -53,13 +53,17 @@ jobs:
         continue-on-error: true
         run: python check_setup.py
       - run: python run_update.py
+      - name: Vote dumps log (display only)
+        continue-on-error: true
+        timeout-minutes: 1
+        run: python dumps.py
       - name: Commit results
         run: |
           git config user.name "needle-bot"
           git config user.email "needle-bot@users.noreply.github.com"
           for f in data/latest.json data/needle_log.csv data/votehub_latest.csv data/votehub_history.csv data/votehub_state.json data/votehub_unparsed.txt data/votehub_raw.jsonl \
                    data/poll_inputs_auto.csv data/polls_all.csv data/poll_average.json data/polls_raw data/bsky_raw.json \
-                   data/bsky_unmatched.txt data/poll_compare.csv data/night/early_civic.csv data/civic_early_log.csv data/house/lean.json data/auto_calls.csv data/calls_pending.csv data/auto_calls_log.csv; do
+                   data/bsky_unmatched.txt data/poll_compare.csv data/night/early_civic.csv data/civic_early_log.csv data/house/lean.json data/auto_calls.csv data/calls_pending.csv data/auto_calls_log.csv data/vote_dumps.csv data/dumps_prev.json; do
             if [ -e "$f" ]; then git add "$f"; fi
           done
           # early vote files the model merged into (returned ballots only go up, so keep them)
