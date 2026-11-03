@@ -6,7 +6,7 @@ For every district on the House map (data/house/lean.json) it finds civicAPI's N
 district as d["live"] = {"a": [name, party, votes, pct], "b": [...], "pct_in": n, "as_of": iso}.
 Display only: it never changes a lean, a call or a seat count. Races flagged test_data are shown as "no results yet".
 One search per state plus one request per district; after 3 failures civicAPI is skipped for the rest of the run.
-Fetched at most every EVERY_MIN minutes (default 30); between fetches the last numbers are carried over.
+Fetched at most every EVERY_MIN minutes (8 on election night, so every 10-minute run fetches); between fetches the last numbers are carried over.
 Off switch: "house_results": false in config/switches.json.
 """
 from __future__ import annotations
@@ -17,7 +17,7 @@ import re
 BASE = "https://civicapi.org/api/v2"
 UA = {"User-Agent": "election-needle (personal, non-commercial; attribution civicapi.org)"}
 DATE = "2026-11-03"
-EVERY_MIN = 30
+EVERY_MIN = 8            # runs are ~10 min apart, so every run fetches
 NAME = re.compile(r"US House\s+(\d+|At[- ]Large)\b", re.I)
 _FAILS = [0]
 _T0 = [None]
