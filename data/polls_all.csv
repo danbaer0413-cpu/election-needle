@@ -167,6 +167,7 @@ IA-governor,Echelon Insights,2026-10-23,403.0,50.0,46.0
 IA-governor,co/efficient,2026-10-28,1020.0,50.0,45.0
 IA-governor,YouGov,2026-10-29,2019.0,53.0,46.0
 IA-governor,The New York Times/Siena College,2026-11-01,705.0,51.3,43.0
+IA-governor,AtlasIntel,2026-11-01,600.0,54.0,44.0
 IA-senate,Change Research,2026-01-11,1108.0,41.0,44.0
 IA-senate,Echelon Insights,2026-04-09,377.0,46.0,45.0
 IA-senate,Beacon Research/Shaw & Co. Research,2026-06-27,1003.0,50.0,46.0
@@ -199,6 +200,7 @@ IA-senate,co/efficient,2026-10-28,1020.0,46.0,48.0
 IA-senate,YouGov,2026-10-29,2016.0,50.0,49.0
 IA-senate,GrayHouse,2026-10-31,601.0,46.0,48.0
 IA-senate,The New York Times/Siena College,2026-11-01,705.0,47.6,46.9
+IA-senate,AtlasIntel,2026-11-01,600.0,51.0,46.0
 KS-governor,co/efficient,2026-09-10,915.0,43.0,51.0
 KS-governor,Emerson College,2026-09-16,750.0,43.48,50.82
 KS-governor,The New York Times/Siena College,2026-09-30,605.0,44.38,48.52
@@ -210,6 +212,7 @@ KS-governor,Emerson College,2026-10-28,800.0,47.5,52.5
 KS-governor,YouGov,2026-10-29,2085.0,49.0,50.0
 KS-governor,Survey 160,2026-11-01,1267.0,49.0,48.0
 KS-governor,The New York Times/Siena College,2026-11-01,736.0,47.8,47.4
+KS-governor,AtlasIntel,2026-11-01,600.0,50.0,46.0
 KS-senate,Tavern Research,2026-01-28,1013.0,46.0,54.0
 KS-senate,co/efficient,2026-09-10,915.0,44.0,49.0
 KS-senate,Emerson College,2026-09-16,750.0,44.75,43.3
@@ -226,6 +229,7 @@ KS-senate,Emerson College,2026-10-28,800.0,49.5,47.1
 KS-senate,YouGov,2026-10-29,2086.0,50.0,49.0
 KS-senate,Survey 160,2026-11-01,1267.0,50.0,44.0
 KS-senate,The New York Times/Siena College,2026-11-01,736.0,49.0,43.9
+KS-senate,AtlasIntel,2026-11-01,600.0,52.0,45.0
 ME-governor,The New York Times/Siena College,2026-06-26,608.0,55.38,39.62
 ME-governor,Beacon Research/Shaw & Co. Research,2026-06-27,1003.0,53.0,42.0
 ME-governor,University of New Hampshire Survey Center,2026-07-20,1150.0,49.0,35.0
@@ -252,6 +256,7 @@ ME-governor,UNH,2026-10-31,600.0,51.0,40.0
 ME-governor,University of New Hampshire Survey Center,2026-10-31,1648.0,51.0,40.0
 ME-governor,Survey 160,2026-11-01,1323.0,53.0,41.0
 ME-governor,The New York Times/Siena College,2026-11-01,714.0,54.8,39.8
+ME-governor,AtlasIntel,2026-11-01,600.0,52.0,45.0
 ME-governor,Emerson,2026-11-02,600.0,50.0,41.0
 ME-senate,University of New Hampshire Survey Center,2026-07-20,1178.0,49.0,46.0
 ME-senate,Beacon Research/Shaw & Co. Research,2026-08-10,1000.0,48.0,46.0
@@ -284,6 +289,7 @@ ME-senate,UNH,2026-10-31,600.0,54.0,45.0
 ME-senate,University of New Hampshire Survey Center,2026-10-31,1633.0,54.0,45.0
 ME-senate,Survey 160,2026-11-01,1322.0,50.0,47.0
 ME-senate,The New York Times/Siena College,2026-11-01,714.0,50.9,45.0
+ME-senate,AtlasIntel,2026-11-01,600.0,53.0,44.0
 ME-senate,Emerson,2026-11-02,600.0,49.0,51.0
 MI-governor,Target Insyght,2025-03-06,600.0,42.0,30.0
 MI-governor,Mitchell Research & Communications,2025-03-13,688.0,37.0,34.0
