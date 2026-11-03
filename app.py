@@ -22,7 +22,7 @@ import changes
 from publish import from_json_summary, read_log
 from states import STATES
 
-st.set_page_config(page_title="Election Needle", page_icon="🗳️", layout="centered", initial_sidebar_state="collapsed")
+st.set_page_config(page_title="The Bear Cave", page_icon="🐻", layout="centered", initial_sidebar_state="collapsed")
 
 st.markdown(f"""
 <style>
@@ -39,7 +39,7 @@ h1 {{ font-size: 1.5rem !important; padding: 0 0 .3rem; }}
 div[data-testid="stSelectbox"] label p {{ font-weight: 600; }}
 </style>""", unsafe_allow_html=True)
 
-st.title("🗳️ Election Needle")
+st.title("🐻 The Bear Cave")
 st.caption("Unofficial, experimental model. Statistical projections, not results or race calls. "
            "Check official state sites and news organizations for calls.")
 
