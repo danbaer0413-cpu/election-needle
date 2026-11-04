@@ -52,7 +52,7 @@ jobs:
             timeout 120 python votehub.py     || echo "votehub skipped"
             timeout 120 python civic_early.py || echo "civic early vote skipped"
             timeout 120 python auto_calls.py  || echo "auto calls skipped"
-            timeout 420 python run_update.py  || echo "!!! run_update failed or timed out (last good numbers kept)"
+            timeout 900 python run_update.py  || echo "!!! run_update failed or timed out (last good numbers kept)"
             timeout 60  python dumps.py       || echo "vote dumps skipped"
             for f in data/latest.json data/needle_log.csv data/votehub_latest.csv data/votehub_history.csv data/votehub_state.json data/votehub_unparsed.txt data/votehub_raw.jsonl \
                      data/night/early_civic.csv data/civic_early_log.csv data/house/lean.json data/auto_calls.csv data/calls_pending.csv data/auto_calls_log.csv \
