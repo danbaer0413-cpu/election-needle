@@ -1,6 +1,4 @@
 ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pct_in,needle,dem_votes,rep_votes
-2026-11-04T03:44:41+00:00,KS-senate,KS,Phillips,county,368,-238,-64.6,51.4,52.6,6.16,65,303
-2026-11-04T03:44:41+00:00,KS-senate,KS,Pawnee,county,355,-135,-38.0,56.2,52.6,6.16,110,245
 2026-11-04T03:44:41+00:00,KS-senate,KS,Sherman,county,336,-195,-57.9,56.0,52.6,6.16,71,265
 2026-11-04T03:44:41+00:00,KS-senate,KS,Rooks,county,334,-201,-60.1,55.0,52.6,6.16,67,267
 2026-11-04T03:44:41+00:00,KS-senate,KS,Harper,county,329,-171,-51.9,50.3,52.6,6.16,79,250
@@ -5999,3 +5997,5 @@ ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pc
 2026-11-04T06:05:37+00:00,MN-governor,MN,Traverse,county,290,-44,-15.3,72.8,65.2,15.82,123,167
 2026-11-04T06:05:37+00:00,NH-governor,NH,Statewide total,statewide,25793,-1950,-7.6,,83.0,-3.68,11922,13871
 2026-11-04T06:05:37+00:00,NC-senate,NC,Pender,county,511,-187,-36.5,78.0,79.0,15.41,162,349
+2026-11-04T06:15:37+00:00,FL-governor,FL,Escambia,county,629,165,26.3,90.1,92.6,-2.21,397,232
+2026-11-04T06:15:37+00:00,FL-senate,FL,Escambia,county,633,51,8.1,90.7,92.9,-3.73,342,291
