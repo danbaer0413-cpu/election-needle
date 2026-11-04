@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T04:33:52+00:00",
+ "updated": "2026-11-04T04:45:08+00:00",
  "source": "Cook Political Report House ratings, updated list Oct 30 2026",
  "districts": [
   {
@@ -42,7 +42,7 @@
    "m0": 9.0,
    "early_adj": 0.0,
    "early_margin": null,
-   "m": 8.55,
+   "m": 9.34,
    "bin": "Likely D",
    "called": null,
    "live": {
@@ -50,18 +50,18 @@
      "Dem",
      "D",
      0,
-     51.7
+     53.9
     ],
     "b": [
      "GOP",
      "R",
      0,
-     46.0
+     43.6
     ],
-    "pct_in": 16.9,
+    "pct_in": 32.3,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": 9.0,
    "live_lean": true
@@ -92,7 +92,7 @@
     "pct_in": 64.2,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": 9.0,
    "live_lean": true
@@ -123,7 +123,7 @@
     "pct_in": 63.9,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": 9.66,
    "live_lean": true
@@ -154,7 +154,7 @@
     "pct_in": 79.3,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    }
   },
   {
@@ -183,7 +183,7 @@
     "pct_in": 86.2,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    }
   },
   {
@@ -234,18 +234,18 @@
      "Thomas Suozzi",
      "D",
      0,
-     57.3
+     57.2
     ],
     "b": [
      "Michael LiPetri Jr.",
      "R",
      0,
-     42.4
+     42.6
     ],
-    "pct_in": 61.8,
+    "pct_in": 63.0,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    }
   },
   {
@@ -274,7 +274,7 @@
     "pct_in": 48.2,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": 9.0,
    "live_lean": true
@@ -294,18 +294,18 @@
      "Josh Riley",
      "D",
      0,
-     57.9
+     57.5
     ],
     "b": [
      "Peter Oberacker",
      "R",
      0,
-     42.0
+     42.4
     ],
-    "pct_in": 82.7,
+    "pct_in": 87.7,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    }
   },
   {
@@ -334,7 +334,7 @@
     "pct_in": 92.8,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    }
   },
   {
@@ -363,7 +363,7 @@
     "pct_in": 94.5,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    }
   },
   {
@@ -392,7 +392,7 @@
     "pct_in": 57.0,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": 9.0,
    "live_lean": true
@@ -423,7 +423,7 @@
     "pct_in": 96.8,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    }
   },
   {
@@ -496,7 +496,7 @@
     "pct_in": 98.5,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    }
   },
   {
@@ -506,7 +506,7 @@
    "m0": 5.0,
    "early_adj": -0.06,
    "early_margin": 21.2,
-   "m": 8.03,
+   "m": 8.94,
    "bin": "Likely D",
    "called": null,
    "live": {
@@ -514,18 +514,18 @@
      "Dem",
      "D",
      0,
-     54.5
+     53.6
     ],
     "b": [
      "GOP",
      "R",
      0,
-     42.1
+     42.7
     ],
-    "pct_in": 51.7,
+    "pct_in": 83.8,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": 4.94,
    "live_lean": true
@@ -537,7 +537,7 @@
    "m0": 5.0,
    "early_adj": 0.32,
    "early_margin": 21.9,
-   "m": 10.91,
+   "m": 9.4,
    "bin": "Likely D",
    "called": null,
    "live": {
@@ -545,18 +545,18 @@
      "Dem",
      "D",
      0,
-     57.2
+     55.6
     ],
     "b": [
      "GOP",
      "R",
      0,
-     42.8
+     44.4
     ],
-    "pct_in": 76.9,
+    "pct_in": 86.7,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": 5.32,
    "live_lean": true
@@ -587,7 +587,7 @@
     "pct_in": 99.0,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    }
   },
   {
@@ -616,7 +616,7 @@
     "pct_in": 85.7,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    }
   },
   {
@@ -656,7 +656,7 @@
     "pct_in": 47.3,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": 5.0,
    "live_lean": true
@@ -676,18 +676,18 @@
      "Bob Brooks",
      "D",
      0,
-     55.9
+     55.8
     ],
     "b": [
      "Ryan Mackenzie",
      "R",
      0,
-     44.1
+     44.2
     ],
-    "pct_in": 94.1,
+    "pct_in": 98.4,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    }
   },
   {
@@ -705,18 +705,18 @@
      "Paige Cognetti",
      "D",
      0,
-     55.2
+     54.6
     ],
     "b": [
      "Rob Bresnahan Jr.",
      "R",
      0,
-     44.8
+     45.4
     ],
-    "pct_in": 93.6,
+    "pct_in": 95.9,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    }
   },
   {
@@ -734,18 +734,18 @@
      "Janelle Stelson",
      "D",
      0,
-     55.2
+     55.0
     ],
     "b": [
      "Scott Perry",
      "R",
      0,
-     44.8
+     45.0
     ],
     "pct_in": 99.0,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    }
   },
   {
@@ -774,7 +774,7 @@
     "pct_in": 83.7,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    }
   },
   {
@@ -803,7 +803,7 @@
     "pct_in": 85.5,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    }
   },
   {
@@ -843,7 +843,7 @@
     "pct_in": 68.0,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": 5.0,
    "live_lean": true
@@ -896,7 +896,7 @@
     "pct_in": 99.0,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    }
   },
   {
@@ -925,7 +925,7 @@
     "pct_in": 99.0,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    }
   },
   {
@@ -935,7 +935,7 @@
    "m0": 0.0,
    "early_adj": 1.04,
    "early_margin": 19.6,
-   "m": 4.52,
+   "m": 4.22,
    "bin": "Lean D",
    "called": null,
    "live": {
@@ -943,18 +943,18 @@
      "Dem",
      "D",
      0,
-     51.0
+     50.4
     ],
     "b": [
      "GOP",
      "R",
      0,
-     44.4
+     45.0
     ],
-    "pct_in": 78.3,
+    "pct_in": 91.1,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": 1.04,
    "live_lean": true
@@ -977,26 +977,26 @@
    "m0": 0.0,
    "early_adj": 0.0,
    "early_margin": null,
-   "m": -1.12,
-   "bin": "Tilt R",
+   "m": 0.05,
+   "bin": "Toss-up",
    "called": null,
    "live": {
     "a": [
-     "Bill Huizenga",
-     "R",
-     0,
-     62.0
-    ],
-    "b": [
      "Sean McCann",
      "D",
      0,
-     36.6
+     49.3
     ],
-    "pct_in": 5.5,
+    "b": [
+     "Bill Huizenga",
+     "R",
+     0,
+     48.8
+    ],
+    "pct_in": 11.8,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": 0.0,
    "live_lean": true
@@ -1008,7 +1008,7 @@
    "m0": 0.0,
    "early_adj": 0.0,
    "early_margin": null,
-   "m": -4.09,
+   "m": -6.38,
    "bin": "Lean R",
    "called": null,
    "live": {
@@ -1016,18 +1016,18 @@
      "GOP",
      "R",
      0,
-     54.4
+     56.6
     ],
     "b": [
      "Dem",
      "D",
      0,
-     44.4
+     42.2
     ],
-    "pct_in": 51.1,
+    "pct_in": 55.4,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": 0.0,
    "live_lean": true
@@ -1058,7 +1058,7 @@
     "pct_in": 21.3,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": 0.0,
    "live_lean": true
@@ -1081,7 +1081,7 @@
    "m0": 0.0,
    "early_adj": 0.0,
    "early_margin": null,
-   "m": 1.58,
+   "m": 1.68,
    "bin": "Tilt D",
    "called": null,
    "live": {
@@ -1089,7 +1089,7 @@
      "Don Davis",
      "D",
      0,
-     49.4
+     49.5
     ],
     "b": [
      "Laurie Buckhout",
@@ -1097,10 +1097,10 @@
      0,
      47.3
     ],
-    "pct_in": 94.1,
+    "pct_in": 95.4,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": 0.0,
    "live_lean": true
@@ -1112,7 +1112,7 @@
    "m0": 0.0,
    "early_adj": 0.0,
    "early_margin": null,
-   "m": 2.99,
+   "m": 2.15,
    "bin": "Tilt D",
    "called": null,
    "live": {
@@ -1120,18 +1120,18 @@
      "Cait Conley",
      "D",
      0,
-     53.3
+     52.3
     ],
     "b": [
      "Mike Lawler",
      "R",
      0,
-     46.6
+     47.6
     ],
-    "pct_in": 55.7,
+    "pct_in": 57.2,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": 0.0,
    "live_lean": true
@@ -1162,7 +1162,7 @@
     "pct_in": 66.5,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": 0.0,
    "live_lean": true
@@ -1174,7 +1174,7 @@
    "m0": 0.0,
    "early_adj": 0.0,
    "early_margin": null,
-   "m": 4.15,
+   "m": 4.1,
    "bin": "Lean D",
    "called": null,
    "live": {
@@ -1182,18 +1182,18 @@
      "Bob Harvie",
      "D",
      0,
-     53.6
+     53.5
     ],
     "b": [
      "Brian Fitzpatrick",
      "R",
      0,
-     46.4
+     46.5
     ],
-    "pct_in": 72.0,
+    "pct_in": 73.3,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": 0.0,
    "live_lean": true
@@ -1235,7 +1235,7 @@
     "pct_in": 67.8,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": 0.0,
    "live_lean": true
@@ -1266,7 +1266,7 @@
     "pct_in": 56.3,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": 0.0,
    "live_lean": true
@@ -1297,7 +1297,7 @@
     "pct_in": 97.3,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    }
   },
   {
@@ -1370,7 +1370,7 @@
     "pct_in": 99.0,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": -4.84,
    "live_lean": true
@@ -1401,7 +1401,7 @@
     "pct_in": 99.0,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": -4.86,
    "live_lean": true
@@ -1432,7 +1432,7 @@
     "pct_in": 99.0,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": -5.25,
    "live_lean": true
@@ -1463,7 +1463,7 @@
     "pct_in": 95.5,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": -5.16,
    "live_lean": true
@@ -1505,7 +1505,7 @@
     "pct_in": 42.2,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": -5.0,
    "live_lean": true
@@ -1536,7 +1536,7 @@
     "pct_in": 23.7,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": -5.0,
    "live_lean": true
@@ -1559,7 +1559,7 @@
    "m0": -5.0,
    "early_adj": 0.0,
    "early_margin": null,
-   "m": -3.66,
+   "m": -3.7,
    "bin": "Lean R",
    "called": null,
    "live": {
@@ -1567,18 +1567,18 @@
      "Anthony Constantino",
      "R",
      0,
-     51.2
+     51.3
     ],
     "b": [
      "Blake Gendebien",
      "D",
      0,
-     48.6
+     48.5
     ],
-    "pct_in": 69.8,
+    "pct_in": 73.8,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": -5.0,
    "live_lean": true
@@ -1609,7 +1609,7 @@
     "pct_in": 96.8,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": -5.0,
    "live_lean": true
@@ -1640,7 +1640,7 @@
     "pct_in": 96.6,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    }
   },
   {
@@ -1669,7 +1669,7 @@
     "pct_in": 64.5,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": -5.0,
    "live_lean": true
@@ -1700,7 +1700,7 @@
     "pct_in": 81.9,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": -5.0,
    "live_lean": true
@@ -1753,7 +1753,7 @@
     "pct_in": 99.0,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    }
   },
   {
@@ -1785,26 +1785,26 @@
    "m0": -9.0,
    "early_adj": 0.0,
    "early_margin": null,
-   "m": -4.1,
-   "bin": "Lean R",
+   "m": -1.97,
+   "bin": "Tilt R",
    "called": null,
    "live": {
     "a": [
      "Greg Murphy",
      "R",
      0,
-     50.5
+     49.4
     ],
     "b": [
      "Raymond Smith",
      "D",
      0,
-     48.2
+     49.3
     ],
-    "pct_in": 91.5,
+    "pct_in": 98.7,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": -9.0,
    "live_lean": true
@@ -1816,7 +1816,7 @@
    "m0": -9.0,
    "early_adj": 0.0,
    "early_margin": null,
-   "m": -2.58,
+   "m": -1.95,
    "bin": "Tilt R",
    "called": null,
    "live": {
@@ -1824,18 +1824,18 @@
      "Virginia Foxx",
      "R",
      0,
-     49.0
+     48.7
     ],
     "b": [
      "Chuck Hubbard",
      "D",
      0,
-     48.4
+     48.6
     ],
-    "pct_in": 95.5,
+    "pct_in": 99.0,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": -9.0,
    "live_lean": true
@@ -1847,29 +1847,27 @@
    "m0": -9.0,
    "early_adj": 0.0,
    "early_margin": null,
-   "m": -0.53,
-   "bin": "Toss-up",
-   "called": null,
+   "m": -9.0,
+   "bin": "Likely R",
+   "called": "D",
    "live": {
     "a": [
      "Richard Ojeda II",
      "D",
      0,
-     51.0
+     51.1
     ],
     "b": [
      "Richard Hudson",
      "R",
      0,
-     49.0
+     48.9
     ],
-    "pct_in": 96.3,
+    "pct_in": 99.0,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
-   },
-   "m_rating": -9.0,
-   "live_lean": true
+    "as_of": "2026-11-04T04:45+00:00"
+   }
   },
   {
    "state": "NC",
@@ -1886,18 +1884,18 @@
      "Paul Barringer",
      "D",
      0,
-     50.8
+     50.7
     ],
     "b": [
      "Brad Knott",
      "R",
      0,
-     47.8
+     47.9
     ],
-    "pct_in": 96.5,
+    "pct_in": 97.1,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    }
   },
   {
@@ -1907,7 +1905,7 @@
    "m0": -9.0,
    "early_adj": 0.93,
    "early_margin": 2.1,
-   "m": -2.22,
+   "m": -2.65,
    "bin": "Tilt R",
    "called": null,
    "live": {
@@ -1915,18 +1913,18 @@
      "Dem",
      "D",
      0,
-     53.5
+     51.7
     ],
     "b": [
      "GOP",
      "R",
      0,
-     43.6
+     45.3
     ],
-    "pct_in": 40.7,
+    "pct_in": 46.8,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": -8.07,
    "live_lean": true
@@ -1957,7 +1955,7 @@
     "pct_in": 70.1,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": -9.0,
    "live_lean": true
@@ -1988,7 +1986,7 @@
     "pct_in": 63.3,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": -9.0,
    "live_lean": true
@@ -2019,7 +2017,7 @@
     "pct_in": 94.7,
     "winner": null,
     "src": "NBC News (AP data)",
-    "as_of": "2026-11-04T04:33+00:00"
+    "as_of": "2026-11-04T04:45+00:00"
    },
    "m_rating": -9.0,
    "live_lean": true
