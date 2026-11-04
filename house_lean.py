@@ -263,6 +263,48 @@ def parliament_xy(n: int = 435, rows: int = 10):
     return [(r * np.cos(a), r * np.sin(a)) for a, r in pts]
 
 
+def attach_files(h: dict, log=print) -> int:
+    """House results typed or pulled into data/night/house_*.csv (display only, like civicAPI's hover numbers).
+    Columns: state, district, dem_name, dem_pct, rep_name, rep_pct, pct_in, as_of, source  (pct = share of the vote, 0-100).
+    Optional dem_votes / rep_votes. The newest file wins for a district; it never changes a lean, a call or a seat count."""
+    import glob
+    best = {}
+    for f in sorted(glob.glob("data/night/house_*.csv")):
+        try:
+            x = pd.read_csv(f, dtype=str).fillna("")
+        except Exception as ex:
+            log(f"  house file {f} skipped ({str(ex)[:80]})")
+            continue
+        for r in x.to_dict("records"):
+            st = str(r.get("state", "")).strip().upper()
+            if not st:
+                continue
+            best[(st, _dk(r.get("district", "")))] = r            # later files (sorted by name/time) replace earlier ones
+    n = 0
+    num = lambda v: float(str(v).replace(",", "").replace("%", "")) if v is not None and str(v).strip() not in ("", "nan", "None") else None
+    for d in h.get("districts", []):
+        r = best.get((d["state"], _dk(d["district"])))
+        if not r:
+            continue
+        dp, rp, pin = num(r.get("dem_pct")), num(r.get("rep_pct")), num(r.get("pct_in"))
+        if dp is None or rp is None:
+            continue
+        a = [r.get("dem_name", "") or "Dem", "D", int(num(r.get("dem_votes")) or 0), dp]
+        b = [r.get("rep_name", "") or "GOP", "R", int(num(r.get("rep_votes")) or 0), rp]
+        top, sec = (a, b) if dp >= rp else (b, a)
+        d["live"] = {"a": top, "b": sec, "pct_in": pin, "winner": None, "src": r.get("source", "") or "results file",
+                     "as_of": r.get("as_of_utc") or dt_now()}
+        n += 1
+    if best:
+        log(f"  house results file: numbers for {n} of {len(h.get('districts', []))} map districts (data/night/house_*.csv)")
+    return n
+
+
+def dt_now():
+    import datetime as _dt
+    return _dt.datetime.now(_dt.timezone.utc).isoformat(timespec="minutes")
+
+
 def build_and_save(log=print):
     h = build(log)
     try:                                                  # live results for the map's hover box (display only; house_results.py)
@@ -272,6 +314,10 @@ def build_and_save(log=print):
             house_results.attach_throttled(h, OUT, log=log)
     except Exception as ex:
         log(f"  house results skipped ({str(ex)[:100]})")
+    try:
+        attach_files(h, log)
+    except Exception as ex:
+        log(f"  house results file skipped ({str(ex)[:100]})")
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     tmp = OUT + ".tmp"
     json.dump(h, open(tmp, "w"), indent=1)

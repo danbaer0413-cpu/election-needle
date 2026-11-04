@@ -70,7 +70,7 @@ def live_text(d: dict) -> str:
         when = _dt.datetime.fromisoformat(str(lv.get("as_of"))).astimezone(ZoneInfo("America/New_York")).strftime("%-I:%M %p ET")
     except Exception:
         when = ""
-    return f"<br>{head}: {body}<br><i>civicAPI{', ' + when if when else ''}</i>"
+    return f"<br>{head}: {body}<br><i>{lv.get('src') or 'civicAPI'}{', ' + when if when else ''}</i>"
 
 
 def hover(d: dict) -> str:
