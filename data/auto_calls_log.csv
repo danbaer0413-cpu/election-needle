@@ -102,3 +102,5 @@ time,event,kind,race,winner,sources
 2026-11-04T04:54+00:00,pending,senate,KS-senate,D,bluesky:decisiondeskhq.bsky.social
 2026-11-04T04:54+00:00,pending,senate,NC-senate,D,bluesky:apnews.com
 2026-11-04T04:54+00:00,pending,senate,NH-senate,D,bluesky:apnews.com
+2026-11-04T06:34+00:00,pending,house,AL-2,D,civicapi
+2026-11-04T06:34+00:00,pending,house,AZ-6,D,civicapi
