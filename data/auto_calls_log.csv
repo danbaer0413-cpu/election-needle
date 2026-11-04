@@ -19,3 +19,4 @@ time,event,kind,race,winner,sources
 2026-11-02T03:46+00:00,pending,house,AZ-2,R,civicapi
 2026-11-02T03:46+00:00,pending,house,AZ-6,R,civicapi
 2026-11-02T03:46+00:00,pending,house,CO-8,R,civicapi
+2026-11-04T00:54+00:00,pending,senate,GA-senate,D,bluesky:decisiondeskhq.bsky.social
