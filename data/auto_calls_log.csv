@@ -183,3 +183,15 @@ time,event,kind,race,winner,sources
 2026-11-04T08:46+00:00,pending,house,CA-22,D,civicapi
 2026-11-04T08:46+00:00,pending,house,CA-45,D,civicapi
 2026-11-04T08:46+00:00,pending,house,CA-48,D,civicapi
+2026-11-04T08:56+00:00,pending,house,AL-2,D,civicapi
+2026-11-04T08:56+00:00,pending,house,AZ-6,D,civicapi
+2026-11-04T08:56+00:00,pending,house,CA-22,D,civicapi
+2026-11-04T08:56+00:00,pending,house,CA-45,D,civicapi
+2026-11-04T08:56+00:00,pending,house,CA-48,D,civicapi
+2026-11-04T08:56+00:00,pending,house,CO-8,D,civicapi
+2026-11-04T08:56+00:00,pending,house,FL-13,R,civicapi
+2026-11-04T08:56+00:00,pending,house,FL-14,D,civicapi
+2026-11-04T08:56+00:00,pending,house,FL-16,R,civicapi
+2026-11-04T08:56+00:00,pending,house,FL-22,D,civicapi
+2026-11-04T08:56+00:00,pending,house,FL-25,D,civicapi
+2026-11-04T08:56+00:00,pending,senate,FL-senate,R,civicapi
