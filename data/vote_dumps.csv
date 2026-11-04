@@ -1,8 +1,4 @@
 ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pct_in,needle,dem_votes,rep_votes
-2026-11-04T02:14:08+00:00,MS-senate,MS,Tallahatchie,county,258,76,29.5,6.2,6.4,-3.25,167,91
-2026-11-04T02:14:08+00:00,MS-senate,MS,Perry,county,239,-81,-33.9,6.6,6.4,-3.25,79,160
-2026-11-04T02:14:08+00:00,MS-senate,MS,Noxubee,county,238,158,66.4,6.1,6.4,-3.25,198,40
-2026-11-04T02:14:08+00:00,MS-senate,MS,Montgomery,county,234,6,2.6,6.3,6.4,-3.25,120,114
 2026-11-04T02:14:08+00:00,MS-senate,MS,Webster,county,234,-96,-41.0,6.5,6.4,-3.25,69,165
 2026-11-04T02:14:08+00:00,MS-senate,MS,Greene,county,220,-92,-41.8,6.7,6.4,-3.25,64,156
 2026-11-04T02:14:08+00:00,MS-senate,MS,Kemper,county,205,75,36.6,6.3,6.4,-3.25,140,65
@@ -5999,3 +5995,7 @@ ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pc
 2026-11-04T04:54:38+00:00,FL-senate,FL,Palm Beach,county,3207,890,27.8,92.0,92.7,-3.79,2048,1159
 2026-11-04T04:54:38+00:00,NC-senate,NC,Wake,county,18442,5924,32.1,79.1,78.7,15.28,12183,6259
 2026-11-04T04:54:38+00:00,NC-senate,NC,Wilson,county,1245,-440,-35.4,80.9,78.7,15.28,402,843
+2026-11-04T05:05:08+00:00,FL-governor,FL,Broward,county,1170,379,32.4,90.6,92.5,-2.26,775,395
+2026-11-04T05:05:08+00:00,FL-governor,FL,Pasco,county,971,114,11.8,94.7,92.5,-2.26,543,428
+2026-11-04T05:05:08+00:00,FL-senate,FL,Broward,county,1171,382,32.6,90.6,92.8,-3.79,776,395
+2026-11-04T05:05:08+00:00,FL-senate,FL,Pasco,county,993,92,9.2,95.2,92.8,-3.79,542,451
