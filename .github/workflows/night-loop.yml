@@ -35,8 +35,8 @@ jobs:
           cache: pip
           cache-dependency-path: requirements-runner.txt
       - run: pip install -r requirements-runner.txt
-      - name: Install browser (state pages that need a real browser)
-        run: playwright install --with-deps chromium || echo 'browser install failed (browser-based pages will be skipped)'
+      # No browser install: tonight the browser pages (IA/SC portals, NC page, Clark County, House progress) made each pass
+      # 10-15 minutes and mostly returned nothing; without the browser they fail in seconds, like the fast 8:32 pm update run.
       - name: Update every 10 minutes
         run: |
           git config user.name "needle-bot"
