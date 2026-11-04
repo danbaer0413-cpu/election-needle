@@ -1,9 +1,24 @@
 {
-  "_note": "civicAPI early vote (civicapi.org, free, attribution: civicAPI). mode per state: auto = county rows when region names match our counties.csv (>=95% of ballots), else one STATE row; log_only = compare and log, don't feed the model; off = skip. A state with no data (404) is skipped.",
-  "max_age_days": 2,
-  "states": {
-    "AK": "state", "IA": "auto", "KS": "auto", "ME": "auto", "MI": "auto", "MN": "auto", "MS": "auto",
-    "NE": "auto", "NV": "auto", "OH": "auto", "SC": "auto", "WI": "auto", "NH": "auto",
-    "FL": "auto", "GA": "auto", "NC": "auto", "TX": "auto"
-  }
+ "_note": "civicAPI early vote (civicapi.org, free, attribution: civicAPI). mode per state: auto = county rows when region names match our counties.csv (>=95% of ballots), else one STATE row; log_only = compare and log, don't feed the model; off = skip. A state with no data (404) is skipped.",
+ "max_age_days": 2,
+ "states": {
+  "AK": "off",
+  "IA": "off",
+  "KS": "off",
+  "ME": "off",
+  "MI": "off",
+  "MN": "off",
+  "MS": "off",
+  "NE": "off",
+  "NV": "off",
+  "OH": "off",
+  "SC": "off",
+  "WI": "off",
+  "NH": "off",
+  "FL": "off",
+  "GA": "off",
+  "NC": "off",
+  "TX": "off"
+ },
+ "_note_off": "2026-11-03 7:45pm: turned off for election night. Early voting is over, the totals are saved, and the endpoint was timing out (2 min per pass)."
 }
