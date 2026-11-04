@@ -106,8 +106,15 @@ def build(counties: pd.DataFrame, results: pd.DataFrame | None, folder: str, rid
         if k not in known and k not in pct:
             pct[k] = float(v)
     kd = sum(v[0] for v in known.values()); kr = sum(v[1] for v in known.values())
-    if kd + kr >= D + R - 1:
-        return results                                   # county detail already covers the statewide count
+    if kd + kr >= D + R - 1:                             # county detail already covers the statewide count
+        try:
+            if results is not None and len(results) and float(results["dem"].sum() + results["rep"].sum()) >= kd + kr - 1:
+                return results
+        except Exception:
+            pass
+        # the counties came (at least partly) from reporting.csv: hand those back instead of the empty feed result
+        return pd.DataFrame([dict(county=c.loc[c["_k"] == k, "county"].iloc[0], dem=d, rep=rp, final=fin, weight=1.0)
+                             for k, (d, rp, fin) in known.items()])
     Drem, Rrem = max(D - kd, 0.0), max(R - kr, 0.0)
     Trem = Drem + Rrem
 
