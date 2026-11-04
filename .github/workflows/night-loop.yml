@@ -1,0 +1,80 @@
+name: night-loop
+
+# Election night: start this ONCE (Actions -> night-loop -> Run workflow). It runs the full update every 10 minutes inside one job,
+# so it does not depend on GitHub's scheduled timer (which skips runs when GitHub is busy). Each job lasts up to ~5.5 hours and then
+# starts the next one by itself, until STOP_UTC. To stop it early: Actions -> the running night-loop -> Cancel workflow.
+on:
+  workflow_dispatch:
+    inputs:
+      minutes:
+        description: "How long this job keeps updating (minutes, max 330)"
+        default: "330"
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: needle            # same group as update.yml, so the two never run at the same time
+  cancel-in-progress: false
+
+env:
+  STOP_UTC: "2026-11-04T15:00:00Z"   # 10 am ET Wednesday: no new loop is started after this
+
+jobs:
+  loop:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 50
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements-runner.txt
+      - run: pip install -r requirements-runner.txt
+      - name: Update every 10 minutes
+        run: |
+          git config user.name "needle-bot"
+          git config user.email "needle-bot@users.noreply.github.com"
+          mins="${{ github.event.inputs.minutes }}"; mins="${mins:-330}"; if [ "$mins" -gt 330 ]; then mins=330; fi
+          end=$(( $(date +%s) + mins * 60 ))
+          i=0
+          while [ "$(date +%s)" -lt "$end" ]; do
+            t0=$(date +%s); i=$((i + 1))
+            echo "================ update $i at $(date -u +%H:%M:%S) UTC"
+            # pick up anything uploaded since the last pass (screenshot files, fixes)
+            git pull --rebase --autostash -X theirs -q || git rebase --abort || true
+            timeout 120 python votehub.py     || echo "votehub skipped"
+            timeout 120 python civic_early.py || echo "civic early vote skipped"
+            timeout 120 python auto_calls.py  || echo "auto calls skipped"
+            timeout 420 python run_update.py  || echo "!!! run_update failed or timed out (last good numbers kept)"
+            timeout 60  python dumps.py       || echo "vote dumps skipped"
+            for f in data/latest.json data/needle_log.csv data/votehub_latest.csv data/votehub_history.csv data/votehub_state.json data/votehub_unparsed.txt data/votehub_raw.jsonl \
+                     data/night/early_civic.csv data/civic_early_log.csv data/house/lean.json data/auto_calls.csv data/calls_pending.csv data/auto_calls_log.csv \
+                     data/vote_dumps.csv data/dumps_prev.json; do
+              if [ -e "$f" ]; then git add "$f"; fi
+            done
+            git add data/*/early.csv data/*/*/early.csv 2>/dev/null || true
+            if ! git diff --cached --quiet; then
+              git commit -q -m "needle update (night loop)"
+              git pull --rebase --autostash -X theirs -q || git rebase --abort || true
+              git push -q || (git pull --rebase --autostash -X theirs -q && git push -q) || echo "!!! push failed this pass"
+            fi
+            took=$(( $(date +%s) - t0 )); echo "pass took ${took}s"
+            wait=$(( 600 - took ))
+            if [ "$wait" -gt 0 ] && [ $(( $(date +%s) + wait )) -lt "$end" ]; then sleep "$wait"; fi
+          done
+          echo "loop finished after $i updates"
+      - name: Start the next loop (until STOP_UTC)
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "$(date -u +%s)" -lt "$(date -u -d "$STOP_UTC" +%s)" ]; then
+            gh workflow run night-loop.yml --ref "${{ github.ref_name }}" && echo "next loop started"
+          else
+            echo "past $STOP_UTC: not starting another loop"
+          fi
