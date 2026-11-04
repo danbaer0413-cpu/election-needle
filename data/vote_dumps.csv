@@ -1,11 +1,4 @@
 ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pct_in,needle,dem_votes,rep_votes
-2026-11-04T02:44:40+00:00,NC-senate,NC,Alleghany,county,221,-110,-49.8,72.1,66.7,14.25,55,166
-2026-11-04T02:54:39+00:00,OH-senate,OH,Franklin,county,120190,46377,38.6,51.3,55.5,2.3,83283,36907
-2026-11-04T02:54:39+00:00,OH-senate,OH,Montgomery,county,67196,1935,2.9,57.2,55.5,2.3,34566,32630
-2026-11-04T02:54:39+00:00,OH-senate,OH,Warren,county,56879,-17651,-31.0,79.9,55.5,2.3,19614,37265
-2026-11-04T02:54:39+00:00,OH-senate,OH,Mahoning,county,54866,-4589,-8.4,82.6,55.5,2.3,25139,29727
-2026-11-04T02:54:39+00:00,OH-senate,OH,Lorain,county,51826,295,0.6,66.7,55.5,2.3,26061,25765
-2026-11-04T02:54:39+00:00,OH-senate,OH,Butler,county,49744,-10421,-20.9,60.6,55.5,2.3,19661,30083
 2026-11-04T02:54:39+00:00,OH-senate,OH,Summit,county,43314,522,1.2,45.9,55.5,2.3,21918,21396
 2026-11-04T02:54:39+00:00,OH-senate,OH,Hamilton,county,42820,11501,26.9,40.6,55.5,2.3,27160,15660
 2026-11-04T02:54:39+00:00,OH-senate,OH,Stark,county,42259,-9278,-22.0,53.8,55.5,2.3,16491,25768
@@ -5999,3 +5992,10 @@ ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pc
 2026-11-04T05:25:12+00:00,FL-senate,FL,St. Lucie,county,528,-124,-23.6,92.1,92.8,-3.77,202,326
 2026-11-04T05:25:12+00:00,NC-senate,NC,Wake,county,9898,6281,63.5,80.7,79.0,15.42,8090,1808
 2026-11-04T05:25:12+00:00,NC-senate,NC,Pender,county,1005,-262,-26.1,76.4,79.0,15.42,371,634
+2026-11-04T05:35:15+00:00,FL-governor,FL,Duval,county,2368,964,40.7,89.5,92.6,-2.22,1666,702
+2026-11-04T05:35:15+00:00,FL-governor,FL,St. Lucie,county,271,143,52.9,92.1,92.6,-2.22,207,64
+2026-11-04T05:35:15+00:00,WI-governor,WI,Dane,county,2057,1562,75.9,71.3,61.8,6.48,1809,248
+2026-11-04T05:35:15+00:00,WI-governor,WI,Brown,correction,-110,-92,,59.5,61.8,6.48,,
+2026-11-04T05:35:15+00:00,WI-governor,WI,Milwaukee,correction,-350,-456,,60.0,61.8,6.48,,
+2026-11-04T05:35:15+00:00,FL-senate,FL,Duval,county,2405,973,40.5,90.2,92.9,-3.75,1689,716
+2026-11-04T05:35:15+00:00,FL-senate,FL,St. Lucie,county,272,142,52.2,92.3,92.9,-3.75,207,65
