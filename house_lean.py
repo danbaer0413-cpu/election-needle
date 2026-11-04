@@ -266,7 +266,8 @@ def parliament_xy(n: int = 435, rows: int = 10):
 def attach_files(h: dict, log=print) -> int:
     """House results typed or pulled into data/night/house_*.csv (display only, like civicAPI's hover numbers).
     Columns: state, district, dem_name, dem_pct, rep_name, rep_pct, pct_in, as_of, source  (pct = share of the vote, 0-100).
-    Optional dem_votes / rep_votes. The newest file wins for a district; it never changes a lean, a call or a seat count."""
+    Optional dem_votes / rep_votes. The newest file wins for a district. It never makes a call; for an uncalled seat it moves the
+    lean (and so the seat chart) from the rating toward the counted margin, weighted by 0.8 x share counted."""
     import glob
     best = {}
     for f in sorted(glob.glob("data/night/house_*.csv")):
@@ -295,6 +296,15 @@ def attach_files(h: dict, log=print) -> int:
         d["live"] = {"a": top, "b": sec, "pct_in": pin, "winner": None, "src": r.get("source", "") or "results file",
                      "as_of": r.get("as_of_utc") or dt_now()}
         n += 1
+        # live lean for the seat chart: uncalled seats move from their rating toward the counted margin, more as more is counted
+        # (weight 0.8 x share counted, so a seat is never decided by its count alone; calls still come only from called.csv)
+        if not d.get("called") and pin is not None and pin > 0:
+            w = 0.8 * min(max(pin, 0.0), 100.0) / 100.0
+            live_m = dp - rp
+            d["m_rating"] = d.get("m_rating", d["m"])
+            d["m"] = round((1 - w) * d["m_rating"] + w * live_m, 2)
+            d["bin"] = bin_for(d["m"])
+            d["live_lean"] = True
     if best:
         log(f"  house results file: numbers for {n} of {len(h.get('districts', []))} map districts (data/night/house_*.csv)")
     return n
