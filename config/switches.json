@@ -1,6 +1,8 @@
 {
-  "electiontracker": true,
-  "_note": "true = run sources whose `switch` column matches. Edit on GitHub to turn one off.",
+  "electiontracker": false,
+  "civic": false,
+  "house_results": false,
+  "_note": "true = run sources whose `switch` column matches. Edit on GitHub to turn one off. 2026-11-03 8:15pm: civic (civicAPI down, 502s) and electiontracker (never found a total tonight) turned off to speed up each pass; set them back to true if they recover.",
   "house": true,
   "electionhub": true,
   "votehub": true,
