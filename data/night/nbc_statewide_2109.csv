@@ -1,0 +1,12 @@
+race,county,dem,rep,pct_in,as_of,source,force,minutes
+IA-senate,STATE,44299,16728,5.1,2026-11-03 21:09,NBC News (AP data) %; vote totals estimated from % counted x expected turnout,,
+KS-senate,STATE,227806,131228,37.8,2026-11-03 21:09,NBC News (AP data) %; vote totals estimated from % counted x expected turnout,,
+ME-senate,STATE,17982,14477,4.9,2026-11-03 21:09,NBC News (AP data) %; vote totals estimated from % counted x expected turnout,,
+MS-senate,STATE,29416,27614,6.1,2026-11-03 21:09,NBC News (AP data) %; vote totals estimated from % counted x expected turnout,,
+NE-senate,STATE,84081,49188,21.5,2026-11-03 21:09,NBC News (AP data) %; vote totals estimated from % counted x expected turnout,,
+NH-senate,STATE,120093,81155,33.7,2026-11-03 21:09,NBC News (AP data) %; vote totals estimated from % counted x expected turnout,,
+IA-governor,STATE,45782,15017,5.1,2026-11-03 21:09,NBC News (AP data) %; vote totals estimated from % counted x expected turnout,,
+KS-governor,STATE,224453,141106,37.4,2026-11-03 21:09,NBC News (AP data) %; vote totals estimated from % counted x expected turnout,,
+ME-governor,STATE,16485,11549,4.6,2026-11-03 21:09,NBC News (AP data) %; vote totals estimated from % counted x expected turnout,,
+NE-governor,STATE,84472,48431,21.6,2026-11-03 21:09,NBC News (AP data) %; vote totals estimated from % counted x expected turnout,,
+NH-governor,STATE,103310,100815,34.1,2026-11-03 21:09,NBC News (AP data) %; vote totals estimated from % counted x expected turnout,,
