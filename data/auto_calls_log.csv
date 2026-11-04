@@ -172,3 +172,9 @@ time,event,kind,race,winner,sources
 2026-11-04T08:26+00:00,pending,house,FL-25,D,civicapi
 2026-11-04T08:26+00:00,pending,senate,FL-senate,R,civicapi
 2026-11-04T08:26+00:00,pending,senate,GA-senate,D,civicapi
+2026-11-04T08:36+00:00,pending,house,AL-2,D,civicapi
+2026-11-04T08:36+00:00,pending,house,AZ-6,D,civicapi
+2026-11-04T08:36+00:00,pending,house,CA-22,D,civicapi
+2026-11-04T08:36+00:00,pending,house,CA-45,D,civicapi
+2026-11-04T08:36+00:00,pending,house,CA-48,D,civicapi
+2026-11-04T08:36+00:00,pending,house,CO-8,D,civicapi
