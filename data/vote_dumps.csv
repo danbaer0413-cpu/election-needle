@@ -1,6 +1,4 @@
 ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pct_in,needle,dem_votes,rep_votes
-2026-11-04T03:44:41+00:00,NE-senate,NE,Morrill,county,174,-82,-47.1,34.1,31.6,-0.16,46,128
-2026-11-04T03:44:41+00:00,NE-senate,NE,Sheridan,county,159,-83,-52.4,31.0,31.6,-0.16,38,121
 2026-11-04T03:44:41+00:00,NE-senate,NE,Valley,county,159,-69,-43.1,32.5,31.6,-0.16,45,114
 2026-11-04T03:44:41+00:00,NE-senate,NE,Johnson,county,148,-24,-16.2,31.4,31.6,-0.16,62,86
 2026-11-04T03:44:41+00:00,NE-senate,NE,Nuckolls,county,147,-61,-41.4,31.5,31.6,-0.16,43,104
@@ -5999,3 +5997,5 @@ ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pc
 2026-11-04T13:00:14+00:00,IA-governor,IA,Adams,county,111,35,31.2,100.0,100.0,10.98,73,38
 2026-11-04T14:30:13+00:00,FL-governor,FL,Seminole,county,537,244,45.5,92.4,92.7,-2.2,391,146
 2026-11-04T14:30:13+00:00,FL-senate,FL,Seminole,county,548,230,42.0,92.8,92.9,-3.73,389,159
+2026-11-04T17:39:11+00:00,FL-governor,FL,Duval,county,143,16,11.1,89.6,92.7,-2.2,79,64
+2026-11-04T17:39:11+00:00,FL-senate,FL,Duval,county,141,16,11.1,90.2,92.9,-3.73,78,63
