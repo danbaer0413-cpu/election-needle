@@ -5239,3 +5239,50 @@ ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pc
 2026-11-04T03:44:41+00:00,NC-senate,NC,Durham,county,1405,1079,76.8,74.7,75.8,14.74,1242,163
 2026-11-04T03:44:41+00:00,NC-senate,NC,Wilson,county,332,287,86.5,24.6,75.8,14.74,310,22
 2026-11-04T03:44:41+00:00,NC-senate,NC,Forsyth,county,244,237,97.3,77.1,75.8,14.74,241,3
+2026-11-04T03:54:39+00:00,FL-governor,FL,Broward,county,3466,1123,32.4,90.5,92.3,-2.31,2294,1172
+2026-11-04T03:54:39+00:00,FL-governor,FL,Pinellas,county,172,8,4.7,92.8,92.3,-2.31,90,82
+2026-11-04T03:54:39+00:00,GA-governor,GA,Gwinnett,county,17414,3925,22.5,79.0,88.0,8.63,10669,6745
+2026-11-04T03:54:39+00:00,GA-governor,GA,Forsyth,county,11478,-3795,-33.1,91.4,88.0,8.63,3841,7637
+2026-11-04T03:54:39+00:00,GA-governor,GA,Effingham,county,8520,-2785,-32.7,41.6,88.0,8.63,2867,5653
+2026-11-04T03:54:39+00:00,GA-governor,GA,Henry,county,4007,2810,70.1,100.0,88.0,8.63,3409,598
+2026-11-04T03:54:39+00:00,GA-governor,GA,Meriwether,county,3056,-802,-26.3,100.0,88.0,8.63,1127,1929
+2026-11-04T03:54:39+00:00,GA-governor,GA,Jones,county,2622,-1179,-44.9,100.0,88.0,8.63,722,1900
+2026-11-04T03:54:39+00:00,GA-governor,GA,Fannin,county,2040,-1513,-74.2,100.0,88.0,8.63,264,1776
+2026-11-04T03:54:39+00:00,GA-governor,GA,Toombs,county,218,-13,-6.2,100.0,88.0,8.63,102,116
+2026-11-04T03:54:39+00:00,WI-governor,WI,Dane,county,9697,6636,68.4,65.5,45.4,7.52,8167,1530
+2026-11-04T03:54:39+00:00,WI-governor,WI,Brown,correction,-520,-322,,40.5,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Calumet,correction,-112,-54,,38.0,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Chippewa,correction,-130,-65,,42.2,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Columbia,correction,-124,-86,,42.1,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Dodge,correction,-176,-66,,42.8,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Eau Claire,correction,-220,-208,,40.8,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Fond Du Lac,correction,-208,-112,,43.8,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Jefferson,correction,-174,-116,,41.9,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Kenosha,correction,-302,-239,,38.6,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,La Crosse,correction,-252,-241,,38.2,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Manitowoc,correction,-162,-76,,43.5,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Marathon,correction,-281,-177,,41.1,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Milwaukee,correction,-1650,-1795,,40.8,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Outagamie,correction,-386,-278,,40.1,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Ozaukee,correction,-237,-157,,37.6,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Portage,correction,-154,-114,,40.1,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Racine,correction,-378,-238,,38.1,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Rock,correction,-301,-246,,40.4,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Sauk,correction,-131,-95,,42.4,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Sheboygan,correction,-243,-125,,41.8,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,St. Croix,correction,-192,-100,,38.1,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Walworth,correction,-207,-126,,37.9,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Washington,correction,-331,-96,,35.9,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Waupaca,correction,-104,-53,,44.2,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Winnebago,correction,-341,-265,,39.4,45.4,7.52,,
+2026-11-04T03:54:39+00:00,WI-governor,WI,Wood,correction,-150,-77,,41.7,45.4,7.52,,
+2026-11-04T03:54:39+00:00,FL-senate,FL,Broward,county,3473,1781,51.3,90.4,92.5,-3.84,2627,846
+2026-11-04T03:54:39+00:00,FL-senate,FL,Pinellas,county,188,399,100,93.0,92.5,-3.84,188,0
+2026-11-04T03:54:39+00:00,NC-senate,NC,Mecklenburg,county,19088,11205,58.7,79.6,76.5,14.94,15147,3941
+2026-11-04T03:54:39+00:00,NC-senate,NC,Guilford,county,6294,2672,42.4,72.9,76.5,14.94,4483,1811
+2026-11-04T03:54:39+00:00,NC-senate,NC,Buncombe,county,4408,3078,69.8,72.4,76.5,14.94,3743,665
+2026-11-04T03:54:39+00:00,NC-senate,NC,Iredell,county,1573,-244,-15.5,80.2,76.5,14.94,665,908
+2026-11-04T03:54:39+00:00,NC-senate,NC,Sampson,county,1441,-161,-11.2,80.4,76.5,14.94,640,801
+2026-11-04T03:54:39+00:00,NC-senate,NC,Dare,county,1054,-312,-29.6,78.5,76.5,14.94,371,683
+2026-11-04T03:54:39+00:00,NC-senate,NC,Duplin,county,885,-110,-12.4,81.1,76.5,14.94,388,497
+2026-11-04T03:54:39+00:00,NC-senate,NC,Hyde,county,874,-304,-34.8,44.0,76.5,14.94,285,589
