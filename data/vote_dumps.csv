@@ -1,5 +1,4 @@
 ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pct_in,needle,dem_votes,rep_votes
-2026-11-04T03:44:41+00:00,KS-senate,KS,Rush,county,220,-120,-54.5,56.4,52.6,6.16,50,170
 2026-11-04T03:44:41+00:00,KS-senate,KS,Meade,county,218,-130,-59.9,51.8,52.6,6.16,44,174
 2026-11-04T03:44:41+00:00,KS-senate,KS,Trego,county,211,-121,-57.4,53.2,52.6,6.16,45,166
 2026-11-04T03:44:41+00:00,KS-senate,KS,Jewell,county,200,-124,-61.9,59.1,52.6,6.16,38,162
@@ -5999,3 +5998,4 @@ ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pc
 2026-11-04T09:27:40+00:00,GA-senate,GA,Heard,county,1633,-1158,-70.9,100.0,100.0,18.0,237,1396
 2026-11-04T09:27:40+00:00,GA-senate,GA,Chatham,county,132,46,34.5,100.0,100.0,18.0,89,43
 2026-11-04T09:27:40+00:00,NC-senate,NC,Hertford,county,1628,1038,63.7,79.6,79.1,15.44,1333,295
+2026-11-04T11:37:37+00:00,NC-senate,NC,Pasquotank,county,6615,1763,26.6,78.3,79.2,15.48,4189,2426
