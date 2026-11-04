@@ -22,7 +22,9 @@ house,MI-8,D,civicapi
 house,MN-2,D,civicapi
 house,MO-2,D,civicapi
 house,MT-1,D,civicapi
+house,NC-1,D,civicapi
 house,NC-11,D,civicapi
+house,NC-13,D,civicapi
 house,NC-9,D,civicapi
 house,NE-1,R,civicapi
 house,NE-2,D,civicapi
@@ -31,9 +33,12 @@ house,NJ-7,D,civicapi
 house,NJ-9,D,civicapi
 house,NM-2,D,civicapi
 house,NV-1,D,civicapi
+house,NV-2,D,civicapi
 house,NV-3,D,civicapi
 house,NV-4,D,civicapi
 house,NY-19,D,civicapi
+house,NY-3,D,civicapi
+house,NY-4,D,civicapi
 house,OH-1,D,civicapi
 house,OH-13,D,civicapi
 house,OH-15,D,civicapi
@@ -53,3 +58,4 @@ senate,FL-senate,R,civicapi
 senate,GA-senate,D,civicapi
 senate,KS-senate,D,civicapi
 senate,MN-senate,D,civicapi
+senate,NH-senate,D,civicapi
