@@ -1,6 +1,4 @@
 ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pct_in,needle,dem_votes,rep_votes
-2026-11-04T02:54:39+00:00,OH-senate,OH,Summit,county,43314,522,1.2,45.9,55.5,2.3,21918,21396
-2026-11-04T02:54:39+00:00,OH-senate,OH,Hamilton,county,42820,11501,26.9,40.6,55.5,2.3,27160,15660
 2026-11-04T02:54:39+00:00,OH-senate,OH,Stark,county,42259,-9278,-22.0,53.8,55.5,2.3,16491,25768
 2026-11-04T02:54:39+00:00,OH-senate,OH,Lake,county,40131,-4409,-11.0,66.2,55.5,2.3,17861,22270
 2026-11-04T02:54:39+00:00,OH-senate,OH,Licking,county,39607,-9841,-24.8,80.8,55.5,2.3,14883,24724
@@ -5999,3 +5997,5 @@ ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pc
 2026-11-04T05:35:15+00:00,WI-governor,WI,Milwaukee,correction,-350,-456,,60.0,61.8,6.48,,
 2026-11-04T05:35:15+00:00,FL-senate,FL,Duval,county,2405,973,40.5,90.2,92.9,-3.75,1689,716
 2026-11-04T05:35:15+00:00,FL-senate,FL,St. Lucie,county,272,142,52.2,92.3,92.9,-3.75,207,65
+2026-11-04T05:45:37+00:00,FL-governor,FL,Miami-Dade,county,4501,1090,24.2,93.3,92.6,-2.21,2796,1705
+2026-11-04T05:45:37+00:00,FL-senate,FL,Miami-Dade,county,4642,1105,23.8,93.3,92.9,-3.74,2874,1768
