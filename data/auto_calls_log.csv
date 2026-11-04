@@ -54,3 +54,6 @@ time,event,kind,race,winner,sources
 2026-11-04T02:54+00:00,call,senate,NC-senate,D,bluesky:apnews.com+bluesky:decisiondeskhq.bsky.social
 2026-11-04T02:54+00:00,call,senate,NH-senate,D,bluesky:apnews.com+bluesky:decisiondeskhq.bsky.social
 2026-11-04T02:54+00:00,pending,senate,FL-senate,R,bluesky:decisiondeskhq.bsky.social
+2026-11-04T03:13+00:00,call,senate,NC-senate,D,bluesky:apnews.com+bluesky:decisiondeskhq.bsky.social
+2026-11-04T03:13+00:00,pending,senate,NH-senate,D,bluesky:apnews.com
+2026-11-04T03:13+00:00,pending,senate,SC-senate,D,bluesky:decisiondeskhq.bsky.social
