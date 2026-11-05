@@ -10,6 +10,7 @@ AR,1,R
 AR,2,R
 AR,3,R
 AR,4,R
+AZ,1,D
 AZ,3,D
 AZ,4,D
 AZ,7,D
@@ -206,6 +207,7 @@ MS,1,R
 MS,2,D
 MS,3,R
 MS,4,R
+MT,1,D
 MT,2,R
 NC,1,D
 NC,2,D
@@ -242,6 +244,8 @@ NV,1,D
 NV,2,D
 NV,3,D
 NV,4,D
+NY,1,R
+NY,2,R
 NY,3,D
 NY,4,D
 NY,5,D
@@ -360,12 +364,14 @@ TX,36,R
 TX,37,D
 TX,38,R
 UT,1,D
+UT,2,R
 UT,3,R
 UT,4,R
 VA,1,D
 VA,2,D
 VA,3,D
 VA,4,D
+VA,5,R
 VA,6,R
 VA,7,D
 VA,8,D
