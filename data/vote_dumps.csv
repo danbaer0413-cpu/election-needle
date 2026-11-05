@@ -1,27 +1,4 @@
 ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pct_in,needle,dem_votes,rep_votes
-2026-11-04T04:14:53+00:00,TX-governor,TX,Scurry,county,660,-118,-17.8,32.9,53.6,9.55,271,389
-2026-11-04T04:14:53+00:00,TX-governor,TX,Sabine,county,644,-146,-22.7,29.6,53.6,9.55,249,395
-2026-11-04T04:14:53+00:00,TX-governor,TX,Morris,county,639,47,7.3,29.5,53.6,9.55,343,296
-2026-11-04T04:14:53+00:00,TX-governor,TX,Gaines,county,630,-160,-25.4,29.1,53.6,9.55,235,395
-2026-11-04T04:14:53+00:00,TX-governor,TX,Willacy,county,628,436,69.4,27.6,53.6,9.55,532,96
-2026-11-04T04:14:53+00:00,TX-governor,TX,Camp,county,620,30,4.8,26.8,53.6,9.55,325,295
-2026-11-04T04:14:53+00:00,TX-governor,TX,Andrews,county,616,-93,-15.1,31.7,53.6,9.55,262,354
-2026-11-04T04:14:53+00:00,TX-governor,TX,Franklin,county,616,-89,-14.4,29.6,53.6,9.55,264,352
-2026-11-04T04:14:53+00:00,TX-governor,TX,Karnes,county,615,15,2.4,31.6,53.6,9.55,315,300
-2026-11-04T04:14:53+00:00,TX-governor,TX,Somervell,county,612,-85,-13.9,29.1,53.6,9.55,264,348
-2026-11-04T04:14:53+00:00,TX-governor,TX,Live Oak,county,608,-84,-13.8,32.1,53.6,9.55,262,346
-2026-11-04T04:14:53+00:00,TX-governor,TX,Nolan,county,608,-24,-4.0,31.1,53.6,9.55,292,316
-2026-11-04T04:14:53+00:00,TX-governor,TX,Madison,county,607,-50,-8.3,30.4,53.6,9.55,278,329
-2026-11-04T04:14:53+00:00,TX-governor,TX,Brewster,county,601,298,49.5,30.9,53.6,9.55,449,152
-2026-11-04T04:14:53+00:00,TX-governor,TX,Duval,county,599,407,68.0,29.1,53.6,9.55,503,96
-2026-11-04T04:14:53+00:00,TX-governor,TX,Archer,county,590,-148,-25.2,32.0,53.6,9.55,221,369
-2026-11-04T04:14:53+00:00,TX-governor,TX,Moore,county,588,-64,-10.9,28.3,53.6,9.55,262,326
-2026-11-04T04:14:53+00:00,TX-governor,TX,Frio,county,579,295,50.9,28.7,53.6,9.55,437,142
-2026-11-04T04:14:53+00:00,TX-governor,TX,Hamilton,county,536,-86,-16.1,28.5,53.6,9.55,225,311
-2026-11-04T04:14:53+00:00,TX-governor,TX,Marion,county,526,24,4.6,27.1,53.6,9.55,275,251
-2026-11-04T04:14:53+00:00,TX-governor,TX,Wilbarger,county,510,-28,-5.6,28.4,53.6,9.55,241,269
-2026-11-04T04:14:53+00:00,TX-governor,TX,Goliad,county,509,-9,-1.7,29.1,53.6,9.55,250,259
-2026-11-04T04:14:53+00:00,TX-governor,TX,Deaf Smith,county,507,25,4.9,28.8,53.6,9.55,266,241
 2026-11-04T04:14:53+00:00,TX-governor,TX,Runnels,county,507,-115,-22.7,31.1,53.6,9.55,196,311
 2026-11-04T04:14:53+00:00,TX-governor,TX,Lamb,county,503,-51,-10.1,30.1,53.6,9.55,226,277
 2026-11-04T04:14:53+00:00,TX-governor,TX,Coleman,county,501,-121,-24.1,31.0,53.6,9.55,190,311
@@ -5999,3 +5976,26 @@ ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pc
 2026-11-05T00:31:52+00:00,MS-senate,MS,Chickasaw,county,157,49,31.4,99.9,97.9,0.17,103,54
 2026-11-05T00:31:52+00:00,MS-senate,MS,Stone,county,104,-16,-15.7,99.1,97.9,0.17,44,60
 2026-11-05T00:31:52+00:00,MS-senate,MS,Jeff Davis,correction,-4053,-1131,,0.0,97.9,0.17,,
+2026-11-05T17:06:44+00:00,MI-senate,MI,Statewide total,statewide,556164,39847,7.2,,100.0,7.16,298005,258159
+2026-11-05T17:06:44+00:00,MN-senate,MN,Statewide total,statewide,388723,41722,10.7,,100.0,10.43,215222,173501
+2026-11-05T17:06:44+00:00,IA-senate,IA,Statewide total,statewide,155540,6698,4.3,,100.0,4.24,81119,74421
+2026-11-05T17:06:44+00:00,KS-senate,KS,Statewide total,statewide,134474,9092,6.8,,100.0,5.16,71783,62691
+2026-11-05T17:06:44+00:00,KS-governor,KS,Statewide total,statewide,131527,1730,1.3,,100.0,0.64,66628,64899
+2026-11-05T17:06:44+00:00,NE-senate,NE,Statewide total,statewide,129428,-9296,-7.2,,100.0,-7.26,60066,69362
+2026-11-05T17:06:44+00:00,NE-governor,NE,Statewide total,statewide,127983,-11278,-8.8,,100.0,-9.24,58352,69631
+2026-11-05T17:06:44+00:00,ME-senate,ME,Statewide total,statewide,94140,4435,4.7,,100.0,6.3,49288,44852
+2026-11-05T17:06:44+00:00,AK-senate,AK,Statewide total,statewide,21112,41,0.2,,79.6,1.15,10576,10536
+2026-11-05T17:06:44+00:00,TX-senate,TX,Statewide total,statewide,1821668,224662,12.3,,97.1,12.21,1023165,798503
+2026-11-05T17:06:44+00:00,TX-governor,TX,Statewide total,statewide,1850518,136728,7.4,,97.7,7.05,993623,856895
+2026-11-05T17:06:44+00:00,SC-senate,SC,Orangeburg,county,333264,15663,4.7,99.9,94.9,4.31,174464,158800
+2026-11-05T17:06:44+00:00,GA-governor,GA,Worth,county,336,-309,-92.1,100.0,100.0,8.62,13,323
+2026-11-05T17:06:44+00:00,NV-governor,NV,Statewide total,statewide,174558,11750,6.7,,100.0,7.63,93154,81404
+2026-11-05T17:06:44+00:00,WI-governor,WI,Statewide total,statewide,70151,405,0.6,,99.9,7.96,35278,34873
+2026-11-05T17:06:44+00:00,GA-senate,GA,Worth,county,331,-277,-83.6,100.0,99.9,17.96,27,304
+2026-11-05T17:06:44+00:00,ME-governor,ME,Statewide total,statewide,89286,15433,17.3,,97.2,18.89,52359,36927
+2026-11-05T17:06:44+00:00,NH-senate,NH,Statewide total,statewide,47621,9382,19.7,,100.0,14.49,28502,19119
+2026-11-05T17:06:44+00:00,IA-governor,IA,Statewide total,statewide,184837,20176,10.9,,100.0,10.98,102507,82330
+2026-11-05T17:06:44+00:00,AK-governor,AK,Statewide total,statewide,16123,3970,24.6,,64.2,19.87,10047,6076
+2026-11-05T17:06:44+00:00,MI-governor,MI,Statewide total,statewide,551006,63777,11.6,,100.0,10.95,307392,243614
+2026-11-05T17:06:44+00:00,MN-governor,MN,Statewide total,statewide,393631,50091,12.7,,100.0,13.08,221861,171770
+2026-11-05T17:06:44+00:00,NH-governor,NH,Statewide total,statewide,42800,928,2.2,,99.5,-3.89,21864,20936

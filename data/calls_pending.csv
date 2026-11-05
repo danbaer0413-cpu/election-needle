@@ -1,5 +1,6 @@
 kind,race,winner,sources
 house,AL-2,D,civicapi
+house,AZ-1,D,civicapi
 house,AZ-6,D,civicapi
 house,CA-13,D,civicapi
 house,CA-22,D,civicapi
@@ -47,6 +48,7 @@ house,OH-9,D,civicapi
 house,TX-15,D,civicapi
 house,TX-23,D,civicapi
 house,TX-28,D,civicapi
+house,TX-34,D,civicapi
 house,TX-35,D,civicapi
 house,VA-2,D,civicapi
 house,VA-7,D,civicapi
@@ -55,8 +57,10 @@ house,WI-1,D,civicapi
 house,WI-3,D,civicapi
 senate,FL-senate,R,civicapi
 senate,GA-senate,D,civicapi
-senate,KS-senate,D,civicapi
+senate,IA-senate,D,civicapi
 senate,MN-senate,D,civicapi
 senate,NC-senate,D,civicapi
 senate,NH-senate,D,civicapi
+senate,OH-senate,D,civicapi
 senate,SC-senate,D,civicapi
+senate,TX-senate,D,civicapi
