@@ -72,6 +72,7 @@ class Params:
     vh_early_margin: float | None = None    # two-party margin of their modeled vote among ballots cast so far
     early_geo_signal: bool = True           # False when the early table is only a statewide total spread over counties (no geography to read)
     vh_scale: float = 1.0                   # multiplies how far VoteHub's signal sits from the other evidence (run_update uses it to limit the move per update)
+    turnout_mult_fixed: float | None = None   # set (e.g. 1.0) once counting is nearly done: stops early-vote turnout boosts from expecting votes that never come
     vh_max_effect: float = 1.0              # VoteHub's modeled vote can move this race's statewide median by at most this many points
     sd_votehub: float = 9.0                 # how far that can miss the early-pool margin we expect (points); third-party model, uncalibrated, so wide
     # early-vote signals
@@ -167,7 +168,12 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
         mult = 1.0 + 0.5 * (np.clip(raw, 0.7, 1.4) - 1.0)
     else:
         E_final, mult = exp_early0.copy(), 1.0
-    ED_tot = (T0 - exp_early0) * mult
+    if p.turnout_mult_fixed is not None:                 # post-election: expected turnout pinned (counted totals show the early-vote boost was too big)
+        mult = float(p.turnout_mult_fixed)
+        E_final = np.minimum(np.maximum(E_ret, exp_early0 * mult), T0 * mult)
+        ED_tot = np.maximum(T0 * mult - E_final, 0.0)  # a bigger early vote means a smaller Election Day vote, not a bigger total
+    else:
+        ED_tot = (T0 - exp_early0) * mult
 
     # ---- what has been counted, and what it was made of -----------------------------
     dem = df["dem"].to_numpy(float)

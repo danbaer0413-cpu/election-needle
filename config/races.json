@@ -11,7 +11,8 @@
     "sd_poll": 5.0,
     "early_geo_signal": false,
     "early_gap": 20.0,
-    "early_gap_max": 40.0
+    "early_gap_max": 40.0,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -25,7 +26,8 @@
     "sd_poll": 5.0,
     "early_geo_signal": false,
     "early_gap": 20.0,
-    "early_gap_max": 40.0
+    "early_gap_max": 40.0,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -38,7 +40,8 @@
    "params": {
     "sd_poll": 5.0,
     "early_first": false,
-    "early_geo_signal": false
+    "early_geo_signal": false,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -51,7 +54,8 @@
    "params": {
     "sd_poll": 5.0,
     "early_first": false,
-    "early_geo_signal": false
+    "early_geo_signal": false,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -64,7 +68,8 @@
    "params": {
     "sd_poll": 5.0,
     "early_gap": 35.0,
-    "early_gap_max": 40.0
+    "early_gap_max": 40.0,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -78,7 +83,8 @@
     "sd_poll": 5.0,
     "early_geo_signal": false,
     "early_gap": 20.0,
-    "early_gap_max": 40.0
+    "early_gap_max": 40.0,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -92,7 +98,8 @@
     "sd_poll": 5.0,
     "early_geo_signal": false,
     "early_gap": 20.0,
-    "early_gap_max": 40.0
+    "early_gap_max": 40.0,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -106,7 +113,8 @@
     "sd_poll": 5.0,
     "early_geo_signal": false,
     "early_gap": 20.0,
-    "early_gap_max": 40.0
+    "early_gap_max": 40.0,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -120,7 +128,8 @@
     "sd_poll": 5.0,
     "early_geo_signal": false,
     "early_gap": 20.0,
-    "early_gap_max": 40.0
+    "early_gap_max": 40.0,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -135,7 +144,8 @@
     "third_share": 0.05,
     "sd_poll": 5.0,
     "early_first": false,
-    "early_geo_signal": false
+    "early_geo_signal": false,
+    "turnout_mult_fixed": 1.0
    },
    "rcv_history": "data/ME/rcv_history.csv"
   },
@@ -151,7 +161,8 @@
     "rcv": true,
     "third_share": 0.04,
     "sd_poll": 5.0,
-    "early_geo_signal": false
+    "early_geo_signal": false,
+    "turnout_mult_fixed": 1.0
    },
    "rcv_history": "data/AK/rcv_history.csv"
   },
@@ -165,7 +176,8 @@
    "params": {
     "sd_poll": 5.0,
     "early_gap": 20.0,
-    "early_gap_max": 40.0
+    "early_gap_max": 40.0,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -178,7 +190,8 @@
    "params": {
     "sd_poll": 5.0,
     "early_gap": 20.0,
-    "early_gap_max": 40.0
+    "early_gap_max": 40.0,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -191,7 +204,8 @@
    "params": {
     "sd_poll": 5.0,
     "early_gap": 24.2,
-    "early_gap_max": 40.0
+    "early_gap_max": 40.0,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -205,7 +219,8 @@
     "sd_poll": 5.0,
     "early_geo_signal": false,
     "early_gap": 20.0,
-    "early_gap_max": 40.0
+    "early_gap_max": 40.0,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -220,7 +235,8 @@
     "early_geo_signal": false,
     "early_final_pct_in": 0.95,
     "early_gap": 20.0,
-    "early_gap_max": 40.0
+    "early_gap_max": 40.0,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -236,7 +252,8 @@
     "sd_poll": 5.0,
     "sd_early_geo": 8.0,
     "early_gap": 27.6,
-    "early_gap_max": 40.0
+    "early_gap_max": 40.0,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -250,7 +267,8 @@
     "sd_poll": 5.0,
     "early_geo_signal": false,
     "early_gap": 20.0,
-    "early_gap_max": 40.0
+    "early_gap_max": 40.0,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -263,7 +281,8 @@
    "params": {
     "sd_poll": 5.0,
     "early_first": false,
-    "early_geo_signal": false
+    "early_geo_signal": false,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -279,7 +298,8 @@
     "sd_poll": 5.0,
     "sd_early_geo": 8.0,
     "early_gap": 26.2,
-    "early_gap_max": 40.0
+    "early_gap_max": 40.0,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -294,7 +314,8 @@
     "third_share": 0.05,
     "sd_poll": 5.0,
     "early_first": false,
-    "early_geo_signal": false
+    "early_geo_signal": false,
+    "turnout_mult_fixed": 1.0
    },
    "_note": "Maine uses RCV for federal general elections only; governor is plurality (state constitution; Maine SJC Apr 2026)."
   },
@@ -308,7 +329,8 @@
    "params": {
     "sd_poll": 5.0,
     "early_first": false,
-    "early_geo_signal": false
+    "early_geo_signal": false,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -323,7 +345,8 @@
     "early_geo_signal": false,
     "early_final_pct_in": 0.95,
     "early_gap": 20.0,
-    "early_gap_max": 40.0
+    "early_gap_max": 40.0,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -336,7 +359,8 @@
    "params": {
     "sd_poll": 5.0,
     "early_gap": 21.7,
-    "early_gap_max": 40.0
+    "early_gap_max": 40.0,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -349,7 +373,8 @@
    "params": {
     "sd_poll": 5.0,
     "early_gap": 35.0,
-    "early_gap_max": 40.0
+    "early_gap_max": 40.0,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -364,7 +389,8 @@
     "sd_poll": 5.0,
     "rcv": true,
     "third_share": 0.06,
-    "early_geo_signal": false
+    "early_geo_signal": false,
+    "turnout_mult_fixed": 1.0
    },
    "rcv_history": "data/AK/rcv_history.csv",
    "_note": "Alaska general uses RCV for governor and Senate. third_share 0.06 is a placeholder; set it from the polls' other-candidate share."
@@ -379,7 +405,8 @@
    "params": {
     "sd_poll": 5.0,
     "early_first": false,
-    "early_geo_signal": false
+    "early_geo_signal": false,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -392,7 +419,8 @@
    "params": {
     "sd_poll": 5.0,
     "early_first": false,
-    "early_geo_signal": false
+    "early_geo_signal": false,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -405,7 +433,8 @@
    "params": {
     "sd_poll": 5.0,
     "early_first": false,
-    "early_geo_signal": false
+    "early_geo_signal": false,
+    "turnout_mult_fixed": 1.0
    }
   },
   {
@@ -419,10 +448,12 @@
     "sd_poll": 5.0,
     "early_final_pct_in": 0.95,
     "early_gap": 29.6,
-    "early_gap_max": 40.0
+    "early_gap_max": 40.0,
+    "turnout_mult_fixed": 1.0
    }
   }
  ],
  "_note": "third_share values for GA, ME and AK are placeholders: set them from polls or past results. rcv_history CSVs (past ranked-choice contests) calibrate the transfer skew; see rcv.py.",
- "_note_early_gap": "2026-11-03 7:30pm: early_gap set from 2022 early-vs-Election-Day margins (MEDSL 2022 by vote mode; capped at 35; 20 where 2022 had no split). The old 7-8 was far below the 22-46 point gaps seen in 2022."
+ "_note_early_gap": "2026-11-03 7:30pm: early_gap set from 2022 early-vs-Election-Day margins (MEDSL 2022 by vote mode; capped at 35; 20 where 2022 had no split). The old 7-8 was far below the 22-46 point gaps seen in 2022.",
+ "_note_turnout_mult_fixed": "2026-11-04 7 PM: counted totals came in near normal turnout, so the early-vote turnout boost (x1.2) left the needle expecting 20-25% more votes in 98%-counted states. Pinned to 1.0 for the rest of the count. Remove for 2028."
 }
