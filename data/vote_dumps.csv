@@ -1,8 +1,4 @@
 ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pct_in,needle,dem_votes,rep_votes
-2026-11-04T04:14:53+00:00,TX-governor,TX,Runnels,county,507,-115,-22.7,31.1,53.6,9.55,196,311
-2026-11-04T04:14:53+00:00,TX-governor,TX,Lamb,county,503,-51,-10.1,30.1,53.6,9.55,226,277
-2026-11-04T04:14:53+00:00,TX-governor,TX,Coleman,county,501,-121,-24.1,31.0,53.6,9.55,190,311
-2026-11-04T04:14:53+00:00,TX-governor,TX,Zapata,county,472,258,54.7,28.8,53.6,9.55,365,107
 2026-11-04T04:14:53+00:00,TX-governor,TX,Jack,county,459,-121,-26.4,28.1,53.6,9.55,169,290
 2026-11-04T04:14:53+00:00,TX-governor,TX,San Augustine,county,458,-4,-0.9,28.3,53.6,9.55,227,231
 2026-11-04T04:14:53+00:00,TX-governor,TX,Dimmit,county,451,356,79.0,31.1,53.6,9.55,404,47
@@ -5999,3 +5995,7 @@ ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pc
 2026-11-05T17:06:44+00:00,MI-governor,MI,Statewide total,statewide,551006,63777,11.6,,100.0,10.95,307392,243614
 2026-11-05T17:06:44+00:00,MN-governor,MN,Statewide total,statewide,393631,50091,12.7,,100.0,13.08,221861,171770
 2026-11-05T17:06:44+00:00,NH-governor,NH,Statewide total,statewide,42800,928,2.2,,99.5,-3.89,21864,20936
+2026-11-06T21:28:27+00:00,GA-governor,GA,Fulton,county,3495,2123,60.8,100.0,100.0,8.66,2809,686
+2026-11-06T21:28:27+00:00,GA-governor,GA,Seminole,county,387,-321,-83.0,100.0,100.0,8.66,33,354
+2026-11-06T21:28:27+00:00,GA-senate,GA,Fulton,county,3493,2979,85.3,100.0,100.0,18.04,3236,257
+2026-11-06T21:28:27+00:00,GA-senate,GA,Seminole,county,384,-305,-79.6,100.0,100.0,18.04,39,345

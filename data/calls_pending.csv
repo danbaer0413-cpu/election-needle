@@ -18,7 +18,10 @@ house,FL-25,D,civicapi
 house,IA-1,D,civicapi
 house,IA-2,D,civicapi
 house,IA-3,D,civicapi
+house,IN-1,D,civicapi
+house,IN-5,D,civicapi
 house,KS-2,R,civicapi
+house,KY-6,D,civicapi
 house,MI-10,D,civicapi
 house,MI-4,D,civicapi
 house,MI-7,D,civicapi
@@ -72,6 +75,7 @@ house,WI-3,D,civicapi
 senate,FL-senate,R,civicapi
 senate,GA-senate,D,civicapi
 senate,IA-senate,D,civicapi
+senate,ME-senate,D,civicapi
 senate,MN-senate,D,civicapi
 senate,NH-senate,D,civicapi
 senate,OH-senate,D,civicapi
