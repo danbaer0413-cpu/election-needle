@@ -7,6 +7,7 @@ house,CA-13,D,civicapi
 house,CA-22,D,civicapi
 house,CA-45,D,civicapi
 house,CA-48,D,civicapi
+house,CO-3,R,civicapi
 house,CO-5,D,civicapi
 house,CO-8,D,civicapi
 house,FL-13,R,civicapi
@@ -17,10 +18,7 @@ house,FL-25,D,civicapi
 house,IA-1,D,civicapi
 house,IA-2,D,civicapi
 house,IA-3,D,civicapi
-house,IN-1,D,civicapi
-house,IN-5,D,civicapi
 house,KS-2,R,civicapi
-house,KY-6,D,civicapi
 house,MI-10,D,civicapi
 house,MI-4,D,civicapi
 house,MI-7,D,civicapi
@@ -43,6 +41,7 @@ house,NV-1,D,civicapi
 house,NV-2,D,civicapi
 house,NV-3,D,civicapi
 house,NV-4,D,civicapi
+house,NY-17,D,civicapi
 house,NY-19,D,civicapi
 house,NY-21,R,civicapi
 house,NY-3,D,civicapi
