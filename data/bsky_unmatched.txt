@@ -1,3 +1,6 @@
+Trump Approval Polling:  Disapprove: 57% Approve: 42%  Rasmussen / Nov 5, 2026  (Republican Pollster)
+Here's the Governor Election Map Results  Blue - Correct call, winner outside 5% margin (8.3%) Green - Correct call, winner within 5% margin (88.9%)  Orange - Incorrect call, winner within 5% margin (2.8%) Red - Incorrect call, winner outside 5% margin (0%)
+Here's the Senate Election Map Results  Blue - Correct call, winner outside 5% margin (11.8%) Green - Correct call, winner within 5% margin (73.9%)  Orange - Incorrect call, winner within 5% margin (8.6%) Red - Incorrect call, winner outside 5% margin (0%)  Uncalled (5.7%)
 Trump Approval Polling:  Disapprove: 56% Approve: 43%  Rasmussen / Nov 4, 2026  (Republican Pollster)
 Barring the outcome in Kansas being confirmed  The only governorship that I missed was Texas (Even then Abbott only held a 0.9% lead on the model)
 So my Senate model missed:  - South Carolina going blue (Good god man!) - Iowa going blue (GOP had a 0.5% lead) - Nebraska going red (IND had a 0.2% lead)  Who knows about Alaska or Mississippi right now
@@ -60,4 +63,3 @@ Idaho - Governor Polling:  🔴 Little: 49%* 🔵 Pickens: 30% ⚪️ Stenger: 1
 Nebraska - Governor Polling:  🔴 Pillen 40%* 🔵 Walz 39%  GSG / Oct 18, 2026  (Walz Internal)
 Arizona - Governor Polling:  🔵 Hobbs: 51% 🔴 Biggs: 45%  GrayHouse / Oct 20, 2026
 New Jersey - 2nd House Polling:  🔴 Van Drew: 50%* 🔵 Mullock: 40%  Impact Research / Oct 10, 2026  (Democratic Pollster)  (Current model result for NJ-2: GOP 53% - DEM 47%)  unitedstatespolling.com/p/democrats-...
-South Dakota - Governor Polling:  🔴 Rhoden: 56%* 🔵 Ahlers: 38%  Emerson / Oct 20, 2026  (Current SD-GOV Result: GOP 53% - DEM 46%)  unitedstatespolling.com/p/democrats-...
