@@ -1,16 +1,4 @@
 ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pct_in,needle,dem_votes,rep_votes
-2026-11-04T04:14:53+00:00,TX-governor,TX,Sutton,county,184,-16,-8.7,32.9,53.6,9.55,84,100
-2026-11-04T04:14:53+00:00,TX-governor,TX,Crane,county,175,-23,-13.2,31.7,53.6,9.55,76,99
-2026-11-04T04:14:53+00:00,TX-governor,TX,Jeff Davis,county,168,56,33.4,30.7,53.6,9.55,112,56
-2026-11-04T04:14:53+00:00,TX-governor,TX,Dallam,county,167,-39,-23.2,32.8,53.6,9.55,64,103
-2026-11-04T04:14:53+00:00,TX-governor,TX,Knox,county,166,-18,-10.9,31.3,53.6,9.55,74,92
-2026-11-04T04:14:53+00:00,TX-governor,TX,Hardeman,county,165,-27,-16.4,30.7,53.6,9.55,69,96
-2026-11-04T04:14:53+00:00,TX-governor,TX,Upton,county,163,-29,-17.8,37.8,53.6,9.55,67,96
-2026-11-04T04:14:53+00:00,TX-governor,TX,Lipscomb,county,157,-41,-26.0,38.1,53.6,9.55,58,99
-2026-11-04T04:14:53+00:00,TX-governor,TX,Schleicher,county,154,-12,-7.7,31.8,53.6,9.55,71,83
-2026-11-04T04:14:53+00:00,TX-governor,TX,Concho,county,149,-25,-16.8,30.3,53.6,9.55,62,87
-2026-11-04T04:14:53+00:00,TX-governor,TX,Collingsworth,county,146,-34,-23.4,27.8,53.6,9.55,56,90
-2026-11-04T04:14:53+00:00,TX-governor,TX,Hall,county,142,-26,-18.3,36.7,53.6,9.55,58,84
 2026-11-04T04:14:53+00:00,TX-governor,TX,Armstrong,county,141,-41,-29.2,30.8,53.6,9.55,50,91
 2026-11-04T04:14:53+00:00,TX-governor,TX,Hudspeth,county,138,30,21.7,30.8,53.6,9.55,84,54
 2026-11-04T04:14:53+00:00,TX-governor,TX,Edwards,county,125,-17,-13.7,29.9,53.6,9.55,54,71
@@ -5999,3 +5987,15 @@ ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pc
 2026-11-07T17:03:35+00:00,FL-senate,FL,Osceola,county,109,151,100,99.9,99.4,-3.05,109,0
 2026-11-07T17:03:35+00:00,FL-senate,FL,Orange,county,106,31,28.8,99.9,99.4,-3.05,68,38
 2026-11-07T17:03:35+00:00,FL-senate,FL,Indian River,county,103,-24,-23.1,99.9,99.4,-3.05,40,63
+2026-11-10T00:09:54+00:00,GA-governor,GA,Newton,county,703,-443,-63.0,100.0,100.0,8.67,130,573
+2026-11-10T00:09:54+00:00,GA-governor,GA,Fulton,county,542,259,47.8,100.0,100.0,8.67,401,141
+2026-11-10T00:09:54+00:00,GA-governor,GA,DeKalb,county,349,243,69.6,100.0,100.0,8.67,296,53
+2026-11-10T00:09:54+00:00,GA-governor,GA,Gwinnett,county,271,88,32.5,100.0,100.0,8.67,180,91
+2026-11-10T00:09:54+00:00,GA-governor,GA,Cobb,county,255,57,22.4,100.0,100.0,8.67,156,99
+2026-11-10T00:09:54+00:00,GA-governor,GA,Bibb,county,129,95,73.5,100.0,100.0,8.67,112,17
+2026-11-10T00:09:54+00:00,GA-senate,GA,Newton,county,699,-306,-43.8,100.0,100.0,18.06,196,503
+2026-11-10T00:09:54+00:00,GA-senate,GA,Fulton,county,556,330,59.3,100.0,100.0,18.06,443,113
+2026-11-10T00:09:54+00:00,GA-senate,GA,DeKalb,county,388,301,77.5,100.0,100.0,18.06,344,44
+2026-11-10T00:09:54+00:00,GA-senate,GA,Cobb,county,288,98,34.2,100.0,100.0,18.06,193,95
+2026-11-10T00:09:54+00:00,GA-senate,GA,Gwinnett,county,273,116,42.6,100.0,100.0,18.06,195,78
+2026-11-10T00:09:54+00:00,GA-senate,GA,Bibb,county,135,161,100,100.0,100.0,18.06,135,0
