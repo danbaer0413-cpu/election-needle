@@ -1,5 +1,4 @@
 ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pct_in,needle,dem_votes,rep_votes
-2026-11-04T04:14:53+00:00,GA-governor,GA,Walton,county,3921,-1688,-43.0,100.0,94.0,8.36,1117,2804
 2026-11-04T04:14:53+00:00,GA-governor,GA,Forsyth,county,2894,-1305,-45.1,100.0,94.0,8.36,794,2100
 2026-11-04T04:14:53+00:00,GA-governor,GA,Newton,county,953,-385,-40.4,100.0,94.0,8.36,284,669
 2026-11-04T04:14:53+00:00,WI-governor,WI,Milwaukee,county,38666,13415,34.7,48.4,51.6,6.74,26040,12626
@@ -5999,3 +5998,4 @@ ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pc
 2026-11-12T03:05:29+00:00,MS-senate,MS,Washington,correction,-2581,-1380,,79.6,95.7,0.72,,
 2026-11-12T03:05:29+00:00,MS-senate,MS,Wayne,correction,-554,128,,93.9,95.7,0.72,,
 2026-11-12T03:05:29+00:00,MS-senate,MS,Wilkinson,correction,-235,-70,,94.5,95.7,0.72,,
+2026-11-12T04:38:40+00:00,AK-senate,AK,Statewide total,statewide,28306,3616,12.8,,90.6,1.97,15961,12345
