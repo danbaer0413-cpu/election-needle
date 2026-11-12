@@ -26,7 +26,6 @@ house,IA-3,D,civicapi
 house,IN-1,D,civicapi
 house,IN-5,D,civicapi
 house,KS-2,R,civicapi
-house,KY-6,D,civicapi
 house,MI-10,D,civicapi
 house,MI-4,D,civicapi
 house,MI-7,D,civicapi
@@ -86,7 +85,6 @@ senate,IA-senate,D,civicapi
 senate,KS-senate,D,civicapi
 senate,MI-senate,D,civicapi
 senate,MN-senate,D,civicapi
-senate,MS-senate,D,civicapi
 senate,NC-senate,D,civicapi
 senate,NE-senate,R,civicapi
 senate,NH-senate,D,civicapi
