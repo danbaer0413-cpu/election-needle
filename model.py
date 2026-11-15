@@ -59,6 +59,9 @@ class Params:
     tau_region: float = 2.0            # region-level spread
     sigma_nonrep: float = 12.0         # error of a county's counted pool when little is in
     sd_remaining: float = 4.0          # extra county-level noise on outstanding votes
+    sd_late_state: float = 8.0         # statewide shift of ALL outstanding votes vs the projection (late mail, provisionals, big-city precincts lean one way together).
+                                       # County noise above averages away across counties; this does not. 2026 night log: without it the 80% range held the final
+                                       # margin only 28-44% of the time at 50-85% counted; 8 points on the outstanding share brings that to 50-87%.
     slope_prior_sd: float = 0.12       # swing may differ by county lean: shift_i = S + beta*(m0_i - M0). beta is learned from counted counties; prior N(0, this).
                                        # 0.12 = a county 20 points bluer than the state moves 2.4 points more (or less) than average. 0 turns the slope off.
     # early vs Election Day
@@ -407,7 +410,7 @@ def project(counties, early=None, results=None, p: Params | None = None) -> dict
     num = rem_e * (em0 + shift) + rem_ed * (edm0 + shift)
     rm = np.where(rem > 0, num / np.maximum(rem, 1e-9), m0 + shift)
     # the last votes counted rarely look like the first ones (late mail, big precincts)
-    rm = np.clip(rm + rng.normal(0, p.sd_remaining, (n, K)), -100, 100)
+    rm = np.clip(rm + rng.normal(0, p.sd_remaining, (n, K)) + rng.normal(0, p.sd_late_state, (n, 1)), -100, 100)
     turn =np.exp(rng.normal(0, p.turnout_sd, (n, 1)) + rng.normal(0, p.county_turnout_sd, (n, K)))
     rem_t = rem * turn
     D = dem + rem_t * (0.5 + rm / 200)
