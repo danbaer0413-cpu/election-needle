@@ -1,0 +1,6 @@
+state,district,dem_name,dem_pct,rep_name,rep_pct,pct_in,as_of,source
+CA,23,Tessa Hodge,49.2,Jay Obernolte,50.8,100,2026-11-14 01:27,California SOS count via Poliwave
+NC,5,Chuck Hubbard,48.74,Virginia Foxx,48.62,100,2026-11-13 19:00,NC county canvasses (Charlotte Observer / WXII)
+NC,7,Kimberly Hardy,49.16,David Rouzer,49.86,100,2026-11-12 12:00,NC State Board count (Charlotte Observer)
+TN,4,Victoria Broderick,48.87,Scott DesJarlais,48.73,100,2026-11-06 12:00,Tennessee Secretary of State (Local 3 News)
+MN,1,Jake Johnson,50.0,Brad Finstad,49.9,100,2026-11-05 12:30,Minnesota SOS count (CBS Minnesota)
