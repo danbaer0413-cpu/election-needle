@@ -1,27 +1,4 @@
 ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pct_in,needle,dem_votes,rep_votes
-2026-11-04T04:14:53+00:00,MN-governor,MN,Lake Of The Woods,county,342,-170,-49.7,19.2,16.8,12.82,86,256
-2026-11-04T04:14:53+00:00,MN-governor,MN,Mahnomen,county,314,-36,-11.5,17.5,16.8,12.82,139,175
-2026-11-04T04:14:53+00:00,MN-governor,MN,Red Lake,county,298,-94,-31.6,17.1,16.8,12.82,102,196
-2026-11-04T04:14:53+00:00,MN-governor,MN,Traverse,county,285,-79,-27.7,18.7,16.8,12.82,103,182
-2026-11-04T04:14:53+00:00,NH-governor,NH,Statewide total,statewide,48959,-383,-0.8,,68.4,-2.81,24288,24671
-2026-11-04T04:14:53+00:00,NC-senate,NC,Wake,county,20587,7198,35.0,76.2,77.1,14.99,13893,6694
-2026-11-04T04:24:09+00:00,FL-governor,FL,Lake,county,432,-69,-16.0,93.8,92.4,-2.28,181,251
-2026-11-04T04:24:09+00:00,WI-governor,WI,Dane,county,5524,3320,60.1,67.8,51.6,6.65,4422,1102
-2026-11-04T04:24:09+00:00,WI-governor,WI,Brown,correction,-296,-223,,47.9,51.6,6.65,,
-2026-11-04T04:24:09+00:00,WI-governor,WI,Dodge,correction,-101,-25,,50.6,51.6,6.65,,
-2026-11-04T04:24:09+00:00,WI-governor,WI,Eau Claire,correction,-125,-87,,48.2,51.6,6.65,,
-2026-11-04T04:24:09+00:00,WI-governor,WI,Fond Du Lac,correction,-119,-33,,51.8,51.6,6.65,,
-2026-11-04T04:24:09+00:00,WI-governor,WI,Kenosha,correction,-172,-137,,45.6,51.6,6.65,,
-2026-11-04T04:24:09+00:00,WI-governor,WI,La Crosse,correction,-144,-101,,45.1,51.6,6.65,,
-2026-11-04T04:24:09+00:00,WI-governor,WI,Marathon,correction,-159,-102,,48.6,51.6,6.65,,
-2026-11-04T04:24:09+00:00,WI-governor,WI,Milwaukee,correction,-940,-901,,48.3,51.6,6.65,,
-2026-11-04T04:24:09+00:00,WI-governor,WI,Outagamie,correction,-219,-102,,47.4,51.6,6.65,,
-2026-11-04T04:24:09+00:00,WI-governor,WI,Ozaukee,correction,-135,-90,,44.4,51.6,6.65,,
-2026-11-04T04:24:09+00:00,WI-governor,WI,Racine,correction,-215,-108,,45.1,51.6,6.65,,
-2026-11-04T04:24:09+00:00,WI-governor,WI,Rock,correction,-171,-118,,47.8,51.6,6.65,,
-2026-11-04T04:24:09+00:00,WI-governor,WI,Sheboygan,correction,-139,-53,,49.4,51.6,6.65,,
-2026-11-04T04:24:09+00:00,WI-governor,WI,St. Croix,correction,-110,-43,,45.0,51.6,6.65,,
-2026-11-04T04:24:09+00:00,WI-governor,WI,Walworth,correction,-118,-73,,44.8,51.6,6.65,,
 2026-11-04T04:24:09+00:00,WI-governor,WI,Washington,correction,-189,-31,,42.4,51.6,6.65,,
 2026-11-04T04:24:09+00:00,WI-governor,WI,Winnebago,correction,-193,-152,,46.6,51.6,6.65,,
 2026-11-04T04:24:09+00:00,FL-senate,FL,Lake,county,425,-79,-18.7,94.1,92.7,-3.81,173,252
@@ -5999,3 +5976,26 @@ ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pc
 2026-11-14T20:37:49+00:00,IA-governor,IA,Story,correction,-994,936,,99.9,100.0,10.98,,
 2026-11-14T20:37:49+00:00,IA-governor,IA,Warren,correction,-1274,-603,,99.9,100.0,10.98,,
 2026-11-14T20:37:49+00:00,IA-governor,IA,Woodbury,correction,-1595,-1640,,99.9,100.0,10.98,,
+2026-11-17T00:10:02+00:00,FL-governor,FL,Palm Beach,county,238,595,100,99.9,99.2,-1.48,238,0
+2026-11-17T00:10:02+00:00,FL-governor,FL,Hillsborough,county,110,13,11.8,99.9,99.2,-1.48,61,49
+2026-11-17T00:10:02+00:00,WI-governor,WI,Waukesha,county,5040,-5683,-100,99.9,100.0,7.99,0,5040
+2026-11-17T00:10:02+00:00,WI-governor,WI,Brown,correction,-270,345,,99.9,100.0,7.99,,
+2026-11-17T00:10:02+00:00,WI-governor,WI,Eau Claire,correction,-114,75,,99.9,100.0,7.99,,
+2026-11-17T00:10:02+00:00,WI-governor,WI,Fond Du Lac,correction,-109,116,,99.9,100.0,7.99,,
+2026-11-17T00:10:02+00:00,WI-governor,WI,Kenosha,correction,-157,127,,99.9,100.0,7.99,,
+2026-11-17T00:10:02+00:00,WI-governor,WI,La Crosse,correction,-131,85,,99.9,100.0,7.99,,
+2026-11-17T00:10:02+00:00,WI-governor,WI,Marathon,correction,-146,141,,99.9,100.0,7.99,,
+2026-11-17T00:10:02+00:00,WI-governor,WI,Milwaukee,correction,-858,694,,99.9,100.0,7.99,,
+2026-11-17T00:10:02+00:00,WI-governor,WI,Outagamie,correction,-201,176,,99.9,100.0,7.99,,
+2026-11-17T00:10:02+00:00,WI-governor,WI,Ozaukee,correction,-122,114,,99.9,100.0,7.99,,
+2026-11-17T00:10:02+00:00,WI-governor,WI,Racine,correction,-197,249,,99.9,100.0,7.99,,
+2026-11-17T00:10:02+00:00,WI-governor,WI,Rock,correction,-156,169,,99.9,100.0,7.99,,
+2026-11-17T00:10:02+00:00,WI-governor,WI,Sheboygan,correction,-126,174,,99.9,100.0,7.99,,
+2026-11-17T00:10:02+00:00,WI-governor,WI,St. Croix,correction,-101,139,,99.9,100.0,7.99,,
+2026-11-17T00:10:02+00:00,WI-governor,WI,Walworth,correction,-108,152,,99.9,100.0,7.99,,
+2026-11-17T00:10:02+00:00,WI-governor,WI,Washington,correction,-172,276,,99.9,100.0,7.99,,
+2026-11-17T00:10:02+00:00,WI-governor,WI,Winnebago,correction,-177,220,,99.9,100.0,7.99,,
+2026-11-17T00:10:02+00:00,FL-senate,FL,Palm Beach,county,240,25,10.4,99.9,99.4,-3.03,132,108
+2026-11-17T00:10:02+00:00,FL-senate,FL,Hillsborough,county,115,10,9.1,99.9,99.4,-3.03,63,52
+2026-11-17T00:10:02+00:00,FL-senate,FL,Miami-Dade,county,106,8,7.2,99.9,99.4,-3.03,57,49
+2026-11-17T00:10:02+00:00,FL-senate,FL,Broward,county,103,34,32.6,99.9,99.4,-3.03,68,35
