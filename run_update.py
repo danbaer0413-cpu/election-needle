@@ -39,7 +39,7 @@ def _read(path):
 import votehub_feed
 STATE_NAMES = {"AK": "Alaska", "FL": "Florida", "GA": "Georgia", "IA": "Iowa", "KS": "Kansas", "ME": "Maine", "MI": "Michigan",
                "MN": "Minnesota", "MS": "Mississippi", "NE": "Nebraska", "NH": "New Hampshire", "NV": "Nevada", "OH": "Ohio",
-               "SC": "South Carolina", "TX": "Texas", "WI": "Wisconsin", "NC": "North Carolina"}
+               "SC": "South Carolina", "TX": "Texas", "WI": "Wisconsin", "NC": "North Carolina", "LA": "Louisiana"}
 
 
 def load_early(cfg: dict, folder: str):
@@ -245,14 +245,15 @@ def run(config_path: str, out_path: str, log_path: str, only: str | None = None)
                 results = load_results(r, folder, rid, feedmap)
                 extra, sw_auto = sources.load_race(rid)
                 results = sources.merge_results(results, extra)
-                hp = house_live.county_pct_for(r.get("state"), counties["county"])
+                # Nov 3 House progress says nothing about a later race (Louisiana's Dec 12 runoffs carry their own date)
+                hp = {} if r.get("date") else house_live.county_pct_for(r.get("state"), counties["county"])
                 if hp:
                     print(f"  {rid}: House progress gives % counted for {len(hp)} counties")
                 results = statewide_mode.build(counties, results, folder, rid, statewide=sw_auto, extra_pct=hp)
                 rr = dict(r)
                 if rr.get("poll_margin") is None and rid in pollmap:
                     rr["poll_margin"] = pollmap[rid]
-                if rr.get("poll_margin") is None and (results is None or not len(results)):
+                if rr.get("poll_margin") is None and "fund_margin" not in (rr.get("params") or {}) and (results is None or not len(results)):
                     races[rid] = {"meta": meta, "status": "baseline ready, waiting for polls", "checked": now,
                                   "summary": prev.get("summary"), "as_of": prev.get("as_of")}
                     continue

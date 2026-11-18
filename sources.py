@@ -111,7 +111,7 @@ def load_race(rid: str, path="config/sources.csv", log=print):
     if not len(s):
         return None, None
     from feeds import load_feed
-    parts, sw = [], None
+    parts, sw, civic_sw = [], None, None
     for row in s.to_dict("records"):
         scope = (row.get("scope") or "counties").strip()
         sw_name = (row.get("switch") or "").strip()
@@ -124,9 +124,24 @@ def load_race(rid: str, path="config/sources.csv", log=print):
                 cdf, csw, cinfo = civic_results.read_race(rid, rid.split("-")[0], log=log)
                 if cdf is not None and len(cdf):
                     parts.append(cdf[["county", "dem", "rep", "final"]])
+                civic_sw = csw or civic_sw
                 if csw and (sw is None or csw["dem"] + csw["rep"] > sw["dem"] + sw["rep"]):
                     sw = dict(dem=csw["dem"], rep=csw["rep"])
                 log(f"  {tag}: {cinfo.get('regions', 0)} regions, statewide D {cinfo.get('D', 0):,.0f} R {cinfo.get('R', 0):,.0f}")
+                continue
+            if scope == "la_sos":                              # Louisiana SOS district total + cross-check vs civicAPI (la_sos.py)
+                import la_sos
+                import civic_results
+                dn, rn = _surnames(rid)
+                t = la_sos.read(rid, row.get("sheet"), civic_results.race_date(rid), dn, rn)
+                if not civic_results.polls_closed(rid.split("-")[0], rid=rid) and os.environ.get("CIVIC_ALLOW_TEST") != "1":
+                    log(f"  {tag}: polls not closed yet; not used")
+                    continue
+                if t["dem"] + t["rep"] > 0:
+                    la_sos.log_check(rid, t, civic_sw, log=log)
+                    if sw is None or t["dem"] + t["rep"] > sw["dem"] + sw["rep"]:
+                        sw = dict(dem=t["dem"], rep=t["rep"])
+                log(f"  {tag}: district D {t['dem']:,.0f} R {t['rep']:,.0f}, {t['precincts']}/{t['expected']} precincts")
                 continue
             if scope == "counties":
                 df = load_feed(row)

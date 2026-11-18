@@ -455,6 +455,48 @@
     "early_gap_max": 40.0,
     "turnout_mult_fixed": 1.0
    }
+  },
+  {
+   "id": "LA-house-5",
+   "state": "LA",
+   "race": "U.S. House 5 (runoff)",
+   "level": "Federal",
+   "dir": "data/LA/u-s-house-5-runoff",
+   "poll_margin": null,
+   "date": "2026-12-12",
+   "poll_close_utc": "2026-12-13T02:00",
+   "_note_prior": "No polls. The prior is the Nov 3 first round with every candidate pooled by party (D 84,210 vs R 143,713 = -26.1), sd 7 for a December runoff with lower turnout. Parish baseline = the same first-round party split (data/civic_2026-11-03, civicAPI); expected votes = 55% of first-round ballots.",
+   "params": {
+    "fund_margin": -26.1,
+    "sd_fund": 7.0,
+    "third_share": 0.0,
+    "early_first": true,
+    "early_gap": 6.0,
+    "sd_gap": 5.0,
+    "turnout_sd": 0.15,
+    "county_turnout_sd": 0.08
+   }
+  },
+  {
+   "id": "LA-house-6",
+   "state": "LA",
+   "race": "U.S. House 6 (runoff)",
+   "level": "Federal",
+   "dir": "data/LA/u-s-house-6-runoff",
+   "poll_margin": null,
+   "date": "2026-12-12",
+   "poll_close_utc": "2026-12-13T02:00",
+   "_note_prior": "No polls. The prior is the Nov 3 first round with every candidate pooled by party (D 108,505 vs R 150,729 = -16.3), sd 7 for a December runoff with lower turnout. Parish baseline = the same first-round party split (data/civic_2026-11-03, civicAPI); expected votes = 55% of first-round ballots.",
+   "params": {
+    "fund_margin": -16.3,
+    "sd_fund": 7.0,
+    "third_share": 0.0,
+    "early_first": true,
+    "early_gap": 6.0,
+    "sd_gap": 5.0,
+    "turnout_sd": 0.15,
+    "county_turnout_sd": 0.08
+   }
   }
  ],
  "_note": "third_share values for GA, ME and AK are placeholders: set them from polls or past results. rcv_history CSVs (past ranked-choice contests) calibrate the transfer skew; see rcv.py.",

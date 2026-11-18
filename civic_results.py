@@ -52,10 +52,14 @@ def _get(path, timeout=12):
         raise
 
 
-def _kind(name: str):
+def _kind(name: str, runoff_ok: bool = False):
+    """'senate', 'governor', 'house-<N>' or None. Runoff races only count when runoff_ok (a race dated after the general)."""
     n = str(name)
-    if "primary" in n.lower() or "runoff" in n.lower():
+    if "primary" in n.lower() or ("runoff" in n.lower() and not runoff_ok):
         return None
+    m = re.search(r"(?:US|U\.S\.) (?:House|Representative)\D{0,40}?(\d+)", n)
+    if m and "State House" not in n:
+        return f"house-{int(m.group(1))}"
     if "Senate" in n and "State Senate" not in n:
         return "senate"
     if "Governor" in n and not re.search(r"Lieutenant|Board|College|University", n):
@@ -73,12 +77,31 @@ def _date_ok(r, date):
 
 
 def _want(rid: str):
+    m = re.search(r"-house-(\d+)", rid.lower())
+    if m:
+        return f"house-{int(m.group(1))}"
     return "governor" if rid.lower().endswith("governor") else "senate"
 
 
-def find_race(rid: str, state: str, date: str = DATE, get=None, log=print):
+def _race_cfg(rid: str) -> dict:
+    """This race's entry in config/races.json ({} if missing). Races after the general carry their own date and poll_close_utc."""
+    try:
+        for r in json.load(open("config/races.json"))["races"]:
+            if r["id"] == rid:
+                return r
+    except Exception:
+        pass
+    return {}
+
+
+def race_date(rid: str) -> str:
+    return _race_cfg(rid).get("date") or DATE
+
+
+def find_race(rid: str, state: str, date: str | None = None, get=None, log=print):
     """civicAPI race id for our race, cached per (race, date)."""
     get = get or _get
+    date = date or race_date(rid)
     cache = {}
     if os.path.exists(CACHE):
         try:
@@ -103,7 +126,7 @@ def find_race(rid: str, state: str, date: str = DATE, get=None, log=print):
         _SEARCH[sk] = js
         races = (js or {}).get("races") or []
         for r in races:
-            if _kind(r.get("election_name")) == want and _date_ok(r, date):
+            if _kind(r.get("election_name"), runoff_ok=(date != DATE)) == want and _date_ok(r, date):
                 hits.append(r)
         if len(races) < 1000:
             break
@@ -132,10 +155,10 @@ POLL_CLOSE_UTC = {"GA": "2026-11-04T00:00", "SC": "2026-11-04T00:00", "FL": "202
                   "AK": "2026-11-04T05:00"}
 
 
-def polls_closed(state, now=None):
+def polls_closed(state, now=None, rid=None):
     import datetime as _dt
     now = now or _dt.datetime.now(_dt.timezone.utc)
-    t = POLL_CLOSE_UTC.get(state, "2026-11-03T23:00")
+    t = (_race_cfg(rid).get("poll_close_utc") if rid else None) or POLL_CLOSE_UTC.get(state, "2026-11-03T23:00")
     return now >= _dt.datetime.fromisoformat(t).replace(tzinfo=_dt.timezone.utc)
 
 
@@ -242,9 +265,10 @@ def _clean_region(name, state):
     return s
 
 
-def read_race(rid: str, state: str, date: str = DATE, get=None, log=print):
+def read_race(rid: str, state: str, date: str | None = None, get=None, log=print):
     """-> (county DataFrame or None, statewide dict or None, info dict)."""
     get = get or _get
+    date = date or race_date(rid)
     cid = find_race(rid, state, date, get=get, log=log)
     if cid is None:
         return None, None, {}
@@ -254,7 +278,7 @@ def read_race(rid: str, state: str, date: str = DATE, get=None, log=print):
     if d.get("test_data") and os.environ.get("CIVIC_ALLOW_TEST") != "1":
         log(f"  civicAPI {rid}: race flagged test_data; not used")
         return None, None, info
-    if not polls_closed(state) and os.environ.get("CIVIC_ALLOW_TEST") != "1":
+    if not polls_closed(state, rid=rid) and os.environ.get("CIVIC_ALLOW_TEST") != "1":
         log(f"  civicAPI {rid}: polls not closed yet in {state}; numbers not used")
         return None, None, info
     dem_sn, rep_sn = _surnames(rid)
@@ -296,7 +320,7 @@ def read_race(rid: str, state: str, date: str = DATE, get=None, log=print):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--date", default=DATE)
+    ap.add_argument("--date", default=None, help="default: each race's own date (config/races.json), else Nov 3")
     ap.add_argument("--only", default=None)
     ap.add_argument("--config", default="config/races.json")
     a = ap.parse_args()

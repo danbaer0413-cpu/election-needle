@@ -6,5 +6,8 @@
   "house": true,
   "electionhub": true,
   "votehub": true,
-  "votehub_swing": true
+  "votehub_swing": true,
+  "civic_runoff": true,
+  "la_sos": true,
+  "_note_runoff": "civic_runoff and la_sos feed only the Louisiana Dec 12 House runoffs (LA-house-5, LA-house-6); the Nov 3 'civic' switch stays off."
 }
