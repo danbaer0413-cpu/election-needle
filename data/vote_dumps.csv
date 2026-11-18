@@ -1,6 +1,4 @@
 ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pct_in,needle,dem_votes,rep_votes
-2026-11-04T04:45:08+00:00,MN-senate,MN,Wadena,county,723,-423,-58.6,28.2,27.3,4.44,150,573
-2026-11-04T04:45:08+00:00,MN-senate,MN,Lake,county,712,-44,-6.2,28.5,27.3,4.44,334,378
 2026-11-04T04:45:08+00:00,MN-senate,MN,Pope,county,697,-235,-33.7,28.7,27.3,4.44,231,466
 2026-11-04T04:45:08+00:00,MN-senate,MN,Pennington,county,664,-239,-36.1,29.4,27.3,4.44,212,452
 2026-11-04T04:45:08+00:00,MN-senate,MN,Koochiching,county,645,-170,-26.4,25.4,27.3,4.44,237,408
@@ -5999,3 +5997,5 @@ ts_utc,race,state,county,kind,added,batch_net,batch_margin,county_pct_in,race_pc
 2026-11-18T03:58:31+00:00,IA-governor,IA,Winneshiek,correction,-471,220,,100.0,100.0,11.08,,
 2026-11-18T03:58:31+00:00,IA-governor,IA,Worth,correction,-200,-190,,100.0,100.0,11.08,,
 2026-11-18T03:58:31+00:00,IA-governor,IA,Wright,correction,-316,334,,100.0,100.0,11.08,,
+2026-11-18T12:30:09+00:00,NV-governor,NV,Statewide total,statewide,216619,253270,116.9,,83.1,12.26,216619,0
+2026-11-18T12:30:09+00:00,NV-governor,NV,Clark,correction,-216619,-253195,,68.9,83.1,12.26,,
