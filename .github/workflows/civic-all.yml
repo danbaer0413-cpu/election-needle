@@ -1,0 +1,38 @@
+name: civic-all
+# Everything civicAPI has for one election date (every race, candidate votes, county breakdowns) -> data/civic_<date>/.
+# Resumes where the last run stopped; run again until status.json lists every state.
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Election date (YYYY-MM-DD)"
+        default: "2026-11-03"
+      states:
+        description: "Only these states, comma-separated (blank = all not yet saved)"
+        default: ""
+      force:
+        description: "Redo states already saved (true/false)"
+        default: "false"
+permissions:
+  contents: write
+concurrency:
+  group: civic-all
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests pandas
+      - run: python civic_all.py --date "${{ inputs.date }}" --states "${{ inputs.states }}" $([ "${{ inputs.force }}" = "true" ] && echo --force)
+        continue-on-error: true
+      - name: Commit
+        run: |
+          git config user.name needle-bot
+          git config user.email needle-bot@users.noreply.github.com
+          git add data/civic_*
+          git diff --cached --quiet || git commit -m "civicAPI: all races for ${{ inputs.date }}"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
