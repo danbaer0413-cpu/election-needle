@@ -1,0 +1,543 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" http-equiv="content-encoding" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Louisiana Secretary of State - Live Election Results</title>
+    <script src="/ElectionResults/GraphicalConfig" type="text/javascript"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SY4F1KM3M7"></script>
+    <script type="text/javascript" src="/AnalyticsGTagSetup" id="analyticsGTagSetup"></script>
+    <link href="/graphicalcssbundle?v=Rmp9DLe8AIxBrUE05kGUvGFQw7gPEDuZeRYGPPu9hTE1" rel="stylesheet"/>
+
+    <script src="/bundles/isBrowserSupported?v=ZOhkVuGTOV8aJgkuLEqbOTBWeauNYMRT9ONif4w6xos1"></script>
+
+    <script src="/bundles/thirdPartyResults?v=hhoEw6QQYZqE8WHraZJo9DK6gw6IHgjBz3wDDYv9AV01"></script>
+
+    <script src="/bundles/graphicalresults?v=cIm8yGz__OufYjw9EhdZgZBxy8qhq7TaHRR_ZKepPws1"></script>
+
+    <link rel="SHORTCUT ICON" href="/favicon.ico" />
+</head>
+<body ng-app="electionResultsApp" ng-controller="graphicalCtrl" ng-strict-di>
+    <main>
+        <div class="container smaller-phone" style="position: relative;">
+
+            <div class="refresh-time smaller-phone ng-cloak" ng-show="inElectionMode">
+                <span class="hidden-xs">Results will automatically</span>
+                <span class="visible-xs">Automatic</span> update in:
+                <span style="display: inline-block; width: 2.3em; text-align: right;">{{recheckString}}</span>
+                <span class="glyphicon glyphicon-question-sign" style="cursor: pointer" ng-click="openTimerNotice()"></span>
+            </div>
+
+            <div class="row row-masthead swamp-banner" style="position: relative; padding: 0">
+                <div class="col-xs-12"><h2 class="visible-print" style="text-align: center;">Louisiana Secretary of State</h2></div>
+                <div class="col-xs-12 hidden-print" style="height: 100%">
+                    <a href="https://sos.la.gov">
+                        <img src="/Images/banner-geaux-vote.png" class="geaux-image hidden-xs hidden-sm" alt="Home" />
+                        <img src="/Images/banner-geaux-vote-small.png" class="geaux-image hidden-md hidden-lg" alt="Home" />
+                    </a>
+                    <img src="/Images/sos-seal.png" class="seal-image hidden-xs hidden-sm" alt="" />
+                    <a href="https://sos.la.gov" title="Louisiana Secretary of State Home Page">
+                        <img src="/Images/label-medium.png" class="label-image" alt="Louisiana Secretary of State Home Page" />
+                    </a>
+                </div>
+            </div>
+
+            <div class="row row-top-menu" style="min-height: 0; height: 8px;">
+            </div>
+
+            <div style="text-align: center; position: relative; margin-top: -11px; margin-bottom: -7px;">
+                <div class="result-message">
+                    <span style="padding: 2px 0;" class="smaller-phone ng-cloak">{{resultsMessage}}</span>
+                </div>
+
+                <div class="graphical-site-message" ng-show="siteMessage != null">
+                    <span ng-bind-html="siteMessage"></span>
+                </div>
+            </div>
+
+            
+
+
+            <div class="content graphical-content" style="min-height: 300px; position: relative;">
+                <label for="ElectionId">Election</label>
+                <select id="ElectionId" class="form-control" style="width: 12.5em; display: inline-block;"
+                        ng-model="selected.election"
+                        ng-options="election.dateFormatted for election in electionList"></select>
+
+                <ul class="nav nav-tabs ng-cloak" style="margin-top: 5px;">
+                    <li role="presentation" ng-repeat="tab in tabs" class="{{tab.title == selected.tab ? 'active' : null}}"><a ng-click="navigate(tab.title)">{{tab.title == "Federal" ? "Congressional" : tab.title}}</a></li>
+                </ul>
+
+                <gr-tab-parish class="tab-element"
+                               ng-show="tab == 'parish'"
+                               active="tab == 'parish'"
+                               configuration="configuration"
+                               election="selected.election"
+                               parishes-in-election-list="parishesInElectionList"
+                               parish-race-list="parishRaceList"></gr-tab-parish>
+                <gr-tab-statistics class="tab-element"
+                                   ng-show="tab == 'statistics'"
+                                   active="tab == 'statistics'"
+                                   election="selected.election"
+                                   stats-categories="statsCategories"
+                                   statistics="statistics"></gr-tab-statistics>
+                <gr-tab-multiparish category="selected.tab"
+                                    ng-show="(tab == 'presidential' || tab == 'congressional' || tab == 'legislative' || tab == 'statewide' || tab == 'multiparish')"
+                                    active="(tab == 'presidential' || tab == 'congressional' || tab == 'legislative' || tab == 'statewide' || tab == 'multiparish')"
+                                    class="tab-element"
+                                    configuration="configuration"
+                                    election="selected.election"
+                                    race-list="raceList"></gr-tab-multiparish>
+            </div>
+
+            <div class="row graphical-footer">
+                <div class="col-md-2 col-sm-4 col-xs-9 col-xs-offset-3 col-sm-offset-0" style="min-height: 2.6em;">
+                    <button class="btn btn-default btn-sm smaller-phone" ng-click="chooseCSV()" ng-show="showCSV" title="Download CSV Results"
+                            style="margin: .4em; color: black; float: left;">
+                        <span class="glyphicon glyphicon-file"></span>&nbsp;<b>Download Results</b>
+                    </button>
+                </div>
+                <div class="col-md-8 col-sm-8 col-xs-12" smaller-phone" style="text-align: center; padding-top: .4em;">
+                    Copyright &copy; 2026 Louisiana Department of State
+                </div>
+                <div class="col-md-2 hidden-sm">
+                </div>
+            </div>
+            <gr-csv active="showCSVFlag" race="race"></gr-csv>
+            <gr-timer-notice active="showTimerNoticeFlag" id="timerNotice"></gr-timer-notice>
+        </div>
+        <script type="text/javascript" src="/AnalyticsScript" id="analyticsScript" ></script>
+
+        
+        <script id="TabMultiParish" type="text/template">
+            <div ng-repeat="race in raceList" class="race-container">
+                <gr-race race="race" election="election" configuration="configuration"></gr-race>
+            </div>
+        </script>
+
+        <script id="TabParishTemplate" type="text/template">
+            <div ng-show="!resultsMode" class="form-group form-inline parish-group">
+                <select class="form-control parish-select" title="Selected Parish" ng-model="selectedParish" style="margin-top: .3em">
+                    <option class="ng-cloak" ng-repeat="p in parishesInElectionList" value="{{p.value}}">{{p.name}} - {{p.precinctsReported}} of {{p.precincts}} precincts reporting</option>
+                </select>
+                <input type="button" class="btn btn-sm btn-default" style="margin-top: .3em;" ng-click="viewClicked()" value="View Results" />
+                <table class="map-key smaller-phone">
+                    <tr><td><div class="map-key map-key-complete"></div></td><td>Complete Results</td></tr>
+                    <tr><td><div class="map-key map-key-incomplete"></div></td><td>Incomplete Results</td></tr>
+                    <tr><td><div class="map-key map-key-selected"></div></td><td>Selected Parish</td></tr>
+                    <tr><td><div class="map-key map-key-none"></div></td><td>No Races</td></tr>
+                </table>
+                <gr-state-map map-type="::parishMapType" map-style="::parishMapStyle" participating-regions="participatingRegions" selected-region="selectedParish" area-titles="parishesInElectionList"></gr-state-map>
+            </div>
+            <div ng-show="resultsMode">
+                <div class="row parish-header">
+                    <div class="col-sm-7"><h1 class="ng-cloak">{{parishName}} Parish</h1></div>
+                    <div class="col-sm-5 change-parish"><a ng-click="changeParish()">change parish</a></div>
+                </div>
+                <div ng-repeat="race in parishRaceList" class="race-container">
+                    <gr-race race="race" election="election" configuration="configuration" parish-value="parishValue" mode="parish"></gr-race>
+                </div>
+            </div>
+        </script>
+
+        <script id="TabStatisticsTemplate" type="text/template">
+            <div class="well well-sm" style="margin-bottom: 2px;" ng-show="showStats">
+                <span class="smaller-phone">
+                    The statistics tab allows you to view qualified voter statistics for the election. This does not include all
+                    registered voters, but only registered voters who are qualified to vote in this election.
+                </span>
+            </div>
+            <div ng-show="!resultsMode">
+                <div class="row">
+                    <div class="col-sm-6" ng-show="showStats">
+                        <p class="smaller-phone" style="margin-top: .5em;">
+                            Select a jurisdiction to view qualified voter statistics
+                        </p>
+                        <div class="form-group">
+                            <select class="form-control stats-select" title="Stats Category" ng-model="statsCategorySelected" ng-options="category as category.name for category in statsCategories track by category.name"></select>
+                        </div>
+                        <div class="form-group">
+                            <select class="form-control stats-select" title="Stats Category Option" ng-model="statsCategoryOptionSelected" ng-options="option as option for option in statsCategoryOptions track by option"></select>
+                        </div>
+                        <input type="button" class="btn btn-default btn-sm" value="View Statistics" ng-click="viewClicked()" />
+                    </div>
+                    <div class="col-sm-6 {{showStats ? '' : 'files-not-stats'}}">
+                        <div ng-show="!showStats" style="font-size: 1.2em;"><b>Post Election Statistics</b></div>
+                        <div class="btn-group-vertical" role="group" style="margin-top: 0.5em;">
+                            <a ng-repeat="f in files" class="btn btn-sm btn-default stats-button" href="{{f.url}}" target="_blank" rel="noopener noreferrer"><img ng-src="/Areas/ElectionResults/Content/{{f.image}}">&nbsp;{{f.label}}</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div ng-show="resultsMode" class="row">
+                <div class="col-md-7" ng-show="resultsMode" style="max-width: 550px;">
+                    <div style="margin-bottom: .4em;">
+                        <h2 style="display: inline-block;">{{statsCategoryDisplay}}</h2>
+                        <input type="button" class="btn btn-default btn-sm" value="Change Jurisdiction" ng-click="changeJurisdiction()" />
+                    </div>
+                    <select ng-model="statsFilter" title="Stats Filter" class="form-control" style="width: 10em;">
+                        <option>Party</option>
+                        <option>Race</option>
+                        <option>Gender</option>
+                    </select>
+                    <gr-stats-table stats="jurisdictionStats" stats-filter="statsFilter" election="election"></gr-stats-table>
+                </div>
+                <div class="col-md-5" style="min-width: 365px; ">
+                    <div class="visible-lg visible-md" style="min-height: 62px;">&nbsp;</div>
+                    <div ng-show="jurisdictionStats != null" class="pull-left hidden-xs" gr-pie-chart height="175" width="175" padding="30" svg-id="stats-jurisdiction-graphic" chart-title="{{statsFilter}}" chart-id="stats-jurisdiction-pie-chart" chart-height="20" pie-chart-data="jurisdictionPieChartData"></div>
+                    <div ng-show="jurisdictionStats != null && !hideTurnoutChart" class="pull-right hidden-xs" gr-bar-chart height="175" width="175" svg-id="stats-jurisdiction-bar" chart-title="{{statsFilter}}" chart-id="stats-jurisdiction-bar-chart" chart-height="20" bar-chart-data="jurisdictionBarChartData"></div>
+                </div>
+            </div>
+            <div class="form-group form-inline parish-group">
+                <table class="map-key smaller-phone">
+                    <tr><td><div class="map-key map-key-incomplete"></div></td><td>Qualified Voters</td></tr>
+                    <tr><td><div class="map-key map-key-none"></div></td><td>No Qualified Voters</td></tr>
+                    <tr><td><div class="map-key map-key-selected"></div></td><td>Selected</td></tr>
+                </table>
+                <gr-state-map ng-show="showStats" map-type="mapType" election-date="electionShortDateString" map-style="::mapStyle"
+                              participating-regions="participatingRegions" selected-region="selectedRegion" area-titles="statsCategoryOptions"></gr-state-map>
+            </div>
+        </script>
+
+        <script id="RaceTemplate" type="text/template">
+            <div class="title-wrapper">
+                <div class="race-title">
+                    <span class="smaller-phone race-title-text" ng-class="titleClass" ng-click="showFullText()">{{race.specificTitle}}</span>
+                    <span ng-show="showMultiparishText" class="smaller-phone"><br />Runs in multiple parishes</span>
+                    <div class="smaller-phone" ng-bind="::multiToBeElectedText"></div>
+                </div>
+                <div data-race-id="{{race.id}}" class="race-buttons">
+                    <input type="button" class="btn btn-default btn-xs smaller-phone" ng-click="showVoterStats()" ng-show="showStatsButton" title="Voter Statistics" value="Voter Stats" />
+                    <input type="button" class="btn btn-default btn-xs smaller-phone" ng-click="showEarlyVoting()" title="Early Voting" value="Early Voting" />
+                    <input type="button" class="btn btn-default btn-xs smaller-phone" ng-click="showParishResults()" ng-show="showParishButton" title="Parish Results" value="Parish Results" />
+                    <input type="button" class="btn btn-default btn-xs smaller-phone" ng-click="showPrecinctResults()" ng-show="showPrecinctButton" title="Precinct Results" value="Precinct Results" />
+                </div>
+            </div>
+            <div style="clear: both;"></div>
+            <div class="header-wrapper">
+                <div class="reporting-header race-header">
+                    <span ng-class="{ 'attention': (race.absenteeReporting !== race.absenteeExpected) }">Early & Absentee Reporting - {{race.absenteeReporting}} of {{race.absenteeExpected}} parishes</span>
+                    <br />
+                    <span ng-class="{ 'attention': (race.precinctsReporting !== race.precinctsExpected) }">Election Day Reporting - {{race.precinctsReporting}} of {{race.precinctsExpected}} precincts</span>
+                </div>
+                <div class="votes-header race-header">Votes</div>
+            </div>
+            <div gr-choices ng-class="nameWidthClass" choices="race.choices"></div>
+            <div style="clear: both;">
+                <div class="total-votes race-header" style="padding-left:10px;">Total:&nbsp;<span ng-bind-html="race.totalVotes|commas"></span></div>
+                <div class="race-header" ng-bind-html="race.turnout" ></div>
+                <div style="clear: both;"></div>
+            </div>
+            <gr-voter-stats active="showVoterStatsFlag"
+                            race="race"
+                            parish-value="parishValue">
+            </gr-voter-stats>
+            <gr-early-voting active="showEarlyVotingFlag"
+                             race="race"
+                             parish-value="parishValue">
+            </gr-early-voting>
+            <gr-parish-results active="showParishResultsFlag"
+                               race="race"
+                               parish-value="parishValue">
+            </gr-parish-results>
+            <gr-ref-text active="showFullTextFlag"
+                         race="race"
+                         parish-value="parishValue">
+            </gr-ref-text>
+        </script>
+
+        <script id="RaceSimpleTemplate" type="text/template">
+            <div style="clear: both; margin-top: .4em;" ng-show="race.hasReported">
+                <div class="header-wrapper">
+                    <div class="reporting-header race-header" ng-bind-html="race.reportingText|asHtml"></div>
+                    <div class="votes-header race-header">Votes</div>
+                </div>
+                <gr-choices choices="race.choices" ng-class="nameWidthClass" hide-outcome-column="true"></gr-choices>
+                <div style="clear: both;">
+                    <div class="total-votes race-header" style="padding-left:10px;">Total:&nbsp;<span ng-bind-html="race.totalVotes|commas"></span></div>
+                    <div class="race-header" ng-bind-html="race.turnout"></div>
+                    <div style="clear: both;"></div>
+                </div>
+            </div>
+            <div ng-show="!race.hasReported" class="not-reporting">
+                Not Reporting
+            </div>
+        </script>
+
+        <script id="ChoicesTemplate" type="text/template">
+            <div class="choice-container" ng-repeat="choice in choices">
+                <div class="choice-outcome-votes">
+                    <div class="choice-votes" ng-bind-html="choice.votes|commas"></div>
+                    <div class="choice-outcome" ng-style="choice.outcomeColor">
+                        <span class="hidden-trans">{{choice.outcome == null ? "&nbsp;" : choice.outcome}}</span>
+                        <span class="visible-trans" ng-class="choice.outcomeIcon"></span>
+                    </div>
+                </div>
+                <div class="choice-main">
+                    <div class="choice-name">{{choice.name}}</div>
+                    <div class="choice-graph">
+                        <div class="graph-div" ng-style="choice.graphStyle">&nbsp;</div>
+                        <span class="choice-percent">{{choice.percent}}%</span>
+                    </div>
+                    <div class="graph-background" ng-style="choice.backgroundGraphStyle"></div>
+                </div>
+                <div style="clear: both;"></div>
+            </div>
+        </script>
+
+        <script id="StateMapTemplate" type="text/template">
+            <div class="stateMap">
+                <svg viewBox="0 0 635 600">
+                    <path ng-repeat="geoData in vm.rawGeoFeatures.objects.collection.geometries"
+                          ng-class="vm.regionClasses[$index]"
+                          ng-attr-title="{{vm.regionTitles[$index]}}"
+                          ng-attr-d="{{::vm.svgPathData[$index]}}"
+                          ng-click="::vm.handleRegionClicked($index)"
+                          ng-mouseover="::vm.handleHoverEvent($event, $index)"
+                          ng-mouseleave="::vm.handleHoverEvent($event, $index)"
+                          class="region">
+                        <title ng-if="vm.regionTitles[$index].length > 0">{{vm.regionTitles[$index]}}</title>
+                    </path>
+                </svg>
+            </div>
+        </script>
+
+        <script id="VoterStatsTemplate" type="text/template">
+            <div class="modal-header">
+                <button class="btn btn-sm btn-primary header-close-button" ng-click="close()">X</button>
+                <h3 class="modal-title">{{race.specificTitle}}</h3>
+            </div>
+            <div class="modal-body">
+                <p ng-show="!raceStatsLoaded" class="center">
+                    loading...
+                </p>
+                <div ng-show="raceStatsLoaded">
+                    <div>
+                        <label class="control-label" style="width: 5.5em;">Metric</label>
+                        <select ng-model="statsFilter" class="form-control" style="display: inline-block; width: 10em;">
+                            <option>Party</option>
+                            <option>Race</option>
+                            <option>Gender</option>
+                        </select>
+                    </div>
+                    <gr-stats-table ng-show="showHighLevel" stats="highLevelStats" stats-filter="statsFilter" election="selected.election"></gr-stats-table>
+                    <div ng-show="showHighLevel" class="pull-left hidden-xs" gr-pie-chart height="175" width="175" padding="30" svg-id="state-graphic" chart-title="{{statsFilter}}" chart-id="state-pie-chart" chart-height="20" pie-chart-data="chartData"></div>
+                    <div ng-hide="hideTurnoutChart || !showHighLevel" class="pull-right hidden-xs" gr-bar-chart height="175" width="175" svg-id="state-bar" chart-title="{{statsFilter}}" chart-id="state-bar-chart" chart-height="20" bar-chart-data="barChartData"></div>
+                    <div style="margin-top: 0.4em; clear:both;">
+                        <label class="control-label" style="width: 5.5em;">Parish</label>
+                        <select ng-model="selectedParish"
+                                ng-options="parish.name for parish in parishList"
+                                ng-change="parishSelected()"
+                                class="form-control" style="display: inline-block; width: auto; min-width: 10em;"></select>
+                    </div>
+                    <div style="margin-top: 0.4em;">
+                        <label class="control-label" style="width: 5.5em;">Precinct</label>
+                        <select ng-model="selectedPrecinct"
+                                ng-options="precinct for precinct in precinctList"
+                                ng-change="precinctSelected()"
+                                ng-disabled="precinctList == null"
+                                class="form-control" style="display: inline-block; width: auto; min-width: 10em;"></select>
+                    </div>
+                    <gr-stats-table stats="jurisdictionStats" stats-filter="statsFilter" ng-show="jurisdictionStats != null" election="selected.election"></gr-stats-table>
+                    <div ng-show="jurisdictionStats != null" class="pull-left hidden-xs" gr-pie-chart height="175" width="175" padding="30" svg-id="jurisdiction-graphic" chart-title="{{statsFilter}}" chart-id="jurisdiction-pie-chart" chart-height="20" pie-chart-data="jurisdictionPieChartData"></div>
+                    <div ng-show="jurisdictionStats != null && !hideTurnoutChart" class="pull-right hidden-xs" gr-bar-chart height="175" width="175" svg-id="jurisdiction-bar" chart-title="{{statsFilter}}" chart-id="jurisdiction-bar-chart" chart-height="20" bar-chart-data="jurisdictionBarChartData"></div>
+                    <div class="well well-sm text-danger" style="margin-top: .4em; margin-bottom: 0; font-size: 0.9em; clear: both;">
+                        Note: The number of voters includes all registrants deemed eligible to vote on a particular ballot item as
+                        of the close of registration records thirty days prior to the election. This number of voters does not account
+                        for subsequent changes, if any, made by a registrar prior to election day. This number of voters will not always
+                        equal the number of votes because voters may not cast ballots on all races for which they are eligible.
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-small btn-primary" ng-click="close()">Close</button>
+            </div>
+        </script>
+
+        <script id="StatsTableTemplate" type="text/template">
+            <table class="stats-table">
+                <tr>
+                    <th valign="bottom" style="text-align: left;">{{statsFilter}}</th>
+                    <th valign="bottom">Qualified<br />Voters&nbsp;&nbsp;</th>
+                    <th valign="bottom">%</th>
+                    <th ng-show="showTurnout" valign="bottom">Voted</th>
+                    <th ng-show="showTurnout" valign="bottom">Turnout</th>
+                </tr>
+                <tr ng-repeat="row in statsFiltered">
+                    <td ng-class="{ 'stats-table-total': row.option == 'Total' }">{{row.option}}</td>
+                    <td align="right" ng-bind-html="row.qualified|commas"></td>
+                    <td align="right" ng-bind-html="row.percent"></td>
+                    <td ng-show="showTurnout" align="right" ng-bind-html="row.voted|commas"></td>
+                    <td ng-show="showTurnout" align="right" ng-bind-html="row.turnout"></td>
+                </tr>
+            </table>
+        </script>
+
+        <script id="EarlyVotingTemplate" type="text/template">
+            <div class="modal-header">
+                <button class="btn btn-sm btn-primary header-close-button" ng-click="close()">X</button>
+                <h3 class="modal-title modal-top-title">{{race.specificTitle}}</h3>
+                <h3 class="modal-title">Early Voting</h3>
+            </div>
+            <div class="modal-body">
+                <p ng-show="!resultsLoaded" class="center">
+                    loading...
+                </p>
+                <div ng-show="resultsLoaded">
+                    <div ng-show="showParishSelect" style="margin-bottom: 0.4em;">
+                        <label class="control-label" style="width: 5.5em;">Parish</label>
+                        <select ng-model="selectedParish"
+                                ng-options="parish.name for parish in parishList"
+                                class="form-control" style="display: inline-block; width: auto; min-width: 10em;"></select>
+                    </div>
+                    <div ng-show="!showParishSelect" style="margin-bottom: 0.4em;">
+                        <label class="control-label">{{selectedParish.name}}&nbsp;Parish</label>
+                    </div>
+                    <div ng-repeat="race in resultSet" style="border-top: 1px solid #e5e5e5; margin-bottom: .3em;">
+                        <div ng-show="resultSet.length > 1" class="precinct-header"><label>{{race.parishName}} Parish</label></div>
+                        <gr-race-simple class="outcome-hidden" race="race" mode="early"></gr-race-simple>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-small btn-primary" ng-click="close()">Close</button>
+            </div>
+        </script>
+
+        <script id="ParishResultsTemplate" type="text/template">
+            <div class="modal-header">
+                <button class="btn btn-sm btn-primary header-close-button" ng-click="close()">X</button>
+                <h3 class="modal-title modal-top-title">{{race.specificTitle}}</h3>
+                <h3 class="modal-title">{{modalTitle}}</h3>
+            </div>
+            <div class="modal-body">
+                <p ng-show="!resultsLoaded" class="center">
+                    loading...
+                </p>
+                <div ng-show="resultsLoaded">
+                    <div ng-show="showParishSelect">
+                        <label class="control-label" style="width: 5.5em;">Parish</label>
+                        <select ng-model="selectedParish"
+                                ng-options="parish.name for parish in parishList"
+                                class="form-control" style="display: inline-block; width: auto; min-width: 13em;"></select>
+                    </div>
+                    <div ng-show="!showParishSelect">
+                        <label class="control-label">{{selectedParish.name}}&nbsp;Parish</label>
+                    </div>
+                    <div style="margin-top: 0.4em; margin-bottom: .4em;" ng-show="!showPrecinctSelect">
+                        <label class="control-label" style="width: 5.5em;">&nbsp;</label>
+                        <input type="button" value="Precinct Results" class="btn btn-default btn-sm smaller-phone" ng-click="showPrecincts()"
+                               ng-disabled="selectedParish == null || selectedParish.name == 'All'" title="Precinct Results" />
+                    </div>
+                    <div style="margin-top: 0.4em; margin-bottom: .4em;" ng-show="showPrecinctSelect" ng-enabled="precinctsLoaded">
+                        <label class="control-label" style="width: 5.5em;">Precinct</label>
+                        <select ng-model="selectedPrecinct"
+                                ng-options="precinct.name for precinct in precinctList"
+                                class="form-control" style="display: inline-block; width: auto; min-width: 13em;"></select>
+                    </div>
+                    <div ng-repeat="race in resultSet" style="border-top: 1px solid #e5e5e5; margin-bottom: .3em;">
+                        <div ng-show="selectedParish.name == 'All'" class="parish-all-header"><label>{{race.parishName}} Parish</label></div>
+                        <div ng-show="selectedPrecinct.name == 'All'" class="precinct-header"><label>{{race.precinctLabel}}</label></div>
+                        <div gr-race-simple class="outcome-hidden" race="race" mode="early"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-small btn-default" ng-show="selectedPrecinct != null && !precinctMode" ng-click="loadParish()">Parish Results</button>&nbsp;
+                <button class="btn btn-small btn-primary" ng-click="close()">Close</button>
+            </div>
+        </script>
+
+        <script id="CSVTemplate" type="text/template">
+            <div class="modal-header">
+                <button class="btn btn-sm btn-primary header-close-button" ng-click="close()">X</button>
+                <h3 class="modal-title">Download Results</h3>
+            </div>
+            <div class="modal-body">
+                <p ng-show="!raceListLoaded" class="center">
+                    loading...
+                </p>
+                <div ng-show="raceListLoaded">
+                    <div class="well well-sm text-info" style="margin-bottom: .2em; font-size: 0.9em;">
+                        Select a race and result type from the dropdown menus below, then click the 'Download Race' button.
+                    </div>
+                    <div style="margin-top: 0.4em;">
+                        <label class="control-label">Race</label>
+                        <select ng-model="selectedRace"
+                                ng-options="race.name for race in electionRaces"
+                                class="form-control" style="min-width: 10em;"></select>
+                    </div>
+                    <div style="margin-top: 0.4em;">
+                        <label class="control-label">Type</label>
+                        <select ng-model="selectedType"
+                                class="form-control" style="width: 10em;">
+                            <option>Parish</option>
+                            <option>Precinct</option>
+                        </select>
+                    </div>
+                    <div style="margin-top: 1.4em;">
+                        <button class="btn btn-small btn-default" ng-click="downloadRace()">Download Race</button>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-small btn-default pull-left" ng-show="selected.election.isOfficial" ng-click="downloadElection()">Download Entire Election</button>
+                <button class="btn btn-small btn-primary" ng-click="close()">Close</button>
+            </div>
+        </script>
+
+        <script id="RefTextTemplate" type="text/template">
+            <div class="modal-header">
+                <button class="btn btn-sm btn-primary header-close-button" ng-click="close()">X</button>
+                <h3 class="modal-title">Referendum Text</h3>
+            </div>
+            <div class="modal-body">
+                <ul class="nav nav-tabs">
+                    <li role="presentation" class="active"><a href="#TabSummary" role="tab" data-toggle="tab">Summary</a></li>
+                    <li role="presentation" class=""><a href="#TabFull" role="tab" data-toggle="tab">Full</a></li>
+                </ul>
+                <div class="tab-content" style="padding: 0.6em; min-height: 6em;">
+                    <div role="tabpanel" class="tab-pane active smaller-phone" id="TabSummary">
+                        {{summaryText}}
+                    </div>
+                    <div role="tabpanel" class="tab-pane smaller-phone" id="TabFull">
+                        {{fullText}}
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-small btn-primary" ng-click="close()">Close</button>
+            </div>
+        </script>
+
+        <script id="ErrorTemplate" type="text/template">
+            <div class="modal-header">
+                <h3 class="modal-title">Error</h3>
+            </div>
+            <div class="modal-body">
+                <div>{{message}}</div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-small btn-primary" ng-click="reload()">Reload</button>
+            </div>
+        </script>
+
+        <script id="TimerNoticeTemplate" type="text/template">
+            <div class="modal-header">
+                <button class="btn btn-sm btn-primary header-close-button" ng-click="close()">X</button>
+                <h3 class="modal-title">Election Timer</h3>
+            </div>
+            <div class="modal-body">
+                <div>{{message}}</div>
+            </div>
+            <div class="modal-footer"><button class="btn btn-small btn-primary" ng-click="close()">OK</button></div>
+        </script>
+
+        <div class="wait-container"></div>
+    </main>
+
+
+</body>
+</html>

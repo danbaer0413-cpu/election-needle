@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="google" content="notranslate" />
+    <title>Error</title>
+    <link rel="icon" href="/favicon.ico?v=1" type="image/x-icon" />
+    <link href="/bundles/css?v=4ocQUssUI6cN8EilIIiJ_mG57jokPM1V5vEravBPGWY1" rel="stylesheet"/>
+
+    <script src="/bundles/jquery?v=a3BVULaQKb4EYGZA4IzkPxmlHBFzkZDdtHQqrNmoYKc1"></script>
+
+    <script src="/bundles/sos?v=PS3AFCsCdU0K6vVXxZ_V4whZgcltLCcmM6ztlOGv9Vo1"></script>
+
+    <script src="/bundles/bootstrap?v=ktj6IfoHi0sIouSa38PI9hqYmXwRf4uuZtbbWxsvIO81"></script>
+
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SY4F1KM3M7"></script>
+    <script type="text/javascript" src="/AnalyticsGTagSetup" id="analyticsGTagSetup"></script>
+</head>
+<body>
+
+    <div class="container">
+
+        <header>
+                <div class="row row-masthead swamp-banner" style="position: relative; padding: 0">
+                    <div class="col-xs-12" style="height: 100%">
+                        <a href="https://voterportal.sos.la.gov/" title="Voter Portal">
+                            <img src="/Images/banner-geaux-vote.png" class="geaux-image hidden-xs hidden-sm" alt="Home" />
+                            <img src="/Images/banner-geaux-vote-small.png" class="geaux-image hidden-md hidden-lg" alt="Home" />
+                        </a>
+                        <img src="/Images/sos-seal.png" class="seal-image hidden-xs hidden-sm" alt="" />
+                        <a href="https://www.sos.la.gov/elections-voting" title="Louisiana Secretary of State">
+                            <img src="/Images/label-medium.png" class="label-image" alt="Louisiana Secretary of State" />
+                        </a>
+                        
+                    </div>
+                </div>
+        </header>
+
+
+        <div class="row row-top-menu">
+            
+        </div>
+
+
+        <main>
+            
+
+            
+
+
+            
+<div class="content">
+    <h1>404 - Content not found</h1>
+    <p>The requested content could not be found.</p>
+</div>
+
+        </main>
+
+        <footer class="row row-footer">
+            <div class="col-md-12, hidden-print">
+                Copyright © 2026 Louisiana Department of State. 
+            </div>
+        </footer>
+    </div>
+    
+    <script type="text/javascript" src="/AnalyticsScript" id="analyticsScript" data-page-generation-time="1" data-suppress="true" ></script>
+
+    
+
+    <div class="device-xs visible-xs"></div>
+    <div class="device-sm visible-sm"></div>
+    <div class="device-md visible-md"></div>
+    <div class="device-lg visible-lg"></div>
+</body>
+</html>

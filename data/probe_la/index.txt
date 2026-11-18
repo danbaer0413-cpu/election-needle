@@ -1,0 +1,31 @@
+000 GET 200 https://voterportal.sos.la.gov/graphical [text/html; charset=utf-8] 35,210B
+001 GET 200 https://voterportal.sos.la.gov/ElectionResults/GraphicalConfig [application/x-javascript; charset=utf-8] 469B
+002 GET 200 https://voterportal.sos.la.gov/bundles/isBrowserSupported?v=ZOhkVuGTOV8aJgkuLEqbOTBWeauNYMRT9ONif4w6xos1 [text/javascript; charset=utf-8] 772B
+003 GET 200 https://voterportal.sos.la.gov/bundles/graphicalresults?v=cIm8yGz__OufYjw9EhdZgZBxy8qhq7TaHRR_ZKepPws1 [text/javascript; charset=utf-8] 94,208B
+004 GET 200 https://voterportal.sos.la.gov/bundles/thirdPartyResults?v=hhoEw6QQYZqE8WHraZJo9DK6gw6IHgjBz3wDDYv9AV01 [text/javascript; charset=utf-8] 704,439B
+005 GET 200 https://voterportal.sos.la.gov/Areas/ElectionResults/Scripts/GeoData/laParish.js [application/javascript] 43,349B
+006 GET 200 https://voterportal.sos.la.gov/Areas/ElectionResults/Scripts/GeoData/laState.js [application/javascript] 54,520B
+007 GET 200 https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=ElectionMode.htm [application/json; charset=utf-8] 21B
+008 GET 200 https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=Configuration.htm [application/json; charset=utf-8] 436B
+009 GET 200 https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=ElectionDates.htm [application/json; charset=utf-8] 91,777B
+010 GET 200 https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20261212/RacesCandidates_Multiparish.htm [application/json; charset=utf-8] 7,368B
+011 GET 200 https://voterportal.sos.la.gov/ElectionResults/ElectionResults/Data?blob=20261212/Votes_Multiparish.htm [application/json; charset=utf-8] 3,522B
+012 POST 200 https://voterportal.sos.la.gov/GetClientIpAddress [application/json; charset=utf-8] 15B
+== https://voterportal.sos.la.gov/graphical: 'Louisiana Secretary of State - Live Election Results'
+text: Unofficial Results - Site may contain test data prior to day of election Election Sat Dec 12 2026 Tues Nov 3 2026 Sat Jun 27 2026 Sat May 16 2026 Sat Mar 14 2026 Sat Feb 7 2026 Sat Nov 15 2025 Sat Oct 11 2025 Sat Aug 16 2025 Sat May 3 2025 Sat Mar 29 2025 Sat Feb 15 2025 Sat Dec 7 2024 Tues Nov 5 2024 Sat Apr 27 2024 Sat Mar 23 2024 Sat Dec 16 2023 Sat Nov 18 2023 Sat Oct 14 2023 Sat Apr 29 2023 Sat Mar 25 2023 Sat Feb 18 2023 Sat Jan 14 2023 Sat Dec 10 2022 Tues Nov 8 2022 Sat Jun 4 2022 Sat Apr 30 2022 Sat Mar 26 2022 Sat Jan 15 2022 Sat Dec 11 2021 Sat Nov 13 2021 Sat Jun 12 2021 Sat Apr 24 2021 Sat Mar 20 2021 Sat Dec 5 2020 Tues Nov 3 2020 Sat Aug 15 2020 Sat Jul 11 2020 Sat Nov 16 2019 Sat Oct 12 2019 Sat May 4 2019 Sat Mar 30 2019 Sat Feb 23 2019 Sat Jan 12 2019 Sat Dec 8 2018 Tues Nov 6 2018 Sat Apr 28 2018 Sat Mar 24 2018 Sat Feb 17 2018 Sat Nov 18 2017 Sat Oct 14 2017 Sat May 27 2017 Sat Apr 29 2017 Sat Mar 25 2017 Sat Dec 10 2016 Tues Nov 8 2016 Sat May 14 2016 Sat Apr 9 2016 Sat Mar 5 2016 Sat Nov 21 2015 Sat Oct 24 2015 Sat May 2 2015 Sat Mar 28 2015 Sat Feb 21 2015 Sat Dec 6 2014 Tues Nov 4 2014 Sat May 31 2014 Sat May 3 2014 Sat Apr 5 2014 Sat Mar 15 2014 Sat Feb 1 2014 Sat Nov 16 2013 Sat Oct 19 2013 Sat May 4 2013 Sat Apr 6 2013 Sat Mar 2 2013 Sat Dec 8 2012 Tues Nov 6 2012 Sat May 19 2012 Sat Apr 21 2012 Sat Mar 24 2012 Sat Dec 17 2011 Sat Nov 19 2011 Sat Oct 22 2011 Sat Jul 16 2011 Sat Apr 30 2011 Sat Apr 2 2011 Sat Feb 19 2011 Sat Jan 22 2011 Tues Nov 2 20
+click /Nov(ember)?\.? ?0?3,? 2026|11/0?3/2026/ failed: Locator.click: Timeout 4000ms exceeded.
+Call log:
+  - waiting for get_by_text(re
+clicked /Congress/
+clicked /U\.? ?S\.? Representative/
+clicked /5th Congressional/
+clicked /Parish/
+text after clicks: Unofficial Results - Site may contain test data prior to day of election Election Sat Dec 12 2026 Tues Nov 3 2026 Sat Jun 27 2026 Sat May 16 2026 Sat Mar 14 2026 Sat Feb 7 2026 Sat Nov 15 2025 Sat Oct 11 2025 Sat Aug 16 2025 Sat May 3 2025 Sat Mar 29 2025 Sat Feb 15 2025 Sat Dec 7 2024 Tues Nov 5 2024 Sat Apr 27 2024 Sat Mar 23 2024 Sat Dec 16 2023 Sat Nov 18 2023 Sat Oct 14 2023 Sat Apr 29 2023 Sat Mar 25 2023 Sat Feb 18 2023 Sat Jan 14 2023 Sat Dec 10 2022 Tues Nov 8 2022 Sat Jun 4 2022 Sat Apr 30 2022 Sat Mar 26 2022 Sat Jan 15 2022 Sat Dec 11 2021 Sat Nov 13 2021 Sat Jun 12 2021 Sat Apr 24 2021 Sat Mar 20 2021 Sat Dec 5 2020 Tues Nov 3 2020 Sat Aug 15 2020 Sat Jul 11 2020 Sat Nov 16 2019 Sat Oct 12 2019 Sat May 4 2019 Sat Mar 30 2019 Sat Feb 23 2019 Sat Jan 12 2019 Sat Dec 8 2018 Tues Nov 6 2018 Sat Apr 28 2018 Sat Mar 24 2018 Sat Feb 17 2018 Sat Nov 18 2017 Sat Oct 14 2017 Sat May 27 2017 Sat Apr 29 2017 Sat Mar 25 2017 Sat Dec 10 2016 Tues Nov 8 2016 Sat May 14 2016 Sat Apr 9 2016 Sat Mar 5 2016 Sat Nov 21 2015 Sat Oct 24 2015 Sat May 2 2015 Sat Mar 28 2015 Sat Feb 21 2015 Sat Dec 6 2014 Tues Nov 4 2014 Sat May 31 2014 Sat May 3 2014 Sat Apr 5 2014 Sat Mar 15 2014 Sat Feb 1 2014 Sat Nov 16 2013 Sat Oct 19 2013 Sat May 4 2013 Sat Apr 6 2013 Sat Mar 2 2013 Sat Dec 8 2012 Tues Nov 6 2012 Sat May 19 2012 Sat Apr 21 2012 Sat Mar 24 2012 Sat Dec 17 2011 Sat Nov 19 2011 Sat Oct 22 2011 Sat Jul 16 2011 Sat Apr 30 2011 Sat Apr 2 2011 Sat Feb 19 2011 Sat Jan 22 2011 Tues Nov 2 20
+013 GET 302 https://voterportal.sos.la.gov/ElectionResults/ElectionResults [text/html; charset=utf-8] 0B
+014 GET 404 https://voterportal.sos.la.gov/Error404?aspxerrorpath=/ElectionResults/ElectionResults [text/html; charset=utf-8] 2,893B
+015 GET 200 https://voterportal.sos.la.gov/bundles/sos?v=PS3AFCsCdU0K6vVXxZ_V4whZgcltLCcmM6ztlOGv9Vo1 [text/javascript; charset=utf-8] 8,201B
+016 GET 200 https://voterportal.sos.la.gov/bundles/bootstrap?v=ktj6IfoHi0sIouSa38PI9hqYmXwRf4uuZtbbWxsvIO81 [text/javascript; charset=utf-8] 43,753B
+017 GET 200 https://voterportal.sos.la.gov/bundles/jquery?v=a3BVULaQKb4EYGZA4IzkPxmlHBFzkZDdtHQqrNmoYKc1 [text/javascript; charset=utf-8] 175,837B
+== https://voterportal.sos.la.gov/ElectionResults/ElectionResults: 'Error'
+text: 404 - Content not found The requested content could not be found. Copyright © 2026 Louisiana Department of State.
+text after clicks: 404 - Content not found The requested content could not be found. Copyright © 2026 Louisiana Department of State.
