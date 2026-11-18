@@ -103,7 +103,33 @@ def build_params(cfg: dict) -> Params:
         from rcv import estimate_transfers
         _, pooled = estimate_transfers(hdf)
         kw["rcv_to_d"], kw["rcv_to_r"] = pooled["to_d"], pooled["to_r"]
+    if kw.get("rcv") and cfg.get("rcv_inputs") != "final round":   # "final round": the inputs already include the transfers
+        kw.update(rcv_from_count(cfg.get("id", ""), kw))
     return Params(**kw)
+
+
+SAME_PARTY = 0.70   # a ranked-choice ballot whose first choice lost goes to the finalist of the same party this often
+CROSS_PARTY = 0.10  # ... and to the other party's finalist this often (the rest run out of rankings). Alaska 2022-26 generals.
+def rcv_from_count(rid: str, kw: dict) -> dict:
+    """Ranked choice: when the reader has counted the other candidates' first choices (data/rcv_other/<slug>_<id>.json, written by
+    the Alaska reader), use their real share instead of a fixed guess, and transfer them by party: votes for a second Republican
+    mostly go to the Republican finalist, votes for nonpartisan candidates split by the rcv_history skew."""
+    import glob, os
+    fs = sorted(glob.glob(f"data/rcv_other/*_{rid}.json"), key=os.path.getmtime)
+    if not fs:
+        return {}
+    try:
+        o = json.load(open(fs[-1]))
+    except Exception:
+        return {}
+    od, orr, ox = o.get("dem_side", 0.0), o.get("rep_side", 0.0), o.get("neither", 0.0)
+    oth = od + orr + ox; fin = o.get("dem_votes", 0.0) + o.get("rep_votes", 0.0)
+    if oth <= 0 or fin <= 0:
+        return {}
+    xd, xr = kw.get("rcv_to_d", 0.5), kw.get("rcv_to_r", 0.5)
+    to_d = (od * SAME_PARTY + orr * CROSS_PARTY + ox * xd) / oth
+    to_r = (orr * SAME_PARTY + od * CROSS_PARTY + ox * xr) / oth
+    return {"third_share": round(oth / (oth + fin), 4), "rcv_to_d": round(to_d, 4), "rcv_to_r": round(to_r, 4)}
 
 
 def run(config_path: str, out_path: str, log_path: str, only: str | None = None) -> dict:

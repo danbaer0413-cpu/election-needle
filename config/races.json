@@ -165,7 +165,8 @@
     "turnout_mult_fixed": 1.0
    },
    "rcv_history": "data/AK/rcv_history.csv",
-   "_note_third_share": "Set to 0 on Nov 17: inputs are the final ranked-choice round (two candidates). First-round placeholder was 0.04."
+   "_note_third_share": "Set to 0 on Nov 17: inputs are the final ranked-choice round (two candidates). First-round placeholder was 0.04.",
+   "rcv_inputs": "final round"
   },
   {
    "id": "TX-senate",
@@ -395,7 +396,8 @@
    },
    "rcv_history": "data/AK/rcv_history.csv",
    "_note": "Alaska general uses RCV for governor and Senate. third_share 0.06 is a placeholder; set it from the polls' other-candidate share.",
-   "_note_third_share": "Set to 0 on Nov 17: inputs are the final ranked-choice round (two candidates). First-round placeholder was 0.06."
+   "_note_third_share": "Set to 0 on Nov 17: inputs are the final ranked-choice round (two candidates). First-round placeholder was 0.06.",
+   "rcv_inputs": "final round"
   },
   {
    "id": "MI-governor",

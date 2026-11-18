@@ -26,8 +26,8 @@ jobs:
           cache: pip
           cache-dependency-path: requirements-runner.txt
       - run: pip install -r requirements-runner.txt
-      - name: Install browser (only if a feed uses fmt=browser)
-        run: grep -q ',browser,' config/feeds.csv && playwright install --with-deps chromium || echo 'no browser feeds'
+      - name: Install browser (feeds with fmt=browser, and Alaska, whose reader falls back to the browser when the state's site refuses a plain download)
+        run: grep -qE ',(browser|alaska),' config/feeds.csv && playwright install --with-deps chromium || echo 'no browser feeds'
       - name: Read VoteHub posts (statewide early vote; failure is fine)
         timeout-minutes: 2
         continue-on-error: true

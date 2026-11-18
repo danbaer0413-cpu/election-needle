@@ -599,14 +599,39 @@ def _alaska_results(row: dict) -> pd.DataFrame:
     titles = d["Contest_title"].unique()
     d = d[d["Contest_title"] == titles[0]]
     d["votes"] = pd.to_numeric(d["total_votes"].astype(str).str.replace(",", ""), errors="coerce").fillna(0)
-    d["side"] = d["Party_Code"].map(_party_side)
-    if not (d["side"] == "dem").any() or not (d["side"] == "rep").any():       # party codes missing: use surnames from candidates.csv
-        c = pd.read_csv("config/candidates.csv", dtype=str).set_index("id")
-        rid0 = str(row.get("id", ""))
-        dk, rk = c.loc[rid0, "dem"].lower().split()[-1], c.loc[rid0, "rep"].lower().split()[-1]
-        nm = d["candidate_name"].astype(str).str.lower()
-        d.loc[nm.str.contains(dk, regex=False), "side"] = "dem"
-        d.loc[nm.str.contains(rk, regex=False), "side"] = "rep"
+    # Ranked choice: "dem"/"rep" are the two finalists only (named in config/candidates.csv, else each side's top vote-getter).
+    # Everyone else's first choices are kept by party, so the needle can transfer them the way they are likely to go
+    # (a second Republican's ballots mostly to the Republican finalist) instead of assuming an even split.
+    d["party"] = d["Party_Code"].map(_party_side)
+    tot = d.groupby("candidate_name")["votes"].sum()
+    nm = d["candidate_name"].astype(str).str.lower()
+    fin = {}
+    try:
+        c = pd.read_csv("config/candidates.csv", dtype=str).set_index("id"); rid0 = str(row.get("id", ""))
+        for side in ("dem", "rep"):
+            key = c.loc[rid0, side].lower().split()[-1]
+            hit = sorted({n for n in d["candidate_name"].astype(str) if key in n.lower()}, key=lambda n: -tot.get(n, 0))
+            if hit: fin[side] = hit[0]
+    except Exception:
+        pass
+    for side in ("dem", "rep"):
+        if side not in fin:
+            pool = d[d["party"] == side]
+            if not pool.empty: fin[side] = pool.groupby("candidate_name")["votes"].sum().idxmax()
+    d["side"] = None
+    for side, n in fin.items(): d.loc[d["candidate_name"] == n, "side"] = side
+    write_in = nm.str.contains("write-in|write in|over votes|under votes|overvote|undervote", regex=True)
+    rest = d[d["side"].isna() & ~write_in]
+    other = {"dem_side": float(rest.loc[rest["party"] == "dem", "votes"].sum()), "rep_side": float(rest.loc[rest["party"] == "rep", "votes"].sum()),
+             "neither": float(rest.loc[rest["party"].isna(), "votes"].sum()),
+             "finalists": fin, "dem_votes": float(d.loc[d["side"] == "dem", "votes"].sum()), "rep_votes": float(d.loc[d["side"] == "rep", "votes"].sum()),
+             "slug": slug, "url": url, "as_of": pd.Timestamp.utcnow().isoformat(timespec="minutes")}
+    try:
+        import json, os
+        os.makedirs("data/rcv_other", exist_ok=True)
+        json.dump(other, open(f"data/rcv_other/{slug}_{row.get('id', '')}.json", "w"), indent=1)
+    except Exception:
+        pass
     def dist(p):
         m = re.match(r"\s*(\d{1,2})\b", str(p))
         return f"District {int(m.group(1)):02d}" if m else "Other"
