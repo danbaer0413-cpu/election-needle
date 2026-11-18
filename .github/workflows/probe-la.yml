@@ -1,0 +1,26 @@
+name: probe-la
+# One-off: find how the Louisiana results site serves parish-level congressional results (for the Dec 12 runoff needles)
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install playwright && playwright install --with-deps chromium
+      - run: python probe_la.py
+        continue-on-error: true
+      - name: Save report
+        run: |
+          git config user.name "needle-bot"
+          git config user.email "needle-bot@users.noreply.github.com"
+          git add data/probe_la
+          git commit -m "Louisiana results probe" || echo "nothing to commit"
+          git pull --rebase -X theirs || true
+          git push || (sleep 5 && git pull --rebase -X theirs && git push)
