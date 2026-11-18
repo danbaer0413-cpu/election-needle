@@ -1,0 +1,141 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+179850,WY,No,No,105209,56.791,True,False
+179850,WY,Yes,Yes,80047,43.209,False,False
+87500,WY,Kristi Racines,Republican,0,,False,False
+87498,WY,Robert Short,Republican,124940,67.783,True,False
+87498,WY,Bryan McCarty,Democratic,43877,23.804,False,False
+87498,WY,Tamara Trujillo,Constitution,15507,8.413,False,False
+87497,WY,Eric Barlow,Republican,128496,68.563,True,False
+87497,WY,Rebecca Bextel,Constitution,31444,16.778,False,False
+87497,WY,Kenneth Casner,Democratic,27472,14.659,False,False
+159585,WY,Republican,Republican,53628,65.83,False,False
+159585,WY,Democratic,Democratic,24805,30.449,False,False
+159585,WY,Libertarian,Libertarian,1696,2.082,False,False
+159585,WY,Constitution,Constitution,977,1.199,False,False
+159585,WY,Independent,Independent,358,0.439,False,False
+87501,WY,Chad Auer,Republican,0,,False,False
+87501,WY,Sergio Maldonado,Democratic,0,,False,False
+87499,WY,Curt Meier,Republican,0,,True,False
+159586,WY,Republican,Republican,13422,67.535,False,False
+159586,WY,Democratic,Democratic,6155,30.97,False,False
+159586,WY,Constitution,Constitution,297,1.494,False,False
+176018,WY,Chad Stephens,Republican,0,,True,False
+176023,WY,Quin Blair,Republican,0,,True,False
+176045,WY,Cam Wright,Republican,2787,74.142,True,False
+176045,WY,Gary Wilken,Democratic,972,25.858,False,False
+176039,WY,Marilyn Connolly,Republican,0,,True,False
+176044,WY,Karlee Provenza,Democratic,2275,74.713,True,False
+176044,WY,Ross Davenport,Republican,770,25.287,False,False
+176033,WY,Pepper L Ottman,Republican,0,,True,False
+176060,WY,Andrew Server,Republican,0,,True,False
+176054,WY,Carl Manning,Republican,0,,True,False
+176059,WY,Tony Niemiec,Republican,0,,True,False
+176010,WY,Britney Tennant,Democratic,1080,47.809,True,False
+176010,WY,Dan McIntosh,Republican,1027,45.463,False,False
+176010,WY,Ryan Shollenberger,Libertarian,152,6.729,False,False
+176075,WY,Cale Case,Republican,0,,True,False
+176009,WY,Justin Fornstrom,Republican,2911,83.41,True,False
+176009,WY,Tony Perry,Constitution,579,16.59,False,False
+176070,WY,Wendy Davis Schuler,Republican,0,,True,False
+176064,WY,Lauren Schoenfeld,Republican,3357,70.733,True,False
+176064,WY,Ted Hanlon,Democratic,1389,29.267,False,False
+176069,WY,Stacy Jones,Republican,0,,True,False
+176020,WY,McKay L. Erickson,Republican,0,,True,False
+176046,WY,Eamon O'Toole,Republican,0,,True,False
+176019,WY,Albert Sommers,Republican,0,,True,False
+176040,WY,Erin Edwards,Republican,1602,58.488,True,False
+176040,WY,Stacy Becker,Democratic,1137,41.512,False,False
+176035,WY,Art Washut,Republican,1377,66.075,True,False
+176035,WY,Stewart McAdoo,Democratic,707,33.925,False,False
+176029,WY,Ryan Koltiska,Republican,0,,True,False
+176034,WY,Christopher Dresang,Republican,0,,True,False
+176056,WY,Julie Jarvis,Republican,1277,72.722,True,False
+176056,WY,Luc Colgrove,Democratic,479,27.278,False,False
+176050,WY,Laurie Bratten,Republican,0,,True,False
+176055,WY,Elissa Campbell,Republican,0,,True,False
+176077,WY,Lisa Engebretsen,Republican,0,,True,False
+176071,WY,Mike Gierau,Democratic,0,,True,False
+176076,WY,Kevin Helling,Republican,0,,True,False
+176065,WY,Taft Love,Republican,0,,True,False
+176021,WY,Andrew Byron,Republican,0,,True,False
+176015,WY,Mike Yin,Democratic,0,,True,False
+176042,WY,Jessica Crowder,Republican,0,,True,False
+176004,WY,Joe Speckner,Republican,0,,True,False
+176041,WY,Rob Geringer,Republican,2376,77.369,True,False
+176041,WY,Jim VanDyke,Democratic,695,22.631,False,False
+176031,WY,Ken Clouston,Republican,0,,True,False
+176025,WY,Dalton Banks,Republican,2557,81.746,True,False
+176025,WY,Ralph Nieder-Westermann,Democratic,571,18.254,False,False
+176030,WY,Douglas Moore,Republican,1521,80.947,True,False
+176030,WY,Dave Hardesty,Independent,358,19.053,False,False
+176052,WY,Christopher R Knapp,Republican,0,,True,False
+176078,WY,Evie Brennan,Republican,3174,68.214,True,False
+176078,WY,Shifa Hamid,Democratic,1479,31.786,False,False
+176051,WY,Ronda Boller,Republican,0,,True,False
+176072,WY,R. J. Kost,Republican,0,,True,False
+176067,WY,Chris Rothfuss,Democratic,0,,True,False
+176061,WY,Kevin J. Campbell,Republican,0,,True,False
+176066,WY,Mark Rinne,Republican,3276,59.208,True,False
+176066,WY,Jim Lee,Democratic,2257,40.792,False,False
+176017,WY,Kenneth D Roberts,Republican,0,,True,False
+176011,WY,Clarence Styvar,Republican,0,,True,False
+176016,WY,Elizabeth Bingham,Republican,1426,67.328,True,False
+176016,WY,Rah Reinholz,Democratic,692,32.672,False,False
+176006,WY,Bob Nicholas,Republican,1993,62.891,True,False
+176006,WY,Gavin Lobmeyer,Democratic,1176,37.109,False,False
+176000,WY,Troy Claycomb,Republican,0,,True,False
+176005,WY,Tomi Strock,Republican,0,,True,False
+176026,WY,Martha Lawley,Republican,2700,84.639,True,False
+176026,WY,Theresa Livingston,Democratic,490,15.361,False,False
+176053,WY,Lloyd Charles Larsen,Republican,3156,79.899,True,False
+176053,WY,Holly M. Butler,Libertarian,794,20.101,False,False
+176047,WY,James Wamsley,Republican,1568,71.047,True,False
+176047,WY,Suzie Schmid,Democratic,639,28.953,False,False
+176074,WY,Abby Angelos,Republican,0,,True,False
+176036,WY,Brian Costello,Republican,2468,72.695,True,False
+176036,WY,Betsy Erickson,Democratic,927,27.305,False,False
+176073,WY,Melissa Butcher,Republican,0,,True,False
+176063,WY,Cheri E Steinmetz,Republican,0,,True,False
+176057,WY,Bill Allemand,Republican,1401,63.711,True,False
+176057,WY,Keenan Morgan,Democratic,571,25.966,False,False
+176057,WY,Joseph Porambo,Libertarian,227,10.323,False,False
+176062,WY,Ogden Driskill,Republican,0,,True,False
+176013,WY,Trey Sherwood,Democratic,2268,61.849,True,False
+176013,WY,Emily Study,Republican,1399,38.151,False,False
+176007,WY,Luke Reiner,Republican,3120,77.094,True,False
+176007,WY,Brenda J Lyttle,Democratic,927,22.906,False,False
+176012,WY,Ken Chestek,Democratic,1682,66.43,True,False
+176012,WY,Shane Swett,Republican,850,33.57,False,False
+176001,WY,JD Williams,Republican,0,,True,False
+176028,WY,Myca Sturtevant,Republican,0,,True,False
+176022,WY,Liz Storer,Democratic,3274,67.2,True,False
+176022,WY,Shannon A. Brennan,Republican,1598,32.8,False,False
+176027,WY,Allen Hogg,Republican,3309,86.782,True,False
+176027,WY,Larry Alwin,Democratic,504,13.218,False,False
+176049,WY,David Hill,Republican,3213,86.001,True,False
+176049,WY,Carrie Satterwhite,Libertarian,523,13.999,False,False
+176043,WY,Lee Filer,Republican,0,,True,False
+176048,WY,David Walton,Republican,0,,True,False
+176038,WY,Cody Wylie,Republican,0,,True,False
+176032,WY,Ivan D. Posey,Democratic,1383,65.113,True,False
+176032,WY,Justin Morgan,Republican,741,34.887,False,False
+176037,WY,Robert L. Hendry,Republican,1783,74.759,True,False
+176037,WY,Catherine McQueen,Democratic,602,25.241,False,False
+176058,WY,J.R. Riggins,Republican,1407,66.714,True,False
+176058,WY,Laurie Longtine,Democratic,702,33.286,False,False
+176014,WY,Pamela Thayer,Republican,1499,79.02,True,False
+176014,WY,Cheryl Hulme,Constitution,398,20.98,False,False
+176008,WY,Boyd O. Wiggam,Republican,1792,63.01,True,False
+176008,WY,Stephen D. Latham,Democratic,1052,36.99,False,False
+176003,WY,Jeremy Haroldson,Republican,0,,True,False
+176068,WY,Bob Davis,Republican,3615,73.149,True,False
+176068,WY,Jim Wilson,Democratic,1030,20.842,False,False
+176068,WY,Don VanMatre,Constitution,297,6.01,False,False
+176002,WY,Earl Collier,Republican,0,,True,False
+176024,WY,John Wetzel,Republican,0,,True,False
+87496,WY,Harriet Hageman,Republican,122174,65.236,True,False
+87496,WY,James W. Byrd,Democratic,65105,34.764,False,False
+87495,WY,Chuck Gray,Republican,99906,54.527,True,False
+87495,WY,Lisa F. Kinney,Democratic,61689,33.669,False,False
+87495,WY,Shawn Johnson,Libertarian,13667,7.459,False,False
+87495,WY,Jeffrey Haggit,Constitution,7961,4.345,False,False

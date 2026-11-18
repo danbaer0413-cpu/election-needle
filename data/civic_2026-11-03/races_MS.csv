@@ -1,0 +1,134 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+156627,MS,Mississippi District Attorney District 7 Special,2026-11-03,0,,False,5,0,0,2026-11-18T15:32+00:00
+156507,MS,Mississippi Chancery Court District 1 Place 3,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156611,MS,Mississippi Circuit Court District 18 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156619,MS,Mississippi Circuit Court District 20 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156538,MS,Mississippi Chancery Court District 11 Place 3,2026-11-03,80,,False,3,0,51567,2026-11-18T15:32+00:00
+156514,MS,Mississippi Chancery Court District 3 Place 3,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156522,MS,Mississippi Chancery Court District 6 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156530,MS,Mississippi Chancery Court District 9 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156560,MS,Mississippi Chancery Court District 20 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156568,MS,Mississippi Circuit Court District 2 Place 4,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156544,MS,Mississippi Chancery Court District 14 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156552,MS,Mississippi Chancery Court District 17 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156574,MS,Mississippi Circuit Court District 4 Place 4,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156582,MS,Mississippi Circuit Court District 7 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156590,MS,Mississippi Circuit Court District 9 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156598,MS,Mississippi Circuit Court District 12 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156620,MS,Mississippi Circuit Court District 21 Place 1,2026-11-03,99.9,,False,2,1,46315,2026-11-18T15:32+00:00
+156500,MS,Mississippi Court of Appeals District 1 Position 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156508,MS,Mississippi Chancery Court District 1 Place 4,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156612,MS,Mississippi Circuit Court District 18 Place 1,2026-11-03,99.9,,False,2,0,34643,2026-11-18T15:32+00:00
+156531,MS,Mississippi Chancery Court District 9 Place 2,2026-11-03,0,,False,2,1,13840,2026-11-18T15:32+00:00
+156539,MS,Mississippi Chancery Court District 12 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156515,MS,Mississippi Chancery Court District 4 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156523,MS,Mississippi Chancery Court District 6 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156553,MS,Mississippi Chancery Court District 17 Place 2,2026-11-03,99.9,,False,3,1,47728,2026-11-18T15:32+00:00
+156561,MS,Mississippi Chancery Court District 20 Place 3,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156569,MS,Mississippi Circuit Court District 2 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156545,MS,Mississippi Chancery Court District 14 Place 3,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156599,MS,Mississippi Circuit Court District 13 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156575,MS,Mississippi Circuit Court District 4 Place 3,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156583,MS,Mississippi Circuit Court District 7 Place 5,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156591,MS,Mississippi Circuit Court District 9 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156613,MS,Mississippi Circuit Court District 19 Place 4,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156621,MS,Mississippi Circuit Court District 21 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156501,MS,Mississippi Court of Appeals District 1 Position 1,2026-11-03,0,,False,2,0,198429,2026-11-18T15:32+00:00
+156509,MS,Mississippi Chancery Court District 2 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156524,MS,Mississippi Chancery Court District 7 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156532,MS,Mississippi Chancery Court District 10 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156540,MS,Mississippi Chancery Court District 12 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156516,MS,Mississippi Chancery Court District 4 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156570,MS,Mississippi Circuit Court District 3 Place 2,2026-11-03,0,,False,3,0,52274,2026-11-18T15:32+00:00
+156546,MS,Mississippi Chancery Court District 15 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156554,MS,Mississippi Chancery Court District 17-1 Place 3,2026-11-03,99.9,,False,2,1,5864,2026-11-18T15:32+00:00
+156562,MS,Mississippi Circuit Court District 1 Place 4,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156592,MS,Mississippi Circuit Court District 10 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156600,MS,Mississippi Circuit Court District 13 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156576,MS,Mississippi Circuit Court District 4 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156584,MS,Mississippi Circuit Court District 7 Place 3,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156606,MS,Mississippi Circuit Court District 16 Place 3,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156614,MS,Mississippi Circuit Court District 19 Place 2,2026-11-03,0,,False,2,0,30991,2026-11-18T15:32+00:00
+156622,MS,Mississippi Circuit Court District 21 Place 3,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156502,MS,Mississippi Court of Appeals District 5 Position 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156517,MS,Mississippi Chancery Court District 4 Place 3,2026-11-03,43,,False,2,0,17777,2026-11-18T15:32+00:00
+156525,MS,Mississippi Chancery Court District 7 Place 2,2026-11-03,0,,False,2,0,0,2026-11-18T15:32+00:00
+156533,MS,Mississippi Chancery Court District 10 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156541,MS,Mississippi Chancery Court District 13 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156563,MS,Mississippi Circuit Court District 1 Place 3,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156571,MS,Mississippi Circuit Court District 3 Place 3,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156547,MS,Mississippi Chancery Court District 15 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156555,MS,Mississippi Chancery Court District 18 Place 1,2026-11-03,0,,False,4,0,39098,2026-11-18T15:32+00:00
+156585,MS,Mississippi Circuit Court District 7 Place 4,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156593,MS,Mississippi Circuit Court District 10 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156601,MS,Mississippi Circuit Court District 14 Place 2,2026-11-03,0,,False,3,0,24869,2026-11-18T15:32+00:00
+156577,MS,Mississippi Circuit Court District 5 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156503,MS,Mississippi Court of Appeals District 4 Position 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156607,MS,Mississippi Circuit Court District 16 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156615,MS,Mississippi Circuit Court District 19 Place 1,2026-11-03,0,,False,2,0,31635,2026-11-18T15:32+00:00
+156623,MS,Mississippi Circuit Court District 21-1 Place 4,2026-11-03,99.9,,False,2,1,5809,2026-11-18T15:32+00:00
+156510,MS,Mississippi Chancery Court District 2 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156518,MS,Mississippi Chancery Court District 5 Place 3,2026-11-03,0,,False,2,0,0,2026-11-18T15:32+00:00
+156526,MS,Mississippi Chancery Court District 8 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156534,MS,Mississippi Chancery Court District 10 Place 3,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156556,MS,Mississippi Chancery Court District 18 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156564,MS,Mississippi Circuit Court District 1 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156572,MS,Mississippi Circuit Court District 3 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156548,MS,Mississippi Chancery Court District 16 Place 1,2026-11-03,0,,False,3,1,37160,2026-11-18T15:32+00:00
+156602,MS,Mississippi Circuit Court District 14 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156578,MS,Mississippi Circuit Court District 5 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156586,MS,Mississippi Circuit Court District 7 Place 6,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156594,MS,Mississippi Circuit Court District 11 Place 2,2026-11-03,0,,False,2,0,0,2026-11-18T15:32+00:00
+156624,MS,Mississippi Circuit Court District 22,2026-11-03,99.9,,False,2,0,13168,2026-11-18T15:32+00:00
+156504,MS,Mississippi Court of Appeals District 2 Position 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156608,MS,Mississippi Circuit Court District 16 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156616,MS,Mississippi Circuit Court District 19 Place 3,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156535,MS,Mississippi Chancery Court District 10 Place 4,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156511,MS,Mississippi Chancery Court District 2 Place 3,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156519,MS,Mississippi Chancery Court District 5 Place 4,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156527,MS,Mississippi Chancery Court District 8 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156549,MS,Mississippi Chancery Court District 16 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156557,MS,Mississippi Chancery Court District 19 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156565,MS,Mississippi Circuit Court District 1 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156573,MS,Mississippi Circuit Court District 4 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156595,MS,Mississippi Circuit Court District 11 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156603,MS,Mississippi Circuit Court District 15 Place 2,2026-11-03,99.9,,False,2,0,46802,2026-11-18T15:32+00:00
+156579,MS,Mississippi Circuit Court District 6 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156587,MS,Mississippi Circuit Court District 7 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156617,MS,Mississippi Circuit Court District 20 Place 3,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156625,MS,Mississippi State House 70 Special,2026-11-03,99.9,,False,3,1,7682,2026-11-18T15:32+00:00
+156505,MS,Mississippi Chancery Court District 1 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156609,MS,Mississippi Circuit Court District 17 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156528,MS,Mississippi Chancery Court District 8 Place 3,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156536,MS,Mississippi Chancery Court District 11 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156512,MS,Mississippi Chancery Court District 3 Place 1,2026-11-03,0,,False,2,0,35994,2026-11-18T15:32+00:00
+156520,MS,Mississippi Chancery Court District 5 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156542,MS,Mississippi Chancery Court District 13 Place 2,2026-11-03,99.9,,False,3,0,28408,2026-11-18T15:32+00:00
+156550,MS,Mississippi Chancery Court District 16 Place 3,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156558,MS,Mississippi Chancery Court District 19 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156566,MS,Mississippi Circuit Court District 2 Place 3,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156588,MS,Mississippi Circuit Court District 8 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156596,MS,Mississippi Circuit Court District 11 Place 3,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156604,MS,Mississippi Circuit Court District 15 Place 3,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156580,MS,Mississippi Circuit Court District 6 Place 3,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156506,MS,Mississippi Chancery Court District 1 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156610,MS,Mississippi Circuit Court District 17 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156618,MS,Mississippi Circuit Court District 20 Place 1,2026-11-03,99.9,,False,3,0,87974,2026-11-18T15:32+00:00
+156626,MS,Mississippi State House 77 Special,2026-11-03,99.9,,False,4,0,8372,2026-11-18T15:32+00:00
+156521,MS,Mississippi Chancery Court District 5 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156529,MS,Mississippi Chancery Court District 8 Place 4,2026-11-03,0,,False,3,2,67435,2026-11-18T15:32+00:00
+156537,MS,Mississippi Chancery Court District 11 Place 2,2026-11-03,95,,False,2,0,40853,2026-11-18T15:32+00:00
+156513,MS,Mississippi Chancery Court District 3 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156567,MS,Mississippi Circuit Court District 2 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156543,MS,Mississippi Chancery Court District 14 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156551,MS,Mississippi Chancery Court District 16 Place 4,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156559,MS,Mississippi Chancery Court District 20 Place 1,2026-11-03,99.9,,False,3,1,48046,2026-11-18T15:32+00:00
+156581,MS,Mississippi Circuit Court District 6 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156589,MS,Mississippi Circuit Court District 8 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156597,MS,Mississippi Circuit Court District 12 Place 2,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+156605,MS,Mississippi Circuit Court District 15 Place 1,2026-11-03,0,,False,1,0,0,2026-11-18T15:32+00:00
+81004,MS,Mississippi US Senate,2026-11-03,99,2026-11-11T03:47:59.673Z,False,3,82,972744,2026-11-18T15:32+00:00
+81000,MS,Mississippi US House 1,2026-11-03,99,2026-11-04T01:58:57.425Z,False,3,21,243938,2026-11-18T15:32+00:00
+81001,MS,Mississippi US House 2,2026-11-03,99,2026-11-04T02:56:10.392Z,False,3,30,248993,2026-11-18T15:32+00:00
+81002,MS,Mississippi US House 3,2026-11-03,99,2026-11-04T01:58:57.425Z,False,3,23,257170,2026-11-18T15:32+00:00
+81003,MS,Mississippi US House 4,2026-11-03,95.4,2026-11-04T01:58:57.425Z,False,3,12,219707,2026-11-18T15:32+00:00

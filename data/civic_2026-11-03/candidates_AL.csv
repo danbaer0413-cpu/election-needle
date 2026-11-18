@@ -1,0 +1,238 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+86910,AL,Katherine Robertson,Republican,920421,54.985,True,False
+86910,AL,Jeff McLaughlin,Democratic,753532,45.015,False,False
+86908,AL,Tommy Tuberville,Republican,873339,51.997,True,False
+86908,AL,Doug Jones,Democratic,806270,48.003,False,False
+179834,AL,Yes,Nonpartisan,987314,65.409,True,False
+179834,AL,No,Nonpartisan,522135,34.591,False,False
+86909,AL,John Wahl,Republican,911312,54.357,True,False
+86909,AL,Phillip Ensler,Democratic,765219,45.643,False,False
+86914,AL,Corey Hill,Republican,0,,False,False
+86914,AL,Ron Sparks,Democratic,0,,False,False
+86912,AL,Young Boozer,Republican,917185,55.021,True,False
+86912,AL,Rosilyn Houston,Democratic,749801,44.979,False,False
+86913,AL,Andrew Sorrell,Republican,918674,55.231,True,False
+86913,AL,Violet Edwards,Democratic,744648,44.769,False,False
+179837,AL,Yes,Nonpartisan,909990,58.597,True,False
+179837,AL,No,Nonpartisan,642969,41.403,False,False
+179835,AL,Yes,Nonpartisan,759569,50.918,True,False
+179835,AL,No,Nonpartisan,732168,49.082,False,False
+179836,AL,Yes,Nonpartisan,974660,62.575,True,False
+179836,AL,No,Nonpartisan,582925,37.425,False,False
+159587,AL,Republican,Republican,317918,53.323,False,False
+159587,AL,Democratic,Democratic,266108,44.633,False,False
+159587,AL,Independent,Independent,12182,2.043,False,False
+86911,AL,Caroleene Dobson,Republican,909486,54.591,True,False
+86911,AL,Wayne Rogers,Democratic,756505,45.409,False,False
+159588,AL,Republican,Republican,444534,56.756,False,False
+159588,AL,Democratic,Democratic,305324,38.982,False,False
+159588,AL,Independent,Independent,33385,4.262,False,False
+176538,AL,Ginny Shaver,Republican,0,,True,False
+176585,AL,Paul Lee,Republican,0,,True,False
+176600,AL,Chris Pringle,Republican,8130,59.016,True,False
+176600,AL,Joan Friedlander,Democratic,5646,40.984,False,False
+176519,AL,James Lomax,Republican,13406,56.909,True,False
+176519,AL,James Linderholm,Democratic,10151,43.091,False,False
+176594,AL,Frances Holk-Jones,Republican,0,,True,False
+176631,AL,Jay Hovey,Republican,0,,True,False
+176543,AL,Danny Garrett,Republican,0,,True,False
+176558,AL,Mary Moore,Democratic,0,,True,False
+176584,AL,Rick Rehm,Republican,7508,55.161,True,False
+176584,AL,Aristotle Onassis Kirkland,Democratic,6103,44.839,False,False
+176574,AL,Reed Ingram,Republican,11879,56.832,True,False
+176574,AL,Tisha Dickson Nickson,Democratic,9023,43.168,False,False
+176589,AL,Chris Sells,Republican,0,,True,False
+176636,AL,Chris Elliott,Republican,41916,71.063,True,False
+176636,AL,Janet Appleby,Democratic,17068,28.937,False,False
+176630,AL,Kirk Hatcher,Democratic,0,,True,False
+176620,AL,"J.T. ""Jabo"" Waggoner",Republican,29184,53.729,True,False
+176620,AL,Spencer Stone,Democratic,25133,46.271,False,False
+176507,AL,Patrick Johnson,Republican,6617,52.42,True,False
+176507,AL,Janine Maria Jordan,Democratic,6006,47.58,False,False
+176547,AL,Lloyd Peeples,Republican,0,,True,False
+176573,AL,Jasmyne Crimiel,Democratic,12239,73.934,True,False
+176573,AL,Alva Lambert,Republican,4315,26.066,False,False
+176506,AL,Ernie Yarbrough,Republican,8269,68.497,True,False
+176506,AL,"Angelo ""Doc"" Mancuso",Independent,2160,17.893,False,False
+176506,AL,Trent Ford,Independent,1643,13.61,False,False
+176578,AL,Joe Lovvorn,Republican,0,,True,False
+176561,AL,Bill Lamb,Republican,0,,True,False
+176512,AL,Mike Elliott,Republican,0,,True,False
+176619,AL,Scott Ortis,Republican,0,,True,False
+176624,AL,Linda Coleman-Madison,Democratic,0,,True,False
+176511,AL,Cindy Myrex,Republican,0,,True,False
+176551,AL,GiGi Hayes,Democratic,0,,True,False
+176577,AL,Kenyatté Hassell,Democratic,0,,True,False
+176535,AL,Randy Wood,Republican,0,,True,False
+176582,AL,Jeremy A. Gray,Democratic,0,,True,False
+176597,AL,"Napoleon Bracy, Jr.",Democratic,0,,True,False
+176623,AL,Merika Coleman,Democratic,0,,True,False
+176613,AL,Wes Kitchens,Republican,0,,True,False
+176628,AL,Bobby Singleton,Democratic,0,,True,False
+176540,AL,Corley Ellis,Republican,11648,62.199,True,False
+176540,AL,David J.A. Morgan,Democratic,7079,37.801,False,False
+176534,AL,Steve Hurst,Republican,9573,82.69,True,False
+176534,AL,Joseph Cleveland,Independent,2004,17.31,False,False
+176627,AL,Robert Stewart,Democratic,31466,63.104,True,False
+176627,AL,"Thayer ""Bear"" Havard Spencer",Republican,18398,36.896,False,False
+176571,AL,Curtis L Travis,Democratic,0,,True,False
+176586,AL,Jeff Sorrells,Republican,0,,True,False
+176633,AL,Donnie Chesteen,Republican,0,,True,False
+176612,AL,Steve Livingston,Republican,32188,66.056,True,False
+176612,AL,Katie Kramer,Democratic,16540,33.944,False,False
+176570,AL,"Artis ""A.J."" McCampbell",Democratic,0,,True,False
+176617,AL,Randy Price,Republican,30605,65.345,True,False
+176617,AL,Jamie Forsyth,Democratic,16231,34.655,False,False
+176632,AL,Billy Beasley,Democratic,26593,62.912,True,False
+176632,AL,Brent Comer,Republican,15677,37.088,False,False
+176544,AL,Susan DuBose,Republican,11816,63.448,True,False
+176544,AL,Toni Kornegay Vaughn,Democratic,6807,36.552,False,False
+176626,AL,Terry L. Waters,Republican,30284,72.646,True,False
+176626,AL,Ashley Sharpe,Democratic,11403,27.354,False,False
+176503,AL,Parker Duncan Moore,Republican,11042,59.385,True,False
+176503,AL,Hanu Karlapalem,Democratic,7552,40.615,False,False
+176575,AL,"Patrice ""Penni"" McClammy",Democratic,0,,True,False
+176590,AL,Jody Linton,Republican,0,,True,False
+176616,AL,Keith Kelley,Republican,0,,True,False
+176606,AL,Rudolph Valentino Drake,Democratic,34585,56.04,True,False
+176606,AL,John Roberts,Republican,27130,43.96,False,False
+176621,AL,Shay Shelnutt,Republican,0,,True,False
+176508,AL,Scott Stadthagen,Republican,0,,True,False
+176502,AL,Kerry Bubba Underwood,Republican,0,,True,False
+176524,AL,Allison T Montgomery,Democratic,12456,53.265,True,False
+176524,AL,Phillip K. Rigsby,Republican,10929,46.735,False,False
+176532,AL,Ben Robbins,Republican,0,,True,False
+176579,AL,Chris Blackshear,Republican,7735,60.392,True,False
+176579,AL,Manfred Malone,Democratic,5073,39.608,False,False
+176605,AL,Tim Melson,Republican,0,,True,False
+176531,AL,Debra D Foster,Democratic,8127,67.691,True,False
+176531,AL,Joey Callahan,Republican,3879,32.309,False,False
+176610,AL,Larry Stutts,Republican,27310,62.99,True,False
+176610,AL,Bobby Martin,Democratic,16046,37.01,False,False
+176593,AL,Jennifer Fidler,Republican,0,,True,False
+176537,AL,Kristin Nelson,Republican,9419,63.845,True,False
+176537,AL,Hazel Floyd,Democratic,5334,36.155,False,False
+176523,AL,Nathaniel Ledbetter,Republican,0,,True,False
+176528,AL,Mark A. Gidley,Republican,0,,True,False
+176536,AL,Jeff Monroe,Republican,12014,66.534,True,False
+176536,AL,Michelle French,Democratic,6043,33.466,False,False
+176583,AL,Berry Forte,Democratic,0,,True,False
+176530,AL,Troy B. Stubbs,Republican,0,,True,False
+176609,AL,Matt Woods,Republican,0,,True,False
+176567,AL,"Thomas E ""Action"" Jackson",Democratic,9839,57.263,True,False
+176567,AL,Fred Kelley,Republican,7343,42.737,False,False
+176614,AL,Jesse Battles,Independent,20341,50.064,False,False
+176614,AL,Andrew Jones,Republican,20289,49.936,False,False
+176629,AL,Will Barfoot,Republican,32418,56.319,True,False
+176629,AL,Phadra Carson Foster,Democratic,25143,43.681,False,False
+176527,AL,Mack N Butler,Republican,6566,51.109,True,False
+176527,AL,Robert Louis Hunter,Democratic,6281,48.891,False,False
+176517,AL,Jamie Kiel,Republican,0,,True,False
+176500,AL,Maurice McCaney,Republican,0,,True,False
+176572,AL,Kenneth Paschal,Republican,0,,True,False
+176566,AL,Prince Chestnut,Democratic,0,,True,False
+176556,AL,Patrick Sellers,Democratic,0,,True,False
+176603,AL,Margie Wilcox,Republican,0,,True,False
+176618,AL,April Weaver,Republican,28386,60.497,True,False
+176618,AL,Mandie Ledkins,Democratic,18535,39.503,False,False
+176505,AL,Andy Whitt,Republican,0,,True,False
+176516,AL,Phil Segraves,Republican,0,,True,False
+176602,AL,Barbara Drummond,Democratic,0,,True,False
+176521,AL,Ritchie Whorton,Republican,0,,True,False
+176504,AL,Danny F. Crawford,Republican,12597,63.058,True,False
+176504,AL,Jessie Barcala,Democratic,7380,36.942,False,False
+176576,AL,TaShina Morris,Democratic,0,,True,False
+176555,AL,Ontario J Tillman,Democratic,0,,True,False
+176560,AL,Ron Bolton,Republican,0,,True,False
+176607,AL,Arthur Orr,Republican,30652,61.246,True,False
+176607,AL,John Dickey,Democratic,19395,38.754,False,False
+176622,AL,Rodger M. Smitherman,Democratic,0,,True,False
+176520,AL,Rex Reynolds,Republican,12484,51.391,True,False
+176520,AL,Forrest Satterfield,Democratic,11808,48.609,False,False
+176638,AL,Rusty Glover,Republican,0,,True,False
+176525,AL,Brock Colvin,Republican,0,,True,False
+176533,AL,David Standridge,Republican,0,,True,False
+176559,AL,Alicia Escott Lumpkin,Democratic,0,,True,False
+176549,AL,Bill Morris,Republican,11802,69.277,True,False
+176549,AL,Alan Thomas,Democratic,5234,30.723,False,False
+176564,AL,John Knapp,Republican,7753,54.877,True,False
+176564,AL,Elaine Beech,Independent,6375,45.123,False,False
+176611,AL,Jared Sluss,Democratic,30255,50.481,True,False
+176611,AL,Sam Givhan,Republican,29678,49.519,False,False
+176637,AL,Vivian Davis Figures,Democratic,0,,True,False
+176563,AL,Donna Givens,Republican,0,,True,False
+176514,AL,Nell Brown,Democratic,11042,51.22,True,False
+176514,AL,Leigh Hulsey,Republican,10516,48.78,False,False
+176625,AL,Gerald Allen,Republican,19178,59.518,True,False
+176625,AL,"Jodie Woodrow Minor, Jr.",Independent,13044,40.482,False,False
+176569,AL,Christopher John England,Democratic,9973,81.452,True,False
+176569,AL,Ian M. Chwatuk,Republican,2271,18.548,False,False
+176548,AL,Russell Bedsole,Republican,0,,True,False
+176513,AL,Tim R. Wadsworth,Republican,0,,True,False
+176553,AL,Neil Rafferty,Democratic,0,,True,False
+176568,AL,Kelvin J Lawrence,Democratic,12151,63.551,True,False
+176568,AL,Josh Pendergrass,Republican,6969,36.449,False,False
+176615,AL,Lance Bell,Republican,31241,64.853,True,False
+176615,AL,Donald J. Mottern,Democratic,16931,35.147,False,False
+176562,AL,Norman Crow,Republican,5254,54.198,True,False
+176562,AL,Judith Taylor,Democratic,4440,45.802,False,False
+176599,AL,Mark Shirey,Republican,0,,True,False
+176518,AL,Laura Hall,Democratic,14489,77.848,True,False
+176518,AL,Donald Barnes,Republican,4123,22.152,False,False
+176501,AL,Ben Harrison,Republican,12744,73.048,True,False
+176501,AL,Rick Pressnell,Democratic,4702,26.952,False,False
+176552,AL,Anthony Daniels,Democratic,0,,True,False
+176542,AL,Arnold Mooney,Republican,12535,62.703,True,False
+176542,AL,Taylor Cook,Democratic,7456,37.297,False,False
+176557,AL,Rolanda Hollis,Democratic,0,,True,False
+176604,AL,Chip Brown,Republican,0,,True,False
+176598,AL,Sam Jones,Democratic,11738,74.917,True,False
+176598,AL,Charlie Watts,Republican,3930,25.083,False,False
+176588,AL,Marcus B. Paramore,Republican,0,,True,False
+176635,AL,Josh Carnley,Republican,0,,True,False
+176522,AL,Mike Kirkland,Republican,0,,True,False
+176541,AL,Van Smith,Republican,0,,True,False
+176634,AL,"Clyde Chambliss, Jr.",Republican,0,,True,False
+176546,AL,Mike Shaw,Republican,8266,51.164,True,False
+176546,AL,Jim Toomey,Democratic,7890,48.836,False,False
+176529,AL,Craig Lipscomb,Republican,0,,True,False
+176608,AL,Garlan Gudger,Republican,0,,True,False
+176587,AL,Jerry Starnes,Republican,0,,True,False
+176592,AL,Steve Clouse,Republican,0,,True,False
+176639,AL,David Sessions,Republican,0,,True,False
+176526,AL,Jeana Ross,Republican,0,,True,False
+176545,AL,David L. Faulkner,Republican,0,,True,False
+176510,AL,Heath Allbright,Republican,0,,True,False
+176550,AL,Allen Treadaway,Republican,0,,True,False
+176565,AL,Alan Baker,Republican,0,,True,False
+176591,AL,Matthew Hammett,Republican,0,,True,False
+176581,AL,Pebblin W. Warren,Democratic,8975,76.696,True,False
+176581,AL,Kinsley Hammons,Republican,2727,23.304,False,False
+176596,AL,Adline C. Clarke,Democratic,0,,True,False
+176515,AL,Bryan Brinyark,Republican,12575,82.91,True,False
+176515,AL,Christian Martin,Democratic,2592,17.09,False,False
+176509,AL,Marilyn Lands,Democratic,12296,60.159,True,False
+176509,AL,Aaron Thomas,Republican,8143,39.841,False,False
+176595,AL,Danielle Duggar,Republican,11483,64.251,True,False
+176595,AL,Terri Osborne,Democratic,6389,35.749,False,False
+176539,AL,Chad Robertson,Republican,9658,71.796,True,False
+176539,AL,Pam Howard,Democratic,3794,28.204,False,False
+176554,AL,Travis Hendrix,Democratic,0,,True,False
+176601,AL,Shane Stringer,Republican,0,,True,False
+176580,AL,Ed Oliver,Republican,0,,True,False
+86905,AL,Gary Palmer,Republican,149921,57.468,True,False
+86905,AL,Maurice Mercer,Democratic,110957,42.532,False,False
+86907,AL,Barry Moore,Republican,917347,54.712,True,False
+86907,AL,Everett Wess,Democratic,759336,45.288,False,False
+86902,AL,Mike Rogers,Republican,141800,63.953,True,False
+86902,AL,Lee McInnis,Democratic,79926,36.047,False,False
+86900,AL,Jerry Carl,Republican,137025,59.071,True,False
+86900,AL,Clyde Jones,Democratic,94940,40.929,False,False
+86906,AL,Terri Sewell,Democratic,174823,69.4,True,False
+86906,AL,Ammie Akin,Republican,77085,30.6,False,False
+86904,AL,Dale Strong,Republican,142080,53.245,True,False
+86904,AL,Andrew Sneed,Democratic,124763,46.755,False,False
+86901,AL,Shomari Figures,Democratic,124422,53.753,True,False
+86901,AL,Rhett Marques,Republican,107049,46.247,False,False
+86903,AL,Robert Aderholt,Republican,160008,74.896,True,False
+86903,AL,Amanda Pusczek,Democratic,53633,25.104,False,False

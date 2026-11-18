@@ -1,0 +1,1091 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+87375,OR,Oregon Governor,2026-11-03,95.9,2026-11-04T06:52:19.694Z,False,4,36,1977138,2026-11-18T16:15+00:00
+159543,OR,Oregon State House,2026-11-03,0,,False,7,60,1839055,2026-11-18T16:15+00:00
+159554,OR,Oregon State Senate,2026-11-03,0,,False,5,15,913237,2026-11-18T16:15+00:00
+185732,OR,Oregon City of Moro Mayor,2026-11-03,0,,False,2,1,150,2026-11-18T16:15+00:00
+185582,OR,Oregon City of Dayton Councilor 3 At-Large,2026-11-03,0,,False,3,1,1350,2026-11-18T16:15+00:00
+185734,OR,Oregon City of Rufus Council Member Position 1,2026-11-03,0,,False,3,1,123,2026-11-18T16:15+00:00
+185392,OR,Oregon Grant County Mt Vernon Mayor,2026-11-03,0,,False,3,1,236,2026-11-18T16:15+00:00
+185459,OR,Oregon Wheeler County Treasurer,2026-11-03,0,,False,2,1,626,2026-11-18T16:15+00:00
+185725,OR,Oregon West Multnomah Soil and Water Conservation District Director Zone 5,2026-11-03,0,,False,4,3,39818,2026-11-18T16:15+00:00
+185575,OR,Oregon City of Gaston Council Member Position 4,2026-11-03,0,,False,2,2,121,2026-11-18T16:15+00:00
+159115,OR,Oregon State House 51,2026-11-03,0,2026-11-12T01:54:12.337Z,False,3,1,37483,2026-11-18T16:15+00:00
+185385,OR,Oregon Prairie City Mayor,2026-11-03,0,,False,2,1,373,2026-11-18T16:15+00:00
+185843,OR,Oregon City of La Grande Mayor Position #1,2026-11-03,0,,False,2,1,3591,2026-11-18T16:15+00:00
+185910,OR,Oregon Umatilla County Soil & Water At Large Director Zone 1 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,1464,2026-11-18T16:15+00:00
+185568,OR,Oregon Measure 36-242 City of Lafayette,2026-11-03,0,,False,2,1,1816,2026-11-18T16:15+00:00
+185034,OR,Oregon Measure 15-243 City of Ashland,2026-11-03,0,,False,2,1,11320,2026-11-18T16:15+00:00
+185570,OR,Oregon Measure 34-355 Hillsboro School District 1J,2026-11-03,0,,False,2,3,36832,2026-11-18T16:15+00:00
+185836,OR,Oregon City of Cove Council - At Large,2026-11-03,0,,False,2,1,287,2026-11-18T16:15+00:00
+185103,OR,Oregon City of Malin Mayor,2026-11-03,0,,False,2,1,137,2026-11-18T16:15+00:00
+185561,OR,Oregon Mt Angel-Monitor Fire Protection District Director,2026-11-03,0,,False,6,2,7025,2026-11-18T16:15+00:00
+185219,OR,Oregon City of Veneta Councilor,2026-11-03,0,,False,5,1,2647,2026-11-18T16:15+00:00
+185563,OR,Oregon City of Jefferson Mayor,2026-11-03,0,,False,3,1,654,2026-11-18T16:15+00:00
+185029,OR,Oregon Curry County Soil and Water Conservation District Director Zone 2,2026-11-03,0,,False,2,1,569,2026-11-18T16:15+00:00
+185096,OR,Oregon City of Myrtle Point Mayor,2026-11-03,0,,False,2,1,746,2026-11-18T16:15+00:00
+185746,OR,Oregon City of Rufus Council Member Position 2,2026-11-03,0,,False,2,1,108,2026-11-18T16:15+00:00
+185212,OR,Oregon Lane County Siuslaw Soil & Water Conservation District Director Zone 1,2026-11-03,0,,False,2,1,5310,2026-11-18T16:15+00:00
+185748,OR,Oregon Sherman County Commissioner Position 2,2026-11-03,0,,False,2,1,883,2026-11-18T16:15+00:00
+185214,OR,Oregon Lane County Heceta Water PUD Director Subdivision 2,2026-11-03,0,,False,2,1,195,2026-11-18T16:15+00:00
+185281,OR,Oregon Malheur County Clerk,2026-11-03,0,,False,2,1,6953,2026-11-18T16:15+00:00
+185739,OR,Oregon Sherman Soil and Water Conservation District Director At Large Position 2,2026-11-03,0,,False,2,1,880,2026-11-18T16:15+00:00
+185397,OR,Oregon Grant County Granite Mayor,2026-11-03,0,,False,2,1,16,2026-11-18T16:15+00:00
+185741,OR,Oregon City of Grass Valley Council Member Position 2,2026-11-03,0,,False,2,1,54,2026-11-18T16:15+00:00
+185399,OR,Oregon Seneca City Council,2026-11-03,0,,False,2,1,64,2026-11-18T16:15+00:00
+185274,OR,Oregon City of Vale Mayor,2026-11-03,0,,False,2,1,455,2026-11-18T16:15+00:00
+185742,OR,Oregon City of Grass Valley Council Member Position 3,2026-11-03,0,,False,2,1,54,2026-11-18T16:15+00:00
+185894,OR,Oregon Wallowa Soil & Water Conservation-At Large 2,2026-11-03,0,,False,2,1,3251,2026-11-18T16:15+00:00
+185552,OR,Oregon City of Mt Angel Mayor,2026-11-03,0,,False,2,1,720,2026-11-18T16:15+00:00
+185018,OR,Oregon Josephine County Illinois Valley Soil & Water Conservatoin District Director At Large 2,2026-11-03,0,,False,2,1,2567,2026-11-18T16:15+00:00
+185885,OR,Oregon City of Enterprise Councilor #1,2026-11-03,0,,False,2,1,881,2026-11-18T16:15+00:00
+185735,OR,Oregon City of Moro City Council Position 3,2026-11-03,0,,False,2,1,149,2026-11-18T16:15+00:00
+185087,OR,Oregon City of Coquille Mayor,2026-11-03,0,,False,3,1,1536,2026-11-18T16:15+00:00
+185545,OR,Oregon City of Gervais Mayor,2026-11-03,0,,False,4,1,346,2026-11-18T16:15+00:00
+185203,OR,Oregon City of Eugene Councilor Ward 6,2026-11-03,0,,False,2,1,4064,2026-11-18T16:15+00:00
+185270,OR,Oregon City of Redmond City Council,2026-11-03,0,,False,6,1,36717,2026-11-18T16:15+00:00
+185728,OR,Oregon Measure 28-50 City of Rufus,2026-11-03,0,,False,2,1,131,2026-11-18T16:15+00:00
+185194,OR,Oregon Measure 20-386 City of Dunes City,2026-11-03,0,,False,2,1,830,2026-11-18T16:15+00:00
+185730,OR,Oregon Measure 28-52 City of Grass Valley,2026-11-03,0,,False,2,1,90,2026-11-18T16:15+00:00
+185196,OR,Oregon Measure 20-388 City of Eugene,2026-11-03,0,,False,2,1,58013,2026-11-18T16:15+00:00
+185455,OR,Oregon City of Mitchell Mayor,2026-11-03,0,,False,3,1,69,2026-11-18T16:15+00:00
+185721,OR,Oregon City of Fairview Councilor Position 4,2026-11-03,0,,False,2,1,1806,2026-11-18T16:15+00:00
+185379,OR,Oregon City of Metolius Councilor Positions 2 3 5,2026-11-03,0,,False,3,1,490,2026-11-18T16:15+00:00
+185723,OR,Oregon Multnomah County Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:15+00:00
+185189,OR,Oregon Harney Soil and Water Conservation District Director Zone 3,2026-11-03,0,,False,2,1,2570,2026-11-18T16:15+00:00
+185647,OR,Oregon City of Happy Valley Councilor Position 1,2026-11-03,0,,False,3,1,8621,2026-11-18T16:15+00:00
+159102,OR,Oregon District Attorney Lake County,2026-11-03,0,,False,3,1,3334,2026-11-18T16:15+00:00
+185372,OR,Oregon Jefferson County Treasurer,2026-11-03,0,,False,2,1,6579,2026-11-18T16:15+00:00
+159104,OR,Oregon State Senate 16,2026-11-03,0,2026-11-12T01:54:12.336Z,False,4,6,73097,2026-11-18T16:15+00:00
+185374,OR,Oregon Jefferson County Sheriff,2026-11-03,0,,False,3,1,9046,2026-11-18T16:15+00:00
+185832,OR,Oregon City of Imbler Mayor,2026-11-03,0,,False,2,1,29,2026-11-18T16:15+00:00
+185899,OR,Oregon City of Umatilla Council Position 4 (2 Year Unexpired Term),2026-11-03,0,,False,3,1,992,2026-11-18T16:15+00:00
+185557,OR,Oregon City of Mt Angel Councilor,2026-11-03,0,,False,3,1,1318,2026-11-18T16:15+00:00
+185901,OR,Oregon City of Ukiah Council Position 2,2026-11-03,0,,False,2,1,77,2026-11-18T16:15+00:00
+185559,OR,Oregon City of Turner Mayor,2026-11-03,0,,False,2,1,720,2026-11-18T16:15+00:00
+185025,OR,Oregon Curry County Soil and Water Conservation District Director At-Large 2,2026-11-03,0,,False,2,1,5908,2026-11-18T16:15+00:00
+185892,OR,Oregon Wallowa Soil & Water Conservation-Zone 4,2026-11-03,0,,False,2,1,3359,2026-11-18T16:15+00:00
+185712,OR,Oregon West Multnomah Soil and Water Conservation District Director Zone 4,2026-11-03,0,,False,2,3,34921,2026-11-18T16:15+00:00
+185178,OR,Oregon City of Yoncalla Councilor Position 2 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,258,2026-11-18T16:15+00:00
+185636,OR,Oregon City of Portland Councilor District 4,2026-11-03,0,,False,13,3,0,2026-11-18T16:15+00:00
+185895,OR,Oregon Measure 30-177 City of Pendleton,2026-11-03,0,,False,2,1,5859,2026-11-18T16:15+00:00
+185446,OR,Oregon City of Spray Council Position #1,2026-11-03,0,,False,2,1,73,2026-11-18T16:15+00:00
+185705,OR,Oregon City of Gresham Councilor Position 2,2026-11-03,0,,False,3,1,24801,2026-11-18T16:15+00:00
+185363,OR,Oregon City of Brownsville Council Members,2026-11-03,0,,False,4,1,1685,2026-11-18T16:15+00:00
+185629,OR,Oregon Clackamas Soil & Water Conservation District Director Zone 4,2026-11-03,0,,False,2,1,96404,2026-11-18T16:15+00:00
+185888,OR,Oregon City of Lostine Councilor #2,2026-11-03,0,,False,2,1,113,2026-11-18T16:15+00:00
+185354,OR,Oregon City of Tangent Council Members Position 4,2026-11-03,0,,False,3,1,379,2026-11-18T16:15+00:00
+185890,OR,Oregon City of Lostine Councilor #1,2026-11-03,0,,False,2,1,128,2026-11-18T16:15+00:00
+185356,OR,Oregon City of Tangent Mayor,2026-11-03,0,,False,2,1,444,2026-11-18T16:15+00:00
+185014,OR,Oregon Josephine County Clerk & Recorder,2026-11-03,0,,False,2,1,23392,2026-11-18T16:15+00:00
+185881,OR,Oregon City of Joseph Councilor #2,2026-11-03,0,,False,2,1,458,2026-11-18T16:15+00:00
+185539,OR,Oregon Marion Soil & Water Director Zone 2,2026-11-03,0,,False,2,1,3455,2026-11-18T16:15+00:00
+185883,OR,Oregon Wallowa Soil & Water Conservation-Zone 2,2026-11-03,0,,False,2,1,3475,2026-11-18T16:15+00:00
+185349,OR,Oregon City of Sodaville Mayor,2026-11-03,0,,False,2,1,130,2026-11-18T16:15+00:00
+185007,OR,Oregon City of Cave Junction Mayor,2026-11-03,0,,False,3,1,786,2026-11-18T16:15+00:00
+185074,OR,Oregon Measure 06-231 Bandon City,2026-11-03,0,,False,2,1,1686,2026-11-18T16:15+00:00
+185532,OR,Oregon City of Donald Mayor,2026-11-03,0,,False,2,1,148,2026-11-18T16:15+00:00
+185076,OR,Oregon City of Lakeside Council Members,2026-11-03,0,,False,5,1,1894,2026-11-18T16:15+00:00
+185534,OR,Oregon City of Jefferson Councilor,2026-11-03,0,,False,3,1,907,2026-11-18T16:15+00:00
+185992,OR,Oregon City of Warrenton Commissioner Position 4,2026-11-03,0,,False,3,1,2136,2026-11-18T16:15+00:00
+185259,OR,Oregon Deschutes County Treasurer,2026-11-03,0,,False,3,1,83916,2026-11-18T16:15+00:00
+185717,OR,Oregon East Multnomah Soil and Water Conservation District Director Zone 3,2026-11-03,0,,False,3,1,156619,2026-11-18T16:15+00:00
+185261,OR,Oregon City of La Pine City Council,2026-11-03,0,,False,6,1,1871,2026-11-18T16:15+00:00
+185719,OR,Oregon Multnomah County Rockwood Water People's Utility District Director Sub-District 2,2026-11-03,0,,False,2,1,1748,2026-11-18T16:15+00:00
+185185,OR,Oregon City of Burns Councilperson Position No. 4,2026-11-03,0,,False,2,1,130,2026-11-18T16:15+00:00
+185451,OR,Oregon City of Mitchell Council Position #4,2026-11-03,0,,False,2,1,25,2026-11-18T16:15+00:00
+185902,OR,Oregon City of Umatilla Council Position 1,2026-11-03,0,,False,4,1,1010,2026-11-18T16:15+00:00
+185453,OR,Oregon City of Mitchell Council Position #6,2026-11-03,0,,False,2,1,18,2026-11-18T16:15+00:00
+185338,OR,Oregon City of Harrisburg Council Members,2026-11-03,0,,False,5,1,2636,2026-11-18T16:15+00:00
+159184,OR,Oregon Judge of the Circuit Court 20th District Position 1,2026-11-03,0,,False,2,1,107589,2026-11-18T16:15+00:00
+185255,OR,Oregon Deschutes County Commissioner Position 3,2026-11-03,0,,False,3,1,93943,2026-11-18T16:15+00:00
+185798,OR,Oregon Tillamook PUD Director Subdivision 2,2026-11-03,0,,False,2,1,2039,2026-11-18T16:15+00:00
+185065,OR,Oregon City of Medford Council Member Ward 4,2026-11-03,0,,False,3,1,9466,2026-11-18T16:15+00:00
+185523,OR,Oregon City of Silverton Mayor,2026-11-03,0,,False,2,1,2581,2026-11-18T16:15+00:00
+159177,OR,Oregon State House 55,2026-11-03,0,2026-11-04T07:09:42.102Z,False,3,2,34804,2026-11-18T16:15+00:00
+185447,OR,Oregon City of Fossil Mayor,2026-11-03,0,,False,2,1,155,2026-11-18T16:15+00:00
+185514,OR,Oregon Measure 24-526 Mt Angel Fire District,2026-11-03,0,,False,2,1,1216,2026-11-18T16:15+00:00
+185449,OR,Oregon Wheeler County Soil & Water Conservation District Director Zone 1,2026-11-03,0,,False,2,1,591,2026-11-18T16:15+00:00
+185516,OR,Oregon Measure 24-528 Silver Falls School District 4J,2026-11-03,0,,False,2,2,7095,2026-11-18T16:15+00:00
+185174,OR,Oregon City of Riddle Councilor Position 4,2026-11-03,0,,False,2,1,243,2026-11-18T16:15+00:00
+185632,OR,Oregon City of West Linn Councilor,2026-11-03,0,,False,4,1,19853,2026-11-18T16:15+00:00
+185699,OR,Oregon Measure 26-268 Reynolds School District 7,2026-11-03,0,,False,2,1,17341,2026-11-18T16:15+00:00
+185634,OR,Oregon Clackamas County Treasurer,2026-11-03,0,,False,2,1,104618,2026-11-18T16:15+00:00
+185509,OR,Oregon Keating Soil and Water At Large 2,2026-11-03,0,,False,2,2,174,2026-11-18T16:15+00:00
+185167,OR,Oregon City of Yoncalla Mayor,2026-11-03,0,,False,2,1,271,2026-11-18T16:15+00:00
+185625,OR,Oregon City of Tualatin Council Member Position 1,2026-11-03,0,,False,2,2,5304,2026-11-18T16:15+00:00
+185692,OR,Oregon City of Hood River Mayor,2026-11-03,0,,False,2,1,3081,2026-11-18T16:15+00:00
+185627,OR,Oregon City of Lake Oswego Councilor,2026-11-03,0,,False,7,3,61982,2026-11-18T16:15+00:00
+185694,OR,Oregon City of Hood River Council Members,2026-11-03,0,,False,4,1,7963,2026-11-18T16:15+00:00
+185160,OR,Oregon City of Sutherlin Mayor,2026-11-03,0,,False,3,1,2706,2026-11-18T16:15+00:00
+185810,OR,Oregon Gilliam County Soil and Water Conservation District Director - Zone 2,2026-11-03,0,,False,2,1,123,2026-11-18T16:15+00:00
+185877,OR,Oregon City of Enterprise Mayor,2026-11-03,0,,False,3,1,807,2026-11-18T16:15+00:00
+185812,OR,Oregon City of Lonerock Councilor Position No. 2,2026-11-03,0,,False,2,1,10,2026-11-18T16:15+00:00
+185879,OR,Oregon City of Joseph Councilor #3,2026-11-03,0,,False,2,1,440,2026-11-18T16:15+00:00
+185345,OR,Oregon City of Idanha Councilor,2026-11-03,0,,False,2,2,56,2026-11-18T16:15+00:00
+185803,OR,Oregon Gilliam County Clerk,2026-11-03,0,,False,3,1,908,2026-11-18T16:15+00:00
+185262,OR,Oregon City of Bend City Council Position 6,2026-11-03,0,,False,2,1,33148,2026-11-18T16:15+00:00
+185805,OR,Oregon City of Arlington Councilor Position No. 1,2026-11-03,0,,False,2,1,206,2026-11-18T16:15+00:00
+185072,OR,Oregon Jackson County Commissioner Position 1,2026-11-03,0,,False,3,1,99988,2026-11-18T16:15+00:00
+185498,OR,Oregon Baker Valley Soil and Water Zone 3,2026-11-03,0,,False,2,2,5115,2026-11-18T16:15+00:00
+185956,OR,Oregon Columbia Soil and Water Conservation District Director Zone 1,2026-11-03,0,,False,3,1,18623,2026-11-18T16:15+00:00
+185806,OR,Oregon City of Arlington Councilor Position No. 3,2026-11-03,0,,False,2,1,191,2026-11-18T16:15+00:00
+185958,OR,Oregon City of Rainier Council Member Position 4,2026-11-03,0,,False,4,1,695,2026-11-18T16:15+00:00
+185616,OR,Oregon Clackamas County Justice of the Peace,2026-11-03,0,,False,2,1,93659,2026-11-18T16:15+00:00
+185683,OR,Oregon City of Antelope Council Seat #1 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,22,2026-11-18T16:15+00:00
+185949,OR,Oregon City of Vernonia Council Members A,2026-11-03,0,,False,5,1,1760,2026-11-18T16:15+00:00
+185799,OR,Oregon City of Tillamook City Council Ward 5 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,186,2026-11-18T16:15+00:00
+185151,OR,Oregon City of Glendale Councilor Position 4,2026-11-03,0,,False,2,1,131,2026-11-18T16:15+00:00
+185866,OR,Oregon City of Ione Mayor,2026-11-03,0,,False,3,1,175,2026-11-18T16:15+00:00
+185801,OR,Oregon City of Tillamook City Council Ward 4,2026-11-03,0,,False,2,1,221,2026-11-18T16:15+00:00
+185868,OR,Oregon City of Heppner Councilor Position 4,2026-11-03,0,,False,2,1,39,2026-11-18T16:15+00:00
+185334,OR,Oregon City of Lebanon Mayor,2026-11-03,0,,False,4,1,6524,2026-11-18T16:15+00:00
+159180,OR,Oregon Judge of the Circuit Court 4th District Position 2,2026-11-03,0,,False,3,1,224103,2026-11-18T16:15+00:00
+185059,OR,Oregon Town of Butte Falls Council Member Position 6,2026-11-03,0,,False,2,1,135,2026-11-18T16:15+00:00
+159182,OR,Oregon State House 4,2026-11-03,0,2026-11-04T07:09:42.101Z,False,2,3,25295,2026-11-18T16:15+00:00
+185861,OR,Oregon Morrow County Soil and Water Conservation Director Zone 2,2026-11-03,0,,False,2,1,2940,2026-11-18T16:15+00:00
+185327,OR,Oregon Measure 22-217 City of Tangent,2026-11-03,0,,False,2,1,507,2026-11-18T16:15+00:00
+159173,OR,Oregon State House 60,2026-11-03,0,2026-11-04T07:09:42.102Z,False,3,6,27824,2026-11-18T16:15+00:00
+185443,OR,Oregon Lincoln County Commissioner Position 2 (2 Year Unexpired Term),2026-11-03,0,,False,3,1,17346,2026-11-18T16:15+00:00
+159175,OR,Oregon State Senate 10,2026-11-03,0,2026-11-12T01:54:12.336Z,False,3,2,61806,2026-11-18T16:15+00:00
+185253,OR,Oregon Measure 09-186 City of Redmond,2026-11-03,0,,False,2,1,14797,2026-11-18T16:15+00:00
+185320,OR,Oregon Benton Soil and Water Conservation District Director Zone 4,2026-11-03,0,,False,2,1,1816,2026-11-18T16:15+00:00
+185970,OR,Oregon Measure 04-245 City of Astoria,2026-11-03,0,,False,2,1,4599,2026-11-18T16:15+00:00
+185436,OR,Oregon Lincoln City Council Member Ward I,2026-11-03,0,,False,2,1,765,2026-11-18T16:15+00:00
+185972,OR,Oregon Measure 04-247 City of Astoria,2026-11-03,0,,False,2,1,4808,2026-11-18T16:15+00:00
+185438,OR,Oregon Lincoln City Council Member Ward II,2026-11-03,0,,False,3,1,1082,2026-11-18T16:15+00:00
+185505,OR,Oregon City of Haines City Council,2026-11-03,0,,False,4,1,389,2026-11-18T16:15+00:00
+185963,OR,Oregon City of Rainier Council Member Position 3,2026-11-03,0,,False,2,1,610,2026-11-18T16:15+00:00
+185621,OR,Oregon Clackamas County Commissioner Position 4 (2 Year Unexpired Term),2026-11-03,0,,False,3,1,152671,2026-11-18T16:15+00:00
+185965,OR,Oregon City of Prescott Treasurer,2026-11-03,0,,False,2,1,28,2026-11-18T16:15+00:00
+185623,OR,Oregon Clackamas Soil & Water Conservation District Director Position 2 At Large,2026-11-03,0,,False,2,1,100102,2026-11-18T16:15+00:00
+185124,OR,Oregon Measure 19-40 Lake,2026-11-03,0,,False,2,1,3364,2026-11-18T16:15+00:00
+185966,OR,Oregon Columbia River PUD Director Subdivision 5,2026-11-03,0,,False,3,1,2867,2026-11-18T16:15+00:00
+185126,OR,Oregon Lakeview Soil and Water Conservation District Director At Large 1,2026-11-03,0,,False,2,1,2027,2026-11-18T16:15+00:00
+159164,OR,Oregon State House 29,2026-11-03,0,2026-11-12T01:54:12.337Z,False,3,1,26739,2026-11-18T16:15+00:00
+185242,OR,Oregon City of Junction City Councilor,2026-11-03,0,,False,3,1,2793,2026-11-18T16:15+00:00
+185117,OR,Oregon Klamath Soil & Water Conservation Director At Large 1 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,16145,2026-11-18T16:15+00:00
+185959,OR,Oregon City of Columbia City Mayor,2026-11-03,0,,False,2,1,859,2026-11-18T16:15+00:00
+185311,OR,Oregon City of Corvallis Ward 5 City Council,2026-11-03,0,,False,2,1,1137,2026-11-18T16:15+00:00
+159157,OR,Oregon State House 53,2026-11-03,0,2026-11-04T07:09:42.102Z,False,3,1,40551,2026-11-18T16:15+00:00
+185427,OR,Oregon Central Lincoln PUD - Subdivision 2 Director,2026-11-03,0,,False,2,1,2654,2026-11-18T16:15+00:00
+185494,OR,Oregon City of Halfway City Council,2026-11-03,0,,False,2,1,201,2026-11-18T16:15+00:00
+185952,OR,Oregon Columbia County Clatskanie PUD Director Subdivision 4,2026-11-03,0,,False,2,1,583,2026-11-18T16:15+00:00
+185610,OR,Oregon City of Milwaukie Councilor Position 2,2026-11-03,0,,False,4,2,8846,2026-11-18T16:15+00:00
+185954,OR,Oregon City of Rainier Council Member Position 5,2026-11-03,0,,False,2,1,591,2026-11-18T16:15+00:00
+185420,OR,Oregon City of Yachats Mayor,2026-11-03,0,,False,2,1,449,2026-11-18T16:15+00:00
+185679,OR,Oregon Wasco County Soil & Water Conservation District Director At Large #2,2026-11-03,0,,False,2,1,5927,2026-11-18T16:15+00:00
+185945,OR,Oregon City of Rainier Council Member Position 1,2026-11-03,0,,False,2,1,602,2026-11-18T16:15+00:00
+185795,OR,Oregon City of Bay City Mayor,2026-11-03,0,,False,3,1,681,2026-11-18T16:15+00:00
+185947,OR,Oregon Columbia Soil and Water Conservation District Director At-Large Position 2,2026-11-03,0,,False,2,1,16487,2026-11-18T16:15+00:00
+185605,OR,Oregon Measure 03-638 City of Estacada,2026-11-03,0,,False,2,1,2290,2026-11-18T16:15+00:00
+185672,OR,Oregon Wasco County Chenowith Water PUD Director Subdivision #3 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,19,2026-11-18T16:15+00:00
+185138,OR,Oregon City of Reedsport Councilor Position 6,2026-11-03,0,,False,3,1,1335,2026-11-18T16:15+00:00
+185788,OR,Oregon City of Nehalem City Council Position 4,2026-11-03,0,,False,3,1,112,2026-11-18T16:15+00:00
+185140,OR,Oregon City of Glendale Councilor Position 3,2026-11-03,0,,False,2,1,156,2026-11-18T16:15+00:00
+185790,OR,Oregon City of Nehalem Mayor,2026-11-03,0,,False,2,1,102,2026-11-18T16:15+00:00
+185857,OR,Oregon Morrow County Soil and Water Conservation Director at Large 2 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,2937,2026-11-18T16:15+00:00
+185131,OR,Oregon Lakeview Soil and Water Conservation District Director Zone 1,2026-11-03,0,,False,2,1,2002,2026-11-18T16:15+00:00
+159169,OR,Oregon District Attorney Jefferson County,2026-11-03,0,,False,2,1,6818,2026-11-18T16:15+00:00
+185133,OR,Oregon Lakeview Soil and Water Conservation District Director Zone 2,2026-11-03,0,,False,2,1,2043,2026-11-18T16:15+00:00
+159171,OR,Oregon State House 36,2026-11-03,0,2026-11-12T01:54:12.337Z,False,3,1,34988,2026-11-18T16:15+00:00
+185249,OR,Oregon City of Creswell Mayor,2026-11-03,0,,False,2,1,1302,2026-11-18T16:15+00:00
+185134,OR,Oregon Measure 10-215 City of Reedsport,2026-11-03,0,,False,2,1,1528,2026-11-18T16:15+00:00
+185478,OR,Oregon Polk Soil and Water Conservation District Director Zone 3,2026-11-03,0,,False,2,1,1559,2026-11-18T16:15+00:00
+185936,OR,Oregon City of Prescott Council Member Position 3,2026-11-03,0,,False,2,1,27,2026-11-18T16:15+00:00
+185594,OR,Oregon City of Yamhill Councilor 2 At-Large,2026-11-03,0,,False,3,1,686,2026-11-18T16:15+00:00
+185469,OR,Oregon City of Independence Council Member Position 1,2026-11-03,0,,False,3,1,3117,2026-11-18T16:15+00:00
+185127,OR,Oregon Fort Rock/Silver Lake Soil and Water Conservation District Director Zone 1,2026-11-03,0,,False,2,1,872,2026-11-18T16:15+00:00
+185663,OR,Oregon City of Maupin Mayor,2026-11-03,0,,False,3,1,220,2026-11-18T16:15+00:00
+185929,OR,Oregon City of Pilot Rock Council At Large,2026-11-03,0,,False,7,1,1368,2026-11-18T16:15+00:00
+185779,OR,Oregon City of Rockaway Beach Mayor,2026-11-03,0,,False,2,1,618,2026-11-18T16:15+00:00
+185853,OR,Oregon City of Union Mayor,2026-11-03,0,,False,2,1,753,2026-11-18T16:15+00:00
+185120,OR,Oregon City of Klamath Falls Ward 5 City Council,2026-11-03,0,,False,3,1,1056,2026-11-18T16:15+00:00
+185770,OR,Oregon City of Sherwood Mayor,2026-11-03,0,,False,2,1,4621,2026-11-18T16:15+00:00
+185122,OR,Oregon Klamath County Bonanza Council Position 4,2026-11-03,0,,False,2,1,104,2026-11-18T16:15+00:00
+185772,OR,Oregon City of Banks Council Member Position 3,2026-11-03,0,,False,3,1,396,2026-11-18T16:15+00:00
+185238,OR,Oregon Lane County Siuslaw Soil & Water Conservation District Director At-Large 1 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,575,2026-11-18T16:15+00:00
+185113,OR,Oregon Klamath County Bonanza Mayor,2026-11-03,0,,False,2,1,120,2026-11-18T16:15+00:00
+159151,OR,Oregon District Attorney Curry County,2026-11-03,0,,False,2,1,6530,2026-11-18T16:15+00:00
+185115,OR,Oregon City of Malin Councilor,2026-11-03,0,,False,4,1,338,2026-11-18T16:15+00:00
+185765,OR,Oregon City of Forest Grove Council Members,2026-11-03,0,,False,8,1,16764,2026-11-18T16:15+00:00
+185231,OR,Oregon Lane County Siuslaw Soil & Water Conservation District Director At-Large 2,2026-11-03,0,,False,2,1,4934,2026-11-18T16:15+00:00
+185298,OR,Oregon Measure 02-158 Adair Rural Fire Protection District,2026-11-03,0,,False,2,1,1194,2026-11-18T16:15+00:00
+159144,OR,Oregon State Senate 7,2026-11-03,0,2026-11-04T07:09:42.101Z,False,3,1,68388,2026-11-18T16:15+00:00
+185300,OR,Oregon Measure 02-160 Corvallis School District 509J,2026-11-03,0,,False,2,2,28248,2026-11-18T16:15+00:00
+159146,OR,Oregon State House 33,2026-11-03,0,2026-11-04T07:09:42.101Z,False,3,2,32010,2026-11-18T16:15+00:00
+185416,OR,Oregon Southwest Lincoln Water PUD Director Subdivision 2,2026-11-03,0,,False,2,1,89,2026-11-18T16:15+00:00
+185483,OR,Oregon City of Monmouth Mayor,2026-11-03,0,,False,3,1,3061,2026-11-18T16:15+00:00
+185941,OR,Oregon City of Rainier Mayor,2026-11-03,0,,False,4,1,806,2026-11-18T16:15+00:00
+185485,OR,Oregon Polk Soil and Water Conservation District Director Zone 4 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,19781,2026-11-18T16:15+00:00
+185943,OR,Oregon City of Clatskanie Council Members A,2026-11-03,0,,False,6,1,1709,2026-11-18T16:15+00:00
+185601,OR,Oregon City of Gaston Council Member Position 5,2026-11-03,0,,False,2,2,116,2026-11-18T16:15+00:00
+185476,OR,Oregon Polk Soil and Water Conservation District Director At Large 2,2026-11-03,0,,False,2,1,1397,2026-11-18T16:15+00:00
+185296,OR,Oregon Crook County Soil and Water Conservation District Director At Large 2,2026-11-03,0,,False,2,1,9832,2026-11-18T16:15+00:00
+185754,OR,Oregon City of Beaverton Council Member Position 1,2026-11-03,0,,False,3,1,23316,2026-11-18T16:15+00:00
+185220,OR,Oregon Lane County Eugene Water & Electric Board Member Wards 4 & 5,2026-11-03,0,,False,2,1,9438,2026-11-18T16:15+00:00
+185479,OR,Oregon Polk Soil and Water Conservation District Director Zone 5,2026-11-03,0,,False,2,1,1386,2026-11-18T16:15+00:00
+185030,OR,Oregon Curry County Harbor Water People's Utility District Director Subdivision 1,2026-11-03,0,,False,2,1,24,2026-11-18T16:15+00:00
+185289,OR,Oregon Malheur County Commissioner Position 1,2026-11-03,0,,False,2,1,7305,2026-11-18T16:15+00:00
+159135,OR,Oregon State House 8,2026-11-03,0,2026-11-04T07:09:42.101Z,False,3,1,29959,2026-11-18T16:15+00:00
+185213,OR,Oregon Lane County Siuslaw Soil & Water Conservation District Director Zone 2,2026-11-03,0,,False,2,1,5077,2026-11-18T16:15+00:00
+185472,OR,Oregon City of Willamina Councilor 3 At-Large,2026-11-03,0,,False,5,2,1375,2026-11-18T16:15+00:00
+159126,OR,Oregon State House 57,2026-11-03,0,2026-11-04T07:09:42.102Z,False,3,9,21132,2026-11-18T16:15+00:00
+185474,OR,Oregon City of Falls City Council Members,2026-11-03,0,,False,2,1,471,2026-11-18T16:15+00:00
+159128,OR,Oregon State House 39,2026-11-03,0,2026-11-04T07:09:42.102Z,False,2,1,19028,2026-11-18T16:15+00:00
+185590,OR,Oregon City of Lafayette Councilor 3 At-Large,2026-11-03,0,,False,4,1,2766,2026-11-18T16:15+00:00
+185465,OR,Oregon City of Independence Council Member Position 4,2026-11-03,0,,False,3,1,3053,2026-11-18T16:15+00:00
+185923,OR,Oregon City of Umatilla Council Position 3,2026-11-03,0,,False,2,1,864,2026-11-18T16:15+00:00
+185467,OR,Oregon City of Independence Mayor,2026-11-03,0,,False,3,1,3304,2026-11-18T16:15+00:00
+159121,OR,Oregon State Senate 17,2026-11-03,0,2026-11-04T07:09:42.101Z,False,3,2,61142,2026-11-18T16:15+00:00
+185583,OR,Oregon City of Dundee Mayor,2026-11-03,0,,False,2,1,1137,2026-11-18T16:15+00:00
+185849,OR,Oregon City of Imbler Councilor Position #1,2026-11-03,0,,False,2,1,143,2026-11-18T16:15+00:00
+185916,OR,Oregon City of Ukiah Council Position 4,2026-11-03,0,,False,2,1,70,2026-11-18T16:15+00:00
+185851,OR,Oregon City of Imbler Councilor Position #5,2026-11-03,0,,False,2,1,129,2026-11-18T16:15+00:00
+185918,OR,Oregon City of Echo Council At Large (Vote For 3),2026-11-03,0,,False,2,1,199,2026-11-18T16:15+00:00
+185576,OR,Oregon City of McMinnville Councilor Ward 1,2026-11-03,0,,False,2,1,2301,2026-11-18T16:15+00:00
+185042,OR,Oregon City of Medford Council Member Ward 3,2026-11-03,0,,False,3,1,5299,2026-11-18T16:15+00:00
+185109,OR,Oregon Klamath Soil & Water Conservation Director At Large 2,2026-11-03,0,,False,2,1,826,2026-11-18T16:15+00:00
+185044,OR,Oregon City of Talent Council Member Position 3,2026-11-03,0,,False,2,1,1902,2026-11-18T16:15+00:00
+185111,OR,Oregon Klamath Soil & Water Conservation Director Zone 3,2026-11-03,0,,False,2,1,658,2026-11-18T16:15+00:00
+185761,OR,Oregon Washington County Tualatin Soil and Water Conservation District Director Zone 4,2026-11-03,0,,False,2,1,107183,2026-11-18T16:15+00:00
+185035,OR,Oregon Measure 15-244 Jackson County Vector Control District,2026-11-03,0,,False,2,1,96292,2026-11-18T16:15+00:00
+185486,OR,Oregon Baker County Burnt River Soil and Water Zone 3,2026-11-03,0,,False,2,1,347,2026-11-18T16:15+00:00
+185037,OR,Oregon City of Medford Council Member Ward 1,2026-11-03,0,,False,2,1,6211,2026-11-18T16:15+00:00
+159110,OR,Oregon State House 15,2026-11-03,0,2026-11-12T01:54:12.337Z,False,3,3,35095,2026-11-18T16:15+00:00
+185380,OR,Oregon Measure 12-88 John Day,2026-11-03,0,,False,2,1,664,2026-11-18T16:15+00:00
+185038,OR,Oregon City of Talent Council Member Position 1,2026-11-03,0,,False,2,1,1973,2026-11-18T16:15+00:00
+185382,OR,Oregon Grant County Monument Soil & Water Zone #1,2026-11-03,0,,False,2,1,157,2026-11-18T16:15+00:00
+185840,OR,Oregon City of Imbler Councilor Position #3,2026-11-03,0,,False,2,1,114,2026-11-18T16:15+00:00
+185907,OR,Oregon City of Helix Council Position 5,2026-11-03,0,,False,2,1,40,2026-11-18T16:15+00:00
+185373,OR,Oregon City of Culver Mayor,2026-11-03,0,,False,2,1,417,2026-11-18T16:15+00:00
+185031,OR,Oregon City of Gold Beach Council Position 3,2026-11-03,0,,False,2,1,611,2026-11-18T16:15+00:00
+185098,OR,Oregon City of Coquille Council Members,2026-11-03,0,,False,5,1,3130,2026-11-18T16:15+00:00
+185033,OR,Oregon Curry County Commissioner Position 1,2026-11-03,0,,False,3,1,10257,2026-11-18T16:15+00:00
+185100,OR,Oregon City of Klamath Falls Ward 4 City Council,2026-11-03,0,,False,2,1,880,2026-11-18T16:15+00:00
+185750,OR,Oregon Measure 34-353 City of Forest Grove,2026-11-03,0,,False,2,1,6578,2026-11-18T16:15+00:00
+185216,OR,Oregon City of Oakridge Mayor,2026-11-03,0,,False,3,1,877,2026-11-18T16:15+00:00
+185283,OR,Oregon Malheur County Soil & Water Conservation Director - Zone 3,2026-11-03,0,,False,2,1,6077,2026-11-18T16:15+00:00
+185218,OR,Oregon Lane County Springfield Utility Board Member Position 2,2026-11-03,0,,False,2,1,10226,2026-11-18T16:15+00:00
+185093,OR,Oregon City of Lakeside Mayor,2026-11-03,0,,False,2,1,706,2026-11-18T16:15+00:00
+185743,OR,Oregon City of Grass Valley Council Member Position 5 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,52,2026-11-18T16:15+00:00
+185209,OR,Oregon City of Junction City Mayor,2026-11-03,0,,False,3,1,1869,2026-11-18T16:15+00:00
+185276,OR,Oregon Malheur County Treasurer,2026-11-03,0,,False,2,1,6694,2026-11-18T16:15+00:00
+185211,OR,Oregon City of Coburg Mayor,2026-11-03,0,,False,2,1,488,2026-11-18T16:15+00:00
+185278,OR,Oregon City of Vale Council Members,2026-11-03,0,,False,5,1,1304,2026-11-18T16:15+00:00
+185736,OR,Oregon City of Grass Valley Mayor,2026-11-03,0,,False,3,1,84,2026-11-18T16:15+00:00
+185394,OR,Oregon Grant County Monument Position #4,2026-11-03,0,,False,2,1,40,2026-11-18T16:15+00:00
+185461,OR,Oregon City of Fossil Council Position #1,2026-11-03,0,,False,2,1,167,2026-11-18T16:15+00:00
+185396,OR,Oregon Grant County Granite Council At Large,2026-11-03,0,,False,2,1,32,2026-11-18T16:15+00:00
+185463,OR,Oregon Measure 27-150 City of Monmouth,2026-11-03,0,,False,2,1,3132,2026-11-18T16:15+00:00
+159117,OR,Oregon State House 58,2026-11-03,0,2026-11-04T07:09:42.102Z,False,3,3,30648,2026-11-18T16:15+00:00
+185387,OR,Oregon Grant County Long Creek Position #4,2026-11-03,0,,False,2,1,70,2026-11-18T16:15+00:00
+185845,OR,Oregon City of La Grande Council Position #5,2026-11-03,0,,False,2,1,3221,2026-11-18T16:15+00:00
+185389,OR,Oregon Grant County Long Creek Mayor,2026-11-03,0,,False,2,1,73,2026-11-18T16:15+00:00
+185847,OR,Oregon City of Island City Council Position #1,2026-11-03,0,,False,2,1,430,2026-11-18T16:15+00:00
+185540,OR,Oregon Marion Soil & Water Director Zone 3,2026-11-03,0,,False,2,1,4007,2026-11-18T16:15+00:00
+185390,OR,Oregon Prairie City Council At Large,2026-11-03,0,,False,3,1,614,2026-11-18T16:15+00:00
+185542,OR,Oregon City of Aumsville Mayor,2026-11-03,0,,False,2,1,569,2026-11-18T16:15+00:00
+185200,OR,Oregon Linn Soil & Water Conservation District Director At-Large 2,2026-11-03,0,,False,2,2,32725,2026-11-18T16:15+00:00
+185267,OR,Oregon Deschutes Soil & Water Conservation District Director Zone 2,2026-11-03,0,,False,2,1,57362,2026-11-18T16:15+00:00
+185533,OR,Oregon City of Hubbard Councilor,2026-11-03,0,,False,3,1,704,2026-11-18T16:15+00:00
+185383,OR,Oregon Grant County Soil & Water Zone #1,2026-11-03,0,,False,2,1,2773,2026-11-18T16:15+00:00
+185727,OR,Oregon City of Fairview Councilor Position 6,2026-11-03,0,,False,3,1,2121,2026-11-18T16:15+00:00
+185193,OR,Oregon Harney Soil and Water Conservation District Director Zone 4,2026-11-03,0,,False,2,1,2541,2026-11-18T16:15+00:00
+185651,OR,Oregon City of Sandy Councilor Position 5,2026-11-03,0,,False,2,1,2240,2026-11-18T16:15+00:00
+159106,OR,Oregon State House 40,2026-11-03,0,2026-11-04T07:09:42.102Z,False,4,1,33754,2026-11-18T16:15+00:00
+185376,OR,Oregon City of Madras Councilor - Positions 1 2 3,2026-11-03,0,,False,7,1,5338,2026-11-18T16:15+00:00
+185834,OR,Oregon City of Island City Mayor,2026-11-03,0,,False,2,1,410,2026-11-18T16:15+00:00
+185378,OR,Oregon City of Metolius Mayor,2026-11-03,0,,False,2,1,271,2026-11-18T16:15+00:00
+185644,OR,Oregon City of Oregon City Mayor,2026-11-03,0,,False,4,1,14339,2026-11-18T16:15+00:00
+185903,OR,Oregon Umatilla County Soil & Water At Large Director At Large 2,2026-11-03,0,,False,2,1,15150,2026-11-18T16:15+00:00
+185369,OR,Oregon City of Culver Councilor - Position 2,2026-11-03,0,,False,2,1,42,2026-11-18T16:15+00:00
+185027,OR,Oregon City of Brookings Council Position 4,2026-11-03,0,,False,2,1,1506,2026-11-18T16:15+00:00
+185371,OR,Oregon Jefferson County Soil and Water Conservation District Director - Zone 2,2026-11-03,0,,False,2,1,6529,2026-11-18T16:15+00:00
+185829,OR,Oregon Union County Clerk,2026-11-03,0,,False,2,1,8322,2026-11-18T16:15+00:00
+185896,OR,Oregon Measure 30-175 Umatilla County Fire District #1,2026-11-03,0,,False,2,1,8735,2026-11-18T16:15+00:00
+185554,OR,Oregon City of St Paul Councilman,2026-11-03,0,,False,2,1,119,2026-11-18T16:15+00:00
+185020,OR,Oregon Josephine County Two Rivers Soil & Water Conservation District Director Zone 1 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,17805,2026-11-18T16:15+00:00
+185556,OR,Oregon City of Turner Councilor,2026-11-03,0,,False,4,1,1734,2026-11-18T16:15+00:00
+185022,OR,Oregon Curry County Soil and Water Conservation District Director Zone 1,2026-11-03,0,,False,2,1,6296,2026-11-18T16:15+00:00
+185089,OR,Oregon Coos County Sheriff,2026-11-03,0,,False,3,1,25200,2026-11-18T16:15+00:00
+185547,OR,Oregon City of Sublimity Councilor,2026-11-03,0,,False,4,1,1998,2026-11-18T16:15+00:00
+185205,OR,Oregon City of Eugene Councilor Ward 3,2026-11-03,0,,False,2,1,2340,2026-11-18T16:15+00:00
+185549,OR,Oregon City of Hubbard Mayor,2026-11-03,0,,False,2,1,477,2026-11-18T16:15+00:00
+185207,OR,Oregon City of Cottage Grove Councilor At-Large,2026-11-03,0,,False,3,1,2793,2026-11-18T16:15+00:00
+185082,OR,Oregon City of North Bend Council Members,2026-11-03,0,,False,5,1,8512,2026-11-18T16:15+00:00
+185550,OR,Oregon City of Keizer Councilor Position #6,2026-11-03,0,,False,3,1,8093,2026-11-18T16:15+00:00
+185702,OR,Oregon City of Wood Village Councilor Position 1,2026-11-03,0,,False,2,1,625,2026-11-18T16:15+00:00
+185360,OR,Oregon City of Lyons Mayor,2026-11-03,0,,False,2,1,485,2026-11-18T16:15+00:00
+185818,OR,Oregon Measure 31-124 City of Elgin,2026-11-03,0,,False,2,1,745,2026-11-18T16:15+00:00
+185693,OR,Oregon Hood River County Soil & Water Conservation District Director Zone 3,2026-11-03,0,,False,2,1,8080,2026-11-18T16:15+00:00
+185543,OR,Oregon City of Salem Councilor Ward 6,2026-11-03,0,,False,2,1,2478,2026-11-18T16:15+00:00
+185887,OR,Oregon City of Wallowa Councilor #1,2026-11-03,0,,False,2,1,388,2026-11-18T16:15+00:00
+185353,OR,Oregon City of Waterloo Council Members,2026-11-03,0,,False,4,1,240,2026-11-18T16:15+00:00
+185011,OR,Oregon Josephine County Commissioner Position 1,2026-11-03,0,,False,3,1,35833,2026-11-18T16:15+00:00
+185078,OR,Oregon City of Powers Council Members,2026-11-03,0,,False,3,1,439,2026-11-18T16:15+00:00
+185536,OR,Oregon City of Salem Councilor Ward 2,2026-11-03,0,,False,2,1,2604,2026-11-18T16:15+00:00
+185994,OR,Oregon Clatsop Soil and Water Conservation District Director Zone 5,2026-11-03,0,,False,2,1,11478,2026-11-18T16:15+00:00
+185538,OR,Oregon Marion Soil & Water Director Zone 1,2026-11-03,0,,False,2,1,4365,2026-11-18T16:15+00:00
+185004,OR,Oregon City of Grants Pass Council Ward 2,2026-11-03,0,,False,4,1,11781,2026-11-18T16:15+00:00
+185263,OR,Oregon Deschutes Soil & Water Conservation District Director At Large 2,2026-11-03,0,,False,2,1,54054,2026-11-18T16:15+00:00
+185529,OR,Oregon City of Scotts Mills Councilor,2026-11-03,0,,False,6,1,398,2026-11-18T16:15+00:00
+185187,OR,Oregon Harney Soil and Water Conservation District Director At Large 2,2026-11-03,0,,False,2,1,219,2026-11-18T16:15+00:00
+185531,OR,Oregon City of Keizer Mayor,2026-11-03,0,,False,3,1,8994,2026-11-18T16:15+00:00
+185989,OR,Oregon City of Seaside Mayor,2026-11-03,0,,False,2,1,2149,2026-11-18T16:15+00:00
+185256,OR,Oregon City of Bend City Council Position 5,2026-11-03,0,,False,2,1,33708,2026-11-18T16:15+00:00
+185714,OR,Oregon Multnomah County Interlachen Water People's Utility District Director Sub-District 3,2026-11-03,0,,False,2,1,50,2026-11-18T16:15+00:00
+185180,OR,Oregon City of Glendale Councilor Position 6,2026-11-03,0,,False,2,1,155,2026-11-18T16:15+00:00
+185716,OR,Oregon City of Troutdale Councilor,2026-11-03,0,,False,6,1,11727,2026-11-18T16:15+00:00
+185182,OR,Oregon City of Yoncalla Councilor Position 1,2026-11-03,0,,False,2,1,257,2026-11-18T16:15+00:00
+185640,OR,Oregon City of Johnson City Councilor,2026-11-03,0,,False,4,1,257,2026-11-18T16:15+00:00
+185707,OR,Oregon West Multnomah Soil and Water Conservation District Director At-Large Position 2,2026-11-03,0,,False,2,3,35583,2026-11-18T16:15+00:00
+185365,OR,Oregon Jefferson County Soil and Water Conservation District Director - Zone 4,2026-11-03,0,,False,2,1,6471,2026-11-18T16:15+00:00
+185709,OR,Oregon Multnomah County Interlachen Water People's Utility District Director Sub-District 2,2026-11-03,0,,False,2,1,29,2026-11-18T16:15+00:00
+185367,OR,Oregon City of Madras Mayor,2026-11-03,0,,False,3,1,2131,2026-11-18T16:15+00:00
+185825,OR,Oregon City of Summerville Council Position #3,2026-11-03,0,,False,2,1,54,2026-11-18T16:15+00:00
+185700,OR,Oregon Measure 26-269 Burlington Water District,2026-11-03,0,,False,2,1,141,2026-11-18T16:15+00:00
+185520,OR,Oregon City of Aurora Councilor Position 1,2026-11-03,0,,False,2,1,282,2026-11-18T16:15+00:00
+185978,OR,Oregon City of Astoria Councilor Ward 3,2026-11-03,0,,False,3,1,1182,2026-11-18T16:15+00:00
+185444,OR,Oregon City of Depoe Bay Council Member Position 4,2026-11-03,0,,False,2,1,504,2026-11-18T16:15+00:00
+185703,OR,Oregon City of Wood Village Councilor Position 4,2026-11-03,0,,False,2,1,628,2026-11-18T16:15+00:00
+185254,OR,Oregon Deschutes Soil & Water Conservation District Director Zone 1,2026-11-03,0,,False,3,1,51975,2026-11-18T16:15+00:00
+185513,OR,Oregon Measure 24-525 City of Aurora,2026-11-03,0,,False,2,1,392,2026-11-18T16:15+00:00
+185171,OR,Oregon City of Roseburg Councilor Ward 4 Position 1,2026-11-03,0,,False,3,1,1484,2026-11-18T16:15+00:00
+185437,OR,Oregon City of Newport Council Members,2026-11-03,0,,False,5,1,8053,2026-11-18T16:15+00:00
+185696,OR,Oregon City of Cascade Locks Council Members,2026-11-03,0,,False,5,1,1533,2026-11-18T16:15+00:00
+185162,OR,Oregon Douglas County Umpqua Soil and Water Conservation District Director Position 1 At-Large,2026-11-03,0,,False,2,1,1669,2026-11-18T16:15+00:00
+185698,OR,Oregon Measure 26-266 City of Troutdale,2026-11-03,0,,False,2,1,5137,2026-11-18T16:15+00:00
+185164,OR,Oregon City of Elkton Councilor,2026-11-03,0,,False,2,1,110,2026-11-18T16:15+00:00
+185814,OR,Oregon City of Arlington Councilor Position No. 5,2026-11-03,0,,False,2,1,198,2026-11-18T16:15+00:00
+185689,OR,Oregon Measure 14-86 City of Hood River,2026-11-03,0,,False,2,1,3966,2026-11-18T16:15+00:00
+185347,OR,Oregon City of Lyons Council Members,2026-11-03,0,,False,3,1,708,2026-11-18T16:15+00:00
+185691,OR,Oregon Hood River County Soil & Water Conservation District Director At Large 2,2026-11-03,0,,False,2,1,7684,2026-11-18T16:15+00:00
+185157,OR,Oregon City of Roseburg Councilor Ward 3 Position 1,2026-11-03,0,,False,3,1,1527,2026-11-18T16:15+00:00
+185807,OR,Oregon Gilliam County Treasurer,2026-11-03,0,,False,2,1,776,2026-11-18T16:15+00:00
+185874,OR,Oregon Measure 32-012 City of Joseph #25,2026-11-03,0,,False,2,1,693,2026-11-18T16:15+00:00
+185340,OR,Oregon City of Halsey Mayor,2026-11-03,0,,False,2,1,295,2026-11-18T16:15+00:00
+185876,OR,Oregon City of Joseph Councilor #1,2026-11-03,0,,False,2,1,289,2026-11-18T16:15+00:00
+185342,OR,Oregon City of Lebanon Councilor Ward III,2026-11-03,0,,False,2,1,1681,2026-11-18T16:15+00:00
+185000,OR,Oregon Measure 17-128 Williams Rural Fire Protection District,2026-11-03,0,,False,2,1,1005,2026-11-18T16:15+00:00
+185067,OR,Oregon City of Shady Cove Council Member (2 Year Unexpired Term),2026-11-03,0,,False,2,1,1032,2026-11-18T16:15+00:00
+185525,OR,Oregon City of Gervais Councilor (Vote For 3),2026-11-03,0,,False,4,1,413,2026-11-18T16:15+00:00
+185069,OR,Oregon City of Gold Hill Council Members,2026-11-03,0,,False,5,1,1111,2026-11-18T16:15+00:00
+185527,OR,Oregon City of Scotts Mills Mayor,2026-11-03,0,,False,4,1,152,2026-11-18T16:15+00:00
+185985,OR,Oregon City of Gearhart Councilor Position 1,2026-11-03,0,,False,3,1,969,2026-11-18T16:15+00:00
+185060,OR,Oregon Jackson Soil and Water Conservation District Director Zone 1,2026-11-03,0,,False,2,1,62807,2026-11-18T16:15+00:00
+185710,OR,Oregon City of Gresham Councilor Position 4,2026-11-03,0,,False,5,1,25061,2026-11-18T16:15+00:00
+185062,OR,Oregon City of Medford Council Member Ward 2,2026-11-03,0,,False,4,1,6065,2026-11-18T16:15+00:00
+185872,OR,Oregon City of Ione Councilor Position 5,2026-11-03,0,,False,4,1,166,2026-11-18T16:15+00:00
+185146,OR,Oregon City of Reedsport Councilor Position 5,2026-11-03,0,,False,3,1,1460,2026-11-18T16:15+00:00
+185796,OR,Oregon Tillamook County Soil and Water Conservation District Director At-Large #2,2026-11-03,0,,False,2,1,9431,2026-11-18T16:15+00:00
+185063,OR,Oregon Jackson County Sheriff,2026-11-03,0,,False,2,1,70177,2026-11-18T16:15+00:00
+185606,OR,Oregon Measure 03-641 City of Wilsonville,2026-11-03,0,,False,2,2,10408,2026-11-18T16:15+00:00
+185865,OR,Oregon Town of Lexington Councilor Position 4,2026-11-03,0,,False,2,1,108,2026-11-18T16:15+00:00
+185331,OR,Oregon Measure 22-219 Mill City Rural Fire Protection District,2026-11-03,0,,False,2,2,873,2026-11-18T16:15+00:00
+185789,OR,Oregon City of Manzanita City Council,2026-11-03,0,,False,3,1,704,2026-11-18T16:15+00:00
+185056,OR,Oregon City of Phoenix Council Members,2026-11-03,0,,False,4,1,3720,2026-11-18T16:15+00:00
+185322,OR,Oregon City of Adair Village Ward 3 City Council,2026-11-03,0,,False,2,1,91,2026-11-18T16:15+00:00
+185058,OR,Oregon City of Rogue River Council Members,2026-11-03,0,,False,4,1,1877,2026-11-18T16:15+00:00
+185324,OR,Oregon Benton Soil and Water Conservation District Director At-Large 2 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,21912,2026-11-18T16:15+00:00
+185974,OR,Oregon Measure 04-249 Clatsop Care Center Health District,2026-11-03,0,,False,2,1,12774,2026-11-18T16:15+00:00
+185440,OR,Oregon Lincoln County Soil & Water Conservation District Director Zone 3 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,828,2026-11-18T16:15+00:00
+185507,OR,Oregon City of Unity City Council,2026-11-03,0,,False,4,1,71,2026-11-18T16:15+00:00
+185442,OR,Oregon City of Toledo Council Member Position 6,2026-11-03,0,,False,2,1,756,2026-11-18T16:15+00:00
+185317,OR,Oregon City of Corvallis Ward 7 City Council - 1st Choice,2026-11-03,0,,False,4,1,2610,2026-11-18T16:15+00:00
+185967,OR,Oregon Columbia County McNulty Water PUD Director Subdivision 2,2026-11-03,0,,False,2,1,178,2026-11-18T16:15+00:00
+185433,OR,Oregon City of Toledo Council Member Position 2,2026-11-03,0,,False,2,1,809,2026-11-18T16:15+00:00
+185500,OR,Oregon City of Richland Mayor,2026-11-03,0,,False,2,1,28,2026-11-18T16:15+00:00
+185435,OR,Oregon City of Lincoln City Mayor,2026-11-03,0,,False,3,1,3225,2026-11-18T16:15+00:00
+185502,OR,Oregon City of Sumpter Council Position 4,2026-11-03,0,,False,2,1,38,2026-11-18T16:15+00:00
+185960,OR,Oregon Columbia County Sheriff,2026-11-03,0,,False,2,1,18572,2026-11-18T16:15+00:00
+185618,OR,Oregon City of Milwaukie Mayor,2026-11-03,0,,False,4,2,9495,2026-11-18T16:15+00:00
+185685,OR,Oregon Northern Wasco County PUD Subdivision #4 Director,2026-11-03,0,,False,2,1,1055,2026-11-18T16:15+00:00
+185620,OR,Oregon Clackamas Soil & Water Conservation District Director Zone 1,2026-11-03,0,,False,2,1,96269,2026-11-18T16:15+00:00
+185687,OR,Oregon Wasco County Soil & Water Conservation District Director Zone #2,2026-11-03,0,,False,2,1,6212,2026-11-18T16:15+00:00
+185153,OR,Oregon City of Riddle Councilor Position 5,2026-11-03,0,,False,2,1,248,2026-11-18T16:15+00:00
+185611,OR,Oregon City of Tualatin Council Member Position 5,2026-11-03,0,,False,2,2,5476,2026-11-18T16:15+00:00
+185070,OR,Oregon Town of Butte Falls Council Member Position 4,2026-11-03,0,,False,2,1,135,2026-11-18T16:15+00:00
+185613,OR,Oregon City of Tualatin Council Member Position 3,2026-11-03,0,,False,2,2,5170,2026-11-18T16:15+00:00
+185306,OR,Oregon City of Corvallis Mayor - 1st Choice,2026-11-03,0,,False,5,1,18046,2026-11-18T16:15+00:00
+159152,OR,Oregon State House 5,2026-11-03,0,2026-11-12T01:54:12.336Z,False,3,1,36589,2026-11-18T16:15+00:00
+185614,OR,Oregon Clackamas Soil & Water Conservation District Director Zone 5,2026-11-03,0,,False,2,1,98445,2026-11-18T16:15+00:00
+159154,OR,Oregon State Senate 13,2026-11-03,0,2026-11-12T01:54:12.336Z,False,4,3,66157,2026-11-18T16:15+00:00
+185424,OR,Oregon City of Depoe Bay Council Member Position 2 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,475,2026-11-18T16:15+00:00
+185491,OR,Oregon City of Halfway Mayor,2026-11-03,0,,False,2,1,135,2026-11-18T16:15+00:00
+159145,OR,Oregon State Senate 15,2026-11-03,0,2026-11-12T01:54:12.336Z,False,3,1,53238,2026-11-18T16:15+00:00
+185607,OR,Oregon Measure 03-642 City of Canby,2026-11-03,0,,False,2,1,8435,2026-11-18T16:15+00:00
+185951,OR,Oregon City of Clatskanie Mayor,2026-11-03,0,,False,4,1,760,2026-11-18T16:15+00:00
+185674,OR,Oregon Northern Wasco County PUD Subdivision #5 Director,2026-11-03,0,,False,2,1,1006,2026-11-18T16:15+00:00
+185609,OR,Oregon Measure 26-267 City of Portland,2026-11-03,0,,False,2,3,213409,2026-11-18T16:15+00:00
+185676,OR,Oregon City of Shaniko Council,2026-11-03,0,,False,3,1,36,2026-11-18T16:15+00:00
+185142,OR,Oregon City of Oakland Mayor,2026-11-03,0,,False,3,1,341,2026-11-18T16:15+00:00
+185792,OR,Oregon City of Tillamook City Council Ward 2,2026-11-03,0,,False,2,1,220,2026-11-18T16:15+00:00
+185859,OR,Oregon City of Ione Councilor Position 4,2026-11-03,0,,False,3,1,173,2026-11-18T16:15+00:00
+185794,OR,Oregon City of Garibaldi City Council,2026-11-03,0,,False,3,1,615,2026-11-18T16:15+00:00
+185669,OR,Oregon City of Mosier Councilor Position #3,2026-11-03,0,,False,2,1,43,2026-11-18T16:15+00:00
+185135,OR,Oregon Measure 10-216 Glide School District 12,2026-11-03,0,,False,2,1,2673,2026-11-18T16:15+00:00
+185785,OR,Oregon City of Manzanita Mayor,2026-11-03,0,,False,2,1,359,2026-11-18T16:15+00:00
+185251,OR,Oregon City of Creswell Councilor,2026-11-03,0,,False,4,1,3056,2026-11-18T16:15+00:00
+185787,OR,Oregon Tillamook PUD Director Subdivision 4,2026-11-03,0,,False,2,1,1936,2026-11-18T16:15+00:00
+185854,OR,"Oregon Measure 30-176 Pilot Rock Fire District, 7-401",2026-11-03,0,,False,2,2,910,2026-11-18T16:15+00:00
+185128,OR,Oregon Lake County Sheriff,2026-11-03,0,,False,2,1,2994,2026-11-18T16:15+00:00
+159166,OR,Oregon Judge of the Circuit Court 4th District Position 6,2026-11-03,0,,False,2,1,170178,2026-11-18T16:15+00:00
+185244,OR,Oregon City of Cottage Grove Mayor,2026-11-03,0,,False,2,1,2014,2026-11-18T16:15+00:00
+159168,OR,Oregon State House 38,2026-11-03,0,2026-11-04T07:09:42.102Z,False,2,2,27942,2026-11-18T16:15+00:00
+185246,OR,Oregon City of Cottage Grove Councilor Ward 1,2026-11-03,0,,False,3,1,2592,2026-11-18T16:15+00:00
+185313,OR,Oregon Benton Soil and Water Conservation District Director Zone 1,2026-11-03,0,,False,2,1,25863,2026-11-18T16:15+00:00
+159159,OR,Oregon State House 44,2026-11-03,0,2026-11-04T07:09:42.102Z,False,3,1,32296,2026-11-18T16:15+00:00
+185429,OR,Oregon Lincoln County Clerk,2026-11-03,0,,False,2,1,13284,2026-11-18T16:15+00:00
+159161,OR,Oregon State House 21,2026-11-03,0,2026-11-12T01:54:12.337Z,False,3,1,26379,2026-11-18T16:15+00:00
+185431,OR,Oregon City of Depoe Bay Council Member Position 5,2026-11-03,0,,False,2,1,460,2026-11-18T16:15+00:00
+185924,OR,Oregon City of Stanfield Council At Large,2026-11-03,0,,False,4,1,1117,2026-11-18T16:15+00:00
+159162,OR,Oregon State House 16,2026-11-03,0,2026-11-04T07:09:42.101Z,False,2,1,23056,2026-11-18T16:15+00:00
+185926,OR,Oregon City of Milton-Freewater Council At Large 2,2026-11-03,0,,False,2,1,975,2026-11-18T16:15+00:00
+185776,OR,Oregon City of Banks Council Member Position 5,2026-11-03,0,,False,3,1,461,2026-11-18T16:15+00:00
+185050,OR,Oregon City of Phoenix Mayor,2026-11-03,0,,False,2,1,1516,2026-11-18T16:15+00:00
+185917,OR,Oregon City of Umatilla Mayor,2026-11-03,0,,False,2,1,923,2026-11-18T16:15+00:00
+159155,OR,Oregon State House 22,2026-11-03,0,2026-11-12T01:54:12.337Z,False,3,1,20175,2026-11-18T16:15+00:00
+185119,OR,Oregon Klamath Soil & Water Conservation Director Zone 5,2026-11-03,0,,False,2,1,14044,2026-11-18T16:15+00:00
+185769,OR,Oregon City of Durham Council Members,2026-11-03,0,,False,3,1,731,2026-11-18T16:15+00:00
+185235,OR,Oregon Linn Soil & Water Conservation District Director Zone 3,2026-11-03,0,,False,2,2,3686,2026-11-18T16:15+00:00
+185302,OR,Oregon Benton County Commissioner Position 1,2026-11-03,0,,False,3,1,35309,2026-11-18T16:15+00:00
+159148,OR,Oregon State Senate 24,2026-11-03,0,2026-11-04T07:09:42.101Z,False,2,2,33057,2026-11-18T16:15+00:00
+185418,OR,Oregon Central Lincoln PUD - Subdivision 1 Director,2026-11-03,0,,False,2,1,2635,2026-11-18T16:15+00:00
+159150,OR,Oregon State House 18,2026-11-03,0,2026-11-12T01:54:12.337Z,False,4,2,34795,2026-11-18T16:15+00:00
+185228,OR,Oregon Lane County Sheriff,2026-11-03,0,,False,2,1,75730,2026-11-18T16:15+00:00
+185487,OR,Oregon City of Huntington Mayor,2026-11-03,0,,False,2,1,173,2026-11-18T16:15+00:00
+159141,OR,Oregon State House 52,2026-11-03,0,2026-11-12T01:54:12.337Z,False,3,4,33551,2026-11-18T16:15+00:00
+185603,OR,Oregon Measure 03-644 Gladstone School District,2026-11-03,0,,False,2,1,4971,2026-11-18T16:15+00:00
+159143,OR,Oregon State House 49,2026-11-03,0,2026-11-12T01:54:12.337Z,False,3,1,21820,2026-11-18T16:15+00:00
+185413,OR,Oregon City of Waldport Mayor,2026-11-03,0,,False,4,1,717,2026-11-18T16:15+00:00
+185480,OR,Oregon City of Salem Mayor,2026-11-03,0,,False,2,2,30689,2026-11-18T16:15+00:00
+185938,OR,Oregon Columbia County Clatskanie PUD Director Subdivision 3,2026-11-03,0,,False,2,1,584,2026-11-18T16:15+00:00
+185596,OR,Oregon City of Lafayette Councilor 3 At-Large (2 Year Unexpired Term),2026-11-03,0,,False,2,1,1092,2026-11-18T16:15+00:00
+185940,OR,Oregon City of Prescott Council Member Position 1,2026-11-03,0,,False,3,1,26,2026-11-18T16:15+00:00
+185598,OR,Oregon City of Yamhill Mayor,2026-11-03,0,,False,2,1,459,2026-11-18T16:15+00:00
+185665,OR,Oregon City of Antelope Council Seat #4,2026-11-03,0,,False,2,1,16,2026-11-18T16:15+00:00
+185931,OR,Oregon Measure 05-312 City of St. Helens,2026-11-03,0,,False,2,1,5834,2026-11-18T16:15+00:00
+185781,OR,Oregon City of Nehalem City Council Position 2 (2 Year Unexpired Term),2026-11-03,0,,False,3,1,117,2026-11-18T16:15+00:00
+185933,OR,Oregon Measure 05-314 Columbia,2026-11-03,0,,False,2,1,25193,2026-11-18T16:15+00:00
+185783,OR,Oregon City of Garibaldi Mayor,2026-11-03,0,,False,2,1,401,2026-11-18T16:15+00:00
+185658,OR,Oregon Wasco County Chenowith Water PUD Director Subdivision #2,2026-11-03,0,,False,2,1,176,2026-11-18T16:15+00:00
+185934,OR,Oregon Measure 05-315 Clatskanie Park and Recreation District,2026-11-03,0,,False,2,1,2984,2026-11-18T16:15+00:00
+185286,OR,Oregon Malheur County Soil & Water Conservation Director - Zone 5,2026-11-03,0,,False,2,1,270,2026-11-18T16:15+00:00
+159132,OR,Oregon State House 20,2026-11-03,0,2026-11-12T01:54:12.337Z,False,4,2,32042,2026-11-18T16:15+00:00
+185402,OR,Oregon Grant County Dayville Position #3,2026-11-03,0,,False,2,1,71,2026-11-18T16:15+00:00
+185277,OR,Oregon City of Jordan Valley Council Member Position 4,2026-11-03,0,,False,2,1,53,2026-11-18T16:15+00:00
+185927,OR,Oregon Umatilla County Soil & Water At Large Director Zone 2,2026-11-03,0,,False,2,1,15655,2026-11-18T16:15+00:00
+185471,OR,Oregon City of Monmouth Council Members,2026-11-03,0,,False,7,1,7812,2026-11-18T16:15+00:00
+159125,OR,Oregon State Senate 11,2026-11-03,0,2026-11-12T01:54:12.336Z,False,3,1,46826,2026-11-18T16:15+00:00
+185587,OR,Oregon City of Lafayette Mayor,2026-11-03,0,,False,2,1,1244,2026-11-18T16:15+00:00
+185654,OR,Oregon City of West Linn Municipal Court Judge,2026-11-03,0,,False,2,1,7431,2026-11-18T16:15+00:00
+185920,OR,Oregon City of Pilot Rock Mayor,2026-11-03,0,,False,2,1,493,2026-11-18T16:15+00:00
+185578,OR,Oregon City of Dayton Mayor,2026-11-03,0,,False,3,1,1048,2026-11-18T16:15+00:00
+185922,OR,Oregon City of Echo Council At Large (Vote For 4),2026-11-03,0,,False,4,1,448,2026-11-18T16:15+00:00
+185580,OR,Oregon City of Dundee Councilor 3 At-Large,2026-11-03,0,,False,4,1,2811,2026-11-18T16:15+00:00
+185046,OR,Oregon City of Ashland Park Commissioners,2026-11-03,0,,False,8,1,27599,2026-11-18T16:15+00:00
+185913,OR,Oregon City of Umatilla Council Position 5,2026-11-03,0,,False,2,1,846,2026-11-18T16:15+00:00
+185763,OR,Oregon City of Banks Council Member Position 1,2026-11-03,0,,False,3,1,468,2026-11-18T16:15+00:00
+185915,OR,Oregon City of Echo Mayor,2026-11-03,0,,False,2,1,207,2026-11-18T16:15+00:00
+185573,OR,Oregon City of Gaston Mayor,2026-11-03,0,,False,3,2,158,2026-11-18T16:15+00:00
+185039,OR,Oregon City of Talent Mayor,2026-11-03,0,,False,2,1,2085,2026-11-18T16:15+00:00
+185106,OR,Oregon Klamath County Chiloquin Council Position 4,2026-11-03,0,,False,2,1,22,2026-11-18T16:15+00:00
+185756,OR,Oregon City of Hillsboro Council Member Ward 2 Position A,2026-11-03,0,,False,3,1,22301,2026-11-18T16:15+00:00
+185108,OR,Oregon City of Merrill Council Position 4,2026-11-03,0,,False,2,1,19,2026-11-18T16:15+00:00
+185758,OR,Oregon Washington County Tualatin Soil and Water Conservation District Director Zone 5,2026-11-03,0,,False,3,1,132295,2026-11-18T16:15+00:00
+185224,OR,Oregon Lane County Upper Willamette Soil & Water District Director Zone 5 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,63151,2026-11-18T16:15+00:00
+185291,OR,Oregon Crook County Clerk,2026-11-03,0,,False,2,1,10372,2026-11-18T16:15+00:00
+159137,OR,Oregon State House 10,2026-11-03,0,2026-11-04T07:09:42.101Z,False,2,3,27194,2026-11-18T16:15+00:00
+185293,OR,Oregon Crook County Treasurer,2026-11-03,0,,False,3,1,11807,2026-11-18T16:15+00:00
+159139,OR,Oregon Judge of the Circuit Court 4th District Position 14,2026-11-03,0,,False,3,1,224940,2026-11-18T16:15+00:00
+185409,OR,Oregon Measure 21-244 City of Newport,2026-11-03,0,,False,2,1,3435,2026-11-18T16:15+00:00
+185284,OR,Oregon City of Jordan Valley Council Member Position 2,2026-11-03,0,,False,2,1,12,2026-11-18T16:15+00:00
+185104,OR,Oregon Klamath County Clerk,2026-11-03,0,,False,3,1,24210,2026-11-18T16:15+00:00
+185562,OR,Oregon City of Keizer Councilor Position #4,2026-11-03,0,,False,4,1,8151,2026-11-18T16:15+00:00
+185028,OR,Oregon City of Gold Beach Council Position 5,2026-11-03,0,,False,2,1,105,2026-11-18T16:15+00:00
+185287,OR,Oregon Malheur County Soil & Water Conservation Director - Zone 4 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,353,2026-11-18T16:15+00:00
+185830,OR,Oregon City of North Powder Council Position #5,2026-11-03,0,,False,2,1,216,2026-11-18T16:15+00:00
+185097,OR,Oregon City of Coos Bay Council Members,2026-11-03,0,,False,4,1,9542,2026-11-18T16:15+00:00
+185747,OR,Oregon City of Wasco Council Members,2026-11-03,0,,False,4,1,454,2026-11-18T16:15+00:00
+185021,OR,Oregon City of Brookings Mayor,2026-11-03,0,,False,2,1,1545,2026-11-18T16:15+00:00
+185280,OR,Oregon City of Adrian Council Members (4 Year Term - 2 Seats) (2 Year Unexpired Term - 1 Seat),2026-11-03,0,,False,3,1,94,2026-11-18T16:15+00:00
+185738,OR,Oregon City of Moro City Council Position 1,2026-11-03,0,,False,3,1,172,2026-11-18T16:15+00:00
+185282,OR,Oregon City of Nyssa Council Members (4 Year Term - 3 Seats) (2 Year Unexpired Term - 1 Seat),2026-11-03,0,,False,8,1,2072,2026-11-18T16:15+00:00
+185740,OR,Oregon City of Grass Valley Council Member Position 1,2026-11-03,0,,False,2,1,26,2026-11-18T16:15+00:00
+185398,OR,Oregon Grant County Monument Position #6,2026-11-03,0,,False,2,1,14,2026-11-18T16:15+00:00
+185273,OR,Oregon City of Ontario Mayor,2026-11-03,0,,False,4,1,2814,2026-11-18T16:15+00:00
+159119,OR,Oregon State House 27,2026-11-03,0,2026-11-04T07:09:42.101Z,False,3,1,31751,2026-11-18T16:15+00:00
+185275,OR,Oregon City of Jordan Valley Council Member Position 6,2026-11-03,0,,False,2,1,62,2026-11-18T16:15+00:00
+185733,OR,Oregon City of Wasco Mayor,2026-11-03,0,,False,2,1,160,2026-11-18T16:15+00:00
+185391,OR,Oregon Grant County Dayville Position #4,2026-11-03,0,,False,2,1,60,2026-11-18T16:15+00:00
+185458,OR,Oregon City of Spray Council Position #2,2026-11-03,0,,False,2,1,65,2026-11-18T16:15+00:00
+159112,OR,Oregon State House 45,2026-11-03,0,2026-11-04T07:09:42.102Z,False,3,1,35120,2026-11-18T16:15+00:00
+185460,OR,Oregon City of Spray Mayor,2026-11-03,0,,False,2,1,69,2026-11-18T16:15+00:00
+159114,OR,Oregon Judge of the Circuit Court 5th District Position 5,2026-11-03,0,,False,2,1,104024,2026-11-18T16:15+00:00
+185384,OR,Oregon Grant County Long Creek Position #3,2026-11-03,0,,False,2,1,67,2026-11-18T16:15+00:00
+185842,OR,Oregon City of North Powder Council Position #2,2026-11-03,0,,False,2,1,202,2026-11-18T16:15+00:00
+185909,OR,Oregon City of Helix Mayor,2026-11-03,0,,False,2,1,46,2026-11-18T16:15+00:00
+185844,OR,Oregon Union County Commissioner Position #2,2026-11-03,0,,False,3,1,11850,2026-11-18T16:15+00:00
+185911,OR,Oregon City of Ukiah Mayor,2026-11-03,0,,False,2,1,82,2026-11-18T16:15+00:00
+185569,OR,Oregon Measure 36-243 City of Dayton,2026-11-03,0,,False,2,1,1105,2026-11-18T16:15+00:00
+185835,OR,Oregon City of Island City Council Position #6,2026-11-03,0,,False,2,1,397,2026-11-18T16:15+00:00
+185294,OR,Oregon Crook County Commissioner Position 2,2026-11-03,0,,False,3,1,13075,2026-11-18T16:15+00:00
+185837,OR,Oregon City of Elgin Council - At Large,2026-11-03,0,,False,6,1,1749,2026-11-18T16:15+00:00
+185722,OR,Oregon Multnomah County Sheriff,2026-11-03,0,,False,2,1,0,2026-11-18T16:15+00:00
+185188,OR,Oregon Harney County Treasurer,2026-11-03,0,,False,2,1,3012,2026-11-18T16:15+00:00
+185838,OR,Oregon Union Soil & Water District Director Zone 2,2026-11-03,0,,False,2,1,7986,2026-11-18T16:15+00:00
+185190,OR,Oregon City of Hines Council Position 4,2026-11-03,0,,False,2,1,536,2026-11-18T16:15+00:00
+185648,OR,Oregon City of Estacada Mayor,2026-11-03,0,,False,3,1,2198,2026-11-18T16:15+00:00
+159103,OR,Oregon State House 19,2026-11-03,0,2026-11-12T01:54:12.337Z,False,3,1,29238,2026-11-18T16:15+00:00
+185181,OR,Oregon City of Myrtle Creek Councilor Position 2,2026-11-03,0,,False,2,1,906,2026-11-18T16:15+00:00
+185831,OR,Oregon City of Cove Mayor,2026-11-03,0,,False,2,1,82,2026-11-18T16:15+00:00
+185898,OR,Oregon City of Weston Council At Large,2026-11-03,0,,False,3,1,299,2026-11-18T16:15+00:00
+185833,OR,Oregon City of Elgin Recorder/Adminstrator,2026-11-03,0,,False,2,1,539,2026-11-18T16:15+00:00
+185900,OR,Oregon City of Athena Council Position 3,2026-11-03,0,,False,2,1,489,2026-11-18T16:15+00:00
+185558,OR,Oregon City of Sublimity Mayor,2026-11-03,0,,False,2,1,1027,2026-11-18T16:15+00:00
+185024,OR,Oregon City of Gold Beach Council Position 1,2026-11-03,0,,False,2,1,601,2026-11-18T16:15+00:00
+185091,OR,Oregon Coos Soil and Water Conservation District Director At Large Position 2,2026-11-03,0,,False,2,1,14852,2026-11-18T16:15+00:00
+185026,OR,Oregon City of Port Orford Council,2026-11-03,0,,False,3,1,844,2026-11-18T16:15+00:00
+185893,OR,Oregon City of Lostine Councilor #3,2026-11-03,0,,False,2,1,121,2026-11-18T16:15+00:00
+185551,OR,Oregon City of Aumsville Councilor,2026-11-03,0,,False,4,1,1342,2026-11-18T16:15+00:00
+185017,OR,Oregon Josephine County Illinois Valley Soil & Water Conservation District Director Zone 3,2026-11-03,0,,False,2,1,2556,2026-11-18T16:15+00:00
+185084,OR,Oregon City of North Bend Mayor,2026-11-03,0,,False,3,1,4095,2026-11-18T16:15+00:00
+185019,OR,Oregon City of Cave Junction Council Position 1,2026-11-03,0,,False,2,1,587,2026-11-18T16:15+00:00
+185086,OR,Oregon Coos County Clerk,2026-11-03,0,,False,2,1,18631,2026-11-18T16:15+00:00
+185544,OR,Oregon City of Aurora Mayor,2026-11-03,0,,False,2,1,311,2026-11-18T16:15+00:00
+185202,OR,Oregon City of Westfir Councilor,2026-11-03,0,,False,2,1,98,2026-11-18T16:15+00:00
+185269,OR,Oregon Deschutes Soil & Water Conservation District Director Zone 3,2026-11-03,0,,False,2,1,4991,2026-11-18T16:15+00:00
+185204,OR,Oregon Linn Soil & Water Conservation District Director Zone 1,2026-11-03,0,,False,2,2,33715,2026-11-18T16:15+00:00
+185271,OR,Oregon City of Sisters City Council,2026-11-03,0,,False,5,1,4902,2026-11-18T16:15+00:00
+185729,OR,Oregon Measure 28-51 City of Rufus,2026-11-03,0,,False,2,1,130,2026-11-18T16:15+00:00
+185195,OR,Oregon Measure 20-387 City of Oakridge,2026-11-03,0,,False,2,1,912,2026-11-18T16:15+00:00
+185653,OR,Oregon City of Estacada Councilor,2026-11-03,0,,False,4,1,3213,2026-11-18T16:15+00:00
+185197,OR,Oregon Measure 20-389 Western Lane Ambulance District,2026-11-03,0,,False,2,1,8017,2026-11-18T16:15+00:00
+185456,OR,Oregon Wheeler County Soil & Water Conservation District Director At Large 2,2026-11-03,0,,False,2,1,631,2026-11-18T16:15+00:00
+185348,OR,Oregon City of Sweet Home Mayor,2026-11-03,0,,False,4,1,3645,2026-11-18T16:15+00:00
+185198,OR,Oregon Lane County Eugene Water & Electric Board Member At-Large,2026-11-03,0,,False,2,1,32600,2026-11-18T16:15+00:00
+185350,OR,Oregon City of Millersburg Council Members,2026-11-03,0,,False,5,1,2859,2026-11-18T16:15+00:00
+185008,OR,Oregon City of Grants Pass Council Ward 3,2026-11-03,0,,False,3,1,11526,2026-11-18T16:15+00:00
+185075,OR,Oregon Measure 06-232 North Bend City,2026-11-03,0,,False,2,1,4199,2026-11-18T16:15+00:00
+185341,OR,Oregon City of Albany Councilor Ward III-A,2026-11-03,0,,False,3,1,7686,2026-11-18T16:15+00:00
+185191,OR,Oregon City of Hines Council Position 5,2026-11-03,0,,False,2,1,537,2026-11-18T16:15+00:00
+185535,OR,Oregon City of Salem Councilor Ward 4,2026-11-03,0,,False,2,1,3352,2026-11-18T16:15+00:00
+185258,OR,Oregon Deschutes Soil & Water Conservation District Director Zone 4,2026-11-03,0,,False,2,1,52172,2026-11-18T16:15+00:00
+185993,OR,Oregon City of Seaside Councilor At Large Wards 3 and 4,2026-11-03,0,,False,2,1,1069,2026-11-18T16:15+00:00
+185260,OR,Oregon City of Redmond Mayor,2026-11-03,0,,False,4,1,14974,2026-11-18T16:15+00:00
+185718,OR,Oregon Multnomah County Commissioner District 2,2026-11-03,0,,False,8,1,0,2026-11-18T16:15+00:00
+185184,OR,Oregon City of Burns Councilperson Position No. 5,2026-11-03,0,,False,2,1,725,2026-11-18T16:15+00:00
+185642,OR,Oregon City of Oregon City Commissioner,2026-11-03,0,,False,5,1,21841,2026-11-18T16:15+00:00
+185186,OR,Oregon City of Burns Councilperson Position No. 6,2026-11-03,0,,False,2,1,106,2026-11-18T16:15+00:00
+185452,OR,Oregon City of Mitchell Council Position #5 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,15,2026-11-18T16:15+00:00
+185711,OR,Oregon Columbia River PUD Director Subdivision 1,2026-11-03,0,,False,2,2,2606,2026-11-18T16:15+00:00
+185177,OR,Oregon City of Sutherlin Councilor,2026-11-03,0,,False,5,1,6358,2026-11-18T16:15+00:00
+185827,OR,Oregon City of Summerville Council Position #4 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,53,2026-11-18T16:15+00:00
+185179,OR,Oregon City of Myrtle Creek Councilor Position 4,2026-11-03,0,,False,3,1,1107,2026-11-18T16:15+00:00
+185637,OR,Oregon City of Barlow Councilor Position 1,2026-11-03,0,,False,2,1,32,2026-11-18T16:15+00:00
+185704,OR,Oregon Multnomah County Rockwood Water People's Utility District Director Sub-District 5,2026-11-03,0,,False,2,1,1267,2026-11-18T16:15+00:00
+185362,OR,Oregon City of Mill City Councilor,2026-11-03,0,,False,4,2,1274,2026-11-18T16:15+00:00
+185820,OR,Oregon Measure 31-128 City of La Grande,2026-11-03,0,,False,2,1,5156,2026-11-18T16:15+00:00
+185364,OR,Oregon Measure 16-118 Jefferson,2026-11-03,0,,False,2,1,9666,2026-11-18T16:15+00:00
+185822,OR,Oregon City of Union Council Position #4,2026-11-03,0,,False,2,1,736,2026-11-18T16:15+00:00
+185889,OR,Oregon City of Wallowa Mayor,2026-11-03,0,,False,3,1,440,2026-11-18T16:15+00:00
+185355,OR,Oregon City of Lebanon Councilor Ward II,2026-11-03,0,,False,2,1,1306,2026-11-18T16:15+00:00
+185013,OR,Oregon Josephine County Two Rivers Soil & Water Conservation District Director At Large 2,2026-11-03,0,,False,2,1,1651,2026-11-18T16:15+00:00
+185357,OR,Oregon City of Sweet Home Council Members,2026-11-03,0,,False,5,1,6984,2026-11-18T16:15+00:00
+185015,OR,Oregon Josephine County Sheriff,2026-11-03,0,,False,3,1,35523,2026-11-18T16:15+00:00
+185882,OR,Oregon City of Enterprise Councilor #3,2026-11-03,0,,False,2,1,824,2026-11-18T16:15+00:00
+185358,OR,Oregon City of Halsey Council Members,2026-11-03,0,,False,3,1,503,2026-11-18T16:15+00:00
+185510,OR,Oregon Baker County Clerk,2026-11-03,0,,False,2,1,6381,2026-11-18T16:15+00:00
+185168,OR,Oregon City of Roseburg Councilor Ward 1 Position 1,2026-11-03,0,,False,2,1,1202,2026-11-18T16:15+00:00
+185626,OR,Oregon City of Tualatin Mayor,2026-11-03,0,,False,3,2,8082,2026-11-18T16:15+00:00
+185501,OR,Oregon City of Sumpter Council Position 2,2026-11-03,0,,False,2,1,47,2026-11-18T16:15+00:00
+185351,OR,Oregon City of Lebanon Councilor Ward I,2026-11-03,0,,False,3,1,1676,2026-11-18T16:15+00:00
+185695,OR,Oregon City of Cascade Locks Mayor,2026-11-03,0,,False,3,1,612,2026-11-18T16:15+00:00
+185161,OR,Oregon City of Roseburg Councilor Ward 2 Position 1,2026-11-03,0,,False,2,1,1290,2026-11-18T16:15+00:00
+185811,OR,Oregon Gilliam County Soil and Water Conservation District Director - Zone 3,2026-11-03,0,,False,2,1,115,2026-11-18T16:15+00:00
+185878,OR,Oregon Wallowa Soil & Water Conservation-Zone 5,2026-11-03,0,,False,2,1,3557,2026-11-18T16:15+00:00
+185344,OR,Oregon City of Albany Councilor Ward II-A,2026-11-03,0,,False,4,1,4698,2026-11-18T16:15+00:00
+185002,OR,Oregon Measure 17-130 Grants Pass School District 7,2026-11-03,0,,False,2,1,14937,2026-11-18T16:15+00:00
+185346,OR,Oregon Linn County Commissioner Position 1,2026-11-03,0,,False,3,1,57995,2026-11-18T16:15+00:00
+185804,OR,Oregon City of Condon Mayor,2026-11-03,0,,False,4,1,377,2026-11-18T16:15+00:00
+185071,OR,Oregon City of Shady Cove Mayor,2026-11-03,0,,False,2,1,1086,2026-11-18T16:15+00:00
+185337,OR,Oregon City of Brownsville Mayor,2026-11-03,0,,False,3,1,973,2026-11-18T16:15+00:00
+185987,OR,Oregon City of Seaside Councilor Ward 1,2026-11-03,0,,False,2,1,531,2026-11-18T16:15+00:00
+185339,OR,Oregon City of Waterloo Mayor,2026-11-03,0,,False,2,1,96,2026-11-18T16:15+00:00
+159185,OR,Oregon State House 47,2026-11-03,0,2026-11-04T07:09:42.102Z,False,2,1,16768,2026-11-18T16:15+00:00
+185064,OR,Oregon City of Central Point Council Member Ward 1,2026-11-03,0,,False,2,1,5621,2026-11-18T16:15+00:00
+185522,OR,Oregon City of Woodburn Councilor Ward 4,2026-11-03,0,,False,2,1,799,2026-11-18T16:15+00:00
+185980,OR,Oregon City of Cannon Beach Councilor At Large,2026-11-03,0,,False,4,1,1383,2026-11-18T16:15+00:00
+185524,OR,Oregon City of Woodburn Councilor Ward 3,2026-11-03,0,,False,2,1,628,2026-11-18T16:15+00:00
+185982,OR,Oregon City of Seaside Councilor At Large Wards 1 and 2 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,903,2026-11-18T16:15+00:00
+185448,OR,Oregon Wheeler County Soil & Water Conservation District Director Zone 5,2026-11-03,0,,False,2,1,573,2026-11-18T16:15+00:00
+185515,OR,Oregon Measure 24-527 City of Silverton,2026-11-03,0,,False,2,1,3138,2026-11-18T16:15+00:00
+185173,OR,Oregon City of Reedsport Councilor Position 4,2026-11-03,0,,False,2,1,1147,2026-11-18T16:15+00:00
+185517,OR,Oregon Measure 24-529 Mt Angel-Monitor Fire Protection District,2026-11-03,0,,False,2,2,2239,2026-11-18T16:15+00:00
+185175,OR,Oregon City of Oakland Councilor,2026-11-03,0,,False,4,1,502,2026-11-18T16:15+00:00
+185633,OR,Oregon City of Wilsonville Councilor,2026-11-03,0,,False,5,2,17163,2026-11-18T16:15+00:00
+185508,OR,Oregon City of Huntington City Council,2026-11-03,0,,False,4,1,476,2026-11-18T16:15+00:00
+185862,OR,Oregon City of Heppner Mayor,2026-11-03,0,,False,2,1,533,2026-11-18T16:15+00:00
+185328,OR,Oregon Measure 22-218 City of Tangent,2026-11-03,0,,False,2,1,512,2026-11-18T16:15+00:00
+159174,OR,Oregon State House 37,2026-11-03,0,2026-11-04T07:09:42.102Z,False,3,2,35205,2026-11-18T16:15+00:00
+185252,OR,Oregon Measure 09-185 Deschutes,2026-11-03,0,,False,2,1,98700,2026-11-18T16:15+00:00
+185511,OR,Oregon Baker Valley Soil and Water At Large 2,2026-11-03,0,,False,2,2,5426,2026-11-18T16:15+00:00
+185055,OR,Oregon City of Ashland Council Members (4 Year Term - 3 Seats) (2 Year Unexpired Term - 1 Seat),2026-11-03,0,,False,13,1,39857,2026-11-18T16:15+00:00
+185321,OR,Oregon Benton Soil and Water Conservation District Director Zone 5,2026-11-03,0,,False,2,1,1596,2026-11-18T16:15+00:00
+185971,OR,Oregon Measure 04-246 City of Astoria,2026-11-03,0,,False,2,1,4416,2026-11-18T16:15+00:00
+185245,OR,Oregon City of Springfield Councilor Ward 4,2026-11-03,0,,False,3,1,15430,2026-11-18T16:15+00:00
+185504,OR,Oregon Baker County Eagle Valley Soil and Water Zone 1,2026-11-03,0,,False,2,1,126,2026-11-18T16:15+00:00
+185962,OR,Oregon City of St. Helens Mayor,2026-11-03,0,,False,3,1,5766,2026-11-18T16:15+00:00
+185506,OR,Oregon City of Baker City Council,2026-11-03,0,,False,6,1,9672,2026-11-18T16:15+00:00
+185964,OR,Oregon City of Scappoose Mayor,2026-11-03,0,,False,2,1,2802,2026-11-18T16:15+00:00
+185622,OR,Oregon City of Milwaukie Councilor Position 4,2026-11-03,0,,False,2,2,6024,2026-11-18T16:15+00:00
+185497,OR,Oregon Baker County Eagle Valley Soil and Water At Large 2,2026-11-03,0,,False,2,1,727,2026-11-18T16:15+00:00
+185155,OR,Oregon Douglas Soil and Water Conservation District Director At Large Position 1,2026-11-03,0,,False,3,1,29659,2026-11-18T16:15+00:00
+185499,OR,Oregon Baker Valley Soil and Water Zone 1,2026-11-03,0,,False,2,2,5208,2026-11-18T16:15+00:00
+185957,OR,Oregon City of Columbia City Council Members A,2026-11-03,0,,False,3,1,1431,2026-11-18T16:15+00:00
+185615,OR,Oregon City of Gladstone Councilor Position 3,2026-11-03,0,,False,2,1,2831,2026-11-18T16:15+00:00
+185682,OR,Oregon Wasco County Chenowith Water PUD Director Subdivision #4,2026-11-03,0,,False,2,1,188,2026-11-18T16:15+00:00
+185148,OR,Oregon City of Riddle Councilor Position 1,2026-11-03,0,,False,2,1,249,2026-11-18T16:15+00:00
+185684,OR,Oregon City of The Dalles Councilor Position #3,2026-11-03,0,,False,2,1,3397,2026-11-18T16:15+00:00
+185150,OR,Oregon City of Winston Councilor Ward 1 Position 2,2026-11-03,0,,False,2,1,640,2026-11-18T16:15+00:00
+185800,OR,Oregon City of Nehalem City Council Position 1,2026-11-03,0,,False,2,1,101,2026-11-18T16:15+00:00
+185867,OR,Oregon City of Ione Councilor Position 2,2026-11-03,0,,False,3,1,173,2026-11-18T16:15+00:00
+185333,OR,Oregon City of Scio Council Members,2026-11-03,0,,False,3,1,417,2026-11-18T16:15+00:00
+185869,OR,Oregon City of Heppner Councilor Position 5,2026-11-03,0,,False,2,1,24,2026-11-18T16:15+00:00
+185335,OR,Oregon City of Sodaville Council Members,2026-11-03,0,,False,3,1,199,2026-11-18T16:15+00:00
+159181,OR,Oregon State House 23,2026-11-03,0,2026-11-04T07:09:42.101Z,False,3,2,35878,2026-11-18T16:15+00:00
+185860,OR,Oregon City of Ione Councilor Position 3 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,152,2026-11-18T16:15+00:00
+185518,OR,Oregon Marion Soil & Water Director At Large #2,2026-11-03,0,,False,2,1,42503,2026-11-18T16:15+00:00
+185680,OR,Oregon City of Dufur Council Seat #4,2026-11-03,0,,False,2,1,233,2026-11-18T16:15+00:00
+185946,OR,Oregon Columbia Soil and Water Conservation District Director Zone 3,2026-11-03,0,,False,2,1,16083,2026-11-18T16:15+00:00
+185604,OR,Oregon Measure 03-639 North Clackamas School District,2026-11-03,0,,False,2,1,50282,2026-11-18T16:15+00:00
+185863,OR,Oregon City of Irrigon Councilor at Large,2026-11-03,0,,False,4,1,892,2026-11-18T16:15+00:00
+185414,OR,Oregon City of Newport Mayor,2026-11-03,0,,False,3,1,3286,2026-11-18T16:15+00:00
+185673,OR,Oregon City of Antelope Council Seat #2,2026-11-03,0,,False,2,1,18,2026-11-18T16:15+00:00
+185139,OR,Oregon City of Riddle Mayor,2026-11-03,0,,False,2,1,248,2026-11-18T16:15+00:00
+185597,OR,Oregon Yamhill County Soil and Water Conservation District Director At-Large Position 1,2026-11-03,0,,False,2,1,27933,2026-11-18T16:15+00:00
+185856,OR,Oregon City of Heppner Councilor Position 6,2026-11-03,0,,False,2,1,512,2026-11-18T16:15+00:00
+185130,OR,Oregon City of Paisley Council,2026-11-03,0,,False,4,1,294,2026-11-18T16:15+00:00
+185858,OR,Oregon Morrow County Soil and Water Conservation Director Zone 3,2026-11-03,0,,False,2,1,2940,2026-11-18T16:15+00:00
+185132,OR,Oregon Town of Lakeview Council,2026-11-03,0,,False,4,1,1281,2026-11-18T16:15+00:00
+159170,OR,Oregon State House 42,2026-11-03,0,2026-11-04T07:09:42.102Z,False,3,1,39364,2026-11-18T16:15+00:00
+185248,OR,Oregon City of Florence Councilor (2 Year Unexpired Term),2026-11-03,0,,False,5,1,7110,2026-11-18T16:15+00:00
+185315,OR,Oregon City of Corvallis Ward 6 City Council,2026-11-03,0,,False,3,1,2309,2026-11-18T16:15+00:00
+185250,OR,Oregon Lane County Springfield Utility Board Member Position 4,2026-11-03,0,,False,2,1,10160,2026-11-18T16:15+00:00
+185125,OR,Oregon Fort Rock/Silver Lake Soil and Water Conservation District Director At Large 2,2026-11-03,0,,False,2,1,878,2026-11-18T16:15+00:00
+159163,OR,Oregon State House 56,2026-11-03,0,2026-11-04T07:09:42.102Z,False,2,2,21591,2026-11-18T16:15+00:00
+185241,OR,Oregon Lane County Springfield Commissioner Position 2,2026-11-03,0,,False,2,1,14730,2026-11-18T16:15+00:00
+185308,OR,Oregon City of Corvallis Ward 1 City Council,2026-11-03,0,,False,3,1,3417,2026-11-18T16:15+00:00
+185243,OR,Oregon City of Dunes City Mayor,2026-11-03,0,,False,3,1,721,2026-11-18T16:15+00:00
+185310,OR,Oregon City of Corvallis Ward 8 City Council,2026-11-03,0,,False,2,1,3050,2026-11-18T16:15+00:00
+159156,OR,Oregon State House 43,2026-11-03,0,2026-11-04T07:09:42.102Z,False,3,1,38639,2026-11-18T16:15+00:00
+185426,OR,Oregon City of Toledo Council Member Position 4,2026-11-03,0,,False,2,1,783,2026-11-18T16:15+00:00
+185493,OR,Oregon City of Haines Mayor,2026-11-03,0,,False,3,1,175,2026-11-18T16:15+00:00
+185428,OR,Oregon Lincoln County Soil & Water Conservation District Director Zone 2,2026-11-03,0,,False,2,1,11887,2026-11-18T16:15+00:00
+185495,OR,Oregon Baker County Commissioner Position 3,2026-11-03,0,,False,3,1,7779,2026-11-18T16:15+00:00
+185953,OR,Oregon City of Prescott Mayor,2026-11-03,0,,False,2,1,28,2026-11-18T16:15+00:00
+185419,OR,Oregon City of Siletz Council Member Position 2 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,202,2026-11-18T16:15+00:00
+185870,OR,Oregon Town of Lexington Councilor Position 3,2026-11-03,0,,False,2,1,14,2026-11-18T16:15+00:00
+185421,OR,Oregon City of Yachats Council Members,2026-11-03,0,,False,4,1,903,2026-11-18T16:15+00:00
+185114,OR,Oregon Klamath County Bonanza Council Position 3 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,109,2026-11-18T16:15+00:00
+185764,OR,Oregon City of Hillsboro Council Member Ward 3 Position A,2026-11-03,0,,False,4,1,22168,2026-11-18T16:15+00:00
+185422,OR,Oregon Lincoln City Council Member Ward III,2026-11-03,0,,False,2,1,630,2026-11-18T16:15+00:00
+185766,OR,Oregon City of Tigard Mayor,2026-11-03,0,,False,3,1,16485,2026-11-18T16:15+00:00
+185232,OR,Oregon Lane County East Commissioner Position 5,2026-11-03,0,,False,3,1,28814,2026-11-18T16:15+00:00
+185299,OR,Oregon Measure 02-159 City of Corvallis,2026-11-03,0,,False,2,1,20452,2026-11-18T16:15+00:00
+185757,OR,Oregon Washington County Commissioner District 4,2026-11-03,0,,False,3,1,34031,2026-11-18T16:15+00:00
+185415,OR,Oregon Lincoln County Treasurer,2026-11-03,0,,False,2,1,12641,2026-11-18T16:15+00:00
+159147,OR,Oregon State House 11,2026-11-03,0,2026-11-04T07:09:42.101Z,False,3,2,33713,2026-11-18T16:15+00:00
+185482,OR,Oregon City of Dallas Mayor,2026-11-03,0,,False,2,1,5322,2026-11-18T16:15+00:00
+185417,OR,Oregon City of Depoe Bay Mayor,2026-11-03,0,,False,2,1,547,2026-11-18T16:15+00:00
+185484,OR,Oregon City of Dallas Council Members,2026-11-03,0,,False,6,1,19874,2026-11-18T16:15+00:00
+185942,OR,Oregon City of St. Helens City Council A,2026-11-03,0,,False,6,1,9179,2026-11-18T16:15+00:00
+185600,OR,Oregon City of McMinnville Councilor Ward 2,2026-11-03,0,,False,2,1,3979,2026-11-18T16:15+00:00
+185667,OR,Oregon Wasco County Commissioner Position 3,2026-11-03,0,,False,2,1,8404,2026-11-18T16:15+00:00
+185602,OR,Oregon City of Gaston Council Member Position 6,2026-11-03,0,,False,2,2,111,2026-11-18T16:15+00:00
+185477,OR,Oregon Polk Soil and Water Conservation District Director Zone 2,2026-11-03,0,,False,2,1,1749,2026-11-18T16:15+00:00
+185935,OR,Oregon Columbia River PUD Director Subdivision 2,2026-11-03,0,,False,2,1,2715,2026-11-18T16:15+00:00
+185593,OR,Oregon City of Amity Councilor Position 6 At-Large,2026-11-03,0,,False,2,1,48,2026-11-18T16:15+00:00
+185660,OR,Oregon City of Mosier Mayor,2026-11-03,0,,False,2,1,141,2026-11-18T16:15+00:00
+185595,OR,Oregon City of Newberg Councilor District 4 At-Large,2026-11-03,0,,False,3,1,10199,2026-11-18T16:15+00:00
+185662,OR,Oregon City of Antelope Mayor,2026-11-03,0,,False,2,1,20,2026-11-18T16:15+00:00
+185928,OR,Oregon Umatilla County Soil & Water At Large Director Zone 5,2026-11-03,0,,False,2,1,15488,2026-11-18T16:15+00:00
+185778,OR,Oregon Tillamook PUD Director Subdivision 5,2026-11-03,0,,False,2,2,2191,2026-11-18T16:15+00:00
+185052,OR,Oregon Town of Butte Falls Council Member Position 5,2026-11-03,0,,False,3,1,165,2026-11-18T16:15+00:00
+185780,OR,Oregon Tillamook County Soil and Water Conservation District Director Zone 2,2026-11-03,0,,False,2,1,9378,2026-11-18T16:15+00:00
+185054,OR,Oregon City of Shady Cove Council Members,2026-11-03,0,,False,3,1,1839,2026-11-18T16:15+00:00
+185121,OR,Oregon City of Klamath Falls Ward 3 City Council,2026-11-03,0,,False,2,1,702,2026-11-18T16:15+00:00
+185771,OR,Oregon Washington County Tualatin Soil and Water Conservation District Director Zone 3,2026-11-03,0,,False,2,1,12893,2026-11-18T16:15+00:00
+185237,OR,Oregon City of Westfir Mayor,2026-11-03,0,,False,2,1,19,2026-11-18T16:15+00:00
+185773,OR,Oregon City of Cornelius Mayor,2026-11-03,0,,False,2,1,2318,2026-11-18T16:15+00:00
+185239,OR,Oregon Lane County Upper Willamette Soil & Water District Director Zone 1,2026-11-03,0,,False,2,1,7504,2026-11-18T16:15+00:00
+159120,OR,Oregon State House 35,2026-11-03,0,2026-11-04T07:09:42.102Z,False,3,1,22815,2026-11-18T16:15+00:00
+185774,OR,Oregon City of Tigard Council Members,2026-11-03,0,,False,9,1,43730,2026-11-18T16:15+00:00
+159122,OR,Oregon State House 46,2026-11-03,0,2026-11-04T07:09:42.102Z,False,3,1,30443,2026-11-18T16:15+00:00
+185584,OR,Oregon City of Newberg Councilor District 6 At-Large,2026-11-03,0,,False,2,1,6201,2026-11-18T16:15+00:00
+185850,OR,Oregon City of Summerville Council Position #1,2026-11-03,0,,False,2,1,57,2026-11-18T16:15+00:00
+159113,OR,Oregon State House 59,2026-11-03,0,2026-11-04T07:09:42.102Z,False,3,3,37757,2026-11-18T16:15+00:00
+185767,OR,Oregon City of Hillsboro Council Member Ward 1 Position A,2026-11-03,0,,False,5,1,22846,2026-11-18T16:15+00:00
+185919,OR,Oregon City of Milton-Freewater Ward 1 Council,2026-11-03,0,,False,2,1,231,2026-11-18T16:15+00:00
+185577,OR,Oregon City of Amity Councilor Position 4 At-Large,2026-11-03,0,,False,2,1,364,2026-11-18T16:15+00:00
+185043,OR,Oregon City of Gold Hill Mayor,2026-11-03,0,,False,2,1,398,2026-11-18T16:15+00:00
+185110,OR,Oregon Klamath Soil & Water Conservation Director Zone 2,2026-11-03,0,,False,2,1,682,2026-11-18T16:15+00:00
+185760,OR,Oregon City of North Plains Council Members,2026-11-03,0,,False,7,1,3364,2026-11-18T16:15+00:00
+185226,OR,Oregon City of Cottage Grove Councilor Ward 3,2026-11-03,0,,False,2,1,1821,2026-11-18T16:15+00:00
+185762,OR,Oregon Washington County Commissioner District At-Large,2026-11-03,0,,False,3,1,149064,2026-11-18T16:15+00:00
+185036,OR,Oregon City of Jacksonville Council Members,2026-11-03,0,,False,4,1,4078,2026-11-18T16:15+00:00
+185295,OR,Oregon City of Prineville City Council Member,2026-11-03,0,,False,3,1,5841,2026-11-18T16:15+00:00
+185753,OR,Oregon City of Cornelius Council Members,2026-11-03,0,,False,2,1,2320,2026-11-18T16:15+00:00
+185411,OR,Oregon Lincoln County Soil & Water Conservation District Director At Large (2) (2 Year Unexpired Term),2026-11-03,0,,False,2,1,11523,2026-11-18T16:15+00:00
+185755,OR,Oregon City of King City Council Members,2026-11-03,0,,False,7,1,6559,2026-11-18T16:15+00:00
+185221,OR,Oregon City of Coburg Councilor,2026-11-03,0,,False,4,1,1188,2026-11-18T16:15+00:00
+185288,OR,Oregon Malheur County Soil & Water Conservation Director - At Large 2 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,376,2026-11-18T16:15+00:00
+159134,OR,Oregon State House 3,2026-11-03,0,2026-11-04T07:09:42.101Z,False,3,1,30997,2026-11-18T16:15+00:00
+185404,OR,Oregon Grant County John Day Mayor,2026-11-03,0,,False,2,1,456,2026-11-18T16:15+00:00
+159136,OR,Oregon State House 28,2026-11-03,0,2026-11-04T07:09:42.101Z,False,3,2,37062,2026-11-18T16:15+00:00
+185406,OR,Oregon Measure 21-241 City of Siletz,2026-11-03,0,,False,2,1,268,2026-11-18T16:15+00:00
+185473,OR,Oregon City of Salem Municipal Judge,2026-11-03,0,,False,2,2,25567,2026-11-18T16:15+00:00
+159127,OR,Oregon State Senate 19,2026-11-03,0,2026-11-04T07:09:42.101Z,False,3,3,73207,2026-11-18T16:15+00:00
+185589,OR,Oregon Yamhill County Soil and Water Conservation District Director Zone 5 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,27193,2026-11-18T16:15+00:00
+159129,OR,Oregon State Senate 8,2026-11-03,0,2026-11-04T07:09:42.101Z,False,3,3,64284,2026-11-18T16:15+00:00
+185591,OR,Oregon Yamhill County Soil and Water Conservation District Director Zone 1,2026-11-03,0,,False,2,1,27064,2026-11-18T16:15+00:00
+185466,OR,Oregon Polk County Commissioner Position 3,2026-11-03,0,,False,3,1,30392,2026-11-18T16:15+00:00
+159130,OR,Oregon State House 31,2026-11-03,0,2026-11-12T01:54:12.337Z,False,3,4,36953,2026-11-18T16:15+00:00
+185094,OR,Oregon Coos Soil and Water Conservation District Director Zone 3 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,1173,2026-11-18T16:15+00:00
+185744,OR,Oregon Sherman Soil and Water Conservation District Director Zone 2,2026-11-03,0,,False,2,1,887,2026-11-18T16:15+00:00
+185210,OR,Oregon Lane County Springfield Utility Board Member Position 3,2026-11-03,0,,False,2,1,10448,2026-11-18T16:15+00:00
+185085,OR,Oregon City of Coos Bay Mayor,2026-11-03,0,,False,2,1,4003,2026-11-18T16:15+00:00
+159123,OR,Oregon State House 41,2026-11-03,0,2026-11-04T07:09:42.102Z,False,3,2,39125,2026-11-18T16:15+00:00
+185279,OR,Oregon City of Ontario Councilors,2026-11-03,0,,False,7,1,7106,2026-11-18T16:15+00:00
+185737,OR,Oregon Sherman Soil and Water Conservation District Director Zone 1,2026-11-03,0,,False,2,1,882,2026-11-18T16:15+00:00
+185395,OR,Oregon Grant County Dayville Mayor,2026-11-03,0,,False,2,1,37,2026-11-18T16:15+00:00
+185462,OR,Oregon Measure 27-149 Polk,2026-11-03,0,,False,2,1,35549,2026-11-18T16:15+00:00
+159116,OR,Oregon State House 14,2026-11-03,0,2026-11-04T07:09:42.101Z,False,3,1,31298,2026-11-18T16:15+00:00
+185386,OR,Oregon Grant County Dayville Position #2,2026-11-03,0,,False,2,1,70,2026-11-18T16:15+00:00
+159118,OR,Oregon State House 26,2026-11-03,0,2026-11-12T01:54:12.337Z,False,4,3,33996,2026-11-18T16:15+00:00
+185388,OR,Oregon Grant County Soil & Water At Large #2,2026-11-03,0,,False,2,1,2757,2026-11-18T16:15+00:00
+185846,OR,Oregon City of Island City Council Position #4,2026-11-03,0,,False,2,1,421,2026-11-18T16:15+00:00
+159109,OR,Oregon State House 1,2026-11-03,0,2026-11-04T07:09:42.101Z,False,3,3,34966,2026-11-18T16:15+00:00
+185571,OR,Oregon Yamhill County Soil and Water Conservation District Director At-Large Position 2,2026-11-03,0,,False,2,1,27023,2026-11-18T16:15+00:00
+159111,OR,Oregon State House 25,2026-11-03,0,2026-11-04T07:09:42.101Z,False,3,1,31983,2026-11-18T16:15+00:00
+185381,OR,Oregon Measure 12-89 Canyon City,2026-11-03,0,,False,2,1,275,2026-11-18T16:15+00:00
+185839,OR,Oregon City of Union Council Position #6,2026-11-03,0,,False,2,1,648,2026-11-18T16:15+00:00
+185906,OR,Oregon City of Helix Council Position 4,2026-11-03,0,,False,2,1,49,2026-11-18T16:15+00:00
+185564,OR,Oregon City of Detroit Councilor,2026-11-03,0,,False,6,1,309,2026-11-18T16:15+00:00
+185908,OR,Oregon City of Helix Council Position 6,2026-11-03,0,,False,2,1,45,2026-11-18T16:15+00:00
+185566,OR,Oregon Marion County Commissioner Position 1,2026-11-03,0,,False,3,1,82490,2026-11-18T16:15+00:00
+185032,OR,Oregon City of Brookings Council Position 3,2026-11-03,0,,False,2,1,1597,2026-11-18T16:15+00:00
+185099,OR,Oregon Measure 18-145 Chemult Rfpd,2026-11-03,0,,False,2,1,141,2026-11-18T16:15+00:00
+185749,OR,Oregon Measure 34-352 City of Banks,2026-11-03,0,,False,2,1,480,2026-11-18T16:15+00:00
+185101,OR,Oregon Klamath County Bonanza Council Position 5,2026-11-03,0,,False,2,1,114,2026-11-18T16:15+00:00
+185751,OR,Oregon Measure 34-354 City of King City,2026-11-03,0,,False,2,1,2053,2026-11-18T16:15+00:00
+185217,OR,Oregon City of Dunes City Councilor,2026-11-03,0,,False,5,1,1679,2026-11-18T16:15+00:00
+185092,OR,Oregon City of Bandon Mayor,2026-11-03,0,,False,3,1,1709,2026-11-18T16:15+00:00
+185904,OR,Oregon City of Adams Council At Large,2026-11-03,0,,False,3,1,196,2026-11-18T16:15+00:00
+185370,OR,Oregon City of Culver Councilor - Position 6,2026-11-03,0,,False,2,1,36,2026-11-18T16:15+00:00
+185828,OR,Oregon City of North Powder Council Position #3,2026-11-03,0,,False,3,1,224,2026-11-18T16:15+00:00
+185095,OR,Oregon Coos Soil and Water Conservation District Director Zone 4 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,983,2026-11-18T16:15+00:00
+185638,OR,Oregon City of Barlow Mayor,2026-11-03,0,,False,2,1,39,2026-11-18T16:15+00:00
+185897,OR,Oregon Measure 30-178 City of Hermiston,2026-11-03,0,,False,2,1,4308,2026-11-18T16:15+00:00
+185555,OR,Oregon City of Stayton Councilor,2026-11-03,0,,False,7,1,3884,2026-11-18T16:15+00:00
+185821,OR,Oregon City of La Grande Council Position #7,2026-11-03,0,,False,2,1,3351,2026-11-18T16:15+00:00
+185088,OR,Oregon Central Lincoln PUD - Subdivision 5 Director,2026-11-03,0,,False,2,2,3127,2026-11-18T16:15+00:00
+185546,OR,Oregon City of Stayton Mayor,2026-11-03,0,,False,2,1,1412,2026-11-18T16:15+00:00
+185090,OR,Oregon City of Bandon Council Members,2026-11-03,0,,False,7,1,3765,2026-11-18T16:15+00:00
+185548,OR,Oregon City of Donald Councilor,2026-11-03,0,,False,6,1,368,2026-11-18T16:15+00:00
+185206,OR,Oregon City of Eugene Councilor Ward 4,2026-11-03,0,,False,2,1,4568,2026-11-18T16:15+00:00
+185081,OR,Oregon City of Powers Mayor,2026-11-03,0,,False,2,1,227,2026-11-18T16:15+00:00
+185731,OR,Oregon City of Rufus Mayor,2026-11-03,0,,False,3,1,130,2026-11-18T16:15+00:00
+185083,OR,Oregon City of Myrtle Point Council Members,2026-11-03,0,,False,4,1,1750,2026-11-18T16:15+00:00
+185541,OR,Oregon Marion Soil & Water Director Zone 5,2026-11-03,0,,False,2,1,3480,2026-11-18T16:15+00:00
+185199,OR,Oregon Lane County Upper Willamette Soil & Water District Director At-Large 2,2026-11-03,0,,False,2,1,62990,2026-11-18T16:15+00:00
+185266,OR,Oregon Deschutes County Clerk,2026-11-03,0,,False,3,1,87891,2026-11-18T16:15+00:00
+185724,OR,Oregon Multnomah County Commission Chair,2026-11-03,0,,False,4,1,0,2026-11-18T16:15+00:00
+185268,OR,Oregon Deschutes County Commissioner Position 5,2026-11-03,0,,False,3,1,97058,2026-11-18T16:15+00:00
+185726,OR,Oregon City of Gresham Mayor,2026-11-03,0,,False,3,1,26786,2026-11-18T16:15+00:00
+185192,OR,Oregon City of Hines Council Position 6,2026-11-03,0,,False,2,1,555,2026-11-18T16:15+00:00
+185650,OR,Oregon City of Molalla Councilor,2026-11-03,0,,False,4,1,5226,2026-11-18T16:15+00:00
+159105,OR,Oregon Judge of the Circuit Court 11th District Position 3,2026-11-03,0,,False,5,1,87243,2026-11-18T16:15+00:00
+185652,OR,Oregon Clackamas County Commissioner Position 2,2026-11-03,0,,False,3,1,157453,2026-11-18T16:15+00:00
+159107,OR,Oregon State Senate 26,2026-11-03,0,2026-11-12T01:54:12.336Z,False,3,4,71205,2026-11-18T16:15+00:00
+185377,OR,Oregon Jefferson County Soil and Water Conservation District Director - At Large 2,2026-11-03,0,,False,2,1,6554,2026-11-18T16:15+00:00
+185643,OR,Oregon City of Canby Mayor,2026-11-03,0,,False,2,1,5770,2026-11-18T16:15+00:00
+185102,OR,Oregon Klamath County Bonanza Council Position 2,2026-11-03,0,,False,2,1,91,2026-11-18T16:15+00:00
+185645,OR,Oregon City of Sandy Councilor Position 2,2026-11-03,0,,False,2,1,2163,2026-11-18T16:15+00:00
+185530,OR,Oregon City of Woodburn Councilor Ward 5,2026-11-03,0,,False,2,1,953,2026-11-18T16:15+00:00
+185988,OR,Oregon Clatsop Soil and Water Conservation District Director Zone 4,2026-11-03,0,,False,2,1,11488,2026-11-18T16:15+00:00
+185646,OR,Oregon City of Sandy Councilor Position 1,2026-11-03,0,,False,3,1,3135,2026-11-18T16:15+00:00
+185990,OR,Oregon Clatsop Soil and Water Conservation District Director At Large Position 2,2026-11-03,0,,False,2,1,961,2026-11-18T16:15+00:00
+185257,OR,Oregon City of Bend City Council Mayor Position 7,2026-11-03,0,,False,3,1,47696,2026-11-18T16:15+00:00
+185715,OR,Oregon Multnomah County Rockwood Water People's Utility District Director Sub-District 4 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,1804,2026-11-18T16:15+00:00
+185981,OR,Oregon City of Seaside Councilor Ward 4 (2 Year Unexpired Term),2026-11-03,0,,False,3,1,654,2026-11-18T16:15+00:00
+185639,OR,Oregon City of Portland Auditor,2026-11-03,0,,False,2,3,0,2026-11-18T16:15+00:00
+185706,OR,Oregon City of Maywood Park Councilor,2026-11-03,0,,False,6,1,1018,2026-11-18T16:15+00:00
+185641,OR,Oregon City of Gladstone Councilor Position 1,2026-11-03,0,,False,3,1,4341,2026-11-18T16:15+00:00
+185708,OR,Oregon City of Fairview Councilor Position 5,2026-11-03,0,,False,2,1,1803,2026-11-18T16:15+00:00
+185366,OR,Oregon Jefferson County Clerk,2026-11-03,0,,False,2,1,6915,2026-11-18T16:15+00:00
+185824,OR,Oregon City of North Powder Mayor,2026-11-03,0,,False,3,1,235,2026-11-18T16:15+00:00
+185891,OR,Oregon City of Wallowa Councilor #2,2026-11-03,0,,False,2,1,358,2026-11-18T16:15+00:00
+185826,OR,Oregon Union County Treasurer,2026-11-03,0,,False,2,1,8395,2026-11-18T16:15+00:00
+185701,OR,Oregon East Multnomah Soil and Water Conservation District Director At-Large Position 2,2026-11-03,0,,False,5,1,167274,2026-11-18T16:15+00:00
+185359,OR,Oregon Linn County Sheriff,2026-11-03,0,,False,2,1,43064,2026-11-18T16:15+00:00
+185817,OR,Oregon Measure 31-125 City of Elgin,2026-11-03,0,,False,2,1,750,2026-11-18T16:15+00:00
+185884,OR,Oregon City of Lostine Mayor,2026-11-03,0,,False,2,1,129,2026-11-18T16:15+00:00
+185819,OR,Oregon Measure 31-127 City of La Grande,2026-11-03,0,,False,2,1,4842,2026-11-18T16:15+00:00
+185886,OR,Oregon Wallowa County Treasurer,2026-11-03,0,,False,2,1,3530,2026-11-18T16:15+00:00
+185352,OR,Oregon City of Tangent Council Members Position 3,2026-11-03,0,,False,2,1,368,2026-11-18T16:15+00:00
+185010,OR,Oregon Josephine County Treasurer,2026-11-03,0,,False,3,1,33541,2026-11-18T16:15+00:00
+185077,OR,Oregon Coos Soil and Water Conservation District Director Zone 5,2026-11-03,0,,False,2,1,14279,2026-11-18T16:15+00:00
+185012,OR,Oregon Josephine County Commissioner Position 2 (2 Year Unexpired Term),2026-11-03,0,,False,3,1,34130,2026-11-18T16:15+00:00
+185079,OR,Oregon Coos Soil and Water Conservation District Director Zone 2,2026-11-03,0,,False,2,1,15723,2026-11-18T16:15+00:00
+185537,OR,Oregon City of St Paul Mayor,2026-11-03,0,,False,2,1,96,2026-11-18T16:15+00:00
+185003,OR,Oregon Josephine County Two Rivers Soil & Water Conservation District Director Zone 3,2026-11-03,0,,False,2,1,17759,2026-11-18T16:15+00:00
+185454,OR,Oregon City of Spray Council Position #3,2026-11-03,0,,False,2,1,30,2026-11-18T16:15+00:00
+185005,OR,Oregon City of Cave Junction Council Position 3,2026-11-03,0,,False,2,1,537,2026-11-18T16:15+00:00
+185264,OR,Oregon Deschutes County Sheriff,2026-11-03,0,,False,3,1,90990,2026-11-18T16:15+00:00
+185156,OR,Oregon City of Myrtle Creek Mayor,2026-11-03,0,,False,2,1,934,2026-11-18T16:15+00:00
+185006,OR,Oregon City of Grants Pass Council Ward 1,2026-11-03,0,,False,3,1,12268,2026-11-18T16:15+00:00
+185158,OR,Oregon City of Roseburg Mayor,2026-11-03,0,,False,4,1,6964,2026-11-18T16:15+00:00
+185808,OR,Oregon Gilliam County Sheriff,2026-11-03,0,,False,2,1,772,2026-11-18T16:15+00:00
+185875,OR,Oregon Wallowa County Clerk,2026-11-03,0,,False,2,1,3939,2026-11-18T16:15+00:00
+185149,OR,Oregon Douglas Soil and Water Conservation District Director Zone 1,2026-11-03,0,,False,2,1,24244,2026-11-18T16:15+00:00
+185991,OR,Oregon Clatsop Soil and Water Conservation District Director Zone 2,2026-11-03,0,,False,2,1,731,2026-11-18T16:15+00:00
+185343,OR,Oregon City of Mill City Mayor,2026-11-03,0,,False,2,2,523,2026-11-18T16:15+00:00
+185066,OR,Oregon City of Ashland Municipal Judge,2026-11-03,0,,False,2,1,6548,2026-11-18T16:15+00:00
+185001,OR,Oregon Measure 17-129 Josephine,2026-11-03,0,,False,2,1,37305,2026-11-18T16:15+00:00
+185068,OR,Oregon City of Central Point Council Member Ward 3,2026-11-03,0,,False,2,1,5220,2026-11-18T16:15+00:00
+185526,OR,Oregon City of Aurora Councilor Position 2,2026-11-03,0,,False,2,1,281,2026-11-18T16:15+00:00
+185984,OR,Oregon City of Gearhart Councilor Position 3,2026-11-03,0,,False,2,1,759,2026-11-18T16:15+00:00
+185450,OR,Oregon City of Fossil Council Position #2,2026-11-03,0,,False,2,1,29,2026-11-18T16:15+00:00
+185986,OR,Oregon City of Cannon Beach Mayor,2026-11-03,0,,False,2,1,678,2026-11-18T16:15+00:00
+185061,OR,Oregon City of Eagle Point Mayor,2026-11-03,0,,False,2,1,3517,2026-11-18T16:15+00:00
+185519,OR,Oregon City of Gervais Councilor (Vote For 2),2026-11-03,0,,False,3,1,384,2026-11-18T16:15+00:00
+185977,OR,Oregon City of Warrenton Mayor,2026-11-03,0,,False,4,1,2074,2026-11-18T16:15+00:00
+185635,OR,Oregon City of Portland Councilor District 3,2026-11-03,0,,False,22,2,0,2026-11-18T16:15+00:00
+185979,OR,Oregon Clatsop Soil and Water Conservation District Director Zone 1,2026-11-03,0,,False,2,1,11374,2026-11-18T16:15+00:00
+185445,OR,Oregon City of Waldport Council Members,2026-11-03,0,,False,7,1,1855,2026-11-18T16:15+00:00
+185512,OR,Oregon Measure 03-640 Monitor Fire District,2026-11-03,0,,False,2,2,1041,2026-11-18T16:15+00:00
+185170,OR,Oregon City of Reedsport Mayor,2026-11-03,0,,False,4,1,1479,2026-11-18T16:15+00:00
+185628,OR,Oregon Clackamas County Clerk,2026-11-03,0,,False,3,1,157655,2026-11-18T16:15+00:00
+185172,OR,Oregon Douglas Soil and Water Conservation District Director Zone 2,2026-11-03,0,,False,2,1,24631,2026-11-18T16:15+00:00
+185630,OR,Oregon City of Gladstone Councilor Position 5,2026-11-03,0,,False,2,1,2782,2026-11-18T16:15+00:00
+185697,OR,Oregon Measure 26-265 City of Troutdale,2026-11-03,0,,False,2,1,5129,2026-11-18T16:15+00:00
+185163,OR,Oregon City of Winston Councilor Ward 2 Position 2,2026-11-03,0,,False,2,1,615,2026-11-18T16:15+00:00
+185813,OR,Oregon City of Condon Councilor,2026-11-03,0,,False,8,1,1115,2026-11-18T16:15+00:00
+185165,OR,Oregon Douglas County Umpqua Soil and Water Conservation District Director Zone 2 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,134,2026-11-18T16:15+00:00
+185815,OR,Oregon City of Lonerock Councilor Position No. 1,2026-11-03,0,,False,2,1,10,2026-11-18T16:15+00:00
+185690,OR,Oregon Measure 14-87 City of Cascade Locks,2026-11-03,0,,False,2,1,645,2026-11-18T16:15+00:00
+185166,OR,Oregon Douglas County Umpqua Soil and Water Conservation District Director Zone 3,2026-11-03,0,,False,2,1,119,2026-11-18T16:15+00:00
+185318,OR,Oregon City of Corvallis Ward 3 City Council,2026-11-03,0,,False,2,1,2072,2026-11-18T16:15+00:00
+185968,OR,Oregon Measure 04-243 City of Cannon Beach,2026-11-03,0,,False,2,1,890,2026-11-18T16:15+00:00
+185434,OR,Oregon City of Siletz Council Member Position 4,2026-11-03,0,,False,2,1,196,2026-11-18T16:15+00:00
+185309,OR,Oregon City of Adair Village Ward 1 City Council,2026-11-03,0,,False,2,1,118,2026-11-18T16:15+00:00
+185159,OR,Oregon City of Canyonville Councilor,2026-11-03,0,,False,10,1,1327,2026-11-18T16:15+00:00
+185503,OR,Oregon Baker County Burnt River Soil and Water At Large 2,2026-11-03,0,,False,2,1,72,2026-11-18T16:15+00:00
+185961,OR,Oregon Columbia Soil and Water Conservation District Director Zone 2,2026-11-03,0,,False,2,1,16401,2026-11-18T16:15+00:00
+185619,OR,Oregon City of Gladstone Mayor,2026-11-03,0,,False,3,1,4661,2026-11-18T16:15+00:00
+185686,OR,Oregon City of Shaniko Mayor,2026-11-03,0,,False,2,1,19,2026-11-18T16:15+00:00
+185152,OR,Oregon City of Yoncalla Councilor Position 3,2026-11-03,0,,False,2,1,256,2026-11-18T16:15+00:00
+185802,OR,Oregon Tillamook County Soil and Water Conservation District Director Zone 1,2026-11-03,0,,False,2,1,9672,2026-11-18T16:15+00:00
+185154,OR,Oregon City of Drain Councilor Position 2,2026-11-03,0,,False,2,1,223,2026-11-18T16:15+00:00
+185612,OR,Oregon City of Happy Valley Councilor Position 3,2026-11-03,0,,False,2,1,5960,2026-11-18T16:15+00:00
+185871,OR,Oregon Morrow County Soil and Water Conservation Director Zone 1,2026-11-03,0,,False,2,1,277,2026-11-18T16:15+00:00
+185145,OR,Oregon City of Canyonville Mayor,2026-11-03,0,,False,3,1,515,2026-11-18T16:15+00:00
+159183,OR,Oregon State Senate 6,2026-11-03,0,2026-11-04T07:09:42.101Z,False,4,3,70554,2026-11-18T16:15+00:00
+185147,OR,Oregon City of Glendale Mayor,2026-11-03,0,,False,2,1,158,2026-11-18T16:15+00:00
+185797,OR,Oregon City of Tillamook Mayor,2026-11-03,0,,False,2,1,1306,2026-11-18T16:15+00:00
+185864,OR,Oregon City of Boardman Council Member at Large,2026-11-03,0,,False,4,1,1356,2026-11-18T16:15+00:00
+185330,OR,Oregon Measure 24-531 Stayton Fire District,2026-11-03,0,,False,2,2,3529,2026-11-18T16:15+00:00
+159176,OR,Oregon State Senate 4,2026-11-03,0,2026-11-04T07:09:42.101Z,False,2,1,41652,2026-11-18T16:15+00:00
+185332,OR,Oregon City of Gates Councilor,2026-11-03,0,,False,5,2,300,2026-11-18T16:15+00:00
+159178,OR,Oregon State House 7,2026-11-03,0,2026-11-12T01:54:12.336Z,False,3,1,29777,2026-11-18T16:15+00:00
+185057,OR,Oregon Jackson County Clerk,2026-11-03,0,,False,2,1,70913,2026-11-18T16:15+00:00
+185323,OR,Oregon City of Philomath City Council,2026-11-03,0,,False,6,1,6434,2026-11-18T16:15+00:00
+185973,OR,Oregon Measure 04-248 City of Warrenton,2026-11-03,0,,False,2,1,2518,2026-11-18T16:15+00:00
+185325,OR,Oregon City of Corvallis Ward 2 City Council,2026-11-03,0,,False,3,1,955,2026-11-18T16:15+00:00
+185975,OR,Oregon City of Astoria Councilor Ward 1,2026-11-03,0,,False,3,1,1223,2026-11-18T16:15+00:00
+185441,OR,Oregon City of Toledo Mayor,2026-11-03,0,,False,3,1,1052,2026-11-18T16:15+00:00
+185316,OR,Oregon City of Monroe City Council,2026-11-03,0,,False,4,1,568,2026-11-18T16:15+00:00
+185326,OR,Oregon Measure 22-216 City of Lebanon,2026-11-03,0,,False,2,1,7423,2026-11-18T16:15+00:00
+185670,OR,Oregon City of Shaniko Recorder,2026-11-03,0,,False,2,1,12,2026-11-18T16:15+00:00
+185136,OR,Oregon Measure 10-217 City of Sutherlin,2026-11-03,0,,False,2,1,3080,2026-11-18T16:15+00:00
+185786,OR,Oregon City of Wheeler City Council,2026-11-03,0,,False,3,1,322,2026-11-18T16:15+00:00
+185661,OR,Oregon City of The Dalles Councilor Position #1,2026-11-03,0,,False,3,1,4572,2026-11-18T16:15+00:00
+185319,OR,Oregon City of Adair Village Ward 2 City Council (2 Year Unexpired Term),2026-11-03,0,,False,2,1,85,2026-11-18T16:15+00:00
+185855,OR,Oregon Measure 25-107 Town of Lexington,2026-11-03,0,,False,2,1,119,2026-11-18T16:15+00:00
+185129,OR,Oregon Fort Rock/Silver Lake Soil and Water Conservation District Director Zone 2,2026-11-03,0,,False,2,1,851,2026-11-18T16:15+00:00
+159167,OR,Oregon State House 48,2026-11-03,0,2026-11-12T01:54:12.337Z,False,3,2,23955,2026-11-18T16:15+00:00
+185053,OR,Oregon Jackson Soil and Water Conservation District Director At-Large Position 1,2026-11-03,0,,False,2,1,64214,2026-11-18T16:15+00:00
+185312,OR,Oregon City of Monroe Mayor,2026-11-03,0,,False,2,1,241,2026-11-18T16:15+00:00
+159158,OR,Oregon Judge of the Circuit Court 2nd District Position 14,2026-11-03,0,,False,2,1,74678,2026-11-18T16:15+00:00
+185314,OR,Oregon City of Corvallis Ward 4 City Council,2026-11-03,0,,False,3,1,651,2026-11-18T16:15+00:00
+159160,OR,Oregon State House 9,2026-11-03,0,2026-11-04T07:09:42.101Z,False,3,3,33312,2026-11-18T16:15+00:00
+185430,OR,Oregon Lincoln County Commissioner Position 1,2026-11-03,0,,False,3,1,17628,2026-11-18T16:15+00:00
+185305,OR,Oregon City of Corvallis Ward 9 City Council,2026-11-03,0,,False,2,1,1993,2026-11-18T16:15+00:00
+185955,OR,Oregon Columbia County McNulty Water PUD Director Subdivision 1,2026-11-03,0,,False,2,1,28,2026-11-18T16:15+00:00
+185307,OR,Oregon City of Adair Village Mayor,2026-11-03,0,,False,3,1,629,2026-11-18T16:15+00:00
+159153,OR,Oregon State House 54,2026-11-03,0,2026-11-04T07:09:42.102Z,False,2,1,28103,2026-11-18T16:15+00:00
+185423,OR,Oregon City of Depoe Bay Council Member Position 6,2026-11-03,0,,False,2,1,472,2026-11-18T16:15+00:00
+185490,OR,Oregon City of Halfway City Council (2 Year Unexpired Term),2026-11-03,0,,False,3,1,240,2026-11-18T16:15+00:00
+185948,OR,Oregon City of Vernonia Mayor,2026-11-03,0,,False,3,1,1104,2026-11-18T16:15+00:00
+185492,OR,Oregon Keating Soil and Water Zone 1,2026-11-03,0,,False,2,2,168,2026-11-18T16:15+00:00
+185950,OR,Oregon Columbia County Clerk,2026-11-03,0,,False,2,1,17992,2026-11-18T16:15+00:00
+185608,OR,Oregon Measure 03-643 City of Canby,2026-11-03,0,,False,2,1,8237,2026-11-18T16:15+00:00
+185675,OR,Oregon City of Antelope Council Seat #3,2026-11-03,0,,False,2,1,16,2026-11-18T16:15+00:00
+185141,OR,Oregon City of Drain Mayor,2026-11-03,0,,False,3,1,302,2026-11-18T16:15+00:00
+185677,OR,Oregon City of Shaniko Council (2 Year Unexpired Term),2026-11-03,0,,False,3,1,21,2026-11-18T16:15+00:00
+185143,OR,Oregon Douglas County Commissioner Position 3,2026-11-03,0,,False,3,1,39365,2026-11-18T16:15+00:00
+185793,OR,Oregon City of Tillamook City Council Ward 6,2026-11-03,0,,False,2,1,178,2026-11-18T16:15+00:00
+185668,OR,Oregon City of Dufur Council Seat #2,2026-11-03,0,,False,2,1,44,2026-11-18T16:15+00:00
+185488,OR,Oregon City of Richland City Council,2026-11-03,0,,False,4,1,195,2026-11-18T16:15+00:00
+159142,OR,Oregon State House 6,2026-11-03,0,2026-11-12T01:54:12.336Z,False,3,1,27558,2026-11-18T16:15+00:00
+185412,OR,Oregon Lincoln County Soil & Water Conservation District Director At Large (1),2026-11-03,0,,False,2,1,11631,2026-11-18T16:15+00:00
+185671,OR,Oregon Wasco County Soil & Water Conservation District Director Zone #4,2026-11-03,0,,False,2,1,657,2026-11-18T16:15+00:00
+185222,OR,Oregon Lane County Upper Willamette Soil & Water District Director Zone 4,2026-11-03,0,,False,2,1,62904,2026-11-18T16:15+00:00
+185481,OR,Oregon City of Willamina Mayor,2026-11-03,0,,False,2,2,507,2026-11-18T16:15+00:00
+185939,OR,Oregon City of Prescott Recorder,2026-11-03,0,,False,2,1,28,2026-11-18T16:15+00:00
+185405,OR,Oregon Grant County Monument Soil & Water At Large #2,2026-11-03,0,,False,2,1,166,2026-11-18T16:15+00:00
+185664,OR,Oregon City of Dufur Mayor,2026-11-03,0,,False,2,1,254,2026-11-18T16:15+00:00
+185930,OR,Oregon City of Milton-Freewater Council At Large 3,2026-11-03,0,,False,2,1,953,2026-11-18T16:15+00:00
+185666,OR,Oregon Wasco County Commissioner Position 1,2026-11-03,0,,False,3,1,9643,2026-11-18T16:15+00:00
+185932,OR,Oregon Measure 05-313 City of Columbia City,2026-11-03,0,,False,2,1,1161,2026-11-18T16:15+00:00
+185782,OR,Oregon City of Bay City City Council,2026-11-03,0,,False,9,1,1910,2026-11-18T16:15+00:00
+185657,OR,Oregon City of Mosier Councilor Position #5,2026-11-03,0,,False,2,1,132,2026-11-18T16:15+00:00
+185123,OR,Oregon Klamath County Treasurer,2026-11-03,0,,False,2,1,16399,2026-11-18T16:15+00:00
+185659,OR,Oregon City of Maupin Councilor,2026-11-03,0,,False,3,1,277,2026-11-18T16:15+00:00
+185925,OR,Oregon City of Athena Council Position 5,2026-11-03,0,,False,2,1,477,2026-11-18T16:15+00:00
+185775,OR,Oregon City of Banks Mayor,2026-11-03,0,,False,3,1,491,2026-11-18T16:15+00:00
+185049,OR,Oregon City of Eagle Point Council Members,2026-11-03,0,,False,4,1,8371,2026-11-18T16:15+00:00
+185116,OR,Oregon City of Merrill Council Position 2,2026-11-03,0,,False,3,1,218,2026-11-18T16:15+00:00
+185051,OR,Oregon Town of Butte Falls Mayor,2026-11-03,0,,False,2,1,138,2026-11-18T16:15+00:00
+185118,OR,Oregon City of Merrill Council Position 3 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,173,2026-11-18T16:15+00:00
+185768,OR,Oregon City of Sherwood Council Members,2026-11-03,0,,False,4,1,11718,2026-11-18T16:15+00:00
+185234,OR,Oregon Lane County Assessor,2026-11-03,0,,False,2,1,72940,2026-11-18T16:15+00:00
+185301,OR,Oregon City of Albany Councilor Ward I-A,2026-11-03,0,,False,2,2,6268,2026-11-18T16:15+00:00
+185236,OR,Oregon City of Lowell Councilor Position 4,2026-11-03,0,,False,2,1,105,2026-11-18T16:15+00:00
+185303,OR,Oregon City of Albany Mayor,2026-11-03,0,,False,4,2,23271,2026-11-18T16:15+00:00
+159149,OR,Oregon State House 32,2026-11-03,0,2026-11-12T01:54:12.337Z,False,3,3,35666,2026-11-18T16:15+00:00
+185227,OR,Oregon City of Oakridge Councilor,2026-11-03,0,,False,7,1,2363,2026-11-18T16:15+00:00
+185678,OR,Oregon City of The Dalles Mayor,2026-11-03,0,,False,4,1,5537,2026-11-18T16:15+00:00
+185229,OR,Oregon Lane County Heceta Water PUD Director Subdivision 5,2026-11-03,0,,False,3,1,409,2026-11-18T16:15+00:00
+185914,OR,Oregon City of Adams Mayor,2026-11-03,0,,False,2,1,133,2026-11-18T16:15+00:00
+185572,OR,Oregon City of McMinnville Councilor Ward 3,2026-11-03,0,,False,4,1,3914,2026-11-18T16:15+00:00
+185230,OR,Oregon City of Lowell Councilor Position 1,2026-11-03,0,,False,2,1,315,2026-11-18T16:15+00:00
+185574,OR,Oregon Yamhill County Clerk,2026-11-03,0,,False,3,1,40414,2026-11-18T16:15+00:00
+185040,OR,Oregon City of Talent Council Member Position 2 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,1936,2026-11-18T16:15+00:00
+185107,OR,Oregon Klamath County Chiloquin Council Position 6,2026-11-03,0,,False,2,1,21,2026-11-18T16:15+00:00
+185565,OR,Oregon Marion County Commissioner Position 2,2026-11-03,0,,False,3,1,82200,2026-11-18T16:15+00:00
+185223,OR,Oregon Lane County Emerald PUD Director Subdivision 3,2026-11-03,0,,False,2,1,2021,2026-11-18T16:15+00:00
+185290,OR,Oregon City of Prineville Mayor,2026-11-03,0,,False,2,1,3558,2026-11-18T16:15+00:00
+185225,OR,Oregon Lane County Emerald PUD Director Subdivision 2,2026-11-03,0,,False,2,1,1984,2026-11-18T16:15+00:00
+185292,OR,Oregon Crook County Soil and Water Conservation District Director Zone 3,2026-11-03,0,,False,2,1,9575,2026-11-18T16:15+00:00
+159138,OR,Oregon State House 50,2026-11-03,0,2026-11-12T01:54:12.337Z,False,3,1,23950,2026-11-18T16:15+00:00
+185408,OR,Oregon Measure 21-243 City of Lincoln City,2026-11-03,0,,False,2,1,3397,2026-11-18T16:15+00:00
+185475,OR,Oregon City of Falls City Mayor,2026-11-03,0,,False,2,1,171,2026-11-18T16:15+00:00
+185410,OR,Oregon Southwest Lincoln Water PUD Director Subdivision 3,2026-11-03,0,,False,2,1,89,2026-11-18T16:15+00:00
+185285,OR,Oregon Malheur County Soil & Water Conservation Director - Zone 2,2026-11-03,0,,False,2,1,293,2026-11-18T16:15+00:00
+159131,OR,Oregon State House 24,2026-11-03,0,2026-11-04T07:09:42.101Z,False,2,2,20716,2026-11-18T16:15+00:00
+185401,OR,Oregon Grant County Mt Vernon Council At Large,2026-11-03,0,,False,3,1,378,2026-11-18T16:15+00:00
+185468,OR,Oregon City of Salem Councilor Ward 8,2026-11-03,0,,False,3,1,8806,2026-11-18T16:15+00:00
+185403,OR,Oregon Grant County John Day Council At Large,2026-11-03,0,,False,5,1,1435,2026-11-18T16:15+00:00
+185470,OR,Oregon City of Independence Council Member Position 2,2026-11-03,0,,False,3,1,2992,2026-11-18T16:15+00:00
+159124,OR,Oregon State House 34,2026-11-03,0,2026-11-04T07:09:42.102Z,False,3,2,28815,2026-11-18T16:15+00:00
+185586,OR,Oregon City of Sheridan Councilor 3 At-Large,2026-11-03,0,,False,4,1,2101,2026-11-18T16:15+00:00
+185852,OR,Oregon City of Union Council Position #2,2026-11-03,0,,False,2,1,719,2026-11-18T16:15+00:00
+185588,OR,Oregon City of Carlton Mayor,2026-11-03,0,,False,3,1,1232,2026-11-18T16:15+00:00
+185655,OR,Oregon City of Canby Councilor,2026-11-03,0,,False,6,1,18660,2026-11-18T16:15+00:00
+185921,OR,Oregon City of Athena Council Position 1,2026-11-03,0,,False,2,1,448,2026-11-18T16:15+00:00
+185579,OR,Oregon City of Newberg Councilor District 2 At-Large,2026-11-03,0,,False,3,1,9998,2026-11-18T16:15+00:00
+185045,OR,Oregon Jackson Soil and Water Conservation District Director At-Large Position 2,2026-11-03,0,,False,2,1,63826,2026-11-18T16:15+00:00
+185581,OR,Oregon City of Sheridan Mayor,2026-11-03,0,,False,3,1,1469,2026-11-18T16:15+00:00
+185047,OR,Oregon Jackson County Commissioner Position 3,2026-11-03,0,,False,3,1,99626,2026-11-18T16:15+00:00
+185119,OR,Oregon Klamath Soil & Water Conservation Director Zone 5,2026-11-03,0,,False,2,1,14044,2026-11-18T16:15+00:00
+185304,OR,Oregon Benton County Sheriff,2026-11-03,0,,False,2,1,29259,2026-11-18T16:15+00:00
+185489,OR,Oregon Baker County Burnt River Soil and Water Zone 2,2026-11-03,0,,False,2,1,349,2026-11-18T16:15+00:00
+185656,OR,Oregon City of Mosier Councilor Position #1,2026-11-03,0,,False,2,1,135,2026-11-18T16:15+00:00
+185841,OR,Oregon Union Soil & Water District Director Zone 1,2026-11-03,0,,False,2,1,8138,2026-11-18T16:15+00:00
+185016,OR,Oregon Josephine County Illinois Valley Soil & Water Conservation District Director Zone 2,2026-11-03,0,,False,2,1,2655,2026-11-18T16:15+00:00
+185201,OR,Oregon Lane County Heceta Water PUD Director Subdivision 1,2026-11-03,0,,False,2,1,192,2026-11-18T16:15+00:00
+185375,OR,Oregon City of Culver Councilor - Position 1,2026-11-03,0,,False,2,1,416,2026-11-18T16:15+00:00
+185560,OR,Oregon Marion County Treasurer,2026-11-03,0,,False,2,1,50263,2026-11-18T16:15+00:00
+185745,OR,Oregon Sherman County Treasurer,2026-11-03,0,,False,2,1,873,2026-11-18T16:15+00:00
+185535,OR,Oregon City of Salem Councilor Ward 4,2026-11-03,0,,False,2,1,3352,2026-11-18T16:15+00:00
+185720,OR,Oregon City of Gresham Councilor Position 6,2026-11-03,0,,False,3,1,23159,2026-11-18T16:15+00:00
+159101,OR,Oregon State House 13,2026-11-03,0,2026-11-04T07:09:42.101Z,False,3,1,37210,2026-11-18T16:15+00:00
+185880,OR,Oregon City of Enterprise Councilor #2,2026-11-03,0,,False,2,1,750,2026-11-18T16:15+00:00
+185073,OR,Oregon Measure 06-230 Coos Bay City,2026-11-03,0,,False,2,1,5412,2026-11-18T16:15+00:00
+185240,OR,Oregon Lane County West Commissioner Position 1,2026-11-03,0,,False,2,1,19179,2026-11-18T16:15+00:00
+185425,OR,Oregon City of Siletz Council Member Position 1,2026-11-03,0,,False,2,1,199,2026-11-18T16:15+00:00
+185969,OR,Oregon Measure 04-244 City of Astoria,2026-11-03,0,,False,2,1,4500,2026-11-18T16:15+00:00
+185592,OR,Oregon City of Amity Councilor Position 2 At-Large,2026-11-03,0,,False,2,1,53,2026-11-18T16:15+00:00
+159172,OR,Oregon State House 2,2026-11-03,0,2026-11-04T07:09:42.101Z,False,2,2,24977,2026-11-18T16:15+00:00
+159147,OR,Oregon State House 11,2026-11-03,0,2026-11-04T07:09:42.101Z,False,3,2,33713,2026-11-18T16:15+00:00
+185944,OR,Oregon Columbia County Treasurer,2026-11-03,0,,False,2,1,17024,2026-11-18T16:15+00:00
+185137,OR,Oregon Measure 10-218 City of Sutherlin,2026-11-03,0,,False,2,1,3046,2026-11-18T16:15+00:00
+185919,OR,Oregon City of Milton-Freewater Ward 1 Council,2026-11-03,0,,False,2,1,231,2026-11-18T16:15+00:00
+185112,OR,Oregon Klamath Soil & Water Conservation Director Zone 4 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,748,2026-11-18T16:15+00:00
+185297,OR,Oregon Measure 02-157 North Albany Rural Fire Protection District,2026-11-03,0,,False,2,1,852,2026-11-18T16:15+00:00
+185464,OR,Oregon Measure 27-151 City of Independence,2026-11-03,0,,False,2,1,3411,2026-11-18T16:15+00:00
+185649,OR,Oregon City of Happy Valley Mayor,2026-11-03,0,,False,2,1,6252,2026-11-18T16:15+00:00
+185816,OR,Oregon Measure 31-126 City of Elgin,2026-11-03,0,,False,2,1,752,2026-11-18T16:15+00:00
+185009,OR,Oregon City of Grants Pass Council Ward 4,2026-11-03,0,,False,2,1,8493,2026-11-18T16:15+00:00
+185183,OR,Oregon Measure 13-28 Harney County School District No 3,2026-11-03,0,,False,2,1,2912,2026-11-18T16:15+00:00
+185368,OR,Oregon Jefferson County Soil and Water Conservation District Director - Zone 1,2026-11-03,0,,False,2,1,446,2026-11-18T16:15+00:00
+185553,OR,Oregon City of Keizer Councilor Position #5,2026-11-03,0,,False,2,1,6161,2026-11-18T16:15+00:00
+185343,OR,Oregon City of Mill City Mayor,2026-11-03,0,,False,2,2,523,2026-11-18T16:15+00:00
+185528,OR,Oregon City of Silverton Councilor,2026-11-03,0,,False,6,1,7885,2026-11-18T16:15+00:00
+185713,OR,Oregon City of Fairview Mayor,2026-11-03,0,,False,2,1,1885,2026-11-18T16:15+00:00
+185688,OR,Oregon Measure 14-85 City of Hood River,2026-11-03,0,,False,2,1,3984,2026-11-18T16:15+00:00
+185873,OR,Oregon Morrow County Clerk,2026-11-03,0,,False,5,1,3455,2026-11-18T16:15+00:00
+185048,OR,Oregon City of Central Point Council Member Ward 2,2026-11-03,0,,False,3,1,6315,2026-11-18T16:15+00:00
+185233,OR,Oregon Lane County Upper Willamette Soil & Water District Director Zone 3,2026-11-03,0,,False,2,1,63343,2026-11-18T16:15+00:00
+159165,OR,Oregon State Senate 20,2026-11-03,0,2026-11-04T07:09:42.101Z,False,3,1,63458,2026-11-18T16:15+00:00
+185400,OR,Oregon Canyon City Council,2026-11-03,0,,False,4,1,700,2026-11-18T16:15+00:00
+185585,OR,Oregon City of Newberg Mayor,2026-11-03,0,,False,3,1,10552,2026-11-18T16:15+00:00
+185759,OR,Oregon City of Forest Grove Mayor,2026-11-03,0,,False,2,1,4944,2026-11-18T16:15+00:00
+159140,OR,Oregon State House 12,2026-11-03,0,2026-11-04T07:09:42.101Z,False,3,2,36383,2026-11-18T16:15+00:00
+185937,OR,Oregon City of Scappoose Council Members A,2026-11-03,0,,False,4,1,6870,2026-11-18T16:15+00:00
+159115,OR,Oregon State House 51,2026-11-03,0,2026-11-12T01:54:12.337Z,False,3,1,37483,2026-11-18T16:15+00:00
+185912,OR,Oregon Umatilla County Commissioner Position 1,2026-11-03,0,,False,3,1,19775,2026-11-18T16:15+00:00
+185105,OR,Oregon Klamath County Chiloquin Council Position 2,2026-11-03,0,,False,2,1,32,2026-11-18T16:15+00:00
+185272,OR,Oregon Measure 23-76 Malheur,2026-11-03,0,,False,2,1,8548,2026-11-18T16:15+00:00
+185457,OR,Oregon City of Mitchell Council Position #2 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,58,2026-11-18T16:15+00:00
+185624,OR,Oregon Clackamas County Sheriff,2026-11-03,0,,False,3,1,162156,2026-11-18T16:15+00:00
+185809,OR,Oregon Gilliam County Soil and Water Conservation District Director - Zone 1,2026-11-03,0,,False,2,1,134,2026-11-18T16:15+00:00
+185983,OR,Oregon City of Astoria Mayor,2026-11-03,0,,False,5,1,4647,2026-11-18T16:15+00:00
+185176,OR,Oregon Douglas Soil and Water Conservation District Director At Large Position 2 (2 Year Unexpired Term),2026-11-03,0,,False,2,1,23873,2026-11-18T16:15+00:00
+185361,OR,Oregon City of Harrisburg Mayor,2026-11-03,0,,False,2,1,1099,2026-11-18T16:15+00:00
+185151,OR,Oregon City of Glendale Councilor Position 4,2026-11-03,0,,False,2,1,131,2026-11-18T16:15+00:00
+185336,OR,Oregon City of Gates Mayor,2026-11-03,0,,False,2,2,118,2026-11-18T16:15+00:00
+185521,OR,Oregon City of Woodburn Mayor,2026-11-03,0,,False,2,1,3813,2026-11-18T16:15+00:00
+185311,OR,Oregon City of Corvallis Ward 5 City Council,2026-11-03,0,,False,2,1,1137,2026-11-18T16:15+00:00
+185496,OR,Oregon City of Sumpter Mayor,2026-11-03,0,,False,2,1,116,2026-11-18T16:15+00:00
+185681,OR,Oregon City of Dufur Council Seat #6,2026-11-03,0,,False,2,1,229,2026-11-18T16:15+00:00
+185848,OR,Oregon City of Elgin Mayor,2026-11-03,0,,False,2,1,541,2026-11-18T16:15+00:00
+185041,OR,Oregon City of Talent Council Member Position 5,2026-11-03,0,,False,2,1,1903,2026-11-18T16:15+00:00
+185777,OR,Oregon Measure 29-187 City of Rockaway Beach,2026-11-03,0,,False,2,1,791,2026-11-18T16:15+00:00
+185208,OR,Oregon City of Florence Councilor,2026-11-03,0,,False,5,1,7277,2026-11-18T16:15+00:00
+185393,OR,Oregon Grant County Monument Position #5,2026-11-03,0,,False,2,1,38,2026-11-18T16:15+00:00
+185567,OR,Oregon Measure 36-241 Yamhill,2026-11-03,0,,False,2,1,44891,2026-11-18T16:15+00:00
+185752,OR,Oregon Washington County Tualatin Soil and Water Conservation District Director At-Large Position 2,2026-11-03,0,,False,2,1,108558,2026-11-18T16:15+00:00
+159133,OR,Oregon State House 17,2026-11-03,0,2026-11-04T07:09:42.101Z,False,3,2,32518,2026-11-18T16:15+00:00
+185727,OR,Oregon City of Fairview Councilor Position 6,2026-11-03,0,,False,3,1,2121,2026-11-18T16:15+00:00
+159108,OR,Oregon State Senate 3,2026-11-03,0,2026-11-12T01:54:12.336Z,False,4,1,65166,2026-11-18T16:15+00:00
+185905,OR,Oregon Umatilla County Commissioner Position 2,2026-11-03,0,,False,2,1,16893,2026-11-18T16:15+00:00
+185080,OR,Oregon Coos Soil and Water Conservation District Director At Large Position 1,2026-11-03,0,,False,2,1,14737,2026-11-18T16:15+00:00
+185265,OR,Oregon City of La Pine Mayor,2026-11-03,0,,False,3,1,1108,2026-11-18T16:15+00:00
+185432,OR,Oregon Southwest Lincoln Water PUD Director Subdivision 5,2026-11-03,0,,False,2,1,117,2026-11-18T16:15+00:00
+185617,OR,Oregon City of Rivergrove Councilor,2026-11-03,0,,False,7,2,757,2026-11-18T16:15+00:00
+185784,OR,Oregon City of Rockaway Beach City Council Position 4,2026-11-03,0,,False,2,1,595,2026-11-18T16:15+00:00
+185976,OR,Oregon City of Seaside Councilor Ward 2,2026-11-03,0,,False,2,1,377,2026-11-18T16:15+00:00
+185169,OR,Oregon City of Drain Councilor Position 4,2026-11-03,0,,False,2,1,256,2026-11-18T16:15+00:00
+185951,OR,Oregon City of Clatskanie Mayor,2026-11-03,0,,False,4,1,760,2026-11-18T16:15+00:00
+185144,OR,Oregon City of Winston Mayor,2026-11-03,0,,False,2,1,1332,2026-11-18T16:15+00:00
+185329,OR,Oregon Measure 24-530 Gates Rural Fire Protection District,2026-11-03,0,,False,2,2,383,2026-11-18T16:15+00:00
+87369,OR,Oregon US House 2,2026-11-03,90.4,2026-11-04T05:46:58.308Z,False,3,22,309145,2026-11-18T16:15+00:00
+87371,OR,Oregon US House 4,2026-11-03,95.2,2026-11-04T06:30:56.318Z,False,4,7,341423,2026-11-18T16:15+00:00
+87373,OR,Oregon US House 6,2026-11-03,95.9,2026-11-04T07:03:08.605Z,False,3,5,304413,2026-11-18T16:15+00:00
+87368,OR,Oregon US House 1,2026-11-03,95.2,2026-11-04T04:32:37.763Z,False,3,5,323981,2026-11-18T16:15+00:00
+87370,OR,Oregon US House 3,2026-11-03,93.8,2026-11-04T04:19:08.954Z,False,3,3,305908,2026-11-18T16:15+00:00
+87372,OR,Oregon US House 5,2026-11-03,97.3,2026-11-04T06:30:56.318Z,False,4,6,363709,2026-11-18T16:15+00:00
+87374,OR,Oregon US Senate,2026-11-03,95.6,2026-11-04T04:02:17.867Z,False,5,36,1964403,2026-11-18T16:15+00:00

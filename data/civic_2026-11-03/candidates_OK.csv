@@ -1,0 +1,391 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+158945,OK,Yes,Nonpartisan,0,,False,False
+158945,OK,No,Nonpartisan,0,,False,False
+158930,OK,Robert Franklin,Republican,732586,66.023,True,False
+158930,OK,Jennettie Marshall,Democratic,377002,33.977,False,False
+158929,OK,Cindy Byrd,Republican,780978,75.383,True,False
+158929,OK,Kiefer Perry,Libertarian,255029,24.617,False,False
+158942,OK,Yes,Nonpartisan,0,,False,False
+158942,OK,No,Nonpartisan,0,,False,False
+159561,OK,Republican,Republican,358763,57.014,False,False
+159561,OK,Democratic,Democratic,253702,40.318,False,False
+159561,OK,Independent,Independent,13383,2.127,False,False
+159561,OK,Libertarian,Libertarian,3403,0.541,False,False
+87582,OK,Mike Mazzei,Republican,582039,51.925,True,False
+87582,OK,Cyndi Munson,Democratic,514776,45.924,False,False
+87582,OK,Robert E Brooks Sr,Independent,11660,1.04,False,False
+87582,OK,Jerry Griffin,Independent,7441,0.664,False,False
+87582,OK,Orlando Lynn Bush,Independent,5014,0.447,False,False
+158932,OK,Bob Sullivan,Republican,656019,59.077,True,False
+158932,OK,Craig MacIntyre,Democratic,454436,40.923,False,False
+158938,OK,Yes,Nonpartisan,0,,False,False
+158938,OK,No,Nonpartisan,0,,False,False
+158947,OK,No,Nonpartisan,585734,54.275,True,False
+158947,OK,Yes,Nonpartisan,493467,45.725,False,False
+158928,OK,Jon Echols,Republican,617671,55.33,True,False
+158928,OK,Nick Coffey,Democratic,498671,44.67,False,False
+158941,OK,Yes,Nonpartisan,0,,False,False
+158941,OK,No,Nonpartisan,0,,False,False
+158944,OK,Yes,Nonpartisan,0,,False,False
+158944,OK,No,Nonpartisan,0,,False,False
+159573,OK,Melissa Capps,Republican,0,,False,False
+158931,OK,Kevin West,Republican,620848,55.889,True,False
+158931,OK,Kevin Dawson,Democratic,436655,39.308,False,False
+158931,OK,Mike Hall,Libertarian,53364,4.804,False,False
+158940,OK,Yes,Nonpartisan,0,,False,False
+158940,OK,No,Nonpartisan,0,,False,False
+158946,OK,No,Nonpartisan,777246,72.524,True,False
+158946,OK,Yes,Nonpartisan,294462,27.476,False,False
+158927,OK,T. W. Shannon,Republican,646619,57.787,True,False
+158927,OK,Kelly Forbes,Democratic,472357,42.213,False,False
+158937,OK,Yes,Nonpartisan,0,,False,False
+158937,OK,No,Nonpartisan,0,,False,False
+158943,OK,Yes,Nonpartisan,0,,False,False
+158943,OK,No,Nonpartisan,0,,False,False
+159562,OK,Republican,Republican,221561,62.673,False,False
+159562,OK,Democratic,Democratic,129352,36.59,False,False
+159562,OK,Independent,Independent,2608,0.738,False,False
+158933,OK,Brad Boles,Republican,647395,58.417,True,False
+158933,OK,Rhonda Eastman,Democratic,460830,41.583,False,False
+158939,OK,Yes,Nonpartisan,0,,False,False
+158939,OK,No,Nonpartisan,0,,False,False
+159047,OK,Christie K. Miller,Republican,0,,False,False
+159047,OK,Jessica Thompson,Democratic,0,,False,False
+159037,OK,Troy Talley,Republican,7066,50.787,True,False
+159037,OK,Megan Hornbeek Allen,Democratic,6847,49.213,False,False
+158956,OK,Cindy Campbell Anderson,Republican,0,,False,False
+158956,OK,Delta Reynolds,Democratic,0,,False,False
+159042,OK,Ellyn Hefner,Democratic,6633,72.85,True,False
+159042,OK,Codey Bartle,Republican,2472,27.15,False,False
+159089,OK,Stan May,Republican,8720,60.851,True,False
+159089,OK,Jeremy Founds,Democratic,5610,39.149,False,False
+158958,OK,Yes,Nonpartisan,0,,False,False
+158958,OK,No,Nonpartisan,0,,False,False
+158948,OK,Carl Newton,Republican,9010,84.403,True,False
+158948,OK,Albert Borrie,Democratic,1665,15.597,False,False
+159034,OK,James M Pfeffer,Nonpartisan,0,,False,False
+159034,OK,Linda Michelle Branstetter,Nonpartisan,0,,False,False
+158953,OK,Eric Edwards,Nonpartisan,0,,False,False
+158953,OK,Paul K. Woodward,Nonpartisan,0,,False,False
+159064,OK,Yes,Nonpartisan,0,,False,False
+159064,OK,No,Nonpartisan,0,,False,False
+159061,OK,Tom Sawyer,Nonpartisan,0,,False,False
+159061,OK,Caroline Wall,Nonpartisan,0,,False,False
+158977,OK,Jason Blair,Republican,6033,52.085,True,False
+158977,OK,Carroll Asséo,Democratic,5550,47.915,False,False
+159031,OK,David Nelson,Republican,6602,63.274,True,False
+159031,OK,Rose Rosie Lynch,Democratic,3832,36.726,False,False
+158982,OK,Yes,Nonpartisan,0,,False,False
+158982,OK,No,Nonpartisan,0,,False,False
+159011,OK,Mical A Delaney,Republican,0,,False,False
+159011,OK,Ricky Martin,Democratic,0,,False,False
+159090,OK,Gabe Woolley,Republican,6450,55.917,True,False
+159090,OK,Cathy Smythe,Democratic,5085,44.083,False,False
+159023,OK,Molly Jenkins,Republican,7623,62.818,True,False
+159023,OK,Max E. Burchett Jr,Democratic,4512,37.182,False,False
+159006,OK,Yes,Nonpartisan,0,,False,False
+159006,OK,No,Nonpartisan,0,,False,False
+159053,OK,Yes,Nonpartisan,0,,False,False
+159053,OK,No,Nonpartisan,0,,False,False
+159082,OK,John Haste,Republican,12177,55.937,True,False
+159082,OK,Rick Larsen,Democratic,9592,44.063,False,False
+159040,OK,Jeffrey Perez,Democratic,5101,51.85,True,False
+159040,OK,Tammy West,Republican,4737,48.15,False,False
+158966,OK,Josh Cantrell,Republican,7750,75.854,True,False
+158966,OK,Dusty Jo Jones,Democratic,2467,24.146,False,False
+159077,OK,Kevin W. Norwood,Republican,8565,67.766,True,False
+159077,OK,Aaron Brent,Independent,4074,32.234,False,False
+159003,OK,Ronald Heck,Nonpartisan,0,,False,False
+159003,OK,NaRissa Anderson,Nonpartisan,0,,False,False
+159003,OK,David Macy,Nonpartisan,0,,False,False
+158951,OK,Mary Chris Barth,Republican,0,,False,False
+158951,OK,Trevor Estrada,Independent,0,,False,False
+159069,OK,Yes,Nonpartisan,0,,False,False
+159069,OK,No,Nonpartisan,0,,False,False
+158995,OK,Mark Lawson,Republican,7208,67.84,True,False
+158995,OK,Sonya Amling,Democratic,3417,32.16,False,False
+159074,OK,Ally Seifried,Republican,18690,68.162,True,False
+159074,OK,Randy Cowling,Democratic,8730,31.838,False,False
+159000,OK,Yes,Nonpartisan,0,,False,False
+159000,OK,No,Nonpartisan,0,,False,False
+159029,OK,Toby Graves,Republican,0,,False,False
+159029,OK,Adam Ward,Libertarian,0,,False,False
+159019,OK,Yes,Nonpartisan,0,,False,False
+159019,OK,No,Nonpartisan,0,,False,False
+159098,OK,Eddie Collins,Nonpartisan,0,,False,False
+159098,OK,Trevor D Dorsey,Nonpartisan,0,,False,False
+159098,OK,Angela Utley,Nonpartisan,0,,False,False
+158992,OK,Bryan Logan,Republican,14709,67.021,True,False
+158992,OK,Nathan Brewer,Democratic,7238,32.979,False,False
+158975,OK,John George,Republican,9175,68.887,True,False
+158975,OK,Leslie Hellebuyck,Democratic,4144,31.113,False,False
+158972,OK,Jon Painter,Republican,12704,52.366,True,False
+158972,OK,Jonathan Morales,Democratic,9588,39.522,False,False
+158972,OK,Melissa Elder,Independent,1968,8.112,False,False
+159016,OK,Grant Green,Republican,17893,71.949,True,False
+159016,OK,Kevin M. Connor,Democratic,6976,28.051,False,False
+158935,OK,David Hardin,Republican,6753,70.198,True,False
+158935,OK,Hannah Cole,Democratic,2867,29.802,False,False
+159021,OK,Yes,Nonpartisan,0,,False,False
+159021,OK,No,Nonpartisan,0,,False,False
+159050,OK,Yes,Nonpartisan,0,,False,False
+159050,OK,No,Nonpartisan,0,,False,False
+159001,OK,Madison Bolay,Republican,9833,79.703,True,False
+159001,OK,Doyle Lewis,Democratic,2504,20.297,False,False
+159087,OK,Meloyde Blancett,Democratic,8655,78.015,True,False
+159087,OK,Tony Oliva,Independent,2439,21.985,False,False
+159045,OK,Chaunté Gilmore,Democratic,7241,59.149,True,False
+159045,OK,Marilyn Stark,Republican,5001,40.851,False,False
+158964,OK,David Black,Nonpartisan,0,,False,False
+158964,OK,Blake Dewberry,Nonpartisan,0,,False,False
+159072,OK,Danny Williams,Republican,6156,62.485,True,False
+159072,OK,Blake Cummings,Democratic,3696,37.515,False,False
+159062,OK,Christopher Camp,Nonpartisan,0,,False,False
+159062,OK,Kevin Gray,Nonpartisan,0,,False,False
+158988,OK,Jena M Smith,Nonpartisan,0,,False,False
+158988,OK,Taron Epps Sr,Nonpartisan,0,,False,False
+159067,OK,Frankie McClendon,Republican,0,,False,False
+159067,OK,Bobby Cox,Independent,0,,False,False
+158961,OK,Denise Crosswhite Hader,Republican,9361,57.56,True,False
+158961,OK,Mike Bockus,Democratic,6902,42.44,False,False
+158990,OK,Yes,Nonpartisan,0,,False,False
+158990,OK,No,Nonpartisan,0,,False,False
+158980,OK,Roberto Seda,Republican,7403,52.875,True,False
+158980,OK,Chris Fowler,Democratic,6598,47.125,False,False
+159059,OK,Aaron Kirkpatrick,Nonpartisan,0,,False,False
+159059,OK,Joel Rabin,Nonpartisan,0,,False,False
+159059,OK,Amanda Veley,Nonpartisan,0,,False,False
+158985,OK,Trey Caldwell,Republican,6312,74.955,True,False
+158985,OK,Shykira Smith,Democratic,2109,25.045,False,False
+159096,OK,Cameron Byers,Nonpartisan,0,,False,False
+159096,OK,David Austin,Nonpartisan,0,,False,False
+159093,OK,Yes,Nonpartisan,0,,False,False
+159093,OK,No,Nonpartisan,0,,False,False
+159083,OK,Sheila Dills,Republican,9409,64.335,True,False
+159083,OK,Tyler Price,Democratic,5216,35.665,False,False
+159009,OK,Yes,Nonpartisan,0,,False,False
+159009,OK,No,Nonpartisan,0,,False,False
+159056,OK,Anthony Lloyd Hudson,Republican,0,,False,False
+159056,OK,Randall Jones,Independent,0,,False,False
+159014,OK,Ricky A. Marsh,Nonpartisan,0,,False,False
+159014,OK,Kyle N. Eastwood,Nonpartisan,0,,False,False
+159043,OK,Preston Stinson,Republican,8850,54.959,True,False
+159043,OK,Ashtyn Smith,Democratic,7253,45.041,False,False
+158962,OK,Toby Thompson,Republican,8961,62.091,True,False
+158962,OK,Indigo Oliver,Democratic,5471,37.909,False,False
+159080,OK,Dan Merkey,Nonpartisan,0,,False,False
+159080,OK,Bruce Coon,Nonpartisan,0,,False,False
+159038,OK,Nicole Miller,Republican,8386,53.77,True,False
+159038,OK,Travis Headd,Democratic,7210,46.23,False,False
+159085,OK,Joe Watkins,Democratic,4592,53.16,True,False
+159085,OK,T. J. Marti,Republican,4046,46.84,False,False
+158954,OK,Dick Lowe,Republican,7022,72.191,True,False
+158954,OK,Linda Pedro,Democratic,2705,27.809,False,False
+159065,OK,Trish Ranson,Democratic,5032,67.04,True,False
+159065,OK,Aaron Means,Republican,2474,32.96,False,False
+158998,OK,David Berrong,Nonpartisan,0,,False,False
+158998,OK,Ernie Dowdell,Nonpartisan,0,,False,False
+158949,OK,Megan Hickman,Nonpartisan,0,,False,False
+158949,OK,Brian E. Mitchell,Nonpartisan,0,,False,False
+159035,OK,Yes,Nonpartisan,0,,False,False
+159035,OK,No,Nonpartisan,0,,False,False
+158983,OK,Curtis W. Erwin,Republican,8332,53.094,True,False
+158983,OK,Booker T. Newton,Democratic,6721,42.828,False,False
+158983,OK,Valentin Peña,Independent,640,4.078,False,False
+158973,OK,Jonathan Wilk,Republican,8923,67.563,True,False
+158973,OK,Chris May,Democratic,4284,32.437,False,False
+159027,OK,Yes,Nonpartisan,0,,False,False
+159027,OK,No,Nonpartisan,0,,False,False
+158978,OK,Heath Kufahl,Republican,4952,51.183,True,False
+158978,OK,Crystal Abram-Garcia,Democratic,4723,48.817,False,False
+159032,OK,Yes,Nonpartisan,0,,False,False
+159032,OK,No,Nonpartisan,0,,False,False
+159054,OK,Ernie Ferreira,Republican,0,,False,False
+159054,OK,Barbarbra Cooks,Democratic,0,,False,False
+159051,OK,Yes,Nonpartisan,0,,False,False
+159051,OK,No,Nonpartisan,0,,False,False
+158970,OK,Jim Bob Sullivan,Republican,0,,False,False
+158970,OK,Jerome Mick,Democratic,0,,False,False
+159024,OK,Sierra Pfeiffer,Nonpartisan,0,,False,False
+159024,OK,Diane Vaughan,Nonpartisan,0,,False,False
+159007,OK,Yes,Nonpartisan,0,,False,False
+159007,OK,No,Nonpartisan,0,,False,False
+159004,OK,Kenneth Slaton,Republican,0,,False,False
+159004,OK,Bert Dyer,Democratic,0,,False,False
+159048,OK,Jessica Clayton,Republican,0,,False,False
+159048,OK,Jennifer Mayo,Democratic,0,,False,False
+158967,OK,Yes,Nonpartisan,0,,False,False
+158967,OK,No,Nonpartisan,0,,False,False
+159078,OK,Lane A. Carter,Republican,0,,False,False
+159078,OK,Aimee Nolan,Independent,0,,False,False
+159075,OK,Scotty Stokes,Republican,7889,66.183,True,False
+159075,OK,Andrea Biscardi,Democratic,4031,33.817,False,False
+159033,OK,Judd Strom,Republican,8740,76.998,True,False
+159033,OK,Isaac D Mattox,Democratic,2611,23.002,False,False
+158959,OK,Tyler Herring,Republican,14324,54.139,True,False
+158959,OK,Meredith McGinnis,Democratic,12134,45.861,False,False
+159070,OK,Yes,Nonpartisan,0,,False,False
+159070,OK,No,Nonpartisan,0,,False,False
+158996,OK,Mike Lay,Republican,6025,57.573,True,False
+158996,OK,Michelle LaFleur,Democratic,4440,42.427,False,False
+158993,OK,Todd Gollihare,Republican,16309,67.779,True,False
+158993,OK,Erica Watkins,Democratic,7753,32.221,False,False
+158976,OK,Annie Menz,Democratic,7835,62.525,True,False
+158976,OK,Carolyn Womack-Bielich,Republican,4696,37.475,False,False
+159094,OK,Todd Cone,Nonpartisan,0,,False,False
+159094,OK,Alan Wayne Gentges,Nonpartisan,0,,False,False
+159020,OK,Yes,Nonpartisan,0,,False,False
+159020,OK,No,Nonpartisan,0,,False,False
+159099,OK,Tiffany Jobe,Democratic,0,,False,False
+159099,OK,Laura Beth Culp,Libertarian,0,,False,False
+159022,OK,Brad Morgan,Nonpartisan,0,,False,False
+159022,OK,John B. Pieper,Nonpartisan,0,,False,False
+159022,OK,David A. Hunt,Nonpartisan,0,,False,False
+159012,OK,Bill Coleman,Republican,17642,72.268,True,False
+159012,OK,Chayelynn Moore,Democratic,6770,27.732,False,False
+159091,OK,Loretta Radford,Nonpartisan,0,,False,False
+159091,OK,Dustin Allen,Nonpartisan,0,,False,False
+159017,OK,Jim Shaw,Republican,8544,74.019,True,False
+159017,OK,Andy Brown,Independent,2999,25.981,False,False
+158936,OK,Charles E.W. Boecher,Republican,0,,False,False
+158936,OK,Shelby Eubanks,Democratic,0,,False,False
+158965,OK,Brian Pillmore,Nonpartisan,0,,False,False
+158965,OK,Joe Phillips,Nonpartisan,0,,False,False
+158955,OK,Ladonna Phillips,Republican,0,,False,False
+158955,OK,Taylor Allen,Democratic,0,,False,False
+159041,OK,Chelsey Branham,Democratic,10242,63.211,True,False
+159041,OK,Joe Fallin,Republican,5961,36.789,False,False
+159088,OK,Melissa Provenzano,Democratic,6445,62.524,True,False
+159088,OK,Paul Hassink,Republican,3863,37.476,False,False
+159046,OK,Larry Stein,Republican,0,,False,False
+159046,OK,John Gibbons,Democratic,0,,False,False
+159068,OK,Ross Selman,Republican,0,,False,False
+159068,OK,Jonathan Casey Myers,Independent,0,,False,False
+158994,OK,Chris Banning,Republican,8878,71.892,True,False
+158994,OK,Joshua Conant,Independent,3471,28.108,False,False
+158952,OK,Chad Scheihing,Republican,0,,False,False
+158952,OK,Mike Allen,Democratic,0,,False,False
+159063,OK,Yes,Nonpartisan,0,,False,False
+159063,OK,No,Nonpartisan,0,,False,False
+158957,OK,Yes,Nonpartisan,0,,False,False
+158957,OK,No,Nonpartisan,0,,False,False
+158986,OK,Kathy Suttles,Democratic,3869,54.18,True,False
+158986,OK,Louis Jackson,Republican,3272,45.82,False,False
+159097,OK,Ingard Curtiss,Nonpartisan,0,,False,False
+159097,OK,Josh Lock,Nonpartisan,0,,False,False
+159097,OK,James S. Curd Jr.,Nonpartisan,0,,False,False
+159030,OK,Randy Pierce,Republican,0,,False,False
+159030,OK,Gaye Brewer,Independent,0,,False,False
+158981,OK,Tegan Malone,Democratic,5262,52.426,True,False
+158981,OK,Max Wolfley,Republican,4375,43.589,False,False
+158981,OK,Ryan Gardner,Independent,400,3.985,False,False
+159060,OK,Linda Nicole Lytle-Woodrell,Republican,0,,False,False
+159060,OK,Shayla Brien,Independent,0,,False,False
+159015,OK,Rick West,Republican,6634,72.917,True,False
+159015,OK,Steve Glinski,Democratic,2464,27.083,False,False
+159005,OK,Yes,Nonpartisan,0,,False,False
+159005,OK,No,Nonpartisan,0,,False,False
+159084,OK,Michelle McCane,Democratic,4894,68.067,True,False
+159084,OK,Adam Martin,Republican,2296,31.933,False,False
+159010,OK,Yes,Nonpartisan,0,,False,False
+159010,OK,No,Nonpartisan,0,,False,False
+159057,OK,Vanessa Hall-Harper,Nonpartisan,0,,False,False
+159057,OK,Corinice Wilson,Nonpartisan,0,,False,False
+159086,OK,Ross Ford,Republican,6582,55.367,True,False
+159086,OK,Michael Tinsley,Democratic,5306,44.633,False,False
+159076,OK,Derrick R. Hildebrant,Republican,5286,58.28,True,False
+159076,OK,Catherine Peters,Democratic,3784,41.72,False,False
+159002,OK,Gary Bray,Republican,0,,False,False
+159002,OK,Scott Nichols,Democratic,0,,False,False
+159002,OK,Kirk L. Painter,Independent,0,,False,False
+159081,OK,Aaron Forst,Republican,9525,52.685,True,False
+159081,OK,Amy Hossain,Democratic,8554,47.315,False,False
+159039,OK,Dalton Gau,Democratic,8307,53.77,True,False
+159039,OK,Eric Roberts,Republican,7142,46.23,False,False
+159036,OK,Brenda Stanley,Republican,13857,55.304,True,False
+159036,OK,Chris Jones,Democratic,11199,44.696,False,False
+159073,OK,Buck Jones,Republican,0,,False,False
+159073,OK,John Roberts,Democratic,0,,False,False
+158999,OK,Bobby Stewart,Nonpartisan,0,,False,False
+158999,OK,Lucas Martinez,Nonpartisan,0,,False,False
+158950,OK,David Bullard,Republican,15533,74.239,True,False
+158950,OK,Patrick Southerland,Democratic,5390,25.761,False,False
+158979,OK,Emily Gise,Republican,4271,53.441,True,False
+158979,OK,Kymberly Ward,Democratic,3721,46.559,False,False
+159058,OK,Yes,Nonpartisan,0,,False,False
+159058,OK,No,Nonpartisan,0,,False,False
+158991,OK,Yes,Nonpartisan,0,,False,False
+158991,OK,No,Nonpartisan,0,,False,False
+158974,OK,Danny Sterling,Republican,8743,70.412,True,False
+158974,OK,Memory Taylor,Democratic,3674,29.588,False,False
+159028,OK,Yes,Nonpartisan,0,,False,False
+159028,OK,No,Nonpartisan,0,,False,False
+159025,OK,John Wayne Williams,Republican,0,,False,False
+159025,OK,Zeb Sims,Independent,0,,False,False
+159008,OK,Yes,Nonpartisan,0,,False,False
+159008,OK,No,Nonpartisan,0,,False,False
+158934,OK,Tom Woods,Republican,15490,73.636,True,False
+158934,OK,Ellen Cuff,Democratic,5546,26.364,False,False
+159052,OK,Yes,Nonpartisan,0,,False,False
+159052,OK,No,Nonpartisan,0,,False,False
+158971,OK,Justin Freeland Wood,Republican,15826,66.881,True,False
+158971,OK,Ed Bolt,Democratic,7837,33.119,False,False
+159079,OK,Ron Burrows,Republican,0,,False,False
+159079,OK,Thomas Trolinger,Democratic,0,,False,False
+159044,OK,Herschel L. Brown,Democratic,8490,86.001,True,False
+159044,OK,Melvin Latham,Republican,1382,13.999,False,False
+158963,OK,Mike Kelley,Republican,8387,58.389,True,False
+158963,OK,Sharon K Taylor,Democratic,5977,41.611,False,False
+159049,OK,Yes,Nonpartisan,0,,False,False
+159049,OK,No,Nonpartisan,0,,False,False
+158968,OK,Bob Ed Culver,Republican,6094,59.251,True,False
+158968,OK,Christopher Wier,Democratic,4191,40.749,False,False
+158997,OK,Jarrod Whitehouse,Republican,0,,False,False
+158997,OK,Justin Mann,Independent,0,,False,False
+158987,OK,Neil West,Nonpartisan,0,,False,False
+158987,OK,Christine Galbraith,Nonpartisan,0,,False,False
+159066,OK,Yes,Nonpartisan,0,,False,False
+159066,OK,No,Nonpartisan,0,,False,False
+158960,OK,Kristen Thompson,Republican,18550,54.762,True,False
+158960,OK,Kenny Kemper,Democratic,15324,45.238,False,False
+159071,OK,Leah Longest,Republican,6112,59.892,True,False
+159071,OK,Chris Odneal,Democratic,4093,40.108,False,False
+159100,OK,Yes,Nonpartisan,0,,False,False
+159100,OK,No,Nonpartisan,0,,False,False
+159026,OK,Jeff Coleman,Republican,0,,False,False
+159026,OK,Loyal Dean Taylor,Democratic,0,,False,False
+158984,OK,Daniel Pae,Republican,4384,53.463,True,False
+158984,OK,Blake Munoz,Democratic,3816,46.537,False,False
+159095,OK,Tim Sherrick,Nonpartisan,0,,False,False
+159095,OK,Michael Colaw,Nonpartisan,0,,False,False
+158989,OK,Todd Taylor,Republican,0,,False,False
+158989,OK,Allen Goforth,Democratic,0,,False,False
+159018,OK,Troy Austin Officer,Nonpartisan,0,,False,False
+159018,OK,Joseph Costa,Nonpartisan,0,,False,False
+158969,OK,Chris Sneed,Republican,5700,58.456,True,False
+158969,OK,Jeremiah Gantz,Democratic,4051,41.544,False,False
+159055,OK,Clay Staires,Republican,7710,69.378,True,False
+159055,OK,Kenny Blevins,Libertarian,3403,30.622,False,False
+159013,OK,Rob Davis,Nonpartisan,0,,False,False
+159013,OK,Scott Loftis,Nonpartisan,0,,False,False
+159092,OK,Mark Chapman,Republican,10544,71.137,True,False
+159092,OK,Tiffany Prater,Democratic,4278,28.863,False,False
+87510,OK,Josh Brecheen,Republican,144054,67.955,True,False
+87510,OK,Brandon Wade,Democratic,61409,28.969,False,False
+87510,OK,Ronnie Hopkins,Independent,6520,3.076,False,False
+87512,OK,Tom Cole,Republican,125631,57.595,True,False
+87512,OK,Mitchell Jacob,Democratic,86108,39.476,False,False
+87512,OK,Rocco Bonacci,Independent,6389,2.929,False,False
+87526,OK,Kevin Hern,Republican,639860,57.195,True,False
+87526,OK,N'Kiyla Jasmine Thomas,Democratic,439522,39.288,False,False
+87526,OK,Curtis Stinnett,Independent,14635,1.308,False,False
+87526,OK,Ron Meinhardt,Independent,14504,1.296,False,False
+87526,OK,Sevier White,Libertarian,10209,0.913,False,False
+87509,OK,Mark Tedford,Republican,121397,52.303,True,False
+87509,OK,John Croisant,Democratic,110707,47.697,False,False
+87511,OK,Frank Lucas,Republican,122181,63.965,True,False
+87511,OK,Suzie Byrd,Democratic,68832,36.035,False,False
+87513,OK,Stephanie Bice,Republican,131023,49.483,True,False
+87513,OK,Jena Nelson,Democratic,127687,48.223,False,False
+87513,OK,Robert P. Henri,Independent,4027,1.521,False,False
+87513,OK,Austin Nieves,Independent,2047,0.773,False,False

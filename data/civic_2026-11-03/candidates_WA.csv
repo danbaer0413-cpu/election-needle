@@ -1,0 +1,1877 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+130145,WA,No,Nonpartisan,1850158,57.988,True,False
+130145,WA,Yes,Nonpartisan,1340445,42.012,False,False
+130146,WA,Yes,Nonpartisan,1774044,55.951,True,False
+130146,WA,No,Nonpartisan,1396656,44.049,False,False
+130158,WA,Theo Angelis,Nonpartisan,1619342,55.696,True,False
+130158,WA,Dave Larson,Nonpartisan,1279817,44.019,False,False
+130158,WA,Write-in,Nonpartisan,8282,0.285,False,False
+130156,WA,Colleen Melody,Nonpartisan,1759976,59.944,True,False
+130156,WA,Scott Edwards,Nonpartisan,1168782,39.808,False,False
+130156,WA,Write-in,Nonpartisan,7279,0.248,False,False
+130157,WA,Sean O'Donnell,Nonpartisan,1459880,50.489,False,False
+130157,WA,Ian Birk,Nonpartisan,1421367,49.157,False,False
+130157,WA,Write-in,Nonpartisan,10230,0.354,False,False
+159572,WA,Democratic,Democratic,883510,63.204,False,False
+159572,WA,Republican,Republican,471903,33.759,False,False
+159572,WA,Independent,Independent,21442,1.534,False,False
+159572,WA,Nonpartisan,Nonpartisan,21008,1.503,False,False
+87525,WA,No,Nonpartisan,1626385,52.395,True,False
+87525,WA,Yes,Nonpartisan,1477679,47.605,False,False
+159571,WA,Democratic,Democratic,3680450,60.951,False,False
+159571,WA,Republican,Republican,2087383,34.569,False,False
+159571,WA,Independent,Independent,111588,1.848,False,False
+159571,WA,Nonpartisan,Nonpartisan,62425,1.034,False,False
+159571,WA,Libertarian,Libertarian,33671,0.558,False,False
+159571,WA,Labor Democrat,Labor Democrat,25386,0.42,False,False
+159571,WA,No Kings,No Kings,20655,0.342,False,False
+159571,WA,Cascade,Cascade,16785,0.278,False,False
+130159,WA,Debra L. Stephens,Nonpartisan,1842304,63.416,True,False
+130159,WA,Todd A. Bloom,Nonpartisan,1055025,36.316,False,False
+130159,WA,Write-in,Nonpartisan,7795,0.268,False,False
+87537,WA,Jaime Michelle Hawk,Nonpartisan,1687946,57.739,True,False
+87537,WA,David Stevens,Nonpartisan,1226463,41.953,False,False
+87537,WA,Write-in,Nonpartisan,8987,0.307,False,False
+130206,WA,Joe Helm,Republican,1431,94.643,False,False
+130206,WA,Write-in,Nonpartisan,81,5.357,False,False
+130838,WA,Lee Hancock,Nonpartisan,21345,82.506,False,False
+130838,WA,Antonio Price,Nonpartisan,4492,17.363,False,False
+130838,WA,Write-in,Nonpartisan,34,0.131,False,False
+130222,WA,Brandon K. Guernsey,Republican,17202,98.37,False,False
+130222,WA,Write-in,Nonpartisan,285,1.63,False,False
+130214,WA,Joshua Thompson,Republican,23235,52.59,True,False
+130214,WA,Deanna Martinez,Republican,19969,45.198,False,False
+130214,WA,Write-in,Nonpartisan,977,2.211,False,False
+130700,WA,Kristen L. Parcher,Nonpartisan,138939,98.425,False,False
+130700,WA,Write-in,Nonpartisan,2224,1.575,False,False
+130492,WA,Sven Nelson,Nonpartisan,155761,55.765,False,False
+130492,WA,James Armstrong,Nonpartisan,121832,43.618,False,False
+130492,WA,Write-in,Nonpartisan,1722,0.617,False,False
+130272,WA,Sam Low,Republican,36316,54.592,True,False
+130272,WA,Kathryn Lewandowsky,Democratic,30138,45.305,False,False
+130272,WA,Write-in,Nonpartisan,69,0.104,False,False
+130708,WA,Nikki Torres,Republican,27258,52.669,True,False
+130708,WA,Gabe Galbraith,Republican,23471,45.352,False,False
+130708,WA,Write-in,Nonpartisan,1024,1.979,False,False
+130550,WA,Yes,Nonpartisan,40,100.0,False,False
+130550,WA,No,Nonpartisan,0,0.0,False,False
+130773,WA,Liz Berry,Democratic,68899,98.74,True,False
+130773,WA,Write-in,Nonpartisan,879,1.26,False,False
+130357,WA,Lauren Davis,Democratic,43608,69.959,True,False
+130357,WA,Imraan Siddiqi,Democratic,17773,28.513,False,False
+130357,WA,Write-in,Nonpartisan,953,1.529,False,False
+130349,WA,Yes,Nonpartisan,167230,53.227,False,False
+130349,WA,No,Nonpartisan,146955,46.773,False,False
+130202,WA,Will Hutchens,No Party Preference,1594,98.945,False,False
+130202,WA,Write-in,Nonpartisan,17,1.055,False,False
+130636,WA,John Mason,No Party Preference,2182,98.867,False,False
+130636,WA,Write-in,Nonpartisan,25,1.133,False,False
+130218,WA,Shannon Falstad,Republican,11442,55.701,False,False
+130218,WA,Darci Homesley,Republican,8849,43.078,False,False
+130218,WA,Write-in,Nonpartisan,251,1.222,False,False
+130210,WA,Levy Yes,Nonpartisan,97,72.932,False,False
+130210,WA,Levy No,Nonpartisan,36,27.068,False,False
+130696,WA,Troy McCoy,Nonpartisan,25402,51.351,False,False
+130696,WA,Peter Silliman,Nonpartisan,23882,48.279,False,False
+130696,WA,Write-in,Nonpartisan,183,0.37,False,False
+130276,WA,Danny Hagen,Independent,35221,98.824,False,False
+130276,WA,Write-in,Nonpartisan,419,1.176,False,False
+148850,WA,LEVY YES,Nonpartisan,1730,51.199,False,False
+148850,WA,LEVY NO,Nonpartisan,1649,48.801,False,False
+130704,WA,Megan D. Peyton,Nonpartisan,135186,98.44,False,False
+130704,WA,Write-in,Nonpartisan,2142,1.56,False,False
+130345,WA,No,Nonpartisan,162986,53.28,False,False
+130345,WA,Yes,Nonpartisan,142916,46.72,False,False
+130336,WA,Erik D. Price,Nonpartisan,228978,98.029,False,False
+130336,WA,Write-in,Nonpartisan,4604,1.971,False,False
+130575,WA,Yes,Nonpartisan,70,72.917,False,False
+130575,WA,No,Nonpartisan,26,27.083,False,False
+130353,WA,Strom Peterson,Democratic,31811,57.823,True,False
+130353,WA,Jason Moon,Democratic,22394,40.706,False,False
+130353,WA,Write-in,Nonpartisan,809,1.471,False,False
+130576,WA,Yes,Nonpartisan,292,72.457,False,False
+130576,WA,No,Nonpartisan,111,27.543,False,False
+130794,WA,Leesa Manion,Nonpartisan,620946,97.561,False,False
+130794,WA,Write-in,Nonpartisan,15523,2.439,False,False
+130786,WA,Gerry Pollet,Democratic,45405,62.789,True,False
+130786,WA,Will Dreher,Democratic,26459,36.589,False,False
+130786,WA,Write-in,Nonpartisan,450,0.622,False,False
+130641,WA,Beth Doglio,Democratic,51927,71.872,True,False
+130641,WA,Don Hewett,Republican,20119,27.847,False,False
+130641,WA,Write-in,Nonpartisan,203,0.281,False,False
+130223,WA,Darrik Gregg,Republican,12091,56.279,False,False
+130223,WA,Joey Kriete,Republican,9175,42.706,False,False
+130223,WA,Write-in,Nonpartisan,218,1.015,False,False
+130855,WA,Adam N. Kick,Non Partisan,4248,97.053,False,False
+130855,WA,Write-in,Nonpartisan,129,2.947,False,False
+130438,WA,Yes,Nonpartisan,78,65.546,False,False
+130438,WA,No,Nonpartisan,41,34.454,False,False
+130273,WA,Steve Ewing,Republican,34580,52.184,True,False
+130273,WA,Ida Keeley,Democratic,31607,47.697,False,False
+130273,WA,Write-in,Nonpartisan,79,0.119,False,False
+130709,WA,Stephanie Barnard,Republican,40105,96.55,True,False
+130709,WA,Write-in,Nonpartisan,1433,3.45,False,False
+130289,WA,Yes,Nonpartisan,1834,70.729,False,False
+130289,WA,No,Nonpartisan,759,29.271,False,False
+181480,WA,Molly Doneen Simpson,Nonpartisan,9989,69.985,False,False
+181480,WA,Nick Warner,Nonpartisan,4228,29.622,False,False
+181480,WA,Write-in,Nonpartisan,56,0.392,False,False
+130774,WA,Chipalo Street,Democratic,45197,72.037,True,False
+130774,WA,Tatiana Brown,Democratic,17096,27.249,False,False
+130774,WA,Write-in,Nonpartisan,448,0.714,False,False
+130358,WA,June Robinson,Democratic,34830,65.351,True,False
+130358,WA,Brad Bender,Republican,18381,34.488,False,False
+130358,WA,Write-in,Nonpartisan,86,0.161,False,False
+130790,WA,Chris Stearns,Democratic,32462,62.769,True,False
+130790,WA,Ted Cooke,Republican,19213,37.15,False,False
+130790,WA,Write-in,Nonpartisan,42,0.081,False,False
+130782,WA,Manka Dhingra,Democratic,48564,93.502,True,False
+130782,WA,Write-in,Nonpartisan,3375,6.498,False,False
+130637,WA,Marissa Longtain,Independent,2062,99.469,False,False
+130637,WA,Write-in,Nonpartisan,11,0.531,False,False
+130219,WA,Kimberly A. Allen,Republican,17487,98.335,False,False
+130219,WA,Write-in,Nonpartisan,296,1.665,False,False
+130851,WA,Cora Moser,Republican,2994,50.059,False,False
+130851,WA,Gabriel P Spencer,Democratic,2980,49.824,False,False
+130851,WA,Write-in,Nonpartisan,7,0.117,False,False
+130645,WA,Travis Couture,Republican,40798,52.135,True,False
+130645,WA,Maria Littlesun,Democratic,37353,47.733,False,False
+130645,WA,Write-in,Nonpartisan,103,0.132,False,False
+181476,WA,Colleen Frei,Nonpartisan,17331,56.286,False,False
+181476,WA,Aaron Young,Nonpartisan,13407,43.542,False,False
+181476,WA,Write-in,Nonpartisan,53,0.172,False,False
+148855,WA,David S. Mann,Nonpartisan,570733,97.958,False,False
+148855,WA,Write-in,Nonpartisan,11897,2.042,False,False
+130505,WA,No,Nonpartisan,112,64.368,False,False
+130505,WA,Yes,Nonpartisan,62,35.632,False,False
+130285,WA,Paul W Nielsen,Nonpartisan,30178,98.682,False,False
+130285,WA,Write-in,Nonpartisan,403,1.318,False,False
+130778,WA,My-Linh T Thai,Democratic,38206,60.157,True,False
+130778,WA,Michael Rosen,Independent,25216,39.703,False,False
+130778,WA,Write-in,Nonpartisan,89,0.14,False,False
+181485,WA,Tim Nies,No Party Preference,5637,99.313,False,False
+181485,WA,Write-in,Nonpartisan,39,0.687,False,False
+130523,WA,Yes,Nonpartisan,315,86.066,False,False
+130523,WA,No,Nonpartisan,51,13.934,False,False
+130363,WA,April Berg,Democratic,38736,61.175,True,False
+130363,WA,Tonya Stadlman,Republican,24536,38.749,False,False
+130363,WA,Write-in,Nonpartisan,48,0.076,False,False
+130795,WA,Rob Foxcurran,Nonpartisan,563627,71.248,False,False
+130795,WA,Dominique M Scarimbolo,Nonpartisan,223634,28.27,False,False
+130795,WA,Write-in,Nonpartisan,3812,0.482,False,False
+130593,WA,Yes,Nonpartisan,205,72.954,False,False
+130593,WA,No,Nonpartisan,76,27.046,False,False
+130175,WA,Richard (Rick) Viall,Republican,18067,52.896,False,False
+130175,WA,Doug Miller,Democratic,16054,47.002,False,False
+130175,WA,Write-in,Nonpartisan,35,0.102,False,False
+130224,WA,Carrie Heston,No Party Preference,17854,99.084,False,False
+130224,WA,Write-in,Nonpartisan,165,0.916,False,False
+130216,WA,Skyler Rude,Republican,29925,54.358,True,False
+130216,WA,Derek Sarley,Democratic,25064,45.528,False,False
+130216,WA,Write-in,Nonpartisan,63,0.114,False,False
+130650,WA,Gary Warnock,Democratic,91458,97.086,False,False
+130650,WA,Write-in,Nonpartisan,2745,2.914,False,False
+130232,WA,SPECIAL LEVY... YES,Nonpartisan,114,69.939,False,False
+130232,WA,SPECIAL LEVY... NO,Nonpartisan,49,30.061,False,False
+130710,WA,April Connors,Republican,40175,96.503,True,False
+130710,WA,Write-in,Nonpartisan,1456,3.497,False,False
+130290,WA,Yes,Nonpartisan,999,68.66,False,False
+130290,WA,No,Nonpartisan,456,31.34,False,False
+130726,WA,Jonathan Rands,Nonpartisan,76611,98.492,False,False
+130726,WA,Write-in,Nonpartisan,1173,1.508,False,False
+130718,WA,Josie Koelzer,Republican,16595,98.341,False,False
+130718,WA,Write-in,Nonpartisan,280,1.659,False,False
+130359,WA,Julio Cortes,Democratic,33914,66.303,True,False
+130359,WA,Thomas (Jeff) Kelly,Cascade,16785,32.815,False,False
+130359,WA,Write-in,Nonpartisan,451,0.882,False,False
+130791,WA,Vandana Slatter,Democratic,36554,96.768,True,False
+130791,WA,Write-in,Nonpartisan,1221,3.232,False,False
+130589,WA,Yes,Nonpartisan,136,66.995,False,False
+130589,WA,No,Nonpartisan,67,33.005,False,False
+130367,WA,Rachelle Francis,Nonpartisan,25538,95.989,False,False
+130367,WA,Write-in,Nonpartisan,1067,4.011,False,False
+130860,WA,Lauralee Kiesel,No Party Preference,14151,99.02,False,False
+130860,WA,Write-in,Nonpartisan,140,0.98,False,False
+130852,WA,Robert J Waymire,Republican,4257,96.794,False,False
+130852,WA,Write-in,Nonpartisan,141,3.206,False,False
+130435,WA,Yes,Nonpartisan,3492,51.81,False,False
+130435,WA,No,Nonpartisan,3248,48.19,False,False
+130228,WA,Brian D. Gwinn,Nonpartisan,16414,99.244,False,False
+130228,WA,Write-in,Nonpartisan,125,0.756,False,False
+130714,WA,Hans-Joachim Engelke,Nonpartisan,6173,99.276,False,False
+130714,WA,Write-in,Nonpartisan,45,0.724,False,False
+130506,WA,Yes,Nonpartisan,7500,56.045,False,False
+130506,WA,No,Nonpartisan,5882,43.955,False,False
+130455,WA,Approved,Nonpartisan,293872,90.344,False,False
+130455,WA,Rejected,Nonpartisan,31408,9.656,False,False
+130298,WA,Billie A. Maggard,Republican,48181,94.07,False,False
+130298,WA,Write-in,Nonpartisan,3037,5.93,False,False
+181486,WA,Vonda (Vonni) Mulrony,Republican,823,65.111,False,False
+181486,WA,Beau Blachly,No Party Preference,437,34.573,False,False
+181486,WA,Write-in,Nonpartisan,4,0.316,False,False
+130314,WA,Shannon Jensen,Republican,1902,98.651,False,False
+130314,WA,Write-in,Nonpartisan,26,1.349,False,False
+181502,WA,Suzanne Schmidt,Republican,27911,55.484,False,False
+181502,WA,Rachelle Miller,Independent,22292,44.314,False,False
+181502,WA,Write-in,Nonpartisan,102,0.203,False,False
+130796,WA,Julie Wise,Nonpartisan,625614,98.167,False,False
+130796,WA,Write-in,Nonpartisan,11680,1.833,False,False
+130788,WA,Claudia Kauffman,Democratic,32031,61.262,True,False
+130788,WA,Kristina Soltys,Republican,20211,38.655,False,False
+130788,WA,Write-in,Nonpartisan,43,0.082,False,False
+130372,WA,Elizabeth Fraser,Nonpartisan,87162,97.958,False,False
+130372,WA,Write-in,Nonpartisan,1817,2.042,False,False
+130806,WA,Kevin Peck,Nonpartisan,152693,98.008,False,False
+130806,WA,Write-in,Nonpartisan,3103,1.992,False,False
+130651,WA,Christy Peters,Democratic,87409,96.187,False,False
+130651,WA,Write-in,Nonpartisan,3465,3.813,False,False
+130233,WA,J Scott Liebing,Republican,4357,98.042,False,False
+130233,WA,Write-in,Nonpartisan,87,1.958,False,False
+130668,WA,Brittany A Pearson,Democratic,13678,54.531,False,False
+130668,WA,Randy Lewis,Republican,11385,45.389,False,False
+130668,WA,Write-in,Nonpartisan,20,0.08,False,False
+130660,WA,Yes,Nonpartisan,0,,False,False
+130660,WA,No,Nonpartisan,0,,False,False
+130291,WA,Chelsea Dimas,Democratic,16375,57.444,True,False
+130291,WA,Gloria Mendoza,Republican,12021,42.17,False,False
+130291,WA,Write-in,Nonpartisan,110,0.386,False,False
+130727,WA,Eddy Ury,Nonpartisan,67911,70.888,False,False
+130727,WA,Frank Imhof,Nonpartisan,27450,28.653,False,False
+130727,WA,Write-in,Nonpartisan,439,0.458,False,False
+130310,WA,Melanie Breezee,Republican,1170,52.869,False,False
+130310,WA,Sheri L Mott,Republican,1022,46.182,False,False
+130310,WA,Write-in,Nonpartisan,21,0.949,False,False
+130302,WA,Stephanie Patterson,Republican,42189,64.187,False,False
+130302,WA,Sam Johnson,Independent,23067,35.095,False,False
+130302,WA,Write-in,Nonpartisan,472,0.718,False,False
+130598,WA,Jennifer Swanson,Nonpartisan,4837,50.862,False,False
+130598,WA,Katherine Bryant Ingman,Nonpartisan,4631,48.696,False,False
+130598,WA,Write-in,Nonpartisan,42,0.442,False,False
+130590,WA,"Yes, Levy",Nonpartisan,97,67.832,False,False
+130590,WA,"No, Levy",Nonpartisan,46,32.168,False,False
+130172,WA,Earl J. Crowe,Republican,24961,98.117,False,False
+130172,WA,Write-in,Nonpartisan,479,1.883,False,False
+130800,WA,Teresa Mosqueda,Nonpartisan,69342,70.042,False,False
+130800,WA,Nick Duda,Nonpartisan,29062,29.355,False,False
+130800,WA,Write-in,Nonpartisan,597,0.603,False,False
+130655,WA,Sam Meyer,Nonpartisan,84486,97.691,False,False
+130655,WA,Write-in,Nonpartisan,1997,2.309,False,False
+130436,WA,Approved,Nonpartisan,170,74.236,False,False
+130436,WA,Rejected,Nonpartisan,59,25.764,False,False
+131313,WA,Jenn Marie Strickling,Democratic,28515,50.039,False,False
+131313,WA,Cyndy Jacobsen,Republican,28435,49.898,False,False
+131313,WA,Write-in,Nonpartisan,36,0.063,False,False
+130238,WA,Gabe Gants,Republican,4326,96.8,False,False
+130238,WA,Write-in,Nonpartisan,143,3.2,False,False
+131314,WA,Laurie Jinkins,Democratic,47236,76.472,True,False
+131314,WA,Carole Sue Braaten,Republican,14394,23.303,False,False
+131314,WA,Write-in,Nonpartisan,139,0.225,False,False
+130254,WA,RW Buzzard,Nonpartisan,25545,97.008,False,False
+130254,WA,Write-in,Nonpartisan,788,2.992,False,False
+130246,WA,Mitchell L. Merrill,Republican,18695,58.354,False,False
+130246,WA,Mitch Townsend,Republican,12545,39.158,False,False
+130246,WA,Write-in,Nonpartisan,797,2.488,False,False
+130732,WA,Rejected,Nonpartisan,2661,50.283,False,False
+130732,WA,Approved,Nonpartisan,2631,49.717,False,False
+130525,WA,Yes,Nonpartisan,2493,79.827,False,False
+130525,WA,No,Nonpartisan,630,20.173,False,False
+181503,WA,Mark Burrows,Republican,8972,76.137,False,False
+181503,WA,Jack Griffin Jr,No Party Preference,2739,23.243,False,False
+181503,WA,Write-in,Nonpartisan,73,0.619,False,False
+130740,WA,Brandon L. Myers,Democratic,73850,59.083,False,False
+130740,WA,Rick Kuss,Republican,51049,40.841,False,False
+130740,WA,Write-in,Nonpartisan,95,0.076,False,False
+130373,WA,Jeffrey D. Goodwin,Nonpartisan,87310,98.25,False,False
+130373,WA,Write-in,Nonpartisan,1555,1.75,False,False
+130807,WA,Jill Klinge,Nonpartisan,150246,98.168,False,False
+130807,WA,Write-in,Nonpartisan,2804,1.832,False,False
+130390,WA,Becky Renwick,Republican,8791,97.841,False,False
+130390,WA,Write-in,Nonpartisan,194,2.159,False,False
+130382,WA,Yes,Nonpartisan,9022,51.171,False,False
+130382,WA,No,Nonpartisan,8609,48.829,False,False
+130234,WA,Chandra L. Schumacher,Republican,4348,98.105,False,False
+130234,WA,Write-in,Nonpartisan,84,1.895,False,False
+130669,WA,George Alan Steele,Nonpartisan,15936,97.599,False,False
+130669,WA,Write-in,Nonpartisan,392,2.401,False,False
+130250,WA,Gabriel J Frase,Republican,19674,56.395,False,False
+130250,WA,Tracy Murphy,Republican,14546,41.696,False,False
+130250,WA,Write-in,Nonpartisan,666,1.909,False,False
+130242,WA,Joel McEntire,Republican,37278,54.913,True,False
+130242,WA,Terry Carlson,Democratic,30443,44.844,False,False
+130242,WA,Write-in,Nonpartisan,165,0.243,False,False
+130728,WA,Yes,Nonpartisan,37464,86.061,False,False
+130728,WA,No,Nonpartisan,6068,13.939,False,False
+130311,WA,Doug Aubertin,Nonpartisan,1366,59.16,False,False
+130311,WA,Andrew Pooler,Nonpartisan,927,40.147,False,False
+130311,WA,Write-in,Nonpartisan,16,0.693,False,False
+181499,WA,Joe Burns,Democratic,28695,57.277,False,False
+181499,WA,Keith L. Wagoner,Republican,21344,42.604,False,False
+181499,WA,Write-in,Nonpartisan,60,0.12,False,False
+130736,WA,Michael Simonds,Democratic,63404,51.0,False,False
+130736,WA,Phil Cook,Republican,60817,48.919,False,False
+130736,WA,Write-in,Nonpartisan,100,0.08,False,False
+130378,WA,Approved,Nonpartisan,28734,87.07,False,False
+130378,WA,Rejected,Nonpartisan,4267,12.93,False,False
+130173,WA,Robert W. Sealby,Republican,23971,97.499,False,False
+130173,WA,Write-in,Nonpartisan,615,2.501,False,False
+130607,WA,Curtis Templin,Republican,1903,51.432,False,False
+130607,WA,Veronica Rodriguez,Republican,1704,46.054,False,False
+130607,WA,Write-in,Nonpartisan,93,2.514,False,False
+130189,WA,Nathan J Longly,Republican,5041,96.294,False,False
+130189,WA,Write-in,Nonpartisan,194,3.706,False,False
+130608,WA,Jacque Laird,Republican,2171,60.306,False,False
+130608,WA,Courtney Fannin,Republican,1327,36.861,False,False
+130608,WA,Write-in,Nonpartisan,102,2.833,False,False
+130830,WA,Approved,Nonpartisan,28662,64.405,False,False
+130830,WA,Rejected,Nonpartisan,15841,35.595,False,False
+130820,WA,Yvonne Chin,Nonpartisan,215357,98.867,False,False
+130820,WA,Write-in,Nonpartisan,2469,1.133,False,False
+130675,WA,Approved,Nonpartisan,159203,73.494,False,False
+130675,WA,Rejected,Nonpartisan,57416,26.506,False,False
+130255,WA,Steve Grega,Nonpartisan,14592,54.68,False,False
+130255,WA,Jeff Baine,Nonpartisan,11838,44.36,False,False
+130255,WA,Write-in,Nonpartisan,256,0.959,False,False
+131459,WA,Levy Yes,Nonpartisan,118,69.412,False,False
+131459,WA,Levy No,Nonpartisan,52,30.588,False,False
+130468,WA,Renee Hernandez Greenfield,Democratic,41736,53.458,True,False
+130468,WA,Katy Cornell,Republican,36219,46.391,False,False
+130468,WA,Write-in,Nonpartisan,118,0.151,False,False
+130308,WA,Rachel D. Siracuse,Republican,1887,97.975,False,False
+130308,WA,Write-in,Nonpartisan,39,2.025,False,False
+130741,WA,Pete Boissonneau,Democratic,87784,96.763,False,False
+130741,WA,Write-in,Nonpartisan,2937,3.237,False,False
+130324,WA,Paul Sander,Nonpartisan,9143,98.006,False,False
+130324,WA,Write-in,Nonpartisan,186,1.994,False,False
+189017,WA,Yes,Nonpartisan,2676,57.573,False,False
+189017,WA,No,Nonpartisan,1972,42.427,False,False
+130808,WA,Denice Gagner,Nonpartisan,151487,97.933,False,False
+130808,WA,Write-in,Nonpartisan,3197,2.067,False,False
+130391,WA,Gunner Fulmer,Republican,6391,60.965,False,False
+130391,WA,Troy Woody,Republican,3908,37.279,False,False
+130391,WA,Write-in,Nonpartisan,184,1.755,False,False
+130824,WA,No,Nonpartisan,7526,67.564,False,False
+130824,WA,Yes,Nonpartisan,3613,32.436,False,False
+130816,WA,Renee Walls,Nonpartisan,45698,56.866,False,False
+130816,WA,Noel Merfeld,Nonpartisan,33691,41.925,False,False
+130816,WA,Write-in,Nonpartisan,972,1.21,False,False
+130670,WA,Levy...Yes,Nonpartisan,524,60.092,False,False
+130670,WA,Levy...No,Nonpartisan,348,39.908,False,False
+130251,WA,Arny Davis,Republican,26747,96.878,False,False
+130251,WA,Write-in,Nonpartisan,862,3.122,False,False
+131401,WA,Shantrice Anderson,Nonpartisan,214650,98.795,False,False
+131401,WA,Write-in,Nonpartisan,2619,1.205,False,False
+130679,WA,Approved,Nonpartisan,143026,66.008,False,False
+130679,WA,Rejected,Nonpartisan,73655,33.992,False,False
+181508,WA,Tor Benson,Nonpartisan,59184,58.443,False,False
+181508,WA,Paul Burrill,Nonpartisan,41735,41.212,False,False
+181508,WA,Write-in,Nonpartisan,349,0.345,False,False
+181500,WA,Asa Leckie,Republican,3269,55.173,False,False
+181500,WA,Paul H. Mosbrucker,Democratic,2646,44.658,False,False
+181500,WA,Write-in,Nonpartisan,10,0.169,False,False
+130538,WA,Jim Ruud,Republican,11399,97.178,False,False
+130538,WA,Write-in,Nonpartisan,331,2.822,False,False
+130320,WA,Cori McKean,Republican,12345,64.847,False,False
+130320,WA,Charlie Divine,No Party Preference,6628,34.816,False,False
+130320,WA,Write-in,Nonpartisan,64,0.336,False,False
+130812,WA,Brian Todd,Nonpartisan,63815,97.486,False,False
+130812,WA,Write-in,Nonpartisan,1646,2.514,False,False
+130762,WA,Claire Wilson,Democratic,28656,64.291,True,False
+130762,WA,Michael Rutland,Republican,15874,35.614,False,False
+130762,WA,Write-in,Nonpartisan,42,0.094,False,False
+130558,WA,Chad Whetzel,Republican,6684,94.274,False,False
+130558,WA,Write-in,Nonpartisan,406,5.726,False,False
+130396,WA,Jared N. Hawkins,Nonpartisan,8218,98.419,False,False
+130396,WA,Write-in,Nonpartisan,132,1.581,False,False
+130831,WA,Yes,Nonpartisan,26269,59.168,False,False
+130831,WA,No,Nonpartisan,18128,40.832,False,False
+130625,WA,Debra Gardner,Independent,34707,99.256,False,False
+130625,WA,Write-in,Nonpartisan,260,0.744,False,False
+130207,WA,Carla Rowe,No Party Preference,1610,98.955,False,False
+130207,WA,Write-in,Nonpartisan,17,1.045,False,False
+130256,WA,Yes,Nonpartisan,122699,56.752,False,False
+130256,WA,No,Nonpartisan,93504,43.248,False,False
+130248,WA,Warren McLeod,Republican,20016,54.769,False,False
+130248,WA,Jessica Stickley,Independent,16411,44.905,False,False
+130248,WA,Write-in,Nonpartisan,119,0.326,False,False
+130476,WA,Phil Fortunato,Republican,35982,54.547,True,False
+130476,WA,Tamara Stramel,Democratic,29944,45.394,False,False
+130476,WA,Write-in,Nonpartisan,39,0.059,False,False
+148839,WA,Eric Eisinger,Republican,33748,50.987,False,False
+148839,WA,Julie Long,Republican,31435,47.493,False,False
+148839,WA,Write-in,Nonpartisan,1006,1.52,False,False
+130693,WA,Scott G Weber,Nonpartisan,118285,59.307,False,False
+130693,WA,Rachel Shapiro,Nonpartisan,80281,40.252,False,False
+130693,WA,Write-in,Nonpartisan,880,0.441,False,False
+130742,WA,Claire A. Bradley,Nonpartisan,80973,98.143,False,False
+130742,WA,Write-in,Nonpartisan,1532,1.857,False,False
+130325,WA,Craig Juris,Nonpartisan,3857,98.192,False,False
+130325,WA,Write-in,Nonpartisan,71,1.808,False,False
+130562,WA,Chris Nelson,No Party Preference,7109,98.096,False,False
+130562,WA,Write-in,Nonpartisan,138,1.904,False,False
+130750,WA,Renea Campbell,Republican,7005,98.054,False,False
+130750,WA,Write-in,Nonpartisan,139,1.946,False,False
+130392,WA,Richard Greenwood,Republican,8792,97.917,False,False
+130392,WA,Write-in,Nonpartisan,187,2.083,False,False
+130825,WA,Yes,Nonpartisan,4671,61.72,False,False
+130825,WA,No,Nonpartisan,2897,38.28,False,False
+130621,WA,Bruce Pollock,Nonpartisan,32593,98.866,False,False
+130621,WA,Write-in,Nonpartisan,374,1.134,False,False
+130401,WA,Eric Simpson,Republican,6405,55.914,False,False
+130401,WA,Lori Larsen,Republican,4871,42.523,False,False
+130401,WA,Write-in,Nonpartisan,179,1.563,False,False
+130689,WA,Kim D. Harless,Democratic,41738,69.428,True,False
+130689,WA,Sarah Mittelman,Republican,18214,30.298,False,False
+130689,WA,Write-in,Nonpartisan,165,0.274,False,False
+131402,WA,Damon Shadid,Nonpartisan,212465,98.686,False,False
+131402,WA,Write-in,Nonpartisan,2830,1.314,False,False
+130261,WA,Dave Paul,Democratic,44428,58.375,True,False
+130261,WA,Tim Hazelo,Republican,31581,41.495,False,False
+130261,WA,Write-in,Nonpartisan,99,0.13,False,False
+148835,WA,Brenda Chilton,Republican,52497,96.853,False,False
+148835,WA,Write-in,Nonpartisan,1706,3.147,False,False
+130746,WA,No,Nonpartisan,18198,51.8,False,False
+130746,WA,Yes,Nonpartisan,16933,48.2,False,False
+130539,WA,Thad Duvall,Nonpartisan,12003,98.806,False,False
+130539,WA,Write-in,Nonpartisan,145,1.194,False,False
+130698,WA,John Horch,Nonpartisan,146697,97.861,False,False
+130698,WA,Write-in,Nonpartisan,3206,2.139,False,False
+130278,WA,Melissa Beaton,Democratic,31070,64.795,False,False
+130278,WA,Amanda Toscano,Independent,16765,34.963,False,False
+130278,WA,Write-in,Nonpartisan,116,0.242,False,False
+130330,WA,Charlee Paull,Republican,15172,54.757,False,False
+130330,WA,Brielle S Joyce,Democratic,12468,44.998,False,False
+130330,WA,Write-in,Nonpartisan,68,0.245,False,False
+130763,WA,Jamila E. Taylor,Democratic,29205,65.625,True,False
+130763,WA,Tiffany Bowyer,Republican,15257,34.283,False,False
+130763,WA,Write-in,Nonpartisan,41,0.092,False,False
+130347,WA,No,Nonpartisan,218447,69.668,False,False
+130347,WA,Yes,Nonpartisan,95106,30.332,False,False
+130779,WA,Jamie Pedersen,Democratic,46840,71.669,True,False
+130779,WA,Hannah Sabio-Howell,Democratic,17928,27.431,False,False
+130779,WA,Write-in,Nonpartisan,588,0.9,False,False
+130832,WA,Yes,Nonpartisan,30177,53.752,False,False
+130832,WA,No,Nonpartisan,25964,46.248,False,False
+130822,WA,Yes,Nonpartisan,920,66.522,False,False
+130822,WA,No,Nonpartisan,463,33.478,False,False
+130406,WA,Brad A. Manke,Republican,9542,97.318,False,False
+130406,WA,Write-in,Nonpartisan,263,2.682,False,False
+130840,WA,Randy Brackett,Nonpartisan,10399,50.851,False,False
+130840,WA,Rick Paschall,Nonpartisan,10023,49.012,False,False
+130840,WA,Write-in,Nonpartisan,28,0.137,False,False
+130477,WA,Drew Stokesbary,Republican,37257,56.798,True,False
+130477,WA,Stephen Szczurko-Walton,Democratic,28300,43.143,False,False
+130477,WA,Write-in,Nonpartisan,39,0.059,False,False
+148840,WA,Michael (Mike) Clark,Republican,46593,70.839,False,False
+148840,WA,Brad Klippert,Republican,18033,27.417,False,False
+148840,WA,Write-in,Nonpartisan,1147,1.744,False,False
+130494,WA,Matthew York,Nonpartisan,107907,97.171,False,False
+130494,WA,Write-in,Nonpartisan,3141,2.829,False,False
+130486,WA,Claire Sussman,Nonpartisan,195788,97.162,False,False
+130486,WA,Write-in,Nonpartisan,5719,2.838,False,False
+130326,WA,Adam Bernbaum,Democratic,49941,60.553,True,False
+130326,WA,Eric W. Pratt,Republican,32472,39.372,False,False
+130326,WA,Write-in,Nonpartisan,62,0.075,False,False
+130563,WA,John Hart,Nonpartisan,6956,97.573,False,False
+130563,WA,Write-in,Nonpartisan,173,2.427,False,False
+130343,WA,Yes,Nonpartisan,447,59.759,False,False
+130343,WA,No,Nonpartisan,301,40.241,False,False
+130334,WA,Darrin E. Wallace,No Party Preference,15747,61.232,False,False
+130334,WA,Edward Welter,No Party Preference,9843,38.274,False,False
+130334,WA,Write-in,Nonpartisan,127,0.494,False,False
+130630,WA,No,Nonpartisan,7539,54.619,False,False
+130630,WA,Yes,Nonpartisan,6264,45.381,False,False
+130622,WA,Dana M. Tucker,Republican,35652,97.634,False,False
+130622,WA,Write-in,Nonpartisan,864,2.366,False,False
+130204,WA,Bill Warren,Republican,911,49.836,False,False
+130204,WA,Jack Miller,Republican,899,49.179,False,False
+130204,WA,Write-in,Nonpartisan,18,0.985,False,False
+130836,WA,Approved,Nonpartisan,16823,60.865,False,False
+130836,WA,Rejected,Nonpartisan,10817,39.135,False,False
+130481,WA,Jerome O'Leary,Republican,30731,55.797,False,False
+130481,WA,Kelsey Barrans,Democratic,24298,44.117,False,False
+130481,WA,Write-in,Nonpartisan,47,0.085,False,False
+130262,WA,Doug Stults,Democratic,22922,53.728,False,False
+130262,WA,Kelly Todd Mauck,No Party Preference,19654,46.068,False,False
+130262,WA,Write-in,Nonpartisan,87,0.204,False,False
+130221,WA,Craig Morrison,Republican,18095,98.734,False,False
+130221,WA,Write-in,Nonpartisan,232,1.266,False,False
+148845,WA,Jennifer Johnson,Nonpartisan,48955,98.451,False,False
+148845,WA,Write-in,Nonpartisan,770,1.549,False,False
+130699,WA,Alishia Topper,Nonpartisan,144412,98.154,False,False
+130699,WA,Write-in,Nonpartisan,2716,1.846,False,False
+181478,WA,Richard Dahl,Republican,26162,55.63,False,False
+181478,WA,Chelsea Chandler,Democratic,20818,44.266,False,False
+181478,WA,Write-in,Nonpartisan,49,0.104,False,False
+130715,WA,Curtis McGary,Republican,16879,98.466,False,False
+130715,WA,Write-in,Nonpartisan,263,1.534,False,False
+130570,WA,Yes,Nonpartisan,53,77.941,False,False
+130570,WA,No,Nonpartisan,15,22.059,False,False
+130560,WA,Dan LeBeau,Republican,6881,95.147,False,False
+130560,WA,Write-in,Nonpartisan,351,4.853,False,False
+87645,WA,Dierdre Butler,Democratic,24800,57.225,False,False
+87645,WA,Maria Hazelo,Republican,18492,42.669,False,False
+87645,WA,Write-in,Nonpartisan,46,0.106,False,False
+130578,WA,Yes,Nonpartisan,297,74.623,False,False
+130578,WA,No,Nonpartisan,101,25.377,False,False
+130407,WA,"Tonia ""Toni"" Graham",Republican,9288,97.686,False,False
+130407,WA,Write-in,Nonpartisan,220,2.314,False,False
+130841,WA,Bruce Emery,Nonpartisan,17905,96.852,False,False
+130841,WA,Write-in,Nonpartisan,582,3.148,False,False
+130424,WA,Preston McCollam,Republican,120393,54.641,False,False
+130424,WA,Danny Tarkenton,No Party Preference,99083,44.969,False,False
+130424,WA,Write-in,Nonpartisan,859,0.39,False,False
+130415,WA,Hillary Q. Pham,Republican,29663,49.384,True,False
+130415,WA,Trent Maier,Republican,26442,44.022,False,False
+130415,WA,Write-in,Nonpartisan,3961,6.594,False,False
+148841,WA,Kenneth Spencer Jr,Republican,51012,97.057,False,False
+148841,WA,Write-in,Nonpartisan,1547,2.943,False,False
+130495,WA,Tricia Grove Johnson,Nonpartisan,108070,96.966,False,False
+130495,WA,Write-in,Nonpartisan,3382,3.034,False,False
+181474,WA,Michael Alvarez,Republican,51233,96.417,False,False
+181474,WA,Write-in,Nonpartisan,1904,3.583,False,False
+148849,WA,No,Nonpartisan,600,55.453,False,False
+148849,WA,Yes,Nonpartisan,482,44.547,False,False
+130564,WA,Yes,Nonpartisan,2826,66.761,False,False
+130564,WA,No,Nonpartisan,1407,33.239,False,False
+130344,WA,Approved,Nonpartisan,1841,58.649,False,False
+130344,WA,Rejected,Nonpartisan,1298,41.351,False,False
+130776,WA,Jaelynn Scott,Democratic,54977,87.55,True,False
+130776,WA,Evon McCorkle,Independent,7415,11.808,False,False
+130776,WA,Write-in,Nonpartisan,403,0.642,False,False
+130574,WA,Yes,Nonpartisan,80,84.211,False,False
+130574,WA,No,Nonpartisan,15,15.789,False,False
+130411,WA,Levy Yes,Nonpartisan,2255,59.814,False,False
+130411,WA,Levy No,Nonpartisan,1515,40.186,False,False
+130205,WA,Nickolas J. Ward,No Party Preference,1462,97.727,False,False
+130205,WA,Write-in,Nonpartisan,34,2.273,False,False
+130639,WA,Gene Healy,Nonpartisan,1895,98.39,False,False
+130639,WA,Write-in,Nonpartisan,31,1.61,False,False
+130846,WA,Bruce Hanify,Nonpartisan,1077,98.626,False,False
+130846,WA,Write-in,Nonpartisan,15,1.374,False,False
+130640,WA,Heidi Heywood,Nonpartisan,1947,98.185,False,False
+130640,WA,Write-in,Nonpartisan,36,1.815,False,False
+130862,WA,Anji Scalf,Democratic,14709,74.939,False,False
+130862,WA,Stephen T. Nieman,Republican,4898,24.954,False,False
+130862,WA,Write-in,Nonpartisan,21,0.107,False,False
+130854,WA,Liz Green,Nonpartisan,2751,52.162,False,False
+130854,WA,Addison Dillon,Nonpartisan,2486,47.137,False,False
+130854,WA,Write-in,Nonpartisan,37,0.702,False,False
+130500,WA,Yes,Nonpartisan,45513,60.412,False,False
+130500,WA,No,Nonpartisan,29825,39.588,False,False
+130280,WA,Alex Lathum,Democratic,30250,61.446,False,False
+130280,WA,Derrill Fussell,Republican,18945,38.483,False,False
+130280,WA,Write-in,Nonpartisan,35,0.071,False,False
+130716,WA,Shawn P. Sant,Republican,16516,98.117,False,False
+130716,WA,Write-in,Nonpartisan,317,1.883,False,False
+130508,WA,Yes,Nonpartisan,471,74.408,False,False
+130508,WA,No,Nonpartisan,162,25.592,False,False
+130341,WA,Yes,Nonpartisan,847,51.333,False,False
+130341,WA,No,Nonpartisan,803,48.667,False,False
+130579,WA,Yes,Nonpartisan,95,72.519,False,False
+130579,WA,No,Nonpartisan,36,27.481,False,False
+130161,WA,Tina L. Kernan,Nonpartisan,6658,98.491,False,False
+130161,WA,Write-in,Nonpartisan,102,1.509,False,False
+130153,WA,Blake Richards,No Party Preference,4531,50.682,False,False
+130153,WA,Monte Renzelman,No Party Preference,4386,49.06,False,False
+130153,WA,Write-in,Nonpartisan,23,0.257,False,False
+130842,WA,Mark Nichols,Nonpartisan,18156,98.332,False,False
+130842,WA,Write-in,Nonpartisan,308,1.668,False,False
+130425,WA,John F. Nowels,Republican,151199,93.352,False,False
+130425,WA,Write-in,Nonpartisan,10767,6.648,False,False
+130858,WA,Christopher Robert Lanz,Nonpartisan,3921,97.927,False,False
+130858,WA,Write-in,Nonpartisan,83,2.073,False,False
+130850,WA,Approved,Nonpartisan,66,58.407,False,False
+130850,WA,Rejected,Nonpartisan,47,41.593,False,False
+130496,WA,Corinna Harn,Nonpartisan,106880,97.005,False,False
+130496,WA,Write-in,Nonpartisan,3300,2.995,False,False
+181475,WA,Shon D. Smith,Republican,17875,51.066,False,False
+181475,WA,Clint Strand,Democratic,17089,48.82,False,False
+181475,WA,Write-in,Nonpartisan,40,0.114,False,False
+130712,WA,Matt Beaton,Republican,16438,97.7,False,False
+130712,WA,Write-in,Nonpartisan,387,2.3,False,False
+130504,WA,Yes,Nonpartisan,1711,58.777,False,False
+130504,WA,No,Nonpartisan,1200,41.223,False,False
+130149,WA,Jenny L. Rynearson,Republican,6745,95.919,False,False
+130149,WA,Write-in,Nonpartisan,287,4.081,False,False
+130777,WA,Janice Zahn,Democratic,45405,70.747,True,False
+130777,WA,Elle Nguyen,Republican,18680,29.106,False,False
+130777,WA,Write-in,Nonpartisan,94,0.146,False,False
+130361,WA,John Lovick,Democratic,39628,62.205,True,False
+130361,WA,Sherri Larkin,Republican,24024,37.711,False,False
+130361,WA,Write-in,Nonpartisan,53,0.083,False,False
+130793,WA,Jessica Forsythe,Democratic,23293,52.644,True,False
+130793,WA,Amy Walen,Democratic,20313,45.909,False,False
+130793,WA,Write-in,Nonpartisan,640,1.446,False,False
+130362,WA,Brandy Donaghy,Democratic,37943,59.93,True,False
+130362,WA,Chris Elder,Republican,25317,39.988,False,False
+130362,WA,Write-in,Nonpartisan,52,0.082,False,False
+130600,WA,Ronald J. Krebs,Nonpartisan,5399,65.729,False,False
+130600,WA,Write-in,Nonpartisan,2815,34.271,False,False
+130592,WA,Yes,Nonpartisan,140,61.947,False,False
+130592,WA,No,Nonpartisan,86,38.053,False,False
+130430,WA,Nicholas Ulrich,Nonpartisan,99878,51.849,False,False
+130430,WA,Michael R Addams,Nonpartisan,91541,47.521,False,False
+130430,WA,Write-in,Nonpartisan,1214,0.63,False,False
+130863,WA,James Kennedy,Democratic,14866,98.751,False,False
+130863,WA,Write-in,Nonpartisan,188,1.249,False,False
+130658,WA,Yes,Nonpartisan,0,,False,False
+130658,WA,No,Nonpartisan,0,,False,False
+130239,WA,Emily Lybbert-Hansen,Republican,4312,98.022,False,False
+130239,WA,Write-in,Nonpartisan,87,1.978,False,False
+181472,WA,Approved,Nonpartisan,428,58.63,False,False
+181472,WA,Rejected,Nonpartisan,302,41.37,False,False
+130509,WA,Larry D Gilman,Republican,10132,95.802,False,False
+130509,WA,Write-in,Nonpartisan,444,4.198,False,False
+181488,WA,Larry Schaapman,Nonpartisan,15156,87.365,False,False
+181488,WA,Write-in,Nonpartisan,2192,12.635,False,False
+130725,WA,Angela Anderson,Nonpartisan,77101,98.369,False,False
+130725,WA,Write-in,Nonpartisan,1278,1.631,False,False
+130580,WA,"Yes, Levy",Nonpartisan,107,67.296,False,False
+130580,WA,"No, Levy",Nonpartisan,52,32.704,False,False
+130162,WA,Yes,Nonpartisan,314,81.771,False,False
+130162,WA,No,Nonpartisan,70,18.229,False,False
+130596,WA,Heather Lee,Nonpartisan,6124,65.128,False,False
+130596,WA,Natasha K Warmenhoven,Nonpartisan,3234,34.393,False,False
+130596,WA,Write-in,Nonpartisan,45,0.479,False,False
+130588,WA,Yes,Nonpartisan,215,67.61,False,False
+130588,WA,No,Nonpartisan,103,32.39,False,False
+130426,WA,Mike Volz,Republican,150251,94.448,False,False
+130426,WA,Write-in,Nonpartisan,8832,5.552,False,False
+130859,WA,Chuck Garland,Democratic,14858,98.731,False,False
+130859,WA,Write-in,Nonpartisan,191,1.269,False,False
+130653,WA,Jeff Gadman,Democratic,86415,96.291,False,False
+130653,WA,Write-in,Nonpartisan,3329,3.709,False,False
+130434,WA,Richard M. Leland,Nonpartisan,129038,97.281,False,False
+130434,WA,Write-in,Nonpartisan,3606,2.719,False,False
+130721,WA,Michael Alvarez Shepard,Democratic,44335,56.517,True,False
+130721,WA,Erika Creydt,Republican,34019,43.367,False,False
+130721,WA,Write-in,Nonpartisan,91,0.116,False,False
+130713,WA,Ruby Ochoa,Republican,16575,98.158,False,False
+130713,WA,Write-in,Nonpartisan,311,1.842,False,False
+130296,WA,Jacob Tate,Republican,31595,52.953,False,False
+130296,WA,Keith Effler,Republican,25836,43.301,False,False
+130296,WA,Write-in,Nonpartisan,2235,3.746,False,False
+181484,WA,Clint Didier,Republican,5462,61.822,False,False
+181484,WA,Joel Prantle,Republican,3163,35.801,False,False
+181484,WA,Write-in,Nonpartisan,210,2.377,False,False
+130584,WA,Yes,Nonpartisan,76,76.0,False,False
+130584,WA,No,Nonpartisan,24,24.0,False,False
+130730,WA,Yes,Nonpartisan,38791,87.406,False,False
+130730,WA,No,Nonpartisan,5589,12.594,False,False
+130313,WA,Sam Olson,Republican,1281,53.937,False,False
+130313,WA,Ray Maycumber,Republican,1083,45.6,False,False
+130313,WA,Write-in,Nonpartisan,11,0.463,False,False
+130167,WA,Mike Steele,Republican,39735,54.739,True,False
+130167,WA,Maggie Adams,Democratic,32763,45.134,False,False
+130167,WA,Write-in,Nonpartisan,92,0.127,False,False
+130601,WA,Rhonda Pederson,Nonpartisan,7181,98.994,False,False
+130601,WA,Write-in,Nonpartisan,73,1.006,False,False
+130380,WA,Approved,Nonpartisan,25394,79.141,False,False
+130380,WA,Rejected,Nonpartisan,6693,20.859,False,False
+130813,WA,Andrea Samonica Jarmon,Nonpartisan,63803,96.961,False,False
+130813,WA,Write-in,Nonpartisan,2000,3.039,False,False
+130864,WA,Andy Pernsteiner,Democratic,15218,98.799,False,False
+130864,WA,Write-in,Nonpartisan,185,1.201,False,False
+130856,WA,Summer Scheyer,Republican,4397,94.702,False,False
+130856,WA,Write-in,Nonpartisan,246,5.298,False,False
+130439,WA,Levy Yes,Nonpartisan,22240,52.12,False,False
+130439,WA,Levy No,Nonpartisan,20431,47.88,False,False
+131316,WA,Mari Leavitt,Democratic,30325,64.327,True,False
+131316,WA,Kathy Richardson,Republican,16750,35.531,False,False
+131316,WA,Write-in,Nonpartisan,67,0.142,False,False
+130510,WA,Cari L Hall,Republican,10253,96.854,False,False
+130510,WA,Write-in,Nonpartisan,333,3.146,False,False
+181489,WA,Grant Shaw,Democratic,25000,57.62,False,False
+181489,WA,Matthew Van Pelt,Republican,18330,42.247,False,False
+181489,WA,Write-in,Nonpartisan,58,0.134,False,False
+130527,WA,Dotsi Graves,Independent,5429,51.145,False,False
+130527,WA,Nicole Deskins,Independent,5136,48.384,False,False
+130527,WA,Write-in,Nonpartisan,50,0.471,False,False
+130519,WA,Charles Short,Nonpartisan,10252,72.192,False,False
+130519,WA,John Andrew Bangerter,Nonpartisan,3903,27.484,False,False
+130519,WA,Write-in,Nonpartisan,46,0.324,False,False
+130163,WA,Shelly Short,Republican,44735,67.224,True,False
+130163,WA,Ronald L McCoy,Independent,21442,32.221,False,False
+130163,WA,Write-in,Nonpartisan,369,0.555,False,False
+130597,WA,Lisa Henderson,Nonpartisan,7226,98.986,False,False
+130597,WA,Write-in,Nonpartisan,74,1.014,False,False
+130376,WA,Yes,Nonpartisan,16201,82.772,False,False
+130376,WA,No,Nonpartisan,3372,17.228,False,False
+130171,WA,Kelly Allen,Nonpartisan,21873,98.772,False,False
+130171,WA,Write-in,Nonpartisan,272,1.228,False,False
+130663,WA,Tammy Clark,Republican,12012,56.246,False,False
+130663,WA,Charles G. Rhodes,Republican,8869,41.529,False,False
+130663,WA,Write-in,Nonpartisan,475,2.224,False,False
+130654,WA,Kalo Wilcox,Nonpartisan,84701,97.671,False,False
+130654,WA,Write-in,Nonpartisan,2020,2.329,False,False
+130236,WA,Rob Coffman,Republican,4278,97.471,False,False
+130236,WA,Write-in,Nonpartisan,111,2.529,False,False
+131312,WA,David Berg,Democratic,29015,50.833,True,False
+131312,WA,Michael Keaton,Republican,28026,49.1,False,False
+131312,WA,Write-in,Nonpartisan,38,0.067,False,False
+130515,WA,Jodie Barcus,Republican,9732,66.735,False,False
+130515,WA,Gisberth (Giz) Gonzalez,Republican,4536,31.105,False,False
+130515,WA,Write-in,Nonpartisan,315,2.16,False,False
+130297,WA,Charles Ross,Republican,38599,54.824,False,False
+130297,WA,Maria Cuevas,Democratic,31690,45.011,False,False
+130297,WA,Write-in,Nonpartisan,116,0.165,False,False
+130253,WA,Wade S. Samuelson,Nonpartisan,25054,97.308,False,False
+130253,WA,Write-in,Nonpartisan,693,2.692,False,False
+181494,WA,Ronald S. Gold,Nonpartisan,1425,97.938,False,False
+181494,WA,Write-in,Nonpartisan,30,2.062,False,False
+130731,WA,Rejected,Nonpartisan,5013,64.179,False,False
+130731,WA,Approved,Nonpartisan,2798,35.821,False,False
+189015,WA,Yes,Nonpartisan,25714,70.086,False,False
+189015,WA,No,Nonpartisan,10975,29.914,False,False
+130747,WA,No,Nonpartisan,71532,58.29,False,False
+130747,WA,Yes,Nonpartisan,51186,41.71,False,False
+130602,WA,Carolyn Jewett-Platts,Nonpartisan,6901,98.151,False,False
+130602,WA,Write-in,Nonpartisan,130,1.849,False,False
+130594,WA,Yes,Nonpartisan,77,70.642,False,False
+130594,WA,No,Nonpartisan,32,29.358,False,False
+130176,WA,Megan K. Murphy,Nonpartisan,98518,97.868,False,False
+130176,WA,Write-in,Nonpartisan,2146,2.132,False,False
+130610,WA,"Miguel A. ""Mike"" Garza",Republican,2611,65.471,False,False
+130610,WA,Eleanor Brodahl,Democratic,1358,34.052,False,False
+130610,WA,Write-in,Nonpartisan,19,0.476,False,False
+130440,WA,Levy Yes,Nonpartisan,8379,55.519,False,False
+130440,WA,Levy No,Nonpartisan,6713,44.481,False,False
+131317,WA,Dan Bronoske,Democratic,30510,66.735,True,False
+131317,WA,Kerry Hills,Nonpartisan,14966,32.735,False,False
+131317,WA,Write-in,Nonpartisan,242,0.529,False,False
+130459,WA,Approved,Nonpartisan,221278,68.725,False,False
+130459,WA,Rejected,Nonpartisan,100696,31.275,False,False
+130451,WA,Yes,Nonpartisan,14554,62.606,False,False
+130451,WA,No,Nonpartisan,8693,37.394,False,False
+181490,WA,Katie Walters,Democratic,79176,63.51,False,False
+181490,WA,Kevin Tisdel,Republican,45380,36.401,False,False
+181490,WA,Write-in,Nonpartisan,111,0.089,False,False
+130528,WA,Emma Rose,Independent,9080,98.835,False,False
+130528,WA,Write-in,Nonpartisan,107,1.165,False,False
+181506,WA,Jim Campbell,Nonpartisan,63057,59.391,False,False
+181506,WA,Troy Kirby,Nonpartisan,42352,39.89,False,False
+181506,WA,Write-in,Nonpartisan,764,0.72,False,False
+181498,WA,Robert Rosencrantz,Republican,3648,57.585,False,False
+181498,WA,Brandy Parker Warren,Republican,2575,40.647,False,False
+181498,WA,Write-in,Nonpartisan,112,1.768,False,False
+130385,WA,Approved,Nonpartisan,3157,82.064,False,False
+130385,WA,Rejected,Nonpartisan,690,17.936,False,False
+130377,WA,Approved,Nonpartisan,30895,92.647,False,False
+130377,WA,Rejected,Nonpartisan,2452,7.353,False,False
+130810,WA,Raul Martinez,Nonpartisan,30847,98.364,False,False
+130810,WA,Write-in,Nonpartisan,513,1.636,False,False
+130606,WA,Yes,Nonpartisan,2128,65.537,False,False
+130606,WA,No,Nonpartisan,1119,34.463,False,False
+130447,WA,Levy Yes,Nonpartisan,5317,57.295,False,False
+130447,WA,Levy No,Nonpartisan,3963,42.705,False,False
+130237,WA,Ty Albertson,Republican,4272,97.847,False,False
+130237,WA,Write-in,Nonpartisan,94,2.153,False,False
+130673,WA,No,Nonpartisan,1139,50.088,False,False
+130673,WA,Yes,Nonpartisan,1135,49.912,False,False
+131396,WA,Cat McDowall,Nonpartisan,214697,98.782,False,False
+131396,WA,Write-in,Nonpartisan,2648,1.218,False,False
+130674,WA,Approved,Nonpartisan,184621,82.825,False,False
+130674,WA,Rejected,Nonpartisan,38283,17.175,False,False
+130691,WA,Peter Van Nortwick,Nonpartisan,141455,70.232,False,False
+130691,WA,Tyler Thoune,Nonpartisan,59148,29.367,False,False
+130691,WA,Write-in,Nonpartisan,808,0.401,False,False
+131404,WA,Against the formation of a Shoreline Metropolitan Park District.,Nonpartisan,14672,54.716,False,False
+131404,WA,For the formation of a Shoreline Metropolitan Park District to be governed by Shoreline City Councilmembers.,Nonpartisan,12143,45.284,False,False
+130533,WA,Scott Harmer,Nonpartisan,3239,98.66,False,False
+130533,WA,Write-in,Nonpartisan,44,1.34,False,False
+130315,WA,Sarah Cuellar,Nonpartisan,1732,97.853,False,False
+130315,WA,Write-in,Nonpartisan,38,2.147,False,False
+130748,WA,Billi Jean Bare,Republican,6959,97.752,False,False
+130748,WA,Write-in,Nonpartisan,160,2.248,False,False
+130541,WA,David Walker,Nonpartisan,38,100.0,False,False
+130541,WA,Write-in,Nonpartisan,0,0.0,False,False
+130177,WA,Jon Volyn,Nonpartisan,22589,99.035,False,False
+130177,WA,Write-in,Nonpartisan,220,0.965,False,False
+130611,WA,Randy J. Flyckt,Republican,2903,93.948,False,False
+130611,WA,Write-in,Nonpartisan,187,6.052,False,False
+130193,WA,Glenn Blakeslee,Republican,5236,96.927,False,False
+130193,WA,Write-in,Nonpartisan,166,3.073,False,False
+130185,WA,Matt L. Newberg,Republican,1014,95.841,False,False
+130185,WA,Write-in,Nonpartisan,44,4.159,False,False
+131318,WA,Sharlett Mena,Democratic,25010,70.048,True,False
+131318,WA,David Anderson,Democratic,9290,26.019,False,False
+131318,WA,Write-in,Nonpartisan,1404,3.932,False,False
+130460,WA,Approved,Nonpartisan,179999,56.379,False,False
+130460,WA,Rejected,Nonpartisan,139265,43.621,False,False
+130687,WA,Randi L. Knott,Democratic,38511,52.397,True,False
+130687,WA,Stephanie McClintock,Republican,34864,47.435,False,False
+130687,WA,Write-in,Nonpartisan,124,0.169,False,False
+131400,WA,Gabe Rothstein,Nonpartisan,199329,67.329,False,False
+131400,WA,Garmon Newsom,Nonpartisan,95328,32.2,False,False
+131400,WA,Write-in,Nonpartisan,1397,0.472,False,False
+130529,WA,Daniel C. Garcia,Republican,6449,53.576,False,False
+130529,WA,Rich Byrd,Independent,5566,46.241,False,False
+130529,WA,Write-in,Nonpartisan,22,0.183,False,False
+181507,WA,Mark D. Letham,Independent,1813,92.171,False,False
+181507,WA,Write-in,Nonpartisan,154,7.829,False,False
+130744,WA,Shane R. Seaman,Nonpartisan,80141,98.164,False,False
+130744,WA,Write-in,Nonpartisan,1499,1.836,False,False
+130537,WA,Yes,Nonpartisan,165,65.217,False,False
+130537,WA,No,Nonpartisan,88,34.783,False,False
+130181,WA,Brian Bartels,Republican,987,96.67,False,False
+130181,WA,Write-in,Nonpartisan,34,3.33,False,False
+130811,WA,Karama H. Hawkins,Nonpartisan,30780,98.32,False,False
+130811,WA,Write-in,Nonpartisan,526,1.68,False,False
+130394,WA,Richard Schram,Republican,6985,63.019,False,False
+130394,WA,Ashley Daschofsky,Republican,3985,35.953,False,False
+130394,WA,Write-in,Nonpartisan,114,1.029,False,False
+130828,WA,Nilu Jenks,Nonpartisan,27754,59.089,False,False
+130828,WA,Julie Kang,Nonpartisan,19024,40.502,False,False
+130828,WA,Write-in,Nonpartisan,192,0.409,False,False
+130395,WA,Gordon R Heimbigner,Republican,8660,97.897,False,False
+130395,WA,Write-in,Nonpartisan,186,2.103,False,False
+130632,WA,Approved,Nonpartisan,167,64.981,False,False
+130632,WA,Rejected,Nonpartisan,90,35.019,False,False
+130624,WA,Troy Brightbill,Republican,34655,97.043,False,False
+130624,WA,Write-in,Nonpartisan,1056,2.957,False,False
+130467,WA,Adison Richards,Democratic,43150,55.235,True,False
+130467,WA,David Olson,Republican,34882,44.651,False,False
+130467,WA,Write-in,Nonpartisan,89,0.114,False,False
+131673,WA,Approved,Nonpartisan,0,,False,False
+131673,WA,Rejected,Nonpartisan,0,,False,False
+130684,WA,No,Nonpartisan,116228,53.903,False,False
+130684,WA,Yes,Nonpartisan,99397,46.097,False,False
+130264,WA,Sid Logan,Nonpartisan,176558,59.908,False,False
+130264,WA,Janet St Clair,Nonpartisan,116713,39.602,False,False
+130264,WA,Write-in,Nonpartisan,1444,0.49,False,False
+181504,WA,Tye Menser,Democratic,87095,95.546,False,False
+181504,WA,Write-in,Nonpartisan,4060,4.454,False,False
+130542,WA,Tanner Bateman,Republican,11483,97.969,False,False
+130542,WA,Write-in,Nonpartisan,238,2.031,False,False
+130765,WA,Tina L. Orwall,Democratic,36797,95.253,True,False
+130765,WA,Write-in,Nonpartisan,1834,4.747,False,False
+130757,WA,Yes,Nonpartisan,5465,52.217,False,False
+130757,WA,No,Nonpartisan,5001,47.783,False,False
+130612,WA,Dale J. Wagner,Republican,2106,55.03,False,False
+130612,WA,Matthew Carlson,Republican,1632,42.644,False,False
+130612,WA,Write-in,Nonpartisan,89,2.326,False,False
+130194,WA,Nicole Dice,Republican,5138,97.274,False,False
+130194,WA,Write-in,Nonpartisan,144,2.726,False,False
+130628,WA,M. Jamie Imboden,Nonpartisan,32700,98.824,False,False
+130628,WA,Write-in,Nonpartisan,389,1.176,False,False
+130620,WA,Staci Myklebust,Independent,26848,63.594,False,False
+130620,WA,Ashley White,Independent,15164,35.918,False,False
+130620,WA,Write-in,Nonpartisan,206,0.488,False,False
+130461,WA,Approved,Nonpartisan,196937,60.481,False,False
+130461,WA,Rejected,Nonpartisan,128683,39.519,False,False
+130688,WA,Deken Letinich,Democratic,39441,53.783,True,False
+130688,WA,John Ley,Republican,33735,46.002,False,False
+130688,WA,Write-in,Nonpartisan,158,0.215,False,False
+130479,WA,Linda Farmer,Nonpartisan,193642,65.966,False,False
+130479,WA,Damon Townsend,Nonpartisan,98567,33.578,False,False
+130479,WA,Write-in,Nonpartisan,1341,0.457,False,False
+130260,WA,Clyde Shavers,Democratic,43128,56.533,True,False
+130260,WA,Robert (Chili) Hicks,Republican,33058,43.333,False,False
+130260,WA,Write-in,Nonpartisan,102,0.134,False,False
+130753,WA,Dwayne T. Matulovich,Independent,7059,65.27,False,False
+130753,WA,Tony Warren,Republican,3726,34.452,False,False
+130753,WA,Write-in,Nonpartisan,30,0.277,False,False
+130745,WA,Kevin P Kelly,Nonpartisan,80255,98.243,False,False
+130745,WA,Write-in,Nonpartisan,1435,1.757,False,False
+130328,WA,Stan Sturgeon,No Party Preference,13949,50.989,False,False
+130328,WA,JR Streifel,Republican,13339,48.759,False,False
+130328,WA,Write-in,Nonpartisan,69,0.252,False,False
+130761,WA,Steve Bergquist,Democratic,37209,95.816,True,False
+130761,WA,Write-in,Nonpartisan,1625,4.184,False,False
+130616,WA,Approved,Nonpartisan,9,100.0,False,False
+130616,WA,Rejected,Nonpartisan,0,0.0,False,False
+130329,WA,Dan Lindgren,Republican,14824,54.002,False,False
+130329,WA,Josh Nuxoll,Independent,12581,45.831,False,False
+130329,WA,Write-in,Nonpartisan,46,0.168,False,False
+130568,WA,Yes,Nonpartisan,112,67.47,False,False
+130568,WA,No,Nonpartisan,54,32.53,False,False
+130346,WA,Yes,Nonpartisan,160756,52.162,False,False
+130346,WA,No,Nonpartisan,147430,47.838,False,False
+130199,WA,Rejected,Nonpartisan,3298,56.453,False,False
+130199,WA,Approved,Nonpartisan,2544,43.547,False,False
+130633,WA,Drew Jenkins,Independent,1434,59.9,False,False
+130633,WA,Justin Moriarty,Independent,952,39.766,False,False
+130633,WA,Write-in,Nonpartisan,8,0.334,False,False
+130413,WA,Natasha Hill,Democratic,42997,66.127,True,False
+130413,WA,Tony Kiepe,Republican,21890,33.666,False,False
+130413,WA,Write-in,Nonpartisan,135,0.208,False,False
+130847,WA,Approved,Nonpartisan,765,56.751,False,False
+130847,WA,Rejected,Nonpartisan,583,43.249,False,False
+130685,WA,Ben Christly,Democratic,42489,55.321,True,False
+130685,WA,Kevin Waters,Republican,34177,44.498,False,False
+130685,WA,Write-in,Nonpartisan,139,0.181,False,False
+130265,WA,Shantel Porter,Independent,33048,99.237,False,False
+130265,WA,Write-in,Nonpartisan,254,0.763,False,False
+130701,WA,Chad E. Sleight,Nonpartisan,137360,98.388,False,False
+130701,WA,Write-in,Nonpartisan,2251,1.612,False,False
+130493,WA,Leah Taguba,Nonpartisan,107709,96.719,False,False
+130493,WA,Write-in,Nonpartisan,3654,3.281,False,False
+130543,WA,Sean P. Lewis,Republican,9860,81.293,False,False
+130543,WA,Write-in,Nonpartisan,2269,18.707,False,False
+130766,WA,Edwin Obras,Democratic,34677,73.535,True,False
+130766,WA,Chris Martinez,Republican,12416,26.329,False,False
+130766,WA,Write-in,Nonpartisan,64,0.136,False,False
+130350,WA,Davina Duerr,Democratic,51805,73.033,True,False
+130350,WA,Maggie Wang,Republican,19049,26.855,False,False
+130350,WA,Write-in,Nonpartisan,80,0.113,False,False
+130551,WA,Yes,Nonpartisan,477,61.788,False,False
+130551,WA,No,Nonpartisan,295,38.212,False,False
+130195,WA,Gerry David Bradbury,Nonpartisan,3230,50.738,False,False
+130195,WA,Ernie Hood,Nonpartisan,3090,48.539,False,False
+130195,WA,Write-in,Nonpartisan,46,0.723,False,False
+130629,WA,Nicole G. Knowles,Nonpartisan,23112,55.526,False,False
+130629,WA,Christopher Eastwood,Nonpartisan,18384,44.167,False,False
+130629,WA,Write-in,Nonpartisan,128,0.308,False,False
+130409,WA,Levy No,Nonpartisan,5895,53.964,False,False
+130409,WA,Levy Yes,Nonpartisan,5029,46.036,False,False
+130203,WA,Kriston Chapman,Republican,1579,98.626,False,False
+130203,WA,Write-in,Nonpartisan,22,1.374,False,False
+130489,WA,Dwayne Christopher,Nonpartisan,194966,97.169,False,False
+130489,WA,Write-in,Nonpartisan,5680,2.831,False,False
+130480,WA,Coreen Schnepf,Nonpartisan,164063,55.459,False,False
+130480,WA,Bryan Chushcoff,Nonpartisan,130676,44.173,False,False
+130480,WA,Write-in,Nonpartisan,1090,0.368,False,False
+148843,WA,"James ""Jim"" Bell",Nonpartisan,48932,98.399,False,False
+148843,WA,Write-in,Nonpartisan,796,1.601,False,False
+130697,WA,Laurel Smith,Nonpartisan,142977,97.929,False,False
+130697,WA,Write-in,Nonpartisan,3023,2.071,False,False
+130547,WA,Approved,Nonpartisan,0,,False,False
+130547,WA,Rejected,Nonpartisan,0,,False,False
+130498,WA,Rhonda Laumann,Nonpartisan,103485,96.942,False,False
+130498,WA,Write-in,Nonpartisan,3264,3.058,False,False
+181477,WA,Mike French,Democratic,15786,55.888,False,False
+181477,WA,Jake Seegers,Independent,12438,44.035,False,False
+181477,WA,Write-in,Nonpartisan,22,0.078,False,False
+130771,WA,Noel C. Frame,Democratic,73659,87.578,True,False
+130771,WA,Jillian England,Republican,10301,12.247,False,False
+130771,WA,Write-in,Nonpartisan,147,0.175,False,False
+130569,WA,Yes,Nonpartisan,112,69.565,False,False
+130569,WA,No,Nonpartisan,49,30.435,False,False
+130151,WA,McKenzie A. Campbell,No Party Preference,6994,99.121,False,False
+130151,WA,Write-in,Nonpartisan,62,0.879,False,False
+130585,WA,Approved,Nonpartisan,261,84.194,False,False
+130585,WA,Rejected,Nonpartisan,49,15.806,False,False
+130634,WA,Nicci Bergseng,Independent,2075,98.762,False,False
+130634,WA,Write-in,Nonpartisan,26,1.238,False,False
+130626,WA,Jill Karmy,Nonpartisan,22921,53.905,False,False
+130626,WA,Jacob Lervold,Nonpartisan,19487,45.829,False,False
+130626,WA,Write-in,Nonpartisan,113,0.266,False,False
+130208,WA,Kimberly (Kim) Boggs,Nonpartisan,1534,98.333,False,False
+130208,WA,Write-in,Nonpartisan,26,1.667,False,False
+130642,WA,Lisa Parshley,Democratic,42981,66.199,True,False
+130642,WA,Jamie Keenan-deVargas,Democratic,20056,30.89,False,False
+130642,WA,Write-in,Nonpartisan,1890,2.911,False,False
+130266,WA,Greg Banks,No Party Preference,24354,57.816,False,False
+130266,WA,Andrew F. Scott,Democratic,17639,41.875,False,False
+130266,WA,Write-in,Nonpartisan,130,0.309,False,False
+130702,WA,James B. Smith,Nonpartisan,136610,98.509,False,False
+130702,WA,Write-in,Nonpartisan,2068,1.491,False,False
+130282,WA,Chris Baldwin,Independent,36033,72.992,False,False
+130282,WA,Cody Hart,Republican,13252,26.844,False,False
+130282,WA,Write-in,Nonpartisan,81,0.164,False,False
+130274,WA,Debra Lekanoff,Democratic,57415,72.348,True,False
+130274,WA,Cindy Carter,Republican,21866,27.553,False,False
+130274,WA,Write-in,Nonpartisan,78,0.098,False,False
+130767,WA,Mia Su-Ling Gregerson,Democratic,34612,73.986,True,False
+130767,WA,Yuri Marinchik,Republican,12094,25.852,False,False
+130767,WA,Write-in,Nonpartisan,76,0.162,False,False
+130351,WA,Shelley Kloba,Democratic,51216,72.442,True,False
+130351,WA,Cliff Moon,Republican,19366,27.392,False,False
+130351,WA,Write-in,Nonpartisan,117,0.165,False,False
+130147,WA,Mary Dye,Republican,45943,93.393,True,False
+130147,WA,Write-in,Nonpartisan,3250,6.607,False,False
+130775,WA,Kelabe Tewolde,Democratic,41371,65.001,True,False
+130775,WA,Sharon Tomiko Santos,Democratic,21932,34.459,False,False
+130775,WA,Write-in,Nonpartisan,344,0.54,False,False
+130418,WA,Alan Nolan,Republican,33953,53.642,True,False
+130418,WA,Michaela Kelso,Democratic,29219,46.162,False,False
+130418,WA,Write-in,Nonpartisan,124,0.196,False,False
+130410,WA,Levy Yes,Nonpartisan,2038,54.116,False,False
+130410,WA,Levy No,Nonpartisan,1728,45.884,False,False
+130844,WA,Jennifer L White,Nonpartisan,17891,99.081,False,False
+130844,WA,Write-in,Nonpartisan,166,0.919,False,False
+130638,WA,Dan Bigelow,Democratic,1820,95.638,False,False
+130638,WA,Write-in,Nonpartisan,83,4.362,False,False
+130270,WA,Approved?,Nonpartisan,506,60.382,False,False
+130270,WA,Rejected?,Nonpartisan,332,39.618,False,False
+148844,WA,Dan Kathren,Nonpartisan,46663,97.509,False,False
+148844,WA,Write-in,Nonpartisan,1192,2.491,False,False
+130861,WA,Amanda Hamilton,Democratic,14864,98.856,False,False
+130861,WA,Write-in,Nonpartisan,172,1.144,False,False
+130707,WA,Levy...Yes,Nonpartisan,21659,52.664,False,False
+130707,WA,Levy...No,Nonpartisan,19468,47.336,False,False
+130499,WA,Approved,Nonpartisan,104695,57.87,False,False
+130499,WA,Rejected,Nonpartisan,76220,42.13,False,False
+130723,WA,Joe Timmons,Democratic,44094,56.372,True,False
+130723,WA,Justin Pike,Republican,34061,43.545,False,False
+130723,WA,Write-in,Nonpartisan,65,0.083,False,False
+130516,WA,Pam Johnson,Republican,10227,97.381,False,False
+130516,WA,Write-in,Nonpartisan,275,2.619,False,False
+130356,WA,Danica Noble,Democratic,31989,50.889,True,False
+130356,WA,Keith Scully,Democratic,29849,47.485,False,False
+130356,WA,Write-in,Nonpartisan,1022,1.626,False,False
+130348,WA,Yes,Nonpartisan,203007,64.995,False,False
+130348,WA,No,Nonpartisan,109336,35.005,False,False
+130780,WA,Nicole Macri,Democratic,58001,91.098,True,False
+130780,WA,Alby Clendennin,Democratic,5165,8.112,False,False
+130780,WA,Write-in,Nonpartisan,503,0.79,False,False
+130364,WA,Jason Cummings,Democratic,229383,95.435,False,False
+130364,WA,Write-in,Nonpartisan,10973,4.565,False,False
+130209,WA,Levy Yes,Nonpartisan,1066,57.778,False,False
+130209,WA,Levy No,Nonpartisan,779,42.222,False,False
+130643,WA,Drew C MacEwen,Republican,39353,50.15,False,False
+130643,WA,Carolina Mejia,Democratic,39020,49.725,False,False
+130643,WA,Write-in,Nonpartisan,98,0.125,False,False
+130225,WA,"Kenneth ""Ken"" Chadwick",Nonpartisan,10945,53.771,False,False
+130225,WA,Trevor Bevier,Nonpartisan,9343,45.9,False,False
+130225,WA,Write-in,Nonpartisan,67,0.329,False,False
+130217,WA,Anson Bartrand,Republican,12716,58.237,False,False
+130217,WA,Clayton Johnson,No Party Preference,9035,41.379,False,False
+130217,WA,Write-in,Nonpartisan,84,0.385,False,False
+130703,WA,Leslie A. Lopez,Nonpartisan,135956,98.418,False,False
+130703,WA,Write-in,Nonpartisan,2186,1.582,False,False
+130283,WA,Jackie Brunson,Democratic,31040,62.649,False,False
+130283,WA,Timothy Garrison,Republican,18475,37.289,False,False
+130283,WA,Write-in,Nonpartisan,31,0.063,False,False
+130719,WA,Trinity Orosco,Nonpartisan,15071,70.101,False,False
+130719,WA,Michael Nguyen,Nonpartisan,6383,29.69,False,False
+130719,WA,Write-in,Nonpartisan,45,0.209,False,False
+130711,WA,Chris Hollingsworth,Republican,10883,54.765,False,False
+130711,WA,John A Rosenau,Republican,8742,43.992,False,False
+130711,WA,Write-in,Nonpartisan,247,1.243,False,False
+130352,WA,Marko Liias,Democratic,42310,72.093,True,False
+130352,WA,Riaz Khan,Republican,16184,27.576,False,False
+130352,WA,Write-in,Nonpartisan,194,0.331,False,False
+130148,WA,Joe Schmick,Republican,40027,60.96,True,False
+130148,WA,Karina Wallace,Democratic,25528,38.878,False,False
+130148,WA,Write-in,Nonpartisan,106,0.161,False,False
+130582,WA,Yes,Nonpartisan,117,57.635,False,False
+130582,WA,No,Nonpartisan,86,42.365,False,False
+130360,WA,Mary Fosse,Democratic,38937,92.984,True,False
+130360,WA,Write-in,Nonpartisan,2938,7.016,False,False
+130213,WA,Tom Dent,Republican,34324,66.192,True,False
+130213,WA,"Juan ""Jerry"" Garcia",Democratic,17461,33.673,False,False
+130213,WA,Write-in,Nonpartisan,70,0.135,False,False
+130845,WA,Alex Schodowski,Nonpartisan,14820,60.202,False,False
+130845,WA,Patrick David Murphy,Nonpartisan,9767,39.676,False,False
+130845,WA,Write-in,Nonpartisan,30,0.122,False,False
+130428,WA,Deanna Kathleen Crull,Nonpartisan,104532,52.927,False,False
+130428,WA,Mike (Michael) Valerien,Nonpartisan,91977,46.57,False,False
+130428,WA,Write-in,Nonpartisan,993,0.503,False,False
+130648,WA,Nicole Miller,Democratic,60392,51.374,False,False
+130648,WA,Garrett Cady,Independent,56577,48.129,False,False
+130648,WA,Write-in,Nonpartisan,584,0.497,False,False
+130429,WA,Jenny Zappone,Nonpartisan,135896,97.264,False,False
+130429,WA,Write-in,Nonpartisan,3822,2.736,False,False
+130665,WA,Jaime Taylor,Democratic,19177,97.543,False,False
+130665,WA,Write-in,Nonpartisan,483,2.457,False,False
+130656,WA,Paul Wohl,Nonpartisan,84111,97.814,False,False
+130656,WA,Write-in,Nonpartisan,1880,2.186,False,False
+130288,WA,Yes,Nonpartisan,2564,76.766,False,False
+130288,WA,No,Nonpartisan,776,23.234,False,False
+181479,WA,Marc S. Straub,Republican,10089,69.57,False,False
+181479,WA,Michael S. Lesky,Independent,4357,30.044,False,False
+181479,WA,Write-in,Nonpartisan,56,0.386,False,False
+130517,WA,Rachel Hong,Nonpartisan,9557,97.54,False,False
+130517,WA,Write-in,Nonpartisan,241,2.46,False,False
+130299,WA,Marshall Slight,Republican,50795,95.302,False,False
+130299,WA,Write-in,Nonpartisan,2504,4.698,False,False
+130781,WA,Shaun Scott,Democratic,51671,97.751,True,False
+130781,WA,Write-in,Nonpartisan,1189,2.249,False,False
+130365,WA,Linda Coburn,Nonpartisan,217597,96.884,False,False
+130365,WA,Write-in,Nonpartisan,6998,3.116,False,False
+130797,WA,Rebecca Saldaña,Nonpartisan,59925,61.176,False,False
+130797,WA,Toshiko Grace Hasegawa,Nonpartisan,37393,38.174,False,False
+130797,WA,Write-in,Nonpartisan,637,0.65,False,False
+130789,WA,Debra Jean Entenman,Democratic,31974,63.684,True,False
+130789,WA,Cobi Clark,Libertarian,17954,35.76,False,False
+130789,WA,Write-in,Nonpartisan,279,0.556,False,False
+130644,WA,Dan Griffey,Republican,40995,52.381,True,False
+130644,WA,Jim Pierson,Democratic,37159,47.48,False,False
+130644,WA,Write-in,Nonpartisan,109,0.139,False,False
+130226,WA,Tom Middleton,Nonpartisan,16387,98.985,False,False
+130226,WA,Write-in,Nonpartisan,168,1.015,False,False
+130661,WA,Patti McLean,Independent,18904,98.397,False,False
+130661,WA,Write-in,Nonpartisan,308,1.603,False,False
+130652,WA,Derek Sanders,Independent,85087,69.73,False,False
+130652,WA,Kevin Burton-Crow,Democratic,36561,29.962,False,False
+130652,WA,Write-in,Nonpartisan,376,0.308,False,False
+130284,WA,Patrick Eason,Nonpartisan,30913,98.622,False,False
+130284,WA,Write-in,Nonpartisan,432,1.378,False,False
+130720,WA,Rejected,Nonpartisan,1638,61.835,False,False
+130720,WA,Approved,Nonpartisan,1011,38.165,False,False
+130513,WA,Gene Davis,Republican,9898,65.08,False,False
+130513,WA,Cindy Jensen,Independent,5268,34.637,False,False
+130513,WA,Write-in,Nonpartisan,43,0.283,False,False
+130292,WA,Ezequiel Morfin,Democratic,16678,58.182,True,False
+130292,WA,Deb Manjarrez,Republican,11858,41.368,False,False
+130292,WA,Write-in,Nonpartisan,129,0.45,False,False
+130785,WA,Javier Valdez,Democratic,68026,89.841,True,False
+130785,WA,Sandra Stephens,Republican,7579,10.01,False,False
+130785,WA,Write-in,Nonpartisan,113,0.149,False,False
+130583,WA,Yes,Nonpartisan,80,55.172,False,False
+130583,WA,No,Nonpartisan,65,44.828,False,False
+130165,WA,Hunter Abell,Republican,49115,96.596,True,False
+130165,WA,Write-in,Nonpartisan,1731,3.404,False,False
+130599,WA,Amy S. Vira,Democratic,7167,96.525,False,False
+130599,WA,Write-in,Nonpartisan,258,3.475,False,False
+130166,WA,Stacy Willoughby,Democratic,36912,50.618,False,False
+130166,WA,Brian Burnett,Republican,35951,49.301,False,False
+130166,WA,Write-in,Nonpartisan,59,0.081,False,False
+130387,WA,Approved,Nonpartisan,29024,55.107,False,False
+130387,WA,Rejected,Nonpartisan,23644,44.893,False,False
+130379,WA,Approved,Nonpartisan,29394,89.857,False,False
+130379,WA,Rejected,Nonpartisan,3318,10.143,False,False
+130231,WA,Yes,Nonpartisan,878,59.606,False,False
+130231,WA,No,Nonpartisan,595,40.394,False,False
+130666,WA,Michael Dorcy,Republican,17412,96.369,False,False
+130666,WA,Write-in,Nonpartisan,656,3.631,False,False
+130449,WA,Yes,Nonpartisan,320,77.67,False,False
+130449,WA,No,Nonpartisan,92,22.33,False,False
+131397,WA,Katharine Edwards,Nonpartisan,215499,98.637,False,False
+131397,WA,Write-in,Nonpartisan,2977,1.363,False,False
+130717,WA,Monty Huber,Republican,10515,51.552,False,False
+130717,WA,Christopher (Chris) Lee,Republican,9639,47.257,False,False
+130717,WA,Write-in,Nonpartisan,243,1.191,False,False
+130300,WA,Tyler Haueter,Republican,32745,53.35,False,False
+130300,WA,Quinn Dalan,Republican,26599,43.336,False,False
+130300,WA,Write-in,Nonpartisan,2034,3.314,False,False
+130733,WA,Tarra Simmons,Democratic,34626,49.389,False,False
+130733,WA,Daria Ilgen,Democratic,34137,48.691,False,False
+130733,WA,Write-in,Nonpartisan,1346,1.92,False,False
+130526,WA,Bruce Walker,No Party Preference,6683,60.932,False,False
+130526,WA,Jeffrey Phelan,No Party Preference,4238,38.64,False,False
+130526,WA,Write-in,Nonpartisan,47,0.429,False,False
+130366,WA,Jennifer Rancourt,Nonpartisan,25827,96.186,False,False
+130366,WA,Write-in,Nonpartisan,1024,3.814,False,False
+130798,WA,Jorge L. Barón,Nonpartisan,88101,98.777,False,False
+130798,WA,Write-in,Nonpartisan,1091,1.223,False,False
+130383,WA,Yes,Nonpartisan,18064,55.375,False,False
+130383,WA,No,Nonpartisan,14557,44.625,False,False
+130374,WA,Matthew Baldock,Nonpartisan,86988,98.398,False,False
+130374,WA,Write-in,Nonpartisan,1416,1.602,False,False
+130227,WA,Nicholas L Wallace,Nonpartisan,16502,99.224,False,False
+130227,WA,Write-in,Nonpartisan,129,0.776,False,False
+130662,WA,Tamra 'Tam' Ingwaldson,Democratic,13081,52.014,False,False
+130662,WA,Steve Duenkel,Republican,12027,47.823,False,False
+130662,WA,Write-in,Nonpartisan,41,0.163,False,False
+130442,WA,Levy Yes,Nonpartisan,6281,54.646,False,False
+130442,WA,Levy No,Nonpartisan,5213,45.354,False,False
+130235,WA,Traci Gants,Republican,4356,98.042,False,False
+130235,WA,Write-in,Nonpartisan,87,1.958,False,False
+130522,WA,Yes,Nonpartisan,430,81.285,False,False
+130522,WA,No,Nonpartisan,99,18.715,False,False
+130514,WA,Albert Lin,Republican,9764,95.914,False,False
+130514,WA,Write-in,Nonpartisan,416,4.086,False,False
+181492,WA,Lori Zoller,Republican,4818,49.85,False,False
+181492,WA,Andy Kallinen,Republican,4745,49.095,False,False
+181492,WA,Write-in,Nonpartisan,102,1.055,False,False
+130729,WA,Yes,Nonpartisan,35113,79.953,False,False
+130729,WA,No,Nonpartisan,8804,20.047,False,False
+130370,WA,Rick Leo,Nonpartisan,46915,97.314,False,False
+130370,WA,Write-in,Nonpartisan,1295,2.686,False,False
+130531,WA,Jennifer Zorn,Independent,6399,58.524,False,False
+130531,WA,Michael S. Turner,No Party Preference,4505,41.202,False,False
+130531,WA,Write-in,Nonpartisan,30,0.274,False,False
+181509,WA,Chris Elder,Nonpartisan,64363,62.471,False,False
+181509,WA,Shawn Ensley,Nonpartisan,38433,37.303,False,False
+181509,WA,Write-in,Nonpartisan,232,0.225,False,False
+130805,WA,Lisa O'Toole,Nonpartisan,153042,98.055,False,False
+130805,WA,Write-in,Nonpartisan,3035,1.945,False,False
+130388,WA,Byron Burres,Republican,8634,97.274,False,False
+130388,WA,Write-in,Nonpartisan,242,2.726,False,False
+130183,WA,Marie Gormsen,Republican,1082,98.185,False,False
+130183,WA,Write-in,Nonpartisan,20,1.815,False,False
+130617,WA,Approved,Nonpartisan,83,52.532,False,False
+130617,WA,Rejected,Nonpartisan,75,47.468,False,False
+130667,WA,Ryan Spurling,Republican,17958,96.377,False,False
+130667,WA,Write-in,Nonpartisan,675,3.623,False,False
+130659,WA,Yes,Nonpartisan,0,,False,False
+130659,WA,No,Nonpartisan,0,,False,False
+130240,WA,Dan B. Johnson,Nonpartisan,3700,97.961,False,False
+130240,WA,Write-in,Nonpartisan,77,2.039,False,False
+130676,WA,Approved,Nonpartisan,145620,68.3,False,False
+130676,WA,Rejected,Nonpartisan,67586,31.7,False,False
+130301,WA,Jake Church,Republican,44068,70.703,False,False
+130301,WA,Roman Kilinkaridis,Republican,16346,26.226,False,False
+130301,WA,Write-in,Nonpartisan,1914,3.071,False,False
+130734,WA,Greg Nance,Democratic,52540,69.763,True,False
+130734,WA,Lance Byrd,Republican,22623,30.039,False,False
+130734,WA,Write-in,Nonpartisan,149,0.198,False,False
+130317,WA,Bryan Elliott,Republican,13619,96.746,False,False
+130317,WA,Write-in,Nonpartisan,458,3.254,False,False
+130309,WA,Dianna L. Galvan,Republican,1915,98.407,False,False
+130309,WA,Write-in,Nonpartisan,31,1.593,False,False
+130799,WA,Claudia Balducci,Nonpartisan,58853,97.607,False,False
+130799,WA,Write-in,Nonpartisan,1443,2.393,False,False
+130384,WA,Approved,Nonpartisan,3291,50.329,False,False
+130384,WA,Rejected,Nonpartisan,3248,49.671,False,False
+130179,WA,Approved,Nonpartisan,10642,58.456,False,False
+130179,WA,Rejected,Nonpartisan,7563,41.544,False,False
+130809,WA,Peter Peaquin,Nonpartisan,144985,97.806,False,False
+130809,WA,Write-in,Nonpartisan,3252,2.194,False,False
+130454,WA,Yes,Nonpartisan,154,63.9,False,False
+130454,WA,No,Nonpartisan,87,36.1,False,False
+130446,WA,Levy Yes,Nonpartisan,55268,59.798,False,False
+130446,WA,Levy No,Nonpartisan,37157,40.202,False,False
+131320,WA,Patrick Stickney,Democratic,16939,48.607,True,False
+131320,WA,Joe Bushnell,Democratic,16396,47.049,False,False
+131320,WA,Write-in,Nonpartisan,1514,4.344,False,False
+130672,WA,Levy...Yes,Nonpartisan,2754,57.627,False,False
+130672,WA,Levy...No,Nonpartisan,2025,42.373,False,False
+130305,WA,Brian Sanderson,Nonpartisan,47169,97.386,False,False
+130305,WA,Write-in,Nonpartisan,1266,2.614,False,False
+181493,WA,Miguel Gutierrez,(Prefers Labor Democrat),12402,49.646,False,False
+181493,WA,George Blush,Republican,11005,44.053,False,False
+181493,WA,Write-in,Nonpartisan,1574,6.301,False,False
+130690,WA,Monica Jurado Stonier,Democratic,42705,71.419,True,False
+130690,WA,Derek Thompson,Republican,16930,28.313,False,False
+130690,WA,Write-in,Nonpartisan,160,0.268,False,False
+130739,WA,Joe Lombardi,Democratic,62757,57.805,False,False
+130739,WA,Chad M. Enright,Democratic,43874,40.412,False,False
+130739,WA,Write-in,Nonpartisan,1935,1.782,False,False
+130532,WA,"Pamela ""Pam"" Hickey",Nonpartisan,8362,98.342,False,False
+130532,WA,Write-in,Nonpartisan,141,1.658,False,False
+130755,WA,Rick L Hansen,Nonpartisan,3312,99.073,False,False
+130755,WA,Write-in,Nonpartisan,31,0.927,False,False
+130548,WA,Yes,Nonpartisan,599,65.752,False,False
+130548,WA,No,Nonpartisan,312,34.248,False,False
+130389,WA,Sheryl R. Park,Republican,6347,52.442,False,False
+130389,WA,Tim Reeves,Democratic,5746,47.476,False,False
+130389,WA,Write-in,Nonpartisan,10,0.083,False,False
+130381,WA,Approved,Nonpartisan,27415,83.871,False,False
+130381,WA,Rejected,Nonpartisan,5272,16.129,False,False
+130814,WA,Mitch Greene,Nonpartisan,62821,97.383,False,False
+130814,WA,Write-in,Nonpartisan,1688,2.617,False,False
+130397,WA,Nicholas Holce,Nonpartisan,7238,66.076,False,False
+130397,WA,Janelle Carman-Wagner,Nonpartisan,3658,33.394,False,False
+130397,WA,Write-in,Nonpartisan,58,0.529,False,False
+130241,WA,Jim Walsh,Republican,37898,55.388,True,False
+130241,WA,Kevin Moynihan,Democratic,30440,44.488,False,False
+130241,WA,Write-in,Nonpartisan,85,0.124,False,False
+130677,WA,Approved,Nonpartisan,132566,61.521,False,False
+130677,WA,Rejected,Nonpartisan,82916,38.479,False,False
+148832,WA,Chris Corry,Republican,33890,61.089,True,False
+148832,WA,Jack McEntire,Democratic,21510,38.774,False,False
+148832,WA,Write-in,Nonpartisan,76,0.137,False,False
+130249,WA,Jonathan L. Meyer,Republican,25676,94.921,False,False
+130249,WA,Write-in,Nonpartisan,1374,5.079,False,False
+130735,WA,Stacey Smith,No Party Preference,80515,97.925,False,False
+130735,WA,Write-in,Nonpartisan,1706,2.075,False,False
+130318,WA,Stephanie George,Republican,13477,96.971,False,False
+130318,WA,Write-in,Nonpartisan,421,3.029,False,False
+130751,WA,Dan G. Gunkel,Nonpartisan,5130,52.979,False,False
+130751,WA,Logan B. Siebert,Nonpartisan,4514,46.618,False,False
+130751,WA,Write-in,Nonpartisan,39,0.403,False,False
+130743,WA,Gina M. Buskirk,Nonpartisan,80960,98.16,False,False
+130743,WA,Write-in,Nonpartisan,1518,1.84,False,False
+130188,WA,Thomas W. Cox,Nonpartisan,1063,99.068,False,False
+130188,WA,Write-in,Nonpartisan,10,0.932,False,False
+130180,WA,No,Nonpartisan,788,62.589,False,False
+130180,WA,Yes,Nonpartisan,471,37.411,False,False
+130614,WA,Andrea K. Russell,Nonpartisan,2994,97.62,False,False
+130614,WA,Write-in,Nonpartisan,73,2.38,False,False
+130393,WA,Gabriel Acosta,Republican,8567,97.663,False,False
+130393,WA,Write-in,Nonpartisan,205,2.337,False,False
+130245,WA,Ross W. Nielson,Republican,26558,95.756,False,False
+130245,WA,Write-in,Nonpartisan,1177,4.244,False,False
+131326,WA,Meng Li Che,Nonpartisan,198423,96.244,False,False
+131326,WA,Write-in,Nonpartisan,7743,3.756,False,False
+130463,WA,Matt Marshall,Republican,33530,56.579,True,False
+130463,WA,Angela Taylor,Democratic,25665,43.308,False,False
+130463,WA,Write-in,Nonpartisan,67,0.113,False,False
+130682,WA,Approved,Nonpartisan,133944,62.582,False,False
+130682,WA,Rejected,Nonpartisan,80085,37.418,False,False
+130466,WA,Deborah Krishnadasan,Democratic,44024,56.198,True,False
+130466,WA,Gary Parker,Republican,34231,43.697,False,False
+130466,WA,Write-in,Nonpartisan,83,0.106,False,False
+130491,WA,Mike Sommerfeld,Nonpartisan,157297,55.304,False,False
+130491,WA,Pam Nogueira,Nonpartisan,125303,44.055,False,False
+130491,WA,Write-in,Nonpartisan,1825,0.642,False,False
+130482,WA,Bryan Yambe,Democratic,23669,61.975,False,False
+130482,WA,Bettina Gese,Republican,14459,37.86,False,False
+130482,WA,Write-in,Nonpartisan,63,0.165,False,False
+130323,WA,Amy Cziske,Republican,13675,97.2,False,False
+130323,WA,Write-in,Nonpartisan,394,2.8,False,False
+189016,WA,Yes,Nonpartisan,2879,54.734,False,False
+189016,WA,No,Nonpartisan,2381,45.266,False,False
+130549,WA,Approved,Nonpartisan,7778,61.244,False,False
+130549,WA,Rejected,Nonpartisan,4922,38.756,False,False
+130331,WA,Kym Foster,Practical Democrat,20160,95.568,False,False
+130331,WA,Write-in,Nonpartisan,935,4.432,False,False
+130815,WA,Harry Steinmetz,Nonpartisan,45337,54.522,False,False
+130815,WA,"Fa'amomoi Masaniai, Jr.",Nonpartisan,36954,44.44,False,False
+130815,WA,Write-in,Nonpartisan,863,1.038,False,False
+130398,WA,Levy Yes,Nonpartisan,95,60.51,False,False
+130398,WA,Levy No,Nonpartisan,62,39.49,False,False
+130833,WA,Approved,Nonpartisan,4184,78.81,False,False
+130833,WA,Rejected,Nonpartisan,1125,21.19,False,False
+130823,WA,Yes,Nonpartisan,11559,73.973,False,False
+130823,WA,No,Nonpartisan,4067,26.027,False,False
+130678,WA,Approved,Nonpartisan,189801,87.289,False,False
+130678,WA,Rejected,Nonpartisan,27640,12.711,False,False
+148833,WA,Reedy Berg,Republican,33662,61.718,True,False
+148833,WA,Liz Hallock,No Kings,20655,37.87,False,False
+148833,WA,Write-in,Nonpartisan,225,0.413,False,False
+130487,WA,Lizanne Padula,Nonpartisan,194472,96.949,False,False
+130487,WA,Write-in,Nonpartisan,6120,3.051,False,False
+130478,WA,Joshua Penner,Republican,35467,54.136,True,False
+130478,WA,John Bielka,Democratic,29995,45.783,False,False
+130478,WA,Write-in,Nonpartisan,53,0.081,False,False
+130319,WA,Rick Catlin,Nonpartisan,13246,98.432,False,False
+130319,WA,Write-in,Nonpartisan,211,1.568,False,False
+130752,WA,Rebecca Cranston,No Party Preference,6601,98.891,False,False
+130752,WA,Write-in,Nonpartisan,74,1.109,False,False
+130545,WA,Felisha L. Rosales,Republican,11270,97.821,False,False
+130545,WA,Write-in,Nonpartisan,251,2.179,False,False
+130327,WA,Kaylee Kuehn,Democratic,44150,54.621,True,False
+130327,WA,Marcia Kelbon,No Party Preference,36477,45.128,False,False
+130327,WA,Write-in,Nonpartisan,203,0.251,False,False
+130819,WA,Rebecca Robertson,Nonpartisan,214026,98.897,False,False
+130819,WA,Write-in,Nonpartisan,2388,1.103,False,False
+130615,WA,Carolyn J. Benzel,Nonpartisan,3098,97.976,False,False
+130615,WA,Write-in,Nonpartisan,64,2.024,False,False
+130197,WA,Thomas Franklin Webster,No Party Preference,14506,98.159,False,False
+130197,WA,Write-in,Nonpartisan,272,1.841,False,False
+130631,WA,Approved,Nonpartisan,1556,62.793,False,False
+130631,WA,Rejected,Nonpartisan,922,37.207,False,False
+130404,WA,Johnathan Waldrop,Republican,8480,75.499,False,False
+130404,WA,Roseanne Ennis Jezerinac,Republican,2596,23.113,False,False
+130404,WA,Write-in,Nonpartisan,156,1.389,False,False
+130198,WA,Robin R. McCroskey,Nonpartisan,4729,97.165,False,False
+130198,WA,Write-in,Nonpartisan,138,2.835,False,False
+130421,WA,Tom Konis,Republican,149080,93.83,False,False
+130421,WA,Write-in,Nonpartisan,9803,6.17,False,False
+130412,WA,Levy Yes,Nonpartisan,82,61.194,False,False
+130412,WA,Levy No,Nonpartisan,52,38.806,False,False
+148838,WA,"William ""Bill"" Leach",Republican,52054,97.261,False,False
+148838,WA,Write-in,Nonpartisan,1466,2.739,False,False
+130692,WA,Mitchell Kelly,Nonpartisan,115547,55.595,False,False
+130692,WA,Eileen Quiring O'Brien,Nonpartisan,91541,44.045,False,False
+130692,WA,Write-in,Nonpartisan,748,0.36,False,False
+130483,WA,Brenda Lykins,Democratic,43004,62.681,False,False
+130483,WA,Mike Solan,Republican,25555,37.248,False,False
+130483,WA,Write-in,Nonpartisan,49,0.071,False,False
+148846,WA,Jennifer M. (Lampson) Azure,Nonpartisan,46590,97.579,False,False
+148846,WA,Write-in,Nonpartisan,1156,2.421,False,False
+130749,WA,Heather Jobe,Republican,6702,97.032,False,False
+130749,WA,Write-in,Nonpartisan,205,2.968,False,False
+130332,WA,George J Kelley,No Party Preference,21129,98.872,False,False
+130332,WA,Write-in,Nonpartisan,241,1.128,False,False
+130571,WA,Yes,Nonpartisan,40,59.701,False,False
+130571,WA,No,Nonpartisan,27,40.299,False,False
+130561,WA,Brett J. Myers,Republican,6728,93.211,False,False
+130561,WA,Write-in,Nonpartisan,490,6.789,False,False
+130400,WA,Rick Johnson,Republican,9243,96.593,False,False
+130400,WA,Write-in,Nonpartisan,326,3.407,False,False
+130834,WA,Approved,Nonpartisan,4837,71.5,False,False
+130834,WA,Rejected,Nonpartisan,1928,28.5,False,False
+130416,WA,Rob Chase,Republican,38760,56.667,True,False
+130416,WA,Rob Tupper,Democratic,29457,43.066,False,False
+130416,WA,Write-in,Nonpartisan,183,0.268,False,False
+130408,WA,Gina A. Tveit,Nonpartisan,9406,84.035,False,False
+130408,WA,C. Olivia Irwin,Nonpartisan,1731,15.465,False,False
+130408,WA,Write-in,Nonpartisan,56,0.5,False,False
+148834,WA,Bill Spencer,Republican,51083,96.198,False,False
+148834,WA,Write-in,Nonpartisan,2019,3.802,False,False
+130488,WA,Neil Horibe,Nonpartisan,194298,97.054,False,False
+130488,WA,Write-in,Nonpartisan,5897,2.946,False,False
+130268,WA,Tony Lam,Independent,32158,99.241,False,False
+130268,WA,Write-in,Nonpartisan,246,0.759,False,False
+148842,WA,"Michael ""Mike"" Rio",Nonpartisan,42599,64.165,False,False
+148842,WA,Talesha Sams,Nonpartisan,23520,35.427,False,False
+148842,WA,Write-in,Nonpartisan,271,0.408,False,False
+130557,WA,Jill Whelchel,No Party Preference,7819,98.662,False,False
+130557,WA,Write-in,Nonpartisan,106,1.338,False,False
+130546,WA,Eric C. Biggar,Nonpartisan,11013,98.365,False,False
+130546,WA,Write-in,Nonpartisan,183,1.635,False,False
+130769,WA,Brianna K. Thomas,Democratic,59098,98.041,True,False
+130769,WA,Write-in,Nonpartisan,1181,1.959,False,False
+130567,WA,Yes,Nonpartisan,131,78.443,False,False
+130567,WA,No,Nonpartisan,36,21.557,False,False
+130770,WA,Joe Fitzgibbon,Democratic,46938,67.673,True,False
+130770,WA,Mary Anito,Democratic,21700,31.286,False,False
+130770,WA,Write-in,Nonpartisan,722,1.041,False,False
+130354,WA,Lillian Ortiz-Self,Democratic,41179,71.955,True,False
+130354,WA,Bruce Guthrie,Libertarian,15717,27.463,False,False
+130354,WA,Write-in,Nonpartisan,333,0.582,False,False
+130150,WA,Darla McKay,No Party Preference,7170,98.842,False,False
+130150,WA,Write-in,Nonpartisan,84,1.158,False,False
+130839,WA,Shoona Riggs,Nonpartisan,17427,65.926,False,False
+130839,WA,Virginia Shogren,Nonpartisan,8971,33.937,False,False
+130839,WA,Write-in,Nonpartisan,36,0.136,False,False
+130422,WA,Michael Cathcart,Republican,118799,52.368,False,False
+130422,WA,Callie Gee,Democratic,107812,47.525,False,False
+130422,WA,Write-in,Nonpartisan,242,0.107,False,False
+130215,WA,Mark Klicker,Republican,31982,57.921,True,False
+130215,WA,Kyle Palmer,Democratic,23188,41.994,False,False
+130215,WA,Write-in,Nonpartisan,47,0.085,False,False
+130649,WA,Chris Pettit,Nonpartisan,74562,71.214,False,False
+130649,WA,Jeff Curry,Nonpartisan,29201,27.89,False,False
+130649,WA,Write-in,Nonpartisan,939,0.897,False,False
+130485,WA,Kevin A. McCann,Nonpartisan,196480,97.072,False,False
+130485,WA,Write-in,Nonpartisan,5926,2.928,False,False
+148847,WA,Kyle Saltz,Nonpartisan,12657,55.028,False,False
+148847,WA,Mary S. Lipton,Nonpartisan,10269,44.646,False,False
+148847,WA,Write-in,Nonpartisan,75,0.326,False,False
+130501,WA,Dee Sonntag,Nonpartisan,48560,97.767,False,False
+130501,WA,Write-in,Nonpartisan,1109,2.233,False,False
+130281,WA,Erik Pedersen,Democratic,32940,96.834,False,False
+130281,WA,Write-in,Nonpartisan,1077,3.166,False,False
+130333,WA,Daniel Crawford,Republican,14267,51.418,False,False
+130333,WA,Jason F. Walker,Democratic,13442,48.445,False,False
+130333,WA,Write-in,Nonpartisan,38,0.137,False,False
+130572,WA,Yes,Nonpartisan,50,73.529,False,False
+130572,WA,No,Nonpartisan,18,26.471,False,False
+130154,WA,Holly Steiner,No Party Preference,6951,99.088,False,False
+130154,WA,Write-in,Nonpartisan,64,0.912,False,False
+130342,WA,Approved,Nonpartisan,785,55.088,False,False
+130342,WA,Rejected,Nonpartisan,640,44.912,False,False
+130835,WA,Approved,Nonpartisan,19671,70.728,False,False
+130835,WA,Rejected,Nonpartisan,8141,29.272,False,False
+130417,WA,Jeff Holy,Republican,41774,91.584,True,False
+130417,WA,Write-in,Nonpartisan,3839,8.416,False,False
+130211,WA,No,Nonpartisan,13787,60.258,False,False
+130211,WA,Yes,Nonpartisan,9093,39.742,False,False
+130843,WA,Brian King,Nonpartisan,18786,98.609,False,False
+130843,WA,Write-in,Nonpartisan,265,1.391,False,False
+130277,WA,Jeremy Harrison-Smith,Democratic,26054,53.285,False,False
+130277,WA,Mark Hulst,Independent,22765,46.558,False,False
+130277,WA,Write-in,Nonpartisan,77,0.157,False,False
+130269,WA,Ronald A. Costeck,Nonpartisan,29248,98.594,False,False
+130269,WA,Write-in,Nonpartisan,417,1.406,False,False
+130705,WA,Abigail E. Bartlett,Nonpartisan,135620,98.434,False,False
+130705,WA,Write-in,Nonpartisan,2158,1.566,False,False
+130497,WA,Heather M. Barker,Nonpartisan,94251,65.896,False,False
+130497,WA,Joshua C. Harris,Nonpartisan,47322,33.085,False,False
+130497,WA,Write-in,Nonpartisan,1457,1.019,False,False
+130337,WA,Andrea Vingo,Nonpartisan,18678,98.099,False,False
+130337,WA,Write-in,Nonpartisan,362,1.901,False,False
+130286,WA,Jenifer Howson,Nonpartisan,31046,98.481,False,False
+130286,WA,Write-in,Nonpartisan,479,1.519,False,False
+130722,WA,Alicia Rule,Democratic,45947,58.752,True,False
+130722,WA,Misty Flowers,Republican,32167,41.132,False,False
+130722,WA,Write-in,Nonpartisan,91,0.116,False,False
+130577,WA,Yes,Nonpartisan,286,71.322,False,False
+130577,WA,No,Nonpartisan,115,28.678,False,False
+130355,WA,Cindy Ryu,Democratic,32900,50.896,True,False
+130355,WA,Jesse Salomon,Democratic,30736,47.549,False,False
+130355,WA,Write-in,Nonpartisan,1005,1.555,False,False
+130787,WA,Darya Farivar,Democratic,65767,89.548,True,False
+130787,WA,Rodney 'Star' Thornley,Independent,7412,10.092,False,False
+130787,WA,Write-in,Nonpartisan,264,0.359,False,False
+130371,WA,Patricia Lyon,Nonpartisan,47858,97.48,False,False
+130371,WA,Write-in,Nonpartisan,1237,2.52,False,False
+130423,WA,Dave Lucas,Republican,117652,52.273,False,False
+130423,WA,Elliot Robison,Democratic,107208,47.633,False,False
+130423,WA,Write-in,Nonpartisan,213,0.095,False,False
+130414,WA,Luc Jasmin III,Democratic,41687,64.183,True,False
+130414,WA,Natalie Poulson,Republican,23152,35.646,False,False
+130414,WA,Write-in,Nonpartisan,111,0.171,False,False
+130848,WA,Approved,Nonpartisan,631,55.351,False,False
+130848,WA,Rejected,Nonpartisan,509,44.649,False,False
+130431,WA,Jennifer L. Fassbender,Nonpartisan,130771,97.354,False,False
+130431,WA,Write-in,Nonpartisan,3554,2.646,False,False
+148848,WA,Yes,Nonpartisan,567,53.744,False,False
+148848,WA,No,Nonpartisan,488,46.256,False,False
+130502,WA,Sergio C. Flores,Nonpartisan,48800,97.62,False,False
+130502,WA,Write-in,Nonpartisan,1190,2.38,False,False
+181481,WA,"Ronald ""Ron"" Cabral",Nonpartisan,21,51.22,False,False
+181481,WA,Carol Mayer,Nonpartisan,20,48.78,False,False
+181481,WA,Write-in,Nonpartisan,0,0.0,False,False
+181473,WA,Chuck Whitman,No Party Preference,6594,98.227,False,False
+181473,WA,Write-in,Nonpartisan,119,1.773,False,False
+130573,WA,Yes,Nonpartisan,102,67.105,False,False
+130573,WA,No,Nonpartisan,50,32.895,False,False
+130155,WA,Joe Louis,Nonpartisan,4150,56.187,False,False
+130155,WA,Darcy Nelly,Nonpartisan,3210,43.461,False,False
+130155,WA,Write-in,Nonpartisan,26,0.352,False,False
+130783,WA,Roger Goodman,Democratic,48251,71.439,True,False
+130783,WA,JoAnn Tolentino,Republican,19211,28.443,False,False
+130783,WA,Write-in,Nonpartisan,80,0.118,False,False
+130581,WA,"Yes, Levy",Nonpartisan,114,72.611,False,False
+130581,WA,"No, Levy",Nonpartisan,43,27.389,False,False
+130220,WA,Nelson Cox,Nonpartisan,16327,98.528,False,False
+130220,WA,Write-in,Nonpartisan,244,1.472,False,False
+130212,WA,Alex Ybarra,Republican,38443,96.78,True,False
+130212,WA,Write-in,Nonpartisan,1279,3.22,False,False
+130646,WA,JJ Olson,Democratic,61946,56.465,False,False
+130646,WA,Lynda Nashed Zeman,Democratic,45315,41.305,False,False
+130646,WA,Write-in,Nonpartisan,2446,2.23,False,False
+130427,WA,Patrick T Johnson,Nonpartisan,132926,97.613,False,False
+130427,WA,Write-in,Nonpartisan,3250,2.387,False,False
+148856,WA,Bill A. Bowman,Nonpartisan,565000,97.961,False,False
+148856,WA,Write-in,Nonpartisan,11761,2.039,False,False
+130706,WA,Jane A. Van Dyke,Nonpartisan,115171,61.092,False,False
+130706,WA,Gordon Matthews,Nonpartisan,72301,38.351,False,False
+130706,WA,Write-in,Nonpartisan,1050,0.557,False,False
+130664,WA,Randy Neatherlin,Nonpartisan,10542,50.243,False,False
+130664,WA,Mick Sprouffske,Nonpartisan,10248,48.842,False,False
+130664,WA,Write-in,Nonpartisan,192,0.915,False,False
+130507,WA,Approved,Nonpartisan,14910,53.17,False,False
+130507,WA,Rejected,Nonpartisan,13132,46.83,False,False
+130287,WA,Yes,Nonpartisan,7748,73.608,False,False
+130287,WA,No,Nonpartisan,2778,26.392,False,False
+130524,WA,Approved,Nonpartisan,453,67.916,False,False
+130524,WA,Rejected,Nonpartisan,214,32.084,False,False
+130306,WA,Julia A. Davis,Nonpartisan,47682,97.609,False,False
+130306,WA,Write-in,Nonpartisan,1168,2.391,False,False
+130160,WA,Tyson R. Hill,Nonpartisan,107067,98.386,False,False
+130160,WA,Write-in,Nonpartisan,1756,1.614,False,False
+130152,WA,Curt L. Liedkie,No Party Preference,6862,98.141,False,False
+130152,WA,Write-in,Nonpartisan,130,1.859,False,False
+130586,WA,Yes,Nonpartisan,157,67.672,False,False
+130586,WA,No,Nonpartisan,75,32.328,False,False
+130168,WA,Britini Port,Independent,18330,53.963,False,False
+130168,WA,Wes Cornelius,Republican,15590,45.896,False,False
+130168,WA,Write-in,Nonpartisan,48,0.141,False,False
+130849,WA,Yes,Nonpartisan,1910,54.649,False,False
+130849,WA,No,Nonpartisan,1585,45.351,False,False
+130432,WA,Andrew Biviano,Nonpartisan,131033,97.278,False,False
+130432,WA,Write-in,Nonpartisan,3667,2.722,False,False
+130865,WA,Stacie Prada,Democratic,14987,98.937,False,False
+130865,WA,Write-in,Nonpartisan,161,1.063,False,False
+130857,WA,Emily Sabo,Republican,4218,97.077,False,False
+130857,WA,Write-in,Nonpartisan,127,2.923,False,False
+130503,WA,Steven J. Krupa,Nonpartisan,47837,97.692,False,False
+130503,WA,Write-in,Nonpartisan,1130,2.308,False,False
+181482,WA,Kurt M. Blanchard,Nonpartisan,36,94.737,False,False
+181482,WA,Write-in,Nonpartisan,2,5.263,False,False
+130520,WA,Approved,Nonpartisan,3104,50.202,False,False
+130520,WA,Rejected,Nonpartisan,3079,49.798,False,False
+130511,WA,Susan Speiker,Republican,10234,96.83,False,False
+130511,WA,Write-in,Nonpartisan,335,3.17,False,False
+130792,WA,Osman Salahuddin,Democratic,33685,69.15,True,False
+130792,WA,Jeffery Poppe,Republican,14962,30.715,False,False
+130792,WA,Write-in,Nonpartisan,66,0.135,False,False
+130784,WA,Vanessa Kritzer,Democratic,49428,74.804,True,False
+130784,WA,John P Gibbons,Republican,16469,24.924,False,False
+130784,WA,Write-in,Nonpartisan,180,0.272,False,False
+130368,WA,Anthony E. Howard,Nonpartisan,54999,97.57,False,False
+130368,WA,Write-in,Nonpartisan,1370,2.43,False,False
+130164,WA,Andrew Engell,Republican,49610,96.486,True,False
+130164,WA,Write-in,Nonpartisan,1807,3.514,False,False
+130853,WA,Grace D. Cross,Democratic,2974,50.11,False,False
+130853,WA,Olivia D. Munsch,Republican,2956,49.806,False,False
+130853,WA,Write-in,Nonpartisan,5,0.084,False,False
+130647,WA,Tillie Naputi-Pullar,Democratic,88202,95.767,False,False
+130647,WA,Write-in,Nonpartisan,3899,4.233,False,False
+130229,WA,Approved,Nonpartisan,1365,63.048,False,False
+130229,WA,Rejected,Nonpartisan,800,36.952,False,False
+130437,WA,Yes,Nonpartisan,95,78.512,False,False
+130437,WA,No,Nonpartisan,26,21.488,False,False
+130230,WA,Yes,Nonpartisan,2757,53.04,False,False
+130230,WA,No,Nonpartisan,2441,46.96,False,False
+130456,WA,Rejected,Nonpartisan,223542,67.898,False,False
+130456,WA,Approved,Nonpartisan,105688,32.102,False,False
+130448,WA,Levy Yes,Nonpartisan,5522,59.524,False,False
+130448,WA,Levy No,Nonpartisan,3755,40.476,False,False
+181487,WA,Kelly Raap,Republican,11167,54.869,False,False
+181487,WA,Shannon Durfee,Republican,8875,43.608,False,False
+181487,WA,Write-in,Nonpartisan,310,1.523,False,False
+130724,WA,Jesse Corkern,Democratic,64319,57.336,False,False
+130724,WA,Ryan Swinburnson,No Party Preference,47696,42.518,False,False
+130724,WA,Write-in,Nonpartisan,164,0.146,False,False
+130307,WA,Alfred G. Schweppe,Nonpartisan,47170,97.418,False,False
+130307,WA,Write-in,Nonpartisan,1250,2.582,False,False
+181495,WA,Trinity Hightower Stucker,Republican,7162,50.968,False,False
+181495,WA,Jon R Neal,Republican,6640,47.253,False,False
+181495,WA,Write-in,Nonpartisan,250,1.779,False,False
+130587,WA,Yes,Nonpartisan,156,65.272,False,False
+130587,WA,No,Nonpartisan,83,34.728,False,False
+130169,WA,Brian Brett,Republican,20585,66.963,False,False
+130169,WA,Brandt Cappell,Republican,9763,31.759,False,False
+130169,WA,Write-in,Nonpartisan,393,1.278,False,False
+130603,WA,Yes,Nonpartisan,1271,71.244,False,False
+130603,WA,No,Nonpartisan,513,28.756,False,False
+130595,WA,John Kulseth,Nonpartisan,7277,98.245,False,False
+130595,WA,Write-in,Nonpartisan,130,1.755,False,False
+130433,WA,Aimee N. Maurer,Nonpartisan,131330,97.558,False,False
+130433,WA,Write-in,Nonpartisan,3287,2.442,False,False
+130866,WA,Mindy Walker,Nonpartisan,13910,98.926,False,False
+130866,WA,Write-in,Nonpartisan,151,1.074,False,False
+130452,WA,Yes,Nonpartisan,14562,62.632,False,False
+130452,WA,No,Nonpartisan,8688,37.368,False,False
+130441,WA,Levy Yes,Nonpartisan,8666,57.387,False,False
+130441,WA,Levy No,Nonpartisan,6435,42.613,False,False
+181483,WA,Kevin J Berry,Republican,1282,58.114,False,False
+181483,WA,Robert (Bob) Dean,Republican,900,40.798,False,False
+181483,WA,Write-in,Nonpartisan,24,1.088,False,False
+130521,WA,Yes,Nonpartisan,234,72.671,False,False
+130521,WA,No,Nonpartisan,88,27.329,False,False
+130303,WA,Robert Udell,Republican,22685,70.595,False,False
+130303,WA,Kristoffer Strutner,Republican,8734,27.18,False,False
+130303,WA,Write-in,Nonpartisan,715,2.225,False,False
+181491,WA,Brett Wachsmith,Republican,13426,96.701,False,False
+181491,WA,Write-in,Nonpartisan,458,3.299,False,False
+130591,WA,Yes,Nonpartisan,122,70.52,False,False
+130591,WA,No,Nonpartisan,51,29.48,False,False
+130369,WA,Jennifer Millett,Nonpartisan,54668,97.081,False,False
+130369,WA,Write-in,Nonpartisan,1644,2.919,False,False
+130803,WA,Jan Trasen,Nonpartisan,127457,62.593,False,False
+130803,WA,Bianca Tse,Nonpartisan,74571,36.621,False,False
+130803,WA,Write-in,Nonpartisan,1601,0.786,False,False
+130386,WA,Approved,Nonpartisan,66466,61.646,False,False
+130386,WA,Rejected,Nonpartisan,41352,38.354,False,False
+130804,WA,Michelle Gehlsen,Nonpartisan,151006,98.151,False,False
+130804,WA,Write-in,Nonpartisan,2845,1.849,False,False
+130190,WA,Marianne Nichols,Republican,5317,97.381,False,False
+130190,WA,Write-in,Nonpartisan,143,2.619,False,False
+130182,WA,McKenzie Lueck,No Party Preference,1061,98.606,False,False
+130182,WA,Write-in,Nonpartisan,15,1.394,False,False
+131315,WA,Jake Fey,Democratic,47825,95.524,True,False
+131315,WA,Write-in,Nonpartisan,2241,4.476,False,False
+130457,WA,Rejected,Nonpartisan,168895,51.797,False,False
+130457,WA,Approved,Nonpartisan,157174,48.203,False,False
+130247,WA,Scott Tinney,Republican,27100,96.537,False,False
+130247,WA,Write-in,Nonpartisan,972,3.463,False,False
+130683,WA,Yes,Nonpartisan,110086,50.945,False,False
+130683,WA,No,Nonpartisan,106003,49.055,False,False
+130518,WA,Robert W. Grim,Nonpartisan,9643,66.554,False,False
+130518,WA,Byron Moore,Nonpartisan,4792,33.073,False,False
+130518,WA,Write-in,Nonpartisan,54,0.373,False,False
+181496,WA,Scott Vejraska,Nonpartisan,10162,71.252,False,False
+181496,WA,Steven Gadd,Nonpartisan,4051,28.404,False,False
+181496,WA,Write-in,Nonpartisan,49,0.344,False,False
+130534,WA,Nancy R. McAllister,Nonpartisan,5410,97.267,False,False
+130534,WA,Write-in,Nonpartisan,152,2.733,False,False
+130316,WA,Mike Hougardy,Republican,13313,96.52,False,False
+130316,WA,Write-in,Nonpartisan,480,3.48,False,False
+130170,WA,Sandra Arechiga,Independent,18346,53.453,False,False
+130170,WA,Marty Young,Republican,15913,46.364,False,False
+130170,WA,Write-in,Nonpartisan,63,0.184,False,False
+130604,WA,Yes,Nonpartisan,1111,63.161,False,False
+130604,WA,No,Nonpartisan,648,36.839,False,False
+130186,WA,Kristopher Lee Taylor,No Party Preference,641,51.321,False,False
+130186,WA,Calvin Dansereau,No Party Preference,597,47.798,False,False
+130186,WA,Write-in,Nonpartisan,11,0.881,False,False
+130178,WA,Allen F. Blackmon,Nonpartisan,22517,98.819,False,False
+130178,WA,Write-in,Nonpartisan,269,1.181,False,False
+130867,WA,Keith Kisler,Nonpartisan,13118,75.097,False,False
+130867,WA,Michael Brittain,Nonpartisan,4307,24.657,False,False
+130867,WA,Write-in,Nonpartisan,43,0.246,False,False
+130453,WA,Yes,Nonpartisan,195,59.816,False,False
+130453,WA,No,Nonpartisan,131,40.184,False,False
+130243,WA,Peter Abbarno,Republican,51721,65.396,True,False
+130243,WA,Andy Zahn,Democratic,27174,34.359,False,False
+130243,WA,Write-in,Nonpartisan,194,0.245,False,False
+131319,WA,Krista Perez,Democratic,17646,49.79,True,False
+131319,WA,Melanie Morgan,Democratic,16320,46.048,False,False
+131319,WA,Write-in,Nonpartisan,1475,4.162,False,False
+130312,WA,Michael Golden,Republican,1822,97.904,False,False
+130312,WA,Write-in,Nonpartisan,39,2.096,False,False
+130304,WA,Gary Hintze,Nonpartisan,47366,97.299,False,False
+130304,WA,Write-in,Nonpartisan,1315,2.701,False,False
+130737,WA,Paul Andrews,Democratic,89711,96.541,False,False
+130737,WA,Write-in,Nonpartisan,3214,3.459,False,False
+130530,WA,Sheila Didion,Independent,9054,99.07,False,False
+130530,WA,Write-in,Nonpartisan,85,0.93,False,False
+130174,WA,Mike Morrison,Republican,25431,77.775,False,False
+130174,WA,Stan Langlow,Republican,7001,21.411,False,False
+130174,WA,Write-in,Nonpartisan,266,0.814,False,False
+130321,WA,Jodi Hammond,Republican,11002,56.4,False,False
+130321,WA,Aaron Reiman,Independent,8436,43.246,False,False
+130321,WA,Write-in,Nonpartisan,69,0.354,False,False
+130754,WA,Greg Gallagher,Republican,6715,97.588,False,False
+130754,WA,Write-in,Nonpartisan,166,2.412,False,False
+130609,WA,Catherine R. Sloan,Republican,3076,96.336,False,False
+130609,WA,Write-in,Nonpartisan,117,3.664,False,False
+130191,WA,Tammie Ownbey,Republican,5239,97.289,False,False
+130191,WA,Write-in,Nonpartisan,146,2.711,False,False
+130821,WA,Kristin Shotwell,Nonpartisan,214014,98.849,False,False
+130821,WA,Write-in,Nonpartisan,2492,1.151,False,False
+130405,WA,Erika George,Republican,9401,97.258,False,False
+130405,WA,Write-in,Nonpartisan,265,2.742,False,False
+130458,WA,Approved,Nonpartisan,213397,66.581,False,False
+130458,WA,Rejected,Nonpartisan,107108,33.419,False,False
+130450,WA,Yes,Nonpartisan,7166,62.634,False,False
+130450,WA,No,Nonpartisan,4275,37.366,False,False
+131398,WA,Pooja Vaddadi,Nonpartisan,201437,97.655,False,False
+131398,WA,Write-in,Nonpartisan,4838,2.345,False,False
+130257,WA,Approved,Nonpartisan,1956,72.903,False,False
+130257,WA,Rejected,Nonpartisan,727,27.097,False,False
+148831,WA,Jeremie Dufault,Republican,40083,94.362,True,False
+148831,WA,Write-in,Nonpartisan,2395,5.638,False,False
+181497,WA,Jerry Doyle,Independent,6614,56.939,False,False
+181497,WA,Pattie Gray,Republican,4967,42.76,False,False
+181497,WA,Write-in,Nonpartisan,35,0.301,False,False
+130535,WA,Yes,Nonpartisan,3267,71.755,False,False
+130535,WA,No,Nonpartisan,1286,28.245,False,False
+130758,WA,Zach Hall,Democratic,41267,56.569,True,False
+130758,WA,Michelle Bennett,Republican,31615,43.338,False,False
+130758,WA,Write-in,Nonpartisan,68,0.093,False,False
+181505,WA,Emily Clouse,Democratic,58956,52.341,False,False
+181505,WA,Nicolas Martinez-Dunning,Moderate Democrat,51644,45.849,False,False
+181505,WA,Write-in,Nonpartisan,2039,1.81,False,False
+130605,WA,Yes,Nonpartisan,1381,75.177,False,False
+130605,WA,No,Nonpartisan,456,24.823,False,False
+130187,WA,Katie Nagle,Republican,843,65.962,False,False
+130187,WA,Tereasa Summers,Democratic,433,33.881,False,False
+130187,WA,Write-in,Nonpartisan,2,0.156,False,False
+130817,WA,Bardi Martin,Nonpartisan,195116,66.133,False,False
+130817,WA,Nyjat Rose-Akins,Nonpartisan,98660,33.44,False,False
+130817,WA,Write-in,Nonpartisan,1259,0.427,False,False
+130613,WA,Kayla Meise,Republican,3113,96.08,False,False
+130613,WA,Write-in,Nonpartisan,127,3.92,False,False
+130252,WA,Scott Brummer,Republican,17704,53.561,False,False
+130252,WA,Michael Hadaller,Republican,14617,44.222,False,False
+130252,WA,Write-in,Nonpartisan,733,2.218,False,False
+130244,WA,Ed Orcutt,Republican,49521,62.671,True,False
+130244,WA,Evan Jones,Democratic,29338,37.129,False,False
+130244,WA,Write-in,Nonpartisan,158,0.2,False,False
+130680,WA,Approved,Nonpartisan,135706,62.641,False,False
+130680,WA,Rejected,Nonpartisan,80936,37.359,False,False
+130462,WA,Andrew Barkis,Republican,33709,56.968,True,False
+130462,WA,William Dehnel,Labor Democrat,25386,42.902,False,False
+130462,WA,Write-in,Nonpartisan,77,0.13,False,False
+181501,WA,Amber Waldref,Democratic,25173,93.261,False,False
+181501,WA,Write-in,Nonpartisan,1819,6.739,False,False
+130738,WA,David T Lewis III,Democratic,75270,69.345,False,False
+130738,WA,Brien Kennedy,Democratic,31256,28.796,False,False
+130738,WA,Write-in,Nonpartisan,2018,1.859,False,False
+130490,WA,Karl Williams,Nonpartisan,194710,97.141,False,False
+130490,WA,Write-in,Nonpartisan,5731,2.859,False,False
+130540,WA,Jenn Biggar,Republican,7659,55.089,False,False
+130540,WA,Andrea Jester,Republican,6065,43.624,False,False
+130540,WA,Write-in,Nonpartisan,179,1.287,False,False
+130322,WA,Ben Kokjer,Republican,14777,76.577,False,False
+130322,WA,Darryl Chepoda JR,Independent,4412,22.864,False,False
+130322,WA,Write-in,Nonpartisan,108,0.56,False,False
+130559,WA,Cassie Richardson,Democratic,8313,98.239,False,False
+130559,WA,Write-in,Nonpartisan,149,1.761,False,False
+130338,WA,Megan Valentine,Nonpartisan,14670,60.086,False,False
+130338,WA,David Mistachkin,Nonpartisan,9620,39.402,False,False
+130338,WA,Write-in,Nonpartisan,125,0.512,False,False
+130192,WA,Dolly Hunt,Republican,5126,96.991,False,False
+130192,WA,Write-in,Nonpartisan,159,3.009,False,False
+130184,WA,Justin E. Dixon,Republican,673,53.498,False,False
+130184,WA,Gary W. Bowles,No Party Preference,580,46.105,False,False
+130184,WA,Write-in,Nonpartisan,5,0.397,False,False
+130618,WA,Emily Wilcox,Independent,35340,98.665,False,False
+130618,WA,Write-in,Nonpartisan,478,1.335,False,False
+130200,WA,Levy Yes,Nonpartisan,3325,50.272,False,False
+130200,WA,Levy No,Nonpartisan,3289,49.728,False,False
+131399,WA,Anita Crawford-Willis,Nonpartisan,215490,98.869,False,False
+131399,WA,Write-in,Nonpartisan,2464,1.131,False,False
+130258,WA,Approved,Nonpartisan,2366,57.707,False,False
+130258,WA,Rejected,Nonpartisan,1734,42.293,False,False
+130694,WA,Glen Yung,Nonpartisan,21344,62.874,False,False
+130694,WA,Bryan Shull,Nonpartisan,12436,36.634,False,False
+130694,WA,Write-in,Nonpartisan,167,0.492,False,False
+130686,WA,Diana H. Perez,Democratic,42547,55.382,True,False
+130686,WA,David Stuebe,Republican,34157,44.461,False,False
+130686,WA,Write-in,Nonpartisan,120,0.156,False,False
+130536,WA,Approved,Nonpartisan,1123,60.637,False,False
+130536,WA,Rejected,Nonpartisan,729,39.363,False,False
+130759,WA,Lisa Callan,Democratic,42423,58.399,True,False
+130759,WA,Patrick Peacock,Republican,30148,41.502,False,False
+130759,WA,Write-in,Nonpartisan,72,0.099,False,False
+130555,WA,Wraylee Flodin,Republican,6818,94.275,False,False
+130555,WA,Write-in,Nonpartisan,414,5.725,False,False
+130544,WA,Tyler I. Caille,Republican,7609,53.411,False,False
+130544,WA,Adam Musgrove,Republican,6461,45.353,False,False
+130544,WA,Write-in,Nonpartisan,176,1.235,False,False
+130827,WA,Yes,Nonpartisan,4484,61.925,False,False
+130827,WA,No,Nonpartisan,2757,38.075,False,False
+130818,WA,Kuljinder K. Dhillon,Nonpartisan,214434,98.744,False,False
+130818,WA,Write-in,Nonpartisan,2727,1.256,False,False
+130402,WA,Michelle Enright,Republican,9503,97.727,False,False
+130402,WA,Write-in,Nonpartisan,221,2.273,False,False
+130196,WA,Tracy Arlene Staab,Nonpartisan,154989,96.819,False,False
+130196,WA,Write-in,Nonpartisan,5092,3.181,False,False
+131403,WA,Yes,Nonpartisan,245086,72.746,False,False
+131403,WA,No,Nonpartisan,91819,27.254,False,False
+130681,WA,Rejected,Nonpartisan,124805,58.184,False,False
+130681,WA,Approved,Nonpartisan,89697,41.816,False,False
+148836,WA,Josie Delvin,Republican,52125,96.759,False,False
+148836,WA,Write-in,Nonpartisan,1746,3.241,False,False
+130263,WA,Sheilah Crider,Independent,22090,51.964,False,False
+130263,WA,Barbara Fuller,Democratic,20314,47.786,False,False
+130263,WA,Write-in,Nonpartisan,106,0.249,False,False
+148837,WA,"Roy C. ""Dewey"" Holliday",Nonpartisan,19546,52.349,False,False
+148837,WA,Micah Valentine,Nonpartisan,17635,47.231,False,False
+148837,WA,Write-in,Nonpartisan,157,0.42,False,False
+130279,WA,Andrew Miller,Nonpartisan,25645,57.649,False,False
+130279,WA,Spencer Roozen,Nonpartisan,18724,42.091,False,False
+130279,WA,Write-in,Nonpartisan,116,0.261,False,False
+130271,WA,Yes,Nonpartisan,6428,56.85,False,False
+130271,WA,No,Nonpartisan,4879,43.15,False,False
+130764,WA,Kristine Reeves,Democratic,28558,65.426,True,False
+130764,WA,Paul McDaniel,Independent,14973,34.303,False,False
+130764,WA,Write-in,Nonpartisan,118,0.27,False,False
+130756,WA,Jeff Baker,Nonpartisan,3479,99.06,False,False
+130756,WA,Write-in,Nonpartisan,33,0.94,False,False
+130339,WA,Jon Martin,Nonpartisan,18596,97.936,False,False
+130339,WA,Write-in,Nonpartisan,392,2.064,False,False
+130772,WA,Julia Grant Reed,Democratic,69203,98.727,True,False
+130772,WA,Write-in,Nonpartisan,892,1.273,False,False
+130619,WA,Carolyn Fundingsland,Independent,35215,98.857,False,False
+130619,WA,Write-in,Nonpartisan,407,1.143,False,False
+130201,WA,Tammy Groom Ketterman,Republican,1613,98.474,False,False
+130201,WA,Write-in,Nonpartisan,25,1.526,False,False
+130635,WA,Jess Reddon,Independent,1982,99.199,False,False
+130635,WA,Write-in,Nonpartisan,16,0.801,False,False
+130627,WA,Kevin G. Blondin,Nonpartisan,32823,98.891,False,False
+130627,WA,Write-in,Nonpartisan,368,1.109,False,False
+130259,WA,Yes,Nonpartisan,20130,57.958,False,False
+130259,WA,No,Nonpartisan,14602,42.042,False,False
+130695,WA,Michelle Belkot,Nonpartisan,21339,52.03,False,False
+130695,WA,John Zingale,Nonpartisan,19523,47.602,False,False
+130695,WA,Write-in,Nonpartisan,151,0.368,False,False
+130275,WA,Alex Ramel,Democratic,57169,73.781,True,False
+130275,WA,Joseph Segault,No Party Preference,20095,25.934,False,False
+130275,WA,Write-in,Nonpartisan,221,0.285,False,False
+130267,WA,Rick Felici,Independent,22936,53.091,False,False
+130267,WA,Tavier Wasser,Democratic,20203,46.765,False,False
+130267,WA,Write-in,Nonpartisan,62,0.144,False,False
+130760,WA,David Hackney,Democratic,24921,56.81,True,False
+130760,WA,Ashley Fedan,Democratic,17458,39.798,False,False
+130760,WA,Write-in,Nonpartisan,1488,3.392,False,False
+130556,WA,Crystn Guenthner,No Party Preference,7499,80.152,False,False
+130556,WA,Kenneth Millar,No Party Preference,1803,19.271,False,False
+130556,WA,Write-in,Nonpartisan,54,0.577,False,False
+130335,WA,Shawn D. Hill,Democratic,14398,52.239,False,False
+130335,WA,Wes Cormier,Republican,13131,47.642,False,False
+130335,WA,Write-in,Nonpartisan,33,0.12,False,False
+130768,WA,Emily Alvarado,Democratic,60135,97.983,True,False
+130768,WA,Write-in,Nonpartisan,1238,2.017,False,False
+130623,WA,Ryan P. Jurvakainen,Independent,34727,98.889,False,False
+130623,WA,Write-in,Nonpartisan,390,1.111,False,False
+130403,WA,Andrea Morgan,Nonpartisan,6262,56.001,False,False
+130403,WA,Howie Kubik,Nonpartisan,4882,43.659,False,False
+130403,WA,Write-in,Nonpartisan,38,0.34,False,False
+130837,WA,Approved,Nonpartisan,17638,63.776,False,False
+130837,WA,Rejected,Nonpartisan,10018,36.224,False,False
+130419,WA,Jonathan Bingle,Republican,35863,56.636,True,False
+130419,WA,Julia Payne,Democratic,27329,43.159,False,False
+130419,WA,Write-in,Nonpartisan,130,0.205,False,False
+87517,WA,Amanda McKinney,Republican,130794,53.757,True,False
+87517,WA,John Duresky,Democratic,111948,46.012,False,False
+87517,WA,Write-in,Nonpartisan,562,0.231,False,False
+87518,WA,Michael Baumgartner,Republican,170519,52.221,True,False
+87518,WA,Carmela Conroy,Democratic,154843,47.42,False,False
+87518,WA,Write-in,Nonpartisan,1173,0.359,False,False
+87523,WA,Marilyn Strickland,Democratic,176487,63.946,True,False
+87523,WA,Chris D. Chung,Republican,97853,35.455,False,False
+87523,WA,Write-in,Nonpartisan,1655,0.6,False,False
+87522,WA,Adam Smith,Democratic,191135,75.702,True,False
+87522,WA,Doug Basler,Republican,59506,23.568,False,False
+87522,WA,Write-in,Nonpartisan,1841,0.729,False,False
+87516,WA,Marie Gluesenkamp Perez,Democratic,190131,53.673,True,False
+87516,WA,John Braun,Republican,160815,45.397,False,False
+87516,WA,Write-in,Nonpartisan,3296,0.93,False,False
+87521,WA,Kim Schrier,Democratic,194450,57.092,True,False
+87521,WA,Spencer Meline,Republican,145258,42.649,False,False
+87521,WA,Write-in,Nonpartisan,880,0.258,False,False
+87515,WA,Rick Larsen,Democratic,231326,66.505,True,False
+87515,WA,Edwin H. Feller,Republican,115142,33.103,False,False
+87515,WA,Write-in,Nonpartisan,1365,0.392,False,False
+87520,WA,Pramila Jayapal,Democratic,326508,87.602,True,False
+87520,WA,Nirav Sheth,Republican,44850,12.033,False,False
+87520,WA,Write-in,Nonpartisan,1359,0.365,False,False
+87514,WA,Suzan DelBene,Democratic,199211,67.483,True,False
+87514,WA,Mary Silva,Republican,95059,32.201,False,False
+87514,WA,Write-in,Nonpartisan,931,0.315,False,False
+87519,WA,Emily Randall,Democratic,224615,62.47,True,False
+87519,WA,Teresa Fox,Republican,134227,37.332,False,False
+87519,WA,Write-in,Nonpartisan,712,0.198,False,False

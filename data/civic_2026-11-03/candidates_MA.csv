@@ -1,0 +1,414 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+87278,MA,William Francis Galvin,Democratic,1838868,71.272,True,False
+87278,MA,Anne R. Brensley,Republican,741213,28.728,False,False
+179839,MA,Yes,Nonpartisan,1621264,63.999,True,False
+179839,MA,No,Nonpartisan,912004,36.001,False,False
+87279,MA,Deborah B. Goldberg,Democratic,1679167,65.928,True,False
+87279,MA,Elizabeth Dionne,Republican,867821,34.072,False,False
+179842,MA,No,Nonpartisan,1328039,52.303,True,False
+179842,MA,Yes,Nonpartisan,1211076,47.697,False,False
+179844,MA,No,Nonpartisan,1290724,50.641,True,False
+179844,MA,Yes,Nonpartisan,1258029,49.359,False,False
+87277,MA,Andrea Joy Campbell,Democratic,1693869,65.591,True,False
+87277,MA,Michael C. Walsh,Republican,888607,34.409,False,False
+179845,MA,No,Nonpartisan,1967235,75.633,True,False
+179845,MA,Yes,Nonpartisan,633790,24.367,False,False
+87280,MA,Diana DiZoglio,Democratic,0,,False,False
+87280,MA,Al Ozonoff,Libertarian,0,,False,False
+159532,MA,Democratic,Democratic,416624,65.732,False,False
+159532,MA,Republican,Republican,179184,28.27,False,False
+159532,MA,Independent,Independent,38019,5.998,False,False
+179843,MA,Yes,Nonpartisan,1550437,60.833,True,False
+179843,MA,No,Nonpartisan,998261,39.167,False,False
+179838,MA,Yes,Nonpartisan,2204690,85.922,True,False
+179838,MA,No,Nonpartisan,361223,14.078,False,False
+179840,MA,No,Nonpartisan,1568861,61.037,True,False
+179840,MA,Yes,Nonpartisan,1001466,38.963,False,False
+179846,MA,Yes,Nonpartisan,1758752,67.341,True,False
+179846,MA,No,Nonpartisan,852976,32.659,False,False
+179841,MA,Yes,Nonpartisan,1448697,56.365,True,False
+179841,MA,No,Nonpartisan,1121515,43.635,False,False
+159531,MA,Democratic,Democratic,485604,58.063,False,False
+159531,MA,Republican,Republican,313717,37.511,False,False
+159531,MA,Independent,Independent,24450,2.923,False,False
+159531,MA,Gulf War Veteran,Gulf War Veteran,6798,0.813,False,False
+159531,MA,Workers Party,Workers Party,4846,0.579,False,False
+159531,MA,Transparency Inclusion Environment,Transparency Inclusion Environment,923,0.11,False,False
+87276,MA,Maura Healey,Democratic,1629013,61.991,True,False
+87276,MA,Michael Roger Minogue,Republican,912354,34.719,False,False
+87276,MA,Andrea James,Independent,86471,3.291,False,False
+153519,MA,Adam Gomez,Democratic,0,,True,False
+153683,MA,Rob Consalvo,Democratic,0,,True,False
+153623,MA,Tara Hong,Democratic,0,,True,False
+153570,MA,Adam J. Scanlon,Democratic,0,,True,False
+153766,MA,Brian O'Malley,Nonpartisan,0,,False,False
+153600,MA,Carlos Gonzalez,Democratic,0,,True,False
+153514,MA,Pavel M. Payano,Democratic,0,,True,False
+153547,MA,John Cronin,Democratic,45723,79.786,True,False
+153547,MA,Ming Zhang,Unenrolled,11584,20.214,False,False
+153750,MA,Ryan James Walker,Nonpartisan,0,,False,False
+153722,MA,Daphne DeVries,Democratic,0,,False,False
+153694,MA,John J. Marsi Jr.,Republican,8536,58.318,True,False
+153694,MA,Jeanne Renaud Costello,Democratic,6101,41.682,False,False
+153634,MA,Steven Charles Owens,Democratic,0,,True,False
+153606,MA,Margaret R. Scarsdale,Democratic,12574,59.768,True,False
+153606,MA,Christopher M. Lyons,Republican,8464,40.232,False,False
+153639,MA,Will Mbah,Democratic,0,,True,False
+153745,MA,Luiz Gonzaga,Nonpartisan,0,,False,False
+153579,MA,Donald H. Wong,Republican,10166,55.038,True,False
+153579,MA,Peter Meaney,Democratic,8305,44.962,False,False
+153717,MA,Timothy J. Cruz,Republican,0,,False,False
+153537,MA,Patrick M. O'Connor,Republican,0,,True,False
+153733,MA,Christopher T. Saunders,Democratic,0,,False,False
+153673,MA,David M. Biele,Democratic,9802,78.335,True,False
+153673,MA,Charles J. Delaney,Independent,2711,21.665,False,False
+153613,MA,James C. Arena-DeRosa,Democratic,0,,True,False
+153678,MA,John Francis Moran,Democratic,0,,True,False
+153560,MA,Steven S. Howitt,Republican,0,,True,False
+153618,MA,Ravi Simon,Democratic,0,,True,False
+153532,MA,John F. Keenan,Democratic,40211,73.074,True,False
+153532,MA,Alexander Mendez,Independent,14817,26.926,False,False
+153565,MA,Edward M. Pacheco,Democratic,9558,56.088,True,False
+153565,MA,Chester M. Tam,Republican,7483,43.912,False,False
+153768,MA,Ryan D. Curley,Nonpartisan,0,,False,False
+153740,MA,Rhonda L. Nyman,Democratic,0,,False,False
+153740,MA,Anthony Thomas O'Brien Sr.,Republican,0,,False,False
+153712,MA,Anthony D. Gulluni,Democratic,0,,False,False
+153652,MA,Jeffrey N. Roy,Democratic,0,,True,False
+153592,MA,Brian Michael Ashe,Democratic,12203,64.223,True,False
+153592,MA,Peter Warren,Republican,6798,35.777,False,False
+153657,MA,Tommy Vitolo,Democratic,0,,True,False
+153571,MA,Dawne Frances Shand,Democratic,0,,True,False
+153629,MA,David M. Rogers,Democratic,0,,True,False
+153608,MA,Kate Hogan,Democratic,0,,True,False
+153555,MA,Tricia Farley-Bouvier,Democratic,0,,True,False
+153527,MA,Kate Lipper-Garabedian,Democratic,0,,True,False
+153691,MA,Michael P. Kushmerek,Democratic,0,,True,False
+153663,MA,Kenneth Peter Sweezey,Republican,11094,54.715,True,False
+153663,MA,Jessica Marie Rushing,Democratic,9182,45.285,False,False
+153504,MA,Eunice Delice Zeigler,Democratic,0,,False,False
+153504,MA,William Falcetano,Republican,0,,False,False
+153635,MA,Richard M. Haggerty,Democratic,0,,True,False
+153700,MA,Meghan Kilcoyne,Democratic,12481,62.782,True,False
+153700,MA,Lisa K. Mair,Republican,7399,37.218,False,False
+153647,MA,Mark J. Cusack,Democratic,10676,69.424,True,False
+153647,MA,Stephen M. Foley,Unenrolled,4702,30.576,False,False
+153587,MA,Frank A. Moran,Democratic,0,,True,False
+153758,MA,Charles L. Sumner,Nonpartisan,0,,False,False
+153730,MA,Matthew Joseph McDonough,Democratic,0,,False,False
+153510,MA,Michael J. Rodrigues,Democratic,32898,57.222,True,False
+153510,MA,Gabriel Boomer Amaral,Republican,24594,42.778,False,False
+153735,MA,Thomas J. O'Brien,Democratic,0,,False,False
+153642,MA,Danillo A. Sena,Democratic,0,,True,False
+153707,MA,Kate Donaghue,Democratic,0,,True,False
+153626,MA,Kenneth Ira Gordon,Democratic,0,,True,False
+153598,MA,Shirley Arriaga,Democratic,0,,True,False
+153545,MA,Ryan C. Fattman,Republican,0,,True,False
+153517,MA,Bruce E. Tarr,Republican,0,,True,False
+153550,MA,Kip A. Diggs,Democratic,0,,True,False
+153681,MA,Brandy Fluker Reid,Democratic,0,,True,False
+153522,MA,Joanne M. Comerford,Democratic,0,,True,False
+153621,MA,Lorena G. Betts,Democratic,7933,68.235,True,False
+153621,MA,Karla J. Miller,Republican,3693,31.765,False,False
+153686,MA,Kevin G. Honan,Democratic,0,,True,False
+153697,MA,David Kent Muradian Jr.,Republican,0,,True,False
+153669,MA,Kathleen LaNatra,Democratic,11668,56.386,True,False
+153669,MA,Eric J. Meschino,Republican,9025,43.614,False,False
+153577,MA,Manny Cruz,Democratic,0,,True,False
+153748,MA,John Walter Ohman,Nonpartisan,0,,False,False
+153582,MA,Thomas P. Walsh,Democratic,0,,True,False
+153720,MA,Kenneth Paul Ferris,Democratic,0,,False,False
+153753,MA,Brian O'Malley,Nonpartisan,0,,False,False
+153692,MA,Natalie Marie Higgins,Democratic,8075,61.398,True,False
+153692,MA,Josh William Bowdridge,Republican,5077,38.602,False,False
+153725,MA,Rosemary A. Saccomani,Democratic,0,,False,False
+153512,MA,Kelly A. Dooner,Republican,0,,True,False
+153676,MA,Chynah T. Tyler,Democratic,0,,True,False
+153616,MA,Amy Mah Sangiolo,Democratic,0,,True,False
+153563,MA,Alan Silvia,Democratic,4623,62.855,True,False
+153563,MA,Talos D. Farris,Republican,2732,37.145,False,False
+153535,MA,Rebecca L. Rausch,Democratic,0,,True,False
+153568,MA,Norman J. Orrall,Republican,0,,True,False
+153731,MA,Stephanie L. Everett,Democratic,0,,False,False
+153764,MA,Rodney Clay Collins,Nonpartisan,0,,False,False
+153743,MA,Benjamin F. Robinson,Nonpartisan,0,,False,False
+153743,MA,Ernest Douglas Sederholm,Nonpartisan,0,,False,False
+153743,MA,Brian Conway Smith,Nonpartisan,0,,False,False
+153743,MA,Frederick Khedouri,Nonpartisan,0,,False,False
+153743,MA,Katherine E. Putnam,Nonpartisan,0,,False,False
+153715,MA,Marian T. Ryan,Democratic,0,,False,False
+153655,MA,Joshua Brian Tarsky,Democratic,0,,True,False
+153595,MA,Patricia A. Duffy,Democratic,8360,78.794,True,False
+153595,MA,Jose Ramon Candelario Gonzalez,Independent,2250,21.206,False,False
+153574,MA,Estela Reyes,Democratic,0,,True,False
+153632,MA,Ben Ewen-Campen,Democratic,0,,True,False
+153738,MA,Tristan R. Israel,Democratic,0,,False,False
+153738,MA,Douglas Ruskin,Democratic,0,,False,False
+153738,MA,Christine CS Todd,Democratic,0,,False,False
+153738,MA,Richard G. Wharton,Democratic,0,,False,False
+153738,MA,Michael Charles Bellissimo,Democratic,0,,False,False
+153738,MA,Randal Scot Milch,Independent,0,,False,False
+153738,MA,Katherine E. Putnam,Unenrolled,0,,False,False
+153604,MA,Homar Gomez,Democratic,0,,True,False
+153558,MA,James Kimball Hawkins,Democratic,9986,74.757,True,False
+153558,MA,Andrew Nelson,Workers Party,3372,25.243,False,False
+153530,MA,James Bradley Eldridge,Democratic,55401,73.627,True,False
+153530,MA,Joseph Timothy Shea,Republican,19844,26.373,False,False
+153502,MA,Mara Dolan,Democratic,0,,False,False
+153666,MA,Bridget Marie Plouffe,Democratic,11031,65.45,True,False
+153666,MA,Lawrence Peter Novak,Republican,5823,34.55,False,False
+153638,MA,Steven Ultrino,Democratic,0,,True,False
+153671,MA,Daniel J. Ryan,Democratic,0,,True,False
+153553,MA,Steven G. Xiarhos,Republican,0,,True,False
+153611,MA,Priscila S. Sousa,Democratic,0,,True,False
+153525,MA,Michael J. Barrett,Democratic,0,,True,False
+153761,MA,John Terence Gallagher,Nonpartisan,0,,False,False
+153541,MA,Lydia Marie Edwards,Democratic,0,,True,False
+153705,MA,David Henry Argosky LeBoeuf,Democratic,0,,True,False
+153645,MA,Ronald Mariano,Democratic,0,,True,False
+153710,MA,Robert Joseph Galibois,Democratic,0,,False,False
+153585,MA,Ryan M. Hamilton,Democratic,10756,61.884,True,False
+153585,MA,Ronald L. Heiseler III,Republican,6625,38.116,False,False
+153650,MA,Ted Philips,Democratic,0,,True,False
+153756,MA,Susan Lee Warner,Nonpartisan,0,,False,False
+153590,MA,Susannah M. Whipps,Independent,0,,True,False
+153601,MA,Bud L. Williams,Democratic,0,,True,False
+153548,MA,Thomas W. Moakley,Democratic,0,,True,False
+153520,MA,John Christopher Velis,Democratic,0,,True,False
+153684,MA,Samantha Montaño,Democratic,0,,True,False
+153624,MA,David Allen Robertson,Democratic,0,,True,False
+153689,MA,Krista Suzanne Ferrante,Democratic,11630,53.305,True,False
+153689,MA,Stephanie R. Mulroy,Republican,10188,46.695,False,False
+153596,MA,Michael James Finn,Democratic,0,,True,False
+153661,MA,Patrick Joseph Kearney,Democratic,0,,True,False
+153640,MA,Paul J. Donato,Democratic,10256,81.78,True,False
+153640,MA,James C. Seibel,Republican,2285,18.22,False,False
+153580,MA,Daniel Francis Cahill,Democratic,0,,True,False
+153751,MA,Elizabeth Rhodes Harder,Nonpartisan,0,,False,False
+153723,MA,Pamela Casey O'Brien,Democratic,0,,False,False
+153695,MA,Paul K. Frost,Republican,9615,49.757,True,False
+153695,MA,Nicholas Lazzaro,Democratic,8457,43.764,False,False
+153695,MA,Terry Burke Dotson,Independent,1252,6.479,False,False
+153728,MA,Sarah Elizabeth Maxwell,Democratic,0,,False,False
+153667,MA,Michelle Marie DuBois,Democratic,0,,True,False
+153508,MA,Paul W. Mark,Democratic,0,,True,False
+153679,MA,William F. MacGregor,Democratic,14838,90.964,True,False
+153679,MA,Devin Allen Kreinbring,Workers Party,1474,9.036,False,False
+153619,MA,Simon J. Cataldo,Democratic,0,,True,False
+153566,MA,Mark D. Sylvia,Democratic,12454,59.361,True,False
+153566,MA,Brendalee A. Smith,Republican,8526,40.639,False,False
+153538,MA,Michael D. Brady,Democratic,0,,True,False
+153734,MA,Michael G. Bellotti,Democratic,0,,False,False
+153543,MA,Robyn Kennedy,Democratic,0,,True,False
+153674,MA,Christopher J. Worrell,Democratic,0,,True,False
+153515,MA,Joan B. Lovely,Democratic,0,,True,False
+153658,MA,Michelle L. Badger,Democratic,14221,59.569,True,False
+153658,MA,David Michael Golden Jr.,Republican,9652,40.431,False,False
+153630,MA,Marjorie C. Decker,Democratic,0,,True,False
+153769,MA,Robert C. Lawton Jr.,Nonpartisan,0,,False,False
+153741,MA,Lori M. Streeter,Democratic,0,,False,False
+153741,MA,Gary Edward Gagnon,Independent,0,,False,False
+153741,MA,Jon J. Hall,Unenrolled,0,,False,False
+153575,MA,Andrew Francis Robert Tarr,Democratic,14507,64.29,True,False
+153575,MA,Christina Delisio,Republican,7135,31.62,False,False
+153575,MA,Gil Frieden,Transparency Inclusion Environment,923,4.09,False,False
+153713,MA,Joseph D. Early Jr.,Democratic,0,,False,False
+153746,MA,Karl Peter Fryzel,Nonpartisan,0,,False,False
+153653,MA,Paul McMurtry,Democratic,0,,True,False
+153718,MA,Kevin R. Hayden,Democratic,0,,False,False
+153505,MA,Terrence W. Kennedy,Democratic,0,,False,False
+153701,MA,John J. Mahoney,Democratic,0,,True,False
+153609,MA,Danielle W. Gregoire,Democratic,0,,True,False
+153556,MA,Leigh Susan Davis,Democratic,0,,True,False
+153614,MA,Thomas M. Stanley,Democratic,0,,True,False
+153528,MA,Karen E. Spilka,Democratic,0,,True,False
+153561,MA,Justin E. Thurber,Republican,10048,54.728,True,False
+153561,MA,Jamison D. Souza,Democratic,8312,45.272,False,False
+153500,MA,Joseph C. Ferreira,Democratic,0,,False,False
+153533,MA,William J. Driscoll Jr.,Democratic,0,,True,False
+153736,MA,Daniel A. Gessen,Democratic,0,,False,False
+153736,MA,Adam Michael Hogue,Republican,0,,False,False
+153708,MA,Timothy J. Shugrue,Democratic,0,,False,False
+153648,MA,Lisa R. Lopez,Democratic,0,,True,False
+153588,MA,Connor A. Murray,Democratic,11790,61.705,True,False
+153588,MA,Christopher C. Shepley,Republican,7317,38.295,False,False
+153759,MA,Thomas H. Clarke Jr.,Nonpartisan,0,,False,False
+153759,MA,Seth Thomas Taylor,Nonpartisan,0,,False,False
+153593,MA,Nicholas A. Boldyga,Republican,10325,53.925,True,False
+153593,MA,Thomas D. Hendrickson,Democratic,7008,36.601,False,False
+153593,MA,Jason M. Perron,Independent,1814,9.474,False,False
+153539,MA,Nicholas P. Collins,Democratic,0,,True,False
+153572,MA,Kristin Elena Kassner,Democratic,14444,59.185,True,False
+153572,MA,Daniel James Kelly,Republican,9961,40.815,False,False
+153551,MA,Jack Peter Richardson,Democratic,12308,51.734,True,False
+153551,MA,David T. Vieira,Republican,11483,48.266,False,False
+153523,MA,Vanna Howard,Democratic,27422,58.433,True,False
+153523,MA,Sam Meas,Republican,12435,26.497,False,False
+153523,MA,Joe Espinola,Independent,7072,15.07,False,False
+153687,MA,Michael J. Moran,Democratic,0,,True,False
+153627,MA,Daniel Ronald Darris-O'Connor,Democratic,8968,51.252,True,False
+153627,MA,Marc T. Lombardo,Republican,8530,48.748,False,False
+153599,MA,Orlando Ramos,Democratic,0,,True,False
+153664,MA,Alyson M. Sullivan-Almeida,Republican,10689,58.615,True,False
+153664,MA,Rosemary Aahanna-Hill,Democratic,7547,41.385,False,False
+153546,MA,Peter J. Durant,Republican,37888,53.956,True,False
+153546,MA,Shannon M. Teabo,Democratic,32332,46.044,False,False
+153636,MA,Michael Seamus Day,Democratic,12991,68.198,True,False
+153636,MA,Stephen G. Ternullo,Republican,6058,31.802,False,False
+153583,MA,Sally Patrice Kerans,Democratic,0,,True,False
+153754,MA,James J. Killion,Nonpartisan,0,,False,False
+153726,MA,Mark Smith Ames,Democratic,0,,False,False
+153698,MA,Brian W. Murray,Democratic,0,,True,False
+153670,MA,Adrian C. Madaro,Democratic,0,,True,False
+153703,MA,Mary S. Keefe,Democratic,0,,True,False
+153578,MA,Jennifer WB Armini,Democratic,0,,True,False
+153643,MA,Bruce J. Ayers,Democratic,0,,True,False
+153749,MA,John Terence Gallagher,Nonpartisan,0,,False,False
+153569,MA,Antonio F.D. Cabral,Democratic,0,,True,False
+153765,MA,Marilyn Marie Bruneau,Nonpartisan,0,,False,False
+153513,MA,Julian Cyr,Democratic,0,,True,False
+153677,MA,Jay D. Livingstone,Democratic,0,,True,False
+153518,MA,Barry R. Finegold,Democratic,48944,63.716,True,False
+153518,MA,Theodore T. Semesnyei,Republican,27872,36.284,False,False
+153617,MA,Greg Schwartz,Democratic,0,,True,False
+153682,MA,Daniel J. Hunt,Democratic,0,,True,False
+153564,MA,Jesse W. St. Gelais,Republican,9006,51.307,True,False
+153564,MA,Steven J. Ouellette,Democratic,8547,48.693,False,False
+153622,MA,John M. Drinkwater,Democratic,0,,True,False
+153633,MA,Joseph W. McGonagle,Democratic,0,,True,False
+153605,MA,Mindy Domb,Democratic,0,,True,False
+153744,MA,Frank George Frederickson,Nonpartisan,0,,False,False
+153744,MA,Isabelle Kerxhalli Caplan,Nonpartisan,0,,False,False
+153716,MA,David E. Sullivan,Democratic,0,,False,False
+153656,MA,Alice Hanlon Peisch,Democratic,0,,True,False
+153721,MA,Thomas Cleary Hoye Jr.,Democratic,0,,False,False
+153721,MA,Melanie Patenaude Layden,Independent,0,,False,False
+153628,MA,Sean Garballey,Democratic,0,,True,False
+153693,MA,Donald Roger Berthiaume Jr.,Republican,0,,True,False
+153672,MA,Aaron Michlewitz,Democratic,0,,True,False
+153612,MA,Jack Patrick Lewis,Democratic,0,,True,False
+153559,MA,Lisa M. Field,Democratic,9068,58.285,True,False
+153559,MA,Lawrence Joseph Quintal,Republican,6490,41.715,False,False
+153531,MA,Cynthia Stone Creem,Democratic,0,,True,False
+153503,MA,Christopher A. Iannella Jr.,Democratic,0,,False,False
+153536,MA,Dylan A. Fernandes,Democratic,55533,59.915,True,False
+153536,MA,Kari Della MacRae,Republican,37153,40.085,False,False
+153699,MA,Hannah Elizabeth Kane,Republican,0,,True,False
+153732,MA,Stephanie K. Fattman,Republican,0,,False,False
+153711,MA,Paul F. Tucker,Democratic,0,,False,False
+153651,MA,Marcus S. Vaughn,Republican,11252,52.352,True,False
+153651,MA,Thomas R. Melville,Democratic,10241,47.648,False,False
+153591,MA,Todd M. Smola,Republican,0,,True,False
+153762,MA,Robert Philip Mascali,Nonpartisan,0,,False,False
+153542,MA,William N. Brownsberger,Democratic,43892,90.615,True,False
+153542,MA,Brandon Charles Wood,Unenrolled,4546,9.385,False,False
+153767,MA,James J. Killion,Nonpartisan,0,,False,False
+153706,MA,Joseph D. McKenna,Republican,11061,57.361,True,False
+153706,MA,Jenifer Heck,Democratic,8222,42.639,False,False
+153739,MA,Peter Hugh Collins,Democratic,0,,False,False
+153690,MA,Michael Joseph Nicholson,Democratic,8453,55.678,True,False
+153690,MA,John D. Reilly Jr.,Unenrolled,6729,44.322,False,False
+153662,MA,David F. DeCoste,Republican,11932,55.108,True,False
+153662,MA,Lori Childs,Democratic,9720,44.892,False,False
+153602,MA,Angelo J. Puppolo Jr.,Democratic,0,,True,False
+153549,MA,Christopher Lambton,Democratic,15028,68.854,True,False
+153549,MA,Joe B. Glynn,Gulf War Veteran,6798,31.146,False,False
+153607,MA,James Arciero,Democratic,0,,True,False
+153521,MA,Jacob R. Oliveira,Democratic,0,,True,False
+153554,MA,John Barrett III,Democratic,0,,True,False
+153685,MA,Jessica Ann Giannino,Democratic,0,,True,False
+153526,MA,Cindy F. Friedman,Democratic,0,,True,False
+153729,MA,Colleen Marie Brierley,Democratic,0,,False,False
+153509,MA,Paul Richard Feeney,Democratic,0,,True,False
+153641,MA,Colleen M. Garry,Democratic,0,,True,False
+153581,MA,Sean Daniel Reid,Democratic,0,,True,False
+153646,MA,James Michael Murphy,Democratic,0,,True,False
+153752,MA,Neal Vincent Ahern,Nonpartisan,0,,False,False
+153586,MA,Celina A. Reyes,Democratic,0,,True,False
+153724,MA,Daniel Francis Graves,Democratic,0,,False,False
+153757,MA,Patrick M. Princi,Nonpartisan,0,,False,False
+153544,MA,Michael O. Moore,Democratic,0,,True,False
+153516,MA,Brendan Peter Crighton,Democratic,0,,True,False
+153680,MA,Judith Garcia,Democratic,0,,True,False
+153620,MA,Michelle Ciccolo,Democratic,0,,True,False
+153567,MA,Christopher M. Hendricks,Democratic,0,,True,False
+153625,MA,Joseph Markey,Democratic,11932,55.485,True,False
+153625,MA,Trevor David Currier,Republican,9573,44.515,False,False
+153763,MA,Elizabeth Rhodes Harder,Nonpartisan,0,,False,False
+153597,MA,Aaron L. Saunders,Democratic,0,,True,False
+153576,MA,Hannah Louise Bowen,Democratic,0,,True,False
+153747,MA,Thomas H. Clarke Jr.,Nonpartisan,0,,False,False
+153719,MA,Anastasia Welsh Perrino,Republican,0,,False,False
+153659,MA,Sarah G. Hewins,Democratic,9264,50.241,False,False
+153659,MA,John Robert Gaskey,Republican,9175,49.759,False,False
+153631,MA,Mike Connolly,Democratic,0,,True,False
+153696,MA,Michael J. Soter,Republican,0,,True,False
+153603,MA,Lindsay N. Sabadosa,Democratic,0,,True,False
+153668,MA,Rita A. Mendes,Democratic,0,,True,False
+153615,MA,John J. Lawn,Democratic,0,,True,False
+153562,MA,Carole A. Fiola,Democratic,6833,59.828,True,False
+153562,MA,Robert G. Anctil,Republican,4588,40.172,False,False
+153534,MA,Persis S. Yu,Democratic,0,,True,False
+153506,MA,Paul M. DePalo,Democratic,0,,False,False
+153506,MA,Margaret M. Abboud,Republican,0,,False,False
+153702,MA,James J. O'Day,Democratic,0,,True,False
+153511,MA,Mark C.W. Montigny,Democratic,34268,63.854,True,False
+153511,MA,Robert Scott McConnell,Republican,19398,36.146,False,False
+153610,MA,David Paul Linsky,Democratic,14817,77.98,True,False
+153610,MA,Luisa A. Cestari,Republican,4184,22.02,False,False
+153675,MA,Russell Earl Holmes,Democratic,0,,True,False
+153557,MA,Michael Chaisson,Republican,0,,True,False
+153594,MA,Kelly W. Pease,Republican,10060,60.668,True,False
+153594,MA,Colby Walshe Hoffman,Democratic,6522,39.332,False,False
+153573,MA,Andres Xavier Vargas,Democratic,0,,True,False
+153737,MA,John Thomas Saunders,Democratic,0,,False,False
+153709,MA,Seth Thomas Aitken,Republican,0,,False,False
+153709,MA,Christopher Matthew Markey,Democratic,0,,False,False
+153742,MA,Jane M. Peirce,Nonpartisan,0,,False,False
+153649,MA,Richard Gerard Wells Jr.,Democratic,0,,True,False
+153714,MA,Djuna Elizabeth Perkins,Democratic,0,,False,False
+153714,MA,Joseph Michael Pagliarulo,Unenrolled,0,,False,False
+153589,MA,Lora L. Wondolowski,Democratic,14211,74.004,True,False
+153589,MA,Amy E. Lavallee,Unenrolled,4992,25.996,False,False
+153654,MA,John Healy Rogers,Democratic,0,,True,False
+153665,MA,Dennis C. Gallagher,Democratic,9332,54.781,True,False
+153665,MA,John Edward Norris,Republican,7703,45.219,False,False
+153637,MA,Leila Bhatti Migliorelli,Democratic,0,,True,False
+153552,MA,Hadley Luddy,Democratic,0,,True,False
+153524,MA,Erika Uyterhoeven,Democratic,0,,True,False
+153688,MA,Jeffrey Rosario Turco,Democratic,0,,True,False
+153529,MA,Sal N. DiDomenico,Democratic,0,,True,False
+153660,MA,Joan Meschino,Democratic,0,,True,False
+153501,MA,Tamisha L. Civil,Democratic,0,,False,False
+153501,MA,Francis T. Crimmins Jr.,Republican,0,,False,False
+153704,MA,Daniel M. Donahue,Democratic,0,,True,False
+153644,MA,Tackey Chan,Democratic,10369,72.333,True,False
+153644,MA,Sharon Marie Cintolo,Republican,3966,27.667,False,False
+153584,MA,Adrianne Pusateri Ramos,Democratic,0,,True,False
+153755,MA,Ryan D. Curley,Nonpartisan,0,,False,False
+153727,MA,Tara E. DeCristofaro,Democratic,0,,False,False
+153727,MA,Tara Martorella,Justice for All,0,,False,False
+153760,MA,John Walter Ohman,Nonpartisan,0,,False,False
+153507,MA,Tara J. Jacobs,Democratic,0,,False,False
+153540,MA,Liz Miranda,Democratic,0,,True,False
+87268,MA,Lori Loureiro Trahan,Democratic,174853,67.202,True,False
+87268,MA,Gary J. Grossi,Republican,78849,30.304,False,False
+87268,MA,Dennis R. Conlon,Unenrolled,6488,2.494,False,False
+87266,MA,Richard E. Neal,Democratic,177639,65.434,True,False
+87266,MA,Nadia Donya Milleron,Independent/Unenrolled,93840,34.566,False,False
+87267,MA,James P. McGovern,Democratic,198782,100.0,True,False
+87272,MA,Ayanna S. Pressley,Democratic,158384,100.0,True,False
+87270,MA,Katherine M. Clark,Democratic,206925,100.0,True,False
+87271,MA,Dan Koh,Democratic,206663,63.402,True,False
+87271,MA,Micah Quinney Jones,Republican,119293,36.598,False,False
+87269,MA,Jake Auchincloss,Democratic,192770,66.383,True,False
+87269,MA,Thomas Stalcup,Republican,97619,33.617,False,False
+87274,MA,Bill Keating,Democratic,213587,60.874,True,False
+87274,MA,R. Tyler Macallister,Republican,137282,39.126,False,False
+87275,MA,Edward J. Markey,Democratic,1654264,63.404,True,False
+87275,MA,John Deaton,Republican,838220,32.127,False,False
+87275,MA,Shiva Ayyadurai,Independent,59939,2.297,False,False
+87275,MA,Joe Tache,Socialism and Liberation,56679,2.172,False,False
+87273,MA,Stephen F. Lynch,Democratic,195606,69.412,True,False
+87273,MA,Robert G. Burke,Republican,75619,26.834,False,False
+87273,MA,Rasheed Nicholas Walters,Independent,10579,3.754,False,False

@@ -1,0 +1,1287 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+179725,RI,Yes,Nonpartisan,213183,61.341,True,False
+179725,RI,No,Nonpartisan,134355,38.659,False,False
+159566,RI,Democratic,Democratic,250030,82.807,False,False
+159566,RI,Republican,Republican,37088,12.283,False,False
+159566,RI,Nonpartisan,Nonpartisan,9900,3.279,False,False
+159566,RI,Independent,Independent,4926,1.631,False,False
+87400,RI,Kimberly Ahern,Democratic,234202,66.35,True,False
+87400,RI,Alan Leonard Gordon,Republican,117864,33.391,False,False
+87400,RI,Write-in,Nonpartisan,912,0.258,False,False
+87401,RI,James A. Diossa,Democratic,229097,65.24,True,False
+87401,RI,Micholas A. Credle,Republican,121344,34.555,False,False
+87401,RI,Write-in,Nonpartisan,719,0.205,False,False
+87399,RI,Gregg M. Amore,Democratic,275571,95.702,True,False
+87399,RI,Write-in,Nonpartisan,12377,4.298,False,False
+179728,RI,Yes,Nonpartisan,232619,67.106,True,False
+179728,RI,No,Nonpartisan,114027,32.894,False,False
+159565,RI,Democratic,Democratic,234971,76.657,False,False
+159565,RI,Republican,Republican,54162,17.67,False,False
+159565,RI,Nonpartisan,Nonpartisan,8891,2.901,False,False
+159565,RI,Independent,Independent,7861,2.565,False,False
+159565,RI,Socialist,Socialist,636,0.207,False,False
+179727,RI,No,Nonpartisan,174510,50.599,False,False
+179727,RI,Yes,Nonpartisan,170378,49.401,False,False
+87397,RI,Helena Buonanno Foulkes,Democratic,207600,57.713,True,False
+87397,RI,Kenneth Block,Independent,99835,27.754,False,False
+87397,RI,Aaron C. Guckian,Republican,47402,13.178,False,False
+87397,RI,C. D. Reynolds,Independent,2050,0.57,False,False
+87397,RI,Jasjit S. Gotra,Independent,1674,0.465,False,False
+87397,RI,Write-in,Nonpartisan,1148,0.319,False,False
+179726,RI,No,Nonpartisan,178645,52.303,True,False
+179726,RI,Yes,Nonpartisan,162914,47.697,False,False
+87398,RI,Sabina Matos,Democratic,211626,59.349,True,False
+87398,RI,John J. Loughlin II,Republican,143885,40.352,False,False
+87398,RI,Write-in,Nonpartisan,1068,0.3,False,False
+179724,RI,Yes,Nonpartisan,209110,60.018,True,False
+179724,RI,No,Nonpartisan,139303,39.982,False,False
+179656,RI,Brett W. Fox,Independent,4704,25.675,False,False
+179656,RI,Valerie A. Seveney,Democratic,4681,25.55,False,False
+179656,RI,Isabelle Kelly,Democratic,4427,24.164,False,False
+179656,RI,Tasha MacGibbon,Democratic,4345,23.716,False,False
+179656,RI,Write-in,Nonpartisan,164,0.895,False,False
+179704,RI,Anthony E. Sinapi,Democratic,2266,94.812,False,False
+179704,RI,Write-in,Nonpartisan,124,5.188,False,False
+179706,RI,Shaun Patrick Galligan,Nonpartisan,8506,97.178,False,False
+179706,RI,Write-in,Nonpartisan,247,2.822,False,False
+179587,RI,Kraig Stromberg,Republican,2489,96.698,False,False
+179587,RI,Write-in,Nonpartisan,85,3.302,False,False
+179589,RI,Marisa A. Quinn,Democratic,2217,18.714,False,False
+179589,RI,Nicholas J. Insana,Democratic,2118,17.878,False,False
+179589,RI,Richard J. Smith,Democratic,2010,16.966,False,False
+179589,RI,Robert M. Bailey,Independent,1827,15.422,False,False
+179589,RI,Kirstin Renetta Reveron,Democratic,1817,15.337,False,False
+179589,RI,Mary G. Glackin,Democratic,1783,15.05,False,False
+179589,RI,Write-in,Nonpartisan,75,0.633,False,False
+153214,RI,Meghan E. Kallman,Democratic,6648,97.865,True,False
+153214,RI,Write-in,Nonpartisan,145,2.135,False,False
+179829,RI,Yes,Nonpartisan,7151,84.238,False,False
+179829,RI,No,Nonpartisan,1338,15.762,False,False
+179831,RI,Yes,Nonpartisan,6868,81.762,False,False
+179831,RI,No,Nonpartisan,1532,18.238,False,False
+179641,RI,Lorraine S. Moschella,Democratic,8249,96.649,False,False
+179641,RI,Write-in,Nonpartisan,286,3.351,False,False
+179721,RI,Daniel M. Gendron,Nonpartisan,4491,57.101,False,False
+179721,RI,Christopher A. Beauchamp,Nonpartisan,3260,41.449,False,False
+179721,RI,Write-in,Nonpartisan,114,1.449,False,False
+179531,RI,Emilia Vaziri,Democratic,14190,21.257,False,False
+179531,RI,Steven A. Stycos,Democratic,13422,20.106,False,False
+179531,RI,Kristen E. Haroian,Democratic,13250,19.848,False,False
+179531,RI,Richard D. Campopiano,Republican,10599,15.877,False,False
+179531,RI,Justin Erickson,Republican,7750,11.609,False,False
+179531,RI,Joseph V. Iannitti,Republican,7390,11.07,False,False
+179531,RI,Write-in,Nonpartisan,155,0.232,False,False
+179572,RI,Susan M. Dillon,Republican,1591,96.191,False,False
+179572,RI,Write-in,Nonpartisan,63,3.809,False,False
+179574,RI,Write-in,Nonpartisan,2947,38.198,False,False
+179574,RI,Kathleen Swanson,Independent,998,12.936,False,False
+179574,RI,Steven Henry Plouffe,Republican,879,11.393,False,False
+179574,RI,Christie H. Stone,Republican,793,10.279,False,False
+179574,RI,Heidi Rogers,Republican,753,9.76,False,False
+179574,RI,Catherine Bay,Republican,693,8.983,False,False
+179574,RI,James Barrentine,Republican,652,8.451,False,False
+153245,RI,John Joseph Lombardi,Democratic,3045,98.321,True,False
+153245,RI,Write-in,Nonpartisan,52,1.679,False,False
+179800,RI,No,Nonpartisan,4361,60.326,False,False
+179800,RI,Yes,Nonpartisan,2868,39.674,False,False
+179802,RI,Yes,Nonpartisan,6262,78.471,False,False
+179802,RI,No,Nonpartisan,1718,21.529,False,False
+153281,RI,Gregory Costantino,Democratic,4038,61.489,True,False
+153281,RI,Joseph Hosey,Republican,2515,38.298,False,False
+153281,RI,Write-in,Nonpartisan,14,0.213,False,False
+153283,RI,Mary Ann Shallcross Smith,Democratic,4606,94.676,True,False
+153283,RI,Write-in,Nonpartisan,259,5.324,False,False
+153285,RI,Brian C. Newberry,Republican,4014,94.403,True,False
+153285,RI,Write-in,Nonpartisan,238,5.597,False,False
+179733,RI,Yes,Nonpartisan,1603,71.403,False,False
+179733,RI,No,Nonpartisan,642,28.597,False,False
+179735,RI,Yes,Nonpartisan,2015,90.076,False,False
+179735,RI,No,Nonpartisan,222,9.924,False,False
+179545,RI,Timothy E. Hogan,Nonpartisan,8159,56.18,False,False
+179545,RI,"Jacques Dextradeur, II",Nonpartisan,6031,41.527,False,False
+179545,RI,Write-in,Nonpartisan,333,2.293,False,False
+179817,RI,Yes,Nonpartisan,3338,56.943,False,False
+179817,RI,No,Nonpartisan,2524,43.057,False,False
+179819,RI,No,Nonpartisan,3127,53.135,False,False
+179819,RI,Yes,Nonpartisan,2758,46.865,False,False
+153266,RI,Sherry L. Roberts,Republican,3878,95.166,True,False
+153266,RI,Write-in,Nonpartisan,197,4.834,False,False
+179677,RI,"Harry Hall, IV",Republican,3270,96.889,False,False
+179677,RI,Write-in,Nonpartisan,105,3.111,False,False
+179750,RI,Yes,Nonpartisan,1324,65.48,False,False
+179750,RI,No,Nonpartisan,698,34.52,False,False
+179560,RI,Ryan M. Queenan,Nonpartisan,3523,97.997,False,False
+179560,RI,Write-in,Nonpartisan,72,2.003,False,False
+153302,RI,Matthew Dawson,Democratic,4617,96.107,True,False
+153302,RI,Write-in,Nonpartisan,187,3.893,False,False
+179713,RI,April M. Picozzi,Republican,2127,98.29,False,False
+179713,RI,Write-in,Nonpartisan,37,1.71,False,False
+179786,RI,Yes,Nonpartisan,13576,88.848,False,False
+179786,RI,No,Nonpartisan,1704,11.152,False,False
+179788,RI,Yes,Nonpartisan,10852,73.414,False,False
+179788,RI,No,Nonpartisan,3930,26.586,False,False
+179790,RI,Yes,Nonpartisan,13126,88.212,False,False
+179790,RI,No,Nonpartisan,1754,11.788,False,False
+153235,RI,Alana M. DiMario,Democratic,10390,96.141,True,False
+153235,RI,Write-in,Nonpartisan,417,3.859,False,False
+153237,RI,Victoria Gu,Democratic,7835,64.017,True,False
+153237,RI,Westin J. Place,Republican,4393,35.893,False,False
+153237,RI,Write-in,Nonpartisan,11,0.09,False,False
+179648,RI,Michael A. Araujo,Democratic,9214,29.83,False,False
+179648,RI,Yesenia Rubio,Democratic,9075,29.38,False,False
+179648,RI,Roberto H. Moreno,Democratic,8490,27.486,False,False
+179648,RI,Francisco Emanuel Amado,Independent,3794,12.283,False,False
+179648,RI,Write-in,Nonpartisan,315,1.02,False,False
+179696,RI,Adam Speakman,Nonpartisan,2049,25.664,False,False
+179696,RI,Stephen Piper,Nonpartisan,2036,25.501,False,False
+179696,RI,Brock Walsh,Nonpartisan,1818,22.771,False,False
+179696,RI,Finneaus Audette,Nonpartisan,1803,22.583,False,False
+179696,RI,Write-in,Nonpartisan,278,3.482,False,False
+179506,RI,Jessica A. Almeida,Nonpartisan,4334,29.395,False,False
+179506,RI,Joy Titcomb,Nonpartisan,3943,26.743,False,False
+179506,RI,Adam Clifford McGovern,Nonpartisan,3833,25.997,False,False
+179506,RI,William M. O'Dell,Nonpartisan,2538,17.214,False,False
+179506,RI,Write-in,Nonpartisan,96,0.651,False,False
+179771,RI,Yes,Nonpartisan,110,88.71,False,False
+179771,RI,No,Nonpartisan,14,11.29,False,False
+179581,RI,Heidi Marie Andrews,Nonpartisan,2044,21.678,False,False
+179581,RI,Brian J. Kelly,Nonpartisan,1400,14.848,False,False
+179581,RI,Gary A. King,Nonpartisan,1284,13.618,False,False
+179581,RI,Sheri Lynn Chandler,Nonpartisan,1280,13.575,False,False
+179581,RI,Michael Leo DeGrange,Nonpartisan,1168,12.387,False,False
+179581,RI,Corey Neal Beltram,Nonpartisan,1133,12.016,False,False
+179581,RI,Geoffrey Laurence Glew,Nonpartisan,1043,11.062,False,False
+179581,RI,Write-in,Nonpartisan,77,0.817,False,False
+179821,RI,Yes,Nonpartisan,3400,57.491,False,False
+179821,RI,No,Nonpartisan,2514,42.509,False,False
+179631,RI,Elizabeth Doherty,Democratic,455,30.033,False,False
+179631,RI,William A. McCombe,Independent,427,28.185,False,False
+179631,RI,Heather Russo-Littlefield,Independent,422,27.855,False,False
+179631,RI,Write-in,Nonpartisan,211,13.927,False,False
+153206,RI,Frank A. Ciccone,Democratic,3884,97.343,True,False
+153206,RI,Write-in,Nonpartisan,106,2.657,False,False
+179809,RI,No,Nonpartisan,4659,58.129,False,False
+179809,RI,Yes,Nonpartisan,3356,41.871,False,False
+179665,RI,David D. Marshall,Democratic,1631,97.84,False,False
+179665,RI,Write-in,Nonpartisan,36,2.16,False,False
+179667,RI,Juan M. Pichardo,Democratic,1157,56.827,False,False
+179667,RI,Diego Arene Morley (Fan),For All Neighbors,865,42.485,False,False
+179667,RI,Write-in,Nonpartisan,14,0.688,False,False
+179740,RI,Yes,Nonpartisan,2256,58.903,False,False
+179740,RI,No,Nonpartisan,1574,41.097,False,False
+179742,RI,Yes,Nonpartisan,22056,80.385,False,False
+179742,RI,No,Nonpartisan,5382,19.615,False,False
+179552,RI,Sabrina Weiss,Democratic,4134,25.73,False,False
+179552,RI,Eugene Quinn,Democratic,3905,24.304,False,False
+179552,RI,Alyson Powell,Democratic,3899,24.267,False,False
+179552,RI,Clare S. Cecil-Karb,Democratic,3819,23.769,False,False
+179552,RI,Write-in,Nonpartisan,310,1.929,False,False
+179600,RI,Philip Gould,Independent,6597,77.05,False,False
+179600,RI,John J. Cullen,Independent,1895,22.133,False,False
+179600,RI,Write-in,Nonpartisan,70,0.818,False,False
+153225,RI,Todd M. Patalano,Democratic,7621,96.261,True,False
+153225,RI,Write-in,Nonpartisan,296,3.739,False,False
+153273,RI,Tina L. Spears,Democratic,5827,96.537,True,False
+153273,RI,Write-in,Nonpartisan,209,3.463,False,False
+179684,RI,Angelica L. Bovis,Democratic,4358,11.793,False,False
+179684,RI,Rachel S. Toppi,Republican,4226,11.436,False,False
+179684,RI,Michael P. Iannotti,Republican,4143,11.211,False,False
+179684,RI,Dante A. DiGregorio,Democratic,3700,10.012,False,False
+179684,RI,Henry Jon Siravo,Democratic,3299,8.927,False,False
+179684,RI,Patrick G. Reddy,Democratic,3268,8.843,False,False
+179684,RI,Kenneth J. Sousa,Republican,3262,8.827,False,False
+179684,RI,Charles F. Boyd,Democratic,3129,8.467,False,False
+179684,RI,Kathleen Gaidimas,Republican,3038,8.221,False,False
+179684,RI,Haralabos P. Nikolopoulos,Republican,2803,7.585,False,False
+179684,RI,Ian McLean,Independent,1700,4.6,False,False
+179684,RI,Write-in,Nonpartisan,29,0.078,False,False
+179732,RI,No,Nonpartisan,4456,59.997,False,False
+179732,RI,Yes,Nonpartisan,2971,40.003,False,False
+179535,RI,Frank Ritz,Republican,3606,59.91,False,False
+179535,RI,Dante A. Diwan,Democratic,2400,39.874,False,False
+179535,RI,Write-in,Nonpartisan,13,0.216,False,False
+179720,RI,"Luis R. Colon, Jr.",Democratic,1125,93.828,False,False
+179720,RI,Write-in,Nonpartisan,74,6.172,False,False
+179569,RI,Maria Lawler,Democratic,2131,96.776,False,False
+179569,RI,Write-in,Nonpartisan,71,3.224,False,False
+179571,RI,Robert A. Boyden,Republican,1496,95.53,False,False
+179571,RI,Write-in,Nonpartisan,70,4.47,False,False
+153242,RI,Anthony J. DeSimone,Democratic,2063,75.43,True,False
+153242,RI,Brittany M. Kubicek,Socialist,636,23.254,False,False
+153242,RI,Write-in,Nonpartisan,36,1.316,False,False
+153244,RI,Amy J. Santiago,Democratic,2714,82.118,True,False
+153244,RI,Christopher L. Ireland,Republican,573,17.337,False,False
+153244,RI,Write-in,Nonpartisan,18,0.545,False,False
+179655,RI,Kimberly Grant,Democratic,9106,14.471,False,False
+179655,RI,Juan Pablo Barrera,Democratic,8609,13.681,False,False
+179655,RI,Joanne Bonollo,Democratic,8504,13.514,False,False
+179655,RI,Jennifer C. Bustamante,Democratic,8462,13.447,False,False
+179655,RI,Angeliz Rosa,Democratic,8141,12.937,False,False
+179655,RI,Matthew Wildenhain,Democratic,7948,12.631,False,False
+179655,RI,"James T. Chellel, Jr.",Democratic,7699,12.235,False,False
+179655,RI,David C. Fargnoli,Republican,4018,6.385,False,False
+179655,RI,Write-in,Nonpartisan,440,0.699,False,False
+153292,RI,Arthur J. Corvese,Democratic,4045,96.886,True,False
+153292,RI,Write-in,Nonpartisan,130,3.114,False,False
+153294,RI,Brandon T. Voas,Democratic,2570,95.362,True,False
+153294,RI,Write-in,Nonpartisan,125,4.638,False,False
+179705,RI,Vincent Gebhart,Democratic,2623,61.342,False,False
+179705,RI,Robin Cardenas,Independent,1629,38.096,False,False
+179705,RI,Write-in,Nonpartisan,24,0.561,False,False
+179778,RI,Yes,Nonpartisan,3158,69.945,False,False
+179778,RI,No,Nonpartisan,1357,30.055,False,False
+179588,RI,Bruce W. McIntyre,Democratic,2547,98.112,False,False
+179588,RI,Write-in,Nonpartisan,49,1.888,False,False
+179828,RI,Yes,Nonpartisan,6704,79.677,False,False
+179828,RI,No,Nonpartisan,1710,20.323,False,False
+179830,RI,Yes,Nonpartisan,6738,79.844,False,False
+179830,RI,No,Nonpartisan,1701,20.156,False,False
+153309,RI,Terri-Denise Cortvriend,Democratic,4622,96.553,True,False
+153309,RI,Write-in,Nonpartisan,165,3.447,False,False
+153263,RI,Earl A. Read III,Democratic,3454,95.021,True,False
+153263,RI,Write-in,Nonpartisan,181,4.979,False,False
+153265,RI,George A. Nardone,Republican,4182,94.423,True,False
+153265,RI,Write-in,Nonpartisan,247,5.577,False,False
+179747,RI,Yes,Nonpartisan,19613,71.129,False,False
+179747,RI,No,Nonpartisan,7961,28.871,False,False
+179749,RI,Yes,Nonpartisan,7910,59.947,False,False
+179749,RI,No,Nonpartisan,5285,40.053,False,False
+179559,RI,Anthony J. Ferreira,Nonpartisan,12593,97.101,False,False
+179559,RI,Write-in,Nonpartisan,376,2.899,False,False
+179797,RI,Yes,Nonpartisan,2290,53.43,False,False
+179797,RI,No,Nonpartisan,1996,46.57,False,False
+179799,RI,Yes,Nonpartisan,6611,84.27,False,False
+179799,RI,No,Nonpartisan,1234,15.73,False,False
+179801,RI,No,Nonpartisan,3963,53.109,False,False
+179801,RI,Yes,Nonpartisan,3499,46.891,False,False
+153280,RI,Deborah A. Fellela,Democratic,3415,94.625,True,False
+153280,RI,Write-in,Nonpartisan,194,5.375,False,False
+153282,RI,Mia A. Ackerman,Democratic,3923,93.494,True,False
+153282,RI,Write-in,Nonpartisan,273,6.506,False,False
+179515,RI,David M. Wilkinson,Independent,2559,66.364,False,False
+179515,RI,Tony Jones,Republican,1288,33.402,False,False
+179515,RI,Write-in,Nonpartisan,9,0.233,False,False
+179734,RI,Yes,Nonpartisan,1606,72.18,False,False
+179734,RI,No,Nonpartisan,619,27.82,False,False
+153213,RI,Valarie Jean Lawson,Democratic,5517,64.655,True,False
+153213,RI,Brian G. Coogan,Independent,2959,34.677,False,False
+153213,RI,Write-in,Nonpartisan,57,0.668,False,False
+179816,RI,Yes,Nonpartisan,3354,56.963,False,False
+179816,RI,No,Nonpartisan,2534,43.037,False,False
+179544,RI,Kathryn M. Crowley,Nonpartisan,3586,97.898,False,False
+179544,RI,Write-in,Nonpartisan,77,2.102,False,False
+179770,RI,Yes,Nonpartisan,110,89.431,False,False
+179770,RI,No,Nonpartisan,13,10.569,False,False
+179626,RI,Write-in,Nonpartisan,76,100.0,False,False
+179628,RI,Margaret M. O'Neill,Democratic,573,97.284,False,False
+179628,RI,Write-in,Nonpartisan,16,2.716,False,False
+179630,RI,"Thomas W. Durden, II",Democratic,610,98.546,False,False
+179630,RI,Write-in,Nonpartisan,9,1.454,False,False
+153299,RI,Mary Duffy Messier,Democratic,2636,96.663,True,False
+153299,RI,Write-in,Nonpartisan,91,3.337,False,False
+153301,RI,Jenni A. Furtado,Democratic,2952,95.349,True,False
+153301,RI,Write-in,Nonpartisan,144,4.651,False,False
+179712,RI,Jennifer Curry,Republican,1698,55.418,False,False
+179712,RI,Donna Gamache-Griffiths,Independent,1348,43.995,False,False
+179712,RI,Write-in,Nonpartisan,18,0.587,False,False
+179785,RI,Yes,Nonpartisan,13623,88.836,False,False
+179785,RI,No,Nonpartisan,1712,11.164,False,False
+179787,RI,Yes,Nonpartisan,10092,67.928,False,False
+179787,RI,No,Nonpartisan,4765,32.072,False,False
+179611,RI,Write-in,Nonpartisan,113,100.0,False,False
+153236,RI,Virginia Susan Sosnowski,Democratic,7963,97.027,True,False
+153236,RI,Write-in,Nonpartisan,244,2.973,False,False
+153284,RI,David J. Place,Republican,3816,95.21,True,False
+153284,RI,Write-in,Nonpartisan,192,4.79,False,False
+179695,RI,Kyle J. Jackson,Nonpartisan,3119,98.453,False,False
+179695,RI,Write-in,Nonpartisan,49,1.547,False,False
+179647,RI,Adam L. Greenman,Democratic,13727,96.094,False,False
+179647,RI,Write-in,Nonpartisan,558,3.906,False,False
+153272,RI,Kathleen A. Fogarty,Democratic,2892,67.967,True,False
+153272,RI,Jennifer P. Nerbonne,Republican,1358,31.915,False,False
+153272,RI,Write-in,Nonpartisan,5,0.118,False,False
+179729,RI,Yes,Nonpartisan,4210,56.412,False,False
+179729,RI,No,Nonpartisan,3253,43.588,False,False
+179731,RI,No,Nonpartisan,4391,58.798,False,False
+179731,RI,Yes,Nonpartisan,3077,41.202,False,False
+179534,RI,Andy M. Andujar,Democratic,2054,70.294,False,False
+179534,RI,Alphonse Cardi,Republican,851,29.124,False,False
+179534,RI,Write-in,Nonpartisan,17,0.582,False,False
+153203,RI,Stefano V. Famiglietti,Democratic,7549,96.819,True,False
+153203,RI,Write-in,Nonpartisan,248,3.181,False,False
+153205,RI,Tiara T. Mack,Democratic,5107,97.798,True,False
+153205,RI,Write-in,Nonpartisan,115,2.202,False,False
+179808,RI,Yes,Nonpartisan,6160,79.886,False,False
+179808,RI,No,Nonpartisan,1551,20.114,False,False
+153255,RI,Arthur Handy,Democratic,2953,72.68,True,False
+153255,RI,Jessica Gomes,Republican,1097,27.0,False,False
+153255,RI,Write-in,Nonpartisan,13,0.32,False,False
+179666,RI,James E. Taylor,Democratic,1705,97.652,False,False
+179666,RI,Write-in,Nonpartisan,41,2.348,False,False
+179522,RI,Richard J. Houle,Nonpartisan,1719,97.504,False,False
+179522,RI,Write-in,Nonpartisan,44,2.496,False,False
+179741,RI,Yes,Nonpartisan,2606,66.735,False,False
+179741,RI,No,Nonpartisan,1299,33.265,False,False
+179789,RI,Yes,Nonpartisan,12989,87.116,False,False
+179789,RI,No,Nonpartisan,1921,12.884,False,False
+179599,RI,Susan M. Mansolillo,Democratic,1546,93.697,False,False
+179599,RI,Write-in,Nonpartisan,104,6.303,False,False
+179551,RI,Michael Patrick Donegan,Democratic,3753,14.285,False,False
+179551,RI,Deepak Vishnu,Democratic,3572,13.596,False,False
+179551,RI,Michael J. Zarrella,Democratic,3553,13.523,False,False
+179551,RI,Renu Englehart,Democratic,3492,13.291,False,False
+179551,RI,Caryn Corenthal,Democratic,3212,12.225,False,False
+179551,RI,Peter Rodgers,Republican,2491,9.481,False,False
+179551,RI,Donna Costantino,Republican,2390,9.097,False,False
+179551,RI,Ashley M. Graham,Independent,1860,7.08,False,False
+179551,RI,Kimberly M. Edge Ambler,Independent,1840,7.003,False,False
+179551,RI,Write-in,Nonpartisan,110,0.419,False,False
+179777,RI,Yes,Nonpartisan,3115,67.235,False,False
+179777,RI,No,Nonpartisan,1518,32.765,False,False
+179825,RI,Yes,Nonpartisan,4391,75.137,False,False
+179825,RI,No,Nonpartisan,1453,24.863,False,False
+179827,RI,Yes,Nonpartisan,3622,61.379,False,False
+179827,RI,No,Nonpartisan,2279,38.621,False,False
+153306,RI,Susan Ann Donovan,Democratic,3353,95.202,True,False
+153306,RI,Write-in,Nonpartisan,169,4.798,False,False
+153308,RI,Michelle E. McGaw,Democratic,4697,96.388,True,False
+153308,RI,Write-in,Nonpartisan,176,3.612,False,False
+179719,RI,Rene E. Coutu,Democratic,1109,95.357,False,False
+179719,RI,Write-in,Nonpartisan,54,4.643,False,False
+179760,RI,Yes,Nonpartisan,1847,58.915,False,False
+179760,RI,No,Nonpartisan,1288,41.085,False,False
+179570,RI,David W. Thornley,Independent,1501,54.701,False,False
+179570,RI,Milan Adams,Republican,1237,45.08,False,False
+179570,RI,Write-in,Nonpartisan,6,0.219,False,False
+179618,RI,Carolyn J. Tudino,Nonpartisan,3497,19.762,False,False
+179618,RI,Tammy Jean McNeiece,Nonpartisan,3324,18.784,False,False
+179618,RI,Diane S. Nobles,Nonpartisan,2860,16.162,False,False
+179618,RI,Denise M. Manzi,Nonpartisan,2749,15.535,False,False
+179618,RI,Justin Wolf Skenyon,Nonpartisan,2729,15.422,False,False
+179618,RI,David S. Pavone,Nonpartisan,2460,13.901,False,False
+179618,RI,Write-in,Nonpartisan,77,0.435,False,False
+153243,RI,Raymond A. Hull,Democratic,3432,97.362,True,False
+153243,RI,Write-in,Nonpartisan,93,2.638,False,False
+153291,RI,William W. O'Brien,Democratic,3489,96.169,True,False
+153291,RI,Write-in,Nonpartisan,139,3.831,False,False
+153293,RI,Joshua J. Giraldo,Democratic,1363,98.128,True,False
+153293,RI,Write-in,Nonpartisan,26,1.872,False,False
+153279,RI,Edward W. Stravato,Democratic,2534,52.726,True,False
+153279,RI,Richard R. Fascia,Republican,2266,47.149,False,False
+153279,RI,Write-in,Nonpartisan,6,0.125,False,False
+179512,RI,Kevin Kazarian,Nonpartisan,252,97.674,False,False
+179512,RI,Write-in,Nonpartisan,6,2.326,False,False
+179514,RI,Rafael Peguero,Nonpartisan,365,97.855,False,False
+179514,RI,Write-in,Nonpartisan,8,2.145,False,False
+153210,RI,Linda L. Ujifusa,Democratic,7934,96.263,True,False
+153210,RI,Write-in,Nonpartisan,308,3.737,False,False
+153212,RI,Dawn Euer,Democratic,7488,97.083,True,False
+153212,RI,Write-in,Nonpartisan,225,2.917,False,False
+179815,RI,No,Nonpartisan,3648,61.075,False,False
+179815,RI,Yes,Nonpartisan,2325,38.925,False,False
+179637,RI,Dino P. Autiello,Democratic,8563,97.042,False,False
+179637,RI,Write-in,Nonpartisan,261,2.958,False,False
+179639,RI,Nicholas Anthony Feola,Democratic,3027,97.019,False,False
+179639,RI,Write-in,Nonpartisan,93,2.981,False,False
+153264,RI,Angela S. Coburn,Democratic,3054,55.975,True,False
+153264,RI,Lawrence P. Almagno Jr.,Republican,2397,43.933,False,False
+153264,RI,Write-in,Nonpartisan,5,0.092,False,False
+179529,RI,Amanda Carlow,Nonpartisan,1701,97.871,False,False
+179529,RI,Write-in,Nonpartisan,37,2.129,False,False
+179748,RI,No,Nonpartisan,7612,58.735,False,False
+179748,RI,Yes,Nonpartisan,5348,41.265,False,False
+179796,RI,No,Nonpartisan,1886,53.037,False,False
+179796,RI,Yes,Nonpartisan,1670,46.963,False,False
+179798,RI,No,Nonpartisan,4731,59.697,False,False
+179798,RI,Yes,Nonpartisan,3194,40.303,False,False
+179654,RI,Matthew P. Carvalho,Democratic,2163,96.606,False,False
+179654,RI,Write-in,Nonpartisan,76,3.394,False,False
+179608,RI,Write-in,Nonpartisan,163,100.0,False,False
+179610,RI,Edward F. Fox,Independent,1650,98.39,False,False
+179610,RI,Write-in,Nonpartisan,27,1.61,False,False
+179690,RI,Richard P. D'Addario,Democratic,4326,97.873,False,False
+179690,RI,Write-in,Nonpartisan,94,2.127,False,False
+179692,RI,Kevin D. Noyes,Nonpartisan,3974,98.856,False,False
+179692,RI,Write-in,Nonpartisan,46,1.144,False,False
+179694,RI,James A. Core,Democratic,2283,24.259,False,False
+179694,RI,Rebecca Schmaeling,Democratic,2031,21.581,False,False
+179694,RI,Daniel Barlow,Democratic,2024,21.507,False,False
+179694,RI,Scott F. Lial,Independent,1755,18.648,False,False
+179694,RI,Bert S. Rodrigues,Independent,1257,13.357,False,False
+179694,RI,Write-in,Nonpartisan,61,0.648,False,False
+179541,RI,Pablo Grullon,Nonpartisan,2213,96.807,False,False
+179541,RI,Write-in,Nonpartisan,73,3.193,False,False
+179543,RI,Andrea Soave Nadeau,Nonpartisan,3446,96.934,False,False
+179543,RI,Write-in,Nonpartisan,109,3.066,False,False
+179769,RI,Yes,Nonpartisan,103,83.74,False,False
+179769,RI,No,Nonpartisan,20,16.26,False,False
+179625,RI,Christopher J. Blane,Republican,451,92.99,False,False
+179625,RI,Write-in,Nonpartisan,34,7.01,False,False
+179627,RI,Keith J. Stover,Democratic,569,96.769,False,False
+179627,RI,Write-in,Nonpartisan,19,3.231,False,False
+179675,RI,Andrew A. McCoy,Democratic,1904,35.536,False,False
+179675,RI,Patrick Farrell,Democratic,1736,32.4,False,False
+179675,RI,David Lelli,Republican,1682,31.392,False,False
+179675,RI,Write-in,Nonpartisan,36,0.672,False,False
+153300,RI,Katherine Sheena Kazarian,Democratic,4420,96.359,True,False
+153300,RI,Write-in,Nonpartisan,167,3.641,False,False
+179558,RI,Jason A. Botelho,Nonpartisan,2782,59.003,False,False
+179558,RI,Michael Spremulli,Nonpartisan,1897,40.233,False,False
+179558,RI,Write-in,Nonpartisan,36,0.764,False,False
+179784,RI,Yes,Nonpartisan,3755,82.491,False,False
+179784,RI,No,Nonpartisan,797,17.509,False,False
+179711,RI,Mark D. Tourgee,Republican,1724,21.004,False,False
+179711,RI,Sheryl R. Green,Republican,1669,20.334,False,False
+179711,RI,Thomas J. O'Loughlin,Republican,1587,19.335,False,False
+179711,RI,Michael H. Berek,Republican,1580,19.25,False,False
+179711,RI,Stephen Salisbury,Republican,1544,18.811,False,False
+179711,RI,Write-in,Nonpartisan,104,1.267,False,False
+179521,RI,Britney Boyer,Nonpartisan,1423,54.815,False,False
+179521,RI,Scott J. Guthrie,Nonpartisan,1150,44.299,False,False
+179521,RI,Write-in,Nonpartisan,23,0.886,False,False
+179594,RI,Alfred T. Carnevale (Dem),Democratic,1395,95.613,False,False
+179594,RI,Write-in,Nonpartisan,64,4.387,False,False
+179596,RI,Robert J. Civetti (Dem),Democratic,1625,94.312,False,False
+179596,RI,Write-in,Nonpartisan,98,5.688,False,False
+179598,RI,Marysue Andreozzi,Democratic,1358,95.567,False,False
+179598,RI,Write-in,Nonpartisan,63,4.433,False,False
+179644,RI,Arthur A. Corsini,Democratic,2737,96.714,False,False
+179644,RI,Write-in,Nonpartisan,93,3.286,False,False
+179646,RI,Teresa Bartomioli,Nonpartisan,2412,35.58,False,False
+179646,RI,Gabriella Stelle,Nonpartisan,2361,34.828,False,False
+179646,RI,Mark Fasano,Nonpartisan,1956,28.854,False,False
+179646,RI,Write-in,Nonpartisan,50,0.738,False,False
+153271,RI,Teresa A. Tanzi,Democratic,4508,96.676,True,False
+153271,RI,Write-in,Nonpartisan,155,3.324,False,False
+179504,RI,Melissa M. Cordeiro,Democratic,6744,97.909,False,False
+179504,RI,Write-in,Nonpartisan,144,2.091,False,False
+179730,RI,Yes,Nonpartisan,4232,57.453,False,False
+179730,RI,No,Nonpartisan,3134,42.547,False,False
+179579,RI,Albert Kenneth Aubin,Republican,2071,50.847,False,False
+179579,RI,Matthew R. Burlingame,Independent,1981,48.637,False,False
+179579,RI,Write-in,Nonpartisan,21,0.516,False,False
+153204,RI,Samuel W. Bell,Democratic,7062,85.714,True,False
+153204,RI,William D. Connell Jr.,Republican,1126,13.667,False,False
+153204,RI,Write-in,Nonpartisan,51,0.619,False,False
+179629,RI,Christopher J. O'Neill,Republican,509,97.697,False,False
+179629,RI,Write-in,Nonpartisan,12,2.303,False,False
+153254,RI,Jacquelyn Baginski,Democratic,3818,95.212,True,False
+153254,RI,Write-in,Nonpartisan,192,4.788,False,False
+179807,RI,Yes,Nonpartisan,6678,85.517,False,False
+179807,RI,No,Nonpartisan,1131,14.483,False,False
+179617,RI,Dennis B. Turano,Nonpartisan,2719,10.567,False,False
+179617,RI,Leonidas Amarant,Nonpartisan,2602,10.113,False,False
+179617,RI,Michael Flynn,Nonpartisan,2600,10.105,False,False
+179617,RI,Christopher Logan,Nonpartisan,2561,9.953,False,False
+179617,RI,Terri Flynn,Nonpartisan,2509,9.751,False,False
+179617,RI,Charles R. Roberts,Nonpartisan,2363,9.184,False,False
+179617,RI,Christopher Rowe,Nonpartisan,2315,8.997,False,False
+179617,RI,Paul M. Rodrigues,Nonpartisan,2302,8.947,False,False
+179617,RI,"Henry F. Lombardi, Jr.",Nonpartisan,2290,8.9,False,False
+179617,RI,Barbara A. VonVillas,Nonpartisan,2001,7.777,False,False
+179617,RI,Antone C. Viveiros,Nonpartisan,1333,5.181,False,False
+179617,RI,Write-in,Nonpartisan,135,0.525,False,False
+153288,RI,Robert D. Phillips,Democratic,2442,96.066,True,False
+153288,RI,Write-in,Nonpartisan,100,3.934,False,False
+153290,RI,Paul M. Santucci,Republican,2600,52.642,True,False
+153290,RI,Suzanna L. Alba,Democratic,2331,47.196,False,False
+153290,RI,Write-in,Nonpartisan,8,0.162,False,False
+179548,RI,James E. Scullin,Nonpartisan,1940,98.678,False,False
+179548,RI,Write-in,Nonpartisan,26,1.322,False,False
+179550,RI,Write-in,Nonpartisan,261,100.0,False,False
+179776,RI,Yes,Nonpartisan,3203,69.389,False,False
+179776,RI,No,Nonpartisan,1413,30.611,False,False
+153223,RI,Melissa Murray,Democratic,3974,95.575,True,False
+153223,RI,Write-in,Nonpartisan,184,4.425,False,False
+179826,RI,Yes,Nonpartisan,3845,65.817,False,False
+179826,RI,No,Nonpartisan,1997,34.183,False,False
+179682,RI,"Joseph Adam Steiner, III",Republican,3161,97.532,False,False
+179682,RI,Write-in,Nonpartisan,80,2.468,False,False
+153307,RI,John G. Edwards,Democratic,3750,95.932,True,False
+153307,RI,Write-in,Nonpartisan,159,4.068,False,False
+179533,RI,Sara Jane Haupt,Democratic,2940,63.54,False,False
+179533,RI,Gregory P. Charpentier,Republican,1208,26.108,False,False
+179533,RI,Jesse Dooley,Independent,473,10.223,False,False
+179533,RI,Write-in,Nonpartisan,6,0.13,False,False
+179759,RI,No,Nonpartisan,2233,64.001,False,False
+179759,RI,Yes,Nonpartisan,1256,35.999,False,False
+179528,RI,John A. Cambio,Nonpartisan,1648,97.4,False,False
+179528,RI,Write-in,Nonpartisan,44,2.6,False,False
+179793,RI,No,Nonpartisan,4708,62.715,False,False
+179793,RI,Yes,Nonpartisan,2799,37.285,False,False
+179795,RI,Yes,Nonpartisan,26776,74.988,False,False
+179795,RI,No,Nonpartisan,8931,25.012,False,False
+179651,RI,Terrence E. Mercer,Democratic,2740,96.991,False,False
+179651,RI,Write-in,Nonpartisan,85,3.009,False,False
+179653,RI,Clovis C. Gregor,Democratic,1875,97.911,False,False
+179653,RI,Write-in,Nonpartisan,40,2.089,False,False
+153278,RI,Michael J. Riley,Republican,3695,58.679,True,False
+153278,RI,Shaina N. Smith,Democratic,2597,41.242,False,False
+153278,RI,Write-in,Nonpartisan,5,0.079,False,False
+179701,RI,Edgar N. Ladouceur,Democratic,2695,94.462,False,False
+179701,RI,Write-in,Nonpartisan,158,5.538,False,False
+179703,RI,John T. Kirby,Democratic,2699,94.107,False,False
+179703,RI,Write-in,Nonpartisan,169,5.893,False,False
+179513,RI,Franklin Solano,Nonpartisan,378,96.429,False,False
+179513,RI,Write-in,Nonpartisan,14,3.571,False,False
+179586,RI,Frank T. Landolfi,Republican,2496,96.148,False,False
+179586,RI,Write-in,Nonpartisan,100,3.852,False,False
+153211,RI,Louis DiPalma,Democratic,8433,96.664,True,False
+153211,RI,Write-in,Nonpartisan,291,3.336,False,False
+179636,RI,Erin West Earle,Democratic,6089,27.13,False,False
+179636,RI,Aubrey Schabowsky,Democratic,5798,25.833,False,False
+179636,RI,Holly Quinn,Independent,5620,25.04,False,False
+179636,RI,Pamela R. Pinheiro,Independent,4880,21.743,False,False
+179636,RI,Write-in,Nonpartisan,57,0.254,False,False
+179638,RI,"Ronald R. Baccala, Jr.",Democratic,2600,97.269,False,False
+179638,RI,Write-in,Nonpartisan,73,2.731,False,False
+179718,RI,Glen A. Terilli,Democratic,1543,94.489,False,False
+179718,RI,Write-in,Nonpartisan,90,5.511,False,False
+179672,RI,Shelley T. Peterson,Democratic,2000,97.513,False,False
+179672,RI,Write-in,Nonpartisan,51,2.487,False,False
+179674,RI,James Palmisciano,Democratic,2108,16.513,False,False
+179674,RI,Mark T. Reynolds,Democratic,2056,16.105,False,False
+179674,RI,Daniel E. Madnick,Democratic,1992,15.604,False,False
+179674,RI,Douglas Deslauriers,Democratic,1836,14.382,False,False
+179674,RI,Paul Erdos,Republican,1626,12.737,False,False
+179674,RI,Justin K. Price,Republican,1594,12.486,False,False
+179674,RI,Norbert L. Morin,Republican,1466,11.484,False,False
+179674,RI,Write-in,Nonpartisan,88,0.689,False,False
+179555,RI,Frank J. Rego,Nonpartisan,2719,64.738,False,False
+179555,RI,Bethany White,Nonpartisan,1450,34.524,False,False
+179555,RI,Write-in,Nonpartisan,31,0.738,False,False
+179557,RI,Francis Fogarty,Nonpartisan,2082,57.609,False,False
+179557,RI,Christopher J. Teixeira,Nonpartisan,1506,41.671,False,False
+179557,RI,Write-in,Nonpartisan,26,0.719,False,False
+179783,RI,Yes,Nonpartisan,3200,71.959,False,False
+179783,RI,No,Nonpartisan,1247,28.041,False,False
+179605,RI,Kenneth G. Pichette,Republican,876,92.797,False,False
+179605,RI,Write-in,Nonpartisan,68,7.203,False,False
+179607,RI,Cheryl DerHagopian,Nonpartisan,1534,97.707,False,False
+179607,RI,Write-in,Nonpartisan,36,2.293,False,False
+179609,RI,Edward K. Sliney,Independent,1534,98.777,False,False
+179609,RI,Write-in,Nonpartisan,19,1.223,False,False
+179689,RI,Michael F. Janick,Nonpartisan,2607,33.647,False,False
+179689,RI,Valerie M. Barbato,Nonpartisan,2466,31.828,False,False
+179689,RI,Christopher Cureton,Nonpartisan,1719,22.186,False,False
+179689,RI,Christopher M. Englert,Nonpartisan,904,11.668,False,False
+179689,RI,Write-in,Nonpartisan,52,0.671,False,False
+179691,RI,Deborah G. Janick,Nonpartisan,2722,10.696,False,False
+179691,RI,Cheryl A. Valentine,Nonpartisan,2490,9.785,False,False
+179691,RI,John Edwards,Nonpartisan,2470,9.706,False,False
+179691,RI,Craig R. Committo,Nonpartisan,2254,8.857,False,False
+179691,RI,Denise M. deMedeiros,Nonpartisan,2165,8.508,False,False
+179691,RI,Andrew Walsh,Nonpartisan,2151,8.453,False,False
+179691,RI,Michael Burk,Nonpartisan,1869,7.344,False,False
+179691,RI,V. A. Lopes,Nonpartisan,1817,7.14,False,False
+179691,RI,David Perry,Nonpartisan,1806,7.097,False,False
+179691,RI,Robert J. Jobin,Nonpartisan,1764,6.932,False,False
+179691,RI,Gary E. Monahan,Nonpartisan,1671,6.566,False,False
+179691,RI,David J. Paull,Nonpartisan,1520,5.973,False,False
+179691,RI,John Chelo,Nonpartisan,622,2.444,False,False
+179691,RI,Write-in,Nonpartisan,127,0.499,False,False
+179540,RI,Anna Medeiros,Nonpartisan,3546,97.686,False,False
+179540,RI,Write-in,Nonpartisan,84,2.314,False,False
+179542,RI,Lauren Marchetti-Boyle,Nonpartisan,4487,97.863,False,False
+179542,RI,Write-in,Nonpartisan,98,2.137,False,False
+179814,RI,No,Nonpartisan,6324,51.891,False,False
+179814,RI,Yes,Nonpartisan,5863,48.109,False,False
+179624,RI,Penelope B. Hunt,Nonpartisan,3549,14.542,False,False
+179624,RI,Elizabeth Barron,Nonpartisan,3281,13.443,False,False
+179624,RI,Kendra Wilson Muenter,Nonpartisan,3046,12.481,False,False
+179624,RI,Amy Yozura,Nonpartisan,2954,12.104,False,False
+179624,RI,Carrie Cassady,Nonpartisan,2885,11.821,False,False
+179624,RI,Nicole Shevory,Nonpartisan,2559,10.485,False,False
+179624,RI,Robert J. Leary,Nonpartisan,2466,10.104,False,False
+179624,RI,Brian Rochelle,Nonpartisan,2191,8.977,False,False
+179624,RI,Conner J. Hourihan,Nonpartisan,1390,5.695,False,False
+179624,RI,Write-in,Nonpartisan,85,0.348,False,False
+179768,RI,Yes,Nonpartisan,109,87.2,False,False
+179768,RI,No,Nonpartisan,16,12.8,False,False
+179578,RI,Jean M. Fecteau,Independent,3738,98.732,False,False
+179578,RI,Write-in,Nonpartisan,48,1.268,False,False
+153249,RI,Arlette Hidalgo,Democratic,2094,98.126,True,False
+153249,RI,Write-in,Nonpartisan,40,1.874,False,False
+153251,RI,Charlene M. Lima,Democratic,2487,95.178,True,False
+153251,RI,Write-in,Nonpartisan,126,4.822,False,False
+153253,RI,Brandon Potter,Democratic,3640,95.815,True,False
+153253,RI,Write-in,Nonpartisan,159,4.185,False,False
+179708,RI,Michelle Kirby Chapman,Nonpartisan,8129,96.429,False,False
+179708,RI,Write-in,Nonpartisan,301,3.571,False,False
+179710,RI,Dawn Discuillo,Democratic,4823,20.471,False,False
+179710,RI,Colin Sweet,Democratic,4741,20.123,False,False
+179710,RI,Gail Barrington,Democratic,4611,19.571,False,False
+179710,RI,Lori E. Wycall,Republican,3689,15.658,False,False
+179710,RI,Jonathan E. McCusker,Republican,3057,12.975,False,False
+179710,RI,"Eryc C. Constantikes, Sr.",Republican,2616,11.104,False,False
+179710,RI,Write-in,Nonpartisan,23,0.098,False,False
+179520,RI,Jonathan J. Pascua,Nonpartisan,2096,94.245,False,False
+179520,RI,Write-in,Nonpartisan,128,5.755,False,False
+179593,RI,Lauren A. Garzone (Dem),Democratic,1370,94.418,False,False
+179593,RI,Write-in,Nonpartisan,81,5.582,False,False
+179595,RI,Robert V. Russo (Dem),Democratic,1571,96.086,False,False
+179595,RI,Write-in,Nonpartisan,64,3.914,False,False
+153234,RI,Bridget G. Valverde,Democratic,9947,95.525,True,False
+153234,RI,Write-in,Nonpartisan,466,4.475,False,False
+179645,RI,Elizabeth W. Newberry,Nonpartisan,2911,17.318,False,False
+179645,RI,Rebecca J. DeCristofaro,Nonpartisan,2620,15.587,False,False
+179645,RI,Ann Fieler Lilley,Nonpartisan,2055,12.226,False,False
+179645,RI,Kevin Carriere,Nonpartisan,1994,11.863,False,False
+179645,RI,David J. Punchak,Nonpartisan,1982,11.791,False,False
+179645,RI,Sean M. Fuller,Nonpartisan,1825,10.857,False,False
+179645,RI,Michael R. Plante,Nonpartisan,1670,9.935,False,False
+179645,RI,Paul Jones,Nonpartisan,1654,9.84,False,False
+179645,RI,Write-in,Nonpartisan,98,0.583,False,False
+179693,RI,Write-in,Nonpartisan,252,100.0,False,False
+179503,RI,Steven Contente,Independent,6977,97.731,False,False
+179503,RI,Write-in,Nonpartisan,162,2.269,False,False
+153270,RI,Carol Hagan McEntee,Democratic,4133,63.331,True,False
+153270,RI,Jessica Drew Day,Republican,2380,36.47,False,False
+153270,RI,Write-in,Nonpartisan,13,0.199,False,False
+179681,RI,Brenden W. Machowski,Republican,2587,33.441,False,False
+179681,RI,Tracey Noonan,Republican,2502,32.342,False,False
+179681,RI,Lynn A. Francazio,Republican,2501,32.329,False,False
+179681,RI,Write-in,Nonpartisan,146,1.887,False,False
+179754,RI,No,Nonpartisan,2260,53.428,False,False
+179754,RI,Yes,Nonpartisan,1970,46.572,False,False
+179756,RI,No,Nonpartisan,2362,56.875,False,False
+179756,RI,Yes,Nonpartisan,1791,43.125,False,False
+179758,RI,No,Nonpartisan,2060,57.526,False,False
+179758,RI,Yes,Nonpartisan,1521,42.474,False,False
+179804,RI,Yes,Nonpartisan,6540,83.857,False,False
+179804,RI,No,Nonpartisan,1259,16.143,False,False
+179806,RI,No,Nonpartisan,4087,54.603,False,False
+179806,RI,Yes,Nonpartisan,3398,45.397,False,False
+179616,RI,Theresa M. Silveira Spengler,Nonpartisan,3262,34.526,False,False
+179616,RI,Wendy E. Heaney,Nonpartisan,3147,33.309,False,False
+179616,RI,Gregory M. Huet,Nonpartisan,2962,31.351,False,False
+179616,RI,Write-in,Nonpartisan,77,0.815,False,False
+179664,RI,Miguel Angel Sanchez,Democratic,918,75.184,False,False
+179664,RI,Jorge Porras,Independent,295,24.161,False,False
+179664,RI,Write-in,Nonpartisan,8,0.655,False,False
+153289,RI,Alex D. Marszalkowski,Democratic,4529,95.913,True,False
+153289,RI,Write-in,Nonpartisan,193,4.087,False,False
+179739,RI,Yes,Nonpartisan,2762,71.684,False,False
+179739,RI,No,Nonpartisan,1091,28.316,False,False
+179549,RI,Phillip Koutsogiane,Nonpartisan,2103,98.133,False,False
+179549,RI,Write-in,Nonpartisan,40,1.867,False,False
+179597,RI,Dawn M. Aloisio,Democratic,1323,94.097,False,False
+179597,RI,Write-in,Nonpartisan,83,5.903,False,False
+153222,RI,Jessica de la Cruz,Republican,8732,95.058,True,False
+153222,RI,Write-in,Nonpartisan,454,4.942,False,False
+179775,RI,Yes,Nonpartisan,3161,68.376,False,False
+179775,RI,No,Nonpartisan,1462,31.624,False,False
+179585,RI,Maria Lavigne,Republican,2565,96.866,False,False
+179585,RI,Write-in,Nonpartisan,83,3.134,False,False
+179633,RI,Harold E. Hatfield,Nonpartisan,554,33.596,False,False
+179633,RI,Barbara A. MacMullan,Nonpartisan,540,32.747,False,False
+179633,RI,Andrew R. Transue,Nonpartisan,537,32.565,False,False
+179633,RI,Write-in,Nonpartisan,18,1.092,False,False
+179635,RI,Gregory A. Mancini,Democratic,6804,13.883,False,False
+179635,RI,Kimberly Ann Page,Democratic,6757,13.788,False,False
+179635,RI,Jessica Plavicki,Democratic,6298,12.851,False,False
+179635,RI,Linnea M. Drew,Democratic,6278,12.81,False,False
+179635,RI,Stacey Lynn Weinstein,Democratic,6184,12.618,False,False
+179635,RI,Vanessa Mascaro,Independent,5780,11.794,False,False
+179635,RI,Elizabeth Hill Ross,Independent,5435,11.09,False,False
+179635,RI,Richard A. Welch,Independent,5149,10.506,False,False
+179635,RI,Write-in,Nonpartisan,323,0.659,False,False
+179715,RI,Mary Quinn Williamson,Democratic,1579,93.821,False,False
+179715,RI,Write-in,Nonpartisan,104,6.179,False,False
+179717,RI,Kevin Millonzi,Democratic,884,60.259,False,False
+179717,RI,Donald Cote,Republican,577,39.332,False,False
+179717,RI,Write-in,Nonpartisan,6,0.409,False,False
+179527,RI,Bradford A. Mayer,Nonpartisan,2048,97.016,False,False
+179527,RI,Write-in,Nonpartisan,63,2.984,False,False
+179568,RI,Scote N. Miller,Independent,2442,98.987,False,False
+179568,RI,Write-in,Nonpartisan,25,1.013,False,False
+179794,RI,Yes,Nonpartisan,30460,85.105,False,False
+179794,RI,No,Nonpartisan,5331,14.895,False,False
+153241,RI,Rebecca M. Kislak,Democratic,5725,98.165,True,False
+153241,RI,Write-in,Nonpartisan,107,1.835,False,False
+179652,RI,Neicy Coderre,Democratic,2098,97.536,False,False
+179652,RI,Write-in,Nonpartisan,53,2.464,False,False
+179700,RI,Salvatore DeLuise,Democratic,1930,58.556,False,False
+179700,RI,Joanne Miller,Independent,1343,40.746,False,False
+179700,RI,Write-in,Nonpartisan,23,0.698,False,False
+179702,RI,Michelle N. King,Democratic,1359,39.153,False,False
+179702,RI,Leah Hazelwood,Independent,1207,34.774,False,False
+179702,RI,Keveen J. Olea,Republican,900,25.929,False,False
+179702,RI,Write-in,Nonpartisan,5,0.144,False,False
+179688,RI,Joan B. Chabot,Nonpartisan,4670,99.13,False,False
+179688,RI,Write-in,Nonpartisan,41,0.87,False,False
+179537,RI,Daniel Wall,Democratic,2752,57.791,False,False
+179537,RI,Marcus Jason Stephenson,Republican,2006,42.125,False,False
+179537,RI,Write-in,Nonpartisan,4,0.084,False,False
+179539,RI,Keith C. Catone,Nonpartisan,3575,98.268,False,False
+179539,RI,Write-in,Nonpartisan,63,1.732,False,False
+179811,RI,No,Nonpartisan,4733,61.197,False,False
+179811,RI,Yes,Nonpartisan,3001,38.803,False,False
+179813,RI,Yes,Nonpartisan,6410,80.771,False,False
+179813,RI,No,Nonpartisan,1526,19.229,False,False
+179623,RI,"David R. Carlin, III",Nonpartisan,1738,97.312,False,False
+179623,RI,Write-in,Nonpartisan,48,2.688,False,False
+153260,RI,William Muto,Democratic,3248,61.364,True,False
+153260,RI,Dana James Traversie,Republican,2032,38.39,False,False
+153260,RI,Write-in,Nonpartisan,13,0.246,False,False
+153262,RI,Thomas E. Noret,Democratic,2792,93.628,True,False
+153262,RI,Write-in,Nonpartisan,190,6.372,False,False
+179673,RI,Oscar O. Vargas,Democratic,1246,96.739,False,False
+179673,RI,Write-in,Nonpartisan,42,3.261,False,False
+179746,RI,Yes,Nonpartisan,19966,72.789,False,False
+179746,RI,No,Nonpartisan,7464,27.211,False,False
+179556,RI,Anna Sousa,Nonpartisan,1665,63.26,False,False
+179556,RI,Kevin Phillip Pereira,Nonpartisan,944,35.866,False,False
+179556,RI,Write-in,Nonpartisan,23,0.874,False,False
+179604,RI,"Edward J. Sullivan, III",Independent,1009,53.699,False,False
+179604,RI,Pamela M. Azar,Democratic,860,45.769,False,False
+179604,RI,Write-in,Nonpartisan,10,0.532,False,False
+179606,RI,Mario Carreno,Nonpartisan,1389,98.232,False,False
+179606,RI,Write-in,Nonpartisan,25,1.768,False,False
+153277,RI,Michael Chippendale,Republican,4746,94.92,True,False
+153277,RI,Write-in,Nonpartisan,254,5.08,False,False
+153231,RI,Pamela J. Lauria,Democratic,10307,96.282,True,False
+153231,RI,Write-in,Nonpartisan,398,3.718,False,False
+153233,RI,Samantha R. Wilcox,Democratic,6771,52.676,True,False
+153233,RI,Elaine J. Morgan,Republican,6077,47.277,False,False
+153233,RI,Write-in,Nonpartisan,6,0.047,False,False
+179722,RI,Valerie Gonzalez,Nonpartisan,4075,10.988,False,False
+179722,RI,Sharon L. Harmon,Nonpartisan,4053,10.928,False,False
+179722,RI,Michael N. Dubois,Nonpartisan,3658,9.863,False,False
+179722,RI,James C. Cournoyer,Nonpartisan,3612,9.739,False,False
+179722,RI,Denise D. Sierra,Nonpartisan,3543,9.553,False,False
+179722,RI,Damon S. Flynn,Nonpartisan,3228,8.704,False,False
+179722,RI,Alana Gordon,Nonpartisan,2981,8.038,False,False
+179722,RI,"Roger G. Jalette, Sr.",Nonpartisan,2913,7.855,False,False
+179722,RI,Michael Warner,Nonpartisan,2319,6.253,False,False
+179722,RI,Lisa Baldelli-Hunt,Nonpartisan,1997,5.385,False,False
+179722,RI,Robert Marquis,Nonpartisan,1968,5.306,False,False
+179722,RI,Michael Disney,Nonpartisan,1241,3.346,False,False
+179722,RI,Dennis J. Kotal,Nonpartisan,1184,3.192,False,False
+179722,RI,Write-in,Nonpartisan,315,0.849,False,False
+179500,RI,"Richard F. Staples, Jr.",Democratic,6166,97.286,False,False
+179500,RI,Write-in,Nonpartisan,172,2.714,False,False
+179502,RI,Sarah E. Whiting,Democratic,5328,51.97,False,False
+179502,RI,Adam Stearnbourne,Democratic,4614,45.006,False,False
+179502,RI,Write-in,Nonpartisan,310,3.024,False,False
+179765,RI,Yes,Nonpartisan,115,92.0,False,False
+179765,RI,No,Nonpartisan,10,8.0,False,False
+179767,RI,Yes,Nonpartisan,120,93.75,False,False
+179767,RI,No,Nonpartisan,8,6.25,False,False
+179577,RI,"Walter M. O. Steere, III",Republican,2605,16.387,False,False
+179577,RI,Jonathan Burlingame,Republican,2436,15.324,False,False
+179577,RI,William A. Worthy,Republican,2433,15.305,False,False
+179577,RI,Cheryl A. Greathouse,Republican,2359,14.839,False,False
+179577,RI,Stephanie Calise Westgate,Republican,2206,13.877,False,False
+179577,RI,Lewis Pryeor,Independent,2067,13.002,False,False
+179577,RI,Mark Howard,Independent,1645,10.348,False,False
+179577,RI,Write-in,Nonpartisan,146,0.918,False,False
+153248,RI,Grace Diaz,Democratic,2424,96.844,True,False
+153248,RI,Write-in,Nonpartisan,79,3.156,False,False
+153250,RI,Ramón Pérez,Democratic,1766,72.915,True,False
+153250,RI,Derick A. Reels,Republican,643,26.548,False,False
+153250,RI,Write-in,Nonpartisan,13,0.537,False,False
+153298,RI,Leonela Felix,Democratic,3199,95.607,True,False
+153298,RI,Write-in,Nonpartisan,147,4.393,False,False
+179709,RI,Alexandra L. Healy,Democratic,4751,19.975,False,False
+179709,RI,Michael W. Ober,Democratic,4435,18.646,False,False
+179709,RI,Anne M. Pearce,Democratic,4405,18.52,False,False
+179709,RI,"Caswell Cooke, Jr.",Republican,3562,14.976,False,False
+179709,RI,Jean L. Gagnier,Republican,3429,14.417,False,False
+179709,RI,Rose Van Dover,Republican,3167,13.315,False,False
+179709,RI,Write-in,Nonpartisan,36,0.151,False,False
+179782,RI,Yes,Nonpartisan,3481,78.366,False,False
+179782,RI,No,Nonpartisan,961,21.634,False,False
+179592,RI,Linda L. Folcarelli (Dem),Democratic,1261,94.034,False,False
+179592,RI,Write-in,Nonpartisan,80,5.966,False,False
+179519,RI,John Paul A. Verducci,Nonpartisan,6908,48.768,False,False
+179519,RI,"Frank M. Brown, Jr.",Nonpartisan,6890,48.641,False,False
+179519,RI,Write-in,Nonpartisan,367,2.591,False,False
+179738,RI,No,Nonpartisan,1938,50.039,False,False
+179738,RI,Yes,Nonpartisan,1935,49.961,False,False
+153217,RI,Robert Britto,Democratic,6929,96.169,True,False
+153217,RI,Write-in,Nonpartisan,276,3.831,False,False
+153219,RI,Brian J. Thompson,Democratic,5523,95.736,True,False
+153219,RI,Write-in,Nonpartisan,246,4.264,False,False
+153221,RI,David P. Tikoian,Democratic,8381,95.838,True,False
+153221,RI,Write-in,Nonpartisan,364,4.162,False,False
+153267,RI,Justine Caldwell,Democratic,4578,95.058,True,False
+153267,RI,Write-in,Nonpartisan,238,4.942,False,False
+153269,RI,Robert E. Craven Jr.,Democratic,5078,94.668,True,False
+153269,RI,Write-in,Nonpartisan,286,5.332,False,False
+179680,RI,Theresa C. Yeaw,Republican,2512,13.737,False,False
+179680,RI,Richard Finnegan,Independent,2445,13.37,False,False
+179680,RI,Brenda L. Frederickson,Republican,2408,13.168,False,False
+179680,RI,David M. Dagostino,Republican,2227,12.178,False,False
+179680,RI,Michael S. Marr,Republican,2211,12.091,False,False
+179680,RI,"Charles A. Collins, Jr.",Republican,2092,11.44,False,False
+179680,RI,Peter W. Meusert,Republican,2089,11.423,False,False
+179680,RI,Jason Parmelee,Republican,2072,11.33,False,False
+179680,RI,Write-in,Nonpartisan,231,1.263,False,False
+179753,RI,Yes,Nonpartisan,2338,55.129,False,False
+179753,RI,No,Nonpartisan,1903,44.871,False,False
+179755,RI,Yes,Nonpartisan,2684,63.753,False,False
+179755,RI,No,Nonpartisan,1526,36.247,False,False
+153202,RI,Samuel D. Zurier,Democratic,7910,98.506,True,False
+153202,RI,Write-in,Nonpartisan,120,1.494,False,False
+179805,RI,Yes,Nonpartisan,5525,71.996,False,False
+179805,RI,No,Nonpartisan,2149,28.004,False,False
+153252,RI,Allan W. Fung,Independent,2523,39.062,True,False
+153252,RI,Colleen M. Crudele,Democratic,2040,31.584,False,False
+153252,RI,Christopher G. Paplauskas,Republican,1894,29.323,False,False
+153252,RI,Write-in,Nonpartisan,2,0.031,False,False
+179663,RI,Jacqueline Goldman,Democratic,2641,74.269,False,False
+179663,RI,Christopher L. Woodley,Republican,583,16.395,False,False
+179663,RI,Timothy D. Donahue,Independent,313,8.802,False,False
+179663,RI,Write-in,Nonpartisan,19,0.534,False,False
+179615,RI,Andrew L. Rhyne,Democratic,92,33.094,False,False
+179615,RI,Nicholaus Carter,Democratic,87,31.295,False,False
+179615,RI,Mark A. Gleicher,Independent,55,19.784,False,False
+179615,RI,Brian Kenneth Snow,Republican,44,15.827,False,False
+179615,RI,Write-in,Nonpartisan,0,0.0,False,False
+153240,RI,Nathan W. Biah,Democratic,2026,97.78,True,False
+153240,RI,Write-in,Nonpartisan,46,2.22,False,False
+179697,RI,William A. Foley,Democratic,2162,50.859,False,False
+179697,RI,Robert Cushman,Independent,1210,28.464,False,False
+179697,RI,Stuart Wilson,Independent,864,20.325,False,False
+179697,RI,Write-in,Nonpartisan,15,0.353,False,False
+179699,RI,Bryan J. Nappa,Democratic,2394,94.104,False,False
+179699,RI,Write-in,Nonpartisan,150,5.896,False,False
+179772,RI,Yes,Nonpartisan,117,93.6,False,False
+179772,RI,No,Nonpartisan,8,6.4,False,False
+179774,RI,Yes,Nonpartisan,5287,80.903,False,False
+179774,RI,No,Nonpartisan,1248,19.097,False,False
+179584,RI,Marita D. Murray,Independent,3052,99.123,False,False
+179584,RI,Write-in,Nonpartisan,27,0.877,False,False
+179824,RI,Yes,Nonpartisan,4017,69.486,False,False
+179824,RI,No,Nonpartisan,1764,30.514,False,False
+179634,RI,Write-in,Nonpartisan,60,100.0,False,False
+153305,RI,June S. Speakman,Democratic,4464,95.671,True,False
+153305,RI,Write-in,Nonpartisan,202,4.329,False,False
+179716,RI,"David Gosselin, Jr.",Democratic,1155,95.533,False,False
+179716,RI,Write-in,Nonpartisan,54,4.467,False,False
+179757,RI,Yes,Nonpartisan,2187,51.997,False,False
+179757,RI,No,Nonpartisan,2019,48.003,False,False
+179567,RI,Calvin Ellis,Democratic,1516,12.832,False,False
+179567,RI,Kenneth L. Fernstrom,Democratic,1483,12.553,False,False
+179567,RI,Diane Bampton Allen,Republican,1467,12.417,False,False
+179567,RI,Erich Gruebel,Democratic,1317,11.148,False,False
+179567,RI,Katrina Thornley,Independent,1313,11.114,False,False
+179567,RI,Christopher McKinnon,Republican,1240,10.496,False,False
+179567,RI,Joseph M. Turner,Republican,1160,9.819,False,False
+179567,RI,Mark B. Lyles,Republican,1143,9.675,False,False
+179567,RI,Jeffrey Vaccaro,Republican,1140,9.65,False,False
+179567,RI,Write-in,Nonpartisan,35,0.296,False,False
+179745,RI,Yes,Nonpartisan,20949,75.976,False,False
+179745,RI,No,Nonpartisan,6624,24.024,False,False
+179601,RI,"Arthur S. Russo, Jr.",Independent,1510,97.861,False,False
+179601,RI,Write-in,Nonpartisan,33,2.139,False,False
+179603,RI,Keith E. Macksoud,Independent,1716,98.169,False,False
+179603,RI,Write-in,Nonpartisan,32,1.831,False,False
+153274,RI,Samuel Angelo Azzinaro,Democratic,4019,67.808,True,False
+153274,RI,Christopher M. Stanton,Republican,1893,31.939,False,False
+153274,RI,Write-in,Nonpartisan,15,0.253,False,False
+153276,RI,Megan L. Cotter,Democratic,3898,59.712,True,False
+153276,RI,Jasmin Roy,Republican,2628,40.257,False,False
+153276,RI,Write-in,Nonpartisan,2,0.031,False,False
+179687,RI,Jennifer Krueger,Democratic,7228,22.859,False,False
+179687,RI,Carol A. Vetter,Democratic,6894,21.803,False,False
+179687,RI,James L. Restivo,Democratic,6221,19.674,False,False
+179687,RI,Katherine M. Macinanti,Independent,6069,19.194,False,False
+179687,RI,Jack Lawrence Cadman,Democratic,4967,15.708,False,False
+179687,RI,Write-in,Nonpartisan,241,0.762,False,False
+179509,RI,Tatiana Baena,Nonpartisan,1250,50.464,False,False
+179509,RI,Alberto Rivas-Lugo,Nonpartisan,1189,48.002,False,False
+179509,RI,Write-in,Nonpartisan,38,1.534,False,False
+179511,RI,Jackeline Parra,Nonpartisan,408,97.842,False,False
+179511,RI,Write-in,Nonpartisan,9,2.158,False,False
+179538,RI,Anthony J. Melillo,Nonpartisan,21309,97.515,False,False
+179538,RI,Write-in,Nonpartisan,543,2.485,False,False
+153209,RI,Walter S. Felag Jr.,Democratic,8160,96.0,True,False
+153209,RI,Write-in,Nonpartisan,340,4.0,False,False
+179812,RI,Yes,Nonpartisan,5224,67.06,False,False
+179812,RI,No,Nonpartisan,2566,32.94,False,False
+153259,RI,Zakary J. Pereira,Democratic,3070,58.722,True,False
+153259,RI,Barbara Quigley,Republican,2144,41.01,False,False
+153259,RI,Write-in,Nonpartisan,14,0.268,False,False
+153261,RI,Evan Patrick Shanley,Democratic,5056,95.703,True,False
+153261,RI,Write-in,Nonpartisan,227,4.297,False,False
+179526,RI,Ana Isabel dos Reis-Couto,Nonpartisan,1906,95.3,False,False
+179526,RI,Write-in,Nonpartisan,94,4.7,False,False
+153247,RI,Scott A. Slater,Democratic,2062,97.911,True,False
+153247,RI,Write-in,Nonpartisan,44,2.089,False,False
+153295,RI,Cherie L. Cruz,Democratic,2304,96.725,True,False
+153295,RI,Write-in,Nonpartisan,78,3.275,False,False
+153297,RI,Karen Alzate,Democratic,1921,96.922,True,False
+153297,RI,Write-in,Nonpartisan,61,3.078,False,False
+179779,RI,Yes,Nonpartisan,3821,81.925,False,False
+179779,RI,No,Nonpartisan,843,18.075,False,False
+179781,RI,Yes,Nonpartisan,3809,84.345,False,False
+179781,RI,No,Nonpartisan,707,15.655,False,False
+179591,RI,"Joseph M. Polisena, Jr. (Dem)",Democratic,7378,93.499,False,False
+179591,RI,Write-in,Nonpartisan,513,6.501,False,False
+153228,RI,Peter A. Appollonio Jr.,Democratic,7299,93.914,True,False
+153228,RI,Write-in,Nonpartisan,473,6.086,False,False
+153230,RI,Matthew L. LaMountain,Democratic,8480,94.982,True,False
+153230,RI,Write-in,Nonpartisan,448,5.018,False,False
+153232,RI,Leonidas Peter Raptakis,Democratic,6323,61.712,True,False
+153232,RI,James P. Pierson,Republican,3896,38.025,False,False
+153232,RI,Write-in,Nonpartisan,27,0.264,False,False
+153312,RI,Lauren H. Carson,Democratic,3501,97.684,True,False
+153312,RI,Write-in,Nonpartisan,83,2.316,False,False
+179723,RI,Martin A. Crowley,Nonpartisan,4166,21.048,False,False
+179723,RI,Lynn B. Kapiskas,Nonpartisan,4069,20.558,False,False
+179723,RI,Paul A. Bourget,Nonpartisan,3947,19.941,False,False
+179723,RI,Donald G. Burke,Nonpartisan,3653,18.456,False,False
+179723,RI,Alan M. LeClaire,Nonpartisan,3585,18.112,False,False
+179723,RI,Write-in,Nonpartisan,373,1.885,False,False
+179764,RI,Yes,Nonpartisan,108,90.756,False,False
+179764,RI,No,Nonpartisan,11,9.244,False,False
+179766,RI,Yes,Nonpartisan,114,91.2,False,False
+179766,RI,No,Nonpartisan,11,8.8,False,False
+179622,RI,Emily Conklin,Nonpartisan,1455,54.782,False,False
+179622,RI,John M. Walker,Nonpartisan,1190,44.804,False,False
+179622,RI,Write-in,Nonpartisan,11,0.414,False,False
+179576,RI,Lynne Stender Rider,Democratic,1406,94.299,False,False
+179576,RI,Write-in,Nonpartisan,85,5.701,False,False
+153201,RI,Ana B. Quezada,Democratic,3960,97.826,True,False
+153201,RI,Write-in,Nonpartisan,88,2.174,False,False
+179658,RI,David Morales,Democratic,30703,80.976,False,False
+179658,RI,David B. Talan,Republican,6531,17.225,False,False
+179658,RI,Write-in,Nonpartisan,682,1.799,False,False
+179660,RI,Jill Susan Davidson,Democratic,3229,97.318,False,False
+179660,RI,Write-in,Nonpartisan,89,2.682,False,False
+179662,RI,Justin M. Roias,Democratic,2179,96.673,False,False
+179662,RI,Write-in,Nonpartisan,75,3.327,False,False
+179516,RI,Holly Eaves,Democratic,2345,23.525,False,False
+179516,RI,Craig F. Louzon,Democratic,2297,23.044,False,False
+179516,RI,Linda D. Lyall,Democratic,2174,21.81,False,False
+179516,RI,Kim M. Coulter,Republican,1734,17.396,False,False
+179516,RI,Nicholas Testa,Independent,1396,14.005,False,False
+179516,RI,Write-in,Nonpartisan,22,0.221,False,False
+179518,RI,Ruth L. Platner,Nonpartisan,1982,19.344,False,False
+179518,RI,Gordon S. Willcox,Nonpartisan,1951,19.042,False,False
+179518,RI,Frances M. Topping,Nonpartisan,1585,15.469,False,False
+179518,RI,Coleen M. Galvin Yaroshenko,Nonpartisan,1451,14.162,False,False
+179518,RI,Laura Anne Rom,Nonpartisan,1238,12.083,False,False
+179518,RI,Cheryl A. Lill,Nonpartisan,1134,11.068,False,False
+179518,RI,Katherine Gingras,Nonpartisan,877,8.559,False,False
+179518,RI,Write-in,Nonpartisan,28,0.273,False,False
+179737,RI,Yes,Nonpartisan,2450,61.067,False,False
+179737,RI,No,Nonpartisan,1562,38.933,False,False
+153216,RI,Nelly Burdette,Democratic,4851,43.472,True,False
+153216,RI,Thomas J. Paolino,Republican,4335,38.848,False,False
+153216,RI,Jina N. Petrarca,Independent,1447,12.967,False,False
+153216,RI,John Douglas Barr II,Independent,520,4.66,False,False
+153216,RI,Write-in,Nonpartisan,6,0.054,False,False
+153218,RI,Ryan W. Pearson,Democratic,7460,93.943,True,False
+153218,RI,Write-in,Nonpartisan,481,6.057,False,False
+179643,RI,Anthony J. Mariorenzi,Democratic,2636,75.856,False,False
+179643,RI,Janet Elaine Smith,Independent,823,23.683,False,False
+179643,RI,Write-in,Nonpartisan,16,0.46,False,False
+153268,RI,James C. Sheehan,Democratic,4946,95.262,True,False
+153268,RI,Write-in,Nonpartisan,246,4.738,False,False
+179501,RI,Jessica Martin,Democratic,3888,30.014,False,False
+179501,RI,Neile Hartman,Independent,3746,28.918,False,False
+179501,RI,Braxton Howard Cloutiér,Democratic,3082,23.792,False,False
+179501,RI,Anthony P. Arico,Independent,2180,16.829,False,False
+179501,RI,Write-in,Nonpartisan,58,0.448,False,False
+179752,RI,No,Nonpartisan,1330,65.068,False,False
+179752,RI,Yes,Nonpartisan,714,34.932,False,False
+179679,RI,Bradford A. Dexter,Republican,2642,60.155,False,False
+179679,RI,Timothy L. Smith,Democratic,1749,39.822,False,False
+179679,RI,Write-in,Nonpartisan,1,0.023,False,False
+153304,RI,Nicole P. Jellinek,Democratic,3479,60.568,True,False
+153304,RI,Joseph A. DePasquale,Independent,2231,38.841,False,False
+153304,RI,Write-in,Nonpartisan,34,0.592,False,False
+179562,RI,Elizabeth Merrill,Nonpartisan,2154,62.653,False,False
+179562,RI,Renee Ignacio,Nonpartisan,1240,36.067,False,False
+179562,RI,Write-in,Nonpartisan,44,1.28,False,False
+179564,RI,John Curtis Varone,Democratic,2088,96.488,False,False
+179564,RI,Write-in,Nonpartisan,76,3.512,False,False
+179566,RI,Nicole K. Christoforo,Democratic,2029,96.116,False,False
+179566,RI,Write-in,Nonpartisan,82,3.884,False,False
+179612,RI,George M. Crowell,Republican,90,94.737,False,False
+179612,RI,Write-in,Nonpartisan,5,5.263,False,False
+179614,RI,Victoria G. Talbot,Democratic,92,17.228,False,False
+179614,RI,Andrew W. Iriarte Moore,Democratic,86,16.105,False,False
+179614,RI,Patrick McHugh,Democratic,81,15.169,False,False
+179614,RI,Travis H. Auty,Democratic,79,14.794,False,False
+179614,RI,Paul J. Golembeske,Republican,54,10.112,False,False
+179614,RI,Gary S. Mataronas,Republican,53,9.925,False,False
+179614,RI,Salvatore A. Marinosci,Republican,45,8.427,False,False
+179614,RI,"Michael W. Rocha, II",Republican,41,7.678,False,False
+179614,RI,Write-in,Nonpartisan,3,0.562,False,False
+153239,RI,Christopher R. Blazejewski,Democratic,3728,98.677,True,False
+153239,RI,Write-in,Nonpartisan,50,1.323,False,False
+153287,RI,Stephen Casey,Democratic,2314,95.031,True,False
+153287,RI,Write-in,Nonpartisan,121,4.969,False,False
+179698,RI,Jeremy M. Rix,Democratic,1919,62.023,False,False
+179698,RI,"Angelo J. Baldinelli, III",Independent,1163,37.589,False,False
+179698,RI,Write-in,Nonpartisan,12,0.388,False,False
+179547,RI,Write-in,Nonpartisan,565,100.0,False,False
+179773,RI,Yes,Nonpartisan,101,82.114,False,False
+179773,RI,No,Nonpartisan,22,17.886,False,False
+153220,RI,Gordon E. Rogers,Republican,8529,93.571,True,False
+153220,RI,Write-in,Nonpartisan,586,6.429,False,False
+179823,RI,Yes,Nonpartisan,4358,75.164,False,False
+179823,RI,No,Nonpartisan,1440,24.836,False,False
+179583,RI,Justin Bentley,Democratic,1709,18.678,False,False
+179583,RI,Gregory J. Avedisian,Democratic,1706,18.645,False,False
+179583,RI,Larry C. Phelps,Republican,1529,16.71,False,False
+179583,RI,Robert Thomas Greene,Republican,1446,15.803,False,False
+179583,RI,Catherine M. Giusti,Independent,1432,15.65,False,False
+179583,RI,Edward Lowe,Republican,1320,14.426,False,False
+179583,RI,Write-in,Nonpartisan,8,0.087,False,False
+153208,RI,John Burke,Democratic,6603,93.58,True,False
+153208,RI,Write-in,Nonpartisan,453,6.42,False,False
+153256,RI,Joseph McNamara,Democratic,4979,72.633,True,False
+153256,RI,Patrick E. Maloney Jr.,Independent,1848,26.958,False,False
+153256,RI,Write-in,Nonpartisan,28,0.408,False,False
+153258,RI,Marie A. Hopkins,Republican,3411,90.19,True,False
+153258,RI,Write-in,Nonpartisan,371,9.81,False,False
+179523,RI,Mia Rose Iannotti,Nonpartisan,1835,97.399,False,False
+179523,RI,Write-in,Nonpartisan,49,2.601,False,False
+179525,RI,Dorothy Jackvony,Nonpartisan,7055,53.471,False,False
+179525,RI,Cody J. Reidl,Nonpartisan,5874,44.52,False,False
+179525,RI,Write-in,Nonpartisan,265,2.008,False,False
+179744,RI,Yes,Nonpartisan,18476,67.48,False,False
+179744,RI,No,Nonpartisan,8904,32.52,False,False
+179792,RI,Yes,Nonpartisan,4953,65.455,False,False
+179792,RI,No,Nonpartisan,2614,34.545,False,False
+179602,RI,Bruce J. Ogni,Independent,1018,54.731,False,False
+179602,RI,Bonnie Taylor,Democratic,827,44.462,False,False
+179602,RI,Write-in,Nonpartisan,15,0.806,False,False
+179650,RI,Mark J. Wildenhain,Democratic,2239,96.384,False,False
+179650,RI,Write-in,Nonpartisan,84,3.616,False,False
+153275,RI,Brian Patrick Kennedy,Democratic,3871,94.785,True,False
+153275,RI,Write-in,Nonpartisan,213,5.215,False,False
+179508,RI,Kaitlyn Poole,Republican,2755,14.92,False,False
+179508,RI,Terri Lacey,Independent,2393,12.96,False,False
+179508,RI,Michael W. Long,Republican,2295,12.429,False,False
+179508,RI,Silvia St. Pierre,Independent,2294,12.424,False,False
+179508,RI,Jill E. Calapai,Independent,2029,10.988,False,False
+179508,RI,Michael Puyana,Republican,1917,10.382,False,False
+179508,RI,David R. Landry,Independent,1760,9.532,False,False
+179508,RI,Mark Brizard,Independent,1756,9.51,False,False
+179508,RI,John Anthony Scott,Independent,1219,6.602,False,False
+179508,RI,Write-in,Nonpartisan,47,0.255,False,False
+179510,RI,Laurilim Rosado Martinez,Nonpartisan,392,98.0,False,False
+179510,RI,Write-in,Nonpartisan,8,2.0,False,False
+153311,RI,Alex Finkelman,Democratic,4283,97.452,True,False
+153311,RI,Write-in,Nonpartisan,112,2.548,False,False
+179761,RI,No,Nonpartisan,4725,53.742,False,False
+179761,RI,Yes,Nonpartisan,4067,46.258,False,False
+179763,RI,Yes,Nonpartisan,92,75.41,False,False
+179763,RI,No,Nonpartisan,30,24.59,False,False
+179619,RI,Jesse Pugh,Nonpartisan,4210,16.036,False,False
+179619,RI,Thomas Q. Callahan,Nonpartisan,3395,12.932,False,False
+179619,RI,Rupert Friday,Nonpartisan,3033,11.553,False,False
+179619,RI,Lilly Weisz-Nesshoever,Nonpartisan,2864,10.909,False,False
+179619,RI,Mark A. Brady,Nonpartisan,2588,9.858,False,False
+179619,RI,Michael J. DeLuca,Nonpartisan,2405,9.161,False,False
+179619,RI,Jill A. Lawler,Nonpartisan,2293,8.734,False,False
+179619,RI,Donna Vignali,Nonpartisan,1856,7.07,False,False
+179619,RI,Alexander T. Menzies,Nonpartisan,1773,6.754,False,False
+179619,RI,James Patrick Durkin,Nonpartisan,1740,6.628,False,False
+179619,RI,Write-in,Nonpartisan,96,0.366,False,False
+179621,RI,Ellen M. Pinnock,Nonpartisan,921,56.124,False,False
+179621,RI,John Michael,Nonpartisan,715,43.571,False,False
+179621,RI,Write-in,Nonpartisan,5,0.305,False,False
+153246,RI,Enrique George Sanchez,Democratic,2257,96.577,True,False
+153246,RI,Write-in,Nonpartisan,80,3.423,False,False
+179669,RI,Brian Guzman,Democratic,1695,98.09,False,False
+179669,RI,Write-in,Nonpartisan,33,1.91,False,False
+179671,RI,Annajane E. Yolken,Democratic,3409,98.185,False,False
+179671,RI,Write-in,Nonpartisan,63,1.815,False,False
+153296,RI,Jennifer A. Stewart,Democratic,2833,98.266,True,False
+153296,RI,Write-in,Nonpartisan,50,1.734,False,False
+179554,RI,Jason J. Medeiros,Nonpartisan,7788,52.639,False,False
+179554,RI,Robert P. Rodericks,Nonpartisan,6862,46.381,False,False
+179554,RI,Write-in,Nonpartisan,145,0.98,False,False
+179780,RI,Yes,Nonpartisan,2949,64.942,False,False
+179780,RI,No,Nonpartisan,1592,35.058,False,False
+153227,RI,Lammis J. Vargas,Democratic,6954,96.53,True,False
+153227,RI,Write-in,Nonpartisan,250,3.47,False,False
+153229,RI,Mark McKenney,Democratic,9142,94.296,True,False
+153229,RI,Write-in,Nonpartisan,553,5.704,False,False
+179686,RI,Deborah D. Bergner,Democratic,7908,20.865,False,False
+179686,RI,Rory H. McEntee,Democratic,7405,19.538,False,False
+179686,RI,Jay G. Wegimont,Democratic,7330,19.34,False,False
+179686,RI,Patricia A. Alley,Democratic,7294,19.245,False,False
+179686,RI,Michael K. Marran,Democratic,7215,19.036,False,False
+179686,RI,Write-in,Nonpartisan,749,1.976,False,False
+179640,RI,Mario M. Martone,Democratic,2714,96.515,False,False
+179640,RI,Write-in,Nonpartisan,98,3.485,False,False
+179642,RI,"Frank William Pallotta, Jr.",Democratic,2582,97.068,False,False
+179642,RI,Write-in,Nonpartisan,78,2.932,False,False
+179530,RI,Write-in,Nonpartisan,231,100.0,False,False
+179532,RI,Avery Mangahas,Democratic,3904,96.538,False,False
+179532,RI,Write-in,Nonpartisan,140,3.462,False,False
+179751,RI,No,Nonpartisan,1396,69.487,False,False
+179751,RI,Yes,Nonpartisan,613,30.513,False,False
+179573,RI,Shelley D. Pezza,Nonpartisan,1066,35.557,False,False
+179573,RI,Tara Krawczyk,Nonpartisan,703,23.449,False,False
+179573,RI,Ronald Cervasio,Nonpartisan,700,23.349,False,False
+179573,RI,"Henry E. Gardiner, III",Nonpartisan,468,15.61,False,False
+179573,RI,Write-in,Nonpartisan,61,2.035,False,False
+179575,RI,Michael Coggeshall,Democratic,1145,56.018,False,False
+179575,RI,Michael John Krawczyk,Republican,898,43.933,False,False
+179575,RI,Write-in,Nonpartisan,1,0.049,False,False
+153200,RI,Jacob Bissaillon,Democratic,4376,97.766,True,False
+153200,RI,Write-in,Nonpartisan,100,2.234,False,False
+179657,RI,John Mark Ryan,Democratic,4085,9.575,False,False
+179657,RI,Juan Carlos Payero,Democratic,4058,9.512,False,False
+179657,RI,Leonard B. Katzman,Democratic,4005,9.388,False,False
+179657,RI,David P. Fiorillo,Democratic,4005,9.388,False,False
+179657,RI,M. Conley Wake Zani,Democratic,3909,9.163,False,False
+179657,RI,John G. McDaid,Democratic,3684,8.636,False,False
+179657,RI,Keith Hamilton,Republican,3528,8.27,False,False
+179657,RI,Alexander Roberts,Democratic,3515,8.239,False,False
+179657,RI,Mary A. McDowell,Independent,3125,7.325,False,False
+179657,RI,David M. Gleason,Republican,3099,7.264,False,False
+179657,RI,Sharlene M. Patton,Republican,2772,6.498,False,False
+179657,RI,David G. Reise,Republican,2738,6.418,False,False
+179657,RI,Write-in,Nonpartisan,138,0.323,False,False
+179659,RI,Miguel Martinez Youngs,Democratic,3135,96.166,False,False
+179659,RI,Write-in,Nonpartisan,125,3.834,False,False
+179707,RI,Daniel Hersey,Nonpartisan,7499,96.067,False,False
+179707,RI,Write-in,Nonpartisan,307,3.933,False,False
+179517,RI,Deborah A. Carney,Democratic,2453,15.333,False,False
+179517,RI,Bonnita B. Van Slyke,Independent,2194,13.714,False,False
+179517,RI,Cynthia M. Drummond,Democratic,2126,13.289,False,False
+179517,RI,Jill Marie Fonnemann,Democratic,2094,13.089,False,False
+179517,RI,Stephen J. Stokes,Republican,1979,12.37,False,False
+179517,RI,Sasha Puchalski,Independent,1945,12.158,False,False
+179517,RI,Craig T. Marr,Republican,1705,10.658,False,False
+179517,RI,Matthew Westover,Republican,1478,9.239,False,False
+179517,RI,Write-in,Nonpartisan,24,0.15,False,False
+179590,RI,Christian Cowan,Democratic,2145,50.082,False,False
+179590,RI,Sharon Rallis,Democratic,2099,49.008,False,False
+179590,RI,Write-in,Nonpartisan,39,0.911,False,False
+153215,RI,Jonathon Acosta,Democratic,2911,98.113,True,False
+153215,RI,Write-in,Nonpartisan,56,1.887,False,False
+179736,RI,Yes,Nonpartisan,1759,78.247,False,False
+179736,RI,No,Nonpartisan,489,21.753,False,False
+179546,RI,Mark Fiorillo,Nonpartisan,1511,97.863,False,False
+179546,RI,Write-in,Nonpartisan,33,2.137,False,False
+179818,RI,Yes,Nonpartisan,3427,58.561,False,False
+179818,RI,No,Nonpartisan,2425,41.439,False,False
+179820,RI,No,Nonpartisan,3361,58.707,False,False
+179820,RI,Yes,Nonpartisan,2364,41.293,False,False
+179822,RI,Yes,Nonpartisan,3672,62.801,False,False
+179822,RI,No,Nonpartisan,2175,37.199,False,False
+179676,RI,Gloria M. Taylor,Independent,3586,98.516,False,False
+179676,RI,Write-in,Nonpartisan,54,1.484,False,False
+179678,RI,Theodore J. Przybyla,Republican,3180,96.305,False,False
+179678,RI,Write-in,Nonpartisan,122,3.695,False,False
+153303,RI,Jennifer Smith Boylan,Democratic,5037,96.163,True,False
+153303,RI,Write-in,Nonpartisan,201,3.837,False,False
+179561,RI,John Medeiros,Nonpartisan,1496,59.342,False,False
+179561,RI,Antonio U. deSimas,Nonpartisan,998,39.587,False,False
+179561,RI,Write-in,Nonpartisan,27,1.071,False,False
+179563,RI,Chrissy Rossi,Nonpartisan,2504,53.63,False,False
+179563,RI,Anthony M. Pedulla,Nonpartisan,2097,44.913,False,False
+179563,RI,Write-in,Nonpartisan,68,1.456,False,False
+179803,RI,Yes,Nonpartisan,5389,69.697,False,False
+179803,RI,No,Nonpartisan,2343,30.303,False,False
+179613,RI,Heather J. Cook,Republican,108,97.297,False,False
+179613,RI,Write-in,Nonpartisan,3,2.703,False,False
+179661,RI,Yulyana Torres,Democratic,4426,98.334,False,False
+179661,RI,Write-in,Nonpartisan,75,1.666,False,False
+153286,RI,Veronicka Vega,Democratic,1375,51.867,False,False
+153286,RI,Jon D. Brien,Independent,1259,47.492,False,False
+153286,RI,Write-in,Nonpartisan,17,0.641,False,False
+153238,RI,Edith H. Ajello,Democratic,2822,98.054,True,False
+153238,RI,Write-in,Nonpartisan,56,1.946,False,False
+179649,RI,David P. Moran,Democratic,2237,95.762,False,False
+179649,RI,Write-in,Nonpartisan,99,4.238,False,False
+179505,RI,Timothy Edward Sweeney,Democratic,5212,18.862,False,False
+179505,RI,Aaron J. Ley,Democratic,5194,18.797,False,False
+179505,RI,Antonio A. Teixeira,Independent,5169,18.707,False,False
+179505,RI,Nathan T. Calouro,Independent,4881,17.664,False,False
+179505,RI,Mary A. Parella,Republican,4193,15.174,False,False
+179505,RI,"Joseph F. Aguiar, Jr.",Republican,2794,10.111,False,False
+179505,RI,Write-in,Nonpartisan,189,0.684,False,False
+179507,RI,David Houle,Republican,2994,16.091,False,False
+179507,RI,Dennis M. Anderson,Republican,2687,14.441,False,False
+179507,RI,Stephen N. Rawson,Republican,2646,14.22,False,False
+179507,RI,Donald Sullivan,Independent,2587,13.903,False,False
+179507,RI,Donald A. Fox,Republican,2542,13.662,False,False
+179507,RI,Jason C. Moroney,Democratic,2535,13.624,False,False
+179507,RI,Eugene L. Folgo,Democratic,2469,13.269,False,False
+179507,RI,Write-in,Nonpartisan,147,0.79,False,False
+179580,RI,John S. Luszcz,Republican,3203,97.002,False,False
+179580,RI,Write-in,Nonpartisan,99,2.998,False,False
+179582,RI,Sylvia K. Thompson,Independent,2012,16.486,False,False
+179582,RI,Kevin G. Lambert,Democratic,1796,14.716,False,False
+179582,RI,Michael James Geary,Republican,1781,14.594,False,False
+179582,RI,"Richard P. Wucik, Jr.",Democratic,1705,13.971,False,False
+179582,RI,Scott Sunderland,Republican,1658,13.586,False,False
+179582,RI,Robert Burns,Republican,1621,13.283,False,False
+179582,RI,Robert Boudreau,Republican,1554,12.734,False,False
+179582,RI,Write-in,Nonpartisan,77,0.631,False,False
+153207,RI,Lori Urso,Democratic,5035,96.216,True,False
+153207,RI,Write-in,Nonpartisan,198,3.784,False,False
+179632,RI,Greta Heinz,Nonpartisan,604,52.613,False,False
+179632,RI,Ann C. Hall,Nonpartisan,527,45.906,False,False
+179632,RI,Write-in,Nonpartisan,17,1.481,False,False
+153257,RI,David A. Bennett,Democratic,3825,94.258,True,False
+153257,RI,Write-in,Nonpartisan,233,5.742,False,False
+179714,RI,Stephen St. Onge,Republican,2124,98.516,False,False
+179714,RI,Write-in,Nonpartisan,32,1.484,False,False
+179524,RI,Scott Copley,Nonpartisan,1895,96.095,False,False
+179524,RI,Write-in,Nonpartisan,77,3.905,False,False
+179565,RI,Patricia L. Whitford,Republican,2249,95.458,False,False
+179565,RI,Write-in,Nonpartisan,107,4.542,False,False
+179791,RI,Yes,Nonpartisan,11701,78.483,False,False
+179791,RI,No,Nonpartisan,3208,21.517,False,False
+179743,RI,Yes,Nonpartisan,14706,54.515,False,False
+179743,RI,No,Nonpartisan,12270,45.485,False,False
+179553,RI,Roberto L. DaSilva,Nonpartisan,11074,69.204,False,False
+179553,RI,Patricio Pinto,Nonpartisan,4752,29.696,False,False
+179553,RI,Write-in,Nonpartisan,176,1.1,False,False
+153224,RI,Andrew R. Dimitri,Democratic,6732,94.857,True,False
+153224,RI,Write-in,Nonpartisan,365,5.143,False,False
+153226,RI,Hanna M. Gallo,Democratic,8571,95.033,True,False
+153226,RI,Write-in,Nonpartisan,448,4.967,False,False
+179683,RI,Joseph J. DeAngelis,Democratic,2842,95.337,False,False
+179683,RI,Write-in,Nonpartisan,139,4.663,False,False
+179685,RI,Robert J. Randall,Democratic,4060,20.618,False,False
+179685,RI,Lauraine A. Ouellette,Democratic,4060,20.618,False,False
+179685,RI,Frank Ricci,Republican,4056,20.597,False,False
+179685,RI,Brenda M. Amodei,Democratic,3894,19.775,False,False
+179685,RI,Christopher DeBerardis,Republican,3514,17.845,False,False
+179685,RI,Write-in,Nonpartisan,108,0.548,False,False
+153310,RI,Marvin Abney,Democratic,3008,97.504,True,False
+153310,RI,Write-in,Nonpartisan,77,2.496,False,False
+179536,RI,Michael A. Traficante,Republican,3607,93.132,False,False
+179536,RI,Write-in,Nonpartisan,266,6.868,False,False
+179762,RI,Yes,Nonpartisan,109,86.508,False,False
+179762,RI,No,Nonpartisan,17,13.492,False,False
+179810,RI,Yes,Nonpartisan,5426,69.636,False,False
+179810,RI,No,Nonpartisan,2366,30.364,False,False
+179620,RI,"Charles M. Holder, Jr.",Nonpartisan,3718,18.66,False,False
+179620,RI,Stephanie Smyth,Nonpartisan,3557,17.852,False,False
+179620,RI,James Dring,Nonpartisan,3050,15.307,False,False
+179620,RI,Elizabeth E. Cullen,Nonpartisan,2593,13.014,False,False
+179620,RI,Taryn Mazza,Nonpartisan,2548,12.788,False,False
+179620,RI,Christine Hope Sullivan,Nonpartisan,1917,9.621,False,False
+179620,RI,Meagan Elizabeth Landry,Nonpartisan,1882,9.445,False,False
+179620,RI,Jane LeBoeuf,Nonpartisan,525,2.635,False,False
+179620,RI,Write-in,Nonpartisan,135,0.678,False,False
+179668,RI,Pedro J. Espinal,Democratic,1652,88.107,False,False
+179668,RI,Write-in,Nonpartisan,223,11.893,False,False
+179670,RI,Althea A. Graves,Democratic,1644,96.592,False,False
+179670,RI,Write-in,Nonpartisan,58,3.408,False,False
+87396,RI,John F. Reed,Democratic,240707,66.784,True,False
+87396,RI,Raymond T. McKay,Republican,105459,29.26,False,False
+87396,RI,Michael Bahry,Independent,13563,3.763,False,False
+87396,RI,Write-in,Nonpartisan,695,0.193,False,False
+87394,RI,Gabriel Amo,Democratic,112112,68.589,True,False
+87394,RI,Kellie Keenan,Republican,44902,27.471,False,False
+87394,RI,Pedro DeSouza,Independent,6212,3.8,False,False
+87394,RI,Write-in,Nonpartisan,229,0.14,False,False
+87395,RI,Seth Magaziner,Democratic,121027,61.923,True,False
+87395,RI,Victor Mellor,Republican,73909,37.815,False,False
+87395,RI,Write-in,Nonpartisan,511,0.261,False,False

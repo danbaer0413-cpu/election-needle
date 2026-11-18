@@ -1,0 +1,251 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+155538,KS,Kansas Constitutional Amendment - Citizen Clarification,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,105,1058235,2026-11-18T14:12+00:00
+87165,KS,Kansas Secretary of State,2026-11-03,99.9,,False,3,105,1086329,2026-11-18T14:12+00:00
+87167,KS,Kansas Supreme Court Justices Amendment,2026-11-03,0,,False,2,105,0,2026-11-18T14:12+00:00
+87166,KS,Kansas State Treasurer,2026-11-03,99.9,,False,3,105,1083301,2026-11-18T14:12+00:00
+155435,KS,Kansas Court of Appeals Position 2 - Lesley Ann Isherwood Retention,2026-11-03,0,,False,2,105,0,2026-11-18T14:12+00:00
+159526,KS,Kansas State House,2026-11-03,69,,False,4,125,760802,2026-11-18T14:12+00:00
+155438,KS,Kansas Court of Appeals Position 7 - Lori Ann Bolton Fleming Retention,2026-11-03,0,,False,2,105,0,2026-11-18T14:12+00:00
+155437,KS,Kansas Court of Appeals Position 5 - Kim R. Schroeder Retention,2026-11-03,0,,False,2,105,0,2026-11-18T14:12+00:00
+155300,KS,Kansas Commissioner of Insurance,2026-11-03,99.9,2026-11-17T03:50:43.245Z,False,3,105,1082558,2026-11-18T14:12+00:00
+87163,KS,Kansas Governor,2026-11-03,95.2,2026-11-07T21:12:02.826Z,False,2,105,1094842,2026-11-18T14:12+00:00
+155436,KS,Kansas Court of Appeals Position 3 - Amy Fellows Cline Retention,2026-11-03,0,,False,2,105,0,2026-11-18T14:12+00:00
+87164,KS,Kansas Attorney General,2026-11-03,99.9,2026-11-17T03:50:43.245Z,False,2,105,1092050,2026-11-18T14:12+00:00
+155439,KS,Kansas Court of Appeals Position 13 - Jacy Hurst Retention,2026-11-03,0,,False,2,105,0,2026-11-18T14:12+00:00
+155434,KS,Kansas Supreme Court Justice Position 6 - Larkin E. Walsh Retention,2026-11-03,99.9,,False,2,105,932088,2026-11-18T14:12+00:00
+155433,KS,Kansas Supreme Court Justice Position 4 - Eric S. Rosen Retention,2026-11-03,99.9,,False,2,105,941860,2026-11-18T14:12+00:00
+155403,KS,Kansas State House 101,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,2,10543,2026-11-18T14:12+00:00
+155311,KS,Kansas State House 9,2026-11-03,0,2026-11-04T07:09:42.062Z,False,1,0,0,2026-11-18T14:12+00:00
+155404,KS,Kansas State House 102,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,1,5737,2026-11-18T14:12+00:00
+155472,KS,Kansas District Court Judge District 13 Division 4,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155348,KS,Kansas State House 46,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155402,KS,Kansas State House 100,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,10497,2026-11-18T14:12+00:00
+155534,KS,Kansas District Magistrate Judge District 28 Position 1 - Jennifer L. Oliver Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155378,KS,Kansas State House 76,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,3,9058,2026-11-18T14:12+00:00
+155510,KS,Kansas District Court Judge District 30 Division 3 - Gaten Thomas Wood Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155379,KS,Kansas State House 77,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,1,9124,2026-11-18T14:12+00:00
+155479,KS,Kansas District Court Judge District 18 Division 7,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155355,KS,Kansas State House 53,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155409,KS,Kansas State House 107,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,4,8884,2026-11-18T14:12+00:00
+155509,KS,Kansas District Court Judge District 30 Division 1 - Francis E. Meisenheimer Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155385,KS,Kansas State House 83,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,6416,2026-11-18T14:12+00:00
+155517,KS,Kansas District Magistrate Judge District 8 Position 3 - Amy C. Coppola Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155386,KS,Kansas State House 84,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155486,KS,Kansas District Court Judge District 18 Division 29,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155362,KS,Kansas State House 60,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,1,7473,2026-11-18T14:12+00:00
+155416,KS,Kansas State House 114,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,3,9207,2026-11-18T14:12+00:00
+155516,KS,Kansas District Magistrate Judge District 5 - Douglas P. Jones Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155524,KS,Kansas District Magistrate Judge District 17 Position 3,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155393,KS,Kansas State House 91,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,1,11140,2026-11-18T14:12+00:00
+155301,KS,Kansas State Senate 24 Special,2026-11-03,0,2026-11-04T07:09:42.062Z,False,1,0,0,2026-11-18T14:12+00:00
+155369,KS,Kansas State House 67,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,1,9403,2026-11-18T14:12+00:00
+155423,KS,Kansas State House 121,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,10879,2026-11-18T14:12+00:00
+155494,KS,Kansas District Court Judge District 25 Division 2 - Natalie K. Morlock Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155523,KS,Kansas District Magistrate Judge District 16 Position 5,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155392,KS,Kansas State House 90,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,10602,2026-11-18T14:12+00:00
+155531,KS,Kansas District Magistrate Judge District 24 Position 4,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155432,KS,Kansas State Board of Education 9,2026-11-03,99.9,,False,2,21,99082,2026-11-18T14:12+00:00
+155532,KS,Kansas District Magistrate Judge District 25 Position 1 - Wade M. Dixon Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155344,KS,Kansas State House 42,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,3,9467,2026-11-18T14:12+00:00
+155309,KS,Kansas State House 7,2026-11-03,99.9,2026-11-12T01:54:12.318Z,False,2,2,6772,2026-11-18T14:12+00:00
+155530,KS,Kansas District Magistrate Judge District 23 Position 3,2026-11-03,99.9,,False,2,1,1369,2026-11-18T14:12+00:00
+155431,KS,Kansas State Board of Education 7,2026-11-03,99.9,,False,2,18,107496,2026-11-18T14:12+00:00
+155506,KS,Kansas District Court Judge District 29 Division 12,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155407,KS,Kansas State House 105,2026-11-03,99.9,,False,2,1,7539,2026-11-18T14:12+00:00
+155507,KS,Kansas District Court Judge District 29 Division 15,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155376,KS,Kansas State House 74,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,3,9392,2026-11-18T14:12+00:00
+155476,KS,Kansas District Court Judge District 16 Division 1,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155313,KS,Kansas State House 11,2026-11-03,99.9,2026-11-04T07:09:42.062Z,False,2,1,6502,2026-11-18T14:12+00:00
+155470,KS,Kansas District Court Judge District 12 Division 2 - Jennifer R. O'Hare Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155513,KS,Kansas District Magistrate Judge District 2 Position 3 - Angela M. Anderson Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155414,KS,Kansas State House 112,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,7249,2026-11-18T14:12+00:00
+155514,KS,Kansas District Magistrate Judge District 4 Position 1 - Lori D. Breshears Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155383,KS,Kansas State House 81,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,6574,2026-11-18T14:12+00:00
+155483,KS,Kansas District Court Judge District 18 Division 17,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155320,KS,Kansas State House 18,2026-11-03,99.9,2026-11-12T01:54:12.318Z,False,2,1,10916,2026-11-18T14:12+00:00
+155413,KS,Kansas State House 111,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,1,8425,2026-11-18T14:12+00:00
+155421,KS,Kansas State House 119,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155521,KS,Kansas District Magistrate Judge District 12 Position 5 - Regine Lucy Thompson Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155390,KS,Kansas State House 88,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,2,7874,2026-11-18T14:12+00:00
+155490,KS,Kansas District Court Judge District 21 Division 1 - John F. Bosch Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155327,KS,Kansas State House 25,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155366,KS,Kansas State House 64,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155420,KS,Kansas State House 118,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155520,KS,Kansas District Magistrate Judge District 12 Position 3 - Angela R. Hecke Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155428,KS,Kansas State Board of Education 1,2026-11-03,99.9,,False,2,12,102291,2026-11-18T14:12+00:00
+155528,KS,Kansas District Magistrate Judge District 22 Position 3,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155429,KS,Kansas State Board of Education 3,2026-11-03,99.9,,False,2,2,135186,2026-11-18T14:12+00:00
+155305,KS,Kansas State House 3,2026-11-03,99.9,2026-11-04T07:09:42.062Z,False,2,1,6776,2026-11-18T14:12+00:00
+155398,KS,Kansas State House 96,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,3,1,4790,2026-11-18T14:12+00:00
+155427,KS,Kansas State House 125,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155527,KS,Kansas District Magistrate Judge District 21 Position 1 - John McNish Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155467,KS,"Kansas District Court Judge District 11 Division 3 - Fred W. Johnson, Jr. Retention",2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155535,KS,Kansas District Magistrate Judge District 30 Position 1 - Candace R. Lattin Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155468,KS,Kansas District Court Judge District 11 Division 5 - Kurtis I. Loy Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155504,KS,Kansas District Court Judge District 29 Division 10,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155405,KS,Kansas State House 103,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,3742,2026-11-18T14:12+00:00
+155466,KS,Kansas District Court Judge District 10 Division 19 - Jacquelyn Ellen Rokusek Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155342,KS,Kansas State House 40,2026-11-03,99.9,,False,2,1,7557,2026-11-18T14:12+00:00
+155410,KS,Kansas State House 108,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155318,KS,Kansas State House 16,2026-11-03,0,2026-11-04T07:09:42.062Z,False,1,0,0,2026-11-18T14:12+00:00
+155411,KS,Kansas State House 109,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155511,KS,Kansas District Court Judge District 30 Division 4 - Shawn Robert Dejarnett Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155380,KS,Kansas State House 78,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,1,10758,2026-11-18T14:12+00:00
+155441,KS,"Kansas District Court Judge District 1 Division 6 - John James Bryant, Jr. Retention",2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155317,KS,Kansas State House 15,2026-11-03,99.9,2026-11-12T01:54:12.318Z,False,2,1,6625,2026-11-18T14:12+00:00
+155417,KS,Kansas State House 115,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155325,KS,Kansas State House 23,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155418,KS,Kansas State House 116,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,6,8621,2026-11-18T14:12+00:00
+155518,KS,Kansas District Magistrate Judge District 9 Position 1 - Amanda Faber Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155387,KS,Kansas State House 85,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,2,10749,2026-11-18T14:12+00:00
+155448,KS,Kansas District Court Judge District 3 Division 10 - Mary E. Mattivi Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155324,KS,Kansas State House 22,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155332,KS,Kansas State House 30,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,1,10440,2026-11-18T14:12+00:00
+155425,KS,Kansas State House 123,2026-11-03,99.9,,False,2,1,5751,2026-11-18T14:12+00:00
+155525,KS,Kansas District Magistrate Judge District 18 Position 1,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155394,KS,Kansas State House 92,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,8278,2026-11-18T14:12+00:00
+155455,KS,Kansas District Court Judge District 8 Division 4 - Keith Collett Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155302,KS,Kansas State Senate 25 Special,2026-11-03,99.9,2026-11-04T07:09:42.062Z,False,2,1,18269,2026-11-18T14:12+00:00
+155331,KS,Kansas State House 29,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155424,KS,Kansas State House 122,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155339,KS,Kansas State House 37,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,5991,2026-11-18T14:12+00:00
+155464,KS,Kansas District Court Judge District 10 Division 17 - Thomas Kelly Ryan Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155340,KS,Kansas State House 38,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,2,11093,2026-11-18T14:12+00:00
+155401,KS,Kansas State House 99,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,2,10927,2026-11-18T14:12+00:00
+155533,KS,Kansas District Magistrate Judge District 25 Position 7 - Timothy R. Woods Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155338,KS,Kansas State House 36,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,9319,2026-11-18T14:12+00:00
+155463,KS,Kansas District Court Judge District 10 Division 16 - Neil B. Foth Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155314,KS,Kansas State House 12,2026-11-03,99.9,2026-11-04T07:09:42.062Z,False,2,5,8357,2026-11-18T14:12+00:00
+155471,KS,Kansas District Court Judge District 13 Division 1,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155315,KS,Kansas State House 13,2026-11-03,99.9,2026-11-04T07:09:42.062Z,False,2,5,8079,2026-11-18T14:12+00:00
+155408,KS,Kansas State House 106,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155508,KS,Kansas District Court Judge District 29 Division 16,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155537,KS,Kansas District Magistrate Judge District 31 Position 2 - Zelda Schlotterbeck Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155502,KS,Kansas District Court Judge District 29 Division 5,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155321,KS,Kansas State House 19,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,1,13985,2026-11-18T14:12+00:00
+155446,KS,Kansas District Court Judge District 3 Division 5 - Lori Dougherty-Bichsel Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155322,KS,Kansas State House 20,2026-11-03,0,2026-11-04T07:09:42.062Z,False,1,0,0,2026-11-18T14:12+00:00
+155415,KS,Kansas State House 113,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,5,8684,2026-11-18T14:12+00:00
+155515,KS,Kansas District Magistrate Judge District 4 Position 2 - David M. Braun Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155352,KS,Kansas State House 50,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155445,KS,Kansas District Court Judge District 3 Division 1 - Jason E. Geier Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155328,KS,Kansas State House 26,2026-11-03,99.9,,False,2,2,12758,2026-11-18T14:12+00:00
+155453,KS,Kansas District Court Judge District 7 Division 6 - Stacey L. Donovan Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155329,KS,Kansas State House 27,2026-11-03,99.9,,False,2,1,13709,2026-11-18T14:12+00:00
+155422,KS,Kansas State House 120,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155522,KS,Kansas District Magistrate Judge District 12 Position 6 - Jason C Cohorst Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155359,KS,Kansas State House 57,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155452,KS,Kansas District Court Judge District 7 Division 1 - Amy J. Hanley Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155460,KS,Kansas District Court Judge District 10 Division 9 - Christina Dunn Gyllenborg Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155336,KS,Kansas State House 34,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,4340,2026-11-18T14:12+00:00
+155461,KS,Kansas District Court Judge District 10 Division 10 - Kathleen L. Sloan Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155529,KS,Kansas District Magistrate Judge District 23 Position 1,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155430,KS,Kansas State Board of Education 5,2026-11-03,99.9,,False,2,45,89153,2026-11-18T14:12+00:00
+155459,KS,Kansas District Court Judge District 10 Division 5 - Erica K. Schoenig Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155335,KS,Kansas State House 33,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,7695,2026-11-18T14:12+00:00
+155499,KS,Kansas District Court Judge District 27 Division 3,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155343,KS,Kansas State House 41,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,4740,2026-11-18T14:12+00:00
+155500,KS,Kansas District Court Judge District 29 Division 3,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155312,KS,Kansas State House 10,2026-11-03,0,2026-11-04T07:09:42.062Z,False,1,0,0,2026-11-18T14:12+00:00
+155469,KS,Kansas District Court Judge District 11 Division 6 - Steven A. Stockard Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155498,KS,Kansas District Court Judge District 27 Division 1,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155374,KS,Kansas State House 72,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,3,8914,2026-11-18T14:12+00:00
+155442,KS,Kansas District Court Judge District 2 Division 1 - Norbert C. Marek Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155350,KS,Kansas State House 48,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155443,KS,Kansas District Court Judge District 2 Division 2 - Christopher T. Etzel Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155319,KS,Kansas State House 17,2026-11-03,99.9,2026-11-12T01:54:12.318Z,False,2,1,12360,2026-11-18T14:12+00:00
+155412,KS,Kansas State House 110,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,5,8537,2026-11-18T14:12+00:00
+155473,KS,Kansas District Court Judge District 14 Division 1,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155349,KS,Kansas State House 47,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,3,10357,2026-11-18T14:12+00:00
+155449,KS,Kansas District Court Judge District 3 Division 11 - Cheryl A. Rios Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155357,KS,Kansas State House 55,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,7751,2026-11-18T14:12+00:00
+155450,KS,Kansas District Court Judge District 5 Division 2 - W. Lee Fowler Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155326,KS,Kansas State House 24,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,9701,2026-11-18T14:12+00:00
+155419,KS,Kansas State House 117,2026-11-03,99.9,,False,2,2,13080,2026-11-18T14:12+00:00
+155480,KS,Kansas District Court Judge District 18 Division 8,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155356,KS,Kansas State House 54,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,2,9901,2026-11-18T14:12+00:00
+155364,KS,Kansas State House 62,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,3,9211,2026-11-18T14:12+00:00
+155457,KS,Kansas District Court Judge District 10 Division 1 - Keven M. P. O'Grady Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155333,KS,Kansas State House 31,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,5508,2026-11-18T14:12+00:00
+155426,KS,Kansas State House 124,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155487,KS,Kansas District Court Judge District 18 Division 30,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155526,KS,Kansas District Magistrate Judge District 19 Position 1,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155363,KS,Kansas State House 61,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155456,KS,Kansas District Court Judge District 9 Division 2 - Marilyn M. Wilder Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155371,KS,Kansas State House 69,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,1,8068,2026-11-18T14:12+00:00
+155496,KS,Kansas District Court Judge District 26 Division 1,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155372,KS,Kansas State House 70,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,3,9029,2026-11-18T14:12+00:00
+155465,KS,Kansas District Court Judge District 10 Division 18 - Timothy P. McCarthy Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155341,KS,Kansas State House 39,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,1,11486,2026-11-18T14:12+00:00
+155370,KS,Kansas State House 68,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155495,KS,Kansas District Court Judge District 25 Division 3 - Kristi M. Cott Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155346,KS,Kansas State House 44,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155503,KS,Kansas District Court Judge District 29 Division 6,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155347,KS,Kansas State House 45,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155440,KS,Kansas District Court Judge District 1 Division 5 - Joan M. Lowdon Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155316,KS,Kansas State House 14,2026-11-03,99.9,2026-11-12T01:54:12.318Z,False,2,1,13349,2026-11-18T14:12+00:00
+155345,KS,Kansas State House 43,2026-11-03,99.9,,False,2,2,8579,2026-11-18T14:12+00:00
+155310,KS,Kansas State House 8,2026-11-03,99.9,,False,2,1,11391,2026-11-18T14:12+00:00
+155353,KS,Kansas State House 51,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155478,KS,Kansas District Court Judge District 18 Division 5,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155354,KS,Kansas State House 52,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,1,12207,2026-11-18T14:12+00:00
+155447,KS,Kansas District Court Judge District 3 Division 7 - Penny R. Moylan Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155323,KS,Kansas State House 21,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155377,KS,Kansas State House 75,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,1,8414,2026-11-18T14:12+00:00
+155477,KS,Kansas District Court Judge District 18 Division 4,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155360,KS,Kansas State House 58,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,6506,2026-11-18T14:12+00:00
+155485,KS,Kansas District Court Judge District 18 Division 19,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155361,KS,Kansas State House 59,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,8657,2026-11-18T14:12+00:00
+155454,KS,Kansas District Court Judge District 8 Division 1 - Ben J. Sexton Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155330,KS,Kansas State House 28,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,1,11288,2026-11-18T14:12+00:00
+155384,KS,Kansas State House 82,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,3,2,9122,2026-11-18T14:12+00:00
+155484,KS,Kansas District Court Judge District 18 Division 18,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155492,KS,Kansas District Court Judge District 22 Division 1,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155368,KS,Kansas State House 66,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,3,1,4512,2026-11-18T14:12+00:00
+155493,KS,Kansas District Court Judge District 24,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155337,KS,Kansas State House 35,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,5223,2026-11-18T14:12+00:00
+155391,KS,Kansas State House 89,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155462,KS,Kansas District Court Judge District 10 Division 15 - Michael Patrick Joyce Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155491,KS,Kansas District Court Judge District 21 Division 3 - Grant Bannister Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155367,KS,Kansas State House 65,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155307,KS,Kansas State House 5,2026-11-03,99.9,2026-11-12T01:54:12.318Z,False,2,4,10117,2026-11-18T14:12+00:00
+155400,KS,Kansas State House 98,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,1,5735,2026-11-18T14:12+00:00
+155308,KS,Kansas State House 6,2026-11-03,99.9,2026-11-04T07:09:42.062Z,False,2,1,9453,2026-11-18T14:12+00:00
+155536,KS,Kansas District Magistrate Judge District 30 Position 3 - Roseanna K. Mathis Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155501,KS,Kansas District Court Judge District 29 Division 4,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155306,KS,Kansas State House 4,2026-11-03,99.9,2026-11-04T07:09:42.062Z,False,2,2,7591,2026-11-18T14:12+00:00
+155399,KS,Kansas State House 97,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,1,7370,2026-11-18T14:12+00:00
+155474,KS,Kansas District Court Judge District 14 Division 2,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155375,KS,Kansas State House 73,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,8880,2026-11-18T14:12+00:00
+155475,KS,Kansas District Court Judge District 14 Division 4,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155351,KS,Kansas State House 49,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,1,10706,2026-11-18T14:12+00:00
+155444,KS,Kansas District Court Judge District 2 Division 3 - Jeff Elder Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155505,KS,Kansas District Court Judge District 29 Division 11,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155406,KS,Kansas State House 104,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,2,10325,2026-11-18T14:12+00:00
+155481,KS,Kansas District Court Judge District 18 Division 10,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155382,KS,Kansas State House 80,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,2,6607,2026-11-18T14:12+00:00
+155482,KS,Kansas District Court Judge District 18 Division 15,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155358,KS,Kansas State House 56,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,9470,2026-11-18T14:12+00:00
+155451,KS,Kansas District Court Judge District 6 Division 1 - Amy L. Harth Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155512,KS,Kansas District Magistrate Judge District 2 Position 1 - Brian Yearout Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155381,KS,Kansas State House 79,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,2,8152,2026-11-18T14:12+00:00
+155389,KS,Kansas State House 87,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155489,KS,Kansas District Court Judge District 20 Division 1,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155365,KS,Kansas State House 63,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,2,7608,2026-11-18T14:12+00:00
+155458,KS,Kansas District Court Judge District 10 Division 4 - Rhonda K. Mason Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155519,KS,Kansas District Magistrate Judge District 10 Position 1 - Jenifer J. Ashford Retention,2026-11-03,0,,False,2,0,0,2026-11-18T14:12+00:00
+155334,KS,Kansas State House 32,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155388,KS,Kansas State House 86,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,5498,2026-11-18T14:12+00:00
+155488,KS,Kansas District Court Judge District 19 Division 3,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155396,KS,Kansas State House 94,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155304,KS,Kansas State House 2,2026-11-03,99.9,2026-11-04T07:09:42.062Z,False,2,2,8036,2026-11-18T14:12+00:00
+155397,KS,Kansas State House 95,2026-11-03,0,2026-11-04T07:09:42.063Z,False,1,0,0,2026-11-18T14:12+00:00
+155497,KS,Kansas District Court Judge District 26 Division 3,2026-11-03,0,,False,1,0,0,2026-11-18T14:12+00:00
+155373,KS,Kansas State House 71,2026-11-03,99.9,2026-11-12T01:54:12.319Z,False,2,1,9539,2026-11-18T14:12+00:00
+155395,KS,Kansas State House 93,2026-11-03,99.9,2026-11-04T07:09:42.063Z,False,2,1,9127,2026-11-18T14:12+00:00
+155303,KS,Kansas State House 1,2026-11-03,0,2026-11-04T07:09:42.062Z,False,1,0,0,2026-11-18T14:12+00:00
+87158,KS,Kansas US House 1,2026-11-03,90.3,2026-11-04T04:19:08.954Z,False,3,60,253318,2026-11-18T14:12+00:00
+87162,KS,Kansas US Senate,2026-11-03,96,2026-11-04T04:02:17.867Z,False,3,105,1099896,2026-11-18T14:12+00:00
+87160,KS,Kansas US House 3,2026-11-03,99,2026-11-04T03:11:28.760Z,False,3,5,337509,2026-11-18T14:12+00:00
+87159,KS,Kansas US House 2,2026-11-03,91.3,2026-11-04T05:31:11.929Z,False,3,27,245721,2026-11-18T14:12+00:00
+87161,KS,Kansas US House 4,2026-11-03,96.9,2026-11-04T04:19:08.954Z,False,3,17,259910,2026-11-18T14:12+00:00

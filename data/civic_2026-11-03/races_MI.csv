@@ -1,0 +1,1556 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+87217,MI,Michigan Attorney General,2026-11-03,95.1,,False,7,83,4691126,2026-11-18T14:51+00:00
+87215,MI,Michigan Governor,2026-11-03,96.1,2026-11-04T06:52:19.694Z,False,15,83,4775758,2026-11-18T14:51+00:00
+155750,MI,Michigan State University Board of Trustees,2026-11-03,97.4,2026-11-17T03:50:43.246Z,False,11,83,8788854,2026-11-18T14:51+00:00
+87216,MI,Michigan Secretary of State,2026-11-03,95.1,2026-11-04T07:03:08.605Z,False,6,83,4729681,2026-11-18T14:51+00:00
+155749,MI,Michigan University of Michigan Board of Regents,2026-11-03,97.4,2026-11-17T03:50:43.246Z,False,7,83,8751200,2026-11-18T14:51+00:00
+87219,MI,Michigan Supreme Court 2,2026-11-03,0,,False,2,83,0,2026-11-18T14:51+00:00
+155748,MI,Michigan State Board of Education,2026-11-03,97.5,2026-11-17T03:50:43.245Z,False,13,83,8948875,2026-11-18T14:51+00:00
+155920,MI,Michigan Proposal 2,2026-11-03,90.5,2026-11-04T06:53:42.309Z,False,2,83,4338933,2026-11-18T14:51+00:00
+155751,MI,Michigan Wayne State University Board of Governors,2026-11-03,97.3,2026-11-17T03:50:43.246Z,False,11,83,8692868,2026-11-18T14:51+00:00
+87220,MI,Michigan Proposal 1,2026-11-03,90.5,2026-11-04T06:53:42.309Z,False,2,83,4247638,2026-11-18T14:51+00:00
+159537,MI,Michigan State House,2026-11-03,77.9,,False,9,110,3168759,2026-11-18T14:51+00:00
+87218,MI,Michigan Supreme Court,2026-11-03,95.2,2026-11-17T03:50:43.245Z,False,7,83,6566336,2026-11-18T14:51+00:00
+159538,MI,Michigan State Senate,2026-11-03,83.4,,False,8,38,3923433,2026-11-18T14:51+00:00
+183034,MI,Michigan Belding Area Schools Board Member 6 Year Term,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183030,MI,Michigan Village of Kent City Trustee,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183782,MI,Michigan Sodus Township Library Board Director Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,34,2026-11-18T14:51+00:00
+155901,MI,Michigan 71B District Court Judge Incumbent,2026-11-03,0,,False,2,0,0,2026-11-18T14:51+00:00
+155897,MI,Michigan 67th District Court - 4th Division Judge Non-Incumbent,2026-11-03,0,,False,2,0,0,2026-11-18T14:51+00:00
+183962,MI,Michigan City of Evart Mayor,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183958,MI,Michigan Perry Public Schools Bond Proposal,2026-11-03,0,,False,2,2,575,2026-11-18T14:51+00:00
+155642,MI,Michigan State House 5,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,3,1,24288,2026-11-18T14:51+00:00
+155638,MI,Michigan State House 1,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,3,1,20655,2026-11-18T14:51+00:00
+155826,MI,Michigan 2B District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183699,MI,Michigan Ypsilanti District Library Board Member,2026-11-03,99.9,,False,5,1,0,2026-11-18T14:51+00:00
+183695,MI,Michigan Whitmore Lake Schools,2026-11-03,99.9,,False,3,1,0,2026-11-18T14:51+00:00
+183448,MI,Michigan Jefferson Schools Board Member,2026-11-03,0,,False,9,1,0,2026-11-18T14:51+00:00
+183444,MI,Michigan Dundee Community Schools Board Member,2026-11-03,0,,False,5,2,242,2026-11-18T14:51+00:00
+183632,MI,Michigan City of Coleman Council Member,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183436,MI,Michigan Village of Estral Beach Trustee,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183624,MI,Michigan Midland Township Supervisor Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,727,2026-11-18T14:51+00:00
+183576,MI,Michigan School District of the City of Wyandotte Operating Millage Proposal - Wyandotte Public Schools,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183380,MI,Michigan Troy Township Treasurer Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,45,2026-11-18T14:51+00:00
+183568,MI,Michigan Millage Renewal for Recreation Program - Grosse Ile Township,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183372,MI,Michigan Monroe Township Supervisor Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,144,2026-11-18T14:51+00:00
+183560,MI,Michigan Headlee Override Proposal - City of Lincoln Park,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184113,MI,Michigan City Of Corunna Mayor,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183917,MI,Michigan Village of Webberville Trustee - 2 Year Term,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183113,MI,Michigan Clintondale Community Schools Board Member,2026-11-03,0,,False,8,1,0,2026-11-18T14:51+00:00
+183109,MI,Michigan Armada Area Schools Board Member,2026-11-03,0,,False,3,2,0,2026-11-18T14:51+00:00
+184097,MI,Michigan Centreville Public Schools Board Member,2026-11-03,0,,False,7,1,4770,2026-11-18T14:51+00:00
+183850,MI,Michigan President Fife Lake Village,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155777,MI,Michigan 17th Circuit Court Judge Incumbent,2026-11-03,0,,False,4,1,166401,2026-11-18T14:51+00:00
+183842,MI,Michigan Northwestern Michigan College (2) Board of Trustees,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183838,MI,Michigan Grand Traverse County Clerk Fife Lake,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155681,MI,Michigan State House 44,2026-11-03,50,2026-11-12T01:54:12.323Z,False,2,0,0,2026-11-18T14:51+00:00
+183746,MI,Michigan Montabella Community Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,1,1,28,2026-11-18T14:51+00:00
+183742,MI,Michigan Vestaburg Community School Board Member,2026-11-03,50,,False,4,2,128,2026-11-18T14:51+00:00
+155861,MI,Michigan 40th District Court Judge Incumbent,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155857,MI,Michigan 36th District Court Judge Incumbent Partial Term Ending 2031,2026-11-03,0,,False,4,1,31345,2026-11-18T14:51+00:00
+183487,MI,Michigan City Council Garden City,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183483,MI,Michigan Treasurer - City of Highland Park,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183671,MI,Michigan City of Dexter Mayor,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+183667,MI,Michigan Webster Township Clerk,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+183663,MI,Michigan City of Ypsilanti City Council Ward 3,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+183416,MI,Michigan Big Jackson Public Schools Operating Millage Proposal,2026-11-03,0,,False,2,1,166,2026-11-18T14:51+00:00
+183611,MI,Michigan Board Member Kalamazoo Public Library,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+155730,MI,Michigan State House 93,2026-11-03,90.8,2026-11-04T07:09:42.073Z,False,3,2,41637,2026-11-18T14:51+00:00
+155726,MI,Michigan State House 89,2026-11-03,74,2026-11-04T07:09:42.072Z,False,3,1,43090,2026-11-18T14:51+00:00
+155722,MI,Michigan State House 85,2026-11-03,0,2026-11-04T07:09:42.072Z,False,2,0,0,2026-11-18T14:51+00:00
+183352,MI,Michigan Village of Luther Trustee,2026-11-03,0,,False,5,1,161,2026-11-18T14:51+00:00
+184148,MI,Michigan Durand Area Schools Board Member 6 Year Term,2026-11-03,0,,False,3,1,1298,2026-11-18T14:51+00:00
+183344,MI,Michigan Sweetwater Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,19,2026-11-18T14:51+00:00
+184140,MI,Michigan Village of New Lothrop Council Member 4 Year Term,2026-11-03,0,,False,4,1,477,2026-11-18T14:51+00:00
+183336,MI,Michigan South Haven School Operating Millage,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183089,MI,Michigan Utica Council Member,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+155816,MI,Michigan Monroe County Probate Court Judge Incumbent,2026-11-03,0,,False,2,1,3561,2026-11-18T14:51+00:00
+183881,MI,Michigan City of Whittemore Treasurer,2026-11-03,0,,False,3,1,137,2026-11-18T14:51+00:00
+183877,MI,Michigan City of East Tawas Mayor,2026-11-03,0,,False,2,1,1052,2026-11-18T14:51+00:00
+183073,MI,Michigan Kelloggsville Public School District Bond Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183018,MI,Michigan Walker City Ward 2 Commissioner,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155745,MI,Michigan State House 108,2026-11-03,81.6,2026-11-04T07:09:42.073Z,False,3,1,39886,2026-11-18T14:51+00:00
+184009,MI,Michigan Board Member Beaverton Schools,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+184005,MI,Michigan City Council Member,2026-11-03,0,,False,4,1,998,2026-11-18T14:51+00:00
+183201,MI,Michigan Reese Public Schools Board Member,2026-11-03,0,,False,4,1,1435,2026-11-18T14:51+00:00
+155645,MI,Michigan State House 8,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,4,1,24110,2026-11-18T14:51+00:00
+155641,MI,Michigan State House 4,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,3,1,28321,2026-11-18T14:51+00:00
+183706,MI,Michigan Milan Fire Special Assessment,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+183702,MI,Michigan City of Ann Arbor Prop B,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+183263,MI,Michigan Croswell-Lexington Community Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,3,1,316,2026-11-18T14:51+00:00
+183259,MI,Michigan Algonac Community School District Board Member,2026-11-03,0,,False,5,1,2336,2026-11-18T14:51+00:00
+183639,MI,Michigan Village of Sanford Council Member 4 Year Term,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183635,MI,Michigan City of Midland Ward 3 Council Member,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183631,MI,Michigan City of Coleman Mayor,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183391,MI,Michigan Croton Township Library Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183387,MI,Michigan City of White Cloud Mayor,2026-11-03,0,,False,3,1,349,2026-11-18T14:51+00:00
+155698,MI,Michigan State House 61,2026-11-03,99.9,2026-11-12T01:54:12.323Z,False,3,1,41862,2026-11-18T14:51+00:00
+183571,MI,Michigan Dearborn Public Schools County of Wayne State of Michigan School Improvement Bond Proposition,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183567,MI,Michigan Millage Renewal for Fire Department Equipment - Grosse Ile Township,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184120,MI,Michigan City Of Owosso Council Member,2026-11-03,0,,False,13,1,0,2026-11-18T14:51+00:00
+183124,MI,Michigan Memphis Community Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,2,54,2026-11-18T14:51+00:00
+184112,MI,Michigan Woodhull Township Park Commissioner Partial Term Ending 12/1/2028,2026-11-03,0,,False,6,1,0,2026-11-18T14:51+00:00
+183116,MI,Michigan Fraser Public Schools Board Member Full Term,2026-11-03,12.5,,False,4,1,1918,2026-11-18T14:51+00:00
+184104,MI,Michigan White Pigeon Community Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,2,1421,2026-11-18T14:51+00:00
+183057,MI,Michigan Lakewood Public Schools Board Member,2026-11-03,0,,False,4,1,33,2026-11-18T14:51+00:00
+155784,MI,Michigan 26th Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183849,MI,Michigan Board Member Traverse City Area Public Schools,2026-11-03,0,,False,8,2,5441,2026-11-18T14:51+00:00
+183845,MI,Michigan Board Member Benzi County Central Schools (2),2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+183041,MI,Michigan East Grand Rapids Public Schools Board Member,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183985,MI,Michigan Lincoln Township Fire Millage,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183789,MI,Michigan Three Oaks Village President,2026-11-03,0,,False,2,1,47,2026-11-18T14:51+00:00
+155908,MI,Michigan 79th District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+155904,MI,Michigan 75th District Court Judge Incumbent,2026-11-03,0,,False,2,1,8310,2026-11-18T14:51+00:00
+183969,MI,Michigan Village of Marion President,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155653,MI,Michigan State House 16,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,3,1,41974,2026-11-18T14:51+00:00
+183526,MI,Michigan Board Member - Northville Public School District,2026-11-03,50,,False,4,2,0,2026-11-18T14:51+00:00
+183486,MI,Michigan City Council Ecorse,2026-11-03,0,,False,9,1,0,2026-11-18T14:51+00:00
+155605,MI,Michigan State Senate 6,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,3,1,99182,2026-11-18T14:51+00:00
+155601,MI,Michigan State Senate 2,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,4,1,102570,2026-11-18T14:51+00:00
+183231,MI,Michigan Brockway Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,824,2026-11-18T14:51+00:00
+183227,MI,Michigan Yale City Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183614,MI,Michigan Kalamazoo City Proposal - Citizens' Advisory Healthcare Action Committee,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155733,MI,Michigan State House 96,2026-11-03,50,2026-11-04T07:09:42.073Z,False,2,0,0,2026-11-18T14:51+00:00
+183606,MI,Michigan Board Member Plainwell Community Schools,2026-11-03,0,,False,6,1,0,2026-11-18T14:51+00:00
+184159,MI,Michigan City of Owosso Parks and Recreation Millage Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184155,MI,Michigan City of Corunna Charter Amendment 5.2,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183543,MI,Michigan Board Member - Detroit Public Schools Community District Partial Term Ending 12/31/2028,2026-11-03,0,,False,4,1,16856,2026-11-18T14:51+00:00
+183347,MI,Michigan Pleasant Plains Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,374,2026-11-18T14:51+00:00
+183343,MI,Michigan Lake Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,351,2026-11-18T14:51+00:00
+183096,MI,Michigan Village of New Haven Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183892,MI,Michigan City of East Tawas Mosquito Control and Suppression Millage,2026-11-03,0,,False,2,1,1381,2026-11-18T14:51+00:00
+183088,MI,Michigan Utica Mayor,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183884,MI,Michigan City of Whittemore City Council Member,2026-11-03,0,,False,3,1,172,2026-11-18T14:51+00:00
+183080,MI,Michigan Macomb County Executive,2026-11-03,4.8,,False,3,1,33424,2026-11-18T14:51+00:00
+183025,MI,Michigan Village of Sand Lake President,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+155752,MI,Michigan Court of Appeals District 1 Incumbent,2026-11-03,0,,False,4,5,111045,2026-11-18T14:51+00:00
+183017,MI,Michigan Walker City Ward 1 Commissioner Partial Term Ending 12/1/2028,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+184012,MI,Michigan Board Member Beaverton Schools Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183208,MI,Michigan River Rapids District Library Board Member,2026-11-03,0,,False,5,1,109,2026-11-18T14:51+00:00
+155884,MI,Michigan 60th District Court Judge Incumbent,2026-11-03,0,,False,2,0,0,2026-11-18T14:51+00:00
+155688,MI,Michigan State House 51,2026-11-03,50,2026-11-04T07:09:42.072Z,False,2,0,0,2026-11-18T14:51+00:00
+183753,MI,Michigan Royalton Township Supervisor Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,1968,2026-11-18T14:51+00:00
+183749,MI,Michigan Village of Lake Isabella Public Safety Millage Proposal,2026-11-03,0,,False,2,1,130,2026-11-18T14:51+00:00
+155868,MI,Michigan 47th District Court Judge Non-Incumbent,2026-11-03,0,,False,2,0,0,2026-11-18T14:51+00:00
+183498,MI,Michigan Assessor - City of Ecorse,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183302,MI,Michigan Lawton Village Library Board Member Partial,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+183490,MI,Michigan City Commission River Rouge,2026-11-03,0,,False,10,1,0,2026-11-18T14:51+00:00
+183450,MI,Michigan Milan Area Schools Board Member 6 Year Term,2026-11-03,50,,False,5,2,917,2026-11-18T14:51+00:00
+183446,MI,Michigan Huron School District Board Member,2026-11-03,0,,False,5,2,0,2026-11-18T14:51+00:00
+184198,MI,Michigan Village of Northport Trustee,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183394,MI,Michigan Big Jackson Public Schools Board Member,2026-11-03,0,,False,3,1,236,2026-11-18T14:51+00:00
+183390,MI,Michigan City of White Cloud Council Member,2026-11-03,0,,False,6,1,845,2026-11-18T14:51+00:00
+183578,MI,Michigan Grosse Pointe Public Library Millage Renewal Proposal,2026-11-03,0,,False,2,1,8022,2026-11-18T14:51+00:00
+183574,MI,Michigan Romulus Community Schools Operating Millage Renewal Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183135,MI,Michigan Warren Consolidated Schools Board Member Full Term,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183131,MI,Michigan Roseville Community Schools Board Member,2026-11-03,81.8,,False,6,1,17899,2026-11-18T14:51+00:00
+183319,MI,Michigan Dowagiac School Board Member,2026-11-03,0,,False,5,2,0,2026-11-18T14:51+00:00
+184115,MI,Michigan City Of Perry Mayor,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+184111,MI,Michigan Burns Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,1220,2026-11-18T14:51+00:00
+183864,MI,Michigan Bay Area Transportation Authority Millage Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183860,MI,Michigan Board Member Forest Area Community Schools,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183056,MI,Michigan Lakeview Community Schools Board Member,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183852,MI,Michigan Trustee Fife Lake Village,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183048,MI,Michigan Grandville Public Schools Board Member,2026-11-03,0,,False,6,2,0,2026-11-18T14:51+00:00
+183992,MI,Michigan Le Roy Community Library Millage Proposal,2026-11-03,0,,False,2,1,1150,2026-11-18T14:51+00:00
+155919,MI,Michigan 97th District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183984,MI,Michigan Hartwick Township Operating Millage Renewal Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155911,MI,Michigan 84th District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183976,MI,Michigan Village of Tustin Trustee,2026-11-03,0,,False,4,1,133,2026-11-18T14:51+00:00
+183729,MI,Michigan Village of Shepherd President,2026-11-03,0,,False,3,1,56,2026-11-18T14:51+00:00
+183533,MI,Michigan Board Member - Southgate Community School District,2026-11-03,0,,False,4,1,4689,2026-11-18T14:51+00:00
+155652,MI,Michigan State House 15,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,3,1,36464,2026-11-18T14:51+00:00
+155648,MI,Michigan State House 11,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,3,2,27711,2026-11-18T14:51+00:00
+183713,MI,Michigan Northfield Township Fire Millage,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+183274,MI,Michigan Village of Capac Proposition for Renewal of Roads and Streets Millage,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184070,MI,Michigan St. Johns Public Schools Board Member,2026-11-03,0,,False,8,1,3,2026-11-18T14:51+00:00
+183266,MI,Michigan Marysville Public Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,1,582,2026-11-18T14:51+00:00
+183262,MI,Michigan Croswell-Lexington Community Schools Board Member 6 Year Term,2026-11-03,0,,False,2,1,263,2026-11-18T14:51+00:00
+183174,MI,Michigan Village of Merrill President,2026-11-03,0,,False,2,1,211,2026-11-18T14:51+00:00
+184162,MI,Michigan Hazelton Township Recycling Millage Proposal,2026-11-03,0,,False,2,1,941,2026-11-18T14:51+00:00
+184158,MI,Michigan City of Durand Parks and Recreation Millage Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183354,MI,Michigan Cadillac Area Public Schools Board Member,2026-11-03,0,,False,4,2,43,2026-11-18T14:51+00:00
+183350,MI,Michigan Village of Luther President,2026-11-03,0,,False,2,1,89,2026-11-18T14:51+00:00
+183903,MI,Michigan Lansing Community College Board of Trustees,2026-11-03,0,,False,4,2,32898,2026-11-18T14:51+00:00
+183899,MI,Michigan Locke Township Treasurer - Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184087,MI,Michigan Constantine Township Library Board Member Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,986,2026-11-18T14:51+00:00
+183091,MI,Michigan Village of Armada Clerk,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183087,MI,Michigan Memphis Council Member,2026-11-03,0,,False,6,2,0,2026-11-18T14:51+00:00
+183832,MI,Michigan Royalton Township Library Services Millage Proposal,2026-11-03,0,,False,2,1,2545,2026-11-18T14:51+00:00
+183828,MI,Michigan Berrien Township Proposal for Road Millage,2026-11-03,0,,False,2,1,220,2026-11-18T14:51+00:00
+183024,MI,Michigan Village of Casnovia President,2026-11-03,0,,False,2,2,0,2026-11-18T14:51+00:00
+183020,MI,Michigan Wyoming City Ward 1 Council Member,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183016,MI,Michigan Grand Rapids City Ward 3 Commissioner,2026-11-03,0,,False,2,1,17093,2026-11-18T14:51+00:00
+155891,MI,Michigan 64B District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183764,MI,Michigan Watervliet Charter Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,26,2026-11-18T14:51+00:00
+155883,MI,Michigan 58th District Court Judge Incumbent,2026-11-03,0,,False,3,0,0,2026-11-18T14:51+00:00
+183756,MI,Michigan Baroda Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,3,1,157,2026-11-18T14:51+00:00
+155875,MI,Michigan 52nd District Court - 4th Division Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+155628,MI,Michigan State Senate 29,2026-11-03,50,2026-11-04T07:09:42.071Z,False,3,1,112042,2026-11-18T14:51+00:00
+183309,MI,Michigan Decatur School Board Member,2026-11-03,0,,False,4,1,682,2026-11-18T14:51+00:00
+183497,MI,Michigan City Council District 3 Highland Park,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183493,MI,Michigan City Council Woodhaven - Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+155612,MI,Michigan State Senate 13,2026-11-03,50,2026-11-12T01:54:12.322Z,False,2,0,0,2026-11-18T14:51+00:00
+183242,MI,Michigan Marysville City Mayor,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184038,MI,Michigan Tekonsha Community Schools Board Member 6 Year Term,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+183234,MI,Michigan Clay Township Treasurer Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183230,MI,Michigan Clyde Township Supervisor Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183418,MI,Michigan Dundee Township Supervisor Partial Term Ending 12/1/2028,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183138,MI,Michigan Warren Woods Public Schools Board Member,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183134,MI,Michigan Van Dyke Public Schools Board Member,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+184122,MI,Michigan City Of Durand Council Member At Large,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184118,MI,Michigan City Of Corunna Ward 3 Council Member,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+155802,MI,Michigan 48th Circuit Court Judge Incumbent,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155798,MI,Michigan 41st Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183063,MI,Michigan Thornapple-Kellogg Schools Board Member,2026-11-03,0,,False,4,1,245,2026-11-18T14:51+00:00
+183059,MI,Michigan Northview Public Schools Board Member,2026-11-03,0,,False,5,1,72,2026-11-18T14:51+00:00
+183055,MI,Michigan Kentwood Public Schools Board Member,2026-11-03,0,,False,4,1,2663,2026-11-18T14:51+00:00
+183007,MI,Michigan Montcalm Community College Board of Trustees,2026-11-03,18.8,,False,3,4,830,2026-11-18T14:51+00:00
+183003,MI,Michigan Courtland Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183191,MI,Michigan Chesaning Union Schools Board Member Partial Term,2026-11-03,0,,False,2,2,1039,2026-11-18T14:51+00:00
+183987,MI,Michigan Orient Township Fire Millage Proposal,2026-11-03,0,,False,2,1,350,2026-11-18T14:51+00:00
+183983,MI,Michigan Hartwick Township Road Millage Ballot Language,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183736,MI,Michigan Beal City Public Schools Board Member 6 Year Term,2026-11-03,0,,False,4,1,1724,2026-11-18T14:51+00:00
+155663,MI,Michigan State House 26,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,3,1,34342,2026-11-18T14:51+00:00
+183728,MI,Michigan City of Clare City Council Member,2026-11-03,0,,False,5,2,0,2026-11-18T14:51+00:00
+155655,MI,Michigan State House 18,2026-11-03,50,2026-11-04T07:09:42.071Z,False,2,0,0,2026-11-18T14:51+00:00
+183720,MI,Michigan Gilmore Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,575,2026-11-18T14:51+00:00
+183473,MI,Michigan Mayor - City of Garden City,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184077,MI,Michigan City of Sturgis Commissioner At-Large,2026-11-03,0,,False,2,1,2124,2026-11-18T14:51+00:00
+183273,MI,Michigan Emmett Township Millage Renewal Operating Millage Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183269,MI,Michigan Marine City Public Safety Fire Protection Millage Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183457,MI,Michigan City of Milan Fire Services Special Assessment Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183601,MI,Michigan Board Member Kalamazoo Public Schools,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+184205,MI,Michigan Glen Lake Community Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,2,816,2026-11-18T14:51+00:00
+183401,MI,Michigan Holton Public Schools Board Member,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183397,MI,Michigan Newaygo Public Schools Board Member,2026-11-03,0,,False,7,1,5525,2026-11-18T14:51+00:00
+183585,MI,Michigan Galesburg City Mayor,2026-11-03,0,,False,3,1,494,2026-11-18T14:51+00:00
+183146,MI,Michigan Sterling Heights Charter Amendment-Purchasing,2026-11-03,0,,False,2,1,2118,2026-11-18T14:51+00:00
+183942,MI,Michigan Eaton County Transportation Authority (EATRAN) Millage Renewal Authorization Question,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183902,MI,Michigan Wheatfield Township Trustee - Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+183098,MI,Michigan Village of Romeo President,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183094,MI,Michigan Village of New Haven President,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155770,MI,Michigan 11th Circuit Court Judge Incumbent,2026-11-03,0,,False,2,0,0,2026-11-18T14:51+00:00
+155766,MI,Michigan 7th Circuit Court Judge Incumbent,2026-11-03,0,,False,3,0,0,2026-11-18T14:51+00:00
+183031,MI,Michigan Village of Sand Lake Trustee 4 Year Term,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183027,MI,Michigan Village of Kent City President,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183023,MI,Michigan Village of Caledonia President,2026-11-03,0,,False,2,1,199,2026-11-18T14:51+00:00
+183775,MI,Michigan Commissioner City of Buchanan,2026-11-03,0,,False,6,1,171,2026-11-18T14:51+00:00
+183771,MI,Michigan Niles City Ward 1 Council Member,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183959,MI,Michigan Osceola County Road Commissioner,2026-11-03,0,,False,2,1,4589,2026-11-18T14:51+00:00
+155886,MI,Michigan 62A District Court Judge Incumbent,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155882,MI,Michigan 57th District Court Judge Incumbent Partial Term Ending 2031,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+155635,MI,Michigan State Senate 36,2026-11-03,80.7,2026-11-04T07:09:42.071Z,False,3,1,135722,2026-11-18T14:51+00:00
+183508,MI,Michigan Board Member - Allen Park Public Schools,2026-11-03,0,,False,6,1,0,2026-11-18T14:51+00:00
+155627,MI,Michigan State Senate 28,2026-11-03,89.4,2026-11-12T01:54:12.322Z,False,5,2,126138,2026-11-18T14:51+00:00
+183500,MI,Michigan Constable - City of Ecorse,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+155619,MI,Michigan State Senate 20,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,4,3,122958,2026-11-18T14:51+00:00
+183441,MI,Michigan Bedford Public Schools Board Member,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+184045,MI,Michigan Camden-Frontier School Sinking Fund Millage Proposal,2026-11-03,0,,False,2,1,21,2026-11-18T14:51+00:00
+183241,MI,Michigan Marine City Mayor,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183237,MI,Michigan East China Township Park Commissioner Partial Term Ending 12/1/2028,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183425,MI,Michigan City of Luna Pier Mayor,2026-11-03,0,,False,2,1,362,2026-11-18T14:51+00:00
+183377,MI,Michigan Monroe Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,103,2026-11-18T14:51+00:00
+183181,MI,Michigan Village of St. Charles President,2026-11-03,0,,False,5,1,821,2026-11-18T14:51+00:00
+184169,MI,Michigan Wells Township Supervisor Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,238,2026-11-18T14:51+00:00
+184165,MI,Michigan Owosso Township SATA Funding,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183361,MI,Michigan Mason County Eastern Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,1,1,4,2026-11-18T14:51+00:00
+183914,MI,Michigan Village of Stockbridge Trustee - 4 Year Term,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+155841,MI,Michigan 16th District Court Judge Incumbent,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183906,MI,Michigan City of Mason Council Member,2026-11-03,0,,False,9,1,6964,2026-11-18T14:51+00:00
+155801,MI,Michigan 46th Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183866,MI,Michigan Benzie County Central Schools Operating Millage Propos,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183862,MI,Michigan Renewal and Reset Proposal for the Grand Traverse Cons,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183814,MI,Michigan River Valley Schools Board Member,2026-11-03,0,,False,4,1,2394,2026-11-18T14:51+00:00
+183010,MI,Michigan Grand Rapids City Comptroller,2026-11-03,0,,False,3,1,56718,2026-11-18T14:51+00:00
+183006,MI,Michigan Grand Rapids Community College Board of Trustees Partial Term Ending 12/31/2030,2026-11-03,0,,False,2,6,65955,2026-11-18T14:51+00:00
+183994,MI,Michigan Freeman Township Supervisor Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183990,MI,Michigan Sherman Township Proposal to Abolish the Annual Meeting of Electors (MCL 41.8),2026-11-03,0,,False,2,1,390,2026-11-18T14:51+00:00
+155674,MI,Michigan State House 37,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,3,1,37239,2026-11-18T14:51+00:00
+155670,MI,Michigan State House 33,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,3,1,51421,2026-11-18T14:51+00:00
+155858,MI,Michigan 37th District Court Judge Incumbent,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183731,MI,Michigan Village of Lake Isabella Council Member,2026-11-03,0,,False,5,1,304,2026-11-18T14:51+00:00
+183727,MI,Michigan City of Mt. Pleasant City Commissioner,2026-11-03,0,,False,10,1,4663,2026-11-18T14:51+00:00
+183480,MI,Michigan City Clerk - City of Lincoln Park,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183284,MI,Michigan Lake Michigan College Board of Trustees Partial,2026-11-03,0,,False,2,3,5471,2026-11-18T14:51+00:00
+183472,MI,Michigan Mayor - City of Ecorse,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183276,MI,Michigan Van Buren County Surveyor,2026-11-03,0,,False,1,1,371,2026-11-18T14:51+00:00
+183464,MI,Michigan Britton Deerfield Schools Sinking Fund Millage Proposal,2026-11-03,0,,False,2,1,1,2026-11-18T14:51+00:00
+183608,MI,Michigan Board Member Schoolcraft Community Schools,2026-11-03,0,,False,4,1,1561,2026-11-18T14:51+00:00
+183412,MI,Michigan Big Prairie Township Park Commission Dissolution Proposal,2026-11-03,0,,False,2,1,891,2026-11-18T14:51+00:00
+183600,MI,Michigan Board Member Gull Lake Community Schools,2026-11-03,0,,False,3,1,96,2026-11-18T14:51+00:00
+183404,MI,Michigan Oakridge Public Schools Board Member,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183592,MI,Michigan Trustee Village of Schoolcraft Partial Term ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184145,MI,Michigan Village of Vernon Trustee Member Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183949,MI,Michigan City of Lansing Essential Services Millage Restoration Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183145,MI,Michigan Sterling Heights Charter Amendment-Vacancy,2026-11-03,0,,False,2,1,2078,2026-11-18T14:51+00:00
+183141,MI,Michigan Macomb County Zoological Authority Millage,2026-11-03,4.8,,False,2,1,30583,2026-11-18T14:51+00:00
+184129,MI,Michigan Village of Morrice President,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155813,MI,Michigan Kalamazoo County Probate Court Judge Incumbent,2026-11-03,0,,False,2,1,2510,2026-11-18T14:51+00:00
+183686,MI,Michigan Manchester Schools Board Member,2026-11-03,99.9,,False,7,1,0,2026-11-18T14:51+00:00
+155805,MI,Michigan 52nd Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183834,MI,"Michigan Royalton Township Special Assessment to Equip, Maintain and Operate Township Fire Department",2026-11-03,0,,False,2,1,2522,2026-11-18T14:51+00:00
+183830,MI,Michigan Lincoln Charter Township Road Maintenance Millage Renewal,2026-11-03,0,,False,2,1,745,2026-11-18T14:51+00:00
+155713,MI,Michigan State House 76,2026-11-03,50,2026-11-04T07:09:42.072Z,False,3,1,46467,2026-11-18T14:51+00:00
+183778,MI,Michigan City of Bridgman Library Board Director,2026-11-03,0,,False,3,1,158,2026-11-18T14:51+00:00
+183774,MI,Michigan Niles City Ward 4 Council Member,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+155893,MI,Michigan 65B District Court Judge Non-Incumbent,2026-11-03,57.1,,False,2,1,5162,2026-11-18T14:51+00:00
+155889,MI,Michigan 63rd District Court Judge Incumbent Partial Term Ending 2029,2026-11-03,0,,False,2,1,18097,2026-11-18T14:51+00:00
+183519,MI,Michigan Board Member - Hamtramck Public School District,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183515,MI,Michigan Board Member - Garden City Public School District,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183703,MI,Michigan City of Ann Arbor Prop C,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+155630,MI,Michigan State Senate 31,2026-11-03,3.8,2026-11-04T07:09:42.071Z,False,2,0,0,2026-11-18T14:51+00:00
+155626,MI,Michigan State Senate 27,2026-11-03,50,2026-11-04T07:09:42.071Z,False,2,0,0,2026-11-18T14:51+00:00
+183256,MI,Michigan Village of Emmett Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183252,MI,Michigan City of St Clair Ward 3 City Council Member,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183440,MI,Michigan Airport Community Schools Board Member,2026-11-03,0,,False,5,2,0,2026-11-18T14:51+00:00
+183244,MI,Michigan Richmond City Mayor,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+183432,MI,Michigan Village of Carleton Treasurer Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183384,MI,Michigan Big Prairie Township Park Commissioner Partial Term Ending 12/1/2028,2026-11-03,0,,False,3,1,1354,2026-11-18T14:51+00:00
+184180,MI,Michigan Mid Peninsula School District Board Member,2026-11-03,0,,False,5,2,1333,2026-11-18T14:51+00:00
+183376,MI,Michigan Home Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,89,2026-11-18T14:51+00:00
+184172,MI,Michigan Bay De Noc Community College Board of Trustees 6 Year Term,2026-11-03,0,,False,5,1,25088,2026-11-18T14:51+00:00
+183368,MI,Michigan Mason County Eastern District Sinking Fund Millage Proposal,2026-11-03,0,,False,2,1,32,2026-11-18T14:51+00:00
+183121,MI,Michigan L'Anse Creuse Public Schools Board Member Partial Term Ending 12/31/2030,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155848,MI,Michigan 24th District Court Judge Incumbent,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183913,MI,Michigan Village of Dansville Trustee - 2 Year Term,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183909,MI,Michigan Village of Dansville President,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183105,MI,Michigan Almont Community Schools Board Member 4 Year Term,2026-11-03,0,,False,3,2,0,2026-11-18T14:51+00:00
+155781,MI,Michigan 22nd Circuit Court Judge Incumbent,2026-11-03,99.9,,False,3,1,0,2026-11-18T14:51+00:00
+183654,MI,Michigan City of Ann Arbor Mayor,2026-11-03,99.9,,False,3,1,0,2026-11-18T14:51+00:00
+155773,MI,Michigan 14th Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+155769,MI,Michigan 10th Circuit Court Judge Incumbent,2026-11-03,0,,False,2,1,14575,2026-11-18T14:51+00:00
+183558,MI,Michigan Millage Renewal Parks & Recreation - City of Inkster,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155677,MI,Michigan State House 40,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,3,1,47967,2026-11-18T14:51+00:00
+155673,MI,Michigan State House 36,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,4,1,35032,2026-11-18T14:51+00:00
+183738,MI,Michigan Clare Public Schools Board Member,2026-11-03,0,,False,4,3,1273,2026-11-18T14:51+00:00
+183734,MI,Michigan Village of Shepherd Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,55,2026-11-18T14:51+00:00
+183295,MI,Michigan Lawton Village Trustee,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183291,MI,Michigan Breedsville Village Trustee 4 Year Term,2026-11-03,0,,False,2,1,30,2026-11-18T14:51+00:00
+155602,MI,Michigan State Senate 3,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,4,1,82999,2026-11-18T14:51+00:00
+183475,MI,Michigan Mayor - City of Lincoln Park,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183471,MI,Michigan Parks Commission - Redford Township Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+183224,MI,Michigan St. Clair County Commissioner 5th District Partial Term 12/31/2028,2026-11-03,0,,False,3,1,4161,2026-11-18T14:51+00:00
+183220,MI,Michigan Merrill Community School District Operating Millage Renewal Proposal,2026-11-03,16.7,,False,2,3,1910,2026-11-18T14:51+00:00
+183607,MI,Michigan Board Member Portage Public Schools,2026-11-03,0,,False,7,1,0,2026-11-18T14:51+00:00
+183603,MI,Michigan Board Member Parchment School District 6 Year Term,2026-11-03,0,,False,4,1,933,2026-11-18T14:51+00:00
+183599,MI,Michigan Board Member Galesburg-Augusta Community Schools,2026-11-03,0,,False,5,1,2734,2026-11-18T14:51+00:00
+184152,MI,Michigan Laingsburg Community Schools Board Member Partial Term Ending 12/31/2030,2026-11-03,0,,False,1,1,1,2026-11-18T14:51+00:00
+183156,MI,Michigan Marion Township Treasurer Partial Term,2026-11-03,0,,False,3,1,345,2026-11-18T14:51+00:00
+184144,MI,Michigan Village of New Lothrop Council Member Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,13,2026-11-18T14:51+00:00
+183148,MI,Michigan Village of Romeo Bond Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184136,MI,Michigan Village of Bancroft Council Member,2026-11-03,0,,False,4,1,189,2026-11-18T14:51+00:00
+183889,MI,Michigan Oscoda Area Schools Board Member Partial Term Ending 12/31/2030,2026-11-03,0,,False,2,1,3237,2026-11-18T14:51+00:00
+183693,MI,Michigan South Lyon Schools Board Member,2026-11-03,99.9,,False,3,1,0,2026-11-18T14:51+00:00
+155812,MI,Michigan Ingham County Probate Court Judge Incumbent,2026-11-03,0,,False,2,1,18765,2026-11-18T14:51+00:00
+155808,MI,Michigan Berrien County Probate Court Judge Incumbent,2026-11-03,0,,False,2,1,6180,2026-11-18T14:51+00:00
+183873,MI,Michigan Baldwin Township Trustee,2026-11-03,0,,False,2,1,605,2026-11-18T14:51+00:00
+183818,MI,Michigan City of Benton Harbor Proposal to Amend the Benton Harbor City Charter to Establish a Benton Harbor Health Equality Committee an,2026-11-03,0,,False,2,1,62,2026-11-18T14:51+00:00
+183622,MI,Michigan Allegan Area Educational Services Agency Area Career and Technical Education Millage Proposal (Restoration of Millage Reduction),2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155741,MI,Michigan State House 104,2026-11-03,69.5,2026-11-12T01:54:12.323Z,False,4,1,49858,2026-11-18T14:51+00:00
+183013,MI,Michigan Wyoming City Council Member At Large,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+184001,MI,Michigan Frost Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183522,MI,Michigan Board Member - Lincoln Consolidated School District,2026-11-03,50,,False,5,2,0,2026-11-18T14:51+00:00
+183518,MI,Michigan Board Member - Grosse Pointe Public School System,2026-11-03,0,,False,6,1,17179,2026-11-18T14:51+00:00
+155637,MI,Michigan State Senate 38,2026-11-03,82.1,2026-11-12T01:54:12.322Z,False,4,1,124915,2026-11-18T14:51+00:00
+155633,MI,Michigan State Senate 34,2026-11-03,98.4,2026-11-04T07:09:42.071Z,False,3,7,116811,2026-11-18T14:51+00:00
+184063,MI,Michigan Village of Perrinton Trustee,2026-11-03,0,,False,4,1,9,2026-11-18T14:51+00:00
+184059,MI,Michigan Village of Breckenridge President,2026-11-03,0,,False,2,1,17,2026-11-18T14:51+00:00
+183447,MI,Michigan Ida Public Schools Board Member,2026-11-03,0,,False,7,1,7059,2026-11-18T14:51+00:00
+183443,MI,Michigan Britton Deerfield Schools Board Member,2026-11-03,0,,False,3,1,2,2026-11-18T14:51+00:00
+183439,MI,Michigan Village of Carleton Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184191,MI,Michigan Bingham Township Treasurer Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184187,MI,Michigan Leelanau County Road Commissioner,2026-11-03,0,,False,2,1,4306,2026-11-18T14:51+00:00
+183575,MI,Michigan Operating Millage Replacement Proposal - Taylor School District,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183379,MI,Michigan Denver Township Treasurer Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183375,MI,Michigan Goodwell Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,209,2026-11-18T14:51+00:00
+183128,MI,Michigan Rochester Community Schools Board Member Full Term,2026-11-03,0,,False,6,1,1,2026-11-18T14:51+00:00
+183924,MI,Michigan Lansing School District Board Member Partial Term Ending 12/31/2030,2026-11-03,0,,False,4,1,45,2026-11-18T14:51+00:00
+183120,MI,Michigan L'Anse Creuse Public Schools Board Member Full Term,2026-11-03,0,,False,6,1,0,2026-11-18T14:51+00:00
+183916,MI,Michigan Village of Webberville Trustee - 4 Year Term,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183112,MI,Michigan Chippewa Valley Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183857,MI,Michigan Trustee Kingsley Village (2),2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183661,MI,Michigan City of Ypsilanti City Council Ward 1,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+155780,MI,Michigan 20th Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+155776,MI,Michigan 16th Circuit Court Judge Non-Incumbent,2026-11-03,4.8,,False,3,1,24288,2026-11-18T14:51+00:00
+183841,MI,Michigan Northwestern Michigan College Board of Trustees,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+155916,MI,Michigan 95A District Court Judge Non-Incumbent,2026-11-03,0,,False,2,0,0,2026-11-18T14:51+00:00
+155720,MI,Michigan State House 83,2026-11-03,50,2026-11-04T07:09:42.072Z,False,3,1,32952,2026-11-18T14:51+00:00
+183785,MI,Michigan Eau Claire Village President,2026-11-03,0,,False,2,1,11,2026-11-18T14:51+00:00
+183781,MI,Michigan Lincoln Charter Township Library Board Director Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,45,2026-11-18T14:51+00:00
+155900,MI,Michigan 71A District Court Judge Non-Incumbent,2026-11-03,0,,False,2,0,0,2026-11-18T14:51+00:00
+183530,MI,Michigan Board Member - Riverview Community School District,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183334,MI,Michigan Hartford School Operating Millage,2026-11-03,0,,False,2,1,73,2026-11-18T14:51+00:00
+183294,MI,Michigan Lawrence Village Trustee,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183482,MI,Michigan Treasurer - City of Ecorse,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183478,MI,Michigan City Clerk - City of Ecorse,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184031,MI,Michigan Bronson Community Schools Board Member 6 Year Term,2026-11-03,0,,False,5,2,3882,2026-11-18T14:51+00:00
+184027,MI,Michigan Village of Quincy Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183415,MI,Michigan Wilcox Township Fire Protection and Medical First Responder Services Millage Proposal,2026-11-03,0,,False,2,1,353,2026-11-18T14:51+00:00
+183610,MI,Michigan Board Member Vicksburg Community Schools Partial Term ending 12/31/2030,2026-11-03,0,,False,3,2,579,2026-11-18T14:51+00:00
+183414,MI,Michigan Lincoln Township Fire Protection and Emergency Medical Response Services Millage Proposal,2026-11-03,0,,False,2,1,587,2026-11-18T14:51+00:00
+183167,MI,Michigan City of Saginaw Council Member,2026-11-03,0,,False,11,1,4982,2026-11-18T14:51+00:00
+183163,MI,Michigan Delta College Midland County Board of Trustees,2026-11-03,0,,False,2,2,21466,2026-11-18T14:51+00:00
+183351,MI,Michigan Village of Baldwin Trustee,2026-11-03,0,,False,3,1,259,2026-11-18T14:51+00:00
+184147,MI,Michigan Corunna Public Schools Board Member,2026-11-03,0,,False,5,1,4874,2026-11-18T14:51+00:00
+184143,MI,Michigan Village of Morrice Council Member Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+183896,MI,Michigan Locke Township Clerk - Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155823,MI,Michigan Wayne County Probate Court Judge Non-Incumbent,2026-11-03,0,,False,4,1,51074,2026-11-18T14:51+00:00
+183888,MI,Michigan Whittemore-Prescott Area Schools Board Member 6 Year Term,2026-11-03,0,,False,3,1,829,2026-11-18T14:51+00:00
+155815,MI,Michigan Macomb County Probate Court Judge Incumbent,2026-11-03,4.8,,False,2,1,20855,2026-11-18T14:51+00:00
+183880,MI,Michigan City of Whittemore Clerk,2026-11-03,0,,False,2,1,120,2026-11-18T14:51+00:00
+183825,MI,Michigan City of Watervliet Watervliet Joint Fire Department Millage Proposal,2026-11-03,0,,False,2,1,599,2026-11-18T14:51+00:00
+183629,MI,Michigan Midland Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,718,2026-11-18T14:51+00:00
+183817,MI,Michigan St. Joseph Public Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,4,1,3576,2026-11-18T14:51+00:00
+155744,MI,Michigan State House 107,2026-11-03,24.6,2026-11-04T07:09:42.073Z,False,2,0,0,2026-11-18T14:51+00:00
+184008,MI,Michigan Village Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+183761,MI,Michigan Royalton Township Treasurer Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,1964,2026-11-18T14:51+00:00
+183565,MI,Michigan City of Southgate - City Charter Amendment to Article 5 General Finance,2026-11-03,0,,False,2,1,3771,2026-11-18T14:51+00:00
+155684,MI,Michigan State House 47,2026-11-03,82,2026-11-04T07:09:42.072Z,False,3,1,53041,2026-11-18T14:51+00:00
+155680,MI,Michigan State House 43,2026-11-03,37.9,2026-11-04T07:09:42.072Z,False,2,0,0,2026-11-18T14:51+00:00
+183745,MI,Michigan Farwell Area Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,2,866,2026-11-18T14:51+00:00
+183306,MI,Michigan Bangor Wood School Board Member,2026-11-03,0,,False,3,1,33,2026-11-18T14:51+00:00
+184102,MI,Michigan White Pigeon Community Schools Board Member 4 Year Term,2026-11-03,0,,False,5,2,3245,2026-11-18T14:51+00:00
+183298,MI,Michigan Paw Paw Village Trustee,2026-11-03,0,,False,7,1,0,2026-11-18T14:51+00:00
+183258,MI,Michigan Village of Emmett Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183254,MI,Michigan Village of Emmett President,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183206,MI,Michigan St. Charles Community Schools Board Member,2026-11-03,0,,False,6,1,5383,2026-11-18T14:51+00:00
+184194,MI,Michigan Leland Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,4,1,1218,2026-11-18T14:51+00:00
+184190,MI,Michigan Empire Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183386,MI,Michigan City of Newaygo Mayor,2026-11-03,0,,False,2,1,616,2026-11-18T14:51+00:00
+183382,MI,Michigan Home Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,123,2026-11-18T14:51+00:00
+183935,MI,Michigan Morrice Area Schools Board Member,2026-11-03,0,,False,5,2,771,2026-11-18T14:51+00:00
+183931,MI,Michigan Webberville Community Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,4,1,28,2026-11-18T14:51+00:00
+184119,MI,Michigan City Of Laingsburg Council Member,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183123,MI,Michigan Memphis Community Schools Board Member Partial Term Ending 12/31/2030,2026-11-03,0,,False,3,2,72,2026-11-18T14:51+00:00
+183119,MI,Michigan Lakeview Public Schools Board Member,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+155795,MI,Michigan 38th Circuit Court Judge Non-Incumbent,2026-11-03,0,,False,3,1,4283,2026-11-18T14:51+00:00
+155791,MI,Michigan 33rd Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183856,MI,Michigan Trustee Kingsley Village,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+155783,MI,Michigan 25th Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183848,MI,Michigan Board Member Manton Consolidated Schools,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183000,MI,Michigan Spencer Township Supervisor Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183796,MI,Michigan Grand Beach Village Council Member,2026-11-03,0,,False,6,1,119,2026-11-18T14:51+00:00
+155915,MI,Michigan 94th District Court Judge Non-Incumbent,2026-11-03,0,,False,3,1,12904,2026-11-18T14:51+00:00
+183788,MI,Michigan Stevensville Village President,2026-11-03,0,,False,2,1,27,2026-11-18T14:51+00:00
+155907,MI,Michigan 78th District Court Judge Incumbent,2026-11-03,0,,False,2,2,11415,2026-11-18T14:51+00:00
+155660,MI,Michigan State House 23,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,4,2,42524,2026-11-18T14:51+00:00
+183341,MI,Michigan Chase Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,47,2026-11-18T14:51+00:00
+183529,MI,Michigan Board Member - River Rouge School District,2026-11-03,0,,False,9,1,0,2026-11-18T14:51+00:00
+183525,MI,Michigan Board Member - Melvindale-Northern Allen Park School District,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155644,MI,Michigan State House 7,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,3,1,26374,2026-11-18T14:51+00:00
+184074,MI,Michigan Saginaw Intermediate School District Millage Proposal,2026-11-03,50,,False,2,1,19,2026-11-18T14:51+00:00
+183078,MI,Michigan Allegan Area Educational Service Agency Special Education Millage Proposal,2026-11-03,0,,False,2,2,0,2026-11-18T14:51+00:00
+184066,MI,Michigan Ashley Community School Board Member Partial 2 yr Term,2026-11-03,75,,False,1,1,45,2026-11-18T14:51+00:00
+184062,MI,Michigan Village of Perrinton President,2026-11-03,0,,False,2,1,4,2026-11-18T14:51+00:00
+183222,MI,Michigan St. Charles Community Schools Bond Proposal,2026-11-03,0,,False,2,1,2265,2026-11-18T14:51+00:00
+183974,MI,Michigan Village of Le Roy Trustee,2026-11-03,0,,False,4,1,196,2026-11-18T14:51+00:00
+183170,MI,Michigan Bridgeport Township Library Board Director Partial Term,2026-11-03,0,,False,3,1,297,2026-11-18T14:51+00:00
+183166,MI,Michigan City of Frankenmuth Council Member,2026-11-03,0,,False,4,1,91,2026-11-18T14:51+00:00
+184154,MI,Michigan City of Corunna Charter Amendment 4.2,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184150,MI,Michigan Owosso Public Schools Board Member,2026-11-03,0,,False,6,1,4839,2026-11-18T14:51+00:00
+155834,MI,Michigan 8th District Court Judge Non-Incumbent,2026-11-03,0,,False,3,1,4161,2026-11-18T14:51+00:00
+155830,MI,Michigan 5th District Court Judge Incumbent,2026-11-03,0,,False,2,1,6201,2026-11-18T14:51+00:00
+183095,MI,Michigan Village of New Haven Clerk,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+183891,MI,Michigan Whittemore-Prescott Area Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,1,558,2026-11-18T14:51+00:00
+183887,MI,Michigan Tawas Area Schools Board Member 4 Year Term,2026-11-03,0,,False,7,1,8982,2026-11-18T14:51+00:00
+155763,MI,Michigan 5th Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+155759,MI,Michigan 3rd Circuit Court Judge Non-Incumbent,2026-11-03,0,,False,2,1,24289,2026-11-18T14:51+00:00
+183824,MI,Michigan City of Niles Proposal to Limit the Number of Marihuana Retailers in the City of Niles,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183820,MI,Michigan Bridgeman City Library Millage Renewal,2026-11-03,0,,False,2,1,143,2026-11-18T14:51+00:00
+183816,MI,Michigan St. Joseph Public Schools Board Member 6 Year Term,2026-11-03,0,,False,4,1,4003,2026-11-18T14:51+00:00
+183768,MI,Michigan Coloma City Treasurer,2026-11-03,0,,False,2,1,479,2026-11-18T14:51+00:00
+155695,MI,Michigan State House 58,2026-11-03,99.9,2026-11-12T01:54:12.323Z,False,3,1,40114,2026-11-18T14:51+00:00
+183760,MI,Michigan Hagar Township Treasurer Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,41,2026-11-18T14:51+00:00
+155687,MI,Michigan State House 50,2026-11-03,0,2026-11-04T07:09:42.072Z,False,2,0,0,2026-11-18T14:51+00:00
+183752,MI,Michigan Mid Michigan College Charter Millage Proposal,2026-11-03,0,,False,2,3,8371,2026-11-18T14:51+00:00
+183505,MI,Michigan Wayne County Community College District 2 Trustee,2026-11-03,0,,False,2,1,2747,2026-11-18T14:51+00:00
+184109,MI,Michigan Fairfield Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,189,2026-11-18T14:51+00:00
+183305,MI,Michigan Bangor School Board Member,2026-11-03,0,,False,2,1,511,2026-11-18T14:51+00:00
+183301,MI,Michigan Lawton Village Trustee Partial,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183489,MI,Michigan City Council Lincoln Park,2026-11-03,0,,False,10,1,0,2026-11-18T14:51+00:00
+184042,MI,Michigan Reading Community Schools Board Member Partial Term 12/31/2028,2026-11-03,0,,False,1,1,80,2026-11-18T14:51+00:00
+183046,MI,Michigan Grand Rapids Public Schools Board Member 4 Year Term,2026-11-03,0,,False,16,1,220244,2026-11-18T14:51+00:00
+184034,MI,Michigan Homer Community School District Board Member 6 Year Term,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+184030,MI,Michigan Village of Union City Trustee,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183226,MI,Michigan Yale City Clerk,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+183938,MI,Michigan Northwest Community Schools Board Member,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183934,MI,Michigan Eaton Rapids Public Schools Board Member,2026-11-03,0,,False,2,1,148,2026-11-18T14:51+00:00
+183130,MI,Michigan Romeo Community Schools Board Member,2026-11-03,0,,False,7,1,119,2026-11-18T14:51+00:00
+183126,MI,Michigan New Haven Community Schools Board Member,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183679,MI,Michigan Chelsea Schools Board Member,2026-11-03,99.9,,False,4,1,0,2026-11-18T14:51+00:00
+183675,MI,Michigan City of Saline City Council,2026-11-03,99.9,,False,5,1,0,2026-11-18T14:51+00:00
+183863,MI,Michigan Grand Traverse County Trails Millage,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183859,MI,Michigan Board Member Kingsley Area Schools,2026-11-03,0,,False,6,1,0,2026-11-18T14:51+00:00
+183855,MI,Michigan President Kingsley Village,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183807,MI,Michigan Eau Claire Public Schools Board Member 6 Year Term,2026-11-03,0,,False,5,2,100,2026-11-18T14:51+00:00
+183803,MI,Michigan Brandywine Community Schools Board Member 6 Year Term,2026-11-03,0,,False,3,2,21,2026-11-18T14:51+00:00
+183991,MI,Michigan Sylvan Township Fire Millage Proposal,2026-11-03,0,,False,2,1,385,2026-11-18T14:51+00:00
+155918,MI,Michigan 96th District Court Judge Non-Incumbent,2026-11-03,0,,False,2,0,0,2026-11-18T14:51+00:00
+155914,MI,Michigan 92nd District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+155667,MI,Michigan State House 30,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,3,1,42536,2026-11-18T14:51+00:00
+183540,MI,Michigan Board Member - Wyandotte Public School District,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+155659,MI,Michigan State House 22,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,3,1,54164,2026-11-18T14:51+00:00
+183532,MI,Michigan Board Member - South Redford School District,2026-11-03,0,,False,6,1,0,2026-11-18T14:51+00:00
+155651,MI,Michigan State House 14,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,4,1,40111,2026-11-18T14:51+00:00
+183281,MI,Michigan Kalamazoo Valley Community College Board of Trustees,2026-11-03,0,,False,4,3,4651,2026-11-18T14:51+00:00
+183085,MI,Michigan Center Line Council Member,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+184073,MI,Michigan Saint Louis Public Schools Operating Millage Proposal,2026-11-03,75,,False,2,1,1206,2026-11-18T14:51+00:00
+184069,MI,Michigan Ithaca Public Schools Board Member,2026-11-03,66.7,,False,7,1,7089,2026-11-18T14:51+00:00
+183265,MI,Michigan Marysville Public Schools Board Member 4 Year Term,2026-11-03,0,,False,6,1,1906,2026-11-18T14:51+00:00
+183409,MI,Michigan Walkerville Public Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,3,1,141,2026-11-18T14:51+00:00
+183213,MI,Michigan Birch Run Area Schools Sinking Fund Millage Renewal Proposal,2026-11-03,0,,False,2,1,2041,2026-11-18T14:51+00:00
+184201,MI,Michigan Glen Lake Community Schools Board Member 6 Year Term,2026-11-03,0,,False,4,2,1687,2026-11-18T14:51+00:00
+184197,MI,Michigan Village of Empire Trustee 4 Year Term,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183393,MI,Michigan Hesperia Village Trustee,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183946,MI,Michigan Proposal to Amend East Lansing City Charter Provisions Relating to City Contracts,2026-11-03,0,,False,2,1,3518,2026-11-18T14:51+00:00
+155873,MI,Michigan 52nd District Court - 2nd Division Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+155837,MI,Michigan 12th District Court Judge Non-Incumbent,2026-11-03,0,,False,2,0,0,2026-11-18T14:51+00:00
+155833,MI,Michigan 8th District Court Judge Incumbent,2026-11-03,0,,False,2,1,2482,2026-11-18T14:51+00:00
+183898,MI,Michigan Wheatfield Township Clerk - Partial Term Ending 12/1/2028,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183894,MI,Michigan Hale Area Schools Operating Millage Proposal,2026-11-03,0,,False,2,1,1881,2026-11-18T14:51+00:00
+183647,MI,Michigan Bay County Library Millage Renewal Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183643,MI,Michigan Coleman Community Schools Board Member,2026-11-03,0,,False,3,2,2002,2026-11-18T14:51+00:00
+183831,MI,Michigan Niles Charter Township Marihuana Retail Establishment Ordinance,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183827,MI,Michigan Baroda Township New Public Safety Millage to Fund Baroda Township Police Services,2026-11-03,0,,False,2,1,160,2026-11-18T14:51+00:00
+183823,MI,Michigan City of Coloma Public Safety Millage,2026-11-03,0,,False,2,1,604,2026-11-18T14:51+00:00
+155706,MI,Michigan State House 69,2026-11-03,50,2026-11-12T01:54:12.323Z,False,3,0,0,2026-11-18T14:51+00:00
+155702,MI,Michigan State House 65,2026-11-03,90.4,2026-11-04T07:09:42.072Z,False,3,2,45911,2026-11-18T14:51+00:00
+155890,MI,Michigan 64A District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183763,MI,Michigan Royalton Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,1941,2026-11-18T14:51+00:00
+183759,MI,Michigan Pipestone Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,36,2026-11-18T14:51+00:00
+183512,MI,Michigan Board Member - Dearborn Public School District,2026-11-03,0,,False,6,1,0,2026-11-18T14:51+00:00
+183316,MI,Michigan Mattawan School Board Member,2026-11-03,0,,False,5,2,276,2026-11-18T14:51+00:00
+183504,MI,Michigan Schoolcraft College Trustee Member - Partial Term Ending 12/31/2028,2026-11-03,50,,False,2,2,2339,2026-11-18T14:51+00:00
+183308,MI,Michigan Covert School Board Member,2026-11-03,0,,False,5,2,2,2026-11-18T14:51+00:00
+183496,MI,Michigan City Council District 2 Highland Park,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183249,MI,Michigan Port Huron City Council Member,2026-11-03,0,,False,7,1,20419,2026-11-18T14:51+00:00
+183053,MI,Michigan Kenowa Hills Public Schools Board Member,2026-11-03,0,,False,7,2,1755,2026-11-18T14:51+00:00
+184041,MI,Michigan Homer Community School District Board Member Partial Term 12/31/2030,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184037,MI,Michigan Reading Community Schools Board Member 6 Year Term,2026-11-03,0,,False,3,1,126,2026-11-18T14:51+00:00
+183233,MI,Michigan Brockway Township Treasurer Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,824,2026-11-18T14:51+00:00
+184177,MI,Michigan Big Bay De Noc Schools Board Member 4 Year Term,2026-11-03,0,,False,6,2,2257,2026-11-18T14:51+00:00
+183981,MI,Michigan City of Evart Fire Millage Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183177,MI,Michigan Village of Oakley Trustee,2026-11-03,0,,False,4,1,14,2026-11-18T14:51+00:00
+183173,MI,Michigan Village of Chesaning Trustee,2026-11-03,0,,False,4,1,38,2026-11-18T14:51+00:00
+184161,MI,Michigan Hazelton Township Road Millage Proposal,2026-11-03,0,,False,2,1,933,2026-11-18T14:51+00:00
+155845,MI,Michigan 20th District Court Judge Incumbent,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183718,MI,Michigan Coldwater Township Supervisor Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,253,2026-11-18T14:51+00:00
+183678,MI,Michigan Ann Arbor Public Schools Board Member Partial Term,2026-11-03,99.9,,False,4,1,0,2026-11-18T14:51+00:00
+155797,MI,Michigan 40th Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+155793,MI,Michigan 36th Circuit Court Judge Non-Incumbent,2026-11-03,0,,False,2,1,2380,2026-11-18T14:51+00:00
+183615,MI,Michigan City of Portage Proposal - Citizens' Advisory Healthcare Action Board,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183810,MI,Michigan Lakeshore Public Schools Board Member,2026-11-03,0,,False,5,1,2359,2026-11-18T14:51+00:00
+183806,MI,Michigan Buchanan Community Schools Board Member,2026-11-03,0,,False,3,1,417,2026-11-18T14:51+00:00
+183002,MI,Michigan Alpine Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,3,1,2058,2026-11-18T14:51+00:00
+183798,MI,Michigan Shoreham Village Trustee,2026-11-03,0,,False,3,1,73,2026-11-18T14:51+00:00
+183551,MI,Michigan Board Member - Plymouth District Library,2026-11-03,0,,False,6,1,10408,2026-11-18T14:51+00:00
+183547,MI,Michigan Library Board Member - City of Garden City,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183735,MI,Michigan Alma Public Schools Board Member,2026-11-03,18.8,,False,6,2,2738,2026-11-18T14:51+00:00
+155662,MI,Michigan State House 25,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,3,1,37241,2026-11-18T14:51+00:00
+155658,MI,Michigan State House 21,2026-11-03,50,2026-11-04T07:09:42.072Z,False,2,0,0,2026-11-18T14:51+00:00
+183288,MI,Michigan Decatur Village President,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+184084,MI,Michigan City of Three Rivers Commissioner District 4,2026-11-03,0,,False,2,1,1592,2026-11-18T14:51+00:00
+183280,MI,Michigan Arlington Township Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184076,MI,Michigan White Pigeon Township Treasurer Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,1226,2026-11-18T14:51+00:00
+183272,MI,Michigan Casco Township Renewal Millage for Road Improvement and Maintenance,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183217,MI,Michigan Freeland Community School District Bond Proposal,2026-11-03,0,,False,2,2,247,2026-11-18T14:51+00:00
+183021,MI,Michigan Grand Rapids City Library Board 6 Year Term,2026-11-03,0,,False,4,1,116046,2026-11-18T14:51+00:00
+183408,MI,Michigan Hesperia Community Schools Board Member Partial Term Ending 12/31/2030,2026-11-03,0,,False,2,1,93,2026-11-18T14:51+00:00
+184204,MI,Michigan Suttons Bay Public Schools Board Member 4 Year Term,2026-11-03,0,,False,4,1,2702,2026-11-18T14:51+00:00
+183400,MI,Michigan Hesperia Community Schools Board Member 6 Year Term,2026-11-03,0,,False,3,1,157,2026-11-18T14:51+00:00
+183153,MI,Michigan Birch Run Township Clerk Partial Term,2026-11-03,0,,False,2,1,45,2026-11-18T14:51+00:00
+155880,MI,Michigan 56A District Court Judge Incumbent Partial Term Ending 2029,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183945,MI,Michigan Proposal to Amend East Lansing City Charter Provisions Relating to City Clerk,2026-11-03,0,,False,2,1,3616,2026-11-18T14:51+00:00
+183941,MI,Michigan Fowlerville District Library Board Member,2026-11-03,0,,False,5,2,77,2026-11-18T14:51+00:00
+183137,MI,Michigan Warren Consolidated Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183690,MI,Michigan Pinckney Schools Board Member Partial Term,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+155617,MI,Michigan State Senate 18,2026-11-03,91.1,2026-11-04T07:09:42.071Z,False,3,2,122430,2026-11-18T14:51+00:00
+183682,MI,Michigan Clinton Schools Board Member Partial Term,2026-11-03,99.9,,False,3,1,0,2026-11-18T14:51+00:00
+155765,MI,Michigan 6th Circuit Court Judge Non-Incumbent,2026-11-03,0,,False,2,0,0,2026-11-18T14:51+00:00
+155761,MI,Michigan 4th Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183590,MI,Michigan President Schoolcraft Village,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+155709,MI,Michigan State House 72,2026-11-03,43.8,2026-11-04T07:09:42.072Z,False,2,0,0,2026-11-18T14:51+00:00
+155705,MI,Michigan State House 68,2026-11-03,50,2026-11-12T01:54:12.323Z,False,4,0,0,2026-11-18T14:51+00:00
+183770,MI,Michigan New Buffalo City Council Member,2026-11-03,0,,False,4,1,102,2026-11-18T14:51+00:00
+183766,MI,Michigan Park Commissioner Niles Charter Township Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183327,MI,Michigan Paw Paw School Board Member Partial,2026-11-03,0,,False,2,1,445,2026-11-18T14:51+00:00
+183323,MI,Michigan Bangor School Board Member Partial,2026-11-03,0,,False,2,1,531,2026-11-18T14:51+00:00
+155634,MI,Michigan State Senate 35,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,4,2,122845,2026-11-18T14:51+00:00
+183507,MI,Michigan Wayne County Community College District 9 Trustee,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183503,MI,Michigan Schoolcraft College Trustee Member,2026-11-03,50,,False,5,2,6905,2026-11-18T14:51+00:00
+184056,MI,Michigan Village of Ashley President,2026-11-03,99.9,,False,2,1,155,2026-11-18T14:51+00:00
+184052,MI,Michigan Washington Township Clerk Partial Term,2026-11-03,0,,False,2,1,12,2026-11-18T14:51+00:00
+183248,MI,Michigan Marysville City Council Member,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+184044,MI,Michigan Union City Community Schools Board Member Partial Term 12/31/2028,2026-11-03,0,,False,1,2,241,2026-11-18T14:51+00:00
+183240,MI,Michigan St. Clair County Community College Board of Trustees,2026-11-03,0,,False,4,3,23831,2026-11-18T14:51+00:00
+184184,MI,Michigan Rapid River Public Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,1,1,71,2026-11-18T14:51+00:00
+183188,MI,Michigan Bridgeport-Spaulding Community Schools Board Member,2026-11-03,0,,False,7,1,3611,2026-11-18T14:51+00:00
+184176,MI,Michigan Bark River-Harris Schools Board Member,2026-11-03,0,,False,4,2,1409,2026-11-18T14:51+00:00
+183180,MI,Michigan Village of Reese Trustee Partial Term,2026-11-03,0,,False,1,1,1,2026-11-18T14:51+00:00
+184168,MI,Michigan Delta County Road Commissioner,2026-11-03,0,,False,3,1,15753,2026-11-18T14:51+00:00
+183921,MI,Michigan Holt Public Schools Board Member,2026-11-03,0,,False,5,1,21505,2026-11-18T14:51+00:00
+183725,MI,Michigan Community College Board of Trustees Member Mid Michigan College 6 Year Term,2026-11-03,0,,False,6,3,9364,2026-11-18T14:51+00:00
+155844,MI,Michigan 19th District Court Judge Incumbent,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155840,MI,Michigan 15th District Court Judge Incumbent,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+183905,MI,Michigan City of Leslie Council Member,2026-11-03,0,,False,5,1,1276,2026-11-18T14:51+00:00
+183658,MI,Michigan City of Ann Arbor City Council Ward 4,2026-11-03,99.9,,False,3,1,0,2026-11-18T14:51+00:00
+183462,MI,Michigan Village of Estral Beach Flood Control Millage,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183650,MI,Michigan Meridian Public Schools Bond Proposal,2026-11-03,0,,False,2,1,1584,2026-11-18T14:51+00:00
+183646,MI,Michigan St. Louis Public Schools Board Member,2026-11-03,25,,False,7,3,3787,2026-11-18T14:51+00:00
+183366,MI,Michigan Kaleva Norman Dickson School District Operating Millage Renewal Proposal,2026-11-03,0,,False,2,1,385,2026-11-18T14:51+00:00
+183554,MI,Michigan General Revision of the City Charter Proposal - City of Dearborn Heights,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183550,MI,Michigan Board Member - Northville District Library,2026-11-03,0,,False,8,1,0,2026-11-18T14:51+00:00
+155669,MI,Michigan State House 32,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,5,1,40714,2026-11-18T14:51+00:00
+155665,MI,Michigan State House 28,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,3,2,41243,2026-11-18T14:51+00:00
+184095,MI,Michigan White Pigeon Village Trustee,2026-11-03,0,,False,5,1,858,2026-11-18T14:51+00:00
+184091,MI,Michigan Centreville Village Trustee,2026-11-03,0,,False,4,1,617,2026-11-18T14:51+00:00
+183479,MI,Michigan City Clerk - City of Highland Park,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+183283,MI,Michigan Southwestern Michigan College Board of Trustees,2026-11-03,0,,False,4,1,738,2026-11-18T14:51+00:00
+183279,MI,Michigan Bangor Township Clerk,2026-11-03,0,,False,2,1,464,2026-11-18T14:51+00:00
+184024,MI,Michigan Village of Sherwood President,2026-11-03,0,,False,1,1,50,2026-11-18T14:51+00:00
+184020,MI,Michigan Bethel Township Treasurer Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,390,2026-11-18T14:51+00:00
+183216,MI,Michigan II. Bridgeport-Spaulding Community School District Sinking Fund Millage Proposal,2026-11-03,0,,False,2,1,1885,2026-11-18T14:51+00:00
+183411,MI,Michigan Big Prairie Township Proposal to Initiate an Ordinance to Allow an Adult-Use Marijuana Designated Consumption Establishment,2026-11-03,0,,False,2,1,924,2026-11-18T14:51+00:00
+183407,MI,Michigan White Cloud Public Schools Board Member Partial Term Ending 12/31/2030,2026-11-03,0,,False,3,1,1918,2026-11-18T14:51+00:00
+183160,MI,Michigan Richland Township Park Commissioner Partial Term,2026-11-03,0,,False,3,1,64,2026-11-18T14:51+00:00
+183956,MI,Michigan Dansville Schools Operating Millage Renewal Proposal,2026-11-03,0,,False,2,1,735,2026-11-18T14:51+00:00
+183152,MI,Michigan Albee Township Clerk Partial Term,2026-11-03,0,,False,2,1,701,2026-11-18T14:51+00:00
+183948,MI,Michigan II. Petition-Inititiated Charter Amendment Proposal,2026-11-03,0,,False,2,1,3725,2026-11-18T14:51+00:00
+183144,MI,Michigan New Baltimore Bond Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155820,MI,Michigan St. Clair County Probate Court Judge Incumbent,2026-11-03,0,,False,2,1,14279,2026-11-18T14:51+00:00
+155624,MI,Michigan State Senate 25,2026-11-03,98.1,2026-11-04T07:09:42.071Z,False,3,2,123985,2026-11-18T14:51+00:00
+183689,MI,Michigan Pinckney Schools Board Member,2026-11-03,99.9,,False,4,1,0,2026-11-18T14:51+00:00
+183685,MI,Michigan Grass Lake Schools Board Member,2026-11-03,99.9,,False,4,1,0,2026-11-18T14:51+00:00
+155804,MI,Michigan 51st Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183626,MI,Michigan Geneva Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,392,2026-11-18T14:51+00:00
+183430,MI,Michigan Village of Carleton Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183618,MI,Michigan Comstock Public Schools Bond Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183813,MI,Michigan Sodus Township School District #5 Board Member,2026-11-03,0,,False,3,1,4,2026-11-18T14:51+00:00
+183009,MI,Michigan Wyoming City Mayor,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183330,MI,Michigan Geneva Township Library Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183326,MI,Michigan Lawrence School Board Member Partial,2026-11-03,0,,False,2,1,13,2026-11-18T14:51+00:00
+183514,MI,Michigan Board Member - Ecorse Public School District,2026-11-03,0,,False,7,1,0,2026-11-18T14:51+00:00
+183510,MI,Michigan Board Member - Crestwood School District,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183071,MI,Michigan Byron Township New Millage Proposition 1.00 Mill for Parks and Recreation Purposes,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183067,MI,Michigan Kent County Millage Renewal and Increase Corrections and Detention Facilities,2026-11-03,0,,False,2,1,101491,2026-11-18T14:51+00:00
+183255,MI,Michigan Village of Emmett Clerk,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183251,MI,Michigan City of St Clair Ward 2 City Council Member,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183247,MI,Michigan City of Marine City Commissioner,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183199,MI,Michigan New Lothrop Area Schools Board Member,2026-11-03,0,,False,5,2,4491,2026-11-18T14:51+00:00
+183195,MI,Michigan Hemlock Public Schools Board Member,2026-11-03,0,,False,5,2,843,2026-11-18T14:51+00:00
+183383,MI,Michigan Sheridan Charter Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,597,2026-11-18T14:51+00:00
+184179,MI,Michigan Gladstone Area Schools Board Member 4 Year Term,2026-11-03,0,,False,8,1,4663,2026-11-18T14:51+00:00
+184175,MI,Michigan Village of Garden Trustee,2026-11-03,0,,False,3,1,114,2026-11-18T14:51+00:00
+183928,MI,Michigan Okemos School District Board Member,2026-11-03,0,,False,4,1,4617,2026-11-18T14:51+00:00
+155855,MI,Michigan 36th District Court Judge Incumbent,2026-11-03,0,,False,7,1,54393,2026-11-18T14:51+00:00
+183920,MI,Michigan Haslett Schools Board Member,2026-11-03,0,,False,3,2,804,2026-11-18T14:51+00:00
+155847,MI,Michigan 23rd District Court Judge Incumbent,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183912,MI,Michigan Village of Dansville Trustee - 4 Year Term,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155788,MI,Michigan 30th Circuit Court Judge Incumbent Partial Term Ending 2029,2026-11-03,0,,False,2,1,18576,2026-11-18T14:51+00:00
+183469,MI,Michigan Trustee - Charter Township of Northville Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183657,MI,Michigan City of Ann Arbor City Council Ward 3,2026-11-03,99.9,,False,3,1,0,2026-11-18T14:51+00:00
+183653,MI,Michigan Saginaw Intermediate School District Area Career and Technical Education Millage Renewal Proposal,2026-11-03,0,,False,2,1,680,2026-11-18T14:51+00:00
+155772,MI,Michigan 13th Circuit Court Judge Incumbent,2026-11-03,0,,False,2,2,4339,2026-11-18T14:51+00:00
+183793,MI,Michigan Berrien Springs Village Trustee,2026-11-03,0,,False,4,1,85,2026-11-18T14:51+00:00
+183597,MI,Michigan Board Member Colon Community Schools,2026-11-03,0,,False,4,3,2892,2026-11-18T14:51+00:00
+155716,MI,Michigan State House 79,2026-11-03,90.6,2026-11-04T07:09:42.072Z,False,3,1,48384,2026-11-18T14:51+00:00
+155712,MI,Michigan State House 75,2026-11-03,85.7,2026-11-12T01:54:12.323Z,False,3,2,47424,2026-11-18T14:51+00:00
+183777,MI,Michigan Watervliet City Commissioner,2026-11-03,0,,False,4,1,919,2026-11-18T14:51+00:00
+183338,MI,Michigan Lake County Prosecuting Attorney Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,1,3896,2026-11-18T14:51+00:00
+184134,MI,Michigan Village of Lennon Treasurer,2026-11-03,0,,False,2,1,108,2026-11-18T14:51+00:00
+184094,MI,Michigan Mendon Village Trustee,2026-11-03,0,,False,2,1,283,2026-11-18T14:51+00:00
+183290,MI,Michigan Bloomingdale Village Trustee,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183286,MI,Michigan Bloomingdale Village President,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183039,MI,Michigan Cedar Springs Public Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,2,1624,2026-11-18T14:51+00:00
+183035,MI,Michigan Belding Area Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183223,MI,Michigan Saginaw Intermediate School District Area Career and Technical Education Millage Proposal,2026-11-03,0,,False,2,1,18479,2026-11-18T14:51+00:00
+183219,MI,Michigan II. Hemlock Public School District Operating Millage Renewal Proposal,2026-11-03,0,,False,2,2,402,2026-11-18T14:51+00:00
+183215,MI,Michigan I. Bridgeport-Spaulding Community School District Operating Millage Proposal,2026-11-03,0,,False,2,1,1887,2026-11-18T14:51+00:00
+183967,MI,Michigan Village of Hersey President,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183963,MI,Michigan City of Evart Clerk,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184151,MI,Michigan Durand Area Schools Board Member Partial Term Ending 12/31/2030,2026-11-03,0,,False,3,1,811,2026-11-18T14:51+00:00
+183155,MI,Michigan Bridgeport Township Treasurer Partial Term,2026-11-03,0,,False,2,1,243,2026-11-18T14:51+00:00
+183151,MI,Michigan Eastpointe Community Schools Bond Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155827,MI,Michigan 3A District Court Judge Incumbent,2026-11-03,0,,False,1,1,4456,2026-11-18T14:51+00:00
+183700,MI,Michigan Ypsilanti District Library Board Member Partial Term,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+155819,MI,Michigan Saginaw County Probate Court Judge Incumbent,2026-11-03,0,,False,2,1,14396,2026-11-18T14:51+00:00
+183692,MI,Michigan Saline Schools Board Member Partial Term,2026-11-03,99.9,,False,4,1,0,2026-11-18T14:51+00:00
+155811,MI,Michigan Huron County Probate Court Judge Incumbent,2026-11-03,0,,False,2,0,0,2026-11-18T14:51+00:00
+155756,MI,Michigan Court of Appeals District 4 Incumbent,2026-11-03,4.1,,False,4,14,232519,2026-11-18T14:51+00:00
+183437,MI,Michigan Village of Maybee Trustee,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183625,MI,Michigan Edenville Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183621,MI,Michigan Allegan Area Educational Services Agency Special Education Millage Proposal (Restoration of Millage Reduction),2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155740,MI,Michigan State House 103,2026-11-03,98.2,2026-11-12T01:54:12.323Z,False,4,2,57376,2026-11-18T14:51+00:00
+155692,MI,Michigan State House 55,2026-11-03,50,2026-11-04T07:09:42.072Z,False,2,0,0,2026-11-18T14:51+00:00
+183373,MI,Michigan Barton Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+183561,MI,Michigan City of Riverview Bond Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183557,MI,Michigan City of Grosse Pointe Park Parks and Recreation Millage Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155676,MI,Michigan State House 39,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,4,2,39267,2026-11-18T14:51+00:00
+184106,MI,Michigan Nottawa Community School Bond Proposal,2026-11-03,0,,False,2,1,481,2026-11-18T14:51+00:00
+183110,MI,Michigan Center Line Public Schools Board Member,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+184098,MI,Michigan Constantine Public Schools Board Member,2026-11-03,0,,False,4,2,2652,2026-11-18T14:51+00:00
+184058,MI,Michigan Village of Ashley Council Member Partial Term,2026-11-03,99.9,,False,2,1,142,2026-11-18T14:51+00:00
+184054,MI,Michigan City of St. Louis Mayor,2026-11-03,0,,False,2,1,83,2026-11-18T14:51+00:00
+184006,MI,Michigan Village President,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183202,MI,Michigan Saginaw City School District Board Member,2026-11-03,0,,False,3,1,4102,2026-11-18T14:51+00:00
+183198,MI,Michigan Montrose Community Schools Board Member,2026-11-03,0,,False,4,1,88,2026-11-18T14:51+00:00
+184186,MI,Michigan Escanaba Area Schools Operating Millage Proposal,2026-11-03,0,,False,2,2,8235,2026-11-18T14:51+00:00
+184182,MI,Michigan Big Bay De Noc Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,1,2,67,2026-11-18T14:51+00:00
+155866,MI,Michigan 45th District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+155862,MI,Michigan 41A District Court Judge Incumbent,2026-11-03,0,,False,2,1,5978,2026-11-18T14:51+00:00
+183127,MI,Michigan Richmond Community Schools Board Member,2026-11-03,20,,False,4,2,4157,2026-11-18T14:51+00:00
+183923,MI,Michigan Lansing School District Board Member,2026-11-03,0,,False,6,1,105,2026-11-18T14:51+00:00
+183919,MI,Michigan East Lansing Public Schools Board Member,2026-11-03,0,,False,4,1,7232,2026-11-18T14:51+00:00
+183672,MI,Michigan City of Dexter City Council,2026-11-03,99.9,,False,5,1,0,2026-11-18T14:51+00:00
+183668,MI,Michigan York Township Supervisor,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+155787,MI,Michigan 30th Circuit Court Judge Incumbent,2026-11-03,0,,False,4,1,45866,2026-11-18T14:51+00:00
+183660,MI,Michigan City of Ypsilanti Mayor,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+155779,MI,Michigan 19th Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183800,MI,Michigan Three Oaks Village Council Member,2026-11-03,0,,False,5,1,133,2026-11-18T14:51+00:00
+155727,MI,Michigan State House 90,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,3,1,51094,2026-11-18T14:51+00:00
+183792,MI,Michigan Baroda Village Trustee,2026-11-03,0,,False,8,1,109,2026-11-18T14:51+00:00
+155719,MI,Michigan State House 82,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,3,1,36960,2026-11-18T14:51+00:00
+183784,MI,Michigan Berrien Springs Village President,2026-11-03,0,,False,2,1,35,2026-11-18T14:51+00:00
+183537,MI,Michigan Board Member - Wayne-Westland Community School District,2026-11-03,0,,False,6,1,0,2026-11-18T14:51+00:00
+184141,MI,Michigan Village of Vernon Trustee Member 4 Year Term,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183337,MI,Michigan Coloma School Sinking Fund Millage,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183333,MI,Michigan Mattawan Village Headlee Override Millage,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183521,MI,Michigan Board Member - Highland Park Public School District,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183082,MI,Michigan Lenox Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183878,MI,Michigan City of Tawas City Mayor,2026-11-03,0,,False,2,1,572,2026-11-18T14:51+00:00
+183074,MI,Michigan Kenowa Hills Public Schools Operating Millage Proposal,2026-11-03,0,,False,2,2,764,2026-11-18T14:51+00:00
+183070,MI,Michigan City of Walker Proposal to Authorize a New Additional Millage for Public Safety of 1.75 Mills,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184022,MI,Michigan Girard Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+155905,MI,Michigan 76th District Court Judge Incumbent,2026-11-03,0,,False,2,2,6814,2026-11-18T14:51+00:00
+183970,MI,Michigan Village of Tustin President,2026-11-03,0,,False,2,1,56,2026-11-18T14:51+00:00
+183966,MI,Michigan City of Reed City Council Member Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,47,2026-11-18T14:51+00:00
+183162,MI,Michigan Delta College Bay County Board of Trustees,2026-11-03,0,,False,2,2,21687,2026-11-18T14:51+00:00
+183158,MI,Michigan Chesaning Township Trustee Partial Term,2026-11-03,0,,False,3,1,60,2026-11-18T14:51+00:00
+183711,MI,Michigan Augusta Fire Millage Increase,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+183707,MI,Michigan City of Ypsilanti Proposal for Nonpartisan Elections,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+183895,MI,Michigan Wheatfield Township Supervisor - Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155822,MI,Michigan Washtenaw County Probate Court Judge Non-Incumbent,2026-11-03,99.9,,False,3,1,0,2026-11-18T14:51+00:00
+155818,MI,Michigan Oakland County Probate Court Judge Non-Incumbent,2026-11-03,0,,False,2,0,0,2026-11-18T14:51+00:00
+183640,MI,Michigan Village of Sanford Council Member 2 Year Term,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+183636,MI,Michigan City of Midland Ward 4 Council Member,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155755,MI,Michigan Court of Appeals District 3 Incumbent,2026-11-03,16.7,,False,3,6,149289,2026-11-18T14:51+00:00
+183628,MI,Michigan Midland Township Treasurer Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,724,2026-11-18T14:51+00:00
+155747,MI,Michigan State House 110,2026-11-03,44.1,2026-11-04T07:09:42.073Z,False,2,0,0,2026-11-18T14:51+00:00
+155699,MI,Michigan State House 62,2026-11-03,99.9,2026-11-12T01:54:12.323Z,False,3,1,42522,2026-11-18T14:51+00:00
+183572,MI,Michigan Redford Union School District Operating Millage Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155691,MI,Michigan State House 54,2026-11-03,50,2026-11-04T07:09:42.072Z,False,2,0,0,2026-11-18T14:51+00:00
+183564,MI,Michigan City of Southgate Charter Amendment to Remove Term Limits for Elected City Officials,2026-11-03,0,,False,2,1,3867,2026-11-18T14:51+00:00
+155683,MI,Michigan State House 46,2026-11-03,99.9,2026-11-12T01:54:12.323Z,False,3,1,34453,2026-11-18T14:51+00:00
+183313,MI,Michigan Lawton School Board Member,2026-11-03,0,,False,4,2,1954,2026-11-18T14:51+00:00
+183117,MI,Michigan Fraser Public Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,12.5,,False,2,1,1070,2026-11-18T14:51+00:00
+184105,MI,Michigan Mottville Township Prohibition of Marihuana Establishments Ordinance,2026-11-03,0,,False,2,1,594,2026-11-18T14:51+00:00
+184101,MI,Michigan Three Rivers Community Schools Board Member 4 Year Term,2026-11-03,0,,False,4,2,10711,2026-11-18T14:51+00:00
+183297,MI,Michigan Mattawan Village Trustee,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183050,MI,Michigan Greenville Public Schools Board Member,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183846,MI,Michigan Board Member Buckley Community Schools,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183042,MI,Michigan Forest Hills Public Schools Board Member,2026-11-03,0,,False,4,1,5217,2026-11-18T14:51+00:00
+183038,MI,Michigan Cedar Springs Public Schools Board Member 4 Year Term,2026-11-03,0,,False,8,2,5460,2026-11-18T14:51+00:00
+184026,MI,Michigan Village of Quincy Trustee 4 Year Term,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183750,MI,Michigan Village of Shepherd Operating Millage Restoration Proposal,2026-11-03,0,,False,2,1,60,2026-11-18T14:51+00:00
+155869,MI,Michigan 48th District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+155865,MI,Michigan 43rd District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183930,MI,Michigan Webberville Community Schools Board Member,2026-11-03,0,,False,7,1,48,2026-11-18T14:51+00:00
+183926,MI,Michigan Leslie School District Board Member,2026-11-03,0,,False,5,1,1715,2026-11-18T14:51+00:00
+155610,MI,Michigan State Senate 11,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,3,1,111114,2026-11-18T14:51+00:00
+155606,MI,Michigan State Senate 7,2026-11-03,50,2026-11-04T07:09:42.071Z,False,2,0,0,2026-11-18T14:51+00:00
+155794,MI,Michigan 37th Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+155790,MI,Michigan 32nd Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+155786,MI,Michigan 29th Circuit Court Judge Incumbent,2026-11-03,28.6,,False,2,2,5067,2026-11-18T14:51+00:00
+155738,MI,Michigan State House 101,2026-11-03,91.4,2026-11-04T07:09:42.073Z,False,3,2,42355,2026-11-18T14:51+00:00
+155734,MI,Michigan State House 97,2026-11-03,99.9,2026-11-04T07:09:42.073Z,False,3,1,43006,2026-11-18T14:51+00:00
+183799,MI,Michigan Stevensville Village Trustee,2026-11-03,0,,False,2,1,32,2026-11-18T14:51+00:00
+183795,MI,Michigan Galien Village Trustee,2026-11-03,0,,False,4,1,278,2026-11-18T14:51+00:00
+183791,MI,Michigan Shoreham Village Treasurer,2026-11-03,0,,False,2,1,44,2026-11-18T14:51+00:00
+183544,MI,Michigan Board Member - Garden City Public School District Partial Term Ending 12/31/2030,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183348,MI,Michigan West Shore Community College Board of Trustees,2026-11-03,0,,False,3,2,615,2026-11-18T14:51+00:00
+183536,MI,Michigan Board Member - Van Buren Public School District,2026-11-03,50,,False,4,2,0,2026-11-18T14:51+00:00
+183340,MI,Michigan Yates Township Supervisor Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,27,2026-11-18T14:51+00:00
+183528,MI,Michigan Board Member - Redford Union School District,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184081,MI,Michigan City of Sturgis Commissioner District 3,2026-11-03,0,,False,2,1,61,2026-11-18T14:51+00:00
+183885,MI,Michigan Hale Area Schools Board Member,2026-11-03,0,,False,3,1,2395,2026-11-18T14:51+00:00
+183081,MI,Michigan Macomb County Commissioner 1st District Partial Term Ending 12/31/2028,2026-11-03,8.7,,False,3,1,4359,2026-11-18T14:51+00:00
+183077,MI,Michigan Tri County Area Schools Sinking Fund Millage Proposal,2026-11-03,0,,False,2,2,18,2026-11-18T14:51+00:00
+184065,MI,Michigan Village of Breckenridge Library Board Director Partial Term,2026-11-03,0,,False,2,1,15,2026-11-18T14:51+00:00
+184209,MI,Michigan Leelanau Township Local Roads Millage,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184013,MI,Michigan Grant Township Road Imporvement Millage Renewal Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183209,MI,Michigan Saginaw County Proposal 26-4 Saginaw County 9-1-1 Authority Millage Renewal Proposal,2026-11-03,0,,False,2,1,21002,2026-11-18T14:51+00:00
+183205,MI,Michigan Saginaw Township Community Schools Board Member Partial Term,2026-11-03,0,,False,4,1,1226,2026-11-18T14:51+00:00
+184193,MI,Michigan Empire Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+155877,MI,Michigan 54A District Court Judge Incumbent,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183714,MI,Michigan Scio Township Road Millage,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+183710,MI,Michigan Saline Area Fire Authority,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+155829,MI,Michigan 4th District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+155825,MI,Michigan 2A District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183455,MI,Michigan Mason Consolidated Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,3,1,1032,2026-11-18T14:51+00:00
+183451,MI,Michigan Monroe Public Schools Board Member,2026-11-03,0,,False,9,1,2123,2026-11-18T14:51+00:00
+155762,MI,Michigan 4th Circuit Court Judge Incumbent Partial Term Ending 2031,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+155758,MI,Michigan 3rd Circuit Court Judge Incumbent,2026-11-03,0,,False,17,1,179180,2026-11-18T14:51+00:00
+155754,MI,Michigan Court of Appeals District 2 Incumbent,2026-11-03,4.8,,False,3,1,34133,2026-11-18T14:51+00:00
+183583,MI,Michigan Glen Oaks Community College Board of Trustees,2026-11-03,0,,False,3,3,24832,2026-11-18T14:51+00:00
+183579,MI,Michigan Kalamazoo Charter TownshipTreasurer Partial Term ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183767,MI,Michigan Coloma City Clerk,2026-11-03,0,,False,2,1,466,2026-11-18T14:51+00:00
+155694,MI,Michigan State House 57,2026-11-03,99.9,2026-11-12T01:54:12.323Z,False,3,1,39416,2026-11-18T14:51+00:00
+155690,MI,Michigan State House 53,2026-11-03,50,2026-11-04T07:09:42.072Z,False,2,0,0,2026-11-18T14:51+00:00
+183320,MI,Michigan Coloma School Board Member 6 Year Term,2026-11-03,0,,False,4,2,970,2026-11-18T14:51+00:00
+184116,MI,Michigan City Of Corunna Ward 1 Council Member,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183312,MI,Michigan Lawrence School Board Member,2026-11-03,0,,False,4,1,31,2026-11-18T14:51+00:00
+184108,MI,Michigan Shiawassee County Road Commissioner,2026-11-03,0,,False,3,1,10206,2026-11-18T14:51+00:00
+183304,MI,Michigan Paw Paw Village Trustee Partial,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+184049,MI,Michigan Fulton Township Trustee Partial Term,2026-11-03,0,,False,3,1,52,2026-11-18T14:51+00:00
+183853,MI,Michigan Trustee Fife Lake Village (2),2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183049,MI,Michigan Grant Public Schools Board Member,2026-11-03,0,,False,4,2,2208,2026-11-18T14:51+00:00
+183045,MI,Michigan Godwin Heights Public Schools Board Member,2026-11-03,0,,False,4,1,4,2026-11-18T14:51+00:00
+184033,MI,Michigan Coldwater Community Schools Board Member,2026-11-03,0,,False,9,1,6191,2026-11-18T14:51+00:00
+183185,MI,Michigan Bay City Public Schools Board Member,2026-11-03,0,,False,4,2,91,2026-11-18T14:51+00:00
+155912,MI,Michigan 89th District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183977,MI,Michigan Evart Public Schools Board Member,2026-11-03,0,,False,3,3,1444,2026-11-18T14:51+00:00
+183973,MI,Michigan Village of Hersey Trustee,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183169,MI,Michigan City of Zilwaukee Council Member,2026-11-03,0,,False,4,1,957,2026-11-18T14:51+00:00
+183722,MI,Michigan Coldwater Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,3,1,354,2026-11-18T14:51+00:00
+155649,MI,Michigan State House 12,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,3,2,37554,2026-11-18T14:51+00:00
+155609,MI,Michigan State Senate 10,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,3,1,132759,2026-11-18T14:51+00:00
+183674,MI,Michigan City of Saline Mayor,2026-11-03,99.9,,False,3,1,0,2026-11-18T14:51+00:00
+183670,MI,Michigan Oakland Community College Board of Trustees,2026-11-03,99.9,,False,8,1,0,2026-11-18T14:51+00:00
+183423,MI,Michigan Bedford Township Park Commissioner Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183419,MI,Michigan Ida Township Supervisor Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,1996,2026-11-18T14:51+00:00
+155737,MI,Michigan State House 100,2026-11-03,99.9,2026-11-04T07:09:42.073Z,False,3,3,41980,2026-11-18T14:51+00:00
+183802,MI,Michigan Berrien Springs Public Schools Board Member,2026-11-03,0,,False,3,1,719,2026-11-18T14:51+00:00
+155729,MI,Michigan State House 92,2026-11-03,99.9,2026-11-04T07:09:42.073Z,False,3,3,35175,2026-11-18T14:51+00:00
+183359,MI,Michigan Pine River Area Schools Board Member 4 Year Term,2026-11-03,0,,False,3,3,3365,2026-11-18T14:51+00:00
+183355,MI,Michigan Kaleva Norman Dickson School District Board Member,2026-11-03,0,,False,5,1,627,2026-11-18T14:51+00:00
+155666,MI,Michigan State House 29,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,3,2,37946,2026-11-18T14:51+00:00
+183539,MI,Michigan Board Member - Woodhaven-Brownstown School District,2026-11-03,0,,False,9,1,0,2026-11-18T14:51+00:00
+183535,MI,Michigan Board Member - Trenton Public Schools,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+184088,MI,Michigan Burr Oak Village President,2026-11-03,0,,False,3,1,243,2026-11-18T14:51+00:00
+183092,MI,Michigan Village of Armada Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184080,MI,Michigan City of Sturgis Commissioner District 2 4 Year Term,2026-11-03,0,,False,2,1,79,2026-11-18T14:51+00:00
+183084,MI,Michigan Center Line Mayor,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184072,MI,Michigan St. Johns Public Schools Bond Proposal,2026-11-03,0,,False,2,1,1,2026-11-18T14:51+00:00
+184017,MI,Michigan Winterfield Township Road Improvement Propsal Millage Renewal,2026-11-03,0,,False,2,1,192,2026-11-18T14:51+00:00
+183821,MI,Michigan Bridgman City Public Library Millage Proposal - Headlee Override,2026-11-03,0,,False,2,1,140,2026-11-18T14:51+00:00
+184208,MI,Michigan Leelanau County Bay Area Transportation Authority Millage Proposal,2026-11-03,0,,False,2,1,6907,2026-11-18T14:51+00:00
+183212,MI,Michigan Village of Oakley Proposal 2026-1 Police Services Proposal,2026-11-03,0,,False,2,1,7,2026-11-18T14:51+00:00
+184200,MI,Michigan Village of Empire Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183953,MI,Michigan Law Enforcement Millage Renewal Proposal,2026-11-03,0,,False,2,1,14083,2026-11-18T14:51+00:00
+183757,MI,Michigan Berrien Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,150,2026-11-18T14:51+00:00
+155876,MI,Michigan 53rd District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+155872,MI,Michigan 52nd District Court - 1st Division Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183937,MI,Michigan Perry Public Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,3,2,66,2026-11-18T14:51+00:00
+155621,MI,Michigan State Senate 22,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,3,2,145742,2026-11-18T14:51+00:00
+183494,MI,Michigan City Council - City of Dearborn Heights Partial Term Ending 12/31/2027,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155613,MI,Michigan State Senate 14,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,3,1,130937,2026-11-18T14:51+00:00
+183642,MI,Michigan Bullock Creek Schools Board Member,2026-11-03,0,,False,4,1,3883,2026-11-18T14:51+00:00
+183638,MI,Michigan Village of Sanford Clerk,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183398,MI,Michigan White Cloud Public Schools Board Member 6 Year Term,2026-11-03,0,,False,3,1,3075,2026-11-18T14:51+00:00
+183586,MI,Michigan Galesburg City Council Member At Large,2026-11-03,0,,False,4,1,426,2026-11-18T14:51+00:00
+183582,MI,Michigan Richland Township Treasurer Partial Term 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155701,MI,Michigan State House 64,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,3,1,41704,2026-11-18T14:51+00:00
+155697,MI,Michigan State House 60,2026-11-03,99.9,2026-11-12T01:54:12.323Z,False,3,1,46552,2026-11-18T14:51+00:00
+184127,MI,Michigan Village of Byron President,2026-11-03,0,,False,2,1,175,2026-11-18T14:51+00:00
+184123,MI,"Michigan City Of Durand, Precinct 1 Council Member",2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183511,MI,Michigan Board Member - Dearborn Heights School District No. 7,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183315,MI,Michigan South Haven School Board Member,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183311,MI,Michigan Hartford School Board Member,2026-11-03,0,,False,3,1,91,2026-11-18T14:51+00:00
+183064,MI,Michigan Tri County Area Schools Board Member,2026-11-03,0,,False,2,2,12,2026-11-18T14:51+00:00
+183060,MI,Michigan Rockford Public Schools Board Member 4 Year Term,2026-11-03,0,,False,8,1,14927,2026-11-18T14:51+00:00
+184048,MI,Michigan Fulton Township Treasurer Partial Term,2026-11-03,0,,False,2,1,65,2026-11-18T14:51+00:00
+183052,MI,Michigan Kelloggsville Public Schools Board Member Partial Term Ending 12/31/2030,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184040,MI,Michigan Bronson Community Schools Board Member Partial Term 12/31/2028,2026-11-03,0,,False,1,2,1457,2026-11-18T14:51+00:00
+183192,MI,Michigan Clio Area Schools Board Member,2026-11-03,0,,False,8,1,0,2026-11-18T14:51+00:00
+183988,MI,Michigan Osceola Township Fire Millage Proposal,2026-11-03,0,,False,2,1,395,2026-11-18T14:51+00:00
+183184,MI,Michigan Ashley Community Schools Board Member Partial Term,2026-11-03,0,,False,1,1,23,2026-11-18T14:51+00:00
+183980,MI,Michigan Reed City Area Public Schools Board Member 2 Year Term,2026-11-03,0,,False,2,4,1107,2026-11-18T14:51+00:00
+183176,MI,Michigan Village of Oakley President,2026-11-03,0,,False,2,1,7,2026-11-18T14:51+00:00
+155852,MI,Michigan 32A District Court Judge Incumbent,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155656,MI,Michigan State House 19,2026-11-03,50,2026-11-04T07:09:42.072Z,False,2,0,0,2026-11-18T14:51+00:00
+183721,MI,Michigan Coldwater Township Treasurer Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,249,2026-11-18T14:51+00:00
+183717,MI,Michigan Isabella County Road Commissioner,2026-11-03,0,,False,2,2,7923,2026-11-18T14:51+00:00
+155836,MI,Michigan 12th District Court Judge Incumbent,2026-11-03,0,,False,2,0,0,2026-11-18T14:51+00:00
+183466,MI,Michigan Summerfield Schools Sinking Fund Millage Proposal,2026-11-03,0,,False,2,1,96,2026-11-18T14:51+00:00
+183270,MI,Michigan City of Yale Proposal for Millage Increase for Fire Department Equipment/Operations,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183458,MI,"Michigan Ash Township Renewal of Township Fire Equipment, Operation & Maintenance Proposition",2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183454,MI,Michigan Flat Rock Community Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,2,0,2026-11-18T14:51+00:00
+184166,MI,Michigan Durand Area Schools Bond Proposal,2026-11-03,0,,False,2,1,1055,2026-11-18T14:51+00:00
+183362,MI,Michigan Reed City Area Public Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,2,442,2026-11-18T14:51+00:00
+183358,MI,Michigan Pine River Area Schools Board Member 6 Year Term,2026-11-03,0,,False,3,3,3451,2026-11-18T14:51+00:00
+183546,MI,Michigan Board Member - Trenton Public Schools Partial Term Ending 12/31/2030,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183542,MI,Michigan Board Member - Dearborn Public School District Partial Term Ending 12/31/2028,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183103,MI,Michigan Macomb Community College Trustee,2026-11-03,4.8,,False,10,1,53674,2026-11-18T14:51+00:00
+183099,MI,Michigan Village of Romeo Clerk,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183287,MI,Michigan Breedsville Village President,2026-11-03,0,,False,2,1,30,2026-11-18T14:51+00:00
+184083,MI,Michigan City of Three Rivers Commissioner District 2,2026-11-03,0,,False,3,1,1856,2026-11-18T14:51+00:00
+184079,MI,Michigan City of Sturgis Commissioner District 1,2026-11-03,0,,False,2,1,721,2026-11-18T14:51+00:00
+183032,MI,Michigan Village of Sand Lake Trustee Partial Term Ending 11/30/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183028,MI,Michigan Village of Caledonia Trustee,2026-11-03,0,,False,2,1,198,2026-11-18T14:51+00:00
+184016,MI,Michigan Surrey Township Road Millage,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184211,MI,Michigan Village of Northport Mill Pond Dam Replacement Millage Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184207,MI,Michigan Suttons Bay Public Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,1,1086,2026-11-18T14:51+00:00
+183960,MI,Michigan Hersey Township Supervisor Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155887,MI,Michigan 62B District Court Judge Incumbent,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183952,MI,Michigan Fire Protection and Emergency Medical Services Millage Renewal Proposal,2026-11-03,0,,False,2,1,14071,2026-11-18T14:51+00:00
+155879,MI,Michigan 56A District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183944,MI,Michigan Proposal to Amend East Lansing City Charter Provisions Relating to City Council Meetings,2026-11-03,0,,False,2,1,3679,2026-11-18T14:51+00:00
+183697,MI,Michigan Ann Arbor District Library Board Member,2026-11-03,99.9,,False,5,1,0,2026-11-18T14:51+00:00
+183501,MI,Michigan Constable - City of River Rouge,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155620,MI,Michigan State Senate 21,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,3,1,123255,2026-11-18T14:51+00:00
+155616,MI,Michigan State Senate 17,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,3,3,108201,2026-11-18T14:51+00:00
+183681,MI,Michigan Clinton Schools Board Member,2026-11-03,99.9,,False,4,1,0,2026-11-18T14:51+00:00
+183434,MI,Michigan Village of Carleton Trustee 4 Year Term,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183238,MI,Michigan Fort Gratiot Township Park Commissioner Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183426,MI,Michigan City of Luna Pier City Council Member,2026-11-03,0,,False,5,1,1083,2026-11-18T14:51+00:00
+183422,MI,Michigan Exeter Township Treasurer Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183809,MI,Michigan Eau Claire Public Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,1,2,9,2026-11-18T14:51+00:00
+184130,MI,Michigan Village of New Lothrop President,2026-11-03,0,,False,1,1,29,2026-11-18T14:51+00:00
+184126,MI,Michigan Village of Bancroft President,2026-11-03,0,,False,2,1,57,2026-11-18T14:51+00:00
+183322,MI,Michigan Watervliet School Board Member,2026-11-03,0,,False,5,2,1191,2026-11-18T14:51+00:00
+183318,MI,Michigan Marcellus School Board Member,2026-11-03,0,,False,6,2,734,2026-11-18T14:51+00:00
+183871,MI,Michigan Wilber Township Clerk,2026-11-03,0,,False,2,1,360,2026-11-18T14:51+00:00
+183867,MI,Michigan Ambulance Millage Renewal Whitewater,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184055,MI,Michigan City of St. Louis Council Member,2026-11-03,0,,False,2,1,81,2026-11-18T14:51+00:00
+184051,MI,Michigan Seville Township Clerk Partial Term,2026-11-03,99.9,,False,1,1,54,2026-11-18T14:51+00:00
+184047,MI,Michigan Fulton Township Supervisor Partial Term,2026-11-03,0,,False,2,1,68,2026-11-18T14:51+00:00
+183999,MI,Michigan Winterfield Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,189,2026-11-18T14:51+00:00
+183995,MI,Michigan Redding Township Supervisor Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,150,2026-11-18T14:51+00:00
+184183,MI,Michigan Gladstone Area Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,1,1,164,2026-11-18T14:51+00:00
+183187,MI,Michigan Breckenridge Community Schools Board Member,2026-11-03,25,,False,2,3,772,2026-11-18T14:51+00:00
+183183,MI,Michigan Ashley Community Schools Board Member,2026-11-03,37.5,,False,4,2,1174,2026-11-18T14:51+00:00
+155859,MI,Michigan 38th District Court Judge Incumbent,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183732,MI,Michigan Village of Rosebush Council Member,2026-11-03,0,,False,5,1,251,2026-11-18T14:51+00:00
+155851,MI,Michigan 31st District Court Judge Incumbent,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183724,MI,Michigan Union Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155843,MI,Michigan 18th District Court Judge Incumbent,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183665,MI,Michigan Lodi Township Supervisor,2026-11-03,99.9,,False,3,1,0,2026-11-18T14:51+00:00
+183277,MI,Michigan Van Buren County Commissioner District 5,2026-11-03,0,,False,3,1,739,2026-11-18T14:51+00:00
+183465,MI,Michigan Jefferson Schools Bond Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183461,MI,Michigan Whiteford Township Fire Operating Millage Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183649,MI,Michigan Shepherd Public Schools Bond Proposal,2026-11-03,33.3,,False,2,3,1723,2026-11-18T14:51+00:00
+155724,MI,Michigan State House 87,2026-11-03,50,2026-11-04T07:09:42.072Z,False,2,0,0,2026-11-18T14:51+00:00
+183405,MI,Michigan Walkerville Public Schools Board Member 4 Year Term,2026-11-03,0,,False,5,1,270,2026-11-18T14:51+00:00
+183593,MI,Michigan Trustee Village of Vicksburg,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183589,MI,Michigan Trustee Richland Village,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+155708,MI,Michigan State House 71,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,3,2,44636,2026-11-18T14:51+00:00
+184138,MI,Michigan Village of Lennon Trustee Member 4 Year Term,2026-11-03,0,,False,5,1,283,2026-11-18T14:51+00:00
+183142,MI,Michigan Center Line Library Millage Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183102,MI,Michigan Village of Romeo Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+184090,MI,Michigan Burr Oak Village Trustee,2026-11-03,0,,False,4,1,310,2026-11-18T14:51+00:00
+184086,MI,Michigan Burr Oak Township Library Board Member Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,741,2026-11-18T14:51+00:00
+183839,MI,Michigan Trustee Garfield,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183835,MI,Michigan Sodus Township Proposal Road Millage Renewal,2026-11-03,0,,False,2,1,45,2026-11-18T14:51+00:00
+184023,MI,Michigan City of Bronson Council Member,2026-11-03,0,,False,4,1,1048,2026-11-18T14:51+00:00
+184019,MI,Michigan Branch County Prosecuting Attorney Partial Term Ending 12/31/2028,2026-11-03,0,,False,1,1,5353,2026-11-18T14:51+00:00
+184015,MI,Michigan Redding Township Library Millage Proposal,2026-11-03,0,,False,2,1,190,2026-11-18T14:51+00:00
+155898,MI,Michigan 67th District Court - 5th Division Judge Incumbent,2026-11-03,0,,False,2,0,0,2026-11-18T14:51+00:00
+155894,MI,Michigan 67th District Court - 1st Division Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183159,MI,Michigan James Township Trustee Partial Term,2026-11-03,0,,False,2,1,711,2026-11-18T14:51+00:00
+183955,MI,Michigan Charter Township of Meridian Police and Fire Protection Millage Renewal,2026-11-03,0,,False,2,1,4151,2026-11-18T14:51+00:00
+183951,MI,Michigan City of Leslie Street Improvement Millage Proposal,2026-11-03,0,,False,2,1,655,2026-11-18T14:51+00:00
+183704,MI,Michigan City of Ann Arbor Prop D,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+155631,MI,Michigan State Senate 32,2026-11-03,22.3,2026-11-12T01:54:12.322Z,False,2,0,0,2026-11-18T14:51+00:00
+183696,MI,Michigan Ypsilanti Schools Board Member,2026-11-03,99.9,,False,4,1,0,2026-11-18T14:51+00:00
+155623,MI,Michigan State Senate 24,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,3,1,133665,2026-11-18T14:51+00:00
+183688,MI,Michigan Napoleon Schools Board Member,2026-11-03,99.9,,False,7,1,0,2026-11-18T14:51+00:00
+183633,MI,Michigan City of Midland Ward 1 Council Member,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183245,MI,Michigan St Clair City Mayor,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183433,MI,Michigan Village of Estral Beach Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183429,MI,Michigan Village of South Rockwood President,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183617,MI,Michigan Cooper Charter Township Fire & Rescue Millage Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183569,MI,Michigan New Millage for Greenways / Open Space - Grosse Ile Township,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184173,MI,Michigan Bay De Noc Community College Board of Trustees Partial Term Ending 12/31/2028,2026-11-03,0,,False,1,1,1060,2026-11-18T14:51+00:00
+183369,MI,Michigan Reed City Area Public Schools Bond Proposal,2026-11-03,0,,False,2,4,2210,2026-11-18T14:51+00:00
+183365,MI,Michigan Sweetwater Township Millage Proposal for Emergency Services,2026-11-03,0,,False,2,1,129,2026-11-18T14:51+00:00
+183553,MI,Michigan Southeast Michigan Public Historical Museum Authority Millage Proposal,2026-11-03,0,,False,2,1,39486,2026-11-18T14:51+00:00
+183114,MI,Michigan Eastpointe Community Schools Board Member,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183910,MI,Michigan Village of Stockbridge President,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183106,MI,Michigan Almont Community Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,3,2,0,2026-11-18T14:51+00:00
+183066,MI,Michigan Wyoming Public Schools Board Member,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183062,MI,Michigan Sparta Area Schools Board Member,2026-11-03,0,,False,5,2,7042,2026-11-18T14:51+00:00
+183014,MI,Michigan Grand Rapids City Ward 1 Commissioner,2026-11-03,0,,False,3,1,18078,2026-11-18T14:51+00:00
+184002,MI,Michigan Redding Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,3,1,216,2026-11-18T14:51+00:00
+183998,MI,Michigan Redding Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,156,2026-11-18T14:51+00:00
+183194,MI,Michigan Freeland Community School District Board Member,2026-11-03,0,,False,3,2,253,2026-11-18T14:51+00:00
+183190,MI,Michigan Chesaning Union Schools Board Member,2026-11-03,0,,False,3,2,1698,2026-11-18T14:51+00:00
+183743,MI,Michigan Beal City Public Schools Board Member Partial Term Ending 12/31/2030,2026-11-03,0,,False,2,1,993,2026-11-18T14:51+00:00
+183739,MI,Michigan Farwell Area Schools Board Member 6 Year Term,2026-11-03,0,,False,3,2,1431,2026-11-18T14:51+00:00
+183927,MI,Michigan Mason School District Board Member,2026-11-03,0,,False,5,1,6444,2026-11-18T14:51+00:00
+155854,MI,Michigan 35th District Court Judge Incumbent,2026-11-03,0,,False,2,1,2615,2026-11-18T14:51+00:00
+155850,MI,Michigan 28th District Court Judge Incumbent,2026-11-03,0,,False,2,1,2321,2026-11-18T14:51+00:00
+155603,MI,Michigan State Senate 4,2026-11-03,91.8,2026-11-12T01:54:12.322Z,False,5,1,121791,2026-11-18T14:51+00:00
+183476,MI,Michigan Mayor - City of River Rouge,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183664,MI,Michigan Ann Arbor Township Clerk,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+183468,MI,Michigan Wayne County Commissioner 5th District - Partial Term Ending 1/1/2029,2026-11-03,0,,False,2,1,5857,2026-11-18T14:51+00:00
+183656,MI,Michigan City of Ann Arbor City Council Ward 2,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+155731,MI,Michigan State House 94,2026-11-03,99.9,2026-11-04T07:09:42.073Z,False,3,1,33998,2026-11-18T14:51+00:00
+183604,MI,Michigan Board Member Parchment School District Partial Term ending 12/31/2030,2026-11-03,0,,False,2,1,80,2026-11-18T14:51+00:00
+155723,MI,Michigan State House 86,2026-11-03,50,2026-11-12T01:54:12.323Z,False,2,0,0,2026-11-18T14:51+00:00
+183596,MI,Michigan Board Member Climax-Scotts Community Schools,2026-11-03,0,,False,7,1,296,2026-11-18T14:51+00:00
+155715,MI,Michigan State House 78,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,4,1,40511,2026-11-18T14:51+00:00
+183345,MI,Michigan Ellsworth Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,214,2026-11-18T14:51+00:00
+183149,MI,Michigan Almont Community Schools Sinking Fund Millage Proposal,2026-11-03,0,,False,2,2,0,2026-11-18T14:51+00:00
+184137,MI,Michigan Village of Byron Council Member,2026-11-03,0,,False,4,1,402,2026-11-18T14:51+00:00
+184133,MI,Michigan Village of New Lothrop Clerk,2026-11-03,0,,False,2,1,176,2026-11-18T14:51+00:00
+183329,MI,Michigan Allegan County Conservation District,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183882,MI,Michigan City of East Tawas City Council Member,2026-11-03,0,,False,4,1,2413,2026-11-18T14:51+00:00
+155809,MI,Michigan Chippewa County Probate Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183874,MI,Michigan Grant Township Trustee,2026-11-03,0,,False,2,1,86,2026-11-18T14:51+00:00
+183870,MI,Michigan Sherman Township Supervisor,2026-11-03,0,,False,4,1,222,2026-11-18T14:51+00:00
+183678,MI,Michigan Ann Arbor Public Schools Board Member Partial Term,2026-11-03,99.9,,False,4,1,0,2026-11-18T14:51+00:00
+155745,MI,Michigan State House 108,2026-11-03,81.6,2026-11-04T07:09:42.073Z,False,3,1,39886,2026-11-18T14:51+00:00
+155741,MI,Michigan State House 104,2026-11-03,69.5,2026-11-12T01:54:12.323Z,False,4,1,49858,2026-11-18T14:51+00:00
+183806,MI,Michigan Buchanan Community Schools Board Member,2026-11-03,0,,False,3,1,417,2026-11-18T14:51+00:00
+183551,MI,Michigan Board Member - Plymouth District Library,2026-11-03,0,,False,6,1,10408,2026-11-18T14:51+00:00
+183355,MI,Michigan Kaleva Norman Dickson School District Board Member,2026-11-03,0,,False,5,1,627,2026-11-18T14:51+00:00
+155666,MI,Michigan State House 29,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,3,2,37946,2026-11-18T14:51+00:00
+183892,MI,Michigan City of East Tawas Mosquito Control and Suppression Millage,2026-11-03,0,,False,2,1,1381,2026-11-18T14:51+00:00
+183088,MI,Michigan Utica Mayor,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183028,MI,Michigan Village of Caledonia Trustee,2026-11-03,0,,False,2,1,198,2026-11-18T14:51+00:00
+183216,MI,Michigan II. Bridgeport-Spaulding Community School District Sinking Fund Millage Proposal,2026-11-03,0,,False,2,1,1885,2026-11-18T14:51+00:00
+184204,MI,Michigan Suttons Bay Public Schools Board Member 4 Year Term,2026-11-03,0,,False,4,1,2702,2026-11-18T14:51+00:00
+183757,MI,Michigan Berrien Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,150,2026-11-18T14:51+00:00
+183945,MI,Michigan Proposal to Amend East Lansing City Charter Provisions Relating to City Clerk,2026-11-03,0,,False,2,1,3616,2026-11-18T14:51+00:00
+155872,MI,Michigan 52nd District Court - 1st Division Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+155617,MI,Michigan State Senate 18,2026-11-03,91.1,2026-11-04T07:09:42.071Z,False,3,2,122430,2026-11-18T14:51+00:00
+155613,MI,Michigan State Senate 14,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,3,1,130937,2026-11-18T14:51+00:00
+183590,MI,Michigan President Schoolcraft Village,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183586,MI,Michigan Galesburg City Council Member At Large,2026-11-03,0,,False,4,1,426,2026-11-18T14:51+00:00
+155705,MI,Michigan State House 68,2026-11-03,50,2026-11-12T01:54:12.323Z,False,4,0,0,2026-11-18T14:51+00:00
+183327,MI,Michigan Paw Paw School Board Member Partial,2026-11-03,0,,False,2,1,445,2026-11-18T14:51+00:00
+184123,MI,"Michigan City Of Durand, Precinct 1 Council Member",2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183511,MI,Michigan Board Member - Dearborn Heights School District No. 7,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183860,MI,Michigan Board Member Forest Area Community Schools,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183056,MI,Michigan Lakeview Community Schools Board Member,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+155919,MI,Michigan 97th District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183984,MI,Michigan Hartwick Township Operating Millage Renewal Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183180,MI,Michigan Village of Reese Trustee Partial Term,2026-11-03,0,,False,1,1,1,2026-11-18T14:51+00:00
+155656,MI,Michigan State House 19,2026-11-03,50,2026-11-04T07:09:42.072Z,False,2,0,0,2026-11-18T14:51+00:00
+155844,MI,Michigan 19th District Court Judge Incumbent,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183717,MI,Michigan Isabella County Road Commissioner,2026-11-03,0,,False,2,2,7923,2026-11-18T14:51+00:00
+183462,MI,Michigan Village of Estral Beach Flood Control Millage,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183458,MI,"Michigan Ash Township Renewal of Township Fire Equipment, Operation & Maintenance Proposition",2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183646,MI,Michigan St. Louis Public Schools Board Member,2026-11-03,25,,False,7,3,3787,2026-11-18T14:51+00:00
+183366,MI,Michigan Kaleva Norman Dickson School District Operating Millage Renewal Proposal,2026-11-03,0,,False,2,1,385,2026-11-18T14:51+00:00
+183362,MI,Michigan Reed City Area Public Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,2,442,2026-11-18T14:51+00:00
+183550,MI,Michigan Board Member - Northville District Library,2026-11-03,0,,False,8,1,0,2026-11-18T14:51+00:00
+184095,MI,Michigan White Pigeon Village Trustee,2026-11-03,0,,False,5,1,858,2026-11-18T14:51+00:00
+183099,MI,Michigan Village of Romeo Clerk,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183287,MI,Michigan Breedsville Village President,2026-11-03,0,,False,2,1,30,2026-11-18T14:51+00:00
+183231,MI,Michigan Brockway Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,824,2026-11-18T14:51+00:00
+184027,MI,Michigan Village of Quincy Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183223,MI,Michigan Saginaw Intermediate School District Area Career and Technical Education Millage Proposal,2026-11-03,0,,False,2,1,18479,2026-11-18T14:51+00:00
+183764,MI,Michigan Watervliet Charter Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,26,2026-11-18T14:51+00:00
+155883,MI,Michigan 58th District Court Judge Incumbent,2026-11-03,0,,False,3,0,0,2026-11-18T14:51+00:00
+183501,MI,Michigan Constable - City of River Rouge,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183689,MI,Michigan Pinckney Schools Board Member,2026-11-03,99.9,,False,4,1,0,2026-11-18T14:51+00:00
+155616,MI,Michigan State Senate 17,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,3,3,108201,2026-11-18T14:51+00:00
+183629,MI,Michigan Midland Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,718,2026-11-18T14:51+00:00
+183817,MI,Michigan St. Joseph Public Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,4,1,3576,2026-11-18T14:51+00:00
+155744,MI,Michigan State House 107,2026-11-03,24.6,2026-11-04T07:09:42.073Z,False,2,0,0,2026-11-18T14:51+00:00
+184130,MI,Michigan Village of New Lothrop President,2026-11-03,0,,False,1,1,29,2026-11-18T14:51+00:00
+183326,MI,Michigan Lawrence School Board Member Partial,2026-11-03,0,,False,2,1,13,2026-11-18T14:51+00:00
+183071,MI,Michigan Byron Township New Millage Proposition 1.00 Mill for Parks and Recreation Purposes,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183867,MI,Michigan Ambulance Millage Renewal Whitewater,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184055,MI,Michigan City of St. Louis Council Member,2026-11-03,0,,False,2,1,81,2026-11-18T14:51+00:00
+183199,MI,Michigan New Lothrop Area Schools Board Member,2026-11-03,0,,False,5,2,4491,2026-11-18T14:51+00:00
+183995,MI,Michigan Redding Township Supervisor Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,150,2026-11-18T14:51+00:00
+184183,MI,Michigan Gladstone Area Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,1,1,164,2026-11-18T14:51+00:00
+155663,MI,Michigan State House 26,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,3,1,34342,2026-11-18T14:51+00:00
+183728,MI,Michigan City of Clare City Council Member,2026-11-03,0,,False,5,2,0,2026-11-18T14:51+00:00
+183277,MI,Michigan Van Buren County Commissioner District 5,2026-11-03,0,,False,3,1,739,2026-11-18T14:51+00:00
+183657,MI,Michigan City of Ann Arbor City Council Ward 3,2026-11-03,99.9,,False,3,1,0,2026-11-18T14:51+00:00
+183461,MI,Michigan Whiteford Township Fire Operating Millage Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183405,MI,Michigan Walkerville Public Schools Board Member 4 Year Term,2026-11-03,0,,False,5,1,270,2026-11-18T14:51+00:00
+155716,MI,Michigan State House 79,2026-11-03,90.6,2026-11-04T07:09:42.072Z,False,3,1,48384,2026-11-18T14:51+00:00
+183589,MI,Michigan Trustee Richland Village,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+184134,MI,Michigan Village of Lennon Treasurer,2026-11-03,0,,False,2,1,108,2026-11-18T14:51+00:00
+183106,MI,Michigan Almont Community Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,3,2,0,2026-11-18T14:51+00:00
+184094,MI,Michigan Mendon Village Trustee,2026-11-03,0,,False,2,1,283,2026-11-18T14:51+00:00
+183039,MI,Michigan Cedar Springs Public Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,2,1624,2026-11-18T14:51+00:00
+184034,MI,Michigan Homer Community School District Board Member 6 Year Term,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183230,MI,Michigan Clyde Township Supervisor Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183967,MI,Michigan Village of Hersey President,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155894,MI,Michigan 67th District Court - 1st Division Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183159,MI,Michigan James Township Trustee Partial Term,2026-11-03,0,,False,2,1,711,2026-11-18T14:51+00:00
+183508,MI,Michigan Board Member - Allen Park Public Schools,2026-11-03,0,,False,6,1,0,2026-11-18T14:51+00:00
+155627,MI,Michigan State Senate 28,2026-11-03,89.4,2026-11-12T01:54:12.322Z,False,5,2,126138,2026-11-18T14:51+00:00
+183245,MI,Michigan St Clair City Mayor,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155755,MI,Michigan Court of Appeals District 3 Incumbent,2026-11-03,16.7,,False,3,6,149289,2026-11-18T14:51+00:00
+183820,MI,Michigan Bridgeman City Library Millage Renewal,2026-11-03,0,,False,2,1,143,2026-11-18T14:51+00:00
+184173,MI,Michigan Bay De Noc Community College Board of Trustees Partial Term Ending 12/31/2028,2026-11-03,0,,False,1,1,1060,2026-11-18T14:51+00:00
+183561,MI,Michigan City of Riverview Bond Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183365,MI,Michigan Sweetwater Township Millage Proposal for Emergency Services,2026-11-03,0,,False,2,1,129,2026-11-18T14:51+00:00
+183110,MI,Michigan Center Line Public Schools Board Member,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183070,MI,Michigan City of Walker Proposal to Authorize a New Additional Millage for Public Safety of 1.75 Mills,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184006,MI,Michigan Village President,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184002,MI,Michigan Redding Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,3,1,216,2026-11-18T14:51+00:00
+183198,MI,Michigan Montrose Community Schools Board Member,2026-11-03,0,,False,4,1,88,2026-11-18T14:51+00:00
+155866,MI,Michigan 45th District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183739,MI,Michigan Farwell Area Schools Board Member 6 Year Term,2026-11-03,0,,False,3,2,1431,2026-11-18T14:51+00:00
+183927,MI,Michigan Mason School District Board Member,2026-11-03,0,,False,5,1,6444,2026-11-18T14:51+00:00
+183284,MI,Michigan Lake Michigan College Board of Trustees Partial,2026-11-03,0,,False,2,3,5471,2026-11-18T14:51+00:00
+183472,MI,Michigan Mayor - City of Ecorse,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183412,MI,Michigan Big Prairie Township Park Commission Dissolution Proposal,2026-11-03,0,,False,2,1,891,2026-11-18T14:51+00:00
+183600,MI,Michigan Board Member Gull Lake Community Schools,2026-11-03,0,,False,3,1,96,2026-11-18T14:51+00:00
+155719,MI,Michigan State House 82,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,3,1,36960,2026-11-18T14:51+00:00
+183149,MI,Michigan Almont Community Schools Sinking Fund Millage Proposal,2026-11-03,0,,False,2,2,0,2026-11-18T14:51+00:00
+183337,MI,Michigan Coloma School Sinking Fund Millage,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184133,MI,Michigan Village of New Lothrop Clerk,2026-11-03,0,,False,2,1,176,2026-11-18T14:51+00:00
+183878,MI,Michigan City of Tawas City Mayor,2026-11-03,0,,False,2,1,572,2026-11-18T14:51+00:00
+183874,MI,Michigan Grant Township Trustee,2026-11-03,0,,False,2,1,86,2026-11-18T14:51+00:00
+155905,MI,Michigan 76th District Court Judge Incumbent,2026-11-03,0,,False,2,2,6814,2026-11-18T14:51+00:00
+155901,MI,Michigan 71B District Court Judge Incumbent,2026-11-03,0,,False,2,0,0,2026-11-18T14:51+00:00
+183966,MI,Michigan City of Reed City Council Member Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,47,2026-11-18T14:51+00:00
+183711,MI,Michigan Augusta Fire Millage Increase,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+155638,MI,Michigan State House 1,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,3,1,20655,2026-11-18T14:51+00:00
+155826,MI,Michigan 2B District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183252,MI,Michigan City of St Clair Ward 3 City Council Member,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183440,MI,Michigan Airport Community Schools Board Member,2026-11-03,0,,False,5,2,0,2026-11-18T14:51+00:00
+184180,MI,Michigan Mid Peninsula School District Board Member,2026-11-03,0,,False,5,2,1333,2026-11-18T14:51+00:00
+183376,MI,Michigan Home Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,89,2026-11-18T14:51+00:00
+183917,MI,Michigan Village of Webberville Trustee - 2 Year Term,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184105,MI,Michigan Mottville Township Prohibition of Marihuana Establishments Ordinance,2026-11-03,0,,False,2,1,594,2026-11-18T14:51+00:00
+183109,MI,Michigan Armada Area Schools Board Member,2026-11-03,0,,False,3,2,0,2026-11-18T14:51+00:00
+183846,MI,Michigan Board Member Buckley Community Schools,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183842,MI,Michigan Northwestern Michigan College (2) Board of Trustees,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184037,MI,Michigan Reading Community Schools Board Member 6 Year Term,2026-11-03,0,,False,3,1,126,2026-11-18T14:51+00:00
+183750,MI,Michigan Village of Shepherd Operating Millage Restoration Proposal,2026-11-03,0,,False,2,1,60,2026-11-18T14:51+00:00
+183746,MI,Michigan Montabella Community Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,1,1,28,2026-11-18T14:51+00:00
+155865,MI,Michigan 43rd District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+155610,MI,Michigan State Senate 11,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,3,1,111114,2026-11-18T14:51+00:00
+183483,MI,Michigan Treasurer - City of Highland Park,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183671,MI,Michigan City of Dexter Mayor,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+155738,MI,Michigan State House 101,2026-11-03,91.4,2026-11-04T07:09:42.073Z,False,3,2,42355,2026-11-18T14:51+00:00
+183611,MI,Michigan Board Member Kalamazoo Public Library,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+155730,MI,Michigan State House 93,2026-11-03,90.8,2026-11-04T07:09:42.073Z,False,3,2,41637,2026-11-18T14:51+00:00
+183156,MI,Michigan Marion Township Treasurer Partial Term,2026-11-03,0,,False,3,1,345,2026-11-18T14:51+00:00
+184144,MI,Michigan Village of New Lothrop Council Member Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,13,2026-11-18T14:51+00:00
+155816,MI,Michigan Monroe County Probate Court Judge Incumbent,2026-11-03,0,,False,2,1,3561,2026-11-18T14:51+00:00
+183081,MI,Michigan Macomb County Commissioner 1st District Partial Term Ending 12/31/2028,2026-11-03,8.7,,False,3,1,4359,2026-11-18T14:51+00:00
+183877,MI,Michigan City of East Tawas Mayor,2026-11-03,0,,False,2,1,1052,2026-11-18T14:51+00:00
+183021,MI,Michigan Grand Rapids City Library Board 6 Year Term,2026-11-03,0,,False,4,1,116046,2026-11-18T14:51+00:00
+183209,MI,Michigan Saginaw County Proposal 26-4 Saginaw County 9-1-1 Authority Millage Renewal Proposal,2026-11-03,0,,False,2,1,21002,2026-11-18T14:51+00:00
+184005,MI,Michigan City Council Member,2026-11-03,0,,False,4,1,998,2026-11-18T14:51+00:00
+155645,MI,Michigan State House 8,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,4,1,24110,2026-11-18T14:51+00:00
+183710,MI,Michigan Saline Area Fire Authority,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+183455,MI,Michigan Mason Consolidated Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,3,1,1032,2026-11-18T14:51+00:00
+183259,MI,Michigan Algonac Community School District Board Member,2026-11-03,0,,False,5,1,2336,2026-11-18T14:51+00:00
+183639,MI,Michigan Village of Sanford Council Member 4 Year Term,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183583,MI,Michigan Glen Oaks Community College Board of Trustees,2026-11-03,0,,False,3,3,24832,2026-11-18T14:51+00:00
+183387,MI,Michigan City of White Cloud Mayor,2026-11-03,0,,False,3,1,349,2026-11-18T14:51+00:00
+155698,MI,Michigan State House 61,2026-11-03,99.9,2026-11-12T01:54:12.323Z,False,3,1,41862,2026-11-18T14:51+00:00
+183924,MI,Michigan Lansing School District Board Member Partial Term Ending 12/31/2030,2026-11-03,0,,False,4,1,45,2026-11-18T14:51+00:00
+183120,MI,Michigan L'Anse Creuse Public Schools Board Member Full Term,2026-11-03,0,,False,6,1,0,2026-11-18T14:51+00:00
+155784,MI,Michigan 26th Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183049,MI,Michigan Grant Public Schools Board Member,2026-11-03,0,,False,4,2,2208,2026-11-18T14:51+00:00
+183845,MI,Michigan Board Member Benzi County Central Schools (2),2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+183789,MI,Michigan Three Oaks Village President,2026-11-03,0,,False,2,1,47,2026-11-18T14:51+00:00
+183977,MI,Michigan Evart Public Schools Board Member,2026-11-03,0,,False,3,3,1444,2026-11-18T14:51+00:00
+155904,MI,Michigan 75th District Court Judge Incumbent,2026-11-03,0,,False,2,1,8310,2026-11-18T14:51+00:00
+155649,MI,Michigan State House 12,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,3,2,37554,2026-11-18T14:51+00:00
+155609,MI,Michigan State Senate 10,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,3,1,132759,2026-11-18T14:51+00:00
+183622,MI,Michigan Allegan Area Educational Services Agency Area Career and Technical Education Millage Proposal (Restoration of Millage Reduction),2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183618,MI,Michigan Comstock Public Schools Bond Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155737,MI,Michigan State House 100,2026-11-03,99.9,2026-11-04T07:09:42.073Z,False,3,3,41980,2026-11-18T14:51+00:00
+183359,MI,Michigan Pine River Area Schools Board Member 4 Year Term,2026-11-03,0,,False,3,3,3365,2026-11-18T14:51+00:00
+184155,MI,Michigan City of Corunna Charter Amendment 5.2,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183543,MI,Michigan Board Member - Detroit Public Schools Community District Partial Term Ending 12/31/2028,2026-11-03,0,,False,4,1,16856,2026-11-18T14:51+00:00
+155823,MI,Michigan Wayne County Probate Court Judge Non-Incumbent,2026-11-03,0,,False,4,1,51074,2026-11-18T14:51+00:00
+183888,MI,Michigan Whittemore-Prescott Area Schools Board Member 6 Year Term,2026-11-03,0,,False,3,1,829,2026-11-18T14:51+00:00
+183828,MI,Michigan Berrien Township Proposal for Road Millage,2026-11-03,0,,False,2,1,220,2026-11-18T14:51+00:00
+184016,MI,Michigan Surrey Township Road Millage,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183212,MI,Michigan Village of Oakley Proposal 2026-1 Police Services Proposal,2026-11-03,0,,False,2,1,7,2026-11-18T14:51+00:00
+155688,MI,Michigan State House 51,2026-11-03,50,2026-11-04T07:09:42.072Z,False,2,0,0,2026-11-18T14:51+00:00
+155876,MI,Michigan 53rd District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183749,MI,Michigan Village of Lake Isabella Public Safety Millage Proposal,2026-11-03,0,,False,2,1,130,2026-11-18T14:51+00:00
+183494,MI,Michigan City Council - City of Dearborn Heights Partial Term Ending 12/31/2027,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183490,MI,Michigan City Commission River Rouge,2026-11-03,0,,False,10,1,0,2026-11-18T14:51+00:00
+183398,MI,Michigan White Cloud Public Schools Board Member 6 Year Term,2026-11-03,0,,False,3,1,3075,2026-11-18T14:51+00:00
+183394,MI,Michigan Big Jackson Public Schools Board Member,2026-11-03,0,,False,3,1,236,2026-11-18T14:51+00:00
+183582,MI,Michigan Richland Township Treasurer Partial Term 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184127,MI,Michigan Village of Byron President,2026-11-03,0,,False,2,1,175,2026-11-18T14:51+00:00
+183131,MI,Michigan Roseville Community Schools Board Member,2026-11-03,81.8,,False,6,1,17899,2026-11-18T14:51+00:00
+183319,MI,Michigan Dowagiac School Board Member,2026-11-03,0,,False,5,2,0,2026-11-18T14:51+00:00
+155791,MI,Michigan 33rd Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183856,MI,Michigan Trustee Kingsley Village,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183796,MI,Michigan Grand Beach Village Council Member,2026-11-03,0,,False,6,1,119,2026-11-18T14:51+00:00
+155915,MI,Michigan 94th District Court Judge Non-Incumbent,2026-11-03,0,,False,3,1,12904,2026-11-18T14:51+00:00
+183980,MI,Michigan Reed City Area Public Schools Board Member 2 Year Term,2026-11-03,0,,False,2,4,1107,2026-11-18T14:51+00:00
+183533,MI,Michigan Board Member - Southgate Community School District,2026-11-03,0,,False,4,1,4689,2026-11-18T14:51+00:00
+183721,MI,Michigan Coldwater Township Treasurer Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,249,2026-11-18T14:51+00:00
+155648,MI,Michigan State House 11,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,3,2,27711,2026-11-18T14:51+00:00
+183270,MI,Michigan City of Yale Proposal for Millage Increase for Fire Department Equipment/Operations,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183266,MI,Michigan Marysville Public Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,1,582,2026-11-18T14:51+00:00
+183454,MI,Michigan Flat Rock Community Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,2,0,2026-11-18T14:51+00:00
+184166,MI,Michigan Durand Area Schools Bond Proposal,2026-11-03,0,,False,2,1,1055,2026-11-18T14:51+00:00
+184162,MI,Michigan Hazelton Township Recycling Millage Proposal,2026-11-03,0,,False,2,1,941,2026-11-18T14:51+00:00
+183358,MI,Michigan Pine River Area Schools Board Member 6 Year Term,2026-11-03,0,,False,3,3,3451,2026-11-18T14:51+00:00
+183103,MI,Michigan Macomb Community College Trustee,2026-11-03,4.8,,False,10,1,53674,2026-11-18T14:51+00:00
+183899,MI,Michigan Locke Township Treasurer - Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184087,MI,Michigan Constantine Township Library Board Member Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,986,2026-11-18T14:51+00:00
+184031,MI,Michigan Bronson Community Schools Board Member 6 Year Term,2026-11-03,0,,False,5,2,3882,2026-11-18T14:51+00:00
+183035,MI,Michigan Belding Area Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184023,MI,Michigan City of Bronson Council Member,2026-11-03,0,,False,4,1,1048,2026-11-18T14:51+00:00
+155695,MI,Michigan State House 58,2026-11-03,99.9,2026-11-12T01:54:12.323Z,False,3,1,40114,2026-11-18T14:51+00:00
+183760,MI,Michigan Hagar Township Treasurer Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,41,2026-11-18T14:51+00:00
+183309,MI,Michigan Decatur School Board Member,2026-11-03,0,,False,4,1,682,2026-11-18T14:51+00:00
+155620,MI,Michigan State Senate 21,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,3,1,123255,2026-11-18T14:51+00:00
+183493,MI,Michigan City Council Woodhaven - Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+183437,MI,Michigan Village of Maybee Trustee,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183625,MI,Michigan Edenville Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183621,MI,Michigan Allegan Area Educational Services Agency Special Education Millage Proposal (Restoration of Millage Reduction),2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183142,MI,Michigan Center Line Library Millage Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183138,MI,Michigan Warren Woods Public Schools Board Member,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+184126,MI,Michigan Village of Bancroft President,2026-11-03,0,,False,2,1,57,2026-11-18T14:51+00:00
+183871,MI,Michigan Wilber Township Clerk,2026-11-03,0,,False,2,1,360,2026-11-18T14:51+00:00
+155798,MI,Michigan 41st Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183063,MI,Michigan Thornapple-Kellogg Schools Board Member,2026-11-03,0,,False,4,1,245,2026-11-18T14:51+00:00
+183999,MI,Michigan Winterfield Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,189,2026-11-18T14:51+00:00
+183003,MI,Michigan Courtland Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183191,MI,Michigan Chesaning Union Schools Board Member Partial Term,2026-11-03,0,,False,2,2,1039,2026-11-18T14:51+00:00
+183540,MI,Michigan Board Member - Wyandotte Public School District,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+155659,MI,Michigan State House 22,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,3,1,54164,2026-11-18T14:51+00:00
+184077,MI,Michigan City of Sturgis Commissioner At-Large,2026-11-03,0,,False,2,1,2124,2026-11-18T14:51+00:00
+183465,MI,Michigan Jefferson Schools Bond Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183269,MI,Michigan Marine City Public Safety Fire Protection Millage Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184205,MI,Michigan Glen Lake Community Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,2,816,2026-11-18T14:51+00:00
+183593,MI,Michigan Trustee Village of Vicksburg,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183397,MI,Michigan Newaygo Public Schools Board Member,2026-11-03,0,,False,7,1,5525,2026-11-18T14:51+00:00
+183906,MI,Michigan City of Mason Council Member,2026-11-03,0,,False,9,1,6964,2026-11-18T14:51+00:00
+183102,MI,Michigan Village of Romeo Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183839,MI,Michigan Trustee Garfield,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+155766,MI,Michigan 7th Circuit Court Judge Incumbent,2026-11-03,0,,False,3,0,0,2026-11-18T14:51+00:00
+184030,MI,Michigan Village of Union City Trustee,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+155898,MI,Michigan 67th District Court - 5th Division Judge Incumbent,2026-11-03,0,,False,2,0,0,2026-11-18T14:51+00:00
+183771,MI,Michigan Niles City Ward 1 Council Member,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183959,MI,Michigan Osceola County Road Commissioner,2026-11-03,0,,False,2,1,4589,2026-11-18T14:51+00:00
+183316,MI,Michigan Mattawan School Board Member,2026-11-03,0,,False,5,2,276,2026-11-18T14:51+00:00
+183504,MI,Michigan Schoolcraft College Trustee Member - Partial Term Ending 12/31/2028,2026-11-03,50,,False,2,2,2339,2026-11-18T14:51+00:00
+184045,MI,Michigan Camden-Frontier School Sinking Fund Millage Proposal,2026-11-03,0,,False,2,1,21,2026-11-18T14:51+00:00
+183632,MI,Michigan City of Coleman Council Member,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183628,MI,Michigan Midland Township Treasurer Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,724,2026-11-18T14:51+00:00
+183181,MI,Michigan Village of St. Charles President,2026-11-03,0,,False,5,1,821,2026-11-18T14:51+00:00
+183369,MI,Michigan Reed City Area Public Schools Bond Proposal,2026-11-03,0,,False,2,4,2210,2026-11-18T14:51+00:00
+184165,MI,Michigan Owosso Township SATA Funding,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183910,MI,Michigan Village of Stockbridge President,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183870,MI,Michigan Sherman Township Supervisor,2026-11-03,0,,False,4,1,222,2026-11-18T14:51+00:00
+183014,MI,Michigan Grand Rapids City Ward 1 Commissioner,2026-11-03,0,,False,3,1,18078,2026-11-18T14:51+00:00
+183010,MI,Michigan Grand Rapids City Comptroller,2026-11-03,0,,False,3,1,56718,2026-11-18T14:51+00:00
+183998,MI,Michigan Redding Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,156,2026-11-18T14:51+00:00
+183743,MI,Michigan Beal City Public Schools Board Member Partial Term Ending 12/31/2030,2026-11-03,0,,False,2,1,993,2026-11-18T14:51+00:00
+155670,MI,Michigan State House 33,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,3,1,51421,2026-11-18T14:51+00:00
+155858,MI,Michigan 37th District Court Judge Incumbent,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184084,MI,Michigan City of Three Rivers Commissioner District 4,2026-11-03,0,,False,2,1,1592,2026-11-18T14:51+00:00
+183280,MI,Michigan Arlington Township Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183220,MI,Michigan Merrill Community School District Operating Millage Renewal Proposal,2026-11-03,16.7,,False,2,3,1910,2026-11-18T14:51+00:00
+183408,MI,Michigan Hesperia Community Schools Board Member Partial Term Ending 12/31/2030,2026-11-03,0,,False,2,1,93,2026-11-18T14:51+00:00
+183596,MI,Michigan Board Member Climax-Scotts Community Schools,2026-11-03,0,,False,7,1,296,2026-11-18T14:51+00:00
+183949,MI,Michigan City of Lansing Essential Services Millage Restoration Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184137,MI,Michigan Village of Byron Council Member,2026-11-03,0,,False,4,1,402,2026-11-18T14:51+00:00
+183141,MI,Michigan Macomb County Zoological Authority Millage,2026-11-03,4.8,,False,2,1,30583,2026-11-18T14:51+00:00
+155809,MI,Michigan Chippewa County Probate Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+155805,MI,Michigan 52nd Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183782,MI,Michigan Sodus Township Library Board Director Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,34,2026-11-18T14:51+00:00
+183778,MI,Michigan City of Bridgman Library Board Director,2026-11-03,0,,False,3,1,158,2026-11-18T14:51+00:00
+155897,MI,Michigan 67th District Court - 4th Division Judge Non-Incumbent,2026-11-03,0,,False,2,0,0,2026-11-18T14:51+00:00
+155642,MI,Michigan State House 5,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,3,1,24288,2026-11-18T14:51+00:00
+183515,MI,Michigan Board Member - Garden City Public School District,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183703,MI,Michigan City of Ann Arbor Prop C,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+184052,MI,Michigan Washington Township Clerk Partial Term,2026-11-03,0,,False,2,1,12,2026-11-18T14:51+00:00
+183248,MI,Michigan Marysville City Council Member,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183188,MI,Michigan Bridgeport-Spaulding Community Schools Board Member,2026-11-03,0,,False,7,1,3611,2026-11-18T14:51+00:00
+184176,MI,Michigan Bark River-Harris Schools Board Member,2026-11-03,0,,False,4,2,1409,2026-11-18T14:51+00:00
+183372,MI,Michigan Monroe Township Supervisor Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,144,2026-11-18T14:51+00:00
+155848,MI,Michigan 24th District Court Judge Incumbent,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183113,MI,Michigan Clintondale Community Schools Board Member,2026-11-03,0,,False,8,1,0,2026-11-18T14:51+00:00
+183909,MI,Michigan Village of Dansville President,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155777,MI,Michigan 17th Circuit Court Judge Incumbent,2026-11-03,0,,False,4,1,166401,2026-11-18T14:51+00:00
+155773,MI,Michigan 14th Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183838,MI,Michigan Grand Traverse County Clerk Fife Lake,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155681,MI,Michigan State House 44,2026-11-03,50,2026-11-12T01:54:12.323Z,False,2,0,0,2026-11-18T14:51+00:00
+155677,MI,Michigan State House 40,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,3,1,47967,2026-11-18T14:51+00:00
+183742,MI,Michigan Vestaburg Community School Board Member,2026-11-03,50,,False,4,2,128,2026-11-18T14:51+00:00
+183487,MI,Michigan City Council Garden City,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183291,MI,Michigan Breedsville Village Trustee 4 Year Term,2026-11-03,0,,False,2,1,30,2026-11-18T14:51+00:00
+155602,MI,Michigan State Senate 3,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,4,1,82999,2026-11-18T14:51+00:00
+183615,MI,Michigan City of Portage Proposal - Citizens' Advisory Healthcare Action Board,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183419,MI,Michigan Ida Township Supervisor Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,1996,2026-11-18T14:51+00:00
+183607,MI,Michigan Board Member Portage Public Schools,2026-11-03,0,,False,7,1,0,2026-11-18T14:51+00:00
+183956,MI,Michigan Dansville Schools Operating Millage Renewal Proposal,2026-11-03,0,,False,2,1,735,2026-11-18T14:51+00:00
+183152,MI,Michigan Albee Township Clerk Partial Term,2026-11-03,0,,False,2,1,701,2026-11-18T14:51+00:00
+183693,MI,Michigan South Lyon Schools Board Member,2026-11-03,99.9,,False,3,1,0,2026-11-18T14:51+00:00
+183881,MI,Michigan City of Whittemore Treasurer,2026-11-03,0,,False,3,1,137,2026-11-18T14:51+00:00
+155808,MI,Michigan Berrien County Probate Court Judge Incumbent,2026-11-03,0,,False,2,1,6180,2026-11-18T14:51+00:00
+183821,MI,Michigan Bridgman City Public Library Millage Proposal - Headlee Override,2026-11-03,0,,False,2,1,140,2026-11-18T14:51+00:00
+184009,MI,Michigan Board Member Beaverton Schools,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183013,MI,Michigan Wyoming City Council Member At Large,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183522,MI,Michigan Board Member - Lincoln Consolidated School District,2026-11-03,50,,False,5,2,0,2026-11-18T14:51+00:00
+155641,MI,Michigan State House 4,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,3,1,28321,2026-11-18T14:51+00:00
+183263,MI,Michigan Croswell-Lexington Community Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,3,1,316,2026-11-18T14:51+00:00
+184059,MI,Michigan Village of Breckenridge President,2026-11-03,0,,False,2,1,17,2026-11-18T14:51+00:00
+183447,MI,Michigan Ida Public Schools Board Member,2026-11-03,0,,False,7,1,7059,2026-11-18T14:51+00:00
+183391,MI,Michigan Croton Township Library Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184187,MI,Michigan Leelanau County Road Commissioner,2026-11-03,0,,False,2,1,4306,2026-11-18T14:51+00:00
+183575,MI,Michigan Operating Millage Replacement Proposal - Taylor School District,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155855,MI,Michigan 36th District Court Judge Incumbent,2026-11-03,0,,False,7,1,54393,2026-11-18T14:51+00:00
+183920,MI,Michigan Haslett Schools Board Member,2026-11-03,0,,False,3,2,804,2026-11-18T14:51+00:00
+183661,MI,Michigan City of Ypsilanti City Council Ward 1,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+183849,MI,Michigan Board Member Traverse City Area Public Schools,2026-11-03,0,,False,8,2,5441,2026-11-18T14:51+00:00
+155776,MI,Michigan 16th Circuit Court Judge Non-Incumbent,2026-11-03,4.8,,False,3,1,24288,2026-11-18T14:51+00:00
+155720,MI,Michigan State House 83,2026-11-03,50,2026-11-04T07:09:42.072Z,False,3,1,32952,2026-11-18T14:51+00:00
+155908,MI,Michigan 79th District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183781,MI,Michigan Lincoln Charter Township Library Board Director Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,45,2026-11-18T14:51+00:00
+183526,MI,Michigan Board Member - Northville Public School District,2026-11-03,50,,False,4,2,0,2026-11-18T14:51+00:00
+183486,MI,Michigan City Council Ecorse,2026-11-03,0,,False,9,1,0,2026-11-18T14:51+00:00
+183430,MI,Michigan Village of Carleton Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183426,MI,Michigan City of Luna Pier City Council Member,2026-11-03,0,,False,5,1,1083,2026-11-18T14:51+00:00
+183614,MI,Michigan Kalamazoo City Proposal - Citizens' Advisory Healthcare Action Committee,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184159,MI,Michigan City of Owosso Parks and Recreation Millage Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183163,MI,Michigan Delta College Midland County Board of Trustees,2026-11-03,0,,False,2,2,21466,2026-11-18T14:51+00:00
+183351,MI,Michigan Village of Baldwin Trustee,2026-11-03,0,,False,3,1,259,2026-11-18T14:51+00:00
+183700,MI,Michigan Ypsilanti District Library Board Member Partial Term,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+155819,MI,Michigan Saginaw County Probate Court Judge Incumbent,2026-11-03,0,,False,2,1,14396,2026-11-18T14:51+00:00
+155759,MI,Michigan 3rd Circuit Court Judge Non-Incumbent,2026-11-03,0,,False,2,1,24289,2026-11-18T14:51+00:00
+183024,MI,Michigan Village of Casnovia President,2026-11-03,0,,False,2,2,0,2026-11-18T14:51+00:00
+184012,MI,Michigan Board Member Beaverton Schools Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183565,MI,Michigan City of Southgate - City Charter Amendment to Article 5 General Finance,2026-11-03,0,,False,2,1,3771,2026-11-18T14:51+00:00
+183753,MI,Michigan Royalton Township Supervisor Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,1968,2026-11-18T14:51+00:00
+155680,MI,Michigan State House 43,2026-11-03,37.9,2026-11-04T07:09:42.072Z,False,2,0,0,2026-11-18T14:51+00:00
+183302,MI,Michigan Lawton Village Library Board Member Partial,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+183298,MI,Michigan Paw Paw Village Trustee,2026-11-03,0,,False,7,1,0,2026-11-18T14:51+00:00
+184198,MI,Michigan Village of Northport Trustee,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+184194,MI,Michigan Leland Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,4,1,1218,2026-11-18T14:51+00:00
+183390,MI,Michigan City of White Cloud Council Member,2026-11-03,0,,False,6,1,845,2026-11-18T14:51+00:00
+183135,MI,Michigan Warren Consolidated Schools Board Member Full Term,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183931,MI,Michigan Webberville Community Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,4,1,28,2026-11-18T14:51+00:00
+184119,MI,Michigan City Of Laingsburg Council Member,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183668,MI,Michigan York Township Supervisor,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+155787,MI,Michigan 30th Circuit Court Judge Incumbent,2026-11-03,0,,False,4,1,45866,2026-11-18T14:51+00:00
+155727,MI,Michigan State House 90,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,3,1,51094,2026-11-18T14:51+00:00
+183792,MI,Michigan Baroda Village Trustee,2026-11-03,0,,False,8,1,109,2026-11-18T14:51+00:00
+155911,MI,Michigan 84th District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183341,MI,Michigan Chase Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,47,2026-11-18T14:51+00:00
+155652,MI,Michigan State House 15,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,3,1,36464,2026-11-18T14:51+00:00
+183525,MI,Michigan Board Member - Melvindale-Northern Allen Park School District,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184070,MI,Michigan St. Johns Public Schools Board Member,2026-11-03,0,,False,8,1,3,2026-11-18T14:51+00:00
+184066,MI,Michigan Ashley Community School Board Member Partial 2 yr Term,2026-11-03,75,,False,1,1,45,2026-11-18T14:51+00:00
+183262,MI,Michigan Croswell-Lexington Community Schools Board Member 6 Year Term,2026-11-03,0,,False,2,1,263,2026-11-18T14:51+00:00
+183174,MI,Michigan Village of Merrill President,2026-11-03,0,,False,2,1,211,2026-11-18T14:51+00:00
+183170,MI,Michigan Bridgeport Township Library Board Director Partial Term,2026-11-03,0,,False,3,1,297,2026-11-18T14:51+00:00
+184158,MI,Michigan City of Durand Parks and Recreation Millage Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183903,MI,Michigan Lansing Community College Board of Trustees,2026-11-03,0,,False,4,2,32898,2026-11-18T14:51+00:00
+155830,MI,Michigan 5th District Court Judge Incumbent,2026-11-03,0,,False,2,1,6201,2026-11-18T14:51+00:00
+183095,MI,Michigan Village of New Haven Clerk,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+183835,MI,Michigan Sodus Township Proposal Road Millage Renewal,2026-11-03,0,,False,2,1,45,2026-11-18T14:51+00:00
+183031,MI,Michigan Village of Sand Lake Trustee 4 Year Term,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183572,MI,Michigan Redford Union School District Operating Millage Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155691,MI,Michigan State House 54,2026-11-03,50,2026-11-04T07:09:42.072Z,False,2,0,0,2026-11-18T14:51+00:00
+184109,MI,Michigan Fairfield Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,189,2026-11-18T14:51+00:00
+183497,MI,Michigan City Council District 3 Highland Park,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183301,MI,Michigan Lawton Village Trustee Partial,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184038,MI,Michigan Tekonsha Community Schools Board Member 6 Year Term,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+183433,MI,Michigan Village of Estral Beach Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183429,MI,Michigan Village of South Rockwood President,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183942,MI,Michigan Eaton County Transportation Authority (EATRAN) Millage Renewal Authorization Question,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183938,MI,Michigan Northwest Community Schools Board Member,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+183134,MI,Michigan Van Dyke Public Schools Board Member,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+155802,MI,Michigan 48th Circuit Court Judge Incumbent,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183675,MI,Michigan City of Saline City Council,2026-11-03,99.9,,False,5,1,0,2026-11-18T14:51+00:00
+183863,MI,Michigan Grand Traverse County Trails Millage,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183007,MI,Michigan Montcalm Community College Board of Trustees,2026-11-03,18.8,,False,3,4,830,2026-11-18T14:51+00:00
+183803,MI,Michigan Brandywine Community Schools Board Member 6 Year Term,2026-11-03,0,,False,3,2,21,2026-11-18T14:51+00:00
+183991,MI,Michigan Sylvan Township Fire Millage Proposal,2026-11-03,0,,False,2,1,385,2026-11-18T14:51+00:00
+183348,MI,Michigan West Shore Community College Board of Trustees,2026-11-03,0,,False,3,2,615,2026-11-18T14:51+00:00
+183536,MI,Michigan Board Member - Van Buren Public School District,2026-11-03,50,,False,4,2,0,2026-11-18T14:51+00:00
+183085,MI,Michigan Center Line Council Member,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183273,MI,Michigan Emmett Township Millage Renewal Operating Millage Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184069,MI,Michigan Ithaca Public Schools Board Member,2026-11-03,66.7,,False,7,1,7089,2026-11-18T14:51+00:00
+183213,MI,Michigan Birch Run Area Schools Sinking Fund Millage Renewal Proposal,2026-11-03,0,,False,2,1,2041,2026-11-18T14:51+00:00
+183401,MI,Michigan Holton Public Schools Board Member,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+184197,MI,Michigan Village of Empire Trustee 4 Year Term,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+155837,MI,Michigan 12th District Court Judge Non-Incumbent,2026-11-03,0,,False,2,0,0,2026-11-18T14:51+00:00
+183902,MI,Michigan Wheatfield Township Trustee - Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+155770,MI,Michigan 11th Circuit Court Judge Incumbent,2026-11-03,0,,False,2,0,0,2026-11-18T14:51+00:00
+183643,MI,Michigan Coleman Community Schools Board Member,2026-11-03,0,,False,3,2,2002,2026-11-18T14:51+00:00
+183038,MI,Michigan Cedar Springs Public Schools Board Member 4 Year Term,2026-11-03,0,,False,8,2,5460,2026-11-18T14:51+00:00
+183775,MI,Michigan Commissioner City of Buchanan,2026-11-03,0,,False,6,1,171,2026-11-18T14:51+00:00
+155702,MI,Michigan State House 65,2026-11-03,90.4,2026-11-04T07:09:42.072Z,False,3,2,45911,2026-11-18T14:51+00:00
+155890,MI,Michigan 64A District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+184116,MI,Michigan City Of Corunna Ward 1 Council Member,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183312,MI,Michigan Lawrence School Board Member,2026-11-03,0,,False,4,1,31,2026-11-18T14:51+00:00
+183053,MI,Michigan Kenowa Hills Public Schools Board Member,2026-11-03,0,,False,7,2,1755,2026-11-18T14:51+00:00
+183241,MI,Michigan Marine City Mayor,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183436,MI,Michigan Village of Estral Beach Trustee,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183981,MI,Michigan City of Evart Fire Millage Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184169,MI,Michigan Wells Township Supervisor Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,238,2026-11-18T14:51+00:00
+183173,MI,Michigan Village of Chesaning Trustee,2026-11-03,0,,False,4,1,38,2026-11-18T14:51+00:00
+155841,MI,Michigan 16th District Court Judge Incumbent,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155801,MI,Michigan 46th Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183814,MI,Michigan River Valley Schools Board Member,2026-11-03,0,,False,4,1,2394,2026-11-18T14:51+00:00
+183810,MI,Michigan Lakeshore Public Schools Board Member,2026-11-03,0,,False,5,1,2359,2026-11-18T14:51+00:00
+183006,MI,Michigan Grand Rapids Community College Board of Trustees Partial Term Ending 12/31/2030,2026-11-03,0,,False,2,6,65955,2026-11-18T14:51+00:00
+155674,MI,Michigan State House 37,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,3,1,37239,2026-11-18T14:51+00:00
+183547,MI,Michigan Library Board Member - City of Garden City,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183735,MI,Michigan Alma Public Schools Board Member,2026-11-03,18.8,,False,6,2,2738,2026-11-18T14:51+00:00
+183092,MI,Michigan Village of Armada Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184080,MI,Michigan City of Sturgis Commissioner District 2 4 Year Term,2026-11-03,0,,False,2,1,79,2026-11-18T14:51+00:00
+184020,MI,Michigan Bethel Township Treasurer Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,390,2026-11-18T14:51+00:00
+184208,MI,Michigan Leelanau County Bay Area Transportation Authority Millage Proposal,2026-11-03,0,,False,2,1,6907,2026-11-18T14:51+00:00
+183404,MI,Michigan Oakridge Public Schools Board Member,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+155880,MI,Michigan 56A District Court Judge Incumbent Partial Term Ending 2029,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183145,MI,Michigan Sterling Heights Charter Amendment-Vacancy,2026-11-03,0,,False,2,1,2078,2026-11-18T14:51+00:00
+183941,MI,Michigan Fowlerville District Library Board Member,2026-11-03,0,,False,5,2,77,2026-11-18T14:51+00:00
+183686,MI,Michigan Manchester Schools Board Member,2026-11-03,99.9,,False,7,1,0,2026-11-18T14:51+00:00
+183682,MI,Michigan Clinton Schools Board Member Partial Term,2026-11-03,99.9,,False,3,1,0,2026-11-18T14:51+00:00
+155713,MI,Michigan State House 76,2026-11-03,50,2026-11-04T07:09:42.072Z,False,3,1,46467,2026-11-18T14:51+00:00
+155709,MI,Michigan State House 72,2026-11-03,43.8,2026-11-04T07:09:42.072Z,False,2,0,0,2026-11-18T14:51+00:00
+183774,MI,Michigan Niles City Ward 4 Council Member,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183519,MI,Michigan Board Member - Hamtramck Public School District,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183323,MI,Michigan Bangor School Board Member Partial,2026-11-03,0,,False,2,1,531,2026-11-18T14:51+00:00
+155634,MI,Michigan State Senate 35,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,4,2,122845,2026-11-18T14:51+00:00
+183060,MI,Michigan Rockford Public Schools Board Member 4 Year Term,2026-11-03,0,,False,8,1,14927,2026-11-18T14:51+00:00
+184048,MI,Michigan Fulton Township Treasurer Partial Term,2026-11-03,0,,False,2,1,65,2026-11-18T14:51+00:00
+183988,MI,Michigan Osceola Township Fire Millage Proposal,2026-11-03,0,,False,2,1,395,2026-11-18T14:51+00:00
+183184,MI,Michigan Ashley Community Schools Board Member Partial Term,2026-11-03,0,,False,1,1,23,2026-11-18T14:51+00:00
+184172,MI,Michigan Bay De Noc Community College Board of Trustees 6 Year Term,2026-11-03,0,,False,5,1,25088,2026-11-18T14:51+00:00
+183725,MI,Michigan Community College Board of Trustees Member Mid Michigan College 6 Year Term,2026-11-03,0,,False,6,3,9364,2026-11-18T14:51+00:00
+183913,MI,Michigan Village of Dansville Trustee - 2 Year Term,2026-11-03,0,,False,5,1,0,2026-11-18T14:51+00:00
+155840,MI,Michigan 15th District Court Judge Incumbent,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+183654,MI,Michigan City of Ann Arbor Mayor,2026-11-03,99.9,,False,3,1,0,2026-11-18T14:51+00:00
+183650,MI,Michigan Meridian Public Schools Bond Proposal,2026-11-03,0,,False,2,1,1584,2026-11-18T14:51+00:00
+155769,MI,Michigan 10th Circuit Court Judge Incumbent,2026-11-03,0,,False,2,1,14575,2026-11-18T14:51+00:00
+183558,MI,Michigan Millage Renewal Parks & Recreation - City of Inkster,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183554,MI,Michigan General Revision of the City Charter Proposal - City of Dearborn Heights,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155673,MI,Michigan State House 36,2026-11-03,99.9,2026-11-04T07:09:42.072Z,False,4,1,35032,2026-11-18T14:51+00:00
+183295,MI,Michigan Lawton Village Trustee,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+184091,MI,Michigan Centreville Village Trustee,2026-11-03,0,,False,4,1,617,2026-11-18T14:51+00:00
+183479,MI,Michigan City Clerk - City of Highland Park,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+183423,MI,Michigan Bedford Township Park Commissioner Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183227,MI,Michigan Yale City Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183415,MI,Michigan Wilcox Township Fire Protection and Medical First Responder Services Millage Proposal,2026-11-03,0,,False,2,1,353,2026-11-18T14:51+00:00
+155887,MI,Michigan 62B District Court Judge Incumbent,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183952,MI,Michigan Fire Protection and Emergency Medical Services Millage Renewal Proposal,2026-11-03,0,,False,2,1,14071,2026-11-18T14:51+00:00
+155624,MI,Michigan State Senate 25,2026-11-03,98.1,2026-11-04T07:09:42.071Z,False,3,2,123985,2026-11-18T14:51+00:00
+155812,MI,Michigan Ingham County Probate Court Judge Incumbent,2026-11-03,0,,False,2,1,18765,2026-11-18T14:51+00:00
+183685,MI,Michigan Grass Lake Schools Board Member,2026-11-03,99.9,,False,4,1,0,2026-11-18T14:51+00:00
+155752,MI,Michigan Court of Appeals District 1 Incumbent,2026-11-03,0,,False,4,5,111045,2026-11-18T14:51+00:00
+183017,MI,Michigan Walker City Ward 1 Commissioner Partial Term Ending 12/1/2028,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183813,MI,Michigan Sodus Township School District #5 Board Member,2026-11-03,0,,False,3,1,4,2026-11-18T14:51+00:00
+183330,MI,Michigan Geneva Township Library Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183518,MI,Michigan Board Member - Grosse Pointe Public School System,2026-11-03,0,,False,6,1,17179,2026-11-18T14:51+00:00
+184063,MI,Michigan Village of Perrinton Trustee,2026-11-03,0,,False,4,1,9,2026-11-18T14:51+00:00
+183067,MI,Michigan Kent County Millage Renewal and Increase Corrections and Detention Facilities,2026-11-03,0,,False,2,1,101491,2026-11-18T14:51+00:00
+183255,MI,Michigan Village of Emmett Clerk,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184191,MI,Michigan Bingham Township Treasurer Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183195,MI,Michigan Hemlock Public Schools Board Member,2026-11-03,0,,False,5,2,843,2026-11-18T14:51+00:00
+183383,MI,Michigan Sheridan Charter Township Trustee Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,597,2026-11-18T14:51+00:00
+183732,MI,Michigan Village of Rosebush Council Member,2026-11-03,0,,False,5,1,251,2026-11-18T14:51+00:00
+155851,MI,Michigan 31st District Court Judge Incumbent,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183469,MI,Michigan Trustee - Charter Township of Northville Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+155780,MI,Michigan 20th Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183653,MI,Michigan Saginaw Intermediate School District Area Career and Technical Education Millage Renewal Proposal,2026-11-03,0,,False,2,1,680,2026-11-18T14:51+00:00
+183597,MI,Michigan Board Member Colon Community Schools,2026-11-03,0,,False,4,3,2892,2026-11-18T14:51+00:00
+183785,MI,Michigan Eau Claire Village President,2026-11-03,0,,False,2,1,11,2026-11-18T14:51+00:00
+155712,MI,Michigan State House 75,2026-11-03,85.7,2026-11-12T01:54:12.323Z,False,3,2,47424,2026-11-18T14:51+00:00
+183334,MI,Michigan Hartford School Operating Millage,2026-11-03,0,,False,2,1,73,2026-11-18T14:51+00:00
+183294,MI,Michigan Lawrence Village Trustee,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183238,MI,Michigan Fort Gratiot Township Park Commissioner Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183234,MI,Michigan Clay Township Treasurer Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183422,MI,Michigan Exeter Township Treasurer Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183167,MI,Michigan City of Saginaw Council Member,2026-11-03,0,,False,11,1,4982,2026-11-18T14:51+00:00
+183963,MI,Michigan City of Evart Clerk,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184151,MI,Michigan Durand Area Schools Board Member Partial Term Ending 12/31/2030,2026-11-03,0,,False,3,1,811,2026-11-18T14:51+00:00
+155631,MI,Michigan State Senate 32,2026-11-03,22.3,2026-11-12T01:54:12.322Z,False,2,0,0,2026-11-18T14:51+00:00
+183696,MI,Michigan Ypsilanti Schools Board Member,2026-11-03,99.9,,False,4,1,0,2026-11-18T14:51+00:00
+183636,MI,Michigan City of Midland Ward 4 Council Member,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183824,MI,Michigan City of Niles Proposal to Limit the Number of Marihuana Retailers in the City of Niles,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183020,MI,Michigan Wyoming City Ward 1 Council Member,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183373,MI,Michigan Barton Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,0,2026-11-18T14:51+00:00
+155684,MI,Michigan State House 47,2026-11-03,82,2026-11-04T07:09:42.072Z,False,3,1,53041,2026-11-18T14:51+00:00
+183557,MI,Michigan City of Grosse Pointe Park Parks and Recreation Millage Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184102,MI,Michigan White Pigeon Community Schools Board Member 4 Year Term,2026-11-03,0,,False,5,2,3245,2026-11-18T14:51+00:00
+184098,MI,Michigan Constantine Public Schools Board Member,2026-11-03,0,,False,4,2,2652,2026-11-18T14:51+00:00
+183206,MI,Michigan St. Charles Community Schools Board Member,2026-11-03,0,,False,6,1,5383,2026-11-18T14:51+00:00
+183202,MI,Michigan Saginaw City School District Board Member,2026-11-03,0,,False,3,1,4102,2026-11-18T14:51+00:00
+184190,MI,Michigan Empire Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183935,MI,Michigan Morrice Area Schools Board Member,2026-11-03,0,,False,5,2,771,2026-11-18T14:51+00:00
+155862,MI,Michigan 41A District Court Judge Incumbent,2026-11-03,0,,False,2,1,5978,2026-11-18T14:51+00:00
+183127,MI,Michigan Richmond Community Schools Board Member,2026-11-03,20,,False,4,2,4157,2026-11-18T14:51+00:00
+183476,MI,Michigan Mayor - City of River Rouge,2026-11-03,0,,False,3,1,0,2026-11-18T14:51+00:00
+183664,MI,Michigan Ann Arbor Township Clerk,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+183604,MI,Michigan Board Member Parchment School District Partial Term ending 12/31/2030,2026-11-03,0,,False,2,1,80,2026-11-18T14:51+00:00
+155723,MI,Michigan State House 86,2026-11-03,50,2026-11-12T01:54:12.323Z,False,2,0,0,2026-11-18T14:51+00:00
+183788,MI,Michigan Stevensville Village President,2026-11-03,0,,False,2,1,27,2026-11-18T14:51+00:00
+184141,MI,Michigan Village of Vernon Trustee Member 4 Year Term,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+183529,MI,Michigan Board Member - River Rouge School District,2026-11-03,0,,False,9,1,0,2026-11-18T14:51+00:00
+183333,MI,Michigan Mattawan Village Headlee Override Millage,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183078,MI,Michigan Allegan Area Educational Service Agency Special Education Millage Proposal,2026-11-03,0,,False,2,2,0,2026-11-18T14:51+00:00
+183074,MI,Michigan Kenowa Hills Public Schools Operating Millage Proposal,2026-11-03,0,,False,2,2,764,2026-11-18T14:51+00:00
+184062,MI,Michigan Village of Perrinton President,2026-11-03,0,,False,2,1,4,2026-11-18T14:51+00:00
+183974,MI,Michigan Village of Le Roy Trustee,2026-11-03,0,,False,4,1,196,2026-11-18T14:51+00:00
+183970,MI,Michigan Village of Tustin President,2026-11-03,0,,False,2,1,56,2026-11-18T14:51+00:00
+183166,MI,Michigan City of Frankenmuth Council Member,2026-11-03,0,,False,4,1,91,2026-11-18T14:51+00:00
+155834,MI,Michigan 8th District Court Judge Non-Incumbent,2026-11-03,0,,False,3,1,4161,2026-11-18T14:51+00:00
+183707,MI,Michigan City of Ypsilanti Proposal for Nonpartisan Elections,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+183895,MI,Michigan Wheatfield Township Supervisor - Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183444,MI,Michigan Dundee Community Schools Board Member,2026-11-03,0,,False,5,2,242,2026-11-18T14:51+00:00
+183831,MI,Michigan Niles Charter Township Marihuana Retail Establishment Ordinance,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183380,MI,Michigan Troy Township Treasurer Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,45,2026-11-18T14:51+00:00
+183568,MI,Michigan Millage Renewal for Recreation Program - Grosse Ile Township,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183117,MI,Michigan Fraser Public Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,12.5,,False,2,1,1070,2026-11-18T14:51+00:00
+183305,MI,Michigan Bangor School Board Member,2026-11-03,0,,False,2,1,511,2026-11-18T14:51+00:00
+184101,MI,Michigan Three Rivers Community Schools Board Member 4 Year Term,2026-11-03,0,,False,4,2,10711,2026-11-18T14:51+00:00
+183046,MI,Michigan Grand Rapids Public Schools Board Member 4 Year Term,2026-11-03,0,,False,16,1,220244,2026-11-18T14:51+00:00
+183042,MI,Michigan Forest Hills Public Schools Board Member,2026-11-03,0,,False,4,1,5217,2026-11-18T14:51+00:00
+183237,MI,Michigan East China Township Park Commissioner Partial Term Ending 12/1/2028,2026-11-03,0,,False,4,1,0,2026-11-18T14:51+00:00
+155873,MI,Michigan 52nd District Court - 2nd Division Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+155869,MI,Michigan 48th District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183934,MI,Michigan Eaton Rapids Public Schools Board Member,2026-11-03,0,,False,2,1,148,2026-11-18T14:51+00:00
+183679,MI,Michigan Chelsea Schools Board Member,2026-11-03,99.9,,False,4,1,0,2026-11-18T14:51+00:00
+155606,MI,Michigan State Senate 7,2026-11-03,50,2026-11-04T07:09:42.071Z,False,2,0,0,2026-11-18T14:51+00:00
+155794,MI,Michigan 37th Circuit Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183807,MI,Michigan Eau Claire Public Schools Board Member 6 Year Term,2026-11-03,0,,False,5,2,100,2026-11-18T14:51+00:00
+155734,MI,Michigan State House 97,2026-11-03,99.9,2026-11-04T07:09:42.073Z,False,3,1,43006,2026-11-18T14:51+00:00
+183799,MI,Michigan Stevensville Village Trustee,2026-11-03,0,,False,2,1,32,2026-11-18T14:51+00:00
+184148,MI,Michigan Durand Area Schools Board Member 6 Year Term,2026-11-03,0,,False,3,1,1298,2026-11-18T14:51+00:00
+183344,MI,Michigan Sweetwater Township Clerk Partial Term Ending 12/1/2028,2026-11-03,0,,False,1,1,19,2026-11-18T14:51+00:00
+183885,MI,Michigan Hale Area Schools Board Member,2026-11-03,0,,False,3,1,2395,2026-11-18T14:51+00:00
+184073,MI,Michigan Saint Louis Public Schools Operating Millage Proposal,2026-11-03,75,,False,2,1,1206,2026-11-18T14:51+00:00
+183077,MI,Michigan Tri County Area Schools Sinking Fund Millage Proposal,2026-11-03,0,,False,2,2,18,2026-11-18T14:51+00:00
+184013,MI,Michigan Grant Township Road Imporvement Millage Renewal Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184201,MI,Michigan Glen Lake Community Schools Board Member 6 Year Term,2026-11-03,0,,False,4,2,1687,2026-11-18T14:51+00:00
+183205,MI,Michigan Saginaw Township Community Schools Board Member Partial Term,2026-11-03,0,,False,4,1,1226,2026-11-18T14:51+00:00
+183714,MI,Michigan Scio Township Road Millage,2026-11-03,99.9,,False,2,1,0,2026-11-18T14:51+00:00
+155833,MI,Michigan 8th District Court Judge Incumbent,2026-11-03,0,,False,2,1,2482,2026-11-18T14:51+00:00
+183647,MI,Michigan Bay County Library Millage Renewal Proposal,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183451,MI,Michigan Monroe Public Schools Board Member,2026-11-03,0,,False,9,1,2123,2026-11-18T14:51+00:00
+155762,MI,Michigan 4th Circuit Court Judge Incumbent Partial Term Ending 2031,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+155706,MI,Michigan State House 69,2026-11-03,50,2026-11-12T01:54:12.323Z,False,3,0,0,2026-11-18T14:51+00:00
+183579,MI,Michigan Kalamazoo Charter TownshipTreasurer Partial Term ending 12/1/2028,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183767,MI,Michigan Coloma City Clerk,2026-11-03,0,,False,2,1,466,2026-11-18T14:51+00:00
+183124,MI,Michigan Memphis Community Schools Board Member Partial Term Ending 12/31/2028,2026-11-03,0,,False,2,2,54,2026-11-18T14:51+00:00
+184112,MI,Michigan Woodhull Township Park Commissioner Partial Term Ending 12/1/2028,2026-11-03,0,,False,6,1,0,2026-11-18T14:51+00:00
+183853,MI,Michigan Trustee Fife Lake Village (2),2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+184041,MI,Michigan Homer Community School District Board Member Partial Term 12/31/2030,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183045,MI,Michigan Godwin Heights Public Schools Board Member,2026-11-03,0,,False,4,1,4,2026-11-18T14:51+00:00
+155912,MI,Michigan 89th District Court Judge Incumbent,2026-11-03,0,,False,1,0,0,2026-11-18T14:51+00:00
+183177,MI,Michigan Village of Oakley Trustee,2026-11-03,0,,False,4,1,14,2026-11-18T14:51+00:00
+183973,MI,Michigan Village of Hersey Trustee,2026-11-03,0,,False,2,1,0,2026-11-18T14:51+00:00
+183718,MI,Michigan Coldwater Township Supervisor Partial Term Ending 12/1/2028,2026-11-03,0,,False,2,1,253,2026-11-18T14:51+00:00
+87213,MI,Michigan US House 13,2026-11-03,96.7,2026-11-04T03:39:20.972Z,False,6,1,275192,2026-11-18T14:51+00:00
+87204,MI,Michigan US House 4,2026-11-03,97.9,2026-11-04T18:16:56.935Z,False,4,6,371754,2026-11-18T14:51+00:00
+87205,MI,Michigan US House 5,2026-11-03,90.8,2026-11-04T04:19:08.954Z,False,6,10,337595,2026-11-18T14:51+00:00
+87214,MI,Michigan US Senate,2026-11-03,96.5,2026-11-04T06:45:05.269Z,False,13,83,4782821,2026-11-18T14:51+00:00
+87206,MI,Michigan US House 6,2026-11-03,98.8,2026-11-04T03:39:20.972Z,False,8,4,390218,2026-11-18T14:51+00:00
+87208,MI,Michigan US House 8,2026-11-03,94.3,2026-11-04T06:42:37.178Z,False,6,5,352924,2026-11-18T14:51+00:00
+87209,MI,Michigan US House 9,2026-11-03,94.5,2026-11-04T04:54:22.572Z,False,7,7,395847,2026-11-18T14:51+00:00
+87207,MI,Michigan US House 7,2026-11-03,98.4,2026-11-04T19:11:40.436Z,False,4,7,397486,2026-11-18T14:51+00:00
+87201,MI,Michigan US House 1,2026-11-03,91,2026-11-04T06:30:56.318Z,False,8,36,404950,2026-11-18T14:51+00:00
+87210,MI,Michigan US House 10,2026-11-03,96.8,2026-11-04T17:28:03.829Z,False,6,2,359286,2026-11-18T14:51+00:00
+87202,MI,Michigan US House 2,2026-11-03,91.6,2026-11-04T04:02:17.866Z,False,5,20,358742,2026-11-18T14:51+00:00
+87211,MI,Michigan US House 11,2026-11-03,97.6,2026-11-04T02:40:01.574Z,False,5,1,392301,2026-11-18T14:51+00:00
+87212,MI,Michigan US House 12,2026-11-03,96.8,2026-11-04T02:21:59.541Z,False,6,2,325927,2026-11-18T14:51+00:00
+87203,MI,Michigan US House 3,2026-11-03,99,2026-11-04T06:09:43.615Z,False,4,3,372428,2026-11-18T14:51+00:00

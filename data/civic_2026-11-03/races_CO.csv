@@ -1,0 +1,989 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+87018,CO,Colorado Governor,2026-11-03,94.5,2026-11-04T02:18:31.025Z,False,7,64,2681244,2026-11-18T12:54+00:00
+170011,CO,Colorado Proposition 135,2026-11-03,86.1,2026-11-17T03:50:43.245Z,False,2,64,2647540,2026-11-18T12:54+00:00
+160405,CO,Colorado Court of Appeals - Grant Sullivan Retention,2026-11-03,86.1,,False,2,64,2056476,2026-11-18T12:54+00:00
+170002,CO,Colorado Amendment 83,2026-11-03,86.1,2026-11-17T03:50:43.245Z,False,2,64,2639928,2026-11-18T12:54+00:00
+170008,CO,Colorado Proposition 132,2026-11-03,86.1,2026-11-17T03:50:43.245Z,False,2,64,2643121,2026-11-18T12:54+00:00
+160402,CO,Colorado Court of Appeals - Katharine E. Lum Retention,2026-11-03,86.1,,False,2,64,2068562,2026-11-18T12:54+00:00
+160401,CO,Colorado Court of Appeals - Elizabeth L. Harris Retention,2026-11-03,86.1,,False,2,64,2071660,2026-11-18T12:54+00:00
+170012,CO,Colorado Proposition 136,2026-11-03,86.1,2026-11-17T03:50:43.245Z,False,2,64,2610103,2026-11-18T12:54+00:00
+170004,CO,Colorado Amendment 85,2026-11-03,86.1,2026-11-17T03:50:43.245Z,False,2,64,2645610,2026-11-18T12:54+00:00
+170003,CO,Colorado Amendment 84,2026-11-03,86.1,2026-11-04T06:53:42.308Z,False,2,64,2666219,2026-11-18T12:54+00:00
+87019,CO,Colorado Attorney General,2026-11-03,86.1,2026-11-04T06:53:42.308Z,False,2,64,2645347,2026-11-18T12:54+00:00
+160403,CO,Colorado Court of Appeals - Pax Moultrie Retention,2026-11-03,86.1,,False,2,64,2062044,2026-11-18T12:54+00:00
+159530,CO,Colorado State Senate,2026-11-03,82.3,,False,4,21,1530888,2026-11-18T12:54+00:00
+159527,CO,Colorado State House,2026-11-03,86.9,,False,8,65,2494473,2026-11-18T12:54+00:00
+170009,CO,Colorado Proposition 133,2026-11-03,86.1,2026-11-04T06:53:42.308Z,False,2,64,2642463,2026-11-18T12:54+00:00
+170005,CO,Colorado Amendment 86,2026-11-03,86.1,2026-11-17T03:50:43.245Z,False,2,64,2591846,2026-11-18T12:54+00:00
+160399,CO,"Colorado Supreme Court - William W. Hood, III Retention",2026-11-03,86.1,,False,2,64,2116726,2026-11-18T12:54+00:00
+87020,CO,Colorado Secretary of State,2026-11-03,86.1,2026-11-04T06:53:42.308Z,False,5,64,2657723,2026-11-18T12:54+00:00
+170013,CO,Colorado Proposition 137,2026-11-03,86.1,2026-11-17T03:50:43.245Z,False,2,64,2627063,2026-11-18T12:54+00:00
+170001,CO,Colorado Amendment 82,2026-11-03,86.1,2026-11-17T03:50:43.245Z,False,2,64,2636357,2026-11-18T12:54+00:00
+170000,CO,Colorado Amendment 81,2026-11-03,86.1,2026-11-17T03:50:43.245Z,False,2,64,2663290,2026-11-18T12:54+00:00
+170010,CO,Colorado Proposition 134,2026-11-03,86.1,2026-11-17T03:50:43.245Z,False,2,64,2644440,2026-11-18T12:54+00:00
+160404,CO,Colorado Court of Appeals - Karl L. Schock Retention,2026-11-03,86.1,,False,2,64,2058218,2026-11-18T12:54+00:00
+160400,CO,Colorado Court of Appeals - Rebecca Rankin Freyre Retention,2026-11-03,86.1,,False,2,64,2081064,2026-11-18T12:54+00:00
+87021,CO,Colorado State Treasurer,2026-11-03,86.1,2026-11-04T06:53:42.308Z,False,4,64,2639235,2026-11-18T12:54+00:00
+170007,CO,Colorado Proposition NN,2026-11-03,86.1,2026-11-17T03:50:43.245Z,False,2,64,2653573,2026-11-18T12:54+00:00
+170006,CO,Colorado Amendment 87,2026-11-03,86.1,2026-11-17T03:50:43.245Z,False,2,64,2654294,2026-11-18T12:54+00:00
+170398,CO,Douglas County Sheriff,2026-11-03,0,,False,1,1,132961,2026-11-18T12:54+00:00
+170312,CO,Boulder Proposed Municipality of Niwot Home Rule Charter Commission,2026-11-03,75,,False,28,1,14587,2026-11-18T12:54+00:00
+170425,CO,Elbert County Clerk and Recorder,2026-11-03,0,,False,1,1,12950,2026-11-18T12:54+00:00
+170723,CO,Summit County Sheriff,2026-11-03,99.9,,False,1,1,9225,2026-11-18T12:54+00:00
+170502,CO,Kiowa County Clerk and Recorder,2026-11-03,99.9,,False,1,1,579,2026-11-18T12:54+00:00
+170423,CO,El Paso County Ballot Issue 1A,2026-11-03,95,,False,2,1,275569,2026-11-18T12:54+00:00
+170529,CO,Lake Mountain View Villages Water And Sanitation District Ballot Issue 6B,2026-11-03,50,,False,2,1,58,2026-11-18T12:54+00:00
+160359,CO,Colorado State House 33,2026-11-03,81.7,2026-11-04T07:09:42.044Z,False,2,3,48702,2026-11-18T12:54+00:00
+170140,CO,Grand County Library District Ballot Issue 6B,2026-11-03,0,,False,2,1,8279,2026-11-18T12:54+00:00
+160357,CO,Colorado State House 31,2026-11-03,94,2026-11-04T07:09:42.044Z,False,2,1,27464,2026-11-18T12:54+00:00
+160463,CO,Colorado District Court 21 - Craig Peter Henderson Retention,2026-11-03,99,,False,2,1,60054,2026-11-18T12:54+00:00
+170251,CO,Williamsburg Mayor,2026-11-03,99.9,,False,1,1,235,2026-11-18T12:54+00:00
+170357,CO,Costilla County Assessor,2026-11-03,99.9,,False,2,1,1749,2026-11-18T12:54+00:00
+170249,CO,Wiggins Mayor,2026-11-03,99.9,,False,3,1,641,2026-11-18T12:54+00:00
+170163,CO,Lake City Ballot Question 2B,2026-11-03,99.9,,False,2,1,244,2026-11-18T12:54+00:00
+160377,CO,Colorado State House 51,2026-11-03,97,2026-11-12T01:54:12.310Z,False,2,1,47506,2026-11-18T12:54+00:00
+170574,CO,Mineral County Coroner,2026-11-03,99.9,,False,2,1,626,2026-11-18T12:54+00:00
+170687,CO,Routt County Assessor,2026-11-03,96,,False,1,1,8830,2026-11-18T12:54+00:00
+170466,CO,Gunnison County Commissioner - District 3,2026-11-03,99.9,,False,1,1,6406,2026-11-18T12:54+00:00
+170572,CO,Mineral County Assessor,2026-11-03,99.9,,False,1,1,505,2026-11-18T12:54+00:00
+170077,CO,Arickaree School District R-2 Referred Ballot Question 4A,2026-11-03,50,,False,2,1,276,2026-11-18T12:54+00:00
+160508,CO,Colorado Larimer County Court - Thomas L. Lynch Retention,2026-11-03,97,,False,2,1,125850,2026-11-18T12:54+00:00
+160422,CO,Colorado District Court 3 - Pierce L. Fowler Retention,2026-11-03,99.9,,False,2,2,8528,2026-11-18T12:54+00:00
+170683,CO,Rio Grande County Coroner,2026-11-03,99.9,,False,1,1,3634,2026-11-18T12:54+00:00
+160506,CO,Colorado Jefferson County Court - Jennifer Lynn Melton Retention,2026-11-03,96,,False,2,1,209685,2026-11-18T12:54+00:00
+160420,CO,Colorado Denver Juvenile Court - Elizabeth Joan McCarthy Retention,2026-11-03,99.9,,False,2,1,176083,2026-11-18T12:54+00:00
+170400,CO,Douglas County Coroner,2026-11-03,0,,False,1,1,132184,2026-11-18T12:54+00:00
+170314,CO,Boulder Proposed Municipality of Niwot Ballot Issue 303,2026-11-03,75,,False,2,1,2387,2026-11-18T12:54+00:00
+170093,CO,Castle Rock Mayor,2026-11-03,0,,False,3,1,35105,2026-11-18T12:54+00:00
+160388,CO,Colorado State House 62,2026-11-03,99.9,2026-11-04T07:09:42.044Z,False,3,8,32368,2026-11-18T12:54+00:00
+160494,CO,Colorado El Paso County Court - Marika Frady Retention,2026-11-03,95,,False,2,1,223092,2026-11-18T12:54+00:00
+170282,CO,Archuleta County Assessor,2026-11-03,91,,False,1,1,4476,2026-11-18T12:54+00:00
+170055,CO,Evergreen Fire Protection District Ballot Issue 7B,2026-11-03,97.5,,False,2,2,13912,2026-11-18T12:54+00:00
+160492,CO,Colorado Eagle County Court - Inga Haagenson Causey Retention,2026-11-03,90,,False,2,1,17338,2026-11-18T12:54+00:00
+170280,CO,Archuleta County Clerk and Recorder,2026-11-03,91,,False,1,1,4850,2026-11-18T12:54+00:00
+170194,CO,Morrison Mayor,2026-11-03,99.9,,False,2,1,176,2026-11-18T12:54+00:00
+170492,CO,Jackson County Coroner,2026-11-03,99.9,,False,1,1,523,2026-11-18T12:54+00:00
+170470,CO,Gunnison County Sheriff,2026-11-03,99.9,,False,1,1,5860,2026-11-18T12:54+00:00
+170192,CO,Morrison Ballot Question 2F,2026-11-03,99.9,,False,2,1,164,2026-11-18T12:54+00:00
+170298,CO,Bent County Coroner,2026-11-03,99.9,,False,1,1,1176,2026-11-18T12:54+00:00
+170603,CO,Montrose County Coroner,2026-11-03,97,,False,1,1,14236,2026-11-18T12:54+00:00
+170709,CO,San Miguel County Sheriff,2026-11-03,99.9,,False,2,1,3926,2026-11-18T12:54+00:00
+170601,CO,Montrose County Sheriff,2026-11-03,97,,False,1,1,14676,2026-11-18T12:54+00:00
+170515,CO,La Plata County Commissioner - District 1,2026-11-03,99.9,,False,1,1,20107,2026-11-18T12:54+00:00
+170212,CO,Peyton Fire Protection District Ballot Issue 6A,2026-11-03,67,,False,2,1,2018,2026-11-18T12:54+00:00
+170126,CO,Evans Mayor,2026-11-03,89,,False,2,1,5395,2026-11-18T12:54+00:00
+170239,CO,Swink School District No. 33 Ballot Issue 4A,2026-11-03,0,,False,2,1,651,2026-11-18T12:54+00:00
+160343,CO,Colorado State House 17,2026-11-03,87,2026-11-12T01:54:12.310Z,False,4,1,21396,2026-11-18T12:54+00:00
+170124,CO,Evans City Council Ward 1 - 4 Year Term,2026-11-03,99.9,,False,1,1,948,2026-11-18T12:54+00:00
+170429,CO,Elbert County Surveyor,2026-11-03,0,,False,1,1,13046,2026-11-18T12:54+00:00
+170535,CO,Larimer County Surveyor,2026-11-03,97,,False,1,1,97277,2026-11-18T12:54+00:00
+170456,CO,Grand County Commissioner - District 3,2026-11-03,0,,False,2,1,8295,2026-11-18T12:54+00:00
+170235,CO,Sugar City Ballot Issue 2A,2026-11-03,99.9,,False,2,1,110,2026-11-18T12:54+00:00
+170533,CO,Larimer County Assessor,2026-11-03,97,,False,3,1,162840,2026-11-18T12:54+00:00
+170454,CO,Gilpin City of Central Alderman,2026-11-03,0,,False,5,1,509,2026-11-18T12:54+00:00
+170752,CO,Yuma County Treasurer,2026-11-03,99.9,,False,1,1,3197,2026-11-18T12:54+00:00
+160390,CO,Colorado State House 64,2026-11-03,93,2026-11-12T01:54:12.310Z,False,2,2,47551,2026-11-18T12:54+00:00
+170644,CO,Phillips Town of Haxtun Ballot Measure 2A,2026-11-03,99.9,,False,2,1,427,2026-11-18T12:54+00:00
+170750,CO,Yuma County Commissioner - District 1,2026-11-03,99.9,,False,1,1,2849,2026-11-18T12:54+00:00
+170329,CO,Chaffee County Sheriff,2026-11-03,94,,False,1,1,8657,2026-11-18T12:54+00:00
+170634,CO,Park County Sheriff,2026-11-03,99.9,,False,2,1,9275,2026-11-18T12:54+00:00
+170413,CO,El Paso County Commissioner - District 1,2026-11-03,97,,False,3,1,67185,2026-11-18T12:54+00:00
+170327,CO,Chaffee County Treasurer,2026-11-03,94,,False,1,1,8593,2026-11-18T12:54+00:00
+170632,CO,Park County Treasurer,2026-11-03,99.9,,False,2,1,9287,2026-11-18T12:54+00:00
+170738,CO,Washington County Coroner,2026-11-03,91,,False,1,1,1991,2026-11-18T12:54+00:00
+170045,CO,West Grand School District 1-JT. Ballot Issue 5A,2026-11-03,66.7,,False,2,3,1602,2026-11-18T12:54+00:00
+160347,CO,Colorado State House 21,2026-11-03,99.9,,False,2,1,23690,2026-11-18T12:54+00:00
+170736,CO,Washington County Assessor,2026-11-03,91,,False,1,1,1918,2026-11-18T12:54+00:00
+160374,CO,Colorado State House 48,2026-11-03,93.5,2026-11-12T01:54:12.310Z,False,3,2,36862,2026-11-18T12:54+00:00
+170155,CO,Idaho Srings Ballot Issue 2A,2026-11-03,99.9,,False,2,1,743,2026-11-18T12:54+00:00
+170460,CO,Grand County Sheriff,2026-11-03,0,,False,1,1,5702,2026-11-18T12:54+00:00
+170153,CO,Hudson Mayor,2026-11-03,75,,False,3,1,510,2026-11-18T12:54+00:00
+170266,CO,Alamosa County Sheriff,2026-11-03,99.9,,False,1,1,4408,2026-11-18T12:54+00:00
+170564,CO,Mesa County Assessor,2026-11-03,99,,False,1,1,51411,2026-11-18T12:54+00:00
+170677,CO,Rio Blanco County Ballot Question 1D,2026-11-03,99.9,,False,2,1,2869,2026-11-18T12:54+00:00
+160308,CO,Colorado State Senate 4,2026-11-03,85.2,2026-11-04T07:09:42.043Z,False,2,8,93185,2026-11-18T12:54+00:00
+170370,CO,Custer County Assessor,2026-11-03,99.9,,False,1,1,2312,2026-11-18T12:54+00:00
+170483,CO,Huerfano County Sheriff,2026-11-03,99.9,,False,2,1,3636,2026-11-18T12:54+00:00
+160498,CO,Colorado Garfield County Court - Jonathan Bruce Pototsky Retention,2026-11-03,0,,False,2,1,19612,2026-11-18T12:54+00:00
+160412,CO,Colorado District Court 1 - Christopher C. Zenisek Retention,2026-11-03,48,,False,2,2,210145,2026-11-18T12:54+00:00
+160333,CO,Colorado State House 7,2026-11-03,99.9,2026-11-04T07:09:42.044Z,False,2,1,26246,2026-11-18T12:54+00:00
+160304,CO,Colorado University of Colorado Regent District 6,2026-11-03,78.4,,False,3,5,230561,2026-11-18T12:54+00:00
+160410,CO,Colorado District Court 1 - Christopher Rhamey Retention,2026-11-03,48,,False,2,2,210183,2026-11-18T12:54+00:00
+160331,CO,Colorado State House 5,2026-11-03,99.9,2026-11-04T07:09:42.044Z,False,2,1,35924,2026-11-18T12:54+00:00
+170112,CO,East Grand Fire Protection District No. 4 Ballot Issue 6D,2026-11-03,0,,False,2,1,2641,2026-11-18T12:54+00:00
+170225,CO,Rocky Ford Ballot Question 2A,2026-11-03,0,,False,2,1,1219,2026-11-18T12:54+00:00
+160521,CO,Colorado Weld County Court - Michele Lynn Meyer Retention,2026-11-03,93,,False,2,1,109941,2026-11-18T12:54+00:00
+170110,CO,Deer Mountain Fire Protection District Issue 6A,2026-11-03,67,,False,2,1,1093,2026-11-18T12:54+00:00
+170223,CO,Rainbow Valley Water District Ballot Question 6B,2026-11-03,50,,False,2,1,106,2026-11-18T12:54+00:00
+160511,CO,Colorado Mesa County Court - Bruce R. Raaum Retention,2026-11-03,99,,False,2,1,60914,2026-11-18T12:54+00:00
+160482,CO,Colorado Custer County Court - Michael Patrick Halpin Retention,2026-11-03,99.9,,False,2,1,2563,2026-11-18T12:54+00:00
+170078,CO,Arvada Fire Protection District Ballot Issue 6C,2026-11-03,95,,False,2,1,67570,2026-11-18T12:54+00:00
+160509,CO,Colorado Larimer County Court - Matthew R. Zehe Retention,2026-11-03,97,,False,2,1,125598,2026-11-18T12:54+00:00
+170098,CO,Cherry Hills Village Mayor,2026-11-03,99.9,,False,3,1,2582,2026-11-18T12:54+00:00
+170595,CO,Montezuma County Ballot Question 1B,2026-11-03,99.9,,False,2,1,7777,2026-11-18T12:54+00:00
+170182,CO,Mesa County Valley School District 51 Ballot Issue 4A,2026-11-03,99,,False,2,1,72207,2026-11-18T12:54+00:00
+170096,CO,Central Mayor,2026-11-03,0,,False,1,1,226,2026-11-18T12:54+00:00
+170401,CO,Douglas Town of Parker Councilmember,2026-11-03,0,,False,5,1,61239,2026-11-18T12:54+00:00
+170507,CO,Kiowa County Ballot Issue 1A,2026-11-03,99.9,,False,2,1,701,2026-11-18T12:54+00:00
+160337,CO,Colorado State House 11,2026-11-03,96,2026-11-04T07:09:42.044Z,False,1,1,31911,2026-11-18T12:54+00:00
+170505,CO,Kiowa County Sheriff,2026-11-03,99.9,,False,1,1,508,2026-11-18T12:54+00:00
+170618,CO,Otero County Treasurer,2026-11-03,0,,False,1,1,5323,2026-11-18T12:54+00:00
+170116,CO,Edison Fire Protection District Ballot Question 6D,2026-11-03,99.9,,False,2,1,128,2026-11-18T12:54+00:00
+170031,CO,Northglenn Ballot Issue 3H,2026-11-03,75,,False,2,2,11160,2026-11-18T12:54+00:00
+170143,CO,Gypsum Ballot Issue 2A,2026-11-03,99.9,,False,2,1,3185,2026-11-18T12:54+00:00
+170722,CO,Summit County Assessor,2026-11-03,99.9,,False,1,1,9874,2026-11-18T12:54+00:00
+160360,CO,Colorado State House 34,2026-11-03,96,2026-11-04T07:09:42.044Z,False,2,1,37144,2026-11-18T12:54+00:00
+170333,CO,Chaffee Buena Vista Inclusion,2026-11-03,80,,False,2,1,1539,2026-11-18T12:54+00:00
+170446,CO,Garfield County Coroner,2026-11-03,0,,False,1,1,14788,2026-11-18T12:54+00:00
+170360,CO,Costilla County Ambulance District Ballot Issue 6A,2026-11-03,89,,False,2,1,1726,2026-11-18T12:54+00:00
+170139,CO,Granada School District RE-1 Ballot Issue 4A,2026-11-03,50,,False,2,1,254,2026-11-18T12:54+00:00
+170444,CO,Garfield County Sheriff,2026-11-03,0,,False,1,1,14216,2026-11-18T12:54+00:00
+170550,CO,Lincoln County Assessor,2026-11-03,99.9,,False,1,1,1486,2026-11-18T12:54+00:00
+160380,CO,Colorado State House 54,2026-11-03,99,2026-11-04T07:09:42.044Z,False,2,2,42862,2026-11-18T12:54+00:00
+170577,CO,Moffat County Commissioner - District 3,2026-11-03,99.9,,False,1,1,3987,2026-11-18T12:54+00:00
+170548,CO,Lincoln County Clerk and Recorder,2026-11-03,99.9,,False,1,1,1582,2026-11-18T12:54+00:00
+160378,CO,Colorado State House 52,2026-11-03,98,2026-11-04T07:09:42.044Z,False,2,1,44285,2026-11-18T12:54+00:00
+170575,CO,Mineral City of Creede Referendum 2A,2026-11-03,99.9,,False,2,1,207,2026-11-18T12:54+00:00
+170080,CO,Avon Station Metropolitan District Ballot Issue 6A,2026-11-03,99.9,,False,2,1,34,2026-11-18T12:54+00:00
+170317,CO,Boulder Proposed Municipality of Niwot Ballot Issue 306,2026-11-03,75,,False,2,1,2389,2026-11-18T12:54+00:00
+170430,CO,Elbert County Coroner,2026-11-03,0,,False,2,1,16012,2026-11-18T12:54+00:00
+170536,CO,Larimer County Coroner,2026-11-03,97,,False,1,1,118557,2026-11-18T12:54+00:00
+170649,CO,Pitkin County Assessor,2026-11-03,96,,False,1,1,6526,2026-11-18T12:54+00:00
+160472,CO,"Colorado Adams County Court - MaryAnn ""Mariana"" Vielma Retention",2026-11-03,95,,False,2,1,130972,2026-11-18T12:54+00:00
+170726,CO,Summit County Referred Measure 1A,2026-11-03,99.9,,False,2,1,14269,2026-11-18T12:54+00:00
+170647,CO,Pitkin County Commissioner - District 2,2026-11-03,96,,False,2,1,8161,2026-11-18T12:54+00:00
+170753,CO,Yuma County Assessor,2026-11-03,99.9,,False,1,1,3124,2026-11-18T12:54+00:00
+170060,CO,Rye Fire Protection District Ballot Issue 7B,2026-11-03,99.9,,False,2,3,2553,2026-11-18T12:54+00:00
+170364,CO,Crowley County Assessor,2026-11-03,99.9,,False,1,1,1106,2026-11-18T12:54+00:00
+170058,CO,Groundwater Management Subdistrict of the Central Colorado Water Conservancy District Ballot Issue 7C,2026-11-03,90.3,,False,2,3,12548,2026-11-18T12:54+00:00
+170170,CO,LaSalle Town Trustee,2026-11-03,99.9,,False,6,1,1723,2026-11-18T12:54+00:00
+170475,CO,Hinsdale County Clerk and Recorder,2026-11-03,99.9,,False,1,1,380,2026-11-18T12:54+00:00
+170389,CO,Dolores County Clerk and Recorder,2026-11-03,99.9,,False,1,1,964,2026-11-18T12:54+00:00
+170495,CO,Jefferson County Treasurer,2026-11-03,96,,False,2,1,252502,2026-11-18T12:54+00:00
+170473,CO,Gunnison County Ballot Question 1A,2026-11-03,99.9,,False,2,1,9120,2026-11-18T12:54+00:00
+170195,CO,Mountain View Ballot Question 2B,2026-11-03,99.9,,False,2,1,237,2026-11-18T12:54+00:00
+170084,CO,Boulder Ballot Issue 2K,2026-11-03,97,,False,2,1,34324,2026-11-18T12:54+00:00
+160323,CO,Colorado State Senate 31,2026-11-03,99.9,2026-11-04T07:09:42.043Z,False,1,1,69511,2026-11-18T12:54+00:00
+170712,CO,Sedgwick County Commissioner - District 1,2026-11-03,99.9,,False,2,1,945,2026-11-18T12:54+00:00
+170690,CO,Routt County Coroner,2026-11-03,96,,False,1,1,8918,2026-11-18T12:54+00:00
+160321,CO,Colorado State Senate 29,2026-11-03,99.9,2026-11-04T07:09:42.043Z,False,2,1,52694,2026-11-18T12:54+00:00
+160427,CO,Colorado District Court 4 - Erin Lynn Sokol Retention,2026-11-03,95.5,,False,2,2,234270,2026-11-18T12:54+00:00
+170215,CO,Prairie School District RE-11J Ballot Issue 5B,2026-11-03,67,,False,2,1,200,2026-11-18T12:54+00:00
+170129,CO,Florissant Fire Protection District Ballot Issue 6C,2026-11-03,80,,False,2,1,2355,2026-11-18T12:54+00:00
+160425,CO,Colorado District Court 4 - Dennis L. McGuire Retention,2026-11-03,95.5,,False,2,2,233817,2026-11-18T12:54+00:00
+170213,CO,Pierce Mayor,2026-11-03,99.9,,False,2,1,409,2026-11-18T12:54+00:00
+170127,CO,Firestone Mayor,2026-11-03,92,,False,2,1,6791,2026-11-18T12:54+00:00
+170432,CO,Fremont County Clerk and Recorder,2026-11-03,89,,False,1,1,14861,2026-11-18T12:54+00:00
+170538,CO,Larimer County Stanley Heights Public Improvement District No. 81 Ballot Issue 6A,2026-11-03,75,,False,2,1,44,2026-11-18T12:54+00:00
+160499,CO,Colorado Gilpin County Court - Timothy Lane Retention,2026-11-03,0,,False,2,1,2541,2026-11-18T12:54+00:00
+160413,CO,Colorado District Court 2 - Michael W.V. Angel Retention,2026-11-03,99.9,,False,2,1,177414,2026-11-18T12:54+00:00
+170201,CO,North Range Metropolitan District No. 3 Ballot Issue 6D,2026-11-03,67,,False,2,1,768,2026-11-18T12:54+00:00
+170307,CO,Boulder County Ballot Issue 1A,2026-11-03,91,,False,2,1,132630,2026-11-18T12:54+00:00
+170285,CO,Archuleta County Coroner,2026-11-03,91,,False,1,1,4488,2026-11-18T12:54+00:00
+170199,CO,North Range Metropolitan District No. 3 Ballot Issue 6B,2026-11-03,67,,False,2,1,791,2026-11-18T12:54+00:00
+170113,CO,East Grand Fire Protection District No. 4 Ballot Issue 6E,2026-11-03,0,,False,2,1,2565,2026-11-18T12:54+00:00
+170418,CO,El Paso County Sheriff,2026-11-03,95,,False,2,1,275657,2026-11-18T12:54+00:00
+170716,CO,Sedgwick County Sheriff,2026-11-03,99.9,,False,1,1,641,2026-11-18T12:54+00:00
+170416,CO,El Paso County Treasurer,2026-11-03,95,,False,1,1,192965,2026-11-18T12:54+00:00
+170522,CO,Lake County Commissioner - District 1,2026-11-03,99.9,,False,3,1,3305,2026-11-18T12:54+00:00
+160352,CO,Colorado State House 26,2026-11-03,97,2026-11-04T07:09:42.044Z,False,2,4,40571,2026-11-18T12:54+00:00
+160458,CO,Colorado District Court 19 - Timothy Gerard Kerns Retention,2026-11-03,93,,False,2,1,109408,2026-11-18T12:54+00:00
+160350,CO,Colorado State House 24,2026-11-03,98,2026-11-04T07:09:42.044Z,False,2,2,47454,2026-11-18T12:54+00:00
+170739,CO,Weld County Commissioner - At-Large,2026-11-03,93,,False,2,1,134014,2026-11-18T12:54+00:00
+170436,CO,Fremont County Surveyor,2026-11-03,89,,False,1,1,182,2026-11-18T12:54+00:00
+170350,CO,Conejos County Assessor,2026-11-03,99.9,,False,1,1,2610,2026-11-18T12:54+00:00
+170463,CO,Grand Town of Hot Sulphur Springs Board of Trustees,2026-11-03,0,,False,4,1,682,2026-11-18T12:54+00:00
+170044,CO,Weld County School District RE-8 Ballot Issue 5C,2026-11-03,96,,False,2,2,5870,2026-11-18T12:54+00:00
+170348,CO,Conejos County Clerk and Recorder,2026-11-03,99.9,,False,1,1,2584,2026-11-18T12:54+00:00
+170653,CO,Pitkin Snowmass Water and Sanitation District Ballot Issue 6A,2026-11-03,67,,False,2,1,1403,2026-11-18T12:54+00:00
+170567,CO,Mesa County Coroner,2026-11-03,99,,False,1,1,52639,2026-11-18T12:54+00:00
+170680,CO,Rio Grande County Treasurer,2026-11-03,99.9,,False,1,1,3283,2026-11-18T12:54+00:00
+170459,CO,Grand County Assessor,2026-11-03,0,,False,1,1,5405,2026-11-18T12:54+00:00
+170565,CO,Mesa County Sheriff,2026-11-03,99,,False,1,1,51720,2026-11-18T12:54+00:00
+170678,CO,Rio Grande County Commissioner - District 2,2026-11-03,99.9,,False,1,1,3526,2026-11-18T12:54+00:00
+160501,CO,Colorado Hinsdale County Court - James R. McDonald Retention,2026-11-03,99.9,,False,2,1,407,2026-11-18T12:54+00:00
+160415,CO,Colorado District Court 2 - John Eric Elliff Retention,2026-11-03,99.9,,False,2,1,176584,2026-11-18T12:54+00:00
+160393,CO,Colorado RTD Board of Directors District C,2026-11-03,99.9,,False,1,1,46441,2026-11-18T12:54+00:00
+170447,CO,Gilpin County Commissioner - District 2,2026-11-03,0,,False,2,1,3357,2026-11-18T12:54+00:00
+170553,CO,Lincoln County Ballot Issue 1A,2026-11-03,99.9,,False,2,1,1885,2026-11-18T12:54+00:00
+160383,CO,Colorado State House 57,2026-11-03,62.7,2026-11-04T07:09:42.044Z,False,2,3,37846,2026-11-18T12:54+00:00
+170637,CO,Phillips County Commissioner - District 1,2026-11-03,99.9,,False,2,1,1846,2026-11-18T12:54+00:00
+170551,CO,Lincoln County Sheriff,2026-11-03,99.9,,False,1,1,1642,2026-11-18T12:54+00:00
+160381,CO,Colorado State House 55,2026-11-03,99.9,2026-11-04T07:09:42.044Z,False,2,1,41524,2026-11-18T12:54+00:00
+160487,CO,Colorado Denver County Court - Michelle Martinez-Thomas Retention,2026-11-03,99.9,,False,2,1,176028,2026-11-18T12:54+00:00
+170275,CO,Arapahoe County Coroner,2026-11-03,99,,False,1,1,156875,2026-11-18T12:54+00:00
+170048,CO,Allenspark Fire Protection District Ballot Issue 7C,2026-11-03,62.5,,False,2,2,415,2026-11-18T12:54+00:00
+160485,CO,Colorado Denver County Court - Kerri Lombardi Retention,2026-11-03,99.9,,False,2,1,176040,2026-11-18T12:54+00:00
+170081,CO,Avon Town Council,2026-11-03,99.9,,False,7,1,4341,2026-11-18T12:54+00:00
+170187,CO,Montrose Ballot Question 2D,2026-11-03,94,,False,2,1,9580,2026-11-18T12:54+00:00
+170293,CO,Bent County Commissioner - District 2,2026-11-03,99.9,,False,1,1,1168,2026-11-18T12:54+00:00
+170185,CO,Montrose Ballot Question 2B,2026-11-03,94,,False,2,1,9627,2026-11-18T12:54+00:00
+170099,CO,City of Cañon City Issue 2A,2026-11-03,99.9,,False,2,1,6923,2026-11-18T12:54+00:00
+160313,CO,Colorado State Senate 15,2026-11-03,98,2026-11-04T07:09:42.043Z,False,2,2,90447,2026-11-18T12:54+00:00
+170702,CO,San Juan County Sheriff,2026-11-03,99.9,,False,2,1,580,2026-11-18T12:54+00:00
+160340,CO,Colorado State House 14,2026-11-03,96,2026-11-12T01:54:12.310Z,False,2,1,51249,2026-11-18T12:54+00:00
+170594,CO,Montezuma County Ballot Question 1A,2026-11-03,99.9,,False,2,1,10382,2026-11-18T12:54+00:00
+170700,CO,San Juan County Treasurer,2026-11-03,99.9,,False,2,1,573,2026-11-18T12:54+00:00
+170205,CO,Oak Creek Town Trustee,2026-11-03,99.9,,False,3,1,326,2026-11-18T12:54+00:00
+170119,CO,Erie Town Council District 1,2026-11-03,99.9,,False,2,1,5405,2026-11-18T12:54+00:00
+170034,CO,Buffalo School District RE-4J Referred Ballot Issue 5A,2026-11-03,99.9,,False,2,3,467,2026-11-18T12:54+00:00
+160336,CO,Colorado State House 10,2026-11-03,96,2026-11-04T07:09:42.044Z,False,1,1,28937,2026-11-18T12:54+00:00
+170117,CO,Elizabeth Town Trustee,2026-11-03,0,,False,6,1,3218,2026-11-18T12:54+00:00
+170032,CO,Archuleta County School District 50JT Ballot Issue 5A,2026-11-03,94.5,,False,2,2,6559,2026-11-18T12:54+00:00
+170336,CO,Cheyenne County Treasurer,2026-11-03,99.9,,False,1,1,776,2026-11-18T12:54+00:00
+170449,CO,Gilpin County Treasurer,2026-11-03,0,,False,2,1,3267,2026-11-18T12:54+00:00
+170228,CO,Snowmass-Wildcat Fire Protection District Ballot Issue 6B,2026-11-03,78,,False,2,1,1453,2026-11-18T12:54+00:00
+170334,CO,Cheyenne County Commissioner - District 2,2026-11-03,99.9,,False,2,1,831,2026-11-18T12:54+00:00
+160430,CO,Colorado District Court 7 - Kellie L. Starritt Retention,2026-11-03,99.5,,False,2,6,41869,2026-11-18T12:54+00:00
+170218,CO,Pueblo Ballot Question 2B,2026-11-03,99.9,,False,2,1,37480,2026-11-18T12:54+00:00
+160514,CO,Colorado Otero County Court - William Culver Retention,2026-11-03,0,,False,2,1,6390,2026-11-18T12:54+00:00
+160428,CO,Colorado District Court 4 - Gregory Robert Werner Retention,2026-11-03,95.5,,False,2,2,233681,2026-11-18T12:54+00:00
+170216,CO,Pritchett School District RE-3 Ballot Issue 4A,2026-11-03,99.9,,False,2,1,125,2026-11-18T12:54+00:00
+170322,CO,Broomfield Ballot Question 1A,2026-11-03,99.9,,False,2,1,38368,2026-11-18T12:54+00:00
+170627,CO,Ouray County Surveyor,2026-11-03,99.9,,False,1,1,2252,2026-11-18T12:54+00:00
+170406,CO,Douglas County Ballot Question 1A,2026-11-03,0,,False,2,1,186848,2026-11-18T12:54+00:00
+170320,CO,Boulder Summerlin Public Improvement District of Boulder County Ballot Issue 6C,2026-11-03,50,,False,2,1,33,2026-11-18T12:54+00:00
+170433,CO,Fremont County Treasurer,2026-11-03,89,,False,1,1,14559,2026-11-18T12:54+00:00
+170731,CO,Teller County Sheriff,2026-11-03,96,,False,1,1,9821,2026-11-18T12:54+00:00
+170038,CO,Holyoke School District No RE 1J Ballot Question 5A,2026-11-03,99.9,,False,2,3,1233,2026-11-18T12:54+00:00
+170729,CO,Teller County Treasurer,2026-11-03,96,,False,1,1,10019,2026-11-18T12:54+00:00
+160367,CO,Colorado State House 41,2026-11-03,99.9,2026-11-04T07:09:42.044Z,False,1,1,22272,2026-11-18T12:54+00:00
+170340,CO,Clear Creek County Commissioner - District 1,2026-11-03,99.9,,False,2,1,4658,2026-11-18T12:54+00:00
+170261,CO,Adams Westminster Public Schools Ballot Issue 4A,2026-11-03,99.9,,False,2,1,19363,2026-11-18T12:54+00:00
+170367,CO,Custer County Board of County Commissioners - District 1,2026-11-03,99.9,,False,1,1,2039,2026-11-18T12:54+00:00
+160471,CO,Colorado Adams County Court - Lara M. Jimenez Retention,2026-11-03,95,,False,2,1,131160,2026-11-18T12:54+00:00
+170061,CO,Timberline Fire Protection District Ballot Issue 7B,2026-11-03,37.5,,False,2,2,3161,2026-11-18T12:54+00:00
+170557,CO,Logan County Assessor,2026-11-03,99.9,,False,1,1,6373,2026-11-18T12:54+00:00
+170670,CO,Rio Blanco County Assessor,2026-11-03,99.9,,False,3,1,1408,2026-11-18T12:54+00:00
+170584,CO,Moffat County Ballot Question 1A,2026-11-03,99.9,,False,2,1,4810,2026-11-18T12:54+00:00
+170363,CO,Crowley County Treasurer,2026-11-03,99.9,,False,1,1,1076,2026-11-18T12:54+00:00
+170668,CO,Rio Blanco County Clerk and Recorder,2026-11-03,99.9,,False,1,1,2488,2026-11-18T12:54+00:00
+170582,CO,Moffat County Surveyor,2026-11-03,99.9,,False,1,1,3939,2026-11-18T12:54+00:00
+170087,CO,Branson Ballot Question 2A,2026-11-03,99.9,,False,2,1,21,2026-11-18T12:54+00:00
+160326,CO,Colorado State Senate 35,2026-11-03,83.8,2026-11-04T07:09:42.043Z,False,4,13,61413,2026-11-18T12:54+00:00
+170580,CO,Moffat County Assessor,2026-11-03,99.9,,False,1,1,3892,2026-11-18T12:54+00:00
+170085,CO,Boulder Ballot Question 2L,2026-11-03,97,,False,2,1,33140,2026-11-18T12:54+00:00
+160324,CO,Colorado State Senate 32,2026-11-03,66.7,2026-11-04T07:09:42.043Z,False,2,3,62312,2026-11-18T12:54+00:00
+170570,CO,Mineral County Clerk and Recorder,2026-11-03,99.9,,False,1,1,531,2026-11-18T12:54+00:00
+170541,CO,Las Animas County Commissioner - District 3,2026-11-03,99.9,,False,2,1,6439,2026-11-18T12:54+00:00
+170654,CO,Prowers County Commissioner - District 2,2026-11-03,86,,False,1,1,2930,2026-11-18T12:54+00:00
+170568,CO,Mesa City of Grand Junction Referred Measure 2B,2026-11-03,98,,False,2,1,31277,2026-11-18T12:54+00:00
+160398,CO,Colorado RTD Board of Directors District O,2026-11-03,89,,False,2,1,62982,2026-11-18T12:54+00:00
+170179,CO,Manitou Springs Ballot Issue 2A,2026-11-03,99.9,,False,2,1,2521,2026-11-18T12:54+00:00
+160475,CO,Colorado Arapahoe County Court - Colleen Clark Retention,2026-11-03,99,,False,2,1,165819,2026-11-18T12:54+00:00
+160396,CO,Colorado RTD Board of Directors District L,2026-11-03,96,,False,1,2,51499,2026-11-18T12:54+00:00
+160502,CO,Colorado Huerfano County Court - Dawn Mann Retention,2026-11-03,99.9,,False,2,1,3273,2026-11-18T12:54+00:00
+170290,CO,Baca County Assessor,2026-11-03,99.9,,False,1,1,1329,2026-11-18T12:54+00:00
+170588,CO,Montezuma County Clerk and Recorder,2026-11-03,99.9,,False,1,1,7274,2026-11-18T12:54+00:00
+170288,CO,Baca County Clerk and Recorder,2026-11-03,99.9,,False,1,1,1184,2026-11-18T12:54+00:00
+170394,CO,Douglas County Commissioner - District 1,2026-11-03,0,,False,2,1,193082,2026-11-18T12:54+00:00
+170692,CO,Saguache County Commissioner - District 3,2026-11-03,99.9,,False,2,1,2728,2026-11-18T12:54+00:00
+170613,CO,Morgan County Surveyor,2026-11-03,97,,False,1,1,7709,2026-11-18T12:54+00:00
+170719,CO,Summit County Commissioner - District 1,2026-11-03,99.9,,False,2,1,14122,2026-11-18T12:54+00:00
+170306,CO,Boulder City of Boulder Council Candidates,2026-11-03,97,,False,13,1,140979,2026-11-18T12:54+00:00
+170419,CO,El Paso County Coroner,2026-11-03,95,,False,1,1,201822,2026-11-18T12:54+00:00
+160434,CO,Colorado District Court 10 - Allison P. Ernst Retention,2026-11-03,99,,False,2,1,58295,2026-11-18T12:54+00:00
+170024,CO,Erie Ballot Issue 3E,2026-11-03,99.9,,False,2,2,17977,2026-11-18T12:54+00:00
+160461,CO,Colorado District Court 20 - Nancy Woodruff Salomone Retention,2026-11-03,91,,False,2,1,94992,2026-11-18T12:54+00:00
+170715,CO,Sedgwick County Assessor,2026-11-03,99.9,,False,1,1,818,2026-11-18T12:54+00:00
+170022,CO,Basalt Ballot Issue 3A,2026-11-03,99.9,,False,2,2,1967,2026-11-18T12:54+00:00
+170134,CO,Garfield School District RE-2 Ballot Issue 4B,2026-11-03,0,,False,2,1,9710,2026-11-18T12:54+00:00
+170439,CO,Fremont Town of Williamsburg Board of Trustees,2026-11-03,99.9,,False,12,1,1418,2026-11-18T12:54+00:00
+170353,CO,Conejos County Coroner,2026-11-03,99.9,,False,1,1,2668,2026-11-18T12:54+00:00
+170132,CO,Garfield County Public Library District Ballot Issue 6B,2026-11-03,0,,False,2,1,24414,2026-11-18T12:54+00:00
+170437,CO,Fremont County Coroner,2026-11-03,89,,False,1,1,14744,2026-11-18T12:54+00:00
+170351,CO,Conejos County Sheriff,2026-11-03,99.9,,False,2,1,3395,2026-11-18T12:54+00:00
+170656,CO,Prowers County Treasurer,2026-11-03,86,,False,1,1,3007,2026-11-18T12:54+00:00
+170206,CO,Orchard City Ballot Issue 2B,2026-11-03,99.9,,False,2,1,1636,2026-11-18T12:54+00:00
+170120,CO,Erie Town Council District 3,2026-11-03,99.9,,False,2,1,4372,2026-11-18T12:54+00:00
+170233,CO,Stone Creek Metropolitan District Ballot Question 6F,2026-11-03,0,,False,2,1,442,2026-11-18T12:54+00:00
+170531,CO,Larimer County Clerk and Recorder,2026-11-03,97,,False,2,1,163937,2026-11-18T12:54+00:00
+170310,CO,Boulder Proposed Municipality of Niwot Ballot Question 300,2026-11-03,75,,False,2,1,2430,2026-11-18T12:54+00:00
+170231,CO,Stone Creek Metropolitan District Ballot Question 6D,2026-11-03,0,,False,2,1,444,2026-11-18T12:54+00:00
+170337,CO,Cheyenne County Assessor,2026-11-03,99.9,,False,1,1,735,2026-11-18T12:54+00:00
+170642,CO,Phillips County Coroner,2026-11-03,99.9,,False,1,1,1650,2026-11-18T12:54+00:00
+160465,CO,Colorado District Court 21 - JenniLynn E. Lawrence Retention,2026-11-03,99,,False,2,1,59825,2026-11-18T12:54+00:00
+170640,CO,Phillips County Assessor,2026-11-03,99.9,,False,1,1,1601,2026-11-18T12:54+00:00
+170746,CO,Weld Town of Firestone Trustees,2026-11-03,92,,False,8,1,22648,2026-11-18T12:54+00:00
+170053,CO,Conifer Fire Protection District Ballot Issue 7D,2026-11-03,45.5,,False,2,2,2863,2026-11-18T12:54+00:00
+170165,CO,Lakewood Ballot Question 2H,2026-11-03,98,,False,2,1,58034,2026-11-18T12:54+00:00
+170051,CO,Bennett Fire Protection District Ballot Issue 7G,2026-11-03,81,,False,2,2,3412,2026-11-18T12:54+00:00
+160488,CO,Colorado Denver County Court - Isaam L. Shamsid-Deen Retention,2026-11-03,99.9,,False,2,1,176028,2026-11-18T12:54+00:00
+170660,CO,Pueblo County Commissioner - District 3,2026-11-03,99,,False,2,1,65047,2026-11-18T12:54+00:00
+170382,CO,Denver City and County of Denver Referred Question 2H,2026-11-03,99.9,,False,2,1,230515,2026-11-18T12:54+00:00
+170296,CO,Bent County Assessor,2026-11-03,99.9,,False,1,1,1112,2026-11-18T12:54+00:00
+170274,CO,Arapahoe County Sheriff,2026-11-03,99,,False,2,1,205669,2026-11-18T12:54+00:00
+170380,CO,Delta Hotchkiss Fire District Ballot Issue 6A,2026-11-03,99.9,,False,2,1,2000,2026-11-18T12:54+00:00
+170685,CO,Routt County Clerk and Recorder,2026-11-03,96,,False,1,1,9155,2026-11-18T12:54+00:00
+160316,CO,Colorado State Senate 21,2026-11-03,98.5,2026-11-04T07:09:42.043Z,False,2,2,59018,2026-11-18T12:54+00:00
+170705,CO,San Miguel County Commissioner - District 2,2026-11-03,99.9,,False,2,1,3907,2026-11-18T12:54+00:00
+170491,CO,Jackson County Surveyor,2026-11-03,99.9,,False,1,1,554,2026-11-18T12:54+00:00
+160314,CO,Colorado State Senate 17,2026-11-03,94,2026-11-04T07:09:42.043Z,False,2,2,87531,2026-11-18T12:54+00:00
+170703,CO,San Juan County Coroner,2026-11-03,99.9,,False,1,1,506,2026-11-18T12:54+00:00
+170208,CO,Palisade Rural Fire Protection District Ballot Issue 6A,2026-11-03,99.9,,False,2,1,886,2026-11-18T12:54+00:00
+170122,CO,Evans Ballot Issue 2C,2026-11-03,89,,False,2,1,5915,2026-11-18T12:54+00:00
+160418,CO,Colorado District Court 2 - Sarah Block Wallace Retention,2026-11-03,99.9,,False,2,1,177126,2026-11-18T12:54+00:00
+170671,CO,Rio Blanco County Sheriff,2026-11-03,99.9,,False,1,1,2582,2026-11-18T12:54+00:00
+160302,CO,Colorado State Board of Education District 7,2026-11-03,93.2,,False,3,11,337210,2026-11-18T12:54+00:00
+170090,CO,Canon City School District RE-1 Issue 4A,2026-11-03,91,,False,2,1,12051,2026-11-18T12:54+00:00
+160386,CO,Colorado State House 60,2026-11-03,97.6,2026-11-04T07:09:42.044Z,False,2,5,43353,2026-11-18T12:54+00:00
+160300,CO,Colorado State Board of Education District 1,2026-11-03,66.7,,False,3,3,241308,2026-11-18T12:54+00:00
+170088,CO,Buena Vista Mayor,2026-11-03,99.9,,False,3,1,1516,2026-11-18T12:54+00:00
+160519,CO,Colorado Washington County Court - Kelly S. Hansen Retention,2026-11-03,91,,False,2,1,2028,2026-11-18T12:54+00:00
+170300,CO,Boulder County Clerk and Recorder,2026-11-03,91,,False,1,1,96908,2026-11-18T12:54+00:00
+170278,CO,Arapahoe City of Cherry Hills Village Councilmember - District 6,2026-11-03,99.9,,False,1,1,1853,2026-11-18T12:54+00:00
+160517,CO,Colorado Rio Blanco County Court - Jay A. Edwards Retention,2026-11-03,99.9,,False,2,1,2448,2026-11-18T12:54+00:00
+170106,CO,Cripple Creek Ballot Question 2A,2026-11-03,99.9,,False,2,1,356,2026-11-18T12:54+00:00
+170411,CO,Eagle County Sheriff,2026-11-03,90,,False,2,1,22628,2026-11-18T12:54+00:00
+170517,CO,La Plata County Treasurer,2026-11-03,99.9,,False,2,1,25730,2026-11-18T12:54+00:00
+170409,CO,Eagle County Treasurer,2026-11-03,90,,False,1,1,16893,2026-11-18T12:54+00:00
+170323,CO,Broomfield Ballot Question 1B,2026-11-03,99.9,,False,2,1,37696,2026-11-18T12:54+00:00
+170014,CO,Erie Town Council District 2,2026-11-03,99.9,,False,3,2,6432,2026-11-18T12:54+00:00
+160451,CO,Colorado District Court 18 - Thomas W. Henderson Retention,2026-11-03,99,,False,2,1,164617,2026-11-18T12:54+00:00
+170041,CO,Roaring Fork School District RE-1 Ballot Issue 5C,2026-11-03,60,,False,2,3,18084,2026-11-18T12:54+00:00
+170626,CO,Ouray County Sheriff,2026-11-03,99.9,,False,1,1,2443,2026-11-18T12:54+00:00
+160449,CO,Colorado District Court 18 - LaQunya Latrese Baker-McKay Retention,2026-11-03,99,,False,2,1,165510,2026-11-18T12:54+00:00
+170237,CO,Superior Mayor,2026-11-03,99.9,,False,1,1,4158,2026-11-18T12:54+00:00
+170343,CO,Clear Creek County Assessor,2026-11-03,99.9,,False,1,1,3207,2026-11-18T12:54+00:00
+170264,CO,Alamosa County Treasurer,2026-11-03,99.9,,False,1,1,4165,2026-11-18T12:54+00:00
+170037,CO,Eagle County School District RE50J Ballot Issue 5B,2026-11-03,64,,False,2,3,19280,2026-11-18T12:54+00:00
+170341,CO,Clear Creek County Clerk and Recorder,2026-11-03,99.9,,False,2,1,4535,2026-11-18T12:54+00:00
+170262,CO,Alamosa County Commissioner - District 2,2026-11-03,99.9,,False,2,1,6030,2026-11-18T12:54+00:00
+170560,CO,Logan Town of Fleming Town Council,2026-11-03,99.9,,False,4,1,511,2026-11-18T12:54+00:00
+170673,CO,Rio Blanco County Coroner,2026-11-03,99.9,,False,1,1,2471,2026-11-18T12:54+00:00
+170452,CO,Gilpin County Surveyor,2026-11-03,0,,False,1,1,2346,2026-11-18T12:54+00:00
+170558,CO,Logan County Sheriff,2026-11-03,99.9,,False,1,1,6144,2026-11-18T12:54+00:00
+170137,CO,Glenwood Springs Rural Fire Protection District Ballot Issue 6A,2026-11-03,0,,False,2,1,1642,2026-11-18T12:54+00:00
+170442,CO,Garfield County Treasurer,2026-11-03,0,,False,1,1,14477,2026-11-18T12:54+00:00
+170221,CO,Pueblo West Metropolitan Ballot Issue 6C,2026-11-03,99.9,,False,2,1,15854,2026-11-18T12:54+00:00
+170135,CO,Glendale Ballot Question 2B,2026-11-03,99.9,,False,2,1,759,2026-11-18T12:54+00:00
+170440,CO,Garfield County Commissioner - District 1,2026-11-03,0,,False,2,1,24717,2026-11-18T12:54+00:00
+170546,CO,Las Animas County Coroner,2026-11-03,99.9,,False,2,1,6415,2026-11-18T12:54+00:00
+160376,CO,Colorado State House 50,2026-11-03,89,2026-11-12T01:54:12.310Z,False,2,1,21459,2026-11-18T12:54+00:00
+170630,CO,Park County Commissioner - District 3,2026-11-03,99.9,,False,2,1,9304,2026-11-18T12:54+00:00
+170544,CO,Las Animas County Assessor,2026-11-03,99.9,,False,1,1,4714,2026-11-18T12:54+00:00
+170657,CO,Prowers County Assessor,2026-11-03,86,,False,1,1,3030,2026-11-18T12:54+00:00
+160480,CO,Colorado Costilla County Court - Tamara McSherry Sullivan Retention,2026-11-03,99.9,,False,2,1,1560,2026-11-18T12:54+00:00
+170268,CO,Alamosa County Coroner,2026-11-03,99.9,,False,1,1,4040,2026-11-18T12:54+00:00
+160478,CO,Colorado Boulder County Court - Monica Haenselman Retention,2026-11-03,91,,False,2,1,95408,2026-11-18T12:54+00:00
+170074,CO,Akron Rural Fire Protection District Referred Ballot Issue 6A,2026-11-03,75,,False,2,1,532,2026-11-18T12:54+00:00
+170372,CO,Custer County Coroner,2026-11-03,99.9,,False,1,1,2158,2026-11-18T12:54+00:00
+170485,CO,Huerfano County Ballot Issue 1A,2026-11-03,99.9,,False,2,1,3648,2026-11-18T12:54+00:00
+170591,CO,Montezuma County Sheriff,2026-11-03,99.9,,False,1,1,7145,2026-11-18T12:54+00:00
+170178,CO,Mancos Ballot Question 2B,2026-11-03,99.9,,False,2,1,477,2026-11-18T12:54+00:00
+170291,CO,Baca County Sheriff,2026-11-03,99.9,,False,1,1,1255,2026-11-18T12:54+00:00
+160306,CO,Colorado State Senate 1,2026-11-03,96.9,2026-11-04T07:09:42.043Z,False,2,7,71003,2026-11-18T12:54+00:00
+170695,CO,Saguache County Assessor,2026-11-03,99.9,,False,1,1,1771,2026-11-18T12:54+00:00
+170616,CO,Otero County Commissioner - District 2,2026-11-03,0,,False,1,1,5420,2026-11-18T12:54+00:00
+170587,CO,Montezuma County Commissioner - District 1,2026-11-03,99.9,,False,2,1,10593,2026-11-18T12:54+00:00
+170693,CO,Saguache County Clerk and Recorder,2026-11-03,99.9,,False,1,1,1864,2026-11-18T12:54+00:00
+170614,CO,Morgan County Coroner,2026-11-03,97,,False,1,1,8180,2026-11-18T12:54+00:00
+160437,CO,Colorado District Court 11 - Dayna L. Vise Retention,2026-11-03,95.8,,False,2,4,35442,2026-11-18T12:54+00:00
+170027,CO,Longmont Ballot Issue 3A,2026-11-03,99.9,,False,2,2,37616,2026-11-18T12:54+00:00
+160329,CO,Colorado State House 3,2026-11-03,99.9,2026-11-04T07:09:42.043Z,False,2,2,33978,2026-11-18T12:54+00:00
+160435,CO,Colorado District Court 10 - Tayler M. Thomas Retention,2026-11-03,99,,False,2,1,58052,2026-11-18T12:54+00:00
+170025,CO,Erie Ballot Issue 3F,2026-11-03,99.9,,False,2,2,17995,2026-11-18T12:54+00:00
+160319,CO,Colorado State Senate 25,2026-11-03,99.9,2026-11-04T07:09:42.043Z,False,3,3,78613,2026-11-18T12:54+00:00
+170573,CO,Mineral County Sheriff,2026-11-03,99.9,,False,1,1,492,2026-11-18T12:54+00:00
+170686,CO,Routt County Treasurer,2026-11-03,96,,False,1,1,9488,2026-11-18T12:54+00:00
+160317,CO,Colorado State Senate 22,2026-11-03,94,2026-11-04T07:09:42.043Z,False,2,1,72184,2026-11-18T12:54+00:00
+160423,CO,Colorado District Court 4 - William B. Bain Retention,2026-11-03,95.5,,False,2,2,234682,2026-11-18T12:54+00:00
+170403,CO,Douglas Town of Castle Rock Councilmember - District 5,2026-11-03,0,,False,2,1,4687,2026-11-18T12:54+00:00
+160507,CO,"Colorado Larimer County Court - Katharine ""Jenny"" Ellison Retention",2026-11-03,97,,False,2,1,126251,2026-11-18T12:54+00:00
+160421,CO,Colorado Denver Probate Court - Elizabeth D. Leith Retention,2026-11-03,99.9,,False,2,1,176216,2026-11-18T12:54+00:00
+170209,CO,Palmer Lake Mayor,2026-11-03,50,,False,2,1,1213,2026-11-18T12:54+00:00
+170315,CO,Boulder Proposed Municipality of Niwot Ballot Issue 304,2026-11-03,75,,False,2,1,2401,2026-11-18T12:54+00:00
+170620,CO,Otero County Sheriff,2026-11-03,0,,False,2,1,6632,2026-11-18T12:54+00:00
+170313,CO,Boulder Proposed Municipality of Niwot Ballot Issue 302,2026-11-03,75,,False,2,1,2379,2026-11-18T12:54+00:00
+170426,CO,Elbert County Treasurer,2026-11-03,0,,False,1,1,13191,2026-11-18T12:54+00:00
+160441,CO,Colorado District Court 14 - Brittany Schneider Retention,2026-11-03,65.3,,False,2,3,19813,2026-11-18T12:54+00:00
+160362,CO,Colorado State House 36,2026-11-03,97.5,2026-11-04T07:09:42.044Z,False,3,2,28857,2026-11-18T12:54+00:00
+160468,CO,Colorado District Court 23 - Victoria E. Klingensmith Retention,2026-11-03,33.3,,False,2,3,165378,2026-11-18T12:54+00:00
+170530,CO,Larimer County Commissioner - District 1,2026-11-03,97,,False,3,1,163077,2026-11-18T12:54+00:00
+170643,CO,Phillips Town of Haxtun Board of Trustees,2026-11-03,99.9,,False,2,1,659,2026-11-18T12:54+00:00
+170141,CO,Grand County Library District Ballot Issue 6C,2026-11-03,0,,False,2,1,8049,2026-11-18T12:54+00:00
+170254,CO,Adams County Commissioner - District 3,2026-11-03,95,,False,1,1,114348,2026-11-18T12:54+00:00
+170168,CO,Larkspur Fire Protection District Ballot Issue 6A,2026-11-03,0,,False,2,1,4258,2026-11-18T12:54+00:00
+160464,CO,Colorado District Court 21 - Gretchen B. Larson Retention,2026-11-03,99,,False,2,1,60402,2026-11-18T12:54+00:00
+170252,CO,Woodland Park Ballot Issue 2B,2026-11-03,99.9,,False,2,1,4253,2026-11-18T12:54+00:00
+170358,CO,Costilla County Sheriff,2026-11-03,99.9,,False,3,1,1845,2026-11-18T12:54+00:00
+170663,CO,Pueblo County Assessor,2026-11-03,99,,False,2,1,64926,2026-11-18T12:54+00:00
+170385,CO,Denver City and County of Denver Referred Question 2K,2026-11-03,99.9,,False,2,1,230070,2026-11-18T12:54+00:00
+170356,CO,Costilla County Treasurer,2026-11-03,99.9,,False,1,1,1315,2026-11-18T12:54+00:00
+170661,CO,Pueblo County Clerk and Recorder,2026-11-03,99,,False,2,1,65561,2026-11-18T12:54+00:00
+170383,CO,Denver City and County of Denver Referred Question 2I,2026-11-03,99.9,,False,2,1,222567,2026-11-18T12:54+00:00
+170688,CO,Routt County Sheriff,2026-11-03,96,,False,1,1,9152,2026-11-18T12:54+00:00
+170346,CO,Clear Creek County Ballot Issue 1A,2026-11-03,99.9,,False,2,1,4349,2026-11-18T12:54+00:00
+170125,CO,Evans City Council Ward 3,2026-11-03,77,,False,3,1,1934,2026-11-18T12:54+00:00
+170238,CO,Superior Town Council,2026-11-03,99.9,,False,5,1,14210,2026-11-18T12:54+00:00
+170344,CO,Clear Creek County Sheriff,2026-11-03,99.9,,False,1,1,3125,2026-11-18T12:54+00:00
+170457,CO,Grand County Clerk and Recorder,2026-11-03,0,,False,2,1,8516,2026-11-18T12:54+00:00
+170755,CO,Yuma County Coroner,2026-11-03,99.9,,False,1,1,3261,2026-11-18T12:54+00:00
+170534,CO,Larimer County Sheriff,2026-11-03,97,,False,1,1,98186,2026-11-18T12:54+00:00
+170455,CO,Gilpin County Ballot Issue 1A,2026-11-03,0,,False,2,1,3278,2026-11-18T12:54+00:00
+170561,CO,Mesa County Commissioner - District 2,2026-11-03,99,,False,1,1,52447,2026-11-18T12:54+00:00
+160391,CO,Colorado State House 65,2026-11-03,99.9,2026-11-04T07:09:42.044Z,False,1,2,36207,2026-11-18T12:54+00:00
+170172,CO,Louisville Ballot Question 2C,2026-11-03,93,,False,2,1,8971,2026-11-18T12:54+00:00
+160389,CO,Colorado State House 63,2026-11-03,97.3,2026-11-04T07:09:42.044Z,False,1,7,27906,2026-11-18T12:54+00:00
+160495,CO,Colorado El Paso County Court - Meredith Patrick Cord Retention,2026-11-03,95,,False,2,1,222963,2026-11-18T12:54+00:00
+170283,CO,Archuleta County Sheriff,2026-11-03,91,,False,1,1,4792,2026-11-18T12:54+00:00
+170197,CO,Mt. Crested Butte Ballot Question 2A,2026-11-03,99.9,,False,2,1,560,2026-11-18T12:54+00:00
+170303,CO,Boulder County Sheriff,2026-11-03,91,,False,1,1,95165,2026-11-18T12:54+00:00
+170281,CO,Archuleta County Treasurer,2026-11-03,91,,False,1,1,4572,2026-11-18T12:54+00:00
+160520,CO,Colorado Weld County Court - John J. Briggs Retention,2026-11-03,93,,False,2,1,110528,2026-11-18T12:54+00:00
+170493,CO,Jefferson County Commissioner - District 3,2026-11-03,96,,False,2,1,269419,2026-11-18T12:54+00:00
+170606,CO,"Montrose West End Health Service District Directors (May, 2029)",2026-11-03,50,,False,3,1,1518,2026-11-18T12:54+00:00
+170520,CO,La Plata County Surveyor,2026-11-03,99.9,,False,1,1,17944,2026-11-18T12:54+00:00
+170299,CO,Boulder County Commissioner - District 3,2026-11-03,91,,False,1,1,94354,2026-11-18T12:54+00:00
+170604,CO,Montrose West End Health Service District Ballot Question 6A,2026-11-03,50,,False,2,1,1001,2026-11-18T12:54+00:00
+170710,CO,San Miguel County Surveyor,2026-11-03,99.9,,False,1,1,3129,2026-11-18T12:54+00:00
+170017,CO,Lochbuie Town Trustee,2026-11-03,83.5,,False,6,2,6189,2026-11-18T12:54+00:00
+160454,CO,Colorado District Court 18 - Natalie G. Stricklin Retention,2026-11-03,99,,False,2,1,164885,2026-11-18T12:54+00:00
+170708,CO,San Miguel County Assessor,2026-11-03,99.9,,False,1,1,2744,2026-11-18T12:54+00:00
+170015,CO,Green Mountain Falls Mayor,2026-11-03,99.9,,False,1,2,213,2026-11-18T12:54+00:00
+160452,CO,Colorado District Court 18 - Michelle Jones Retention,2026-11-03,99,,False,2,1,165041,2026-11-18T12:54+00:00
+170240,CO,Thompson Crossing Metropolitan District No. 2 Ballot Issue 6E,2026-11-03,50,,False,2,1,271,2026-11-18T12:54+00:00
+160307,CO,Colorado State Senate 3,2026-11-03,99,2026-11-12T01:54:12.310Z,False,2,1,67965,2026-11-18T12:54+00:00
+170696,CO,Saguache County Sheriff,2026-11-03,99.9,,False,1,1,1631,2026-11-18T12:54+00:00
+160334,CO,Colorado State House 8,2026-11-03,99.9,2026-11-04T07:09:42.044Z,False,3,1,43101,2026-11-18T12:54+00:00
+170115,CO,Edgewater Ballot Issue 2K,2026-11-03,99.9,,False,2,1,1619,2026-11-18T12:54+00:00
+160411,CO,Colorado District Court 1 - Tamara S. Russell Retention,2026-11-03,48,,False,2,2,211188,2026-11-18T12:54+00:00
+160332,CO,Colorado State House 6,2026-11-03,99.9,2026-11-04T07:09:42.044Z,False,2,1,39862,2026-11-18T12:54+00:00
+160438,CO,Colorado District Court 12 - Michael A. Gonzales Retention,2026-11-03,99.9,,False,2,6,16709,2026-11-18T12:54+00:00
+170226,CO,Sheridan Ballot Issue 2D,2026-11-03,99.9,,False,2,1,1327,2026-11-18T12:54+00:00
+170524,CO,Lake County Treasurer,2026-11-03,99.9,,False,1,1,2531,2026-11-18T12:54+00:00
+170224,CO,Rifle Ballot Issue 2A,2026-11-03,0,,False,2,1,2880,2026-11-18T12:54+00:00
+170330,CO,Chaffee County Coroner,2026-11-03,94,,False,1,1,9013,2026-11-18T12:54+00:00
+170635,CO,Park County Surveyor,2026-11-03,99.9,,False,1,1,6757,2026-11-18T12:54+00:00
+170741,CO,Weld County Clerk and Recorder,2026-11-03,93,,False,1,1,95411,2026-11-18T12:54+00:00
+170633,CO,Park County Assessor,2026-11-03,99.9,,False,2,1,9170,2026-11-18T12:54+00:00
+170547,CO,Lincoln County Commissioner - District 1,2026-11-03,99.9,,False,1,1,1581,2026-11-18T12:54+00:00
+170244,CO,Weld County School District RE-1 Ballot Issue 4B,2026-11-03,95,,False,2,1,3960,2026-11-18T12:54+00:00
+170158,CO,Kersey Mayor,2026-11-03,80,,False,1,1,402,2026-11-18T12:54+00:00
+170271,CO,Arapahoe County Clerk and Recorder,2026-11-03,99,,False,2,1,207540,2026-11-18T12:54+00:00
+160375,CO,Colorado State House 49,2026-11-03,73.5,2026-11-04T07:09:42.044Z,False,2,4,51387,2026-11-18T12:54+00:00
+170156,CO,Keenesburg Mayor,2026-11-03,50,,False,2,1,598,2026-11-18T12:54+00:00
+170461,CO,Grand County Surveyor,2026-11-03,0,,False,1,1,5317,2026-11-18T12:54+00:00
+170375,CO,Delta County Clerk and Recorder,2026-11-03,99.9,,False,1,1,11615,2026-11-18T12:54+00:00
+170488,CO,Jackson County Treasurer,2026-11-03,99.9,,False,1,1,498,2026-11-18T12:54+00:00
+170267,CO,Alamosa County Surveyor,2026-11-03,99.9,,False,1,1,3985,2026-11-18T12:54+00:00
+170373,CO,Custer West Custer County Hospital District Ballot Issue 6A,2026-11-03,99.9,,False,2,1,236,2026-11-18T12:54+00:00
+170486,CO,Jackson County Commissioner - District 1,2026-11-03,99.9,,False,1,1,518,2026-11-18T12:54+00:00
+160309,CO,Colorado State Senate 7,2026-11-03,99.5,2026-11-04T07:09:42.043Z,False,1,2,54384,2026-11-18T12:54+00:00
+170698,CO,San Juan County Commissioner - District 3,2026-11-03,99.9,,False,1,1,486,2026-11-18T12:54+00:00
+170676,CO,Rio Blanco County Ballot Question 1C,2026-11-03,99.9,,False,2,1,2854,2026-11-18T12:54+00:00
+170255,CO,Adams County Commissioner - District 4,2026-11-03,95,,False,2,1,157218,2026-11-18T12:54+00:00
+170361,CO,Crowley County Commissioner - District 1,2026-11-03,99.9,,False,1,1,1026,2026-11-18T12:54+00:00
+170666,CO,Pueblo County Coroner,2026-11-03,99,,False,2,1,65132,2026-11-18T12:54+00:00
+170445,CO,Garfield County Surveyor,2026-11-03,0,,False,1,1,14622,2026-11-18T12:54+00:00
+170359,CO,Costilla County Coroner,2026-11-03,99.9,,False,1,1,1299,2026-11-18T12:54+00:00
+170664,CO,Pueblo County Sheriff,2026-11-03,99,,False,2,1,63960,2026-11-18T12:54+00:00
+170578,CO,Moffat County Clerk and Recorder,2026-11-03,99.9,,False,1,1,4033,2026-11-18T12:54+00:00
+170083,CO,Boulder Ballot Issue 2J,2026-11-03,97,,False,2,1,34474,2026-11-18T12:54+00:00
+160379,CO,Colorado State House 53,2026-11-03,99.9,2026-11-04T07:09:42.044Z,False,2,1,38800,2026-11-18T12:54+00:00
+170576,CO,Mineral City of Creede Referendum 2B,2026-11-03,99.9,,False,2,1,206,2026-11-18T12:54+00:00
+160406,CO,Colorado District Court 1 - Chantel E. Contiguglia Retention,2026-11-03,48,,False,2,2,212136,2026-11-18T12:54+00:00
+160512,CO,Colorado Mineral County Court - Hollie Wheelwright Retention,2026-11-03,99.9,,False,2,1,570,2026-11-18T12:54+00:00
+170101,CO,Colorado Springs School District 11 Ballot Issue 4A,2026-11-03,97,,False,2,1,87218,2026-11-18T12:54+00:00
+160510,CO,Colorado Mesa County Court - Scott Joseph Burrill Retention,2026-11-03,99,,False,2,1,60841,2026-11-18T12:54+00:00
+160424,CO,Colorado District Court 4 - Hilary Gurney Retention,2026-11-03,95.5,,False,2,2,234236,2026-11-18T12:54+00:00
+170596,CO,Montrose County Commissioner - District 2,2026-11-03,97,,False,1,1,14391,2026-11-18T12:54+00:00
+170510,CO,Kit Carson County Clerk and Recorder,2026-11-03,94,,False,1,1,2501,2026-11-18T12:54+00:00
+170623,CO,Ouray County Clerk and Recorder,2026-11-03,99.9,,False,1,1,2230,2026-11-18T12:54+00:00
+170402,CO,Douglas Town of Castle Rock Councilmember - District 3,2026-11-03,0,,False,3,1,5548,2026-11-18T12:54+00:00
+170508,CO,Kiowa County Ballot Issue 1B,2026-11-03,99.9,,False,2,1,691,2026-11-18T12:54+00:00
+160338,CO,Colorado State House 12,2026-11-03,94,2026-11-12T01:54:12.310Z,False,2,1,48637,2026-11-18T12:54+00:00
+160444,CO,Colorado District Court 17 - Sean Patrick Finn Retention,2026-11-03,97.5,,False,2,2,161183,2026-11-18T12:54+00:00
+160365,CO,Colorado State House 39,2026-11-03,0,2026-11-12T01:54:12.310Z,False,2,1,55192,2026-11-18T12:54+00:00
+170619,CO,Otero County Assessor,2026-11-03,0,,False,1,1,5398,2026-11-18T12:54+00:00
+160442,CO,Colorado District Court 15 - Tarryn L. Johnson Retention,2026-11-03,96.5,,False,2,4,5870,2026-11-18T12:54+00:00
+160363,CO,Colorado State House 37,2026-11-03,99.9,2026-11-04T07:09:42.044Z,False,2,1,41313,2026-11-18T12:54+00:00
+170144,CO,Hanover School District No 28 Ballot Issue 4C,2026-11-03,99.9,,False,2,1,616,2026-11-18T12:54+00:00
+170257,CO,Adams County Treasurer,2026-11-03,95,,False,1,1,110939,2026-11-18T12:54+00:00
+170030,CO,Longmont Ballot Question 3D,2026-11-03,99.9,,False,2,2,35594,2026-11-18T12:54+00:00
+170142,CO,Greeley Ballot Issue 2F,2026-11-03,92,,False,2,1,33903,2026-11-18T12:54+00:00
+170713,CO,Sedgwick County Clerk and Recorder,2026-11-03,99.9,,False,1,1,935,2026-11-18T12:54+00:00
+170020,CO,Aurora Ballot Issue 3C,2026-11-03,66.3,,False,2,3,98074,2026-11-18T12:54+00:00
+160322,CO,Colorado State Senate 30,2026-11-03,0,2026-11-12T01:54:12.310Z,False,2,1,96029,2026-11-18T12:54+00:00
+170711,CO,San Miguel County Coroner,2026-11-03,99.9,,False,1,1,3267,2026-11-18T12:54+00:00
+170018,CO,Aurora Ballot Issue 3A,2026-11-03,66.3,,False,2,3,99274,2026-11-18T12:54+00:00
+170130,CO,Frederick Ballot Issue 2D,2026-11-03,91,,False,2,1,7657,2026-11-18T12:54+00:00
+170435,CO,Fremont County Sheriff,2026-11-03,89,,False,2,1,17984,2026-11-18T12:54+00:00
+170214,CO,Pierce Town Trustee,2026-11-03,99.9,,False,4,1,806,2026-11-18T12:54+00:00
+170128,CO,Fleming Mayor,2026-11-03,99.9,,False,2,1,156,2026-11-18T12:54+00:00
+170241,CO,Thornton Ballot Question 2A,2026-11-03,99,,False,2,1,46998,2026-11-18T12:54+00:00
+170539,CO,Larimer County Colland Center Public Improvement District No. 82 Ballot Issue 6B,2026-11-03,67,,False,2,1,226,2026-11-18T12:54+00:00
+160369,CO,Colorado State House 43,2026-11-03,0,2026-11-04T07:09:42.044Z,False,2,1,47480,2026-11-18T12:54+00:00
+170537,CO,Larimer County Ballot Issue 1A,2026-11-03,97,,False,2,1,164151,2026-11-18T12:54+00:00
+170650,CO,Pitkin County Sheriff,2026-11-03,96,,False,1,1,7170,2026-11-18T12:54+00:00
+170148,CO,Hayden School District NO. RE-1 Ballot Issue 4B,2026-11-03,99.9,,False,2,1,1302,2026-11-18T12:54+00:00
+170063,CO,West Metro Fire Protection District Ballot Issue 7C,2026-11-03,48,,False,2,2,127680,2026-11-18T12:54+00:00
+170175,CO,Louisville Ballot Question 2F,2026-11-03,93,,False,2,1,9460,2026-11-18T12:54+00:00
+170754,CO,Yuma County Sheriff,2026-11-03,99.9,,False,1,1,3218,2026-11-18T12:54+00:00
+160392,CO,Colorado RTD Board of Directors District B,2026-11-03,98,,False,2,2,44601,2026-11-18T12:54+00:00
+170365,CO,Crowley County Sheriff,2026-11-03,99.9,,False,1,1,1027,2026-11-18T12:54+00:00
+170478,CO,Hinsdale County Sheriff,2026-11-03,99.9,,False,1,1,276,2026-11-18T12:54+00:00
+170392,CO,Dolores County Sheriff,2026-11-03,99.9,,False,2,1,1171,2026-11-18T12:54+00:00
+170171,CO,Louisville Ballot Issue 2B,2026-11-03,93,,False,2,1,9853,2026-11-18T12:54+00:00
+170476,CO,Hinsdale County Treasurer,2026-11-03,99.9,,False,1,1,352,2026-11-18T12:54+00:00
+170390,CO,Dolores County Treasurer,2026-11-03,99.9,,False,1,1,985,2026-11-18T12:54+00:00
+170496,CO,Jefferson County Assessor,2026-11-03,96,,False,3,1,268806,2026-11-18T12:54+00:00
+170609,CO,Morgan County Clerk and Recorder,2026-11-03,97,,False,1,1,8064,2026-11-18T12:54+00:00
+170388,CO,Dolores County Commissioner - District 1,2026-11-03,99.9,,False,2,1,1171,2026-11-18T12:54+00:00
+170494,CO,Jefferson County Clerk and Recorder,2026-11-03,96,,False,2,1,268570,2026-11-18T12:54+00:00
+170607,CO,Montrose West End Health Service District Ballot Issue 6B,2026-11-03,50,,False,2,1,1025,2026-11-18T12:54+00:00
+170378,CO,Delta County Sheriff,2026-11-03,99.9,,False,3,1,15912,2026-11-18T12:54+00:00
+170349,CO,Conejos County Treasurer,2026-11-03,99.9,,False,2,1,2994,2026-11-18T12:54+00:00
+170462,CO,Grand County Coroner,2026-11-03,0,,False,1,1,5512,2026-11-18T12:54+00:00
+170376,CO,Delta County Treasurer,2026-11-03,99.9,,False,1,1,11454,2026-11-18T12:54+00:00
+170681,CO,Rio Grande County Assessor,2026-11-03,99.9,,False,1,1,3580,2026-11-18T12:54+00:00
+160504,CO,Colorado Jefferson County Court - Sara Garrido Retention,2026-11-03,96,,False,2,1,210225,2026-11-18T12:54+00:00
+170566,CO,Mesa County Surveyor,2026-11-03,99,,False,1,1,51171,2026-11-18T12:54+00:00
+170679,CO,Rio Grande County Clerk and Recorder,2026-11-03,99.9,,False,1,1,3622,2026-11-18T12:54+00:00
+160310,CO,Colorado State Senate 8,2026-11-03,69.1,2026-11-04T07:09:42.043Z,False,2,10,75562,2026-11-18T12:54+00:00
+160416,CO,Colorado District Court 2 - Andrew Luxen Retention,2026-11-03,99.9,,False,2,1,176306,2026-11-18T12:54+00:00
+170396,CO,Douglas County Treasurer,2026-11-03,0,,False,2,1,192907,2026-11-18T12:54+00:00
+160414,CO,Colorado District Court 2 - Christopher J. Baumann Retention,2026-11-03,99.9,,False,2,1,176999,2026-11-18T12:54+00:00
+170202,CO,Nunn Fire Protection District Ballot Issue 6A,2026-11-03,99.9,,False,2,1,1542,2026-11-18T12:54+00:00
+170500,CO,Jefferson Town of Morrison Trustees,2026-11-03,99.9,,False,4,1,408,2026-11-18T12:54+00:00
+170421,CO,El Paso Town of Monument Councilmember - Residential District 1,2026-11-03,99.9,,False,1,1,1509,2026-11-18T12:54+00:00
+170527,CO,Lake County Coroner,2026-11-03,99.9,,False,1,1,2478,2026-11-18T12:54+00:00
+170114,CO,Eaton Ballot Issue 2A,2026-11-03,75,,False,2,1,2686,2026-11-18T12:54+00:00
+170227,CO,Snowmass Village Mayor,2026-11-03,99.9,,False,1,1,1148,2026-11-18T12:54+00:00
+170717,CO,Sedgwick County Coroner,2026-11-03,99.9,,False,1,1,833,2026-11-18T12:54+00:00
+160355,CO,Colorado State House 29,2026-11-03,98,2026-11-04T07:09:42.044Z,False,2,2,43869,2026-11-18T12:54+00:00
+170744,CO,Weld County Council - At-Large,2026-11-03,93,,False,2,1,96247,2026-11-18T12:54+00:00
+170523,CO,Lake County Clerk and Recorder,2026-11-03,99.9,,False,2,1,3294,2026-11-18T12:54+00:00
+160353,CO,Colorado State House 27,2026-11-03,96,2026-11-04T07:09:42.044Z,False,2,1,47058,2026-11-18T12:54+00:00
+160459,CO,Colorado District Court 20 - Michael Kotlarczyk Retention,2026-11-03,91,,False,2,1,95200,2026-11-18T12:54+00:00
+170247,CO,West Routt Fire Protection District Ballot Issue 6A,2026-11-03,83,,False,2,1,1188,2026-11-18T12:54+00:00
+170161,CO,Lafayette Ballot Issue 2A,2026-11-03,99.9,,False,2,1,13100,2026-11-18T12:54+00:00
+160457,CO,Colorado District Court 19 - Audrey A. Galloway Retention,2026-11-03,93,,False,2,1,110200,2026-11-18T12:54+00:00
+170245,CO,Weld County School District RE-2 Ballot Issue 4A,2026-11-03,93,,False,2,1,5321,2026-11-18T12:54+00:00
+170159,CO,Kersey Town Trustee,2026-11-03,80,,False,2,1,551,2026-11-18T12:54+00:00
+170464,CO,Grand Town of Granby Board of Trustees,2026-11-03,0,,False,9,1,2566,2026-11-18T12:54+00:00
+160339,CO,Colorado State House 13,2026-11-03,82.3,2026-11-04T07:09:42.044Z,False,2,6,47365,2026-11-18T12:54+00:00
+160445,CO,Colorado District Court 17 - Priscilla Loew Retention,2026-11-03,97.5,,False,2,2,161633,2026-11-18T12:54+00:00
+170035,CO,Burlington School District RE-6J Ballot Issue 5D,2026-11-03,99.9,,False,2,2,1479,2026-11-18T12:54+00:00
+170339,CO,Cheyenne County Coroner,2026-11-03,99.9,,False,1,1,697,2026-11-18T12:54+00:00
+170118,CO,El Paso County School District No. 12 (Cheyenne Mountain) Ballot Issue 4B,2026-11-03,94,,False,2,1,11421,2026-11-18T12:54+00:00
+170033,CO,Bennett School District 29J Ballot Issue 5A,2026-11-03,91.5,,False,2,2,3062,2026-11-18T12:54+00:00
+170145,CO,Haxtun Mayor,2026-11-03,99.9,,False,1,1,370,2026-11-18T12:54+00:00
+170450,CO,Gilpin County Assessor,2026-11-03,0,,False,2,1,3320,2026-11-18T12:54+00:00
+170748,CO,Weld Town of Hudson Councilmembers,2026-11-03,75,,False,7,1,1222,2026-11-18T12:54+00:00
+170448,CO,Gilpin County Clerk and Recorder,2026-11-03,0,,False,2,1,3297,2026-11-18T12:54+00:00
+170554,CO,Logan County Commissioner - District 3,2026-11-03,99.9,,False,1,1,6450,2026-11-18T12:54+00:00
+160384,CO,Colorado State House 58,2026-11-03,99.6,2026-11-04T07:09:42.044Z,False,1,8,27204,2026-11-18T12:54+00:00
+160490,CO,Colorado Douglas County Court - Lawrence Bowling Retention,2026-11-03,0,,False,2,1,150965,2026-11-18T12:54+00:00
+160382,CO,Colorado State House 56,2026-11-03,83.3,2026-11-04T07:09:42.044Z,False,2,7,44751,2026-11-18T12:54+00:00
+170579,CO,Moffat County Treasurer,2026-11-03,99.9,,False,1,1,3928,2026-11-18T12:54+00:00
+170468,CO,Gunnison County Treasurer,2026-11-03,99.9,,False,1,1,5819,2026-11-18T12:54+00:00
+170190,CO,Morrison Ballot Issue 2D,2026-11-03,99.9,,False,2,1,172,2026-11-18T12:54+00:00
+170104,CO,Cortez Ballot Question 2A,2026-11-03,99.9,,False,2,1,2669,2026-11-18T12:54+00:00
+170082,CO,Blue Mountain Water District Ballot Issue 6A,2026-11-03,75,,False,2,1,188,2026-11-18T12:54+00:00
+170188,CO,Monument Ballot Issue 2B,2026-11-03,99.9,,False,2,1,5754,2026-11-18T12:54+00:00
+170294,CO,Bent County Clerk and Recorder,2026-11-03,99.9,,False,1,1,1288,2026-11-18T12:54+00:00
+170599,CO,Montrose County Treasurer,2026-11-03,97,,False,1,1,14904,2026-11-18T12:54+00:00
+170513,CO,Kit Carson County Sheriff,2026-11-03,94,,False,1,1,2464,2026-11-18T12:54+00:00
+170292,CO,Baca County Coroner,2026-11-03,99.9,,False,1,1,1269,2026-11-18T12:54+00:00
+170597,CO,Montrose County Commissioner - District 3,2026-11-03,97,,False,1,1,14021,2026-11-18T12:54+00:00
+170511,CO,Kit Carson County Treasurer,2026-11-03,94,,False,1,1,2516,2026-11-18T12:54+00:00
+160341,CO,Colorado State House 15,2026-11-03,89,,False,3,1,38892,2026-11-18T12:54+00:00
+160447,CO,Colorado District Court 17 - Kelley R. Southerland Retention,2026-11-03,97.5,,False,2,2,161032,2026-11-18T12:54+00:00
+170701,CO,San Juan County Assessor,2026-11-03,99.9,,False,1,1,428,2026-11-18T12:54+00:00
+170479,CO,Huerfano County Commissioner - District 3,2026-11-03,99.9,,False,1,1,2432,2026-11-18T12:54+00:00
+170585,CO,Moffat County Ballot Question 1B,2026-11-03,99.9,,False,2,1,4808,2026-11-18T12:54+00:00
+170691,CO,Routt Town of Hayden Councilmember,2026-11-03,99.9,,False,6,1,1896,2026-11-18T12:54+00:00
+170669,CO,Rio Blanco County Treasurer,2026-11-03,99.9,,False,1,1,2422,2026-11-18T12:54+00:00
+170583,CO,Moffat County Coroner,2026-11-03,99.9,,False,1,1,4108,2026-11-18T12:54+00:00
+170497,CO,Jefferson County Sheriff,2026-11-03,96,,False,2,1,269815,2026-11-18T12:54+00:00
+160327,CO,Colorado State House 1,2026-11-03,50,2026-11-04T07:09:42.043Z,False,2,2,29836,2026-11-18T12:54+00:00
+170108,CO,De Beque Mayor,2026-11-03,99.9,,False,1,1,136,2026-11-18T12:54+00:00
+170086,CO,Boulder Ballot Question 2M,2026-11-03,97,,False,2,1,30801,2026-11-18T12:54+00:00
+160325,CO,Colorado State Senate 34,2026-11-03,99.9,2026-11-04T07:09:42.043Z,False,3,1,68274,2026-11-18T12:54+00:00
+160431,CO,Colorado District Court 9 - Elise Myer Retention,2026-11-03,65.3,,False,2,3,28119,2026-11-18T12:54+00:00
+170219,CO,Pueblo City-County Library District Ballot Issue 6A,2026-11-03,99,,False,2,1,63264,2026-11-18T12:54+00:00
+170325,CO,Chaffee County Commissioner - District 3,2026-11-03,94,,False,2,1,12605,2026-11-18T12:54+00:00
+170217,CO,Pueblo Ballot Question 2A,2026-11-03,99.9,,False,2,1,37151,2026-11-18T12:54+00:00
+170131,CO,Frederick Ballot Issue 2E,2026-11-03,91,,False,2,1,7564,2026-11-18T12:54+00:00
+160345,CO,Colorado State House 19,2026-11-03,97,2026-11-04T07:09:42.044Z,False,2,2,51657,2026-11-18T12:54+00:00
+170734,CO,Washington County Clerk and Recorder,2026-11-03,91,,False,1,1,1938,2026-11-18T12:54+00:00
+160372,CO,Colorado State House 46,2026-11-03,98,2026-11-04T07:09:42.044Z,False,2,1,37830,2026-11-18T12:54+00:00
+170434,CO,Fremont County Assessor,2026-11-03,89,,False,1,1,14346,2026-11-18T12:54+00:00
+170732,CO,Teller County Coroner,2026-11-03,96,,False,1,1,9927,2026-11-18T12:54+00:00
+170039,CO,Jefferson County School District R-1 Ballot Issue 5A,2026-11-03,98,,False,2,2,273985,2026-11-18T12:54+00:00
+170151,CO,Hot Sulphur Springs Mayor,2026-11-03,0,,False,1,1,237,2026-11-18T12:54+00:00
+170072,CO,Adams County Fire Protection District Ballot Issue 6E,2026-11-03,90,,False,2,1,15129,2026-11-18T12:54+00:00
+160368,CO,Colorado State House 42,2026-11-03,99.9,2026-11-04T07:09:42.044Z,False,1,1,14770,2026-11-18T12:54+00:00
+170149,CO,Hills at Cherry Creek Metropolitan District Ballot Issue 6A,2026-11-03,75,,False,2,1,571,2026-11-18T12:54+00:00
+170064,CO,Windsor-Severance Fire Protection District Ballot Issue 7F,2026-11-03,89,,False,2,2,27485,2026-11-18T12:54+00:00
+170368,CO,Custer County Clerk and Recorder,2026-11-03,99.9,,False,1,1,2481,2026-11-18T12:54+00:00
+170481,CO,Huerfano County Treasurer,2026-11-03,99.9,,False,1,1,2860,2026-11-18T12:54+00:00
+170260,CO,Adams County Coroner,2026-11-03,95,,False,1,1,116167,2026-11-18T12:54+00:00
+170366,CO,Crowley County Coroner,2026-11-03,99.9,,False,1,1,1062,2026-11-18T12:54+00:00
+160462,CO,Colorado District Court 21 - Jeremy Chaffin Retention,2026-11-03,99,,False,2,1,60181,2026-11-18T12:54+00:00
+170250,CO,Wiggins Town Trustee,2026-11-03,99.9,,False,3,1,1224,2026-11-18T12:54+00:00
+170023,CO,Berthoud Ballot Issue 3G,2026-11-03,75,,False,2,2,6471,2026-11-18T12:54+00:00
+160460,CO,Colorado District Court 20 - J. Chris Larson Retention,2026-11-03,91,,False,2,1,95020,2026-11-18T12:54+00:00
+170248,CO,Wheat Ridge Ballot Issue 2A,2026-11-03,95,,False,2,1,14472,2026-11-18T12:54+00:00
+170354,CO,Costilla County Commissioner - District 2,2026-11-03,99.9,,False,1,1,1249,2026-11-18T12:54+00:00
+170659,CO,Prowers County Coroner,2026-11-03,86,,False,2,1,3769,2026-11-18T12:54+00:00
+170438,CO,Fremont Town of Rockvale Board of Trustees,2026-11-03,99.9,,False,4,1,679,2026-11-18T12:54+00:00
+170352,CO,Conejos County Surveyor,2026-11-03,99.9,,False,1,1,2608,2026-11-18T12:54+00:00
+170465,CO,Grand Town of Fraser Board of Trustees,2026-11-03,0,,False,5,1,1561,2026-11-18T12:54+00:00
+170571,CO,Mineral County Treasurer,2026-11-03,99.9,,False,1,1,510,2026-11-18T12:54+00:00
+170076,CO,Arapahoe County School District #6 Littleton Public Schools Ballot Issue 4A,2026-11-03,99.9,,False,2,1,43275,2026-11-18T12:54+00:00
+170569,CO,Mineral County Commissioner - District 1,2026-11-03,99.9,,False,1,1,509,2026-11-18T12:54+00:00
+170682,CO,Rio Grande County Sheriff,2026-11-03,99.9,,False,2,1,4705,2026-11-18T12:54+00:00
+170180,CO,Mead Mayor,2026-11-03,99.9,,False,2,1,3323,2026-11-18T12:54+00:00
+170094,CO,Cedaredge Ballot Issue 2C,2026-11-03,99.9,,False,2,1,1215,2026-11-18T12:54+00:00
+170399,CO,Douglas County Surveyor,2026-11-03,0,,False,1,1,131088,2026-11-18T12:54+00:00
+160503,CO,Colorado Jackson County Court - Chelsea Williams Ryan Retention,2026-11-03,99.9,,False,2,1,559,2026-11-18T12:54+00:00
+170092,CO,Castle Pines Ballot Question 301,2026-11-03,0,,False,2,1,8038,2026-11-18T12:54+00:00
+170589,CO,Montezuma County Treasurer,2026-11-03,99.9,,False,1,1,7224,2026-11-18T12:54+00:00
+170503,CO,Kiowa County Treasurer,2026-11-03,99.9,,False,1,1,564,2026-11-18T12:54+00:00
+170424,CO,Elbert County Commissioner - District 2,2026-11-03,0,,False,2,1,15407,2026-11-18T12:54+00:00
+170395,CO,Douglas County Clerk and Recorder,2026-11-03,0,,False,2,1,193139,2026-11-18T12:54+00:00
+170501,CO,Kiowa County Commissioner - District 2,2026-11-03,99.9,,False,1,1,522,2026-11-18T12:54+00:00
+170422,CO,El Paso Town of Monument Councilmember - Residential District 2,2026-11-03,99.9,,False,1,1,2290,2026-11-18T12:54+00:00
+170720,CO,Summit County Clerk and Recorder,2026-11-03,99.9,,False,1,1,10230,2026-11-18T12:54+00:00
+160358,CO,Colorado State House 32,2026-11-03,94,2026-11-04T07:09:42.044Z,False,2,1,30242,2026-11-18T12:54+00:00
+170612,CO,Morgan County Sheriff,2026-11-03,97,,False,1,1,8101,2026-11-18T12:54+00:00
+170718,CO,Sedgwick County Ballot Issue 1A,2026-11-03,99.9,,False,2,1,1065,2026-11-18T12:54+00:00
+160356,CO,Colorado State House 30,2026-11-03,98,2026-11-04T07:09:42.044Z,False,2,1,36234,2026-11-18T12:54+00:00
+170297,CO,Bent County Sheriff,2026-11-03,99.9,,False,1,1,1012,2026-11-18T12:54+00:00
+170602,CO,Montrose County Surveyor,2026-11-03,97,,False,1,1,14093,2026-11-18T12:54+00:00
+170381,CO,Denver City and County of Denver Councilmember - At-Large -Seat B,2026-11-03,99.9,,False,10,1,193416,2026-11-18T12:54+00:00
+170295,CO,Bent County Treasurer,2026-11-03,99.9,,False,1,1,1177,2026-11-18T12:54+00:00
+170600,CO,Montrose County Assessor,2026-11-03,97,,False,1,1,14472,2026-11-18T12:54+00:00
+170706,CO,San Miguel County Clerk and Recorder,2026-11-03,99.9,,False,1,1,3195,2026-11-18T12:54+00:00
+170211,CO,Paonia Ballot Issue 2A,2026-11-03,99.9,,False,2,1,791,2026-11-18T12:54+00:00
+160315,CO,Colorado State Senate 20,2026-11-03,97,2026-11-04T07:09:42.043Z,False,2,1,91114,2026-11-18T12:54+00:00
+170704,CO,San Juan County Ballot Issue 1A,2026-11-03,99.9,,False,2,1,575,2026-11-18T12:54+00:00
+160342,CO,Colorado State House 16,2026-11-03,99.9,2026-11-04T07:09:42.044Z,False,4,1,35398,2026-11-18T12:54+00:00
+170123,CO,Evans City Council Ward 1 - 2 Year Term,2026-11-03,99.9,,False,1,1,913,2026-11-18T12:54+00:00
+170428,CO,Elbert County Sheriff,2026-11-03,0,,False,1,1,13201,2026-11-18T12:54+00:00
+170121,CO,Estes Valley Fire Protection District Ballot Issue 6D,2026-11-03,90,,False,2,1,4697,2026-11-18T12:54+00:00
+170234,CO,Stone Creek Metropolitan District Ballot Question 6G,2026-11-03,0,,False,2,1,442,2026-11-18T12:54+00:00
+170724,CO,Summit County Surveyor,2026-11-03,99.9,,False,1,1,9424,2026-11-18T12:54+00:00
+170645,CO,Phillips City of Holyoke Ballot Measure 2B,2026-11-03,99.9,,False,2,1,771,2026-11-18T12:54+00:00
+170751,CO,Yuma County Clerk and Recorder,2026-11-03,99.9,,False,1,1,3108,2026-11-18T12:54+00:00
+170338,CO,Cheyenne County Sheriff,2026-11-03,99.9,,False,1,1,706,2026-11-18T12:54+00:00
+170451,CO,Gilpin County Sheriff,2026-11-03,0,,False,2,1,3342,2026-11-18T12:54+00:00
+160466,CO,Colorado District Court 22 - William Young Furse Retention,2026-11-03,99.9,,False,2,2,9890,2026-11-18T12:54+00:00
+170056,CO,Front Range Passenger Rail District Ballot Issue 7A,2026-11-03,74.2,,False,2,12,864220,2026-11-18T12:54+00:00
+160493,CO,Colorado El Paso County Court - Sam Burney Retention,2026-11-03,95,,False,2,1,223454,2026-11-18T12:54+00:00
+170747,CO,Weld Town of Gilcrest Board of Trustees,2026-11-03,99.9,,False,8,1,1073,2026-11-18T12:54+00:00
+170054,CO,Elbert Fire Protection District Ballot Issue 7B,2026-11-03,50,,False,2,2,1363,2026-11-18T12:54+00:00
+170166,CO,Lakewood Ballot Question 2I,2026-11-03,98,,False,2,1,61028,2026-11-18T12:54+00:00
+170471,CO,Gunnison County Coroner,2026-11-03,99.9,,False,1,1,6607,2026-11-18T12:54+00:00
+170193,CO,Morrison Creek Metropolitan Water & Sanitation District Ballot Issue 6B,2026-11-03,99.9,,False,2,1,886,2026-11-18T12:54+00:00
+170164,CO,Lakewood Ballot Issue 2G,2026-11-03,98,,False,2,1,63351,2026-11-18T12:54+00:00
+170469,CO,Gunnison County Assessor,2026-11-03,99.9,,False,1,1,6165,2026-11-18T12:54+00:00
+170191,CO,Morrison Ballot Issue 2E,2026-11-03,99.9,,False,2,1,173,2026-11-18T12:54+00:00
+170154,CO,Hugo Fire Protection District Ballot Issue 6A,2026-11-03,99.9,,False,2,1,523,2026-11-18T12:54+00:00
+160450,CO,Colorado District Court 18 - Jacob A. Edson Retention,2026-11-03,99,,False,2,1,164791,2026-11-18T12:54+00:00
+170040,CO,Jefferson County School District R-1 Ballot Issue 5B,2026-11-03,98,,False,2,2,272001,2026-11-18T12:54+00:00
+170152,CO,Hot Sulphur Springs-Parshall Fire Protection District Ballot Question 6A,2026-11-03,0,,False,2,1,525,2026-11-18T12:54+00:00
+170265,CO,Alamosa County Assessor,2026-11-03,99.9,,False,1,1,4084,2026-11-18T12:54+00:00
+170563,CO,Mesa County Treasurer,2026-11-03,99,,False,3,1,74023,2026-11-18T12:54+00:00
+170342,CO,Clear Creek County Treasurer,2026-11-03,99.9,,False,1,1,3520,2026-11-18T12:54+00:00
+170263,CO,Alamosa County Clerk and Recorder,2026-11-03,99.9,,False,1,1,4156,2026-11-18T12:54+00:00
+170369,CO,Custer County Treasurer,2026-11-03,99.9,,False,1,1,2332,2026-11-18T12:54+00:00
+170674,CO,Rio Blanco County Ballot Question 1A,2026-11-03,99.9,,False,2,1,2853,2026-11-18T12:54+00:00
+160497,CO,Colorado Fremont County Court - Alexandra Robak Retention,2026-11-03,89,,False,2,1,16633,2026-11-18T12:54+00:00
+170672,CO,Rio Blanco County Surveyor,2026-11-03,99.9,,False,1,1,2517,2026-11-18T12:54+00:00
+160303,CO,Colorado University of Colorado Regent District 2,2026-11-03,79.5,,False,3,11,302910,2026-11-18T12:54+00:00
+170091,CO,Castle Pines Ballot Question 300,2026-11-03,0,,False,2,1,8141,2026-11-18T12:54+00:00
+160522,CO,Colorado Weld County Court - Dana Nichols Retention,2026-11-03,93,,False,2,1,109792,2026-11-18T12:54+00:00
+170111,CO,Durango West Metropolitan District No. 1 Ballot Issue No. 6A,2026-11-03,99.9,,False,2,1,318,2026-11-18T12:54+00:00
+170089,CO,Buena Vista Town Trustee,2026-11-03,99.9,,False,7,1,3779,2026-11-18T12:54+00:00
+160328,CO,Colorado State House 2,2026-11-03,99.9,2026-11-04T07:09:42.043Z,False,2,1,45983,2026-11-18T12:54+00:00
+170301,CO,Boulder County Treasurer,2026-11-03,91,,False,1,1,94622,2026-11-18T12:54+00:00
+170414,CO,El Paso County Commissioner - District 5,2026-11-03,97,,False,2,1,40972,2026-11-18T12:54+00:00
+170328,CO,Chaffee County Assessor,2026-11-03,94,,False,1,1,8311,2026-11-18T12:54+00:00
+170107,CO,De Beque Ballot Issue 2C,2026-11-03,99.9,,False,2,1,165,2026-11-18T12:54+00:00
+170412,CO,Eagle County Coroner,2026-11-03,90,,False,2,1,21741,2026-11-18T12:54+00:00
+170518,CO,La Plata County Assessor,2026-11-03,99.9,,False,1,1,19937,2026-11-18T12:54+00:00
+160348,CO,Colorado State House 22,2026-11-03,98,,False,2,1,39220,2026-11-18T12:54+00:00
+170737,CO,Washington County Sheriff,2026-11-03,91,,False,1,1,1890,2026-11-18T12:54+00:00
+170516,CO,La Plata County Clerk and Recorder,2026-11-03,99.9,,False,1,1,22328,2026-11-18T12:54+00:00
+160346,CO,Colorado State House 20,2026-11-03,97,2026-11-04T07:09:42.044Z,False,1,1,35217,2026-11-18T12:54+00:00
+170735,CO,Washington County Treasurer,2026-11-03,91,,False,1,1,1948,2026-11-18T12:54+00:00
+170042,CO,Telluride School District R-1 Ballot Issue 5A,2026-11-03,99.9,,False,2,2,3405,2026-11-18T12:54+00:00
+170590,CO,Montezuma County Assessor,2026-11-03,99.9,,False,1,1,6877,2026-11-18T12:54+00:00
+170504,CO,Kiowa County Assessor,2026-11-03,99.9,,False,1,1,590,2026-11-18T12:54+00:00
+170617,CO,Otero County Clerk & Recorder,2026-11-03,0,,False,1,1,5493,2026-11-18T12:54+00:00
+160440,CO,Colorado District Court 13 - Dina M. Christiansen Retention,2026-11-03,97.4,,False,2,7,24528,2026-11-18T12:54+00:00
+170694,CO,Saguache County Treasurer,2026-11-03,99.9,,False,1,1,1696,2026-11-18T12:54+00:00
+170615,CO,Morgan County Ballot Question 1A,2026-11-03,97,,False,2,1,9511,2026-11-18T12:54+00:00
+170721,CO,Summit County Treasurer,2026-11-03,99.9,,False,1,1,9921,2026-11-18T12:54+00:00
+170028,CO,Longmont Ballot Question 3B,2026-11-03,99.9,,False,2,2,37636,2026-11-18T12:54+00:00
+170332,CO,Chaffee Publishing Ordinances by Title,2026-11-03,99.9,,False,2,1,3436,2026-11-18T12:54+00:00
+170026,CO,Green Mountain Falls Ballot Issue 3A,2026-11-03,99.9,,False,2,2,287,2026-11-18T12:54+00:00
+170138,CO,Golden Gate Fire Protection District Ballot Issue 6B,2026-11-03,67,,False,2,1,489,2026-11-18T12:54+00:00
+170443,CO,Garfield County Assessor,2026-11-03,0,,False,1,1,14717,2026-11-18T12:54+00:00
+170549,CO,Lincoln County Treasurer,2026-11-03,99.9,,False,1,1,1612,2026-11-18T12:54+00:00
+170441,CO,Garfield County Clerk and Recorder,2026-11-03,0,,False,1,1,15031,2026-11-18T12:54+00:00
+170355,CO,Costilla County Clerk and Recorder,2026-11-03,99.9,,False,1,1,1336,2026-11-18T12:54+00:00
+170046,CO,12th Judicial District Ballot Question 7A,2026-11-03,99.9,,False,2,6,18181,2026-11-18T12:54+00:00
+160483,CO,Colorado Denver County Court - Andrea Eddy Retention,2026-11-03,99.9,,False,2,1,176134,2026-11-18T12:54+00:00
+170079,CO,Aspen Ballot Issue 2A,2026-11-03,99.9,,False,2,1,3367,2026-11-18T12:54+00:00
+170658,CO,Prowers County Sheriff,2026-11-03,86,,False,1,1,2843,2026-11-18T12:54+00:00
+160481,CO,Colorado Crowley County Court - Jeremy P Boyce Retention,2026-11-03,99.9,,False,2,1,1175,2026-11-18T12:54+00:00
+170269,CO,Arapahoe County Commissioner - District 2,2026-11-03,99,,False,2,1,50762,2026-11-18T12:54+00:00
+170183,CO,Moffat County School District RE-1 Ballot Issue 4A,2026-11-03,99.9,,False,2,1,4844,2026-11-18T12:54+00:00
+170097,CO,Cherry Hills Village Ballot Question 2C,2026-11-03,99.9,,False,2,1,2644,2026-11-18T12:54+00:00
+170075,CO,Alamosa Ballot Issue 2A,2026-11-03,99.9,,False,2,1,2915,2026-11-18T12:54+00:00
+170181,CO,Mead Town Trustee,2026-11-03,99.9,,False,8,1,9946,2026-11-18T12:54+00:00
+170095,CO,Centennial Ballot Issue 2A,2026-11-03,99.9,,False,2,1,46115,2026-11-18T12:54+00:00
+170592,CO,Montezuma County Surveyor,2026-11-03,99.9,,False,1,1,6872,2026-11-18T12:54+00:00
+170506,CO,Kiowa County Coroner,2026-11-03,99.9,,False,1,1,556,2026-11-18T12:54+00:00
+170484,CO,Huerfano County Coroner,2026-11-03,99.9,,False,1,1,2932,2026-11-18T12:54+00:00
+170057,CO,Greater Brighton Fire Protection District Ballot Issue 7D,2026-11-03,89.5,,False,2,2,19985,2026-11-18T12:54+00:00
+170169,CO,Larkspur Fire Protection District Ballot Issue 6B,2026-11-03,0,,False,2,1,4248,2026-11-18T12:54+00:00
+170474,CO,Hinsdale County Commissioner - District 2,2026-11-03,99.9,,False,1,1,298,2026-11-18T12:54+00:00
+170253,CO,Wray Ballot Question 2A,2026-11-03,99.9,,False,2,1,767,2026-11-18T12:54+00:00
+170167,CO,Lakewood Ballot Question 2J,2026-11-03,98,,False,2,1,57149,2026-11-18T12:54+00:00
+170472,CO,Gunnison Town of Mt. Crested Butte Town Council,2026-11-03,99.9,,False,4,1,1185,2026-11-18T12:54+00:00
+170386,CO,Denver City and County of Denver Initiated Ordinance 311,2026-11-03,99.9,,False,2,1,233096,2026-11-18T12:54+00:00
+160408,CO,Colorado District Court 1 - Meegan Miloud Retention,2026-11-03,48,,False,2,2,211087,2026-11-18T12:54+00:00
+170662,CO,Pueblo County Treasurer,2026-11-03,99,,False,2,1,65128,2026-11-18T12:54+00:00
+170384,CO,Denver City and County of Denver Referred Question 2J,2026-11-03,99.9,,False,2,1,225046,2026-11-18T12:54+00:00
+170689,CO,Routt County Surveyor,2026-11-03,96,,False,1,1,250,2026-11-18T12:54+00:00
+160320,CO,Colorado State Senate 27,2026-11-03,48.5,2026-11-04T07:09:42.043Z,False,3,2,76360,2026-11-18T12:54+00:00
+160426,CO,Colorado District Court 4 - Amanda J. Philipps Retention,2026-11-03,95.5,,False,2,2,234424,2026-11-18T12:54+00:00
+160318,CO,Colorado State Senate 24,2026-11-03,93,2026-11-04T07:09:42.043Z,False,2,1,65411,2026-11-18T12:54+00:00
+170707,CO,San Miguel County Treasurer,2026-11-03,99.9,,False,1,1,3092,2026-11-18T12:54+00:00
+170404,CO,Douglas County Ballot Question 200,2026-11-03,0,,False,2,1,190565,2026-11-18T12:54+00:00
+170318,CO,Boulder Eldorado Springs Public Improvement District of Boulder County Ballot Issue 6A,2026-11-03,50,,False,2,1,77,2026-11-18T12:54+00:00
+170431,CO,Fremont County Commissioner - District 2,2026-11-03,89,,False,2,1,14527,2026-11-18T12:54+00:00
+170210,CO,Palmer Lake Town Trustee,2026-11-03,50,,False,10,1,4669,2026-11-18T12:54+00:00
+170316,CO,Boulder Proposed Municipality of Niwot Ballot Issue 305,2026-11-03,75,,False,2,1,2373,2026-11-18T12:54+00:00
+170621,CO,Otero County Coroner,2026-11-03,0,,False,1,1,5978,2026-11-18T12:54+00:00
+170727,CO,Teller County Commissioner - District 2,2026-11-03,96,,False,3,1,13467,2026-11-18T12:54+00:00
+170648,CO,Pitkin County Clerk and Recorder,2026-11-03,96,,False,1,1,7215,2026-11-18T12:54+00:00
+170427,CO,Elbert County Assessor,2026-11-03,0,,False,1,1,13072,2026-11-18T12:54+00:00
+170725,CO,Summit County Coroner,2026-11-03,99.9,,False,1,1,9984,2026-11-18T12:54+00:00
+170646,CO,Pitkin County Commissioner - District 1,2026-11-03,96,,False,2,1,8368,2026-11-18T12:54+00:00
+160469,CO,Colorado District Court 23 - Theresa Slade Retention,2026-11-03,33.3,,False,2,3,165582,2026-11-18T12:54+00:00
+170059,CO,Poudre Valley Fire Protection District Ballot Issue 7E,2026-11-03,97.5,,False,2,2,18273,2026-11-18T12:54+00:00
+160361,CO,Colorado State House 35,2026-11-03,99,2026-11-04T07:09:42.044Z,False,1,2,21565,2026-11-18T12:54+00:00
+160467,CO,Colorado District Court 23 - Andrew Baum Retention,2026-11-03,33.3,,False,2,3,165549,2026-11-18T12:54+00:00
+170521,CO,La Plata County Coroner,2026-11-03,99.9,,False,2,1,27819,2026-11-18T12:54+00:00
+160351,CO,Colorado State House 25,2026-11-03,99.9,2026-11-04T07:09:42.044Z,False,2,1,52927,2026-11-18T12:54+00:00
+170605,CO,"Montrose West End Health Service District Directors (May, 2027)",2026-11-03,50,,False,3,1,1361,2026-11-18T12:54+00:00
+170519,CO,La Plata County Sheriff,2026-11-03,99.9,,False,1,1,20377,2026-11-18T12:54+00:00
+160349,CO,Colorado State House 23,2026-11-03,90,2026-11-04T07:09:42.044Z,False,2,1,41937,2026-11-18T12:54+00:00
+160455,CO,Colorado District Court 18 - Darren L. Vahle Retention,2026-11-03,99,,False,2,1,164624,2026-11-18T12:54+00:00
+170243,CO,Walsenburg Ballot Question 2A,2026-11-03,99.9,,False,2,1,1291,2026-11-18T12:54+00:00
+170016,CO,Green Mountain Falls Town Trustee,2026-11-03,99.9,,False,2,2,331,2026-11-18T12:54+00:00
+160453,CO,Colorado District Court 18 - David N. Karpel Retention,2026-11-03,99,,False,2,1,164663,2026-11-18T12:54+00:00
+170043,CO,Weld County School District RE-5J Ballot Issue 5A,2026-11-03,98,,False,2,2,11013,2026-11-18T12:54+00:00
+170347,CO,Conejos County Commissioner - District 2,2026-11-03,99.9,,False,2,1,3449,2026-11-18T12:54+00:00
+170652,CO,Pitkin County Ballot Issue 1A,2026-11-03,96,,False,2,1,8692,2026-11-18T12:54+00:00
+170345,CO,Clear Creek County Coroner,2026-11-03,99.9,,False,1,1,3223,2026-11-18T12:54+00:00
+170458,CO,Grand County Treasurer,2026-11-03,0,,False,1,1,5423,2026-11-18T12:54+00:00
+160473,CO,Colorado Alamosa County Court - Daniel Walzl Retention,2026-11-03,99.9,,False,2,1,5272,2026-11-18T12:54+00:00
+160394,CO,Colorado RTD Board of Directors District J,2026-11-03,97.5,,False,1,2,47487,2026-11-18T12:54+00:00
+160500,CO,Colorado Grand County Court - Nicholas Catanzarite Retention,2026-11-03,0,,False,2,1,6835,2026-11-18T12:54+00:00
+170562,CO,Mesa County Clerk and Recorder,2026-11-03,99,,False,1,1,54656,2026-11-18T12:54+00:00
+170675,CO,Rio Blanco County Ballot Question 1B,2026-11-03,99.9,,False,2,1,2846,2026-11-18T12:54+00:00
+170173,CO,Louisville Ballot Question 2D,2026-11-03,93,,False,2,1,9142,2026-11-18T12:54+00:00
+170286,CO,Archuleta County Ballot Issue 1A,2026-11-03,91,,False,2,1,6818,2026-11-18T12:54+00:00
+170200,CO,North Range Metropolitan District No. 3 Ballot Issue 6C,2026-11-03,67,,False,2,1,764,2026-11-18T12:54+00:00
+160496,CO,Colorado El Paso County Court - Ann M. Rotolo Retention,2026-11-03,95,,False,2,1,223194,2026-11-18T12:54+00:00
+170284,CO,Archuleta County Surveyor,2026-11-03,91,,False,1,1,400,2026-11-18T12:54+00:00
+170198,CO,North Range Metropolitan District No. 3 Ballot Issue 6A,2026-11-03,67,,False,2,1,778,2026-11-18T12:54+00:00
+170304,CO,Boulder County Surveyor,2026-11-03,91,,False,1,1,94181,2026-11-18T12:54+00:00
+170417,CO,El Paso County Assessor,2026-11-03,95,,False,2,1,273378,2026-11-18T12:54+00:00
+170196,CO,Mountain View Ballot Question 2C,2026-11-03,99.9,,False,2,1,229,2026-11-18T12:54+00:00
+170302,CO,Boulder County Assessor,2026-11-03,91,,False,1,1,94440,2026-11-18T12:54+00:00
+170415,CO,El Paso County Clerk and Recorder,2026-11-03,95,,False,2,1,276023,2026-11-18T12:54+00:00
+170186,CO,Montrose Ballot Question 2C,2026-11-03,94,,False,2,1,9569,2026-11-18T12:54+00:00
+170157,CO,Kersey Ballot Issue 2B,2026-11-03,80,,False,2,1,481,2026-11-18T12:54+00:00
+170270,CO,Arapahoe County Commissioner - District 4,2026-11-03,99,,False,2,1,34268,2026-11-18T12:54+00:00
+170184,CO,Montrose Ballot Question 2A,2026-11-03,94,,False,2,1,9460,2026-11-18T12:54+00:00
+170489,CO,Jackson County Assessor,2026-11-03,99.9,,False,2,1,623,2026-11-18T12:54+00:00
+160312,CO,Colorado State Senate 11,2026-11-03,90,2026-11-12T01:54:12.310Z,False,3,1,47990,2026-11-18T12:54+00:00
+170374,CO,Delta County Commissioner - District 1,2026-11-03,99.9,,False,2,1,16026,2026-11-18T12:54+00:00
+170487,CO,Jackson County Clerk and Recorder,2026-11-03,99.9,,False,1,1,483,2026-11-18T12:54+00:00
+170593,CO,Montezuma County Coroner,2026-11-03,99.9,,False,1,1,7376,2026-11-18T12:54+00:00
+170699,CO,San Juan County Clerk and Recorder,2026-11-03,99.9,,False,1,1,504,2026-11-18T12:54+00:00
+170204,CO,Oak Creek Mayor,2026-11-03,99.9,,False,2,1,377,2026-11-18T12:54+00:00
+170697,CO,Saguache County Coroner,2026-11-03,99.9,,False,2,1,2348,2026-11-18T12:54+00:00
+160335,CO,Colorado State House 9,2026-11-03,99.9,2026-11-04T07:09:42.044Z,False,2,2,34054,2026-11-18T12:54+00:00
+170308,CO,Boulder County Ballot Question 200,2026-11-03,91,,False,2,1,124662,2026-11-18T12:54+00:00
+170229,CO,Sterling Referred Ballot Issue 2A,2026-11-03,99.9,,False,2,1,3552,2026-11-18T12:54+00:00
+170335,CO,Cheyenne County Clerk and Recorder,2026-11-03,99.9,,False,1,1,780,2026-11-18T12:54+00:00
+160439,CO,Colorado District Court 12 - Amanda C. Hopkins Retention,2026-11-03,99.9,,False,2,6,16443,2026-11-18T12:54+00:00
+170029,CO,Longmont Ballot Question 3C,2026-11-03,99.9,,False,2,2,37098,2026-11-18T12:54+00:00
+170525,CO,Lake County Assessor,2026-11-03,99.9,,False,1,1,2379,2026-11-18T12:54+00:00
+170638,CO,Phillips County Clerk and Recorder,2026-11-03,99.9,,False,1,1,1692,2026-11-18T12:54+00:00
+170552,CO,Lincoln County Coroner,2026-11-03,99.9,,False,1,1,1539,2026-11-18T12:54+00:00
+170331,CO,Chaffee 5-H LLC R-2 Zoning,2026-11-03,99.9,,False,2,1,3507,2026-11-18T12:54+00:00
+170636,CO,Park County Coroner,2026-11-03,99.9,,False,2,1,9157,2026-11-18T12:54+00:00
+170742,CO,Weld County Assessor,2026-11-03,93,,False,1,1,94229,2026-11-18T12:54+00:00
+170049,CO,Basalt & Rural Fire Protection District Ballot Issue 7A,2026-11-03,86,,False,2,2,5136,2026-11-18T12:54+00:00
+160486,CO,Colorado Denver County Court - Chelsea Malone Retention,2026-11-03,99.9,,False,2,1,175700,2026-11-18T12:54+00:00
+170740,CO,Weld County Commissioner - District 2,2026-11-03,93,,False,1,1,35507,2026-11-18T12:54+00:00
+170047,CO,17th Judicial District Ballot Question 7E,2026-11-03,97.5,,False,2,2,190644,2026-11-18T12:54+00:00
+160484,CO,Colorado Denver County Court - Olympia Z. Fay Retention,2026-11-03,99.9,,False,2,1,175941,2026-11-18T12:54+00:00
+170272,CO,Arapahoe County Treasurer,2026-11-03,99,,False,2,1,193641,2026-11-18T12:54+00:00
+170622,CO,Ouray County Commissioner - District 2,2026-11-03,99.9,,False,1,1,2226,2026-11-18T12:54+00:00
+170728,CO,Teller County Clerk and Recorder,2026-11-03,96,,False,1,1,10032,2026-11-18T12:54+00:00
+160366,CO,Colorado State House 40,2026-11-03,98,2026-11-04T07:09:42.044Z,False,2,1,34760,2026-11-18T12:54+00:00
+170147,CO,Hayden School District NO. RE-1 Ballot Issue 4A,2026-11-03,99.9,,False,2,1,1310,2026-11-18T12:54+00:00
+160443,CO,Colorado District Court 17 - Caryn A. Datz Retention,2026-11-03,97.5,,False,2,2,162146,2026-11-18T12:54+00:00
+160364,CO,Colorado State House 38,2026-11-03,99.9,2026-11-04T07:09:42.044Z,False,4,2,44800,2026-11-18T12:54+00:00
+160470,CO,Colorado District Court 23 - Daniel W. Warhola Retention,2026-11-03,33.3,,False,2,3,164799,2026-11-18T12:54+00:00
+170258,CO,Adams County Assessor,2026-11-03,95,,False,2,1,139993,2026-11-18T12:54+00:00
+170556,CO,Logan County Treasurer,2026-11-03,99.9,,False,1,1,6418,2026-11-18T12:54+00:00
+170256,CO,Adams County Clerk and Recorder,2026-11-03,95,,False,2,1,157767,2026-11-18T12:54+00:00
+170362,CO,Crowley County Clerk and Recorder,2026-11-03,99.9,,False,1,1,1126,2026-11-18T12:54+00:00
+170667,CO,Rio Blanco County Commissioner - District 1,2026-11-03,99.9,,False,1,1,2450,2026-11-18T12:54+00:00
+170581,CO,Moffat County Sheriff,2026-11-03,99.9,,False,1,1,3958,2026-11-18T12:54+00:00
+170665,CO,Pueblo County Surveyor,2026-11-03,99,,False,1,1,49319,2026-11-18T12:54+00:00
+170387,CO,Denver Public Schools Ballot Issue 4A,2026-11-03,99.9,,False,2,1,238388,2026-11-18T12:54+00:00
+170276,CO,Arapahoe City of Cherry Hills Village Councilmember - District 2,2026-11-03,99.9,,False,1,1,1822,2026-11-18T12:54+00:00
+160515,CO,Colorado Park County Court - Brian Louis Green Retention,2026-11-03,99.9,,False,2,1,7745,2026-11-18T12:54+00:00
+160429,CO,Colorado District Court 7 - D. Cory Jackson Retention,2026-11-03,99.5,,False,2,6,42235,2026-11-18T12:54+00:00
+160407,CO,Colorado District Court 1 - Ryan P. Loewer Retention,2026-11-03,48,,False,2,2,210608,2026-11-18T12:54+00:00
+160513,CO,Colorado Moffat County Court - James Hesson Retention,2026-11-03,99.9,,False,2,1,4225,2026-11-18T12:54+00:00
+170102,CO,Columbine Knolls Grove Metropolitan Recreation District Ballot Issue 6D,2026-11-03,67,,False,2,1,1594,2026-11-18T12:54+00:00
+170407,CO,Eagle County Commissioner - District 3,2026-11-03,90,,False,2,1,22382,2026-11-18T12:54+00:00
+170321,CO,Broomfield City and County of Broomfield Councilmember - Ward 1,2026-11-03,99.9,,False,1,1,5282,2026-11-18T12:54+00:00
+170100,CO,Clear Creek School District No. Re-1 Ballot Issue 4A,2026-11-03,99.9,,False,2,1,4843,2026-11-18T12:54+00:00
+170405,CO,Douglas County Ballot Question 201,2026-11-03,0,,False,2,1,182774,2026-11-18T12:54+00:00
+170319,CO,Boulder Sombrero Ranch Public Improvement District of Boulder County Ballot Issue 6B,2026-11-03,50,,False,2,1,126,2026-11-18T12:54+00:00
+170624,CO,Ouray County Treasurer,2026-11-03,99.9,,False,1,1,2273,2026-11-18T12:54+00:00
+170730,CO,Teller County Assessor,2026-11-03,96,,False,1,1,9887,2026-11-18T12:54+00:00
+170509,CO,Kit Carson County Commissioner - District 2,2026-11-03,94,,False,1,1,2419,2026-11-18T12:54+00:00
+170287,CO,Baca County Commissioner - District 2,2026-11-03,99.9,,False,1,1,1332,2026-11-18T12:54+00:00
+170393,CO,Dolores County Coroner,2026-11-03,99.9,,False,1,1,933,2026-11-18T12:54+00:00
+170499,CO,Jefferson County Coroner,2026-11-03,96,,False,2,1,263578,2026-11-18T12:54+00:00
+170477,CO,Hinsdale County Assessor,2026-11-03,99.9,,False,1,1,348,2026-11-18T12:54+00:00
+170391,CO,Dolores County Assessor,2026-11-03,99.9,,False,1,1,944,2026-11-18T12:54+00:00
+170305,CO,Boulder County Coroner,2026-11-03,91,,False,1,1,94486,2026-11-18T12:54+00:00
+170610,CO,Morgan County Treasurer,2026-11-03,97,,False,1,1,7867,2026-11-18T12:54+00:00
+160433,CO,Colorado District Court 10 - Michelle Chostner Retention,2026-11-03,99,,False,2,1,58631,2026-11-18T12:54+00:00
+170608,CO,Morgan County Commissioner - District 2,2026-11-03,97,,False,1,1,7758,2026-11-18T12:54+00:00
+170714,CO,Sedgwick County Treasurer,2026-11-03,99.9,,False,1,1,939,2026-11-18T12:54+00:00
+170021,CO,Aurora Ballot Question 3D,2026-11-03,66.3,,False,2,3,94425,2026-11-18T12:54+00:00
+170133,CO,Garfield School District RE-2 Ballot Issue 4A,2026-11-03,0,,False,2,1,9883,2026-11-18T12:54+00:00
+170019,CO,Aurora Ballot Issue 3B,2026-11-03,66.3,,False,2,3,99102,2026-11-18T12:54+00:00
+160456,CO,Colorado District Court 18 - Christine A. Washburn Retention,2026-11-03,99,,False,2,1,164429,2026-11-18T12:54+00:00
+170628,CO,Ouray County Coroner,2026-11-03,99.9,,False,1,1,2308,2026-11-18T12:54+00:00
+170542,CO,Las Animas County Clerk and Recorder,2026-11-03,99.9,,False,2,1,6501,2026-11-18T12:54+00:00
+170655,CO,Prowers County Clerk and Recorder,2026-11-03,86,,False,1,1,3089,2026-11-18T12:54+00:00
+170242,CO,Walsenburg Ballot Issue 300,2026-11-03,99.9,,False,2,1,1301,2026-11-18T12:54+00:00
+170540,CO,Larimer County Terry Point Estates Public Improvement District No. 85 Ballot Issue 6C,2026-11-03,50,,False,2,1,145,2026-11-18T12:54+00:00
+160370,CO,Colorado State House 44,2026-11-03,0,2026-11-12T01:54:12.310Z,False,3,1,45035,2026-11-18T12:54+00:00
+160476,CO,Colorado Arapahoe County Court - Cheryl Rowles-Stokes Retention,2026-11-03,99,,False,2,1,166239,2026-11-18T12:54+00:00
+160397,CO,Colorado RTD Board of Directors District N,2026-11-03,99.5,,False,1,2,59712,2026-11-18T12:54+00:00
+170651,CO,Pitkin Town of Snowmass Village Town Council,2026-11-03,99.9,,False,5,1,2588,2026-11-18T12:54+00:00
+160474,CO,Colorado Arapahoe County Court - Christina Marie Apostoli Retention,2026-11-03,99,,False,2,1,166231,2026-11-18T12:54+00:00
+160395,CO,Colorado RTD Board of Directors District K,2026-11-03,79.5,,False,2,2,53848,2026-11-18T12:54+00:00
+170176,CO,Louisville Ballot Question 2G,2026-11-03,93,,False,2,1,8842,2026-11-18T12:54+00:00
+170289,CO,Baca County Treasurer,2026-11-03,99.9,,False,1,1,1307,2026-11-18T12:54+00:00
+170062,CO,Upper San Juan Health Service District Ballot Issue 7B,2026-11-03,66.7,,False,2,3,6618,2026-11-18T12:54+00:00
+170174,CO,Louisville Ballot Question 2E,2026-11-03,93,,False,2,1,9472,2026-11-18T12:54+00:00
+170639,CO,Phillips County Treasurer,2026-11-03,99.9,,False,1,1,1566,2026-11-18T12:54+00:00
+170745,CO,Weld County Council - District 3,2026-11-03,91,,False,1,1,18030,2026-11-18T12:54+00:00
+170052,CO,Central Colorado Water Conservancy District Ballot Issue 7B,2026-11-03,90.3,,False,2,3,29992,2026-11-18T12:54+00:00
+160354,CO,Colorado State House 28,2026-11-03,99.9,2026-11-04T07:09:42.044Z,False,1,1,28904,2026-11-18T12:54+00:00
+170743,CO,Weld County Sheriff,2026-11-03,93,,False,2,1,130899,2026-11-18T12:54+00:00
+170050,CO,Bennett Fire Protection District Ballot Issue 7F,2026-11-03,81,,False,2,2,3387,2026-11-18T12:54+00:00
+170162,CO,Lake City Ballot Question 2A,2026-11-03,99.9,,False,2,1,241,2026-11-18T12:54+00:00
+170467,CO,Gunnison County Clerk and Recorder,2026-11-03,99.9,,False,1,1,6763,2026-11-18T12:54+00:00
+170246,CO,Wellington Ballot Issue 2A,2026-11-03,99.9,,False,2,1,4357,2026-11-18T12:54+00:00
+170160,CO,Kiowa County School District RE-1 Issue 4A,2026-11-03,99.9,,False,2,1,583,2026-11-18T12:54+00:00
+170273,CO,Arapahoe County Assessor,2026-11-03,99,,False,3,1,205997,2026-11-18T12:54+00:00
+170379,CO,Delta County Coroner,2026-11-03,99.9,,False,2,1,15619,2026-11-18T12:54+00:00
+170684,CO,Routt County Commissioner - District 3,2026-11-03,96,,False,1,1,9101,2026-11-18T12:54+00:00
+170377,CO,Delta County Assessor,2026-11-03,99.9,,False,1,1,11486,2026-11-18T12:54+00:00
+170490,CO,Jackson County Sheriff,2026-11-03,99.9,,False,1,1,491,2026-11-18T12:54+00:00
+160505,CO,Colorado Jefferson County Court - Corinne Magid Retention,2026-11-03,96,,False,2,1,209836,2026-11-18T12:54+00:00
+160419,CO,Colorado Denver Juvenile Court - Lisa Gomez Retention,2026-11-03,99.9,,False,2,1,176650,2026-11-18T12:54+00:00
+170207,CO,Palisade Ballot Issue 2A,2026-11-03,99.9,,False,2,1,1196,2026-11-18T12:54+00:00
+160311,CO,Colorado State Senate 9,2026-11-03,97,2026-11-04T07:09:42.043Z,False,2,1,89888,2026-11-18T12:54+00:00
+160417,CO,Colorado District Court 2 - Jon J. Olafson Retention,2026-11-03,99.9,,False,2,1,176320,2026-11-18T12:54+00:00
+170397,CO,Douglas County Assessor,2026-11-03,0,,False,2,1,191659,2026-11-18T12:54+00:00
+170311,CO,Boulder Proposed Municipality of Niwot Ballot Question 301,2026-11-03,75,,False,2,1,2338,2026-11-18T12:54+00:00
+170232,CO,Stone Creek Metropolitan District Ballot Question 6E,2026-11-03,0,,False,2,1,442,2026-11-18T12:54+00:00
+170203,CO,Oak Creek Ballot Issue 2A,2026-11-03,99.9,,False,2,1,400,2026-11-18T12:54+00:00
+170309,CO,Boulder County Ballot Question 201,2026-11-03,91,,False,2,1,116273,2026-11-18T12:54+00:00
+170230,CO,Stone Creek Metropolitan District Ballot Question 6C,2026-11-03,0,,False,2,1,448,2026-11-18T12:54+00:00
+170528,CO,Lake Mountain View Villages Water And Sanitation District Ballot Issue 6A,2026-11-03,50,,False,2,1,58,2026-11-18T12:54+00:00
+170641,CO,Phillips County Sheriff,2026-11-03,99.9,,False,1,1,1546,2026-11-18T12:54+00:00
+170420,CO,El Paso Town of Monument Councilmember - At-Large,2026-11-03,99.9,,False,2,1,5367,2026-11-18T12:54+00:00
+170526,CO,Lake County Sheriff,2026-11-03,99.9,,False,1,1,2494,2026-11-18T12:54+00:00
+170105,CO,Crested Butte Ballot Question 2B,2026-11-03,99.9,,False,2,1,1010,2026-11-18T12:54+00:00
+170410,CO,Eagle County Assessor,2026-11-03,90,,False,2,1,21839,2026-11-18T12:54+00:00
+170189,CO,Monument Mayor,2026-11-03,99.9,,False,2,1,5107,2026-11-18T12:54+00:00
+170103,CO,Columbine Knolls Grove Metropolitan Recreation District Ballot Issue 6E,2026-11-03,67,,False,2,1,1557,2026-11-18T12:54+00:00
+170408,CO,Eagle County Clerk and Recorder,2026-11-03,90,,False,1,1,16319,2026-11-18T12:54+00:00
+170514,CO,Kit Carson County Coroner,2026-11-03,94,,False,1,1,2519,2026-11-18T12:54+00:00
+160344,CO,Colorado State House 18,2026-11-03,99,2026-11-04T07:09:42.044Z,False,2,2,41110,2026-11-18T12:54+00:00
+170598,CO,Montrose County Clerk and Recorder,2026-11-03,97,,False,1,1,15183,2026-11-18T12:54+00:00
+170512,CO,Kit Carson County Assessor,2026-11-03,94,,False,2,1,2846,2026-11-18T12:54+00:00
+170625,CO,Ouray County Assessor,2026-11-03,99.9,,False,1,1,2337,2026-11-18T12:54+00:00
+160448,CO,Colorado District Court 18 - Michelle Ann Amico Retention,2026-11-03,99,,False,2,1,165669,2026-11-18T12:54+00:00
+170236,CO,Summit School District RE-1 Ballot Issue 4A,2026-11-03,99.9,,False,2,1,14105,2026-11-18T12:54+00:00
+160446,CO,Colorado District Court 17 - Jeffrey Dean Ruff Retention,2026-11-03,97.5,,False,2,2,160986,2026-11-18T12:54+00:00
+170036,CO,Douglas County School District RE-1 Ballot Issue 5A,2026-11-03,0,,False,2,2,195450,2026-11-18T12:54+00:00
+170532,CO,Larimer County Treasurer,2026-11-03,97,,False,2,1,161851,2026-11-18T12:54+00:00
+170453,CO,Gilpin County Coroner,2026-11-03,0,,False,1,1,2434,2026-11-18T12:54+00:00
+170559,CO,Logan County Coroner,2026-11-03,99.9,,False,1,1,501,2026-11-18T12:54+00:00
+170146,CO,Hayden Mayor,2026-11-03,99.9,,False,1,1,563,2026-11-18T12:54+00:00
+170259,CO,Adams County Sheriff,2026-11-03,95,,False,2,1,158191,2026-11-18T12:54+00:00
+170749,CO,Weld Town of Keenesburg Board of Trustees,2026-11-03,50,,False,5,1,1240,2026-11-18T12:54+00:00
+160387,CO,Colorado State House 61,2026-11-03,48,2026-11-04T07:09:42.044Z,False,3,2,43196,2026-11-18T12:54+00:00
+160301,CO,Colorado State Board of Education District 3,2026-11-03,91.2,,False,2,27,318840,2026-11-18T12:54+00:00
+170555,CO,Logan County Clerk and Recorder,2026-11-03,99.9,,False,1,1,6504,2026-11-18T12:54+00:00
+160385,CO,Colorado State House 59,2026-11-03,97.8,2026-11-04T07:09:42.044Z,False,2,4,46391,2026-11-18T12:54+00:00
+160491,CO,Colorado Douglas County Court - Kolony L. Fields Retention,2026-11-03,0,,False,2,1,148957,2026-11-18T12:54+00:00
+170279,CO,Archuleta County Commissioner - District 3,2026-11-03,91,,False,1,1,4371,2026-11-18T12:54+00:00
+160518,CO,Colorado Rio Blanco Associate County Court - Jay A. Edwards Retention,2026-11-03,99.9,,False,2,1,2361,2026-11-18T12:54+00:00
+160489,CO,Colorado Denver County Court - Judith Smith Retention,2026-11-03,99.9,,False,2,1,175816,2026-11-18T12:54+00:00
+170277,CO,Arapahoe City of Cherry Hills Village Councilmember - District 4,2026-11-03,99.9,,False,1,1,1814,2026-11-18T12:54+00:00
+160516,CO,Colorado Prowers County Court - Curtis Lane Porter Retention,2026-11-03,86,,False,2,1,3588,2026-11-18T12:54+00:00
+160479,CO,Colorado Boulder County Court - Zachary Ilya Malkinson Retention,2026-11-03,91,,False,2,1,95108,2026-11-18T12:54+00:00
+170733,CO,Washington County Commissioner - District 1,2026-11-03,91,,False,1,1,1873,2026-11-18T12:54+00:00
+160371,CO,Colorado State House 45,2026-11-03,0,2026-11-12T01:54:12.310Z,False,3,1,50140,2026-11-18T12:54+00:00
+160477,CO,Colorado Boulder County Court - Elizabeth House Moulton Brodsky Retention,2026-11-03,91,,False,2,1,95733,2026-11-18T12:54+00:00
+170073,CO,Akron Referred Ballot Question 2B,2026-11-03,99.9,,False,2,1,652,2026-11-18T12:54+00:00
+170371,CO,Custer County Sheriff,2026-11-03,99.9,,False,1,1,2071,2026-11-18T12:54+00:00
+170150,CO,Hot Sulphur Springs Ballot Question 2A,2026-11-03,0,,False,2,1,340,2026-11-18T12:54+00:00
+170065,CO,Yampa Valley Regional Transportation Authority Ballot Issue 7A,2026-11-03,98,,False,2,2,16276,2026-11-18T12:54+00:00
+170177,CO,Louisville Ballot Question 2H,2026-11-03,93,,False,2,1,9529,2026-11-18T12:54+00:00
+170482,CO,Huerfano County Assessor,2026-11-03,99.9,,False,1,1,2646,2026-11-18T12:54+00:00
+160305,CO,Colorado University of Colorado Regent District 7,2026-11-03,93.2,,False,3,11,335699,2026-11-18T12:54+00:00
+170480,CO,Huerfano County Clerk and Recorder,2026-11-03,99.9,,False,1,1,2878,2026-11-18T12:54+00:00
+170586,CO,Moffat County Ballot Question 1C,2026-11-03,99.9,,False,2,1,4799,2026-11-18T12:54+00:00
+160409,CO,Colorado District Court 1 - Andrew C. Poland Retention,2026-11-03,48,,False,2,2,210617,2026-11-18T12:54+00:00
+160330,CO,Colorado State House 4,2026-11-03,99.9,2026-11-04T07:09:42.043Z,False,3,1,36267,2026-11-18T12:54+00:00
+160436,CO,Colorado District Court 11 - Amanda Hunter Retention,2026-11-03,95.8,,False,2,4,35717,2026-11-18T12:54+00:00
+170498,CO,Jefferson County Surveyor,2026-11-03,96,,False,1,1,162099,2026-11-18T12:54+00:00
+170611,CO,Morgan County Assessor,2026-11-03,97,,False,1,1,7938,2026-11-18T12:54+00:00
+170109,CO,De Beque Town Trustee,2026-11-03,99.9,,False,3,1,325,2026-11-18T12:54+00:00
+170222,CO,Rainbow Valley Water District Ballot Issue 6A,2026-11-03,50,,False,2,1,105,2026-11-18T12:54+00:00
+170136,CO,Glenwood Springs Ballot Issue 2B,2026-11-03,0,,False,2,1,3936,2026-11-18T12:54+00:00
+160432,CO,Colorado District Court 10 - William David Alexander Retention,2026-11-03,99,,False,2,1,58912,2026-11-18T12:54+00:00
+170220,CO,Pueblo West Metropolitan Ballot Issue 6B,2026-11-03,99.9,,False,2,1,16193,2026-11-18T12:54+00:00
+170326,CO,Chaffee County Clerk and Recorder,2026-11-03,94,,False,1,1,8741,2026-11-18T12:54+00:00
+170631,CO,Park County Clerk and Recorder,2026-11-03,99.9,,False,2,1,8981,2026-11-18T12:54+00:00
+170545,CO,Las Animas County Sheriff,2026-11-03,99.9,,False,2,1,6409,2026-11-18T12:54+00:00
+170324,CO,Broomfield Proposed Charter Amendment 1C,2026-11-03,99.9,,False,2,1,38528,2026-11-18T12:54+00:00
+170629,CO,Ouray County Ballot Issue 1A,2026-11-03,99.9,,False,2,1,3349,2026-11-18T12:54+00:00
+170543,CO,Las Animas County Treasurer,2026-11-03,99.9,,False,2,1,6420,2026-11-18T12:54+00:00
+160373,CO,Colorado State House 47,2026-11-03,88.9,2026-11-04T07:09:42.044Z,False,2,9,36565,2026-11-18T12:54+00:00
+87010,CO,Colorado US House 1,2026-11-03,90.9,2026-11-04T02:40:01.573Z,False,8,3,305110,2026-11-18T12:54+00:00
+87015,CO,Colorado US House 6,2026-11-03,92.7,2026-11-04T02:40:01.573Z,False,5,5,296725,2026-11-18T12:54+00:00
+87016,CO,Colorado US House 7,2026-11-03,96.3,2026-11-04T03:39:20.972Z,False,6,11,378836,2026-11-18T12:54+00:00
+87014,CO,Colorado US House 5,2026-11-03,95.8,2026-11-05T19:44:33.499Z,False,5,1,311268,2026-11-18T12:54+00:00
+87013,CO,Colorado US House 4,2026-11-03,92,2026-11-09T20:22:38.569Z,False,4,21,384707,2026-11-18T12:54+00:00
+87011,CO,Colorado US House 2,2026-11-03,95.2,2026-11-04T02:40:01.573Z,False,3,11,372928,2026-11-18T12:54+00:00
+87017,CO,Colorado US House 8,2026-11-03,98.9,2026-11-04T04:54:22.572Z,False,3,3,289931,2026-11-18T12:54+00:00
+87022,CO,Colorado US Senate,2026-11-03,95.1,2026-11-04T02:23:25.538Z,False,9,64,2693511,2026-11-18T12:54+00:00
+87012,CO,Colorado US House 3,2026-11-03,92.3,2026-11-06T16:30:28.755Z,False,4,27,336054,2026-11-18T12:54+00:00

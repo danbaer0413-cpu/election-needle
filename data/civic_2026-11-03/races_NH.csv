@@ -1,0 +1,309 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+87284,NH,New Hampshire Governor,2026-11-03,91.7,2026-11-04T05:46:58.308Z,False,4,326,631981,2026-11-18T15:41+00:00
+159552,NH,New Hampshire State Senate,2026-11-03,95.9,,False,3,24,614853,2026-11-18T15:41+00:00
+154200,NH,New Hampshire Question 1 - Eliminate the Office of Register of Probate Amendment,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,2,269,564150,2026-11-18T15:41+00:00
+154201,NH,New Hampshire Question 2 - Property Tax Cap,2026-11-03,99.9,,False,2,246,603512,2026-11-18T15:41+00:00
+159551,NH,New Hampshire State House,2026-11-03,99.4,,False,5,203,2129236,2026-11-18T15:41+00:00
+153916,NH,New Hampshire State Senate District 12,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,11,28256,2026-11-18T15:41+00:00
+154183,NH,New Hampshire Rockingham County Commissioner District 1,2026-11-03,83.3,,False,2,19,30729,2026-11-18T15:41+00:00
+154131,NH,New Hampshire State House Sullivan County District 8,2026-11-03,99.9,2026-11-07T18:39:35.005Z,False,5,12,18315,2026-11-18T15:41+00:00
+154091,NH,New Hampshire State House Rockingham County District 29,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,9,2,32668,2026-11-18T15:41+00:00
+154174,NH,New Hampshire Merrimack County Register of Deeds,2026-11-03,89.5,,False,3,39,64100,2026-11-18T15:41+00:00
+153974,NH,New Hampshire State House Grafton County District 5,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,4,6,4392,2026-11-18T15:41+00:00
+154057,NH,New Hampshire State House Merrimack County District 25,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,3,5,5076,2026-11-18T15:41+00:00
+153933,NH,New Hampshire State House Belknap County District 5,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,9,6,22025,2026-11-18T15:41+00:00
+154040,NH,New Hampshire State House Merrimack County District 8,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,7,4,12914,2026-11-18T15:41+00:00
+154030,NH,New Hampshire State House Hillsborough County District 43,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,9,2,25839,2026-11-18T15:41+00:00
+154170,NH,New Hampshire Hillsborough County Commissioner District 3,2026-11-03,87.5,,False,3,25,59207,2026-11-18T15:41+00:00
+153938,NH,New Hampshire State House Carroll County District 2,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,5,8,8036,2026-11-18T15:41+00:00
+154021,NH,New Hampshire State House Hillsborough County District 34,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,7,2,18975,2026-11-18T15:41+00:00
+154013,NH,New Hampshire State House Hillsborough County District 26,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,5,2,4884,2026-11-18T15:41+00:00
+154121,NH,New Hampshire State House Strafford County District 19,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,7,6,28753,2026-11-18T15:41+00:00
+154196,NH,New Hampshire Sullivan County Register of Deeds,2026-11-03,82.4,,False,3,18,15240,2026-11-18T15:41+00:00
+154104,NH,New Hampshire State House Strafford County District 2,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,5,3,7862,2026-11-18T15:41+00:00
+153955,NH,New Hampshire State House Cheshire County District 11,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,3,2,1464,2026-11-18T15:41+00:00
+153902,NH,New Hampshire Executive Council District 3,2026-11-03,99.9,,False,3,38,134681,2026-11-18T15:41+00:00
+153985,NH,New Hampshire State House Grafton County District 16,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,2,2,1694,2026-11-18T15:41+00:00
+153977,NH,New Hampshire State House Grafton County District 8,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,5,4,9952,2026-11-18T15:41+00:00
+154085,NH,New Hampshire State House Rockingham County District 23,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,3,2,2354,2026-11-18T15:41+00:00
+154077,NH,New Hampshire State House Rockingham County District 15,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,5,2,8433,2026-11-18T15:41+00:00
+154160,NH,New Hampshire Grafton County Register of Probate,2026-11-03,85.7,,False,2,43,28106,2026-11-18T15:41+00:00
+154152,NH,New Hampshire Cheshire County Commissioner District 1,2026-11-03,99.9,,False,3,8,10245,2026-11-18T15:41+00:00
+154075,NH,New Hampshire State House Rockingham County District 13,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,21,2,106633,2026-11-18T15:41+00:00
+153919,NH,New Hampshire State Senate District 15,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,13,26244,2026-11-18T15:41+00:00
+153994,NH,New Hampshire State House Hillsborough County District 7,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,6,2,7037,2026-11-18T15:41+00:00
+154165,NH,New Hampshire Hillsborough County Treasurer,2026-11-03,96,,False,3,51,163211,2026-11-18T15:41+00:00
+154016,NH,New Hampshire State House Hillsborough County District 29,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,9,2,29550,2026-11-18T15:41+00:00
+153932,NH,New Hampshire State House Belknap County District 4,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,2,3166,2026-11-18T15:41+00:00
+153924,NH,New Hampshire State Senate District 20,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,7,17418,2026-11-18T15:41+00:00
+154007,NH,New Hampshire State House Hillsborough County District 20,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,5,2,5511,2026-11-18T15:41+00:00
+154191,NH,New Hampshire Strafford County Commissioner District 2,2026-11-03,99.9,,False,2,8,18605,2026-11-18T15:41+00:00
+153915,NH,New Hampshire State Senate District 11,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,5,28707,2026-11-18T15:41+00:00
+153958,NH,New Hampshire State House Cheshire County District 14,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,3,2,2731,2026-11-18T15:41+00:00
+154065,NH,New Hampshire State House Rockingham County District 3,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,3,2,2693,2026-11-18T15:41+00:00
+153980,NH,New Hampshire State House Grafton County District 11,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,3,5,2255,2026-11-18T15:41+00:00
+154080,NH,New Hampshire State House Rockingham County District 18,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,5,2,7660,2026-11-18T15:41+00:00
+154195,NH,New Hampshire Sullivan County Treasurer,2026-11-03,82.4,,False,2,18,9703,2026-11-18T15:41+00:00
+153963,NH,New Hampshire State House Coos County District 1,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,5,5,4937,2026-11-18T15:41+00:00
+154103,NH,New Hampshire State House Strafford County District 1,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,5,2,4653,2026-11-18T15:41+00:00
+154070,NH,New Hampshire State House Rockingham County District 8,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,2,2,1454,2026-11-18T15:41+00:00
+154146,NH,"New Hampshire Carroll County Commissioner, 3rd District",2026-11-03,84.2,,False,3,20,25143,2026-11-18T15:41+00:00
+153997,NH,New Hampshire State House Hillsborough County District 10,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,5,2,8705,2026-11-18T15:41+00:00
+154129,NH,New Hampshire State House Sullivan County District 6,2026-11-03,99.9,2026-11-07T18:39:35.005Z,False,7,5,12780,2026-11-18T15:41+00:00
+154051,NH,New Hampshire State House Merrimack County District 19,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,2,2,1927,2026-11-18T15:41+00:00
+153927,NH,New Hampshire State Senate District 23,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,13,28650,2026-11-18T15:41+00:00
+154074,NH,New Hampshire State House Rockingham County District 12,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,5,2,8845,2026-11-18T15:41+00:00
+154002,NH,New Hampshire State House Hillsborough County District 15,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,5,2,7300,2026-11-18T15:41+00:00
+153918,NH,New Hampshire State Senate District 14,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,5,25456,2026-11-18T15:41+00:00
+154134,NH,New Hampshire Belknap County Treasurer,2026-11-03,93.8,,False,3,17,28311,2026-11-18T15:41+00:00
+154185,NH,New Hampshire Strafford County Sheriff,2026-11-03,99.9,,False,3,25,56212,2026-11-18T15:41+00:00
+154093,NH,New Hampshire State House Rockingham County District 31,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,5,5,20869,2026-11-18T15:41+00:00
+154168,NH,New Hampshire Hillsborough County Commissioner District 1,2026-11-03,99.9,,False,3,15,46932,2026-11-18T15:41+00:00
+153966,NH,New Hampshire State House Coos County District 4,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,4,5,2062,2026-11-18T15:41+00:00
+153914,NH,New Hampshire State Senate District 10,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,2,21,20135,2026-11-18T15:41+00:00
+154098,NH,New Hampshire State House Rockingham County District 36,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,3,6,8706,2026-11-18T15:41+00:00
+153957,NH,New Hampshire State House Cheshire County District 13,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,3,3,3366,2026-11-18T15:41+00:00
+153949,NH,New Hampshire State House Cheshire County District 5,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,3,3,2337,2026-11-18T15:41+00:00
+154032,NH,New Hampshire State House Hillsborough County District 45,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,3,5,9253,2026-11-18T15:41+00:00
+154024,NH,New Hampshire State House Hillsborough County District 37,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,4,3,13583,2026-11-18T15:41+00:00
+153940,NH,New Hampshire State House Carroll County District 4,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,4,6,7741,2026-11-18T15:41+00:00
+153983,NH,New Hampshire State House Grafton County District 14,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,2,2,1828,2026-11-18T15:41+00:00
+154115,NH,New Hampshire State House Strafford County District 13,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,3,2,2381,2026-11-18T15:41+00:00
+154037,NH,New Hampshire State House Merrimack County District 5,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,5,6,7575,2026-11-18T15:41+00:00
+154145,NH,"New Hampshire Carroll County Commissioner, 2nd District",2026-11-03,84.2,,False,3,20,26298,2026-11-18T15:41+00:00
+154137,NH,New Hampshire Belknap County Commissioner District 1,2026-11-03,99.9,,False,2,8,5417,2026-11-18T15:41+00:00
+153996,NH,New Hampshire State House Hillsborough County District 9,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,5,2,9944,2026-11-18T15:41+00:00
+153988,NH,New Hampshire State House Hillsborough County District 1,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,8,2,21695,2026-11-18T15:41+00:00
+153904,NH,New Hampshire Executive Council District 5,2026-11-03,97.2,,False,3,47,119700,2026-11-18T15:41+00:00
+154088,NH,New Hampshire State House Rockingham County District 26,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,2,2,1899,2026-11-18T15:41+00:00
+153979,NH,New Hampshire State House Grafton County District 10,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,3,3,2203,2026-11-18T15:41+00:00
+154054,NH,New Hampshire State House Merrimack County District 22,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,3,2,1802,2026-11-18T15:41+00:00
+154154,NH,New Hampshire Coos County Commissioner District 1,2026-11-03,50,,False,3,3,2983,2026-11-18T15:41+00:00
+153909,NH,New Hampshire State Senate District 5,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,20,28405,2026-11-18T15:41+00:00
+153952,NH,New Hampshire State House Cheshire County District 8,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,2,6,1828,2026-11-18T15:41+00:00
+154092,NH,New Hampshire State House Rockingham County District 30,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,4,2,5189,2026-11-18T15:41+00:00
+154059,NH,New Hampshire State House Merrimack County District 27,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,5,5,23226,2026-11-18T15:41+00:00
+154167,NH,New Hampshire Hillsborough County Register of Probate,2026-11-03,96,,False,3,51,161312,2026-11-18T15:41+00:00
+153935,NH,New Hampshire State House Belknap County District 7,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,7,3,14561,2026-11-18T15:41+00:00
+154018,NH,New Hampshire State House Hillsborough County District 31,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,3,3,2089,2026-11-18T15:41+00:00
+154118,NH,New Hampshire State House Strafford County District 16,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,2,2,2239,2026-11-18T15:41+00:00
+154193,NH,New Hampshire Sullivan County Sheriff,2026-11-03,82.4,,False,2,18,9752,2026-11-18T15:41+00:00
+154140,NH,New Hampshire Carroll County Attorney,2026-11-03,84.2,,False,2,20,16297,2026-11-18T15:41+00:00
+153991,NH,New Hampshire State House Hillsborough County District 4,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,5,2,8856,2026-11-18T15:41+00:00
+153939,NH,New Hampshire State House Carroll County District 3,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,5,4,11516,2026-11-18T15:41+00:00
+154123,NH,New Hampshire State House Strafford County District 21,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,5,6,29316,2026-11-18T15:41+00:00
+153982,NH,New Hampshire State House Grafton County District 13,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,2,2,1686,2026-11-18T15:41+00:00
+154198,NH,"New Hampshire Sullivan County Commissioner, 1st District",2026-11-03,82.4,,False,3,18,15410,2026-11-18T15:41+00:00
+154082,NH,New Hampshire State House Rockingham County District 20,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,5,4,11527,2026-11-18T15:41+00:00
+154157,NH,New Hampshire Grafton County Attorney,2026-11-03,83.3,,False,3,43,38191,2026-11-18T15:41+00:00
+154072,NH,New Hampshire State House Rockingham County District 10,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,4,3,11727,2026-11-18T15:41+00:00
+154062,NH,New Hampshire State House Merrimack County District 30,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,3,5,7934,2026-11-18T15:41+00:00
+153978,NH,New Hampshire State House Grafton County District 9,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,3,4,2061,2026-11-18T15:41+00:00
+154162,NH,New Hampshire Grafton County Commissioner District 3,2026-11-03,82.4,,False,3,18,11643,2026-11-18T15:41+00:00
+154053,NH,New Hampshire State House Merrimack County District 21,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,2,2,2286,2026-11-18T15:41+00:00
+154045,NH,New Hampshire State House Merrimack County District 13,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,5,3,5340,2026-11-18T15:41+00:00
+153929,NH,New Hampshire State House Belknap County District 1,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,3,2008,2026-11-18T15:41+00:00
+154004,NH,New Hampshire State House Hillsborough County District 17,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,4,2,6121,2026-11-18T15:41+00:00
+153912,NH,New Hampshire State Senate District 8,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,26,24704,2026-11-18T15:41+00:00
+154179,NH,New Hampshire Rockingham County Attorney,2026-11-03,92.7,,False,3,42,140878,2026-11-18T15:41+00:00
+154126,NH,New Hampshire State House Sullivan County District 3,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,7,4,12889,2026-11-18T15:41+00:00
+154017,NH,New Hampshire State House Hillsborough County District 30,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,7,5,12371,2026-11-18T15:41+00:00
+154009,NH,New Hampshire State House Hillsborough County District 22,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,5,2,4417,2026-11-18T15:41+00:00
+154117,NH,New Hampshire State House Strafford County District 15,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,2,2,2002,2026-11-18T15:41+00:00
+154109,NH,New Hampshire State House Strafford County District 7,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,3,2,2008,2026-11-18T15:41+00:00
+153968,NH,New Hampshire State House Coos County District 6,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,3,17,1732,2026-11-18T15:41+00:00
+153960,NH,New Hampshire State House Cheshire County District 16,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,3,11,6801,2026-11-18T15:41+00:00
+154100,NH,New Hampshire State House Rockingham County District 38,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,3,4,8883,2026-11-18T15:41+00:00
+154143,NH,New Hampshire Carroll County Register of Probate,2026-11-03,84.2,,False,3,20,26297,2026-11-18T15:41+00:00
+154026,NH,New Hampshire State House Hillsborough County District 39,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,5,4,19786,2026-11-18T15:41+00:00
+153973,NH,New Hampshire State House Grafton County District 4,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,3,4,1840,2026-11-18T15:41+00:00
+154081,NH,New Hampshire State House Rockingham County District 19,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,3,3,2738,2026-11-18T15:41+00:00
+154048,NH,New Hampshire State House Merrimack County District 16,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,2,2,1702,2026-11-18T15:41+00:00
+154156,NH,New Hampshire Grafton County Sheriff,2026-11-03,85.7,,False,2,43,37433,2026-11-18T15:41+00:00
+154148,NH,New Hampshire Cheshire County Attorney,2026-11-03,81.5,,False,2,28,24862,2026-11-18T15:41+00:00
+154039,NH,New Hampshire State House Merrimack County District 7,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,4,3,6556,2026-11-18T15:41+00:00
+153999,NH,New Hampshire State House Hillsborough County District 12,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,17,2,97812,2026-11-18T15:41+00:00
+154139,NH,New Hampshire Carroll County Sheriff,2026-11-03,84.2,,False,2,20,25613,2026-11-18T15:41+00:00
+154182,NH,New Hampshire Rockingham County Register of Probate,2026-11-03,92.7,,False,3,42,138764,2026-11-18T15:41+00:00
+154090,NH,New Hampshire State House Rockingham County District 28,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,2,2,2201,2026-11-18T15:41+00:00
+154012,NH,New Hampshire State House Hillsborough County District 25,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,4,2,2979,2026-11-18T15:41+00:00
+154112,NH,New Hampshire State House Strafford County District 10,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,5,2,17112,2026-11-18T15:41+00:00
+154003,NH,New Hampshire State House Hillsborough County District 16,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,5,2,7319,2026-11-18T15:41+00:00
+154187,NH,New Hampshire Strafford County Treasurer,2026-11-03,99.9,,False,2,25,39902,2026-11-18T15:41+00:00
+153911,NH,New Hampshire State Senate District 7,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,29,25489,2026-11-18T15:41+00:00
+154095,NH,New Hampshire State House Rockingham County District 33,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,2,5,13780,2026-11-18T15:41+00:00
+153954,NH,New Hampshire State House Cheshire County District 10,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,5,3,7005,2026-11-18T15:41+00:00
+154029,NH,New Hampshire State House Hillsborough County District 42,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,7,4,16057,2026-11-18T15:41+00:00
+153937,NH,New Hampshire State House Carroll County District 1,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,7,2,12147,2026-11-18T15:41+00:00
+154076,NH,New Hampshire State House Rockingham County District 14,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,4,3,6345,2026-11-18T15:41+00:00
+154151,NH,New Hampshire Cheshire County Register of Probate,2026-11-03,66.7,,False,2,28,14221,2026-11-18T15:41+00:00
+154099,NH,New Hampshire State House Rockingham County District 37,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,2,5,4506,2026-11-18T15:41+00:00
+154034,NH,New Hampshire State House Merrimack County District 2,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,3,2,1939,2026-11-18T15:41+00:00
+154142,NH,New Hampshire Carroll County Register of Deeds,2026-11-03,84.2,,False,2,20,25469,2026-11-18T15:41+00:00
+153942,NH,New Hampshire State House Carroll County District 6,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,5,3,10558,2026-11-18T15:41+00:00
+153993,NH,New Hampshire State House Hillsborough County District 6,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,7,2,9546,2026-11-18T15:41+00:00
+153901,NH,New Hampshire Executive Council District 2,2026-11-03,97,,False,3,104,121851,2026-11-18T15:41+00:00
+153976,NH,New Hampshire State House Grafton County District 7,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,2,2,1728,2026-11-18T15:41+00:00
+154190,NH,New Hampshire Strafford County Commissioner District 1,2026-11-03,99.9,,False,3,10,17489,2026-11-18T15:41+00:00
+154138,NH,New Hampshire Belknap County Commissioner District 2,2026-11-03,80,,False,2,6,4970,2026-11-18T15:41+00:00
+153906,NH,New Hampshire State Senate District 2,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,20,27943,2026-11-18T15:41+00:00
+154181,NH,New Hampshire Rockingham County Register of Deeds,2026-11-03,92.7,,False,2,42,137000,2026-11-18T15:41+00:00
+154173,NH,New Hampshire Merrimack County Treasurer,2026-11-03,89.5,,False,2,39,44867,2026-11-18T15:41+00:00
+154064,NH,New Hampshire State House Rockingham County District 2,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,7,4,22293,2026-11-18T15:41+00:00
+154056,NH,New Hampshire State House Merrimack County District 24,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,2,2,1875,2026-11-18T15:41+00:00
+154164,NH,New Hampshire Hillsborough County Attorney,2026-11-03,96,,False,3,51,164504,2026-11-18T15:41+00:00
+154015,NH,New Hampshire State House Hillsborough County District 28,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,5,2,7833,2026-11-18T15:41+00:00
+153923,NH,New Hampshire State Senate District 19,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,4,24288,2026-11-18T15:41+00:00
+154069,NH,New Hampshire State House Rockingham County District 7,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,3,2,2451,2026-11-18T15:41+00:00
+153953,NH,New Hampshire State House Cheshire County District 9,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,3,5,2395,2026-11-18T15:41+00:00
+153945,NH,New Hampshire State House Cheshire County District 1,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,3,2,1442,2026-11-18T15:41+00:00
+154028,NH,New Hampshire State House Hillsborough County District 41,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,7,5,28563,2026-11-18T15:41+00:00
+154020,NH,New Hampshire State House Hillsborough County District 33,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,4,3,5447,2026-11-18T15:41+00:00
+154128,NH,New Hampshire State House Sullivan County District 5,2026-11-03,99.9,2026-11-07T18:39:35.005Z,False,3,3,2778,2026-11-18T15:41+00:00
+154120,NH,New Hampshire State House Strafford County District 18,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,3,5,9328,2026-11-18T15:41+00:00
+154011,NH,New Hampshire State House Hillsborough County District 24,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,5,2,4573,2026-11-18T15:41+00:00
+154079,NH,New Hampshire State House Rockingham County District 17,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,9,2,28100,2026-11-18T15:41+00:00
+153962,NH,New Hampshire State House Cheshire County District 18,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,5,4,11429,2026-11-18T15:41+00:00
+154133,NH,New Hampshire Belknap County Attorney,2026-11-03,93.8,,False,2,17,27612,2026-11-18T15:41+00:00
+154176,NH,New Hampshire Merrimack County Commissioner District 1,2026-11-03,99.9,,False,2,12,14392,2026-11-18T15:41+00:00
+153900,NH,New Hampshire Executive Council District 1,2026-11-03,76.7,,False,3,115,123534,2026-11-18T15:41+00:00
+154084,NH,New Hampshire State House Rockingham County District 22,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,2,3,2406,2026-11-18T15:41+00:00
+153975,NH,New Hampshire State House Grafton County District 6,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,3,4,1923,2026-11-18T15:41+00:00
+154159,NH,New Hampshire Grafton County Register of Deeds,2026-11-03,83.3,,False,3,43,38177,2026-11-18T15:41+00:00
+154050,NH,New Hampshire State House Merrimack County District 18,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,3,2,1842,2026-11-18T15:41+00:00
+153926,NH,New Hampshire State Senate District 22,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,6,27367,2026-11-18T15:41+00:00
+154001,NH,New Hampshire State House Hillsborough County District 14,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,5,2,7628,2026-11-18T15:41+00:00
+153948,NH,New Hampshire State House Cheshire County District 4,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,3,2,1949,2026-11-18T15:41+00:00
+154023,NH,New Hampshire State House Hillsborough County District 36,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,5,4,8343,2026-11-18T15:41+00:00
+154163,NH,New Hampshire Hillsborough County Sheriff,2026-11-03,98,,False,2,51,160144,2026-11-18T15:41+00:00
+153931,NH,New Hampshire State House Belknap County District 3,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,3,3239,2026-11-18T15:41+00:00
+154014,NH,New Hampshire State House Hillsborough County District 27,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,3,3,1750,2026-11-18T15:41+00:00
+154006,NH,New Hampshire State House Hillsborough County District 19,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,5,2,5543,2026-11-18T15:41+00:00
+154114,NH,New Hampshire State House Strafford County District 12,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,9,3,22483,2026-11-18T15:41+00:00
+153965,NH,New Hampshire State House Coos County District 3,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,2,5,1075,2026-11-18T15:41+00:00
+154097,NH,New Hampshire State House Rockingham County District 35,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,3,3,19391,2026-11-18T15:41+00:00
+153987,NH,New Hampshire State House Grafton County District 18,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,3,11,8725,2026-11-18T15:41+00:00
+154087,NH,New Hampshire State House Rockingham County District 25,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,13,2,76628,2026-11-18T15:41+00:00
+154010,NH,New Hampshire State House Hillsborough County District 23,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,3,2,3636,2026-11-18T15:41+00:00
+153970,NH,New Hampshire State House Grafton County District 1,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,7,7,13670,2026-11-18T15:41+00:00
+154078,NH,New Hampshire State House Rockingham County District 16,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,15,2,74517,2026-11-18T15:41+00:00
+154102,NH,New Hampshire State House Rockingham County District 40,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,3,3,12154,2026-11-18T15:41+00:00
+154153,NH,New Hampshire Cheshire County Commissioner District 2,2026-11-03,28.6,,False,2,8,2311,2026-11-18T15:41+00:00
+154036,NH,New Hampshire State House Merrimack County District 4,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,4,3,6295,2026-11-18T15:41+00:00
+154136,NH,New Hampshire Belknap County Register of Probate,2026-11-03,93.8,,False,3,17,28303,2026-11-18T15:41+00:00
+153934,NH,New Hampshire State House Belknap County District 6,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,9,4,26257,2026-11-18T15:41+00:00
+154049,NH,New Hampshire State House Merrimack County District 17,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,2,2,788,2026-11-18T15:41+00:00
+154041,NH,New Hampshire State House Merrimack County District 9,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,7,3,24843,2026-11-18T15:41+00:00
+153925,NH,New Hampshire State Senate District 21,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,14,27629,2026-11-18T15:41+00:00
+153917,NH,New Hampshire State Senate District 13,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,7,19004,2026-11-18T15:41+00:00
+154192,NH,New Hampshire Strafford County Commissioner District 3,2026-11-03,99.9,,False,3,9,18562,2026-11-18T15:41+00:00
+154184,NH,New Hampshire Rockingham County Commissioner District 3,2026-11-03,99.9,,False,2,16,46638,2026-11-18T15:41+00:00
+153908,NH,New Hampshire State Senate District 4,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,10,26302,2026-11-18T15:41+00:00
+153951,NH,New Hampshire State House Cheshire County District 7,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,3,2,1996,2026-11-18T15:41+00:00
+154058,NH,New Hampshire State House Merrimack County District 26,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,3,9,9707,2026-11-18T15:41+00:00
+154197,NH,New Hampshire Sullivan County Register of Probate,2026-11-03,82.4,,False,3,18,15127,2026-11-18T15:41+00:00
+154113,NH,New Hampshire State House Strafford County District 11,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,5,4,14154,2026-11-18T15:41+00:00
+154105,NH,New Hampshire State House Strafford County District 3,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,3,3,2298,2026-11-18T15:41+00:00
+153964,NH,New Hampshire State House Coos County District 2,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,3,15,1841,2026-11-18T15:41+00:00
+153956,NH,New Hampshire State House Cheshire County District 12,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,3,3,1924,2026-11-18T15:41+00:00
+154071,NH,New Hampshire State House Rockingham County District 9,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,3,2,4323,2026-11-18T15:41+00:00
+154031,NH,New Hampshire State House Hillsborough County District 44,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,5,3,22677,2026-11-18T15:41+00:00
+153947,NH,New Hampshire State House Cheshire County District 3,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,3,2,2170,2026-11-18T15:41+00:00
+153990,NH,New Hampshire State House Hillsborough County District 3,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,5,2,4257,2026-11-18T15:41+00:00
+154122,NH,New Hampshire State House Strafford County District 20,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,3,5,11465,2026-11-18T15:41+00:00
+154044,NH,New Hampshire State House Merrimack County District 12,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,5,2,6521,2026-11-18T15:41+00:00
+153920,NH,New Hampshire State Senate District 16,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,8,25526,2026-11-18T15:41+00:00
+154035,NH,New Hampshire State House Merrimack County District 3,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,5,4,5534,2026-11-18T15:41+00:00
+153995,NH,New Hampshire State House Hillsborough County District 8,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,5,2,5417,2026-11-18T15:41+00:00
+154135,NH,New Hampshire Belknap County Register of Deeds,2026-11-03,93.8,,False,3,17,28354,2026-11-18T15:41+00:00
+153903,NH,New Hampshire Executive Council District 4,2026-11-03,99.9,,False,3,36,112603,2026-11-18T15:41+00:00
+154178,NH,New Hampshire Rockingham County Sheriff,2026-11-03,92.7,,False,2,42,135558,2026-11-18T15:41+00:00
+154061,NH,New Hampshire State House Merrimack County District 29,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,2,4,4561,2026-11-18T15:41+00:00
+154161,NH,New Hampshire Grafton County Commissioner District 1,2026-11-03,99.9,,False,2,6,10254,2026-11-18T15:41+00:00
+154108,NH,New Hampshire State House Strafford County District 6,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,3,2,2192,2026-11-18T15:41+00:00
+153959,NH,New Hampshire State House Cheshire County District 15,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,5,10,26562,2026-11-18T15:41+00:00
+153907,NH,New Hampshire State Senate District 3,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,38,30365,2026-11-18T15:41+00:00
+154066,NH,New Hampshire State House Rockingham County District 4,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,6,2,11050,2026-11-18T15:41+00:00
+153950,NH,New Hampshire State House Cheshire County District 6,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,5,4,8052,2026-11-18T15:41+00:00
+154166,NH,New Hampshire Hillsborough County Register of Deeds,2026-11-03,96,,False,3,51,162639,2026-11-18T15:41+00:00
+154025,NH,New Hampshire State House Hillsborough County District 38,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,5,3,26494,2026-11-18T15:41+00:00
+154125,NH,New Hampshire State House Sullivan County District 2,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,3,3,2314,2026-11-18T15:41+00:00
+154008,NH,New Hampshire State House Hillsborough County District 21,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,4,2,6918,2026-11-18T15:41+00:00
+153998,NH,New Hampshire State House Hillsborough County District 11,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,5,2,7365,2026-11-18T15:41+00:00
+153946,NH,New Hampshire State House Cheshire County District 2,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,2,2,1564,2026-11-18T15:41+00:00
+154130,NH,New Hampshire State House Sullivan County District 7,2026-11-03,99.9,2026-11-07T18:39:35.005Z,False,3,6,7051,2026-11-18T15:41+00:00
+153989,NH,New Hampshire State House Hillsborough County District 2,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,15,2,73845,2026-11-18T15:41+00:00
+153981,NH,New Hampshire State House Grafton County District 12,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,5,3,21016,2026-11-18T15:41+00:00
+154089,NH,New Hampshire State House Rockingham County District 27,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,2,2,1475,2026-11-18T15:41+00:00
+153972,NH,New Hampshire State House Grafton County District 3,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,3,5,1649,2026-11-18T15:41+00:00
+154047,NH,New Hampshire State House Merrimack County District 15,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,2,2,1486,2026-11-18T15:41+00:00
+154147,NH,New Hampshire Cheshire County Sheriff,2026-11-03,81.5,,False,2,28,24965,2026-11-18T15:41+00:00
+154094,NH,New Hampshire State House Rockingham County District 32,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,3,4,7222,2026-11-18T15:41+00:00
+154177,NH,New Hampshire Merrimack County Commissioner District 2,2026-11-03,84.2,,False,3,20,20859,2026-11-18T15:41+00:00
+154169,NH,New Hampshire Hillsborough County Commissioner District 2,2026-11-03,91.7,,False,3,13,44748,2026-11-18T15:41+00:00
+154060,NH,New Hampshire State House Merrimack County District 28,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,2,4,3570,2026-11-18T15:41+00:00
+154052,NH,New Hampshire State House Merrimack County District 20,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,3,2,1559,2026-11-18T15:41+00:00
+153936,NH,New Hampshire State House Belknap County District 8,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,5,4,11767,2026-11-18T15:41+00:00
+153928,NH,New Hampshire State Senate District 24,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,8,32097,2026-11-18T15:41+00:00
+154043,NH,New Hampshire State House Merrimack County District 11,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,3,2,1872,2026-11-18T15:41+00:00
+154111,NH,New Hampshire State House Strafford County District 9,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,3,2,1729,2026-11-18T15:41+00:00
+154186,NH,New Hampshire Strafford County Attorney,2026-11-03,99.9,,False,2,25,54506,2026-11-18T15:41+00:00
+153941,NH,New Hampshire State House Carroll County District 5,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,3,2,2009,2026-11-18T15:41+00:00
+153984,NH,New Hampshire State House Grafton County District 15,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,2,2,1835,2026-11-18T15:41+00:00
+154124,NH,New Hampshire State House Sullivan County District 1,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,3,2,2067,2026-11-18T15:41+00:00
+154116,NH,New Hampshire State House Strafford County District 14,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,2,2,2131,2026-11-18T15:41+00:00
+154199,NH,"New Hampshire Sullivan County Commissioner, 2nd District",2026-11-03,82.4,,False,3,18,14666,2026-11-18T15:41+00:00
+153967,NH,New Hampshire State House Coos County District 5,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,4,2,4110,2026-11-18T15:41+00:00
+154107,NH,New Hampshire State House Strafford County District 5,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,3,2,2318,2026-11-18T15:41+00:00
+154150,NH,New Hampshire Cheshire County Register of Deeds,2026-11-03,66.7,,False,2,28,14380,2026-11-18T15:41+00:00
+154033,NH,New Hampshire State House Merrimack County District 1,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,3,2,1535,2026-11-18T15:41+00:00
+154172,NH,New Hampshire Merrimack County Attorney,2026-11-03,92.1,,False,3,39,66546,2026-11-18T15:41+00:00
+154055,NH,New Hampshire State House Merrimack County District 23,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,2,2,1569,2026-11-18T15:41+00:00
+153971,NH,New Hampshire State House Grafton County District 2,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,2,3,1572,2026-11-18T15:41+00:00
+154155,NH,New Hampshire Coos County Commissioner District 3,2026-11-03,26.5,,False,2,35,3852,2026-11-18T15:41+00:00
+154046,NH,New Hampshire State House Merrimack County District 14,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,3,2,2379,2026-11-18T15:41+00:00
+154038,NH,New Hampshire State House Merrimack County District 6,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,3,3,2038,2026-11-18T15:41+00:00
+153922,NH,New Hampshire State Senate District 18,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,7,19487,2026-11-18T15:41+00:00
+154189,NH,New Hampshire Strafford County Register of Probate,2026-11-03,99.9,,False,3,25,54864,2026-11-18T15:41+00:00
+153905,NH,New Hampshire State Senate District 1,2026-11-03,99.9,2026-11-07T18:39:34.998Z,False,3,51,24356,2026-11-18T15:41+00:00
+154019,NH,New Hampshire State House Hillsborough County District 32,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,6,4,12534,2026-11-18T15:41+00:00
+154119,NH,New Hampshire State House Strafford County District 17,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,3,2,2227,2026-11-18T15:41+00:00
+154042,NH,New Hampshire State House Merrimack County District 10,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,9,3,30349,2026-11-18T15:41+00:00
+154194,NH,New Hampshire Sullivan County Attorney,2026-11-03,82.4,,False,2,18,10218,2026-11-18T15:41+00:00
+154110,NH,New Hampshire State House Strafford County District 8,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,3,2,2072,2026-11-18T15:41+00:00
+153910,NH,New Hampshire State Senate District 6,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,13,23743,2026-11-18T15:41+00:00
+153961,NH,New Hampshire State House Cheshire County District 17,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,3,6,7181,2026-11-18T15:41+00:00
+154068,NH,New Hampshire State House Rockingham County District 6,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,3,2,2648,2026-11-18T15:41+00:00
+153944,NH,New Hampshire State House Carroll County District 8,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,5,9,20205,2026-11-18T15:41+00:00
+154158,NH,New Hampshire Grafton County Treasurer,2026-11-03,85.7,,False,3,43,38722,2026-11-18T15:41+00:00
+154106,NH,New Hampshire State House Strafford County District 4,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,7,3,19889,2026-11-18T15:41+00:00
+154073,NH,New Hampshire State House Rockingham County District 11,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,6,2,24400,2026-11-18T15:41+00:00
+154149,NH,New Hampshire Cheshire County Treasurer,2026-11-03,66.7,,False,2,28,14296,2026-11-18T15:41+00:00
+154141,NH,New Hampshire Carroll County Treasurer,2026-11-03,84.2,,False,2,20,16329,2026-11-18T15:41+00:00
+154000,NH,New Hampshire State House Hillsborough County District 13,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,13,2,53047,2026-11-18T15:41+00:00
+153992,NH,New Hampshire State House Hillsborough County District 5,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,5,2,9976,2026-11-18T15:41+00:00
+154132,NH,New Hampshire Belknap County Sheriff,2026-11-03,93.8,,False,2,17,27566,2026-11-18T15:41+00:00
+154175,NH,New Hampshire Merrimack County Register of Probate,2026-11-03,89.5,,False,3,39,63748,2026-11-18T15:41+00:00
+154083,NH,New Hampshire State House Rockingham County District 21,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,2,3,2112,2026-11-18T15:41+00:00
+154005,NH,New Hampshire State House Hillsborough County District 18,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,4,2,5306,2026-11-18T15:41+00:00
+153921,NH,New Hampshire State Senate District 17,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,15,26479,2026-11-18T15:41+00:00
+153913,NH,New Hampshire State Senate District 9,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,3,15,26803,2026-11-18T15:41+00:00
+154188,NH,New Hampshire Strafford County Register of Deeds,2026-11-03,99.9,,False,2,25,54220,2026-11-18T15:41+00:00
+154180,NH,New Hampshire Rockingham County Treasurer,2026-11-03,92.7,,False,3,42,140416,2026-11-18T15:41+00:00
+154096,NH,New Hampshire State House Rockingham County District 34,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,3,4,8885,2026-11-18T15:41+00:00
+154063,NH,New Hampshire State House Rockingham County District 1,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,7,3,14464,2026-11-18T15:41+00:00
+154171,NH,New Hampshire Merrimack County Sheriff,2026-11-03,92.1,,False,3,39,67027,2026-11-18T15:41+00:00
+154022,NH,New Hampshire State House Hillsborough County District 35,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,5,2,9636,2026-11-18T15:41+00:00
+153930,NH,New Hampshire State House Belknap County District 2,2026-11-03,99.9,2026-11-07T18:39:34.999Z,False,5,2,6962,2026-11-18T15:41+00:00
+154101,NH,New Hampshire State House Rockingham County District 39,2026-11-03,99.9,2026-11-07T18:39:35.004Z,False,3,4,6998,2026-11-18T15:41+00:00
+154144,NH,"New Hampshire Carroll County Commissioner, 1st District",2026-11-03,84.2,,False,3,20,26495,2026-11-18T15:41+00:00
+154067,NH,New Hampshire State House Rockingham County District 5,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,5,2,7398,2026-11-18T15:41+00:00
+154027,NH,New Hampshire State House Hillsborough County District 40,2026-11-03,99.9,2026-11-07T18:39:35.002Z,False,9,6,55090,2026-11-18T15:41+00:00
+153943,NH,New Hampshire State House Carroll County District 7,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,3,4,7660,2026-11-18T15:41+00:00
+154127,NH,New Hampshire State House Sullivan County District 4,2026-11-03,99.9,2026-11-07T18:39:35.005Z,False,3,6,2435,2026-11-18T15:41+00:00
+153986,NH,New Hampshire State House Grafton County District 17,2026-11-03,99.9,2026-11-07T18:39:35.001Z,False,2,4,5360,2026-11-18T15:41+00:00
+154086,NH,New Hampshire State House Rockingham County District 24,2026-11-03,99.9,2026-11-07T18:39:35.003Z,False,5,3,11611,2026-11-18T15:41+00:00
+153969,NH,New Hampshire State House Coos County District 7,2026-11-03,99.9,2026-11-07T18:39:35.000Z,False,3,6,5053,2026-11-18T15:41+00:00
+87283,NH,New Hampshire US Senate,2026-11-03,92.5,2026-11-04T02:34:57.122Z,False,4,326,637324,2026-11-18T15:41+00:00
+87281,NH,New Hampshire US House 1,2026-11-03,93.3,2026-11-04T02:00:21.361Z,False,3,111,317232,2026-11-18T15:41+00:00
+87282,NH,New Hampshire US House 2,2026-11-03,90.9,2026-11-04T02:00:21.361Z,False,4,220,318014,2026-11-18T15:41+00:00

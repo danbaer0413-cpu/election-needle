@@ -1,0 +1,698 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+87032,CT,Erick Russell,Democratic,768274,60.288,True,False
+87032,CT,Fred Wilms,Republican,506072,39.712,False,False
+87034,CT,Stephanie Thomas,Democratic,809202,63.451,True,False
+87034,CT,Peter Lumaj,Republican,466097,36.548,False,False
+87034,CT,Matthew Hallock,Write-In,19,0.001,False,False
+159508,CT,Democratic,Democratic,751076,61.735,False,False
+159508,CT,Republican,Republican,463898,38.131,False,False
+159508,CT,Independent,Independent,933,0.077,False,False
+159508,CT,Nonpartisan,Nonpartisan,689,0.057,False,False
+159508,CT,Write-In,Write-In,8,0.001,False,False
+87031,CT,William Tong,Democratic,807850,63.219,True,False
+87031,CT,John Bolton,Republican,470001,36.781,False,False
+87033,CT,Sean Scanlon,Democratic,801714,62.979,True,False
+87033,CT,Jen Tooker,Republican,471275,37.021,False,False
+87026,CT,Ned Lamont,Democratic,773361,59.573,True,False
+87026,CT,Ryan Fazio,Republican,524741,40.422,False,False
+87026,CT,Zenobia Adgers,Write-In,28,0.002,False,False
+87026,CT,L. Lee Whitnum,Write-In,18,0.001,False,False
+87026,CT,Christian Noe,Write-In,17,0.001,False,False
+159509,CT,Democratic,Democratic,787298,63.12,False,False
+159509,CT,Republican,Republican,451474,36.196,False,False
+159509,CT,Independent,Independent,4205,0.337,False,False
+159509,CT,Nonpartisan,Nonpartisan,2885,0.231,False,False
+159509,CT,Green,Green,1447,0.116,False,False
+142355,CT,David C. Shepard,Democratic,22371,100.0,False,False
+142250,CT,Ellen Paul,Democratic,7947,54.765,True,False
+142250,CT,Steve Weir,Republican,6564,45.235,False,False
+142302,CT,Julie Kerton,Democratic,5583,51.234,True,False
+142302,CT,Martin J. Foncello,Republican,5314,48.766,False,False
+142229,CT,Melissa Ziobron,Republican,5821,50.259,False,False
+142229,CT,Meghan Rosenfeld,Democratic,5761,49.741,False,False
+142281,CT,Vincent J. Candelora,Republican,6541,100.0,True,False
+142215,CT,Kate Farrar,Democratic,7362,100.0,True,False
+142418,CT,Patricia Fife,Write-In,11,100.0,False,False
+142173,CT,James Maroney,Democratic,24037,60.87,True,False
+142173,CT,Owen T. Weaver,Republican,15452,39.13,False,False
+142484,CT,Wendy Cahill,Democratic,4931,61.599,False,False
+142484,CT,Kenneth Henneberry,Republican,3074,38.401,False,False
+142376,CT,Beth Ladwig Leamon,Democratic,12561,100.0,False,False
+142463,CT,Jennifer A. Marshall-Nealy,Democratic,4196,82.68,False,False
+142463,CT,Robert Ike,Republican,879,17.32,False,False
+142353,CT,Robert A. Randich,Democratic,18946,60.177,False,False
+142353,CT,Julie Costello,Republican,12538,39.823,False,False
+142405,CT,Jeff Crouse,Non Partisan,703,25.397,False,False
+142405,CT,Jack H. Davis,Non Partisan,699,25.253,False,False
+142405,CT,Jon Burleigh,Non Partisan,686,24.783,False,False
+142405,CT,Doug Creutz,Non Partisan,680,24.566,False,False
+142492,CT,Kerri Rowland,Democratic,13492,58.771,False,False
+142492,CT,Debra D. Fellenbaum,Republican,9465,41.229,False,False
+142384,CT,Americo R. Carchia,Democratic,16273,100.0,False,False
+142279,CT,Hilda E. Santiago,Democratic,2777,100.0,True,False
+142482,CT,Pennell Hamilton,Democratic,2504,63.683,False,False
+142482,CT,Anna Dickerson,Republican,1428,36.317,False,False
+142237,CT,Savet Constantine,Democratic,7290,100.0,True,False
+142363,CT,Patrick M. Birney,Republican,10930,100.0,False,False
+142440,CT,Adrianna Hawes,Republican,2630,59.705,False,False
+142440,CT,Julie A. Gianesini Flammia,Democratic,1775,40.295,False,False
+142342,CT,Matt Blumenthal,Democratic,6126,100.0,True,False
+142426,CT,Elizabeth Lori Gregan,Democratic,1381,61.762,False,False
+142426,CT,Claudia H. Hardy,Republican,855,38.238,False,False
+142469,CT,Margaret Rose,Democratic,7574,67.855,False,False
+142469,CT,Gloria Nemczuk,Republican,3588,32.145,False,False
+142179,CT,Martha E. Marx,Democratic,23434,59.075,True,False
+142179,CT,Lee Elci,Republican,16234,40.925,False,False
+142256,CT,Tami Zawistowski,Republican,5517,50.9,True,False
+142256,CT,James Mol,Democratic,5322,49.1,False,False
+142382,CT,Michael R. Brandt,Republican,13166,100.0,False,False
+142210,CT,Bobby Gibson,Democratic,8728,100.0,True,False
+142361,CT,Phrances Leverton Szewczyk,Democratic,19597,100.0,False,False
+142308,CT,Bryan Lizotte,Democratic,4864,51.977,True,False
+142308,CT,Joe Lauretti,Republican,4494,48.023,False,False
+142427,CT,Rosemarie Hecht,Republican,3849,100.0,False,False
+142511,CT,Brian Michael Delude,Non Partisan,3913,33.955,False,False
+142511,CT,Jennifer Anne Jurgen,Non Partisan,3890,33.756,False,False
+142511,CT,Megan A. Pelloth,Non Partisan,3721,32.289,False,False
+142221,CT,David DeFronzo,Democratic,3457,68.974,True,False
+142221,CT,Sal S. Simsek,Republican,1555,31.026,False,False
+142490,CT,Mary Hegarty,Democratic,13091,54.516,False,False
+142490,CT,Fred DeCaro III,Republican,10922,45.484,False,False
+142200,CT,Kyle Anderson,Democratic,6322,100.0,True,False
+142200,CT,"Charles Windsor Jackson, III",Write-In,0,0.0,False,False
+142348,CT,Owen P. Eagan,Democratic,22074,100.0,False,False
+142243,CT,Bob Fernandez,Democratic,5797,50.225,False,False
+142243,CT,Mark DeCaprio,Republican,5745,49.775,False,False
+142327,CT,Jennifer Leeper,Democratic,6049,60.623,True,False
+142327,CT,Emily Hau,Republican,3929,39.377,False,False
+142446,CT,Jennifer Law,Democratic,1540,79.876,False,False
+142446,CT,Maureen F. Dell,Republican,388,20.124,False,False
+142274,CT,Mary B. Fortier,Democratic,4127,59.322,True,False
+142274,CT,Cheryl L. Thibeault,Republican,2830,40.678,False,False
+142208,CT,Jason Doucette,Democratic,6613,72.424,True,False
+142208,CT,Bianca Stanescu,Republican,2518,27.576,False,False
+142208,CT,Zenobia Adgers,Write-In,0,0.0,False,False
+142411,CT,Michael Durkin,Democratic,8215,72.061,False,False
+142411,CT,Maria Signore,Republican,3185,27.939,False,False
+142390,CT,Robin Mann,Democratic,8085,50.286,False,False
+142390,CT,Marty Landgrebe,Republican,7993,49.714,False,False
+142285,CT,David J. Fritz,Democratic,5474,51.564,True,False
+142285,CT,Craig C. Fishbein,Republican,5142,48.436,False,False
+142369,CT,James Steck,Republican,13432,100.0,False,False
+142264,CT,Jason Buchsbaum,Republican,6962,100.0,True,False
+142419,CT,Linda Sangermano,Republican,1314,59.376,False,False
+142419,CT,Loreen Hegan,Democratic,899,40.624,False,False
+142314,CT,Kathy Kennedy,Republican,5477,51.02,True,False
+142314,CT,Alex Armstrong,Democratic,5258,48.98,False,False
+142398,CT,Francisco Cardona,Democratic,9163,72.172,False,False
+142398,CT,Michael T. Nedder,Petitioning Candidate,3533,27.828,False,False
+142293,CT,Moira Rader,Democratic,8529,68.916,True,False
+142293,CT,Carlyle Ciccone,Republican,3847,31.084,False,False
+142377,CT,Mathew H. Greene,Democratic,5613,100.0,False,False
+142272,CT,"DeWayne K. Wynn, Jr.",Democratic,5178,55.827,True,False
+142272,CT,Cara C. Pavalock-D'Amato,Republican,4097,44.173,False,False
+142475,CT,Lisa Dostie Fitch,Republican,3175,55.102,False,False
+142475,CT,Marlene K. Esposito,Democratic,2587,44.898,False,False
+142454,CT,Yvette Thibeau,Democratic,2671,69.197,False,False
+142454,CT,Lydia D. Kalat,Petitioning Candidate,1189,30.803,False,False
+142164,CT,Derek Slap,Democratic,33092,100.0,True,False
+142433,CT,Sulema Perez-Pagan,Democratic,431,50.706,False,False
+142433,CT,Dayna McDermott Arriola,Republican,419,49.294,False,False
+142335,CT,"Travis Simms, Jr.",Democratic,3916,82.269,True,False
+142335,CT,Enrique Santiago,Republican,844,17.731,False,False
+142417,CT,Donna Rusgrove,Republican,2411,50.052,False,False
+142417,CT,Alicia Bloom,Democratic,2406,49.948,False,False
+142462,CT,Christy Miano,Democratic,4562,50.504,False,False
+142462,CT,Joan Veley,Republican,4471,49.496,False,False
+142172,CT,Jack Fazzino,Democratic,22019,86.723,True,False
+142172,CT,Lamar Terrell,Independent,3371,13.277,False,False
+142441,CT,Maureen O'Doherty,Democratic,2499,57.12,False,False
+142441,CT,Cynthia J. Hickey,Republican,1876,42.88,False,False
+142375,CT,Chuck Norris,Democratic,13931,100.0,False,False
+142162,CT,Saud Anwar,Democratic,21746,67.055,True,False
+142162,CT,Eliott Hughes,Republican,10684,32.945,False,False
+142301,CT,Michelle Embree Ku,Democratic,6633,54.746,True,False
+142301,CT,Mitch Bolinsky,Republican,5483,45.254,False,False
+142228,CT,Brandon Chafee,Democratic,5732,100.0,True,False
+142504,CT,Elizabeth Orteig,Democratic,4318,51.088,False,False
+142504,CT,Joan McLaughlin,Republican,4134,48.912,False,False
+142214,CT,Olaleye Onikuyide,Democratic,9317,100.0,True,False
+142483,CT,Suzanne O'Brien,Democratic,2734,58.047,False,False
+142483,CT,Jennifer Juszczynski,Republican,1976,41.953,False,False
+142341,CT,Eilish Collins Main,Democratic,4973,100.0,True,False
+142236,CT,Aundre Bumgardner,Democratic,7590,70.736,True,False
+142236,CT,Thaler Hefel,Republican,3140,29.264,False,False
+142320,CT,Tom O'Dea,Republican,5445,51.213,True,False
+142320,CT,Meredith Tobitsch,Democratic,5187,48.787,False,False
+142439,CT,Linda Crowe,Republican,3790,59.302,False,False
+142439,CT,Ellen S. Fox,Democratic,2601,40.698,False,False
+142425,CT,Jayne Wingard Ridgway,Democratic,647,77.858,False,False
+142425,CT,Barbara Bishop,Republican,184,22.142,False,False
+142404,CT,Liz Bacon,Non Partisan,748,25.918,False,False
+142404,CT,Michael A.P. Casolo,Non Partisan,747,25.884,False,False
+142404,CT,Cheryl Russell,Non Partisan,715,24.775,False,False
+142404,CT,Charles Teschner,Non Partisan,676,23.423,False,False
+142491,CT,Staci M. Roy,Democratic,9748,62.984,False,False
+142491,CT,Suzanne Flynn,Republican,5729,37.016,False,False
+142191,CT,Eric C. Berthel,Republican,25633,53.174,True,False
+142191,CT,Matt Knickerbocker,Democratic,22573,46.826,False,False
+142278,CT,Chad Cardillo,Democratic,5225,54.798,True,False
+142278,CT,Bob Ham,Republican,4310,45.202,False,False
+142170,CT,"Alphonse Paolillo, Jr.",Democratic,18760,89.722,True,False
+142170,CT,Rosa Aurelia Pepper-Macias,Nonpartisan,2149,10.278,False,False
+142481,CT,Jessica Weaver Boose,Democratic,2194,55.587,False,False
+142481,CT,John Firneno,Republican,1753,44.413,False,False
+142220,CT,Iris Noemi Sanchez,Democratic,2565,77.586,True,False
+142220,CT,Jamie Bubba Vaughan,Republican,741,22.414,False,False
+142307,CT,Tony Scott,Republican,5999,54.255,True,False
+142307,CT,Wiley Mullins,Democratic,5058,45.745,False,False
+142199,CT,Julio Concepcion,Democratic,2569,100.0,True,False
+142510,CT,Jacqueline James-Boyd,Democratic,14442,79.817,False,False
+142510,CT,Laura E. Santino,Republican,3652,20.183,False,False
+142370,CT,Jordan M. Richards,Republican,13209,100.0,False,False
+142489,CT,Beth Kintner,Democratic,7325,62.913,False,False
+142489,CT,Ann Newbury,Republican,4318,37.087,False,False
+142468,CT,Beth Jerez,Democratic,0,,False,False
+142468,CT,Thomas Kienzler,Republican,0,,False,False
+142255,CT,Jane Garibay,Democratic,7341,69.405,True,False
+142255,CT,Chantelle Ankerman,Republican,3236,30.595,False,False
+142381,CT,"Charles E. ""Chuck"" Tiernan, III",Democratic,18416,100.0,False,False
+142234,CT,Anthony Nolan,Democratic,3712,83.043,True,False
+142234,CT,John W. Russell,Republican,758,16.957,False,False
+142360,CT,Mark Alan Balaban,Democratic,11711,100.0,False,False
+142284,CT,Lezlye Zupkus,Republican,7207,100.0,True,False
+142410,CT,Patricia A. Howard,Democratic,17660,82.989,False,False
+142410,CT,Linda A. Grace,Republican,3620,17.011,False,False
+142263,CT,Joe Polletta,Republican,7113,100.0,True,False
+142389,CT,"Joseph DaSilva, Jr.",Democratic,13278,62.423,False,False
+142389,CT,Christina DeFeo,Republican,7993,37.577,False,False
+142434,CT,Dottie Wells,Democratic,888,65.487,False,False
+142434,CT,Judith W. Davies,Republican,468,34.513,False,False
+142368,CT,David Labriola,Republican,23257,100.0,False,False
+142347,CT,Foye A. Smith,Democratic,0,,False,False
+142326,CT,Arnold Jensen,Republican,5984,58.909,True,False
+142326,CT,Heather Stafford,Democratic,4174,41.091,False,False
+142445,CT,Phillip Theroux,Democratic,4472,58.78,False,False
+142445,CT,Thomas Pugliese,Republican,3136,41.22,False,False
+142497,CT,Peter R. Pavone,Republican,8520,52.762,False,False
+142497,CT,Janet Sabovik,Democratic,7628,47.238,False,False
+142207,CT,Geoffrey Luxenberg,Democratic,5828,92.084,True,False
+142207,CT,Deena Steinberg,Nonpartisan,501,7.916,False,False
+142163,CT,MD Rahman,Democratic,26337,65.91,True,False
+142163,CT,Jenn Jennings,Republican,13622,34.09,False,False
+142474,CT,Jennifer B. Sehmi,Democratic,7558,62.665,False,False
+142474,CT,Theresa Norine Claffey Avey,Republican,4503,37.335,False,False
+142334,CT,"Larry Pemberton, Jr.",Democratic,4517,56.259,True,False
+142334,CT,Brandon Sabbag,Republican,2890,35.995,False,False
+142334,CT,Mark Adams,Independent,622,7.747,False,False
+142453,CT,Darlene Fahey Burrell,Democratic,3319,54.25,False,False
+142453,CT,Laura Brady,Republican,2799,45.75,False,False
+142505,CT,Darlene Battle,Republican,6215,54.171,False,False
+142505,CT,Scott Sherwood,Democratic,5188,45.219,False,False
+142505,CT,Jacque Williams,Write-In,70,0.61,False,False
+142432,CT,Jennifer L. Gauthier,Democratic,0,,False,False
+142432,CT,Joseph Sabolesky,Republican,0,,False,False
+142432,CT,Kathy Minski,Write-In,0,,False,False
+142226,CT,"Moise ""Moses"" Carelus",Democratic,6448,58.169,True,False
+142226,CT,Jill Barry,Republican,4637,41.831,False,False
+142397,CT,Douglas Stern,Democratic,26282,100.0,False,False
+142292,CT,Wildaliz Bermudez,Democratic,4007,76.807,True,False
+142292,CT,Anthony Acri,Republican,1210,23.193,False,False
+142184,CT,Bob Duff,Democratic,22851,68.09,True,False
+142184,CT,Justin Perry,Republican,10709,31.91,False,False
+142271,CT,John Piscopo,Republican,7378,62.183,True,False
+142271,CT,Jennifer E. Davis,Democratic,4487,37.817,False,False
+142161,CT,Maryam Khan,Democratic,23805,84.691,True,False
+142161,CT,Tim Knotts,Republican,4303,15.309,False,False
+142213,CT,Tiffani McGinnis,Democratic,7693,78.967,True,False
+142213,CT,Philip Tummescheit,Republican,2049,21.033,False,False
+142300,CT,Nicole Klarides-Ditria,Republican,5463,58.105,True,False
+142300,CT,Josh James Beaupre,Democratic,3939,41.895,False,False
+142192,CT,Norm Needleman,Democratic,29267,59.398,True,False
+142192,CT,Charles Ferraro,Republican,20006,40.602,False,False
+142503,CT,Mary Hillman,Democratic,3364,53.448,False,False
+142503,CT,Jeff Rogers,Republican,2930,46.552,False,False
+142290,CT,Juan Candelaria,Democratic,2390,100.0,True,False
+142461,CT,Barbara Braunstein,Democratic,0,,False,False
+142461,CT,Deborah G. Jones,Republican,0,,False,False
+142171,CT,Christine Cohen,Democratic,29980,62.909,True,False
+142171,CT,Lisa Deane,Republican,17676,37.091,False,False
+142248,CT,Tammy Nuccio,Republican,5839,52.866,True,False
+142248,CT,Michelle Doucette Cunningham,Democratic,5206,47.134,False,False
+142374,CT,George A. Baker,Democratic,12446,100.0,False,False
+142227,CT,Christie M. Carpino,Republican,7143,100.0,True,False
+142277,CT,Michael D. Quinn,Democratic,4930,100.0,True,False
+142403,CT,Priscilla Wong,Non Partisan,668,17.914,False,False
+142403,CT,Beatrice Clements,Non Partisan,629,16.868,False,False
+142403,CT,Bill Clarkson,Non Partisan,616,16.519,False,False
+142403,CT,Diane Conologue,Non Partisan,607,16.278,False,False
+142403,CT,Linda Tavlarios,Non Partisan,606,16.251,False,False
+142403,CT,Charles Powis,Non Partisan,603,16.171,False,False
+142480,CT,Francis J. McGarry,Republican,1567,58.08,False,False
+142480,CT,Michael B. Darcy,Democratic,1131,41.92,False,False
+142190,CT,Henri Martin,Republican,19578,53.675,True,False
+142190,CT,Laurel LaPorte-Grimes,Democratic,16897,46.325,False,False
+142169,CT,Gary Winfield,Democratic,16232,100.0,True,False
+142340,CT,Corey P. Paris,Democratic,3815,100.0,True,False
+142235,CT,Dan Gaiewski,Democratic,4676,65.49,True,False
+142235,CT,Isabelle Roode,Republican,2464,34.51,False,False
+142319,CT,"Andre F. Baker, Jr.",Democratic,2629,93.326,True,False
+142319,CT,Alexander Leon,Nonpartisan,188,6.674,False,False
+142438,CT,Emily Lewis,Republican,1319,51.423,False,False
+142438,CT,Connie Berardi,Democratic,1246,48.577,False,False
+142298,CT,Liz Linehan,Democratic,7023,63.413,True,False
+142298,CT,Jeff Weiss,Republican,4052,36.587,False,False
+142424,CT,Nelisa Field Reagan,Democratic,1574,56.844,False,False
+142424,CT,Gayle Mulligan,Republican,1195,43.156,False,False
+142380,CT,Seth Klaskin,Democratic,13413,65.417,False,False
+142380,CT,Richard DiNardo,Republican,7091,34.583,False,False
+142467,CT,Denise Menard,Petitioning Candidate,1261,70.251,False,False
+142467,CT,Michael J. Kowalski,Petitioning Candidate,534,29.749,False,False
+142359,CT,Thomas A. Robinson,Democratic,19348,100.0,False,False
+142254,CT,Rick LeBorious,Democratic,4953,53.264,True,False
+142254,CT,Carol Hall,Republican,4346,46.736,False,False
+142498,CT,Karen Eggleson,Democratic,9199,52.386,False,False
+142498,CT,Joan Ives-Parisi,Republican,8361,47.614,False,False
+142233,CT,Nick Gauthier,Democratic,6448,55.419,True,False
+142233,CT,John Doc Foley,Republican,5187,44.581,False,False
+142219,CT,"Emmanuel ""Manny"" Sanchez",Democratic,3857,71.492,True,False
+142219,CT,Tina Santana,Republican,1538,28.508,False,False
+142198,CT,Minnie Gonzalez,Democratic,2344,100.0,True,False
+142509,CT,Elizabeth Rousseau,Democratic,20194,77.038,False,False
+142509,CT,Beth Kyle,Republican,6019,22.962,False,False
+142177,CT,Joe de la Cruz,Democratic,19905,52.535,True,False
+142177,CT,Heather Somers,Republican,17984,47.465,False,False
+142488,CT,Joann Scott,Democratic,3520,51.103,False,False
+142488,CT,Jennifer Dzen,Republican,3368,48.897,False,False
+142444,CT,Andrea Theodore,Democratic,2901,65.235,False,False
+142444,CT,Michele Meschi,Republican,1546,34.765,False,False
+142346,CT,Hector Arzeno,Democratic,5745,57.931,True,False
+142346,CT,Michael S. Mason,Republican,4172,42.069,False,False
+142206,CT,Patrick Biggins,Democratic,3894,74.727,True,False
+142206,CT,Salema Davis,Republican,1317,25.273,False,False
+142325,CT,"Antonio ""Tone"" Felipe",Democratic,2238,100.0,True,False
+142185,CT,Samantha Nestor,Democratic,28585,65.413,True,False
+142185,CT,Alma Sarelli,Republican,15114,34.587,False,False
+142496,CT,Jennifer Caron,Democratic,7339,64.057,False,False
+142496,CT,Wayne Floegel,Republican,4118,35.943,False,False
+142283,CT,Josh Elliott,Democratic,5879,76.311,True,False
+142283,CT,Hudson Molinari,Republican,1825,23.689,False,False
+142262,CT,William Buckbee,Republican,5177,55.21,True,False
+142262,CT,Alexandra Thomas,Democratic,4200,44.79,False,False
+142388,CT,Fred J. Anthony,Republican,10886,100.0,False,False
+142241,CT,Derell Q Wilson,Democratic,3665,70.535,True,False
+142241,CT,Marcia Wilbur,Republican,1531,29.465,False,False
+142367,CT,Rosa C. Rebimbas,Republican,11829,100.0,False,False
+142225,CT,Donna M. Veach,Republican,5495,52.021,True,False
+142225,CT,Linda Pierce,Democratic,5068,47.979,False,False
+142270,CT,"Geraldo Reyes, Jr.",Democratic,1927,76.256,True,False
+142270,CT,Faithalee Goclowski,Republican,600,23.744,False,False
+142396,CT,Lisa Wexler,Democratic,12909,100.0,False,False
+142249,CT,Gregg Haddad,Democratic,4763,100.0,True,False
+142183,CT,Julie Kushner,Democratic,18257,62.543,True,False
+142183,CT,Melissa Lindsey,Republican,10934,37.457,False,False
+142386,CT,Ben Gettinger,Democratic,29262,100.0,False,False
+142333,CT,Kenneth Gucker,Democratic,4212,62.335,True,False
+142333,CT,Irving Fox,Republican,2545,37.665,False,False
+142452,CT,Tammy Etheridge,Republican,840,68.627,False,False
+142452,CT,Cathy Levine,Democratic,384,31.373,False,False
+142312,CT,MJ Shannon,Democratic,6164,57.074,True,False
+142312,CT,Ray Collins,Republican,4636,42.926,False,False
+142431,CT,Susan Wheeler,Republican,879,52.603,False,False
+142431,CT,Nanci Howard,Democratic,792,47.397,False,False
+142291,CT,Roland J. Lemar,Democratic,5420,100.0,True,False
+142373,CT,Carolanne Rowe,Petitioning Candidate,3638,100.0,False,False
+142460,CT,Deirdre Doran,Democratic,3057,66.616,False,False
+142460,CT,Tammy Herzog Roberts,Republican,1532,33.384,False,False
+142352,CT,Sean Michael Peoples,Democratic,15230,100.0,False,False
+142247,CT,Kurt Vail,Republican,6035,55.205,True,False
+142247,CT,Vincent Tocci,Democratic,4897,44.795,False,False
+142450,CT,David P. McCaffrey,Republican,2463,59.579,False,False
+142450,CT,Joseph Robidoux,Democratic,1671,40.421,False,False
+142212,CT,Eleni Kavros DeGraw,Democratic,7670,62.761,True,False
+142212,CT,Andrew F. Ziemba,Republican,4551,37.239,False,False
+142299,CT,Kara Rochelle,Democratic,4379,64.644,True,False
+142299,CT,Daniel Sexton,Republican,2395,35.356,False,False
+142415,CT,Susan Granger Ververis,Democratic,730,98.383,False,False
+142415,CT,Pamela M. Contino,Write-In,12,1.617,False,False
+142502,CT,Charlotte McCoid,Democratic,10684,69.494,False,False
+142502,CT,George Souto,Republican,4690,30.506,False,False
+142394,CT,Paul J. Ganim,Democratic,17749,100.0,False,False
+142289,CT,Steven Winter,Democratic,4326,100.0,True,False
+142437,CT,Jennifer Massini Vanacore,Republican,5711,53.22,False,False
+142437,CT,James Carew,Democratic,5020,46.78,False,False
+142339,CT,Hubert D. Delany,Democratic,5175,71.31,True,False
+142339,CT,Layne Rodney,Republican,2082,28.69,False,False
+142423,CT,Karen Odell,Democratic,430,55.844,False,False
+142423,CT,Sherri P. Gray,Republican,340,44.156,False,False
+142318,CT,David J. Rutigliano,Republican,5310,50.151,False,False
+142318,CT,Bill Mecca,Democratic,5278,49.849,False,False
+142178,CT,Catherine Osten,Democratic,22930,60.331,True,False
+142178,CT,Jason Guidone,Republican,15077,39.669,False,False
+142297,CT,Robin Comey,Democratic,6180,59.959,True,False
+142297,CT,Paul Crisci,Republican,4127,40.041,False,False
+142276,CT,Chris Poulos,Democratic,6351,57.705,True,False
+142276,CT,Timothy J. Wilk,Republican,4655,42.295,False,False
+142479,CT,Karen O'Keefe,Democratic,6104,67.106,False,False
+142479,CT,Peggy Roberts,Republican,2992,32.894,False,False
+142189,CT,Aaron Zimmer,Democratic,23463,51.631,True,False
+142189,CT,Stephen G. Harding,Republican,21981,48.369,False,False
+142458,CT,Bigi Ebbin,Democratic,0,,False,False
+142458,CT,Patti Waters,Republican,0,,False,False
+142168,CT,Matt Lesser,Democratic,24169,64.379,True,False
+142168,CT,Grant W. Polomsky,Republican,12539,33.4,False,False
+142168,CT,Gwen Samuel,Independent,834,2.222,False,False
+142508,CT,"Stuart W. Wells, III",Democratic,19865,69.653,False,False
+142508,CT,Diana Paladino Christopher,Republican,8655,30.347,False,False
+142218,CT,Jane Wisialowski,Democratic,7528,57.788,True,False
+142218,CT,Barbara Labriola,Republican,5499,42.212,False,False
+142487,CT,Richard DePalma,Democratic,4869,53.347,False,False
+142487,CT,Alberta Vitale,Republican,4258,46.653,False,False
+142197,CT,Raghib Allie-Brennan,Democratic,5619,59.567,True,False
+142197,CT,Deborah K. Rizzo,Republican,3814,40.433,False,False
+142242,CT,Doug Dubitsky,Republican,5611,57.22,True,False
+142242,CT,Marcus Palumbo,Democratic,4195,42.78,False,False
+142176,CT,Jorge Cabrera,Democratic,21484,62.539,True,False
+142176,CT,John-Paul Dorais,Republican,12869,37.461,False,False
+142379,CT,Jeannine M. Lewis,Democratic,19570,97.509,False,False
+142379,CT,Jason LaMark,Write-In,500,2.491,False,False
+142358,CT,Elisa H. Bartlett,Democratic,12139,100.0,False,False
+142253,CT,John P. Santanella,Democratic,4454,60.043,True,False
+142253,CT,Marie Pyznar,Republican,2964,39.957,False,False
+142305,CT,Bob Godfrey,Democratic,2667,70.221,True,False
+142305,CT,Anthony Rongetti,Republican,1131,29.779,False,False
+142232,CT,Nick Menapace,Democratic,6881,55.676,True,False
+142232,CT,Anne Santoro,Republican,5478,44.324,False,False
+142387,CT,Clifford P. Hoyle,Democratic,12637,100.0,False,False
+142282,CT,David W. Yaccarino,Republican,6659,60.154,True,False
+142282,CT,Kathleen Kimball,Democratic,4411,39.846,False,False
+142366,CT,Matthew P. Vaccarelli,Democratic,18428,100.0,False,False
+142261,CT,Karen Reddington-Hughes,Republican,6499,52.458,True,False
+142261,CT,Suzanne Lovig,Democratic,5890,47.542,False,False
+142313,CT,Toni Lombardi,Democratic,6102,61.599,True,False
+142313,CT,Steve Visconti,Republican,3804,38.401,False,False
+142240,CT,Brian Lanoue,Republican,5372,54.979,True,False
+142240,CT,Matt Danieluk,Democratic,4399,45.021,False,False
+142443,CT,Marianne Byrne,Republican,2651,60.373,False,False
+142443,CT,Katherine S. Blinstrubas,Democratic,1740,39.627,False,False
+142205,CT,Angie Parkinson,Democratic,4374,72.973,True,False
+142205,CT,Chris Tierinni,Republican,1427,23.807,False,False
+142205,CT,Rebecca Maeve Connors,Independent,193,3.22,False,False
+142324,CT,Steve Stafstrom,Democratic,3836,100.0,True,False
+142408,CT,Peter Charles Saverine,Non Partisan,692,23.553,False,False
+142408,CT,Frank Adelman,Non Partisan,652,22.192,False,False
+142408,CT,Joseph Bartning,Non Partisan,635,21.613,False,False
+142408,CT,Michael Querijero,Non Partisan,626,21.307,False,False
+142408,CT,Susan R. Lauritzen,Non Partisan,333,11.334,False,False
+142495,CT,Margaret Novicki,Democratic,3555,53.451,False,False
+142495,CT,Valerie Spinaci,Republican,3096,46.549,False,False
+142385,CT,Timothy Gunning,Democratic,0,,False,False
+142430,CT,Barbara A. Konow,Democratic,474,52.492,False,False
+142430,CT,Meghan Danko,Republican,429,47.508,False,False
+142332,CT,Kadeem Roberts,Democratic,4793,71.324,True,False
+142332,CT,Tricia Ciccone,Republican,1927,28.676,False,False
+142416,CT,Denise L. Valeri,Democratic,486,54.423,False,False
+142416,CT,Theresa J. Angell,Republican,407,45.577,False,False
+142311,CT,Trenee McGee,Democratic,3374,100.0,True,False
+142322,CT,Marcus A. Brown,Democratic,3311,100.0,True,False
+142269,CT,Michael DiGiovancarlo,Democratic,3425,69.685,True,False
+142269,CT,Ollie Gray III,Republican,1482,30.153,False,False
+142269,CT,Domenic Davino Jr.,Write-In,8,0.163,False,False
+142395,CT,Katherine E. Caulfield,Democratic,16205,64.696,False,False
+142395,CT,Lukas J. Thomas,Republican,8843,35.304,False,False
+142472,CT,Nancy Robison,Republican,561,57.012,False,False
+142472,CT,Jordan Santos,Democratic,423,42.988,False,False
+142182,CT,Herron Keyon Gaston,Democratic,10891,93.67,True,False
+142182,CT,Natasha Williams,Nonpartisan,736,6.33,False,False
+142451,CT,Barbara Richardson Crouch,Republican,621,55.595,False,False
+142451,CT,Jessica Donovan,Democratic,496,44.405,False,False
+142501,CT,Beth Lundy,Democratic,10168,63.741,False,False
+142501,CT,Lisbeth Becker,Republican,5784,36.259,False,False
+142211,CT,Melissa Osborne,Democratic,8953,100.0,True,False
+142288,CT,Toni E. Walker,Democratic,3369,100.0,True,False
+142414,CT,Kathryn R. Sylvester,Democratic,1471,53.824,False,False
+142414,CT,Susan Rubino,Republican,1262,46.176,False,False
+142393,CT,Max L. Rosenberg,Democratic,19170,100.0,False,False
+142372,CT,Kate Cerrone,Democratic,8651,51.117,False,False
+142372,CT,Gabrielle Labonte,Republican,8273,48.883,False,False
+142459,CT,Matthew Berthel,Republican,5629,62.13,False,False
+142459,CT,Michael Lafferty,Democratic,3431,37.87,False,False
+142351,CT,Richard P. Gentile,Democratic,0,,False,False
+142246,CT,Chris Stewart,Republican,4645,54.081,True,False
+142246,CT,Lina Wagner,Democratic,3944,45.919,False,False
+142330,CT,Anne M. Hughes,Democratic,6373,57.679,True,False
+142330,CT,Darrell Harris,Republican,4676,42.321,False,False
+142449,CT,Karen E. Cortes,Democratic,7932,66.083,False,False
+142449,CT,Jennifer Batchelar,Republican,4071,33.917,False,False
+142188,CT,Mae Flexer,Democratic,18567,58.619,True,False
+142188,CT,Chris Reddy,Republican,13107,41.381,False,False
+142275,CT,Gale L. Mastrofrancesco,Republican,6282,60.772,True,False
+142275,CT,Cheryl Hilton,Democratic,4055,39.228,False,False
+142167,CT,Paul Honig,Democratic,26937,60.056,True,False
+142167,CT,Michael R. Criss,Republican,17916,39.944,False,False
+142478,CT,Elise J. Wood,Republican,3436,54.644,False,False
+142478,CT,John Stelma,Democratic,2852,45.356,False,False
+142306,CT,Aimee Berger-Girvalo,Democratic,6785,62.633,True,False
+142306,CT,Blake Consentino,Republican,4048,37.367,False,False
+142457,CT,Patricia Najarian,Republican,3902,57.365,False,False
+142457,CT,Tony Gugliotti,Democratic,2706,39.782,False,False
+142457,CT,Sherri Conroy,Green,194,2.852,False,False
+142436,CT,Sandra Cameron-Adams,Democratic,1701,57.023,False,False
+142436,CT,Michele Anne Kacy,Republican,1282,42.977,False,False
+142422,CT,Sara Mussen,Democratic,3971,55.985,False,False
+142422,CT,Julianne M. Shilosky,Republican,3122,44.015,False,False
+142317,CT,Mandy Kilmartin,Democratic,5649,52.349,True,False
+142317,CT,Ben McGorty,Republican,5142,47.651,False,False
+142401,CT,Susan K. Gray,Democratic,4458,53.236,False,False
+142401,CT,Cara Gately,Republican,3916,46.764,False,False
+142296,CT,John-Michael Parker,Democratic,7510,62.329,True,False
+142296,CT,Mary Ann Connelly,Republican,4539,37.671,False,False
+142252,CT,Jaime S. Foster,Democratic,6837,100.0,True,False
+142378,CT,Lauren M. McNamara,Democratic,21676,100.0,False,False
+142231,CT,Renee LaMark Muir,Democratic,7449,60.044,True,False
+142231,CT,Guy Tuccero,Republican,4957,39.956,False,False
+142357,CT,Carolyn McCaffrey,Republican,6409,100.0,False,False
+142409,CT,Kathleen Healey,Democratic,431,51.99,False,False
+142409,CT,Toni Doubleday,Republican,398,48.01,False,False
+142304,CT,Farley A. Santos,Democratic,3714,64.256,True,False
+142304,CT,Ed Vachovetz,Republican,2066,35.744,False,False
+142507,CT,Joan G. Bielizna,Democratic,12879,61.285,False,False
+142507,CT,Mary Ann Doran,Republican,8136,38.715,False,False
+142486,CT,Veronica Rosario,Democratic,0,,False,False
+142486,CT,Mary J. Mourey,Republican,0,,False,False
+142196,CT,Matt Ritter,Democratic,3628,100.0,True,False
+142465,CT,JoAnn Gerardi-Voccio,Republican,1605,52.093,False,False
+142465,CT,Lisa Arends,Democratic,1476,47.907,False,False
+142175,CT,Rob Sampson,Republican,20458,50.626,True,False
+142175,CT,Jack Perry,Democratic,19952,49.374,False,False
+142442,CT,Charles Raymond,Republican,1125,53.854,False,False
+142442,CT,Laurie Castronova,Democratic,964,46.146,False,False
+142494,CT,Christopher Ludwig,Democratic,0,,False,False
+142494,CT,Sandro M. Carvalho,Republican,0,,False,False
+142204,CT,Jason Rojas,Democratic,5898,100.0,True,False
+142473,CT,Anne Malcolm,Democratic,1143,53.89,False,False
+142473,CT,Carol Schweitzer-Schilling,Republican,978,46.11,False,False
+142407,CT,Ashley Guadano,Non Partisan,599,10.262,False,False
+142407,CT,Sloan Saverine,Non Partisan,564,9.662,False,False
+142407,CT,Todd Maloof,Non Partisan,559,9.577,False,False
+142407,CT,Mark Adiletta,Non Partisan,556,9.525,False,False
+142407,CT,David Bayne,Non Partisan,534,9.149,False,False
+142407,CT,Charlie Walker,Non Partisan,529,9.063,False,False
+142407,CT,Michael Wheeler,Non Partisan,517,8.857,False,False
+142407,CT,Doug Allen Bernacchi,Non Partisan,503,8.617,False,False
+142407,CT,David Smith,Non Partisan,500,8.566,False,False
+142407,CT,Zori Buser,Non Partisan,493,8.446,False,False
+142407,CT,Ian Laird,Non Partisan,483,8.275,False,False
+142194,CT,Ethan Werstler,Democratic,22719,54.076,True,False
+142194,CT,Jeffrey Gordon,Republican,19294,45.924,False,False
+142365,CT,William Hamzy,Republican,16497,100.0,False,False
+142260,CT,Joe Canino,Republican,3531,52.513,True,False
+142260,CT,Edward M. Corey,Democratic,3193,47.487,False,False
+142344,CT,Tina Courpas,Republican,5203,51.828,True,False
+142344,CT,Amiel Goldberg,Democratic,4836,48.172,False,False
+142239,CT,Anne Dubay Dauphinais,Republican,4310,55.938,True,False
+142239,CT,Samantha Derenthal,Democratic,3395,44.062,False,False
+142323,CT,Christopher Rosario,Democratic,1680,100.0,True,False
+142321,CT,"Fred Gee, Jr.",Democratic,4348,100.0,True,False
+142181,CT,Sujata Gadkar-Wilcox,Democratic,19344,65.362,True,False
+142181,CT,Scott M. Modlin,Republican,10251,34.638,False,False
+142268,CT,"Ronald Napoli, Jr.",Democratic,3907,70.959,True,False
+142268,CT,"Terence Lott, Sr.",Republican,1599,29.041,False,False
+142154,CT,John W. Fonfara,Democratic,14466,90.907,True,False
+142154,CT,Luis Delgado,Green,1447,9.093,False,False
+142471,CT,Ronald Manizza,Democratic,3992,77.877,False,False
+142471,CT,Alfred E. Fratoni,Republican,1134,22.123,False,False
+142258,CT,Jay M. Case,Republican,5804,59.755,True,False
+142258,CT,Caitlin Hall,Democratic,3909,40.245,False,False
+142429,CT,Melissa Ozols,Democratic,2311,63.963,False,False
+142429,CT,Barbara Ryan,Republican,1302,36.037,False,False
+142331,CT,Lee Goldstein,Democratic,7309,72.864,True,False
+142331,CT,Douglas Ouellette,Republican,2722,27.136,False,False
+142223,CT,Amy Morrin Bello,Democratic,6743,63.226,True,False
+142223,CT,William S. Davidson,Republican,3922,36.774,False,False
+142310,CT,Bill Heffernan,Democratic,3863,67.382,True,False
+142310,CT,Victor Borras,Republican,1752,30.56,False,False
+142310,CT,Robert J. Barry,Independent,118,2.058,False,False
+142202,CT,Joshua Malik Hall,Democratic,3685,100.0,True,False
+142202,CT,Brandon Q. Gardener,Write-In,0,0.0,False,False
+142245,CT,Pat Boyd,Democratic,6685,59.454,True,False
+142245,CT,Anthony J. Emilio,Republican,4559,40.546,False,False
+142371,CT,Sophia H. Shaikh,Democratic,13829,100.0,False,False
+142448,CT,Sara Laughlin,Democratic,959,55.434,False,False
+142448,CT,Andrea Maloney,Republican,771,44.566,False,False
+142350,CT,Mary C. Deneen,Democratic,27423,100.0,False,False
+142402,CT,Crystal Hill,Democratic,3895,26.717,False,False
+142402,CT,Peter P. Orphanos,Democratic,3798,26.051,False,False
+142402,CT,Gregory Grambling,Republican,3468,23.788,False,False
+142402,CT,Zachary Fleitman,Republican,3418,23.445,False,False
+142329,CT,Sarah Keitt,Democratic,5967,58.0,True,False
+142329,CT,Ken Astarita,Republican,4321,42.0,False,False
+142500,CT,Matt Hall,Democratic,8393,85.564,False,False
+142500,CT,Sylvia P. Nichols,Petitioning Candidate,1416,14.436,False,False
+142287,CT,Eli Sabin,Democratic,5323,100.0,True,False
+142413,CT,John Feddern,Democratic,3559,99.916,False,False
+142413,CT,David Papcin,Write-In,3,0.084,False,False
+142266,CT,William Pizzuto,Republican,4049,52.701,True,False
+142266,CT,Stephen R Ferrucci III,Democratic,3634,47.299,False,False
+142392,CT,T.R. Rowe,Republican,17712,100.0,False,False
+142316,CT,Joseph P. Gresko,Democratic,5315,73.83,True,False
+142316,CT,Rafael Irizarry,Republican,1884,26.17,False,False
+142435,CT,Jim Newton,Democratic,5772,62.085,False,False
+142435,CT,Suzanne Muller,Republican,3525,37.915,False,False
+142295,CT,Kai Juanna Belton,Democratic,5398,67.064,True,False
+142295,CT,Susan Manke,Republican,2651,32.936,False,False
+142421,CT,Victor J. Fetter,Democratic,1340,67.202,False,False
+142421,CT,Tracey Ohaus,Republican,654,32.798,False,False
+142466,CT,Robert Lessler,Democratic,2039,55.756,False,False
+142466,CT,Dori Wollen,Republican,1618,44.244,False,False
+142400,CT,David W. Hopper,Republican,14311,100.0,False,False
+142187,CT,Rob Blanchard,Democratic,27855,61.024,True,False
+142187,CT,Amybeth Laroche,Republican,17791,38.976,False,False
+142166,CT,David W. Kiner,Democratic,22113,55.432,True,False
+142166,CT,John A. Kissel,Republican,17779,44.568,False,False
+142477,CT,Betsy B. Butts,Democratic,1030,50.864,False,False
+142477,CT,Jackie C. Moore,Republican,995,49.136,False,False
+142337,CT,Lucy Dathan,Democratic,6167,67.821,True,False
+142337,CT,Don Mastronardi,Republican,2926,32.179,False,False
+142456,CT,Belinda Wiese,Republican,671,59.591,False,False
+142456,CT,Julia M. Stands,Democratic,455,40.409,False,False
+142195,CT,Jill Oberlander,Democratic,22896,54.963,True,False
+142195,CT,Joe Kelly,Republican,18761,45.037,False,False
+142506,CT,Jean Rabinow,Democratic,8694,55.989,False,False
+142506,CT,Tracy Vonick,Republican,6834,44.011,False,False
+142174,CT,Joan V. Hartley,Democratic,13988,67.435,True,False
+142174,CT,Ruben Rodriguez,Republican,6755,32.565,False,False
+142485,CT,Kevin McCauley,Democratic,11438,56.129,False,False
+142485,CT,Jolene Lusitani,Republican,8940,43.871,False,False
+142345,CT,Steve Meskers,Democratic,5136,62.489,True,False
+142345,CT,Jonathan Charles Goldstein,Republican,3083,37.511,False,False
+142464,CT,Mary-Jane Kenley,Democratic,8098,63.35,False,False
+142464,CT,Darren Lawler,Republican,4685,36.65,False,False
+142251,CT,Kevin Brown,Democratic,4992,65.997,True,False
+142251,CT,Andy Tedford,Republican,2572,34.003,False,False
+142230,CT,Cinzia Lettieri,Democratic,6511,55.898,True,False
+142230,CT,Chris Aniskovich,Republican,5137,44.102,False,False
+142356,CT,Paul R. Bedard,Democratic,15431,100.0,False,False
+142216,CT,Mike Demicco,Democratic,7129,65.747,True,False
+142216,CT,Gary Palumbo,Republican,3714,34.253,False,False
+142303,CT,Patrick Callahan,Republican,5258,51.083,True,False
+142303,CT,Anne Weisberg,Democratic,5035,48.917,False,False
+142193,CT,Brandi Mandato,Democratic,19549,50.333,True,False
+142193,CT,Paul Cicarella,Republican,19290,49.667,False,False
+142238,CT,Bill Heughins,Democratic,5920,54.267,True,False
+142238,CT,Greg Howard,Republican,4989,45.733,False,False
+142364,CT,Matt Jalowiec,Democratic,25755,100.0,False,False
+142224,CT,Kerry Szeps Wood,Democratic,6596,100.0,True,False
+142343,CT,Jonathan Jacobson,Democratic,4073,74.871,True,False
+142343,CT,Ensly Maizo,Republican,1367,25.129,False,False
+142354,CT,William C. Rivera,Democratic,14451,63.097,False,False
+142354,CT,"Paul Thomas Edwards, Sr.",Republican,8452,36.903,False,False
+142493,CT,Louise Sheedy,Democratic,5018,53.417,False,False
+142493,CT,Matthew R. Katra,Republican,4376,46.583,False,False
+142203,CT,Francis Lombard,Democratic,6100,52.768,True,False
+142203,CT,William Gifford,Republican,5460,47.232,False,False
+142280,CT,Samuel Carmody,Democratic,5065,58.265,True,False
+142280,CT,Tom Laffin,Republican,3628,41.735,False,False
+142406,CT,Brian J. Rayhill,Non Partisan,657,21.569,False,False
+142406,CT,Jan Raymond,Non Partisan,638,20.946,False,False
+142406,CT,Jean Hsu,Non Partisan,597,19.599,False,False
+142406,CT,Dan Coonan,Non Partisan,590,19.37,False,False
+142406,CT,Rolf C. Obin,Non Partisan,564,18.516,False,False
+142259,CT,Maria Horn,Democratic,8354,71.869,True,False
+142259,CT,Katelynn Borraiz,Republican,3270,28.131,False,False
+142309,CT,Mary Welander,Democratic,6180,61.249,True,False
+142309,CT,Brooke Hopkins,Republican,3910,38.751,False,False
+142428,CT,Nicole DeSardo,Democratic,5628,61.294,False,False
+142428,CT,Ashley Yuhas Perkins,Republican,3554,38.706,False,False
+142512,CT,Regan Allan,Democratic,0,,False,False
+142512,CT,Andy George,Democratic,0,,False,False
+142512,CT,Gabriela Koc,Democratic,0,,False,False
+142512,CT,Jose Tejeda,Republican,0,,False,False
+142222,CT,Gary Turco,Democratic,6677,100.0,True,False
+142201,CT,James Jimmy Sanchez,Democratic,3297,84.215,True,False
+142201,CT,Nicole CoCo Roscoe,Republican,618,15.785,False,False
+142180,CT,Carolann Reid,Democratic,21407,50.869,True,False
+142180,CT,Jason Perillo,Republican,20676,49.131,False,False
+142267,CT,Larry B. Butler,Democratic,2730,100.0,True,False
+142383,CT,Michael Dolan,Democratic,17050,100.0,False,False
+142470,CT,Carrie Goins,Republican,1642,50.214,False,False
+142470,CT,Amanda Shanks,Democratic,1628,49.786,False,False
+142362,CT,Ariana F. Ceneviva,Democratic,15331,100.0,False,False
+142257,CT,Kim Becker,Democratic,6103,50.164,False,False
+142257,CT,Mark W. Anderson,Republican,6063,49.836,False,False
+142412,CT,Luis Daniel Rodriguez,Democratic,3458,63.056,False,False
+142412,CT,Kimberly Desaulniers,Republican,1723,31.419,False,False
+142412,CT,Jessica Watson,Green,303,5.525,False,False
+142499,CT,Jillian A. Brimecombe,Democratic,9771,77.474,False,False
+142499,CT,Victoria Virgo-Christie,Republican,2841,22.526,False,False
+142391,CT,Steven Boa DeMoura,Democratic,16853,100.0,False,False
+142286,CT,Laurie Sweet,Democratic,6783,100.0,True,False
+142338,CT,Dominique Johnson,Democratic,6327,66.376,True,False
+142338,CT,Greg Helms,Republican,3205,33.624,False,False
+142265,CT,Seth Bronko,Republican,3847,52.44,True,False
+142265,CT,Jeff Litke,Democratic,3489,47.56,False,False
+142244,CT,Susan Johnson,Democratic,3951,70.465,True,False
+142244,CT,Brian Saucier,Republican,1656,29.535,False,False
+142447,CT,M. Jolene Bowers,Democratic,424,100.0,False,False
+142349,CT,Daniel N. Mara,Democratic,11725,63.654,False,False
+142349,CT,Mark E. Blackaby,Republican,6695,36.346,False,False
+142209,CT,Tom Delnicki,Republican,5236,52.255,True,False
+142209,CT,Harrison Amadasun,Democratic,4784,47.745,False,False
+142328,CT,Cristin McCarthy Vahey,Democratic,6282,66.972,True,False
+142328,CT,Lisa Miro,Republican,3098,33.028,False,False
+142476,CT,Sonia Chapman,Republican,2543,57.378,False,False
+142476,CT,Roz Chviek,Democratic,1889,42.622,False,False
+142186,CT,Pat Billie Miller,Democratic,20892,100.0,True,False
+142455,CT,Erick Ponkala,Republican,237,57.246,False,False
+142455,CT,Willard M. Paul,Democratic,177,42.754,False,False
+142165,CT,Rick Lopes,Democratic,15899,63.851,True,False
+142165,CT,Tremell Collins,Republican,9001,36.149,False,False
+142217,CT,Rebecca Martinez,Democratic,5398,55.455,True,False
+142217,CT,Richard Mette,Republican,4336,44.545,False,False
+142336,CT,Tracy Marra,Republican,6321,100.0,True,False
+142315,CT,Kaitlyn Shake,Democratic,6260,63.611,True,False
+142315,CT,Troy D. Gargiulo,Republican,3581,36.389,False,False
+142294,CT,Joe Zullo,Republican,4447,55.776,True,False
+142294,CT,Karen A. Martin,Democratic,3526,44.224,False,False
+142420,CT,Linda Caron,Democratic,492,51.844,False,False
+142420,CT,"Eugene V. Boomer, Jr.",Republican,457,48.156,False,False
+142273,CT,Joe Hoxha,Republican,4585,50.911,True,False
+142273,CT,Nate Brown,Democratic,4421,49.089,False,False
+142399,CT,"Gerald Fox, III",Democratic,29496,100.0,False,False
+87028,CT,Rosa DeLauro,Democratic,151261,61.207,True,False
+87028,CT,Christopher Lancia,Republican,87885,35.562,False,False
+87028,CT,Thomas Egan,Independent,7322,2.963,False,False
+87028,CT,Andrew Rice,Write-In,663,0.268,False,False
+87023,CT,Luke Bronin,Democratic,170482,67.279,True,False
+87023,CT,Amy Chai,Republican,78462,30.964,False,False
+87023,CT,Mary L. Sanders,Green,4435,1.75,False,False
+87023,CT,Mark Stewart Greenstein,Write-In,17,0.007,False,False
+87025,CT,Jahana Hayes,Democratic,146365,57.83,True,False
+87025,CT,Chris Shea,Republican,106670,42.146,False,False
+87025,CT,Jonathan DeBarros,Write-In,62,0.024,False,False
+87027,CT,Joe Courtney,Democratic,182381,62.446,True,False
+87027,CT,George Austin,Republican,109653,37.544,False,False
+87027,CT,Kyle Gauck,Write-In,30,0.01,False,False
+87024,CT,Jim Himes,Democratic,157485,65.581,True,False
+87024,CT,Michael Goldstein,Republican,78059,32.506,False,False
+87024,CT,Benjamin Wesley,Independent,4594,1.913,False,False

@@ -1,0 +1,2379 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+86941,AR,Yes,Nonpartisan,615022,70.769,False,False
+86941,AR,No,Nonpartisan,254034,29.231,False,False
+86939,AR,Leslie Rutledge,Republican,537115,63.849,True,False
+86939,AR,Michael Kalagias,Libertarian,304111,36.151,False,False
+159502,AR,Republican,Republican,543543,69.159,False,False
+159502,AR,Democratic,Democratic,226628,28.835,False,False
+159502,AR,Independent,Independent,8508,1.083,False,False
+159502,AR,Libertarian,Libertarian,7259,0.924,False,False
+86938,AR,Sarah Huckabee Sanders,Republican,477993,53.824,True,False
+86938,AR,Fredrick Love,Democratic,343053,38.629,False,False
+86938,AR,Colt Shelby,Libertarian,67024,7.547,False,False
+86934,AR,Tim Griffin,Republican,684315,100.0,True,False
+86943,AR,Dennis Milligan,Republican,673232,100.0,True,False
+86944,AR,John Thurston,Republican,681376,100.0,True,False
+86942,AR,Kim Hammer,Republican,491304,55.804,True,False
+86942,AR,Kelly Grappe,Democratic,348869,39.626,False,False
+86942,AR,Michael Pakko,Libertarian,40236,4.57,False,False
+86936,AR,Cole Jester,Republican,528086,64.035,True,False
+86936,AR,Chris Olson,Libertarian,296592,35.965,False,False
+86937,AR,No,Nonpartisan,432163,50.69,True,False
+86937,AR,Yes,Nonpartisan,420400,49.31,False,False
+86935,AR,Yes,Nonpartisan,598422,69.053,True,False
+86935,AR,No,Nonpartisan,268195,30.947,False,False
+86940,AR,Yes,Nonpartisan,475959,56.371,True,False
+86940,AR,No,Nonpartisan,368379,43.629,False,False
+159503,AR,Republican,Republican,262636,66.569,False,False
+159503,AR,Democratic,Democratic,123980,31.424,False,False
+159503,AR,Libertarian,Libertarian,7918,2.007,False,False
+162066,AR,Roseann Askeland,Democratic,908,54.831,False,False
+162066,AR,Rick Myers,Republican,748,45.169,False,False
+161518,AR,Yes,Nonpartisan,149,67.117,False,False
+161518,AR,No,Nonpartisan,73,32.883,False,False
+162057,AR,Samuel (Sam) Strain,Republican,1926,59.925,False,False
+162057,AR,Samantha Womack,Democratic,1288,40.075,False,False
+162117,AR,Rebekah L. Davis,Republican,5927,54.466,False,False
+162117,AR,Diana Thomas,Democratic,4955,45.534,False,False
+161960,AR,Sheri Thompson,Republican,2002,79.413,False,False
+161960,AR,Sarah Hope Wilson,Independent,519,20.587,False,False
+161227,AR,Jeffrey May,Nonpartisan,1646,100.0,False,False
+150202,AR,Bill Teeter,Republican,7589,100.0,True,False
+162018,AR,Beth Wilson,Republican,560,50.224,False,False
+162018,AR,Alexandra Lauryn Thomas,Democratic,555,49.776,False,False
+161285,AR,Jimmy Witt,Nonpartisan,492,68.619,False,False
+161285,AR,Kurt Spears,Nonpartisan,225,31.381,False,False
+150253,AR,Johnny Rye,Republican,3412,59.001,True,False
+150253,AR,Shamal C. Carter,Democratic,2371,40.999,False,False
+161188,AR,Randel Homsley,Independent,112,100.0,False,False
+161831,AR,Ed Winant,Nonpartisan,1289,58.037,False,False
+161831,AR,David Jankow,Nonpartisan,932,41.963,False,False
+162171,AR,Bao Nguyen,Nonpartisan,4172,53.881,False,False
+162171,AR,Laura Ramoly,Nonpartisan,3571,46.119,False,False
+161630,AR,Virgil L. Miller Jr.,Independent,5309,79.026,False,False
+161630,AR,Jeremiah Russell,Independent,1409,20.974,False,False
+161889,AR,Jana Chapman,Republican,2104,100.0,False,False
+162141,AR,Robert L. Stobaugh,Nonpartisan,3574,59.329,False,False
+162141,AR,Don DePriest,Nonpartisan,1661,27.573,False,False
+162141,AR,Bob Gordon,Nonpartisan,789,13.098,False,False
+150316,AR,Howard M. Beaty Jr.,Republican,6622,100.0,True,False
+162132,AR,Yes,Nonpartisan,1512,64.698,False,False
+162132,AR,No,Nonpartisan,825,35.302,False,False
+161975,AR,Shane M. Jones,Republican,877,74.511,False,False
+161975,AR,Mark Steven Fowler,Independent,300,25.489,False,False
+162042,AR,Andrew Daniels,Republican,229,53.132,False,False
+162042,AR,Susan Edens,Democratic,202,46.868,False,False
+161501,AR,Phyllis Beard,Nonpartisan,542,48.917,False,False
+161501,AR,Doug Jones,Nonpartisan,370,33.394,False,False
+161501,AR,Susan Wilkins,Nonpartisan,196,17.69,False,False
+161945,AR,Tony Waldrupe,Republican,3030,78.763,False,False
+161945,AR,Cody Turner,Independent,817,21.237,False,False
+161492,AR,Crystal Herrmann,Independent,450,76.401,False,False
+161492,AR,Paul Mitchell,Independent,139,23.599,False,False
+161936,AR,Neal Byrd,Democratic,3562,85.154,False,False
+161936,AR,Cliff Sanders IV,Independent,621,14.846,False,False
+161203,AR,Tim McComas,Nonpartisan,95,100.0,False,False
+161654,AR,Emilee Reach,Nonpartisan,1282,43.844,False,False
+161654,AR,Liz Estes,Nonpartisan,994,33.995,False,False
+161654,AR,Tonia Yost,Nonpartisan,648,22.161,False,False
+161906,AR,Myra J. Duke,Republican,3472,100.0,False,False
+161365,AR,Laura Nix,Nonpartisan,679,59.719,False,False
+161365,AR,Danny Jewell,Nonpartisan,458,40.281,False,False
+162096,AR,Steve Cline,Republican,1661,74.752,False,False
+162096,AR,Aaron Meadows,Democratic,561,25.248,False,False
+162156,AR,Yes,Nonpartisan,2630,63.711,False,False
+162156,AR,No,Nonpartisan,1498,36.289,False,False
+161007,AR,Kenneth Anders,Independent,104,100.0,False,False
+161685,AR,Lisa Dawson,Nonpartisan,43,81.132,False,False
+161685,AR,Christy Gorman-Over,Nonpartisan,10,18.868,False,False
+161225,AR,Charles Snapp,Nonpartisan,1144,100.0,False,False
+161484,AR,Roben K. Brooks,Nonpartisan,268,55.144,False,False
+161484,AR,David Owings,Nonpartisan,218,44.856,False,False
+161928,AR,Robert Akin,Independent,2897,58.62,False,False
+161928,AR,Michael L. Owens,Republican,2045,41.38,False,False
+161387,AR,Kristi Janes,Independent,99,54.396,False,False
+161387,AR,Sherri Edge,Independent,83,45.604,False,False
+161838,AR,Justin Cowgur,Nonpartisan,3004,54.292,False,False
+161838,AR,Allie Verdery,Nonpartisan,1409,25.465,False,False
+161838,AR,Katie Koscheski,Nonpartisan,1120,20.242,False,False
+161186,AR,Paul Keith,Nonpartisan,297,100.0,False,False
+161445,AR,Linda K. Weatherford,Independent,689,66.958,False,False
+161445,AR,Jared May,Independent,340,33.042,False,False
+161096,AR,Robert Jones,Nonpartisan,34,100.0,False,False
+162148,AR,Yes,Nonpartisan,1142,62.473,False,False
+162148,AR,No,Nonpartisan,686,37.527,False,False
+161991,AR,Jeff Beauchamp,Republican,937,68.394,False,False
+161991,AR,Maryhelen Rodriguez,Democratic,433,31.606,False,False
+162139,AR,No,Nonpartisan,1589,55.559,False,False
+162139,AR,Yes,Nonpartisan,1271,44.441,False,False
+161790,AR,Caleb Swears,Nonpartisan,437,71.522,False,False
+161790,AR,Andrew Silverman,Nonpartisan,174,28.478,False,False
+161057,AR,Terry Anders Jr,Independent,69,100.0,False,False
+162109,AR,Clint Newcomb,Republican,12719,61.938,False,False
+162109,AR,Steven Akins,Democratic,7816,38.062,False,False
+150284,AR,Dawn Creekmore,Republican,8299,100.0,True,False
+161499,AR,Nancy Webster,Independent,101,67.785,False,False
+161499,AR,Toria Jefferson,Independent,48,32.215,False,False
+161943,AR,Randy Morgan,Independent,1359,57.609,False,False
+161943,AR,John W Powell,Republican,1000,42.391,False,False
+161210,AR,Greg Murray,Nonpartisan,1029,100.0,False,False
+161469,AR,LaTisha Brunson,Democratic,1954,86.041,False,False
+161469,AR,John Fenley,Libertarian,317,13.959,False,False
+161913,AR,Myka Bono Sample,Republican,36381,100.0,False,False
+161460,AR,Michelle Sanders Dunbar,Independent,80,58.824,False,False
+161460,AR,Thomas Frazer,Independent,56,41.176,False,False
+161904,AR,Tonya Bass Allen,Republican,9276,100.0,False,False
+162163,AR,No,Nonpartisan,21729,50.985,False,False
+162163,AR,Yes,Nonpartisan,20889,49.015,False,False
+161814,AR,Hayley Hall,Nonpartisan,5989,63.862,False,False
+161814,AR,Andrew Brink,Nonpartisan,3389,36.138,False,False
+162073,AR,Kendall Beam,Republican,2503,79.159,False,False
+162073,AR,Chyloh Bartok,Democratic,659,20.841,False,False
+161333,AR,David B. Waldrip,Nonpartisan,41,54.667,False,False
+161333,AR,Mitchell Vondran,Nonpartisan,34,45.333,False,False
+162064,AR,David Coleman,Republican,395,75.382,False,False
+162064,AR,Angela Mashell Wilburn,Democratic,129,24.618,False,False
+162124,AR,Steven Baker,Democratic,2370,59.458,False,False
+162124,AR,Luke Heffron,Republican,1616,40.542,False,False
+161967,AR,Edward Griffin,Republican,1038,76.605,False,False
+161967,AR,Micha Johnson,Democratic,317,23.395,False,False
+161234,AR,Eric R. Brenkert,Nonpartisan,178,100.0,False,False
+161653,AR,Bill Adams II,Nonpartisan,2228,65.356,False,False
+161653,AR,Chris Moore,Nonpartisan,1181,34.644,False,False
+161385,AR,VerMarsha Stewart,Nonpartisan,165,60.44,False,False
+161385,AR,Erick Hinton,Nonpartisan,108,39.56,False,False
+161452,AR,Russell Truitt,Nonpartisan,169,54.87,False,False
+161452,AR,Mary Jo Morris,Nonpartisan,139,45.13,False,False
+162095,AR,Ralf Bailes JP District 5,Republican,1323,57.397,False,False
+162095,AR,Rona Bellinger,Democratic,982,42.603,False,False
+161355,AR,Earnestine McDaniel,Nonpartisan,41,56.944,False,False
+161355,AR,Larry Treat,Nonpartisan,31,43.056,False,False
+161006,AR,Kenneth D Jones,Nonpartisan,652,100.0,False,False
+162146,AR,Yes,Nonpartisan,61,79.221,False,False
+162146,AR,No,Nonpartisan,16,20.779,False,False
+161605,AR,James E Bolden III,Independent,3096,48.322,False,False
+161605,AR,Jeff Elmore,Independent,2384,37.209,False,False
+161605,AR,Kevin Cole,Independent,927,14.469,False,False
+162056,AR,Alex West,Republican,1019,72.218,False,False
+162056,AR,Tyler Adam Camp,Democratic,392,27.782,False,False
+162116,AR,"E. ""Curtis"" Hooks",Democratic,51645,76.127,False,False
+162116,AR,Frank Gilbert,Libertarian,16196,23.873,False,False
+161159,AR,Joseph L. Carlton,Independent,44,100.0,False,False
+162107,AR,Karen Crowson,Republican,4479,74.402,False,False
+162107,AR,Debra Fuller,Democratic,1541,25.598,False,False
+161758,AR,Sandy Boyette,Nonpartisan,192,58.359,False,False
+161758,AR,Tiffany Ball,Nonpartisan,137,41.641,False,False
+162017,AR,Arlis Jones,Republican,218,61.408,False,False
+162017,AR,Ricky Kilburn,Independent,137,38.592,False,False
+161284,AR,Kelli Souter,Nonpartisan,1395,57.196,False,False
+161284,AR,James (JJ Streets) Jefferson Jr,Nonpartisan,674,27.634,False,False
+161284,AR,Jeffrey Cheatham,Nonpartisan,370,15.17,False,False
+150252,AR,Mark W. Perry,Democratic,6316,100.0,True,False
+161467,AR,Deon Lee,Nonpartisan,218,87.55,False,False
+161467,AR,Shelby Pulliam,Nonpartisan,31,12.45,False,False
+161911,AR,Jack W. Young,Republican,101,100.0,False,False
+161911,AR,Walter Hawkins,Democratic,0,0.0,False,False
+162170,AR,Denise Walker,Nonpartisan,188,52.222,False,False
+162170,AR,Eric Gonzales,Nonpartisan,172,47.778,False,False
+161629,AR,Yes,Nonpartisan,2707,72.052,False,False
+161629,AR,No,Nonpartisan,1050,27.948,False,False
+161088,AR,Tim Kilby,Nonpartisan,39,100.0,False,False
+161620,AR,Blake Pennington,Nonpartisan,16920,67.218,False,False
+161620,AR,DJ Deutch,Nonpartisan,8252,32.782,False,False
+162071,AR,Jamie Busby,Republican,373,67.207,False,False
+162071,AR,Bobbie Fingers,Democratic,182,32.793,False,False
+162131,AR,Yes,Nonpartisan,1611,67.041,False,False
+162131,AR,No,Nonpartisan,792,32.959,False,False
+150306,AR,Bart Schulz,Republican,7635,100.0,True,False
+161241,AR,Stephanie White,Nonpartisan,88,100.0,False,False
+161232,AR,Michael Sweeten,Nonpartisan,58,100.0,False,False
+161491,AR,Marcia Vestal,Independent,87,67.969,False,False
+161491,AR,Garrett Moyers,Independent,41,32.031,False,False
+161935,AR,Jimmy Ray Evans,Republican,152,58.915,False,False
+161935,AR,Melissa Bass,Independent,106,41.085,False,False
+161394,AR,Bobby L. Keen,Nonpartisan,211,53.827,False,False
+161394,AR,Amanda Austin,Nonpartisan,134,34.184,False,False
+161394,AR,Trey Jackson,Nonpartisan,47,11.99,False,False
+161612,AR,Yes,Nonpartisan,477,63.77,False,False
+161612,AR,No,Nonpartisan,271,36.23,False,False
+162063,AR,Kirk Brinkley,Republican,937,80.776,False,False
+162063,AR,Judy S. Gibson,Democratic,223,19.224,False,False
+161323,AR,Tanya L. White,Independent,657,50.734,False,False
+161323,AR,Danny Pevy,Independent,638,49.266,False,False
+161966,AR,Kevin Arnold,Republican,1330,84.606,False,False
+161966,AR,William M. Honea,Democratic,242,15.394,False,False
+162114,AR,No,Nonpartisan,5825,51.981,False,False
+162114,AR,Yes,Nonpartisan,5381,48.019,False,False
+161765,AR,Casey Moore,Nonpartisan,3382,52.935,False,False
+161765,AR,Mary Friddle,Nonpartisan,3007,47.065,False,False
+161224,AR,Lawrence Barnes,Independent,34,100.0,False,False
+161483,AR,Malcom Massey,Independent,754,80.728,False,False
+161483,AR,Ollie L. Reddick Jr.,Independent,180,19.272,False,False
+161127,AR,Juanita Granier,Nonpartisan,22,100.0,False,False
+161282,AR,Amanda Farris,Nonpartisan,582,65.174,False,False
+161282,AR,Andrew Hubble,Nonpartisan,311,34.826,False,False
+161726,AR,Donnie Pugh,Independent,232,64.266,False,False
+161726,AR,Jacqueline Bausley,Independent,129,35.734,False,False
+161185,AR,Jeff Coley,Nonpartisan,20,100.0,False,False
+161444,AR,Mark Ferrell,Nonpartisan,10079,59.912,False,False
+161444,AR,Austin Sullivan,Nonpartisan,6744,40.088,False,False
+161095,AR,William Russell Saddler III,Nonpartisan,395,100.0,False,False
+161627,AR,Jeannie Varnell,Nonpartisan,71,50.714,False,False
+161627,AR,Nanette M. Barnes,Nonpartisan,69,49.286,False,False
+161886,AR,Alice F. Smith,Republican,1681,100.0,False,False
+162138,AR,Yes,Nonpartisan,698,51.211,False,False
+162138,AR,No,Nonpartisan,665,48.789,False,False
+161789,AR,Christopher J Hays,Nonpartisan,82,64.062,False,False
+161789,AR,Latonya McElroy,Nonpartisan,46,35.938,False,False
+162048,AR,David Wilson,Republican,2125,50.68,False,False
+162048,AR,Faith Laukon,Democratic,2068,49.32,False,False
+161780,AR,Kenneth Harris,Democratic,81,64.286,False,False
+161780,AR,John L Hicks,Independent,45,35.714,False,False
+161239,AR,Ronnie Johnson,Independent,16,100.0,False,False
+161498,AR,Thurnell Green,Nonpartisan,101,59.763,False,False
+161498,AR,Stephen Hiller,Nonpartisan,68,40.237,False,False
+150274,AR,Jessie McGruder,Democratic,12116,64.008,True,False
+150274,AR,Kenny Phillips,Republican,6813,35.992,False,False
+161401,AR,Michael Carey,Nonpartisan,463,58.312,False,False
+161401,AR,Aaron Borey,Nonpartisan,331,41.688,False,False
+161741,AR,Casie Cenobio,Nonpartisan,227,53.412,False,False
+161741,AR,Jerry D. Carlton,Nonpartisan,198,46.588,False,False
+161392,AR,Steve Holifield,Nonpartisan,472,48.71,False,False
+161392,AR,Robert 'Butch' Berry,Nonpartisan,272,28.07,False,False
+161392,AR,Susan Harman,Nonpartisan,225,23.22,False,False
+161459,AR,Jaden McFall,Nonpartisan,59,55.14,False,False
+161459,AR,Tasha Robins,Nonpartisan,48,44.86,False,False
+161903,AR,Gladys Ferguson Nettles,Democratic,5375,100.0,False,False
+161362,AR,Justin Horstkemp,Nonpartisan,107,52.709,False,False
+161362,AR,Mitchell Pate,Nonpartisan,96,47.291,False,False
+161813,AR,Sarah Moore,Nonpartisan,2692,60.197,False,False
+161813,AR,John Coleman,Nonpartisan,1780,39.803,False,False
+161353,AR,Chris Aaron,Independent,49,72.059,False,False
+161353,AR,Mark C. Bennett,Independent,19,27.941,False,False
+161231,AR,Garry G. Hahne,Nonpartisan,104,100.0,False,False
+161682,AR,Steve Card,Nonpartisan,492,74.433,False,False
+161682,AR,Florence Nunn Meadors,Nonpartisan,169,25.567,False,False
+161934,AR,Lyn Jones,Republican,285,50.712,False,False
+161934,AR,Joyce Koch,Democratic,277,49.288,False,False
+161481,AR,Sidney T. Prackett,Nonpartisan,81,77.143,False,False
+161481,AR,Lejuan Embery,Nonpartisan,24,22.857,False,False
+161733,AR,Larry A. Howe,Independent,56,70.0,False,False
+161733,AR,Roxie L. Ellis,Independent,24,30.0,False,False
+161384,AR,Mitch Magness,Nonpartisan,1863,51.693,False,False
+161384,AR,Jason Watts,Nonpartisan,1115,30.938,False,False
+161384,AR,Rhonda Watkins,Nonpartisan,626,17.37,False,False
+161643,AR,Mary Jo Heye-Townsell,Independent,6101,50.074,False,False
+161643,AR,Mike Willingham,Independent,3224,26.461,False,False
+161643,AR,Nara Smith,Independent,1478,12.131,False,False
+161643,AR,Jay Bir,Independent,1381,11.335,False,False
+162094,AR,Doug Formon,Republican,1486,57.419,False,False
+162094,AR,Matt Redmon,Democratic,1102,42.581,False,False
+161442,AR,Jennifer Short,Independent,34,72.34,False,False
+161442,AR,Robert Floyd,Independent,13,27.66,False,False
+150225,AR,Sonia E. Barker,Republican,6020,100.0,True,False
+162145,AR,No,Nonpartisan,2095,64.621,False,False
+162145,AR,Yes,Nonpartisan,1147,35.379,False,False
+161604,AR,Creed Carter,Nonpartisan,47,52.222,False,False
+161604,AR,Ronald Munnerlyn,Nonpartisan,43,47.778,False,False
+162055,AR,Blake Walker,Democratic,486,55.991,False,False
+162055,AR,Barry Wayne Forrest,Republican,382,44.009,False,False
+161787,AR,Robert Ballard,Independent,274,50.368,False,False
+161787,AR,Jerred Price,Independent,270,49.632,False,False
+161054,AR,Mark Manchester,Nonpartisan,331,100.0,False,False
+162106,AR,Alan Floyd,Republican,1497,64.332,False,False
+162106,AR,Jason Braziel,Independent,830,35.668,False,False
+161757,AR,Corey Spangler,Nonpartisan,3648,55.635,False,False
+161757,AR,Dwayne Roper,Nonpartisan,2909,44.365,False,False
+161216,AR,Shane Raltston,Nonpartisan,70,100.0,False,False
+161748,AR,Luis Diaz,Nonpartisan,246,57.077,False,False
+161748,AR,Carroll Smith,Nonpartisan,185,42.923,False,False
+161399,AR,Jimmy Robinson Sr.,Nonpartisan,126,43.599,False,False
+161399,AR,Diane Patterson,Nonpartisan,95,32.872,False,False
+161399,AR,Tammy White,Nonpartisan,68,23.529,False,False
+161466,AR,Lasonya Key-Rogers,Nonpartisan,59,47.581,False,False
+161466,AR,Sandra Holloway,Nonpartisan,33,26.613,False,False
+161466,AR,Kenneth Cross,Nonpartisan,32,25.806,False,False
+150242,AR,Jacob Allen,Democratic,5946,50.925,True,False
+150242,AR,Mindy McAlindon,Republican,5730,49.075,False,False
+161369,AR,Jada Riley,Independent,23,56.098,False,False
+161369,AR,David Spruell,Independent,18,43.902,False,False
+161709,AR,Danny Lee Seal,Nonpartisan,51,69.863,False,False
+161709,AR,Jennifer Pence,Nonpartisan,22,30.137,False,False
+161360,AR,Jennifer Burton,Nonpartisan,163,58.845,False,False
+161360,AR,Eddie Gooden,Nonpartisan,114,41.155,False,False
+161619,AR,Yes,Nonpartisan,543,72.594,False,False
+161619,AR,No,Nonpartisan,205,27.406,False,False
+161078,AR,Jason Akers,Independent,1858,100.0,False,False
+161330,AR,Kent Smith,Independent,87,81.308,False,False
+161330,AR,Stephanie Jones,Independent,20,18.692,False,False
+150305,AR,Rodney Wright,Republican,17112,58.543,True,False
+150305,AR,Joshua Irby,Democratic,12118,41.457,False,False
+161321,AR,Boyd Farmer,Nonpartisan,129,51.807,False,False
+161321,AR,Buddy Black,Nonpartisan,120,48.193,False,False
+161772,AR,Todd Smith,Nonpartisan,594,81.931,False,False
+161772,AR,Teddy Lindholme,Nonpartisan,131,18.069,False,False
+161650,AR,Cheryl Ann Tillman,Nonpartisan,112,81.752,False,False
+161650,AR,Shane Gordon,Nonpartisan,25,18.248,False,False
+161902,AR,Kristin N. Christmas,Democratic,2472,100.0,False,False
+161641,AR,Rebecca French,Independent,4519,63.0,False,False
+161641,AR,Tina Timmons,Independent,2654,37.0,False,False
+161900,AR,White County Circuit Clerk Sara Carlton,Republican,19643,100.0,False,False
+161352,AR,Ethan J. Barnes,Independent,180,56.426,False,False
+161352,AR,Ginni Kauffman,Independent,139,43.574,False,False
+161803,AR,David Morris,Independent,984,70.036,False,False
+161803,AR,Ryland Lauen,Independent,421,29.964,False,False
+162062,AR,Conley Byrd,Republican,1004,67.337,False,False
+162062,AR,Greg Moody,Democratic,487,32.663,False,False
+161602,AR,Yes,Nonpartisan,1000,50.787,False,False
+161602,AR,No,Nonpartisan,969,49.213,False,False
+161861,AR,Alisa Black,Republican,4851,100.0,False,False
+162113,AR,Wendell Griffen,Democratic,84418,65.526,False,False
+162113,AR,Michael Rushin,Republican,44414,34.474,False,False
+161764,AR,James Rogers,Independent,331,50.767,False,False
+161764,AR,Shirley Middlebrook Marshall,Independent,321,49.233,False,False
+161223,AR,Timothy Mark Tyler,Independent,41,100.0,False,False
+161755,AR,Larry Shingleur Sr,Nonpartisan,364,44.608,False,False
+161755,AR,Sheila Hunt,Nonpartisan,300,36.765,False,False
+161755,AR,Daniel Reddell,Nonpartisan,152,18.627,False,False
+162014,AR,Billy Ray Bates,Democratic,1677,58.904,False,False
+162014,AR,Jamie Evans,Republican,1170,41.096,False,False
+161281,AR,Bradley Pistol Scheffler,Nonpartisan,479,51.672,False,False
+161281,AR,Mike Eason,Nonpartisan,448,48.328,False,False
+161725,AR,Shira C. Fouste,Nonpartisan,648,71.523,False,False
+161725,AR,"Harold ""Harry"" Meyer",Nonpartisan,258,28.477,False,False
+162176,AR,Yes,Nonpartisan,2051,60.824,False,False
+162176,AR,No,Nonpartisan,1321,39.176,False,False
+161716,AR,Jessica Cavaness,Nonpartisan,41,56.944,False,False
+161716,AR,Richard Wible,Nonpartisan,31,43.056,False,False
+161367,AR,Raymond Watson,Independent,62,64.583,False,False
+161367,AR,Jackie Adcock,Independent,34,35.417,False,False
+161626,AR,Frank Scott Jr.,Independent,38830,60.373,False,False
+161626,AR,Little Rock City Director B.J. Brenda Wyrick,Independent,25487,39.627,False,False
+161885,AR,Desheal Carter,Democratic,8867,100.0,False,False
+161337,AR,Tameka Casey,Independent,341,44.286,False,False
+161337,AR,Sarah Lewis Rollins,Independent,303,39.351,False,False
+161337,AR,Tammy M. Reynolds,Independent,126,16.364,False,False
+161876,AR,Tamekia Franklin,Democratic,3668,100.0,False,False
+161328,AR,Gary Pemberton,Nonpartisan,37,75.51,False,False
+161328,AR,John Stringfellow,Nonpartisan,12,24.49,False,False
+161779,AR,Keith M. Baker,Independent,249,71.143,False,False
+161779,AR,Heath Guinn,Independent,101,28.857,False,False
+162038,AR,Doug Kennedy,Republican,790,66.723,False,False
+162038,AR,Preston Bradley Dean,Independent,394,33.277,False,False
+161689,AR,Finis Brewer,Nonpartisan,247,71.387,False,False
+161689,AR,Orven Phillips,Nonpartisan,99,28.613,False,False
+150273,AR,Andrew Collins,Democratic,10375,100.0,True,False
+161680,AR,Kathy Robertson,Nonpartisan,90,58.824,False,False
+161680,AR,Jennifer Archer,Nonpartisan,63,41.176,False,False
+161740,AR,Christopher D. Akins,Independent,291,52.338,False,False
+161740,AR,Stephanie Smith,Independent,265,47.662,False,False
+161391,AR,Latoya Harris,Independent,1147,52.065,False,False
+161391,AR,Onika Shirley,Independent,597,27.099,False,False
+161391,AR,Adrian C. Messina,Independent,459,20.835,False,False
+161077,AR,Jacob Glidewell,Nonpartisan,190,100.0,False,False
+161801,AR,Mike Jones,Nonpartisan,103,80.469,False,False
+161801,AR,Jonathan Tullos,Nonpartisan,25,19.531,False,False
+161868,AR,Lauren Abney,Republican,3277,100.0,False,False
+161320,AR,Tonya Smith,Nonpartisan,66,74.157,False,False
+161320,AR,Jessi Miller,Nonpartisan,13,14.607,False,False
+161320,AR,Joshua Barker,Nonpartisan,10,11.236,False,False
+150295,AR,Wade Andrews,Republican,6359,100.0,True,False
+161230,AR,Robert A. Evans,Independent,47,100.0,False,False
+161762,AR,John Chenowith,Nonpartisan,469,56.711,False,False
+161762,AR,Steve Williamson,Nonpartisan,358,43.289,False,False
+161029,AR,Cain W. Nattin,Nonpartisan,1170,100.0,False,False
+161480,AR,Shelia Isby,Nonpartisan,8171,48.338,False,False
+161480,AR,Ken Ashley-Pauley,Nonpartisan,5121,30.295,False,False
+161480,AR,Rickey Gulley,Nonpartisan,3612,21.368,False,False
+161732,AR,Van Page,Independent,87,69.048,False,False
+161732,AR,Edward Henson,Independent,39,30.952,False,False
+161575,AR,Jennifer Massey,Nonpartisan,455,65.0,False,False
+161575,AR,Taryn Clement,Nonpartisan,245,35.0,False,False
+161723,AR,Gerelisa Swanigan,Independent,151,59.449,False,False
+161723,AR,Lisa Portwood,Independent,103,40.551,False,False
+161182,AR,Freddie Lee Teague,Nonpartisan,5776,100.0,False,False
+161441,AR,Nikkie Moore,Independent,202,52.742,False,False
+161441,AR,James H. Miller,Independent,181,47.258,False,False
+150224,AR,Audrey P. Willis,Democratic,4231,57.714,True,False
+150224,AR,Robert Thorne Jr.,Republican,3100,42.286,False,False
+162144,AR,Shawntill Puryear,Republican,10848,51.942,False,False
+162144,AR,Michael John Belzner,Democratic,10037,48.058,False,False
+161883,AR,Jacob Palmer,Nonpartisan,4756,100.0,False,False
+161335,AR,Joe Hoen,Independent,110,57.592,False,False
+161335,AR,Susan Berruquin,Democratic,81,42.408,False,False
+161786,AR,Jason Stewart,Nonpartisan,218,51.781,False,False
+161786,AR,Matthew Miller,Nonpartisan,203,48.219,False,False
+161053,AR,Ryan Dawson,Nonpartisan,51,100.0,False,False
+161305,AR,Danny Busch,Independent,142,62.555,False,False
+161305,AR,M. June Grant,Independent,85,37.445,False,False
+161044,AR,Johnny McAnally,Independent,119,100.0,False,False
+161687,AR,Jason Blangy,Nonpartisan,226,55.122,False,False
+161687,AR,Don Jenkins,Independent,184,44.878,False,False
+161747,AR,Robin Hawkins Cook,Independent,294,53.358,False,False
+161747,AR,Jacqueline Adams,Independent,257,46.642,False,False
+161206,AR,J'Anna Couch,Nonpartisan,682,100.0,False,False
+161657,AR,Yes,Nonpartisan,14646,74.504,False,False
+161657,AR,No,Nonpartisan,5012,25.496,False,False
+150241,AR,Joey L. Carr,Republican,2949,51.974,True,False
+150241,AR,Michael Middlebrook,Democratic,2725,48.026,False,False
+161648,AR,David Johnson,Nonpartisan,166,57.241,False,False
+161648,AR,Cody Tosta,Nonpartisan,74,25.517,False,False
+161648,AR,Guy Wakefield,Nonpartisan,50,17.241,False,False
+161708,AR,Warren Johnson,Independent,558,77.933,False,False
+161708,AR,Neil A. Wilkins Jr.,Independent,158,22.067,False,False
+161359,AR,Catherine Conlin Duvall,Independent,215,55.128,False,False
+161359,AR,Cedric Finley,Independent,175,44.872,False,False
+161810,AR,Susan Davitt,Independent,2769,48.165,False,False
+161810,AR,Berlinda Helms,Independent,1925,33.484,False,False
+161810,AR,Kara Woller,Independent,1055,18.351,False,False
+161036,AR,Ronald D. Springston,Nonpartisan,19,100.0,False,False
+161679,AR,Eric C. Harrison,Nonpartisan,636,52.605,False,False
+161679,AR,Madi Smith,Nonpartisan,573,47.395,False,False
+150263,AR,Ashley Hudson,Democratic,7606,61.657,True,False
+150263,AR,Hunter Sadler,Republican,4730,38.343,False,False
+161390,AR,Mike Mead,Independent,122,57.009,False,False
+161390,AR,Travis Rains,Independent,92,42.991,False,False
+161730,AR,Diane Dewailly,Nonpartisan,257,52.556,False,False
+161730,AR,Taryn Scott,Nonpartisan,232,47.444,False,False
+161989,AR,Judy Wilson,Republican,269,51.434,False,False
+161989,AR,Eric Darden,Independent,254,48.566,False,False
+161640,AR,Robin Michael Beach,Nonpartisan,320,53.245,False,False
+161640,AR,Jim Renfrow,Nonpartisan,281,46.755,False,False
+161899,AR,"Joseph ""Joey"" Burnett",Republican,3718,100.0,False,False
+161543,AR,Sherrel Bennett,Independent,47,55.952,False,False
+161543,AR,Steven Lassiter,Independent,37,44.048,False,False
+150222,AR,Allison Grigsby Sweatman,Democratic,18175,53.061,True,False
+150222,AR,Brandon Achor,Republican,16078,46.939,False,False
+161150,AR,Jason Turner,Independent,46,100.0,False,False
+161601,AR,Stacey McMinn,Nonpartisan,901,66.348,False,False
+161601,AR,Art Brooke,Nonpartisan,320,23.564,False,False
+161601,AR,Steven Ocker,Nonpartisan,137,10.088,False,False
+161860,AR,Brandy Herring,Republican,2186,100.0,False,False
+162112,AR,No,Nonpartisan,2855,65.034,False,False
+162112,AR,Yes,Nonpartisan,1535,34.966,False,False
+161051,AR,Jeff Brown,Nonpartisan,637,100.0,False,False
+161303,AR,Matthew Cathey,Independent,59,59.0,False,False
+161303,AR,Clare Mae Ortiz,Independent,26,26.0,False,False
+161303,AR,Karla Ramos,Independent,15,15.0,False,False
+161754,AR,Cleo Johnson Jr.,Nonpartisan,255,53.236,False,False
+161754,AR,Jessie L Dean,Nonpartisan,224,46.764,False,False
+162013,AR,William Chesser,Democratic,40323,53.855,False,False
+162013,AR,Hayden Hill,Republican,34550,46.145,False,False
+161472,AR,Kenneth R. Daniels,Independent,629,62.401,False,False
+161472,AR,Lonzell Dodds,Independent,379,37.599,False,False
+162004,AR,John Reeder Raulerson,Republican,208,51.485,False,False
+162004,AR,Juanita Jackson,Democratic,196,48.515,False,False
+161655,AR,Nathan See,Nonpartisan,2553,81.906,False,False
+161655,AR,Charles 'Tony' Eakins,Nonpartisan,564,18.094,False,False
+161715,AR,Charles Meeker,Nonpartisan,390,50.914,False,False
+161715,AR,Rodney Cline,Nonpartisan,376,49.086,False,False
+162166,AR,Yes,Nonpartisan,118,80.272,False,False
+162166,AR,No,Nonpartisan,29,19.728,False,False
+161817,AR,Linda Lloyd,Nonpartisan,7196,54.702,False,False
+161817,AR,Jerry Snow,Nonpartisan,5959,45.298,False,False
+161808,AR,Jason Stout,Nonpartisan,730,64.831,False,False
+161808,AR,Tom Langton,Nonpartisan,396,35.169,False,False
+161875,AR,Dana Phillips,Nonpartisan,1631,100.0,False,False
+161327,AR,Robert Cheek,Independent,260,36.568,False,False
+161327,AR,Charles E. Coleman,Independent,160,22.504,False,False
+161327,AR,Bruce Hudson,Independent,148,20.816,False,False
+161327,AR,J.T. White,Independent,143,20.113,False,False
+150302,AR,Paul Childress,Republican,12167,100.0,True,False
+162037,AR,Jolene Mullet,Democratic,1090,52.053,False,False
+162037,AR,Brad Noel,Republican,1004,47.947,False,False
+150293,AR,John Maddox,Republican,7771,100.0,True,False
+161647,AR,Yes,Nonpartisan,700,73.529,False,False
+161647,AR,No,Nonpartisan,252,26.471,False,False
+150231,AR,Aaron M. Pilkington,Republican,5259,63.784,True,False
+150231,AR,Debra Hobbs,Independent,2986,36.216,False,False
+161358,AR,Ashley Seward,Nonpartisan,395,51.769,False,False
+161358,AR,Susan Stevens,Nonpartisan,368,48.231,False,False
+161897,AR,Monica King,Republican,5936,100.0,False,False
+161157,AR,Charles Ed Dukes,Independent,152,100.0,False,False
+161800,AR,Mike Smith,Independent,94,69.118,False,False
+161800,AR,Joey Jackson,Independent,42,30.882,False,False
+161067,AR,David Green,Independent,432,100.0,False,False
+161511,AR,Lee Guest,Independent,141,54.864,False,False
+161511,AR,Deborah Scaife,Independent,116,45.136,False,False
+161858,AR,Cassie Toliver,Republican,1765,100.0,False,False
+161118,AR,Jerry Boen,Independent,339,100.0,False,False
+161761,AR,David Conley,Independent,230,64.426,False,False
+161761,AR,David Blue,Independent,127,35.574,False,False
+161028,AR,Shelia Jackson,Nonpartisan,6,100.0,False,False
+161479,AR,No,Nonpartisan,38,51.351,False,False
+161479,AR,Yes,Nonpartisan,36,48.649,False,False
+162011,AR,Mike Verkler,Republican,14863,67.266,False,False
+162011,AR,Toby Troutman,Independent,7233,32.734,False,False
+161278,AR,Trey Baker,Nonpartisan,62,54.386,False,False
+161278,AR,Ottis P. Otwell,Nonpartisan,52,45.614,False,False
+161722,AR,Dakota Burks,Independent,1120,64.965,False,False
+161722,AR,Chris Cossey,Independent,604,35.035,False,False
+161181,AR,John L. Wilson,Nonpartisan,38,100.0,False,False
+161632,AR,Yes,Nonpartisan,2715,72.227,False,False
+161632,AR,No,Nonpartisan,1044,27.773,False,False
+161172,AR,Rebecca Ann Brown,Nonpartisan,17,100.0,False,False
+161815,AR,Yes,Nonpartisan,14322,70.954,False,False
+161815,AR,No,Nonpartisan,5863,29.046,False,False
+161882,AR,Michele Tomlinson,Republican,3082,100.0,False,False
+162134,AR,Yes,Nonpartisan,761,50.565,False,False
+162134,AR,No,Nonpartisan,744,49.435,False,False
+150309,AR,Steve Hollowell,Republican,6267,100.0,True,False
+161133,AR,Ray Bowman,Independent,988,100.0,False,False
+150300,AR,Ricky Hill,Republican,21195,100.0,True,False
+161043,AR,Daniel Rogers,Nonpartisan,678,100.0,False,False
+161494,AR,Hayward Shaw Jr,Nonpartisan,57,54.286,False,False
+161494,AR,Patricia Henderson,Nonpartisan,48,45.714,False,False
+150270,AR,Josh Longmire,Republican,6508,100.0,True,False
+161205,AR,Carolyne Blissett,Independent,68,100.0,False,False
+150261,AR,Mike Bishop,Republican,8162,100.0,True,False
+161996,AR,Jackie Heflin,Republican,1188,78.158,False,False
+161996,AR,Lesly Dunn,Democratic,332,21.842,False,False
+161074,AR,Sarah Morgan,Independent,42,100.0,False,False
+161326,AR,Steve Ditto,Nonpartisan,279,63.991,False,False
+161326,AR,Tim Taylor,Nonpartisan,157,36.009,False,False
+161065,AR,Lil Rick Hudson,Nonpartisan,52,100.0,False,False
+161125,AR,Donna Robertson,Nonpartisan,40,100.0,False,False
+150292,AR,Max Deitchler,Democratic,8980,100.0,True,False
+162027,AR,Craig Kaminicki,Republican,384,54.701,False,False
+162027,AR,Joe Williams Jr.,Independent,318,45.299,False,False
+161678,AR,Tia Wesson,Nonpartisan,304,71.362,False,False
+161678,AR,Christina Jermany,Nonpartisan,122,28.638,False,False
+161026,AR,Rick Shirron,Republican,243,100.0,False,False
+162085,AR,David Tennison,Republican,933,55.47,False,False
+162085,AR,Jarrod Allen Stroud,Democratic,749,44.53,False,False
+161729,AR,Robert Simmons,Nonpartisan,166,42.455,False,False
+161729,AR,Michael Fouts,Nonpartisan,138,35.294,False,False
+161729,AR,Ben Frost,Nonpartisan,87,22.251,False,False
+161988,AR,Ruby C. Dillion,Republican,2378,59.869,False,False
+161988,AR,Carol Cloud Jacobs,Independent,1594,40.131,False,False
+161639,AR,Caleb Norris,Independent,4900,61.258,False,False
+161639,AR,Neil Allen,Independent,3099,38.742,False,False
+161179,AR,Tim Hobbs,Nonpartisan,15,100.0,False,False
+161438,AR,Mark Jorgensen,Nonpartisan,258,60.422,False,False
+161438,AR,Janell Compton,Nonpartisan,169,39.578,False,False
+150221,AR,Mary Bentley,Republican,6325,63.498,True,False
+150221,AR,Doug Corbitt,Democratic,3636,36.502,False,False
+161149,AR,Dwain Melvin,Nonpartisan,26,100.0,False,False
+161792,AR,Kelly Cleveland,Independent,45,54.217,False,False
+161792,AR,Garry Maxey,Independent,38,45.783,False,False
+161140,AR,Brian Reynolds,Independent,47,100.0,False,False
+150307,AR,Lincoln Barnett,Democratic,4726,100.0,True,False
+161050,AR,Robert Markham,Nonpartisan,56,100.0,False,False
+162102,AR,Jeff McGinnis,Republican,1460,65.974,False,False
+162102,AR,David Chadwick,Democratic,753,34.026,False,False
+150277,AR,Zack Gramlich,Republican,4281,56.515,True,False
+150277,AR,Wendy Peer,Democratic,3294,43.485,False,False
+161300,AR,Trey Taylor,Nonpartisan,289,51.699,False,False
+161300,AR,Brandon Taylor,Nonpartisan,270,48.301,False,False
+150268,AR,David Whitaker,Democratic,6638,100.0,True,False
+162003,AR,Jeff Wahls,Republican,311,62.325,False,False
+162003,AR,Walter L Deshazo,Independent,188,37.675,False,False
+161462,AR,Yes,Nonpartisan,476,61.899,False,False
+161462,AR,No,Nonpartisan,293,38.101,False,False
+150238,AR,Steve Magie,Democratic,5162,60.865,True,False
+150238,AR,Mark Brannan,Republican,3319,39.135,False,False
+162165,AR,Yes,Nonpartisan,1228,53.229,False,False
+162165,AR,No,Nonpartisan,1079,46.771,False,False
+150229,AR,Andrew Cade Eberly,Democratic,5886,55.639,True,False
+150229,AR,Karilyn Brown,Republican,4693,44.361,False,False
+161164,AR,Jeremy Allen,Nonpartisan,22,100.0,False,False
+161807,AR,Kevin McCleary,Independent,3290,58.603,False,False
+161807,AR,Brian Blevins,Independent,2324,41.397,False,False
+162034,AR,Darrin Hardy,Republican,431,59.944,False,False
+162034,AR,Georgia Sherman,Democratic,288,40.056,False,False
+161493,AR,AJ Regester,Nonpartisan,1763,50.4,False,False
+161493,AR,Phillip Demond Fletcher,Nonpartisan,1735,49.6,False,False
+162025,AR,Kellie Matt,Republican,553,70.0,False,False
+162025,AR,David Robinette,Democratic,237,30.0,False,False
+161292,AR,Keith Futrell,Nonpartisan,635,44.561,False,False
+161292,AR,Danny Swann,Nonpartisan,367,25.754,False,False
+161292,AR,Aaron Winebaugh,Nonpartisan,335,23.509,False,False
+161292,AR,Justin Jones,Nonpartisan,88,6.175,False,False
+150260,AR,Steven Person,Democratic,7517,100.0,True,False
+161195,AR,Eddie Dunigan,Nonpartisan,36,100.0,False,False
+161646,AR,No,Nonpartisan,621,57.767,False,False
+161646,AR,Yes,Nonpartisan,454,42.233,False,False
+161986,AR,Chris Lowery,Independent,8522,50.681,False,False
+161986,AR,Lafayette Woods Jr.,Democratic,8293,49.319,False,False
+161253,AR,Becton Bell,Independent,149,100.0,False,False
+161896,AR,Barbara Metzger Hackney,Republican,2913,100.0,False,False
+161156,AR,Edwin Price,Nonpartisan,241,100.0,False,False
+161799,AR,David Schwarz,Nonpartisan,102,53.125,False,False
+161799,AR,Chase Kagen,Nonpartisan,90,46.875,False,False
+161147,AR,Cale Thompson,Nonpartisan,81,100.0,False,False
+161598,AR,Charles Edward Webster,Nonpartisan,97,65.986,False,False
+161598,AR,Cassius Moore,Nonpartisan,30,20.408,False,False
+161598,AR,Dorothy Dyson Cooper,Nonpartisan,20,13.605,False,False
+161857,AR,Josephine Taylor-Griffin,Democratic,2707,100.0,False,False
+161117,AR,David Hardke,Independent,293,100.0,False,False
+161760,AR,Zachary Highfill,Nonpartisan,292,61.996,False,False
+161760,AR,"Bryant ""Bear"" Lacefield",Nonpartisan,179,38.004,False,False
+161108,AR,Bobby Carroll,Independent,37,100.0,False,False
+150275,AR,Bruce Cozart,Republican,6448,100.0,True,False
+162010,AR,James Capshaw,Independent,524,58.744,False,False
+162010,AR,Terry Newsom,Republican,368,41.256,False,False
+161277,AR,Randy Taylor,Nonpartisan,504,56.566,False,False
+161277,AR,Edgar Baker,Nonpartisan,302,33.895,False,False
+161277,AR,Michael S. Roberts,Nonpartisan,59,6.622,False,False
+161277,AR,David Andrews,Nonpartisan,26,2.918,False,False
+150245,AR,Glenn Barnes,Democratic,5363,100.0,True,False
+161268,AR,Derrick Michael Rainey,Independent,184,100.0,False,False
+150236,AR,Dolly Henley,Republican,5255,100.0,True,False
+161171,AR,Doug Stone,Nonpartisan,310,100.0,False,False
+161622,AR,Yes,Nonpartisan,3059,50.346,False,False
+161622,AR,No,Nonpartisan,3017,49.654,False,False
+161081,AR,Juana Scott,Independent,405,100.0,False,False
+162133,AR,Yes,Nonpartisan,14674,74.994,False,False
+162133,AR,No,Nonpartisan,4893,25.006,False,False
+161072,AR,Patsy Johnson,Democratic,207,100.0,False,False
+161132,AR,Layna A. Jones,Independent,81,100.0,False,False
+150299,AR,Trey Steimel,Republican,7480,100.0,True,False
+161461,AR,Melisa R. Logan,Independent,1782,73.033,False,False
+161461,AR,R. L. Jones,Independent,582,23.852,False,False
+161461,AR,"Nerqvaydraian Jerome Cunningham, Quay",Independent,76,3.115,False,False
+161193,AR,Eric Smith,Nonpartisan,59,100.0,False,False
+161260,AR,Austin T. Curtis,Republican,0,,False,False
+161260,AR,Sierra Hempstead,Democratic,0,,False,False
+150228,AR,Brit McKenzie,Republican,6125,100.0,True,False
+162155,AR,Yes,Nonpartisan,740,76.763,False,False
+162155,AR,No,Nonpartisan,224,23.237,False,False
+161806,AR,Kathy Howerton,Nonpartisan,796,73.909,False,False
+161806,AR,Elizabeth Lowther,Nonpartisan,281,26.091,False,False
+161154,AR,Jimmy Dorney,Independent,94,100.0,False,False
+161413,AR,Jonathan E. Kelley,Nonpartisan,1100,56.76,False,False
+161413,AR,Janina Cambiano,Nonpartisan,838,43.24,False,False
+161064,AR,John A. Roland,Nonpartisan,289,100.0,False,False
+161124,AR,Mark Smith,Nonpartisan,102,100.0,False,False
+161959,AR,Eugene Matthews,Republican,110,69.62,False,False
+161959,AR,Tom Dildine,Democratic,48,30.38,False,False
+161115,AR,Lester Overturf,Nonpartisan,31,100.0,False,False
+161566,AR,Elaine Dupree,Nonpartisan,27,55.102,False,False
+161566,AR,Louis L. Robinson,Nonpartisan,22,44.898,False,False
+161025,AR,Lee Gatliff,Nonpartisan,65,100.0,False,False
+162084,AR,Rita Kaye Kolb,Republican,163,52.581,False,False
+162084,AR,Doran A. Newhouse,Independent,147,47.419,False,False
+161728,AR,William Waggle Sr.,Independent,186,73.81,False,False
+161728,AR,Tammy Quinn,Independent,66,26.19,False,False
+161275,AR,Mary Jane Erwin,Nonpartisan,156,50.485,False,False
+161275,AR,Heith Hogan,Nonpartisan,153,49.515,False,False
+150243,AR,Mark A. Nichols,Republican,6369,100.0,True,False
+161178,AR,Ronnie Floyd,Independent,152,100.0,False,False
+161437,AR,Barbara Blackard,Independent,1087,57.788,False,False
+161437,AR,David J. Rieder,Independent,424,22.541,False,False
+161437,AR,Matt Bewley,Independent,314,16.693,False,False
+161437,AR,Bob Senter,Independent,56,2.977,False,False
+161888,AR,Debbie Gray,Republican,4794,100.0,False,False
+161428,AR,"Theodore ""Teddy"" Holt",Independent,908,47.095,False,False
+161428,AR,Norma Strabala,Independent,852,44.191,False,False
+161428,AR,Rick Koenig,Independent,168,8.714,False,False
+161079,AR,Brian Barber,Independent,188,100.0,False,False
+161139,AR,Vera Marks,Democratic,206,100.0,False,False
+161782,AR,Dal Freeman,Independent,78,56.934,False,False
+161782,AR,Wayne R. Breckenridge,Independent,59,43.066,False,False
+162041,AR,Leroy C. Wright Sr.,Democratic,551,50.458,False,False
+162041,AR,Timothy Thorne,Republican,541,49.542,False,False
+162032,AR,Mike Robertson,Independent,248,54.148,False,False
+162032,AR,Ladell Hinton,Republican,210,45.852,False,False
+161299,AR,Joshua A. Young,Republican,132,59.459,False,False
+161299,AR,Michael Parette,Independent,90,40.541,False,False
+150267,AR,Brian S. Evans,Republican,8138,100.0,True,False
+161202,AR,Daniel M. Kees,Nonpartisan,882,100.0,False,False
+161420,AR,Carolyn F. Barnett,Nonpartisan,113,56.784,False,False
+161420,AR,Teneka Logan,Nonpartisan,86,43.216,False,False
+161071,AR,Dana Burchfield-Harris,Nonpartisan,78,100.0,False,False
+162123,AR,Jesse Johnson,Democratic,5150,54.0,False,False
+162123,AR,Paul Elliott,Republican,4387,46.0,False,False
+150298,AR,Cassandra Mayes,Democratic,6039,55.449,True,False
+150298,AR,Stephen Bright,Republican,4852,44.551,False,False
+161122,AR,Scotty Tooley,Independent,8,100.0,False,False
+161573,AR,Robert E. Dupree II,Nonpartisan,26,53.061,False,False
+161573,AR,Temirra Jones,Nonpartisan,23,46.939,False,False
+162024,AR,John Butch Prunty,Independent,381,68.402,False,False
+162024,AR,Melinda Martin,Republican,176,31.598,False,False
+161291,AR,Eric Graetz,Independent,465,52.306,False,False
+161291,AR,Donald (Donny) Dawson,Independent,365,41.057,False,False
+161291,AR,Duane C Delair,Independent,59,6.637,False,False
+161927,AR,Bill Rogers,Republican,3243,55.445,False,False
+161927,AR,Michael Ankton,Democratic,2606,44.555,False,False
+162082,AR,Walt Lanehart,Republican,878,51.465,False,False
+162082,AR,Belinda Demmings,Democratic,828,48.535,False,False
+161534,AR,Jonathan Arnold,Nonpartisan,72,57.6,False,False
+161534,AR,Paula Matthews,Nonpartisan,53,42.4,False,False
+161985,AR,Rusty A. McMillon,Republican,7489,71.114,False,False
+161985,AR,Jerry Shipman,Democratic,3042,28.886,False,False
+161252,AR,Mat Faulkner,Independent,5469,100.0,False,False
+161895,AR,Carmen Duncan,Republican,8088,100.0,False,False
+161435,AR,Bobby J. Box,Nonpartisan,74,77.083,False,False
+161435,AR,Bonnie Morris Box,Nonpartisan,22,22.917,False,False
+150218,AR,Dexter R. Miller,Democratic,4044,54.129,True,False
+150218,AR,Mark D. McElroy,Republican,3427,45.871,False,False
+161146,AR,Andrew Crow,Nonpartisan,225,100.0,False,False
+161597,AR,Yes,Nonpartisan,2489,55.385,False,False
+161597,AR,No,Nonpartisan,2005,44.615,False,False
+161056,AR,Michael Howell,Nonpartisan,681,100.0,False,False
+161588,AR,Austin Cates,Nonpartisan,2572,72.247,False,False
+161588,AR,Barton Ball,Nonpartisan,988,27.753,False,False
+162039,AR,Jamie Jackson,Republican,955,59.576,False,False
+162039,AR,Jordyn Barnett-Pace,Democratic,648,40.424,False,False
+161107,AR,Dennis Kerley,Nonpartisan,90,100.0,False,False
+161750,AR,Eddie (Ed) Long,Nonpartisan,3517,53.925,False,False
+161750,AR,Courtney Roldan,Nonpartisan,3005,46.075,False,False
+161209,AR,Joe Hurst,Nonpartisan,4449,100.0,False,False
+161549,AR,Bruce Delaney,Nonpartisan,51,59.302,False,False
+161549,AR,Alice S. Postell,Nonpartisan,24,27.907,False,False
+161549,AR,Maxine Cobbs,Nonpartisan,9,10.465,False,False
+161549,AR,Dorotha McFarland,Nonpartisan,2,2.326,False,False
+161200,AR,Mike Cone,Independent,415,100.0,False,False
+161267,AR,Mike Zulpo,Nonpartisan,2150,100.0,False,False
+150235,AR,Justin Boyd,Republican,10028,53.554,True,False
+150235,AR,Eduardo Guzman,Democratic,8697,46.446,False,False
+162162,AR,Yes,Nonpartisan,337,87.306,False,False
+162162,AR,No,Nonpartisan,49,12.694,False,False
+161621,AR,Yes,Nonpartisan,548,73.067,False,False
+161621,AR,No,Nonpartisan,202,26.933,False,False
+162153,AR,Yes,Nonpartisan,726,75.468,False,False
+162153,AR,No,Nonpartisan,236,24.532,False,False
+162031,AR,Larry Behnke,Independent,12053,54.207,False,False
+162031,AR,Aaron Spencer,Republican,10182,45.793,False,False
+161490,AR,Ralph Meeker Jr.,Nonpartisan,1483,54.683,False,False
+161490,AR,Doug Kinslow,Nonpartisan,1229,45.317,False,False
+150266,AR,Jay Richardson,Democratic,2905,100.0,True,False
+161289,AR,Heather Harrison,Independent,932,64.187,False,False
+161289,AR,Albert R. Kmetz,Independent,520,35.813,False,False
+161541,AR,Commeka R. Goodloe,Nonpartisan,43,52.439,False,False
+161541,AR,James E. Hubbard Jr.,Nonpartisan,39,47.561,False,False
+161192,AR,Ronnie Kibler,Independent,230,100.0,False,False
+161451,AR,Chase Julian,Independent,203,41.429,False,False
+161451,AR,Diane Cunningham,Independent,168,34.286,False,False
+161451,AR,Tri Mason,Independent,70,14.286,False,False
+161451,AR,Michael Borchert,Independent,49,10.0,False,False
+161102,AR,Tim McKinney,Nonpartisan,883,100.0,False,False
+161250,AR,Patricia Renee Garr,Independent,31,100.0,False,False
+161701,AR,Nathan Lee Romine,Nonpartisan,274,63.721,False,False
+161701,AR,Jacob Speirs,Nonpartisan,156,36.279,False,False
+161153,AR,Sheila Wingard,Nonpartisan,414,100.0,False,False
+161412,AR,Krystal Dean Goudelock,Independent,32,50.794,False,False
+161412,AR,Jeremy Reed,Independent,31,49.206,False,False
+161063,AR,Larry Fowler,Independent,198,100.0,False,False
+161595,AR,Lensey Hayes,Nonpartisan,28,56.0,False,False
+161595,AR,R. Lynn Brown,Nonpartisan,11,22.0,False,False
+161595,AR,Louis E. Jamison Sr.,Nonpartisan,11,22.0,False,False
+161854,AR,Darlene Massingill,Republican,5666,100.0,False,False
+161114,AR,Ralph Carruth,Nonpartisan,506,100.0,False,False
+161565,AR,Chris Treat,Nonpartisan,4217,64.284,False,False
+161565,AR,Walter Burgess,Nonpartisan,2343,35.716,False,False
+162016,AR,Bruce Neidecker,Republican,531,65.074,False,False
+162016,AR,John Morrison,Democratic,285,34.926,False,False
+161556,AR,No,Nonpartisan,95,61.688,False,False
+161556,AR,Yes,Nonpartisan,59,38.312,False,False
+161207,AR,Danny Shaw,Nonpartisan,434,100.0,False,False
+161274,AR,Shawn Randall,Independent,31,100.0,False,False
+161274,AR,Jeffery Toney,Democratic,0,0.0,False,False
+161718,AR,Courtney Miller,Independent,173,70.325,False,False
+161718,AR,James Hoggatt,Independent,73,29.675,False,False
+162169,AR,John Attaway,Nonpartisan,858,54.789,False,False
+162169,AR,Vickie Eaves,Nonpartisan,708,45.211,False,False
+161517,AR,Tarzan Lee,Nonpartisan,59,36.646,False,False
+161517,AR,Ronald L. Kirkwood,Nonpartisan,40,24.845,False,False
+161517,AR,Roy Winfrey,Nonpartisan,40,24.845,False,False
+161517,AR,Jay Q. Malone,Nonpartisan,22,13.665,False,False
+162160,AR,Yes,Nonpartisan,18440,60.001,False,False
+162160,AR,No,Nonpartisan,12293,39.999,False,False
+161427,AR,Bennie Ford Jr,Independent,82,64.567,False,False
+161427,AR,"Emmitt ""Tony"" Anthony Cole Jr.",Independent,45,35.433,False,False
+161878,AR,Brian Daniel,Republican,4590,100.0,False,False
+162130,AR,Yes,Nonpartisan,752,71.483,False,False
+162130,AR,No,Nonpartisan,300,28.517,False,False
+161781,AR,Candida Robinson,Nonpartisan,295,66.893,False,False
+161781,AR,Edward D. Hall,Nonpartisan,146,33.107,False,False
+162121,AR,Stephanie Guzman-Zamarron,Democratic,3651,52.083,False,False
+162121,AR,Carlos Chicas,Republican,3359,47.917,False,False
+161580,AR,Raymond Whiteside,Nonpartisan,1922,50.42,False,False
+161580,AR,Tracy Brick,Nonpartisan,1890,49.58,False,False
+161458,AR,James H McClelland,Independent,82,44.324,False,False
+161458,AR,Sharon L. Williams,Republican,67,36.216,False,False
+161458,AR,Steven Burroughs,Independent,36,19.459,False,False
+150234,AR,Kendra Moore,Republican,6053,56.948,True,False
+150234,AR,Laura Marsh,Independent,4576,43.052,False,False
+161449,AR,Althea Hadden-Scott,Democratic,7546,80.992,False,False
+161449,AR,Lorraine Hatcher,Independent,1771,19.008,False,False
+161509,AR,Dudley Webb III,Nonpartisan,1016,58.83,False,False
+161509,AR,Carroll Weatherford,Nonpartisan,711,41.17,False,False
+162152,AR,Yes,Nonpartisan,1133,61.31,False,False
+162152,AR,No,Nonpartisan,715,38.69,False,False
+161611,AR,No,Nonpartisan,770,55.276,False,False
+161611,AR,Yes,Nonpartisan,623,44.724,False,False
+161070,AR,Melinda R. Kight,Nonpartisan,69,100.0,False,False
+161410,AR,Colby E. Yates,Independent,157,85.792,False,False
+161410,AR,Tommy A. Doss,Independent,26,14.208,False,False
+161669,AR,Samuel Lee King,Nonpartisan,123,100.0,False,False
+161121,AR,Tobey Norberg,Nonpartisan,85,100.0,False,False
+161572,AR,Amy Edwards,Nonpartisan,597,56.966,False,False
+161572,AR,Jack Moseley,Nonpartisan,451,43.034,False,False
+162023,AR,Suzanne McCall,Republican,1197,76.388,False,False
+162023,AR,Daniel Cox,Democratic,370,23.612,False,False
+161563,AR,Daniel Haynes,Nonpartisan,259,38.484,False,False
+161563,AR,Jackie Davis J,Nonpartisan,240,35.661,False,False
+161563,AR,Cameron Tate,Nonpartisan,174,25.854,False,False
+161022,AR,Gregg Reep,Independent,837,100.0,False,False
+162081,AR,Lowell Taylor,Democratic,2349,63.762,False,False
+162081,AR,Lisa Ecke,Republican,1335,36.238,False,False
+161533,AR,Austin King,Nonpartisan,81,54.0,False,False
+161533,AR,Allen Tabor,Nonpartisan,69,46.0,False,False
+161184,AR,Ashley Steed,Nonpartisan,454,100.0,False,False
+161524,AR,Michael Thomas Jr.,Independent,49,70.0,False,False
+161524,AR,Phyllis Racy,Independent,21,30.0,False,False
+162167,AR,No,Nonpartisan,1633,56.505,False,False
+162167,AR,Yes,Nonpartisan,1257,43.495,False,False
+161434,AR,Evelyn Jackson Schmidt,Independent,69,56.557,False,False
+161434,AR,Duante Rose,Independent,53,43.443,False,False
+150217,AR,Diana Gonzales Worthen,Democratic,2949,69.535,True,False
+150217,AR,Matt Goff,Republican,1292,30.465,False,False
+162137,AR,Yes,Nonpartisan,586,60.6,False,False
+162137,AR,No,Nonpartisan,381,39.4,False,False
+150208,AR,Nick Burkes,Republican,5289,51.757,True,False
+150208,AR,Timothy J. Heron Jr.,Democratic,4930,48.243,False,False
+162128,AR,John Matar,Republican,5031,63.959,False,False
+162128,AR,Meleah Gretzmier,Democratic,2835,36.041,False,False
+161587,AR,Katherine Peerson,Nonpartisan,122,68.927,False,False
+161587,AR,Jennifer Norris,Nonpartisan,55,31.073,False,False
+161046,AR,William Worlow,Nonpartisan,23,100.0,False,False
+161497,AR,No,Nonpartisan,160,56.14,False,False
+161497,AR,Yes,Nonpartisan,125,43.86,False,False
+161749,AR,Jacquin Benson Jr,Independent,483,68.414,False,False
+161749,AR,Joseph Fondren,Independent,223,31.586,False,False
+161488,AR,Randall Godwin,Nonpartisan,554,74.263,False,False
+161488,AR,Adam A. Smith,Nonpartisan,192,25.737,False,False
+161548,AR,Ann Spencer-Cole,Nonpartisan,652,58.371,False,False
+161548,AR,Quinn Marshall,Nonpartisan,465,41.629,False,False
+161199,AR,Pody Hunnicutt,Nonpartisan,16,100.0,False,False
+161877,AR,Jana Tallant,Republican,2724,100.0,False,False
+161609,AR,Yes,Nonpartisan,433,59.315,False,False
+161609,AR,No,Nonpartisan,297,40.685,False,False
+150200,AR,Kara Armas,Republican,7070,59.708,True,False
+150200,AR,Parker John Stohlton,Democratic,4771,40.292,False,False
+162120,AR,Aaron K. Robinson,Republican,3445,53.213,False,False
+162120,AR,Richelle Brittain,Democratic,3029,46.787,False,False
+161771,AR,Danny Clem,Nonpartisan,3211,50.863,False,False
+161771,AR,Lena Strickland,Nonpartisan,3102,49.137,False,False
+162030,AR,Gillian Chadwick Jones,Republican,6661,63.907,False,False
+162030,AR,Marty Buchman,Democratic,3762,36.093,False,False
+161570,AR,James Pearson,Nonpartisan,412,58.192,False,False
+161570,AR,Lenny V. Adams,Nonpartisan,296,41.808,False,False
+161829,AR,Marvin Benton,Independent,1672,48.86,False,False
+161829,AR,Anna Beth Gorman,Independent,935,27.323,False,False
+161829,AR,John Pflasterer,Independent,505,14.757,False,False
+161829,AR,Louis Dillard,Independent,310,9.059,False,False
+161288,AR,Brandon Kelley,Nonpartisan,376,65.391,False,False
+161288,AR,Rocky Tidwell,Nonpartisan,181,31.478,False,False
+161288,AR,Lesley Carter,Nonpartisan,18,3.13,False,False
+161540,AR,Michelle Lawson,Nonpartisan,76,55.474,False,False
+161540,AR,Heather Head,Nonpartisan,61,44.526,False,False
+161383,AR,Buddy Duggin,Nonpartisan,27,72.973,False,False
+161383,AR,Jeremy Bray,Nonpartisan,10,27.027,False,False
+161531,AR,Samuel Thompson Sr.,Nonpartisan,49,59.756,False,False
+161531,AR,Michael Bogy,Nonpartisan,33,40.244,False,False
+161982,AR,Paula Brown,Democratic,6461,59.069,False,False
+161982,AR,Betsy Laughter,Republican,4477,40.931,False,False
+161249,AR,Theodore R. Brown,Nonpartisan,88,100.0,False,False
+161700,AR,Lloyd White III,Nonpartisan,237,51.188,False,False
+161700,AR,Jamey E. Mooney,Nonpartisan,226,48.812,False,False
+161152,AR,Brock Ledbetter,Nonpartisan,56,100.0,False,False
+150215,AR,Charlene Fite,Republican,6771,77.89,True,False
+150215,AR,Ryan Intchauspe,Democratic,1922,22.11,False,False
+162135,AR,Ben Hooten,Republican,1545,56.223,False,False
+162135,AR,Robert Zunick,Democratic,1203,43.777,False,False
+161594,AR,Mary Guinn,Nonpartisan,531,52.888,False,False
+161594,AR,Shawn Andersyn,Nonpartisan,473,47.112,False,False
+161853,AR,Michelle Heath Schnell,Republican,4770,100.0,False,False
+162105,AR,Gary Ricker,Republican,3844,58.993,False,False
+162105,AR,Jimm Garlock,Democratic,2672,41.007,False,False
+161844,AR,Dwayne Snyder,Nonpartisan,1838,65.76,False,False
+161844,AR,Tony Kaczoroski,Nonpartisan,957,34.24,False,False
+161495,AR,Yes,Nonpartisan,523,62.785,False,False
+161495,AR,No,Nonpartisan,310,37.215,False,False
+161555,AR,Lorie L. Robertson,Nonpartisan,416,58.674,False,False
+161555,AR,Joe W. Patrick,Nonpartisan,168,23.695,False,False
+161555,AR,Jennifer Barber,Nonpartisan,125,17.63,False,False
+162006,AR,Mark Ardwin,Independent,287,63.636,False,False
+162006,AR,Todd Bryan Moon,Republican,164,36.364,False,False
+161465,AR,James Whited,Nonpartisan,8534,51.237,False,False
+161465,AR,Spencer Hawks,Nonpartisan,8122,48.763,False,False
+161717,AR,Kelli Taylor,Independent,984,58.156,False,False
+161717,AR,Jean (Shawn) Stark,Independent,708,41.844,False,False
+161456,AR,Louise Williams,Independent,45,52.941,False,False
+161456,AR,Stevie Smith,Independent,40,47.059,False,False
+161516,AR,Joyce Mitchell,Nonpartisan,59,55.14,False,False
+161516,AR,Betty Davis,Nonpartisan,48,44.86,False,False
+162159,AR,No,Nonpartisan,18567,61.156,False,False
+162159,AR,Yes,Nonpartisan,11793,38.844,False,False
+161618,AR,Yes,Nonpartisan,518,69.717,False,False
+161618,AR,No,Nonpartisan,225,30.283,False,False
+161836,AR,Christopher Mooney,Nonpartisan,2664,50.378,False,False
+161836,AR,Mark Popejoy,Nonpartisan,2624,49.622,False,False
+161487,AR,Pat McCabe,Nonpartisan,3593,35.291,False,False
+161487,AR,Eric Capaci,Nonpartisan,2989,29.359,False,False
+161487,AR,Charlie Broadbent,Nonpartisan,1735,17.042,False,False
+161487,AR,Elmer Beard,Nonpartisan,1194,11.728,False,False
+161487,AR,Deb Wemette,Nonpartisan,670,6.581,False,False
+161739,AR,Holt Dye,Nonpartisan,220,54.591,False,False
+161739,AR,Anita Seaman,Nonpartisan,183,45.409,False,False
+161198,AR,Craig Robinson,Republican,372,100.0,False,False
+161538,AR,Joe Ann Prackett,Nonpartisan,69,65.094,False,False
+161538,AR,Audrey Embery,Nonpartisan,37,34.906,False,False
+150321,AR,Wendy Howerton,Nonpartisan,37267,52.059,False,False
+150321,AR,Kristin Pawlik,Nonpartisan,34319,47.941,False,False
+161448,AR,Gary D. Baxter,Nonpartisan,285,76.819,False,False
+161448,AR,Randy E. Smither,Nonpartisan,86,23.181,False,False
+161508,AR,Jennifer M. Moore,Nonpartisan,49,59.756,False,False
+161508,AR,Curtis L. Eckwood,Nonpartisan,33,40.244,False,False
+161351,AR,Kimberly Miles,Nonpartisan,518,53.237,False,False
+161351,AR,Mattie Allison,Nonpartisan,455,46.763,False,False
+161698,AR,LaQuita Rainey,Democratic,685,54.888,False,False
+161698,AR,Jill Weinischke,Republican,563,45.112,False,False
+161950,AR,Gaston Griggs,Republican,4530,68.419,False,False
+161950,AR,Larry Jones,Democratic,2091,31.581,False,False
+161409,AR,Raymond Adams,Nonpartisan,18,52.941,False,False
+161409,AR,Kimberly Giacchero,Nonpartisan,16,47.059,False,False
+161668,AR,Bonnetta M. Williams,Nonpartisan,147,100.0,False,False
+161120,AR,Randy Womack,Independent,156,100.0,False,False
+161851,AR,Becky Hood,Republican,3428,100.0,False,False
+162103,AR,Jim Whitley,Republican,2135,74.86,False,False
+162103,AR,Brent Carroll,Democratic,717,25.14,False,False
+161562,AR,Steve Lee,Nonpartisan,1458,51.849,False,False
+161562,AR,Lamont Cornwell,Nonpartisan,816,29.018,False,False
+161562,AR,Kerry Tebbe,Nonpartisan,538,19.132,False,False
+161021,AR,Daniel Busch,Independent,276,100.0,False,False
+161280,AR,Tony Stallsmith,Independent,1014,66.102,False,False
+161280,AR,Jason A. Lowe,Independent,520,33.898,False,False
+161012,AR,Seth F. Smith,Nonpartisan,1098,100.0,False,False
+161463,AR,Ken Kincade,Nonpartisan,5246,70.087,False,False
+161463,AR,Eddie Joe Williams,Nonpartisan,2239,29.913,False,False
+161523,AR,Jay Paul Woods,Nonpartisan,840,56.15,False,False
+161523,AR,Heather Shrader,Nonpartisan,354,23.663,False,False
+161523,AR,Johnny Shane Blagg,Nonpartisan,221,14.773,False,False
+161523,AR,Debbie Cook,Nonpartisan,81,5.414,False,False
+161174,AR,Brad Dewitt,Nonpartisan,79,100.0,False,False
+161625,AR,Yes,Nonpartisan,2363,63.727,False,False
+161625,AR,No,Nonpartisan,1345,36.273,False,False
+161616,AR,Yes,Nonpartisan,425,57.278,False,False
+161616,AR,No,Nonpartisan,317,42.722,False,False
+150207,AR,Les Eaves,Republican,6463,74.313,True,False
+150207,AR,Jocelyn Fry,Libertarian,2234,25.687,False,False
+162127,AR,Dustin Todd,Republican,4282,73.309,False,False
+162127,AR,Cody Martin,Libertarian,1559,26.691,False,False
+161778,AR,John Pate,Independent,145,69.712,False,False
+161778,AR,Connie Bromley,Independent,63,30.288,False,False
+161045,AR,Joe Hefley,Nonpartisan,115,100.0,False,False
+161769,AR,Christene Johnson-Bean,Independent,89,50.568,False,False
+161769,AR,Vonice Parks,Independent,87,49.432,False,False
+161455,AR,Christina Catsavis,Nonpartisan,7091,34.972,False,False
+161455,AR,Daniel Williams,Nonpartisan,5273,26.006,False,False
+161455,AR,Shayne McKinney,Nonpartisan,3604,17.775,False,False
+161455,AR,Lee Kemp,Nonpartisan,2825,13.933,False,False
+161455,AR,Sara Harrison,Nonpartisan,709,3.497,False,False
+161455,AR,Yvette C. Powers,Nonpartisan,507,2.5,False,False
+161455,AR,Nataylia Deer,Nonpartisan,267,1.317,False,False
+161707,AR,Crystal Haley,Nonpartisan,52,81.25,False,False
+161707,AR,Johnny Kelly,Nonpartisan,12,18.75,False,False
+162158,AR,No,Nonpartisan,689,60.227,False,False
+162158,AR,Yes,Nonpartisan,455,39.773,False,False
+161506,AR,Letory Collins,Nonpartisan,56,53.846,False,False
+161506,AR,Coletha Vasser,Nonpartisan,48,46.154,False,False
+161957,AR,Preston Clark,Independent,887,50.715,False,False
+161957,AR,Alisha Prince,Republican,862,49.285,False,False
+161608,AR,Twila Taylor,Nonpartisan,741,65.057,False,False
+161608,AR,Mari Massingill,Nonpartisan,398,34.943,False,False
+161867,AR,Canda J. Reese,Republican,12560,100.0,False,False
+161319,AR,Danny Farmer,Nonpartisan,88,71.545,False,False
+161319,AR,Jamie Foresee Gonzalez,Nonpartisan,35,28.455,False,False
+161666,AR,Bill Medley,Nonpartisan,54,45.763,False,False
+161666,AR,Angela Stocksdale,Nonpartisan,27,22.881,False,False
+161666,AR,Johnny Lee Kelley,Nonpartisan,22,18.644,False,False
+161666,AR,Kamey Kelvinson,Nonpartisan,15,12.712,False,False
+161918,AR,Brian K. Jones,Republican,1798,70.927,False,False
+161918,AR,John J. Eigsti,Independent,737,29.073,False,False
+161569,AR,Johnathon D. Rolfe,Democratic,51,73.913,False,False
+161569,AR,Carl Stewart,Independent,18,26.087,False,False
+161828,AR,John Jones,Independent,1016,60.584,False,False
+161828,AR,Michael Tierney,Independent,661,39.416,False,False
+161287,AR,Anna Beth Fisher,Independent,314,58.912,False,False
+161287,AR,Roger Scott,Independent,219,41.088,False,False
+161019,AR,Rickey J. Egger,Nonpartisan,21,100.0,False,False
+162078,AR,Hannah Hanshaw,Democratic,1600,50.078,False,False
+162078,AR,Jason Lyon,Republican,1595,49.922,False,False
+161530,AR,Yes,Nonpartisan,153,66.522,False,False
+161530,AR,No,Nonpartisan,77,33.478,False,False
+161981,AR,Michael Fife,Republican,6879,59.729,False,False
+161981,AR,Erick L. Meadows,Democratic,4638,40.271,False,False
+161440,AR,Pamela DuVall Scarber,Nonpartisan,562,67.874,False,False
+161440,AR,Robert Alexander Jr.,Nonpartisan,266,32.126,False,False
+161972,AR,Junious Pruett,Republican,61,51.261,False,False
+161972,AR,Emma L. Nelson,Democratic,58,48.739,False,False
+161623,AR,Jeannie Smith Rollins,Nonpartisan,93,63.699,False,False
+161623,AR,Robert Whitehorn,Nonpartisan,53,36.301,False,False
+150214,AR,David Ray,Republican,5477,61.47,True,False
+150214,AR,Dean Hunter,Democratic,3433,38.53,False,False
+161142,AR,Todd Henry,Independent,164,100.0,False,False
+161785,AR,Mercedes 'Sadie' Rogers,Nonpartisan,407,67.608,False,False
+161785,AR,Teresa Anne Anderson,Nonpartisan,195,32.392,False,False
+161933,AR,Billy Hill,Republican,212,55.937,False,False
+161933,AR,Leotis Snowden,Democratic,167,44.063,False,False
+161776,AR,Trent McKinney,Nonpartisan,414,57.42,False,False
+161776,AR,Terry Nossett,Nonpartisan,307,42.58,False,False
+161843,AR,Brian Clark,Nonpartisan,1559,56.059,False,False
+161843,AR,Rodney Judy,Nonpartisan,1222,43.941,False,False
+161302,AR,Dewey Williams,Independent,437,59.537,False,False
+161302,AR,Dena R. Thompson Malone,Independent,233,31.744,False,False
+161302,AR,Tony Soyani,Independent,41,5.586,False,False
+161302,AR,Leo Gatton,Independent,23,3.134,False,False
+161746,AR,Jason Bradley,Nonpartisan,234,56.25,False,False
+161746,AR,Sierra Tumey Palmer,Nonpartisan,100,24.038,False,False
+161746,AR,Sharon Kaster,Nonpartisan,82,19.712,False,False
+162005,AR,Abigail Overturff,Republican,344,60.777,False,False
+162005,AR,Ester Bass,Independent,222,39.223,False,False
+161737,AR,Judy Weaver,Independent,1072,58.42,False,False
+161737,AR,Patrick Slick Baker,Independent,763,41.58,False,False
+161004,AR,Terry J. Jones,Independent,100,100.0,False,False
+161615,AR,Yes,Nonpartisan,757,84.018,False,False
+161615,AR,No,Nonpartisan,144,15.982,False,False
+161874,AR,Tiffany McDaniel,Republican,4472,100.0,False,False
+162126,AR,Yes,Nonpartisan,15777,63.242,False,False
+162126,AR,No,Nonpartisan,9170,36.758,False,False
+161865,AR,Anna Ward,Republican,4150,100.0,False,False
+161925,AR,Sonja R. Kesterson,Republican,4093,77.799,False,False
+161925,AR,Garrett Lundberg,Democratic,1168,22.201,False,False
+161768,AR,Andrew Perry,Nonpartisan,289,62.284,False,False
+161768,AR,Harvey Harrington IV,Nonpartisan,175,37.716,False,False
+161035,AR,David H. Starkey,Nonpartisan,37,100.0,False,False
+161486,AR,Gary Moore Carpenter,Independent,89,58.553,False,False
+161486,AR,Connie L. Williams,Independent,63,41.447,False,False
+161826,AR,Dan Grover,Nonpartisan,7293,55.71,False,False
+161826,AR,Dylan Shaddox,Nonpartisan,5798,44.29,False,False
+161093,AR,Jeffrey Nalley,Nonpartisan,175,100.0,False,False
+161537,AR,Michael T. Cureton,Nonpartisan,49,71.014,False,False
+161537,AR,Colton W. Scott,Nonpartisan,20,28.986,False,False
+150320,AR,Evelyn Moorehead,Nonpartisan,9287,53.361,False,False
+150320,AR,Karres Manning-Center,Nonpartisan,8117,46.639,False,False
+161447,AR,Austin Justin Abbott,Nonpartisan,245,49.797,False,False
+161447,AR,Rodney Franklin,Nonpartisan,164,33.333,False,False
+161447,AR,Ron Sayles,Nonpartisan,83,16.87,False,False
+161979,AR,Larry McMahen,Republican,3642,56.747,False,False
+161979,AR,Clayton Richardson,Democratic,2776,43.253,False,False
+161246,AR,Mike Kemp,Nonpartisan,875,100.0,False,False
+161697,AR,Tim Barnes,Independent,350,49.645,False,False
+161697,AR,Paula Bramlett,Independent,204,28.936,False,False
+161697,AR,Kenny Bright,Independent,151,21.418,False,False
+161949,AR,Joe Cooper,Republican,3415,80.599,False,False
+161949,AR,Debra Brown,Libertarian,822,19.401,False,False
+161600,AR,Tommy Centola,Independent,2548,51.257,False,False
+161600,AR,Angel Hodnett,Independent,2423,48.743,False,False
+161940,AR,Tyler Dunegan,Republican,4006,52.033,False,False
+161940,AR,Tiffany Baker,Democratic,3693,47.967,False,False
+161783,AR,Bill Ricks,Nonpartisan,309,51.159,False,False
+161783,AR,Shanquita Berryman,Nonpartisan,295,48.841,False,False
+161850,AR,Ruby Speak,Republican,4815,100.0,False,False
+161110,AR,Samuel H. Stuckey Jr.,Nonpartisan,108,100.0,False,False
+161753,AR,Phill Washington,Independent,76,43.931,False,False
+161753,AR,Leonard Wallace,Independent,68,39.306,False,False
+161753,AR,James Warwick,Independent,29,16.763,False,False
+162100,AR,CJ Engel,Republican,1894,64.051,False,False
+162100,AR,"Andrea ""Andy"" Hillis",Democratic,1063,35.949,False,False
+161744,AR,Keisha Noble,Independent,100,56.18,False,False
+161744,AR,Paul Enis,Independent,78,43.82,False,False
+161011,AR,Bradley Akridge,Nonpartisan,109,100.0,False,False
+161270,AR,Randy Wayne Jarnagan,Nonpartisan,127,100.0,False,False
+161714,AR,Benny D. Baker,Nonpartisan,1134,59.559,False,False
+161714,AR,Carl Taylor,Nonpartisan,770,40.441,False,False
+161173,AR,"Robert ""Bo"" Palmer",Independent,33,100.0,False,False
+161705,AR,Linda Baca,Nonpartisan,46,63.014,False,False
+161705,AR,Scott A. Wible,Nonpartisan,27,36.986,False,False
+161964,AR,Efrem B. Neely Sr.,Democratic,9813,57.259,False,False
+161964,AR,Nathaniel Todd,Republican,7325,42.741,False,False
+161042,AR,Joan Headley,Nonpartisan,55,100.0,False,False
+161301,AR,Mark Rolland,Nonpartisan,84,61.765,False,False
+161301,AR,Ashley Moore,Nonpartisan,52,38.235,False,False
+161033,AR,Rick Elumbaugh,Independent,1957,100.0,False,False
+162092,AR,Josh Turner,Republican,2178,66.12,False,False
+162092,AR,Justin Payne,Democratic,1116,33.88,False,False
+161736,AR,Debra A. Nelson,Independent,29,55.769,False,False
+161736,AR,Shanta Allen,Independent,23,44.231,False,False
+161995,AR,Vanilla Nelson Hannah,Democratic,186,68.132,False,False
+161995,AR,Keith Crews,Republican,87,31.868,False,False
+161454,AR,Michael Scott Sr.,Nonpartisan,390,78.629,False,False
+161454,AR,Frank Sullivan,Nonpartisan,106,21.371,False,False
+150318,AR,Cameron Cooper,Republican,9090,100.0,True,False
+162053,AR,G. Lynn Weatherford,Republican,191,52.473,False,False
+162053,AR,Patricia Branch-May,Independent,173,47.527,False,False
+161505,AR,Hunter R. Phillips,Nonpartisan,315,72.248,False,False
+161505,AR,Kenny Pillow,Nonpartisan,121,27.752,False,False
+161956,AR,Mike Loftin,Republican,6590,59.692,False,False
+161956,AR,Todd Dickson,Independent,4450,40.308,False,False
+161607,AR,Roberta Peters,Nonpartisan,567,45.107,False,False
+161607,AR,Mark Farmer,Nonpartisan,345,27.446,False,False
+161607,AR,Ira Coker,Nonpartisan,345,27.446,False,False
+161947,AR,Tim Nichols,Republican,2833,56.333,False,False
+161947,AR,Jerome Lamaine Perez,Independent,1923,38.238,False,False
+161947,AR,Larry Smith,Independent,273,5.429,False,False
+161406,AR,Robert Arnold,Nonpartisan,1547,57.085,False,False
+161406,AR,Charlotte Young,Nonpartisan,1163,42.915,False,False
+161665,AR,Yes,Nonpartisan,2531,61.462,False,False
+161665,AR,No,Nonpartisan,1587,38.538,False,False
+161917,AR,"Bearrie ""Butch"" Lisenby",Republican,2400,65.97,False,False
+161917,AR,Tracy S. Jones,Independent,1238,34.03,False,False
+161568,AR,Wendy Moore,Nonpartisan,425,55.052,False,False
+161568,AR,Zachery Jeffery,Nonpartisan,347,44.948,False,False
+161908,AR,David Vaughn,Republican,21284,100.0,False,False
+161751,AR,Ricky Allen Watts,Independent,90,51.136,False,False
+161751,AR,Bruce Green,Independent,86,48.864,False,False
+161018,AR,Pamela Purifoy,Nonpartisan,38,100.0,False,False
+162077,AR,Tate House,Republican,1377,72.132,False,False
+162077,AR,Jeremy Picard,Independent,532,27.868,False,False
+161721,AR,Judy Ward,Republican,686,51.386,False,False
+161721,AR,Amy S. Smith,Democratic,491,36.779,False,False
+161721,AR,Nathan L Rainey,Independent,158,11.835,False,False
+162068,AR,Kevin Gillmore,Republican,4168,74.482,False,False
+162068,AR,Cecily B. Lynch,Democratic,1428,25.518,False,False
+161712,AR,Minnie Alexander,Independent,93,52.247,False,False
+161712,AR,Susan Rolland,Independent,45,25.281,False,False
+161712,AR,Tracy Range,Independent,40,22.472,False,False
+161971,AR,Amber Bailey,Democratic,456,62.637,False,False
+161971,AR,Fred Phillips,Republican,272,37.363,False,False
+161430,AR,Kevin Knight,Independent,27,57.447,False,False
+161430,AR,Joshua Hunter,Independent,20,42.553,False,False
+161881,AR,Jeanetta Elmore Byford,Republican,2280,100.0,False,False
+161141,AR,James Jackson,Nonpartisan,381,100.0,False,False
+161872,AR,Debbie Wise,Democratic,3503,100.0,False,False
+161932,AR,Eric Smith,Republican,3020,71.193,False,False
+161932,AR,Mark Simino,Libertarian,1222,28.807,False,False
+161775,AR,Kyle E. Pickard,Nonpartisan,3761,58.373,False,False
+161775,AR,Scott Steely,Nonpartisan,2682,41.627,False,False
+161269,AR,Brian K. Kichline,Nonpartisan,803,100.0,False,False
+161993,AR,Al Selleck,Democratic,660,53.528,False,False
+161993,AR,Sharon Lawlor,Republican,573,46.472,False,False
+162060,AR,Vladimir Rivera Lopez,Democratic,1275,65.452,False,False
+162060,AR,Wm Bill Ussery,Republican,673,34.548,False,False
+161704,AR,Ricky Yates,Nonpartisan,443,57.161,False,False
+161704,AR,Tristan Haberer,Nonpartisan,332,42.839,False,False
+161163,AR,Freda Willard,Independent,46,100.0,False,False
+161614,AR,Elizabeth Sue Chapman,Nonpartisan,91,51.412,False,False
+161614,AR,Glen Hurt,Nonpartisan,86,48.588,False,False
+161954,AR,Nathan Allen Treadwell,Republican,146,60.581,False,False
+161954,AR,Jeff Ratchford,Independent,95,39.419,False,False
+161221,AR,Bo James,Nonpartisan,215,100.0,False,False
+161864,AR,Lori Grisham,Independent,1652,100.0,False,False
+161924,AR,Alex Campbell,Republican,4347,66.939,False,False
+161924,AR,Deadria Everette,Democratic,2147,33.061,False,False
+150291,AR,Jamie Atkinson,Democratic,5111,55.821,True,False
+150291,AR,Steve Unger,Republican,4045,44.179,False,False
+161915,AR,Brenda DeShields -,Republican,69399,100.0,False,False
+161374,AR,Tracy Tucker,Nonpartisan,331,66.6,False,False
+161374,AR,Stephen Chad Henderson,Nonpartisan,110,22.133,False,False
+161374,AR,Henry Tucker,Nonpartisan,56,11.268,False,False
+161825,AR,Travis Whisenhunt,Nonpartisan,306,56.147,False,False
+161825,AR,Dee Gardner,Nonpartisan,239,43.853,False,False
+161092,AR,Jimmy Foster,Nonpartisan,46,100.0,False,False
+161536,AR,Frank Baptist,Nonpartisan,818,40.296,False,False
+161536,AR,Preston Madison,Nonpartisan,631,31.084,False,False
+161536,AR,Greg White,Nonpartisan,581,28.621,False,False
+162075,AR,Ross Kerley,Democratic,885,59.079,False,False
+162075,AR,Darrell Cook,Republican,613,40.921,False,False
+161719,AR,Linda McCarthy,Nonpartisan,158,55.83,False,False
+161719,AR,Nathan Buck,Nonpartisan,125,44.17,False,False
+161978,AR,Parker Ryan Smith,Republican,287,64.062,False,False
+161978,AR,Andrea L. Billingsley,Independent,161,35.938,False,False
+161245,AR,Jeremy Kimble,Nonpartisan,187,100.0,False,False
+150220,AR,Bryan B. King,Republican,22303,100.0,True,False
+161236,AR,Larry Nash,Nonpartisan,85,100.0,False,False
+161879,AR,Gaylon Hale,Republican,2252,100.0,False,False
+161939,AR,Donnie Davis,Republican,2212,77.154,False,False
+161939,AR,Georgia Eddings,Independent,655,22.846,False,False
+161590,AR,Yes,Nonpartisan,69,56.557,False,False
+161590,AR,No,Nonpartisan,53,43.443,False,False
+161049,AR,Joshua Scott,Nonpartisan,159,100.0,False,False
+161109,AR,Mike Robertson,Independent,1567,100.0,False,False
+161040,AR,William C. Plyler,Nonpartisan,371,100.0,False,False
+162099,AR,Eden Roberts,Republican,2389,63.034,False,False
+162099,AR,Lauralee Wilcox,Democratic,1401,36.966,False,False
+161743,AR,Rob Risinger,Independent,1036,57.877,False,False
+161743,AR,Kaethe Hoehling,Independent,754,42.123,False,False
+162002,AR,Jason Martin,Independent,118,58.128,False,False
+162002,AR,Stephanie Harris,Democratic,85,41.872,False,False
+161228,AR,Jack Fields,Nonpartisan,117,100.0,False,False
+161871,AR,Cindy Wagnon,Republican,2007,100.0,False,False
+161131,AR,Brooke Rooters,Nonpartisan,40,100.0,False,False
+161774,AR,Marcus Barr,Independent,77,61.6,False,False
+161774,AR,Arthemus Henry,Independent,48,38.4,False,False
+161922,AR,Tommy Sturgeon,Republican,3478,67.299,False,False
+161922,AR,Johnny Oliver,Independent,1690,32.701,False,False
+161381,AR,Dana Tribble,Nonpartisan,1158,53.986,False,False
+161381,AR,Mark Byrd,Nonpartisan,987,46.014,False,False
+161032,AR,Keeton Hudson,Independent,28,100.0,False,False
+162091,AR,Andy Shock,Republican,2093,65.921,False,False
+162091,AR,Charles Ruple,Democratic,1082,34.079,False,False
+150259,AR,Jon Milligan,Republican,6214,100.0,True,False
+161090,AR,Dwight W. Billings,Nonpartisan,92,100.0,False,False
+161342,AR,Natasha Crabbe,Nonpartisan,378,44.787,False,False
+161342,AR,T.J. Wall,Nonpartisan,239,28.318,False,False
+161342,AR,Clinton T. Brewster,Nonpartisan,227,26.896,False,False
+150317,AR,Hope Hendren Duke,Republican,11151,100.0,True,False
+162052,AR,Matt Hale,Republican,565,58.61,False,False
+162052,AR,Lisa Vickers O'Neal,Democratic,399,41.39,False,False
+161504,AR,Trevis Bentley,Independent,268,45.812,False,False
+161504,AR,Juanita Wilson,Independent,214,36.581,False,False
+161504,AR,Stephanie Beck,Independent,103,17.607,False,False
+161243,AR,Bob Blankenship,Nonpartisan,287,100.0,False,False
+161694,AR,Willie Gilbert,Republican,344,56.026,False,False
+161694,AR,Eddie Leonard,Independent,270,43.974,False,False
+161946,AR,Michael K. Neal,Independent,1245,61.36,False,False
+161946,AR,Allan Spencer,Independent,784,38.64,False,False
+161405,AR,Don Etherly,Independent,1290,59.75,False,False
+161405,AR,Nacolius Ward,Independent,869,40.25,False,False
+161856,AR,Sabrina Williams,Republican,2677,100.0,False,False
+161396,AR,Michael Baumgartner,Nonpartisan,347,51.714,False,False
+161396,AR,Brandon Burt,Nonpartisan,324,48.286,False,False
+161047,AR,Joshua Goodwin,Independent,121,100.0,False,False
+161907,AR,Connie Compton,Democratic,14078,100.0,False,False
+161558,AR,Terry Williams,Nonpartisan,213,66.355,False,False
+161558,AR,Herbert Shearer,Nonpartisan,108,33.645,False,False
+162009,AR,Brandi Holley McCoy,Democratic,3152,67.164,False,False
+162009,AR,Evetta Whitby,Independent,1541,32.836,False,False
+161357,AR,Carol Mitchell,Independent,82,58.571,False,False
+161357,AR,Gynder D. Benson,Independent,58,41.429,False,False
+162000,AR,Anita P. Moore,Democratic,432,79.705,False,False
+162000,AR,Tammy Clowers,Republican,110,20.295,False,False
+162067,AR,Chad Curran,Democratic,1133,50.423,False,False
+162067,AR,Tyler Lachowsky,Republican,1114,49.577,False,False
+161711,AR,Linda Sanders,Independent,71,61.207,False,False
+161711,AR,George E. Kincade,Independent,45,38.793,False,False
+161170,AR,David Hollis,Nonpartisan,36,100.0,False,False
+161429,AR,Jerry Satterwhite,Independent,274,69.367,False,False
+161429,AR,Jean Dedner,Independent,121,30.633,False,False
+161161,AR,Renee S. Montgomery,Nonpartisan,439,100.0,False,False
+161039,AR,Steven Baxter,Nonpartisan,68,100.0,False,False
+161298,AR,Dubs Byers,Nonpartisan,75,39.267,False,False
+161298,AR,Veronica Tensley,Nonpartisan,62,32.461,False,False
+161298,AR,Kisha Bailey-James,Nonpartisan,22,11.518,False,False
+161298,AR,Annette Everett,Nonpartisan,19,9.948,False,False
+161298,AR,Matthew Smith,Nonpartisan,13,6.806,False,False
+161742,AR,Gary Cooper,Independent,331,58.792,False,False
+161742,AR,Monica Harris,Independent,232,41.208,False,False
+162089,AR,Kari Barber Bars,Republican,1445,56.957,False,False
+162089,AR,Paula Bettis,Democratic,1092,43.043,False,False
+161349,AR,Kyle TL Miller,Independent,1631,76.286,False,False
+161349,AR,Robert Meadows,Independent,507,23.714,False,False
+161992,AR,Herman H. Houston,Republican,407,59.677,False,False
+161992,AR,Kenny Smith,Democratic,275,40.323,False,False
+161259,AR,Tracey W. Reinhart,Independent,509,100.0,False,False
+150227,AR,Stetson Painter,Republican,7925,76.129,True,False
+150227,AR,Carrie Huddleston,Democratic,2485,23.871,False,False
+162050,AR,Roy Agee,Republican,645,56.728,False,False
+162050,AR,David E. Dinwiddie,Democratic,492,43.272,False,False
+161310,AR,Darryl Birdsong,Nonpartisan,309,74.458,False,False
+161310,AR,Travis Shepherd,Independent,106,25.542,False,False
+161953,AR,Cynthia Mickle,Democratic,99,57.558,False,False
+161953,AR,Matthew Satterfield,Republican,73,42.442,False,False
+161220,AR,Jennifer Corter,Nonpartisan,287,100.0,False,False
+161863,AR,Kathy Smith,Democratic,2508,100.0,False,False
+161403,AR,Tony Berry,Independent,176,59.06,False,False
+161403,AR,Jason Jackson,Independent,122,40.94,False,False
+161662,AR,Ken Wiles,Nonpartisan,376,45.03,False,False
+161662,AR,Bryan McKenzie,Nonpartisan,293,35.09,False,False
+161662,AR,Marty Hampton,Nonpartisan,166,19.88,False,False
+161914,AR,Susie Hassett,Republican,26733,100.0,False,False
+161373,AR,Quentin Watson,Independent,519,66.115,False,False
+161373,AR,Joe St. Columbia,Independent,266,33.885,False,False
+161024,AR,Dennis Cagle,Nonpartisan,54,100.0,False,False
+161364,AR,Sherry Wooten Gillon,Nonpartisan,141,47.0,False,False
+161364,AR,Jestan Hopkins Sr.,Nonpartisan,119,39.667,False,False
+161364,AR,Janice Rena McCoy,Nonpartisan,40,13.333,False,False
+162007,AR,Donna Harton Usry,Republican,365,58.4,False,False
+162007,AR,Logan Fuqua,Independent,260,41.6,False,False
+162074,AR,Keith Kellum,Republican,2796,72.965,False,False
+162074,AR,Christian Bearden,Democratic,1036,27.035,False,False
+161526,AR,Yes,Nonpartisan,441,69.778,False,False
+161526,AR,No,Nonpartisan,191,30.222,False,False
+161177,AR,Bobby Bryant,Independent,18,100.0,False,False
+161325,AR,Mark Ross,Nonpartisan,107,57.219,False,False
+161325,AR,Allen Doyle Flowers,Nonpartisan,80,42.781,False,False
+161168,AR,Susan Wilson,Nonpartisan,147,100.0,False,False
+161235,AR,James Henderson Jr,Nonpartisan,36,100.0,False,False
+150210,AR,Rick McClure,Republican,5300,70.413,True,False
+150210,AR,Deonna Morgan,Democratic,2227,29.587,False,False
+161138,AR,Randy Smith,Nonpartisan,114,100.0,False,False
+161589,AR,No,Nonpartisan,250,51.23,False,False
+161589,AR,Yes,Nonpartisan,238,48.77,False,False
+161129,AR,Zane Boyd,Nonpartisan,183,100.0,False,False
+161388,AR,Ashton Hester,Independent,187,62.333,False,False
+161388,AR,Deanna Raines,Independent,113,37.667,False,False
+161266,AR,David Faulk,Nonpartisan,2409,100.0,False,False
+161710,AR,Lance Greer Jr.,Republican,736,55.09,False,False
+161710,AR,Veronica Smith-Creer,Democratic,600,44.91,False,False
+161257,AR,Terry Don Robinson,Nonpartisan,380,100.0,False,False
+161317,AR,Beth Calhoun,Independent,261,41.627,False,False
+161317,AR,Brandon Brown,Independent,196,31.26,False,False
+161317,AR,Barth Grayson,Republican,170,27.113,False,False
+161160,AR,Debra Edington,Nonpartisan,26,100.0,False,False
+161419,AR,Roneisha Flowers,Nonpartisan,492,58.294,False,False
+161419,AR,James Bell,Nonpartisan,352,41.706,False,False
+161870,AR,Sharon Blount-Baker,Republican,14359,100.0,False,False
+161218,AR,Eric McNeely,Nonpartisan,182,100.0,False,False
+161477,AR,Holly Morton Fowler,Nonpartisan,484,58.667,False,False
+161477,AR,Mariah Jeffcoat,Nonpartisan,341,41.333,False,False
+161921,AR,Phil Reynolds,Independent,1224,67.699,False,False
+161921,AR,Brandon Stuckey,Republican,584,32.301,False,False
+161380,AR,Doug Wood,Nonpartisan,100,50.251,False,False
+161380,AR,Nancy Sullivent,Nonpartisan,99,49.749,False,False
+161031,AR,David Meyer,Nonpartisan,51,100.0,False,False
+161371,AR,Jeremiah MacDonald,Independent,187,61.716,False,False
+161371,AR,Marc L. Herring,Independent,116,38.284,False,False
+161822,AR,Colton Martin,Nonpartisan,533,54.723,False,False
+161822,AR,Brian Crowne,Nonpartisan,441,45.277,False,False
+161089,AR,Vance Jones,Republican,39,100.0,False,False
+161341,AR,Prongue Shen Griffin,Nonpartisan,165,56.701,False,False
+161341,AR,Carolyn R. Slaughter,Nonpartisan,92,31.615,False,False
+161341,AR,Sandra L. Lately,Nonpartisan,34,11.684,False,False
+161984,AR,Randy Mills,Republican,3274,63.487,False,False
+161984,AR,Kevin W. Caldwell,Independent,1008,19.546,False,False
+161984,AR,John K Hutchison,Independent,875,16.967,False,False
+161332,AR,Andre Rucks,Democratic,2479,54.628,False,False
+161332,AR,Paul D. Choate,Republican,1842,40.591,False,False
+161332,AR,Byron D. Miller Jr.,Independent,217,4.782,False,False
+161175,AR,"William ""Butch"" Vance",Nonpartisan,106,100.0,False,False
+161242,AR,Dustin Drum,Nonpartisan,6,100.0,False,False
+161693,AR,Geneva Waldrupe,Nonpartisan,266,62.005,False,False
+161693,AR,Bobby Hatfield,Nonpartisan,163,37.995,False,False
+161145,AR,Tyler Marie Mullins,Nonpartisan,83,100.0,False,False
+161684,AR,Travis Fancher,Nonpartisan,514,72.702,False,False
+161684,AR,Shellie Salza,Nonpartisan,193,27.298,False,False
+161136,AR,Chris Jones,Nonpartisan,100,100.0,False,False
+161395,AR,Latresa Parrish,Independent,194,50.129,False,False
+161395,AR,Gail Brazell Newton,Independent,193,49.871,False,False
+161846,AR,Mallory Sanders,Nonpartisan,8165,51.456,False,False
+161846,AR,Chris Collins,Nonpartisan,4367,27.521,False,False
+161846,AR,Robert Gaffigan,Nonpartisan,3336,21.023,False,False
+161106,AR,David Corbitt,Nonpartisan,55,100.0,False,False
+161557,AR,Chad Slaughter,Nonpartisan,1164,49.85,False,False
+161557,AR,Jana Hogue,Nonpartisan,629,26.938,False,False
+161557,AR,Bret Stracener,Nonpartisan,542,23.212,False,False
+161296,AR,Wayne Edwards Jr.,Independent,529,55.802,False,False
+161296,AR,Virginia Fitzhugh,Independent,216,22.785,False,False
+161296,AR,"Jason ""Eli"" Williamson",Independent,203,21.414,False,False
+161356,AR,Phil Blaylock,Nonpartisan,1012,50.905,False,False
+161356,AR,Allen Lipsmeyer,Nonpartisan,824,41.449,False,False
+161356,AR,Sandy Swaffar,Nonpartisan,152,7.646,False,False
+161999,AR,Dennis Fisher,Republican,361,65.045,False,False
+161999,AR,Crystal Wright,Independent,194,34.955,False,False
+150209,AR,Erika Askeland,Democratic,3549,50.773,True,False
+150209,AR,Jack Ladyman,Republican,3441,49.227,False,False
+161417,AR,Teresa Trail,Independent,22,64.706,False,False
+161417,AR,Justin Tapley,Independent,12,35.294,False,False
+161676,AR,C. Dane Hudson,Nonpartisan,183,61.0,False,False
+161676,AR,Jeremiah Hogan,Nonpartisan,117,39.0,False,False
+161128,AR,Shelly Hertzog,Nonpartisan,172,100.0,False,False
+161579,AR,Clyde Crookham,Nonpartisan,435,44.479,False,False
+161579,AR,Ray Garner,Nonpartisan,384,39.264,False,False
+161579,AR,Dallas Wright,Nonpartisan,159,16.258,False,False
+161038,AR,Glenda Wiseman,Nonpartisan,23,100.0,False,False
+161378,AR,Sherry Cody,Nonpartisan,1531,79.864,False,False
+161378,AR,Isaac A. Decker,Nonpartisan,386,20.136,False,False
+161637,AR,Courtney Brooks,Nonpartisan,8921,71.73,False,False
+161637,AR,W. Whitfield Hyman,Nonpartisan,3516,28.27,False,False
+162088,AR,7 Kenneth Williamson,Republican,1423,55.695,False,False
+162088,AR,David Crowell,Democratic,1132,44.305,False,False
+161348,AR,Mike Dezenzo,Independent,114,57.286,False,False
+161348,AR,Robert Page,Independent,85,42.714,False,False
+161191,AR,Barbara White,Nonpartisan,51,100.0,False,False
+161339,AR,Josie Payne,Nonpartisan,25,69.444,False,False
+161339,AR,Franklin Harmon Sr.,Nonpartisan,11,30.556,False,False
+150314,AR,Steven Walker,Republican,9294,100.0,True,False
+162049,AR,Matt Nutt,Republican,574,80.056,False,False
+162049,AR,David Jones,Democratic,143,19.944,False,False
+161309,AR,James Rowton,Independent,289,54.943,False,False
+161309,AR,Charles D Estes,Independent,237,45.057,False,False
+161952,AR,Lucan Hargraves Sr.,Democratic,171,61.071,False,False
+161952,AR,Johnny W. Hennington,Independent,109,38.929,False,False
+161691,AR,Paul Maddox,Independent,452,64.756,False,False
+161691,AR,Wendy Russ,Independent,246,35.244,False,False
+161143,AR,Kevin Montgomery,Nonpartisan,22,100.0,False,False
+161402,AR,DeAnne Murphy,Independent,152,57.358,False,False
+161402,AR,Dillon B. Deason,Independent,113,42.642,False,False
+161661,AR,Dexter Mullin,Nonpartisan,448,41.791,False,False
+161661,AR,Amy D F Smith,Nonpartisan,408,38.06,False,False
+161661,AR,Dean D. Vohs,Nonpartisan,216,20.149,False,False
+161113,AR,David Streeter,Independent,536,100.0,False,False
+161652,AR,No,Nonpartisan,651,66.975,False,False
+161652,AR,Yes,Nonpartisan,321,33.025,False,False
+161104,AR,Derrick S. Ratliffe,Independent,1071,100.0,False,False
+161363,AR,Yes,Nonpartisan,24,64.865,False,False
+161363,AR,No,Nonpartisan,13,35.135,False,False
+161014,AR,Charles Roberts,Republican,252,100.0,False,False
+161273,AR,Jeff Van Sickler,Nonpartisan,784,100.0,False,False
+161525,AR,Stanley Mayland,Nonpartisan,44,57.143,False,False
+161525,AR,Josh Walker,Nonpartisan,33,42.857,False,False
+161264,AR,Randall J. Noblett,Nonpartisan,1948,100.0,False,False
+161324,AR,Harold Smart,Nonpartisan,74,66.667,False,False
+161324,AR,Merle Stewart,Nonpartisan,37,33.333,False,False
+161167,AR,Jonas Anderson,Independent,360,100.0,False,False
+161426,AR,Ralph Oglesby Jr.,Independent,48,59.259,False,False
+161426,AR,Jerry L. Cunningham,Independent,33,40.741,False,False
+161644,AR,Wendy Henson,Nonpartisan,3147,50.619,False,False
+161644,AR,Cliff Thompson,Nonpartisan,3070,49.381,False,False
+161295,AR,Joseph Daniel Whitfield,Independent,802,35.424,False,False
+161295,AR,"Raymond ""Tank"" Simes",Independent,395,17.447,False,False
+161295,AR,Christopher Franklin,Independent,334,14.753,False,False
+161295,AR,Matthew Harvey,Independent,274,12.102,False,False
+161295,AR,Patrick A. Roberson,Independent,261,11.528,False,False
+161295,AR,Maxine Miller,Independent,158,6.979,False,False
+161295,AR,Lakesia M. Chandler,Independent,21,0.928,False,False
+161295,AR,"Robert ""R&R"" Ford",Independent,19,0.839,False,False
+161547,AR,No,Nonpartisan,778,62.793,False,False
+161547,AR,Yes,Nonpartisan,461,37.207,False,False
+161998,AR,Jamie Lynn Goff,Republican,172,57.525,False,False
+161998,AR,Tim McCurter,Independent,127,42.475,False,False
+161346,AR,L.T. Davis,Nonpartisan,1285,56.31,False,False
+161346,AR,Kasey Griffin,Nonpartisan,997,43.69,False,False
+161797,AR,Tony Schwarz,Nonpartisan,118,61.458,False,False
+161797,AR,Ryan Ivy,Nonpartisan,74,38.542,False,False
+161256,AR,Kim Gammill,Nonpartisan,142,100.0,False,False
+161316,AR,"Bobby ""Bebop"" Brown",Nonpartisan,458,81.786,False,False
+161316,AR,Phillip Briscoe,Nonpartisan,102,18.214,False,False
+162151,AR,Yes,Nonpartisan,572,70.968,False,False
+162151,AR,No,Nonpartisan,234,29.032,False,False
+161307,AR,Tammy Waters,Nonpartisan,4571,69.331,False,False
+161307,AR,Laney Harris,Nonpartisan,2022,30.669,False,False
+150282,AR,Dwight Tosh,Republican,7052,100.0,True,False
+161217,AR,Greg Hamby,Independent,226,100.0,False,False
+161476,AR,Amber Spaulding,Independent,69,53.077,False,False
+161476,AR,Kaitlyn Graham Vail,Independent,61,46.923,False,False
+161920,AR,Kyle Sylvester,Republican,48421,100.0,False,False
+161659,AR,Yes,Nonpartisan,12050,61.483,False,False
+161659,AR,No,Nonpartisan,7549,38.517,False,False
+161111,AR,Terry Purvis,Nonpartisan,120,100.0,False,False
+161370,AR,Billy Tarpley,Independent,278,72.775,False,False
+161370,AR,John Thomas Free,Nonpartisan,104,27.225,False,False
+161821,AR,Paula Anderson,Nonpartisan,596,60.385,False,False
+161821,AR,Michael Farris,Nonpartisan,391,39.615,False,False
+162080,AR,Patrick Langley,Democratic,879,52.259,False,False
+162080,AR,Susan Garner Jones,Republican,803,47.741,False,False
+161812,AR,LaConda T. Watson,Independent,3130,53.956,False,False
+161812,AR,Joy Kinman,Independent,2671,46.044,False,False
+161271,AR,Gary Blackburn,Nonpartisan,203,100.0,False,False
+161331,AR,Coy Arnold,Nonpartisan,78,50.323,False,False
+161331,AR,Benjamin Morgan Smith,Nonpartisan,77,49.677,False,False
+161974,AR,Benny Simmons,Republican,358,80.995,False,False
+161974,AR,Daniel Martinez,Independent,84,19.005,False,False
+161433,AR,Pat Gill,Independent,164,53.595,False,False
+161433,AR,Beth Burnett,Independent,142,46.405,False,False
+161424,AR,Laura J. Smith,Independent,181,62.63,False,False
+161424,AR,Rodney Aukes,Independent,108,37.37,False,False
+161683,AR,Clint Graves,Nonpartisan,810,69.29,False,False
+161683,AR,Michelle Shevone Nelson,Nonpartisan,359,30.71,False,False
+161135,AR,Christy Burney,Nonpartisan,47,100.0,False,False
+161586,AR,Michael Marsh,Independent,119,67.614,False,False
+161586,AR,Ben Langley,Independent,57,32.386,False,False
+161845,AR,Ginger Larsen,Nonpartisan,1611,61.208,False,False
+161845,AR,Jessica Branham,Nonpartisan,1021,38.792,False,False
+161577,AR,Casey Millspaugh,Nonpartisan,8970,50.995,False,False
+161577,AR,Brian Trumbly,Nonpartisan,4755,27.032,False,False
+161577,AR,Carl Nevin,Nonpartisan,3865,21.973,False,False
+161804,AR,Cheesa Williams,Independent,3234,52.886,False,False
+161804,AR,Michael D. Dietz,Independent,1289,21.079,False,False
+161804,AR,Jim Moore,Independent,810,13.246,False,False
+161804,AR,Lezlie Lovercheck,Independent,782,12.788,False,False
+161263,AR,Chris Keeney,Nonpartisan,1068,100.0,False,False
+161515,AR,Jamie Barlow,Nonpartisan,142,51.079,False,False
+161515,AR,Eddie Jones,Nonpartisan,136,48.921,False,False
+161166,AR,Gerald Harris,Independent,80,100.0,False,False
+161314,AR,Roger Williams,Independent,187,42.597,False,False
+161314,AR,Mark Warren,Independent,140,31.891,False,False
+161314,AR,Terry Adams,Independent,85,19.362,False,False
+161314,AR,Zackory Graham,Independent,27,6.15,False,False
+150289,AR,Robin Lundstrum,Republican,8011,100.0,True,False
+161416,AR,Kerri Sterling,Independent,230,57.935,False,False
+161416,AR,Kali Sieger,Independent,167,42.065,False,False
+161675,AR,Chris Roberts,Nonpartisan,552,60.994,False,False
+161675,AR,Jamey Parks,Nonpartisan,353,39.006,False,False
+162119,AR,Kathy Lewison,Democratic,6699,64.475,False,False
+162119,AR,Reed Martin,Republican,3691,35.525,False,False
+161474,AR,"Robert ""Pappy"" Crouch",Nonpartisan,116,61.053,False,False
+161474,AR,Bill Collins,Nonpartisan,74,38.947,False,False
+150250,AR,Keith Brooks,Republican,10290,100.0,True,False
+161377,AR,Johnny Travis Taylor,Nonpartisan,155,39.846,False,False
+161377,AR,Jerry Barnett,Nonpartisan,134,34.447,False,False
+161377,AR,Grady Don Jones,Nonpartisan,100,25.707,False,False
+161636,AR,Andrea Lewis,Independent,5463,79.705,False,False
+161636,AR,Victoria Michelle Macuil,Independent,1391,20.295,False,False
+162087,AR,Josh Cheek,Republican,156,75.728,False,False
+162087,AR,Ivory Gaston,Democratic,50,24.272,False,False
+161819,AR,John P. Vaillancourt,Nonpartisan,553,54.163,False,False
+161819,AR,Marci McClamroch,Nonpartisan,468,45.837,False,False
+161086,AR,Darlene Connor,Nonpartisan,86,100.0,False,False
+161338,AR,Joe Jackson,Nonpartisan,92,55.09,False,False
+161338,AR,Kyle Shelby,Independent,75,44.91,False,False
+150313,AR,Richard Womack,Republican,7035,100.0,True,False
+161248,AR,Shawn K. Gorham,Independent,132,100.0,False,False
+150304,AR,Alyssa Brown,Republican,10182,100.0,True,False
+161431,AR,James McAlister,Nonpartisan,84,46.154,False,False
+161431,AR,Greg Pipkin,Nonpartisan,71,39.011,False,False
+161431,AR,Crystal W. Palermini,Nonpartisan,27,14.835,False,False
+161690,AR,Tammy Wools,Independent,322,53.577,False,False
+161690,AR,Nancy Corbit,Independent,279,46.423,False,False
+161942,AR,David Writer,Republican,4598,53.509,False,False
+161942,AR,Jim Wallace,Democratic,3995,46.491,False,False
+161593,AR,Lela Chism,Nonpartisan,557,54.769,False,False
+161593,AR,Mendy Barnes,Nonpartisan,460,45.231,False,False
+150265,AR,Jason Nazarenko,Republican,8634,100.0,True,False
+161584,AR,Yes,Nonpartisan,140,80.925,False,False
+161584,AR,No,Nonpartisan,33,19.075,False,False
+161651,AR,Dale R Ayres,Nonpartisan,651,55.31,False,False
+161651,AR,Kurt E. Maddox,Nonpartisan,394,33.475,False,False
+161651,AR,Matt Croxdale,Nonpartisan,132,11.215,False,False
+161103,AR,Jimmy Black,Independent,443,100.0,False,False
+161554,AR,Margie Olive,Independent,42,50.602,False,False
+161554,AR,Mandy Stout,Independent,41,49.398,False,False
+161013,AR,Caleb Lisenbey,Nonpartisan,96,100.0,False,False
+161545,AR,Yes,Nonpartisan,81,64.286,False,False
+161545,AR,No,Nonpartisan,45,35.714,False,False
+161423,AR,Evelyn Wimbley,Independent,206,36.786,False,False
+161423,AR,Renita Robinson,Independent,202,36.071,False,False
+161423,AR,Sue Hutton,Independent,152,27.143,False,False
+150206,AR,Jeremiah Moore,Republican,5438,71.647,True,False
+150206,AR,Garrett Sheeks,Libertarian,2152,28.353,False,False
+161134,AR,Karen Robertson,Independent,40,100.0,False,False
+161673,AR,Tony Ford,Nonpartisan,152,50.498,False,False
+161673,AR,Lacie Bettencourt,Nonpartisan,149,49.502,False,False
+150257,AR,Jim Andrews,Republican,6861,100.0,True,False
+161576,AR,Courtney Duane Wilson,Nonpartisan,43,64.179,False,False
+161576,AR,Edward Jimmerson,Nonpartisan,24,35.821,False,False
+161835,AR,Shelby Thomas,Independent,1515,62.889,False,False
+161835,AR,Ashley Brodnax,Independent,894,37.111,False,False
+161294,AR,Paul Guess,Independent,308,57.895,False,False
+161294,AR,Stephen Fields,Independent,224,42.105,False,False
+161634,AR,No,Nonpartisan,87,54.375,False,False
+161634,AR,Yes,Nonpartisan,73,45.625,False,False
+161893,AR,Penny Kilcrease,Republican,9236,100.0,False,False
+161345,AR,Ulrica Trotter,Independent,18,41.86,False,False
+161345,AR,Amy Slaughter,Independent,12,27.907,False,False
+161345,AR,Staci Jones Ward,Independent,8,18.605,False,False
+161345,AR,Ray Wesson,Independent,5,11.628,False,False
+161796,AR,Rachel Whittenburg,Nonpartisan,88,53.333,False,False
+161796,AR,Kevin Hill,Nonpartisan,77,46.667,False,False
+161255,AR,Anna Drake,Nonpartisan,1089,100.0,False,False
+150311,AR,Missy Thomas Irvin,Republican,25925,100.0,True,False
+162046,AR,Greg Nelson,Republican,1011,75.901,False,False
+162046,AR,James T Stroud,Independent,321,24.099,False,False
+161306,AR,Jeremy Durbin,Nonpartisan,673,53.16,False,False
+161306,AR,Tony Greene,Nonpartisan,593,46.84,False,False
+150281,AR,Jeremy Wooldridge,Republican,17785,100.0,True,False
+161408,AR,Josh Henley,Independent,212,37.925,False,False
+161408,AR,Shelia Allen,Independent,161,28.801,False,False
+161408,AR,Clinton Hampton,Independent,121,21.646,False,False
+161408,AR,Tina M. Coakley,Independent,65,11.628,False,False
+150272,AR,John Kyle Day,Republican,6130,100.0,True,False
+161591,AR,Daniel Lunsford,Nonpartisan,109,60.221,False,False
+161591,AR,Marie Robinson,Nonpartisan,72,39.779,False,False
+161658,AR,Yes,Nonpartisan,13864,70.941,False,False
+161658,AR,No,Nonpartisan,5679,29.059,False,False
+161910,AR,Deanne Jones,Republican,4687,100.0,False,False
+161561,AR,Yes,Nonpartisan,490,56.387,False,False
+161561,AR,No,Nonpartisan,379,43.613,False,False
+150233,AR,Clint Penzo,Republican,12989,100.0,True,False
+161552,AR,Billy Shafer,Nonpartisan,97,68.31,False,False
+161552,AR,Cindy Smallwood,Nonpartisan,45,31.69,False,False
+161811,AR,Hunter Carnahan,Nonpartisan,1655,57.485,False,False
+161811,AR,Robert L. Mann,Nonpartisan,1224,42.515,False,False
+162070,AR,Kyle S Lyons,Republican,2570,57.251,False,False
+162070,AR,Stephanie Shufelt,Democratic,1919,42.749,False,False
+161522,AR,Arnell Craig,Independent,156,61.905,False,False
+161522,AR,Pace Hindsley,Independent,96,38.095,False,False
+161973,AR,John David Miller,Independent,312,65.409,False,False
+161973,AR,Sam Roddy,Republican,165,34.591,False,False
+161513,AR,Lecester Bell,Independent,42,56.0,False,False
+161513,AR,Carlee Griswold,Independent,33,44.0,False,False
+150296,AR,Randy Torres,Republican,6837,100.0,True,False
+161842,AR,Adrian Flores,Nonpartisan,1790,60.575,False,False
+161842,AR,Jacqueline Eakins,Nonpartisan,1165,39.425,False,False
+162101,AR,Pamela Blissitt,Republican,162,50.311,False,False
+162101,AR,Angela Courtney,Democratic,160,49.689,False,False
+161833,AR,April Ford Broderick,Independent,1764,58.977,False,False
+161833,AR,Brett Johnson,Independent,1227,41.023,False,False
+161100,AR,John Tyson,Independent,139,100.0,False,False
+161544,AR,Tim Elmore,Nonpartisan,94,73.438,False,False
+161544,AR,Edward Chaney,Nonpartisan,34,26.562,False,False
+161003,AR,Carolyn E. Harris,Independent,101,100.0,False,False
+161262,AR,Russell Stroud,Nonpartisan,1003,100.0,False,False
+161794,AR,Mike Stout,Independent,43,51.807,False,False
+161794,AR,Samuel Olive,Independent,40,48.193,False,False
+161061,AR,Paul G. Henley,Nonpartisan,45,100.0,False,False
+161313,AR,Jack Bonds,Nonpartisan,246,63.896,False,False
+161313,AR,Mary Jean Barbre,Nonpartisan,139,36.104,False,False
+150288,AR,Tony Furman,Republican,6433,100.0,True,False
+161415,AR,Josh Agee,Independent,4352,69.079,False,False
+161415,AR,Wayne Laroe,Independent,1129,17.921,False,False
+161415,AR,Catrina Bateman,Independent,819,13.0,False,False
+150279,AR,Les Warren,Republican,5984,100.0,True,False
+161214,AR,Melvin McDonald,Nonpartisan,34,100.0,False,False
+161473,AR,James White,Independent,53,34.416,False,False
+161473,AR,Lisa V. Gilbert,Independent,52,33.766,False,False
+161473,AR,Michael Cravens,Independent,39,25.325,False,False
+161473,AR,Tyesha Williams,Independent,10,6.494,False,False
+150249,AR,Ronald Caldwell,Republican,17700,100.0,True,False
+161376,AR,Scott F. Sillence,Nonpartisan,82,58.571,False,False
+161376,AR,Lynley E. Christian,Nonpartisan,58,41.429,False,False
+150240,AR,RJ Hawk,Republican,4590,50.517,True,False
+150240,AR,Gina Thomas-Littlejohn,Democratic,4496,49.483,False,False
+161559,AR,LJ Bryant,Nonpartisan,1033,38.66,False,False
+161559,AR,Patti Lack,Nonpartisan,784,29.341,False,False
+161559,AR,Vince Pearcy,Nonpartisan,601,22.493,False,False
+161559,AR,James Carl Wilson Jr,Nonpartisan,254,9.506,False,False
+161818,AR,Brian Mobley,Nonpartisan,3718,28.977,False,False
+161818,AR,Nancy Orum,Nonpartisan,3306,25.766,False,False
+161818,AR,Sheryl Cherry,Nonpartisan,2960,23.069,False,False
+161818,AR,Timothy Hull,Nonpartisan,2847,22.188,False,False
+161085,AR,Charles Martin,Nonpartisan,125,100.0,False,False
+161529,AR,Jason Bollinger,Nonpartisan,1301,74.216,False,False
+161529,AR,Mark Hardin,Nonpartisan,244,13.919,False,False
+161529,AR,Richard Weaver,Nonpartisan,208,11.865,False,False
+161076,AR,Jimmy Fincher,Nonpartisan,1187,100.0,False,False
+161520,AR,Richard Brown,Independent,239,47.421,False,False
+161520,AR,Jason M Taylor,Independent,147,29.167,False,False
+161520,AR,Darryl G. Grissom,Independent,118,23.413,False,False
+150303,AR,Cody Rogers,Republican,7250,100.0,True,False
+161238,AR,Dennis Dumas,Independent,205,100.0,False,False
+150213,AR,Kendon Underwood,Republican,7309,58.183,True,False
+150213,AR,Letisha Hinds,Democratic,5253,41.817,False,False
+161941,AR,Lynn McDowell,Republican,7624,71.212,False,False
+161941,AR,Ulysses Brewer,Democratic,3082,28.788,False,False
+150204,AR,Clarke Tucker,Democratic,26225,76.809,True,False
+150204,AR,Mark S. Foster,Libertarian,7918,23.191,False,False
+150264,AR,Beth Anne Rankin Baker,Republican,7203,100.0,True,False
+161583,AR,James Pipkin,Nonpartisan,42,61.765,False,False
+161583,AR,Cleave D. Whitby,Nonpartisan,26,38.235,False,False
+162069,AR,Thomas J. Anderson,Democratic,924,68.041,False,False
+162069,AR,Tom Wilkins,Republican,434,31.959,False,False
+161001,AR,Seth J. Connell,Independent,767,100.0,False,False
+161068,AR,Ralph Edge,Nonpartisan,332,100.0,False,False
+161512,AR,Terry Wallace,Nonpartisan,116,72.05,False,False
+161512,AR,Carlene Biggs,Nonpartisan,45,27.95,False,False
+161963,AR,Eddie Roberson,Republican,2068,51.687,False,False
+161963,AR,Michael Blasengame,Independent,1933,48.313,False,False
+161422,AR,Jennifer Hobbs,Nonpartisan,950,48.248,False,False
+161422,AR,De'Andra L. Warren,Nonpartisan,806,40.934,False,False
+161422,AR,Jeremy Bradshaw,Nonpartisan,189,9.599,False,False
+161422,AR,Juanita Crews,Nonpartisan,24,1.219,False,False
+150286,AR,Tyler Dees,Republican,20875,100.0,True,False
+162021,AR,Tommy Roberson,Independent,185,51.966,False,False
+162021,AR,Joseph Lee Sprague,Republican,171,48.034,False,False
+161672,AR,Ricky Oxner,Nonpartisan,99,100.0,False,False
+150256,AR,Kenneth B. Ferguson,Democratic,6635,100.0,True,False
+161767,AR,Ray Vannoy,Nonpartisan,425,58.621,False,False
+161767,AR,Jeanie Calhoun,Nonpartisan,300,41.379,False,False
+150247,AR,Curtis Hitt,Nonpartisan,35961,62.846,False,False
+150247,AR,Andrew Nadzam,Nonpartisan,21260,37.154,False,False
+162174,AR,Laura Ramoly,Nonpartisan,0,,False,False
+162174,AR,Bao Nguyen,Nonpartisan,0,,False,False
+161633,AR,Dwight Townsend,Independent,2258,52.757,False,False
+161633,AR,TaShan O'Neal,Independent,806,18.832,False,False
+161633,AR,Tony Stanley Miller,Independent,429,10.023,False,False
+161633,AR,Stephanie Y Johnson,Independent,416,9.72,False,False
+161633,AR,Michael Andrew Hernandez,Independent,371,8.668,False,False
+161892,AR,Beverly Burks,Independent,4553,100.0,False,False
+161344,AR,LaQuetta S. Henry,Democratic,2502,55.501,False,False
+161344,AR,Robert Rushing,Republican,2006,44.499,False,False
+161083,AR,Bill Gilkey,Nonpartisan,218,100.0,False,False
+161527,AR,Tom Farmer,Nonpartisan,7491,72.87,False,False
+161527,AR,Don White,Nonpartisan,1677,16.313,False,False
+161527,AR,Jake Wear,Nonpartisan,1112,10.817,False,False
+150310,AR,Justin Gonzales,Republican,7073,100.0,True,False
+162045,AR,Mike McCormick,Republican,21106,69.62,False,False
+162045,AR,Jim Macmillan,Independent,9210,30.38,False,False
+161696,AR,Alison Isely Wilson,Nonpartisan,158,68.696,False,False
+161696,AR,James Loyd,Nonpartisan,72,31.304,False,False
+162036,AR,Tia Woodruf,Republican,761,75.872,False,False
+162036,AR,Brooke-Lynn Ames,Democratic,242,24.128,False,False
+150211,AR,Rey Hernandez,Democratic,3341,52.342,True,False
+150211,AR,Rebecca Burkes,Republican,3042,47.658,False,False
+150271,AR,DeAnn Vaught,Republican,6258,100.0,True,False
+161398,AR,Roni Combs,Nonpartisan,1768,55.388,False,False
+161398,AR,Truman Copeland,Nonpartisan,1424,44.612,False,False
+161849,AR,Renee Rainey,Republican,2818,100.0,False,False
+161909,AR,Nancy R. Eastham,Republican,32004,100.0,False,False
+161840,AR,Levi Duncan,Nonpartisan,574,55.086,False,False
+161840,AR,Michael Deniston,Nonpartisan,468,44.914,False,False
+150232,AR,Wayne Long,Republican,5961,100.0,True,False
+161551,AR,Yes,Nonpartisan,2314,63.799,False,False
+161551,AR,No,Nonpartisan,1313,36.201,False,False
+161010,AR,David Harmon,Nonpartisan,193,100.0,False,False
+162028,AR,Clayton Edwards,Republican,13590,62.026,False,False
+162028,AR,Dusty Betts,Independent,8320,37.974,False,False
+150203,AR,Ryan A. Rose,Republican,4410,69.745,True,False
+150203,AR,Orion Jackson,Libertarian,1913,30.255,False,False
+161931,AR,Kevin Sanders,Republican,2629,72.047,False,False
+161931,AR,Channen Branch,Independent,1020,27.953,False,False
+161582,AR,Yes,Nonpartisan,4792,51.599,False,False
+161582,AR,No,Nonpartisan,4495,48.401,False,False
+150254,AR,Mike Holcomb,Republican,7663,100.0,True,False
+161189,AR,Dianne Neill,Nonpartisan,16,100.0,False,False
+161832,AR,Mike Gilbert,Nonpartisan,6875,43.679,False,False
+161832,AR,Spencer Ordonez,Nonpartisan,6045,38.405,False,False
+161832,AR,Allen Cotner,Nonpartisan,2820,17.916,False,False
+161099,AR,Ronald (Shorty) Smith,Nonpartisan,43,100.0,False,False
+161735,AR,Marcus Morgan,Independent,52,61.176,False,False
+161735,AR,Deborah Kerrigan,Independent,33,38.824,False,False
+161890,AR,Rachel L. Oertling,Republican,14586,100.0,False,False
+162142,AR,Yes,Nonpartisan,2575,63.959,False,False
+162142,AR,No,Nonpartisan,1451,36.041,False,False
+161793,AR,Patty Barger,Nonpartisan,85,62.044,False,False
+161793,AR,Candace Drace,Nonpartisan,52,37.956,False,False
+161060,AR,Terry Coleman,Democratic,108,100.0,False,False
+161312,AR,Clyde E. Noel,Nonpartisan,626,63.618,False,False
+161312,AR,Reginald Murdock,Nonpartisan,306,31.098,False,False
+161312,AR,Danny Blount,Nonpartisan,52,5.285,False,False
+162043,AR,Stephanie Olds,Republican,3279,51.323,False,False
+162043,AR,Tonyat Mckenzie,Democratic,3110,48.677,False,False
+161502,AR,Robert Fairweather,Nonpartisan,61,54.955,False,False
+161502,AR,Lajunta Plumlee,Nonpartisan,50,45.045,False,False
+150278,AR,Cindy Crawford,Republican,6172,62.299,True,False
+150278,AR,Jane-Ellen Udouj-Kutchka,Democratic,3735,37.701,False,False
+161213,AR,Kathy Roberts,Independent,13,100.0,False,False
+161664,AR,Lesa Rissler,Nonpartisan,480,56.805,False,False
+161664,AR,Meghan Feyerabend,Nonpartisan,365,43.195,False,False
+161204,AR,John David McCoy,Nonpartisan,445,100.0,False,False
+161847,AR,Alan T. Smith,Democratic,4059,100.0,False,False
+150239,AR,Mitchell Smith,Democratic,4466,55.061,True,False
+150239,AR,Scott Richardson,Republican,3645,44.939,False,False
+161366,AR,Josh Young,Nonpartisan,325,51.834,False,False
+161366,AR,Konnor McKay,Nonpartisan,302,48.166,False,False
+161017,AR,Julia Jones,Independent,880,100.0,False,False
+162157,AR,Yes,Nonpartisan,507,53.368,False,False
+162157,AR,No,Nonpartisan,443,46.632,False,False
+161008,AR,Theresa Howard,Independent,30,100.0,False,False
+161075,AR,Trey Cobb,Independent,1055,100.0,False,False
+161519,AR,Lakesha T. Jackson-Williams,Nonpartisan,41,52.564,False,False
+161519,AR,Melony J. Darrough,Nonpartisan,37,47.436,False,False
+161970,AR,Ron Miller,Independent,443,74.958,False,False
+161970,AR,Corliss McCain,Independent,148,25.042,False,False
+161237,AR,Cheryl Woods,Nonpartisan,135,100.0,False,False
+161961,AR,Nathan Miller,Democratic,37761,50.38,False,False
+161961,AR,Russell Hill,Republican,37192,49.62,False,False
+161839,AR,Danny Harrington,Nonpartisan,144,54.962,False,False
+161839,AR,Samantha Foster,Nonpartisan,118,45.038,False,False
+162098,AR,Diane Bryant,Democratic,3433,56.828,False,False
+162098,AR,Robert E. Dennis,Republican,2608,43.172,False,False
+161550,AR,Stephen Meeks,Nonpartisan,1088,65.503,False,False
+161550,AR,Joyce McGinty Johnson,Nonpartisan,573,34.497,False,False
+161097,AR,Samuel Quarles,Nonpartisan,61,100.0,False,False
+162149,AR,Yes,Nonpartisan,497,61.816,False,False
+162149,AR,No,Nonpartisan,307,38.184,False,False
+161000,AR,Scott Barker,Independent,66,100.0,False,False
+162059,AR,Micah Braughton,Republican,962,50.314,False,False
+162059,AR,Terry Childers,Democratic,950,49.686,False,False
+161703,AR,Doug Long,Nonpartisan,0,,False,False
+161703,AR,Daphane Lanthrop,Nonpartisan,0,,False,False
+161058,AR,Ethan N. Dunbar,Independent,213,100.0,False,False
+162110,AR,Ronald (Nub) Hunter Jr. Jp11,Republican,2280,70.24,False,False
+162110,AR,Tim Looper,Democratic,966,29.76,False,False
+150285,AR,Rick Beck,Republican,8165,100.0,True,False
+162020,AR,Jebb T. Young,Republican,542,57.66,False,False
+162020,AR,Solena Sayer,Democratic,398,42.34,False,False
+161671,AR,Ermer Jean Preston,Nonpartisan,119,100.0,False,False
+161211,AR,Donnie Fulbright,Independent,71,100.0,False,False
+161470,AR,Donna Cain,Nonpartisan,23,65.714,False,False
+161470,AR,James Hill,Nonpartisan,12,34.286,False,False
+150246,AR,James Eaton,Republican,7477,100.0,True,False
+162173,AR,Tyler W. Moses,Nonpartisan,2138,53.437,False,False
+162173,AR,Shannan Knudsen,Nonpartisan,1863,46.563,False,False
+161824,AR,Cindy Acree,Nonpartisan,7421,55.705,False,False
+161824,AR,Kirk Robbins,Nonpartisan,5901,44.295,False,False
+162164,AR,No,Nonpartisan,1219,52.748,False,False
+162164,AR,Yes,Nonpartisan,1092,47.252,False,False
+161015,AR,Tim Philpot,Nonpartisan,69,100.0,False,False
+161082,AR,Ginger Bailey,Nonpartisan,173,100.0,False,False
+161334,AR,Jo Gwen Phillips,Independent,242,60.652,False,False
+161334,AR,Stacie Mitchell-Gweah,Independent,157,39.348,False,False
+161977,AR,Billie Reed,Republican,192,82.051,False,False
+161977,AR,K.C. Dornburg,Democratic,42,17.949,False,False
+162125,AR,Cassie Murray,Democratic,3351,54.63,False,False
+162125,AR,Joel Jones,Republican,2783,45.37,False,False
+161968,AR,Jeremy Kitchens,Republican,125,52.521,False,False
+161968,AR,Dale Tatom,Independent,113,47.479,False,False
+162035,AR,Randy Green,Democratic,1003,62.923,False,False
+162035,AR,Tim Morris,Independent,591,37.077,False,False
+161686,AR,Jeff Pistole,Independent,297,41.193,False,False
+161686,AR,Mark Malone,Independent,249,34.535,False,False
+161686,AR,Jason Hayes,Independent,175,24.272,False,False
+161938,AR,Larry Miller,Republican,1103,54.281,False,False
+161938,AR,Beronica (Bea) Toliver-Parrish,Independent,929,45.719,False,False
+161397,AR,Gary Hughes,Nonpartisan,82,74.545,False,False
+161397,AR,Denise Williams,Nonpartisan,28,25.455,False,False
+161929,AR,Robert Drake,Independent,1017,56.219,False,False
+161929,AR,Jeff Black,Republican,792,43.781,False,False
+161196,AR,James L. Jones,Nonpartisan,18,100.0,False,False
+162036,AR,Tia Woodruf,Republican,761,75.872,False,False
+162036,AR,Brooke-Lynn Ames,Democratic,242,24.128,False,False
+161197,AR,Bob Yarbrough,Nonpartisan,29,100.0,False,False
+161158,AR,Brenda Porter,Independent,313,100.0,False,False
+161801,AR,Mike Jones,Nonpartisan,103,80.469,False,False
+161801,AR,Jonathan Tullos,Nonpartisan,25,19.531,False,False
+161919,AR,Circuit & County Clerk Terri Hollingsworth,Democratic,103119,100.0,False,False
+161762,AR,John Chenowith,Nonpartisan,469,56.711,False,False
+161762,AR,Steve Williamson,Nonpartisan,358,43.289,False,False
+162072,AR,Jerry V Lawrence Jr,Republican,1017,66.514,False,False
+162072,AR,Tina Butler,Democratic,512,33.486,False,False
+161723,AR,Gerelisa Swanigan,Independent,151,59.449,False,False
+161723,AR,Lisa Portwood,Independent,103,40.551,False,False
+161624,AR,No,Nonpartisan,10244,58.874,False,False
+161624,AR,Yes,Nonpartisan,7156,41.126,False,False
+150208,AR,Nick Burkes,Republican,5289,51.757,True,False
+150208,AR,Timothy J. Heron Jr.,Democratic,4930,48.243,False,False
+161204,AR,John David McCoy,Nonpartisan,445,100.0,False,False
+162157,AR,Yes,Nonpartisan,507,53.368,False,False
+162157,AR,No,Nonpartisan,443,46.632,False,False
+161126,AR,Ruth Quintana,Independent,73,100.0,False,False
+150293,AR,John Maddox,Republican,7771,100.0,True,False
+161887,AR,Ashley McGuirt,Republican,6038,100.0,False,False
+161730,AR,Diane Dewailly,Nonpartisan,257,52.556,False,False
+161730,AR,Taryn Scott,Nonpartisan,232,47.444,False,False
+161247,AR,Jerry Hamilton,Independent,125,100.0,False,False
+161691,AR,Paul Maddox,Independent,452,64.756,False,False
+161691,AR,Wendy Russ,Independent,246,35.244,False,False
+161784,AR,Steven Moss,Nonpartisan,125,60.976,False,False
+161784,AR,Chris Nance,Nonpartisan,80,39.024,False,False
+161051,AR,Jeff Brown,Nonpartisan,637,100.0,False,False
+162125,AR,Cassie Murray,Democratic,3351,54.63,False,False
+162125,AR,Joel Jones,Republican,2783,45.37,False,False
+161094,AR,Leroy C. Wright Sr,Nonpartisan,33,100.0,False,False
+150261,AR,Mike Bishop,Republican,8162,100.0,True,False
+162054,AR,Larry L. Knowlton,Democratic,244,52.814,False,False
+162054,AR,Rodney Kelso,Independent,218,47.186,False,False
+161698,AR,LaQuita Rainey,Democratic,685,54.888,False,False
+161698,AR,Jill Weinischke,Republican,563,45.112,False,False
+161407,AR,Jeremy Edington,Nonpartisan,22,70.968,False,False
+161407,AR,Matthew Raddatz,Nonpartisan,9,29.032,False,False
+161858,AR,Cassie Toliver,Republican,1765,100.0,False,False
+161752,AR,Boyce Mitchell,Nonpartisan,358,61.092,False,False
+161752,AR,J. Wayne Reynolds,Nonpartisan,228,38.908,False,False
+162011,AR,Mike Verkler,Republican,14863,67.266,False,False
+162011,AR,Toby Troutman,Independent,7233,32.734,False,False
+162164,AR,No,Nonpartisan,1219,52.748,False,False
+162164,AR,Yes,Nonpartisan,1092,47.252,False,False
+162093,AR,Dollie Wilson,Democratic,182,51.268,False,False
+162093,AR,Colten Snow,Republican,173,48.732,False,False
+161453,AR,Brenda Ross,Independent,80,68.376,False,False
+161453,AR,Luevenia W. Davis,Independent,37,31.624,False,False
+161222,AR,Derrick Boileau,Nonpartisan,117,100.0,False,False
+161666,AR,Bill Medley,Nonpartisan,54,45.763,False,False
+161666,AR,Angela Stocksdale,Nonpartisan,27,22.881,False,False
+161666,AR,Johnny Lee Kelley,Nonpartisan,22,18.644,False,False
+161666,AR,Kamey Kelvinson,Nonpartisan,15,12.712,False,False
+161375,AR,Teressa Johnson,Nonpartisan,43,59.722,False,False
+161375,AR,Candy Fry,Nonpartisan,29,40.278,False,False
+161026,AR,Rick Shirron,Republican,243,100.0,False,False
+161720,AR,David Simmons,Nonpartisan,247,50.928,False,False
+161720,AR,Hannah Barnes,Nonpartisan,238,49.072,False,False
+161179,AR,Tim Hobbs,Nonpartisan,15,100.0,False,False
+162132,AR,Yes,Nonpartisan,1512,64.698,False,False
+162132,AR,No,Nonpartisan,825,35.302,False,False
+161460,AR,Michelle Sanders Dunbar,Independent,80,58.824,False,False
+161460,AR,Thomas Frazer,Independent,56,41.176,False,False
+161613,AR,Frank Paige,Nonpartisan,402,60.633,False,False
+161613,AR,Lorraine Mohammed,Nonpartisan,261,39.367,False,False
+161574,AR,Chad Moody,Nonpartisan,387,59.722,False,False
+161574,AR,Blake Davis,Nonpartisan,261,40.278,False,False
+162025,AR,Kellie Matt,Republican,553,70.0,False,False
+162025,AR,David Robinette,Democratic,237,30.0,False,False
+161343,AR,Nicole Glass-Carroll,Nonpartisan,97,80.165,False,False
+161343,AR,Doyle R. Flanery,Nonpartisan,24,19.835,False,False
+161986,AR,Chris Lowery,Independent,8522,50.681,False,False
+161986,AR,Lafayette Woods Jr.,Democratic,8293,49.319,False,False
+161688,AR,Angie Strawn,Nonpartisan,229,59.948,False,False
+161688,AR,Doris Scoggins,Nonpartisan,95,24.869,False,False
+161688,AR,Patrick May,Nonpartisan,58,15.183,False,False
+161147,AR,Cale Thompson,Nonpartisan,81,100.0,False,False
+161048,AR,Justin Crain,Nonpartisan,58,100.0,False,False
+162100,AR,CJ Engel,Republican,1894,64.051,False,False
+162100,AR,"Andrea ""Andy"" Hillis",Democratic,1063,35.949,False,False
+161620,AR,Blake Pennington,Nonpartisan,16920,67.218,False,False
+161620,AR,DJ Deutch,Nonpartisan,8252,32.782,False,False
+161773,AR,Joseph Myles,Independent,191,55.848,False,False
+161773,AR,Maxine T. Teague,Independent,151,44.152,False,False
+161542,AR,Emily Beard,Nonpartisan,60,54.054,False,False
+161542,AR,Ruth Ann Crites,Nonpartisan,51,45.946,False,False
+161193,AR,Eric Smith,Nonpartisan,59,100.0,False,False
+161311,AR,Derrick Turner,Independent,937,42.245,False,False
+161311,AR,Daniel Strickland,Independent,796,35.888,False,False
+161311,AR,"James F. ""J.F."" Valley",Independent,485,21.867,False,False
+161154,AR,Jimmy Dorney,Independent,94,100.0,False,False
+161663,AR,Kevin Williams,Nonpartisan,525,50.048,False,False
+161663,AR,Mark Long,Nonpartisan,524,49.952,False,False
+161115,AR,Lester Overturf,Nonpartisan,31,100.0,False,False
+162008,AR,Gil Brazeale,Democratic,1760,36.575,False,False
+162008,AR,Bobby May,Independent,1681,34.933,False,False
+162008,AR,Tommy D. Hampton Jr.,Republican,1371,28.491,False,False
+162068,AR,Kevin Gillmore,Republican,4168,74.482,False,False
+162068,AR,Cecily B. Lynch,Democratic,1428,25.518,False,False
+161780,AR,Kenneth Harris,Democratic,81,64.286,False,False
+161780,AR,John L Hicks,Independent,45,35.714,False,False
+161741,AR,Casie Cenobio,Nonpartisan,227,53.412,False,False
+161741,AR,Jerry D. Carlton,Nonpartisan,198,46.588,False,False
+161510,AR,Bill Mills,Independent,243,66.575,False,False
+161510,AR,Don Fuller,Independent,122,33.425,False,False
+162153,AR,Yes,Nonpartisan,726,75.468,False,False
+162153,AR,No,Nonpartisan,236,24.532,False,False
+161279,AR,Terri A Glenn,Nonpartisan,16,100.0,False,False
+161122,AR,Scotty Tooley,Independent,8,100.0,False,False
+161823,AR,Beckie Seba,Nonpartisan,6960,51.495,False,False
+161823,AR,Austin Bryan,Nonpartisan,6556,48.505,False,False
+161083,AR,Bill Gilkey,Nonpartisan,218,100.0,False,False
+161176,AR,Brock Steed,Nonpartisan,442,100.0,False,False
+161435,AR,Bobby J. Box,Nonpartisan,74,77.083,False,False
+161435,AR,Bonnie Morris Box,Nonpartisan,22,22.917,False,False
+161709,AR,Danny Lee Seal,Nonpartisan,51,69.863,False,False
+161709,AR,Jennifer Pence,Nonpartisan,22,30.137,False,False
+161478,AR,Jeffrey C. Fields,Nonpartisan,148,78.307,False,False
+161478,AR,Jordan Bolser,Nonpartisan,41,21.693,False,False
+162121,AR,Stephanie Guzman-Zamarron,Democratic,3651,52.083,False,False
+162121,AR,Carlos Chicas,Republican,3359,47.917,False,False
+161638,AR,"Benny ""Big Ben"" Johnson",Independent,2964,38.594,False,False
+161638,AR,Joe Gray,Independent,2589,33.711,False,False
+161638,AR,Natalie James,Independent,2127,27.695,False,False
+161090,AR,Dwight W. Billings,Nonpartisan,92,100.0,False,False
+150315,AR,Lee Johnson,Republican,8461,100.0,True,False
+161250,AR,Patricia Renee Garr,Independent,31,100.0,False,False
+161144,AR,Veronica Post,Independent,105,100.0,False,False
+161595,AR,Lensey Hayes,Nonpartisan,28,56.0,False,False
+161595,AR,R. Lynn Brown,Nonpartisan,11,22.0,False,False
+161595,AR,Louis E. Jamison Sr.,Nonpartisan,11,22.0,False,False
+161748,AR,Luis Diaz,Nonpartisan,246,57.077,False,False
+161748,AR,Carroll Smith,Nonpartisan,185,42.923,False,False
+161677,AR,Hayden Shelby,Nonpartisan,69,57.983,False,False
+161677,AR,Kevin T Overholt,Nonpartisan,50,42.017,False,False
+161037,AR,Frances Hendrix,Nonpartisan,39,100.0,False,False
+161798,AR,Michael Brown,Nonpartisan,113,81.295,False,False
+161798,AR,Dale Carothers,Nonpartisan,26,18.705,False,False
+161449,AR,Althea Hadden-Scott,Democratic,7546,80.992,False,False
+161449,AR,Lorraine Hatcher,Independent,1771,19.008,False,False
+150283,AR,Richard McGrew,Republican,8011,100.0,True,False
+161410,AR,Colby E. Yates,Independent,157,85.792,False,False
+161410,AR,Tommy A. Doss,Independent,26,14.208,False,False
+161112,AR,William (Bill) Harp,Independent,215,100.0,False,False
+161563,AR,Daniel Haynes,Nonpartisan,259,38.484,False,False
+161563,AR,Jackie Davis J,Nonpartisan,240,35.661,False,False
+161563,AR,Cameron Tate,Nonpartisan,174,25.854,False,False
+161716,AR,Jessica Cavaness,Nonpartisan,41,56.944,False,False
+161716,AR,Richard Wible,Nonpartisan,31,43.056,False,False
+161044,AR,Johnny McAnally,Independent,119,100.0,False,False
+161997,AR,Ronni Schwantz,Republican,96,61.146,False,False
+161997,AR,Drew Wooten,Democratic,61,38.854,False,False
+161958,AR,Joe N. Akins,Independent,438,73.122,False,False
+161958,AR,Jordan Woods,Republican,161,26.878,False,False
+161609,AR,Yes,Nonpartisan,433,59.315,False,False
+161609,AR,No,Nonpartisan,297,40.685,False,False
+150251,AR,Tippi McCullough,Democratic,10050,100.0,True,False
+161570,AR,James Pearson,Nonpartisan,412,58.192,False,False
+161570,AR,Lenny V. Adams,Nonpartisan,296,41.808,False,False
+161080,AR,Terry Oliver,Nonpartisan,528,100.0,False,False
+161531,AR,Samuel Thompson Sr.,Nonpartisan,49,59.756,False,False
+161531,AR,Michael Bogy,Nonpartisan,33,40.244,False,False
+161432,AR,Cedric Williams,Nonpartisan,1149,55.885,False,False
+161432,AR,Kendall Pettus,Nonpartisan,683,33.22,False,False
+161432,AR,Lowry Astin,Nonpartisan,166,8.074,False,False
+161432,AR,D'Mari Curne,Nonpartisan,58,2.821,False,False
+161684,AR,Travis Fancher,Nonpartisan,514,72.702,False,False
+161684,AR,Shellie Salza,Nonpartisan,193,27.298,False,False
+162004,AR,John Reeder Raulerson,Republican,208,51.485,False,False
+162004,AR,Juanita Jackson,Democratic,196,48.515,False,False
+161165,AR,Dennis Whitener,Independent,125,100.0,False,False
+161926,AR,Wayne Wesson,Republican,1660,72.68,False,False
+161926,AR,Andrew C. Pritt,Democratic,624,27.32,False,False
+161769,AR,Christene Johnson-Bean,Independent,89,50.568,False,False
+161769,AR,Vonice Parks,Independent,87,49.432,False,False
+150219,AR,Cynthia Nations,Democratic,4789,51.545,True,False
+150219,AR,Matt Brown,Republican,4502,48.455,False,False
+161538,AR,Joe Ann Prackett,Nonpartisan,69,65.094,False,False
+161538,AR,Audrey Embery,Nonpartisan,37,34.906,False,False
+162047,AR,Deborah Oglesby,Republican,15577,70.519,False,False
+162047,AR,Charla Perkins,Independent,6512,29.481,False,False
+161499,AR,Nancy Webster,Independent,101,67.785,False,False
+161499,AR,Toria Jefferson,Independent,48,32.215,False,False
+161592,AR,Charles Johnson,Nonpartisan,1031,27.76,False,False
+161592,AR,Ray Nassar,Nonpartisan,823,22.159,False,False
+161592,AR,Austin Smith,Nonpartisan,697,18.767,False,False
+161592,AR,Sherry Holliman,Nonpartisan,619,16.667,False,False
+161592,AR,"Andrew ""Andy"" Matthews",Nonpartisan,544,14.647,False,False
+161851,AR,Becky Hood,Republican,3428,100.0,False,False
+161133,AR,Ray Bowman,Independent,988,100.0,False,False
+161894,AR,Brenda Warren,Republican,4610,100.0,False,False
+161737,AR,Judy Weaver,Independent,1072,58.42,False,False
+161737,AR,Patrick Slick Baker,Independent,763,41.58,False,False
+161062,AR,Scott Byrd,Nonpartisan,1898,100.0,False,False
+161506,AR,Letory Collins,Nonpartisan,56,53.846,False,False
+161506,AR,Coletha Vasser,Nonpartisan,48,46.154,False,False
+161215,AR,J. Stanley Debow,Nonpartisan,26,100.0,False,False
+161467,AR,Deon Lee,Nonpartisan,218,87.55,False,False
+161467,AR,Shelby Pulliam,Nonpartisan,31,12.45,False,False
+161560,AR,Dena Poteat,Nonpartisan,90,63.83,False,False
+161560,AR,Eric Boileau,Nonpartisan,51,36.17,False,False
+161019,AR,Rickey J. Egger,Nonpartisan,21,100.0,False,False
+161172,AR,Rebecca Ann Brown,Nonpartisan,17,100.0,False,False
+161101,AR,Rowdy Sweet,Republican,613,100.0,False,False
+161261,AR,Ronald Faith,Independent,21,100.0,False,False
+162022,AR,Brian A. Lachowsky Sr.,Republican,316,71.011,False,False
+162022,AR,Justin McCormick,Independent,129,28.989,False,False
+161474,AR,"Robert ""Pappy"" Crouch",Nonpartisan,116,61.053,False,False
+161474,AR,Bill Collins,Nonpartisan,74,38.947,False,False
+162175,AR,Tracy Moorman,Nonpartisan,3668,53.345,False,False
+162175,AR,Melanie Nichols,Nonpartisan,3208,46.655,False,False
+161826,AR,Dan Grover,Nonpartisan,7293,55.71,False,False
+161826,AR,Dylan Shaddox,Nonpartisan,5798,44.29,False,False
+161528,AR,Danielle Howard,Nonpartisan,63,60.0,False,False
+161528,AR,Jeannie Coleman,Nonpartisan,42,40.0,False,False
+161979,AR,Larry McMahen,Republican,3642,56.747,False,False
+161979,AR,Clayton Richardson,Democratic,2776,43.253,False,False
+161140,AR,Brian Reynolds,Independent,47,100.0,False,False
+161069,AR,Dale Gardner,Independent,20,100.0,False,False
+161421,AR,Joe Szabo,Nonpartisan,113,59.788,False,False
+161421,AR,"""Cricket"" Linda Briggs",Nonpartisan,76,40.212,False,False
+161382,AR,Tamara Wyatt,Nonpartisan,259,53.402,False,False
+161382,AR,Miranda C. Huffman,Nonpartisan,226,46.598,False,False
+161033,AR,Rick Elumbaugh,Independent,1957,100.0,False,False
+162143,AR,No,Nonpartisan,2459,57.818,False,False
+162143,AR,Yes,Nonpartisan,1794,42.182,False,False
+150318,AR,Cameron Cooper,Republican,9090,100.0,True,False
+161496,AR,Tracy Lewis McDonald,Nonpartisan,41,51.25,False,False
+161496,AR,Irene Combs,Nonpartisan,24,30.0,False,False
+161496,AR,Malcom C. Curne Sr.,Nonpartisan,15,18.75,False,False
+161947,AR,Tim Nichols,Republican,2833,56.333,False,False
+161947,AR,Jerome Lamaine Perez,Independent,1923,38.238,False,False
+161947,AR,Larry Smith,Independent,273,5.429,False,False
+161848,AR,Michelle Evans,Independent,3585,100.0,False,False
+161108,AR,Bobby Carroll,Independent,37,100.0,False,False
+161428,AR,"Theodore ""Teddy"" Holt",Independent,908,47.095,False,False
+161428,AR,Norma Strabala,Independent,852,44.191,False,False
+161428,AR,Rick Koenig,Independent,168,8.714,False,False
+161581,AR,Thomas Miller,Nonpartisan,364,52.677,False,False
+161581,AR,Rae Austin,Nonpartisan,327,47.323,False,False
+161350,AR,Lee Charles Brown Jr.,Independent,128,70.718,False,False
+161350,AR,Joseph Rameriz,Independent,53,29.282,False,False
+161993,AR,Al Selleck,Democratic,660,53.528,False,False
+161993,AR,Sharon Lawlor,Republican,573,46.472,False,False
+162111,AR,Joe Maynard,Republican,15797,52.291,False,False
+162111,AR,Mark Farrer,Democratic,14413,47.709,False,False
+161954,AR,Nathan Allen Treadwell,Republican,146,60.581,False,False
+161954,AR,Jeff Ratchford,Independent,95,39.419,False,False
+161464,AR,Mark Crowell Chandler,Nonpartisan,249,53.548,False,False
+161464,AR,Kali Brewer,Nonpartisan,216,46.452,False,False
+161915,AR,Brenda DeShields -,Republican,69399,100.0,False,False
+161016,AR,Lisa Cogburn,Nonpartisan,18,100.0,False,False
+161076,AR,Jimmy Fincher,Nonpartisan,1187,100.0,False,False
+161588,AR,Austin Cates,Nonpartisan,2572,72.247,False,False
+161588,AR,Barton Ball,Nonpartisan,988,27.753,False,False
+161549,AR,Bruce Delaney,Nonpartisan,51,59.302,False,False
+161549,AR,Alice S. Postell,Nonpartisan,24,27.907,False,False
+161549,AR,Maxine Cobbs,Nonpartisan,9,10.465,False,False
+161549,AR,Dorotha McFarland,Nonpartisan,2,2.326,False,False
+161318,AR,Lamont Swanigan,Independent,482,61.795,False,False
+161318,AR,Herbert Lang,Independent,183,23.462,False,False
+161318,AR,Oscar M. Conyears,Independent,115,14.744,False,False
+161161,AR,Renee S. Montgomery,Nonpartisan,439,100.0,False,False
+162079,AR,Saber Woodard,Republican,1031,54.666,False,False
+162079,AR,Victoria Longoria,Democratic,855,45.334,False,False
+161922,AR,Tommy Sturgeon,Republican,3478,67.299,False,False
+161922,AR,Johnny Oliver,Independent,1690,32.701,False,False
+161631,AR,John D. Flynn,Nonpartisan,6599,43.36,False,False
+161631,AR,Wendy Hughes,Nonpartisan,5940,39.03,False,False
+161631,AR,Benjamin Hunt,Nonpartisan,2680,17.61,False,False
+161883,AR,Jacob Palmer,Nonpartisan,4756,100.0,False,False
+161976,AR,Charles Atkins Sr.,Democratic,292,53.48,False,False
+161976,AR,Scott May,Republican,254,46.52,False,False
+161243,AR,Bob Blankenship,Nonpartisan,287,100.0,False,False
+161517,AR,Tarzan Lee,Nonpartisan,59,36.646,False,False
+161517,AR,Ronald L. Kirkwood,Nonpartisan,40,24.845,False,False
+161517,AR,Roy Winfrey,Nonpartisan,40,24.845,False,False
+161517,AR,Jay Q. Malone,Nonpartisan,22,13.665,False,False
+161286,AR,Antonio (Tony) Rucker,Independent,497,51.663,False,False
+161286,AR,Joy Haddock Davis,Independent,311,32.328,False,False
+161286,AR,Tori L. Green,Independent,93,9.667,False,False
+161286,AR,Byron Walker,Independent,61,6.341,False,False
+161129,AR,Zane Boyd,Nonpartisan,183,100.0,False,False
+161446,AR,Jaylen Smith,Nonpartisan,316,66.526,False,False
+161446,AR,Ashley Bell,Nonpartisan,159,33.474,False,False
+161890,AR,Rachel L. Oertling,Republican,14586,100.0,False,False
+161791,AR,Keith Evans,Independent,282,51.838,False,False
+161791,AR,Joseph McDermott,Independent,262,48.162,False,False
+162050,AR,Roy Agee,Republican,645,56.728,False,False
+162050,AR,David E. Dinwiddie,Democratic,492,43.272,False,False
+161944,AR,Dana D. Deree,Democratic,40755,54.01,False,False
+161944,AR,Tim Shepard,Republican,34703,45.99,False,False
+161403,AR,Tony Berry,Independent,176,59.06,False,False
+161403,AR,Jason Jackson,Independent,122,40.94,False,False
+161556,AR,No,Nonpartisan,95,61.688,False,False
+161556,AR,Yes,Nonpartisan,59,38.312,False,False
+161485,AR,Yes,Nonpartisan,44,51.163,False,False
+161485,AR,No,Nonpartisan,42,48.837,False,False
+161837,AR,Josie Reed,Nonpartisan,3001,53.427,False,False
+161837,AR,Parker Touchton,Nonpartisan,2616,46.573,False,False
+161606,AR,Mac Green,Nonpartisan,408,58.621,False,False
+161606,AR,Angela Gillooley,Nonpartisan,288,41.379,False,False
+161257,AR,Terry Don Robinson,Nonpartisan,380,100.0,False,False
+161759,AR,Carry Manuel,Nonpartisan,1648,52.501,False,False
+161759,AR,Mary E. O'Shields,Nonpartisan,1491,47.499,False,False
+161218,AR,Eric McNeely,Nonpartisan,182,100.0,False,False
+161912,AR,Kristie Womble-Hughes Garland,Republican,23022,100.0,False,False
+161371,AR,Jeremiah MacDonald,Independent,187,61.716,False,False
+161371,AR,Marc L. Herring,Independent,116,38.284,False,False
+161524,AR,Michael Thomas Jr.,Independent,49,70.0,False,False
+161524,AR,Phyllis Racy,Independent,21,30.0,False,False
+161844,AR,Dwayne Snyder,Nonpartisan,1838,65.76,False,False
+161844,AR,Tony Kaczoroski,Nonpartisan,957,34.24,False,False
+161005,AR,Cody Byrd,Independent,108,75.0,False,False
+161005,AR,Brian Miller,Independent,36,25.0,False,False
+150290,AR,Shad Pearce,Republican,6577,100.0,True,False
+161417,AR,Teresa Trail,Independent,22,64.706,False,False
+161417,AR,Justin Tapley,Independent,12,35.294,False,False
+161727,AR,David Cook,Independent,54,63.529,False,False
+161727,AR,Ginny Stone,Independent,31,36.471,False,False
+161378,AR,Sherry Cody,Nonpartisan,1531,79.864,False,False
+161378,AR,Isaac A. Decker,Nonpartisan,386,20.136,False,False
+161880,AR,Shelby Atkinson Pennington,Republican,4787,100.0,False,False
+161339,AR,Josie Payne,Nonpartisan,25,69.444,False,False
+161339,AR,Franklin Harmon Sr.,Nonpartisan,11,30.556,False,False
+161240,AR,Willie Gene Watts,Independent,39,100.0,False,False
+161492,AR,Crystal Herrmann,Independent,450,76.401,False,False
+161492,AR,Paul Mitchell,Independent,139,23.599,False,False
+161012,AR,Seth F. Smith,Nonpartisan,1098,100.0,False,False
+161965,AR,Valerie Donaldson,Democratic,1969,68.511,False,False
+161965,AR,Renee Baxter,Republican,905,31.489,False,False
+150258,AR,Chad Puryear,Republican,7134,64.253,True,False
+150258,AR,Courtney King,Democratic,3969,35.747,False,False
+161577,AR,Casey Millspaugh,Nonpartisan,8970,50.995,False,False
+161577,AR,Brian Trumbly,Nonpartisan,4755,27.032,False,False
+161577,AR,Carl Nevin,Nonpartisan,3865,21.973,False,False
+161695,AR,LaTunjha Camper-Bell,Independent,162,64.8,False,False
+161695,AR,Della M Skinner,Independent,88,35.2,False,False
+161346,AR,L.T. Davis,Nonpartisan,1285,56.31,False,False
+161346,AR,Kasey Griffin,Nonpartisan,997,43.69,False,False
+161055,AR,Roger D. Gardner,Nonpartisan,816,100.0,False,False
+161307,AR,Tammy Waters,Nonpartisan,4571,69.331,False,False
+161307,AR,Laney Harris,Nonpartisan,2022,30.669,False,False
+161400,AR,David P. Carter,Nonpartisan,124,57.944,False,False
+161400,AR,Daniel Hinojosa,Nonpartisan,90,42.056,False,False
+161659,AR,Yes,Nonpartisan,12050,61.483,False,False
+161659,AR,No,Nonpartisan,7549,38.517,False,False
+161933,AR,Billy Hill,Republican,212,55.937,False,False
+161933,AR,Leotis Snowden,Democratic,167,44.063,False,False
+150226,AR,Talesha Dokes,Democratic,5344,100.0,True,False
+161545,AR,Yes,Nonpartisan,81,64.286,False,False
+161545,AR,No,Nonpartisan,45,35.714,False,False
+161862,AR,Michelle Loggins,Republican,2117,100.0,False,False
+161314,AR,Roger Williams,Independent,187,42.597,False,False
+161314,AR,Mark Warren,Independent,140,31.891,False,False
+161314,AR,Terry Adams,Independent,85,19.362,False,False
+161314,AR,Zackory Graham,Independent,27,6.15,False,False
+162015,AR,Ralph V. Williams,Republican,260,51.69,False,False
+162015,AR,Carmen Jones,Democratic,243,48.31,False,False
+161275,AR,Mary Jane Erwin,Nonpartisan,156,50.485,False,False
+161275,AR,Heith Hogan,Nonpartisan,153,49.515,False,False
+161368,AR,Ronald Cogburn,Independent,97,52.151,False,False
+161368,AR,Jesse Edge,Independent,89,47.849,False,False
+161819,AR,John P. Vaillancourt,Nonpartisan,553,54.163,False,False
+161819,AR,Marci McClamroch,Nonpartisan,468,45.837,False,False
+161972,AR,Junious Pruett,Republican,61,51.261,False,False
+161972,AR,Emma L. Nelson,Democratic,58,48.739,False,False
+161901,AR,Heather Smith,Republican,8793,100.0,False,False
+162061,AR,Jimmy Rogers,Republican,681,82.948,False,False
+162061,AR,Taylor Jones,Democratic,140,17.052,False,False
+161030,AR,Zach Wilson,Nonpartisan,140,100.0,False,False
+161282,AR,Amanda Farris,Nonpartisan,582,65.174,False,False
+161282,AR,Andrew Hubble,Nonpartisan,311,34.826,False,False
+161183,AR,Julie Furlow,Independent,52,100.0,False,False
+161634,AR,No,Nonpartisan,87,54.375,False,False
+161634,AR,Yes,Nonpartisan,73,45.625,False,False
+161336,AR,Tyler Williams,Nonpartisan,374,45.554,False,False
+161336,AR,Argest Hyler,Nonpartisan,245,29.842,False,False
+161336,AR,John Charles Milam,Nonpartisan,202,24.604,False,False
+150311,AR,Missy Thomas Irvin,Republican,25925,100.0,True,False
+161940,AR,Tyler Dunegan,Republican,4006,52.033,False,False
+161940,AR,Tiffany Baker,Democratic,3693,47.967,False,False
+161869,AR,Judy Kay Harris,Republican,10153,100.0,False,False
+161229,AR,Donald B Brock,Republican,406,100.0,False,False
+161190,AR,Nathan Bloch,Nonpartisan,43,100.0,False,False
+161833,AR,April Ford Broderick,Independent,1764,58.977,False,False
+161833,AR,Brett Johnson,Independent,1227,41.023,False,False
+161151,AR,Danny Morgan,Nonpartisan,70,100.0,False,False
+161794,AR,Mike Stout,Independent,43,51.807,False,False
+161794,AR,Samuel Olive,Independent,40,48.193,False,False
+161304,AR,Nona Hayden,Independent,103,70.548,False,False
+161304,AR,Luther Yancey,Independent,43,29.452,False,False
+150279,AR,Les Warren,Republican,5984,100.0,True,False
+161656,AR,Yes,Nonpartisan,10554,57.619,False,False
+161656,AR,No,Nonpartisan,7763,42.381,False,False
+161908,AR,David Vaughn,Republican,21284,100.0,False,False
+161236,AR,Larry Nash,Nonpartisan,85,100.0,False,False
+161389,AR,Verna Coats,Nonpartisan,220,52.632,False,False
+161389,AR,Sara Grimes,Nonpartisan,198,47.368,False,False
+162150,AR,Yes,Nonpartisan,1313,70.591,False,False
+162150,AR,No,Nonpartisan,547,29.409,False,False
+161001,AR,Seth J. Connell,Independent,767,100.0,False,False
+161119,AR,Roger Lee,Nonpartisan,290,100.0,False,False
+150286,AR,Tyler Dees,Republican,20875,100.0,True,False
+161272,AR,Chris Holland (Mayor),Nonpartisan,709,100.0,False,False
+150247,AR,Curtis Hitt,Nonpartisan,35961,62.846,False,False
+150247,AR,Andrew Nadzam,Nonpartisan,21260,37.154,False,False
+161816,AR,Teresa A. Turk,Nonpartisan,2942,43.93,False,False
+161816,AR,Kyle Smith,Nonpartisan,2314,34.553,False,False
+161816,AR,Jason Charles Truelove,Nonpartisan,802,11.976,False,False
+161816,AR,Chad Hall,Nonpartisan,639,9.542,False,False
+161876,AR,Tamekia Franklin,Democratic,3668,100.0,False,False
+161396,AR,Michael Baumgartner,Nonpartisan,347,51.714,False,False
+161396,AR,Brandon Burt,Nonpartisan,324,48.286,False,False
+161357,AR,Carol Mitchell,Independent,82,58.571,False,False
+161357,AR,Gynder D. Benson,Independent,58,41.429,False,False
+162118,AR,Angelina White,Democratic,2437,57.395,False,False
+162118,AR,Candice Bright,Republican,1809,42.605,False,False
+161961,AR,Nathan Miller,Democratic,37761,50.38,False,False
+161961,AR,Russell Hill,Republican,37192,49.62,False,False
+161087,AR,Lisa L. Harrison,Nonpartisan,114,100.0,False,False
+150254,AR,Mike Holcomb,Republican,7663,100.0,True,False
+161439,AR,Michael Hodges,Independent,85,62.5,False,False
+161439,AR,Sharon McCuller-Silverman,Independent,51,37.5,False,False
+150215,AR,Charlene Fite,Republican,6771,77.89,True,False
+150215,AR,Ryan Intchauspe,Democratic,1922,22.11,False,False
+150308,AR,Jeremy Riddle,Republican,9753,100.0,True,False
+162043,AR,Stephanie Olds,Republican,3279,51.323,False,False
+162043,AR,Tonyat Mckenzie,Democratic,3110,48.677,False,False
+161325,AR,Mark Ross,Nonpartisan,107,57.219,False,False
+161325,AR,Allen Doyle Flowers,Nonpartisan,80,42.781,False,False
+162086,AR,Johnny Passmore,Democratic,1713,50.967,False,False
+162086,AR,Kris Kendrick,Republican,1648,49.033,False,False
+161929,AR,Robert Drake,Independent,1017,56.219,False,False
+161929,AR,Jeff Black,Republican,792,43.781,False,False
+161254,AR,Cody Kees,Independent,303,100.0,False,False
+150222,AR,Allison Grigsby Sweatman,Democratic,18175,53.061,True,False
+150222,AR,Brandon Achor,Republican,16078,46.939,False,False
+161599,AR,Dawn M. Hutchins,Nonpartisan,442,65.481,False,False
+161599,AR,Larry D. Johnson,Nonpartisan,233,34.519,False,False
+161058,AR,Ethan N. Dunbar,Independent,213,100.0,False,False
+150276,AR,Michael D. Mason,Democratic,5704,100.0,True,False
+161211,AR,Donnie Fulbright,Independent,71,100.0,False,False
+161364,AR,Sherry Wooten Gillon,Nonpartisan,141,47.0,False,False
+161364,AR,Jestan Hopkins Sr.,Nonpartisan,119,39.667,False,False
+161364,AR,Janice Rena McCoy,Nonpartisan,40,13.333,False,False
+161293,AR,Lowell Jackie Estes,Independent,89,78.761,False,False
+161293,AR,Leon Johnson,Independent,24,21.239,False,False
+161645,AR,Bill Edwards,Nonpartisan,3690,60.871,False,False
+161645,AR,Andrew M. Sova,Nonpartisan,2372,39.129,False,False
+161414,AR,Joe Harris Jr.,Independent,790,54.671,False,False
+161414,AR,Parker Stallings II,Independent,388,26.851,False,False
+161414,AR,James Crab Watson,Independent,152,10.519,False,False
+161414,AR,Bearnard Veasley,Independent,115,7.958,False,False
+162057,AR,Samuel (Sam) Strain,Republican,1926,59.925,False,False
+162057,AR,Samantha Womack,Democratic,1288,40.075,False,False
+161567,AR,Brenda Hutcheson,Nonpartisan,353,54.141,False,False
+161567,AR,Teddy Qualls,Nonpartisan,299,45.859,False,False
+162018,AR,Beth Wilson,Republican,560,50.224,False,False
+162018,AR,Alexandra Lauryn Thomas,Democratic,555,49.776,False,False
+150244,AR,Joshua P. Bryant,Republican,17761,100.0,True,False
+162171,AR,Bao Nguyen,Nonpartisan,4172,53.881,False,False
+162171,AR,Laura Ramoly,Nonpartisan,3571,46.119,False,False
+161332,AR,Andre Rucks,Democratic,2479,54.628,False,False
+161332,AR,Paul D. Choate,Republican,1842,40.591,False,False
+161332,AR,Byron D. Miller Jr.,Independent,217,4.782,False,False
+161652,AR,No,Nonpartisan,651,66.975,False,False
+161652,AR,Yes,Nonpartisan,321,33.025,False,False
+161805,AR,Justin Johnson,Independent,848,56.271,False,False
+161805,AR,Donald P. Raney,Independent,659,43.729,False,False
+161766,AR,Dara Casey,Nonpartisan,324,66.804,False,False
+161766,AR,Carlton Robbins,Nonpartisan,161,33.196,False,False
+161225,AR,Charles Snapp,Nonpartisan,1144,100.0,False,False
+161535,AR,Curtis Gray,Nonpartisan,398,65.246,False,False
+161535,AR,Joey Russell,Nonpartisan,212,34.754,False,False
+161186,AR,Paul Keith,Nonpartisan,297,100.0,False,False
+150212,AR,Jimmy Gazaway,Republican,6181,100.0,True,False
+162139,AR,No,Nonpartisan,1589,55.559,False,False
+162139,AR,Yes,Nonpartisan,1271,44.441,False,False
+162040,AR,Charles Wright,Republican,271,55.647,False,False
+162040,AR,Debora Johnson,Democratic,216,44.353,False,False
+161300,AR,Trey Taylor,Nonpartisan,289,51.699,False,False
+161300,AR,Brandon Taylor,Nonpartisan,270,48.301,False,False
+161812,AR,LaConda T. Watson,Independent,3130,53.956,False,False
+161812,AR,Joy Kinman,Independent,2671,46.044,False,False
+150297,AR,Tonya Fletcher,Republican,7550,100.0,True,False
+161734,AR,Joe Guy,Independent,290,60.669,False,False
+161734,AR,Paige Horton,Independent,188,39.331,False,False
+161385,AR,VerMarsha Stewart,Nonpartisan,165,60.44,False,False
+161385,AR,Erick Hinton,Nonpartisan,108,39.56,False,False
+161503,AR,Charles Perry,Independent,70,54.264,False,False
+161503,AR,Tracie L. Thrower,Independent,59,45.736,False,False
+162146,AR,Yes,Nonpartisan,61,79.221,False,False
+162146,AR,No,Nonpartisan,16,20.779,False,False
+161855,AR,April Hice,Republican,5201,100.0,False,False
+162107,AR,Karen Crowson,Republican,4479,74.402,False,False
+162107,AR,Debra Fuller,Democratic,1541,25.598,False,False
+161208,AR,Jody Campbell,Nonpartisan,12,100.0,False,False
+161268,AR,Derrick Michael Rainey,Independent,184,100.0,False,False
+150265,AR,Jason Nazarenko,Republican,8634,100.0,True,False
+161702,AR,Tyesha Byrd,Independent,88,50.575,False,False
+161702,AR,Amelia Johnson-Brown,Independent,86,49.425,False,False
+161353,AR,Chris Aaron,Independent,49,72.059,False,False
+161353,AR,Mark C. Bennett,Independent,19,27.941,False,False
+161471,AR,Racheal Julian,Independent,277,57.708,False,False
+161471,AR,Denise Davenport,Independent,203,42.292,False,False
+162114,AR,No,Nonpartisan,5825,51.981,False,False
+162114,AR,Yes,Nonpartisan,5381,48.019,False,False
+161023,AR,Samantha Johnson,Republican,72,100.0,False,False
+162075,AR,Ross Kerley,Democratic,885,59.079,False,False
+162075,AR,Darrell Cook,Republican,613,40.921,False,False
+162168,AR,Jewel Hamilton,Nonpartisan,261,55.063,False,False
+162168,AR,Loistyne R. Burrell,Nonpartisan,213,44.937,False,False
+161627,AR,Jeannie Varnell,Nonpartisan,71,50.714,False,False
+161627,AR,Nanette M. Barnes,Nonpartisan,69,49.286,False,False
+150304,AR,Alyssa Brown,Republican,10182,100.0,True,False
+150233,AR,Clint Penzo,Republican,12989,100.0,True,False
+161670,AR,David Hawkins,Nonpartisan,131,100.0,False,False
+161830,AR,Jeremy Cobb,Nonpartisan,1366,60.203,False,False
+161830,AR,Melissa Nielsen,Nonpartisan,903,39.797,False,False
+162082,AR,Walt Lanehart,Republican,878,51.465,False,False
+162082,AR,Belinda Demmings,Democratic,828,48.535,False,False
+161983,AR,Angela Wood,Republican,37821,50.385,False,False
+161983,AR,Rachel Eubanks,Democratic,37243,49.615,False,False
+161442,AR,Jennifer Short,Independent,34,72.34,False,False
+161442,AR,Robert Floyd,Independent,13,27.66,False,False
+162136,AR,Jason Smith,Democratic,1840,65.55,False,False
+162136,AR,Billy Walters Jr.,Republican,967,34.45,False,False
+161787,AR,Robert Ballard,Independent,274,50.368,False,False
+161787,AR,Jerred Price,Independent,270,49.632,False,False
+150272,AR,John Kyle Day,Republican,6130,100.0,True,False
+150201,AR,Harrell Wilson,Republican,15665,68.251,True,False
+150201,AR,Tomeka Butler,Democratic,7287,31.749,False,False
+162029,AR,Beau Strout,Independent,78,62.903,False,False
+162029,AR,Anthony Frog Bowman,Independent,46,37.097,False,False
+161990,AR,Brian Coston,Republican,578,68.402,False,False
+161990,AR,Alison Clark,Democratic,267,31.598,False,False
+161641,AR,Rebecca French,Independent,4519,63.0,False,False
+161641,AR,Tina Timmons,Independent,2654,37.0,False,False
+161951,AR,Jimmy Dale Williams,Republican,136,72.727,False,False
+161951,AR,Corey L Thomas,Independent,51,27.273,False,False
+161602,AR,Yes,Nonpartisan,1000,50.787,False,False
+161602,AR,No,Nonpartisan,969,49.213,False,False
+162104,AR,Jerry Ward JP District 11,Democratic,1137,59.126,False,False
+162104,AR,Miles H. Crawford,Republican,786,40.874,False,False
+161755,AR,Larry Shingleur Sr,Nonpartisan,364,44.608,False,False
+161755,AR,Sheila Hunt,Nonpartisan,300,36.765,False,False
+161755,AR,Daniel Reddell,Nonpartisan,152,18.627,False,False
+150240,AR,RJ Hawk,Republican,4590,50.517,True,False
+150240,AR,Gina Thomas-Littlejohn,Democratic,4496,49.483,False,False
+86947,AR,Steve Womack,Republican,127497,54.834,True,False
+86947,AR,Robb Ryerse,Democratic,96591,41.542,False,False
+86947,AR,Bobby Wilson,Libertarian,8427,3.624,False,False
+86945,AR,Rick Crawford,Republican,127253,65.41,True,False
+86945,AR,Terri Yarbrough Green,Democratic,60338,31.015,False,False
+86945,AR,Steve G. Parsons,Libertarian,6955,3.575,False,False
+86949,AR,Tom Cotton,Republican,481491,54.214,True,False
+86949,AR,Hallie Shoffner,Democratic,377104,42.46,False,False
+86949,AR,Jeff Wadlin,Libertarian,29539,3.326,False,False
+86946,AR,French Hill,Republican,127649,50.812,True,False
+86946,AR,Chris Jones,Democratic,123567,49.188,False,False
+86948,AR,Bruce Westerman,Republican,131510,65.466,True,False
+86948,AR,James Russell,Democratic,69372,34.534,False,False

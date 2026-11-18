@@ -1,0 +1,333 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+87494,WI,Yee Xiong,Democratic,1362293,51.79,True,False
+87494,WI,John Leiber,Republican,1268099,48.209,False,False
+87494,WI,Write-in,Nonpartisan,49,0.002,False,False
+87494,WI,Joseph Kexel,Write-In,0,0.0,False,False
+159584,WI,Republican,Republican,633441,51.884,False,False
+159584,WI,Democratic,Democratic,515712,42.241,False,False
+159584,WI,Independent,Independent,71734,5.876,False,False
+159584,WI,Write-In,Write-In,0,0.0,False,False
+179849,WI,Yes,Nonpartisan,1452652,56.473,True,False
+179849,WI,No,Nonpartisan,1119647,43.527,False,False
+87493,WI,JoCasta Zamarripa,Democratic,1337691,50.613,True,False
+87493,WI,Jay Schroeder,Republican,1205464,45.61,False,False
+87493,WI,Pete Karas,Green,99778,3.775,False,False
+87493,WI,Write-in,Nonpartisan,46,0.002,False,False
+87493,WI,Michael Chianese,Write-In,0,0.0,False,False
+87491,WI,David Crowley,Democratic,1440994,53.994,True,False
+87491,WI,Tom Tiffany,Republican,1227676,46.001,False,False
+87491,WI,Write-in,Nonpartisan,143,0.005,False,False
+87491,WI,Jamie Jo Carothers,Write-In,1,0.0,False,False
+87491,WI,Ieshuh Griffin,Write-In,0,0.0,False,False
+87491,WI,David D. King,Write-In,0,0.0,False,False
+87491,WI,Chad Muellenberg,Write-In,0,0.0,False,False
+87491,WI,Mary Morgan,Write-In,0,0.0,False,False
+87491,WI,Mark Grimek,Write-In,0,0.0,False,False
+87491,WI,Brayden Donnelly,Write-In,0,0.0,False,False
+87491,WI,Christine Kirchmiller,Write-In,0,0.0,False,False
+87491,WI,Reese Woods / Daniel Wagner,Write-In,0,0.0,False,False
+87492,WI,Josh Kaul,Democratic,1450697,54.642,True,False
+87492,WI,Eric Toney,Republican,1204178,45.356,False,False
+87492,WI,Write-in,Nonpartisan,45,0.002,False,False
+179848,WI,No,Nonpartisan,1344296,51.923,True,False
+179848,WI,Yes,Nonpartisan,1244742,48.077,False,False
+159583,WI,Democratic,Democratic,1323474,53.826,False,False
+159583,WI,Republican,Republican,1111776,45.216,False,False
+159583,WI,Independent,Independent,20094,0.817,False,False
+159583,WI,Green,Green,3005,0.122,False,False
+159583,WI,American Solidarity,American Solidarity,447,0.018,False,False
+159583,WI,Nonpartisan,Nonpartisan,0,0.0,False,False
+179847,WI,Yes,Nonpartisan,1308342,50.73,True,False
+179847,WI,No,Nonpartisan,1270675,49.27,False,False
+176329,WI,Kevin Knoke,Democratic,16336,52.955,True,False
+176329,WI,Shannon Zimmerman,Republican,14513,47.045,False,False
+189014,WI,Yes,Nonpartisan,0,,False,False
+189014,WI,No,Nonpartisan,0,,False,False
+176370,WI,Vinnie Miresse,Democratic,17135,60.241,True,False
+176370,WI,Jeff Disher,Republican,11309,39.759,False,False
+176378,WI,Lisa Subeck,Democratic,29409,88.814,True,False
+176378,WI,John Fons,Republican,3704,11.186,False,False
+176368,WI,Karen Hurd,Republican,13880,67.333,True,False
+176368,WI,Roger Halls,Democratic,5689,27.598,False,False
+176368,WI,Josh Kelley,Independent,1045,5.069,False,False
+176351,WI,Lee Snodgrass,Democratic,15878,63.604,True,False
+176351,WI,Reive Pullen,Republican,9086,36.396,False,False
+176384,WI,John Kroll,Democratic,12377,54.074,True,False
+176384,WI,Patrick Snyder,Republican,10512,45.926,False,False
+176392,WI,Christian Phelps,Democratic,17627,61.676,True,False
+176392,WI,Michael Ayala,Republican,10953,38.324,False,False
+176414,WI,Jeff Smith,Democratic,48231,58.438,True,False
+176414,WI,Michele Magadance Skinner,Republican,34302,41.562,False,False
+176390,WI,Jodi Emerson,Democratic,16495,59.538,True,False
+176390,WI,Bruce Stabenow,Republican,11210,40.462,False,False
+189011,WI,Yes,Nonpartisan,33,50.769,False,False
+189011,WI,No,Nonpartisan,32,49.231,False,False
+176310,WI,Sequanna Taylor,Democratic,15331,91.523,True,False
+176310,WI,Shandowlyon Reaves,Republican,1420,8.477,False,False
+176332,WI,Steve Wicklund,Republican,17160,62.339,True,False
+176332,WI,Maria Elena Bisabarros,Democratic,10367,37.661,False,False
+176308,WI,Priscilla Prado,Democratic,10861,80.363,True,False
+176308,WI,Sam Guerrero,Republican,2654,19.637,False,False
+176348,WI,Travis Tranel,Republican,13392,56.799,True,False
+176348,WI,John Rindy,Democratic,10186,43.201,False,False
+176356,WI,Kevin Krentz,Republican,18148,65.797,True,False
+176356,WI,Joey Marschall,Democratic,9434,34.203,False,False
+176354,WI,Nate Gustafson,Republican,16608,55.722,True,False
+176354,WI,Alex Corrigan,Democratic,13197,44.278,False,False
+189007,WI,Brenda Behrle,Republican,15518,97.93,False,False
+189007,WI,Write-in,Nonpartisan,328,2.07,False,False
+176387,WI,Brandy Tollefson,Democratic,14593,54.33,True,False
+176387,WI,Ben Franklin,Republican,12267,45.67,False,False
+176395,WI,Tara Johnson,Democratic,16250,60.934,True,False
+176395,WI,Jim Green,Republican,10418,39.066,False,False
+176395,WI,Write-in,Nonpartisan,0,0.0,False,False
+176371,WI,Scott Krug,Republican,16343,60.18,True,False
+176371,WI,Christine Maltese,Democratic,10814,39.82,False,False
+176336,WI,Mark Born,Republican,14331,62.949,True,False
+176336,WI,LaToya Bates,Democratic,8435,37.051,False,False
+176344,WI,Clinton Anderson,Democratic,12831,60.79,True,False
+176344,WI,Jocelyn Jordan,Republican,8276,39.21,False,False
+176409,WI,Trevor Jung,Democratic,43325,56.656,True,False
+176409,WI,Jim Croft,Republican,33145,43.344,False,False
+176385,WI,John Spiros,Republican,16760,61.534,True,False
+176385,WI,Andy Wuethrich,Democratic,10477,38.466,False,False
+176407,WI,Jenna Jacobson,Democratic,43775,53.799,True,False
+176407,WI,Howard Marklein,Republican,37593,46.201,False,False
+176383,WI,Chuck Wichgers,Republican,0,,True,False
+189004,WI,Yes,Nonpartisan,269,75.989,False,False
+189004,WI,No,Nonpartisan,85,24.011,False,False
+189012,WI,Yes,Nonpartisan,0,,False,False
+189012,WI,No,Nonpartisan,0,,False,False
+176325,WI,Joe Sheehan,Democratic,12937,58.262,True,False
+176325,WI,John Belanger,Republican,9268,41.738,False,False
+176301,WI,Shae Sortwell,Republican,16071,57.716,True,False
+176301,WI,Alicia Saunders,Democratic,11774,42.284,False,False
+176341,WI,Maureen McCarville,Democratic,19180,61.967,True,False
+176341,WI,Keith F. Miller,Republican,11772,38.033,False,False
+176349,WI,Bill Oemichen,Democratic,18462,61.191,True,False
+176349,WI,Jon Aleckson,Republican,11709,38.809,False,False
+176347,WI,Andrew Hysell,Democratic,22012,73.651,True,False
+176347,WI,Mark Kjorlie,Republican,7875,26.349,False,False
+176380,WI,Alex Joers,Democratic,25180,72.619,True,False
+176380,WI,Mark S. Maier,Republican,9494,27.381,False,False
+176388,WI,Ryan Spaude,Democratic,12608,56.475,True,False
+176388,WI,Bobby Lindsey,Republican,9717,43.525,False,False
+176396,WI,Cindi Duchow,Republican,0,,True,False
+176361,WI,Angelina Cruz,Democratic,13444,66.446,True,False
+176361,WI,Mike Bellagio,Republican,6789,33.554,False,False
+176305,WI,Elijah Behnke,Republican,15894,63.898,True,False
+176305,WI,Shirley Hinze,Democratic,8980,36.102,False,False
+176402,WI,Chris Larson,Democratic,59787,73.158,True,False
+176402,WI,Mike Moeller,Republican,21936,26.842,False,False
+176410,WI,Romaine Quinn,Republican,48648,65.094,True,False
+176410,WI,Jeff Foster,Democratic,26087,34.906,False,False
+176400,WI,Tim Carpenter,Democratic,0,,True,False
+176376,WI,Renuka Mayadev,Democratic,24232,89.543,True,False
+176376,WI,Jane McCormick,Republican,2830,10.457,False,False
+176320,WI,Dan J. Bukiewicz,Democratic,15942,62.496,True,False
+176320,WI,Dylan Pfaffenbach,Republican,9567,37.504,False,False
+189005,WI,No,Nonpartisan,2654,66.284,False,False
+189005,WI,Yes,Nonpartisan,1350,33.716,False,False
+176318,WI,Ryan Clancy,Democratic,26030,87.109,True,False
+176318,WI,Yasmine B. Outlaw,Republican,3852,12.891,False,False
+189003,WI,Krista J. James,Nonpartisan,3556,57.727,False,False
+189003,WI,Alanna Feddick-Goodwin,Nonpartisan,2604,42.273,False,False
+176302,WI,Ron Tusler,Republican,16727,59.058,True,False
+176302,WI,Michael J. Goodwin,Democratic,11596,40.942,False,False
+176342,WI,Brienne Brown,Democratic,15461,58.767,True,False
+176342,WI,Paul McGraw,Republican,10848,41.233,False,False
+176364,WI,Ben DeSmidt,Democratic,13336,60.695,True,False
+176364,WI,Valerie Kretchmer,Republican,8636,39.305,False,False
+176340,WI,Tony Kurtz,Republican,14728,59.831,True,False
+176340,WI,Zach Commons,Democratic,9888,40.169,False,False
+176373,WI,Chanz Green,Republican,17956,58.261,True,False
+176373,WI,Paul Johnson,Democratic,12864,41.739,False,False
+176381,WI,Bryson Reyes,Republican,12603,51.221,True,False
+176381,WI,Rico Camacho,Democratic,12002,48.779,False,False
+176379,WI,Mike Bare,Democratic,28840,78.759,True,False
+176379,WI,Simran Arora,Republican,7778,21.241,False,False
+176330,WI,Tyler August,Republican,15232,58.936,True,False
+176330,WI,John Perryman,Democratic,10613,41.064,False,False
+189000,WI,Shawn Becker,Republican,26189,100.0,False,False
+189008,WI,No - Exceed Revenue Limit,Nonpartisan,2509,57.088,False,False
+189008,WI,Yes - Exceed Revenue Limit,Nonpartisan,1886,42.912,False,False
+176403,WI,Amy Binsfeld,Republican,41376,56.217,True,False
+176403,WI,Christian Ellis,Independent,32225,43.783,False,False
+176393,WI,Steve Doyle,Democratic,16847,56.709,True,False
+176393,WI,Keith Purnell,Republican,12861,43.291,False,False
+176393,WI,Write-in,Nonpartisan,0,0.0,False,False
+176369,WI,Nancy VanderMeer,Republican,13850,61.164,True,False
+176369,WI,Stephanie Stuve-Bodeen,Democratic,8794,38.836,False,False
+176313,WI,Angelito Tenorio,Democratic,14060,62.692,True,False
+176313,WI,AmyRose Murphy,Republican,8367,37.308,False,False
+176321,WI,Paul Melotik,Republican,17739,53.055,True,False
+176321,WI,Dana Glasstein,Democratic,15696,46.945,False,False
+176321,WI,Write-in,Nonpartisan,0,0.0,False,False
+176311,WI,Russell Goodwin,Democratic,0,,True,False
+176415,WI,Chris Kapenga,Republican,65015,65.89,True,False
+176415,WI,Mike Van Someren,Democratic,33657,34.11,False,False
+176327,WI,Robin Kreibich,Republican,17609,63.153,True,False
+176327,WI,Robin Lillesve,Democratic,10274,36.847,False,False
+176303,WI,David Steffen,Republican,17935,61.853,True,False
+176303,WI,Alexia Unertl,Democratic,11061,38.147,False,False
+176357,WI,Bernie Newman,Republican,19724,67.079,True,False
+176357,WI,Dennis D. Degenhardt,Democratic,9680,32.921,False,False
+176357,WI,Write-in,Nonpartisan,0,0.0,False,False
+176333,WI,Rob Swearingen,Republican,19083,59.218,True,False
+176333,WI,Merlin Van Buren,Democratic,13142,40.782,False,False
+176333,WI,Write-in,Nonpartisan,0,0.0,False,False
+176366,WI,David Armstrong,Republican,16587,63.423,True,False
+176366,WI,Indiana Thompson,Democratic,9566,36.577,False,False
+176374,WI,Duke Tucker,Republican,18486,63.265,True,False
+176374,WI,Keith Mogel,Democratic,10734,36.735,False,False
+176372,WI,Angela Stroud,Democratic,17146,64.456,True,False
+176372,WI,Frank Kostka,Republican,9455,35.544,False,False
+176412,WI,Dianne Hesselbein,Democratic,0,,True,False
+176412,WI,Nathan Kalmoe,Write-In,0,,False,False
+189001,WI,David A. Patton,Democratic,23407,100.0,False,False
+189009,WI,Christy Knowles,Nonpartisan,36934,96.706,False,False
+189009,WI,Write-in,Nonpartisan,1258,3.294,False,False
+176386,WI,Brent Jacobson,Republican,17269,61.138,True,False
+176386,WI,Bob Look,Democratic,10977,38.862,False,False
+176337,WI,William Penterman,Republican,15482,62.037,True,False
+176337,WI,Terri Wenkman,Democratic,9474,37.963,False,False
+176306,WI,Karen Kirsch,Democratic,14184,67.302,True,False
+176306,WI,Lee Whiting,Republican,6891,32.698,False,False
+176314,WI,Adam Neylon,Republican,17074,54.883,True,False
+176314,WI,Stephen Tryon,Democratic,14036,45.117,False,False
+189013,WI,Yes,Nonpartisan,0,,False,False
+189013,WI,No,Nonpartisan,0,,False,False
+176408,WI,Rachael Cabral-Guevara,Republican,51175,59.329,True,False
+176408,WI,Emily Tseffos,Democratic,35081,40.671,False,False
+176352,WI,Becky Nichols,Democratic,13177,54.674,True,False
+176352,WI,David Daniels,Republican,9394,38.978,False,False
+176352,WI,Rachael Dowling,Independent,1530,6.348,False,False
+176328,WI,Treig Pronschinske,Republican,15887,60.8,True,False
+176328,WI,Chris Danou,Democratic,10243,39.2,False,False
+176350,WI,Ben Gruber,Democratic,14863,54.609,True,False
+176350,WI,Todd Novak,Republican,11907,43.748,False,False
+176350,WI,Nathan Tataje,American Solidarity,447,1.642,False,False
+176326,WI,Lindee Brill,Republican,0,,True,False
+176334,WI,Calvin Callahan,Republican,17863,63.306,True,False
+176334,WI,Elizabeth McCrank,Democratic,10354,36.694,False,False
+176334,WI,Write-in,Nonpartisan,0,0.0,False,False
+176367,WI,Rob Summerfield,Republican,19381,68.729,True,False
+176367,WI,Elisha King,Democratic,8818,31.271,False,False
+176389,WI,Amaad Rivera-Wagner,Democratic,11320,61.345,True,False
+176389,WI,Jessica Henderson,Republican,7133,38.655,False,False
+176397,WI,Jim Piwowarczyk,Republican,21681,67.128,True,False
+176397,WI,Matt Philibert,Democratic,10617,32.872,False,False
+176405,WI,John Jagler,Republican,46762,63.097,True,False
+176405,WI,Sasha Ripley,Democratic,27349,36.903,False,False
+176413,WI,Cory Tomczyk,Republican,43989,55.961,True,False
+176413,WI,Gillian Battino,Democratic,34618,44.039,False,False
+176411,WI,Erik Severson,Republican,45820,52.839,True,False
+176411,WI,Charly Ray,Democratic,40897,47.161,False,False
+176362,WI,Robert Wittke,Republican,15635,53.491,True,False
+176362,WI,Eddie Phanichkul,Democratic,13594,46.509,False,False
+176323,WI,Dan Knodl,Republican,17687,54.051,True,False
+176323,WI,Matt Brown,Democratic,15036,45.949,False,False
+176331,WI,Amanda Nedweski,Republican,16364,61.512,True,False
+176331,WI,Greg Miller,Democratic,10239,38.488,False,False
+176307,WI,Ismael Luna,Democratic,8039,85.832,True,False
+176307,WI,Angel Sanchez,Republican,1327,14.168,False,False
+189006,WI,Grady Hartman,Republican,15197,94.733,False,False
+189006,WI,Write-in,Nonpartisan,452,2.818,False,False
+189006,WI,Christopher Roddy,Write-In,393,2.45,False,False
+176401,WI,Robyn Vining,Democratic,50107,57.004,True,False
+176401,WI,Mike Roberts,Republican,37794,42.996,False,False
+176345,WI,Joan Fitzgerald,Democratic,17545,59.709,True,False
+176345,WI,John Donohue,Republican,11839,40.291,False,False
+176353,WI,Lori Palmeri,Democratic,12294,60.687,True,False
+176353,WI,Tim Paterson,Republican,7964,39.313,False,False
+176343,WI,Ann Roe,Democratic,14786,61.789,True,False
+176343,WI,Ron Woodman,Republican,9144,38.211,False,False
+176319,WI,Christine Sinicki,Democratic,17979,68.925,True,False
+176319,WI,Kyle Cleary,Republican,8106,31.075,False,False
+176359,WI,Marty Ryan,Republican,12091,56.595,True,False
+176359,WI,Tiffany Brault,Independent,9273,43.405,False,False
+176335,WI,Jeffrey Mursau,Republican,18485,70.427,True,False
+176335,WI,Shena Chapman,Independent,7762,29.573,False,False
+176382,WI,Dave Maxey,Republican,0,,True,False
+176365,WI,Greta Neubauer,Democratic,13985,59.921,True,False
+176365,WI,Gina Cefalu Paulick,Republican,9354,40.079,False,False
+176398,WI,Barbara Dittrich,Republican,0,,True,False
+176406,WI,Mark Spreitzer,Democratic,41249,57.353,True,False
+176406,WI,Scott Fleming,Republican,27304,37.964,False,False
+176406,WI,Christopher Dean,Independent,3368,4.683,False,False
+176404,WI,Ellen Schutt,Republican,48761,60.716,True,False
+176404,WI,Adam Duda,Democratic,31549,39.284,False,False
+176316,WI,Supreme Moore Omokunde,Democratic,19592,87.562,True,False
+176316,WI,Charlene Abughrin,Republican,2783,12.438,False,False
+176324,WI,Paul Tittl,Republican,13268,54.974,True,False
+176324,WI,Chris Able,Democratic,10867,45.026,False,False
+176300,WI,Joel Kitchens,Republican,18292,57.351,True,False
+176300,WI,Renee Paplham,Democratic,13603,42.649,False,False
+176322,WI,Deb Andraca,Democratic,22387,68.567,True,False
+176322,WI,Aleaner Pabonnie,Republican,10263,31.433,False,False
+176322,WI,Write-in,Nonpartisan,0,0.0,False,False
+176394,WI,Jill Billings,Democratic,14451,58.715,True,False
+176394,WI,Cedric Schnitzler,Republican,9677,39.318,False,False
+176394,WI,Paul Michael Weber,Independent,484,1.967,False,False
+176394,WI,Write-in,Nonpartisan,0,0.0,False,False
+176338,WI,Alex Dallman,Republican,17484,66.303,True,False
+176338,WI,Michael Skivington,Democratic,8886,33.697,False,False
+176346,WI,Randy Udell,Democratic,25146,76.845,True,False
+176346,WI,Sandy Bakk,Republican,7577,23.155,False,False
+176304,WI,Joy Goeben,Republican,14759,54.832,True,False
+176304,WI,Justin Schumacher,Democratic,11456,42.56,False,False
+176304,WI,David Schupbach,Green,702,2.608,False,False
+176312,WI,Amy Zimmerman,Democratic,21117,62.788,True,False
+176312,WI,Mike Morgan,Republican,12515,37.212,False,False
+176377,WI,Shelia Stubbs,Democratic,26206,85.242,True,False
+176377,WI,Henry Johnson,Republican,4537,14.758,False,False
+176360,WI,Ben Brist,Democratic,15100,56.249,True,False
+176360,WI,Bob Donovan,Republican,11745,43.751,False,False
+176375,WI,Dina Nina Martinez-Rutherford,Democratic,31577,92.672,True,False
+176375,WI,Nina Chat,Republican,2497,7.328,False,False
+176358,WI,Bradley Petersen,Republican,22111,72.631,True,False
+176358,WI,Jack Holzman,Democratic,8332,27.369,False,False
+176358,WI,Write-in,Nonpartisan,0,0.0,False,False
+176391,WI,Jeremiah Fredrickson,Democratic,13870,53.395,True,False
+176391,WI,Clint Moses,Republican,12106,46.605,False,False
+176399,WI,Nic Cravillion,Republican,49821,57.957,True,False
+176399,WI,Mark Becker,Independent,36141,42.043,False,False
+189002,WI,Kimberly A. Stimac,Republican,25654,100.0,False,False
+189010,WI,Connie Mueller,Nonpartisan,35550,96.93,False,False
+189010,WI,Write-in,Nonpartisan,1126,3.07,False,False
+176309,WI,Darrin Madison,Democratic,20564,89.929,True,False
+176309,WI,Robert Longwell-Grice,Green,2303,10.071,False,False
+176317,WI,Margaret Arney,Democratic,17410,87.015,True,False
+176317,WI,Joel Richmond,Republican,2598,12.985,False,False
+176315,WI,Kalan Haywood,Democratic,14774,93.406,True,False
+176315,WI,Alciro Deacon,Republican,1043,6.594,False,False
+176355,WI,Anthony Phillips,Republican,17183,59.823,True,False
+176355,WI,Grace Abitz,Democratic,11540,40.177,False,False
+176363,WI,Tip McGuire,Democratic,13561,62.161,True,False
+176363,WI,Ed Hibsch,Republican,8255,37.839,False,False
+176339,WI,Karen DeSanto,Democratic,15372,57.983,True,False
+176339,WI,Julie Helmer,Republican,11139,42.017,False,False
+87490,WI,Tony Wied,Republican,177258,53.922,True,False
+87490,WI,Rick Crosson,Democratic,151471,46.078,False,False
+87485,WI,Rebecca Cooke,Democratic,172757,52.436,True,False
+87485,WI,Derrick Van Orden,Republican,150873,45.793,False,False
+87485,WI,Alexander Valiensi Kent,Independent,4035,1.225,False,False
+87485,WI,Rustin Provance,Independent,1799,0.546,False,False
+87485,WI,Write-in,Nonpartisan,0,0.0,False,False
+87483,WI,Mitchell Berman,Democratic,158839,51.955,True,False
+87483,WI,Bryan Steil,Republican,146885,48.045,False,False
+87489,WI,Michael Alfonso,Republican,193911,56.898,True,False
+87489,WI,Fred Clark,Democratic,146869,43.095,False,False
+87489,WI,Write-in,Nonpartisan,24,0.007,False,False
+87487,WI,Scott Fitzgerald,Republican,220992,59.046,True,False
+87487,WI,Andrew Beck,Democratic,153277,40.954,False,False
+87486,WI,Gwen Moore,Democratic,211898,79.982,True,False
+87486,WI,Tim Rogers,Republican,46301,17.477,False,False
+87486,WI,Arthur Burks,Independent,6733,2.541,False,False
+87484,WI,Mark Pocan,Democratic,317125,100.0,True,False
+87488,WI,Glenn Grothman,Republican,172138,52.777,True,False
+87488,WI,Brad Smith,Democratic,141346,43.337,False,False
+87488,WI,Elizabeth Anne Fitzgibbon,Nonpartisan,5282,1.619,False,False
+87488,WI,Mike Thurow,Nonpartisan,3879,1.189,False,False
+87488,WI,Matthew Arndt,Nonpartisan,3491,1.07,False,False
+87488,WI,Write-in,Nonpartisan,23,0.007,False,False

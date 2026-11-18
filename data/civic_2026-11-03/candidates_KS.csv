@@ -1,0 +1,434 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+155538,KS,Yes,Nonpartisan,672931,63.59,True,False
+155538,KS,No,Nonpartisan,385304,36.41,False,False
+87165,KS,Pat Proctor,Republican,524555,48.287,False,False
+87165,KS,Jennifer Day,Democratic,515738,47.475,False,False
+87165,KS,Scott E. Morgan,United Kansas,46036,4.238,False,False
+87167,KS,Yes,Nonpartisan,0,,False,False
+87167,KS,No,Nonpartisan,0,,False,False
+87166,KS,Steven Johnson,Republican,554383,51.175,True,False
+87166,KS,Juan Luengo,Democratic,479827,44.293,False,False
+87166,KS,Eric Lund,Libertarian,49091,4.532,False,False
+155435,KS,Yes,Nonpartisan,0,,False,False
+155435,KS,No,Nonpartisan,0,,False,False
+159526,KS,Republican,Republican,406270,53.4,False,False
+159526,KS,Democratic,Democratic,345821,45.455,False,False
+159526,KS,Independent,Independent,6157,0.809,False,False
+159526,KS,Libertarian,Libertarian,2554,0.336,False,False
+155438,KS,Yes,Nonpartisan,0,,False,False
+155438,KS,No,Nonpartisan,0,,False,False
+155437,KS,Yes,Nonpartisan,0,,False,False
+155437,KS,No,Nonpartisan,0,,False,False
+155300,KS,Daniel Hawkins,Republican,530494,49.004,True,False
+155300,KS,Dinah Sykes,Democratic,513291,47.415,False,False
+155300,KS,Ric Koehn,Libertarian,38773,3.582,False,False
+87163,KS,Cindy Holscher,Democratic,551243,50.349,True,False
+87163,KS,Ty Masterson,Republican,543599,49.651,False,False
+155436,KS,Yes,Nonpartisan,0,,False,False
+155436,KS,No,Nonpartisan,0,,False,False
+87164,KS,Chris Mann,Democratic,552753,50.616,True,False
+87164,KS,Kris Kobach,Republican,539297,49.384,False,False
+155439,KS,Yes,Nonpartisan,0,,False,False
+155439,KS,No,Nonpartisan,0,,False,False
+155434,KS,Yes,Nonpartisan,604972,64.905,False,False
+155434,KS,No,Nonpartisan,327116,35.095,False,False
+155433,KS,Yes,Nonpartisan,614226,65.214,False,False
+155433,KS,No,Nonpartisan,327634,34.786,False,False
+155403,KS,Kevin D. O'Brien,Republican,7199,68.282,True,False
+155403,KS,Mary Ann Harmon,Democratic,3344,31.718,False,False
+155311,KS,Fred Gardner,Republican,0,,True,False
+155404,KS,Jason Probst,Democratic,3047,53.111,True,False
+155404,KS,Kyler Sweely,Republican,2690,46.889,False,False
+155472,KS,Chad M. Crum,Republican,0,,False,False
+155348,KS,Brooklynne Mosley,Democratic,0,,True,False
+155402,KS,Al Jirak,Republican,5748,54.759,True,False
+155402,KS,Amanda Mogoi,Democratic,4749,45.241,False,False
+155534,KS,Yes,Nonpartisan,0,,False,False
+155534,KS,No,Nonpartisan,0,,False,False
+155378,KS,Russel Stukey,Republican,6601,72.875,True,False
+155378,KS,David A. Claridge,Democratic,2457,27.125,False,False
+155510,KS,Yes,Nonpartisan,0,,False,False
+155510,KS,No,Nonpartisan,0,,False,False
+155379,KS,Kristey S. Williams,Republican,5955,65.267,True,False
+155379,KS,Troy Nicks,Democratic,3169,34.733,False,False
+155479,KS,Rodger L. Woods Jr,Republican,0,,False,False
+155355,KS,Kirk Haskins,Democratic,0,,True,False
+155409,KS,Dawn Wolf,Republican,6662,74.989,True,False
+155409,KS,Cheri Koochel,Democratic,2222,25.011,False,False
+155509,KS,Yes,Nonpartisan,0,,False,False
+155509,KS,No,Nonpartisan,0,,False,False
+155385,KS,Brandon J. Whipple,Democratic,4069,63.42,True,False
+155385,KS,Zachary Werhan,Republican,2347,36.58,False,False
+155517,KS,Yes,Nonpartisan,0,,False,False
+155517,KS,No,Nonpartisan,0,,False,False
+155386,KS,Bonita Gooch,Democratic,0,,True,False
+155486,KS,Shawn Elliott,Republican,0,,False,False
+155362,KS,Mark Schreiber,Republican,3829,51.238,True,False
+155362,KS,Maddison D. Glover,Democratic,3644,48.762,False,False
+155416,KS,Kevin D. Schwertfeger,Republican,6780,73.64,True,False
+155416,KS,Alan Albers,Democratic,2427,26.36,False,False
+155516,KS,Yes,Nonpartisan,0,,False,False
+155516,KS,No,Nonpartisan,0,,False,False
+155524,KS,Jody Enfield,Republican,0,,False,False
+155393,KS,Emil M. Bergquist,Republican,6388,57.343,True,False
+155393,KS,Velma Davis,Democratic,4752,42.657,False,False
+155301,KS,Scott Hill,Republican,0,,True,False
+155369,KS,Brenda Bandy,Democratic,4966,52.813,True,False
+155369,KS,Stacy Kohlmeier,Republican,4437,47.187,False,False
+155423,KS,Kelsey Stock,Democratic,5911,54.334,True,False
+155423,KS,Thomas Palenske,Republican,4968,45.666,False,False
+155494,KS,Yes,Nonpartisan,0,,False,False
+155494,KS,No,Nonpartisan,0,,False,False
+155523,KS,Karl Harris,Republican,0,,False,False
+155392,KS,Steve Huebert,Republican,6800,64.139,True,False
+155392,KS,Amy Warhurst,Democratic,3802,35.861,False,False
+155531,KS,R Scott Barrows,Republican,0,,False,False
+155432,KS,Destry Brown,Republican,67874,68.503,False,False
+155432,KS,Heather Guernsey,Democratic,31208,31.497,False,False
+155532,KS,Yes,Nonpartisan,0,,False,False
+155532,KS,No,Nonpartisan,0,,False,False
+155344,KS,Lance W. Neelly,Republican,5078,53.639,True,False
+155344,KS,Brandon Wendt,Democratic,4389,46.361,False,False
+155309,KS,Thomas Douglas Allen,Republican,4093,60.44,True,False
+155309,KS,Taylor Moreland,Democratic,2679,39.56,False,False
+155530,KS,Travis Phillips,Republican,781,57.049,False,False
+155530,KS,Richard Hanks,Democratic,588,42.951,False,False
+155431,KS,Alana McWilliams,Republican,67437,62.734,False,False
+155431,KS,Ann Zimmerman,Democratic,40059,37.266,False,False
+155506,KS,Candice Alcaraz,Democratic,0,,False,False
+155407,KS,John Burke,Democratic,3852,51.094,False,False
+155407,KS,Jill Ann Ward,Republican,3687,48.906,False,False
+155507,KS,Aaron T. Roberts,Democratic,0,,False,False
+155376,KS,Mike King,Republican,6171,65.705,True,False
+155376,KS,Michele L. Ediger,Democratic,3221,34.295,False,False
+155476,KS,Sidney R. Thomas,Republican,0,,False,False
+155313,KS,Ron Bryce,Republican,4453,68.487,True,False
+155313,KS,William Kendall,Democratic,2049,31.513,False,False
+155470,KS,Yes,Nonpartisan,0,,False,False
+155470,KS,No,Nonpartisan,0,,False,False
+155513,KS,Yes,Nonpartisan,0,,False,False
+155513,KS,No,Nonpartisan,0,,False,False
+155414,KS,Sherri Brantley,Republican,5433,74.948,True,False
+155414,KS,Rhys Froetschner,Democratic,1816,25.052,False,False
+155514,KS,Yes,Nonpartisan,0,,False,False
+155514,KS,No,Nonpartisan,0,,False,False
+155383,KS,Blake Carpenter,Republican,3881,59.036,True,False
+155383,KS,Kayden Bennett,Democratic,2693,40.964,False,False
+155483,KS,Michael L. Fessinger,Republican,0,,False,False
+155320,KS,Cindy Neighbor,Democratic,6981,63.952,True,False
+155320,KS,Robert Whitman,Republican,3935,36.048,False,False
+155413,KS,Barb Wasinger,Republican,5360,63.62,True,False
+155413,KS,Melanie McMillan,Democratic,3065,36.38,False,False
+155421,KS,Jason W. Goetz,Republican,0,,True,False
+155521,KS,Yes,Nonpartisan,0,,False,False
+155521,KS,No,Nonpartisan,0,,False,False
+155390,KS,Candace Landers,Democratic,4427,56.223,True,False
+155390,KS,Sandy Pickert,Republican,3447,43.777,False,False
+155490,KS,Yes,Nonpartisan,0,,False,False
+155490,KS,No,Nonpartisan,0,,False,False
+155327,KS,Rui Xu,Democratic,0,,True,False
+155366,KS,Lewis (Bill) Bloom,Republican,0,,True,False
+155420,KS,Jim Minnix,Republican,0,,True,False
+155520,KS,Yes,Nonpartisan,0,,False,False
+155520,KS,No,Nonpartisan,0,,False,False
+155428,KS,Amy Cawvey,Republican,55844,54.593,False,False
+155428,KS,Jennifer Lloyd,Democratic,46447,45.407,False,False
+155528,KS,Scott Anson,Republican,0,,False,False
+155429,KS,Amy Diediker,Democratic,74548,55.145,False,False
+155429,KS,Jim McMullen,Republican,60638,44.855,False,False
+155305,KS,D J Perry,Republican,3492,51.535,True,False
+155305,KS,Isaiah Harris,Democratic,3284,48.465,False,False
+155398,KS,Jessica Maldonado,Democratic,2596,54.196,True,False
+155398,KS,Tom Kessler,Republican,2047,42.735,False,False
+155398,KS,Josef Trotter,Libertarian,147,3.069,False,False
+155427,KS,Shannon G Francis,Republican,0,,True,False
+155527,KS,Yes,Nonpartisan,0,,False,False
+155527,KS,No,Nonpartisan,0,,False,False
+155467,KS,Yes,Nonpartisan,0,,False,False
+155467,KS,No,Nonpartisan,0,,False,False
+155535,KS,Yes,Nonpartisan,0,,False,False
+155535,KS,No,Nonpartisan,0,,False,False
+155468,KS,Yes,Nonpartisan,0,,False,False
+155468,KS,No,Nonpartisan,0,,False,False
+155504,KS,Allison Williamson,Democratic,0,,False,False
+155405,KS,Angela Martinez,Democratic,2848,76.109,True,False
+155405,KS,Jordan Chessher,Republican,894,23.891,False,False
+155466,KS,Yes,Nonpartisan,0,,False,False
+155466,KS,No,Nonpartisan,0,,False,False
+155342,KS,David Buehler,Republican,3814,50.47,False,False
+155342,KS,Mika Stilwell,Democratic,3743,49.53,False,False
+155410,KS,Brandon Woodard,Democratic,0,,True,False
+155318,KS,Linda Featherston,Democratic,0,,True,False
+155411,KS,Troy L. Waymaster,Republican,0,,True,False
+155511,KS,Yes,Nonpartisan,0,,False,False
+155511,KS,No,Nonpartisan,0,,False,False
+155380,KS,Tim Lundberg,Democratic,5753,53.476,True,False
+155380,KS,Robyn R. Essex,Republican,5005,46.524,False,False
+155441,KS,Yes,Nonpartisan,0,,False,False
+155441,KS,No,Nonpartisan,0,,False,False
+155317,KS,Allison Hougland,Democratic,3806,57.449,True,False
+155317,KS,Lauren N. Bohi,Republican,2819,42.551,False,False
+155417,KS,Gary L. White,Republican,0,,True,False
+155325,KS,Susan Ruiz,Democratic,0,,True,False
+155418,KS,Kyle D. Hoffman,Republican,6457,74.899,True,False
+155418,KS,Nathan Bales,Democratic,2164,25.101,False,False
+155518,KS,Yes,Nonpartisan,0,,False,False
+155518,KS,No,Nonpartisan,0,,False,False
+155387,KS,Mackenzi Truelove,Democratic,5441,50.619,True,False
+155387,KS,Steven Brunk,Republican,5308,49.381,False,False
+155448,KS,Yes,Nonpartisan,0,,False,False
+155448,KS,No,Nonpartisan,0,,False,False
+155324,KS,Reed Krewson,Democratic,0,,True,False
+155332,KS,Amelia Wiederaenders,Democratic,5558,53.238,True,False
+155332,KS,Laura Williams,Republican,4882,46.762,False,False
+155425,KS,Becca Burnfin,Democratic,2926,50.878,False,False
+155425,KS,Bob Lewis,Republican,2825,49.122,False,False
+155525,KS,David Lowden,Republican,0,,False,False
+155394,KS,John Carmichael,Democratic,5661,68.386,True,False
+155394,KS,Vail Fruechting,Republican,2617,31.614,False,False
+155455,KS,Yes,Nonpartisan,0,,False,False
+155455,KS,No,Nonpartisan,0,,False,False
+155302,KS,Silas J. Miller,Democratic,12341,67.552,True,False
+155302,KS,Christopher Parisho,Republican,5928,32.448,False,False
+155331,KS,Heather Meyer,Democratic,0,,True,False
+155424,KS,Lon E. Pishny,Republican,0,,True,False
+155339,KS,Melissa M Oropeza,Democratic,4308,71.908,True,False
+155339,KS,Connie Jo Henry,Republican,1683,28.092,False,False
+155464,KS,Yes,Nonpartisan,0,,False,False
+155464,KS,No,Nonpartisan,0,,False,False
+155340,KS,Timothy H. Johnson,Republican,6528,58.848,True,False
+155340,KS,Richard Paz,Democratic,4565,41.152,False,False
+155401,KS,Susan Humphries,Republican,6530,59.76,True,False
+155401,KS,Mark B Barlow,Democratic,4397,40.24,False,False
+155533,KS,Yes,Nonpartisan,0,,False,False
+155533,KS,No,Nonpartisan,0,,False,False
+155338,KS,Lynn Melton,Democratic,6454,69.256,True,False
+155338,KS,Brian Dickason,Republican,2865,30.744,False,False
+155463,KS,Yes,Nonpartisan,0,,False,False
+155463,KS,No,Nonpartisan,0,,False,False
+155314,KS,Marci Laffen,Republican,6400,76.583,True,False
+155314,KS,Pete Ferrell,Democratic,1957,23.417,False,False
+155471,KS,Janette L. Satterfield,Republican,0,,False,False
+155315,KS,Duane Droge,Republican,5883,72.818,True,False
+155315,KS,Mark Remmert,Democratic,2196,27.182,False,False
+155408,KS,Lisa M. Moser,Republican,0,,True,False
+155508,KS,Damon D. Mitchell,Democratic,0,,False,False
+155537,KS,Yes,Nonpartisan,0,,False,False
+155537,KS,No,Nonpartisan,0,,False,False
+155502,KS,Kayla Roehler,Democratic,0,,False,False
+155321,KS,Stephanie Sawyer Clayton,Democratic,9402,67.229,True,False
+155321,KS,Mark Hermes,Republican,4583,32.771,False,False
+155446,KS,Yes,Nonpartisan,0,,False,False
+155446,KS,No,Nonpartisan,0,,False,False
+155322,KS,Mari-Lynn Poskin,Democratic,0,,True,False
+155415,KS,Brett Fairchild,Republican,6553,75.461,True,False
+155415,KS,Jo Ann Roth,Democratic,2131,24.539,False,False
+155515,KS,Yes,Nonpartisan,0,,False,False
+155515,KS,No,Nonpartisan,0,,False,False
+155352,KS,Kyle McNorton,Republican,0,,True,False
+155445,KS,Yes,Nonpartisan,0,,False,False
+155445,KS,No,Nonpartisan,0,,False,False
+155328,KS,Chip VanHouden,Republican,6450,50.557,False,False
+155328,KS,Laura Johnson,Democratic,6308,49.443,False,False
+155453,KS,Yes,Nonpartisan,0,,False,False
+155453,KS,No,Nonpartisan,0,,False,False
+155329,KS,Sara Kiewiet,Democratic,6881,50.193,False,False
+155329,KS,Sean E. Tarwater,Republican,6828,49.807,False,False
+155422,KS,Adam Smith,Republican,0,,True,False
+155522,KS,Yes,Nonpartisan,0,,False,False
+155522,KS,No,Nonpartisan,0,,False,False
+155359,KS,John Alcala,Democratic,0,,True,False
+155452,KS,Yes,Nonpartisan,0,,False,False
+155452,KS,No,Nonpartisan,0,,False,False
+155460,KS,Yes,Nonpartisan,0,,False,False
+155460,KS,No,Nonpartisan,0,,False,False
+155336,KS,Valdenia C. Winn,Democratic,3625,83.525,True,False
+155336,KS,CeCe Harlin,Republican,715,16.475,False,False
+155461,KS,Yes,Nonpartisan,0,,False,False
+155461,KS,No,Nonpartisan,0,,False,False
+155529,KS,Brendon J. Boone,Republican,0,,False,False
+155430,KS,Jean Clifford,Republican,65204,73.137,False,False
+155430,KS,Lorie Wood,Democratic,23949,26.863,False,False
+155459,KS,Yes,Nonpartisan,0,,False,False
+155459,KS,No,Nonpartisan,0,,False,False
+155335,KS,Emily Blanks,Democratic,4340,56.4,True,False
+155335,KS,Carolyn Caiharr,Republican,3355,43.6,False,False
+155499,KS,Daniel D. Gilligan,Republican,0,,False,False
+155343,KS,Jeff Pittman,Democratic,2661,56.139,True,False
+155343,KS,Ann Reinhart,Republican,2079,43.861,False,False
+155500,KS,Delia Maria York,Democratic,0,,False,False
+155312,KS,Suzanne Wikle,Democratic,0,,True,False
+155469,KS,Yes,Nonpartisan,0,,False,False
+155469,KS,No,Nonpartisan,0,,False,False
+155498,KS,"Thomas A. ""Tad"" Dower",Republican,0,,False,False
+155374,KS,Avery Anderson,Republican,4783,53.657,True,False
+155374,KS,Matthew L Smith,Democratic,4131,46.343,False,False
+155442,KS,Yes,Nonpartisan,0,,False,False
+155442,KS,No,Nonpartisan,0,,False,False
+155350,KS,Dan Osman,Democratic,0,,True,False
+155443,KS,Yes,Nonpartisan,0,,False,False
+155443,KS,No,Nonpartisan,0,,False,False
+155319,KS,Jo Ella Hoye,Democratic,7667,62.031,True,False
+155319,KS,Jim Eschrich,Republican,4693,37.969,False,False
+155412,KS,Ken Rahjes,Republican,6830,80.005,True,False
+155412,KS,Mark Schaukowitch,Democratic,1707,19.995,False,False
+155473,KS,F. William Cullins,Republican,0,,False,False
+155349,KS,Paula Newell Ellis,Republican,6214,59.998,True,False
+155349,KS,Mary T. Williams,Democratic,4143,40.002,False,False
+155449,KS,Yes,Nonpartisan,0,,False,False
+155449,KS,No,Nonpartisan,0,,False,False
+155357,KS,Tobias Schlingensiepen,Democratic,5526,71.294,True,False
+155357,KS,Lanell Griffith,Republican,2225,28.706,False,False
+155450,KS,Yes,Nonpartisan,0,,False,False
+155450,KS,No,Nonpartisan,0,,False,False
+155326,KS,Jarrod Ousley,Democratic,7007,72.23,True,False
+155326,KS,Scott Speicker,Republican,2694,27.77,False,False
+155419,KS,Brandon Holland,Democratic,6611,50.543,False,False
+155419,KS,Adam Turk,Republican,6469,49.457,False,False
+155480,KS,"Richard A. ""Rick"" Macias",Republican,0,,False,False
+155356,KS,Ken Corbet,Republican,6126,61.873,True,False
+155356,KS,Chris Tanner,Democratic,3775,38.127,False,False
+155364,KS,Sean M. Willcott,Republican,5982,64.944,True,False
+155364,KS,Jack E. Geiger,Independent,3229,35.056,False,False
+155457,KS,Yes,Nonpartisan,0,,False,False
+155457,KS,No,Nonpartisan,0,,False,False
+155333,KS,Emily Hane,Democratic,4455,80.882,True,False
+155333,KS,Dennis Grindel,Republican,1053,19.118,False,False
+155426,KS,Marty Long,Republican,0,,True,False
+155487,KS,Francessca Montes-Williams,Republican,0,,False,False
+155526,KS,Lindell W. Crowe,Republican,0,,False,False
+155363,KS,Francis Awerkamp,Republican,0,,True,False
+155456,KS,Yes,Nonpartisan,0,,False,False
+155456,KS,No,Nonpartisan,0,,False,False
+155371,KS,Luci Larson,Republican,5157,63.919,True,False
+155371,KS,Miranda Bachman,Democratic,2911,36.081,False,False
+155496,KS,Bradley E. Ambrosier,Republican,0,,False,False
+155372,KS,Greg H Wilson,Republican,6151,68.125,True,False
+155372,KS,Kylie Christine Kilmer,Democratic,2878,31.875,False,False
+155465,KS,Yes,Nonpartisan,0,,False,False
+155465,KS,No,Nonpartisan,0,,False,False
+155341,KS,Zach Maier,Democratic,6223,54.179,True,False
+155341,KS,Angela Stiens,Republican,5263,45.821,False,False
+155370,KS,Nathan (Nate) Butler,Republican,0,,True,False
+155495,KS,Yes,Nonpartisan,0,,False,False
+155495,KS,No,Nonpartisan,0,,False,False
+155346,KS,Barbara W. Ballard,Democratic,0,,True,False
+155503,KS,Kate Lynch,Democratic,0,,False,False
+155347,KS,Mike Amyx,Democratic,0,,True,False
+155440,KS,Yes,Nonpartisan,0,,False,False
+155440,KS,No,Nonpartisan,0,,False,False
+155316,KS,Sherry Giebler,Democratic,7412,55.525,True,False
+155316,KS,Charlotte Esau,Republican,5937,44.475,False,False
+155345,KS,Kristen Schultz,Democratic,4375,50.997,False,False
+155345,KS,William (Bill) Sutton,Republican,4204,49.003,False,False
+155310,KS,Megan Phillips,Democratic,5826,51.146,False,False
+155310,KS,Chris Croft,Republican,5565,48.854,False,False
+155353,KS,Megan D. Steele,Republican,0,,True,False
+155478,KS,Seth L. Rundle,Republican,0,,False,False
+155354,KS,Jesse Borjon,Republican,6226,51.004,True,False
+155354,KS,Toni Scalia,Democratic,5981,48.996,False,False
+155447,KS,Yes,Nonpartisan,0,,False,False
+155447,KS,No,Nonpartisan,0,,False,False
+155323,KS,Jerry Stogsdill,Democratic,0,,True,False
+155377,KS,Tyler Coats,Republican,5679,67.495,True,False
+155377,KS,Randy Quinn,Democratic,2735,32.505,False,False
+155477,KS,Paula D. Langworthy,Republican,0,,False,False
+155360,KS,Alexis Simmons,Democratic,4589,70.535,True,False
+155360,KS,Michael H Mathewson,Republican,1917,29.465,False,False
+155485,KS,Michael Jeffrey Hoelscher,Republican,0,,False,False
+155361,KS,Rebecca Schmoe,Republican,5652,65.288,True,False
+155361,KS,Michael Lewis,Democratic,3005,34.712,False,False
+155454,KS,Yes,Nonpartisan,0,,False,False
+155454,KS,No,Nonpartisan,0,,False,False
+155330,KS,Bryan Mouber,Democratic,6193,54.864,True,False
+155330,KS,Alex. N Bergman,Republican,5095,45.136,False,False
+155384,KS,Leah Howell,Republican,5252,57.575,True,False
+155384,KS,Kyle Beauchamp,Democratic,3511,38.489,False,False
+155384,KS,Dean Hayse,Libertarian,359,3.936,False,False
+155484,KS,Faith Johnson,Republican,0,,False,False
+155492,KS,Laura Johnson-McNish,Republican,0,,False,False
+155368,KS,Sydney Carlin,Democratic,3273,72.54,True,False
+155368,KS,Noah Perry,Republican,1098,24.335,False,False
+155368,KS,Andrew Frey,Libertarian,141,3.125,False,False
+155493,KS,Bruce T. Gatterman,Republican,0,,False,False
+155337,KS,Wanda Brownlee Paige,Democratic,4361,83.496,True,False
+155337,KS,Alex Sanchez,Republican,862,16.504,False,False
+155391,KS,Carol Brewer,Democratic,0,,True,False
+155462,KS,Yes,Nonpartisan,0,,False,False
+155462,KS,No,Nonpartisan,0,,False,False
+155491,KS,Yes,Nonpartisan,0,,False,False
+155491,KS,No,Nonpartisan,0,,False,False
+155367,KS,Shawn Chauncey,Republican,0,,True,False
+155307,KS,Courtney Sappington,Republican,6072,60.018,True,False
+155307,KS,Henry Johns,Democratic,4045,39.982,False,False
+155400,KS,Cyndi Howerton,Republican,2991,52.153,True,False
+155400,KS,Erika L. Lewis,Democratic,2744,47.847,False,False
+155308,KS,Samantha M. Poetter Parshall,Republican,5943,62.869,True,False
+155308,KS,Frank Henderson,Democratic,3510,37.131,False,False
+155536,KS,Yes,Nonpartisan,0,,False,False
+155536,KS,No,Nonpartisan,0,,False,False
+155501,KS,William P. Mahoney,Democratic,0,,False,False
+155306,KS,Rick James,Republican,5684,74.878,True,False
+155306,KS,Rob Hodgkinson,Libertarian,1907,25.122,False,False
+155399,KS,Nick Hoheisel,Republican,3892,52.809,True,False
+155399,KS,Rhashanna Grant,Democratic,3478,47.191,False,False
+155474,KS,Jeffrey D. Gossard,Republican,0,,False,False
+155375,KS,Lori Shultz,Republican,5863,66.025,True,False
+155375,KS,Bobby Joe Robertson Jr,Democratic,3017,33.975,False,False
+155475,KS,Daniel M. Reynolds,Republican,0,,False,False
+155351,KS,Nikki McDonald,Democratic,6264,58.509,True,False
+155351,KS,Tricia Sinclair,Republican,4442,41.491,False,False
+155444,KS,Yes,Nonpartisan,0,,False,False
+155444,KS,No,Nonpartisan,0,,False,False
+155505,KS,Timothy L. Dupree,Democratic,0,,False,False
+155406,KS,Randy Parks,Republican,6290,60.92,True,False
+155406,KS,Lynnette Krieger-Zook,Democratic,4035,39.08,False,False
+155481,KS,Grant Brazill,Republican,0,,False,False
+155382,KS,Bill Rhiley,Republican,3679,55.683,True,False
+155382,KS,Lex Goff,Independent,2928,44.317,False,False
+155482,KS,Kathleen Watson,Republican,0,,False,False
+155358,KS,Virgil Weigel,Democratic,6002,63.379,True,False
+155358,KS,Elvin Fajardo,Republican,3468,36.621,False,False
+155451,KS,Yes,Nonpartisan,0,,False,False
+155451,KS,No,Nonpartisan,0,,False,False
+155512,KS,Yes,Nonpartisan,0,,False,False
+155512,KS,No,Nonpartisan,0,,False,False
+155381,KS,Webster T Roth,Republican,5370,65.873,True,False
+155381,KS,Siobhan McIntyre,Democratic,2782,34.127,False,False
+155389,KS,Susan O Estes,Republican,0,,True,False
+155489,KS,Carey Hipp,Republican,0,,False,False
+155365,KS,Allen Reavis,Republican,5248,68.98,True,False
+155365,KS,Adam Booth,Democratic,2360,31.02,False,False
+155458,KS,Yes,Nonpartisan,0,,False,False
+155458,KS,No,Nonpartisan,0,,False,False
+155519,KS,Yes,Nonpartisan,0,,False,False
+155519,KS,No,Nonpartisan,0,,False,False
+155334,KS,Pam Curtis,Democratic,0,,True,False
+155388,KS,Abi Boatman,Democratic,3674,66.824,True,False
+155388,KS,Kevin Thompson,Republican,1824,33.176,False,False
+155488,KS,Jennifer Passiglia,Republican,0,,False,False
+155396,KS,Leo Delperdang,Republican,0,,True,False
+155304,KS,Dan Muter,Republican,5291,65.841,True,False
+155304,KS,Avery Rowland,Democratic,2745,34.159,False,False
+155397,KS,Tom Sawyer,Democratic,0,,True,False
+155497,KS,Linda Gilmore,Republican,0,,False,False
+155373,KS,Steven K. Howe,Republican,6045,63.371,True,False
+155373,KS,Jerry Lonergan,Democratic,3494,36.629,False,False
+155395,KS,Brian Bergkamp,Republican,6487,71.075,True,False
+155395,KS,Eli Rueda-Vega,Democratic,2640,28.925,False,False
+155303,KS,Dale Helwig,Republican,0,,True,False
+87158,KS,Tracey Mann,Republican,150544,59.429,True,False
+87158,KS,Lauren Reinhold,Democratic,95911,37.862,False,False
+87158,KS,Steven Jacob,Libertarian,6863,2.709,False,False
+87162,KS,Adam Hamilton,Democratic,561143,51.018,True,False
+87162,KS,Roger Marshall,Republican,505558,45.964,False,False
+87162,KS,David C Graham,Libertarian,33195,3.018,False,False
+87160,KS,Sharice Davids,Democratic,201050,59.569,True,False
+87160,KS,Eric Jenkins,Republican,129537,38.38,False,False
+87160,KS,Steven A Hohe,Libertarian,6922,2.051,False,False
+87159,KS,Derek Schmidt,Republican,125843,51.214,True,False
+87159,KS,Don Coover,Democratic,110677,45.042,False,False
+87159,KS,John Hauer,Libertarian,9201,3.744,False,False
+87161,KS,Ron Estes,Republican,139155,53.54,True,False
+87161,KS,Katy Tyndell,Democratic,114568,44.08,False,False
+87161,KS,Drew Cranmer,Libertarian,6187,2.38,False,False

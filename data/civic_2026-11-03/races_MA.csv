@@ -1,0 +1,297 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+87278,MA,Massachusetts Secretary of the Commonwealth,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,365,2580081,2026-11-18T14:49+00:00
+179839,MA,Massachusetts Question 2 - Collective Bargaining for Public Counsel Services Employees,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,365,2533268,2026-11-18T14:49+00:00
+87279,MA,Massachusetts Treasurer,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,365,2546988,2026-11-18T14:49+00:00
+179842,MA,Massachusetts Question 5 - Change State Tax Revenue Limit,2026-11-03,99.9,2026-11-17T03:50:43.245Z,False,2,365,2539115,2026-11-18T14:49+00:00
+179844,MA,Massachusetts Question 7 - Limit on Required Lot Size for Single-Family Homes,2026-11-03,99.9,2026-11-17T03:50:43.245Z,False,2,365,2548753,2026-11-18T14:49+00:00
+87277,MA,Massachusetts Attorney General,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,365,2582476,2026-11-18T14:49+00:00
+179845,MA,Massachusetts Question 8 - Eliminate Recreational Marijuana Sales,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,365,2601025,2026-11-18T14:49+00:00
+87280,MA,Massachusetts State Auditor,2026-11-03,0,,False,2,365,0,2026-11-18T14:49+00:00
+159532,MA,Massachusetts State Senate,2026-11-03,24.4,,False,3,40,633827,2026-11-18T14:49+00:00
+179843,MA,Massachusetts Question 6 - Nature for All Fund,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,365,2548698,2026-11-18T14:49+00:00
+179838,MA,Massachusetts Question 1 - Public Records Law for Legislature and Governor's Office,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,365,2565913,2026-11-18T14:49+00:00
+179840,MA,Massachusetts Question 3 - Top-Two Primary Elections,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,365,2570327,2026-11-18T14:49+00:00
+179846,MA,Massachusetts Question 9 - Firearm Regulations Referendum,2026-11-03,99.7,2026-11-04T06:53:42.309Z,False,2,365,2611728,2026-11-18T14:49+00:00
+179841,MA,Massachusetts Question 4 - Same-Day Voter Registration,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,365,2570212,2026-11-18T14:49+00:00
+159531,MA,Massachusetts State House,2026-11-03,29.1,,False,6,160,836338,2026-11-18T14:49+00:00
+87276,MA,Massachusetts Governor,2026-11-03,92,2026-11-04T02:18:31.025Z,False,3,365,2627838,2026-11-18T14:49+00:00
+153519,MA,Massachusetts State Senate Hampden,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153683,MA,Massachusetts State House Fourteenth Suffolk,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153623,MA,Massachusetts State House Eighteenth Middlesex,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153570,MA,Massachusetts State House Fourteenth Bristol,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153766,MA,Barnstable County Charter Commissioner - Provincetown,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153600,MA,Massachusetts State House Tenth Hampden,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153514,MA,Massachusetts State Senate First Essex,2026-11-03,0,2026-11-04T07:09:42.067Z,False,1,0,0,2026-11-18T14:49+00:00
+153547,MA,Massachusetts State Senate Worcester & Middlesex,2026-11-03,99.9,2026-11-04T07:09:42.068Z,False,2,0,57307,2026-11-18T14:49+00:00
+153750,MA,Barnstable County Assembly Delegate - Falmouth,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153722,MA,Dukes County Register of Probate,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153694,MA,Massachusetts State House Sixth Worcester,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,2,0,14637,2026-11-18T14:49+00:00
+153634,MA,Massachusetts State House Twenty-Ninth Middlesex,2026-11-03,0,2026-11-04T07:09:42.071Z,False,1,0,0,2026-11-18T14:49+00:00
+153606,MA,Massachusetts State House First Middlesex,2026-11-03,99.9,2026-11-12T01:54:12.321Z,False,2,0,21038,2026-11-18T14:49+00:00
+153639,MA,Massachusetts State House Thirty-Fourth Middlesex,2026-11-03,0,2026-11-04T07:09:42.071Z,False,1,0,0,2026-11-18T14:49+00:00
+153745,MA,Barnstable County Assembly Delegate - Bourne,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153579,MA,Massachusetts State House Ninth Essex,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,2,0,18471,2026-11-18T14:49+00:00
+153717,MA,Massachusetts District Attorney Plymouth,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153537,MA,Massachusetts State Senate First Plymouth & Norfolk,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153733,MA,Bristol County Treasurer,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153673,MA,Massachusetts State House Fourth Suffolk,2026-11-03,99.9,2026-11-04T07:09:42.069Z,False,2,0,12513,2026-11-18T14:49+00:00
+153613,MA,Massachusetts State House Eighth Middlesex,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153678,MA,Massachusetts State House Ninth Suffolk,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153560,MA,Massachusetts State House Fourth Bristol,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153618,MA,Massachusetts State House Thirteenth Middlesex,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153532,MA,Massachusetts State Senate Norfolk & Plymouth,2026-11-03,99.9,2026-11-04T07:09:42.068Z,False,2,0,55028,2026-11-18T14:49+00:00
+153565,MA,Massachusetts State House Ninth Bristol,2026-11-03,99.9,2026-11-04T07:09:42.069Z,False,2,0,17041,2026-11-18T14:49+00:00
+153768,MA,Barnstable County Charter Commissioner - Wellfleet,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153740,MA,Plymouth County Commissioner,2026-11-03,0,,False,2,0,0,2026-11-18T14:49+00:00
+153712,MA,Massachusetts District Attorney Hampden,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153652,MA,Massachusetts State House Tenth Norfolk,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153592,MA,Massachusetts State House Second Hampden,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,2,0,19001,2026-11-18T14:49+00:00
+153657,MA,Massachusetts State House Fifteenth Norfolk,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153571,MA,Massachusetts State House First Essex,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153629,MA,Massachusetts State House Twenty-Fourth Middlesex,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153608,MA,Massachusetts State House Third Middlesex,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153555,MA,Massachusetts State House Second Berkshire,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153527,MA,Massachusetts State Senate Fifth Middlesex,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153691,MA,Massachusetts State House Third Worcester,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153663,MA,Massachusetts State House Sixth Plymouth,2026-11-03,87.5,2026-11-04T07:09:42.069Z,False,2,0,20276,2026-11-18T14:49+00:00
+153504,MA,Massachusetts Governor's Council 5,2026-11-03,0,,False,2,0,0,2026-11-18T14:49+00:00
+153635,MA,Massachusetts State House Thirtieth Middlesex,2026-11-03,0,2026-11-04T07:09:42.071Z,False,1,0,0,2026-11-18T14:49+00:00
+153700,MA,Massachusetts State House Twelfth Worcester,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,2,0,19880,2026-11-18T14:49+00:00
+153647,MA,Massachusetts State House Fifth Norfolk,2026-11-03,99.9,2026-11-04T07:09:42.069Z,False,2,0,15378,2026-11-18T14:49+00:00
+153587,MA,Massachusetts State House Seventeenth Essex,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153758,MA,Barnstable County Charter Commissioner - Brewster,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153730,MA,Plymouth County Register of Probate,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153510,MA,Massachusetts State Senate First Bristol & Plymouth,2026-11-03,99.9,2026-11-12T01:54:12.321Z,False,2,0,57492,2026-11-18T14:49+00:00
+153735,MA,Plymouth County Treasurer,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153642,MA,Massachusetts State House Thirty-Seventh Middlesex,2026-11-03,0,2026-11-04T07:09:42.071Z,False,1,0,0,2026-11-18T14:49+00:00
+153707,MA,Massachusetts State House Nineteenth Worcester,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153626,MA,Massachusetts State House Twenty-First Middlesex,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153598,MA,Massachusetts State House Eighth Hampden,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153545,MA,Massachusetts State Senate Worcester & Hampden,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153517,MA,Massachusetts State Senate First Essex & Middlesex,2026-11-03,0,2026-11-04T07:09:42.067Z,False,1,0,0,2026-11-18T14:49+00:00
+153550,MA,Massachusetts State House Second Barnstable,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153681,MA,Massachusetts State House Twelfth Suffolk,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153522,MA,"Massachusetts State Senate Hampshire, Franklin & Worcester",2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153621,MA,Massachusetts State House Sixteenth Middlesex,2026-11-03,99.9,2026-11-04T07:09:42.070Z,False,2,0,11626,2026-11-18T14:49+00:00
+153686,MA,Massachusetts State House Seventeenth Suffolk,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153697,MA,Massachusetts State House Ninth Worcester,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153669,MA,Massachusetts State House Twelfth Plymouth,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,2,0,20693,2026-11-18T14:49+00:00
+153577,MA,Massachusetts State House Seventh Essex,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153748,MA,Barnstable County Assembly Delegate - Dennis,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153582,MA,Massachusetts State House Twelfth Essex,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153720,MA,Berkshire County Register of Probate,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153753,MA,Barnstable County Assembly Delegate - Provincetown,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153692,MA,Massachusetts State House Fourth Worcester,2026-11-03,99.9,2026-11-04T07:09:42.069Z,False,2,0,13152,2026-11-18T14:49+00:00
+153725,MA,Hampden County Register of Probate,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153512,MA,Massachusetts State Senate Third Bristol & Plymouth,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153676,MA,Massachusetts State House Seventh Suffolk,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153616,MA,Massachusetts State House Eleventh Middlesex,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153563,MA,Massachusetts State House Seventh Bristol,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,2,0,7355,2026-11-18T14:49+00:00
+153535,MA,"Massachusetts State Senate Norfolk, Worcester & Middlesex",2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153568,MA,Massachusetts State House Twelfth Bristol,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153731,MA,Suffolk County Register of Probate,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153764,MA,Barnstable County Charter Commissioner - Mashpee,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153743,MA,Martha's Vineyard Commission,2026-11-03,0,,False,5,0,0,2026-11-18T14:49+00:00
+153715,MA,Massachusetts District Attorney Northern,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153655,MA,Massachusetts State House Thirteenth Norfolk,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153595,MA,Massachusetts State House Fifth Hampden,2026-11-03,99.9,2026-11-04T07:09:42.069Z,False,2,0,10610,2026-11-18T14:49+00:00
+153574,MA,Massachusetts State House Fourth Essex,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153632,MA,Massachusetts State House Twenty-Seventh Middlesex,2026-11-03,0,2026-11-04T07:09:42.071Z,False,1,0,0,2026-11-18T14:49+00:00
+153738,MA,Dukes County Commissioner,2026-11-03,0,,False,7,0,0,2026-11-18T14:49+00:00
+153604,MA,Massachusetts State House Second Hampshire,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153558,MA,Massachusetts State House Second Bristol,2026-11-03,99.9,2026-11-04T07:09:42.068Z,False,2,0,13358,2026-11-18T14:49+00:00
+153530,MA,Massachusetts State Senate Middlesex & Worcester,2026-11-03,99.9,2026-11-04T07:09:42.068Z,False,2,0,75245,2026-11-18T14:49+00:00
+153502,MA,Massachusetts Governor's Council 3,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153666,MA,Massachusetts State House Ninth Plymouth,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,2,0,16854,2026-11-18T14:49+00:00
+153638,MA,Massachusetts State House Thirty-Third Middlesex,2026-11-03,0,2026-11-04T07:09:42.071Z,False,1,0,0,2026-11-18T14:49+00:00
+153671,MA,Massachusetts State House Second Suffolk,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153553,MA,Massachusetts State House Fifth Barnstable,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153611,MA,Massachusetts State House Sixth Middlesex,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153525,MA,Massachusetts State Senate Third Middlesex,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153761,MA,Barnstable County Charter Commissioner - Eastham,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153541,MA,Massachusetts State Senate Third Suffolk,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153705,MA,Massachusetts State House Seventeenth Worcester,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153645,MA,Massachusetts State House Third Norfolk,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153710,MA,Massachusetts District Attorney Cape & Islands,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153585,MA,Massachusetts State House Fifteenth Essex,2026-11-03,99.9,2026-11-04T07:09:42.070Z,False,2,0,17381,2026-11-18T14:49+00:00
+153650,MA,Massachusetts State House Eighth Norfolk,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153756,MA,Barnstable County Assembly Delegate - Yarmouth,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153590,MA,Massachusetts State House Second Franklin,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153601,MA,Massachusetts State House Eleventh Hampden,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153548,MA,"Massachusetts State House Barnstable, Dukes & Nantucket",2026-11-03,0,2026-11-04T07:09:42.071Z,False,1,0,0,2026-11-18T14:49+00:00
+153520,MA,Massachusetts State Senate Hampden & Hampshire,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153684,MA,Massachusetts State House Fifteenth Suffolk,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153624,MA,Massachusetts State House Nineteenth Middlesex,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153689,MA,Massachusetts State House First Worcester,2026-11-03,99.9,2026-11-04T07:09:42.068Z,False,2,0,21818,2026-11-18T14:49+00:00
+153596,MA,Massachusetts State House Sixth Hampden,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153661,MA,Massachusetts State House Fourth Plymouth,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153640,MA,Massachusetts State House Thirty-Fifth Middlesex,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,2,0,12541,2026-11-18T14:49+00:00
+153580,MA,Massachusetts State House Tenth Essex,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153751,MA,Barnstable County Assembly Delegate - Harwich,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153723,MA,Essex County Register of Probate,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153695,MA,Massachusetts State House Seventh Worcester,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,3,0,19324,2026-11-18T14:49+00:00
+153728,MA,Nantucket County Register of Probate,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153667,MA,Massachusetts State House Tenth Plymouth,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153508,MA,"Massachusetts State Senate Berkshire, Hampden, Franklin & Hampshire",2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153679,MA,Massachusetts State House Tenth Suffolk,2026-11-03,99.9,2026-11-04T07:09:42.069Z,False,2,0,16312,2026-11-18T14:49+00:00
+153619,MA,Massachusetts State House Fourteenth Middlesex,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153566,MA,Massachusetts State House Tenth Bristol,2026-11-03,99.9,2026-11-04T07:09:42.069Z,False,2,0,20980,2026-11-18T14:49+00:00
+153538,MA,Massachusetts State Senate Second Plymouth & Norfolk,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153734,MA,Norfolk County Treasurer,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153543,MA,Massachusetts State Senate First Worcester,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153674,MA,Massachusetts State House Fifth Suffolk,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153515,MA,Massachusetts State Senate Second Essex,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153658,MA,Massachusetts State House First Plymouth,2026-11-03,99.9,2026-11-04T07:09:42.068Z,False,2,0,23873,2026-11-18T14:49+00:00
+153630,MA,Massachusetts State House Twenty-Fifth Middlesex,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153769,MA,Barnstable County Charter Commissioner - Yarmouth,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153741,MA,Franklin County Sheriff Special,2026-11-03,0,,False,3,0,0,2026-11-18T14:49+00:00
+153575,MA,Massachusetts State House Fifth Essex,2026-11-03,99.9,2026-11-04T07:09:42.069Z,False,3,0,22565,2026-11-18T14:49+00:00
+153713,MA,Massachusetts District Attorney Middle,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153746,MA,Barnstable County Assembly Delegate - Brewster,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153653,MA,Massachusetts State House Eleventh Norfolk,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153718,MA,Massachusetts District Attorney Suffolk,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153505,MA,Massachusetts Governor's Council 6,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153701,MA,Massachusetts State House Thirteenth Worcester,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153609,MA,Massachusetts State House Fourth Middlesex,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153556,MA,Massachusetts State House Third Berkshire,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153614,MA,Massachusetts State House Ninth Middlesex,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153528,MA,Massachusetts State Senate Middlesex & Norfolk,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153561,MA,Massachusetts State House Fifth Bristol,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,2,0,18360,2026-11-18T14:49+00:00
+153500,MA,Massachusetts Governor's Council 1,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153533,MA,"Massachusetts State Senate Norfolk, Plymouth & Bristol",2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153736,MA,Barnstable County Commissioner,2026-11-03,0,,False,2,0,0,2026-11-18T14:49+00:00
+153708,MA,Massachusetts District Attorney Berkshire,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153648,MA,Massachusetts State House Sixth Norfolk,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153588,MA,Massachusetts State House Eighteenth Essex,2026-11-03,99.9,2026-11-04T07:09:42.070Z,False,2,0,19107,2026-11-18T14:49+00:00
+153759,MA,Barnstable County Charter Commissioner - Chatham,2026-11-03,0,,False,2,0,0,2026-11-18T14:49+00:00
+153593,MA,Massachusetts State House Third Hampden,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,3,0,19147,2026-11-18T14:49+00:00
+153539,MA,Massachusetts State Senate First Suffolk,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153572,MA,Massachusetts State House Second Essex,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,2,0,24405,2026-11-18T14:49+00:00
+153551,MA,Massachusetts State House Third Barnstable,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,2,0,23791,2026-11-18T14:49+00:00
+153523,MA,Massachusetts State Senate First Middlesex,2026-11-03,99.9,2026-11-04T07:09:42.068Z,False,3,0,46929,2026-11-18T14:49+00:00
+153687,MA,Massachusetts State House Eighteenth Suffolk,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153627,MA,Massachusetts State House Twenty-Second Middlesex,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,2,0,17498,2026-11-18T14:49+00:00
+153599,MA,Massachusetts State House Ninth Hampden,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153664,MA,Massachusetts State House Seventh Plymouth,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,2,0,18236,2026-11-18T14:49+00:00
+153546,MA,Massachusetts State Senate Worcester & Hampshire,2026-11-03,99.9,2026-11-12T01:54:12.321Z,False,2,0,70220,2026-11-18T14:49+00:00
+153636,MA,Massachusetts State House Thirty-First Middlesex,2026-11-03,99.9,2026-11-04T07:09:42.071Z,False,2,0,19049,2026-11-18T14:49+00:00
+153583,MA,Massachusetts State House Thirteenth Essex,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153754,MA,Barnstable County Assembly Delegate - Sandwich,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153726,MA,Hampshire County Register of Probate,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153698,MA,Massachusetts State House Tenth Worcester,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153670,MA,Massachusetts State House First Suffolk,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153703,MA,Massachusetts State House Fifteenth Worcester,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153578,MA,Massachusetts State House Eighth Essex,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153643,MA,Massachusetts State House First Norfolk,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153749,MA,Barnstable County Assembly Delegate - Eastham,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153569,MA,Massachusetts State House Thirteenth Bristol,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153765,MA,Barnstable County Charter Commissioner - Orleans,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153513,MA,Massachusetts State Senate Cape & Islands,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153677,MA,Massachusetts State House Eighth Suffolk,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153518,MA,Massachusetts State Senate Second Essex & Middlesex,2026-11-03,99.9,2026-11-04T07:09:42.068Z,False,2,0,76816,2026-11-18T14:49+00:00
+153617,MA,Massachusetts State House Twelfth Middlesex,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153682,MA,Massachusetts State House Thirteenth Suffolk,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153564,MA,Massachusetts State House Eighth Bristol,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,2,0,17553,2026-11-18T14:49+00:00
+153622,MA,Massachusetts State House Seventeenth Middlesex,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153633,MA,Massachusetts State House Twenty-Eighth Middlesex,2026-11-03,0,2026-11-04T07:09:42.071Z,False,1,0,0,2026-11-18T14:49+00:00
+153605,MA,Massachusetts State House Third Hampshire,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153744,MA,Barnstable County Assembly Delegate - Barnstable,2026-11-03,0,,False,2,0,0,2026-11-18T14:49+00:00
+153716,MA,Massachusetts District Attorney Northwestern,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153656,MA,Massachusetts State House Fourteenth Norfolk,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153721,MA,Bristol County Register of Probate,2026-11-03,0,,False,2,0,0,2026-11-18T14:49+00:00
+153628,MA,Massachusetts State House Twenty-Third Middlesex,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153693,MA,Massachusetts State House Fifth Worcester,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153672,MA,Massachusetts State House Third Suffolk,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153612,MA,Massachusetts State House Seventh Middlesex,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153559,MA,Massachusetts State House Third Bristol,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,2,0,15558,2026-11-18T14:49+00:00
+153531,MA,Massachusetts State Senate Norfolk & Middlesex,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153503,MA,Massachusetts Governor's Council 4,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153536,MA,Massachusetts State Senate Plymouth & Barnstable,2026-11-03,99.9,2026-11-04T07:09:42.068Z,False,2,0,92686,2026-11-18T14:49+00:00
+153699,MA,Massachusetts State House Eleventh Worcester,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153732,MA,Worcester County Register of Probate,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153711,MA,Massachusetts District Attorney Eastern,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153651,MA,Massachusetts State House Ninth Norfolk,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,2,0,21493,2026-11-18T14:49+00:00
+153591,MA,Massachusetts State House First Hampden,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153762,MA,Barnstable County Charter Commissioner - Falmouth,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153542,MA,Massachusetts State Senate Suffolk & Middlesex,2026-11-03,99.9,2026-11-04T07:09:42.068Z,False,2,0,48438,2026-11-18T14:49+00:00
+153767,MA,Barnstable County Charter Commissioner - Sandwich,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153706,MA,Massachusetts State House Eighteenth Worcester,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,2,0,19283,2026-11-18T14:49+00:00
+153739,MA,Norfolk County Commissioner,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153690,MA,Massachusetts State House Second Worcester,2026-11-03,99.9,2026-11-04T07:09:42.068Z,False,2,0,15182,2026-11-18T14:49+00:00
+153662,MA,Massachusetts State House Fifth Plymouth,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,2,0,21652,2026-11-18T14:49+00:00
+153602,MA,Massachusetts State House Twelfth Hampden,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153549,MA,Massachusetts State House First Barnstable,2026-11-03,99.9,2026-11-04T07:09:42.068Z,False,2,0,21826,2026-11-18T14:49+00:00
+153607,MA,Massachusetts State House Second Middlesex,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153521,MA,"Massachusetts State Senate Hampden, Hampshire & Worcester",2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153554,MA,Massachusetts State House First Berkshire,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153685,MA,Massachusetts State House Sixteenth Suffolk,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153526,MA,Massachusetts State Senate Fourth Middlesex,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153729,MA,Norfolk County Register of Probate,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153509,MA,Massachusetts State Senate Bristol & Norfolk,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153641,MA,Massachusetts State House Thirty-Sixth Middlesex,2026-11-03,0,2026-11-04T07:09:42.071Z,False,1,0,0,2026-11-18T14:49+00:00
+153581,MA,Massachusetts State House Eleventh Essex,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153646,MA,Massachusetts State House Fourth Norfolk,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153752,MA,Barnstable County Assembly Delegate - Orleans,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153586,MA,Massachusetts State House Sixteenth Essex,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153724,MA,Franklin County Register of Probate,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153757,MA,Barnstable County Charter Commissioner - Barnstable,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153544,MA,Massachusetts State Senate Second Worcester,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153516,MA,Massachusetts State Senate Third Essex,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153680,MA,Massachusetts State House Eleventh Suffolk,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153620,MA,Massachusetts State House Fifteenth Middlesex,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153567,MA,Massachusetts State House Eleventh Bristol,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153625,MA,Massachusetts State House Twentieth Middlesex,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,2,0,21505,2026-11-18T14:49+00:00
+153763,MA,Barnstable County Charter Commissioner - Harwich,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153597,MA,Massachusetts State House Seventh Hampden,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153576,MA,Massachusetts State House Sixth Essex,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153747,MA,Barnstable County Assembly Delegate - Chatham,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153719,MA,Barnstable County Register of Probate,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153659,MA,Massachusetts State House Second Plymouth,2026-11-03,99.9,,False,2,0,18439,2026-11-18T14:49+00:00
+153631,MA,Massachusetts State House Twenty-Sixth Middlesex,2026-11-03,0,2026-11-04T07:09:42.071Z,False,1,0,0,2026-11-18T14:49+00:00
+153696,MA,Massachusetts State House Eighth Worcester,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153603,MA,Massachusetts State House First Hampshire,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153668,MA,Massachusetts State House Eleventh Plymouth,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153615,MA,Massachusetts State House Tenth Middlesex,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153562,MA,Massachusetts State House Sixth Bristol,2026-11-03,99.9,2026-11-12T01:54:12.322Z,False,2,0,11421,2026-11-18T14:49+00:00
+153534,MA,Massachusetts State Senate Norfolk & Suffolk,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153506,MA,Massachusetts Governor's Council 7,2026-11-03,0,,False,2,0,0,2026-11-18T14:49+00:00
+153702,MA,Massachusetts State House Fourteenth Worcester,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153511,MA,Massachusetts State Senate Second Bristol & Plymouth,2026-11-03,99.9,2026-11-04T07:09:42.068Z,False,2,0,53666,2026-11-18T14:49+00:00
+153610,MA,Massachusetts State House Fifth Middlesex,2026-11-03,99.9,2026-11-04T07:09:42.069Z,False,2,0,19001,2026-11-18T14:49+00:00
+153675,MA,Massachusetts State House Sixth Suffolk,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153557,MA,Massachusetts State House First Bristol,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153594,MA,Massachusetts State House Fourth Hampden,2026-11-03,99.9,2026-11-04T07:09:42.069Z,False,2,0,16582,2026-11-18T14:49+00:00
+153573,MA,Massachusetts State House Third Essex,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153737,MA,Bristol County Commissioner,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153709,MA,Massachusetts District Attorney Bristol,2026-11-03,0,,False,2,0,0,2026-11-18T14:49+00:00
+153742,MA,Franklin County Council of Governments Executive Committee,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153649,MA,Massachusetts State House Seventh Norfolk,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153714,MA,Massachusetts District Attorney Norfolk,2026-11-03,0,,False,2,0,0,2026-11-18T14:49+00:00
+153589,MA,Massachusetts State House First Franklin,2026-11-03,99.9,2026-11-04T07:09:42.068Z,False,2,0,19203,2026-11-18T14:49+00:00
+153654,MA,Massachusetts State House Twelfth Norfolk,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153665,MA,Massachusetts State House Eighth Plymouth,2026-11-03,99.9,2026-11-04T07:09:42.069Z,False,2,0,17035,2026-11-18T14:49+00:00
+153637,MA,Massachusetts State House Thirty-Second Middlesex,2026-11-03,0,2026-11-04T07:09:42.071Z,False,1,0,0,2026-11-18T14:49+00:00
+153552,MA,Massachusetts State House Fourth Barnstable,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153524,MA,Massachusetts State Senate Second Middlesex,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153688,MA,Massachusetts State House Nineteenth Suffolk,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153529,MA,Massachusetts State Senate Middlesex & Suffolk,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+153660,MA,Massachusetts State House Third Plymouth,2026-11-03,0,2026-11-04T07:09:42.069Z,False,1,0,0,2026-11-18T14:49+00:00
+153501,MA,Massachusetts Governor's Council 2,2026-11-03,0,,False,2,0,0,2026-11-18T14:49+00:00
+153704,MA,Massachusetts State House Sixteenth Worcester,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153644,MA,Massachusetts State House Second Norfolk,2026-11-03,99.9,2026-11-04T07:09:42.068Z,False,2,0,14335,2026-11-18T14:49+00:00
+153584,MA,Massachusetts State House Fourteenth Essex,2026-11-03,0,2026-11-04T07:09:42.070Z,False,1,0,0,2026-11-18T14:49+00:00
+153755,MA,Barnstable County Assembly Delegate - Wellfleet,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153727,MA,Middlesex County Register of Probate,2026-11-03,0,,False,2,0,0,2026-11-18T14:49+00:00
+153760,MA,Barnstable County Charter Commissioner - Dennis,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153507,MA,Massachusetts Governor's Council 8,2026-11-03,0,,False,1,0,0,2026-11-18T14:49+00:00
+153540,MA,Massachusetts State Senate Second Suffolk,2026-11-03,0,2026-11-04T07:09:42.068Z,False,1,0,0,2026-11-18T14:49+00:00
+87268,MA,Massachusetts US House 3,2026-11-03,76.9,2026-11-04T01:58:57.426Z,False,3,38,260190,2026-11-18T14:49+00:00
+87266,MA,Massachusetts US House 1,2026-11-03,84.4,2026-11-04T01:58:57.426Z,False,2,88,271479,2026-11-18T14:49+00:00
+87267,MA,Massachusetts US House 2,2026-11-03,74.2,2026-11-04T01:58:57.426Z,False,1,73,198782,2026-11-18T14:49+00:00
+87272,MA,Massachusetts US House 7,2026-11-03,71.9,2026-11-04T01:58:57.426Z,False,1,10,158384,2026-11-18T14:49+00:00
+87270,MA,Massachusetts US House 5,2026-11-03,75.3,2026-11-04T01:58:57.426Z,False,1,26,206925,2026-11-18T14:49+00:00
+87271,MA,Massachusetts US House 6,2026-11-03,86.2,2026-11-04T01:58:57.426Z,False,2,41,325956,2026-11-18T14:49+00:00
+87269,MA,Massachusetts US House 4,2026-11-03,85.3,2026-11-04T01:58:57.426Z,False,2,40,290389,2026-11-18T14:49+00:00
+87274,MA,Massachusetts US House 9,2026-11-03,93,2026-11-04T01:58:57.426Z,False,2,55,350869,2026-11-18T14:49+00:00
+87275,MA,Massachusetts US Senate,2026-11-03,91.2,,False,4,365,2609102,2026-11-18T14:49+00:00
+87273,MA,Massachusetts US House 8,2026-11-03,83.4,2026-11-04T01:58:57.426Z,False,3,25,281804,2026-11-18T14:49+00:00

@@ -1,0 +1,802 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+150505,CA,California Supreme Court Associate Justice Seat 6 - Joshua Groban Retention,2026-11-03,96,,False,2,58,10241848,2026-11-18T12:50+00:00
+86954,CA,California Lieutenant Governor,2026-11-03,96,2026-11-04T06:53:42.308Z,False,2,58,13006887,2026-11-18T12:50+00:00
+150578,CA,California Proposition 42,2026-11-03,96,2026-11-17T03:50:43.245Z,False,2,58,12907444,2026-11-18T12:50+00:00
+150573,CA,California Proposition 37,2026-11-03,96,2026-11-04T06:53:42.308Z,False,2,58,12748720,2026-11-18T12:50+00:00
+86951,CA,California Controller,2026-11-03,96,2026-11-17T03:50:43.245Z,False,2,58,12921794,2026-11-18T12:50+00:00
+159506,CA,California State Assembly,2026-11-03,96.4,,False,5,80,12426719,2026-11-18T12:50+00:00
+150581,CA,California Proposition 45,2026-11-03,96,2026-11-17T03:50:43.245Z,False,2,58,12631849,2026-11-18T12:50+00:00
+150570,CA,California Proposition 3,2026-11-03,96,,False,2,58,12925991,2026-11-18T12:50+00:00
+86955,CA,California Secretary of State,2026-11-03,96,2026-11-04T06:53:42.308Z,False,2,58,12989418,2026-11-18T12:50+00:00
+150568,CA,California Proposition 1,2026-11-03,96,2026-11-04T07:03:08.605Z,False,2,58,12818454,2026-11-18T12:50+00:00
+86957,CA,California Treasurer,2026-11-03,96,2026-11-04T06:53:42.308Z,False,2,58,12914690,2026-11-18T12:50+00:00
+86952,CA,California Governor,2026-11-03,97.7,2026-11-04T04:02:17.866Z,False,2,58,13191988,2026-11-18T12:50+00:00
+159507,CA,California State Senate,2026-11-03,93.1,,False,3,20,6224212,2026-11-18T12:50+00:00
+150575,CA,California Proposition 39,2026-11-03,96,2026-11-04T06:53:42.308Z,False,2,58,13002973,2026-11-18T12:50+00:00
+150574,CA,California Proposition 38,2026-11-03,96,2026-11-17T03:50:43.245Z,False,2,58,12778220,2026-11-18T12:50+00:00
+150569,CA,California Proposition 2,2026-11-03,96,2026-11-04T06:53:42.308Z,False,2,58,12807878,2026-11-18T12:50+00:00
+150579,CA,California Proposition 43,2026-11-03,96,2026-11-17T03:50:43.245Z,False,2,58,12694623,2026-11-18T12:50+00:00
+150571,CA,California Proposition 4,2026-11-03,96,,False,2,58,12648627,2026-11-18T12:50+00:00
+150577,CA,California Proposition 41,2026-11-03,96,2026-11-17T03:50:43.245Z,False,2,58,12782359,2026-11-18T12:50+00:00
+150576,CA,California Proposition 40,2026-11-03,96,2026-11-17T03:50:43.245Z,False,2,58,13022038,2026-11-18T12:50+00:00
+150504,CA,California Supreme Court Associate Justice Seat 4 - Kelli M. Evans Retention,2026-11-03,95.9,,False,2,58,10237497,2026-11-18T12:50+00:00
+86953,CA,California Insurance Commissioner,2026-11-03,96,2026-11-17T03:50:43.245Z,False,2,58,11298526,2026-11-18T12:50+00:00
+150580,CA,California Proposition 44,2026-11-03,96,2026-11-04T06:53:42.308Z,False,2,58,12668032,2026-11-18T12:50+00:00
+150572,CA,California Proposition 5,2026-11-03,96,2026-11-17T03:50:43.245Z,False,2,58,12430244,2026-11-18T12:50+00:00
+86950,CA,California Attorney General,2026-11-03,96,2026-11-04T06:53:42.308Z,False,2,58,12976319,2026-11-18T12:50+00:00
+86956,CA,California Superintendent of Public Instruction,2026-11-03,96,2026-11-17T03:50:43.245Z,False,3,58,11150169,2026-11-18T12:50+00:00
+150523,CA,California Court of Appeal District 2 Division 4 Presiding Justice - Helen Zukin Retention,2026-11-03,99.9,,False,2,4,2027313,2026-11-18T12:50+00:00
+182034,CA,"California City of Carson Member of the City Council, 2nd District",2026-11-03,0,,False,3,1,5016,2026-11-18T12:50+00:00
+182122,CA,California City of Rancho Palos Verdes Member of the City Council,2026-11-03,0,,False,7,1,30711,2026-11-18T12:50+00:00
+150420,CA,California State Senate 34,2026-11-03,98.5,2026-11-04T07:09:42.042Z,False,2,2,239647,2026-11-18T12:50+00:00
+182116,CA,California City of Palos Verdes Estates Measure PVE,2026-11-03,0,,False,2,1,5873,2026-11-18T12:50+00:00
+150411,CA,California State Senate 16,2026-11-03,97.8,2026-11-12T01:54:12.309Z,False,2,4,192130,2026-11-18T12:50+00:00
+150502,CA,California State Assembly 79,2026-11-03,99,2026-11-12T01:54:12.310Z,False,2,1,144029,2026-11-18T12:50+00:00
+182013,CA,"California City of Arcadia Member of the City Council, 3rd District",2026-11-03,0,,False,4,1,1808,2026-11-18T12:50+00:00
+182293,CA,"California Antelope Valley-East Kern Water Agency Member, Board of Directors, Division 1",2026-11-03,0,,False,3,1,9182,2026-11-18T12:50+00:00
+182199,CA,"California Downey Unified School District Governing Board Member, Trustee Area No. 7",2026-11-03,0,,False,3,1,4033,2026-11-18T12:50+00:00
+182563,CA,"California Pacifica School District Member, Governing Board (Short Term)",2026-11-03,99.9,,False,3,1,7891,2026-11-18T12:50+00:00
+150550,CA,California Court of Appeal District 4 Division 2 Associate Justice Seat 6 - Michael J. Raphael Retention,2026-11-03,99.9,,False,2,6,1785385,2026-11-18T12:50+00:00
+150478,CA,California State Assembly 55,2026-11-03,98.5,2026-11-12T01:54:12.309Z,False,2,1,154300,2026-11-18T12:50+00:00
+150456,CA,California State Assembly 33,2026-11-03,97.6,,False,2,3,110559,2026-11-18T12:50+00:00
+150544,CA,California Court of Appeal District 4 Division 1 Associate Justice Seat 4 - Truc T. Do Retention,2026-11-03,99.9,,False,2,6,1811058,2026-11-18T12:50+00:00
+150447,CA,California State Assembly 24,2026-11-03,95.1,2026-11-12T01:54:12.309Z,False,2,2,131295,2026-11-18T12:50+00:00
+182175,CA,"California ABC Unified School District Governing Board Member, Trustee Area No. 5 (Unexpired term ending December 8, 2028)",2026-11-03,0,,False,3,1,4027,2026-11-18T12:50+00:00
+150538,CA,California Court of Appeal District 3 Associate Justice Seat 6 - Lauri Damrell Retention,2026-11-03,99.9,,False,2,23,645669,2026-11-18T12:50+00:00
+182273,CA,"California Santa Clarita Community College District Member of the Board of Trustees, Trustee Area 1",2026-11-03,0,,False,3,1,16371,2026-11-18T12:50+00:00
+182637,CA,California City of San Bruno Measure EE,2026-11-03,99.9,,False,2,1,7446,2026-11-18T12:50+00:00
+150432,CA,California State Assembly 9,2026-11-03,96.8,2026-11-12T01:54:12.309Z,False,2,5,165475,2026-11-18T12:50+00:00
+182043,CA,California City of Cudahy Measure OK,2026-11-03,0,,False,2,1,2719,2026-11-18T12:50+00:00
+182162,CA,Los Angeles Measure EE,2026-11-03,0,,False,2,1,765808,2026-11-18T12:50+00:00
+182065,CA,"California City of Glendora Member of the City Council, 4th District",2026-11-03,0,,False,4,1,3502,2026-11-18T12:50+00:00
+182260,CA,California Pasadena Area Community College District Measure UP,2026-11-03,0,,False,2,1,110406,2026-11-18T12:50+00:00
+182156,CA,"California City of West Covina Member of the City Council, 2nd District",2026-11-03,0,,False,4,1,4718,2026-11-18T12:50+00:00
+182059,CA,"California City of El Monte Member of the City Council, 2nd District",2026-11-03,0,,False,2,1,1965,2026-11-18T12:50+00:00
+182147,CA,California City of South Gate City Clerk,2026-11-03,0,,False,2,1,13085,2026-11-18T12:50+00:00
+150445,CA,California State Assembly 22,2026-11-03,98.7,2026-11-04T07:09:42.042Z,False,1,2,81315,2026-11-18T12:50+00:00
+182141,CA,California City of Santa Monica Measure RR,2026-11-03,0,,False,2,1,31235,2026-11-18T12:50+00:00
+182236,CA,"California Little Lake City School District Governing Board Member, Trustee Area No. 1",2026-11-03,0,,False,3,1,1609,2026-11-18T12:50+00:00
+182135,CA,"California City of Santa Clarita Member of the City Council, 5th District",2026-11-03,0,,False,4,1,14041,2026-11-18T12:50+00:00
+182230,CA,"California Lancaster School District Governing Board Member, Trustee Area No. 5",2026-11-03,0,,False,3,1,3999,2026-11-18T12:50+00:00
+182594,CA,California City of San Bruno Mayor,2026-11-03,99.9,,False,1,1,5979,2026-11-18T12:50+00:00
+150421,CA,California State Senate 36,2026-11-03,98.5,2026-11-12T01:54:12.309Z,False,2,2,389784,2026-11-18T12:50+00:00
+182500,CA,"California City of Placentia Member, City Council District 2",2026-11-03,99.9,,False,3,1,3132,2026-11-18T12:50+00:00
+182588,CA,"California City of Pacifica Member, City Council, District 3",2026-11-03,99.9,,False,1,1,1483,2026-11-18T12:50+00:00
+182491,CA,"California City of Mission Viejo Member, City Council District 5",2026-11-03,99.9,,False,1,1,4711,2026-11-18T12:50+00:00
+182111,CA,"California City of Palmdale Member of the City Council, 3rd District",2026-11-03,0,,False,6,1,5620,2026-11-18T12:50+00:00
+182582,CA,"California City of Menlo Park Member, City Council, District 2",2026-11-03,99.9,,False,2,1,1433,2026-11-18T12:50+00:00
+182017,CA,"California City of Azusa Member of the City Council, 3rd District",2026-11-03,0,,False,3,1,1720,2026-11-18T12:50+00:00
+182297,CA,"California Foothill Municipal Water District Member, Board of Directors, Division 4",2026-11-03,0,,False,3,1,5947,2026-11-18T12:50+00:00
+182476,CA,"California City of Laguna Hills Member, City Council, District 1",2026-11-03,99.9,,False,2,1,1529,2026-11-18T12:50+00:00
+150563,CA,California Court of Appeal District 6 Associate Justice Seat 1 - Daniel H. Bromberg Retention,2026-11-03,99.9,,False,2,4,351821,2026-11-18T12:50+00:00
+182567,CA,"California City of Belmont Member, City Council, District 1",2026-11-03,99.9,,False,1,1,937,2026-11-18T12:50+00:00
+150490,CA,California State Assembly 67,2026-11-03,98.5,2026-11-12T01:54:12.310Z,False,2,2,141603,2026-11-18T12:50+00:00
+182001,CA,California Los Angeles County Measure E,2026-11-03,0,,False,2,1,2034550,2026-11-18T12:50+00:00
+182196,CA,"California Compton Community College District Governing Board Member, Trustee Area No. 2 (Unexpired term ending December 8, 2028)",2026-11-03,0,,False,3,1,8556,2026-11-18T12:50+00:00
+150484,CA,California State Assembly 61,2026-11-03,98.5,2026-11-04T07:09:42.043Z,False,2,1,142424,2026-11-18T12:50+00:00
+182187,CA,California Beverly Hills Unified School District Governing Board Member,2026-11-03,0,,False,6,1,18770,2026-11-18T12:50+00:00
+150475,CA,California State Assembly 52,2026-11-03,98.5,2026-11-04T07:09:42.043Z,False,2,1,160416,2026-11-18T12:50+00:00
+182489,CA,"California City of Mission Viejo Member, City Council District 3",2026-11-03,99.9,,False,2,1,5071,2026-11-18T12:50+00:00
+150469,CA,California State Assembly 46,2026-11-03,98.8,2026-11-04T07:09:42.043Z,False,2,2,148447,2026-11-18T12:50+00:00
+182172,CA,"Los Angeles Member of the City Council, 3rd District",2026-11-03,0,,False,2,1,55328,2026-11-18T12:50+00:00
+182078,CA,California City of Inglewood Measure AT,2026-11-03,0,,False,2,1,23126,2026-11-18T12:50+00:00
+182442,CA,"California Magnolia School District Governing Board Member, Trustee Area 5",2026-11-03,99.9,,False,2,1,1589,2026-11-18T12:50+00:00
+182537,CA,California City of Costa Mesa Measure C,2026-11-03,99.9,,False,2,1,25293,2026-11-18T12:50+00:00
+182157,CA,"California City of West Covina Member of the City Council, 4th District",2026-11-03,0,,False,4,1,4944,2026-11-18T12:50+00:00
+182628,CA,California City of East Palo Alto Measure CC,2026-11-03,99.9,,False,2,1,2647,2026-11-18T12:50+00:00
+182531,CA,"California Mesa Water District Director, Division 5",2026-11-03,99.9,,False,2,1,4891,2026-11-18T12:50+00:00
+150511,CA,California Court of Appeal District 1 Division 3 Associate Justice Seat 1 - Ioana Petrou Retention,2026-11-03,99.9,,False,2,12,923277,2026-11-18T12:50+00:00
+150446,CA,California State Assembly 23,2026-11-03,95.4,2026-11-04T07:09:42.043Z,False,2,2,185965,2026-11-18T12:50+00:00
+182525,CA,"California Silverado-Modjeska Recreation and Park Dist. Director, Short Term",2026-11-03,99.9,,False,2,1,555,2026-11-18T12:50+00:00
+182421,CA,"California Orange Unified School District Governing Board Member, Trustee Area 4",2026-11-03,99.9,,False,3,1,49611,2026-11-18T12:50+00:00
+182240,CA,"California Los Angeles Community College District Member of the Board of Trustees, Seat 2",2026-11-03,0,,False,6,1,988603,2026-11-18T12:50+00:00
+182412,CA,"California Capistrano Unified School District Governing Board Member, Trustee Area 7",2026-11-03,99.9,,False,2,1,16356,2026-11-18T12:50+00:00
+182607,CA,"California Town of Woodside Member, Town Council, District 3",2026-11-03,99.9,,False,1,1,226,2026-11-18T12:50+00:00
+182510,CA,"California City of Santa Ana Member, City Council Ward 6",2026-11-03,99.9,,False,2,1,5744,2026-11-18T12:50+00:00
+150521,CA,California Court of Appeal District 2 Division 3 Presiding Justice - Rashida A. Adams Retention,2026-11-03,99.9,,False,2,4,2050834,2026-11-18T12:50+00:00
+182132,CA,California City of San Marino Measure U,2026-11-03,0,,False,2,1,4172,2026-11-18T12:50+00:00
+150427,CA,California State Assembly 4,2026-11-03,96.5,2026-11-04T07:09:42.042Z,False,1,5,132833,2026-11-18T12:50+00:00
+182123,CA,California City of Redondo Beach Measure ART,2026-11-03,0,,False,2,1,21930,2026-11-18T12:50+00:00
+150418,CA,California State Senate 30,2026-11-03,98.5,2026-11-04T07:09:42.042Z,False,2,2,303986,2026-11-18T12:50+00:00
+150509,CA,California Court of Appeal District 1 Division 2 Presiding Justice - Therese M. Stewart Retention,2026-11-03,99.9,,False,2,12,934055,2026-11-18T12:50+00:00
+150412,CA,California State Senate 18,2026-11-03,98.8,2026-11-04T07:09:42.042Z,False,2,4,266161,2026-11-18T12:50+00:00
+150500,CA,California State Assembly 77,2026-11-03,99,2026-11-12T01:54:12.310Z,False,2,1,218108,2026-11-18T12:50+00:00
+150406,CA,California State Senate 6,2026-11-03,96.3,,False,2,2,395451,2026-11-18T12:50+00:00
+182102,CA,"California City of Montebello Member of the City Council, 5th District",2026-11-03,0,,False,3,1,2131,2026-11-18T12:50+00:00
+182473,CA,"California City of Irvine Member, City Council District 5",2026-11-03,99.9,,False,5,1,11276,2026-11-18T12:50+00:00
+150485,CA,California State Assembly 62,2026-11-03,98.5,2026-11-04T07:09:42.043Z,False,2,1,118078,2026-11-18T12:50+00:00
+182288,CA,"California William S. Hart Union High School District Governing Board Member, Trustee Area No. 2",2026-11-03,0,,False,3,1,16474,2026-11-18T12:50+00:00
+150551,CA,California Court of Appeal District 4 Division 3 Presiding Justice - Joanne Motoike Retention,2026-11-03,99.9,,False,2,6,1787447,2026-11-18T12:50+00:00
+182562,CA,"California Pacifica School District Member, Governing Board (Full Term)",2026-11-03,99.9,,False,7,1,21479,2026-11-18T12:50+00:00
+182490,CA,"California City of Mission Viejo Member, City Council District 4, Short Term",2026-11-03,99.9,,False,2,1,5052,2026-11-18T12:50+00:00
+150545,CA,California Court of Appeal District 4 Division 1 Associate Justice Seat 5 - Lisa Rodriguez Retention,2026-11-03,99.9,,False,2,6,1799942,2026-11-18T12:50+00:00
+182556,CA,"California San Mateo Union High School District Member, Governing Board, Trustee Area 3",2026-11-03,99.9,,False,2,1,10273,2026-11-18T12:50+00:00
+182452,CA,"California City of Brea Member, City Council",2026-11-03,99.9,,False,5,1,29721,2026-11-18T12:50+00:00
+182271,CA,California San Gabriel Unified School District Governing Board Member,2026-11-03,0,,False,6,1,16011,2026-11-18T12:50+00:00
+182550,CA,"California San Mateo County Board of Education Member, Trustee Area 2",2026-11-03,99.9,,False,2,1,11737,2026-11-18T12:50+00:00
+182446,CA,"California City of Aliso Viejo Member, City Council District 2",2026-11-03,99.9,,False,2,1,2788,2026-11-18T12:50+00:00
+150433,CA,California State Assembly 10,2026-11-03,96.3,2026-11-04T07:09:42.042Z,False,2,1,157757,2026-11-18T12:50+00:00
+182075,CA,"California City of Huntington Park Member of the City Council, 4th District",2026-11-03,0,,False,3,1,1236,2026-11-18T12:50+00:00
+150555,CA,California Court of Appeal District 4 Division 3 Associate Justice Seat 6 - Thomas A. Delaney Retention,2026-11-03,99.9,,False,2,6,1778153,2026-11-18T12:50+00:00
+182066,CA,California City of Hawaiian Gardens Member of the City Council,2026-11-03,0,,False,6,1,5244,2026-11-18T12:50+00:00
+182154,CA,California City of West Covina City Clerk,2026-11-03,0,,False,2,1,19148,2026-11-18T12:50+00:00
+150452,CA,California State Assembly 29,2026-11-03,97.8,2026-11-04T07:09:42.043Z,False,2,4,130970,2026-11-18T12:50+00:00
+182148,CA,California City of South Gate City Treasurer,2026-11-03,0,,False,2,1,12888,2026-11-18T12:50+00:00
+150443,CA,California State Assembly 20,2026-11-03,95.2,2026-11-04T07:09:42.042Z,False,2,1,149249,2026-11-18T12:50+00:00
+150534,CA,California Court of Appeal District 2 Division 8 Associate Justice Seat 3 - Victor G. Viramontes Retention,2026-11-03,99.9,,False,2,4,1979997,2026-11-18T12:50+00:00
+182045,CA,California City of Culver City Measure AA,2026-11-03,0,,False,2,1,14486,2026-11-18T12:50+00:00
+182409,CA,"California Brea Olinda Unified School District Governing Board Member, Trustee Area 4",2026-11-03,99.9,,False,2,1,1959,2026-11-18T12:50+00:00
+182039,CA,California City of Commerce Member of the City Council,2026-11-03,0,,False,7,1,6206,2026-11-18T12:50+00:00
+182595,CA,"California City of San Bruno Member, City Council, District 1",2026-11-03,99.9,,False,2,1,2181,2026-11-18T12:50+00:00
+182222,CA,"California Inglewood Unified School District Member, Board of Education, Trustee Area 3",2026-11-03,0,,False,3,1,3972,2026-11-18T12:50+00:00
+150510,CA,California Court of Appeal District 1 Division 2 Associate Justice Seat 3 - Tara M. Desautels Retention,2026-11-03,99.9,,False,2,12,928009,2026-11-18T12:50+00:00
+182589,CA,"California City of Pacifica Member, City Council, District 5",2026-11-03,99.9,,False,2,1,2067,2026-11-18T12:50+00:00
+182216,CA,"California Hacienda La Puente Unified School District Governing Board Member, Trustee Area No. 4",2026-11-03,0,,False,4,1,5189,2026-11-18T12:50+00:00
+182580,CA,"California City of Half Moon Bay Member, City Council, District 5",2026-11-03,99.9,,False,2,1,582,2026-11-18T12:50+00:00
+182015,CA,California City of Artesia Member of the City Council,2026-11-03,0,,False,6,1,7861,2026-11-18T12:50+00:00
+182210,CA,California El Rancho Unified School District Measure ED,2026-11-03,0,,False,2,1,14176,2026-11-18T12:50+00:00
+182106,CA,California City of Monterey Park City Clerk,2026-11-03,0,,False,2,1,9132,2026-11-18T12:50+00:00
+182477,CA,"California City of Laguna Hills Member, City Council, District 4",2026-11-03,99.9,,False,4,1,1974,2026-11-18T12:50+00:00
+182565,CA,California San Mateo County Board of Supervisors District 5 (Short Term),2026-11-03,99.9,,False,2,1,19693,2026-11-18T12:50+00:00
+182599,CA,"California City of San Mateo Member, City Council, District 3",2026-11-03,99.9,,False,2,1,3310,2026-11-18T12:50+00:00
+182002,CA,California Los Angeles County Sheriff,2026-11-03,0,,False,3,1,2165524,2026-11-18T12:50+00:00
+150482,CA,California State Assembly 59,2026-11-03,98.8,2026-11-12T01:54:12.309Z,False,2,2,184225,2026-11-18T12:50+00:00
+182496,CA,California City of Orange Mayor,2026-11-03,99.9,,False,2,1,32047,2026-11-18T12:50+00:00
+150476,CA,California State Assembly 53,2026-11-03,98.8,2026-11-12T01:54:12.309Z,False,2,2,125989,2026-11-18T12:50+00:00
+182487,CA,"California City of Mission Viejo Member, City Council District 1",2026-11-03,99.9,,False,2,1,5851,2026-11-18T12:50+00:00
+182578,CA,"California City of Half Moon Bay Member, City Council, District 1",2026-11-03,99.9,,False,2,1,582,2026-11-18T12:50+00:00
+150565,CA,California Court of Appeal District 6 Associate Justice Seat 3 - Charles F. Adams Retention,2026-11-03,99.9,,False,2,4,357097,2026-11-18T12:50+00:00
+182268,CA,"California Rowland Unified School District Governing Board Member, Trustee Area No. 1",2026-11-03,0,,False,3,1,3951,2026-11-18T12:50+00:00
+182167,CA,Los Angeles Measure PRT,2026-11-03,0,,False,2,1,774420,2026-11-18T12:50+00:00
+182262,CA,"California Pasadena Unified School District Board of Education, District No. 3",2026-11-03,0,,False,3,1,7058,2026-11-18T12:50+00:00
+182626,CA,California City of Burlingame Measure D,2026-11-03,99.9,,False,2,1,6400,2026-11-18T12:50+00:00
+150453,CA,California State Assembly 30,2026-11-03,97.6,2026-11-04T07:09:42.043Z,False,2,3,207133,2026-11-18T12:50+00:00
+182532,CA,California Trabuco Canyon Water District Director,2026-11-03,99.9,,False,7,1,11091,2026-11-18T12:50+00:00
+182620,CA,California San Mateo County Measure L,2026-11-03,99.9,,False,2,1,127621,2026-11-18T12:50+00:00
+182523,CA,California Rossmoor Community Services District Director,2026-11-03,99.9,,False,3,1,5004,2026-11-18T12:50+00:00
+182143,CA,California City of Santa Monica Measure VV,2026-11-03,0,,False,2,1,30631,2026-11-18T12:50+00:00
+182614,CA,California Cabrillo Unified School District Measure Z,2026-11-03,99.9,,False,2,1,7131,2026-11-18T12:50+00:00
+182049,CA,"California City of Diamond Bar Member of the City Council, 1st District",2026-11-03,0,,False,3,1,3131,2026-11-18T12:50+00:00
+182413,CA,"California Garden Grove Unified School District Governing Board Member, Trustee Area 2",2026-11-03,99.9,,False,2,1,12233,2026-11-18T12:50+00:00
+182508,CA,"California City of Santa Ana Member, City Council Ward 2",2026-11-03,99.9,,False,2,1,5257,2026-11-18T12:50+00:00
+150403,CA,California Board of Equalization Member 4,2026-11-03,99.9,,False,2,5,2046827,2026-11-18T12:50+00:00
+150522,CA,California Court of Appeal District 2 Division 3 Associate Justice Seat 1 - Mark Hanasono Retention,2026-11-03,99.9,,False,2,4,1975955,2026-11-18T12:50+00:00
+150425,CA,California State Assembly 2,2026-11-03,92.6,2026-11-04T07:09:42.042Z,False,2,5,203287,2026-11-18T12:50+00:00
+182036,CA,"California City of Claremont Member of the City Council, 2nd District",2026-11-03,0,,False,2,1,1759,2026-11-18T12:50+00:00
+150516,CA,California Court of Appeal District 1 Division 5 Associate Justice Seat 3 - Gordon Burns Retention,2026-11-03,99.9,,False,2,12,913050,2026-11-18T12:50+00:00
+150419,CA,California State Senate 32,2026-11-03,98.7,,False,2,4,351756,2026-11-18T12:50+00:00
+150507,CA,California Court of Appeal District 1 Division 1 Associate Justice Seat 2 - Kathleen M. Banke Retention,2026-11-03,99.9,,False,2,12,934157,2026-11-18T12:50+00:00
+182521,CA,"California City of Rancho Santa Margarita Member, City Council District 2",2026-11-03,99.9,,False,3,1,3558,2026-11-18T12:50+00:00
+150501,CA,California State Assembly 78,2026-11-03,99,2026-11-12T01:54:12.310Z,False,2,1,203833,2026-11-18T12:50+00:00
+182012,CA,"California City of Arcadia Member of the City Council, 2nd District",2026-11-03,0,,False,3,1,3568,2026-11-18T12:50+00:00
+150495,CA,California State Assembly 72,2026-11-03,98.6,,False,2,1,220006,2026-11-18T12:50+00:00
+182198,CA,California Culver City Unified School District Governing Board Member,2026-11-03,0,,False,5,1,30647,2026-11-18T12:50+00:00
+182286,CA,"California Whittier City School District Governing Board Member, Trustee Area No. 5",2026-11-03,0,,False,3,1,3080,2026-11-18T12:50+00:00
+182497,CA,"California City of Orange Member, City Council, District 1",2026-11-03,99.9,,False,4,1,4398,2026-11-18T12:50+00:00
+182468,CA,"California City of Garden Grove Member, City Council District 4",2026-11-03,99.9,,False,4,1,6079,2026-11-18T12:50+00:00
+182280,CA,California Temple City Unified School District Measure TCS,2026-11-03,0,,False,2,1,7769,2026-11-18T12:50+00:00
+150543,CA,California Court of Appeal District 4 Division 1 Associate Justice Seat 3 - Jose S. Castillo Retention,2026-11-03,99.9,,False,2,6,1820854,2026-11-18T12:50+00:00
+150471,CA,California State Assembly 48,2026-11-03,98.5,2026-11-04T07:09:42.043Z,False,2,1,143725,2026-11-18T12:50+00:00
+182557,CA,"California San Mateo Union High School District Member, Governing Board, Trustee Area 5",2026-11-03,99.9,,False,2,1,7124,2026-11-18T12:50+00:00
+182177,CA,"California Antelope Valley Community College District Governing Board Member, Trustee Area No. 2",2026-11-03,0,,False,3,1,12971,2026-11-18T12:50+00:00
+182272,CA,California San Marino Unified School District Measure SMS,2026-11-03,0,,False,2,1,4588,2026-11-18T12:50+00:00
+182444,CA,California Orange County Supervisor 4th District,2026-11-03,99.9,,False,2,1,121628,2026-11-18T12:50+00:00
+182639,CA,California City of San Mateo Measure H,2026-11-03,99.9,,False,2,1,18436,2026-11-18T12:50+00:00
+182542,CA,California City of Newport Beach Measure H,2026-11-03,99.9,,False,2,1,28467,2026-11-18T12:50+00:00
+150553,CA,California Court of Appeal District 4 Division 3 Associate Justice Seat 3 - Juliet O. Macaulay Retention,2026-11-03,99.9,,False,2,6,1771956,2026-11-18T12:50+00:00
+182164,CA,Los Angeles Measure LA,2026-11-03,0,,False,2,1,779478,2026-11-18T12:50+00:00
+150459,CA,California State Assembly 36,2026-11-03,98.7,2026-11-12T01:54:12.309Z,False,2,3,125232,2026-11-18T12:50+00:00
+182155,CA,California City of West Covina City Treasurer,2026-11-03,0,,False,2,1,19151,2026-11-18T12:50+00:00
+150450,CA,California State Assembly 27,2026-11-03,98,2026-11-12T01:54:12.309Z,False,2,3,123645,2026-11-18T12:50+00:00
+150541,CA,California Court of Appeal District 3 Associate Justice Seat 9 - Jonathan Renner Retention,2026-11-03,99.9,,False,2,23,638560,2026-11-18T12:50+00:00
+150444,CA,California State Assembly 21,2026-11-03,95.9,2026-11-04T07:09:42.042Z,False,2,1,171714,2026-11-18T12:50+00:00
+150532,CA,California Court of Appeal District 2 Division 8 Associate Justice Seat 1 - John Wiley Retention,2026-11-03,99.9,,False,2,4,1957560,2026-11-18T12:50+00:00
+150438,CA,California State Assembly 15,2026-11-03,94.7,2026-11-12T01:54:12.309Z,False,2,1,166364,2026-11-18T12:50+00:00
+182134,CA,"California City of Santa Clarita Member of the City Council, 4th District",2026-11-03,0,,False,6,1,13373,2026-11-18T12:50+00:00
+182229,CA,"California Lancaster School District Governing Board Member, Trustee Area No. 2",2026-11-03,0,,False,3,1,3326,2026-11-18T12:50+00:00
+150517,CA,California Court of Appeal District 2 Division 1 Associate Justice Seat 1 - Michelle C. Kim Retention,2026-11-03,99.9,,False,2,4,2009102,2026-11-18T12:50+00:00
+182404,CA,"California Coast Community College District Governing Board Member, Trustee Area 3, Short Term",2026-11-03,99.9,,False,3,1,32404,2026-11-18T12:50+00:00
+182223,CA,California Inglewood Unified School District Measure MM,2026-11-03,0,,False,2,1,25607,2026-11-18T12:50+00:00
+182587,CA,"California City of Pacifica Member, City Council, District 2",2026-11-03,99.9,,False,2,1,1477,2026-11-18T12:50+00:00
+182522,CA,"California City of Rancho Santa Margarita Member, City Council District 4",2026-11-03,99.9,,False,1,1,2544,2026-11-18T12:50+00:00
+182217,CA,"California Hacienda La Puente Unified School District Governing Board Member, Trustee Area No. 5",2026-11-03,0,,False,5,1,5621,2026-11-18T12:50+00:00
+182305,CA,"California Santa Clarita Valley Water Agency Member, Board of Directors, Division 3",2026-11-03,0,,False,4,1,35304,2026-11-18T12:50+00:00
+182016,CA,"California City of Azusa Member of the City Council, 1st District",2026-11-03,0,,False,4,1,2354,2026-11-18T12:50+00:00
+182104,CA,California City of Monterey Park Measure AAA,2026-11-03,0,,False,2,1,11817,2026-11-18T12:50+00:00
+182299,CA,"California La Cañada Irrigation District Member, Board of Directors, Division 4",2026-11-03,0,,False,3,1,653,2026-11-18T12:50+00:00
+182202,CA,"California East Whittier City School District Governing Board Member, Trustee Area No. 3",2026-11-03,0,,False,3,1,3739,2026-11-18T12:50+00:00
+182566,CA,California City of Belmont Mayor,2026-11-03,99.9,,False,1,1,4782,2026-11-18T12:50+00:00
+150492,CA,California State Assembly 69,2026-11-03,98.5,2026-11-12T01:54:12.310Z,False,2,1,137071,2026-11-18T12:50+00:00
+182503,CA,California City of San Clemente Mayor,2026-11-03,99.9,,False,3,1,21921,2026-11-18T12:50+00:00
+150483,CA,California State Assembly 60,2026-11-03,98.3,2026-11-12T01:54:12.309Z,False,2,1,108815,2026-11-18T12:50+00:00
+182494,CA,"California City of Newport Beach Member, City Council District 4",2026-11-03,99.9,,False,1,1,21970,2026-11-18T12:50+00:00
+182585,CA,"California City of Millbrae Member, City Council, District 3 (Short Term)",2026-11-03,99.9,,False,2,1,763,2026-11-18T12:50+00:00
+182488,CA,"California City of Mission Viejo Member, City Council District 2, Short Term",2026-11-03,99.9,,False,2,1,6702,2026-11-18T12:50+00:00
+182576,CA,"California City of Foster City Member, City Council, District 1",2026-11-03,99.9,,False,2,1,1160,2026-11-18T12:50+00:00
+182482,CA,"California City of Lake Forest Member, City Council District 4",2026-11-03,99.9,,False,2,1,5186,2026-11-18T12:50+00:00
+182077,CA,California City of Huntington Park Measure HP,2026-11-03,0,,False,2,1,7341,2026-11-18T12:50+00:00
+182441,CA,"California Lowell Joint School District Governing Board Member, Trustee Area 4",2026-11-03,99.9,,False,2,1,1426,2026-11-18T12:50+00:00
+182071,CA,California City of Hawthorne Measure O,2026-11-03,0,,False,2,1,15087,2026-11-18T12:50+00:00
+182627,CA,California City of East Palo Alto Measure O,2026-11-03,99.9,,False,2,1,2690,2026-11-18T12:50+00:00
+182254,CA,"California Palmdale School District Governing Board Member, Trustee Area No. 5",2026-11-03,0,,False,3,1,4992,2026-11-18T12:50+00:00
+150542,CA,California Court of Appeal District 4 Division 1 Associate Justice Seat 2 - Eran M. Bermudez Retention,2026-11-03,99.9,,False,2,6,1800294,2026-11-18T12:50+00:00
+182621,CA,California San Mateo County Measure AA,2026-11-03,99.9,,False,2,1,129433,2026-11-18T12:50+00:00
+182248,CA,"California MT. San Antonio Community College District Governing Board Member, Trustee Area No. 3",2026-11-03,0,,False,3,1,17988,2026-11-18T12:50+00:00
+182420,CA,"California Orange Unified School District Governing Board Member, Trustee Area 1",2026-11-03,99.9,,False,2,1,49836,2026-11-18T12:50+00:00
+182047,CA,California City of Culver City Measure YV,2026-11-03,0,,False,2,1,14362,2026-11-18T12:50+00:00
+182242,CA,"California Los Angeles Community College District Member of the Board of Trustees, Seat 6",2026-11-03,0,,False,5,1,970682,2026-11-18T12:50+00:00
+182138,CA,California City of Santa Monica Member of the Rent Control Board,2026-11-03,0,,False,6,1,63450,2026-11-18T12:50+00:00
+182509,CA,"California City of Santa Ana Member, City Council Ward 4",2026-11-03,99.9,,False,2,1,8408,2026-11-18T12:50+00:00
+182597,CA,"California City of San Carlos Member, City Council",2026-11-03,99.9,,False,4,1,17162,2026-11-18T12:50+00:00
+182631,CA,California City of Menlo Park Measure P,2026-11-03,99.9,,False,2,1,7273,2026-11-18T12:50+00:00
+150426,CA,California State Assembly 3,2026-11-03,96.1,2026-11-12T01:54:12.309Z,False,2,6,142597,2026-11-18T12:50+00:00
+150514,CA,California Court of Appeal District 1 Division 5 Associate Justice Seat 1 - Mark Simons Retention,2026-11-03,99.9,,False,2,12,916158,2026-11-18T12:50+00:00
+182528,CA,"California Irvine Ranch Water District Director, Division 5",2026-11-03,99.9,,False,2,1,15040,2026-11-18T12:50+00:00
+150508,CA,California Court of Appeal District 1 Division 1 Associate Justice Seat 3 - Monique Langhorne Wilson Retention,2026-11-03,99.9,,False,2,12,951330,2026-11-18T12:50+00:00
+182519,CA,"California City of Yorba Linda Member, City Council",2026-11-03,99.9,,False,5,1,35638,2026-11-18T12:50+00:00
+182610,CA,"California Coastside Fire Protection District Member, Board of Directors, District E",2026-11-03,99.9,,False,2,1,1155,2026-11-18T12:50+00:00
+150405,CA,California State Senate 4,2026-11-03,96.4,,False,2,13,377817,2026-11-18T12:50+00:00
+182101,CA,"California City of Montebello Member of the City Council, 3rd District",2026-11-03,0,,False,4,1,2123,2026-11-18T12:50+00:00
+182007,CA,"California City of Alhambra Member of the City Council, Fifth District",2026-11-03,0,,False,4,1,3992,2026-11-18T12:50+00:00
+182287,CA,"California Whittier Union High School District Governing Board Member, Trustee Area No. 5",2026-11-03,0,,False,3,1,7686,2026-11-18T12:50+00:00
+182466,CA,"California City of Garden Grove Member, City Council District 1",2026-11-03,99.9,,False,3,1,7327,2026-11-18T12:50+00:00
+182586,CA,"California City of Millbrae Member, City Council, District 4 (Full Term)",2026-11-03,99.9,,False,2,1,1013,2026-11-18T12:50+00:00
+182281,CA,"California Torrance Unified School District Governing Board Member, Trustee Area D",2026-11-03,0,,False,3,1,8698,2026-11-18T12:50+00:00
+182460,CA,"California City of Cypress Member, City Council District 2",2026-11-03,99.9,,False,2,1,1805,2026-11-18T12:50+00:00
+182555,CA,"California South San Francisco Unified School District Member, Governing Board, Trustee Area E",2026-11-03,99.9,,False,2,1,1885,2026-11-18T12:50+00:00
+150567,CA,California Court of Appeal District 6 Associate Justice Seat 6 - Allison Marston Danner Retention,2026-11-03,99.9,,False,2,4,358094,2026-11-18T12:50+00:00
+182454,CA,"California City of Buena Park Member, City Council District 5",2026-11-03,99.9,,False,2,1,3299,2026-11-18T12:50+00:00
+150466,CA,California State Assembly 43,2026-11-03,98.5,2026-11-04T07:09:42.043Z,False,2,1,119769,2026-11-18T12:50+00:00
+182445,CA,California Orange County Supervisor 5th District,2026-11-03,99.9,,False,2,1,184020,2026-11-18T12:50+00:00
+182540,CA,California City of Lake Forest Measure F,2026-11-03,99.9,,False,2,1,25076,2026-11-18T12:50+00:00
+150435,CA,California State Assembly 12,2026-11-03,98.6,2026-11-12T01:54:12.309Z,False,2,3,196525,2026-11-18T12:50+00:00
+182291,CA,"California Altadena Library District Member, Board of Trustees, Trustee Area No. 3",2026-11-03,0,,False,4,1,1431,2026-11-18T12:50+00:00
+150554,CA,California Court of Appeal District 4 Division 3 Associate Justice Seat 4 - Martha K. Gooding Retention,2026-11-03,99.9,,False,2,6,1775178,2026-11-18T12:50+00:00
+150457,CA,California State Assembly 34,2026-11-03,98.7,2026-11-12T01:54:12.309Z,False,2,3,151514,2026-11-18T12:50+00:00
+182068,CA,California City of Hawthorne City Clerk,2026-11-03,0,,False,2,1,13133,2026-11-18T12:50+00:00
+150548,CA,California Court of Appeal District 4 Division 1 Associate Justice Seat 9 - Julia C. Kelety Retention,2026-11-03,99.9,,False,2,6,1821264,2026-11-18T12:50+00:00
+150451,CA,California State Assembly 28,2026-11-03,96.5,2026-11-04T07:09:42.043Z,False,2,2,195622,2026-11-18T12:50+00:00
+150539,CA,California Court of Appeal District 3 Associate Justice Seat 7 - Stacy Boulware Eurie Retention,2026-11-03,99.9,,False,2,23,641920,2026-11-18T12:50+00:00
+182553,CA,"California Cabrillo Unified School District Member, Governing Board, Trustee Area E",2026-11-03,99.9,,False,2,1,1315,2026-11-18T12:50+00:00
+150533,CA,California Court of Appeal District 2 Division 8 Associate Justice Seat 2 - Matthew A. Scherb Retention,2026-11-03,99.9,,False,2,4,1957182,2026-11-18T12:50+00:00
+182044,CA,California City of Cudahy Member of the City Council,2026-11-03,0,,False,6,1,5501,2026-11-18T12:50+00:00
+150527,CA,California Court of Appeal District 2 Division 5 Presiding Justice - Brian M. Hoffstadt Retention,2026-11-03,99.9,,False,2,4,2001970,2026-11-18T12:50+00:00
+182038,CA,"California City of Claremont Member of the City Council, 4th District",2026-11-03,0,,False,4,1,2638,2026-11-18T12:50+00:00
+182402,CA,"California North Orange County Community College District Governing Board Member, Trustee Area 6",2026-11-03,99.9,,False,4,1,27205,2026-11-18T12:50+00:00
+182529,CA,"California Moulton Niguel Water District Director, Full Term",2026-11-03,99.9,,False,7,1,90978,2026-11-18T12:50+00:00
+182224,CA,"California Keppel Union School District Governing Board Member, Trustee Area No. 1",2026-11-03,0,,False,3,1,573,2026-11-18T12:50+00:00
+182312,CA,"California Water Replenishment District of Southern California Member, Board of Directors, Division 4",2026-11-03,0,,False,4,1,106063,2026-11-18T12:50+00:00
+182215,CA,"California Hacienda La Puente Unified School District Governing Board Member, Trustee Area No. 2",2026-11-03,0,,False,5,1,3984,2026-11-18T12:50+00:00
+150503,CA,California State Assembly 80,2026-11-03,99,2026-11-12T01:54:12.310Z,False,2,1,155621,2026-11-18T12:50+00:00
+182306,CA,"California Three Valleys Municipal Water District Member, Board of Directors, Division 3",2026-11-03,0,,False,4,1,20552,2026-11-18T12:50+00:00
+150409,CA,California State Senate 12,2026-11-03,97.8,2026-11-12T01:54:12.309Z,False,2,3,311901,2026-11-18T12:50+00:00
+182105,CA,California City of Monterey Park Measure HOM,2026-11-03,0,,False,2,1,11596,2026-11-18T12:50+00:00
+182200,CA,"California Duarte Unified School District Governing Board Member, Trustee Area No. 5",2026-11-03,0,,False,3,1,1079,2026-11-18T12:50+00:00
+182479,CA,"California City of La Habra Member, City Council",2026-11-03,99.9,,False,4,1,22650,2026-11-18T12:50+00:00
+182598,CA,"California City of San Mateo Member, City Council, District 1",2026-11-03,99.9,,False,2,1,4340,2026-11-18T12:50+00:00
+182501,CA,"California City of Placentia Member, City Council District 4",2026-11-03,99.9,,False,2,1,3199,2026-11-18T12:50+00:00
+182004,CA,California Los Angeles County Superior Court Judge Office No. 65,2026-11-03,0,,False,3,1,1870004,2026-11-18T12:50+00:00
+182592,CA,"California City of Redwood City Member, City Council, District 5",2026-11-03,99.9,,False,1,1,1522,2026-11-18T12:50+00:00
+182495,CA,"California City of Newport Beach Member, City Council District 6",2026-11-03,99.9,,False,2,1,27180,2026-11-18T12:50+00:00
+182583,CA,"California City of Menlo Park Member, City Council, District 4",2026-11-03,99.9,,False,2,1,1520,2026-11-18T12:50+00:00
+182213,CA,"California Glendora Unified School District Governing Board Member, Trustee Area No. 2",2026-11-03,0,,False,3,1,3009,2026-11-18T12:50+00:00
+182577,CA,"California City of Foster City Member, City Council, District 2",2026-11-03,99.9,,False,1,1,1003,2026-11-18T12:50+00:00
+150564,CA,California Court of Appeal District 6 Associate Justice Seat 2 - Charles E. Wilson II Retention,2026-11-03,99.9,,False,2,4,361381,2026-11-18T12:50+00:00
+182571,CA,"California City of Burlingame Member, City Council, District 3",2026-11-03,99.9,,False,2,1,1409,2026-11-18T12:50+00:00
+182166,CA,Los Angeles Measure PRK,2026-11-03,0,,False,2,1,800343,2026-11-18T12:50+00:00
+182261,CA,"California Pasadena Unified School District Board of Education, District No. 1",2026-11-03,0,,False,3,1,6235,2026-11-18T12:50+00:00
+150549,CA,California Court of Appeal District 4 Division 2 Associate Justice Seat 4 - Corey G. Lee Retention,2026-11-03,99.9,,False,2,6,1789908,2026-11-18T12:50+00:00
+182436,CA,"California Cypress School District Governing Board Member, Trustee Area C",2026-11-03,99.9,,False,3,1,2492,2026-11-18T12:50+00:00
+182255,CA,California Palos Verdes Peninsula Unified School District Governing Board Member,2026-11-03,0,,False,6,1,43585,2026-11-18T12:50+00:00
+182619,CA,California San Mateo-Foster City School District Measure W,2026-11-03,99.9,,False,2,1,24667,2026-11-18T12:50+00:00
+182554,CA,"California South San Francisco Unified School District Member, Governing Board, Trustee Area C",2026-11-03,99.9,,False,2,1,2862,2026-11-18T12:50+00:00
+182249,CA,"California Norwalk-La Mirada Unified School District Governing Board Member, Trustee Area No. 2",2026-11-03,0,,False,3,1,3654,2026-11-18T12:50+00:00
+182145,CA,California City of South El Monte Measure CL,2026-11-03,0,,False,2,1,3016,2026-11-18T12:50+00:00
+182048,CA,California City of Culver City Member of the City Council,2026-11-03,0,,False,6,1,25170,2026-11-18T12:50+00:00
+182136,CA,California City of Santa Fe Springs Member of the City Council,2026-11-03,0,,False,7,1,11605,2026-11-18T12:50+00:00
+182415,CA,"California Irvine Unified School District Governing Board Member, Trustee Area 2",2026-11-03,99.9,,False,2,1,9874,2026-11-18T12:50+00:00
+182234,CA,"California Lawndale School District Governing Board Member, Trustee Area No. 2",2026-11-03,0,,False,3,1,1620,2026-11-18T12:50+00:00
+182629,CA,California City of Half Moon Bay Measure I,2026-11-03,99.9,,False,2,1,2980,2026-11-18T12:50+00:00
+150524,CA,California Court of Appeal District 2 Division 4 Associate Justice Seat 1 - Audra M. Mori Retention,2026-11-03,99.9,,False,2,4,1972290,2026-11-18T12:50+00:00
+182535,CA,California Laguna Beach Unified School District Measure A,2026-11-03,99.9,,False,2,1,10977,2026-11-18T12:50+00:00
+150515,CA,California Court of Appeal District 1 Division 5 Associate Justice Seat 2 - Danny Y. Chou Retention,2026-11-03,99.9,,False,2,12,922757,2026-11-18T12:50+00:00
+182526,CA,California Midway City Sanitary District Director,2026-11-03,99.9,,False,6,1,42503,2026-11-18T12:50+00:00
+182617,CA,California Pacifica School District Measure T,2026-11-03,99.9,,False,2,1,9341,2026-11-18T12:50+00:00
+182520,CA,"California City of Rancho Santa Margarita Member, City Council District 1",2026-11-03,99.9,,False,2,1,3899,2026-11-18T12:50+00:00
+182608,CA,"California Coastside County Water District Member, Board of Directors, Zone 5",2026-11-03,99.9,,False,2,1,1048,2026-11-18T12:50+00:00
+182514,CA,California City of Tustin Mayor,2026-11-03,99.9,,False,2,1,16337,2026-11-18T12:50+00:00
+150494,CA,California State Assembly 71,2026-11-03,98.4,2026-11-12T01:54:12.310Z,False,2,2,195182,2026-11-18T12:50+00:00
+182197,CA,"California Covina-Valley Unified School District Governing Board Member, Trustee Area No. 4",2026-11-03,0,,False,3,1,3864,2026-11-18T12:50+00:00
+182593,CA,"California City of Redwood City Member, City Council, District 6",2026-11-03,99.9,,False,1,1,2131,2026-11-18T12:50+00:00
+182096,CA,California City of Monrovia City Treasurer,2026-11-03,0,,False,2,1,9637,2026-11-18T12:50+00:00
+182467,CA,"California City of Garden Grove Member, City Council District 3",2026-11-03,99.9,,False,3,1,5986,2026-11-18T12:50+00:00
+182279,CA,"California South Whittier School District Governing Board Member, Trustee Area No. 5",2026-11-03,0,,False,3,1,961,2026-11-18T12:50+00:00
+182214,CA,California Glendora Unified School District Measure G,2026-11-03,0,,False,2,1,13720,2026-11-18T12:50+00:00
+182461,CA,"California City of Cypress Member, City Council District 5",2026-11-03,99.9,,False,2,1,3304,2026-11-18T12:50+00:00
+182081,CA,"California City of Inglewood Member of the City Council, 1st District (Primary Nominating Election)",2026-11-03,0,,False,5,1,6885,2026-11-18T12:50+00:00
+182176,CA,"California Acton-Agua Dulce Unified School District Governing Board Member, Trustee Area No. 4",2026-11-03,0,,False,3,1,762,2026-11-18T12:50+00:00
+150464,CA,California State Assembly 41,2026-11-03,98.8,2026-11-12T01:54:12.309Z,False,2,2,197863,2026-11-18T12:50+00:00
+182274,CA,California Santa Monica Community College District Member of the Board of Trustees,2026-11-03,0,,False,6,1,89899,2026-11-18T12:50+00:00
+182170,CA,Los Angeles City Attorney,2026-11-03,0,,False,2,1,769920,2026-11-18T12:50+00:00
+182541,CA,California City of Los Alamitos Measure G,2026-11-03,99.9,,False,2,1,2924,2026-11-18T12:50+00:00
+182568,CA,"California City of Belmont Member, City Council, District 3",2026-11-03,99.9,,False,1,1,1243,2026-11-18T12:50+00:00
+182471,CA,California City of Irvine Mayor,2026-11-03,99.9,,False,2,1,58344,2026-11-18T12:50+00:00
+150458,CA,California State Assembly 35,2026-11-03,98.5,2026-11-04T07:09:42.043Z,False,2,1,94227,2026-11-18T12:50+00:00
+150546,CA,California Court of Appeal District 4 Division 1 Associate Justice Seat 6 - David M. Rubin Retention,2026-11-03,99.9,,False,2,6,1793761,2026-11-18T12:50+00:00
+182560,CA,"California Brisbane School District Member, Governing Board",2026-11-03,99.9,,False,4,1,3125,2026-11-18T12:50+00:00
+150540,CA,California Court of Appeal District 3 Associate Justice Seat 8 - Aimee A. Feinberg Retention,2026-11-03,99.9,,False,2,23,639661,2026-11-18T12:50+00:00
+182551,CA,"California San Mateo County Community College District Member, Governing Board, Trustee Area 2",2026-11-03,99.9,,False,2,1,17455,2026-11-18T12:50+00:00
+182450,CA,"California City of Anaheim Member, City Council District 3",2026-11-03,99.9,,False,2,1,9282,2026-11-18T12:50+00:00
+150437,CA,California State Assembly 14,2026-11-03,95,2026-11-04T07:09:42.042Z,False,2,2,173086,2026-11-18T12:50+00:00
+182133,CA,"California City of Santa Clarita Member of the City Council, 2nd District",2026-11-03,0,,False,4,1,14672,2026-11-18T12:50+00:00
+150431,CA,California State Assembly 8,2026-11-03,96,2026-11-04T07:09:42.042Z,False,1,7,136418,2026-11-18T12:50+00:00
+182403,CA,"California Coast Community College District Governing Board Member, Trustee Area 1",2026-11-03,99.9,,False,3,1,33533,2026-11-18T12:50+00:00
+182030,CA,California City of Burbank Member of the City Council,2026-11-03,0,,False,14,1,75526,2026-11-18T12:50+00:00
+182618,CA,California San Carlos School District Measure K,2026-11-03,99.9,,False,2,1,7182,2026-11-18T12:50+00:00
+182313,CA,"California West Basin Municipal Water District Member, Board of Directors, Division 1",2026-11-03,0,,False,5,1,41064,2026-11-18T12:50+00:00
+182024,CA,"California City of Bellflower Member of the City Council, 1st District",2026-11-03,0,,False,3,1,3509,2026-11-18T12:50+00:00
+182304,CA,"California Santa Clarita Valley Water Agency Member, Board of Directors, Division 1",2026-11-03,0,,False,3,1,23648,2026-11-18T12:50+00:00
+150407,CA,California State Senate 8,2026-11-03,96.3,2026-11-04T07:09:42.042Z,False,2,1,298255,2026-11-18T12:50+00:00
+182018,CA,California City of Baldwin Park Measure CR,2026-11-03,0,,False,2,1,11495,2026-11-18T12:50+00:00
+150498,CA,California State Assembly 75,2026-11-03,99,2026-11-12T01:54:12.310Z,False,2,1,200822,2026-11-18T12:50+00:00
+182201,CA,"California East Whittier City School District Governing Board Member, Trustee Area No. 1",2026-11-03,0,,False,3,1,4607,2026-11-18T12:50+00:00
+182289,CA,"California William S. Hart Union High School District Governing Board Member, Trustee Area No. 5",2026-11-03,0,,False,3,1,19341,2026-11-18T12:50+00:00
+182407,CA,"California Rancho Santiago Community College District Governing Board Member, Trustee Area 4",2026-11-03,99.9,,False,2,1,12881,2026-11-18T12:50+00:00
+182502,CA,California City of Placentia City Clerk,2026-11-03,99.9,,False,1,1,10918,2026-11-18T12:50+00:00
+182590,CA,"California Town of Portola Valley Member, Town Council",2026-11-03,99.9,,False,3,1,3359,2026-11-18T12:50+00:00
+182220,CA,"California Inglewood Unified School District Member, Board of Education, Trustee Area 1",2026-11-03,0,,False,3,1,6971,2026-11-18T12:50+00:00
+182584,CA,"California City of Millbrae Member, City Council, District 2 (Full Term)",2026-11-03,99.9,,False,1,1,561,2026-11-18T12:50+00:00
+182211,CA,"California Fullerton Joint Union High School District Governing Board Member, Trustee Area No. 1",2026-11-03,50,,False,3,2,10068,2026-11-18T12:50+00:00
+182302,CA,"California Palmdale Water District Member, Board of Directors, Division 2",2026-11-03,0,,False,3,1,3846,2026-11-18T12:50+00:00
+182481,CA,"California City of Lake Forest Member, City Council District 3",2026-11-03,99.9,,False,2,1,4406,2026-11-18T12:50+00:00
+182076,CA,"California City of Huntington Park Member of the City Council, 5th District",2026-11-03,0,,False,3,1,1471,2026-11-18T12:50+00:00
+150559,CA,California Court of Appeal District 5 Associate Justice Seat 6 - Amy K. Guerra Retention,2026-11-03,99.9,,False,2,9,440443,2026-11-18T12:50+00:00
+182070,CA,California City of Hawthorne Member of the City Council,2026-11-03,0,,False,4,1,21722,2026-11-18T12:50+00:00
+182434,CA,"California Anaheim Elementary School District Governing Board Member, Trustee Area 4",2026-11-03,99.9,,False,2,1,4846,2026-11-18T12:50+00:00
+182561,CA,"California Menlo Park City School District Member, Governing Board",2026-11-03,99.9,,False,4,1,12306,2026-11-18T12:50+00:00
+182256,CA,"California Paramount Unified School District Governing Board Member, Trustee Area No. 4",2026-11-03,0,,False,3,1,2354,2026-11-18T12:50+00:00
+182428,CA,"California Santa Ana Unified School District Governing Board Member, Trustee Area 5",2026-11-03,99.9,,False,2,1,7094,2026-11-18T12:50+00:00
+182247,CA,California Mountain View School District Governing Board Member,2026-11-03,0,,False,6,1,12221,2026-11-18T12:50+00:00
+150535,CA,California Court of Appeal District 3 Presiding Justice - Laurie Earl Retention,2026-11-03,99.9,,False,2,23,659083,2026-11-18T12:50+00:00
+182422,CA,"California Orange Unified School District Governing Board Member, Trustee Area 5",2026-11-03,99.9,,False,2,1,49410,2026-11-18T12:50+00:00
+150441,CA,California State Assembly 18,2026-11-03,97.6,2026-11-04T07:09:42.042Z,False,2,2,149493,2026-11-18T12:50+00:00
+182137,CA,California City of Santa Monica Member of the City Council,2026-11-03,0,,False,13,1,84601,2026-11-18T12:50+00:00
+182232,CA,California Las Virgenes Unified School District Measure LV,2026-11-03,0,,False,2,1,21282,2026-11-18T12:50+00:00
+182511,CA,"California City of Seal Beach Member, City Council District 1",2026-11-03,99.9,,False,4,1,1755,2026-11-18T12:50+00:00
+182630,CA,California City of Half Moon Bay Measure Q,2026-11-03,99.9,,False,2,1,3280,2026-11-18T12:50+00:00
+182533,CA,"California Municipal Water District of Orange County Director, Division 2",2026-11-03,99.9,,False,4,1,60484,2026-11-18T12:50+00:00
+150428,CA,California State Assembly 5,2026-11-03,97.7,2026-11-12T01:54:12.309Z,False,2,2,238040,2026-11-18T12:50+00:00
+182624,CA,California City of Belmont Measure Y,2026-11-03,99.9,,False,2,1,5992,2026-11-18T12:50+00:00
+182527,CA,California El Toro Water District Director,2026-11-03,99.9,,False,3,1,22720,2026-11-18T12:50+00:00
+182615,CA,California Jefferson Union High School District Measure M,2026-11-03,99.9,,False,2,1,22281,2026-11-18T12:50+00:00
+182245,CA,"California Monrovia Unified School District Governing Board Member, Trustee Area No. 5",2026-11-03,0,,False,3,1,3204,2026-11-18T12:50+00:00
+182609,CA,"California Coastside Fire Protection District Member, Board of Directors, District D",2026-11-03,99.9,,False,2,1,1010,2026-11-18T12:50+00:00
+150404,CA,California State Senate 2,2026-11-03,93.8,2026-11-04T07:09:42.042Z,False,2,8,414233,2026-11-18T12:50+00:00
+182603,CA,"California City of South San Francisco Member, City Council, District 5",2026-11-03,99.9,,False,1,1,1267,2026-11-18T12:50+00:00
+182006,CA,California Los Angeles County Superior Court Judge Office No. 131,2026-11-03,0,,False,3,1,1832787,2026-11-18T12:50+00:00
+182094,CA,California City of Maywood Member of the City Council,2026-11-03,0,,False,10,1,8266,2026-11-18T12:50+00:00
+182221,CA,"California Inglewood Unified School District Member, Board of Education, Trustee Area 2",2026-11-03,0,,False,3,1,6442,2026-11-18T12:50+00:00
+182192,CA,California Claremont Unified School District Measure CS,2026-11-03,0,,False,2,1,13101,2026-11-18T12:50+00:00
+182088,CA,California City of Lawndale Mayor,2026-11-03,0,,False,3,1,5597,2026-11-18T12:50+00:00
+182459,CA,"California City of Cypress Member, City Council District 1",2026-11-03,99.9,,False,2,1,2589,2026-11-18T12:50+00:00
+182579,CA,"California City of Half Moon Bay Member, City Council, District 4",2026-11-03,99.9,,False,2,1,875,2026-11-18T12:50+00:00
+182082,CA,"California City of Inglewood Member of the City Council, 2nd District (Primary Nominating Election)",2026-11-03,0,,False,3,1,5856,2026-11-18T12:50+00:00
+182485,CA,"California City of Los Alamitos Member, City Council District 4",2026-11-03,99.9,,False,2,1,545,2026-11-18T12:50+00:00
+150465,CA,California State Assembly 42,2026-11-03,98.8,2026-11-12T01:54:12.309Z,False,2,2,223223,2026-11-18T12:50+00:00
+182168,CA,Los Angeles Measure SC,2026-11-03,0,,False,2,1,882389,2026-11-18T12:50+00:00
+182447,CA,"California City of Aliso Viejo Member, City Council District 3, Short Term",2026-11-03,99.9,,False,2,1,2076,2026-11-18T12:50+00:00
+182266,CA,"California Rio Hondo Community College District Governing Board Member, Trustee Area No. 1",2026-11-03,0,,False,3,1,10234,2026-11-18T12:50+00:00
+182469,CA,"California City of Huntington Beach Member, City Council",2026-11-03,99.9,,False,11,1,226969,2026-11-18T12:50+00:00
+150556,CA,California Court of Appeal District 4 Division 3 Associate Justice Seat 7 - Deborah C. Servino Retention,2026-11-03,99.9,,False,2,6,1777786,2026-11-18T12:50+00:00
+182284,CA,California Westside Union School District Governing Board Member,2026-11-03,0,,False,5,1,33291,2026-11-18T12:50+00:00
+150547,CA,California Court of Appeal District 4 Division 1 Associate Justice Seat 8 - William S. Dato Retention,2026-11-03,99.9,,False,2,6,1799697,2026-11-18T12:50+00:00
+182558,CA,"California Sequoia Union High School District Member, Governing Board, Trustee Area A",2026-11-03,99.9,,False,2,1,8631,2026-11-18T12:50+00:00
+182457,CA,"California City of Costa Mesa Member, City Council District 4",2026-11-03,99.9,,False,2,1,2249,2026-11-18T12:50+00:00
+182552,CA,"California Cabrillo Unified School District Member, Governing Board, Trustee Area C",2026-11-03,99.9,,False,2,1,1075,2026-11-18T12:50+00:00
+182640,CA,California City of San Mateo Measure F,2026-11-03,99.9,,False,2,1,17060,2026-11-18T12:50+00:00
+182546,CA,California City of Placentia Measure L,2026-11-03,99.9,,False,2,1,14125,2026-11-18T12:50+00:00
+150526,CA,California Court of Appeal District 2 Division 4 Associate Justice Seat 3 - Armen Tamzarian Retention,2026-11-03,99.9,,False,2,4,1972364,2026-11-18T12:50+00:00
+182037,CA,"California City of Claremont Member of the City Council, 3rd District",2026-11-03,0,,False,3,1,1886,2026-11-18T12:50+00:00
+182625,CA,California City of Brisbane Measure X,2026-11-03,99.9,,False,2,1,919,2026-11-18T12:50+00:00
+182128,CA,California City of San Gabriel City Treasurer,2026-11-03,0,,False,2,1,5436,2026-11-18T12:50+00:00
+182031,CA,California City of Carson Measure CU,2026-11-03,0,,False,2,1,22501,2026-11-18T12:50+00:00
+182311,CA,"California Water Replenishment District of Southern California Member, Board of Directors, Division 3",2026-11-03,0,,False,5,1,145778,2026-11-18T12:50+00:00
+182246,CA,"California Montebello Unified School District Governing Board Member, Trustee Area No. 2",2026-11-03,0,,False,4,1,4810,2026-11-18T12:50+00:00
+182025,CA,California City of Burbank Measure C,2026-11-03,0,,False,2,1,29971,2026-11-18T12:50+00:00
+182113,CA,"California City of Palmdale Member of the City Council, 5th District",2026-11-03,0,,False,4,1,4602,2026-11-18T12:50+00:00
+150408,CA,California State Senate 10,2026-11-03,95.1,2026-11-04T07:09:42.042Z,False,2,2,279185,2026-11-18T12:50+00:00
+150496,CA,California State Assembly 73,2026-11-03,98.6,2026-11-12T01:54:12.310Z,False,2,1,153371,2026-11-18T12:50+00:00
+182107,CA,California City of Monterey Park City Treasurer,2026-11-03,0,,False,2,1,9362,2026-11-18T12:50+00:00
+182010,CA,California City of Alhambra Measure DB,2026-11-03,0,,False,2,1,17005,2026-11-18T12:50+00:00
+182290,CA,California Wiseburn Unified School District Governing Board Member,2026-11-03,0,,False,7,1,10546,2026-11-18T12:50+00:00
+182600,CA,"California City of San Mateo Member, City Council, District 5",2026-11-03,99.9,,False,3,1,4229,2026-11-18T12:50+00:00
+182227,CA,California Keppel Union School District Measure K,2026-11-03,0,,False,2,1,4086,2026-11-18T12:50+00:00
+182591,CA,"California City of Redwood City Member, City Council, District 2",2026-11-03,99.9,,False,1,1,1258,2026-11-18T12:50+00:00
+182218,CA,California Hacienda La Puente Unified School District Measure B,2026-11-03,0,,False,2,1,24132,2026-11-18T12:50+00:00
+182309,CA,"California Walnut Valley Water District Member, Board of Directors, Division 3",2026-11-03,0,,False,3,1,4231,2026-11-18T12:50+00:00
+182212,CA,"California Fullerton Joint Union High School District Governing Board Member, Trustee Area No. 5",2026-11-03,50,,False,3,2,12261,2026-11-18T12:50+00:00
+182300,CA,"California La Puente Valley County Water District Member, Board of Directors",2026-11-03,0,,False,7,1,3755,2026-11-18T12:50+00:00
+182206,CA,"California El Camino Community College District Governing Board Member, Trustee Area No. 5",2026-11-03,0,,False,3,1,27648,2026-11-18T12:50+00:00
+182570,CA,"California City of Burlingame Member, City Council, District 1",2026-11-03,99.9,,False,1,1,940,2026-11-18T12:50+00:00
+182165,CA,Los Angeles Measure PL,2026-11-03,0,,False,2,1,761919,2026-11-18T12:50+00:00
+182285,CA,"California Whittier City School District Governing Board Member, Trustee Area No. 3",2026-11-03,0,,False,3,1,3348,2026-11-18T12:50+00:00
+150463,CA,California State Assembly 40,2026-11-03,98.5,2026-11-12T01:54:12.309Z,False,2,1,188708,2026-11-18T12:50+00:00
+182435,CA,"California Cypress School District Governing Board Member, Trustee Area B",2026-11-03,99.9,,False,2,1,1990,2026-11-18T12:50+00:00
+182062,CA,California City of El Segundo Measure CT,2026-11-03,0,,False,2,1,5928,2026-11-18T12:50+00:00
+182458,CA,"California City of Costa Mesa Member, City Council District 5",2026-11-03,99.9,,False,2,1,3937,2026-11-18T12:50+00:00
+182429,CA,"California Tustin Unified School District Governing Board Member, Trustee Area 3",2026-11-03,99.9,,False,2,1,6671,2026-11-18T12:50+00:00
+182056,CA,California City of El Monte City Clerk,2026-11-03,0,,False,3,1,13447,2026-11-18T12:50+00:00
+182144,CA,California City of South El Monte Member of the City Council,2026-11-03,0,,False,4,1,4968,2026-11-18T12:50+00:00
+150439,CA,California State Assembly 16,2026-11-03,95,2026-11-12T01:54:12.309Z,False,2,2,212665,2026-11-18T12:50+00:00
+182050,CA,"California City of Diamond Bar Member of the City Council, 3rd District",2026-11-03,0,,False,2,1,2266,2026-11-18T12:50+00:00
+150530,CA,California Court of Appeal District 2 Division 7 Presiding Justice - Gonzalo C. Martinez Retention,2026-11-03,99.9,,False,2,4,1998700,2026-11-18T12:50+00:00
+182233,CA,"California Lawndale School District Governing Board Member, Trustee Area No. 1",2026-11-03,0,,False,3,1,1802,2026-11-18T12:50+00:00
+182405,CA,"California Coast Community College District Governing Board Member, Trustee Area 5",2026-11-03,99.9,,False,2,1,31073,2026-11-18T12:50+00:00
+182543,CA,California City of Orange Measure I,2026-11-03,99.9,,False,2,1,33323,2026-11-18T12:50+00:00
+182439,CA,"California Huntington Beach City School District Governing Board Member, Trustee Area 4",2026-11-03,99.9,,False,2,1,4656,2026-11-18T12:50+00:00
+182534,CA,"California Buena Park Library District Trustee, Division 2",2026-11-03,99.9,,False,2,1,1971,2026-11-18T12:50+00:00
+182622,CA,California San Mateo County Measure J,2026-11-03,99.9,,False,2,1,127556,2026-11-18T12:50+00:00
+182252,CA,"California Palmdale School District Governing Board Member, Trustee Area No. 1",2026-11-03,0,,False,3,1,4323,2026-11-18T12:50+00:00
+182616,CA,California Burlingame School District Measure R,2026-11-03,99.9,,False,2,1,6663,2026-11-18T12:50+00:00
+182243,CA,"California Los Nietos School District Governing Board Member, Trustee Area No. 2",2026-11-03,0,,False,3,1,448,2026-11-18T12:50+00:00
+182418,CA,"California Newport-Mesa Unified School District Governing Board Member, Trustee Area 2",2026-11-03,99.9,,False,2,1,5907,2026-11-18T12:50+00:00
+182513,CA,"California City of Stanton Member, City Council District 3",2026-11-03,99.9,,False,3,1,1825,2026-11-18T12:50+00:00
+150493,CA,California State Assembly 70,2026-11-03,98.6,2026-11-12T01:54:12.310Z,False,2,1,151345,2026-11-18T12:50+00:00
+182507,CA,California City of Santa Ana Mayor,2026-11-03,99.9,,False,3,1,43934,2026-11-18T12:50+00:00
+182095,CA,California City of Monrovia City Clerk,2026-11-03,0,,False,2,1,9634,2026-11-18T12:50+00:00
+182190,CA,California Charter Oak Unified School District Measure S,2026-11-03,0,,False,2,1,10695,2026-11-18T12:50+00:00
+182310,CA,"California Walnut Valley Water District Member, Board of Directors, Division 5 (Unexpired term ending December 1, 2028)",2026-11-03,0,,False,3,1,3852,2026-11-18T12:50+00:00
+182089,CA,California City of Lawndale Member of the City Council,2026-11-03,0,,False,3,1,6941,2026-11-18T12:50+00:00
+182184,CA,"California Bellflower Unified School District Governing Board Member, Trustee Area No. 2",2026-11-03,0,,False,3,1,3372,2026-11-18T12:50+00:00
+182080,CA,California City of Inglewood Mayor (Primary Nominating Election),2026-11-03,0,,False,7,1,24107,2026-11-18T12:50+00:00
+182483,CA,"California City of La Palma Member, City Council District 2",2026-11-03,99.9,,False,2,1,965,2026-11-18T12:50+00:00
+182178,CA,"California Antelope Valley Community College District Governing Board Member, Trustee Area No. 4",2026-11-03,0,,False,3,1,13185,2026-11-18T12:50+00:00
+182574,CA,"California City of Daly City Member, City Council",2026-11-03,99.9,,False,7,1,31781,2026-11-18T12:50+00:00
+182169,CA,Los Angeles Measure TE,2026-11-03,0,,False,2,1,802151,2026-11-18T12:50+00:00
+182264,CA,"California Pomona Unified School District Governing Board Member, Trustee Area No. 1",2026-11-03,0,,False,4,1,6395,2026-11-18T12:50+00:00
+182099,CA,California City of Montebello City Treasurer,2026-11-03,0,,False,2,1,10589,2026-11-18T12:50+00:00
+182470,CA,California City of Huntington Beach City Attorney,2026-11-03,99.9,,False,1,1,41164,2026-11-18T12:50+00:00
+182282,CA,California Valle Lindo School District Governing Board Member,2026-11-03,0,,False,5,1,3003,2026-11-18T12:50+00:00
+150460,CA,California State Assembly 37,2026-11-03,97.1,2026-11-04T07:09:42.043Z,False,2,2,166184,2026-11-18T12:50+00:00
+182464,CA,"California City of Fullerton Member, City Council District 5",2026-11-03,99.9,,False,3,1,4985,2026-11-18T12:50+00:00
+182559,CA,"California Sequoia Union High School District Member, Governing Board, Trustee Area D",2026-11-03,99.9,,False,2,1,6537,2026-11-18T12:50+00:00
+182455,CA,California City of Costa Mesa Mayor,2026-11-03,99.9,,False,2,1,24365,2026-11-18T12:50+00:00
+182277,CA,"California Saugus Union School District Governing Board Member, Trustee Area No. 2",2026-11-03,0,,False,3,1,8063,2026-11-18T12:50+00:00
+182449,CA,"California City of Anaheim Member, City Council District 2",2026-11-03,99.9,,False,1,1,8065,2026-11-18T12:50+00:00
+150436,CA,California State Assembly 13,2026-11-03,97.9,2026-11-12T01:54:12.309Z,False,2,1,118539,2026-11-18T12:50+00:00
+182635,CA,California City of San Bruno Measure S,2026-11-03,99.9,,False,2,1,7344,2026-11-18T12:50+00:00
+150430,CA,California State Assembly 7,2026-11-03,96.3,,False,2,1,184587,2026-11-18T12:50+00:00
+182126,CA,California City of Rosemead Measure RC,2026-11-03,0,,False,2,1,7065,2026-11-18T12:50+00:00
+182253,CA,"California Palmdale School District Governing Board Member, Trustee Area No. 3",2026-11-03,0,,False,3,1,3731,2026-11-18T12:50+00:00
+182032,CA,California City of Carson City Clerk,2026-11-03,0,,False,2,1,20055,2026-11-18T12:50+00:00
+182120,CA,"California City of Pomona Member of the City Council, 2nd District",2026-11-03,0,,False,2,1,3165,2026-11-18T12:50+00:00
+182023,CA,California City of Bell Gardens Member of the City Council,2026-11-03,0,,False,6,1,10709,2026-11-18T12:50+00:00
+182611,CA,"California Granada Community Services District Member, Board of Directors",2026-11-03,99.9,,False,4,1,4539,2026-11-18T12:50+00:00
+182114,CA,California City of Palmdale Measure DE,2026-11-03,0,,False,2,1,29506,2026-11-18T12:50+00:00
+182517,CA,"California City of Westminster Member, City Council District 1",2026-11-03,99.9,,False,3,1,5662,2026-11-18T12:50+00:00
+150497,CA,California State Assembly 74,2026-11-03,98.8,,False,2,2,196806,2026-11-18T12:50+00:00
+182008,CA,"California City of Alhambra Member of the City Council, First District",2026-11-03,0,,False,3,1,3628,2026-11-18T12:50+00:00
+182203,CA,"California East Whittier City School District Governing Board Member, Trustee Area No. 4",2026-11-03,0,,False,3,1,3118,2026-11-18T12:50+00:00
+182406,CA,"California Rancho Santiago Community College District Governing Board Member, Trustee Area 2",2026-11-03,99.9,,False,2,1,10640,2026-11-18T12:50+00:00
+182225,CA,"California Keppel Union School District Governing Board Member, Trustee Area No. 2",2026-11-03,0,,False,3,1,790,2026-11-18T12:50+00:00
+182504,CA,"California City of San Clemente Member, City Council District 1",2026-11-03,99.9,,False,3,1,6169,2026-11-18T12:50+00:00
+182400,CA,"California North Orange County Community College District Governing Board Member, Trustee Area 1",2026-11-03,99.9,,False,2,1,27793,2026-11-18T12:50+00:00
+182219,CA,California Hawthorne School District Measure HH,2026-11-03,0,,False,2,1,10976,2026-11-18T12:50+00:00
+182307,CA,"California Valley County Water District Member, Board of Directors",2026-11-03,0,,False,6,1,17252,2026-11-18T12:50+00:00
+182021,CA,California City of Baldwin Park Member of the City Council,2026-11-03,0,,False,4,1,17153,2026-11-18T12:50+00:00
+182301,CA,"California Las Virgenes Municipal Water District Member, Board of Directors, Division 2",2026-11-03,0,,False,3,1,2934,2026-11-18T12:50+00:00
+182480,CA,"California City of Lake Forest Member, City Council District 2",2026-11-03,99.9,,False,5,1,4504,2026-11-18T12:50+00:00
+182295,CA,"California Crescenta Valley Water District Member, Board of Directors",2026-11-03,0,,False,5,1,11223,2026-11-18T12:50+00:00
+150558,CA,California Court of Appeal District 5 Associate Justice Seat 5 - Sonny S. Sandhu Retention,2026-11-03,99.9,,False,2,9,442297,2026-11-18T12:50+00:00
+182069,CA,California City of Hawthorne City Treasurer,2026-11-03,0,,False,3,1,14300,2026-11-18T12:50+00:00
+182465,CA,California City of Garden Grove Mayor,2026-11-03,99.9,,False,2,1,37565,2026-11-18T12:50+00:00
+182160,CA,California City of Whittier Measure EL,2026-11-03,0,,False,2,1,23170,2026-11-18T12:50+00:00
+182063,CA,California City of El Segundo Member of the City Council,2026-11-03,0,,False,4,1,9556,2026-11-18T12:50+00:00
+182427,CA,"California Santa Ana Unified School District Governing Board Member, Trustee Area 4",2026-11-03,99.9,,False,2,1,7336,2026-11-18T12:50+00:00
+182278,CA,"California Saugus Union School District Governing Board Member, Trustee Area No. 5",2026-11-03,0,,False,3,1,5975,2026-11-18T12:50+00:00
+182057,CA,California City of El Monte City Treasurer,2026-11-03,0,,False,4,1,13440,2026-11-18T12:50+00:00
+150537,CA,California Court of Appeal District 3 Associate Justice Seat 3 - David B. Sapp Retention,2026-11-03,99.9,,False,2,23,639220,2026-11-18T12:50+00:00
+150440,CA,California State Assembly 17,2026-11-03,95.2,2026-11-04T07:09:42.042Z,False,2,1,177619,2026-11-18T12:50+00:00
+150528,CA,California Court of Appeal District 2 Division 6 Presiding Justice - Tari L. Cody Retention,2026-11-03,99.9,,False,2,4,2001242,2026-11-18T12:50+00:00
+182139,CA,California City of Santa Monica Measure ES,2026-11-03,0,,False,2,1,30784,2026-11-18T12:50+00:00
+182042,CA,California City of Cudahy Measure H,2026-11-03,0,,False,2,1,2731,2026-11-18T12:50+00:00
+182437,CA,California Fountain Valley School District Governing Board Member,2026-11-03,99.9,,False,4,1,32330,2026-11-18T12:50+00:00
+182632,CA,California City of Pacifica Measure BB,2026-11-03,99.9,,False,2,1,9644,2026-11-18T12:50+00:00
+182259,CA,"California Pasadena Area Community College District Governing Board Member, Trustee Area No. 5",2026-11-03,0,,False,3,1,15210,2026-11-18T12:50+00:00
+182623,CA,California San Mateo County Measure U,2026-11-03,99.9,,False,2,1,131103,2026-11-18T12:50+00:00
+182250,CA,"California Norwalk-La Mirada Unified School District Governing Board Member, Trustee Area No. 4",2026-11-03,0,,False,3,1,2998,2026-11-18T12:50+00:00
+182425,CA,"California Placentia-Yorba Linda Unified School District Governing Board Member, Trustee Area 5",2026-11-03,99.9,,False,2,1,9666,2026-11-18T12:50+00:00
+182244,CA,California Lynwood Unified School District Governing Board Member,2026-11-03,0,,False,7,1,16194,2026-11-18T12:50+00:00
+182416,CA,"California Irvine Unified School District Governing Board Member, Trustee Area 4",2026-11-03,99.9,,False,2,1,9033,2026-11-18T12:50+00:00
+182238,CA,"California Little Lake City School District Governing Board Member, Trustee Area No. 5 (Unexpired term ending December 12, 2028)",2026-11-03,0,,False,3,1,1442,2026-11-18T12:50+00:00
+182602,CA,"California City of South San Francisco Member, City Council, District 3",2026-11-03,99.9,,False,3,1,1867,2026-11-18T12:50+00:00
+182005,CA,California Los Angeles County Superior Court Judge Office No. 87,2026-11-03,0,,False,3,1,1875284,2026-11-18T12:50+00:00
+182401,CA,"California North Orange County Community College District Governing Board Member, Trustee Area 3",2026-11-03,99.9,,False,3,1,23627,2026-11-18T12:50+00:00
+150488,CA,California State Assembly 65,2026-11-03,98.5,2026-11-12T01:54:12.309Z,False,2,1,117261,2026-11-18T12:50+00:00
+182191,CA,"California Claremont Unified School District Governing Board Member, Trustee Area No. 1",2026-11-03,0,,False,3,1,2068,2026-11-18T12:50+00:00
+182087,CA,California City of Lawndale City Clerk,2026-11-03,0,,False,2,1,4813,2026-11-18T12:50+00:00
+182022,CA,California City of Bell Gardens Measure W,2026-11-03,0,,False,2,1,4882,2026-11-18T12:50+00:00
+182185,CA,"California Bellflower Unified School District Governing Board Member, Trustee Area No. 5",2026-11-03,0,,False,3,1,4478,2026-11-18T12:50+00:00
+150473,CA,California State Assembly 50,2026-11-03,99,2026-11-12T01:54:12.309Z,False,2,1,133604,2026-11-18T12:50+00:00
+182484,CA,"California City of La Palma Member, City Council District 4",2026-11-03,99.9,,False,2,1,923,2026-11-18T12:50+00:00
+182572,CA,"California City of Burlingame Member, City Council, District 5",2026-11-03,99.9,,False,1,1,929,2026-11-18T12:50+00:00
+150467,CA,California State Assembly 44,2026-11-03,98.5,2026-11-04T07:09:42.043Z,False,2,1,183544,2026-11-18T12:50+00:00
+150562,CA,California Court of Appeal District 5 Associate Justice Seat 9 - Thomas DeSantos Retention,2026-11-03,99.9,,False,2,9,444544,2026-11-18T12:50+00:00
+182265,CA,"California Pomona Unified School District Governing Board Member, Trustee Area No. 4",2026-11-03,0,,False,3,1,5585,2026-11-18T12:50+00:00
+182292,CA,"California Palos Verdes Library District Member, Board of Trustees",2026-11-03,0,,False,7,1,39890,2026-11-18T12:50+00:00
+182195,CA,"California Compton Community College District Governing Board Member, Trustee Area No. 5",2026-11-03,0,,False,3,1,10363,2026-11-18T12:50+00:00
+182283,CA,California Valle Lindo School District Measure R,2026-11-03,0,,False,2,1,1409,2026-11-18T12:50+00:00
+182462,CA,"California City of Fountain Valley Member, City Council",2026-11-03,99.9,,False,9,1,37502,2026-11-18T12:50+00:00
+182085,CA,"California City of La Verne Member of the City Council, 3rd District",2026-11-03,0,,False,3,1,2330,2026-11-18T12:50+00:00
+182456,CA,"California City of Costa Mesa Member, City Council District 3",2026-11-03,99.9,,False,2,1,3824,2026-11-18T12:50+00:00
+182275,CA,California Santa Monica-Malibu Unified School District Member of the Board of Education,2026-11-03,0,,False,6,1,89120,2026-11-18T12:50+00:00
+182174,CA,"California ABC Unified School District Governing Board Member, Trustee Area No. 2",2026-11-03,0,,False,3,1,4533,2026-11-18T12:50+00:00
+182545,CA,California City of Orange Measure K,2026-11-03,99.9,,False,2,1,31621,2026-11-18T12:50+00:00
+150525,CA,California Court of Appeal District 2 Division 4 Associate Justice Seat 2 - Nicholas Daum Retention,2026-11-03,99.9,,False,2,4,1961742,2026-11-18T12:50+00:00
+182539,CA,California City of Laguna Beach Measure E,2026-11-03,99.9,,False,2,1,9065,2026-11-18T12:50+00:00
+182127,CA,California City of San Gabriel City Clerk,2026-11-03,0,,False,2,1,5369,2026-11-18T12:50+00:00
+150422,CA,California State Senate 38,2026-11-03,98.8,2026-11-12T01:54:12.309Z,False,2,2,408811,2026-11-18T12:50+00:00
+182426,CA,"California Saddleback Valley Unified School District Governing Board Member, Trustee Area 5",2026-11-03,99.9,,False,2,1,12074,2026-11-18T12:50+00:00
+182121,CA,California City of Rancho Palos Verdes Measure RS,2026-11-03,0,,False,2,1,14302,2026-11-18T12:50+00:00
+150416,CA,California State Senate 26,2026-11-03,98.5,2026-11-12T01:54:12.309Z,False,2,1,243665,2026-11-18T12:50+00:00
+182112,CA,"California City of Palmdale Member of the City Council, 4th District",2026-11-03,0,,False,5,1,6029,2026-11-18T12:50+00:00
+182515,CA,"California City of Tustin Member, City Council District 3",2026-11-03,99.9,,False,2,1,4704,2026-11-18T12:50+00:00
+150410,CA,California State Senate 14,2026-11-03,98.5,2026-11-12T01:54:12.309Z,False,2,4,218009,2026-11-18T12:50+00:00
+182606,CA,"California Town of Woodside Member, Town Council, District 2",2026-11-03,99.9,,False,1,1,247,2026-11-18T12:50+00:00
+182009,CA,"California City of Alhambra Member of the City Council, Second District",2026-11-03,0,,False,2,1,2456,2026-11-18T12:50+00:00
+182097,CA,California City of Monrovia Mayor,2026-11-03,0,,False,2,1,10189,2026-11-18T12:50+00:00
+182131,CA,California City of San Marino Member of the City Council,2026-11-03,0,,False,5,1,9030,2026-11-18T12:50+00:00
+182226,CA,"California Keppel Union School District Governing Board Member, Trustee Area No. 3",2026-11-03,0,,False,3,1,615,2026-11-18T12:50+00:00
+182314,CA,"California West Basin Municipal Water District Member, Board of Directors, Division 2",2026-11-03,0,,False,4,1,38211,2026-11-18T12:50+00:00
+182028,CA,California City of Burbank City Clerk,2026-11-03,0,,False,2,1,24102,2026-11-18T12:50+00:00
+182308,CA,"California Walnut Valley Water District Member, Board of Directors, Division 2",2026-11-03,0,,False,3,1,4907,2026-11-18T12:50+00:00
+182019,CA,California City of Baldwin Park City Clerk,2026-11-03,0,,False,2,1,10448,2026-11-18T12:50+00:00
+182110,CA,California City of Norwalk Member of the City Council,2026-11-03,0,,False,7,1,32521,2026-11-18T12:50+00:00
+182205,CA,"California Eastside Union School District Governing Board Member, Trustee Area No. 5",2026-11-03,0,,False,3,1,876,2026-11-18T12:50+00:00
+182569,CA,"California City of Brisbane Member, City Council",2026-11-03,99.9,,False,5,1,1530,2026-11-18T12:50+00:00
+182475,CA,"California City of Laguna Beach Member, City Council",2026-11-03,99.9,,False,9,1,23713,2026-11-18T12:50+00:00
+150462,CA,California State Assembly 39,2026-11-03,98.8,2026-11-04T07:09:42.043Z,False,2,2,104366,2026-11-18T12:50+00:00
+182158,CA,"California City of West Covina Member of the City Council, 5th District",2026-11-03,0,,False,3,1,4857,2026-11-18T12:50+00:00
+182086,CA,"California City of La Verne Member of the City Council, 4th District",2026-11-03,0,,False,2,1,2020,2026-11-18T12:50+00:00
+182064,CA,"California City of Glendora Member of the City Council, 1st District",2026-11-03,0,,False,3,1,2814,2026-11-18T12:50+00:00
+182152,CA,"California City of South Pasadena Member of the City Council, 4th District",2026-11-03,0,,False,3,1,1579,2026-11-18T12:50+00:00
+182055,CA,"California City of Duarte Member of the City Council, 1st District",2026-11-03,0,,False,3,1,1174,2026-11-18T12:50+00:00
+182451,CA,"California City of Anaheim Member, City Council District 6",2026-11-03,99.9,,False,1,1,13421,2026-11-18T12:50+00:00
+182146,CA,California City of South El Monte Measure RM,2026-11-03,0,,False,2,1,2989,2026-11-18T12:50+00:00
+182549,CA,California City of Westminster Measure O,2026-11-03,99.9,,False,2,1,20933,2026-11-18T12:50+00:00
+150529,CA,California Court of Appeal District 2 Division 6 Associate Justice Seat 1 - Kenneth R. Yegan Retention,2026-11-03,99.9,,False,2,4,1963515,2026-11-18T12:50+00:00
+182040,CA,California City of Compton Mayor,2026-11-03,0,,False,2,1,14831,2026-11-18T12:50+00:00
+182235,CA,California Lennox School District Governing Board Member,2026-11-03,0,,False,5,1,5839,2026-11-18T12:50+00:00
+182438,CA,"California Fullerton School District Governing Board Member, Trustee Area 3",2026-11-03,99.9,,False,2,1,6433,2026-11-18T12:50+00:00
+182257,CA,"California Pasadena Area Community College District Governing Board Member, Trustee Area No. 1",2026-11-03,0,,False,3,1,18076,2026-11-18T12:50+00:00
+182536,CA,California Westminster School District Measure B,2026-11-03,99.9,,False,2,1,18699,2026-11-18T12:50+00:00
+182432,CA,"California Anaheim Union High School District Governing Board Member, Trustee Area 2",2026-11-03,99.9,,False,2,1,11955,2026-11-18T12:50+00:00
+182251,CA,"California Norwalk-La Mirada Unified School District Governing Board Member, Trustee Area No. 6",2026-11-03,0,,False,3,1,4240,2026-11-18T12:50+00:00
+182423,CA,"California Orange Unified School District Governing Board Member, Trustee Area 7",2026-11-03,99.9,,False,2,1,49422,2026-11-18T12:50+00:00
+182053,CA,"California City of Downey Member of the City Council, 2nd District",2026-11-03,0,,False,3,1,4964,2026-11-18T12:50+00:00
+182417,CA,California Laguna Beach Unified School District Governing Board Member,2026-11-03,99.9,,False,5,1,25359,2026-11-18T12:50+00:00
+182512,CA,"California City of Stanton Member, City Council District 1",2026-11-03,99.9,,False,2,1,1628,2026-11-18T12:50+00:00
+182411,CA,"California Capistrano Unified School District Governing Board Member, Trustee Area 6",2026-11-03,99.9,,False,2,1,13420,2026-11-18T12:50+00:00
+182506,CA,"California City of San Juan Capistrano Member, City Council District 2",2026-11-03,99.9,,False,2,1,2576,2026-11-18T12:50+00:00
+150486,CA,California State Assembly 63,2026-11-03,98.3,2026-11-12T01:54:12.309Z,False,2,1,159779,2026-11-18T12:50+00:00
+182029,CA,California City of Burbank City Treasurer,2026-11-03,0,,False,2,1,23406,2026-11-18T12:50+00:00
+182000,CA,California Los Angeles County Measure A,2026-11-03,0,,False,2,1,2058998,2026-11-18T12:50+00:00
+150480,CA,California State Assembly 57,2026-11-03,98.5,2026-11-04T07:09:42.043Z,False,2,1,85552,2026-11-18T12:50+00:00
+182183,CA,California Bassett Unified School District Governing Board Member,2026-11-03,0,,False,6,1,8417,2026-11-18T12:50+00:00
+182303,CA,"California San Gabriel Valley Municipal Water District Member, Board of Directors, Division 5",2026-11-03,0,,False,3,1,6766,2026-11-18T12:50+00:00
+150474,CA,California State Assembly 51,2026-11-03,98.5,2026-11-12T01:54:12.309Z,False,2,1,157216,2026-11-18T12:50+00:00
+182209,CA,"California El Monte Union High School District Governing Board Member, Trustee Area No. 5",2026-11-03,0,,False,3,1,4362,2026-11-18T12:50+00:00
+182573,CA,"California Town of Colma Member, City Council",2026-11-03,99.9,,False,4,1,473,2026-11-18T12:50+00:00
+150560,CA,California Court of Appeal District 5 Associate Justice Seat 7 - Kathleen A. Meehan Retention,2026-11-03,99.9,,False,2,9,439538,2026-11-18T12:50+00:00
+182171,CA,Los Angeles Mayor,2026-11-03,0,,False,2,1,824246,2026-11-18T12:50+00:00
+182074,CA,"California City of Huntington Park Member of the City Council, 2nd District (Unexpired term ending December 8, 2028)",2026-11-03,0,,False,4,1,1437,2026-11-18T12:50+00:00
+182193,CA,"California Compton Community College District Governing Board Member, Trustee Area No. 1",2026-11-03,0,,False,3,1,7953,2026-11-18T12:50+00:00
+182472,CA,"California City of Irvine Member, City Council District 1",2026-11-03,99.9,,False,3,1,10085,2026-11-18T12:50+00:00
+182092,CA,California City of Malibu Member of the City Council,2026-11-03,0,,False,5,1,5290,2026-11-18T12:50+00:00
+182463,CA,"California City of Fullerton Member, City Council District 3",2026-11-03,99.9,,False,2,1,4472,2026-11-18T12:50+00:00
+182083,CA,California City of Irwindale Member of the City Council,2026-11-03,0,,False,4,1,834,2026-11-18T12:50+00:00
+182181,CA,"California Azusa Unified School District Governing Board Member, Trustee Area No. 5",2026-11-03,0,,False,3,1,2748,2026-11-18T12:50+00:00
+182276,CA,"California Saugus Union School District Governing Board Member, Trustee Area No. 1",2026-11-03,0,,False,4,1,5958,2026-11-18T12:50+00:00
+182448,CA,California City of Anaheim Mayor,2026-11-03,99.9,,False,3,1,62404,2026-11-18T12:50+00:00
+182270,CA,"California Rowland Unified School District Governing Board Member, Trustee Area No. 5",2026-11-03,50,,False,3,2,4686,2026-11-18T12:50+00:00
+182634,CA,California City of Redwood City Measure E,2026-11-03,99.9,,False,2,1,14512,2026-11-18T12:50+00:00
+150429,CA,California State Assembly 6,2026-11-03,96.3,2026-11-04T07:09:42.042Z,False,2,1,148992,2026-11-18T12:50+00:00
+182433,CA,"California Anaheim Elementary School District Governing Board Member, Trustee Area 2",2026-11-03,99.9,,False,2,1,5450,2026-11-18T12:50+00:00
+150520,CA,California Court of Appeal District 2 Division 2 Associate Justice Seat 3 - Anne Richardson Retention,2026-11-03,99.9,,False,2,4,1991981,2026-11-18T12:50+00:00
+150423,CA,California State Senate 40,2026-11-03,99,2026-11-12T01:54:12.309Z,False,2,1,382299,2026-11-18T12:50+00:00
+182119,CA,California City of Pico Rivera Member of the City Council,2026-11-03,0,,False,4,1,20989,2026-11-18T12:50+00:00
+182054,CA,"California City of Downey Member of the City Council, 4th District",2026-11-03,0,,False,4,1,6051,2026-11-18T12:50+00:00
+150417,CA,California State Senate 28,2026-11-03,98.5,2026-11-04T07:09:42.042Z,False,2,1,275061,2026-11-18T12:50+00:00
+182613,CA,California San Mateo County Community College District Measure V,2026-11-03,99.9,,False,2,1,138998,2026-11-18T12:50+00:00
+182516,CA,California City of Westminster Mayor,2026-11-03,99.9,,False,5,1,21654,2026-11-18T12:50+00:00
+182604,CA,California City of South San Francisco City Clerk,2026-11-03,99.9,,False,1,1,8936,2026-11-18T12:50+00:00
+150499,CA,California State Assembly 76,2026-11-03,99,2026-11-12T01:54:12.310Z,False,2,1,187157,2026-11-18T12:50+00:00
+150402,CA,California Board of Equalization Member 3,2026-11-03,99.9,,False,2,1,1942573,2026-11-18T12:50+00:00
+182098,CA,California City of Monrovia Member of the City Council,2026-11-03,0,,False,4,1,16600,2026-11-18T12:50+00:00
+182408,CA,"California South Orange County Community College District Governing Board Member, Trustee Area 4",2026-11-03,99.9,,False,4,1,41817,2026-11-18T12:50+00:00
+182035,CA,"California City of Carson Member of the City Council, 4th District",2026-11-03,0,,False,3,1,5221,2026-11-18T12:50+00:00
+182315,CA,"California Wrightwood Community Services District Member, Board of Directors",2026-11-03,0,,False,6,1,131,2026-11-18T12:50+00:00
+182026,CA,California City of Burbank Measure CC,2026-11-03,0,,False,2,1,28310,2026-11-18T12:50+00:00
+182117,CA,California City of Paramount Measure P,2026-11-03,0,,False,2,1,8285,2026-11-18T12:50+00:00
+182020,CA,California City of Baldwin Park City Treasurer,2026-11-03,0,,False,2,1,10325,2026-11-18T12:50+00:00
+182108,CA,"California City of Monterey Park Member of the City Council, 1st District",2026-11-03,0,,False,2,1,1909,2026-11-18T12:50+00:00
+182014,CA,"California City of Arcadia Member of the City Council, 5th District",2026-11-03,0,,False,3,1,3089,2026-11-18T12:50+00:00
+182294,CA,"California Antelope Valley-East Kern Water Agency Member, Board of Directors, Division 3",2026-11-03,0,,False,3,1,11155,2026-11-18T12:50+00:00
+150557,CA,California Court of Appeal District 5 Associate Justice Seat 2 - Arlan L. Harrell Retention,2026-11-03,99.9,,False,2,9,444489,2026-11-18T12:50+00:00
+182093,CA,California City of Manhattan Beach Member of the City Council,2026-11-03,0,,False,5,1,20330,2026-11-18T12:50+00:00
+182564,CA,"California San Carlos School District Member, Governing Board",2026-11-03,99.9,,False,4,1,14679,2026-11-18T12:50+00:00
+182159,CA,California City of West Hollywood Member of the City Council,2026-11-03,0,,False,15,1,30386,2026-11-18T12:50+00:00
+150454,CA,California State Assembly 31,2026-11-03,96,2026-11-12T01:54:12.309Z,False,2,1,97748,2026-11-18T12:50+00:00
+182182,CA,California Baldwin Park Unified School District Governing Board Member,2026-11-03,0,,False,6,1,17508,2026-11-18T12:50+00:00
+182153,CA,California City of Walnut Member of the City Council,2026-11-03,0,,False,5,1,12738,2026-11-18T12:50+00:00
+150448,CA,California State Assembly 25,2026-11-03,94.9,2026-11-12T01:54:12.309Z,False,2,1,133711,2026-11-18T12:50+00:00
+150536,CA,California Court of Appeal District 3 Associate Justice Seat 1 - Shama Mesiwala Retention,2026-11-03,99.9,,False,2,23,640998,2026-11-18T12:50+00:00
+182547,CA,California City of San Clemente Measure M,2026-11-03,99.9,,False,2,1,23091,2026-11-18T12:50+00:00
+150442,CA,California State Assembly 19,2026-11-03,95.6,2026-11-04T07:09:42.042Z,False,2,2,184501,2026-11-18T12:50+00:00
+182638,CA,California City of San Carlos Measure G,2026-11-03,99.9,,False,2,1,7766,2026-11-18T12:50+00:00
+182041,CA,"California City of Compton Member of the City Council, 2nd District",2026-11-03,0,,False,2,1,2900,2026-11-18T12:50+00:00
+182129,CA,California City of San Gabriel Member of the City Council,2026-11-03,0,,False,6,1,16152,2026-11-18T12:50+00:00
+182267,CA,"California Rio Hondo Community College District Governing Board Member, Trustee Area No. 3",2026-11-03,0,,False,3,1,12871,2026-11-18T12:50+00:00
+182163,CA,Los Angeles Measure FD,2026-11-03,0,,False,2,1,802081,2026-11-18T12:50+00:00
+182258,CA,"California Pasadena Area Community College District Governing Board Member, Trustee Area No. 3",2026-11-03,0,,False,3,1,13286,2026-11-18T12:50+00:00
+182430,CA,"California Tustin Unified School District Governing Board Member, Trustee Area 5",2026-11-03,99.9,,False,2,1,5890,2026-11-18T12:50+00:00
+182060,CA,"California City of El Monte Member of the City Council, 3rd District",2026-11-03,0,,False,2,1,2103,2026-11-18T12:50+00:00
+182424,CA,"California Placentia-Yorba Linda Unified School District Governing Board Member, Trustee Area 4",2026-11-03,99.9,,False,3,1,9462,2026-11-18T12:50+00:00
+182051,CA,"California City of Diamond Bar Member of the City Council, 4th District",2026-11-03,0,,False,3,1,2734,2026-11-18T12:50+00:00
+182142,CA,California City of Santa Monica Measure TT,2026-11-03,0,,False,2,1,29431,2026-11-18T12:50+00:00
+182237,CA,"California Little Lake City School District Governing Board Member, Trustee Area No. 2",2026-11-03,0,,False,3,1,1731,2026-11-18T12:50+00:00
+182601,CA,"California City of South San Francisco Member, City Council, District 1",2026-11-03,99.9,,False,1,1,1814,2026-11-18T12:50+00:00
+182231,CA,California Las Virgenes Unified School District Governing Board Member,2026-11-03,0,,False,5,1,40895,2026-11-18T12:50+00:00
+150487,CA,California State Assembly 64,2026-11-03,98.5,2026-11-04T07:09:42.043Z,False,2,2,146561,2026-11-18T12:50+00:00
+182498,CA,"California City of Orange Member, City Council, District 4",2026-11-03,99.9,,False,1,1,4658,2026-11-18T12:50+00:00
+182118,CA,California City of Pasadena Measure PFD,2026-11-03,0,,False,2,1,43021,2026-11-18T12:50+00:00
+150481,CA,California State Assembly 58,2026-11-03,98.7,2026-11-12T01:54:12.309Z,False,2,2,129059,2026-11-18T12:50+00:00
+182492,CA,"California City of Newport Beach Member, City Council District 1",2026-11-03,99.9,,False,2,1,26514,2026-11-18T12:50+00:00
+150472,CA,California State Assembly 49,2026-11-03,98.5,2026-11-12T01:54:12.309Z,False,2,1,128161,2026-11-18T12:50+00:00
+182207,CA,"California El Monte Union High School District Governing Board Member, Trustee Area No. 3",2026-11-03,0,,False,3,1,4795,2026-11-18T12:50+00:00
+182486,CA,"California City of Los Alamitos Member, City Council District 5",2026-11-03,99.9,,False,2,1,642,2026-11-18T12:50+00:00
+182298,CA,"California Foothill Municipal Water District Member, Board of Directors, Division 5",2026-11-03,0,,False,3,1,4734,2026-11-18T12:50+00:00
+150561,CA,California Court of Appeal District 5 Associate Justice Seat 8 - Mark W. Snauffer Retention,2026-11-03,99.9,,False,2,9,438982,2026-11-18T12:50+00:00
+182072,CA,California City of Hermosa Beach Member of the City Council,2026-11-03,0,,False,7,1,16914,2026-11-18T12:50+00:00
+150491,CA,California State Assembly 68,2026-11-03,98.6,,False,2,1,111691,2026-11-18T12:50+00:00
+182194,CA,"California Compton Community College District Governing Board Member, Trustee Area No. 4",2026-11-03,0,,False,3,1,9093,2026-11-18T12:50+00:00
+182090,CA,California City of Lynwood Member of the City Council,2026-11-03,0,,False,7,1,23737,2026-11-18T12:50+00:00
+182188,CA,"California Burbank Unified School District Governing Board Member, Trustee Area No. 3",2026-11-03,0,,False,6,1,4874,2026-11-18T12:50+00:00
+182084,CA,"California City of La Verne Member of the City Council, 1st District",2026-11-03,0,,False,3,1,1984,2026-11-18T12:50+00:00
+182179,CA,"California Antelope Valley Community College District Governing Board Member, Trustee Area No. 5",2026-11-03,0,,False,3,1,13342,2026-11-18T12:50+00:00
+150470,CA,California State Assembly 47,2026-11-03,98.7,2026-11-12T01:54:12.309Z,False,2,2,195641,2026-11-18T12:50+00:00
+182173,CA,"Los Angeles Member of the City Council, 9th District",2026-11-03,0,,False,2,1,27548,2026-11-18T12:50+00:00
+182544,CA,California City of Orange Measure J,2026-11-03,99.9,,False,2,1,33393,2026-11-18T12:50+00:00
+182443,CA,"California Ocean View School District Governing Board Member, Trustee Area 5",2026-11-03,99.9,,False,2,1,5157,2026-11-18T12:50+00:00
+182538,CA,California City of Irvine Measure D,2026-11-03,99.9,,False,2,1,58900,2026-11-18T12:50+00:00
+150518,CA,California Court of Appeal District 2 Division 1 Associate Justice Seat 2 - Gregory J. Weingart Retention,2026-11-03,99.9,,False,2,4,1978962,2026-11-18T12:50+00:00
+182061,CA,"California City of El Monte Member of the City Council, 6th District",2026-11-03,0,,False,3,1,2231,2026-11-18T12:50+00:00
+150424,CA,California State Assembly 1,2026-11-03,93.8,2026-11-12T01:54:12.309Z,False,2,11,208381,2026-11-18T12:50+00:00
+150512,CA,California Court of Appeal District 1 Division 3 Associate Justice Seat 3 - Victor A. Rodriguez Retention,2026-11-03,99.9,,False,2,12,923136,2026-11-18T12:50+00:00
+150415,CA,California State Senate 24,2026-11-03,98.5,2026-11-12T01:54:12.309Z,False,2,1,357190,2026-11-18T12:50+00:00
+182419,CA,"California Newport-Mesa Unified School District Governing Board Member, Trustee Area 7",2026-11-03,99.9,,False,2,1,4230,2026-11-18T12:50+00:00
+150506,CA,California Court of Appeal District 1 Division 1 Associate Justice Seat 1 - Charles A. Smiley Retention,2026-11-03,99.9,,False,2,12,934279,2026-11-18T12:50+00:00
+182241,CA,"California Los Angeles Community College District Member of the Board of Trustees, Seat 4",2026-11-03,0,,False,8,1,977345,2026-11-18T12:50+00:00
+182605,CA,California City of South San Francisco City Treasurer,2026-11-03,99.9,,False,1,1,8949,2026-11-18T12:50+00:00
+150400,CA,California Board of Equalization Member 1,2026-11-03,99.9,,False,2,34,1712521,2026-11-18T12:50+00:00
+182011,CA,California City of Alhambra Measure HT,2026-11-03,0,,False,2,1,16778,2026-11-18T12:50+00:00
+182130,CA,California City of San Gabriel Measure PS,2026-11-03,0,,False,2,1,7190,2026-11-18T12:50+00:00
+182033,CA,California City of Carson City Treasurer,2026-11-03,0,,False,2,1,20300,2026-11-18T12:50+00:00
+182228,CA,California La Cañada Unified School District Governing Board Member,2026-11-03,0,,False,6,1,18171,2026-11-18T12:50+00:00
+182124,CA,California City of Rolling Hills Member of the City Council,2026-11-03,0,,False,5,1,1666,2026-11-18T12:50+00:00
+182027,CA,California City of Burbank Measure CD,2026-11-03,0,,False,2,1,27979,2026-11-18T12:50+00:00
+182115,CA,California City of Palos Verdes Estates Member of the City Council,2026-11-03,0,,False,4,1,10573,2026-11-18T12:50+00:00
+150413,CA,California State Senate 20,2026-11-03,98.5,2026-11-04T07:09:42.042Z,False,2,1,240293,2026-11-18T12:50+00:00
+182109,CA,"California City of Monterey Park Member of the City Council, 5th District",2026-11-03,0,,False,3,1,2533,2026-11-18T12:50+00:00
+182204,CA,"California Eastside Union School District Governing Board Member, Trustee Area No. 1",2026-11-03,0,,False,4,1,1170,2026-11-18T12:50+00:00
+182103,CA,"California City of Montebello Member of the City Council, 4th District (Unexpired term ending November 7, 2028)",2026-11-03,0,,False,3,1,2448,2026-11-18T12:50+00:00
+182474,CA,"California City of Irvine Member, City Council District 6",2026-11-03,99.9,,False,2,1,6290,2026-11-18T12:50+00:00
+150461,CA,California State Assembly 38,2026-11-03,99,2026-11-12T01:54:12.309Z,False,2,1,139226,2026-11-18T12:50+00:00
+182189,CA,"California Cerritos Community College District Governing Board Member, Trustee Area No. 3",2026-11-03,0,,False,3,1,9981,2026-11-18T12:50+00:00
+150552,CA,California Court of Appeal District 4 Division 3 Associate Justice Seat 1 - Nathan R. Scott Retention,2026-11-03,99.9,,False,2,6,1775435,2026-11-18T12:50+00:00
+150455,CA,California State Assembly 32,2026-11-03,98.8,2026-11-04T07:09:42.043Z,False,1,2,128866,2026-11-18T12:50+00:00
+182151,CA,California City of South Pasadena Measure SOS,2026-11-03,0,,False,2,1,9120,2026-11-18T12:50+00:00
+182079,CA,California City of Inglewood Measure BB,2026-11-03,0,,False,2,1,23882,2026-11-18T12:50+00:00
+150449,CA,California State Assembly 26,2026-11-03,94.9,2026-11-12T01:54:12.309Z,False,2,1,127464,2026-11-18T12:50+00:00
+182453,CA,"California City of Buena Park Member, City Council District 2",2026-11-03,99.9,,False,2,1,2174,2026-11-18T12:50+00:00
+182548,CA,California City of Santa Ana Measure N,2026-11-03,99.9,,False,2,1,45425,2026-11-18T12:50+00:00
+182636,CA,California City of San Bruno Measure DD,2026-11-03,99.9,,False,2,1,7617,2026-11-18T12:50+00:00
+150531,CA,California Court of Appeal District 2 Division 7 Associate Justice Seat 1 - Natalie Stone Retention,2026-11-03,99.9,,False,2,4,1967590,2026-11-18T12:50+00:00
+150434,CA,California State Assembly 11,2026-11-03,96.1,2026-11-04T07:09:42.042Z,False,2,3,171312,2026-11-18T12:50+00:00
+182161,CA,California City of Whittier Measure EV,2026-11-03,0,,False,2,1,22740,2026-11-18T12:50+00:00
+182440,CA,"California La Habra City School District Governing Board Member, Trustee Area 4",2026-11-03,99.9,,False,2,1,2004,2026-11-18T12:50+00:00
+182067,CA,California City of Hawaiian Gardens Measure BL,2026-11-03,0,,False,2,1,2320,2026-11-18T12:50+00:00
+182431,CA,"California Anaheim Union High School District Governing Board Member, Trustee Area 1",2026-11-03,99.9,,False,4,1,10618,2026-11-18T12:50+00:00
+182058,CA,California City of El Monte Mayor,2026-11-03,0,,False,4,1,14321,2026-11-18T12:50+00:00
+182149,CA,California City of South Gate Member of the City Council,2026-11-03,0,,False,6,1,25838,2026-11-18T12:50+00:00
+182052,CA,California City of Diamond Bar Measure Q,2026-11-03,0,,False,2,1,14610,2026-11-18T12:50+00:00
+182140,CA,California City of Santa Monica Measure GG,2026-11-03,0,,False,2,1,30461,2026-11-18T12:50+00:00
+182046,CA,California City of Culver City Measure T,2026-11-03,0,,False,2,1,14445,2026-11-18T12:50+00:00
+182410,CA,"California Capistrano Unified School District Governing Board Member, Trustee Area 4",2026-11-03,99.9,,False,2,1,15343,2026-11-18T12:50+00:00
+182505,CA,"California City of San Clemente Member, City Council District 2",2026-11-03,99.9,,False,2,1,5243,2026-11-18T12:50+00:00
+182125,CA,California City of Rosemead Member of the City Council,2026-11-03,0,,False,5,1,15217,2026-11-18T12:50+00:00
+182596,CA,"California City of San Bruno Member, City Council, District 4",2026-11-03,99.9,,False,2,1,1183,2026-11-18T12:50+00:00
+182499,CA,"California City of Orange Member, City Council, District 6",2026-11-03,99.9,,False,1,1,5470,2026-11-18T12:50+00:00
+150479,CA,California State Assembly 56,2026-11-03,98.5,2026-11-12T01:54:12.309Z,False,2,1,148262,2026-11-18T12:50+00:00
+150414,CA,California State Senate 22,2026-11-03,98.8,2026-11-04T07:09:42.042Z,False,2,2,278578,2026-11-18T12:50+00:00
+182493,CA,"California City of Newport Beach Member, City Council District 3",2026-11-03,99.9,,False,3,1,26322,2026-11-18T12:50+00:00
+182581,CA,"California City of Menlo Park Member, City Council, District 1",2026-11-03,99.9,,False,2,1,685,2026-11-18T12:50+00:00
+182208,CA,"California El Monte Union High School District Governing Board Member, Trustee Area No. 4",2026-11-03,0,,False,3,1,3679,2026-11-18T12:50+00:00
+182296,CA,"California Foothill Municipal Water District Member, Board of Directors, Division 2",2026-11-03,0,,False,3,1,4544,2026-11-18T12:50+00:00
+182575,CA,"California City of East Palo Alto Member, City Council",2026-11-03,99.9,,False,7,1,4623,2026-11-18T12:50+00:00
+182478,CA,"California City of Laguna Woods Member, City Council",2026-11-03,99.9,,False,3,1,14289,2026-11-18T12:50+00:00
+182073,CA,California City of Hermosa Beach Measure HB,2026-11-03,0,,False,2,1,6728,2026-11-18T12:50+00:00
+182100,CA,"California City of Montebello Member of the City Council, 1st District",2026-11-03,0,,False,5,1,3429,2026-11-18T12:50+00:00
+182003,CA,California Los Angeles County Superior Court Judge Office No. 64,2026-11-03,0,,False,3,1,1954442,2026-11-18T12:50+00:00
+182091,CA,California City of Lynwood Measure L,2026-11-03,0,,False,2,1,9837,2026-11-18T12:50+00:00
+182186,CA,California Bellflower Unified School District Measure SM,2026-11-03,0,,False,2,1,17642,2026-11-18T12:50+00:00
+150477,CA,California State Assembly 54,2026-11-03,98.5,2026-11-04T07:09:42.043Z,False,2,1,102321,2026-11-18T12:50+00:00
+182180,CA,"California Antelope Valley Joint Union High School District Governing Board Member, Trustee Area No. 1",2026-11-03,0,,False,3,1,19580,2026-11-18T12:50+00:00
+150468,CA,California State Assembly 45,2026-11-03,99,2026-11-04T07:09:42.043Z,False,2,1,118235,2026-11-18T12:50+00:00
+150566,CA,California Court of Appeal District 6 Associate Justice Seat 5 - Frederick S. Chung Retention,2026-11-03,99.9,,False,2,4,360045,2026-11-18T12:50+00:00
+182269,CA,"California Rowland Unified School District Governing Board Member, Trustee Area No. 3",2026-11-03,0,,False,4,1,3053,2026-11-18T12:50+00:00
+182633,CA,California Town of Portola Valley Measure N,2026-11-03,99.9,,False,2,1,1578,2026-11-18T12:50+00:00
+182263,CA,"California Pasadena Unified School District Board of Education, District No. 7",2026-11-03,0,,False,3,1,9844,2026-11-18T12:50+00:00
+150519,CA,California Court of Appeal District 2 Division 2 Associate Justice Seat 1 - Steve Goorvitch Retention,2026-11-03,99.9,,False,2,4,1967294,2026-11-18T12:50+00:00
+182530,CA,"California Moulton Niguel Water District Director, Short Term",2026-11-03,99.9,,False,3,1,42389,2026-11-18T12:50+00:00
+182150,CA,California City of South Gate Measure SG,2026-11-03,0,,False,2,1,15986,2026-11-18T12:50+00:00
+150513,CA,California Court of Appeal District 1 Division 4 Presiding Justice - Tracie L. Brown Retention,2026-11-03,99.9,,False,2,12,924839,2026-11-18T12:50+00:00
+182524,CA,"California Serrano Water District Director, Division 4",2026-11-03,99.9,,False,2,1,355,2026-11-18T12:50+00:00
+182612,CA,California Regional Transit Measure,2026-11-03,99.9,,False,2,1,139119,2026-11-18T12:50+00:00
+182239,CA,"California Long Beach Community College District Governing Board Member, Trustee Area No. 5",2026-11-03,0,,False,3,1,31270,2026-11-18T12:50+00:00
+182518,CA,"California City of Westminster Member, City Council District 4",2026-11-03,99.9,,False,4,1,5078,2026-11-18T12:50+00:00
+182414,CA,"California Garden Grove Unified School District Governing Board Member, Trustee Area 4",2026-11-03,99.9,,False,3,1,10702,2026-11-18T12:50+00:00
+150401,CA,California Board of Equalization Member 2,2026-11-03,99.9,,False,2,19,1678474,2026-11-18T12:50+00:00
+150489,CA,California State Assembly 66,2026-11-03,98.5,2026-11-12T01:54:12.310Z,False,2,1,164420,2026-11-18T12:50+00:00
+86985,CA,California US House 35,2026-11-03,97.1,2026-11-04T05:23:00.083Z,False,2,3,209411,2026-11-18T12:50+00:00
+87005,CA,California US House 5,2026-11-03,96.2,2026-11-04T07:34:23.837Z,False,2,12,294808,2026-11-18T12:50+00:00
+86969,CA,California US House 20,2026-11-03,97.9,2026-11-04T04:54:22.571Z,False,2,4,250583,2026-11-18T12:50+00:00
+86965,CA,California US House 17,2026-11-03,92.8,2026-11-04T05:46:58.307Z,False,2,2,212252,2026-11-18T12:50+00:00
+87000,CA,California US House 49,2026-11-03,97.2,2026-11-04T07:12:02.082Z,False,2,2,322971,2026-11-18T12:50+00:00
+86995,CA,California US House 44,2026-11-03,94.2,2026-11-04T04:54:22.572Z,False,2,1,182049,2026-11-18T12:50+00:00
+86964,CA,California US House 16,2026-11-03,93.7,2026-11-04T05:46:58.307Z,False,2,2,281534,2026-11-18T12:50+00:00
+86991,CA,California US House 40,2026-11-03,93.6,2026-11-10T02:36:18.300Z,False,2,2,246673,2026-11-18T12:50+00:00
+86999,CA,California US House 48,2026-11-03,95.4,2026-11-04T07:12:02.082Z,False,2,2,276326,2026-11-18T12:50+00:00
+86987,CA,California US House 37,2026-11-03,94.2,2026-11-04T05:46:58.308Z,False,2,1,183550,2026-11-18T12:50+00:00
+86983,CA,California US House 33,2026-11-03,99,2026-11-04T04:54:22.572Z,False,2,2,203035,2026-11-18T12:50+00:00
+86979,CA,California US House 2,2026-11-03,92.6,2026-11-04T04:54:22.571Z,False,2,9,317226,2026-11-18T12:50+00:00
+87006,CA,California US House 6,2026-11-03,90.8,2026-11-04T07:03:08.605Z,False,2,3,271342,2026-11-18T12:50+00:00
+86975,CA,California US House 26,2026-11-03,97.2,2026-11-04T05:23:00.083Z,False,2,2,280660,2026-11-18T12:50+00:00
+86970,CA,California US House 21,2026-11-03,95.6,2026-11-04T04:32:37.763Z,False,2,2,165184,2026-11-18T12:50+00:00
+86978,CA,California US House 29,2026-11-03,94.2,2026-11-04T07:12:02.082Z,False,2,1,174937,2026-11-18T12:50+00:00
+86966,CA,California US House 18,2026-11-03,96.1,2026-11-04T05:03:40.274Z,False,2,6,199258,2026-11-18T12:50+00:00
+87001,CA,California US House 4,2026-11-03,89.8,2026-11-14T01:28:17.634Z,False,2,9,254393,2026-11-18T12:50+00:00
+86997,CA,California US House 46,2026-11-03,94.8,2026-11-04T04:54:22.572Z,False,2,1,195228,2026-11-18T12:50+00:00
+86961,CA,California US House 13,2026-11-03,99,2026-11-04T18:06:00.131Z,False,2,5,173931,2026-11-18T12:50+00:00
+86988,CA,California US House 38,2026-11-03,94.3,2026-11-04T05:03:40.274Z,False,2,2,215613,2026-11-18T12:50+00:00
+86996,CA,California US House 45,2026-11-03,94.7,2026-11-04T07:03:08.605Z,False,2,2,248914,2026-11-18T12:50+00:00
+86984,CA,California US House 34,2026-11-03,94.2,2026-11-04T18:16:56.935Z,False,2,1,174769,2026-11-18T12:50+00:00
+86960,CA,California US House 12,2026-11-03,87.9,2026-11-04T05:46:58.307Z,False,2,1,257619,2026-11-18T12:50+00:00
+86980,CA,California US House 30,2026-11-03,94.2,2026-11-04T04:54:22.571Z,False,2,1,259914,2026-11-18T12:50+00:00
+86976,CA,California US House 27,2026-11-03,94.2,2026-11-04T06:09:43.615Z,False,2,1,232244,2026-11-18T12:50+00:00
+86972,CA,California US House 23,2026-11-03,98.8,2026-11-12T01:47:55.191Z,False,2,4,215163,2026-11-18T12:50+00:00
+87007,CA,California US House 7,2026-11-03,88.3,2026-11-11T00:51:26.723Z,False,2,3,252313,2026-11-18T12:50+00:00
+87002,CA,California US House 50,2026-11-03,97.7,2026-11-04T06:30:56.318Z,False,2,1,309460,2026-11-18T12:50+00:00
+86971,CA,California US House 22,2026-11-03,97.5,2026-11-04T06:52:19.694Z,False,2,5,149010,2026-11-18T12:50+00:00
+86998,CA,California US House 47,2026-11-03,94.8,2026-11-04T07:12:02.082Z,False,2,1,285211,2026-11-18T12:50+00:00
+86962,CA,California US House 14,2026-11-03,87.9,2026-11-07T01:50:30.202Z,False,2,1,212423,2026-11-18T12:50+00:00
+86958,CA,California US House 10,2026-11-03,92.8,2026-11-04T04:54:22.571Z,False,2,2,305964,2026-11-18T12:50+00:00
+86993,CA,California US House 42,2026-11-03,94.6,2026-11-04T06:30:56.318Z,False,2,2,283168,2026-11-18T12:50+00:00
+86981,CA,California US House 31,2026-11-03,94.9,2026-11-04T04:54:22.571Z,False,2,2,238426,2026-11-18T12:50+00:00
+86989,CA,California US House 39,2026-11-03,93.1,2026-11-04T06:30:56.318Z,False,2,1,189811,2026-11-18T12:50+00:00
+86977,CA,California US House 28,2026-11-03,95.2,2026-11-04T04:54:22.572Z,False,2,2,260814,2026-11-18T12:50+00:00
+86992,CA,California US House 41,2026-11-03,94.3,2026-11-04T05:46:58.308Z,False,2,2,253344,2026-11-18T12:50+00:00
+86973,CA,California US House 24,2026-11-03,96.7,2026-11-04T05:03:40.274Z,False,2,3,294044,2026-11-18T12:50+00:00
+87008,CA,California US House 8,2026-11-03,94.9,2026-11-04T04:54:22.572Z,False,2,5,257670,2026-11-18T12:50+00:00
+87004,CA,California US House 52,2026-11-03,97.7,2026-11-04T04:54:22.572Z,False,2,1,220462,2026-11-18T12:50+00:00
+86968,CA,California US House 1,2026-11-03,94.5,2026-11-04T04:54:22.571Z,False,2,9,286200,2026-11-18T12:50+00:00
+86963,CA,California US House 15,2026-11-03,93.9,2026-11-04T04:54:22.571Z,False,2,2,246265,2026-11-18T12:50+00:00
+87003,CA,California US House 51,2026-11-03,97.7,2026-11-04T06:09:43.615Z,False,2,1,290100,2026-11-18T12:50+00:00
+86959,CA,California US House 11,2026-11-03,92.8,2026-11-06T16:30:28.755Z,False,2,1,301991,2026-11-18T12:50+00:00
+86967,CA,California US House 19,2026-11-03,95.6,2026-11-04T04:54:22.571Z,False,2,4,310413,2026-11-18T12:50+00:00
+86994,CA,California US House 43,2026-11-03,94.2,2026-11-04T04:54:22.572Z,False,2,1,188228,2026-11-18T12:50+00:00
+86990,CA,California US House 3,2026-11-03,90.9,2026-11-04T05:46:58.308Z,False,2,4,301418,2026-11-18T12:50+00:00
+86986,CA,California US House 36,2026-11-03,94.2,2026-11-04T04:54:22.572Z,False,2,1,306851,2026-11-18T12:50+00:00
+86974,CA,California US House 25,2026-11-03,94.6,2026-11-04T06:30:56.317Z,False,2,3,216532,2026-11-18T12:50+00:00
+86982,CA,California US House 32,2026-11-03,95,2026-11-04T04:54:22.572Z,False,2,2,275989,2026-11-18T12:50+00:00
+87009,CA,California US House 9,2026-11-03,94.2,2026-11-04T04:54:22.572Z,False,2,2,213448,2026-11-18T12:50+00:00

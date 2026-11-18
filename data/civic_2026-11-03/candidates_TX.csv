@@ -1,0 +1,1216 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+55859,TX,Chari Kelly,Democratic,5080665,52.275,True,False
+55859,TX,James Sullivan,Republican,4638364,47.725,False,True
+87442,TX,Okey Anyiam,Democratic,4851325,50.056,True,False
+87442,TX,Tom Smith,Republican,4609009,47.556,False,False
+87442,TX,Mark Ash,Libertarian,231487,2.388,False,False
+55855,TX,Clayton Tucker,Democratic,5004210,51.328,True,False
+55855,TX,Nate Sheets,Republican,4545898,46.627,False,False
+55855,TX,Austin R. Kelly,Libertarian,199415,2.045,False,False
+87443,TX,Audra Riley,Democratic,5009094,51.769,True,False
+87443,TX,Kevin Yeary,Republican,4666712,48.231,False,True
+159568,TX,Democratic,Democratic,5155211,53.671,False,False
+159568,TX,Republican,Republican,4433505,46.157,False,False
+159568,TX,Green,Green,10494,0.109,False,False
+159568,TX,Libertarian,Libertarian,5992,0.062,False,False
+159568,TX,Nonpartisan,Nonpartisan,51,0.001,False,False
+159568,TX,Write-In,Write-In,0,0.0,False,False
+159569,TX,Republican,Republican,2523112,50.477,False,False
+159569,TX,Democratic,Democratic,2441165,48.837,False,False
+159569,TX,Green,Green,34310,0.686,False,False
+162408,TX,Maggie Ellis,Democratic,5114987,52.472,True,False
+162408,TX,Jimmy Blacklock,Republican,4633089,47.528,False,True
+44210,TX,Sarah Eckhardt,Democratic,5027005,51.324,True,False
+44210,TX,Don Huffines,Republican,4518239,46.129,False,False
+44210,TX,V. Alonzo Echavarria-Garza,Libertarian,185493,1.894,False,False
+44210,TX,Shehla Faizi,Green,64001,0.653,False,False
+162711,TX,Kristen Hawkins,Democratic,5124713,52.807,True,False
+162711,TX,Kyle Hawkins,Republican,4579838,47.193,False,True
+87439,TX,Vikki Goodwin,Democratic,5096167,51.739,True,False
+87439,TX,Dan Patrick,Republican,4491827,45.604,False,True
+87439,TX,Anthony Cristo,Libertarian,170747,1.734,False,False
+87439,TX,Kevin McCormick,Green,88237,0.896,False,False
+87439,TX,Write-in,Nonpartisan,1324,0.013,False,False
+87439,TX,Stephen Samuelson,Write-In,769,0.008,False,False
+87439,TX,Arturo Espinosa,Write-In,598,0.006,False,False
+87441,TX,Jon Rosenthal,Democratic,5115928,52.54,True,False
+87441,TX,Bo French,Republican,4432935,45.526,False,False
+87441,TX,Arthur Dibianca,Libertarian,188330,1.934,False,False
+87440,TX,Nathan Johnson,Democratic,5146486,52.399,True,False
+87440,TX,Mayes Middleton,Republican,4509457,45.913,False,False
+87440,TX,Tom Oxford,Libertarian,165836,1.688,False,False
+55857,TX,Gina Hinojosa,Democratic,5243709,52.806,True,False
+55857,TX,Greg Abbott,Republican,4531758,45.636,False,True
+55857,TX,Pat Dixon,Libertarian,148364,1.494,False,False
+55857,TX,Write-in,Nonpartisan,2229,0.022,False,False
+55857,TX,Jenn Mack,Write-In,2200,0.022,False,False
+55857,TX,Mike Miller,Write-In,1269,0.013,False,False
+55857,TX,Edward Earl Giles,Write-In,593,0.006,False,False
+55857,TX,Jinghpaw Majoishingra,Write-In,74,0.001,False,False
+87444,TX,Holly Taylor,Democratic,5055514,52.305,True,False
+87444,TX,John Messinger,Republican,4609853,47.695,False,False
+55858,TX,Benjamin Flores,Democratic,5027161,51.471,True,False
+55858,TX,Dawn Buckingham,Republican,4584097,46.935,False,True
+55858,TX,Neill Snider,Libertarian,155687,1.594,False,False
+55860,TX,Gisela Triana,Democratic,5046000,52.038,True,False
+55860,TX,Brett Busby,Republican,4650701,47.962,False,True
+162488,TX,Scott A. Say,Republican,0,,False,True
+162455,TX,Stephanie Hudson,Democratic,0,,False,False
+162614,TX,Steven Denny,Republican,0,,False,True
+162603,TX,Tim Womack,Republican,0,,False,True
+55947,TX,Stella Stevens,Republican,0,,False,False
+55947,TX,David M. Fleischer,Democratic,0,,False,False
+162761,TX,Aj Louderback,Republican,44101,71.62,True,True
+162761,TX,Crystal Sedillo,Democratic,17475,28.38,False,False
+56080,TX,Carl Tepper,Republican,26023,53.224,True,True
+56080,TX,Margaret Durham,Democratic,22870,46.776,False,False
+162724,TX,Junior Ezeonu,Democratic,46862,100.0,True,False
+56068,TX,Denise Wooten,Democratic,37477,51.077,True,False
+56068,TX,Ben Bumgarner,Republican,35897,48.923,False,True
+56035,TX,Odus Evbagharu,Democratic,37778,67.357,True,False
+56035,TX,Liz Ramos,Republican,18308,32.643,False,False
+162433,TX,K. Sunshine Stanek,Republican,0,,False,True
+162805,TX,Bob Hall,Republican,180497,51.354,True,True
+162805,TX,Keenen Colbert,Democratic,170982,48.646,False,False
+55925,TX,David W. Overhuls,Republican,0,,False,False
+55925,TX,Hilary Unger,Democratic,0,,False,True
+55892,TX,Gilbert Garcia Jr.,Republican,0,,False,False
+55892,TX,Jessica Alvarado Gonzales,Democratic,0,,False,False
+162702,TX,Julie Countiss,Democratic,0,,False,False
+162702,TX,David Gunn,Republican,0,,False,True
+162477,TX,R. Shane Seaton,Republican,0,,False,True
+162636,TX,Starr Bauer,Republican,0,,False,True
+55969,TX,Mario Rodriguez,Republican,0,,False,False
+55969,TX,Sylvia I. Johnson,Democratic,0,,False,False
+162783,TX,Jay Hardaway,Republican,41595,73.678,True,False
+162783,TX,Diana Luna,Democratic,14860,26.322,False,False
+162750,TX,Mary Ann Perez,Democratic,26264,70.272,True,True
+162750,TX,David Flores,Republican,11111,29.728,False,False
+55866,TX,Justin A Bezner,Republican,0,,False,False
+55866,TX,Michele Rutherford,Democratic,0,,False,False
+162583,TX,Nadine Melissa Nieto,Democratic,0,,False,True
+162550,TX,Lori Ruiz- Crutcher,Republican,0,,False,True
+162539,TX,Lyndsay Newell,Democratic,0,,False,False
+162539,TX,Leslie Barrows,Republican,0,,False,False
+56082,TX,Ebony Turner,Democratic,39599,52.739,True,False
+56082,TX,Ellen Fleischmann,Republican,35486,47.261,False,False
+162704,TX,Chris Taylor,Republican,0,,False,False
+162447,TX,Richard A. Schmidt,Republican,0,,False,False
+162660,TX,Heather Hines,Republican,0,,False,True
+162627,TX,Michael H. Ghutzman,Republican,0,,False,False
+55971,TX,Amy M. Tarno,Republican,0,,False,False
+55971,TX,Marcus Henderson,Democratic,0,,False,False
+55938,TX,Erin Swanson,Republican,0,,False,False
+55938,TX,Alex Salgado,Democratic,0,,False,False
+162741,TX,Angelia Orr,Republican,40694,68.461,True,True
+162741,TX,Albert Hunter,Democratic,18747,31.539,False,False
+55868,TX,Zachary Carter,Republican,0,,False,False
+55868,TX,Ruth Todd,Democratic,0,,False,False
+56027,TX,Elizabeth Campos,Democratic,39427,72.131,True,True
+56027,TX,Melva Pérez,Republican,15233,27.869,False,False
+55983,TX,Edgar Juarez,Democratic,0,,False,False
+55983,TX,Gilbert Salas,Republican,0,,False,False
+162797,TX,Ericka Lomick,Democratic,39059,50.546,False,False
+162797,TX,Alan Blaylock,Republican,38215,49.454,False,False
+162764,TX,Armando Mando Martinez,Democratic,36268,100.0,True,True
+55905,TX,Julio Cantu Jr.,Republican,0,,False,False
+55905,TX,Marty Perez,Democratic,0,,False,False
+55879,TX,Bianca Santorini,Democratic,0,,False,False
+55879,TX,Tom Selleck,Republican,0,,False,True
+162693,TX,Amy Thomas Ward,Republican,0,,False,True
+55994,TX,Np Sequoise Givens,Democratic,0,,False,False
+55994,TX,Denise Gray,Republican,0,,False,False
+162616,TX,James B. Munford,Republican,0,,False,True
+162493,TX,Todd Kassaw,Republican,0,,False,True
+162674,TX,"Kathryn ""Katie"" Wilson",Democratic,0,,False,False
+162674,TX,Vanessa Velasquez,Republican,0,,False,False
+162449,TX,Will Durham,Republican,0,,False,True
+55985,TX,Al Anaya,Democratic,0,,False,False
+55985,TX,Phillip M. Lange,Republican,0,,False,False
+162575,TX,Marla Cuellar,Democratic,0,,False,True
+162788,TX,Cecilia Castellano,Democratic,24028,52.754,True,False
+162788,TX,Don McLaughlin,Republican,21519,47.246,False,True
+162563,TX,Brooks H. Hagler,Republican,0,,False,True
+55907,TX,W. Andrew Barnebey,Democratic,0,,False,False
+55907,TX,Souli Asa Shanklin,Republican,0,,False,False
+56073,TX,Drew Darby,Republican,38959,73.131,True,True
+56073,TX,Shiloh Salazar,Democratic,14314,26.869,False,False
+162684,TX,Kimberly Allen,Republican,0,,False,False
+55996,TX,Jessi Barrientos,Democratic,0,,False,False
+55996,TX,Stephnie Menke,Republican,0,,False,False
+55963,TX,Albert W. Miller,Democratic,0,,False,False
+55963,TX,Tommy Vick,Republican,0,,False,False
+55919,TX,Steve Radack,Republican,0,,False,False
+55919,TX,Lesley Briones,Democratic,0,,False,False
+162733,TX,Zach Herbert,Democratic,43308,53.571,True,False
+162733,TX,Angie Chen Button,Republican,37535,46.429,False,True
+162707,TX,Monica Purdy,Democratic,0,,False,False
+162707,TX,Ben Smith,Republican,0,,False,False
+56040,TX,Christina Morales,Democratic,43453,77.571,True,True
+56040,TX,Inocensia Moreno,Republican,12564,22.429,False,False
+162438,TX,Larry W. Fields,Republican,0,,False,True
+162405,TX,Judy Parker,Republican,0,,False,False
+55930,TX,Peyton Peebles,Republican,0,,False,True
+55930,TX,Breanna Schwartz,Democratic,0,,False,False
+162552,TX,Janice Berg,Democratic,0,,False,True
+56088,TX,Pete Flores,Republican,192222,56.623,True,True
+56088,TX,Joe P. Herrera,Democratic,147252,43.377,False,False
+162802,TX,Dennis Paul,Republican,175200,51.488,True,False
+162802,TX,Shannon Dicely,Democratic,165071,48.512,False,False
+162577,TX,Tracy Sorensen,Republican,0,,False,True
+55921,TX,Mark Goldberg,Republican,0,,False,False
+55921,TX,Andrea Beall,Democratic,0,,False,True
+162518,TX,"Raquel ""Rocky"" Jones",Democratic,0,,False,True
+55884,TX,Guadalupe Arredondo,Republican,0,,False,False
+55884,TX,Hezekiah Carter Jr.,Democratic,0,,False,False
+162506,TX,Stephanie Franco,Democratic,0,,False,False
+56042,TX,Jolanda Jones,Democratic,50730,84.286,True,True
+56042,TX,Theodis Daniel,Republican,9458,15.714,False,False
+162632,TX,Tom Nowak,Republican,0,,False,True
+162812,TX,Michael Dickens,Republican,0,,False,True
+55932,TX,Rosa Cardenas,Republican,0,,False,False
+55932,TX,Damiane Dianne Curvey,Democratic,0,,False,True
+55899,TX,Adrian Hinojos,Democratic,0,,False,False
+55899,TX,Susie R. Hinojos,Republican,0,,False,False
+162709,TX,Charles Van Cleef,Republican,0,,False,True
+162676,TX,Dan Simons,Republican,0,,False,True
+162676,TX,Ramona Franklin,Democratic,0,,False,False
+55988,TX,Heather Evans,Republican,0,,False,False
+55988,TX,Nikita Fridia,Democratic,0,,False,False
+162599,TX,Ladeitra Adkins,Democratic,0,,False,True
+162566,TX,Paul L. Lepak,Republican,0,,False,True
+56102,TX,Brad Clark,Republican,0,,False,False
+56102,TX,Julya Billhymer,Democratic,0,,False,False
+55873,TX,David Sherwood Hill,Republican,0,,False,False
+55873,TX,Justin Rodriguez,Democratic,0,,False,False
+162495,TX,Bernardo Cruz,Democratic,0,,False,False
+162495,TX,R. Wayne Pritchard,Republican,0,,False,False
+162462,TX,Tonya Spaeth Ahlschwede,Republican,0,,False,True
+162621,TX,Randy M Clapp,Republican,0,,False,False
+162520,TX,Francisco X. Dominguez,Democratic,0,,False,True
+56056,TX,Oscar Longoria,Democratic,26212,75.009,True,True
+56056,TX,Oscar Rosa,Republican,8733,24.991,False,False
+162454,TX,Douglas Allen,Republican,0,,False,True
+162443,TX,Jacob Putman,Republican,0,,False,True
+55979,TX,Roxanna G. Rodriguez,Democratic,0,,False,False
+55979,TX,Jessica Zertuche,Republican,0,,False,False
+162601,TX,Cheryl Lee Shannon,Democratic,0,,False,True
+55913,TX,Jerry Rodriguez,Democratic,0,,False,False
+55913,TX,David Young,Republican,0,,False,False
+55901,TX,Mike Immler,Republican,0,,False,False
+55901,TX,Clay Jenkins,Democratic,0,,False,False
+55875,TX,Bob Behrens,Republican,0,,False,False
+55875,TX,Helen Petry Stowe,Democratic,0,,False,False
+56034,TX,Mano DeAyala,Republican,35637,53.079,True,True
+56034,TX,Josh Wallenstein,Democratic,31502,46.921,False,False
+162645,TX,Justin R. Gilbert,Republican,0,,False,True
+162804,TX,Roland Gutierrez,Democratic,180140,64.012,True,True
+162804,TX,Marcus Cardenas,Republican,101275,35.988,False,False
+55924,TX,Megan Long,Republican,0,,False,False
+55924,TX,Chris Morton,Democratic,0,,False,True
+162535,TX,Marisa Flores,Democratic,0,,False,True
+56078,TX,Tom Craddick,Republican,34410,73.435,True,True
+56078,TX,Cathy Broadrick,Democratic,12448,26.565,False,False
+56045,TX,Will Metcalf,Republican,55740,71.341,True,True
+56045,TX,Bobbie Clayton,Democratic,22392,28.659,False,False
+56001,TX,Rachel Hale,Republican,0,,False,False
+56001,TX,Marc Wheeler,Democratic,0,,False,False
+162623,TX,Chantal Melissa Eldridge,Democratic,0,,False,True
+162590,TX,Brandon Birmingham,Democratic,0,,False,True
+162749,TX,"Harold V. Dutton, Jr",Democratic,39806,80.91,True,True
+162749,TX,Heidi Hall,Republican,9392,19.09,False,False
+162738,TX,Adrian Reyna,Democratic,45477,67.557,True,False
+162738,TX,Ricardo 'Rick' Martinez,Republican,21839,32.443,False,False
+162423,TX,Kenneth Cusick,Republican,0,,False,True
+162582,TX,Kristin Bays,Republican,0,,False,True
+162571,TX,Brian Staley,Republican,0,,False,False
+162571,TX,Dedra Davis,Democratic,0,,False,True
+55915,TX,Aaron Adams,Republican,0,,False,False
+55915,TX,Beau Miller,Democratic,0,,False,True
+162537,TX,Christine Del Prado,Democratic,0,,False,True
+56048,TX,Terry M. Wilson,Republican,51801,52.191,True,True
+56048,TX,Matthias-Jonah Early,Democratic,47451,47.809,False,False
+162500,TX,Clint Davis,Republican,0,,False,False
+56036,TX,John H. Bucy III,Democratic,47180,70.08,True,True
+56036,TX,Theodore Schramm,Republican,20143,29.92,False,False
+56003,TX,Emmanuel Camacho,Republican,0,,False,False
+56003,TX,Lamar de la Cruz,Democratic,0,,False,False
+55970,TX,Skeet Phillips,Republican,0,,False,False
+55970,TX,Shree Henderson,Democratic,0,,False,False
+162773,TX,Chris Jimenez,Democratic,56535,53.874,True,False
+162773,TX,Caroline Harris Davila,Republican,48404,46.126,False,True
+162740,TX,Scott Bowen,Republican,37594,50.552,False,False
+162740,TX,Albert Wittliff,Democratic,36773,49.448,False,False
+55867,TX,Cindy Allen,Republican,0,,False,False
+55867,TX,Tamera Peterson Mcintyre,Democratic,0,,False,False
+162670,TX,Terence Davis,Republican,0,,False,True
+162637,TX,Noe Gonzalez,Democratic,0,,False,True
+162604,TX,Gloria Lopez,Democratic,0,,False,True
+162784,TX,"Eddie Morales, Jr",Democratic,31243,64.649,True,True
+162784,TX,Robert Garza,Republican,17084,35.351,False,False
+162751,TX,Darlene Breaux,Democratic,28874,68.519,True,False
+162751,TX,Dave Bennett,Republican,13266,31.481,False,False
+162526,TX,Patricia Grady,Republican,0,,False,True
+162681,TX,Danah Zirpoli,Republican,0,,False,True
+162456,TX,Lakesha Smith,Democratic,0,,False,False
+56087,TX,Judith Zaffirini,Democratic,188064,69.071,True,True
+56087,TX,Julie Dahlberg,Republican,84211,30.929,False,False
+162514,TX,Christina Wade Perrone,Republican,0,,False,False
+56050,TX,Greg Bonnen,Republican,51488,61.541,True,True
+56050,TX,Frank Carr,Democratic,32176,38.459,False,False
+162672,TX,Adela Kowalski-Garza,Democratic,0,,False,True
+162415,TX,Sara M. Rodriguez,Republican,0,,False,True
+188184,TX,Ericka Lomick,Democratic,39434,51.135,True,False
+188184,TX,Alan Blaylock,Republican,37684,48.865,False,False
+162403,TX,Darlene Byrne,Democratic,0,,False,True
+162403,TX,Cory Liu,Republican,0,,False,False
+162786,TX,Suleman Lalani,Democratic,44433,66.205,True,True
+162786,TX,Linda Howell,Republican,22681,33.795,False,False
+55906,TX,Timothy Dennis,Democratic,0,,False,False
+55906,TX,Jesse Speer,Republican,0,,False,False
+162716,TX,Allison Bush,Democratic,0,,False,False
+162716,TX,Mica Arellano,Republican,0,,False,False
+162683,TX,Martin Hoffman,Democratic,0,,False,True
+55995,TX,Brady Gray,Republican,0,,False,False
+55995,TX,Kay Pierson Parr,Democratic,0,,False,False
+162798,TX,Katie O'Brien Duzan,Democratic,36799,52.489,True,False
+162798,TX,Cheryl Bean,Republican,33309,47.511,False,False
+162765,TX,Terry Canales,Democratic,32213,74.624,True,True
+162765,TX,Celeste Cabrera-Huff,Republican,10954,25.376,False,False
+162540,TX,Chuck Silverman,Republican,0,,False,False
+162540,TX,Josh Hill,Democratic,0,,False,True
+55880,TX,Grandison Porter,Democratic,0,,False,False
+55880,TX,Cassandra Tigner,Republican,0,,False,False
+162694,TX,Celina Leon,Democratic,0,,False,False
+162694,TX,Chris Dorsey,Republican,0,,False,False
+162661,TX,Tameika Carter,Democratic,0,,False,False
+162661,TX,Maggie Jaramillo,Republican,0,,False,True
+162809,TX,Brett W. Ligon,Republican,205625,58.29,True,True
+162809,TX,Ron C. Angeletti,Democratic,147139,41.71,False,False
+162584,TX,Anna Dunn Hord,Republican,0,,False,True
+56120,TX,Heather Jefts,Democratic,0,,False,False
+56120,TX,Steven Snell,Republican,0,,False,False
+162642,TX,Kristen L. Fouts,Democratic,0,,False,False
+162417,TX,Greg Willis,Republican,0,,False,True
+162800,TX,Beth Llewellyn McLaughlin,Democratic,41097,50.905,True,False
+162800,TX,John W. McQueeney,Republican,39635,49.095,False,True
+56112,TX,Rachel Magallanes,Democratic,0,,False,False
+56112,TX,Mary Jane Ross,Republican,0,,False,False
+162756,TX,Cody Thane Vasut,Republican,34663,50.84,True,True
+162756,TX,Mike Meadors,Democratic,33517,49.16,False,False
+56100,TX,Brian Willett,Democratic,0,,False,False
+56100,TX,Alex Kim,Republican,0,,False,True
+55882,TX,Jon Albin,Republican,0,,False,False
+55882,TX,Mark Wright,Democratic,0,,False,False
+56041,TX,Lauren Ashley Simmons,Democratic,42922,83.068,True,True
+56041,TX,Alexandria Nicole Butler,Republican,8749,16.932,False,False
+162652,TX,Raymond A. Villareal,Democratic,0,,False,False
+162811,TX,Jerry Zimmerer,Democratic,0,,False,False
+162811,TX,Scott Brister,Republican,0,,False,True
+55931,TX,Paula Vlahakos,Republican,0,,False,False
+55931,TX,Angela M Lancelin,Democratic,0,,False,True
+162734,TX,Kristian Carranza,Democratic,42984,61.68,True,False
+162734,TX,Jorge Borrego,Republican,26705,38.32,False,False
+162708,TX,Andrea D. Plumlee,Democratic,0,,False,False
+162708,TX,Ashley Wysocki,Republican,0,,False,False
+162675,TX,Kathryn Pruitt,Republican,0,,False,True
+162439,TX,Shelly Bush Sitton,Republican,0,,False,True
+162406,TX,Maria Salas Mendoza,Democratic,0,,False,True
+55942,TX,Amber Cox,Republican,0,,False,False
+55942,TX,Raul Rodriguez,Democratic,0,,False,False
+162745,TX,Gene Wu,Democratic,18290,70.343,True,True
+162745,TX,Helen Zhou,Republican,7711,29.657,False,False
+56089,TX,Charles Perry,Republican,193190,69.713,True,True
+56089,TX,Riley Rodriquez,Democratic,83931,30.287,False,False
+56063,TX,Wes Virdell,Republican,60766,72.944,True,True
+56063,TX,Kathryn Hartmann,Democratic,22539,27.056,False,False
+162461,TX,David Broom,Republican,0,,False,False
+162770,TX,Montserrat Garibay,Democratic,78685,89.939,True,False
+162770,TX,Arshia Papari,Green,8802,10.061,False,False
+56114,TX,Paige Foster,Republican,0,,False,False
+56114,TX,Patricia Youngblood,Democratic,0,,False,False
+162736,TX,Mark Dorazio,Republican,50654,50.879,True,True
+162736,TX,Shelly Nickels,Democratic,48904,49.121,False,False
+56055,TX,Stephanie Guerrero Sáenz,Democratic,23769,55.57,True,False
+56055,TX,Denise Villalobos,Republican,19004,44.43,False,True
+162699,TX,John Ball,Democratic,0,,False,False
+162699,TX,Clarissa Silva,Republican,0,,False,True
+162474,TX,Billy W. Byrd,Republican,0,,False,False
+162441,TX,Kenda Culpepper,Republican,0,,False,True
+162792,TX,Angie Carraway,Democratic,44156,50.801,True,False
+162792,TX,Candy Noble,Republican,42764,49.199,False,True
+162780,TX,Jeff Leach,Republican,42566,50.12,False,True
+162780,TX,Jordan Wheatley,Democratic,42363,49.88,False,False
+162747,TX,Charlene Ward Johnson,Democratic,43925,78.273,True,True
+162747,TX,Kyle Harding,Republican,12193,21.727,False,False
+55874,TX,Christine Vasquez Hortick,Democratic,0,,False,True
+55874,TX,Benjamin Robertson,Republican,0,,False,False
+162485,TX,David Klein,Republican,0,,False,True
+162485,TX,Carlos Valdez,Democratic,0,,False,False
+162644,TX,Bob Carroll,Republican,0,,False,True
+162803,TX,Borris L. Miles,Democratic,202858,100.0,True,True
+162567,TX,Jennifer Bennett,Democratic,0,,False,True
+56103,TX,Brian Bolton,Republican,0,,False,False
+56103,TX,Lesa Pamplin,Democratic,0,,False,False
+55885,TX,J. Scott Wassermann,Republican,0,,False,False
+55885,TX,Felipe Fierro,Democratic,0,,False,False
+162688,TX,Jennifer Ebrom Dillingham,Republican,0,,False,True
+162463,TX,Mike Holley,Republican,0,,False,True
+162430,TX,Keith F. Giblin,Democratic,0,,False,True
+162589,TX,Stephanie N Mitchell Huff,Democratic,0,,False,True
+56057,TX,Erin Elizabeth Gámez,Democratic,30476,75.07,True,True
+56057,TX,Laura Cisneros,Republican,10121,24.93,False,False
+56024,TX,Cassandra Hernandez,Democratic,40368,64.511,True,True
+56024,TX,Danny Rosellini,Republican,22207,35.489,False,False
+162422,TX,Paul W. Lewallen,Republican,0,,False,False
+162411,TX,Bryan Goertz,Republican,0,,False,True
+162794,TX,"Ramon Romero, Jr",Democratic,37556,100.0,True,True
+162569,TX,Julie C Bauknight,Republican,0,,False,True
+162728,TX,Jared Patterson,Republican,47282,51.502,True,True
+162728,TX,Joe Mayes,Democratic,44525,48.498,False,False
+55876,TX,Jason Roland Garrahan,Republican,0,,False,False
+55876,TX,Alfredo Ximenez,Democratic,0,,False,False
+162690,TX,Robert E. Cadena,Republican,0,,False,True
+56002,TX,Jennifer E. Clarke,Republican,0,,False,False
+56002,TX,J.M. Alvarez,Democratic,0,,False,False
+162613,TX,Steven R. Emmert,Republican,0,,False,True
+162772,TX,Samantha Lopez-Resendez,Democratic,48804,82.25,True,False
+162772,TX,Howard Olsen,Republican,10532,17.75,False,False
+162739,TX,Stefanie Bord,Democratic,34078,50.214,False,False
+162739,TX,Stan Stanart,Republican,33788,49.786,False,False
+162510,TX,Maria Aceves,Democratic,0,,False,True
+56046,TX,Stan Gerdes,Republican,41113,55.875,True,True
+56046,TX,Mary Elizabeth Klenz,Democratic,32467,44.125,False,False
+162444,TX,Erin Stamey,Republican,0,,False,False
+162816,TX,Greg Wilhelm,Republican,0,,False,False
+162591,TX,Maribel Flores,Democratic,0,,False,True
+162558,TX,Kim Brown,Democratic,0,,False,True
+162525,TX,Brody Shanklin,Republican,0,,False,True
+162713,TX,Amy Taylor,Democratic,0,,False,False
+162713,TX,Mindy Bumgarner,Republican,0,,False,False
+55960,TX,Maricela de Leon,Republican,0,,False,False
+55960,TX,Laura Hinojosa,Democratic,0,,False,False
+56119,TX,William Fairbrother,Republican,0,,False,False
+56119,TX,Erin Block,Democratic,0,,False,False
+56108,TX,Marc M. Meyer,Democratic,0,,False,False
+56108,TX,April Farris,Republican,0,,False,True
+162730,TX,Morgan Meyer,Republican,51850,56.043,True,True
+162730,TX,Allison Mitchell,Democratic,40668,43.957,False,False
+162512,TX,Kim Cooks,Democratic,0,,False,False
+56016,TX,Keith Bell,Republican,44531,57.499,True,True
+56016,TX,Mark Moseley,Democratic,32916,42.501,False,False
+162468,TX,Reed A. Filley,Republican,0,,False,True
+162435,TX,Josh Tetens,Republican,0,,False,True
+162818,TX,Tamecia Glover,Democratic,0,,False,False
+162818,TX,Mark H. Hanna,Republican,0,,False,True
+162785,TX,Mary E Gonzalez,Democratic,36680,100.0,True,True
+162549,TX,Selena N. Solis,Democratic,0,,False,True
+162715,TX,Coretta Mallet-Fontenot,Democratic,0,,False,False
+162715,TX,Tammie Nielsen,Republican,0,,False,False
+162682,TX,Justin W. Lewis,Republican,0,,False,True
+162638,TX,Julie Lugo,Republican,0,,False,True
+162605,TX,Jeff McKnight,Republican,0,,False,True
+162572,TX,Andrew Lloyd,Republican,0,,False,False
+162752,TX,A'Yonna Kellum,Democratic,34854,50.613,True,False
+162752,TX,Valoree Swanson,Republican,34010,49.387,False,True
+162527,TX,"Arthurine ""Anhthu"" Kamphaus",Democratic,0,,False,False
+162527,TX,Michael Ferry,Republican,0,,False,True
+162501,TX,Titiana D. Frausto,Republican,0,,False,True
+162649,TX,Evan Clay Stubbs,Republican,0,,False,True
+162424,TX,John W. Moore,Republican,0,,False,True
+56062,TX,Lulu Flores,Democratic,54825,85.489,True,True
+56062,TX,Jessica Martinez,Republican,9306,14.511,False,False
+162482,TX,John P. Chupp,Republican,0,,False,True
+56018,TX,Cody Harris,Republican,45922,74.682,True,True
+56018,TX,Jeff Chavez,Democratic,15568,25.318,False,False
+162640,TX,Leah G. Robertson,Republican,0,,False,True
+55952,TX,Paul Shanklin,Republican,0,,False,False
+55952,TX,Pamela Medina,Democratic,0,,False,False
+162596,TX,Chad Bradshaw,Republican,0,,False,True
+55940,TX,Elizabeth Buss,Republican,0,,False,False
+55940,TX,Sedrick T. Walker Ii,Democratic,0,,False,False
+162754,TX,Christian Manuel,Democratic,32238,100.0,True,True
+55881,TX,Richard B. Davis,Republican,0,,False,False
+55881,TX,Shenequa Harrison,Democratic,0,,False,False
+162492,TX,Steve Burgess,Republican,0,,False,True
+162651,TX,Jill Willis,Republican,0,,False,True
+162810,TX,Charles Schwertner,Republican,197947,53.3,True,True
+162810,TX,Paul Thomasson,Democratic,173433,46.7,False,False
+162766,TX,Julio Salinas,Democratic,36096,68.009,True,False
+162766,TX,Gary Groves,Republican,16979,31.991,False,False
+162541,TX,Kenneth E. Newell,Republican,0,,False,True
+162515,TX,"Adolfo E. Cordova, Jr",Democratic,0,,False,True
+162695,TX,Delinda Gibbs-Walker,Republican,0,,False,True
+162662,TX,Maya Guerra Gamble,Democratic,0,,False,True
+55974,TX,Ralph Gomez,Democratic,0,,False,False
+55974,TX,John Paul Schuster,Republican,0,,False,False
+162777,TX,Mike Olcott,Republican,69519,78.765,True,True
+162777,TX,Krissy Guess,Democratic,18742,21.235,False,False
+56121,TX,Carole Callahan,Republican,0,,False,False
+56121,TX,Brian Walbridge,Democratic,0,,False,False
+55896,TX,Jesus Ramirez,Republican,0,,False,False
+55896,TX,Raul M. Rodriguez Sr.,Democratic,0,,False,False
+162610,TX,Gordon Friesz,Republican,0,,False,True
+55954,TX,Louie Ditta,Republican,0,,False,False
+55954,TX,Nicolas Juan,Democratic,0,,False,False
+162768,TX,Sheryl Cole,Democratic,69136,100.0,True,True
+55888,TX,Anita Deleon,Democratic,0,,False,False
+55888,TX,Alma Morales,Republican,0,,False,False
+162532,TX,Lisa Michalk,Republican,0,,False,True
+56075,TX,Vince Perez,Democratic,33849,79.344,True,True
+56075,TX,Humberto Perez,Republican,8812,20.656,False,False
+162697,TX,Bruce Williams,Republican,0,,False,True
+162440,TX,Lacy Miller,Republican,0,,False,False
+162620,TX,Monica Rawlins,Democratic,0,,False,True
+162620,TX,Richard Lybarger,Republican,0,,False,False
+162779,TX,Andy Hopper,Republican,45645,54.479,True,True
+162779,TX,Julie Evans,Democratic,38139,45.521,False,False
+162746,TX,Tyler Smith,Democratic,34353,51.928,True,False
+162746,TX,Lacey Hull,Republican,31802,48.072,False,True
+162517,TX,Amy Clark Meachum,Democratic,0,,False,True
+162484,TX,Cliff Brown,Democratic,0,,False,True
+162643,TX,Brandy Mueller,Democratic,0,,False,True
+162407,TX,Scott Golemon,Republican,0,,False,True
+55943,TX,Stephen C. St. Martin,Republican,0,,False,False
+55943,TX,Tonya Jones,Democratic,0,,False,False
+55910,TX,Robert Hunter,Republican,0,,False,False
+55910,TX,John A. Rodriguiz,Democratic,0,,False,False
+162720,TX,Ericka Ledferd,Democratic,0,,False,False
+162720,TX,Kason Huddleston,Republican,0,,False,False
+56064,TX,Brad Buckley,Republican,26213,53.843,True,True
+56064,TX,Dawn Richardson,Democratic,22471,46.157,False,False
+56031,TX,Michelle Williams,Democratic,40743,51.176,True,False
+56031,TX,Charles Cunningham,Republican,38871,48.824,False,True
+162429,TX,John E. Burt,Republican,0,,False,True
+55890,TX,Cyndi Hinojosa,Democratic,0,,False,False
+55890,TX,Julian B. Martinez,Republican,0,,False,False
+55864,TX,Mark L. Bowen,Republican,0,,False,False
+55864,TX,Vickie Eckert,Democratic,0,,False,False
+56023,TX,John Bryant,Democratic,43987,70.25,True,True
+56023,TX,Tim McDonough,Republican,18628,29.75,False,False
+162667,TX,Bryan Gantt,Republican,0,,False,True
+162634,TX,Sarah Bruchmiller,Republican,0,,False,True
+162409,TX,Allyson Mitchell,Republican,0,,False,True
+162760,TX,Kristen Plaisance,Republican,56960,67.108,True,False
+162760,TX,Nicole King,Democratic,27918,32.892,False,False
+162748,TX,Janet Tycelia Dudding,Democratic,30780,49.003,False,False
+162748,TX,Paul Dyson,Republican,30465,48.501,False,True
+162748,TX,Jeff Miller,Libertarian,1568,2.496,False,False
+162722,TX,Brian Harrison,Republican,46461,54.342,True,True
+162722,TX,Michael Myers,Democratic,39036,45.658,False,False
+162689,TX,"Bryan F. ""Rusty"" Russ Jr.",Republican,0,,False,True
+162453,TX,Paul E. Mansur,Republican,0,,False,True
+162612,TX,David Stith,Republican,0,,False,True
+162771,TX,Cole Hefner,Republican,54234,76.955,True,True
+162771,TX,Hector Garza,Democratic,16241,23.045,False,False
+56104,TX,Mary Tom Cravens Curnutt,Republican,0,,False,False
+56104,TX,Celina Vasquez,Democratic,0,,False,False
+55886,TX,Susana Gonzales,Democratic,0,,False,False
+55886,TX,Michael Johnson,Republican,0,,False,False
+162700,TX,William Demond,Democratic,0,,False,False
+162700,TX,Ken Wise,Republican,0,,False,True
+162656,TX,Veretta Frazier,Democratic,0,,False,True
+162431,TX,Erleigh N Wiley,Republican,0,,False,True
+55967,TX,Bianca Matthews,Republican,0,,False,False
+55967,TX,J.C. Perez III,Democratic,0,,False,False
+162557,TX,Josh Fitzgerald,Republican,0,,False,False
+162546,TX,Surendran K. Pattel,Democratic,0,,False,True
+162546,TX,Asha Reddi,Republican,0,,False,False
+55992,TX,Anne Lorentzen,Republican,0,,False,False
+55992,TX,Maria Ventura,Democratic,0,,False,False
+55959,TX,Lydia Elizondo,Republican,0,,False,False
+55959,TX,Toribio Palacios,Democratic,0,,False,False
+55948,TX,Joshua Normand,Republican,0,,False,False
+55948,TX,Kelley Andrews,Democratic,0,,False,False
+162762,TX,"Sergio Muñoz, Jr",Democratic,33326,100.0,True,True
+56106,TX,Paige Payne - Neal,Republican,0,,False,False
+56106,TX,Kenneth D. Sanders,Democratic,0,,False,False
+162703,TX,Amy Guerra,Democratic,0,,False,True
+162703,TX,Jessica Caird,Republican,0,,False,False
+56069,TX,Mitch Little,Republican,47450,52.982,True,True
+56069,TX,Detrick DeBurr,Democratic,42108,47.018,False,False
+162691,TX,Roy D. Brantley,Republican,0,,False,False
+162658,TX,"Robert R. ""Rob"" Hofmann",Republican,0,,False,True
+162817,TX,Latosha McGill Clayton,Democratic,0,,False,False
+162817,TX,Richard T. Bell,Republican,0,,False,True
+162581,TX,Lela Lawrence Mays,Democratic,0,,False,True
+162548,TX,Lowell Kregg Hukill,Republican,0,,False,True
+162714,TX,Thomas Ray Garcia,Democratic,0,,False,False
+162714,TX,Victoria Hinojosa,Republican,0,,False,False
+162478,TX,Ben Ivey,Republican,0,,False,True
+162478,TX,Chris Anchondo,Democratic,0,,False,False
+162445,TX,Brooke Koi,Republican,0,,False,False
+162412,TX,Luz Elena Chapa,Democratic,0,,False,False
+162412,TX,Ashley Foster,Republican,0,,False,False
+162412,TX,Jason Wolff,Independent,0,,False,False
+162592,TX,Chris Martin,Republican,0,,False,True
+162559,TX,Vonda Bailey,Democratic,0,,False,True
+56095,TX,Tom Wilder,Republican,0,,False,False
+56095,TX,Nathan Smith,Democratic,0,,False,False
+162489,TX,Jeff R Steinhauser,Republican,0,,False,True
+56025,TX,Trey Martinez Fischer,Democratic,39687,75.822,True,True
+56025,TX,Rhett Rosenquest Smith,Republican,12655,24.178,False,False
+55895,TX,Angie Flores,Republican,0,,False,False
+55895,TX,Tina Urias,Democratic,0,,False,False
+56083,TX,Charlie Geren,Republican,35175,52.904,True,True
+56083,TX,Michelle Winder,Democratic,31313,47.096,False,False
+162705,TX,Brian Walker,Republican,0,,False,True
+162480,TX,Dale Tillery,Democratic,0,,False,True
+55984,TX,Carlos Navarrete,Republican,0,,False,False
+55984,TX,Rito J. Valdez,Democratic,0,,False,False
+162628,TX,David Hilburn,Republican,0,,False,True
+55972,TX,Michele van Stavern,Republican,0,,False,False
+55972,TX,Adriann R. Wolfe,Democratic,0,,False,False
+162594,TX,Ashley Smith,Democratic,0,,False,False
+162594,TX,Clark B. Will,Republican,0,,False,False
+162753,TX,Ellen Troxclair,Republican,75611,68.095,True,True
+162753,TX,Tom Luck,Democratic,35426,31.905,False,False
+162524,TX,Alyssa G. Perez,Democratic,0,,False,True
+162491,TX,Gerald Fowler,Republican,0,,False,False
+162491,TX,Tanya Garrison,Democratic,0,,False,True
+162650,TX,Cassie Benoist-Templeton,Democratic,0,,False,False
+162650,TX,Paul Still,Republican,0,,False,False
+162606,TX,Sonya L. Heath,Democratic,0,,False,True
+162573,TX,"James A. (""Jim"") Payne, Jr.",Republican,0,,False,True
+56109,TX,Becky Freeman,Republican,0,,False,False
+56109,TX,Pierce LoPachin,Democratic,0,,False,False
+162528,TX,Kristi Skillern,Republican,0,,False,False
+162502,TX,Brent Haynes,Republican,0,,False,False
+162502,TX,"Danilo ""Danny"" Lacayo",Democratic,0,,False,True
+162469,TX,Noe Garza,Democratic,0,,False,False
+162469,TX,Frank Lozano,Republican,0,,False,False
+162617,TX,Crystal Gayden,Democratic,0,,False,False
+162617,TX,Andy Hsu,Republican,0,,False,False
+55961,TX,Ron McVey,Republican,0,,False,False
+55961,TX,Andrew Gonzalez,Democratic,0,,False,False
+55928,TX,Bryan Honeycutt,Republican,0,,False,False
+55928,TX,Veronica M. Nelson,Democratic,0,,False,True
+162450,TX,Sean G Whittmore,Republican,0,,False,True
+55986,TX,Cathy Coker,Democratic,0,,False,False
+55986,TX,Debra Graff,Republican,0,,False,False
+162608,TX,Maria Valeria Brock,Republican,0,,False,False
+162608,TX,Leah Shapiro,Democratic,0,,False,True
+55920,TX,Tami C. Pierce,Republican,0,,False,False
+55920,TX,Stephanie Morales,Democratic,0,,False,False
+162564,TX,Steven Parkhurst,Republican,0,,False,True
+55908,TX,David Fitz,Republican,0,,False,False
+55908,TX,F.A. Green Sr.,Democratic,0,,False,False
+162530,TX,Jennifer Edgeworth,Republican,0,,False,True
+162696,TX,Lee Harris,Republican,0,,False,True
+162460,TX,Brian M Middleton,Democratic,0,,False,True
+162460,TX,Shawn McDonald,Republican,0,,False,False
+162619,TX,Monique Velarde Reyes,Democratic,0,,False,True
+162778,TX,Keresa Richardson,Republican,44760,49.145,False,True
+162778,TX,Brittany Black,Democratic,44626,48.998,False,False
+162778,TX,Anissa Chilmeran,Green,1692,1.858,False,False
+162542,TX,"David ""Dave"" Harvey",Republican,0,,False,False
+162542,TX,Lauren Reeder,Democratic,0,,False,True
+162516,TX,M. Patrick Maguire,Republican,0,,False,True
+162483,TX,Michael De Leon,Democratic,0,,False,False
+162663,TX,Mary Lou Alvarez,Democratic,0,,False,True
+55975,TX,Robert Hearne,Republican,0,,False,False
+55975,TX,Narce D. Villarreal,Democratic,0,,False,False
+162789,TX,"Dennis ""Goose"" Geesaman",Republican,51134,64.089,True,False
+162789,TX,Lawrence Brandyburg,Democratic,28652,35.911,False,False
+162553,TX,Tiffany Strother,Republican,0,,False,True
+55897,TX,T.J. Shipp,Republican,0,,False,False
+55897,TX,Carlos G. Urias,Democratic,0,,False,False
+55871,TX,Bobby Whitson,Republican,0,,False,False
+55871,TX,Stacey L. Wilson,Democratic,0,,False,False
+56030,TX,Josey Garcia,Democratic,32482,73.066,True,True
+56030,TX,Sylvia Soto,Republican,11923,26.82,False,False
+56030,TX,Write-in,Nonpartisan,51,0.115,False,False
+56030,TX,L.D. Howard,Write-In,0,0.0,False,False
+162578,TX,Randy Shelton,Democratic,0,,False,True
+55922,TX,Stephen F. Driver,Republican,0,,False,False
+55922,TX,Beverly D. Armstrong,Democratic,0,,False,True
+162544,TX,Elizabeth Byer Leonard,Republican,0,,False,True
+55863,TX,Clint D. Cornell,Republican,0,,False,False
+55863,TX,Dustin S. Sanders,Democratic,0,,False,False
+162507,TX,J. Scott Novy,Republican,0,,False,True
+56043,TX,Penny Morales Shaw,Democratic,32266,67.706,True,True
+56043,TX,Amanda LaBrie,Republican,15390,32.294,False,False
+162665,TX,Derbha Jones,Republican,0,,False,True
+162600,TX,Andrea Martin,Democratic,0,,False,True
+162588,TX,Jennifer Pena,Democratic,0,,False,True
+162555,TX,Ana E. Estevez,Republican,0,,False,True
+162721,TX,Chris Spencer,Republican,44895,71.588,True,False
+162721,TX,Sean Huffman,Democratic,17818,28.412,False,False
+56054,TX,Katrina Pierson,Republican,46507,55.383,True,True
+56054,TX,Orlando Lopez,Democratic,37467,44.617,False,False
+162452,TX,Angela Albers,Republican,0,,False,True
+162611,TX,Brent Morgan,Republican,0,,False,True
+55944,TX,Matt Alford,Republican,0,,False,False
+55944,TX,Matthew Ruben Perez,Democratic,0,,False,False
+55911,TX,Sylvia Anna Rodriguez,Republican,0,,False,False
+55911,TX,Sandra Waldrum,Democratic,0,,False,False
+162725,TX,Ana-Maria Rodriguez Ramos,Democratic,31522,68.867,True,True
+162725,TX,Bonnie Abadie,Republican,14250,31.133,False,False
+162496,TX,Cari Starritt-Burnett,Republican,0,,False,True
+56032,TX,Tom Butler,Republican,31294,57.194,True,False
+56032,TX,Desirée Klaus,Democratic,23422,42.806,False,False
+55999,TX,Leo Hung,Democratic,0,,False,False
+55999,TX,Hector Pena,Republican,0,,False,False
+55966,TX,Tim Funchess,Republican,0,,False,False
+55966,TX,Michael Cooper,Democratic,0,,False,False
+55865,TX,Eric Sowder,Republican,0,,False,False
+55865,TX,Isidoro Trevino,Democratic,0,,False,False
+162679,TX,W. Kent Walston,Republican,0,,False,True
+55991,TX,Jack Barrington,Democratic,0,,False,False
+55991,TX,Tim Goerner,Republican,0,,False,False
+55980,TX,Miguel Rodriguez,Republican,0,,False,False
+55980,TX,Frank Weikel,Democratic,0,,False,False
+162602,TX,Emily A. Fisher,Republican,0,,False,True
+55946,TX,Rebecca Philips Aceto,Republican,0,,False,False
+55946,TX,Shannon B. Baldwin,Democratic,0,,False,False
+162536,TX,"Anastacia ""Ana"" Ochoa Nelson",Democratic,0,,False,False
+162723,TX,Venton Jones,Democratic,34006,87.581,True,True
+162723,TX,Jordan Scott Hoffnagle,Republican,4822,12.419,False,False
+162498,TX,Amanda Enriquez,Democratic,0,,False,False
+162657,TX,Kirsten Barron Cohoon,Republican,0,,False,True
+162421,TX,Paul Johnson,Republican,0,,False,True
+162580,TX,Alison Grinter Allen,Democratic,0,,False,False
+162547,TX,Debby Gunter,Republican,0,,False,True
+56079,TX,Dustin Burrows,Republican,50310,73.496,True,True
+56079,TX,Malik Williams,Democratic,18143,26.504,False,False
+162701,TX,Veronica Rivas-Molloy,Democratic,0,,False,True
+162701,TX,Todd Frankfort,Republican,0,,False,False
+162668,TX,Wade Faulkner,Republican,0,,False,True
+162624,TX,Bryan Bufkin,Republican,0,,False,True
+55968,TX,Pete Beltran,Republican,0,,False,False
+55968,TX,Ventura Garcia Jr.,Democratic,0,,False,False
+55935,TX,Jesus Guillen,Republican,0,,False,False
+55935,TX,Teresa Waldrop,Democratic,0,,False,True
+56094,TX,Tim Davis,Republican,0,,False,False
+56094,TX,Allison Campolo,Democratic,0,,False,False
+162521,TX,Juan Zamora,Democratic,0,,False,False
+162807,TX,Jose Menendez,Democratic,181417,84.096,True,True
+162807,TX,Julián Villarreal,Green,34310,15.904,False,False
+55927,TX,Jason A. Campo,Republican,0,,False,False
+55927,TX,Melissa Marie Morris,Democratic,0,,False,True
+55916,TX,Celena Guerra Pawlak,Republican,0,,False,False
+55916,TX,Cory Don Sepolio,Democratic,0,,False,True
+162538,TX,"Baldemar ""Balde"" Garza",Democratic,0,,False,True
+56081,TX,Caroline Fairly,Republican,30200,69.99,True,True
+56081,TX,Diana Loya,Democratic,12949,30.01,False,False
+162671,TX,Crystal Edmonson Levonius,Republican,0,,False,True
+162671,TX,Seth Fuller,Democratic,0,,False,False
+56037,TX,Armando Lucio Walle,Democratic,24289,81.218,True,True
+56037,TX,Laura Garcia DeLeon,Republican,5617,18.782,False,False
+162659,TX,Laurie Eiserloh,Democratic,0,,False,True
+162626,TX,John Floyd Shrode,Republican,0,,False,True
+162593,TX,Piper McCraw,Republican,0,,False,False
+56118,TX,Rodolfo Cantu,Democratic,0,,False,False
+56118,TX,Xavier Montalvo,Republican,0,,False,False
+162523,TX,Tony Coveny,Republican,0,,False,False
+162523,TX,Brian Edward Warren,Democratic,0,,False,True
+162490,TX,Boyd Bauer,Republican,0,,False,False
+162446,TX,Barry Clark Wallace,Republican,0,,False,True
+162413,TX,Kelley Crisp,Republican,0,,False,False
+55949,TX,Victor Flores,Republican,0,,False,False
+55949,TX,Erika Ramirez,Democratic,0,,False,False
+162560,TX,Heather Nicole Johnson,Democratic,0,,False,False
+56096,TX,Dusty Fillmore,Republican,0,,False,False
+56096,TX,Katherine Kim,Democratic,0,,False,False
+56070,TX,Matt Shaheen,Republican,47373,55.451,True,True
+56070,TX,Sandeep Srivastava,Democratic,38059,44.549,False,False
+162457,TX,Nancy Mulder,Democratic,0,,False,True
+55993,TX,Aidee Hernandez,Democratic,0,,False,False
+55993,TX,Connie Scott,Republican,0,,False,False
+55870,TX,Balde Alvarado,Republican,0,,False,False
+55870,TX,Susana Salazar Contreras,Democratic,0,,False,False
+56051,TX,Jeff Barry,Republican,36431,50.863,True,True
+56051,TX,Karen Reeder,Democratic,35195,49.137,False,False
+162673,TX,Steven Jumes,Republican,0,,False,True
+162448,TX,Constance Filley Johnson,Republican,0,,False,True
+162799,TX,Nicole Collier,Democratic,43569,100.0,True,True
+162404,TX,"Antonia ""Toni"" Arteaga",Democratic,0,,False,False
+162404,TX,Bert Richardson,Republican,0,,False,False
+162787,TX,Joe Moody,Democratic,43104,100.0,True,True
+162562,TX,Travis Kitchens,Republican,0,,False,True
+162529,TX,Russell Wilson,Republican,0,,False,True
+56061,TX,Donna Howard,Democratic,72316,75.918,True,True
+56061,TX,Anthony Gupta,Republican,22939,24.082,False,False
+162459,TX,Amy Wren,Republican,0,,False,True
+162618,TX,Paul R. Rotenberry,Republican,0,,False,True
+162574,TX,Gary L. Steel,Republican,0,,False,True
+56110,TX,Walter Bryant,Democratic,0,,False,False
+56110,TX,Susan Werner,Republican,0,,False,False
+56084,TX,Bryan Hughes,Republican,229588,71.608,True,True
+56084,TX,Laticia Ambroz,Democratic,91032,28.392,False,False
+162503,TX,Lance Long,Republican,0,,False,True
+162503,TX,Julia Maldonado,Democratic,0,,False,False
+162470,TX,John L. Pool,Republican,0,,False,True
+162629,TX,Cynthia Garza,Democratic,0,,False,False
+162585,TX,Kathryn H. Gurley,Republican,0,,False,True
+55929,TX,Lori Ann Deangelo,Republican,0,,False,True
+55929,TX,Tiffany M. Hill,Democratic,0,,False,False
+162743,TX,Staci Childs,Democratic,36339,85.391,True,False
+162743,TX,Scott Whitmarsh,Republican,6217,14.609,False,False
+162418,TX,Jennifer Tharp,Republican,0,,False,True
+162801,TX,Armin Mizani,Republican,51885,59.891,True,False
+162801,TX,Cate Brennan,Democratic,34747,40.109,False,False
+162576,TX,Stacey Mathews,Republican,0,,False,True
+162735,TX,Barbara Gervin Hawkins,Democratic,37740,100.0,True,True
+56101,TX,Andy Griffin,Democratic,0,,False,False
+56101,TX,Cynthia Terry,Republican,0,,False,True
+55883,TX,Angela Dees,Republican,0,,False,False
+55883,TX,Steve Sanders,Democratic,0,,False,False
+162505,TX,Kristina Escalona,Democratic,0,,False,True
+162664,TX,Stephanie Bascon,Republican,0,,False,True
+162428,TX,Pam Guenther,Republican,0,,False,True
+162587,TX,Rose Sosa,Democratic,0,,False,True
+162554,TX,Kennon Lily Wooten,Democratic,0,,False,False
+56086,TX,Lois Kolkhorst,Republican,196464,54.265,True,True
+56086,TX,Erica Gillum,Democratic,165584,45.735,False,False
+56053,TX,Todd Hunter,Republican,39914,60.353,True,True
+56053,TX,Gabriel Marroquin,Democratic,26220,39.647,False,False
+162451,TX,John Gillespie,Republican,0,,False,True
+55976,TX,Charles Schultz,Republican,0,,False,False
+55976,TX,Velma Veliz,Democratic,0,,False,False
+162790,TX,Holly Jeffreys,Republican,47159,75.748,True,False
+162790,TX,Cullin Knutson,Democratic,15099,24.252,False,False
+162757,TX,Matt Morgan,Republican,36853,50.075,False,True
+162757,TX,"Elizabeth ""Eliz"" Markowitz",Democratic,36743,49.925,False,False
+56090,TX,Kevin Sparks,Republican,163490,73.146,True,True
+56090,TX,John Betancourt,Democratic,60021,26.854,False,False
+55872,TX,Kris Coons,Republican,0,,False,False
+55872,TX,Michelle Lowe Solis,Democratic,0,,False,False
+162686,TX,Pete Rusek,Republican,0,,False,True
+55998,TX,William Bedford,Republican,0,,False,False
+55998,TX,Israel Campos,Democratic,0,,False,False
+162737,TX,Diego Bernal,Democratic,44640,100.0,True,True
+162519,TX,Tammy Kemp,Democratic,0,,False,True
+162678,TX,Susan Kelly,Republican,0,,False,True
+162475,TX,Tonya Parker,Democratic,0,,False,True
+162442,TX,Greg Magee,Republican,0,,False,False
+55978,TX,Brandon Wayne Barrera,Republican,0,,False,False
+55978,TX,Albert Munoz,Democratic,0,,False,False
+162568,TX,Jason Cashon,Republican,0,,False,True
+162556,TX,Raquel West,Republican,0,,False,True
+56092,TX,Cindy Stormer,Democratic,0,,False,False
+56092,TX,Sherri Wagner,Republican,0,,False,False
+162497,TX,Gina Long,Republican,0,,False,False
+56022,TX,Rhetta Andrews Bowers,Democratic,37645,67.319,True,True
+56022,TX,Stephen Stanley,Republican,18275,32.681,False,False
+162420,TX,Cristian Caballero,Republican,0,,False,False
+162579,TX,Chris Carmona,Republican,0,,False,False
+162579,TX,Christine Weems,Democratic,0,,False,True
+55912,TX,Pete Jasso Martinez,Democratic,0,,False,False
+55912,TX,Sabino Mena Jr.,Republican,0,,False,False
+162726,TX,Jessica Gonzalez,Democratic,35234,100.0,True,True
+162508,TX,Vance Christopher,Republican,0,,False,False
+162508,TX,"Tamika ""Tami"" Craft",Democratic,0,,False,True
+162464,TX,Staci Williams,Democratic,0,,False,True
+56000,TX,Debbie Zan,Republican,0,,False,False
+56000,TX,Fredrick Webber,Democratic,0,,False,False
+162814,TX,J. Brian Williams,Republican,0,,False,False
+55934,TX,Joe Radler,Republican,0,,False,False
+55934,TX,Germaine Janet Tanner,Democratic,0,,False,True
+56115,TX,Margie Ramirez Ibarra,Democratic,0,,False,False
+56115,TX,Oscar Romanos,Republican,0,,False,False
+162647,TX,Cyndi McCrann Wheless,Republican,0,,False,True
+162806,TX,David Cook,Republican,186493,55.958,True,False
+162806,TX,Amy Martinez-Salas,Democratic,146780,44.042,False,False
+162795,TX,David Lowe,Republican,33047,52.633,True,True
+162795,TX,Yisak Worku,Democratic,29741,47.367,False,False
+162570,TX,Brendetta Scott,Democratic,0,,False,False
+162570,TX,Steve Rogers,Republican,0,,False,True
+55914,TX,Paul M. Sullivan,Republican,0,,False,False
+55914,TX,Rabeea Collier,Democratic,0,,False,True
+162511,TX,Bridgett Whitmore,Democratic,0,,False,True
+55877,TX,Adrienne Bell,Democratic,0,,False,False
+55877,TX,Joyce Hudman,Republican,0,,False,False
+162499,TX,Mitch Templeton,Republican,0,,False,True
+162466,TX,Janet L. Leal,Democratic,0,,False,True
+162625,TX,Juan A. Magallanes,Democratic,0,,False,True
+55958,TX,Janie Flores,Republican,0,,False,False
+55958,TX,Beth Smith,Democratic,0,,False,False
+56117,TX,Johnnie Falcon,Republican,0,,False,False
+56117,TX,Jessica Rosas,Democratic,0,,False,False
+162522,TX,Tracie Wright Reneau,Republican,0,,False,True
+56047,TX,Janis Holt,Republican,48367,72.187,True,True
+56047,TX,Valorie Barton,Democratic,18635,27.813,False,False
+162669,TX,Dee Johnson,Republican,0,,False,True
+55981,TX,Geneva Guerra Garcia,Republican,0,,False,False
+55981,TX,Benjie Ham Moya,Democratic,0,,False,False
+162400,TX,David Hall,Republican,0,,False,True
+55936,TX,Paul Coselli,Republican,0,,False,False
+55936,TX,Sonia Lopez,Democratic,0,,False,False
+55903,TX,Juli Luke,Republican,0,,False,False
+55903,TX,Dale Frey,Democratic,0,,False,False
+56058,TX,Richard Peña Raymond,Democratic,30636,71.268,True,True
+56058,TX,Teresa Johnson-Hernandez,Republican,12351,28.732,False,False
+162680,TX,Gary D. Young,Republican,0,,False,True
+162742,TX,Tom Oliverson,Republican,46763,58.562,True,False
+162742,TX,Brett Robinson,Democratic,33089,41.438,False,False
+162731,TX,Toni Rose,Democratic,32350,100.0,True,True
+162513,TX,Etta Jeanette Mullin,Democratic,0,,False,False
+56049,TX,Ray Callas,Republican,45987,72.503,True,False
+56049,TX,"Jacqueline ""Jacky"" Hernandez",Democratic,17441,27.497,False,False
+162639,TX,Eli Garza,Republican,0,,False,True
+162436,TX,Kerri Anderson Donica,Republican,0,,False,False
+188183,TX,Amy Martinez-Salas,Democratic,68694,64.361,False,False
+188183,TX,David Cook,Republican,38039,35.639,True,False
+162402,TX,Sarah Beth Landau,Democratic,0,,False,False
+162402,TX,Kevin Jewell,Republican,0,,False,False
+162561,TX,Sandra Peake,Democratic,0,,False,True
+55894,TX,Michael Pina,Democratic,0,,False,False
+55894,TX,James Walker,Republican,0,,False,False
+56060,TX,Erin Zwiener,Democratic,62261,67.948,True,True
+56060,TX,Tennyson Moreno,Republican,29370,32.052,False,False
+162458,TX,Chika Anyiam,Democratic,0,,False,True
+162414,TX,Fred H. Weber,Democratic,0,,False,True
+55950,TX,Xavier Alfaro,Republican,0,,False,False
+55950,TX,Toria J. Finch,Democratic,0,,False,False
+55917,TX,Greg Travis,Republican,0,,False,False
+55917,TX,Donna Roth,Democratic,0,,False,True
+56097,TX,Fred Howey,Democratic,0,,False,False
+56097,TX,Amy Allin,Republican,0,,False,True
+56071,TX,David Spiller,Republican,61765,82.788,True,True
+56071,TX,Jasmine Henderson,Democratic,12841,17.212,False,False
+56038,TX,Senfronia Thompson,Democratic,31530,86.934,True,True
+56038,TX,Julie Hunt,Republican,4739,13.066,False,False
+162425,TX,Madison Hood,Republican,0,,False,False
+162808,TX,Trent Ashby,Republican,211888,69.493,True,False
+162808,TX,Bobby Tillman,Democratic,93016,30.507,False,False
+162775,TX,Helen Kerwin,Republican,49133,67.778,True,True
+162775,TX,Chris Oldham,Democratic,23358,32.222,False,False
+162685,TX,Denn Whalen,Republican,0,,False,True
+56019,TX,Rafael Anchía,Democratic,37886,77.76,True,True
+56019,TX,Melanie Medley-Thomas,Republican,10836,22.24,False,False
+162641,TX,Art Clayton,Republican,0,,False,False
+162416,TX,Courtney Golden,Republican,0,,False,False
+162767,TX,Alan Schoolcraft,Republican,42690,56.733,True,True
+162767,TX,Eric Norman,Democratic,32557,43.267,False,False
+55941,TX,Anna Emmons,Republican,0,,False,False
+55941,TX,Ashley Mayes Guice,Democratic,0,,False,False
+162755,TX,Terri Leo Wilson,Republican,38044,56.015,True,True
+162755,TX,Cheryl Lynn Clark,Democratic,29873,43.985,False,False
+56099,TX,Courtney Miller,Democratic,0,,False,False
+56099,TX,Lee Sorrells,Republican,0,,False,False
+162504,TX,Heather Hudson,Republican,0,,False,False
+162504,TX,"Katherine ""Kat"" Thomas",Democratic,0,,False,True
+56029,TX,Zack Dunn,Democratic,46622,54.105,True,False
+56029,TX,Marc LaHood,Republican,39547,45.895,False,True
+162427,TX,"Toribio ""Terry"" Palacios",Democratic,0,,False,True
+162427,TX,Lydia Elizondo,Republican,0,,False,False
+162586,TX,Cynthia Marie Chapa,Democratic,0,,False,True
+56111,TX,Joni Deorsam,Republican,0,,False,False
+56111,TX,Jaclyn Lara Gonzales,Democratic,0,,False,False
+56085,TX,Taylor Rehmet,Democratic,175751,51.279,True,False
+56085,TX,Leigh Wambsganss,Republican,166983,48.721,False,False
+56052,TX,Ryan Guillen,Republican,33740,62.032,True,True
+56052,TX,Jennifer Dominguez,Democratic,20651,37.968,False,False
+162471,TX,Taryn Minter,Republican,0,,False,False
+162630,TX,Billy Eichman,Republican,0,,False,True
+162597,TX,Danielle Clark,Democratic,0,,False,False
+56122,TX,John Akin,Republican,0,,False,False
+56122,TX,Mark Hurd,Democratic,0,,False,False
+162744,TX,Ann Johnson,Democratic,60078,66.845,True,True
+162744,TX,Mike Michna,Republican,29799,33.155,False,False
+162718,TX,Tiffany Perkinz,Democratic,0,,False,False
+162718,TX,Julie Pickren,Republican,0,,False,True
+55955,TX,Amy Strickling,Republican,0,,False,False
+55955,TX,Samantha Y. Davis,Democratic,0,,False,False
+162769,TX,Pooja Sethi,Democratic,57543,63.35,True,False
+162769,TX,Jennifer Mushtaler,Republican,33291,36.65,False,False
+56113,TX,Michelle Fagan,Republican,0,,False,False
+56113,TX,Aaron D. Rodriguez,Democratic,0,,False,False
+162710,TX,Laura Pratt,Republican,0,,False,False
+56076,TX,Claudia Ordaz,Democratic,38220,71.71,True,True
+56076,TX,Jesus Romero,Republican,15078,28.29,False,False
+162698,TX,Michael Davis,Republican,0,,False,True
+162473,TX,"Pedro Gomez, Jr",Democratic,0,,False,True
+55977,TX,Tamera Meyers-Rodriguez,Republican,0,,False,False
+55977,TX,Alex M. Mata,Democratic,0,,False,False
+55965,TX,Roxanne Acosta-Hellberg,Republican,0,,False,False
+55965,TX,Carolyn L. Guidry,Democratic,0,,False,False
+56124,TX,Jerry Gaskill,Republican,0,,False,False
+56124,TX,Carlist R Brinkley,Democratic,0,,False,False
+56091,TX,Tiffany Burks,Democratic,0,,False,False
+56091,TX,Phil Sorrels,Republican,0,,False,True
+55862,TX,Cary D. Kirby,Republican,0,,False,False
+55862,TX,Joe Douglas III,Democratic,0,,False,False
+56021,TX,Joanne Shofner,Republican,44012,70.767,True,True
+56021,TX,Roxanne Lathan,Democratic,18181,29.233,False,False
+162419,TX,Amber Givens,Democratic,0,,False,False
+162791,TX,Ken King,Republican,36488,78.054,True,True
+162791,TX,Heather J. Wallace,Democratic,10259,21.946,False,False
+162758,TX,Ron Reynolds,Democratic,60640,76.233,True,True
+162758,TX,Max Alalibo,Republican,18906,23.767,False,False
+162533,TX,Erin Odle-Baird,Republican,0,,False,False
+56065,TX,Amelia Rabroker,Democratic,30506,50.366,False,False
+56065,TX,Hillary Hickland,Republican,30063,49.634,False,True
+162687,TX,"James ""JD"" Chandler",Republican,0,,False,False
+162654,TX,Grant Kinsey,Republican,0,,False,True
+162813,TX,Katherine McDaniel,Republican,0,,False,True
+162712,TX,Tiffany Clark,Democratic,0,,False,True
+162712,TX,Carlos (Charlie) Garza,Republican,0,,False,False
+162487,TX,Monique Diaz,Democratic,0,,False,True
+162646,TX,Ryan Luna,Republican,0,,False,True
+162635,TX,Jonathan Richey,Republican,0,,False,False
+162410,TX,Brandy Robinson,Republican,0,,False,True
+162793,TX,Rocky Thigpen,Republican,49899,73.945,True,False
+162793,TX,Shelley Tatum,Democratic,17582,26.055,False,False
+56105,TX,Christopher Gregory,Republican,0,,False,False
+56105,TX,Rodney Lee,Democratic,0,,False,False
+56093,TX,John Brender,Democratic,0,,False,False
+56093,TX,Andy Porter,Republican,0,,False,True
+56067,TX,Shelley Luther,Republican,52697,73.538,True,False
+56067,TX,Catherine Thorne,Democratic,18963,26.462,False,False
+162465,TX,Jeff M. Addison,Republican,0,,False,True
+55990,TX,Sholanda Forney Sanders,Democratic,0,,False,False
+55990,TX,Kerry Williamson,Republican,0,,False,False
+55957,TX,Chad Graff,Republican,0,,False,False
+55957,TX,Zephaniah Timmins,Democratic,0,,False,False
+56116,TX,Britt Ferguson,Republican,0,,False,False
+56116,TX,Greg Tyra,Democratic,0,,False,False
+162727,TX,Terry Meza,Democratic,30307,100.0,True,True
+162509,TX,Elizabeth Ginsberg,Democratic,0,,False,False
+162476,TX,Susan Barclay,Republican,0,,False,True
+162432,TX,Nicole Short Bishop,Republican,0,,False,True
+162815,TX,Leslie Booker,Democratic,0,,False,False
+162815,TX,Sarah Moore,Republican,0,,False,False
+162782,TX,Mihaela Elizabeth Plesa,Democratic,37948,58.321,True,True
+162782,TX,George Flint,Republican,27120,41.679,False,False
+55902,TX,Corsandra Brigham Phelps,Republican,0,,False,False
+55902,TX,Pauline Medrano,Democratic,0,,False,False
+55891,TX,Ricardo Alejandro,Republican,0,,False,False
+55891,TX,Mary Esther Sorola,Democratic,0,,False,False
+162615,TX,Robert Wilson,Republican,0,,False,True
+162774,TX,Pat Curry,Republican,42125,61.029,True,True
+162774,TX,Ashley Bean Thornton,Democratic,26899,38.971,False,False
+162763,TX,"Oziel ""Ozzie"" Ochoa, Jr",Democratic,28247,57.982,True,False
+162763,TX,Janie Lopez,Republican,20470,42.018,False,False
+56107,TX,Tom Baker,Democratic,0,,False,False
+56107,TX,Scott K. Field,Republican,0,,False,True
+162729,TX,Linda Garcia,Democratic,31564,100.0,True,True
+162479,TX,Jeth Jones,Republican,0,,False,True
+162692,TX,Casey Blair,Republican,0,,False,True
+162467,TX,Jack W. Pulcher,Republican,0,,False,True
+162434,TX,Courtney Smith Cain,Republican,0,,False,True
+162401,TX,Brian Hoyle,Republican,0,,False,False
+55926,TX,Nathan Moss,Republican,0,,False,False
+55926,TX,Lori Chambers Gray,Democratic,0,,False,True
+55893,TX,Stacey Kemp,Republican,0,,False,False
+55893,TX,John Russell,Democratic,0,,False,False
+56059,TX,J.M. Lozano,Republican,31562,58.951,True,True
+56059,TX,Jeffrey Jackson,Democratic,21977,41.049,False,False
+56015,TX,Brent Money,Republican,54319,75.571,True,True
+56015,TX,Fatima La'Juan Muse,Democratic,17559,24.429,False,False
+55982,TX,Anna Gabriela Derbez,Republican,0,,False,False
+55982,TX,Kina Mancha,Democratic,0,,False,False
+162796,TX,Salman Bhojani,Democratic,30583,66.956,True,True
+162796,TX,JP Woodruff,Republican,15093,33.044,False,False
+55937,TX,John Donovan,Republican,0,,False,False
+55937,TX,M. Monica Singh,Democratic,0,,False,False
+55904,TX,Andy Eads,Republican,0,,False,False
+55904,TX,Nick Pappas,Democratic,0,,False,False
+55878,TX,David Linder,Republican,0,,False,False
+55878,TX,Becky Singleton,Democratic,0,,False,False
+56026,TX,Philip Cortez,Democratic,44893,69.295,True,True
+56026,TX,Ben Mostyn,Republican,19892,30.705,False,False
+162648,TX,Catherine A. Mauzy,Democratic,0,,False,True
+162717,TX,Michelle Palmer,Democratic,0,,False,False
+162717,TX,Tiffany Nelson,Republican,0,,False,False
+162706,TX,Amanda Reichek,Democratic,0,,False,False
+162706,TX,Matthew Kolodoski,Republican,0,,False,False
+162481,TX,Laura Beth Fossett,Republican,0,,False,False
+56017,TX,Daniel Alders,Republican,44428,64.215,True,True
+56017,TX,Lorenzo Johnson,Democratic,24758,35.785,False,False
+162607,TX,Michelle Moore,Democratic,0,,False,True
+55973,TX,Matt Benacci,Republican,0,,False,False
+55973,TX,Jesse Terrazas Jr.,Democratic,0,,False,False
+162595,TX,Karen R. Sage,Democratic,0,,False,True
+55939,TX,Bao Hoang,Republican,0,,False,False
+55939,TX,Juanita A. Jackson,Democratic,0,,False,False
+56098,TX,Ryan Hill,Republican,0,,False,False
+56098,TX,Marquetta Clayton,Democratic,0,,False,False
+55869,TX,Larry Dunne,Republican,0,,False,False
+55869,TX,Rachel Turman-Smith,Democratic,0,,False,False
+56028,TX,Trey Wharton,Republican,51090,70.247,True,True
+56028,TX,Andie Ho,Democratic,21639,29.753,False,False
+162426,TX,Alfonso O. Salazar,Democratic,0,,False,False
+162426,TX,Kirsta Melton,Independent,0,,False,False
+55951,TX,Loyd H. Wright,Republican,0,,False,False
+55951,TX,Jerry Simoneaux,Democratic,0,,False,False
+55918,TX,Nile Copeland,Republican,0,,False,False
+55918,TX,Latosha Lewis Payne,Democratic,0,,False,True
+162732,TX,Yvonne Davis,Democratic,52018,100.0,True,True
+56072,TX,James Frank,Republican,38766,71.797,True,True
+56072,TX,Leilani Barnett,Democratic,15228,28.203,False,False
+56039,TX,Ana Hernandez,Democratic,27157,77.778,True,True
+56039,TX,Frank Salazar,Republican,7759,22.222,False,False
+162437,TX,Courtney Tracy Ponthier,Republican,0,,False,True
+55962,TX,Ray Lewis,Democratic,0,,False,False
+55962,TX,Steve Smith,Republican,0,,False,False
+162776,TX,Shelby Slawson,Republican,49009,74.688,True,True
+162776,TX,Andrew Turner,Democratic,16609,25.312,False,False
+162551,TX,Angela Graves-Harrington,Democratic,0,,False,True
+55987,TX,James Beauchamp,Republican,0,,False,False
+55987,TX,Rebecca Torres,Democratic,0,,False,False
+162609,TX,James Mosley,Republican,0,,False,True
+55953,TX,Ronald Schramm,Republican,0,,False,False
+55953,TX,Jason Cox,Democratic,0,,False,False
+162543,TX,Les Hatch,Republican,0,,False,True
+55909,TX,Cinnamon Archibald,Republican,0,,False,False
+55909,TX,Karen Malone Daniels,Democratic,0,,False,False
+162531,TX,Shaun Carpenter,Republican,0,,False,False
+56074,TX,Carrie Isaac,Republican,73350,65.067,True,True
+56074,TX,Merrie Fox,Democratic,39380,34.933,False,False
+162472,TX,"Jesus ""Chuy"" Dominguez",Democratic,0,,False,False
+55997,TX,Michelle Eggleston,Republican,0,,False,False
+55997,TX,Jerri Glover,Democratic,0,,False,False
+55964,TX,Luke Nichols,Republican,0,,False,False
+55964,TX,Jr. John B. Stevens,Democratic,0,,False,False
+56123,TX,Kathy Wakeman,Republican,0,,False,False
+56123,TX,Kelly Wishart,Democratic,0,,False,False
+55887,TX,Rob Ortiz,Republican,0,,False,False
+55887,TX,Dyral Thomas,Democratic,0,,False,False
+55861,TX,Kermit A. Kennedy,Democratic,0,,False,False
+55861,TX,Donnie G. Puckett,Republican,0,,False,False
+56020,TX,Aicha Davis,Democratic,54172,83.926,True,True
+56020,TX,Will Campbell,Republican,10375,16.074,False,False
+162631,TX,Amado Abascal,Democratic,0,,False,True
+162598,TX,Sandra Jackson,Democratic,0,,False,True
+162565,TX,Daniella Deseta Lyttle,Democratic,0,,False,True
+55898,TX,Michael Davis,Republican,0,,False,False
+55898,TX,Beth Gary,Democratic,0,,False,False
+162719,TX,Dana Van De Walker,Democratic,0,,False,False
+162719,TX,Audrey G. Young,Republican,0,,False,True
+162494,TX,Aiesha Redmond,Democratic,0,,False,True
+162653,TX,Joel Perez,Democratic,0,,False,True
+162545,TX,Greg Hill,Republican,0,,False,True
+55889,TX,Andrew Infante,Republican,0,,False,False
+55889,TX,Benito Ochoa,Democratic,0,,False,False
+162486,TX,Jessica Pulcher,Republican,0,,False,True
+56044,TX,Brad Bailey,Republican,45484,56.87,True,False
+56044,TX,Moniqua' Scott,Democratic,31979,39.984,False,False
+56044,TX,Jessi Cowart,Libertarian,2516,3.146,False,False
+162666,TX,"Cornell D. ""Cory"" Curtis",Republican,0,,False,True
+162633,TX,Brent Hill,Republican,0,,False,True
+55945,TX,Leslie R. Johnson,Republican,0,,False,False
+55945,TX,Carlos Alberto Aguayo,Democratic,0,,False,False
+55933,TX,Melissa Fertel,Republican,0,,False,False
+55933,TX,Linda Marie Dunson,Democratic,0,,False,True
+55900,TX,Dave Muehlhaeusler,Republican,0,,False,False
+55900,TX,Felicia Pitre,Democratic,0,,False,False
+56066,TX,Richard Hayes,Republican,40357,50.615,True,True
+56066,TX,Ray Stith,Democratic,37468,46.992,False,False
+56066,TX,Darren Hamilton,Libertarian,1908,2.393,False,False
+162677,TX,Joe Lopez,Democratic,0,,False,True
+55989,TX,Sandy McCorvey,Democratic,0,,False,False
+55989,TX,Gary Woods,Republican,0,,False,False
+55956,TX,Leashondria Y. Harden,Democratic,0,,False,False
+55956,TX,Heather Henigan,Republican,0,,False,False
+162759,TX,Sandy Ibanez,Democratic,45550,50.901,True,False
+162759,TX,Gary Gates,Republican,43937,49.099,False,True
+162534,TX,Franklin McDonough,Republican,0,,False,False
+56077,TX,Brooks Landgraf,Republican,22297,67.538,True,True
+56077,TX,Ceasar Sanchez,Democratic,10717,32.462,False,False
+56033,TX,Sara McGee,Democratic,45596,53.806,True,False
+56033,TX,Mike Schofield,Republican,39145,46.194,False,True
+162655,TX,Jeffrey Todd Robnett,Republican,0,,False,True
+162622,TX,Tamika Jones,Democratic,0,,False,False
+162781,TX,Jay Dean,Republican,43758,67.326,True,True
+162781,TX,Fantasha Allen,Democratic,21236,32.674,False,False
+55923,TX,Caroline Dozier,Republican,0,,False,True
+55923,TX,Alyson Almaguer,Democratic,0,,False,False
+87422,TX,Bobby Pulido,Democratic,126395,62.334,True,False
+87422,TX,Monica De La Cruz,Republican,76375,37.666,False,True
+87425,TX,Christian Menefee,Democratic,193768,86.04,True,False
+87425,TX,Ronald Whitfield,Republican,31438,13.96,False,False
+87435,TX,Johnny Garcia,Democratic,140973,55.483,True,False
+87435,TX,Carlos De La Cruz,Republican,113112,44.517,False,False
+56006,TX,Chris Gober,Republican,161425,53.762,True,False
+56006,TX,Caitlin Rourk,Democratic,138832,46.238,False,False
+87423,TX,Veronica Escobar,Democratic,139555,70.798,True,True
+87423,TX,Adam Bauman,Republican,57562,29.202,False,False
+87426,TX,Tom Sell,Republican,154079,69.482,True,False
+87426,TX,Kyle Rable,Democratic,67674,30.518,False,False
+87411,TX,Nathaniel Moran,Republican,181987,69.043,True,True
+87411,TX,Yolanda Prince,Democratic,81598,30.957,False,False
+56007,TX,Mark Teixeira,Republican,194898,54.453,True,False
+56007,TX,Kristin Hook,Democratic,163021,45.547,False,False
+87424,TX,Pete Sessions,Republican,143558,53.561,True,True
+87424,TX,Casey Shepard,Democratic,124469,46.439,False,False
+87427,TX,Joaquin Castro,Democratic,151058,77.617,True,True
+87427,TX,Edgardo Baez,Republican,43562,22.383,False,False
+87412,TX,Steve Toth,Republican,144881,50.967,True,False
+87412,TX,Shaun Finnie,Democratic,139384,49.033,False,False
+56008,TX,Trever Nehls,Republican,150520,51.79,True,False
+56008,TX,Marquette Greene-Scott,Democratic,140115,48.21,False,False
+56011,TX,Henry Cuellar,Democratic,113433,65.759,True,True
+56011,TX,Tano Tijerina,Republican,51126,29.639,False,False
+56011,TX,Marlón Durán,Green,7939,4.602,False,False
+87428,TX,Katy Padilla Stout,Democratic,143130,52.17,True,False
+87428,TX,Brandon Herrera,Republican,120566,43.945,False,False
+87428,TX,Ben Mendoza,Independent,10658,3.885,False,False
+87413,TX,Keith Self,Republican,169276,52.74,True,True
+87413,TX,Evan Hunt,Democratic,151689,47.26,False,False
+56009,TX,Brandon Gill,Republican,183221,54.508,True,True
+56009,TX,Steven Shook,Democratic,148596,44.207,False,False
+56009,TX,Phil Gray,Libertarian,4317,1.284,False,False
+56012,TX,John Carter,Republican,164167,53.762,True,True
+56012,TX,Justin Early,Democratic,136961,44.852,False,False
+56012,TX,Greg Stoker,Green,4232,1.386,False,False
+87436,TX,Greg Casar,Democratic,254957,83.75,True,False
+87436,TX,Lauren Peña,Republican,49469,16.25,False,False
+87414,TX,Lance Gooden,Republican,130395,51.451,True,True
+87414,TX,Chelsey Hockett,Democratic,123041,48.549,False,False
+56010,TX,Michael Cloud,Republican,144627,51.139,True,True
+56010,TX,Tanya Lloyd,Democratic,138072,48.821,False,False
+56010,TX,Write-in,Nonpartisan,89,0.031,False,False
+56010,TX,Wayne Raasch,Write-In,22,0.008,False,False
+56013,TX,Vicente Gonzalez,Democratic,112667,55.598,True,True
+56013,TX,Eric Flores,Republican,80572,39.76,False,False
+56013,TX,Eddie Espinoza,Green,4740,2.339,False,False
+56013,TX,Chris Royal,Libertarian,4666,2.303,False,False
+87437,TX,Jon Bonck,Republican,157590,51.521,True,False
+87437,TX,Melissa McDonough,Democratic,144833,47.35,False,False
+87437,TX,Alex McMenemy,Green,3455,1.13,False,False
+87415,TX,Jake Ellzey,Republican,140111,52.148,True,True
+87415,TX,Danny Minton,Democratic,128566,47.852,False,False
+87418,TX,August Pfluger,Republican,138627,59.502,True,True
+87418,TX,Claire Reynolds,Democratic,94353,40.498,False,False
+56014,TX,Brian Babin,Republican,138121,53.542,True,True
+56014,TX,Rhonda Hart,Democratic,119848,46.458,False,False
+87438,TX,James Talarico,Democratic,5458693,55.055,True,False
+87438,TX,Ken Paxton,Republican,4256003,42.925,False,False
+87438,TX,Ted Brown,Libertarian,190604,1.922,False,False
+87438,TX,Write-in,Nonpartisan,4488,0.045,False,False
+87438,TX,Avery Ayers,Write-In,2046,0.021,False,False
+87438,TX,Jade Simmons,Write-In,1746,0.018,False,False
+87438,TX,"Bradford ""Brad"" Hall",Write-In,1265,0.013,False,False
+87438,TX,Zul Mohamed,Write-In,186,0.002,False,False
+87438,TX,Brad Hall,Nonpartisan,15,0.0,False,False
+87416,TX,Lizzie Fletcher,Democratic,161126,70.86,True,True
+87416,TX,Alexander Hale,Republican,62600,27.53,False,False
+87416,TX,Espoir Ngabo,Green,3662,1.61,False,False
+87419,TX,Craig Goldman,Republican,144714,53.098,True,True
+87419,TX,Angela Rodriguez Prilliman,Democratic,127828,46.902,False,False
+87429,TX,Beth Van Duyne,Republican,172011,53.397,True,True
+87429,TX,Kevin Burge,Democratic,150125,46.603,False,False
+87432,TX,Frederick Haynes III,Democratic,187119,82.641,True,False
+87432,TX,Everett Jackson,Republican,39306,17.359,False,False
+87417,TX,Leticia Gutierrez,Democratic,98269,57.564,True,False
+87417,TX,Alex Mealer,Republican,72445,42.436,False,False
+87420,TX,Ronny Jackson,Republican,158206,65.215,True,True
+87420,TX,Mark Nair,Democratic,84385,34.785,False,False
+87430,TX,Roger Williams,Republican,142827,53.713,True,True
+87430,TX,Dione Sims,Democratic,123079,46.287,False,False
+87433,TX,Jace Yarbrough,Republican,142977,51.445,True,False
+87433,TX,Dan Barrios,Democratic,134945,48.555,False,False
+56004,TX,Pat Fallon,Republican,171745,56.041,True,True
+56004,TX,Jason Pearce,Democratic,134720,43.959,False,False
+87421,TX,Randy Weber,Republican,152776,53.995,True,True
+87421,TX,Thurman Bartie,Democratic,130169,46.005,False,False
+87431,TX,Sylvia Garcia,Democratic,134277,79.939,True,True
+87431,TX,Martha Fierro,Republican,33698,20.061,False,False
+87434,TX,Colin Allred,Democratic,151093,78.412,True,False
+87434,TX,Patrick Gillespie,Republican,41198,21.38,False,False
+87434,TX,Write-in,Nonpartisan,348,0.181,False,False
+87434,TX,Michelle Craig,Write-In,52,0.027,False,False
+56005,TX,Jessica Steinmann,Republican,141874,53.193,True,False
+56005,TX,Laura Jones,Democratic,124840,46.807,False,False

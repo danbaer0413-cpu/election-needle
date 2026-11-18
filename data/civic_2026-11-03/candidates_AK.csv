@@ -1,0 +1,184 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+159500,AK,Republican,Republican,129533,48.922,False,False
+159500,AK,Democratic,Democratic,80695,30.477,False,False
+159500,AK,Nonpartisan,Nonpartisan,50550,19.092,False,False
+159500,AK,Independent,Independent,3721,1.405,False,False
+159500,AK,Libertarian,Libertarian,278,0.105,False,False
+148949,AK,Yes,Nonpartisan,143413,60.21,False,False
+148949,AK,No,Nonpartisan,94774,39.79,False,False
+148898,AK,"Jonathan S. ""JKT"" Kreiss-Tomkins",Democratic,145268,51.22,True,False
+148898,AK,Bernadette M. Wilson,Republican,79269,27.949,False,False
+148898,AK,Dave Bronson,Republican,38721,13.653,False,False
+148898,AK,Treg Taylor,Republican,20358,7.178,False,False
+159501,AK,Republican,Republican,75836,61.277,False,False
+159501,AK,Democratic,Democratic,40392,32.638,False,False
+159501,AK,Nonpartisan,Nonpartisan,4760,3.846,False,False
+159501,AK,Independent,Independent,2771,2.239,False,False
+179833,AK,Yes,Nonpartisan,187871,68.242,True,False
+179833,AK,No,Nonpartisan,87429,31.758,False,False
+179832,AK,No,Nonpartisan,147831,53.806,True,False
+179832,AK,Yes,Nonpartisan,126919,46.194,False,False
+148966,AK,Yes,Nonpartisan,72202,59.55,False,False
+148966,AK,No,Nonpartisan,49044,40.45,False,False
+148957,AK,Yes,Nonpartisan,68894,56.692,False,False
+148957,AK,No,Nonpartisan,52630,43.308,False,False
+148955,AK,Yes,Nonpartisan,72483,59.213,False,False
+148955,AK,No,Nonpartisan,49927,40.787,False,False
+148946,AK,George Rauscher,Republican,6766,41.231,False,True
+148946,AK,Ryan W. Sheldon,Republican,4845,29.525,False,False
+148946,AK,Peter Bauer,Democratic,4799,29.244,False,False
+148944,AK,Bill Wielechowski,Democratic,9198,100.0,True,True
+148935,AK,Brent Johnson,Nonpartisan,5087,50.292,False,False
+148935,AK,Sarah L. Vance,Republican,5028,49.708,False,True
+148965,AK,Yes,Nonpartisan,20427,62.665,False,False
+148965,AK,No,Nonpartisan,12170,37.335,False,False
+148963,AK,Yes,Nonpartisan,20205,62.11,False,False
+148963,AK,No,Nonpartisan,12326,37.89,False,False
+148954,AK,Yes,Nonpartisan,69562,57.096,False,False
+148954,AK,No,Nonpartisan,52272,42.904,False,False
+148952,AK,Yes,Nonpartisan,11937,66.587,False,False
+148952,AK,No,Nonpartisan,5990,33.413,False,False
+148943,AK,Löki Gale Tobin,Democratic,6804,100.0,True,True
+148941,AK,Cathy Giessel,Republican,10056,63.206,True,True
+148941,AK,Gretchen W. Stoddard,Republican,3823,24.029,False,False
+148941,AK,"Jason ""Jace"" White",Republican,2031,12.766,False,False
+148932,AK,Sara Hannan,Democratic,6356,100.0,True,True
+148930,AK,"Nellie ""Unangiq"" Jimmie",Democratic,1478,40.098,False,False
+148930,AK,CJ McCormick,Democratic,1034,28.052,False,False
+148930,AK,Willy Keppel,Republican,792,21.487,False,False
+148930,AK,Joseph R. Amik,Nonpartisan,382,10.364,False,False
+148921,AK,"Andrea ""Andi"" Story",Democratic,6076,66.791,True,False
+148921,AK,Annette Kreitzer,Republican,3021,33.209,False,False
+148919,AK,Stephen Wright,Republican,2649,37.644,False,False
+148919,AK,Elexie B. Moore,Republican,2439,34.66,False,True
+148919,AK,"Kathleen M. ""Kit"" Kennedy",Democratic,1949,27.696,False,False
+148910,AK,Rebecca Himschoot,Nonpartisan,4649,60.684,True,True
+148910,AK,"Kenny ""Kenny Karl"" Skaflestad",Republican,2653,34.63,False,False
+148910,AK,Alston C. Evans,Undeclared,359,4.686,False,False
+148940,AK,Louise B. Stutes,Republican,7338,50.385,False,False
+148940,AK,Heath Smith,Republican,5473,37.579,False,False
+148940,AK,Carrie L. Harris,Republican,1753,12.037,False,False
+148938,AK,Ky Holland,Nonpartisan,5812,55.879,True,True
+148938,AK,John C. Boyle,Republican,4589,44.121,False,False
+148929,AK,Evelynn M. Trefon,Democratic,1544,39.408,False,False
+148929,AK,Brenda L. Wilson,Republican,1090,27.82,False,False
+148929,AK,Mark Smith,Nonpartisan,972,24.809,False,False
+148929,AK,Cade J. Woods,Nonpartisan,312,7.963,False,False
+148927,AK,Ashley E. Carrick,Democratic,4912,60.53,True,True
+148927,AK,"Jeffrey L. ""Jeff"" Rentzel",Republican,3203,39.47,False,False
+148918,AK,Jubilee L. Underwood,Republican,3342,52.309,False,True
+148918,AK,David Eastman,Republican,3047,47.691,False,False
+148916,AK,DeLena M. Johnson,Republican,2975,35.472,False,True
+148916,AK,Michael Bowles,Republican,2716,32.383,False,False
+148916,AK,Steven L. Merritt,Nonpartisan,2696,32.145,False,False
+148907,AK,"William Z. ""Zack"" Fields",Democratic,4702,74.024,True,False
+148907,AK,Daniel L. Bradley,Republican,1650,25.976,False,False
+148905,AK,Denny Wells,Democratic,4415,54.099,True,False
+148905,AK,Mia Costello,Republican,3746,45.901,False,True
+148967,AK,No,Nonpartisan,71335,59.063,False,False
+148967,AK,Yes,Nonpartisan,49443,40.937,False,False
+148926,AK,"Joy E. ""Joy Beth"" Cottle",Nonpartisan,3927,51.664,False,False
+148926,AK,Harmony Tomaszewski,Republican,3674,48.336,False,False
+148924,AK,Will Stapp,Republican,2765,100.0,True,True
+148915,AK,Ken McCarty,Republican,3745,50.127,False,False
+148915,AK,Gina T. Wall,Republican,3726,49.873,False,False
+148913,AK,Ted J. Eischeid,Democratic,2729,63.465,True,True
+148913,AK,Jose Roel A. Tagle,Republican,1571,36.535,False,False
+148904,AK,Alyse S. Galvin,Nonpartisan,4880,83.849,True,True
+148904,AK,Russell O. Wyatt,Undeclared,940,16.151,False,False
+148902,AK,Calvin R. Schrage,Nonpartisan,4965,69.083,True,True
+148902,AK,"Jieun C. ""Jini"" McDonald",Republican,2222,30.917,False,False
+148964,AK,Yes,Nonpartisan,20791,63.917,False,False
+148964,AK,No,Nonpartisan,11737,36.083,False,False
+148962,AK,Yes,Nonpartisan,68492,55.772,False,False
+148962,AK,No,Nonpartisan,54315,44.228,False,False
+148953,AK,Yes,Nonpartisan,2854,60.736,False,False
+148953,AK,No,Nonpartisan,1845,39.264,False,False
+148951,AK,Yes,Nonpartisan,12692,72.746,False,False
+148951,AK,No,Nonpartisan,4755,27.254,False,False
+148942,AK,Elvi Gray-Jackson,Democratic,7838,66.9,True,True
+148942,AK,Nicholas Danger,Nonpartisan,3878,33.1,False,False
+148901,AK,Julie Coulombe,Republican,4306,50.772,False,True
+148901,AK,Danni M. Hall,Democratic,4175,49.228,False,False
+148899,AK,Jeremy T. Bynum,Republican,4002,58.775,True,True
+148899,AK,Grant EchoHawk,Nonpartisan,2807,41.225,False,False
+148961,AK,Yes,Nonpartisan,71235,57.744,False,False
+148961,AK,No,Nonpartisan,52129,42.256,False,False
+148959,AK,Yes,Nonpartisan,72451,59.479,False,False
+148959,AK,No,Nonpartisan,49359,40.521,False,False
+148950,AK,Yes,Nonpartisan,12204,70.158,False,False
+148950,AK,No,Nonpartisan,5191,29.842,False,False
+148948,AK,Bryce Edgmon,Undeclared,2771,36.663,False,False
+148948,AK,Darren Morgan Deacon,Republican,2006,26.541,False,False
+148948,AK,"Wassilie P. ""WG"" Guy",Democratic,1899,25.126,False,False
+148948,AK,"Richard ""Rick"" Robb",Nonpartisan,882,11.67,False,False
+148939,AK,Bert K. Stedman,Republican,11421,100.0,True,True
+148937,AK,"William H. ""Bill"" Elam",Republican,6348,74.446,True,False
+148937,AK,Nissa Savage,Nonpartisan,1614,18.928,False,False
+148937,AK,Frank Quinn,Nonpartisan,565,6.626,False,False
+148928,AK,Rebecca A. Schwanke,Republican,4450,58.437,True,True
+148928,AK,Crystal Jones,Nonpartisan,3165,41.563,False,False
+148958,AK,Yes,Nonpartisan,69389,56.572,False,False
+148958,AK,No,Nonpartisan,53268,43.428,False,False
+148956,AK,Yes,Nonpartisan,72635,59.249,False,False
+148956,AK,No,Nonpartisan,49957,40.751,False,False
+148947,AK,Frank Tomaszewski,Republican,9008,63.196,True,False
+148947,AK,William Hunt,Democratic,5246,36.804,False,False
+148945,AK,Cathy L. Tilton,Republican,5243,32.925,False,True
+148945,AK,Ryan Berry,Republican,5165,32.435,False,False
+148945,AK,Patricia R. Chesbro,Democratic,4608,28.937,False,False
+148945,AK,Zane Vrvilo,Republican,908,5.702,False,False
+148936,AK,Justin M. Ruffridge,Republican,5537,75.047,True,True
+148936,AK,Kate Veh,Democratic,1841,24.953,False,False
+148934,AK,Kathy C. Simpler,Nonpartisan,3511,58.487,True,False
+148934,AK,Sheldon R.J. Prout,Republican,2492,41.513,False,False
+148925,AK,"Glenn M. ""Mike"" Prax",Republican,2750,41.045,False,False
+148925,AK,Pepper McFarland,Undeclared,2076,30.985,False,False
+148925,AK,Barbara Haney,Republican,1874,27.97,False,False
+148923,AK,Maxine L. Dibert,Democratic,3296,59.667,True,True
+148923,AK,Aimée Moore,Republican,1950,35.301,False,False
+148923,AK,Jonathan Powell-Mark,Libertarian,278,5.033,False,False
+148914,AK,Jamie Allard,Republican,3314,37.983,False,True
+148914,AK,Jim Arlington,Democratic,2504,28.699,False,False
+148914,AK,Ruby Jones,Republican,2267,25.983,False,False
+148914,AK,Lee E. Hammermeister,Democratic,640,7.335,False,False
+148912,AK,Donna Mears,Democratic,4511,59.465,True,True
+148912,AK,Aimeé Sims,Republican,3075,40.535,False,False
+148903,AK,Lisa M. Keller,Democratic,4455,100.0,True,False
+148933,AK,Robyn Niayuq Burke Frier,Democratic,1678,60.381,True,True
+148933,AK,Saima Chase,Democratic,1101,39.619,False,False
+148931,AK,"Neal W. ""Quannaq"" Foster",Democratic,2036,49.025,False,False
+148931,AK,Tyler Ivanoff,Nonpartisan,1382,33.277,False,False
+148931,AK,"Reynold D. ""Papa Joe"" Okitkun",Nonpartisan,735,17.698,False,False
+148922,AK,Kevin J. McCabe,Republican,3011,36.918,False,True
+148922,AK,Doug Massie,Republican,2685,32.921,False,False
+148922,AK,Sandra D. Loomis,Democratic,2460,30.162,False,False
+148920,AK,"Gerald ""Garret"" Nelson",Republican,2856,33.887,False,False
+148920,AK,Steve Menard,Republican,2832,33.602,False,False
+148920,AK,Kimberly Slone,Democratic,1701,20.183,False,False
+148920,AK,Jessica I. Kusner-Kalarchik,Nonpartisan,1039,12.328,False,False
+148911,AK,Andrew T. Gray,Democratic,3539,63.321,True,True
+148911,AK,Paul A. Jr. Bauer,Nonpartisan,2050,36.679,False,False
+148909,AK,Genevieve G. Mina,Democratic,3175,100.0,True,True
+148900,AK,"Charles M. ""Chuck"" Kopp",Republican,5727,100.0,True,False
+148969,AK,Yes,Nonpartisan,21967,66.309,False,False
+148969,AK,No,Nonpartisan,11161,33.691,False,False
+148960,AK,No,Nonpartisan,71277,58.152,False,False
+148960,AK,Yes,Nonpartisan,51294,41.848,False,False
+148917,AK,Steve J. St. Clair,Republican,5455,73.074,True,True
+148917,AK,Jeanne Troshynski,Democratic,2010,26.926,False,False
+148908,AK,Cliff Groh,Democratic,1564,64.23,True,False
+148908,AK,Dan Sager,Republican,871,35.77,False,False
+148906,AK,Carolyn Hall,Democratic,4814,58.366,True,True
+148906,AK,Liz Vazquez,Republican,3088,37.439,False,False
+148906,AK,Phil Isley,Undeclared,346,4.195,False,False
+148968,AK,Yes,Nonpartisan,70591,59.244,False,False
+148968,AK,No,Nonpartisan,48562,40.756,False,False
+86916,AK,Mary Peltola,Democratic,144302,50.278,True,False
+86916,AK,Dan Sullivan,Republican,131844,45.937,False,False
+86916,AK,Gerald L. Heikes,Republican,6105,2.127,False,False
+86916,AK,Daniel J. Jr. Sullivan,Nonpartisan,4760,1.658,False,False
+86915,AK,Nick Begich III,Republican,136215,47.61,False,False
+86915,AK,Bill Hill,Nonpartisan,119689,41.834,False,False
+86915,AK,Eric Hafner,Democratic,22669,7.923,False,False
+86915,AK,"James C. ""Jim"" McDermott",Libertarian,7533,2.633,False,False

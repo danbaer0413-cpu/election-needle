@@ -1,0 +1,281 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+87476,TN,Marsha Blackburn,Republican,955298,45.463,True,False
+87476,TN,Jerri Green,Democratic,902615,42.956,False,False
+87476,TN,David Hatley,Independent,195288,9.294,False,False
+87476,TN,Lauren Pinkston,Independent,26186,1.246,False,False
+87476,TN,Dean Brewer,Independent,4095,0.195,False,False
+87476,TN,Misam Abidi,Independent,3398,0.162,False,False
+87476,TN,Ray Brown,Independent,2869,0.137,False,False
+87476,TN,Wendell Jackson,Independent,2365,0.113,False,False
+87476,TN,Eddie Lee Murphy,Independent,2293,0.109,False,False
+87476,TN,Robert C. Vick,Independent,2240,0.107,False,False
+87476,TN,Charles Van Morgan,Independent,1317,0.063,False,False
+87476,TN,L. Webb Taylor,Independent,1118,0.053,False,False
+87476,TN,Dave Seeman,Independent,870,0.041,False,False
+87476,TN,Victor L. Scoggin,Independent,817,0.039,False,False
+87476,TN,Karl Knox Smithson,Independent,494,0.024,False,False
+159581,TN,Republican,Republican,805310,59.119,False,False
+159581,TN,Democratic,Democratic,526992,38.687,False,False
+159581,TN,Independent,Independent,27317,2.005,False,False
+159581,TN,Write-In,Write-In,2571,0.189,False,False
+159582,TN,Republican,Republican,354098,59.256,False,False
+159582,TN,Democratic,Democratic,224526,37.573,False,False
+159582,TN,Independent,Independent,18947,3.171,False,False
+176160,TN,Gino Bulso,Republican,16707,57.186,True,False
+176160,TN,Becca Ripley,Democratic,12508,42.814,False,False
+176129,TN,Esther Helton Haynes,Republican,11611,51.19,True,False
+176129,TN,Art Rymer,Democratic,11071,48.81,False,False
+176201,TN,Jimmy Matlock,Republican,41483,61.157,True,False
+176201,TN,David Miller,Democratic,26347,38.843,False,False
+176174,TN,Allie Phillips,Democratic,7822,55.015,True,False
+176174,TN,Michael Lankford,Republican,6396,44.985,False,False
+176143,TN,William Lamberth,Republican,14924,66.352,True,False
+176143,TN,Latoya Holcomb,Democratic,7568,33.648,False,False
+176112,TN,Brett Windrow,Democratic,9901,51.444,True,False
+176112,TN,Robert Stevens,Republican,9345,48.556,False,False
+176188,TN,Justin Lafferty,Republican,13663,55.202,True,False
+176188,TN,Randy Debord,Democratic,11088,44.798,False,False
+176157,TN,"Harold M. Love, Jr.",Democratic,0,,True,False
+176126,TN,Michele Reneau,Republican,15088,53.719,True,False
+176126,TN,Paige Quirin,Democratic,12999,46.281,False,False
+176198,TN,Tom Leatherwood,Republican,15003,63.416,True,False
+176198,TN,William P Mouzon,Independent,8655,36.584,False,False
+176170,TN,Kip Capley,Republican,15392,73.925,True,False
+176170,TN,Matt Day,Democratic,5429,26.075,False,False
+176171,TN,Kirk Haston,Republican,0,,True,False
+176140,TN,Ed Butler,Republican,13744,76.305,True,False
+176140,TN,R. Jason Goodman,Democratic,4268,23.695,False,False
+176109,TN,Rick Eldridge,Republican,0,,True,False
+176184,TN,Jesse Chism,Democratic,0,,True,False
+176185,TN,Justin J. Pearson,Democratic,0,,True,False
+176154,TN,John Ray Clemmons,Democratic,10856,84.985,True,False
+176154,TN,Jayla Thomas,Republican,1918,15.015,False,False
+176123,TN,Kevin Raper,Republican,11485,68.148,True,False
+176123,TN,Daniel F. Jones,Democratic,5368,31.852,False,False
+176167,TN,Aron Maberry,Republican,14152,57.834,True,False
+176167,TN,Garfield Scott,Democratic,10318,42.166,False,False
+176136,TN,Charlie Baum,Republican,9596,52.923,True,False
+176136,TN,Mary Ann Young,Democratic,8536,47.077,False,False
+176105,TN,Tim Hicks,Republican,13879,61.682,True,False
+176105,TN,Brad Batt,Democratic,7947,35.318,False,False
+176105,TN,Rodger Broadwater,Independent,675,3.0,False,False
+176213,TN,Raumesh Akbari,Democratic,0,,True,False
+176182,TN,Mark White,Republican,13238,50.641,True,False
+176182,TN,Margaret Price,Democratic,12903,49.359,False,False
+176151,TN,Justin Jones,Democratic,11922,79.842,True,False
+176151,TN,Michele Vetter,Republican,2763,18.504,False,False
+176151,TN,Martez Coleman,Independent,247,1.654,False,False
+176195,TN,Telisa Franklin,Democratic,0,,True,False
+176164,TN,Lee Reeves,Republican,18552,62.635,True,False
+176164,TN,Julian Herbert Pierre-Griffin,Democratic,11067,37.365,False,False
+176133,TN,Owen Farnsworth,Democratic,10751,51.965,True,False
+176133,TN,Tim Rudd,Republican,9938,48.035,False,False
+176102,TN,Timothy Hill,Republican,15151,76.854,True,False
+176102,TN,Lori Love,Democratic,4563,23.146,False,False
+176209,TN,Jeff Yarbro,Democratic,0,,True,False
+176210,TN,Kerry Roberts,Republican,43196,69.511,True,False
+176210,TN,David Lee Marcum,Independent,18947,30.489,False,False
+176179,TN,Andrea Bond Johnson,Democratic,9180,62.946,True,False
+176179,TN,Julian A. McTizic,Republican,5404,37.054,False,False
+176148,TN,Connie Casha,Democratic,10417,55.073,True,False
+176148,TN,Mike Sparks,Republican,8498,44.927,False,False
+176192,TN,John Bradley,Write-In,2052,79.813,True,False
+176192,TN,Mitchell Morrison,Write-In,352,13.691,False,False
+176192,TN,Brandon DeAngelo Dewayne Washington,Write-In,124,4.823,False,False
+176192,TN,Calvin Lacy,Write-In,42,1.634,False,False
+176192,TN,Tommy Brewington,Write-In,1,0.039,False,False
+176161,TN,Pat Marsh,Republican,13527,72.067,True,False
+176161,TN,Brieanna L Akers,Democratic,5243,27.933,False,False
+176130,TN,Andy (Andrew) J. Swafford,Republican,13722,72.103,True,False
+176130,TN,Michael Woodlee,Democratic,4696,24.676,False,False
+176130,TN,Randy A Sharp,Independent,321,1.687,False,False
+176130,TN,Keith Nolan,Independent,292,1.534,False,False
+176206,TN,Paul Bailey,Republican,0,,True,False
+176175,TN,Tandy Darby,Republican,0,,True,False
+176144,TN,Brian Stewart,Republican,12570,57.801,True,False
+176144,TN,Mandy Cook,Democratic,9177,42.199,False,False
+176117,TN,Bryan Goldberg,Democratic,14020,55.041,True,False
+176117,TN,Elaine Davis,Republican,11452,44.959,False,False
+176189,TN,Gloria Johnson,Democratic,0,,True,False
+176158,TN,Mark Proctor,Democratic,18372,57.515,True,False
+176158,TN,Bill Hancock,Republican,13571,42.485,False,False
+176127,TN,Yusuf A. Hakeem,Democratic,13008,72.367,True,False
+176127,TN,"Demetrus ""Meechie"" Coonrod",Independent,3441,19.143,False,False
+176127,TN,Johnny Horne,Independent,1526,8.49,False,False
+176202,TN,Richard M. Briggs,Republican,33498,52.718,True,False
+176202,TN,Bryan Langan,Democratic,30044,47.282,False,False
+176203,TN,Steve Southerland,Republican,0,,True,False
+176172,TN,Chris Todd,Republican,0,,True,False
+176141,TN,Ryan D. Williams,Republican,13093,64.144,True,False
+176141,TN,Trenton Tyler Strode,Democratic,7319,35.856,False,False
+176113,TN,Jason Zachary,Republican,17097,55.8,True,False
+176113,TN,Lindsay Young Honaker,Democratic,13543,44.2,False,False
+176114,TN,Sam McKenzie,Democratic,0,,True,False
+176186,TN,Karen Camper,Democratic,11516,90.102,True,False
+176186,TN,Reggie William Hall,Republican,1265,9.898,False,False
+176155,TN,Bob Freeman,Democratic,0,,True,False
+176199,TN,J. Adam Lowe,Republican,0,,True,False
+176168,TN,Jody Barrett,Republican,13094,72.155,True,False
+176168,TN,Rachael Murray,Democratic,5053,27.845,False,False
+176137,TN,Kelly T Keisling,Republican,12888,81.41,True,False
+176137,TN,Seth McMillan,Democratic,2943,18.59,False,False
+176110,TN,Kenny Cody,Republican,13948,73.21,True,False
+176110,TN,Sheila Grooms McMahan,Democratic,4712,24.732,False,False
+176110,TN,Larry Jeremiah Brown,Independent,392,2.058,False,False
+176214,TN,Brent Taylor,Republican,38004,51.891,True,False
+176214,TN,David Weatherspoon,Democratic,35234,48.109,False,False
+176183,TN,Joe Towns Jr.,Democratic,0,,False,False
+176183,TN,Matthew Szalaj,Democratic,0,,True,False
+176124,TN,Cameron Sexton,Republican,20492,76.948,True,False
+176124,TN,Monica Mowdy,Democratic,6139,23.052,False,False
+176196,TN,Jesse Huseth,Democratic,13895,56.954,True,False
+176196,TN,John Gillespie,Republican,10502,43.046,False,False
+176165,TN,"Sabi ""Doc"" Kumar",Republican,14892,66.134,True,False
+176165,TN,Tamara Bavendam,Democratic,7626,33.866,False,False
+176134,TN,William Slater,Republican,12503,62.54,True,False
+176134,TN,Phil Barnes,Democratic,7489,37.46,False,False
+176106,TN,Rebecca Keefauver Alexander,Republican,11585,61.823,True,False
+176106,TN,Sarah Jayne Della Vecchia,Democratic,7154,38.177,False,False
+176107,TN,Jordan Henderson,Republican,15800,68.845,True,False
+176107,TN,Hilary Trudell,Democratic,7150,31.155,False,False
+176211,TN,Ed Jackson,Republican,0,,True,False
+176180,TN,Brett A. Giannini,Republican,0,,True,False
+176120,TN,Lowell Russell,Republican,0,,True,False
+176121,TN,Dan Howell,Republican,0,,True,False
+176193,TN,Ron M. Gant,Republican,16924,71.503,True,False
+176193,TN,Francine Johnson,Democratic,6745,28.497,False,False
+176162,TN,Jake McCalmon,Republican,18760,61.006,True,False
+176162,TN,Laura Andreson,Democratic,11991,38.994,False,False
+176103,TN,Renea Jones,Republican,0,,True,False
+176207,TN,Mark Pody,Republican,38466,52.705,True,False
+176207,TN,Lindsey Patrick-Wright,Democratic,34517,47.295,False,False
+176176,TN,Rusty Grills,Republican,11442,77.321,True,False
+176176,TN,Erin Jerrod Reid,Independent,3356,22.679,False,False
+176149,TN,Bo Mitchell,Democratic,0,,True,False
+176118,TN,Dave Wright,Republican,14086,65.516,True,False
+176118,TN,Jenny Fowler,Democratic,7414,34.484,False,False
+176190,TN,Torrey C. Harris,Democratic,0,,True,False
+176159,TN,Shaundelle Brooks,Democratic,15080,63.906,True,False
+176159,TN,Eva Angelina Romero,Republican,8517,36.094,False,False
+176131,TN,Jack L. Stockton,Republican,16385,71.553,True,False
+176131,TN,Ali Simpson,Democratic,6514,28.447,False,False
+176100,TN,Jessica Means,Republican,0,,True,False
+176204,TN,Bo Watson,Republican,41395,52.946,True,False
+176204,TN,Tim Roberts,Democratic,36789,47.054,False,False
+176173,TN,Jay D. Reedy,Republican,0,,True,False
+176145,TN,Clark Boyd,Republican,17187,65.755,True,False
+176145,TN,Dominic Howard,Democratic,8951,34.245,False,False
+176146,TN,Rush Bricken,Republican,12775,69.893,True,False
+176146,TN,Mike Stein,Democratic,5503,30.107,False,False
+176115,TN,Michele Carringer,Republican,12947,59.535,True,False
+176115,TN,Eliza Boles,Democratic,8800,40.465,False,False
+176187,TN,Larry J. Miller,Democratic,0,,True,False
+176128,TN,Greg Vital,Republican,15585,61.867,True,False
+176128,TN,Ryan V. Scofield,Democratic,9606,38.133,False,False
+176200,TN,Rusty Crowe,Republican,0,,True,False
+176169,TN,Clay Doggett,Republican,14749,77.655,True,False
+176169,TN,Rayanne Moos,Democratic,4244,22.345,False,False
+176142,TN,Paul Sherrell,Republican,11695,67.982,True,False
+176142,TN,Samantha Petit,Democratic,5508,32.018,False,False
+176111,TN,Fred A. Atchley,Republican,0,,True,False
+176215,TN,London Lamar,Democratic,0,,True,False
+176156,TN,Susan M Lynn,Republican,16323,57.25,True,False
+176156,TN,Matt Burchfield,Democratic,12189,42.75,False,False
+176125,TN,Greg Martin,Republican,0,,True,False
+176125,TN,Nathan B. Denton,Democratic,0,,False,False
+176197,TN,Antonio Parkinson,Democratic,0,,True,False
+176166,TN,Ronnie L. Glynn,Democratic,9754,62.957,True,False
+176166,TN,Chris Lanier,Republican,5739,37.043,False,False
+176138,TN,Iris Rudder,Republican,0,,True,False
+176139,TN,Michael Hale,Republican,14592,77.145,True,False
+176139,TN,Daniel T. Hawthorne,Democratic,4323,22.855,False,False
+176108,TN,Gary W Hicks Jr,Republican,0,,True,False
+176212,TN,Jack Johnson,Republican,55816,61.147,True,False
+176212,TN,David A Hardy,Democratic,35465,38.853,False,False
+176152,TN,Jason L Powell,Democratic,0,,True,False
+176153,TN,Vincent Dixie,Democratic,0,,True,False
+176122,TN,Mark Cochran,Republican,13248,77.474,True,False
+176122,TN,Jeremy Bromwell,Independent,2846,16.643,False,False
+176122,TN,Jason Hitt,Independent,1006,5.883,False,False
+176194,TN,Kevin Vaughan,Republican,0,,True,False
+176135,TN,Noah Smith,Republican,0,,True,False
+176104,TN,David B. Hawk,Republican,14813,76.831,True,False
+176104,TN,Catherine Bacon,Democratic,4467,23.169,False,False
+176208,TN,Charlane Oliver,Democratic,0,,True,False
+176181,TN,Chris Hurt,Republican,0,,True,False
+176150,TN,Aftyn Behn,Democratic,0,,True,False
+176119,TN,Tom Stinnett,Republican,13802,63.656,True,False
+176119,TN,Karen Gertz,Democratic,7121,32.843,False,False
+176119,TN,"Jeff ""Cog"" Coggin",Independent,759,3.501,False,False
+176191,TN,Todd Warner,Republican,13512,62.564,True,False
+176191,TN,Teri Mai,Democratic,8085,37.436,False,False
+176163,TN,Scott Cepicky,Republican,15364,62.281,True,False
+176163,TN,Craig D'Apolito,Democratic,9305,37.719,False,False
+176132,TN,Rick Scarbrough,Republican,11571,57.277,True,False
+176132,TN,Anne Backus,Democratic,8631,42.723,False,False
+176101,TN,Gary Stidham,Republican,0,,True,False
+176205,TN,Dawn White,Republican,62240,70.431,True,False
+176205,TN,Angela Evans Wynn,Democratic,26130,29.569,False,False
+176177,TN,Perry Keenan,Republican,13460,64.126,True,False
+176177,TN,Hillary Capes-Gwinn,Democratic,7530,35.874,False,False
+176178,TN,Brock Martin,Republican,11537,75.218,True,False
+176178,TN,Kirk D Carter,Independent,3801,24.782,False,False
+176147,TN,Bryan Terry,Republican,11849,55.002,True,False
+176147,TN,Matt Ferry,Democratic,9694,44.998,False,False
+176116,TN,Andrew Ellis Farmer,Republican,0,,True,False
+87450,TN,Chuck Fleischmann,Republican,136110,57.586,True,False
+87450,TN,Anna Golladay,Democratic,95051,40.215,False,False
+87450,TN,Dean Arnold,Independent,2136,0.904,False,False
+87450,TN,Rodney Joe King,Independent,1207,0.511,False,False
+87450,TN,Jean Howard-Hill,Independent,923,0.391,False,False
+87450,TN,Donnie Lynn Ownby,Independent,527,0.223,False,False
+87450,TN,Edward John Roland,Independent,404,0.171,False,False
+87448,TN,Diana Harshbarger,Republican,133592,63.811,True,False
+87448,TN,Kristi Burke,Democratic,69207,33.057,False,False
+87448,TN,Joshua Ray Ashburn,Independent,2102,1.004,False,False
+87448,TN,Billy Cody,Independent,1398,0.668,False,False
+87448,TN,Chris Campbell,Independent,1296,0.619,False,False
+87448,TN,Richard G. Baker,Independent,1219,0.582,False,False
+87448,TN,Tyler Brice Mitchell McClain,Independent,541,0.258,False,False
+87449,TN,Tim Burchett,Republican,144892,57.73,True,False
+87449,TN,Michaela Barnett,Democratic,103311,41.163,False,False
+87449,TN,Bruce Fine,Independent,1827,0.728,False,False
+87449,TN,Adam Heimerman,Independent,950,0.379,False,False
+87454,TN,Matt Van Epps,Republican,121100,50.273,True,False
+87454,TN,Darden Copeland,Democratic,115867,48.1,False,False
+87454,TN,Andrew J. Koontz,Independent,2603,1.081,False,False
+87454,TN,Lowell Reynolds,Independent,1316,0.546,False,False
+87452,TN,Charlie Hatcher,Republican,110408,51.664,True,False
+87452,TN,Chaz Molder,Democratic,99841,46.719,False,False
+87452,TN,James A. Johnson,Independent,2641,1.236,False,False
+87452,TN,Micheál O'Leary,Independent,815,0.381,False,False
+87453,TN,Johnny Garrett,Republican,120950,50.772,True,False
+87453,TN,Mike Croley,Democratic,113177,47.509,False,False
+87453,TN,Christopher B. Monday,Independent,2707,1.136,False,False
+87453,TN,Angus Purdy,Independent,1390,0.583,False,False
+87451,TN,Victoria Broderick,Democratic,95588,48.872,True,False
+87451,TN,Scott DesJarlais,Republican,95316,48.733,False,False
+87451,TN,Jacob Kristopher Anders,Independent,2833,1.448,False,False
+87451,TN,Clay Faircloth,Independent,1853,0.947,False,False
+87456,TN,Brent Taylor,Republican,111968,49.628,True,False
+87456,TN,Justin Pearson,Democratic,109429,48.503,False,False
+87456,TN,Dennis Clark,Independent,2413,1.07,False,False
+87456,TN,Michelle Davis Head,Independent,1804,0.8,False,False
+87475,TN,Bill Hagerty,Republican,1138457,55.081,True,False
+87475,TN,Marquita Bradshaw,Democratic,886974,42.913,False,False
+87475,TN,Robert Jones,Independent,9398,0.455,False,False
+87475,TN,Tharon Chandler,Independent,7689,0.372,False,False
+87475,TN,Andrew Gerena,Independent,5633,0.273,False,False
+87475,TN,"Catherine Barcel ""Barcy"" Whitson",Independent,5113,0.247,False,False
+87475,TN,Jeremy Dean Hearn,Independent,4937,0.239,False,False
+87475,TN,"David Sutman, Jr.",Independent,3087,0.149,False,False
+87475,TN,Yoshi D. Matthews,Independent,3026,0.146,False,False
+87475,TN,James William Macon III,Independent,2576,0.125,False,False
+87455,TN,David Kustoff,Republican,114045,51.626,True,False
+87455,TN,Heidi Kuhn,Democratic,102406,46.357,False,False
+87455,TN,"Pamela Jeanine ""P."" Moses",Independent,1035,0.469,False,False
+87455,TN,Horace Taylor,Independent,861,0.39,False,False
+87455,TN,Adam D. Austill,Independent,854,0.387,False,False
+87455,TN,"Wendell ""Wells"" Blankenship",Independent,714,0.323,False,False
+87455,TN,Antonio Futch,Independent,506,0.229,False,False
+87455,TN,"Henry J. Ward, III",Independent,485,0.22,False,False

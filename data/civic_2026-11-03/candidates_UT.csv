@@ -1,0 +1,798 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+163209,UT,Yes,Nonpartisan,690320,76.915,False,False
+163209,UT,No,Nonpartisan,207193,23.085,False,False
+163228,UT,Yes,Nonpartisan,677815,75.936,False,False
+163228,UT,No,Nonpartisan,214801,24.064,False,False
+163201,UT,No,Nonpartisan,627987,61.451,True,False
+163201,UT,Yes,Nonpartisan,393945,38.549,False,False
+163220,UT,Yes,Nonpartisan,643081,72.074,False,False
+163220,UT,No,Nonpartisan,249168,27.926,False,False
+163200,UT,Yes,Nonpartisan,617693,60.993,True,False
+163200,UT,No,Nonpartisan,395037,39.007,False,False
+163219,UT,Yes,Nonpartisan,699906,76.117,False,False
+163219,UT,No,Nonpartisan,219608,23.883,False,False
+163213,UT,Yes,Nonpartisan,693399,77.619,False,False
+163213,UT,No,Nonpartisan,199938,22.381,False,False
+163225,UT,Yes,Nonpartisan,714488,79.267,False,False
+163225,UT,No,Nonpartisan,186880,20.733,False,False
+159570,UT,Republican,Republican,523001,51.651,False,False
+159570,UT,Democratic,Democratic,449193,44.362,False,False
+159570,UT,Unaffiliated,Unaffiliated,17747,1.753,False,False
+159570,UT,Forward,Forward,14181,1.4,False,False
+159570,UT,Constitution,Constitution,6544,0.646,False,False
+159570,UT,Nonpartisan,Nonpartisan,1902,0.188,False,False
+159574,UT,Republican,Republican,244759,45.72,False,False
+159574,UT,Democratic,Democratic,243568,45.498,False,False
+159574,UT,Forward,Forward,44883,8.384,False,False
+159574,UT,Constitution,Constitution,2128,0.398,False,False
+163204,UT,Yes,Nonpartisan,662897,74.092,False,False
+163204,UT,No,Nonpartisan,231792,25.908,False,False
+163385,UT,Yes,Nonpartisan,49,75.385,False,False
+163385,UT,No,Nonpartisan,16,24.615,False,False
+163444,UT,Jake Fitisemanu,Democratic,7260,66.036,True,False
+163444,UT,Dave Parke,Republican,3734,33.964,False,False
+163542,UT,Eric Cylvick,Nonpartisan,245,59.179,False,False
+163542,UT,Russell Hendry,Nonpartisan,169,40.821,False,False
+163236,UT,Hoang Nguyen,Democratic,17251,81.4,True,False
+163236,UT,Franklin D. Robinson,Republican,3402,16.052,False,False
+163236,UT,Cabot W Nelson,Forward,540,2.548,False,False
+163302,UT,Kourtney Cox,Republican,3262,59.7,False,False
+163302,UT,Cheryl Lupo,Nonpartisan,2202,40.3,False,False
+163592,UT,Scott P. Card,Unaffiliated,2688,62.995,False,False
+163592,UT,Joseph Earnest,Unaffiliated,1579,37.005,False,False
+163576,UT,Jon Hawkins,Republican,8665,63.741,True,False
+163576,UT,Travis Hysell,Democratic,4929,36.259,False,False
+163443,UT,Liz Oates,Democratic,7209,63.292,True,False
+163443,UT,Anthony Loubet,Republican,4181,36.708,False,False
+163619,UT,Johnny Heppler,Republican,41723,100.0,False,False
+163493,UT,Yes,Nonpartisan,6355,77.956,False,False
+163493,UT,No,Nonpartisan,1797,22.044,False,False
+163253,UT,Brooks Benson,Republican,16358,50.187,False,False
+163253,UT,Emily Buss,Forward,16236,49.813,False,False
+163543,UT,Matthew Weller,Nonpartisan,514,100.0,False,False
+163303,UT,Christian B. Bryner,Republican,4632,100.0,False,False
+163202,UT,Yes,Nonpartisan,188355,74.343,False,False
+163202,UT,No,Nonpartisan,65005,25.657,False,False
+163481,UT,Kris Nguyen,Nonpartisan,7183,100.0,False,False
+163547,UT,No,Nonpartisan,3109,53.027,False,False
+163547,UT,Yes,Nonpartisan,2754,46.973,False,False
+163638,UT,Rosemary T Lesser,Democratic,7149,62.339,True,False
+163638,UT,Jim Alvey,Republican,4319,37.661,False,False
+163531,UT,Nathan J. Curtis,Republican,4854,100.0,False,False
+163622,UT,Burke Staheli,Nonpartisan,7008,100.0,False,False
+163272,UT,Douglas H Christensen,Unaffiliated,9335,48.25,False,False
+163272,UT,Mike Allred,Republican,7642,39.5,False,False
+163272,UT,Allan L Shinney,Unaffiliated,1847,9.547,False,False
+163272,UT,Chad Hayman,Unaffiliated,523,2.703,False,False
+163256,UT,Ronald M Winterton,Republican,22827,60.763,True,False
+163256,UT,Annette McRae,Forward,14740,39.237,False,False
+163546,UT,Nick Hill,Nonpartisan,1255,100.0,False,False
+163306,UT,Jacob Steele,Nonpartisan,930,100.0,False,False
+163205,UT,Yes,Nonpartisan,83707,74.175,False,False
+163205,UT,No,Nonpartisan,29143,25.825,False,False
+163580,UT,Grant Pace,Republican,3178,100.0,True,False
+163639,UT,Kacee Weaver,Democratic,32527,100.0,False,False
+163623,UT,N. Craig Hammer,Nonpartisan,4760,100.0,False,False
+163497,UT,Yes,Nonpartisan,6299,74.456,False,False
+163497,UT,No,Nonpartisan,2161,25.544,False,False
+163584,UT,Jackie Larson,Republican,8402,63.259,True,False
+163584,UT,Alan Wessman,Unaffiliated,4880,36.741,False,False
+163643,UT,Chris F Allred,Republican,50358,100.0,False,False
+163549,UT,Nicholeen Peck,Republican,6178,53.383,True,False
+163549,UT,Anita Dalrymple,Democratic,4476,38.676,False,False
+163549,UT,Wales Nematollahi,Forward,919,7.941,False,False
+163435,UT,Karen Kwan,Democratic,17592,68.891,True,False
+163435,UT,Deidre Tyler,Republican,7944,31.109,False,False
+163533,UT,Ryan W Savage,Nonpartisan,795,100.0,False,False
+163400,UT,Marc Grow,Nonpartisan,480,100.0,False,False
+163583,UT,Stephen L. Whyte,Republican,10427,66.069,True,False
+163583,UT,Mark Youngquist,Democratic,3897,24.693,False,False
+163583,UT,Julie Smith,Forward,1458,9.238,False,False
+163642,UT,Jared L. Preisler,Republican,50004,100.0,False,False
+163626,UT,Yes,Nonpartisan,142,60.944,False,False
+163626,UT,No,Nonpartisan,91,39.056,False,False
+163500,UT,No,Nonpartisan,12637,51.609,False,False
+163500,UT,Yes,Nonpartisan,11849,48.391,False,False
+163260,UT,Jonathan L. Caldwell,Republican,1624,100.0,False,False
+163550,UT,Michael Rapich,Republican,2942,100.0,False,False
+163310,UT,Adam Roundy,Republican,299,100.0,False,False
+163401,UT,Jarad Brinkerhoff,Nonpartisan,602,100.0,False,False
+163554,UT,Tracy Shaw,Republican,15424,100.0,False,False
+163645,UT,Ryan Arbon,Republican,50580,100.0,False,False
+163538,UT,Cindy Keyes,Democratic,8070,100.0,False,False
+163629,UT,Milly Edwards,Republican,904,100.0,False,False
+163279,UT,Casey Snider,Republican,10296,65.575,True,False
+163279,UT,Kendra Penry,Democratic,5405,34.425,False,False
+163396,UT,Celeste Meyeres,Republican,2228,67.72,False,False
+163396,UT,Bo Folsom,Democratic,1062,32.28,False,False
+163263,UT,Cody V Black,Republican,1737,100.0,False,False
+163553,UT,Alison H. McCoy,Republican,15321,100.0,False,False
+163313,UT,Chelsy Lail,Nonpartisan,69,100.0,False,False
+163212,UT,Yes,Nonpartisan,46872,81.807,False,False
+163212,UT,No,Nonpartisan,10424,18.193,False,False
+163363,UT,Luciene Anna Syrett,Nonpartisan,292,69.359,False,False
+163363,UT,Phoebe L Wiseman,Nonpartisan,129,30.641,False,False
+163646,UT,Stacy Bernal,Unaffiliated,2141,100.0,False,False
+163214,UT,Yes,Nonpartisan,89190,78.471,False,False
+163214,UT,No,Nonpartisan,24470,21.529,False,False
+163280,UT,N. George Daines,Republican,29980,100.0,False,False
+163264,UT,Yes,Nonpartisan,1177,59.595,False,False
+163264,UT,No,Nonpartisan,798,40.405,False,False
+163634,UT,Curtis Whipple,Nonpartisan,68,100.0,False,False
+163508,UT,Don Mose III,Nonpartisan,328,100.0,False,False
+163599,UT,Yes,Nonpartisan,75474,79.159,False,False
+163599,UT,No,Nonpartisan,19871,20.841,False,False
+163492,UT,Yes,Nonpartisan,7104,80.691,False,False
+163492,UT,No,Nonpartisan,1700,19.309,False,False
+163366,UT,Neal D. Herbert,Nonpartisan,2618,59.231,False,False
+163366,UT,Rory Paxman,Nonpartisan,1802,40.769,False,False
+163649,UT,Oscar L Mata,Unaffiliated,1318,100.0,False,False
+163217,UT,Yes,Nonpartisan,116473,78.186,False,False
+163217,UT,No,Nonpartisan,32497,21.814,False,False
+163507,UT,Colleen Benally,Nonpartisan,330,100.0,False,False
+163459,UT,Tracy Miller,Republican,8333,53.96,True,False
+163459,UT,Rod Moser,Democratic,7110,46.04,False,False
+163557,UT,Angie Gillette,Nonpartisan,1633,58.259,False,False
+163557,UT,Mandy Brown,Nonpartisan,1170,41.741,False,False
+163317,UT,Gale B Lamb,Nonpartisan,270,100.0,False,False
+163600,UT,Yes,Nonpartisan,4056,80.99,False,False
+163600,UT,No,Nonpartisan,952,19.01,False,False
+163367,UT,Diego Velasquez,Nonpartisan,634,64.694,False,False
+163367,UT,Shalee Holland,Nonpartisan,346,35.306,False,False
+163650,UT,Kelly Larson,Unaffiliated,5587,100.0,False,False
+163545,UT,Denise Andrews,Nonpartisan,1240,100.0,False,False
+163604,UT,Erik K. Rowland,Republican,1780,77.797,False,False
+163604,UT,Alex Folmer,Write-In,454,19.843,False,False
+163604,UT,Not Valid,Write-In,54,2.36,False,False
+163604,UT,Write-in,Nonpartisan,0,0.0,False,False
+163286,UT,Matthew Funk,Republican,30613,100.0,False,False
+163595,UT,Lisa Boyce,Unaffiliated,1933,100.0,False,False
+163462,UT,Jake Hunsaker,Republican,7492,50.646,False,False
+163462,UT,Benyde Walker,Democratic,7301,49.354,False,False
+163336,UT,Kristen Hogan,Nonpartisan,6839,62.864,False,False
+163336,UT,Jane Neal,Nonpartisan,4040,37.136,False,False
+163320,UT,Erik R. Craythorne,Republican,6428,53.142,True,False
+163320,UT,Jeffrey Anderson,Democratic,4813,39.79,False,False
+163320,UT,Tony De Mille,Forward,855,7.068,False,False
+163603,UT,Rachel Kahler,Republican,7301,55.878,False,False
+163603,UT,Robert Duncan McNeill,Democratic,4385,33.56,False,False
+163603,UT,Shawn Taylor,Write-In,678,5.189,False,False
+163603,UT,Jami Hewlett,Write-In,649,4.967,False,False
+163603,UT,Not Valid,Write-In,53,0.406,False,False
+163603,UT,Write-in,Nonpartisan,0,0.0,False,False
+163370,UT,Gabriel Woytek,Nonpartisan,2374,53.893,False,False
+163370,UT,Kenneth G. Minor,Nonpartisan,2031,46.107,False,False
+163653,UT,Karen L. Miller,Unaffiliated,7186,100.0,False,False
+163221,UT,Yes,Nonpartisan,42986,81.931,False,False
+163221,UT,No,Nonpartisan,9480,18.069,False,False
+163287,UT,Bryson J. Behm,Republican,29341,78.694,False,False
+163287,UT,David R. Gillie,Constitution,7944,21.306,False,False
+163463,UT,Candice B. Pierucci,Republican,7708,55.413,True,False
+163463,UT,Lillian Bowles,Democratic,6202,44.587,False,False
+163561,UT,Nathan Rawlings,Republican,7840,100.0,False,False
+163641,UT,Jon D. Beesley,Republican,50253,100.0,False,False
+163291,UT,Teri Rhodes,Nonpartisan,1680,56.0,False,False
+163291,UT,Mylind Fawcett,Nonpartisan,1320,44.0,False,False
+163606,UT,Jon Woodard,Republican,7179,54.864,False,False
+163606,UT,Lauren Forsyth,Democratic,5906,45.136,False,False
+163275,UT,Karen Cronin,Nonpartisan,1490,53.539,False,False
+163275,UT,Tara Tonioli,Nonpartisan,1293,46.461,False,False
+163597,UT,Jennifer Partridge,Unaffiliated,1409,100.0,False,False
+163240,UT,Rob Bishop,Republican,9818,68.418,True,False
+163240,UT,James Rich,Forward,4532,31.582,False,False
+163224,UT,Yes,Nonpartisan,185940,72.823,False,False
+163224,UT,No,Nonpartisan,69390,27.177,False,False
+163290,UT,Randall T. Bagley,Nonpartisan,1774,53.839,False,False
+163290,UT,Deidra Hartwell,Nonpartisan,1521,46.161,False,False
+163466,UT,Zach Robinson,Democratic,170642,65.085,False,False
+163466,UT,Kathleen Anderson,Republican,85598,32.648,False,False
+163466,UT,Gregory Beglarian,Constitution,5943,2.267,False,False
+163564,UT,Dave W Chivers,Nonpartisan,1467,100.0,False,False
+163324,UT,Lili Bitner,Republican,8835,59.363,True,False
+163324,UT,Eric Last,Democratic,6048,40.637,False,False
+163607,UT,Michelle Kellogg,Republican,10196,100.0,False,False
+163374,UT,Rex P Shipp,Republican,8935,68.615,True,False
+163374,UT,Thomas Loveheart,Democratic,4087,31.385,False,False
+163657,UT,Yes,Nonpartisan,11949,74.047,False,False
+163657,UT,No,Nonpartisan,4188,25.953,False,False
+163611,UT,Joseph Elison,Republican,12678,68.641,True,False
+163611,UT,Eva M Weldon,Democratic,4772,25.836,False,False
+163611,UT,April A Pinkston,Constitution,1020,5.522,False,False
+163293,UT,Karlee Fryer,Nonpartisan,1104,57.054,False,False
+163293,UT,Cole Checketts,Nonpartisan,831,42.946,False,False
+163403,UT,Kevin Don Morris,Republican,3537,100.0,False,False
+163277,UT,Mike Petersen,Republican,8704,62.061,True,False
+163277,UT,Barbara J. Haggerty,Democratic,5321,37.939,False,False
+163343,UT,Chelise Curtis,Republican,4357,100.0,False,False
+163327,UT,Phil Graves,Democratic,6713,51.315,False,False
+163327,UT,Melissa Ballard,Republican,6369,48.685,False,False
+163610,UT,Jacob Collett,Nonpartisan,1435,100.0,False,False
+163377,UT,Chad E. Dotson,Republican,12375,100.0,False,False
+163660,UT,Write-in,Nonpartisan,627,100.0,False,False
+163420,UT,Scott Dalton,Republican,627,100.0,False,False
+163294,UT,Scott Mershon,Nonpartisan,17699,51.989,False,False
+163294,UT,Kirt Lindley,Nonpartisan,16345,48.011,False,False
+163470,UT,Sim Gill,Democratic,173337,66.301,False,False
+163470,UT,Kent Davis,Republican,88103,33.699,False,False
+163344,UT,Rick Coil,Republican,4495,100.0,False,False
+163328,UT,Kendalyn Harris,Republican,68043,100.0,False,False
+163613,UT,R. Neil Walter,Republican,12000,66.508,True,False
+163613,UT,Jeffrey N Lipe,Democratic,6043,33.492,False,False
+163282,UT,Mark A. Nafziger,Democratic,2151,57.483,False,False
+163282,UT,Sandi R. Goodlander,Republican,1591,42.517,False,False
+163572,UT,Leah Hansen,Republican,8590,56.092,True,False
+163572,UT,Brett Nielsen,Democratic,6724,43.908,False,False
+163439,UT,Jen Dailey-Provost,Democratic,14154,87.619,True,False
+163439,UT,Char Varga,Republican,2000,12.381,False,False
+163556,UT,Scott Bertolio,Nonpartisan,1252,52.341,False,False
+163556,UT,Kristi Camargo,Nonpartisan,1140,47.659,False,False
+163231,UT,Yes,Nonpartisan,80316,71.001,False,False
+163231,UT,No,Nonpartisan,32804,28.999,False,False
+163297,UT,Scott H Clark,Nonpartisan,5053,100.0,False,False
+163473,UT,Rosie Rivera,Democratic,183304,70.099,False,False
+163473,UT,Shane Manwaring,Republican,78190,29.901,False,False
+163571,UT,Stephanie Gricius,Republican,7961,59.705,True,False
+163571,UT,Kristin Meyer,Democratic,5373,40.295,False,False
+163523,UT,David M Warren,Nonpartisan,766,100.0,False,False
+163614,UT,Walt Brooks,Republican,9307,69.632,True,False
+163614,UT,Rebecca Winsor,Democratic,4059,30.368,False,False
+163381,UT,Stephanie Hill,Nonpartisan,740,100.0,False,False
+163440,UT,Grant Amjad Miller,Democratic,14611,89.82,True,False
+163440,UT,Braeden J. Oswald,Republican,1656,10.18,False,False
+163232,UT,Yes,Nonpartisan,192956,75.802,False,False
+163232,UT,No,Nonpartisan,61595,24.198,False,False
+163298,UT,Bethany Neilson,Nonpartisan,5894,100.0,False,False
+163602,UT,Yes,Nonpartisan,1634,72.526,False,False
+163602,UT,No,Nonpartisan,619,27.474,False,False
+163252,UT,Scott Sandall,Republican,24524,65.824,True,False
+163252,UT,Claudia Bigler,Democratic,9570,25.686,False,False
+163252,UT,Julie Quinlan,Forward,3163,8.49,False,False
+163350,UT,Michael D. Olsen,Republican,2262,100.0,False,False
+163652,UT,Katie Wahlquist,Unaffiliated,5410,94.68,False,False
+163652,UT,Write-in,Nonpartisan,304,5.32,False,False
+163526,UT,No,Nonpartisan,4773,57.244,False,False
+163526,UT,Yes,Nonpartisan,3565,42.756,False,False
+163617,UT,Jerry D. Jaeger,Republican,36342,71.63,False,False
+163617,UT,Edward Flint,Democratic,14394,28.37,False,False
+163384,UT,Megen Ralphs,Nonpartisan,1012,65.502,False,False
+163384,UT,Justin Godfrey,Nonpartisan,533,34.498,False,False
+163251,UT,James Martin,Democratic,35920,60.337,False,False
+163251,UT,Erin Longacre,Republican,23612,39.663,False,False
+163427,UT,Bill Cox,Republican,1021,100.0,False,False
+163301,UT,Daniel Campbell,Republican,4313,100.0,False,False
+163477,UT,Amanda Oaks,Nonpartisan,6144,100.0,False,False
+163351,UT,Thomas Hansen,Republican,2385,100.0,False,False
+163527,UT,Jed J Maxwell,Republican,4568,100.0,False,False
+163618,UT,Ryan Sullivan,Republican,42177,100.0,False,False
+163289,UT,Roger Pulsipher,Nonpartisan,2215,58.015,False,False
+163289,UT,Aaron C. Ritchey,Nonpartisan,1603,41.985,False,False
+163355,UT,James Winn,Nonpartisan,427,100.0,False,False
+163446,UT,Sahara Hayes,Democratic,11433,82.228,True,False
+163446,UT,Aileen Hampton,Republican,2471,17.772,False,False
+163339,UT,Yes,Nonpartisan,64050,78.48,False,False
+163339,UT,No,Nonpartisan,17563,21.52,False,False
+163430,UT,Dale Stacey,Republican,989,78.931,False,False
+163430,UT,Thomas Keith Wahlberg,Nonpartisan,264,21.069,False,False
+163496,UT,Yes,Nonpartisan,4342,75.134,False,False
+163496,UT,No,Nonpartisan,1437,24.866,False,False
+163480,UT,Michelle Steenblik,Nonpartisan,4555,61.981,False,False
+163480,UT,Jay Blain,Nonpartisan,2794,38.019,False,False
+163354,UT,Josie K. Stilson,Republican,2557,100.0,False,False
+163530,UT,Steven C Wall,Republican,4742,100.0,False,False
+163621,UT,David B. Stirland,Nonpartisan,3731,60.45,False,False
+163621,UT,Dan C. Zaleski,Nonpartisan,2441,39.55,False,False
+163388,UT,Jared G. Rowley,Republican,3109,100.0,False,False
+163447,UT,Doug Owens,Democratic,15587,75.786,True,False
+163447,UT,Anna Reeves,Republican,4980,24.214,False,False
+163431,UT,Shauna Allen Groll,Nonpartisan,125,54.113,False,False
+163431,UT,Eric D Wamsley,Nonpartisan,106,45.887,False,False
+163305,UT,Frankie Tapia,Republican,3997,75.672,False,False
+163305,UT,Tom Kosmack,Write-In,1219,23.078,False,False
+163305,UT,Write-in,Nonpartisan,66,1.25,False,False
+163392,UT,Madalyn Z Nuccitelli,Nonpartisan,562,100.0,False,False
+163451,UT,Ashlee Matthews,Democratic,6355,66.378,True,False
+163451,UT,Casey Saxton,Republican,3219,33.622,False,False
+163357,UT,Yes,Nonpartisan,2037,80.355,False,False
+163357,UT,No,Nonpartisan,498,19.645,False,False
+163243,UT,Scott H Chew,Republican,9413,84.376,True,False
+163243,UT,Sonya Ray,Constitution,1743,15.624,False,False
+163341,UT,Gregory Miles,Republican,4324,100.0,False,False
+163208,UT,Yes,Nonpartisan,10172,78.421,False,False
+163208,UT,No,Nonpartisan,2799,21.579,False,False
+163391,UT,Hollie Holman,Nonpartisan,277,100.0,False,False
+163450,UT,Blake Townsend,Democratic,7702,53.71,True,False
+163450,UT,Jim Dunnigan,Republican,6638,46.29,False,False
+163434,UT,Jen Plumb,Democratic,34404,84.639,True,False
+163434,UT,Thaddeus A Evans,Republican,5059,12.446,False,False
+163434,UT,J. Lowry Snow,Forward,1185,2.915,False,False
+163308,UT,Yes,Nonpartisan,254,70.752,False,False
+163308,UT,No,Nonpartisan,105,29.248,False,False
+163484,UT,F Masita Taufahema,Nonpartisan,4111,54.271,False,False
+163484,UT,Barbie Curtis,Nonpartisan,3464,45.729,False,False
+163358,UT,Richard G Birch,Republican,1728,100.0,False,False
+163534,UT,Jack G Hansen,Nonpartisan,832,100.0,False,False
+163625,UT,No,Nonpartisan,1064,52.699,False,False
+163625,UT,Yes,Nonpartisan,955,47.301,False,False
+163362,UT,Eric Houston,Republican,1593,100.0,False,False
+163453,UT,Drew Howells,Democratic,7283,58.715,True,False
+163453,UT,Ken Ivory,Republican,5121,41.285,False,False
+163346,UT,Don Busenbark,Nonpartisan,720,100.0,False,False
+163437,UT,Stephanie Pitcher,Democratic,39351,100.0,True,False
+163503,UT,William McFarland,Democratic,1479,100.0,False,False
+163487,UT,Elizabeth Payne,Nonpartisan,1342,100.0,False,False
+163361,UT,Kylee Orton,Republican,1699,100.0,False,False
+163537,UT,Margaret Olson,Democratic,8000,100.0,False,False
+163628,UT,Noreen Johnson,Republican,929,100.0,False,False
+163587,UT,David M. Spencer,Republican,59349,55.164,False,False
+163587,UT,J. Allen,Democratic,38353,35.648,False,False
+163587,UT,David Hinckley,Forward,9885,9.188,False,False
+163454,UT,Andrew Stoddard,Democratic,9454,100.0,True,False
+163630,UT,Michael Chad Winn,Republican,823,100.0,False,False
+163504,UT,Mitchell D Maughan,Republican,1277,100.0,False,False
+163488,UT,Ashley Anderson,Nonpartisan,5404,72.85,False,False
+163488,UT,Jared Wright,Nonpartisan,2014,27.15,False,False
+163442,UT,Michael E Finch,Democratic,7115,65.904,True,False
+163442,UT,Matt Macpherson,Republican,3681,34.096,False,False
+163316,UT,Stephanie Rose,Nonpartisan,142,100.0,False,False
+163407,UT,Bonnie L Pfaff,Republican,3397,100.0,False,False
+163300,UT,Yes,Nonpartisan,1892,54.29,False,False
+163300,UT,No,Nonpartisan,1593,45.71,False,False
+163590,UT,Corey K Astill,Republican,67778,67.173,False,False
+163590,UT,Russ J Rampton,Forward,33122,32.827,False,False
+163457,UT,Ofa Matagi,Democratic,8458,54.642,True,False
+163457,UT,Steve Eliason,Republican,7021,45.358,False,False
+163633,UT,James Lamb,Nonpartisan,202,100.0,False,False
+163315,UT,Woodrow Bair II,Nonpartisan,21,100.0,False,False
+163267,UT,Vance Smith,Republican,11777,61.857,False,False
+163267,UT,Alan Williams,Unaffiliated,7262,38.143,False,False
+163365,UT,Yes,Nonpartisan,1474,85.104,False,False
+163365,UT,No,Nonpartisan,258,14.896,False,False
+163541,UT,Kevin Orgill,Nonpartisan,76,51.701,False,False
+163541,UT,Rene Potter,Nonpartisan,71,48.299,False,False
+163408,UT,Marki Rowley,Republican,3546,100.0,False,False
+163591,UT,Mike Smith,Republican,83501,100.0,False,False
+163458,UT,Jess Birtcher,Democratic,8636,52.739,True,False
+163458,UT,Jordan Teuscher,Republican,7739,47.261,False,False
+163353,UT,Tyson R. Huntington,Republican,2537,100.0,False,False
+163412,UT,Roland Briar Haslam,Republican,3755,100.0,False,False
+163510,UT,Dave Bierschied,Nonpartisan,27,100.0,False,False
+163620,UT,Larene Cox,Nonpartisan,3843,100.0,False,False
+163270,UT,Shirlene Larsen,Republican,16506,100.0,False,False
+163560,UT,Joe McKea,Republican,7184,81.507,False,False
+163560,UT,Ronald K Richards,Constitution,1630,18.493,False,False
+163544,UT,TY Metcalf,Nonpartisan,159,100.0,False,False
+163411,UT,Sarah Richins,Nonpartisan,435,57.012,False,False
+163411,UT,Jason Dennis Stefanoff,Nonpartisan,328,42.988,False,False
+163594,UT,Shannon M. Acor,Unaffiliated,2722,100.0,False,False
+163461,UT,Mark A. Strong,Republican,10035,100.0,True,False
+163637,UT,Angela Choberka,Democratic,6113,53.873,True,False
+163637,UT,Jake Sawyer,Republican,5234,46.127,False,False
+163511,UT,Yes,Nonpartisan,298,81.644,False,False
+163511,UT,No,Nonpartisan,67,18.356,False,False
+163271,UT,Marla Young,Republican,16873,100.0,False,False
+163369,UT,Stephen J. Stocks,Nonpartisan,3014,100.0,False,False
+163449,UT,Rosalba Dominguez,Democratic,9252,66.337,True,False
+163449,UT,Monique I. Ketcham,Republican,4695,33.663,False,False
+163515,UT,Jim Cheney,Republican,6618,100.0,False,False
+163414,UT,Garrett T. Smith,Republican,3859,100.0,False,False
+163499,UT,Yes,Nonpartisan,148098,60.835,False,False
+163499,UT,No,Nonpartisan,95343,39.165,False,False
+163398,UT,Chameill Lamb,Republican,2642,100.0,False,False
+163656,UT,Yes,Nonpartisan,48538,77.065,False,False
+163656,UT,No,Nonpartisan,14445,22.935,False,False
+163640,UT,Duane D Kearsley,Republican,37800,49.83,False,False
+163640,UT,Alvin Thurgood,Democratic,33721,44.453,False,False
+163640,UT,Gary C. New,Forward,4337,5.717,False,False
+163514,UT,Aj Mower,Republican,6897,100.0,False,False
+163274,UT,Anamarie Hall,Nonpartisan,1453,57.705,False,False
+163274,UT,Michelle Mund,Nonpartisan,1065,42.295,False,False
+163372,UT,Katherine Williams,Nonpartisan,795,100.0,False,False
+163548,UT,No,Nonpartisan,28,96.552,False,False
+163548,UT,Yes,Nonpartisan,1,3.448,False,False
+163415,UT,Leslie A. Hyde,Republican,3975,100.0,False,False
+163399,UT,Tracy Glover,Republican,2725,100.0,False,False
+163465,UT,Araueni Olivares,Democratic,21791,54.889,False,False
+163465,UT,Nicole McDermott,Republican,17909,45.111,False,False
+163419,UT,Yes,Nonpartisan,3159,81.334,False,False
+163419,UT,No,Nonpartisan,725,18.666,False,False
+163517,UT,Stacey Ann Lyon,Republican,6901,100.0,False,False
+163211,UT,Yes,Nonpartisan,112223,74.935,False,False
+163211,UT,No,Nonpartisan,37537,25.065,False,False
+163501,UT,Terry Whitehat,Democratic,360,62.284,False,False
+163501,UT,Silvia Stubbs,Republican,218,37.716,False,False
+163567,UT,Yes,Nonpartisan,6728,81.789,False,False
+163567,UT,No,Nonpartisan,1498,18.211,False,False
+163551,UT,Erik A. Stromberg,Republican,3125,100.0,False,False
+163418,UT,Kelly Edward Preece,Nonpartisan,665,100.0,False,False
+163402,UT,Larry Crutchfield,Nonpartisan,209,13.869,False,False
+163402,UT,Kurt Loveless,Nonpartisan,196,13.006,False,False
+163402,UT,Gavin Bunting,Nonpartisan,188,12.475,False,False
+163402,UT,David Ferguson,Nonpartisan,166,11.015,False,False
+163402,UT,Ralph Morrison,Nonpartisan,157,10.418,False,False
+163402,UT,Brian Konoske,Nonpartisan,146,9.688,False,False
+163402,UT,Patricia Moffitt,Nonpartisan,143,9.489,False,False
+163402,UT,Sioux Sugden,Nonpartisan,121,8.029,False,False
+163402,UT,Randall Fox,Nonpartisan,96,6.37,False,False
+163402,UT,Michael Szychoski,Nonpartisan,85,5.64,False,False
+163468,UT,Luke Maynes,Democratic,22680,60.017,False,False
+163468,UT,Mike Bird,Republican,15109,39.983,False,False
+163644,UT,Ricky Hatch,Republican,51715,100.0,False,False
+163518,UT,Linda Christiansen,Republican,6947,100.0,False,False
+163278,UT,Patrick Belmont,Unaffiliated,6595,59.058,True,False
+163278,UT,Jason E. Thompson,Republican,4572,40.942,False,False
+163568,UT,No,Nonpartisan,6086,66.138,False,False
+163568,UT,Yes,Nonpartisan,3116,33.862,False,False
+163552,UT,Scott A. Broadhead,Republican,15140,100.0,False,False
+163522,UT,Mark S Olson,Nonpartisan,696,61.214,False,False
+163522,UT,Timothy J. Miller,Nonpartisan,441,38.786,False,False
+163421,UT,William Talbot,Republican,627,100.0,False,False
+163506,UT,Avery Lee Olsen,Democratic,982,50.854,False,False
+163506,UT,Lehi T. Lacy,Republican,949,49.146,False,False
+163380,UT,Ken Carpenter,Republican,12261,100.0,False,False
+163247,UT,Jennie Earl,Republican,45125,66.078,False,False
+163247,UT,Cathy Callow-Heusser,Democratic,23165,33.922,False,False
+163364,UT,Laura C McKerracher,Nonpartisan,191,51.902,False,False
+163364,UT,Jared Patrick Brems,Nonpartisan,177,48.098,False,False
+163647,UT,Amber Allred,Unaffiliated,2051,100.0,False,False
+163521,UT,Jeremy Madsen,Nonpartisan,633,72.178,False,False
+163521,UT,Tyler Lane Lee,Nonpartisan,244,27.822,False,False
+163281,UT,Allison E. Goulais,Democratic,1950,58.471,False,False
+163281,UT,Joann Bennett,Republican,1385,41.529,False,False
+163379,UT,Jonathan T. Whittaker,Republican,12401,100.0,False,False
+163331,UT,Scott Parke,Republican,50445,54.011,False,False
+163331,UT,Stephanie Wayment,Democratic,42953,45.989,False,False
+163422,UT,Scott Burns,Republican,628,100.0,False,False
+163598,UT,Megan Van Wagenen,Unaffiliated,917,100.0,False,False
+163248,UT,Tracy J. Nuttall,Republican,23826,61.658,False,False
+163248,UT,Lacey Peterson,Democratic,14816,38.342,False,False
+163648,UT,Zach Thomas,Unaffiliated,856,55.512,False,False
+163648,UT,Jamie Nunley,Unaffiliated,686,44.488,False,False
+163410,UT,Tiffany Taylor Nelson,Nonpartisan,630,100.0,False,False
+163476,UT,Karen Pedersen,Nonpartisan,5668,78.179,False,False
+163476,UT,Dennis Lagodimos,Nonpartisan,1582,21.821,False,False
+163574,UT,Kay J. Christofferson,Republican,7562,53.536,True,False
+163574,UT,John Boyd,Forward,4279,30.294,False,False
+163574,UT,Kevin R Slater,Democratic,2284,16.17,False,False
+163460,UT,Cal Roberts,Republican,8229,55.934,True,False
+163460,UT,Braxten Rutherford,Democratic,6483,44.066,False,False
+163334,UT,Julie Powell,Nonpartisan,7061,51.152,False,False
+163334,UT,Alison R. Dunn,Nonpartisan,6743,48.848,False,False
+163425,UT,Rickey Dalton,Nonpartisan,87,56.129,False,False
+163425,UT,Ecko Barnson,Nonpartisan,68,43.871,False,False
+163601,UT,Yes,Nonpartisan,4757,81.735,False,False
+163601,UT,No,Nonpartisan,1063,18.265,False,False
+163475,UT,Andrew Edtl,Nonpartisan,5115,100.0,False,False
+163235,UT,Mike Schultz,Republican,7595,57.612,True,False
+163235,UT,Anna Graff,Democratic,5588,42.388,False,False
+163525,UT,Yes,Nonpartisan,5972,79.946,False,False
+163525,UT,No,Nonpartisan,1498,20.054,False,False
+163285,UT,J. Brett Chambers,Republican,30817,100.0,False,False
+163575,UT,Kristen S. Chevrier,Republican,10777,68.248,True,False
+163575,UT,Kristina Robinson,Democratic,5014,31.752,False,False
+163335,UT,Michelle Barber,Nonpartisan,6455,100.0,False,False
+163426,UT,Teresa Morgan,Nonpartisan,66,58.407,False,False
+163426,UT,Ricki Cannon,Nonpartisan,47,41.593,False,False
+163513,UT,Yes,Nonpartisan,1152,60.664,False,False
+163513,UT,No,Nonpartisan,747,39.336,False,False
+163579,UT,David Shallenberger,Republican,9865,62.575,True,False
+163579,UT,Karli Black,Democratic,5900,37.425,False,False
+163254,UT,Doug Fiefia,Republican,20485,58.907,True,False
+163254,UT,A. Dane Anderson,Democratic,14290,41.093,False,False
+163563,UT,Steve Labrum,Republican,8190,100.0,False,False
+163238,UT,Zane Woolstenhulme,Democratic,9974,51.794,True,False
+163238,UT,Tiara Auxier,Republican,9283,48.206,False,False
+163304,UT,Seth Marsing,Republican,4528,91.753,False,False
+163304,UT,Monica Vasquez,Write-In,343,6.95,False,False
+163304,UT,Write-in,Nonpartisan,64,1.297,False,False
+163288,UT,D. Chad Jensen,Republican,30835,100.0,False,False
+163578,UT,Nelson Abbott,Republican,7486,81.105,True,False
+163578,UT,Write-in,Nonpartisan,1744,18.895,False,False
+163338,UT,Yes,Nonpartisan,64338,77.915,False,False
+163338,UT,No,Nonpartisan,18237,22.085,False,False
+163429,UT,Anneliesa Peart,Republican,1070,100.0,False,False
+163605,UT,Michael Murphy,Republican,1678,55.161,False,False
+163605,UT,Joseph A. Tugaw,Democratic,1364,44.839,False,False
+163255,UT,Shana Anderson,Democratic,24859,54.074,True,False
+163255,UT,Kirk Cullimore,Republican,21113,45.926,False,False
+163239,UT,Celeste T. Johnson,Democratic,9628,51.196,False,False
+163239,UT,Luke Searle,Republican,9178,48.804,False,False
+163529,UT,Casey W. Jewkes,Republican,4680,100.0,False,False
+163609,UT,Erin Sabey,Nonpartisan,2009,100.0,False,False
+163259,UT,Stephanie Hollist,Republican,22757,56.843,True,False
+163259,UT,Garret Rushforth,Democratic,15150,37.842,False,False
+163259,UT,Jeffrey Ostler,Constitution,2128,5.315,False,False
+163581,UT,Lisa Shepherd,Republican,4878,48.814,False,False
+163581,UT,Alan Jimenez,Democratic,4718,47.213,False,False
+163581,UT,Jennifer K Doud,Constitution,397,3.973,False,False
+163659,UT,Yes,Nonpartisan,0,,False,False
+163659,UT,No,Nonpartisan,0,,False,False
+163565,UT,Jared E Putnam,Nonpartisan,899,51.43,False,False
+163565,UT,Denise R Maynard,Nonpartisan,849,48.57,False,False
+163624,UT,Yes,Nonpartisan,34458,81.639,False,False
+163624,UT,No,Nonpartisan,7750,18.361,False,False
+163608,UT,Jeremy M Hales,Republican,8635,68.11,False,False
+163608,UT,Paul Moore,Nonpartisan,4043,31.89,False,False
+163258,UT,"""CJ"" Christina Hernandez",Democratic,17451,55.996,True,False
+163258,UT,Jill F. Koford,Republican,13714,44.004,False,False
+163242,UT,Jr Bird,Republican,9297,75.133,True,False
+163242,UT,Carl Ingwell,Democratic,3077,24.867,False,False
+163532,UT,Richard L. Orr,Nonpartisan,861,100.0,False,False
+163292,UT,Russell Fisher,Nonpartisan,1528,100.0,False,False
+163582,UT,David Chappell,Democratic,5279,53.572,True,False
+163582,UT,Norm Thurston,Republican,4575,46.428,False,False
+163342,UT,Stephen Foote,Republican,4177,100.0,False,False
+163433,UT,Yes,Nonpartisan,921,84.263,False,False
+163433,UT,No,Nonpartisan,172,15.737,False,False
+163586,UT,Michelle Kaufusi,Republican,65337,60.454,False,False
+163586,UT,Jeanne Marie Bowen,Democratic,34380,31.811,False,False
+163586,UT,Jacob D. Oaks,Independent American,8360,7.735,False,False
+163261,UT,Brandon Yardley,Republican,1679,100.0,False,False
+163570,UT,Keith Grover,Republican,15174,54.551,True,False
+163570,UT,Tucker Smith,Democratic,12642,45.449,False,False
+163245,UT,Carl R. Albrecht,Republican,11331,82.744,True,False
+163245,UT,Stacey D. Pendergraft,Democratic,2073,15.138,False,False
+163245,UT,Zeno B. Parry,Forward,290,2.118,False,False
+163311,UT,Keri Pallesen,Republican,308,100.0,False,False
+163295,UT,Alanna Nafziger,Nonpartisan,1991,56.611,False,False
+163295,UT,Mark A Anderson,Nonpartisan,1526,43.389,False,False
+163585,UT,Doug Welton,Republican,10768,100.0,True,False
+163345,UT,Tyler Powell,Nonpartisan,720,66.237,False,False
+163345,UT,Tony L. Smith,Nonpartisan,367,33.763,False,False
+163436,UT,Silvia Catten,Democratic,26396,77.41,True,False
+163436,UT,Ryan L. Mahoney,Republican,6345,18.608,False,False
+163436,UT,Colin Smith,Forward,1358,3.983,False,False
+163395,UT,Patty Kubeja,Republican,2068,64.204,False,False
+163395,UT,Matthew Fisher,Nonpartisan,1153,35.796,False,False
+163262,UT,Ginger McMullin,Republican,1847,100.0,False,False
+163438,UT,Stephen Otterstrom,Democratic,8926,100.0,True,False
+163312,UT,Leonard Isaacson,Republican,293,100.0,False,False
+163296,UT,Burdette Barker,Nonpartisan,5360,100.0,False,False
+163250,UT,Leann Wood,Republican,39663,100.0,False,False
+163540,UT,Kacey Bates,Democratic,8253,100.0,False,False
+163215,UT,Yes,Nonpartisan,113902,75.976,False,False
+163215,UT,No,Nonpartisan,36017,24.024,False,False
+163524,UT,Connor L Thompson,Nonpartisan,675,100.0,False,False
+163615,UT,Gil Almquist,Republican,35619,70.131,False,False
+163615,UT,Gail Koske,Democratic,15170,29.869,False,False
+163265,UT,Joel M. Slade,Nonpartisan,355,100.0,False,False
+163441,UT,Angela Romero,Democratic,5875,78.616,True,False
+163441,UT,Richard T Nowak,Republican,1598,21.384,False,False
+163539,UT,Malena Stevens,Democratic,6109,57.621,False,False
+163539,UT,Suni Woolstenhulme,Republican,4493,42.379,False,False
+163491,UT,Jennifer Smith,Nonpartisan,4668,55.644,False,False
+163491,UT,R. Bryan Jensen,Nonpartisan,3721,44.356,False,False
+163589,UT,Gina Tanner,Republican,73371,72.686,False,False
+163589,UT,Hans V. Andersen,Independent American,27571,27.314,False,False
+163349,UT,Keven A. Jensen,Republican,2304,100.0,False,False
+163216,UT,Yes,Nonpartisan,40641,70.823,False,False
+163216,UT,No,Nonpartisan,16743,29.177,False,False
+163616,UT,Troy G Belliston,Republican,33658,66.148,False,False
+163616,UT,Sarah N. Anderson,Democratic,14860,29.204,False,False
+163616,UT,Kristin N Isham,Constitution,2365,4.648,False,False
+163266,UT,Troy Netto,Nonpartisan,299,100.0,False,False
+163577,UT,Val L. Peterson,Republican,5722,56.508,True,False
+163577,UT,Natassja Grossman,Democratic,4404,43.492,False,False
+163636,UT,Ryan D. Wilcox,Republican,6484,51.872,True,False
+163636,UT,Bianca Mittendorf,Democratic,6016,48.128,False,False
+163318,UT,Yes,Nonpartisan,268,80.0,False,False
+163318,UT,No,Nonpartisan,67,20.0,False,False
+163428,UT,Simeon B Weston,Republican,1100,100.0,False,False
+163494,UT,Yes,Nonpartisan,27762,81.373,False,False
+163494,UT,No,Nonpartisan,6355,18.627,False,False
+163368,UT,Everett Hildenbrandt,Nonpartisan,530,52.217,False,False
+163368,UT,Mike McCurdy,Republican,485,47.783,False,False
+163352,UT,Danielle Farley,Republican,2512,100.0,False,False
+163635,UT,Yes,Nonpartisan,769,82.07,False,False
+163635,UT,No,Nonpartisan,168,17.93,False,False
+163203,UT,Yes,Nonpartisan,14556,81.702,False,False
+163203,UT,No,Nonpartisan,3260,18.298,False,False
+163269,UT,Blair Wardle,Republican,16482,100.0,False,False
+163445,UT,Verona Mauga,Democratic,6859,70.799,True,False
+163445,UT,Melody Jones,Republican,2829,29.201,False,False
+163319,UT,Tami Tran,Republican,18430,56.645,True,False
+163319,UT,Jared Neal,Democratic,11723,36.031,False,False
+163319,UT,Josh Smith,Forward,2383,7.324,False,False
+163495,UT,Yes,Nonpartisan,32292,75.675,False,False
+163495,UT,No,Nonpartisan,10380,24.325,False,False
+163593,UT,Rick B. Ainge,Unaffiliated,2570,58.85,False,False
+163593,UT,Perry C. Ewell,Unaffiliated,1797,41.15,False,False
+163257,UT,Evan J Vickers,Republican,27707,75.162,True,False
+163257,UT,Richard S Robillard,Democratic,9156,24.838,False,False
+163323,UT,Bob J Stevenson,Republican,6673,51.477,True,False
+163323,UT,Abigail Treasure,Democratic,6290,48.523,False,False
+163222,UT,Yes,Nonpartisan,86503,75.969,False,False
+163222,UT,No,Nonpartisan,27363,24.031,False,False
+163307,UT,Nicole Hobbs,Nonpartisan,974,100.0,False,False
+163206,UT,Yes,Nonpartisan,185098,72.856,False,False
+163206,UT,No,Nonpartisan,68962,27.144,False,False
+163464,UT,Sarah Reale,Democratic,28495,100.0,False,False
+163448,UT,Julie Jackson,Democratic,12710,100.0,True,False
+163322,UT,Ariel Defay,Republican,8611,60.611,True,False
+163322,UT,Anne Berbert,Democratic,5596,39.389,False,False
+163498,UT,Yes,Nonpartisan,174276,76.689,False,False
+163498,UT,No,Nonpartisan,52973,23.311,False,False
+163596,UT,Melanie Hall,Unaffiliated,1575,100.0,False,False
+163356,UT,Royd F. Hatt,Nonpartisan,510,100.0,False,False
+163223,UT,Yes,Nonpartisan,14754,81.636,False,False
+163223,UT,No,Nonpartisan,3319,18.364,False,False
+163207,UT,Yes,Nonpartisan,196843,76.999,False,False
+163207,UT,No,Nonpartisan,58800,23.001,False,False
+163273,UT,Ryan J Burt,Nonpartisan,1658,50.06,False,False
+163273,UT,Kami M. Dupree,Nonpartisan,1654,49.94,False,False
+163360,UT,Barry L. Huntington,Republican,1597,100.0,False,False
+163227,UT,Yes,Nonpartisan,105861,71.235,False,False
+163227,UT,No,Nonpartisan,42748,28.765,False,False
+163325,UT,Paul Cutler,Republican,9214,59.522,True,False
+163325,UT,Scott Troxel,Democratic,6266,40.478,False,False
+163627,UT,Yes,Nonpartisan,5468,62.045,False,False
+163627,UT,No,Nonpartisan,3345,37.955,False,False
+163309,UT,Matt Tippets,Republican,292,100.0,False,False
+163375,UT,Mike Bleak,Republican,11872,100.0,False,False
+163359,UT,David Burnes Tebbs,Republican,1590,100.0,False,False
+163226,UT,Yes,Nonpartisan,117470,78.607,False,False
+163226,UT,No,Nonpartisan,31970,21.393,False,False
+163210,UT,Yes,Nonpartisan,90306,80.015,False,False
+163210,UT,No,Nonpartisan,22556,19.985,False,False
+163276,UT,Yes,Nonpartisan,1572,76.758,False,False
+163276,UT,No,Nonpartisan,476,23.242,False,False
+163452,UT,Sergio Sotelo,Unaffiliated,6272,56.065,True,False
+163452,UT,Chris McConnehey,Republican,4915,43.935,False,False
+163326,UT,Raymond P. Ward,Republican,11056,100.0,True,False
+163502,UT,Norman Lameman,Democratic,474,62.123,False,False
+163502,UT,Jamie Harvey,Republican,289,37.877,False,False
+163376,UT,K. Rand Bettridge,Republican,11233,76.177,False,False
+163376,UT,Wesley B. Curtis,Unaffiliated,3513,23.823,False,False
+163330,UT,Troy Rawlings,Republican,66850,100.0,False,False
+163229,UT,Yes,Nonpartisan,198880,78.255,False,False
+163229,UT,No,Nonpartisan,55262,21.745,False,False
+163314,UT,Sarah Wilson,Nonpartisan,60,100.0,False,False
+163405,UT,Hollie Miller,Republican,3468,100.0,False,False
+163471,UT,Ali Cloward,Democratic,164958,63.322,False,False
+163471,UT,Chris Harding,Republican,95547,36.678,False,False
+163588,UT,Jeff Gray,Republican,83313,100.0,False,False
+163455,UT,John Arthur,Democratic,13092,66.309,True,False
+163455,UT,Darren Croft,Republican,6652,33.691,False,False
+163329,UT,Bret Millburn,Unaffiliated,45680,50.493,False,False
+163329,UT,Susan Lee,Republican,44788,49.507,False,False
+163505,UT,Daylene Ann Redhorse,Democratic,982,50.488,False,False
+163505,UT,Lyman W. Duncan,Republican,963,49.512,False,False
+163404,UT,Louis Howard Quackenbush II,Republican,3478,100.0,False,False
+163555,UT,Paul J. Wimmer,Republican,15287,100.0,False,False
+163230,UT,Yes,Nonpartisan,204182,80.004,False,False
+163230,UT,No,Nonpartisan,51033,19.996,False,False
+163406,UT,Elise W. Harris,Republican,3478,100.0,False,False
+163472,UT,Lannie Chapman,Democratic,208724,100.0,False,False
+163456,UT,Iva Williams,Democratic,10832,53.565,True,False
+163456,UT,Clint Okerlund,Republican,9390,46.435,False,False
+163218,UT,Yes,Nonpartisan,106907,71.036,False,False
+163218,UT,No,Nonpartisan,43590,28.964,False,False
+163284,UT,Kathryn A. Beus,Republican,5907,78.446,False,False
+163284,UT,Peter Thatcher,Constitution,1623,21.554,False,False
+163382,UT,Telton Hall,Nonpartisan,2199,100.0,False,False
+163268,UT,Nathan Tueller,Republican,16273,100.0,False,False
+163558,UT,Elizabeth Smith,Nonpartisan,1834,55.158,False,False
+163558,UT,Tyson Poulson,Nonpartisan,1491,44.842,False,False
+163233,UT,Thomas Peterson,Republican,10153,69.186,True,False
+163233,UT,Chris Reid,Democratic,3110,21.193,False,False
+163233,UT,Jason O'Dell,Constitution,1412,9.622,False,False
+163409,UT,Steve O'Camb,Republican,3593,100.0,False,False
+163283,UT,Mark R. Hurd,Republican,4563,63.129,False,False
+163283,UT,Lizette Villegas,Democratic,2665,36.871,False,False
+163651,UT,Jodi B Kennedy,Unaffiliated,3444,50.476,False,False
+163651,UT,Jan Burrell,Unaffiliated,3379,49.524,False,False
+163333,UT,Jon Atkin,Republican,67144,100.0,False,False
+163509,UT,Katherine Williams,Nonpartisan,21,100.0,False,False
+163383,UT,Adam Hahn,Nonpartisan,1136,50.76,False,False
+163383,UT,Nathan Slaughter,Nonpartisan,1102,49.24,False,False
+163559,UT,Keith G. Campbell,Republican,8011,100.0,False,False
+163234,UT,Katy Hall,Republican,5970,51.841,True,False
+163234,UT,Dave Calder,Democratic,5546,48.159,False,False
+163321,UT,John Taylor,Republican,6368,55.446,True,False
+163321,UT,Brandon Young,Democratic,5117,44.554,False,False
+163387,UT,Marty L. Palmer,Republican,2914,100.0,False,False
+163478,UT,Amber Stone,Nonpartisan,7083,100.0,False,False
+163371,UT,Jamison Tyler Wiggins,Nonpartisan,2414,55.983,False,False
+163371,UT,Jim Winder,Nonpartisan,1898,44.017,False,False
+163654,UT,No,Nonpartisan,35413,55.621,False,False
+163654,UT,Yes,Nonpartisan,28255,44.379,False,False
+163528,UT,Greg L Jensen,Republican,4611,100.0,False,False
+163512,UT,Yes,Nonpartisan,266,71.698,False,False
+163512,UT,No,Nonpartisan,105,28.302,False,False
+163386,UT,J. David Fletcher,Republican,2752,76.466,False,False
+163386,UT,Dennis K. Timm,Constitution,847,23.534,False,False
+163562,UT,Margie Shewell,Republican,8103,100.0,False,False
+163237,UT,Sheldon Birch,Republican,9176,66.968,True,False
+163237,UT,Sara Snow,Democratic,3140,22.916,False,False
+163237,UT,Jonathan Garrard,Constitution,705,5.145,False,False
+163237,UT,Tynley Bean,Forward,681,4.97,False,False
+163413,UT,Jeff R. Mathews,Republican,3180,71.046,False,False
+163413,UT,Shelley Marie Hill-Worthen,Democratic,1296,28.954,False,False
+163479,UT,Aimee Warren,Nonpartisan,5968,97.421,False,False
+163479,UT,Dylanger McKissen,Nonpartisan,79,1.29,False,False
+163479,UT,Write-in,Nonpartisan,79,1.29,False,False
+163655,UT,Yes,Nonpartisan,47196,75.93,False,False
+163655,UT,No,Nonpartisan,14961,24.07,False,False
+163337,UT,Emily Price,Nonpartisan,9986,100.0,False,False
+163417,UT,Mandy Wallace,Nonpartisan,731,100.0,False,False
+163483,UT,Suzanne Wood,Nonpartisan,7614,100.0,False,False
+163389,UT,Tanielle Callaway,Republican,3152,100.0,False,False
+163467,UT,Jiro Johnson,Democratic,31596,86.356,False,False
+163467,UT,Casey Poe,Libertarian,4992,13.644,False,False
+163373,UT,Dave Bierschied,Nonpartisan,737,100.0,False,False
+163432,UT,Travis Eborn,Nonpartisan,151,62.397,False,False
+163432,UT,Richard L Lamb,Nonpartisan,91,37.603,False,False
+163416,UT,Corey C. Stark,Republican,3896,100.0,False,False
+163482,UT,Brian Barnett,Nonpartisan,3921,61.41,False,False
+163482,UT,Jeffrey Enquist,Nonpartisan,2464,38.59,False,False
+163658,UT,Yes,Nonpartisan,48144,77.085,False,False
+163658,UT,No,Nonpartisan,14312,22.915,False,False
+163340,UT,Tracy Killian,Republican,4247,100.0,False,False
+163516,UT,Kevin Lynn Daniels,Republican,6636,100.0,False,False
+163390,UT,M. Drake Underwood,Republican,3212,100.0,False,False
+163566,UT,Travis Allan,Nonpartisan,1716,100.0,False,False
+163241,UT,Troy Shelley,Republican,9102,71.669,True,False
+163241,UT,Breanne Mashek,Democratic,2331,18.354,False,False
+163241,UT,Russ Hatch,Constitution,1267,9.976,False,False
+163394,UT,Marc A Rowley,Nonpartisan,63,100.0,False,False
+163485,UT,Kami Anderson,Nonpartisan,1098,50.999,False,False
+163485,UT,Jessica Miller,Nonpartisan,1055,49.001,False,False
+163378,UT,Lucas A Little,Republican,12332,100.0,False,False
+163469,UT,Traci Crockett,Republican,20520,52.364,False,False
+163469,UT,Sara Cimmers,Democratic,18667,47.636,False,False
+163535,UT,Christie Babalis,Democratic,1679,100.0,False,False
+163519,UT,Jared Kokott Buchanan,Republican,6824,100.0,False,False
+163393,UT,Jessica Nielsen,Nonpartisan,48,100.0,False,False
+163569,UT,Brady Brammer,Republican,22322,57.054,True,False
+163569,UT,Kandee Myers,Democratic,10984,28.075,False,False
+163569,UT,Wayne Woodfield,Forward,5818,14.871,False,False
+163244,UT,Logan J. Monson,Republican,9805,57.939,True,False
+163244,UT,Tracie Yellowman Tso,Democratic,7118,42.061,False,False
+163612,UT,Colin W. Jack,Republican,9888,69.609,True,False
+163612,UT,Glenn D Webb,Democratic,4317,30.391,False,False
+163486,UT,Jill Weight,Nonpartisan,1676,100.0,False,False
+163246,UT,Kim James,Democratic,7426,49.889,True,False
+163246,UT,Jason B Kyle,Republican,6832,45.899,False,False
+163246,UT,Libby Shelton,Forward,627,4.212,False,False
+163536,UT,Canice Harte,Democratic,2027,100.0,False,False
+163520,UT,Rhett Thomas Larsen,Nonpartisan,671,100.0,False,False
+163474,UT,Amber Shill,Nonpartisan,7204,100.0,False,False
+163348,UT,Jordan Leonard,Republican,2379,100.0,False,False
+163631,UT,Felicia Snow,Republican,901,100.0,False,False
+163332,UT,Brian McKenzie,Republican,67403,100.0,False,False
+163423,UT,Kali Gleave,Republican,685,100.0,False,False
+163489,UT,Amanda Finlayson,Nonpartisan,420,50.0,False,False
+163489,UT,Write-in,Nonpartisan,420,50.0,False,False
+163249,UT,Linda Hanks,Republican,46968,100.0,False,False
+163347,UT,Emilee Serena Wells,Nonpartisan,755,100.0,False,False
+163299,UT,Yes,Nonpartisan,28067,82.835,False,False
+163299,UT,No,Nonpartisan,5816,17.165,False,False
+163397,UT,Jeff Stott,Republican,2615,100.0,False,False
+163573,UT,Cory Maloy,Republican,7324,54.693,True,False
+163573,UT,Nicole Melling,Democratic,5909,44.127,False,False
+163573,UT,Write-in,Nonpartisan,158,1.18,False,False
+163632,UT,Jayden T Coburn,Republican,954,100.0,False,False
+163424,UT,Ted Chappell,Nonpartisan,116,64.088,False,False
+163424,UT,Erin Jensen,Nonpartisan,65,35.912,False,False
+163490,UT,Annie Romano,Nonpartisan,4036,61.684,False,False
+163490,UT,Sandra Buendia,Nonpartisan,2507,38.316,False,False
+87459,UT,Celeste Maloy,Republican,146721,56.396,True,False
+87459,UT,Kent Udell,Democratic,93342,35.878,False,False
+87459,UT,Cassie Easley,Constitution,8106,3.116,False,False
+87459,UT,Michael R. Stoddard,Libertarian,5805,2.231,False,False
+87459,UT,Ayden Scott,Unaffiliated,4302,1.654,False,False
+87459,UT,Adonis Hooslyn,Unaffiliated,1887,0.725,False,False
+87460,UT,Mike Kennedy,Republican,144089,53.123,True,False
+87460,UT,Jonny Larsen,Democratic,106593,39.299,False,False
+87460,UT,Steven Burt,Unaffiliated,11735,4.326,False,False
+87460,UT,Taylor Wright,Libertarian,8819,3.251,False,False
+87457,UT,Ben McAdams,Democratic,181258,70.429,True,False
+87457,UT,Riley Owen,Republican,66222,25.731,False,False
+87457,UT,Jesse West,Libertarian,5996,2.33,False,False
+87457,UT,Elias Henry Montgomery,Unaffiliated,3732,1.45,False,False
+87457,UT,"Babak ""Bobby"" Darvish",Unaffiliated,78,0.03,False,False
+87457,UT,Write-in,Nonpartisan,78,0.03,False,False
+87458,UT,Blake Moore,Republican,128179,49.718,True,False
+87458,UT,Peter Crosby,Democratic,109840,42.604,False,False
+87458,UT,Carlton E. Bowen,Independent American,8542,3.313,False,False
+87458,UT,Robert M. Moesinger,Unaffiliated,6607,2.563,False,False
+87458,UT,Daniel Cottam,Libertarian,4646,1.802,False,False

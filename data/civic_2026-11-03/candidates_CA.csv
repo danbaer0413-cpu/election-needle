@@ -1,0 +1,2158 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+150505,CA,Yes,Nonpartisan,7302133,71.297,False,False
+150505,CA,No,Nonpartisan,2939715,28.703,False,False
+86954,CA,Fiona Ma,Democratic,8521636,65.516,True,False
+86954,CA,Gloria Romero,Republican,4485251,34.484,False,False
+150578,CA,Yes,Nonpartisan,6610004,51.211,True,False
+150578,CA,No,Nonpartisan,6297440,48.789,False,False
+150573,CA,Yes,Nonpartisan,7967473,62.496,True,False
+150573,CA,No,Nonpartisan,4781247,37.504,False,False
+86951,CA,Malia Cohen,Democratic,8466950,65.525,True,True
+86951,CA,Herb Morgan,Republican,4454844,34.475,False,False
+159506,CA,Democratic,Democratic,8205579,66.032,False,False
+159506,CA,Republican,Republican,3928846,31.616,False,False
+159506,CA,Green,Green,112112,0.902,False,False
+159506,CA,Independent,Independent,110104,0.886,False,False
+159506,CA,Peace and Freedom,Peace and Freedom,70078,0.564,False,False
+150581,CA,No,Nonpartisan,7132896,56.468,True,False
+150581,CA,Yes,Nonpartisan,5498953,43.532,False,False
+150570,CA,Yes,Nonpartisan,7857399,60.788,True,False
+150570,CA,No,Nonpartisan,5068592,39.212,False,False
+86955,CA,Shirley Weber,Democratic,8642495,66.535,True,True
+86955,CA,Don Wagner,Republican,4346923,33.465,False,False
+150568,CA,Yes,Nonpartisan,7834924,61.122,True,False
+150568,CA,No,Nonpartisan,4983530,38.878,False,False
+86957,CA,Eleni Kounalakis,Democratic,8481888,65.676,True,False
+86957,CA,Jennifer Hawks,Republican,4432802,34.324,False,False
+86952,CA,Xavier Becerra,Democratic,8654192,65.602,True,False
+86952,CA,Steve Hilton,Republican,4537796,34.398,False,False
+159507,CA,Democratic,Democratic,3975348,63.869,False,False
+159507,CA,Republican,Republican,2129017,34.205,False,False
+159507,CA,Libertarian,Libertarian,119847,1.925,False,False
+150575,CA,No,Nonpartisan,7869211,60.519,True,False
+150575,CA,Yes,Nonpartisan,5133762,39.481,False,False
+150574,CA,Yes,Nonpartisan,6887226,53.898,True,False
+150574,CA,No,Nonpartisan,5890994,46.102,False,False
+150569,CA,Yes,Nonpartisan,7845404,61.255,True,False
+150569,CA,No,Nonpartisan,4962474,38.745,False,False
+150579,CA,No,Nonpartisan,7320318,57.665,True,False
+150579,CA,Yes,Nonpartisan,5374305,42.335,False,False
+150571,CA,No,Nonpartisan,6356223,50.252,False,False
+150571,CA,Yes,Nonpartisan,6292404,49.748,False,False
+150577,CA,No,Nonpartisan,7056894,55.208,True,False
+150577,CA,Yes,Nonpartisan,5725465,44.792,False,False
+150576,CA,No,Nonpartisan,6790102,52.143,True,False
+150576,CA,Yes,Nonpartisan,6231936,47.857,False,False
+150504,CA,Yes,Nonpartisan,7386422,72.151,False,False
+150504,CA,No,Nonpartisan,2851075,27.849,False,False
+86953,CA,Jane Kim,Democratic,6135905,54.307,True,False
+86953,CA,Ben Allen,Democratic,5162621,45.693,False,False
+150580,CA,No,Nonpartisan,10394659,82.054,True,False
+150580,CA,Yes,Nonpartisan,2273373,17.946,False,False
+150572,CA,Yes,Nonpartisan,6451489,51.902,True,False
+150572,CA,No,Nonpartisan,5978755,48.098,False,False
+86950,CA,Rob Bonta,Democratic,8493851,65.457,True,True
+86950,CA,Michael Gates,Republican,4482468,34.543,False,False
+86956,CA,Richard Barrera,Nonpartisan,6577506,58.99,True,False
+86956,CA,Sonja Shaw,Nonpartisan,4564712,40.939,False,False
+86956,CA,Write-in,Nonpartisan,7951,0.071,False,False
+150523,CA,Yes,Nonpartisan,1497358,73.859,False,False
+150523,CA,No,Nonpartisan,529955,26.141,False,False
+182034,CA,Jim Dear,Nonpartisan,3788,75.518,False,False
+182034,CA,Derek Haskell Jr.,Nonpartisan,1205,24.023,False,False
+182034,CA,Write-in,Nonpartisan,23,0.459,False,False
+182122,CA,John Cruikshank,Nonpartisan,7948,25.88,False,False
+182122,CA,David Chura,Nonpartisan,6182,20.13,False,False
+182122,CA,Matthew Brach,Nonpartisan,4898,15.949,False,False
+182122,CA,Tina Funiciello,Nonpartisan,4730,15.402,False,False
+182122,CA,Jessica Patton Vlaco,Nonpartisan,3614,11.768,False,False
+182122,CA,Michele Patrick Carbone,Nonpartisan,3255,10.599,False,False
+182122,CA,Write-in,Nonpartisan,84,0.274,False,False
+150420,CA,Avelino Valencia,Democratic,169317,70.653,True,False
+150420,CA,Rhonda Shader,Republican,70330,29.347,False,False
+182116,CA,Yes,Nonpartisan,3951,67.274,False,False
+182116,CA,No,Nonpartisan,1922,32.726,False,False
+150411,CA,Melissa Hurtado,Democratic,120014,62.465,True,True
+150411,CA,Guillermo Asuncion Gonzalez,Republican,72116,37.535,False,False
+150502,CA,LaShae Sharp-Collins,Democratic,101201,70.264,True,True
+150502,CA,Andrew Lawson,Republican,42828,29.736,False,False
+182013,CA,John Han,Nonpartisan,956,52.876,False,False
+182013,CA,Grace Arabella Lee,Nonpartisan,448,24.779,False,False
+182013,CA,Cynthia NG Monje,Nonpartisan,396,21.903,False,False
+182013,CA,Write-in,Nonpartisan,8,0.442,False,False
+182293,CA,Drew Mercy,Nonpartisan,6463,70.388,False,False
+182293,CA,Lynn Robert Barnes,Nonpartisan,2645,28.806,False,False
+182293,CA,Write-in,Nonpartisan,74,0.806,False,False
+182199,CA,Betty Luz Monroy,Nonpartisan,2377,58.939,False,False
+182199,CA,Joseph Manacmul,Nonpartisan,1636,40.565,False,False
+182199,CA,Write-in,Nonpartisan,20,0.496,False,False
+182563,CA,Kelly Mendoza,Nonpartisan,4162,52.744,False,False
+182563,CA,Elizabeth A. Bredall,Nonpartisan,2238,28.361,False,False
+182563,CA,Tracey Simmons,Nonpartisan,1491,18.895,False,False
+150550,CA,Yes,Nonpartisan,1211517,67.857,False,False
+150550,CA,No,Nonpartisan,573868,32.143,False,False
+150478,CA,Isaac G. Bryan,Democratic,102285,66.29,True,True
+150478,CA,Ashley M. Brown,Democratic,52015,33.71,False,False
+150456,CA,Hipolito Angel Cerros,Democratic,56045,50.692,False,False
+150456,CA,Alexandra (Ali) Macedo,Republican,54514,49.308,False,True
+150544,CA,Yes,Nonpartisan,1129936,62.391,False,False
+150544,CA,No,Nonpartisan,681122,37.609,False,False
+150447,CA,Alex Lee,Democratic,94465,71.949,True,True
+150447,CA,Max Hsia,Republican,36830,28.051,False,False
+182175,CA,Jean McHatton,Nonpartisan,2227,55.302,False,False
+182175,CA,Brian Ferrer,Nonpartisan,1775,44.077,False,False
+182175,CA,Write-in,Nonpartisan,25,0.621,False,False
+150538,CA,Yes,Nonpartisan,419006,64.895,False,False
+150538,CA,No,Nonpartisan,226663,35.105,False,False
+182273,CA,Darlene Trevino,Nonpartisan,9144,55.855,False,False
+182273,CA,Reza Rassool,Nonpartisan,7155,43.705,False,False
+182273,CA,Write-in,Nonpartisan,72,0.44,False,False
+182637,CA,Yes,Nonpartisan,4838,64.974,False,False
+182637,CA,No,Nonpartisan,2608,35.026,False,False
+150432,CA,Heath Flora,Republican,93176,56.308,True,True
+150432,CA,Matthew Adams,Democratic,72299,43.692,False,False
+182043,CA,Yes,Nonpartisan,2157,79.331,False,False
+182043,CA,No,Nonpartisan,562,20.669,False,False
+182162,CA,Yes,Nonpartisan,411030,53.673,False,False
+182162,CA,No,Nonpartisan,354778,46.327,False,False
+182065,CA,Ralph Munoz IV,Nonpartisan,1705,48.686,False,False
+182065,CA,Karen K. Davis,Nonpartisan,1473,42.062,False,False
+182065,CA,Lindsey Morgan,Nonpartisan,299,8.538,False,False
+182065,CA,Write-in,Nonpartisan,25,0.714,False,False
+182260,CA,Yes,Nonpartisan,81281,73.62,False,False
+182260,CA,No,Nonpartisan,29125,26.38,False,False
+182156,CA,Letty Lopez,Nonpartisan,2115,44.828,False,False
+182156,CA,Leslie H. Garcia,Nonpartisan,1503,31.857,False,False
+182156,CA,Carlos Yado,Nonpartisan,1078,22.849,False,False
+182156,CA,Write-in,Nonpartisan,22,0.466,False,False
+182059,CA,Martin Herrera,Nonpartisan,1882,95.776,False,False
+182059,CA,Write-in,Nonpartisan,83,4.224,False,False
+182147,CA,Yodit Glaze,Nonpartisan,11927,91.15,False,False
+182147,CA,Write-in,Nonpartisan,1158,8.85,False,False
+150445,CA,Juan Alanis,Republican,81315,100.0,True,True
+182141,CA,Yes,Nonpartisan,22163,70.956,False,False
+182141,CA,No,Nonpartisan,9072,29.044,False,False
+182236,CA,Eliana Tapia,Nonpartisan,948,58.919,False,False
+182236,CA,Susana Ramirez,Nonpartisan,647,40.211,False,False
+182236,CA,Write-in,Nonpartisan,14,0.87,False,False
+182135,CA,Kelvin Driscoll,Nonpartisan,6913,49.234,False,False
+182135,CA,Bob Khalsa,Nonpartisan,5789,41.229,False,False
+182135,CA,Liliia Chernova,Nonpartisan,1279,9.109,False,False
+182135,CA,Write-in,Nonpartisan,60,0.427,False,False
+182230,CA,Pamela Starlson,Nonpartisan,2082,52.063,False,False
+182230,CA,Paula Joyce Clarke-Provinsal,Nonpartisan,1871,46.787,False,False
+182230,CA,Write-in,Nonpartisan,46,1.15,False,False
+182594,CA,Rico E. Medina,Nonpartisan,5979,100.0,False,False
+150421,CA,Chris Duncan,Democratic,201183,51.614,True,False
+150421,CA,Tony Strickland,Republican,188601,48.386,False,True
+182500,CA,Matt Waugh,Nonpartisan,1369,43.71,False,False
+182500,CA,Julie Suchard,Nonpartisan,1073,34.259,False,False
+182500,CA,Santosh Sabnis,Nonpartisan,690,22.031,False,False
+182588,CA,Cindy Abbott,Nonpartisan,1483,100.0,False,False
+182491,CA,Steven Thornton,Nonpartisan,4711,100.0,False,False
+182111,CA,Laura Bettencourt,Nonpartisan,2358,41.957,False,False
+182111,CA,Jeremiah Farrell,Nonpartisan,1018,18.114,False,False
+182111,CA,Anain Robles,Nonpartisan,929,16.53,False,False
+182111,CA,Franzelle Louis Johnson Jr.,Nonpartisan,736,13.096,False,False
+182111,CA,Carlos D. Cordero,Nonpartisan,546,9.715,False,False
+182111,CA,Write-in,Nonpartisan,33,0.587,False,False
+182582,CA,Vamsi Velagapudi,Nonpartisan,721,50.314,False,False
+182582,CA,Drew Combs,Nonpartisan,712,49.686,False,False
+182017,CA,Edward J. Alvarez,Nonpartisan,1172,68.14,False,False
+182017,CA,Vanessa Jones,Nonpartisan,537,31.221,False,False
+182017,CA,Write-in,Nonpartisan,11,0.64,False,False
+182297,CA,Amy I. Chen,Nonpartisan,4429,74.475,False,False
+182297,CA,Laura Olhasso,Nonpartisan,1508,25.357,False,False
+182297,CA,Write-in,Nonpartisan,10,0.168,False,False
+182476,CA,Harry Huggins,Nonpartisan,838,54.807,False,False
+182476,CA,Laura Thies,Nonpartisan,691,45.193,False,False
+150563,CA,Yes,Nonpartisan,268791,76.4,False,False
+150563,CA,No,Nonpartisan,83030,23.6,False,False
+182567,CA,Gina Latimerlo,Nonpartisan,937,100.0,False,False
+150490,CA,Mark Pulido,Democratic,91327,64.495,True,False
+150490,CA,Paulo Morales,Republican,50276,35.505,False,False
+182001,CA,Yes,Nonpartisan,1496898,73.574,False,False
+182001,CA,No,Nonpartisan,537652,26.426,False,False
+182196,CA,Nicole J. Jones,Nonpartisan,5661,66.164,False,False
+182196,CA,Adrian D. Cleveland,Nonpartisan,2858,33.403,False,False
+182196,CA,Write-in,Nonpartisan,37,0.432,False,False
+150484,CA,Tina Simone McKinnor,Democratic,120352,84.503,True,True
+150484,CA,Brian Lockwood,Republican,22072,15.497,False,False
+182187,CA,Judith Manouchehri,Nonpartisan,5822,31.018,False,False
+182187,CA,David Cienfuegos,Nonpartisan,5078,27.054,False,False
+182187,CA,Jackie R. Kruger,Nonpartisan,3666,19.531,False,False
+182187,CA,Kimberly Lifschitz,Nonpartisan,3075,16.383,False,False
+182187,CA,Jared Gonzales,Nonpartisan,1086,5.786,False,False
+182187,CA,Write-in,Nonpartisan,43,0.229,False,False
+150475,CA,Jessica Caloza,Democratic,140403,87.524,True,True
+150475,CA,Andrea Lee Anderson,Republican,20013,12.476,False,False
+182489,CA,Bryan Zahn,Nonpartisan,2819,55.591,False,False
+182489,CA,Cynthia Vasquez,Nonpartisan,2252,44.409,False,True
+150469,CA,Jesse Gabriel,Democratic,105206,70.871,True,True
+150469,CA,Tracey Schroeder,Republican,43241,29.129,False,False
+182172,CA,Barri Worth Girvan,Nonpartisan,27779,50.208,False,False
+182172,CA,Timothy K. Gaspar,Nonpartisan,27549,49.792,False,False
+182078,CA,No,Nonpartisan,11683,50.519,False,False
+182078,CA,Yes,Nonpartisan,11443,49.481,False,False
+182442,CA,Annie Warne,Nonpartisan,982,61.8,False,True
+182442,CA,Gary Shields,Nonpartisan,607,38.2,False,False
+182537,CA,Yes,Nonpartisan,17863,70.624,False,False
+182537,CA,No,Nonpartisan,7430,29.376,False,False
+182157,CA,Ollie Cantos,Nonpartisan,2612,52.832,False,False
+182157,CA,Danny Roman,Nonpartisan,1194,24.15,False,False
+182157,CA,Pauline Pezza,Nonpartisan,1115,22.553,False,False
+182157,CA,Write-in,Nonpartisan,23,0.465,False,False
+182628,CA,Yes,Nonpartisan,1777,67.133,False,False
+182628,CA,No,Nonpartisan,870,32.867,False,False
+182531,CA,Shawn Dewane,Nonpartisan,2895,59.19,False,True
+182531,CA,Mikelle Fish,Nonpartisan,1996,40.81,False,False
+150511,CA,Yes,Nonpartisan,722971,78.305,False,False
+150511,CA,No,Nonpartisan,200306,21.695,False,False
+150446,CA,Marc Berman,Democratic,142759,76.767,True,True
+150446,CA,David G. Johnson,Republican,43206,23.233,False,False
+182525,CA,Mark Levy,Nonpartisan,350,63.063,False,False
+182525,CA,Kirsten Rieser,Nonpartisan,205,36.937,False,False
+182421,CA,Sara J. Pelly,Nonpartisan,26319,53.051,False,True
+182421,CA,Crystal K. Miles,Nonpartisan,18973,38.244,False,False
+182421,CA,"Armando ""Mando"" Perez-Serrato",Nonpartisan,4319,8.706,False,False
+182240,CA,Steven F. Veres,Nonpartisan,409302,41.402,False,False
+182240,CA,Adriana Cabrera,Nonpartisan,311603,31.52,False,False
+182240,CA,Kristina Irwin,Nonpartisan,140550,14.217,False,False
+182240,CA,Roy Payan,Nonpartisan,71150,7.197,False,False
+182240,CA,Robert Payne,Nonpartisan,52994,5.36,False,False
+182240,CA,Write-in,Nonpartisan,3004,0.304,False,False
+182412,CA,Linda Shepard,Nonpartisan,9463,57.856,False,False
+182412,CA,Ron Ruef,Nonpartisan,6893,42.144,False,False
+182607,CA,Daniel Druker,Nonpartisan,226,100.0,False,False
+182510,CA,Isuri S. Ramos,Nonpartisan,3077,53.569,False,False
+182510,CA,Giovanni Chavez,Nonpartisan,2667,46.431,False,False
+150521,CA,Yes,Nonpartisan,1528213,74.517,False,False
+150521,CA,No,Nonpartisan,522621,25.483,False,False
+182132,CA,Yes,Nonpartisan,2971,71.213,False,False
+182132,CA,No,Nonpartisan,1201,28.787,False,False
+150427,CA,Cecilia M. Aguiar-Curry,Democratic,132833,100.0,True,True
+182123,CA,Yes,Nonpartisan,14096,64.277,False,False
+182123,CA,No,Nonpartisan,7834,35.723,False,False
+150418,CA,Bob J. Archuleta,Democratic,211085,69.439,True,True
+150418,CA,Araceli Martinez,Republican,92901,30.561,False,False
+150509,CA,Yes,Nonpartisan,749293,80.219,False,False
+150509,CA,No,Nonpartisan,184762,19.781,False,False
+150412,CA,Steve Padilla,Democratic,185191,69.579,True,True
+150412,CA,Art Hodges,Republican,80970,30.421,False,False
+150500,CA,Tasha Boerner,Democratic,142397,65.287,True,True
+150500,CA,Trinity Hannaway,Republican,75711,34.713,False,False
+150406,CA,Roger Niello,Republican,200295,50.65,False,True
+150406,CA,Sean Frame,Democratic,195156,49.35,False,False
+182102,CA,"Ricardo ""Ric"" Alonzo",Nonpartisan,1210,56.781,False,False
+182102,CA,James Santana,Nonpartisan,911,42.75,False,False
+182102,CA,Write-in,Nonpartisan,10,0.469,False,False
+182473,CA,Betty Martinez Franco,Nonpartisan,3860,34.232,False,True
+182473,CA,Anthony Kuo,Nonpartisan,2922,25.913,False,False
+182473,CA,Steven Alves,Nonpartisan,2877,25.514,False,False
+182473,CA,Byron Salvatierra,Nonpartisan,1023,9.072,False,False
+182473,CA,Julie Glossbrenner,Nonpartisan,594,5.268,False,False
+150485,CA,José Luis Solache,Democratic,92167,78.056,True,True
+150485,CA,Paul Irving Jones,Republican,25911,21.944,False,False
+182288,CA,Julee Brooks,Nonpartisan,8792,53.369,False,False
+182288,CA,Bryan Biggers,Nonpartisan,7644,46.4,False,False
+182288,CA,Write-in,Nonpartisan,38,0.231,False,False
+150551,CA,Yes,Nonpartisan,1147607,64.204,False,False
+150551,CA,No,Nonpartisan,639840,35.796,False,False
+182562,CA,Grace Sobieski,Nonpartisan,4837,22.52,False,False
+182562,CA,Christopher Swiedler,Nonpartisan,3971,18.488,False,False
+182562,CA,Tiffany Button,Nonpartisan,3752,17.468,False,False
+182562,CA,Bridget Hardt,Nonpartisan,2751,12.808,False,False
+182562,CA,Katy Bradley,Nonpartisan,2640,12.291,False,False
+182562,CA,Laverne R Villalobos,Nonpartisan,2127,9.903,False,False
+182562,CA,Rachel Durkin,Nonpartisan,1401,6.523,False,False
+182490,CA,James Morrison,Nonpartisan,2597,51.405,False,False
+182490,CA,Laura Lacko,Nonpartisan,2455,48.595,False,False
+150545,CA,Yes,Nonpartisan,1245947,69.222,False,False
+150545,CA,No,Nonpartisan,553995,30.778,False,False
+182556,CA,Jennifer Jacobson,Nonpartisan,5237,50.978,False,False
+182556,CA,Diana Harris,Nonpartisan,5036,49.022,False,False
+182452,CA,Cecilia Hupp,Nonpartisan,7230,24.326,False,True
+182452,CA,Blair Stewart,Nonpartisan,6937,23.34,False,True
+182452,CA,Steven C. Vargas,Nonpartisan,6048,20.349,False,True
+182452,CA,Blake Perez,Nonpartisan,5026,16.911,False,False
+182452,CA,Andrew Herrera,Nonpartisan,4480,15.074,False,False
+182271,CA,Gina L. Chi,Nonpartisan,3758,23.471,False,False
+182271,CA,Cecilia Reyes Keffer,Nonpartisan,3642,22.747,False,False
+182271,CA,Rochelle Kate Ongsiako Haas,Nonpartisan,3130,19.549,False,False
+182271,CA,Gary Thomas Scott,Nonpartisan,3040,18.987,False,False
+182271,CA,Leif Halgard Andersen,Nonpartisan,2368,14.79,False,False
+182271,CA,Write-in,Nonpartisan,73,0.456,False,False
+182550,CA,Dana Johnson,Nonpartisan,6142,52.33,False,False
+182550,CA,Beverly Gerard,Nonpartisan,5595,47.67,False,False
+182446,CA,Max Duncan,Nonpartisan,1636,58.68,False,True
+182446,CA,Steven Von Der Porten,Nonpartisan,1152,41.32,False,False
+150433,CA,Stephanie Nguyen,Democratic,116668,73.954,True,True
+150433,CA,Vinaya Singh,Republican,41089,26.046,False,False
+182075,CA,Graciela Ortiz,Nonpartisan,770,62.298,False,False
+182075,CA,Valentin Amezquita,Nonpartisan,450,36.408,False,False
+182075,CA,Write-in,Nonpartisan,16,1.294,False,False
+150555,CA,Yes,Nonpartisan,1204295,67.727,False,False
+150555,CA,No,Nonpartisan,573858,32.273,False,False
+182066,CA,Jesus Mendoza,Nonpartisan,1209,23.055,False,False
+182066,CA,Dandy De Paula,Nonpartisan,1117,21.301,False,False
+182066,CA,Luis Gonzalez,Nonpartisan,1020,19.451,False,False
+182066,CA,Maria Teresa Del Rio,Nonpartisan,1014,19.336,False,False
+182066,CA,Luis Roa,Nonpartisan,865,16.495,False,False
+182066,CA,Write-in,Nonpartisan,19,0.362,False,False
+182154,CA,Nickolas Lewis,Nonpartisan,18853,98.459,False,False
+182154,CA,Write-in,Nonpartisan,295,1.541,False,False
+150452,CA,Robert Rivas,Democratic,94266,71.975,True,True
+150452,CA,Dennis P. Sanchez,Republican,36704,28.025,False,False
+182148,CA,Jose De La Paz,Nonpartisan,12396,96.182,False,False
+182148,CA,Write-in,Nonpartisan,492,3.818,False,False
+150443,CA,Liz Ortega,Democratic,115562,77.429,True,True
+150443,CA,Patricia Muga,Republican,33687,22.571,False,False
+150534,CA,Yes,Nonpartisan,1482180,74.858,False,False
+150534,CA,No,Nonpartisan,497817,25.142,False,False
+182045,CA,Yes,Nonpartisan,9217,63.627,False,False
+182045,CA,No,Nonpartisan,5269,36.373,False,False
+182409,CA,Wendy Criner,Nonpartisan,1091,55.692,False,False
+182409,CA,Natalie Johnson,Nonpartisan,868,44.308,False,True
+182039,CA,Kevin Lainez,Nonpartisan,1454,23.429,False,False
+182039,CA,Vanessa Haro,Nonpartisan,1235,19.9,False,False
+182039,CA,Mireya Garcia,Nonpartisan,1124,18.112,False,False
+182039,CA,Nick Padilla,Nonpartisan,1044,16.822,False,False
+182039,CA,Leonard Mendoza,Nonpartisan,678,10.925,False,False
+182039,CA,Jaime Valencia,Nonpartisan,648,10.442,False,False
+182039,CA,Write-in,Nonpartisan,23,0.371,False,False
+182595,CA,Kingsley Ma,Nonpartisan,1317,60.385,False,False
+182595,CA,Jennifer M. Blanco,Nonpartisan,864,39.615,False,False
+182222,CA,Yaritza A. Gonzalez,Nonpartisan,2615,65.836,False,False
+182222,CA,Brandon George Myers,Nonpartisan,1341,33.761,False,False
+182222,CA,Write-in,Nonpartisan,16,0.403,False,False
+150510,CA,Yes,Nonpartisan,738036,79.529,False,False
+150510,CA,No,Nonpartisan,189973,20.471,False,False
+182589,CA,Margo Meiman,Nonpartisan,1352,65.409,False,False
+182589,CA,Sam Casillas,Nonpartisan,715,34.591,False,False
+182216,CA,Gino Kwok,Nonpartisan,3136,60.436,False,False
+182216,CA,Melissa C. Smith,Nonpartisan,1542,29.717,False,False
+182216,CA,Tran Bao Satter,Nonpartisan,477,9.193,False,False
+182216,CA,Write-in,Nonpartisan,34,0.655,False,False
+182580,CA,Susie Morasci,Nonpartisan,341,58.591,False,False
+182580,CA,Steven R. Booker,Nonpartisan,241,41.409,False,False
+182015,CA,Rene J. Trevino,Nonpartisan,1929,24.539,False,False
+182015,CA,Melissa Ramoso,Nonpartisan,1915,24.361,False,False
+182015,CA,Ali Taj,Nonpartisan,1839,23.394,False,False
+182015,CA,Dan Rocha,Nonpartisan,1733,22.046,False,False
+182015,CA,Craig Francis,Nonpartisan,408,5.19,False,False
+182015,CA,Write-in,Nonpartisan,37,0.471,False,False
+182210,CA,Yes,Nonpartisan,9101,64.2,False,False
+182210,CA,No,Nonpartisan,5075,35.8,False,False
+182106,CA,Dora Leung,Nonpartisan,8984,98.379,False,False
+182106,CA,Write-in,Nonpartisan,148,1.621,False,False
+182477,CA,Scott Miller,Nonpartisan,912,46.201,False,False
+182477,CA,Tiffany Boccieri,Nonpartisan,429,21.733,False,False
+182477,CA,Michael Caputo,Nonpartisan,379,19.2,False,False
+182477,CA,Valerie Anne Geller,Nonpartisan,254,12.867,False,False
+182565,CA,Juslyn Cabrera Manalo,Nonpartisan,10657,54.116,False,False
+182565,CA,Mark Nagales,Nonpartisan,9036,45.884,False,False
+182599,CA,Seema Patel,Nonpartisan,2060,62.236,False,False
+182599,CA,Robert G. Newsom Jr.,Nonpartisan,1250,37.764,False,False
+182002,CA,Robert G. Luna,Nonpartisan,1492278,68.911,False,False
+182002,CA,Alex Villanueva,Nonpartisan,664209,30.672,False,False
+182002,CA,Write-in,Nonpartisan,9037,0.417,False,False
+150482,CA,Phillip Chen,Republican,109666,59.528,True,True
+150482,CA,Victor Hernandez,Green,74559,40.472,False,False
+182496,CA,Dan Slater,Nonpartisan,18944,59.113,False,True
+182496,CA,Arianna Barrios,Nonpartisan,13103,40.887,False,False
+150476,CA,Michelle Rodriguez,Democratic,86702,68.817,True,True
+150476,CA,Rafaela Romero,Republican,39287,31.183,False,False
+182487,CA,"Robert ""Bob"" Ruesch",Nonpartisan,3867,66.091,False,True
+182487,CA,Kristen Wilcox,Nonpartisan,1984,33.909,False,False
+182578,CA,David Gorn,Nonpartisan,390,67.01,False,False
+182578,CA,Robert Brownstone,Nonpartisan,192,32.99,False,False
+150565,CA,Yes,Nonpartisan,274508,76.872,False,False
+150565,CA,No,Nonpartisan,82589,23.128,False,False
+182268,CA,Agnes P. Gonzalez,Nonpartisan,3203,81.068,False,False
+182268,CA,Obie Obiacoro,Nonpartisan,721,18.249,False,False
+182268,CA,Write-in,Nonpartisan,27,0.683,False,False
+182167,CA,Yes,Nonpartisan,589342,76.101,False,False
+182167,CA,No,Nonpartisan,185078,23.899,False,False
+182262,CA,Michelle Richardson Bailey,Nonpartisan,4392,62.227,False,False
+182262,CA,Veronica Elias,Nonpartisan,2631,37.277,False,False
+182262,CA,Write-in,Nonpartisan,35,0.496,False,False
+182626,CA,Yes,Nonpartisan,4969,77.641,False,False
+182626,CA,No,Nonpartisan,1431,22.359,False,False
+150453,CA,Dawn Addis,Democratic,135191,65.268,True,True
+150453,CA,Shannon Kessler,Republican,71942,34.732,False,False
+182532,CA,Jill Coss,Nonpartisan,2357,21.251,False,False
+182532,CA,Chad Brown,Nonpartisan,2214,19.962,False,False
+182532,CA,John Casarietti,Nonpartisan,2150,19.385,False,False
+182532,CA,Glenn Acosta,Nonpartisan,1279,11.532,False,True
+182532,CA,Brad Weiskittel,Nonpartisan,1091,9.837,False,False
+182532,CA,Mike Safranski,Nonpartisan,1065,9.602,False,True
+182532,CA,Edward Mandich,Nonpartisan,935,8.43,False,True
+182620,CA,Yes,Nonpartisan,88150,69.072,False,False
+182620,CA,No,Nonpartisan,39471,30.928,False,False
+182523,CA,Jo Shade,Nonpartisan,1842,36.811,False,True
+182523,CA,Jody L. Roubanis,Nonpartisan,1650,32.974,False,False
+182523,CA,Konya Vivanti,Nonpartisan,1512,30.216,False,False
+182143,CA,Yes,Nonpartisan,18945,61.849,False,False
+182143,CA,No,Nonpartisan,11686,38.151,False,False
+182614,CA,Yes,Nonpartisan,4996,70.06,False,False
+182614,CA,No,Nonpartisan,2135,29.94,False,False
+182049,CA,Steve Tye,Nonpartisan,1580,50.463,False,False
+182049,CA,Ruben Torres,Nonpartisan,1543,49.281,False,False
+182049,CA,Write-in,Nonpartisan,8,0.256,False,False
+182413,CA,Lan Quoc Nguyen,Nonpartisan,7339,59.993,False,True
+182413,CA,Charlene Cuellar,Nonpartisan,4894,40.007,False,False
+182508,CA,Benjamin Vazquez,Nonpartisan,3789,72.075,False,True
+182508,CA,Selica Diaz,Nonpartisan,1468,27.925,False,False
+150403,CA,Tom Umberg,Democratic,1156093,56.482,False,False
+150403,CA,Denis Bilodeau,Republican,890734,43.518,False,False
+150522,CA,Yes,Nonpartisan,1470961,74.443,False,False
+150522,CA,No,Nonpartisan,504994,25.557,False,False
+150425,CA,Chris Rogers,Democratic,144512,71.088,True,True
+150425,CA,Michael Greer,Republican,58775,28.912,False,False
+182036,CA,Ed Reece,Nonpartisan,1703,96.816,False,False
+182036,CA,Write-in,Nonpartisan,56,3.184,False,False
+150516,CA,Yes,Nonpartisan,713508,78.146,False,False
+150516,CA,No,Nonpartisan,199542,21.854,False,False
+150419,CA,Kelly Seyarto,Republican,182677,51.933,False,True
+150419,CA,Tiffanie Tate,Democratic,169079,48.067,False,False
+150507,CA,Yes,Nonpartisan,750163,80.304,False,False
+150507,CA,No,Nonpartisan,183994,19.696,False,False
+182521,CA,Anne Figueroa,Nonpartisan,1764,49.578,False,False
+182521,CA,Natalie Guse,Nonpartisan,1367,38.42,False,False
+182521,CA,Rod Ganjifard,Nonpartisan,427,12.001,False,False
+150501,CA,Chris Ward,Democratic,149981,73.58,True,True
+150501,CA,Payton Galvez,Republican,53852,26.42,False,False
+182012,CA,Sharon Kwan,Nonpartisan,1906,53.419,False,False
+182012,CA,Burton Brink,Nonpartisan,1643,46.048,False,False
+182012,CA,Write-in,Nonpartisan,19,0.533,False,False
+150495,CA,Chris Kluwe,Democratic,110443,50.2,False,False
+150495,CA,Gracey Van Der Mark,Republican,109563,49.8,False,False
+182198,CA,Stephanie Loredo,Nonpartisan,8993,29.344,False,False
+182198,CA,Brian Guerrero,Nonpartisan,8207,26.779,False,False
+182198,CA,Triston Ezidore,Nonpartisan,7914,25.823,False,False
+182198,CA,Darrel Menthe,Nonpartisan,5381,17.558,False,False
+182198,CA,Write-in,Nonpartisan,152,0.496,False,False
+182286,CA,Linda L. Small,Nonpartisan,1542,50.065,False,False
+182286,CA,Andrew Roble,Nonpartisan,1514,49.156,False,False
+182286,CA,Write-in,Nonpartisan,24,0.779,False,False
+182497,CA,Brandy Romero,Nonpartisan,2350,53.433,False,False
+182497,CA,"Albert ""Aj"" Ricci",Nonpartisan,1188,27.012,False,False
+182497,CA,Jonathan ST Clair,Nonpartisan,477,10.846,False,False
+182497,CA,Ernie Glasgow,Nonpartisan,383,8.709,False,False
+182468,CA,Hieu Nguyen,Nonpartisan,2233,36.733,False,False
+182468,CA,Patrick Phat Bui,Nonpartisan,1680,27.636,False,False
+182468,CA,Joe Dovinh,Nonpartisan,1525,25.086,False,True
+182468,CA,Amanda Mohr,Nonpartisan,641,10.544,False,False
+182280,CA,Yes,Nonpartisan,5446,70.099,False,False
+182280,CA,No,Nonpartisan,2323,29.901,False,False
+150543,CA,Yes,Nonpartisan,1261681,69.291,False,False
+150543,CA,No,Nonpartisan,559173,30.709,False,False
+150471,CA,Blanca Rubio,Democratic,100563,69.969,True,True
+150471,CA,Dan T. Tran,Republican,43162,30.031,False,False
+182557,CA,Alison Proctor,Nonpartisan,5794,81.331,False,False
+182557,CA,Kimo Rosenbaum,Nonpartisan,1330,18.669,False,False
+182177,CA,Newton Chelette,Nonpartisan,6596,50.852,False,False
+182177,CA,Ricardo Ortega,Nonpartisan,6302,48.585,False,False
+182177,CA,Write-in,Nonpartisan,73,0.563,False,False
+182272,CA,Yes,Nonpartisan,3290,71.709,False,False
+182272,CA,No,Nonpartisan,1298,28.291,False,False
+182444,CA,Connor Traut,Nonpartisan,61226,50.339,False,False
+182444,CA,Tim Shaw,Nonpartisan,60402,49.661,False,False
+182639,CA,Yes,Nonpartisan,10950,59.395,False,False
+182639,CA,No,Nonpartisan,7486,40.605,False,False
+182542,CA,No,Nonpartisan,19153,67.281,False,False
+182542,CA,Yes,Nonpartisan,9314,32.719,False,False
+150553,CA,Yes,Nonpartisan,1153242,65.083,False,False
+150553,CA,No,Nonpartisan,618714,34.917,False,False
+182164,CA,Yes,Nonpartisan,475562,61.01,False,False
+182164,CA,No,Nonpartisan,303916,38.99,False,False
+150459,CA,Ida S. Obeso-Martinez,Democratic,74705,59.653,True,False
+150459,CA,Jeff Gonzalez,Republican,50527,40.347,False,True
+182155,CA,Colleen B. Rozatti,Nonpartisan,18858,98.47,False,False
+182155,CA,Write-in,Nonpartisan,293,1.53,False,False
+150450,CA,Brian Pacheco,Democratic,79854,64.583,True,False
+150450,CA,Mike Murphy,Republican,43791,35.417,False,False
+150541,CA,Yes,Nonpartisan,422050,66.094,False,False
+150541,CA,No,Nonpartisan,216510,33.906,False,False
+150444,CA,Diane Papan,Democratic,137066,79.822,True,True
+150444,CA,Jabra J Muhawieh,Republican,34648,20.178,False,False
+150532,CA,Yes,Nonpartisan,1352856,69.109,False,False
+150532,CA,No,Nonpartisan,604704,30.891,False,False
+150438,CA,Anamarie Avila Farias,Democratic,116287,69.899,True,True
+150438,CA,Arthur Webb,No Party Preference,50077,30.101,False,False
+182134,CA,Laurene Weste,Nonpartisan,6970,52.12,False,False
+182134,CA,Valerie Bradford,Nonpartisan,3710,27.742,False,False
+182134,CA,Nick Somers,Nonpartisan,1810,13.535,False,False
+182134,CA,Jeffrey Berman,Nonpartisan,549,4.105,False,False
+182134,CA,Peter Yahiayan,Nonpartisan,289,2.161,False,False
+182134,CA,Write-in,Nonpartisan,45,0.336,False,False
+182229,CA,Oscar Iraheta,Nonpartisan,2242,67.408,False,False
+182229,CA,Duane G. Winn,Nonpartisan,1059,31.84,False,False
+182229,CA,Write-in,Nonpartisan,25,0.752,False,False
+150517,CA,Yes,Nonpartisan,1525917,75.95,False,False
+150517,CA,No,Nonpartisan,483185,24.05,False,False
+182404,CA,Kim Carr,Nonpartisan,21316,65.782,False,True
+182404,CA,Conrad Mazeika,Nonpartisan,7879,24.315,False,False
+182404,CA,James Cameron,Nonpartisan,3209,9.903,False,False
+182223,CA,Yes,Nonpartisan,18807,73.445,False,False
+182223,CA,No,Nonpartisan,6800,26.555,False,False
+182587,CA,Christine Boles,Nonpartisan,1110,75.152,False,False
+182587,CA,Dan Urban,Nonpartisan,367,24.848,False,False
+182522,CA,Brad McGirr,Nonpartisan,2544,100.0,False,False
+182217,CA,Jeffrey De La Torre,Nonpartisan,2063,36.702,False,False
+182217,CA,Alitzah Wiener,Nonpartisan,1257,22.363,False,False
+182217,CA,Henry E. Gonzales,Nonpartisan,1190,21.171,False,False
+182217,CA,Jessica Rubio,Nonpartisan,1087,19.338,False,False
+182217,CA,Write-in,Nonpartisan,24,0.427,False,False
+182305,CA,"Kenneth ""Ken"" Petersen",Nonpartisan,14184,40.177,False,False
+182305,CA,Maria A. Gutzeit,Nonpartisan,11931,33.795,False,False
+182305,CA,Lynne Plambeck,Nonpartisan,8898,25.204,False,False
+182305,CA,Write-in,Nonpartisan,291,0.824,False,False
+182016,CA,Andrew N. Mendez,Nonpartisan,1620,68.819,False,False
+182016,CA,"Patricia ""Trish"" Gonzales",Nonpartisan,419,17.799,False,False
+182016,CA,Mark A. Caro,Nonpartisan,303,12.872,False,False
+182016,CA,Write-in,Nonpartisan,12,0.51,False,False
+182104,CA,Yes,Nonpartisan,9083,76.864,False,False
+182104,CA,No,Nonpartisan,2734,23.136,False,False
+182299,CA,Helen Grace Avila Olivares,Nonpartisan,450,68.913,False,False
+182299,CA,Sheree Rae Butts,Nonpartisan,196,30.015,False,False
+182299,CA,Write-in,Nonpartisan,7,1.072,False,False
+182202,CA,Christine Chacon Kennedy,Nonpartisan,2310,61.781,False,False
+182202,CA,Michael Ramos,Nonpartisan,1403,37.523,False,False
+182202,CA,Write-in,Nonpartisan,26,0.695,False,False
+182566,CA,Julia Mates,Nonpartisan,4782,100.0,False,False
+150492,CA,Josh Lowenthal,Democratic,90084,65.721,True,True
+150492,CA,Carolyn J. Essex,Democratic,46987,34.279,False,False
+182503,CA,Victor Cabral,Nonpartisan,12337,56.279,False,False
+182503,CA,Kathy Ward,Nonpartisan,5220,23.813,False,False
+182503,CA,Shane Hirschman,Nonpartisan,4364,19.908,False,False
+150483,CA,Corey A Jackson,Democratic,75092,69.009,True,True
+150483,CA,Ed Delgado,Republican,33723,30.991,False,False
+182494,CA,Robyn Grant,Nonpartisan,21970,100.0,False,True
+182585,CA,Ann Schneider,Nonpartisan,389,50.983,False,False
+182585,CA,Juan Gámez,Nonpartisan,374,49.017,False,False
+182488,CA,Saga Conroy,Nonpartisan,3659,54.596,False,False
+182488,CA,Peter Molinari,Nonpartisan,3043,45.404,False,False
+182576,CA,Art Kiesel,Nonpartisan,756,65.172,False,False
+182576,CA,Phoebe Shin Venkat,Nonpartisan,404,34.828,False,False
+182482,CA,Shari M Rhodes,Nonpartisan,2612,50.366,False,False
+182482,CA,Amy Stevens,Nonpartisan,2574,49.634,False,False
+182077,CA,Yes,Nonpartisan,5566,75.821,False,False
+182077,CA,No,Nonpartisan,1775,24.179,False,False
+182441,CA,Karen Shaw,Nonpartisan,1059,74.264,False,True
+182441,CA,Yoony Takeuchi,Nonpartisan,367,25.736,False,False
+182071,CA,Yes,Nonpartisan,8635,57.235,False,False
+182071,CA,No,Nonpartisan,6452,42.765,False,False
+182627,CA,Yes,Nonpartisan,1949,72.454,False,False
+182627,CA,No,Nonpartisan,741,27.546,False,False
+182254,CA,Marcos Torres Alvarez,Nonpartisan,2538,50.841,False,False
+182254,CA,Simone Zulu,Nonpartisan,2419,48.458,False,False
+182254,CA,Write-in,Nonpartisan,35,0.701,False,False
+150542,CA,Yes,Nonpartisan,1225148,68.053,False,False
+150542,CA,No,Nonpartisan,575146,31.947,False,False
+182621,CA,Yes,Nonpartisan,92480,71.45,False,False
+182621,CA,No,Nonpartisan,36953,28.55,False,False
+182248,CA,Laura Luciana Santos,Nonpartisan,9377,52.129,False,False
+182248,CA,Armando Barajas,Nonpartisan,8537,47.459,False,False
+182248,CA,Write-in,Nonpartisan,74,0.411,False,False
+182420,CA,Andrea Yamasaki,Nonpartisan,27645,55.472,False,True
+182420,CA,Ivan Kokos,Nonpartisan,22191,44.528,False,False
+182047,CA,No,Nonpartisan,7875,54.832,False,False
+182047,CA,Yes,Nonpartisan,6487,45.168,False,False
+182242,CA,Randall Winston,Nonpartisan,360524,37.141,False,False
+182242,CA,Gabriel Buelna,Nonpartisan,309511,31.886,False,False
+182242,CA,Roberto David Lacarra,Nonpartisan,192926,19.875,False,False
+182242,CA,Tonia Arey,Nonpartisan,104931,10.81,False,False
+182242,CA,Write-in,Nonpartisan,2790,0.287,False,False
+182138,CA,Sue Himmelrich,Nonpartisan,19194,30.251,False,False
+182138,CA,Kurt Gonska,Nonpartisan,17190,27.092,False,False
+182138,CA,Heather Thomason,Nonpartisan,14180,22.348,False,False
+182138,CA,Soledad Marcial,Nonpartisan,6760,10.654,False,False
+182138,CA,Zoë Muntaner,Nonpartisan,5913,9.319,False,False
+182138,CA,Write-in,Nonpartisan,213,0.336,False,False
+182509,CA,Sandra De Anda,Nonpartisan,4510,53.639,False,False
+182509,CA,Phil Bacerra,Nonpartisan,3898,46.361,False,True
+182597,CA,Sara McDowell,Nonpartisan,5157,30.049,False,False
+182597,CA,Adam Rak,Nonpartisan,4919,28.662,False,False
+182597,CA,Pranita Venkatesh,Nonpartisan,4410,25.696,False,False
+182597,CA,Mark D. Iwanowski,Nonpartisan,2676,15.593,False,False
+182631,CA,No,Nonpartisan,3799,52.234,False,False
+182631,CA,Yes,Nonpartisan,3474,47.766,False,False
+150426,CA,Dom Belza,Republican,80301,56.313,True,False
+150426,CA,"James ""Jamie"" Johansson",Republican,62296,43.687,False,False
+150514,CA,Yes,Nonpartisan,710590,77.562,False,False
+150514,CA,No,Nonpartisan,205568,22.438,False,False
+182528,CA,Peer A. Swan,Nonpartisan,8854,58.87,False,True
+182528,CA,Jeffrey Harlan,Nonpartisan,6186,41.13,False,False
+150508,CA,Yes,Nonpartisan,768522,80.784,False,False
+150508,CA,No,Nonpartisan,182808,19.216,False,False
+182519,CA,Carlos Rodriguez,Nonpartisan,12331,34.601,False,True
+182519,CA,Janice Lim,Nonpartisan,9982,28.009,False,True
+182519,CA,Sean Phayakapong,Nonpartisan,6376,17.891,False,False
+182519,CA,Robert R. Pease II,Nonpartisan,4620,12.964,False,False
+182519,CA,Raymond Potter,Nonpartisan,2329,6.535,False,False
+182610,CA,Gary Burke,Nonpartisan,655,56.71,False,False
+182610,CA,Alex Carrillo,Nonpartisan,500,43.29,False,False
+150405,CA,Alexandra Duarte,Republican,196146,51.916,False,False
+150405,CA,Jaron Brandon,Democratic,181671,48.084,False,False
+182101,CA,Ana Torres,Nonpartisan,1199,56.477,False,False
+182101,CA,Marie Ledezma,Nonpartisan,663,31.229,False,False
+182101,CA,"Elva ""Sammy"" Osorio",Nonpartisan,246,11.587,False,False
+182101,CA,Write-in,Nonpartisan,15,0.707,False,False
+182007,CA,Melissa Michelson,Nonpartisan,2258,56.563,False,False
+182007,CA,Adele Andrade Stadler,Nonpartisan,1224,30.661,False,False
+182007,CA,Alejandro Covarrubias,Nonpartisan,505,12.65,False,False
+182007,CA,Write-in,Nonpartisan,5,0.125,False,False
+182287,CA,Armando Urteaga,Nonpartisan,5709,74.278,False,False
+182287,CA,Desiree G. Quintero,Nonpartisan,1942,25.267,False,False
+182287,CA,Write-in,Nonpartisan,35,0.455,False,False
+182466,CA,Roger Flanders,Nonpartisan,3638,49.652,False,False
+182466,CA,Long Nguyen,Nonpartisan,2548,34.775,False,False
+182466,CA,William Zylla,Nonpartisan,1141,15.573,False,False
+182586,CA,Albert Yam,Nonpartisan,535,52.813,False,False
+182586,CA,Bob Nguyen,Nonpartisan,478,47.187,False,False
+182281,CA,Jennifer Mak,Nonpartisan,5219,60.002,False,False
+182281,CA,Ryan Rauzon,Nonpartisan,3452,39.687,False,False
+182281,CA,Write-in,Nonpartisan,27,0.31,False,False
+182460,CA,Bonnie Peat,Nonpartisan,904,50.083,False,False
+182460,CA,Helen Le,Nonpartisan,901,49.917,False,False
+182555,CA,Frank Lara,Nonpartisan,1148,60.902,False,False
+182555,CA,Mina A. Richardson,Nonpartisan,737,39.098,False,False
+150567,CA,Yes,Nonpartisan,282483,78.885,False,False
+150567,CA,No,Nonpartisan,75611,21.115,False,False
+182454,CA,Brandon Schooner,Nonpartisan,2410,73.052,False,False
+182454,CA,Sharena Walker,Nonpartisan,889,26.948,False,False
+150466,CA,Celeste Rodriguez,Democratic,96750,80.781,True,True
+150466,CA,Ricardo Benitez,Republican,23019,19.219,False,False
+182445,CA,Katrina Foley,Nonpartisan,95066,51.661,False,True
+182445,CA,Diane Dixon,Nonpartisan,88954,48.339,False,False
+182540,CA,No,Nonpartisan,13426,53.541,False,False
+182540,CA,Yes,Nonpartisan,11650,46.459,False,False
+150435,CA,Jackie Elward,Democratic,110846,56.403,True,False
+150435,CA,Eric Lucan,Democratic,85679,43.597,False,False
+182291,CA,Stephanie A. Capps,Nonpartisan,683,47.729,False,False
+182291,CA,Samuel Mistrano,Nonpartisan,523,36.548,False,False
+182291,CA,Steven M. McCall,Nonpartisan,221,15.444,False,False
+182291,CA,Write-in,Nonpartisan,4,0.28,False,False
+150554,CA,Yes,Nonpartisan,1211461,68.244,False,False
+150554,CA,No,Nonpartisan,563717,31.756,False,False
+150457,CA,Charles Frederick Hughes,Republican,79370,52.385,True,False
+150457,CA,Randall Putz,Democratic,72144,47.615,False,False
+182068,CA,Dayna S. Williams-Hunter,Nonpartisan,12969,98.751,False,False
+182068,CA,Write-in,Nonpartisan,164,1.249,False,False
+150548,CA,Yes,Nonpartisan,1260067,69.186,False,False
+150548,CA,No,Nonpartisan,561197,30.814,False,False
+150451,CA,Gail Pellerin,Democratic,141457,72.311,True,True
+150451,CA,Carol Pefley,Republican,54165,27.689,False,False
+150539,CA,Yes,Nonpartisan,424489,66.128,False,False
+150539,CA,No,Nonpartisan,217431,33.872,False,False
+182553,CA,Andrea Rosenthal,Nonpartisan,705,53.612,False,False
+182553,CA,Mary Beth Alexander,Nonpartisan,610,46.388,False,False
+150533,CA,Yes,Nonpartisan,1428922,73.009,False,False
+150533,CA,No,Nonpartisan,528260,26.991,False,False
+182044,CA,Cynthia Gonzalez,Nonpartisan,1743,31.685,False,False
+182044,CA,Cynthia Romo,Nonpartisan,1588,28.867,False,False
+182044,CA,Jose R. Gonzalez,Nonpartisan,815,14.815,False,False
+182044,CA,Martin U. Fuentes,Nonpartisan,725,13.179,False,False
+182044,CA,Richard Corvera Hernandez,Nonpartisan,601,10.925,False,False
+182044,CA,Write-in,Nonpartisan,29,0.527,False,False
+150527,CA,Yes,Nonpartisan,1369354,68.4,False,False
+150527,CA,No,Nonpartisan,632616,31.6,False,False
+182038,CA,Anna Jacobsen,Nonpartisan,1553,58.87,False,False
+182038,CA,Aundre Johnson,Nonpartisan,808,30.629,False,False
+182038,CA,Lawrence Mueller,Nonpartisan,269,10.197,False,False
+182038,CA,Write-in,Nonpartisan,8,0.303,False,False
+182402,CA,Paulette Chaffee,Nonpartisan,7832,28.789,False,False
+182402,CA,Jesus Silva,Nonpartisan,7342,26.988,False,False
+182402,CA,Zonya Townsend,Nonpartisan,6912,25.407,False,False
+182402,CA,Jeffrey P. Brown,Nonpartisan,5119,18.816,False,True
+182529,CA,"William ""Bill"" Moorhead",Nonpartisan,21916,24.089,False,True
+182529,CA,Brian Parker,Nonpartisan,18078,19.871,False,True
+182529,CA,"Patricia ""Trish"" Kelley",Nonpartisan,15864,17.437,False,False
+182529,CA,Jennifer Engle,Nonpartisan,13910,15.289,False,False
+182529,CA,Michael Cruikshank,Nonpartisan,11053,12.149,False,False
+182529,CA,Kurt Lind,Nonpartisan,7211,7.926,False,False
+182529,CA,Leena Ray,Nonpartisan,2946,3.238,False,False
+182224,CA,Blanca Nava,Nonpartisan,324,56.545,False,False
+182224,CA,Karina Martinez,Nonpartisan,233,40.663,False,False
+182224,CA,Write-in,Nonpartisan,16,2.792,False,False
+182312,CA,Sergio Joseph Calderon,Nonpartisan,48451,45.681,False,False
+182312,CA,Jorgel Chavez,Nonpartisan,39275,37.03,False,False
+182312,CA,Samuel A. Peña,Nonpartisan,17990,16.962,False,False
+182312,CA,Write-in,Nonpartisan,347,0.327,False,False
+182215,CA,Nancy Loera,Nonpartisan,1917,48.117,False,False
+182215,CA,"Johnathon ""Johnny"" Yoder",Nonpartisan,1196,30.02,False,False
+182215,CA,Carmen Eulalia Basso,Nonpartisan,657,16.491,False,False
+182215,CA,Richard Rodriguez,Nonpartisan,201,5.045,False,False
+182215,CA,Write-in,Nonpartisan,13,0.326,False,False
+150503,CA,David A. Alvarez,Democratic,110316,70.888,True,True
+150503,CA,Alejandro Galicia,Republican,45305,29.112,False,False
+182306,CA,Monica Aleman Gibbs,Nonpartisan,7503,36.507,False,False
+182306,CA,Sherry Shaw,Nonpartisan,6760,32.892,False,False
+182306,CA,Jeff Hanlon,Nonpartisan,6184,30.09,False,False
+182306,CA,Write-in,Nonpartisan,105,0.511,False,False
+150409,CA,Nathan Magsig,Republican,192054,61.575,True,False
+150409,CA,William Brown Jr.,Libertarian,119847,38.425,False,False
+182105,CA,Yes,Nonpartisan,9947,85.78,False,False
+182105,CA,No,Nonpartisan,1649,14.22,False,False
+182200,CA,Lizbeth Aquino,Nonpartisan,630,58.387,False,False
+182200,CA,Reyna E. Diaz,Nonpartisan,441,40.871,False,False
+182200,CA,Write-in,Nonpartisan,8,0.741,False,False
+182479,CA,Jose Medrano,Nonpartisan,8233,36.349,False,True
+182479,CA,"James ""Jim"" Gomez",Nonpartisan,6346,28.018,False,True
+182479,CA,Susan Pritchard,Nonpartisan,4830,21.325,False,False
+182479,CA,Miles C. Matias,Nonpartisan,3241,14.309,False,False
+182598,CA,Lisa Diaz Nash,Nonpartisan,2624,60.461,False,False
+182598,CA,Taso Zografos,Nonpartisan,1716,39.539,False,False
+182501,CA,Chad Wanke,Nonpartisan,2030,63.457,False,True
+182501,CA,James Burandt,Nonpartisan,1169,36.543,False,False
+182004,CA,Justin Allen Clayton,Nonpartisan,1037245,55.468,False,False
+182004,CA,Anna Slotky Reitano,Nonpartisan,823669,44.046,False,False
+182004,CA,Write-in,Nonpartisan,9090,0.486,False,False
+182592,CA,Kaia Eakin,Nonpartisan,1522,100.0,False,False
+182495,CA,Lauren Kleiman,Nonpartisan,15492,56.998,False,True
+182495,CA,Andrew P. Gerken,Nonpartisan,11688,43.002,False,False
+182583,CA,Laura Melahn,Nonpartisan,968,63.684,False,False
+182583,CA,Charlotte Reed,Nonpartisan,552,36.316,False,False
+182213,CA,Monica Garcia,Nonpartisan,1598,53.107,False,False
+182213,CA,C.J. Cohick,Nonpartisan,1399,46.494,False,False
+182213,CA,Write-in,Nonpartisan,12,0.399,False,False
+182577,CA,Stacy Jimenez,Nonpartisan,1003,100.0,False,False
+150564,CA,Yes,Nonpartisan,282022,78.04,False,False
+150564,CA,No,Nonpartisan,79359,21.96,False,False
+182571,CA,Howard Wettan,Nonpartisan,906,64.301,False,False
+182571,CA,Jen Faber,Nonpartisan,503,35.699,False,False
+182166,CA,Yes,Nonpartisan,621135,77.609,False,False
+182166,CA,No,Nonpartisan,179208,22.391,False,False
+182261,CA,Felita Kealing,Nonpartisan,3626,58.156,False,False
+182261,CA,Kimberly Kenne,Nonpartisan,2575,41.299,False,False
+182261,CA,Write-in,Nonpartisan,34,0.545,False,False
+150549,CA,Yes,Nonpartisan,1213348,67.788,False,False
+150549,CA,No,Nonpartisan,576560,32.212,False,False
+182436,CA,Meghna Parikh,Nonpartisan,1328,53.291,False,True
+182436,CA,Steve Blount,Nonpartisan,621,24.92,False,False
+182436,CA,Vernon Miller,Nonpartisan,543,21.79,False,False
+182255,CA,Jeremy Vanderhal,Nonpartisan,11920,27.349,False,False
+182255,CA,Allyson Lehrer,Nonpartisan,10403,23.868,False,False
+182255,CA,Louis Matthew Harley,Nonpartisan,8353,19.165,False,False
+182255,CA,Liz Peterson,Nonpartisan,7673,17.605,False,False
+182255,CA,Paul Vidal,Nonpartisan,5106,11.715,False,False
+182255,CA,Write-in,Nonpartisan,130,0.298,False,False
+182619,CA,Yes,Nonpartisan,14902,60.413,False,False
+182619,CA,No,Nonpartisan,9765,39.587,False,False
+182554,CA,Chialin Hsieh,Nonpartisan,1531,53.494,False,False
+182554,CA,Avin Sharma,Nonpartisan,1331,46.506,False,False
+182249,CA,Norma Amezcua,Nonpartisan,2103,57.553,False,False
+182249,CA,Marybel Micaela Lorenzo,Nonpartisan,1544,42.255,False,False
+182249,CA,Write-in,Nonpartisan,7,0.192,False,False
+182145,CA,Yes,Nonpartisan,2639,87.5,False,False
+182145,CA,No,Nonpartisan,377,12.5,False,False
+182048,CA,Freddy Puza,Nonpartisan,7596,30.179,False,False
+182048,CA,Jeannine Wisnosky Stehlin,Nonpartisan,6043,24.009,False,False
+182048,CA,Thomas Aujero Small,Nonpartisan,5254,20.874,False,False
+182048,CA,"Kimberley ""Kim"" Griffin",Nonpartisan,5187,20.608,False,False
+182048,CA,Franklin Carvajal,Nonpartisan,1022,4.06,False,False
+182048,CA,Write-in,Nonpartisan,68,0.27,False,False
+182136,CA,Juanita Martin,Nonpartisan,2225,19.173,False,False
+182136,CA,Annette Rodriguez,Nonpartisan,2173,18.725,False,False
+182136,CA,Bill Rounds,Nonpartisan,2142,18.458,False,False
+182136,CA,Odalys Valladares,Nonpartisan,1717,14.795,False,False
+182136,CA,Julian Jackson,Nonpartisan,1689,14.554,False,False
+182136,CA,Johnny Hernandez,Nonpartisan,1620,13.96,False,False
+182136,CA,Write-in,Nonpartisan,39,0.336,False,False
+182415,CA,Katie McEwen,Nonpartisan,7252,73.445,False,True
+182415,CA,Ron Scolesdang,Nonpartisan,2622,26.555,False,False
+182234,CA,"Varun ""Sunny"" Tamrakar",Nonpartisan,938,57.901,False,False
+182234,CA,Shirley Rudolph,Nonpartisan,678,41.852,False,False
+182234,CA,Write-in,Nonpartisan,4,0.247,False,False
+182629,CA,Yes,Nonpartisan,1941,65.134,False,False
+182629,CA,No,Nonpartisan,1039,34.866,False,False
+150524,CA,Yes,Nonpartisan,1427466,72.376,False,False
+150524,CA,No,Nonpartisan,544824,27.624,False,False
+182535,CA,Yes,Nonpartisan,7369,67.131,False,False
+182535,CA,No,Nonpartisan,3608,32.869,False,False
+150515,CA,Yes,Nonpartisan,729752,79.084,False,False
+150515,CA,No,Nonpartisan,193005,20.916,False,False
+182526,CA,Sergio Contreras,Nonpartisan,12755,30.01,False,True
+182526,CA,Andrew Nguyen,Nonpartisan,10577,24.885,False,True
+182526,CA,Mark Nguyen,Nonpartisan,10058,23.664,False,True
+182526,CA,"Anh ""Andy"" Nguyen",Nonpartisan,5124,12.056,False,False
+182526,CA,Donald J. Lank,Nonpartisan,2658,6.254,False,False
+182526,CA,Michael Liu,Nonpartisan,1331,3.132,False,False
+182617,CA,Yes,Nonpartisan,6133,65.657,False,False
+182617,CA,No,Nonpartisan,3208,34.343,False,False
+182520,CA,Josh Bastian,Nonpartisan,2671,68.505,False,False
+182520,CA,Nicholas Reese,Nonpartisan,1228,31.495,False,False
+182608,CA,Joey P. Silva,Nonpartisan,679,64.79,False,False
+182608,CA,Nancy Eleanora Poss,Nonpartisan,369,35.21,False,False
+182514,CA,Austin Lumbard,Nonpartisan,8284,50.707,False,True
+182514,CA,Letitia Clark,Nonpartisan,8053,49.293,False,False
+150494,CA,Kate Sanchez,Republican,104484,53.532,True,True
+150494,CA,JJ Galvez,Democratic,90698,46.468,False,False
+182197,CA,Simon Wright,Nonpartisan,2350,60.818,False,False
+182197,CA,Gary C. Rodriguez,Nonpartisan,1495,38.69,False,False
+182197,CA,Write-in,Nonpartisan,19,0.492,False,False
+182593,CA,Diane Howard,Nonpartisan,2131,100.0,False,False
+182096,CA,Janet Wall,Nonpartisan,9585,99.46,False,False
+182096,CA,Write-in,Nonpartisan,52,0.54,False,False
+182467,CA,Cindy Ngoc Tran,Nonpartisan,3320,55.463,False,True
+182467,CA,Amanda Nguyen,Nonpartisan,2010,33.578,False,False
+182467,CA,Thomas Quoc Thai Nguyen,Nonpartisan,656,10.959,False,False
+182279,CA,Adriana Franco,Nonpartisan,566,58.897,False,False
+182279,CA,Sylvia V. Macias,Nonpartisan,394,40.999,False,False
+182279,CA,Write-in,Nonpartisan,1,0.104,False,False
+182214,CA,Yes,Nonpartisan,7534,54.913,False,False
+182214,CA,No,Nonpartisan,6186,45.087,False,False
+182461,CA,Randy Harper,Nonpartisan,2104,63.68,False,False
+182461,CA,Rachel Strong Carnahan,Nonpartisan,1200,36.32,False,False
+182081,CA,Keokia Childress,Nonpartisan,2733,39.695,False,False
+182081,CA,Yolanda Davidson,Nonpartisan,1894,27.509,False,False
+182081,CA,Leonard Redway,Nonpartisan,1656,24.052,False,False
+182081,CA,William Perez,Nonpartisan,586,8.511,False,False
+182081,CA,Write-in,Nonpartisan,16,0.232,False,False
+182176,CA,Michael E. Hammett,Nonpartisan,399,52.362,False,False
+182176,CA,Jessica Gonyea,Nonpartisan,358,46.982,False,False
+182176,CA,Write-in,Nonpartisan,5,0.656,False,False
+150464,CA,John Harabedian,Democratic,129930,65.667,True,True
+150464,CA,Adam Christopher Vena,Republican,67933,34.333,False,False
+182274,CA,Sion Roy,Nonpartisan,21512,23.929,False,False
+182274,CA,Tom Peters,Nonpartisan,20165,22.431,False,False
+182274,CA,Luis Barrera Castanon,Nonpartisan,19010,21.146,False,False
+182274,CA,Kera Blades-Snell,Nonpartisan,17042,18.957,False,False
+182274,CA,Oscar De La Torre,Nonpartisan,11951,13.294,False,False
+182274,CA,Write-in,Nonpartisan,219,0.244,False,False
+182170,CA,Marissa Roy,Nonpartisan,514447,66.818,False,False
+182170,CA,John McKinney,Nonpartisan,255473,33.182,False,False
+182541,CA,Yes,Nonpartisan,1954,66.826,False,False
+182541,CA,No,Nonpartisan,970,33.174,False,False
+182568,CA,Sarah K.M. Delisle,Nonpartisan,1243,100.0,False,False
+182471,CA,Larry Agran,Nonpartisan,40574,69.543,False,True
+182471,CA,Maksim V Egorov,Nonpartisan,17770,30.457,False,False
+150458,CA,Andrae Gonzales,Democratic,65451,69.461,True,False
+150458,CA,Saul Ayon,Republican,28776,30.539,False,False
+150546,CA,Yes,Nonpartisan,1210080,67.46,False,False
+150546,CA,No,Nonpartisan,583681,32.54,False,False
+182560,CA,Sarah Duffy,Nonpartisan,959,30.688,False,False
+182560,CA,Emily Wirowek,Nonpartisan,840,26.88,False,False
+182560,CA,Morgan Finlay,Nonpartisan,729,23.328,False,False
+182560,CA,Charlene Larson,Nonpartisan,597,19.104,False,False
+150540,CA,Yes,Nonpartisan,409709,64.051,False,False
+150540,CA,No,Nonpartisan,229952,35.949,False,False
+182551,CA,Mike Guingona,Nonpartisan,10137,58.075,False,False
+182551,CA,Jason Holt,Nonpartisan,7318,41.925,False,False
+182450,CA,Natalie Rubalcava,Nonpartisan,5859,63.122,False,True
+182450,CA,Elia Renteria-Garcia,Nonpartisan,3423,36.878,False,False
+150437,CA,Buffy Wicks,Democratic,135533,78.304,True,True
+150437,CA,Mark Rendon,Green,37553,21.696,False,False
+182133,CA,Denise Lite,Nonpartisan,5810,39.599,False,False
+182133,CA,Brett Haddoak,Nonpartisan,5755,39.224,False,False
+182133,CA,Gloria Mercado-Fortine,Nonpartisan,3072,20.938,False,False
+182133,CA,Write-in,Nonpartisan,35,0.239,False,False
+150431,CA,David Jariustokaeutulelei Tangipa,Republican,136418,100.0,True,True
+182403,CA,Joe Kalmick,Nonpartisan,15449,46.071,False,False
+182403,CA,Austin J. Edsell,Nonpartisan,14489,43.208,False,False
+182403,CA,Ashton Kauwe,Nonpartisan,3595,10.721,False,False
+182030,CA,Nikki Perez,Nonpartisan,16952,22.445,False,False
+182030,CA,Mike Van Gorder,Nonpartisan,10643,14.092,False,False
+182030,CA,Nolan Southerland,Nonpartisan,9116,12.07,False,False
+182030,CA,David Phillip Donahue,Nonpartisan,7959,10.538,False,False
+182030,CA,Tamala Takahashi,Nonpartisan,7050,9.335,False,False
+182030,CA,Samantha Wick,Nonpartisan,6704,8.876,False,False
+182030,CA,Jackie Waltman,Nonpartisan,4001,5.298,False,False
+182030,CA,Eddy Polon,Nonpartisan,3680,4.872,False,False
+182030,CA,Robbie Brody,Nonpartisan,2937,3.889,False,False
+182030,CA,Jonathan Ontiveros,Nonpartisan,2091,2.769,False,False
+182030,CA,"Hovanes ""Hov"" Tonoyan",Nonpartisan,1838,2.434,False,False
+182030,CA,Chris Yoosefi,Nonpartisan,1614,2.137,False,False
+182030,CA,JT Parr,Nonpartisan,823,1.09,False,False
+182030,CA,Write-in,Nonpartisan,118,0.156,False,False
+182618,CA,Yes,Nonpartisan,4984,69.396,False,False
+182618,CA,No,Nonpartisan,2198,30.604,False,False
+182313,CA,Tommy G. Faavae,Nonpartisan,22875,55.706,False,False
+182313,CA,Tim Zajic,Nonpartisan,11712,28.521,False,False
+182313,CA,Anthony J. Fidaleo,Nonpartisan,3877,9.441,False,False
+182313,CA,Deirdre Badal,Nonpartisan,2440,5.942,False,False
+182313,CA,Write-in,Nonpartisan,160,0.39,False,False
+182024,CA,Wendi Morse,Nonpartisan,2053,58.507,False,False
+182024,CA,Aaron K. Drake,Nonpartisan,1451,41.351,False,False
+182024,CA,Write-in,Nonpartisan,5,0.142,False,False
+182304,CA,Bill Cooper,Nonpartisan,15279,64.61,False,False
+182304,CA,Noah M. Ropp,Nonpartisan,8303,35.111,False,False
+182304,CA,Write-in,Nonpartisan,66,0.279,False,False
+150407,CA,Angelique Ashby,Democratic,222220,74.507,True,True
+150407,CA,Susan A Mason,Republican,76035,25.493,False,False
+182018,CA,Yes,Nonpartisan,9050,78.73,False,False
+182018,CA,No,Nonpartisan,2445,21.27,False,False
+150498,CA,Carl DeMaio,Republican,109374,54.463,True,True
+150498,CA,Gerald C. Boursiquot,Democratic,91448,45.537,False,False
+182201,CA,Lisa Michelle Dabbs,Nonpartisan,2370,51.443,False,False
+182201,CA,Brenda Smith,Nonpartisan,2213,48.036,False,False
+182201,CA,Write-in,Nonpartisan,24,0.521,False,False
+182289,CA,Joe Messina,Nonpartisan,11360,58.735,False,False
+182289,CA,Stacy Fortner,Nonpartisan,7932,41.011,False,False
+182289,CA,Write-in,Nonpartisan,49,0.253,False,False
+182407,CA,Daisy Tong,Nonpartisan,6741,52.333,False,True
+182407,CA,Beatriz Mendoza,Nonpartisan,6140,47.667,False,False
+182502,CA,"Robert S. ""Bob"" McKinnell",Nonpartisan,10918,100.0,False,True
+182590,CA,Judith A. Hasko,Nonpartisan,1150,34.236,False,False
+182590,CA,Mary Hufty,Nonpartisan,1132,33.701,False,False
+182590,CA,Craig S Taylor,Nonpartisan,1077,32.063,False,False
+182220,CA,Joyce Randall,Nonpartisan,3969,56.936,False,False
+182220,CA,Cheryl Shaw Williams,Nonpartisan,2978,42.72,False,False
+182220,CA,Write-in,Nonpartisan,24,0.344,False,False
+182584,CA,Sissy Riley,Nonpartisan,561,100.0,False,False
+182211,CA,Regina Cuadra,Nonpartisan,6482,64.382,False,False
+182211,CA,Matthew Matias,Nonpartisan,3572,35.479,False,False
+182211,CA,Write-in,Nonpartisan,14,0.139,False,False
+182302,CA,Yvette L. Gonzalez,Nonpartisan,2150,55.902,False,False
+182302,CA,Christina M. Fraga-Saenz,Nonpartisan,1677,43.604,False,False
+182302,CA,Write-in,Nonpartisan,19,0.494,False,False
+182481,CA,Tom Grable,Nonpartisan,2629,59.669,False,False
+182481,CA,Anil D. Patel,Nonpartisan,1777,40.331,False,False
+182076,CA,Celia Beatriz Rivas,Nonpartisan,958,65.126,False,False
+182076,CA,Arturo Flores,Nonpartisan,484,32.903,False,False
+182076,CA,Write-in,Nonpartisan,29,1.971,False,False
+150559,CA,Yes,Nonpartisan,287673,65.314,False,False
+150559,CA,No,Nonpartisan,152770,34.686,False,False
+182070,CA,"Alexandre ""Alex"" Monteiro",Nonpartisan,8103,37.303,False,False
+182070,CA,Katrina Manning,Nonpartisan,7463,34.357,False,False
+182070,CA,Sergio Roberto Mortara,Nonpartisan,6012,27.677,False,False
+182070,CA,Write-in,Nonpartisan,144,0.663,False,False
+182434,CA,Alva Alvarez,Nonpartisan,2825,58.296,False,True
+182434,CA,Mark Lopez,Nonpartisan,2021,41.704,False,False
+182561,CA,Maya Herstein,Nonpartisan,3700,30.067,False,False
+182561,CA,Sherwin Chen,Nonpartisan,3294,26.767,False,False
+182561,CA,Jed Scolnick,Nonpartisan,3038,24.687,False,False
+182561,CA,Andrew Barnes,Nonpartisan,2274,18.479,False,False
+182256,CA,Yesenia Maria Cuarenta,Nonpartisan,1451,61.64,False,False
+182256,CA,Alicia Linden Anderson,Nonpartisan,898,38.148,False,False
+182256,CA,Write-in,Nonpartisan,5,0.212,False,False
+182428,CA,Hector Bustos,Nonpartisan,4847,68.325,False,True
+182428,CA,Alejandra Rodriguez,Nonpartisan,2247,31.675,False,False
+182247,CA,Cindy Wu,Nonpartisan,3303,27.027,False,False
+182247,CA,Adam C. Carranza,Nonpartisan,3038,24.859,False,False
+182247,CA,Veronica B. Sifuentes,Nonpartisan,2958,24.204,False,False
+182247,CA,Griselda Saharai Olivares,Nonpartisan,1677,13.722,False,False
+182247,CA,Darlene Nava,Nonpartisan,1206,9.868,False,False
+182247,CA,Write-in,Nonpartisan,39,0.319,False,False
+150535,CA,Yes,Nonpartisan,446339,67.721,False,False
+150535,CA,No,Nonpartisan,212744,32.279,False,False
+182422,CA,"Kristin ""Kris"" Erickson",Nonpartisan,27862,56.389,False,True
+182422,CA,Chip Ahlswede,Nonpartisan,21548,43.611,False,False
+150441,CA,Mia Bonta,Democratic,117883,78.855,True,True
+150441,CA,Andre Sandford,Democratic,31610,21.145,False,False
+182137,CA,Lana Negrete,Nonpartisan,13567,16.036,False,False
+182137,CA,Caroline M. Torosis,Nonpartisan,12992,15.357,False,False
+182137,CA,Ashley Oelsen,Nonpartisan,11745,13.883,False,False
+182137,CA,Doug Trussler,Nonpartisan,10155,12.003,False,False
+182137,CA,Brett Morrow,Nonpartisan,9676,11.437,False,False
+182137,CA,Daniel Ivanov,Nonpartisan,9655,11.412,False,False
+182137,CA,Phil Brock,Nonpartisan,5840,6.903,False,False
+182137,CA,Ericka Lesley,Nonpartisan,3444,4.071,False,False
+182137,CA,Derrick Townsend,Nonpartisan,2892,3.418,False,False
+182137,CA,Eli Gill,Nonpartisan,2781,3.287,False,False
+182137,CA,Lindsay Davis,Nonpartisan,855,1.011,False,False
+182137,CA,Wade Kelley,Nonpartisan,826,0.976,False,False
+182137,CA,Write-in,Nonpartisan,173,0.204,False,False
+182232,CA,Yes,Nonpartisan,15010,70.529,False,False
+182232,CA,No,Nonpartisan,6272,29.471,False,False
+182511,CA,Matthew Terry,Nonpartisan,857,48.832,False,False
+182511,CA,Perla Mendoza,Nonpartisan,680,38.746,False,False
+182511,CA,Matt Smith,Nonpartisan,130,7.407,False,False
+182511,CA,Scott Davis,Nonpartisan,88,5.014,False,False
+182630,CA,No,Nonpartisan,1672,50.976,False,False
+182630,CA,Yes,Nonpartisan,1608,49.024,False,False
+182533,CA,Larry D. Dick,Nonpartisan,26104,43.159,False,True
+182533,CA,Mike Markus,Nonpartisan,21553,35.634,False,False
+182533,CA,Bobby Lapointe,Nonpartisan,6531,10.798,False,False
+182533,CA,"Armando ""Mando"" Perez-Serrato",Nonpartisan,6296,10.409,False,False
+150428,CA,Joe Patterson,Republican,135601,56.966,True,True
+150428,CA,Neva Parker,Democratic,102439,43.034,False,False
+182624,CA,No,Nonpartisan,3311,55.257,False,False
+182624,CA,Yes,Nonpartisan,2681,44.743,False,False
+182527,CA,Mike Gaskins,Nonpartisan,10369,45.638,False,True
+182527,CA,Kathryn Freshley,Nonpartisan,8880,39.085,False,True
+182527,CA,Alfredo Cardenas,Nonpartisan,3471,15.277,False,False
+182615,CA,Yes,Nonpartisan,15182,68.139,False,False
+182615,CA,No,Nonpartisan,7099,31.861,False,False
+182245,CA,Abby Veltman,Nonpartisan,1952,60.924,False,False
+182245,CA,Maritza C. Travanti,Nonpartisan,1245,38.858,False,False
+182245,CA,Write-in,Nonpartisan,7,0.218,False,False
+182609,CA,Cynthia Sherrill,Nonpartisan,528,52.277,False,False
+182609,CA,Ryan McGraw,Nonpartisan,482,47.723,False,False
+150404,CA,Damon Connolly,Democratic,309130,74.627,True,False
+150404,CA,Tief Gibbs,Republican,105103,25.373,False,False
+182603,CA,Eddie Flores,Nonpartisan,1267,100.0,False,False
+182006,CA,Donna Tryfman,Nonpartisan,944298,51.523,False,False
+182006,CA,David Ross,Nonpartisan,877702,47.889,False,False
+182006,CA,Write-in,Nonpartisan,10787,0.589,False,False
+182094,CA,Mayra Aguiluz,Nonpartisan,1781,21.546,False,False
+182094,CA,"Eduardo ""Eddie"" De La Riva",Nonpartisan,1756,21.244,False,False
+182094,CA,Maritza Cruz,Nonpartisan,1413,17.094,False,False
+182094,CA,Thomas Ramon Martin,Nonpartisan,953,11.529,False,False
+182094,CA,Edith Rodriguez,Nonpartisan,597,7.222,False,False
+182094,CA,Gabriela A. Bernal,Nonpartisan,546,6.605,False,False
+182094,CA,Gustavo Villa,Nonpartisan,523,6.327,False,False
+182094,CA,Aleyda Lemus,Nonpartisan,438,5.299,False,False
+182094,CA,Veronica Peral Bernabe,Nonpartisan,237,2.867,False,False
+182094,CA,Write-in,Nonpartisan,22,0.266,False,False
+182221,CA,Joe W. Bowers Jr.,Nonpartisan,3982,61.813,False,False
+182221,CA,Shelby Richardson,Nonpartisan,2431,37.737,False,False
+182221,CA,Write-in,Nonpartisan,29,0.45,False,False
+182192,CA,Yes,Nonpartisan,8303,63.377,False,False
+182192,CA,No,Nonpartisan,4798,36.623,False,False
+182088,CA,Robert Pullen-Miles,Nonpartisan,3932,70.252,False,False
+182088,CA,Francisco M. Talavera,Nonpartisan,1635,29.212,False,False
+182088,CA,Write-in,Nonpartisan,30,0.536,False,False
+182459,CA,David Burke,Nonpartisan,1563,60.371,False,False
+182459,CA,Anne Hertz Mallari,Nonpartisan,1026,39.629,False,False
+182579,CA,Ron Kies,Nonpartisan,520,59.429,False,False
+182579,CA,Debbie Ruddock,Nonpartisan,355,40.571,False,False
+182082,CA,Alex Padilla,Nonpartisan,3946,67.384,False,False
+182082,CA,Subrina Miller,Nonpartisan,1897,32.394,False,False
+182082,CA,Write-in,Nonpartisan,13,0.222,False,False
+182485,CA,Shelley Hasselbrink,Nonpartisan,292,53.578,False,True
+182485,CA,Joe Hastie,Nonpartisan,253,46.422,False,False
+150465,CA,Deborah Klein Lopez,Democratic,126151,56.513,True,False
+150465,CA,Ted Nordblum,Republican,97072,43.487,False,False
+182168,CA,Yes,Nonpartisan,690176,78.217,False,False
+182168,CA,No,Nonpartisan,192213,21.783,False,False
+182447,CA,Marie Tsaasan,Nonpartisan,1040,50.096,False,False
+182447,CA,Garrett Dwyer,Nonpartisan,1036,49.904,False,True
+182266,CA,Anais Medina Diaz,Nonpartisan,5623,54.944,False,False
+182266,CA,David Stephen Siegrist,Nonpartisan,4565,44.606,False,False
+182266,CA,Write-in,Nonpartisan,46,0.449,False,False
+182469,CA,Casey McKeon,Nonpartisan,28899,12.733,False,True
+182469,CA,Pat Burns,Nonpartisan,28240,12.442,False,True
+182469,CA,Andrew Gruel,Nonpartisan,26934,11.867,False,True
+182469,CA,Ben Davis,Nonpartisan,25935,11.427,False,False
+182469,CA,Brian Thienes,Nonpartisan,25835,11.383,False,False
+182469,CA,Erin Spivey,Nonpartisan,25824,11.378,False,False
+182469,CA,Taryn Taddeo Palumbo,Nonpartisan,25410,11.195,False,False
+182469,CA,Brenda Glim,Nonpartisan,23584,10.391,False,False
+182469,CA,Brian Burley,Nonpartisan,10070,4.437,False,False
+182469,CA,"Rosalind ""Roz"" Price",Nonpartisan,3568,1.572,False,False
+182469,CA,Amory Hanson,Nonpartisan,2670,1.176,False,False
+150556,CA,Yes,Nonpartisan,1225345,68.925,False,False
+150556,CA,No,Nonpartisan,552441,31.075,False,False
+182284,CA,John Curiel,Nonpartisan,10323,31.008,False,False
+182284,CA,Jennifer Navarro,Nonpartisan,9944,29.87,False,False
+182284,CA,Andrew Rowe,Nonpartisan,6811,20.459,False,False
+182284,CA,Shameka Andre,Nonpartisan,5960,17.903,False,False
+182284,CA,Write-in,Nonpartisan,253,0.76,False,False
+150547,CA,Yes,Nonpartisan,1343953,74.677,False,False
+150547,CA,No,Nonpartisan,455744,25.323,False,False
+182558,CA,Amy Koo,Nonpartisan,5545,64.245,False,False
+182558,CA,Alon Shiran,Nonpartisan,3086,35.755,False,False
+182457,CA,Angely Andrade Vallarta,Nonpartisan,1544,68.653,False,False
+182457,CA,Fisher Derderian,Nonpartisan,705,31.347,False,False
+182552,CA,Peter Tokofsky,Nonpartisan,602,56.0,False,False
+182552,CA,Lizet Cortes-Ronquillo,Nonpartisan,473,44.0,False,False
+182640,CA,Yes,Nonpartisan,13609,79.771,False,False
+182640,CA,No,Nonpartisan,3451,20.229,False,False
+182546,CA,Yes,Nonpartisan,8644,61.196,False,False
+182546,CA,No,Nonpartisan,5481,38.804,False,False
+150526,CA,Yes,Nonpartisan,1363794,69.145,False,False
+150526,CA,No,Nonpartisan,608570,30.855,False,False
+182037,CA,Jennifer Stark,Nonpartisan,1220,64.687,False,False
+182037,CA,Sonja Stump,Nonpartisan,655,34.73,False,False
+182037,CA,Write-in,Nonpartisan,11,0.583,False,False
+182625,CA,Yes,Nonpartisan,663,72.144,False,False
+182625,CA,No,Nonpartisan,256,27.856,False,False
+182128,CA,Kevin Sawkins,Nonpartisan,5361,98.62,False,False
+182128,CA,Write-in,Nonpartisan,75,1.38,False,False
+182031,CA,Yes,Nonpartisan,16897,75.094,False,False
+182031,CA,No,Nonpartisan,5604,24.906,False,False
+182311,CA,Al Austin,Nonpartisan,60371,41.413,False,False
+182311,CA,Tonia Reyes Uranga,Nonpartisan,34688,23.795,False,False
+182311,CA,Mike Murchison,Nonpartisan,30103,20.65,False,False
+182311,CA,Tracy Burns,Nonpartisan,20181,13.844,False,False
+182311,CA,Write-in,Nonpartisan,435,0.298,False,False
+182246,CA,Jasmin Jauregui Paulson,Nonpartisan,1729,35.946,False,False
+182246,CA,Aaron Reveles,Nonpartisan,1552,32.266,False,False
+182246,CA,Lizbeth Renova,Nonpartisan,1506,31.31,False,False
+182246,CA,Write-in,Nonpartisan,23,0.478,False,False
+182025,CA,Yes,Nonpartisan,23571,78.646,False,False
+182025,CA,No,Nonpartisan,6400,21.354,False,False
+182113,CA,"Cynthia ""Cyndi"" Garcia",Nonpartisan,1769,38.44,False,False
+182113,CA,V. Jesse Smith,Nonpartisan,1683,36.571,False,False
+182113,CA,Raycine Ector,Nonpartisan,1128,24.511,False,False
+182113,CA,Write-in,Nonpartisan,22,0.478,False,False
+150408,CA,Scott Sakakihara,Democratic,208244,74.59,True,False
+150408,CA,Linda R. Price,Republican,70941,25.41,False,False
+150496,CA,Cottie Petrie-Norris,Democratic,98429,64.177,True,True
+150496,CA,Urson Russell,Republican,54942,35.823,False,False
+182107,CA,Amy Lee,Nonpartisan,9248,98.782,False,False
+182107,CA,Write-in,Nonpartisan,114,1.218,False,False
+182010,CA,Yes,Nonpartisan,14038,82.552,False,False
+182010,CA,No,Nonpartisan,2967,17.448,False,False
+182290,CA,"Rogelio ""Roger"" Bañuelos",Nonpartisan,2040,19.344,False,False
+182290,CA,Nelson E. Martinez,Nonpartisan,1972,18.699,False,False
+182290,CA,Dawson Bruckman,Nonpartisan,1844,17.485,False,False
+182290,CA,Rebecca Hamburg Cappy,Nonpartisan,1627,15.428,False,False
+182290,CA,Jeanne Ogar,Nonpartisan,1523,14.441,False,False
+182290,CA,Grace Athena Boland Bader,Nonpartisan,1508,14.299,False,False
+182290,CA,Write-in,Nonpartisan,32,0.303,False,False
+182600,CA,Dana Yates Sahae,Nonpartisan,1670,39.489,False,False
+182600,CA,Adam Loraine,Nonpartisan,1665,39.371,False,False
+182600,CA,Dave Johnson,Nonpartisan,894,21.14,False,False
+182227,CA,Yes,Nonpartisan,2427,59.398,False,False
+182227,CA,No,Nonpartisan,1659,40.602,False,False
+182591,CA,Chris Sturken,Nonpartisan,1258,100.0,False,False
+182218,CA,Yes,Nonpartisan,20525,85.053,False,False
+182218,CA,No,Nonpartisan,3607,14.947,False,False
+182309,CA,Theresa Lee,Nonpartisan,3133,74.049,False,False
+182309,CA,Kenny Shu,Nonpartisan,1065,25.171,False,False
+182309,CA,Write-in,Nonpartisan,33,0.78,False,False
+182212,CA,Marilyn Buchi,Nonpartisan,7409,60.427,False,False
+182212,CA,Amy Dudich,Nonpartisan,4843,39.499,False,False
+182212,CA,Write-in,Nonpartisan,9,0.073,False,False
+182300,CA,Cesar J. Barajas,Nonpartisan,1025,27.297,False,False
+182300,CA,Charlie J. Chavez,Nonpartisan,796,21.198,False,False
+182300,CA,"Georgene ""Mrs. Georgie"" Navarrete",Nonpartisan,689,18.349,False,False
+182300,CA,Henry P. Hernandez,Nonpartisan,500,13.316,False,False
+182300,CA,John P. Escalera,Nonpartisan,373,9.933,False,False
+182300,CA,Vincent M. Santana,Nonpartisan,364,9.694,False,False
+182300,CA,Write-in,Nonpartisan,8,0.213,False,False
+182206,CA,Myloc Dinh,Nonpartisan,19383,70.106,False,False
+182206,CA,Keicy Chung,Nonpartisan,8081,29.228,False,False
+182206,CA,Write-in,Nonpartisan,184,0.666,False,False
+182570,CA,Andrea Pappajohn,Nonpartisan,940,100.0,False,False
+182165,CA,Yes,Nonpartisan,539417,70.797,False,False
+182165,CA,No,Nonpartisan,222502,29.203,False,False
+182285,CA,Norma Natalie Rodarte,Nonpartisan,1903,56.84,False,False
+182285,CA,Richard (Rick) Hever,Nonpartisan,1430,42.712,False,False
+182285,CA,Write-in,Nonpartisan,15,0.448,False,False
+150463,CA,Pilar Schiavo,Democratic,115149,61.02,True,True
+150463,CA,Rickey Tracy Hayes II,Republican,73559,38.98,False,False
+182435,CA,Jon Peat,Nonpartisan,1277,64.171,False,False
+182435,CA,Jack Torossian,Nonpartisan,713,35.829,False,False
+182062,CA,Yes,Nonpartisan,4895,82.574,False,False
+182062,CA,No,Nonpartisan,1033,17.426,False,False
+182458,CA,Kelly Brown,Nonpartisan,2193,55.702,False,False
+182458,CA,Steve Smith,Nonpartisan,1744,44.298,False,False
+182429,CA,Lynn Davis,Nonpartisan,3893,58.357,False,True
+182429,CA,Kelly Felton,Nonpartisan,2778,41.643,False,False
+182056,CA,Gabriel Ramirez,Nonpartisan,8136,60.504,False,False
+182056,CA,Jerry Velasco,Nonpartisan,5265,39.154,False,False
+182056,CA,Write-in,Nonpartisan,46,0.342,False,False
+182144,CA,"Kimberly ""Kim"" Valencia",Nonpartisan,1968,39.614,False,False
+182144,CA,"Manuel ""Manny"" Acosta",Nonpartisan,1946,39.171,False,False
+182144,CA,Rudy Bojorquez,Nonpartisan,1027,20.672,False,False
+182144,CA,Write-in,Nonpartisan,27,0.543,False,False
+150439,CA,Rebecca Bauer-Kahan,Democratic,146691,68.977,True,True
+150439,CA,Joseph A. Rubay,Republican,65974,31.023,False,False
+182050,CA,Andrew Chou,Nonpartisan,2217,97.838,False,False
+182050,CA,Write-in,Nonpartisan,49,2.162,False,False
+150530,CA,Yes,Nonpartisan,1497510,74.924,False,False
+150530,CA,No,Nonpartisan,501190,25.076,False,False
+182233,CA,Bonnie J. Coronado,Nonpartisan,1002,55.605,False,False
+182233,CA,Jennifer R. Bagley,Nonpartisan,795,44.118,False,False
+182233,CA,Write-in,Nonpartisan,5,0.277,False,False
+182405,CA,"Elizabeth ""Liz"" Dorn Parker",Nonpartisan,20044,64.506,False,True
+182405,CA,Xerxez Megino Calilung,Nonpartisan,11029,35.494,False,False
+182543,CA,Yes,Nonpartisan,18170,54.527,False,False
+182543,CA,No,Nonpartisan,15153,45.473,False,False
+182439,CA,Diana Marks,Nonpartisan,2540,54.553,False,True
+182439,CA,Laura Costelloe,Nonpartisan,2116,45.447,False,False
+182534,CA,Brenda Estrada,Nonpartisan,1248,63.318,False,True
+182534,CA,Brian Carver,Nonpartisan,723,36.682,False,False
+182622,CA,Yes,Nonpartisan,93564,73.351,False,False
+182622,CA,No,Nonpartisan,33992,26.649,False,False
+182252,CA,Ralph Velador,Nonpartisan,2382,55.101,False,False
+182252,CA,Nancy K. Smith,Nonpartisan,1905,44.067,False,False
+182252,CA,Write-in,Nonpartisan,36,0.833,False,False
+182616,CA,Yes,Nonpartisan,4532,68.017,False,False
+182616,CA,No,Nonpartisan,2131,31.983,False,False
+182243,CA,Evelyn Mendez Avdalyan,Nonpartisan,226,50.446,False,False
+182243,CA,Christian Ibarra,Nonpartisan,222,49.554,False,False
+182243,CA,Write-in,Nonpartisan,0,0.0,False,False
+182418,CA,Michelle Murphy,Nonpartisan,3971,67.225,False,True
+182418,CA,Craig Holiday,Nonpartisan,1936,32.775,False,False
+182513,CA,Marlon-Ray Velasco,Nonpartisan,815,44.658,False,False
+182513,CA,Debora Donathan,Nonpartisan,522,28.603,False,False
+182513,CA,Dewayne A. Normand,Nonpartisan,488,26.74,False,False
+150493,CA,Paula Swift,Democratic,78879,52.119,True,False
+150493,CA,Tri Ta,Republican,72466,47.881,False,True
+182507,CA,Valerie Amezcua,Nonpartisan,20020,45.568,False,True
+182507,CA,Dan Shimell,Nonpartisan,17845,40.618,False,False
+182507,CA,Dwayne Shipp,Nonpartisan,6069,13.814,False,False
+182095,CA,Alice D. Atkins,Nonpartisan,9576,99.398,False,False
+182095,CA,Write-in,Nonpartisan,58,0.602,False,False
+182190,CA,Yes,Nonpartisan,6305,58.953,False,False
+182190,CA,No,Nonpartisan,4390,41.047,False,False
+182310,CA,Dennis Yang,Nonpartisan,1934,50.208,False,False
+182310,CA,Michael Yen-Ting Lin,Nonpartisan,1886,48.962,False,False
+182310,CA,Write-in,Nonpartisan,32,0.831,False,False
+182089,CA,Bernadette Lourdes Suarez,Nonpartisan,3955,56.98,False,False
+182089,CA,Pat Kearney,Nonpartisan,2900,41.781,False,False
+182089,CA,Write-in,Nonpartisan,86,1.239,False,False
+182184,CA,John Paul Drayer,Nonpartisan,1942,57.592,False,False
+182184,CA,Renita Armstrong,Nonpartisan,1423,42.2,False,False
+182184,CA,Write-in,Nonpartisan,7,0.208,False,False
+182080,CA,Gloria D. Gray,Nonpartisan,7771,32.235,False,False
+182080,CA,James T. Butts,Nonpartisan,6891,28.585,False,False
+182080,CA,"Fre'drisha ""Sha"" Dixion",Nonpartisan,4241,17.592,False,False
+182080,CA,Raina Carrillo,Nonpartisan,2954,12.254,False,False
+182080,CA,Joe Soto,Nonpartisan,1401,5.812,False,False
+182080,CA,Arturo Martinez,Nonpartisan,783,3.248,False,False
+182080,CA,Write-in,Nonpartisan,66,0.274,False,False
+182483,CA,Andrew Kim,Nonpartisan,507,52.539,False,False
+182483,CA,Nitesh P. Patel,Nonpartisan,458,47.461,False,False
+182178,CA,Michael R. Adams,Nonpartisan,7027,53.295,False,False
+182178,CA,Nashon T. Mitchell,Nonpartisan,6085,46.151,False,False
+182178,CA,Write-in,Nonpartisan,73,0.554,False,False
+182574,CA,Teresa Proaño,Nonpartisan,7987,25.131,False,False
+182574,CA,Rod Daus-Magbual,Nonpartisan,6955,21.884,False,False
+182574,CA,Pamela Digiovanni,Nonpartisan,5888,18.527,False,False
+182574,CA,Tony Bayudan,Nonpartisan,3606,11.346,False,False
+182574,CA,Thomas A. Nuris,Nonpartisan,3296,10.371,False,False
+182574,CA,Asia Su,Nonpartisan,2901,9.128,False,False
+182574,CA,Barry Rodriguez,Nonpartisan,1148,3.612,False,False
+182169,CA,Yes,Nonpartisan,506237,63.11,False,False
+182169,CA,No,Nonpartisan,295914,36.89,False,False
+182264,CA,Lisa C. Nashua,Nonpartisan,2879,45.02,False,False
+182264,CA,Christine Raquel Cruz-Arvayo,Nonpartisan,1807,28.256,False,False
+182264,CA,John Mendoza,Nonpartisan,1690,26.427,False,False
+182264,CA,Write-in,Nonpartisan,19,0.297,False,False
+182099,CA,David Matanga,Nonpartisan,10422,98.423,False,False
+182099,CA,Write-in,Nonpartisan,167,1.577,False,False
+182470,CA,Mike Vigliotta,Nonpartisan,41164,100.0,False,True
+182282,CA,Rudy T. Martinez,Nonpartisan,776,25.841,False,False
+182282,CA,Angelica Garcia,Nonpartisan,762,25.375,False,False
+182282,CA,Jacqueline J. Rubio,Nonpartisan,756,25.175,False,False
+182282,CA,Veronica Lauria,Nonpartisan,691,23.01,False,False
+182282,CA,Write-in,Nonpartisan,18,0.599,False,False
+150460,CA,Gregg Hart,Democratic,111327,66.99,True,True
+150460,CA,Sari Domingues,Republican,54857,33.01,False,False
+182464,CA,Oscar Valadez,Nonpartisan,2155,43.23,False,False
+182464,CA,Jozef Maldonado,Nonpartisan,2049,41.103,False,False
+182464,CA,David Fischbein,Nonpartisan,781,15.667,False,False
+182559,CA,Michael Dekshenieks,Nonpartisan,5840,89.338,False,False
+182559,CA,Sathvik Nori,Nonpartisan,697,10.662,False,False
+182455,CA,Mike Buley,Nonpartisan,13259,54.418,False,False
+182455,CA,Loren Gameros,Nonpartisan,11106,45.582,False,False
+182277,CA,Anna Griese,Nonpartisan,5118,63.475,False,False
+182277,CA,Alisa Gentry,Nonpartisan,2925,36.277,False,False
+182277,CA,Write-in,Nonpartisan,20,0.248,False,False
+182449,CA,Carlos A. Leon,Nonpartisan,8065,100.0,False,True
+150436,CA,Rhodesia Ransom,Democratic,79478,67.048,True,True
+150436,CA,Tom Patti,Republican,39061,32.952,False,False
+182635,CA,Yes,Nonpartisan,4712,64.161,False,False
+182635,CA,No,Nonpartisan,2632,35.839,False,False
+150430,CA,Amy L. Slavensky,Democratic,98420,53.319,False,False
+150430,CA,Josh Hoover,Republican,86167,46.681,False,True
+182126,CA,Yes,Nonpartisan,5043,71.38,False,False
+182126,CA,No,Nonpartisan,2022,28.62,False,False
+182253,CA,Joann N. Smith,Nonpartisan,2831,75.878,False,False
+182253,CA,Francisco Magana-Huanosto,Nonpartisan,879,23.559,False,False
+182253,CA,Write-in,Nonpartisan,21,0.563,False,False
+182032,CA,Khaleah K. Bradshaw,Nonpartisan,19835,98.903,False,False
+182032,CA,Write-in,Nonpartisan,220,1.097,False,False
+182120,CA,Jacky Elizalde,Nonpartisan,1699,53.681,False,False
+182120,CA,Victor Preciado,Nonpartisan,1466,46.319,False,False
+182023,CA,Miguel De La Rosa,Nonpartisan,2743,25.614,False,False
+182023,CA,Francis De Leon Sanchez,Nonpartisan,2659,24.83,False,False
+182023,CA,Marco Barcena,Nonpartisan,2487,23.223,False,False
+182023,CA,Samuel Perez,Nonpartisan,1865,17.415,False,False
+182023,CA,Jorge O. Verdin,Nonpartisan,899,8.395,False,False
+182023,CA,Write-in,Nonpartisan,56,0.523,False,False
+182611,CA,Matt Allen,Nonpartisan,1281,28.222,False,False
+182611,CA,Barbara Dye,Nonpartisan,1216,26.79,False,False
+182611,CA,Patrick Tierney,Nonpartisan,1197,26.371,False,False
+182611,CA,Kevin W. Sniecinski,Nonpartisan,845,18.616,False,False
+182114,CA,Yes,Nonpartisan,21968,74.453,False,False
+182114,CA,No,Nonpartisan,7538,25.547,False,False
+182517,CA,David Johnson,Nonpartisan,2852,50.371,False,False
+182517,CA,Amy Phan West,Nonpartisan,2358,41.646,False,True
+182517,CA,Mike Fenton,Nonpartisan,452,7.983,False,False
+150497,CA,Sergio Farias,Democratic,102134,51.896,False,False
+150497,CA,Laurie Davies,Republican,94672,48.104,False,True
+182008,CA,Amy J. Wong,Nonpartisan,2122,58.49,False,False
+182008,CA,Ron Sahu,Nonpartisan,1493,41.152,False,False
+182008,CA,Write-in,Nonpartisan,13,0.358,False,False
+182203,CA,Miguel Angel Hernandez Jr.,Nonpartisan,1579,50.641,False,False
+182203,CA,Thomas Baird,Nonpartisan,1522,48.813,False,False
+182203,CA,Write-in,Nonpartisan,17,0.545,False,False
+182406,CA,John R. Hanna,Nonpartisan,9094,85.47,False,True
+182406,CA,Steve Rocco,Nonpartisan,1546,14.53,False,False
+182225,CA,Alma I. Rodriguez,Nonpartisan,469,59.367,False,False
+182225,CA,Matthew Gaines,Nonpartisan,318,40.253,False,False
+182225,CA,Write-in,Nonpartisan,3,0.38,False,False
+182504,CA,Steve Camp,Nonpartisan,2831,45.891,False,False
+182504,CA,Donna Vidrine,Nonpartisan,1864,30.216,False,False
+182504,CA,Aaron Washington,Nonpartisan,1474,23.894,False,False
+182400,CA,Barbara Dunsheath,Nonpartisan,18749,67.459,False,True
+182400,CA,Rama R. Maline,Nonpartisan,9044,32.541,False,False
+182219,CA,Yes,Nonpartisan,8197,74.681,False,False
+182219,CA,No,Nonpartisan,2779,25.319,False,False
+182307,CA,Jazmin Leos,Nonpartisan,4605,26.693,False,False
+182307,CA,David L. Muse,Nonpartisan,4125,23.91,False,False
+182307,CA,Erik Peña,Nonpartisan,3531,20.467,False,False
+182307,CA,Lenet Pacheco,Nonpartisan,3317,19.227,False,False
+182307,CA,Jiamin Li,Nonpartisan,1577,9.141,False,False
+182307,CA,Write-in,Nonpartisan,97,0.562,False,False
+182021,CA,Jean M. Ayala,Nonpartisan,6593,38.436,False,False
+182021,CA,Alejandra Avila,Nonpartisan,5897,34.379,False,False
+182021,CA,Jeanette Cardoza,Nonpartisan,4545,26.497,False,False
+182021,CA,Write-in,Nonpartisan,118,0.688,False,False
+182301,CA,Andy Coradeschi,Nonpartisan,2289,78.016,False,False
+182301,CA,Teri L. Davis,Nonpartisan,633,21.575,False,False
+182301,CA,Write-in,Nonpartisan,12,0.409,False,False
+182480,CA,Benjamin Yu,Nonpartisan,1790,39.742,False,True
+182480,CA,Becky Keene,Nonpartisan,1663,36.923,False,False
+182480,CA,Brandon Council,Nonpartisan,431,9.569,False,False
+182480,CA,Brittany Thompson,Nonpartisan,416,9.236,False,False
+182480,CA,"""George"" Giurguis Azer",Nonpartisan,204,4.529,False,False
+182295,CA,Carla D. Dillon,Nonpartisan,3693,32.906,False,False
+182295,CA,James Bodnar,Nonpartisan,3488,31.079,False,False
+182295,CA,Jeffery W. Johnson,Nonpartisan,3038,27.069,False,False
+182295,CA,Alec Hyeler,Nonpartisan,943,8.402,False,False
+182295,CA,Write-in,Nonpartisan,61,0.544,False,False
+150558,CA,Yes,Nonpartisan,262058,59.249,False,False
+150558,CA,No,Nonpartisan,180239,40.751,False,False
+182069,CA,L. David Patterson,Nonpartisan,9503,66.455,False,False
+182069,CA,Raymond Vergara,Nonpartisan,4744,33.175,False,False
+182069,CA,Write-in,Nonpartisan,53,0.371,False,False
+182465,CA,Stephanie Klopfenstein,Nonpartisan,20607,54.857,False,True
+182465,CA,Thu-Ha Nguyen,Nonpartisan,16958,45.143,False,False
+182160,CA,Yes,Nonpartisan,17753,76.621,False,False
+182160,CA,No,Nonpartisan,5417,23.379,False,False
+182063,CA,Chris Pimentel,Nonpartisan,3237,33.874,False,False
+182063,CA,John Pickhaver,Nonpartisan,3190,33.382,False,False
+182063,CA,Ryan W. Baldino,Nonpartisan,3086,32.294,False,False
+182063,CA,Write-in,Nonpartisan,43,0.45,False,False
+182427,CA,Katelyn Brazer Aceves,Nonpartisan,3973,54.158,False,True
+182427,CA,Sylvia Iglesias,Nonpartisan,3363,45.842,False,False
+182278,CA,Christopher Trunkey,Nonpartisan,3068,51.347,False,False
+182278,CA,Cindy Larae Hallman,Nonpartisan,2875,48.117,False,False
+182278,CA,Write-in,Nonpartisan,32,0.536,False,False
+182057,CA,Maryann G. Barrios,Nonpartisan,6062,45.104,False,False
+182057,CA,Maria Santay,Nonpartisan,3750,27.902,False,False
+182057,CA,"Xiaohu ""Jeff"" Meng",Nonpartisan,3579,26.629,False,False
+182057,CA,Write-in,Nonpartisan,49,0.365,False,False
+150537,CA,Yes,Nonpartisan,396773,62.071,False,False
+150537,CA,No,Nonpartisan,242447,37.929,False,False
+150440,CA,Matt Haney,Democratic,160135,90.156,True,True
+150440,CA,Manuel Noris-Barrera,Republican,17484,9.844,False,False
+150528,CA,Yes,Nonpartisan,1514060,75.656,False,False
+150528,CA,No,Nonpartisan,487182,24.344,False,False
+182139,CA,No,Nonpartisan,16294,52.93,False,False
+182139,CA,Yes,Nonpartisan,14490,47.07,False,False
+182042,CA,Yes,Nonpartisan,2288,83.779,False,False
+182042,CA,No,Nonpartisan,443,16.221,False,False
+182437,CA,Dennis Cole,Nonpartisan,10008,30.956,False,True
+182437,CA,Rick Nichols,Nonpartisan,9657,29.87,False,False
+182437,CA,Carl Blankenhorn,Nonpartisan,8040,24.869,False,False
+182437,CA,Eugene M. Murray,Nonpartisan,4625,14.306,False,False
+182632,CA,Yes,Nonpartisan,5807,60.214,False,False
+182632,CA,No,Nonpartisan,3837,39.786,False,False
+182259,CA,Kristine E. Kwong,Nonpartisan,11493,75.562,False,False
+182259,CA,Jennifer Thompson,Nonpartisan,3664,24.089,False,False
+182259,CA,Write-in,Nonpartisan,53,0.348,False,False
+182623,CA,Yes,Nonpartisan,105692,80.618,False,False
+182623,CA,No,Nonpartisan,25411,19.382,False,False
+182250,CA,Anthony Armendarez,Nonpartisan,2391,79.753,False,False
+182250,CA,Josue Alvarez,Nonpartisan,601,20.047,False,False
+182250,CA,Write-in,Nonpartisan,6,0.2,False,False
+182425,CA,Carrie Buck,Nonpartisan,5037,52.11,False,True
+182425,CA,Justin Aguirre,Nonpartisan,4629,47.89,False,False
+182244,CA,Martina Rodriguez,Nonpartisan,3297,20.359,False,False
+182244,CA,Julian Del Real-Calleros,Nonpartisan,2848,17.587,False,False
+182244,CA,Alma Ruby Andrade,Nonpartisan,2805,17.321,False,False
+182244,CA,James M. Bishop Sr.,Nonpartisan,2506,15.475,False,False
+182244,CA,Mariela Renteria,Nonpartisan,2459,15.185,False,False
+182244,CA,Jose Luis Piña,Nonpartisan,2221,13.715,False,False
+182244,CA,Write-in,Nonpartisan,58,0.358,False,False
+182416,CA,Jeff Kim,Nonpartisan,5333,59.039,False,True
+182416,CA,Jane Wood,Nonpartisan,3700,40.961,False,False
+182238,CA,Dora D. Sandoval,Nonpartisan,924,64.078,False,False
+182238,CA,Scherise R. Acosta,Nonpartisan,513,35.576,False,False
+182238,CA,Write-in,Nonpartisan,5,0.347,False,False
+182602,CA,Buenaflor (Flor) Nicolas,Nonpartisan,961,51.473,False,False
+182602,CA,Melanie Olson,Nonpartisan,671,35.94,False,False
+182602,CA,Sophia Cyris,Nonpartisan,235,12.587,False,False
+182005,CA,Anthony (A.J.) Bayne,Nonpartisan,1021752,54.485,False,False
+182005,CA,David Dejute,Nonpartisan,846529,45.141,False,False
+182005,CA,Write-in,Nonpartisan,7003,0.373,False,False
+182401,CA,Chloe Serrano,Nonpartisan,14806,62.666,False,False
+182401,CA,Larry Andre,Nonpartisan,6099,25.814,False,False
+182401,CA,Paul Gonzales,Nonpartisan,2722,11.521,False,False
+150488,CA,Ayanna Davis,Democratic,96464,82.264,True,False
+150488,CA,Lydia A. Gutiérrez,Republican,20797,17.736,False,False
+182191,CA,Krista Carson Elhai,Nonpartisan,1051,50.822,False,False
+182191,CA,Kathryn Dunn,Nonpartisan,1005,48.598,False,False
+182191,CA,Write-in,Nonpartisan,12,0.58,False,False
+182087,CA,Erica Harbison,Nonpartisan,4768,99.065,False,False
+182087,CA,Write-in,Nonpartisan,45,0.935,False,False
+182022,CA,No,Nonpartisan,3679,75.358,False,False
+182022,CA,Yes,Nonpartisan,1203,24.642,False,False
+182185,CA,Brad W. Crihfield,Nonpartisan,3056,68.245,False,False
+182185,CA,Todd J. Roberts,Nonpartisan,1399,31.242,False,False
+182185,CA,Write-in,Nonpartisan,23,0.514,False,False
+150473,CA,Robert Garcia,Democratic,90117,67.451,True,True
+150473,CA,Victoria Viveros Mageno,Republican,43487,32.549,False,False
+182484,CA,Mary Paningsoro,Nonpartisan,644,69.772,False,False
+182484,CA,Jonathan Dinwiddie,Nonpartisan,279,30.228,False,False
+182572,CA,Peter W. Stevenson,Nonpartisan,929,100.0,False,False
+150467,CA,"Nicholas ""Nick"" Schultz",Democratic,134765,73.424,True,True
+150467,CA,Carolyn Daniels,Republican,48779,26.576,False,False
+150562,CA,Yes,Nonpartisan,292751,65.854,False,False
+150562,CA,No,Nonpartisan,151793,34.146,False,False
+182265,CA,Roberta Perlman,Nonpartisan,4399,78.765,False,False
+182265,CA,Pawn Kongkosonkichkan,Nonpartisan,1164,20.842,False,False
+182265,CA,Write-in,Nonpartisan,22,0.394,False,False
+182292,CA,Beth K. Whittenbury,Nonpartisan,11227,28.145,False,False
+182292,CA,Jonathan Beutler,Nonpartisan,9186,23.028,False,False
+182292,CA,Maria D. Villa Lathrop,Nonpartisan,6378,15.989,False,False
+182292,CA,Gabor Nemeth,Nonpartisan,5324,13.347,False,False
+182292,CA,Peter Michel,Nonpartisan,5278,13.231,False,False
+182292,CA,Lisa Blank,Nonpartisan,2389,5.989,False,False
+182292,CA,Write-in,Nonpartisan,108,0.271,False,False
+182195,CA,Sharon R. Whitaker,Nonpartisan,5445,52.543,False,False
+182195,CA,Sharoni Denise Little,Nonpartisan,4868,46.975,False,False
+182195,CA,Write-in,Nonpartisan,50,0.482,False,False
+182283,CA,Yes,Nonpartisan,1016,72.108,False,False
+182283,CA,No,Nonpartisan,393,27.892,False,False
+182462,CA,Jim Cunneen,Nonpartisan,7754,20.676,False,True
+182462,CA,Dan Hay,Nonpartisan,7621,20.322,False,False
+182462,CA,Kim Constantine,Nonpartisan,6058,16.154,False,True
+182462,CA,Elizabeth Andrade,Nonpartisan,5335,14.226,False,False
+182462,CA,John Nguyen,Nonpartisan,4211,11.229,False,False
+182462,CA,Patricia Odette Neal,Nonpartisan,2155,5.746,False,False
+182462,CA,Katy Wright,Nonpartisan,1830,4.88,False,False
+182462,CA,Harrison F Dibblee,Nonpartisan,1284,3.424,False,False
+182462,CA,Mark Leonard,Nonpartisan,1254,3.344,False,False
+182085,CA,"Meshal ""Kash"" Kashifalghita",Nonpartisan,1239,53.176,False,False
+182085,CA,Richard Bowen,Nonpartisan,1088,46.695,False,False
+182085,CA,Write-in,Nonpartisan,3,0.129,False,False
+182456,CA,Daniel Morgan,Nonpartisan,1936,50.628,False,False
+182456,CA,Cara Stewart,Nonpartisan,1888,49.372,False,False
+182275,CA,Alicia Mignano,Nonpartisan,21542,24.172,False,False
+182275,CA,Robbie Staenberg,Nonpartisan,19964,22.401,False,False
+182275,CA,Laurie Lieberman,Nonpartisan,19166,21.506,False,False
+182275,CA,Stacy Rouse,Nonpartisan,18500,20.759,False,False
+182275,CA,Harry Leshner,Nonpartisan,9643,10.82,False,False
+182275,CA,Write-in,Nonpartisan,305,0.342,False,False
+182174,CA,Soo Yoo,Nonpartisan,2803,61.835,False,False
+182174,CA,Al Barlevy,Nonpartisan,1707,37.657,False,False
+182174,CA,Write-in,Nonpartisan,23,0.507,False,False
+182545,CA,No,Nonpartisan,20220,63.945,False,False
+182545,CA,Yes,Nonpartisan,11401,36.055,False,False
+150525,CA,Yes,Nonpartisan,1385505,70.626,False,False
+150525,CA,No,Nonpartisan,576237,29.374,False,False
+182539,CA,Yes,Nonpartisan,5622,62.019,False,False
+182539,CA,No,Nonpartisan,3443,37.981,False,False
+182127,CA,"Thu ""Julie"" Nguyen",Nonpartisan,5280,98.342,False,False
+182127,CA,Write-in,Nonpartisan,89,1.658,False,False
+150422,CA,Catherine S. Blakespear,Democratic,236503,57.851,True,True
+150422,CA,Laura Bassett,Republican,172308,42.149,False,False
+182426,CA,Edgar Montes,Nonpartisan,6436,53.305,False,False
+182426,CA,Kris Spowart,Nonpartisan,5638,46.695,False,False
+182121,CA,Yes,Nonpartisan,10688,74.731,False,False
+182121,CA,No,Nonpartisan,3614,25.269,False,False
+150416,CA,Sara Hernandez,Democratic,129678,53.22,True,False
+150416,CA,Sarah Rascón,Democratic,113987,46.78,False,False
+182112,CA,Eric Ohlsen,Nonpartisan,2531,41.98,False,False
+182112,CA,Francisco Sanchez,Nonpartisan,1380,22.889,False,False
+182112,CA,Mark Maldonado,Nonpartisan,1309,21.712,False,False
+182112,CA,Getro Elize,Nonpartisan,765,12.689,False,False
+182112,CA,Write-in,Nonpartisan,44,0.73,False,False
+182515,CA,Ray Schnell,Nonpartisan,2828,60.119,False,True
+182515,CA,"Thomas James ""TJ"" Reed",Nonpartisan,1876,39.881,False,False
+150410,CA,Esmeralda Soria,Democratic,143788,65.955,True,False
+150410,CA,Darin S. DuPont,Republican,74221,34.045,False,False
+182606,CA,Lyle Weaver,Nonpartisan,247,100.0,False,False
+182009,CA,Ross J. Maza,Nonpartisan,2389,97.272,False,False
+182009,CA,Write-in,Nonpartisan,67,2.728,False,False
+182097,CA,Becky A. Shevlin,Nonpartisan,9978,97.929,False,False
+182097,CA,Write-in,Nonpartisan,211,2.071,False,False
+182131,CA,Calvin Lo,Nonpartisan,2479,27.453,False,False
+182131,CA,Tony Chou,Nonpartisan,2446,27.087,False,False
+182131,CA,Shelley Boyle,Nonpartisan,2087,23.112,False,False
+182131,CA,John Dustin,Nonpartisan,1937,21.451,False,False
+182131,CA,Write-in,Nonpartisan,81,0.897,False,False
+182226,CA,Ana Laura Quiles,Nonpartisan,309,50.244,False,False
+182226,CA,Andrew Ramirez,Nonpartisan,297,48.293,False,False
+182226,CA,Write-in,Nonpartisan,9,1.463,False,False
+182314,CA,Tyron D. Turner,Nonpartisan,15664,40.993,False,False
+182314,CA,Gloria D. Gray,Nonpartisan,13863,36.28,False,False
+182314,CA,Carol Raines Brown,Nonpartisan,8552,22.381,False,False
+182314,CA,Write-in,Nonpartisan,132,0.345,False,False
+182028,CA,Kimberley Clark,Nonpartisan,23911,99.208,False,False
+182028,CA,Write-in,Nonpartisan,191,0.792,False,False
+182308,CA,Brian Worthington,Nonpartisan,3002,61.178,False,False
+182308,CA,Michael Braun,Nonpartisan,1885,38.415,False,False
+182308,CA,Write-in,Nonpartisan,20,0.408,False,False
+182019,CA,Christopher Saenz,Nonpartisan,10336,98.928,False,False
+182019,CA,Write-in,Nonpartisan,112,1.072,False,False
+182110,CA,Tony Ayala,Nonpartisan,7227,22.223,False,False
+182110,CA,Richard Legaspi,Nonpartisan,6784,20.86,False,False
+182110,CA,Daniel Moreno,Nonpartisan,5785,17.789,False,False
+182110,CA,Nikolas Woods,Nonpartisan,5305,16.313,False,False
+182110,CA,Leonard Shryock,Nonpartisan,5027,15.458,False,False
+182110,CA,Rachell Jaimes,Nonpartisan,2256,6.937,False,False
+182110,CA,Write-in,Nonpartisan,137,0.421,False,False
+182205,CA,Anouk Harvey,Nonpartisan,515,58.79,False,False
+182205,CA,Julie Ann Bookman,Nonpartisan,359,40.982,False,False
+182205,CA,Write-in,Nonpartisan,2,0.228,False,False
+182569,CA,Julie Sims,Nonpartisan,509,33.268,False,False
+182569,CA,Madison Davis,Nonpartisan,422,27.582,False,False
+182569,CA,Charles Spencer,Nonpartisan,276,18.039,False,False
+182569,CA,Christopher Hornick,Nonpartisan,186,12.157,False,False
+182569,CA,Chaya-Bella David,Nonpartisan,137,8.954,False,False
+182475,CA,Alex Rounaghi,Nonpartisan,5313,22.405,False,True
+182475,CA,Sue Kempf,Nonpartisan,4335,18.281,False,True
+182475,CA,Mark Orgill,Nonpartisan,3492,14.726,False,True
+182475,CA,Nick Aronoff,Nonpartisan,2978,12.559,False,False
+182475,CA,Ashley Cintas,Nonpartisan,2267,9.56,False,False
+182475,CA,Joy Berry,Nonpartisan,2145,9.046,False,False
+182475,CA,Laura Parisi,Nonpartisan,1815,7.654,False,False
+182475,CA,Karen Martin,Nonpartisan,955,4.027,False,False
+182475,CA,Edward Bayuk,Nonpartisan,413,1.742,False,False
+150462,CA,Juan Carrillo,Democratic,74229,71.124,True,True
+150462,CA,Paul Andre Marsh,Republican,30137,28.876,False,False
+182158,CA,Fredrick Fred Sykes,Nonpartisan,2716,55.919,False,False
+182158,CA,Tony Wu,Nonpartisan,2110,43.442,False,False
+182158,CA,Write-in,Nonpartisan,31,0.638,False,False
+182086,CA,Timothy Hepburn,Nonpartisan,1968,97.426,False,False
+182086,CA,Write-in,Nonpartisan,52,2.574,False,False
+182064,CA,Teri Merrick,Nonpartisan,1501,53.34,False,False
+182064,CA,Michael Allawos,Nonpartisan,1309,46.517,False,False
+182064,CA,Write-in,Nonpartisan,4,0.142,False,False
+182152,CA,Michael Cacciotti,Nonpartisan,1011,64.028,False,False
+182152,CA,Nevin Stanton-Trehan,Nonpartisan,563,35.655,False,False
+182152,CA,Write-in,Nonpartisan,5,0.317,False,False
+182055,CA,Margaret E. Finlay,Nonpartisan,652,55.537,False,False
+182055,CA,Luz Yesenia Paez,Nonpartisan,517,44.037,False,False
+182055,CA,Write-in,Nonpartisan,5,0.426,False,False
+182451,CA,Natalie Meeks,Nonpartisan,13421,100.0,False,True
+182146,CA,No,Nonpartisan,2119,70.893,False,False
+182146,CA,Yes,Nonpartisan,870,29.107,False,False
+182549,CA,Yes,Nonpartisan,12991,62.06,False,False
+182549,CA,No,Nonpartisan,7942,37.94,False,False
+150529,CA,Yes,Nonpartisan,1291927,65.797,False,False
+150529,CA,No,Nonpartisan,671588,34.203,False,False
+182040,CA,Emma Sharif,Nonpartisan,9620,64.864,False,False
+182040,CA,Andre Spicer,Nonpartisan,5211,35.136,False,False
+182235,CA,Maria De Los Angeles Gonzalez,Nonpartisan,1716,29.389,False,False
+182235,CA,Jaime Vaca,Nonpartisan,1451,24.85,False,False
+182235,CA,José Luis Becerra,Nonpartisan,1401,23.994,False,False
+182235,CA,Karina Cordero,Nonpartisan,1236,21.168,False,False
+182235,CA,Write-in,Nonpartisan,35,0.599,False,False
+182438,CA,Amy Choi-Won,Nonpartisan,4140,64.356,False,False
+182438,CA,Jordan Abushawish,Nonpartisan,2293,35.644,False,False
+182257,CA,Geoff Baum,Nonpartisan,10106,55.908,False,False
+182257,CA,Francis Pollara,Nonpartisan,7913,43.776,False,False
+182257,CA,Write-in,Nonpartisan,57,0.315,False,False
+182536,CA,Yes,Nonpartisan,12611,67.442,False,False
+182536,CA,No,Nonpartisan,6088,32.558,False,False
+182432,CA,Annemarie Randle-Trejo,Nonpartisan,7371,61.656,False,True
+182432,CA,Roberto Garcia,Nonpartisan,4584,38.344,False,False
+182251,CA,Malaika Ware,Nonpartisan,2239,52.807,False,False
+182251,CA,Christopher Staples,Nonpartisan,1985,46.816,False,False
+182251,CA,Write-in,Nonpartisan,16,0.377,False,False
+182423,CA,Stephen Glass,Nonpartisan,27297,55.232,False,True
+182423,CA,Jack Chang,Nonpartisan,22125,44.768,False,False
+182053,CA,Hector Sosa,Nonpartisan,3000,60.435,False,False
+182053,CA,Maria Zaragoza,Nonpartisan,1925,38.779,False,False
+182053,CA,Write-in,Nonpartisan,39,0.786,False,False
+182417,CA,Joan Malczewski,Nonpartisan,6551,25.833,False,True
+182417,CA,Shaheen Sheik-Sadhal,Nonpartisan,6181,24.374,False,False
+182417,CA,Kimberly Smith,Nonpartisan,6048,23.85,False,False
+182417,CA,Elizabeth Bates,Nonpartisan,3378,13.321,False,False
+182417,CA,Dee Namba Perry,Nonpartisan,3201,12.623,False,True
+182512,CA,Thomas M. Frazier,Nonpartisan,903,55.467,False,False
+182512,CA,Donald Torres,Nonpartisan,725,44.533,False,True
+182411,CA,Mandy Bourne,Nonpartisan,7693,57.325,False,False
+182411,CA,Jeanna Emmons,Nonpartisan,5727,42.675,False,False
+182506,CA,Jeff Moore,Nonpartisan,1306,50.699,False,False
+182506,CA,Erin Beyer,Nonpartisan,1270,49.301,False,False
+150486,CA,Natasha Johnson,Republican,89701,56.141,True,True
+150486,CA,Kevin Akin,Peace and Freedom,70078,43.859,False,False
+182029,CA,Krystle Palmer,Nonpartisan,23221,99.21,False,False
+182029,CA,Write-in,Nonpartisan,185,0.79,False,False
+182000,CA,Yes,Nonpartisan,1316017,63.915,False,False
+182000,CA,No,Nonpartisan,742981,36.085,False,False
+150480,CA,Sade Elhawary,Democratic,76820,89.793,True,True
+150480,CA,Constance Jewel Menzies,Republican,8732,10.207,False,False
+182183,CA,Samuel Brown-Vazquez,Nonpartisan,2221,26.387,False,False
+182183,CA,Aaron Simental,Nonpartisan,2210,26.256,False,False
+182183,CA,Patrice Stanzione,Nonpartisan,1713,20.352,False,False
+182183,CA,Dolores C. Rivera,Nonpartisan,1231,14.625,False,False
+182183,CA,Carol Tula,Nonpartisan,1012,12.023,False,False
+182183,CA,Write-in,Nonpartisan,30,0.356,False,False
+182303,CA,Robert Gonzales,Nonpartisan,3669,54.227,False,False
+182303,CA,Tizoc Cruz-Gonzalez,Nonpartisan,3071,45.389,False,False
+182303,CA,Write-in,Nonpartisan,26,0.384,False,False
+150474,CA,Rick Chavez Zbur,Democratic,93658,59.573,True,True
+150474,CA,Colin D. Hernandez,Democratic,63558,40.427,False,False
+182209,CA,Ricardo Padilla,Nonpartisan,3148,72.169,False,False
+182209,CA,Raul Pardo,Nonpartisan,1195,27.396,False,False
+182209,CA,Write-in,Nonpartisan,19,0.436,False,False
+182573,CA,Helen Fisicaro,Nonpartisan,155,32.77,False,False
+182573,CA,Joanne F. Del Rosario,Nonpartisan,121,25.581,False,False
+182573,CA,Laura M Walsh,Nonpartisan,110,23.256,False,False
+182573,CA,Elisabeth Aurora Jenson,Nonpartisan,87,18.393,False,False
+150560,CA,Yes,Nonpartisan,288173,65.563,False,False
+150560,CA,No,Nonpartisan,151365,34.437,False,False
+182171,CA,Nithya Raman,Nonpartisan,429450,52.102,True,False
+182171,CA,Karen Ruth Bass,Nonpartisan,394796,47.898,False,False
+182074,CA,Nancy Cindy Martiz,Nonpartisan,659,45.859,False,False
+182074,CA,Karina Macias,Nonpartisan,631,43.911,False,False
+182074,CA,Karina Miketta,Nonpartisan,134,9.325,False,False
+182074,CA,Write-in,Nonpartisan,13,0.905,False,False
+182193,CA,Andres Ramos,Nonpartisan,6138,77.178,False,False
+182193,CA,Skyy D. Fisher,Nonpartisan,1781,22.394,False,False
+182193,CA,Write-in,Nonpartisan,34,0.428,False,False
+182472,CA,John Park,Nonpartisan,3986,39.524,False,False
+182472,CA,Melinda Liu,Nonpartisan,3888,38.552,False,True
+182472,CA,Sukhee Kang,Nonpartisan,2211,21.924,False,False
+182092,CA,Doug Stewart,Nonpartisan,1720,32.514,False,False
+182092,CA,Danny Smith,Nonpartisan,1635,30.907,False,False
+182092,CA,Marianne Riggins,Nonpartisan,1593,30.113,False,False
+182092,CA,A. Sam Dibaei,Nonpartisan,294,5.558,False,False
+182092,CA,Write-in,Nonpartisan,48,0.907,False,False
+182463,CA,Shana Charles,Nonpartisan,2574,57.558,False,True
+182463,CA,Daniel H. Kim,Nonpartisan,1898,42.442,False,False
+182083,CA,"Hector ""Manuel"" Ortiz",Nonpartisan,314,37.65,False,False
+182083,CA,Maricela Romero Frymark,Nonpartisan,286,34.293,False,False
+182083,CA,Marguerite S. Lopez-Sapien,Nonpartisan,233,27.938,False,False
+182083,CA,Write-in,Nonpartisan,1,0.12,False,False
+182181,CA,Gabriela Arellanes,Nonpartisan,1622,59.025,False,False
+182181,CA,Marcos C. Gonzales Jr.,Nonpartisan,1107,40.284,False,False
+182181,CA,Write-in,Nonpartisan,19,0.691,False,False
+182276,CA,Larry Grable,Nonpartisan,2378,39.913,False,False
+182276,CA,Kevin Kim,Nonpartisan,1975,33.149,False,False
+182276,CA,Natalie Epstein,Nonpartisan,1582,26.553,False,False
+182276,CA,Write-in,Nonpartisan,23,0.386,False,False
+182448,CA,Ashleigh Aitken,Nonpartisan,35471,56.841,False,True
+182448,CA,Alfredo Rodriguez,Nonpartisan,19932,31.94,False,False
+182448,CA,Imran Sharief,Nonpartisan,7001,11.219,False,False
+182270,CA,Kevin T. Hayakawa,Nonpartisan,3483,74.328,False,False
+182270,CA,Falynn Love Thompson,Nonpartisan,1189,25.373,False,False
+182270,CA,Write-in,Nonpartisan,14,0.299,False,False
+182634,CA,No,Nonpartisan,8164,56.257,False,False
+182634,CA,Yes,Nonpartisan,6348,43.743,False,False
+150429,CA,Maggy Krell,Democratic,124545,83.592,True,True
+150429,CA,Jagtar Singh,Democratic,24447,16.408,False,False
+182433,CA,Juan Gabriel Alvarez,Nonpartisan,3252,59.67,False,True
+182433,CA,Jeff Cole,Nonpartisan,2198,40.33,False,False
+150520,CA,Yes,Nonpartisan,1528526,76.734,False,False
+150520,CA,No,Nonpartisan,463455,23.266,False,False
+150423,CA,Mara Elliott,Democratic,209800,54.879,True,False
+150423,CA,Kristie Bruce-Lane,Republican,172499,45.121,False,False
+182119,CA,Gustavo V. Camacho,Nonpartisan,9138,43.537,False,False
+182119,CA,Johnny Garcia,Nonpartisan,6834,32.56,False,False
+182119,CA,Genaro Moreno,Nonpartisan,4901,23.35,False,False
+182119,CA,Write-in,Nonpartisan,116,0.553,False,False
+182054,CA,Carrie Uva,Nonpartisan,2861,47.281,False,False
+182054,CA,Lissette Rivera,Nonpartisan,1942,32.094,False,False
+182054,CA,Martha Camacho Rodriguez,Nonpartisan,1229,20.311,False,False
+182054,CA,Write-in,Nonpartisan,19,0.314,False,False
+150417,CA,Lola Smallwood-Cuevas,Democratic,234492,85.251,True,True
+150417,CA,Joe Lisuzzo,Republican,40569,14.749,False,False
+182613,CA,Yes,Nonpartisan,89075,64.084,False,False
+182613,CA,No,Nonpartisan,49923,35.916,False,False
+182516,CA,Chi Charlie Nguyen,Nonpartisan,8440,38.977,False,True
+182516,CA,Carlos Manzo,Nonpartisan,8329,38.464,False,False
+182516,CA,Kimberly Ho,Nonpartisan,3830,17.687,False,False
+182516,CA,Charles S. Shipp,Nonpartisan,750,3.464,False,False
+182516,CA,Nguyen Phuong Hung,Nonpartisan,305,1.409,False,False
+182604,CA,Rosa Govea Acosta,Nonpartisan,8936,100.0,False,False
+150499,CA,Darshana Patel,Democratic,114297,61.07,True,True
+150499,CA,Carrie S. Espinoza Villanueva,Republican,72860,38.93,False,False
+150402,CA,Mike Gipson,Democratic,1142433,58.81,False,False
+150402,CA,Samuel P. Sukaton,Democratic,800140,41.19,False,False
+182098,CA,Tamala P. Kelly,Nonpartisan,6816,41.06,False,False
+182098,CA,Larry J. Spicer,Nonpartisan,5740,34.578,False,False
+182098,CA,Jesus Rojas,Nonpartisan,3961,23.861,False,False
+182098,CA,Write-in,Nonpartisan,83,0.5,False,False
+182408,CA,John Black,Nonpartisan,18857,45.094,False,False
+182408,CA,Gila Jones,Nonpartisan,15465,36.983,False,False
+182408,CA,Karima Feldhus,Nonpartisan,4815,11.514,False,False
+182408,CA,Narges Rakin,Nonpartisan,2680,6.409,False,False
+182035,CA,John Hollaway,Nonpartisan,2638,50.527,False,False
+182035,CA,Arleen Bocatija Rojas,Nonpartisan,2552,48.88,False,False
+182035,CA,Write-in,Nonpartisan,31,0.594,False,False
+182315,CA,Erin C. Degroot,Nonpartisan,30,22.901,False,False
+182315,CA,Russ Drew,Nonpartisan,30,22.901,False,False
+182315,CA,Wes Zuber,Nonpartisan,24,18.321,False,False
+182315,CA,Jason Agraz,Nonpartisan,18,13.74,False,False
+182315,CA,David E. Schoenwetter,Nonpartisan,15,11.45,False,False
+182315,CA,Write-in,Nonpartisan,14,10.687,False,False
+182026,CA,Yes,Nonpartisan,14977,52.904,False,False
+182026,CA,No,Nonpartisan,13333,47.096,False,False
+182117,CA,Yes,Nonpartisan,6519,78.684,False,False
+182117,CA,No,Nonpartisan,1766,21.316,False,False
+182020,CA,Joanna Valenzuela,Nonpartisan,10232,99.099,False,False
+182020,CA,Write-in,Nonpartisan,93,0.901,False,False
+182108,CA,Thomas Wong,Nonpartisan,1856,97.224,False,False
+182108,CA,Write-in,Nonpartisan,53,2.776,False,False
+182014,CA,Steve Rhee,Nonpartisan,1591,51.505,False,False
+182014,CA,Michael Cao,Nonpartisan,1487,48.139,False,False
+182014,CA,Write-in,Nonpartisan,11,0.356,False,False
+182294,CA,Brian Gorrindo,Nonpartisan,8846,79.301,False,False
+182294,CA,Jay A. Tremblay,Nonpartisan,2248,20.152,False,False
+182294,CA,Write-in,Nonpartisan,61,0.547,False,False
+150557,CA,Yes,Nonpartisan,289485,65.128,False,False
+150557,CA,No,Nonpartisan,155004,34.872,False,False
+182093,CA,Amy Howorth,Nonpartisan,7018,34.52,False,False
+182093,CA,Richard P. Montgomery,Nonpartisan,5971,29.37,False,False
+182093,CA,Mark Burton,Nonpartisan,5481,26.96,False,False
+182093,CA,Joseph Ungoco,Nonpartisan,1769,8.701,False,False
+182093,CA,Write-in,Nonpartisan,91,0.448,False,False
+182564,CA,Boris Lipkin,Nonpartisan,4647,31.657,False,False
+182564,CA,Megha Chawla,Nonpartisan,4193,28.565,False,False
+182564,CA,Shivani Tripathi,Nonpartisan,3297,22.461,False,False
+182564,CA,Richard F. Wahl,Nonpartisan,2542,17.317,False,False
+182159,CA,Chelsea Byers,Nonpartisan,5393,17.748,False,False
+182159,CA,Helen Krieger,Nonpartisan,4651,15.306,False,False
+182159,CA,John Duran,Nonpartisan,3580,11.782,False,False
+182159,CA,Kyle Brazeal,Nonpartisan,3491,11.489,False,False
+182159,CA,Stephen J. Post,Nonpartisan,3485,11.469,False,False
+182159,CA,Larry Block,Nonpartisan,3190,10.498,False,False
+182159,CA,Jonathan Cottrell,Nonpartisan,2871,9.448,False,False
+182159,CA,"Tatyana ""Tanya"" Tsikanovsky",Nonpartisan,1314,4.324,False,False
+182159,CA,Jöel Zaldívar,Nonpartisan,753,2.478,False,False
+182159,CA,Kody Christiansen,Nonpartisan,486,1.599,False,False
+182159,CA,Kevin L. Ligon,Nonpartisan,416,1.369,False,False
+182159,CA,"Chukwudubem ""Chiedu"" Egbuniwe",Nonpartisan,273,0.898,False,False
+182159,CA,"Alden ""Marlon"" Gobel",Nonpartisan,227,0.747,False,False
+182159,CA,Tom Demille,Nonpartisan,205,0.675,False,False
+182159,CA,Write-in,Nonpartisan,51,0.168,False,False
+150454,CA,Annalisa Perea,Democratic,68269,69.842,True,False
+150454,CA,Jim Polsgrove,Republican,29479,30.158,False,False
+182182,CA,Norma Olmos,Nonpartisan,4940,28.216,False,False
+182182,CA,Christina Lucero,Nonpartisan,4584,26.182,False,False
+182182,CA,John B. De Leon,Nonpartisan,2912,16.632,False,False
+182182,CA,Laura A. Franklin,Nonpartisan,2636,15.056,False,False
+182182,CA,Diana E. Miranda-Dzib,Nonpartisan,2379,13.588,False,False
+182182,CA,Write-in,Nonpartisan,57,0.326,False,False
+182153,CA,Allen Wu,Nonpartisan,5176,40.634,False,False
+182153,CA,"Richard ""Ritchie"" Cajulis",Nonpartisan,3857,30.279,False,False
+182153,CA,"Hong ""Diana"" Zhao",Nonpartisan,2607,20.466,False,False
+182153,CA,Stefanie N. Leilua,Nonpartisan,1047,8.22,False,False
+182153,CA,Write-in,Nonpartisan,51,0.4,False,False
+150448,CA,Ash Kalra,Democratic,100506,75.167,True,True
+150448,CA,Himat Singh Bainiwal,Republican,33205,24.833,False,False
+150536,CA,Yes,Nonpartisan,390807,60.969,False,False
+150536,CA,No,Nonpartisan,250191,39.031,False,False
+182547,CA,No,Nonpartisan,14652,63.453,False,False
+182547,CA,Yes,Nonpartisan,8439,36.547,False,False
+150442,CA,Catherine Stefani,Democratic,154242,83.6,True,True
+150442,CA,Philip Louis Wing,Republican,30259,16.4,False,False
+182638,CA,Yes,Nonpartisan,4267,54.945,False,False
+182638,CA,No,Nonpartisan,3499,45.055,False,False
+182041,CA,Anthony Perry,Nonpartisan,1549,53.414,False,False
+182041,CA,Bennie Tinson,Nonpartisan,1351,46.586,False,False
+182129,CA,John Wu,Nonpartisan,4141,25.638,False,False
+182129,CA,Denise Menchaca,Nonpartisan,3809,23.582,False,False
+182129,CA,Wendy Wang,Nonpartisan,3553,21.997,False,False
+182129,CA,Eric L. Chan,Nonpartisan,2991,18.518,False,False
+182129,CA,Jordan Guzman,Nonpartisan,1567,9.702,False,False
+182129,CA,Write-in,Nonpartisan,91,0.563,False,False
+182267,CA,Manuel Urteaga,Nonpartisan,6660,51.744,False,False
+182267,CA,Rosaelva Lomeli,Nonpartisan,6169,47.929,False,False
+182267,CA,Write-in,Nonpartisan,42,0.326,False,False
+182163,CA,Yes,Nonpartisan,430576,53.682,False,False
+182163,CA,No,Nonpartisan,371505,46.318,False,False
+182258,CA,Steve Gibson,Nonpartisan,9986,75.162,False,False
+182258,CA,David Coher,Nonpartisan,3251,24.469,False,False
+182258,CA,Write-in,Nonpartisan,49,0.369,False,False
+182430,CA,Jonathan Abelove,Nonpartisan,3511,59.61,False,True
+182430,CA,Ziggy McBride,Nonpartisan,2379,40.39,False,False
+182060,CA,Julia Ruedas,Nonpartisan,2080,98.906,False,False
+182060,CA,Write-in,Nonpartisan,23,1.094,False,False
+182424,CA,Todd Frazier,Nonpartisan,4828,51.025,False,True
+182424,CA,"Barbara ""Barb"" Buckley",Nonpartisan,2866,30.29,False,False
+182424,CA,Chris Lowe,Nonpartisan,1768,18.685,False,False
+182051,CA,Lee Mao,Nonpartisan,1374,50.256,False,False
+182051,CA,Chia-Yu Teng,Nonpartisan,1349,49.342,False,False
+182051,CA,Write-in,Nonpartisan,11,0.402,False,False
+182142,CA,Yes,Nonpartisan,21526,73.141,False,False
+182142,CA,No,Nonpartisan,7905,26.859,False,False
+182237,CA,Gabriel J. Jimenez,Nonpartisan,871,50.318,False,False
+182237,CA,Adriana C. Mitre,Nonpartisan,852,49.22,False,False
+182237,CA,Write-in,Nonpartisan,8,0.462,False,False
+182601,CA,Aysha Dominguez Pamukcu,Nonpartisan,1814,100.0,False,False
+182231,CA,Angela Cutbill,Nonpartisan,12498,30.561,False,False
+182231,CA,Dallas Lawrence,Nonpartisan,10680,26.116,False,False
+182231,CA,Coral Edwardsen,Nonpartisan,9123,22.308,False,False
+182231,CA,Sandra Pope,Nonpartisan,8408,20.56,False,False
+182231,CA,Write-in,Nonpartisan,186,0.455,False,False
+150487,CA,Blanca Pacheco,Democratic,105881,72.244,True,True
+150487,CA,Raul Ortiz Jr.,Republican,40680,27.756,False,False
+182498,CA,Denis Bilodeau,Nonpartisan,4658,100.0,False,True
+182118,CA,Yes,Nonpartisan,28203,65.556,False,False
+182118,CA,No,Nonpartisan,14818,34.444,False,False
+150481,CA,Clarissa Cervantes,Democratic,82451,63.886,True,False
+150481,CA,Leticia Castillo,Republican,46608,36.114,False,True
+182492,CA,Joe Stapleton,Nonpartisan,18595,70.133,False,True
+182492,CA,Tina Babajanians,Nonpartisan,7919,29.867,False,False
+150472,CA,Mike Fong,Democratic,89938,70.176,True,True
+150472,CA,Long David Liu,Republican,38223,29.824,False,False
+182207,CA,Qui Nguyen,Nonpartisan,2696,56.225,False,False
+182207,CA,Kristy Socorro Rowe,Nonpartisan,2092,43.629,False,False
+182207,CA,Write-in,Nonpartisan,7,0.146,False,False
+182486,CA,Emily Hibard,Nonpartisan,428,66.667,False,True
+182486,CA,John M. Delavigne,Nonpartisan,214,33.333,False,False
+182298,CA,Patrick W. Atwater,Nonpartisan,2785,58.83,False,False
+182298,CA,Noosha Razavian,Nonpartisan,1919,40.537,False,False
+182298,CA,Write-in,Nonpartisan,30,0.634,False,False
+150561,CA,Yes,Nonpartisan,272036,61.97,False,False
+150561,CA,No,Nonpartisan,166946,38.03,False,False
+182072,CA,Eric Horne,Nonpartisan,4112,24.311,False,False
+182072,CA,Maggie Bove-Lamonica,Nonpartisan,3527,20.853,False,False
+182072,CA,"Raymond ""Ray"" Jackson",Nonpartisan,3138,18.553,False,False
+182072,CA,Elka Worner,Nonpartisan,2297,13.58,False,False
+182072,CA,Rob Saemann,Nonpartisan,1896,11.21,False,False
+182072,CA,Dean Francois,Nonpartisan,1891,11.18,False,False
+182072,CA,Write-in,Nonpartisan,53,0.313,False,False
+150491,CA,Jessie Lopez,Democratic,58489,52.367,False,False
+150491,CA,David Penaloza,Democratic,53202,47.633,False,False
+182194,CA,Juanita Doplemore,Nonpartisan,4671,51.369,False,False
+182194,CA,Peter K. Parker,Nonpartisan,4388,48.257,False,False
+182194,CA,Write-in,Nonpartisan,34,0.374,False,False
+182090,CA,Juan Muñoz-Guevara,Nonpartisan,4593,19.35,False,False
+182090,CA,Emiliano Arellano,Nonpartisan,4453,18.76,False,False
+182090,CA,Gabriela Camacho,Nonpartisan,4445,18.726,False,False
+182090,CA,Mishaun Watkins,Nonpartisan,4298,18.107,False,False
+182090,CA,Alfonso Morales,Nonpartisan,3291,13.864,False,False
+182090,CA,Luis Gerardo Cuellar,Nonpartisan,2568,10.819,False,False
+182090,CA,Write-in,Nonpartisan,89,0.375,False,False
+182188,CA,Rosemary T. Morrison,Nonpartisan,2394,49.118,False,False
+182188,CA,Paul Gerard,Nonpartisan,1643,33.709,False,False
+182188,CA,Hai Ho,Nonpartisan,556,11.407,False,False
+182188,CA,Dennis M. Connor,Nonpartisan,230,4.719,False,False
+182188,CA,Evren Ozbey,Nonpartisan,44,0.903,False,False
+182188,CA,Write-in,Nonpartisan,7,0.144,False,False
+182084,CA,Thomas D. Allison,Nonpartisan,1322,66.633,False,False
+182084,CA,Steven Frank Johnson,Nonpartisan,647,32.611,False,False
+182084,CA,Write-in,Nonpartisan,15,0.756,False,False
+182179,CA,Barbara Gaines,Nonpartisan,8581,64.316,False,False
+182179,CA,Pamela Ford,Nonpartisan,4701,35.235,False,False
+182179,CA,Write-in,Nonpartisan,60,0.45,False,False
+150470,CA,Leila Namvar,Democratic,109275,55.855,True,False
+150470,CA,Greg Wallis,Republican,86366,44.145,False,True
+182173,CA,Jose Ugarte,Nonpartisan,14610,53.035,False,False
+182173,CA,Estuardo Mazariegos,Nonpartisan,12938,46.965,False,False
+182544,CA,Yes,Nonpartisan,19659,58.872,False,False
+182544,CA,No,Nonpartisan,13734,41.128,False,False
+182443,CA,Jennifer L Rank,Nonpartisan,2781,53.927,False,False
+182443,CA,David Clifford,Nonpartisan,2376,46.073,False,False
+182538,CA,Yes,Nonpartisan,30361,51.547,False,False
+182538,CA,No,Nonpartisan,28539,48.453,False,False
+150518,CA,Yes,Nonpartisan,1327484,67.08,False,False
+150518,CA,No,Nonpartisan,651478,32.92,False,False
+182061,CA,Marisol Cortez,Nonpartisan,1498,67.145,False,False
+182061,CA,Ana Elsa Barcelo,Nonpartisan,727,32.586,False,False
+182061,CA,Write-in,Nonpartisan,6,0.269,False,False
+150424,CA,Heather Hadwick,Republican,122154,58.621,True,True
+150424,CA,Dianna Margaret James,Democratic,86227,41.379,False,False
+150512,CA,Yes,Nonpartisan,733528,79.46,False,False
+150512,CA,No,Nonpartisan,189608,20.54,False,False
+150415,CA,Brian Goldsmith,Democratic,197902,55.405,True,False
+150415,CA,John M. Erickson,Democratic,159288,44.595,False,False
+182419,CA,Andy Godinez,Nonpartisan,2446,57.825,False,False
+182419,CA,Grace Dañino Hickok,Nonpartisan,1784,42.175,False,False
+150506,CA,Yes,Nonpartisan,737842,78.974,False,False
+150506,CA,No,Nonpartisan,196437,21.026,False,False
+182241,CA,Darryn Harris,Nonpartisan,543069,55.566,False,False
+182241,CA,Elaine Alaniz,Nonpartisan,145705,14.908,False,False
+182241,CA,Nancy Pearlman,Nonpartisan,135249,13.838,False,False
+182241,CA,Isidro J. Armenta,Nonpartisan,59740,6.112,False,False
+182241,CA,Priscilla Umana,Nonpartisan,45721,4.678,False,False
+182241,CA,Jason R. Aula,Nonpartisan,29206,2.988,False,False
+182241,CA,Adam Bruno,Nonpartisan,15998,1.637,False,False
+182241,CA,Write-in,Nonpartisan,2657,0.272,False,False
+182605,CA,Frank Risso,Nonpartisan,8949,100.0,False,False
+150400,CA,Nelson Esparza,Democratic,923897,53.95,False,False
+150400,CA,Shannon Grove,Republican,788624,46.05,False,False
+182011,CA,Yes,Nonpartisan,12777,76.153,False,False
+182011,CA,No,Nonpartisan,4001,23.847,False,False
+182130,CA,Yes,Nonpartisan,4242,58.999,False,False
+182130,CA,No,Nonpartisan,2948,41.001,False,False
+182033,CA,Monica Cooper,Nonpartisan,20109,99.059,False,False
+182033,CA,Write-in,Nonpartisan,191,0.941,False,False
+182228,CA,Dan Jeffries,Nonpartisan,4891,26.917,False,False
+182228,CA,Susan Moore,Nonpartisan,4217,23.207,False,False
+182228,CA,Octavia Thuss,Nonpartisan,3914,21.54,False,False
+182228,CA,Amarpreet Singh Malik,Nonpartisan,2762,15.2,False,False
+182228,CA,Shilpa Shinde-Garg,Nonpartisan,2330,12.823,False,False
+182228,CA,Write-in,Nonpartisan,57,0.314,False,False
+182124,CA,Pat Wilson,Nonpartisan,515,30.912,False,False
+182124,CA,Leah Mirsch,Nonpartisan,455,27.311,False,False
+182124,CA,James Black,Nonpartisan,439,26.351,False,False
+182124,CA,Jeanevra Calhoun,Nonpartisan,245,14.706,False,False
+182124,CA,Write-in,Nonpartisan,12,0.72,False,False
+182027,CA,No,Nonpartisan,21780,77.844,False,False
+182027,CA,Yes,Nonpartisan,6199,22.156,False,False
+182115,CA,Michael Kemps,Nonpartisan,3596,34.011,False,False
+182115,CA,Mark Saroyan,Nonpartisan,3505,33.15,False,False
+182115,CA,Victoria A. Lozzi,Nonpartisan,3262,30.852,False,False
+182115,CA,Write-in,Nonpartisan,210,1.986,False,False
+150413,CA,Caroline Menjivar,Democratic,183801,76.49,True,True
+150413,CA,Tony Rodriguez,Republican,56492,23.51,False,False
+182109,CA,Vinh T. Ngo,Nonpartisan,1281,50.572,False,False
+182109,CA,Steven Kung,Nonpartisan,1234,48.717,False,False
+182109,CA,Write-in,Nonpartisan,18,0.711,False,False
+182204,CA,Oscar Mejia,Nonpartisan,514,43.932,False,False
+182204,CA,Timothy M. Wiley,Nonpartisan,330,28.205,False,False
+182204,CA,Wayne M. Kalliomaa,Nonpartisan,318,27.179,False,False
+182204,CA,Write-in,Nonpartisan,8,0.684,False,False
+182103,CA,Danielle Romero,Nonpartisan,1340,54.739,False,False
+182103,CA,Rafael Gutierrez,Nonpartisan,1101,44.975,False,False
+182103,CA,Write-in,Nonpartisan,7,0.286,False,False
+182474,CA,Kathleen Treseder,Nonpartisan,3580,56.916,False,False
+182474,CA,Scotty Hong,Nonpartisan,2710,43.084,False,False
+150461,CA,Steve Bennett,Democratic,97239,69.843,True,True
+150461,CA,Michael MacDonald,Democratic,41987,30.157,False,False
+182189,CA,James Cody Birkey,Nonpartisan,5327,53.371,False,False
+182189,CA,Sue Elhessen,Nonpartisan,4612,46.208,False,False
+182189,CA,Write-in,Nonpartisan,42,0.421,False,False
+150552,CA,Yes,Nonpartisan,1201781,67.689,False,False
+150552,CA,No,Nonpartisan,573654,32.311,False,False
+150455,CA,David Couch,Republican,128866,100.0,True,False
+182151,CA,Yes,Nonpartisan,7241,79.397,False,False
+182151,CA,No,Nonpartisan,1879,20.603,False,False
+182079,CA,No,Nonpartisan,12400,51.922,False,False
+182079,CA,Yes,Nonpartisan,11482,48.078,False,False
+150449,CA,Patrick Ahrens,Democratic,97980,76.869,True,True
+150449,CA,Tim Gorsulowsky,Republican,29484,23.131,False,False
+182453,CA,Carlos Franco,Nonpartisan,1241,57.084,False,True
+182453,CA,"Yong ""Chuy"" Choi",Nonpartisan,933,42.916,False,False
+182548,CA,Yes,Nonpartisan,30632,67.434,False,False
+182548,CA,No,Nonpartisan,14793,32.566,False,False
+182636,CA,No,Nonpartisan,4822,63.306,False,False
+182636,CA,Yes,Nonpartisan,2795,36.694,False,False
+150531,CA,Yes,Nonpartisan,1474772,74.953,False,False
+150531,CA,No,Nonpartisan,492818,25.047,False,False
+150434,CA,Lori D Wilson,Democratic,111285,64.96,True,True
+150434,CA,Jenny Leilani Callison,No Party Preference,60027,35.04,False,False
+182161,CA,Yes,Nonpartisan,18005,79.178,False,False
+182161,CA,No,Nonpartisan,4735,20.822,False,False
+182440,CA,Adam Rogers,Nonpartisan,1232,61.477,False,False
+182440,CA,Bertha Manzanares,Nonpartisan,772,38.523,False,False
+182067,CA,Yes,Nonpartisan,1480,63.793,False,False
+182067,CA,No,Nonpartisan,840,36.207,False,False
+182431,CA,Jessica Guerrero,Nonpartisan,6160,58.015,False,True
+182431,CA,Germaine Neumann,Nonpartisan,2020,19.024,False,False
+182431,CA,Alfonso Rodriguez,Nonpartisan,1890,17.8,False,False
+182431,CA,Linda Martinez Quijano,Nonpartisan,548,5.161,False,False
+182058,CA,Jessica Ancona,Nonpartisan,6901,48.188,False,False
+182058,CA,Viviana Longoria,Nonpartisan,4960,34.634,False,False
+182058,CA,Christine Sarmiento,Nonpartisan,2413,16.849,False,False
+182058,CA,Write-in,Nonpartisan,47,0.328,False,False
+182149,CA,Jimmy Ozaeta,Nonpartisan,7570,29.298,False,False
+182149,CA,Edgar Pelayo,Nonpartisan,6915,26.763,False,False
+182149,CA,Joshua Barron,Nonpartisan,4748,18.376,False,False
+182149,CA,Al Rios,Nonpartisan,3921,15.175,False,False
+182149,CA,Alan Garcia,Nonpartisan,2569,9.943,False,False
+182149,CA,Write-in,Nonpartisan,115,0.445,False,False
+182052,CA,No,Nonpartisan,7982,54.634,False,False
+182052,CA,Yes,Nonpartisan,6628,45.366,False,False
+182140,CA,Yes,Nonpartisan,17938,58.888,False,False
+182140,CA,No,Nonpartisan,12523,41.112,False,False
+182046,CA,Yes,Nonpartisan,10786,74.669,False,False
+182046,CA,No,Nonpartisan,3659,25.331,False,False
+182410,CA,Melissa Caldwell,Nonpartisan,7780,50.707,False,False
+182410,CA,Marco Carralero,Nonpartisan,7563,49.293,False,False
+182505,CA,Steve Knoblock,Nonpartisan,2898,55.274,False,False
+182505,CA,Mark Enmeier,Nonpartisan,2345,44.726,False,False
+182125,CA,Sandra Armenta,Nonpartisan,4643,30.512,False,False
+182125,CA,Steven LY,Nonpartisan,4222,27.745,False,False
+182125,CA,Diana Lam,Nonpartisan,4072,26.76,False,False
+182125,CA,John Tran,Nonpartisan,2225,14.622,False,False
+182125,CA,Write-in,Nonpartisan,55,0.361,False,False
+182596,CA,Marty P. Medina,Nonpartisan,645,54.522,False,False
+182596,CA,Auros Harman,Nonpartisan,538,45.478,False,False
+182499,CA,Brendon Moeller,Nonpartisan,5470,100.0,False,False
+150479,CA,Lisa Calderon,Democratic,101450,68.426,True,True
+150479,CA,Jessica Martinez,Republican,46812,31.574,False,False
+150414,CA,Susan Rubio,Democratic,193819,69.574,True,True
+150414,CA,Mike Netter,Republican,84759,30.426,False,False
+182493,CA,Erik Weigand,Nonpartisan,15577,59.179,False,True
+182493,CA,Walter Stahr,Nonpartisan,7595,28.854,False,False
+182493,CA,Tim Stoaks,Nonpartisan,3150,11.967,False,False
+182581,CA,Wonman Lee,Nonpartisan,510,74.453,False,False
+182581,CA,James Rohr,Nonpartisan,175,25.547,False,False
+182208,CA,Florencio Briones,Nonpartisan,1941,52.759,False,False
+182208,CA,Jacqueline Yvette Castañon,Nonpartisan,1725,46.888,False,False
+182208,CA,Write-in,Nonpartisan,13,0.353,False,False
+182296,CA,John Vrsalovich,Nonpartisan,2865,63.05,False,False
+182296,CA,Tom Majich,Nonpartisan,1648,36.268,False,False
+182296,CA,Write-in,Nonpartisan,31,0.682,False,False
+182575,CA,Ofelia Bello,Nonpartisan,1031,22.302,False,False
+182575,CA,Ruben Abrica,Nonpartisan,986,21.328,False,False
+182575,CA,Sam Jimenez,Nonpartisan,726,15.704,False,False
+182575,CA,Michael Mashack,Nonpartisan,629,13.606,False,False
+182575,CA,Holifa Windom,Nonpartisan,532,11.508,False,False
+182575,CA,Deborah Lewis-Virges,Nonpartisan,476,10.296,False,False
+182575,CA,Gail Wilk Dixon,Nonpartisan,243,5.256,False,False
+182478,CA,Annie McCary,Nonpartisan,6485,45.385,False,True
+182478,CA,Carol Moore,Nonpartisan,4091,28.63,False,True
+182478,CA,Sue Quam,Nonpartisan,3713,25.985,False,False
+182073,CA,No,Nonpartisan,3814,56.688,False,False
+182073,CA,Yes,Nonpartisan,2914,43.312,False,False
+182100,CA,Georgina Tamayo,Nonpartisan,1779,51.881,False,False
+182100,CA,Kimberly Cobos Cawthorne,Nonpartisan,951,27.734,False,False
+182100,CA,Rafael Santoya,Nonpartisan,503,14.669,False,False
+182100,CA,Shazia Hoq,Nonpartisan,189,5.512,False,False
+182100,CA,Write-in,Nonpartisan,7,0.204,False,False
+182003,CA,Maria Ghobadi,Nonpartisan,1041828,53.306,False,False
+182003,CA,Rhonda A. Haymon,Nonpartisan,906260,46.369,False,False
+182003,CA,Write-in,Nonpartisan,6354,0.325,False,False
+182091,CA,Yes,Nonpartisan,8012,81.448,False,False
+182091,CA,No,Nonpartisan,1825,18.552,False,False
+182186,CA,Yes,Nonpartisan,12216,69.244,False,False
+182186,CA,No,Nonpartisan,5426,30.756,False,False
+150477,CA,Mark Gonzalez,Democratic,85470,83.531,True,True
+150477,CA,Alexandra Briseno,Republican,16851,16.469,False,False
+182180,CA,Ben Berk,Nonpartisan,10149,51.834,False,False
+182180,CA,Sylvia P. Williams,Nonpartisan,9335,47.676,False,False
+182180,CA,Write-in,Nonpartisan,96,0.49,False,False
+150468,CA,James C. Ramos,Democratic,85674,72.461,True,True
+150468,CA,Greg Abdouch,Republican,32561,27.539,False,False
+150566,CA,Yes,Nonpartisan,279944,77.753,False,False
+150566,CA,No,Nonpartisan,80101,22.247,False,False
+182269,CA,Cary C. Chen,Nonpartisan,1204,39.437,False,False
+182269,CA,Jeannette C. Alvarado,Nonpartisan,1039,34.032,False,False
+182269,CA,Brandon M. Macias,Nonpartisan,802,26.269,False,False
+182269,CA,Write-in,Nonpartisan,8,0.262,False,False
+182633,CA,Yes,Nonpartisan,994,62.991,False,False
+182633,CA,No,Nonpartisan,584,37.009,False,False
+182263,CA,Cynthia Torres,Nonpartisan,5733,58.239,False,False
+182263,CA,Dennis J. McNamara,Nonpartisan,4074,41.386,False,False
+182263,CA,Write-in,Nonpartisan,37,0.376,False,False
+150519,CA,Yes,Nonpartisan,1289999,65.572,False,False
+150519,CA,No,Nonpartisan,677295,34.428,False,False
+182530,CA,Patricia C. 'Pat' Bates,Nonpartisan,25032,59.053,False,False
+182530,CA,David Petty,Nonpartisan,12476,29.432,False,False
+182530,CA,Joel Bishop,Nonpartisan,4881,11.515,False,False
+182150,CA,No,Nonpartisan,11005,68.841,False,False
+182150,CA,Yes,Nonpartisan,4981,31.159,False,False
+150513,CA,Yes,Nonpartisan,750258,81.123,False,False
+150513,CA,No,Nonpartisan,174581,18.877,False,False
+182524,CA,Frederick Fascenelli,Nonpartisan,183,51.549,False,False
+182524,CA,Patrick O'Hara,Nonpartisan,172,48.451,False,False
+182612,CA,Yes,Nonpartisan,82892,59.584,False,False
+182612,CA,No,Nonpartisan,56227,40.416,False,False
+182239,CA,"Huy ""Henry"" Nguyen",Nonpartisan,16694,53.387,False,False
+182239,CA,Susana Gonzalez Edmond,Nonpartisan,14436,46.166,False,False
+182239,CA,Write-in,Nonpartisan,140,0.448,False,False
+182518,CA,Namquan Nguyen,Nonpartisan,2023,39.839,False,True
+182518,CA,Loan Nguyen,Nonpartisan,1591,31.331,False,False
+182518,CA,Kelly Daniels,Nonpartisan,964,18.984,False,False
+182518,CA,Khai Dao,Nonpartisan,500,9.846,False,False
+182414,CA,Quan Vuong,Nonpartisan,4599,42.973,False,False
+182414,CA,Tracy La,Nonpartisan,4094,38.255,False,False
+182414,CA,John Giang Nguyen,Nonpartisan,2009,18.772,False,False
+150401,CA,Sally J. Lieber,Democratic,1001553,59.67,False,True
+150401,CA,John Pimentel,Democratic,676921,40.33,False,False
+150489,CA,Paul Seo,Democratic,98548,59.937,True,False
+150489,CA,Sara Deen,Democratic,65872,40.063,False,False
+86985,CA,Norma Torres,Democratic,139981,66.845,True,False
+86985,CA,Mike Cargile,Republican,69430,33.155,False,False
+87005,CA,Tom McClintock,Republican,164058,55.649,True,False
+87005,CA,Michael Masuda,Democratic,130750,44.351,False,False
+86969,CA,Vince Fong,Republican,153467,61.244,True,False
+86969,CA,Sandra Van Scotter,Democratic,97116,38.756,False,False
+86965,CA,Ro Khanna,Democratic,154449,72.767,True,False
+86965,CA,Ritesh Tandon,Republican,57803,27.233,False,False
+87000,CA,Mike Levin,Democratic,192196,59.509,True,False
+87000,CA,Armen Kurdian,Republican,130775,40.491,False,False
+86995,CA,Nanette Barragán,Democratic,148865,81.772,True,False
+86995,CA,Genevieve Angel,Republican,33184,18.228,False,False
+86964,CA,Sam Liccardo,Democratic,219560,77.987,True,False
+86964,CA,Peter Sundin Soulé,Republican,61974,22.013,False,False
+86991,CA,Ken Calvert,Republican,129655,52.561,True,False
+86991,CA,Young Kim,Republican,117018,47.439,False,False
+86999,CA,Marni von Wilpert,Democratic,165082,59.742,True,False
+86999,CA,Jim Desmond,Republican,111244,40.258,False,False
+86987,CA,Sydney Kamlager-Dove,Democratic,111585,60.793,True,False
+86987,CA,Samantha Mota,Democratic,71965,39.207,False,False
+86983,CA,Pete Aguilar,Democratic,139999,68.953,True,False
+86983,CA,Stephanie Vargas,Republican,63036,31.047,False,False
+86979,CA,Jared Huffman,Democratic,211029,66.523,True,False
+86979,CA,Robin Littau,Republican,106197,33.477,False,False
+87006,CA,Richard Pan,Democratic,159679,58.848,True,False
+87006,CA,Kevin Kiley,No Party Preference,111663,41.152,False,False
+86975,CA,Jacqui Irwin,Democratic,178099,63.457,True,False
+86975,CA,Sam Gallucci,Republican,102561,36.543,False,False
+86970,CA,Jim Costa,Democratic,106887,64.708,True,False
+86970,CA,Kyle Kirkland,Republican,58297,35.292,False,False
+86978,CA,Luz Rivas,Democratic,100194,57.274,True,False
+86978,CA,Angélica María Dueñas,Democratic,74743,42.726,False,False
+86966,CA,Zoe Lofgren,Democratic,145594,73.068,True,False
+86966,CA,Shane Lewis,Republican,53664,26.932,False,False
+87001,CA,Eric Jones,Democratic,133646,52.535,True,False
+87001,CA,Mike Thompson,Democratic,120747,47.465,False,False
+86997,CA,Lou Correa,Democratic,139693,71.554,True,False
+86997,CA,David Pan,Republican,55535,28.446,False,False
+86961,CA,Adam Gray,Democratic,109031,62.686,True,False
+86961,CA,Kevin Lincoln,Republican,64900,37.314,False,False
+86988,CA,Hilda Solis,Democratic,145447,67.457,True,False
+86988,CA,Pedro Antonio Casas,Republican,70166,32.543,False,False
+86996,CA,Derek Tran,Democratic,151887,61.02,True,False
+86996,CA,Chuong Vo,Republican,97027,38.98,False,False
+86984,CA,Angela Gonzales-Torres,Democratic,108707,62.2,True,False
+86984,CA,Jimmy Gomez,Democratic,66062,37.8,False,False
+86960,CA,Lateefah Simon,Democratic,207160,80.413,True,False
+86960,CA,Jamie Joyce,Democratic,50459,19.587,False,False
+86980,CA,Laura Friedman,Democratic,201787,77.636,True,False
+86980,CA,Scott Meyers,Republican,58127,22.364,False,False
+86976,CA,George Whitesides,Democratic,149140,64.217,True,False
+86976,CA,Jason Gibbs,Republican,83104,35.783,False,False
+86972,CA,Jay Obernolte,Republican,109355,50.824,True,False
+86972,CA,Tessa Lynn Hodge,Democratic,105808,49.176,False,False
+87007,CA,Doris Matsui,Democratic,132239,52.411,True,False
+87007,CA,Mai Vang,Democratic,120074,47.589,False,False
+87002,CA,Scott Peters,Democratic,197145,63.706,True,False
+87002,CA,Steve Cohen,Republican,112315,36.294,False,False
+86971,CA,Randy Villegas,Democratic,101088,67.84,True,False
+86971,CA,David Valadao,Republican,47922,32.16,False,False
+86998,CA,Dave Min,Democratic,167075,58.579,True,False
+86998,CA,Jenny Le Roux,Republican,118136,41.421,False,False
+86962,CA,Aisha Wahab,Democratic,122290,57.569,True,False
+86962,CA,Melissa Hernandez,Democratic,90133,42.431,False,False
+86958,CA,Mark DeSaulnier,Democratic,213271,69.705,True,False
+86958,CA,Jeff Frese,Republican,92693,30.295,False,False
+86993,CA,Robert Garcia,Democratic,175453,61.961,True,False
+86993,CA,Brian Burley,Republican,107715,38.039,False,False
+86981,CA,Gil Cisneros,Democratic,158314,66.4,True,False
+86981,CA,Eric Ching,Republican,80112,33.6,False,False
+86989,CA,Mark Takano,Democratic,130980,69.005,True,False
+86989,CA,Steve Manos,Republican,58831,30.995,False,False
+86977,CA,Judy Chu,Democratic,181538,69.604,True,False
+86977,CA,April Verlato,Republican,79276,30.396,False,False
+86992,CA,Linda Sánchez,Democratic,171235,67.59,True,False
+86992,CA,Mitch Clemmons,Republican,82109,32.41,False,False
+86973,CA,Salud Carbajal,Democratic,194958,66.302,True,False
+86973,CA,Bob Smith,Republican,99086,33.698,False,False
+87008,CA,John Garamendi,Democratic,189185,73.421,True,False
+87008,CA,Rudy Recile,Republican,68485,26.579,False,False
+87004,CA,Juan Vargas,Democratic,158278,71.794,True,False
+87004,CA,Jeff Belle,Republican,62184,28.206,False,False
+86968,CA,Mike McGuire,Democratic,168056,58.72,True,False
+86968,CA,James Gallagher,Republican,118144,41.28,False,False
+86963,CA,Kevin Mullin,Democratic,196894,79.952,True,False
+86963,CA,Charles Hoelter,Republican,49371,20.048,False,False
+87003,CA,Sara Jacobs,Democratic,191997,66.183,True,False
+87003,CA,Ricardo Cabrera,Republican,98103,33.817,False,False
+86959,CA,Scott Wiener,Democratic,160970,53.303,True,False
+86959,CA,Connie Chan,Democratic,141021,46.697,False,False
+86967,CA,Jimmy Panetta,Democratic,223452,71.985,True,False
+86967,CA,Peter Verbica,Republican,86961,28.015,False,False
+86994,CA,Maxine Waters,Democratic,156172,82.97,True,False
+86994,CA,Cristian Morales,Republican,32056,17.03,False,False
+86990,CA,Ami Bera,Democratic,176968,58.712,True,False
+86990,CA,Robb Tucker,Republican,124450,41.288,False,False
+86986,CA,Ted Lieu,Democratic,224104,73.033,True,False
+86986,CA,Houston Brignano,Republican,82747,26.967,False,False
+86974,CA,Raul Ruiz,Democratic,142710,65.907,True,False
+86974,CA,Joe Males,Republican,73822,34.093,False,False
+86982,CA,Brad Sherman,Democratic,185257,67.125,True,False
+86982,CA,Larry Thompson,Republican,90732,32.875,False,False
+87009,CA,Josh Harder,Democratic,143330,67.15,True,False
+87009,CA,John McBride,Republican,70118,32.85,False,False

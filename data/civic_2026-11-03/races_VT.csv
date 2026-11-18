@@ -1,0 +1,476 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+87507,VT,Vermont State Treasurer,2026-11-03,99.9,,False,4,261,298280,2026-11-18T16:50+00:00
+87506,VT,Vermont Attorney General,2026-11-03,99.9,,False,3,261,295956,2026-11-18T16:50+00:00
+87504,VT,Vermont Lieutenant Governor,2026-11-03,99.9,,False,3,261,304298,2026-11-18T16:50+00:00
+87508,VT,Vermont State Auditor,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,3,261,294362,2026-11-18T16:50+00:00
+159576,VT,Vermont State Senate,2026-11-03,0,,False,5,16,590915,2026-11-18T16:50+00:00
+87505,VT,Vermont Secretary of State,2026-11-03,99.9,,False,4,261,295130,2026-11-18T16:50+00:00
+87503,VT,Vermont Governor,2026-11-03,93.9,2026-11-04T05:46:58.308Z,False,6,261,309055,2026-11-18T16:50+00:00
+159575,VT,Vermont State House,2026-11-03,0,,False,7,109,402750,2026-11-18T16:50+00:00
+159965,VT,Vermont Elmore Justice of the Peace,2026-11-03,0,,False,7,2,0,2026-11-18T16:50+00:00
+159902,VT,"Vermont Williston Shall the voters authorize renovation and expansion of the Dorothy Alling Memorial Library, associated improvements, and the issuance of general...",2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+159778,VT,Vermont Rutland County State's Attorney,2026-11-03,0,,False,2,29,21364,2026-11-18T16:50+00:00
+159978,VT,Vermont Brookfield Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+159796,VT,Vermont Orwell Justice of the Peace,2026-11-03,0,,False,5,2,0,2026-11-18T16:50+00:00
+159759,VT,Vermont Grand Isle County Sheriff,2026-11-03,0,,False,2,6,3649,2026-11-18T16:50+00:00
+159890,VT,Vermont Wheelock Justice of the Peace,2026-11-03,0,,False,5,2,0,2026-11-18T16:50+00:00
+159617,VT,Vermont State House Addison Rutland,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,7,2138,2026-11-18T16:50+00:00
+159772,VT,Vermont Orleans County Assistant Judge,2026-11-03,0,,False,3,20,15084,2026-11-18T16:50+00:00
+159908,VT,Vermont Burlington Justice of the Peace,2026-11-03,0,,False,42,2,0,2026-11-18T16:50+00:00
+159871,VT,Vermont Woodford Justice of the Peace,2026-11-03,0,,False,4,2,0,2026-11-18T16:50+00:00
+160073,VT,Vermont Calais Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+159685,VT,Vermont State House Washington Orange,2026-11-03,0,2026-11-12T01:54:12.343Z,False,5,4,8215,2026-11-18T16:50+00:00
+159648,VT,Vermont State House Chittenden-14,2026-11-03,0,2026-11-12T01:54:12.342Z,False,4,2,2083,2026-11-18T16:50+00:00
+160082,VT,Vermont Dover Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+160034,VT,Vermont Rutland Town Justice of the Peace,2026-11-03,0,,False,20,2,0,2026-11-18T16:50+00:00
+159926,VT,Vermont Huntington Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+160095,VT,Vermont Athens Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159937,VT,Vermont Norton Justice of the Peace,2026-11-03,0,,False,5,2,0,2026-11-18T16:50+00:00
+160113,VT,Vermont Cavendish Justice of the Peace,2026-11-03,0,,False,3,2,0,2026-11-18T16:50+00:00
+159750,VT,Vermont Essex County High Bailiff,2026-11-03,0,,False,2,14,2069,2026-11-18T16:50+00:00
+159713,VT,Vermont State House Windham-4,2026-11-03,0,2026-11-12T01:54:12.343Z,False,4,3,2405,2026-11-18T16:50+00:00
+159920,VT,Vermont Hinesburg Shall the Town assess a one percent (1%) tax on sales pursuant to 24 V.S.A. § 138(b)?,2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+160040,VT,Vermont Rutland City Article 2,2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+159731,VT,Vermont Bennington County Probate Judge,2026-11-03,0,,False,3,17,15606,2026-11-18T16:50+00:00
+159694,VT,Vermont State House Rutland-10,2026-11-03,0,2026-11-12T01:54:12.343Z,False,2,4,1333,2026-11-18T16:50+00:00
+159862,VT,Vermont Hancock Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+160064,VT,Vermont Warren Justice of the Peace,2026-11-03,0,,False,7,2,0,2026-11-18T16:50+00:00
+160016,VT,Vermont Danby Justice of the Peace,2026-11-03,0,,False,8,2,2098,2026-11-18T16:50+00:00
+159972,VT,Vermont Cambridge Justice of the Peace,2026-11-03,0,,False,12,2,0,2026-11-18T16:50+00:00
+159673,VT,Vermont State House Franklin-5,2026-11-03,0,2026-11-12T01:54:12.343Z,False,3,5,5002,2026-11-18T16:50+00:00
+159785,VT,Vermont Washington County High Bailiff,2026-11-03,0,,False,2,21,22819,2026-11-18T16:50+00:00
+159985,VT,Vermont Bradford Justice of the Peace,2026-11-03,0,,False,11,2,6410,2026-11-18T16:50+00:00
+159611,VT,Vermont State Senate Lamoille,2026-11-03,0,2026-11-12T01:54:12.342Z,False,2,12,8829,2026-11-18T16:50+00:00
+159766,VT,Vermont Orange County Probate Judge,2026-11-03,0,,False,2,18,11361,2026-11-18T16:50+00:00
+160104,VT,Vermont Royalton Justice of the Peace,2026-11-03,0,,False,20,2,0,2026-11-18T16:50+00:00
+159624,VT,Vermont State House Windsor Addison,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,6,2058,2026-11-18T16:50+00:00
+159779,VT,Vermont Rutland County Sheriff,2026-11-03,0,,False,2,29,20832,2026-11-18T16:50+00:00
+159679,VT,Vermont State House Lamoille-2,2026-11-03,0,2026-11-12T01:54:12.343Z,False,5,5,6723,2026-11-18T16:50+00:00
+159642,VT,Vermont State House Chittenden 3,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,3,7559,2026-11-18T16:50+00:00
+159605,VT,Vermont State Senate Essex,2026-11-03,0,2026-11-04T07:09:42.119Z,False,2,22,7496,2026-11-18T16:50+00:00
+159959,VT,Vermont Enosburgh Justice of the Peace,2026-11-03,0,,False,19,2,0,2026-11-18T16:50+00:00
+159929,VT,Vermont Brunswick Justice of the Peace,2026-11-03,0,,False,1,2,0,2026-11-18T16:50+00:00
+159655,VT,Vermont State House Chittenden-21,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,2,4502,2026-11-18T16:50+00:00
+159845,VT,Vermont Goshen Justice of the Peace,2026-11-03,0,,False,4,2,0,2026-11-18T16:50+00:00
+159664,VT,Vermont State House Chittenden-8,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,3,2567,2026-11-18T16:50+00:00
+159627,VT,Vermont State House Bennington-2,2026-11-03,0,2026-11-12T01:54:12.342Z,False,4,2,4622,2026-11-18T16:50+00:00
+159707,VT,Vermont State House Washington-4,2026-11-03,0,2026-11-12T01:54:12.343Z,False,3,2,7490,2026-11-18T16:50+00:00
+159914,VT,"Vermont Essex Town Shall the Town assess a one percent (1%) tax on retail sales, pursuant to 24 V.S.A. §138(b), with fifty percent (50%) of proceeds of such sales tax...",2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+159995,VT,Vermont Holland Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159720,VT,Vermont State House Windsor-1,2026-11-03,0,2026-11-12T01:54:12.343Z,False,4,4,6677,2026-11-18T16:50+00:00
+159851,VT,Vermont Vergennes Justice of the Peace,2026-11-03,0,,False,11,2,0,2026-11-18T16:50+00:00
+160010,VT,Vermont Craftsbury Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159701,VT,Vermont State House Rutland-7,2026-11-03,0,2026-11-12T01:54:12.343Z,False,2,2,1313,2026-11-18T16:50+00:00
+159869,VT,Vermont Readsboro Justice of the Peace,2026-11-03,0,,False,4,2,0,2026-11-18T16:50+00:00
+159788,VT,Vermont Windham County State's Attorney,2026-11-03,0,,False,2,23,17040,2026-11-18T16:50+00:00
+160023,VT,Vermont Shrewsbury Justice of the Peace,2026-11-03,0,,False,12,2,2965,2026-11-18T16:50+00:00
+159882,VT,Vermont Winhall Justice of the Peace,2026-11-03,0,,False,8,2,2051,2026-11-18T16:50+00:00
+160032,VT,Vermont Killington Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+159723,VT,Vermont State House Windsor-4,2026-11-03,0,2026-11-12T01:54:12.343Z,False,4,5,2246,2026-11-18T16:50+00:00
+160093,VT,Vermont Halifax Justice of the Peace,2026-11-03,0,,False,1,2,0,2026-11-18T16:50+00:00
+160045,VT,Vermont Worcester Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159636,VT,Vermont State House Caledonia Essex,2026-11-03,0,,False,6,5,6417,2026-11-18T16:50+00:00
+159867,VT,Vermont Peru Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159948,VT,Vermont Franklin Justice of the Peace,2026-11-03,0,,False,7,2,0,2026-11-18T16:50+00:00
+160200,VT,Vermont Coventry Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+160087,VT,Vermont Dummerston Justice of the Peace,2026-11-03,0,,False,5,2,0,2026-11-18T16:50+00:00
+159729,VT,Vermont Addison County Sheriff,2026-11-03,0,,False,2,24,15961,2026-11-18T16:50+00:00
+159667,VT,Vermont State House Washington Chittenden,2026-11-03,0,2026-11-12T01:54:12.343Z,False,3,5,7354,2026-11-18T16:50+00:00
+159898,VT,Vermont Burke Justice of the Peace,2026-11-03,0,,False,9,2,0,2026-11-18T16:50+00:00
+159742,VT,Vermont Chittenden County Assistant Judge,2026-11-03,0,,False,3,19,110784,2026-11-18T16:50+00:00
+159942,VT,Vermont Fairfax Justice of the Peace,2026-11-03,0,,False,31,2,0,2026-11-18T16:50+00:00
+159907,VT,Vermont South Burlington Justice of the Peace,2026-11-03,0,,False,15,2,0,2026-11-18T16:50+00:00
+159870,VT,Vermont Searsburg Justice of the Peace,2026-11-03,0,,False,1,2,0,2026-11-18T16:50+00:00
+159983,VT,Vermont Vershire Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+159684,VT,Vermont State House Orange-3,2026-11-03,0,2026-11-12T01:54:12.343Z,False,2,3,1504,2026-11-18T16:50+00:00
+160004,VT,Vermont Derby Justice of the Peace,2026-11-03,0,,False,13,2,0,2026-11-18T16:50+00:00
+159964,VT,Vermont Grand Isle Justice of the Peace,2026-11-03,0,,False,19,2,0,2026-11-18T16:50+00:00
+159858,VT,Vermont Starksboro Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+159777,VT,Vermont Rutland County Assistant Judge,2026-11-03,0,,False,3,29,34073,2026-11-18T16:50+00:00
+159977,VT,Vermont Randolph Justice of the Peace,2026-11-03,0,,False,14,2,0,2026-11-18T16:50+00:00
+159876,VT,Vermont Sunderland Justice of the Peace,2026-11-03,0,,False,4,2,762,2026-11-18T16:50+00:00
+159795,VT,Vermont Windsor County High Bailiff,2026-11-03,0,,False,3,25,23454,2026-11-18T16:50+00:00
+159758,VT,Vermont Grand Isle County State's Attorney,2026-11-03,0,,False,3,6,4013,2026-11-18T16:50+00:00
+159658,VT,Vermont State House Chittenden-24,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,2,2417,2026-11-18T16:50+00:00
+159889,VT,Vermont Sutton Justice of the Peace,2026-11-03,0,,False,5,2,0,2026-11-18T16:50+00:00
+159616,VT,Vermont State Senate Windham,2026-11-03,0,2026-11-04T07:09:42.119Z,False,5,20,34039,2026-11-18T16:50+00:00
+160039,VT,Vermont Rutland City Article 1,2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+159730,VT,Vermont Addison County High Bailiff,2026-11-03,0,,False,3,24,18186,2026-11-18T16:50+00:00
+160100,VT,Vermont Weston Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+160063,VT,Vermont Berlin Article 1,2026-11-03,0,,False,2,2,1217,2026-11-18T16:50+00:00
+160118,VT,Vermont Bridgewater Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+160081,VT,Vermont Jamaica Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+159955,VT,Vermont Fletcher Article 1,2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+159925,VT,Vermont Saint George Justice of the Peace,2026-11-03,0,,False,4,2,0,2026-11-18T16:50+00:00
+160094,VT,Vermont Brattleboro Justice of the Peace,2026-11-03,0,,False,20,2,0,2026-11-18T16:50+00:00
+159736,VT,Vermont Caledonia County Probate Judge,2026-11-03,0,,False,2,18,11282,2026-11-18T16:50+00:00
+159936,VT,Vermont Victory Justice of the Peace,2026-11-03,0,,False,1,2,0,2026-11-18T16:50+00:00
+160112,VT,Vermont Weathersfield Justice of the Peace,2026-11-03,0,,False,17,2,0,2026-11-18T16:50+00:00
+160026,VT,Vermont Fair Haven Justice of the Peace,2026-11-03,0,,False,11,2,0,2026-11-18T16:50+00:00
+159749,VT,Vermont Essex County Sheriff,2026-11-03,0,,False,2,14,2328,2026-11-18T16:50+00:00
+159712,VT,Vermont State House Windham-3,2026-11-03,0,2026-11-12T01:54:12.343Z,False,5,4,6821,2026-11-18T16:50+00:00
+159678,VT,Vermont State House Lamoille-1,2026-11-03,0,2026-11-12T01:54:12.343Z,False,2,2,2070,2026-11-18T16:50+00:00
+159641,VT,Vermont State House Chittenden 2,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,2,8002,2026-11-18T16:50+00:00
+159991,VT,Vermont Tunbridge Justice of the Peace,2026-11-03,0,,False,15,2,0,2026-11-18T16:50+00:00
+159928,VT,Vermont Concord Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+159771,VT,Vermont Orleans County Probate Judge,2026-11-03,0,,False,2,20,9605,2026-11-18T16:50+00:00
+159971,VT,Vermont Johnson Justice of the Peace,2026-11-03,0,,False,15,2,0,2026-11-18T16:50+00:00
+160072,VT,Vermont East Montpelier Justice of the Peace,2026-11-03,0,,False,12,2,0,2026-11-18T16:50+00:00
+159784,VT,Vermont Washington County Sheriff,2026-11-03,0,,False,2,21,23427,2026-11-18T16:50+00:00
+159984,VT,Vermont West Fairlee Justice of the Peace,2026-11-03,0,,False,4,2,0,2026-11-18T16:50+00:00
+159647,VT,Vermont State House Chittenden-13,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,2,6556,2026-11-18T16:50+00:00
+159610,VT,Vermont State Senate Franklin,2026-11-03,0,2026-11-04T07:09:42.119Z,False,5,15,32081,2026-11-18T16:50+00:00
+159765,VT,Vermont Lamoille County High Bailiff,2026-11-03,0,,False,2,11,8346,2026-11-18T16:50+00:00
+159665,VT,Vermont State House Chittenden-9,2026-11-03,0,2026-11-12T01:54:12.342Z,False,2,2,1804,2026-11-18T16:50+00:00
+160103,VT,Vermont Bethel Justice of the Peace,2026-11-03,0,,False,7,2,0,2026-11-18T16:50+00:00
+159623,VT,Vermont State House Orange Washington Addison,2026-11-03,0,2026-11-12T01:54:12.343Z,False,5,8,7257,2026-11-18T16:50+00:00
+160009,VT,Vermont Albany Justice of the Peace,2026-11-03,0,,False,1,2,0,2026-11-18T16:50+00:00
+159632,VT,Vermont State House Windham Windsor Bennington,2026-11-03,0,2026-11-12T01:54:12.343Z,False,3,7,2238,2026-11-18T16:50+00:00
+159787,VT,Vermont Windham County Assistant Judge,2026-11-03,0,,False,3,23,29177,2026-11-18T16:50+00:00
+159919,VT,Vermont Hinesburg Justice of the Peace,2026-11-03,0,,False,13,2,0,2026-11-18T16:50+00:00
+159881,VT,Vermont Rupert Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159693,VT,Vermont State House Rutland-1,2026-11-03,0,2026-11-12T01:54:12.343Z,False,2,4,1528,2026-11-18T16:50+00:00
+159663,VT,Vermont State House Chittenden-7,2026-11-03,0,2026-11-12T01:54:12.342Z,False,2,3,2302,2026-11-18T16:50+00:00
+160015,VT,Vermont Mount Tabor Justice of the Peace,2026-11-03,0,,False,1,2,0,2026-11-18T16:50+00:00
+159706,VT,Vermont State House Washington-3,2026-11-03,0,2026-11-12T01:54:12.343Z,False,5,2,5566,2026-11-18T16:50+00:00
+159913,VT,Vermont Essex Town Justice of the Peace,2026-11-03,0,,False,30,2,0,2026-11-18T16:50+00:00
+159793,VT,Vermont Windsor County State's Attorney,2026-11-03,0,,False,2,25,21800,2026-11-18T16:50+00:00
+159994,VT,Vermont Charleston Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159719,VT,Vermont State House Windsor Windham,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,6,2265,2026-11-18T16:50+00:00
+159850,VT,Vermont New Haven Justice of the Peace,2026-11-03,0,,False,16,2,0,2026-11-18T16:50+00:00
+159728,VT,Vermont Addison County State's Attorney,2026-11-03,0,,False,2,24,16289,2026-11-18T16:50+00:00
+159666,VT,Vermont State House Grand Isle Chittenden,2026-11-03,0,,False,5,8,9188,2026-11-18T16:50+00:00
+160050,VT,Vermont Berlin Justice of the Peace,2026-11-03,0,,False,11,2,6814,2026-11-18T16:50+00:00
+159741,VT,Vermont Chittenden County Probate Judge,2026-11-03,0,,False,2,19,64286,2026-11-18T16:50+00:00
+159604,VT,Vermont State Senate Orleans,2026-11-03,0,2026-11-04T07:09:42.119Z,False,2,23,8170,2026-11-18T16:50+00:00
+160031,VT,Vermont Mendon Justice of the Peace,2026-11-03,0,,False,8,2,2604,2026-11-18T16:50+00:00
+159654,VT,Vermont State House Chittenden-20,2026-11-03,0,2026-11-12T01:54:12.342Z,False,5,2,6172,2026-11-18T16:50+00:00
+160092,VT,Vermont Wilmington Justice of the Peace,2026-11-03,0,,False,5,2,0,2026-11-18T16:50+00:00
+160044,VT,Vermont Cabot Justice of the Peace,2026-11-03,0,,False,1,2,0,2026-11-18T16:50+00:00
+159672,VT,Vermont State House Franklin-4,2026-11-03,0,2026-11-12T01:54:12.343Z,False,5,3,6109,2026-11-18T16:50+00:00
+159635,VT,Vermont State House Caledonia 3,2026-11-03,0,2026-11-12T01:54:12.342Z,False,5,6,5955,2026-11-18T16:50+00:00
+159866,VT,Vermont Dorset Article 2,2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+159947,VT,Vermont Richford Justice of the Peace,2026-11-03,0,,False,9,2,0,2026-11-18T16:50+00:00
+160123,VT,Vermont Royalton Article 1,2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+159875,VT,Vermont Bennington Article 2,2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+159794,VT,Vermont Windsor County Sheriff,2026-11-03,0,,False,3,25,26514,2026-11-18T16:50+00:00
+159689,VT,Vermont State House Orleans-2,2026-11-03,0,2026-11-12T01:54:12.343Z,False,3,2,1421,2026-11-18T16:50+00:00
+159888,VT,Vermont Stannard Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159700,VT,Vermont State House Rutland-6,2026-11-03,0,2026-11-12T01:54:12.343Z,False,3,2,1209,2026-11-18T16:50+00:00
+159906,VT,Vermont Milton Justice of the Peace,2026-11-03,0,,False,28,2,0,2026-11-18T16:50+00:00
+160022,VT,Vermont Mount Holly Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+159982,VT,Vermont Washington Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+159683,VT,Vermont State House Orange-2,2026-11-03,0,2026-11-12T01:54:12.343Z,False,3,4,2066,2026-11-18T16:50+00:00
+159844,VT,Vermont Leicester Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+160003,VT,Vermont Newport Town Justice of the Peace,2026-11-03,0,,False,1,2,0,2026-11-18T16:50+00:00
+159963,VT,Vermont Isle La Motte Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159626,VT,Vermont State House Bennington-1,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,6,1906,2026-11-18T16:50+00:00
+159857,VT,Vermont Bristol Justice of the Peace,2026-11-03,0,,False,25,2,0,2026-11-18T16:50+00:00
+159776,VT,Vermont Rutland County Probate Judge,2026-11-03,0,,False,2,29,21860,2026-11-18T16:50+00:00
+159735,VT,Vermont Bennington County High Bailiff,2026-11-03,0,,False,4,17,13620,2026-11-18T16:50+00:00
+159935,VT,Vermont Lunenburg Justice of the Peace,2026-11-03,0,,False,1,2,0,2026-11-18T16:50+00:00
+160068,VT,Vermont Fayston Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+159748,VT,Vermont Essex County State's Attorney,2026-11-03,0,,False,2,14,2031,2026-11-18T16:50+00:00
+160086,VT,Vermont Putney Justice of the Peace,2026-11-03,0,,False,14,2,0,2026-11-18T16:50+00:00
+160038,VT,Vermont Rutland City Justice of the Peace,2026-11-03,0,,False,31,2,0,2026-11-18T16:50+00:00
+159897,VT,Vermont Danville Justice of the Peace,2026-11-03,0,,False,11,2,0,2026-11-18T16:50+00:00
+160099,VT,Vermont Andover Justice of the Peace,2026-11-03,0,,False,9,2,0,2026-11-18T16:50+00:00
+160062,VT,Vermont Northfield Justice of the Peace,2026-11-03,0,,False,20,2,0,2026-11-18T16:50+00:00
+159941,VT,Vermont Georgia Justice of the Peace,2026-11-03,0,,False,13,2,0,2026-11-18T16:50+00:00
+160117,VT,Vermont Barnard Justice of the Peace,2026-11-03,0,,False,6,2,1981,2026-11-18T16:50+00:00
+160080,VT,Vermont Stratton Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159722,VT,Vermont State House Windsor-3,2026-11-03,0,2026-11-12T01:54:12.343Z,False,5,2,6719,2026-11-18T16:50+00:00
+159954,VT,Vermont Fletcher Justice of the Peace,2026-11-03,0,,False,9,2,0,2026-11-18T16:50+00:00
+159924,VT,Vermont Shelburne Justice of the Peace,2026-11-03,0,,False,20,2,0,2026-11-18T16:50+00:00
+159609,VT,Vermont State Senate Grand Isle,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,7,10980,2026-11-18T16:50+00:00
+159933,VT,Vermont Granby Justice of the Peace,2026-11-03,0,,False,1,2,0,2026-11-18T16:50+00:00
+160102,VT,Vermont Rochester Justice of the Peace,2026-11-03,0,,False,5,2,0,2026-11-18T16:50+00:00
+159976,VT,Vermont Newbury Justice of the Peace,2026-11-03,0,,False,15,2,0,2026-11-18T16:50+00:00
+159677,VT,Vermont State House Lamoille Washington,2026-11-03,0,2026-11-12T01:54:12.343Z,False,5,7,8328,2026-11-18T16:50+00:00
+159757,VT,Vermont Grand Isle County Assistant Judge,2026-11-03,0,,False,3,6,5624,2026-11-18T16:50+00:00
+159990,VT,Vermont Williamstown Justice of the Peace,2026-11-03,0,,False,11,2,0,2026-11-18T16:50+00:00
+159615,VT,Vermont State Senate Rutland,2026-11-03,0,2026-11-12T01:54:12.342Z,False,5,28,54871,2026-11-18T16:50+00:00
+159770,VT,Vermont Orange County High Bailiff,2026-11-03,0,,False,2,18,9561,2026-11-18T16:50+00:00
+159970,VT,Vermont Hyde Park Justice of the Peace,2026-11-03,0,,False,24,2,0,2026-11-18T16:50+00:00
+159633,VT,Vermont State House Caledonia 1,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,4,2157,2026-11-18T16:50+00:00
+160071,VT,Vermont Middlesex Justice of the Peace,2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+159783,VT,Vermont Washington County State's Attorney,2026-11-03,0,,False,2,21,23692,2026-11-18T16:50+00:00
+159646,VT,Vermont State House Chittenden-12,2026-11-03,0,2026-11-12T01:54:12.342Z,False,2,2,2171,2026-11-18T16:50+00:00
+159792,VT,Vermont Windsor County Assistant Judge,2026-11-03,0,,False,3,25,37826,2026-11-18T16:50+00:00
+159993,VT,Vermont Strafford Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+159886,VT,Vermont Hardwick Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+159849,VT,Vermont Panton Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+160111,VT,Vermont Windsor Justice of the Peace,2026-11-03,0,,False,10,2,0,2026-11-18T16:50+00:00
+159631,VT,Vermont State House Rutland Bennington,2026-11-03,0,2026-11-12T01:54:12.343Z,False,3,7,2157,2026-11-18T16:50+00:00
+159711,VT,Vermont State House Windham-2,2026-11-03,0,2026-11-12T01:54:12.343Z,False,2,5,1391,2026-11-18T16:50+00:00
+159918,VT,Vermont Westford Article 1,2026-11-03,0,,False,2,2,1209,2026-11-18T16:50+00:00
+159880,VT,Vermont Manchester Justice of the Peace,2026-11-03,0,,False,12,2,0,2026-11-18T16:50+00:00
+159999,VT,Vermont Lowell Justice of the Peace,2026-11-03,0,,False,5,2,0,2026-11-18T16:50+00:00
+159692,VT,Vermont State House Rutland Windsor,2026-11-03,0,2026-11-12T01:54:12.343Z,False,3,5,2277,2026-11-18T16:50+00:00
+159662,VT,Vermont State House Chittenden-6,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,2,2637,2026-11-18T16:50+00:00
+160014,VT,Vermont Sudbury Justice of the Peace,2026-11-03,0,,False,1,2,0,2026-11-18T16:50+00:00
+159705,VT,Vermont State House Washington-2,2026-11-03,0,2026-11-12T01:54:12.343Z,False,3,6,7098,2026-11-18T16:50+00:00
+159671,VT,Vermont State House Franklin-3,2026-11-03,0,2026-11-12T01:54:12.343Z,False,3,2,1725,2026-11-18T16:50+00:00
+159634,VT,Vermont State House Caledonia 2,2026-11-03,0,,False,3,4,1989,2026-11-18T16:50+00:00
+159746,VT,Vermont Essex County Probate Judge,2026-11-03,0,,False,2,14,2119,2026-11-18T16:50+00:00
+159946,VT,Vermont Swanton Justice of the Peace,2026-11-03,0,,False,18,2,0,2026-11-18T16:50+00:00
+159764,VT,Vermont Lamoille County Sheriff,2026-11-03,0,,False,2,11,10131,2026-11-18T16:50+00:00
+159727,VT,Vermont Addison County Assistant Judge,2026-11-03,0,,False,3,24,27586,2026-11-18T16:50+00:00
+159622,VT,Vermont State House Addison-5,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,5,2283,2026-11-18T16:50+00:00
+160049,VT,Vermont Barre Town Justice of the Peace,2026-11-03,0,,False,16,2,0,2026-11-18T16:50+00:00
+159740,VT,Vermont Caledonia County High Bailiff,2026-11-03,0,,False,2,18,10733,2026-11-18T16:50+00:00
+159640,VT,Vermont State House Chittenden 1,2026-11-03,0,2026-11-12T01:54:12.342Z,False,2,2,2144,2026-11-18T16:50+00:00
+159603,VT,Vermont State Senate Caledonia,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,14,10466,2026-11-18T16:50+00:00
+160030,VT,Vermont Chittenden Justice of the Peace,2026-11-03,0,,False,12,2,3547,2026-11-18T16:50+00:00
+159927,VT,Vermont Bolton Justice of the Peace,2026-11-03,0,,False,5,2,0,2026-11-18T16:50+00:00
+159653,VT,Vermont State House Chittenden-19,2026-11-03,0,2026-11-12T01:54:12.342Z,False,5,2,8048,2026-11-18T16:50+00:00
+160091,VT,Vermont Whitingham Justice of the Peace,2026-11-03,0,,False,9,2,0,2026-11-18T16:50+00:00
+159799,VT,Vermont Middlebury Justice of the Peace,2026-11-03,0,,False,14,2,0,2026-11-18T16:50+00:00
+160002,VT,Vermont Westfield Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159893,VT,Vermont Lyndon Justice of the Peace,2026-11-03,0,,False,16,2,0,2026-11-18T16:50+00:00
+159856,VT,Vermont Monkton Justice of the Peace,2026-11-03,0,,False,11,2,0,2026-11-18T16:50+00:00
+159911,VT,Vermont Essex Junction City Justice of the Peace,2026-11-03,0,,False,16,2,0,2026-11-18T16:50+00:00
+159874,VT,Vermont Bennington Article 1,2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+159718,VT,Vermont State House Windham-9,2026-11-03,0,2026-11-12T01:54:12.343Z,False,2,2,1646,2026-11-18T16:50+00:00
+159688,VT,Vermont State House Orleans-1,2026-11-03,0,2026-11-12T01:54:12.343Z,False,2,2,1786,2026-11-18T16:50+00:00
+159887,VT,Vermont Walden Justice of the Peace,2026-11-03,0,,False,7,2,1734,2026-11-18T16:50+00:00
+160008,VT,Vermont Barton Justice of the Peace,2026-11-03,0,,False,5,2,0,2026-11-18T16:50+00:00
+159699,VT,Vermont State House Rutland-5,2026-11-03,0,2026-11-12T01:54:12.343Z,False,2,2,1345,2026-11-18T16:50+00:00
+159905,VT,Vermont Jericho Justice of the Peace,2026-11-03,0,,False,13,2,0,2026-11-18T16:50+00:00
+159786,VT,Vermont Windham County Probate Judge,2026-11-03,0,,False,2,23,17110,2026-11-18T16:50+00:00
+160021,VT,Vermont Wells Justice of the Peace,2026-11-03,0,,False,9,2,0,2026-11-18T16:50+00:00
+159981,VT,Vermont Orange Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159940,VT,Vermont Brighton Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+160116,VT,Vermont Pomfret Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159753,VT,Vermont Franklin County State's Attorney,2026-11-03,0,,False,3,16,19530,2026-11-18T16:50+00:00
+159953,VT,Vermont Fairfield Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+160043,VT,Vermont Brandon Justice of the Peace,2026-11-03,0,,False,25,2,0,2026-11-18T16:50+00:00
+159734,VT,Vermont Bennington County Sheriff,2026-11-03,0,,False,2,17,12965,2026-11-18T16:50+00:00
+159865,VT,Vermont Dorset Article 1,2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+160067,VT,Vermont Moretown Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+159747,VT,Vermont Essex County Assistant Judge,2026-11-03,0,,False,5,14,3837,2026-11-18T16:50+00:00
+160122,VT,Vermont Woodstock Justice of the Peace,2026-11-03,0,,False,16,2,0,2026-11-18T16:50+00:00
+160085,VT,Vermont Rockingham Justice of the Peace,2026-11-03,0,,False,16,2,0,2026-11-18T16:50+00:00
+160037,VT,Vermont Castleton Justice of the Peace,2026-11-03,0,,False,13,2,0,2026-11-18T16:50+00:00
+159934,VT,Vermont Maidstone Justice of the Peace,2026-11-03,0,,False,6,2,231,2026-11-18T16:50+00:00
+159896,VT,Vermont Peacham Justice of the Peace,2026-11-03,0,,False,6,2,1524,2026-11-18T16:50+00:00
+160098,VT,Vermont Ludlow Justice of the Peace,2026-11-03,0,,False,11,2,0,2026-11-18T16:50+00:00
+159769,VT,Vermont Orange County Sheriff,2026-11-03,0,,False,3,18,13980,2026-11-18T16:50+00:00
+160107,VT,Vermont Norwich Justice of the Peace,2026-11-03,0,,False,15,2,0,2026-11-18T16:50+00:00
+160070,VT,Vermont Montpelier Justice of the Peace,2026-11-03,0,,False,16,2,0,2026-11-18T16:50+00:00
+159682,VT,Vermont State House Orange-1,2026-11-03,0,2026-11-12T01:54:12.343Z,False,3,5,2119,2026-11-18T16:50+00:00
+159645,VT,Vermont State House Chittenden-11,2026-11-03,0,2026-11-12T01:54:12.342Z,False,2,2,1515,2026-11-18T16:50+00:00
+159962,VT,Vermont Alburgh Justice of the Peace,2026-11-03,0,,False,8,2,3861,2026-11-18T16:50+00:00
+159932,VT,Vermont Guildhall Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159775,VT,Vermont Orleans County High Bailiff,2026-11-03,0,,False,2,20,9090,2026-11-18T16:50+00:00
+159975,VT,Vermont Topsham Justice of the Peace,2026-11-03,0,,False,9,2,0,2026-11-18T16:50+00:00
+159676,VT,Vermont State House Franklin-8,2026-11-03,0,2026-11-12T01:54:12.343Z,False,3,3,1827,2026-11-18T16:50+00:00
+159601,VT,Vermont State Senate Addison,2026-11-03,0,2026-11-12T01:54:12.341Z,False,5,28,39830,2026-11-18T16:50+00:00
+159756,VT,Vermont Grand Isle County Probate Judge,2026-11-03,0,,False,2,6,3226,2026-11-18T16:50+00:00
+159989,VT,Vermont Chelsea Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159614,VT,Vermont State Senate Windsor,2026-11-03,0,2026-11-12T01:54:12.342Z,False,8,28,78282,2026-11-18T16:50+00:00
+159998,VT,Vermont Irasburg Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+159691,VT,Vermont State House Orleans-4,2026-11-03,0,2026-11-12T01:54:12.343Z,False,2,5,1674,2026-11-18T16:50+00:00
+159854,VT,Vermont Ferrisburgh Justice of the Peace,2026-11-03,0,,False,11,2,0,2026-11-18T16:50+00:00
+160013,VT,Vermont Hubbardton Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+160079,VT,Vermont Wardsboro Justice of the Peace,2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+159791,VT,Vermont Windsor County Probate Judge,2026-11-03,0,,False,2,25,22708,2026-11-18T16:50+00:00
+159923,VT,Vermont Charlotte Justice of the Peace,2026-11-03,0,,False,18,2,0,2026-11-18T16:50+00:00
+159885,VT,Vermont Barnet Justice of the Peace,2026-11-03,0,,False,13,2,0,2026-11-18T16:50+00:00
+159848,VT,Vermont Ripton Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159697,VT,Vermont State House Rutland-3,2026-11-03,0,2026-11-12T01:54:12.343Z,False,2,2,1397,2026-11-18T16:50+00:00
+160110,VT,Vermont West Windsor Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159630,VT,Vermont State House Bennington-5,2026-11-03,0,2026-11-12T01:54:12.342Z,False,4,3,4818,2026-11-18T16:50+00:00
+159710,VT,Vermont State House Windham-1,2026-11-03,0,2026-11-12T01:54:12.343Z,False,3,3,2167,2026-11-18T16:50+00:00
+159917,VT,Vermont Westford Justice of the Peace,2026-11-03,0,,False,8,2,4103,2026-11-18T16:50+00:00
+159639,VT,Vermont State House Orange Caledonia,2026-11-03,0,2026-11-12T01:54:12.343Z,False,4,5,2110,2026-11-18T16:50+00:00
+159602,VT,Vermont State Senate Bennington,2026-11-03,0,2026-11-12T01:54:12.342Z,False,6,21,33165,2026-11-18T16:50+00:00
+159951,VT,Vermont Bakersfield Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159652,VT,Vermont State House Chittenden-18,2026-11-03,0,2026-11-12T01:54:12.342Z,False,4,2,7025,2026-11-18T16:50+00:00
+159969,VT,Vermont Belvidere Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159670,VT,Vermont State House Franklin-2,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,2,1964,2026-11-18T16:50+00:00
+159782,VT,Vermont Washington County Assistant Judge,2026-11-03,0,,False,5,21,47292,2026-11-18T16:50+00:00
+159745,VT,Vermont Chittenden County High Bailiff,2026-11-03,0,,False,4,19,74552,2026-11-18T16:50+00:00
+159945,VT,Vermont Sheldon Justice of the Peace,2026-11-03,0,,False,8,2,1752,2026-11-18T16:50+00:00
+159608,VT,Vermont State Senate Chittenden-Central,2026-11-03,0,2026-11-12T01:54:12.342Z,False,5,6,55938,2026-11-18T16:50+00:00
+159763,VT,Vermont Lamoille County State's Attorney,2026-11-03,0,,False,2,11,9567,2026-11-18T16:50+00:00
+159726,VT,Vermont Addison County Probate Judge,2026-11-03,0,,False,2,24,16158,2026-11-18T16:50+00:00
+160101,VT,Vermont Stockbridge Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159621,VT,Vermont State House Addison-4,2026-11-03,0,2026-11-12T01:54:12.342Z,False,5,5,9515,2026-11-18T16:50+00:00
+160048,VT,Vermont Waterbury Justice of the Peace,2026-11-03,0,,False,16,2,0,2026-11-18T16:50+00:00
+160007,VT,Vermont Brownington Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159698,VT,Vermont State House Rutland-4,2026-11-03,0,2026-11-12T01:54:12.343Z,False,2,3,1610,2026-11-18T16:50+00:00
+159861,VT,Vermont Granville Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+160020,VT,Vermont Tinmouth Article 1,2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+159879,VT,Vermont Arlington Justice of the Peace,2026-11-03,0,,False,9,2,0,2026-11-18T16:50+00:00
+159798,VT,Vermont Whiting Justice of the Peace,2026-11-03,0,,False,6,2,672,2026-11-18T16:50+00:00
+159661,VT,Vermont State House Chittenden-5,2026-11-03,0,2026-11-12T01:54:12.342Z,False,2,3,2007,2026-11-18T16:50+00:00
+159892,VT,Vermont Newark Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159855,VT,Vermont Lincoln Justice of the Peace,2026-11-03,0,,False,8,2,4010,2026-11-18T16:50+00:00
+159704,VT,Vermont State House Washington-1,2026-11-03,0,2026-11-12T01:54:12.343Z,False,3,3,4722,2026-11-18T16:50+00:00
+159910,VT,Vermont Winooski Justice of the Peace,2026-11-03,0,,False,22,2,0,2026-11-18T16:50+00:00
+159873,VT,Vermont Bennington Justice of the Peace,2026-11-03,0,,False,31,2,0,2026-11-18T16:50+00:00
+159992,VT,Vermont Thetford Justice of the Peace,2026-11-03,0,,False,11,2,0,2026-11-18T16:50+00:00
+159717,VT,Vermont State House Windham-8,2026-11-03,0,2026-11-12T01:54:12.343Z,False,3,2,1712,2026-11-18T16:50+00:00
+159687,VT,Vermont State House Windsor Orange 2,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,6,8140,2026-11-18T16:50+00:00
+160084,VT,Vermont Westminster Justice of the Peace,2026-11-03,0,,False,20,2,0,2026-11-18T16:50+00:00
+159958,VT,Vermont Montgomery Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+159895,VT,Vermont Saint Johnsbury Justice of the Peace,2026-11-03,0,,False,20,2,22898,2026-11-18T16:50+00:00
+159739,VT,Vermont Caledonia County Sheriff,2026-11-03,0,,False,2,18,11386,2026-11-18T16:50+00:00
+159939,VT,Vermont Canaan Justice of the Peace,2026-11-03,0,,False,6,2,1309,2026-11-18T16:50+00:00
+160029,VT,Vermont Pittsfield Justice of the Peace,2026-11-03,0,,False,5,2,0,2026-11-18T16:50+00:00
+159752,VT,Vermont Franklin County Assistant Judge,2026-11-03,0,,False,4,16,30619,2026-11-18T16:50+00:00
+159952,VT,"Vermont Bakersfield In response to concerns raised by townspeople with regard to Town Meeting Accessibility, the Select Board seeks input on the following: What day/time...",2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+160090,VT,Vermont Townshend Justice of the Peace,2026-11-03,0,,False,1,2,0,2026-11-18T16:50+00:00
+160042,VT,Vermont Proctor Justice of the Peace,2026-11-03,0,,False,7,2,0,2026-11-18T16:50+00:00
+159733,VT,Vermont Bennington County State's Attorney,2026-11-03,0,,False,2,17,12368,2026-11-18T16:50+00:00
+160108,VT,Vermont Chester Justice of the Peace,2026-11-03,0,,False,13,2,0,2026-11-18T16:50+00:00
+159864,VT,Vermont Dorset Justice of the Peace,2026-11-03,0,,False,12,2,0,2026-11-18T16:50+00:00
+160066,VT,Vermont Duxbury Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+160121,VT,Vermont Plymouth Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+160075,VT,Vermont Plainfield Justice of the Peace,2026-11-03,0,,False,7,2,0,2026-11-18T16:50+00:00
+159755,VT,Vermont Franklin County High Bailiff,2026-11-03,0,,False,2,16,17284,2026-11-18T16:50+00:00
+159650,VT,Vermont State House Chittenden-16,2026-11-03,0,2026-11-12T01:54:12.342Z,False,4,2,4763,2026-11-18T16:50+00:00
+159613,VT,Vermont State Senate Orange,2026-11-03,0,2026-11-12T01:54:12.341Z,False,3,14,10809,2026-11-18T16:50+00:00
+159904,VT,Vermont Underhill Shall the voters of Underhill adopt all Budget Articles by Australian ballot?,2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+160106,VT,Vermont Sharon Justice of the Peace,2026-11-03,0,,False,10,2,2994,2026-11-18T16:50+00:00
+159980,VT,Vermont Corinth Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+159681,VT,Vermont State House Orleans Lamoille,2026-11-03,0,2026-11-12T01:54:12.343Z,False,3,10,4850,2026-11-18T16:50+00:00
+159644,VT,Vermont State House Chittenden-10,2026-11-03,0,2026-11-12T01:54:12.342Z,False,2,2,1805,2026-11-18T16:50+00:00
+159761,VT,Vermont Lamoille County Probate Judge,2026-11-03,0,,False,2,11,10008,2026-11-18T16:50+00:00
+159961,VT,Vermont North Hero Justice of the Peace,2026-11-03,0,,False,7,2,2070,2026-11-18T16:50+00:00
+159931,VT,Vermont Bloomfield Justice of the Peace,2026-11-03,0,,False,1,2,0,2026-11-18T16:50+00:00
+159774,VT,Vermont Orleans County Sheriff,2026-11-03,0,,False,2,20,9995,2026-11-18T16:50+00:00
+159974,VT,Vermont Eden Justice of the Peace,2026-11-03,0,,False,10,2,2165,2026-11-18T16:50+00:00
+159696,VT,Vermont State House Rutland-2,2026-11-03,0,2026-11-12T01:54:12.343Z,False,4,5,6352,2026-11-18T16:50+00:00
+160109,VT,Vermont Hartland Justice of the Peace,2026-11-03,0,,False,14,2,12233,2026-11-18T16:50+00:00
+160018,VT,Vermont Pawlet Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+159709,VT,Vermont State House Washington-6,2026-11-03,0,2026-11-12T01:54:12.343Z,False,2,4,2030,2026-11-18T16:50+00:00
+160036,VT,Vermont Wallingford Justice of the Peace,2026-11-03,0,,False,19,2,0,2026-11-18T16:50+00:00
+159997,VT,Vermont Jay Justice of the Peace,2026-11-03,0,,False,6,2,805,2026-11-18T16:50+00:00
+160097,VT,Vermont Windham Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159853,VT,Vermont Addison Justice of the Peace,2026-11-03,0,,False,13,2,0,2026-11-18T16:50+00:00
+160012,VT,Vermont Glover Justice of the Peace,2026-11-03,0,,False,6,2,1713,2026-11-18T16:50+00:00
+160115,VT,Vermont Springfield Justice of the Peace,2026-11-03,0,,False,29,2,0,2026-11-18T16:50+00:00
+160078,VT,Vermont Vernon Justice of the Peace,2026-11-03,0,,False,18,2,0,2026-11-18T16:50+00:00
+159790,VT,Vermont Windham County High Bailiff,2026-11-03,0,,False,2,23,16489,2026-11-18T16:50+00:00
+159922,VT,Vermont Hinesburg Shall the Town assess a one percent (1%) tax on meals & alcohol pursuant to 24 V.S.A. § 138(b)?,2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+159884,VT,Vermont Ryegate Justice of the Peace,2026-11-03,0,,False,14,2,0,2026-11-18T16:50+00:00
+159607,VT,Vermont State Senate Chittenden-North,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,6,11228,2026-11-18T16:50+00:00
+159762,VT,Vermont Lamoille County Assistant Judge,2026-11-03,0,,False,3,11,14229,2026-11-18T16:50+00:00
+159657,VT,Vermont State House Chittenden-23,2026-11-03,0,2026-11-12T01:54:12.342Z,False,5,3,7667,2026-11-18T16:50+00:00
+159620,VT,Vermont State House Addison-3,2026-11-03,0,2026-11-12T01:54:12.342Z,False,5,7,8598,2026-11-18T16:50+00:00
+159675,VT,Vermont State House Franklin-7,2026-11-03,0,2026-11-12T01:54:12.343Z,False,2,3,1430,2026-11-18T16:50+00:00
+159638,VT,Vermont State House Essex Caledonia,2026-11-03,0,2026-11-12T01:54:12.342Z,False,2,11,1633,2026-11-18T16:50+00:00
+159988,VT,Vermont Fairlee Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159950,VT,Vermont Berkshire Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+159651,VT,Vermont State House Chittenden-17,2026-11-03,0,2026-11-12T01:54:12.342Z,False,2,2,2081,2026-11-18T16:50+00:00
+159768,VT,Vermont Orange County State's Attorney,2026-11-03,0,,False,2,18,10901,2026-11-18T16:50+00:00
+159968,VT,Vermont Wolcott Justice of the Peace,2026-11-03,0,,False,13,2,0,2026-11-18T16:50+00:00
+159669,VT,Vermont State House Franklin-1,2026-11-03,0,,False,5,3,8291,2026-11-18T16:50+00:00
+160069,VT,Vermont Barre City Justice of the Peace,2026-11-03,0,,False,21,2,0,2026-11-18T16:50+00:00
+159781,VT,Vermont Washington County Probate Judge,2026-11-03,0,,False,2,21,23047,2026-11-18T16:50+00:00
+159744,VT,Vermont Chittenden County Sheriff,2026-11-03,0,,False,2,19,65984,2026-11-18T16:50+00:00
+159703,VT,Vermont State House Rutland-9,2026-11-03,0,2026-11-12T01:54:12.343Z,False,3,2,1907,2026-11-18T16:50+00:00
+159909,VT,Vermont Colchester Justice of the Peace,2026-11-03,0,,False,29,2,0,2026-11-18T16:50+00:00
+160025,VT,Vermont Ira Justice of the Peace,2026-11-03,0,,False,1,2,0,2026-11-18T16:50+00:00
+159716,VT,Vermont State House Windham-7,2026-11-03,0,2026-11-12T01:54:12.343Z,False,3,2,1719,2026-11-18T16:50+00:00
+159847,VT,Vermont Salisbury Justice of the Peace,2026-11-03,0,,False,9,2,0,2026-11-18T16:50+00:00
+160006,VT,Vermont Westmore Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159629,VT,Vermont State House Bennington-4,2026-11-03,0,2026-11-12T01:54:12.342Z,False,5,5,7107,2026-11-18T16:50+00:00
+159860,VT,Vermont Bridport Justice of the Peace,2026-11-03,0,,False,11,2,0,2026-11-18T16:50+00:00
+160019,VT,Vermont Tinmouth Justice of the Peace,2026-11-03,0,,False,9,2,0,2026-11-18T16:50+00:00
+159916,VT,"Vermont Essex Town Shall the Town assess a one percent (1%) tax on rooms, pursuant to 24 V.S.A. § 138(b), with fifty percent (50%) of proceeds of such sales tax being...",2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+159878,VT,Vermont Sandgate Justice of the Peace,2026-11-03,0,,False,1,2,0,2026-11-18T16:50+00:00
+159797,VT,Vermont Shoreham Justice of the Peace,2026-11-03,0,,False,4,2,0,2026-11-18T16:50+00:00
+159690,VT,Vermont State House Orleans-3,2026-11-03,0,2026-11-12T01:54:12.343Z,False,2,4,1242,2026-11-18T16:50+00:00
+159660,VT,Vermont State House Chittenden-4,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,2,2575,2026-11-18T16:50+00:00
+159891,VT,Vermont Sheffield Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+160041,VT,Vermont Pittsford Justice of the Peace,2026-11-03,0,,False,13,2,0,2026-11-18T16:50+00:00
+159900,VT,Vermont Richmond Justice of the Peace,2026-11-03,0,,False,14,2,0,2026-11-18T16:50+00:00
+159863,VT,Vermont Landgrove Justice of the Peace,2026-11-03,0,,False,6,2,398,2026-11-18T16:50+00:00
+159944,VT,Vermont Saint Albans City Justice of the Peace,2026-11-03,0,,False,27,2,0,2026-11-18T16:50+00:00
+160120,VT,Vermont Reading Justice of the Peace,2026-11-03,0,,False,3,2,0,2026-11-18T16:50+00:00
+159725,VT,Vermont State House Windsor-6,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,2,5938,2026-11-18T16:50+00:00
+159957,VT,Vermont Fletcher Article 3,2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+160047,VT,Vermont Roxbury Justice of the Peace,2026-11-03,0,,False,5,2,0,2026-11-18T16:50+00:00
+159738,VT,Vermont Caledonia County State's Attorney,2026-11-03,0,,False,2,18,11210,2026-11-18T16:50+00:00
+159938,VT,Vermont Lemington Justice of the Peace,2026-11-03,0,,False,1,2,0,2026-11-18T16:50+00:00
+160076,VT,Vermont Londonderry Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+160028,VT,Vermont West Haven Justice of the Peace,2026-11-03,0,,False,6,2,479,2026-11-18T16:50+00:00
+159751,VT,Vermont Franklin County Probate Judge,2026-11-03,0,,False,3,16,19813,2026-11-18T16:50+00:00
+160089,VT,Vermont Newfane Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+159760,VT,Vermont Grand Isle County High Bailiff,2026-11-03,0,,False,2,6,3478,2026-11-18T16:50+00:00
+159960,VT,Vermont South Hero Justice of the Peace,2026-11-03,0,,False,14,2,0,2026-11-18T16:50+00:00
+159618,VT,Vermont State House Addison-1,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,2,5469,2026-11-18T16:50+00:00
+159773,VT,Vermont Orleans County State's Attorney,2026-11-03,0,,False,2,20,9126,2026-11-18T16:50+00:00
+159872,VT,Vermont Stamford Justice of the Peace,2026-11-03,0,,False,5,2,0,2026-11-18T16:50+00:00
+160074,VT,Vermont Marshfield Justice of the Peace,2026-11-03,0,,False,9,2,0,2026-11-18T16:50+00:00
+159686,VT,Vermont State House Windsor Orange 1,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,4,2003,2026-11-18T16:50+00:00
+159649,VT,Vermont State House Chittenden-15,2026-11-03,0,2026-11-12T01:54:12.342Z,False,4,2,3969,2026-11-18T16:50+00:00
+159612,VT,Vermont State Senate Washington,2026-11-03,0,2026-11-04T07:09:42.119Z,False,7,26,88365,2026-11-18T16:50+00:00
+159966,VT,Vermont Morristown Justice of the Peace,2026-11-03,0,,False,28,2,0,2026-11-18T16:50+00:00
+159903,VT,Vermont Underhill Justice of the Peace,2026-11-03,0,,False,10,2,0,2026-11-18T16:50+00:00
+160105,VT,"Vermont Northfield Shall the voters authorize the Select Board to borrow an amount not to exceed eight hundred and fifty-five thousand dollars ($855,000) for a period...",2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+159979,VT,Vermont Braintree Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159680,VT,Vermont State House Lamoille-3,2026-11-03,0,2026-11-12T01:54:12.343Z,False,4,3,2177,2026-11-18T16:50+00:00
+160114,VT,Vermont Baltimore Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+160077,VT,Vermont Guilford Justice of the Peace,2026-11-03,0,,False,15,2,7465,2026-11-18T16:50+00:00
+159714,VT,Vermont State House Windham-5,2026-11-03,0,2026-11-12T01:54:12.343Z,False,2,4,1839,2026-11-18T16:50+00:00
+159921,VT,Vermont Hinesburg Shall the Town assess a one percent (1%) tax on rooms pursuant to 24 V.S.A. § 138(b)?,2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+159732,VT,Vermont Bennington County Assistant Judge,2026-11-03,0,,False,3,17,22400,2026-11-18T16:50+00:00
+159695,VT,Vermont State House Rutland-11,2026-11-03,0,2026-11-12T01:54:12.343Z,False,2,5,1659,2026-11-18T16:50+00:00
+160065,VT,Vermont Waitsfield Justice of the Peace,2026-11-03,0,,False,8,2,4694,2026-11-18T16:50+00:00
+160017,VT,Vermont Middletown Springs Justice of the Peace,2026-11-03,0,,False,9,2,0,2026-11-18T16:50+00:00
+159708,VT,Vermont State House Washington-5,2026-11-03,0,2026-11-12T01:54:12.343Z,False,2,3,2202,2026-11-18T16:50+00:00
+160083,VT,Vermont Brookline Justice of the Peace,2026-11-03,0,,False,1,2,0,2026-11-18T16:50+00:00
+160035,VT,Vermont West Rutland Justice of the Peace,2026-11-03,0,,False,13,2,0,2026-11-18T16:50+00:00
+159996,VT,Vermont Morgan Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159894,VT,Vermont Kirby Justice of the Peace,2026-11-03,0,,False,4,2,0,2026-11-18T16:50+00:00
+160096,VT,Vermont Grafton Justice of the Peace,2026-11-03,0,,False,11,2,0,2026-11-18T16:50+00:00
+159852,VT,Vermont Waltham Justice of the Peace,2026-11-03,0,,False,3,2,432,2026-11-18T16:50+00:00
+159767,VT,Vermont Orange County Assistant Judge,2026-11-03,0,,False,3,18,18234,2026-11-18T16:50+00:00
+159967,VT,Vermont Stowe Justice of the Peace,2026-11-03,0,,False,21,2,0,2026-11-18T16:50+00:00
+159625,VT,Vermont State House Bennington Rutland,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,7,2259,2026-11-18T16:50+00:00
+159780,VT,Vermont Rutland County High Bailiff,2026-11-03,0,,False,2,29,20512,2026-11-18T16:50+00:00
+159643,VT,Vermont State House Chittenden Franklin,2026-11-03,0,,False,5,4,6553,2026-11-18T16:50+00:00
+159606,VT,Vermont State Senate Chittenden-Southeast,2026-11-03,0,2026-11-12T01:54:12.342Z,False,7,12,106366,2026-11-18T16:50+00:00
+159930,VT,Vermont East Haven Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159656,VT,Vermont State House Chittenden-22,2026-11-03,0,2026-11-12T01:54:12.342Z,False,5,2,8328,2026-11-18T16:50+00:00
+159619,VT,Vermont State House Addison-2,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,6,2317,2026-11-18T16:50+00:00
+159973,VT,Vermont Waterville Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159674,VT,Vermont State House Franklin-6,2026-11-03,0,2026-11-12T01:54:12.343Z,False,2,4,1966,2026-11-18T16:50+00:00
+159637,VT,Vermont State House Caledonia Washington,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,5,2575,2026-11-18T16:50+00:00
+159754,VT,Vermont Franklin County Sheriff,2026-11-03,0,,False,3,16,20357,2026-11-18T16:50+00:00
+159986,VT,Vermont Bradford Shall the voters approve the following amendment to the Town Charter? The voters of the Town of Bradford hereby amend the Charter of the Town of...,2026-11-03,0,,False,2,2,1107,2026-11-18T16:50+00:00
+159949,VT,Vermont Highgate Justice of the Peace,2026-11-03,0,,False,7,2,0,2026-11-18T16:50+00:00
+159877,VT,Vermont Shaftsbury Justice of the Peace,2026-11-03,0,,False,21,2,0,2026-11-18T16:50+00:00
+159721,VT,Vermont State House Windsor-2,2026-11-03,0,2026-11-12T01:54:12.343Z,False,3,4,2270,2026-11-18T16:50+00:00
+159659,VT,Vermont State House Chittenden-25,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,3,2411,2026-11-18T16:50+00:00
+160011,VT,Vermont Greensboro Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159702,VT,Vermont State House Rutland-8,2026-11-03,0,2026-11-12T01:54:12.343Z,False,3,3,2115,2026-11-18T16:50+00:00
+159789,VT,Vermont Windham County Sheriff,2026-11-03,0,,False,2,23,16997,2026-11-18T16:50+00:00
+160024,VT,Vermont Poultney Justice of the Peace,2026-11-03,0,,False,14,2,0,2026-11-18T16:50+00:00
+159715,VT,Vermont State House Windham-6,2026-11-03,0,2026-11-12T01:54:12.343Z,False,2,4,1474,2026-11-18T16:50+00:00
+159883,VT,Vermont Waterford Justice of the Peace,2026-11-03,0,,False,11,2,3235,2026-11-18T16:50+00:00
+159846,VT,Vermont Cornwall Justice of the Peace,2026-11-03,0,,False,6,2,2118,2026-11-18T16:50+00:00
+160005,VT,Vermont Newport City Justice of the Peace,2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+159901,VT,Vermont Williston Justice of the Peace,2026-11-03,0,,False,27,2,0,2026-11-18T16:50+00:00
+159628,VT,Vermont State House Bennington-3,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,3,2026,2026-11-18T16:50+00:00
+159859,VT,Vermont Weybridge Justice of the Peace,2026-11-03,0,,False,1,2,0,2026-11-18T16:50+00:00
+159915,VT,"Vermont Essex Town Shall the Town assess a one percent (1%) tax on meals and alcoholic beverages, pursuant to 24 V.S.A. § 138(b), with fifty percent (50%) of proceeds...",2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+159737,VT,Vermont Caledonia County Assistant Judge,2026-11-03,0,,False,3,18,17871,2026-11-18T16:50+00:00
+159868,VT,Vermont Pownal Justice of the Peace,2026-11-03,0,,False,15,2,0,2026-11-18T16:50+00:00
+160027,VT,Vermont Benson Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+160201,VT,Vermont Troy Justice of the Peace,2026-11-03,0,,False,8,2,0,2026-11-18T16:50+00:00
+160088,VT,Vermont Marlboro Justice of the Peace,2026-11-03,0,,False,6,2,0,2026-11-18T16:50+00:00
+159668,VT,Vermont State House Essex Orleans,2026-11-03,0,2026-11-12T01:54:12.342Z,False,3,9,1793,2026-11-18T16:50+00:00
+159899,VT,Vermont Groton Justice of the Peace,2026-11-03,0,,False,8,2,1563,2026-11-18T16:50+00:00
+159743,VT,Vermont Chittenden County State's Attorney,2026-11-03,0,,False,3,19,79655,2026-11-18T16:50+00:00
+159943,VT,Vermont Saint Albans Town Justice of the Peace,2026-11-03,0,,False,17,2,0,2026-11-18T16:50+00:00
+160119,VT,Vermont Hartford Justice of the Peace,2026-11-03,0,,False,21,2,0,2026-11-18T16:50+00:00
+160033,VT,Vermont Clarendon Justice of the Peace,2026-11-03,0,,False,9,2,0,2026-11-18T16:50+00:00
+159724,VT,Vermont State House Windsor-5,2026-11-03,0,2026-11-12T01:54:12.344Z,False,2,4,2074,2026-11-18T16:50+00:00
+159956,VT,Vermont Fletcher Article 2,2026-11-03,0,,False,2,2,0,2026-11-18T16:50+00:00
+160046,VT,Vermont Woodbury Justice of the Peace,2026-11-03,0,,False,10,2,0,2026-11-18T16:50+00:00
+87502,VT,Vermont US House At-Large,2026-11-03,92.7,2026-11-04T01:58:57.425Z,False,7,261,304675,2026-11-18T16:50+00:00

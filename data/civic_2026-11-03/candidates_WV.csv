@@ -1,0 +1,638 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+169122,WV,Yes,Nonpartisan,342330,79.539,True,False
+169122,WV,No,Nonpartisan,88064,20.461,False,False
+159577,WV,Republican,Republican,253259,57.785,False,False
+159577,WV,Democratic,Democratic,173719,39.636,False,False
+159577,WV,Constitution,Constitution,4969,1.134,False,False
+159577,WV,Independent,Independent,3390,0.773,False,False
+159577,WV,Libertarian,Libertarian,1419,0.324,False,False
+159577,WV,Mountain,Mountain,840,0.192,False,False
+159577,WV,Nonpartisan,Nonpartisan,685,0.156,False,False
+159578,WV,Republican,Republican,289718,59.784,False,False
+159578,WV,Democratic,Democratic,174532,36.015,False,False
+159578,WV,Libertarian,Libertarian,12766,2.634,False,False
+159578,WV,Constitution,Constitution,6455,1.332,False,False
+159578,WV,Independent,Independent,1133,0.234,False,False
+169094,WV,Rick Garcia,Democratic,2624,58.208,True,False
+169094,WV,Jon Dodds,Republican,1884,41.792,False,False
+169035,WV,Jonathan Adam Pinson,Republican,2744,55.989,True,False
+169035,WV,Kathryn Weiland,Democratic,2157,44.011,False,False
+169169,WV,Adam J Ward,Republican,13958,100.0,False,False
+169078,WV,Dana J. Ferrell,Republican,2840,64.811,True,False
+169078,WV,Lynette Shaw,Democratic,1542,35.189,False,False
+169121,WV,Eleni Kontos-Miller,Nonpartisan,9940,50.616,False,False
+169121,WV,Paula Harbour,Nonpartisan,9698,49.384,False,False
+169164,WV,Yes,Nonpartisan,12228,72.415,False,False
+169164,WV,No,Nonpartisan,4658,27.585,False,False
+169015,WV,Darren J Thorne,Republican,18394,59.841,True,False
+169015,WV,Elizabeth Ferris,Democratic,12344,40.159,False,False
+169148,WV,Kevin Pansch,Nonpartisan,2131,100.0,False,False
+169275,WV,Jami Beth Echols,Nonpartisan,78,76.471,False,False
+169275,WV,Whitney Dawn Rose,Nonpartisan,24,23.529,False,False
+169223,WV,Debbie Mendez,Republican,3594,63.141,False,False
+169223,WV,Gary Runyon,Democratic,2098,36.859,False,False
+169165,WV,Jeremy Comer,Republican,5520,71.097,False,False
+169165,WV,Amanda Morgan,Democratic,2244,28.903,False,False
+169298,WV,Barbie Evans,Republican,2266,100.0,False,False
+169233,WV,Shawna Santee,Nonpartisan,2118,51.296,False,False
+169233,WV,Bruce McDaniel,Nonpartisan,2011,48.704,False,False
+169149,WV,Tyson Riggleman,Republican,2368,100.0,False,False
+169000,WV,Laura Wakim Chapman,Republican,14590,53.281,True,False
+169000,WV,Shawn Fluharty,Democratic,12793,46.719,False,False
+169228,WV,Tim McAteer,Democratic,9396,61.804,False,False
+169228,WV,David Kennedy,Republican,5807,38.196,False,False
+169271,WV,C. D. Caldwell,Nonpartisan,901,17.31,False,False
+169271,WV,Corey Sergent,Nonpartisan,868,16.676,False,False
+169271,WV,Ryan Wheeler,Nonpartisan,691,13.276,False,False
+169271,WV,Becky Richmond,Nonpartisan,599,11.508,False,False
+169271,WV,Marshall D. Ginn,Nonpartisan,571,10.97,False,False
+169271,WV,Jody William Ogle,Nonpartisan,539,10.355,False,False
+169271,WV,Matt Arrowood,Nonpartisan,531,10.202,False,False
+169271,WV,Michael P Black,Nonpartisan,505,9.702,False,False
+169219,WV,Rebecca Carder,Republican,3480,100.0,False,False
+169314,WV,Kathrine Pittman,Nonpartisan,255,20.799,False,False
+169314,WV,Rachel Hensley,Nonpartisan,253,20.636,False,False
+169314,WV,Cheney English,Nonpartisan,248,20.228,False,False
+169314,WV,Regina Smith,Nonpartisan,246,20.065,False,False
+169314,WV,David R Cook,Nonpartisan,224,18.271,False,False
+169255,WV,D. Craig Chapman,Republican,3294,57.069,False,False
+169255,WV,Sarah Meadows Brown,Democratic,2478,42.931,False,False
+169229,WV,Marcella Yaremchuk,Nonpartisan,3707,100.0,False,False
+169177,WV,Ralph Holbrook,Nonpartisan,359,100.0,False,False
+169080,WV,Roger Hanshaw,Republican,3235,100.0,True,False
+169220,WV,Wylie Aaron Stowers,Republican,2597,100.0,False,False
+169256,WV,Yes,Nonpartisan,217,57.713,False,False
+169256,WV,No,Nonpartisan,159,42.287,False,False
+169075,WV,Hollis T. Lewis,Democratic,3898,100.0,True,False
+169118,WV,Jenny Thacker,Democratic,3426,53.381,True,False
+169118,WV,William Ridenour,Republican,2992,46.619,False,False
+169059,WV,Jordan Allen Maynor,Republican,3539,69.927,True,False
+169059,WV,Curtis Shaver,Democratic,1522,30.073,False,False
+169193,WV,Maria Belcher,Democratic,713,100.0,False,False
+169294,WV,Orville G. Wright,Republican,2674,60.484,False,False
+169294,WV,Dave Gobel,Democratic,1747,39.516,False,False
+169241,WV,John Bradley Sang,Republican,4192,63.641,False,False
+169241,WV,Rick Handley,Democratic,2395,36.359,False,False
+169151,WV,Lowell C Rose,Republican,6992,100.0,False,False
+169060,WV,John K Jordan,Republican,2831,71.059,True,False
+169060,WV,Courtney Vandall,Democratic,1153,28.941,False,False
+169295,WV,Clint Shaw,Nonpartisan,1780,43.078,False,False
+169295,WV,Rod Summers,Nonpartisan,1300,31.462,False,False
+169295,WV,Daniel Dowdy,Nonpartisan,1052,25.46,False,False
+169146,WV,Angel R Ball,Republican,1290,100.0,False,False
+169189,WV,Jeanine Rose Faegre,Democratic,720,100.0,False,False
+169098,WV,Olivia Miller,Democratic,3012,85.788,True,False
+169098,WV,Melissa Ann Deserio,Constitution,499,14.212,False,False
+169033,WV,Erica J. Moore,Republican,3091,72.001,True,False
+169033,WV,Tye Ward,Libertarian,1202,27.999,False,False
+169173,WV,Yes,Nonpartisan,34178,73.072,False,False
+169173,WV,No,Nonpartisan,12595,26.928,False,False
+169076,WV,Marisa Jackson,Democratic,2502,51.103,False,False
+169076,WV,Walter Hall,Republican,2394,48.897,False,False
+169222,WV,James Harvey Scites,Republican,2779,100.0,False,False
+169099,WV,Anitra Hamilton,Democratic,2419,100.0,True,False
+169174,WV,Jerry King,Nonpartisan,391,82.316,False,False
+169174,WV,Melissa J. Hill,Nonpartisan,84,17.684,False,False
+169025,WV,Charles R. Sheedy Sr.,Republican,2793,64.713,True,False
+169025,WV,Sarah Reggi,Democratic,1523,35.287,False,False
+169253,WV,Melvin Young,Republican,2815,100.0,False,False
+169072,WV,Mike Pushkin,Democratic,3539,80.068,True,False
+169072,WV,Tara Martinez,Independent,881,19.932,False,False
+169237,WV,David L. Wood,Nonpartisan,336,100.0,False,False
+169147,WV,Jonathan Fittro,Democratic,1048,100.0,False,False
+169088,WV,Shannon Welsh,Democratic,2274,58.173,True,False
+169088,WV,Paul J. Howe III,Republican,1635,41.827,False,False
+169254,WV,Joel R. Tuttle,Republican,3873,67.651,False,False
+169254,WV,Judith Ann Shumate,Democratic,1852,32.349,False,False
+169202,WV,James Elam,Democratic,416,57.379,False,False
+169202,WV,Jennifer Smith,Republican,309,42.621,False,False
+169297,WV,Jon Bush,Republican,1284,51.217,False,False
+169297,WV,Michael Rosenau,Nonpartisan,1223,48.783,False,False
+169238,WV,V Ginger DeWitt,Nonpartisan,195,56.851,False,False
+169238,WV,Frank A Stocklask,Nonpartisan,148,43.149,False,False
+169281,WV,Cam Clendenin,Nonpartisan,316,53.288,False,False
+169281,WV,Chuck Nalle,Nonpartisan,277,46.712,False,False
+169292,WV,Mike Gore,Republican,2509,100.0,False,False
+169143,WV,Timothy Walker,Nonpartisan,23,26.437,False,False
+169143,WV,Leslie McPherson,Nonpartisan,22,25.287,False,False
+169143,WV,James Doyle,Nonpartisan,21,24.138,False,False
+169143,WV,William Hughes,Nonpartisan,21,24.138,False,False
+169084,WV,Jonathan B. Kyle,Republican,2663,61.317,True,False
+169084,WV,Danielle M. Dougherty,Democratic,1680,38.683,False,False
+169026,WV,Steven L. Smith,Republican,3325,100.0,True,False
+169127,WV,Charles Gibson,Democratic,3010,62.761,False,False
+169127,WV,Leann Marcum,Republican,1786,37.239,False,False
+169293,WV,No,Nonpartisan,1612,52.0,False,False
+169293,WV,Yes,Nonpartisan,1488,48.0,False,False
+169042,WV,Steve Williams,Democratic,2108,56.168,True,False
+169042,WV,Patrick Lucas,Republican,1645,43.832,False,False
+169176,WV,Brian Bowen,Nonpartisan,348,100.0,False,False
+169085,WV,Les Mallow,Republican,3103,59.765,True,False
+169085,WV,Mandy Weirich,Democratic,2089,40.235,False,False
+169128,WV,Kevin W. Bingaman,Democratic,1617,51.448,False,False
+169128,WV,Larry Clifton,Republican,1526,48.552,False,False
+169171,WV,Paul Monroe,Democratic,25346,54.786,False,False
+169171,WV,Jared Page,Republican,20918,45.214,False,False
+169022,WV,Derek Ennis,Republican,3190,52.278,True,False
+169022,WV,Joe Jividen,Democratic,2912,47.722,False,False
+169123,WV,David Strait,Republican,2331,66.109,False,False
+169123,WV,Joyce Wilson,Democratic,1195,33.891,False,False
+169058,WV,Roy G. Cooper,Republican,3310,66.909,True,False
+169058,WV,Jennifer Gilkerson,Democratic,1637,33.091,False,False
+169198,WV,Todd Goldman,Democratic,859,100.0,False,False
+169172,WV,Yes,Nonpartisan,33071,71.125,False,False
+169172,WV,No,Nonpartisan,13426,28.875,False,False
+169305,WV,Gerald Dornburg,Nonpartisan,55,100.0,False,False
+169240,WV,Yes,Nonpartisan,5100,69.94,False,False
+169240,WV,No,Nonpartisan,2192,30.06,False,False
+169124,WV,Eri Belaj,Nonpartisan,23705,100.0,False,False
+169199,WV,Harper Gardner,Republican,631,100.0,False,False
+169235,WV,Jim Kudlak,Republican,4195,53.851,False,False
+169235,WV,Leigh Ann Scherich,Democratic,3595,46.149,False,False
+169278,WV,Randy Barrett,Nonpartisan,592,100.0,False,False
+169002,WV,Mike Azinger,Republican,17299,61.47,True,False
+169002,WV,Caci Petrehn,Democratic,10843,38.53,False,False
+169097,WV,Evan Hansen,Democratic,2832,77.124,True,False
+169097,WV,Paige Reiring,Mountain,840,22.876,False,False
+169038,WV,Sarah Drennan,Republican,3519,61.553,True,False
+169038,WV,Tonya Patrick Shuler,Democratic,2198,38.447,False,False
+169184,WV,Shawn Taylor,Democratic,8628,12.764,False,False
+169184,WV,Patrick Salango,Democratic,8547,12.644,False,False
+169184,WV,Caitlin Cook,Democratic,8241,12.191,False,False
+169184,WV,Jennifer Pharr,Democratic,8200,12.13,False,False
+169184,WV,Emmett Pepper,Democratic,7967,11.786,False,False
+169184,WV,Linda Bodie,Democratic,7805,11.546,False,False
+169184,WV,Will Pack,Republican,4117,6.09,False,False
+169184,WV,Fred Joseph,Republican,3777,5.587,False,False
+169184,WV,Lisa Samples White,Republican,3683,5.448,False,False
+169184,WV,Da'Ron Parks,Republican,3324,4.917,False,False
+169184,WV,Patricia A. Smith,Republican,3310,4.897,False,False
+169087,WV,Danny Hamrick,Republican,3261,63.407,True,False
+169087,WV,Jocelyn Blackwell,Democratic,1882,36.593,False,False
+169003,WV,Trenton Carl Barnhart,Republican,18289,73.913,True,False
+169003,WV,Ronnie Green,Constitution,6455,26.087,False,False
+169039,WV,C. D. Caldwell,Republican,3206,63.422,True,False
+169039,WV,Michael G. Mosteller II,Democratic,1849,36.578,False,False
+169082,WV,Adam Burkhammer,Republican,2946,73.211,True,False
+169082,WV,Nate Stansberry,Constitution,1078,26.789,False,False
+169317,WV,Joe Kinser,Nonpartisan,2708,59.438,False,False
+169317,WV,Richard D. Stephens,Nonpartisan,1848,40.562,False,False
+169258,WV,Seth S Bowers,Independent,1440,68.867,False,False
+169258,WV,Carl Hevener,Democratic,651,31.133,False,False
+169168,WV,Mary Mickey Reagan,Democratic,12433,60.08,False,False
+169168,WV,Steve Stolipher,Republican,7143,34.517,False,False
+169168,WV,Danny Lutz,Mountain,1118,5.403,False,False
+169301,WV,Patrick Kyle Lane,Republican,4689,100.0,False,False
+169236,WV,Amanda Lockhart,Republican,6578,100.0,False,False
+169126,WV,Damon Wright,Nonpartisan,13957,50.205,False,False
+169126,WV,Robert McCaulley,Nonpartisan,13843,49.795,False,False
+169259,WV,Jay Matthew Powell,Republican,1550,100.0,False,False
+169201,WV,Bruce King,Democratic,605,62.955,False,False
+169201,WV,Elizabeth Grogg,Independent,356,37.045,False,False
+169302,WV,No,Nonpartisan,3027,55.328,False,False
+169302,WV,Yes,Nonpartisan,2444,44.672,False,False
+169153,WV,Brian A. Brill,Republican,4512,70.029,False,False
+169153,WV,Rebecca Conrad,Democratic,1931,29.971,False,False
+169196,WV,Joseph Jenkins,Democratic,628,71.364,False,False
+169196,WV,Ernest Blevins,Republican,252,28.636,False,False
+169232,WV,Donna Wade,Nonpartisan,1611,41.034,False,False
+169232,WV,Fran Warner,Nonpartisan,1291,32.883,False,False
+169232,WV,David Ice,Nonpartisan,1024,26.083,False,False
+169180,WV,Mary Ann Saunders,Nonpartisan,72,47.682,False,False
+169180,WV,Jolinda L. Perdue,Nonpartisan,44,29.139,False,False
+169180,WV,Yancy Ney,Nonpartisan,35,23.179,False,False
+169083,WV,Carl Martin,Republican,2791,67.107,True,False
+169083,WV,Mira Tanner-Hughes,Democratic,1368,32.893,False,False
+169248,WV,Yes,Nonpartisan,4735,64.845,False,False
+169248,WV,No,Nonpartisan,2567,35.155,False,False
+169197,WV,Frank H Annie,Republican,510,100.0,False,False
+169106,WV,Rick Hillenbrand,Republican,3680,76.333,True,False
+169106,WV,Dorothy L. Kengla,Democratic,1141,23.667,False,False
+169041,WV,Evan Worrell,Republican,2716,62.123,True,False
+169041,WV,Amanda Beth Beach-Burge,Democratic,1656,37.877,False,False
+169181,WV,Amy Goodwin,Democratic,10182,68.691,False,False
+169181,WV,Brian Hunt,Republican,4641,31.309,False,False
+169224,WV,George Cook,Nonpartisan,212,100.0,False,False
+169036,WV,Jim Butler,Republican,2199,50.95,False,False
+169036,WV,Jonathan Hersman,Democratic,2117,49.05,False,False
+169079,WV,Dean Jeffries,Republican,2844,66.918,True,False
+169079,WV,Sue Crawford,Democratic,1406,33.082,False,False
+169244,WV,Tammie G. Bailey,Democratic,1704,100.0,False,False
+169154,WV,No,Nonpartisan,3757,57.473,False,False
+169154,WV,Yes,Nonpartisan,2780,42.527,False,False
+169063,WV,Eric Brooks,Republican,2031,62.205,True,False
+169063,WV,Joseph Golden,Democratic,1234,37.795,False,False
+169037,WV,Kathie Hess Crouse,Republican,2864,59.829,True,False
+169037,WV,Nolan Rose,Democratic,1923,40.171,False,False
+169209,WV,Tommy Spurlock,Democratic,266,100.0,False,False
+169304,WV,Sam Hall,Republican,1036,62.11,False,False
+169304,WV,Robin Cutlip,Democratic,632,37.89,False,False
+169245,WV,Greg Puckett,Republican,9804,100.0,False,False
+169064,WV,Jeff Campbell,Republican,3020,57.744,True,False
+169064,WV,Sarah Umberger,Democratic,2210,42.256,False,False
+169299,WV,Amy Adams,Republican,1597,100.0,False,False
+169150,WV,Charles Beard,Nonpartisan,4181,52.315,False,False
+169150,WV,Andy Evans,Nonpartisan,3811,47.685,False,False
+169283,WV,Teresa Harmon,Nonpartisan,310,13.147,False,False
+169283,WV,Dave Turley,Nonpartisan,301,12.765,False,False
+169283,WV,Tom Sheridan,Nonpartisan,286,12.129,False,False
+169283,WV,Adam L. Childers,Nonpartisan,282,11.959,False,False
+169283,WV,Sherry Brown,Nonpartisan,266,11.281,False,False
+169283,WV,Kevin L. Childers,Nonpartisan,251,10.645,False,False
+169283,WV,Jody Kaiser,Nonpartisan,250,10.602,False,False
+169283,WV,Jack McLane,Nonpartisan,225,9.542,False,False
+169283,WV,Larry Kent Smith,Nonpartisan,187,7.93,False,False
+169001,WV,Toby Heaney,Republican,15440,56.976,True,False
+169001,WV,Chris Claypole,Democratic,11659,43.024,False,False
+169102,WV,D.R. Buck Jennings,Republican,2789,61.324,True,False
+169102,WV,Colin Savage,Democratic,1329,29.222,False,False
+169102,WV,Joshua Haskiell,Nonpartisan,430,9.455,False,False
+169049,WV,Margitta Mazzocchi,Republican,1632,50.526,False,False
+169049,WV,George C. Barker,Democratic,1598,49.474,False,False
+169183,WV,Matt Smith,Democratic,10916,100.0,False,False
+169284,WV,Greg Duckworth,Republican,12668,100.0,False,False
+169103,WV,Alex D. Bosley,Republican,3611,67.407,True,False
+169103,WV,Deborah K Stiles,Democratic,1746,32.593,False,False
+169178,WV,Dona Lacy,Nonpartisan,159,50.637,False,False
+169178,WV,Van Williams,Nonpartisan,96,30.573,False,False
+169178,WV,Ronald Petty,Nonpartisan,59,18.79,False,False
+169221,WV,Phoebe Harless,Republican,2658,100.0,False,False
+169130,WV,Christina J. White,Republican,4239,100.0,False,False
+169257,WV,Zach Abraham,Republican,9411,100.0,False,False
+169205,WV,Frank Mullens,Republican,3384,100.0,False,False
+169300,WV,Jeffrey A. Davis,Republican,1538,100.0,False,False
+169312,WV,Dale Baumgartner,Nonpartisan,230,100.0,False,False
+169247,WV,Kirk A Kesner,Republican,6415,100.0,False,False
+169131,WV,Tia Rumbaugh,Democratic,11322,52.81,False,False
+169131,WV,John Mandt Jr.,Republican,10117,47.19,False,False
+169206,WV,Margie Spence,Republican,2986,100.0,False,False
+169242,WV,Yes,Nonpartisan,3479,52.824,False,False
+169242,WV,No,Nonpartisan,3107,47.176,False,False
+169061,WV,Christopher W Toney,Republican,2917,100.0,True,False
+169296,WV,Yes,Nonpartisan,632,62.389,False,False
+169296,WV,No,Nonpartisan,381,37.611,False,False
+169045,WV,Ric Griffith,Democratic,2284,58.236,True,False
+169045,WV,Gordon Ramey II,Republican,1638,41.764,False,False
+169179,WV,Paul Liptok,Nonpartisan,84,39.07,False,False
+169179,WV,Regina Bell,Nonpartisan,56,26.047,False,False
+169179,WV,Steven Fields,Nonpartisan,38,17.674,False,False
+169179,WV,Nathan King,Nonpartisan,32,14.884,False,False
+169179,WV,Wesley G. Dillard,Nonpartisan,5,2.326,False,False
+169062,WV,Carl Bill Roop,Republican,2223,53.631,True,False
+169062,WV,Christina Baisden,Democratic,1922,46.369,False,False
+169010,WV,Vince Deeds,Republican,17235,62.959,True,False
+169010,WV,Kent Gilkerson,Democratic,10140,37.041,False,False
+169105,WV,Gary G. Howell,Republican,3135,67.813,True,False
+169105,WV,Rebecca Holler,Democratic,1488,32.187,False,False
+169046,WV,Ryan Browning,Republican,2517,62.026,True,False
+169046,WV,Brooke Smith,Democratic,1541,37.974,False,False
+169089,WV,Tim McNeely,Republican,2989,53.109,True,False
+169089,WV,Robert Garcia,Democratic,2639,46.891,False,False
+169100,WV,Eddie Wagoner,Democratic,3304,54.324,True,False
+169100,WV,David McCormick,Republican,2778,45.676,False,False
+169175,WV,Teri Kincaid,Nonpartisan,392,100.0,False,False
+169308,WV,Michael Blair,Democratic,1757,50.46,False,False
+169308,WV,Jimmy D. Glasscock II,Republican,1725,49.54,False,False
+169243,WV,Cecil Dale Patterson,Democratic,1733,100.0,False,False
+169159,WV,Robert Ryan,Republican,3369,100.0,False,False
+169101,WV,George Street,Republican,3184,100.0,True,False
+169266,WV,Conrad Cain,Nonpartisan,167,72.609,False,False
+169266,WV,Ronnie Hodges,Nonpartisan,63,27.391,False,False
+169208,WV,Kent Rymer,Republican,472,100.0,False,False
+169309,WV,Stephen A Settle,Republican,1268,67.916,False,False
+169309,WV,Charlie Roberts Jr.,Democratic,599,32.084,False,False
+169160,WV,No,Nonpartisan,2485,62.328,False,False
+169160,WV,Yes,Nonpartisan,1502,37.672,False,False
+169203,WV,Brent Burton,Republican,630,100.0,False,False
+169239,WV,Sara Wood-Shaw,Nonpartisan,910,56.417,False,False
+169239,WV,Carl Nelson Hooker,Nonpartisan,472,29.262,False,False
+169239,WV,Josh Craig,Nonpartisan,231,14.321,False,False
+169155,WV,Sheena Connors,Republican,6035,100.0,False,False
+169282,WV,Lynda S. Casto,Nonpartisan,409,100.0,False,False
+169006,WV,Mark R Maynard,Republican,12623,64.07,True,False
+169006,WV,Wyatt Lilly,Democratic,7079,35.93,False,False
+169204,WV,Chad Robinson,Democratic,553,100.0,False,False
+169113,WV,Charles Horst,Republican,2182,50.23,True,False
+169113,WV,Kara Waldeck,Democratic,1882,43.324,False,False
+169113,WV,Daniel Walls,Constitution,280,6.446,False,False
+169048,WV,Jeff Eldridge,Republican,2113,69.007,True,False
+169048,WV,Ryan Cledith Elkins,Democratic,949,30.993,False,False
+169156,WV,Ronnie D. Jones,Republican,4198,56.402,False,False
+169156,WV,Brianne Bates,Democratic,3245,43.598,False,False
+169007,WV,Zack Maynard,Republican,11828,62.308,True,False
+169007,WV,Cindy Brake,Democratic,6022,31.723,False,False
+169007,WV,Shawn Legg,Independent,1133,5.968,False,False
+169043,WV,Sean Hornbuckle,Democratic,3137,100.0,True,False
+169086,WV,Chris Phillips,Republican,3397,100.0,True,False
+169027,WV,Kerry G. Murphy,Republican,4079,100.0,True,False
+169129,WV,Stacey Wise,Republican,4258,100.0,False,False
+169262,WV,Nicholas James Thorn,Republican,5776,69.008,False,False
+169262,WV,Dale Preston McCray,Democratic,2594,30.992,False,False
+169216,WV,Yes,Nonpartisan,55,61.798,False,False
+169216,WV,No,Nonpartisan,34,38.202,False,False
+169311,WV,Rick Woodyard,Republican,16686,100.0,False,False
+169028,WV,Justin Beanard,Republican,2980,60.251,True,False
+169028,WV,Christopher Jones,Democratic,1966,39.749,False,False
+169263,WV,Dave Sypolt,Republican,6881,100.0,False,False
+169306,WV,Kelley Forbes,Nonpartisan,62,100.0,False,False
+169125,WV,James Whitacre,Republican,16430,37.0,False,False
+169125,WV,Z Lansdowne,Democratic,14108,31.771,False,False
+169125,WV,Eddie Gochenour,Republican,13867,31.228,False,False
+169066,WV,Mackenzie Holdren,Republican,2399,67.941,True,False
+169066,WV,Jourdan Deitz,Democratic,1132,32.059,False,False
+169200,WV,Melanie A Pagliaro,Democratic,542,100.0,False,False
+169109,WV,Chris Clagett,Republican,2787,58.099,True,False
+169109,WV,David Michaels,Democratic,2010,41.901,False,False
+169044,WV,Matthew Rohrbach,Republican,3386,100.0,True,False
+169158,WV,Loretta Humbertson,Republican,3538,100.0,False,False
+169067,WV,Newt McCutcheon,Republican,2937,69.812,True,False
+169067,WV,Byron Tucker Jr.,Democratic,1270,30.188,False,False
+169009,WV,Rollan Roberts,Republican,13676,62.195,True,False
+169009,WV,Christy Cardwell,Democratic,8313,37.805,False,False
+169110,WV,Michael Hite,Republican,2862,55.444,True,False
+169110,WV,Brad Noll,Democratic,2300,44.556,False,False
+169185,WV,Patrick Lee Jones,Democratic,341,100.0,False,False
+169004,WV,Eric J. Tarr,Republican,15339,100.0,True,False
+169040,WV,Aaron Holley,Republican,3261,100.0,True,False
+169212,WV,David Difilippo,Democratic,252,100.0,False,False
+169307,WV,Patricia A. Williams,Nonpartisan,52,21.053,False,False
+169307,WV,James E. Barger,Nonpartisan,51,20.648,False,False
+169307,WV,Erica McCourt,Nonpartisan,51,20.648,False,False
+169307,WV,Randy David Bragg,Nonpartisan,48,19.433,False,False
+169307,WV,Cathy Sue Barrier,Nonpartisan,45,18.219,False,False
+169056,WV,Joe C. Ellington Jr.,Republican,2557,66.762,True,False
+169056,WV,Randa D Faulkner,Democratic,1273,33.238,False,False
+169005,WV,Duron Jackson,Democratic,12853,52.278,True,False
+169005,WV,Chris Miller,Republican,11733,47.722,False,False
+169138,WV,Chuck Miller,Republican,4666,56.778,False,False
+169138,WV,Alison Rosiek-Ibarra,Nonpartisan,3552,43.222,False,False
+169265,WV,Zach Crede,Republican,11728,100.0,False,False
+169213,WV,Karley Walker,Democratic,294,58.683,False,False
+169213,WV,Bob Lilly,Republican,207,41.317,False,False
+169249,WV,Nathan D Brown,Republican,2638,68.271,False,False
+169249,WV,Dave Sartin,Independent,1226,31.729,False,False
+169260,WV,Yes,Nonpartisan,1212,65.514,False,False
+169260,WV,No,Nonpartisan,638,34.486,False,False
+169303,WV,Ryan Turner,Republican,6228,100.0,False,False
+169052,WV,Barry C. Marcum,Republican,2171,70.994,True,False
+169052,WV,Tara Sexton,Democratic,887,29.006,False,False
+169186,WV,Bobby Haas,Democratic,265,100.0,False,False
+169287,WV,Randall E. Riggs,Republican,1335,59.045,False,False
+169287,WV,Stephanie Burch,Nonpartisan,926,40.955,False,False
+169261,WV,Matthew Barkley,Republican,1919,100.0,False,False
+169017,WV,Tom Takubo,Republican,14767,52.828,True,False
+169017,WV,Wes Holden,Democratic,13186,47.172,False,False
+169112,WV,Donald Lee Bennett,Republican,2566,54.584,True,False
+169112,WV,Elizabeth Sanchez,Democratic,2135,45.416,False,False
+169053,WV,John Morgan,Republican,2023,73.138,True,False
+169053,WV,Rachael Hawkins-Church,Democratic,743,26.862,False,False
+169288,WV,Michael Nichols,Republican,1490,62.816,False,False
+169288,WV,Kenny Church,Democratic,882,37.184,False,False
+169107,WV,David Cannon,Republican,3565,64.05,True,False
+169107,WV,J R Hepworth,Democratic,1305,23.446,False,False
+169107,WV,Walter S. Long Sr.,Constitution,696,12.504,False,False
+169182,WV,Ben Adams,Democratic,11231,100.0,False,False
+169091,WV,Frank Sturm,Republican,3203,66.882,True,False
+169091,WV,Kit Ford,Democratic,1586,33.118,False,False
+169225,WV,Kenneth Wilson,Nonpartisan,138,57.983,False,False
+169225,WV,Christopher Kinder,Nonpartisan,100,42.017,False,False
+169134,WV,Jennifer Studer,Republican,866,55.763,False,False
+169134,WV,Whitney Butler,Democratic,687,44.237,False,False
+169108,WV,George Miller,Republican,4315,68.329,True,False
+169108,WV,Ashley Braner,Democratic,2000,31.671,False,False
+169273,WV,Teresa Cook,Nonpartisan,167,66.534,False,False
+169273,WV,Jolita Raine,Nonpartisan,84,33.466,False,False
+169215,WV,Bill Horton,Democratic,434,58.57,False,False
+169215,WV,John E. Golden,Republican,307,41.43,False,False
+169092,WV,Guy Ward,Republican,3115,59.515,True,False
+169092,WV,Frankie Delapas,Democratic,2119,40.485,False,False
+169135,WV,Trey Corwell,Republican,1065,62.244,False,False
+169135,WV,Greg Fitzwater,Democratic,646,37.756,False,False
+169210,WV,Kathleen Fox Walker,Democratic,334,100.0,False,False
+169246,WV,David A. Pfeifer,Republican,9900,100.0,False,False
+169162,WV,Susan Thomas,Democratic,9455,54.059,False,False
+169162,WV,Martin Howe,Republican,8035,45.941,False,False
+169065,WV,Ray Canterbury,Republican,2840,58.678,True,False
+169065,WV,Sarah Morris,Democratic,2000,41.322,False,False
+169013,WV,John Williams,Democratic,15590,55.114,True,False
+169013,WV,Mike Oliverio,Republican,11685,41.309,False,False
+169013,WV,Taylor Richmond,Libertarian,1012,3.578,False,False
+169120,WV,Joe Kinser,Nonpartisan,17170,60.863,False,False
+169120,WV,Richard D. Stephens,Nonpartisan,11041,39.137,False,False
+169055,WV,Marty Gearheart,Republican,2207,61.306,True,False
+169055,WV,Treyvon Simmons,Democratic,1393,38.694,False,False
+169163,WV,Yes,Nonpartisan,9961,57.886,False,False
+169163,WV,No,Nonpartisan,7247,42.114,False,False
+169014,WV,Jay Taylor,Republican,18405,67.735,True,False
+169014,WV,Jason Armentrout,Democratic,8767,32.265,False,False
+169050,WV,Josh Holstein,Republican,2121,50.986,False,False
+169050,WV,Jennifer Bias Bryant,Democratic,2039,49.014,False,False
+169285,WV,Christopher Lefler,Republican,12647,100.0,False,False
+169226,WV,Tony Robison,Nonpartisan,137,13.551,False,False
+169226,WV,Tammy Killen,Nonpartisan,123,12.166,False,False
+169226,WV,Bernard Hager,Nonpartisan,103,10.188,False,False
+169226,WV,Chris Zeto,Nonpartisan,103,10.188,False,False
+169226,WV,Adam Dingess,Nonpartisan,101,9.99,False,False
+169226,WV,Harry Freeman,Nonpartisan,99,9.792,False,False
+169226,WV,Benjamin Desrocher,Nonpartisan,95,9.397,False,False
+169226,WV,Larry R Mullins,Nonpartisan,93,9.199,False,False
+169226,WV,Robin M Mutters,Nonpartisan,80,7.913,False,False
+169226,WV,Judy Vance,Nonpartisan,44,4.352,False,False
+169226,WV,Clabe Sheppard,Nonpartisan,33,3.264,False,False
+169104,WV,Steven Schetrom,Republican,3530,69.516,True,False
+169104,WV,Betsy Orndoff-Sayers,Democratic,1548,30.484,False,False
+169269,WV,Scott Edwards,Nonpartisan,1395,100.0,False,False
+169211,WV,Laura Marker,Republican,258,57.978,False,False
+169211,WV,JW Jeff Williamson,Democratic,187,42.022,False,False
+169286,WV,Russ Collett,Republican,4009,55.875,False,False
+169286,WV,Steve Wamsley,Democratic,3166,44.125,False,False
+169227,WV,Brandon Flower,Nonpartisan,9148,64.071,False,False
+169227,WV,Brian Stewart,Nonpartisan,5130,35.929,False,False
+169137,WV,Barry Crist,Republican,6237,100.0,False,False
+169270,WV,Linda Gibson,Nonpartisan,1352,100.0,False,False
+169313,WV,Fred Newberry,Nonpartisan,305,100.0,False,False
+169132,WV,Maria Arnold,Democratic,897,56.989,False,False
+169132,WV,Taylor Green,Republican,677,43.011,False,False
+169207,WV,Adam Strider,Democratic,2300,57.716,False,False
+169207,WV,Nick Munoz,Republican,1685,42.284,False,False
+169116,WV,Joe Funkhouser,Republican,2976,54.436,True,False
+169116,WV,Marta Beck,Democratic,2491,45.564,False,False
+169051,WV,Chris Tipton,Republican,2260,67.162,True,False
+169051,WV,Michael B. Browning,Democratic,638,18.96,False,False
+169051,WV,Leroy Dehart,Independent,467,13.878,False,False
+169191,WV,Beth Kerns,Democratic,418,100.0,False,False
+169133,WV,Ronnie Dakota Laughlin,Republican,844,53.216,False,False
+169133,WV,Samantha Jarvis,Democratic,742,46.784,False,False
+169074,WV,Kayla Young,Democratic,3965,100.0,True,False
+169016,WV,Jason Barrett,Republican,18636,61.323,True,False
+169016,WV,Travis L. Bost,Libertarian,11754,38.677,False,False
+169117,WV,Regina Dyer,Democratic,3661,55.177,True,False
+169117,WV,Wayne M. Clark,Republican,2974,44.823,False,False
+169192,WV,Malyka Knapp-Smith,Democratic,310,79.487,False,False
+169192,WV,Linda Suson,Republican,80,20.513,False,False
+169011,WV,Bill Hamilton,Republican,17295,68.249,True,False
+169011,WV,Kevin Leon Carpenter,Democratic,8046,31.751,False,False
+169047,WV,Henry Corby Dillon,Republican,1776,66.717,True,False
+169047,WV,Wendy Coleman,Democratic,886,33.283,False,False
+169187,WV,Chuck Overstreet,Democratic,601,100.0,False,False
+169090,WV,Clay Riley,Republican,3127,100.0,True,False
+169031,WV,Melissa McCrady,Republican,2491,59.837,True,False
+169031,WV,Marley Umensetter,Democratic,1296,31.131,False,False
+169031,WV,James Hendershot Jr.,Independent,376,9.032,False,False
+169012,WV,Ben Queen,Republican,16876,62.474,True,False
+169012,WV,Lynette Murray,Democratic,10137,37.526,False,False
+169145,WV,Eric Squires,Democratic,857,54.69,False,False
+169145,WV,Josh James,Republican,710,45.31,False,False
+169272,WV,William Wimpy Jones,Nonpartisan,207,74.729,False,False
+169272,WV,Maranda Raine,Nonpartisan,70,25.271,False,False
+169188,WV,Larry Moore,Democratic,375,100.0,False,False
+169032,WV,Dave Foggin,Republican,3388,70.203,True,False
+169032,WV,Crystal Butcher,Democratic,1438,29.797,False,False
+169267,WV,Ashley Craig,Nonpartisan,209,100.0,False,False
+169310,WV,No,Nonpartisan,1378,73.848,False,False
+169310,WV,Yes,Nonpartisan,488,26.152,False,False
+169251,WV,Frank D Devono Sr.,Nonpartisan,20077,100.0,False,False
+169161,WV,Steve Johnson,Republican,9476,54.428,False,False
+169161,WV,Doug Cornelius,Democratic,7934,45.572,False,False
+169070,WV,Tresa Howell,Republican,2198,50.844,False,False
+169070,WV,Joyce Brown,Democratic,2125,49.156,False,False
+169024,WV,Don Dewitt,Republican,2565,50.842,False,False
+169024,WV,Cody Cumpston,Democratic,2480,49.158,False,False
+169119,WV,Kris Raynes,Nonpartisan,7029,48.416,False,False
+169119,WV,Brenden David Long,Nonpartisan,3239,22.31,False,False
+169119,WV,A. Shawn D. Bayliss,Nonpartisan,2625,18.081,False,False
+169119,WV,Ryanne A. Ball,Nonpartisan,1625,11.193,False,False
+169252,WV,Yes,Nonpartisan,18497,67.284,False,False
+169252,WV,No,Nonpartisan,8994,32.716,False,False
+169071,WV,Tristan Leavitt,Republican,2193,51.93,False,False
+169071,WV,Keena Mullins,Democratic,2030,48.07,False,False
+169114,WV,Katie Rose,Republican,2246,49.082,True,False
+169114,WV,Lisa Cathro,Democratic,1908,41.696,False,False
+169114,WV,Becky Jane Dunmire,Constitution,422,9.222,False,False
+169157,WV,Michael P Phillips,Republican,1398,33.437,False,False
+169157,WV,Shawna M Crites,Democratic,1225,29.299,False,False
+169157,WV,Doug M Mongold,Independent,997,23.846,False,False
+169157,WV,Hunter Flinn,Nonpartisan,561,13.418,False,False
+169290,WV,Benjamin Shamblin,Republican,2142,73.306,False,False
+169290,WV,Gabriel Boggs,Libertarian,780,26.694,False,False
+169008,WV,Lance Wheeler,Republican,12620,51.315,True,False
+169008,WV,Kim Hundley,Democratic,11973,48.685,False,False
+169141,WV,Justin Kinner,Nonpartisan,27,100.0,False,False
+169268,WV,Barbara Johns Reed,Nonpartisan,175,14.669,False,False
+169268,WV,Doug Pierson,Nonpartisan,174,14.585,False,False
+169268,WV,Gary Robert Tucker,Nonpartisan,137,11.484,False,False
+169268,WV,Loyle Beaver,Nonpartisan,132,11.065,False,False
+169268,WV,Leah Martin Higginbotham,Nonpartisan,127,10.645,False,False
+169268,WV,Sean Errett,Nonpartisan,119,9.975,False,False
+169268,WV,Terry Parsons,Nonpartisan,118,9.891,False,False
+169268,WV,Melanie Lacy,Nonpartisan,92,7.712,False,False
+169268,WV,Melissa Weaver,Nonpartisan,68,5.7,False,False
+169268,WV,Zack Cleary,Nonpartisan,51,4.275,False,False
+169190,WV,Michael Ferrell,Democratic,355,100.0,False,False
+169291,WV,Chad Stricklin,Republican,2011,63.943,False,False
+169291,WV,Stacy Ranae Callow,Democratic,1134,36.057,False,False
+169142,WV,Angela Gerald,Nonpartisan,27,100.0,False,False
+169217,WV,Bobby Stewart,Republican,3413,100.0,False,False
+169029,WV,Jeff S. Sandy,Republican,2677,54.4,True,False
+169029,WV,Daniel Miller,Democratic,2244,45.6,False,False
+169264,WV,Brian Ellis,Republican,9555,61.215,False,False
+169264,WV,David Edwards,Democratic,6054,38.785,False,False
+169020,WV,Tony Viola,Republican,2773,62.596,True,False
+169020,WV,Daniel Joseph Day,Democratic,1657,37.404,False,False
+169115,WV,Lucia Valentine,Democratic,3458,56.109,True,False
+169115,WV,S. Chris Anders,Republican,2705,43.891,False,False
+169280,WV,Scott R. Morris,Nonpartisan,439,22.77,False,False
+169280,WV,Dana L. Campbell,Nonpartisan,393,20.384,False,False
+169280,WV,Ryan C. Powers,Nonpartisan,381,19.761,False,False
+169280,WV,Kevin Karnes,Nonpartisan,376,19.502,False,False
+169280,WV,Reid Ramey,Nonpartisan,339,17.583,False,False
+169030,WV,Dennis V. Rempel,Democratic,1789,49.162,False,False
+169030,WV,Charles D. Hartzog,Republican,1633,44.875,False,False
+169030,WV,Stephen Thomas Smith,Libertarian,217,5.963,False,False
+169170,WV,Andrea Richmond-Board,Nonpartisan,11071,28.044,False,False
+169170,WV,Paris Workman,Nonpartisan,10054,25.468,False,False
+169170,WV,Earl Whittington,Nonpartisan,8420,21.329,False,False
+169170,WV,Nick Quinn,Nonpartisan,5663,14.345,False,False
+169170,WV,Wm. Bolts Willis,Nonpartisan,4269,10.814,False,False
+169073,WV,JB Akers,Republican,2906,50.53,False,False
+169073,WV,Anthony Dasaro,Democratic,2845,49.47,False,False
+169021,WV,Jimmy Willis,Republican,2345,53.03,True,False
+169021,WV,Mike Robinson,Democratic,1246,28.177,False,False
+169021,WV,Dave Cantrell,Independent,831,18.792,False,False
+169057,WV,Samuel Lusk,Republican,2858,72.3,True,False
+169057,WV,Brianna A Pearcy,Democratic,840,21.25,False,False
+169057,WV,Ronnie Oakley,Nonpartisan,255,6.451,False,False
+169068,WV,Mathew Anderson,Democratic,1589,56.228,True,False
+169068,WV,Tom Louisos,Independent,835,29.547,False,False
+169068,WV,Stacey L Hensley,Constitution,402,14.225,False,False
+169111,WV,Mike Hornby,Republican,2114,57.043,True,False
+169111,WV,Tara B McCoy,Constitution,1592,42.957,False,False
+169276,WV,Leilani Dailey,Nonpartisan,97,100.0,False,False
+169218,WV,James Flesher,Republican,2771,67.192,False,False
+169218,WV,Sandra Frame,Democratic,1353,32.808,False,False
+169095,WV,Joe Statler,Republican,3168,61.419,True,False
+169095,WV,Patricia Andrea Bunner,Democratic,1990,38.581,False,False
+169069,WV,Cy Persinger,Republican,2613,60.402,True,False
+169069,WV,Colby A. Lopez,Democratic,1713,39.598,False,False
+169234,WV,Ronald J. Straight,Nonpartisan,2134,51.224,False,False
+169234,WV,Kandi Nuzum,Nonpartisan,2032,48.776,False,False
+169144,WV,Yes,Nonpartisan,109,81.343,False,False
+169144,WV,No,Nonpartisan,25,18.657,False,False
+169277,WV,Kalia Dailey,Nonpartisan,90,59.211,False,False
+169277,WV,Mark Erwin,Nonpartisan,62,40.789,False,False
+169096,WV,Michael Wendell,Democratic,3129,53.726,True,False
+169096,WV,Geno Chiarelli,Republican,2695,46.274,False,False
+169139,WV,Tara Tyree,Republican,6600,100.0,False,False
+169214,WV,Amanda Franklin,Democratic,418,100.0,False,False
+169315,WV,Jason Mullins,Republican,2860,100.0,False,False
+169250,WV,Julie A Knight,Democratic,16183,57.838,False,False
+169250,WV,Ronald Lytle,Republican,11797,42.162,False,False
+169166,WV,Yes,Nonpartisan,4839,61.494,False,False
+169166,WV,No,Nonpartisan,3030,38.506,False,False
+169140,WV,Robert Shirley Love,Republican,672,40.482,False,False
+169140,WV,William J Vest,Republican,568,34.217,False,False
+169140,WV,Austin Haynes,Republican,420,25.301,False,False
+169081,WV,Lori Cowger Dittman,Republican,2594,65.921,True,False
+169081,WV,Kevin Westley Carpenter,Democratic,1341,34.079,False,False
+169023,WV,Karen Shuler Stakem,Democratic,2874,59.701,True,False
+169023,WV,Beth Hinebaugh,Republican,1940,40.299,False,False
+169316,WV,Derek Laxton,Republican,2895,100.0,False,False
+169167,WV,Lanae Johnson,Democratic,10538,51.009,False,False
+169167,WV,Pasha Majdi,Republican,8237,39.871,False,False
+169167,WV,Tricia Jackson,Constitution,1884,9.12,False,False
+169018,WV,Richie Robb,Democratic,14787,53.239,True,False
+169018,WV,Anne B. Charnock,Republican,12988,46.761,False,False
+169054,WV,David Green,Republican,1354,56.37,True,False
+169054,WV,Katelynn Jordan,Democratic,1048,43.63,False,False
+169194,WV,Chelsea Steelhammer,Democratic,561,100.0,False,False
+169289,WV,Angie Hardbarger,Republican,2053,100.0,False,False
+169230,WV,Rebecca Moran,Nonpartisan,3677,100.0,False,False
+169152,WV,Matt Ford,Republican,7183,100.0,False,False
+169279,WV,David Wayne Mattocks,Nonpartisan,523,100.0,False,False
+169195,WV,Shannon Adair Snodgrass,Democratic,622,100.0,False,False
+169231,WV,Donna Wade,Nonpartisan,1607,40.519,False,False
+169231,WV,Fran Warner,Nonpartisan,1283,32.35,False,False
+169231,WV,David Ice,Nonpartisan,1076,27.131,False,False
+169274,WV,Drema Ward,Nonpartisan,161,18.213,False,False
+169274,WV,Helen L. Martin,Nonpartisan,157,17.76,False,False
+169274,WV,Gig Cullifer,Nonpartisan,152,17.195,False,False
+169274,WV,Shawn Milam,Nonpartisan,145,16.403,False,False
+169274,WV,Tori Silman,Nonpartisan,144,16.29,False,False
+169274,WV,Gary Graley,Nonpartisan,125,14.14,False,False
+169093,WV,Linda Longstreth,Democratic,2772,52.76,True,False
+169093,WV,Phil Mallow,Republican,2482,47.24,False,False
+169034,WV,Frederick Happy Joe Parsons,Republican,3574,68.837,True,False
+169034,WV,Jason M. Barr,Democratic,1618,31.163,False,False
+169136,WV,Royce Todd,Republican,1353,100.0,False,False
+169077,WV,Andy Shamblin,Republican,2659,59.995,True,False
+169077,WV,Howard Claytor III,Democratic,1773,40.005,False,False
+169019,WV,Pat McGeehan,Republican,3675,70.782,True,False
+169019,WV,Quincy Wilson,Democratic,1517,29.218,False,False
+87474,WV,Riley Moore,Republican,144109,59.372,True,False
+87474,WV,Ace Parsi,Democratic,98615,40.628,False,False
+87477,WV,Shelley Moore Capito,Republican,266772,58.297,True,False
+87477,WV,Rachel Fetty Anderson,Democratic,173656,37.948,False,False
+87477,WV,S. Marshall Wilson,Constitution,17183,3.755,False,False
+87473,WV,Carol Miller,Republican,119087,57.058,True,False
+87473,WV,Vince George,Democratic,82705,39.626,False,False
+87473,WV,Belinda Fox-Spencer,Constitution,6921,3.316,False,False

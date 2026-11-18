@@ -1,0 +1,515 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+87111,ID,Idaho State Treasurer,2026-11-03,99.9,2026-11-04T06:53:42.308Z,False,2,44,698415,2026-11-18T13:18+00:00
+87109,ID,Idaho Secretary of State,2026-11-03,99.9,2026-11-04T06:53:42.308Z,False,2,44,703509,2026-11-18T13:18+00:00
+87110,ID,Idaho Superintendent of Public Instruction,2026-11-03,99.9,2026-11-17T03:50:43.245Z,False,3,44,700079,2026-11-18T13:18+00:00
+179002,ID,Idaho Proposition 1: Reproductive Freedom & Privacy Act,2026-11-03,99.9,,False,2,44,726307,2026-11-18T13:18+00:00
+179003,ID,Idaho Advisory Question: House Bill 932,2026-11-03,99.9,2026-11-17T03:50:43.245Z,False,6,44,530448,2026-11-18T13:18+00:00
+87107,ID,Idaho Lieutenant Governor,2026-11-03,99.9,,False,2,44,704597,2026-11-18T13:18+00:00
+152100,ID,Idaho State Controller,2026-11-03,99.9,2026-11-17T03:50:43.245Z,False,2,44,699924,2026-11-18T13:18+00:00
+87106,ID,Idaho Governor,2026-11-03,98.6,2026-11-04T05:46:58.308Z,False,7,44,717758,2026-11-18T13:18+00:00
+159520,ID,Idaho State House,2026-11-03,98.5,,False,5,70,1361652,2026-11-18T13:18+00:00
+179001,ID,Idaho Constitutional Amendment: House Joint Resolution 6,2026-11-03,99.9,,False,2,44,711337,2026-11-18T13:18+00:00
+159521,ID,Idaho State Senate,2026-11-03,97.1,,False,4,35,685229,2026-11-18T13:18+00:00
+179000,ID,Idaho Constitutional Amendment: House Joint Resolution 4,2026-11-03,99.9,,False,2,44,713789,2026-11-18T13:18+00:00
+87108,ID,Idaho Attorney General,2026-11-03,99.9,,False,2,44,707722,2026-11-18T13:18+00:00
+152274,ID,Elmore County Commissioner District 2,2026-11-03,99.9,,False,1,1,6213,2026-11-18T13:18+00:00
+152213,ID,Valley County Commissioner District 1,2026-11-03,99.9,,False,2,1,5928,2026-11-18T13:18+00:00
+152368,ID,Valley County Treasurer,2026-11-03,99.9,,False,1,1,4654,2026-11-18T13:18+00:00
+152516,ID,Ada County Magistrate Judge Theodore Tollefson Retention,2026-11-03,99.9,,False,2,1,140901,2026-11-18T13:18+00:00
+152379,ID,Washington County Treasurer,2026-11-03,99.9,,False,1,1,3873,2026-11-18T13:18+00:00
+152118,ID,Idaho State Senate 18,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,1,1,15719,2026-11-18T13:18+00:00
+179068,ID,Lincoln County Joint School Dist No. 261 Supp Levy,2026-11-03,0,,False,2,1,0,2026-11-18T13:18+00:00
+152136,ID,Idaho State House 1 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,2,25753,2026-11-18T13:18+00:00
+152383,ID,Bear Lake County Treasurer,2026-11-03,99.9,,False,1,1,2249,2026-11-18T13:18+00:00
+179017,ID,Marsh Valley Joint School District Supplemental Levy,2026-11-03,99.9,,False,2,1,2880,2026-11-18T13:18+00:00
+152462,ID,Madison County Coroner,2026-11-03,99.9,,False,1,1,10099,2026-11-18T13:18+00:00
+152401,ID,Benewah County Assessor,2026-11-03,90.9,,False,1,1,2948,2026-11-18T13:18+00:00
+179035,ID,Bonner County Westside Fire Protection District,2026-11-03,99.9,,False,2,1,1741,2026-11-18T13:18+00:00
+152480,ID,College of Eastern Idaho Trustee Zone 3,2026-11-03,99.9,,False,1,1,20800,2026-11-18T13:18+00:00
+152419,ID,Idaho County Assessor,2026-11-03,99.9,,False,1,1,6803,2026-11-18T13:18+00:00
+152158,ID,Idaho State House 12 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,1,17210,2026-11-18T13:18+00:00
+179019,ID,Payette Joint School District Supplemental Levy,2026-11-03,99.9,,False,2,2,3421,2026-11-18T13:18+00:00
+152496,ID,Bonner County Magistrate Judge Luke Hagelberg Retention,2026-11-03,99.9,,False,2,1,17676,2026-11-18T13:18+00:00
+152196,ID,Idaho State House 31 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,4,20079,2026-11-18T13:18+00:00
+152514,ID,Cassia County Magistrate Judge Scott B. Lindstrom Retention,2026-11-03,99.9,,False,2,1,6371,2026-11-18T13:18+00:00
+152214,ID,Twin Falls County Commissioner District 1,2026-11-03,99.9,,False,2,1,26896,2026-11-18T13:18+00:00
+152308,ID,Gooding County Clerk,2026-11-03,99.9,,False,1,1,3680,2026-11-18T13:18+00:00
+152232,ID,Kootenai County Commissioner District 1,2026-11-03,99.9,,False,1,1,54279,2026-11-18T13:18+00:00
+152518,ID,Bonneville County Magistrate Judge Wiley R. Dennert Retention,2026-11-03,99.9,,False,2,1,30351,2026-11-18T13:18+00:00
+152442,ID,Bear Lake County Coroner,2026-11-03,99.9,,False,1,1,2254,2026-11-18T13:18+00:00
+152120,ID,Idaho State Senate 20,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,1,22961,2026-11-18T13:18+00:00
+152460,ID,Gooding County Coroner,2026-11-03,99.9,,False,1,1,3726,2026-11-18T13:18+00:00
+179055,ID,Idaho County Clearwater Valley School District #245,2026-11-03,99.9,,False,2,1,1916,2026-11-18T13:18+00:00
+152138,ID,Idaho State House 2 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,5,22534,2026-11-18T13:18+00:00
+152478,ID,North Idaho College Trustee Zone 2,2026-11-03,99.9,,False,1,1,41114,2026-11-18T13:18+00:00
+152178,ID,Idaho State House 22 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,1,25036,2026-11-18T13:18+00:00
+152444,ID,Boundary County Coroner,2026-11-03,99.9,,False,1,1,4802,2026-11-18T13:18+00:00
+179071,ID,Payette County Ambulance District - Temporary Supplemental Levy,2026-11-03,99.9,,False,2,1,8589,2026-11-18T13:18+00:00
+152107,ID,Idaho State Senate 7,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,3,20349,2026-11-18T13:18+00:00
+152194,ID,Idaho State House 30 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,1,2,13612,2026-11-18T13:18+00:00
+179020,ID,Plummer-Worley Joint School District Supplemental Levy,2026-11-03,83.3,,False,2,2,1190,2026-11-18T13:18+00:00
+152404,ID,Gem County Assessor,2026-11-03,99.9,,False,1,1,6956,2026-11-18T13:18+00:00
+152143,ID,Idaho State House 4 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,1,18750,2026-11-18T13:18+00:00
+152422,ID,Lincoln County Assessor,2026-11-03,99.9,,False,1,1,1218,2026-11-18T13:18+00:00
+152161,ID,Idaho State House 13 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,1,16345,2026-11-18T13:18+00:00
+152216,ID,Jerome County Commissioner District 1,2026-11-03,99.9,,False,1,1,4407,2026-11-18T13:18+00:00
+179042,ID,Boundary County Special Hospital Tax Levy,2026-11-03,99.9,,False,2,1,5665,2026-11-18T13:18+00:00
+152295,ID,Shoshone County Sheriff,2026-11-03,99.9,,False,1,1,3931,2026-11-18T13:18+00:00
+152234,ID,Fremont County Commissioner District 1,2026-11-03,99.9,,False,1,1,4424,2026-11-18T13:18+00:00
+179053,ID,Franklin County Preston City Special Revenue Bond Election,2026-11-03,99.9,,False,2,1,1638,2026-11-18T13:18+00:00
+152313,ID,Boise County Clerk,2026-11-03,99.9,,False,1,1,3269,2026-11-18T13:18+00:00
+152311,ID,Camas County Clerk,2026-11-03,99.9,,False,1,1,465,2026-11-18T13:18+00:00
+152203,ID,Idaho State House 34 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,1,1,9996,2026-11-18T13:18+00:00
+179044,ID,Camas County School District No. 121 Supplemental Levy Question 2,2026-11-03,99.9,,False,2,1,540,2026-11-18T13:18+00:00
+152329,ID,Fremont County Clerk,2026-11-03,99.9,,False,1,1,4456,2026-11-18T13:18+00:00
+152445,ID,Idaho County Coroner,2026-11-03,99.9,,False,1,1,6871,2026-11-18T13:18+00:00
+152123,ID,Idaho State Senate 23,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,3,20060,2026-11-18T13:18+00:00
+152463,ID,Valley County Coroner,2026-11-03,99.9,,False,1,1,4530,2026-11-18T13:18+00:00
+152333,ID,Power County Clerk,2026-11-03,99.9,,False,1,1,2118,2026-11-18T13:18+00:00
+152481,ID,College of Western Idaho Trustee Zone 4,2026-11-03,99.9,,False,1,2,172874,2026-11-18T13:18+00:00
+179022,ID,Spirit Lake Fire Protection District Permanent Override Levy,2026-11-03,99.9,,False,2,2,4317,2026-11-18T13:18+00:00
+152275,ID,Lemhi County Commissioner District 2,2026-11-03,99.9,,False,1,1,3234,2026-11-18T13:18+00:00
+152391,ID,Bannock County Assessor,2026-11-03,99.9,,False,1,1,23778,2026-11-18T13:18+00:00
+152145,ID,Idaho State House 5 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,1,20877,2026-11-18T13:18+00:00
+152101,ID,Idaho State Senate 1,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,2,25908,2026-11-18T13:18+00:00
+152409,ID,Jefferson County Assessor,2026-11-03,99.9,,False,1,1,9945,2026-11-18T13:18+00:00
+152163,ID,Idaho State House 14 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,2,28156,2026-11-18T13:18+00:00
+152407,ID,Bear Lake County Assessor,2026-11-03,99.9,,False,1,1,2214,2026-11-18T13:18+00:00
+179009,ID,Fremont Joint School District Supplemental Levy,2026-11-03,99.9,,False,2,2,4402,2026-11-18T13:18+00:00
+152277,ID,Power County Commissioner District 2,2026-11-03,99.9,,False,1,1,2150,2026-11-18T13:18+00:00
+152425,ID,Valley County Assessor,2026-11-03,99.9,,False,1,1,4517,2026-11-18T13:18+00:00
+152356,ID,Bonner County Treasurer,2026-11-03,99.9,,False,1,1,16925,2026-11-18T13:18+00:00
+152219,ID,Boise County Commissioner District 1,2026-11-03,99.9,,False,1,1,3251,2026-11-18T13:18+00:00
+179045,ID,Canyon County Vehicle Registration Fee Adoption,2026-11-03,99.9,,False,2,1,62393,2026-11-18T13:18+00:00
+152237,ID,Oneida County Commissioner District 1,2026-11-03,99.9,,False,1,1,1453,2026-11-18T13:18+00:00
+179056,ID,Idaho County City of Riggins,2026-11-03,99.9,,False,2,1,166,2026-11-18T13:18+00:00
+152447,ID,Jerome County Coroner,2026-11-03,99.9,,False,1,1,4385,2026-11-18T13:18+00:00
+152179,ID,Idaho State House 22 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,1,25079,2026-11-18T13:18+00:00
+152110,ID,Idaho State Senate 10,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,2,27396,2026-11-18T13:18+00:00
+152465,ID,Bonneville County Coroner,2026-11-03,99.9,,False,1,1,25548,2026-11-18T13:18+00:00
+152197,ID,Idaho State House 31 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,4,20098,2026-11-18T13:18+00:00
+152128,ID,Idaho State Senate 28,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,3,18575,2026-11-18T13:18+00:00
+152483,ID,College of Southern Idaho Trustee Zone 5,2026-11-03,99.9,,False,1,2,23476,2026-11-18T13:18+00:00
+152434,ID,Owyhee County Coroner,2026-11-03,99.9,,False,1,1,3179,2026-11-18T13:18+00:00
+152181,ID,Idaho State House 23 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,3,20037,2026-11-18T13:18+00:00
+152336,ID,Adams County Clerk,2026-11-03,99.9,,False,1,1,1802,2026-11-18T13:18+00:00
+152260,ID,Caribou County Commissioner District 2,2026-11-03,99.9,,False,1,1,2230,2026-11-18T13:18+00:00
+152354,ID,Kootenai County Treasurer,2026-11-03,99.9,,False,1,1,53436,2026-11-18T13:18+00:00
+152278,ID,Butte County Commissioner District 2,2026-11-03,99.9,,False,1,1,1011,2026-11-18T13:18+00:00
+152148,ID,Idaho State House 7 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,3,20318,2026-11-18T13:18+00:00
+152296,ID,Teton County Clerk,2026-11-03,99.9,,False,1,1,4447,2026-11-18T13:18+00:00
+152358,ID,Lincoln County Treasurer,2026-11-03,99.9,,False,1,1,1225,2026-11-18T13:18+00:00
+152506,ID,Minidoka County Magistrate Judge Douglas G. Abenroth Retention,2026-11-03,99.9,,False,2,1,5496,2026-11-18T13:18+00:00
+152206,ID,Latah County Commissioner District 1,2026-11-03,99.9,,False,2,1,15271,2026-11-18T13:18+00:00
+179047,ID,Canyon County City of Nampa Levy,2026-11-03,99.9,,False,2,1,23313,2026-11-18T13:18+00:00
+152108,ID,Idaho State Senate 8,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,1,4,14948,2026-11-18T13:18+00:00
+152224,ID,Shoshone County Commissioner District 1,2026-11-03,99.9,,False,1,1,3761,2026-11-18T13:18+00:00
+179058,ID,Jefferson County School District No. 253 Supplemental Levy,2026-11-03,99.9,,False,2,1,712,2026-11-18T13:18+00:00
+152126,ID,Idaho State Senate 26,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,3,3,18974,2026-11-18T13:18+00:00
+152508,ID,Bonneville County Magistrate Judge John C. Dewey Retention,2026-11-03,99.9,,False,2,1,29800,2026-11-18T13:18+00:00
+152240,ID,Clark County Commissioner District 1,2026-11-03,99.9,,False,1,1,226,2026-11-18T13:18+00:00
+152363,ID,Boundary County Treasurer,2026-11-03,99.9,,False,1,1,4705,2026-11-18T13:18+00:00
+152258,ID,Fremont County Commissioner District 2,2026-11-03,99.9,,False,1,1,4348,2026-11-18T13:18+00:00
+152182,ID,Idaho State House 24 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,3,17586,2026-11-18T13:18+00:00
+152468,ID,Teton County Coroner,2026-11-03,99.9,,False,1,1,4607,2026-11-18T13:18+00:00
+152392,ID,Twin Falls County Assessor,2026-11-03,99.9,,False,1,1,20525,2026-11-18T13:18+00:00
+152486,ID,Ada County Magistrate Judge Daniel David Lorello Retention,2026-11-03,99.9,,False,2,1,140787,2026-11-18T13:18+00:00
+179081,ID,Latah County School Plant Facilities Reserve Fund Levy Moscow School District No. 281,2026-11-03,99.9,,False,2,1,10713,2026-11-18T13:18+00:00
+152280,ID,Bear Lake County Commissioner District 2,2026-11-03,99.9,,False,1,1,2166,2026-11-18T13:18+00:00
+152204,ID,Idaho State House 35 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,5,21389,2026-11-18T13:18+00:00
+179030,ID,Bear Lake Fire District Levy,2026-11-03,0,,False,2,1,0,2026-11-18T13:18+00:00
+152298,ID,Nez Perce County Clerk,2026-11-03,99.9,,False,3,1,14939,2026-11-18T13:18+00:00
+152222,ID,Gem County Commissioner District 1,2026-11-03,99.9,,False,1,1,6982,2026-11-18T13:18+00:00
+152153,ID,Idaho State House 9 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,3,18994,2026-11-18T13:18+00:00
+179083,ID,Supplemental Levy Election Teton School District No. 401,2026-11-03,99.9,,False,2,1,6061,2026-11-18T13:18+00:00
+152151,ID,Idaho State House 8 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,4,19202,2026-11-18T13:18+00:00
+152267,ID,Madison County Commissioner District 2,2026-11-03,99.9,,False,1,1,9992,2026-11-18T13:18+00:00
+152169,ID,Idaho State House 17 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,1,19917,2026-11-18T13:18+00:00
+152509,ID,Kootenai County Magistrate Judge Mayli A. Walsh Retention,2026-11-03,99.9,,False,2,1,49835,2026-11-18T13:18+00:00
+152372,ID,Clark County Treasurer,2026-11-03,99.9,,False,1,1,235,2026-11-18T13:18+00:00
+152111,ID,Idaho State Senate 11,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,3,1,12860,2026-11-18T13:18+00:00
+179061,ID,Kootenai County City of Harrison Local Option Non-Property Sales Tax Increase,2026-11-03,99.9,,False,2,1,126,2026-11-18T13:18+00:00
+152129,ID,Idaho State Senate 29,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,1,18070,2026-11-18T13:18+00:00
+152184,ID,Idaho State House 25 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,1,14374,2026-11-18T13:18+00:00
+179010,ID,Genesee Joint School District Supplemental Levy,2026-11-03,99.9,,False,2,2,805,2026-11-18T13:18+00:00
+152455,ID,Power County Coroner,2026-11-03,99.9,,False,1,1,2177,2026-11-18T13:18+00:00
+152394,ID,Fremont County Assessor,2026-11-03,99.9,,False,1,1,4478,2026-11-18T13:18+00:00
+179028,ID,Adams County Meadows Valley School District No. 11 Supplemental Levy,2026-11-03,99.9,,False,2,1,829,2026-11-18T13:18+00:00
+152473,ID,Jerome County Prosecuting Attorney,2026-11-03,99.9,,False,1,1,4283,2026-11-18T13:18+00:00
+152471,ID,Twin Falls County Coroner,2026-11-03,99.9,,False,1,1,20581,2026-11-18T13:18+00:00
+152171,ID,Idaho State House 18 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,1,18015,2026-11-18T13:18+00:00
+179012,ID,Grace Joint School District Supplemental Levy,2026-11-03,99.9,,False,2,2,822,2026-11-18T13:18+00:00
+152489,ID,Valley County Magistrate Judge Adam Dingeldein Retention,2026-11-03,99.9,,False,2,1,4659,2026-11-18T13:18+00:00
+152189,ID,Idaho State House 27 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,1,3,12595,2026-11-18T13:18+00:00
+152283,ID,Nez Perce County Commissioner District 2,2026-11-03,99.9,,False,1,1,12442,2026-11-18T13:18+00:00
+152207,ID,Ada County Commissioner District 1,2026-11-03,99.9,,False,2,1,219008,2026-11-18T13:18+00:00
+152301,ID,Benewah County Clerk,2026-11-03,90.9,,False,1,1,2344,2026-11-18T13:18+00:00
+152225,ID,Bingham County Commissioner District 1,2026-11-03,99.9,,False,1,1,12549,2026-11-18T13:18+00:00
+152511,ID,Ada County Magistrate Judge Nathan Samuel Eilert Retention,2026-11-03,99.9,,False,2,1,144081,2026-11-18T13:18+00:00
+152435,ID,Clearwater County Coroner,2026-11-03,99.9,,False,1,1,2813,2026-11-18T13:18+00:00
+179037,ID,Bonner County City of Dover,2026-11-03,99.9,,False,2,1,492,2026-11-18T13:18+00:00
+152113,ID,Idaho State Senate 13,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,1,16410,2026-11-18T13:18+00:00
+152261,ID,Jerome County Commissioner District 2,2026-11-03,99.9,,False,1,1,4444,2026-11-18T13:18+00:00
+152377,ID,Gem County Treasurer,2026-11-03,99.9,,False,1,1,7158,2026-11-18T13:18+00:00
+152131,ID,Idaho State Senate 31,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,4,20187,2026-11-18T13:18+00:00
+152498,ID,Bannock County Magistrate Judge Scott E Axline Retention,2026-11-03,99.9,,False,2,1,27865,2026-11-18T13:18+00:00
+152437,ID,Lewis County Coroner,2026-11-03,99.9,,False,1,1,1311,2026-11-18T13:18+00:00
+179064,ID,Kootenai County Northern Lakes Fire Protection District Special Tax Levy,2026-11-03,99.9,,False,2,1,19201,2026-11-18T13:18+00:00
+152324,ID,Gem County Clerk,2026-11-03,99.9,,False,1,1,6968,2026-11-18T13:18+00:00
+152187,ID,Idaho State House 26 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,3,18822,2026-11-18T13:18+00:00
+179013,ID,Highland Joint School District Plant Facility Levy,2026-11-03,99.9,,False,2,3,643,2026-11-18T13:18+00:00
+152397,ID,Boise County Assessor,2026-11-03,99.9,,False,1,1,3283,2026-11-18T13:18+00:00
+179031,ID,Blaine County City of Bellevue Alderman,2026-11-03,0,,False,3,1,0,2026-11-18T13:18+00:00
+152191,ID,Idaho State House 28 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,3,18446,2026-11-18T13:18+00:00
+152346,ID,Nez Perce County Treasurer,2026-11-03,99.9,,False,1,1,10845,2026-11-18T13:18+00:00
+152270,ID,Bonner County Commissioner District 2,2026-11-03,99.9,,False,1,1,16498,2026-11-18T13:18+00:00
+152209,ID,Blaine County Commissioner District 1,2026-11-03,99.9,,False,2,1,11406,2026-11-18T13:18+00:00
+152364,ID,Camas County Treasurer,2026-11-03,99.9,,False,1,1,468,2026-11-18T13:18+00:00
+152288,ID,Jefferson County Commissioner District 2,2026-11-03,99.9,,False,1,1,9733,2026-11-18T13:18+00:00
+152227,ID,Caribou County Commissioner District 1,2026-11-03,99.9,,False,1,1,2249,2026-11-18T13:18+00:00
+152375,ID,Oneida County Treasurer,2026-11-03,99.9,,False,1,1,1457,2026-11-18T13:18+00:00
+152348,ID,Custer County Treasurer,2026-11-03,99.9,,False,1,1,1746,2026-11-18T13:18+00:00
+152304,ID,Bear Lake County Clerk,2026-11-03,99.9,,False,1,1,2202,2026-11-18T13:18+00:00
+152420,ID,Minidoka County Assessor,2026-11-03,99.9,,False,1,1,5068,2026-11-18T13:18+00:00
+152322,ID,Madison County Clerk,2026-11-03,99.9,,False,1,1,10072,2026-11-18T13:18+00:00
+152438,ID,Minidoka County Coroner,2026-11-03,99.9,,False,1,1,5020,2026-11-18T13:18+00:00
+152116,ID,Idaho State Senate 16,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,1,20674,2026-11-18T13:18+00:00
+152456,ID,Lemhi County Coroner,2026-11-03,99.9,,False,1,1,3216,2026-11-18T13:18+00:00
+152326,ID,Oneida County Clerk,2026-11-03,99.9,,False,1,1,1424,2026-11-18T13:18+00:00
+152250,ID,Canyon County Commissioner District 2,2026-11-03,99.9,,False,2,1,63574,2026-11-18T13:18+00:00
+152174,ID,Idaho State House 20 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,1,22944,2026-11-18T13:18+00:00
+179015,ID,Kootenai School District Supplemental Levy,2026-11-03,99.9,,False,2,2,1102,2026-11-18T13:18+00:00
+152268,ID,Clark County Commissioner District 2,2026-11-03,99.9,,False,1,1,225,2026-11-18T13:18+00:00
+152384,ID,Nez Perce County Assessor,2026-11-03,99.9,,False,1,1,10824,2026-11-18T13:18+00:00
+179033,ID,Blaine County City of Ketchum Local Option Tax,2026-11-03,99.9,,False,2,1,2007,2026-11-18T13:18+00:00
+152286,ID,Franklin County Commissioner District 2,2026-11-03,99.9,,False,1,1,4005,2026-11-18T13:18+00:00
+179073,ID,Twin Falls County Hansen School District No. 415 Supplemental Levy,2026-11-03,99.9,,False,2,1,541,2026-11-18T13:18+00:00
+152252,ID,Shoshone County Commissioner District 2,2026-11-03,0,,False,4,1,0,2026-11-18T13:18+00:00
+152400,ID,Bingham County Assessor,2026-11-03,99.9,,False,1,1,12352,2026-11-18T13:18+00:00
+152331,ID,Bingham County Clerk,2026-11-03,99.9,,False,1,1,12641,2026-11-18T13:18+00:00
+152418,ID,Cassia County Assessor,2026-11-03,99.9,,False,1,1,5986,2026-11-18T13:18+00:00
+152349,ID,Twin Falls County Treasurer,2026-11-03,99.9,,False,1,1,20293,2026-11-18T13:18+00:00
+152212,ID,Canyon County Commissioner District 1,2026-11-03,99.9,,False,2,1,62363,2026-11-18T13:18+00:00
+179038,ID,Bonneville County City of Ammon Levy,2026-11-03,99.9,,False,2,1,6267,2026-11-18T13:18+00:00
+152230,ID,Washington County Commissioner District 1,2026-11-03,99.9,,False,1,1,3720,2026-11-18T13:18+00:00
+179049,ID,Canyon County Vallivue School District No. 139 School Plant Facilities Reserve Fund Levy,2026-11-03,99.9,,False,2,1,19018,2026-11-18T13:18+00:00
+152440,ID,Benewah County Coroner,2026-11-03,90.9,,False,1,1,3041,2026-11-18T13:18+00:00
+152172,ID,Idaho State House 19 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,1,29282,2026-11-18T13:18+00:00
+152103,ID,Idaho State Senate 3,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,1,25094,2026-11-18T13:18+00:00
+152458,ID,Elmore County Coroner,2026-11-03,99.9,,False,1,1,6232,2026-11-18T13:18+00:00
+152382,ID,Jerome County Treasurer,2026-11-03,99.9,,False,1,1,4402,2026-11-18T13:18+00:00
+152121,ID,Idaho State Senate 21,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,1,1,15399,2026-11-18T13:18+00:00
+179051,ID,Clark County School District 161 Supplemental Levy,2026-11-03,99.9,,False,2,1,228,2026-11-18T13:18+00:00
+152119,ID,Idaho State Senate 19,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,1,29377,2026-11-18T13:18+00:00
+152427,ID,Owyhee County Assessor,2026-11-03,99.9,,False,1,1,3201,2026-11-18T13:18+00:00
+152137,ID,Idaho State House 1 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,2,25873,2026-11-18T13:18+00:00
+152253,ID,Latah County Commissioner District 2,2026-11-03,99.9,,False,2,1,15227,2026-11-18T13:18+00:00
+179018,ID,Parma Rural Fire Protection District Temporary Levy,2026-11-03,99.9,,False,2,2,1938,2026-11-18T13:18+00:00
+152271,ID,Gem County Commissioner District 2,2026-11-03,99.9,,False,1,1,6877,2026-11-18T13:18+00:00
+152141,ID,Idaho State House 3 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,1,1,19450,2026-11-18T13:18+00:00
+152289,ID,Twin Falls County Commissioner District 2,2026-11-03,99.9,,False,1,1,20835,2026-11-18T13:18+00:00
+152351,ID,Caribou County Treasurer,2026-11-03,99.9,,False,1,1,2256,2026-11-18T13:18+00:00
+152499,ID,Bonneville County Magistrate Judge Tawnya Rawlings Retention,2026-11-03,99.9,,False,2,1,29649,2026-11-18T13:18+00:00
+152199,ID,Idaho State House 32 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,1,17292,2026-11-18T13:18+00:00
+179040,ID,Bonneville County Idaho Falls School District No. 91 Levy,2026-11-03,99.9,,False,2,1,21015,2026-11-18T13:18+00:00
+152517,ID,Kootenai County Magistrate Judge Tristan Poorman Retention,2026-11-03,99.9,,False,2,1,52925,2026-11-18T13:18+00:00
+152217,ID,Payette County Commissioner District 1,2026-11-03,99.9,,False,1,1,7561,2026-11-18T13:18+00:00
+152215,ID,Butte County Commissioner District 1,2026-11-03,99.9,,False,2,1,1139,2026-11-18T13:18+00:00
+152338,ID,Minidoka County Clerk,2026-11-03,99.9,,False,1,1,5061,2026-11-18T13:18+00:00
+152501,ID,Elmore County Magistrate Judge Brent A Ferguson Retention,2026-11-03,99.9,,False,2,1,6388,2026-11-18T13:18+00:00
+152233,ID,Bonneville County Commissioner District 1,2026-11-03,99.9,,False,1,1,26333,2026-11-18T13:18+00:00
+152164,ID,Idaho State House 15 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,1,20976,2026-11-18T13:18+00:00
+152443,ID,Custer County Coroner,2026-11-03,99.9,,False,1,1,1736,2026-11-18T13:18+00:00
+152175,ID,Idaho State House 20 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,1,22868,2026-11-18T13:18+00:00
+152461,ID,Bonner County Coroner,2026-11-03,99.9,,False,1,1,17148,2026-11-18T13:18+00:00
+152385,ID,Ada County Assessor,2026-11-03,99.9,,False,2,1,217178,2026-11-18T13:18+00:00
+152255,ID,Idaho County Commissioner District 2,2026-11-03,99.9,,False,2,1,7737,2026-11-18T13:18+00:00
+179074,ID,Twin Falls School District No. 411 Supplemental Levy,2026-11-03,99.9,,False,2,1,17238,2026-11-18T13:18+00:00
+179005,ID,Buhl Joint School District Supplemental Levy,2026-11-03,99.9,,False,2,2,2990,2026-11-18T13:18+00:00
+152273,ID,Lewis County Commissioner District 2,2026-11-03,99.9,,False,1,1,1342,2026-11-18T13:18+00:00
+152421,ID,Washington County Assessor,2026-11-03,99.9,,False,1,1,3756,2026-11-18T13:18+00:00
+179023,ID,Soda Springs School District Supplemental Levy,2026-11-03,99.9,,False,2,3,1528,2026-11-18T13:18+00:00
+152291,ID,Cassia County Commissioner District 2,2026-11-03,99.9,,False,1,1,6001,2026-11-18T13:18+00:00
+152242,ID,Lemhi County Commissioner District 1,2026-11-03,99.9,,False,1,1,3204,2026-11-18T13:18+00:00
+179076,ID,Washington County Weiser School District No. 431 School Plant Facilities Reserve Fund Levy,2026-11-03,99.9,,False,2,1,3319,2026-11-18T13:18+00:00
+152144,ID,Idaho State House 5 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,1,20951,2026-11-18T13:18+00:00
+152484,ID,Ada County Highway District Commissioner District 3,2026-11-03,99.9,,False,2,1,170658,2026-11-18T13:18+00:00
+152162,ID,Idaho State House 14 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,2,28088,2026-11-18T13:18+00:00
+152502,ID,Canyon County Magistrate Judge Chad Gulstrom Retention,2026-11-03,99.9,,False,2,1,50251,2026-11-18T13:18+00:00
+179043,ID,Camas County School District No. 121 Supplemental Levy Question 1,2026-11-03,99.9,,False,2,1,542,2026-11-18T13:18+00:00
+152104,ID,Idaho State Senate 4,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,1,18835,2026-11-18T13:18+00:00
+152166,ID,Idaho State House 16 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,1,20657,2026-11-18T13:18+00:00
+152314,ID,Bannock County Clerk,2026-11-03,99.9,,False,1,1,23793,2026-11-18T13:18+00:00
+152430,ID,Blaine County Coroner,2026-11-03,99.9,,False,1,1,9499,2026-11-18T13:18+00:00
+152177,ID,Idaho State House 21 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,1,20654,2026-11-18T13:18+00:00
+152332,ID,Bonner County Clerk,2026-11-03,99.9,,False,1,1,16733,2026-11-18T13:18+00:00
+152448,ID,Kootenai County Coroner,2026-11-03,99.9,,False,1,1,54288,2026-11-18T13:18+00:00
+152387,ID,Shoshone County Assessor,2026-11-03,99.9,,False,2,1,4575,2026-11-18T13:18+00:00
+179021,ID,Rock Creek Rural Fire Protection District Temporary Levy,2026-11-03,99.9,,False,2,2,4074,2026-11-18T13:18+00:00
+152316,ID,Kootenai County Clerk,2026-11-03,99.9,,False,1,1,54308,2026-11-18T13:18+00:00
+152464,ID,Bingham County Coroner,2026-11-03,99.9,,False,1,1,12779,2026-11-18T13:18+00:00
+179059,ID,Jerome County Valley SD No. 262 Levy,2026-11-03,0,,False,2,1,0,2026-11-18T13:18+00:00
+152482,ID,College of Eastern Idaho Trustee Zone 5,2026-11-03,99.9,,False,1,1,20599,2026-11-18T13:18+00:00
+179077,ID,Bear Lake Fire District Permanent Override Levy,2026-11-03,99.9,,False,2,1,1461,2026-11-18T13:18+00:00
+152276,ID,Benewah County Commissioner District 2,2026-11-03,90.9,,False,1,1,2893,2026-11-18T13:18+00:00
+152200,ID,Idaho State House 33 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,1,15326,2026-11-18T13:18+00:00
+152294,ID,Power County Sheriff,2026-11-03,99.9,,False,1,1,2200,2026-11-18T13:18+00:00
+152410,ID,Lewis County Assessor,2026-11-03,99.9,,False,1,1,1315,2026-11-18T13:18+00:00
+152504,ID,Oneida County Magistrate Judge David A. Hooste Retention,2026-11-03,99.9,,False,2,1,1561,2026-11-18T13:18+00:00
+152428,ID,Latah County Coroner,2026-11-03,99.9,,False,1,1,11633,2026-11-18T13:18+00:00
+152359,ID,Gooding County Treasurer,2026-11-03,99.9,,False,1,1,3716,2026-11-18T13:18+00:00
+152106,ID,Idaho State Senate 6,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,3,23494,2026-11-18T13:18+00:00
+152446,ID,Cassia County Coroner,2026-11-03,99.9,,False,1,1,6008,2026-11-18T13:18+00:00
+179048,ID,Canyon County Middleton School District No. 134 Supplemental Levy,2026-11-03,99.9,,False,2,1,9499,2026-11-18T13:18+00:00
+152412,ID,Gooding County Assessor,2026-11-03,99.9,,False,1,1,3689,2026-11-18T13:18+00:00
+179046,ID,Canyon County Caldwell School District No. 132 Supplemental Levy,2026-11-03,99.9,,False,2,1,8042,2026-11-18T13:18+00:00
+152491,ID,Bannock County Magistrate Judge Carol Ann Jarman Retention,2026-11-03,99.9,,False,2,1,27831,2026-11-18T13:18+00:00
+179057,ID,Jefferson County Little Butte Cemetery Override Levy Election,2026-11-03,99.9,,False,2,1,1551,2026-11-18T13:18+00:00
+152317,ID,Canyon County Clerk,2026-11-03,99.9,,False,1,1,50869,2026-11-18T13:18+00:00
+152180,ID,Idaho State House 23 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,3,18796,2026-11-18T13:18+00:00
+179006,ID,Butte County School District Plant Facility Levy,2026-11-03,99.9,,False,2,2,1084,2026-11-18T13:18+00:00
+152390,ID,Camas County Assessor,2026-11-03,99.9,,False,1,1,459,2026-11-18T13:18+00:00
+179024,ID,St. Maries Joint School District Supplemental Levy,2026-11-03,95,,False,2,2,2964,2026-11-18T13:18+00:00
+179079,ID,Elmore County Ambulance District,2026-11-03,99.9,,False,2,1,7212,2026-11-18T13:18+00:00
+152339,ID,Ada County Clerk,2026-11-03,99.9,,False,1,1,148924,2026-11-18T13:18+00:00
+152263,ID,Boise County Commissioner District 2,2026-11-03,99.9,,False,1,1,3216,2026-11-18T13:18+00:00
+152202,ID,Idaho State House 34 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,1,1,10018,2026-11-18T13:18+00:00
+152357,ID,Bonneville County Treasurer,2026-11-03,99.9,,False,1,1,25753,2026-11-18T13:18+00:00
+152281,ID,Owyhee County Commissioner District 2,2026-11-03,99.9,,False,1,1,3131,2026-11-18T13:18+00:00
+152279,ID,Camas County Commissioner District 2,2026-11-03,99.9,,False,1,1,464,2026-11-18T13:18+00:00
+179066,ID,Lemhi County Joint SD No. 181,2026-11-03,0,,False,2,1,0,2026-11-18T13:18+00:00
+152341,ID,Latah County Treasurer,2026-11-03,99.9,,False,2,1,15259,2026-11-18T13:18+00:00
+152297,ID,Blaine County Clerk,2026-11-03,99.9,,False,2,1,11348,2026-11-18T13:18+00:00
+152413,ID,Adams County Assessor,2026-11-03,99.9,,False,1,1,1821,2026-11-18T13:18+00:00
+152507,ID,Twin Falls County Magistrate Judge Jennifer Bergin Retention,2026-11-03,99.9,,False,2,1,22437,2026-11-18T13:18+00:00
+152431,ID,Shoshone County Coroner,2026-11-03,99.9,,False,2,1,4556,2026-11-18T13:18+00:00
+152109,ID,Idaho State Senate 9,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,3,19158,2026-11-18T13:18+00:00
+152449,ID,Fremont County Coroner,2026-11-03,99.9,,False,1,1,4463,2026-11-18T13:18+00:00
+152319,ID,Clearwater County Clerk,2026-11-03,99.9,,False,1,1,2799,2026-11-18T13:18+00:00
+152243,ID,Minidoka County Commissioner District 1,2026-11-03,99.9,,False,1,1,5046,2026-11-18T13:18+00:00
+152366,ID,Payette County Treasurer,2026-11-03,99.9,,False,1,1,7482,2026-11-18T13:18+00:00
+179008,ID,Challis Joint School District Supplemental Levy,2026-11-03,99.9,,False,2,2,1411,2026-11-18T13:18+00:00
+152485,ID,Ada County Highway District Commissioner District 4,2026-11-03,99.9,,False,5,1,160233,2026-11-18T13:18+00:00
+152185,ID,Idaho State House 25 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,1,14185,2026-11-18T13:18+00:00
+179026,ID,Adams County Council Ambulance Levy,2026-11-03,99.9,,False,2,1,1234,2026-11-18T13:18+00:00
+152306,ID,Clark County Clerk,2026-11-03,99.9,,False,1,1,227,2026-11-18T13:18+00:00
+152245,ID,Benewah County Commissioner District 1,2026-11-03,90.9,,False,1,1,2926,2026-11-18T13:18+00:00
+152393,ID,Canyon County Assessor,2026-11-03,99.9,,False,1,1,50301,2026-11-18T13:18+00:00
+152132,ID,Idaho State Senate 32,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,1,17493,2026-11-18T13:18+00:00
+179082,ID,Lincoln County Richfield Cemetery Maintenance District Supplemental Levy,2026-11-03,99.9,,False,2,1,302,2026-11-18T13:18+00:00
+152342,ID,Bannock County Treasurer,2026-11-03,99.9,,False,1,1,23690,2026-11-18T13:18+00:00
+152205,ID,Idaho State House 35 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,5,21343,2026-11-18T13:18+00:00
+152360,ID,Power County Treasurer,2026-11-03,99.9,,False,1,1,2181,2026-11-18T13:18+00:00
+152415,ID,Power County Assessor,2026-11-03,99.9,,False,1,1,2165,2026-11-18T13:18+00:00
+152154,ID,Idaho State House 10 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,2,27286,2026-11-18T13:18+00:00
+152494,ID,Kootenai County Magistrate Judge James Stow Retention,2026-11-03,99.9,,False,2,1,50337,2026-11-18T13:18+00:00
+152433,ID,Bannock County Coroner,2026-11-03,99.9,,False,2,1,28993,2026-11-18T13:18+00:00
+179060,ID,Kootenai County Advisory Question,2026-11-03,99.9,,False,2,1,67286,2026-11-18T13:18+00:00
+152512,ID,Bear Lake County Magistrate Judge R. Todd Garbett Retention,2026-11-03,99.9,,False,2,1,2287,2026-11-18T13:18+00:00
+152451,ID,Washington County Coroner,2026-11-03,99.9,,False,1,1,3870,2026-11-18T13:18+00:00
+152183,ID,Idaho State House 24 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,1,3,14654,2026-11-18T13:18+00:00
+152156,ID,Idaho State House 11 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,1,1,8999,2026-11-18T13:18+00:00
+152112,ID,Idaho State Senate 12,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,1,17321,2026-11-18T13:18+00:00
+152228,ID,Camas County Commissioner District 1,2026-11-03,99.9,,False,1,1,455,2026-11-18T13:18+00:00
+152130,ID,Idaho State Senate 30,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,2,16124,2026-11-18T13:18+00:00
+152246,ID,Gooding County Commissioner District 1,2026-11-03,99.9,,False,1,1,3691,2026-11-18T13:18+00:00
+179011,ID,Gooding Joint School District Supplemental Levy,2026-11-03,99.9,,False,2,2,1983,2026-11-18T13:18+00:00
+152264,ID,Minidoka County Commissioner District 2,2026-11-03,99.9,,False,1,1,5024,2026-11-18T13:18+00:00
+152134,ID,Idaho State Senate 34,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,1,11248,2026-11-18T13:18+00:00
+152474,ID,Idaho 4th Judicial District Judge - Seat Ada A,2026-11-03,99.9,,False,2,4,161504,2026-11-18T13:18+00:00
+179069,ID,Lincoln County Joint School Dist No. 231 Supp Levy,2026-11-03,0,,False,2,1,0,2026-11-18T13:18+00:00
+152344,ID,Shoshone County Treasurer,2026-11-03,99.9,,False,1,1,3197,2026-11-18T13:18+00:00
+152492,ID,Madison County Magistrate Judge David Hunt Retention,2026-11-03,99.9,,False,2,1,10437,2026-11-18T13:18+00:00
+152192,ID,Idaho State House 29 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,1,18080,2026-11-18T13:18+00:00
+152362,ID,Franklin County Treasurer,2026-11-03,99.9,,False,1,1,4166,2026-11-18T13:18+00:00
+152510,ID,Ada County Magistrate Judge Michael W. Lojek Retention,2026-11-03,99.9,,False,2,1,141963,2026-11-18T13:18+00:00
+152402,ID,Bonneville County Assessor,2026-11-03,99.9,,False,1,1,25357,2026-11-18T13:18+00:00
+152476,ID,College of Southern Idaho Trustee Zone 1,2026-11-03,99.9,,False,1,2,23814,2026-11-18T13:18+00:00
+152208,ID,Teton County Commissioner District 1,2026-11-03,99.9,,False,2,1,6122,2026-11-18T13:18+00:00
+152139,ID,Idaho State House 2 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,5,22447,2026-11-18T13:18+00:00
+152226,ID,Elmore County Commissioner District 1,2026-11-03,99.9,,False,1,1,6159,2026-11-18T13:18+00:00
+152157,ID,Idaho State House 11 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,1,12761,2026-11-18T13:18+00:00
+152436,ID,Oneida County Coroner,2026-11-03,99.9,,False,1,1,1482,2026-11-18T13:18+00:00
+152367,ID,Bingham County Treasurer,2026-11-03,99.9,,False,1,1,12604,2026-11-18T13:18+00:00
+152454,ID,Nez Perce County Coroner,2026-11-03,99.9,,False,1,1,12795,2026-11-18T13:18+00:00
+152378,ID,Adams County Treasurer,2026-11-03,99.9,,False,1,1,1809,2026-11-18T13:18+00:00
+152248,ID,Custer County Commissioner District 1,2026-11-03,99.9,,False,1,1,1794,2026-11-18T13:18+00:00
+179067,ID,Lincoln County Richfield Cemetery Main. Dist Supp Levy,2026-11-03,0,,False,2,1,0,2026-11-18T13:18+00:00
+152327,ID,Shoshone County Clerk,2026-11-03,99.9,,False,1,1,3715,2026-11-18T13:18+00:00
+152266,ID,Custer County Commissioner District 2,2026-11-03,99.9,,False,1,1,1712,2026-11-18T13:18+00:00
+152190,ID,Idaho State House 28 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,3,18455,2026-11-18T13:18+00:00
+179016,ID,Kuna School District Supplemental Levy,2026-11-03,99.9,,False,2,2,14632,2026-11-18T13:18+00:00
+152380,ID,Lewis County Treasurer,2026-11-03,99.9,,False,1,1,1332,2026-11-18T13:18+00:00
+179014,ID,Jerome Joint School District Supplemental Levy,2026-11-03,99.9,,False,2,3,4576,2026-11-18T13:18+00:00
+152235,ID,Cassia County Commissioner District 1,2026-11-03,99.9,,False,1,1,5978,2026-11-18T13:18+00:00
+179032,ID,Blaine County City of Hailey Annexation into BC South Fire Protection District,2026-11-03,0,,False,2,1,0,2026-11-18T13:18+00:00
+152477,ID,North Idaho College Trustee Zone 1,2026-11-03,99.9,,False,1,1,41605,2026-11-18T13:18+00:00
+152347,ID,Idaho County Treasurer,2026-11-03,99.9,,False,1,1,6816,2026-11-18T13:18+00:00
+152495,ID,Ada County Magistrate Judge John Matthew Haynes Retention,2026-11-03,99.9,,False,2,1,141682,2026-11-18T13:18+00:00
+179036,ID,Bonner County City of Sandpoint,2026-11-03,99.9,,False,2,1,3595,2026-11-18T13:18+00:00
+152513,ID,Canyon County Magistrate Judge Samuel N. Dickinson Retention,2026-11-03,99.9,,False,2,1,50888,2026-11-18T13:18+00:00
+152159,ID,Idaho State House 12 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,1,17279,2026-11-18T13:18+00:00
+152307,ID,Franklin County Clerk,2026-11-03,99.9,,False,1,1,4174,2026-11-18T13:18+00:00
+152423,ID,Boundary County Assessor,2026-11-03,99.9,,False,1,1,4724,2026-11-18T13:18+00:00
+152369,ID,Clearwater County Treasurer,2026-11-03,99.9,,False,1,1,2792,2026-11-18T13:18+00:00
+152325,ID,Payette County Clerk,2026-11-03,99.9,,False,1,1,7466,2026-11-18T13:18+00:00
+152441,ID,Caribou County Coroner,2026-11-03,99.9,,False,1,1,2299,2026-11-18T13:18+00:00
+152439,ID,Jefferson County Coroner,2026-11-03,99.9,,False,1,1,10081,2026-11-18T13:18+00:00
+152146,ID,Idaho State House 6 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,3,23394,2026-11-18T13:18+00:00
+152309,ID,Bonneville County Clerk,2026-11-03,99.9,,False,1,1,25494,2026-11-18T13:18+00:00
+152457,ID,Lincoln County Coroner,2026-11-03,99.9,,False,1,1,1201,2026-11-18T13:18+00:00
+179052,ID,Elmore County Ambulance Dist,2026-11-03,0,,False,2,1,0,2026-11-18T13:18+00:00
+152251,ID,Teton County Commissioner District 2,2026-11-03,99.9,,False,1,1,4510,2026-11-18T13:18+00:00
+179070,ID,Madison County Sugar City Urban Renewal,2026-11-03,99.9,,False,2,1,731,2026-11-18T13:18+00:00
+152269,ID,Bannock County Commissioner District 2,2026-11-03,99.9,,False,1,1,23346,2026-11-18T13:18+00:00
+152193,ID,Idaho State House 29 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,1,18048,2026-11-18T13:18+00:00
+152479,ID,College of Western Idaho Trustee Zone 2,2026-11-03,99.9,,False,1,2,174988,2026-11-18T13:18+00:00
+152403,ID,Teton County Assessor,2026-11-03,99.9,,False,1,1,4298,2026-11-18T13:18+00:00
+152334,ID,Butte County Clerk,2026-11-03,99.9,,False,1,1,1002,2026-11-18T13:18+00:00
+152497,ID,Butte County Magistrate Judge Neal S. Randall Retention,2026-11-03,99.9,,False,2,1,1062,2026-11-18T13:18+00:00
+152229,ID,Power County Commissioner District 1,2026-11-03,99.9,,False,1,1,2128,2026-11-18T13:18+00:00
+152352,ID,Owyhee County Treasurer,2026-11-03,99.9,,False,1,1,3191,2026-11-18T13:18+00:00
+152515,ID,Ada County Magistrate Judge Stephen Andrew Stokes Retention,2026-11-03,99.9,,False,2,1,140335,2026-11-18T13:18+00:00
+152466,ID,Clark County Coroner,2026-11-03,99.9,,False,1,1,222,2026-11-18T13:18+00:00
+152405,ID,Butte County Assessor,2026-11-03,99.9,,False,1,1,1048,2026-11-18T13:18+00:00
+179039,ID,Bonneville County City of Swan Valley Sales Tax Ordinance,2026-11-03,99.9,,False,2,1,166,2026-11-18T13:18+00:00
+152292,ID,Clearwater County Commissioner District 2,2026-11-03,99.9,,False,1,1,2698,2026-11-18T13:18+00:00
+179050,ID,Caribou County City of Grace Special Revenue Bond,2026-11-03,99.9,,False,2,1,322,2026-11-18T13:18+00:00
+152310,ID,Jerome County Clerk,2026-11-03,99.9,,False,1,1,4384,2026-11-18T13:18+00:00
+152173,ID,Idaho State House 19 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,1,29198,2026-11-18T13:18+00:00
+152328,ID,Jefferson County Clerk,2026-11-03,99.9,,False,1,1,9975,2026-11-18T13:18+00:00
+179054,ID,Fremont County Ambulance Levy,2026-11-03,99.9,,False,2,1,4799,2026-11-18T13:18+00:00
+152122,ID,Idaho State Senate 22,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,1,25109,2026-11-18T13:18+00:00
+152238,ID,Lewis County Commissioner District 1,2026-11-03,99.9,,False,1,1,1263,2026-11-18T13:18+00:00
+179072,ID,Teton County Teton School District No. 401 Supplemental Levy,2026-11-03,0,,False,2,1,0,2026-11-18T13:18+00:00
+152140,ID,Idaho State House 3 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,1,25085,2026-11-18T13:18+00:00
+152256,ID,Blaine County Commissioner District 2,2026-11-03,99.9,,False,1,1,9610,2026-11-18T13:18+00:00
+152195,ID,Idaho State House 30 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,2,15977,2026-11-18T13:18+00:00
+152350,ID,Madison County Treasurer,2026-11-03,99.9,,False,1,1,10149,2026-11-18T13:18+00:00
+152124,ID,Idaho State Senate 24,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,3,17591,2026-11-18T13:18+00:00
+152272,ID,Bonneville County Commissioner District 2,2026-11-03,99.9,,False,1,1,25810,2026-11-18T13:18+00:00
+152388,ID,Caribou County Assessor,2026-11-03,99.9,,False,1,1,2262,2026-11-18T13:18+00:00
+152290,ID,Boundary County Commissioner District 2,2026-11-03,99.9,,False,1,1,4651,2026-11-18T13:18+00:00
+152406,ID,Custer County Assessor,2026-11-03,99.9,,False,1,1,1663,2026-11-18T13:18+00:00
+152500,ID,Canyon County Magistrate Judge Thomas A. Sullivan Retention,2026-11-03,99.9,,False,2,1,49925,2026-11-18T13:18+00:00
+152424,ID,Madison County Assessor,2026-11-03,99.9,,False,1,1,10049,2026-11-18T13:18+00:00
+152102,ID,Idaho State Senate 2,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,5,22625,2026-11-18T13:18+00:00
+152218,ID,Bear Lake County Commissioner District 1,2026-11-03,99.9,,False,1,1,2196,2026-11-18T13:18+00:00
+152312,ID,Washington County Clerk,2026-11-03,99.9,,False,1,1,3781,2026-11-18T13:18+00:00
+152236,ID,Boundary County Commissioner District 1,2026-11-03,99.9,,False,1,1,4732,2026-11-18T13:18+00:00
+152167,ID,Idaho State House 16 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,1,20581,2026-11-18T13:18+00:00
+152330,ID,Boundary County Clerk,2026-11-03,99.9,,False,1,1,4712,2026-11-18T13:18+00:00
+152254,ID,Ada County Commissioner District 2,2026-11-03,99.9,,False,2,1,218558,2026-11-18T13:18+00:00
+152370,ID,Lemhi County Treasurer,2026-11-03,99.9,,False,1,1,3325,2026-11-18T13:18+00:00
+152220,ID,Madison County Commissioner District 1,2026-11-03,99.9,,False,1,1,10109,2026-11-18T13:18+00:00
+152176,ID,Idaho State House 21 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,1,20598,2026-11-18T13:18+00:00
+152299,ID,Latah County Clerk,2026-11-03,99.9,,False,2,1,15193,2026-11-18T13:18+00:00
+152386,ID,Blaine County Assessor,2026-11-03,99.9,,False,1,1,9541,2026-11-18T13:18+00:00
+152125,ID,Idaho State Senate 25,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,1,14283,2026-11-18T13:18+00:00
+179075,ID,Valley County City of Cascade Local-Option Non-property Tax,2026-11-03,99.9,,False,2,1,445,2026-11-18T13:18+00:00
+152335,ID,Custer County Clerk,2026-11-03,99.9,,False,1,1,1701,2026-11-18T13:18+00:00
+152198,ID,Idaho State House 32 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,1,1,12274,2026-11-18T13:18+00:00
+152353,ID,Butte County Treasurer,2026-11-03,99.9,,False,1,1,1032,2026-11-18T13:18+00:00
+152408,ID,Lemhi County Assessor,2026-11-03,99.9,,False,1,1,3328,2026-11-18T13:18+00:00
+152147,ID,Idaho State House 6 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,3,23585,2026-11-18T13:18+00:00
+152487,ID,Nez Perce County Magistrate Judge Karin Seubert Retention,2026-11-03,99.9,,False,2,1,13358,2026-11-18T13:18+00:00
+152426,ID,Clearwater County Assessor,2026-11-03,99.9,,False,1,1,2740,2026-11-18T13:18+00:00
+152165,ID,Idaho State House 15 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,1,20758,2026-11-18T13:18+00:00
+152505,ID,Bannock County Magistrate Judge David K. Penrod Retention,2026-11-03,99.9,,False,2,1,26260,2026-11-18T13:18+00:00
+152503,ID,Lincoln County Magistrate Judge Cheri Hicks Retention,2026-11-03,99.9,,False,2,1,1199,2026-11-18T13:18+00:00
+152395,ID,Clark County Assessor,2026-11-03,99.9,,False,1,1,243,2026-11-18T13:18+00:00
+152149,ID,Idaho State House 7 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,3,20371,2026-11-18T13:18+00:00
+152105,ID,Idaho State Senate 5,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,1,20958,2026-11-18T13:18+00:00
+152221,ID,Jefferson County Commissioner District 1,2026-11-03,99.9,,False,1,1,9801,2026-11-18T13:18+00:00
+152315,ID,Lincoln County Clerk,2026-11-03,99.9,,False,1,1,1212,2026-11-18T13:18+00:00
+152239,ID,Clearwater County Commissioner District 1,2026-11-03,99.9,,False,1,1,2813,2026-11-18T13:18+00:00
+179004,ID,American Falls Joint School District Supplemental Levy,2026-11-03,99.9,,False,2,2,2153,2026-11-18T13:18+00:00
+152257,ID,Valley County Commissioner District 2,2026-11-03,99.9,,False,2,1,6046,2026-11-18T13:18+00:00
+152127,ID,Idaho State Senate 27,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,3,14298,2026-11-18T13:18+00:00
+152467,ID,Butte County Coroner,2026-11-03,99.9,,False,1,1,1009,2026-11-18T13:18+00:00
+179062,ID,Kootenai County Coeur d'Alene School District No. 271 Supplemental Levy,2026-11-03,99.9,,False,2,1,36080,2026-11-18T13:18+00:00
+152337,ID,Lemhi County Clerk,2026-11-03,99.9,,False,1,1,3261,2026-11-18T13:18+00:00
+152293,ID,Bingham County Commissioner District 2,2026-11-03,99.9,,False,1,1,12399,2026-11-18T13:18+00:00
+179080,ID,Jerome County Valley School District No. 262 Levy,2026-11-03,99.9,,False,2,1,754,2026-11-18T13:18+00:00
+152355,ID,Elmore County Treasurer,2026-11-03,99.9,,False,1,1,6160,2026-11-18T13:18+00:00
+152114,ID,Idaho State Senate 14,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,2,26301,2026-11-18T13:18+00:00
+152469,ID,Adams County Coroner,2026-11-03,99.9,,False,1,1,1819,2026-11-18T13:18+00:00
+152201,ID,Idaho State House 33 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,1,15093,2026-11-18T13:18+00:00
+179027,ID,Adams County Meadows Valley EMS District,2026-11-03,99.9,,False,2,1,923,2026-11-18T13:18+00:00
+152411,ID,Elmore County Assessor,2026-11-03,99.9,,False,1,1,6231,2026-11-18T13:18+00:00
+152150,ID,Idaho State House 8 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,4,19136,2026-11-18T13:18+00:00
+152429,ID,Ada County Coroner,2026-11-03,99.9,,False,2,1,216596,2026-11-18T13:18+00:00
+152168,ID,Idaho State House 17 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,1,19971,2026-11-18T13:18+00:00
+152223,ID,Bannock County Commissioner District 1,2026-11-03,99.9,,False,1,1,23739,2026-11-18T13:18+00:00
+152371,ID,Jefferson County Treasurer,2026-11-03,99.9,,False,1,1,10045,2026-11-18T13:18+00:00
+152302,ID,Cassia County Clerk,2026-11-03,99.9,,False,2,1,6573,2026-11-18T13:18+00:00
+152241,ID,Idaho County Commissioner District 1,2026-11-03,99.9,,False,1,1,6423,2026-11-18T13:18+00:00
+152389,ID,Kootenai County Assessor,2026-11-03,99.9,,False,1,1,54406,2026-11-18T13:18+00:00
+152320,ID,Elmore County Clerk,2026-11-03,99.9,,False,1,1,6213,2026-11-18T13:18+00:00
+152259,ID,Kootenai County Commissioner District 2,2026-11-03,99.9,,False,1,1,52818,2026-11-18T13:18+00:00
+179078,ID,Blaine County BC South Fire Protection District,2026-11-03,99.9,,False,2,1,3659,2026-11-18T13:18+00:00
+152373,ID,Cassia County Treasurer,2026-11-03,99.9,,False,1,1,6044,2026-11-18T13:18+00:00
+179007,ID,Butte County School District Supplemental Levy,2026-11-03,99.9,,False,2,2,1108,2026-11-18T13:18+00:00
+152452,ID,Canyon County Coroner,2026-11-03,99.9,,False,1,1,50454,2026-11-18T13:18+00:00
+179025,ID,Ada County Local Vehicle Registration Fee,2026-11-03,99.9,,False,2,1,219129,2026-11-18T13:18+00:00
+152470,ID,Camas County Coroner,2026-11-03,99.9,,False,1,1,480,2026-11-18T13:18+00:00
+152340,ID,Ada County Treasurer,2026-11-03,99.9,,False,2,1,217398,2026-11-18T13:18+00:00
+152488,ID,Ada County Magistrate Judge Adam C. Kimball Retention,2026-11-03,99.9,,False,2,1,142515,2026-11-18T13:18+00:00
+179029,ID,Bannock County Pocatello/Chubbuck School District 25 Supplemental Levy,2026-11-03,99.9,,False,2,1,27724,2026-11-18T13:18+00:00
+152282,ID,Gooding County Commissioner District 2,2026-11-03,99.9,,False,1,1,3704,2026-11-18T13:18+00:00
+152398,ID,Bonner County Assessor,2026-11-03,99.9,,False,1,1,16781,2026-11-18T13:18+00:00
+152152,ID,Idaho State House 9 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,1,3,16425,2026-11-18T13:18+00:00
+152300,ID,Valley County Clerk,2026-11-03,99.9,,False,2,1,5878,2026-11-18T13:18+00:00
+152416,ID,Payette County Assessor,2026-11-03,99.9,,False,1,1,7476,2026-11-18T13:18+00:00
+152170,ID,Idaho State House 18 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,1,1,15570,2026-11-18T13:18+00:00
+152318,ID,Caribou County Clerk,2026-11-03,99.9,,False,1,1,2279,2026-11-18T13:18+00:00
+152210,ID,Nez Perce County Commissioner District 1,2026-11-03,99.9,,False,2,1,14805,2026-11-18T13:18+00:00
+152284,ID,Oneida County Commissioner District 2,2026-11-03,99.9,,False,1,1,1456,2026-11-18T13:18+00:00
+152432,ID,Franklin County Coroner,2026-11-03,99.9,,False,2,1,4642,2026-11-18T13:18+00:00
+179034,ID,Bonner County Coolin Sewer District,2026-11-03,99.9,,False,2,1,94,2026-11-18T13:18+00:00
+152450,ID,Payette County Coroner,2026-11-03,99.9,,False,1,1,7561,2026-11-18T13:18+00:00
+152374,ID,Minidoka County Treasurer,2026-11-03,99.9,,False,1,1,5055,2026-11-18T13:18+00:00
+152244,ID,Lincoln County Commissioner District 1,2026-11-03,99.9,,False,1,1,1220,2026-11-18T13:18+00:00
+179063,ID,Kootenai County Post Falls School District No. 273 Supplemental Levy,2026-11-03,99.9,,False,2,1,18281,2026-11-18T13:18+00:00
+152262,ID,Washington County Commissioner District 2,2026-11-03,99.9,,False,1,1,3456,2026-11-18T13:18+00:00
+152186,ID,Idaho State House 26 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,3,3,19010,2026-11-18T13:18+00:00
+152472,ID,Valley County Prosecuting Attorney,2026-11-03,99.9,,False,1,1,4435,2026-11-18T13:18+00:00
+152396,ID,Franklin County Assessor,2026-11-03,99.9,,False,1,1,4043,2026-11-18T13:18+00:00
+152135,ID,Idaho State Senate 35,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,5,21489,2026-11-18T13:18+00:00
+152490,ID,Camas County Magistrate Judge Brendan L. Ash Retention,2026-11-03,99.9,,False,2,1,467,2026-11-18T13:18+00:00
+152414,ID,Oneida County Assessor,2026-11-03,99.9,,False,1,1,1457,2026-11-18T13:18+00:00
+152345,ID,Teton County Treasurer,2026-11-03,99.9,,False,1,1,4454,2026-11-18T13:18+00:00
+152188,ID,Idaho State House 27 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,1,3,12363,2026-11-18T13:18+00:00
+152343,ID,Blaine County Treasurer,2026-11-03,99.9,,False,1,1,9513,2026-11-18T13:18+00:00
+152459,ID,Boise County Coroner,2026-11-03,99.9,,False,1,1,3216,2026-11-18T13:18+00:00
+152361,ID,Boise County Treasurer,2026-11-03,99.9,,False,1,1,3289,2026-11-18T13:18+00:00
+152285,ID,Lincoln County Commissioner District 2,2026-11-03,99.9,,False,1,1,1137,2026-11-18T13:18+00:00
+152155,ID,Idaho State House 10 Seat B,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,2,27283,2026-11-18T13:18+00:00
+152303,ID,Lewis County Clerk,2026-11-03,99.9,,False,1,1,1300,2026-11-18T13:18+00:00
+152365,ID,Canyon County Treasurer,2026-11-03,99.9,,False,1,1,50581,2026-11-18T13:18+00:00
+152321,ID,Idaho County Clerk,2026-11-03,99.9,,False,1,1,6819,2026-11-18T13:18+00:00
+152376,ID,Fremont County Treasurer,2026-11-03,99.9,,False,1,1,4476,2026-11-18T13:18+00:00
+152115,ID,Idaho State Senate 15,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,1,20844,2026-11-18T13:18+00:00
+152231,ID,Adams County Commissioner District 1,2026-11-03,99.9,,False,1,1,1746,2026-11-18T13:18+00:00
+179065,ID,Latah County Moscow School District No. 281 School Plant Facilities Reserve Fund Levy,2026-11-03,0,,False,2,1,0,2026-11-18T13:18+00:00
+152133,ID,Idaho State Senate 33,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,1,15181,2026-11-18T13:18+00:00
+152249,ID,Franklin County Commissioner District 1,2026-11-03,99.9,,False,1,1,4109,2026-11-18T13:18+00:00
+152247,ID,Owyhee County Commissioner District 1,2026-11-03,99.9,,False,1,1,3154,2026-11-18T13:18+00:00
+179041,ID,Boundary County School District #101 Supplemental Levy,2026-11-03,99.9,,False,2,1,5589,2026-11-18T13:18+00:00
+152117,ID,Idaho State Senate 17,2026-11-03,99.9,2026-11-04T07:09:42.054Z,False,2,1,19916,2026-11-18T13:18+00:00
+152265,ID,Adams County Commissioner District 2,2026-11-03,99.9,,False,1,1,1747,2026-11-18T13:18+00:00
+152381,ID,Benewah County Treasurer,2026-11-03,90.9,,False,1,1,2732,2026-11-18T13:18+00:00
+152475,ID,College of Eastern Idaho Trustee Zone 1,2026-11-03,99.9,,False,1,1,20385,2026-11-18T13:18+00:00
+152399,ID,Latah County Assessor,2026-11-03,99.9,,False,1,1,11994,2026-11-18T13:18+00:00
+152493,ID,Ada County Magistrate Judge Fafa Alidjani Retention,2026-11-03,99.9,,False,2,1,154361,2026-11-18T13:18+00:00
+152417,ID,Jerome County Assessor,2026-11-03,99.9,,False,1,1,4413,2026-11-18T13:18+00:00
+152287,ID,Payette County Commissioner District 2,2026-11-03,99.9,,False,1,1,7375,2026-11-18T13:18+00:00
+152211,ID,Bonner County Commissioner District 1,2026-11-03,99.9,,False,2,1,22959,2026-11-18T13:18+00:00
+152142,ID,Idaho State House 4 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,1,18651,2026-11-18T13:18+00:00
+152305,ID,Owyhee County Clerk,2026-11-03,99.9,,False,1,1,3191,2026-11-18T13:18+00:00
+152453,ID,Gem County Coroner,2026-11-03,99.9,,False,1,1,7172,2026-11-18T13:18+00:00
+152160,ID,Idaho State House 13 Seat A,2026-11-03,99.9,2026-11-12T01:54:12.315Z,False,2,1,16397,2026-11-18T13:18+00:00
+152323,ID,Twin Falls County Clerk,2026-11-03,99.9,,False,1,1,21144,2026-11-18T13:18+00:00
+87105,ID,Idaho US House 2,2026-11-03,96.3,2026-11-04T08:53:55.794Z,False,5,26,330667,2026-11-18T13:18+00:00
+87103,ID,Idaho US Senate,2026-11-03,98.3,2026-11-04T06:42:37.178Z,False,4,44,713281,2026-11-18T13:18+00:00
+87104,ID,Idaho US House 1,2026-11-03,98.1,2026-11-04T04:54:22.572Z,False,4,19,381356,2026-11-18T13:18+00:00

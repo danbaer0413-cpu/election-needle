@@ -1,0 +1,465 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+132496,NE,Nebraska Treasurer,2026-11-03,99.9,,False,2,93,741758,2026-11-18T15:36+00:00
+132409,NE,Nebraska Initiative Measure 441,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,2,93,749785,2026-11-18T15:36+00:00
+132403,NE,Nebraska Attorney General,2026-11-03,99.9,,False,2,93,743923,2026-11-18T15:36+00:00
+132404,NE,Nebraska Auditor,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,2,93,677560,2026-11-18T15:36+00:00
+132466,NE,Nebraska Secretary of State,2026-11-03,99.9,,False,4,93,751234,2026-11-18T15:36+00:00
+87255,NE,Nebraska Governor,2026-11-03,98.6,2026-11-04T06:52:19.694Z,False,4,93,764484,2026-11-18T15:36+00:00
+132459,NE,Nebraska Proposed Amendment No. 1,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,2,93,731866,2026-11-18T15:36+00:00
+159550,NE,Nebraska Legislature,2026-11-03,96.1,,False,3,25,345830,2026-11-18T15:36+00:00
+132408,NE,Nebraska Initiative Measure 440,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,2,93,749862,2026-11-18T15:36+00:00
+132410,NE,Nebraska Initiative Measure 442,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,2,93,742235,2026-11-18T15:36+00:00
+132597,NE,Upper Elkhorn Natural Resources District For Board of Directors - Subdistrict 5,2026-11-03,99.9,,False,1,2,758,2026-11-18T15:36+00:00
+132389,NE,Mid-Plains Community College For Board of Governors - District 3,2026-11-03,99.9,,False,1,6,4994,2026-11-18T15:36+00:00
+132231,NE,Educational Service Unit No. 17 - District 7,2026-11-03,99.9,,False,1,1,400,2026-11-18T15:36+00:00
+132439,NE,Nebraska Judge of the District Court - District 1 - Judge Ricky A. Schreiner Retention,2026-11-03,99.9,,False,2,10,27855,2026-11-18T15:36+00:00
+132505,NE,Nemaha Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,1,1,1114,2026-11-18T15:36+00:00
+132521,NE,Northeast Community College For Board of Governors - District 1,2026-11-03,99.9,,False,1,8,9031,2026-11-18T15:36+00:00
+132580,NE,Twin Platte Natural Resources District For Board of Directors - Subdistrict 5,2026-11-03,99.9,,False,1,1,2623,2026-11-18T15:36+00:00
+132230,NE,Educational Service Unit No. 17 - District 5,2026-11-03,99.9,,False,1,2,429,2026-11-18T15:36+00:00
+132347,NE,Lower Platte North Natural Resources District For Board of Directors - At Large,2026-11-03,99.9,,False,1,7,15399,2026-11-18T15:36+00:00
+132214,NE,Educational Service Unit No. 13 - District 11,2026-11-03,99.9,,False,1,1,1781,2026-11-18T15:36+00:00
+132504,NE,Nemaha Natural Resources District For Board of Directors - Subdistrict 3,2026-11-03,99.9,,False,1,2,1468,2026-11-18T15:36+00:00
+132264,NE,Educational Service Unit No. 8 - District 3,2026-11-03,99.9,,False,1,4,1944,2026-11-18T15:36+00:00
+132554,NE,Southeast Community College For Board of Governors - District 3,2026-11-03,99.9,,False,1,1,21157,2026-11-18T15:36+00:00
+132314,NE,Lower Big Blue Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,1,1,1064,2026-11-18T15:36+00:00
+132492,NE,Nebraska Unicameral Legislature District 46,2026-11-03,99.9,,False,1,1,5516,2026-11-18T15:36+00:00
+132558,NE,Southern Public Power District - Subdivision 5,2026-11-03,99.9,,False,2,3,2118,2026-11-18T15:36+00:00
+132542,NE,Polk County Rural Public Power District - Subdivision 3,2026-11-03,99.9,,False,2,3,863,2026-11-18T15:36+00:00
+132185,NE,Central Platte Natural Resources District For Board of Directors - Subdistrict 10,2026-11-03,99.9,,False,1,1,2476,2026-11-18T15:36+00:00
+132617,NE,Upper Republican Natural Resources District For Board of Directors - Subdistrict 8,2026-11-03,99.9,,False,1,1,342,2026-11-18T15:36+00:00
+132267,NE,Educational Service Unit No. 8 - District 9,2026-11-03,99.9,,False,1,1,1746,2026-11-18T15:36+00:00
+132443,NE,Nebraska Judge of the District Court - District 3 - Judge Andrew Jacobsen Retention,2026-11-03,99.9,,False,2,1,90849,2026-11-18T15:36+00:00
+132317,NE,Lower Elkhorn Natural Resources District For Board of Directors - At Large,2026-11-03,99.9,,False,2,15,25597,2026-11-18T15:36+00:00
+132184,NE,Central Platte Natural Resources District For Board of Directors - Subdistrict 1,2026-11-03,99.9,,False,1,3,3829,2026-11-18T15:36+00:00
+132525,NE,Northeast Community College For Board of Governors - District 5,2026-11-03,99.9,,False,2,1,8431,2026-11-18T15:36+00:00
+132584,NE,Upper Big Blue Natural Resources District For Board of Directors - Subdistrict 1,2026-11-03,99.9,,False,1,4,1999,2026-11-18T15:36+00:00
+132234,NE,Educational Service Unit No. 1 - District 5,2026-11-03,99.9,,False,1,2,687,2026-11-18T15:36+00:00
+132602,NE,Upper Loup Natural Resources District For Board of Directors - Subdistrict 2,2026-11-03,99.9,,False,1,2,580,2026-11-18T15:36+00:00
+132284,NE,Learning Community of Douglas & Sarpy Counties - Subcouncil 1,2026-11-03,99.9,,False,4,2,37118,2026-11-18T15:36+00:00
+132396,NE,Middle Niobrara Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,2,4,2868,2026-11-18T15:36+00:00
+132238,NE,Educational Service Unit No. 2 - District 3,2026-11-03,99.9,,False,1,4,2571,2026-11-18T15:36+00:00
+132222,NE,Educational Service Unit No. 16 - District 1,2026-11-03,99.9,,False,1,1,1407,2026-11-18T15:36+00:00
+132480,NE,Nebraska Unicameral Legislature District 26,2026-11-03,99.9,,False,2,1,11583,2026-11-18T15:36+00:00
+132528,NE,Northeast Nebraska Public Power District - Subdivision 8,2026-11-03,99.9,,False,2,2,647,2026-11-18T15:36+00:00
+132171,NE,Cedar-Knox Public Power District - Subdivision 1,2026-11-03,99.9,,False,1,1,1196,2026-11-18T15:36+00:00
+132354,NE,Lower Platte North Natural Resources District For Board of Directors - Subdistrict 7,2026-11-03,99.9,,False,2,7,16753,2026-11-18T15:36+00:00
+132413,NE,Nebraska Judge of the County Court - District 12 - Judge Aaron J. Conn Retention,2026-11-03,99.9,,False,2,12,23628,2026-11-18T15:36+00:00
+132479,NE,Nebraska Unicameral Legislature District 24,2026-11-03,99.9,,False,2,4,14003,2026-11-18T15:36+00:00
+132621,NE,Western Community College For Board of Governors - District 4,2026-11-03,99.9,,False,1,2,4757,2026-11-18T15:36+00:00
+132271,NE,Educational Service Unit No. 9 - District 7,2026-11-03,99.9,,False,1,1,1035,2026-11-18T15:36+00:00
+132369,NE,Lower Republican Natural Resources District For Board of Directors - At Large,2026-11-03,99.9,,False,1,5,4931,2026-11-18T15:36+00:00
+132513,NE,North Central Public Power District - Subdivision 3,2026-11-03,99.9,,False,1,1,420,2026-11-18T15:36+00:00
+132188,NE,Central Platte Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,1,2,4242,2026-11-18T15:36+00:00
+132499,NE,Nemaha Natural Resources District For Board of Directors - At Large,2026-11-03,99.9,,False,1,8,12470,2026-11-18T15:36+00:00
+132565,NE,Tri-Basin Natural Resources District For Board of Directors - At Large,2026-11-03,99.9,,False,1,3,5836,2026-11-18T15:36+00:00
+132549,NE,South Platte Natural Resources District For Board of Directors - Subdistrict 2,2026-11-03,99.9,,False,1,2,664,2026-11-18T15:36+00:00
+132384,NE,Metropolitan Utilities District of Omaha - Subdivision 3,2026-11-03,99.9,,False,2,1,20331,2026-11-18T15:36+00:00
+132400,NE,Middle Republican Natural Resources District For Board of Directors - Subdistrict 3,2026-11-03,99.9,,False,1,2,1118,2026-11-18T15:36+00:00
+132242,NE,Educational Service Unit No. 3 - District 3,2026-11-03,99.9,,False,1,1,11905,2026-11-18T15:36+00:00
+132450,NE,Nebraska Judge of the District Court - District 4 - Judge Marlon A. Polk Retention,2026-11-03,99.9,,False,2,1,157891,2026-11-18T15:36+00:00
+132324,NE,Lower Elkhorn Natural Resources District For Board of Directors - Subdistrict 7,2026-11-03,99.9,,False,2,5,3779,2026-11-18T15:36+00:00
+132383,NE,Metropolitan Community College For Board of Governors - District 5,2026-11-03,99.9,,False,1,1,45177,2026-11-18T15:36+00:00
+132532,NE,Omaha Public Power District - Subdivision 1,2026-11-03,99.9,,False,2,1,34443,2026-11-18T15:36+00:00
+132591,NE,Upper Big Blue Natural Resources District For Board of Directors - Subdistrict 8,2026-11-03,99.9,,False,1,1,1574,2026-11-18T15:36+00:00
+132465,NE,Nebraska Public Service Commissioner District 2,2026-11-03,99.9,,False,2,1,124009,2026-11-18T15:36+00:00
+132609,NE,Upper Niobrara White Natural Resources District For Board of Directors - Subdistrict 2,2026-11-03,99.9,,False,1,4,6618,2026-11-18T15:36+00:00
+132291,NE,Lewis and Clark Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,1,2,1085,2026-11-18T15:36+00:00
+132245,NE,Educational Service Unit No. 4 - District 1,2026-11-03,99.9,,False,1,1,1237,2026-11-18T15:36+00:00
+132229,NE,Educational Service Unit No. 17 - District 3,2026-11-03,99.9,,False,1,1,415,2026-11-18T15:36+00:00
+132295,NE,Little Blue Natural Resources District For Board of Directors - At Large,2026-11-03,99.9,,False,1,7,11204,2026-11-18T15:36+00:00
+132503,NE,Nemaha Natural Resources District For Board of Directors - Subdistrict 2,2026-11-03,99.9,,False,1,4,1430,2026-11-18T15:36+00:00
+132569,NE,Tri-Basin Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,1,1,914,2026-11-18T15:36+00:00
+132169,NE,Butler Public Power District - District 5,2026-11-03,99.9,,False,1,1,335,2026-11-18T15:36+00:00
+132420,NE,Nebraska Judge of the County Court - District 4 - Judge John E. Huber Retention,2026-11-03,99.9,,False,2,1,155647,2026-11-18T15:36+00:00
+132294,NE,Little Blue Natural Resources District For Board of Directors - 2 Year Term - Subdistrict 08,2026-11-03,0,,False,1,2,0,2026-11-18T15:36+00:00
+132212,NE,Educational Service Unit No. 11 - District 9,2026-11-03,99.9,,False,1,3,1096,2026-11-18T15:36+00:00
+132278,NE,Imperial Public Power District - At Large,2026-11-03,99.9,,False,1,1,660,2026-11-18T15:36+00:00
+132568,NE,Tri-Basin Natural Resources District For Board of Directors - Subdistrict 3,2026-11-03,99.9,,False,1,2,1057,2026-11-18T15:36+00:00
+132328,NE,Lower Loup Natural Resources District For Board of Directors - Subdistrict 2,2026-11-03,99.9,,False,1,5,2625,2026-11-18T15:36+00:00
+132195,NE,Cornhusker Public Power District - Subdivision 10,2026-11-03,99.9,,False,1,1,226,2026-11-18T15:36+00:00
+132179,NE,Central Nebraska Public Power and Irrigation District - Gosper County Subdivision,2026-11-03,99.9,,False,2,1,840,2026-11-18T15:36+00:00
+132556,NE,Southeast Community College For Board of Governors - District 5,2026-11-03,99.9,,False,1,1,28243,2026-11-18T15:36+00:00
+132199,NE,Custer Public Power District - 6 Year Term - At Large,2026-11-03,0,,False,2,13,0,2026-11-18T15:36+00:00
+132599,NE,Upper Elkhorn Natural Resources District For Board of Directors - Subdistrict 7,2026-11-03,99.9,,False,1,1,778,2026-11-18T15:36+00:00
+132249,NE,Educational Service Unit No. 4 - District 9,2026-11-03,99.9,,False,1,2,1012,2026-11-18T15:36+00:00
+132265,NE,Educational Service Unit No. 8 - District 5,2026-11-03,99.9,,False,1,4,2293,2026-11-18T15:36+00:00
+132331,NE,Lower Loup Natural Resources District For Board of Directors - Subdistrict 6,2026-11-03,99.9,,False,2,3,2079,2026-11-18T15:36+00:00
+132198,NE,Cuming County Public Power District - Subdivision 1,2026-11-03,99.9,,False,1,3,818,2026-11-18T15:36+00:00
+132507,NE,Nemaha Natural Resources District For Board of Directors - Subdistrict 7,2026-11-03,99.9,,False,1,2,1318,2026-11-18T15:36+00:00
+132182,NE,Central Nebraska Public Power and Irrigation District - Phelps County Subdivision,2026-11-03,99.9,,False,1,1,3099,2026-11-18T15:36+00:00
+132248,NE,Educational Service Unit No. 4 - District 7,2026-11-03,99.9,,False,1,2,1564,2026-11-18T15:36+00:00
+132424,NE,Nebraska Judge of the County Court - District 4 - Judge Stephanie Steigleder Shearer Retention,2026-11-03,99.9,,False,2,1,156051,2026-11-18T15:36+00:00
+132298,NE,Little Blue Natural Resources District For Board of Directors - Subdistrict 1,2026-11-03,99.9,,False,2,2,2801,2026-11-18T15:36+00:00
+132474,NE,Nebraska Unicameral Legislature District 16,2026-11-03,99.9,,False,2,4,15494,2026-11-18T15:36+00:00
+132348,NE,Lower Platte North Natural Resources District For Board of Directors - Subdistrict 01,2026-11-03,0,,False,1,7,0,2026-11-18T15:36+00:00
+132236,NE,Educational Service Unit No. 1 - District 9,2026-11-03,99.9,,False,1,4,2347,2026-11-18T15:36+00:00
+132302,NE,Little Blue Natural Resources District For Board of Directors - Subdistrict 6,2026-11-03,99.9,,False,1,4,1107,2026-11-18T15:36+00:00
+132286,NE,Learning Community of Douglas & Sarpy Counties - Subcouncil 5,2026-11-03,99.9,,False,4,2,26010,2026-11-18T15:36+00:00
+132544,NE,Roosevelt Public Power District - Subdivision 3,2026-11-03,99.9,,False,1,1,220,2026-11-18T15:36+00:00
+132585,NE,Upper Big Blue Natural Resources District For Board of Directors - Subdistrict 2,2026-11-03,99.9,,False,1,1,1974,2026-11-18T15:36+00:00
+132619,NE,Western Community College For Board of Governors - District 2,2026-11-03,99.9,,False,1,5,4672,2026-11-18T15:36+00:00
+132603,NE,Upper Loup Natural Resources District For Board of Directors - Subdistrict 3,2026-11-03,99.9,,False,1,2,439,2026-11-18T15:36+00:00
+132477,NE,Nebraska Unicameral Legislature District 20,2026-11-03,99.9,,False,2,1,16487,2026-11-18T15:36+00:00
+132543,NE,Roosevelt Public Power District - Subdivision 1,2026-11-03,99.9,,False,1,2,162,2026-11-18T15:36+00:00
+132269,NE,Educational Service Unit No. 9 - District 3,2026-11-03,99.9,,False,1,5,2196,2026-11-18T15:36+00:00
+132335,NE,Lower Niobrara Natural Resources District For Board of Directors - 2 Year Term - Subdistrict 03,2026-11-03,0,,False,1,5,0,2026-11-18T15:36+00:00
+132202,NE,Dawson Public Power District - 6 Year Term - Buffalo Subdivision,2026-11-03,0,,False,1,4,0,2026-11-18T15:36+00:00
+132570,NE,Tri-Basin Natural Resources District For Board of Directors - Subdistrict 5,2026-11-03,99.9,,False,1,1,1154,2026-11-18T15:36+00:00
+132444,NE,Nebraska Judge of the District Court - District 3 - Judge Darla Ideus Retention,2026-11-03,99.9,,False,2,1,90585,2026-11-18T15:36+00:00
+132563,NE,Southwest Public Power District - Subdistrict 3,2026-11-03,99.9,,False,1,2,502,2026-11-18T15:36+00:00
+132206,NE,Educational Service Unit No. 10 - District 5,2026-11-03,99.9,,False,1,7,4919,2026-11-18T15:36+00:00
+132190,NE,Central Platte Natural Resources District For Board of Directors - Subdistrict 6,2026-11-03,99.9,,False,1,1,3999,2026-11-18T15:36+00:00
+132224,NE,Educational Service Unit No. 16 - District 3,2026-11-03,99.9,,False,1,1,897,2026-11-18T15:36+00:00
+132464,NE,Nebraska Public Power District - Subdivision 9,2026-11-03,99.9,,False,2,3,13042,2026-11-18T15:36+00:00
+132530,NE,Northwest Rural Public Power District - Subdivision 2,2026-11-03,99.9,,False,1,1,788,2026-11-18T15:36+00:00
+132514,NE,North Loup River Public Power and Irrigation District - Subdistrict 1,2026-11-03,99.9,,False,1,2,137,2026-11-18T15:36+00:00
+132381,NE,Metropolitan Community College For Board of Governors - District 3,2026-11-03,99.9,,False,1,2,45264,2026-11-18T15:36+00:00
+132223,NE,Educational Service Unit No. 16 - District 11,2026-11-03,99.9,,False,1,3,1141,2026-11-18T15:36+00:00
+132589,NE,Upper Big Blue Natural Resources District For Board of Directors - Subdistrict 6,2026-11-03,99.9,,False,1,1,2382,2026-11-18T15:36+00:00
+132431,NE,Nebraska Judge of the Court of Appeals - District 2 - Judge Michael W. Pirtle Retention,2026-11-03,99.9,,False,2,1,85038,2026-11-18T15:36+00:00
+132529,NE,Northwest Rural Public Power District - Subdivision 1,2026-11-03,99.9,,False,1,2,285,2026-11-18T15:36+00:00
+132257,NE,Educational Service Unit No. 6 - District 7,2026-11-03,99.9,,False,1,3,3272,2026-11-18T15:36+00:00
+132355,NE,Lower Platte North Natural Resources District For Board of Directors - Subdistrict 8,2026-11-03,99.9,,False,2,7,16303,2026-11-18T15:36+00:00
+132243,NE,Educational Service Unit No. 3 - District 5,2026-11-03,99.9,,False,2,2,16299,2026-11-18T15:36+00:00
+132309,NE,Loup Valleys Rural Public Power District - At Large,2026-11-03,99.9,,False,2,7,3616,2026-11-18T15:36+00:00
+132293,NE,Little Blue Natural Resources District For Board of Directors - 2 Year Term - Subdistrict 07,2026-11-03,0,,False,1,3,0,2026-11-18T15:36+00:00
+132359,NE,Lower Platte South Natural Resources District For Board of Directors - Subdistrict 02,2026-11-03,0,,False,1,4,0,2026-11-18T15:36+00:00
+132567,NE,Tri-Basin Natural Resources District For Board of Directors - Subdistrict 2,2026-11-03,99.9,,False,1,1,1078,2026-11-18T15:36+00:00
+132402,NE,Middle Republican Natural Resources District For Board of Directors - Subdistrict 5,2026-11-03,99.9,,False,1,2,973,2026-11-18T15:36+00:00
+132610,NE,Upper Niobrara White Natural Resources District For Board of Directors - Subdistrict 3,2026-11-03,99.9,,False,1,4,6542,2026-11-18T15:36+00:00
+132484,NE,Nebraska Unicameral Legislature District 34,2026-11-03,99.9,,False,2,4,14335,2026-11-18T15:36+00:00
+132358,NE,Lower Platte South Natural Resources District For Board of Directors - At Large,2026-11-03,99.9,,False,1,6,84640,2026-11-18T15:36+00:00
+132276,NE,Howard Greeley Rural Public Power District - Subdivision 4,2026-11-03,99.9,,False,1,2,1011,2026-11-18T15:36+00:00
+132342,NE,Lower Niobrara Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,1,5,1782,2026-11-18T15:36+00:00
+132209,NE,Educational Service Unit No. 11 - District 1,2026-11-03,99.9,,False,1,4,1152,2026-11-18T15:36+00:00
+132577,NE,Twin Platte Natural Resources District For Board of Directors - Subdistrict 2,2026-11-03,99.9,,False,1,1,3159,2026-11-18T15:36+00:00
+132451,NE,Nebraska Judge of the District Court - District 4 - Judge Molly B. Keane Retention,2026-11-03,99.9,,False,2,1,157885,2026-11-18T15:36+00:00
+132405,NE,Nebraska Board of Regents District 1,2026-11-03,99.9,,False,2,1,69013,2026-11-18T15:36+00:00
+132197,NE,Cornhusker Public Power District - Subdivision 5,2026-11-03,99.9,,False,1,2,468,2026-11-18T15:36+00:00
+132455,NE,Nebraska Judge of the Nebraska Workers' Compensation Court - Judge Dirk V. Block Retention,2026-11-03,99.9,,False,2,93,562158,2026-11-18T15:36+00:00
+132247,NE,Educational Service Unit No. 4 - District 5,2026-11-03,99.9,,False,1,2,1034,2026-11-18T15:36+00:00
+132313,NE,Lower Big Blue Natural Resources District For Board of Directors - Subdistrict 3,2026-11-03,99.9,,False,1,1,1868,2026-11-18T15:36+00:00
+132329,NE,Lower Loup Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,1,4,2242,2026-11-18T15:36+00:00
+132388,NE,Mid-Plains Community College For Board of Governors - District 2,2026-11-03,99.9,,False,1,5,5196,2026-11-18T15:36+00:00
+132454,NE,Nebraska Judge of the District Court - District 9 - Judge Patrick M. Lee Retention,2026-11-03,99.9,,False,2,2,28220,2026-11-18T15:36+00:00
+132372,NE,Lower Republican Natural Resources District For Board of Directors - Subdistrict 3,2026-11-03,99.9,,False,1,2,848,2026-11-18T15:36+00:00
+132438,NE,Nebraska Judge of the District Court - District 1 - Judge Julie D. Smith Retention,2026-11-03,99.9,,False,2,10,28119,2026-11-18T15:36+00:00
+132312,NE,Lower Big Blue Natural Resources District For Board of Directors - Subdistrict 2,2026-11-03,99.9,,False,2,2,2139,2026-11-18T15:36+00:00
+132488,NE,Nebraska Unicameral Legislature District 40,2026-11-03,99.9,,False,1,6,14108,2026-11-18T15:36+00:00
+132362,NE,Lower Platte South Natural Resources District For Board of Directors - Subdistrict 3,2026-11-03,99.9,,False,1,2,7527,2026-11-18T15:36+00:00
+132538,NE,Papio-Missouri River Natural Resources District For Board of Directors - Subdistrict 6,2026-11-03,99.9,,False,2,1,11319,2026-11-18T15:36+00:00
+132300,NE,Little Blue Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,1,4,2039,2026-11-18T15:36+00:00
+132366,NE,Lower Platte South Natural Resources District For Board of Directors - Subdistrict 7,2026-11-03,99.9,,False,1,1,6077,2026-11-18T15:36+00:00
+132350,NE,Lower Platte North Natural Resources District For Board of Directors - Subdistrict 3,2026-11-03,99.9,,False,1,7,15566,2026-11-18T15:36+00:00
+132601,NE,Upper Loup Natural Resources District For Board of Directors - Subdistrict 1,2026-11-03,99.9,,False,1,2,495,2026-11-18T15:36+00:00
+132425,NE,Nebraska Judge of the County Court - District 5 - Judge Denise Kracl Retention,2026-11-03,99.9,,False,2,11,42040,2026-11-18T15:36+00:00
+132491,NE,Nebraska Unicameral Legislature District 44,2026-11-03,99.9,,False,1,8,10224,2026-11-18T15:36+00:00
+132251,NE,Educational Service Unit No. 5 - District 3,2026-11-03,99.9,,False,1,1,1425,2026-11-18T15:36+00:00
+132541,NE,Perennial Public Power District - Subdivision 2,2026-11-03,99.9,,False,1,2,1152,2026-11-18T15:36+00:00
+132600,NE,Upper Loup Natural Resources District For Board of Directors - At Large,2026-11-03,99.9,,False,1,8,1539,2026-11-18T15:36+00:00
+132333,NE,Lower Loup Natural Resources District For Board of Directors - Subdistrict 8,2026-11-03,99.9,,False,1,1,1544,2026-11-18T15:36+00:00
+132392,NE,Middle Loup Public Power and Irrigation District - Subdivision 1,2026-11-03,99.9,,False,1,1,235,2026-11-18T15:36+00:00
+132458,NE,Nebraska Judge of the Separate Juvenile Court - Sarpy - Judge Sarah M. Moore Retention,2026-11-03,99.9,,False,2,1,61268,2026-11-18T15:36+00:00
+132218,NE,Educational Service Unit No. 15 - District 3,2026-11-03,99.9,,False,1,4,656,2026-11-18T15:36+00:00
+132508,NE,Nemaha Natural Resources District For Board of Directors - Subdistrict 9,2026-11-03,99.9,,False,1,1,1529,2026-11-18T15:36+00:00
+132204,NE,Dawson Public Power District - Lincoln Subdivision,2026-11-03,99.9,,False,1,1,2672,2026-11-18T15:36+00:00
+132462,NE,Nebraska Public Power District - Subdivision 4,2026-11-03,99.9,,False,1,5,13922,2026-11-18T15:36+00:00
+132446,NE,Nebraska Judge of the District Court - District 3 - Judge Matthew O. Mellor Retention,2026-11-03,99.9,,False,2,1,89354,2026-11-18T15:36+00:00
+132288,NE,Lewis and Clark Natural Resources District For Board of Directors - Subdistrict 1,2026-11-03,99.9,,False,1,2,905,2026-11-18T15:36+00:00
+132336,NE,Lower Niobrara Natural Resources District For Board of Directors - 2 Year Term - Subdistrict 05,2026-11-03,0,,False,1,5,0,2026-11-18T15:36+00:00
+132587,NE,Upper Big Blue Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,2,2,2341,2026-11-18T15:36+00:00
+132571,NE,Tri-Basin Natural Resources District For Board of Directors - Subdistrict 6,2026-11-03,99.9,,False,2,2,1022,2026-11-18T15:36+00:00
+132221,NE,Educational Service Unit No. 15 - District 9,2026-11-03,99.9,,False,1,1,558,2026-11-18T15:36+00:00
+132287,NE,Lewis and Clark Natural Resources District For Board of Directors - At Large,2026-11-03,99.9,,False,1,3,4933,2026-11-18T15:36+00:00
+132429,NE,Nebraska Judge of the County Court - District 9 - Judge Alfred E. Corey III Retention,2026-11-03,99.9,,False,2,2,28121,2026-11-18T15:36+00:00
+132495,NE,Nebraska Unicameral Legislature District 8,2026-11-03,99.9,,False,2,1,13135,2026-11-18T15:36+00:00
+132170,NE,Butler Public Power District - District 6,2026-11-03,99.9,,False,1,2,356,2026-11-18T15:36+00:00
+132321,NE,Lower Elkhorn Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,1,3,3874,2026-11-18T15:36+00:00
+132604,NE,Upper Loup Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,1,3,354,2026-11-18T15:36+00:00
+132307,NE,Loup River Public Power District - Subdivision 8,2026-11-03,99.9,,False,2,1,6481,2026-11-18T15:36+00:00
+132174,NE,Central Community College For Board of Governors - District 1,2026-11-03,99.9,,False,1,6,17132,2026-11-18T15:36+00:00
+132357,NE,Lower Platte South Natural Resources District For Board of Directors - 2 Year Term - Subdistrict 02,2026-11-03,0,,False,2,4,0,2026-11-18T15:36+00:00
+132192,NE,Central Platte Natural Resources District For Board of Directors - Subdistrict 8,2026-11-03,99.9,,False,1,1,1958,2026-11-18T15:36+00:00
+132208,NE,Educational Service Unit No. 10 - District 9,2026-11-03,99.9,,False,1,5,4366,2026-11-18T15:36+00:00
+132274,NE,Elkhorn Rural Public Power District - Subdivision 3,2026-11-03,99.9,,False,1,4,1528,2026-11-18T15:36+00:00
+132258,NE,Educational Service Unit No. 7 - District 11,2026-11-03,99.9,,False,1,3,1905,2026-11-18T15:36+00:00
+132548,NE,South Platte Natural Resources District For Board of Directors - Subdistrict 1,2026-11-03,99.9,,False,1,1,642,2026-11-18T15:36+00:00
+132191,NE,Central Platte Natural Resources District For Board of Directors - Subdistrict 7,2026-11-03,99.9,,False,1,2,3478,2026-11-18T15:36+00:00
+132340,NE,Lower Niobrara Natural Resources District For Board of Directors - Subdistrict 1,2026-11-03,99.9,,False,1,5,1770,2026-11-18T15:36+00:00
+132399,NE,Middle Republican Natural Resources District For Board of Directors - Subdistrict 2,2026-11-03,99.9,,False,1,1,930,2026-11-18T15:36+00:00
+132273,NE,Elkhorn Rural Public Power District - Subdivision 2,2026-11-03,99.9,,False,1,2,1132,2026-11-18T15:36+00:00
+132417,NE,Nebraska Judge of the County Court - District 2 - Judge Todd J. Hutton Retention,2026-11-03,99.9,,False,2,3,74165,2026-11-18T15:36+00:00
+132515,NE,North Loup River Public Power and Irrigation District - Subdistrict 2,2026-11-03,99.9,,False,1,1,534,2026-11-18T15:36+00:00
+132469,NE,Nebraska State Board of Education District 7,2026-11-03,99.9,,False,1,44,68830,2026-11-18T15:36+00:00
+132453,NE,Nebraska Judge of the District Court - District 9 - Judge John H. Marsh Retention,2026-11-03,99.9,,False,2,2,28702,2026-11-18T15:36+00:00
+132519,NE,North Platte Natural Resources District For Board of Directors - Subdistrict 3,2026-11-03,99.9,,False,1,5,10988,2026-11-18T15:36+00:00
+132311,NE,Lower Big Blue Natural Resources District For Board of Directors - Subdistrict 1,2026-11-03,99.9,,False,2,3,1941,2026-11-18T15:36+00:00
+132370,NE,Lower Republican Natural Resources District For Board of Directors - Subdistrict 1,2026-11-03,99.9,,False,1,1,1451,2026-11-18T15:36+00:00
+132578,NE,Twin Platte Natural Resources District For Board of Directors - Subdistrict 3,2026-11-03,99.9,,False,1,1,2099,2026-11-18T15:36+00:00
+132228,NE,Educational Service Unit No. 17 - District 1,2026-11-03,99.9,,False,1,3,485,2026-11-18T15:36+00:00
+132518,NE,North Platte Natural Resources District For Board of Directors - Subdistrict 1,2026-11-03,99.9,,False,1,5,11181,2026-11-18T15:36+00:00
+132436,NE,Nebraska Judge of the District Court - District 12 - Judge Travis P. O'Gorman Retention,2026-11-03,99.9,,False,2,12,24412,2026-11-18T15:36+00:00
+132502,NE,Nemaha Natural Resources District For Board of Directors - Subdistrict 10,2026-11-03,99.9,,False,1,2,1517,2026-11-18T15:36+00:00
+132177,NE,Central Community College For Board of Governors - District 4,2026-11-03,99.9,,False,1,1,12790,2026-11-18T15:36+00:00
+132552,NE,Southeast Community College For Board of Governors - District 1,2026-11-03,99.9,,False,1,8,25794,2026-11-18T15:36+00:00
+132611,NE,Upper Niobrara White Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,1,4,6562,2026-11-18T15:36+00:00
+132595,NE,Upper Elkhorn Natural Resources District For Board of Directors - Subdistrict 3,2026-11-03,99.9,,False,1,1,700,2026-11-18T15:36+00:00
+132373,NE,Lower Republican Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,2,2,972,2026-11-18T15:36+00:00
+132364,NE,Lower Platte South Natural Resources District For Board of Directors - Subdistrict 5,2026-11-03,99.9,,False,1,1,5458,2026-11-18T15:36+00:00
+132615,NE,Upper Republican Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,1,2,315,2026-11-18T15:36+00:00
+132407,NE,Nebraska Board of Regents District 4,2026-11-03,99.9,,False,2,1,51695,2026-11-18T15:36+00:00
+132473,NE,Nebraska Unicameral Legislature District 14,2026-11-03,99.9,,False,2,1,15223,2026-11-18T15:36+00:00
+132489,NE,Nebraska Unicameral Legislature District 41,2026-11-03,99.9,,False,2,8,12000,2026-11-18T15:36+00:00
+132555,NE,Southeast Community College For Board of Governors - District 4,2026-11-03,99.9,,False,2,1,20507,2026-11-18T15:36+00:00
+132614,NE,Upper Republican Natural Resources District For Board of Directors - Subdistrict 2,2026-11-03,99.9,,False,1,1,254,2026-11-18T15:36+00:00
+132315,NE,Lower Big Blue Natural Resources District For Board of Directors - Subdistrict 5,2026-11-03,99.9,,False,1,1,1419,2026-11-18T15:36+00:00
+132598,NE,Upper Elkhorn Natural Resources District For Board of Directors - Subdistrict 6,2026-11-03,99.9,,False,1,1,834,2026-11-18T15:36+00:00
+132472,NE,Nebraska Unicameral Legislature District 12,2026-11-03,99.9,,False,2,1,12198,2026-11-18T15:36+00:00
+132232,NE,Educational Service Unit No. 1 - District 1,2026-11-03,99.9,,False,1,1,781,2026-11-18T15:36+00:00
+132522,NE,Northeast Community College For Board of Governors - District 2,2026-11-03,99.9,,False,1,7,9690,2026-11-18T15:36+00:00
+132282,NE,KBR Rural Public Power District - Cherry Subdivision,2026-11-03,99.9,,False,1,1,434,2026-11-18T15:36+00:00
+132460,NE,Nebraska Public Power District - Subdivision 1,2026-11-03,99.9,,False,1,8,14937,2026-11-18T15:36+00:00
+132526,NE,Northeast Nebraska Public Power District - Subdivision 2,2026-11-03,99.9,,False,1,2,549,2026-11-18T15:36+00:00
+132510,NE,Norris Public Power District - Subdivision 4,2026-11-03,99.9,,False,2,2,3089,2026-11-18T15:36+00:00
+132352,NE,Lower Platte North Natural Resources District For Board of Directors - Subdistrict 5,2026-11-03,99.9,,False,1,7,15285,2026-11-18T15:36+00:00
+132393,NE,Middle Loup Public Power and Irrigation District - Subdivision 5,2026-11-03,99.9,,False,1,1,352,2026-11-18T15:36+00:00
+132427,NE,Nebraska Judge of the County Court - District 6 - Judge Thomas J. Klein Retention,2026-11-03,99.9,,False,2,7,29572,2026-11-18T15:36+00:00
+132411,NE,Nebraska Judge of the County Court - District 10 - Judge Michael P. Burns Retention,2026-11-03,99.9,,False,2,9,22602,2026-11-18T15:36+00:00
+132285,NE,Learning Community of Douglas & Sarpy Counties - Subcouncil 3,2026-11-03,99.9,,False,3,1,34792,2026-11-18T15:36+00:00
+132351,NE,Lower Platte North Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,1,7,15375,2026-11-18T15:36+00:00
+132493,NE,Nebraska Unicameral Legislature District 48,2026-11-03,99.9,,False,2,3,11655,2026-11-18T15:36+00:00
+132559,NE,Southern Public Power District - Subdivision 6,2026-11-03,99.9,,False,1,2,1642,2026-11-18T15:36+00:00
+132618,NE,Western Community College For Board of Governors - District 1,2026-11-03,99.9,,False,1,5,4344,2026-11-18T15:36+00:00
+132378,NE,Metropolitan Community College For Board of Governors - At Large,2026-11-03,99.9,,False,2,4,218143,2026-11-18T15:36+00:00
+132252,NE,Educational Service Unit No. 5 - District 5,2026-11-03,99.9,,False,1,5,1386,2026-11-18T15:36+00:00
+132172,NE,Cedar-Knox Public Power District - Subdivision 2,2026-11-03,99.9,,False,1,1,1132,2026-11-18T15:36+00:00
+132622,NE,Western Community College For Board of Governors - District 5,2026-11-03,99.9,,False,1,1,3678,2026-11-18T15:36+00:00
+132606,NE,Upper Niobrara White Natural Resources District For Board of Directors - At Large,2026-11-03,99.9,,False,1,4,6483,2026-11-18T15:36+00:00
+132448,NE,Nebraska Judge of the District Court - District 4 - Judge Katie L. Benson Retention,2026-11-03,99.9,,False,2,1,157592,2026-11-18T15:36+00:00
+132272,NE,Elkhorn Rural Public Power District - Subdivision 1,2026-11-03,99.9,,False,1,3,1099,2026-11-18T15:36+00:00
+132338,NE,Lower Niobrara Natural Resources District For Board of Directors - Subdistrict 03,2026-11-03,0,,False,1,5,0,2026-11-18T15:36+00:00
+132322,NE,Lower Elkhorn Natural Resources District For Board of Directors - Subdistrict 5,2026-11-03,99.9,,False,1,3,3533,2026-11-18T15:36+00:00
+132189,NE,Central Platte Natural Resources District For Board of Directors - Subdistrict 5,2026-11-03,99.9,,False,1,1,3075,2026-11-18T15:36+00:00
+132447,NE,Nebraska Judge of the District Court - District 4 - Judge Duane C. Dougherty Retention,2026-11-03,99.9,,False,2,1,158126,2026-11-18T15:36+00:00
+132397,NE,Middle Niobrara Natural Resources District For Board of Directors - Subdistrict 6,2026-11-03,99.9,,False,1,4,2503,2026-11-18T15:36+00:00
+132239,NE,Educational Service Unit No. 2 - District 5,2026-11-03,99.9,,False,1,4,3131,2026-11-18T15:36+00:00
+132337,NE,Lower Niobrara Natural Resources District For Board of Directors - At Large,2026-11-03,99.9,,False,2,5,2000,2026-11-18T15:36+00:00
+132481,NE,Nebraska Unicameral Legislature District 28,2026-11-03,99.9,,False,2,1,12528,2026-11-18T15:36+00:00
+132572,NE,Twin Loups Reclamation District - Subdivision 1,2026-11-03,99.9,,False,1,3,211,2026-11-18T15:36+00:00
+132467,NE,Nebraska State Board of Education District 5,2026-11-03,99.9,,False,2,18,81514,2026-11-18T15:36+00:00
+132533,NE,Omaha Public Power District - Subdivision 2,2026-11-03,99.9,,False,2,1,19255,2026-11-18T15:36+00:00
+132517,NE,North Platte Natural Resources District For Board of Directors - At Large,2026-11-03,99.9,,False,1,5,11275,2026-11-18T15:36+00:00
+132167,NE,Butler Public Power District - District 1,2026-11-03,99.9,,False,1,1,409,2026-11-18T15:36+00:00
+132176,NE,Central Community College For Board of Governors - District 3,2026-11-03,99.9,,False,2,6,16419,2026-11-18T15:36+00:00
+132210,NE,Educational Service Unit No. 11 - District 3,2026-11-03,99.9,,False,1,1,950,2026-11-18T15:36+00:00
+132418,NE,Nebraska Judge of the County Court - District 3 - Judge Rodney D. Reuter Retention,2026-11-03,99.9,,False,2,1,89479,2026-11-18T15:36+00:00
+132292,NE,Lewis and Clark Natural Resources District For Board of Directors - Subdistrict 5,2026-11-03,99.9,,False,1,1,1094,2026-11-18T15:36+00:00
+132166,NE,Burt County Public Power District - At Large,2026-11-03,99.9,,False,2,4,2866,2026-11-18T15:36+00:00
+132500,NE,Nemaha Natural Resources District For Board of Directors - Subdistrict 05,2026-11-03,0,,False,1,1,0,2026-11-18T15:36+00:00
+132566,NE,Tri-Basin Natural Resources District For Board of Directors - Subdistrict 1,2026-11-03,99.9,,False,1,2,1040,2026-11-18T15:36+00:00
+132433,NE,Nebraska Judge of the District Court - District 11 - Judge Cindy Volkmer Retention,2026-11-03,99.9,,False,2,17,29843,2026-11-18T15:36+00:00
+132385,NE,Metropolitan Utilities District of Omaha - Subdivision 4,2026-11-03,99.9,,False,1,2,31531,2026-11-18T15:36+00:00
+132259,NE,Educational Service Unit No. 7 - District 3,2026-11-03,99.9,,False,1,3,1584,2026-11-18T15:36+00:00
+132213,NE,Educational Service Unit No. 13 - District 1,2026-11-03,99.9,,False,1,4,1841,2026-11-18T15:36+00:00
+132613,NE,Upper Republican Natural Resources District For Board of Directors - Subdistrict 10,2026-11-03,99.9,,False,1,1,260,2026-11-18T15:36+00:00
+132263,NE,Educational Service Unit No. 8 - District 1,2026-11-03,99.9,,False,1,3,1958,2026-11-18T15:36+00:00
+132471,NE,Nebraska Unicameral Legislature District 10,2026-11-03,99.9,,False,2,1,13734,2026-11-18T15:36+00:00
+132537,NE,Papio-Missouri River Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,2,1,21642,2026-11-18T15:36+00:00
+132553,NE,Southeast Community College For Board of Governors - District 2,2026-11-03,99.9,,False,1,8,28017,2026-11-18T15:36+00:00
+132196,NE,Cornhusker Public Power District - Subdivision 2,2026-11-03,99.9,,False,1,1,336,2026-11-18T15:36+00:00
+132262,NE,Educational Service Unit No. 7 - District 9,2026-11-03,99.9,,False,1,1,840,2026-11-18T15:36+00:00
+132180,NE,Central Nebraska Public Power and Irrigation District - Kearney County Subdivision,2026-11-03,99.9,,False,2,1,2524,2026-11-18T15:36+00:00
+132246,NE,Educational Service Unit No. 4 - District 3,2026-11-03,99.9,,False,1,3,1549,2026-11-18T15:36+00:00
+132536,NE,Papio-Missouri River Natural Resources District For Board of Directors - Subdistrict 2,2026-11-03,99.9,,False,1,1,11798,2026-11-18T15:36+00:00
+132296,NE,Little Blue Natural Resources District For Board of Directors - Subdistrict 07,2026-11-03,0,,False,1,3,0,2026-11-18T15:36+00:00
+132579,NE,Twin Platte Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,1,1,2149,2026-11-18T15:36+00:00
+132346,NE,Lower Platte North Natural Resources District For Board of Directors - 2 Year Term - Subdistrict 01,2026-11-03,0,,False,1,7,0,2026-11-18T15:36+00:00
+132524,NE,Northeast Community College For Board of Governors - District 4,2026-11-03,99.9,,False,1,5,8551,2026-11-18T15:36+00:00
+132583,NE,Upper Big Blue Natural Resources District For Board of Directors - At Large,2026-11-03,99.9,,False,1,9,15951,2026-11-18T15:36+00:00
+132375,NE,McCook Public Power District - Subdivision 1,2026-11-03,99.9,,False,1,3,85,2026-11-18T15:36+00:00
+132217,NE,Educational Service Unit No. 15 - District 1,2026-11-03,99.9,,False,1,1,712,2026-11-18T15:36+00:00
+132233,NE,Educational Service Unit No. 1 - District 3,2026-11-03,99.9,,False,1,1,1149,2026-11-18T15:36+00:00
+132299,NE,Little Blue Natural Resources District For Board of Directors - Subdistrict 3,2026-11-03,99.9,,False,1,1,549,2026-11-18T15:36+00:00
+132582,NE,Twin Valleys Public Power District - Subdivision 2,2026-11-03,99.9,,False,1,2,702,2026-11-18T15:36+00:00
+132475,NE,Nebraska Unicameral Legislature District 18,2026-11-03,99.9,,False,2,1,15948,2026-11-18T15:36+00:00
+132349,NE,Lower Platte North Natural Resources District For Board of Directors - Subdistrict 2,2026-11-03,99.9,,False,1,7,15529,2026-11-18T15:36+00:00
+132216,NE,Educational Service Unit No. 13 - District 9,2026-11-03,99.9,,False,1,2,1561,2026-11-18T15:36+00:00
+132557,NE,Southern Public Power District - Subdivision 2,2026-11-03,99.9,,False,1,1,1201,2026-11-18T15:36+00:00
+132200,NE,Custer Public Power District - At Large,2026-11-03,0,,False,1,13,0,2026-11-18T15:36+00:00
+132266,NE,Educational Service Unit No. 8 - District 7,2026-11-03,99.9,,False,1,1,1477,2026-11-18T15:36+00:00
+132442,NE,Nebraska Judge of the District Court - District 2 - Judge Stefanie A. Martinez Retention,2026-11-03,99.9,,False,2,2,71615,2026-11-18T15:36+00:00
+132316,NE,Lower Big Blue Natural Resources District For Board of Directors - Subdistrict 6,2026-11-03,99.9,,False,1,1,1489,2026-11-18T15:36+00:00
+132620,NE,Western Community College For Board of Governors - District 3,2026-11-03,99.9,,False,1,3,4508,2026-11-18T15:36+00:00
+132270,NE,Educational Service Unit No. 9 - District 5,2026-11-03,99.9,,False,1,1,1779,2026-11-18T15:36+00:00
+132254,NE,Educational Service Unit No. 6 - District 1,2026-11-03,99.9,,False,1,3,3257,2026-11-18T15:36+00:00
+132512,NE,North Central Public Power District - Subdivision 2,2026-11-03,99.9,,False,1,3,382,2026-11-18T15:36+00:00
+132560,NE,Southern Public Power District - Subdivision 7,2026-11-03,99.9,,False,1,3,866,2026-11-18T15:36+00:00
+132395,NE,Middle Niobrara Natural Resources District For Board of Directors - Subdistrict 2,2026-11-03,99.9,,False,2,4,3030,2026-11-18T15:36+00:00
+132379,NE,Metropolitan Community College For Board of Governors - District 1,2026-11-03,99.9,,False,1,3,44496,2026-11-18T15:36+00:00
+132445,NE,Nebraska Judge of the District Court - District 3 - Judge Kevin R. McManaman Retention,2026-11-03,99.9,,False,2,1,92190,2026-11-18T15:36+00:00
+132511,NE,Norris Public Power District - West Subdivision,2026-11-03,99.9,,False,1,6,5929,2026-11-18T15:36+00:00
+132237,NE,Educational Service Unit No. 2 - District 1,2026-11-03,99.9,,False,1,5,3032,2026-11-18T15:36+00:00
+132303,NE,Loup Basin Reclamation District - Subdivision 1,2026-11-03,99.9,,False,1,1,946,2026-11-18T15:36+00:00
+132586,NE,Upper Big Blue Natural Resources District For Board of Directors - Subdistrict 3,2026-11-03,99.9,,False,1,3,2161,2026-11-18T15:36+00:00
+132545,NE,Roosevelt Public Power District - Subdivision 6,2026-11-03,99.9,,False,1,2,204,2026-11-18T15:36+00:00
+132412,NE,Nebraska Judge of the County Court - District 11 - Judge Tanya Roberts-Connick Retention,2026-11-03,99.9,,False,2,17,29746,2026-11-18T15:36+00:00
+132531,NE,Northwest Rural Public Power District - Subdivision 3,2026-11-03,99.9,,False,1,1,427,2026-11-18T15:36+00:00
+132590,NE,Upper Big Blue Natural Resources District For Board of Directors - Subdistrict 7,2026-11-03,99.9,,False,1,3,1806,2026-11-18T15:36+00:00
+132574,NE,Twin Loups Reclamation District - Subdivision 3,2026-11-03,99.9,,False,1,2,166,2026-11-18T15:36+00:00
+132608,NE,Upper Niobrara White Natural Resources District For Board of Directors - Subdistrict 1,2026-11-03,99.9,,False,2,4,7016,2026-11-18T15:36+00:00
+132432,NE,Nebraska Judge of the District Court - District 10 - Judge Morgan R. Farquhar Retention,2026-11-03,99.9,,False,2,8,20431,2026-11-18T15:36+00:00
+132498,NE,Nemaha Natural Resources District For Board of Directors - 2 Year Term - Subdistrict 08,2026-11-03,0,,False,1,2,0,2026-11-18T15:36+00:00
+132482,NE,Nebraska Unicameral Legislature District 30,2026-11-03,99.9,,False,2,2,17275,2026-11-18T15:36+00:00
+132356,NE,Lower Platte North Natural Resources District For Board of Directors - Subdistrict 9,2026-11-03,99.9,,False,1,7,14902,2026-11-18T15:36+00:00
+132607,NE,Upper Niobrara White Natural Resources District For Board of Directors - Subdistrict 05,2026-11-03,0,,False,1,4,0,2026-11-18T15:36+00:00
+132564,NE,Stanton County Public Power District - At Large,2026-11-03,99.9,,False,2,4,2486,2026-11-18T15:36+00:00
+132207,NE,Educational Service Unit No. 10 - District 7,2026-11-03,99.9,,False,1,2,4299,2026-11-18T15:36+00:00
+132497,NE,Nemaha Natural Resources District For Board of Directors - 2 Year Term - Subdistrict 05,2026-11-03,0,,False,1,1,0,2026-11-18T15:36+00:00
+132225,NE,Educational Service Unit No. 16 - District 5,2026-11-03,99.9,,False,1,1,706,2026-11-18T15:36+00:00
+132323,NE,Lower Elkhorn Natural Resources District For Board of Directors - Subdistrict 6,2026-11-03,99.9,,False,1,4,3823,2026-11-18T15:36+00:00
+132211,NE,Educational Service Unit No. 11 - District 5,2026-11-03,99.9,,False,1,2,995,2026-11-18T15:36+00:00
+132277,NE,Howard Greeley Rural Public Power District - Subdivision 6,2026-11-03,99.9,,False,1,1,340,2026-11-18T15:36+00:00
+132261,NE,Educational Service Unit No. 7 - District 7,2026-11-03,99.9,,False,1,2,955,2026-11-18T15:36+00:00
+132327,NE,Lower Loup Natural Resources District For Board of Directors - Subdistrict 10,2026-11-03,99.9,,False,1,1,1994,2026-11-18T15:36+00:00
+132535,NE,Papio-Missouri River Natural Resources District For Board of Directors - Subdistrict 10,2026-11-03,99.9,,False,2,1,26860,2026-11-18T15:36+00:00
+132178,NE,Central Community College For Board of Governors - District 5,2026-11-03,99.9,,False,1,5,15369,2026-11-18T15:36+00:00
+132386,NE,Metropolitan Utilities District of Omaha - Subdivision 5,2026-11-03,99.9,,False,1,1,20201,2026-11-18T15:36+00:00
+132452,NE,Nebraska Judge of the District Court - District 6 - Judge Geoffrey Hall Retention,2026-11-03,99.9,,False,2,7,29914,2026-11-18T15:36+00:00
+132326,NE,Lower Loup Natural Resources District For Board of Directors - Subdistrict 1,2026-11-03,99.9,,False,1,1,2056,2026-11-18T15:36+00:00
+132244,NE,Educational Service Unit No. 3 - District 7,2026-11-03,99.9,,False,1,4,15267,2026-11-18T15:36+00:00
+132310,NE,Lower Big Blue Natural Resources District For Board of Directors - At Large,2026-11-03,99.9,,False,1,4,9505,2026-11-18T15:36+00:00
+132593,NE,Upper Elkhorn Natural Resources District For Board of Directors - Subdistrict 1,2026-11-03,99.9,,False,1,2,1019,2026-11-18T15:36+00:00
+132360,NE,Lower Platte South Natural Resources District For Board of Directors - Subdistrict 1,2026-11-03,99.9,,False,2,4,10769,2026-11-18T15:36+00:00
+132419,NE,Nebraska Judge of the County Court - District 4 - Judge Craig Q. McDermott Retention,2026-11-03,99.9,,False,2,1,157154,2026-11-18T15:36+00:00
+132181,NE,Central Nebraska Public Power and Irrigation District - Lincoln County Subdivision,2026-11-03,99.9,,False,2,1,10752,2026-11-18T15:36+00:00
+132581,NE,Twin Valleys Public Power District - Subdivision 1,2026-11-03,99.9,,False,1,4,939,2026-11-18T15:36+00:00
+132423,NE,Nebraska Judge of the County Court - District 4 - Judge Sheryl L. Lohaus Retention,2026-11-03,99.9,,False,2,1,157452,2026-11-18T15:36+00:00
+132215,NE,Educational Service Unit No. 13 - District 3,2026-11-03,99.9,,False,1,2,1696,2026-11-18T15:36+00:00
+132281,NE,KBR Rural Public Power District - 6 Year Term - Rock Subdivision,2026-11-03,0,,False,1,1,0,2026-11-18T15:36+00:00
+132297,NE,Little Blue Natural Resources District For Board of Directors - Subdistrict 08,2026-11-03,0,,False,2,2,0,2026-11-18T15:36+00:00
+132363,NE,Lower Platte South Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,1,1,12109,2026-11-18T15:36+00:00
+132422,NE,Nebraska Judge of the County Court - District 4 - Judge Marcena M. Hendrix Retention,2026-11-03,99.9,,False,2,1,157309,2026-11-18T15:36+00:00
+132539,NE,Papio-Missouri River Natural Resources District For Board of Directors - Subdistrict 8,2026-11-03,99.9,,False,1,2,15545,2026-11-18T15:36+00:00
+132406,NE,Nebraska Board of Regents District 2,2026-11-03,99.9,,False,2,2,82470,2026-11-18T15:36+00:00
+132280,NE,KBR Rural Public Power District - 6 Year Term - Keya Paha Subdivision,2026-11-03,0,,False,1,1,0,2026-11-18T15:36+00:00
+132456,NE,Nebraska Judge of the Nebraska Workers' Compensation Court - Judge Thomas E. Stine Retention,2026-11-03,99.9,,False,2,93,557994,2026-11-18T15:36+00:00
+132330,NE,Lower Loup Natural Resources District For Board of Directors - Subdistrict 5,2026-11-03,99.9,,False,1,3,1929,2026-11-18T15:36+00:00
+132506,NE,Nemaha Natural Resources District For Board of Directors - Subdistrict 6,2026-11-03,99.9,,False,1,2,1438,2026-11-18T15:36+00:00
+132268,NE,Educational Service Unit No. 9 - District 1,2026-11-03,99.9,,False,1,5,1370,2026-11-18T15:36+00:00
+132334,NE,Lower Loup Natural Resources District For Board of Directors - Subdistrict 9,2026-11-03,99.9,,False,1,2,1590,2026-11-18T15:36+00:00
+132318,NE,Lower Elkhorn Natural Resources District For Board of Directors - Subdistrict 1,2026-11-03,99.9,,False,1,6,4244,2026-11-18T15:36+00:00
+132377,NE,McCook Public Power District - Subdivision 6,2026-11-03,99.9,,False,1,2,216,2026-11-18T15:36+00:00
+132201,NE,Dawson Public Power District - 2 Year Term - Buffalo Subdivision,2026-11-03,0,,False,1,4,0,2026-11-18T15:36+00:00
+132235,NE,Educational Service Unit No. 1 - District 7,2026-11-03,99.9,,False,1,4,2217,2026-11-18T15:36+00:00
+132219,NE,Educational Service Unit No. 15 - District 5,2026-11-03,99.9,,False,1,3,817,2026-11-18T15:36+00:00
+132509,NE,Norris Public Power District - Subdivision 3,2026-11-03,99.9,,False,1,1,1676,2026-11-18T15:36+00:00
+132376,NE,McCook Public Power District - Subdivision 2,2026-11-03,99.9,,False,1,3,203,2026-11-18T15:36+00:00
+132301,NE,Little Blue Natural Resources District For Board of Directors - Subdistrict 5,2026-11-03,99.9,,False,1,3,1116,2026-11-18T15:36+00:00
+132367,NE,Lower Platte South Natural Resources District For Board of Directors - Subdistrict 8,2026-11-03,99.9,,False,1,1,9037,2026-11-18T15:36+00:00
+132426,NE,Nebraska Judge of the County Court - District 6 - Judge Sara E. Bauer Retention,2026-11-03,99.9,,False,2,7,29552,2026-11-18T15:36+00:00
+132186,NE,Central Platte Natural Resources District For Board of Directors - Subdistrict 2,2026-11-03,99.9,,False,1,2,3046,2026-11-18T15:36+00:00
+132476,NE,Nebraska Unicameral Legislature District 2,2026-11-03,99.9,,False,2,2,18744,2026-11-18T15:36+00:00
+132588,NE,Upper Big Blue Natural Resources District For Board of Directors - Subdistrict 5,2026-11-03,99.9,,False,1,3,2549,2026-11-18T15:36+00:00
+132430,NE,Nebraska Judge of the County Court - District 9 - Judge Bryan S. McQuay Retention,2026-11-03,99.9,,False,2,2,27608,2026-11-18T15:36+00:00
+132414,NE,Nebraska Judge of the County Court - District 12 - Judge Kristen D. Mickey Retention,2026-11-03,99.9,,False,2,12,24090,2026-11-18T15:36+00:00
+132256,NE,Educational Service Unit No. 6 - District 5,2026-11-03,99.9,,False,1,3,3191,2026-11-18T15:36+00:00
+132304,NE,Loup Basin Reclamation District - Subdivision 2,2026-11-03,99.9,,False,1,2,265,2026-11-18T15:36+00:00
+132562,NE,Southwest Public Power District - Subdistrict 2,2026-11-03,99.9,,False,2,3,852,2026-11-18T15:36+00:00
+132546,NE,South Central Public Power District - Subdivision 2,2026-11-03,99.9,,False,1,1,382,2026-11-18T15:36+00:00
+132605,NE,Upper Niobrara White Natural Resources District For Board of Directors - 2 Year Term - Subdistrict 05,2026-11-03,0,,False,1,4,0,2026-11-18T15:36+00:00
+132255,NE,Educational Service Unit No. 6 - District 3,2026-11-03,99.9,,False,1,6,3132,2026-11-18T15:36+00:00
+132205,NE,Educational Service Unit No. 10 - District 3,2026-11-03,99.9,,False,1,1,3341,2026-11-18T15:36+00:00
+132463,NE,Nebraska Public Power District - Subdivision 7,2026-11-03,99.9,,False,1,10,14990,2026-11-18T15:36+00:00
+132561,NE,Southwest Public Power District - Subdistrict 1,2026-11-03,99.9,,False,1,3,653,2026-11-18T15:36+00:00
+132289,NE,Lewis and Clark Natural Resources District For Board of Directors - Subdistrict 2,2026-11-03,99.9,,False,1,1,1095,2026-11-18T15:36+00:00
+132380,NE,Metropolitan Community College For Board of Governors - District 2,2026-11-03,99.9,,False,1,1,32359,2026-11-18T15:36+00:00
+132275,NE,Howard Greeley Rural Public Power District - Subdivision 1,2026-11-03,99.9,,False,1,1,179,2026-11-18T15:36+00:00
+132341,NE,Lower Niobrara Natural Resources District For Board of Directors - Subdistrict 2,2026-11-03,99.9,,False,1,5,1879,2026-11-18T15:36+00:00
+132325,NE,Lower Loup Natural Resources District For Board of Directors - At Large,2026-11-03,99.9,,False,1,16,18127,2026-11-18T15:36+00:00
+132576,NE,Twin Platte Natural Resources District For Board of Directors - Subdistrict 1,2026-11-03,99.9,,False,1,3,2335,2026-11-18T15:36+00:00
+132592,NE,Upper Elkhorn Natural Resources District For Board of Directors - At Large,2026-11-03,99.9,,False,1,4,5547,2026-11-18T15:36+00:00
+132434,NE,Nebraska Judge of the District Court - District 11 - Judge Patrick M. Heng Retention,2026-11-03,99.9,,False,2,17,29868,2026-11-18T15:36+00:00
+132226,NE,Educational Service Unit No. 16 - District 7,2026-11-03,99.9,,False,1,1,1508,2026-11-18T15:36+00:00
+132516,NE,North Loup River Public Power and Irrigation District - Subdistrict 4,2026-11-03,99.9,,False,1,1,494,2026-11-18T15:36+00:00
+132575,NE,Twin Platte Natural Resources District For Board of Directors - At Large,2026-11-03,99.9,,False,1,4,11986,2026-11-18T15:36+00:00
+132308,NE,Loup River Public Power District - Subdivision 9,2026-11-03,99.9,,False,1,1,5606,2026-11-18T15:36+00:00
+132175,NE,Central Community College For Board of Governors - District 2,2026-11-03,99.9,,False,1,8,16290,2026-11-18T15:36+00:00
+132241,NE,Educational Service Unit No. 3 - District 1,2026-11-03,99.9,,False,1,3,15530,2026-11-18T15:36+00:00
+132193,NE,Central Platte Natural Resources District For Board of Directors - Subdistrict 9,2026-11-03,99.9,,False,1,6,3987,2026-11-18T15:36+00:00
+132483,NE,Nebraska Unicameral Legislature District 32,2026-11-03,99.9,,False,2,5,14082,2026-11-18T15:36+00:00
+132437,NE,Nebraska Judge of the District Court - District 1 - Judge David J. A. Bargen Retention,2026-11-03,99.9,,False,2,10,27303,2026-11-18T15:36+00:00
+132421,NE,Nebraska Judge of the County Court - District 4 - Judge Marcela A. Keim Retention,2026-11-03,99.9,,False,2,1,157014,2026-11-18T15:36+00:00
+132487,NE,Nebraska Unicameral Legislature District 4,2026-11-03,99.9,,False,2,1,18003,2026-11-18T15:36+00:00
+132279,NE,KBR Rural Public Power District - 2 Year Term - Rock Subdivision,2026-11-03,0,,False,1,1,0,2026-11-18T15:36+00:00
+132345,NE,Lower Niobrara Natural Resources District For Board of Directors - Subdistrict 8,2026-11-03,99.9,,False,1,5,1664,2026-11-18T15:36+00:00
+132361,NE,Lower Platte South Natural Resources District For Board of Directors - Subdistrict 10,2026-11-03,99.9,,False,1,1,8965,2026-11-18T15:36+00:00
+132612,NE,Upper Republican Natural Resources District For Board of Directors - At Large,2026-11-03,99.9,,False,1,3,2485,2026-11-18T15:36+00:00
+132486,NE,Nebraska Unicameral Legislature District 38,2026-11-03,99.9,,False,2,8,15703,2026-11-18T15:36+00:00
+132596,NE,Upper Elkhorn Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,1,2,740,2026-11-18T15:36+00:00
+132470,NE,Nebraska State Board of Education District 8,2026-11-03,99.9,,False,2,1,78821,2026-11-18T15:36+00:00
+132344,NE,Lower Niobrara Natural Resources District For Board of Directors - Subdistrict 7,2026-11-03,99.9,,False,1,5,1623,2026-11-18T15:36+00:00
+132520,NE,North Platte Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,1,5,10997,2026-11-18T15:36+00:00
+132387,NE,Mid-Plains Community College For Board of Governors - District 1,2026-11-03,99.9,,False,1,4,5394,2026-11-18T15:36+00:00
+132371,NE,Lower Republican Natural Resources District For Board of Directors - Subdistrict 2,2026-11-03,99.9,,False,1,2,1149,2026-11-18T15:36+00:00
+132332,NE,Lower Loup Natural Resources District For Board of Directors - Subdistrict 7,2026-11-03,99.9,,False,1,1,1914,2026-11-18T15:36+00:00
+132391,NE,Mid-Plains Community College For Board of Governors - District 5,2026-11-03,99.9,,False,1,2,4486,2026-11-18T15:36+00:00
+132183,NE,Central Platte Natural Resources District For Board of Directors - At Large,2026-11-03,99.9,,False,1,11,32242,2026-11-18T15:36+00:00
+132441,NE,Nebraska Judge of the District Court - District 2 - Judge Michael A. Smith Retention,2026-11-03,99.9,,False,2,2,70300,2026-11-18T15:36+00:00
+132457,NE,Nebraska Judge of the Separate Juvenile Court - Douglas - Judge Matthew R. Kahler Retention,2026-11-03,99.9,,False,2,1,156966,2026-11-18T15:36+00:00
+132523,NE,Northeast Community College For Board of Governors - District 3,2026-11-03,99.9,,False,1,3,6316,2026-11-18T15:36+00:00
+132390,NE,Mid-Plains Community College For Board of Governors - District 4,2026-11-03,99.9,,False,1,2,5857,2026-11-18T15:36+00:00
+132283,NE,KBR Rural Public Power District - Keya Paha Subdivision,2026-11-03,0,,False,1,1,0,2026-11-18T15:36+00:00
+132374,NE,Lower Republican Natural Resources District For Board of Directors - Subdistrict 5,2026-11-03,99.9,,False,1,2,884,2026-11-18T15:36+00:00
+132440,NE,Nebraska Judge of the District Court - District 2 - Judge George A. Thompson Retention,2026-11-03,99.9,,False,2,2,70848,2026-11-18T15:36+00:00
+132365,NE,Lower Platte South Natural Resources District For Board of Directors - Subdistrict 6,2026-11-03,99.9,,False,1,1,5137,2026-11-18T15:36+00:00
+132616,NE,Upper Republican Natural Resources District For Board of Directors - Subdistrict 6,2026-11-03,99.9,,False,1,1,329,2026-11-18T15:36+00:00
+132490,NE,Nebraska Unicameral Legislature District 42,2026-11-03,99.9,,False,2,6,13498,2026-11-18T15:36+00:00
+132250,NE,Educational Service Unit No. 5 - District 1,2026-11-03,99.9,,False,1,4,1520,2026-11-18T15:36+00:00
+132540,NE,Perennial Public Power District - Subdivision 1,2026-11-03,99.9,,False,1,3,1792,2026-11-18T15:36+00:00
+132428,NE,Nebraska Judge of the County Court - District 8 - Judge Kale B. Burdick Retention,2026-11-03,99.9,,False,2,15,16582,2026-11-18T15:36+00:00
+132494,NE,Nebraska Unicameral Legislature District 6,2026-11-03,99.9,,False,2,1,14309,2026-11-18T15:36+00:00
+132478,NE,Nebraska Unicameral Legislature District 22,2026-11-03,99.9,,False,1,2,9517,2026-11-18T15:36+00:00
+132320,NE,Lower Elkhorn Natural Resources District For Board of Directors - Subdistrict 3,2026-11-03,99.9,,False,1,1,2844,2026-11-18T15:36+00:00
+132368,NE,Lower Platte South Natural Resources District For Board of Directors - Subdistrict 9,2026-11-03,99.9,,False,2,1,10145,2026-11-18T15:36+00:00
+132203,NE,Dawson Public Power District - Dawson Subdivision,2026-11-03,99.9,,False,2,6,3368,2026-11-18T15:36+00:00
+132187,NE,Central Platte Natural Resources District For Board of Directors - Subdistrict 3,2026-11-03,99.9,,False,1,2,3328,2026-11-18T15:36+00:00
+132253,NE,Educational Service Unit No. 5 - District 7,2026-11-03,99.9,,False,1,1,1301,2026-11-18T15:36+00:00
+132319,NE,Lower Elkhorn Natural Resources District For Board of Directors - Subdistrict 2,2026-11-03,99.9,,False,2,1,4168,2026-11-18T15:36+00:00
+132461,NE,Nebraska Public Power District - Subdivision 2,2026-11-03,99.9,,False,2,13,14877,2026-11-18T15:36+00:00
+132527,NE,Northeast Nebraska Public Power District - Subdivision 6,2026-11-03,99.9,,False,1,1,512,2026-11-18T15:36+00:00
+132394,NE,Middle Niobrara Natural Resources District For Board of Directors - At Large,2026-11-03,99.9,,False,2,4,3037,2026-11-18T15:36+00:00
+132353,NE,Lower Platte North Natural Resources District For Board of Directors - Subdistrict 6,2026-11-03,99.9,,False,1,7,15659,2026-11-18T15:36+00:00
+132220,NE,Educational Service Unit No. 15 - District 7,2026-11-03,99.9,,False,1,1,752,2026-11-18T15:36+00:00
+132339,NE,Lower Niobrara Natural Resources District For Board of Directors - Subdistrict 05,2026-11-03,0,,False,1,5,0,2026-11-18T15:36+00:00
+132398,NE,Middle Republican Natural Resources District For Board of Directors - Subdistrict 1,2026-11-03,99.9,,False,1,1,1304,2026-11-18T15:36+00:00
+132382,NE,Metropolitan Community College For Board of Governors - District 4,2026-11-03,99.9,,False,1,1,33090,2026-11-18T15:36+00:00
+132416,NE,Nebraska Judge of the County Court - District 2 - Judge S. Colin Palm Retention,2026-11-03,99.9,,False,2,3,74576,2026-11-18T15:36+00:00
+132240,NE,Educational Service Unit No. 2 - District 7,2026-11-03,99.9,,False,1,1,1856,2026-11-18T15:36+00:00
+132306,NE,Loup River Public Power District - Subdivision 5,2026-11-03,99.9,,False,1,2,881,2026-11-18T15:36+00:00
+132290,NE,Lewis and Clark Natural Resources District For Board of Directors - Subdistrict 3,2026-11-03,99.9,,False,1,2,1256,2026-11-18T15:36+00:00
+132573,NE,Twin Loups Reclamation District - Subdivision 2,2026-11-03,99.9,,False,1,2,316,2026-11-18T15:36+00:00
+132415,NE,Nebraska Judge of the County Court - District 1 - Judge Richard R. Smith Retention,2026-11-03,99.9,,False,2,8,20942,2026-11-18T15:36+00:00
+132173,NE,Cedar-Knox Public Power District - Subdivision 3,2026-11-03,99.9,,False,1,1,1271,2026-11-18T15:36+00:00
+132623,NE,Wheat Belt Public Power District - North Subdivision,2026-11-03,99.9,,False,2,3,1548,2026-11-18T15:36+00:00
+132305,NE,Loup Basin Reclamation District - Subdivision 3,2026-11-03,99.9,,False,1,2,76,2026-11-18T15:36+00:00
+132449,NE,Nebraska Judge of the District Court - District 4 - Judge LeAnne M. Srb Retention,2026-11-03,99.9,,False,2,1,158913,2026-11-18T15:36+00:00
+132547,NE,South Central Public Power District - Subdivision 7,2026-11-03,99.9,,False,1,1,395,2026-11-18T15:36+00:00
+132435,NE,Nebraska Judge of the District Court - District 12 - Judge Andrea Miller Retention,2026-11-03,99.9,,False,2,12,24507,2026-11-18T15:36+00:00
+132501,NE,Nemaha Natural Resources District For Board of Directors - Subdistrict 08,2026-11-03,0,,False,1,2,0,2026-11-18T15:36+00:00
+132485,NE,Nebraska Unicameral Legislature District 36,2026-11-03,99.9,,False,2,2,16528,2026-11-18T15:36+00:00
+132551,NE,South Platte Natural Resources District For Board of Directors - Subdistrict 6,2026-11-03,99.9,,False,1,1,581,2026-11-18T15:36+00:00
+132343,NE,Lower Niobrara Natural Resources District For Board of Directors - Subdistrict 6,2026-11-03,99.9,,False,2,5,1824,2026-11-18T15:36+00:00
+132594,NE,Upper Elkhorn Natural Resources District For Board of Directors - Subdistrict 2,2026-11-03,99.9,,False,1,1,686,2026-11-18T15:36+00:00
+132194,NE,Chimney Rock Public Power District - At Large,2026-11-03,99.9,,False,2,3,1992,2026-11-18T15:36+00:00
+132260,NE,Educational Service Unit No. 7 - District 5,2026-11-03,99.9,,False,1,1,1443,2026-11-18T15:36+00:00
+132550,NE,South Platte Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,1,1,667,2026-11-18T15:36+00:00
+132468,NE,Nebraska State Board of Education District 6,2026-11-03,99.9,,False,2,19,66049,2026-11-18T15:36+00:00
+132534,NE,Omaha Public Power District - Subdivision 3,2026-11-03,99.9,,False,2,1,32668,2026-11-18T15:36+00:00
+132401,NE,Middle Republican Natural Resources District For Board of Directors - Subdistrict 4,2026-11-03,99.9,,False,1,3,1137,2026-11-18T15:36+00:00
+132168,NE,Butler Public Power District - District 3,2026-11-03,99.9,,False,1,1,378,2026-11-18T15:36+00:00
+132227,NE,Educational Service Unit No. 16 - District 9,2026-11-03,99.9,,False,1,5,1341,2026-11-18T15:36+00:00
+87252,NE,Nebraska US House 2,2026-11-03,99,2026-11-04T05:03:40.274Z,False,3,3,256800,2026-11-18T15:36+00:00
+87253,NE,Nebraska US House 3,2026-11-03,93.7,2026-11-04T04:19:08.954Z,False,5,80,245480,2026-11-18T15:36+00:00
+87254,NE,Nebraska US Senate,2026-11-03,98.7,2026-11-04T06:52:19.694Z,False,5,93,762996,2026-11-18T15:36+00:00
+87251,NE,Nebraska US House 1,2026-11-03,99,,False,4,12,259360,2026-11-18T15:36+00:00

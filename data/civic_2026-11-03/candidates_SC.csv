@@ -1,0 +1,2230 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+142156,SC,Curtis Loftis,Republican,1063110,52.472,True,False
+142156,SC,Vincent Coe,Democratic,961829,47.473,False,False
+142156,SC,Write-in,Nonpartisan,1106,0.055,False,False
+87410,SC,Alan Wilson,Republican,1051467,51.583,True,False
+87410,SC,Jermaine Johnson,Democratic,960556,47.123,False,False
+87410,SC,Michael Addison,United Citizens,16139,0.792,False,False
+87410,SC,Walid Hakim,Green,9091,0.446,False,False
+87410,SC,Write-in,Nonpartisan,1142,0.056,False,False
+142160,SC,Cody Simpson,Republican,1043060,51.586,True,False
+142160,SC,DeShawn Blanding,Democratic,923230,45.66,False,False
+142160,SC,Michael Sullens,Libertarian,38494,1.904,False,False
+142160,SC,Chris Nelums,United Citizens,16044,0.793,False,False
+142160,SC,Write-in,Nonpartisan,1136,0.056,False,False
+142155,SC,Mark Hammond,Republican,1074114,52.846,True,False
+142155,SC,Jason Belton,Democratic,957455,47.107,False,False
+142155,SC,Write-in,Nonpartisan,960,0.047,False,False
+142157,SC,David Stumbo,Republican,1059826,52.307,True,False
+142157,SC,Richard Hricik,Democratic,965202,47.637,False,False
+142157,SC,Write-in,Nonpartisan,1134,0.056,False,False
+142159,SC,Ellen Weaver,Republican,1032961,50.974,True,False
+142159,SC,Sylvia Wright,Democratic,976703,48.198,False,False
+142159,SC,Baba Amin Ojuok,United Citizens,15513,0.766,False,False
+142159,SC,Write-in,Nonpartisan,1273,0.063,False,False
+159567,SC,Democratic,Democratic,990519,50.216,False,False
+159567,SC,Republican,Republican,973954,49.376,False,False
+159567,SC,Nonpartisan,Nonpartisan,5182,0.263,False,False
+159567,SC,Libertarian,Libertarian,1610,0.082,False,False
+159567,SC,United Citizens,United Citizens,1128,0.057,False,False
+159567,SC,Workers,Workers,122,0.006,False,False
+142158,SC,Mike Burkhold,Republican,1049002,52.057,True,False
+142158,SC,Tiffany Boozer,Democratic,965367,47.907,False,False
+142158,SC,Write-in,Nonpartisan,729,0.036,False,False
+141614,SC,Teresa W Smith,Democratic,0,,False,False
+141614,SC,Write-in,Nonpartisan,0,,False,False
+142118,SC,Casey Robinson,Nonpartisan,0,,False,False
+142118,SC,Nick Wham,Nonpartisan,0,,False,False
+142118,SC,Write-in,Nonpartisan,0,,False,False
+177077,SC,Johnathan Bass,Nonpartisan,0,,False,False
+177077,SC,Write-in,Nonpartisan,0,,False,False
+141942,SC,Carlotte M Bailey,Nonpartisan,0,,False,False
+141942,SC,Libby Tisdale,Nonpartisan,0,,False,False
+141942,SC,Write-in,Nonpartisan,0,,False,False
+141863,SC,Benton Blount,Republican,0,,False,False
+141863,SC,Cody Dean,Democratic,0,,False,False
+141863,SC,Write-in,Nonpartisan,0,,False,False
+177007,SC,Katelyn Grizzle,Nonpartisan,0,,False,False
+177007,SC,George Leagans,Nonpartisan,0,,False,False
+177007,SC,Write-in,Nonpartisan,0,,False,False
+141687,SC,Randy Roberts,Republican,0,,False,False
+141687,SC,Write-in,Nonpartisan,0,,False,False
+141800,SC,Roxann James,Republican,0,,False,False
+141800,SC,Corey S Guy,Democratic,0,,False,False
+141800,SC,Write-in,Nonpartisan,0,,False,False
+141504,SC,Joe White,Republican,9756,61.755,True,False
+141504,SC,Engle Thompson,Democratic,6026,38.144,False,False
+141504,SC,Write-in,Nonpartisan,16,0.101,False,False
+141617,SC,Jesse Cartrette,Republican,0,,False,False
+141617,SC,Write-in,Nonpartisan,0,,False,False
+141936,SC,Joseph Bennett,Nonpartisan,0,,False,False
+141936,SC,Stuart Day,Nonpartisan,0,,False,False
+141936,SC,Bethany Nemitz,Nonpartisan,0,,False,False
+141936,SC,Tressa Pankovits,Nonpartisan,0,,False,False
+141936,SC,Write-in,Nonpartisan,0,,False,False
+142049,SC,David W Roberts,Nonpartisan,0,,False,False
+142049,SC,Write-in,Nonpartisan,0,,False,False
+141554,SC,Justin Bamberg,Democratic,10830,97.62,True,False
+141554,SC,Write-in,Nonpartisan,264,2.38,False,False
+141674,SC,Raphael Coleman,Democratic,0,,False,False
+141674,SC,Write-in,Nonpartisan,0,,False,False
+141979,SC,Kathy Coleman,Nonpartisan,0,,False,False
+141979,SC,Write-in,Nonpartisan,0,,False,False
+141986,SC,Sylvia Harrison,Nonpartisan,0,,False,False
+141986,SC,Write-in,Nonpartisan,0,,False,False
+141690,SC,Alta S DuBose,Democratic,0,,False,False
+141690,SC,Write-in,Nonpartisan,0,,False,False
+141611,SC,Gail B Ingram,Democratic,0,,False,False
+141611,SC,Write-in,Nonpartisan,0,,False,False
+142115,SC,Jacob Annan,Nonpartisan,0,,False,False
+142115,SC,J Carrie Ford,Nonpartisan,0,,False,False
+142115,SC,Write-in,Nonpartisan,0,,False,False
+177067,SC,Yes,Nonpartisan,0,,False,False
+177067,SC,No,Nonpartisan,0,,False,False
+141939,SC,John Melton,Nonpartisan,0,,False,False
+141939,SC,Write-in,Nonpartisan,0,,False,False
+141860,SC,Al Allen,Republican,0,,False,False
+141860,SC,Write-in,Nonpartisan,0,,False,False
+177004,SC,Jason Edwards,Nonpartisan,0,,False,False
+177004,SC,Jon E Porter,Nonpartisan,0,,False,False
+177004,SC,Write-in,Nonpartisan,0,,False,False
+141485,SC,Dianne Mitchell,Republican,11579,60.836,True,False
+141485,SC,Dexter Reaves,Democratic,7438,39.079,False,False
+141485,SC,Write-in,Nonpartisan,16,0.084,False,False
+141797,SC,Tris Waystack,Republican,0,,False,False
+141797,SC,James Haigler,Democratic,0,,False,False
+141797,SC,Write-in,Nonpartisan,0,,False,False
+141501,SC,Steven Long,Republican,8316,56.216,True,False
+141501,SC,Seth Sauer-Hart,Democratic,6458,43.656,False,False
+141501,SC,Write-in,Nonpartisan,19,0.128,False,False
+141670,SC,Alena Beth Dorsey,Republican,0,,False,False
+141670,SC,Write-in,Nonpartisan,0,,False,False
+141982,SC,Tracy Lindler,Nonpartisan,0,,False,False
+141982,SC,Tim Rhodes,Nonpartisan,0,,False,False
+141982,SC,Emily Horne Wallace,Nonpartisan,0,,False,False
+141982,SC,Write-in,Nonpartisan,0,,False,False
+141494,SC,Brian Lawson,Republican,9089,70.386,True,False
+141494,SC,Stephanie Holstein,Democratic,3814,29.536,False,False
+141494,SC,Write-in,Nonpartisan,10,0.077,False,False
+141607,SC,Tiffany N Provence,Republican,0,,False,False
+141607,SC,Write-in,Nonpartisan,0,,False,False
+142111,SC,Harold McClintock Jr,Nonpartisan,0,,False,False
+142111,SC,Samuel Roper,Nonpartisan,0,,False,False
+142111,SC,Write-in,Nonpartisan,0,,False,False
+177070,SC,Yes,Nonpartisan,0,,False,False
+177070,SC,No,Nonpartisan,0,,False,False
+141743,SC,Brad Wilkins,Republican,0,,False,False
+141743,SC,Write-in,Nonpartisan,0,,False,False
+141856,SC,Adam Friend,Republican,0,,False,False
+141856,SC,Jaxie Ferguson,Democratic,0,,False,False
+141856,SC,Write-in,Nonpartisan,0,,False,False
+177000,SC,Stanley Marshall,Nonpartisan,0,,False,False
+177000,SC,Write-in,Nonpartisan,0,,False,False
+141488,SC,Bruce Bannister,Republican,10199,51.993,True,False
+141488,SC,Caroline Avinger,Democratic,9401,47.925,False,False
+141488,SC,Write-in,Nonpartisan,16,0.082,False,False
+141793,SC,Bill Robinson,Democratic,0,,False,False
+141793,SC,Write-in,Nonpartisan,0,,False,False
+141497,SC,Travis A Moore,Republican,10008,61.881,True,False
+141497,SC,Clemson G Turregano,Democratic,6142,37.977,False,False
+141497,SC,Write-in,Nonpartisan,23,0.142,False,False
+177057,SC,DeAnna H Green,Nonpartisan,0,,False,False
+177057,SC,Write-in,Nonpartisan,0,,False,False
+141929,SC,Nancy O Upton,Nonpartisan,0,,False,False
+141929,SC,Write-in,Nonpartisan,0,,False,False
+142042,SC,Trey Moore,Nonpartisan,0,,False,False
+142042,SC,Write-in,Nonpartisan,0,,False,False
+141746,SC,Matt Chapman,Republican,0,,False,False
+141746,SC,Delaney Kay Frierson,Democratic,0,,False,False
+141746,SC,Write-in,Nonpartisan,0,,False,False
+141667,SC,Clarissa Parks,Democratic,0,,False,False
+141667,SC,Write-in,Nonpartisan,0,,False,False
+141972,SC,Rob Wallace,Nonpartisan,0,,False,False
+141972,SC,Write-in,Nonpartisan,0,,False,False
+141491,SC,David Vaughan,Republican,9139,50.082,True,False
+141491,SC,John MacCarthy,Democratic,9101,49.874,False,False
+141491,SC,Write-in,Nonpartisan,8,0.044,False,False
+141604,SC,J T Foster,Republican,0,,False,False
+141604,SC,Write-in,Nonpartisan,0,,False,False
+142108,SC,Dax B Marlowe,Nonpartisan,0,,False,False
+142108,SC,Ned Marlowe,Nonpartisan,0,,False,False
+142108,SC,Write-in,Nonpartisan,0,,False,False
+142029,SC,Barry J Moulton,Nonpartisan,0,,False,False
+142029,SC,Write-in,Nonpartisan,0,,False,False
+141740,SC,David Kenner,Democratic,0,,False,False
+141740,SC,Write-in,Nonpartisan,0,,False,False
+141853,SC,Glen M Conwell,Republican,0,,False,False
+141853,SC,Write-in,Nonpartisan,0,,False,False
+141550,SC,Tommy Paradise,Republican,9189,60.071,True,False
+141550,SC,Malcolm Green,Democratic,6096,39.851,False,False
+141550,SC,Write-in,Nonpartisan,12,0.078,False,False
+141733,SC,Danny R Bright,Republican,0,,False,False
+141733,SC,Write-in,Nonpartisan,0,,False,False
+142038,SC,Desimond Antley,Nonpartisan,0,,False,False
+142038,SC,Idella W Carson,Nonpartisan,0,,False,False
+142038,SC,Roshonda Frazier,Nonpartisan,0,,False,False
+142038,SC,Write-in,Nonpartisan,0,,False,False
+142151,SC,Barbara J Barnes,Nonpartisan,0,,False,False
+142151,SC,Leah Blanton,Nonpartisan,0,,False,False
+142151,SC,Woody Willard,Nonpartisan,0,,False,False
+142151,SC,Write-in,Nonpartisan,0,,False,False
+141663,SC,Linda Walden Hodges,Republican,0,,False,False
+141663,SC,Write-in,Nonpartisan,0,,False,False
+141975,SC,Beth LoPresti,Nonpartisan,0,,False,False
+141975,SC,Michael Reeves,Nonpartisan,0,,False,False
+141975,SC,Terence Rickenbacker,Nonpartisan,0,,False,False
+141975,SC,Write-in,Nonpartisan,0,,False,False
+177126,SC,Leonard Houser,Nonpartisan,0,,False,False
+177126,SC,Imad Musallam,Nonpartisan,0,,False,False
+177126,SC,Write-in,Nonpartisan,0,,False,False
+141600,SC,Anthony Bubba Russell,Democratic,0,,False,False
+141600,SC,Write-in,Nonpartisan,0,,False,False
+142104,SC,Jason McDaniel,Nonpartisan,0,,False,False
+142104,SC,Joey Werner,Nonpartisan,0,,False,False
+142104,SC,Write-in,Nonpartisan,0,,False,False
+142032,SC,Amanda Thompsen,Nonpartisan,0,,False,False
+142032,SC,Write-in,Nonpartisan,0,,False,False
+141736,SC,Mike Kellems,Republican,0,,False,False
+141736,SC,Write-in,Nonpartisan,0,,False,False
+141849,SC,Mary Davis Anderson,Republican,0,,False,False
+141849,SC,Write-in,Nonpartisan,0,,False,False
+141962,SC,Greg Tysl,Nonpartisan,0,,False,False
+141962,SC,Write-in,Nonpartisan,0,,False,False
+141481,SC,Mike Burns,Republican,13659,71.607,True,False
+141481,SC,Rich Nicoloff,Democratic,5399,28.304,False,False
+141481,SC,Write-in,Nonpartisan,17,0.089,False,False
+141786,SC,Gordon Eckley,Democratic,0,,False,False
+141786,SC,Write-in,Nonpartisan,0,,False,False
+177129,SC,Write-in,Nonpartisan,0,,False,False
+177050,SC,Write-in,Nonpartisan,0,,False,False
+141915,SC,Meredith Kennedy,Republican,0,,False,False
+141915,SC,Write-in,Nonpartisan,0,,False,False
+141922,SC,Alex Belser,Nonpartisan,0,,False,False
+141922,SC,Chris Britton,Nonpartisan,0,,False,False
+141922,SC,Robert Cox,Nonpartisan,0,,False,False
+141922,SC,Kathy Ferdon-Anderson,Nonpartisan,0,,False,False
+141922,SC,Myrtle Brown Milton,Nonpartisan,0,,False,False
+141922,SC,Write-in,Nonpartisan,0,,False,False
+142035,SC,Debra Fennell Holmes,Nonpartisan,0,,False,False
+142035,SC,Write-in,Nonpartisan,0,,False,False
+141547,SC,Bill Hixon,Republican,10426,63.975,True,False
+141547,SC,Jason Payne,Democratic,5853,35.915,False,False
+141547,SC,Write-in,Nonpartisan,18,0.11,False,False
+141660,SC,Scott Case,Republican,0,,False,False
+141660,SC,Write-in,Nonpartisan,0,,False,False
+141773,SC,Ricky Bailey,Republican,0,,False,False
+141773,SC,Write-in,Nonpartisan,0,,False,False
+177123,SC,Derek Gamble,Nonpartisan,0,,False,False
+177123,SC,Anthony Gibson,Nonpartisan,0,,False,False
+177123,SC,Write-in,Nonpartisan,0,,False,False
+141597,SC,S Duane Lewis,Republican,0,,False,False
+141597,SC,Write-in,Nonpartisan,0,,False,False
+142101,SC,Richard Scholz,Nonpartisan,0,,False,False
+142101,SC,Write-in,Nonpartisan,0,,False,False
+177053,SC,Michelle Gaskins,Nonpartisan,0,,False,False
+177053,SC,Ashley Jones,Nonpartisan,0,,False,False
+177053,SC,Mattie Thomas,Nonpartisan,0,,False,False
+177053,SC,Shayla Wilson,Nonpartisan,0,,False,False
+177053,SC,Write-in,Nonpartisan,0,,False,False
+177116,SC,Miliken Matthews,Nonpartisan,0,,False,False
+177116,SC,Josh Morton,Nonpartisan,0,,False,False
+177116,SC,Write-in,Nonpartisan,0,,False,False
+141782,SC,Jackie Glover Kennion,Democratic,0,,False,False
+141782,SC,Write-in,Nonpartisan,0,,False,False
+142094,SC,Elizabeth Plaxico Lollis,Nonpartisan,0,,False,False
+142094,SC,Jake Patterson,Nonpartisan,0,,False,False
+142094,SC,Write-in,Nonpartisan,0,,False,False
+177046,SC,Yes,Nonpartisan,0,,False,False
+177046,SC,No,Nonpartisan,0,,False,False
+141918,SC,Sonya Sasser,Republican,0,,False,False
+141918,SC,Janet P Graham,Democratic,0,,False,False
+141918,SC,Write-in,Nonpartisan,0,,False,False
+141839,SC,Jason Guerry,Republican,0,,False,False
+141839,SC,Write-in,Nonpartisan,0,,False,False
+141543,SC,Hamilton R Grant,Democratic,15424,99.209,True,False
+141543,SC,Write-in,Nonpartisan,123,0.791,False,False
+141656,SC,Joy R Snipes,Democratic,0,,False,False
+141656,SC,Write-in,Nonpartisan,0,,False,False
+141776,SC,Carson Alexander,Republican,0,,False,False
+141776,SC,Write-in,Nonpartisan,0,,False,False
+177119,SC,Brian Keith Cockrell,Nonpartisan,0,,False,False
+177119,SC,Write-in,Nonpartisan,0,,False,False
+141593,SC,Cindy Crick,Republican,0,,False,False
+141593,SC,Write-in,Nonpartisan,0,,False,False
+142097,SC,Doug Atkins,Nonpartisan,0,,False,False
+142097,SC,Rae Lynn Kit,Nonpartisan,0,,False,False
+142097,SC,Write-in,Nonpartisan,0,,False,False
+142025,SC,Shirley Halley,Nonpartisan,0,,False,False
+142025,SC,Write-in,Nonpartisan,0,,False,False
+141729,SC,R L Poppy Brown,Democratic,0,,False,False
+141729,SC,Write-in,Nonpartisan,0,,False,False
+141842,SC,Travis D Reeder,Democratic,0,,False,False
+141842,SC,Write-in,Nonpartisan,0,,False,False
+141955,SC,Brandon E Bailey,Nonpartisan,0,,False,False
+141955,SC,Anna Leavitt,Nonpartisan,0,,False,False
+141955,SC,Dustin Williams,Nonpartisan,0,,False,False
+141955,SC,Write-in,Nonpartisan,0,,False,False
+141467,SC,Phillip Bowers,Republican,5614,54.163,True,False
+141467,SC,Claiborne Linvill,Democratic,4743,45.76,False,False
+141467,SC,Write-in,Nonpartisan,8,0.077,False,False
+141474,SC,Thomas Beach,Republican,9871,66.062,True,False
+141474,SC,Thomas Stewart,Democratic,5047,33.777,False,False
+141474,SC,Write-in,Nonpartisan,24,0.161,False,False
+141779,SC,Aaron Troutman,Republican,0,,False,False
+141779,SC,Cecil Thornton Jr,Democratic,0,,False,False
+141779,SC,Write-in,Nonpartisan,0,,False,False
+142091,SC,Mike Hughes,Nonpartisan,0,,False,False
+142091,SC,Write-in,Nonpartisan,0,,False,False
+177043,SC,Yes,Nonpartisan,0,,False,False
+177043,SC,No,Nonpartisan,0,,False,False
+141908,SC,Carey E Frick Sr,Nonpartisan,0,,False,False
+141908,SC,James R Nichols,Nonpartisan,0,,False,False
+141908,SC,Write-in,Nonpartisan,0,,False,False
+141836,SC,Louis R Morant,Democratic,0,,False,False
+141836,SC,Write-in,Nonpartisan,0,,False,False
+141540,SC,Leon Howard,Democratic,12502,99.435,True,False
+141540,SC,Write-in,Nonpartisan,71,0.565,False,False
+141653,SC,Christina Layton,Republican,0,,False,False
+141653,SC,Write-in,Nonpartisan,0,,False,False
+141958,SC,Harold Kay II,Nonpartisan,0,,False,False
+141958,SC,Write-in,Nonpartisan,0,,False,False
+141533,SC,Chris Wooten,Republican,9951,60.423,True,False
+141533,SC,Emery K Chaplin,Democratic,6085,36.948,False,False
+141533,SC,Allen Broadus,Libertarian,419,2.544,False,False
+141533,SC,Write-in,Nonpartisan,14,0.085,False,False
+141646,SC,David A West,Republican,0,,False,False
+141646,SC,Write-in,Nonpartisan,0,,False,False
+141951,SC,Zach Oxendine,Nonpartisan,0,,False,False
+141951,SC,Lamont Ratchford,Nonpartisan,0,,False,False
+141951,SC,Holly Shook,Nonpartisan,0,,False,False
+141951,SC,Write-in,Nonpartisan,0,,False,False
+141470,SC,April Cromer,Republican,11408,65.597,True,False
+141470,SC,Jennifer Bachner,Democratic,5924,34.064,False,False
+141470,SC,Write-in,Nonpartisan,59,0.339,False,False
+141583,SC,Leon Stavrinakis,Democratic,12579,63.182,True,False
+141583,SC,Lee Edwards,Republican,7312,36.727,False,False
+141583,SC,Write-in,Nonpartisan,18,0.09,False,False
+142087,SC,Jeff Cochran,Nonpartisan,0,,False,False
+142087,SC,Write-in,Nonpartisan,0,,False,False
+177039,SC,Yes,Nonpartisan,0,,False,False
+177039,SC,No,Nonpartisan,0,,False,False
+141911,SC,Dudley Adams,Nonpartisan,0,,False,False
+141911,SC,Michael Lancaster,Nonpartisan,0,,False,False
+141911,SC,Write-in,Nonpartisan,0,,False,False
+141832,SC,Peter Wilkins,Republican,0,,False,False
+141832,SC,Write-in,Nonpartisan,0,,False,False
+141536,SC,Seth Rose,Democratic,6933,83.389,True,False
+141536,SC,Dixie Kvatek,Republican,1370,16.478,False,False
+141536,SC,Write-in,Nonpartisan,11,0.132,False,False
+141649,SC,Crystal Isham,Democratic,0,,False,False
+141649,SC,Write-in,Nonpartisan,0,,False,False
+141769,SC,Keel Addison,Democratic,0,,False,False
+141769,SC,Write-in,Nonpartisan,0,,False,False
+177112,SC,Write-in,Nonpartisan,0,,False,False
+141586,SC,Korey Williams,Democratic,9750,52.081,True,False
+141586,SC,Bill Hager,Republican,8960,47.861,False,False
+141586,SC,Write-in,Nonpartisan,11,0.059,False,False
+141898,SC,Nelson Crisp,Nonpartisan,0,,False,False
+141898,SC,D Patrick Jackson,Nonpartisan,0,,False,False
+141898,SC,Write-in,Nonpartisan,0,,False,False
+142011,SC,Scott Sims,Nonpartisan,0,,False,False
+142011,SC,Write-in,Nonpartisan,0,,False,False
+142018,SC,Jennifer P Marvin,Nonpartisan,0,,False,False
+142018,SC,Write-in,Nonpartisan,0,,False,False
+141722,SC,Jason M Springs,Democratic,0,,False,False
+141722,SC,Write-in,Nonpartisan,0,,False,False
+141643,SC,Dennis G Fowler,Republican,0,,False,False
+141643,SC,Write-in,Nonpartisan,0,,False,False
+142147,SC,Gregory S Counts,Nonpartisan,0,,False,False
+142147,SC,Daniel S Robinson,Nonpartisan,0,,False,False
+142147,SC,Write-in,Nonpartisan,0,,False,False
+177099,SC,Yes,Nonpartisan,0,,False,False
+177099,SC,No,Nonpartisan,0,,False,False
+141580,SC,Clay Middleton,Democratic,11632,55.517,True,False
+141580,SC,James E Teeple,Republican,9309,44.43,False,False
+141580,SC,Write-in,Nonpartisan,11,0.053,False,False
+142084,SC,Anne M Pressley,Nonpartisan,0,,False,False
+142084,SC,Write-in,Nonpartisan,0,,False,False
+177036,SC,Yes,Nonpartisan,0,,False,False
+177036,SC,No,Nonpartisan,0,,False,False
+141709,SC,Gene Ceccarelli,Republican,0,,False,False
+141709,SC,Write-in,Nonpartisan,0,,False,False
+141829,SC,Bryan McClain,Republican,0,,False,False
+141829,SC,Write-in,Nonpartisan,0,,False,False
+177029,SC,Stephen Allen,Nonpartisan,0,,False,False
+177029,SC,William Axson,Nonpartisan,0,,False,False
+177029,SC,Chaz Campbell,Nonpartisan,0,,False,False
+177029,SC,Paul B Ferrara III,Nonpartisan,0,,False,False
+177029,SC,David Hartline,Nonpartisan,0,,False,False
+177029,SC,Scott Newsome,Nonpartisan,0,,False,False
+177029,SC,Write-in,Nonpartisan,0,,False,False
+141894,SC,Matthew Gene Johnson,Nonpartisan,0,,False,False
+141894,SC,Glenn Winburn,Nonpartisan,0,,False,False
+141894,SC,Write-in,Nonpartisan,0,,False,False
+142014,SC,Tonya McQuire Robinson,Nonpartisan,0,,False,False
+142014,SC,Write-in,Nonpartisan,0,,False,False
+141718,SC,John H Agee,Republican,0,,False,False
+141718,SC,Felicia Fe-Fe Stevenson,Democratic,0,,False,False
+141718,SC,Write-in,Nonpartisan,0,,False,False
+141639,SC,Leah Guerry Dupree,Republican,0,,False,False
+141639,SC,Write-in,Nonpartisan,0,,False,False
+142143,SC,Dennis Chastain,Nonpartisan,0,,False,False
+142143,SC,Don King,Nonpartisan,0,,False,False
+142143,SC,Walter Lanier,Nonpartisan,0,,False,False
+142143,SC,Write-in,Nonpartisan,0,,False,False
+177102,SC,Write-in,Nonpartisan,0,,False,False
+141576,SC,Joe Bustos,Republican,12200,53.099,True,False
+141576,SC,Jenna Arsenault,Democratic,10761,46.836,False,False
+141576,SC,Write-in,Nonpartisan,15,0.065,False,False
+142080,SC,Bennie R Cantrell,Nonpartisan,0,,False,False
+142080,SC,Robert Giles,Nonpartisan,0,,False,False
+142080,SC,Chuck Saylors,Nonpartisan,0,,False,False
+142080,SC,Write-in,Nonpartisan,0,,False,False
+177032,SC,Yes,Nonpartisan,0,,False,False
+177032,SC,No,Nonpartisan,0,,False,False
+141712,SC,Shana L Harper,Nonpartisan,0,,False,False
+141712,SC,Marvin Jeter,Nonpartisan,0,,False,False
+141712,SC,Douglas Pauley,Nonpartisan,0,,False,False
+141712,SC,Write-in,Nonpartisan,0,,False,False
+141825,SC,Don Weaver,Republican,0,,False,False
+141825,SC,John Crangle,Democratic,0,,False,False
+141825,SC,Write-in,Nonpartisan,0,,False,False
+141529,SC,Cody T Mitchell,Republican,9636,67.778,True,False
+141529,SC,Tanisha Baskin,Democratic,4566,32.116,False,False
+141529,SC,Write-in,Nonpartisan,15,0.106,False,False
+177089,SC,Yes,Nonpartisan,0,,False,False
+177089,SC,No,Nonpartisan,0,,False,False
+141755,SC,Chris Lollis,Republican,0,,False,False
+141755,SC,Russell Oglesby,Democratic,0,,False,False
+141755,SC,Write-in,Nonpartisan,0,,False,False
+141762,SC,Christian Wolfe,Republican,0,,False,False
+141762,SC,Write-in,Nonpartisan,0,,False,False
+177105,SC,Yes,Nonpartisan,0,,False,False
+177105,SC,No,Nonpartisan,0,,False,False
+177026,SC,Thad E Lane,Nonpartisan,0,,False,False
+177026,SC,Jared Madison,Nonpartisan,0,,False,False
+177026,SC,Josh Scallate,Nonpartisan,0,,False,False
+177026,SC,Grady Woods,Nonpartisan,0,,False,False
+177026,SC,Write-in,Nonpartisan,0,,False,False
+141891,SC,Christopher Hall,Nonpartisan,0,,False,False
+141891,SC,Mike Stewart,Nonpartisan,0,,False,False
+141891,SC,Write-in,Nonpartisan,0,,False,False
+142004,SC,Michael Bedenbaugh,Nonpartisan,0,,False,False
+142004,SC,Write-in,Nonpartisan,0,,False,False
+141715,SC,Ron Felder,Republican,0,,False,False
+141715,SC,Write-in,Nonpartisan,0,,False,False
+141636,SC,Gregory S Weaver,Republican,0,,False,False
+141636,SC,Calvin Payton,Democratic,0,,False,False
+141636,SC,Write-in,Nonpartisan,0,,False,False
+142140,SC,Regan Blanchard,Nonpartisan,0,,False,False
+142140,SC,Write-in,Nonpartisan,0,,False,False
+142061,SC,Sam Farlow,Nonpartisan,0,,False,False
+142061,SC,Mary Berry Ulmer,Nonpartisan,0,,False,False
+142061,SC,Write-in,Nonpartisan,0,,False,False
+141573,SC,Tiffany Spann-Wilder,Democratic,9145,98.143,True,False
+141573,SC,Write-in,Nonpartisan,173,1.857,False,False
+142077,SC,Bryan Chapman,Nonpartisan,0,,False,False
+142077,SC,Carol Hill,Nonpartisan,0,,False,False
+142077,SC,Terry B Law Sr,Nonpartisan,0,,False,False
+142077,SC,Write-in,Nonpartisan,0,,False,False
+177085,SC,Kaylie Hires,Nonpartisan,0,,False,False
+177085,SC,Susan Trimnal Holley,Nonpartisan,0,,False,False
+177085,SC,Tom Micklash,Nonpartisan,0,,False,False
+177085,SC,Write-in,Nonpartisan,0,,False,False
+141758,SC,Torrance Wilson,Democratic,0,,False,False
+141758,SC,Write-in,Nonpartisan,0,,False,False
+142070,SC,Wayne Chapman,Nonpartisan,0,,False,False
+142070,SC,Write-in,Nonpartisan,0,,False,False
+177022,SC,Dave Ferguson,Nonpartisan,0,,False,False
+177022,SC,Alan Perry,Nonpartisan,0,,False,False
+177022,SC,Palmer E Simmons,Nonpartisan,0,,False,False
+177022,SC,Write-in,Nonpartisan,0,,False,False
+141887,SC,J Lee Holmes Jr,Nonpartisan,0,,False,False
+141887,SC,Reg Williams,Nonpartisan,0,,False,False
+141887,SC,Write-in,Nonpartisan,0,,False,False
+142007,SC,Brian Silas,Nonpartisan,0,,False,False
+142007,SC,Write-in,Nonpartisan,0,,False,False
+141519,SC,Jackie Hayes,Democratic,9434,98.25,True,False
+141519,SC,Write-in,Nonpartisan,168,1.75,False,False
+141632,SC,David K Allison,Republican,0,,False,False
+141632,SC,Write-in,Nonpartisan,0,,False,False
+142136,SC,Robby Golightly,Nonpartisan,0,,False,False
+142136,SC,Jerry Hugh Jackson,Nonpartisan,0,,False,False
+142136,SC,Lee Jeffcoat,Nonpartisan,0,,False,False
+142136,SC,Write-in,Nonpartisan,0,,False,False
+142064,SC,Jessie J Cave,Nonpartisan,0,,False,False
+142064,SC,John R Hardy,Nonpartisan,0,,False,False
+142064,SC,Write-in,Nonpartisan,0,,False,False
+141569,SC,Kevin Hardee,Republican,13302,66.603,True,False
+141569,SC,David Wilson,Democratic,6647,33.282,False,False
+141569,SC,Write-in,Nonpartisan,23,0.115,False,False
+142073,SC,Artina McKnight-Coard,Nonpartisan,0,,False,False
+142073,SC,Carlos Primus,Nonpartisan,0,,False,False
+142073,SC,Write-in,Nonpartisan,0,,False,False
+141994,SC,Genie R Brainerd,Nonpartisan,0,,False,False
+141994,SC,Christopher Dantzler,Nonpartisan,0,,False,False
+141994,SC,Write-in,Nonpartisan,0,,False,False
+141705,SC,David Morton,Republican,0,,False,False
+141705,SC,William R King,Democratic,0,,False,False
+141705,SC,Write-in,Nonpartisan,0,,False,False
+141818,SC,Toney Moore,Republican,0,,False,False
+141818,SC,Write-in,Nonpartisan,0,,False,False
+141522,SC,Jeff Johnson,Republican,10149,65.225,True,False
+141522,SC,Sha-Ron E Jones,Democratic,5397,34.685,False,False
+141522,SC,Write-in,Nonpartisan,14,0.09,False,False
+177082,SC,Brian S Dixon,Nonpartisan,0,,False,False
+177082,SC,Write-in,Nonpartisan,0,,False,False
+141947,SC,Karen Luhrs,Nonpartisan,0,,False,False
+141947,SC,Carol Tempel,Nonpartisan,0,,False,False
+141947,SC,Write-in,Nonpartisan,0,,False,False
+142067,SC,Philip Good,Nonpartisan,0,,False,False
+142067,SC,Phil Leventis,Nonpartisan,0,,False,False
+142067,SC,Sherril Ray,Nonpartisan,0,,False,False
+142067,SC,Write-in,Nonpartisan,0,,False,False
+177019,SC,Write-in,Nonpartisan,0,,False,False
+141884,SC,Gregory Dayne Brown,Nonpartisan,0,,False,False
+141884,SC,William W Kirven IV,Nonpartisan,0,,False,False
+141884,SC,Write-in,Nonpartisan,0,,False,False
+141805,SC,Darryl Halbert,Republican,0,,False,False
+141805,SC,Write-in,Nonpartisan,0,,False,False
+141516,SC,Malcolm Taylor,Democratic,13106,97.967,True,False
+141516,SC,Write-in,Nonpartisan,272,2.033,False,False
+141629,SC,Kelly Baker Nobles,Democratic,0,,False,False
+141629,SC,Write-in,Nonpartisan,0,,False,False
+142133,SC,Thomas Boyer,Nonpartisan,0,,False,False
+142133,SC,Robbie Robert Easler,Nonpartisan,0,,False,False
+142133,SC,Charlie Lea,Nonpartisan,0,,False,False
+142133,SC,Write-in,Nonpartisan,0,,False,False
+141509,SC,Brandon Newton,Republican,8733,56.175,True,False
+141509,SC,Nicole Ventour,Democratic,6784,43.638,False,False
+141509,SC,Write-in,Nonpartisan,29,0.187,False,False
+141814,SC,Tab Tabernik,Republican,0,,False,False
+141814,SC,Carolyn Fournier,Democratic,0,,False,False
+141814,SC,Write-in,Nonpartisan,0,,False,False
+142126,SC,Cory Gasque,Nonpartisan,0,,False,False
+142126,SC,Stevie Watts,Nonpartisan,0,,False,False
+142126,SC,Write-in,Nonpartisan,0,,False,False
+177078,SC,Ronnie Ables,Nonpartisan,0,,False,False
+177078,SC,Write-in,Nonpartisan,0,,False,False
+141751,SC,Bill Howard,Republican,0,,False,False
+141751,SC,Kristi Burch,Forward Party,0,,False,False
+141751,SC,Write-in,Nonpartisan,0,,False,False
+141871,SC,J Eric McCall,Nonpartisan,0,,False,False
+141871,SC,Dale Wilson,Nonpartisan,0,,False,False
+141871,SC,Write-in,Nonpartisan,0,,False,False
+177015,SC,Yes,Nonpartisan,0,,False,False
+177015,SC,No,Nonpartisan,0,,False,False
+141688,SC,Cynthia M Burke,Republican,0,,False,False
+141688,SC,Write-in,Nonpartisan,0,,False,False
+141808,SC,Allison Terracio,Democratic,0,,False,False
+141808,SC,Write-in,Nonpartisan,0,,False,False
+141512,SC,Brandon Guffey,Republican,10835,56.82,True,False
+141512,SC,Rustin Terry,Democratic,8213,43.07,False,False
+141512,SC,Write-in,Nonpartisan,21,0.11,False,False
+141625,SC,Kevin C Nix,Republican,0,,False,False
+141625,SC,Write-in,Nonpartisan,0,,False,False
+142129,SC,Michael Moochie Brewington,Nonpartisan,0,,False,False
+142129,SC,Wayne Clayton,Nonpartisan,0,,False,False
+142129,SC,Craig Horne,Nonpartisan,0,,False,False
+142129,SC,James W Long,Nonpartisan,0,,False,False
+142129,SC,Write-in,Nonpartisan,0,,False,False
+142057,SC,Keith A Moore,Nonpartisan,0,,False,False
+142057,SC,Write-in,Nonpartisan,0,,False,False
+141562,SC,Sonja Ogletree Satani,Democratic,7691,54.987,True,False
+141562,SC,Greg Ford,Republican,6288,44.956,False,False
+141562,SC,Write-in,Nonpartisan,8,0.057,False,False
+141874,SC,Alex Kostik,Nonpartisan,0,,False,False
+141874,SC,Write-in,Nonpartisan,0,,False,False
+141987,SC,Tammy Brownlee,Nonpartisan,0,,False,False
+141691,SC,Mary Gable Shirley,Democratic,0,,False,False
+141691,SC,Write-in,Nonpartisan,0,,False,False
+141698,SC,Johnny Cribb,Republican,0,,False,False
+141698,SC,Write-in,Nonpartisan,0,,False,False
+141811,SC,Jimmy Davis,Republican,0,,False,False
+141811,SC,Write-in,Nonpartisan,0,,False,False
+142123,SC,Deborah W Perry,Nonpartisan,0,,False,False
+142123,SC,David Wheeler,Nonpartisan,0,,False,False
+142123,SC,Write-in,Nonpartisan,0,,False,False
+177075,SC,James Long,Nonpartisan,0,,False,False
+177075,SC,Brandon A Smith,Nonpartisan,0,,False,False
+177075,SC,Write-in,Nonpartisan,0,,False,False
+141940,SC,Brad Frick,Nonpartisan,0,,False,False
+141940,SC,Cornelius F Jeffcoat,Nonpartisan,0,,False,False
+141940,SC,Quincy C Sutton,Nonpartisan,0,,False,False
+141940,SC,Write-in,Nonpartisan,0,,False,False
+141868,SC,Bubba Trippe,Republican,0,,False,False
+141868,SC,Write-in,Nonpartisan,0,,False,False
+177012,SC,David Buck,Republican,0,,False,False
+177012,SC,Jenafer McCauley,Republican,0,,False,False
+177012,SC,Tabitha Waldrop,Republican,0,,False,False
+177012,SC,Write-in,Nonpartisan,0,,False,False
+141685,SC,Allen Hodges,Republican,0,,False,False
+141685,SC,Write-in,Nonpartisan,0,,False,False
+141990,SC,Allean Davis,Nonpartisan,0,,False,False
+141990,SC,Betty Macon Pelzer,Nonpartisan,0,,False,False
+141990,SC,Write-in,Nonpartisan,0,,False,False
+141558,SC,Gil Gatch,Republican,7696,50.515,True,False
+141558,SC,Sally Hebert,Democratic,7519,49.353,False,False
+141558,SC,Write-in,Nonpartisan,20,0.131,False,False
+141678,SC,Maria Walls,Republican,0,,False,False
+141678,SC,Scott Songer,Democratic,0,,False,False
+141678,SC,Write-in,Nonpartisan,0,,False,False
+141983,SC,Kim Burch,Nonpartisan,0,,False,False
+141983,SC,Write-in,Nonpartisan,0,,False,False
+141694,SC,Tiffany R Shaw,Republican,0,,False,False
+141694,SC,Write-in,Nonpartisan,0,,False,False
+141615,SC,Justin Strom,Republican,0,,False,False
+141615,SC,Write-in,Nonpartisan,0,,False,False
+142119,SC,Claudia F Dean,Nonpartisan,0,,False,False
+142119,SC,William Wishert,Nonpartisan,0,,False,False
+142119,SC,Write-in,Nonpartisan,0,,False,False
+177071,SC,Yes,Nonpartisan,0,,False,False
+177071,SC,No,Nonpartisan,0,,False,False
+141943,SC,Kim Gilbert,Nonpartisan,0,,False,False
+141943,SC,Blake Justice,Nonpartisan,0,,False,False
+141943,SC,Karena Phelps,Nonpartisan,0,,False,False
+141943,SC,Jennifer G Rice,Nonpartisan,0,,False,False
+141943,SC,Write-in,Nonpartisan,0,,False,False
+141864,SC,Kevin Williams,Republican,0,,False,False
+141864,SC,Art Williams,Democratic,0,,False,False
+141864,SC,Write-in,Nonpartisan,0,,False,False
+177008,SC,Write-in,Nonpartisan,0,,False,False
+141681,SC,Becky Steele Hill,Republican,0,,False,False
+141681,SC,Write-in,Nonpartisan,0,,False,False
+141801,SC,Kenny Cook Jr,Democratic,0,,False,False
+141801,SC,Write-in,Nonpartisan,0,,False,False
+141505,SC,Annie E McDaniel,Democratic,11719,66.299,True,False
+141505,SC,Tibi Czentye,Republican,5948,33.65,False,False
+141505,SC,Write-in,Nonpartisan,9,0.051,False,False
+141618,SC,Chadwicke L Groover,Republican,0,,False,False
+141618,SC,Write-in,Nonpartisan,0,,False,False
+141930,SC,Char Fitzwater,Nonpartisan,0,,False,False
+141930,SC,Keith S Grybowski,Nonpartisan,0,,False,False
+141930,SC,Mark Little,Nonpartisan,0,,False,False
+141930,SC,Write-in,Nonpartisan,0,,False,False
+142043,SC,Sally Ballentine Wofford,Nonpartisan,0,,False,False
+142043,SC,Ashley Figueiredo,Nonpartisan,0,,False,False
+142043,SC,Write-in,Nonpartisan,0,,False,False
+142050,SC,Sindy Beam,Nonpartisan,0,,False,False
+142050,SC,Matthew Mac McLeod,Nonpartisan,0,,False,False
+142050,SC,Venitia Reebel,Nonpartisan,0,,False,False
+142050,SC,Write-in,Nonpartisan,0,,False,False
+141555,SC,Lonnie Hosey,Democratic,8476,57.995,True,False
+141555,SC,Daniel Alexander,Republican,6129,41.936,False,False
+141555,SC,Write-in,Nonpartisan,10,0.068,False,False
+141675,SC,Valaree Chess Smith,Democratic,0,,False,False
+141675,SC,Write-in,Nonpartisan,0,,False,False
+141980,SC,Cecelia Sawyer Yonce,Nonpartisan,0,,False,False
+141980,SC,Write-in,Nonpartisan,0,,False,False
+141492,SC,Chris Huff,Republican,10515,53.915,True,False
+141492,SC,Alan G Buckalew,Democratic,8973,46.008,False,False
+141492,SC,Write-in,Nonpartisan,15,0.077,False,False
+141612,SC,Ceth Utsey,Republican,0,,False,False
+141612,SC,Write-in,Nonpartisan,0,,False,False
+142116,SC,Fred Floyd,Nonpartisan,0,,False,False
+142116,SC,M D Floyd,Nonpartisan,0,,False,False
+142116,SC,Bill Rhodes,Nonpartisan,0,,False,False
+142116,SC,Write-in,Nonpartisan,0,,False,False
+177068,SC,Yes,Nonpartisan,0,,False,False
+177068,SC,No,Nonpartisan,0,,False,False
+141741,SC,David Bartholomew,Republican,0,,False,False
+141741,SC,Write-in,Nonpartisan,0,,False,False
+141861,SC,Darrell DJ Jackson Jr,Democratic,0,,False,False
+141861,SC,Write-in,Nonpartisan,0,,False,False
+177061,SC,Bryan A Braddock,Republican,0,,False,False
+177061,SC,Damonni Monni Clayton,Democratic,0,,False,False
+177061,SC,Write-in,Nonpartisan,0,,False,False
+141926,SC,Wendy Burgess,Nonpartisan,0,,False,False
+141926,SC,Write-in,Nonpartisan,0,,False,False
+142046,SC,Donna Lynn Carter Stroble,Nonpartisan,0,,False,False
+142046,SC,Edward Fitch,Nonpartisan,0,,False,False
+142046,SC,Rachel J Williams,Nonpartisan,0,,False,False
+142046,SC,Write-in,Nonpartisan,0,,False,False
+141551,SC,Paula Rawl Calhoon,Republican,13010,68.825,True,False
+141551,SC,Reid Beaman,Democratic,5877,31.09,False,False
+141551,SC,Write-in,Nonpartisan,16,0.085,False,False
+141671,SC,Elizabeth M Donald,Republican,0,,False,False
+141671,SC,Write-in,Nonpartisan,0,,False,False
+141976,SC,Melanie J Wellons,Republican,0,,False,False
+141976,SC,Write-in,Nonpartisan,0,,False,False
+141495,SC,Rosalyn Henderson-Myers,Democratic,7675,89.724,True,False
+141495,SC,James A Jones Sr,United Citizens,834,9.75,False,False
+141495,SC,Write-in,Nonpartisan,45,0.526,False,False
+141608,SC,Irv Condon,Republican,0,,False,False
+141608,SC,Tamara Cunningham Curry,Democratic,0,,False,False
+141608,SC,Write-in,Nonpartisan,0,,False,False
+142112,SC,Tim Whitson,Nonpartisan,0,,False,False
+142112,SC,Write-in,Nonpartisan,0,,False,False
+177064,SC,Wanda D Anderson,Nonpartisan,0,,False,False
+177064,SC,Wilhelmena Scott,Nonpartisan,0,,False,False
+177064,SC,Write-in,Nonpartisan,0,,False,False
+141744,SC,Roy Brunson,Republican,0,,False,False
+141744,SC,Write-in,Nonpartisan,0,,False,False
+141857,SC,M Todd Cullum,Republican,0,,False,False
+141857,SC,Write-in,Nonpartisan,0,,False,False
+177001,SC,Ellen Earle Leverett,Nonpartisan,0,,False,False
+177001,SC,Sann Lomax,Nonpartisan,0,,False,False
+177001,SC,Write-in,Nonpartisan,0,,False,False
+141482,SC,Alan Morgan,Republican,11766,66.925,True,False
+141482,SC,Virginia B Maclure,Democratic,5809,33.041,False,False
+141482,SC,Write-in,Nonpartisan,6,0.034,False,False
+141787,SC,Pearly Lawson,Democratic,0,,False,False
+141787,SC,Write-in,Nonpartisan,0,,False,False
+141794,SC,Josh Mann,Republican,0,,False,False
+141794,SC,Write-in,Nonpartisan,0,,False,False
+141498,SC,Sarita Edgerton,Republican,9211,52.019,True,False
+141498,SC,Saville Williams,Democratic,8487,47.93,False,False
+141498,SC,Write-in,Nonpartisan,9,0.051,False,False
+177058,SC,Lanika Shelly Williams,Democratic,0,,False,False
+177058,SC,Write-in,Nonpartisan,0,,False,False
+141923,SC,Alysia N Garrett,Nonpartisan,0,,False,False
+141923,SC,Fred Jackson,Nonpartisan,0,,False,False
+141923,SC,John McCullough,Nonpartisan,0,,False,False
+141923,SC,RosaLee Riggins,Nonpartisan,0,,False,False
+141923,SC,Millie Roux,Nonpartisan,0,,False,False
+141923,SC,Jamie Strickland,Nonpartisan,0,,False,False
+141923,SC,Talisa Thomas,Nonpartisan,0,,False,False
+141923,SC,Write-in,Nonpartisan,0,,False,False
+142036,SC,Rick Crimminger,Nonpartisan,0,,False,False
+142036,SC,Write-in,Nonpartisan,0,,False,False
+141747,SC,Brady Hill,Republican,0,,False,False
+141747,SC,Antonio McFarland,Democratic,0,,False,False
+141747,SC,Write-in,Nonpartisan,0,,False,False
+141668,SC,Audrey Asbury,Democratic,0,,False,False
+141668,SC,Write-in,Nonpartisan,0,,False,False
+141973,SC,Matt Hiers,Nonpartisan,0,,False,False
+141973,SC,Seberina Barber Myles,Nonpartisan,0,,False,False
+141973,SC,Write-in,Nonpartisan,0,,False,False
+177124,SC,Calvin K Hastie Sr,Nonpartisan,0,,False,False
+177124,SC,Write-in,Nonpartisan,0,,False,False
+141605,SC,Myrna Still Dill,Republican,0,,False,False
+141605,SC,Write-in,Nonpartisan,0,,False,False
+142109,SC,D Patrick Clark,Nonpartisan,0,,False,False
+142109,SC,Scott A Schlaiss,Nonpartisan,0,,False,False
+142109,SC,Write-in,Nonpartisan,0,,False,False
+141478,SC,Rick Shealy,Republican,8961,61.988,True,False
+141478,SC,Michanna Tate,Democratic,5324,36.829,False,False
+141478,SC,Henry D Jones,United Citizens,156,1.079,False,False
+141478,SC,Write-in,Nonpartisan,15,0.104,False,False
+141790,SC,Annie Smith,Republican,0,,False,False
+141790,SC,Write-in,Nonpartisan,0,,False,False
+177133,SC,Pamela Garner Sloss,Nonpartisan,0,,False,False
+177133,SC,Write-in,Nonpartisan,0,,False,False
+177054,SC,Paula Morris,Nonpartisan,0,,False,False
+177054,SC,Write-in,Nonpartisan,0,,False,False
+141919,SC,Jason Morgan,Republican,0,,False,False
+141919,SC,Write-in,Nonpartisan,0,,False,False
+142039,SC,Jason Johnson,Nonpartisan,0,,False,False
+142039,SC,Roosevelt O Miott,Nonpartisan,0,,False,False
+142039,SC,Gregory Walters,Nonpartisan,0,,False,False
+142039,SC,Write-in,Nonpartisan,0,,False,False
+142152,SC,Niles R Brown Jr,Nonpartisan,0,,False,False
+142152,SC,Write-in,Nonpartisan,0,,False,False
+141664,SC,Cecil LaVear Stevens,Democratic,0,,False,False
+141664,SC,Write-in,Nonpartisan,0,,False,False
+141969,SC,Matt Burris,Nonpartisan,0,,False,False
+141969,SC,Vicki Gibson,Nonpartisan,0,,False,False
+141969,SC,Travis Johnson,Nonpartisan,0,,False,False
+141969,SC,Write-in,Nonpartisan,0,,False,False
+177127,SC,Mamie Houser,Nonpartisan,0,,False,False
+177127,SC,Write-in,Nonpartisan,0,,False,False
+141601,SC,Lee Boan,Republican,0,,False,False
+141601,SC,Write-in,Nonpartisan,0,,False,False
+142105,SC,Lorelai Hill,Nonpartisan,0,,False,False
+142105,SC,Glenn Stevens,Nonpartisan,0,,False,False
+142105,SC,Write-in,Nonpartisan,0,,False,False
+142026,SC,Tarah Cousar - Johnson,Nonpartisan,0,,False,False
+142026,SC,Daryl F McGhaney,Nonpartisan,0,,False,False
+142026,SC,Write-in,Nonpartisan,0,,False,False
+141737,SC,James White,Democratic,0,,False,False
+141737,SC,Write-in,Nonpartisan,0,,False,False
+141850,SC,David H Coker,Republican,0,,False,False
+141850,SC,Write-in,Nonpartisan,0,,False,False
+141963,SC,Eddie Martin,Nonpartisan,0,,False,False
+141963,SC,Jimmy Ouzts,Nonpartisan,0,,False,False
+141963,SC,Write-in,Nonpartisan,0,,False,False
+141475,SC,Craig Gagnon,Republican,9268,67.077,True,False
+141475,SC,Jessica Beasley,Democratic,4408,31.903,False,False
+141475,SC,E T Stone,United Citizens,138,0.999,False,False
+141475,SC,Write-in,Nonpartisan,3,0.022,False,False
+141780,SC,Kip Kiser,Republican,0,,False,False
+141780,SC,Bruce Watson,Democratic,0,,False,False
+141780,SC,Write-in,Nonpartisan,0,,False,False
+177130,SC,Yes,Nonpartisan,0,,False,False
+177130,SC,No,Nonpartisan,0,,False,False
+177051,SC,DaWayne D Nettles,Nonpartisan,0,,False,False
+177051,SC,Rebecca Yates,Nonpartisan,0,,False,False
+177051,SC,Write-in,Nonpartisan,0,,False,False
+141916,SC,Tracy Winters,Republican,0,,False,False
+141916,SC,Diane Middleton,Democratic,0,,False,False
+141916,SC,Write-in,Nonpartisan,0,,False,False
+141837,SC,Tom Anderson,Republican,0,,False,False
+141837,SC,Chris Hennigan,Forward Party,0,,False,False
+141837,SC,Write-in,Nonpartisan,0,,False,False
+141548,SC,Melissa Oremus,Republican,8456,54.767,True,False
+141548,SC,Darnell Holston,Democratic,6966,45.117,False,False
+141548,SC,Write-in,Nonpartisan,18,0.117,False,False
+141661,SC,Megan Carroll Horton,Republican,0,,False,False
+141661,SC,LaVonnia Von Aiken Fisher-Brown,Democratic,0,,False,False
+141661,SC,Write-in,Nonpartisan,0,,False,False
+141966,SC,Tyrell A Bates,Nonpartisan,0,,False,False
+141966,SC,Brian W Myers,Nonpartisan,0,,False,False
+141966,SC,Barbara F Weston,Nonpartisan,0,,False,False
+141966,SC,Write-in,Nonpartisan,0,,False,False
+142022,SC,April Holly,Nonpartisan,0,,False,False
+142022,SC,Wyatt Grant Thomas,Nonpartisan,0,,False,False
+142022,SC,Write-in,Nonpartisan,0,,False,False
+141541,SC,Kambrell Houston Garvin,Democratic,17164,99.019,True,False
+141541,SC,Write-in,Nonpartisan,170,0.981,False,False
+141846,SC,Kraig Gordon,Republican,0,,False,False
+141846,SC,Trey Judy,Democratic,0,,False,False
+141846,SC,Write-in,Nonpartisan,0,,False,False
+141959,SC,Jonathan Bailey Hooper,Nonpartisan,0,,False,False
+141959,SC,Dickie Smith,Nonpartisan,0,,False,False
+141959,SC,Write-in,Nonpartisan,0,,False,False
+141471,SC,Lee Gilreath,Republican,8649,67.428,True,False
+141471,SC,Elizabeth W Cooley,Democratic,4166,32.478,False,False
+141471,SC,Write-in,Nonpartisan,12,0.094,False,False
+141783,SC,Jonathan Proctor,Republican,0,,False,False
+141783,SC,Write-in,Nonpartisan,0,,False,False
+142095,SC,Jason R Mode,Nonpartisan,0,,False,False
+142095,SC,David Nabors,Nonpartisan,0,,False,False
+142095,SC,Write-in,Nonpartisan,0,,False,False
+177047,SC,Yes,Nonpartisan,0,,False,False
+177047,SC,No,Nonpartisan,0,,False,False
+141912,SC,Atwood I McIntosh Jr,Nonpartisan,0,,False,False
+141912,SC,Scott Williamson,Nonpartisan,0,,False,False
+141912,SC,Write-in,Nonpartisan,0,,False,False
+141840,SC,Dewayne Tennie,Democratic,0,,False,False
+141840,SC,Write-in,Nonpartisan,0,,False,False
+141544,SC,Kathy Landing,Republican,11207,57.013,True,False
+141544,SC,Benjamin E Brown,Democratic,8437,42.921,False,False
+141544,SC,Write-in,Nonpartisan,13,0.066,False,False
+141657,SC,Josh Griffin,Republican,0,,False,False
+141657,SC,Write-in,Nonpartisan,0,,False,False
+141770,SC,Joel Rogers,Democratic,0,,False,False
+141770,SC,Write-in,Nonpartisan,0,,False,False
+177120,SC,Yes,Nonpartisan,0,,False,False
+177120,SC,No,Nonpartisan,0,,False,False
+141594,SC,Jimmy A Richardson II,Republican,0,,False,False
+141594,SC,Write-in,Nonpartisan,0,,False,False
+142098,SC,Greg Balog,Nonpartisan,0,,False,False
+142098,SC,Write-in,Nonpartisan,0,,False,False
+142019,SC,Catherine L Russell,Nonpartisan,0,,False,False
+142019,SC,Write-in,Nonpartisan,0,,False,False
+141723,SC,Clint A Elliot,Republican,0,,False,False
+141723,SC,Sandra Bundy,Petition,0,,False,False
+141723,SC,Write-in,Nonpartisan,0,,False,False
+141730,SC,Joe Sullivan,Republican,0,,False,False
+141730,SC,Erin Goss,Democratic,0,,False,False
+141730,SC,Write-in,Nonpartisan,0,,False,False
+141843,SC,Latisha Walker,Democratic,0,,False,False
+141843,SC,Sid Goff,Petition,0,,False,False
+141843,SC,Write-in,Nonpartisan,0,,False,False
+141956,SC,Brad Mock,Nonpartisan,0,,False,False
+141956,SC,Write-in,Nonpartisan,0,,False,False
+141468,SC,Clay Counts,Republican,12241,80.554,True,False
+141468,SC,Derrick Kruse,Democratic,2934,19.308,False,False
+141468,SC,Write-in,Nonpartisan,21,0.138,False,False
+141581,SC,Jordan Pace,Republican,9874,50.839,True,False
+141581,SC,Ashley Painter,Democratic,9537,49.104,False,False
+141581,SC,Write-in,Nonpartisan,11,0.057,False,False
+142092,SC,Nick Babb,Nonpartisan,0,,False,False
+142092,SC,Lee McDaniel,Nonpartisan,0,,False,False
+142092,SC,Write-in,Nonpartisan,0,,False,False
+177044,SC,Todd Horton,Nonpartisan,0,,False,False
+177044,SC,James Linton,Nonpartisan,0,,False,False
+177044,SC,Charlie Sutton,Nonpartisan,0,,False,False
+177044,SC,Write-in,Nonpartisan,0,,False,False
+141909,SC,Bill Bledsoe,Nonpartisan,0,,False,False
+141909,SC,Bill Heatley,Nonpartisan,0,,False,False
+141909,SC,Christian B Rice,Nonpartisan,0,,False,False
+141909,SC,Write-in,Nonpartisan,0,,False,False
+142085,SC,Ashley Wimberly,Nonpartisan,0,,False,False
+142085,SC,Write-in,Nonpartisan,0,,False,False
+141590,SC,Byron E Gipson,Democratic,0,,False,False
+141590,SC,Write-in,Nonpartisan,0,,False,False
+141902,SC,Julie Davis,Nonpartisan,0,,False,False
+141902,SC,Edward Deason,Nonpartisan,0,,False,False
+141902,SC,Write-in,Nonpartisan,0,,False,False
+142015,SC,Courtney Crump Green,Nonpartisan,0,,False,False
+142015,SC,Annette G Melton,Nonpartisan,0,,False,False
+142015,SC,Write-in,Nonpartisan,0,,False,False
+141726,SC,Nancy R Garrison,Republican,0,,False,False
+141726,SC,Write-in,Nonpartisan,0,,False,False
+141647,SC,William E Holcombe,Republican,0,,False,False
+141647,SC,Write-in,Nonpartisan,0,,False,False
+141952,SC,Marty Watt,Nonpartisan,0,,False,False
+141952,SC,Write-in,Nonpartisan,0,,False,False
+177103,SC,Johnathan Ammons Jr,Nonpartisan,0,,False,False
+177103,SC,Clay Bodie,Nonpartisan,0,,False,False
+177103,SC,Jimmy D Brock,Nonpartisan,0,,False,False
+177103,SC,Lirhonda Butler,Nonpartisan,0,,False,False
+177103,SC,Maria Shields Dickerson,Nonpartisan,0,,False,False
+177103,SC,Heath Hood,Nonpartisan,0,,False,False
+177103,SC,Mike Patterson,Nonpartisan,0,,False,False
+177103,SC,Will Raines,Nonpartisan,0,,False,False
+177103,SC,Tracy Stone,Nonpartisan,0,,False,False
+177103,SC,Jacob Whisenant,Nonpartisan,0,,False,False
+177103,SC,Write-in,Nonpartisan,0,,False,False
+141584,SC,Weston Newton,Republican,14364,61.794,True,False
+141584,SC,Debbie Subera-Wiggin,Democratic,8871,38.163,False,False
+141584,SC,Write-in,Nonpartisan,10,0.043,False,False
+142088,SC,Fred Crum Sr,Nonpartisan,0,,False,False
+142088,SC,Evelyn Infinger,Nonpartisan,0,,False,False
+142088,SC,Write-in,Nonpartisan,0,,False,False
+177040,SC,Yes,Nonpartisan,0,,False,False
+177040,SC,No,Nonpartisan,0,,False,False
+141905,SC,Benjamin Ben Fogle,Nonpartisan,0,,False,False
+141905,SC,Jim Johnson,Nonpartisan,0,,False,False
+141905,SC,Jim Ulmer,Nonpartisan,0,,False,False
+141905,SC,Write-in,Nonpartisan,0,,False,False
+141833,SC,Stevie Grice,Democratic,0,,False,False
+141833,SC,Write-in,Nonpartisan,0,,False,False
+141537,SC,Chris Hart,Democratic,10405,81.175,True,False
+141537,SC,Allen Robertson,Republican,2410,18.802,False,False
+141537,SC,Write-in,Nonpartisan,3,0.023,False,False
+141650,SC,Gale H Black,Republican,0,,False,False
+141650,SC,Rosa Robinson Verner,Democratic,0,,False,False
+141650,SC,Write-in,Nonpartisan,0,,False,False
+141763,SC,Ethan Foard,Republican,0,,False,False
+141763,SC,Write-in,Nonpartisan,0,,False,False
+177106,SC,Yes,Nonpartisan,0,,False,False
+177106,SC,No,Nonpartisan,0,,False,False
+177113,SC,Tripp Brooks,Nonpartisan,0,,False,False
+177113,SC,Tyler C Carson,Nonpartisan,0,,False,False
+177113,SC,Thomas Golden,Nonpartisan,0,,False,False
+177113,SC,Rosa Grayden,Nonpartisan,0,,False,False
+177113,SC,Write-in,Nonpartisan,0,,False,False
+141587,SC,Jeff Bradley,Republican,12237,55.915,True,False
+141587,SC,Ann C Shippy,Democratic,9642,44.058,False,False
+141587,SC,Write-in,Nonpartisan,6,0.027,False,False
+141899,SC,Kathryn Hensley,Nonpartisan,0,,False,False
+141899,SC,Brad Sease,Nonpartisan,0,,False,False
+141899,SC,Write-in,Nonpartisan,0,,False,False
+142012,SC,Audrey DuBose Gore,Nonpartisan,0,,False,False
+142012,SC,Write-in,Nonpartisan,0,,False,False
+141716,SC,Chris Sullivan,Republican,0,,False,False
+141716,SC,Write-in,Nonpartisan,0,,False,False
+141644,SC,David T Burnett,Republican,0,,False,False
+141644,SC,Write-in,Nonpartisan,0,,False,False
+142148,SC,Jerry Cromer,Nonpartisan,0,,False,False
+142148,SC,Write-in,Nonpartisan,0,,False,False
+177100,SC,Write-in,Nonpartisan,0,,False,False
+141766,SC,Dean Campbell,Republican,0,,False,False
+141766,SC,Write-in,Nonpartisan,0,,False,False
+142141,SC,Nancy Mitchell Calvary,Nonpartisan,0,,False,False
+142141,SC,Write-in,Nonpartisan,0,,False,False
+177093,SC,Lawson Battle,Nonpartisan,0,,False,False
+177093,SC,James Graham,Nonpartisan,0,,False,False
+177093,SC,Write-in,Nonpartisan,0,,False,False
+141759,SC,Willa Marian Jennings,Democratic,0,,False,False
+141759,SC,Write-in,Nonpartisan,0,,False,False
+177109,SC,Dustin Raines,Nonpartisan,0,,False,False
+177109,SC,Write-in,Nonpartisan,0,,False,False
+177030,SC,Write-in,Nonpartisan,0,,False,False
+141895,SC,L Grover Smith III,Nonpartisan,0,,False,False
+141895,SC,Stan Wells,Nonpartisan,0,,False,False
+141895,SC,Write-in,Nonpartisan,0,,False,False
+142008,SC,Naomi Eckels,Nonpartisan,0,,False,False
+142008,SC,Write-in,Nonpartisan,0,,False,False
+141719,SC,Roger Jowers,Republican,0,,False,False
+141719,SC,Billy Richardson,Democratic,0,,False,False
+141719,SC,Write-in,Nonpartisan,0,,False,False
+141640,SC,Brandy W McBee,Republican,0,,False,False
+141640,SC,Write-in,Nonpartisan,0,,False,False
+142144,SC,Ibrahim Abdul Malik,Nonpartisan,0,,False,False
+142144,SC,Lola Campbell,Nonpartisan,0,,False,False
+142144,SC,Write-in,Nonpartisan,0,,False,False
+177096,SC,Kenlynn Sports McAlister,Nonpartisan,0,,False,False
+177096,SC,Donnie McDowell,Nonpartisan,0,,False,False
+177096,SC,Sabrina Purnell,Nonpartisan,0,,False,False
+177096,SC,Write-in,Nonpartisan,0,,False,False
+141577,SC,Courtney Waters,Democratic,8958,98.874,True,False
+141577,SC,Write-in,Nonpartisan,102,1.126,False,False
+142081,SC,Bethanny Dodge,Nonpartisan,0,,False,False
+142081,SC,Write-in,Nonpartisan,0,,False,False
+177033,SC,Yes,Nonpartisan,0,,False,False
+177033,SC,No,Nonpartisan,0,,False,False
+141706,SC,Scott Biering,Republican,0,,False,False
+141706,SC,Jessie Gooding,Democratic,0,,False,False
+141706,SC,Write-in,Nonpartisan,0,,False,False
+141819,SC,Bill Ringer,Republican,0,,False,False
+141819,SC,Vincent Davis,Democratic,0,,False,False
+141819,SC,Write-in,Nonpartisan,0,,False,False
+141826,SC,Alex Turner,Republican,0,,False,False
+141826,SC,Frankland Watts,Democratic,0,,False,False
+141826,SC,Amanda Clubb,Forward Party,0,,False,False
+141826,SC,Write-in,Nonpartisan,0,,False,False
+141530,SC,Heather Hart,Democratic,9059,51.282,True,False
+141530,SC,Jackie Terribile,Republican,8591,48.633,False,False
+141530,SC,Write-in,Nonpartisan,15,0.085,False,False
+177090,SC,Yes,Nonpartisan,0,,False,False
+177090,SC,No,Nonpartisan,0,,False,False
+141756,SC,Jason Seay,Republican,0,,False,False
+141756,SC,Write-in,Nonpartisan,0,,False,False
+142068,SC,Kelly Wilburn Shropshire,Nonpartisan,0,,False,False
+142068,SC,Write-in,Nonpartisan,0,,False,False
+177027,SC,Steve Fier,Nonpartisan,0,,False,False
+177027,SC,Valarie Guzman,Nonpartisan,0,,False,False
+177027,SC,Landon Papay,Nonpartisan,0,,False,False
+177027,SC,Write-in,Nonpartisan,0,,False,False
+141892,SC,Brad Martin,Nonpartisan,0,,False,False
+141892,SC,Andrew Warner,Nonpartisan,0,,False,False
+141892,SC,Write-in,Nonpartisan,0,,False,False
+142005,SC,Mack Burgess,Nonpartisan,0,,False,False
+142005,SC,Write-in,Nonpartisan,0,,False,False
+141517,SC,Richard Richie Yow,Republican,8770,65.742,True,False
+141517,SC,Bruce M Wallace,Democratic,4562,34.198,False,False
+141517,SC,Write-in,Nonpartisan,8,0.06,False,False
+141637,SC,Anna Miller,Republican,0,,False,False
+141637,SC,Write-in,Nonpartisan,0,,False,False
+141998,SC,Tami Green,Nonpartisan,0,,False,False
+141998,SC,Write-in,Nonpartisan,0,,False,False
+141702,SC,Ben Connell,Republican,0,,False,False
+141702,SC,Write-in,Nonpartisan,0,,False,False
+141822,SC,Charles Arthur Beasley,Democratic,0,,False,False
+141822,SC,Write-in,Nonpartisan,0,,False,False
+141526,SC,Robert Williams,Democratic,9858,97.798,True,False
+141526,SC,Write-in,Nonpartisan,222,2.202,False,False
+177086,SC,Pamela Johnson,Nonpartisan,0,,False,False
+177086,SC,Paul G Scott Sr,Nonpartisan,0,,False,False
+177086,SC,Write-in,Nonpartisan,0,,False,False
+141752,SC,Charlene McGriff,Democratic,0,,False,False
+141752,SC,Write-in,Nonpartisan,0,,False,False
+142071,SC,Beth Ramsey Anthony,Nonpartisan,0,,False,False
+142071,SC,Sonya V Glenn,Nonpartisan,0,,False,False
+142071,SC,Write-in,Nonpartisan,0,,False,False
+177023,SC,Patsy Brison,Nonpartisan,0,,False,False
+177023,SC,Josh Peeples,Nonpartisan,0,,False,False
+177023,SC,Write-in,Nonpartisan,0,,False,False
+141888,SC,Eric Cathcart,Nonpartisan,0,,False,False
+141888,SC,William Ladd,Nonpartisan,0,,False,False
+141888,SC,Write-in,Nonpartisan,0,,False,False
+142001,SC,Bill Gaskins,Nonpartisan,0,,False,False
+142001,SC,Write-in,Nonpartisan,0,,False,False
+141520,SC,Tim McGinnis,Republican,13919,63.234,True,False
+141520,SC,Jacqualyn Meadow,Democratic,8081,36.712,False,False
+141520,SC,Write-in,Nonpartisan,12,0.055,False,False
+141633,SC,Amy McCulloch,Democratic,0,,False,False
+141633,SC,Write-in,Nonpartisan,0,,False,False
+142137,SC,Kenneth John Bishop,Nonpartisan,0,,False,False
+142137,SC,Steve Horton,Nonpartisan,0,,False,False
+142137,SC,Jessie Tucker,Nonpartisan,0,,False,False
+142137,SC,Write-in,Nonpartisan,0,,False,False
+142058,SC,Marsha Robinson,Nonpartisan,0,,False,False
+142058,SC,Write-in,Nonpartisan,0,,False,False
+141563,SC,Jarrod Brooks,Republican,10063,58.178,True,False
+141563,SC,Samuel Price,Democratic,7221,41.747,False,False
+141563,SC,Write-in,Nonpartisan,13,0.075,False,False
+141570,SC,Val Guest,Republican,15018,66.812,True,False
+141570,SC,Marisa McCann,Democratic,7457,33.175,False,False
+141570,SC,Write-in,Nonpartisan,3,0.013,False,False
+142074,SC,John Black,Nonpartisan,0,,False,False
+142074,SC,Robert Lominack,Nonpartisan,0,,False,False
+142074,SC,Write-in,Nonpartisan,0,,False,False
+141995,SC,Lindsey Draugel,Nonpartisan,0,,False,False
+141995,SC,Mac McQuillin,Nonpartisan,0,,False,False
+141995,SC,Write-in,Nonpartisan,0,,False,False
+141699,SC,Phillip G Russell II,Republican,0,,False,False
+141699,SC,Arthur Archie Hirschmann,Petition,0,,False,False
+141699,SC,Write-in,Nonpartisan,0,,False,False
+141812,SC,Mark D Tyler,Democratic,0,,False,False
+141812,SC,Write-in,Nonpartisan,0,,False,False
+141523,SC,Terry Alexander,Democratic,9435,97.914,True,False
+141523,SC,Write-in,Nonpartisan,201,2.086,False,False
+177083,SC,Nate Van Landingham,Nonpartisan,0,,False,False
+177083,SC,Write-in,Nonpartisan,0,,False,False
+141948,SC,David McSwain,Nonpartisan,0,,False,False
+141948,SC,Write-in,Nonpartisan,0,,False,False
+141869,SC,Cindy Forte,Republican,0,,False,False
+141869,SC,Write-in,Nonpartisan,0,,False,False
+177020,SC,Yes,Nonpartisan,0,,False,False
+177020,SC,No,Nonpartisan,0,,False,False
+141885,SC,Joe Hayes,Nonpartisan,0,,False,False
+141885,SC,Bruce Price Jr,Nonpartisan,0,,False,False
+141885,SC,Write-in,Nonpartisan,0,,False,False
+142054,SC,David Carr,Nonpartisan,0,,False,False
+142054,SC,Adrian Lewis,Nonpartisan,0,,False,False
+142054,SC,Write-in,Nonpartisan,0,,False,False
+141566,SC,Montez Aiken,Democratic,9906,57.177,True,False
+141566,SC,Harriet Holman,Republican,7380,42.597,False,False
+141566,SC,Write-in,Nonpartisan,39,0.225,False,False
+141878,SC,Thomas Legare,Nonpartisan,0,,False,False
+141878,SC,Write-in,Nonpartisan,0,,False,False
+141991,SC,James L Curenton,Nonpartisan,0,,False,False
+141991,SC,Katie Haney,Nonpartisan,0,,False,False
+141991,SC,Bill Mabry,Nonpartisan,0,,False,False
+141991,SC,Write-in,Nonpartisan,0,,False,False
+141695,SC,Oren L Brady III,Republican,0,,False,False
+141695,SC,Write-in,Nonpartisan,0,,False,False
+141815,SC,John Marshall West,Republican,0,,False,False
+141815,SC,Leroy Godfrey Jr,Democratic,0,,False,False
+141815,SC,Write-in,Nonpartisan,0,,False,False
+142127,SC,Doug Mixson,Nonpartisan,0,,False,False
+142127,SC,Wesley Ulmer,Nonpartisan,0,,False,False
+142127,SC,Write-in,Nonpartisan,0,,False,False
+177079,SC,Henry O Watts,Nonpartisan,0,,False,False
+177079,SC,Write-in,Nonpartisan,0,,False,False
+141944,SC,Karla Kelley,Nonpartisan,0,,False,False
+141944,SC,Write-in,Nonpartisan,0,,False,False
+141872,SC,Willie Lee Jones,Nonpartisan,0,,False,False
+141872,SC,William F Nichols,Nonpartisan,0,,False,False
+141872,SC,Write-in,Nonpartisan,0,,False,False
+177016,SC,Yes,Nonpartisan,0,,False,False
+177016,SC,No,Nonpartisan,0,,False,False
+141881,SC,Jamie Miles,Nonpartisan,0,,False,False
+141881,SC,Roger Smith,Nonpartisan,0,,False,False
+141881,SC,Write-in,Nonpartisan,0,,False,False
+141802,SC,Jerry Moody,Republican,0,,False,False
+141802,SC,Write-in,Nonpartisan,0,,False,False
+141513,SC,John R King,Democratic,10962,98.006,True,False
+141513,SC,Write-in,Nonpartisan,223,1.994,False,False
+141626,SC,Brian Eckstrom,Republican,0,,False,False
+141626,SC,Write-in,Nonpartisan,0,,False,False
+142130,SC,Darwin Allen,Nonpartisan,0,,False,False
+142130,SC,Cal Arnold,Nonpartisan,0,,False,False
+142130,SC,John D Cheek Jr,Nonpartisan,0,,False,False
+142130,SC,Timika M Wilson,Nonpartisan,0,,False,False
+142130,SC,Write-in,Nonpartisan,0,,False,False
+142051,SC,Gary L McKenzie,Nonpartisan,0,,False,False
+142051,SC,Write-in,Nonpartisan,0,,False,False
+141556,SC,Byron Walters,Democratic,7461,51.58,True,False
+141556,SC,Brandon Cox,Republican,7001,48.4,False,False
+141556,SC,Write-in,Nonpartisan,3,0.021,False,False
+141875,SC,Curtis L Hogg Jr,Nonpartisan,0,,False,False
+141875,SC,Fleming McMaster,Nonpartisan,0,,False,False
+141875,SC,Write-in,Nonpartisan,0,,False,False
+141988,SC,Mary Green Wilson,Nonpartisan,0,,False,False
+141988,SC,Write-in,Nonpartisan,0,,False,False
+141692,SC,Matt Stokes,Democratic,0,,False,False
+141692,SC,Write-in,Nonpartisan,0,,False,False
+141613,SC,Jeff Robinson,Republican,0,,False,False
+141613,SC,Write-in,Nonpartisan,0,,False,False
+142124,SC,Kristen Beigay,Nonpartisan,0,,False,False
+142124,SC,Randy Griffis,Nonpartisan,0,,False,False
+142124,SC,Write-in,Nonpartisan,0,,False,False
+177076,SC,Robert Dean,Nonpartisan,0,,False,False
+177076,SC,Write-in,Nonpartisan,0,,False,False
+141941,SC,Brad Dover,Nonpartisan,0,,False,False
+141941,SC,Write-in,Nonpartisan,0,,False,False
+142117,SC,Bo Aartun,Nonpartisan,0,,False,False
+142117,SC,Andy Anderson,Nonpartisan,0,,False,False
+142117,SC,Jeff White,Nonpartisan,0,,False,False
+142117,SC,Write-in,Nonpartisan,0,,False,False
+141622,SC,Dixie S Ford,Republican,0,,False,False
+141622,SC,Albert Buster Kleckley Jr,Democratic,0,,False,False
+141622,SC,Write-in,Nonpartisan,0,,False,False
+141934,SC,Linda Alford- Wooten,Nonpartisan,0,,False,False
+141934,SC,Kevin Key,Nonpartisan,0,,False,False
+141934,SC,Tommy King,Nonpartisan,0,,False,False
+141934,SC,Marcus McGill,Nonpartisan,0,,False,False
+141934,SC,Write-in,Nonpartisan,0,,False,False
+142047,SC,Micah Drew,Nonpartisan,0,,False,False
+142047,SC,Write-in,Nonpartisan,0,,False,False
+141559,SC,Gilda Cobb-Hunter,Democratic,11163,97.887,True,False
+141559,SC,Write-in,Nonpartisan,241,2.113,False,False
+141679,SC,Scarlet Ramsey,Republican,0,,False,False
+141679,SC,Write-in,Nonpartisan,0,,False,False
+141984,SC,Leigh Anne Kelley,Nonpartisan,0,,False,False
+141984,SC,Write-in,Nonpartisan,0,,False,False
+141496,SC,Scott Montgomery,Republican,7527,53.876,True,False
+141496,SC,Irene Benson,Democratic,6433,46.045,False,False
+141496,SC,Write-in,Nonpartisan,11,0.079,False,False
+141616,SC,Brad Caulder,Democratic,0,,False,False
+141616,SC,Write-in,Nonpartisan,0,,False,False
+142120,SC,Rick Lynch,Nonpartisan,0,,False,False
+142120,SC,Ronnie L Shady Sr,Nonpartisan,0,,False,False
+142120,SC,Write-in,Nonpartisan,0,,False,False
+177072,SC,Yes,Nonpartisan,0,,False,False
+177072,SC,No,Nonpartisan,0,,False,False
+141937,SC,Cheryl A Burgess,Nonpartisan,0,,False,False
+141937,SC,Gariane P Gunter,Nonpartisan,0,,False,False
+141937,SC,Sharmen M Oswald,Nonpartisan,0,,False,False
+141937,SC,Write-in,Nonpartisan,0,,False,False
+141865,SC,David C Mitchell,Democratic,0,,False,False
+141865,SC,Write-in,Nonpartisan,0,,False,False
+177009,SC,Write-in,Nonpartisan,0,,False,False
+141682,SC,Jamie Calhoun Estes,Democratic,0,,False,False
+141682,SC,Write-in,Nonpartisan,0,,False,False
+141795,SC,Joshua Hower,Republican,0,,False,False
+141795,SC,Lynn Gerson,Democratic,0,,False,False
+141795,SC,Write-in,Nonpartisan,0,,False,False
+141499,SC,Bill Chumley,Republican,12124,60.565,True,False
+141499,SC,Tatiana Skipper,Democratic,7873,39.33,False,False
+141499,SC,Write-in,Nonpartisan,21,0.105,False,False
+141506,SC,Doug Gilliam,Republican,7725,59.593,True,False
+141506,SC,Robert Larry Williams,Democratic,5217,40.245,False,False
+141506,SC,Write-in,Nonpartisan,21,0.162,False,False
+141619,SC,Travis W Moore,Republican,0,,False,False
+141619,SC,Write-in,Nonpartisan,0,,False,False
+141931,SC,Crystal Baker,Nonpartisan,0,,False,False
+141931,SC,Dana Homesley,Nonpartisan,0,,False,False
+141931,SC,Joyce Joy Jordan,Nonpartisan,0,,False,False
+141931,SC,Jack Eddie Lundeen,Nonpartisan,0,,False,False
+141931,SC,Katie McCown,Nonpartisan,0,,False,False
+141931,SC,Chris Rice,Nonpartisan,0,,False,False
+141931,SC,Chris Shealy,Nonpartisan,0,,False,False
+141931,SC,Shelton Yonce,Nonpartisan,0,,False,False
+141931,SC,Write-in,Nonpartisan,0,,False,False
+142044,SC,Maggie J James,Nonpartisan,0,,False,False
+142044,SC,Write-in,Nonpartisan,0,,False,False
+141748,SC,Joe Debney,Republican,0,,False,False
+141748,SC,Bryan Holman,Democratic,0,,False,False
+141748,SC,Write-in,Nonpartisan,0,,False,False
+141676,SC,Candace B Fralix,Republican,0,,False,False
+141676,SC,Cynthia S McMillan,Democratic,0,,False,False
+141676,SC,Write-in,Nonpartisan,0,,False,False
+141981,SC,Christy Corley Nichols,Nonpartisan,0,,False,False
+141981,SC,Write-in,Nonpartisan,0,,False,False
+141493,SC,Dennis Moss,Republican,9389,68.658,True,False
+141493,SC,Marina Franco,Democratic,4266,31.196,False,False
+141493,SC,Write-in,Nonpartisan,20,0.146,False,False
+141798,SC,Teddie Pryor,Democratic,0,,False,False
+141798,SC,Write-in,Nonpartisan,0,,False,False
+177005,SC,Barbara Foust,Nonpartisan,0,,False,False
+177005,SC,Shameka Holland Hudson,Nonpartisan,0,,False,False
+177005,SC,Wane Postell,Nonpartisan,0,,False,False
+177005,SC,Write-in,Nonpartisan,0,,False,False
+141486,SC,Paul Wickensimer,Republican,9863,52.577,True,False
+141486,SC,Josh Kendrick,Democratic,8880,47.337,False,False
+141486,SC,Write-in,Nonpartisan,16,0.085,False,False
+141791,SC,William Bump Roddey,Democratic,0,,False,False
+141791,SC,Write-in,Nonpartisan,0,,False,False
+141502,SC,Josiah Magnuson,Republican,12167,73.566,True,False
+141502,SC,Tammy Hahn,Democratic,4350,26.301,False,False
+141502,SC,Write-in,Nonpartisan,22,0.133,False,False
+177062,SC,LaRue Alford,Nonpartisan,0,,False,False
+177062,SC,Michael Donavan Nero,Nonpartisan,0,,False,False
+177062,SC,Yamekia Robinson,Nonpartisan,0,,False,False
+177062,SC,Write-in,Nonpartisan,0,,False,False
+141927,SC,Barbara Dansby,Nonpartisan,0,,False,False
+141927,SC,Write-in,Nonpartisan,0,,False,False
+142040,SC,Jennifer Ivey Knight,Nonpartisan,0,,False,False
+142040,SC,Write-in,Nonpartisan,0,,False,False
+141552,SC,John Lastinger,Republican,7926,57.054,True,False
+141552,SC,Jeremy Jones,Democratic,5957,42.881,False,False
+141552,SC,Write-in,Nonpartisan,9,0.065,False,False
+141672,SC,Brad Valentine,Republican,0,,False,False
+141672,SC,Write-in,Nonpartisan,0,,False,False
+141977,SC,Traves Reames,Democratic,0,,False,False
+141977,SC,Write-in,Nonpartisan,0,,False,False
+141489,SC,Wendell Jones,Democratic,10927,98.406,True,False
+141489,SC,Write-in,Nonpartisan,177,1.594,False,False
+141609,SC,Joshua L Queen,Republican,0,,False,False
+141609,SC,Write-in,Nonpartisan,0,,False,False
+142113,SC,Jimmy Bailey Jr,Nonpartisan,0,,False,False
+142113,SC,Kevin Rowell,Nonpartisan,0,,False,False
+142113,SC,Write-in,Nonpartisan,0,,False,False
+177065,SC,Jason M Brown,Nonpartisan,0,,False,False
+177065,SC,Write-in,Nonpartisan,0,,False,False
+141738,SC,James Hayes,Republican,0,,False,False
+141738,SC,Glenn Davis,Democratic,0,,False,False
+141738,SC,Write-in,Nonpartisan,0,,False,False
+141851,SC,William Schofield,Republican,0,,False,False
+141851,SC,Write-in,Nonpartisan,0,,False,False
+141858,SC,John Casey,Republican,0,,False,False
+141858,SC,Travis Ludwig-Hodges,Democratic,0,,False,False
+141858,SC,Write-in,Nonpartisan,0,,False,False
+177002,SC,Chris Edwards,Nonpartisan,0,,False,False
+177002,SC,John Sutherland,Nonpartisan,0,,False,False
+177002,SC,Write-in,Nonpartisan,0,,False,False
+141483,SC,Patrick B Haddon,Republican,6754,51.381,True,False
+141483,SC,Rachel Smith,Democratic,6384,48.566,False,False
+141483,SC,Write-in,Nonpartisan,7,0.053,False,False
+141788,SC,Jamie L Devine,Democratic,0,,False,False
+141788,SC,Write-in,Nonpartisan,0,,False,False
+177131,SC,Jackie W Earls,Nonpartisan,0,,False,False
+177131,SC,Write-in,Nonpartisan,0,,False,False
+177059,SC,LaShonda NeSmith-Jackson,Democratic,0,,False,False
+177059,SC,Write-in,Nonpartisan,0,,False,False
+141924,SC,Debora Brunson,Nonpartisan,0,,False,False
+141924,SC,Deneathra Monique Butler,Nonpartisan,0,,False,False
+141924,SC,Maurice A Middleton,Nonpartisan,0,,False,False
+141924,SC,Write-in,Nonpartisan,0,,False,False
+142037,SC,Hugh Gray,Nonpartisan,0,,False,False
+142037,SC,Write-in,Nonpartisan,0,,False,False
+141549,SC,Jay Kilmartin,Republican,11209,55.872,True,False
+141549,SC,Steven J Asbill Jr,Democratic,8824,43.984,False,False
+141549,SC,Write-in,Nonpartisan,29,0.145,False,False
+141669,SC,Allen Brown,Democratic,0,,False,False
+141669,SC,Write-in,Nonpartisan,0,,False,False
+142030,SC,Victor Ney,Nonpartisan,0,,False,False
+142030,SC,Gwyneth J Saunders,Nonpartisan,0,,False,False
+142030,SC,Write-in,Nonpartisan,0,,False,False
+141734,SC,Joe Lee,Democratic,0,,False,False
+141734,SC,Write-in,Nonpartisan,0,,False,False
+141854,SC,Adrian Kinney,Democratic,0,,False,False
+141854,SC,Write-in,Nonpartisan,0,,False,False
+141967,SC,Beth Ramsey Faulkner,Nonpartisan,0,,False,False
+141967,SC,Write-in,Nonpartisan,0,,False,False
+141479,SC,JA Moore,Democratic,6464,66.887,True,False
+141479,SC,Heather Hickman,Republican,2993,30.971,False,False
+141479,SC,Melissa Couture,Libertarian,202,2.09,False,False
+141479,SC,Write-in,Nonpartisan,5,0.052,False,False
+141784,SC,Jose Luis,Republican,0,,False,False
+141784,SC,Write-in,Nonpartisan,0,,False,False
+177134,SC,Jimmie D Jeter,Nonpartisan,0,,False,False
+177134,SC,Radzil S Thompson,Nonpartisan,0,,False,False
+177134,SC,Write-in,Nonpartisan,0,,False,False
+177055,SC,Jason Kirby,Nonpartisan,0,,False,False
+177055,SC,Write-in,Nonpartisan,0,,False,False
+141920,SC,Jerome Boyce,Nonpartisan,0,,False,False
+141920,SC,Charles Geremy Saitz,Nonpartisan,0,,False,False
+141920,SC,Write-in,Nonpartisan,0,,False,False
+142033,SC,Carl E Jackson Jr,Nonpartisan,0,,False,False
+142033,SC,Write-in,Nonpartisan,0,,False,False
+142153,SC,Gary P Kirkland,Nonpartisan,0,,False,False
+142153,SC,Write-in,Nonpartisan,0,,False,False
+141665,SC,Vicki J Cook,Democratic,0,,False,False
+141665,SC,Write-in,Nonpartisan,0,,False,False
+141970,SC,Wendy Dimitri,Nonpartisan,0,,False,False
+141970,SC,Keron Meeks,Nonpartisan,0,,False,False
+141970,SC,Write-in,Nonpartisan,0,,False,False
+177121,SC,Yes,Nonpartisan,0,,False,False
+177121,SC,No,Nonpartisan,0,,False,False
+141595,SC,James Freeman,Democratic,0,,False,False
+141595,SC,Write-in,Nonpartisan,0,,False,False
+141602,SC,Mark Sumner,Republican,0,,False,False
+141602,SC,Write-in,Nonpartisan,0,,False,False
+142106,SC,Ted Adams,Nonpartisan,0,,False,False
+142106,SC,Evelyn Alman,Nonpartisan,0,,False,False
+142106,SC,Write-in,Nonpartisan,0,,False,False
+142027,SC,Edith M Foster,Nonpartisan,0,,False,False
+142027,SC,Trey Newton,Nonpartisan,0,,False,False
+142027,SC,Write-in,Nonpartisan,0,,False,False
+141731,SC,Jim Reese,Republican,0,,False,False
+141731,SC,Kimberly P Snipes,Democratic,0,,False,False
+141731,SC,Write-in,Nonpartisan,0,,False,False
+141844,SC,Jackie Bradley- Hailes,Democratic,0,,False,False
+141844,SC,Write-in,Nonpartisan,0,,False,False
+141964,SC,Hannah L Arnold,Nonpartisan,0,,False,False
+141964,SC,Write-in,Nonpartisan,0,,False,False
+141476,SC,Jumelle Brooks,Democratic,7555,54.894,True,False
+141476,SC,Daniel Gibson,Republican,6204,45.077,False,False
+141476,SC,Write-in,Nonpartisan,4,0.029,False,False
+141781,SC,Bobby Hudson,Republican,0,,False,False
+141781,SC,Write-in,Nonpartisan,0,,False,False
+142093,SC,Teresa G Corley,Nonpartisan,0,,False,False
+142093,SC,Write-in,Nonpartisan,0,,False,False
+177052,SC,Shelia H Knotts,Nonpartisan,0,,False,False
+177052,SC,Write-in,Nonpartisan,0,,False,False
+141917,SC,Pam Dawson,Republican,0,,False,False
+141917,SC,Write-in,Nonpartisan,0,,False,False
+141774,SC,Tommy Adkins,Republican,0,,False,False
+141774,SC,Write-in,Nonpartisan,0,,False,False
+177117,SC,Myranda Butler,Nonpartisan,0,,False,False
+177117,SC,Write-in,Nonpartisan,0,,False,False
+141598,SC,Brian Opie Blanton,Republican,0,,False,False
+141598,SC,Write-in,Nonpartisan,0,,False,False
+142102,SC,Nathan Gambrell,Nonpartisan,0,,False,False
+142102,SC,Gage Stone,Nonpartisan,0,,False,False
+142102,SC,Write-in,Nonpartisan,0,,False,False
+142023,SC,Linda Lemon,Nonpartisan,0,,False,False
+142023,SC,Lee Mahoney,Nonpartisan,0,,False,False
+142023,SC,Write-in,Nonpartisan,0,,False,False
+141727,SC,Jason K Steen,Republican,0,,False,False
+141727,SC,Write-in,Nonpartisan,0,,False,False
+141847,SC,Darrel Wadford,Republican,0,,False,False
+141847,SC,Steve Christopher Davis,Democratic,0,,False,False
+141847,SC,Write-in,Nonpartisan,0,,False,False
+141960,SC,B Donovan Brock,Nonpartisan,0,,False,False
+141960,SC,Tara Hawkins Evans,Nonpartisan,0,,False,False
+141960,SC,Write-in,Nonpartisan,0,,False,False
+141472,SC,Don Chapman,Republican,9710,64.967,True,False
+141472,SC,Demetrius Carson,Democratic,5214,34.886,False,False
+141472,SC,Write-in,Nonpartisan,22,0.147,False,False
+141777,SC,Michael JD Andersen,Republican,0,,False,False
+141777,SC,Write-in,Nonpartisan,0,,False,False
+142096,SC,Gary L Burgess,Nonpartisan,0,,False,False
+142096,SC,Write-in,Nonpartisan,0,,False,False
+177048,SC,Yes,Nonpartisan,0,,False,False
+177048,SC,No,Nonpartisan,0,,False,False
+141913,SC,Beth Black White,Nonpartisan,0,,False,False
+141913,SC,Write-in,Nonpartisan,0,,False,False
+141834,SC,Jennifer Kunda,Republican,0,,False,False
+141834,SC,Preston Smelt,Democratic,0,,False,False
+141834,SC,Write-in,Nonpartisan,0,,False,False
+141545,SC,Charles Hartz,Republican,12127,60.202,True,False
+141545,SC,Pete Swales,Democratic,7996,39.694,False,False
+141545,SC,Write-in,Nonpartisan,21,0.104,False,False
+141658,SC,Anne Bass,Democratic,0,,False,False
+141658,SC,Write-in,Nonpartisan,0,,False,False
+141771,SC,Tyler Johnson,Republican,0,,False,False
+141771,SC,Write-in,Nonpartisan,0,,False,False
+177114,SC,Steven Diaz,Nonpartisan,0,,False,False
+177114,SC,Katherine Myers,Nonpartisan,0,,False,False
+177114,SC,Nick Outen,Nonpartisan,0,,False,False
+177114,SC,Christa Williams,Nonpartisan,0,,False,False
+177114,SC,Write-in,Nonpartisan,0,,False,False
+141588,SC,Shannon Erickson,Republican,9956,57.756,True,False
+141588,SC,Shauna Bishop,Democratic,7265,42.145,False,False
+141588,SC,Write-in,Nonpartisan,17,0.099,False,False
+142099,SC,Jason Dorriety,Nonpartisan,0,,False,False
+142099,SC,Write-in,Nonpartisan,0,,False,False
+142020,SC,Dee Matthews,Nonpartisan,0,,False,False
+142020,SC,Angela Stephens,Nonpartisan,0,,False,False
+142020,SC,Write-in,Nonpartisan,0,,False,False
+141724,SC,Teresa A Griffin,Democratic,0,,False,False
+141724,SC,Write-in,Nonpartisan,0,,False,False
+141645,SC,Anna Fields,Democratic,0,,False,False
+141645,SC,Write-in,Nonpartisan,0,,False,False
+141957,SC,Sandra T Leverette,Nonpartisan,0,,False,False
+141957,SC,Write-in,Nonpartisan,0,,False,False
+141469,SC,Neal Collins,Republican,10623,68.646,True,False
+141469,SC,David F Jones,Democratic,4784,30.914,False,False
+141469,SC,Write-in,Nonpartisan,68,0.439,False,False
+141830,SC,Collin Alexander,Republican,0,,False,False
+141830,SC,Write-in,Nonpartisan,0,,False,False
+142149,SC,Warren M Woodward,Nonpartisan,0,,False,False
+142149,SC,Write-in,Nonpartisan,0,,False,False
+141654,SC,Kimberly Herbert,Republican,0,,False,False
+141654,SC,Patricia Pringle,Democratic,0,,False,False
+141654,SC,Write-in,Nonpartisan,0,,False,False
+141767,SC,Alphonso Al Bradley,Democratic,0,,False,False
+141767,SC,Write-in,Nonpartisan,0,,False,False
+177110,SC,Yes,Nonpartisan,0,,False,False
+177110,SC,No,Nonpartisan,0,,False,False
+141591,SC,Randy E Newman Jr,Republican,0,,False,False
+141591,SC,Write-in,Nonpartisan,0,,False,False
+141903,SC,Mark Kiser,Nonpartisan,0,,False,False
+141903,SC,Toni Willingham Warren,Nonpartisan,0,,False,False
+141903,SC,Write-in,Nonpartisan,0,,False,False
+142016,SC,Leonard Huggins Jr,Nonpartisan,0,,False,False
+142016,SC,Aaron Rudd,Nonpartisan,0,,False,False
+142016,SC,Write-in,Nonpartisan,0,,False,False
+141720,SC,Larry Hoover,Republican,0,,False,False
+141720,SC,Peter Smith Jr,Democratic,0,,False,False
+141720,SC,Write-in,Nonpartisan,0,,False,False
+141648,SC,Sheridan Laughlin,Republican,0,,False,False
+141648,SC,Write-in,Nonpartisan,0,,False,False
+141953,SC,Tyler Williams,Nonpartisan,0,,False,False
+141953,SC,Jason Wilson,Nonpartisan,0,,False,False
+141953,SC,Sally Young,Nonpartisan,0,,False,False
+141953,SC,Write-in,Nonpartisan,0,,False,False
+141465,SC,Bill Whitmire,Republican,13846,75.864,True,False
+141465,SC,Jasmine Williams,Democratic,4385,24.026,False,False
+141465,SC,Write-in,Nonpartisan,20,0.11,False,False
+141578,SC,Gary Brewer,Republican,10740,50.819,True,False
+141578,SC,Kelly Hough,Democratic,10391,49.167,False,False
+141578,SC,Write-in,Nonpartisan,3,0.014,False,False
+142089,SC,Phyllis C Hughes,Nonpartisan,0,,False,False
+142089,SC,Justin Smith,Nonpartisan,0,,False,False
+142089,SC,Write-in,Nonpartisan,0,,False,False
+177041,SC,Yes,Nonpartisan,0,,False,False
+177041,SC,No,Nonpartisan,0,,False,False
+141906,SC,Lance Beecher,Nonpartisan,0,,False,False
+141906,SC,Chuck Owens,Nonpartisan,0,,False,False
+141906,SC,Write-in,Nonpartisan,0,,False,False
+141827,SC,James T McCain Jr,Democratic,0,,False,False
+141827,SC,Write-in,Nonpartisan,0,,False,False
+141531,SC,Murrell Smith,Republican,8585,55.856,True,False
+141531,SC,Lisa Davey,Democratic,6773,44.066,False,False
+141531,SC,Write-in,Nonpartisan,12,0.078,False,False
+141538,SC,J Todd Rutherford,Democratic,10980,85.308,True,False
+141538,SC,Collin Shelton,Republican,1873,14.552,False,False
+141538,SC,Write-in,Nonpartisan,18,0.14,False,False
+141651,SC,Gwen S Kinard,Republican,0,,False,False
+141651,SC,Write-in,Nonpartisan,0,,False,False
+141764,SC,Pat Coker,Republican,0,,False,False
+141764,SC,George Frierson,Forward Party,0,,False,False
+141764,SC,Write-in,Nonpartisan,0,,False,False
+177107,SC,Yes,Nonpartisan,0,,False,False
+177107,SC,No,Nonpartisan,0,,False,False
+177028,SC,Bobby Cook,Nonpartisan,0,,False,False
+177028,SC,Write-in,Nonpartisan,0,,False,False
+141900,SC,R Tyler Seagroves,Nonpartisan,0,,False,False
+141900,SC,Harold F Tanner Jr,Nonpartisan,0,,False,False
+141900,SC,Write-in,Nonpartisan,0,,False,False
+142013,SC,Henry Miller,Nonpartisan,0,,False,False
+142013,SC,Write-in,Nonpartisan,0,,False,False
+141717,SC,Herb Sass,Republican,0,,False,False
+141717,SC,Katie Miller,Democratic,0,,False,False
+141717,SC,Write-in,Nonpartisan,0,,False,False
+141893,SC,JW Jimmy Mole Jr,Nonpartisan,0,,False,False
+141893,SC,Neal R Murdaugh,Nonpartisan,0,,False,False
+141893,SC,Write-in,Nonpartisan,0,,False,False
+177037,SC,Yes,Nonpartisan,0,,False,False
+177037,SC,No,Nonpartisan,0,,False,False
+141710,SC,Kenny Robertson,Nonpartisan,0,,False,False
+141710,SC,Dan Ruff,Nonpartisan,0,,False,False
+141710,SC,Write-in,Nonpartisan,0,,False,False
+141823,SC,Johnny Mack Scurry,Democratic,0,,False,False
+141823,SC,Write-in,Nonpartisan,0,,False,False
+141534,SC,Robert Reese,Democratic,12629,97.74,True,False
+141534,SC,Write-in,Nonpartisan,292,2.26,False,False
+177094,SC,Michael Elliott,Nonpartisan,0,,False,False
+177094,SC,Delphia Gause,Nonpartisan,0,,False,False
+177094,SC,Write-in,Nonpartisan,0,,False,False
+141760,SC,Greg Elgin,Republican,0,,False,False
+141760,SC,Write-in,Nonpartisan,0,,False,False
+142072,SC,Melvin P Campbell,Nonpartisan,0,,False,False
+142072,SC,Elizabeth Hey,Nonpartisan,0,,False,False
+142072,SC,Gene Meyers,Nonpartisan,0,,False,False
+142072,SC,Write-in,Nonpartisan,0,,False,False
+177031,SC,Yes,Nonpartisan,0,,False,False
+177031,SC,No,Nonpartisan,0,,False,False
+141896,SC,Ashley Branham,Nonpartisan,0,,False,False
+141896,SC,Jack LaFrage,Nonpartisan,0,,False,False
+141896,SC,Write-in,Nonpartisan,0,,False,False
+142009,SC,Cynthia Gregory-Smalls,Nonpartisan,0,,False,False
+142009,SC,William Smith,Nonpartisan,0,,False,False
+142009,SC,Willie Turral,Nonpartisan,0,,False,False
+142009,SC,Write-in,Nonpartisan,0,,False,False
+141713,SC,Clarence Gilbert,Nonpartisan,0,,False,False
+141713,SC,Write-in,Nonpartisan,0,,False,False
+141641,SC,Renique Riley-Spiller,Democratic,0,,False,False
+141641,SC,Write-in,Nonpartisan,0,,False,False
+142145,SC,Michael J Marks,Nonpartisan,0,,False,False
+142145,SC,Tim Smith,Nonpartisan,0,,False,False
+142145,SC,Write-in,Nonpartisan,0,,False,False
+177097,SC,Adam Pate,Nonpartisan,0,,False,False
+177097,SC,Write-in,Nonpartisan,0,,False,False
+141571,SC,Case Brittain,Republican,10820,60.477,True,False
+141571,SC,Christine Giguere,Democratic,7058,39.45,False,False
+141571,SC,Write-in,Nonpartisan,13,0.073,False,False
+142075,SC,Gloria Q Bracey,Nonpartisan,0,,False,False
+142075,SC,Gloria CL Jones,Nonpartisan,0,,False,False
+142075,SC,Write-in,Nonpartisan,0,,False,False
+142082,SC,Leslie Fatum,Nonpartisan,0,,False,False
+142082,SC,Lynda Leventis-Wells,Nonpartisan,0,,False,False
+142082,SC,Write-in,Nonpartisan,0,,False,False
+177034,SC,Yes,Nonpartisan,0,,False,False
+177034,SC,No,Nonpartisan,0,,False,False
+141707,SC,Clark Cregger,Republican,0,,False,False
+141707,SC,David Ellis,Republican,0,,False,False
+141707,SC,Joseph Williams,Republican,0,,False,False
+141707,SC,Nigel Alexander,Democratic,0,,False,False
+141707,SC,Rachael Prince,Democratic,0,,False,False
+141707,SC,Darin Williams,Democratic,0,,False,False
+141707,SC,Write-in,Nonpartisan,0,,False,False
+141820,SC,Danny Bruce Catoe,Republican,0,,False,False
+141820,SC,Write-in,Nonpartisan,0,,False,False
+141524,SC,Phillip Lowe,Republican,8228,54.075,True,False
+141524,SC,Adrian Peguese Carter,Democratic,6969,45.8,False,False
+141524,SC,Write-in,Nonpartisan,19,0.125,False,False
+177091,SC,Yes,Nonpartisan,0,,False,False
+177091,SC,No,Nonpartisan,0,,False,False
+141757,SC,Artie Baker,Republican,0,,False,False
+141757,SC,Write-in,Nonpartisan,0,,False,False
+142069,SC,Lisa Alewine,Nonpartisan,0,,False,False
+142069,SC,Write-in,Nonpartisan,0,,False,False
+141574,SC,Tom Hartnett,Republican,9812,51.542,True,False
+141574,SC,KJ Atwood,Democratic,9213,48.395,False,False
+141574,SC,Write-in,Nonpartisan,12,0.063,False,False
+141949,SC,Betty F Johnson,Nonpartisan,0,,False,False
+141949,SC,Write-in,Nonpartisan,0,,False,False
+142062,SC,Carlton Dallas,Nonpartisan,0,,False,False
+142062,SC,Kate Nolan,Nonpartisan,0,,False,False
+142062,SC,Write-in,Nonpartisan,0,,False,False
+141567,SC,Carl Anderson,Democratic,9999,97.771,True,False
+141567,SC,Write-in,Nonpartisan,228,2.229,False,False
+142078,SC,Becky McLaughlin,Nonpartisan,0,,False,False
+142078,SC,Ann Marie Middleton,Nonpartisan,0,,False,False
+142078,SC,Write-in,Nonpartisan,0,,False,False
+141999,SC,Hiram EM Davis,Nonpartisan,0,,False,False
+141999,SC,Donna Miller,Nonpartisan,0,,False,False
+141999,SC,Sheri Stone,Nonpartisan,0,,False,False
+141999,SC,Write-in,Nonpartisan,0,,False,False
+141703,SC,Jim Moore,Republican,0,,False,False
+141703,SC,Write-in,Nonpartisan,0,,False,False
+141816,SC,Albert Davis III,Democratic,0,,False,False
+141816,SC,Write-in,Nonpartisan,0,,False,False
+141527,SC,Jay Jordan,Republican,8856,56.635,True,False
+141527,SC,Kory Haskins,Democratic,6770,43.295,False,False
+141527,SC,Write-in,Nonpartisan,11,0.07,False,False
+177087,SC,Hamilton Boykin,Nonpartisan,0,,False,False
+177087,SC,Delia Davis,Nonpartisan,0,,False,False
+177087,SC,Write-in,Nonpartisan,0,,False,False
+141753,SC,Ted Stambolitis,Republican,0,,False,False
+141753,SC,Write-in,Nonpartisan,0,,False,False
+142065,SC,Danielle Fields,Nonpartisan,0,,False,False
+177024,SC,Tamara Becker,Nonpartisan,0,,False,False
+177024,SC,Rick Ross,Nonpartisan,0,,False,False
+177024,SC,Write-in,Nonpartisan,0,,False,False
+141889,SC,Shannon R Crawley,Nonpartisan,0,,False,False
+141889,SC,Bryant Sansbury,Nonpartisan,0,,False,False
+141889,SC,Write-in,Nonpartisan,0,,False,False
+142002,SC,Hillary H Craigo,Nonpartisan,0,,False,False
+141514,SC,Keishan M Scott,Democratic,9540,62.182,True,False
+141514,SC,William Oden,Republican,5793,37.759,False,False
+141514,SC,Write-in,Nonpartisan,9,0.059,False,False
+141627,SC,Reneka McQueen McCoy,Democratic,0,,False,False
+141627,SC,Write-in,Nonpartisan,0,,False,False
+141634,SC,Ponda A Caldwell,Republican,0,,False,False
+141634,SC,Write-in,Nonpartisan,0,,False,False
+142138,SC,Joseph E Collins Jr,Nonpartisan,0,,False,False
+142138,SC,Al McAbee Jr,Nonpartisan,0,,False,False
+142138,SC,Ed Poore,Nonpartisan,0,,False,False
+142138,SC,Terry Yates,Nonpartisan,0,,False,False
+142138,SC,Write-in,Nonpartisan,0,,False,False
+142059,SC,Melvin Stroble,Nonpartisan,0,,False,False
+142059,SC,Bryan Vaughn,Nonpartisan,0,,False,False
+142059,SC,Write-in,Nonpartisan,0,,False,False
+141564,SC,Sylleste Davis,Republican,8113,50.802,True,False
+141564,SC,Crystal Y Campbell,Democratic,7841,49.098,False,False
+141564,SC,Write-in,Nonpartisan,16,0.1,False,False
+141876,SC,Daniel Lesesne Jr,Nonpartisan,0,,False,False
+141876,SC,Write-in,Nonpartisan,0,,False,False
+141996,SC,Kevin G Jenkins,Nonpartisan,0,,False,False
+141996,SC,Write-in,Nonpartisan,0,,False,False
+141700,SC,Kelvin C Washington,Democratic,0,,False,False
+141700,SC,Write-in,Nonpartisan,0,,False,False
+141813,SC,Steve Carter,Republican,0,,False,False
+141813,SC,Harold Buckmon,Democratic,0,,False,False
+141813,SC,Write-in,Nonpartisan,0,,False,False
+142125,SC,David J Wilson,Nonpartisan,0,,False,False
+142125,SC,Cheryl Wylie,Nonpartisan,0,,False,False
+142125,SC,Write-in,Nonpartisan,0,,False,False
+177084,SC,Yes,Nonpartisan,0,,False,False
+177084,SC,No,Nonpartisan,0,,False,False
+141806,SC,Christopher Howe,Republican,0,,False,False
+141806,SC,Tarus Gilchrist,Democratic,0,,False,False
+141806,SC,Write-in,Nonpartisan,0,,False,False
+141510,SC,Heath Sessions,Republican,8769,51.661,True,False
+141510,SC,Omar L McCrorey,Democratic,8192,48.262,False,False
+141510,SC,Write-in,Nonpartisan,13,0.077,False,False
+141630,SC,Danny Singleton,Republican,0,,False,False
+141630,SC,Write-in,Nonpartisan,0,,False,False
+142134,SC,Matthew DeJong,Nonpartisan,0,,False,False
+142134,SC,Christopher Ludwig,Nonpartisan,0,,False,False
+142134,SC,Write-in,Nonpartisan,0,,False,False
+142055,SC,Wanda Hassler,Nonpartisan,0,,False,False
+142055,SC,Write-in,Nonpartisan,0,,False,False
+141560,SC,Hunter Hackett,Republican,7618,59.777,True,False
+141560,SC,Vivian Elston,Democratic,5120,40.176,False,False
+141560,SC,Write-in,Nonpartisan,6,0.047,False,False
+141879,SC,Sarah Allen,Nonpartisan,0,,False,False
+141879,SC,Stephanie Senchantixay,Nonpartisan,0,,False,False
+141879,SC,Write-in,Nonpartisan,0,,False,False
+141992,SC,Jim Broome,Nonpartisan,0,,False,False
+141992,SC,Write-in,Nonpartisan,0,,False,False
+141696,SC,Deborah E Robertson,Democratic,0,,False,False
+141696,SC,Write-in,Nonpartisan,0,,False,False
+141809,SC,Betty Montgomery,Republican,0,,False,False
+141809,SC,Garrett Gibson,Democratic,0,,False,False
+141809,SC,Write-in,Nonpartisan,0,,False,False
+142128,SC,Trace DeBruhl,Nonpartisan,0,,False,False
+142128,SC,Ken Truesdale,Nonpartisan,0,,False,False
+142128,SC,Write-in,Nonpartisan,0,,False,False
+177080,SC,Michael E George,Nonpartisan,0,,False,False
+177080,SC,Write-in,Nonpartisan,0,,False,False
+141945,SC,Francis Marion Beylotte,Nonpartisan,0,,False,False
+141945,SC,Joy Brown,Nonpartisan,0,,False,False
+141945,SC,Darryl Ray Griffin,Nonpartisan,0,,False,False
+141945,SC,Leah A Whatley,Nonpartisan,0,,False,False
+141945,SC,Write-in,Nonpartisan,0,,False,False
+141866,SC,Daniel Rumfelt,Republican,0,,False,False
+141866,SC,Write-in,Nonpartisan,0,,False,False
+177010,SC,Write-in,Nonpartisan,0,,False,False
+177017,SC,Scott Allison,Nonpartisan,0,,False,False
+177017,SC,Joe Burgett,Nonpartisan,0,,False,False
+177017,SC,Nanda Edgerton,Nonpartisan,0,,False,False
+177017,SC,Fran McGuire,Nonpartisan,0,,False,False
+177017,SC,Alesia Smith,Nonpartisan,0,,False,False
+177017,SC,Write-in,Nonpartisan,0,,False,False
+141882,SC,David Richburg,Nonpartisan,0,,False,False
+141882,SC,Kevin Ross,Nonpartisan,0,,False,False
+141882,SC,Write-in,Nonpartisan,0,,False,False
+141803,SC,Tyler Servant,Republican,0,,False,False
+141803,SC,Genesis Bordner,Forward Party,0,,False,False
+141803,SC,Write-in,Nonpartisan,0,,False,False
+141507,SC,Randy Ligon,Republican,9454,61.981,True,False
+141507,SC,Alex Clark,Democratic,5780,37.894,False,False
+141507,SC,Write-in,Nonpartisan,19,0.125,False,False
+141620,SC,Shannon Parker,Democratic,0,,False,False
+141620,SC,Write-in,Nonpartisan,0,,False,False
+142131,SC,Bobby Johnson,Nonpartisan,0,,False,False
+142131,SC,Jay Steele,Nonpartisan,0,,False,False
+142131,SC,Write-in,Nonpartisan,0,,False,False
+142052,SC,Joe Medlock,Nonpartisan,0,,False,False
+142052,SC,Write-in,Nonpartisan,0,,False,False
+141557,SC,Jerry Govan,Democratic,9910,59.948,True,False
+141557,SC,Alex Morris,Republican,6617,40.028,False,False
+141557,SC,Write-in,Nonpartisan,4,0.024,False,False
+141677,SC,Sandra M Cochran,Republican,0,,False,False
+141677,SC,Write-in,Nonpartisan,0,,False,False
+141989,SC,Eddie Boykin,Nonpartisan,0,,False,False
+141989,SC,Kristen Setzer,Nonpartisan,0,,False,False
+141989,SC,Melanie Vaughn,Nonpartisan,0,,False,False
+141989,SC,Write-in,Nonpartisan,0,,False,False
+141693,SC,Kendra L Dove,Democratic,0,,False,False
+141693,SC,Write-in,Nonpartisan,0,,False,False
+141862,SC,Joe Dill,Republican,0,,False,False
+141862,SC,Write-in,Nonpartisan,0,,False,False
+177013,SC,Write-in,Nonpartisan,0,,False,False
+141686,SC,Michael T Skinner,Republican,0,,False,False
+141686,SC,Write-in,Nonpartisan,0,,False,False
+141799,SC,Elliott Hughes,Republican,0,,False,False
+141799,SC,Write-in,Nonpartisan,0,,False,False
+141503,SC,Cally R Cal Forrest,Republican,11591,72.913,True,False
+141503,SC,Sherman Lott,Democratic,4290,26.986,False,False
+141503,SC,Write-in,Nonpartisan,16,0.101,False,False
+141623,SC,Debbie Branham,Republican,0,,False,False
+141623,SC,Write-in,Nonpartisan,0,,False,False
+141935,SC,Sharon Messer Huff,Nonpartisan,0,,False,False
+141935,SC,Blake Workman,Nonpartisan,0,,False,False
+141935,SC,Write-in,Nonpartisan,0,,False,False
+142048,SC,Clay Sprouse,Nonpartisan,0,,False,False
+141553,SC,Joe Madge,Democratic,7263,50.333,True,False
+141553,SC,Micah Caskey,Republican,7156,49.591,False,False
+141553,SC,Write-in,Nonpartisan,11,0.076,False,False
+141680,SC,Matt Evans,Republican,0,,False,False
+141680,SC,Write-in,Nonpartisan,0,,False,False
+141985,SC,Betty Edwards,Nonpartisan,0,,False,False
+141985,SC,Emanuel L Gilchrist Jr,Nonpartisan,0,,False,False
+141985,SC,Tracy L Hamilton,Nonpartisan,0,,False,False
+141985,SC,Leigh Bouknight Hillary,Nonpartisan,0,,False,False
+141985,SC,Write-in,Nonpartisan,0,,False,False
+141689,SC,Shirley Cook Dixon,Democratic,0,,False,False
+141689,SC,Write-in,Nonpartisan,0,,False,False
+141610,SC,Katie Helms Schuelke,Republican,0,,False,False
+141610,SC,Write-in,Nonpartisan,0,,False,False
+142121,SC,Charles Cooke Jr,Nonpartisan,0,,False,False
+142121,SC,Dale Todd,Nonpartisan,0,,False,False
+142121,SC,Write-in,Nonpartisan,0,,False,False
+177073,SC,Yes,Nonpartisan,0,,False,False
+177073,SC,No,Nonpartisan,0,,False,False
+141938,SC,Sandra Grant-Sloan,Nonpartisan,0,,False,False
+141938,SC,Write-in,Nonpartisan,0,,False,False
+141859,SC,Elizabeth Galloway,Republican,0,,False,False
+141859,SC,Write-in,Nonpartisan,0,,False,False
+177003,SC,Deanna Ashley,Nonpartisan,0,,False,False
+177003,SC,Chris Crawford,Nonpartisan,0,,False,False
+177003,SC,Joe Finley Jr,Nonpartisan,0,,False,False
+177003,SC,Write-in,Nonpartisan,0,,False,False
+141683,SC,Jo Morris Knight,Republican,0,,False,False
+141683,SC,Write-in,Nonpartisan,0,,False,False
+141796,SC,Amy Stern,Republican,0,,False,False
+141796,SC,Courtney Martin,Democratic,0,,False,False
+141796,SC,Write-in,Nonpartisan,0,,False,False
+141500,SC,Rob Harris,Republican,7989,55.7,True,False
+141500,SC,Virginia McLean,Democratic,6337,44.182,False,False
+141500,SC,Write-in,Nonpartisan,17,0.119,False,False
+177060,SC,Lawrence Chipper Smith,Democratic,0,,False,False
+177060,SC,Write-in,Nonpartisan,0,,False,False
+141932,SC,Amanda Holder,Nonpartisan,0,,False,False
+141932,SC,Write-in,Nonpartisan,0,,False,False
+142045,SC,Robert Bobby Fleming,Nonpartisan,0,,False,False
+142045,SC,Antonio Green,Nonpartisan,0,,False,False
+142045,SC,Write-in,Nonpartisan,0,,False,False
+141749,SC,Tiffani Ireland,Republican,0,,False,False
+141749,SC,Write-in,Nonpartisan,0,,False,False
+141925,SC,Kenneth Burgess Sr,Nonpartisan,0,,False,False
+141925,SC,Johnny Friend,Nonpartisan,0,,False,False
+141925,SC,Write-in,Nonpartisan,0,,False,False
+177069,SC,Yes,Nonpartisan,0,,False,False
+177069,SC,No,Nonpartisan,0,,False,False
+141742,SC,Larry Kobrovsky,Republican,0,,False,False
+141742,SC,Write-in,Nonpartisan,0,,False,False
+141855,SC,Mark Lawson,Republican,0,,False,False
+141855,SC,Jannine Mutterer,Democratic,0,,False,False
+141855,SC,Write-in,Nonpartisan,0,,False,False
+177006,SC,John Paul Alewine,Nonpartisan,0,,False,False
+177006,SC,Tim Bostic,Nonpartisan,0,,False,False
+177006,SC,John Hansen,Nonpartisan,0,,False,False
+177006,SC,Joy Hansen,Nonpartisan,0,,False,False
+177006,SC,Meg Jennings,Nonpartisan,0,,False,False
+177006,SC,Eli Morse,Nonpartisan,0,,False,False
+177006,SC,Levi Marshall Owens,Nonpartisan,0,,False,False
+177006,SC,Micheal Powell,Nonpartisan,0,,False,False
+177006,SC,Fred West,Nonpartisan,0,,False,False
+177006,SC,John Paul,Nonpartisan,0,,False,False
+177006,SC,Write-in,Nonpartisan,0,,False,False
+141487,SC,Chandra Dillard,Democratic,9271,98.397,True,False
+141487,SC,Write-in,Nonpartisan,151,1.603,False,False
+141792,SC,Chris Alverson,Republican,0,,False,False
+141792,SC,Write-in,Nonpartisan,0,,False,False
+177135,SC,James Burns,Republican,26529,53.698,True,False
+177135,SC,Chad Williams,Democratic,22837,46.225,False,False
+177135,SC,Write-in,Nonpartisan,38,0.077,False,False
+177063,SC,Lakeshia Keshia Burgess,Nonpartisan,0,,False,False
+177063,SC,Write-in,Nonpartisan,0,,False,False
+141928,SC,Chris Karr,Nonpartisan,0,,False,False
+141928,SC,Write-in,Nonpartisan,0,,False,False
+142041,SC,Marva Gail Cannion,Nonpartisan,0,,False,False
+142041,SC,Write-in,Nonpartisan,0,,False,False
+141745,SC,Lawrence Brand,Democratic,0,,False,False
+141745,SC,Write-in,Nonpartisan,0,,False,False
+141673,SC,Laura G McKenzie,Democratic,0,,False,False
+141673,SC,Write-in,Nonpartisan,0,,False,False
+141978,SC,Regitt James,Democratic,0,,False,False
+141978,SC,Write-in,Nonpartisan,0,,False,False
+141490,SC,David W Martin,Republican,9990,54.35,True,False
+141490,SC,Jenny Desch,Democratic,8247,44.867,False,False
+141490,SC,Kiral Mace,Workers,122,0.664,False,False
+141490,SC,Write-in,Nonpartisan,22,0.12,False,False
+141603,SC,D Keith Smith,Democratic,0,,False,False
+141603,SC,Write-in,Nonpartisan,0,,False,False
+142107,SC,Rick Gantt,Nonpartisan,0,,False,False
+142107,SC,Scott Smart,Nonpartisan,0,,False,False
+142107,SC,Allen D Wilson,Nonpartisan,0,,False,False
+142107,SC,Write-in,Nonpartisan,0,,False,False
+142114,SC,Jeff Rikard,Nonpartisan,0,,False,False
+142114,SC,Write-in,Nonpartisan,0,,False,False
+177066,SC,Write-in,Nonpartisan,0,,False,False
+141739,SC,Andrea Blume Rahn,Republican,0,,False,False
+141739,SC,Tony Marsharell Duncan,Democratic,0,,False,False
+141739,SC,Write-in,Nonpartisan,0,,False,False
+141852,SC,Michael Mash Masciarelli,Republican,0,,False,False
+141852,SC,Write-in,Nonpartisan,0,,False,False
+141965,SC,Cindy Burriss,Nonpartisan,0,,False,False
+141965,SC,Tim Self,Nonpartisan,0,,False,False
+141965,SC,Write-in,Nonpartisan,0,,False,False
+141484,SC,Stephen D Frank,Republican,9866,60.916,True,False
+141484,SC,Polly Elbertse,Democratic,6309,38.954,False,False
+141484,SC,Write-in,Nonpartisan,21,0.13,False,False
+141789,SC,Charles T Edens,Republican,0,,False,False
+141789,SC,Write-in,Nonpartisan,0,,False,False
+177132,SC,Robert Earl Garner,Nonpartisan,0,,False,False
+177132,SC,Write-in,Nonpartisan,0,,False,False
+141606,SC,Heather Galvin,Republican,0,,False,False
+141606,SC,Write-in,Nonpartisan,0,,False,False
+141974,SC,Larry Barnett,Nonpartisan,0,,False,False
+141974,SC,Michele Branning,Nonpartisan,0,,False,False
+141974,SC,Keith Griffin,Nonpartisan,0,,False,False
+141974,SC,Joe Helms,Nonpartisan,0,,False,False
+141974,SC,Brandon Langford,Nonpartisan,0,,False,False
+141974,SC,Melissa M Maynard,Nonpartisan,0,,False,False
+141974,SC,Lipi Pratt,Nonpartisan,0,,False,False
+141974,SC,Write-in,Nonpartisan,0,,False,False
+177125,SC,Colin C Davis,Nonpartisan,0,,False,False
+177125,SC,Write-in,Nonpartisan,0,,False,False
+141599,SC,Cambo Streater,Republican,0,,False,False
+141599,SC,James JD Dixon,Democratic,0,,False,False
+141599,SC,Write-in,Nonpartisan,0,,False,False
+142110,SC,Steven Edge,Nonpartisan,0,,False,False
+142110,SC,Sam Hall,Nonpartisan,0,,False,False
+142110,SC,Write-in,Nonpartisan,0,,False,False
+142031,SC,Debra Fredrick,Nonpartisan,0,,False,False
+142031,SC,Write-in,Nonpartisan,0,,False,False
+141735,SC,Robbie McCaslan,Republican,0,,False,False
+141735,SC,LaSean Monique Tutt,Democratic,0,,False,False
+141735,SC,Write-in,Nonpartisan,0,,False,False
+141848,SC,Joe Boykin,Republican,0,,False,False
+141848,SC,Charles Glover,Democratic,0,,False,False
+141848,SC,Brian Cooke,Green,0,,False,False
+141848,SC,Write-in,Nonpartisan,0,,False,False
+141968,SC,Anthony AJ Bracy,Nonpartisan,0,,False,False
+141968,SC,Nathaniel Canfall Jr,Nonpartisan,0,,False,False
+141968,SC,Robin Clark,Nonpartisan,0,,False,False
+141968,SC,Titania Frazier,Nonpartisan,0,,False,False
+141968,SC,James Mobley,Nonpartisan,0,,False,False
+141968,SC,Shannon Morgan,Nonpartisan,0,,False,False
+141968,SC,Heather Norris-Jones,Nonpartisan,0,,False,False
+141968,SC,Niki Porter,Nonpartisan,0,,False,False
+141968,SC,Anthony Stovall,Nonpartisan,0,,False,False
+141968,SC,Joe Trapp,Nonpartisan,0,,False,False
+141968,SC,Write-in,Nonpartisan,0,,False,False
+141480,SC,Mark N Willis,Republican,10772,58.192,True,False
+141480,SC,Lynn Ramirez,Democratic,7726,41.737,False,False
+141480,SC,Write-in,Nonpartisan,13,0.07,False,False
+141785,SC,Jimmy Poole,Republican,0,,False,False
+141785,SC,Write-in,Nonpartisan,0,,False,False
+177128,SC,Write-in,Nonpartisan,0,,False,False
+177056,SC,Justin Owens,Nonpartisan,0,,False,False
+177056,SC,Mary Sissy Powell,Nonpartisan,0,,False,False
+177056,SC,Write-in,Nonpartisan,0,,False,False
+141921,SC,Stephanie Barber,Nonpartisan,0,,False,False
+141921,SC,Kena Lucas Funderburk,Nonpartisan,0,,False,False
+141921,SC,Write-in,Nonpartisan,0,,False,False
+142034,SC,Dorothy Leopard,Nonpartisan,0,,False,False
+142034,SC,Heather Marshall,Nonpartisan,0,,False,False
+142034,SC,Write-in,Nonpartisan,0,,False,False
+141546,SC,William Bill Clyburn,Democratic,8550,61.943,True,False
+141546,SC,Suzy Spurgeon,Republican,5237,37.941,False,False
+141546,SC,Write-in,Nonpartisan,16,0.116,False,False
+141659,SC,Jeffery Knight,Republican,0,,False,False
+141659,SC,April E Allison,Democratic,0,,False,False
+141659,SC,Write-in,Nonpartisan,0,,False,False
+141666,SC,Debra Pringle Weldon,Democratic,0,,False,False
+141666,SC,Write-in,Nonpartisan,0,,False,False
+141971,SC,Lacey McFalls,Nonpartisan,0,,False,False
+141971,SC,Write-in,Nonpartisan,0,,False,False
+177122,SC,Yes,Nonpartisan,0,,False,False
+177122,SC,No,Nonpartisan,0,,False,False
+141596,SC,Doug Seifert,Republican,0,,False,False
+141596,SC,Alphonso Small Jr,Democratic,0,,False,False
+141596,SC,Write-in,Nonpartisan,0,,False,False
+142100,SC,C Nakia Davis,Nonpartisan,0,,False,False
+142100,SC,Write-in,Nonpartisan,0,,False,False
+142028,SC,Janice Murray Gamble,Nonpartisan,0,,False,False
+142028,SC,Write-in,Nonpartisan,0,,False,False
+141732,SC,Alan Harmon,Republican,0,,False,False
+141732,SC,Doris L Hicks,Democratic,0,,False,False
+141732,SC,Write-in,Nonpartisan,0,,False,False
+141845,SC,Debi Cloninger,Republican,0,,False,False
+141845,SC,Write-in,Nonpartisan,0,,False,False
+142150,SC,Dorothy Dot Campbell,Nonpartisan,0,,False,False
+142150,SC,Write-in,Nonpartisan,0,,False,False
+141477,SC,John McCravy,Republican,11240,66.865,True,False
+141477,SC,C Rauch Wise,Democratic,5554,33.04,False,False
+141477,SC,Write-in,Nonpartisan,16,0.095,False,False
+141725,SC,Jenna Dukes,Republican,0,,False,False
+141725,SC,Write-in,Nonpartisan,0,,False,False
+141838,SC,Johnette McCutchen Caughman,Democratic,0,,False,False
+141838,SC,Write-in,Nonpartisan,0,,False,False
+141542,SC,Beth Bernstein,Democratic,12979,71.66,True,False
+141542,SC,Sonia Pollard,Republican,4821,26.618,False,False
+141542,SC,Angelo Joyner Sr,Libertarian,304,1.678,False,False
+141542,SC,Write-in,Nonpartisan,8,0.044,False,False
+141662,SC,Dennis G Arledge Sr,Republican,0,,False,False
+141662,SC,Write-in,Nonpartisan,0,,False,False
+141775,SC,Dave Shalaby,Republican,0,,False,False
+141775,SC,Write-in,Nonpartisan,0,,False,False
+177118,SC,Lauren Yonce,Nonpartisan,0,,False,False
+177118,SC,Write-in,Nonpartisan,0,,False,False
+141592,SC,Ryan White,Republican,0,,False,False
+141592,SC,Susan McGill,Democratic,0,,False,False
+141592,SC,Write-in,Nonpartisan,0,,False,False
+142103,SC,Maxcy P Hunter Jr,Nonpartisan,0,,False,False
+142103,SC,Write-in,Nonpartisan,0,,False,False
+142024,SC,William Bowman Jr,Nonpartisan,0,,False,False
+142024,SC,Anna Bright,Nonpartisan,0,,False,False
+142024,SC,Craig Stivender,Nonpartisan,0,,False,False
+142024,SC,Write-in,Nonpartisan,0,,False,False
+141728,SC,Bill Bull,Republican,0,,False,False
+141728,SC,John JB Brubacher,Democratic,0,,False,False
+141728,SC,Write-in,Nonpartisan,0,,False,False
+141841,SC,Gray Burroughs,Republican,0,,False,False
+141841,SC,Jarvis David,Democratic,0,,False,False
+141841,SC,Write-in,Nonpartisan,0,,False,False
+141961,SC,Joshua Reed Bobo,Nonpartisan,0,,False,False
+141961,SC,Andy McKee,Nonpartisan,0,,False,False
+141961,SC,Kurt Tavernier,Nonpartisan,0,,False,False
+141961,SC,Write-in,Nonpartisan,0,,False,False
+141473,SC,Blake Sanders,Republican,9006,65.56,True,False
+141473,SC,Johnny Estrich,Democratic,4716,34.331,False,False
+141473,SC,Write-in,Nonpartisan,15,0.109,False,False
+141778,SC,Tommy Newell,Republican,0,,False,False
+141778,SC,Write-in,Nonpartisan,0,,False,False
+142090,SC,Melissa Brown,Nonpartisan,0,,False,False
+142090,SC,Cathy Little,Nonpartisan,0,,False,False
+142090,SC,Write-in,Nonpartisan,0,,False,False
+177042,SC,Write-in,Nonpartisan,0,,False,False
+177049,SC,Write-in,Nonpartisan,0,,False,False
+141914,SC,David Koch,Republican,0,,False,False
+141914,SC,Louis P Palm,Democratic,0,,False,False
+141914,SC,Write-in,Nonpartisan,0,,False,False
+141835,SC,Decar Brown,Democratic,0,,False,False
+141835,SC,Write-in,Nonpartisan,0,,False,False
+141539,SC,Heather Bauer,Democratic,9199,56.988,True,False
+141539,SC,Tracy Robins,Republican,6688,41.432,False,False
+141539,SC,Joshua Parks,Libertarian,249,1.543,False,False
+141539,SC,Write-in,Nonpartisan,6,0.037,False,False
+141652,SC,David Cadd,Republican,0,,False,False
+141652,SC,Carletha Frazier,Democratic,0,,False,False
+141652,SC,Write-in,Nonpartisan,0,,False,False
+141772,SC,Don Mize,Republican,0,,False,False
+141772,SC,Devin Clay,Democratic,0,,False,False
+141772,SC,Write-in,Nonpartisan,0,,False,False
+177115,SC,Yes,Nonpartisan,0,,False,False
+177115,SC,No,Nonpartisan,0,,False,False
+141589,SC,Lester M Gill Bell Jr,Democratic,0,,False,False
+141589,SC,Write-in,Nonpartisan,0,,False,False
+141901,SC,Malcolm Calhoun Jr,Nonpartisan,0,,False,False
+141901,SC,Write-in,Nonpartisan,0,,False,False
+142021,SC,Kathy Littleton,Nonpartisan,0,,False,False
+142021,SC,Kelli Roberson,Nonpartisan,0,,False,False
+142021,SC,Write-in,Nonpartisan,0,,False,False
+141582,SC,Bill Herbkersman,Republican,12103,58.415,True,False
+141582,SC,Bernie Scolaro,Democratic,8605,41.532,False,False
+141582,SC,Write-in,Nonpartisan,11,0.053,False,False
+142086,SC,Amanda Brett,Nonpartisan,0,,False,False
+142086,SC,Stephanie Meek,Nonpartisan,0,,False,False
+142086,SC,Write-in,Nonpartisan,0,,False,False
+177045,SC,Write-in,Nonpartisan,0,,False,False
+141910,SC,John Lee Newman,Nonpartisan,0,,False,False
+141910,SC,Write-in,Nonpartisan,0,,False,False
+141831,SC,Michael Parker,Republican,0,,False,False
+141831,SC,Ralph Prioleau Jr,Democratic,0,,False,False
+141831,SC,Write-in,Nonpartisan,0,,False,False
+141535,SC,Nathan Ballentine,Republican,11839,58.168,True,False
+141535,SC,Julie Zimmerman,Democratic,8494,41.733,False,False
+141535,SC,Write-in,Nonpartisan,20,0.098,False,False
+141655,SC,Jeffrey Slocum,Republican,0,,False,False
+141655,SC,Write-in,Nonpartisan,0,,False,False
+141768,SC,Johanna Bishop,Democratic,0,,False,False
+141768,SC,Write-in,Nonpartisan,0,,False,False
+177111,SC,Russell Hutto,Nonpartisan,0,,False,False
+177111,SC,Amekoa Mack,Nonpartisan,0,,False,False
+177111,SC,Write-in,Nonpartisan,0,,False,False
+141585,SC,Shannon N DeLoach,Democratic,8689,62.637,True,False
+141585,SC,Shelley Gay Yuhas,Republican,5147,37.104,False,False
+141585,SC,Write-in,Nonpartisan,36,0.26,False,False
+141904,SC,Kim Alexander,Nonpartisan,0,,False,False
+141904,SC,Carol L Hendrix,Nonpartisan,0,,False,False
+141904,SC,Write-in,Nonpartisan,0,,False,False
+142017,SC,Allie Shaye Bullard,Nonpartisan,0,,False,False
+142017,SC,Ralph W Canty Sr,Nonpartisan,0,,False,False
+142017,SC,Ronald Pace,Nonpartisan,0,,False,False
+142017,SC,Tiffany Thompson,Nonpartisan,0,,False,False
+142017,SC,Write-in,Nonpartisan,0,,False,False
+141721,SC,Christine Hunt,Republican,0,,False,False
+141721,SC,Albert Talbert,Democratic,0,,False,False
+141721,SC,Write-in,Nonpartisan,0,,False,False
+141642,SC,Darnell D Hartwell,Republican,0,,False,False
+141642,SC,Write-in,Nonpartisan,0,,False,False
+141954,SC,Paulette Grate,Nonpartisan,0,,False,False
+141954,SC,Write-in,Nonpartisan,0,,False,False
+141466,SC,Adam Duncan,Republican,10982,65.934,True,False
+141466,SC,Candace Schutt,Democratic,5456,32.757,False,False
+141466,SC,Christopher Damian Des Marais,Libertarian,207,1.243,False,False
+141466,SC,Write-in,Nonpartisan,11,0.066,False,False
+141579,SC,Nick Uricchio,Democratic,12983,57.041,True,False
+141579,SC,Johnnie Garmon,Republican,9763,42.894,False,False
+141579,SC,Write-in,Nonpartisan,15,0.066,False,False
+142083,SC,Evan Guthrie,Nonpartisan,0,,False,False
+142083,SC,Meredith Westfall,Nonpartisan,0,,False,False
+142083,SC,Write-in,Nonpartisan,0,,False,False
+177035,SC,Yes,Nonpartisan,0,,False,False
+177035,SC,No,Nonpartisan,0,,False,False
+141907,SC,Shawn Goff,Nonpartisan,0,,False,False
+141907,SC,Tim McSwain,Nonpartisan,0,,False,False
+141907,SC,Write-in,Nonpartisan,0,,False,False
+141828,SC,Sam L Floyd,Democratic,0,,False,False
+141828,SC,Write-in,Nonpartisan,0,,False,False
+141532,SC,Heather Ammons Crawford,Republican,11379,63.045,True,False
+141532,SC,Judy Davies,Democratic,6659,36.894,False,False
+141532,SC,Write-in,Nonpartisan,11,0.061,False,False
+177092,SC,Michael Cullipher,Nonpartisan,0,,False,False
+177092,SC,Martina Yates Rush,Nonpartisan,0,,False,False
+177092,SC,Write-in,Nonpartisan,0,,False,False
+141765,SC,Rita May,Republican,0,,False,False
+141765,SC,Jessica Bright,Democratic,0,,False,False
+141765,SC,Write-in,Nonpartisan,0,,False,False
+177108,SC,Yes,Nonpartisan,0,,False,False
+177108,SC,No,Nonpartisan,0,,False,False
+141638,SC,Elaine Sabb,Democratic,0,,False,False
+141638,SC,Write-in,Nonpartisan,0,,False,False
+141950,SC,Larry Holbrook,Nonpartisan,0,,False,False
+141950,SC,Write-in,Nonpartisan,0,,False,False
+177101,SC,Arkevious Chapman,Nonpartisan,0,,False,False
+177101,SC,Write-in,Nonpartisan,0,,False,False
+141575,SC,Wendell G Gilliard,Democratic,11732,98.522,True,False
+141575,SC,Write-in,Nonpartisan,176,1.478,False,False
+142079,SC,Davy Gregg,Nonpartisan,0,,False,False
+142079,SC,Write-in,Nonpartisan,0,,False,False
+177038,SC,Yes,Nonpartisan,0,,False,False
+177038,SC,No,Nonpartisan,0,,False,False
+141711,SC,Kennedi Bates,Nonpartisan,0,,False,False
+141711,SC,Peggy D Swearingen,Nonpartisan,0,,False,False
+141711,SC,Write-in,Nonpartisan,0,,False,False
+141824,SC,David Thornburg,Republican,0,,False,False
+141824,SC,Deloris Frazier,Democratic,0,,False,False
+141824,SC,Write-in,Nonpartisan,0,,False,False
+141528,SC,Michele Demery,Democratic,8683,52.059,True,False
+141528,SC,Fawn Pedalino,Republican,7976,47.821,False,False
+141528,SC,Write-in,Nonpartisan,20,0.12,False,False
+177095,SC,Bradley McAlister,Nonpartisan,0,,False,False
+177095,SC,Write-in,Nonpartisan,0,,False,False
+141761,SC,DC Buster Bozard,Republican,0,,False,False
+141761,SC,Larry Haynes,Democratic,0,,False,False
+141761,SC,Write-in,Nonpartisan,0,,False,False
+177104,SC,Yes,Nonpartisan,0,,False,False
+177104,SC,No,Nonpartisan,0,,False,False
+177025,SC,Chuck Dowd,Nonpartisan,0,,False,False
+177025,SC,David Ellis,Nonpartisan,0,,False,False
+177025,SC,Rob Guthrie,Nonpartisan,0,,False,False
+177025,SC,Write-in,Nonpartisan,0,,False,False
+141897,SC,Douglas M Bailey,Nonpartisan,0,,False,False
+141897,SC,Write-in,Nonpartisan,0,,False,False
+142010,SC,Jason D Thomas,Nonpartisan,0,,False,False
+142010,SC,Write-in,Nonpartisan,0,,False,False
+141714,SC,Brandon Johnson,Republican,0,,False,False
+141714,SC,Write-in,Nonpartisan,0,,False,False
+141635,SC,Charles Eddie Drayton,Republican,0,,False,False
+141635,SC,Holly Thompson Blackwood,Democratic,0,,False,False
+141635,SC,Write-in,Nonpartisan,0,,False,False
+142139,SC,Paul S Cantrell,Nonpartisan,0,,False,False
+142139,SC,Marilyn Clifford,Nonpartisan,0,,False,False
+142139,SC,Inez Brown Crouch,Nonpartisan,0,,False,False
+142139,SC,Ronald Ladson,Nonpartisan,0,,False,False
+142139,SC,Nate Levine,Nonpartisan,0,,False,False
+142139,SC,Write-in,Nonpartisan,0,,False,False
+142146,SC,Frank Turano,Nonpartisan,0,,False,False
+142146,SC,Write-in,Nonpartisan,0,,False,False
+177098,SC,Curt Hinson,Nonpartisan,0,,False,False
+177098,SC,James K Roller,Nonpartisan,0,,False,False
+177098,SC,Write-in,Nonpartisan,0,,False,False
+141572,SC,Lee Hewitt,Republican,14480,64.011,True,False
+141572,SC,Kathy Redwine,Democratic,8133,35.953,False,False
+141572,SC,Write-in,Nonpartisan,8,0.035,False,False
+142076,SC,Trisha C Caulder,Nonpartisan,0,,False,False
+142076,SC,Write-in,Nonpartisan,0,,False,False
+141997,SC,Temecka M Brand,Nonpartisan,0,,False,False
+141997,SC,Darin Coleman,Nonpartisan,0,,False,False
+141997,SC,Write-in,Nonpartisan,0,,False,False
+141708,SC,Sam Woodward,Republican,0,,False,False
+141708,SC,Camika Beaton,Democratic,0,,False,False
+141708,SC,Write-in,Nonpartisan,0,,False,False
+141821,SC,Bryant Neal,Republican,0,,False,False
+141821,SC,Write-in,Nonpartisan,0,,False,False
+141525,SC,Carla Schuessler,Republican,8343,59.082,True,False
+141525,SC,Carol Goodman,Democratic,5540,39.232,False,False
+141525,SC,David Herndon,Libertarian,229,1.622,False,False
+141525,SC,Write-in,Nonpartisan,9,0.064,False,False
+141701,SC,Johnny Gardner,Republican,0,,False,False
+141701,SC,Write-in,Nonpartisan,0,,False,False
+142006,SC,James B Tisdale Jr,Nonpartisan,0,,False,False
+142006,SC,Write-in,Nonpartisan,0,,False,False
+141518,SC,Jason Luck,Democratic,9128,98.489,True,False
+141518,SC,Write-in,Nonpartisan,140,1.511,False,False
+141631,SC,Pandora Jones-Glover,Democratic,0,,False,False
+141631,SC,Write-in,Nonpartisan,0,,False,False
+142142,SC,Joe Pinto,Nonpartisan,0,,False,False
+142142,SC,Write-in,Nonpartisan,0,,False,False
+142063,SC,Jerald Borden Jr,Nonpartisan,0,,False,False
+142063,SC,Write-in,Nonpartisan,0,,False,False
+141568,SC,William Bailey,Republican,17929,66.874,True,False
+141568,SC,George M Blumenthal,Democratic,8869,33.081,False,False
+141568,SC,Write-in,Nonpartisan,12,0.045,False,False
+141880,SC,Robin M Beam,Nonpartisan,0,,False,False
+141880,SC,Write-in,Nonpartisan,0,,False,False
+142000,SC,Jonathan Harling,Nonpartisan,0,,False,False
+142000,SC,Write-in,Nonpartisan,0,,False,False
+141704,SC,William Crawford,Republican,0,,False,False
+141704,SC,Lekesa Kesha Whitner,Democratic,0,,False,False
+141704,SC,Write-in,Nonpartisan,0,,False,False
+141817,SC,Robbie Coward,Democratic,0,,False,False
+141817,SC,Write-in,Nonpartisan,0,,False,False
+141521,SC,Cynthia O Ford,Democratic,8120,51.605,True,False
+141521,SC,Lucas Atkinson,Republican,7610,48.364,False,False
+141521,SC,Write-in,Nonpartisan,5,0.032,False,False
+177088,SC,Write-in,Nonpartisan,0,,False,False
+141754,SC,Bernie Hamby,Republican,0,,False,False
+141754,SC,Write-in,Nonpartisan,0,,False,False
+142066,SC,Charles King,Nonpartisan,0,,False,False
+142066,SC,Write-in,Nonpartisan,0,,False,False
+177018,SC,Write-in,Nonpartisan,0,,False,False
+141883,SC,Calvin Bailey,Nonpartisan,0,,False,False
+141883,SC,Gary S Herndon,Nonpartisan,0,,False,False
+141883,SC,Write-in,Nonpartisan,0,,False,False
+141890,SC,Marty K Avant,Nonpartisan,0,,False,False
+141890,SC,Justin Sutton,Nonpartisan,0,,False,False
+141890,SC,Write-in,Nonpartisan,0,,False,False
+142003,SC,Donald R Reeves Jr,Nonpartisan,0,,False,False
+142003,SC,Mark Sury,Nonpartisan,0,,False,False
+142003,SC,Write-in,Nonpartisan,0,,False,False
+141515,SC,David Weeks,Democratic,10123,98.549,True,False
+141515,SC,Write-in,Nonpartisan,149,1.451,False,False
+141628,SC,John H Gray,Republican,0,,False,False
+141628,SC,ErNiko Brown,Democratic,0,,False,False
+141628,SC,Write-in,Nonpartisan,0,,False,False
+142132,SC,James Baxter,Nonpartisan,0,,False,False
+142132,SC,Thomas Donegan,Nonpartisan,0,,False,False
+142132,SC,Roy Mordhorst,Nonpartisan,0,,False,False
+142132,SC,Write-in,Nonpartisan,0,,False,False
+142060,SC,Connie Young Shannon,Nonpartisan,0,,False,False
+142060,SC,Write-in,Nonpartisan,0,,False,False
+141565,SC,Roger K Kirby,Democratic,10011,69.506,True,False
+141565,SC,Arnie Borowsky,Republican,4362,30.285,False,False
+141565,SC,Write-in,Nonpartisan,30,0.208,False,False
+141877,SC,Charles E Glover III,Nonpartisan,0,,False,False
+141877,SC,Nicholas W Yoder,Nonpartisan,0,,False,False
+141877,SC,Write-in,Nonpartisan,0,,False,False
+177021,SC,Yes,Nonpartisan,0,,False,False
+177021,SC,No,Nonpartisan,0,,False,False
+141750,SC,Mark Allison,Republican,0,,False,False
+141750,SC,Write-in,Nonpartisan,0,,False,False
+141870,SC,Karen Lesser Hollings,Democratic,0,,False,False
+141870,SC,Write-in,Nonpartisan,0,,False,False
+177014,SC,Trina Badger,Nonpartisan,0,,False,False
+177014,SC,Tommy Capers,Nonpartisan,0,,False,False
+177014,SC,Larry Cohen,Nonpartisan,0,,False,False
+177014,SC,Deborah A Creech,Nonpartisan,0,,False,False
+177014,SC,Lee Harley Fitts,Nonpartisan,0,,False,False
+177014,SC,Nathaniel Nate Hartley,Nonpartisan,0,,False,False
+177014,SC,Glam Montgomery,Nonpartisan,0,,False,False
+177014,SC,Kathy Tharin,Nonpartisan,0,,False,False
+177014,SC,Write-in,Nonpartisan,0,,False,False
+141886,SC,Perry B Chinners,Nonpartisan,0,,False,False
+141886,SC,Tommy Feagin,Nonpartisan,0,,False,False
+141886,SC,Molly Jones,Nonpartisan,0,,False,False
+141886,SC,Write-in,Nonpartisan,0,,False,False
+141807,SC,Jackie Brown,Democratic,0,,False,False
+141807,SC,Write-in,Nonpartisan,0,,False,False
+141511,SC,Tommy Pope,Republican,11599,66.474,True,False
+141511,SC,Justin Bennett,Democratic,5827,33.394,False,False
+141511,SC,Write-in,Nonpartisan,23,0.132,False,False
+141624,SC,Mary Rathel,Republican,0,,False,False
+141624,SC,Write-in,Nonpartisan,0,,False,False
+142135,SC,Luther R Black Jr,Nonpartisan,0,,False,False
+142135,SC,James L Longshore,Nonpartisan,0,,False,False
+142135,SC,Write-in,Nonpartisan,0,,False,False
+142056,SC,Darreyl Davis,Nonpartisan,0,,False,False
+142056,SC,Kolisa Willingham-Douglas,Nonpartisan,0,,False,False
+142056,SC,Write-in,Nonpartisan,0,,False,False
+141561,SC,Robby Robbins,Republican,9620,58.766,True,False
+141561,SC,Cathy A Jaggars,Democratic,6745,41.203,False,False
+141561,SC,Write-in,Nonpartisan,5,0.031,False,False
+141873,SC,Mark Connelly,Nonpartisan,0,,False,False
+141873,SC,Joe Oswald IV,Nonpartisan,0,,False,False
+141873,SC,Write-in,Nonpartisan,0,,False,False
+141993,SC,Adrienne C Blume,Nonpartisan,0,,False,False
+141993,SC,Write-in,Nonpartisan,0,,False,False
+141697,SC,Willette O Thompson,Democratic,0,,False,False
+141697,SC,Write-in,Nonpartisan,0,,False,False
+141810,SC,Phil Napier,Republican,0,,False,False
+141810,SC,Write-in,Nonpartisan,0,,False,False
+142122,SC,Jim Jablonski,Nonpartisan,0,,False,False
+142122,SC,David James Wolfe,Nonpartisan,0,,False,False
+142122,SC,Write-in,Nonpartisan,0,,False,False
+177074,SC,Yes,Nonpartisan,0,,False,False
+177074,SC,No,Nonpartisan,0,,False,False
+177081,SC,R Leecie Addison,Nonpartisan,0,,False,False
+177081,SC,Brian L Oertel,Nonpartisan,0,,False,False
+177081,SC,Johnny A Reeves,Nonpartisan,0,,False,False
+177081,SC,Renee Tinsley,Nonpartisan,0,,False,False
+177081,SC,Write-in,Nonpartisan,0,,False,False
+141946,SC,Amy Williams,Nonpartisan,0,,False,False
+141946,SC,Write-in,Nonpartisan,0,,False,False
+141867,SC,Kyle Long,Republican,0,,False,False
+141867,SC,Thomas Sanders,Democratic,0,,False,False
+141867,SC,Write-in,Nonpartisan,0,,False,False
+177011,SC,Yes,Nonpartisan,0,,False,False
+177011,SC,No,Nonpartisan,0,,False,False
+141684,SC,Latishia Brown Robertson,Democratic,0,,False,False
+141684,SC,Ashlee Spires Pegg,Petition,0,,False,False
+141684,SC,Write-in,Nonpartisan,0,,False,False
+141804,SC,Brant Tomlinson,Republican,0,,False,False
+141804,SC,Write-in,Nonpartisan,0,,False,False
+141508,SC,Mike Neese,Republican,12063,52.459,True,False
+141508,SC,Katie Crosby,Democratic,10909,47.441,False,False
+141508,SC,Write-in,Nonpartisan,23,0.1,False,False
+141621,SC,Allen Beverly,Republican,0,,False,False
+141621,SC,Write-in,Nonpartisan,0,,False,False
+141933,SC,Felicia Robinson Devore,Nonpartisan,0,,False,False
+141933,SC,Write-in,Nonpartisan,0,,False,False
+142053,SC,Patrice Rhinehart-Jackson,Nonpartisan,0,,False,False
+142053,SC,Write-in,Nonpartisan,0,,False,False
+87404,SC,Sheri Biggs,Republican,173968,63.68,True,False
+87404,SC,Eunice Lehmacher,Democratic,93962,34.394,False,False
+87404,SC,Brian Corriea,Libertarian,5112,1.871,False,False
+87404,SC,Write-in,Nonpartisan,150,0.055,False,False
+87402,SC,Nancy Lacore,Democratic,162103,49.66,True,False
+87402,SC,Jenny Costa Honeycutt,Republican,158751,48.634,False,False
+87402,SC,Bill Reeside,Libertarian,5351,1.639,False,False
+87402,SC,Write-in,Nonpartisan,218,0.067,False,False
+87406,SC,Wes Climer,Republican,151611,52.826,True,False
+87406,SC,Mallory Dittmer,Democratic,135234,47.12,False,False
+87406,SC,Write-in,Nonpartisan,155,0.054,False,False
+87408,SC,Russell Fry,Republican,172439,56.707,True,False
+87408,SC,John Vincent,Democratic,131445,43.226,False,False
+87408,SC,Write-in,Nonpartisan,204,0.067,False,False
+87403,SC,Joe Wilson,Republican,147791,49.818,True,False
+87403,SC,Zyon Khalifa,Democratic,144865,48.831,False,False
+87403,SC,Dayna Alane Smith,Workers,3674,1.238,False,False
+87403,SC,Write-in,Nonpartisan,334,0.113,False,False
+87405,SC,William Timmons,Republican,146944,51.706,True,False
+87405,SC,Courtney McClain,Democratic,129742,45.653,False,False
+87405,SC,Jessica Ethridge,Libertarian,7215,2.539,False,False
+87405,SC,Write-in,Nonpartisan,292,0.103,False,False
+87407,SC,Jim Clyburn,Democratic,181118,69.305,True,False
+87407,SC,John Peterson,Republican,79898,30.573,False,False
+87407,SC,Write-in,Nonpartisan,318,0.122,False,False
+87409,SC,Annie Andrews,Democratic,1044033,51.136,True,False
+87409,SC,Darline Graham,Republican,952308,46.644,False,False
+87409,SC,Kasie Whitener,Libertarian,23599,1.156,False,False
+87409,SC,Mark Hackett,Constitution,16825,0.824,False,False
+87409,SC,Write-in,Nonpartisan,4900,0.24,False,False

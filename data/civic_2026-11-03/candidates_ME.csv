@@ -1,0 +1,1214 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+87189,ME,Hannah Pingree,Democratic,386970,54.383,True,False
+87189,ME,Bobby Charles,Republican,266841,37.501,False,False
+87189,ME,Rick Bennett,Independent,57754,8.116,False,False
+159535,ME,Democratic,Democratic,292355,50.806,False,False
+159535,ME,Republican,Republican,246340,42.809,False,False
+159535,ME,Independent,Independent,36740,6.385,False,False
+159536,ME,Democratic,Democratic,317939,52.478,False,False
+159536,ME,Republican,Republican,241935,39.933,False,False
+159536,ME,Independent,Independent,45978,7.589,False,False
+154505,ME,Billy Bob Faulkingham,Republican,10810,58.297,True,False
+154505,ME,Aaron M. Dana,Independent,7733,41.703,False,False
+178180,ME,Yes,Nonpartisan,1019,78.144,False,False
+178180,ME,No,Nonpartisan,285,21.856,False,False
+178026,ME,Richard J. Leone,Nonpartisan,0,,False,False
+178263,ME,Yes,Nonpartisan,9177,88.899,False,False
+178263,ME,No,Nonpartisan,1146,11.101,False,False
+178109,ME,Aimee Rae Morris,Nonpartisan,0,,False,False
+178147,ME,Mark A. Cobb,Nonpartisan,0,,False,False
+178185,ME,Ruth Debeurs,Nonpartisan,0,,False,False
+178185,ME,Dale Jackson,Nonpartisan,0,,False,False
+154611,ME,Tammy L. Schmersal-Burgess,Republican,2767,66.149,True,False
+154611,ME,Arlie E. Hetrick Jr.,Democratic,1416,33.851,False,False
+154649,ME,Andrew J. Zarro,Democratic,75,100.0,True,False
+178114,ME,Kelly J. McKenney,Nonpartisan,1874,26.126,False,False
+178114,ME,John Linnehan,Nonpartisan,1559,21.734,False,False
+178114,ME,Karen Shea Arkin,Nonpartisan,1533,21.372,False,False
+178114,ME,Brittany P. Rumery,Nonpartisan,1508,21.023,False,False
+178114,ME,Christopher M. Walters,Nonpartisan,699,9.745,False,False
+178152,ME,Jared Forrest,Nonpartisan,0,,False,False
+178215,ME,Yes,Nonpartisan,5216,73.672,False,False
+178215,ME,No,Nonpartisan,1864,26.328,False,False
+178036,ME,Sara C. Woodworth,Nonpartisan,2497,42.452,False,False
+178036,ME,Jacob J. Eckert,Nonpartisan,1800,30.602,False,False
+178036,ME,Matthew J.W. Biddle,Nonpartisan,1585,26.947,False,False
+154654,ME,Jason J. Shedlock,Democratic,14,100.0,True,False
+154500,ME,Lucien J.B. Daigle,Republican,9668,59.842,True,False
+154500,ME,Vaughn J. Mclaughlin,Democratic,6488,40.158,False,False
+178175,ME,Yes,Nonpartisan,1596,76.583,False,False
+178175,ME,No,Nonpartisan,488,23.417,False,False
+178157,ME,Trevor R. Nason,Nonpartisan,927,63.406,False,False
+178157,ME,Joshua D. Parks,Nonpartisan,535,36.594,False,False
+154576,ME,Valli D. Geiger,Democratic,3123,68.91,True,False
+154576,ME,Melissa Joy Byer,Republican,1409,31.09,False,False
+178258,ME,Yes,Nonpartisan,1780,77.831,False,False
+178258,ME,No,Nonpartisan,507,22.169,False,False
+178104,ME,Erik Shawn Thomas,Nonpartisan,0,,False,False
+154633,ME,Cheryl A. Golek,Democratic,3580,64.331,True,False
+154633,ME,Braeden D. Webber,Republican,1985,35.669,False,False
+178315,ME,Sandra Guay,Nonpartisan,916,71.008,False,False
+178315,ME,John Shannon III,Nonpartisan,374,28.992,False,False
+178353,ME,Jonathan Erb,Nonpartisan,0,,False,False
+178353,ME,Cynthia Morse,Nonpartisan,0,,False,False
+154555,ME,Ambureen Rana,Democratic,2448,65.86,True,False
+154555,ME,Frank Joseph Casella,Republican,1269,34.14,False,False
+178237,ME,Yes,Nonpartisan,1971,89.388,False,False
+178237,ME,No,Nonpartisan,234,10.612,False,False
+178083,ME,Linda Marie McLeod,Nonpartisan,1803,22.91,False,False
+178083,ME,Scott J. Wilcox,Nonpartisan,1687,21.436,False,False
+178083,ME,Katrina Schilthuis Wynn,Nonpartisan,1623,20.623,False,False
+178083,ME,Robin Cacace,Nonpartisan,1540,19.568,False,False
+178083,ME,John David Dieffenbacher-Krall,Nonpartisan,1217,15.464,False,False
+178320,ME,Jessica Averill,Nonpartisan,0,,False,False
+178320,ME,Edward Barber,Nonpartisan,0,,False,False
+178320,ME,Courtney Morgan,Nonpartisan,0,,False,False
+178358,ME,Yes,Nonpartisan,0,,False,False
+178358,ME,No,Nonpartisan,0,,False,False
+178005,ME,Tiffany Stewart,Nonpartisan,0,,False,False
+178242,ME,Yes,Nonpartisan,0,,False,False
+178242,ME,No,Nonpartisan,0,,False,False
+178088,ME,Daniel D. Flynn,Nonpartisan,0,,False,False
+178088,ME,Kaitlin E. Callahan,Nonpartisan,0,,False,False
+154514,ME,Amanda Ann Heath,Democratic,9622,52.22,True,False
+154514,ME,Kati McCormick,Republican,8804,47.78,False,False
+178164,ME,Marc Babcock,Nonpartisan,0,,False,False
+178164,ME,Mark Favreau,Nonpartisan,0,,False,False
+178164,ME,Joanne Joy,Nonpartisan,0,,False,False
+178164,ME,Hope Libby,Nonpartisan,0,,False,False
+178010,ME,Stanley B. Short Jr.,Nonpartisan,142,62.009,False,False
+178010,ME,Scott Allen Seekins,Nonpartisan,87,37.991,False,False
+154628,ME,Scott A. Harriman,Democratic,1804,55.662,True,False
+154628,ME,Janet Inger Beaudoin,Republican,1437,44.338,False,False
+178093,ME,Meagan Crawford,Nonpartisan,2829,22.325,False,False
+178093,ME,Shawn Goodwin,Nonpartisan,1958,15.451,False,False
+178093,ME,Jonathan Martell,Nonpartisan,1783,14.07,False,False
+178093,ME,Bryce Lambert,Nonpartisan,1747,13.786,False,False
+178093,ME,Victoria L. Pariyar,Nonpartisan,1534,12.105,False,False
+178093,ME,Michael Perry,Nonpartisan,1506,11.884,False,False
+178093,ME,Alexander Clary,Nonpartisan,1315,10.377,False,False
+154711,ME,Rebecca S. Wotton,Republican,0,,False,False
+154550,ME,Nina Azella Milliken,Democratic,3733,65.745,True,False
+154550,ME,Eric M. White,Republican,1945,34.255,False,False
+178232,ME,No,Nonpartisan,985,65.842,False,False
+178232,ME,Yes,Nonpartisan,511,34.158,False,False
+154761,ME,Breanna Pinkham Bebb,Democratic,5055,71.763,False,False
+154761,ME,Alphonzo Thomas Wagner III,Republican,1989,28.237,False,False
+154607,ME,Michael Soboleski,Republican,2543,55.391,True,False
+154607,ME,Daniel J. Simonds,Democratic,2048,44.609,False,False
+178289,ME,Yes,Nonpartisan,2919,77.263,False,False
+178289,ME,No,Nonpartisan,859,22.737,False,False
+154690,ME,Carol R. Emery,Republican,0,,False,False
+154728,ME,Dale P. Lancaster,Unknown,0,,False,False
+178211,ME,Yes,Nonpartisan,6356,87.984,False,False
+178211,ME,No,Nonpartisan,868,12.016,False,False
+154612,ME,Rachel A. Henderson,Republican,2305,54.608,True,False
+154612,ME,Woodleigh H. Hughes,Democratic,1916,45.392,False,False
+178294,ME,Yes,Nonpartisan,1282,64.1,False,False
+178294,ME,No,Nonpartisan,718,35.9,False,False
+178140,ME,Joanne Lebrun,Nonpartisan,0,,False,False
+178140,ME,Paige Picard,Nonpartisan,0,,False,False
+178140,ME,Robert Faucher,Nonpartisan,0,,False,False
+154534,ME,Michele Meyer,Democratic,15264,69.005,True,False
+154534,ME,Julie N. Rakic,Republican,6856,30.995,False,False
+178216,ME,Yes,Nonpartisan,4434,64.476,False,False
+178216,ME,No,Nonpartisan,2443,35.524,False,False
+154642,ME,Parnell W. Terry,Democratic,2756,59.192,True,False
+154642,ME,Kelly L. Dearborn,Republican,1900,40.808,False,False
+178299,ME,Yes,Nonpartisan,1246,59.962,False,False
+178299,ME,No,Nonpartisan,832,40.038,False,False
+178337,ME,Yes,Nonpartisan,0,,False,False
+178337,ME,No,Nonpartisan,0,,False,False
+154756,ME,Paul T. Davis Sr.,Republican,0,,False,False
+178221,ME,No,Nonpartisan,1683,69.231,False,False
+178221,ME,Yes,Nonpartisan,748,30.769,False,False
+178067,ME,Dani O'Halloran,Nonpartisan,2650,64.555,False,False
+178067,ME,Marissa Worster,Nonpartisan,928,22.607,False,False
+178067,ME,Jarod Farn-Guillette,Nonpartisan,527,12.838,False,False
+154685,ME,Kristi M. Mathieson,Democratic,3891,76.056,True,False
+154685,ME,Suzanne Johnson,Republican,1225,23.944,False,False
+154531,ME,Henry L. Ingwersen,Democratic,10262,56.04,True,False
+154531,ME,Jason G. Litalien,Independent,8050,43.96,False,False
+178342,ME,Yes,Nonpartisan,0,,False,False
+178342,ME,No,Nonpartisan,0,,False,False
+154735,ME,Maeghan Maloney,Democratic,0,,False,False
+154581,ME,Wayne K. Farrin,Democratic,2909,52.939,True,False
+154581,ME,Chester B. Grover III,Republican,2586,47.061,False,False
+178046,ME,Antoinette Goncalves,Nonpartisan,0,,False,False
+178046,ME,Catherine Brillant,Nonpartisan,0,,False,False
+178046,ME,Emily Biedrzycki,Nonpartisan,0,,False,False
+178046,ME,Kimberly Pacelli,Nonpartisan,0,,False,False
+154664,ME,Lynn Holland Copeland,Democratic,2680,56.445,True,False
+154664,ME,Todd M. Davis,Independent,2068,43.555,False,False
+154510,ME,Glenn Chip Curry,Democratic,12541,57.467,True,False
+154510,ME,Ryan C. Otis,Republican,9282,42.533,False,False
+154740,ME,Roland L. Poirier,Democratic,0,,False,False
+154586,ME,Sally Jeane Cluchey,Democratic,2130,55.224,True,False
+154586,ME,David W. Guilmette,Republican,1727,44.776,False,False
+178268,ME,Yes,Nonpartisan,795,82.043,False,False
+178268,ME,No,Nonpartisan,174,17.957,False,False
+154669,ME,Lisa Joy Pratt,Democratic,3659,62.43,True,False
+154669,ME,Scott E. Craig,Independent,2202,37.57,False,False
+178351,ME,Deborah Gillespie,Nonpartisan,0,,False,False
+178351,ME,Karen Raye,Nonpartisan,0,,False,False
+178190,ME,Yes,Nonpartisan,2022,51.529,False,False
+178190,ME,No,Nonpartisan,1902,48.471,False,False
+154591,ME,Tavis Rock Hasenfus,Democratic,2992,60.02,True,False
+154591,ME,David R. Potvin,Republican,1993,39.98,False,False
+178273,ME,Yes,Nonpartisan,0,,False,False
+178273,ME,No,Nonpartisan,0,,False,False
+154699,ME,Michelle M. Kane,Republican,0,,False,False
+154520,ME,Shanna Cox,Democratic,8564,61.928,True,False
+154520,ME,Eryn M. Soule,Unenrolled,5265,38.072,False,False
+178195,ME,No,Nonpartisan,3025,55.709,False,False
+178195,ME,Yes,Nonpartisan,2405,44.291,False,False
+178041,ME,John Harvell,Nonpartisan,0,,False,False
+154659,ME,Kelly Noonan Murphy,Democratic,30,100.0,True,False
+178278,ME,Yes,Nonpartisan,3445,63.832,False,False
+178278,ME,No,Nonpartisan,1952,36.168,False,False
+178124,ME,H. Scott Mason,Nonpartisan,0,,False,False
+178124,ME,Megan Greenwood,Nonpartisan,0,,False,False
+178124,ME,William C. Peirce,Nonpartisan,0,,False,False
+154716,ME,Tanya Belanger,Unknown,0,,False,False
+178174,ME,Edwin Bailey,Nonpartisan,0,,False,False
+178174,ME,Blane Casey,Nonpartisan,0,,False,False
+178174,ME,Thomas Rumpf,Nonpartisan,0,,False,False
+178020,ME,Elizabeth F. Goodspeed,Nonpartisan,0,,False,False
+178020,ME,Julie E.O. Pelletier,Nonpartisan,0,,False,False
+178020,ME,Karen B. Lechner,Nonpartisan,0,,False,False
+154638,ME,R. Melissa Winslow,Republican,2809,53.474,True,False
+154638,ME,L. Samuel Pfeifle,Independent,2444,46.526,False,False
+178103,ME,Ryan Oneil Michaud,Nonpartisan,0,,False,False
+154721,ME,Kevin J. Joyce,Democratic,0,,False,False
+154560,ME,James F. Dill,Democratic,2950,68.319,True,False
+154560,ME,Adam Joseph Shaw,Independent,1368,31.681,False,False
+178025,ME,Alexandra Reissman,Nonpartisan,0,,False,False
+178287,ME,Yes,Nonpartisan,3118,82.096,False,False
+178287,ME,No,Nonpartisan,680,17.904,False,False
+178325,ME,Yes,Nonpartisan,0,,False,False
+178325,ME,No,Nonpartisan,0,,False,False
+178146,ME,Colleen E. Marzilli,Nonpartisan,2129,33.907,False,False
+178146,ME,Daniel C. Demeritt,Nonpartisan,1987,31.645,False,False
+178146,ME,Devon J. Biggie,Nonpartisan,1287,20.497,False,False
+178146,ME,Daniel R. Lapointe,Nonpartisan,876,13.951,False,False
+154565,ME,Andrew R. Torbett,Republican,2412,61.358,True,False
+154565,ME,Eric J. Boothroyd,Democratic,1519,38.642,False,False
+178055,ME,Julie McFarland,Nonpartisan,1706,60.134,False,False
+178055,ME,Tracy Hovance,Nonpartisan,603,21.255,False,False
+178055,ME,Ella Braaten,Nonpartisan,528,18.611,False,False
+154648,ME,April D. Fournier,Democratic,33,100.0,True,False
+178330,ME,Yes,Nonpartisan,0,,False,False
+178330,ME,No,Nonpartisan,0,,False,False
+178169,ME,Yes,Nonpartisan,599,52.682,False,False
+178169,ME,No,Nonpartisan,538,47.318,False,False
+178015,ME,Emily Elizabeth Tilton,Nonpartisan,0,,False,False
+178015,ME,Jamie Marie Beck,Nonpartisan,0,,False,False
+178015,ME,Katie Marie Brydon,Nonpartisan,0,,False,False
+154570,ME,Kimberly M. Haggan,Republican,2988,56.645,True,False
+154570,ME,Clifton Guy Foster III,Democratic,2287,43.355,False,False
+178252,ME,Matthew Drost,Nonpartisan,0,,False,False
+178098,ME,Carter Scott,Nonpartisan,0,,False,False
+178309,ME,Janet L. Lewis,Nonpartisan,0,,False,False
+178309,ME,Kathleen B. Cravens,Nonpartisan,0,,False,False
+178347,ME,Yes,Nonpartisan,28948,50.227,False,False
+178347,ME,No,Nonpartisan,28686,49.773,False,False
+154766,ME,John E. Mountainland,Nonpartisan,0,,False,False
+178231,ME,Robert Glaspy Jr.,Nonpartisan,1381,63.059,False,False
+178231,ME,Hollie Niemi,Nonpartisan,809,36.941,False,False
+178077,ME,Russell Greenleaf,Nonpartisan,1673,31.68,False,False
+178077,ME,Timothy Cusick,Nonpartisan,1396,26.434,False,False
+178077,ME,Jonathan Ault,Nonpartisan,1230,23.291,False,False
+178077,ME,Marc Cone,Nonpartisan,982,18.595,False,False
+154695,ME,Darlene M. Perry,Republican,0,,False,False
+178352,ME,Victoria Ganz,Nonpartisan,366,54.955,False,False
+178352,ME,Alan Skinner,Nonpartisan,300,45.045,False,False
+154579,ME,Clinton E. Collamore,Independent,2082,52.843,True,False
+154579,ME,Rebecca M. Stephens,Republican,1858,47.157,False,False
+154617,ME,Timothy J. Becker,Democratic,2771,52.721,True,False
+154617,ME,Marygrace Caroline Cimino,Republican,2485,47.279,False,False
+178082,ME,Ricky R. LaChappelle,Nonpartisan,6164,45.707,False,False
+178082,ME,Carl L. Sheline,Nonpartisan,4766,35.34,False,False
+178082,ME,Brian R. Beaulieu,Nonpartisan,1432,10.618,False,False
+178082,ME,Jay A. Rodrigue,Nonpartisan,603,4.471,False,False
+178082,ME,Charles A. Soule,Nonpartisan,521,3.863,False,False
+154700,ME,Christopher J. Davis,Republican,13278,57.441,False,False
+154700,ME,Savannah Leah Sessions,Unenrolled,9838,42.559,False,False
+178183,ME,Deborah Tibbetts,Nonpartisan,0,,False,False
+178183,ME,Anne Bennett,Nonpartisan,0,,False,False
+178004,ME,Kathy G. Chase,Nonpartisan,0,,False,False
+154622,ME,Dana N. Staples,Democratic,2337,51.738,True,False
+154622,ME,Quentin James Chapman,Republican,2180,48.262,False,False
+178304,ME,Yes,Nonpartisan,3962,52.539,False,False
+178304,ME,No,Nonpartisan,3579,47.461,False,False
+154705,ME,Bobby J. Mills,Democratic,0,,False,False
+154544,ME,William R. Tuell,Republican,2938,67.108,True,False
+154544,ME,Genevieve M. Lemire,Democratic,1440,32.892,False,False
+178226,ME,Yes,Nonpartisan,10069,80.986,False,False
+178226,ME,No,Nonpartisan,2364,19.014,False,False
+178072,ME,George LaCasse Jr.,Nonpartisan,0,,False,False
+178072,ME,Jeff Whitney,Nonpartisan,0,,False,False
+178072,ME,Tamara Lovewell,Nonpartisan,0,,False,False
+154601,ME,Shawn M. Dixon,Republican,2246,53.681,True,False
+154601,ME,Matthew C. Townsend,Democratic,1938,46.319,False,False
+178283,ME,Yes,Nonpartisan,5594,78.922,False,False
+178283,ME,No,Nonpartisan,1494,21.078,False,False
+178129,ME,Charles L. Simms,Nonpartisan,0,,False,False
+178129,ME,Roger W. Kramer,Nonpartisan,0,,False,False
+178129,ME,Samuel R. Purinton,Nonpartisan,0,,False,False
+178129,ME,Suzanne E. Phillips,Nonpartisan,0,,False,False
+154530,ME,Donna Bailey,Democratic,13737,65.696,True,False
+154530,ME,Scott Benedetto Eccleston,Republican,7173,34.304,False,False
+178205,ME,Brady Clark,Nonpartisan,0,,False,False
+178205,ME,Jason Simms,Nonpartisan,0,,False,False
+178051,ME,Amelia Auner-Montgomery,Nonpartisan,0,,False,False
+178288,ME,Yes,Nonpartisan,2734,72.655,False,False
+178288,ME,No,Nonpartisan,1029,27.345,False,False
+178134,ME,Edward Roderick,Nonpartisan,0,,False,False
+178134,ME,George Bailey Sr.,Nonpartisan,0,,False,False
+178134,ME,Jeremy Lizzotte,Nonpartisan,0,,False,False
+178134,ME,Nicole Goodheart,Nonpartisan,0,,False,False
+154745,ME,Amy Leshure,Democratic,25411,72.821,False,False
+154745,ME,Robert P. Vail,Unenrolled,9484,27.179,False,False
+178210,ME,Yes,Nonpartisan,5844,81.814,False,False
+178210,ME,No,Nonpartisan,1299,18.186,False,False
+178056,ME,Anthony Ray Cote,Nonpartisan,4758,14.333,False,False
+178056,ME,Terry Lee Dinkins,Nonpartisan,4615,13.902,False,False
+178056,ME,Joseph Martin Pratt,Nonpartisan,4099,12.348,False,False
+178056,ME,Adam Douglas Baker,Nonpartisan,3331,10.034,False,False
+178056,ME,Joseph A. Leonard,Nonpartisan,3165,9.534,False,False
+178056,ME,Andrei Valentin Yermakov,Nonpartisan,3102,9.344,False,False
+178056,ME,Jennifer McGinley Maskala,Nonpartisan,1833,5.522,False,False
+178056,ME,James T. Gallagher,Nonpartisan,1798,5.416,False,False
+178056,ME,Michael Norris Furrow,Nonpartisan,1712,5.157,False,False
+178056,ME,Katherine Signe Devine,Nonpartisan,1658,4.995,False,False
+178056,ME,John Eddy King,Nonpartisan,1640,4.94,False,False
+178056,ME,Dawson Brady Nevells,Nonpartisan,1485,4.473,False,False
+178318,ME,Ryan Levesque,Nonpartisan,0,,False,False
+178318,ME,Patricia Nobel,Nonpartisan,0,,False,False
+178318,ME,Timothy Wright,Nonpartisan,0,,False,False
+178139,ME,Aaron White,Nonpartisan,0,,False,False
+178139,ME,Bernard Weymouth Jr.,Nonpartisan,0,,False,False
+154750,ME,John A. Wombacher,Democratic,0,,False,False
+154596,ME,Katrina J. Smith,Republican,2925,60.836,True,False
+154596,ME,Pamela Jo Swift,Democratic,1883,39.164,False,False
+178061,ME,Zachary Schmesser,Nonpartisan,1830,59.416,False,False
+178061,ME,Neal Harkness,Nonpartisan,1250,40.584,False,False
+154679,ME,Kristin T. Davis,Democratic,3445,56.236,True,False
+154679,ME,Caleb J. Chase,Republican,2681,43.764,False,False
+154525,ME,Timothy E. Nangle,Democratic,9926,55.48,True,False
+154525,ME,Kenneth James Cianchette,Republican,7965,44.52,False,False
+178200,ME,Patrick Guyer,Nonpartisan,0,,False,False
+154575,ME,Joshua D. Gerritsen,Democratic,4369,76.878,True,False
+154575,ME,Cory Christopher Raymond,Republican,1314,23.122,False,False
+178257,ME,Yes,Nonpartisan,1119,52.958,False,False
+178257,ME,No,Nonpartisan,994,47.042,False,False
+154658,ME,Eric James Nathanson,Democratic,2745,49.22,True,False
+154658,ME,Scott W. Doherty,Republican,1513,27.129,False,False
+154658,ME,Mary Shannon Lindstrom,Independent,1319,23.651,False,False
+154504,ME,Elizabeth M. Caruso,Republican,10768,58.474,True,False
+154504,ME,Robert F. Sullebarger,Democratic,7647,41.526,False,False
+178179,ME,Yes,Nonpartisan,1107,87.51,False,False
+178179,ME,No,Nonpartisan,158,12.49,False,False
+154580,ME,Jennifer F. Mayher,Democratic,3496,59.114,True,False
+154580,ME,Kristine A. Poland,Independent,2418,40.886,False,False
+178262,ME,Yes,Nonpartisan,8574,83.065,False,False
+178262,ME,No,Nonpartisan,1748,16.935,False,False
+178108,ME,David Carleton Johnson Jr.,Nonpartisan,0,,False,False
+154509,ME,David G. Haggan,Republican,11880,54.865,True,False
+154509,ME,Jaric T. Fontaine,Democratic,9773,45.135,False,False
+178184,ME,Jeffery Crowell,Nonpartisan,0,,False,False
+154610,ME,Sheila Ann Lyman,Republican,2369,54.914,True,False
+154610,ME,Trevor Alex Doiron,Democratic,1945,45.086,False,False
+178267,ME,Yes,Nonpartisan,0,,False,False
+178267,ME,No,Nonpartisan,0,,False,False
+178113,ME,Charles Lambert,Nonpartisan,0,,False,False
+154731,ME,William L. King Jr.,Democratic,65258,60.374,False,False
+154731,ME,David G. Corbett,Republican,39709,36.737,False,False
+154731,ME,Brian R. Pellerin,Unenrolled,3122,2.888,False,False
+178189,ME,Yes,Nonpartisan,2773,72.668,False,False
+178189,ME,No,Nonpartisan,1043,27.332,False,False
+178035,ME,Abigail Foster,Nonpartisan,0,,False,False
+178035,ME,Jayme Grandmaison,Nonpartisan,0,,False,False
+154653,ME,Michael P. Dixon,Democratic,7195,93.685,True,False
+154653,ME,Jacob Murray Wakem,Republican,485,6.315,False,False
+178335,ME,Yes,Nonpartisan,2690,84.405,False,False
+178335,ME,No,Nonpartisan,497,15.595,False,False
+178118,ME,Holly Coston,Nonpartisan,2316,66.475,False,False
+178118,ME,James Lund,Nonpartisan,1168,33.525,False,False
+178156,ME,Ilma J. Lopez,Nonpartisan,3217,49.047,False,False
+178156,ME,Michael Todd Chretien,Nonpartisan,2146,32.718,False,False
+178156,ME,Kevin L. Gardella,Nonpartisan,606,9.239,False,False
+178156,ME,Jakobi A. Delgado,Nonpartisan,590,8.995,False,False
+154549,ME,Holly R. Eaton,Democratic,3606,70.928,True,False
+154549,ME,Clifford John Noyes,Unenrolled,1478,29.072,False,False
+178014,ME,Martha A. Witham,Nonpartisan,2590,68.015,False,False
+178014,ME,William L. Clardy,Nonpartisan,1218,31.985,False,False
+154632,ME,Kilton McCarthy Webb,Democratic,2687,54.152,True,False
+154632,ME,William J. St. Michel,Republican,2275,45.848,False,False
+178314,ME,John Mountainland,Nonpartisan,0,,False,False
+154715,ME,Lynn C. Moore,Republican,0,,False,False
+154554,ME,Dani O'Halloran,Democratic,2396,56.007,True,False
+154554,ME,Patrick A. Jude,Republican,1882,43.993,False,False
+178236,ME,Leah Malcolm,Nonpartisan,1108,35.219,False,False
+178236,ME,Donald Raymond,Nonpartisan,729,23.172,False,False
+178236,ME,Thomas Malcolm,Nonpartisan,665,21.138,False,False
+178236,ME,Joshua Deakin,Nonpartisan,644,20.47,False,False
+154637,ME,Karin Orenstein,Democratic,53,100.0,True,False
+178127,ME,Joanna M. Benoit,Nonpartisan,0,,False,False
+178357,ME,Yes,Nonpartisan,0,,False,False
+178357,ME,No,Nonpartisan,0,,False,False
+154559,ME,Laurie Osher,Democratic,2458,82.873,True,False
+154559,ME,Anthony M. Weaver,Republican,508,17.127,False,False
+178241,ME,Yes,Nonpartisan,0,,False,False
+178241,ME,No,Nonpartisan,0,,False,False
+154667,ME,Marc G. Malon II,Democratic,2781,63.377,True,False
+154667,ME,Marc P. Lessard,Undeclared,1607,36.623,False,False
+178324,ME,Emily Levasseur,Nonpartisan,0,,False,False
+178163,ME,Yes,Nonpartisan,0,,False,False
+178163,ME,No,Nonpartisan,0,,False,False
+178009,ME,Douglas Erickson,Nonpartisan,0,,False,False
+154627,ME,Julia McCabe,Democratic,2304,65.232,True,False
+154627,ME,Susan G. Longchamps,Republican,1228,34.768,False,False
+178246,ME,Yes,Nonpartisan,3027,74.704,False,False
+178246,ME,No,Nonpartisan,1025,25.296,False,False
+178092,ME,Peter E. Tranchemontagne,Nonpartisan,4051,48.387,False,False
+178092,ME,Maura Anne Herlihy,Nonpartisan,2748,32.824,False,False
+178092,ME,Matthew Dupuis,Nonpartisan,860,10.272,False,False
+178092,ME,Daniel J. White,Nonpartisan,713,8.516,False,False
+154710,ME,Matthew James Boucher,Republican,30694,52.686,False,False
+154710,ME,Kevin M. Lamoreau,Democratic,27564,47.314,False,False
+154684,ME,Alexandros Orestis,Democratic,3391,64.321,True,False
+154684,ME,Mark F. Zimmer,Republican,1881,35.679,False,False
+178341,ME,Yes,Nonpartisan,0,,False,False
+178341,ME,No,Nonpartisan,0,,False,False
+154760,ME,Larry C. Dunphy,Unknown,0,,False,False
+154606,ME,Douglas Andrew Thomas,Republican,2392,65.48,True,False
+154606,ME,Cynthia J. Soma-Hernandez,Democratic,1261,34.52,False,False
+178071,ME,Steven Weems,Nonpartisan,0,,False,False
+154689,ME,Brian Thomas,Democratic,13920,52.966,False,False
+154689,ME,Matthew J. Foster,Republican,12361,47.034,False,False
+154727,ME,Guy Edward Dow,Republican,0,,False,False
+154765,ME,Justin M. Chenette,Democratic,0,,False,False
+178255,ME,Yes,Nonpartisan,1565,66.426,False,False
+178255,ME,No,Nonpartisan,791,33.574,False,False
+178293,ME,Yes,Nonpartisan,1829,70.13,False,False
+178293,ME,No,Nonpartisan,779,29.87,False,False
+154694,ME,Corey L. Pearson,Unaffiliated,0,,False,False
+154533,ME,Daniel R. Sayre,Democratic,14200,59.389,True,False
+154533,ME,Jonathan R. Fallon,Republican,9710,40.611,False,False
+178023,ME,Jean Phoenix Irons McLaughlin,Nonpartisan,0,,False,False
+154616,ME,Christopher Alfred Lewey,Democratic,2488,51.447,True,False
+154616,ME,Caleb J. Ness,Republican,2348,48.553,False,False
+178298,ME,Yes,Nonpartisan,1600,77.295,False,False
+178298,ME,No,Nonpartisan,470,22.705,False,False
+178336,ME,Yes,Nonpartisan,0,,False,False
+178336,ME,No,Nonpartisan,0,,False,False
+154755,ME,David S. Marshall,Republican,0,,False,False
+154538,ME,Timothy Conrad Guerrette,Republican,9,100.0,True,False
+178220,ME,Yes,Nonpartisan,1642,75.599,False,False
+178220,ME,No,Nonpartisan,530,24.401,False,False
+178066,ME,Andrea Holland,Nonpartisan,0,,False,False
+178277,ME,Yes,Nonpartisan,0,,False,False
+178277,ME,No,Nonpartisan,0,,False,False
+178123,ME,Debra A. Bickford,Nonpartisan,1920,13.726,False,False
+178123,ME,Beverly A. Young,Nonpartisan,1813,12.961,False,False
+178123,ME,Clifford L. Emery,Nonpartisan,1607,11.488,False,False
+178123,ME,William C. Hall,Nonpartisan,1257,8.986,False,False
+178123,ME,Mary E. Macleod,Nonpartisan,1249,8.929,False,False
+178123,ME,Kevin F. Young,Nonpartisan,1208,8.636,False,False
+178123,ME,Emily F. Weyrauch,Nonpartisan,1156,8.264,False,False
+178123,ME,Julie A. Gamelson,Nonpartisan,1124,8.035,False,False
+178123,ME,Meegan M. Diconzo,Nonpartisan,1051,7.514,False,False
+178123,ME,Michael F. Pettis,Nonpartisan,904,6.463,False,False
+178123,ME,Henry N. Sheedy,Nonpartisan,699,4.997,False,False
+154734,ME,Neil E. McLean Jr.,Republican,0,,False,False
+178199,ME,Rebecca Singer,Nonpartisan,0,,False,False
+178045,ME,Heather Holland,Nonpartisan,0,,False,False
+178045,ME,Perrin Chick,Nonpartisan,0,,False,False
+154663,ME,Marshall F. Archer,Democratic,23,100.0,True,False
+178128,ME,Chad R. Coffin,Nonpartisan,2626,38.584,False,False
+178128,ME,George P. St. Pierre,Nonpartisan,2371,34.837,False,False
+178128,ME,Reginald S. Leese,Nonpartisan,1809,26.579,False,False
+154739,ME,Kari Ann Wells-Puckett,Democratic,0,,False,False
+154585,ME,Rafael Macias,Democratic,3548,65.257,True,False
+154585,ME,Annalyse O. Sarvinas,Republican,1889,34.743,False,False
+178050,ME,Melissa J. Sheets,Nonpartisan,0,,False,False
+154668,ME,Traci Gere,Democratic,3429,63.795,True,False
+154668,ME,Allen Anthony Daggett,Unenrolled,1946,36.205,False,False
+178350,ME,No,Nonpartisan,5635,65.084,False,False
+178350,ME,Yes,Nonpartisan,3023,34.916,False,False
+154744,ME,William T. Dobbins,Republican,6224,100.0,False,False
+154744,ME,Diane Langworthy,Write-In,0,0.0,False,False
+154590,ME,Randall Adam Greenwood,Republican,3129,61.911,True,False
+154590,ME,Robin L. Upton-Sukeforth,Democratic,1925,38.089,False,False
+178272,ME,Yes,Nonpartisan,3949,75.019,False,False
+178272,ME,No,Nonpartisan,1315,24.981,False,False
+154673,ME,Jamie K. Newton,Republican,2342,52.95,True,False
+154673,ME,Dean P. LePage,Democratic,2081,47.05,False,False
+154519,ME,Michael R. Scott,Democratic,10211,52.464,True,False
+154519,ME,Bruce A. Bickford,Republican,9252,47.536,False,False
+178194,ME,Amanda Ketch,Nonpartisan,787,34.777,False,False
+178194,ME,Keiza Rochford,Nonpartisan,755,33.363,False,False
+178194,ME,Lauren Kenneson,Nonpartisan,721,31.86,False,False
+178040,ME,Andrew N. Guillerault,Nonpartisan,5820,55.041,False,False
+178040,ME,Stephen Z. Zamierowski,Nonpartisan,4754,44.959,False,False
+154569,ME,James E. Thorne,Republican,3063,61.065,True,False
+154569,ME,Debora S. Farnham,Democratic,1953,38.935,False,False
+178251,ME,Jason Hall,Nonpartisan,0,,False,False
+178097,ME,Jason A. Greenleaf,Nonpartisan,8469,31.304,False,False
+178097,ME,Matthew P. Garrett,Nonpartisan,7636,28.225,False,False
+178097,ME,Benjamin T. McDougal,Nonpartisan,5949,21.989,False,False
+178097,ME,Denis J. Lafreniere Jr.,Nonpartisan,5000,18.482,False,False
+178334,ME,Yes,Nonpartisan,740,66.249,False,False
+178334,ME,No,Nonpartisan,377,33.751,False,False
+178173,ME,Yes,Nonpartisan,1800,62.392,False,False
+178173,ME,No,Nonpartisan,1085,37.608,False,False
+178019,ME,Sarah N. Singer,Nonpartisan,0,,False,False
+178256,ME,Yes,Nonpartisan,1103,51.59,False,False
+178256,ME,No,Nonpartisan,1035,48.41,False,False
+178102,ME,Heather Lynn Pelletier,Nonpartisan,3638,45.532,False,False
+178102,ME,Sarah Valerie Whateley,Nonpartisan,2580,32.29,False,False
+178102,ME,Alexander Scott Lelchuk,Nonpartisan,1772,22.178,False,False
+154720,ME,Eric G. Samson,Democratic,0,,False,False
+178178,ME,Yes,Nonpartisan,1669,79.59,False,False
+178178,ME,No,Nonpartisan,428,20.41,False,False
+178024,ME,Lucia Rico,Nonpartisan,0,,False,False
+178286,ME,Yes,Nonpartisan,2878,75.617,False,False
+178286,ME,No,Nonpartisan,928,24.383,False,False
+178107,ME,Christopher D. Rancourt,Nonpartisan,741,64.211,False,False
+178107,ME,Brian James McArthur,Nonpartisan,413,35.789,False,False
+178145,ME,Jane Brekke,Nonpartisan,2140,35.948,False,False
+178145,ME,Anthony Palazzetti,Nonpartisan,1785,29.985,False,False
+178145,ME,Dorothy Maguire,Nonpartisan,1424,23.921,False,False
+178145,ME,Ronald Fousek,Nonpartisan,604,10.146,False,False
+154564,ME,James L. White,Republican,2940,66.157,True,False
+154564,ME,John Contreni,Democratic,1504,33.843,False,False
+178029,ME,Nicole Russell,Nonpartisan,0,,False,False
+154647,ME,Grayson Benjamin Lookner,Democratic,19,100.0,True,False
+178329,ME,Yes,Nonpartisan,0,,False,False
+178329,ME,No,Nonpartisan,0,,False,False
+178168,ME,Yes,Nonpartisan,0,,False,False
+178168,ME,No,Nonpartisan,0,,False,False
+178150,ME,Christopher Gowell,Nonpartisan,1382,68.518,False,False
+178150,ME,Rocky Wallace,Nonpartisan,635,31.482,False,False
+154543,ME,Arthur K. Mingo,Republican,2145,61.146,True,False
+154543,ME,Nicole N. Richards,Democratic,1363,38.854,False,False
+178225,ME,Yes,Nonpartisan,7701,58.737,False,False
+178225,ME,No,Nonpartisan,5410,41.263,False,False
+154626,ME,Stephen J. Wood,Republican,2975,61.709,True,False
+154626,ME,Scott G. Girardin,Independent,1846,38.291,False,False
+178308,ME,Heather Holland,Nonpartisan,0,,False,False
+178346,ME,Frederick Grant,Nonpartisan,0,,False,False
+154548,ME,Gary R. Friedmann,Democratic,98,100.0,True,False
+178230,ME,Chandra Sasseville,Nonpartisan,1050,51.195,False,False
+178230,ME,Michael Roy,Nonpartisan,631,30.765,False,False
+178230,ME,Matthew Agren,Nonpartisan,370,18.04,False,False
+178076,ME,Matthew G. Pillsbury,Nonpartisan,0,,False,False
+178313,ME,Clayton Quint IV,Nonpartisan,0,,False,False
+178159,ME,Yes,Nonpartisan,1391,81.488,False,False
+178159,ME,No,Nonpartisan,316,18.512,False,False
+154578,ME,Shawn Saindon,Independent,1946,51.976,True,False
+154578,ME,Ray A. Thombs Jr.,Republican,1798,48.024,False,False
+178235,ME,Bryant Davis,Nonpartisan,995,22.355,False,False
+178235,ME,John Raymond,Nonpartisan,984,22.107,False,False
+178235,ME,Michael Madore,Nonpartisan,886,19.906,False,False
+178235,ME,Laurie Gagnon,Nonpartisan,835,18.76,False,False
+178235,ME,Andrew St. John,Nonpartisan,546,12.267,False,False
+178235,ME,Leon Trager Jr.,Nonpartisan,205,4.606,False,False
+178081,ME,Shelby Wright,Nonpartisan,444,48.366,False,False
+178081,ME,Anthony Carney,Nonpartisan,197,21.46,False,False
+178081,ME,Allen Esposito,Nonpartisan,140,15.251,False,False
+178081,ME,Joshua Primiano,Nonpartisan,137,14.924,False,False
+154507,ME,Michael Tipping,Democratic,9722,55.755,True,False
+154507,ME,Leo C. Kenney,Republican,7715,44.245,False,False
+178356,ME,Christopher Bartlett,Nonpartisan,0,,False,False
+178003,ME,Leigh S. Smith,Republican,0,,False,False
+154621,ME,David Wayne Boyer Jr.,Republican,4,100.0,True,False
+178303,ME,Yes,Nonpartisan,6130,80.225,False,False
+178303,ME,No,Nonpartisan,1511,19.775,False,False
+178086,ME,Karsten W. Rees,Nonpartisan,0,,False,False
+154704,ME,Tracey H. Rotondi,Unknown,0,,False,False
+154524,ME,Teresa S. Pierce,Democratic,200,100.0,True,False
+154754,ME,Lloyd C. Herrick,Republican,5828,62.152,False,False
+154754,ME,Janet A. Jamison,Democratic,3549,37.848,False,False
+154600,ME,Michael D. Perkins,Republican,4,100.0,True,False
+178282,ME,Yes,Nonpartisan,5818,81.944,False,False
+178282,ME,No,Nonpartisan,1282,18.056,False,False
+154683,ME,Mallory A. Cook,Democratic,2997,60.497,True,False
+154683,ME,Timothy R. Towne,Republican,1957,39.503,False,False
+154529,ME,Sophia Bailey Warren,Democratic,14567,64.138,True,False
+154529,ME,M. Thad Moody,Republican,8145,35.862,False,False
+178204,ME,Yes,Nonpartisan,0,,False,False
+178204,ME,No,Nonpartisan,0,,False,False
+154605,ME,John E. Ducharme III,Republican,2,100.0,True,False
+178095,ME,Kevin Eaton,Nonpartisan,6832,97.433,False,False
+178095,ME,Richard Southwick,Nonpartisan,125,1.783,False,False
+178095,ME,Christopher Kucsma,Nonpartisan,55,0.784,False,False
+178133,ME,Peter D. Chase,Nonpartisan,0,,False,False
+178133,ME,Wade L. Hanson,Nonpartisan,0,,False,False
+154726,ME,Troy J. Morton,Republican,0,,False,False
+178209,ME,Yes,Nonpartisan,5563,78.885,False,False
+178209,ME,No,Nonpartisan,1489,21.115,False,False
+154635,ME,Poppy T. Arford,Democratic,4439,76.036,True,False
+154635,ME,Ravi Jackson,Republican,1399,23.964,False,False
+178292,ME,Yes,Nonpartisan,3102,82.742,False,False
+178292,ME,No,Nonpartisan,647,17.258,False,False
+178138,ME,Gwen Hawes,Nonpartisan,2389,47.599,False,False
+178138,ME,Charles Morrill,Nonpartisan,1437,28.631,False,False
+178138,ME,Joseph Slater,Nonpartisan,1193,23.77,False,False
+154749,ME,Jeffrey P. Gilbert,Republican,1665,57.118,False,False
+154749,ME,Gary T. McGrane,Democratic,1250,42.882,False,False
+154595,ME,Alicia Carol Collins,Republican,2831,59.613,True,False
+154595,ME,Robin G. Crawley,Democratic,1918,40.387,False,False
+178214,ME,Yes,Nonpartisan,6294,88.748,False,False
+178214,ME,No,Nonpartisan,798,11.252,False,False
+178060,ME,Caitlin Hills,Nonpartisan,1860,61.224,False,False
+178060,ME,Mary Mortier,Nonpartisan,1178,38.776,False,False
+154678,ME,Karen A. Gerrish,Republican,2048,59.414,True,False
+154678,ME,Corinna Cole,Unenrolled,1399,40.586,False,False
+178117,ME,Sarah J. Truman,Nonpartisan,681,62.939,False,False
+178117,ME,Maureen A. Cahill,Nonpartisan,401,37.061,False,False
+178155,ME,Anna Y. Bullett,Nonpartisan,3419,50.103,False,False
+178155,ME,Jacob M. Viola,Nonpartisan,3405,49.897,False,False
+154574,ME,D. Michael Ray,Democratic,3214,58.929,True,False
+154574,ME,Joseph M. McLaughlin,Republican,2240,41.071,False,False
+178039,ME,Tatiana Paula Cote,Nonpartisan,4206,39.046,False,False
+178039,ME,Lisa Pritchett,Nonpartisan,3780,35.091,False,False
+178039,ME,Brianna Gironda,Nonpartisan,2786,25.863,False,False
+154657,ME,Michelle N. Boyer,Democratic,83,100.0,True,False
+154503,ME,Chad Richard Perkins,Republican,13101,66.972,True,False
+154503,ME,Lisa G. Kalp,Democratic,6461,33.028,False,False
+154733,ME,Jacqueline A. Sartoris,Democratic,93147,62.079,False,False
+154733,ME,Stephanie Anderson,Unenrolled,56899,37.921,False,False
+178223,ME,Shannon Knowles,Nonpartisan,0,,False,False
+178223,ME,Herbert Taggart Jr.,Nonpartisan,0,,False,False
+178261,ME,Yes,Nonpartisan,6934,66.712,False,False
+178261,ME,No,Nonpartisan,3460,33.288,False,False
+154662,ME,Suzanne M. Salisbury,Democratic,3322,69.79,True,False
+154662,ME,Lawrence P. McWilliams,Unenrolled,1438,30.21,False,False
+154508,ME,Amy J. Roeder,Democratic,9669,60.876,True,False
+154508,ME,Stephen Richard Carey,Unenrolled,6214,39.124,False,False
+154763,ME,Robert L. Andrews,Republican,0,,False,False
+154584,ME,David A. Sinclair,Democratic,3438,74.111,True,False
+154584,ME,Jedediah James Rice II,Republican,1201,25.889,False,False
+178266,ME,No,Nonpartisan,8568,63.139,False,False
+178266,ME,Yes,Nonpartisan,5002,36.861,False,False
+178112,ME,Daniel Potelle,Nonpartisan,405,61.927,False,False
+178112,ME,Frances Hudson,Nonpartisan,249,38.073,False,False
+154513,ME,Craig V. Hickman,Democratic,11721,53.875,True,False
+154513,ME,Steven A. McGee,Republican,10035,46.125,False,False
+178188,ME,Yes,Nonpartisan,2848,76.109,False,False
+178188,ME,No,Nonpartisan,894,23.891,False,False
+178034,ME,Peter L. Flaherty,Nonpartisan,2954,38.259,False,False
+178034,ME,Donna Moutsatsos,Nonpartisan,2833,36.692,False,False
+178034,ME,David T. Boudreau,Nonpartisan,1934,25.049,False,False
+154652,ME,Yusuf M. Yusuf,Democratic,46,100.0,True,False
+178245,ME,Yes,Nonpartisan,0,,False,False
+178245,ME,No,Nonpartisan,0,,False,False
+178091,ME,Jodi L. Macphail,Nonpartisan,0,,False,False
+154709,ME,Julie A. Curtis,Republican,0,,False,False
+178167,ME,No,Nonpartisan,1644,54.401,False,False
+178167,ME,Yes,Nonpartisan,1378,45.599,False,False
+178013,ME,Colton Anthony Brann,Nonpartisan,0,,False,False
+154631,ME,Dale John Crafts,Republican,5,100.0,True,False
+178096,ME,Sean P. Flaherty,Nonpartisan,7050,21.881,False,False
+178096,ME,Jessica M. Sargent,Nonpartisan,6617,20.538,False,False
+178096,ME,Isha Agarwal,Nonpartisan,5366,16.655,False,False
+178096,ME,Denise R. Hamilton,Nonpartisan,4499,13.964,False,False
+178096,ME,Lawrence W. Cain,Nonpartisan,4434,13.762,False,False
+178096,ME,Samuel J. Cofone,Nonpartisan,2438,7.567,False,False
+178096,ME,Russell Wayne Werts,Nonpartisan,1815,5.633,False,False
+154714,ME,Gail J. Clark,Republican,0,,False,False
+154553,ME,Richard H. Campbell,Republican,3301,60.938,True,False
+154553,ME,David Ulrich,Democratic,2116,39.062,False,False
+178018,ME,W. Benjamin Walsh,Nonpartisan,0,,False,False
+154636,ME,Maura H. Pillsbury,Democratic,3971,72.03,True,False
+154636,ME,Henry Lloyd Lawrence III,Republican,1542,27.97,False,False
+178126,ME,Sarah Brayman,Nonpartisan,8493,73.583,False,False
+178126,ME,Robert A. Moulton,Nonpartisan,3049,26.417,False,False
+154719,ME,Wendy L. Caiazzo,Unenrolled,0,,False,False
+154558,ME,Sean F. Faircloth,Democratic,3397,100.0,True,False
+178240,ME,Yes,Nonpartisan,0,,False,False
+178240,ME,No,Nonpartisan,0,,False,False
+154641,ME,Joseph A. Campbell,Democratic,2647,53.302,True,False
+154641,ME,Mark C. Cooper,Republican,2319,46.698,False,False
+178323,ME,Nicole Johnson,Nonpartisan,546,65.0,False,False
+178323,ME,Marcel Leclair,Nonpartisan,294,35.0,False,False
+178162,ME,Yes,Nonpartisan,3317,80.373,False,False
+178162,ME,No,Nonpartisan,810,19.627,False,False
+178008,ME,Maxwell L. Pizey,Nonpartisan,0,,False,False
+178219,ME,Yes,Nonpartisan,2002,79.508,False,False
+178219,ME,No,Nonpartisan,516,20.492,False,False
+178065,ME,Catherine Holland,Nonpartisan,0,,False,False
+178302,ME,Yes,Nonpartisan,6896,85.953,False,False
+178302,ME,No,Nonpartisan,1127,14.047,False,False
+178340,ME,Yes,Nonpartisan,0,,False,False
+178340,ME,No,Nonpartisan,0,,False,False
+154759,ME,Cyprien J. Johnson,Unknown,1929,50.445,False,False
+154759,ME,John D. Alsop,Unknown,1895,49.555,False,False
+178224,ME,Yes,Nonpartisan,8241,58.751,False,False
+178224,ME,No,Nonpartisan,5786,41.249,False,False
+178070,ME,Jennifer Hicks,Nonpartisan,0,,False,False
+154688,ME,Margot Joly,Democratic,0,,False,False
+178345,ME,Perrin Chick,Nonpartisan,0,,False,False
+154764,ME,Doris E. Ortiz,Democratic,0,,False,False
+178254,ME,Yes,Nonpartisan,0,,False,False
+178254,ME,No,Nonpartisan,0,,False,False
+178075,ME,James M. DeGrandpre,Nonpartisan,875,73.283,False,False
+178075,ME,Steven J. Doran,Nonpartisan,319,26.717,False,False
+154693,ME,Catherine H. Moore,Republican,0,,False,False
+154532,ME,Matthew A. Harrington,Republican,8858,52.579,True,False
+154532,ME,Mark H. Vigliotta,Democratic,7989,47.421,False,False
+154769,ME,Adam B. Coover,Republican,0,,False,False
+154615,ME,Christopher A. Easton,Democratic,2655,52.762,True,False
+154615,ME,Peter C. Wood,Republican,2377,47.238,False,False
+178297,ME,Yes,Nonpartisan,1100,59.267,False,False
+178297,ME,No,Nonpartisan,756,40.733,False,False
+178143,ME,Kim M. McLaughlin,Nonpartisan,0,,False,False
+154698,ME,Joanne L. Mason,Democratic,31780,52.034,False,False
+154698,ME,Monte K. Sylvester,Republican,29295,47.966,False,False
+154537,ME,Susan Bernard,Republican,2170,57.544,True,False
+154537,ME,David H. McCrea,Democratic,1601,42.456,False,False
+154518,ME,Joseph E. Martin,Republican,9317,49.44,True,False
+154518,ME,Peter J. Southam,Democratic,6547,34.741,False,False
+154518,ME,David A. Duguay,Independent,2981,15.819,False,False
+178193,ME,Shane McGillan,Nonpartisan,0,,False,False
+154594,ME,William R. Bridgeo,Democratic,2485,59.365,True,False
+154594,ME,Wyatt Albert Beaulieu,Republican,1701,40.635,False,False
+178276,ME,Yes,Nonpartisan,0,,False,False
+178276,ME,No,Nonpartisan,0,,False,False
+178122,ME,Nathan Saunders,Nonpartisan,0,,False,False
+154523,ME,Denise Tepler,Democratic,182,100.0,True,False
+178198,ME,edward Perrin,Nonpartisan,0,,False,False
+178044,ME,Cassandra L. Nightingale,Nonpartisan,0,,False,False
+178044,ME,Gary K. Lovell,Nonpartisan,0,,False,False
+178281,ME,Yes,Nonpartisan,5306,74.21,False,False
+178281,ME,No,Nonpartisan,1844,25.79,False,False
+154707,ME,Melissa L. Richardson,Republican,0,,False,False
+154738,ME,Robert Carr Granger,Independent,22806,75.795,False,False
+154738,ME,Steven A. Juskewitch,Unenrolled,7283,24.205,False,False
+178203,ME,Yes,Nonpartisan,0,,False,False
+178203,ME,No,Nonpartisan,0,,False,False
+178049,ME,Mary Louise Pletcher,Nonpartisan,0,,False,False
+178311,ME,Christopher A. Gorski,Nonpartisan,0,,False,False
+178311,ME,Elizabeth A. Biermann,Nonpartisan,0,,False,False
+178311,ME,Stephanie P. Anderson,Nonpartisan,0,,False,False
+178311,ME,Timothy L. Thompson,Nonpartisan,0,,False,False
+178132,ME,John J. Schools,Nonpartisan,0,,False,False
+178132,ME,Susan M. Tortello,Nonpartisan,0,,False,False
+178132,ME,Frederick G. Grant,Nonpartisan,0,,False,False
+178132,ME,Darryl Scott White,Nonpartisan,0,,False,False
+178132,ME,Jeffrey G. Maguire,Nonpartisan,0,,False,False
+154743,ME,Coreene A. Baumann,Republican,0,,False,False
+154589,ME,Maureen AuCoin,Democratic,2916,53.202,True,False
+154589,ME,Charles L. Hippler IV,Republican,2565,46.798,False,False
+178271,ME,No,Nonpartisan,3232,61.727,False,False
+178271,ME,Yes,Nonpartisan,2004,38.273,False,False
+178054,ME,Bethany Drouin,Nonpartisan,0,,False,False
+178054,ME,Erin Steorts,Nonpartisan,0,,False,False
+178054,ME,Timothy Wess,Nonpartisan,0,,False,False
+178054,ME,Whitney Kahn,Nonpartisan,0,,False,False
+154672,ME,Jonathan Lee Kinney,Republican,2611,55.471,True,False
+154672,ME,Oliver D. McAvoy,Democratic,2096,44.529,False,False
+178328,ME,Yes,Nonpartisan,0,,False,False
+178328,ME,No,Nonpartisan,0,,False,False
+178149,ME,Christopher A. Gorski,Nonpartisan,0,,False,False
+178149,ME,Elizabeth A. Biermann,Nonpartisan,0,,False,False
+178149,ME,Stephanie P. Anderson,Nonpartisan,0,,False,False
+178149,ME,Timothy L. Thompson,Nonpartisan,0,,False,False
+154568,ME,Stacey K. Guerin,Republican,3054,68.383,True,False
+154568,ME,James P. McClymer,Democratic,1412,31.617,False,False
+178250,ME,Victor Hall,Nonpartisan,0,,False,False
+154651,ME,Matthew Moonen,Democratic,78,100.0,True,False
+178333,ME,No,Nonpartisan,951,69.214,False,False
+178333,ME,Yes,Nonpartisan,423,30.786,False,False
+178172,ME,Leigh-Ann Voisine,Nonpartisan,634,62.218,False,False
+178172,ME,Dale Earle,Nonpartisan,385,37.782,False,False
+154573,ME,Madison Crissey Cook,Democratic,3775,70.076,True,False
+154573,ME,Michael J. Nicholson,Republican,1612,29.924,False,False
+178063,ME,Susan Bailey,Nonpartisan,0,,False,False
+178101,ME,Michael J. Morris,Nonpartisan,4022,66.656,False,False
+178101,ME,Matthew Shaw Boulerice,Nonpartisan,2012,33.344,False,False
+154502,ME,Joel R. Stetkis,Republican,10827,60.949,True,False
+154502,ME,Ester B. Franklin,Democratic,6937,39.051,False,False
+178177,ME,Yes,Nonpartisan,1703,80.864,False,False
+178177,ME,No,Nonpartisan,403,19.136,False,False
+154603,ME,Dean A. Cray,Republican,2964,70.96,True,False
+154603,ME,Jessica B. Blanchard,Democratic,1213,29.04,False,False
+178260,ME,Yes,Nonpartisan,9052,86.888,False,False
+178260,ME,No,Nonpartisan,1366,13.112,False,False
+178106,ME,Colleen M. Madigan,Nonpartisan,0,,False,False
+178144,ME,Mark Eastman,Nonpartisan,1407,38.675,False,False
+178144,ME,Ralph Chapman,Nonpartisan,1220,33.535,False,False
+178144,ME,Jonathan Goss,Nonpartisan,1011,27.79,False,False
+154563,ME,Nancy J. Theriault,Republican,2734,63.463,True,False
+154563,ME,Nancy Marie McDowell,Democratic,1574,36.537,False,False
+178182,ME,Andrew Bermudez,Nonpartisan,0,,False,False
+178182,ME,Michael Burton,Nonpartisan,0,,False,False
+178182,ME,Theresa McManus,Nonpartisan,0,,False,False
+178028,ME,Jamie Dorr,Nonpartisan,4422,67.511,False,False
+178028,ME,Jennifer Ritch-Smith,Nonpartisan,2128,32.489,False,False
+154646,ME,Sean M. Mahoney,Democratic,4193,75.17,True,False
+154646,ME,Lauren Chelsea Jones,Republican,1385,24.83,False,False
+178085,ME,Daniel F. Hohl,Nonpartisan,0,,False,False
+154703,ME,Gail C. Eaton,Democratic,0,,False,False
+154542,ME,Tracy Lynn Quint,Republican,6,100.0,True,False
+178007,ME,James M. Luedke,Nonpartisan,0,,False,False
+154625,ME,Jeffrey L. Timberlake,Republican,8,100.0,True,False
+178307,ME,Jean Phoenix Irons McLaughlin,Nonpartisan,0,,False,False
+154708,ME,Susan A. Black,Republican,0,,False,False
+154547,ME,Michael H. Cunningham II,Democratic,2119,50.225,False,False
+154547,ME,Russell P. White,Republican,2100,49.775,True,False
+178229,ME,Susan Longchamps,Nonpartisan,1222,50.853,False,False
+178229,ME,Rebecca Long,Nonpartisan,1181,49.147,False,False
+154630,ME,Kerryl Lee Clement,Republican,2230,50.339,False,False
+154630,ME,Luke Dylan Jensen,Democratic,2200,49.661,False,False
+178312,ME,No,Nonpartisan,779,57.448,False,False
+178312,ME,Yes,Nonpartisan,577,42.552,False,False
+178158,ME,Nathan D. Johnston,Nonpartisan,0,,False,False
+154552,ME,Mathew David McIntyre,Republican,2816,63.481,True,False
+154552,ME,Jonathan C. Goble,Democratic,1620,36.519,False,False
+178234,ME,Robert Foster,Nonpartisan,910,51.822,False,False
+178234,ME,Gilda Stratton,Nonpartisan,499,28.417,False,False
+178234,ME,Maxine Lounsbury,Nonpartisan,347,19.761,False,False
+178080,ME,Katie Saunders,Nonpartisan,0,,False,False
+178317,ME,George Edwards,Nonpartisan,0,,False,False
+178317,ME,Thora House,Nonpartisan,0,,False,False
+178317,ME,Carrie Leyh,Nonpartisan,0,,False,False
+178317,ME,Lee Rand,Nonpartisan,0,,False,False
+178317,ME,Bobbie Stormann,Nonpartisan,0,,False,False
+178317,ME,Gordon Street,Nonpartisan,0,,False,False
+178355,ME,Kevin Raye,Nonpartisan,0,,False,False
+178002,ME,Michael Karagiannes,Nonpartisan,0,,False,False
+154620,ME,Abigail N. Geer,Democratic,2568,50.551,False,False
+154620,ME,Rolf A. Olsen Jr.,Republican,2512,49.449,False,False
+178213,ME,Yes,Nonpartisan,3907,57.178,False,False
+178213,ME,No,Nonpartisan,2926,42.822,False,False
+178059,ME,Caitlin McCorkle,Nonpartisan,0,,False,False
+154677,ME,John R. Henkelman,Democratic,2078,54.8,True,False
+154677,ME,Melissa A. Simpson,Republican,1714,45.2,False,False
+178142,ME,Kenneth C. Blow,Nonpartisan,3434,28.196,False,False
+178142,ME,Lori K. Gramlich,Nonpartisan,2995,24.592,False,False
+178142,ME,Michael R. Tousignant,Nonpartisan,2883,23.672,False,False
+178142,ME,Shawn E. O'Neill,Nonpartisan,2867,23.541,False,False
+154753,ME,Walter J. Voskian,Democratic,0,,False,False
+154599,ME,Cassie Lynn Julia,Democratic,2161,65.465,True,False
+154599,ME,Jeremy R. McArthur,Republican,1140,34.535,False,False
+178064,ME,Jill Goodwin,Nonpartisan,0,,False,False
+154682,ME,Marissa L. Tasker,Democratic,2395,51.539,True,False
+154682,ME,Thomas Arthur Lavigne,Republican,2252,48.461,False,False
+154528,ME,Anne M. Carney,Democratic,17352,78.715,True,False
+154528,ME,Vincent A. Maietta,Republican,4692,21.285,False,False
+154758,ME,Donald L. Skillings,Unknown,0,,False,False
+154604,ME,Jennifer Lynn Poirier,Republican,1869,53.846,True,False
+154604,ME,Joseph R. Almand,Democratic,1602,46.154,False,False
+178094,ME,Brian G. Samia,Nonpartisan,0,,False,False
+154687,ME,Paul Aranson,Democratic,0,,False,False
+154725,ME,Christopher R. Wainwright,Republican,8477,35.424,False,False
+154725,ME,Timothy Holland,Democratic,8005,33.452,False,False
+154725,ME,Justin M. Brown,Independent,7448,31.124,False,False
+178208,ME,Yes,Nonpartisan,0,,False,False
+178208,ME,No,Nonpartisan,0,,False,False
+154609,ME,H. Scott Landry,Democratic,2251,54.983,True,False
+154609,ME,Randall D. Gauvin,Republican,1843,45.017,False,False
+178291,ME,Yes,Nonpartisan,2939,76.796,False,False
+178291,ME,No,Nonpartisan,888,23.204,False,False
+178137,ME,Amy Stabins,Nonpartisan,0,,False,False
+154748,ME,Earl Lee Ireland,Republican,0,,False,False
+154730,ME,Michael L. Crabtree,Republican,0,,False,False
+178187,ME,Yes,Nonpartisan,2848,76.109,False,False
+178187,ME,No,Nonpartisan,894,23.891,False,False
+178033,ME,Chelsey Oliver,Nonpartisan,0,,False,False
+178033,ME,Scott Mullen Sr.,Nonpartisan,0,,False,False
+178270,ME,Yes,Nonpartisan,2681,51.106,False,False
+178270,ME,No,Nonpartisan,2565,48.894,False,False
+178116,ME,Donald E. Pilon,Nonpartisan,0,,False,False
+178154,ME,Miles Burleson-Lesser,Nonpartisan,0,,False,False
+178192,ME,Yes,Nonpartisan,2924,77.911,False,False
+178192,ME,No,Nonpartisan,829,22.089,False,False
+178038,ME,Melissa Swanberg,Nonpartisan,1873,43.67,False,False
+178038,ME,Dale Gordon,Nonpartisan,1224,28.538,False,False
+178038,ME,Christina Peterson,Nonpartisan,1192,27.792,False,False
+154656,ME,Matthew D. Beck,Democratic,58,100.0,True,False
+178121,ME,Kara Hilman Bickford,Nonpartisan,0,,False,False
+178121,ME,Kevin Kitchin,Nonpartisan,0,,False,False
+154732,ME,Kathryn M. Slattery,Democratic,0,,False,False
+178222,ME,Milton Knowles Jr.,Nonpartisan,0,,False,False
+178043,ME,Zachary Hanley,Nonpartisan,1464,26.853,False,False
+178043,ME,Rebecca Fles,Nonpartisan,1442,26.449,False,False
+178043,ME,Allyce Pepin,Nonpartisan,1397,25.624,False,False
+178043,ME,Anthony Veit,Nonpartisan,1149,21.075,False,False
+154661,ME,Morgan J. Rielly,Democratic,23,100.0,True,False
+178343,ME,Yes,Nonpartisan,0,,False,False
+178343,ME,No,Nonpartisan,0,,False,False
+154737,ME,Natasha Irving,Democratic,0,,False,False
+154583,ME,Trent E. Vellella,Democratic,3301,55.414,True,False
+154583,ME,Suzanne R. Andresen,Republican,2656,44.586,False,False
+178265,ME,Yes,Nonpartisan,6706,52.399,False,False
+178265,ME,No,Nonpartisan,6092,47.601,False,False
+178111,ME,Ronald A. Merrill,Nonpartisan,0,,False,False
+154666,ME,Ryan Fecteau,Democratic,15,100.0,True,False
+154512,ME,Cameron Reny,Democratic,13085,63.807,True,False
+154512,ME,Edwin M. Mitchell Jr.,Unenrolled,7422,36.193,False,False
+178161,ME,Yes,Nonpartisan,2764,65.716,False,False
+178161,ME,No,Nonpartisan,1442,34.284,False,False
+154562,ME,Irene A. Gifford,Republican,2781,66.819,True,False
+154562,ME,Gordon P. Street,Democratic,1381,33.181,False,False
+178244,ME,Yes,Nonpartisan,2114,78.412,False,False
+178244,ME,No,Nonpartisan,582,21.588,False,False
+178090,ME,Chelsea M. Avirett,Nonpartisan,0,,False,False
+178327,ME,Yes,Nonpartisan,0,,False,False
+178327,ME,No,Nonpartisan,0,,False,False
+178166,ME,No,Nonpartisan,1652,54.684,False,False
+178166,ME,Yes,Nonpartisan,1369,45.316,False,False
+178012,ME,Sheldon Thomas Hussiere,Nonpartisan,0,,False,False
+178249,ME,Natalia Quint,Nonpartisan,0,,False,False
+154675,ME,Marc A. Boisse,Republican,2298,52.574,True,False
+154675,ME,Rebecca L. Flood Andrews,Democratic,1817,41.569,False,False
+154675,ME,David R. Mongeau II,Unenrolled,256,5.857,False,False
+154713,ME,Susan F. Bulay,Republican,0,,False,False
+178171,ME,Madison DeMolet,Nonpartisan,0,,False,False
+178171,ME,Casey Carr,Nonpartisan,0,,False,False
+178017,ME,William Thompson,Nonpartisan,0,,False,False
+178279,ME,Yes,Nonpartisan,6081,83.553,False,False
+178279,ME,No,Nonpartisan,1197,16.447,False,False
+178100,ME,Elyse Typton,Nonpartisan,8019,70.435,False,False
+178100,ME,John Holman III,Nonpartisan,3366,29.565,False,False
+154718,ME,Tammy C. Gay,Republican,0,,False,False
+154557,ME,Victoria P. Kornfield,Democratic,2760,61.103,True,False
+154557,ME,Brian A. Ames,Republican,1757,38.897,False,False
+178239,ME,Yes,Nonpartisan,0,,False,False
+178239,ME,No,Nonpartisan,0,,False,False
+178022,ME,Carol James,Nonpartisan,0,,False,False
+178022,ME,Edie Davis Quinn,Nonpartisan,0,,False,False
+154640,ME,Bradley M. Youngs,Democratic,2646,51.429,True,False
+154640,ME,Barbara Bagshaw,Republican,2499,48.571,False,False
+178322,ME,Amran Osman,Nonpartisan,0,,False,False
+154697,ME,Monica L. Cease,Democratic,0,,False,False
+154536,ME,Roger C. Albert,Republican,1938,50.799,True,False
+154536,ME,Roland Daniel Martin,Democratic,1877,49.201,False,False
+178218,ME,Yes,Nonpartisan,1499,73.265,False,False
+178218,ME,No,Nonpartisan,547,26.735,False,False
+154619,ME,Adrienne Paul,Republican,2384,52.384,True,False
+154619,ME,Paul Harris Welch,Democratic,2167,47.616,False,False
+178301,ME,Yes,Nonpartisan,5921,72.137,False,False
+178301,ME,No,Nonpartisan,2287,27.863,False,False
+178339,ME,Yes,Nonpartisan,0,,False,False
+178339,ME,No,Nonpartisan,0,,False,False
+154541,ME,Jantzen Stephen Craine,Republican,1987,58.579,True,False
+154541,ME,Matthew J. Rush,Democratic,1405,41.421,False,False
+178031,ME,Douglas W. Curtis Jr.,Nonpartisan,1519,52.798,False,False
+178031,ME,Irene E. Syphers Flynn,Nonpartisan,1358,47.202,False,False
+178069,ME,Lewis Ireland,Nonpartisan,0,,False,False
+178306,ME,Yes,Nonpartisan,7096,84.607,False,False
+178306,ME,No,Nonpartisan,1291,15.393,False,False
+178344,ME,Charles Hodge,Nonpartisan,2959,50.28,False,False
+178344,ME,Rain Perez,Nonpartisan,2926,49.72,False,False
+154571,ME,Reagan L. Paul,Republican,2697,51.371,True,False
+154571,ME,Alan Lee Orcutt,Democratic,2553,48.629,False,False
+178228,ME,Yes,Nonpartisan,9577,76.992,False,False
+178228,ME,No,Nonpartisan,2862,23.008,False,False
+178074,ME,Janet L. Lewis,Nonpartisan,0,,False,False
+178074,ME,Kathleen B. Cravens,Nonpartisan,0,,False,False
+178074,ME,Charles E. Hodge,Nonpartisan,0,,False,False
+178074,ME,Rain M. Perez,Nonpartisan,0,,False,False
+154692,ME,Dennis L. Mahar,Democratic,0,,False,False
+178349,ME,No,Nonpartisan,5825,73.032,False,False
+178349,ME,Yes,Nonpartisan,2151,26.968,False,False
+154768,ME,Donald S. Lawson-Stopps,Democratic,0,,False,False
+154614,ME,Ernest M. Fitts IV,Republican,2992,62.568,True,False
+154614,ME,Azalea D. Cormier,Unenrolled,1790,37.432,False,False
+178296,ME,Yes,Nonpartisan,1249,61.436,False,False
+178296,ME,No,Nonpartisan,784,38.564,False,False
+178053,ME,Karen Andrus,Nonpartisan,0,,False,False
+154671,ME,Charles Tilburg,Democratic,2605,51.33,True,False
+154671,ME,Nathan M. Carlow,Republican,2470,48.67,False,False
+154517,ME,Elizabeth D. Bosworth,Democratic,10413,50.12,False,False
+154517,ME,John E. Andrews,Republican,10363,49.88,False,False
+154747,ME,Marpheen Chann,Democratic,0,,False,False
+154593,ME,Katrina Couch Ray-Saulis,Democratic,2308,55.776,True,False
+154593,ME,John Reny,Republican,1830,44.224,False,False
+178275,ME,Yes,Nonpartisan,0,,False,False
+178275,ME,No,Nonpartisan,0,,False,False
+154676,ME,Ayn M. Hanselmann,Democratic,1883,62.372,True,False
+154676,ME,Domingo E. Torres,Republican,1136,37.628,False,False
+154522,ME,Matthea Elisabeth Daughtry,Democratic,18945,73.943,True,False
+154522,ME,Bernard Porter,Republican,6676,26.057,False,False
+178197,ME,Lauren McPherson,Nonpartisan,1128,70.899,False,False
+178197,ME,Christopher Walters,Nonpartisan,463,29.101,False,False
+154598,ME,Flavia M. DeBrito,Democratic,2399,70.044,True,False
+154598,ME,Shawn M. Packard,Republican,1026,29.956,False,False
+178280,ME,Yes,Nonpartisan,4582,70.093,False,False
+178280,ME,No,Nonpartisan,1955,29.907,False,False
+154706,ME,Amy M. Ouellette,Democratic,0,,False,False
+154527,ME,Rachel Talbot Ross,Democratic,293,100.0,True,False
+178202,ME,Eric Breton,Nonpartisan,0,,False,False
+178048,ME,Carlton Parsons,Nonpartisan,0,,False,False
+178285,ME,Nathan Briggs,Nonpartisan,0,,False,False
+178285,ME,Cassandra Whorff,Nonpartisan,0,,False,False
+178285,ME,Kenneth Boothby,Nonpartisan,0,,False,False
+178131,ME,John J. Schools,Nonpartisan,0,,False,False
+178131,ME,Susan M. Tortello,Nonpartisan,0,,False,False
+154742,ME,Gordon W. Bell,Republican,0,,False,False
+154588,ME,Karen L. Montell,Democratic,2752,61.621,True,False
+154588,ME,Michelle M. Tucker,Republican,1714,38.379,False,False
+178181,ME,Yes,Nonpartisan,850,66.562,False,False
+178181,ME,No,Nonpartisan,427,33.438,False,False
+178027,ME,Melissa Martin,Nonpartisan,0,,False,False
+154645,ME,Amy D. Kuhn,Democratic,57,100.0,True,False
+178110,ME,Robert S. Beale,Nonpartisan,0,,False,False
+178148,ME,Mark G. Morrison,Nonpartisan,0,,False,False
+154567,ME,Kenneth Wade Fredette,Republican,3013,68.649,True,False
+154567,ME,Michael A. Brayson,Democratic,1376,31.351,False,False
+178032,ME,Marjorie L. Govoni,Nonpartisan,3769,27.164,False,False
+178032,ME,Megan N. Potter,Nonpartisan,3617,26.068,False,False
+178032,ME,Joseph C. Kellner,Nonpartisan,3266,23.539,False,False
+178032,ME,Adam G. Zajac,Nonpartisan,3223,23.229,False,False
+154650,ME,Samuel Lewis Zager,Democratic,66,100.0,True,False
+178332,ME,Yes,Nonpartisan,0,,False,False
+178332,ME,No,Nonpartisan,0,,False,False
+178153,ME,Walter Jakubas,Nonpartisan,0,,False,False
+154572,ME,Benjamin C. Hymes,Republican,2358,53.252,True,False
+154572,ME,Kayla M.T. Miller,Democratic,2070,46.748,False,False
+178062,ME,Kathleen Dunckel,Nonpartisan,0,,False,False
+154655,ME,Lucy Louisa Perkins,Democratic,4083,77.14,True,False
+154655,ME,Meagan J. Smith,Republican,1210,22.86,False,False
+154501,ME,Harold L. Stewart III,Republican,11087,66.613,True,False
+154501,ME,Janel C. Underwood-Charette,Democratic,5557,33.387,False,False
+178176,ME,Yes,Nonpartisan,1587,76.704,False,False
+178176,ME,No,Nonpartisan,482,23.296,False,False
+154577,ME,Rhiannon Corey Hampson,Democratic,2958,57.841,True,False
+154577,ME,Christopher Paul Austin,Republican,2156,42.159,False,False
+178259,ME,Yes,Nonpartisan,9124,87.086,False,False
+178259,ME,No,Nonpartisan,1353,12.914,False,False
+178105,ME,Heather Lynn Pelletier,Nonpartisan,0,,False,False
+154723,ME,Patrick W. Polky,Democratic,12716,63.704,False,False
+154723,ME,Albert F. Joy,Independent,7245,36.296,False,False
+154506,ME,Nicole C. Grohoski,Democratic,12177,62.629,True,False
+154506,ME,Cheryl A. Hewes,Republican,7266,37.371,False,False
+178354,ME,Earl Watts,Nonpartisan,0,,False,False
+178001,ME,Robert Austin,Nonpartisan,0,,False,True
+178238,ME,Yes,Nonpartisan,1173,53.029,False,False
+178238,ME,No,Nonpartisan,1039,46.971,False,False
+178084,ME,Kathleen M. Snyder,Nonpartisan,15948,47.469,False,False
+178084,ME,Joey D. Brunelle,Nonpartisan,11737,34.935,False,False
+178084,ME,Atiim B. Boykin,Nonpartisan,5912,17.597,False,False
+154702,ME,Johanna D. Turner,Republican,0,,False,False
+178160,ME,Yes,Nonpartisan,2689,64.873,False,False
+178160,ME,No,Nonpartisan,1456,35.127,False,False
+178006,ME,Michele D. Alves,Nonpartisan,0,,False,False
+154624,ME,Pamela B. Hart,Democratic,2853,58.059,True,False
+154624,ME,James W. Sorcek,Republican,2061,41.941,False,False
+178089,ME,Noah Barnes,Nonpartisan,0,,False,False
+154515,ME,Patric Aaron Moore,Democratic,9086,53.231,True,False
+154515,ME,Scott Wynn Cyrway,Republican,7983,46.769,False,False
+154546,ME,Thomas Arthur Hart Jr.,Republican,2504,52.995,True,False
+154546,ME,Roy D. Gott,Unenrolled,2221,47.005,False,False
+178011,ME,Owen R. Smith,Democratic,0,,False,False
+154629,ME,Kiernan Innes Majerus-Collins,Democratic,1708,55.69,True,False
+154629,ME,Bret M. Martel,Republican,1359,44.31,False,False
+178119,ME,Samantha Gehin-Scott,Nonpartisan,2095,76.099,False,False
+178119,ME,Anthony Gilmore,Nonpartisan,658,23.901,False,False
+154712,ME,Cherri Lee Crockett,Republican,0,,False,False
+154551,ME,Steven Matthew Bishop,Republican,2529,50.773,True,False
+154551,ME,Ronald B. Russell,Democratic,2452,49.227,False,False
+178233,ME,No,Nonpartisan,950,58.068,False,False
+178233,ME,Yes,Nonpartisan,686,41.932,False,False
+178079,ME,John Swalec,Nonpartisan,0,,False,False
+154634,ME,Daniel Joseph Ankeles,Democratic,4636,83.577,True,False
+154634,ME,Brett Y. Barrett,Republican,911,16.423,False,False
+178316,ME,Beatrice Tate,Nonpartisan,0,,False,False
+178136,ME,Michael Joseph,Nonpartisan,251,34.716,False,False
+178136,ME,Scott Holst,Nonpartisan,239,33.057,False,False
+178136,ME,Erin McCullough,Nonpartisan,233,32.227,False,False
+154729,ME,Jason W. Trundy,Democratic,0,,False,False
+178212,ME,Yes,Nonpartisan,4947,69.774,False,False
+178212,ME,No,Nonpartisan,2143,30.226,False,False
+178058,ME,Stefanie Veneziano,Nonpartisan,0,,False,False
+178295,ME,Yes,Nonpartisan,1363,65.687,False,False
+178295,ME,No,Nonpartisan,712,34.313,False,False
+178141,ME,Stephen Bickford,Nonpartisan,2244,55.162,False,False
+178141,ME,Fernand Larochelle,Nonpartisan,1824,44.838,False,False
+154752,ME,Edward B. Glaser,Democratic,0,,False,False
+178217,ME,Yes,Nonpartisan,1692,70.529,False,False
+178217,ME,No,Nonpartisan,707,29.471,False,False
+154643,ME,Seven R. Siegel,Democratic,3252,60.706,True,False
+154643,ME,Diana Kushnar,Republican,2105,39.294,False,False
+154681,ME,Holly T. Sargent,Democratic,42,100.0,True,False
+178338,ME,Yes,Nonpartisan,0,,False,False
+178338,ME,No,Nonpartisan,0,,False,False
+154757,ME,Stephen M. August,Democratic,0,,False,False
+178247,ME,Yes,Nonpartisan,2162,72.575,False,False
+178247,ME,No,Nonpartisan,817,27.425,False,False
+178068,ME,Kevin J.M. O'Connell,Nonpartisan,2502,63.454,False,False
+178068,ME,Kathleen Kramer,Nonpartisan,1441,36.546,False,False
+154686,ME,Michael Dubois,Republican,0,,False,False
+154724,ME,Todd B. Brackett,Democratic,0,,False,False
+178207,ME,Yes,Nonpartisan,0,,False,False
+178207,ME,No,Nonpartisan,0,,False,False
+154762,ME,Courtney K. Hammond,Republican,0,,False,False
+154608,ME,Russell J. Black,Republican,2214,63.767,True,False
+154608,ME,Marc Edwards,Democratic,1258,36.233,False,False
+178290,ME,Yes,Nonpartisan,2994,78.05,False,False
+178290,ME,No,Nonpartisan,842,21.95,False,False
+154665,ME,Robert James Kelly,Democratic,2741,51.494,True,False
+154665,ME,Kenneth Craig Blow,Unenrolled,2582,48.506,False,False
+154511,ME,Ann H. Matlack,Democratic,11924,58.922,True,False
+154511,ME,Nicole Lynn Kalloch,Independent,8313,41.078,False,False
+178186,ME,Yes,Nonpartisan,0,,False,False
+178186,ME,No,Nonpartisan,0,,False,False
+154587,ME,Michael H. Lemelin,Republican,2587,54.28,True,False
+154587,ME,Richard Marc Goldman,Democratic,2179,45.72,False,False
+178269,ME,Yes,Nonpartisan,1361,82.435,False,False
+178269,ME,No,Nonpartisan,290,17.565,False,False
+178115,ME,Jennifer L. Preble,Nonpartisan,919,63.687,False,False
+178115,ME,Arianna R. Parks,Nonpartisan,524,36.313,False,False
+154516,ME,Richard G. Mason,Republican,12452,61.806,True,False
+154516,ME,Jo-Jean C. Keller,Democratic,7695,38.194,False,False
+178191,ME,Yes,Nonpartisan,2965,76.536,False,False
+178191,ME,No,Nonpartisan,909,23.464,False,False
+178037,ME,Christina Garis Ehrhard,Nonpartisan,0,,False,False
+178037,ME,Hunter Clayton Umphrey,Nonpartisan,0,,False,False
+178274,ME,Yes,Nonpartisan,0,,False,False
+178274,ME,No,Nonpartisan,0,,False,False
+178120,ME,Angela Mitchell,Nonpartisan,1150,40.028,False,False
+178120,ME,Roger Brault,Nonpartisan,929,32.336,False,False
+178120,ME,Stephanie Saltzman,Nonpartisan,794,27.637,False,False
+154539,ME,Douglas C. Carlisle Jr.,Republican,1776,53.721,True,False
+154539,ME,Lori G. Kenneson,Democratic,1530,46.279,False,False
+178196,ME,Yes,Nonpartisan,0,,False,False
+178196,ME,No,Nonpartisan,0,,False,False
+178042,ME,Lori Kenneson,Nonpartisan,0,,False,False
+154660,ME,Andrew Gattine,Democratic,2782,57.995,True,False
+154660,ME,Ethan E. Mongue,Republican,2015,42.005,False,False
+178125,ME,Jennifer Navarro,Nonpartisan,5270,45.447,False,False
+178125,ME,Nathaniel R. Shed,Nonpartisan,4932,42.532,False,False
+178125,ME,Paul Whitcomb,Nonpartisan,1394,12.021,False,False
+154736,ME,Chelsea R. Lynds,Democratic,0,,False,False
+154582,ME,Charlotte Nutt,Democratic,2816,62.384,True,False
+154582,ME,Erik D. Hobson,Republican,1698,37.616,False,False
+178264,ME,Yes,Nonpartisan,8799,86.138,False,False
+178264,ME,No,Nonpartisan,1416,13.862,False,False
+178021,ME,Matthew M. Steinback,Nonpartisan,0,,False,False
+178021,ME,Michael D. Lund Ziegler,Nonpartisan,0,,False,False
+178021,ME,Michelle L. Littlefield,Nonpartisan,0,,False,False
+178021,ME,Nancy N. Flagg,Nonpartisan,0,,False,False
+178021,ME,Sheldon Jones,Nonpartisan,0,,False,False
+178021,ME,Karl J. Krebs,Nonpartisan,0,,False,False
+154639,ME,Anne Palmer Graham,Democratic,28,100.0,True,False
+178321,ME,Darrell Dill Sr.,Nonpartisan,0,,False,False
+178321,ME,Roberta Dickinson,Nonpartisan,0,,False,False
+154722,ME,Corey L. Bagley,Republican,13930,55.796,False,False
+154722,ME,Dakota D. Dupuis,Democratic,11036,44.204,False,False
+154561,ME,David Giles,Republican,2907,65.918,True,False
+154561,ME,Devan C. Arnold,Democratic,1503,34.082,False,False
+178243,ME,Yes,Nonpartisan,1653,64.144,False,False
+178243,ME,No,Nonpartisan,924,35.856,False,False
+154644,ME,Christina R.C. Mitchell,Democratic,4266,68.962,True,False
+154644,ME,Jason Lewis Copp,Republican,1920,31.038,False,False
+178326,ME,Yes,Nonpartisan,0,,False,False
+178326,ME,No,Nonpartisan,0,,False,False
+178165,ME,No,Nonpartisan,1458,50.52,False,False
+178165,ME,Yes,Nonpartisan,1428,49.48,False,False
+154566,ME,Shawn L. Lancaster,Republican,10,100.0,True,False
+178248,ME,Yes,Nonpartisan,0,,False,False
+178248,ME,No,Nonpartisan,0,,False,False
+154674,ME,Wayne R. Parry,Republican,2733,53.068,True,False
+154674,ME,Kirstan L. Watson,Democratic,2417,46.932,False,False
+178331,ME,Yes,Nonpartisan,0,,False,False
+178331,ME,No,Nonpartisan,0,,False,False
+178170,ME,Thomas Chambers,Nonpartisan,579,29.969,False,False
+178170,ME,William Quinn,Nonpartisan,436,22.567,False,False
+178170,ME,C. Edward Moreside,Nonpartisan,354,18.323,False,False
+178170,ME,Nicole Brandt,Nonpartisan,321,16.615,False,False
+178170,ME,Bryan Stevens,Nonpartisan,242,12.526,False,False
+178016,ME,Jacob Cross,Nonpartisan,0,,False,False
+178016,ME,Mark Farley,Nonpartisan,0,,False,False
+178253,ME,Yes,Nonpartisan,0,,False,False
+178253,ME,No,Nonpartisan,0,,False,False
+178099,ME,Ellen Clancy,Nonpartisan,0,,False,False
+154717,ME,Stacy L. Grant,Democratic,0,,False,False
+154556,ME,Laura D. Supica,Democratic,12,100.0,True,False
+154767,ME,Clayton R. Quint IV,Nonpartisan,0,,False,False
+154613,ME,Michael J. Lance,Republican,2525,56.78,True,False
+154613,ME,Brianna Fern Lueck,Democratic,1922,43.22,False,False
+178078,ME,Patricia Hart,Nonpartisan,0,,False,False
+154696,ME,Susan A. Pratt,Republican,5162,54.383,False,False
+154696,ME,Pamela Prodan,Democratic,4330,45.617,False,False
+154535,ME,Austin Theriault,Republican,2301,62.886,True,False
+154535,ME,Jennifer L. Levesque,Democratic,1358,37.114,False,False
+178000,ME,Daniel Burns,Nonpartisan,1995,52.722,False,False
+178000,ME,Saunders Callahan,Nonpartisan,1789,47.278,False,False
+154618,ME,Mark Walker,Republican,2830,57.299,True,False
+154618,ME,Cassandra Anne Dove,Democratic,2109,42.701,False,False
+178300,ME,Yes,Nonpartisan,0,,False,False
+178300,ME,No,Nonpartisan,0,,False,False
+154701,ME,Glenn E. Mower,Republican,0,,False,False
+154540,ME,Donald James Ardell,Republican,2553,64.633,True,False
+154540,ME,Melanie Tompkins,Democratic,1397,35.367,False,False
+178030,ME,Anna M. Child,Nonpartisan,0,,False,False
+178030,ME,Anthony A. McElligott,Nonpartisan,0,,False,False
+154623,ME,Adam R. Lee,Democratic,1626,62.347,True,False
+154623,ME,James D. Berube,Republican,982,37.653,False,False
+178305,ME,Yes,Nonpartisan,5386,72.5,False,False
+178305,ME,No,Nonpartisan,2043,27.5,False,False
+178151,ME,Michelle Brown,Nonpartisan,0,,False,False
+154545,ME,Tiffany Strout,Republican,2653,63.152,True,False
+154545,ME,Keith A. Newman,Democratic,1548,36.848,False,False
+178227,ME,Yes,Nonpartisan,10072,80.744,False,False
+178227,ME,No,Nonpartisan,2402,19.256,False,False
+178073,ME,Casey S. Hanson,Nonpartisan,1899,26.393,False,False
+178073,ME,Robert C. Grant Sr.,Nonpartisan,1804,25.073,False,False
+178073,ME,Tiffany M. Dilda-Gaspar,Nonpartisan,1794,24.934,False,False
+178073,ME,Nancy E. Smith,Nonpartisan,1698,23.6,False,False
+154691,ME,Beth L. Seaney,Republican,0,,False,False
+178310,ME,Darryl Scott White,Nonpartisan,1025,58.107,False,False
+178310,ME,Jeffrey G. Maguire,Nonpartisan,739,41.893,False,False
+178348,ME,No,Nonpartisan,43554,64.011,False,False
+178348,ME,Yes,Nonpartisan,24487,35.989,False,False
+154741,ME,Glenn Evan Chateauvert,Republican,0,,False,False
+178206,ME,Yes,Nonpartisan,0,,False,False
+178206,ME,No,Nonpartisan,0,,False,False
+178052,ME,Joel Selwood,Nonpartisan,0,,False,False
+154670,ME,John Eder,Republican,2572,53.45,True,False
+154670,ME,Michelle K. Conners,Democratic,2240,46.55,False,False
+178135,ME,Arthur Morrissette,Nonpartisan,0,,False,False
+178135,ME,Phyllis Capanna,Nonpartisan,0,,False,False
+154746,ME,Patricia A. Smith,Democratic,0,,False,False
+154592,ME,Sharon C. Frost,Independent,3099,55.25,True,False
+154592,ME,Dexter E. Bridges Jr.,Republican,2510,44.75,False,False
+178057,ME,Chris Marks,Nonpartisan,0,,False,False
+178319,ME,Arica Millett,Nonpartisan,0,,False,False
+154521,ME,Kimberly J. Pomerleau,Republican,11250,55.446,True,False
+154521,ME,Nathan Burnett,Democratic,9040,44.554,False,False
+154751,ME,Joseph J. Pietroski,Republican,11171,50.132,False,False
+154751,ME,Noel Madore,Democratic,11112,49.868,False,False
+154597,ME,Paul R. Flynn,Republican,2694,54.678,True,False
+154597,ME,Taylor Marie West,Democratic,2233,45.322,False,False
+178087,ME,Jeffery Willette,Nonpartisan,1852,37.166,False,False
+178087,ME,Eugene Cronin,Nonpartisan,1802,36.163,False,False
+178087,ME,Jeremiah Harris,Nonpartisan,1329,26.671,False,False
+154680,ME,Walter Gerard Runte Jr.,Democratic,3382,62.827,True,False
+154680,ME,Bradley S. Moulton,Republican,2001,37.173,False,False
+154526,ME,Jill C. Duson,Democratic,142,100.0,True,False
+178201,ME,Yes,Nonpartisan,588,66.591,False,False
+178201,ME,No,Nonpartisan,295,33.409,False,False
+178047,ME,Stephanie Edwards,Nonpartisan,6894,35.852,False,False
+178047,ME,Eleni Richardson,Nonpartisan,6119,31.822,False,False
+178047,ME,Wheeler Boyd-Boffa,Nonpartisan,4113,21.39,False,False
+178047,ME,Ishmeel Daniels,Nonpartisan,2103,10.937,False,False
+154602,ME,Amanda Noelle Collamore,Republican,2874,70.012,True,False
+154602,ME,Zachary S. Lejonhud,Unenrolled,1231,29.988,False,False
+178284,ME,Ashleigh Randall,Nonpartisan,0,,False,False
+178284,ME,Nicolas Hamlin,Nonpartisan,0,,False,False
+178130,ME,Gilbert Rogers,Nonpartisan,0,,False,False
+178130,ME,Joanna Fernald,Nonpartisan,0,,False,False
+178130,ME,Ryan Holmes,Nonpartisan,0,,False,False
+87187,ME,Paul LePage,Republican,170360,50.796,True,False
+87187,ME,Matthew Dunlap,Democratic,164855,49.155,False,False
+87187,ME,Write-in,Nonpartisan,165,0.049,False,False
+87188,ME,Troy Jackson,Democratic,376070,52.986,True,False
+87188,ME,Susan Collins,Republican,332806,46.89,False,False
+87188,ME,Write-in,Nonpartisan,882,0.124,False,False
+87186,ME,Chellie Pingree,Democratic,247947,66.111,True,False
+87186,ME,Ronald Russell,Republican,127098,33.889,False,False

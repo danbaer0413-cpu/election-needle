@@ -1,0 +1,429 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+157301,NM,New Mexico Attorney General,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,33,720613,2026-11-18T15:49+00:00
+157463,NM,New Mexico Supreme Court - David K Thomson Retention,2026-11-03,99.9,,False,2,33,583973,2026-11-18T15:49+00:00
+157465,NM,New Mexico Court of Appeals - J Miles Hanisee Retention,2026-11-03,99.9,,False,2,33,571838,2026-11-18T15:49+00:00
+157304,NM,New Mexico Commissioner of Public Lands,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,2,33,715176,2026-11-18T15:49+00:00
+87289,NM,New Mexico Governor,2026-11-03,89.3,2026-11-04T04:02:17.866Z,False,2,33,725896,2026-11-18T15:49+00:00
+159553,NM,New Mexico State House,2026-11-03,98.5,,False,3,70,633277,2026-11-18T15:49+00:00
+157673,NM,New Mexico Constitutional Amendment 3,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,2,33,636248,2026-11-18T15:49+00:00
+157675,NM,New Mexico Bond Question 1,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,2,33,651884,2026-11-18T15:49+00:00
+157464,NM,New Mexico Supreme Court - Shannon Bacon Retention,2026-11-03,99.9,,False,2,33,581150,2026-11-18T15:49+00:00
+157676,NM,New Mexico Bond Question 2,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,2,33,648069,2026-11-18T15:49+00:00
+157671,NM,New Mexico Constitutional Amendment 1,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,2,33,663181,2026-11-18T15:49+00:00
+157300,NM,New Mexico Secretary of State,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,33,716883,2026-11-18T15:49+00:00
+157302,NM,New Mexico State Auditor,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,2,33,713004,2026-11-18T15:49+00:00
+157674,NM,New Mexico Constitutional Amendment 4,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,2,33,659543,2026-11-18T15:49+00:00
+157303,NM,New Mexico State Treasurer,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,33,714034,2026-11-18T15:49+00:00
+157376,NM,New Mexico Judge of the Court of Appeals Position 1,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,1,33,477289,2026-11-18T15:49+00:00
+157677,NM,New Mexico Bond Question 3,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,2,33,647108,2026-11-18T15:49+00:00
+157672,NM,New Mexico Constitutional Amendment 2,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,2,33,658549,2026-11-18T15:49+00:00
+157642,NM,New Mexico Sierra County Commissioner 2,2026-11-03,91.4,,False,2,1,4677,2026-11-18T15:49+00:00
+157395,NM,New Mexico Bernalillo Judge of the Metropolitan Court Division 5,2026-11-03,91.4,,False,2,1,236798,2026-11-18T15:49+00:00
+157333,NM,New Mexico State House 28,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,2,1,13906,2026-11-18T15:49+00:00
+157502,NM,New Mexico Bernalillo Judge of the Metropolitan Court Division 2 - Christine Eve Rodriguez Retention,2026-11-03,91.4,,False,2,1,187753,2026-11-18T15:49+00:00
+159824,NM,New Mexico Grant County Remodeling/Addition Bonds,2026-11-03,91.4,,False,2,1,10472,2026-11-18T15:49+00:00
+157616,NM,New Mexico Roosevelt County Commissioner 4,2026-11-03,91.4,,False,1,1,573,2026-11-18T15:49+00:00
+157401,NM,New Mexico Eddy Magistrate Judge Division 1,2026-11-03,91.4,,False,1,1,2308,2026-11-18T15:49+00:00
+157531,NM,New Mexico Curry County Commissioner 3,2026-11-03,91.4,,False,1,1,1675,2026-11-18T15:49+00:00
+157316,NM,New Mexico State House 11,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,1,1,9423,2026-11-18T15:49+00:00
+157421,NM,New Mexico Colfax Magistrate Judge Division 2,2026-11-03,91.4,,False,2,1,4733,2026-11-18T15:49+00:00
+157622,NM,New Mexico San Juan County Commissioner 2,2026-11-03,91.4,,False,3,1,6880,2026-11-18T15:49+00:00
+157528,NM,New Mexico Colfax County Assessor,2026-11-03,91.4,,False,2,1,4729,2026-11-18T15:49+00:00
+157313,NM,New Mexico State House 8,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,2,1,11542,2026-11-18T15:49+00:00
+157322,NM,New Mexico State House 17,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,2,1,11676,2026-11-18T15:49+00:00
+157491,NM,New Mexico District Court Judge Second Judicial District Division 10 - Bruce C Fox Retention,2026-11-03,91.4,,False,2,1,187918,2026-11-18T15:49+00:00
+157436,NM,New Mexico San Juan Magistrate Judge Division 3,2026-11-03,91.4,,False,1,1,5905,2026-11-18T15:49+00:00
+157605,NM,New Mexico Otero Probate Judge,2026-11-03,91.4,,False,1,1,11607,2026-11-18T15:49+00:00
+157582,NM,New Mexico Los Alamos County Assessor,2026-11-03,91.4,,False,2,1,9157,2026-11-18T15:49+00:00
+159833,NM,New Mexico Sandoval County Library Bonds,2026-11-03,91.4,,False,2,1,59005,2026-11-18T15:49+00:00
+157305,NM,New Mexico State Senate 33,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,2,3,16805,2026-11-18T15:49+00:00
+157410,NM,New Mexico Lea Magistrate Judge Division 3,2026-11-03,91.4,,False,2,1,2449,2026-11-18T15:49+00:00
+157611,NM,New Mexico Rio Arriba County Commissioner 2,2026-11-03,91.4,,False,1,1,2972,2026-11-18T15:49+00:00
+157517,NM,New Mexico Chaves County Sheriff,2026-11-03,91.4,,False,1,1,11811,2026-11-18T15:49+00:00
+159839,NM,New Mexico Valencia County Bond Question 1,2026-11-03,91.4,,False,2,1,24262,2026-11-18T15:49+00:00
+157407,NM,New Mexico Curry Magistrate Judge Division 2,2026-11-03,91.4,,False,1,1,5361,2026-11-18T15:49+00:00
+157608,NM,New Mexico Quay County Assessor,2026-11-03,91.4,,False,1,1,2105,2026-11-18T15:49+00:00
+157594,NM,New Mexico McKinley County Assessor,2026-11-03,91.4,,False,1,1,15460,2026-11-18T15:49+00:00
+157532,NM,New Mexico Curry County Sheriff,2026-11-03,91.4,,False,1,1,7954,2026-11-18T15:49+00:00
+159822,NM,New Mexico Bernalillo County Public Housing Bonds,2026-11-03,91.4,,False,2,1,221754,2026-11-18T15:49+00:00
+157591,NM,New Mexico McKinley County Commissioner 1,2026-11-03,91.4,,False,1,1,6010,2026-11-18T15:49+00:00
+157600,NM,New Mexico Mora Probate Judge,2026-11-03,91.4,,False,1,1,1528,2026-11-18T15:49+00:00
+157506,NM,New Mexico Bernalillo Judge of the Metropolitan Court Division 12 - Jason M Jaramillo Retention,2026-11-03,91.4,,False,2,1,185500,2026-11-18T15:49+00:00
+159828,NM,New Mexico Los Alamos County Charter Amendment Question 2,2026-11-03,91.4,,False,2,1,8694,2026-11-18T15:49+00:00
+157396,NM,New Mexico Bernalillo Judge of the Metropolitan Court Division 19,2026-11-03,91.4,,False,1,1,162005,2026-11-18T15:49+00:00
+157405,NM,New Mexico Chaves Magistrate Judge Division 2,2026-11-03,91.4,,False,1,1,7955,2026-11-18T15:49+00:00
+157503,NM,New Mexico Bernalillo Judge of the Metropolitan Court Division 4 - Joshua J Sanchez Retention,2026-11-03,91.4,,False,2,1,186974,2026-11-18T15:49+00:00
+159825,NM,New Mexico Grant County Road Construction and Repair Bonds,2026-11-03,91.4,,False,2,1,10566,2026-11-18T15:49+00:00
+157617,NM,New Mexico Roosevelt County Commissioner 5,2026-11-03,91.4,,False,1,1,841,2026-11-18T15:49+00:00
+157411,NM,New Mexico Lea Magistrate Judge Division 4,2026-11-03,91.4,,False,1,1,2763,2026-11-18T15:49+00:00
+157580,NM,New Mexico Los Alamos County Commissioner At Large,2026-11-03,91.4,,False,7,1,31724,2026-11-18T15:49+00:00
+159808,NM,New Mexico Albuquerque Community Safety (Acs) Chief Appointment,2026-11-03,91.4,,False,2,1,179370,2026-11-18T15:49+00:00
+157472,NM,New Mexico District Court Judge Seventh Judicial District Division 1 - Mercedes C Murphy Retention,2026-11-03,91.4,,False,2,4,14768,2026-11-18T15:49+00:00
+157385,NM,New Mexico District Court Judge Second Judicial District Division 11,2026-11-03,91.4,,False,1,1,161597,2026-11-18T15:49+00:00
+157586,NM,New Mexico Luna County Commissioner 2,2026-11-03,91.4,,False,2,1,2262,2026-11-18T15:49+00:00
+157492,NM,New Mexico District Court Judge Second Judicial District Division 13 - Lisa Chavez Ortega Retention,2026-11-03,91.4,,False,2,1,188859,2026-11-18T15:49+00:00
+157501,NM,New Mexico District Court Judge Second Judicial District Division 28 - Clara M Moran Retention,2026-11-03,91.4,,False,2,1,187451,2026-11-18T15:49+00:00
+157382,NM,New Mexico District Court Judge First Judicial District Division 4,2026-11-03,91.4,,False,1,3,69583,2026-11-18T15:49+00:00
+157583,NM,New Mexico Los Alamos Probate Judge,2026-11-03,91.4,,False,1,1,6636,2026-11-18T15:49+00:00
+159834,NM,New Mexico Sandoval County Mill Levy Question,2026-11-03,91.4,,False,2,1,59003,2026-11-18T15:49+00:00
+157498,NM,New Mexico District Court Judge Second Judicial District Division 16 - Jennifer J Wernersbach Retention,2026-11-03,91.4,,False,2,1,187490,2026-11-18T15:49+00:00
+157507,NM,New Mexico Bernalillo Judge of the Metropolitan Court Division 14 - Vidalia G Chavez Retention,2026-11-03,91.4,,False,2,1,186090,2026-11-18T15:49+00:00
+157459,NM,New Mexico Harding Magistrate Judge,2026-11-03,91.4,,False,1,1,313,2026-11-18T15:49+00:00
+157397,NM,New Mexico Santa Fe Magistrate Judge Division 1,2026-11-03,91.4,,False,2,1,63375,2026-11-18T15:49+00:00
+157566,NM,New Mexico Hidalgo County Sheriff,2026-11-03,91.4,,False,1,1,1013,2026-11-18T15:49+00:00
+157351,NM,New Mexico State House 46,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,1,1,11013,2026-11-18T15:49+00:00
+157481,NM,New Mexico District Court Judge Second Judicial District Division 4 - Beatrice J Brickhouse Retention,2026-11-03,91.4,,False,2,1,188809,2026-11-18T15:49+00:00
+159803,NM,New Mexico Town of Taos Local Economic Development Act Local Option Gross Receipts Tax,2026-11-03,91.4,,False,2,1,2417,2026-11-18T15:49+00:00
+157595,NM,New Mexico McKinley Probate Judge,2026-11-03,91.4,,False,1,1,15081,2026-11-18T15:49+00:00
+157380,NM,New Mexico Public Education Commissioner 6,2026-11-03,91.4,,False,1,11,48946,2026-11-18T15:49+00:00
+157478,NM,New Mexico District Court Judge Twelfth Judicial District Division 1 - Stephen P Ochoa Retention,2026-11-03,91.4,,False,2,2,19043,2026-11-18T15:49+00:00
+159800,NM,New Mexico Village of Angel Fire Economic Development Tax Question,2026-11-03,91.4,,False,2,1,437,2026-11-18T15:49+00:00
+157592,NM,New Mexico McKinley County Commissioner 2,2026-11-03,91.4,,False,1,1,5037,2026-11-18T15:49+00:00
+157377,NM,New Mexico Public Education Commissioner 2,2026-11-03,91.4,,False,1,1,47503,2026-11-18T15:49+00:00
+157386,NM,New Mexico District Court Judge Second Judicial District Division 19,2026-11-03,91.4,,False,1,1,162931,2026-11-18T15:49+00:00
+157555,NM,New Mexico Guadalupe County Commissioner 1,2026-11-03,91.4,,False,2,1,1450,2026-11-18T15:49+00:00
+157493,NM,New Mexico Bernalillo County Commissioner 1,2026-11-03,91.4,,False,1,1,37213,2026-11-18T15:49+00:00
+157669,NM,New Mexico Valencia County Assessor,2026-11-03,91.4,,False,2,1,25591,2026-11-18T15:49+00:00
+157646,NM,New Mexico Socorro County Commissioner 1,2026-11-03,91.4,,False,2,1,970,2026-11-18T15:49+00:00
+157360,NM,New Mexico State House 55,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,1,2,6874,2026-11-18T15:49+00:00
+157561,NM,New Mexico Harding County Commissioner 2,2026-11-03,91.4,,False,1,1,296,2026-11-18T15:49+00:00
+159812,NM,New Mexico Santa Fe General Obligation Swan Park Improvement Bonds,2026-11-03,91.4,,False,2,1,34571,2026-11-18T15:49+00:00
+157476,NM,New Mexico District Court Judge Eleventh Judicial District Division 1 - Bradford J Dalley Retention,2026-11-03,91.4,,False,2,2,48184,2026-11-18T15:49+00:00
+157581,NM,New Mexico Los Alamos County Sheriff,2026-11-03,91.4,,False,1,1,6889,2026-11-18T15:49+00:00
+157366,NM,New Mexico State House 61,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,1,1,2667,2026-11-18T15:49+00:00
+159809,NM,New Mexico Albuquerque Public Safety Gross Receipts Tax Dedication Update,2026-11-03,91.4,,False,2,1,181446,2026-11-18T15:49+00:00
+157473,NM,New Mexico District Court Judge Eighth Judicial District Division 1 - Emilio Jacob Chavez Retention,2026-11-03,91.4,,False,2,3,16152,2026-11-18T15:49+00:00
+157658,NM,New Mexico Torrance County Commissioner 2,2026-11-03,91.4,,False,2,1,1586,2026-11-18T15:49+00:00
+157596,NM,New Mexico Mora County Commissioner 1,2026-11-03,91.4,,False,2,1,2117,2026-11-18T15:49+00:00
+157349,NM,New Mexico State House 44,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,2,2,14511,2026-11-18T15:49+00:00
+157326,NM,New Mexico State House 21,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,2,1,8283,2026-11-18T15:49+00:00
+157655,NM,New Mexico Taos County Assessor,2026-11-03,91.4,,False,2,1,12999,2026-11-18T15:49+00:00
+157664,NM,New Mexico Union County Assessor,2026-11-03,91.4,,False,1,1,1102,2026-11-18T15:49+00:00
+157570,NM,New Mexico Lea County Commissioner 3,2026-11-03,91.4,,False,1,1,2377,2026-11-18T15:49+00:00
+157355,NM,New Mexico State House 50,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,2,2,16865,2026-11-18T15:49+00:00
+157460,NM,New Mexico Los Alamos Magistrate Judge,2026-11-03,91.4,,False,1,1,6842,2026-11-18T15:49+00:00
+157469,NM,New Mexico District Court Judge Fourth Judicial District Division 1 - Michael A Aragon Retention,2026-11-03,91.4,,False,2,3,10640,2026-11-18T15:49+00:00
+157567,NM,New Mexico Hidalgo County Assessor,2026-11-03,91.4,,False,2,1,1453,2026-11-18T15:49+00:00
+157352,NM,New Mexico State House 47,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,1,1,14391,2026-11-18T15:49+00:00
+157482,NM,New Mexico District Court Judge Third Judicial District Division 7 - Douglas R Driggers Retention,2026-11-03,91.4,,False,2,1,56539,2026-11-18T15:49+00:00
+159813,NM,New Mexico Santa Fe General Obligation Midtown Capital Improvement Bonds,2026-11-03,91.4,,False,2,1,35021,2026-11-18T15:49+00:00
+157644,NM,New Mexico Sierra County Assessor,2026-11-03,91.4,,False,1,1,3207,2026-11-18T15:49+00:00
+157335,NM,New Mexico State House 30,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,2,1,11928,2026-11-18T15:49+00:00
+157536,NM,New Mexico De Baca County Commissioner 2,2026-11-03,91.4,,False,1,1,583,2026-11-18T15:49+00:00
+157449,NM,New Mexico Guadalupe Magistrate Judge,2026-11-03,91.4,,False,1,1,1244,2026-11-18T15:49+00:00
+157650,NM,New Mexico Socorro Probate Judge,2026-11-03,91.4,,False,1,1,4007,2026-11-18T15:49+00:00
+157556,NM,New Mexico Guadalupe County Commissioner 2,2026-11-03,91.4,,False,1,1,1056,2026-11-18T15:49+00:00
+157565,NM,New Mexico Hidalgo County Commissioner At Large,2026-11-03,91.4,,False,2,1,1451,2026-11-18T15:49+00:00
+157446,NM,New Mexico Sierra Magistrate Judge,2026-11-03,91.4,,False,1,1,3220,2026-11-18T15:49+00:00
+157647,NM,New Mexico Socorro County Commissioner 3,2026-11-03,91.4,,False,1,1,842,2026-11-18T15:49+00:00
+157361,NM,New Mexico State House 56,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,1,2,8226,2026-11-18T15:49+00:00
+157338,NM,New Mexico State House 33,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,2,1,9043,2026-11-18T15:49+00:00
+157571,NM,New Mexico Lea County Sheriff,2026-11-03,91.4,,False,1,1,10473,2026-11-18T15:49+00:00
+157324,NM,New Mexico State House 19,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,1,1,5211,2026-11-18T15:49+00:00
+157461,NM,New Mexico Cibola Magistrate Judge Division 1,2026-11-03,91.4,,False,1,1,5662,2026-11-18T15:49+00:00
+157630,NM,New Mexico San Miguel Probate Judge,2026-11-03,91.4,,False,1,1,6840,2026-11-18T15:49+00:00
+157415,NM,New Mexico Dona Ana Magistrate Judge Division 4,2026-11-03,91.4,,False,1,1,47221,2026-11-18T15:49+00:00
+157545,NM,New Mexico Eddy County Clerk,2026-11-03,91.4,,False,1,1,12796,2026-11-18T15:49+00:00
+157330,NM,New Mexico State House 25,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,2,1,12157,2026-11-18T15:49+00:00
+157659,NM,New Mexico Torrance County Sheriff,2026-11-03,91.4,,False,1,1,4064,2026-11-18T15:49+00:00
+157444,NM,New Mexico Taos Magistrate Judge Division 1,2026-11-03,91.4,,False,1,1,10569,2026-11-18T15:49+00:00
+157542,NM,New Mexico Dona Ana County Sheriff,2026-11-03,91.4,,False,2,1,65050,2026-11-18T15:49+00:00
+157327,NM,New Mexico State House 22,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,3,2,15465,2026-11-18T15:49+00:00
+157656,NM,New Mexico Taos Probate Judge,2026-11-03,91.4,,False,1,1,10583,2026-11-18T15:49+00:00
+157441,NM,New Mexico Rio Arriba Magistrate Judge Division 2,2026-11-03,91.4,,False,1,1,9223,2026-11-18T15:49+00:00
+157450,NM,New Mexico Socorro Magistrate Judge,2026-11-03,91.4,,False,2,1,5758,2026-11-18T15:49+00:00
+157619,NM,New Mexico Roosevelt County Assessor,2026-11-03,91.4,,False,1,1,3665,2026-11-18T15:49+00:00
+157557,NM,New Mexico Guadalupe County Sheriff,2026-11-03,91.4,,False,1,1,1208,2026-11-18T15:49+00:00
+157310,NM,New Mexico State House 5,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,1,2,7334,2026-11-18T15:49+00:00
+157511,NM,New Mexico Catron County Commissioner 2,2026-11-03,91.4,,False,2,1,1862,2026-11-18T15:49+00:00
+157424,NM,New Mexico San Miguel Magistrate Judge Division 1,2026-11-03,91.4,,False,1,1,6949,2026-11-18T15:49+00:00
+157625,NM,New Mexico San Juan Probate Judge,2026-11-03,91.4,,False,1,1,27723,2026-11-18T15:49+00:00
+157339,NM,New Mexico State House 34,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,1,1,5369,2026-11-18T15:49+00:00
+157540,NM,New Mexico Dona Ana County Commissioner 1,2026-11-03,91.4,,False,2,1,13814,2026-11-18T15:49+00:00
+157645,NM,New Mexico Sierra Probate Judge,2026-11-03,91.4,,False,1,1,3131,2026-11-18T15:49+00:00
+157430,NM,New Mexico Valencia Magistrate Judge Division 3,2026-11-03,91.4,,False,2,1,25424,2026-11-18T15:49+00:00
+157336,NM,New Mexico State House 31,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,2,1,15432,2026-11-18T15:49+00:00
+157537,NM,New Mexico De Baca County Sheriff,2026-11-03,91.4,,False,2,1,664,2026-11-18T15:49+00:00
+157546,NM,New Mexico Eddy County Commissioner 1,2026-11-03,91.4,,False,1,1,2221,2026-11-18T15:49+00:00
+159836,NM,New Mexico Santa Fe County General Obligation Bond Question 2,2026-11-03,91.4,,False,2,1,64365,2026-11-18T15:49+00:00
+157660,NM,New Mexico Torrance County Assessor,2026-11-03,91.4,,False,2,1,5366,2026-11-18T15:49+00:00
+157413,NM,New Mexico Dona Ana Magistrate Judge Division 2,2026-11-03,91.4,,False,1,1,47713,2026-11-18T15:49+00:00
+157390,NM,New Mexico District Court Judge Tenth Judicial District,2026-11-03,0,,False,1,0,0,2026-11-18T15:49+00:00
+157520,NM,New Mexico Cibola County Commissioner 1,2026-11-03,91.4,,False,1,1,1227,2026-11-18T15:49+00:00
+159842,NM,New Mexico Valencia County Bond Question 4,2026-11-03,91.4,,False,2,1,24199,2026-11-18T15:49+00:00
+157634,NM,New Mexico Sandoval County Assessor,2026-11-03,91.4,,False,2,1,62977,2026-11-18T15:49+00:00
+157419,NM,New Mexico Grant Magistrate Judge Division 2,2026-11-03,91.4,,False,1,1,8348,2026-11-18T15:49+00:00
+157325,NM,New Mexico State House 20,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,1,1,8422,2026-11-18T15:49+00:00
+157526,NM,New Mexico Colfax County Commissioner 2,2026-11-03,91.4,,False,2,1,1542,2026-11-18T15:49+00:00
+157631,NM,New Mexico Sandoval County Commissioner 1,2026-11-03,91.4,,False,2,1,14901,2026-11-18T15:49+00:00
+157416,NM,New Mexico Dona Ana Magistrate Judge Division 5,2026-11-03,91.4,,False,1,1,47232,2026-11-18T15:49+00:00
+157402,NM,New Mexico Eddy Magistrate Judge Division 2,2026-11-03,91.4,,False,1,1,5012,2026-11-18T15:49+00:00
+157340,NM,New Mexico State House 35,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,1,1,6880,2026-11-18T15:49+00:00
+157509,NM,New Mexico Bernalillo Judge of the Metropolitan Court Division 18 - Rosie Lazcano Allred Retention,2026-11-03,91.4,,False,2,1,185135,2026-11-18T15:49+00:00
+157486,NM,New Mexico District Court Judge First Judicial District Division 10 - Kathleen McGarry Ellenwood Retention,2026-11-03,91.4,,False,2,3,72354,2026-11-18T15:49+00:00
+157399,NM,New Mexico Santa Fe Magistrate Judge Division 3,2026-11-03,91.4,,False,1,1,53575,2026-11-18T15:49+00:00
+157408,NM,New Mexico Lea Magistrate Judge Division 1,2026-11-03,91.4,,False,1,1,3483,2026-11-18T15:49+00:00
+157314,NM,New Mexico State House 9,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,1,1,5439,2026-11-18T15:49+00:00
+157515,NM,New Mexico Chaves County Commissioner 1,2026-11-03,91.4,,False,1,1,1928,2026-11-18T15:49+00:00
+157620,NM,New Mexico Roosevelt Probate Judge,2026-11-03,91.4,,False,1,1,3694,2026-11-18T15:49+00:00
+157629,NM,New Mexico San Miguel County Assessor,2026-11-03,91.4,,False,1,1,6809,2026-11-18T15:49+00:00
+157311,NM,New Mexico State House 6,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,2,2,8279,2026-11-18T15:49+00:00
+157512,NM,New Mexico Catron County Sheriff,2026-11-03,91.4,,False,2,1,1932,2026-11-18T15:49+00:00
+157425,NM,New Mexico San Miguel Magistrate Judge Division 2,2026-11-03,91.4,,False,1,1,7028,2026-11-18T15:49+00:00
+157635,NM,New Mexico Sandoval Probate Judge,2026-11-03,91.4,,False,2,1,62141,2026-11-18T15:49+00:00
+157388,NM,New Mexico District Court Judge Third Judicial District Division 4,2026-11-03,91.4,,False,1,1,48300,2026-11-18T15:49+00:00
+157495,NM,New Mexico Bernalillo County Sheriff,2026-11-03,91.4,,False,1,1,166975,2026-11-18T15:49+00:00
+159817,NM,New Mexico Bernalillo County Library Bonds,2026-11-03,91.4,,False,2,1,222829,2026-11-18T15:49+00:00
+157609,NM,New Mexico Quay Probate Judge,2026-11-03,91.4,,False,1,1,2114,2026-11-18T15:49+00:00
+157394,NM,New Mexico District Court Judge Twelfth Judicial District Division 2,2026-11-03,91.4,,False,1,2,17734,2026-11-18T15:49+00:00
+159837,NM,New Mexico Santa Fe County General Obligation Bond Question 3,2026-11-03,91.4,,False,2,1,64225,2026-11-18T15:49+00:00
+157309,NM,New Mexico State House 4,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,1,1,5299,2026-11-18T15:49+00:00
+157606,NM,New Mexico Quay County Commissioner 3,2026-11-03,91.4,,False,1,1,2167,2026-11-18T15:49+00:00
+157391,NM,New Mexico District Court Judge Eleventh Judicial District Division 2,2026-11-03,91.4,,False,1,2,36344,2026-11-18T15:49+00:00
+157521,NM,New Mexico Cibola County Commissioner 3,2026-11-03,91.4,,False,1,1,1185,2026-11-18T15:49+00:00
+157306,NM,New Mexico State House 1,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,1,1,8344,2026-11-18T15:49+00:00
+157315,NM,New Mexico State House 10,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,2,1,8638,2026-11-18T15:49+00:00
+157484,NM,New Mexico District Court Judge Twelfth Judicial District Division 4 - Angie K Schneider Retention,2026-11-03,91.4,,False,2,2,19282,2026-11-18T15:49+00:00
+157621,NM,New Mexico San Juan County Commissioner 1,2026-11-03,91.4,,False,2,1,6672,2026-11-18T15:49+00:00
+157374,NM,New Mexico State House 69,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,1,6,5571,2026-11-18T15:49+00:00
+157575,NM,New Mexico Lincoln County Treasurer,2026-11-03,91.4,,False,1,1,5658,2026-11-18T15:49+00:00
+159826,NM,New Mexico Lea County Defense Fund Gross Receipts Tax,2026-11-03,91.4,,False,2,1,12166,2026-11-18T15:49+00:00
+157490,NM,New Mexico District Court Judge Thirteenth Judicial District Division 7 - Christopher George Perez Retention,2026-11-03,91.4,,False,2,3,80350,2026-11-18T15:49+00:00
+157403,NM,New Mexico Eddy Magistrate Judge Division 3,2026-11-03,91.4,,False,1,1,5429,2026-11-18T15:49+00:00
+157604,NM,New Mexico Otero County Assessor,2026-11-03,91.4,,False,1,1,11826,2026-11-18T15:49+00:00
+159823,NM,New Mexico Albuquerque Metropolitan Arroyo Flood Control Authority General Obligation Flood Control Bonds,2026-11-03,91.4,,False,2,1,213303,2026-11-18T15:49+00:00
+157487,NM,New Mexico District Court Judge Second Judicial District Division 7 - Alma C Garcia Roberson Retention,2026-11-03,91.4,,False,2,1,188631,2026-11-18T15:49+00:00
+157400,NM,New Mexico Santa Fe Magistrate Judge Division 4,2026-11-03,91.4,,False,1,1,53264,2026-11-18T15:49+00:00
+157601,NM,New Mexico Otero County Commissioner 1,2026-11-03,91.4,,False,2,1,4903,2026-11-18T15:49+00:00
+157610,NM,New Mexico Rio Arriba County Commissioner 1,2026-11-03,91.4,,False,1,1,2793,2026-11-18T15:49+00:00
+157363,NM,New Mexico State House 58,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,1,1,3667,2026-11-18T15:49+00:00
+159838,NM,New Mexico Santa Fe County General Obligation Bond Question 4,2026-11-03,91.4,,False,2,1,64181,2026-11-18T15:49+00:00
+157470,NM,New Mexico District Court Judge Fifth Judicial District Division 1 - David E Finger Retention,2026-11-03,91.4,,False,2,3,36980,2026-11-18T15:49+00:00
+157454,NM,New Mexico Catron Magistrate Judge,2026-11-03,91.4,,False,1,1,1479,2026-11-18T15:49+00:00
+157584,NM,New Mexico Los Alamos Municipal Judge,2026-11-03,91.4,,False,1,1,6950,2026-11-18T15:49+00:00
+157369,NM,New Mexico State House 64,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,1,3,7152,2026-11-18T15:49+00:00
+157499,NM,New Mexico District Court Judge Second Judicial District Division 22 - Amber Louisee Chavez Baker Retention,2026-11-03,91.4,,False,2,1,187312,2026-11-18T15:49+00:00
+159821,NM,New Mexico Bernalillo County Storm Drainage and Utilities Bonds,2026-11-03,91.4,,False,2,1,224092,2026-11-18T15:49+00:00
+157389,NM,New Mexico District Court Judge Fifth Judicial District Division 5,2026-11-03,91.4,,False,1,3,35084,2026-11-18T15:49+00:00
+157590,NM,New Mexico District Court Judge Sixth Judicial District Division 4 - Jarod Kyle Hofacket Retention,2026-11-03,91.4,,False,2,3,15878,2026-11-18T15:49+00:00
+157496,NM,New Mexico Bernalillo County Assessor,2026-11-03,91.4,,False,2,1,238762,2026-11-18T15:49+00:00
+159818,NM,"New Mexico Bernalillo County Public Safety Facilities, Fleet and Other County Buildings Bonds",2026-11-03,91.4,,False,2,1,222451,2026-11-18T15:49+00:00
+157466,NM,New Mexico District Court Judge First Judicial District Division 1 - Francis J Mathew Retention,2026-11-03,91.4,,False,2,3,72456,2026-11-18T15:49+00:00
+157404,NM,New Mexico Chaves Magistrate Judge Division 1,2026-11-03,91.4,,False,1,1,3717,2026-11-18T15:49+00:00
+157573,NM,New Mexico Lea Probate Judge,2026-11-03,91.4,,False,1,1,10404,2026-11-18T15:49+00:00
+157550,NM,New Mexico Grant County Commissioner 1,2026-11-03,91.4,,False,1,1,1592,2026-11-18T15:49+00:00
+159801,NM,New Mexico City of Las Cruces General Obligation Library Bond,2026-11-03,91.4,,False,2,1,34741,2026-11-18T15:49+00:00
+159810,NM,"New Mexico Santa Fe General Obligation Street, Sidewalk, and Pedestrian Accessibility Bonds",2026-11-03,91.4,,False,2,1,35575,2026-11-18T15:49+00:00
+157378,NM,New Mexico Public Education Commissioner 3,2026-11-03,91.4,,False,2,1,65804,2026-11-18T15:49+00:00
+157579,NM,New Mexico Lincoln Probate Judge,2026-11-03,91.4,,False,2,1,7438,2026-11-18T15:49+00:00
+157485,NM,New Mexico District Court Judge Thirteenth Judicial District Division 4 - Amanda Connie Sanchez Villalobos Retention,2026-11-03,91.4,,False,2,3,80935,2026-11-18T15:49+00:00
+159807,NM,New Mexico Albuquerque Performing Arts Center Funding Requirement,2026-11-03,91.4,,False,2,1,182928,2026-11-18T15:49+00:00
+157375,NM,New Mexico State House 70,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,1,2,7274,2026-11-18T15:49+00:00
+157576,NM,New Mexico Lincoln County Commissioner 2,2026-11-03,91.4,,False,1,1,842,2026-11-18T15:49+00:00
+159827,NM,New Mexico Los Alamos County Charter Amendment Question 1,2026-11-03,91.4,,False,2,1,8870,2026-11-18T15:49+00:00
+157562,NM,New Mexico Harding County Sheriff,2026-11-03,91.4,,False,2,1,374,2026-11-18T15:49+00:00
+157500,NM,New Mexico District Court Judge Second Judicial District Division 25 - Jane Conway Levy Retention,2026-11-03,91.4,,False,2,1,187280,2026-11-18T15:49+00:00
+157452,NM,New Mexico Lincoln Magistrate Judge Division 2,2026-11-03,91.4,,False,1,1,5653,2026-11-18T15:49+00:00
+157559,NM,New Mexico Guadalupe Probate Judge,2026-11-03,91.4,,False,1,1,1175,2026-11-18T15:49+00:00
+157344,NM,New Mexico State House 39,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,2,3,11871,2026-11-18T15:49+00:00
+157474,NM,New Mexico District Court Judge Ninth Judicial District Division 1 - Benjamin S Cross Retention,2026-11-03,91.4,,False,2,2,12984,2026-11-18T15:49+00:00
+157458,NM,New Mexico Mora Magistrate Judge,2026-11-03,91.4,,False,1,1,1804,2026-11-18T15:49+00:00
+157364,NM,New Mexico State House 59,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,1,1,6655,2026-11-18T15:49+00:00
+157373,NM,New Mexico State House 68,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,2,1,11676,2026-11-18T15:49+00:00
+157471,NM,New Mexico District Court Judge Sixth Judicial District Division 1 - Tom F Stewart Retention,2026-11-03,91.4,,False,2,3,15715,2026-11-18T15:49+00:00
+157455,NM,New Mexico Sandoval Magistrate Judge Division 1,2026-11-03,91.4,,False,1,1,40836,2026-11-18T15:49+00:00
+157585,NM,New Mexico Luna County Commissioner 1,2026-11-03,91.4,,False,3,1,1565,2026-11-18T15:49+00:00
+157379,NM,New Mexico Public Education Commissioner 5,2026-11-03,91.4,,False,1,6,39685,2026-11-18T15:49+00:00
+157548,NM,New Mexico Eddy County Assessor,2026-11-03,91.4,,False,2,1,15983,2026-11-18T15:49+00:00
+157438,NM,New Mexico San Juan Magistrate Judge Division 5,2026-11-03,91.4,,False,1,1,4049,2026-11-18T15:49+00:00
+157639,NM,New Mexico Santa Fe County Assessor,2026-11-03,91.4,,False,1,1,53334,2026-11-18T15:49+00:00
+157353,NM,New Mexico State House 48,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,2,1,11294,2026-11-18T15:49+00:00
+157554,NM,New Mexico Grant Probate Judge,2026-11-03,91.4,,False,1,1,8177,2026-11-18T15:49+00:00
+157467,NM,New Mexico District Court Judge Second Judicial District Division 1 - William Edward Parnall Retention,2026-11-03,91.4,,False,2,1,189433,2026-11-18T15:49+00:00
+157668,NM,New Mexico Valencia County Sheriff,2026-11-03,91.4,,False,2,1,25731,2026-11-18T15:49+00:00
+157350,NM,New Mexico State House 45,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,1,1,9978,2026-11-18T15:49+00:00
+157551,NM,New Mexico Grant County Commissioner 2,2026-11-03,91.4,,False,1,1,1439,2026-11-18T15:49+00:00
+159802,NM,New Mexico City of Ruidoso Downs Imposing a Quality-of-Life Gross Receipts Tax Ordinance,2026-11-03,91.4,,False,2,1,562,2026-11-18T15:49+00:00
+157665,NM,New Mexico Union Probate Judge,2026-11-03,91.4,,False,1,1,1044,2026-11-18T15:49+00:00
+157475,NM,New Mexico District Court Judge Ninth Judicial District Division 4 - Donna J Mowrer Retention,2026-11-03,91.4,,False,2,2,12957,2026-11-18T15:49+00:00
+157427,NM,New Mexico McKinley Magistrate Judge Division 2,2026-11-03,91.4,,False,1,1,15204,2026-11-18T15:49+00:00
+157365,NM,New Mexico State House 60,2026-11-03,99.9,2026-11-12T01:54:12.332Z,False,2,1,11783,2026-11-18T15:49+00:00
+157534,NM,New Mexico Curry Probate Judge,2026-11-03,91.4,,False,1,1,7902,2026-11-18T15:49+00:00
+157319,NM,New Mexico State House 14,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,2,1,8441,2026-11-18T15:49+00:00
+157648,NM,New Mexico Socorro County Sheriff,2026-11-03,91.4,,False,1,1,3991,2026-11-18T15:49+00:00
+157433,NM,New Mexico Otero Magistrate Judge Division 2,2026-11-03,91.4,,False,1,1,11826,2026-11-18T15:49+00:00
+157563,NM,New Mexico Harding County Assessor,2026-11-03,91.4,,False,1,1,311,2026-11-18T15:49+00:00
+157348,NM,New Mexico State House 43,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,1,3,9606,2026-11-18T15:49+00:00
+157453,NM,New Mexico De Baca Magistrate Judge District 10,2026-11-03,91.4,,False,1,1,642,2026-11-18T15:49+00:00
+157654,NM,New Mexico Taos County Sheriff,2026-11-03,91.4,,False,1,1,10372,2026-11-18T15:49+00:00
+157560,NM,New Mexico Harding County Commissioner 1,2026-11-03,91.4,,False,1,1,201,2026-11-18T15:49+00:00
+157345,NM,New Mexico State House 40,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,2,5,10877,2026-11-18T15:49+00:00
+157354,NM,New Mexico State House 49,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,1,4,8566,2026-11-18T15:49+00:00
+157523,NM,New Mexico Cibola County Assessor,2026-11-03,91.4,,False,1,1,5378,2026-11-18T15:49+00:00
+157468,NM,New Mexico District Court Judge Third Judicial District Division 1 - Manuel Isaac Arrieta Retention,2026-11-03,91.4,,False,2,1,55905,2026-11-18T15:49+00:00
+157637,NM,New Mexico Santa Fe County Commissioner 3,2026-11-03,91.4,,False,1,1,7522,2026-11-18T15:49+00:00
+157614,NM,New Mexico Rio Arriba Probate Judge,2026-11-03,91.4,,False,2,1,11990,2026-11-18T15:49+00:00
+157328,NM,New Mexico State House 23,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,1,1,9146,2026-11-18T15:49+00:00
+157529,NM,New Mexico Colfax Probate Judge,2026-11-03,91.4,,False,1,1,3262,2026-11-18T15:49+00:00
+157442,NM,New Mexico Union Magistrate Judge,2026-11-03,91.4,,False,1,1,1112,2026-11-18T15:49+00:00
+157643,NM,New Mexico Sierra County Sheriff,2026-11-03,91.4,,False,1,1,3238,2026-11-18T15:49+00:00
+157549,NM,New Mexico Eddy Probate Judge,2026-11-03,91.4,,False,1,1,12842,2026-11-18T15:49+00:00
+157334,NM,New Mexico State House 29,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,2,1,14735,2026-11-18T15:49+00:00
+157439,NM,New Mexico San Juan Magistrate Judge Division 6,2026-11-03,91.4,,False,1,1,4105,2026-11-18T15:49+00:00
+157640,NM,New Mexico Santa Fe Probate Judge,2026-11-03,91.4,,False,1,1,52739,2026-11-18T15:49+00:00
+157626,NM,New Mexico San Miguel County Commissioner 1,2026-11-03,91.4,,False,1,1,1274,2026-11-18T15:49+00:00
+157564,NM,New Mexico Harding Probate Judge,2026-11-03,91.4,,False,1,1,310,2026-11-18T15:49+00:00
+157317,NM,New Mexico State House 12,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,2,1,6874,2026-11-18T15:49+00:00
+159831,NM,New Mexico Sandoval County Bureau of Elections Secure Storage Facility Bonds,2026-11-03,91.4,,False,2,1,57364,2026-11-18T15:49+00:00
+157623,NM,New Mexico San Juan County Sheriff,2026-11-03,91.4,,False,1,1,28163,2026-11-18T15:49+00:00
+157632,NM,New Mexico Sandoval County Commissioner 3,2026-11-03,91.4,,False,2,1,15632,2026-11-18T15:49+00:00
+157538,NM,New Mexico De Baca County Assessor,2026-11-03,91.4,,False,1,1,614,2026-11-18T15:49+00:00
+157323,NM,New Mexico State House 18,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,1,1,10707,2026-11-18T15:49+00:00
+157428,NM,New Mexico McKinley Magistrate Judge Division 3,2026-11-03,91.4,,False,2,1,18685,2026-11-18T15:49+00:00
+157437,NM,New Mexico San Juan Magistrate Judge Division 4,2026-11-03,91.4,,False,1,1,3980,2026-11-18T15:49+00:00
+157535,NM,New Mexico De Baca County Commissioner 1,2026-11-03,91.4,,False,1,1,462,2026-11-18T15:49+00:00
+157320,NM,New Mexico State House 15,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,1,1,9123,2026-11-18T15:49+00:00
+157649,NM,New Mexico Socorro County Assessor,2026-11-03,91.4,,False,1,1,4051,2026-11-18T15:49+00:00
+157443,NM,New Mexico Luna Magistrate Judge,2026-11-03,91.4,,False,2,1,5475,2026-11-18T15:49+00:00
+157612,NM,New Mexico Rio Arriba County Sheriff,2026-11-03,91.4,,False,2,1,12300,2026-11-18T15:49+00:00
+159840,NM,New Mexico Valencia County Bond Question 2,2026-11-03,91.4,,False,2,1,24191,2026-11-18T15:49+00:00
+157504,NM,New Mexico Bernalillo Judge of the Metropolitan Court Division 8 - Jill Martinez Retention,2026-11-03,91.4,,False,2,1,186552,2026-11-18T15:49+00:00
+157417,NM,New Mexico Dona Ana Magistrate Judge Division 6,2026-11-03,91.4,,False,1,1,47179,2026-11-18T15:49+00:00
+157618,NM,New Mexico Roosevelt County Sheriff,2026-11-03,91.4,,False,1,1,3794,2026-11-18T15:49+00:00
+157524,NM,New Mexico Cibola Probate Judge,2026-11-03,91.4,,False,1,1,5463,2026-11-18T15:49+00:00
+157533,NM,New Mexico Curry County Assessor,2026-11-03,91.4,,False,1,1,7804,2026-11-18T15:49+00:00
+157414,NM,New Mexico Dona Ana Magistrate Judge Division 3,2026-11-03,91.4,,False,1,1,47399,2026-11-18T15:49+00:00
+157615,NM,New Mexico Roosevelt County Commissioner 3,2026-11-03,91.4,,False,1,1,808,2026-11-18T15:49+00:00
+157329,NM,New Mexico State House 24,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,1,1,8776,2026-11-18T15:49+00:00
+159843,NM,New Mexico Chaves County Tax Authorization Question,2026-11-03,91.4,,False,2,1,14266,2026-11-18T15:49+00:00
+157539,NM,New Mexico De Baca Probate Judge,2026-11-03,91.4,,False,1,1,605,2026-11-18T15:49+00:00
+159829,NM,New Mexico Los Alamos County Charter Amendment Question 3,2026-11-03,91.4,,False,2,1,8680,2026-11-18T15:49+00:00
+157429,NM,New Mexico Valencia Magistrate Judge Division 2,2026-11-03,91.4,,False,1,1,17845,2026-11-18T15:49+00:00
+157598,NM,New Mexico Mora County Sheriff,2026-11-03,91.4,,False,2,1,2205,2026-11-18T15:49+00:00
+157383,NM,New Mexico District Court Judge First Judicial District Division 8,2026-11-03,91.4,,False,1,3,69119,2026-11-18T15:49+00:00
+157513,NM,New Mexico Catron County Assessor,2026-11-03,91.4,,False,1,1,1460,2026-11-18T15:49+00:00
+159835,NM,New Mexico Santa Fe County General Obligation Bond Question 1,2026-11-03,91.4,,False,2,1,64557,2026-11-18T15:49+00:00
+157627,NM,New Mexico San Miguel County Commissioner 3,2026-11-03,91.4,,False,1,1,1483,2026-11-18T15:49+00:00
+157412,NM,New Mexico Dona Ana Magistrate Judge Division 1,2026-11-03,91.4,,False,1,1,47697,2026-11-18T15:49+00:00
+157510,NM,New Mexico Catron County Commissioner 1,2026-11-03,91.4,,False,2,1,1862,2026-11-18T15:49+00:00
+159832,NM,New Mexico Sandoval County Fire Department Bonds,2026-11-03,91.4,,False,2,1,58327,2026-11-18T15:49+00:00
+157624,NM,New Mexico San Juan County Assessor,2026-11-03,91.4,,False,1,1,27787,2026-11-18T15:49+00:00
+157409,NM,New Mexico Lea Magistrate Judge Division 2,2026-11-03,91.4,,False,2,1,1845,2026-11-18T15:49+00:00
+157418,NM,New Mexico Dona Ana Magistrate Judge Division 7,2026-11-03,91.4,,False,1,1,46938,2026-11-18T15:49+00:00
+157587,NM,New Mexico Luna County Sheriff,2026-11-03,91.4,,False,3,1,5481,2026-11-18T15:49+00:00
+157525,NM,New Mexico Colfax County Commissioner 1,2026-11-03,91.4,,False,2,1,1540,2026-11-18T15:49+00:00
+159815,NM,New Mexico Unm Gallup College District General Obligation Bond,2026-11-03,91.4,,False,2,1,15578,2026-11-18T15:49+00:00
+157479,NM,New Mexico District Court Judge Thirteenth Judicial District Division 1 - James Lawrence Sanchez Retention,2026-11-03,91.4,,False,2,3,80954,2026-11-18T15:49+00:00
+157392,NM,New Mexico District Court Judge Eleventh Judicial District Division 6,2026-11-03,91.4,,False,2,2,56550,2026-11-18T15:49+00:00
+157593,NM,New Mexico McKinley County Sheriff,2026-11-03,91.4,,False,2,1,19262,2026-11-18T15:49+00:00
+157307,NM,New Mexico State House 2,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,1,1,5875,2026-11-18T15:49+00:00
+157508,NM,New Mexico Bernalillo Judge of the Metropolitan Court Division 16 - Claire Ann McDaniel Retention,2026-11-03,91.4,,False,2,1,185229,2026-11-18T15:49+00:00
+157613,NM,New Mexico Rio Arriba County Assessor,2026-11-03,91.4,,False,1,1,9132,2026-11-18T15:49+00:00
+157398,NM,New Mexico Santa Fe Magistrate Judge Division 2,2026-11-03,91.4,,False,1,1,53955,2026-11-18T15:49+00:00
+159841,NM,New Mexico Valencia County Bond Question 3,2026-11-03,91.4,,False,2,1,24261,2026-11-18T15:49+00:00
+157505,NM,New Mexico Bernalillo Judge of the Metropolitan Court Division 10 - Brittany Maldonado Malott Retention,2026-11-03,91.4,,False,2,1,186703,2026-11-18T15:49+00:00
+157514,NM,New Mexico Catron Probate Judge,2026-11-03,91.4,,False,1,1,1453,2026-11-18T15:49+00:00
+159804,NM,New Mexico City of Ruidoso Downs General Obligation Bond,2026-11-03,91.4,,False,2,1,567,2026-11-18T15:49+00:00
+157628,NM,New Mexico San Miguel County Sheriff,2026-11-03,91.4,,False,1,1,6743,2026-11-18T15:49+00:00
+157381,NM,New Mexico Public Education Commissioner 7,2026-11-03,91.4,,False,2,2,58903,2026-11-18T15:49+00:00
+157358,NM,New Mexico State House 53,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,2,2,7774,2026-11-18T15:49+00:00
+157488,NM,New Mexico District Court Judge Fifth Judicial District Division 10 - Dustin Kelly Hunter Retention,2026-11-03,91.4,,False,2,3,36494,2026-11-18T15:49+00:00
+157497,NM,New Mexico Bernalillo Probate Judge,2026-11-03,91.4,,False,1,1,161515,2026-11-18T15:49+00:00
+157602,NM,New Mexico Otero County Commissioner 2,2026-11-03,91.4,,False,2,1,4628,2026-11-18T15:49+00:00
+157387,NM,New Mexico District Court Judge Second Judicial District Division 24,2026-11-03,91.4,,False,1,1,160313,2026-11-18T15:49+00:00
+159830,NM,New Mexico Otero County Local Economic Development Act Grt Question,2026-11-03,91.4,,False,2,1,15916,2026-11-18T15:49+00:00
+157494,NM,New Mexico Bernalillo County Commissioner 5,2026-11-03,91.4,,False,2,1,56212,2026-11-18T15:49+00:00
+157599,NM,New Mexico Mora County Assessor,2026-11-03,91.4,,False,1,1,1672,2026-11-18T15:49+00:00
+157384,NM,New Mexico District Court Judge Second Judicial District Division 2,2026-11-03,91.4,,False,1,1,163977,2026-11-18T15:49+00:00
+157370,NM,New Mexico State House 65,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,1,3,6499,2026-11-18T15:49+00:00
+157308,NM,New Mexico State House 3,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,1,1,7405,2026-11-18T15:49+00:00
+157477,NM,New Mexico District Court Judge Eleventh Judicial District Division 4 - Curtis R Gurley Retention,2026-11-03,91.4,,False,2,2,48610,2026-11-18T15:49+00:00
+157367,NM,New Mexico State House 62,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,1,1,5565,2026-11-18T15:49+00:00
+157568,NM,New Mexico Hidalgo Probate Judge,2026-11-03,91.4,,False,1,1,1059,2026-11-18T15:49+00:00
+159819,NM,New Mexico Bernalillo County Parks and Recreation Bonds,2026-11-03,91.4,,False,2,1,224095,2026-11-18T15:49+00:00
+157483,NM,New Mexico District Court Judge Fifth Judicial District Division 7 - Michael Harold Stone Retention,2026-11-03,91.4,,False,2,3,36508,2026-11-18T15:49+00:00
+157588,NM,New Mexico Luna County Assessor,2026-11-03,91.4,,False,1,1,4204,2026-11-18T15:49+00:00
+157597,NM,New Mexico Mora County Commissioner 2,2026-11-03,91.4,,False,2,1,1819,2026-11-18T15:49+00:00
+159816,NM,"New Mexico Doña Ana Soil & Water Conservation District Doña Ana Soil and Water Conservation District Mill Levy for Land, Water, and Natural Resources Conservation",2026-11-03,91.4,,False,2,1,61690,2026-11-18T15:49+00:00
+157480,NM,New Mexico District Court Judge First Judicial District Division 7 - T Glenn Ellington Retention,2026-11-03,91.4,,False,2,3,73319,2026-11-18T15:49+00:00
+157393,NM,New Mexico District Court Judge Eleventh Judicial District Division 8,2026-11-03,91.4,,False,1,2,38388,2026-11-18T15:49+00:00
+157603,NM,New Mexico Otero County Sheriff,2026-11-03,91.4,,False,1,1,12569,2026-11-18T15:49+00:00
+157356,NM,New Mexico State House 51,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,2,1,9177,2026-11-18T15:49+00:00
+157662,NM,New Mexico Union County Commissioner At Large,2026-11-03,91.4,,False,2,1,1425,2026-11-18T15:49+00:00
+157447,NM,New Mexico Torrance Magistrate Judge,2026-11-03,91.4,,False,1,1,3972,2026-11-18T15:49+00:00
+157577,NM,New Mexico Lincoln County Commissioner 4,2026-11-03,91.4,,False,2,1,1294,2026-11-18T15:49+00:00
+157362,NM,New Mexico State House 57,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,2,1,13729,2026-11-18T15:49+00:00
+159805,NM,New Mexico City of Jal Gross Receipts Tax,2026-11-03,91.4,,False,2,1,369,2026-11-18T15:49+00:00
+159814,NM,New Mexico San Juan College General Obligation Bond Question,2026-11-03,91.4,,False,2,1,33865,2026-11-18T15:49+00:00
+157574,NM,New Mexico Lincoln County Clerk,2026-11-03,91.4,,False,1,1,5740,2026-11-18T15:49+00:00
+157359,NM,New Mexico State House 54,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,1,3,6339,2026-11-18T15:49+00:00
+157489,NM,New Mexico District Court Judge Eleventh Judicial District Division 7 - Douglas W Decker Retention,2026-11-03,91.4,,False,2,2,48292,2026-11-18T15:49+00:00
+159811,NM,New Mexico Santa Fe General Obligation Municipal Recreation Complex Soccer Valley Bonds,2026-11-03,91.4,,False,2,1,34757,2026-11-18T15:49+00:00
+159820,NM,New Mexico Bernalillo County Transportation Bonds,2026-11-03,91.4,,False,2,1,222844,2026-11-18T15:49+00:00
+157651,NM,New Mexico Taos County Commissioner 1,2026-11-03,91.4,,False,1,1,2110,2026-11-18T15:49+00:00
+157589,NM,New Mexico Luna Probate Judge,2026-11-03,91.4,,False,3,1,5852,2026-11-18T15:49+00:00
+157342,NM,New Mexico State House 37,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,2,1,10721,2026-11-18T15:49+00:00
+157543,NM,New Mexico Dona Ana County Assessor,2026-11-03,91.4,,False,1,1,47594,2026-11-18T15:49+00:00
+157456,NM,New Mexico Sandoval Magistrate Judge Division 2,2026-11-03,91.4,,False,1,1,40823,2026-11-18T15:49+00:00
+157657,NM,New Mexico Torrance County Commissioner 1,2026-11-03,91.4,,False,3,1,1863,2026-11-18T15:49+00:00
+157371,NM,New Mexico State House 66,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,1,3,5496,2026-11-18T15:49+00:00
+157572,NM,New Mexico Lea County Assessor,2026-11-03,91.4,,False,1,1,10476,2026-11-18T15:49+00:00
+157670,NM,New Mexico Valencia Probate Judge,2026-11-03,91.4,,False,2,1,25538,2026-11-18T15:49+00:00
+157462,NM,New Mexico Cibola Magistrate Judge Division 2,2026-11-03,91.4,,False,2,1,7074,2026-11-18T15:49+00:00
+157368,NM,New Mexico State House 63,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,1,5,4173,2026-11-18T15:49+00:00
+157569,NM,New Mexico Lea County Commissioner 2,2026-11-03,91.4,,False,1,1,2701,2026-11-18T15:49+00:00
+157578,NM,New Mexico Lincoln County Commissioner 5,2026-11-03,91.4,,False,1,1,932,2026-11-18T15:49+00:00
+157331,NM,New Mexico State House 26,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,2,1,7681,2026-11-18T15:49+00:00
+159806,NM,New Mexico Town of Tatum Gross Receipts Tax,2026-11-03,91.4,,False,2,1,195,2026-11-18T15:49+00:00
+157445,NM,New Mexico Taos Magistrate Judge Division 2,2026-11-03,91.4,,False,1,1,10596,2026-11-18T15:49+00:00
+157422,NM,New Mexico Quay Magistrate Judge,2026-11-03,91.4,,False,2,1,2760,2026-11-18T15:49+00:00
+157552,NM,New Mexico Grant County Sheriff,2026-11-03,91.4,,False,2,1,11359,2026-11-18T15:49+00:00
+157337,NM,New Mexico State House 32,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,2,3,7534,2026-11-18T15:49+00:00
+157666,NM,New Mexico Valencia County Commissioner 1,2026-11-03,91.4,,False,2,1,5898,2026-11-18T15:49+00:00
+157451,NM,New Mexico Lincoln Magistrate Judge Division 1,2026-11-03,91.4,,False,1,1,5730,2026-11-18T15:49+00:00
+157357,NM,New Mexico State House 52,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,1,1,6275,2026-11-18T15:49+00:00
+157558,NM,New Mexico Guadalupe County Assessor,2026-11-03,91.4,,False,1,1,1159,2026-11-18T15:49+00:00
+157663,NM,New Mexico Union County Sheriff,2026-11-03,91.4,,False,1,1,1115,2026-11-18T15:49+00:00
+157448,NM,New Mexico Hidalgo Magistrate Judge,2026-11-03,91.4,,False,1,1,1114,2026-11-18T15:49+00:00
+157434,NM,New Mexico San Juan Magistrate Judge Division 1,2026-11-03,91.4,,False,1,1,6165,2026-11-18T15:49+00:00
+157372,NM,New Mexico State House 67,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,2,6,8892,2026-11-18T15:49+00:00
+157541,NM,New Mexico Dona Ana County Commissioner 3,2026-11-03,91.4,,False,3,1,11968,2026-11-18T15:49+00:00
+157518,NM,New Mexico Chaves County Assessor,2026-11-03,91.4,,False,1,1,11567,2026-11-18T15:49+00:00
+157431,NM,New Mexico Valencia Magistrate Judge Division 1,2026-11-03,91.4,,False,1,1,17674,2026-11-18T15:49+00:00
+157440,NM,New Mexico Rio Arriba Magistrate Judge Division 1,2026-11-03,91.4,,False,1,1,9482,2026-11-18T15:49+00:00
+157346,NM,New Mexico State House 41,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,1,4,7653,2026-11-18T15:49+00:00
+157547,NM,New Mexico Eddy County Commissioner 4,2026-11-03,91.4,,False,1,1,3047,2026-11-18T15:49+00:00
+157652,NM,New Mexico Taos County Commissioner 2,2026-11-03,91.4,,False,1,1,1816,2026-11-18T15:49+00:00
+157661,NM,New Mexico Torrance Probate Judge,2026-11-03,91.4,,False,1,1,4018,2026-11-18T15:49+00:00
+157343,NM,New Mexico State House 38,2026-11-03,99.9,2026-11-12T01:54:12.332Z,False,2,3,9233,2026-11-18T15:49+00:00
+157544,NM,New Mexico Dona Ana Probate Judge,2026-11-03,91.4,,False,1,1,47199,2026-11-18T15:49+00:00
+157457,NM,New Mexico Sandoval Magistrate Judge Division 3,2026-11-03,91.4,,False,1,1,40271,2026-11-18T15:49+00:00
+157667,NM,New Mexico Valencia County Commissioner 3,2026-11-03,91.4,,False,2,1,4993,2026-11-18T15:49+00:00
+157420,NM,New Mexico Colfax Magistrate Judge Division 1,2026-11-03,91.4,,False,1,1,3327,2026-11-18T15:49+00:00
+157527,NM,New Mexico Colfax County Sheriff,2026-11-03,91.4,,False,2,1,4681,2026-11-18T15:49+00:00
+157312,NM,New Mexico State House 7,2026-11-03,99.9,2026-11-12T01:54:12.332Z,False,2,1,8237,2026-11-18T15:49+00:00
+157641,NM,New Mexico Sierra County Commissioner 1,2026-11-03,91.4,,False,1,1,3223,2026-11-18T15:49+00:00
+157426,NM,New Mexico McKinley Magistrate Judge Division 1,2026-11-03,91.4,,False,1,1,15267,2026-11-18T15:49+00:00
+157332,NM,New Mexico State House 27,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,2,1,13906,2026-11-18T15:49+00:00
+157341,NM,New Mexico State House 36,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,2,1,11613,2026-11-18T15:49+00:00
+157638,NM,New Mexico Santa Fe County Sheriff,2026-11-03,91.4,,False,1,1,53536,2026-11-18T15:49+00:00
+157423,NM,New Mexico Roosevelt Magistrate Judge,2026-11-03,91.4,,False,1,1,3725,2026-11-18T15:49+00:00
+157553,NM,New Mexico Grant County Assessor,2026-11-03,91.4,,False,1,1,8223,2026-11-18T15:49+00:00
+157530,NM,New Mexico Curry County Commissioner 1,2026-11-03,91.4,,False,1,1,980,2026-11-18T15:49+00:00
+157347,NM,New Mexico State House 42,2026-11-03,99.9,2026-11-04T07:09:42.077Z,False,1,1,9657,2026-11-18T15:49+00:00
+157516,NM,New Mexico Chaves County Commissioner 5,2026-11-03,91.4,,False,1,1,2221,2026-11-18T15:49+00:00
+157653,NM,New Mexico Taos County Commissioner 5,2026-11-03,91.4,,False,2,1,2396,2026-11-18T15:49+00:00
+157406,NM,New Mexico Curry Magistrate Judge Division 1,2026-11-03,91.4,,False,2,1,3604,2026-11-18T15:49+00:00
+157607,NM,New Mexico Quay County Sheriff,2026-11-03,91.4,,False,1,1,2298,2026-11-18T15:49+00:00
+157321,NM,New Mexico State House 16,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,1,1,8077,2026-11-18T15:49+00:00
+157522,NM,New Mexico Cibola County Sheriff,2026-11-03,91.4,,False,2,1,7149,2026-11-18T15:49+00:00
+157435,NM,New Mexico San Juan Magistrate Judge Division 2,2026-11-03,91.4,,False,1,1,4362,2026-11-18T15:49+00:00
+157636,NM,New Mexico Santa Fe County Commissioner 1,2026-11-03,91.4,,False,1,1,10856,2026-11-18T15:49+00:00
+157318,NM,New Mexico State House 13,2026-11-03,99.9,2026-11-04T07:09:42.076Z,False,1,1,5377,2026-11-18T15:49+00:00
+157519,NM,New Mexico Chaves Probate Judge,2026-11-03,91.4,,False,1,1,11674,2026-11-18T15:49+00:00
+157432,NM,New Mexico Otero Magistrate Judge Division 1,2026-11-03,91.4,,False,1,1,11881,2026-11-18T15:49+00:00
+157633,NM,New Mexico Sandoval County Sheriff,2026-11-03,91.4,,False,2,1,63365,2026-11-18T15:49+00:00
+87286,NM,New Mexico US House 2,2026-11-03,88.4,2026-11-04T05:23:00.083Z,False,2,15,210628,2026-11-18T15:49+00:00
+87287,NM,New Mexico US House 3,2026-11-03,86.4,2026-11-04T04:32:37.763Z,False,2,18,229408,2026-11-18T15:49+00:00
+87288,NM,New Mexico US Senate,2026-11-03,88.6,2026-11-04T02:23:25.538Z,False,2,33,725470,2026-11-18T15:49+00:00
+87285,NM,New Mexico US House 1,2026-11-03,90.6,2026-11-04T05:23:00.083Z,False,2,10,282636,2026-11-18T15:49+00:00

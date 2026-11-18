@@ -1,0 +1,1195 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+87284,NH,Kelly Ayotte,Republican,324846,51.401,True,False
+87284,NH,Cinde Warmington,Democratic,296773,46.959,False,False
+87284,NH,Stephen Villee,Libertarian,9629,1.524,False,False
+87284,NH,Write-in,Nonpartisan,733,0.116,False,False
+159552,NH,Democratic,Democratic,349271,56.806,False,False
+159552,NH,Republican,Republican,264829,43.072,False,False
+159552,NH,Nonpartisan,Nonpartisan,753,0.122,False,False
+154200,NH,Yes,Nonpartisan,365359,64.763,False,False
+154200,NH,No,Nonpartisan,198791,35.237,True,False
+154201,NH,Yes,Nonpartisan,355152,58.848,False,False
+154201,NH,No,Nonpartisan,248360,41.152,False,False
+159551,NH,Democratic,Democratic,1207349,56.703,False,False
+159551,NH,Republican,Republican,910599,42.766,False,False
+159551,NH,Independent,Independent,8068,0.379,False,False
+159551,NH,Nonpartisan,Nonpartisan,2768,0.13,False,False
+159551,NH,Other,Other,452,0.021,False,False
+153916,NH,Carryl L. Roy,Democratic,14701,52.028,True,False
+153916,NH,Kevin Avard,Republican,13527,47.873,False,False
+153916,NH,Write-in,Nonpartisan,28,0.099,False,False
+154183,NH,Kate Coyle,Democratic,30414,98.975,False,False
+154183,NH,Write-in,Nonpartisan,315,1.025,False,False
+154131,NH,Hope Damon,Democratic,5297,28.922,True,False
+154131,NH,Samuel Deering,Democratic,4949,27.022,True,False
+154131,NH,Jonathan F. Stone,Republican,4192,22.888,False,False
+154131,NH,Catherine Peschke,Republican,3868,21.119,False,False
+154131,NH,Write-in,Nonpartisan,9,0.049,False,False
+154091,NH,Molly McCoy,Democratic,4695,14.372,True,False
+154091,NH,Rebecca LaPierre,Democratic,4503,13.784,True,False
+154091,NH,Nathan Andrew Riggs,Democratic,4423,13.539,True,False
+154091,NH,Ward Galanis,Democratic,4333,13.264,True,False
+154091,NH,Nicholas D. Bridle,Republican,4143,12.682,False,False
+154091,NH,Bruce Theriault,Republican,3619,11.078,False,False
+154091,NH,"Richard Wickson, Jr.",Republican,3546,10.855,False,False
+154091,NH,Kenneth Sheffert,Republican,3401,10.411,False,False
+154091,NH,Write-in,Nonpartisan,5,0.015,False,False
+154174,NH,Erica S. Davis,Democratic,36764,57.354,False,False
+154174,NH,Samantha Morse,Republican,27289,42.573,False,False
+154174,NH,Write-in,Nonpartisan,47,0.073,False,False
+153974,NH,Marie Louise Bjelobrk,Republican,1519,34.586,True,False
+153974,NH,Greg Mathieson,Republican,1472,33.515,True,False
+153974,NH,Dustin Vigneault,Democratic,1391,31.671,False,False
+153974,NH,Write-in,Nonpartisan,10,0.228,False,False
+154057,NH,James Thibault,Republican,2581,50.847,True,False
+154057,NH,Erica Russell,Democratic,2484,48.936,False,False
+154057,NH,Write-in,Nonpartisan,11,0.217,False,False
+153933,NH,Mike Bordes,Republican,3004,13.639,True,False
+153933,NH,Marcia Hayward,Democratic,2950,13.394,True,False
+153933,NH,Denise Riley,Democratic,2794,12.686,True,False
+153933,NH,Eric Hoffman,Democratic,2737,12.427,True,False
+153933,NH,Cody Pfaff,Republican,2665,12.1,False,False
+153933,NH,Lois A. Kessin,Democratic,2663,12.091,False,False
+153933,NH,Timothy Minor,Republican,2641,11.991,False,False
+153933,NH,Paul Rossi,Republican,2566,11.65,False,False
+153933,NH,Write-in,Nonpartisan,5,0.023,False,False
+154040,NH,Stephanie Payeur,Democratic,2637,20.42,True,False
+154040,NH,Eileen Kelly,Democratic,2580,19.978,True,False
+154040,NH,Tony Caplan,Democratic,2542,19.684,True,False
+154040,NH,Natalie J. Wells,Republican,1849,14.318,False,False
+154040,NH,Matt Center,Republican,1708,13.226,False,False
+154040,NH,Stephen Craig Pierce,Republican,1595,12.351,False,False
+154040,NH,Write-in,Nonpartisan,3,0.023,False,False
+154030,NH,Paul Dargie,Democratic,3753,14.525,True,False
+154030,NH,Claire Holston,Democratic,3726,14.42,True,False
+154030,NH,Maria Elizabeth Perez,Democratic,3584,13.871,True,False
+154030,NH,Ethan Aho,Democratic,3409,13.193,True,False
+154030,NH,Gary Daniels,Republican,2994,11.587,False,False
+154030,NH,Vanessa L. Sheehan,Republican,2973,11.506,False,False
+154030,NH,Elizabeth Keenan,Republican,2849,11.026,False,False
+154030,NH,William J. Bieschke,Republican,2541,9.834,False,False
+154030,NH,Write-in,Nonpartisan,10,0.039,False,False
+154170,NH,Julie Radhakrishnan,Democratic,30612,51.703,False,False
+154170,NH,Robert H. Rowe,Republican,28560,48.238,False,False
+154170,NH,Write-in,Nonpartisan,35,0.059,False,False
+153938,NH,Anita Burroughs,Democratic,2744,34.146,True,False
+153938,NH,Adam Heard,Democratic,2604,32.404,True,False
+153938,NH,Jennifer LePla,Republican,1389,17.285,False,False
+153938,NH,Erlon Jones,Republican,1297,16.14,False,False
+153938,NH,Write-in,Nonpartisan,2,0.025,False,False
+154021,NH,Stephanie Grund,Democratic,3820,20.132,True,False
+154021,NH,Daniel T. Veilleux,Democratic,3738,19.7,True,False
+154021,NH,Daniel LeClerc,Democratic,3678,19.383,True,False
+154021,NH,Jason Hennessey,Republican,2610,13.755,False,False
+154021,NH,Diane Layton,Republican,2587,13.634,False,False
+154021,NH,Russ Hodgkins,Republican,2535,13.36,False,False
+154021,NH,Write-in,Nonpartisan,7,0.037,False,False
+154013,NH,Patrick N. Long,Democratic,1556,31.859,True,False
+154013,NH,Mary Freitas,Democratic,1526,31.245,True,False
+154013,NH,Brian Cole,Republican,964,19.738,False,False
+154013,NH,Henry Emele,Republican,836,17.117,False,False
+154013,NH,Write-in,Nonpartisan,2,0.041,False,False
+154121,NH,Nick Paul,Democratic,5452,18.961,True,False
+154121,NH,Justin McIsaac,Democratic,5334,18.551,True,False
+154121,NH,Jonathan J. King,Democratic,5315,18.485,True,False
+154121,NH,Samuel Farrington,Republican,4513,15.696,False,False
+154121,NH,Jonathan Verbicky,Republican,4118,14.322,False,False
+154121,NH,James Higginbottom,Republican,4012,13.953,False,False
+154121,NH,Write-in,Nonpartisan,9,0.031,False,False
+154196,NH,Renee Simino,Republican,7714,50.617,False,False
+154196,NH,Je Austin,Democratic,7517,49.324,False,False
+154196,NH,Write-in,Nonpartisan,9,0.059,False,False
+154104,NH,Larry Brown,Democratic,2028,25.795,True,False
+154104,NH,Glenn Bailey,Republican,2006,25.515,True,False
+154104,NH,Michael Granger,Republican,1949,24.79,True,False
+154104,NH,Mark F. Racic,Republican,1847,23.493,False,False
+154104,NH,Write-in,Nonpartisan,32,0.407,False,False
+153955,NH,Lindseigh Picard,Democratic,778,53.142,True,False
+153955,NH,Denis Vincent Murphy II,Republican,682,46.585,False,False
+153955,NH,Write-in,Nonpartisan,4,0.273,False,False
+153902,NH,Lisa Kennedy Sheldon,Democratic,70051,52.013,False,False
+153902,NH,Janet Stevens,Republican,64535,47.917,False,False
+153902,NH,Write-in,Nonpartisan,95,0.071,False,False
+153985,NH,David Fracht,Democratic,1688,99.646,True,False
+153985,NH,Write-in,Nonpartisan,6,0.354,False,False
+153977,NH,Peter Lovett,Democratic,2905,29.19,True,False
+153977,NH,Sallie Fellows,Democratic,2839,28.527,True,False
+153977,NH,Bill Bolton,Democratic,2720,27.331,True,False
+153977,NH,George Kirk,Republican,1450,14.57,False,False
+153977,NH,Write-in,Nonpartisan,38,0.382,False,False
+154085,NH,Jim Maggiore,Democratic,1689,71.75,True,False
+154085,NH,Kirsten Larsen Schultz,Independent,659,27.995,False,False
+154085,NH,Write-in,Nonpartisan,6,0.255,False,False
+154077,NH,Joe A. Guthrie,Republican,2298,27.25,True,False
+154077,NH,Lilli Walsh,Republican,2240,26.562,True,False
+154077,NH,Laurie A. Warnock,Democratic,2136,25.329,False,False
+154077,NH,Lisa DeMio,Democratic,1759,20.859,False,False
+154077,NH,Write-in,Nonpartisan,0,0.0,False,False
+154160,NH,Sharon Modjeska,Democratic,27947,99.434,False,False
+154160,NH,Write-in,Nonpartisan,159,0.566,False,False
+154152,NH,Benjamin Tilton,Democratic,5660,55.246,False,False
+154152,NH,Kate Day,Republican,4574,44.646,False,False
+154152,NH,Write-in,Nonpartisan,11,0.107,False,False
+154075,NH,Kristine Trow,Democratic,5876,5.51,True,False
+154075,NH,Jamie Carreau,Democratic,5757,5.399,True,False
+154075,NH,Matthew Glavin,Democratic,5745,5.388,True,False
+154075,NH,Hollie Hesse,Democratic,5602,5.254,True,False
+154075,NH,Charles Foote,Republican,5583,5.236,True,False
+154075,NH,Jim Marshall,Democratic,5570,5.224,True,False
+154075,NH,Haley Carreau,Democratic,5537,5.193,True,False
+154075,NH,David Provencher,Democratic,5520,5.177,True,False
+154075,NH,Brian K. Chirichiello,Republican,5370,5.036,True,False
+154075,NH,Paula Mahon d'Entremont,Democratic,5360,5.027,True,False
+154075,NH,Jodi Nelson,Republican,5358,5.025,False,False
+154075,NH,Thomas C. Wood,Democratic,5294,4.965,False,False
+154075,NH,David C. Love,Republican,5262,4.935,False,False
+154075,NH,Richard Tripp,Republican,5149,4.829,False,False
+154075,NH,Erica Layon,Republican,5089,4.772,False,False
+154075,NH,John Potucek,Republican,5002,4.691,False,False
+154075,NH,Thomas Bosia,Democratic,4994,4.683,False,False
+154075,NH,Anthony Henry,Republican,4915,4.609,False,False
+154075,NH,Michael Appleton,Republican,4908,4.603,False,False
+154075,NH,Brandon Bach,Republican,4709,4.416,False,False
+154075,NH,Write-in,Nonpartisan,33,0.031,False,False
+153919,NH,Tara Reardon,Democratic,18751,71.449,True,False
+153919,NH,Dennis Blankenbeker,Republican,7472,28.471,False,False
+153919,NH,Write-in,Nonpartisan,21,0.08,False,False
+153994,NH,Jim Mahoney,Democratic,1756,24.954,True,False
+153994,NH,Charlene Bangs Pedersen,Democratic,1556,22.112,True,False
+153994,NH,Louis C. Juris,Democratic,1556,22.112,True,False
+153994,NH,Roy H. Parker,Republican,1093,15.532,False,False
+153994,NH,Avalon Lewis,Republican,1067,15.163,False,False
+153994,NH,Write-in,Nonpartisan,9,0.128,False,False
+154165,NH,Beverly Cotton,Democratic,91547,56.091,False,False
+154165,NH,Christopher Maidment,Republican,71540,43.833,False,False
+154165,NH,Write-in,Nonpartisan,124,0.076,False,False
+154016,NH,Christopher Calhoun,Democratic,4169,14.108,True,False
+154016,NH,Judi L. Lanza,Democratic,4144,14.024,True,False
+154016,NH,Marie B. Morgan,Democratic,3968,13.428,True,False
+154016,NH,Karyn Battey,Democratic,3920,13.266,True,False
+154016,NH,Joe Alexander,Republican,3483,11.787,False,False
+154016,NH,Sherri Reinfurt,Republican,3331,11.272,False,False
+154016,NH,Henry R. Giasson III,Republican,3322,11.242,False,False
+154016,NH,Shanun R. Carey,Republican,3208,10.856,False,False
+154016,NH,Write-in,Nonpartisan,5,0.017,False,False
+153932,NH,"Kevin M. Nugent, Jr.",Republican,1702,53.759,True,False
+153932,NH,Liz Charlwood,Democratic,1463,46.21,False,False
+153932,NH,Write-in,Nonpartisan,1,0.032,False,False
+153924,NH,Pat T. Long,Democratic,11433,65.639,True,False
+153924,NH,Patrick Binder,Republican,5967,34.258,False,False
+153924,NH,Write-in,Nonpartisan,18,0.103,False,False
+154007,NH,Alissandra Murray,Democratic,1722,31.247,True,False
+154007,NH,Pauline Martineau,Democratic,1706,30.956,True,False
+154007,NH,Pierre M. Dupont,Republican,1112,20.178,False,False
+154007,NH,Jose R. Marte,Republican,971,17.619,False,False
+154007,NH,Write-in,Nonpartisan,0,0.0,False,False
+154191,NH,George Maglaras,Democratic,18605,100.0,False,False
+154191,NH,Write-in,Nonpartisan,0,0.0,False,False
+153915,NH,Shannon E. Chandley,Democratic,16651,58.003,True,False
+153915,NH,Tim McGough,Republican,12038,41.934,False,False
+153915,NH,Write-in,Nonpartisan,18,0.063,False,False
+153958,NH,John B. Hunt,Republican,1644,60.198,True,False
+153958,NH,Gene F. Andersen,Democratic,1083,39.656,False,False
+153958,NH,Write-in,Nonpartisan,4,0.146,False,False
+154065,NH,Mary J. Ford,Republican,1503,55.811,True,False
+154065,NH,Chuck Heuer,Democratic,1186,44.04,False,False
+154065,NH,Write-in,Nonpartisan,4,0.149,False,False
+153980,NH,Jake Abuhav,Republican,1130,50.111,True,False
+153980,NH,"Roger B. Larochelle, Jr.",Democratic,1124,49.845,False,False
+153980,NH,Write-in,Nonpartisan,1,0.044,False,False
+154080,NH,Debra L. DeSimone,Republican,2236,29.191,True,False
+154080,NH,Jay Markell,Republican,2141,27.95,True,False
+154080,NH,Christine Duerr,Democratic,1713,22.363,False,False
+154080,NH,Beth Cacciotti,Democratic,1568,20.47,False,False
+154080,NH,Write-in,Nonpartisan,2,0.026,False,False
+154195,NH,Michael Sanderson,Republican,9632,99.268,False,False
+154195,NH,Write-in,Nonpartisan,71,0.732,False,False
+153963,NH,Amy Norris,Republican,1400,28.357,True,False
+153963,NH,Sam Hoehn,Republican,1220,24.711,True,False
+153963,NH,Lee Ann Potter,Democratic,1157,23.435,False,False
+153963,NH,Jay Ennis,Democratic,1155,23.395,False,False
+153963,NH,Write-in,Nonpartisan,5,0.101,False,False
+154103,NH,Andy Dow,Republican,1206,25.919,True,False
+154103,NH,W. Packy Campbell,Republican,1167,25.081,True,False
+154103,NH,Brian Beaverstock,Democratic,1165,25.038,False,False
+154103,NH,Jimmy Bourque,Democratic,1113,23.92,False,False
+154103,NH,Write-in,Nonpartisan,2,0.043,False,False
+154070,NH,Sayra Lynn DeVito,Republican,1428,98.212,True,False
+154070,NH,Write-in,Nonpartisan,26,1.788,False,False
+154146,NH,Michael Parton,Democratic,12909,51.342,False,False
+154146,NH,Harold B. Parker,Republican,12210,48.562,False,False
+154146,NH,Write-in,Nonpartisan,24,0.095,False,False
+153997,NH,Samantha O'Loughlin,Democratic,2336,26.835,True,False
+153997,NH,Marty Jack,Democratic,2245,25.79,True,False
+153997,NH,Linda Harriott-Gathright,Democratic,2204,25.319,True,False
+153997,NH,Bill Ohm,Republican,1905,21.884,False,False
+153997,NH,Write-in,Nonpartisan,15,0.172,False,False
+154129,NH,Lisa R. Gosselin,Democratic,2435,19.053,True,False
+154129,NH,John R. Cloutier,Democratic,2400,18.779,True,False
+154129,NH,Chris Cogswell,Democratic,2258,17.668,True,False
+154129,NH,Dale Girard,Republican,2009,15.72,False,False
+154129,NH,Wayne J. Hemingway,Republican,1925,15.063,False,False
+154129,NH,Emily Sandblade,Republican,1745,13.654,False,False
+154129,NH,Write-in,Nonpartisan,8,0.063,False,False
+154051,NH,Mary Jane Wallner,Democratic,1903,98.755,True,False
+154051,NH,Write-in,Nonpartisan,24,1.245,False,False
+153927,NH,Bill Gannon,Republican,16112,56.237,True,False
+153927,NH,David Childs,Democratic,12518,43.693,False,False
+153927,NH,Write-in,Nonpartisan,20,0.07,False,False
+154074,NH,Allison Knab,Democratic,2707,30.605,True,False
+154074,NH,Zoe Manos,Democratic,2687,30.379,True,False
+154074,NH,Patrick Abrami,Republican,1763,19.932,False,False
+154074,NH,James Scamman,Republican,1686,19.062,False,False
+154074,NH,Write-in,Nonpartisan,2,0.023,False,False
+154002,NH,Michael Farley,Democratic,2000,27.397,True,False
+154002,NH,Michael Fitzell,Democratic,1907,26.123,True,False
+154002,NH,Mark Proulx,Republican,1734,23.753,False,False
+154002,NH,Mark McLean,Republican,1653,22.644,False,False
+154002,NH,Write-in,Nonpartisan,6,0.082,False,False
+153918,NH,Sharon M. Carson,Republican,12959,50.907,True,False
+153918,NH,Timothy T. Wyatt,Democratic,12482,49.034,False,False
+153918,NH,Write-in,Nonpartisan,15,0.059,False,False
+154134,NH,Travis J. O'Hara,Republican,15421,54.47,False,False
+154134,NH,Jason Sproul,Democratic,12853,45.399,False,False
+154134,NH,Write-in,Nonpartisan,37,0.131,False,False
+154185,NH,Kathryn L. Mone,Democratic,35898,63.862,False,False
+154185,NH,Richard Krauss,Republican,20267,36.055,False,False
+154185,NH,Write-in,Nonpartisan,47,0.084,False,False
+154093,NH,Jess Edwards,Republican,5834,27.955,True,False
+154093,NH,Terry Roy,Republican,5546,26.575,True,False
+154093,NH,Peter Boudreau,Democratic,5363,25.698,False,False
+154093,NH,Yaz Safarzadeh,Democratic,4121,19.747,False,False
+154093,NH,Write-in,Nonpartisan,5,0.024,False,False
+154168,NH,Pierre A. Cetoute,Democratic,25874,55.131,False,False
+154168,NH,Toni Pappas,Republican,20969,44.68,False,False
+154168,NH,Write-in,Nonpartisan,89,0.19,False,False
+153966,NH,Seth King,Republican,930,45.102,True,False
+153966,NH,Dave Holmander,Democratic,813,39.428,False,False
+153966,NH,Scott McKinnon Black,Independent,317,15.373,False,False
+153966,NH,Write-in,Nonpartisan,2,0.097,False,False
+153914,NH,Donovan Fenton,Democratic,19848,98.575,True,False
+153914,NH,Write-in,Nonpartisan,287,1.425,False,False
+154098,NH,JD Bernardy,Republican,4578,52.584,True,False
+154098,NH,Paul Bonzani,Democratic,4123,47.358,False,False
+154098,NH,Write-in,Nonpartisan,5,0.057,False,False
+153957,NH,Tom Ahlborn-Hsu,Democratic,2001,59.447,True,False
+153957,NH,Matthew Santonastaso,Republican,1362,40.463,False,False
+153957,NH,Write-in,Nonpartisan,3,0.089,False,False
+153949,NH,Lucy McVitty Weber,Democratic,1529,65.426,True,False
+153949,NH,William J. Sommer,Republican,807,34.531,False,False
+153949,NH,Write-in,Nonpartisan,1,0.043,False,False
+154032,NH,Jerry Roche,Democratic,4741,51.237,True,False
+154032,NH,Jack Flanagan,Republican,4506,48.698,False,False
+154032,NH,Write-in,Nonpartisan,6,0.065,False,False
+154024,NH,Megan A. Murray,Democratic,7636,56.217,True,False
+154024,NH,Michael E. Thornton,Republican,5491,40.426,False,False
+154024,NH,Daryl D'Angelo,Other,452,3.328,False,False
+154024,NH,Write-in,Nonpartisan,4,0.029,False,False
+153940,NH,Mike Belcher,Republican,2703,34.918,True,False
+153940,NH,Lino M. Avellani,Republican,2681,34.634,True,False
+153940,NH,Annie Gehring,Democratic,2343,30.267,False,False
+153940,NH,Write-in,Nonpartisan,14,0.181,False,False
+153983,NH,Kathryn Brennan,Democratic,1817,99.398,True,False
+153983,NH,Write-in,Nonpartisan,11,0.602,False,False
+154115,NH,Peter W. Bixby,Democratic,1490,62.579,True,False
+154115,NH,Daniel A. Furman,Republican,890,37.379,False,False
+154115,NH,Write-in,Nonpartisan,1,0.042,False,False
+154037,NH,Thomas Ware,Democratic,1939,25.597,True,False
+154037,NH,Lorna Carlisle,Democratic,1926,25.426,True,False
+154037,NH,Louise Andrus,Republican,1910,25.215,False,False
+154037,NH,Deborah Aylward,Republican,1795,23.696,False,False
+154037,NH,Write-in,Nonpartisan,5,0.066,False,False
+154145,NH,Tom Randell,Democratic,13521,51.415,False,False
+154145,NH,Chuck McGee,Republican,12759,48.517,False,False
+154145,NH,Write-in,Nonpartisan,18,0.068,False,False
+154137,NH,Peter John Spanos,Republican,5300,97.84,False,False
+154137,NH,Write-in,Nonpartisan,117,2.16,False,False
+153996,NH,Santosh D. Salvi,Democratic,2822,28.379,True,False
+153996,NH,Rich Green,Democratic,2607,26.217,True,False
+153996,NH,Sanjeev K. Manohar,Democratic,2512,25.261,True,False
+153996,NH,Joseph Cole,Republican,1979,19.901,False,False
+153996,NH,Write-in,Nonpartisan,24,0.241,False,False
+153988,NH,Diane Rogers,Republican,3475,16.018,True,False
+153988,NH,Jeffrey F. Tenczar,Republican,3446,15.884,True,False
+153988,NH,Deborah Kruzel,Republican,3443,15.87,True,False
+153988,NH,Tom Mannion,Republican,3382,15.589,True,False
+153988,NH,Debbie Ryan,Democratic,2798,12.897,False,False
+153988,NH,Lisa Brown,Democratic,2665,12.284,False,False
+153988,NH,Noah Lamoureaux,Democratic,2482,11.44,False,False
+153988,NH,Write-in,Nonpartisan,4,0.018,False,False
+153904,NH,Melanie Levesque,Democratic,64585,53.956,False,False
+153904,NH,Dave Wheeler,Republican,55044,45.985,False,False
+153904,NH,Write-in,Nonpartisan,71,0.059,False,False
+154088,NH,Buzz Scherr,Democratic,1874,98.684,True,False
+154088,NH,Write-in,Nonpartisan,25,1.316,False,False
+153979,NH,Marc E. Bourassa,Democratic,1137,51.611,True,False
+153979,NH,Steven Pihl Coffill,Republican,1064,48.298,False,False
+153979,NH,Write-in,Nonpartisan,2,0.091,False,False
+154054,NH,Alison Murphy,Democratic,1135,62.986,True,False
+154054,NH,Jonathan R. Cate,Republican,665,36.903,False,False
+154054,NH,Write-in,Nonpartisan,2,0.111,False,False
+154154,NH,Eamon Kelley,Democratic,1657,55.548,False,False
+154154,NH,Robert Theberge,Republican,1326,44.452,False,False
+154154,NH,Write-in,Nonpartisan,0,0.0,False,False
+153909,NH,Suzanne M. Prentiss,Democratic,21132,74.395,True,False
+153909,NH,Conrad Schoeffter,Republican,7262,25.566,False,False
+153909,NH,Write-in,Nonpartisan,11,0.039,False,False
+153952,NH,Christine L. Parshall,Democratic,1794,98.14,True,False
+153952,NH,Write-in,Nonpartisan,34,1.86,False,False
+154092,NH,Aboul B. Khan,Republican,1873,36.096,True,False
+154092,NH,Jason A. Janvrin,Republican,1764,33.995,True,False
+154092,NH,Diana Labrecque Chapman,Democratic,1545,29.775,False,False
+154092,NH,Write-in,Nonpartisan,7,0.135,False,False
+154059,NH,Vanessa Poulin,Republican,6005,25.855,True,False
+154059,NH,Phillip James Walker,Democratic,5865,25.252,True,False
+154059,NH,Harold Kozlowski,Democratic,5687,24.485,False,False
+154059,NH,Ray Plante,Republican,5658,24.361,False,False
+154059,NH,Write-in,Nonpartisan,11,0.047,False,False
+154167,NH,June Trisciani,Democratic,90494,56.099,False,False
+154167,NH,Ross W. Terrio,Republican,70669,43.809,False,False
+154167,NH,Write-in,Nonpartisan,149,0.092,False,False
+153935,NH,Peter R. Varney,Republican,2897,19.896,True,False
+153935,NH,Barbara Comtois,Republican,2704,18.57,True,False
+153935,NH,Paul A. Terry,Republican,2663,18.289,True,False
+153935,NH,Nancy Mitchell,Democratic,2155,14.8,False,False
+153935,NH,Laura Dunham,Democratic,2130,14.628,False,False
+153935,NH,Stephen Copithorne,Democratic,2006,13.777,False,False
+153935,NH,Write-in,Nonpartisan,6,0.041,False,False
+154018,NH,Molly C. Howard,Democratic,1227,58.736,True,False
+154018,NH,Jarvis M. Adams IV,Republican,860,41.168,False,False
+154018,NH,Write-in,Nonpartisan,2,0.096,False,False
+154118,NH,Gary Gilmore,Democratic,2207,98.571,True,False
+154118,NH,Write-in,Nonpartisan,32,1.429,False,False
+154193,NH,James Ethan Yazinski,Republican,9622,98.667,False,False
+154193,NH,Write-in,Nonpartisan,130,1.333,False,False
+154140,NH,Keith D. Blair,Republican,16212,99.478,False,False
+154140,NH,Write-in,Nonpartisan,85,0.522,False,False
+153991,NH,Linda Vandecar Ryan,Democratic,2440,27.552,True,False
+153991,NH,Camille Pattison,Democratic,2435,27.495,True,False
+153991,NH,Renae Lias,Democratic,2337,26.389,True,False
+153991,NH,Shawn Martin,Republican,1631,18.417,False,False
+153991,NH,Write-in,Nonpartisan,13,0.147,False,False
+153939,NH,Karel A. Crawford,Republican,2935,25.486,True,False
+153939,NH,Todd Milliken,Democratic,2898,25.165,True,False
+153939,NH,Bryan Randolph,Democratic,2849,24.739,False,False
+153939,NH,Richard R. Brown,Republican,2824,24.522,False,False
+153939,NH,Write-in,Nonpartisan,10,0.087,False,False
+154123,NH,Alice Wade,Democratic,8807,30.042,True,False
+154123,NH,Seth Miller,Democratic,8468,28.885,True,False
+154123,NH,Geoff Smith,Democratic,8148,27.794,True,False
+154123,NH,Joseph D. Morganella,Republican,3852,13.14,False,False
+154123,NH,Write-in,Nonpartisan,41,0.14,False,False
+153982,NH,Laurel Stavis,Democratic,1674,99.288,True,False
+153982,NH,Write-in,Nonpartisan,12,0.712,False,False
+154198,NH,Benjamin Nelson,Democratic,8412,54.588,False,False
+154198,NH,Joe Osgood,Republican,6988,45.347,False,False
+154198,NH,Write-in,Nonpartisan,10,0.065,False,False
+154082,NH,Robert Harb,Republican,3006,26.078,True,False
+154082,NH,Rick A. Faulconer,Democratic,2913,25.271,True,False
+154082,NH,James Summers,Republican,2807,24.352,True,False
+154082,NH,"Charles R. Melvin, Sr.",Republican,2769,24.022,False,False
+154082,NH,Write-in,Nonpartisan,32,0.278,False,False
+154157,NH,Martha Ann Hornick,Democratic,25137,65.819,False,False
+154157,NH,Matthew D. Bjelobrk,Republican,13024,34.102,False,False
+154157,NH,Write-in,Nonpartisan,30,0.079,False,False
+154072,NH,Michael Cahill,Democratic,4056,34.587,True,False
+154072,NH,Charlotte DiLorenzo,Democratic,3850,32.83,True,False
+154072,NH,Ellen Read,Democratic,3714,31.671,True,False
+154072,NH,Write-in,Nonpartisan,107,0.912,False,False
+154062,NH,Jason Quinno,Democratic,5493,69.234,True,False
+154062,NH,Robert C. Washburn,Republican,2438,30.729,False,False
+154062,NH,Write-in,Nonpartisan,3,0.038,False,False
+153978,NH,Ella V. Barrett,Democratic,1240,60.165,True,False
+153978,NH,Bradley Macrae,Republican,821,39.835,False,False
+153978,NH,Write-in,Nonpartisan,0,0.0,False,False
+154162,NH,Katie Hedberg,Democratic,6702,57.562,False,False
+154162,NH,Kimberly Chandonnet,Republican,4931,42.352,False,False
+154162,NH,Write-in,Nonpartisan,10,0.086,False,False
+154053,NH,Timothy Soucy,Democratic,1728,75.591,True,False
+154053,NH,Darryl Berleth,Republican,558,24.409,False,False
+154045,NH,Becky Berk,Independent,1400,26.217,True,False
+154045,NH,Clayton Wood,Republican,1383,25.899,True,False
+154045,NH,Paul Twomey,Independent,1341,25.112,False,False
+154045,NH,Cyril Aures,Republican,1215,22.753,False,False
+154045,NH,Write-in,Nonpartisan,1,0.019,False,False
+153929,NH,Amber Schaefer,Democratic,1036,51.594,True,False
+153929,NH,Tom Ploszaj,Republican,972,48.406,False,False
+153929,NH,Write-in,Nonpartisan,0,0.0,False,False
+154004,NH,Sean Parr,Democratic,2405,39.291,True,False
+154004,NH,Rob Fox,Democratic,2286,37.347,True,False
+154004,NH,Ben Prescott,Republican,1422,23.231,False,False
+154004,NH,Write-in,Nonpartisan,8,0.131,False,False
+153912,NH,Jim Creighton,Republican,12539,50.757,True,False
+153912,NH,David Trumble,Democratic,12150,49.182,False,False
+153912,NH,Write-in,Nonpartisan,15,0.061,False,False
+154179,NH,Patricia G. Conway,Republican,72537,51.489,False,False
+154179,NH,Robert Wilson,Democratic,68234,48.435,False,False
+154179,NH,Write-in,Nonpartisan,107,0.076,False,False
+154126,NH,Skip Rollins,Republican,2507,19.451,True,False
+154126,NH,Steven Smith,Republican,2185,16.952,True,False
+154126,NH,Walter Spilsbury,Republican,2166,16.805,True,False
+154126,NH,Jeffrey F. Kessler,Democratic,2062,15.998,False,False
+154126,NH,Lisa DeBartolomao,Democratic,2035,15.789,False,False
+154126,NH,Timothy Fitzpatrick,Democratic,1930,14.974,False,False
+154126,NH,Write-in,Nonpartisan,4,0.031,False,False
+154017,NH,Janet McEwen,Democratic,2211,17.872,True,False
+154017,NH,Tim Morehouse,Republican,2127,17.193,True,False
+154017,NH,W. Gordon Allen,Democratic,2063,16.676,True,False
+154017,NH,Austin Cottle,Republican,2030,16.409,False,False
+154017,NH,Larry Baker,Republican,1991,16.094,False,False
+154017,NH,William Bryk,Democratic,1948,15.747,False,False
+154017,NH,Write-in,Nonpartisan,1,0.008,False,False
+154009,NH,Nicole Leapley,Democratic,1463,33.122,True,False
+154009,NH,Greg Erskine,Democratic,1367,30.949,True,False
+154009,NH,Brittany Ping,Republican,827,18.723,False,False
+154009,NH,Max Abramson,Republican,755,17.093,False,False
+154009,NH,Write-in,Nonpartisan,5,0.113,False,False
+154117,NH,Samuel Chouinard,Democratic,1979,98.851,True,False
+154117,NH,Write-in,Nonpartisan,23,1.149,False,False
+154109,NH,John H. Larochelle,Democratic,1069,53.237,True,False
+154109,NH,Eric Bourgeois,Republican,939,46.763,False,False
+154109,NH,Write-in,Nonpartisan,0,0.0,False,False
+153968,NH,Richard Umiker,Democratic,1051,60.681,True,False
+153968,NH,Robert Gargano,Republican,680,39.261,False,False
+153968,NH,Write-in,Nonpartisan,1,0.058,False,False
+153960,NH,Lucius Parshall,Democratic,4510,66.314,True,False
+153960,NH,Alexander Nalevanko,Republican,2287,33.627,False,False
+153960,NH,Write-in,Nonpartisan,4,0.059,False,False
+154100,NH,Peggy Balboni,Democratic,5206,58.606,True,False
+154100,NH,Paul Martino,Republican,3674,41.36,False,False
+154100,NH,Write-in,Nonpartisan,3,0.034,False,False
+154143,NH,Steve Woodcock,Democratic,13757,52.314,False,False
+154143,NH,Brett I. Williams,Republican,12518,47.602,False,False
+154143,NH,Write-in,Nonpartisan,22,0.084,False,False
+154026,NH,Ellen A. Boudreau,Democratic,5649,28.55,True,False
+154026,NH,Tommy Katsiantonis,Democratic,5456,27.575,True,False
+154026,NH,William Infantine,Republican,4449,22.486,False,False
+154026,NH,Jon DiPietro,Republican,4221,21.333,False,False
+154026,NH,Write-in,Nonpartisan,11,0.056,False,False
+153973,NH,Heather P. Baldwin,Democratic,1127,61.25,True,False
+153973,NH,David Adams Rardin,Republican,712,38.696,False,False
+153973,NH,Write-in,Nonpartisan,1,0.054,False,False
+154081,NH,Susan M. Porcelli,Republican,1405,51.315,True,False
+154081,NH,Wendy Larson,Democratic,1332,48.649,False,False
+154081,NH,Write-in,Nonpartisan,1,0.037,False,False
+154048,NH,Connie Lane,Democratic,1185,69.624,True,False
+154048,NH,Laurence Weissbrot,Republican,517,30.376,False,False
+154156,NH,Jillian E. Myers,Democratic,37237,99.476,False,False
+154156,NH,Write-in,Nonpartisan,196,0.524,False,False
+154148,NH,D. Chris McLaughlin,Democratic,24770,99.63,False,False
+154148,NH,Write-in,Nonpartisan,92,0.37,False,False
+154039,NH,Karen Elizabeth Ebel,Democratic,2534,38.652,True,False
+154039,NH,Gregory M. Sargent,Democratic,2426,37.004,True,False
+154039,NH,Dorothy L. Hitchmoth,Republican,1588,24.222,False,False
+154039,NH,Write-in,Nonpartisan,8,0.122,False,False
+153999,NH,Rosemarie L. Rung,Democratic,7275,7.438,True,False
+153999,NH,Nancy A. Murphy,Democratic,7144,7.304,True,False
+153999,NH,Wendy E. N Thomas,Democratic,6846,6.999,True,False
+153999,NH,Heather Robitaille,Democratic,6800,6.952,True,False
+153999,NH,Matthew Brown,Democratic,6543,6.689,True,False
+153999,NH,Mary Beth Raven,Democratic,6506,6.652,True,False
+153999,NH,Marc Nozell,Democratic,6351,6.493,True,False
+153999,NH,Rebecca Boutin,Democratic,6318,6.459,True,False
+153999,NH,Maureen Mooney,Republican,5859,5.99,False,False
+153999,NH,Jeanine Notter,Republican,5842,5.973,False,False
+153999,NH,Bill Boyd,Republican,5536,5.66,False,False
+153999,NH,Adam Presa,Republican,5498,5.621,False,False
+153999,NH,Julie Miles,Republican,5286,5.404,False,False
+153999,NH,Wolfram von Schoen,Republican,5278,5.396,False,False
+153999,NH,Kevin Southwick,Republican,5155,5.27,False,False
+153999,NH,Kevin Francis Ballantine,Republican,4809,4.917,False,False
+153999,NH,Kyle Haines,Independent,766,0.783,False,False
+154139,NH,Domenic M. Richardi,Republican,25479,99.477,False,False
+154139,NH,Write-in,Nonpartisan,134,0.523,False,False
+154182,NH,Douglas Marino,Democratic,70183,50.577,False,False
+154182,NH,Jon Stark,Republican,68445,49.325,False,False
+154182,NH,Write-in,Nonpartisan,136,0.098,False,False
+154090,NH,Carrie Sorensen,Democratic,2182,99.137,True,False
+154090,NH,Write-in,Nonpartisan,19,0.863,False,False
+154012,NH,Kathy Staub,Democratic,1198,40.215,True,False
+154012,NH,Heather Deiner,Democratic,1085,36.422,True,False
+154012,NH,Kathleen Paquette,Republican,692,23.229,False,False
+154012,NH,Write-in,Nonpartisan,4,0.134,False,False
+154112,NH,Siena R. Schaier,Democratic,4347,25.403,True,False
+154112,NH,Loren Selig,Democratic,4342,25.374,True,False
+154112,NH,Timothy Horrigan,Democratic,4196,24.521,True,False
+154112,NH,Wayne M. Burton,Democratic,4174,24.392,True,False
+154112,NH,Write-in,Nonpartisan,53,0.31,False,False
+154003,NH,Maxine Mosley,Democratic,2165,29.581,True,False
+154003,NH,Ben Baroody,Democratic,2021,27.613,True,False
+154003,NH,David A. Smith,Republican,1581,21.601,False,False
+154003,NH,Michael J. Tkacz,Republican,1549,21.164,False,False
+154003,NH,Write-in,Nonpartisan,3,0.041,False,False
+154187,NH,Pamela J. Arnold,Democratic,39630,99.318,False,False
+154187,NH,Write-in,Nonpartisan,272,0.682,False,False
+153911,NH,Rebecca Harned,Democratic,13174,51.685,True,False
+153911,NH,Daniel E. Innis,Republican,12285,48.197,False,False
+153911,NH,Write-in,Nonpartisan,30,0.118,False,False
+154095,NH,Alexis Simpson,Democratic,13647,99.035,True,False
+154095,NH,Write-in,Nonpartisan,133,0.965,False,False
+153954,NH,Alan Gross,Democratic,1926,27.495,True,False
+153954,NH,Steve Russell,Democratic,1860,26.552,True,False
+153954,NH,Sly Karasinski,Republican,1683,24.026,False,False
+153954,NH,Michael Ralph York,Republican,1533,21.884,False,False
+153954,NH,Write-in,Nonpartisan,3,0.043,False,False
+154029,NH,Lee C. Nyquist,Democratic,2985,18.59,True,False
+154029,NH,Teri Harkins,Democratic,2928,18.235,True,False
+154029,NH,Peter Ryder,Democratic,2927,18.229,True,False
+154029,NH,Lisa C. M. Post,Republican,2451,15.264,False,False
+154029,NH,Gerald Griffin,Republican,2402,14.959,False,False
+154029,NH,Rob Lovett,Republican,2359,14.691,False,False
+154029,NH,Write-in,Nonpartisan,5,0.031,False,False
+153937,NH,Benjamin Colbath,Democratic,2680,22.063,True,False
+153937,NH,David Paige,Democratic,2579,21.232,True,False
+153937,NH,Ellin M. Leonard,Democratic,2339,19.256,True,False
+153937,NH,Karen C. Umberger,Republican,1732,14.259,False,False
+153937,NH,Robert W. Nelson,Republican,1532,12.612,False,False
+153937,NH,Gregory T. Corrigan,Republican,1280,10.538,False,False
+153937,NH,Write-in,Nonpartisan,5,0.041,False,False
+154076,NH,Kenneth L. Weyler,Republican,2159,34.027,True,False
+154076,NH,Paul C. Paone,Democratic,2086,32.876,True,False
+154076,NH,Pam Brown,Republican,2084,32.845,False,False
+154076,NH,Write-in,Nonpartisan,16,0.252,False,False
+154151,NH,Jeremy LaPlante,Democratic,14087,99.058,False,False
+154151,NH,Write-in,Nonpartisan,134,0.942,False,False
+154099,NH,Kate Cook,Democratic,4463,99.046,True,False
+154099,NH,Write-in,Nonpartisan,43,0.954,False,False
+154034,NH,Gregory Hill,Republican,1029,53.069,True,False
+154034,NH,Joyce May Fulweiler,Democratic,910,46.931,False,False
+154034,NH,Write-in,Nonpartisan,0,0.0,False,False
+154142,NH,Karen I. Rines,Republican,25445,99.906,False,False
+154142,NH,Write-in,Nonpartisan,24,0.094,False,False
+153942,NH,John T. MacDonald,Republican,2988,28.301,True,False
+153942,NH,Deirdre McEachern,Democratic,2600,24.626,True,False
+153942,NH,Tim Bauman,Republican,2512,23.792,False,False
+153942,NH,Phoebe VanScoy-Giessler,Democratic,2457,23.271,False,False
+153942,NH,Write-in,Nonpartisan,1,0.009,False,False
+153993,NH,Adam R. Thompson,Democratic,2140,22.418,True,False
+153993,NH,Lee Ann Kluger,Democratic,2112,22.124,True,False
+153993,NH,Michele Roussel Buckley,Democratic,2106,22.062,True,False
+153993,NH,Daniel Richardson,Republican,1163,12.183,False,False
+153993,NH,Doris Hohensee,Republican,1026,10.748,False,False
+153993,NH,Elena Pavlou,Republican,995,10.423,False,False
+153993,NH,Write-in,Nonpartisan,4,0.042,False,False
+153901,NH,Karen Liot Hill,Democratic,78474,64.402,False,False
+153901,NH,Tobin Menard,Republican,43304,35.538,False,False
+153901,NH,Write-in,Nonpartisan,73,0.06,False,False
+153976,NH,Janet Marie Lucas,Democratic,990,57.292,True,False
+153976,NH,Jon A. Gablinske,Republican,738,42.708,False,False
+154190,NH,John Frank Scruton,Democratic,9427,53.902,False,False
+154190,NH,Susan J. Rice,Republican,8041,45.977,False,False
+154190,NH,Write-in,Nonpartisan,21,0.12,False,False
+154138,NH,Glen A. Waring,Republican,4933,99.256,False,False
+154138,NH,Write-in,Nonpartisan,37,0.744,False,False
+153906,NH,Kurt Webber,Democratic,14563,52.117,True,False
+153906,NH,Timothy P. Lang,Republican,13365,47.83,False,False
+153906,NH,Write-in,Nonpartisan,15,0.054,False,False
+154181,NH,Cathy Stacey,Republican,136787,99.845,False,False
+154181,NH,Write-in,Nonpartisan,213,0.155,False,False
+154173,NH,Kathleen Donnelly,Democratic,44514,99.213,False,False
+154173,NH,Write-in,Nonpartisan,353,0.787,False,False
+154064,NH,James Spillane,Republican,4112,18.445,True,False
+154064,NH,Jason Osborne,Republican,4112,18.445,True,False
+154064,NH,Will Huebner,Republican,4026,18.059,True,False
+154064,NH,Judith Lindsey,Democratic,3419,15.337,False,False
+154064,NH,Kendra Cohen,Democratic,3398,15.242,False,False
+154064,NH,Robert Prieto,Democratic,3218,14.435,False,False
+154064,NH,Write-in,Nonpartisan,8,0.036,False,False
+154056,NH,Matthew Hicks,Democratic,1853,98.827,True,False
+154056,NH,Write-in,Nonpartisan,22,1.173,False,False
+154164,NH,Travis Bennett,Democratic,88201,53.616,False,False
+154164,NH,John J. Coughlin,Republican,76169,46.302,False,False
+154164,NH,Write-in,Nonpartisan,134,0.081,False,False
+154015,NH,Keith Erf,Republican,2249,28.712,True,False
+154015,NH,Travis Corcoran,Republican,1966,25.099,True,False
+154015,NH,David Erikson,Democratic,1813,23.146,False,False
+154015,NH,Benson H. Goodwin,Democratic,1804,23.031,False,False
+154015,NH,Write-in,Nonpartisan,1,0.013,False,False
+153923,NH,Regina Birdsell,Republican,12761,52.54,True,False
+153923,NH,Michelle Moge,Democratic,11514,47.406,False,False
+153923,NH,Write-in,Nonpartisan,13,0.054,False,False
+154069,NH,Laurence A. Miner,Republican,1493,60.914,True,False
+154069,NH,JJ DeFeo,Democratic,955,38.964,False,False
+154069,NH,Write-in,Nonpartisan,3,0.122,False,False
+153953,NH,Jim Gruber,Democratic,1359,56.743,True,False
+153953,NH,Rich Nalevanko,Republican,1036,43.257,False,False
+153953,NH,Write-in,Nonpartisan,0,0.0,False,False
+153945,NH,Dylan Germana,Democratic,1120,77.67,True,False
+153945,NH,Timothy J. Donovan,Republican,317,21.983,False,False
+153945,NH,Write-in,Nonpartisan,5,0.347,False,False
+154028,NH,Lily M. Foss,Democratic,6413,22.452,True,False
+154028,NH,Tom Stewart,Democratic,6329,22.158,True,False
+154028,NH,Bishwa Bahadur Shah,Democratic,5805,20.323,True,False
+154028,NH,Ryan Hebert,Republican,3452,12.086,False,False
+154028,NH,Joseph Skinner,Republican,3323,11.634,False,False
+154028,NH,Jason Hodgdon,Republican,3234,11.322,False,False
+154028,NH,Write-in,Nonpartisan,7,0.025,False,False
+154020,NH,Peter R. Leishman,Democratic,2424,44.502,True,False
+154020,NH,Jonah Orion Wheeler,Democratic,1930,35.432,True,False
+154020,NH,Kimberly Thomas,Republican,1061,19.479,False,False
+154020,NH,Write-in,Nonpartisan,32,0.587,False,False
+154128,NH,Judith M. Thackaberry,Democratic,1524,54.86,True,False
+154128,NH,George C. Grant,Republican,1253,45.104,False,False
+154128,NH,Write-in,Nonpartisan,1,0.036,False,False
+154120,NH,Michael Harrington,Republican,4677,50.139,True,False
+154120,NH,Thom Flynn,Democratic,4649,49.839,False,False
+154120,NH,Write-in,Nonpartisan,2,0.021,False,False
+154011,NH,Jessica Margeson,Democratic,1560,34.113,True,False
+154011,NH,Frank Anthony,Democratic,1424,31.139,True,False
+154011,NH,Paul LaFerriere,Republican,896,19.593,False,False
+154011,NH,Shuvom Ghose,Republican,691,15.11,False,False
+154011,NH,Write-in,Nonpartisan,2,0.044,False,False
+154079,NH,Katelyn Kuttab,Republican,4042,14.384,True,False
+154079,NH,Charles E. McMahon,Republican,4004,14.249,True,False
+154079,NH,Daniel Popovici-Muller,Republican,3767,13.406,True,False
+154079,NH,Bob Lynn,Republican,3743,13.32,True,False
+154079,NH,Darryn E. Remillard,Democratic,3276,11.658,False,False
+154079,NH,David Martsolf,Democratic,3226,11.48,False,False
+154079,NH,Irene L. Harnden,Democratic,3017,10.737,False,False
+154079,NH,Matthew Swoboda,Democratic,2999,10.673,False,False
+154079,NH,Write-in,Nonpartisan,26,0.093,False,False
+153962,NH,Allen Davis,Democratic,2879,25.19,True,False
+153962,NH,Rory Lovett Sherman,Democratic,2869,25.103,True,False
+153962,NH,Jim Qualey,Republican,2866,25.077,False,False
+153962,NH,Rita Mattson,Republican,2808,24.569,False,False
+153962,NH,Write-in,Nonpartisan,7,0.061,False,False
+154133,NH,Keith Gerard Cormier,Democratic,27560,99.812,False,False
+154133,NH,Write-in,Nonpartisan,52,0.188,False,False
+154176,NH,Steve Shurtleff,Democratic,14166,98.43,False,False
+154176,NH,Write-in,Nonpartisan,226,1.57,False,False
+153900,NH,Luz Bay,Democratic,63718,51.579,False,False
+153900,NH,Joseph D. Kenney,Republican,59723,48.345,False,False
+153900,NH,Write-in,Nonpartisan,93,0.075,False,False
+154084,NH,Rebecca Audet,Democratic,2385,99.127,True,False
+154084,NH,Write-in,Nonpartisan,21,0.873,False,False
+153975,NH,Paul J. Goundrey,Democratic,1027,53.406,True,False
+153975,NH,Linda Franz,Republican,896,46.594,False,False
+153975,NH,Write-in,Nonpartisan,0,0.0,False,False
+154159,NH,Brie Choate,Democratic,23761,62.239,False,False
+154159,NH,Kelley Jean Monahan,Republican,14393,37.701,False,False
+154159,NH,Write-in,Nonpartisan,23,0.06,False,False
+154050,NH,Lisa D. Beaudoin,Democratic,1408,76.439,True,False
+154050,NH,Elijah J. Wilson,Republican,432,23.453,False,False
+154050,NH,Write-in,Nonpartisan,2,0.109,False,False
+153926,NH,Daryl Abbas,Republican,15267,55.786,True,False
+153926,NH,Chris Tardif,Democratic,12096,44.199,False,False
+153926,NH,Write-in,Nonpartisan,4,0.015,False,False
+154001,NH,"Raymond C. Peeples, Jr.",Republican,2052,26.901,True,False
+154001,NH,Rich Lascelles,Republican,1980,25.957,True,False
+154001,NH,Paula Paciulan,Democratic,1838,24.095,False,False
+154001,NH,Ray Ealy,Democratic,1751,22.955,False,False
+154001,NH,Write-in,Nonpartisan,7,0.092,False,False
+153948,NH,Jodi Newell,Democratic,1413,72.499,True,False
+153948,NH,Robert Johnson,Republican,531,27.245,False,False
+153948,NH,Write-in,Nonpartisan,5,0.257,False,False
+154023,NH,Michael Pellerito,Democratic,2140,25.65,True,False
+154023,NH,Stephen Spratt,Democratic,2112,25.315,True,False
+154023,NH,Diane Pauer,Republican,2094,25.099,False,False
+154023,NH,John W. Suiter,Republican,1996,23.924,False,False
+154023,NH,Write-in,Nonpartisan,1,0.012,False,False
+154163,NH,Brian Newcomb,Republican,159447,99.565,False,False
+154163,NH,Write-in,Nonpartisan,697,0.435,False,False
+153931,NH,"William Lawrence, Jr.",Democratic,1662,51.312,True,False
+153931,NH,Steven Bunce,Republican,1576,48.657,False,False
+153931,NH,Write-in,Nonpartisan,1,0.031,False,False
+154014,NH,Mary Murphy,Republican,961,54.914,True,False
+154014,NH,Timothy J. Coffin,Independent,783,44.743,False,False
+154014,NH,Write-in,Nonpartisan,6,0.343,False,False
+154006,NH,Chrissy Simonds,Democratic,1702,30.705,True,False
+154006,NH,Jane Beaulieu,Democratic,1700,30.669,True,False
+154006,NH,Mickey Mullin,Republican,1070,19.304,False,False
+154006,NH,Matt Drew,Republican,1068,19.268,False,False
+154006,NH,Write-in,Nonpartisan,3,0.054,False,False
+154114,NH,Will Hurley,Democratic,3698,16.448,True,False
+154114,NH,Myles England,Democratic,3643,16.203,True,False
+154114,NH,Wayne Pearson,Democratic,3564,15.852,True,False
+154114,NH,Billie Butler,Democratic,3549,15.785,True,False
+154114,NH,Philip Houde,Republican,2216,9.856,False,False
+154114,NH,David Hilton,Republican,2056,9.145,False,False
+154114,NH,Paul T. Edgar,Republican,1931,8.589,False,False
+154114,NH,Omero Ambriz,Republican,1821,8.099,False,False
+154114,NH,Write-in,Nonpartisan,5,0.022,False,False
+153965,NH,Mike Ouellet,Republican,1051,97.767,True,False
+153965,NH,Write-in,Nonpartisan,24,2.233,False,False
+154097,NH,Michelle Stith,Democratic,10225,52.731,True,False
+154097,NH,Julius F. Soti,Republican,9152,47.197,False,False
+154097,NH,Write-in,Nonpartisan,14,0.072,False,False
+153987,NH,Marko Kloos,Democratic,4702,53.891,True,False
+153987,NH,Donald McFarlane,Republican,4021,46.086,False,False
+153987,NH,Write-in,Nonpartisan,2,0.023,False,False
+154087,NH,Lorie Ball,Republican,7235,9.442,True,False
+154087,NH,Joe Sweeney,Republican,6929,9.042,True,False
+154087,NH,Susan J. Vandecasteele,Republican,6849,8.938,True,False
+154087,NH,John Sytek,Republican,6705,8.75,True,False
+154087,NH,John Janigian,Republican,6644,8.67,True,False
+154087,NH,Valerie McDonnell,Republican,6443,8.408,True,False
+154087,NH,George I. Kassas,Republican,6392,8.342,True,False
+154087,NH,Dennis Mannion,Republican,6116,7.981,True,False
+154087,NH,Donna Loranger,Democratic,5954,7.77,True,False
+154087,NH,Edward W. Huminick,Republican,5947,7.761,False,False
+154087,NH,Claudia DeFuria,Democratic,5766,7.525,False,False
+154087,NH,Kienen Dyer,Democratic,5605,7.315,False,False
+154087,NH,Write-in,Nonpartisan,43,0.056,False,False
+154010,NH,Jean Jeudy,Democratic,1816,49.945,True,False
+154010,NH,Mary Ngwanda Georges,Democratic,1794,49.34,True,False
+154010,NH,Write-in,Nonpartisan,26,0.715,False,False
+153970,NH,Linda Massimilla,Democratic,2526,18.478,True,False
+153970,NH,Timothy T. Egan,Democratic,2351,17.198,True,False
+153970,NH,Andrew Dorsett,Republican,2226,16.284,True,False
+153970,NH,Joseph Goderic Beaulieu,Democratic,2209,16.159,False,False
+153970,NH,Joseph Barton,Republican,2195,16.057,False,False
+153970,NH,Calvin Beaulier,Republican,2163,15.823,False,False
+153970,NH,Write-in,Nonpartisan,0,0.0,False,False
+154078,NH,Bob Cote,Democratic,6002,8.055,True,False
+154078,NH,Jane Cooper,Democratic,5941,7.973,True,False
+154078,NH,Michela Hites,Democratic,5741,7.704,True,False
+154078,NH,Paul Skudlarek,Democratic,5700,7.649,True,False
+154078,NH,Isaac Fernandez,Democratic,5634,7.561,True,False
+154078,NH,Ted Combes,Democratic,5629,7.554,True,False
+154078,NH,David Lundgren,Republican,5501,7.382,True,False
+154078,NH,Neil Marceau,Democratic,5389,7.232,False,False
+154078,NH,Kristine Perez,Republican,5246,7.04,False,False
+154078,NH,Sherman Packard,Republican,5056,6.785,False,False
+154078,NH,Gregory G. Carson,Republican,4990,6.696,False,False
+154078,NH,Wayne D. MacDonald,Republican,4817,6.464,False,False
+154078,NH,Jeffrey McGraw,Republican,4630,6.213,False,False
+154078,NH,Ron Dunn,Republican,4200,5.636,False,False
+154078,NH,Write-in,Nonpartisan,41,0.055,False,False
+154102,NH,Justin G. Packard,Democratic,6171,50.773,True,False
+154102,NH,Linda McGrath,Republican,5981,49.21,False,False
+154102,NH,Write-in,Nonpartisan,2,0.016,False,False
+154153,NH,Terry M. Clark,Democratic,2293,99.221,False,False
+154153,NH,Write-in,Nonpartisan,18,0.779,False,False
+154036,NH,Cody York,Democratic,2430,38.602,True,False
+154036,NH,Michael Moffett,Republican,2196,34.885,True,False
+154036,NH,Jose Eduardo Cambrils,Republican,1647,26.164,False,False
+154036,NH,Write-in,Nonpartisan,22,0.349,False,False
+154136,NH,Krystie Sullivan,Republican,15127,53.447,False,False
+154136,NH,Ruth Larson,Democratic,13143,46.437,False,False
+154136,NH,Write-in,Nonpartisan,33,0.117,False,False
+153934,NH,David Nagel,Democratic,3492,13.299,True,False
+153934,NH,Bob McLean,Democratic,3436,13.086,True,False
+153934,NH,Jade Wood,Republican,3353,12.77,True,False
+153934,NH,Lisa Rivard,Democratic,3283,12.503,True,False
+153934,NH,Priscilla M. Bean,Republican,3259,12.412,False,False
+153934,NH,Allan Frank,Democratic,3168,12.065,False,False
+153934,NH,Colleen M. Harkey,Republican,3143,11.97,False,False
+153934,NH,Glen Aldrich,Republican,3120,11.883,False,False
+153934,NH,Write-in,Nonpartisan,3,0.011,False,False
+154049,NH,Beth Richards,Democratic,777,98.604,True,False
+154049,NH,Write-in,Nonpartisan,11,1.396,False,False
+154041,NH,Muriel Hall,Democratic,4940,19.885,True,False
+154041,NH,Eleana M. Colby,Democratic,4885,19.663,True,False
+154041,NH,David Luneau,Democratic,4844,19.498,True,False
+154041,NH,James Newsom,Democratic,4730,19.04,True,False
+154041,NH,Matthew Poulin,Republican,2861,11.516,False,False
+154041,NH,John F. Martin,Republican,2569,10.341,False,False
+154041,NH,Write-in,Nonpartisan,14,0.056,False,False
+153925,NH,Rebecca Perkins Kwoka,Democratic,20447,74.006,True,False
+153925,NH,Jeffrey Berlin,Republican,7160,25.915,False,False
+153925,NH,Write-in,Nonpartisan,22,0.08,False,False
+153917,NH,Laura Telerski,Democratic,12210,64.25,True,False
+153917,NH,Daniel J. Paul,Republican,6774,35.645,False,False
+153917,NH,Write-in,Nonpartisan,20,0.105,False,False
+154192,NH,Heath Howard,Democratic,10734,57.828,False,False
+154192,NH,Robert J. Drew,Republican,7800,42.021,False,False
+154192,NH,Write-in,Nonpartisan,28,0.151,False,False
+154184,NH,Thomas Tombarello,Republican,46497,99.698,False,False
+154184,NH,Write-in,Nonpartisan,141,0.302,False,False
+153908,NH,David H. Watters,Democratic,17866,67.926,True,False
+153908,NH,Shawn Mickelonis,Republican,8422,32.02,False,False
+153908,NH,Write-in,Nonpartisan,14,0.053,False,False
+153951,NH,Terri O'Rorke,Democratic,1536,76.954,True,False
+153951,NH,Jonathan Liptak,Republican,459,22.996,False,False
+153951,NH,Write-in,Nonpartisan,1,0.05,False,False
+154058,NH,Harold D. Tuttle,Democratic,4908,50.561,True,False
+154058,NH,Alvin B. See,Republican,4794,49.387,False,False
+154058,NH,Write-in,Nonpartisan,5,0.052,False,False
+154197,NH,Loren David Howard,Democratic,8271,54.677,False,False
+154197,NH,Rodd Ward,Republican,6849,45.277,False,False
+154197,NH,Write-in,Nonpartisan,7,0.046,False,False
+154113,NH,Janet G. Wall,Democratic,4228,29.871,True,False
+154113,NH,Erik Johnson,Democratic,3986,28.162,True,False
+154113,NH,Thomas Southworth,Democratic,3863,27.293,True,False
+154113,NH,Monique Meadows,Republican,2064,14.582,False,False
+154113,NH,Write-in,Nonpartisan,13,0.092,False,False
+154105,NH,Susan G. DeRoy,Republican,1404,61.097,True,False
+154105,NH,Linda R. Adamo,Democratic,894,38.903,False,False
+154105,NH,Write-in,Nonpartisan,0,0.0,False,False
+153964,NH,Arnold G. Davis,Republican,1248,67.789,True,False
+153964,NH,Lincoln Robertson,Democratic,591,32.102,False,False
+153964,NH,Write-in,Nonpartisan,2,0.109,False,False
+153956,NH,Kristan Tilton,Democratic,1007,52.339,True,False
+153956,NH,Dick Thackston,Republican,910,47.297,False,False
+153956,NH,Write-in,Nonpartisan,7,0.364,False,False
+154071,NH,Kevin M. Major,Republican,2588,59.866,True,False
+154071,NH,Matthew Brooks,Republican,1717,39.718,True,False
+154071,NH,Write-in,Nonpartisan,18,0.416,False,False
+154031,NH,Chris Conroy,Democratic,5973,26.339,True,False
+154031,NH,Lisa Mazur,Republican,5701,25.14,True,False
+154031,NH,Bob Jones,Democratic,5642,24.88,False,False
+154031,NH,Ross Berry,Republican,5359,23.632,False,False
+154031,NH,Write-in,Nonpartisan,2,0.009,False,False
+153947,NH,Philip Jones,Democratic,1657,76.359,True,False
+153947,NH,Marissa W. Salisbury,Republican,508,23.41,False,False
+153947,NH,Write-in,Nonpartisan,5,0.23,False,False
+153990,NH,Suzanne A. Beaulieu,Democratic,1313,30.843,True,False
+153990,NH,Michael Joseph,Democratic,1188,27.907,True,False
+153990,NH,Fred Davis,Democratic,1131,26.568,True,False
+153990,NH,John Menyhard,Republican,608,14.282,False,False
+153990,NH,Write-in,Nonpartisan,17,0.399,False,False
+154122,NH,Allan Howland,Democratic,8713,75.997,True,False
+154122,NH,John Colford,Republican,2744,23.934,False,False
+154122,NH,Write-in,Nonpartisan,8,0.07,False,False
+154044,NH,Mariana R. Beer,Democratic,1849,28.355,True,False
+154044,NH,Kenneth Nivison,Democratic,1777,27.25,True,False
+154044,NH,Brian Seaworth,Republican,1495,22.926,False,False
+154044,NH,Peter L. Mehegan,Republican,1400,21.469,False,False
+154044,NH,Write-in,Nonpartisan,0,0.0,False,False
+153920,NH,Dian McCarthy,Democratic,13386,52.441,True,False
+153920,NH,Keith Murphy,Republican,12119,47.477,False,False
+153920,NH,Write-in,Nonpartisan,21,0.082,False,False
+154035,NH,Scott A. Burns,Democratic,1571,28.388,True,False
+154035,NH,Michael Visconti,Republican,1358,24.539,True,False
+154035,NH,Vivian Marie Hall,Democratic,1355,24.485,False,False
+154035,NH,Werner D. Horn,Republican,1224,22.118,False,False
+154035,NH,Write-in,Nonpartisan,26,0.47,False,False
+153995,NH,Frances Nutter-Upham,Democratic,1662,30.681,True,False
+153995,NH,Efstathia C. Booras,Democratic,1660,30.644,True,False
+153995,NH,Christal Lloyd,Democratic,1227,22.651,True,False
+153995,NH,Travis Tripodi,Republican,860,15.876,False,False
+153995,NH,Write-in,Nonpartisan,8,0.148,False,False
+154135,NH,Laura Lapointe,Republican,15832,55.837,False,False
+154135,NH,Maureen Baxley,Democratic,12487,44.04,False,False
+154135,NH,Write-in,Nonpartisan,35,0.123,False,False
+153903,NH,Jim O'Connell,Democratic,60216,53.476,False,False
+153903,NH,John Stephen,Republican,52282,46.43,False,False
+153903,NH,Write-in,Nonpartisan,105,0.093,False,False
+154178,NH,Chuck Massahos,Republican,134960,99.559,False,False
+154178,NH,Write-in,Nonpartisan,598,0.441,False,False
+154061,NH,Kris Schultz,Democratic,4506,98.794,True,False
+154061,NH,Write-in,Nonpartisan,55,1.206,False,False
+154161,NH,George Sykes,Democratic,10230,99.766,False,False
+154161,NH,Write-in,Nonpartisan,24,0.234,False,False
+154108,NH,Daniel Fitzpatrick,Democratic,1203,54.881,True,False
+154108,NH,Denise DeDe-Poulin,Republican,988,45.073,False,False
+154108,NH,Write-in,Nonpartisan,1,0.046,False,False
+153959,NH,Samantha Jacobs,Democratic,9361,35.242,True,False
+153959,NH,Nicholas Germana,Democratic,8913,33.555,True,False
+153959,NH,Becky Shields,Republican,4230,15.925,False,False
+153959,NH,Matthew Roach,Republican,4035,15.191,False,False
+153959,NH,Write-in,Nonpartisan,23,0.087,False,False
+153907,NH,Mark McConkey,Republican,15945,52.511,True,False
+153907,NH,Bobbi Boudman,Democratic,14387,47.38,False,False
+153907,NH,Write-in,Nonpartisan,33,0.109,False,False
+154066,NH,Brian Nadeau,Republican,2471,22.362,True,False
+154066,NH,Cindy Bennett,Republican,2408,21.792,True,False
+154066,NH,Michael Drago,Republican,2381,21.548,True,False
+154066,NH,Christine Pierce,Democratic,1998,18.081,False,False
+154066,NH,Art Hunt,Democratic,1747,15.81,False,False
+154066,NH,Write-in,Nonpartisan,45,0.407,False,False
+153950,NH,Cathryn A. Harvey,Democratic,2477,30.763,True,False
+153950,NH,Paul Berch,Democratic,2378,29.533,True,False
+153950,NH,Sean Graves,Republican,1706,21.187,False,False
+153950,NH,Zachary Nutting,Republican,1491,18.517,False,False
+153950,NH,Write-in,Nonpartisan,0,0.0,False,False
+154166,NH,Mary Ann Crowell,Democratic,90023,55.351,False,False
+154166,NH,Dennis Hogan,Republican,72504,44.58,False,False
+154166,NH,Write-in,Nonpartisan,112,0.069,False,False
+154025,NH,Heidi P. Jakoby,Democratic,7014,26.474,True,False
+154025,NH,Adam Haverstock,Republican,6813,25.715,True,False
+154025,NH,Ted Trost,Republican,6643,25.074,False,False
+154025,NH,Mahendra Bakshi,Democratic,6009,22.681,False,False
+154025,NH,Write-in,Nonpartisan,15,0.057,False,False
+154125,NH,Jenny Ramsey,Democratic,1543,66.681,True,False
+154125,NH,Michael Belanger,Republican,769,33.232,False,False
+154125,NH,Write-in,Nonpartisan,2,0.086,False,False
+154008,NH,Christine Seibert,Democratic,2574,37.207,True,False
+154008,NH,Jeff Goley,Democratic,2484,35.906,True,False
+154008,NH,Chris Morgan,Republican,1853,26.785,False,False
+154008,NH,Write-in,Nonpartisan,7,0.101,False,False
+153998,NH,Will Darby,Democratic,2060,27.97,True,False
+153998,NH,Manoj Chourasia,Democratic,2026,27.508,True,False
+153998,NH,Arya Shams,Democratic,1985,26.952,True,False
+153998,NH,Kristie Hart,Republican,1282,17.407,False,False
+153998,NH,Write-in,Nonpartisan,12,0.163,False,False
+153946,NH,Dru Fox,Democratic,1534,98.082,True,False
+153946,NH,Write-in,Nonpartisan,30,1.918,False,False
+154130,NH,Lawrence A. Schissel,Democratic,3766,53.411,True,False
+154130,NH,Margaret M. Drye,Republican,3284,46.575,False,False
+154130,NH,Write-in,Nonpartisan,1,0.014,False,False
+153989,NH,Catherine A. Rombeau,Democratic,6037,8.175,True,False
+153989,NH,Jeff Kerr,Democratic,5751,7.788,True,False
+153989,NH,John K. Fitzgerald,Democratic,5724,7.751,True,False
+153989,NH,Todd C. Fahey,Democratic,5649,7.65,True,False
+153989,NH,Geoffrey Wellington,Democratic,5631,7.625,True,False
+153989,NH,Ryan Nugent,Democratic,5612,7.6,True,False
+153989,NH,Sheila Quick,Democratic,5434,7.359,True,False
+153989,NH,Brian Labrie,Republican,5126,6.942,False,False
+153989,NH,Kristin Noble,Republican,5056,6.847,False,False
+153989,NH,Peter M. Kujawski,Republican,4908,6.646,False,False
+153989,NH,John Schneller,Republican,4803,6.504,False,False
+153989,NH,Pat MacMonagle,Republican,4744,6.424,False,False
+153989,NH,Matthew Castanien,Republican,4679,6.336,False,False
+153989,NH,Phil Greazzo,Republican,4670,6.324,False,False
+153989,NH,Write-in,Nonpartisan,21,0.028,False,False
+153981,NH,Russell Muirhead,Democratic,5269,25.071,True,False
+153981,NH,Mary Hakken-Phillips,Democratic,5262,25.038,True,False
+153981,NH,Ellen Rockmore,Democratic,5253,24.995,True,False
+153981,NH,Terry Spahr,Democratic,5123,24.377,True,False
+153981,NH,Write-in,Nonpartisan,109,0.519,False,False
+154089,NH,Gerald W. R. Ward,Democratic,1461,99.051,True,False
+154089,NH,Write-in,Nonpartisan,14,0.949,False,False
+153972,NH,Jerry M. Stringham,Democratic,1047,63.493,True,False
+153972,NH,Bonnie Ham,Republican,598,36.264,False,False
+153972,NH,Write-in,Nonpartisan,4,0.243,False,False
+154047,NH,Tracy Bricchi,Democratic,1469,98.856,True,False
+154047,NH,Write-in,Nonpartisan,17,1.144,False,False
+154147,NH,Eli Rivera,Democratic,24831,99.463,False,False
+154147,NH,Write-in,Nonpartisan,134,0.537,False,False
+154094,NH,Melissa A. Litchfield,Republican,3975,55.04,True,False
+154094,NH,Kaley Dvorak,Democratic,3244,44.918,False,False
+154094,NH,Write-in,Nonpartisan,3,0.042,False,False
+154177,NH,Vincent S. Ribas,Democratic,10570,50.674,False,False
+154177,NH,Harold F. French,Republican,10264,49.207,False,False
+154177,NH,Write-in,Nonpartisan,25,0.12,False,False
+154169,NH,Sherry Dutzy,Democratic,23945,53.511,False,False
+154169,NH,David G. Fredette,Republican,20765,46.404,False,False
+154169,NH,Write-in,Nonpartisan,38,0.085,False,False
+154060,NH,Lisa Brown,Democratic,3531,98.908,True,False
+154060,NH,Write-in,Nonpartisan,39,1.092,False,False
+154052,NH,Nathan Giffard,Democratic,1110,71.199,True,False
+154052,NH,Jonathan Clark,Republican,446,28.608,False,False
+154052,NH,Write-in,Nonpartisan,3,0.192,False,False
+153936,NH,Lisa M. Freeman,Republican,3115,26.472,True,False
+153936,NH,Cameron Thompson,Republican,3069,26.081,True,False
+153936,NH,Donald J. Giguere,Democratic,2799,23.787,False,False
+153936,NH,Don House,Democratic,2779,23.617,False,False
+153936,NH,Write-in,Nonpartisan,5,0.042,False,False
+153928,NH,Debra Altschiller,Democratic,19403,60.451,True,False
+153928,NH,Lou Gargiulo,Republican,12681,39.508,False,False
+153928,NH,Write-in,Nonpartisan,13,0.041,False,False
+154043,NH,Al Turcotte,Democratic,1040,55.556,True,False
+154043,NH,Matthew Pitaro,Republican,830,44.338,False,False
+154043,NH,Write-in,Nonpartisan,2,0.107,False,False
+154111,NH,Nevin Dexter,Democratic,1043,60.324,True,False
+154111,NH,Robert Qua,Republican,683,39.503,False,False
+154111,NH,Write-in,Nonpartisan,3,0.174,False,False
+154186,NH,Emily C. Garod,Democratic,54437,99.873,False,False
+154186,NH,Write-in,Nonpartisan,69,0.127,False,False
+153941,NH,Steven Brown,Republican,833,41.463,True,False
+153941,NH,Morgan Bultman,Democratic,787,39.174,False,False
+153941,NH,Write-in,Nonpartisan,389,19.363,False,False
+153984,NH,Zoe Hill,Democratic,1820,99.183,True,False
+153984,NH,Write-in,Nonpartisan,15,0.817,False,False
+154124,NH,Brian Sullivan,Democratic,1476,71.408,True,False
+154124,NH,Joel T. Hutchins,Republican,590,28.544,False,False
+154124,NH,Write-in,Nonpartisan,1,0.048,False,False
+154116,NH,Peter B. Schmidt,Democratic,2113,99.155,True,False
+154116,NH,Write-in,Nonpartisan,18,0.845,False,False
+154199,NH,Jim Bednar,Democratic,7797,53.164,False,False
+154199,NH,Bennie Nelson,Republican,6857,46.754,False,False
+154199,NH,Write-in,Nonpartisan,12,0.082,False,False
+153967,NH,Peter Morency,Republican,1577,38.37,True,False
+153967,NH,Mark Evans,Republican,1534,37.324,True,False
+153967,NH,Cassie Mason,Independent,987,24.015,False,False
+153967,NH,Write-in,Nonpartisan,12,0.292,False,False
+154107,NH,William F. Fessenden,Democratic,1323,57.075,True,False
+154107,NH,Jenny Wilson,Republican,993,42.839,False,False
+154107,NH,Write-in,Nonpartisan,2,0.086,False,False
+154150,NH,Anna Z. Tilton,Democratic,14237,99.006,False,False
+154150,NH,Write-in,Nonpartisan,143,0.994,False,False
+154033,NH,Lorrie J. Carey,Democratic,802,52.248,True,False
+154033,NH,Rick Devoid,Republican,728,47.427,False,False
+154033,NH,Write-in,Nonpartisan,5,0.326,False,False
+154172,NH,Meg Hagaman,Republican,33740,50.702,False,False
+154172,NH,Steven Endres,Democratic,32720,49.169,False,False
+154172,NH,Write-in,Nonpartisan,86,0.129,False,False
+154055,NH,Kristopher Levesque,Democratic,1014,64.627,True,False
+154055,NH,Andrew Georgevits,Republican,555,35.373,False,False
+153971,NH,Jared Sullivan,Democratic,1550,98.601,True,False
+153971,NH,Write-in,Nonpartisan,22,1.399,False,False
+154155,NH,Ray Gorman,Republican,3851,99.974,False,False
+154155,NH,Write-in,Nonpartisan,1,0.026,False,False
+154046,NH,Gary Matteson,Republican,1382,58.092,True,False
+154046,NH,Glenn Horner,Democratic,991,41.656,False,False
+154046,NH,Write-in,Nonpartisan,6,0.252,False,False
+154038,NH,Tom Schamberg,Democratic,1266,62.12,True,False
+154038,NH,Paul M. Little,Republican,769,37.733,False,False
+154038,NH,Write-in,Nonpartisan,3,0.147,False,False
+153922,NH,Leonard Bell,Democratic,10709,54.955,True,False
+153922,NH,Victoria Sullivan,Republican,8758,44.943,False,False
+153922,NH,Write-in,Nonpartisan,20,0.103,False,False
+154189,NH,Jan Nedelka,Democratic,33406,60.889,False,False
+154189,NH,Nancy Sirois,Republican,21427,39.055,False,False
+154189,NH,Write-in,Nonpartisan,31,0.057,False,False
+153905,NH,David Rochefort,Republican,12987,53.322,True,False
+153905,NH,Cathleen A. Fountain,Democratic,11361,46.646,False,False
+153905,NH,Write-in,Nonpartisan,8,0.033,False,False
+154019,NH,Diane Kelley,Republican,2778,22.164,True,False
+154019,NH,Shane Sirois,Republican,2638,21.047,True,False
+154019,NH,Jim Kofalt,Republican,2599,20.736,True,False
+154019,NH,Kermit Williams,Democratic,2275,18.151,False,False
+154019,NH,Richard Swanson,Democratic,2205,17.592,False,False
+154019,NH,Write-in,Nonpartisan,39,0.311,False,False
+154119,NH,Jessica LaMontagne,Democratic,1566,70.319,True,False
+154119,NH,Matthew D. Albion,Republican,659,29.591,False,False
+154119,NH,Write-in,Nonpartisan,2,0.09,False,False
+154042,NH,William Lynch,Democratic,4315,14.218,True,False
+154042,NH,Lucas J. Coriaty,Democratic,3924,12.93,True,False
+154042,NH,Thomas C. Walsh,Republican,3839,12.65,True,False
+154042,NH,Germano Mendes Martins,Democratic,3799,12.518,True,False
+154042,NH,Ricky Gurung,Democratic,3734,12.304,False,False
+154042,NH,Pamela McMahon,Republican,3644,12.007,False,False
+154042,NH,Stephen Boyd,Republican,3620,11.928,False,False
+154042,NH,Yury Polozov,Republican,3469,11.43,False,False
+154042,NH,Write-in,Nonpartisan,5,0.016,False,False
+154194,NH,Christine Hilliard,Democratic,10155,99.383,False,False
+154194,NH,Write-in,Nonpartisan,63,0.617,False,False
+154110,NH,Ty Wyman,Democratic,1182,57.046,True,False
+154110,NH,David Walker,Republican,888,42.857,False,False
+154110,NH,Write-in,Nonpartisan,2,0.097,False,False
+153910,NH,James P. Gray,Republican,12245,51.573,True,False
+153910,NH,Cecil Abels,Democratic,11456,48.25,False,False
+153910,NH,Write-in,Nonpartisan,42,0.177,False,False
+153961,NH,Jennie Gomarlo,Democratic,3731,51.957,True,False
+153961,NH,Jennifer Rhodes,Republican,3437,47.862,False,False
+153961,NH,Write-in,Nonpartisan,13,0.181,False,False
+154068,NH,Eric S. Turer,Democratic,1450,54.758,True,False
+154068,NH,Allen Cook,Republican,1198,45.242,False,False
+154068,NH,Write-in,Nonpartisan,0,0.0,False,False
+153944,NH,Colin Mitchell,Republican,5379,26.622,True,False
+153944,NH,George Randell,Democratic,5070,25.093,True,False
+153944,NH,Tammy Garthwaite,Republican,5068,25.083,False,False
+153944,NH,Jim Pittman,Democratic,4677,23.148,False,False
+153944,NH,Write-in,Nonpartisan,11,0.054,False,False
+154158,NH,Michael J. Cryans,Democratic,25332,65.42,False,False
+154158,NH,Brian Dear,Republican,13358,34.497,False,False
+154158,NH,Write-in,Nonpartisan,32,0.083,False,False
+154106,NH,Scott Shepard,Democratic,3840,19.307,True,False
+154106,NH,Kimberly S. McGlinchey,Democratic,3713,18.669,True,False
+154106,NH,Ginna Schonwald,Democratic,3624,18.221,True,False
+154106,NH,Kurt Wuelper,Republican,3070,15.436,False,False
+154106,NH,JoAnne Hack,Republican,2880,14.48,False,False
+154106,NH,Tanya Rich,Republican,2755,13.852,False,False
+154106,NH,Write-in,Nonpartisan,7,0.035,False,False
+154073,NH,Julie Gilman,Democratic,5656,23.18,True,False
+154073,NH,Mark Paige,Democratic,5409,22.168,True,False
+154073,NH,Enna Grazier,Democratic,5337,21.873,True,False
+154073,NH,Steven C. Jones,Democratic,5294,21.697,True,False
+154073,NH,Robert Goeman,Republican,2659,10.898,False,False
+154073,NH,Write-in,Nonpartisan,45,0.184,False,False
+154149,NH,Jack Wozmak,Democratic,14147,98.958,False,False
+154149,NH,Write-in,Nonpartisan,149,1.042,False,False
+154141,NH,"Matt Sawyer, Jr.",Republican,16215,99.302,False,False
+154141,NH,Write-in,Nonpartisan,114,0.698,False,False
+154000,NH,Kate Messner,Democratic,5011,9.446,True,False
+154000,NH,James M. Caron,Democratic,4776,9.003,True,False
+154000,NH,Cathy Kenny,Republican,4771,8.994,True,False
+154000,NH,Dillon Dumont,Republican,4764,8.981,True,False
+154000,NH,Jordan Ulery,Republican,4699,8.858,True,False
+154000,NH,Tom Trost,Republican,4697,8.854,True,False
+154000,NH,James Battis,Democratic,4587,8.647,False,False
+154000,NH,Andrew Prout,Republican,4556,8.589,False,False
+154000,NH,Don Staveley,Democratic,4489,8.462,False,False
+154000,NH,Bob Wherry,Republican,4456,8.4,False,False
+154000,NH,Luan Baci,Democratic,4407,8.308,False,False
+154000,NH,C. Mark DelSesto,Independent,1815,3.421,False,False
+154000,NH,Write-in,Nonpartisan,19,0.036,False,False
+153992,NH,Heather Raymond,Democratic,2676,26.824,True,False
+153992,NH,Susan A. Elberger,Democratic,2668,26.744,True,False
+153992,NH,Dale Swanson,Democratic,2629,26.353,True,False
+153992,NH,Paul Schibbelhute,Republican,1973,19.777,False,False
+153992,NH,Write-in,Nonpartisan,30,0.301,False,False
+154132,NH,Bill Wright,Republican,27451,99.583,False,False
+154132,NH,Write-in,Nonpartisan,115,0.417,False,False
+154175,NH,Jane Bradstreet,Democratic,38561,60.49,False,False
+154175,NH,Alyssa Ehl,Republican,25118,39.402,False,False
+154175,NH,Write-in,Nonpartisan,69,0.108,False,False
+154083,NH,Anna Howard,Democratic,2087,98.816,True,False
+154083,NH,Write-in,Nonpartisan,25,1.184,False,False
+154005,NH,Jessica Grill,Democratic,1995,37.599,True,False
+154005,NH,James Normand,Democratic,1965,37.034,True,False
+154005,NH,Steven Kesselring,Republican,1343,25.311,False,False
+154005,NH,Write-in,Nonpartisan,3,0.057,False,False
+153921,NH,Howard Pearl,Republican,13767,51.992,True,False
+153921,NH,Robert Lawliss,Democratic,12681,47.891,False,False
+153921,NH,Write-in,Nonpartisan,31,0.117,False,False
+153913,NH,Matthew McLaughlin,Democratic,14352,53.546,True,False
+153913,NH,Denise Ricciardi,Republican,12417,46.327,False,False
+153913,NH,Write-in,Nonpartisan,34,0.127,False,False
+154188,NH,Catherine A. Berube,Democratic,54157,99.884,False,False
+154188,NH,Write-in,Nonpartisan,63,0.116,False,False
+154180,NH,Kevin Coyle,Democratic,70916,50.504,False,False
+154180,NH,Scott Priestley,Republican,69416,49.436,False,False
+154180,NH,Write-in,Nonpartisan,84,0.06,False,False
+154096,NH,Mark A. Pearson,Republican,4964,55.869,True,False
+154096,NH,Jade DeMio,Democratic,3915,44.063,False,False
+154096,NH,Write-in,Nonpartisan,6,0.068,False,False
+154063,NH,Hal Rafter,Democratic,2638,18.238,True,False
+154063,NH,Pamela Sanderson,Democratic,2601,17.983,True,False
+154063,NH,Donna Danis,Democratic,2548,17.616,True,False
+154063,NH,Scott Bryer,Republican,2314,15.998,False,False
+154063,NH,James Guzofski,Republican,2182,15.086,False,False
+154063,NH,Paul Tudor,Republican,2174,15.03,False,False
+154063,NH,Write-in,Nonpartisan,7,0.048,False,False
+154171,NH,Peter Shephard,Democratic,38083,56.817,False,False
+154171,NH,Frank T. Cassidy,Republican,28865,43.065,False,False
+154171,NH,Write-in,Nonpartisan,79,0.118,False,False
+154022,NH,Ben Ming,Democratic,2642,27.418,True,False
+154022,NH,Kat McGhee,Democratic,2606,27.044,True,False
+154022,NH,Liz Barbour,Republican,2244,23.288,False,False
+154022,NH,Jim Kelly,Republican,2141,22.219,False,False
+154022,NH,Write-in,Nonpartisan,3,0.031,False,False
+153930,NH,Seth Wheeler,Democratic,1866,26.803,True,False
+153930,NH,Matt Coker,Republican,1782,25.596,True,False
+153930,NH,Scott Wallace,Republican,1666,23.93,False,False
+153930,NH,Dean S.T. Cascadden,Democratic,1643,23.6,False,False
+153930,NH,Write-in,Nonpartisan,5,0.072,False,False
+154101,NH,Barbara M. Ward,Democratic,5203,74.35,True,False
+154101,NH,Sue Polidura,Republican,1789,25.564,False,False
+154101,NH,Write-in,Nonpartisan,6,0.086,False,False
+154144,NH,Gene G. Chandler,Republican,13509,50.987,False,False
+154144,NH,Wharton Sinkler,Democratic,12964,48.93,False,False
+154144,NH,Write-in,Nonpartisan,22,0.083,False,False
+154067,NH,Mark Vallone,Democratic,2156,29.143,True,False
+154067,NH,John Scully,Republican,1842,24.899,True,False
+154067,NH,Joseph Perry,Democratic,1727,23.344,False,False
+154067,NH,Trevor Morse,Republican,1671,22.587,False,False
+154067,NH,Write-in,Nonpartisan,2,0.027,False,False
+154027,NH,Erin Kerwin,Democratic,9014,16.362,True,False
+154027,NH,Mark S. Mackenzie,Democratic,8849,16.063,True,False
+154027,NH,Trinidad Tellez,Democratic,8627,15.66,True,False
+154027,NH,Robert Richard-Snipes,Democratic,8450,15.339,True,False
+154027,NH,Bill O'Brien,Republican,5320,9.657,False,False
+154027,NH,Carlos Gonzalez,Republican,5073,9.209,False,False
+154027,NH,Lynne M. Cumming,Republican,4918,8.927,False,False
+154027,NH,Robert Rivera,Republican,4818,8.746,False,False
+154027,NH,Write-in,Nonpartisan,21,0.038,False,False
+153943,NH,Dale Fincher,Republican,4025,52.546,True,False
+153943,NH,Karen Burnett-Kurie,Democratic,3618,47.232,False,False
+153943,NH,Write-in,Nonpartisan,17,0.222,False,False
+154127,NH,Ron Rule,Republican,1340,55.031,True,False
+154127,NH,Christopher J. Salmon,Democratic,1090,44.764,False,False
+154127,NH,Write-in,Nonpartisan,5,0.205,False,False
+153986,NH,Thomas Cormen,Democratic,5329,99.422,True,False
+153986,NH,Write-in,Nonpartisan,31,0.578,False,False
+154086,NH,Michael J. Moody,Democratic,3462,29.817,True,False
+154086,NH,Dennis Malloy,Democratic,3444,29.662,True,False
+154086,NH,Marilyn Page,Republican,2423,20.868,False,False
+154086,NH,Kevin Szmyd,Republican,2281,19.645,False,False
+154086,NH,Write-in,Nonpartisan,1,0.009,False,False
+153969,NH,Corinne Cascadden,Democratic,2698,53.394,True,False
+153969,NH,Lori Korzen,Republican,2347,46.448,False,False
+153969,NH,Write-in,Nonpartisan,8,0.158,False,False
+87283,NH,Chris Pappas,Democratic,355898,55.843,True,False
+87283,NH,John E. Sununu,Republican,268559,42.139,False,False
+87283,NH,Edmond Laplante,Constitution,12089,1.897,False,False
+87283,NH,Write-in,Nonpartisan,778,0.122,False,False
+87281,NH,Stefany Shaheen,Democratic,180683,56.956,True,False
+87281,NH,Anthony DiLorenzo,Republican,136041,42.884,False,False
+87281,NH,Write-in,Nonpartisan,508,0.16,False,False
+87282,NH,Maggie Goodlander,Democratic,187657,59.009,True,False
+87282,NH,Lily Tang Williams,Republican,122645,38.566,False,False
+87282,NH,Robbie Mahrou,Independent,7478,2.351,False,False
+87282,NH,Write-in,Nonpartisan,234,0.074,False,False

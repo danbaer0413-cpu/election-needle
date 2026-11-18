@@ -1,0 +1,502 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+154929,MD,Maryland Supreme Court Appellate Circuit 4 - Justice Peter Killough Retention,2026-11-03,4.2,,False,2,24,259991,2026-11-18T14:46+00:00
+154930,MD,Maryland Appellate Court At Large - Judge Dan Friedman Retention,2026-11-03,99.9,,False,2,24,1865481,2026-11-18T14:46+00:00
+155237,MD,Maryland Question 3 - Electoral Districts - General Assembly and Congressional Representatives,2026-11-03,99.9,2026-11-17T03:50:43.245Z,False,2,24,2157640,2026-11-18T14:46+00:00
+155235,MD,Maryland Question 1 - Arbitration Reform for State Employees Act of 2026,2026-11-03,99.9,2026-11-17T03:50:43.245Z,False,2,24,2090002,2026-11-18T14:46+00:00
+155236,MD,Maryland Question 2 - Temporary Appointments on the Commission on Judicial Disabilities,2026-11-03,99.9,2026-11-17T03:50:43.245Z,False,2,24,2097981,2026-11-18T14:46+00:00
+87198,MD,Maryland Governor,2026-11-03,89.4,2026-11-04T02:18:31.025Z,False,5,24,2240061,2026-11-18T14:46+00:00
+87199,MD,Maryland Attorney General,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,3,24,2225441,2026-11-18T14:46+00:00
+87200,MD,Maryland Comptroller,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,3,24,2208950,2026-11-18T14:46+00:00
+159533,MD,Maryland House of Delegates,2026-11-03,98.5,,False,7,71,4425292,2026-11-18T14:46+00:00
+159534,MD,Maryland State Senate,2026-11-03,97.8,,False,4,47,2121063,2026-11-18T14:46+00:00
+155161,MD,Maryland Treasurer Saint Mary's,2026-11-03,99.9,,False,2,1,29103,2026-11-18T14:46+00:00
+154804,MD,Maryland State Senate 5,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,2,55726,2026-11-18T14:46+00:00
+154987,MD,Maryland Clerk of the Circuit Court Calvert,2026-11-03,99.9,,False,2,1,24153,2026-11-18T14:46+00:00
+154822,MD,Maryland State Senate 23,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,1,57227,2026-11-18T14:46+00:00
+154881,MD,Maryland House of Delegates 27B,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,3,2,20682,2026-11-18T14:46+00:00
+154813,MD,Maryland State Senate 14,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,2,1,42588,2026-11-18T14:46+00:00
+154840,MD,Maryland State Senate 41,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,2,1,35672,2026-11-18T14:46+00:00
+154899,MD,Maryland House of Delegates 37A,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,2,2,9744,2026-11-18T14:46+00:00
+154831,MD,Maryland State Senate 32,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,1,42027,2026-11-18T14:46+00:00
+186034,MD,Maryland Howard County Question B - Charter Amendment,2026-11-03,99.9,,False,2,1,112497,2026-11-18T14:46+00:00
+154949,MD,Maryland Clerk of the Circuit Court Anne Arundel,2026-11-03,99.9,,False,3,1,195308,2026-11-18T14:46+00:00
+155100,MD,Maryland County Commissioner Kent,2026-11-03,99.9,,False,7,1,19024,2026-11-18T14:46+00:00
+154960,MD,Maryland County Council Baltimore County Councilmanic District 1,2026-11-03,99.9,,False,4,1,23868,2026-11-18T14:46+00:00
+154926,MD,Maryland Judge of the Circuit Court Circuit 7 Prince George's,2026-11-03,99.9,,False,10,1,1394233,2026-11-18T14:46+00:00
+154978,MD,Maryland Board of Education Baltimore County Board of Education District 5,2026-11-03,99.9,,False,2,1,25011,2026-11-18T14:46+00:00
+186024,MD,Maryland Baltimore County Question M - County Ordinance,2026-11-03,99.9,,False,2,1,233289,2026-11-18T14:46+00:00
+155099,MD,Maryland Board of Education Howard,2026-11-03,99.9,,False,4,1,164682,2026-11-18T14:46+00:00
+154866,MD,Maryland House of Delegates 13,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,5,1,124367,2026-11-18T14:46+00:00
+154925,MD,Maryland Judge of the Circuit Court Circuit 6 Montgomery,2026-11-03,99.9,,False,5,1,828934,2026-11-18T14:46+00:00
+155009,MD,Maryland Board of Education Carroll,2026-11-03,99.9,,False,7,1,145693,2026-11-18T14:46+00:00
+154916,MD,Maryland House of Delegates 47A,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,4,1,30164,2026-11-18T14:46+00:00
+155160,MD,Maryland County Commissioner Saint Mary's Commissioner District 4,2026-11-03,99.9,,False,4,1,36407,2026-11-18T14:46+00:00
+155027,MD,Maryland Clerk of the Circuit Court Charles,2026-11-03,99.9,,False,2,1,51436,2026-11-18T14:46+00:00
+154934,MD,Maryland Register of Wills Allegany,2026-11-03,99.9,,False,2,1,16678,2026-11-18T14:46+00:00
+154986,MD,Maryland State's Attorney Calvert,2026-11-03,99.9,,False,2,1,24598,2026-11-18T14:46+00:00
+154853,MD,Maryland House of Delegates 4,2026-11-03,99.9,,False,7,1,168611,2026-11-18T14:46+00:00
+154812,MD,Maryland State Senate 13,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,2,1,45733,2026-11-18T14:46+00:00
+155063,MD,Maryland County Commissioner Garrett Commissioner District 3,2026-11-03,99.9,,False,3,1,9051,2026-11-18T14:46+00:00
+186006,MD,Maryland Baltimore City Question D - Bond Issue,2026-11-03,99.9,,False,2,1,121143,2026-11-18T14:46+00:00
+155081,MD,Maryland Register of Wills Harford,2026-11-03,99.9,,False,3,1,94695,2026-11-18T14:46+00:00
+154976,MD,Maryland Board of Education Baltimore County Board of Education District 3,2026-11-03,99.9,,False,3,1,31030,2026-11-18T14:46+00:00
+154811,MD,Maryland State Senate 12,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,2,2,41471,2026-11-18T14:46+00:00
+154994,MD,Maryland Clerk of the Circuit Court Caroline,2026-11-03,99.9,,False,2,1,8724,2026-11-18T14:46+00:00
+186005,MD,Maryland Baltimore City Question C - Bond Issue,2026-11-03,99.9,,False,2,1,120982,2026-11-18T14:46+00:00
+155112,MD,Maryland County Council Montgomery Councilmanic District 4,2026-11-03,99.9,,False,2,1,40923,2026-11-18T14:46+00:00
+154820,MD,Maryland State Senate 21,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,2,36468,2026-11-18T14:46+00:00
+186023,MD,Maryland Baltimore County Question L - County Ordinance,2026-11-03,99.9,,False,2,1,232925,2026-11-18T14:46+00:00
+155130,MD,Maryland County Council Prince George's Councilmanic District 5,2026-11-03,99.9,,False,2,1,22494,2026-11-18T14:46+00:00
+186014,MD,Maryland Baltimore County Question C - Charter Amendment,2026-11-03,99.9,,False,2,1,224766,2026-11-18T14:46+00:00
+154865,MD,Maryland House of Delegates 12B,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,4,1,12319,2026-11-18T14:46+00:00
+154956,MD,Maryland Judge of the Orphans' Court Baltimore City,2026-11-03,99.9,,False,4,1,270191,2026-11-18T14:46+00:00
+154915,MD,Maryland House of Delegates 46,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,5,1,87335,2026-11-18T14:46+00:00
+155191,MD,Maryland Board of Education Talbot Board of Education District 7,2026-11-03,99.9,,False,3,1,2116,2026-11-18T14:46+00:00
+154933,MD,Maryland Clerk of the Circuit Court Allegany,2026-11-03,99.9,,False,2,1,16654,2026-11-18T14:46+00:00
+155209,MD,Maryland Clerk of the Circuit Court Wicomico,2026-11-03,99.9,,False,2,1,22501,2026-11-18T14:46+00:00
+154914,MD,Maryland House of Delegates 45,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,5,1,82378,2026-11-18T14:46+00:00
+186049,MD,Maryland Wicomico County Question D - Charter Amendment,2026-11-03,99.9,,False,2,1,27109,2026-11-18T14:46+00:00
+154932,MD,Maryland State's Attorney Allegany,2026-11-03,99.9,,False,2,1,16132,2026-11-18T14:46+00:00
+154824,MD,Maryland State Senate 25,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,2,1,45977,2026-11-18T14:46+00:00
+154923,MD,Maryland Judge of the Circuit Court Circuit 5 Howard,2026-11-03,99.9,,False,2,1,89013,2026-11-18T14:46+00:00
+154975,MD,Maryland Board of Education Baltimore County Board of Education District 2,2026-11-03,99.9,,False,2,1,25940,2026-11-18T14:46+00:00
+155034,MD,Maryland Board of Education Charles Commissioner District 4,2026-11-03,99.9,,False,3,1,18787,2026-11-18T14:46+00:00
+154966,MD,Maryland County Council Baltimore County Councilmanic District 7,2026-11-03,99.9,,False,3,1,31568,2026-11-18T14:46+00:00
+154993,MD,Maryland State's Attorney Caroline,2026-11-03,99.9,,False,2,1,8645,2026-11-18T14:46+00:00
+154860,MD,Maryland House of Delegates 9B,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,2,1,15013,2026-11-18T14:46+00:00
+154819,MD,Maryland State Senate 20,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,2,1,39147,2026-11-18T14:46+00:00
+154878,MD,Maryland House of Delegates 25,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,4,1,116552,2026-11-18T14:46+00:00
+186013,MD,Maryland Baltimore County Question B - Charter Amendment,2026-11-03,99.9,,False,2,1,230416,2026-11-18T14:46+00:00
+155088,MD,Maryland Board of Education Harford Councilmanic District F,2026-11-03,99.9,,False,3,1,13796,2026-11-18T14:46+00:00
+155079,MD,Maryland State's Attorney Harford,2026-11-03,99.9,,False,2,1,77097,2026-11-18T14:46+00:00
+154809,MD,Maryland State Senate 10,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,2,1,40836,2026-11-18T14:46+00:00
+186012,MD,Maryland Baltimore County Question A - Charter Amendment,2026-11-03,99.9,,False,2,1,228948,2026-11-18T14:46+00:00
+186003,MD,Maryland Baltimore City Question A - Bond Issue,2026-11-03,99.9,,False,2,1,122883,2026-11-18T14:46+00:00
+155078,MD,Maryland County Council Harford Councilmanic District F,2026-11-03,99.9,,False,3,1,16545,2026-11-18T14:46+00:00
+154945,MD,Maryland County Council Anne Arundel Councilmanic District 5,2026-11-03,99.9,,False,3,1,33876,2026-11-18T14:46+00:00
+186021,MD,Maryland Baltimore County Question J - County Ordinance,2026-11-03,99.9,,False,2,1,230088,2026-11-18T14:46+00:00
+186048,MD,Maryland Wicomico County Question C - Charter Amendment,2026-11-03,99.9,,False,2,1,26975,2026-11-18T14:46+00:00
+155180,MD,Maryland Board of Education Somerset Commissioner District 3,2026-11-03,99.9,,False,3,1,1456,2026-11-18T14:46+00:00
+186039,MD,Maryland Prince George's County Question E - Charter Amendment,2026-11-03,99.9,,False,2,1,236168,2026-11-18T14:46+00:00
+154922,MD,Maryland Judge of the Circuit Court Circuit 5 Anne Arundel,2026-11-03,99.9,,False,4,1,282760,2026-11-18T14:46+00:00
+155006,MD,Maryland Register of Wills Carroll,2026-11-03,99.9,,False,2,1,51393,2026-11-18T14:46+00:00
+154965,MD,Maryland County Council Baltimore County Councilmanic District 6,2026-11-03,99.9,,False,3,1,25780,2026-11-18T14:46+00:00
+155216,MD,Maryland Board of Education Wicomico Councilmanic District 5,2026-11-03,99.9,,False,2,1,3182,2026-11-18T14:46+00:00
+154983,MD,Maryland County Commissioner Calvert Commissioner District 2,2026-11-03,99.9,,False,2,1,24119,2026-11-18T14:46+00:00
+155234,MD,Maryland Board of Education Worcester Commissioner District 7,2026-11-03,99.9,,False,2,1,2059,2026-11-18T14:46+00:00
+154912,MD,Maryland House of Delegates 44A,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,3,1,12262,2026-11-18T14:46+00:00
+154964,MD,Maryland County Council Baltimore County Councilmanic District 5,2026-11-03,99.9,,False,4,1,34557,2026-11-18T14:46+00:00
+155122,MD,Maryland Board of Education Montgomery Board of Education District 3,2026-11-03,99.9,,False,3,1,242753,2026-11-18T14:46+00:00
+154982,MD,Maryland County Commissioner Calvert Commissioner District 1,2026-11-03,99.9,,False,3,1,33851,2026-11-18T14:46+00:00
+154849,MD,Maryland House of Delegates 1C,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,3,2,14800,2026-11-18T14:46+00:00
+154973,MD,Maryland Sheriff Baltimore County,2026-11-03,99.9,,False,4,1,235727,2026-11-18T14:46+00:00
+154808,MD,Maryland State Senate 9,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,2,55567,2026-11-18T14:46+00:00
+154867,MD,Maryland House of Delegates 14,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,4,1,110962,2026-11-18T14:46+00:00
+154991,MD,Maryland Board of Education At Large Calvert,2026-11-03,99.9,,False,5,1,51809,2026-11-18T14:46+00:00
+186002,MD,Maryland Anne Arundel County Question C - Charter Amendment,2026-11-03,99.9,,False,2,1,183041,2026-11-18T14:46+00:00
+155109,MD,Maryland County Council Montgomery Councilmanic District 1,2026-11-03,99.9,,False,3,1,52998,2026-11-18T14:46+00:00
+186020,MD,Maryland Baltimore County Question I - County Ordinance,2026-11-03,99.9,,False,2,1,230456,2026-11-18T14:46+00:00
+154903,MD,Maryland House of Delegates 38C,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,2,2,16632,2026-11-18T14:46+00:00
+155086,MD,Maryland Board of Education Harford Councilmanic District D,2026-11-03,99.9,,False,3,1,15276,2026-11-18T14:46+00:00
+155145,MD,Maryland County Commissioner Queen Anne's Commissioner District 1,2026-11-03,99.9,,False,2,1,16745,2026-11-18T14:46+00:00
+155232,MD,Maryland Board of Education Worcester Commissioner District 4,2026-11-03,99.9,,False,2,1,2252,2026-11-18T14:46+00:00
+186019,MD,Maryland Baltimore County Question H - County Ordinance,2026-11-03,99.9,,False,2,1,229591,2026-11-18T14:46+00:00
+154834,MD,Maryland State Senate 35,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,2,56506,2026-11-18T14:46+00:00
+155085,MD,Maryland Board of Education Harford Councilmanic District C,2026-11-03,99.9,,False,3,1,14755,2026-11-18T14:46+00:00
+155169,MD,Maryland County Commissioner Somerset Commissioner District 1,2026-11-03,99.9,,False,2,1,786,2026-11-18T14:46+00:00
+155076,MD,Maryland County Council Harford Councilmanic District D,2026-11-03,99.9,,False,3,1,18405,2026-11-18T14:46+00:00
+154911,MD,Maryland House of Delegates 43B,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,2,1,11861,2026-11-18T14:46+00:00
+154995,MD,Maryland Register of Wills Caroline,2026-11-03,99.9,,False,2,1,8739,2026-11-18T14:46+00:00
+155094,MD,Maryland County Council Howard Councilmanic District 5,2026-11-03,99.9,,False,3,1,26640,2026-11-18T14:46+00:00
+155121,MD,Maryland Board of Education Montgomery Board of Education District 1,2026-11-03,99.9,,False,2,1,230827,2026-11-18T14:46+00:00
+155013,MD,Maryland State's Attorney Cecil,2026-11-03,99.9,,False,2,1,22625,2026-11-18T14:46+00:00
+154972,MD,Maryland Judge of the Orphans' Court Baltimore County,2026-11-03,99.9,,False,4,1,449794,2026-11-18T14:46+00:00
+155031,MD,Maryland Board of Education Charles Commissioner District 1,2026-11-03,99.9,,False,5,1,20155,2026-11-18T14:46+00:00
+155214,MD,Maryland Board of Education Wicomico Councilmanic District 3,2026-11-03,99.9,,False,3,1,1705,2026-11-18T14:46+00:00
+155049,MD,Maryland County Council At Large Frederick,2026-11-03,99.9,,False,5,1,179384,2026-11-18T14:46+00:00
+155143,MD,Maryland Board of Education Prince George's Board of Education District 9,2026-11-03,99.9,,False,3,1,35441,2026-11-18T14:46+00:00
+154971,MD,Maryland Register of Wills Baltimore County,2026-11-03,99.9,,False,3,1,236169,2026-11-18T14:46+00:00
+154937,MD,Maryland Board of Education Allegany,2026-11-03,99.9,,False,7,1,40501,2026-11-18T14:46+00:00
+155213,MD,Maryland Board of Education Wicomico Councilmanic District 2,2026-11-03,99.9,,False,2,1,4263,2026-11-18T14:46+00:00
+186032,MD,Maryland Board of Education Garrett Commissioner District 3,2026-11-03,99.9,,False,1,1,473,2026-11-18T14:46+00:00
+154980,MD,Maryland Board of Education Baltimore County Board of Education District 7,2026-11-03,99.9,,False,3,1,21500,2026-11-18T14:46+00:00
+155231,MD,Maryland Board of Education Worcester Commissioner District 1,2026-11-03,99.9,,False,3,1,2423,2026-11-18T14:46+00:00
+154874,MD,Maryland House of Delegates 21,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,4,2,82974,2026-11-18T14:46+00:00
+155222,MD,Maryland County Commissioner Worcester Commissioner District 4,2026-11-03,99.9,,False,2,1,2558,2026-11-18T14:46+00:00
+154833,MD,Maryland State Senate 34,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,1,51663,2026-11-18T14:46+00:00
+155116,MD,Maryland State's Attorney Montgomery,2026-11-03,99.9,,False,2,1,272165,2026-11-18T14:46+00:00
+155075,MD,Maryland County Council Harford Councilmanic District C,2026-11-03,99.9,,False,3,1,16701,2026-11-18T14:46+00:00
+154942,MD,Maryland County Council Anne Arundel Councilmanic District 2,2026-11-03,99.9,,False,3,1,23257,2026-11-18T14:46+00:00
+155093,MD,Maryland County Council Howard Councilmanic District 4,2026-11-03,99.9,,False,2,1,20033,2026-11-18T14:46+00:00
+155152,MD,Maryland Judge of the Orphans' Court Queen Anne's,2026-11-03,99.9,,False,7,1,55597,2026-11-18T14:46+00:00
+155074,MD,Maryland County Council Harford Councilmanic District B,2026-11-03,99.9,,False,3,1,16263,2026-11-18T14:46+00:00
+186017,MD,Maryland Baltimore County Question F - County Ordinance,2026-11-03,99.9,,False,2,1,231214,2026-11-18T14:46+00:00
+155092,MD,Maryland County Council Howard Councilmanic District 3,2026-11-03,99.9,,False,2,1,19410,2026-11-18T14:46+00:00
+154984,MD,Maryland County Commissioner Calvert Commissioner District 3,2026-11-03,99.9,,False,3,1,33655,2026-11-18T14:46+00:00
+155083,MD,Maryland Board of Education Harford Councilmanic District A,2026-11-03,99.9,,False,3,1,10889,2026-11-18T14:46+00:00
+155142,MD,Maryland Board of Education Prince George's Board of Education District 6,2026-11-03,99.9,,False,3,1,25304,2026-11-18T14:46+00:00
+155002,MD,Maryland County Commissioner Carroll Commissioner District 4,2026-11-03,99.9,,False,2,1,10316,2026-11-18T14:46+00:00
+154909,MD,Maryland House of Delegates 42C,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,3,1,19203,2026-11-18T14:46+00:00
+154936,MD,Maryland Sheriff Allegany,2026-11-03,99.9,,False,3,1,16358,2026-11-18T14:46+00:00
+154828,MD,Maryland State Senate 29,2026-11-03,99.9,2026-11-12T01:54:12.321Z,False,3,2,50803,2026-11-18T14:46+00:00
+154927,MD,Maryland Judge of the Circuit Court Circuit 7 Saint Mary's,2026-11-03,99.9,,False,2,1,28335,2026-11-18T14:46+00:00
+154979,MD,Maryland Board of Education Baltimore County Board of Education District 6,2026-11-03,99.9,,False,3,1,25079,2026-11-18T14:46+00:00
+154846,MD,Maryland State Senate 47,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,2,1,22558,2026-11-18T14:46+00:00
+155221,MD,Maryland County Commissioner Worcester Commissioner District 3,2026-11-03,99.9,,False,2,1,2813,2026-11-18T14:46+00:00
+155056,MD,Maryland Clerk of the Circuit Court Frederick,2026-11-03,99.9,,False,3,1,94688,2026-11-18T14:46+00:00
+155047,MD,Maryland Board of Education Dorchester Councilmanic District 4,2026-11-03,99.9,,False,2,1,1892,2026-11-18T14:46+00:00
+154969,MD,Maryland State's Attorney Baltimore County,2026-11-03,99.9,,False,2,1,187027,2026-11-18T14:46+00:00
+155220,MD,Maryland County Commissioner Worcester Commissioner District 2,2026-11-03,99.9,,False,2,1,1766,2026-11-18T14:46+00:00
+155211,MD,Maryland Judge of the Orphans' Court Wicomico,2026-11-03,99.9,,False,6,1,63714,2026-11-18T14:46+00:00
+155046,MD,Maryland Board of Education Dorchester Councilmanic District 2,2026-11-03,99.9,,False,2,1,932,2026-11-18T14:46+00:00
+155105,MD,Maryland Sheriff Kent,2026-11-03,99.9,,False,2,1,5337,2026-11-18T14:46+00:00
+155229,MD,Maryland Judge of the Orphans' Court Worcester,2026-11-03,99.9,,False,5,1,40151,2026-11-18T14:46+00:00
+186016,MD,Maryland Baltimore County Question E - Charter Amendment,2026-11-03,99.9,,False,2,1,227113,2026-11-18T14:46+00:00
+155123,MD,Maryland Board of Education Montgomery Board of Education District 5,2026-11-03,99.9,,False,2,1,226693,2026-11-18T14:46+00:00
+186007,MD,Maryland Baltimore City Question E - Charter Amendment,2026-11-03,99.9,,False,2,1,117001,2026-11-18T14:46+00:00
+155082,MD,Maryland Sheriff Harford,2026-11-03,99.9,,False,3,1,95927,2026-11-18T14:46+00:00
+155166,MD,Maryland Sheriff Saint Mary's,2026-11-03,99.9,,False,3,1,36385,2026-11-18T14:46+00:00
+154908,MD,Maryland House of Delegates 42B,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,3,1,15409,2026-11-18T14:46+00:00
+155184,MD,Maryland Clerk of the Circuit Court Talbot,2026-11-03,99.9,,False,2,1,12345,2026-11-18T14:46+00:00
+155150,MD,Maryland Clerk of the Circuit Court Queen Anne's,2026-11-03,99.9,,False,2,1,16935,2026-11-18T14:46+00:00
+155202,MD,Maryland County Council Wicomico Councilmanic District 2,2026-11-03,99.9,,False,3,1,5636,2026-11-18T14:46+00:00
+155072,MD,Maryland President of the County Council Harford,2026-11-03,99.9,,False,3,1,96241,2026-11-18T14:46+00:00
+154907,MD,Maryland House of Delegates 42A,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,3,1,20956,2026-11-18T14:46+00:00
+186042,MD,Maryland Prince George's County Question H - Bond Issue,2026-11-03,99.9,,False,2,1,229487,2026-11-18T14:46+00:00
+155149,MD,Maryland State's Attorney Queen Anne's,2026-11-03,99.9,,False,2,1,17382,2026-11-18T14:46+00:00
+154817,MD,Maryland State Senate 18,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,2,1,40765,2026-11-18T14:46+00:00
+155140,MD,Maryland Board of Education Prince George's Board of Education District 2,2026-11-03,99.9,,False,3,1,16513,2026-11-18T14:46+00:00
+154968,MD,Maryland County Council Baltimore County Councilmanic District 9,2026-11-03,99.9,,False,5,1,22716,2026-11-18T14:46+00:00
+154835,MD,Maryland State Senate 36,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,4,54250,2026-11-18T14:46+00:00
+155158,MD,Maryland County Commissioner Saint Mary's Commissioner District 2,2026-11-03,99.9,,False,3,1,36499,2026-11-18T14:46+00:00
+155210,MD,Maryland Register of Wills Wicomico,2026-11-03,99.9,,False,2,1,23147,2026-11-18T14:46+00:00
+186029,MD,Maryland Dorchester County Question C - Charter Amendment,2026-11-03,99.9,,False,2,1,9962,2026-11-18T14:46+00:00
+155228,MD,Maryland Register of Wills Worcester,2026-11-03,99.9,,False,2,1,16321,2026-11-18T14:46+00:00
+154871,MD,Maryland House of Delegates 18,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,4,1,110788,2026-11-18T14:46+00:00
+155054,MD,Maryland County Council Frederick Councilmanic District 5,2026-11-03,99.9,,False,3,1,19171,2026-11-18T14:46+00:00
+154889,MD,Maryland House of Delegates 31,2026-11-03,99.9,,False,7,1,151012,2026-11-18T14:46+00:00
+155200,MD,Maryland County Executive Wicomico,2026-11-03,99.9,,False,3,1,28928,2026-11-18T14:46+00:00
+155227,MD,Maryland Clerk of the Circuit Court Worcester,2026-11-03,99.9,,False,2,1,16460,2026-11-18T14:46+00:00
+154802,MD,Maryland State Senate 3,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,1,48979,2026-11-18T14:46+00:00
+155053,MD,Maryland County Council Frederick Councilmanic District 4,2026-11-03,99.9,,False,3,1,18668,2026-11-18T14:46+00:00
+154920,MD,Maryland Judge of the Circuit Court Circuit 2 Talbot,2026-11-03,99.9,,False,2,1,12889,2026-11-18T14:46+00:00
+155044,MD,Maryland Judge of the Orphans' Court Dorchester Orphans' Court District 2,2026-11-03,99.9,,False,5,1,11736,2026-11-18T14:46+00:00
+155071,MD,Maryland County Executive Harford,2026-11-03,99.9,,False,3,1,95679,2026-11-18T14:46+00:00
+154938,MD,Maryland Mayor - City of Cumberland Allegany,2026-11-03,99.9,,False,2,1,4252,2026-11-18T14:46+00:00
+155062,MD,Maryland County Commissioner Garrett Commissioner District 2,2026-11-03,99.9,,False,2,1,8067,2026-11-18T14:46+00:00
+186041,MD,Maryland Prince George's County Question G - Bond Issue,2026-11-03,99.9,,False,2,1,230347,2026-11-18T14:46+00:00
+155173,MD,Maryland County Commissioner Somerset Commissioner District 5,2026-11-03,99.9,,False,3,1,1414,2026-11-18T14:46+00:00
+155139,MD,Maryland Sheriff Prince George's,2026-11-03,99.9,,False,3,1,226100,2026-11-18T14:46+00:00
+154999,MD,Maryland County Commissioner Carroll Commissioner District 1,2026-11-03,99.9,,False,3,1,12826,2026-11-18T14:46+00:00
+155157,MD,Maryland County Commissioner Saint Mary's Commissioner District 1,2026-11-03,99.9,,False,3,1,36557,2026-11-18T14:46+00:00
+155017,MD,Maryland Sheriff Cecil,2026-11-03,99.9,,False,2,1,23234,2026-11-18T14:46+00:00
+155138,MD,Maryland Judge of the Orphans' Court Prince George's,2026-11-03,99.9,,False,4,1,576274,2026-11-18T14:46+00:00
+155097,MD,Maryland Register of Wills Howard,2026-11-03,99.9,,False,2,1,94040,2026-11-18T14:46+00:00
+155156,MD,Maryland County Commissioner President Saint Mary's,2026-11-03,99.9,,False,3,1,36623,2026-11-18T14:46+00:00
+186000,MD,Maryland Anne Arundel County Question A - Charter Amendment,2026-11-03,99.9,,False,2,1,186462,2026-11-18T14:46+00:00
+155147,MD,Maryland County Commissioner Queen Anne's Commissioner District 3,2026-11-03,99.9,,False,3,1,19796,2026-11-18T14:46+00:00
+155199,MD,Maryland Board of Education Washington,2026-11-03,99.9,,False,6,1,100276,2026-11-18T14:46+00:00
+154842,MD,Maryland State Senate 43,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,2,2,37754,2026-11-18T14:46+00:00
+155190,MD,Maryland Board of Education Talbot Board of Education District 4,2026-11-03,99.9,,False,3,1,2205,2026-11-18T14:46+00:00
+154801,MD,Maryland State Senate 2,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,2,42440,2026-11-18T14:46+00:00
+186036,MD,Maryland Prince George's County Question B - Charter Amendment,2026-11-03,99.9,,False,2,1,231363,2026-11-18T14:46+00:00
+155043,MD,Maryland Judge of the Orphans' Court Dorchester Orphans' Court District 1,2026-11-03,99.9,,False,2,1,3135,2026-11-18T14:46+00:00
+155102,MD,Maryland Clerk of the Circuit Court Kent,2026-11-03,99.9,,False,2,1,5464,2026-11-18T14:46+00:00
+155061,MD,Maryland County Commissioner Garrett Commissioner District 1,2026-11-03,99.9,,False,3,1,9115,2026-11-18T14:46+00:00
+154896,MD,Maryland House of Delegates 35A,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,5,2,70749,2026-11-18T14:46+00:00
+154887,MD,Maryland House of Delegates 30A,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,3,1,47369,2026-11-18T14:46+00:00
+155225,MD,Maryland County Commissioner Worcester Commissioner District 7,2026-11-03,99.9,,False,2,1,2284,2026-11-18T14:46+00:00
+155060,MD,Maryland Board of Education Frederick,2026-11-03,99.9,,False,9,1,296369,2026-11-18T14:46+00:00
+155051,MD,Maryland County Council Frederick Councilmanic District 2,2026-11-03,99.9,,False,3,1,19677,2026-11-18T14:46+00:00
+154886,MD,Maryland House of Delegates 29C,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,3,2,19231,2026-11-18T14:46+00:00
+155162,MD,Maryland State's Attorney Saint Mary's,2026-11-03,99.9,,False,2,1,29842,2026-11-18T14:46+00:00
+155069,MD,Maryland Board of Education Garrett Commissioner District 1,2026-11-03,99.9,,False,2,1,7023,2026-11-18T14:46+00:00
+155096,MD,Maryland Clerk of the Circuit Court Howard,2026-11-03,99.9,,False,2,1,93832,2026-11-18T14:46+00:00
+154988,MD,Maryland Register of Wills Calvert,2026-11-03,99.9,,False,3,1,33490,2026-11-18T14:46+00:00
+155087,MD,Maryland Board of Education Harford Councilmanic District E,2026-11-03,99.9,,False,3,1,12875,2026-11-18T14:46+00:00
+155146,MD,Maryland County Commissioner Queen Anne's Commissioner District 2,2026-11-03,99.9,,False,3,1,21332,2026-11-18T14:46+00:00
+154814,MD,Maryland State Senate 15,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,2,1,42391,2026-11-18T14:46+00:00
+155189,MD,Maryland Board of Education Talbot Board of Education District 3,2026-11-03,99.9,,False,3,1,2110,2026-11-18T14:46+00:00
+155024,MD,Maryland County Commissioner Charles Commissioner District 3,2026-11-03,99.9,,False,3,1,14162,2026-11-18T14:46+00:00
+155207,MD,Maryland County Council Wicomico Councilmanic District 7,2026-11-03,99.9,,False,4,1,3978,2026-11-18T14:46+00:00
+155042,MD,Maryland Register of Wills Dorchester,2026-11-03,99.9,,False,3,1,10682,2026-11-18T14:46+00:00
+155136,MD,Maryland Clerk of the Circuit Court Prince George's,2026-11-03,99.9,,False,2,1,223543,2026-11-18T14:46+00:00
+155188,MD,Maryland Board of Education Talbot Board of Education District 1,2026-11-03,99.9,,False,2,1,824,2026-11-18T14:46+00:00
+155154,MD,Maryland Board of Education At Large Queen Anne's,2026-11-03,99.9,,False,3,1,16227,2026-11-18T14:46+00:00
+155206,MD,Maryland County Council Wicomico Councilmanic District 6,2026-11-03,99.9,,False,3,1,5343,2026-11-18T14:46+00:00
+186025,MD,Maryland Baltimore County Question N - County Ordinance,2026-11-03,99.9,,False,2,1,222633,2026-11-18T14:46+00:00
+155197,MD,Maryland Judge of the Orphans' Court Washington,2026-11-03,99.9,,False,7,1,123657,2026-11-18T14:46+00:00
+155224,MD,Maryland County Commissioner Worcester Commissioner District 6,2026-11-03,99.9,,False,2,1,2797,2026-11-18T14:46+00:00
+186043,MD,Maryland Prince George's County Question I - Bond Issue,2026-11-03,99.9,,False,2,1,238326,2026-11-18T14:46+00:00
+155215,MD,Maryland Board of Education Wicomico Councilmanic District 4,2026-11-03,99.9,,False,3,1,3371,2026-11-18T14:46+00:00
+155050,MD,Maryland County Council Frederick Councilmanic District 1,2026-11-03,99.9,,False,3,1,21864,2026-11-18T14:46+00:00
+154917,MD,Maryland House of Delegates 47B,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,2,1,5251,2026-11-18T14:46+00:00
+155068,MD,Maryland Sheriff Garrett,2026-11-03,99.9,,False,2,1,8418,2026-11-18T14:46+00:00
+155127,MD,Maryland County Council Prince George's Councilmanic District 2,2026-11-03,99.9,,False,2,1,13329,2026-11-18T14:46+00:00
+154894,MD,Maryland House of Delegates 34A,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,4,1,46650,2026-11-18T14:46+00:00
+154953,MD,Maryland State's Attorney Baltimore City,2026-11-03,99.9,,False,2,1,115955,2026-11-18T14:46+00:00
+155040,MD,Maryland State's Attorney Dorchester,2026-11-03,99.9,,False,2,1,8644,2026-11-18T14:46+00:00
+155067,MD,Maryland Judge of the Orphans' Court Garrett,2026-11-03,99.9,,False,4,1,18717,2026-11-18T14:46+00:00
+186010,MD,Maryland Baltimore City Question H - Charter Amendment,2026-11-03,99.9,,False,2,1,117708,2026-11-18T14:46+00:00
+154893,MD,Maryland House of Delegates 33C,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,3,1,20442,2026-11-18T14:46+00:00
+154977,MD,Maryland Board of Education Baltimore County Board of Education District 4,2026-11-03,99.9,,False,2,1,27588,2026-11-18T14:46+00:00
+154884,MD,Maryland House of Delegates 29A,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,3,1,18040,2026-11-18T14:46+00:00
+155135,MD,Maryland State's Attorney Prince George's,2026-11-03,99.9,,False,2,1,227837,2026-11-18T14:46+00:00
+154803,MD,Maryland State Senate 4,2026-11-03,99.9,,False,3,1,59481,2026-11-18T14:46+00:00
+154902,MD,Maryland House of Delegates 38B,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,3,1,13512,2026-11-18T14:46+00:00
+155153,MD,Maryland Sheriff Queen Anne's,2026-11-03,99.9,,False,2,1,18183,2026-11-18T14:46+00:00
+154821,MD,Maryland State Senate 22,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,1,31918,2026-11-18T14:46+00:00
+155196,MD,Maryland Register of Wills Washington,2026-11-03,99.9,,False,2,1,34512,2026-11-18T14:46+00:00
+154839,MD,Maryland State Senate 40,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,1,31040,2026-11-18T14:46+00:00
+155022,MD,Maryland County Commissioner Charles Commissioner District 1,2026-11-03,99.9,,False,3,1,15818,2026-11-18T14:46+00:00
+154857,MD,Maryland House of Delegates 7B,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,3,1,20215,2026-11-18T14:46+00:00
+154951,MD,Maryland Judge of the Orphans' Court Anne Arundel,2026-11-03,99.9,,False,7,1,527686,2026-11-18T14:46+00:00
+155195,MD,Maryland Clerk of the Circuit Court Washington,2026-11-03,99.9,,False,2,1,34691,2026-11-18T14:46+00:00
+154962,MD,Maryland County Council Baltimore County Councilmanic District 3,2026-11-03,99.9,,False,3,1,25838,2026-11-18T14:46+00:00
+155021,MD,Maryland County Commissioner President Charles,2026-11-03,99.9,,False,3,1,58628,2026-11-18T14:46+00:00
+155080,MD,Maryland Clerk of the Circuit Court Harford,2026-11-03,99.9,,False,3,1,95234,2026-11-18T14:46+00:00
+155204,MD,Maryland County Council Wicomico Councilmanic District 4,2026-11-03,99.9,,False,3,1,3992,2026-11-18T14:46+00:00
+155039,MD,Maryland County Council Dorchester Councilmanic District 5,2026-11-03,99.9,,False,3,1,2383,2026-11-18T14:46+00:00
+155098,MD,Maryland Sheriff Howard,2026-11-03,99.9,,False,2,1,94092,2026-11-18T14:46+00:00
+155030,MD,Maryland Sheriff Charles,2026-11-03,99.9,,False,2,1,52676,2026-11-18T14:46+00:00
+186009,MD,Maryland Baltimore City Question G - Charter Amendment,2026-11-03,99.9,,False,2,1,116348,2026-11-18T14:46+00:00
+154924,MD,Maryland Judge of the Circuit Court Circuit 6 Frederick,2026-11-03,99.9,,False,2,1,71252,2026-11-18T14:46+00:00
+154883,MD,Maryland House of Delegates 28,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,6,1,144004,2026-11-18T14:46+00:00
+155159,MD,Maryland County Commissioner Saint Mary's Commissioner District 3,2026-11-03,99.9,,False,4,1,36458,2026-11-18T14:46+00:00
+154901,MD,Maryland House of Delegates 38A,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,3,3,16888,2026-11-18T14:46+00:00
+155177,MD,Maryland Judge of the Orphans' Court Somerset,2026-11-03,99.9,,False,4,1,12323,2026-11-18T14:46+00:00
+154882,MD,Maryland House of Delegates 27C,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,3,1,19883,2026-11-18T14:46+00:00
+155065,MD,Maryland Clerk of the Circuit Court Garrett,2026-11-03,99.9,,False,2,1,8342,2026-11-18T14:46+00:00
+154900,MD,Maryland House of Delegates 37B,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,5,4,75103,2026-11-18T14:46+00:00
+155208,MD,Maryland State's Attorney Wicomico,2026-11-03,99.9,,False,2,1,23229,2026-11-18T14:46+00:00
+154891,MD,Maryland House of Delegates 33A,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,2,1,13903,2026-11-18T14:46+00:00
+154950,MD,Maryland Register of Wills Anne Arundel,2026-11-03,99.9,,False,3,1,195149,2026-11-18T14:46+00:00
+154810,MD,Maryland State Senate 11,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,1,49532,2026-11-18T14:46+00:00
+155133,MD,Maryland County Council Prince George's Councilmanic District 8,2026-11-03,99.9,,False,2,1,24626,2026-11-18T14:46+00:00
+154961,MD,Maryland County Council Baltimore County Councilmanic District 2,2026-11-03,99.9,,False,3,1,25618,2026-11-18T14:46+00:00
+186004,MD,Maryland Baltimore City Question B - Bond Issue,2026-11-03,99.9,,False,2,1,121987,2026-11-18T14:46+00:00
+155151,MD,Maryland Register of Wills Queen Anne's,2026-11-03,99.9,,False,2,1,16993,2026-11-18T14:46+00:00
+155203,MD,Maryland County Council Wicomico Councilmanic District 3,2026-11-03,99.9,,False,3,1,2064,2026-11-18T14:46+00:00
+186022,MD,Maryland Baltimore County Question K - County Ordinance,2026-11-03,99.9,,False,2,1,228160,2026-11-18T14:46+00:00
+155029,MD,Maryland Judge of the Orphans' Court Charles,2026-11-03,99.9,,False,5,1,134914,2026-11-18T14:46+00:00
+154864,MD,Maryland House of Delegates 12A,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,4,1,59487,2026-11-18T14:46+00:00
+154855,MD,Maryland House of Delegates 6,2026-11-03,99.9,,False,7,1,90678,2026-11-18T14:46+00:00
+155193,MD,Maryland Treasurer Washington,2026-11-03,99.9,,False,2,1,34918,2026-11-18T14:46+00:00
+155028,MD,Maryland Register of Wills Charles,2026-11-03,99.9,,False,3,1,58745,2026-11-18T14:46+00:00
+155019,MD,Maryland Board of Education Cecil Councilmanic District 4,2026-11-03,99.9,,False,3,1,23460,2026-11-18T14:46+00:00
+154854,MD,Maryland House of Delegates 5,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,7,2,156388,2026-11-18T14:46+00:00
+154913,MD,Maryland House of Delegates 44B,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,4,1,51325,2026-11-18T14:46+00:00
+155037,MD,Maryland County Council Dorchester Councilmanic District 3,2026-11-03,99.9,,False,3,1,2247,2026-11-18T14:46+00:00
+155064,MD,Maryland State's Attorney Garrett,2026-11-03,99.9,,False,2,1,8337,2026-11-18T14:46+00:00
+154931,MD,Maryland County Commissioner Allegany,2026-11-03,99.9,,False,7,1,49901,2026-11-18T14:46+00:00
+155055,MD,Maryland State's Attorney Frederick,2026-11-03,99.9,,False,2,1,66120,2026-11-18T14:46+00:00
+154890,MD,Maryland House of Delegates 32,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,7,1,114994,2026-11-18T14:46+00:00
+154974,MD,Maryland Board of Education Baltimore County Board of Education District 1,2026-11-03,99.9,,False,3,1,24919,2026-11-18T14:46+00:00
+155132,MD,Maryland County Council Prince George's Councilmanic District 7,2026-11-03,99.9,,False,2,1,19558,2026-11-18T14:46+00:00
+154992,MD,Maryland County Commissioner Caroline,2026-11-03,99.9,,False,5,1,22901,2026-11-18T14:46+00:00
+154958,MD,Maryland Board of Education At Large Baltimore City,2026-11-03,99.9,,False,5,1,181005,2026-11-18T14:46+00:00
+155010,MD,Maryland County Council Cecil Councilmanic District 2,2026-11-03,99.9,,False,3,1,28598,2026-11-18T14:46+00:00
+154880,MD,Maryland House of Delegates 27A,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,3,2,18041,2026-11-18T14:46+00:00
+155131,MD,Maryland County Council Prince George's Councilmanic District 6,2026-11-03,99.9,,False,3,1,37392,2026-11-18T14:46+00:00
+155090,MD,Maryland County Council Howard Councilmanic District 1,2026-11-03,99.9,,False,2,1,17953,2026-11-18T14:46+00:00
+154957,MD,Maryland Sheriff Baltimore City,2026-11-03,99.9,,False,2,1,110042,2026-11-18T14:46+00:00
+155233,MD,Maryland Board of Education Worcester Commissioner District 6,2026-11-03,99.9,,False,3,1,3038,2026-11-18T14:46+00:00
+154948,MD,Maryland State's Attorney Anne Arundel,2026-11-03,99.9,,False,2,1,150217,2026-11-18T14:46+00:00
+155192,MD,Maryland County Commissioner Washington,2026-11-03,99.9,,False,12,1,206914,2026-11-18T14:46+00:00
+186011,MD,Maryland Baltimore City Question I - Charter Amendment,2026-11-03,99.9,,False,2,1,120797,2026-11-18T14:46+00:00
+154959,MD,Maryland County Executive Baltimore County,2026-11-03,99.9,,False,4,1,242664,2026-11-18T14:46+00:00
+155018,MD,Maryland Board of Education Cecil Councilmanic District 3,2026-11-03,99.9,,False,3,1,22173,2026-11-18T14:46+00:00
+155077,MD,Maryland County Council Harford Councilmanic District E,2026-11-03,99.9,,False,3,1,15217,2026-11-18T14:46+00:00
+155036,MD,Maryland County Council Dorchester Councilmanic District 2,2026-11-03,99.9,,False,2,1,1129,2026-11-18T14:46+00:00
+186047,MD,Maryland Wicomico County Question B - Charter Amendment,2026-11-03,99.9,,False,2,1,27292,2026-11-18T14:46+00:00
+154862,MD,Maryland House of Delegates 11A,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,2,1,13025,2026-11-18T14:46+00:00
+155113,MD,Maryland County Council Montgomery Councilmanic District 5,2026-11-03,99.9,,False,3,1,42328,2026-11-18T14:46+00:00
+155008,MD,Maryland Sheriff Carroll,2026-11-03,99.9,,False,3,1,63391,2026-11-18T14:46+00:00
+155035,MD,Maryland County Council Dorchester Councilmanic District 1,2026-11-03,99.9,,False,3,1,2585,2026-11-18T14:46+00:00
+155218,MD,Maryland Board of Education Wicomico Councilmanic District 7,2026-11-03,99.9,,False,3,1,3374,2026-11-18T14:46+00:00
+154861,MD,Maryland House of Delegates 10,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,4,1,102759,2026-11-18T14:46+00:00
+155144,MD,Maryland County Commissioner At Large Queen Anne's,2026-11-03,99.9,,False,3,1,21692,2026-11-18T14:46+00:00
+154852,MD,Maryland House of Delegates 3,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,5,1,117127,2026-11-18T14:46+00:00
+154879,MD,Maryland House of Delegates 26,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,6,1,115054,2026-11-18T14:46+00:00
+154963,MD,Maryland County Council Baltimore County Councilmanic District 4,2026-11-03,99.9,,False,3,1,27159,2026-11-18T14:46+00:00
+154870,MD,Maryland House of Delegates 17,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,4,1,99346,2026-11-18T14:46+00:00
+155089,MD,Maryland County Executive Howard,2026-11-03,99.9,,False,3,1,104003,2026-11-18T14:46+00:00
+154981,MD,Maryland County Commissioner At Large Calvert,2026-11-03,99.9,,False,6,1,60897,2026-11-18T14:46+00:00
+154947,MD,Maryland County Council Anne Arundel Councilmanic District 7,2026-11-03,99.9,,False,3,1,31667,2026-11-18T14:46+00:00
+154807,MD,Maryland State Senate 8,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,1,39527,2026-11-18T14:46+00:00
+155182,MD,Maryland County Council Talbot,2026-11-03,99.9,,False,11,1,74994,2026-11-18T14:46+00:00
+154825,MD,Maryland State Senate 26,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,2,1,42234,2026-11-18T14:46+00:00
+154946,MD,Maryland County Council Anne Arundel Councilmanic District 6,2026-11-03,99.9,,False,3,1,30341,2026-11-18T14:46+00:00
+154905,MD,Maryland House of Delegates 40,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,4,1,73558,2026-11-18T14:46+00:00
+155181,MD,Maryland Board of Education Somerset Commissioner District 5,2026-11-03,99.9,,False,3,1,1267,2026-11-18T14:46+00:00
+155048,MD,Maryland County Executive Frederick,2026-11-03,99.9,,False,3,1,95615,2026-11-18T14:46+00:00
+154955,MD,Maryland Register of Wills Baltimore City,2026-11-03,99.9,,False,3,1,119486,2026-11-18T14:46+00:00
+155007,MD,Maryland Judge of the Orphans' Court Carroll,2026-11-03,99.9,,False,4,1,128017,2026-11-18T14:46+00:00
+186018,MD,Maryland Baltimore County Question G - County Ordinance,2026-11-03,99.9,,False,2,1,233070,2026-11-18T14:46+00:00
+154998,MD,Maryland Board of Education Caroline Board of Education District 3,2026-11-03,99.9,,False,3,1,2838,2026-11-18T14:46+00:00
+155217,MD,Maryland Board of Education Wicomico Councilmanic District 6,2026-11-03,99.9,,False,3,1,4196,2026-11-18T14:46+00:00
+155084,MD,Maryland Board of Education Harford Councilmanic District B,2026-11-03,99.9,,False,3,1,12318,2026-11-18T14:46+00:00
+154851,MD,Maryland House of Delegates 2B,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,3,1,9939,2026-11-18T14:46+00:00
+154910,MD,Maryland House of Delegates 43A,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,3,1,43944,2026-11-18T14:46+00:00
+154869,MD,Maryland House of Delegates 16,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,6,1,141959,2026-11-18T14:46+00:00
+155120,MD,Maryland Board of Education At Large Montgomery,2026-11-03,99.9,,False,3,1,266522,2026-11-18T14:46+00:00
+155111,MD,Maryland County Council Montgomery Councilmanic District 3,2026-11-03,99.9,,False,3,1,40400,2026-11-18T14:46+00:00
+155033,MD,Maryland Board of Education Charles Commissioner District 3,2026-11-03,99.9,,False,5,1,22072,2026-11-18T14:46+00:00
+154868,MD,Maryland House of Delegates 15,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,5,1,119778,2026-11-18T14:46+00:00
+154859,MD,Maryland House of Delegates 9A,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,6,2,68732,2026-11-18T14:46+00:00
+155110,MD,Maryland County Council Montgomery Councilmanic District 2,2026-11-03,99.9,,False,4,1,38658,2026-11-18T14:46+00:00
+154970,MD,Maryland Clerk of the Circuit Court Baltimore County,2026-11-03,99.9,,False,3,1,238758,2026-11-18T14:46+00:00
+154877,MD,Maryland House of Delegates 24,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,4,1,107793,2026-11-18T14:46+00:00
+154904,MD,Maryland House of Delegates 39,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,4,1,87075,2026-11-18T14:46+00:00
+155212,MD,Maryland Sheriff Wicomico,2026-11-03,99.9,,False,3,1,28836,2026-11-18T14:46+00:00
+154895,MD,Maryland House of Delegates 34B,2026-11-03,99.9,,False,3,1,19459,2026-11-18T14:46+00:00
+154954,MD,Maryland Clerk of the Circuit Court Baltimore City,2026-11-03,99.9,,False,2,1,110980,2026-11-18T14:46+00:00
+155230,MD,Maryland Sheriff Worcester,2026-11-03,99.9,,False,2,1,16375,2026-11-18T14:46+00:00
+154997,MD,Maryland Sheriff Caroline,2026-11-03,99.9,,False,2,1,8532,2026-11-18T14:46+00:00
+154832,MD,Maryland State Senate 33,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,1,58111,2026-11-18T14:46+00:00
+155015,MD,Maryland Register of Wills Cecil,2026-11-03,99.9,,False,2,1,22806,2026-11-18T14:46+00:00
+154850,MD,Maryland House of Delegates 2A,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,5,2,61193,2026-11-18T14:46+00:00
+154944,MD,Maryland County Council Anne Arundel Councilmanic District 4,2026-11-03,99.9,,False,3,1,25637,2026-11-18T14:46+00:00
+154996,MD,Maryland Judge of the Orphans' Court Caroline,2026-11-03,99.9,,False,4,1,20039,2026-11-18T14:46+00:00
+155179,MD,Maryland Board of Education Somerset Commissioner District 1,2026-11-03,99.9,,False,3,1,846,2026-11-18T14:46+00:00
+155014,MD,Maryland Clerk of the Circuit Court Cecil,2026-11-03,99.9,,False,3,1,28393,2026-11-18T14:46+00:00
+155073,MD,Maryland County Council Harford Councilmanic District A,2026-11-03,99.9,,False,3,1,12731,2026-11-18T14:46+00:00
+155005,MD,Maryland Clerk of the Circuit Court Carroll,2026-11-03,99.9,,False,2,1,50778,2026-11-18T14:46+00:00
+155032,MD,Maryland Board of Education Charles Commissioner District 2,2026-11-03,99.9,,False,5,1,22270,2026-11-18T14:46+00:00
+155091,MD,Maryland County Council Howard Councilmanic District 2,2026-11-03,99.9,,False,2,1,18655,2026-11-18T14:46+00:00
+155023,MD,Maryland County Commissioner Charles Commissioner District 2,2026-11-03,99.9,,False,4,1,15275,2026-11-18T14:46+00:00
+154858,MD,Maryland House of Delegates 8,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,7,1,106724,2026-11-18T14:46+00:00
+155141,MD,Maryland Board of Education Prince George's Board of Education District 3,2026-11-03,99.9,,False,3,1,14335,2026-11-18T14:46+00:00
+154876,MD,Maryland House of Delegates 23,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,7,1,149311,2026-11-18T14:46+00:00
+154935,MD,Maryland Judge of the Orphans' Court Allegany,2026-11-03,99.9,,False,4,1,37381,2026-11-18T14:46+00:00
+155118,MD,Maryland Register of Wills Montgomery,2026-11-03,99.9,,False,3,1,303998,2026-11-18T14:46+00:00
+155170,MD,Maryland County Commissioner Somerset Commissioner District 2,2026-11-03,99.9,,False,2,1,766,2026-11-18T14:46+00:00
+154848,MD,Maryland House of Delegates 1B,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,3,1,14999,2026-11-18T14:46+00:00
+154875,MD,Maryland House of Delegates 22,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,4,1,73936,2026-11-18T14:46+00:00
+155058,MD,Maryland Judge of the Orphans' Court Frederick,2026-11-03,99.9,,False,7,1,260055,2026-11-18T14:46+00:00
+155117,MD,Maryland Clerk of the Circuit Court Montgomery,2026-11-03,99.9,,False,2,1,267238,2026-11-18T14:46+00:00
+155201,MD,Maryland County Council Wicomico Councilmanic District 1,2026-11-03,99.9,,False,2,1,2962,2026-11-18T14:46+00:00
+155108,MD,Maryland County Council At Large Montgomery,2026-11-03,99.9,,False,6,1,988628,2026-11-18T14:46+00:00
+154943,MD,Maryland County Council Anne Arundel Councilmanic District 3,2026-11-03,99.9,,False,3,1,30413,2026-11-18T14:46+00:00
+155219,MD,Maryland County Commissioner Worcester Commissioner District 1,2026-11-03,99.9,,False,2,1,2014,2026-11-18T14:46+00:00
+155126,MD,Maryland County Council Prince George's Councilmanic District 1,2026-11-03,99.9,,False,2,1,22895,2026-11-18T14:46+00:00
+155178,MD,Maryland Sheriff Somerset,2026-11-03,99.9,,False,2,1,5583,2026-11-18T14:46+00:00
+155045,MD,Maryland Sheriff Dorchester,2026-11-03,99.9,,False,3,1,10776,2026-11-18T14:46+00:00
+155004,MD,Maryland State's Attorney Carroll,2026-11-03,99.9,,False,2,1,50469,2026-11-18T14:46+00:00
+186015,MD,Maryland Baltimore County Question D - Charter Amendment,2026-11-03,99.9,,False,2,1,225216,2026-11-18T14:46+00:00
+154830,MD,Maryland State Senate 31,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,1,54451,2026-11-18T14:46+00:00
+186033,MD,Maryland Howard County Question A - Charter Amendment,2026-11-03,99.9,,False,2,1,114018,2026-11-18T14:46+00:00
+155168,MD,Maryland Board of Education Saint Mary's Commissioner District 3,2026-11-03,99.9,,False,2,1,26921,2026-11-18T14:46+00:00
+155003,MD,Maryland County Commissioner Carroll Commissioner District 5,2026-11-03,99.9,,False,3,1,13367,2026-11-18T14:46+00:00
+155186,MD,Maryland Judge of the Orphans' Court Talbot,2026-11-03,99.9,,False,5,1,32893,2026-11-18T14:46+00:00
+154829,MD,Maryland State Senate 30,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,1,53933,2026-11-18T14:46+00:00
+154888,MD,Maryland House of Delegates 30B,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,3,1,18755,2026-11-18T14:46+00:00
+155012,MD,Maryland County Council Cecil Councilmanic District 4,2026-11-03,99.9,,False,2,1,22837,2026-11-18T14:46+00:00
+154847,MD,Maryland House of Delegates 1A,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,3,2,15146,2026-11-18T14:46+00:00
+154906,MD,Maryland House of Delegates 41,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,4,1,88972,2026-11-18T14:46+00:00
+154838,MD,Maryland State Senate 39,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,2,1,33597,2026-11-18T14:46+00:00
+155057,MD,Maryland Register of Wills Frederick,2026-11-03,99.9,,False,3,1,93579,2026-11-18T14:46+00:00
+155148,MD,Maryland County Commissioner Queen Anne's Commissioner District 4,2026-11-03,99.9,,False,2,1,16502,2026-11-18T14:46+00:00
+155107,MD,Maryland County Executive Montgomery,2026-11-03,99.9,,False,3,1,312469,2026-11-18T14:46+00:00
+154967,MD,Maryland County Council Baltimore County Councilmanic District 8,2026-11-03,99.9,,False,3,1,26157,2026-11-18T14:46+00:00
+155125,MD,Maryland County Council At Large Prince George's,2026-11-03,99.9,,False,3,1,391402,2026-11-18T14:46+00:00
+154985,MD,Maryland Treasurer Calvert,2026-11-03,99.9,,False,2,1,24569,2026-11-18T14:46+00:00
+155106,MD,Maryland Board of Education Kent,2026-11-03,99.9,,False,5,1,11597,2026-11-18T14:46+00:00
+154873,MD,Maryland House of Delegates 20,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,4,1,106165,2026-11-18T14:46+00:00
+155124,MD,Maryland County Executive Prince George's,2026-11-03,99.9,,False,3,1,224310,2026-11-18T14:46+00:00
+155016,MD,Maryland Judge of the Orphans' Court Cecil,2026-11-03,99.9,,False,6,1,65190,2026-11-18T14:46+00:00
+155115,MD,Maryland County Council Montgomery Councilmanic District 7,2026-11-03,99.9,,False,3,1,46451,2026-11-18T14:46+00:00
+155167,MD,Maryland Board of Education Saint Mary's Commissioner District 1,2026-11-03,99.9,,False,3,1,29299,2026-11-18T14:46+00:00
+155226,MD,Maryland State's Attorney Worcester,2026-11-03,99.9,,False,2,1,16382,2026-11-18T14:46+00:00
+154941,MD,Maryland County Council Anne Arundel Councilmanic District 1,2026-11-03,99.9,,False,3,1,24046,2026-11-18T14:46+00:00
+155185,MD,Maryland Register of Wills Talbot,2026-11-03,99.9,,False,2,1,12272,2026-11-18T14:46+00:00
+155052,MD,Maryland County Council Frederick Councilmanic District 3,2026-11-03,99.9,,False,3,1,15799,2026-11-18T14:46+00:00
+155011,MD,Maryland County Council Cecil Councilmanic District 3,2026-11-03,99.9,,False,3,1,28811,2026-11-18T14:46+00:00
+155070,MD,Maryland Board of Education Garrett Commissioner District 2,2026-11-03,99.9,,False,2,1,7419,2026-11-18T14:46+00:00
+154837,MD,Maryland State Senate 38,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,3,51848,2026-11-18T14:46+00:00
+186040,MD,Maryland Prince George's County Question F - Bond Issue,2026-11-03,99.9,,False,2,1,229269,2026-11-18T14:46+00:00
+186031,MD,Maryland Frederick County Question A - Charter Amendment,2026-11-03,99.9,,False,2,1,91734,2026-11-18T14:46+00:00
+155001,MD,Maryland County Commissioner Carroll Commissioner District 3,2026-11-03,99.9,,False,3,1,11392,2026-11-18T14:46+00:00
+154836,MD,Maryland State Senate 37,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,4,53257,2026-11-18T14:46+00:00
+154827,MD,Maryland State Senate 28,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,2,1,49964,2026-11-18T14:46+00:00
+186030,MD,Maryland Dorchester County Question D - Charter Amendment,2026-11-03,99.9,,False,2,1,10124,2026-11-18T14:46+00:00
+155137,MD,Maryland Register of Wills Prince George's,2026-11-03,99.9,,False,2,1,223570,2026-11-18T14:46+00:00
+154845,MD,Maryland State Senate 46,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,1,34754,2026-11-18T14:46+00:00
+154872,MD,Maryland House of Delegates 19,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,4,1,99977,2026-11-18T14:46+00:00
+155155,MD,Maryland Board of Education Queen Anne's Commissioner District 1,2026-11-03,99.9,,False,3,1,15425,2026-11-18T14:46+00:00
+154863,MD,Maryland House of Delegates 11B,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,4,1,56892,2026-11-18T14:46+00:00
+155114,MD,Maryland County Council Montgomery Councilmanic District 6,2026-11-03,99.9,,False,3,1,37088,2026-11-18T14:46+00:00
+155198,MD,Maryland Sheriff Washington,2026-11-03,99.9,,False,3,1,44990,2026-11-18T14:46+00:00
+154940,MD,Maryland County Executive Anne Arundel,2026-11-03,99.9,,False,3,1,199609,2026-11-18T14:46+00:00
+154800,MD,Maryland State Senate 1,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,3,45168,2026-11-18T14:46+00:00
+155175,MD,Maryland Clerk of the Circuit Court Somerset,2026-11-03,99.9,,False,2,1,5673,2026-11-18T14:46+00:00
+154818,MD,Maryland State Senate 19,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,2,1,37894,2026-11-18T14:46+00:00
+155104,MD,Maryland Judge of the Orphans' Court Kent,2026-11-03,99.9,,False,4,1,11990,2026-11-18T14:46+00:00
+154939,MD,Maryland Council - City of Cumberland Allegany,2026-11-03,99.9,,False,5,1,6900,2026-11-18T14:46+00:00
+154898,MD,Maryland House of Delegates 36,2026-11-03,99.9,,False,7,4,141970,2026-11-18T14:46+00:00
+155174,MD,Maryland State's Attorney Somerset,2026-11-03,99.9,,False,2,1,5538,2026-11-18T14:46+00:00
+155041,MD,Maryland Clerk of the Circuit Court Dorchester,2026-11-03,99.9,,False,2,1,9056,2026-11-18T14:46+00:00
+155165,MD,Maryland Judge of the Orphans' Court Saint Mary's,2026-11-03,99.9,,False,5,1,69312,2026-11-18T14:46+00:00
+155000,MD,Maryland County Commissioner Carroll Commissioner District 2,2026-11-03,99.9,,False,2,1,11039,2026-11-18T14:46+00:00
+155059,MD,Maryland Sheriff Frederick,2026-11-03,99.9,,False,3,1,94058,2026-11-18T14:46+00:00
+155183,MD,Maryland State's Attorney Talbot,2026-11-03,99.9,,False,2,1,12013,2026-11-18T14:46+00:00
+154826,MD,Maryland State Senate 27,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,3,58834,2026-11-18T14:46+00:00
+154885,MD,Maryland House of Delegates 29B,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,3,1,13366,2026-11-18T14:46+00:00
+154844,MD,Maryland State Senate 45,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,2,1,32215,2026-11-18T14:46+00:00
+155095,MD,Maryland State's Attorney Howard,2026-11-03,99.9,,False,2,1,94121,2026-11-18T14:46+00:00
+186038,MD,Maryland Prince George's County Question D - Charter Amendment,2026-11-03,99.9,,False,2,1,235362,2026-11-18T14:46+00:00
+154921,MD,Maryland Judge of the Circuit Court Circuit 3 Baltimore County,2026-11-03,99.9,,False,6,1,659081,2026-11-18T14:46+00:00
+154816,MD,Maryland State Senate 17,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,1,42349,2026-11-18T14:46+00:00
+154843,MD,Maryland State Senate 44,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,2,1,37408,2026-11-18T14:46+00:00
+155026,MD,Maryland State's Attorney Charles,2026-11-03,99.9,,False,2,1,51257,2026-11-18T14:46+00:00
+186037,MD,Maryland Prince George's County Question C - Charter Amendment,2026-11-03,99.9,,False,2,1,228120,2026-11-18T14:46+00:00
+154952,MD,Maryland Sheriff Anne Arundel,2026-11-03,99.9,,False,3,1,195531,2026-11-18T14:46+00:00
+186028,MD,Maryland Dorchester County Question B - Charter Amendment,2026-11-03,99.9,,False,2,1,9975,2026-11-18T14:46+00:00
+155103,MD,Maryland Register of Wills Kent,2026-11-03,99.9,,False,2,1,5533,2026-11-18T14:46+00:00
+155187,MD,Maryland Sheriff Talbot,2026-11-03,99.9,,False,2,1,12524,2026-11-18T14:46+00:00
+186046,MD,Maryland Wicomico County Question A - Charter Amendment,2026-11-03,99.9,,False,2,1,27974,2026-11-18T14:46+00:00
+154897,MD,Maryland House of Delegates 35B,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,3,1,16043,2026-11-18T14:46+00:00
+155205,MD,Maryland County Council Wicomico Councilmanic District 5,2026-11-03,99.9,,False,3,1,4483,2026-11-18T14:46+00:00
+155164,MD,Maryland Register of Wills Saint Mary's,2026-11-03,99.9,,False,2,1,28626,2026-11-18T14:46+00:00
+155223,MD,Maryland County Commissioner Worcester Commissioner District 5,2026-11-03,99.9,,False,3,1,3240,2026-11-18T14:46+00:00
+154990,MD,Maryland Sheriff Calvert,2026-11-03,99.9,,False,2,1,25428,2026-11-18T14:46+00:00
+186001,MD,Maryland Anne Arundel County Question B - Charter Amendment,2026-11-03,99.9,,False,2,1,179326,2026-11-18T14:46+00:00
+155163,MD,Maryland Clerk of the Circuit Court Saint Mary's,2026-11-03,99.9,,False,2,1,28948,2026-11-18T14:46+00:00
+155129,MD,Maryland County Council Prince George's Councilmanic District 4,2026-11-03,99.9,,False,2,1,31502,2026-11-18T14:46+00:00
+154989,MD,Maryland Judge of the Orphans' Court Calvert,2026-11-03,99.9,,False,4,1,53093,2026-11-18T14:46+00:00
+154856,MD,Maryland House of Delegates 7A,2026-11-03,99.9,2026-11-12T03:11:36.671Z,False,5,1,64937,2026-11-18T14:46+00:00
+155172,MD,Maryland County Commissioner Somerset Commissioner District 4,2026-11-03,99.9,,False,2,1,1641,2026-11-18T14:46+00:00
+154815,MD,Maryland State Senate 16,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,2,1,48460,2026-11-18T14:46+00:00
+155066,MD,Maryland Register of Wills Garrett,2026-11-03,99.9,,False,2,1,8428,2026-11-18T14:46+00:00
+154806,MD,Maryland State Senate 7,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,2,55741,2026-11-18T14:46+00:00
+155025,MD,Maryland County Commissioner Charles Commissioner District 4,2026-11-03,99.9,,False,4,1,13560,2026-11-18T14:46+00:00
+154892,MD,Maryland House of Delegates 33B,2026-11-03,99.9,2026-11-12T03:11:36.672Z,False,3,1,21181,2026-11-18T14:46+00:00
+186027,MD,Maryland Dorchester County Question A - Charter Amendment,2026-11-03,99.9,,False,2,1,10056,2026-11-18T14:46+00:00
+155134,MD,Maryland County Council Prince George's Councilmanic District 9,2026-11-03,99.9,,False,3,1,40521,2026-11-18T14:46+00:00
+186045,MD,Maryland Board of Education Wicomico Councilmanic District 1,2026-11-03,99.9,,False,2,1,617,2026-11-18T14:46+00:00
+154928,MD,Maryland Judge of the Circuit Court Circuit 8 Baltimore City,2026-11-03,99.9,,False,7,1,444033,2026-11-18T14:46+00:00
+154919,MD,Maryland Judge of the Circuit Court Circuit 2 Cecil,2026-11-03,99.9,,False,2,1,20510,2026-11-18T14:46+00:00
+186026,MD,Maryland Cecil County Question A - Charter Amendment,2026-11-03,99.9,,False,2,1,26471,2026-11-18T14:46+00:00
+154841,MD,Maryland State Senate 42,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,3,2,55662,2026-11-18T14:46+00:00
+186044,MD,Maryland Prince George's County Question J - Bond Issue,2026-11-03,99.9,,False,2,1,237534,2026-11-18T14:46+00:00
+155176,MD,Maryland Register of Wills Somerset,2026-11-03,99.9,,False,2,1,5567,2026-11-18T14:46+00:00
+186035,MD,Maryland Prince George's County Question A - Charter Amendment,2026-11-03,99.9,,False,2,1,236919,2026-11-18T14:46+00:00
+154918,MD,Maryland Judge of the Circuit Court Circuit 1 Worcester,2026-11-03,99.9,,False,2,1,15383,2026-11-18T14:46+00:00
+155194,MD,Maryland State's Attorney Washington,2026-11-03,99.9,,False,2,1,34730,2026-11-18T14:46+00:00
+155101,MD,Maryland State's Attorney Kent,2026-11-03,99.9,,False,3,1,7042,2026-11-18T14:46+00:00
+155128,MD,Maryland County Council Prince George's Councilmanic District 3,2026-11-03,99.9,,False,2,1,16951,2026-11-18T14:46+00:00
+155020,MD,Maryland Board of Education Cecil Councilmanic District 5,2026-11-03,99.9,,False,2,1,19364,2026-11-18T14:46+00:00
+155119,MD,Maryland Sheriff Montgomery,2026-11-03,99.9,,False,2,1,267267,2026-11-18T14:46+00:00
+155171,MD,Maryland County Commissioner Somerset Commissioner District 3,2026-11-03,99.9,,False,2,1,1323,2026-11-18T14:46+00:00
+155038,MD,Maryland County Council Dorchester Councilmanic District 4,2026-11-03,99.9,,False,2,1,1880,2026-11-18T14:46+00:00
+154805,MD,Maryland State Senate 6,2026-11-03,99.9,2026-11-12T01:54:12.321Z,False,3,1,34594,2026-11-18T14:46+00:00
+186008,MD,Maryland Baltimore City Question F - Charter Amendment,2026-11-03,99.9,,False,2,1,116971,2026-11-18T14:46+00:00
+154823,MD,Maryland State Senate 24,2026-11-03,99.9,2026-11-04T07:09:42.067Z,False,2,1,42543,2026-11-18T14:46+00:00
+87197,MD,Maryland US House 8,2026-11-03,89.6,2026-11-04T02:21:59.541Z,False,4,2,287737,2026-11-18T14:46+00:00
+87195,MD,Maryland US House 6,2026-11-03,87.5,2026-11-04T04:32:37.763Z,False,4,5,276406,2026-11-18T14:46+00:00
+87190,MD,Maryland US House 1,2026-11-03,87.9,2026-11-04T04:54:22.572Z,False,4,11,317083,2026-11-18T14:46+00:00
+87192,MD,Maryland US House 3,2026-11-03,91.4,2026-11-04T02:40:01.573Z,False,4,3,313067,2026-11-18T14:46+00:00
+87194,MD,Maryland US House 5,2026-11-03,90.3,2026-11-04T02:40:01.573Z,False,4,5,322774,2026-11-18T14:46+00:00
+87196,MD,Maryland US House 7,2026-11-03,83.5,2026-11-04T02:40:01.573Z,False,3,2,219595,2026-11-18T14:46+00:00
+87193,MD,Maryland US House 4,2026-11-03,86.1,2026-11-04T02:40:01.573Z,False,4,2,200938,2026-11-18T14:46+00:00
+87191,MD,Maryland US House 2,2026-11-03,88.3,2026-11-04T04:02:17.866Z,False,3,3,291916,2026-11-18T14:46+00:00

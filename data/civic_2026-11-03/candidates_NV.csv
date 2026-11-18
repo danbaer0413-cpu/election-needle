@@ -1,0 +1,665 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+156709,NV,Kristina Pickering,Nonpartisan,653688,75.933,True,False
+156709,NV,None of These Candidates,,207182,24.067,False,False
+157055,NV,Yes,Nonpartisan,663517,62.195,True,False
+157055,NV,No,Nonpartisan,403317,37.805,False,False
+87260,NV,Aaron Ford,Democratic,563151,51.59,True,False
+87260,NV,Joe Lombardo,Republican,480595,44.027,False,False
+87260,NV,Danielle Ford,No Political Party,31765,2.91,False,False
+87260,NV,None of These Candidates,,16070,1.472,False,False
+157054,NV,Yes,Nonpartisan,672617,63.487,True,False
+157054,NV,No,Nonpartisan,386834,36.513,False,False
+87262,NV,Nicole Cannizzaro,Democratic,608249,56.378,True,False
+87262,NV,Adriana Guzmán Fralick,Republican,446641,41.399,False,False
+87262,NV,None of These Candidates,,23981,2.223,False,False
+159556,NV,Democratic,Democratic,271775,51.335,False,False
+159556,NV,Republican,Republican,256100,48.375,False,False
+159556,NV,Independent American,Independent American,1535,0.29,False,False
+87265,NV,Michael MacDougall,Democratic,551772,55.473,True,False
+87265,NV,Andy Matthews,Republican,442901,44.527,False,False
+87261,NV,Sandra Jauregui,Democratic,589813,54.421,True,False
+87261,NV,Stavros Anthony,Republican,444693,41.031,False,False
+87261,NV,Janine Hansen,Independent American,30119,2.779,False,False
+87261,NV,None of These Candidates,,19177,1.769,False,False
+159555,NV,Democratic,Democratic,566151,55.988,False,False
+159555,NV,Republican,Republican,424492,41.979,False,False
+159555,NV,Libertarian,Libertarian,14703,1.454,False,False
+159555,NV,Independent American,Independent American,4041,0.4,False,False
+159555,NV,Independent,Independent,1820,0.18,False,False
+87264,NV,Tya Mathis-Coleman,Democratic,593952,55.115,True,False
+87264,NV,Drew Johnson,Republican,462618,42.928,False,False
+87264,NV,None of These Candidates,,21087,1.957,False,False
+156710,NV,Douglas Herndon,Nonpartisan,653648,76.048,True,False
+156710,NV,None of These Candidates,,205870,23.952,False,False
+87263,NV,Cisco Aguilar,Democratic,616920,56.98,True,False
+87263,NV,Jim Marchant,Republican,425181,39.27,False,False
+87263,NV,Brad Lee Barnhill,Independent American,16331,1.508,False,False
+87263,NV,None of These Candidates,,14755,1.363,False,False
+87263,NV,John T. Kennedy,Libertarian,9514,0.879,False,False
+156712,NV,"Kimberly A. (""Kim"") Wanker",Nonpartisan,10244,59.135,False,False
+156712,NV,Nathan Gent,Nonpartisan,7079,40.865,False,False
+156927,NV,Angel Cardenas,Nonpartisan,4670,88.43,False,False
+156927,NV,Gregory S. Thurston,Nonpartisan,611,11.57,False,False
+156915,NV,Miles A. Umina,Nonpartisan,545,74.658,False,False
+156915,NV,Jason Flanagan,Nonpartisan,185,25.342,False,False
+156906,NV,Mark Stezaker,Republican,114,70.37,False,False
+156906,NV,James Dufour,No Political Party,48,29.63,False,False
+156894,NV,Brooke Williams Ballard,Nonpartisan,8386,100.0,False,False
+157045,NV,Wendi M. Rawson,Nonpartisan,16382,50.017,False,False
+157045,NV,Ed Lawson,Nonpartisan,16371,49.983,False,False
+156800,NV,Tim Williams,Nonpartisan,421957,100.0,False,False
+156779,NV,Steve Wolfson,Democratic,494123,100.0,False,False
+156770,NV,Alex J. Pereszlenyi,Democratic,14810,61.406,True,False
+156770,NV,Joe Ludwig,Republican,9308,38.594,False,False
+156733,NV,Art Mallory,Republican,7870,100.0,False,False
+156948,NV,Derek Foremaster,Nonpartisan,1580,84.809,False,False
+156948,NV,Sean N. Horlacher,Nonpartisan,283,15.191,False,False
+156991,NV,Joe Crim Jr,Republican,1388,100.0,False,False
+156979,NV,Kayla Ball,Republican,15040,100.0,False,False
+156970,NV,Teresa M. McNally,Republican,1315,100.0,False,False
+156741,NV,Melanie Scheible,Democratic,29167,62.468,True,False
+156741,NV,Maria Thompson,Republican,17524,37.532,False,False
+156924,NV,Michael R. Montero,Nonpartisan,4793,100.0,False,False
+156944,NV,Mike Reese,Republican,1668,100.0,False,False
+156871,NV,Amy Burgans,Republican,20756,100.0,False,False
+156850,NV,Kelby Robison,Nonpartisan,621,69.775,False,False
+156850,NV,Janice M. Ridondo,Nonpartisan,269,30.225,False,False
+157033,NV,Tamatha Schreinert,Nonpartisan,111766,100.0,False,False
+157021,NV,Dixie Grossman,Nonpartisan,116996,100.0,False,False
+157012,NV,Marie Rodriguez,Democratic,21932,50.594,False,False
+157012,NV,Jon Killoran,Republican,21417,49.406,False,False
+156776,NV,"""Tick"" Segerblom",Democratic,45031,66.459,False,False
+156776,NV,Manny Kess,Republican,22727,33.541,False,False
+156838,NV,Margaret E. Pickard,Nonpartisan,418706,100.0,False,False
+157050,NV,Jose A. Noriega,Republican,2247,74.207,False,False
+157050,NV,George Chachas,Democratic,781,25.793,False,False
+157041,NV,Zee Bogale,Nonpartisan,58914,100.0,False,False
+156805,NV,Tara Clark Newberry,Nonpartisan,314290,63.141,False,False
+156805,NV,Alex Hubert,Nonpartisan,183471,36.859,False,False
+156796,NV,Michelle Leavitt,Nonpartisan,360523,70.754,False,False
+156796,NV,Dan Gilliam,Nonpartisan,149018,29.246,False,False
+157008,NV,Natha C. Anderson,Democratic,13347,66.222,True,False
+157008,NV,Trista Gomez,Republican,6808,33.778,False,False
+156967,NV,Alisa Rhyno,Nonpartisan,660,58.511,False,False
+156967,NV,Ryan Cross,Nonpartisan,468,41.489,False,False
+156953,NV,Staci Lindberg,Republican,19257,100.0,False,False
+156900,NV,Chip Stone,Nonpartisan,1615,25.306,False,False
+156900,NV,"James Q. ""Jim"" Winer",Nonpartisan,1455,22.798,False,False
+156900,NV,Walter Fick,Nonpartisan,1136,17.8,False,False
+156900,NV,Marcella Syme,Nonpartisan,845,13.24,False,False
+156900,NV,Brandy Anderson,Nonpartisan,686,10.749,False,False
+156900,NV,Randy Ridgway,Nonpartisan,645,10.107,False,False
+156859,NV,Amanda Pellizzari,Nonpartisan,78693,55.875,False,False
+156859,NV,Matt Walker,Nonpartisan,62145,44.125,False,False
+156847,NV,Irene Bustamante Adams,Nonpartisan,41722,61.739,False,False
+156847,NV,Robert E. Hutchinson,Nonpartisan,25856,38.261,False,False
+156929,NV,JoAnn Casalez,Nonpartisan,1050,44.643,False,False
+156929,NV,Mark Carlson,Nonpartisan,812,34.524,False,False
+156929,NV,Christine M Reves,Nonpartisan,490,20.833,False,False
+156728,NV,Curtis W. Horton,Nonpartisan,11794,54.203,False,False
+156728,NV,Mayita Sanchez,Nonpartisan,9965,45.797,False,False
+156908,NV,Tim Sutton,Republican,324,100.0,False,False
+156867,NV,Michael Allmon,Nonpartisan,49364,53.024,False,False
+156867,NV,John Cory,Nonpartisan,43733,46.976,False,False
+156887,NV,Tyler J. Ingram,Republican,9031,100.0,False,False
+157038,NV,Sheena R. Harvey,Nonpartisan,34690,51.89,False,False
+157038,NV,Brooke M. Westlake,Nonpartisan,32163,48.11,False,False
+157017,NV,Wes Duncan,Republican,121154,100.0,False,False
+156772,NV,Joe Spica,Democratic,16536,58.526,True,False
+156772,NV,Rebecca Edgeworth,Republican,11718,41.474,False,False
+156962,NV,Kallie B Day,Nonpartisan,11038,58.242,False,False
+156962,NV,Vince Spoon,Nonpartisan,7914,41.758,False,False
+156950,NV,J. Scott Keller,Republican,18331,100.0,False,False
+156941,NV,Cydney Dwire,Republican,1752,100.0,False,False
+156993,NV,Jeffrey Kearns,Republican,1412,100.0,False,False
+156792,NV,Jessica K. Peterson,Nonpartisan,294638,57.75,False,False
+156792,NV,Austin Beaumont,Nonpartisan,215556,42.25,False,False
+156972,NV,Kelly Owens,Republican,1285,100.0,False,False
+156963,NV,Vida D. Keller,Nonpartisan,1267,26.696,False,False
+156963,NV,Elinor L. Jackson,Nonpartisan,1210,25.495,False,False
+156963,NV,Brent Lovett,Nonpartisan,1164,24.526,False,False
+156963,NV,Diane C. Schramke,Nonpartisan,1105,23.283,False,False
+156958,NV,Charles W Shirley,Nonpartisan,5841,61.387,False,False
+156958,NV,Jennifer Williamson,Nonpartisan,3674,38.613,False,False
+156725,NV,Richard Varner,Nonpartisan,18944,100.0,False,False
+156896,NV,Carlos Esparza,Nonpartisan,153,100.0,False,False
+156843,NV,Jennifer McGrath,Nonpartisan,28665,61.71,False,False
+156843,NV,Patrick L. Villa,Nonpartisan,17786,38.29,False,False
+156834,NV,Marilyn A. Caston,Nonpartisan,295891,60.212,False,False
+156834,NV,Bill Henderson,Nonpartisan,195522,39.788,False,False
+157014,NV,Brian Wadsworth,Democratic,19490,53.381,False,False
+157014,NV,Rob Pierce,Republican,15765,43.179,False,False
+157014,NV,Lisa Lee,Libertarian,1256,3.44,False,False
+157005,NV,Selena La Rue Hatch,Democratic,20141,59.359,True,False
+157005,NV,Michael A. Ginsburg,Republican,13790,40.641,False,False
+156840,NV,Heidi Almase,Nonpartisan,411118,100.0,False,False
+156863,NV,Daniele Monroe-Moreno,Nonpartisan,37464,58.048,False,False
+156863,NV,Scott Black,Nonpartisan,27076,41.952,False,False
+157043,NV,Eddie Gomez,Nonpartisan,5455,50.58,False,False
+157043,NV,Meghan Ebert,Nonpartisan,5330,49.42,False,False
+157034,NV,David A. Hardy,Nonpartisan,115678,100.0,False,False
+157022,NV,Tammy M. Riggs,Nonpartisan,117064,100.0,False,False
+156789,NV,Veronica Barisich,Nonpartisan,291940,57.691,False,False
+156789,NV,Tracy Hibbetts,Nonpartisan,214104,42.309,False,False
+156743,NV,Julie Ann Pazina,Democratic,31261,60.038,True,False
+156743,NV,Rafael Arroyo,Republican,20808,39.962,False,False
+156946,NV,Amy N. Elmer,Republican,1762,100.0,False,False
+156713,NV,Robert W. Lane,Nonpartisan,9175,54.868,False,False
+156713,NV,Jason Earnest,Nonpartisan,7547,45.132,False,False
+156893,NV,Jeff Durham,Nonpartisan,8415,100.0,False,False
+156884,NV,Travis W. Gerber,Republican,9055,100.0,False,False
+156934,NV,Molly Gonzalez,Republican,1792,100.0,False,False
+156730,NV,Myles R. Getto,Republican,7853,100.0,False,False
+156721,NV,Andrew Rasor,Nonpartisan,19370,100.0,False,False
+156869,NV,Scott Morgan,Republican,17229,66.88,False,False
+156869,NV,Diane Imbach,Democratic,8532,33.12,False,False
+156860,NV,Jessica A. Green,Nonpartisan,77493,55.999,False,False
+156860,NV,Allycia Murphy,Nonpartisan,60891,44.001,False,False
+156880,NV,"Wynona ""Shelly"" Gonzalez",Nonpartisan,394,31.672,False,False
+156880,NV,Alton Randall,Nonpartisan,358,28.778,False,False
+156880,NV,Michael J. Tanner,Nonpartisan,265,21.302,False,False
+156880,NV,Donna Tanner,Nonpartisan,227,18.248,False,False
+157031,NV,Sandra A. Unsworth,Nonpartisan,112632,100.0,False,False
+157010,NV,Chris Sarman,Republican,120538,100.0,False,False
+156777,NV,Minja Yan,Democratic,58138,53.475,False,False
+156777,NV,Heidi Kasama,Republican,42554,39.141,False,False
+156777,NV,Becky Harris,No Political Party,8028,7.384,False,False
+156765,NV,David Orentlicher,Democratic,12185,75.096,True,False
+156765,NV,Stan Vaughan,Independent American,4041,24.904,False,False
+156955,NV,Mark Krueger,Republican,14592,65.07,False,False
+156955,NV,Mario Walther,No Political Party,7833,34.93,False,False
+156943,NV,Bevan Lister,Republican,1725,100.0,False,False
+156794,NV,Tierra D. Jones,Nonpartisan,425384,100.0,False,False
+156785,NV,"Bita ""Marie"" Yeager",Nonpartisan,455155,100.0,False,False
+156965,NV,Timothy Bickerton,Nonpartisan,3668,51.495,False,False
+156965,NV,Neal E. McIntyre,Nonpartisan,3455,48.505,False,False
+156739,NV,Edgar Flores,Democratic,18991,100.0,True,False
+156759,NV,Erica Mosca,Democratic,11136,100.0,True,False
+156718,NV,Pete Goicoechea,Nonpartisan,31390,50.534,False,False
+156718,NV,Lori Lane,Nonpartisan,30726,49.466,False,False
+156889,NV,Al Kacin,Nonpartisan,8788,100.0,False,False
+156836,NV,Nadin Cutter,Nonpartisan,409423,100.0,False,False
+157019,NV,"Joseph ""Joe"" Arrascada",Nonpartisan,39074,57.817,False,False
+157019,NV,Peter Reed,Nonpartisan,28508,42.183,False,False
+157007,NV,Heather Goulding,Democratic,16372,67.305,True,False
+157007,NV,"Veronica ""Lunch Lady"" Cortes",Republican,7953,32.695,False,False
+156998,NV,Jana V. Seddon,Republican,1802,100.0,False,False
+156865,NV,Corey Hammerbeck,Nonpartisan,1158,55.407,False,False
+156865,NV,Jordan Ross,Nonpartisan,932,44.593,False,False
+156856,NV,Jennifer Atlas,Nonpartisan,13490,58.859,False,False
+156856,NV,Carrie Cox,Nonpartisan,9429,41.141,False,False
+157036,NV,"Ryan ""RB"" Brooks",Nonpartisan,2907,40.766,False,False
+157036,NV,David S. Noble,Nonpartisan,2802,39.293,False,False
+157036,NV,Harry Swenson,Nonpartisan,1422,19.941,False,False
+157027,NV,Barry Breslow,Nonpartisan,117163,100.0,False,False
+156823,NV,Rhonda K. Forsberg,Nonpartisan,414718,100.0,False,False
+156782,NV,Tanya Flanagan,Democratic,394076,59.923,False,False
+156782,NV,Bill Young,Republican,246895,37.542,False,False
+156782,NV,Steven T. Borella,Libertarian,16671,2.535,False,False
+156960,NV,Christine Sullivan,Nonpartisan,3612,39.338,False,False
+156960,NV,Aaron Wilson,Nonpartisan,3315,36.103,False,False
+156960,NV,Erik Wallitner,Nonpartisan,2255,24.559,False,False
+156939,NV,Rebecca Lake,Nonpartisan,1145,27.818,False,False
+156939,NV,Manuel Villanueva,Nonpartisan,1143,27.77,False,False
+156939,NV,Daniel Goodwin,Nonpartisan,940,22.838,False,False
+156939,NV,Cayla Millsap,Nonpartisan,888,21.574,False,False
+156706,NV,Gregory S. Koenig,Republican,21076,100.0,True,False
+156886,NV,Cheryl Paul,Republican,9133,100.0,False,False
+156877,NV,Nancy Jones,Nonpartisan,763,22.251,False,False
+156877,NV,Robert Stulac,Nonpartisan,746,21.756,False,False
+156877,NV,Robert M Garcia,Nonpartisan,717,20.91,False,False
+156877,NV,Lynn Dement,Nonpartisan,645,18.81,False,False
+156877,NV,Johnathan Nuthall,Nonpartisan,558,16.273,False,False
+156936,NV,"Alexis ""Lexi"" Reiva",Republican,1774,100.0,False,False
+156735,NV,Tasha Hessey,Republican,8012,100.0,False,False
+156723,NV,Kelly Brandon,Nonpartisan,12006,55.018,False,False
+156723,NV,David A. Bailey,Nonpartisan,9816,44.982,False,False
+156714,NV,Jason D. Woodbury,Nonpartisan,21639,100.0,False,False
+156702,NV,Robin L. Titus,Republican,45298,68.863,True,False
+156702,NV,Lynne Ballatore,Democratic,20482,31.137,False,False
+156853,NV,Joe Hardy,Nonpartisan,4536,76.557,False,False
+156853,NV,Brent Foutz,Nonpartisan,1389,23.443,False,False
+157024,NV,"Kristine E. ""Kris"" Riley",Nonpartisan,115952,100.0,False,False
+157003,NV,"Richard ""Skip"" Daly",Democratic,27602,68.371,True,False
+157003,NV,Matthew R. Buehler,Republican,11234,27.827,False,False
+157003,NV,Charlene Young,Independent American,1535,3.802,False,False
+156994,NV,Melanie Hamilton,Republican,1484,100.0,False,False
+156957,NV,Stephen B. Rye,Nonpartisan,18281,100.0,False,False
+156756,NV,Cinthia Moore,Democratic,8881,100.0,True,False
+157000,NV,Melanie A. Brantingham,Republican,1777,100.0,False,False
+156799,NV,Joe Hardy Jr.,Nonpartisan,428763,100.0,False,False
+156787,NV,Monica Trujillo,Nonpartisan,446926,100.0,False,False
+156778,NV,Jim Gibson,Democratic,63222,61.338,False,False
+156778,NV,Jon Maxham,Republican,39850,38.662,False,False
+156766,NV,Elaine Marzola,Democratic,15607,58.752,True,False
+156766,NV,Patsy A. Carvalho,Republican,10390,39.113,False,False
+156766,NV,Tighe Galvin,Libertarian,567,2.134,False,False
+156732,NV,Linda Rothery,Republican,8022,100.0,False,False
+156752,NV,"Cameron ""C.H."" Miller",Democratic,15948,81.206,True,False
+156752,NV,"Anthony Scott ""Red"" Willett",Libertarian,3691,18.794,False,False
+156903,NV,"Gabriela ""Gabi"" Soriano",Nonpartisan,80,20.997,False,False
+156903,NV,Carlos Benitez,Nonpartisan,70,18.373,False,False
+156903,NV,Emily Roberts,Nonpartisan,57,14.961,False,False
+156903,NV,John B. Hanson,Nonpartisan,55,14.436,False,False
+156903,NV,Natalie Hammar,Nonpartisan,42,11.024,False,False
+156903,NV,Deyra Esparza,Nonpartisan,41,10.761,False,False
+156903,NV,Daniel Hart,Nonpartisan,21,5.512,False,False
+156903,NV,Todd Hooks,Nonpartisan,15,3.937,False,False
+156882,NV,"Rebecca ""Becky"" Plunkett",Republican,9198,100.0,False,False
+156841,NV,Adriana Rincon White,Nonpartisan,416124,100.0,False,False
+156829,NV,Amy M. Mastin,Nonpartisan,413892,100.0,False,False
+156820,NV,Gwynneth Smith,Nonpartisan,273007,55.191,False,False
+156820,NV,Patricia A. Marr,Nonpartisan,221652,44.809,False,False
+170070,NV,No,Nonpartisan,4726,70.548,False,False
+170070,NV,Yes,Nonpartisan,1973,29.452,False,False
+156858,NV,Shannon Nordstrom,Nonpartisan,15307,50.231,False,False
+156858,NV,Luke McCarthy,Nonpartisan,15166,49.769,False,False
+156849,NV,Aaron Dalley,Nonpartisan,767,67.518,False,False
+156849,NV,Marc Jensen,Nonpartisan,369,32.482,False,False
+157029,NV,Kathleen A. Sigurdson,Nonpartisan,112988,100.0,False,False
+157020,NV,Derek C. Dreiling,Nonpartisan,74411,52.211,False,False
+157020,NV,"Edmund ""Joe"" Gorman",Nonpartisan,68109,47.789,False,False
+156816,NV,Christy Craig,Nonpartisan,408292,100.0,False,False
+156775,NV,Tracy Brown-May,Democratic,13630,64.695,True,False
+156775,NV,Christopher Brandlin,Republican,7438,35.305,False,False
+156761,NV,Cecelia González,Democratic,11654,63.107,True,False
+156761,NV,John Carlo,Republican,6813,36.893,False,False
+156708,NV,Julie A. Butler,Republican,18408,54.61,True,False
+156708,NV,Oscar Fuentes,Democratic,15300,45.39,False,False
+156891,NV,Pedro G. Ormaza,Nonpartisan,4667,54.796,False,False
+156891,NV,Misty Atkins,Nonpartisan,3850,45.204,False,False
+156879,NV,Elizabeth Higgins,Nonpartisan,77,27.305,False,False
+156879,NV,Sharon Rusk,Nonpartisan,72,25.532,False,False
+156879,NV,Dan Rippinger,Nonpartisan,70,24.823,False,False
+156879,NV,Timothy Barabe,Nonpartisan,63,22.34,False,False
+156737,NV,Amber Casey-Getto,Nonpartisan,5475,22.086,False,False
+156737,NV,Joe McFadden,Nonpartisan,5405,21.803,False,False
+156737,NV,Celestia Blakey,Nonpartisan,4950,19.968,False,False
+156737,NV,Keith W. Boone,Nonpartisan,4903,19.778,False,False
+156737,NV,W Derild Parsons,Nonpartisan,4057,16.365,False,False
+156952,NV,Troy R. Villines,Republican,18940,100.0,False,False
+156716,NV,Steve L. Dobrescu,Nonpartisan,4969,100.0,False,False
+156899,NV,Giovanni E. Puccinelli,Nonpartisan,2069,58.053,False,False
+156899,NV,Marissa Lostra,Nonpartisan,1155,32.407,False,False
+156899,NV,Mike Hagen,Nonpartisan,340,9.54,False,False
+156919,NV,Giovanni Giordano,Republican,3877,73.932,False,False
+156919,NV,Mike Loupas,Independent American,1367,26.068,False,False
+156846,NV,Brenda Zamora,Nonpartisan,27523,64.623,False,False
+156846,NV,David Gomez,Nonpartisan,15067,35.377,False,False
+156825,NV,"Soonhee ""Sunny"" Bailey",Nonpartisan,418275,100.0,False,False
+156996,NV,Dale Rutherford,Nonpartisan,244,51.695,False,False
+156996,NV,Kelly Kussy,Nonpartisan,134,28.39,False,False
+156996,NV,Joanne M. Malone,Nonpartisan,67,14.195,False,False
+156996,NV,Misty I. Moepono-Wood,Nonpartisan,27,5.72,False,False
+156763,NV,Venicia Considine,Democratic,14105,70.104,True,False
+156763,NV,Crystal Newton,Republican,6015,29.896,False,False
+156758,NV,Daniel Andrews,Democratic,16522,53.011,True,False
+156758,NV,Brian Hibbetts,Republican,14140,45.368,False,False
+156758,NV,Gage C. Beck,Libertarian,505,1.62,False,False
+156749,NV,Eileen Eady,Democratic,15586,53.291,True,False
+156749,NV,Lisa Cole,Republican,13661,46.709,False,False
+156801,NV,Jennifer Schwartz,Nonpartisan,370304,74.327,False,False
+156801,NV,Jake Villani,Nonpartisan,127903,25.673,False,False
+157016,NV,Justin Taylor,Republican,121568,100.0,False,False
+156780,NV,Tamicka N. Washington,Democratic,390878,59.311,False,False
+156780,NV,Judy Joe,Republican,252449,38.306,False,False
+156780,NV,Lynette Warren,Libertarian,15706,2.383,False,False
+156771,NV,Hanadi Nadeem,Democratic,14251,62.999,True,False
+156771,NV,Brandon Davis,Republican,8370,37.001,False,False
+156983,NV,Bill Hockstedler,Republican,14669,100.0,False,False
+156949,NV,Lynn R. Jackson,Nonpartisan,269,44.833,False,False
+156949,NV,"James ""Bill"" Bradshaw",Nonpartisan,156,26.0,False,False
+156949,NV,Jeff Johnson,Nonpartisan,88,14.667,False,False
+156949,NV,Joseph E. Livreri,Nonpartisan,87,14.5,False,False
+156704,NV,Bert K. Gurr,Republican,18932,100.0,True,False
+156875,NV,Tom Gregory,Nonpartisan,18944,100.0,False,False
+170066,NV,No,Nonpartisan,5046,54.223,False,False
+170066,NV,Yes,Nonpartisan,4260,45.777,False,False
+156822,NV,Denise L. Gentile,Nonpartisan,415009,100.0,False,False
+156813,NV,Jacob Reynolds,Nonpartisan,252172,50.565,False,False
+156813,NV,Alex Quagge,Nonpartisan,246536,49.435,False,False
+156872,NV,Mark B. Jackson,Republican,20324,100.0,False,False
+156895,NV,Aitor Narvaiza,Nonpartisan,6192,61.858,False,False
+156895,NV,Mike Silva,Nonpartisan,3818,38.142,False,False
+156851,NV,Gary Elgort,Nonpartisan,3992,36.278,False,False
+156851,NV,James Anton,Nonpartisan,3644,33.115,False,False
+156851,NV,Omar Vallejo,Nonpartisan,3368,30.607,False,False
+156842,NV,"Michele ""Shell"" Mercer",Nonpartisan,413961,100.0,False,False
+156830,NV,Kerri Jean Maxey,Nonpartisan,314856,63.584,False,False
+156830,NV,Michel Gaudet,Nonpartisan,180324,36.416,False,False
+157013,NV,Mariluz Garcia,Democratic,16419,73.195,False,False
+157013,NV,Troy P. Regas,Republican,6013,26.805,False,False
+156768,NV,Denise Daniels Fanning,Republican,21598,54.881,True,False
+156768,NV,Jan Allen Aspelund,Democratic,17756,45.119,False,False
+156754,NV,Ryan Hampton,Democratic,15518,60.967,True,False
+156754,NV,Erica Alejandra Neely,Republican,9935,39.033,False,False
+156937,NV,"Jusdivia ""Justi"" Johnson",Republican,1773,100.0,False,False
+156701,NV,Lisa Krasner,Republican,40169,53.923,True,False
+156701,NV,Chrystal L. Roll,Democratic,34324,46.077,False,False
+156916,NV,Diana V. Kersey,Nonpartisan,88,30.556,False,False
+156916,NV,Jeremy C. Rice,Nonpartisan,88,30.556,False,False
+156916,NV,Laura S. Shivers,Nonpartisan,57,19.792,False,False
+156916,NV,Brent Jones,Nonpartisan,55,19.097,False,False
+156742,NV,Fabian Donate,Democratic,21629,100.0,True,False
+156954,NV,Anita Talbot,Republican,19013,100.0,False,False
+156945,NV,Franklin J. Katschke,Republican,1733,100.0,False,False
+156901,NV,Gary R. Pollock,Nonpartisan,125,100.0,False,False
+156892,NV,Susan Neal,Nonpartisan,5047,55.972,False,False
+156892,NV,Tiffanie Eden,Nonpartisan,3970,44.028,False,False
+156912,NV,"Pernecia ""Necie"" Johnson",Republican,682,100.0,False,False
+156839,NV,Stacy Rocheleau,Nonpartisan,418098,100.0,False,False
+156818,NV,Linda Marquis,Nonpartisan,424431,100.0,False,False
+157001,NV,Dru McPherson,Republican,1792,100.0,False,False
+156989,NV,Jennifer Hill,Republican,1511,100.0,False,False
+156980,NV,Debra Thomas,Republican,2399,69.577,False,False
+156980,NV,Anthony Greco,Independent American,1049,30.423,False,False
+156751,NV,Jovan Alexander Jackson,Democratic,11277,86.104,True,False
+156751,NV,"Katherine ""Katie"" Duncan",No Political Party,1820,13.896,False,False
+157018,NV,Blaise Jorgensen,Democratic,100511,54.351,False,False
+157018,NV,Nicole Klitzke,Republican,84419,45.649,False,False
+157009,NV,Jill Dickman,Republican,18513,51.329,True,False
+157009,NV,Neal Schwartz,Democratic,17554,48.671,False,False
+156773,NV,Shea M. Backus,Democratic,17956,57.516,True,False
+156773,NV,Jill M. Douglass,Republican,13263,42.484,False,False
+156764,NV,Jason Patchett,Republican,21327,68.209,True,False
+156764,NV,Zackaraih Lysaght,Libertarian,9940,31.791,False,False
+156976,NV,Jessica Aragona,Nonpartisan,91,52.299,False,False
+156976,NV,Michael D. Domagala,Nonpartisan,83,47.701,False,False
+156942,NV,Lisa Lloyd,Republican,1811,100.0,False,False
+156921,NV,Tia H. Lange,Republican,4752,100.0,False,False
+170068,NV,Yes,Nonpartisan,13176,53.353,False,False
+170068,NV,No,Nonpartisan,11520,46.647,False,False
+156827,NV,Cynthia N. Giuliani,Nonpartisan,421166,100.0,False,False
+156815,NV,Joanna S. Kishner,Nonpartisan,280398,58.65,False,False
+156815,NV,Alexandra Beth McLeod,Nonpartisan,197685,41.35,False,False
+156806,NV,Susan Johnson,Nonpartisan,421549,100.0,False,False
+156897,NV,Dannie D. Taylor,Nonpartisan,113,69.753,False,False
+156897,NV,Fred Montes De Oca,Nonpartisan,49,30.247,False,False
+156888,NV,Kriston N. Hill,Nonpartisan,8764,100.0,False,False
+156844,NV,Byron Brooks,Nonpartisan,28219,61.316,False,False
+156844,NV,Erik Swendseid,Nonpartisan,17803,38.684,False,False
+156835,NV,Kristine Brewer,Nonpartisan,273665,55.699,False,False
+156835,NV,Randall Forman,Nonpartisan,217659,44.301,False,False
+157047,NV,Burton Hilton,Republican,2611,100.0,False,False
+157006,NV,Richard DeLong,Republican,21161,52.368,True,False
+157006,NV,Sam Baugh,Democratic,19247,47.632,False,False
+156985,NV,Raelyn Powers,Republican,14811,100.0,False,False
+156747,NV,Kamilah Bywaters,Democratic,15517,52.502,True,False
+156747,NV,Drew Teitelbaum,Republican,14038,47.498,False,False
+156930,NV,Randy Artz,Republican,1325,67.914,False,False
+156930,NV,Amy L. Nelson,No Political Party,626,32.086,False,False
+156918,NV,Tami Rae Spero,Republican,4880,100.0,False,False
+156909,NV,Michael A. Mears,Republican,675,100.0,False,False
+156744,NV,Danielle Gallant,Republican,41643,56.421,True,False
+156744,NV,Calvin Sandoval,Democratic,32164,43.579,False,False
+156959,NV,Alissa M. Villalobos,Nonpartisan,1583,19.411,False,False
+156959,NV,Lacey D. Parrott,Nonpartisan,1529,18.749,False,False
+156959,NV,Stephani Johnston,Nonpartisan,1430,17.535,False,False
+156959,NV,Leah Miller,Nonpartisan,1251,15.34,False,False
+156959,NV,Lea Sencion,Nonpartisan,1184,14.519,False,False
+156959,NV,Toni C. Britschgi,Nonpartisan,1178,14.445,False,False
+156947,NV,Shawn Frehner,Republican,1769,100.0,False,False
+156938,NV,Arthur Bryan Aten,Nonpartisan,1021,51.801,False,False
+156938,NV,Ron Unger,Nonpartisan,950,48.199,False,False
+156926,NV,Lily N. Gustafson,Nonpartisan,57,55.882,False,False
+156926,NV,Gracie Vanburen,Nonpartisan,45,44.118,False,False
+156885,NV,D. Mike Smales,Republican,9135,100.0,False,False
+156832,NV,Mary Perry,Nonpartisan,248145,51.856,False,False
+156832,NV,Jennifer Isso,Nonpartisan,230385,48.144,False,False
+156811,NV,Erika Mendoza,Nonpartisan,425020,100.0,False,False
+156802,NV,Mary Kay Holthus,Nonpartisan,419728,100.0,False,False
+156982,NV,Brian Kunzi,Republican,14368,100.0,False,False
+156973,NV,Ryan McCormick,Republican,1226,100.0,False,False
+156808,NV,Colleen Brown,Nonpartisan,423220,100.0,False,False
+157023,NV,Connie Steinheimer,Nonpartisan,110790,100.0,False,False
+157011,NV,Sean McDowell,Democratic,105896,57.206,False,False
+157011,NV,Duane Meyer,Republican,79216,42.794,False,False
+157002,NV,Jay Carmona,Nonpartisan,1312,65.534,False,False
+157002,NV,"Michael ""Mike"" Wilson Esq.",Nonpartisan,690,34.466,False,False
+156990,NV,Lacey Donaldson,No Political Party,1091,70.296,False,False
+156990,NV,Leonna D. Bianchi,No Political Party,461,29.704,False,False
+156956,NV,"John ""JP"" Schlegelmilch",Nonpartisan,18540,100.0,False,False
+156711,NV,Bryce Shields,Nonpartisan,4403,100.0,False,False
+156914,NV,Dillon Z. Pollock,Nonpartisan,379,56.737,False,False
+156914,NV,Frederick D. Buckmaster,Nonpartisan,289,43.263,False,False
+156873,NV,Shawnyne Garren,Republican,20205,100.0,False,False
+157053,NV,Melissa A. Brown,Republican,2581,100.0,False,False
+157044,NV,"Angela ""Angie"" Gianoli",Nonpartisan,47724,64.813,False,False
+157044,NV,Jenny Diane Hubach,Nonpartisan,25909,35.187,False,False
+156870,NV,Trent Tholen,Republican,20517,100.0,False,False
+156890,NV,Mason E. Simons,Nonpartisan,8744,100.0,False,False
+156881,NV,Janet L. Iribarne-Hutton,Republican,9079,100.0,False,False
+156837,NV,Dawn R. Throne,Nonpartisan,414915,100.0,False,False
+156828,NV,David S. Gibson Jr.,Nonpartisan,417967,100.0,False,False
+157040,NV,Kate Marshall,Nonpartisan,52776,60.912,False,False
+157040,NV,Kathleen Taylor,Nonpartisan,33867,39.088,False,False
+156999,NV,Jim Hindle,Republican,1804,100.0,False,False
+156978,NV,Sheree Stringer,Republican,15177,100.0,False,False
+156932,NV,Alicia A. Price,Republican,1698,100.0,False,False
+156923,NV,Wendy Maddox,Republican,4649,100.0,False,False
+156911,NV,"Richard ""Rich"" McKay",Republican,658,100.0,False,False
+156961,NV,Michael Moore,Nonpartisan,9935,52.475,False,False
+156961,NV,Pete Chapin,Nonpartisan,8998,47.525,False,False
+156760,NV,Miguel Davila,Democratic,9116,100.0,True,False
+156940,NV,Tina V. Linsowe,Nonpartisan,34,59.649,False,False
+156940,NV,David Hardin,Nonpartisan,23,40.351,False,False
+156707,NV,Blayne Osborn,Republican,26354,67.006,True,False
+156707,NV,Erich Obermayr,Democratic,12977,32.994,False,False
+156727,NV,Stacey Giomi,Nonpartisan,19288,100.0,False,False
+156878,NV,John Shearer,Nonpartisan,456,24.398,False,False
+156878,NV,Bob Keller,Nonpartisan,399,21.348,False,False
+156878,NV,John Nelson,Nonpartisan,306,16.372,False,False
+156878,NV,Cynthia M. Trigg,Nonpartisan,301,16.105,False,False
+156878,NV,Martin Crawford,Nonpartisan,284,15.195,False,False
+156878,NV,Patrick Smorra,Nonpartisan,123,6.581,False,False
+157049,NV,David Pratt,Republican,2669,100.0,False,False
+156804,NV,Eric Johnson,Nonpartisan,420939,100.0,False,False
+156987,NV,Michael Foley,Nonpartisan,8660,58.68,False,False
+156987,NV,Scott A. Oakley,Nonpartisan,6098,41.32,False,False
+156975,NV,William R. McGregor,Nonpartisan,811,34.35,False,False
+156975,NV,Alton H. Dimmick Jr.,Nonpartisan,776,32.867,False,False
+156975,NV,Steven Adair,Nonpartisan,774,32.783,False,False
+156966,NV,Debbie Skinner,Nonpartisan,792,54.098,False,False
+156966,NV,Ryan P. Hanan,Nonpartisan,672,45.902,False,False
+157025,NV,Lynne Jones,Nonpartisan,118559,100.0,False,False
+156824,NV,Emily McFarling,Nonpartisan,420085,100.0,False,False
+157004,NV,Erica Roth,Democratic,14884,100.0,True,False
+156995,NV,Cindy Plummer,Nonpartisan,988,65.043,False,False
+156995,NV,Paul Malay,Nonpartisan,531,34.957,False,False
+156791,NV,Danielle K. Pieper,Nonpartisan,437960,100.0,False,False
+156757,NV,Max Carter II,Democratic,15014,61.229,True,False
+156757,NV,"Nancy ""Nan"" Roecker",Republican,9507,38.771,False,False
+156928,NV,Herbert Ross,Nonpartisan,1167,47.113,False,False
+156928,NV,Gina Rackley,Nonpartisan,1134,45.781,False,False
+156928,NV,John Edward Aroz,Nonpartisan,176,7.105,False,False
+156907,NV,Austin McMahon-Keim,Republican,331,100.0,False,False
+156866,NV,Chad J. Betts,Nonpartisan,36445,59.542,False,False
+156866,NV,Thomas Jeeves,Nonpartisan,24764,40.458,False,False
+157046,NV,Jamie O’Connell,Nonpartisan,2616,58.972,False,False
+157046,NV,Dian VanderWell,Nonpartisan,1820,41.028,False,False
+157037,NV,David Black,Nonpartisan,332,22.312,False,False
+157037,NV,Brian L. DiMambro,Nonpartisan,317,21.304,False,False
+157037,NV,Martin W. Breitmeyer III,Nonpartisan,305,20.497,False,False
+157037,NV,Greg Dennis,Nonpartisan,268,18.011,False,False
+157037,NV,Tom Baker,Nonpartisan,266,17.876,False,False
+156904,NV,Kathleen R. Keyes,Republican,315,100.0,False,False
+156703,NV,Alexis M. Hansen,Republican,20511,100.0,True,False
+156883,NV,Scott A. Gavorsky,Republican,8916,100.0,False,False
+156874,NV,Nathan Tod Young,Nonpartisan,19546,100.0,False,False
+156862,NV,Dominic W. Oliveto,Nonpartisan,4718,52.26,False,False
+156862,NV,Rick McIntire,Nonpartisan,4310,47.74,False,False
+156821,NV,"Charles ""Chuck"" Hoskin",Nonpartisan,335218,69.257,False,False
+156821,NV,Timothy Treffinger,Nonpartisan,148804,30.743,False,False
+156992,NV,Steve E. Evenson,Republican,1314,79.3,False,False
+156992,NV,Derrick Penney,Democratic,343,20.7,False,False
+156971,NV,Timothy J. Howe,Republican,720,45.397,False,False
+156971,NV,Sherry Jennings,No Political Party,435,27.427,False,False
+156971,NV,Meghan K. Jeffers,Democratic,431,27.175,False,False
+156745,NV,James Ohrenschall,Democratic,25832,66.17,True,False
+156745,NV,Al Rojas,Republican,13207,33.83,False,False
+156925,NV,Rachel D. Rosenberg,Nonpartisan,62,54.386,False,False
+156925,NV,Warren Yarnell,Nonpartisan,52,45.614,False,False
+156724,NV,"Maria ""Lupe"" Ramirez",Nonpartisan,11622,53.89,False,False
+156724,NV,Adam B. Heinz,Nonpartisan,9944,46.11,False,False
+156767,NV,Shenea Booth,Democratic,17273,50.112,False,False
+156767,NV,Melissa Hardy,Republican,17196,49.888,False,False
+156762,NV,Linda F. Hunt,Democratic,17842,100.0,True,False
+156753,NV,Duy Nguyen,Democratic,17047,66.553,True,False
+156753,NV,"Joseph ""Joey"" Charafi",Republican,8567,33.447,False,False
+156933,NV,Lura Duvall,Republican,1726,100.0,False,False
+156700,NV,Ira D. Hansen,Republican,43652,100.0,True,False
+156720,NV,"William ""Scott"" Hoen",Nonpartisan,19637,100.0,False,False
+170071,NV,Yes,Nonpartisan,3504,52.795,False,False
+170071,NV,No,Nonpartisan,3133,47.205,False,False
+157042,NV,Matt Johnson,Nonpartisan,11264,58.755,False,False
+157042,NV,Summer Pellett,Nonpartisan,7907,41.245,False,False
+156809,NV,Kathleen E. Delaney,Nonpartisan,418504,100.0,False,False
+156797,NV,Adam Ganz,Nonpartisan,426880,100.0,False,False
+156788,NV,Nadia Krall,Nonpartisan,438525,100.0,False,False
+156968,NV,"Nicholas ""Nick"" Beaton",Nonpartisan,583,29.669,False,False
+156968,NV,Nathan Bake,Nonpartisan,530,26.972,False,False
+156968,NV,"""Frank"" Pizzo",Nonpartisan,479,24.377,False,False
+156968,NV,Shane Martin,Nonpartisan,373,18.982,False,False
+156826,NV,"Dedree ""DEE"" Butler",Nonpartisan,415267,100.0,False,False
+156817,NV,Maria-Belleza D. “Mari” Parladé,Nonpartisan,424332,100.0,False,False
+156997,NV,DeBeeAnn Formentini,Republican,1783,100.0,False,False
+156988,NV,Carolyn I. Allen,Nonpartisan,175,34.861,False,False
+156988,NV,"Leonard V. ""Lenny"" Davis",Nonpartisan,162,32.271,False,False
+156988,NV,Waylon Lucas,Nonpartisan,94,18.725,False,False
+156988,NV,Daryl Wade,Nonpartisan,71,14.143,False,False
+156784,NV,Stephanie Itkin-Goodman,Democratic,394648,60.239,False,False
+156784,NV,Michael Murphy,Republican,260488,39.761,False,False
+156750,NV,Brittney M. Miller,Democratic,14032,60.924,True,False
+156750,NV,Kelly Quinn,Republican,9000,39.076,False,False
+156729,NV,Garrit S. Pruyt,Nonpartisan,13617,64.505,False,False
+156729,NV,Gene E. Munnings,Nonpartisan,7493,35.495,False,False
+156868,NV,Sharla Hales,Republican,19562,100.0,False,False
+157051,NV,Chrissie Shady,Republican,2669,100.0,False,False
+157039,NV,Wayne Monson,Nonpartisan,2438,28.706,False,False
+157039,NV,Stephany Bandoni,Nonpartisan,2330,27.434,False,False
+157039,NV,Trevor J. Leppek,Nonpartisan,2127,25.044,False,False
+157039,NV,Hud Horton,Nonpartisan,1598,18.815,False,False
+157030,NV,Paige Dollinger,Nonpartisan,113185,100.0,False,False
+156705,NV,Gregory T. Hafen II,Republican,21567,56.718,True,False
+156705,NV,Jon Penn Junejo,Democratic,16458,43.282,False,False
+156920,NV,Mark Evatz,Republican,4692,100.0,False,False
+156876,NV,Ben Johnson,Nonpartisan,1604,46.983,False,False
+156876,NV,Jodie Nelson,Nonpartisan,1091,31.957,False,False
+156876,NV,Staci Baker,Nonpartisan,719,21.06,False,False
+170067,NV,Yes,Nonpartisan,1319,69.751,False,False
+170067,NV,No,Nonpartisan,572,30.249,False,False
+156855,NV,Michelle Romero,Nonpartisan,63044,60.591,False,False
+156855,NV,Hollie Chadwick,Nonpartisan,41004,39.409,False,False
+156814,NV,Josh Santeramo,Nonpartisan,246586,50.821,False,False
+156814,NV,Jerry A. Wiese II,Nonpartisan,238622,49.179,False,False
+156793,NV,Maria Alice Gall,Nonpartisan,428913,100.0,False,False
+156964,NV,Brad Pope,Nonpartisan,14253,66.912,False,False
+156964,NV,"Timothy ""Tim"" Shaffer",Nonpartisan,7048,33.088,False,False
+156738,NV,Michael J. Davis,Nonpartisan,5755,65.817,False,False
+156738,NV,Lee D. Orozco,Nonpartisan,2989,34.183,False,False
+156726,NV,Molly Walt,Nonpartisan,19156,100.0,False,False
+156717,NV,Dylan V. Frehner,Nonpartisan,3382,62.956,False,False
+156717,NV,Jane M. Eberhardy,Nonpartisan,1990,37.044,False,False
+156769,NV,Reuben D'Silva,Democratic,10024,100.0,True,False
+156984,NV,Deborah Beatty,Republican,15035,100.0,False,False
+156755,NV,Venise L. Karris,Democratic,12388,100.0,True,False
+156746,NV,Alexis Elizabeth Esparza,Democratic,20205,100.0,True,False
+156734,NV,"Robert ""Bob"" Getto",Republican,7889,100.0,False,False
+156917,NV,Andrew J. Heiser,Republican,4710,100.0,False,False
+156864,NV,Esmeralda Villeda,Nonpartisan,5930,64.401,False,False
+156864,NV,Sherry Strothers,Nonpartisan,3278,35.599,False,False
+157035,NV,Aimee E. Banales,Nonpartisan,114168,100.0,False,False
+157026,NV,Egan K. Walker,Nonpartisan,114365,100.0,False,False
+156790,NV,Jacqueline M. Bluth,Nonpartisan,441797,100.0,False,False
+156781,NV,Lynn Marie Goya,Democratic,399128,60.674,False,False
+156781,NV,Howell Shaw,Republican,246508,37.473,False,False
+156781,NV,George Stamper,Libertarian,12185,1.852,False,False
+157032,NV,Alexander C. Morey,Nonpartisan,88815,70.109,False,False
+157032,NV,Lance White,Nonpartisan,37867,29.891,False,False
+156831,NV,Gina McConnell,Nonpartisan,415269,100.0,False,False
+156819,NV,Gregory G. Gordon,Nonpartisan,423465,100.0,False,False
+156810,NV,Jessica Goodey,Nonpartisan,428693,100.0,False,False
+156798,NV,Tina Talim,Nonpartisan,425116,100.0,False,False
+156981,NV,Matt Sadler,Republican,3196,68.437,False,False
+156981,NV,Christopher Everett Lally,No Political Party,1474,31.563,False,False
+156935,NV,William E. Schaeffer,Republican,1558,100.0,False,False
+156722,NV,Kenneth T. Furlong,Nonpartisan,15176,64.692,False,False
+156722,NV,Donald Gibson,Nonpartisan,8283,35.308,False,False
+156905,NV,Angela Jewell,Republican,332,100.0,False,False
+156861,NV,Ronald Shackelford,Nonpartisan,4784,52.769,False,False
+156861,NV,John S. Rosen,Nonpartisan,4282,47.231,False,False
+156852,NV,Brandon N. Leavitt,Nonpartisan,1649,19.777,False,False
+156852,NV,Vernon Robison,Nonpartisan,1543,18.506,False,False
+156852,NV,Ryan Anderson,Nonpartisan,1540,18.47,False,False
+156852,NV,Jill Perkins,Nonpartisan,1242,14.896,False,False
+156852,NV,Janice M. Ridondo,Nonpartisan,870,10.434,False,False
+156852,NV,Matthew F. Noto,Nonpartisan,845,10.134,False,False
+156852,NV,Priscilla Conrique,Nonpartisan,649,7.784,False,False
+156902,NV,"C.R. ""Beth"" Savedra",Nonpartisan,81,57.042,False,False
+156902,NV,Richard O. Fuher,Nonpartisan,61,42.958,False,False
+156922,NV,Rhona Lecumberry,Republican,4829,100.0,False,False
+156913,NV,Melynda Todd,Nonpartisan,399,57.742,False,False
+156913,NV,Brenna Rogne,Nonpartisan,292,42.258,False,False
+170069,NV,Yes,Nonpartisan,121236,65.239,False,False
+170069,NV,No,Nonpartisan,64597,34.761,False,False
+157052,NV,Catherine M. Bakaric,Republican,2675,100.0,False,False
+156848,NV,Linda P. Cavazos,Nonpartisan,41278,60.892,False,False
+156848,NV,Paul Casey,Nonpartisan,26511,39.108,False,False
+156807,NV,Jasmin Lilly-Spells,Nonpartisan,272628,54.978,False,False
+156807,NV,Martina Bauhaus,Nonpartisan,223255,45.022,False,False
+156786,NV,Carli Lynn Kierny,Nonpartisan,443319,100.0,False,False
+156969,NV,Kevin B. Chisum,Republican,1234,100.0,False,False
+156740,NV,Marilyn Dondero Loop,Democratic,30323,57.334,True,False
+156740,NV,George E. Harris,Republican,22565,42.666,False,False
+156731,NV,Denise L. Mondhink-Felton,Republican,7949,100.0,False,False
+156719,NV,Kimberly D. Adams,Nonpartisan,19750,100.0,False,False
+156986,NV,Dan Pineau,Nonpartisan,10796,61.702,False,False
+156986,NV,Joe McGill,Nonpartisan,6701,38.298,False,False
+156977,NV,Karry Larramendy,Nonpartisan,1055,73.366,False,False
+156977,NV,James W. Kenner,Nonpartisan,383,26.634,False,False
+156748,NV,Selena Torres-Fossett,Democratic,12848,64.807,True,False
+156748,NV,Joseph P. Silvestri,Republican,6977,35.193,False,False
+156931,NV,Michael P. Chopp,Republican,1686,100.0,False,False
+156951,NV,Micah T. Triplett,Republican,18748,100.0,False,False
+156910,NV,Katherine J. Bowling,Republican,685,100.0,False,False
+156857,NV,Alicia Albritton,Nonpartisan,56575,59.687,False,False
+156857,NV,Gary Thompson,Nonpartisan,38211,40.313,False,False
+157028,NV,Scott Freeman,Nonpartisan,116601,100.0,False,False
+156795,NV,Anna Albertson,Nonpartisan,423006,100.0,False,False
+156783,NV,"J. ""Ken"" Diaz",Democratic,394934,60.092,False,False
+156783,NV,Mitchell T. Tracy,Republican,247938,37.725,False,False
+156783,NV,"Tim J. ""TJ"" Ferreira",Libertarian,14344,2.183,False,False
+156774,NV,Vinny Spotleson,Democratic,15207,59.953,True,False
+156774,NV,Kelly Chapman,Republican,10158,40.047,False,False
+156833,NV,Bryce C. Duckworth,Nonpartisan,412892,100.0,False,False
+157048,NV,Nichole Stephey,Republican,2263,74.909,False,False
+157048,NV,Ray Rivera,Democratic,758,25.091,False,False
+156812,NV,Noreen C. DeMonte,Nonpartisan,256902,51.615,False,False
+156812,NV,Danielle A. Tarmu,Nonpartisan,240823,48.385,False,False
+156803,NV,Crystal Eller,Nonpartisan,422960,100.0,False,False
+157015,NV,Kalie Work,Democratic,131049,100.0,False,False
+156974,NV,Halle Ferguson,No Political Party,1187,100.0,False,False
+156736,NV,Thomas Stockard,Nonpartisan,7882,100.0,False,False
+156715,NV,Kristin N. Luis,Nonpartisan,21594,100.0,False,False
+156898,NV,Joel Nalley,Nonpartisan,112,51.376,False,False
+156898,NV,Lyndsie Whigham,Nonpartisan,106,48.624,False,False
+156854,NV,Steve Walton,Nonpartisan,3301,31.39,False,False
+156854,NV,Cokie Booth,Nonpartisan,2879,27.377,False,False
+156854,NV,"Adam ""AMERICAMAN"" Schultheis",Nonpartisan,2318,22.043,False,False
+156854,NV,Chris Gatlin,Nonpartisan,2018,19.19,False,False
+156845,NV,Stephanie Molina,Nonpartisan,14449,56.034,False,False
+156845,NV,"Moises ""Mo"" Denis",Nonpartisan,11337,43.966,False,False
+87256,NV,Dina Titus,Democratic,140944,59.209,True,False
+87256,NV,Carrie Buck,Republican,89724,37.692,False,False
+87256,NV,"Steven ""Chap"" St John",No Political Party,4116,1.729,False,False
+87256,NV,"Afzal ""Bobby"" Khan",No Political Party,3261,1.37,False,False
+87257,NV,Teresa Benitez-Thompson,Democratic,161624,50.191,True,False
+87257,NV,Dave Flippo,Republican,142761,44.333,False,False
+87257,NV,Lynn Chapman,Independent American,17636,5.477,False,False
+87258,NV,Susie Lee,Democratic,161418,59.573,True,False
+87258,NV,Martin O'Donnell,Republican,103197,38.086,False,False
+87258,NV,Jon Kamerath,Independent American,6345,2.342,False,False
+87259,NV,Steven Horsford,Democratic,152281,60.381,True,False
+87259,NV,Cody Whipple,Republican,95097,37.707,False,False
+87259,NV,Russell Best,Independent American,2544,1.009,False,False
+87259,NV,William Johnson,No Political Party,2280,0.904,False,False

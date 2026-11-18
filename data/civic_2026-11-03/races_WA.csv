@@ -1,0 +1,791 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+130145,WA,Washington Initiative Measure No. IP26-645,2026-11-03,0,2026-11-17T03:50:43.246Z,False,2,39,3190603,2026-11-18T16:56+00:00
+130146,WA,Washington Initiative Measure No. IL26-638,2026-11-03,0,2026-11-17T03:50:43.246Z,False,2,39,3170700,2026-11-18T16:56+00:00
+130158,WA,Washington Supreme Court Position 5,2026-11-03,0,2026-11-17T03:50:43.246Z,False,3,39,2907441,2026-11-18T16:56+00:00
+130156,WA,Washington Supreme Court Position 1,2026-11-03,0,2026-11-17T03:50:43.246Z,False,3,39,2936037,2026-11-18T16:56+00:00
+130157,WA,Washington Supreme Court Position 4,2026-11-03,0,,False,3,39,2891477,2026-11-18T16:56+00:00
+159572,WA,Washington State Senate,2026-11-03,0,,False,4,24,1397863,2026-11-18T16:56+00:00
+87525,WA,Washington Initiative Measure No. IL26-001,2026-11-03,0,2026-11-17T03:50:43.246Z,False,2,39,3104064,2026-11-18T16:56+00:00
+159571,WA,Washington State House,2026-11-03,0,,False,8,98,6038343,2026-11-18T16:56+00:00
+130159,WA,Washington Supreme Court Position 7,2026-11-03,0,2026-11-17T03:50:43.246Z,False,3,39,2905124,2026-11-18T16:56+00:00
+87537,WA,Washington Supreme Court Position 3,2026-11-03,0,2026-11-17T03:50:43.246Z,False,3,39,2923396,2026-11-18T16:56+00:00
+130206,WA,Washington Columbia County Sheriff,2026-11-03,0,,False,2,1,1512,2026-11-18T16:56+00:00
+130838,WA,Washington Clallam County Assessor,2026-11-03,0,,False,3,1,25871,2026-11-18T16:56+00:00
+130222,WA,Washington Grant County Prosecutor,2026-11-03,0,,False,2,1,17487,2026-11-18T16:56+00:00
+130214,WA,Washington State House 13 Position 2,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,4,44181,2026-11-18T16:56+00:00
+130700,WA,Washington Clark County District Court Judge Department No. 1,2026-11-03,0,,False,2,1,141163,2026-11-18T16:56+00:00
+130492,WA,Washington Pierce County Pierce County District Court - Position No. 8,2026-11-03,0,,False,3,1,279315,2026-11-18T16:56+00:00
+130272,WA,Washington State House 39 Position 1,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,2,66523,2026-11-18T16:56+00:00
+130708,WA,Washington State Senate 8,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,2,51753,2026-11-18T16:56+00:00
+130550,WA,Washington Douglas County Proposed Rimrock Meadows Fire Protection District #9,2026-11-03,0,,False,2,1,40,2026-11-18T16:56+00:00
+130773,WA,Washington State House 36 Position 2,2026-11-03,0,2026-11-12T01:54:12.345Z,False,2,1,69778,2026-11-18T16:56+00:00
+130357,WA,Washington State House 32 Position 2,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,2,62334,2026-11-18T16:56+00:00
+130349,WA,Washington Snohomish County Proposed Amendments to the Snohomish County Charter Prop 5,2026-11-03,0,,False,2,1,314185,2026-11-18T16:56+00:00
+130202,WA,Washington Columbia County Auditor,2026-11-03,0,,False,2,1,1611,2026-11-18T16:56+00:00
+130636,WA,Washington Wahkiakum County Sheriff,2026-11-03,0,,False,2,1,2207,2026-11-18T16:56+00:00
+130218,WA,Washington Grant County Auditor,2026-11-03,0,,False,3,1,20542,2026-11-18T16:56+00:00
+130210,WA,Washington Prescott Joint Park and Recreation District - Proposition No. 1,2026-11-03,0,,False,2,2,133,2026-11-18T16:56+00:00
+130696,WA,"Washington Clark County Council Councilor, District No. 5",2026-11-03,0,,False,3,1,49467,2026-11-18T16:56+00:00
+130276,WA,Washington Skagit County Assessor,2026-11-03,0,,False,2,1,35640,2026-11-18T16:56+00:00
+148850,WA,Benton County PROPOSITION NO. 1 - Kiona-Benton City School District 52,2026-11-03,0,,False,2,1,3379,2026-11-18T16:56+00:00
+130704,WA,Washington Clark County District Court Judge Department No. 5,2026-11-03,0,,False,2,1,137328,2026-11-18T16:56+00:00
+130345,WA,Washington Snohomish County Proposed Amendments to the Snohomish County Charter Prop 1,2026-11-03,0,,False,2,1,305902,2026-11-18T16:56+00:00
+130336,WA,Washington Court of Appeals Division 2 District 2 Position 1,2026-11-03,0,,False,2,6,233582,2026-11-18T16:56+00:00
+130575,WA,"Washington Whitman County Town Oakesdale, Prop No. 2",2026-11-03,0,,False,2,1,96,2026-11-18T16:56+00:00
+130353,WA,Washington State House 21 Position 1,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,1,55014,2026-11-18T16:56+00:00
+130576,WA,"Washington Whitman County City Palouse, Prop No. 1",2026-11-03,0,,False,2,1,403,2026-11-18T16:56+00:00
+130794,WA,Washington King County Prosecuting Attorney,2026-11-03,0,,False,2,1,636469,2026-11-18T16:56+00:00
+130786,WA,Washington State House 46 Position 1,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,1,72314,2026-11-18T16:56+00:00
+130641,WA,Washington State House 22 Position 1,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,1,72249,2026-11-18T16:56+00:00
+130223,WA,Washington Grant County Sheriff,2026-11-03,0,,False,3,1,21484,2026-11-18T16:56+00:00
+130855,WA,Washington Skamania County Prosecuting Attorney,2026-11-03,0,,False,2,1,4377,2026-11-18T16:56+00:00
+130438,WA,Washington Spokane County Town of Spangle Proposition No. 2,2026-11-03,0,,False,2,1,119,2026-11-18T16:56+00:00
+130273,WA,Washington State House 39 Position 2,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,2,66266,2026-11-18T16:56+00:00
+130709,WA,Washington State House 8 Position 1,2026-11-03,0,2026-11-12T01:54:12.344Z,False,2,2,41538,2026-11-18T16:56+00:00
+130289,WA,Washington Skagit County La Conner School District No. 311 Proposition No. 1 - Educational Facility Modernization and Technology Levy,2026-11-03,0,,False,2,1,2593,2026-11-18T16:56+00:00
+181480,WA,Washington Douglas County Public Utility District Commissioner No.2,2026-11-03,0,,False,3,1,14273,2026-11-18T16:56+00:00
+130774,WA,Washington State Senate 37,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,1,62741,2026-11-18T16:56+00:00
+130358,WA,Washington State Senate 38,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,1,53297,2026-11-18T16:56+00:00
+130790,WA,Washington State House 47 Position 2,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,1,51717,2026-11-18T16:56+00:00
+130782,WA,Washington State Senate 45,2026-11-03,0,2026-11-04T07:09:42.119Z,False,2,1,51939,2026-11-18T16:56+00:00
+130637,WA,Washington Wahkiakum County Treasurer,2026-11-03,0,,False,2,1,2073,2026-11-18T16:56+00:00
+130219,WA,Washington Grant County Clerk,2026-11-03,0,,False,2,1,17783,2026-11-18T16:56+00:00
+130851,WA,Washington Skamania County Assessor,2026-11-03,0,,False,3,1,5981,2026-11-18T16:56+00:00
+130645,WA,Washington State House 35 Position 2,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,3,78254,2026-11-18T16:56+00:00
+181476,WA,Washington Chelan County Public Utility District Commissioner District 1,2026-11-03,0,,False,3,1,30791,2026-11-18T16:56+00:00
+148855,WA,Washington Court of Appeals Division 1 District 1 Position 5,2026-11-03,0,,False,2,1,582630,2026-11-18T16:56+00:00
+130505,WA,Washington Pierce County Town of South Prairie - Proposition No. 1,2026-11-03,0,,False,2,1,174,2026-11-18T16:56+00:00
+130285,WA,Washington Skagit County Skagit County District Court Judge Position 2,2026-11-03,0,,False,2,1,30581,2026-11-18T16:56+00:00
+130778,WA,Washington State House 41 Position 2,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,1,63511,2026-11-18T16:56+00:00
+181485,WA,"Washington Franklin County Public Utility District, Commissioner District 2",2026-11-03,0,,False,2,1,5676,2026-11-18T16:56+00:00
+130523,WA,"Washington Okanogan County Town of Winthrop, Proposition 1",2026-11-03,0,,False,2,1,366,2026-11-18T16:56+00:00
+130363,WA,Washington State House 44 Position 2,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,1,63320,2026-11-18T16:56+00:00
+130795,WA,Washington King County Assessor,2026-11-03,0,,False,3,1,791073,2026-11-18T16:56+00:00
+130593,WA,"Washington Whitman County St. John Cem No. 3, Prop No. 1",2026-11-03,0,,False,2,1,281,2026-11-18T16:56+00:00
+130175,WA,Washington Chelan County Treasurer,2026-11-03,0,,False,3,1,34156,2026-11-18T16:56+00:00
+130224,WA,Washington Grant County Treasurer,2026-11-03,0,,False,2,1,18019,2026-11-18T16:56+00:00
+130216,WA,Washington State House 16 Position 2,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,4,55052,2026-11-18T16:56+00:00
+130650,WA,Washington Thurston County Coroner,2026-11-03,0,,False,2,1,94203,2026-11-18T16:56+00:00
+130232,WA,Washington Grant County Wilson Creek Cemetery Proposition No. 1,2026-11-03,0,,False,2,1,163,2026-11-18T16:56+00:00
+130710,WA,Washington State House 8 Position 2,2026-11-03,0,2026-11-12T01:54:12.344Z,False,2,2,41631,2026-11-18T16:56+00:00
+130290,WA,Washington Skagit County Fire Protection District No. 5 Proposition No. 1 - Authorizing Regular Property Tax Levy,2026-11-03,0,,False,2,1,1455,2026-11-18T16:56+00:00
+130726,WA,Washington Whatcom County Whatcom County District Court Judge Position 2,2026-11-03,0,,False,2,1,77784,2026-11-18T16:56+00:00
+130718,WA,Washington Franklin County Treasurer,2026-11-03,0,,False,2,1,16875,2026-11-18T16:56+00:00
+130359,WA,Washington State House 38 Position 1,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,1,51150,2026-11-18T16:56+00:00
+130791,WA,Washington State Senate 48,2026-11-03,0,2026-11-04T07:09:42.119Z,False,2,1,37775,2026-11-18T16:56+00:00
+130589,WA,"Washington Whitman County Oakesdale Park No. 4, Prop No. 1",2026-11-03,0,,False,2,1,203,2026-11-18T16:56+00:00
+130367,WA,Washington Snohomish County Cascade District Court Judge Position 2,2026-11-03,0,,False,2,1,26605,2026-11-18T16:56+00:00
+130860,WA,Washington Jefferson County Auditor,2026-11-03,0,,False,2,1,14291,2026-11-18T16:56+00:00
+130852,WA,Washington Skamania County Auditor,2026-11-03,0,,False,2,1,4398,2026-11-18T16:56+00:00
+130435,WA,Washington Spokane County City of Liberty Lake Proposition No. 1,2026-11-03,0,,False,2,1,6740,2026-11-18T16:56+00:00
+130228,WA,Washington Grant County Grant County District Court Judge #3,2026-11-03,0,,False,2,1,16539,2026-11-18T16:56+00:00
+130714,WA,"Washington Franklin County Port of Pasco, Commissioner District 3",2026-11-03,0,,False,2,1,6218,2026-11-18T16:56+00:00
+130506,WA,Washington Yelm Community Schools - Proposition No. 1 - Educational Programs and Operations Maintenance Levy,2026-11-03,0,,False,2,2,13382,2026-11-18T16:56+00:00
+130455,WA,Washington Pierce County Charter Amendment No. 52,2026-11-03,0,,False,2,1,325280,2026-11-18T16:56+00:00
+130298,WA,Washington Yakima County Clerk,2026-11-03,0,,False,2,1,51218,2026-11-18T16:56+00:00
+181486,WA,Washington Garfield County Commissioner - District 1,2026-11-03,0,,False,3,1,1264,2026-11-18T16:56+00:00
+130314,WA,Washington Ferry County Treasurer,2026-11-03,0,,False,2,1,1928,2026-11-18T16:56+00:00
+181502,WA,Washington Spokane County Commissioner District 4,2026-11-03,0,,False,3,1,50305,2026-11-18T16:56+00:00
+130796,WA,Washington King County Director of Elections,2026-11-03,0,,False,2,1,637294,2026-11-18T16:56+00:00
+130788,WA,Washington State Senate 47,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,1,52285,2026-11-18T16:56+00:00
+130372,WA,Washington Snohomish County South District Court Judge Position 1,2026-11-03,0,,False,2,1,88979,2026-11-18T16:56+00:00
+130806,WA,Washington King County Northeast Electoral District - Judge Position No. 4,2026-11-03,0,,False,2,1,155796,2026-11-18T16:56+00:00
+130651,WA,Washington Thurston County Prosecuting Attorney,2026-11-03,0,,False,2,1,90874,2026-11-18T16:56+00:00
+130233,WA,Washington Lincoln County Assessor,2026-11-03,0,,False,2,1,4444,2026-11-18T16:56+00:00
+130668,WA,Washington Mason County Treasurer,2026-11-03,0,,False,3,1,25083,2026-11-18T16:56+00:00
+130660,WA,"Washington Thurston County West Thurston Regional Fire Authority (Littlerock), Proposition No. 1",2026-11-03,0,,False,2,1,0,2026-11-18T16:56+00:00
+130291,WA,Washington State House 14 Position 1,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,4,28506,2026-11-18T16:56+00:00
+130727,WA,Washington Whatcom County Public Utility District No. 1 Commissioner District 1,2026-11-03,0,,False,3,1,95800,2026-11-18T16:56+00:00
+130310,WA,Washington Ferry County Clerk,2026-11-03,0,,False,3,1,2213,2026-11-18T16:56+00:00
+130302,WA,Washington Yakima County Treasurer,2026-11-03,0,,False,3,1,65728,2026-11-18T16:56+00:00
+130598,WA,Washington San Juan County Council Residency District 3,2026-11-03,0,,False,3,1,9510,2026-11-18T16:56+00:00
+130590,WA,"Washington Whitman County Endicott Park No. 7, Prop No. 1",2026-11-03,0,,False,2,1,143,2026-11-18T16:56+00:00
+130172,WA,Washington Chelan County Coroner,2026-11-03,0,,False,2,1,25440,2026-11-18T16:56+00:00
+130800,WA,Washington King County Metropolitan King County - Council District No. 8,2026-11-03,0,,False,3,1,99001,2026-11-18T16:56+00:00
+130655,WA,"Washington Thurston County District Court Judge, Pos. 2",2026-11-03,0,,False,2,1,86483,2026-11-18T16:56+00:00
+130436,WA,Washington Spokane County Town of Rockford Proposition No. 1,2026-11-03,0,,False,2,1,229,2026-11-18T16:56+00:00
+131313,WA,Washington State House 25 Position 2,2026-11-03,0,,False,3,1,56986,2026-11-18T16:56+00:00
+130238,WA,Washington Lincoln County Sheriff,2026-11-03,0,,False,2,1,4469,2026-11-18T16:56+00:00
+131314,WA,Washington State House 27 Position 1,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,1,61769,2026-11-18T16:56+00:00
+130254,WA,"Washington Lewis County District Court Judge, Dept 2",2026-11-03,0,,False,2,1,26333,2026-11-18T16:56+00:00
+130246,WA,Washington Lewis County Auditor,2026-11-03,0,,False,3,1,32037,2026-11-18T16:56+00:00
+130732,WA,Washington Whatcom County Fire Protection District 1 Proposition 2026-08 Regular Property Tax Levy Lid Lift,2026-11-03,0,,False,2,1,5292,2026-11-18T16:56+00:00
+130525,WA,"Washington Okanogan County Methow Valley EMS, Proposition 1",2026-11-03,0,,False,2,1,3123,2026-11-18T16:56+00:00
+181503,WA,Washington Stevens County Commissioner District 2,2026-11-03,0,,False,3,1,11784,2026-11-18T16:56+00:00
+130740,WA,Washington Kitsap County Sheriff,2026-11-03,0,,False,3,1,124994,2026-11-18T16:56+00:00
+130373,WA,Washington Snohomish County South District Court Judge Position 2,2026-11-03,0,,False,2,1,88865,2026-11-18T16:56+00:00
+130807,WA,Washington King County Northeast Electoral District - Judge Position No. 5,2026-11-03,0,,False,2,1,153050,2026-11-18T16:56+00:00
+130390,WA,Washington Walla Walla County Clerk,2026-11-03,0,,False,2,1,8985,2026-11-18T16:56+00:00
+130382,WA,Washington Snohomish County Monroe School District No. 103 Proposition No. 1,2026-11-03,0,,False,2,1,17631,2026-11-18T16:56+00:00
+130234,WA,Washington Lincoln County Auditor,2026-11-03,0,,False,2,1,4432,2026-11-18T16:56+00:00
+130669,WA,Washington Mason County Mason County - District Court Judge,2026-11-03,0,,False,2,1,16328,2026-11-18T16:56+00:00
+130250,WA,Washington Lewis County Sheriff,2026-11-03,0,,False,3,1,34886,2026-11-18T16:56+00:00
+130242,WA,Washington State House 19 Position 2,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,6,67886,2026-11-18T16:56+00:00
+130728,WA,Washington Whatcom County City of Bellingham Proposition 2026-06 Authorizing the City's Salary Commission to Set the Mayor's Salary,2026-11-03,0,,False,2,1,43532,2026-11-18T16:56+00:00
+130311,WA,"Washington Ferry, Okanogan PUD (Countywide) - Public Utility Commissioner #3",2026-11-03,0,,False,3,2,2309,2026-11-18T16:56+00:00
+181499,WA,Washington Skagit County Commissioner District 3,2026-11-03,0,,False,3,1,50099,2026-11-18T16:56+00:00
+130736,WA,Washington Kitsap County Assessor,2026-11-03,0,,False,3,1,124321,2026-11-18T16:56+00:00
+130378,WA,Washington Snohomish County City of Everett Proposition No. 262,2026-11-03,0,,False,2,1,33001,2026-11-18T16:56+00:00
+130173,WA,Washington Chelan County Prosecuting Attorney,2026-11-03,0,,False,2,1,24586,2026-11-18T16:56+00:00
+130607,WA,Washington Adams County Assessor,2026-11-03,0,,False,3,1,3700,2026-11-18T16:56+00:00
+130189,WA,Washington Pend Oreille County Assessor,2026-11-03,0,,False,2,1,5235,2026-11-18T16:56+00:00
+130608,WA,Washington Adams County Auditor,2026-11-03,0,,False,3,1,3600,2026-11-18T16:56+00:00
+130830,WA,Washington King County Highline School District No. 401 - Proposition No. 1,2026-11-03,0,,False,2,1,44503,2026-11-18T16:56+00:00
+130820,WA,Washington King County West Electoral District - Judge Position No. 4,2026-11-03,0,,False,2,1,217826,2026-11-18T16:56+00:00
+130675,WA,Washington Clark County Proposed Charter Amendment No. 20,2026-11-03,0,,False,2,1,216619,2026-11-18T16:56+00:00
+130255,WA,Washington Lewis County Public Utility District 1,2026-11-03,0,,False,3,1,26686,2026-11-18T16:56+00:00
+131459,WA,Pend Oreille County Sacheen One Year Excess Levy for Maintenance & Operation,2026-11-03,0,,False,2,1,170,2026-11-18T16:56+00:00
+130468,WA,Washington State House 26 Position 2,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,2,78073,2026-11-18T16:56+00:00
+130308,WA,Washington Ferry County Assessor,2026-11-03,0,,False,2,1,1926,2026-11-18T16:56+00:00
+130741,WA,Washington Kitsap County Treasurer,2026-11-03,0,,False,2,1,90721,2026-11-18T16:56+00:00
+130324,WA,Washington Kittitas County District Court Judge Lower County,2026-11-03,0,,False,2,1,9329,2026-11-18T16:56+00:00
+189017,WA,Washington Thurston County West Thurston Regional Fire Authority (Littlerock) - Proposition No. 1 - Property Tax for Fire Maintenance and Operations,2026-11-03,0,,False,2,1,4648,2026-11-18T16:56+00:00
+130808,WA,Washington King County Northeast Electoral District - Judge Position No. 6,2026-11-03,0,,False,2,1,154684,2026-11-18T16:56+00:00
+130391,WA,Washington Walla Walla County Commissioner District No. 3,2026-11-03,0,,False,3,1,10483,2026-11-18T16:56+00:00
+130824,WA,Washington King County City of Kenmore - Proposition No. 1,2026-11-03,0,,False,2,1,11139,2026-11-18T16:56+00:00
+130816,WA,Washington King County Southwest Electoral District - Judge Position No. 5,2026-11-03,0,,False,3,1,80361,2026-11-18T16:56+00:00
+130670,WA,Washington Mason County Southside School District No. 42 - Replacement Educational Programs and Operations Levy,2026-11-03,0,,False,2,1,872,2026-11-18T16:56+00:00
+130251,WA,Washington Lewis County Treasurer,2026-11-03,0,,False,2,1,27609,2026-11-18T16:56+00:00
+131401,WA,Washington King County Seattle Municipal Court - Judge Position No. 6,2026-11-03,0,,False,2,1,217269,2026-11-18T16:56+00:00
+130679,WA,Washington Clark County Proposed Charter Amendment No. 24,2026-11-03,0,,False,2,1,216681,2026-11-18T16:56+00:00
+181508,WA,Washington Whatcom County Port of Bellingham Commissioner District 4,2026-11-03,0,,False,3,1,101268,2026-11-18T16:56+00:00
+181500,WA,Washington Skamania County Commissioner District No. 3,2026-11-03,0,,False,3,1,5925,2026-11-18T16:56+00:00
+130538,WA,Washington Douglas County Assessor,2026-11-03,0,,False,2,1,11730,2026-11-18T16:56+00:00
+130320,WA,Washington Kittitas County Coroner,2026-11-03,0,,False,3,1,19037,2026-11-18T16:56+00:00
+130812,WA,Washington King County Southwest Electoral District - Judge Position No. 1,2026-11-03,0,,False,2,1,65461,2026-11-18T16:56+00:00
+130762,WA,Washington State Senate 30,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,1,44572,2026-11-18T16:56+00:00
+130558,WA,Washington Whitman County Comm. No. 3,2026-11-03,0,,False,2,1,7090,2026-11-18T16:56+00:00
+130396,WA,Washington Walla Walla County District Court Judge - Full Time,2026-11-03,0,,False,2,1,8350,2026-11-18T16:56+00:00
+130831,WA,Washington King County Highline School District No. 401 - Proposition No. 2,2026-11-03,0,,False,2,1,44397,2026-11-18T16:56+00:00
+130625,WA,Washington Cowlitz County Treasurer,2026-11-03,0,,False,2,1,34967,2026-11-18T16:56+00:00
+130207,WA,Washington Columbia County Treasurer,2026-11-03,0,,False,2,1,1627,2026-11-18T16:56+00:00
+130256,WA,"Washington Timberland Regional Library District - Regular Property Tax Levy Lid Lift for Library Services, Operations and Maintenance",2026-11-03,0,,False,2,5,216203,2026-11-18T16:56+00:00
+130248,WA,Washington Lewis County Coroner,2026-11-03,0,,False,3,1,36546,2026-11-18T16:56+00:00
+130476,WA,Washington State Senate 31,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,2,65965,2026-11-18T16:56+00:00
+148839,WA,Benton County Prosecuting Attorney,2026-11-03,0,,False,3,1,66189,2026-11-18T16:56+00:00
+130693,WA,Washington Clark County Clerk,2026-11-03,0,,False,3,1,199446,2026-11-18T16:56+00:00
+130742,WA,Washington Kitsap County Kitsap County District Court Judge Department 1,2026-11-03,0,,False,2,1,82505,2026-11-18T16:56+00:00
+130325,WA,Washington Kittitas County District Court Judge Upper County Office,2026-11-03,0,,False,2,1,3928,2026-11-18T16:56+00:00
+130562,WA,Washington Whitman County Treasurer,2026-11-03,0,,False,2,1,7247,2026-11-18T16:56+00:00
+130750,WA,Washington Klickitat County Clerk,2026-11-03,0,,False,2,1,7144,2026-11-18T16:56+00:00
+130392,WA,Washington Walla Walla County Coroner,2026-11-03,0,,False,2,1,8979,2026-11-18T16:56+00:00
+130825,WA,Washington King County City of Lake Forest Park - Proposition No. 1,2026-11-03,0,,False,2,1,7568,2026-11-18T16:56+00:00
+130621,WA,Washington Cowlitz County Commissioner District 1,2026-11-03,0,,False,2,1,32967,2026-11-18T16:56+00:00
+130401,WA,Washington Stevens County Auditor,2026-11-03,0,,False,3,1,11455,2026-11-18T16:56+00:00
+130689,WA,Washington State House 49 Position 1,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,1,60117,2026-11-18T16:56+00:00
+131402,WA,Washington King County Seattle Municipal Court - Judge Position No. 7,2026-11-03,0,,False,2,1,215295,2026-11-18T16:56+00:00
+130261,WA,Washington State House 10 Position 2,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,3,76108,2026-11-18T16:56+00:00
+148835,WA,Benton County Auditor,2026-11-03,0,,False,2,1,54203,2026-11-18T16:56+00:00
+130746,WA,Washington Kitsap County South Kitsap School District No. 402,2026-11-03,0,,False,2,1,35131,2026-11-18T16:56+00:00
+130539,WA,Washington Douglas County Auditor,2026-11-03,0,,False,2,1,12148,2026-11-18T16:56+00:00
+130698,WA,Washington Clark County Sheriff,2026-11-03,0,,False,2,1,149903,2026-11-18T16:56+00:00
+130278,WA,Washington Skagit County Clerk,2026-11-03,0,,False,3,1,47951,2026-11-18T16:56+00:00
+130330,WA,Washington Grays Harbor County Auditor,2026-11-03,0,,False,3,1,27708,2026-11-18T16:56+00:00
+130763,WA,Washington State House 30 Position 1,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,1,44503,2026-11-18T16:56+00:00
+130347,WA,Washington Snohomish County Proposed Amendments to the Snohomish County Charter Prop 3,2026-11-03,0,,False,2,1,313553,2026-11-18T16:56+00:00
+130779,WA,Washington State Senate 43,2026-11-03,0,2026-11-04T07:09:42.119Z,False,3,1,65356,2026-11-18T16:56+00:00
+130832,WA,Washington King County Kent School District No. 415 - Proposition No. 1,2026-11-03,0,,False,2,1,56141,2026-11-18T16:56+00:00
+130822,WA,Washington King County City of Clyde Hill - Proposition No. 1,2026-11-03,0,,False,2,1,1383,2026-11-18T16:56+00:00
+130406,WA,Washington Stevens County Sheriff,2026-11-03,0,,False,2,1,9805,2026-11-18T16:56+00:00
+130840,WA,Washington Clallam County PUD Commissioner District No. 2,2026-11-03,0,,False,3,1,20450,2026-11-18T16:56+00:00
+130477,WA,Washington State House 31 Position 1,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,2,65596,2026-11-18T16:56+00:00
+148840,WA,Benton County Sheriff,2026-11-03,0,,False,3,1,65773,2026-11-18T16:56+00:00
+130494,WA,Washington Southeast Electoral District Judge Position No. 2,2026-11-03,0,,False,2,2,111048,2026-11-18T16:56+00:00
+130486,WA,Washington Pierce County Pierce County District Court - Position No. 2,2026-11-03,0,,False,2,1,201507,2026-11-18T16:56+00:00
+130326,WA,Washington State House 24 Position 1,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,3,82475,2026-11-18T16:56+00:00
+130563,WA,"Washington Whitman County District Judge, Pos 1",2026-11-03,0,,False,2,1,7129,2026-11-18T16:56+00:00
+130343,WA,Washington Grays Harbor County Grays Harbor Co. Fire Protection Dist. No.1 -EMS Levy,2026-11-03,0,,False,2,1,748,2026-11-18T16:56+00:00
+130334,WA,Washington Grays Harbor County Sheriff,2026-11-03,0,,False,3,1,25717,2026-11-18T16:56+00:00
+130630,WA,Washington Cowlitz County Proposition 1,2026-11-03,0,,False,2,1,13803,2026-11-18T16:56+00:00
+130622,WA,Washington Cowlitz County Coroner,2026-11-03,0,,False,2,1,36516,2026-11-18T16:56+00:00
+130204,WA,Washington Columbia County Commissioner No. 3,2026-11-03,0,,False,3,1,1828,2026-11-18T16:56+00:00
+130836,WA,Washington Clallam County Proposed Charter Amendment No. 2,2026-11-03,0,,False,2,1,27640,2026-11-18T16:56+00:00
+130481,WA,Washington Pierce County Council District No. 1,2026-11-03,0,,False,3,1,55076,2026-11-18T16:56+00:00
+130262,WA,Washington Island County Assessor,2026-11-03,0,,False,3,1,42663,2026-11-18T16:56+00:00
+130221,WA,Washington Grant County Coroner,2026-11-03,0,,False,2,1,18327,2026-11-18T16:56+00:00
+148845,WA,Benton County District Court Judge 4,2026-11-03,0,,False,2,1,49725,2026-11-18T16:56+00:00
+130699,WA,Washington Clark County Treasurer,2026-11-03,0,,False,2,1,147128,2026-11-18T16:56+00:00
+181478,WA,Washington Cowlitz County Commissioner District 3,2026-11-03,0,,False,3,1,47029,2026-11-18T16:56+00:00
+130715,WA,Washington Franklin County Coroner,2026-11-03,0,,False,2,1,17142,2026-11-18T16:56+00:00
+130570,WA,"Washington Whitman County Town Endicott, Prop No. 1",2026-11-03,0,,False,2,1,68,2026-11-18T16:56+00:00
+130560,WA,Washington Whitman County Pros Atty,2026-11-03,0,,False,2,1,7232,2026-11-18T16:56+00:00
+87645,WA,Washington Island County Clerk,2026-11-03,0,,False,3,1,43338,2026-11-18T16:56+00:00
+130578,WA,"Washington Whitman County City Palouse, Prop No. 3",2026-11-03,0,,False,2,1,398,2026-11-18T16:56+00:00
+130407,WA,Washington Stevens County Treasurer,2026-11-03,0,,False,2,1,9508,2026-11-18T16:56+00:00
+130841,WA,Washington Clallam County Director of Community Development,2026-11-03,0,,False,2,1,18487,2026-11-18T16:56+00:00
+130424,WA,Washington Spokane County Prosecuting Attorney,2026-11-03,0,,False,3,1,220335,2026-11-18T16:56+00:00
+130415,WA,Washington State House 4 Position 1,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,1,60066,2026-11-18T16:56+00:00
+148841,WA,Benton County Treasurer,2026-11-03,0,,False,2,1,52559,2026-11-18T16:56+00:00
+130495,WA,Washington Southeast Electoral District Judge Position No. 3,2026-11-03,0,,False,2,2,111452,2026-11-18T16:56+00:00
+181474,WA,Washington Benton County Commissioner District #2,2026-11-03,0,,False,2,1,53137,2026-11-18T16:56+00:00
+148849,WA,Benton County PROPOSITION NO. 2,2026-11-03,0,,False,2,1,1082,2026-11-18T16:56+00:00
+130564,WA,Washington Whitman County Library Prop No. 1,2026-11-03,0,,False,2,1,4233,2026-11-18T16:56+00:00
+130344,WA,Washington Grays Harbor County Grays Harbor County Fire Protection District No. 2-Levy,2026-11-03,0,,False,2,1,3139,2026-11-18T16:56+00:00
+130776,WA,Washington State House 37 Position 2,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,1,62795,2026-11-18T16:56+00:00
+130574,WA,"Washington Whitman County Town Oakesdale, Prop No. 1",2026-11-03,0,,False,2,1,95,2026-11-18T16:56+00:00
+130411,WA,Washington Nine Mile Falls School District - Proposition No. 2,2026-11-03,0,,False,2,2,3770,2026-11-18T16:56+00:00
+130205,WA,Washington Columbia County Columbia County Prosecutor,2026-11-03,0,,False,2,1,1496,2026-11-18T16:56+00:00
+130639,WA,Washington Wahkiakum County Commissioner #1,2026-11-03,0,,False,2,1,1926,2026-11-18T16:56+00:00
+130846,WA,Washington Clallam County District Court 2 Judge,2026-11-03,0,,False,2,1,1092,2026-11-18T16:56+00:00
+130640,WA,Washington Wahkiakum County District Court Judge,2026-11-03,0,,False,2,1,1983,2026-11-18T16:56+00:00
+130862,WA,Washington Jefferson County Commissioner,2026-11-03,0,,False,3,1,19628,2026-11-18T16:56+00:00
+130854,WA,"Washington Skamania County Public Utility District, Commissioner No. 3",2026-11-03,0,,False,3,1,5274,2026-11-18T16:56+00:00
+130500,WA,Washington Pierce County City of Tacoma - Safe Homes for All Initiative Measure No. 1,2026-11-03,0,,False,2,1,75338,2026-11-18T16:56+00:00
+130280,WA,Washington Skagit County Coroner,2026-11-03,0,,False,3,1,49230,2026-11-18T16:56+00:00
+130716,WA,Washington Franklin County Prosecuting Attorney,2026-11-03,0,,False,2,1,16833,2026-11-18T16:56+00:00
+130508,WA,Washington Pierce County Fire Protection District No. 14 - Proposition No. 1,2026-11-03,0,,False,2,1,633,2026-11-18T16:56+00:00
+130341,WA,Washington Grays Harbor County Montesano Public Services Levy,2026-11-03,0,,False,2,1,1650,2026-11-18T16:56+00:00
+130579,WA,"Washington Whitman County Town Rosalia, Prop No. 1",2026-11-03,0,,False,2,1,131,2026-11-18T16:56+00:00
+130161,WA,Washington Asotin County District Court Judge,2026-11-03,0,,False,2,1,6760,2026-11-18T16:56+00:00
+130153,WA,Washington Asotin County Sheriff,2026-11-03,0,,False,3,1,8940,2026-11-18T16:56+00:00
+130842,WA,Washington Clallam County Prosecuting Attorney,2026-11-03,0,,False,2,1,18464,2026-11-18T16:56+00:00
+130425,WA,Washington Spokane County Sheriff,2026-11-03,0,,False,2,1,161966,2026-11-18T16:56+00:00
+130858,WA,Washington Skamania County District Court Judge,2026-11-03,0,,False,2,1,4004,2026-11-18T16:56+00:00
+130850,WA,Washington Clallam County Fire Protection Dist. 6 Proposition 1,2026-11-03,0,,False,2,1,113,2026-11-18T16:56+00:00
+130496,WA,Washington Southeast Electoral District Judge Position No. 4,2026-11-03,0,,False,2,2,110180,2026-11-18T16:56+00:00
+181475,WA,Washington Chelan County Commissioner District No. 2,2026-11-03,0,,False,3,1,35004,2026-11-18T16:56+00:00
+130712,WA,Washington Franklin County Auditor,2026-11-03,0,,False,2,1,16825,2026-11-18T16:56+00:00
+130504,WA,Washington City of Milton - Proposition No. 1,2026-11-03,0,,False,2,2,2911,2026-11-18T16:56+00:00
+130149,WA,Washington Asotin County Assessor,2026-11-03,0,,False,2,1,7032,2026-11-18T16:56+00:00
+130777,WA,Washington State House 41 Position 1,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,1,64179,2026-11-18T16:56+00:00
+130361,WA,Washington State Senate 44,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,1,63705,2026-11-18T16:56+00:00
+130793,WA,Washington State House 48 Position 2,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,1,44246,2026-11-18T16:56+00:00
+130362,WA,Washington State House 44 Position 1,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,1,63312,2026-11-18T16:56+00:00
+130600,WA,Washington San Juan County Sheriff,2026-11-03,0,,False,2,1,8214,2026-11-18T16:56+00:00
+130592,WA,"Washington Whitman County Cem No. 2, Prop No. 2026-1",2026-11-03,0,,False,2,1,226,2026-11-18T16:56+00:00
+130430,WA,Washington Spokane County District Court Judge 4,2026-11-03,0,,False,3,1,192633,2026-11-18T16:56+00:00
+130863,WA,Washington Jefferson County Prosecuting Attorney,2026-11-03,0,,False,2,1,15054,2026-11-18T16:56+00:00
+130658,WA,"Washington Thurston County Fire Protection District No. 3 (Lacey), Proposition No. 1",2026-11-03,0,,False,2,1,0,2026-11-18T16:56+00:00
+130239,WA,Washington Lincoln County Treasurer,2026-11-03,0,,False,2,1,4399,2026-11-18T16:56+00:00
+181472,WA,Grays Harbor County Fire District 1 - - Levy Lid Lift,2026-11-03,0,,False,2,1,730,2026-11-18T16:56+00:00
+130509,WA,Washington Okanogan County Assessor,2026-11-03,0,,False,2,1,10576,2026-11-18T16:56+00:00
+181488,WA,Washington Grant County PUD Commissioner Dist #3,2026-11-03,0,,False,2,1,17348,2026-11-18T16:56+00:00
+130725,WA,Washington Whatcom County Whatcom County District Court Judge Position 1,2026-11-03,0,,False,2,1,78379,2026-11-18T16:56+00:00
+130580,WA,"Washington Whitman County Town St. John, Prop No. 1",2026-11-03,0,,False,2,1,159,2026-11-18T16:56+00:00
+130162,WA,Washington Asotin County Asotin County Rural Emergency Medical Services Regular Property Tax Levy,2026-11-03,0,,False,2,1,384,2026-11-18T16:56+00:00
+130596,WA,Washington San Juan County Auditor,2026-11-03,0,,False,3,1,9403,2026-11-18T16:56+00:00
+130588,WA,"Washington Whitman County St. John Park No. 3, Prop No. 1",2026-11-03,0,,False,2,1,318,2026-11-18T16:56+00:00
+130426,WA,Washington Spokane County Treasurer,2026-11-03,0,,False,2,1,159083,2026-11-18T16:56+00:00
+130859,WA,Washington Jefferson County Assessor,2026-11-03,0,,False,2,1,15049,2026-11-18T16:56+00:00
+130653,WA,Washington Thurston County Treasurer,2026-11-03,0,,False,2,1,89744,2026-11-18T16:56+00:00
+130434,WA,Washington Spokane County District Court Judge 8,2026-11-03,0,,False,2,1,132644,2026-11-18T16:56+00:00
+130721,WA,Washington State Senate 42,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,1,78445,2026-11-18T16:56+00:00
+130713,WA,Washington Franklin County Clerk,2026-11-03,0,,False,2,1,16886,2026-11-18T16:56+00:00
+130296,WA,Washington Yakima County Assessor,2026-11-03,0,,False,3,1,59666,2026-11-18T16:56+00:00
+181484,WA,Washington Franklin County Commissioner District 3,2026-11-03,0,,False,3,1,8835,2026-11-18T16:56+00:00
+130584,WA,"Washington Whitman County Fire No. 8, Prop No. 1",2026-11-03,0,,False,2,1,100,2026-11-18T16:56+00:00
+130730,WA,Washington Whatcom County City of Bellingham Initiative 26-01 Prohibition of Algorithmic Price-Fixing in the Rental Market,2026-11-03,0,,False,2,1,44380,2026-11-18T16:56+00:00
+130313,WA,Washington Ferry County Sheriff,2026-11-03,0,,False,3,1,2375,2026-11-18T16:56+00:00
+130167,WA,Washington State House 12 Position 2,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,3,72590,2026-11-18T16:56+00:00
+130601,WA,Washington San Juan County Treasurer,2026-11-03,0,,False,2,1,7254,2026-11-18T16:56+00:00
+130380,WA,Washington Snohomish County City of Everett Proposition No. 264,2026-11-03,0,,False,2,1,32087,2026-11-18T16:56+00:00
+130813,WA,Washington King County Southwest Electoral District - Judge Position No. 2,2026-11-03,0,,False,2,1,65803,2026-11-18T16:56+00:00
+130864,WA,Washington Jefferson County Sheriff,2026-11-03,0,,False,2,1,15403,2026-11-18T16:56+00:00
+130856,WA,Washington Skamania County Sheriff,2026-11-03,0,,False,2,1,4643,2026-11-18T16:56+00:00
+130439,WA,Washington Spokane County Central Valley School District Proposition No. 1,2026-11-03,0,,False,2,1,42671,2026-11-18T16:56+00:00
+131316,WA,Washington State House 28 Position 1,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,1,47142,2026-11-18T16:56+00:00
+130510,WA,Washington Okanogan County Auditor,2026-11-03,0,,False,2,1,10586,2026-11-18T16:56+00:00
+181489,WA,"Washington Island County Commissioner, District 3",2026-11-03,0,,False,3,1,43388,2026-11-18T16:56+00:00
+130527,WA,Washington Pacific County Auditor,2026-11-03,0,,False,3,1,10615,2026-11-18T16:56+00:00
+130519,WA,Washington Okanogan County District Court Judge Pos. 2,2026-11-03,0,,False,3,1,14201,2026-11-18T16:56+00:00
+130163,WA,Washington State Senate 7,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,7,66546,2026-11-18T16:56+00:00
+130597,WA,Washington San Juan County Clerk,2026-11-03,0,,False,2,1,7300,2026-11-18T16:56+00:00
+130376,WA,Washington City of Bothell - Proposition No. 1,2026-11-03,0,,False,2,2,19573,2026-11-18T16:56+00:00
+130171,WA,Washington Chelan County Public Utility District Commissioner District B,2026-11-03,0,,False,2,1,22145,2026-11-18T16:56+00:00
+130663,WA,Washington Mason County Clerk,2026-11-03,0,,False,3,1,21356,2026-11-18T16:56+00:00
+130654,WA,"Washington Thurston County District Court Judge, Pos. 1",2026-11-03,0,,False,2,1,86721,2026-11-18T16:56+00:00
+130236,WA,Washington Lincoln County Commissioner District No. 3,2026-11-03,0,,False,2,1,4389,2026-11-18T16:56+00:00
+131312,WA,Washington State House 25 Position 1,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,1,57079,2026-11-18T16:56+00:00
+130515,WA,Washington Okanogan County Sheriff,2026-11-03,0,,False,3,1,14583,2026-11-18T16:56+00:00
+130297,WA,Washington Yakima County Auditor,2026-11-03,0,,False,3,1,70405,2026-11-18T16:56+00:00
+130253,WA,"Washington Lewis County District Court Judge, Dept 1",2026-11-03,0,,False,2,1,25747,2026-11-18T16:56+00:00
+181494,WA,Washington Mason County Public Utility District 1 - Commissioner District 2,2026-11-03,0,,False,2,1,1455,2026-11-18T16:56+00:00
+130731,WA,Washington Whatcom County City of Lynden Proposition 2026-05 Levy Lid Lift for Public Safety and Essential Community Services,2026-11-03,0,,False,2,1,7811,2026-11-18T16:56+00:00
+189015,WA,"Washington Thurston County Fire Protection District No. 3 (Lacey) - Proposition No. 1 - Bonds for Fire Stations, Training Facility, Logistics Warehouse",2026-11-03,0,,False,2,1,36689,2026-11-18T16:56+00:00
+130747,WA,Washington Kitsap County Kitsap County Public Utility District No. 1,2026-11-03,0,,False,2,1,122718,2026-11-18T16:56+00:00
+130602,WA,Washington San Juan County SJC District Court Judge,2026-11-03,0,,False,2,1,7031,2026-11-18T16:56+00:00
+130594,WA,"Washington Whitman County Endicott Cem No. 4, Prop No. 1",2026-11-03,0,,False,2,1,109,2026-11-18T16:56+00:00
+130176,WA,Washington Court of Appeals Division 3 District 3 Position 1,2026-11-03,0,,False,2,5,100664,2026-11-18T16:56+00:00
+130610,WA,"Washington Adams County Commissioner, District 3",2026-11-03,0,,False,3,1,3988,2026-11-18T16:56+00:00
+130440,WA,Washington Cheney School District - Proposition No. 1,2026-11-03,0,,False,2,2,15092,2026-11-18T16:56+00:00
+131317,WA,Washington State House 28 Position 2,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,1,45718,2026-11-18T16:56+00:00
+130459,WA,Washington Pierce County Charter Amendment No. 56,2026-11-03,0,,False,2,1,321974,2026-11-18T16:56+00:00
+130451,WA,Washington Spokane County Fire Protection District No. 9 Proposition No. 1,2026-11-03,0,,False,2,1,23247,2026-11-18T16:56+00:00
+181490,WA,Washington Kitsap County Commissioner District 3 Comm Dist 3,2026-11-03,0,,False,3,1,124667,2026-11-18T16:56+00:00
+130528,WA,Washington Pacific County Clerk,2026-11-03,0,,False,2,1,9187,2026-11-18T16:56+00:00
+181506,WA,"Washington Thurston County Public Utility District Commissioner, District No. 1",2026-11-03,0,,False,3,1,106173,2026-11-18T16:56+00:00
+181498,WA,Washington Pend Oreille County Commissioner No. 2,2026-11-03,0,,False,3,1,6335,2026-11-18T16:56+00:00
+130385,WA,Washington Snohomish County Fire Protection District No. 10 Proposition No. 1,2026-11-03,0,,False,2,1,3847,2026-11-18T16:56+00:00
+130377,WA,Washington Snohomish County City of Everett Proposition No. 261,2026-11-03,0,,False,2,1,33347,2026-11-18T16:56+00:00
+130810,WA,Washington King County Shoreline Electoral District - Judge Position No. 1,2026-11-03,0,,False,2,1,31360,2026-11-18T16:56+00:00
+130606,WA,Washington San Juan County Proposition No. 1 - Six-Year Property Tax Levy Orcas Island Park and Recreation District,2026-11-03,0,,False,2,1,3247,2026-11-18T16:56+00:00
+130447,WA,Washington Spokane County West Valley School District Proposition No. 1,2026-11-03,0,,False,2,1,9280,2026-11-18T16:56+00:00
+130237,WA,Washington Lincoln County Prosecuting Attorney,2026-11-03,0,,False,2,1,4366,2026-11-18T16:56+00:00
+130673,WA,Washington Mason County City of Shelton - Sales and Use Tax for Transportation Improvements,2026-11-03,0,,False,2,1,2274,2026-11-18T16:56+00:00
+131396,WA,Washington King County Seattle Municipal Court - Judge Position No. 1,2026-11-03,0,,False,2,1,217345,2026-11-18T16:56+00:00
+130674,WA,Washington Clark County Proposed Charter Amendment No. 19,2026-11-03,0,,False,2,1,222904,2026-11-18T16:56+00:00
+130691,WA,Washington Clark County Assessor,2026-11-03,0,,False,3,1,201411,2026-11-18T16:56+00:00
+131404,WA,Washington King County City of Shoreline - Proposition No. 1,2026-11-03,0,,False,2,1,26815,2026-11-18T16:56+00:00
+130533,WA,Washington Pacific County North District Court Judge,2026-11-03,0,,False,2,1,3283,2026-11-18T16:56+00:00
+130315,WA,Washington Ferry County District Court Judge,2026-11-03,0,,False,2,1,1770,2026-11-18T16:56+00:00
+130748,WA,Washington Klickitat County Assessor,2026-11-03,0,,False,2,1,7119,2026-11-18T16:56+00:00
+130541,WA,Washington Douglas County Proposed Rimrock Meadows Fire Protection District #9 Commissioner No.3,2026-11-03,0,,False,2,1,38,2026-11-18T16:56+00:00
+130177,WA,Washington Chelan County Chelan County District Court Judge Position 1,2026-11-03,0,,False,2,1,22809,2026-11-18T16:56+00:00
+130611,WA,Washington Adams County Prosecuting Attorney,2026-11-03,0,,False,2,1,3090,2026-11-18T16:56+00:00
+130193,WA,Washington Pend Oreille County Sheriff,2026-11-03,0,,False,2,1,5402,2026-11-18T16:56+00:00
+130185,WA,Washington Garfield County Prosecuting Attorney,2026-11-03,0,,False,2,1,1058,2026-11-18T16:56+00:00
+131318,WA,Washington State Senate 29,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,1,35704,2026-11-18T16:56+00:00
+130460,WA,Washington Pierce County Charter Amendment No. 57,2026-11-03,0,,False,2,1,319264,2026-11-18T16:56+00:00
+130687,WA,Washington State House 18 Position 1,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,1,73499,2026-11-18T16:56+00:00
+131400,WA,Washington King County Seattle Municipal Court - Judge Position No. 5,2026-11-03,0,,False,3,1,296054,2026-11-18T16:56+00:00
+130529,WA,Washington Pacific County Sheriff,2026-11-03,0,,False,3,1,12037,2026-11-18T16:56+00:00
+181507,WA,Washington Wahkiakum County Commissioner #3,2026-11-03,0,,False,2,1,1967,2026-11-18T16:56+00:00
+130744,WA,Washington Kitsap County Kitsap County District Court Judge Department 3,2026-11-03,0,,False,2,1,81640,2026-11-18T16:56+00:00
+130537,WA,Washington Pacific County Pacific County Fire Protection District No. 6,2026-11-03,0,,False,2,1,253,2026-11-18T16:56+00:00
+130181,WA,Washington Garfield County Assessor,2026-11-03,0,,False,2,1,1021,2026-11-18T16:56+00:00
+130811,WA,Washington King County Shoreline Electoral District - Judge Position No. 2,2026-11-03,0,,False,2,1,31306,2026-11-18T16:56+00:00
+130394,WA,Washington Walla Walla County Sheriff,2026-11-03,0,,False,3,1,11084,2026-11-18T16:56+00:00
+130828,WA,Washington King County City of Seattle - Council District No. 5,2026-11-03,0,,False,3,1,46970,2026-11-18T16:56+00:00
+130395,WA,Washington Walla Walla County Treasurer,2026-11-03,0,,False,2,1,8846,2026-11-18T16:56+00:00
+130632,WA,Washington Wahkiakum County Fir (Sk - Eme Med Ser (EMS) Levy - Replacement Existing Levy,2026-11-03,0,,False,2,1,257,2026-11-18T16:56+00:00
+130624,WA,Washington Cowlitz County Sheriff,2026-11-03,0,,False,2,1,35711,2026-11-18T16:56+00:00
+130467,WA,Washington State House 26 Position 1,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,2,78121,2026-11-18T16:56+00:00
+131673,WA,"PUBLIC HOSPITAL DISTRICT NO. 1 - Public Hospital District No. 1, Proposition 1",2026-11-03,0,,False,2,2,0,2026-11-18T16:56+00:00
+130684,WA,Washington Clark County County Proposition No. 13,2026-11-03,0,,False,2,1,215625,2026-11-18T16:56+00:00
+130264,WA,"Washington Island, Snohomish Public Utility District No. 1 - Commissioner District 1",2026-11-03,0,,False,3,2,294715,2026-11-18T16:56+00:00
+181504,WA,"Washington Thurston County Commissioner, District No. 3",2026-11-03,0,,False,2,1,91155,2026-11-18T16:56+00:00
+130542,WA,Washington Douglas County Coroner,2026-11-03,0,,False,2,1,11721,2026-11-18T16:56+00:00
+130765,WA,Washington State Senate 33,2026-11-03,0,2026-11-04T07:09:42.119Z,False,2,1,38631,2026-11-18T16:56+00:00
+130757,WA,Washington Klickitat County Emergency Medical Services District No. 1 Proposition No. 1,2026-11-03,0,,False,2,1,10466,2026-11-18T16:56+00:00
+130612,WA,Washington Adams County Sheriff,2026-11-03,0,,False,3,1,3827,2026-11-18T16:56+00:00
+130194,WA,Washington Pend Oreille County Treasurer,2026-11-03,0,,False,2,1,5282,2026-11-18T16:56+00:00
+130628,WA,Washington Cowlitz County Judge Position 2,2026-11-03,0,,False,2,1,33089,2026-11-18T16:56+00:00
+130620,WA,Washington Cowlitz County Clerk,2026-11-03,0,,False,3,1,42218,2026-11-18T16:56+00:00
+130461,WA,Washington Pierce County Charter Amendment No. 58,2026-11-03,0,,False,2,1,325620,2026-11-18T16:56+00:00
+130688,WA,Washington State House 18 Position 2,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,1,73334,2026-11-18T16:56+00:00
+130479,WA,Washington Pierce County Auditor,2026-11-03,0,,False,3,1,293550,2026-11-18T16:56+00:00
+130260,WA,Washington State House 10 Position 1,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,3,76288,2026-11-18T16:56+00:00
+130753,WA,Washington Klickitat County Sheriff,2026-11-03,0,,False,3,1,10815,2026-11-18T16:56+00:00
+130745,WA,Washington Kitsap County Kitsap County District Court Judge Department 4,2026-11-03,0,,False,2,1,81690,2026-11-18T16:56+00:00
+130328,WA,Washington Grays Harbor County Commissioner #3,2026-11-03,0,,False,3,1,27357,2026-11-18T16:56+00:00
+130761,WA,Washington State House 11 Position 2,2026-11-03,0,2026-11-12T01:54:12.344Z,False,2,1,38834,2026-11-18T16:56+00:00
+130616,WA,Washington Adams County Adams Co. Fire Dist. No. 4 Special Election Prop. No. 1,2026-11-03,0,,False,2,1,9,2026-11-18T16:56+00:00
+130329,WA,Washington Grays Harbor County Assessor,2026-11-03,0,,False,3,1,27451,2026-11-18T16:56+00:00
+130568,WA,"Washington Whitman County Town Albion, Prop No. 2",2026-11-03,0,,False,2,1,166,2026-11-18T16:56+00:00
+130346,WA,Washington Snohomish County Proposed Amendments to the Snohomish County Charter Prop 2,2026-11-03,0,,False,2,1,308186,2026-11-18T16:56+00:00
+130199,WA,Washington Pend Oreille County Hospital Expansion and Renovation Bonds,2026-11-03,0,,False,2,1,5842,2026-11-18T16:56+00:00
+130633,WA,Washington Wahkiakum County Assessor,2026-11-03,0,,False,3,1,2394,2026-11-18T16:56+00:00
+130413,WA,Washington State House 3 Position 1,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,1,65022,2026-11-18T16:56+00:00
+130847,WA,Washington Quillayute Valley School District 402 - Proposition 1,2026-11-03,0,,False,2,2,1348,2026-11-18T16:56+00:00
+130685,WA,Washington State House 17 Position 1,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,3,76805,2026-11-18T16:56+00:00
+130265,WA,Washington Island County Coroner,2026-11-03,0,,False,2,1,33302,2026-11-18T16:56+00:00
+130701,WA,Washington Clark County District Court Judge Department No. 2,2026-11-03,0,,False,2,1,139611,2026-11-18T16:56+00:00
+130493,WA,Washington Southeast Electoral District Judge Position No. 1,2026-11-03,0,,False,2,2,111363,2026-11-18T16:56+00:00
+130543,WA,Washington Douglas County Prosecuting Attorney,2026-11-03,0,,False,2,1,12129,2026-11-18T16:56+00:00
+130766,WA,Washington State House 33 Position 1,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,1,47157,2026-11-18T16:56+00:00
+130350,WA,Washington State House 1 Position 1,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,2,70934,2026-11-18T16:56+00:00
+130551,WA,Washington Douglas County Douglas County Cemetery District #2,2026-11-03,0,,False,2,1,772,2026-11-18T16:56+00:00
+130195,WA,Washington Pend Oreille County Public Utility Commissioner No. 2,2026-11-03,0,,False,3,1,6366,2026-11-18T16:56+00:00
+130629,WA,Washington Cowlitz County Judge Position 3,2026-11-03,0,,False,3,1,41624,2026-11-18T16:56+00:00
+130409,WA,Washington Stevens County Stevens County Rural Library District Proposition No. 2 Levy Lift For Library Services,2026-11-03,0,,False,2,1,10924,2026-11-18T16:56+00:00
+130203,WA,Washington Columbia County Clerk,2026-11-03,0,,False,2,1,1601,2026-11-18T16:56+00:00
+130489,WA,Washington Pierce County Pierce County District Court - Position No. 5,2026-11-03,0,,False,2,1,200646,2026-11-18T16:56+00:00
+130480,WA,Washington Pierce County Prosecuting Attorney,2026-11-03,0,,False,3,1,295829,2026-11-18T16:56+00:00
+148843,WA,Benton County District Court Judge 2,2026-11-03,0,,False,2,1,49728,2026-11-18T16:56+00:00
+130697,WA,Washington Clark County Prosecuting Attorney,2026-11-03,0,,False,2,1,146000,2026-11-18T16:56+00:00
+130547,WA,"Washington Douglas County PUBLIC HOSPITAL DISTRICT NO. 1 - Public Hospital District No. 1, Proposition 1",2026-11-03,0,,False,2,1,0,2026-11-18T16:56+00:00
+130498,WA,Washington Southeast Electoral District Judge Position No. 6,2026-11-03,0,,False,2,2,106749,2026-11-18T16:56+00:00
+181477,WA,Washington Clallam County Commissioner Dist. No. 3,2026-11-03,0,,False,3,1,28246,2026-11-18T16:56+00:00
+130771,WA,Washington State Senate 36,2026-11-03,0,2026-11-04T07:09:42.119Z,False,3,1,84107,2026-11-18T16:56+00:00
+130569,WA,"Washington Whitman County Town of Colton, Prop No. 880",2026-11-03,0,,False,2,1,161,2026-11-18T16:56+00:00
+130151,WA,Washington Asotin County Clerk,2026-11-03,0,,False,2,1,7056,2026-11-18T16:56+00:00
+130585,WA,"Washington Whitman County Fire No. 14, Prop No. 1",2026-11-03,0,,False,2,1,310,2026-11-18T16:56+00:00
+130634,WA,Washington Wahkiakum County Auditor,2026-11-03,0,,False,2,1,2101,2026-11-18T16:56+00:00
+130626,WA,Washington Cowlitz County Judge Position 4,2026-11-03,0,,False,3,1,42521,2026-11-18T16:56+00:00
+130208,WA,Washington Columbia County Columbia County District Court Judge,2026-11-03,0,,False,2,1,1560,2026-11-18T16:56+00:00
+130642,WA,Washington State House 22 Position 2,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,1,64927,2026-11-18T16:56+00:00
+130266,WA,Washington Island County Island County Prosecutor,2026-11-03,0,,False,3,1,42123,2026-11-18T16:56+00:00
+130702,WA,Washington Clark County District Court Judge Department No. 3,2026-11-03,0,,False,2,1,138678,2026-11-18T16:56+00:00
+130282,WA,Washington Skagit County Sheriff,2026-11-03,0,,False,3,1,49366,2026-11-18T16:56+00:00
+130274,WA,Washington State House 40 Position 1,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,3,79359,2026-11-18T16:56+00:00
+130767,WA,Washington State House 33 Position 2,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,1,46782,2026-11-18T16:56+00:00
+130351,WA,Washington State House 1 Position 2,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,2,70699,2026-11-18T16:56+00:00
+130147,WA,Washington State House 9 Position 1,2026-11-03,0,2026-11-12T01:54:12.344Z,False,2,7,49193,2026-11-18T16:56+00:00
+130775,WA,Washington State House 37 Position 1,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,1,63647,2026-11-18T16:56+00:00
+130418,WA,Washington State House 6 Position 1,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,1,63296,2026-11-18T16:56+00:00
+130410,WA,Washington Nine Mile Falls School District - Proposition No. 1,2026-11-03,0,,False,2,2,3766,2026-11-18T16:56+00:00
+130844,WA,Washington Clallam County Treasurer,2026-11-03,0,,False,2,1,18057,2026-11-18T16:56+00:00
+130638,WA,Washington Wahkiakum County Prosecuting Attorney,2026-11-03,0,,False,2,1,1903,2026-11-18T16:56+00:00
+130270,WA,"Washington Island County City of Langley, Proposition No.1, Governmental Services and Technology Levy",2026-11-03,0,,False,2,1,838,2026-11-18T16:56+00:00
+148844,WA,Benton County District Court Judge 3,2026-11-03,0,,False,2,1,47855,2026-11-18T16:56+00:00
+130861,WA,Washington Jefferson County Clerk,2026-11-03,0,,False,2,1,15036,2026-11-18T16:56+00:00
+130707,WA,Washington Clark County Battle Ground School District No. 119 Proposition No. 11,2026-11-03,0,,False,2,1,41127,2026-11-18T16:56+00:00
+130499,WA,Washington Pierce County Pierce Transit - Proposition No. 1,2026-11-03,0,,False,2,1,180915,2026-11-18T16:56+00:00
+130723,WA,Washington State House 42 Position 2,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,1,78220,2026-11-18T16:56+00:00
+130516,WA,Washington Okanogan County Treasurer,2026-11-03,0,,False,2,1,10502,2026-11-18T16:56+00:00
+130356,WA,Washington State House 32 Position 1,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,2,62860,2026-11-18T16:56+00:00
+130348,WA,Washington Snohomish County Proposed Amendments to the Snohomish County Charter Prop 4,2026-11-03,0,,False,2,1,312343,2026-11-18T16:56+00:00
+130780,WA,Washington State House 43 Position 1,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,1,63669,2026-11-18T16:56+00:00
+130364,WA,Washington Snohomish County Prosecuting Attorney,2026-11-03,0,,False,2,1,240356,2026-11-18T16:56+00:00
+130209,WA,Washington Columbia County Columbia County Pool District - Proposition No. 1 Operation Excess Levy,2026-11-03,0,,False,2,1,1845,2026-11-18T16:56+00:00
+130643,WA,Washington State Senate 35,2026-11-03,0,,False,3,3,78471,2026-11-18T16:56+00:00
+130225,WA,Washington Grant County Grant County Superior Court Judge Position #03,2026-11-03,0,,False,3,1,20355,2026-11-18T16:56+00:00
+130217,WA,Washington Grant County Assessor,2026-11-03,0,,False,3,1,21835,2026-11-18T16:56+00:00
+130703,WA,Washington Clark County District Court Judge Department No. 4,2026-11-03,0,,False,2,1,138142,2026-11-18T16:56+00:00
+130283,WA,Washington Skagit County Treasurer,2026-11-03,0,,False,3,1,49546,2026-11-18T16:56+00:00
+130719,WA,Washington Franklin County District Court Judge,2026-11-03,0,,False,3,1,21499,2026-11-18T16:56+00:00
+130711,WA,Washington Franklin County Assessor,2026-11-03,0,,False,3,1,19872,2026-11-18T16:56+00:00
+130352,WA,Washington State Senate 21,2026-11-03,0,2026-11-04T07:09:42.119Z,False,3,1,58688,2026-11-18T16:56+00:00
+130148,WA,Washington State House 9 Position 2,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,7,65661,2026-11-18T16:56+00:00
+130582,WA,"Washington Whitman County City Tekoa, Prop No. 1",2026-11-03,0,,False,2,1,203,2026-11-18T16:56+00:00
+130360,WA,Washington State House 38 Position 2,2026-11-03,0,2026-11-12T01:54:12.346Z,False,2,1,41875,2026-11-18T16:56+00:00
+130213,WA,Washington State House 13 Position 1,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,4,51855,2026-11-18T16:56+00:00
+130845,WA,Washington Clallam County District Court 1 Judge,2026-11-03,0,,False,3,1,24617,2026-11-18T16:56+00:00
+130428,WA,Washington Spokane County District Court Judge 2,2026-11-03,0,,False,3,1,197502,2026-11-18T16:56+00:00
+130648,WA,Washington Thurston County Clerk,2026-11-03,0,,False,3,1,117553,2026-11-18T16:56+00:00
+130429,WA,Washington Spokane County District Court Judge 3,2026-11-03,0,,False,2,1,139718,2026-11-18T16:56+00:00
+130665,WA,Washington Mason County Coroner,2026-11-03,0,,False,2,1,19660,2026-11-18T16:56+00:00
+130656,WA,"Washington Thurston County District Court Judge, Pos. 3",2026-11-03,0,,False,2,1,85991,2026-11-18T16:56+00:00
+130288,WA,Washington Skagit County City of Sedro-Woolley Proposition No. 1 - Annexation into Central Skagit Rural Partial-County Library District,2026-11-03,0,,False,2,1,3340,2026-11-18T16:56+00:00
+181479,WA,Washington Douglas County Commissioner District No. 3,2026-11-03,0,,False,3,1,14502,2026-11-18T16:56+00:00
+130517,WA,Washington Okanogan County Superior Court Judge Position 2 (2 year unexpired term),2026-11-03,0,,False,2,1,9798,2026-11-18T16:56+00:00
+130299,WA,Washington Yakima County Coroner,2026-11-03,0,,False,2,1,53299,2026-11-18T16:56+00:00
+130781,WA,Washington State House 43 Position 2,2026-11-03,0,2026-11-12T01:54:12.346Z,False,2,1,52860,2026-11-18T16:56+00:00
+130365,WA,Washington Court of Appeals Division 1 District 2 Position 2,2026-11-03,0,,False,2,1,224595,2026-11-18T16:56+00:00
+130797,WA,Washington King County Metropolitan King County - Council District No. 2,2026-11-03,0,,False,3,1,97955,2026-11-18T16:56+00:00
+130789,WA,Washington State House 47 Position 1,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,1,50207,2026-11-18T16:56+00:00
+130644,WA,Washington State House 35 Position 1,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,3,78263,2026-11-18T16:56+00:00
+130226,WA,Washington Grant County Grant County District Court Judge #1,2026-11-03,0,,False,2,1,16555,2026-11-18T16:56+00:00
+130661,WA,Washington Mason County Assessor,2026-11-03,0,,False,2,1,19212,2026-11-18T16:56+00:00
+130652,WA,Washington Thurston County Sheriff,2026-11-03,0,,False,3,1,122024,2026-11-18T16:56+00:00
+130284,WA,Washington Skagit County Skagit County District Court Judge Position 1,2026-11-03,0,,False,2,1,31345,2026-11-18T16:56+00:00
+130720,WA,Washington Franklin County Fire Protection District No. 3 - Proposition No. 1,2026-11-03,0,,False,2,1,2649,2026-11-18T16:56+00:00
+130513,WA,Washington Okanogan County Coroner,2026-11-03,0,,False,3,1,15209,2026-11-18T16:56+00:00
+130292,WA,Washington State House 14 Position 2,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,4,28665,2026-11-18T16:56+00:00
+130785,WA,Washington State Senate 46,2026-11-03,0,2026-11-04T07:09:42.119Z,False,3,1,75718,2026-11-18T16:56+00:00
+130583,WA,"Washington Whitman County Town Uniontown, Prop No. 1",2026-11-03,0,,False,2,1,145,2026-11-18T16:56+00:00
+130165,WA,Washington State House 7 Position 2,2026-11-03,0,2026-11-12T01:54:12.344Z,False,2,7,50846,2026-11-18T16:56+00:00
+130599,WA,Washington San Juan County Prosecuting Attorney,2026-11-03,0,,False,2,1,7425,2026-11-18T16:56+00:00
+130166,WA,Washington State House 12 Position 1,2026-11-03,0,,False,3,3,72922,2026-11-18T16:56+00:00
+130387,WA,Washington Snohomish County Public Hospital District No. 1 Proposition No. 1,2026-11-03,0,,False,2,1,52668,2026-11-18T16:56+00:00
+130379,WA,Washington Snohomish County City of Everett Proposition No. 263,2026-11-03,0,,False,2,1,32712,2026-11-18T16:56+00:00
+130231,WA,Washington Grant County Grant County Fire Dist. #7 Proposition No. 1,2026-11-03,0,,False,2,1,1473,2026-11-18T16:56+00:00
+130666,WA,Washington Mason County Mason County - Prosecutor,2026-11-03,0,,False,2,1,18068,2026-11-18T16:56+00:00
+130449,WA,Washington Spokane County Fire Protection District No. 2 Proposition No. 1,2026-11-03,0,,False,2,1,412,2026-11-18T16:56+00:00
+131397,WA,Washington King County Seattle Municipal Court - Judge Position No. 2,2026-11-03,0,,False,2,1,218476,2026-11-18T16:56+00:00
+130717,WA,Washington Franklin County Sheriff,2026-11-03,0,,False,3,1,20397,2026-11-18T16:56+00:00
+130300,WA,Washington Yakima County Prosecuting Attorney,2026-11-03,0,,False,3,1,61378,2026-11-18T16:56+00:00
+130733,WA,Washington State House 23 Position 1,2026-11-03,0,,False,3,1,70109,2026-11-18T16:56+00:00
+130526,WA,Washington Pacific County Assessor,2026-11-03,0,,False,3,1,10968,2026-11-18T16:56+00:00
+130366,WA,Washington Snohomish County Cascade District Court Judge Position 1,2026-11-03,0,,False,2,1,26851,2026-11-18T16:56+00:00
+130798,WA,Washington King County Metropolitan King County - Council District No. 4,2026-11-03,0,,False,2,1,89192,2026-11-18T16:56+00:00
+130383,WA,Washington Snohomish County Mukilteo School District No. 6 Proposition No. 1,2026-11-03,0,,False,2,1,32621,2026-11-18T16:56+00:00
+130374,WA,Washington Snohomish County South District Court Judge Position 3,2026-11-03,0,,False,2,1,88404,2026-11-18T16:56+00:00
+130227,WA,Washington Grant County Grant County District Court Judge #2,2026-11-03,0,,False,2,1,16631,2026-11-18T16:56+00:00
+130662,WA,Washington Mason County Auditor,2026-11-03,0,,False,3,1,25149,2026-11-18T16:56+00:00
+130442,WA,Washington Spokane County East Valley School District Proposition No. 1,2026-11-03,0,,False,2,1,11494,2026-11-18T16:56+00:00
+130235,WA,Washington Lincoln County Clerk,2026-11-03,0,,False,2,1,4443,2026-11-18T16:56+00:00
+130522,WA,"Washington Okanogan County Town of Twisp, Proposition 1",2026-11-03,0,,False,2,1,529,2026-11-18T16:56+00:00
+130514,WA,Washington Okanogan County Prosecuting Attorney,2026-11-03,0,,False,2,1,10180,2026-11-18T16:56+00:00
+181492,WA,Washington Klickitat County Commissioner 2,2026-11-03,0,,False,3,1,9665,2026-11-18T16:56+00:00
+130729,WA,Washington Whatcom County City of Bellingham Proposition 2026-07 Streamlining the City's Contract Review Process to Allow Electronic Signatures,2026-11-03,0,,False,2,1,43917,2026-11-18T16:56+00:00
+130370,WA,Washington Snohomish County Evergreen District Court Judge Position 1,2026-11-03,0,,False,2,1,48210,2026-11-18T16:56+00:00
+130531,WA,Washington Pacific County Prosecuting Attorney,2026-11-03,0,,False,3,1,10934,2026-11-18T16:56+00:00
+181509,WA,Washington Whatcom County Port of Bellingham Commissioner District 5,2026-11-03,0,,False,3,1,103028,2026-11-18T16:56+00:00
+130805,WA,Washington King County Northeast Electoral District - Judge Position No. 3,2026-11-03,0,,False,2,1,156077,2026-11-18T16:56+00:00
+130388,WA,Washington Walla Walla County Assessor,2026-11-03,0,,False,2,1,8876,2026-11-18T16:56+00:00
+130183,WA,Washington Garfield County Clerk,2026-11-03,0,,False,2,1,1102,2026-11-18T16:56+00:00
+130617,WA,Washington Adams County Park and Rec. Dist. No. 2 Special Election Prop. No. 1,2026-11-03,0,,False,2,1,158,2026-11-18T16:56+00:00
+130667,WA,Washington Mason County Sheriff,2026-11-03,0,,False,2,1,18633,2026-11-18T16:56+00:00
+130659,WA,"Washington Thurston County West Thurston Regional Fire Authority (Rochester), Proposition No. 1",2026-11-03,0,,False,2,1,0,2026-11-18T16:56+00:00
+130240,WA,Washington Lincoln County District Court Judge,2026-11-03,0,,False,2,1,3777,2026-11-18T16:56+00:00
+130676,WA,Washington Clark County Proposed Charter Amendment No. 21,2026-11-03,0,,False,2,1,213206,2026-11-18T16:56+00:00
+130301,WA,Washington Yakima County Sheriff,2026-11-03,0,,False,3,1,62328,2026-11-18T16:56+00:00
+130734,WA,Washington State House 23 Position 2,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,1,75312,2026-11-18T16:56+00:00
+130317,WA,Washington Kittitas County Auditor,2026-11-03,0,,False,2,1,14077,2026-11-18T16:56+00:00
+130309,WA,Washington Ferry County Auditor,2026-11-03,0,,False,2,1,1946,2026-11-18T16:56+00:00
+130799,WA,Washington King County Metropolitan King County - Council District No. 6,2026-11-03,0,,False,2,1,60296,2026-11-18T16:56+00:00
+130384,WA,Washington Snohomish County Sultan School District No. 311 Proposition No. 1,2026-11-03,0,,False,2,1,6539,2026-11-18T16:56+00:00
+130179,WA,Washington Chelan County Wenatchee School District No. 246 - Proposition No. 1,2026-11-03,0,,False,2,1,18205,2026-11-18T16:56+00:00
+130809,WA,Washington King County Northeast Electoral District - Judge Position No. 7,2026-11-03,0,,False,2,1,148237,2026-11-18T16:56+00:00
+130454,WA,Washington Spokane County Fire Protection District No. 12 Proposition No. 1,2026-11-03,0,,False,2,1,241,2026-11-18T16:56+00:00
+130446,WA,Washington Spokane County Spokane School District Proposition No. 1,2026-11-03,0,,False,2,1,92425,2026-11-18T16:56+00:00
+131320,WA,Washington State House 29 Position 2,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,1,34849,2026-11-18T16:56+00:00
+130672,WA,Washington Mason County Pioneer School District No. 402 - Replacement of Expiring Educational Programs and Operations Levy,2026-11-03,0,,False,2,1,4779,2026-11-18T16:56+00:00
+130305,WA,"Washington Yakima County Yakima County District Court Judge, Position 2",2026-11-03,0,,False,2,1,48435,2026-11-18T16:56+00:00
+181493,WA,Washington Mason County Commissioner District No. 3,2026-11-03,0,,False,3,1,24981,2026-11-18T16:56+00:00
+130690,WA,Washington State House 49 Position 2,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,1,59795,2026-11-18T16:56+00:00
+130739,WA,Washington Kitsap County Prosecuting Attorney,2026-11-03,0,,False,3,1,108566,2026-11-18T16:56+00:00
+130532,WA,Washington Pacific County Public Utility District No. 2 Commissioner District 1,2026-11-03,0,,False,2,1,8503,2026-11-18T16:56+00:00
+130755,WA,Washington Klickitat County Klickitat County East District Court Judge,2026-11-03,0,,False,2,1,3343,2026-11-18T16:56+00:00
+130548,WA,Washington Douglas County Douglas County Hospital District #2,2026-11-03,0,,False,2,1,911,2026-11-18T16:56+00:00
+130389,WA,Washington Walla Walla County Auditor,2026-11-03,0,,False,3,1,12103,2026-11-18T16:56+00:00
+130381,WA,Washington Snohomish County City of Everett Proposition No. 265,2026-11-03,0,,False,2,1,32687,2026-11-18T16:56+00:00
+130814,WA,Washington King County Southwest Electoral District - Judge Position No. 3,2026-11-03,0,,False,2,1,64509,2026-11-18T16:56+00:00
+130397,WA,Washington Walla Walla County District Court Judge - Part Time,2026-11-03,0,,False,3,1,10954,2026-11-18T16:56+00:00
+130241,WA,Washington State House 19 Position 1,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,6,68423,2026-11-18T16:56+00:00
+130677,WA,Washington Clark County Proposed Charter Amendment No. 22,2026-11-03,0,,False,2,1,215482,2026-11-18T16:56+00:00
+148832,WA,Washington State House 15 Position 1,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,2,55476,2026-11-18T16:56+00:00
+130249,WA,Washington Lewis County Prosecuting Attorney,2026-11-03,0,,False,2,1,27050,2026-11-18T16:56+00:00
+130735,WA,Washington Kitsap County Public Utility District No. 1 Commissioner District 2,2026-11-03,0,,False,2,1,82221,2026-11-18T16:56+00:00
+130318,WA,Washington Kittitas County Clerk,2026-11-03,0,,False,2,1,13898,2026-11-18T16:56+00:00
+130751,WA,Washington Klickitat County Public Utility District 1 Commissioner Pos. 3,2026-11-03,0,,False,3,1,9683,2026-11-18T16:56+00:00
+130743,WA,Washington Kitsap County Kitsap County District Court Judge Department 2,2026-11-03,0,,False,2,1,82478,2026-11-18T16:56+00:00
+130188,WA,Washington Garfield County District Court Judge,2026-11-03,0,,False,2,1,1073,2026-11-18T16:56+00:00
+130180,WA,Washington Chelan County City of Cashmere - Proposition No. 1,2026-11-03,0,,False,2,1,1259,2026-11-18T16:56+00:00
+130614,WA,"Washington Adams County District Court Judge, Adams County, Position 1",2026-11-03,0,,False,2,1,3067,2026-11-18T16:56+00:00
+130393,WA,Washington Walla Walla County Prosecuting Attorney,2026-11-03,0,,False,2,1,8772,2026-11-18T16:56+00:00
+130245,WA,Washington Lewis County Assessor,2026-11-03,0,,False,2,1,27735,2026-11-18T16:56+00:00
+131326,WA,Washington Court of Appeals Division 2 District 1 Position 2,2026-11-03,0,,False,2,1,206166,2026-11-18T16:56+00:00
+130463,WA,Washington State House 2 Position 2,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,2,59262,2026-11-18T16:56+00:00
+130682,WA,Washington Clark County Proposed Charter Amendment No. 27,2026-11-03,0,,False,2,1,214029,2026-11-18T16:56+00:00
+130466,WA,Washington State Senate 26,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,2,78338,2026-11-18T16:56+00:00
+130491,WA,Washington Pierce County Pierce County District Court - Position No. 7,2026-11-03,0,,False,3,1,284425,2026-11-18T16:56+00:00
+130482,WA,Washington Pierce County Council District No. 5,2026-11-03,0,,False,3,1,38191,2026-11-18T16:56+00:00
+130323,WA,Washington Kittitas County Treasurer,2026-11-03,0,,False,2,1,14069,2026-11-18T16:56+00:00
+189016,WA,Washington Thurston County West Thurston Regional Fire Authority (Rochester) - Proposition No. 1 - Property Tax for Fire Maintenance and Operations,2026-11-03,0,,False,2,1,5260,2026-11-18T16:56+00:00
+130549,WA,Washington Douglas County Eastmont School District No. 206,2026-11-03,0,,False,2,1,12700,2026-11-18T16:56+00:00
+130331,WA,Washington Grays Harbor County Clerk,2026-11-03,0,,False,2,1,21095,2026-11-18T16:56+00:00
+130815,WA,Washington King County Southwest Electoral District - Judge Position No. 4,2026-11-03,0,,False,3,1,83154,2026-11-18T16:56+00:00
+130398,WA,Washington Walla Walla County Proposition 1 Dixie School District No. 101,2026-11-03,0,,False,2,1,157,2026-11-18T16:56+00:00
+130833,WA,Washington King County King County Fire Protection District No. 20 - Proposition No. 1,2026-11-03,0,,False,2,1,5309,2026-11-18T16:56+00:00
+130823,WA,Washington King County City of Issaquah - Proposition No. 1,2026-11-03,0,,False,2,1,15626,2026-11-18T16:56+00:00
+130678,WA,Washington Clark County Proposed Charter Amendment No. 23,2026-11-03,0,,False,2,1,217441,2026-11-18T16:56+00:00
+148833,WA,Washington State House 15 Position 2,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,2,54542,2026-11-18T16:56+00:00
+130487,WA,Washington Pierce County Pierce County District Court - Position No. 3,2026-11-03,0,,False,2,1,200592,2026-11-18T16:56+00:00
+130478,WA,Washington State House 31 Position 2,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,2,65515,2026-11-18T16:56+00:00
+130319,WA,"Washington Kittitas County Public Utility District No. 1 Commissioner, District 1",2026-11-03,0,,False,2,1,13457,2026-11-18T16:56+00:00
+130752,WA,Washington Klickitat County Prosecuting Attorney,2026-11-03,0,,False,2,1,6675,2026-11-18T16:56+00:00
+130545,WA,Washington Douglas County Treasurer,2026-11-03,0,,False,2,1,11521,2026-11-18T16:56+00:00
+130327,WA,Washington State House 24 Position 2,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,3,80830,2026-11-18T16:56+00:00
+130819,WA,Washington King County West Electoral District - Judge Position No. 3,2026-11-03,0,,False,2,1,216414,2026-11-18T16:56+00:00
+130615,WA,"Washington Adams County District Court Judge, Adams County, Position 2",2026-11-03,0,,False,2,1,3162,2026-11-18T16:56+00:00
+130197,WA,"Washington Ferry, Pend Oreille, Stevens Superior Court - Judge Position 2",2026-11-03,0,,False,2,3,14778,2026-11-18T16:56+00:00
+130631,WA,Washington Wahkiakum County Cou - Eme Med Ser (EMS) Levy - Replacement Existing Levy,2026-11-03,0,,False,2,1,2478,2026-11-18T16:56+00:00
+130404,WA,Washington Stevens County Coroner,2026-11-03,0,,False,3,1,11232,2026-11-18T16:56+00:00
+130198,WA,Washington Pend Oreille County District Court Judge,2026-11-03,0,,False,2,1,4867,2026-11-18T16:56+00:00
+130421,WA,Washington Spokane County Assessor,2026-11-03,0,,False,2,1,158883,2026-11-18T16:56+00:00
+130412,WA,Washington Stevens County Stevens County Fire Protection District No. 10 Proposition No. 1 Property Tax Levy For Fire Protection Services,2026-11-03,0,,False,2,1,134,2026-11-18T16:56+00:00
+148838,WA,Benton County Coroner,2026-11-03,0,,False,2,1,53520,2026-11-18T16:56+00:00
+130692,WA,Washington Clark County Auditor,2026-11-03,0,,False,3,1,207836,2026-11-18T16:56+00:00
+130483,WA,Washington Pierce County Council District No. 7,2026-11-03,0,,False,3,1,68608,2026-11-18T16:56+00:00
+148846,WA,Benton County District Court Judge 5,2026-11-03,0,,False,2,1,47746,2026-11-18T16:56+00:00
+130749,WA,Washington Klickitat County Auditor,2026-11-03,0,,False,2,1,6907,2026-11-18T16:56+00:00
+130332,WA,Washington Grays Harbor County Coroner,2026-11-03,0,,False,2,1,21370,2026-11-18T16:56+00:00
+130571,WA,"Washington Whitman County Town Endicott, Prop No. 2",2026-11-03,0,,False,2,1,67,2026-11-18T16:56+00:00
+130561,WA,Washington Whitman County Sheriff,2026-11-03,0,,False,2,1,7218,2026-11-18T16:56+00:00
+130400,WA,Washington Stevens County Assessor,2026-11-03,0,,False,2,1,9569,2026-11-18T16:56+00:00
+130834,WA,Washington King County King County Cemetery District No. 1 - Proposition No. 1,2026-11-03,0,,False,2,1,6765,2026-11-18T16:56+00:00
+130416,WA,Washington State House 4 Position 2,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,1,68400,2026-11-18T16:56+00:00
+130408,WA,Washington Stevens County District Court Judge,2026-11-03,0,,False,3,1,11193,2026-11-18T16:56+00:00
+148834,WA,Benton County Assessor,2026-11-03,0,,False,2,1,53102,2026-11-18T16:56+00:00
+130488,WA,Washington Pierce County Pierce County District Court - Position No. 4,2026-11-03,0,,False,2,1,200195,2026-11-18T16:56+00:00
+130268,WA,Washington Island County Treasurer,2026-11-03,0,,False,2,1,32404,2026-11-18T16:56+00:00
+148842,WA,Benton County District Court Judge 1,2026-11-03,0,,False,3,1,66390,2026-11-18T16:56+00:00
+130557,WA,Washington Whitman County Clerk,2026-11-03,0,,False,2,1,7925,2026-11-18T16:56+00:00
+130546,WA,Washington Douglas County District Court Judge,2026-11-03,0,,False,2,1,11196,2026-11-18T16:56+00:00
+130769,WA,Washington State House 34 Position 1,2026-11-03,0,2026-11-12T01:54:12.345Z,False,2,1,60279,2026-11-18T16:56+00:00
+130567,WA,"Washington Whitman County Town Albion, Prop No. 1",2026-11-03,0,,False,2,1,167,2026-11-18T16:56+00:00
+130770,WA,Washington State House 34 Position 2,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,1,69360,2026-11-18T16:56+00:00
+130354,WA,Washington State House 21 Position 2,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,1,57229,2026-11-18T16:56+00:00
+130150,WA,Washington Asotin County Auditor,2026-11-03,0,,False,2,1,7254,2026-11-18T16:56+00:00
+130839,WA,Washington Clallam County Auditor,2026-11-03,0,,False,3,1,26434,2026-11-18T16:56+00:00
+130422,WA,Washington Spokane County Auditor,2026-11-03,0,,False,3,1,226853,2026-11-18T16:56+00:00
+130215,WA,Washington State House 16 Position 1,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,4,55217,2026-11-18T16:56+00:00
+130649,WA,"Washington Thurston County Public Utility District Commissioner, District No. 3",2026-11-03,0,,False,3,1,104702,2026-11-18T16:56+00:00
+130485,WA,Washington Pierce County Pierce County District Court - Position No. 1,2026-11-03,0,,False,2,1,202406,2026-11-18T16:56+00:00
+148847,WA,Benton County Council Pos. 4,2026-11-03,0,,False,3,1,23001,2026-11-18T16:56+00:00
+130501,WA,Washington Pierce County Tacoma Municipal Court - Position No. 1,2026-11-03,0,,False,2,1,49669,2026-11-18T16:56+00:00
+130281,WA,Washington Skagit County Prosecuting Attorney,2026-11-03,0,,False,2,1,34017,2026-11-18T16:56+00:00
+130333,WA,Washington Grays Harbor County Prosecutor,2026-11-03,0,,False,3,1,27747,2026-11-18T16:56+00:00
+130572,WA,"Washington Whitman County Town Endicott, Prop No. 3",2026-11-03,0,,False,2,1,68,2026-11-18T16:56+00:00
+130154,WA,Washington Asotin County Treasurer,2026-11-03,0,,False,2,1,7015,2026-11-18T16:56+00:00
+130342,WA,Washington Sch Dist 65 - McCleary - McCleary School District No. 65 - Bonds,2026-11-03,0,,False,2,2,1425,2026-11-18T16:56+00:00
+130835,WA,Washington Clallam County Proposed Charter Amendment No. 1,2026-11-03,0,,False,2,1,27812,2026-11-18T16:56+00:00
+130417,WA,Washington State Senate 6,2026-11-03,0,2026-11-04T07:09:42.119Z,False,2,1,45613,2026-11-18T16:56+00:00
+130211,WA,Washington Grant County Grant County Proposition No. 1,2026-11-03,0,,False,2,1,22880,2026-11-18T16:56+00:00
+130843,WA,Washington Clallam County Sheriff,2026-11-03,0,,False,2,1,19051,2026-11-18T16:56+00:00
+130277,WA,Washington Skagit County Auditor,2026-11-03,0,,False,3,1,48896,2026-11-18T16:56+00:00
+130269,WA,Washington Island County District Court Judge,2026-11-03,0,,False,2,1,29665,2026-11-18T16:56+00:00
+130705,WA,Washington Clark County District Court Judge Department No. 6,2026-11-03,0,,False,2,1,137778,2026-11-18T16:56+00:00
+130497,WA,Washington Southeast Electoral District Judge Position No. 5,2026-11-03,0,,False,3,2,143030,2026-11-18T16:56+00:00
+130337,WA,Washington Grays Harbor County District Court #1,2026-11-03,0,,False,2,1,19040,2026-11-18T16:56+00:00
+130286,WA,Washington Skagit County Skagit County District Court Judge Position 3,2026-11-03,0,,False,2,1,31525,2026-11-18T16:56+00:00
+130722,WA,Washington State House 42 Position 1,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,1,78205,2026-11-18T16:56+00:00
+130577,WA,"Washington Whitman County City Palouse, Prop No. 2",2026-11-03,0,,False,2,1,401,2026-11-18T16:56+00:00
+130355,WA,Washington State Senate 32,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,2,64641,2026-11-18T16:56+00:00
+130787,WA,Washington State House 46 Position 2,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,1,73443,2026-11-18T16:56+00:00
+130371,WA,Washington Snohomish County Evergreen District Court Judge Position 2,2026-11-03,0,,False,2,1,49095,2026-11-18T16:56+00:00
+130423,WA,Washington Spokane County Clerk,2026-11-03,0,,False,3,1,225073,2026-11-18T16:56+00:00
+130414,WA,Washington State House 3 Position 2,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,1,64950,2026-11-18T16:56+00:00
+130848,WA,Washington Fire Protection District No. 1 - Proposition 1,2026-11-03,0,,False,2,2,1140,2026-11-18T16:56+00:00
+130431,WA,Washington Spokane County District Court Judge 5,2026-11-03,0,,False,2,1,134325,2026-11-18T16:56+00:00
+148848,WA,Benton County PROPOSITION NO. 1 - City of Benton City,2026-11-03,0,,False,2,1,1055,2026-11-18T16:56+00:00
+130502,WA,Washington Pierce County Tacoma Municipal Court - Position No. 2,2026-11-03,0,,False,2,1,49990,2026-11-18T16:56+00:00
+181481,WA,Washington Douglas County Proposed Rimrock Meadows Fire Protection District #9 Commissioner No. 1,2026-11-03,0,,False,3,1,41,2026-11-18T16:56+00:00
+181473,WA,Washington Asotin County Commissioner District No. 3,2026-11-03,0,,False,2,1,6713,2026-11-18T16:56+00:00
+130573,WA,"Washington Whitman County Town Garfield, Prop No. 1",2026-11-03,0,,False,2,1,152,2026-11-18T16:56+00:00
+130155,WA,Washington Asotin County Public Utility District Commissioner District No. 1,2026-11-03,0,,False,3,1,7386,2026-11-18T16:56+00:00
+130783,WA,Washington State House 45 Position 1,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,1,67542,2026-11-18T16:56+00:00
+130581,WA,"Washington Whitman County Town St. John, Prop No. 2",2026-11-03,0,,False,2,1,157,2026-11-18T16:56+00:00
+130220,WA,Washington Grant County PUD Commissioner Dist #B AL,2026-11-03,0,,False,2,1,16571,2026-11-18T16:56+00:00
+130212,WA,Washington State Senate 13,2026-11-03,0,2026-11-04T07:09:42.119Z,False,2,4,39722,2026-11-18T16:56+00:00
+130646,WA,Washington Thurston County Assessor,2026-11-03,0,,False,3,1,109707,2026-11-18T16:56+00:00
+130427,WA,Washington Spokane County District Court Judge 1,2026-11-03,0,,False,2,1,136176,2026-11-18T16:56+00:00
+148856,WA,Washington Court of Appeals Division 1 District 1 Position 6,2026-11-03,0,,False,2,1,576761,2026-11-18T16:56+00:00
+130706,WA,"Washington Clark County Public Utility District No. 1 of Clark County Commissioner, District No. 3",2026-11-03,0,,False,3,1,188522,2026-11-18T16:56+00:00
+130664,WA,Washington Mason County Public Utility District 3 - Commissioner District 2,2026-11-03,0,,False,3,1,20982,2026-11-18T16:56+00:00
+130507,WA,Washington Auburn School District No. 408 - Proposition No. 1,2026-11-03,0,,False,2,2,28042,2026-11-18T16:56+00:00
+130287,WA,"Washington Skagit County City of Mount Vernon, Washington (Mount Vernon Transportation Benefit District) Proposition No. 1 - Renewal of Sales and Use Tax for Transportation Improvements",2026-11-03,0,,False,2,1,10526,2026-11-18T16:56+00:00
+130524,WA,"Washington Okanogan County Fire District No. 1, Proposition 1",2026-11-03,0,,False,2,1,667,2026-11-18T16:56+00:00
+130306,WA,"Washington Yakima County Yakima County District Court Judge, Position 3",2026-11-03,0,,False,2,1,48850,2026-11-18T16:56+00:00
+130160,WA,Washington Court of Appeals Division 3 District 2 Position 1,2026-11-03,0,,False,2,9,108823,2026-11-18T16:56+00:00
+130152,WA,Washington Asotin County Prosecutor,2026-11-03,0,,False,2,1,6992,2026-11-18T16:56+00:00
+130586,WA,"Washington Whitman County LaCrosse Park No. 1, Prop No. 1",2026-11-03,0,,False,2,1,232,2026-11-18T16:56+00:00
+130168,WA,Washington Chelan County Assessor,2026-11-03,0,,False,3,1,33968,2026-11-18T16:56+00:00
+130849,WA,Washington Clallam County Fire Protection Dist. 2 Proposition 1,2026-11-03,0,,False,2,1,3495,2026-11-18T16:56+00:00
+130432,WA,Washington Spokane County District Court Judge 6,2026-11-03,0,,False,2,1,134700,2026-11-18T16:56+00:00
+130865,WA,Washington Jefferson County Treasurer,2026-11-03,0,,False,2,1,15148,2026-11-18T16:56+00:00
+130857,WA,Washington Skamania County Treasurer,2026-11-03,0,,False,2,1,4345,2026-11-18T16:56+00:00
+130503,WA,Washington Pierce County Tacoma Municipal Court - Position No. 3,2026-11-03,0,,False,2,1,48967,2026-11-18T16:56+00:00
+181482,WA,Washington Douglas County Proposed Rimrock Meadows Fire Protection District #9 Commissioner No.2,2026-11-03,0,,False,2,1,38,2026-11-18T16:56+00:00
+130520,WA,Washington Three Rivers Hospital (Okanogan-Douglas Public Hospital District No. 1) Proposition 1,2026-11-03,0,,False,2,2,6183,2026-11-18T16:56+00:00
+130511,WA,Washington Okanogan County Clerk,2026-11-03,0,,False,2,1,10569,2026-11-18T16:56+00:00
+130792,WA,Washington State House 48 Position 1,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,1,48713,2026-11-18T16:56+00:00
+130784,WA,Washington State House 45 Position 2,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,1,66077,2026-11-18T16:56+00:00
+130368,WA,Washington Snohomish County Everett District Court Judge Position 1,2026-11-03,0,,False,2,1,56369,2026-11-18T16:56+00:00
+130164,WA,Washington State House 7 Position 1,2026-11-03,0,2026-11-12T01:54:12.344Z,False,2,7,51417,2026-11-18T16:56+00:00
+130853,WA,Washington Skamania County Clerk,2026-11-03,0,,False,3,1,5935,2026-11-18T16:56+00:00
+130647,WA,Washington Thurston County Auditor,2026-11-03,0,,False,2,1,92101,2026-11-18T16:56+00:00
+130229,WA,Washington Grant County Hospital District No. 4 Proposition No. 1,2026-11-03,0,,False,2,1,2165,2026-11-18T16:56+00:00
+130437,WA,Washington Spokane County Town of Spangle Proposition No. 1,2026-11-03,0,,False,2,1,121,2026-11-18T16:56+00:00
+130230,WA,Washington Grant County City of Moses Lake Proposition No. 1,2026-11-03,0,,False,2,1,5198,2026-11-18T16:56+00:00
+130456,WA,Washington Pierce County Charter Amendment No. 53,2026-11-03,0,,False,2,1,329230,2026-11-18T16:56+00:00
+130448,WA,Washington Spokane County West Valley School District Proposition No. 2,2026-11-03,0,,False,2,1,9277,2026-11-18T16:56+00:00
+181487,WA,Washington Grant County Commissioner District #3,2026-11-03,0,,False,3,1,20352,2026-11-18T16:56+00:00
+130724,WA,Washington Whatcom County Prosecuting Attorney,2026-11-03,0,,False,3,1,112179,2026-11-18T16:56+00:00
+130307,WA,"Washington Yakima County Yakima County District Court Judge, Position 4",2026-11-03,0,,False,2,1,48420,2026-11-18T16:56+00:00
+181495,WA,Washington Okanogan County Commissioner District 3,2026-11-03,0,,False,3,1,14052,2026-11-18T16:56+00:00
+130587,WA,"Washington Whitman County Garfield Park No. 2, Prop No. 1",2026-11-03,0,,False,2,1,239,2026-11-18T16:56+00:00
+130169,WA,Washington Chelan County Auditor,2026-11-03,0,,False,3,1,30741,2026-11-18T16:56+00:00
+130603,WA,Washington San Juan County Proposition No. 1 - Property Tax Levy for Fire Protection and Emergency Medical SJC Fire Protection District No. 4,2026-11-03,0,,False,2,1,1784,2026-11-18T16:56+00:00
+130595,WA,Washington San Juan County Assessor,2026-11-03,0,,False,2,1,7407,2026-11-18T16:56+00:00
+130433,WA,Washington Spokane County District Court Judge 7,2026-11-03,0,,False,2,1,134617,2026-11-18T16:56+00:00
+130866,WA,Washington Jefferson County District Court,2026-11-03,0,,False,2,1,14061,2026-11-18T16:56+00:00
+130452,WA,Washington Spokane County Fire Protection District No. 9 Proposition No. 2,2026-11-03,0,,False,2,1,23250,2026-11-18T16:56+00:00
+130441,WA,Washington Cheney School District - Proposition No. 2,2026-11-03,0,,False,2,2,15101,2026-11-18T16:56+00:00
+181483,WA,Washington Ferry County Commissioner #2,2026-11-03,0,,False,3,1,2206,2026-11-18T16:56+00:00
+130521,WA,"Washington Okanogan County City of Brewster, Proposition 1",2026-11-03,0,,False,2,1,322,2026-11-18T16:56+00:00
+130303,WA,"Washington Yakima County Commissioner, District 1",2026-11-03,0,,False,3,1,32134,2026-11-18T16:56+00:00
+181491,WA,"Washington Kittitas County Commissioner, District 3",2026-11-03,0,,False,2,1,13884,2026-11-18T16:56+00:00
+130591,WA,"Washington Whitman County Oakesdale Cem No. 1, Prop No. 1",2026-11-03,0,,False,2,1,173,2026-11-18T16:56+00:00
+130369,WA,Washington Snohomish County Everett District Court Judge Position 2,2026-11-03,0,,False,2,1,56312,2026-11-18T16:56+00:00
+130803,WA,Washington King County Northeast Electoral District - Judge Position No. 1,2026-11-03,0,,False,3,1,203629,2026-11-18T16:56+00:00
+130386,WA,Washington Snohomish County South Snohomish County Fire and Rescue RFA Proposition No. 1,2026-11-03,0,,False,2,1,107818,2026-11-18T16:56+00:00
+130804,WA,Washington King County Northeast Electoral District - Judge Position No. 2,2026-11-03,0,,False,2,1,153851,2026-11-18T16:56+00:00
+130190,WA,Washington Pend Oreille County Auditor,2026-11-03,0,,False,2,1,5460,2026-11-18T16:56+00:00
+130182,WA,Washington Garfield County Auditor,2026-11-03,0,,False,2,1,1076,2026-11-18T16:56+00:00
+131315,WA,Washington State House 27 Position 2,2026-11-03,0,2026-11-12T01:54:12.345Z,False,2,1,50066,2026-11-18T16:56+00:00
+130457,WA,Washington Pierce County Charter Amendment No. 54,2026-11-03,0,,False,2,1,326069,2026-11-18T16:56+00:00
+130247,WA,Washington Lewis County Clerk,2026-11-03,0,,False,2,1,28072,2026-11-18T16:56+00:00
+130683,WA,Washington Clark County County Proposition No. 12,2026-11-03,0,,False,2,1,216089,2026-11-18T16:56+00:00
+130518,WA,Washington Okanogan County District Court Judge Pos. 1 (short & full term),2026-11-03,0,,False,3,1,14489,2026-11-18T16:56+00:00
+181496,WA,Washington Okanogan County Public Utility Commissioner Dist. #1,2026-11-03,0,,False,3,1,14262,2026-11-18T16:56+00:00
+130534,WA,Washington Pacific County South District Court Judge,2026-11-03,0,,False,2,1,5562,2026-11-18T16:56+00:00
+130316,WA,Washington Kittitas County Assessor,2026-11-03,0,,False,2,1,13793,2026-11-18T16:56+00:00
+130170,WA,Washington Chelan County Clerk,2026-11-03,0,,False,3,1,34322,2026-11-18T16:56+00:00
+130604,WA,Washington San Juan County Proposition No. 1 - Term Length of Port Commissioners Port of Lopez,2026-11-03,0,,False,2,1,1759,2026-11-18T16:56+00:00
+130186,WA,Washington Garfield County Sheriff,2026-11-03,0,,False,3,1,1249,2026-11-18T16:56+00:00
+130178,WA,Washington Chelan County Chelan County District Court Judge Position 2,2026-11-03,0,,False,2,1,22786,2026-11-18T16:56+00:00
+130867,WA,Washington Jefferson County Public Utility District No. 1,2026-11-03,0,,False,3,1,17468,2026-11-18T16:56+00:00
+130453,WA,Washington Spokane County Fire Protection District No. 11 Proposition No. 1,2026-11-03,0,,False,2,1,326,2026-11-18T16:56+00:00
+130243,WA,Washington State House 20 Position 1,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,4,79089,2026-11-18T16:56+00:00
+131319,WA,Washington State House 29 Position 1,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,1,35441,2026-11-18T16:56+00:00
+130312,WA,Washington Ferry County Prosecuting Attorney,2026-11-03,0,,False,2,1,1861,2026-11-18T16:56+00:00
+130304,WA,"Washington Yakima County Yakima County District Court Judge, Position 1",2026-11-03,0,,False,2,1,48681,2026-11-18T16:56+00:00
+130737,WA,Washington Kitsap County Auditor,2026-11-03,0,,False,2,1,92925,2026-11-18T16:56+00:00
+130530,WA,Washington Pacific County Treasurer,2026-11-03,0,,False,2,1,9139,2026-11-18T16:56+00:00
+130174,WA,Washington Chelan County Sheriff,2026-11-03,0,,False,3,1,32698,2026-11-18T16:56+00:00
+130321,WA,Washington Kittitas County Prosecuting Attorney,2026-11-03,0,,False,3,1,19507,2026-11-18T16:56+00:00
+130754,WA,Washington Klickitat County Treasurer,2026-11-03,0,,False,2,1,6881,2026-11-18T16:56+00:00
+130609,WA,Washington Adams County Clerk,2026-11-03,0,,False,2,1,3193,2026-11-18T16:56+00:00
+130191,WA,Washington Pend Oreille County Clerk,2026-11-03,0,,False,2,1,5385,2026-11-18T16:56+00:00
+130821,WA,Washington King County West Electoral District - Judge Position No. 5,2026-11-03,0,,False,2,1,216506,2026-11-18T16:56+00:00
+130405,WA,Washington Stevens County Prosecuting Attorney,2026-11-03,0,,False,2,1,9666,2026-11-18T16:56+00:00
+130458,WA,Washington Pierce County Charter Amendment No. 55,2026-11-03,0,,False,2,1,320505,2026-11-18T16:56+00:00
+130450,WA,Washington Spokane County Fire Protection District No. 3 Proposition No. 1,2026-11-03,0,,False,2,1,11441,2026-11-18T16:56+00:00
+131398,WA,Washington King County Seattle Municipal Court - Judge Position No. 3,2026-11-03,0,,False,2,1,206275,2026-11-18T16:56+00:00
+130257,WA,Washington Lewis County Transportation Benefit District of Chehalis,2026-11-03,0,,False,2,1,2683,2026-11-18T16:56+00:00
+148831,WA,Washington State Senate 15,2026-11-03,0,2026-11-04T07:09:42.119Z,False,2,2,42478,2026-11-18T16:56+00:00
+181497,WA,Washington Pacific County Commissioner District 3,2026-11-03,0,,False,3,1,11616,2026-11-18T16:56+00:00
+130535,WA,Washington Pacific County North Pacific Emergency Medical Services District No. 1,2026-11-03,0,,False,2,1,4553,2026-11-18T16:56+00:00
+130758,WA,Washington State House 5 Position 1,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,1,72950,2026-11-18T16:56+00:00
+181505,WA,"Washington Thurston County Commissioner, District No. 5",2026-11-03,0,,False,3,1,112639,2026-11-18T16:56+00:00
+130605,WA,Washington San Juan County Proposition No. 1 - Excess Property Tax Levy for 2027 Lopez Solid Waste Disposal District,2026-11-03,0,,False,2,1,1837,2026-11-18T16:56+00:00
+130187,WA,Washington Garfield County Treasurer,2026-11-03,0,,False,3,1,1278,2026-11-18T16:56+00:00
+130817,WA,Washington King County West Electoral District - Judge Position No. 1,2026-11-03,0,,False,3,1,295035,2026-11-18T16:56+00:00
+130613,WA,Washington Adams County Treasurer,2026-11-03,0,,False,2,1,3240,2026-11-18T16:56+00:00
+130252,WA,"Washington Lewis County Commissioner, District 3",2026-11-03,0,,False,3,1,33054,2026-11-18T16:56+00:00
+130244,WA,Washington State House 20 Position 2,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,4,79017,2026-11-18T16:56+00:00
+130680,WA,Washington Clark County Proposed Charter Amendment No. 25,2026-11-03,0,,False,2,1,216642,2026-11-18T16:56+00:00
+130462,WA,Washington State House 2 Position 1,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,2,59172,2026-11-18T16:56+00:00
+181501,WA,Washington Spokane County Commissioner District 2,2026-11-03,0,,False,2,1,26992,2026-11-18T16:56+00:00
+130738,WA,Washington Kitsap County Clerk,2026-11-03,0,,False,3,1,108544,2026-11-18T16:56+00:00
+130490,WA,Washington Pierce County Pierce County District Court - Position No. 6,2026-11-03,0,,False,2,1,200441,2026-11-18T16:56+00:00
+130540,WA,Washington Douglas County Clerk,2026-11-03,0,,False,3,1,13903,2026-11-18T16:56+00:00
+130322,WA,Washington Kittitas County Sheriff,2026-11-03,0,,False,3,1,19297,2026-11-18T16:56+00:00
+130559,WA,Washington Whitman County Coroner,2026-11-03,0,,False,2,1,8462,2026-11-18T16:56+00:00
+130338,WA,Washington Grays Harbor County District Court #2,2026-11-03,0,,False,3,1,24415,2026-11-18T16:56+00:00
+130192,WA,Washington Pend Oreille County Prosecutor,2026-11-03,0,,False,2,1,5285,2026-11-18T16:56+00:00
+130184,WA,Washington Garfield County Commissioner - District 3,2026-11-03,0,,False,3,1,1258,2026-11-18T16:56+00:00
+130618,WA,Washington Cowlitz County Assessor,2026-11-03,0,,False,2,1,35818,2026-11-18T16:56+00:00
+130200,WA,Washington Riverside School District - Proposition No. 1,2026-11-03,0,,False,2,2,6614,2026-11-18T16:56+00:00
+131399,WA,Washington King County Seattle Municipal Court - Judge Position No. 4,2026-11-03,0,,False,2,1,217954,2026-11-18T16:56+00:00
+130258,WA,Washington Lewis County Fire Protection District No. 6,2026-11-03,0,,False,2,1,4100,2026-11-18T16:56+00:00
+130694,WA,"Washington Clark County Council Councilor, District No. 1",2026-11-03,0,,False,3,1,33947,2026-11-18T16:56+00:00
+130686,WA,Washington State House 17 Position 2,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,3,76824,2026-11-18T16:56+00:00
+130536,WA,Washington Pacific County Pacific County Fire Protection District No. 3,2026-11-03,0,,False,2,1,1852,2026-11-18T16:56+00:00
+130759,WA,Washington State House 5 Position 2,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,1,72643,2026-11-18T16:56+00:00
+130555,WA,Washington Whitman County Assessor,2026-11-03,0,,False,2,1,7232,2026-11-18T16:56+00:00
+130544,WA,Washington Douglas County Sheriff,2026-11-03,0,,False,3,1,14246,2026-11-18T16:56+00:00
+130827,WA,Washington King County City of SeaTac - Proposition No. 1,2026-11-03,0,,False,2,1,7241,2026-11-18T16:56+00:00
+130818,WA,Washington King County West Electoral District - Judge Position No. 2,2026-11-03,0,,False,2,1,217161,2026-11-18T16:56+00:00
+130402,WA,Washington Stevens County Clerk,2026-11-03,0,,False,2,1,9724,2026-11-18T16:56+00:00
+130196,WA,Washington Court of Appeals Division 3 District 1 Position 2,2026-11-03,0,,False,2,6,160081,2026-11-18T16:56+00:00
+131403,WA,Washington King County City of Seattle - Proposition No. 1,2026-11-03,0,,False,2,1,336905,2026-11-18T16:56+00:00
+130681,WA,Washington Clark County Proposed Charter Amendment No. 26,2026-11-03,0,,False,2,1,214502,2026-11-18T16:56+00:00
+148836,WA,Benton County Clerk,2026-11-03,0,,False,2,1,53871,2026-11-18T16:56+00:00
+130263,WA,Washington Island County Auditor,2026-11-03,0,,False,3,1,42510,2026-11-18T16:56+00:00
+148837,WA,Washington Benton County Commissioner Pos. 2,2026-11-03,0,,False,3,1,37338,2026-11-18T16:56+00:00
+130279,WA,Washington Skagit County Public Utility District No. 1 Commissioner Position 3,2026-11-03,0,,False,3,1,44485,2026-11-18T16:56+00:00
+130271,WA,"Washington Island County Port District of South Whidbey Island, Proposition No. 1, Levy for Renovation and Modernization of Port Facilities",2026-11-03,0,,False,2,1,11307,2026-11-18T16:56+00:00
+130764,WA,Washington State House 30 Position 2,2026-11-03,0,2026-11-12T01:54:12.345Z,False,3,1,43649,2026-11-18T16:56+00:00
+130756,WA,Washington Klickitat County Klickitat County West District Court Judge,2026-11-03,0,,False,2,1,3512,2026-11-18T16:56+00:00
+130339,WA,Washington Grays Harbor County PUD Comm (3),2026-11-03,0,,False,2,1,18988,2026-11-18T16:56+00:00
+130772,WA,Washington State House 36 Position 1,2026-11-03,0,2026-11-12T01:54:12.345Z,False,2,1,70095,2026-11-18T16:56+00:00
+130619,WA,Washington Cowlitz County Auditor,2026-11-03,0,,False,2,1,35622,2026-11-18T16:56+00:00
+130201,WA,Washington Columbia County Assessor,2026-11-03,0,,False,2,1,1638,2026-11-18T16:56+00:00
+130635,WA,Washington Wahkiakum County Clerk,2026-11-03,0,,False,2,1,1998,2026-11-18T16:56+00:00
+130627,WA,Washington Cowlitz County Judge Position 1,2026-11-03,0,,False,2,1,33191,2026-11-18T16:56+00:00
+130259,WA,"Washington Island County Board of County Commissioners of Island County, Advisory Vote Regarding the use of Consumer Fireworks in Unincorporated Island County",2026-11-03,0,,False,2,1,34732,2026-11-18T16:56+00:00
+130695,WA,"Washington Clark County Council Councilor, District No. 2",2026-11-03,0,,False,3,1,41013,2026-11-18T16:56+00:00
+130275,WA,Washington State House 40 Position 2,2026-11-03,0,2026-11-12T01:54:12.346Z,False,3,3,77485,2026-11-18T16:56+00:00
+130267,WA,Washington Island County Sheriff,2026-11-03,0,,False,3,1,43201,2026-11-18T16:56+00:00
+130760,WA,Washington State House 11 Position 1,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,1,43867,2026-11-18T16:56+00:00
+130556,WA,Washington Whitman County Auditor,2026-11-03,0,,False,3,1,9356,2026-11-18T16:56+00:00
+130335,WA,Washington Grays Harbor County Treasurer,2026-11-03,0,,False,3,1,27562,2026-11-18T16:56+00:00
+130768,WA,Washington State Senate 34,2026-11-03,0,2026-11-04T07:09:42.119Z,False,2,1,61373,2026-11-18T16:56+00:00
+130623,WA,Washington Cowlitz County Prosecuting Attorney,2026-11-03,0,,False,2,1,35117,2026-11-18T16:56+00:00
+130403,WA,"Washington Spokane, Stevens PUD District 1 Commissioner District 2",2026-11-03,0,,False,3,2,11182,2026-11-18T16:56+00:00
+130837,WA,Washington Clallam County Proposed Charter Amendment No. 3,2026-11-03,0,,False,2,1,27656,2026-11-18T16:56+00:00
+130419,WA,Washington State House 6 Position 2,2026-11-03,0,2026-11-12T01:54:12.344Z,False,3,1,63322,2026-11-18T16:56+00:00
+87517,WA,Washington US House 4,2026-11-03,99,2026-11-06T01:46:16.204Z,False,3,8,243304,2026-11-18T16:56+00:00
+87518,WA,Washington US House 5,2026-11-03,99,2026-11-10T01:42:01.299Z,False,3,12,326535,2026-11-18T16:56+00:00
+87523,WA,Washington US House 10,2026-11-03,99,2026-11-04T04:32:37.763Z,False,3,2,275995,2026-11-18T16:56+00:00
+87522,WA,Washington US House 9,2026-11-03,99,2026-11-04T04:19:08.955Z,False,3,1,252482,2026-11-18T16:56+00:00
+87516,WA,Washington US House 3,2026-11-03,99,2026-11-04T18:06:00.131Z,False,3,7,354242,2026-11-18T16:56+00:00
+87521,WA,Washington US House 8,2026-11-03,99,2026-11-04T05:03:40.274Z,False,3,6,340588,2026-11-18T16:56+00:00
+87515,WA,Washington US House 2,2026-11-03,99,2026-11-04T04:54:22.572Z,False,3,5,347833,2026-11-18T16:56+00:00
+87520,WA,Washington US House 7,2026-11-03,99,2026-11-04T04:19:08.955Z,False,3,1,372717,2026-11-18T16:56+00:00
+87514,WA,Washington US House 1,2026-11-03,99,2026-11-04T04:54:22.572Z,False,3,2,295201,2026-11-18T16:56+00:00
+87519,WA,Washington US House 6,2026-11-03,99,2026-11-04T04:32:37.763Z,False,3,6,359554,2026-11-18T16:56+00:00

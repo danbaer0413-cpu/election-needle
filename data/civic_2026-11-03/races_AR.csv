@@ -1,0 +1,1318 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+86941,AR,Arkansas Right to Keep and Bear Arms Amendment,2026-11-03,99.9,,False,2,75,869056,2026-11-18T12:42+00:00
+86939,AR,Arkansas Lieutenant Governor,2026-11-03,99.9,2026-11-04T06:53:42.308Z,False,2,75,841226,2026-11-18T12:42+00:00
+159502,AR,Arkansas State House,2026-11-03,98.9,,False,4,100,785938,2026-11-18T12:42+00:00
+86938,AR,Arkansas Governor,2026-11-03,90.2,2026-11-04T04:02:17.866Z,False,3,75,888070,2026-11-18T12:42+00:00
+86934,AR,Arkansas Attorney,2026-11-03,99.9,2026-11-04T06:53:42.308Z,False,1,75,684315,2026-11-18T12:42+00:00
+86943,AR,Arkansas State Auditor,2026-11-03,99.9,2026-11-17T03:50:43.245Z,False,1,75,673232,2026-11-18T12:42+00:00
+86944,AR,Arkansas State Treasurer,2026-11-03,99.9,2026-11-04T06:53:42.308Z,False,1,75,681376,2026-11-18T12:42+00:00
+86942,AR,Arkansas Secretary of State,2026-11-03,99.9,2026-11-04T07:09:42.036Z,False,3,75,880409,2026-11-18T12:42+00:00
+86936,AR,Arkansas Commissioner of State Lands,2026-11-03,99.9,2026-11-17T03:50:43.245Z,False,2,75,824678,2026-11-18T12:42+00:00
+86937,AR,Arkansas Creation of Economic Development Districts Amendment,2026-11-03,99.9,2026-11-17T03:50:43.245Z,False,2,75,852563,2026-11-18T12:42+00:00
+86935,AR,Arkansas Citizenship Requirement for Voting Amendment,2026-11-03,99.9,2026-11-17T03:50:43.245Z,False,2,75,866617,2026-11-18T12:42+00:00
+86940,AR,Arkansas Natural Resources Commission Bond Measure,2026-11-03,99.9,2026-11-17T03:50:43.245Z,False,2,75,844338,2026-11-18T12:42+00:00
+159503,AR,Arkansas State Senate,2026-11-03,94.6,,False,3,18,394534,2026-11-18T12:42+00:00
+162066,AR,Craighead County Justice of the Peace District 5,2026-11-03,99.9,,False,2,1,1656,2026-11-18T12:42+00:00
+161518,AR,Conway County City of Oppelo Tax,2026-11-03,99.9,,False,2,1,222,2026-11-18T12:42+00:00
+162057,AR,Faulkner County Justice of the Peace District 4,2026-11-03,99.9,,False,2,1,3214,2026-11-18T12:42+00:00
+162117,AR,Pulaski County Justice of the Peace District 1,2026-11-03,99.9,,False,2,1,10882,2026-11-18T12:42+00:00
+161960,AR,Scott County County Assessor,2026-11-03,99.9,,False,2,1,2521,2026-11-18T12:42+00:00
+161227,AR,"City of White Hall, Mayor, Jefferson County",2026-11-03,99.9,,False,1,1,1646,2026-11-18T12:42+00:00
+150202,AR,Arkansas State House 44,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,2,7589,2026-11-18T12:42+00:00
+162018,AR,Crittenden County Justice of the Peace District 2,2026-11-03,99.9,,False,2,1,1115,2026-11-18T12:42+00:00
+161285,AR,"Mayor City of Dardanelle, Yell County",2026-11-03,99.9,,False,2,1,717,2026-11-18T12:42+00:00
+150253,AR,Arkansas State House 36,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,2,2,5783,2026-11-18T12:42+00:00
+161188,AR,"Higginson Mayor, White County",2026-11-03,99.9,,False,1,1,112,2026-11-18T12:42+00:00
+161831,AR,"Council Member Ward 1, Position 2 Cave Springs, Benton County",2026-11-03,99.9,,False,2,1,2221,2026-11-18T12:42+00:00
+162171,AR,"FT Lake School Board Position 5, Garland County",2026-11-03,99.9,,False,2,2,7743,2026-11-18T12:42+00:00
+161630,AR,"Little Rock City Director Ward 1, Pulaski County",2026-11-03,99.9,,False,2,1,6718,2026-11-18T12:42+00:00
+161889,AR,Lincoln County Circuit Clerk,2026-11-03,99.9,,False,1,1,2104,2026-11-18T12:42+00:00
+162141,AR,"Board of Directors Position 5 Water District, Conway County",2026-11-03,99.9,,False,3,1,6024,2026-11-18T12:42+00:00
+150316,AR,Arkansas State House 95,2026-11-03,99.9,2026-11-04T07:09:42.042Z,False,1,2,6622,2026-11-18T12:42+00:00
+162132,AR,Mississippi County Firefighting Improvement Bonds Ordinance 1,2026-11-03,99.9,,False,2,1,2337,2026-11-18T12:42+00:00
+161975,AR,Boone County Justice of the Peace District 8,2026-11-03,99.9,,False,2,1,1177,2026-11-18T12:42+00:00
+162042,AR,Johnson County Justice of the Peace District 9,2026-11-03,99.9,,False,2,1,431,2026-11-18T12:42+00:00
+161501,AR,"Hot Springs Director District 2, Garland County",2026-11-03,99.9,,False,3,1,1108,2026-11-18T12:42+00:00
+161945,AR,Lawrence County County Sheriff,2026-11-03,99.9,,False,2,1,3847,2026-11-18T12:42+00:00
+161492,AR,"City of Alexander, Mayor (Pulaski & Saline Counties)",2026-11-03,99.9,,False,2,2,589,2026-11-18T12:42+00:00
+161936,AR,Phillips County Sheriff - Tax Collector,2026-11-03,99.9,,False,2,1,4183,2026-11-18T12:42+00:00
+161203,AR,"Ravenden Mayor, Lawrence County",2026-11-03,99.9,,False,1,1,95,2026-11-18T12:42+00:00
+161654,AR,"City Clerk Lowell, Benton County",2026-11-03,99.9,,False,3,1,2924,2026-11-18T12:42+00:00
+161906,AR,Arkansas County Circuit Clerk,2026-11-03,99.9,,False,1,1,3472,2026-11-18T12:42+00:00
+161365,AR,"City of Texarkana Ward 5, Miller County",2026-11-03,99.9,,False,2,1,1137,2026-11-18T12:42+00:00
+162096,AR,Craighead County Justice of the Peace District 10,2026-11-03,99.9,,False,2,1,2222,2026-11-18T12:42+00:00
+162156,AR,Phillips County Tax for a Public Hospital,2026-11-03,99.9,,False,2,1,4128,2026-11-18T12:42+00:00
+161007,AR,"Mayor of Calion, Union County",2026-11-03,99.9,,False,1,1,104,2026-11-18T12:42+00:00
+161685,AR,"City Council Ward 1, Position 2 City of Havana, Yell County",2026-11-03,99.9,,False,2,1,53,2026-11-18T12:42+00:00
+161225,AR,"Walnut Ridge Mayor, Lawrence County",2026-11-03,99.9,,False,1,1,1144,2026-11-18T12:42+00:00
+161484,AR,"City of Redfield, Mayor, Jefferson County",2026-11-03,99.9,,False,2,1,486,2026-11-18T12:42+00:00
+161928,AR,Drew County County Judge,2026-11-03,99.9,,False,2,1,4942,2026-11-18T12:42+00:00
+161387,AR,"Dierks City Treasurer, Howard County",2026-11-03,99.9,,False,2,1,182,2026-11-18T12:42+00:00
+161838,AR,"Council Member Ward 3, Position 2 Centerton, Benton County",2026-11-03,99.9,,False,3,1,5533,2026-11-18T12:42+00:00
+161186,AR,"City of Bay, Mayor, Craighead County",2026-11-03,99.9,,False,1,1,297,2026-11-18T12:42+00:00
+161445,AR,"City of Dumas Mayor, Desha County",2026-11-03,99.9,,False,2,1,1029,2026-11-18T12:42+00:00
+161096,AR,"City of Everton, Mayor, Boone County",2026-11-03,99.9,,False,1,1,34,2026-11-18T12:42+00:00
+162148,AR,Johnson County Question One (Refunding Bonds),2026-11-03,99.9,,False,2,1,1828,2026-11-18T12:42+00:00
+161991,AR,Crawford County Justice of the Peace District 4,2026-11-03,99.9,,False,2,1,1370,2026-11-18T12:42+00:00
+162139,AR,Newton County 1% Sale and Use Tax for Jail Purposes,2026-11-03,99.9,,False,2,1,2860,2026-11-18T12:42+00:00
+161790,AR,"Carlisle City Council Ward 3/Position 2, Lonoke County",2026-11-03,99.9,,False,2,1,611,2026-11-18T12:42+00:00
+161057,AR,"Mayor of Harrell, Calhoun County",2026-11-03,99.9,,False,1,1,69,2026-11-18T12:42+00:00
+162109,AR,Saline County Constable Township 1,2026-11-03,99.9,,False,2,1,20535,2026-11-18T12:42+00:00
+150284,AR,Arkansas State House 92,2026-11-03,99.9,2026-11-04T07:09:42.042Z,False,1,2,8299,2026-11-18T12:42+00:00
+161499,AR,"Elaine-Alderman-Ward 2 Position 2, Phillips County",2026-11-03,99.9,,False,2,1,149,2026-11-18T12:42+00:00
+161943,AR,Lincoln County County Judge,2026-11-03,99.9,,False,2,1,2359,2026-11-18T12:42+00:00
+161210,AR,"Mayor Barling, Sebastian County",2026-11-03,99.9,,False,1,1,1029,2026-11-18T12:42+00:00
+161469,AR,"City of Pine Bluff, C.M. Ward 1, Pos. 2, Jefferson County",2026-11-03,99.9,,False,2,1,2271,2026-11-18T12:42+00:00
+161913,AR,Saline County Circuit Clerk,2026-11-03,99.9,,False,1,1,36381,2026-11-18T12:42+00:00
+161460,AR,"Portland Mayor, Ashley County",2026-11-03,99.9,,False,2,1,136,2026-11-18T12:42+00:00
+161904,AR,Union County Circuit Clerk,2026-11-03,99.9,,False,1,1,9276,2026-11-18T12:42+00:00
+162163,AR,Saline County Issue No. 5,2026-11-03,99.9,,False,2,1,42618,2026-11-18T12:42+00:00
+161814,AR,"City Council Member Ward 3 Pos. 1 Fay, Washington County",2026-11-03,99.9,,False,2,1,9378,2026-11-18T12:42+00:00
+162073,AR,Sebastian County Justice of the Peace District 2,2026-11-03,99.9,,False,2,1,3162,2026-11-18T12:42+00:00
+161333,AR,"Mayor of Moro, Lee County",2026-11-03,99.9,,False,2,1,75,2026-11-18T12:42+00:00
+162064,AR,St. Francis County Justice of the Peace District 4,2026-11-03,99.9,,False,2,1,524,2026-11-18T12:42+00:00
+162124,AR,"Benton County Justice of the Peace, District 5",2026-11-03,99.9,,False,2,1,3986,2026-11-18T12:42+00:00
+161967,AR,Baxter County Justice of the Peace District 8,2026-11-03,99.9,,False,2,1,1355,2026-11-18T12:42+00:00
+161234,AR,"City of Holland, Mayor, Faulkner County",2026-11-03,99.9,,False,1,1,178,2026-11-18T12:42+00:00
+161653,AR,"Mayor Lowell, Benton County",2026-11-03,99.9,,False,2,1,3409,2026-11-18T12:42+00:00
+161385,AR,"City of Parkin, CC Ward 2, Pos. 2, Cross County",2026-11-03,99.9,,False,2,1,273,2026-11-18T12:42+00:00
+161452,AR,"Highland Alderman Ward 1 Position 1, Sharp County",2026-11-03,99.9,,False,2,1,308,2026-11-18T12:42+00:00
+162095,AR,Garland County Justice of the Peace District 5,2026-11-03,99.9,,False,2,1,2305,2026-11-18T12:42+00:00
+161355,AR,"Mayor Town of Fifty Six, Stone County",2026-11-03,99.9,,False,2,1,72,2026-11-18T12:42+00:00
+161006,AR,"City of Brookland, Mayor, Craighead County",2026-11-03,99.9,,False,1,1,652,2026-11-18T12:42+00:00
+162146,AR,Independence County Pl Pl Terms,2026-11-03,99.9,,False,2,1,77,2026-11-18T12:42+00:00
+161605,AR,"Jacksonville Mayor, Pulaski County",2026-11-03,99.9,,False,3,1,6407,2026-11-18T12:42+00:00
+162056,AR,Greene County Justice of the Peace District 3,2026-11-03,99.9,,False,2,1,1411,2026-11-18T12:42+00:00
+162116,AR,Pulaski County Constable Big Rock Township,2026-11-03,99.9,,False,2,1,67841,2026-11-18T12:42+00:00
+161159,AR,"Montrose Mayor, Ashley County",2026-11-03,99.9,,False,1,1,44,2026-11-18T12:42+00:00
+162107,AR,Saline County Justice of the Peace District 13,2026-11-03,99.9,,False,2,1,6020,2026-11-18T12:42+00:00
+161758,AR,"City Council Ward 3, Pos. 1 Malvern, Hot Spring County",2026-11-03,99.9,,False,2,1,329,2026-11-18T12:42+00:00
+162017,AR,Newton County Justice of the Peace District 8,2026-11-03,99.9,,False,2,1,355,2026-11-18T12:42+00:00
+161284,AR,"Magnolia City Mayor, Columbia County",2026-11-03,99.9,,False,3,1,2439,2026-11-18T12:42+00:00
+150252,AR,Arkansas State House 66,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,1,6316,2026-11-18T12:42+00:00
+161467,AR,"City of Hughes, Mayor, St. Francis County",2026-11-03,99.9,,False,2,1,249,2026-11-18T12:42+00:00
+161911,AR,Dallas County Justice of the Peace District 5,2026-11-03,99.9,,False,2,1,101,2026-11-18T12:42+00:00
+162170,AR,"Prescott SD, School Board Zone 4, Nevada County",2026-11-03,99.9,,False,2,1,360,2026-11-18T12:42+00:00
+161629,AR,"Crittenden County City of Marion, Ordinance No. 654",2026-11-03,99.9,,False,2,1,3757,2026-11-18T12:42+00:00
+161088,AR,"Mayor of Beaver, Carroll County",2026-11-03,99.9,,False,1,1,39,2026-11-18T12:42+00:00
+161620,AR,"City Attorney Fayetteville, Washington County",2026-11-03,99.9,,False,2,1,25172,2026-11-18T12:42+00:00
+162071,AR,St. Francis County Justice of the Peace District 11,2026-11-03,99.9,,False,2,1,555,2026-11-18T12:42+00:00
+162131,AR,"Faulkner County Greenbrier FD, Special Election",2026-11-03,99.9,,False,2,1,2403,2026-11-18T12:42+00:00
+150306,AR,Arkansas State House 28,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,4,7635,2026-11-18T12:42+00:00
+161241,AR,"Keo City Mayor, Lonoke County",2026-11-03,99.9,,False,1,1,88,2026-11-18T12:42+00:00
+161232,AR,"Mayor Midland, Sebastian County",2026-11-03,99.9,,False,1,1,58,2026-11-18T12:42+00:00
+161491,AR,"Portland Ward 2 Position 2, Ashley County",2026-11-03,99.9,,False,2,1,128,2026-11-18T12:42+00:00
+161935,AR,Perry County Justice of the Peace District 9,2026-11-03,99.9,,False,2,1,258,2026-11-18T12:42+00:00
+161394,AR,"McCrory Aldermen Ward 2 Position 1, Woodruff County",2026-11-03,99.9,,False,3,1,392,2026-11-18T12:42+00:00
+161612,AR,"Craighead County City of Brookland, Park Improvement Bonds",2026-11-03,99.9,,False,2,1,748,2026-11-18T12:42+00:00
+162063,AR,Greene County Justice of the Peace District 11,2026-11-03,99.9,,False,2,1,1160,2026-11-18T12:42+00:00
+161323,AR,"Crossett Ward 3 Position 1, Ashley County",2026-11-03,99.9,,False,2,1,1295,2026-11-18T12:42+00:00
+161966,AR,Crawford County Justice of the Peace District 1,2026-11-03,99.9,,False,2,1,1572,2026-11-18T12:42+00:00
+162114,AR,"Boone County, Sales and Use Tax",2026-11-03,99.9,,False,2,1,11206,2026-11-18T12:42+00:00
+161765,AR,"Cabot City Council Ward 3/Position 1, Lonoke County",2026-11-03,99.9,,False,2,1,6389,2026-11-18T12:42+00:00
+161224,AR,"Reed Mayor, Desha County",2026-11-03,99.9,,False,1,1,34,2026-11-18T12:42+00:00
+161483,AR,"City of McGehee Mayor, Desha County",2026-11-03,99.9,,False,2,1,934,2026-11-18T12:42+00:00
+161127,AR,"Blue Mountain Mayor, Logan County",2026-11-03,99.9,,False,1,1,22,2026-11-18T12:42+00:00
+161282,AR,"Booneville Alderman Ward #3, Pos #2, Logan County",2026-11-03,99.9,,False,2,1,893,2026-11-18T12:42+00:00
+161726,AR,"Osceola City Council Ward 1, Position 1, Mississippi County",2026-11-03,99.9,,False,2,1,361,2026-11-18T12:42+00:00
+161185,AR,"Wiederkehr Village City Mayor, Franklin County",2026-11-03,99.9,,False,1,1,20,2026-11-18T12:42+00:00
+161444,AR,"City of Conway, CC Ward One, Pos. Two, Faulkner County",2026-11-03,99.9,,False,2,1,16823,2026-11-18T12:42+00:00
+161095,AR,"City of Cedarville, Mayor, Crawford County",2026-11-03,99.9,,False,1,1,395,2026-11-18T12:42+00:00
+161627,AR,"Recorder/Treasurer Avoca, Benton County",2026-11-03,99.9,,False,2,1,140,2026-11-18T12:42+00:00
+161886,AR,Monroe County Circuit Clerk,2026-11-03,99.9,,False,1,1,1681,2026-11-18T12:42+00:00
+162138,AR,Calhoun County 1% Road Sales & Use Tax,2026-11-03,99.9,,False,2,1,1363,2026-11-18T12:42+00:00
+161789,AR,"MT Pine Ward 3 Position 1, Garland County",2026-11-03,99.9,,False,2,1,128,2026-11-18T12:42+00:00
+162048,AR,Washington County Justice of the Peace District 2,2026-11-03,99.9,,False,2,1,4193,2026-11-18T12:42+00:00
+161780,AR,"Strong City Council Ward 3 Pos 1, Union County",2026-11-03,99.9,,False,2,1,126,2026-11-18T12:42+00:00
+161239,AR,"Birdsong City Mayor, Mississippi County",2026-11-03,99.9,,False,1,1,16,2026-11-18T12:42+00:00
+161498,AR,"East Camden Alderman Ward 2 Position 2, Ouachita County",2026-11-03,99.9,,False,2,1,169,2026-11-18T12:42+00:00
+150274,AR,Arkansas State Senate 9,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,2,4,18929,2026-11-18T12:42+00:00
+161401,AR,"Eureka Springs City Clerk-Treasurer, Carroll County",2026-11-03,99.9,,False,2,1,794,2026-11-18T12:42+00:00
+161741,AR,"Green Forest City Council Ward 1, Position 1, Carroll County",2026-11-03,99.9,,False,2,1,425,2026-11-18T12:42+00:00
+161392,AR,"Mayor of Eureka Springs, Carroll County",2026-11-03,99.9,,False,3,1,969,2026-11-18T12:42+00:00
+161459,AR,"Portia Recorder/Treasurer, Lawrence County",2026-11-03,99.9,,False,2,1,107,2026-11-18T12:42+00:00
+161903,AR,Ouachita County Circuit Clerk,2026-11-03,99.9,,False,1,1,5375,2026-11-18T12:42+00:00
+161362,AR,"Bearden Alderman Ward 1, Position 1, Ouachita County",2026-11-03,99.9,,False,2,1,203,2026-11-18T12:42+00:00
+161813,AR,"City Council Member Ward 2 Pos. 1 Fay, Washington County",2026-11-03,99.9,,False,2,1,4472,2026-11-18T12:42+00:00
+161353,AR,"Mayor of Almyra, Arkansas County",2026-11-03,99.9,,False,2,1,68,2026-11-18T12:42+00:00
+161231,AR,"City of Horseshoe Lake, Mayor, Crittenden County",2026-11-03,99.9,,False,1,1,104,2026-11-18T12:42+00:00
+161682,AR,"Magnolia City Council Ward 3 Pos 2, Columbia County",2026-11-03,99.9,,False,2,1,661,2026-11-18T12:42+00:00
+161934,AR,Logan County Justice of the Peace District 4,2026-11-03,99.9,,False,2,1,562,2026-11-18T12:42+00:00
+161481,AR,"City of Edmondson, Mayor, Crittenden County",2026-11-03,99.9,,False,2,1,105,2026-11-18T12:42+00:00
+161733,AR,"Lafe City Council, Position 2, Greene County",2026-11-03,99.9,,False,2,1,80,2026-11-18T12:42+00:00
+161384,AR,"City of Harrison, Mayor, Boone County",2026-11-03,99.9,,False,3,1,3604,2026-11-18T12:42+00:00
+161643,AR,"Sherwood Mayor, Pulaski County",2026-11-03,99.9,,False,4,1,12184,2026-11-18T12:42+00:00
+162094,AR,Craighead County Justice of the Peace District 9,2026-11-03,99.9,,False,2,1,2588,2026-11-18T12:42+00:00
+161442,AR,"Ulm Alderman Position 5, Prairie County",2026-11-03,99.9,,False,2,1,47,2026-11-18T12:42+00:00
+150225,AR,Arkansas State House 96,2026-11-03,99.9,2026-11-04T07:09:42.042Z,False,1,5,6020,2026-11-18T12:42+00:00
+162145,AR,Jackson County 0.375% Sales and Use Tax,2026-11-03,99.9,,False,2,1,3242,2026-11-18T12:42+00:00
+161604,AR,"Humnoke City Mayor, Lonoke County",2026-11-03,99.9,,False,2,1,90,2026-11-18T12:42+00:00
+162055,AR,Craighead County Justice of the Peace District 3,2026-11-03,99.9,,False,2,1,868,2026-11-18T12:42+00:00
+161787,AR,"Leachville City Council Ward 1, Position 1, Mississippi County",2026-11-03,99.9,,False,2,1,544,2026-11-18T12:42+00:00
+161054,AR,"Mayor City of Rector, Clay County",2026-11-03,99.9,,False,1,1,331,2026-11-18T12:42+00:00
+162106,AR,Garland County Justice of the Peace District 8,2026-11-03,99.9,,False,2,1,2327,2026-11-18T12:42+00:00
+161757,AR,"Cabot City Council Ward 1/Position 2, Lonoke County",2026-11-03,99.9,,False,2,1,6557,2026-11-18T12:42+00:00
+161216,AR,"City of Enola, Mayor, Faulkner County",2026-11-03,99.9,,False,1,1,70,2026-11-18T12:42+00:00
+161748,AR,"Green Forest City Council Ward 2, Position 1, Carroll County",2026-11-03,99.9,,False,2,1,431,2026-11-18T12:42+00:00
+161399,AR,"City of Parkin, CC Ward 3, Pos. 2, Cross County",2026-11-03,99.9,,False,3,1,289,2026-11-18T12:42+00:00
+161466,AR,"City of Earle, C.M., Pos. Ward 1-1, Crittenden County",2026-11-03,99.9,,False,3,1,124,2026-11-18T12:42+00:00
+150242,AR,Arkansas State House 10,2026-11-03,99.9,2026-11-12T01:54:12.309Z,False,2,1,11676,2026-11-18T12:42+00:00
+161369,AR,"Fountain Hill Position 2, Ashley County",2026-11-03,99.9,,False,2,1,41,2026-11-18T12:42+00:00
+161709,AR,"Council Member North Ward Position 2 City of St. Francis, Clay County",2026-11-03,99.9,,False,2,1,73,2026-11-18T12:42+00:00
+161360,AR,"Waldo City Mayor, Columbia County",2026-11-03,99.9,,False,2,1,277,2026-11-18T12:42+00:00
+161619,AR,"Craighead County City of Brookland, Street Improvement Bonds",2026-11-03,99.9,,False,2,1,748,2026-11-18T12:42+00:00
+161078,AR,"City of Monticello Mayor, Drew County",2026-11-03,99.9,,False,1,1,1858,2026-11-18T12:42+00:00
+161330,AR,"Mayor - Biscoe, Prairie County",2026-11-03,99.9,,False,2,1,107,2026-11-18T12:42+00:00
+150305,AR,Arkansas State Senate 16,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,2,2,29230,2026-11-18T12:42+00:00
+161321,AR,"City of Mansfield, Mayor (Scott & Sebastian Counties)",2026-11-03,99.9,,False,2,2,249,2026-11-18T12:42+00:00
+161772,AR,"Council Member South Ward Position 1 City of Corning, Clay County",2026-11-03,99.9,,False,2,1,725,2026-11-18T12:42+00:00
+161650,AR,"Mayor Gateway, Benton County",2026-11-03,99.9,,False,2,1,137,2026-11-18T12:42+00:00
+161902,AR,Desha County Circuit Clerk,2026-11-03,99.9,,False,1,1,2472,2026-11-18T12:42+00:00
+161641,AR,"Maumelle City Clerk/Treasurer, Pulaski County",2026-11-03,99.9,,False,2,1,7173,2026-11-18T12:42+00:00
+161900,AR,White County Circuit Clerk,2026-11-03,99.9,,False,1,1,19643,2026-11-18T12:42+00:00
+161352,AR,Mayor City of Hardy (Fulton & Sharp Counties),2026-11-03,99.9,,False,2,2,319,2026-11-18T12:42+00:00
+161803,AR,"Searcy Council Member W-1 P-2 Searcy Ward 1, White County",2026-11-03,99.9,,False,2,1,1405,2026-11-18T12:42+00:00
+162062,AR,Jefferson County Justice of the Peace District 10,2026-11-03,99.9,,False,2,1,1491,2026-11-18T12:42+00:00
+161602,AR,"St. Francis County City of Forrest City, Public Library Millage",2026-11-03,99.9,,False,2,1,1969,2026-11-18T12:42+00:00
+161861,AR,Sharp County County and Circuit Clerk,2026-11-03,99.9,,False,1,1,4851,2026-11-18T12:42+00:00
+162113,AR,Pulaski County Judge,2026-11-03,99.9,,False,2,1,128832,2026-11-18T12:42+00:00
+161764,AR,"Blytheville City Council Ward 3, Position 2, Mississippi County",2026-11-03,99.9,,False,2,1,652,2026-11-18T12:42+00:00
+161223,AR,"Mayor Pineville, Izard County",2026-11-03,99.9,,False,1,1,41,2026-11-18T12:42+00:00
+161755,AR,"Pottsville Council Member Ward 2 Position 1, Pope County",2026-11-03,99.9,,False,3,1,816,2026-11-18T12:42+00:00
+162014,AR,Desha County Coroner,2026-11-03,99.9,,False,2,1,2847,2026-11-18T12:42+00:00
+161281,AR,"Mayor City of Piggott, Clay County",2026-11-03,99.9,,False,2,1,927,2026-11-18T12:42+00:00
+161725,AR,"Eureka Springs City Council Ward 3, Position 2, Carroll County",2026-11-03,99.9,,False,2,1,906,2026-11-18T12:42+00:00
+162176,AR,1% Sales and Use Tax Dallas County,2026-11-03,99.9,,False,2,1,3372,2026-11-18T12:42+00:00
+161716,AR,"Position 5 Council Member Town of Fifty Six, Stone County",2026-11-03,99.9,,False,2,1,72,2026-11-18T12:42+00:00
+161367,AR,"DeValls Bluff Alderman Ward 1 Position 1, Prairie County",2026-11-03,99.9,,False,2,1,96,2026-11-18T12:42+00:00
+161626,AR,"Little Rock Mayor, Pulaski County",2026-11-03,99.9,,False,2,1,64317,2026-11-18T12:42+00:00
+161885,AR,Crittenden County Circuit Clerk,2026-11-03,99.9,,False,1,1,8867,2026-11-18T12:42+00:00
+161337,AR,"Brinkley City Clerk/Treasurer, Monroe County",2026-11-03,99.9,,False,3,1,770,2026-11-18T12:42+00:00
+161876,AR,Phillips County Circuit Clerk,2026-11-03,99.9,,False,1,1,3668,2026-11-18T12:42+00:00
+161328,AR,"Leola Mayor, Grant County",2026-11-03,99.9,,False,2,1,49,2026-11-18T12:42+00:00
+161779,AR,"Kensett Council Member W-2 P-2, White County",2026-11-03,99.9,,False,2,1,350,2026-11-18T12:42+00:00
+162038,AR,White County Justice of the Peace District 1,2026-11-03,99.9,,False,2,1,1184,2026-11-18T12:42+00:00
+161689,AR,"Ward 1 Position 2 Council Member, Mountain View, Stone County",2026-11-03,99.9,,False,2,1,346,2026-11-18T12:42+00:00
+150273,AR,Arkansas State House 73,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,1,10375,2026-11-18T12:42+00:00
+161680,AR,"Black Rock City Council Ward 2 Position 2, Lawrence County",2026-11-03,99.9,,False,2,1,153,2026-11-18T12:42+00:00
+161740,AR,"Dermott City Council Member Ward 2 Position 2, Chicot County",2026-11-03,99.9,,False,2,1,556,2026-11-18T12:42+00:00
+161391,AR,"HWH-Alderman-Ward 2 Position 2-At Large, Phillips County",2026-11-03,99.9,,False,3,1,2203,2026-11-18T12:42+00:00
+161077,AR,"City of Diamond City, Mayor, Boone County",2026-11-03,99.9,,False,1,1,190,2026-11-18T12:42+00:00
+161801,AR,"Lonoke City Council Ward 6, Lonoke County",2026-11-03,99.9,,False,2,1,128,2026-11-18T12:42+00:00
+161868,AR,Little River County Circuit Clerk,2026-11-03,99.9,,False,1,1,3277,2026-11-18T12:42+00:00
+161320,AR,"City of Hickory Ridge, Mayor, Cross County",2026-11-03,99.9,,False,3,1,89,2026-11-18T12:42+00:00
+150295,AR,Arkansas State House 98,2026-11-03,99.9,2026-11-04T07:09:42.042Z,False,1,4,6359,2026-11-18T12:42+00:00
+161230,AR,Tillar Mayor (Desha & Drew Counties),2026-11-03,99.9,,False,1,2,47,2026-11-18T12:42+00:00
+161762,AR,"Pottsville Council Ward 3 Position 1, Pope County",2026-11-03,99.9,,False,2,1,827,2026-11-18T12:42+00:00
+161029,AR,"Sheridan Mayor, Grant County",2026-11-03,99.9,,False,1,1,1170,2026-11-18T12:42+00:00
+161480,AR,"City of Conway, CC Ward Four, Pos. Two, Faulkner County",2026-11-03,99.9,,False,3,1,16904,2026-11-18T12:42+00:00
+161732,AR,"Huttig City Council Ward 3 Position 2, Union County",2026-11-03,99.9,,False,2,1,126,2026-11-18T12:42+00:00
+161575,AR,"City of Mayflower, CM Ward One, Pos. Two, Faulkner County",2026-11-03,99.9,,False,2,1,700,2026-11-18T12:42+00:00
+161723,AR,"Brinkley City Council Ward 3 Position 1, Monroe County",2026-11-03,99.9,,False,2,1,254,2026-11-18T12:42+00:00
+161182,AR,"Mayor of Russellville, Pope County",2026-11-03,99.9,,False,1,1,5776,2026-11-18T12:42+00:00
+161441,AR,"Stamps Ward 3 Position 2, Lafayette County",2026-11-03,99.9,,False,2,1,383,2026-11-18T12:42+00:00
+150224,AR,Arkansas State House 35,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,2,2,7331,2026-11-18T12:42+00:00
+162144,AR,"Constable District 1, Washington County",2026-11-03,99.9,,False,2,1,20885,2026-11-18T12:42+00:00
+161883,AR,Grant County & Circuit Clerk,2026-11-03,99.9,,False,1,1,4756,2026-11-18T12:42+00:00
+161335,AR,"Nashville City Alderman Ward 1 Position 2, Howard County",2026-11-03,99.9,,False,2,1,191,2026-11-18T12:42+00:00
+161786,AR,"Council Member Ward 5 Position 2 City of Trumann, Poinsett County",2026-11-03,99.9,,False,2,1,421,2026-11-18T12:42+00:00
+161053,AR,"Mayor City of Havana, Yell County",2026-11-03,99.9,,False,1,1,51,2026-11-18T12:42+00:00
+161305,AR,"City of Mammoth Spring Mayor, Fulton County",2026-11-03,99.9,,False,2,1,227,2026-11-18T12:42+00:00
+161044,AR,"Amity Mayor, Clark County",2026-11-03,99.9,,False,1,1,119,2026-11-18T12:42+00:00
+161687,AR,"Greers Ferry City Council Ward 1 Pos 2, Cleburne County",2026-11-03,99.9,,False,2,1,410,2026-11-18T12:42+00:00
+161747,AR,"Dermott City Council Member Ward 3 Position 2, Chicot County",2026-11-03,99.9,,False,2,1,551,2026-11-18T12:42+00:00
+161206,AR,"City Clerk City of Corning, Clay County",2026-11-03,99.9,,False,1,1,682,2026-11-18T12:42+00:00
+161657,AR,Benton County City of Rogers Street Improvement Bonds,2026-11-03,99.9,,False,2,1,19658,2026-11-18T12:42+00:00
+150241,AR,Arkansas State House 34,2026-11-03,99.9,2026-11-12T01:54:12.309Z,False,2,1,5674,2026-11-18T12:42+00:00
+161648,AR,"Mayor Decatur, Benton County",2026-11-03,99.9,,False,3,1,290,2026-11-18T12:42+00:00
+161708,AR,"Clinton City Council Ward 3 Position 1, Van Buren County",2026-11-03,99.9,,False,2,1,716,2026-11-18T12:42+00:00
+161359,AR,"Stamps Ward 1 Position 1, Lafayette County",2026-11-03,99.9,,False,2,1,390,2026-11-18T12:42+00:00
+161810,AR,"Jacksonville Council Member Ward 4 Position 1, Pulaski County",2026-11-03,99.9,,False,3,1,5749,2026-11-18T12:42+00:00
+161036,AR,"City of St. Paul Mayor, Madison County",2026-11-03,99.9,,False,1,1,19,2026-11-18T12:42+00:00
+161679,AR,"Sheridan City Council Ward 1 Position 2, Grant County",2026-11-03,99.9,,False,2,1,1209,2026-11-18T12:42+00:00
+150263,AR,Arkansas State House 75,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,2,1,12336,2026-11-18T12:42+00:00
+161390,AR,"HSB W3 P1, Izard County",2026-11-03,99.9,,False,2,1,214,2026-11-18T12:42+00:00
+161730,AR,"Council Member Ward 4 Position 1 City of Lepanto, Poinsett County",2026-11-03,99.9,,False,2,1,489,2026-11-18T12:42+00:00
+161989,AR,Miller County Justice of the Peace District 1,2026-11-03,99.9,,False,2,1,523,2026-11-18T12:42+00:00
+161640,AR,"City Mayor Greenland, Washington County",2026-11-03,99.9,,False,2,1,601,2026-11-18T12:42+00:00
+161899,AR,Stone County Circuit Clerk,2026-11-03,99.9,,False,1,1,3718,2026-11-18T12:42+00:00
+161543,AR,"Letona Mayor, White County",2026-11-03,99.9,,False,2,1,84,2026-11-18T12:42+00:00
+150222,AR,Arkansas State Senate 13,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,2,1,34253,2026-11-18T12:42+00:00
+161150,AR,"Lexa City-Mayor, Phillips County",2026-11-03,99.9,,False,1,1,46,2026-11-18T12:42+00:00
+161601,AR,"Ward City Mayor, Lonoke County",2026-11-03,99.9,,False,3,1,1358,2026-11-18T12:42+00:00
+161860,AR,Cleveland County Circuit Clerk,2026-11-03,99.9,,False,1,1,2186,2026-11-18T12:42+00:00
+162112,AR,"Randolph County Randolph Co., 0.25% Sales and Use Tax",2026-11-03,99.9,,False,2,1,4390,2026-11-18T12:42+00:00
+161051,AR,"Mayor City of De Queen, Sevier County",2026-11-03,99.9,,False,1,1,637,2026-11-18T12:42+00:00
+161303,AR,"City of Hermitage, Mayor, Bradley County",2026-11-03,99.9,,False,3,1,100,2026-11-18T12:42+00:00
+161754,AR,"Council Member Ward 1 Position 2 City of Marked Tree, Poinsett County",2026-11-03,99.9,,False,2,1,479,2026-11-18T12:42+00:00
+162013,AR,Washington County County Treasurer,2026-11-03,99.9,,False,2,1,74873,2026-11-18T12:42+00:00
+161472,AR,"Dumas Alderman Ward 4 Position 2, Desha County",2026-11-03,99.9,,False,2,1,1008,2026-11-18T12:42+00:00
+162004,AR,Howard County Justice of the Peace District 9,2026-11-03,99.9,,False,2,1,404,2026-11-18T12:42+00:00
+161655,AR,"Mayor Pea Ridge, Benton County",2026-11-03,99.9,,False,2,1,3117,2026-11-18T12:42+00:00
+161715,AR,"Ozark City Council Ward 3 Position 1, Franklin County",2026-11-03,99.9,,False,2,1,766,2026-11-18T12:42+00:00
+162166,AR,Mississippi County Ordinance No. 2024-2,2026-11-03,99.9,,False,2,1,147,2026-11-18T12:42+00:00
+161817,AR,"Council Member Ward 1, Position 2 Bella Vista, Benton County",2026-11-03,99.9,,False,2,1,13155,2026-11-18T12:42+00:00
+161808,AR,"Council Member Ward 2, Position 2 Elm Springs (Benton & Washington Counties)",2026-11-03,99.9,,False,2,2,1126,2026-11-18T12:42+00:00
+161875,AR,Lafayette County Circuit Clerk,2026-11-03,99.9,,False,1,1,1631,2026-11-18T12:42+00:00
+161327,AR,"HWH-Alderman-Ward 1 Position 1, Phillips County",2026-11-03,99.9,,False,4,1,711,2026-11-18T12:42+00:00
+150302,AR,Arkansas State House 83,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,1,12167,2026-11-18T12:42+00:00
+162037,AR,Craighead County Justice of the Peace District 1,2026-11-03,99.9,,False,2,1,2094,2026-11-18T12:42+00:00
+150293,AR,Arkansas State House 86,2026-11-03,99.9,2026-11-04T07:09:42.042Z,False,1,3,7771,2026-11-18T12:42+00:00
+161647,AR,Washington County City of West Fork,2026-11-03,99.9,,False,2,1,952,2026-11-18T12:42+00:00
+150231,AR,Arkansas State House 45,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,2,2,8245,2026-11-18T12:42+00:00
+161358,AR,"Ozark City Clerk, Franklin County",2026-11-03,99.9,,False,2,1,763,2026-11-18T12:42+00:00
+161897,AR,Johnson County Circuit Clerk,2026-11-03,99.9,,False,1,1,5936,2026-11-18T12:42+00:00
+161157,AR,"Mayor of Swifton, Jackson County",2026-11-03,99.9,,False,1,1,152,2026-11-18T12:42+00:00
+161800,AR,"Keiser City Council Ward 1, Position 2, Mississippi County",2026-11-03,99.9,,False,2,1,136,2026-11-18T12:42+00:00
+161067,AR,"Mayor City of Eudora, Chicot County",2026-11-03,99.9,,False,1,1,432,2026-11-18T12:42+00:00
+161511,AR,"Marvell-Mayor, Phillips County",2026-11-03,99.9,,False,2,1,257,2026-11-18T12:42+00:00
+161858,AR,Nevada County Circuit Clerk,2026-11-03,99.9,,False,1,1,1765,2026-11-18T12:42+00:00
+161118,AR,"Mayor - Lamar, Johnson County",2026-11-03,99.9,,False,1,1,339,2026-11-18T12:42+00:00
+161761,AR,"Judsonia Council Member W-1 P-2, White County",2026-11-03,99.9,,False,2,1,357,2026-11-18T12:42+00:00
+161028,AR,"McNab Mayor, Hempstead County",2026-11-03,99.9,,False,1,1,6,2026-11-18T12:42+00:00
+161479,AR,Stone County 2% SALES AND USE TAX Town of Fifty Six,2026-11-03,99.9,,False,2,1,74,2026-11-18T12:42+00:00
+162011,AR,Lonoke County County Judge,2026-11-03,99.9,,False,2,1,22096,2026-11-18T12:42+00:00
+161278,AR,Emmet City Mayor (Hempstead & Nevada Counties),2026-11-03,99.9,,False,2,2,114,2026-11-18T12:42+00:00
+161722,AR,"Beebe Council Member W-3 P-1, White County",2026-11-03,99.9,,False,2,1,1724,2026-11-18T12:42+00:00
+161181,AR,"Mayor of Haynes, Lee County",2026-11-03,99.9,,False,1,1,38,2026-11-18T12:42+00:00
+161632,AR,"Crittenden County City of Marion, Park Improvement Bonds",2026-11-03,99.9,,False,2,1,3759,2026-11-18T12:42+00:00
+161172,AR,"Mayor of LaGrange, Lee County",2026-11-03,99.9,,False,1,1,17,2026-11-18T12:42+00:00
+161815,AR,"Sebastian County A PROPOSITION TO ORGANIZE THE CITY OF FORT SMITH, ARKANSAS UNDER THE MAYOR-COUNCIL FORM OF...",2026-11-03,99.9,,False,2,1,20185,2026-11-18T12:42+00:00
+161882,AR,Fulton County County & Circuit Clerk,2026-11-03,99.9,,False,1,1,3082,2026-11-18T12:42+00:00
+162134,AR,Benton County NEBCO-Fire,2026-11-03,99.9,,False,2,1,1505,2026-11-18T12:42+00:00
+150309,AR,Arkansas State House 37,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,3,6267,2026-11-18T12:42+00:00
+161133,AR,"City of Southside Mayor, Independence County",2026-11-03,99.9,,False,1,1,988,2026-11-18T12:42+00:00
+150300,AR,Arkansas State Senate 11,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,1,2,21195,2026-11-18T12:42+00:00
+161043,AR,"Paris Mayor, Logan County",2026-11-03,99.9,,False,1,1,678,2026-11-18T12:42+00:00
+161494,AR,"City of Edmondson, Recorder/Treasurer, Crittenden County",2026-11-03,99.9,,False,2,1,105,2026-11-18T12:42+00:00
+150270,AR,Arkansas State House 30,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,3,6508,2026-11-18T12:42+00:00
+161205,AR,"Arkansas City Mayor, Desha County",2026-11-03,99.9,,False,1,1,68,2026-11-18T12:42+00:00
+150261,AR,Arkansas State House 5,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,1,8162,2026-11-18T12:42+00:00
+161996,AR,Pope County Justice of the Peace District 5,2026-11-03,99.9,,False,2,1,1520,2026-11-18T12:42+00:00
+161074,AR,"Town of Moorefield Mayor, Independence County",2026-11-03,99.9,,False,1,1,42,2026-11-18T12:42+00:00
+161326,AR,"Hoxie Mayor, Lawrence County",2026-11-03,99.9,,False,2,1,436,2026-11-18T12:42+00:00
+161065,AR,"City of Reyno, Mayor, Randolph County",2026-11-03,99.9,,False,1,1,52,2026-11-18T12:42+00:00
+161125,AR,"Town of O'Kean, Mayor, Randolph County",2026-11-03,99.9,,False,1,1,40,2026-11-18T12:42+00:00
+150292,AR,Arkansas State House 20,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,1,8980,2026-11-18T12:42+00:00
+162027,AR,Drew County Quorum Court Justice of the Peace Pos #7,2026-11-03,99.9,,False,2,1,702,2026-11-18T12:42+00:00
+161678,AR,"Magnolia City Council Ward 2 Pos 2, Columbia County",2026-11-03,99.9,,False,2,1,426,2026-11-18T12:42+00:00
+161026,AR,"Mayor of Hampton, Calhoun County",2026-11-03,99.9,,False,1,1,243,2026-11-18T12:42+00:00
+162085,AR,Craighead County Justice of the Peace District 8,2026-11-03,99.9,,False,2,1,1682,2026-11-18T12:42+00:00
+161729,AR,"City Council Ward 1, Position 2 Gassville, Baxter County",2026-11-03,99.9,,False,3,1,391,2026-11-18T12:42+00:00
+161988,AR,Arkansas County County Treasurer/Tax Collector,2026-11-03,99.9,,False,2,1,3972,2026-11-18T12:42+00:00
+161639,AR,"Maumelle Mayor, Pulaski County",2026-11-03,99.9,,False,2,1,7999,2026-11-18T12:42+00:00
+161179,AR,"Mayor City of Knobel, Clay County",2026-11-03,99.9,,False,1,1,15,2026-11-18T12:42+00:00
+161438,AR,"Mayor of Green Forest City, Carroll County",2026-11-03,99.9,,False,2,1,427,2026-11-18T12:42+00:00
+150221,AR,Arkansas State House 54,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,2,5,9961,2026-11-18T12:42+00:00
+161149,AR,"Hunter Mayor, Woodruff County",2026-11-03,99.9,,False,1,1,26,2026-11-18T12:42+00:00
+161792,AR,"Letona Council Member Po. 3, White County",2026-11-03,99.9,,False,2,1,83,2026-11-18T12:42+00:00
+161140,AR,"Mayor - Ulm, Prairie County",2026-11-03,99.9,,False,1,1,47,2026-11-18T12:42+00:00
+150307,AR,Arkansas State House 63,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,2,4726,2026-11-18T12:42+00:00
+161050,AR,"Mayor Briarcliff, Baxter County",2026-11-03,99.9,,False,1,1,56,2026-11-18T12:42+00:00
+162102,AR,Craighead County Constable District 6,2026-11-03,99.9,,False,2,1,2213,2026-11-18T12:42+00:00
+150277,AR,Arkansas State House 50,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,2,1,7575,2026-11-18T12:42+00:00
+161300,AR,"Augusta Aldermen Ward 1 Position 2, Woodruff County",2026-11-03,99.9,,False,2,1,559,2026-11-18T12:42+00:00
+150268,AR,Arkansas State House 22,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,1,6638,2026-11-18T12:42+00:00
+162003,AR,Sevier County Justice of the Peace District 9,2026-11-03,99.9,,False,2,1,499,2026-11-18T12:42+00:00
+161462,AR,Marion County Bull Shoals Sunday Off-Premise Alcohol Sales,2026-11-03,99.9,,False,2,1,769,2026-11-18T12:42+00:00
+150238,AR,Arkansas State House 56,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,2,1,8481,2026-11-18T12:42+00:00
+162165,AR,Mississippi County Refunding Bonds,2026-11-03,99.9,,False,2,1,2307,2026-11-18T12:42+00:00
+150229,AR,Arkansas State House 67,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,2,1,10579,2026-11-18T12:42+00:00
+161164,AR,"Allport City Mayor, Lonoke County",2026-11-03,99.9,,False,1,1,22,2026-11-18T12:42+00:00
+161807,AR,"Jacksonville Council Member Ward 2 Position 1, Pulaski County",2026-11-03,99.9,,False,2,1,5614,2026-11-18T12:42+00:00
+162034,AR,Hot Spring County Justice of the Peace District 4,2026-11-03,99.9,,False,2,1,719,2026-11-18T12:42+00:00
+161493,AR,"City of Conway, CC Ward Two, Pos. One, Faulkner County",2026-11-03,99.9,,False,2,1,3498,2026-11-18T12:42+00:00
+162025,AR,Carroll County Justice of the Peace District 7,2026-11-03,99.9,,False,2,1,790,2026-11-18T12:42+00:00
+161292,AR,"City of Pocahontas, Mayor, Randolph County",2026-11-03,99.9,,False,4,1,1425,2026-11-18T12:42+00:00
+150260,AR,Arkansas State House 77,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,1,7517,2026-11-18T12:42+00:00
+161195,AR,"City of Black Oak, Mayor, Craighead County",2026-11-03,99.9,,False,1,1,36,2026-11-18T12:42+00:00
+161646,AR,Washington County City of West Fork Annexation,2026-11-03,99.9,,False,2,1,1075,2026-11-18T12:42+00:00
+161986,AR,Jefferson County County Sheriff,2026-11-03,99.9,,False,2,1,16815,2026-11-18T12:42+00:00
+161253,AR,"Wilson City Mayor, Mississippi County",2026-11-03,99.9,,False,1,1,149,2026-11-18T12:42+00:00
+161896,AR,Jackson County Circuit Clerk,2026-11-03,99.9,,False,1,1,2913,2026-11-18T12:42+00:00
+161156,AR,"Mayor of London, Pope County",2026-11-03,99.9,,False,1,1,241,2026-11-18T12:42+00:00
+161799,AR,"Council Member Ward 2 Position 2 City of Weiner, Poinsett County",2026-11-03,99.9,,False,2,1,192,2026-11-18T12:42+00:00
+161147,AR,"City of Lead Hill, Mayor, Boone County",2026-11-03,99.9,,False,1,1,81,2026-11-18T12:42+00:00
+161598,AR,"City of Turrell, Mayor, Crittenden County",2026-11-03,99.9,,False,3,1,147,2026-11-18T12:42+00:00
+161857,AR,Chicot County Circuit Clerk,2026-11-03,99.9,,False,1,1,2707,2026-11-18T12:42+00:00
+161117,AR,"Mayor - Hazen, Prairie County",2026-11-03,99.9,,False,1,1,293,2026-11-18T12:42+00:00
+161760,AR,"Council Member Ward 2 Position 2 City of Marked Tree, Poinsett County",2026-11-03,99.9,,False,2,1,471,2026-11-18T12:42+00:00
+161108,AR,"Town of Oil Trough Mayor, Independence County",2026-11-03,99.9,,False,1,1,37,2026-11-18T12:42+00:00
+150275,AR,Arkansas State House 91,2026-11-03,99.9,2026-11-04T07:09:42.042Z,False,1,1,6448,2026-11-18T12:42+00:00
+162010,AR,Monroe County County Constable District 2,2026-11-03,99.9,,False,2,1,892,2026-11-18T12:42+00:00
+161277,AR,"Booneville Mayor, Logan County",2026-11-03,99.9,,False,4,1,891,2026-11-18T12:42+00:00
+150245,AR,Arkansas State House 65,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,2,5363,2026-11-18T12:42+00:00
+161268,AR,"Wrightsville Mayor, Pulaski County",2026-11-03,99.9,,False,1,1,184,2026-11-18T12:42+00:00
+150236,AR,Arkansas State House 88,2026-11-03,99.9,2026-11-04T07:09:42.042Z,False,1,3,5255,2026-11-18T12:42+00:00
+161171,AR,"Mayor City of Highland, Sharp County",2026-11-03,99.9,,False,1,1,310,2026-11-18T12:42+00:00
+161622,AR,Pulaski County Jacksonville Ward-Based Representation Initiative Ordinance,2026-11-03,99.9,,False,2,1,6076,2026-11-18T12:42+00:00
+161081,AR,"Eudora City Clerk, Chicot County",2026-11-03,99.9,,False,1,1,405,2026-11-18T12:42+00:00
+162133,AR,Benton County City of Rogers Fire Improvement Bonds,2026-11-03,99.9,,False,2,1,19567,2026-11-18T12:42+00:00
+161072,AR,"Plumerville Mayor, Conway County",2026-11-03,99.9,,False,1,1,207,2026-11-18T12:42+00:00
+161132,AR,"City of Shirley Mayor, Van Buren County",2026-11-03,99.9,,False,1,1,81,2026-11-18T12:42+00:00
+150299,AR,Arkansas State House 2,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,3,7480,2026-11-18T12:42+00:00
+161461,AR,"Blytheville City Mayor, Mississippi County",2026-11-03,99.9,,False,3,1,2440,2026-11-18T12:42+00:00
+161193,AR,"Powhatan Mayor, Lawrence County",2026-11-03,99.9,,False,1,1,59,2026-11-18T12:42+00:00
+161260,AR,"Alderman Ward 3 Position 1, Dallas County",2026-11-03,0,,False,2,1,0,2026-11-18T12:42+00:00
+150228,AR,Arkansas State House 7,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,1,6125,2026-11-18T12:42+00:00
+162155,AR,Carroll County Sewer Improvement Bonds,2026-11-03,99.9,,False,2,1,964,2026-11-18T12:42+00:00
+161806,AR,"Council Member Ward 2, Position 1 Elm Springs (Benton & Washington Counties)",2026-11-03,99.9,,False,2,2,1077,2026-11-18T12:42+00:00
+161154,AR,"Mayor - Hartman, Johnson County",2026-11-03,99.9,,False,1,1,94,2026-11-18T12:42+00:00
+161413,AR,"Morrilton City Attorney, Conway County",2026-11-03,99.9,,False,2,1,1938,2026-11-18T12:42+00:00
+161064,AR,"City of Perryville, Mayor, Perry County",2026-11-03,99.9,,False,1,1,289,2026-11-18T12:42+00:00
+161124,AR,"Tayor City Mayor, Columbia County",2026-11-03,99.9,,False,1,1,102,2026-11-18T12:42+00:00
+161959,AR,Randolph County Constable of Janes Creek,2026-11-03,99.9,,False,2,1,158,2026-11-18T12:42+00:00
+161115,AR,"Mayor City of Gillham, Sevier County",2026-11-03,99.9,,False,1,1,31,2026-11-18T12:42+00:00
+161566,AR,"City of Jericho, Mayor, Crittenden County",2026-11-03,99.9,,False,2,1,49,2026-11-18T12:42+00:00
+161025,AR,"Mayor of Delight, Pike County",2026-11-03,99.9,,False,1,1,65,2026-11-18T12:42+00:00
+162084,AR,Desha County Justice of the Peace District 7,2026-11-03,99.9,,False,2,1,310,2026-11-18T12:42+00:00
+161728,AR,"Brinkley City Council Ward 3 Position 2, Monroe County",2026-11-03,99.9,,False,2,1,252,2026-11-18T12:42+00:00
+161275,AR,"Mayor of Flippin, Marion County",2026-11-03,99.9,,False,2,1,309,2026-11-18T12:42+00:00
+150243,AR,Arkansas State House 1,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,3,6369,2026-11-18T12:42+00:00
+161178,AR,"Marmaduke Mayor, Greene County",2026-11-03,99.9,,False,1,1,152,2026-11-18T12:42+00:00
+161437,AR,"Mayor - Clarksville, Johnson County",2026-11-03,99.9,,False,4,1,1881,2026-11-18T12:42+00:00
+161888,AR,Van Buren County Circuit Clerk,2026-11-03,99.9,,False,1,1,4794,2026-11-18T12:42+00:00
+161428,AR,"Mayor of Stuttgart, Arkansas County",2026-11-03,99.9,,False,3,1,1928,2026-11-18T12:42+00:00
+161079,AR,"City of Newark Mayor, Independence County",2026-11-03,99.9,,False,1,1,188,2026-11-18T12:42+00:00
+161139,AR,"Mayor of Mineral Springs, Howard County",2026-11-03,99.9,,False,1,1,206,2026-11-18T12:42+00:00
+161782,AR,"Gosnell City Council Ward 3, Position 1, Mississippi County",2026-11-03,99.9,,False,2,1,137,2026-11-18T12:42+00:00
+162041,AR,Crittenden County Justice of the Peace District 7,2026-11-03,99.9,,False,2,1,1092,2026-11-18T12:42+00:00
+162032,AR,Little River County Jackson Township Constable,2026-11-03,99.9,,False,2,1,458,2026-11-18T12:42+00:00
+161299,AR,"Oppelo Mayor, Conway County",2026-11-03,99.9,,False,2,1,222,2026-11-18T12:42+00:00
+150267,AR,Arkansas State House 68,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,1,8138,2026-11-18T12:42+00:00
+161202,AR,"Mayor of Holiday Island, Carroll County",2026-11-03,99.9,,False,1,1,882,2026-11-18T12:42+00:00
+161420,AR,"City of Altheimer, C.M. Ward 1, Pos. 1, Jefferson County",2026-11-03,99.9,,False,2,1,199,2026-11-18T12:42+00:00
+161071,AR,"McNeil City Mayor, Columbia County",2026-11-03,99.9,,False,1,1,78,2026-11-18T12:42+00:00
+162123,AR,Pulaski County Justice of the Peace District 14,2026-11-03,99.9,,False,2,1,9537,2026-11-18T12:42+00:00
+150298,AR,Arkansas State House 71,2026-11-03,99.9,2026-11-12T01:54:12.309Z,False,2,1,10891,2026-11-18T12:42+00:00
+161122,AR,"Mayor of Weldon, Jackson County",2026-11-03,99.9,,False,1,1,8,2026-11-18T12:42+00:00
+161573,AR,"City of Jericho, Recorder/Treasurer, Crittenden County",2026-11-03,99.9,,False,2,1,49,2026-11-18T12:42+00:00
+162024,AR,Mississippi County Justice of the Peace District 7,2026-11-03,99.9,,False,2,1,557,2026-11-18T12:42+00:00
+161291,AR,City of Horseshoe Bend Mayor (Fulton & Izard Counties),2026-11-03,99.9,,False,3,2,889,2026-11-18T12:42+00:00
+161927,AR,Clark County County Judge,2026-11-03,99.9,,False,2,1,5849,2026-11-18T12:42+00:00
+162082,AR,Lonoke County Justice of the Peace District 10,2026-11-03,99.9,,False,2,1,1706,2026-11-18T12:42+00:00
+161534,AR,"Mountain Pine Mayor, Garland County",2026-11-03,99.9,,False,2,1,125,2026-11-18T12:42+00:00
+161985,AR,Greene County County Judge,2026-11-03,99.9,,False,2,1,10531,2026-11-18T12:42+00:00
+161252,AR,"Searcy Mayor, White County",2026-11-03,99.9,,False,1,1,5469,2026-11-18T12:42+00:00
+161895,AR,Independence County Circuit Clerk,2026-11-03,99.9,,False,1,1,8088,2026-11-18T12:42+00:00
+161435,AR,"Mayor City of Chidester, Ouachita County",2026-11-03,99.9,,False,2,1,96,2026-11-18T12:42+00:00
+150218,AR,Arkansas State House 62,2026-11-03,99.9,2026-11-12T01:54:12.309Z,False,2,6,7471,2026-11-18T12:42+00:00
+161146,AR,"City of Kibler, Mayor, Crawford County",2026-11-03,99.9,,False,1,1,225,2026-11-18T12:42+00:00
+161597,AR,Union County Sale of Alcoholic Beverages for Off-Premises Consumption on Sunday Within the City Limits of El...,2026-11-03,99.9,,False,2,1,4494,2026-11-18T12:42+00:00
+161056,AR,"Mayor of Bull Shoals, Marion County",2026-11-03,99.9,,False,1,1,681,2026-11-18T12:42+00:00
+161588,AR,"City of Marion, C.M., Pos. Jasper 1-2, Crittenden County",2026-11-03,99.9,,False,2,1,3560,2026-11-18T12:42+00:00
+162039,AR,Pope County Justice of the Peace District 10,2026-11-03,99.9,,False,2,1,1603,2026-11-18T12:42+00:00
+161107,AR,"Town of Maynard, Mayor, Randolph County",2026-11-03,99.9,,False,1,1,90,2026-11-18T12:42+00:00
+161750,AR,"Cabot City Council Ward 1/Position 1, Lonoke County",2026-11-03,99.9,,False,2,1,6522,2026-11-18T12:42+00:00
+161209,AR,"City of Van Buren, Mayor, Crawford County",2026-11-03,99.9,,False,1,1,4449,2026-11-18T12:42+00:00
+161549,AR,"City of Gilmore, Mayor, Crittenden County",2026-11-03,99.9,,False,4,1,86,2026-11-18T12:42+00:00
+161200,AR,"Mayor Melbourne, Izard County",2026-11-03,99.9,,False,1,1,415,2026-11-18T12:42+00:00
+161267,AR,"City Mayor Tontitown, Washington County",2026-11-03,99.9,,False,1,1,2150,2026-11-18T12:42+00:00
+150235,AR,Arkansas State Senate 27,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,2,1,18725,2026-11-18T12:42+00:00
+162162,AR,Garland County Issue No. 8,2026-11-03,99.9,,False,2,1,386,2026-11-18T12:42+00:00
+161621,AR,"Craighead County City of Brookland, Emerg. Facil. Imprv. Bonds",2026-11-03,99.9,,False,2,1,750,2026-11-18T12:42+00:00
+162153,AR,Carroll County Water Improvement Bonds,2026-11-03,99.9,,False,2,1,962,2026-11-18T12:42+00:00
+162031,AR,Lonoke County County Sheriff,2026-11-03,99.9,,False,2,1,22235,2026-11-18T12:42+00:00
+161490,AR,"Mayor Greenwood, Sebastian County",2026-11-03,99.9,,False,2,1,2712,2026-11-18T12:42+00:00
+150266,AR,Arkansas State House 49,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,1,2905,2026-11-18T12:42+00:00
+161289,AR,Cherokee Village Alderman Ward 1 Position 2 (Fulton & Sharp Counties),2026-11-03,99.9,,False,2,2,1452,2026-11-18T12:42+00:00
+161541,AR,"City of Wabbaseka, C.M. Pos. 5, Jefferson County",2026-11-03,99.9,,False,2,1,82,2026-11-18T12:42+00:00
+161192,AR,"Oak Grove Heights Mayor, Greene County",2026-11-03,99.9,,False,1,1,230,2026-11-18T12:42+00:00
+161451,AR,"Clarendon City Mayor Clarendon, Monroe County",2026-11-03,99.9,,False,4,1,490,2026-11-18T12:42+00:00
+161102,AR,"Mayor of Berryville, Carroll County",2026-11-03,99.9,,False,1,1,883,2026-11-18T12:42+00:00
+161250,AR,"Russell Mayor, White County",2026-11-03,99.9,,False,1,1,31,2026-11-18T12:42+00:00
+161701,AR,"Hoxie City Council Ward 2 Position 2, Lawrence County",2026-11-03,99.9,,False,2,1,430,2026-11-18T12:42+00:00
+161153,AR,"Mayor Gassville, Baxter County",2026-11-03,99.9,,False,1,1,414,2026-11-18T12:42+00:00
+161412,AR,"Mayor of St. Charles, Arkansas County",2026-11-03,99.9,,False,2,1,63,2026-11-18T12:42+00:00
+161063,AR,City of Ash Flat Mayor (Fulton & Sharp Counties),2026-11-03,99.9,,False,1,2,198,2026-11-18T12:42+00:00
+161595,AR,"City of Sunset, Mayor, Crittenden County",2026-11-03,99.9,,False,3,1,50,2026-11-18T12:42+00:00
+161854,AR,Conway County Circuit Clerk,2026-11-03,99.9,,False,1,1,5666,2026-11-18T12:42+00:00
+161114,AR,"Mayor, City of Diamondhead (Garland & Hot Spring Counties)",2026-11-03,99.9,,False,1,2,506,2026-11-18T12:42+00:00
+161565,AR,"City of Bryant, Mayor, Saline County",2026-11-03,99.9,,False,2,1,6560,2026-11-18T12:42+00:00
+162016,AR,Crawford County Justice of the Peace District 7,2026-11-03,99.9,,False,2,1,816,2026-11-18T12:42+00:00
+161556,AR,Lawrence County ORDINANCE NO. 440-2026 City of Blackrock,2026-11-03,99.9,,False,2,1,154,2026-11-18T12:42+00:00
+161207,AR,"City of Bono, Mayor, Craighead County",2026-11-03,99.9,,False,1,1,434,2026-11-18T12:42+00:00
+161274,AR,"Mayor Carthage, Dallas County",2026-11-03,99.9,,False,2,1,31,2026-11-18T12:42+00:00
+161718,AR,"Brinkley City Council Ward 2 Position 2, Monroe County",2026-11-03,99.9,,False,2,1,246,2026-11-18T12:42+00:00
+162169,AR,"Fouke School At Large Position 6, Miller County",2026-11-03,99.9,,False,2,1,1566,2026-11-18T12:42+00:00
+161517,AR,"City of Madison, Mayor, St. Francis County",2026-11-03,99.9,,False,4,1,161,2026-11-18T12:42+00:00
+162160,AR,Garland County Issue No. 6,2026-11-03,99.9,,False,2,1,30733,2026-11-18T12:42+00:00
+161427,AR,"Mayor of Huttig, Union County",2026-11-03,99.9,,False,2,1,127,2026-11-18T12:42+00:00
+161878,AR,Clark County Circuit Clerk,2026-11-03,99.9,,False,1,1,4590,2026-11-18T12:42+00:00
+162130,AR,Hot Spring County Bismarck Volunteer Fire,2026-11-03,99.9,,False,2,1,1052,2026-11-18T12:42+00:00
+161781,AR,"Council Member Ward 2 Position 2 City of Trumann, Poinsett County",2026-11-03,99.9,,False,2,1,441,2026-11-18T12:42+00:00
+162121,AR,"Benton County Justice of the Peace, District 3",2026-11-03,99.9,,False,2,1,7010,2026-11-18T12:42+00:00
+161580,AR,"City of Marion, Mayor, Crittenden County",2026-11-03,99.9,,False,2,1,3812,2026-11-18T12:42+00:00
+161458,AR,"Mayor of Junction City, Union County",2026-11-03,99.9,,False,3,1,185,2026-11-18T12:42+00:00
+150234,AR,Arkansas State House 23,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,2,1,10629,2026-11-18T12:42+00:00
+161449,AR,"City of Pine Bluff, City Attorney, Jefferson County",2026-11-03,99.9,,False,2,1,9317,2026-11-18T12:42+00:00
+161509,AR,"Hot Springs Director District 4, Garland County",2026-11-03,99.9,,False,2,1,1727,2026-11-18T12:42+00:00
+162152,AR,Johnson County Question Three (Parks and Recreation Improvement Bonds): Clarksville,2026-11-03,99.9,,False,2,1,1848,2026-11-18T12:42+00:00
+161611,AR,Lonoke County THE ISSUE OF CHANGING THE TERM LENGTHS OF COUNCIL MEMBERS FROM TWO (2) YEARS TO FOUR (4) YEARS IN...,2026-11-03,99.9,,False,2,1,1393,2026-11-18T12:42+00:00
+161070,AR,"Mayor, Town of Wickes, Polk County",2026-11-03,99.9,,False,1,1,69,2026-11-18T12:42+00:00
+161410,AR,"Mayor - Coal Hill, Johnson County",2026-11-03,99.9,,False,2,1,183,2026-11-18T12:42+00:00
+161669,AR,"Gould City Council Ward 2 Position 1, Lincoln County",2026-11-03,99.9,,False,1,1,123,2026-11-18T12:42+00:00
+161121,AR,"Mayor of Summit, Marion County",2026-11-03,99.9,,False,1,1,85,2026-11-18T12:42+00:00
+161572,AR,"City of Bryant, C.M. Ward 4, Pos. 1, Saline County",2026-11-03,99.9,,False,2,1,1048,2026-11-18T12:42+00:00
+162023,AR,Pope County Justice of the Peace District 6,2026-11-03,99.9,,False,2,1,1567,2026-11-18T12:42+00:00
+161563,AR,"City of Lake City, Mayor, Craighead County",2026-11-03,99.9,,False,3,1,673,2026-11-18T12:42+00:00
+161022,AR,"City of Warren, Mayor, Bradley County",2026-11-03,99.9,,False,1,1,837,2026-11-18T12:42+00:00
+162081,AR,Washington County Justice of the Peace District 6,2026-11-03,99.9,,False,2,1,3684,2026-11-18T12:42+00:00
+161533,AR,"Mayor Hartford, Sebastian County",2026-11-03,99.9,,False,2,1,150,2026-11-18T12:42+00:00
+161184,AR,"Star City Alderman Ward 2 Position 1, Lincoln County",2026-11-03,99.9,,False,1,1,454,2026-11-18T12:42+00:00
+161524,AR,"Mitchellville Alderman Ward 1 Position 2, Desha County",2026-11-03,99.9,,False,2,1,70,2026-11-18T12:42+00:00
+162167,AR,Benton County Nebco-Ems,2026-11-03,99.9,,False,2,1,2890,2026-11-18T12:42+00:00
+161434,AR,"Lakeview-Mayor, Phillips County",2026-11-03,99.9,,False,2,1,122,2026-11-18T12:42+00:00
+150217,AR,Arkansas State House 9,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,2,1,4241,2026-11-18T12:42+00:00
+162137,AR,1% Sales and Use Tax (Carroll & Dallas Counties),2026-11-03,99.9,,False,2,1,967,2026-11-18T12:42+00:00
+150208,AR,Arkansas State House 14,2026-11-03,99.9,2026-11-12T01:54:12.309Z,False,2,1,10219,2026-11-18T12:42+00:00
+162128,AR,"Benton County Justice of the Peace, District 13",2026-11-03,99.9,,False,2,1,7866,2026-11-18T12:42+00:00
+161587,AR,"Bonanza Alderman Ward 2 Position 1 Bonanza, Sebastian County",2026-11-03,99.9,,False,2,1,177,2026-11-18T12:42+00:00
+161046,AR,"City of Cale, Mayor, Nevada County",2026-11-03,99.9,,False,1,1,23,2026-11-18T12:42+00:00
+161497,AR,"Cross County City of Parkin, Ordinance 8-10-2026-1",2026-11-03,99.9,,False,2,1,285,2026-11-18T12:42+00:00
+161749,AR,"Blytheville City Council Ward 1, Position 2, Mississippi County",2026-11-03,99.9,,False,2,1,706,2026-11-18T12:42+00:00
+161488,AR,"Mayor City of Corning, Clay County",2026-11-03,99.9,,False,2,1,746,2026-11-18T12:42+00:00
+161548,AR,"City of Benton, C.M. Ward 2, Pos. 1, Saline County",2026-11-03,99.9,,False,2,1,1117,2026-11-18T12:42+00:00
+161199,AR,"Mayor City of Williford, Sharp County",2026-11-03,99.9,,False,1,1,16,2026-11-18T12:42+00:00
+161877,AR,Howard County Circuit Clerk,2026-11-03,99.9,,False,1,1,2724,2026-11-18T12:42+00:00
+161609,AR,"Craighead County City of Brookland, Refunding Bonds",2026-11-03,99.9,,False,2,1,730,2026-11-18T12:42+00:00
+150200,AR,Arkansas State House 8,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,2,1,11841,2026-11-18T12:42+00:00
+162120,AR,Pulaski County Justice of the Peace District 11,2026-11-03,99.9,,False,2,1,6474,2026-11-18T12:42+00:00
+161771,AR,"Cabot City Council Ward 3/Position 2, Lonoke County",2026-11-03,99.9,,False,2,1,6313,2026-11-18T12:42+00:00
+162030,AR,Greene County Coroner,2026-11-03,99.9,,False,2,1,10423,2026-11-18T12:42+00:00
+161570,AR,"England City Mayor, Lonoke County",2026-11-03,99.9,,False,2,1,708,2026-11-18T12:42+00:00
+161829,AR,"North Little Rock Council Member Ward 2 Position 2, Pulaski County",2026-11-03,99.9,,False,4,1,3422,2026-11-18T12:42+00:00
+161288,AR,"Augusta Mayor, Woodruff County",2026-11-03,99.9,,False,3,1,575,2026-11-18T12:42+00:00
+161540,AR,"City of Palestine, Alderman Ward 1, Pos. 1, St. Francis County",2026-11-03,99.9,,False,2,1,137,2026-11-18T12:42+00:00
+161383,AR,"City of Chester, Mayor, Crawford County",2026-11-03,99.9,,False,2,1,37,2026-11-18T12:42+00:00
+161531,AR,"City of Wabbaseka, C.M. Pos. 2, Jefferson County",2026-11-03,99.9,,False,2,1,82,2026-11-18T12:42+00:00
+161982,AR,Crittenden County County Clerk,2026-11-03,99.9,,False,2,1,10938,2026-11-18T12:42+00:00
+161249,AR,"City of Twin Groves, Mayor, Faulkner County",2026-11-03,99.9,,False,1,1,88,2026-11-18T12:42+00:00
+161700,AR,"Heber Springs City Council Ward 1 Pos 1, Cleburne County",2026-11-03,99.9,,False,2,1,463,2026-11-18T12:42+00:00
+161152,AR,"Mayor, City of Donaldson, Hot Spring County",2026-11-03,99.9,,False,1,1,56,2026-11-18T12:42+00:00
+150215,AR,Arkansas State House 24,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,2,2,8693,2026-11-18T12:42+00:00
+162135,AR,Garland County Justice of the Peace District 6,2026-11-03,99.9,,False,2,1,2748,2026-11-18T12:42+00:00
+161594,AR,"City of Shannon Hills, C.M. Ward 3, Pos. 2, Saline County",2026-11-03,99.9,,False,2,1,1004,2026-11-18T12:42+00:00
+161853,AR,Polk County Circuit Clerk,2026-11-03,99.9,,False,1,1,4770,2026-11-18T12:42+00:00
+162105,AR,Washington County Justice of the Peace District 14,2026-11-03,99.9,,False,2,1,6516,2026-11-18T12:42+00:00
+161844,AR,"Council Member Ward 4, Position 2 Lowell, Benton County",2026-11-03,99.9,,False,2,1,2795,2026-11-18T12:42+00:00
+161495,AR,Van Buren County City of Fairfield Bay Alcoholic Beverage Sunday Sales,2026-11-03,99.9,,False,2,1,833,2026-11-18T12:42+00:00
+161555,AR,"Mayor Lavaca, Sebastian County",2026-11-03,99.9,,False,3,1,709,2026-11-18T12:42+00:00
+162006,AR,Little River County Justice of the Peace - Pos 4,2026-11-03,99.9,,False,2,1,451,2026-11-18T12:42+00:00
+161465,AR,"City of Conway, CC Ward Three, Pos. Two, Faulkner County",2026-11-03,99.9,,False,2,1,16656,2026-11-18T12:42+00:00
+161717,AR,"Beebe Council Member W-2 P-1, White County",2026-11-03,99.9,,False,2,1,1692,2026-11-18T12:42+00:00
+161456,AR,"Mayor Franklin, Izard County",2026-11-03,99.9,,False,2,1,85,2026-11-18T12:42+00:00
+161516,AR,"City of Edmondson, C.M., Pos. 2, Crittenden County",2026-11-03,99.9,,False,2,1,107,2026-11-18T12:42+00:00
+162159,AR,Garland County Issue No. 5,2026-11-03,99.9,,False,2,1,30360,2026-11-18T12:42+00:00
+161618,AR,"Craighead County City of Brookland, Sewer Improvement Bonds",2026-11-03,99.9,,False,2,1,743,2026-11-18T12:42+00:00
+161836,AR,"Council Member Ward 1, Position 2 Centerton, Benton County",2026-11-03,99.9,,False,2,1,5288,2026-11-18T12:42+00:00
+161487,AR,"Hot Springs Mayor, Garland County",2026-11-03,99.9,,False,5,1,10181,2026-11-18T12:42+00:00
+161739,AR,"City Council Ward 2, Position 2 Gassville, Baxter County",2026-11-03,99.9,,False,2,1,403,2026-11-18T12:42+00:00
+161198,AR,"Judsonia Mayor, White County",2026-11-03,99.9,,False,1,1,372,2026-11-18T12:42+00:00
+161538,AR,"City of Edmondson, C.M., Pos. 5, Crittenden County",2026-11-03,99.9,,False,2,1,106,2026-11-18T12:42+00:00
+150321,AR,Arkansas Circuit Judge District 4 Division 2,2026-11-03,99.9,,False,2,2,71586,2026-11-18T12:42+00:00
+161448,AR,"City of Mulberry, Mayor, Crawford County",2026-11-03,99.9,,False,2,1,371,2026-11-18T12:42+00:00
+161508,AR,"City of Wabbaseka, Mayor, Jefferson County",2026-11-03,99.9,,False,2,1,82,2026-11-18T12:42+00:00
+161351,AR,"Marianna City Clerk/Treasurer, Lee County",2026-11-03,99.9,,False,2,1,973,2026-11-18T12:42+00:00
+161698,AR,"El Dorado City Council Ward 1 Position 2, Union County",2026-11-03,99.9,,False,2,1,1248,2026-11-18T12:42+00:00
+161950,AR,Johnson County Sheriff,2026-11-03,99.9,,False,2,1,6621,2026-11-18T12:42+00:00
+161409,AR,"Mayor, City of Perla, Hot Spring County",2026-11-03,99.9,,False,2,1,34,2026-11-18T12:42+00:00
+161668,AR,"Gould City Council Ward 1 Position 2, Lincoln County",2026-11-03,99.9,,False,1,1,147,2026-11-18T12:42+00:00
+161120,AR,"Mayor of Gillett, Arkansas County",2026-11-03,99.9,,False,1,1,156,2026-11-18T12:42+00:00
+161851,AR,Hempstead County Circuit Clerk,2026-11-03,99.9,,False,1,1,3428,2026-11-18T12:42+00:00
+162103,AR,Saline County Justice of the Peace District 10,2026-11-03,99.9,,False,2,1,2852,2026-11-18T12:42+00:00
+161562,AR,"City of Benton, C.M. Ward 5, Pos. 1, Saline County",2026-11-03,99.9,,False,3,1,2812,2026-11-18T12:42+00:00
+161021,AR,"City of Salem Mayor, Fulton County",2026-11-03,99.9,,False,1,1,276,2026-11-18T12:42+00:00
+161280,AR,Mayor City of Cherokee Village (Fulton & Sharp Counties),2026-11-03,99.9,,False,2,2,1534,2026-11-18T12:42+00:00
+161012,AR,"Mayor, City of Mena, Polk County",2026-11-03,99.9,,False,1,1,1098,2026-11-18T12:42+00:00
+161463,AR,"Cabot City Mayor, Lonoke County",2026-11-03,99.9,,False,2,1,7485,2026-11-18T12:42+00:00
+161523,AR,"Mayor City of Trumann, Poinsett County",2026-11-03,99.9,,False,4,1,1496,2026-11-18T12:42+00:00
+161174,AR,"Patterson Mayor, Woodruff County",2026-11-03,99.9,,False,1,1,79,2026-11-18T12:42+00:00
+161625,AR,"Crittenden County City of Marion, Ordinance No. 652",2026-11-03,99.9,,False,2,1,3708,2026-11-18T12:42+00:00
+161616,AR,"Craighead County City of Brookland, Mun. Building Imprv. Bonds",2026-11-03,99.9,,False,2,1,742,2026-11-18T12:42+00:00
+150207,AR,Arkansas State House 58,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,2,1,8697,2026-11-18T12:42+00:00
+162127,AR,"Benton County Justice of the Peace, District 11",2026-11-03,99.9,,False,2,1,5841,2026-11-18T12:42+00:00
+161778,AR,"Gosnell City Council Ward 2, Position 1, Mississippi County",2026-11-03,99.9,,False,2,1,208,2026-11-18T12:42+00:00
+161045,AR,"City of Bellefonte, Mayor, Boone County",2026-11-03,99.9,,False,1,1,115,2026-11-18T12:42+00:00
+161769,AR,"Holly Grove City Council Ward 1 Position 2, Monroe County",2026-11-03,99.9,,False,2,1,176,2026-11-18T12:42+00:00
+161455,AR,"Mayor Fort Smith, Sebastian County",2026-11-03,99.9,,False,7,1,20276,2026-11-18T12:42+00:00
+161707,AR,"City of Rosston, City Council, Nevada County",2026-11-03,99.9,,False,2,1,64,2026-11-18T12:42+00:00
+162158,AR,Carroll County HI 2.5% Sales tax,2026-11-03,99.9,,False,2,1,1144,2026-11-18T12:42+00:00
+161506,AR,"City of Edmondson, C.M., Pos. 1, Crittenden County",2026-11-03,99.9,,False,2,1,104,2026-11-18T12:42+00:00
+161957,AR,Woodruff County Coroner,2026-11-03,99.9,,False,2,1,1749,2026-11-18T12:42+00:00
+161608,AR,City Clerk Elm Springs (Benton & Washington Counties),2026-11-03,99.9,,False,2,2,1139,2026-11-18T12:42+00:00
+161867,AR,Baxter County Circuit & County Clerk,2026-11-03,99.9,,False,1,1,12560,2026-11-18T12:42+00:00
+161319,AR,"City of Bergman, Mayor, Boone County",2026-11-03,99.9,,False,2,1,123,2026-11-18T12:42+00:00
+161666,AR,"Mayor Sulphur Springs, Benton County",2026-11-03,99.9,,False,4,1,118,2026-11-18T12:42+00:00
+161918,AR,Scott County County Judge,2026-11-03,99.9,,False,2,1,2535,2026-11-18T12:42+00:00
+161569,AR,"City of Widener, Mayor, St. Francis County",2026-11-03,99.9,,False,2,1,69,2026-11-18T12:42+00:00
+161828,AR,"Maumelle Council Member Ward 3 Position 2, Pulaski County",2026-11-03,99.9,,False,2,1,1677,2026-11-18T12:42+00:00
+161287,AR,"Mayor - Des Arc, Prairie County",2026-11-03,99.9,,False,2,1,533,2026-11-18T12:42+00:00
+161019,AR,"City of Fourche, Mayor, Perry County",2026-11-03,99.9,,False,1,1,21,2026-11-18T12:42+00:00
+162078,AR,Faulkner County Justice of the Peace District 8,2026-11-03,99.9,,False,2,1,3195,2026-11-18T12:42+00:00
+161530,AR,Conway County City of Plumerville Tax,2026-11-03,99.9,,False,2,1,230,2026-11-18T12:42+00:00
+161981,AR,Union County Sheriff,2026-11-03,99.9,,False,2,1,11517,2026-11-18T12:42+00:00
+161440,AR,"Mayor of Pottsville, Pope County",2026-11-03,99.9,,False,2,1,828,2026-11-18T12:42+00:00
+161972,AR,Lee County Justice of the Peace District 2,2026-11-03,99.9,,False,2,1,119,2026-11-18T12:42+00:00
+161623,AR,"Mayor Avoca, Benton County",2026-11-03,99.9,,False,2,1,146,2026-11-18T12:42+00:00
+150214,AR,Arkansas State House 69,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,2,2,8910,2026-11-18T12:42+00:00
+161142,AR,Quitman Mayor (Cleburne & Faulkner Counties),2026-11-03,99.9,,False,1,2,164,2026-11-18T12:42+00:00
+161785,AR,"Carlisle City Council Ward 3/Position 1, Lonoke County",2026-11-03,99.9,,False,2,1,602,2026-11-18T12:42+00:00
+161933,AR,Pike County Justice of the Peace District 4,2026-11-03,99.9,,False,2,1,379,2026-11-18T12:42+00:00
+161776,AR,"Council Member South Ward Position 2 City of Corning, Clay County",2026-11-03,99.9,,False,2,1,721,2026-11-18T12:42+00:00
+161843,AR,"Council Member Ward 2, Position 2 Lowell, Benton County",2026-11-03,99.9,,False,2,1,2781,2026-11-18T12:42+00:00
+161302,AR,"City of Clinton Mayor, Van Buren County",2026-11-03,99.9,,False,4,1,734,2026-11-18T12:42+00:00
+161746,AR,"City Council Ward 3, Position 1 Gassville, Baxter County",2026-11-03,99.9,,False,3,1,416,2026-11-18T12:42+00:00
+162005,AR,Van Buren County Justice of the Peace District 9,2026-11-03,99.9,,False,2,1,566,2026-11-18T12:42+00:00
+161737,AR,"City Council - Clarksville District 2 Position 2, Johnson County",2026-11-03,99.9,,False,2,1,1835,2026-11-18T12:42+00:00
+161004,AR,"City of Damascus, Mayor (Faulkner & Van Buren Counties)",2026-11-03,99.9,,False,1,2,100,2026-11-18T12:42+00:00
+161615,AR,"Lonoke County THE ELECTION OF COUNCIL MEMBERS TO FOUR-YEAR STAGGERED TERMS IN THE CITY OF AUSTIN, ARKANSAS Austin...",2026-11-03,99.9,,False,2,1,901,2026-11-18T12:42+00:00
+161874,AR,Madison County Circuit Clerk,2026-11-03,99.9,,False,1,1,4472,2026-11-18T12:42+00:00
+162126,AR,Craighead County County Ordinance,2026-11-03,99.9,,False,2,1,24947,2026-11-18T12:42+00:00
+161865,AR,Yell County Circuit Clerk,2026-11-03,99.9,,False,1,1,4150,2026-11-18T12:42+00:00
+161925,AR,Polk County County Coroner,2026-11-03,99.9,,False,2,1,5261,2026-11-18T12:42+00:00
+161768,AR,"Council Member Ward 4 Position 2 City of Marked Tree, Poinsett County",2026-11-03,99.9,,False,2,1,464,2026-11-18T12:42+00:00
+161035,AR,"City of Houston, Mayor, Perry County",2026-11-03,99.9,,False,1,1,37,2026-11-18T12:42+00:00
+161486,AR,"Elaine-Alderman-Ward 1 Position 1, Phillips County",2026-11-03,99.9,,False,2,1,152,2026-11-18T12:42+00:00
+161826,AR,"Council Member Ward 1, Position 2 Bentonville, Benton County",2026-11-03,99.9,,False,2,1,13091,2026-11-18T12:42+00:00
+161093,AR,"Tull Mayor, Grant County",2026-11-03,99.9,,False,1,1,175,2026-11-18T12:42+00:00
+161537,AR,"City of Cash, Mayor, Craighead County",2026-11-03,99.9,,False,2,1,69,2026-11-18T12:42+00:00
+150320,AR,Arkansas Prosecuting Attorney District 11-West,2026-11-03,99.9,,False,2,2,17404,2026-11-18T12:42+00:00
+161447,AR,"City of FC, Alderman Ward 4, Pos. 1, St. Francis County",2026-11-03,99.9,,False,3,1,492,2026-11-18T12:42+00:00
+161979,AR,Ouachita County Sheriff,2026-11-03,99.9,,False,2,1,6418,2026-11-18T12:42+00:00
+161246,AR,"City of Shannon Hills, Mayor, Saline County",2026-11-03,99.9,,False,1,1,875,2026-11-18T12:42+00:00
+161697,AR,"Clinton City Council Ward 2 Position 1, Van Buren County",2026-11-03,99.9,,False,3,1,705,2026-11-18T12:42+00:00
+161949,AR,Izard County Circuit Clerk,2026-11-03,99.9,,False,2,1,4237,2026-11-18T12:42+00:00
+161600,AR,"Searcy Clerk, White County",2026-11-03,99.9,,False,2,1,4971,2026-11-18T12:42+00:00
+161940,AR,Mississippi County County Clerk,2026-11-03,99.9,,False,2,1,7699,2026-11-18T12:42+00:00
+161783,AR,"Carlisle City Council Ward 1/Position 2, Lonoke County",2026-11-03,99.9,,False,2,1,604,2026-11-18T12:42+00:00
+161850,AR,Marion County Circuit Clerk,2026-11-03,99.9,,False,1,1,4815,2026-11-18T12:42+00:00
+161110,AR,"City of Clarkedale, Mayor, Crittenden County",2026-11-03,99.9,,False,1,1,108,2026-11-18T12:42+00:00
+161753,AR,"Clarendon City Council Ward 1 Position 1, Monroe County",2026-11-03,99.9,,False,3,1,173,2026-11-18T12:42+00:00
+162100,AR,Saline County Justice of the Peace District 9,2026-11-03,99.9,,False,2,1,2957,2026-11-18T12:42+00:00
+161744,AR,"City Council Junction City Ward 2 Position 2, Union County",2026-11-03,99.9,,False,2,1,178,2026-11-18T12:42+00:00
+161011,AR,"City of Bigelow, Mayor, Perry County",2026-11-03,99.9,,False,1,1,109,2026-11-18T12:42+00:00
+161270,AR,"City Mayor Winslow, Washington County",2026-11-03,99.9,,False,1,1,127,2026-11-18T12:42+00:00
+161714,AR,"Morrilton City Council, Conway County",2026-11-03,99.9,,False,2,1,1904,2026-11-18T12:42+00:00
+161173,AR,"Parkdale Mayor, Ashley County",2026-11-03,99.9,,False,1,1,33,2026-11-18T12:42+00:00
+161705,AR,"Position 1 Council Member Town of Fifty Six, Stone County",2026-11-03,99.9,,False,2,1,73,2026-11-18T12:42+00:00
+161964,AR,Jefferson County County Judge,2026-11-03,99.9,,False,2,1,17138,2026-11-18T12:42+00:00
+161042,AR,"Mayor, Town of Cove, Polk County",2026-11-03,99.9,,False,1,1,55,2026-11-18T12:42+00:00
+161301,AR,"City of Cherry Valley, CC Ward 1, Pos. 1, Cross County",2026-11-03,99.9,,False,2,1,136,2026-11-18T12:42+00:00
+161033,AR,"City of Batesville Mayor, Independence County",2026-11-03,99.9,,False,1,1,1957,2026-11-18T12:42+00:00
+162092,AR,Saline County Justice of the Peace District 8,2026-11-03,99.9,,False,2,1,3294,2026-11-18T12:42+00:00
+161736,AR,"Wilton Council Member W1 P2, Little River County",2026-11-03,99.9,,False,2,1,52,2026-11-18T12:42+00:00
+161995,AR,Clark County Justice of the Peace District 3,2026-11-03,99.9,,False,2,1,273,2026-11-18T12:42+00:00
+161454,AR,"Mayor City of Marked Tree, Poinsett County",2026-11-03,99.9,,False,2,1,496,2026-11-18T12:42+00:00
+150318,AR,Arkansas State House 57,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,3,9090,2026-11-18T12:42+00:00
+162053,AR,Desha County Justice of the Peace District 2,2026-11-03,99.9,,False,2,1,364,2026-11-18T12:42+00:00
+161505,AR,"City of Bono, Alderman Ward 2, Pos. 1, Craighead County",2026-11-03,99.9,,False,2,1,436,2026-11-18T12:42+00:00
+161956,AR,Union County Judge,2026-11-03,99.9,,False,2,1,11040,2026-11-18T12:42+00:00
+161607,AR,Mayor Elm Springs (Benton & Washington Counties),2026-11-03,99.9,,False,3,2,1257,2026-11-18T12:42+00:00
+161947,AR,Drew County County Sheriff,2026-11-03,99.9,,False,3,1,5029,2026-11-18T12:42+00:00
+161406,AR,"Mayor City of Camden, Ouachita County",2026-11-03,99.9,,False,2,1,2710,2026-11-18T12:42+00:00
+161665,AR,Benton County City of Siloam Springs Special Election,2026-11-03,99.9,,False,2,1,4118,2026-11-18T12:42+00:00
+161917,AR,Little River County County Judge,2026-11-03,99.9,,False,2,1,3638,2026-11-18T12:42+00:00
+161568,AR,"City of Mayflower, Mayor, Faulkner County",2026-11-03,99.9,,False,2,1,772,2026-11-18T12:42+00:00
+161908,AR,Craighead County Circuit Clerk,2026-11-03,99.9,,False,1,1,21284,2026-11-18T12:42+00:00
+161751,AR,"City Council Junction City Ward 3 Position 2, Union County",2026-11-03,99.9,,False,2,1,176,2026-11-18T12:42+00:00
+161018,AR,"City of Bluff City, Mayor, Nevada County",2026-11-03,99.9,,False,1,1,38,2026-11-18T12:42+00:00
+162077,AR,Lonoke County Justice of the Peace District 8,2026-11-03,99.9,,False,2,1,1909,2026-11-18T12:42+00:00
+161721,AR,"El Dorado City Council Ward 2 Position 2, Union County",2026-11-03,99.9,,False,3,1,1335,2026-11-18T12:42+00:00
+162068,AR,Greene County Constable-Bula Township,2026-11-03,99.9,,False,2,1,5596,2026-11-18T12:42+00:00
+161712,AR,"Luxora City Council Ward 3, Position 1, Mississippi County",2026-11-03,99.9,,False,3,1,178,2026-11-18T12:42+00:00
+161971,AR,Clark County Justice of the Peace District 2,2026-11-03,99.9,,False,2,1,728,2026-11-18T12:42+00:00
+161430,AR,"Ulm Alderman Position 2, Prairie County",2026-11-03,99.9,,False,2,1,47,2026-11-18T12:42+00:00
+161881,AR,Scott County County and Circuit Clerk,2026-11-03,99.9,,False,1,1,2280,2026-11-18T12:42+00:00
+161141,AR,"McCrory Mayor, Woodruff County",2026-11-03,99.9,,False,1,1,381,2026-11-18T12:42+00:00
+161872,AR,Randolph County Circuit Clerk,2026-11-03,99.9,,False,1,1,3503,2026-11-18T12:42+00:00
+161932,AR,Izard County Judge,2026-11-03,99.9,,False,2,1,4242,2026-11-18T12:42+00:00
+161775,AR,"Cabot City Council Ward 4/Position 2, Lonoke County",2026-11-03,99.9,,False,2,1,6443,2026-11-18T12:42+00:00
+161269,AR,"City Mayor West Fork, Washington County",2026-11-03,99.9,,False,1,1,803,2026-11-18T12:42+00:00
+161993,AR,Carroll County Justice of the Peace District 1,2026-11-03,99.9,,False,2,1,1233,2026-11-18T12:42+00:00
+162060,AR,Washington County Justice of the Peace District 4,2026-11-03,99.9,,False,2,1,1948,2026-11-18T12:42+00:00
+161704,AR,"Ozark City Council Ward 1 Position 1, Franklin County",2026-11-03,99.9,,False,2,1,775,2026-11-18T12:42+00:00
+161163,AR,"Wilton City Mayor, Little River County",2026-11-03,99.9,,False,1,1,46,2026-11-18T12:42+00:00
+161614,AR,"Mansfield Alderman Ward 3 Position 1 Mansfield, Sebastian County",2026-11-03,99.9,,False,2,1,177,2026-11-18T12:42+00:00
+161954,AR,"Searcy County Justice of the Peace, District 4",2026-11-03,99.9,,False,2,1,241,2026-11-18T12:42+00:00
+161221,AR,"City of Caraway, Mayor, Craighead County",2026-11-03,99.9,,False,1,1,215,2026-11-18T12:42+00:00
+161864,AR,Woodruff County Circuit Clerk & Recorder,2026-11-03,99.9,,False,1,1,1652,2026-11-18T12:42+00:00
+161924,AR,Conway County Tax Collector,2026-11-03,99.9,,False,2,1,6494,2026-11-18T12:42+00:00
+150291,AR,Arkansas State House 19,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,2,1,9156,2026-11-18T12:42+00:00
+161915,AR,Benton County Circuit Clerk,2026-11-03,99.9,,False,1,1,69399,2026-11-18T12:42+00:00
+161374,AR,"Mayor City of Lepanto, Poinsett County",2026-11-03,99.9,,False,3,1,497,2026-11-18T12:42+00:00
+161825,AR,"City Council Member Ward 2 Pos.1 Greenland, Washington County",2026-11-03,99.9,,False,2,1,545,2026-11-18T12:42+00:00
+161092,AR,"Town of Biggers, Mayor, Randolph County",2026-11-03,99.9,,False,1,1,46,2026-11-18T12:42+00:00
+161536,AR,"City of Benton, C.M. Ward 1, Pos. 1, Saline County",2026-11-03,99.9,,False,3,1,2030,2026-11-18T12:42+00:00
+162075,AR,Craighead County Justice of the Peace District 6,2026-11-03,99.9,,False,2,1,1498,2026-11-18T12:42+00:00
+161719,AR,"City Council Ward 2, Position 2 Cotter, Baxter County",2026-11-03,99.9,,False,2,1,283,2026-11-18T12:42+00:00
+161978,AR,Little River County Justice of the Peace - Pos 1,2026-11-03,99.9,,False,2,1,448,2026-11-18T12:42+00:00
+161245,AR,"Mayor City of Weiner, Poinsett County",2026-11-03,99.9,,False,1,1,187,2026-11-18T12:42+00:00
+150220,AR,Arkansas State Senate 28,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,1,6,22303,2026-11-18T12:42+00:00
+161236,AR,"City of Wheatley, Mayor, St. Francis County",2026-11-03,99.9,,False,1,1,85,2026-11-18T12:42+00:00
+161879,AR,Prairie County Circuit/County Clerk,2026-11-03,99.9,,False,1,1,2252,2026-11-18T12:42+00:00
+161939,AR,Newton County County/Circuit Clerk,2026-11-03,99.9,,False,2,1,2867,2026-11-18T12:42+00:00
+161590,AR,"Union County A City-Wide One Percent (1%) Sales and Use Tax Within the City of Strong, Arkansas",2026-11-03,99.9,,False,2,1,122,2026-11-18T12:42+00:00
+161049,AR,"Magazine Mayor, Logan County",2026-11-03,99.9,,False,1,1,159,2026-11-18T12:42+00:00
+161109,AR,"Beebe Mayor Beebe City, White County",2026-11-03,99.9,,False,1,1,1567,2026-11-18T12:42+00:00
+161040,AR,"Mayor of Glenwood, Pike County",2026-11-03,99.9,,False,1,1,371,2026-11-18T12:42+00:00
+162099,AR,Faulkner County Justice of the Peace District 12,2026-11-03,99.9,,False,2,1,3790,2026-11-18T12:42+00:00
+161743,AR,"City Council - Clarksville District 3 Position 2, Johnson County",2026-11-03,99.9,,False,2,1,1790,2026-11-18T12:42+00:00
+162002,AR,Lafayette County Justice of the Peace District 8,2026-11-03,99.9,,False,2,1,203,2026-11-18T12:42+00:00
+161228,AR,"Fountain Lake Mayor, Garland County",2026-11-03,99.9,,False,1,1,117,2026-11-18T12:42+00:00
+161871,AR,Bradley County Circuit Clerk,2026-11-03,99.9,,False,1,1,2007,2026-11-18T12:42+00:00
+161131,AR,"City of Garland Mayor, Miller County",2026-11-03,99.9,,False,1,1,40,2026-11-18T12:42+00:00
+161774,AR,"Strong City Council Ward 1 Pos 1, Union County",2026-11-03,99.9,,False,2,1,125,2026-11-18T12:42+00:00
+161922,AR,Ashley County Sheriff,2026-11-03,99.9,,False,2,1,5168,2026-11-18T12:42+00:00
+161381,AR,"Board of Directors Zone 1 Dardanelle ISD (Conway, Logan & Yell Counties)",2026-11-03,99.9,,False,2,3,2145,2026-11-18T12:42+00:00
+161032,AR,"City of Banks, Mayor, Bradley County",2026-11-03,99.9,,False,1,1,28,2026-11-18T12:42+00:00
+162091,AR,Faulkner County Justice of the Peace District 10,2026-11-03,99.9,,False,2,1,3175,2026-11-18T12:42+00:00
+150259,AR,Arkansas State House 33,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,2,6214,2026-11-18T12:42+00:00
+161090,AR,"Mayor, Town of Grannis, Polk County",2026-11-03,99.9,,False,1,1,92,2026-11-18T12:42+00:00
+161342,AR,"City of Texarkana Ward 4, Miller County",2026-11-03,99.9,,False,3,1,844,2026-11-18T12:42+00:00
+150317,AR,Arkansas State House 12,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,1,11151,2026-11-18T12:42+00:00
+162052,AR,Crittenden County Justice of the Peace District 11,2026-11-03,99.9,,False,2,1,964,2026-11-18T12:42+00:00
+161504,AR,"City of Alexander, C.M. Ward 4, Pos. 2 (Pulaski & Saline Counties)",2026-11-03,99.9,,False,3,2,585,2026-11-18T12:42+00:00
+161243,AR,"City of Monette, Mayor, Craighead County",2026-11-03,99.9,,False,1,1,287,2026-11-18T12:42+00:00
+161694,AR,"Bald Knob Council Member W-3 P-2, White County",2026-11-03,99.9,,False,2,1,614,2026-11-18T12:42+00:00
+161946,AR,Monroe County County Sheriff,2026-11-03,99.9,,False,2,1,2029,2026-11-18T12:42+00:00
+161405,AR,"HWH-Alderman-Ward 3 Position 2-At Large, Phillips County",2026-11-03,99.9,,False,2,1,2159,2026-11-18T12:42+00:00
+161856,AR,Pike County Circuit Clerk,2026-11-03,99.9,,False,1,1,2677,2026-11-18T12:42+00:00
+161396,AR,"Charleston City Mayor, Franklin County",2026-11-03,99.9,,False,2,1,671,2026-11-18T12:42+00:00
+161047,AR,"City of Cushman Mayor, Independence County",2026-11-03,99.9,,False,1,1,121,2026-11-18T12:42+00:00
+161907,AR,Jefferson County Circuit Clerk,2026-11-03,99.9,,False,1,1,14078,2026-11-18T12:42+00:00
+161558,AR,"City of Guy, Mayor, Faulkner County",2026-11-03,99.9,,False,2,1,321,2026-11-18T12:42+00:00
+162009,AR,St. Francis County County Clerk,2026-11-03,99.9,,False,2,1,4693,2026-11-18T12:42+00:00
+161357,AR,"Nashville Alderman Ward 5 Position 2, Howard County",2026-11-03,99.9,,False,2,1,140,2026-11-18T12:42+00:00
+162000,AR,Mississippi County Justice of the Peace District 6,2026-11-03,99.9,,False,2,1,542,2026-11-18T12:42+00:00
+162067,AR,Faulkner County Justice of the Peace District 6,2026-11-03,99.9,,False,2,1,2247,2026-11-18T12:42+00:00
+161711,AR,"Eudora City Council Member Ward 2 Position 2, Chicot County",2026-11-03,99.9,,False,2,1,116,2026-11-18T12:42+00:00
+161170,AR,"Mayor City of Greenway, Clay County",2026-11-03,99.9,,False,1,1,36,2026-11-18T12:42+00:00
+161429,AR,"Stamps Ward 3 Position 1, Lafayette County",2026-11-03,99.9,,False,2,1,395,2026-11-18T12:42+00:00
+161161,AR,"Star City Alderman Ward 1 Position 1, Lincoln County",2026-11-03,99.9,,False,1,1,439,2026-11-18T12:42+00:00
+161039,AR,"Mayor City of Belleville, Yell County",2026-11-03,99.9,,False,1,1,68,2026-11-18T12:42+00:00
+161298,AR,"Mayor of Gould, Lincoln County",2026-11-03,99.9,,False,5,1,191,2026-11-18T12:42+00:00
+161742,AR,"Osceola City Council Ward 3, Position 1, Mississippi County",2026-11-03,99.9,,False,2,1,563,2026-11-18T12:42+00:00
+162089,AR,Garland County Justice of the Peace District 4,2026-11-03,99.9,,False,2,1,2537,2026-11-18T12:42+00:00
+161349,AR,"HWH-Alderman-Ward 1 Position 2-At large, Phillips County",2026-11-03,99.9,,False,2,1,2138,2026-11-18T12:42+00:00
+161992,AR,Johnson County Justice of the Peace District 1,2026-11-03,99.9,,False,2,1,682,2026-11-18T12:42+00:00
+161259,AR,"Manila City Mayor, Mississippi County",2026-11-03,99.9,,False,1,1,509,2026-11-18T12:42+00:00
+150227,AR,Arkansas State House 3,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,2,2,10410,2026-11-18T12:42+00:00
+162050,AR,Jefferson County Justice of the Peace District 8,2026-11-03,99.9,,False,2,1,1137,2026-11-18T12:42+00:00
+161310,AR,"Greers Ferry Mayor, Cleburne County",2026-11-03,99.9,,False,2,1,415,2026-11-18T12:42+00:00
+161953,AR,Sevier County Justice of the Peace District 3,2026-11-03,99.9,,False,2,1,172,2026-11-18T12:42+00:00
+161220,AR,"Recorder City of Cave City, Sharp County",2026-11-03,99.9,,False,1,1,287,2026-11-18T12:42+00:00
+161863,AR,Sevier County Circuit Clerk,2026-11-03,99.9,,False,1,1,2508,2026-11-18T12:42+00:00
+161403,AR,Hardy Alderman Ward 2 Position 2 (Fulton & Sharp Counties),2026-11-03,99.9,,False,2,2,298,2026-11-18T12:42+00:00
+161662,AR,"Board of Directors, Ward 2 Siloam Springs Ward 2, Benton County",2026-11-03,99.9,,False,3,1,835,2026-11-18T12:42+00:00
+161914,AR,Sebastian County Circuit Clerk,2026-11-03,99.9,,False,1,1,26733,2026-11-18T12:42+00:00
+161373,AR,"HWH-Alderman-Ward 2 Position 1, Phillips County",2026-11-03,99.9,,False,2,1,785,2026-11-18T12:42+00:00
+161024,AR,"Mayor Norman Norman, Montgomery County",2026-11-03,99.9,,False,1,1,54,2026-11-18T12:42+00:00
+161364,AR,"City of Parkin, CC Ward 1, Pos. 2, Cross County",2026-11-03,99.9,,False,3,1,300,2026-11-18T12:42+00:00
+162007,AR,Drew County Quorum Court Justice of the Peace Pos #6,2026-11-03,99.9,,False,2,1,625,2026-11-18T12:42+00:00
+162074,AR,Saline County Justice of the Peace District 4,2026-11-03,99.9,,False,2,1,3832,2026-11-18T12:42+00:00
+161526,AR,Chicot County Annexation Vote,2026-11-03,99.9,,False,2,1,632,2026-11-18T12:42+00:00
+161177,AR,"Georgetown Mayor, White County",2026-11-03,99.9,,False,1,1,18,2026-11-18T12:42+00:00
+161325,AR,"Hope City Ward 1, Hempstead County",2026-11-03,99.9,,False,2,1,187,2026-11-18T12:42+00:00
+161168,AR,"City of Mountainburg, Mayor, Crawford County",2026-11-03,99.9,,False,1,1,147,2026-11-18T12:42+00:00
+161235,AR,"City of Jennette, Mayor, Crittenden County",2026-11-03,99.9,,False,1,1,36,2026-11-18T12:42+00:00
+150210,AR,Arkansas State House 29,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,2,2,7527,2026-11-18T12:42+00:00
+161138,AR,"Mayor of Hector, Pope County",2026-11-03,99.9,,False,1,1,114,2026-11-18T12:42+00:00
+161589,AR,"Jefferson County City of Redfield, Question",2026-11-03,99.9,,False,2,1,488,2026-11-18T12:42+00:00
+161129,AR,"City of Crawfordsville, Mayor, Crittenden County",2026-11-03,99.9,,False,1,1,183,2026-11-18T12:42+00:00
+161388,AR,Hardy Alderman Ward 2 Position 1 (Fulton & Sharp Counties),2026-11-03,99.9,,False,2,2,300,2026-11-18T12:42+00:00
+161266,AR,"City Mayor Prairie Grove, Washington County",2026-11-03,99.9,,False,1,1,2409,2026-11-18T12:42+00:00
+161710,AR,"El Dorado City Council Ward 2 Position 1, Union County",2026-11-03,99.9,,False,2,1,1336,2026-11-18T12:42+00:00
+161257,AR,"City of Wooster, Mayor, Faulkner County",2026-11-03,99.9,,False,1,1,380,2026-11-18T12:42+00:00
+161317,AR,"Bald Knob Mayor, White County",2026-11-03,99.9,,False,3,1,627,2026-11-18T12:42+00:00
+161160,AR,"Recorder/Treasurer City of Datto, Clay County",2026-11-03,99.9,,False,1,1,26,2026-11-18T12:42+00:00
+161419,AR,"Camden Alderman Ward 1, Position 1, Ouachita County",2026-11-03,99.9,,False,2,1,844,2026-11-18T12:42+00:00
+161870,AR,Crawford County Circuit Clerk,2026-11-03,99.9,,False,1,1,14359,2026-11-18T12:42+00:00
+161218,AR,"Mayor, City of Rockport, Hot Spring County",2026-11-03,99.9,,False,1,1,182,2026-11-18T12:42+00:00
+161477,AR,"Pottsville City Clerk/Treasurer, Pope County",2026-11-03,99.9,,False,2,1,825,2026-11-18T12:42+00:00
+161921,AR,Woodruff County Sheriff,2026-11-03,99.9,,False,2,1,1808,2026-11-18T12:42+00:00
+161380,AR,"Bearden Alderman Ward 1 Position 2, Ouachita County",2026-11-03,99.9,,False,2,1,199,2026-11-18T12:42+00:00
+161031,AR,"City of Alpena, Mayor (Boone & Carroll Counties)",2026-11-03,99.9,,False,1,2,51,2026-11-18T12:42+00:00
+161371,AR,Hardy Alderman Ward 1 Position 1 (Fulton & Sharp Counties),2026-11-03,99.9,,False,2,2,303,2026-11-18T12:42+00:00
+161822,AR,"City Council Member Ward 3 Pos. 1 Goshen, Washington County",2026-11-03,99.9,,False,2,1,974,2026-11-18T12:42+00:00
+161089,AR,"Mayor of Jacksonport, Jackson County",2026-11-03,99.9,,False,1,1,39,2026-11-18T12:42+00:00
+161341,AR,"City of Parkin, Mayor, Cross County",2026-11-03,99.9,,False,3,1,291,2026-11-18T12:42+00:00
+161984,AR,Poinsett County County Judge,2026-11-03,99.9,,False,3,1,5157,2026-11-18T12:42+00:00
+161332,AR,"Mayor of El Dorado, Union County",2026-11-03,99.9,,False,3,1,4538,2026-11-18T12:42+00:00
+161175,AR,"Portia Mayor, Lawrence County",2026-11-03,99.9,,False,1,1,106,2026-11-18T12:42+00:00
+161242,AR,"Mayor City of Waldenburg, Poinsett County",2026-11-03,99.9,,False,1,1,6,2026-11-18T12:42+00:00
+161693,AR,"Hoxie City Council Ward 2 Position 1, Lawrence County",2026-11-03,99.9,,False,2,1,429,2026-11-18T12:42+00:00
+161145,AR,"City of Colt, Mayor, St. Francis County",2026-11-03,99.9,,False,1,1,83,2026-11-18T12:42+00:00
+161684,AR,"Bull Shoals Council - Ward 1 Pos 1, Marion County",2026-11-03,99.9,,False,2,1,707,2026-11-18T12:42+00:00
+161136,AR,"Imboden Mayor, Lawrence County",2026-11-03,99.9,,False,1,1,100,2026-11-18T12:42+00:00
+161395,AR,"Stamps Ward 2 Position 1, Lafayette County",2026-11-03,99.9,,False,2,1,387,2026-11-18T12:42+00:00
+161846,AR,"Council Member Ward 1, Position 1 Rogers, Benton County",2026-11-03,99.9,,False,3,1,15868,2026-11-18T12:42+00:00
+161106,AR,"Scranton Mayor, Logan County",2026-11-03,99.9,,False,1,1,55,2026-11-18T12:42+00:00
+161557,AR,"City of Benton, C.M. Ward 3, Pos. 1, Saline County",2026-11-03,99.9,,False,3,1,2335,2026-11-18T12:42+00:00
+161296,AR,"Lake Village City Clerk, Chicot County",2026-11-03,99.9,,False,3,1,948,2026-11-18T12:42+00:00
+161356,AR,"Morrilton Mayor, Conway County",2026-11-03,99.9,,False,3,1,1988,2026-11-18T12:42+00:00
+161999,AR,Franklin County Justice of the Peace District 5,2026-11-03,99.9,,False,2,1,555,2026-11-18T12:42+00:00
+150209,AR,Arkansas State House 32,2026-11-03,99.9,2026-11-12T01:54:12.309Z,False,2,1,6990,2026-11-18T12:42+00:00
+161417,AR,"Winthrop City Mayor, Little River County",2026-11-03,99.9,,False,2,1,34,2026-11-18T12:42+00:00
+161676,AR,"Flippin City Council, Ward 2 Pos 2, Marion County",2026-11-03,99.9,,False,2,1,300,2026-11-18T12:42+00:00
+161128,AR,"City of Altheimer, Mayor, Jefferson County",2026-11-03,99.9,,False,1,1,172,2026-11-18T12:42+00:00
+161579,AR,"City of Haskell, Mayor, Saline County",2026-11-03,99.9,,False,3,1,978,2026-11-18T12:42+00:00
+161038,AR,"Mayor Big Flat, Baxter County",2026-11-03,99.9,,False,1,1,23,2026-11-18T12:42+00:00
+161378,AR,"Morrilton City Clerk / Treasurer, Conway County",2026-11-03,99.9,,False,2,1,1917,2026-11-18T12:42+00:00
+161637,AR,"City Attorney Bentonville, Benton County",2026-11-03,99.9,,False,2,1,12437,2026-11-18T12:42+00:00
+162088,AR,Sebastian County Justice of the Peace Disctrict 7,2026-11-03,99.9,,False,2,1,2555,2026-11-18T12:42+00:00
+161348,AR,"HSB W2 P1, Izard County",2026-11-03,99.9,,False,2,1,199,2026-11-18T12:42+00:00
+161191,AR,"Mayor of Rondo, Lee County",2026-11-03,99.9,,False,1,1,51,2026-11-18T12:42+00:00
+161339,AR,"City of Casa, Mayor, Perry County",2026-11-03,99.9,,False,2,1,36,2026-11-18T12:42+00:00
+150314,AR,Arkansas State House 27,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,5,9294,2026-11-18T12:42+00:00
+162049,AR,Hot Spring County Justice of the Peace District 7,2026-11-03,99.9,,False,2,1,717,2026-11-18T12:42+00:00
+161309,AR,"Des Arc Alderman Ward 3 Position 2, Prairie County",2026-11-03,99.9,,False,2,1,526,2026-11-18T12:42+00:00
+161952,AR,Chicot County Justice of the Peace District 2,2026-11-03,99.9,,False,2,1,280,2026-11-18T12:42+00:00
+161691,AR,"Clinton City Council Ward 1 Position 2, Van Buren County",2026-11-03,99.9,,False,2,1,698,2026-11-18T12:42+00:00
+161143,AR,"Town of Ravenden Springs, Mayor, Randolph County",2026-11-03,99.9,,False,1,1,22,2026-11-18T12:42+00:00
+161402,AR,"Hamburg Ward 3 Position 1, Ashley County",2026-11-03,99.9,,False,2,1,265,2026-11-18T12:42+00:00
+161661,AR,"Board of Directors, Ward 1 Siloam Springs Ward 1, Benton County",2026-11-03,99.9,,False,3,1,1072,2026-11-18T12:42+00:00
+161113,AR,"Hamburg Mayor, Ashley County",2026-11-03,99.9,,False,1,1,536,2026-11-18T12:42+00:00
+161652,AR,Benton County City of Little Flock Special Election,2026-11-03,99.9,,False,2,1,972,2026-11-18T12:42+00:00
+161104,AR,"Mayor of Newport, Jackson County",2026-11-03,99.9,,False,1,1,1071,2026-11-18T12:42+00:00
+161363,AR,Perry County City of Casa Sales Tax Levy,2026-11-03,99.9,,False,2,1,37,2026-11-18T12:42+00:00
+161014,AR,"Mayor City of Rison, Cleveland County",2026-11-03,99.9,,False,1,1,252,2026-11-18T12:42+00:00
+161273,AR,"Mayor Little Flock, Benton County",2026-11-03,99.9,,False,1,1,784,2026-11-18T12:42+00:00
+161525,AR,"Strawberry Mayor, Lawrence County",2026-11-03,99.9,,False,2,1,77,2026-11-18T12:42+00:00
+161264,AR,"Mayor Cave Springs, Benton County",2026-11-03,99.9,,False,1,1,1948,2026-11-18T12:42+00:00
+161324,AR,"Evening Shade Alderman Position 2, Sharp County",2026-11-03,99.9,,False,2,1,111,2026-11-18T12:42+00:00
+161167,AR,City of Cave City Mayor (Independence & Sharp Counties),2026-11-03,99.9,,False,1,2,360,2026-11-18T12:42+00:00
+161426,AR,"Lafe Mayor, Greene County",2026-11-03,99.9,,False,2,1,81,2026-11-18T12:42+00:00
+161644,AR,"Mayor Centerton, Benton County",2026-11-03,99.9,,False,2,1,6217,2026-11-18T12:42+00:00
+161295,AR,"Helena-West Helena Mayor, Phillips County",2026-11-03,99.9,,False,8,1,2264,2026-11-18T12:42+00:00
+161547,AR,"Crawford County City of Alma, Special Election",2026-11-03,99.9,,False,2,1,1239,2026-11-18T12:42+00:00
+161998,AR,Scott County Justice of the Peace District 5,2026-11-03,99.9,,False,2,1,299,2026-11-18T12:42+00:00
+161346,AR,"Heber Springs Mayor, Cleburne County",2026-11-03,99.9,,False,2,1,2282,2026-11-18T12:42+00:00
+161797,AR,"Council Member Ward 1 Position 1 City of Weiner, Poinsett County",2026-11-03,99.9,,False,2,1,192,2026-11-18T12:42+00:00
+161256,AR,"City of Traskwood, Mayor, Saline County",2026-11-03,99.9,,False,1,1,142,2026-11-18T12:42+00:00
+161316,AR,"Augusta Aldermen Ward 3 Position 2, Woodruff County",2026-11-03,99.9,,False,2,1,560,2026-11-18T12:42+00:00
+162151,AR,Franklin County System Improvement Bonds and Replacement Tax,2026-11-03,99.9,,False,2,1,806,2026-11-18T12:42+00:00
+161307,AR,"City of Texarkana Mayor, Miller County",2026-11-03,99.9,,False,2,1,6593,2026-11-18T12:42+00:00
+150282,AR,Arkansas State House 38,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,3,7052,2026-11-18T12:42+00:00
+161217,AR,"Mayor Calico Rock, Izard County",2026-11-03,99.9,,False,1,1,226,2026-11-18T12:42+00:00
+161476,AR,"Portland City Treasurer, Ashley County",2026-11-03,99.9,,False,2,1,130,2026-11-18T12:42+00:00
+161920,AR,Washington County Circuit Clerk,2026-11-03,99.9,,False,1,1,48421,2026-11-18T12:42+00:00
+161659,AR,Benton County City of Rogers Police Improvement Bonds,2026-11-03,99.9,,False,2,1,19599,2026-11-18T12:42+00:00
+161111,AR,"City of Fouke Mayor, Miller County",2026-11-03,99.9,,False,1,1,120,2026-11-18T12:42+00:00
+161370,AR,"Gurdon Mayor, Clark County",2026-11-03,99.9,,False,2,1,382,2026-11-18T12:42+00:00
+161821,AR,"City Council Member Ward 2 Pos. 1 Goshen, Washington County",2026-11-03,99.9,,False,2,1,987,2026-11-18T12:42+00:00
+162080,AR,Garland County Justice of the Peace District 3,2026-11-03,99.9,,False,2,1,1682,2026-11-18T12:42+00:00
+161812,AR,"Jacksonville Council Member Ward 5 Position 1, Pulaski County",2026-11-03,99.9,,False,2,1,5801,2026-11-18T12:42+00:00
+161271,AR,"Mayor Garfield, Benton County",2026-11-03,99.9,,False,1,1,203,2026-11-18T12:42+00:00
+161331,AR,"Mayor City of Horatio, Sevier County",2026-11-03,99.9,,False,2,1,155,2026-11-18T12:42+00:00
+161974,AR,Sevier County Justice of the Peace District 8,2026-11-03,99.9,,False,2,1,442,2026-11-18T12:42+00:00
+161433,AR,"Hsb, Izard County",2026-11-03,99.9,,False,2,1,306,2026-11-18T12:42+00:00
+161424,AR,Hardy Alderman Ward 3 Position 1 (Fulton & Sharp Counties),2026-11-03,99.9,,False,2,2,289,2026-11-18T12:42+00:00
+161683,AR,"Sheridan City Council Ward 2 Position 2, Grant County",2026-11-03,99.9,,False,2,1,1169,2026-11-18T12:42+00:00
+161135,AR,"City of Willisville, Mayor, Nevada County",2026-11-03,99.9,,False,1,1,47,2026-11-18T12:42+00:00
+161586,AR,"Pangburn Mayor, White County",2026-11-03,99.9,,False,2,1,176,2026-11-18T12:42+00:00
+161845,AR,"Council Member Ward 1, Position 2 Pea Ridge, Benton County",2026-11-03,99.9,,False,2,1,2632,2026-11-18T12:42+00:00
+161577,AR,"Fort Smith Director-at-Large Position 6 Fort Smith, Sebastian County",2026-11-03,99.9,,False,3,1,17590,2026-11-18T12:42+00:00
+161804,AR,"Jacksonville Council Member Ward 1 Position 1, Pulaski County",2026-11-03,99.9,,False,4,1,6115,2026-11-18T12:42+00:00
+161263,AR,"City Mayor Johnson, Washington County",2026-11-03,99.9,,False,1,1,1068,2026-11-18T12:42+00:00
+161515,AR,"City of Bauxite, Mayor, Saline County",2026-11-03,99.9,,False,2,1,278,2026-11-18T12:42+00:00
+161166,AR,"Branch City Mayor, Franklin County",2026-11-03,99.9,,False,1,1,80,2026-11-18T12:42+00:00
+161314,AR,"Mayor of Tuckerman, Jackson County",2026-11-03,99.9,,False,4,1,439,2026-11-18T12:42+00:00
+150289,AR,Arkansas State House 18,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,2,8011,2026-11-18T12:42+00:00
+161416,AR,"Stamps Ward 2 Position 2, Lafayette County",2026-11-03,99.9,,False,2,1,397,2026-11-18T12:42+00:00
+161675,AR,"Council Member South Ward Position 2 City of Piggott, Clay County",2026-11-03,99.9,,False,2,1,905,2026-11-18T12:42+00:00
+162119,AR,Pulaski County Justice of the Peace District 3,2026-11-03,99.9,,False,2,1,10390,2026-11-18T12:42+00:00
+161474,AR,"Mayor Bonanza, Sebastian County",2026-11-03,99.9,,False,2,1,190,2026-11-18T12:42+00:00
+150250,AR,Arkansas State House 78,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,2,10290,2026-11-18T12:42+00:00
+161377,AR,"McCrory Aldermen Ward 1 Position 2, Woodruff County",2026-11-03,99.9,,False,3,1,389,2026-11-18T12:42+00:00
+161636,AR,"Little Rock City Director Ward 6, Pulaski County",2026-11-03,99.9,,False,2,1,6854,2026-11-18T12:42+00:00
+162087,AR,Lonoke County Constable Crooked Creek TWP,2026-11-03,99.9,,False,2,1,206,2026-11-18T12:42+00:00
+161819,AR,"City Council Member Ward 1 Pos. 1 Goshen, Washington County",2026-11-03,99.9,,False,2,1,1021,2026-11-18T12:42+00:00
+161086,AR,"Mayor - DeValls Bluff, Prairie County",2026-11-03,99.9,,False,1,1,86,2026-11-18T12:42+00:00
+161338,AR,"Caddo Valley Mayor, Clark County",2026-11-03,99.9,,False,2,1,167,2026-11-18T12:42+00:00
+150313,AR,Arkansas State House 90,2026-11-03,99.9,2026-11-04T07:09:42.042Z,False,1,3,7035,2026-11-18T12:42+00:00
+161248,AR,"Rose Bud Mayor, White County",2026-11-03,99.9,,False,1,1,132,2026-11-18T12:42+00:00
+150304,AR,Arkansas State House 41,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,2,10182,2026-11-18T12:42+00:00
+161431,AR,"City of Crawfordsville, C.M., Pos. 5, Crittenden County",2026-11-03,99.9,,False,3,1,182,2026-11-18T12:42+00:00
+161690,AR,"Bald Knob Council Member W-2 P-1, White County",2026-11-03,99.9,,False,2,1,601,2026-11-18T12:42+00:00
+161942,AR,Carroll County County Judge,2026-11-03,99.9,,False,2,1,8593,2026-11-18T12:42+00:00
+161593,AR,"City of Shannon Hills, C.M. Ward 2, Pos. 2, Saline County",2026-11-03,99.9,,False,2,1,1017,2026-11-18T12:42+00:00
+150265,AR,Arkansas State House 4,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,2,8634,2026-11-18T12:42+00:00
+161584,AR,Hot Spring County Diamondhead City Annexation Special Diamondhead,2026-11-03,99.9,,False,2,1,173,2026-11-18T12:42+00:00
+161651,AR,"Mayor Gravette, Benton County",2026-11-03,99.9,,False,3,1,1177,2026-11-18T12:42+00:00
+161103,AR,"Mayor of DeWitt, Arkansas County",2026-11-03,99.9,,False,1,1,443,2026-11-18T12:42+00:00
+161554,AR,"Letona Clerk/Recorder/Treasurer Letona City, White County",2026-11-03,99.9,,False,2,1,83,2026-11-18T12:42+00:00
+161013,AR,"Mayor City of Plainview, Yell County",2026-11-03,99.9,,False,1,1,96,2026-11-18T12:42+00:00
+161545,AR,Conway County Menifee Annexation,2026-11-03,99.9,,False,2,1,126,2026-11-18T12:42+00:00
+161423,AR,"Dermott City Clerk, Chicot County",2026-11-03,99.9,,False,3,1,560,2026-11-18T12:42+00:00
+150206,AR,Arkansas State House 61,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,2,5,7590,2026-11-18T12:42+00:00
+161134,AR,"City of Tillar Recorder/Treasurer, Drew County",2026-11-03,99.9,,False,1,1,40,2026-11-18T12:42+00:00
+161673,AR,"Flippin City Council, Ward 1 Pos 1, Marion County",2026-11-03,99.9,,False,2,1,301,2026-11-18T12:42+00:00
+150257,AR,Arkansas State House 97,2026-11-03,99.9,2026-11-04T07:09:42.042Z,False,1,1,6861,2026-11-18T12:42+00:00
+161576,AR,"City of Widener, Alderman, Pos. 1, St. Francis County",2026-11-03,99.9,,False,2,1,67,2026-11-18T12:42+00:00
+161835,AR,"Sherwood Council Member Ward 2 Position 1, Pulaski County",2026-11-03,99.9,,False,2,1,2409,2026-11-18T12:42+00:00
+161294,AR,"Des Arc Alderman Ward 3 Position 1, Prairie County",2026-11-03,99.9,,False,2,1,532,2026-11-18T12:42+00:00
+161634,AR,"Sebastian County An Ordinance Calling a Special Election in the Town of Central City, Arkansas on the Question of...",2026-11-03,99.9,,False,2,1,160,2026-11-18T12:42+00:00
+161893,AR,Miller County Circuit Clerk,2026-11-03,99.9,,False,1,1,9236,2026-11-18T12:42+00:00
+161345,AR,"Fountain Hill Mayor, Ashley County",2026-11-03,99.9,,False,4,1,43,2026-11-18T12:42+00:00
+161796,AR,"Lonoke City Council Ward 2, Lonoke County",2026-11-03,99.9,,False,2,1,165,2026-11-18T12:42+00:00
+161255,AR,"City Mayor Elkins, Washington County",2026-11-03,99.9,,False,1,1,1089,2026-11-18T12:42+00:00
+150311,AR,Arkansas State Senate 24,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,1,6,25925,2026-11-18T12:42+00:00
+162046,AR,Pope County Constable District 3,2026-11-03,99.9,,False,2,1,1332,2026-11-18T12:42+00:00
+161306,AR,"City of Pocahontas, C.M. Ward 2, Pos. 1, Randolph County",2026-11-03,99.9,,False,2,1,1266,2026-11-18T12:42+00:00
+150281,AR,Arkansas State Senate 21,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,1,4,17785,2026-11-18T12:42+00:00
+161408,AR,"Mayor City of Dermott, Chicot County",2026-11-03,99.9,,False,4,1,559,2026-11-18T12:42+00:00
+150272,AR,Arkansas State House 94,2026-11-03,99.9,2026-11-04T07:09:42.042Z,False,1,3,6130,2026-11-18T12:42+00:00
+161591,AR,"Bonanza Alderman Ward 3 Position 1 Bonanza, Sebastian County",2026-11-03,99.9,,False,2,1,181,2026-11-18T12:42+00:00
+161658,AR,Benton County City of Rogers Park and Recreational Improvement Bonds,2026-11-03,99.9,,False,2,1,19543,2026-11-18T12:42+00:00
+161910,AR,Poinsett County County Circuit Clerk,2026-11-03,99.9,,False,1,1,4687,2026-11-18T12:42+00:00
+161561,AR,HSB Poultry Initiative (Fulton & Izard Counties),2026-11-03,99.9,,False,2,2,869,2026-11-18T12:42+00:00
+150233,AR,Arkansas State Senate 31,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,1,12989,2026-11-18T12:42+00:00
+161552,AR,"City of Palestine, Alderman Ward 1, Pos. 2, St. Francis County",2026-11-03,99.9,,False,2,1,142,2026-11-18T12:42+00:00
+161811,AR,"City Council Member Ward 1 Pos. 2 Farmington, Washington County",2026-11-03,99.9,,False,2,1,2879,2026-11-18T12:42+00:00
+162070,AR,Washington County Justice of the Peace District 5,2026-11-03,99.9,,False,2,1,4489,2026-11-18T12:42+00:00
+161522,AR,"Marvell-Alderman-Ward 1 Position 2, Phillips County",2026-11-03,99.9,,False,2,1,252,2026-11-18T12:42+00:00
+161973,AR,Izard County Justice of the Peace District 5,2026-11-03,99.9,,False,2,1,477,2026-11-18T12:42+00:00
+161513,AR,"Mitchellville Mayor, Desha County",2026-11-03,99.9,,False,2,1,75,2026-11-18T12:42+00:00
+150296,AR,Arkansas State House 17,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,1,6837,2026-11-18T12:42+00:00
+161842,AR,"Council Member Ward 1, Position 2 Lowell, Benton County",2026-11-03,99.9,,False,2,1,2955,2026-11-18T12:42+00:00
+162101,AR,Desha County Justice of the Peace District 9,2026-11-03,99.9,,False,2,1,322,2026-11-18T12:42+00:00
+161833,AR,"Sherwood Council Member Ward 1 Position 1, Pulaski County",2026-11-03,99.9,,False,2,1,2991,2026-11-18T12:42+00:00
+161100,AR,"Mayor - Knoxville, Johnson County",2026-11-03,99.9,,False,1,1,139,2026-11-18T12:42+00:00
+161544,AR,"Mayor Huntington, Sebastian County",2026-11-03,99.9,,False,2,1,128,2026-11-18T12:42+00:00
+161003,AR,"Wilmot Mayor, Ashley County",2026-11-03,99.9,,False,1,1,101,2026-11-18T12:42+00:00
+161262,AR,"City Mayor Goshen, Washington County",2026-11-03,99.9,,False,1,1,1003,2026-11-18T12:42+00:00
+161794,AR,"Letona Council Member Po. 4, White County",2026-11-03,99.9,,False,2,1,83,2026-11-18T12:42+00:00
+161061,AR,"Washington Mayor, Hempstead County",2026-11-03,99.9,,False,1,1,45,2026-11-18T12:42+00:00
+161313,AR,"Mayor of Murfreesboro, Pike County",2026-11-03,99.9,,False,2,1,385,2026-11-18T12:42+00:00
+150288,AR,Arkansas State House 82,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,1,6433,2026-11-18T12:42+00:00
+161415,AR,"Paragould Mayor, Greene County",2026-11-03,99.9,,False,3,1,6300,2026-11-18T12:42+00:00
+150279,AR,Arkansas State House 84,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,1,5984,2026-11-18T12:42+00:00
+161214,AR,"Mayor Town of Louann, Ouachita County",2026-11-03,99.9,,False,1,1,34,2026-11-18T12:42+00:00
+161473,AR,"Elaine-Mayor, Phillips County",2026-11-03,99.9,,False,4,1,154,2026-11-18T12:42+00:00
+150249,AR,Arkansas State Senate 10,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,1,9,17700,2026-11-18T12:42+00:00
+161376,AR,"Mayor Salesville, Baxter County",2026-11-03,99.9,,False,2,1,140,2026-11-18T12:42+00:00
+150240,AR,Arkansas State House 81,2026-11-03,99.9,2026-11-12T01:54:12.309Z,False,2,1,9086,2026-11-18T12:42+00:00
+161559,AR,"City of Jonesboro, Alderman Ward 5, Pos. 1, Craighead County",2026-11-03,99.9,,False,4,1,2672,2026-11-18T12:42+00:00
+161818,AR,"Council Member Ward 2, Position 2 Bella Vista, Benton County",2026-11-03,99.9,,False,4,1,12831,2026-11-18T12:42+00:00
+161085,AR,"Mayor City of Lockesburg, Sevier County",2026-11-03,99.9,,False,1,1,125,2026-11-18T12:42+00:00
+161529,AR,"City of Greenbrier, Mayor, Faulkner County",2026-11-03,99.9,,False,3,1,1753,2026-11-18T12:42+00:00
+161076,AR,"City of Alma, Mayor, Crawford County",2026-11-03,99.9,,False,1,1,1187,2026-11-18T12:42+00:00
+161520,AR,"Gosnell City Mayor, Mississippi County",2026-11-03,99.9,,False,3,1,504,2026-11-18T12:42+00:00
+150303,AR,Arkansas State House 6,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,2,7250,2026-11-18T12:42+00:00
+161238,AR,"Mayor of Norphlet, Union County",2026-11-03,99.9,,False,1,1,205,2026-11-18T12:42+00:00
+150213,AR,Arkansas State House 16,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,2,1,12562,2026-11-18T12:42+00:00
+161941,AR,Miller County County Judge,2026-11-03,99.9,,False,2,1,10706,2026-11-18T12:42+00:00
+150204,AR,Arkansas State Senate 14,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,2,1,34143,2026-11-18T12:42+00:00
+150264,AR,Arkansas State House 99,2026-11-03,99.9,2026-11-04T07:09:42.042Z,False,1,3,7203,2026-11-18T12:42+00:00
+161583,AR,"City of Widener, Alderman, Pos. 2, St. Francis County",2026-11-03,99.9,,False,2,1,68,2026-11-18T12:42+00:00
+162069,AR,Garland County Justice of the Peace District 2,2026-11-03,99.9,,False,2,1,1358,2026-11-18T12:42+00:00
+161001,AR,City of Fairfield Bay Mayor (Cleburne & Van Buren Counties),2026-11-03,99.9,,False,1,2,767,2026-11-18T12:42+00:00
+161068,AR,"Mayor Lakeview, Baxter County",2026-11-03,99.9,,False,1,1,332,2026-11-18T12:42+00:00
+161512,AR,"Mayor Central City, Sebastian County",2026-11-03,99.9,,False,2,1,161,2026-11-18T12:42+00:00
+161963,AR,Arkansas County County Judge,2026-11-03,99.9,,False,2,1,4001,2026-11-18T12:42+00:00
+161422,AR,"City of Wynne, Mayor, Cross County",2026-11-03,99.9,,False,4,1,1969,2026-11-18T12:42+00:00
+150286,AR,Arkansas State Senate 35,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,2,20875,2026-11-18T12:42+00:00
+162021,AR,Scott County Justice of the Peace District 6,2026-11-03,99.9,,False,2,1,356,2026-11-18T12:42+00:00
+161672,AR,"Rondo City Council Position 2, Lee County",2026-11-03,99.9,,False,1,1,99,2026-11-18T12:42+00:00
+150256,AR,Arkansas State House 64,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,3,6635,2026-11-18T12:42+00:00
+161767,AR,"Council Member North Ward Position 2 City of Corning, Clay County",2026-11-03,99.9,,False,2,1,725,2026-11-18T12:42+00:00
+150247,AR,Arkansas Circuit Judge District 2 Division 4 At Large,2026-11-03,99.9,,False,2,6,57221,2026-11-18T12:42+00:00
+162174,AR,"Fountain Lake S.D., Board of Directors Pos. 5, Saline County",2026-11-03,0,,False,2,1,0,2026-11-18T12:42+00:00
+161633,AR,"Little Rock City Director Ward 2, Pulaski County",2026-11-03,99.9,,False,5,1,4280,2026-11-18T12:42+00:00
+161892,AR,Drew County Circuit Clerk,2026-11-03,99.9,,False,1,1,4553,2026-11-18T12:42+00:00
+161344,AR,"El Dorado City Attorney, Union County",2026-11-03,99.9,,False,2,1,4508,2026-11-18T12:42+00:00
+161083,AR,"Mayor City of Danville, Yell County",2026-11-03,99.9,,False,1,1,218,2026-11-18T12:42+00:00
+161527,AR,"City of Benton, Mayor, Saline County",2026-11-03,99.9,,False,3,1,10280,2026-11-18T12:42+00:00
+150310,AR,Arkansas State House 89,2026-11-03,99.9,2026-11-04T07:09:42.042Z,False,1,5,7073,2026-11-18T12:42+00:00
+162045,AR,Garland County Sheriff,2026-11-03,99.9,,False,2,1,30316,2026-11-18T12:42+00:00
+161696,AR,"City Council Ward 2, Position 2 City of Danville, Yell County",2026-11-03,99.9,,False,2,1,230,2026-11-18T12:42+00:00
+162036,AR,Crawford County Justice of the Peace District 8,2026-11-03,99.9,,False,2,1,1003,2026-11-18T12:42+00:00
+150211,AR,Arkansas State House 11,2026-11-03,99.9,2026-11-12T01:54:12.309Z,False,2,2,6383,2026-11-18T12:42+00:00
+150271,AR,Arkansas State House 87,2026-11-03,99.9,2026-11-04T07:09:42.042Z,False,1,3,6258,2026-11-18T12:42+00:00
+161398,AR,"City of Harrison, CC Ward 2 Pos. 1, Boone County",2026-11-03,99.9,,False,2,1,3192,2026-11-18T12:42+00:00
+161849,AR,Perry County Circuit Clerk,2026-11-03,99.9,,False,1,1,2818,2026-11-18T12:42+00:00
+161909,AR,Faulkner County Circuit Clerk,2026-11-03,99.9,,False,1,1,32004,2026-11-18T12:42+00:00
+161840,AR,"Council Member Ward 1, Position 1 Gravette, Benton County",2026-11-03,99.9,,False,2,1,1042,2026-11-18T12:42+00:00
+150232,AR,Arkansas State House 39,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,3,5961,2026-11-18T12:42+00:00
+161551,AR,"Boone County City of Harrison, Local Sales and Use Tax",2026-11-03,99.9,,False,2,1,3627,2026-11-18T12:42+00:00
+161010,AR,"Mayor Mt Ida Mt Ida, Montgomery County",2026-11-03,99.9,,False,1,1,193,2026-11-18T12:42+00:00
+162028,AR,White County Sheriff,2026-11-03,99.9,,False,2,1,21910,2026-11-18T12:42+00:00
+150203,AR,Arkansas State House 48,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,2,2,6323,2026-11-18T12:42+00:00
+161931,AR,Little River County County Sheriff/Collector,2026-11-03,99.9,,False,2,1,3649,2026-11-18T12:42+00:00
+161582,AR,"Jefferson County City of Pine Bluff, Question",2026-11-03,99.9,,False,2,1,9287,2026-11-18T12:42+00:00
+150254,AR,Arkansas State House 93,2026-11-03,99.9,2026-11-04T07:09:42.042Z,False,1,4,7663,2026-11-18T12:42+00:00
+161189,AR,"Mayor City of Peach Orchard, Clay County",2026-11-03,99.9,,False,1,1,16,2026-11-18T12:42+00:00
+161832,AR,"Council Member Ward 4, Position 1 Springdale (Benton & Washington Counties)",2026-11-03,99.9,,False,3,2,15740,2026-11-18T12:42+00:00
+161099,AR,"Mayor City of Ben Lomond, Sevier County",2026-11-03,99.9,,False,1,1,43,2026-11-18T12:42+00:00
+161735,AR,"Shirley City Council Position 4, Van Buren County",2026-11-03,99.9,,False,2,1,85,2026-11-18T12:42+00:00
+161890,AR,Pope County Circuit Clerk,2026-11-03,99.9,,False,1,1,14586,2026-11-18T12:42+00:00
+162142,AR,Hempstead County Hospital Improvement Bonds,2026-11-03,99.9,,False,2,1,4026,2026-11-18T12:42+00:00
+161793,AR,"Council Member Ward 1 Position 2 City of Tyronza, Poinsett County",2026-11-03,99.9,,False,2,1,137,2026-11-18T12:42+00:00
+161060,AR,"Menifee Mayor, Conway County",2026-11-03,99.9,,False,1,1,108,2026-11-18T12:42+00:00
+161312,AR,"Mayor of Marianna, Lee County",2026-11-03,99.9,,False,3,1,984,2026-11-18T12:42+00:00
+162043,AR,Ouachita County Assessor,2026-11-03,99.9,,False,2,1,6389,2026-11-18T12:42+00:00
+161502,AR,"Mayor of Oak Grove, Carroll County",2026-11-03,99.9,,False,2,1,111,2026-11-18T12:42+00:00
+150278,AR,Arkansas State House 51,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,2,1,9907,2026-11-18T12:42+00:00
+161213,AR,"Mayor Guion, Izard County",2026-11-03,99.9,,False,1,1,13,2026-11-18T12:42+00:00
+161664,AR,"Board of Directors, Ward 4 Siloam Springs Ward 4, Benton County",2026-11-03,99.9,,False,2,1,845,2026-11-18T12:42+00:00
+161204,AR,"Star City Alderman Ward 3 Position 1, Lincoln County",2026-11-03,99.9,,False,1,1,445,2026-11-18T12:42+00:00
+161847,AR,St. Francis County Circuit Clerk,2026-11-03,99.9,,False,1,1,4059,2026-11-18T12:42+00:00
+150239,AR,Arkansas State House 13,2026-11-03,99.9,2026-11-12T01:54:12.309Z,False,2,1,8111,2026-11-18T12:42+00:00
+161366,AR,"City of Waldron, Mayor, Scott County",2026-11-03,99.9,,False,2,1,627,2026-11-18T12:42+00:00
+161017,AR,"City Clerk City of Piggott, Clay County",2026-11-03,99.9,,False,1,1,880,2026-11-18T12:42+00:00
+162157,AR,Carroll County SE Pine Mountain,2026-11-03,99.9,,False,2,1,950,2026-11-18T12:42+00:00
+161008,AR,"Mayor of Felsenthal, Union County",2026-11-03,99.9,,False,1,1,30,2026-11-18T12:42+00:00
+161075,AR,"Ashdown City Mayor, Little River County",2026-11-03,99.9,,False,1,1,1055,2026-11-18T12:42+00:00
+161519,AR,"City of Wabbaseka, C.M. Pos. 1, Jefferson County",2026-11-03,99.9,,False,2,1,78,2026-11-18T12:42+00:00
+161970,AR,Ashley County Justice of the Peace District #1,2026-11-03,99.9,,False,2,1,591,2026-11-18T12:42+00:00
+161237,AR,"Mayor City of Tyronza, Poinsett County",2026-11-03,99.9,,False,1,1,135,2026-11-18T12:42+00:00
+161961,AR,Washington County County Assessor,2026-11-03,99.9,,False,2,1,74953,2026-11-18T12:42+00:00
+161839,AR,"Council Member Ward 2, Position 2 Decatur, Benton County",2026-11-03,99.9,,False,2,1,262,2026-11-18T12:42+00:00
+162098,AR,Washington County Justice of the Peace District 10,2026-11-03,99.9,,False,2,1,6041,2026-11-18T12:42+00:00
+161550,AR,"City of Greenbrier, CM Ward Two, Pos. Two, Faulkner County",2026-11-03,99.9,,False,2,1,1661,2026-11-18T12:42+00:00
+161097,AR,"City of Rosston, Mayor, Nevada County",2026-11-03,99.9,,False,1,1,61,2026-11-18T12:42+00:00
+162149,AR,Franklin County Refunding Bonds and Replacement Tax,2026-11-03,99.9,,False,2,1,804,2026-11-18T12:42+00:00
+161000,AR,"Higden Mayor, Cleburne County",2026-11-03,99.9,,False,1,1,66,2026-11-18T12:42+00:00
+162059,AR,Garland County Justice of the Peace District 1,2026-11-03,99.9,,False,2,1,1912,2026-11-18T12:42+00:00
+161703,AR,"Marianna City Council Ward 2 Position 2, Lee County",2026-11-03,0,,False,2,1,0,2026-11-18T12:42+00:00
+161058,AR,"Mayor of Lewisville, Lafayette County",2026-11-03,99.9,,False,1,1,213,2026-11-18T12:42+00:00
+162110,AR,Garland County Justice of the Peace District 11,2026-11-03,99.9,,False,2,1,3246,2026-11-18T12:42+00:00
+150285,AR,Arkansas State House 43,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,2,8165,2026-11-18T12:42+00:00
+162020,AR,Union County Justice of the Peace District 6,2026-11-03,99.9,,False,2,1,940,2026-11-18T12:42+00:00
+161671,AR,"Gould City Council Ward 3 Position 1, Lincoln County",2026-11-03,99.9,,False,1,1,119,2026-11-18T12:42+00:00
+161211,AR,"Mayor Mount Pleasant, Izard County",2026-11-03,99.9,,False,1,1,71,2026-11-18T12:42+00:00
+161470,AR,"City of South Lead Hill, Alderman Pos. 3, Boone County",2026-11-03,99.9,,False,2,1,35,2026-11-18T12:42+00:00
+150246,AR,Arkansas State House 26,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,3,7477,2026-11-18T12:42+00:00
+162173,AR,"Conway PS, School Board Mem. Zone 3, Faulkner County",2026-11-03,99.9,,False,2,1,4001,2026-11-18T12:42+00:00
+161824,AR,"Council Member Ward 2, Position 1 Bentonville, Benton County",2026-11-03,99.9,,False,2,1,13322,2026-11-18T12:42+00:00
+162164,AR,Mississippi County Ordinance No. 2i07,2026-11-03,99.9,,False,2,1,2311,2026-11-18T12:42+00:00
+161015,AR,"Mayor Oden Oden, Montgomery County",2026-11-03,99.9,,False,1,1,69,2026-11-18T12:42+00:00
+161082,AR,"Mayor City of Bearden, Ouachita County",2026-11-03,99.9,,False,1,1,173,2026-11-18T12:42+00:00
+161334,AR,"Mayor of Stamps, Lafayette County",2026-11-03,99.9,,False,2,1,399,2026-11-18T12:42+00:00
+161977,AR,"Searcy County Justice of the Peace, District 9",2026-11-03,99.9,,False,2,1,234,2026-11-18T12:42+00:00
+162125,AR,"Benton County Justice of the Peace, District 8",2026-11-03,99.9,,False,2,1,6134,2026-11-18T12:42+00:00
+161968,AR,Lafayette County Justice of the Peace District 1,2026-11-03,99.9,,False,2,1,238,2026-11-18T12:42+00:00
+162035,AR,Jefferson County Justice of the Peace District 6,2026-11-03,99.9,,False,2,1,1594,2026-11-18T12:42+00:00
+161686,AR,"Clinton City Council Ward 1 Position 1, Van Buren County",2026-11-03,99.9,,False,3,1,721,2026-11-18T12:42+00:00
+161938,AR,Nevada County County Assessor,2026-11-03,99.9,,False,2,1,2032,2026-11-18T12:42+00:00
+161397,AR,"City of Caldwell, Mayor, St. Francis County",2026-11-03,99.9,,False,2,1,110,2026-11-18T12:42+00:00
+161929,AR,Lafayette County County Sheriff,2026-11-03,99.9,,False,2,1,1809,2026-11-18T12:42+00:00
+161196,AR,"City of Rudy, Mayor, Crawford County",2026-11-03,99.9,,False,1,1,18,2026-11-18T12:42+00:00
+162036,AR,Crawford County Justice of the Peace District 8,2026-11-03,99.9,,False,2,1,1003,2026-11-18T12:42+00:00
+161197,AR,"City of Valley Springs, Mayor, Boone County",2026-11-03,99.9,,False,1,1,29,2026-11-18T12:42+00:00
+161158,AR,"Mayor of Tollette, Howard County",2026-11-03,99.9,,False,1,1,313,2026-11-18T12:42+00:00
+161801,AR,"Lonoke City Council Ward 6, Lonoke County",2026-11-03,99.9,,False,2,1,128,2026-11-18T12:42+00:00
+161919,AR,Pulaski County Pulaski Circuit/County Clerk,2026-11-03,99.9,,False,1,1,103119,2026-11-18T12:42+00:00
+161762,AR,"Pottsville Council Ward 3 Position 1, Pope County",2026-11-03,99.9,,False,2,1,827,2026-11-18T12:42+00:00
+162072,AR,Jefferson County Justice of the Peace District 11,2026-11-03,99.9,,False,2,1,1529,2026-11-18T12:42+00:00
+161723,AR,"Brinkley City Council Ward 3 Position 1, Monroe County",2026-11-03,99.9,,False,2,1,254,2026-11-18T12:42+00:00
+161624,AR,"Craighead County City of Jonesboro, 0.625% Sales and Use Tax",2026-11-03,99.9,,False,2,1,17400,2026-11-18T12:42+00:00
+150208,AR,Arkansas State House 14,2026-11-03,99.9,2026-11-12T01:54:12.309Z,False,2,1,10219,2026-11-18T12:42+00:00
+161204,AR,"Star City Alderman Ward 3 Position 1, Lincoln County",2026-11-03,99.9,,False,1,1,445,2026-11-18T12:42+00:00
+162157,AR,Carroll County SE Pine Mountain,2026-11-03,99.9,,False,2,1,950,2026-11-18T12:42+00:00
+161126,AR,"Town of Pleasant Plains Mayor, Independence County",2026-11-03,99.9,,False,1,1,73,2026-11-18T12:42+00:00
+150293,AR,Arkansas State House 86,2026-11-03,99.9,2026-11-04T07:09:42.042Z,False,1,3,7771,2026-11-18T12:42+00:00
+161887,AR,Mississippi County Circuit Clerk,2026-11-03,99.9,,False,1,1,6038,2026-11-18T12:42+00:00
+161730,AR,"Council Member Ward 4 Position 1 City of Lepanto, Poinsett County",2026-11-03,99.9,,False,2,1,489,2026-11-18T12:42+00:00
+161247,AR,"Keiser City Mayor, Mississippi County",2026-11-03,99.9,,False,1,1,125,2026-11-18T12:42+00:00
+161691,AR,"Clinton City Council Ward 1 Position 2, Van Buren County",2026-11-03,99.9,,False,2,1,698,2026-11-18T12:42+00:00
+161784,AR,"Council Member Ward 3 Position 1 City of Trumann, Poinsett County",2026-11-03,99.9,,False,2,1,205,2026-11-18T12:42+00:00
+161051,AR,"Mayor City of De Queen, Sevier County",2026-11-03,99.9,,False,1,1,637,2026-11-18T12:42+00:00
+162125,AR,"Benton County Justice of the Peace, District 8",2026-11-03,99.9,,False,2,1,6134,2026-11-18T12:42+00:00
+161094,AR,"City of Anthonyville, Mayor, Crittenden County",2026-11-03,99.9,,False,1,1,33,2026-11-18T12:42+00:00
+150261,AR,Arkansas State House 5,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,1,8162,2026-11-18T12:42+00:00
+162054,AR,St. Francis County Justice of the Peace District 3,2026-11-03,99.9,,False,2,1,462,2026-11-18T12:42+00:00
+161698,AR,"El Dorado City Council Ward 1 Position 2, Union County",2026-11-03,99.9,,False,2,1,1248,2026-11-18T12:42+00:00
+161407,AR,"Mayor City of Datto, Clay County",2026-11-03,99.9,,False,2,1,31,2026-11-18T12:42+00:00
+161858,AR,Nevada County Circuit Clerk,2026-11-03,99.9,,False,1,1,1765,2026-11-18T12:42+00:00
+161752,AR,"City Council Ward 2, Pos. 2 Malvern, Hot Spring County",2026-11-03,99.9,,False,2,1,586,2026-11-18T12:42+00:00
+162011,AR,Lonoke County County Judge,2026-11-03,99.9,,False,2,1,22096,2026-11-18T12:42+00:00
+162164,AR,Mississippi County Ordinance No. 2i07,2026-11-03,99.9,,False,2,1,2311,2026-11-18T12:42+00:00
+162093,AR,Desha County Justice of the Peace District 8,2026-11-03,99.9,,False,2,1,355,2026-11-18T12:42+00:00
+161453,AR,"Lakeview-Alderman-Ward 1 Position 1, Phillips County",2026-11-03,99.9,,False,2,1,117,2026-11-18T12:42+00:00
+161222,AR,"City of Palestine, Mayor, St. Francis County",2026-11-03,99.9,,False,1,1,117,2026-11-18T12:42+00:00
+161666,AR,"Mayor Sulphur Springs, Benton County",2026-11-03,99.9,,False,4,1,118,2026-11-18T12:42+00:00
+161375,AR,"Mayor City of St. Francis, Clay County",2026-11-03,99.9,,False,2,1,72,2026-11-18T12:42+00:00
+161026,AR,"Mayor of Hampton, Calhoun County",2026-11-03,99.9,,False,1,1,243,2026-11-18T12:42+00:00
+161720,AR,"Council Member Ward 1 Position 1 City of Lepanto, Poinsett County",2026-11-03,99.9,,False,2,1,485,2026-11-18T12:42+00:00
+161179,AR,"Mayor City of Knobel, Clay County",2026-11-03,99.9,,False,1,1,15,2026-11-18T12:42+00:00
+162132,AR,Mississippi County Firefighting Improvement Bonds Ordinance 1,2026-11-03,99.9,,False,2,1,2337,2026-11-18T12:42+00:00
+161460,AR,"Portland Mayor, Ashley County",2026-11-03,99.9,,False,2,1,136,2026-11-18T12:42+00:00
+161613,AR,"City of West Memphis, C.M., Pos. Ward 4-1, Crittenden County",2026-11-03,99.9,,False,2,1,663,2026-11-18T12:42+00:00
+161574,AR,"City of Lake City, Alderman Ward 3, Pos. 2, Craighead County",2026-11-03,99.9,,False,2,1,648,2026-11-18T12:42+00:00
+162025,AR,Carroll County Justice of the Peace District 7,2026-11-03,99.9,,False,2,1,790,2026-11-18T12:42+00:00
+161343,AR,"Cotton Plant Mayor, Woodruff County",2026-11-03,99.9,,False,2,1,121,2026-11-18T12:42+00:00
+161986,AR,Jefferson County County Sheriff,2026-11-03,99.9,,False,2,1,16815,2026-11-18T12:42+00:00
+161688,AR,"Murfreesboro Council Member West Ward Position 1, Pike County",2026-11-03,99.9,,False,3,1,382,2026-11-18T12:42+00:00
+161147,AR,"City of Lead Hill, Mayor, Boone County",2026-11-03,99.9,,False,1,1,81,2026-11-18T12:42+00:00
+161048,AR,"City of Perry, Mayor, Perry County",2026-11-03,99.9,,False,1,1,58,2026-11-18T12:42+00:00
+162100,AR,Saline County Justice of the Peace District 9,2026-11-03,99.9,,False,2,1,2957,2026-11-18T12:42+00:00
+161620,AR,"City Attorney Fayetteville, Washington County",2026-11-03,99.9,,False,2,1,25172,2026-11-18T12:42+00:00
+161773,AR,"Kensett Council Member W-2 P-1, White County",2026-11-03,99.9,,False,2,1,342,2026-11-18T12:42+00:00
+161542,AR,"City Ward 2, Pos. 1 Rockport, Hot Spring County",2026-11-03,99.9,,False,2,1,111,2026-11-18T12:42+00:00
+161193,AR,"Powhatan Mayor, Lawrence County",2026-11-03,99.9,,False,1,1,59,2026-11-18T12:42+00:00
+161311,AR,"Helena-West Helena-City Treasurer, Phillips County",2026-11-03,99.9,,False,3,1,2218,2026-11-18T12:42+00:00
+161154,AR,"Mayor - Hartman, Johnson County",2026-11-03,99.9,,False,1,1,94,2026-11-18T12:42+00:00
+161663,AR,"Board of Directors, Ward 3 Siloam Springs Ward 3, Benton County",2026-11-03,99.9,,False,2,1,1049,2026-11-18T12:42+00:00
+161115,AR,"Mayor City of Gillham, Sevier County",2026-11-03,99.9,,False,1,1,31,2026-11-18T12:42+00:00
+162008,AR,St. Francis County Sheriff/Collector,2026-11-03,99.9,,False,3,1,4812,2026-11-18T12:42+00:00
+162068,AR,Greene County Constable-Bula Township,2026-11-03,99.9,,False,2,1,5596,2026-11-18T12:42+00:00
+161780,AR,"Strong City Council Ward 3 Pos 1, Union County",2026-11-03,99.9,,False,2,1,126,2026-11-18T12:42+00:00
+161741,AR,"Green Forest City Council Ward 1, Position 1, Carroll County",2026-11-03,99.9,,False,2,1,425,2026-11-18T12:42+00:00
+161510,AR,"Kensett Mayor, White County",2026-11-03,99.9,,False,2,1,365,2026-11-18T12:42+00:00
+162153,AR,Carroll County Water Improvement Bonds,2026-11-03,99.9,,False,2,1,962,2026-11-18T12:42+00:00
+161279,AR,"Mayor Springtown, Benton County",2026-11-03,99.9,,False,1,1,16,2026-11-18T12:42+00:00
+161122,AR,"Mayor of Weldon, Jackson County",2026-11-03,99.9,,False,1,1,8,2026-11-18T12:42+00:00
+161823,AR,"Council Member Ward 1, Position 1 Bentonville, Benton County",2026-11-03,99.9,,False,2,1,13516,2026-11-18T12:42+00:00
+161083,AR,"Mayor City of Danville, Yell County",2026-11-03,99.9,,False,1,1,218,2026-11-18T12:42+00:00
+161176,AR,"Star City Alderman Ward 1 Position 2, Lincoln County",2026-11-03,99.9,,False,1,1,442,2026-11-18T12:42+00:00
+161435,AR,"Mayor City of Chidester, Ouachita County",2026-11-03,99.9,,False,2,1,96,2026-11-18T12:42+00:00
+161709,AR,"Council Member North Ward Position 2 City of St. Francis, Clay County",2026-11-03,99.9,,False,2,1,73,2026-11-18T12:42+00:00
+161478,AR,"Stephens Alderman Ward 2 Position 2, Ouachita County",2026-11-03,99.9,,False,2,1,189,2026-11-18T12:42+00:00
+162121,AR,"Benton County Justice of the Peace, District 3",2026-11-03,99.9,,False,2,1,7010,2026-11-18T12:42+00:00
+161638,AR,"Little Rock City Director Ward 7, Pulaski County",2026-11-03,99.9,,False,3,1,7680,2026-11-18T12:42+00:00
+161090,AR,"Mayor, Town of Grannis, Polk County",2026-11-03,99.9,,False,1,1,92,2026-11-18T12:42+00:00
+150315,AR,Arkansas State House 47,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,1,8461,2026-11-18T12:42+00:00
+161250,AR,"Russell Mayor, White County",2026-11-03,99.9,,False,1,1,31,2026-11-18T12:42+00:00
+161144,AR,"Altus City Mayor, Franklin County",2026-11-03,99.9,,False,1,1,105,2026-11-18T12:42+00:00
+161595,AR,"City of Sunset, Mayor, Crittenden County",2026-11-03,99.9,,False,3,1,50,2026-11-18T12:42+00:00
+161748,AR,"Green Forest City Council Ward 2, Position 1, Carroll County",2026-11-03,99.9,,False,2,1,431,2026-11-18T12:42+00:00
+161677,AR,"Leslie City Council, Ward 1 Position 1, Searcy County",2026-11-03,99.9,,False,2,1,119,2026-11-18T12:42+00:00
+161037,AR,"Fulton Recorder/Treasurer, Hempstead County",2026-11-03,99.9,,False,1,1,39,2026-11-18T12:42+00:00
+161798,AR,"Lonoke City Council Ward 5, Lonoke County",2026-11-03,99.9,,False,2,1,139,2026-11-18T12:42+00:00
+161449,AR,"City of Pine Bluff, City Attorney, Jefferson County",2026-11-03,99.9,,False,2,1,9317,2026-11-18T12:42+00:00
+150283,AR,Arkansas State House 85,2026-11-03,99.9,2026-11-04T07:09:42.042Z,False,1,1,8011,2026-11-18T12:42+00:00
+161410,AR,"Mayor - Coal Hill, Johnson County",2026-11-03,99.9,,False,2,1,183,2026-11-18T12:42+00:00
+161112,AR,"Foreman City Mayor, Little River County",2026-11-03,99.9,,False,1,1,215,2026-11-18T12:42+00:00
+161563,AR,"City of Lake City, Mayor, Craighead County",2026-11-03,99.9,,False,3,1,673,2026-11-18T12:42+00:00
+161716,AR,"Position 5 Council Member Town of Fifty Six, Stone County",2026-11-03,99.9,,False,2,1,72,2026-11-18T12:42+00:00
+161044,AR,"Amity Mayor, Clark County",2026-11-03,99.9,,False,1,1,119,2026-11-18T12:42+00:00
+161997,AR,Lee County Justice of the Peace District 5,2026-11-03,99.9,,False,2,1,157,2026-11-18T12:42+00:00
+161958,AR,Woodruff County Augusta Constable,2026-11-03,99.9,,False,2,1,599,2026-11-18T12:42+00:00
+161609,AR,"Craighead County City of Brookland, Refunding Bonds",2026-11-03,99.9,,False,2,1,730,2026-11-18T12:42+00:00
+150251,AR,Arkansas State House 74,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,1,10050,2026-11-18T12:42+00:00
+161570,AR,"England City Mayor, Lonoke County",2026-11-03,99.9,,False,2,1,708,2026-11-18T12:42+00:00
+161080,AR,"City of Prescott, Mayor, Nevada County",2026-11-03,99.9,,False,1,1,528,2026-11-18T12:42+00:00
+161531,AR,"City of Wabbaseka, C.M. Pos. 2, Jefferson County",2026-11-03,99.9,,False,2,1,82,2026-11-18T12:42+00:00
+161432,AR,"City of Forrest City, Mayor, St. Francis County",2026-11-03,99.9,,False,4,1,2056,2026-11-18T12:42+00:00
+161684,AR,"Bull Shoals Council - Ward 1 Pos 1, Marion County",2026-11-03,99.9,,False,2,1,707,2026-11-18T12:42+00:00
+162004,AR,Howard County Justice of the Peace District 9,2026-11-03,99.9,,False,2,1,404,2026-11-18T12:42+00:00
+161165,AR,"Bradford Mayor, White County",2026-11-03,99.9,,False,1,1,125,2026-11-18T12:42+00:00
+161926,AR,Bradley County County Judge,2026-11-03,99.9,,False,2,1,2284,2026-11-18T12:42+00:00
+161769,AR,"Holly Grove City Council Ward 1 Position 2, Monroe County",2026-11-03,99.9,,False,2,1,176,2026-11-18T12:42+00:00
+150219,AR,Arkansas State House 55,2026-11-03,99.9,2026-11-12T01:54:12.309Z,False,2,1,9291,2026-11-18T12:42+00:00
+161538,AR,"City of Edmondson, C.M., Pos. 5, Crittenden County",2026-11-03,99.9,,False,2,1,106,2026-11-18T12:42+00:00
+162047,AR,Lonoke County County Circuit Clerk,2026-11-03,99.9,,False,2,1,22089,2026-11-18T12:42+00:00
+161499,AR,"Elaine-Alderman-Ward 2 Position 2, Phillips County",2026-11-03,99.9,,False,2,1,149,2026-11-18T12:42+00:00
+161592,AR,"City of Marion, C.M., Pos. Jasper 3-2, Crittenden County",2026-11-03,99.9,,False,5,1,3714,2026-11-18T12:42+00:00
+161851,AR,Hempstead County Circuit Clerk,2026-11-03,99.9,,False,1,1,3428,2026-11-18T12:42+00:00
+161133,AR,"City of Southside Mayor, Independence County",2026-11-03,99.9,,False,1,1,988,2026-11-18T12:42+00:00
+161894,AR,Franklin County Circuit Clerk,2026-11-03,99.9,,False,1,1,4610,2026-11-18T12:42+00:00
+161737,AR,"City Council - Clarksville District 2 Position 2, Johnson County",2026-11-03,99.9,,False,2,1,1835,2026-11-18T12:42+00:00
+161062,AR,"Arkadelphia Mayor, Clark County",2026-11-03,99.9,,False,1,1,1898,2026-11-18T12:42+00:00
+161506,AR,"City of Edmondson, C.M., Pos. 1, Crittenden County",2026-11-03,99.9,,False,2,1,104,2026-11-18T12:42+00:00
+161215,AR,"Sedgwick Mayor, Lawrence County",2026-11-03,99.9,,False,1,1,26,2026-11-18T12:42+00:00
+161467,AR,"City of Hughes, Mayor, St. Francis County",2026-11-03,99.9,,False,2,1,249,2026-11-18T12:42+00:00
+161560,AR,"City of Palestine, Alderman Ward 2, Pos. 1, St. Francis County",2026-11-03,99.9,,False,2,1,141,2026-11-18T12:42+00:00
+161019,AR,"City of Fourche, Mayor, Perry County",2026-11-03,99.9,,False,1,1,21,2026-11-18T12:42+00:00
+161172,AR,"Mayor of LaGrange, Lee County",2026-11-03,99.9,,False,1,1,17,2026-11-18T12:42+00:00
+161101,AR,"Mayor of Atkins, Pope County",2026-11-03,99.9,,False,1,1,613,2026-11-18T12:42+00:00
+161261,AR,"West Point Mayor, White County",2026-11-03,99.9,,False,1,1,21,2026-11-18T12:42+00:00
+162022,AR,Franklin County Justice of the Peace District 6,2026-11-03,99.9,,False,2,1,445,2026-11-18T12:42+00:00
+161474,AR,"Mayor Bonanza, Sebastian County",2026-11-03,99.9,,False,2,1,190,2026-11-18T12:42+00:00
+162175,AR,"Gravette School Board, Position 3, Benton County",2026-11-03,99.9,,False,2,1,6876,2026-11-18T12:42+00:00
+161826,AR,"Council Member Ward 1, Position 2 Bentonville, Benton County",2026-11-03,99.9,,False,2,1,13091,2026-11-18T12:42+00:00
+161528,AR,"City of Edmondson, C.M., Pos. 3, Crittenden County",2026-11-03,99.9,,False,2,1,105,2026-11-18T12:42+00:00
+161979,AR,Ouachita County Sheriff,2026-11-03,99.9,,False,2,1,6418,2026-11-18T12:42+00:00
+161140,AR,"Mayor - Ulm, Prairie County",2026-11-03,99.9,,False,1,1,47,2026-11-18T12:42+00:00
+161069,AR,"Mayor of Beedeville, Jackson County",2026-11-03,99.9,,False,1,1,20,2026-11-18T12:42+00:00
+161421,AR,"City of Crawfordsville, C.M., Pos. 4, Crittenden County",2026-11-03,99.9,,False,2,1,189,2026-11-18T12:42+00:00
+161382,AR,"City Clerk-Treasurer City of Lepanto, Poinsett County",2026-11-03,99.9,,False,2,1,485,2026-11-18T12:42+00:00
+161033,AR,"City of Batesville Mayor, Independence County",2026-11-03,99.9,,False,1,1,1957,2026-11-18T12:42+00:00
+162143,AR,Stone County 0.5% Sales and Use Tax,2026-11-03,99.9,,False,2,1,4253,2026-11-18T12:42+00:00
+150318,AR,Arkansas State House 57,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,3,9090,2026-11-18T12:42+00:00
+161496,AR,"City of Hughes, Alderman Ward 2, Pos. 1, St. Francis County",2026-11-03,99.9,,False,3,1,80,2026-11-18T12:42+00:00
+161947,AR,Drew County County Sheriff,2026-11-03,99.9,,False,3,1,5029,2026-11-18T12:42+00:00
+161848,AR,Lawrence County Circuit Clerk,2026-11-03,99.9,,False,1,1,3585,2026-11-18T12:42+00:00
+161108,AR,"Town of Oil Trough Mayor, Independence County",2026-11-03,99.9,,False,1,1,37,2026-11-18T12:42+00:00
+161428,AR,"Mayor of Stuttgart, Arkansas County",2026-11-03,99.9,,False,3,1,1928,2026-11-18T12:42+00:00
+161581,AR,"City of Mayflower, CM Ward Two, Pos. One, Faulkner County",2026-11-03,99.9,,False,2,1,691,2026-11-18T12:42+00:00
+161350,AR,"Luxora City Mayor, Mississippi County",2026-11-03,99.9,,False,2,1,181,2026-11-18T12:42+00:00
+161993,AR,Carroll County Justice of the Peace District 1,2026-11-03,99.9,,False,2,1,1233,2026-11-18T12:42+00:00
+162111,AR,Washington County Constable District 3,2026-11-03,99.9,,False,2,1,30210,2026-11-18T12:42+00:00
+161954,AR,"Searcy County Justice of the Peace, District 4",2026-11-03,99.9,,False,2,1,241,2026-11-18T12:42+00:00
+161464,AR,"City Clerk-Treasurer City of Marked Tree, Poinsett County",2026-11-03,99.9,,False,2,1,465,2026-11-18T12:42+00:00
+161915,AR,Benton County Circuit Clerk,2026-11-03,99.9,,False,1,1,69399,2026-11-18T12:42+00:00
+161016,AR,"Mayor of Daisy, Pike County",2026-11-03,99.9,,False,1,1,18,2026-11-18T12:42+00:00
+161076,AR,"City of Alma, Mayor, Crawford County",2026-11-03,99.9,,False,1,1,1187,2026-11-18T12:42+00:00
+161588,AR,"City of Marion, C.M., Pos. Jasper 1-2, Crittenden County",2026-11-03,99.9,,False,2,1,3560,2026-11-18T12:42+00:00
+161549,AR,"City of Gilmore, Mayor, Crittenden County",2026-11-03,99.9,,False,4,1,86,2026-11-18T12:42+00:00
+161318,AR,"Brinkley City Mayor, Monroe County",2026-11-03,99.9,,False,3,1,780,2026-11-18T12:42+00:00
+161161,AR,"Star City Alderman Ward 1 Position 1, Lincoln County",2026-11-03,99.9,,False,1,1,439,2026-11-18T12:42+00:00
+162079,AR,Sebastian County Justice of the Peace Disctrict 5,2026-11-03,99.9,,False,2,1,1886,2026-11-18T12:42+00:00
+161922,AR,Ashley County Sheriff,2026-11-03,99.9,,False,2,1,5168,2026-11-18T12:42+00:00
+161631,AR,"Mayor Bella Vista, Benton County",2026-11-03,99.9,,False,3,1,15219,2026-11-18T12:42+00:00
+161883,AR,Grant County & Circuit Clerk,2026-11-03,99.9,,False,1,1,4756,2026-11-18T12:42+00:00
+161976,AR,Cross County Justice of the Peace District 9,2026-11-03,99.9,,False,2,1,546,2026-11-18T12:42+00:00
+161243,AR,"City of Monette, Mayor, Craighead County",2026-11-03,99.9,,False,1,1,287,2026-11-18T12:42+00:00
+161517,AR,"City of Madison, Mayor, St. Francis County",2026-11-03,99.9,,False,4,1,161,2026-11-18T12:42+00:00
+161286,AR,"Mayor City of Lake Village, Chicot County",2026-11-03,99.9,,False,4,1,962,2026-11-18T12:42+00:00
+161129,AR,"City of Crawfordsville, Mayor, Crittenden County",2026-11-03,99.9,,False,1,1,183,2026-11-18T12:42+00:00
+161446,AR,"City of Earle, Mayor, Crittenden County",2026-11-03,99.9,,False,2,1,475,2026-11-18T12:42+00:00
+161890,AR,Pope County Circuit Clerk,2026-11-03,99.9,,False,1,1,14586,2026-11-18T12:42+00:00
+161791,AR,"Leachville City Council Ward 2, Position 1, Mississippi County",2026-11-03,99.9,,False,2,1,544,2026-11-18T12:42+00:00
+162050,AR,Jefferson County Justice of the Peace District 8,2026-11-03,99.9,,False,2,1,1137,2026-11-18T12:42+00:00
+161944,AR,Washington County County Judge,2026-11-03,99.9,,False,2,1,75458,2026-11-18T12:42+00:00
+161403,AR,Hardy Alderman Ward 2 Position 2 (Fulton & Sharp Counties),2026-11-03,99.9,,False,2,2,298,2026-11-18T12:42+00:00
+161556,AR,Lawrence County ORDINANCE NO. 440-2026 City of Blackrock,2026-11-03,99.9,,False,2,1,154,2026-11-18T12:42+00:00
+161485,AR,Van Buren County City of Shirley Alcoholic Beverage Sunday Sales City of Shirley,2026-11-03,99.9,,False,2,1,86,2026-11-18T12:42+00:00
+161837,AR,"Council Member Ward 2, Position 2 Centerton, Benton County",2026-11-03,99.9,,False,2,1,5617,2026-11-18T12:42+00:00
+161606,AR,"Lavaca Alderman Ward 3 Position 2 Lavaca, Sebastian County",2026-11-03,99.9,,False,2,1,696,2026-11-18T12:42+00:00
+161257,AR,"City of Wooster, Mayor, Faulkner County",2026-11-03,99.9,,False,1,1,380,2026-11-18T12:42+00:00
+161759,AR,"City Council Ward 3, Position 2 Mountain Home, Baxter County",2026-11-03,99.9,,False,2,1,3139,2026-11-18T12:42+00:00
+161218,AR,"Mayor, City of Rockport, Hot Spring County",2026-11-03,99.9,,False,1,1,182,2026-11-18T12:42+00:00
+161912,AR,Garland County Circuit Clerk,2026-11-03,99.9,,False,1,1,23022,2026-11-18T12:42+00:00
+161371,AR,Hardy Alderman Ward 1 Position 1 (Fulton & Sharp Counties),2026-11-03,99.9,,False,2,2,303,2026-11-18T12:42+00:00
+161524,AR,"Mitchellville Alderman Ward 1 Position 2, Desha County",2026-11-03,99.9,,False,2,1,70,2026-11-18T12:42+00:00
+161844,AR,"Council Member Ward 4, Position 2 Lowell, Benton County",2026-11-03,99.9,,False,2,1,2795,2026-11-18T12:42+00:00
+161005,AR,City of Horseshoe Bend Alderman Ward 1 Position 2 (Fulton & Izard Counties),2026-11-03,99.9,,False,2,2,144,2026-11-18T12:42+00:00
+150290,AR,Arkansas State House 40,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,3,6577,2026-11-18T12:42+00:00
+161417,AR,"Winthrop City Mayor, Little River County",2026-11-03,99.9,,False,2,1,34,2026-11-18T12:42+00:00
+161727,AR,"Shirley City Council Position 1, Van Buren County",2026-11-03,99.9,,False,2,1,85,2026-11-18T12:42+00:00
+161378,AR,"Morrilton City Clerk / Treasurer, Conway County",2026-11-03,99.9,,False,2,1,1917,2026-11-18T12:42+00:00
+161880,AR,Columbia County Circuit Clerk,2026-11-03,99.9,,False,1,1,4787,2026-11-18T12:42+00:00
+161339,AR,"City of Casa, Mayor, Perry County",2026-11-03,99.9,,False,2,1,36,2026-11-18T12:42+00:00
+161240,AR,"Dyess City Mayor, Mississippi County",2026-11-03,99.9,,False,1,1,39,2026-11-18T12:42+00:00
+161492,AR,"City of Alexander, Mayor (Pulaski & Saline Counties)",2026-11-03,99.9,,False,2,2,589,2026-11-18T12:42+00:00
+161012,AR,"Mayor, City of Mena, Polk County",2026-11-03,99.9,,False,1,1,1098,2026-11-18T12:42+00:00
+161965,AR,Desha County Clerk,2026-11-03,99.9,,False,2,1,2874,2026-11-18T12:42+00:00
+150258,AR,Arkansas State House 25,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,2,3,11103,2026-11-18T12:42+00:00
+161577,AR,"Fort Smith Director-at-Large Position 6 Fort Smith, Sebastian County",2026-11-03,99.9,,False,3,1,17590,2026-11-18T12:42+00:00
+161695,AR,"Brinkley City Council Ward 1 Position 2, Monroe County",2026-11-03,99.9,,False,2,1,250,2026-11-18T12:42+00:00
+161346,AR,"Heber Springs Mayor, Cleburne County",2026-11-03,99.9,,False,2,1,2282,2026-11-18T12:42+00:00
+161055,AR,"Mayor, Mountain View, Stone County",2026-11-03,99.9,,False,1,1,816,2026-11-18T12:42+00:00
+161307,AR,"City of Texarkana Mayor, Miller County",2026-11-03,99.9,,False,2,1,6593,2026-11-18T12:42+00:00
+161400,AR,"City of Waldron, CC Ward 1, Pos. 2, Scott County",2026-11-03,99.9,,False,2,1,214,2026-11-18T12:42+00:00
+161659,AR,Benton County City of Rogers Police Improvement Bonds,2026-11-03,99.9,,False,2,1,19599,2026-11-18T12:42+00:00
+161933,AR,Pike County Justice of the Peace District 4,2026-11-03,99.9,,False,2,1,379,2026-11-18T12:42+00:00
+150226,AR,Arkansas State House 72,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,1,5344,2026-11-18T12:42+00:00
+161545,AR,Conway County Menifee Annexation,2026-11-03,99.9,,False,2,1,126,2026-11-18T12:42+00:00
+161862,AR,Searcy County County and Circuit Clerk,2026-11-03,99.9,,False,1,1,2117,2026-11-18T12:42+00:00
+161314,AR,"Mayor of Tuckerman, Jackson County",2026-11-03,99.9,,False,4,1,439,2026-11-18T12:42+00:00
+162015,AR,Hot Spring County Justice of the Peace District 3,2026-11-03,99.9,,False,2,1,503,2026-11-18T12:42+00:00
+161275,AR,"Mayor of Flippin, Marion County",2026-11-03,99.9,,False,2,1,309,2026-11-18T12:42+00:00
+161368,AR,"Dierks City Mayor, Howard County",2026-11-03,99.9,,False,2,1,186,2026-11-18T12:42+00:00
+161819,AR,"City Council Member Ward 1 Pos. 1 Goshen, Washington County",2026-11-03,99.9,,False,2,1,1021,2026-11-18T12:42+00:00
+161972,AR,Lee County Justice of the Peace District 2,2026-11-03,99.9,,False,2,1,119,2026-11-18T12:42+00:00
+161901,AR,Cleburne County Circuit Clerk,2026-11-03,99.9,,False,1,1,8793,2026-11-18T12:42+00:00
+162061,AR,Hot Spring County Justice of the Peace District 9,2026-11-03,99.9,,False,2,1,821,2026-11-18T12:42+00:00
+161030,AR,"Black Rock Mayor, Lawrence County",2026-11-03,99.9,,False,1,1,140,2026-11-18T12:42+00:00
+161282,AR,"Booneville Alderman Ward #3, Pos #2, Logan County",2026-11-03,99.9,,False,2,1,893,2026-11-18T12:42+00:00
+161183,AR,"Ogden City Mayor, Little River County",2026-11-03,99.9,,False,1,1,52,2026-11-18T12:42+00:00
+161634,AR,"Sebastian County An Ordinance Calling a Special Election in the Town of Central City, Arkansas on the Question of...",2026-11-03,99.9,,False,2,1,160,2026-11-18T12:42+00:00
+161336,AR,"Ozark City Mayor, Franklin County",2026-11-03,99.9,,False,3,1,821,2026-11-18T12:42+00:00
+150311,AR,Arkansas State Senate 24,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,1,6,25925,2026-11-18T12:42+00:00
+161940,AR,Mississippi County County Clerk,2026-11-03,99.9,,False,2,1,7699,2026-11-18T12:42+00:00
+161869,AR,Boone County Circuit Clerk,2026-11-03,99.9,,False,1,1,10153,2026-11-18T12:42+00:00
+161229,AR,"Mayor of Smackover, Union County",2026-11-03,99.9,,False,1,1,406,2026-11-18T12:42+00:00
+161190,AR,"Mayor City of Sidney, Sharp County",2026-11-03,99.9,,False,1,1,43,2026-11-18T12:42+00:00
+161833,AR,"Sherwood Council Member Ward 1 Position 1, Pulaski County",2026-11-03,99.9,,False,2,1,2991,2026-11-18T12:42+00:00
+161151,AR,"Lynn Mayor, Lawrence County",2026-11-03,99.9,,False,1,1,70,2026-11-18T12:42+00:00
+161794,AR,"Letona Council Member Po. 4, White County",2026-11-03,99.9,,False,2,1,83,2026-11-18T12:42+00:00
+161304,AR,City of Horseshoe Bend Alderman Ward 1 Position 1 (Fulton & Izard Counties),2026-11-03,99.9,,False,2,2,146,2026-11-18T12:42+00:00
+150279,AR,Arkansas State House 84,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,1,5984,2026-11-18T12:42+00:00
+161656,AR,Benton County City of Rogers Refunding Bonds,2026-11-03,99.9,,False,2,1,18317,2026-11-18T12:42+00:00
+161908,AR,Craighead County Circuit Clerk,2026-11-03,99.9,,False,1,1,21284,2026-11-18T12:42+00:00
+161236,AR,"City of Wheatley, Mayor, St. Francis County",2026-11-03,99.9,,False,1,1,85,2026-11-18T12:42+00:00
+161389,AR,"Hoxie Clerk/Treasurer, Lawrence County",2026-11-03,99.9,,False,2,1,418,2026-11-18T12:42+00:00
+162150,AR,Johnson County Question Two (Wastewater Treatment Plant Improvement Bonds),2026-11-03,99.9,,False,2,1,1860,2026-11-18T12:42+00:00
+161001,AR,City of Fairfield Bay Mayor (Cleburne & Van Buren Counties),2026-11-03,99.9,,False,1,2,767,2026-11-18T12:42+00:00
+161119,AR,"Mayor of Dover, Pope County",2026-11-03,99.9,,False,1,1,290,2026-11-18T12:42+00:00
+150286,AR,Arkansas State Senate 35,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,2,20875,2026-11-18T12:42+00:00
+161272,AR,"Mayor Highfill, Benton County",2026-11-03,99.9,,False,1,1,709,2026-11-18T12:42+00:00
+150247,AR,Arkansas Circuit Judge District 2 Division 4 At Large,2026-11-03,99.9,,False,2,6,57221,2026-11-18T12:42+00:00
+161816,AR,"City Council Member Ward 4 Pos.1 Fay, Washington County",2026-11-03,99.9,,False,4,1,6697,2026-11-18T12:42+00:00
+161876,AR,Phillips County Circuit Clerk,2026-11-03,99.9,,False,1,1,3668,2026-11-18T12:42+00:00
+161396,AR,"Charleston City Mayor, Franklin County",2026-11-03,99.9,,False,2,1,671,2026-11-18T12:42+00:00
+161357,AR,"Nashville Alderman Ward 5 Position 2, Howard County",2026-11-03,99.9,,False,2,1,140,2026-11-18T12:42+00:00
+162118,AR,"Benton County Justice of the Peace, District 2",2026-11-03,99.9,,False,2,1,4246,2026-11-18T12:42+00:00
+161961,AR,Washington County County Assessor,2026-11-03,99.9,,False,2,1,74953,2026-11-18T12:42+00:00
+161087,AR,"Mayor Norfork, Baxter County",2026-11-03,99.9,,False,1,1,114,2026-11-18T12:42+00:00
+150254,AR,Arkansas State House 93,2026-11-03,99.9,2026-11-04T07:09:42.042Z,False,1,4,7663,2026-11-18T12:42+00:00
+161439,AR,Mayor of Humphrey (Arkansas & Jefferson Counties),2026-11-03,99.9,,False,2,2,136,2026-11-18T12:42+00:00
+150215,AR,Arkansas State House 24,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,2,2,8693,2026-11-18T12:42+00:00
+150308,AR,Arkansas State House 42,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,3,9753,2026-11-18T12:42+00:00
+162043,AR,Ouachita County Assessor,2026-11-03,99.9,,False,2,1,6389,2026-11-18T12:42+00:00
+161325,AR,"Hope City Ward 1, Hempstead County",2026-11-03,99.9,,False,2,1,187,2026-11-18T12:42+00:00
+162086,AR,Faulkner County Justice of the Peace District 9,2026-11-03,99.9,,False,2,1,3361,2026-11-18T12:42+00:00
+161929,AR,Lafayette County County Sheriff,2026-11-03,99.9,,False,2,1,1809,2026-11-18T12:42+00:00
+161254,AR,"Cammack Village Mayor, Pulaski County",2026-11-03,99.9,,False,1,1,303,2026-11-18T12:42+00:00
+150222,AR,Arkansas State Senate 13,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,2,1,34253,2026-11-18T12:42+00:00
+161599,AR,"Lavaca Alderman Ward 2 Position 2 Lavaca, Sebastian County",2026-11-03,99.9,,False,2,1,675,2026-11-18T12:42+00:00
+161058,AR,"Mayor of Lewisville, Lafayette County",2026-11-03,99.9,,False,1,1,213,2026-11-18T12:42+00:00
+150276,AR,Arkansas State House 79,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,1,5704,2026-11-18T12:42+00:00
+161211,AR,"Mayor Mount Pleasant, Izard County",2026-11-03,99.9,,False,1,1,71,2026-11-18T12:42+00:00
+161364,AR,"City of Parkin, CC Ward 1, Pos. 2, Cross County",2026-11-03,99.9,,False,3,1,300,2026-11-18T12:42+00:00
+161293,AR,"City of Viola Mayor, Fulton County",2026-11-03,99.9,,False,2,1,113,2026-11-18T12:42+00:00
+161645,AR,"City Clerk Centerton, Benton County",2026-11-03,99.9,,False,2,1,6062,2026-11-18T12:42+00:00
+161414,AR,"Osceola City Mayor, Mississippi County",2026-11-03,99.9,,False,4,1,1445,2026-11-18T12:42+00:00
+162057,AR,Faulkner County Justice of the Peace District 4,2026-11-03,99.9,,False,2,1,3214,2026-11-18T12:42+00:00
+161567,AR,"City of Lake City, Alderman Ward 1, Pos. 2, Craighead County",2026-11-03,99.9,,False,2,1,652,2026-11-18T12:42+00:00
+162018,AR,Crittenden County Justice of the Peace District 2,2026-11-03,99.9,,False,2,1,1115,2026-11-18T12:42+00:00
+150244,AR,Arkansas State Senate 32,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,2,17761,2026-11-18T12:42+00:00
+162171,AR,"FT Lake School Board Position 5, Garland County",2026-11-03,99.9,,False,2,2,7743,2026-11-18T12:42+00:00
+161332,AR,"Mayor of El Dorado, Union County",2026-11-03,99.9,,False,3,1,4538,2026-11-18T12:42+00:00
+161652,AR,Benton County City of Little Flock Special Election,2026-11-03,99.9,,False,2,1,972,2026-11-18T12:42+00:00
+161805,AR,"Searcy Council Member W-3 P-2, White County",2026-11-03,99.9,,False,2,1,1507,2026-11-18T12:42+00:00
+161766,AR,"City Council Ward 4, Pos. 2 Malvern, Hot Spring County",2026-11-03,99.9,,False,2,1,485,2026-11-18T12:42+00:00
+161225,AR,"Walnut Ridge Mayor, Lawrence County",2026-11-03,99.9,,False,1,1,1144,2026-11-18T12:42+00:00
+161535,AR,"Carlisle City Mayor Carlisle City, Lonoke County",2026-11-03,99.9,,False,2,1,610,2026-11-18T12:42+00:00
+161186,AR,"City of Bay, Mayor, Craighead County",2026-11-03,99.9,,False,1,1,297,2026-11-18T12:42+00:00
+150212,AR,Arkansas State House 31,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,1,6181,2026-11-18T12:42+00:00
+162139,AR,Newton County 1% Sale and Use Tax for Jail Purposes,2026-11-03,99.9,,False,2,1,2860,2026-11-18T12:42+00:00
+162040,AR,Arkansas County Justice of the Peace District 4,2026-11-03,99.9,,False,2,1,487,2026-11-18T12:42+00:00
+161300,AR,"Augusta Aldermen Ward 1 Position 2, Woodruff County",2026-11-03,99.9,,False,2,1,559,2026-11-18T12:42+00:00
+161812,AR,"Jacksonville Council Member Ward 5 Position 1, Pulaski County",2026-11-03,99.9,,False,2,1,5801,2026-11-18T12:42+00:00
+150297,AR,Arkansas State House 46,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,4,7550,2026-11-18T12:42+00:00
+161734,AR,"Osceola City Council Ward 2, Position 1, Mississippi County",2026-11-03,99.9,,False,2,1,478,2026-11-18T12:42+00:00
+161385,AR,"City of Parkin, CC Ward 2, Pos. 2, Cross County",2026-11-03,99.9,,False,2,1,273,2026-11-18T12:42+00:00
+161503,AR,"Mayor of Strong, Union County",2026-11-03,99.9,,False,2,1,129,2026-11-18T12:42+00:00
+162146,AR,Independence County Pl Pl Terms,2026-11-03,99.9,,False,2,1,77,2026-11-18T12:42+00:00
+161855,AR,Logan County Circuit Clerk,2026-11-03,99.9,,False,1,1,5201,2026-11-18T12:42+00:00
+162107,AR,Saline County Justice of the Peace District 13,2026-11-03,99.9,,False,2,1,6020,2026-11-18T12:42+00:00
+161208,AR,"City of Sherrill, Mayor, Jefferson County",2026-11-03,99.9,,False,1,1,12,2026-11-18T12:42+00:00
+161268,AR,"Wrightsville Mayor, Pulaski County",2026-11-03,99.9,,False,1,1,184,2026-11-18T12:42+00:00
+150265,AR,Arkansas State House 4,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,2,8634,2026-11-18T12:42+00:00
+161702,AR,"Luxora City Council Ward 2, Position 2, Mississippi County",2026-11-03,99.9,,False,2,1,174,2026-11-18T12:42+00:00
+161353,AR,"Mayor of Almyra, Arkansas County",2026-11-03,99.9,,False,2,1,68,2026-11-18T12:42+00:00
+161471,AR,"Clarendon City Clerk, Monroe County",2026-11-03,99.9,,False,2,1,480,2026-11-18T12:42+00:00
+162114,AR,"Boone County, Sales and Use Tax",2026-11-03,99.9,,False,2,1,11206,2026-11-18T12:42+00:00
+161023,AR,"Mayor City of Kingsland, Cleveland County",2026-11-03,99.9,,False,1,1,72,2026-11-18T12:42+00:00
+162075,AR,Craighead County Justice of the Peace District 6,2026-11-03,99.9,,False,2,1,1498,2026-11-18T12:42+00:00
+162168,AR,"HWH-School Zone 1 Runoff, Phillips County",2026-11-03,99.9,,False,2,1,474,2026-11-18T12:42+00:00
+161627,AR,"Recorder/Treasurer Avoca, Benton County",2026-11-03,99.9,,False,2,1,140,2026-11-18T12:42+00:00
+150304,AR,Arkansas State House 41,2026-11-03,99.9,2026-11-04T07:09:42.041Z,False,1,2,10182,2026-11-18T12:42+00:00
+150233,AR,Arkansas State Senate 31,2026-11-03,99.9,2026-11-04T07:09:42.040Z,False,1,1,12989,2026-11-18T12:42+00:00
+161670,AR,"Gould City Council Ward 2 Position 2, Lincoln County",2026-11-03,99.9,,False,1,1,131,2026-11-18T12:42+00:00
+161830,AR,"Council Member Ward 1, Position 1 Cave Springs, Benton County",2026-11-03,99.9,,False,2,1,2269,2026-11-18T12:42+00:00
+162082,AR,Lonoke County Justice of the Peace District 10,2026-11-03,99.9,,False,2,1,1706,2026-11-18T12:42+00:00
+161983,AR,Washington County County Collector,2026-11-03,99.9,,False,2,1,75064,2026-11-18T12:42+00:00
+161442,AR,"Ulm Alderman Position 5, Prairie County",2026-11-03,99.9,,False,2,1,47,2026-11-18T12:42+00:00
+162136,AR,"South East Arkansas Levi District Commissioner, Desha County",2026-11-03,99.9,,False,2,1,2807,2026-11-18T12:42+00:00
+161787,AR,"Leachville City Council Ward 1, Position 1, Mississippi County",2026-11-03,99.9,,False,2,1,544,2026-11-18T12:42+00:00
+150272,AR,Arkansas State House 94,2026-11-03,99.9,2026-11-04T07:09:42.042Z,False,1,3,6130,2026-11-18T12:42+00:00
+150201,AR,Arkansas State Senate 1,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,2,8,22952,2026-11-18T12:42+00:00
+162029,AR,Little River County Wallace/Richland Township Constable,2026-11-03,99.9,,False,2,1,124,2026-11-18T12:42+00:00
+161990,AR,Hot Spring County Justice of the Peace District 2,2026-11-03,99.9,,False,2,1,845,2026-11-18T12:42+00:00
+161641,AR,"Maumelle City Clerk/Treasurer, Pulaski County",2026-11-03,99.9,,False,2,1,7173,2026-11-18T12:42+00:00
+161951,AR,Calhoun County Jp4,2026-11-03,99.9,,False,2,1,187,2026-11-18T12:42+00:00
+161602,AR,"St. Francis County City of Forrest City, Public Library Millage",2026-11-03,99.9,,False,2,1,1969,2026-11-18T12:42+00:00
+162104,AR,Sebastian County Justice of the Peace District 11,2026-11-03,99.9,,False,2,1,1923,2026-11-18T12:42+00:00
+161755,AR,"Pottsville Council Member Ward 2 Position 1, Pope County",2026-11-03,99.9,,False,3,1,816,2026-11-18T12:42+00:00
+150240,AR,Arkansas State House 81,2026-11-03,99.9,2026-11-12T01:54:12.309Z,False,2,1,9086,2026-11-18T12:42+00:00
+86947,AR,Arkansas US House 3,2026-11-03,93.6,2026-11-04T04:54:22.571Z,False,3,6,232515,2026-11-18T12:42+00:00
+86945,AR,Arkansas US House 1,2026-11-03,85.8,2026-11-04T02:21:59.540Z,False,3,31,194546,2026-11-18T12:42+00:00
+86949,AR,Arkansas US Senate,2026-11-03,90.3,2026-11-04T03:42:08.969Z,False,3,75,888134,2026-11-18T12:42+00:00
+86946,AR,Arkansas US House 2,2026-11-03,91.2,2026-11-05T17:04:24.207Z,False,2,8,251216,2026-11-18T12:42+00:00
+86948,AR,Arkansas US House 4,2026-11-03,85.4,2026-11-04T02:21:59.540Z,False,2,33,200882,2026-11-18T12:42+00:00

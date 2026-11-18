@@ -1,0 +1,799 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+87111,ID,Julie Ellsworth,Republican,456971,65.43,True,False
+87111,ID,Kevin Jones,Democratic,241444,34.57,False,False
+87109,ID,Phil McGrane,Republican,473705,67.335,True,False
+87109,ID,Shawn Keenan,Democratic,229804,32.665,False,False
+87110,ID,Debbie Critchfield,Republican,430861,61.545,True,False
+87110,ID,Becky Sundin Mitchell,Democratic,244391,34.909,False,False
+87110,ID,Teresa Roundy,Constitution,24827,3.546,False,False
+179002,ID,No,Nonpartisan,406097,55.913,True,False
+179002,ID,Yes,Nonpartisan,320210,44.087,False,False
+179003,ID,Winchester Model 1873 “Gun that Won the West” (.44-40),Nonpartisan,165147,31.133,True,False
+179003,ID,Winchester Model 1894 (.30-30),Nonpartisan,134244,25.308,False,False
+179003,ID,1873 Colt Single Action Army Revolver “Peacemaker” (.45 Colt),Nonpartisan,80894,15.25,False,False
+179003,ID,Remington Model 700 bolt-action rifle (.30-06),Nonpartisan,66019,12.446,False,False
+179003,ID,Colt M1911 .45 automatic Colt pistol (.45 ACP),Nonpartisan,46511,8.768,False,False
+179003,ID,M1 Garand rifle (.30-06),Nonpartisan,37633,7.095,False,False
+87107,ID,Scott Bedke,Republican,447233,63.474,True,False
+87107,ID,Eric Myricks,Democratic,257364,36.526,False,False
+152100,ID,Brandon D Woolf,Republican,463100,66.164,True,False
+152100,ID,Rakesh Mohan,Democratic,236824,33.836,False,False
+87106,ID,Brad Little,Republican,408410,56.901,True,False
+87106,ID,Terri Pickens,Democratic,231475,32.25,False,False
+87106,ID,John R. Stegner,Independent,54867,7.644,False,False
+87106,ID,Paul Sand,Libertarian,11569,1.612,False,False
+87106,ID,Pro-Life,Constitution,9508,1.325,False,False
+87106,ID,Write-in,Nonpartisan,1645,0.229,False,False
+87106,ID,Jacob Burnett,Independent,284,0.04,False,False
+159520,ID,Republican,Republican,861616,63.277,False,False
+159520,ID,Democratic,Democratic,465106,34.157,False,False
+159520,ID,Independent,Independent,28513,2.094,False,False
+159520,ID,Constitution,Constitution,3304,0.243,False,False
+159520,ID,Libertarian,Libertarian,3113,0.229,False,False
+179001,ID,Yes,Nonpartisan,449061,63.129,False,False
+179001,ID,No,Nonpartisan,262276,36.871,False,False
+159521,ID,Republican,Republican,431687,62.999,False,False
+159521,ID,Democratic,Democratic,236445,34.506,False,False
+159521,ID,Independent,Independent,11995,1.751,False,False
+159521,ID,Constitution,Constitution,5102,0.745,False,False
+179000,ID,No,Nonpartisan,472957,66.26,False,False
+179000,ID,Yes,Nonpartisan,240832,33.74,False,False
+87108,ID,Raúl Labrador,Republican,423179,59.795,True,False
+87108,ID,Lori Hickman,Democratic,284543,40.205,False,False
+152274,ID,Kelly Riggs,Republican,6213,100.0,False,False
+152213,ID,Katlin Caldwell,Republican,3532,59.582,False,False
+152213,ID,Jon Howard,Independent,2396,40.418,False,False
+152368,ID,Johanna Defoort,Republican,4654,100.0,False,False
+152516,ID,Yes,Nonpartisan,106529,75.606,False,False
+152516,ID,No,Nonpartisan,34372,24.394,False,False
+152379,ID,Sabrina Young,Republican,3873,100.0,False,False
+152118,ID,Janie Ward-Engelking,Democratic,15719,100.0,True,False
+179068,ID,Yes,Nonpartisan,0,,False,False
+179068,ID,No,Nonpartisan,0,,False,False
+152136,ID,Jane Sauter,Republican,17307,67.204,True,False
+152136,ID,Karen Matthee,Democratic,8446,32.796,False,False
+152383,ID,Tricia Poulsen,Republican,2249,100.0,False,False
+179017,ID,Yes,Nonpartisan,1772,61.528,False,False
+179017,ID,No,Nonpartisan,1108,38.472,False,False
+152462,ID,Sam L. Butikofer,Republican,10099,100.0,False,False
+152401,ID,Donna Spier,Republican,2948,100.0,False,False
+179035,ID,Yes,Nonpartisan,1162,66.743,False,False
+179035,ID,No,Nonpartisan,579,33.257,False,False
+152480,ID,Jeff Carr,Nonpartisan,20800,100.0,False,False
+152419,ID,Megan Turner,Republican,6803,100.0,False,False
+152158,ID,Jeff Cornilles,Republican,11014,63.998,True,False
+152158,ID,Sterling Barnett,Democratic,6196,36.002,False,False
+179019,ID,No,Nonpartisan,1790,52.324,False,False
+179019,ID,Yes,Nonpartisan,1631,47.676,False,False
+152496,ID,Yes,Nonpartisan,15338,86.773,False,False
+152496,ID,No,Nonpartisan,2338,13.227,False,False
+152196,ID,Jerald Dallas Raymond,Republican,16116,80.263,True,False
+152196,ID,Kindsey Smith,Democratic,3963,19.737,False,False
+152514,ID,Yes,Nonpartisan,5718,89.75,False,False
+152514,ID,No,Nonpartisan,653,10.25,False,False
+152214,ID,Scott Tverdy,Republican,16906,62.857,False,False
+152214,ID,Kirk Tubbs,Independent,9990,37.143,False,False
+152308,ID,Chad Hoeft,Republican,3680,100.0,False,False
+152232,ID,Julie Hensley,Republican,54279,100.0,False,False
+152518,ID,Yes,Nonpartisan,25075,82.617,False,False
+152518,ID,No,Nonpartisan,5276,17.383,False,False
+152442,ID,Chad Walker,Republican,2254,100.0,False,False
+152120,ID,Josh Keyser,Republican,13918,60.616,True,False
+152120,ID,Pamela Renee Wilson,Democratic,9043,39.384,False,False
+152460,ID,Patrick (P.J.) Curtis,Republican,3726,100.0,False,False
+179055,ID,No,Nonpartisan,994,51.879,False,False
+179055,ID,Yes,Nonpartisan,922,48.121,False,False
+152138,ID,Heather Scott,Republican,17863,79.271,True,False
+152138,ID,Birgid Niedenzu,Democratic,4671,20.729,False,False
+152478,ID,Brad Corkill,Nonpartisan,41114,100.0,False,False
+152178,ID,Kelly Walton,Republican,14629,58.432,True,False
+152178,ID,Loren Petty,Democratic,10407,41.568,False,False
+152444,ID,Chad Workman,Republican,4802,100.0,False,False
+179071,ID,No,Nonpartisan,4825,56.177,False,False
+179071,ID,Yes,Nonpartisan,3764,43.823,False,False
+152107,ID,Cindy Carlson,Republican,14581,71.655,True,False
+152107,ID,Patrice Yeatter,Democratic,5768,28.345,False,False
+152194,ID,David Cannon,Republican,13612,100.0,True,False
+179020,ID,No,Nonpartisan,620,52.101,False,False
+179020,ID,Yes,Nonpartisan,570,47.899,False,False
+152404,ID,Hollie Ann Flansberg,Republican,6956,100.0,False,False
+152143,ID,Elaine Price,Republican,11230,59.893,True,False
+152143,ID,Aaron Hayes,Democratic,7520,40.107,False,False
+152422,ID,Norma Anaya,Republican,1218,100.0,False,False
+152161,ID,Steven Tanner,Republican,10254,62.735,True,False
+152161,ID,Cody Gorman,Democratic,6091,37.265,False,False
+152216,ID,Charles M. Howell,Republican,4407,100.0,False,False
+179042,ID,Yes,Nonpartisan,3521,62.154,False,False
+179042,ID,No,Nonpartisan,2144,37.846,False,False
+152295,ID,Shawn Wehr,Republican,3931,100.0,False,False
+152234,ID,Kent E. Jeppesen,Republican,4424,100.0,False,False
+179053,ID,Yes,Nonpartisan,1106,67.521,False,False
+179053,ID,No,Nonpartisan,532,32.479,False,False
+152313,ID,Eva Polizzi,Republican,3269,100.0,False,False
+152311,ID,Deanna Lenker,Republican,465,100.0,False,False
+152203,ID,Britt Raybould,Republican,9996,100.0,True,False
+179044,ID,Yes,Nonpartisan,364,67.407,False,False
+179044,ID,No,Nonpartisan,176,32.593,False,False
+152329,ID,Meredith Mattingly,Republican,4456,100.0,False,False
+152445,ID,Cody Funke,Republican,6871,100.0,False,False
+152123,ID,Todd Lakey,Republican,14813,73.843,True,False
+152123,ID,Paul Morgan,Democratic,5247,26.157,False,False
+152463,ID,Scott G. Carver,Republican,4530,100.0,False,False
+152333,ID,Sharee Sprague,Republican,2118,100.0,False,False
+152481,ID,David Bishop,Nonpartisan,172874,100.0,False,False
+179022,ID,Yes,Nonpartisan,2289,53.023,False,False
+179022,ID,No,Nonpartisan,2028,46.977,False,False
+152275,ID,Kim Caywood,Republican,3234,100.0,False,False
+152391,ID,Anita Hymas,Republican,23778,100.0,False,False
+152145,ID,Tony Wisniewski,Republican,15739,75.389,True,False
+152145,ID,Lee Wallace,Democratic,5138,24.611,False,False
+152101,ID,Scott Herndon,Republican,14838,57.272,True,False
+152101,ID,Steve Johnson,Independent,11070,42.728,False,False
+152409,ID,Jessica Roach,Republican,9945,100.0,False,False
+152163,ID,Josh Tanner,Republican,20552,72.993,True,False
+152163,ID,Valerie Ruxton,Democratic,7604,27.007,False,False
+152407,ID,Jannelle Sparks Jensen,Republican,2214,100.0,False,False
+179009,ID,Yes,Nonpartisan,2340,53.158,False,False
+179009,ID,No,Nonpartisan,2062,46.842,False,False
+152277,ID,Kryst Russell Krein,Republican,2150,100.0,False,False
+152425,ID,Sue Leeper,Republican,4517,100.0,False,False
+152356,ID,Clorrisa Koster,Republican,16925,100.0,False,False
+152219,ID,Bob Callahan,Republican,3251,100.0,False,False
+179045,ID,No,Nonpartisan,37118,59.491,False,False
+179045,ID,Yes,Nonpartisan,25275,40.509,False,False
+152237,ID,Mike Asay,Republican,1453,100.0,False,False
+179056,ID,Yes,Nonpartisan,127,76.506,False,False
+179056,ID,No,Nonpartisan,39,23.494,False,False
+152447,ID,Dan Chatterton,Republican,4385,100.0,False,False
+152179,ID,Jason A. Monks,Republican,14535,57.957,True,False
+152179,ID,Amanda Easley,Democratic,10544,42.043,False,False
+152110,ID,Tammy Nichols,Republican,20702,75.566,True,False
+152110,ID,Nancy M Parker,Democratic,6694,24.434,False,False
+152465,ID,Shante Sanchez,Republican,25548,100.0,False,False
+152197,ID,Rod Furniss,Republican,15864,78.933,True,False
+152197,ID,Wendy Norman,Democratic,4234,21.067,False,False
+152128,ID,Jim Guthrie,Republican,12695,68.345,True,False
+152128,ID,Mandy Peace,Democratic,5880,31.655,False,False
+152483,ID,J.D. Gould,Nonpartisan,23476,100.0,False,False
+152434,ID,Aaron D. Tines,Republican,3179,100.0,False,False
+152181,ID,Shawn R Dygert,Republican,14701,73.369,True,False
+152181,ID,Joe Fuller,Democratic,5336,26.631,False,False
+152336,ID,Tara Horton,Republican,1802,100.0,False,False
+152260,ID,Bryce Somsen,Republican,2230,100.0,False,False
+152354,ID,Carlos Zamora,Republican,53436,100.0,False,False
+152278,ID,"M.H. ""Hootie"" Langseth",Republican,1011,100.0,False,False
+152148,ID,Kyle Harris,Republican,14610,71.907,True,False
+152148,ID,Larry Nostrant,Democratic,5708,28.093,False,False
+152296,ID,Bevin Taylor,Democratic,4447,100.0,False,False
+152358,ID,Crystal Naylor,Republican,1225,100.0,False,False
+152506,ID,Yes,Nonpartisan,4817,87.646,False,False
+152506,ID,No,Nonpartisan,679,12.354,False,False
+152206,ID,Tony Johnson,Republican,8090,52.976,False,False
+152206,ID,Carole Wells,Democratic,7181,47.024,False,False
+179047,ID,No,Nonpartisan,12839,55.072,False,False
+179047,ID,Yes,Nonpartisan,10474,44.928,False,False
+152108,ID,Christy Zito,Republican,14948,100.0,True,False
+152224,ID,Dameon Groves,Republican,3761,100.0,False,False
+179058,ID,No,Nonpartisan,401,56.32,False,False
+179058,ID,Yes,Nonpartisan,311,43.68,False,False
+152126,ID,Ron Taylor,Democratic,10719,56.493,True,False
+152126,ID,Bryan Hyde,Republican,7330,38.632,False,False
+152126,ID,Shaila Tate,Independent,925,4.875,False,False
+152508,ID,Yes,Nonpartisan,24589,82.513,False,False
+152508,ID,No,Nonpartisan,5211,17.487,False,False
+152240,ID,Nick Hillman,Republican,226,100.0,False,False
+152363,ID,Jennifer Economu,Republican,4705,100.0,False,False
+152258,ID,A Mark Chandler,Republican,4348,100.0,False,False
+152182,ID,Clint Hostetler,Republican,12214,69.453,True,False
+152182,ID,Kevin Moxley,Independent,5372,30.547,False,False
+152468,ID,Theresa Lerch,Republican,4607,100.0,False,False
+152392,ID,Bradford Wills,Republican,20525,100.0,False,False
+152486,ID,Yes,Nonpartisan,104408,74.16,False,False
+152486,ID,No,Nonpartisan,36379,25.84,False,False
+179081,ID,Yes,Nonpartisan,6648,62.055,False,False
+179081,ID,No,Nonpartisan,4065,37.945,False,False
+152280,ID,Micah Rigby,Republican,2166,100.0,False,False
+152204,ID,Mike Veile,Republican,14836,69.363,True,False
+152204,ID,Walter Boyd,Democratic,6553,30.637,False,False
+179030,ID,Yes,Nonpartisan,0,,False,False
+179030,ID,No,Nonpartisan,0,,False,False
+152298,ID,Donald Hayhurst,Republican,7308,48.919,False,False
+152298,ID,Patty Weeks,Democratic,7224,48.357,False,False
+152298,ID,Sue Ann Meyers,Libertarian,407,2.724,False,False
+152222,ID,Chris Oesterreich,Republican,6982,100.0,False,False
+152153,ID,Judy Boyle,Republican,14727,77.535,True,False
+152153,ID,Lupita Connor,Democratic,4267,22.465,False,False
+179083,ID,Yes,Nonpartisan,3821,63.042,False,False
+179083,ID,No,Nonpartisan,2240,36.958,False,False
+152151,ID,Brian Beckley,Republican,12665,65.957,True,False
+152151,ID,Jared Dawson,Democratic,6537,34.043,False,False
+152267,ID,Dustin Parkinson,Republican,9992,100.0,False,False
+152169,ID,Megan Egbert,Democratic,13288,66.717,True,False
+152169,ID,Justin Alexander Peter Hughes,Republican,6629,33.283,False,False
+152509,ID,Yes,Nonpartisan,40089,80.443,False,False
+152509,ID,No,Nonpartisan,9746,19.557,False,False
+152372,ID,Lana E. Schwartz,Republican,235,100.0,False,False
+152111,ID,Camille Blaylock,Republican,7078,55.039,True,False
+152111,ID,Susan Counsil,Democratic,5385,41.874,False,False
+152111,ID,Esther Ma,Constitution,397,3.087,False,False
+179061,ID,Yes,Nonpartisan,65,51.587,False,False
+179061,ID,No,Nonpartisan,61,48.413,False,False
+152129,ID,James D. Ruchti,Democratic,10602,58.672,True,False
+152129,ID,John Crowder,Republican,7468,41.328,False,False
+152184,ID,Grayson Stone,Republican,9070,63.1,True,False
+152184,ID,Marla Palmer,Democratic,5304,36.9,False,False
+179010,ID,Yes,Nonpartisan,493,61.242,False,False
+179010,ID,No,Nonpartisan,312,38.758,False,False
+152455,ID,Mark Gunn Rose Sr.,Republican,2177,100.0,False,False
+152394,ID,Carol Blanchard,Republican,4478,100.0,False,False
+179028,ID,Yes,Nonpartisan,555,66.948,False,False
+179028,ID,No,Nonpartisan,274,33.052,False,False
+152473,ID,Sam Beus,Republican,4283,100.0,False,False
+152471,ID,Will Carson,Republican,20581,100.0,False,False
+152171,ID,Brooke Green,Democratic,14902,82.72,True,False
+152171,ID,Joseph Bishop,Libertarian,3113,17.28,False,False
+179012,ID,Yes,Nonpartisan,581,70.681,False,False
+179012,ID,No,Nonpartisan,241,29.319,False,False
+152489,ID,Yes,Nonpartisan,3981,85.448,False,False
+152489,ID,No,Nonpartisan,678,14.552,False,False
+152189,ID,Clay Handy,Republican,12595,100.0,True,False
+152283,ID,Nick Woods,Republican,12442,100.0,False,False
+152207,ID,Kelceymarie Warner,Democratic,109704,50.091,False,False
+152207,ID,Ryan Davidson,Republican,109304,49.909,False,False
+152301,ID,Janeen LeWan,Independent,2344,100.0,False,False
+152225,ID,Drew Jensen,Republican,12549,100.0,False,False
+152511,ID,Yes,Nonpartisan,110006,76.35,False,False
+152511,ID,No,Nonpartisan,34075,23.65,False,False
+152435,ID,Allen Rowan,Republican,2813,100.0,False,False
+179037,ID,Yes,Nonpartisan,348,70.732,False,False
+179037,ID,No,Nonpartisan,144,29.268,False,False
+152113,ID,Brian Lenney,Republican,10088,61.475,True,False
+152113,ID,Letishia Silva,Democratic,6322,38.525,False,False
+152261,ID,A. Ben Crouch,Republican,4444,100.0,False,False
+152377,ID,Megan Keene,Republican,7158,100.0,False,False
+152131,ID,Van T. Burtenshaw,Republican,16285,80.671,True,False
+152131,ID,Kevin Gerrard,Democratic,3902,19.329,False,False
+152498,ID,Yes,Nonpartisan,22437,80.52,False,False
+152498,ID,No,Nonpartisan,5428,19.48,False,False
+152437,ID,Bruce Long,Republican,1311,100.0,False,False
+179064,ID,Yes,Nonpartisan,13527,70.449,False,False
+179064,ID,No,Nonpartisan,5674,29.551,False,False
+152324,ID,Leandra Rountree,Republican,6968,100.0,False,False
+152187,ID,Kevin Marsh,Democratic,11103,58.989,True,False
+152187,ID,Lyle Johnstone,Republican,7719,41.011,False,False
+179013,ID,Yes,Nonpartisan,386,60.031,False,False
+179013,ID,No,Nonpartisan,257,39.969,False,False
+152397,ID,Chris Juszczak,Republican,3283,100.0,False,False
+179031,ID,Genoa Beiser,Nonpartisan,0,,False,False
+179031,ID,Tammy E. Davis,Nonpartisan,0,,False,False
+179031,ID,Write-in,Nonpartisan,0,,False,False
+152191,ID,Dan Garner,Republican,12645,68.551,True,False
+152191,ID,Jayson Meline,Democratic,5801,31.449,False,False
+152346,ID,"Rebecca ""Missy"" McLaughlin",Democratic,10845,100.0,False,False
+152270,ID,Jeff Roberts,Republican,16498,100.0,False,False
+152209,ID,Lindsay Mollineaux,Democratic,8272,72.523,False,False
+152209,ID,Logan Davis,Republican,3134,27.477,False,False
+152364,ID,Jennifer Fredrickson,Republican,468,100.0,False,False
+152288,ID,Scott B Hancock,Republican,9733,100.0,False,False
+152227,ID,George Hulse,Republican,2249,100.0,False,False
+152375,ID,Leigh Anne Love,Republican,1457,100.0,False,False
+152348,ID,Allicyn Latimer,Republican,1746,100.0,False,False
+152304,ID,Amy Bishop,Republican,2202,100.0,False,False
+152420,ID,Melissa Price-Bair,Republican,5068,100.0,False,False
+152322,ID,Kim Hinckley Muir,Republican,10072,100.0,False,False
+152438,ID,"C.V. ""Lucky"" Bourn",Republican,5020,100.0,False,False
+152116,ID,Soñia Galaviz,Democratic,13819,66.842,True,False
+152116,ID,Geoffrey Surbeck,Republican,6855,33.158,False,False
+152456,ID,Mike Ernest,Republican,3216,100.0,False,False
+152326,ID,Lon Colton,Republican,1424,100.0,False,False
+152250,ID,Brad Holton,Republican,43803,68.901,False,False
+152250,ID,Brian Stroops,Democratic,19771,31.099,False,False
+152174,ID,Joe A Palmer,Republican,14002,61.027,True,False
+152174,ID,Jennifer Stephens,Democratic,8942,38.973,False,False
+179015,ID,No,Nonpartisan,618,56.08,False,False
+179015,ID,Yes,Nonpartisan,484,43.92,False,False
+152268,ID,Gregory Shenton,Republican,225,100.0,False,False
+152384,ID,Daniel J. Anderson,Democratic,10824,100.0,False,False
+179033,ID,Yes,Nonpartisan,1063,52.965,False,False
+179033,ID,No,Nonpartisan,944,47.035,False,False
+152286,ID,Robert C Swainston,Republican,4005,100.0,False,False
+179073,ID,Yes,Nonpartisan,353,65.25,False,False
+179073,ID,No,Nonpartisan,188,34.75,False,False
+152252,ID,Tami Atkins,Republican,0,,False,False
+152252,ID,Jay L. Huber,Democratic,0,,False,False
+152252,ID,Sabrina Hyndman,Independent,0,,False,False
+152252,ID,Write-in,Nonpartisan,0,,False,False
+152400,ID,Donavan D. Harrington,Republican,12352,100.0,False,False
+152331,ID,Pam Wray Eckhardt,Republican,12641,100.0,False,False
+152418,ID,Martin K Adams,Republican,5986,100.0,False,False
+152349,ID,Amanda P Gier,Republican,20293,100.0,False,False
+152212,ID,Stewart Hyndman,Republican,40715,65.287,False,False
+152212,ID,Jeffrey A. Skinner,Independent,21648,34.713,False,False
+179038,ID,Yes,Nonpartisan,3843,61.321,False,False
+179038,ID,No,Nonpartisan,2424,38.679,False,False
+152230,ID,Jim Harberd,Republican,3720,100.0,False,False
+179049,ID,No,Nonpartisan,10079,52.997,False,False
+179049,ID,Yes,Nonpartisan,8939,47.003,False,False
+152440,ID,Carrie Nordin,Republican,3041,100.0,False,False
+152172,ID,Monica C. Church,Democratic,20654,70.535,True,False
+152172,ID,Bryan Hopkins,Republican,8628,29.465,False,False
+152103,ID,"Doug ""Doug O"" Okuniewicz",Republican,19374,77.206,True,False
+152103,ID,Brian Seguin,Democratic,5720,22.794,False,False
+152458,ID,Nickie M. Campbell,Republican,6232,100.0,False,False
+152382,ID,Tevian Kober,Republican,4402,100.0,False,False
+152121,ID,Treg A. Bernt,Republican,15399,100.0,True,False
+179051,ID,Yes,Nonpartisan,175,76.754,False,False
+179051,ID,No,Nonpartisan,53,23.246,False,False
+152119,ID,Melissa Wintrow,Democratic,20742,70.606,True,False
+152119,ID,Melissa J. Christian,Republican,8635,29.394,False,False
+152427,ID,Tiffany Nettleton,Republican,3201,100.0,False,False
+152137,ID,Cornel Rasor,Republican,16545,63.947,True,False
+152137,ID,Kathryn Larson,Independent,9328,36.053,False,False
+152253,ID,Dan Schoenberg,Republican,7710,50.634,False,False
+152253,ID,Laura Heinse,Democratic,7517,49.366,False,False
+179018,ID,Yes,Nonpartisan,1007,51.961,False,False
+179018,ID,No,Nonpartisan,931,48.039,False,False
+152271,ID,Jefferson Jenkins,Republican,6877,100.0,False,False
+152141,ID,Jordan Redman,Republican,19450,100.0,True,False
+152289,ID,"Suzanne ""Suzie"" Hawkins",Republican,20835,100.0,False,False
+152351,ID,Angie Mendenhall,Republican,2256,100.0,False,False
+152499,ID,Yes,Nonpartisan,25000,84.32,False,False
+152499,ID,No,Nonpartisan,4649,15.68,False,False
+152199,ID,Erin Bingham,Republican,12261,70.906,True,False
+152199,ID,Kamber Weninger,Democratic,5031,29.094,False,False
+179040,ID,Yes,Nonpartisan,13793,65.634,False,False
+179040,ID,No,Nonpartisan,7222,34.366,False,False
+152517,ID,Yes,Nonpartisan,43426,82.052,False,False
+152517,ID,No,Nonpartisan,9499,17.948,False,False
+152217,ID,Anne-Marie Kelso,Republican,7561,100.0,False,False
+152215,ID,Blake Van Etten,Republican,762,66.901,False,False
+152215,ID,Maddie Hansen,Independent,377,33.099,False,False
+152338,ID,Tonya Page,Republican,5061,100.0,False,False
+152501,ID,Yes,Nonpartisan,5266,82.436,False,False
+152501,ID,No,Nonpartisan,1122,17.564,False,False
+152233,ID,Karl T. Casperson,Republican,26333,100.0,False,False
+152164,ID,Steve Berch,Democratic,12227,58.29,True,False
+152164,ID,Steve Keyser,Republican,8749,41.71,False,False
+152443,ID,Chad Workman,Republican,1736,100.0,False,False
+152175,ID,James D. Holtzclaw,Republican,14099,61.654,True,False
+152175,ID,Mary A Mosley,Democratic,8769,38.346,False,False
+152461,ID,Robert Beers,Republican,17148,100.0,False,False
+152385,ID,Rebecca W. Arnold,Republican,113970,52.478,False,False
+152385,ID,Erik Olson,Democratic,103208,47.522,False,False
+152255,ID,Ted S. Lindsley,Republican,6453,83.404,False,False
+152255,ID,Michelle S. Perdue,Democratic,1284,16.596,False,False
+179074,ID,Yes,Nonpartisan,11274,65.402,False,False
+179074,ID,No,Nonpartisan,5964,34.598,False,False
+179005,ID,No,Nonpartisan,1549,51.806,False,False
+179005,ID,Yes,Nonpartisan,1441,48.194,False,False
+152273,ID,Justin Mcleod,Republican,1342,100.0,False,False
+152421,ID,Niki Houser,Republican,3756,100.0,False,False
+179023,ID,Yes,Nonpartisan,994,65.052,False,False
+179023,ID,No,Nonpartisan,534,34.948,False,False
+152291,ID,Trevor Reno,Republican,6001,100.0,False,False
+152242,ID,Rick Carlson,Republican,3204,100.0,False,False
+179076,ID,Yes,Nonpartisan,1778,53.57,False,False
+179076,ID,No,Nonpartisan,1541,46.43,False,False
+152144,ID,Ron Mendive,Republican,15756,75.204,True,False
+152144,ID,Mirna Pleines,Democratic,5195,24.796,False,False
+152484,ID,Miranda Gold,Nonpartisan,106107,62.175,False,False
+152484,ID,Sean Sundwall,Nonpartisan,64551,37.825,False,False
+152162,ID,Ted Hill,Republican,20804,74.067,True,False
+152162,ID,Jo Daly,Democratic,7284,25.933,False,False
+152502,ID,Yes,Nonpartisan,39698,78.999,False,False
+152502,ID,No,Nonpartisan,10553,21.001,False,False
+179043,ID,Yes,Nonpartisan,358,66.052,False,False
+179043,ID,No,Nonpartisan,184,33.948,False,False
+152104,ID,Ben Toews,Republican,11413,60.595,True,False
+152104,ID,Carissa Brewer,Democratic,7422,39.405,False,False
+152166,ID,Megan Woller,Democratic,13778,66.699,True,False
+152166,ID,Jackie Davidson,Republican,6879,33.301,False,False
+152314,ID,Jason C. Dixon,Republican,23793,100.0,False,False
+152430,ID,Eric Demment,Democratic,9499,100.0,False,False
+152177,ID,Jeff Ehlers,Republican,12293,59.519,True,False
+152177,ID,Casey Hess,Democratic,8361,40.481,False,False
+152332,ID,Roger N. Rudd,Republican,16733,100.0,False,False
+152448,ID,Duke Johnson,Republican,54288,100.0,False,False
+152387,ID,Katie Murray,Democratic,2296,50.186,False,False
+152387,ID,Robert Savage,Republican,2279,49.814,False,False
+179021,ID,Yes,Nonpartisan,2118,51.988,False,False
+179021,ID,No,Nonpartisan,1956,48.012,False,False
+152316,ID,Jennifer Locke,Republican,54308,100.0,False,False
+152464,ID,Scott O. Tweedy,Republican,12779,100.0,False,False
+179059,ID,Yes,Nonpartisan,0,,False,False
+179059,ID,No,Nonpartisan,0,,False,False
+152482,ID,Dana Kirkham,Nonpartisan,20599,100.0,False,False
+179077,ID,No,Nonpartisan,958,65.572,False,False
+179077,ID,Yes,Nonpartisan,503,34.428,False,False
+152276,ID,Kim Schwanz,Republican,2893,100.0,False,False
+152200,ID,Barbara Ehardt,Republican,7955,51.905,True,False
+152200,ID,Chance Marshall,Democratic,7371,48.095,False,False
+152294,ID,Kasey Kendall,Republican,2200,100.0,False,False
+152410,ID,JoAnn Watson,Republican,1315,100.0,False,False
+152504,ID,Yes,Nonpartisan,1374,88.02,False,False
+152504,ID,No,Nonpartisan,187,11.98,False,False
+152428,ID,Debby Carscallen,Democratic,11633,100.0,False,False
+152359,ID,Cynthia Sliman,Republican,3716,100.0,False,False
+152106,ID,Dan Foreman,Republican,12226,52.039,True,False
+152106,ID,Robin Weldy,Democratic,11268,47.961,False,False
+152446,ID,Craig J Rinehart,Republican,6008,100.0,False,False
+179048,ID,No,Nonpartisan,4939,51.995,False,False
+179048,ID,Yes,Nonpartisan,4560,48.005,False,False
+152412,ID,Justin L. Baldwin,Republican,3689,100.0,False,False
+179046,ID,Yes,Nonpartisan,4049,50.348,False,False
+179046,ID,No,Nonpartisan,3993,49.652,False,False
+152491,ID,Yes,Nonpartisan,23372,83.978,False,False
+152491,ID,No,Nonpartisan,4459,16.022,False,False
+179057,ID,Yes,Nonpartisan,1019,65.7,False,False
+179057,ID,No,Nonpartisan,532,34.3,False,False
+152317,ID,Jess Urresti,Republican,50869,100.0,False,False
+152180,ID,Chris Bruce,Republican,15492,82.422,True,False
+152180,ID,Paul M Smith,Constitution,3304,17.578,False,False
+179006,ID,Yes,Nonpartisan,709,65.406,False,False
+179006,ID,No,Nonpartisan,375,34.594,False,False
+152390,ID,Amy Martin,Republican,459,100.0,False,False
+179024,ID,Yes,Nonpartisan,1613,54.42,False,False
+179024,ID,No,Nonpartisan,1351,45.58,False,False
+179079,ID,Yes,Nonpartisan,4870,67.526,False,False
+179079,ID,No,Nonpartisan,2342,32.474,False,False
+152339,ID,Trent Tripple,Republican,148924,100.0,False,False
+152263,ID,Clay Tucker,Republican,3216,100.0,False,False
+152202,ID,Jon O Weber,Republican,10018,100.0,True,False
+152357,ID,Craig H Tibbitts,Republican,25753,100.0,False,False
+152281,ID,Michael Aebischer,Republican,3131,100.0,False,False
+152279,ID,Marshall Ralph,Republican,464,100.0,False,False
+179066,ID,Yes,Nonpartisan,0,,False,False
+179066,ID,No,Nonpartisan,0,,False,False
+152341,ID,BJ Swanson,Democratic,7884,51.668,False,False
+152341,ID,Peggy Gottschalk,Republican,7375,48.332,False,False
+152297,ID,Dawn Cieslik,Democratic,8350,73.581,False,False
+152297,ID,Darcy Creech,Republican,2998,26.419,False,False
+152413,ID,Kala Nichols,Republican,1821,100.0,False,False
+152507,ID,Yes,Nonpartisan,20015,89.205,False,False
+152507,ID,No,Nonpartisan,2422,10.795,False,False
+152431,ID,Julie Hernandez,Republican,2486,54.565,False,False
+152431,ID,Richard Rick Smith,Democratic,2070,45.435,False,False
+152109,ID,Brandon Shippy,Republican,15031,78.458,True,False
+152109,ID,Janice Martell,Democratic,4127,21.542,False,False
+152449,ID,Erin Benson,Republican,4463,100.0,False,False
+152319,ID,JoAnn Davis,Republican,2799,100.0,False,False
+152243,ID,Sheryl Koyle,Republican,5046,100.0,False,False
+152366,ID,Joan L Howell,Republican,7482,100.0,False,False
+179008,ID,Yes,Nonpartisan,883,62.58,False,False
+179008,ID,No,Nonpartisan,528,37.42,False,False
+152485,ID,Marisa Keith,Nonpartisan,75029,46.825,False,False
+152485,ID,Greg Ferch,Nonpartisan,27233,16.996,False,False
+152485,ID,Chris Campbell,Nonpartisan,26651,16.633,False,False
+152485,ID,Dave Case,Nonpartisan,21304,13.296,False,False
+152485,ID,Joel Meusch,Nonpartisan,10016,6.251,False,False
+152185,ID,Cherie Vollmer,Republican,8852,62.404,True,False
+152185,ID,Liyah Babayan,Independent,5333,37.596,False,False
+179026,ID,Yes,Nonpartisan,737,59.724,False,False
+179026,ID,No,Nonpartisan,497,40.276,False,False
+152306,ID,Ashley Leonardson,Republican,227,100.0,False,False
+152245,ID,Timothy Grubham,Republican,2926,100.0,False,False
+152393,ID,Brian R Stender,Republican,50301,100.0,False,False
+152132,ID,Kevin J Cook,Republican,12679,72.48,True,False
+152132,ID,Konnor Whitfield,Democratic,4814,27.52,False,False
+179082,ID,Yes,Nonpartisan,195,64.57,False,False
+179082,ID,No,Nonpartisan,107,35.43,False,False
+152342,ID,Jennifer Clark,Democratic,23690,100.0,False,False
+152205,ID,Joshua D. Wheeler,Republican,14863,69.639,True,False
+152205,ID,Mary Kaufman,Democratic,6480,30.361,False,False
+152360,ID,Deanna Curry,Republican,2181,100.0,False,False
+152415,ID,Laura M Porath,Republican,2165,100.0,False,False
+152154,ID,Mike Moyle,Republican,20799,76.226,True,False
+152154,ID,Michael Hofferber,Democratic,6487,23.774,False,False
+152494,ID,Yes,Nonpartisan,40631,80.718,False,False
+152494,ID,No,Nonpartisan,9706,19.282,False,False
+152433,ID,Torey Danner,Republican,16925,58.376,False,False
+152433,ID,Wilson Simmons,Independent,12068,41.624,False,False
+179060,ID,No,Nonpartisan,38530,57.263,False,False
+179060,ID,Yes,Nonpartisan,28756,42.737,False,False
+152512,ID,Yes,Nonpartisan,2029,88.719,False,False
+152512,ID,No,Nonpartisan,258,11.281,False,False
+152451,ID,Gary Terral Jensen,Republican,3870,100.0,False,False
+152183,ID,Chance Requa,Republican,14654,100.0,True,False
+152156,ID,Kent A. Marmon,Republican,8999,100.0,True,False
+152112,ID,Ben Adams,Republican,10980,63.391,True,False
+152112,ID,Krystal Flippence,Democratic,6341,36.609,False,False
+152228,ID,Greg Johnson,Republican,455,100.0,False,False
+152130,ID,Julie VanOrden,Republican,12259,76.03,True,False
+152130,ID,Joni Lin Sorensen,Democratic,3865,23.97,False,False
+152246,ID,Vern Eames,Republican,3691,100.0,False,False
+179011,ID,Yes,Nonpartisan,1103,55.623,False,False
+179011,ID,No,Nonpartisan,880,44.377,False,False
+152264,ID,Dan Schaeffer,Republican,5024,100.0,False,False
+152134,ID,Doug Ricks,Republican,9092,80.832,True,False
+152134,ID,Ethan Sanford,Democratic,2156,19.168,False,False
+152474,ID,Greg Woodard,Nonpartisan,84994,52.627,False,False
+152474,ID,Jeffrey Street Jr.,Nonpartisan,76510,47.373,False,False
+179069,ID,Yes,Nonpartisan,0,,False,False
+179069,ID,No,Nonpartisan,0,,False,False
+152344,ID,Karey Eddy,Democratic,3197,100.0,False,False
+152492,ID,Yes,Nonpartisan,9360,89.681,False,False
+152492,ID,No,Nonpartisan,1077,10.319,False,False
+152192,ID,Mary Shea,Democratic,10142,56.095,True,False
+152192,ID,Dustin W. Manwaring,Republican,7938,43.905,False,False
+152362,ID,Janet Kimpton,Republican,4166,100.0,False,False
+152510,ID,Yes,Nonpartisan,104864,73.867,False,False
+152510,ID,No,Nonpartisan,37099,26.133,False,False
+152402,ID,Dustin A. Barron,Republican,25357,100.0,False,False
+152476,ID,Chenele Dixon,Nonpartisan,23814,100.0,False,False
+152208,ID,Kim Keeley,Democratic,3792,61.941,False,False
+152208,ID,Brad Wolfe,Republican,2330,38.059,False,False
+152139,ID,Dale Hawkins,Republican,17465,77.805,True,False
+152139,ID,Sabine Krier,Democratic,4982,22.195,False,False
+152226,ID,"Franklin ""Bud"" Corbus",Republican,6159,100.0,False,False
+152157,ID,Debbie Geyer,Republican,7401,57.997,True,False
+152157,ID,Joshua Preminger,Democratic,5360,42.003,False,False
+152436,ID,Brad C. Horsley,Republican,1482,100.0,False,False
+152367,ID,Jodie Ricks,Republican,12604,100.0,False,False
+152454,ID,Joshua Hall,Republican,12795,100.0,False,False
+152378,ID,Nikki Zielinski,Republican,1809,100.0,False,False
+152248,ID,Will Naillon,Republican,1794,100.0,False,False
+179067,ID,Yes,Nonpartisan,0,,False,False
+179067,ID,No,Nonpartisan,0,,False,False
+152327,ID,Lori Osterberg,Republican,3715,100.0,False,False
+152266,ID,Dennis Thornock,Republican,1712,100.0,False,False
+152190,ID,Richard (Rick) Cheatum,Republican,11929,64.638,True,False
+152190,ID,Kim Jackman,Democratic,6526,35.362,False,False
+179016,ID,Yes,Nonpartisan,8857,60.532,False,False
+179016,ID,No,Nonpartisan,5775,39.468,False,False
+152380,ID,Sandi Herker Berry,Republican,1332,100.0,False,False
+179014,ID,Yes,Nonpartisan,2405,52.557,False,False
+179014,ID,No,Nonpartisan,2171,47.443,False,False
+152235,ID,Leonard M. Beck,Republican,5978,100.0,False,False
+179032,ID,"Shall all the real property within the city limits of the City of Hailey be annexed into and thereby be made a part of the BC South Fire Protection District, yes",Nonpartisan,0,,False,False
+179032,ID,"Shall all the real property within the city limits of the City of Hailey be annexed into and thereby be made a part of the BC South Fire Protection District, no",Nonpartisan,0,,False,False
+152477,ID,Tarie Zimmerman,Nonpartisan,41605,100.0,False,False
+152347,ID,Abbie Hudson,Republican,6816,100.0,False,False
+152495,ID,Yes,Nonpartisan,108326,76.457,False,False
+152495,ID,No,Nonpartisan,33356,23.543,False,False
+179036,ID,Yes,Nonpartisan,1874,52.128,False,False
+179036,ID,No,Nonpartisan,1721,47.872,False,False
+152513,ID,Yes,Nonpartisan,40334,79.26,False,False
+152513,ID,No,Nonpartisan,10554,20.74,False,False
+152159,ID,Jaron Crane,Republican,10844,62.758,True,False
+152159,ID,Curtis James,Democratic,6435,37.242,False,False
+152307,ID,Camille Larsen,Republican,4174,100.0,False,False
+152423,ID,Olivia Drake,Republican,4724,100.0,False,False
+152369,ID,Julie Barnett,Republican,2792,100.0,False,False
+152325,ID,Lindsey Bratcher,Republican,7466,100.0,False,False
+152441,ID,Casey Batterton,Republican,2299,100.0,False,False
+152439,ID,Carl Anderson,Republican,10081,100.0,False,False
+152146,ID,Colton Bennett,Republican,12434,53.15,True,False
+152146,ID,Trish Carter-Goodheart,Democratic,10960,46.85,False,False
+152309,ID,Christopher Poulter,Republican,25494,100.0,False,False
+152457,ID,Mike Piper,Republican,1201,100.0,False,False
+179052,ID,Yes,Nonpartisan,0,,False,False
+179052,ID,No,Nonpartisan,0,,False,False
+152251,ID,Dan Powers,Democratic,4510,100.0,False,False
+179070,ID,Yes,Nonpartisan,462,63.201,False,False
+179070,ID,No,Nonpartisan,269,36.799,False,False
+152269,ID,Jeff Hough,Republican,23346,100.0,False,False
+152193,ID,Nate Roberts,Democratic,10036,55.607,True,False
+152193,ID,Jennifer Miles,Republican,8012,44.393,False,False
+152479,ID,Mike Peña,Nonpartisan,174988,100.0,False,False
+152403,ID,Havala Arnold,Republican,4298,100.0,False,False
+152334,ID,Shelly Blackner,Republican,1002,100.0,False,False
+152497,ID,Yes,Nonpartisan,981,92.373,False,False
+152497,ID,No,Nonpartisan,81,7.627,False,False
+152229,ID,Jason Todd Povey,Republican,2128,100.0,False,False
+152352,ID,Annette L Dygert,Republican,3191,100.0,False,False
+152515,ID,Yes,Nonpartisan,107539,76.63,False,False
+152515,ID,No,Nonpartisan,32796,23.37,False,False
+152466,ID,Shellie Summers,Republican,222,100.0,False,False
+152405,ID,Holly Nelson Standlee,Republican,1048,100.0,False,False
+179039,ID,Yes,Nonpartisan,122,73.494,False,False
+179039,ID,No,Nonpartisan,44,26.506,False,False
+152292,ID,Vincent C Frazier,Republican,2698,100.0,False,False
+179050,ID,Yes,Nonpartisan,221,68.634,False,False
+179050,ID,No,Nonpartisan,101,31.366,False,False
+152310,ID,Cy Lootens,Republican,4384,100.0,False,False
+152173,ID,Chris Mathias,Democratic,20701,70.899,True,False
+152173,ID,Stanley Roach,Republican,8497,29.101,False,False
+152328,ID,Melanie Smoot,Republican,9975,100.0,False,False
+179054,ID,Yes,Nonpartisan,2858,59.554,False,False
+179054,ID,No,Nonpartisan,1941,40.446,False,False
+152122,ID,Lori Den Hartog,Republican,14650,58.346,True,False
+152122,ID,Karlie Easley,Democratic,10459,41.654,False,False
+152238,ID,Mike Tornatore,Republican,1263,100.0,False,False
+179072,ID,Yes,Nonpartisan,0,,False,False
+179072,ID,No,Nonpartisan,0,,False,False
+152140,ID,Vito Barbieri,Republican,19129,76.257,True,False
+152140,ID,Melissa Mateer,Democratic,5956,23.743,False,False
+152256,ID,Muffy Davis,Democratic,9610,100.0,False,False
+152195,ID,Ben G. Fuhriman,Republican,11867,74.276,True,False
+152195,ID,Bree Buckingham,Democratic,4110,25.724,False,False
+152350,ID,Angie L Moffat,Republican,10149,100.0,False,False
+152124,ID,Brent D Reinke,Republican,13508,76.789,True,False
+152124,ID,Mary Jo Durfee,Democratic,4083,23.211,False,False
+152272,ID,Jon Walker,Republican,25810,100.0,False,False
+152388,ID,Aaron V Cook,Republican,2262,100.0,False,False
+152290,ID,Tim Bertling,Republican,4651,100.0,False,False
+152406,ID,Jacquel L. Bruno,Republican,1663,100.0,False,False
+152500,ID,Yes,Nonpartisan,39502,79.123,False,False
+152500,ID,No,Nonpartisan,10423,20.877,False,False
+152424,ID,Shawn Boice,Republican,10049,100.0,False,False
+152102,ID,Phil Hart,Republican,17449,77.123,True,False
+152102,ID,Valerie Wade,Democratic,5176,22.877,False,False
+152218,ID,Blake Phillips,Republican,2196,100.0,False,False
+152312,ID,Donna White,Republican,3781,100.0,False,False
+152236,ID,Lester Pinkerton,Republican,4732,100.0,False,False
+152167,ID,Annie Haws,Democratic,14121,68.612,True,False
+152167,ID,Chandler Stewart Hadraba,Republican,6460,31.388,False,False
+152330,ID,Pam Barton,Republican,4712,100.0,False,False
+152254,ID,Rod W Beck,Republican,109576,50.136,False,False
+152254,ID,Michael Fitzgerald,Democratic,108982,49.864,False,False
+152370,ID,Kammy McFarland,Republican,3325,100.0,False,False
+152220,ID,Brent Mendenhall,Republican,10109,100.0,False,False
+152176,ID,James Petzke,Republican,12548,60.919,True,False
+152176,ID,Camille Allan,Democratic,8050,39.081,False,False
+152299,ID,Julie Fry,Republican,8241,54.242,False,False
+152299,ID,Shannon May,Democratic,6952,45.758,False,False
+152386,ID,Jim Williams,Democratic,9541,100.0,False,False
+152125,ID,Casey Swensen,Republican,9208,64.468,True,False
+152125,ID,W. Lane Startin,Democratic,5075,35.532,False,False
+179075,ID,Yes,Nonpartisan,288,64.719,False,False
+179075,ID,No,Nonpartisan,157,35.281,False,False
+152335,ID,Tamra Giampedraglia,Republican,1701,100.0,False,False
+152198,ID,Stephanie Mickelsen,Republican,12274,100.0,True,False
+152353,ID,Barbara Andersen,Republican,1032,100.0,False,False
+152408,ID,Jenny Rosin,Republican,3328,100.0,False,False
+152147,ID,Brandon Mitchell,Republican,12711,53.894,True,False
+152147,ID,Kathy Dawes,Democratic,10874,46.106,False,False
+152487,ID,Yes,Nonpartisan,10943,81.921,False,False
+152487,ID,No,Nonpartisan,2415,18.079,False,False
+152426,ID,Susan Spencer,Republican,2740,100.0,False,False
+152165,ID,Jae Etchart,Democratic,11070,53.329,True,False
+152165,ID,Dori Healey,Republican,9688,46.671,False,False
+152505,ID,Yes,Nonpartisan,21765,82.883,False,False
+152505,ID,No,Nonpartisan,4495,17.117,False,False
+152503,ID,Yes,Nonpartisan,1055,87.99,False,False
+152503,ID,No,Nonpartisan,144,12.01,False,False
+152395,ID,Carrie May,Republican,243,100.0,False,False
+152149,ID,Charlie Shepherd,Republican,14476,71.062,True,False
+152149,ID,Pete Gertonson,Democratic,5895,28.938,False,False
+152105,ID,Carl J Bjerke,Republican,15920,75.961,True,False
+152105,ID,Adam Chapman,Democratic,5038,24.039,False,False
+152221,ID,Brian M Farnsworth,Republican,9801,100.0,False,False
+152315,ID,Jennifer Hohnhorst,Republican,1212,100.0,False,False
+152239,ID,Mitch Reggear,Republican,2813,100.0,False,False
+179004,ID,Yes,Nonpartisan,1300,60.381,False,False
+179004,ID,No,Nonpartisan,853,39.619,False,False
+152257,ID,Michael Weaver,Republican,3202,52.961,False,False
+152257,ID,Julie Thrower,Independent,2844,47.039,False,False
+152127,ID,Kelly Arthur Anthon,Republican,11124,77.801,True,False
+152127,ID,Margo Saunders,Democratic,3174,22.199,False,False
+152467,ID,Tara Beard Parsons,Republican,1009,100.0,False,False
+179062,ID,Yes,Nonpartisan,20984,58.16,False,False
+179062,ID,No,Nonpartisan,15096,41.84,False,False
+152337,ID,Teresa L. Morton,Republican,3261,100.0,False,False
+152293,ID,Whitney K. Manwaring,Republican,12399,100.0,False,False
+179080,ID,Yes,Nonpartisan,441,58.488,False,False
+179080,ID,No,Nonpartisan,313,41.512,False,False
+152355,ID,Cathy Smith,Republican,6160,100.0,False,False
+152114,ID,C. Scott Grow,Republican,21596,82.111,True,False
+152114,ID,Kirsten Faith Richardson,Constitution,4705,17.889,False,False
+152469,ID,Wendy Mott,Republican,1819,100.0,False,False
+152201,ID,Marco Erickson,Republican,8393,55.609,True,False
+152201,ID,Todd DeVries,Democratic,6700,44.391,False,False
+179027,ID,Yes,Nonpartisan,633,68.581,False,False
+179027,ID,No,Nonpartisan,290,31.419,False,False
+152411,ID,Josh Dison,Republican,6231,100.0,False,False
+152150,ID,Rob Beiswenger,Republican,11634,60.796,True,False
+152150,ID,Heather S. Lewis,Independent,7502,39.204,False,False
+152429,ID,Dotti Owens,Democratic,110157,50.858,False,False
+152429,ID,Brett Harding,Republican,106439,49.142,False,False
+152168,ID,John Gannon,Democratic,13548,67.838,True,False
+152168,ID,James R Nechwedowich,Republican,6423,32.162,False,False
+152223,ID,Craig Yadon,Republican,23739,100.0,False,False
+152371,ID,Kristine Lund,Republican,10045,100.0,False,False
+152302,ID,Theresa Forthun,Republican,5100,77.59,False,False
+152302,ID,Jeffrey J Crystal,Independent,1473,22.41,False,False
+152241,ID,"R. Skipper ""Skip"" Brandt",Republican,6423,100.0,False,False
+152389,ID,Allyson Knapp,Republican,54406,100.0,False,False
+152320,ID,Julie Kennedy,Republican,6213,100.0,False,False
+152259,ID,Bruce Mattare,Republican,52818,100.0,False,False
+179078,ID,"Shall all the real property within the city limits of the City of Hailey be annexed into and thereby be made a part of the BC South Fire Protection District, yes",Nonpartisan,2785,76.114,False,False
+179078,ID,"Shall all the real property within the city limits of the City of Hailey be annexed into and thereby be made a part of the BC South Fire Protection District, no",Nonpartisan,874,23.886,False,False
+152373,ID,Laura S Greener,Republican,6044,100.0,False,False
+179007,ID,Yes,Nonpartisan,722,65.162,False,False
+179007,ID,No,Nonpartisan,386,34.838,False,False
+152452,ID,Jennifer Crawford,Republican,50454,100.0,False,False
+179025,ID,Yes,Nonpartisan,179228,81.791,False,False
+179025,ID,No,Nonpartisan,39901,18.209,False,False
+152470,ID,Wesley A. Walker,Republican,480,100.0,False,False
+152340,ID,Todd Christensen,Republican,116618,53.643,False,False
+152340,ID,April Frederick,Democratic,100780,46.357,False,False
+152488,ID,Yes,Nonpartisan,109865,77.09,False,False
+152488,ID,No,Nonpartisan,32650,22.91,False,False
+179029,ID,Yes,Nonpartisan,19832,71.534,False,False
+179029,ID,No,Nonpartisan,7892,28.466,False,False
+152282,ID,Mike Elliott,Republican,3704,100.0,False,False
+152398,ID,Cory Gabel,Republican,16781,100.0,False,False
+152152,ID,John C. Shirts,Republican,16425,100.0,True,False
+152300,ID,Gabby Knapp,Republican,3856,65.601,False,False
+152300,ID,Brett William Mayes,Independent,2022,34.399,False,False
+152416,ID,Lynette McCaslin,Republican,7476,100.0,False,False
+152170,ID,Ilana Rubel,Democratic,15570,100.0,True,False
+152318,ID,Jill Stoor,Republican,2279,100.0,False,False
+152210,ID,Hannah Liedkie,Republican,9864,66.626,False,False
+152210,ID,Loren Beauchamp,Democratic,4941,33.374,False,False
+152284,ID,Randy Willie,Republican,1456,100.0,False,False
+152432,ID,Ron Smellie,Republican,3368,72.555,False,False
+152432,ID,Todd Goodsell,Independent,1274,27.445,False,False
+179034,ID,No,Nonpartisan,50,53.191,False,False
+179034,ID,Yes,Nonpartisan,44,46.809,False,False
+152450,ID,Ethan Mittelstadt,Republican,7561,100.0,False,False
+152374,ID,LaVonna Dayley,Republican,5055,100.0,False,False
+152244,ID,Tim Ridinger,Republican,1220,100.0,False,False
+179063,ID,Yes,Nonpartisan,10045,54.948,False,False
+179063,ID,No,Nonpartisan,8236,45.052,False,False
+152262,ID,Chris Christopherson,Republican,3456,100.0,False,False
+152186,ID,Anita Janis,Democratic,9694,50.994,True,False
+152186,ID,Mike Pohanka,Republican,8338,43.861,False,False
+152186,ID,Bella Schiffler,Independent,978,5.145,False,False
+152472,ID,Brian J Oakey,Republican,4435,100.0,False,False
+152396,ID,Chris Barton,Republican,4043,100.0,False,False
+152135,ID,Mark Harris,Republican,15042,69.999,True,False
+152135,ID,Marty Rotz Kilhefner,Democratic,6447,30.001,False,False
+152490,ID,Yes,Nonpartisan,436,93.362,False,False
+152490,ID,No,Nonpartisan,31,6.638,False,False
+152414,ID,Kathleen Atkinson,Republican,1457,100.0,False,False
+152345,ID,Liz Card,Democratic,4454,100.0,False,False
+152188,ID,Douglas T Pickett,Republican,12363,100.0,True,False
+152343,ID,John David Davidson,Democratic,9513,100.0,False,False
+152459,ID,Pamela Garlock,Republican,3216,100.0,False,False
+152361,ID,Gina Turner,Republican,3289,100.0,False,False
+152285,ID,Rebecca Wood,Republican,1137,100.0,False,False
+152155,ID,Bruce D. Skaug,Republican,20666,75.747,True,False
+152155,ID,Beth Ann McFalls,Democratic,6617,24.253,False,False
+152303,ID,"Alesia ""Lisa"" Winner",Republican,1300,100.0,False,False
+152365,ID,Jennifer Watters,Republican,50581,100.0,False,False
+152321,ID,Kathy M. Ackerman,Republican,6819,100.0,False,False
+152376,ID,Lori Beard,Republican,4476,100.0,False,False
+152115,ID,Nancy Gregory,Democratic,11365,54.524,True,False
+152115,ID,Desi Burbank,Republican,9479,45.476,False,False
+152231,ID,Joe Iveson,Republican,1746,100.0,False,False
+179065,ID,Yes,Nonpartisan,0,,False,False
+179065,ID,No,Nonpartisan,0,,False,False
+152133,ID,Dave Lent,Republican,8321,54.812,True,False
+152133,ID,Jan Brown,Democratic,6860,45.188,False,False
+152249,ID,Zan Bowles,Republican,4109,100.0,False,False
+152247,ID,Walt Holton,Republican,3154,100.0,False,False
+179041,ID,No,Nonpartisan,2864,51.244,False,False
+179041,ID,Yes,Nonpartisan,2725,48.756,False,False
+152117,ID,Carrie Semmelroth,Democratic,13213,66.344,True,False
+152117,ID,Benjamin Chafetz,Republican,6703,33.656,False,False
+152265,ID,Daren Ward,Republican,1747,100.0,False,False
+152381,ID,Sara Sexton,Republican,2732,100.0,False,False
+152475,ID,Amy Gardels,Nonpartisan,20385,100.0,False,False
+152399,ID,David Sutherland,Republican,11994,100.0,False,False
+152493,ID,Yes,Nonpartisan,100132,64.869,False,False
+152493,ID,No,Nonpartisan,54229,35.131,False,False
+152417,ID,Mark Swenson,Republican,4413,100.0,False,False
+152287,ID,Robert J Presher,Republican,7375,100.0,False,False
+152211,ID,Steve Smith,Republican,15419,67.159,False,False
+152211,ID,Fred Arn,Independent,7540,32.841,False,False
+152142,ID,Joe Alfieri,Republican,11272,60.436,True,False
+152142,ID,Maxwell McSwain,Democratic,7379,39.564,False,False
+152305,ID,Angela Barkell,Republican,3191,100.0,False,False
+152453,ID,John L. Buck,Republican,7172,100.0,False,False
+152160,ID,Brent J Crane,Republican,10209,62.261,True,False
+152160,ID,Cliff Hohman,Democratic,6188,37.739,False,False
+152323,ID,Kristina Glascock,Republican,21144,100.0,False,False
+87105,ID,Mike Simpson,Republican,170868,51.674,True,False
+87105,ID,Ellie Gilbreath,Democratic,133156,40.269,False,False
+87105,ID,Tripp Hutchinson,Independent,11641,3.52,False,False
+87105,ID,Emre Houser,Independent,7857,2.376,False,False
+87105,ID,Will Johanson,Libertarian,7145,2.161,False,False
+87103,ID,Jim Risch,Republican,402983,56.497,True,False
+87103,ID,Todd Achilles,Independent,239422,33.566,False,False
+87103,ID,Natalie M Fleming,Independent,50134,7.029,False,False
+87103,ID,Matt Loesby,Libertarian,20742,2.908,False,False
+87104,ID,Russ Fulcher,Republican,244717,64.17,True,False
+87104,ID,Kaylee Peterson,Democratic,110112,28.874,False,False
+87104,ID,Sarah Zabel Peterson,Independent,23106,6.059,False,False
+87104,ID,Brendan Gomez,Constitution,3421,0.897,False,False

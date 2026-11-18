@@ -1,0 +1,368 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+159579,SD,Republican,Republican,321066,72.84,False,False
+159579,SD,Democratic,Democratic,104939,23.807,False,False
+159579,SD,Independent,Independent,13224,3.0,False,False
+159579,SD,Libertarian,Libertarian,1554,0.353,False,False
+87481,SD,Catherine Barranco,Republican,182694,62.548,True,False
+87481,SD,Tom Cool,Democratic,109392,37.452,False,False
+87482,SD,No,Nonpartisan,171362,57.594,True,False
+87482,SD,Yes,Nonpartisan,126175,42.406,False,False
+159580,SD,Republican,Republican,188509,79.763,False,False
+159580,SD,Democratic,Democratic,38566,16.318,False,False
+159580,SD,Independent,Independent,9262,3.919,False,False
+169500,SD,Brock Greenfield,Republican,179745,61.818,True,False
+169500,SD,Raeann Mettler,Democratic,111022,38.182,False,False
+169501,SD,Don Haggar,Republican,174568,60.239,True,False
+169501,SD,Frank Kloucek,Democratic,115224,39.761,False,False
+87447,SD,Larry Rhoden,Republican,193334,63.493,True,False
+87447,SD,Dan Ahlers,Democratic,111161,36.507,False,False
+87478,SD,Lance Russell,Republican,193278,100.0,True,False
+169502,SD,No,Nonpartisan,165420,55.768,True,False
+169502,SD,Yes,Nonpartisan,131202,44.232,False,False
+87479,SD,Heather Baxter,Republican,172365,58.392,True,False
+87479,SD,Terrence Davis,Democratic,106561,36.099,False,False
+87479,SD,Tamara J. Lesnar,Libertarian,16261,5.509,False,False
+169503,SD,Yes,Nonpartisan,183765,61.523,True,False
+169503,SD,No,Nonpartisan,114928,38.477,False,False
+169504,SD,Yes,Nonpartisan,178578,60.936,True,False
+169504,SD,No,Nonpartisan,114481,39.064,False,False
+87480,SD,Melissa Hull,Republican,182362,62.428,True,False
+87480,SD,Margaret Kuipers,Democratic,109756,37.572,False,False
+169572,SD,Scott Odenbach,Republican,6253,38.812,True,False
+169572,SD,Mary J. Fitzgerald,Republican,5991,37.186,True,False
+169572,SD,Morgan Plucker,Democratic,3867,24.002,False,False
+169516,SD,Kari Shanard-Koenders,Republican,4011,50.849,True,False
+169516,SD,Joe Zweifel,Democratic,3877,49.151,False,False
+169630,SD,Brett Bastian,Nonpartisan,486,52.484,False,False
+169630,SD,Colin Steen,Nonpartisan,440,47.516,False,False
+169549,SD,Kathleen Brudvig,Democratic,4183,31.359,True,False
+169549,SD,Adam Bair,Democratic,3764,28.218,True,False
+169549,SD,John Pohlman,Republican,2852,21.381,False,False
+169549,SD,Kimberly Petterson,Republican,2540,19.042,False,False
+169621,SD,Stephanie Wollman,Nonpartisan,24474,40.385,False,False
+169621,SD,Reid A Christopherson,Nonpartisan,21125,34.859,False,False
+169621,SD,Allen L Severtson Jr,Nonpartisan,15002,24.755,False,False
+169515,SD,Chris Karr,Republican,4210,50.209,False,False
+169515,SD,Aaron Matson,Democratic,4175,49.791,False,False
+169530,SD,Rebecca Reimer,Republican,3187,54.072,True,False
+169530,SD,Shawn Bordeaux,Democratic,2707,45.928,False,False
+169588,SD,William Merchen,Independent,893,70.481,False,False
+169588,SD,Matthew R Kindsvogel,Republican,374,29.519,False,False
+169539,SD,Greg Blanc,Republican,4213,100.0,True,False
+169529,SD,Bart Sample,Republican,5718,57.962,True,False
+169529,SD,Bryan J. Breitling,Independent,4147,42.038,False,False
+169601,SD,Philip Nelson,Republican,1344,62.921,False,False
+169601,SD,Bob Burns,Independent,792,37.079,False,False
+169506,SD,John Sjaarda,Republican,7111,100.0,True,False
+169610,SD,Lee James Brooks,Democratic,279,21.041,False,False
+169610,SD,Shane Clinton Farlee,Democratic,255,19.231,False,False
+169610,SD,Tucker Reed Stocklin,Republican,221,16.667,False,False
+169610,SD,Rick K Farlee,Republican,202,15.234,False,False
+169610,SD,Casey James Gage,Independent,201,15.158,False,False
+169610,SD,Troy H Wall,Republican,168,12.67,False,False
+169575,SD,Mike Derby,Republican,5453,38.261,True,False
+169575,SD,Becky J Drury,Republican,4941,34.669,True,False
+169575,SD,Victor Diego Dominquez,Democratic,3858,27.07,False,False
+169519,SD,Erik Muckey,Democratic,3292,63.296,True,False
+169519,SD,Brenda Lawrence,Republican,1909,36.704,False,False
+169609,SD,Patsy Valandra,Democratic,170,62.731,False,False
+169609,SD,Craig Lafferty,Independent,101,37.269,False,False
+169624,SD,No,Nonpartisan,6179,56.025,False,False
+169624,SD,Yes,Nonpartisan,4850,43.975,False,False
+169565,SD,Eric E. Emery,Democratic,1523,64.479,True,False
+169565,SD,Ron Frederick,Republican,839,35.521,False,False
+169623,SD,No,Nonpartisan,5521,60.359,False,False
+169623,SD,Yes,Nonpartisan,3626,39.641,False,False
+169542,SD,Spencer Sommers,Republican,4354,37.04,True,False
+169542,SD,Timothy Hanigan,Republican,3772,32.088,False,False
+169542,SD,Erin Ronayne Rudner,Democratic,3629,30.872,False,False
+169614,SD,"Martin ""Marty"" Stanwick",Independent,6151,23.63,False,False
+169614,SD,Kelly VanderWal,Republican,5972,22.943,False,False
+169614,SD,Larry Jensen,Independent,5790,22.244,False,False
+169614,SD,Alan Brutty,Republican,5072,19.485,False,False
+169614,SD,Michael Lambertus,Republican,3045,11.698,False,False
+169636,SD,Yes,Nonpartisan,2884,73.553,False,False
+169636,SD,No,Nonpartisan,1037,26.447,False,False
+169523,SD,Kyle Schoenfish,Republican,6177,77.924,True,False
+169523,SD,Russell E. Graeff,Democratic,1750,22.076,False,False
+169541,SD,Adam Long,Republican,6594,40.979,True,False
+169541,SD,Manuel Luschas,Republican,5309,32.994,True,False
+169541,SD,Blake Rife,Democratic,4188,26.027,False,False
+169581,SD,Misti Ramser,Republican,592,54.312,False,False
+169581,SD,Jessica Manger,Independent,498,45.688,False,False
+169532,SD,Sam Marty,Republican,5576,100.0,True,False
+169522,SD,Lauren Nelson,Republican,4485,57.655,True,False
+169522,SD,Kay Swihart,Democratic,3294,42.345,False,False
+169569,SD,Travis Ismay,Republican,3274,100.0,True,False
+169627,SD,Taylor Fitts,Nonpartisan,81,51.592,False,False
+169627,SD,Nikki Oien,Nonpartisan,76,48.408,False,False
+169603,SD,Mike Mueller,Republican,6030,61.739,False,False
+169603,SD,Leslie Hladysz,Independent,3737,38.261,False,False
+169568,SD,Jana Hunt,Republican,1832,58.549,True,False
+169568,SD,"Chastity ""Chas"" Jewett",Democratic,1297,41.451,False,False
+169512,SD,Casey Crabtree,Republican,6100,59.81,True,False
+169512,SD,Clint Hoyer,Independent,4099,40.19,False,False
+169577,SD,Brenda Hanten,Republican,4991,52.256,False,False
+169577,SD,Debbie Melville,Independent,4560,47.744,False,False
+169617,SD,Lori Waldron,Republican,252,30.288,False,False
+169617,SD,Jake Lolley,Independent,233,28.005,False,False
+169617,SD,Marty M Roghair,Independent,186,22.356,False,False
+169617,SD,Rodney Mann,Independent,161,19.351,False,False
+169639,SD,Yes,Nonpartisan,367,72.817,False,False
+169639,SD,No,Nonpartisan,137,27.183,False,False
+169558,SD,Jessica Bahmuller,Republican,5580,42.279,True,False
+169558,SD,Drew Peterson,Republican,5506,41.718,True,False
+169558,SD,Heidi Hora,Democratic,2112,16.002,False,False
+169616,SD,Timothy Walburg,Republican,2887,41.061,False,False
+169616,SD,Corey Johnke,Republican,2284,32.485,False,False
+169616,SD,Charles J Johnson,Democratic,1860,26.454,False,False
+169535,SD,Randy Deibert,Republican,6941,100.0,True,False
+169597,SD,Dan LaMont,Republican,86,77.477,False,False
+169597,SD,Ethan Thomas,Independent,25,22.523,False,False
+169548,SD,Tesa Schwans,Republican,4576,35.393,True,False
+169548,SD,Megan Tschetter,Republican,4255,32.911,True,False
+169548,SD,Amanda Potter,Democratic,4098,31.696,False,False
+169534,SD,Amber Hulse,Republican,8709,100.0,True,False
+169606,SD,Joseph Fritz,Republican,434,62.717,False,False
+169606,SD,James Pirmantgen,Independent,258,37.283,False,False
+169525,SD,Mykala Voita,Republican,6192,75.817,True,False
+169525,SD,Dan Andersson,Democratic,1975,24.183,False,False
+169547,SD,Jon Nelson,Republican,6188,52.057,True,False
+169547,SD,Todd Wilkinson,Republican,5699,47.943,True,False
+169562,SD,Spencer Gosch,Republican,5579,42.721,True,False
+169562,SD,Dick Werner,Republican,5190,39.743,True,False
+169562,SD,Garett Heinz,Independent,2290,17.536,False,False
+169605,SD,Robert Horton,Independent,231,54.481,False,False
+169605,SD,Ken M. Nelson,Republican,193,45.519,False,False
+169620,SD,Greg Neugebauer,Nonpartisan,2096,66.54,False,False
+169620,SD,Tamarah Caster,Nonpartisan,1054,33.46,False,False
+169571,SD,Trish Ladner,Republican,7726,41.437,True,False
+169571,SD,Tim R Goodwin,Republican,7389,39.63,True,False
+169571,SD,Bret Swanson,Democratic,3530,18.933,False,False
+169561,SD,Lana Greenfield,Republican,4376,39.169,True,False
+169561,SD,Kevin Van Diepen,Republican,4318,38.65,True,False
+169561,SD,Cully Williams,Democratic,2478,22.18,False,False
+169633,SD,Tony Fischer,Nonpartisan,57,65.517,False,False
+169633,SD,Douglas Riedel,Nonpartisan,30,34.483,False,False
+169538,SD,Taffy Howard,Republican,4943,52.301,True,False
+169538,SD,Michael Calabrese,Democratic,4508,47.699,False,False
+169514,SD,Liz Larson,Democratic,4487,62.633,True,False
+169514,SD,Michael Dupic,Republican,2677,37.367,False,False
+169600,SD,Glen Haines,Republican,1647,64.061,False,False
+169600,SD,Lisa Schieffer,Independent,924,35.939,False,False
+169551,SD,Stephanie Arne,Democratic,4270,36.35,True,False
+169551,SD,Amber Arlint,Republican,4126,35.124,True,False
+169551,SD,Kerry Loudenslager,Republican,3351,28.526,False,False
+169641,SD,Yes,Nonpartisan,22530,67.391,False,False
+169641,SD,No,Nonpartisan,10902,32.609,False,False
+169528,SD,Jim Mehlhaff,Republican,6993,100.0,True,False
+169590,SD,Corey Graff,Republican,70,66.038,False,False
+169590,SD,Robert Shadwell,Independent,36,33.962,False,False
+169527,SD,Mark Lapka,Republican,6267,100.0,True,False
+169574,SD,Curt Massie,Republican,5825,38.751,True,False
+169574,SD,Phil Jensen,Republican,5403,35.943,True,False
+169574,SD,Kari Hall,Democratic,3804,25.306,False,False
+169518,SD,Larry P. Zikmund,Republican,5530,100.0,True,False
+169508,SD,Stephanie Sauder,Republican,7565,100.0,True,False
+169555,SD,Lisa Bogue,Republican,5355,39.416,True,False
+169555,SD,John Shubeck,Republican,4837,35.603,True,False
+169555,SD,Tim Rhead,Democratic,3394,24.982,False,False
+169573,SD,Nicole Uhre-Balk,Democratic,3283,32.758,True,False
+169573,SD,Steve Duffy,Republican,2666,26.601,True,False
+169573,SD,Zachary Martin,Republican,2317,23.119,False,False
+169573,SD,Samuel Hare Sr,Independent,1756,17.521,False,False
+169613,SD,Mike Davies,Republican,6306,29.192,False,False
+169613,SD,Eric Jennings,Republican,5869,27.169,False,False
+169613,SD,Robert D. Haiwick,Republican,5476,25.35,False,False
+169613,SD,Michaela Madrid,Independent,3951,18.29,False,False
+169564,SD,Carrie Sanderson,Republican,6325,57.884,True,False
+169564,SD,Nick Buchholz,Republican,4602,42.116,True,False
+169554,SD,Kadyn Wittman,Democratic,3204,32.771,True,False
+169554,SD,June CopperStad,Democratic,2906,29.723,True,False
+169554,SD,Joni Tschetter,Republican,1886,19.29,False,False
+169554,SD,Andre Zachariahs,Republican,1781,18.216,False,False
+169594,SD,Kelly Brandlee,Republican,355,68.008,False,False
+169594,SD,Richard Tobin,Democratic,167,31.992,False,False
+169531,SD,Anthony Kathol,Republican,2271,42.656,True,False
+169531,SD,Celestine Stadnick,Democratic,2037,38.261,False,False
+169531,SD,Peri Pourier,Independent,1016,19.083,False,False
+169635,SD,Brian J Hunhoff,Nonpartisan,2998,31.866,False,False
+169635,SD,Ben Brunick,Nonpartisan,2456,26.105,False,False
+169635,SD,Charlie Gross,Nonpartisan,2092,22.236,False,False
+169635,SD,Sam Hummel,Nonpartisan,1862,19.792,False,False
+169593,SD,Ben Braaten,Republican,247,62.217,False,False
+169593,SD,Joseph Bury,Democratic,150,37.783,False,False
+169544,SD,Matt Roby,Republican,5825,46.037,True,False
+169544,SD,Byron I. Callies,Republican,4137,32.696,True,False
+169544,SD,Neal Tapio,Independent,2691,21.268,False,False
+169602,SD,Katherine E. O'Brien,Republican,68,34.171,False,False
+169602,SD,Kirby Krogman,Independent,67,33.668,False,False
+169602,SD,Joe Bechtold,Independent,33,16.583,False,False
+169602,SD,Cecil Brandis Jr,Independent,31,15.578,False,False
+169521,SD,Sydney Davis,Republican,4926,100.0,True,False
+169511,SD,Tim Reed,Republican,5313,100.0,True,False
+169583,SD,Jenna Baker,Republican,6689,62.467,False,False
+169583,SD,Lacey Klingbile,Independent,4019,37.533,False,False
+169520,SD,Kevin D. Jensen,Republican,6478,100.0,True,False
+169567,SD,Liz May,Republican,2455,33.649,True,False
+169567,SD,Evangeline Poor Bear,Independent,1602,21.957,False,False
+169567,SD,Joe Flood,Independent,1474,20.203,False,False
+169567,SD,Elizabeth Lone Eagle,Independent,1009,13.829,False,False
+169567,SD,Jay Yohner,Independent,756,10.362,False,False
+169629,SD,Rob Schoeneman,Nonpartisan,499,46.943,False,False
+169629,SD,Adam Buss,Nonpartisan,301,28.316,False,False
+169629,SD,Ross Kotewa,Nonpartisan,263,24.741,False,False
+169580,SD,Kaeloni Latham,Independent,481,74.228,False,False
+169580,SD,Mary Blaha,Independent,88,13.58,False,False
+169580,SD,Clancy Adolph,Republican,79,12.191,False,False
+169566,SD,Angi Hanzlik,Republican,2420,68.304,True,False
+169566,SD,Lewis J. GrassRope,Democratic,1123,31.696,False,False
+169638,SD,No,Nonpartisan,955,75.674,False,False
+169638,SD,Yes,Nonpartisan,307,24.326,False,False
+169557,SD,Mike Stevens,Republican,5106,35.614,True,False
+169557,SD,John R. Marquardt,Republican,3853,26.875,True,False
+169557,SD,Karen Springer,Democratic,3021,21.071,False,False
+169557,SD,Jarod Holcomb,Democratic,2357,16.44,False,False
+169579,SD,Brittany Folk,Republican,1733,60.637,False,False
+169579,SD,Kathy Folk,Democratic,1125,39.363,False,False
+169587,SD,Lonnie Schultz,Republican,295,48.44,False,False
+169587,SD,Brandon Watson,Independent,207,33.99,False,False
+169587,SD,Thomas Keller,Independent,107,17.57,False,False
+169637,SD,Yes,Nonpartisan,264,76.968,False,False
+169637,SD,No,Nonpartisan,79,23.032,False,False
+169524,SD,Paul Miskimins,Republican,5335,100.0,True,False
+169596,SD,Jeffrey Stan Shepherd,Republican,248,51.452,False,False
+169596,SD,Randall G Rudebusch,Democratic,234,48.548,False,False
+169586,SD,Daylon Black Bull,Democratic,1369,62.827,False,False
+169586,SD,Derek Puckett,Independent,810,37.173,False,False
+169505,SD,Michael H. Rohl,Republican,6026,100.0,True,False
+169570,SD,Gary L Cammack,Republican,5160,52.707,True,False
+169570,SD,Gary Deering,Republican,4630,47.293,True,False
+169546,SD,Mellissa Heermann,Republican,4699,37.102,True,False
+169546,SD,Roger DeGroot,Republican,4457,35.191,True,False
+169546,SD,Blake Stevens,Democratic,3509,27.706,False,False
+169632,SD,Ted Duffy,Nonpartisan,42,42.424,False,False
+169632,SD,Marion Lewis Culberson,Nonpartisan,35,35.354,False,False
+169632,SD,Joshua Whitacre,Nonpartisan,22,22.222,False,False
+169608,SD,Thomas S Carr,Democratic,160,36.697,False,False
+169608,SD,Daniel Gudgel,Republican,141,32.339,False,False
+169608,SD,Kyra Willcuts,Independent,57,13.073,False,False
+169608,SD,Marshal R Tinant,Independent,52,11.927,False,False
+169608,SD,Dean Stiefel,Independent,26,5.963,False,False
+169513,SD,Joy Hohn,Republican,5306,100.0,True,False
+169560,SD,Jim Halverson,Republican,5529,52.743,True,False
+169560,SD,Marty Overweg,Republican,4954,47.257,True,False
+169622,SD,No,Nonpartisan,3950,53.17,False,False
+169622,SD,Yes,Nonpartisan,3479,46.83,False,False
+169559,SD,Jeff Bathke,Republican,4559,52.246,True,False
+169559,SD,Terry Sabers,Republican,4167,47.754,True,False
+169599,SD,Timothy Dahme,Republican,165,53.398,False,False
+169599,SD,Jerry J. Burger,Democratic,144,46.602,False,False
+169550,SD,Sonja Mentzer,Democratic,4234,30.155,False,False
+169550,SD,Brian Mulder,Republican,4191,29.848,False,False
+169550,SD,Keri K. Weems,Republican,4062,28.93,False,False
+169550,SD,Tracey Quint,Libertarian,1554,11.068,False,False
+169540,SD,Daniel Kjos,Republican,5446,39.056,True,False
+169540,SD,Nick Fosness,Republican,5144,36.89,True,False
+169540,SD,Courtney Gale Enfield,Democratic,3354,24.053,False,False
+169612,SD,Tim Neises,Republican,726,35.905,False,False
+169612,SD,Mike Clary,Independent,533,26.36,False,False
+169612,SD,Joe Bechen,Independent,466,23.046,False,False
+169612,SD,Kent E Terwilliger,Independent,297,14.688,False,False
+169598,SD,Kevin Baloun,Republican,46,59.74,False,False
+169598,SD,Dawn Rinehart,Independent,31,40.26,False,False
+169517,SD,Sue Peterson,Republican,6449,100.0,True,False
+169589,SD,Darci Cox,Republican,294,50.085,False,False
+169589,SD,Haley Gallant,Independent,293,49.915,False,False
+169611,SD,Kenny Anderson Jr,Democratic,31635,22.201,False,False
+169611,SD,Jen Bleyenberg,Republican,30167,21.171,False,False
+169611,SD,Brent R Hoffman,Republican,29938,21.01,False,False
+169611,SD,Rick Bonander,Republican,27657,19.41,False,False
+169611,SD,Curt Soehl,Independent,23095,16.208,False,False
+169626,SD,Jacob Richard Johnson,Nonpartisan,106,63.095,False,False
+169626,SD,David R. Carter,Nonpartisan,62,36.905,False,False
+169563,SD,Mike Weisgram,Republican,6309,50.744,True,False
+169563,SD,Laurie Gill,Republican,6124,49.256,True,False
+169507,SD,"Katherine ""Katie"" Washnok",Republican,5223,100.0,True,False
+169625,SD,Al Austreim,Nonpartisan,2935,29.181,False,False
+169625,SD,Lisa Hager,Nonpartisan,2539,25.244,False,False
+169625,SD,Brianna Doran,Nonpartisan,2234,22.211,False,False
+169625,SD,Shawn Hostler,Nonpartisan,1662,16.524,False,False
+169625,SD,Wade Wantoch,Nonpartisan,688,6.84,False,False
+169576,SD,Jason Fleming,Republican,3751,39.501,True,False
+169576,SD,Dale Bartscher,Republican,3262,34.351,True,False
+169576,SD,Ken Jeakins,Democratic,2483,26.148,False,False
+169634,SD,Chad Skiles,Nonpartisan,605,59.665,False,False
+169634,SD,Paul Garbers,Nonpartisan,409,40.335,False,False
+169553,SD,Taylor Rae Rehfeldt,Republican,5503,35.706,True,False
+169553,SD,Erinn Williams,Democratic,5258,34.116,True,False
+169553,SD,Tyler Tordsen,Republican,4651,30.178,False,False
+169543,SD,Ryan Kohl,Republican,6856,39.498,True,False
+169543,SD,Fred Deutsch,Republican,6131,35.321,True,False
+169543,SD,Emelia Enquist,Democratic,2725,15.699,False,False
+169543,SD,Samuel Froehlke,Independent,1646,9.483,False,False
+169615,SD,Paul Slattery,Independent,362,17.019,False,False
+169615,SD,Bradley Hahn,Republican,356,16.737,False,False
+169615,SD,Cole Blu Donovan,Republican,312,14.669,False,False
+169615,SD,Preston Rosane,Democratic,307,14.433,False,False
+169615,SD,Susan Williams,Independent,290,13.634,False,False
+169615,SD,Robert A Fogg Jr,Democratic,272,12.788,False,False
+169615,SD,Keeley Clausen,Independent,228,10.719,False,False
+169552,SD,Jack R Kolbeck,Republican,5874,35.094,True,False
+169552,SD,Ali Rae Horsted,Democratic,5588,33.385,True,False
+169552,SD,John Hughes,Republican,5276,31.521,False,False
+169592,SD,John A Grosz,Republican,232,50.108,False,False
+169592,SD,Sara Gjerde,Independent,189,40.821,False,False
+169592,SD,Judith J Butcher-Fuller,Independent,42,9.071,False,False
+169533,SD,William J. Meirose,Republican,6105,100.0,True,False
+169591,SD,Dave Dohmann,Republican,189,54.783,False,False
+169591,SD,Wade McGraw,Independent,156,45.217,False,False
+169510,SD,Ernie Otten,Republican,5582,100.0,True,False
+169582,SD,Leah G Anderson,Republican,33382,53.406,False,False
+169582,SD,Curt Deedrich,Democratic,29124,46.594,False,False
+169604,SD,Jeffrey Heinis,Republican,4511,54.481,False,False
+169604,SD,Tim Williams,Democratic,3769,45.519,False,False
+169619,SD,David Walloch,Nonpartisan,720,40.609,False,False
+169619,SD,David J Sutera,Nonpartisan,532,30.006,False,False
+169619,SD,Ross Hudson,Nonpartisan,521,29.385,False,False
+169509,SD,Glen A. Vilhauer,Republican,6113,100.0,True,False
+169556,SD,Chris Kassin,Republican,4588,31.589,True,False
+169556,SD,Troy Redler,Republican,3797,26.143,True,False
+169556,SD,Leslie Gerrish,Democratic,3442,23.699,False,False
+169556,SD,Austin Brunick,Democratic,2697,18.569,False,False
+169628,SD,Edward Clark-Jessen,Nonpartisan,188,34.495,False,False
+169628,SD,Eric Comes,Nonpartisan,178,32.661,False,False
+169628,SD,Julie Oeltjen,Nonpartisan,89,16.33,False,False
+169628,SD,Randy Marsh,Nonpartisan,66,12.11,False,False
+169628,SD,Parker Simons,Nonpartisan,24,4.404,False,False
+169618,SD,Gloria Claussen,Nonpartisan,506,68.657,False,False
+169618,SD,Carl J Novotny,Nonpartisan,231,31.343,False,False
+169537,SD,David Johnson,Republican,6427,65.077,True,False
+169537,SD,Christopher Baumgartner,Democratic,3449,34.923,False,False
+169595,SD,Derek L Sinner,Republican,249,63.52,False,False
+169595,SD,Paul W Dulitz,Democratic,143,36.48,False,False
+169578,SD,Bobbie J Janis,Republican,2176,67.852,False,False
+169578,SD,Lily Heidebrink,Independent,1031,32.148,False,False
+169536,SD,Helene Duhamel,Republican,3317,52.385,True,False
+169536,SD,Jeff Shelton,Democratic,3015,47.615,False,False
+169640,SD,Yes,Nonpartisan,401,61.883,False,False
+169640,SD,No,Nonpartisan,247,38.117,False,False
+169545,SD,Jerry Jongeling,Republican,4925,32.724,True,False
+169545,SD,Elliott Neff,Republican,4365,29.003,True,False
+169545,SD,Austin Wolf,Democratic,3066,20.372,False,False
+169545,SD,Garret M Campbell,Democratic,2694,17.9,False,False
+169585,SD,Robert L. Weinmeister,Republican,7627,65.406,False,False
+169585,SD,"Anthony ""Tony"" Sorensen",Democratic,4034,34.594,False,False
+169526,SD,Brandon R. Wipf,Republican,5124,100.0,True,False
+169584,SD,"Manuel ""Manny"" Langstraat",Independent,5885,52.502,False,False
+169584,SD,David Biteler,Republican,5324,47.498,False,False
+169631,SD,Tim Tooley,Nonpartisan,101,33.224,False,False
+169631,SD,Bradley Gibbens,Nonpartisan,97,31.908,False,False
+169631,SD,Ritchy Griepp,Nonpartisan,69,22.697,False,False
+169631,SD,Julien Gambs,Nonpartisan,37,12.171,False,False
+169607,SD,Jeff Ebersdorfer,Democratic,79,51.299,False,False
+169607,SD,Phillip Hinker,Republican,75,48.701,False,False
+87446,SD,Mike Rounds,Republican,184589,60.501,True,False
+87446,SD,Brian Bengs,Independent,120513,39.499,False,False
+87445,SD,Marty Jackley,Republican,195588,64.004,True,False
+87445,SD,Nikki Gronli,Democratic,109997,35.996,False,False

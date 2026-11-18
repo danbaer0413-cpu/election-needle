@@ -1,0 +1,652 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+87133,IL,Illinois Comptroller,2026-11-03,98.8,2026-11-04T06:53:42.308Z,False,3,102,4148911,2026-11-18T13:21+00:00
+159523,IL,Illinois State Senate,2026-11-03,64.1,,False,2,39,1825738,2026-11-18T13:21+00:00
+159522,IL,Illinois State House,2026-11-03,53,,False,3,118,2133812,2026-11-18T13:21+00:00
+87131,IL,Illinois Attorney General,2026-11-03,97.8,2026-11-04T06:53:42.308Z,False,2,102,4201327,2026-11-18T13:21+00:00
+87130,IL,Illinois Governor,2026-11-03,90.9,2026-11-04T02:18:31.025Z,False,17,102,4226279,2026-11-18T13:21+00:00
+87132,IL,Illinois Secretary of State,2026-11-03,97.8,2026-11-04T06:53:42.308Z,False,2,102,4198931,2026-11-18T13:21+00:00
+87134,IL,Illinois State Treasurer,2026-11-03,98.7,2026-11-04T06:53:42.308Z,False,3,102,4157672,2026-11-18T13:21+00:00
+152773,IL,Illinois State House 35,2026-11-03,99.9,2026-11-04T07:09:42.056Z,False,2,0,40260,2026-11-18T13:21+00:00
+175163,IL,Ogle County Treasurer,2026-11-03,99.9,,False,1,1,15696,2026-11-18T13:21+00:00
+152874,IL,Illinois Iroquois/Kankakee Regional Superintendent of Schools,2026-11-03,99.9,,False,1,2,133,2026-11-18T13:21+00:00
+175035,IL,Mineral-Gold Fire Protection District Ambulance Service Tax Rate Increase,2026-11-03,99.9,,False,2,1,157,2026-11-18T13:21+00:00
+175042,IL,Carroll County Board District 3 Member,2026-11-03,99.9,,False,2,1,2953,2026-11-18T13:21+00:00
+152733,IL,Illinois State Senate 51,2026-11-03,75,2026-11-04T07:09:42.055Z,False,1,7,30992,2026-11-18T13:21+00:00
+152995,IL,Illinois 18th Circuit Court - Judge Richard D. Felice Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175161,IL,Moultrie County Board At-Large Member,2026-11-03,99.9,,False,5,1,17086,2026-11-18T13:21+00:00
+152879,IL,Illinois Menard/Sangamon Regional Superintendent of Schools,2026-11-03,99.9,,False,1,2,107,2026-11-18T13:21+00:00
+152917,IL,Illinois 4th Circuit Court - Jarman Vacancy,2026-11-03,99.9,,False,1,2,16972,2026-11-18T13:21+00:00
+152955,IL,Illinois 6th Circuit Court - Judge Jason M. Bohm Retention,2026-11-03,80,,False,2,5,42301,2026-11-18T13:21+00:00
+175127,IL,Logan County Board District 3 Member - 2-Year Unexpired Term,2026-11-03,99.9,,False,1,1,1547,2026-11-18T13:21+00:00
+152846,IL,Illinois State House 108,2026-11-03,50,2026-11-04T07:09:42.058Z,False,1,1,762,2026-11-18T13:21+00:00
+175032,IL,Bureau County Board District 18 Member,2026-11-03,99.9,,False,1,1,626,2026-11-18T13:21+00:00
+152922,IL,Illinois 10th Circuit Court - Vespa Vacancy,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152960,IL,Illinois 7th Circuit Court - Judge Adam Giganti Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152806,IL,Illinois State House 68,2026-11-03,99.9,2026-11-04T07:09:42.057Z,False,2,1,33069,2026-11-18T13:21+00:00
+175196,IL,Shelby County Sheriff,2026-11-03,99.9,,False,1,1,8138,2026-11-18T13:21+00:00
+175037,IL,Carroll County Treasurer,2026-11-03,99.9,,False,1,1,5194,2026-11-18T13:21+00:00
+175077,IL,De Witt County Board District B Member,2026-11-03,99.9,,False,3,1,2890,2026-11-18T13:21+00:00
+152709,IL,Illinois State Senate 15,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+152747,IL,Illinois State House 9,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+153009,IL,Illinois Cook Circuit Court - Judge Lewis Nixon Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152830,IL,Illinois State House 92,2026-11-03,0,2026-11-04T07:09:42.057Z,False,1,0,0,2026-11-18T13:21+00:00
+175216,IL,Neoga CUSD 3 at Large Twp 11N Rge 6E,2026-11-03,99.9,,False,2,1,74,2026-11-18T13:21+00:00
+175056,IL,Clark County Sheriff,2026-11-03,99.9,,False,1,1,5646,2026-11-18T13:21+00:00
+152745,IL,Illinois State House 7,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+175141,IL,Macon County Board District 4 Member - 2-Year Term,2026-11-03,99.9,,False,1,1,5847,2026-11-18T13:21+00:00
+153052,IL,Illinois Cook Circuit Court - Judge Laura Ayala-Gonzalez Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175013,IL,Boone County Board District 1 Member,2026-11-03,99.9,,False,2,1,6380,2026-11-18T13:21+00:00
+175259,IL,Village of Indianola Proposition to Decrease the Number of Trustees,2026-11-03,99.9,,False,2,1,72,2026-11-18T13:21+00:00
+152974,IL,Illinois 11th Circuit Court - Judge Jonathan C. Wright Retention,2026-11-03,99.9,,False,2,3,23538,2026-11-18T13:21+00:00
+152820,IL,Illinois State House 82,2026-11-03,0,2026-11-04T07:09:42.057Z,False,1,0,0,2026-11-18T13:21+00:00
+175185,IL,Piatt County Board District 2 Member,2026-11-03,99.9,,False,2,1,2426,2026-11-18T13:21+00:00
+152896,IL,Illinois Cook Circuit Court 11th Subcircuit - Meyerson Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152934,IL,Illinois 17th Circuit Court 2nd Subcircuit - Doherty Vacancy,2026-11-03,99.9,,False,1,1,12074,2026-11-18T13:21+00:00
+152787,IL,Illinois State House 49,2026-11-03,99.9,2026-11-04T07:09:42.056Z,False,2,0,33055,2026-11-18T13:21+00:00
+152825,IL,Illinois State House 87,2026-11-03,83.3,2026-11-04T07:09:42.057Z,False,1,5,30922,2026-11-18T13:21+00:00
+175211,IL,Shelby County Board District 11 Member,2026-11-03,99.9,,False,1,1,497,2026-11-18T13:21+00:00
+175230,IL,Stephenson County Board District I Member,2026-11-03,99.9,,False,2,1,2288,2026-11-18T13:21+00:00
+175070,IL,Neoga CUSD 3 Elect at Large Twp 11N Rge 7E,2026-11-03,99.9,,False,2,1,85,2026-11-18T13:21+00:00
+152958,IL,"Illinois 7th Circuit Court - Judge Christopher E. ""Chris"" Reif Retention",2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152804,IL,Illinois State House 66,2026-11-03,99.9,2026-11-04T07:09:42.057Z,False,2,0,38230,2026-11-18T13:21+00:00
+153059,IL,Illinois Cook Circuit Court - Judge Lorraine Mary Murphy Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175228,IL,Stephenson County Board District G Member,2026-11-03,99.9,,False,1,1,1684,2026-11-18T13:21+00:00
+152726,IL,Illinois State Senate 41,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+175115,IL,Livingston County Treasurer,2026-11-03,99.9,,False,1,1,10604,2026-11-18T13:21+00:00
+152802,IL,Illinois State House 64,2026-11-03,99.9,2026-11-12T01:54:12.317Z,False,2,0,40385,2026-11-18T13:21+00:00
+175192,IL,Putnam County Sheriff,2026-11-03,99.9,,False,1,1,2054,2026-11-18T13:21+00:00
+152910,IL,Illinois Cook Circuit Court 20th Subcircuit - Haracz Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152948,IL,Illinois 3rd Circuit Court - Judge Amy Maher Retention,2026-11-03,99.9,,False,2,1,5327,2026-11-18T13:21+00:00
+152769,IL,Illinois State House 31,2026-11-03,0,2026-11-04T07:09:42.056Z,False,1,0,0,2026-11-18T13:21+00:00
+175159,IL,Moultrie County Treasurer,2026-11-03,99.9,,False,1,1,4373,2026-11-18T13:21+00:00
+152870,IL,"Illinois Franklin/Johnson/Massac, etc. Regional Superintendent of Schools",2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152915,IL,Illinois 2nd Circuit Court - Vaughn Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152953,IL,Illinois 5th Circuit Court - Judge Thomas M. O'Shaughnessy Retention,2026-11-03,99.9,,False,2,4,38856,2026-11-18T13:21+00:00
+152991,IL,Illinois 17th Circuit Court - Judge Gwyn Gulley Retention,2026-11-03,99.9,,False,2,1,14706,2026-11-18T13:21+00:00
+152844,IL,Illinois State House 106,2026-11-03,66.7,2026-11-04T07:09:42.058Z,False,1,2,9381,2026-11-18T13:21+00:00
+175202,IL,Shelby County Board District 3 Member,2026-11-03,99.9,,False,1,1,584,2026-11-18T13:21+00:00
+152894,IL,Illinois Cook Circuit Court 8th Subcircuit - Gamrath Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152932,IL,Illinois 15th Circuit Court - Ward Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152778,IL,Illinois State House 40,2026-11-03,0,2026-11-04T07:09:42.056Z,False,1,0,0,2026-11-18T13:21+00:00
+152816,IL,Illinois State House 78,2026-11-03,99.9,2026-11-04T07:09:42.057Z,False,2,0,41769,2026-11-18T13:21+00:00
+152823,IL,Illinois State House 85,2026-11-03,99.9,2026-11-04T07:09:42.057Z,False,2,0,32581,2026-11-18T13:21+00:00
+152854,IL,Illinois State House 116,2026-11-03,0,2026-11-04T07:09:42.058Z,False,1,0,0,2026-11-18T13:21+00:00
+175247,IL,Vermilion County Board District 1 Member,2026-11-03,99.9,,False,2,1,3219,2026-11-18T13:21+00:00
+152930,IL,Illinois 14th Circuit Court - Thompson Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152783,IL,Illinois State House 45,2026-11-03,99.9,2026-11-04T07:09:42.056Z,False,2,0,42084,2026-11-18T13:21+00:00
+175173,IL,Ogle County Board District 5 Member - 2-Year Term,2026-11-03,99.9,,False,1,1,2420,2026-11-18T13:21+00:00
+175006,IL,Bond County Board District 5 Member,2026-11-03,99.9,,False,2,1,1079,2026-11-18T13:21+00:00
+152705,IL,Illinois State Senate 9,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,0,83119,2026-11-18T13:21+00:00
+152743,IL,Illinois State House 5,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+153005,IL,Illinois 22nd Circuit Court - Judge Mark R. Gerhardt Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175178,IL,Ogle County Board District 7 Member - 4-Year Term,2026-11-03,99.9,,False,1,1,1735,2026-11-18T13:21+00:00
+175011,IL,Illinois DeKalb Regional Superintendent of Schools,2026-11-03,99.9,,False,1,3,231,2026-11-18T13:21+00:00
+175050,IL,Christian County Board District 3 Member,2026-11-03,99.9,,False,3,1,4012,2026-11-18T13:21+00:00
+152972,IL,Illinois 11th Circuit Court - Judge Matthew J. Fitton Retention,2026-11-03,99.9,,False,2,3,23420,2026-11-18T13:21+00:00
+152818,IL,Illinois State House 80,2026-11-03,99.9,2026-11-04T07:09:42.057Z,False,2,0,34373,2026-11-18T13:21+00:00
+175156,IL,Mason County Board District 2 Member,2026-11-03,99.9,,False,2,1,2702,2026-11-18T13:21+00:00
+152868,IL,"Illinois DeWitt/Livingston/Logan, etc. Regional Superintendent of Schools",2026-11-03,99.9,,False,1,8,24759,2026-11-18T13:21+00:00
+152714,IL,Illinois State Senate 23,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,0,73173,2026-11-18T13:21+00:00
+152944,IL,Illinois 2nd Circuit Court - Judge William C. Hudson Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152951,IL,Illinois 4th Circuit Court - Judge Joel J.C. Powless Retention,2026-11-03,99.9,,False,2,2,17074,2026-11-18T13:21+00:00
+175116,IL,Livingston County Sheriff,2026-11-03,99.9,,False,1,1,10585,2026-11-18T13:21+00:00
+152835,IL,Illinois State House 97,2026-11-03,99.9,2026-11-04T07:09:42.057Z,False,2,0,38887,2026-11-18T13:21+00:00
+152866,IL,"Illinois Clay/Crawford/Jasper, etc Regional Superintendent of Schools",2026-11-03,99.9,,False,1,1,220,2026-11-18T13:21+00:00
+152719,IL,Illinois State Senate 30,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+152757,IL,Illinois State House 19,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,0,34442,2026-11-18T13:21+00:00
+152795,IL,Illinois State House 57,2026-11-03,99.9,2026-11-04T07:09:42.056Z,False,2,0,35615,2026-11-18T13:21+00:00
+153032,IL,Illinois Cook Circuit Court - Judge Terrence J. McGuire Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175226,IL,Stephenson County Board District E Member,2026-11-03,99.9,,False,2,1,2136,2026-11-18T13:21+00:00
+175066,IL,Coles County Board District 7 Member,2026-11-03,99.9,,False,1,1,1105,2026-11-18T13:21+00:00
+152762,IL,Illinois State House 24,2026-11-03,0,2026-11-04T07:09:42.056Z,False,1,0,0,2026-11-18T13:21+00:00
+152800,IL,Illinois State House 62,2026-11-03,0,2026-11-04T07:09:42.057Z,False,1,0,0,2026-11-18T13:21+00:00
+153055,IL,Illinois Cook Circuit Court - Judge Jamie Guerra Dickler Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152908,IL,Illinois Cook Circuit Court 19th Subcircuit - Fairman Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152946,IL,Illinois 2nd Circuit Court - Judge Tara R. Cook Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152984,IL,Illinois 15th Circuit Court - Judge Douglas E. Lee Retention,2026-11-03,99.9,,False,2,4,46831,2026-11-18T13:21+00:00
+152741,IL,Illinois State House 3,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+175130,IL,Logan County Board District 6 Member,2026-11-03,99.9,,False,1,1,1259,2026-11-18T13:21+00:00
+152849,IL,Illinois State House 111,2026-11-03,99.9,2026-11-12T01:54:12.317Z,False,2,0,35399,2026-11-18T13:21+00:00
+175002,IL,Bond County Sheriff,2026-11-03,99.9,,False,1,1,5345,2026-11-18T13:21+00:00
+175009,IL,Boone County Treasurer,2026-11-03,99.9,,False,1,1,13051,2026-11-18T13:21+00:00
+175248,IL,Vermilion County Board District 2 Member,2026-11-03,99.9,,False,1,1,2814,2026-11-18T13:21+00:00
+152963,IL,Illinois 7th Circuit Court - Judge Allison Lorton Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175128,IL,Logan County Board District 4 Member,2026-11-03,99.9,,False,2,1,1277,2026-11-18T13:21+00:00
+153046,IL,Illinois Cook Circuit Court - Judge Teresa Molina-Gonzalez Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152885,IL,Illinois Cook Circuit Court - Cobbs Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152923,IL,Illinois 11th Circuit Court - Bauknecht Vacancy,2026-11-03,99.9,,False,1,1,10561,2026-11-18T13:21+00:00
+175094,IL,Edgar County Board District 5 Member,2026-11-03,99.9,,False,1,1,501,2026-11-18T13:21+00:00
+152814,IL,Illinois State House 76,2026-11-03,99.9,2026-11-04T07:09:42.057Z,False,2,1,35958,2026-11-18T13:21+00:00
+175197,IL,Shelby County Supervisor of Assessments,2026-11-03,99.9,,False,1,1,5827,2026-11-18T13:21+00:00
+152890,IL,Illinois Cook Circuit Court 1st Subcircuit - Walker Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152928,IL,Illinois 12th Circuit Court 5th Subcircuit - Petrungaro Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152774,IL,Illinois State House 36,2026-11-03,99.9,2026-11-04T07:09:42.056Z,False,2,0,34114,2026-11-18T13:21+00:00
+175171,IL,Ogle County Board District 4 Member - 2-Year Term,2026-11-03,99.9,,False,1,1,1947,2026-11-18T13:21+00:00
+175004,IL,Bond County Board District 1 Member,2026-11-03,99.9,,False,2,1,1283,2026-11-18T13:21+00:00
+175043,IL,Chadwick Milledgeville CUSD Repairs,2026-11-03,99.9,,False,2,1,1172,2026-11-18T13:21+00:00
+175224,IL,Stephenson County Board District C Member - 2-Year Unexpired Term,2026-11-03,99.9,,False,2,1,1292,2026-11-18T13:21+00:00
+175262,IL,Whiteside County Sheriff,2026-11-03,99.9,,False,1,1,16520,2026-11-18T13:21+00:00
+152977,IL,Illinois 12th Circuit Court - Judge Daniel L. Kennedy Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152798,IL,Illinois State House 60,2026-11-03,0,2026-11-04T07:09:42.056Z,False,1,0,0,2026-11-18T13:21+00:00
+175188,IL,Piatt County Opt in Federal Program,2026-11-03,99.9,,False,2,1,7159,2026-11-18T13:21+00:00
+152899,IL,Illinois Cook Circuit Court 13th Subcircuit - Martin C. Kelley Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+175260,IL,Whiteside County Clerk,2026-11-03,99.9,,False,1,1,15684,2026-11-18T13:21+00:00
+175108,IL,Lee County Board District 1 Member,2026-11-03,99.9,,False,3,1,5923,2026-11-18T13:21+00:00
+153020,IL,Illinois Cook Circuit Court - Judge Thomas J. Carroll Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175186,IL,Piatt County Board District 3 Member,2026-11-03,99.9,,False,1,1,1922,2026-11-18T13:21+00:00
+175026,IL,Bureau County Board District 9 Member,2026-11-03,99.9,,False,1,1,524,2026-11-18T13:21+00:00
+152942,IL,Illinois 2nd Circuit Court - Judge Barry L. Vaughan Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152788,IL,Illinois State House 50,2026-11-03,0,2026-11-04T07:09:42.056Z,False,1,0,0,2026-11-18T13:21+00:00
+175152,IL,Mason County Treasurer,2026-11-03,99.9,,False,1,1,3784,2026-11-18T13:21+00:00
+152864,IL,Illinois Champaign/Ford Regional Superintendent of Schools,2026-11-03,83.3,,False,1,6,3662,2026-11-18T13:21+00:00
+152710,IL,Illinois State Senate 17,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,0,65548,2026-11-18T13:21+00:00
+152755,IL,Illinois State House 17,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,0,41107,2026-11-18T13:21+00:00
+152793,IL,Illinois State House 55,2026-11-03,99.9,2026-11-04T07:09:42.056Z,False,2,0,30116,2026-11-18T13:21+00:00
+152831,IL,Illinois State House 93,2026-11-03,50,2026-11-04T07:09:42.057Z,False,1,1,8788,2026-11-18T13:21+00:00
+175195,IL,Shelby County Treasurer,2026-11-03,99.9,,False,1,1,7866,2026-11-18T13:21+00:00
+175036,IL,Carroll County Clerk and Recorder,2026-11-03,99.9,,False,1,1,5304,2026-11-18T13:21+00:00
+152926,IL,Illinois 12th Circuit Court 1st Subcircuit - Carlson Vacancy,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152772,IL,Illinois State House 34,2026-11-03,0,2026-11-04T07:09:42.056Z,False,1,0,0,2026-11-18T13:21+00:00
+175162,IL,Ogle County Clerk and Recorder,2026-11-03,99.9,,False,1,1,15839,2026-11-18T13:21+00:00
+175193,IL,Putnam County Board At-Large Member,2026-11-03,99.9,,False,3,1,4525,2026-11-18T13:21+00:00
+175241,IL,Tazewell County Retailers' Occupation Tax,2026-11-03,99.9,,False,2,1,49616,2026-11-18T13:21+00:00
+175081,IL,Douglas County Clerk and Recorder,2026-11-03,0,,False,1,1,0,2026-11-18T13:21+00:00
+152770,IL,Illinois State House 32,2026-11-03,0,2026-11-04T07:09:42.056Z,False,1,0,0,2026-11-18T13:21+00:00
+175167,IL,Ogle County Board District 2 Member - 2-Year Term,2026-11-03,99.9,,False,1,1,2040,2026-11-18T13:21+00:00
+152878,IL,Illinois Mason/Tazewell/Woodford Regional Superintendent of Schools,2026-11-03,99.9,,False,1,4,41482,2026-11-18T13:21+00:00
+152916,IL,Illinois 3rd Circuit Court 2nd Subcircuit - Stobbs Vacancy,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152737,IL,Illinois State Senate 57,2026-11-03,86.7,2026-11-04T07:09:42.055Z,False,2,0,74739,2026-11-18T13:21+00:00
+175126,IL,Logan County Board District 3 Member - 4-Year Term,2026-11-03,99.9,,False,1,1,1606,2026-11-18T13:21+00:00
+152845,IL,Illinois State House 107,2026-11-03,80,2026-11-04T07:09:42.058Z,False,1,4,22314,2026-11-18T13:21+00:00
+152883,IL,Illinois Appellate Court District 5 - Welch Vacancy,2026-11-03,91.7,,False,1,12,96258,2026-11-18T13:21+00:00
+152921,IL,Illinois 9th Circuit Court - Standard Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152959,IL,"Illinois 7th Circuit Court - Judge John M. ""Mo"" Madonia Retention",2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152812,IL,Illinois State House 74,2026-11-03,99.8,2026-11-04T07:09:42.057Z,False,3,3,37136,2026-11-18T13:21+00:00
+152824,IL,Illinois State House 86,2026-11-03,0,2026-11-04T07:09:42.057Z,False,1,0,0,2026-11-18T13:21+00:00
+152862,IL,Illinois Calhoun/Greene/Jersey/Macoupin Regional Superintendent of Schools,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152708,IL,Illinois State Senate 14,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,0,65413,2026-11-18T13:21+00:00
+152746,IL,Illinois State House 8,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+152784,IL,Illinois State House 46,2026-11-03,99.9,2026-11-04T07:09:42.056Z,False,2,0,31138,2026-11-18T13:21+00:00
+152791,IL,Illinois State House 53,2026-11-03,99.9,2026-11-04T07:09:42.056Z,False,2,0,33426,2026-11-18T13:21+00:00
+153021,IL,Illinois Cook Circuit Court - Judge Andrea M. Buford Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175014,IL,Boone County Board District 2 Member,2026-11-03,99.9,,False,2,1,7812,2026-11-18T13:21+00:00
+152706,IL,Illinois State Senate 11,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+152751,IL,Illinois State House 13,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,0,45866,2026-11-18T13:21+00:00
+175140,IL,Macon County Board District 3 Member - 4-Year Term,2026-11-03,99.9,,False,1,1,4558,2026-11-18T13:21+00:00
+175179,IL,Ogle County Board District 8 Member - 2-Year Term,2026-11-03,99.9,,False,1,1,2355,2026-11-18T13:21+00:00
+175220,IL,Stephenson County Sheriff,2026-11-03,99.9,,False,1,1,12167,2026-11-18T13:21+00:00
+175258,IL,Vermilion County Board of Review District 3 Member,2026-11-03,99.9,,False,1,1,6348,2026-11-18T13:21+00:00
+152973,IL,Illinois 11th Circuit Court - Judge Jason Chambers Retention,2026-11-03,99.9,,False,2,3,23198,2026-11-18T13:21+00:00
+175145,IL,Argenta Oreana CUSD 1 at Large Twp 16N Rge 3E,2026-11-03,99.9,,False,2,1,0,2026-11-18T13:21+00:00
+175184,IL,Piatt County Board District 1 Member,2026-11-03,99.9,,False,1,1,2078,2026-11-18T13:21+00:00
+152895,IL,Illinois Cook Circuit Court 8th Subcircuit - Mikva Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152940,IL,"Illinois 1st Circuit Court - Judge William J. ""Bill"" Thurston Retention",2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152786,IL,Illinois State House 48,2026-11-03,99.9,2026-11-12T01:54:12.317Z,False,2,0,37074,2026-11-18T13:21+00:00
+175124,IL,Logan County Board District 1 Member,2026-11-03,99.9,,False,1,1,1532,2026-11-18T13:21+00:00
+153035,IL,Illinois Cook Circuit Court - Judge Patricia O'Brien Sheahan Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175229,IL,Stephenson County Board District H Member,2026-11-03,99.9,,False,1,1,1751,2026-11-18T13:21+00:00
+152912,IL,Illinois 1st Circuit Court - Solverson Vacancy,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152919,IL,Illinois 8th Circuit Court - Lannerd Vacancy,2026-11-03,99.9,,False,1,1,3808,2026-11-18T13:21+00:00
+175082,IL,Douglas County Treasurer,2026-11-03,0,,False,1,1,0,2026-11-18T13:21+00:00
+152803,IL,Illinois State House 65,2026-11-03,99.9,2026-11-12T01:54:12.317Z,False,2,0,45862,2026-11-18T13:21+00:00
+153033,IL,Illinois Cook Circuit Court - Judge Bridget Anne Mitchell Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175234,IL,Tazewell County Sheriff,2026-11-03,99.9,,False,1,1,39452,2026-11-18T13:21+00:00
+152725,IL,Illinois State Senate 39,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+152763,IL,Illinois State House 25,2026-11-03,99.9,2026-11-04T07:09:42.056Z,False,2,0,28903,2026-11-18T13:21+00:00
+153000,IL,Illinois 21st Circuit Court - Judge William S. Dickenson Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175191,IL,Putnam County Treasurer,2026-11-03,99.9,,False,1,1,1868,2026-11-18T13:21+00:00
+152909,IL,Illinois Cook Circuit Court 19th Subcircuit - Kane Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152730,IL,Illinois State Senate 47,2026-11-03,66.7,2026-11-04T07:09:42.055Z,False,1,2,13063,2026-11-18T13:21+00:00
+152768,IL,Illinois State House 30,2026-11-03,0,2026-11-04T07:09:42.056Z,False,1,0,0,2026-11-18T13:21+00:00
+175158,IL,Moultrie County Clerk and Recorder,2026-11-03,99.9,,False,1,1,4475,2026-11-18T13:21+00:00
+152876,IL,Illinois Lee/Ogle/Whiteside Regional Superintendent of Schools,2026-11-03,99.9,,False,1,5,40716,2026-11-18T13:21+00:00
+152914,IL,Illinois 2nd Circuit Court - Valentine Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152952,IL,Illinois 5th Circuit Court - Judge Mitchell Shick Retention,2026-11-03,99.9,,False,2,4,39004,2026-11-18T13:21+00:00
+175256,IL,Vermilion County Board of Review District 1 Member,2026-11-03,99.9,,False,2,1,991,2026-11-18T13:21+00:00
+175097,IL,Ford County Treasurer,2026-11-03,99.9,,False,1,1,4106,2026-11-18T13:21+00:00
+152817,IL,Illinois State House 79,2026-11-03,0,2026-11-04T07:09:42.057Z,False,1,0,0,2026-11-18T13:21+00:00
+175182,IL,Piatt County Treasurer,2026-11-03,99.9,,False,1,1,6030,2026-11-18T13:21+00:00
+175015,IL,Boone County Board District 3 Member,2026-11-03,99.9,,False,3,1,6193,2026-11-18T13:21+00:00
+152931,IL,Illinois 15th Circuit Court - Hauser Vacancy,2026-11-03,99.9,,False,1,1,11937,2026-11-18T13:21+00:00
+175095,IL,Edgar County Board District 6 Member - 2-Year Unexpired Term,2026-11-03,99.9,,False,1,1,664,2026-11-18T13:21+00:00
+153014,IL,Illinois Cook Circuit Court - Judge Thomas J. Byrne Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152853,IL,Illinois State House 115,2026-11-03,0,2026-11-04T07:09:42.058Z,False,1,0,0,2026-11-18T13:21+00:00
+152891,IL,Illinois Cook Circuit Court 3rd Subcircuit - Murphy Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+175061,IL,Coles County Clerk and Recorder,2026-11-03,99.9,,False,1,1,13691,2026-11-18T13:21+00:00
+152782,IL,Illinois State House 44,2026-11-03,99.9,2026-11-04T07:09:42.056Z,False,2,0,25045,2026-11-18T13:21+00:00
+175172,IL,Ogle County Board District 4 Member - 4-Year Term,2026-11-03,99.9,,False,1,1,1917,2026-11-18T13:21+00:00
+152858,IL,"Illinois Alexander/Jackson/Perry, etc. Regional Superintendent of Schools",2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152704,IL,Illinois State Senate 8,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,0,60799,2026-11-18T13:21+00:00
+152742,IL,Illinois State House 4,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+175138,IL,Macon County Board District 2 Member - 4-Year Term,2026-11-03,99.9,,False,1,1,6337,2026-11-18T13:21+00:00
+175177,IL,Ogle County Board District 7 Member - 2-Year Term,2026-11-03,99.9,,False,2,1,2120,2026-11-18T13:21+00:00
+175010,IL,Boone County Sheriff,2026-11-03,99.9,,False,1,1,13375,2026-11-18T13:21+00:00
+175029,IL,Bureau County Board District 12 Member,2026-11-03,99.9,,False,1,1,538,2026-11-18T13:21+00:00
+152945,IL,Illinois 2nd Circuit Court - Judge Matthew J. Hartrich Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152766,IL,Illinois State House 28,2026-11-03,0,2026-11-04T07:09:42.056Z,False,1,0,0,2026-11-18T13:21+00:00
+175155,IL,Mason County Board District 1 Member,2026-11-03,99.9,,False,2,1,2526,2026-11-18T13:21+00:00
+152867,IL,"Illinois Clinton/Jefferson/Marion, etc. Regional Superintendent of Schools",2026-11-03,99.9,,False,1,1,142,2026-11-18T13:21+00:00
+175027,IL,Bureau County Board District 10 Member,2026-11-03,99.9,,False,1,1,451,2026-11-18T13:21+00:00
+175075,IL,De Witt County Sheriff,2026-11-03,99.9,,False,1,1,5049,2026-11-18T13:21+00:00
+152988,IL,Illinois 16th Circuit Court - Judge Robert K. Villa Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175153,IL,Mason County Sheriff,2026-11-03,99.9,,False,2,1,4825,2026-11-18T13:21+00:00
+153064,IL,Illinois Cook Circuit Court - Judge Chris Stacey Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152718,IL,Illinois State Senate 29,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,0,77356,2026-11-18T13:21+00:00
+152756,IL,Illinois State House 18,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,0,41576,2026-11-18T13:21+00:00
+175120,IL,Livingston County Board District 3 Member,2026-11-03,99.9,,False,3,1,9503,2026-11-18T13:21+00:00
+153031,IL,Illinois Cook Circuit Court - Judge Maritza Martinez Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175225,IL,Stephenson County Board District D Member,2026-11-03,99.9,,False,2,1,2424,2026-11-18T13:21+00:00
+152723,IL,Illinois State Senate 36,2026-11-03,87.9,2026-11-04T07:09:42.055Z,False,2,0,70208,2026-11-18T13:21+00:00
+152761,IL,Illinois State House 23,2026-11-03,0,2026-11-04T07:09:42.056Z,False,1,0,0,2026-11-18T13:21+00:00
+152799,IL,Illinois State House 61,2026-11-03,99.9,2026-11-04T07:09:42.057Z,False,2,0,34373,2026-11-18T13:21+00:00
+175189,IL,Mahomet-Seymour CUSD No. 3 Build and Equip,2026-11-03,99.9,,False,2,1,1,2026-11-18T13:21+00:00
+175003,IL,Illinois Madison Regional Superintendent of Schools,2026-11-03,99.9,,False,1,1,323,2026-11-18T13:21+00:00
+152702,IL,Illinois State Senate 5,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+152740,IL,Illinois State House 2,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,0,26073,2026-11-18T13:21+00:00
+175129,IL,Logan County Board District 5 Member,2026-11-03,99.9,,False,2,1,1147,2026-11-18T13:21+00:00
+175168,IL,Ogle County Board District 2 Member - 4-Year Term,2026-11-03,99.9,,False,1,1,2011,2026-11-18T13:21+00:00
+175175,IL,Ogle County Board District 6 Member - 2-Year Term,2026-11-03,99.9,,False,1,1,1959,2026-11-18T13:21+00:00
+175209,IL,Shelby County Board District 9 Member,2026-11-03,99.9,,False,1,1,765,2026-11-18T13:21+00:00
+175047,IL,Christian County Supervisor of Assessments,2026-11-03,99.9,,False,1,1,7853,2026-11-18T13:21+00:00
+152738,IL,Illinois State Senate 59,2026-11-03,97.9,2026-11-04T07:09:42.055Z,False,2,0,74259,2026-11-18T13:21+00:00
+175134,IL,Macon County Board District 1 Member - 2-Year Term,2026-11-03,99.9,,False,1,1,2891,2026-11-18T13:21+00:00
+153045,IL,Illinois Cook Circuit Court - Judge Erin Haggerty Antonietti Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152884,IL,Illinois Cook Circuit Court - Burke Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+175252,IL,Vermilion County Board District 5 Member - 2-Year Unexpired Term,2026-11-03,99.9,,False,1,1,1707,2026-11-18T13:21+00:00
+175093,IL,Edgar County Board District 4 Member,2026-11-03,99.9,,False,1,1,831,2026-11-18T13:21+00:00
+152813,IL,Illinois State House 75,2026-11-03,99.9,2026-11-04T07:09:42.057Z,False,2,0,40979,2026-11-18T13:21+00:00
+153050,IL,Illinois Cook Circuit Court - Judge Levander Smith Jr. Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152889,IL,Illinois Cook Circuit Court 1st Subcircuit - Balanoff Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152927,IL,Illinois 12th Circuit Court 3rd Subcircuit - Anderson Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152780,IL,Illinois State House 42,2026-11-03,99.9,2026-11-04T07:09:42.056Z,False,2,0,43790,2026-11-18T13:21+00:00
+175170,IL,Ogle County Board District 3 Member - 4-Year Term,2026-11-03,99.9,,False,1,1,1134,2026-11-18T13:21+00:00
+152792,IL,Illinois State House 54,2026-11-03,99.9,2026-11-04T07:09:42.056Z,False,2,0,36648,2026-11-18T13:21+00:00
+153029,IL,Illinois Cook Circuit Court - Judge Anjana M.J. Hansen Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175223,IL,Stephenson County Board District C Member - 4-Year Full Term,2026-11-03,99.9,,False,2,1,1298,2026-11-18T13:21+00:00
+175261,IL,Whiteside County Treasurer,2026-11-03,99.9,,False,1,1,15581,2026-11-18T13:21+00:00
+152752,IL,Illinois State House 14,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+152759,IL,Illinois State House 21,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,0,27022,2026-11-18T13:21+00:00
+152989,IL,Illinois 16th Circuit Court - Judge Elizabeth Flood Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175187,IL,Piatt County Non-Binding Advisory Public Policy State Split Illinois Separation Referendum,2026-11-03,99.9,,False,2,1,7173,2026-11-18T13:21+00:00
+175221,IL,Stephenson County Coroner - 2-Year Unexpired Term,2026-11-03,99.9,,False,1,1,12049,2026-11-18T13:21+00:00
+175266,IL,"Chadwick Milledgeville CUSD 399 Proposition to Issue $12,370,000 School Building Bonds",2026-11-03,99.9,,False,2,1,171,2026-11-18T13:21+00:00
+175107,IL,Lee County Sheriff,2026-11-03,99.9,,False,1,1,9940,2026-11-18T13:21+00:00
+175146,IL,Argenta Oreana CUSD 1 at Large Twp 17N Rge 2E,2026-11-03,99.9,,False,2,1,232,2026-11-18T13:21+00:00
+152840,IL,Illinois State House 102,2026-11-03,66.7,2026-11-04T07:09:42.058Z,False,1,5,15057,2026-11-18T13:21+00:00
+175025,IL,Bureau County Board District 7 Member,2026-11-03,99.9,,False,1,1,482,2026-11-18T13:21+00:00
+152941,IL,Illinois 1st Circuit Court - Judge Sarah K. Tripp Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175113,IL,Lee County Board District 4 Member,2026-11-03,99.9,,False,2,1,4042,2026-11-18T13:21+00:00
+175151,IL,Mason County Clerk and Recorder,2026-11-03,99.9,,False,1,1,3895,2026-11-18T13:21+00:00
+152863,IL,Illinois Carroll/JoDaviess/Stephenson Regional Superintendent of Schools,2026-11-03,99.9,,False,1,4,16820,2026-11-18T13:21+00:00
+152716,IL,Illinois State Senate 26,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,0,90105,2026-11-18T13:21+00:00
+152754,IL,Illinois State House 16,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+175091,IL,Edgar County Board District 2 Member,2026-11-03,99.9,,False,1,1,753,2026-11-18T13:21+00:00
+153003,IL,Illinois 22nd Circuit Court - Judge David R. Gervais Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175194,IL,Shelby County Clerk and Recorder,2026-11-03,99.9,,False,1,1,8146,2026-11-18T13:21+00:00
+152880,IL,Illinois Monroe/Randolph Regional Superintendent of Schools,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152887,IL,Illinois Cook Circuit Court - Hooks Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+175048,IL,Christian County Board District 1 Member,2026-11-03,99.9,,False,3,1,4200,2026-11-18T13:21+00:00
+152771,IL,Illinois State House 33,2026-11-03,0,2026-11-04T07:09:42.056Z,False,1,0,0,2026-11-18T13:21+00:00
+153001,IL,Illinois 21st Circuit Court - Judge Lindsay Parkhurst Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175200,IL,Shelby County Board District 2 Member - 4-Year Term,2026-11-03,99.9,,False,1,1,827,2026-11-18T13:21+00:00
+175240,IL,Little Mackinaw Fire Protection Extension Limitation Tax Increase,2026-11-03,99.9,,False,2,1,563,2026-11-18T13:21+00:00
+152731,IL,Illinois State Senate 48,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,2,76453,2026-11-18T13:21+00:00
+152968,IL,Illinois 9th Circuit Court - Judge David L. Vancil Jr. Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175166,IL,Ogle County Board District 1 Member - 4-Year Term,2026-11-03,99.9,,False,1,1,1957,2026-11-18T13:21+00:00
+152877,IL,Illinois Macon/Piatt Regional Superintendent of Schools,2026-11-03,99.9,,False,1,6,30145,2026-11-18T13:21+00:00
+175245,IL,Vermilion County Sheriff,2026-11-03,99.9,,False,2,1,15240,2026-11-18T13:21+00:00
+152736,IL,Illinois State Senate 56,2026-11-03,99.9,2026-11-12T01:54:12.317Z,False,2,0,75690,2026-11-18T13:21+00:00
+175125,IL,Logan County Board District 2 Member,2026-11-03,99.9,,False,1,1,1438,2026-11-18T13:21+00:00
+153043,IL,Illinois Cook Circuit Court - Judge John G. Mulroe Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152882,IL,Illinois Appellate Court District 3 - McDade Vacancy,2026-11-03,99.9,,False,2,1,11712,2026-11-18T13:21+00:00
+152920,IL,Illinois 9th Circuit Court - Cavanaugh Vacancy,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175023,IL,Bureau County Board District 2 Member - 2-Year Unexpired Term,2026-11-03,99.9,,False,1,1,556,2026-11-18T13:21+00:00
+175064,IL,Coles County Board District 1 Member,2026-11-03,99.9,,False,1,1,1624,2026-11-18T13:21+00:00
+152785,IL,Illinois State House 47,2026-11-03,99.9,2026-11-04T07:09:42.056Z,False,2,0,45595,2026-11-18T13:21+00:00
+175149,IL,Argenta Oreana CUSD 1 at Large Twp 18N Rge 3E,2026-11-03,99.9,,False,2,1,504,2026-11-18T13:21+00:00
+153053,IL,Illinois Cook Circuit Court - Judge Krista D. Butler Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152707,IL,Illinois State Senate 12,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+175062,IL,Coles County Treasurer,2026-11-03,99.9,,False,1,1,13354,2026-11-18T13:21+00:00
+152982,IL,Illinois 14th Circuit Court - Judge John L. McGehee Retention,2026-11-03,99.9,,False,2,1,16847,2026-11-18T13:21+00:00
+152828,IL,Illinois State House 90,2026-11-03,66.7,2026-11-04T07:09:42.057Z,False,1,2,8503,2026-11-18T13:21+00:00
+152859,IL,"Illinois Bond/Christian/Effingham, etc. Regional Superintendent of Schools",2026-11-03,99.9,,False,1,3,11548,2026-11-18T13:21+00:00
+152904,IL,Illinois Cook Circuit Court 17th Subcircuit - Brooks Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152750,IL,Illinois State House 12,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,0,40095,2026-11-18T13:21+00:00
+175139,IL,Macon County Board District 3 Member - 2-Year Term,2026-11-03,99.9,,False,1,1,4587,2026-11-18T13:21+00:00
+153025,IL,Illinois Cook Circuit Court - Judge Abbey Fishman Romanek Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175219,IL,Stephenson County Treasurer,2026-11-03,99.9,,False,1,1,12058,2026-11-18T13:21+00:00
+175257,IL,Vermilion County Board of Review District 2 Member,2026-11-03,99.9,,False,1,1,5536,2026-11-18T13:21+00:00
+175105,IL,Lee County Clerk and Recorder,2026-11-03,99.9,,False,1,1,9936,2026-11-18T13:21+00:00
+175144,IL,Macon County Board District 5 Member - 4-Year Term,2026-11-03,99.9,,False,2,1,7223,2026-11-18T13:21+00:00
+175183,IL,Piatt County Sheriff,2026-11-03,99.9,,False,1,1,6076,2026-11-18T13:21+00:00
+153067,IL,Illinois Cook Circuit Court - Judge Maura McMahon Zeller Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152913,IL,Illinois 2nd Circuit Court - Molt Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152734,IL,Illinois State Senate 53,2026-11-03,83.3,2026-11-04T07:09:42.055Z,False,1,5,22561,2026-11-18T13:21+00:00
+175123,IL,Logan County Sheriff,2026-11-03,99.9,,False,1,1,8153,2026-11-18T13:21+00:00
+153034,IL,Illinois Cook Circuit Court - Judge James P. Pieczonka Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+153065,IL,Illinois Cook Circuit Court - Judge Perla Tirado Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175041,IL,Carroll County Board District 2 Member,2026-11-03,99.9,,False,1,1,1583,2026-11-18T13:21+00:00
+152956,IL,Illinois 6th Circuit Court - Judge Dana Rhoades Retention,2026-11-03,80,,False,2,5,43027,2026-11-18T13:21+00:00
+175121,IL,Logan County Clerk and Recorder,2026-11-03,99.9,,False,1,1,8024,2026-11-18T13:21+00:00
+153039,IL,Illinois Cook Circuit Court - Judge Gerardo Tristan Jr. Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175233,IL,Tazewell County Treasurer,2026-11-03,99.9,,False,1,1,39292,2026-11-18T13:21+00:00
+152724,IL,Illinois State Senate 38,2026-11-03,99.7,2026-11-12T01:54:12.316Z,False,2,1,77291,2026-11-18T13:21+00:00
+175087,IL,Edgar County Clerk and Recorder,2026-11-03,99.9,,False,1,1,5094,2026-11-18T13:21+00:00
+152999,IL,Illinois 21st Circuit Court - Judge Michael Sabol Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175190,IL,Putnam County Clerk and Recorder,2026-11-03,99.9,,False,1,1,1904,2026-11-18T13:21+00:00
+175238,IL,Tazewell County Board District 3 Member - 2-Year Unexpired Term,2026-11-03,99.9,,False,2,1,17293,2026-11-18T13:21+00:00
+152729,IL,Illinois State Senate 45,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,4,84195,2026-11-18T13:21+00:00
+152767,IL,Illinois State House 29,2026-11-03,0,2026-11-04T07:09:42.056Z,False,1,0,0,2026-11-18T13:21+00:00
+175164,IL,Ogle County Sheriff,2026-11-03,99.9,,False,1,1,15858,2026-11-18T13:21+00:00
+175176,IL,Ogle County Board District 6 Member - 4-Year Term,2026-11-03,99.9,,False,1,1,1946,2026-11-18T13:21+00:00
+175217,IL,Teutopolis CUSD 50 Issue Building Bonds,2026-11-03,99.9,,False,2,1,105,2026-11-18T13:21+00:00
+175255,IL,Vermilion County Board District 8 Member,2026-11-03,99.9,,False,2,1,108,2026-11-18T13:21+00:00
+175096,IL,Ford County Clerk and Recorder,2026-11-03,99.9,,False,1,1,4160,2026-11-18T13:21+00:00
+175135,IL,Macon County Board District 1 Member - 4-Year Term,2026-11-03,99.9,,False,1,1,2876,2026-11-18T13:21+00:00
+175142,IL,Macon County Board District 4 Member - 4-Year Term,2026-11-03,99.9,,False,1,1,5815,2026-11-18T13:21+00:00
+152829,IL,Illinois State House 91,2026-11-03,50,2026-11-04T07:09:42.057Z,False,1,1,4482,2026-11-18T13:21+00:00
+152892,IL,Illinois Cook Circuit Court 3rd Subcircuit - Sherlock Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+175253,IL,Vermilion County Board District 6 Member,2026-11-03,99.9,,False,1,1,776,2026-11-18T13:21+00:00
+175101,IL,Ford County Board District 2 Member,2026-11-03,99.9,,False,2,1,2039,2026-11-18T13:21+00:00
+153013,IL,Illinois Cook Circuit Court - Judge Edward A. Arce Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+153051,IL,Illinois Cook Circuit Court - Judge Julie Bess Aimen Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175019,IL,Proposition to Dissolve Boone County Fire District No. 5,2026-11-03,99.9,,False,2,1,296,2026-11-18T13:21+00:00
+175060,IL,Clark County Board District 6 Member,2026-11-03,99.9,,False,1,1,704,2026-11-18T13:21+00:00
+152781,IL,Illinois State House 43,2026-11-03,0,2026-11-04T07:09:42.056Z,False,1,0,0,2026-11-18T13:21+00:00
+153018,IL,"Illinois Cook Circuit Court - Judge Anthony C. ""Tony"" Kyriakopoulos Retention",2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152857,IL,Illinois Adams/Brown/Cass/Morgan/Pike/Scott Regional Superintendent of Schools,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152703,IL,Illinois State Senate 6,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+152748,IL,Illinois State House 10,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+175137,IL,Macon County Board District 2 Member - 2-Year Term,2026-11-03,99.9,,False,2,1,8130,2026-11-18T13:21+00:00
+152997,IL,Illinois 19th Circuit Court - Judge James K. Booras Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152843,IL,Illinois State House 105,2026-11-03,80,2026-11-04T07:09:42.058Z,False,1,4,13272,2026-11-18T13:21+00:00
+175028,IL,Bureau County Board District 11 Member,2026-11-03,99.9,,False,1,1,394,2026-11-18T13:21+00:00
+152720,IL,Illinois State Senate 32,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,0,81196,2026-11-18T13:21+00:00
+152727,IL,Illinois State Senate 42,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,0,72797,2026-11-18T13:21+00:00
+152957,IL,Illinois 6th Circuit Court - Judge Ramona M. Sullivan Retention,2026-11-03,80,,False,2,5,42532,2026-11-18T13:21+00:00
+175154,IL,Mason County Supervisor of Assessments,2026-11-03,99.9,,False,1,1,3634,2026-11-18T13:21+00:00
+152841,IL,Illinois State House 103,2026-11-03,0,2026-11-04T07:09:42.058Z,False,1,0,0,2026-11-18T13:21+00:00
+175034,IL,Mineral-Gold Fire Protection District Corporate Tax Rate Increase,2026-11-03,99.9,,False,2,1,157,2026-11-18T13:21+00:00
+175074,IL,De Witt County Treasurer,2026-11-03,99.9,,False,1,1,4875,2026-11-18T13:21+00:00
+175114,IL,Livingston County Clerk and Recorder,2026-11-03,99.9,,False,1,1,10618,2026-11-18T13:21+00:00
+152808,IL,Illinois State House 70,2026-11-03,99.9,,False,2,0,45920,2026-11-18T13:21+00:00
+153063,IL,Illinois Cook Circuit Court - Judge Tiesha L. Smith Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152717,IL,Illinois State Senate 27,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,0,70072,2026-11-18T13:21+00:00
+175079,IL,Argenta Oreana CUSD No. 1 at Large Twp 19N Rge 3E,2026-11-03,99.9,,False,2,1,2,2026-11-18T13:21+00:00
+175119,IL,Livingston County Board District 2 Member,2026-11-03,99.9,,False,3,1,8496,2026-11-18T13:21+00:00
+153030,IL,Illinois Cook Circuit Court - Judge Robert D. Kuzas Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175231,IL,Pecatonica Fire Protection District Limiting Rate Increase,2026-11-03,99.9,,False,2,1,159,2026-11-18T13:21+00:00
+152722,IL,Illinois State Senate 35,2026-11-03,99.9,2026-11-12T01:54:12.316Z,False,2,1,86839,2026-11-18T13:21+00:00
+152760,IL,Illinois State House 22,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+175058,IL,Clark County Board District 2 Member,2026-11-03,99.9,,False,1,1,650,2026-11-18T13:21+00:00
+152971,IL,Illinois 10th Circuit Court - Judge Christopher R. Doscotch Retention,2026-11-03,99.9,,False,2,2,46088,2026-11-18T13:21+00:00
+175169,IL,Ogle County Board District 3 Member - 2-Year Term,2026-11-03,99.9,,False,1,1,1152,2026-11-18T13:21+00:00
+152855,IL,Illinois State House 117,2026-11-03,0,2026-11-04T07:09:42.058Z,False,1,0,0,2026-11-18T13:21+00:00
+152893,IL,Illinois Cook Circuit Court 5th Subcircuit - Ross Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152739,IL,Illinois State House 1,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+152969,IL,Illinois 9th Circuit Court - Judge Andrew J. Doyle Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152822,IL,Illinois State House 84,2026-11-03,99.9,2026-11-04T07:09:42.057Z,False,2,0,31611,2026-11-18T13:21+00:00
+175208,IL,Shelby County Board District 8 Member,2026-11-03,99.9,,False,1,1,789,2026-11-18T13:21+00:00
+175246,IL,Vermilion County Supervisor of Assessments,2026-11-03,99.9,,False,1,1,13070,2026-11-18T13:21+00:00
+152936,IL,Illinois 18th Circuit Court 5th Subcircuit - Fullerton Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+175133,IL,Macon County Sheriff,2026-11-03,99.9,,False,1,1,24081,2026-11-18T13:21+00:00
+153044,IL,Illinois Cook Circuit Court - Judge Tyria B. Walton Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175213,IL,Shelby County Board of Review District 3 Member,2026-11-03,99.9,,False,1,1,2912,2026-11-18T13:21+00:00
+175251,IL,Vermilion County Board District 5 Member - 4-Year Term,2026-11-03,99.9,,False,2,1,2391,2026-11-18T13:21+00:00
+175092,IL,Edgar County Board District 3 Member,2026-11-03,99.9,,False,1,1,912,2026-11-18T13:21+00:00
+153011,IL,Illinois Cook Circuit Court - Judge Joan E. Powell Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+153049,IL,Illinois Cook Circuit Court - Judge Celestia L. Mays Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152888,IL,Illinois Cook Circuit Court - Karkula Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152907,IL,Illinois Cook Circuit Court 18th Subcircuit - Chrones Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152753,IL,Illinois State House 15,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+175117,IL,Livingston County State's Attorney - 2-Year Unexpired Term,2026-11-03,99.9,,False,1,1,10603,2026-11-18T13:21+00:00
+153028,IL,Illinois Cook Circuit Court - Judge Megan Elizabeth Goldish Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175222,IL,Stephenson County Board District B Member,2026-11-03,99.9,,False,1,1,710,2026-11-18T13:21+00:00
+152905,IL,Illinois Cook Circuit Court 17th Subcircuit - Carroll Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152950,IL,Illinois 4th Circuit Court - Judge Martin W. Siemer Retention,2026-11-03,99.9,,False,2,2,17159,2026-11-18T13:21+00:00
+152796,IL,Illinois State House 58,2026-11-03,0,2026-11-04T07:09:42.056Z,False,1,0,0,2026-11-18T13:21+00:00
+153026,IL,Illinois Cook Circuit Court - Judge Judith C. Rice Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152872,IL,Illinois Grundy/Kendall Regional Superintendent of Schools,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+175265,IL,Whiteside County Board District 3 Member,2026-11-03,99.9,,False,6,1,21349,2026-11-18T13:21+00:00
+175106,IL,Lee County Treasurer,2026-11-03,99.9,,False,1,1,9739,2026-11-18T13:21+00:00
+152993,IL,Illinois 18th Circuit Court - Judge Ann Celine Walsh Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152839,IL,Illinois State House 101,2026-11-03,83.3,2026-11-04T07:09:42.058Z,False,2,5,39112,2026-11-18T13:21+00:00
+175024,IL,Bureau County Board District 6 Member,2026-11-03,99.9,,False,1,1,665,2026-11-18T13:21+00:00
+175072,IL,Coles County Non-Binding Advisory Public Policy State Split (Illinois Separation Referendum),2026-11-03,99.9,,False,2,1,15898,2026-11-18T13:21+00:00
+175111,IL,Lee County Board District 3 Member - 4-Year Term,2026-11-03,99.9,,False,4,1,4751,2026-11-18T13:21+00:00
+175150,IL,Argenta Oreana CUSD 1 at Large Twp 18N Rge 4E,2026-11-03,99.9,,False,2,1,63,2026-11-18T13:21+00:00
+153061,IL,Illinois Cook Circuit Court - Judge Jill Rose Quinn Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+153042,IL,Illinois Cook Circuit Court - Judge Thomas M. Cushing Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152881,IL,Illinois Appellate Court District 1 - Hoffman Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+175249,IL,Vermilion County Board District 3 Member,2026-11-03,99.9,,False,2,1,3849,2026-11-18T13:21+00:00
+175090,IL,Illinois Vermilion Regional Superintendent of Schools,2026-11-03,99.9,,False,1,3,13034,2026-11-18T13:21+00:00
+153002,IL,Illinois 22nd Circuit Court - Judge Michael W. Feetterer Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+153040,IL,Illinois Cook Circuit Court - Judge Lynn Weaver Boyle Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+153047,IL,Illinois Cook Circuit Court - Judge Patricia Maria Fallon Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175008,IL,Boone County Clerk and Recorder,2026-11-03,99.9,,False,1,1,13168,2026-11-18T13:21+00:00
+152924,IL,Illinois 11th Circuit Court - Costigan Vacancy,2026-11-03,99.9,,False,1,3,22435,2026-11-18T13:21+00:00
+175088,IL,Edgar County Treasurer,2026-11-03,99.9,,False,1,1,4928,2026-11-18T13:21+00:00
+153007,IL,Illinois 24th Circuit Court - Judge James W. Campanella Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175198,IL,Shelby County Coroner - 2-Year Unexpired Term,2026-11-03,99.9,,False,1,1,7879,2026-11-18T13:21+00:00
+175239,IL,Fondulac Public Library Proposition to Increase Limiting Tax Rate,2026-11-03,99.9,,False,2,1,7269,2026-11-18T13:21+00:00
+175054,IL,Clark County Clerk and Recorder,2026-11-03,99.9,,False,1,1,5671,2026-11-18T13:21+00:00
+152967,IL,Illinois 8th Circuit Court - Judge Tad Brenner Retention,2026-11-03,99.9,,False,2,1,4030,2026-11-18T13:21+00:00
+175165,IL,Ogle County Board District 1 Member - 2-Year Term,2026-11-03,99.9,,False,1,1,1975,2026-11-18T13:21+00:00
+175204,IL,Shelby County Board District 5 Member,2026-11-03,99.9,,False,1,1,663,2026-11-18T13:21+00:00
+175244,IL,Vermilion County Treasurer,2026-11-03,99.9,,False,1,1,12725,2026-11-18T13:21+00:00
+152735,IL,Illinois State Senate 54,2026-11-03,80,2026-11-04T07:09:42.055Z,False,1,4,23770,2026-11-18T13:21+00:00
+175131,IL,Macon County Clerk,2026-11-03,99.9,,False,2,1,33227,2026-11-18T13:21+00:00
+175143,IL,Macon County Board District 5 Member - 2-Year Term,2026-11-03,99.9,,False,2,1,7276,2026-11-18T13:21+00:00
+152837,IL,Illinois State House 99,2026-11-03,0,2026-11-04T07:09:42.057Z,False,1,0,0,2026-11-18T13:21+00:00
+175022,IL,Bureau County Sheriff,2026-11-03,99.9,,False,2,1,12045,2026-11-18T13:21+00:00
+175063,IL,Coles County Sheriff,2026-11-03,99.9,,False,1,1,13403,2026-11-18T13:21+00:00
+175102,IL,Ford County Board District 3 Member - 4-Year Term,2026-11-03,99.9,,False,2,1,2371,2026-11-18T13:21+00:00
+175109,IL,Lee County Board District 2 Member - 4-Year Term,2026-11-03,99.9,,False,2,1,3847,2026-11-18T13:21+00:00
+152797,IL,Illinois State House 59,2026-11-03,0,2026-11-04T07:09:42.056Z,False,1,0,0,2026-11-18T13:21+00:00
+152860,IL,Illinois Boone/Winnebago Regional Superintendent of Schools,2026-11-03,99.9,,False,1,2,12988,2026-11-18T13:21+00:00
+175020,IL,Bureau County Clerk and Recorder,2026-11-03,99.9,,False,1,1,9956,2026-11-18T13:21+00:00
+175068,IL,Coles County Board District 11 Member,2026-11-03,99.9,,False,1,1,880,2026-11-18T13:21+00:00
+152981,IL,Illinois 14th Circuit Court - Judge Peter W. Church Retention,2026-11-03,99.9,,False,2,1,16810,2026-11-18T13:21+00:00
+153019,IL,Illinois Cook Circuit Court - Judge Caroline Kate Moreland Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+153057,IL,Illinois Cook Circuit Court - Judge Mary Catherine Marubio Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152903,IL,Illinois Cook Circuit Court 16th Subcircuit - Mendoza Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152749,IL,Illinois State House 11,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+152986,IL,Illinois 16th Circuit Court - Judge Joseph M. Grady Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+153024,IL,Illinois Cook Circuit Court - Judge Steven G. Watkins Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175218,IL,Stephenson County Clerk and Recorder,2026-11-03,99.9,,False,2,1,15625,2026-11-18T13:21+00:00
+175263,IL,Whiteside County Board District 1 Member,2026-11-03,99.9,,False,8,1,23773,2026-11-18T13:21+00:00
+175104,IL,Ford County Countywide New State Advisory Question,2026-11-03,99.9,,False,2,1,4645,2026-11-18T13:21+00:00
+152965,IL,"Illinois 8th Circuit Court - Judge Michael L. ""Mike"" Atterberry Retention",2026-11-03,99.9,,False,2,1,4108,2026-11-18T13:21+00:00
+152811,IL,Illinois State House 73,2026-11-03,95,2026-11-04T07:09:42.057Z,False,2,3,43219,2026-11-18T13:21+00:00
+153066,IL,Illinois Cook Circuit Court - Judge Elizabeth Anne Walsh Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175235,IL,Tazewell County Board District 1 Member,2026-11-03,99.9,,False,5,1,33154,2026-11-18T13:21+00:00
+175242,IL,"Morton Park District Proposition to Issue $4,800,000 Park Bonds",2026-11-03,99.9,,False,2,1,9246,2026-11-18T13:21+00:00
+152925,IL,"Illinois 11th Circuit Court - Feeney, III Vacancy",2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+175122,IL,Logan County Treasurer,2026-11-03,99.9,,False,1,1,7925,2026-11-18T13:21+00:00
+152809,IL,Illinois State House 71,2026-11-03,77.2,2026-11-04T07:09:42.057Z,False,2,0,36482,2026-11-18T13:21+00:00
+175001,IL,Bond County Treasurer,2026-11-03,99.9,,False,1,1,5216,2026-11-18T13:21+00:00
+175040,IL,Carroll County Board District 1 Member,2026-11-03,99.9,,False,1,1,1507,2026-11-18T13:21+00:00
+175080,IL,Heyworth CUSD No 4 at Large Twp 21N Rge 1E,2026-11-03,99.9,,False,2,1,9,2026-11-18T13:21+00:00
+152776,IL,Illinois State House 38,2026-11-03,0,2026-11-04T07:09:42.056Z,False,1,0,0,2026-11-18T13:21+00:00
+153038,IL,Illinois Cook Circuit Court - Judge Sondra N. Denmark Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175232,IL,Tazewell County Clerk and Recorder,2026-11-03,99.9,,False,1,1,40281,2026-11-18T13:21+00:00
+175045,IL,Christian County Treasurer,2026-11-03,99.9,,False,1,1,9748,2026-11-18T13:21+00:00
+175086,IL,Douglas County Board District 6 Member,2026-11-03,0,,False,1,1,0,2026-11-18T13:21+00:00
+152998,IL,Illinois 19th Circuit Court - Judge Marnie M. Slavin Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152851,IL,Illinois State House 113,2026-11-03,0,2026-11-04T07:09:42.058Z,False,1,0,0,2026-11-18T13:21+00:00
+175237,IL,Tazewell County Board District 3 Member - 4-Year Term,2026-11-03,99.9,,False,4,1,41136,2026-11-18T13:21+00:00
+152728,IL,Illinois State Senate 44,2026-11-03,87.5,2026-11-04T07:09:42.055Z,False,1,7,48495,2026-11-18T13:21+00:00
+152901,IL,Illinois Cook Circuit Court 13th Subcircuit - O'Malley Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152939,IL,Illinois Appellate Court District 5 - Judge John B. Barberis Jr. Retention,2026-11-03,91.7,,False,2,12,103105,2026-11-18T13:21+00:00
+175136,IL,Macon County Board District 1 Member - 2-Year Unexpired Term,2026-11-03,99.9,,False,1,1,2834,2026-11-18T13:21+00:00
+153022,IL,Illinois Cook Circuit Court - Judge John Michael Allegretti Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152861,IL,Illinois Bureau/Henry/Stark Regional Superintendent of Schools,2026-11-03,99.9,,False,1,3,9914,2026-11-18T13:21+00:00
+175254,IL,Vermilion County Board District 7 Member,2026-11-03,99.9,,False,2,1,1064,2026-11-18T13:21+00:00
+152937,IL,Illinois Appellate Court District 1 - Judge Bertina E. Lampkin Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152790,IL,Illinois State House 52,2026-11-03,99.9,2026-11-04T07:09:42.056Z,False,2,0,46048,2026-11-18T13:21+00:00
+175180,IL,Ogle County Board District 8 Member - 4-Year Term,2026-11-03,99.9,,False,1,1,2295,2026-11-18T13:21+00:00
+175214,IL,Neoga CUSD 3 at Large Twp 9N Rge 6E,2026-11-03,99.9,,False,2,1,170,2026-11-18T13:21+00:00
+152712,IL,Illinois State Senate 20,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+175100,IL,Ford County Board District 1 Member - 2-Year Unexpired Term,2026-11-03,99.9,,False,1,1,1311,2026-11-18T13:21+00:00
+153012,IL,Illinois Cook Circuit Court - Judge Maureen Ward Kirby Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152833,IL,Illinois State House 95,2026-11-03,66.7,2026-11-04T07:09:42.057Z,False,1,2,1928,2026-11-18T13:21+00:00
+175018,IL,Boone County Limit on School Admin Costs Advisory Question,2026-11-03,99.9,,False,2,1,17062,2026-11-18T13:21+00:00
+175059,IL,Clark County Board District 5 Member,2026-11-03,99.9,,False,1,1,810,2026-11-18T13:21+00:00
+152979,IL,Illinois 13th Circuit Court - Judge Sheldon R. Sobol Retention,2026-11-03,99.9,,False,2,1,10533,2026-11-18T13:21+00:00
+153017,IL,Illinois Cook Circuit Court - Judge Ursula Walowski Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152856,IL,Illinois State House 118,2026-11-03,99.9,2026-11-12T01:54:12.317Z,False,2,0,36016,2026-11-18T13:21+00:00
+152875,IL,Illinois LaSalle/Marshall/Putnam Regional Superintendent of Schools,2026-11-03,99.9,,False,1,3,1804,2026-11-18T13:21+00:00
+152721,IL,Illinois State Senate 33,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,0,84024,2026-11-18T13:21+00:00
+175083,IL,Douglas County Sheriff,2026-11-03,0,,False,1,1,0,2026-11-18T13:21+00:00
+152996,IL,"Illinois 18th Circuit Court - Judge Margaret ""Peggy"" O'Connell Retention",2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152842,IL,Illinois State House 104,2026-11-03,99.9,2026-11-12T01:54:12.317Z,False,2,1,36443,2026-11-18T13:21+00:00
+152873,IL,Illinois Henderson/Knox/Mercer/Warren Regional Superintendent of Schools,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152918,IL,Illinois 8th Circuit Court - Adrian Vacancy,2026-11-03,99.9,,False,1,1,3744,2026-11-18T13:21+00:00
+152764,IL,Illinois State House 26,2026-11-03,0,2026-11-04T07:09:42.056Z,False,1,0,0,2026-11-18T13:21+00:00
+152994,IL,Illinois 18th Circuit Court - Judge Monique O'Toole Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152847,IL,Illinois State House 109,2026-11-03,50,2026-11-04T07:09:42.058Z,False,1,1,4067,2026-11-18T13:21+00:00
+175033,IL,La Moille CUSD 303 High School Deactivation,2026-11-03,99.9,,False,2,2,699,2026-11-18T13:21+00:00
+175073,IL,De Witt County Clerk and Recorder,2026-11-03,99.9,,False,1,1,4780,2026-11-18T13:21+00:00
+152961,IL,Illinois 7th Circuit Court - Judge Raylene Grischow Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152807,IL,Illinois State House 69,2026-11-03,99.9,2026-11-04T07:09:42.057Z,False,2,1,40901,2026-11-18T13:21+00:00
+153062,IL,Illinois Cook Circuit Court - Judge Pamela Reaves-Harris Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175038,IL,Carroll County Sheriff,2026-11-03,99.9,,False,1,1,5041,2026-11-18T13:21+00:00
+175078,IL,De Witt County Board District C Member - 2-Year Unexpired Term,2026-11-03,99.9,,False,3,1,1889,2026-11-18T13:21+00:00
+175118,IL,Livingston County Board District 1 Member,2026-11-03,99.9,,False,4,1,7987,2026-11-18T13:21+00:00
+153036,IL,Illinois Cook Circuit Court - Judge Michael A. Forti Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+153048,IL,Illinois Cook Circuit Court - Judge Sheree D. Henry Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175016,IL,Boone County Cap and Lower Property Tax Advisory Question,2026-11-03,99.9,,False,2,1,17028,2026-11-18T13:21+00:00
+175057,IL,Clark County Board District 1 Member,2026-11-03,99.9,,False,1,1,799,2026-11-18T13:21+00:00
+152970,IL,Illinois 10th Circuit Court - Judge James A. Mack Retention,2026-11-03,99.9,,False,2,2,46109,2026-11-18T13:21+00:00
+153008,IL,Illinois 24th Circuit Court - Judge Chris Hitzemann Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+153015,IL,Illinois Cook Circuit Court - Judge Diana L. Kenworthy Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175181,IL,Piatt County Clerk and Recorder,2026-11-03,99.9,,False,1,1,6177,2026-11-18T13:21+00:00
+152700,IL,Illinois State Senate 2,2026-11-03,0,2026-11-04T07:09:42.054Z,False,1,0,0,2026-11-18T13:21+00:00
+175055,IL,Clark County Treasurer,2026-11-03,99.9,,False,1,1,5561,2026-11-18T13:21+00:00
+152975,IL,Illinois 12th Circuit Court - Judge Amy M. Bertani-Tomczak Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152821,IL,Illinois State House 83,2026-11-03,99.9,2026-11-04T07:09:42.057Z,False,2,0,41136,2026-11-18T13:21+00:00
+175205,IL,Shelby County Board District 6 Member,2026-11-03,99.9,,False,1,1,838,2026-11-18T13:21+00:00
+152897,IL,Illinois Cook Circuit Court 11th Subcircuit - Roberts Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152935,IL,Illinois 18th Circuit Court 4th Subcircuit - Wilson Vacancy,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175132,IL,Macon County Treasurer,2026-11-03,99.9,,False,1,1,24124,2026-11-18T13:21+00:00
+152826,IL,Illinois State House 88,2026-11-03,80,2026-11-04T07:09:42.057Z,False,1,4,16990,2026-11-18T13:21+00:00
+175212,IL,Shelby County Board of Review District 1 Member - 2-Year Unexpired Term,2026-11-03,99.9,,False,1,1,2470,2026-11-18T13:21+00:00
+175250,IL,Vermilion County Board District 4 Member,2026-11-03,99.9,,False,2,1,2506,2026-11-18T13:21+00:00
+175098,IL,Ford County Sheriff,2026-11-03,99.9,,False,1,1,4184,2026-11-18T13:21+00:00
+153010,IL,Illinois Cook Circuit Court - Judge Kerry M. Kennedy Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152805,IL,Illinois State House 67,2026-11-03,0,2026-11-04T07:09:42.057Z,False,1,0,0,2026-11-18T13:21+00:00
+153060,IL,Illinois Cook Circuit Court - Judge Eileen Marie O'Connor Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152906,IL,Illinois Cook Circuit Court 18th Subcircuit - Andreou Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+175069,IL,Coles County Board District 12 Member,2026-11-03,99.9,,False,1,1,338,2026-11-18T13:21+00:00
+175076,IL,De Witt County Board District A Member,2026-11-03,99.9,,False,2,1,1440,2026-11-18T13:21+00:00
+152765,IL,Illinois State House 27,2026-11-03,0,2026-11-04T07:09:42.056Z,False,1,0,0,2026-11-18T13:21+00:00
+153027,IL,Illinois Cook Circuit Court - Judge Patrick Kevin Coughlin Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+153058,IL,Illinois Cook Circuit Court - Judge Regina A. Mescall Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152911,IL,Illinois Cook Circuit Court 20th Subcircuit - Miller Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152949,IL,Illinois 4th Circuit Court - Judge Stanley M. Brandmeyer Retention,2026-11-03,99.9,,False,2,2,17121,2026-11-18T13:21+00:00
+152987,IL,Illinois 16th Circuit Court - Judge Donald (D.J.) Tegeler Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175160,IL,Moultrie County Sheriff,2026-11-03,99.9,,False,1,1,4408,2026-11-18T13:21+00:00
+152871,IL,"Illinois Fulton/Hancock/McDonough, etc. Regional Superintendent of Schools",2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+175264,IL,Whiteside County Board District 2 Member,2026-11-03,99.9,,False,6,1,17491,2026-11-18T13:21+00:00
+152954,IL,"Illinois 6th Circuit Court - Judge Robert C. ""R.C."" Bollinger Retention",2026-11-03,80,,False,2,5,42759,2026-11-18T13:21+00:00
+152992,IL,"Illinois 17th Circuit Court - Judge Ronald J. ""Ron"" White Retention",2026-11-03,99.9,,False,2,1,14767,2026-11-18T13:21+00:00
+152838,IL,Illinois State House 100,2026-11-03,0,2026-11-04T07:09:42.058Z,False,1,0,0,2026-11-18T13:21+00:00
+175030,IL,Bureau County Board District 14 Member,2026-11-03,99.9,,False,1,1,682,2026-11-18T13:21+00:00
+175071,IL,Neoga CUSD 3 Elect at Large Twp 11N Rge 8E,2026-11-03,99.9,,False,2,1,2,2026-11-18T13:21+00:00
+175110,IL,Lee County Board District 2 Member - 2-Year Unexpired Term,2026-11-03,99.9,,False,1,1,2506,2026-11-18T13:21+00:00
+152933,IL,Illinois 17th Circuit Court 1st Subcircuit - Lowry Vacancy,2026-11-03,99.9,,False,1,1,535,2026-11-18T13:21+00:00
+152779,IL,Illinois State House 41,2026-11-03,99.9,2026-11-04T07:09:42.056Z,False,2,0,41904,2026-11-18T13:21+00:00
+153041,IL,Illinois Cook Circuit Court - Judge Daniel Edward Maloney Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175201,IL,Shelby County Board District 2 Member - 2-Year Unexpired Term,2026-11-03,99.9,,False,1,1,836,2026-11-18T13:21+00:00
+175210,IL,Shelby County Board District 10 Member,2026-11-03,99.9,,False,1,1,615,2026-11-18T13:21+00:00
+152701,IL,Illinois State Senate 3,2026-11-03,0,2026-11-04T07:09:42.054Z,False,1,0,0,2026-11-18T13:21+00:00
+175089,IL,Edgar County Sheriff,2026-11-03,99.9,,False,1,1,5027,2026-11-18T13:21+00:00
+152777,IL,Illinois State House 39,2026-11-03,99.9,2026-11-04T07:09:42.056Z,False,2,0,30535,2026-11-18T13:21+00:00
+175174,IL,Ogle County Board District 5 Member - 4-Year Term,2026-11-03,99.9,,False,1,1,2414,2026-11-18T13:21+00:00
+175007,IL,Pocahontas Old Ripley Fire Protection District,2026-11-03,99.9,,False,2,1,811,2026-11-18T13:21+00:00
+175046,IL,Christian County Sheriff,2026-11-03,99.9,,False,1,1,9703,2026-11-18T13:21+00:00
+152744,IL,Illinois State House 6,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+153006,IL,Illinois 23rd Circuit Court - Judge Jody P. Gleason Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152852,IL,Illinois State House 114,2026-11-03,99.9,,False,2,0,35888,2026-11-18T13:21+00:00
+175012,IL,Illinois McHenry Regional Superintendent of Schools,2026-11-03,99.9,,False,2,1,46,2026-11-18T13:21+00:00
+175051,IL,Christian County Board District 4 Member,2026-11-03,99.9,,False,3,1,4448,2026-11-18T13:21+00:00
+152966,IL,Illinois 8th Circuit Court - Judge Charles H.W. Burch Retention,2026-11-03,99.9,,False,2,1,4020,2026-11-18T13:21+00:00
+152819,IL,Illinois State House 81,2026-11-03,99.9,2026-11-04T07:09:42.057Z,False,2,0,45180,2026-11-18T13:21+00:00
+175203,IL,Shelby County Board District 4 Member,2026-11-03,99.9,,False,1,1,572,2026-11-18T13:21+00:00
+175243,IL,Vermilion County Clerk,2026-11-03,99.9,,False,1,1,13138,2026-11-18T13:21+00:00
+152869,IL,"Illinois Edwards/Gallatin/Hamilton, etc. Regional Superintendent of Schools",2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152715,IL,Illinois State Senate 24,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,0,82947,2026-11-18T13:21+00:00
+175103,IL,Ford County Board District 3 Member - 2-Year Unexpired Term,2026-11-03,99.9,,False,1,1,1415,2026-11-18T13:21+00:00
+152990,IL,Illinois 17th Circuit Court - Judge Lisa R. Fabiano Retention,2026-11-03,99.9,,False,2,1,14838,2026-11-18T13:21+00:00
+152836,IL,Illinois State House 98,2026-11-03,99.9,2026-11-04T07:09:42.057Z,False,2,0,34366,2026-11-18T13:21+00:00
+175021,IL,Bureau County Treasurer,2026-11-03,99.9,,False,1,1,9983,2026-11-18T13:21+00:00
+152713,IL,Illinois State Senate 21,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,0,85823,2026-11-18T13:21+00:00
+152758,IL,Illinois State House 20,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+175147,IL,Argenta Oreana CUSD 1 at Large Twp 17N Rge 3E,2026-11-03,99.9,,False,2,1,929,2026-11-18T13:21+00:00
+152834,IL,Illinois State House 96,2026-11-03,66.7,2026-11-04T07:09:42.057Z,False,1,2,10585,2026-11-18T13:21+00:00
+175227,IL,Stephenson County Board District F Member,2026-11-03,99.9,,False,1,1,1930,2026-11-18T13:21+00:00
+175067,IL,Coles County Board District 9 Member,2026-11-03,99.9,,False,1,1,949,2026-11-18T13:21+00:00
+152980,IL,Illinois 14th Circuit Court - Judge Terence M. Patton Retention,2026-11-03,99.9,,False,2,1,16908,2026-11-18T13:21+00:00
+152801,IL,Illinois State House 63,2026-11-03,0,2026-11-04T07:09:42.057Z,False,1,0,0,2026-11-18T13:21+00:00
+153056,IL,Illinois Cook Circuit Court - Judge Jonathan Clark Green Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152902,IL,Illinois Cook Circuit Court 16th Subcircuit - Baird Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152947,IL,Illinois 3rd Circuit Court - Judge Dennis R. Ruth Retention,2026-11-03,99.9,,False,2,1,5299,2026-11-18T13:21+00:00
+152985,IL,Illinois 15th Circuit Court - Judge J. Jerry Kane Retention,2026-11-03,99.9,,False,2,4,46676,2026-11-18T13:21+00:00
+153023,IL,Illinois Cook Circuit Court - Judge Kristal R. Rivers Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152850,IL,Illinois State House 112,2026-11-03,99.9,2026-11-04T07:09:42.058Z,False,2,0,40050,2026-11-18T13:21+00:00
+175236,IL,Tazewell County Board District 2 Member,2026-11-03,99.9,,False,5,1,50999,2026-11-18T13:21+00:00
+175049,IL,Christian County Board District 2 Member,2026-11-03,99.9,,False,3,1,4504,2026-11-18T13:21+00:00
+152964,IL,Illinois 7th Circuit Court - Judge Zachary A. Schmidt Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152810,IL,Illinois State House 72,2026-11-03,0,2026-11-04T07:09:42.057Z,False,1,0,0,2026-11-18T13:21+00:00
+152848,IL,Illinois State House 110,2026-11-03,50,2026-11-04T07:09:42.058Z,False,1,1,965,2026-11-18T13:21+00:00
+152886,IL,Illinois Cook Circuit Court - Coghlan Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152732,IL,Illinois State Senate 50,2026-11-03,0,2026-11-04T07:09:42.055Z,False,1,0,0,2026-11-18T13:21+00:00
+152962,IL,Illinois 7th Circuit Court - Judge Gail L. Noll Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152815,IL,Illinois State House 77,2026-11-03,99.9,2026-11-04T07:09:42.057Z,False,2,0,22580,2026-11-18T13:21+00:00
+175000,IL,Bond County Clerk and Recorder,2026-11-03,99.9,,False,1,1,4425,2026-11-18T13:21+00:00
+175039,IL,Carroll County State's Attorney - 2-Year Unexpired Term,2026-11-03,99.9,,False,1,1,5072,2026-11-18T13:21+00:00
+152929,IL,Illinois 13th Circuit Court - Raccuglia Vacancy,2026-11-03,99.9,,False,2,1,11715,2026-11-18T13:21+00:00
+152775,IL,Illinois State House 37,2026-11-03,0,2026-11-04T07:09:42.056Z,False,1,0,0,2026-11-18T13:21+00:00
+153037,IL,Illinois Cook Circuit Court - Judge Nichole C. Patton Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+175005,IL,Bond County Board District 3 Member,2026-11-03,99.9,,False,2,1,1328,2026-11-18T13:21+00:00
+175044,IL,Christian County Clerk and Recorder,2026-11-03,99.9,,False,1,1,9765,2026-11-18T13:21+00:00
+175084,IL,Douglas County Board District 4 Member,2026-11-03,0,,False,1,1,0,2026-11-18T13:21+00:00
+153004,IL,Illinois 22nd Circuit Court - Judge Justin M. Hansen Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+153016,IL,Illinois Cook Circuit Court - Judge Kristyna Colleen Ryan Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+153054,IL,Illinois Cook Circuit Court - Judge Marie Aileen Dempsey Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152900,IL,Illinois Cook Circuit Court 13th Subcircuit - Thomas J. Kelley Vacancy,2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152938,IL,Illinois Appellate Court District 4 - Judge James A. Knecht Retention,2026-11-03,92.3,,False,2,13,108323,2026-11-18T13:21+00:00
+152976,IL,Illinois 12th Circuit Court - Judge Sarah Jones Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152983,IL,"Illinois 15th Circuit Court - Judge John B. ""Ben"" Roe IV Retention",2026-11-03,99.9,,False,2,4,47128,2026-11-18T13:21+00:00
+175148,IL,Argenta Oreana CUSD 1 at Large Twp 17N Rge 4E,2026-11-03,99.9,,False,2,1,66,2026-11-18T13:21+00:00
+175215,IL,Neoga CUSD 3 at Large Twp 10N Rge 6E,2026-11-03,99.9,,False,2,1,260,2026-11-18T13:21+00:00
+152898,IL,"Illinois Cook Circuit Court 13th Subcircuit - Curry, Jr. Vacancy",2026-11-03,0,,False,1,0,0,2026-11-18T13:21+00:00
+152943,IL,Illinois 2nd Circuit Court - Judge Thomas J. Foster Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+152789,IL,Illinois State House 51,2026-11-03,99.9,2026-11-04T07:09:42.056Z,False,2,0,43816,2026-11-18T13:21+00:00
+152827,IL,Illinois State House 89,2026-11-03,80,2026-11-04T07:09:42.057Z,False,1,4,19889,2026-11-18T13:21+00:00
+152865,IL,"Illinois Clark/Coles/Cumberland, etc. Regional Superintendent of Schools",2026-11-03,88.9,,False,1,9,35565,2026-11-18T13:21+00:00
+152711,IL,Illinois State Senate 18,2026-11-03,99.9,2026-11-04T07:09:42.055Z,False,2,0,74811,2026-11-18T13:21+00:00
+175099,IL,Ford County Board District 1 Member - 4-Year Term,2026-11-03,99.9,,False,2,1,1896,2026-11-18T13:21+00:00
+152794,IL,Illinois State House 56,2026-11-03,99.9,2026-11-04T07:09:42.056Z,False,2,0,28394,2026-11-18T13:21+00:00
+152832,IL,Illinois State House 94,2026-11-03,66.7,2026-11-04T07:09:42.057Z,False,1,2,4261,2026-11-18T13:21+00:00
+175017,IL,Boone County Restore Local Zoning Authority Advisory Question,2026-11-03,99.9,,False,2,1,16980,2026-11-18T13:21+00:00
+175065,IL,Coles County Board District 5 Member,2026-11-03,99.9,,False,1,1,1161,2026-11-18T13:21+00:00
+152978,IL,Illinois 12th Circuit Court - Judge Daniel D. Rippy Retention,2026-11-03,0,,False,2,0,0,2026-11-18T13:21+00:00
+87118,IL,Illinois US House 7,2026-11-03,88.8,2026-11-04T02:21:59.540Z,False,2,2,210224,2026-11-18T13:21+00:00
+87113,IL,Illinois US House 2,2026-11-03,95.9,2026-11-04T02:21:59.540Z,False,2,9,218289,2026-11-18T13:21+00:00
+87126,IL,Illinois US House 15,2026-11-03,89.2,2026-11-04T02:56:10.392Z,False,2,35,288203,2026-11-18T13:21+00:00
+87121,IL,Illinois US House 10,2026-11-03,74.4,2026-11-04T04:19:08.954Z,False,2,4,243213,2026-11-18T13:21+00:00
+87116,IL,Illinois US House 5,2026-11-03,99,2026-11-04T02:21:59.541Z,False,2,3,280535,2026-11-18T13:21+00:00
+87129,IL,Illinois US Senate,2026-11-03,90.6,,False,3,102,4213532,2026-11-18T13:21+00:00
+87124,IL,Illinois US House 13,2026-11-03,92,2026-11-04T04:54:22.572Z,False,2,7,252343,2026-11-18T13:21+00:00
+87119,IL,Illinois US House 8,2026-11-03,84.8,2026-11-04T02:40:01.573Z,False,2,4,217406,2026-11-18T13:21+00:00
+87114,IL,Illinois US House 3,2026-11-03,85.8,2026-11-04T03:11:28.760Z,False,2,3,204917,2026-11-18T13:21+00:00
+87127,IL,Illinois US House 16,2026-11-03,92.1,2026-11-04T03:11:28.760Z,False,2,21,295649,2026-11-18T13:21+00:00
+87122,IL,Illinois US House 11,2026-11-03,81.6,2026-11-04T02:40:01.573Z,False,2,9,270345,2026-11-18T13:21+00:00
+87117,IL,Illinois US House 6,2026-11-03,85.9,2026-11-04T03:39:20.972Z,False,2,3,268992,2026-11-18T13:21+00:00
+87112,IL,Illinois US House 1,2026-11-03,91.8,2026-11-04T02:21:59.540Z,False,2,4,243777,2026-11-18T13:21+00:00
+87125,IL,Illinois US House 14,2026-11-03,92.2,2026-11-04T03:39:20.972Z,False,2,7,249238,2026-11-18T13:21+00:00
+87120,IL,Illinois US House 9,2026-11-03,99,2026-11-04T02:21:59.541Z,False,2,4,265706,2026-11-18T13:21+00:00
+87115,IL,Illinois US House 4,2026-11-03,86.5,2026-11-04T02:56:10.392Z,False,4,3,164261,2026-11-18T13:21+00:00
+87128,IL,Illinois US House 17,2026-11-03,91.4,2026-11-04T02:56:10.392Z,False,2,14,236245,2026-11-18T13:21+00:00
+87123,IL,Illinois US House 12,2026-11-03,90.2,2026-11-04T02:21:59.540Z,False,2,34,281974,2026-11-18T13:21+00:00

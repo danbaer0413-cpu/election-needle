@@ -1,0 +1,1894 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+87018,CO,Phil Weiser,Democratic,1639109,61.132,True,False
+87018,CO,Victor Marx,Republican,890472,33.211,False,False
+87018,CO,Greg Lopez,Independent,74134,2.765,False,False
+87018,CO,Eric Mulder,Libertarian,44643,1.665,False,False
+87018,CO,Stephen T. Hamilton,American Constitution,17340,0.647,False,False
+87018,CO,Erik Underwood,Approval Voting,9533,0.356,False,False
+87018,CO,Jeff Peckman,Unity,6013,0.224,False,False
+170011,CO,Yes,Nonpartisan,1373942,51.895,True,False
+170011,CO,No,Nonpartisan,1273598,48.105,False,False
+160405,CO,Yes,Nonpartisan,1369092,66.575,False,False
+160405,CO,No,Nonpartisan,687384,33.425,False,False
+170002,CO,No,Nonpartisan,1448258,54.86,True,False
+170002,CO,Yes,Nonpartisan,1191670,45.14,False,False
+170008,CO,Yes,Nonpartisan,1391309,52.639,True,False
+170008,CO,No,Nonpartisan,1251812,47.361,False,False
+160402,CO,Yes,Nonpartisan,1417153,68.509,False,False
+160402,CO,No,Nonpartisan,651409,31.491,False,False
+160401,CO,Yes,Nonpartisan,1390794,67.134,False,False
+160401,CO,No,Nonpartisan,680866,32.866,False,False
+170012,CO,No,Nonpartisan,1379192,52.841,True,False
+170012,CO,Yes,Nonpartisan,1230911,47.159,False,False
+170004,CO,Yes,Nonpartisan,1353204,51.149,False,False
+170004,CO,No,Nonpartisan,1292406,48.851,True,False
+170003,CO,No,Nonpartisan,1689979,63.385,True,False
+170003,CO,Yes,Nonpartisan,976240,36.615,False,False
+87019,CO,Jena Griswold,Democratic,1561616,59.033,True,False
+87019,CO,Michael J. Allen,Republican,1083731,40.967,False,False
+160403,CO,Yes,Nonpartisan,1396712,67.734,False,False
+160403,CO,No,Nonpartisan,665332,32.266,False,False
+159530,CO,Democratic,Democratic,879119,57.425,False,False
+159530,CO,Republican,Republican,640630,41.847,False,False
+159530,CO,Libertarian,Libertarian,6631,0.433,False,False
+159530,CO,Independent,Independent,4508,0.294,False,False
+159527,CO,Democratic,Democratic,1481447,59.389,False,False
+159527,CO,Republican,Republican,948079,38.007,False,False
+159527,CO,Libertarian,Libertarian,40322,1.616,False,False
+159527,CO,Center,Center,17835,0.715,False,False
+159527,CO,Independent,Independent,5456,0.219,False,False
+159527,CO,Forward,Forward,718,0.029,False,False
+159527,CO,Unity,Unity,616,0.025,False,False
+159527,CO,Write-In,Write-In,0,0.0,False,False
+170009,CO,Yes,Nonpartisan,1641770,62.13,True,False
+170009,CO,No,Nonpartisan,1000693,37.87,False,False
+170005,CO,No,Nonpartisan,1376879,53.123,True,False
+170005,CO,Yes,Nonpartisan,1214967,46.877,False,False
+160399,CO,Yes,Nonpartisan,1394528,65.881,False,False
+160399,CO,No,Nonpartisan,722198,34.119,False,False
+87020,CO,Amanda Gonzalez,Democratic,1600220,60.21,True,False
+87020,CO,James Wiley,Republican,975472,36.703,False,False
+87020,CO,Sean Vadney,Libertarian,42546,1.601,False,False
+87020,CO,Amanda Campbell,American Constitution,21683,0.816,False,False
+87020,CO,Celeste Landry,Forward,17802,0.67,False,False
+170013,CO,Yes,Nonpartisan,1366060,52.0,True,False
+170013,CO,No,Nonpartisan,1261003,48.0,False,False
+170001,CO,No,Nonpartisan,1416530,53.731,True,False
+170001,CO,Yes,Nonpartisan,1219827,46.269,False,False
+170000,CO,No,Nonpartisan,1473718,55.334,True,False
+170000,CO,Yes,Nonpartisan,1189572,44.666,False,False
+170010,CO,Yes,Nonpartisan,1379283,52.158,True,False
+170010,CO,No,Nonpartisan,1265157,47.842,False,False
+160404,CO,Yes,Nonpartisan,1387447,67.41,False,False
+160404,CO,No,Nonpartisan,670771,32.59,False,False
+160400,CO,Yes,Nonpartisan,1429856,68.708,False,False
+160400,CO,No,Nonpartisan,651208,31.292,False,False
+87021,CO,Jeff Bridges,Democratic,1553219,58.851,True,False
+87021,CO,Kevin Grantham,Republican,1016578,38.518,False,False
+87021,CO,Jodie Barr,Libertarian,59183,2.242,False,False
+87021,CO,Marilee Langner Sturgis,Approval Voting,10255,0.389,False,False
+170007,CO,Yes,Nonpartisan,1514360,57.069,True,False
+170007,CO,No,Nonpartisan,1139213,42.931,False,False
+170006,CO,Yes,Nonpartisan,1372796,51.72,True,False
+170006,CO,No,Nonpartisan,1281498,48.28,False,False
+170398,CO,Darren M. Weekly,Republican,132961,100.0,False,False
+170312,CO,Carrie Wise,Nonpartisan,1382,9.474,False,False
+170312,CO,Kathy M. Koehler,Nonpartisan,1259,8.631,False,False
+170312,CO,Ari Adler,Nonpartisan,1014,6.951,False,False
+170312,CO,Patrick Mayne,Nonpartisan,931,6.382,False,False
+170312,CO,Alison Steele,Nonpartisan,925,6.341,False,False
+170312,CO,Rodney Archer,Nonpartisan,925,6.341,False,False
+170312,CO,Sean Donovan,Nonpartisan,917,6.286,False,False
+170312,CO,Michael DeLalla,Nonpartisan,908,6.225,False,False
+170312,CO,Mary Plese,Nonpartisan,902,6.184,False,False
+170312,CO,Jim Thomas,Nonpartisan,859,5.889,False,False
+170312,CO,Bruce Warren,Nonpartisan,759,5.203,False,False
+170312,CO,Scott Firle,Nonpartisan,563,3.86,False,False
+170312,CO,Tony Santelli,Nonpartisan,544,3.729,False,False
+170312,CO,Nick Little,Nonpartisan,469,3.215,False,False
+170312,CO,Jim Parys,Nonpartisan,443,3.037,False,False
+170312,CO,Orin Hargraves,Nonpartisan,440,3.016,False,False
+170312,CO,Jack Trope,Nonpartisan,438,3.003,False,False
+170312,CO,D. Scott Tennant,Nonpartisan,212,1.453,False,False
+170312,CO,Richard England,Nonpartisan,135,0.925,False,False
+170312,CO,Colleen Donovan,Nonpartisan,102,0.699,False,False
+170312,CO,Cheryl Hodges,Nonpartisan,76,0.521,False,False
+170312,CO,Sue Ellen Peck,Nonpartisan,74,0.507,False,False
+170312,CO,Charles Hodges,Nonpartisan,63,0.432,False,False
+170312,CO,Rita Neis,Nonpartisan,61,0.418,False,False
+170312,CO,Cody Barela,Nonpartisan,61,0.418,False,False
+170312,CO,David Costa,Nonpartisan,50,0.343,False,False
+170312,CO,Jason Seely,Nonpartisan,50,0.343,False,False
+170312,CO,Karl Neis,Nonpartisan,25,0.171,False,False
+170425,CO,Rhonda Braun,Republican,12950,100.0,False,False
+170723,CO,Jaime FitzSimons,Democratic,9225,100.0,False,False
+170502,CO,Adrienne Yates,Republican,579,100.0,False,False
+170423,CO,Yes,Nonpartisan,205404,74.538,False,False
+170423,CO,No,Nonpartisan,70165,25.462,False,False
+170529,CO,No,Nonpartisan,31,53.448,False,False
+170529,CO,Yes,Nonpartisan,27,46.552,False,False
+160359,CO,Kenny Van Nguyen,Democratic,32052,65.812,True,False
+160359,CO,Nate Jorgensen,Republican,16650,34.188,False,False
+170140,CO,Yes,Nonpartisan,5397,65.189,False,False
+170140,CO,No,Nonpartisan,2882,34.811,False,False
+160357,CO,Gabriel Cervantes,Democratic,18558,67.572,True,False
+160357,CO,Ray Roll,Republican,8906,32.428,False,False
+160463,CO,Yes,Nonpartisan,39044,65.015,False,False
+160463,CO,No,Nonpartisan,21010,34.985,False,False
+170251,CO,Joelina Espinoza,Nonpartisan,235,100.0,False,False
+170357,CO,Pamela Vigil,Democratic,1204,68.839,False,False
+170357,CO,Gary Myco,Republican,545,31.161,False,False
+170249,CO,Chris Franzen,Nonpartisan,439,68.487,False,False
+170249,CO,Ashley Sidell,Nonpartisan,141,21.997,False,False
+170249,CO,Richard L. Childs,Nonpartisan,61,9.516,False,False
+170163,CO,No,Nonpartisan,128,52.459,False,False
+170163,CO,Yes,Nonpartisan,116,47.541,False,False
+160377,CO,Jacki Marsh,Democratic,24425,51.415,True,False
+160377,CO,Amy Parks,Republican,23081,48.585,False,False
+170574,CO,Jimmy K Adelman,Democratic,414,66.134,False,False
+170574,CO,Ashley Twite,Unaffiliated,212,33.866,False,False
+170687,CO,Gary Peterson,Unaffiliated,8830,100.0,False,False
+170466,CO,Laura Puckett Daniels,Democratic,6406,100.0,False,False
+170572,CO,Hendrik Shullts,Republican,505,100.0,False,False
+170077,CO,Yes,Nonpartisan,176,63.768,False,False
+170077,CO,No,Nonpartisan,100,36.232,False,False
+160508,CO,Yes,Nonpartisan,88210,70.091,False,False
+160508,CO,No,Nonpartisan,37640,29.909,False,False
+160422,CO,Yes,Nonpartisan,5139,60.26,False,False
+160422,CO,No,Nonpartisan,3389,39.74,False,False
+170683,CO,Stephen Hunzeker,Republican,3634,100.0,False,False
+160506,CO,Yes,Nonpartisan,140301,66.91,False,False
+160506,CO,No,Nonpartisan,69384,33.09,False,False
+160420,CO,Yes,Nonpartisan,139838,79.416,False,False
+160420,CO,No,Nonpartisan,36245,20.584,False,False
+170400,CO,Raeann Brown,Republican,132184,100.0,False,False
+170314,CO,No,Nonpartisan,1765,73.942,False,False
+170314,CO,Yes,Nonpartisan,622,26.058,False,False
+170093,CO,Laura Cavey,Nonpartisan,17758,50.585,False,False
+170093,CO,Amelia Thomas,Nonpartisan,10145,28.899,False,False
+170093,CO,Stu Butler,Nonpartisan,7202,20.516,False,False
+160388,CO,Matthew Martinez,Democratic,18997,58.691,True,False
+160388,CO,Steven Rodriguez,Republican,12542,38.748,False,False
+160388,CO,Donald Vermillion,Libertarian,829,2.561,False,False
+160494,CO,Yes,Nonpartisan,146184,65.526,False,False
+160494,CO,No,Nonpartisan,76908,34.474,False,False
+170282,CO,Johanna Tully-Elliott,Republican,4476,100.0,False,False
+170055,CO,Yes,Nonpartisan,9801,70.45,False,False
+170055,CO,No,Nonpartisan,4111,29.55,False,False
+160492,CO,Yes,Nonpartisan,13568,78.256,False,False
+160492,CO,No,Nonpartisan,3770,21.744,False,False
+170280,CO,Kristy Archuleta,Republican,4850,100.0,False,False
+170194,CO,Katharine Gill,Nonpartisan,156,88.636,False,False
+170194,CO,Jerome Neri,Nonpartisan,20,11.364,False,False
+170492,CO,George E Crocket,Republican,523,100.0,False,False
+170470,CO,Adam Murdie,Unaffiliated,5860,100.0,False,False
+170192,CO,Yes,Nonpartisan,92,56.098,False,False
+170192,CO,No,Nonpartisan,72,43.902,False,False
+170298,CO,Jason E Nichols,Republican,1176,100.0,False,False
+170603,CO,Shaye Schottel,Republican,14236,100.0,False,False
+170709,CO,Lane Keith Masters,Democratic,2135,54.381,False,False
+170709,CO,Dan Covault,Unaffiliated,1791,45.619,False,False
+170601,CO,Gene R Lillard,Republican,14676,100.0,False,False
+170515,CO,Elizabeth Philbrick,Democratic,20107,100.0,False,False
+170212,CO,Yes,Nonpartisan,1018,50.446,False,False
+170212,CO,No,Nonpartisan,1000,49.554,False,False
+170126,CO,Alicia Johnson,Nonpartisan,3811,70.639,False,False
+170126,CO,Tammy Lee Pletka,Nonpartisan,1584,29.361,False,False
+170239,CO,Yes,Nonpartisan,395,60.676,False,False
+170239,CO,No,Nonpartisan,256,39.324,False,False
+160343,CO,Regina English,Democratic,13885,64.895,True,False
+160343,CO,Laura Martin,Republican,6872,32.118,False,False
+160343,CO,John Michael Angle,Libertarian,639,2.987,False,False
+160343,CO,Sherrea Sterling,Write-In,0,0.0,False,False
+170124,CO,Consuelo G. Lopez,Nonpartisan,948,100.0,False,False
+170429,CO,Karl Szyszkoski,Republican,13046,100.0,False,False
+170535,CO,Tom Donnelly,Republican,97277,100.0,False,False
+170456,CO,Randy George,Republican,4285,51.658,False,False
+170456,CO,Jeremy Krones,Unaffiliated,4010,48.342,False,False
+170235,CO,Yes,Nonpartisan,68,61.818,False,False
+170235,CO,No,Nonpartisan,42,38.182,False,False
+170533,CO,Bob Overbeck,Democratic,99598,61.163,False,False
+170533,CO,Patrick Edwards,Republican,59306,36.42,False,False
+170533,CO,Sam Bradley,Forward,3936,2.417,False,False
+170454,CO,Kathy Walker,Nonpartisan,143,28.094,False,False
+170454,CO,Eric Langan,Nonpartisan,119,23.379,False,False
+170454,CO,Marcia Enloe,Nonpartisan,108,21.218,False,False
+170454,CO,Michele Roussel,Nonpartisan,76,14.931,False,False
+170454,CO,Denny Denson,Nonpartisan,63,12.377,False,False
+170752,CO,Chrystal Hammond,Republican,3197,100.0,False,False
+160390,CO,Scott L. Slaugh,Republican,26168,55.031,True,False
+160390,CO,Maureen (Mo) Dower,Democratic,21383,44.969,False,False
+170644,CO,Yes,Nonpartisan,365,85.48,False,False
+170644,CO,No,Nonpartisan,62,14.52,False,False
+170750,CO,Cliff Leonhardt,Republican,2849,100.0,False,False
+170329,CO,Andy Rohrich,Unaffiliated,8657,100.0,False,False
+170634,CO,Steve Spodyak,Republican,5614,60.528,False,False
+170634,CO,Mark Noel,Democratic,3661,39.472,False,False
+170413,CO,Ryan Graham,Republican,39511,58.809,False,False
+170413,CO,Gavin Rainey,Democratic,26325,39.183,False,False
+170413,CO,Matt Grubesic,Nonpartisan,1349,2.008,False,False
+170327,CO,Jolene Ellis,Democratic,8593,100.0,False,False
+170632,CO,Amy Flint,Republican,5530,59.546,False,False
+170632,CO,Jim Stockbridge,Democratic,3757,40.454,False,False
+170738,CO,Dallas Bowin,Republican,1991,100.0,False,False
+170045,CO,Yes,Nonpartisan,1060,66.167,False,False
+170045,CO,No,Nonpartisan,542,33.833,False,False
+160347,CO,Michelle Tweed,Democratic,12113,51.131,False,False
+160347,CO,Brenda Miller,Republican,11577,48.869,False,False
+170736,CO,Hali Thompson,Republican,1918,100.0,False,False
+160374,CO,Carlos Barron,Republican,19672,53.367,True,False
+160374,CO,Dez Packard,Democratic,16154,43.823,False,False
+160374,CO,Eric E. Joss,Libertarian,1036,2.81,False,False
+170155,CO,Yes,Nonpartisan,375,50.471,False,False
+170155,CO,No,Nonpartisan,368,49.529,False,False
+170460,CO,Brett D. Schroetlin,Republican,5702,100.0,False,False
+170153,CO,Joe Hammock,Nonpartisan,212,41.569,False,False
+170153,CO,Sarah Jeanne Stadler,Nonpartisan,150,29.412,False,False
+170153,CO,Candace Nolf,Nonpartisan,148,29.02,False,False
+170266,CO,Robert Jackson,Democratic,4408,100.0,False,False
+170564,CO,Brent Goff,Republican,51411,100.0,False,False
+170677,CO,No,Nonpartisan,2239,78.041,False,False
+170677,CO,Yes,Nonpartisan,630,21.959,False,False
+160308,CO,Teddy Collins,Republican,52272,56.095,True,False
+160308,CO,Justin Kurth,Democratic,40913,43.905,False,False
+170370,CO,J.D. Henrich,Republican,2312,100.0,False,False
+170483,CO,Bruce Newman,Democratic,1919,52.778,False,False
+170483,CO,Jim Chamberlain,Republican,1717,47.222,False,False
+160498,CO,Yes,Nonpartisan,14931,76.132,False,False
+160498,CO,No,Nonpartisan,4681,23.868,False,False
+160412,CO,Yes,Nonpartisan,142035,67.589,False,False
+160412,CO,No,Nonpartisan,68110,32.411,False,False
+160333,CO,Jennifer Bacon,Democratic,22807,86.897,True,False
+160333,CO,Jeff Wilson,Libertarian,3439,13.103,False,False
+160304,CO,Ilana Spiegel,Democratic,144809,62.807,False,False
+160304,CO,Veanessa Burbage,Republican,76435,33.152,False,False
+160304,CO,Joe Johnson,Libertarian,9317,4.041,False,False
+160410,CO,Yes,Nonpartisan,137751,65.539,False,False
+160410,CO,No,Nonpartisan,72432,34.461,False,False
+160331,CO,Justine Sandoval,Democratic,31851,88.662,True,False
+160331,CO,Johnnie W. Johnson,Republican,4073,11.338,False,False
+170112,CO,Yes,Nonpartisan,1566,59.296,False,False
+170112,CO,No,Nonpartisan,1075,40.704,False,False
+170225,CO,No,Nonpartisan,691,56.686,False,False
+170225,CO,Yes,Nonpartisan,528,43.314,False,False
+160521,CO,Yes,Nonpartisan,70785,64.385,False,False
+160521,CO,No,Nonpartisan,39156,35.615,False,False
+170110,CO,No,Nonpartisan,559,51.144,False,False
+170110,CO,Yes,Nonpartisan,534,48.856,False,False
+170223,CO,No,Nonpartisan,78,73.585,False,False
+170223,CO,Yes,Nonpartisan,28,26.415,False,False
+160511,CO,Yes,Nonpartisan,42357,69.536,False,False
+160511,CO,No,Nonpartisan,18557,30.464,False,False
+160482,CO,Yes,Nonpartisan,1742,67.967,False,False
+160482,CO,No,Nonpartisan,821,32.033,False,False
+170078,CO,No,Nonpartisan,34263,50.707,False,False
+170078,CO,Yes,Nonpartisan,33307,49.293,False,False
+160509,CO,Yes,Nonpartisan,87958,70.031,False,False
+160509,CO,No,Nonpartisan,37640,29.969,False,False
+170098,CO,Susan Maguire,Nonpartisan,1758,68.087,False,False
+170098,CO,Doug Tisdale,Nonpartisan,584,22.618,False,False
+170098,CO,Jennifer A. Miller,Nonpartisan,240,9.295,False,False
+170595,CO,No,Nonpartisan,4603,59.187,False,False
+170595,CO,Yes,Nonpartisan,3174,40.813,False,False
+170182,CO,No,Nonpartisan,45908,63.578,False,False
+170182,CO,Yes,Nonpartisan,26299,36.422,False,False
+170096,CO,Chuck Spencer,Nonpartisan,226,100.0,False,False
+170401,CO,Brandi Wilks,Nonpartisan,13152,21.477,False,False
+170401,CO,Anne Barrington,Nonpartisan,13077,21.354,False,False
+170401,CO,Erik Frandsen,Nonpartisan,12454,20.337,False,False
+170401,CO,Kristin Williams,Nonpartisan,12050,19.677,False,False
+170401,CO,Johnnie Turnidge,Nonpartisan,10506,17.156,False,False
+170507,CO,Yes,Nonpartisan,379,54.066,False,False
+170507,CO,No,Nonpartisan,322,45.934,False,False
+160337,CO,Karen McCormick,Democratic,31911,100.0,True,False
+170505,CO,Bryan Williams,Republican,508,100.0,False,False
+170618,CO,Shawna Frankmore,Republican,5323,100.0,False,False
+170116,CO,Yes,Nonpartisan,90,70.312,False,False
+170116,CO,No,Nonpartisan,38,29.688,False,False
+170031,CO,No,Nonpartisan,7527,67.446,False,False
+170031,CO,Yes,Nonpartisan,3633,32.554,False,False
+170143,CO,Yes,Nonpartisan,2091,65.651,False,False
+170143,CO,No,Nonpartisan,1094,34.349,False,False
+170722,CO,Lisa M. Eurich,Democratic,9874,100.0,False,False
+160360,CO,Jenny Willford,Democratic,22876,61.587,True,False
+160360,CO,Craig Sullivan,Republican,14268,38.413,False,False
+170333,CO,Yes,Nonpartisan,1375,89.344,False,False
+170333,CO,No,Nonpartisan,164,10.656,False,False
+170446,CO,Robert Glassmire,Republican,14788,100.0,False,False
+170360,CO,No,Nonpartisan,900,52.144,False,False
+170360,CO,Yes,Nonpartisan,826,47.856,False,False
+170139,CO,Yes,Nonpartisan,139,54.724,False,False
+170139,CO,No,Nonpartisan,115,45.276,False,False
+170444,CO,Brent Baker,Republican,14216,100.0,False,False
+170550,CO,Jeremiah Higgins,Republican,1486,100.0,False,False
+160380,CO,Jason Bias,Republican,28386,66.226,True,False
+160380,CO,Mallory Martin,Democratic,14476,33.774,False,False
+170577,CO,Steve Maneotis,Republican,3987,100.0,False,False
+170548,CO,Corinne M. Lengel,Republican,1582,100.0,False,False
+160378,CO,Yara Zokaie,Democratic,31282,70.638,True,False
+160378,CO,Steve Yurash,Center,13003,29.362,False,False
+170575,CO,No,Nonpartisan,156,75.362,False,False
+170575,CO,Yes,Nonpartisan,51,24.638,False,False
+170080,CO,No,Nonpartisan,18,52.941,False,False
+170080,CO,Yes,Nonpartisan,16,47.059,False,False
+170317,CO,No,Nonpartisan,1689,70.699,False,False
+170317,CO,Yes,Nonpartisan,700,29.301,False,False
+170430,CO,Todd Pederson,Republican,12435,77.661,False,False
+170430,CO,Edmond Charles Hauser,Democratic,3577,22.339,False,False
+170536,CO,Stephen Hanks,Democratic,118557,100.0,False,False
+170649,CO,Deborah J Bamesberger,Nonpartisan,6526,100.0,False,False
+160472,CO,Yes,Nonpartisan,89280,68.167,False,False
+160472,CO,No,Nonpartisan,41692,31.833,False,False
+170726,CO,Yes,Nonpartisan,10726,75.17,False,False
+170726,CO,No,Nonpartisan,3543,24.83,False,False
+170647,CO,Ted Mahon,Democratic,5234,64.134,False,False
+170647,CO,Emily Kolbe,Nonpartisan,2927,35.866,False,False
+170753,CO,Kaci Scholes,Republican,3124,100.0,False,False
+170060,CO,Yes,Nonpartisan,1546,60.556,False,False
+170060,CO,No,Nonpartisan,1007,39.444,False,False
+170364,CO,Douglas K England,Republican,1106,100.0,False,False
+170058,CO,No,Nonpartisan,7216,57.507,False,False
+170058,CO,Yes,Nonpartisan,5332,42.493,False,False
+170170,CO,Holly Bruce,Nonpartisan,358,20.778,False,False
+170170,CO,Tyler Workman,Nonpartisan,349,20.255,False,False
+170170,CO,Jason Graber,Nonpartisan,298,17.295,False,False
+170170,CO,Paula S. Cochran,Nonpartisan,261,15.148,False,False
+170170,CO,Timothy Moore,Nonpartisan,236,13.697,False,False
+170170,CO,Kelly Dudal,Nonpartisan,221,12.826,False,False
+170475,CO,Joan Roberts,Republican,380,100.0,False,False
+170389,CO,Shilo Schultz,Unaffiliated,964,100.0,False,False
+170495,CO,Eric Proctor,Democratic,171954,68.1,False,False
+170495,CO,Murl Hendrickson,Libertarian,80548,31.9,False,False
+170473,CO,Yes,Nonpartisan,4745,52.029,False,False
+170473,CO,No,Nonpartisan,4375,47.971,False,False
+170195,CO,No,Nonpartisan,147,62.025,False,False
+170195,CO,Yes,Nonpartisan,90,37.975,False,False
+170084,CO,No,Nonpartisan,19157,55.812,False,False
+170084,CO,Yes,Nonpartisan,15167,44.188,False,False
+160323,CO,Matt Ball,Democratic,69511,100.0,True,False
+170712,CO,Ben Holt,Unaffiliated,497,52.593,False,False
+170712,CO,Randy R Renquist,Republican,448,47.407,False,False
+170690,CO,Mitch Locke,Unaffiliated,8918,100.0,False,False
+160321,CO,Iman M. Jodeh,Democratic,37659,71.467,True,False
+160321,CO,Robert McKenna,Republican,15035,28.533,False,False
+160427,CO,Yes,Nonpartisan,150038,64.045,False,False
+160427,CO,No,Nonpartisan,84232,35.955,False,False
+170215,CO,Yes,Nonpartisan,118,59.0,False,False
+170215,CO,No,Nonpartisan,82,41.0,False,False
+170129,CO,No,Nonpartisan,1329,56.433,False,False
+170129,CO,Yes,Nonpartisan,1026,43.567,False,False
+160425,CO,Yes,Nonpartisan,145370,62.173,False,False
+160425,CO,No,Nonpartisan,88447,37.827,False,False
+170213,CO,Larry R. VanWhy,Nonpartisan,275,67.237,False,False
+170213,CO,Charlie Dehn,Nonpartisan,134,32.763,False,False
+170127,CO,Scott Nahman,Nonpartisan,3746,55.161,False,False
+170127,CO,Scott Franks,Nonpartisan,3045,44.839,False,False
+170432,CO,Justin D Grantham,Republican,14861,100.0,False,False
+170538,CO,Yes,Nonpartisan,28,63.636,False,False
+170538,CO,No,Nonpartisan,16,36.364,False,False
+160499,CO,Yes,Nonpartisan,1718,67.611,False,False
+160499,CO,No,Nonpartisan,823,32.389,False,False
+160413,CO,Yes,Nonpartisan,137037,77.241,False,False
+160413,CO,No,Nonpartisan,40377,22.759,False,False
+170201,CO,Yes,Nonpartisan,639,83.203,False,False
+170201,CO,No,Nonpartisan,129,16.797,False,False
+170307,CO,Yes,Nonpartisan,77272,58.261,False,False
+170307,CO,No,Nonpartisan,55358,41.739,False,False
+170285,CO,Brad Hunt,Republican,4488,100.0,False,False
+170199,CO,Yes,Nonpartisan,662,83.692,False,False
+170199,CO,No,Nonpartisan,129,16.308,False,False
+170113,CO,No,Nonpartisan,1350,52.632,False,False
+170113,CO,Yes,Nonpartisan,1215,47.368,False,False
+170418,CO,Joe Roybal,Republican,151327,54.897,False,False
+170418,CO,Mateo Montoya-Collis,Democratic,124330,45.103,False,False
+170716,CO,Koby Quayle,Republican,641,100.0,False,False
+170416,CO,Chuck Broerman,Republican,192965,100.0,False,False
+170522,CO,Nathan A Dye,Democratic,1735,52.496,False,False
+170522,CO,Matthew Main,Republican,1184,35.825,False,False
+170522,CO,Andrew Lee,Unaffiliated,386,11.679,False,False
+160352,CO,Meghan Lukens,Democratic,23883,58.867,True,False
+160352,CO,James Kellogg,Republican,16688,41.133,False,False
+160458,CO,Yes,Nonpartisan,68097,62.241,False,False
+160458,CO,No,Nonpartisan,41311,37.759,False,False
+160350,CO,Lisa Feret,Democratic,30321,63.896,True,False
+160350,CO,Kristopher Johnson,Republican,17133,36.104,False,False
+170739,CO,Steve Reams,Republican,77108,57.537,False,False
+170739,CO,Stacey Graham,Unaffiliated,56906,42.463,False,False
+170436,CO,Miles Small,Nonpartisan,182,100.0,False,False
+170350,CO,Naomi Martinez-Keys,Democratic,2610,100.0,False,False
+170463,CO,Rosemary Opatril,Nonpartisan,205,30.059,False,False
+170463,CO,James Johnson,Nonpartisan,165,24.194,False,False
+170463,CO,Eric Groswold,Nonpartisan,162,23.754,False,False
+170463,CO,Chris Cherry,Nonpartisan,150,21.994,False,False
+170044,CO,No,Nonpartisan,3086,52.572,False,False
+170044,CO,Yes,Nonpartisan,2784,47.428,False,False
+170348,CO,Nathan Ruybal,Democratic,2584,100.0,False,False
+170653,CO,Yes,Nonpartisan,1037,73.913,False,False
+170653,CO,No,Nonpartisan,366,26.087,False,False
+170567,CO,Dean Havlik,Republican,52639,100.0,False,False
+170680,CO,Caricia Johnston,Unaffiliated,3283,100.0,False,False
+170459,CO,Christine Murphy,Republican,5405,100.0,False,False
+170565,CO,Ross Young,Republican,51720,100.0,False,False
+170678,CO,Tyler Ratzlaff,Republican,3526,100.0,False,False
+160501,CO,Yes,Nonpartisan,358,87.961,False,False
+160501,CO,No,Nonpartisan,49,12.039,False,False
+160415,CO,Yes,Nonpartisan,137082,77.63,False,False
+160415,CO,No,Nonpartisan,39502,22.37,False,False
+160393,CO,Joe Meyer,Nonpartisan,46441,100.0,False,False
+170447,CO,Susan Berumen,Democratic,1824,54.334,False,False
+170447,CO,Brady S. Fowler,Republican,1533,45.666,False,False
+170553,CO,No,Nonpartisan,1070,56.764,False,False
+170553,CO,Yes,Nonpartisan,815,43.236,False,False
+160383,CO,Elizabeth Velasco,Democratic,23365,61.737,True,False
+160383,CO,Russ Andrews,Republican,14481,38.263,False,False
+170637,CO,Terry L. Hofmeister,Republican,1370,74.215,False,False
+170637,CO,Kelley Ann Sullivan,Unaffiliated,476,25.785,False,False
+170551,CO,Michael L. Yowell,Republican,1642,100.0,False,False
+160381,CO,Rick Taggart,Republican,24474,58.939,True,False
+160381,CO,Brittni Packard,Democratic,17050,41.061,False,False
+160487,CO,Yes,Nonpartisan,142258,80.816,False,False
+160487,CO,No,Nonpartisan,33770,19.184,False,False
+170275,CO,Casey Bitting,Democratic,156875,100.0,False,False
+170048,CO,Yes,Nonpartisan,319,76.867,False,False
+170048,CO,No,Nonpartisan,96,23.133,False,False
+160485,CO,Yes,Nonpartisan,140252,79.671,False,False
+160485,CO,No,Nonpartisan,35788,20.329,False,False
+170081,CO,Jennie Fancher,Nonpartisan,852,19.627,False,False
+170081,CO,Ruth Stanley,Nonpartisan,770,17.738,False,False
+170081,CO,Rich Carroll,Nonpartisan,697,16.056,False,False
+170081,CO,Alan Sandberg,Nonpartisan,573,13.2,False,False
+170081,CO,Justin Chesney,Nonpartisan,552,12.716,False,False
+170081,CO,Frederick Sudekum,Nonpartisan,507,11.679,False,False
+170081,CO,Gregg M. Cooper,Nonpartisan,390,8.984,False,False
+170187,CO,No,Nonpartisan,4980,51.983,False,False
+170187,CO,Yes,Nonpartisan,4600,48.017,False,False
+170293,CO,C J Gallegos,Republican,1168,100.0,False,False
+170185,CO,Yes,Nonpartisan,6078,63.135,False,False
+170185,CO,No,Nonpartisan,3549,36.865,False,False
+170099,CO,Yes,Nonpartisan,4466,64.51,False,False
+170099,CO,No,Nonpartisan,2457,35.49,False,False
+160313,CO,Janice Marchman,Democratic,51682,57.141,True,False
+160313,CO,Rob Woodward,Republican,38765,42.859,False,False
+170702,CO,Adam Clifton,Unaffiliated,348,60.0,False,False
+170702,CO,Steve Lowrance,Republican,232,40.0,False,False
+160340,CO,Ava Flanell,Republican,27326,53.32,True,False
+160340,CO,Sarah Emery,Democratic,23923,46.68,False,False
+170594,CO,No,Nonpartisan,7639,73.579,False,False
+170594,CO,Yes,Nonpartisan,2743,26.421,False,False
+170700,CO,Deanna M Jaramillo,Unaffiliated,390,68.063,False,False
+170700,CO,Charles Alex Lanis,Unaffiliated,183,31.937,False,False
+170205,CO,Erika Pastor,Nonpartisan,148,45.399,False,False
+170205,CO,Bernard Gagne Jr.,Nonpartisan,127,38.957,False,False
+170205,CO,Zach Steinbaugh,Nonpartisan,51,15.644,False,False
+170119,CO,Bob Braudes,Nonpartisan,3081,57.003,False,False
+170119,CO,Andrew Sawusch,Nonpartisan,2324,42.997,False,False
+170034,CO,Yes,Nonpartisan,283,60.6,False,False
+170034,CO,No,Nonpartisan,184,39.4,False,False
+160336,CO,Junie Joseph,Democratic,28937,100.0,True,False
+170117,CO,Tracy J. Hutchins,Nonpartisan,621,19.298,False,False
+170117,CO,Ryan McKenna,Nonpartisan,591,18.365,False,False
+170117,CO,Paul Schwarzkopf,Nonpartisan,525,16.314,False,False
+170117,CO,Ramon Anthony Atencio,Nonpartisan,515,16.004,False,False
+170117,CO,Paula B. Ray,Nonpartisan,509,15.817,False,False
+170117,CO,Deborah Kula,Nonpartisan,457,14.201,False,False
+170032,CO,Yes,Nonpartisan,3324,50.678,False,False
+170032,CO,No,Nonpartisan,3235,49.322,False,False
+170336,CO,Gaila Mitchek,Republican,776,100.0,False,False
+170449,CO,Mary Lorenz,Unaffiliated,2138,65.442,False,False
+170449,CO,Brenda Diehl,Republican,1129,34.558,False,False
+170228,CO,Yes,Nonpartisan,1031,70.957,False,False
+170228,CO,No,Nonpartisan,422,29.043,False,False
+170334,CO,Ronald R Smith,Republican,610,73.406,False,False
+170334,CO,Zachary J Anderson,Unaffiliated,221,26.594,False,False
+160430,CO,Yes,Nonpartisan,27012,64.516,False,False
+160430,CO,No,Nonpartisan,14857,35.484,False,False
+170218,CO,Yes,Nonpartisan,22774,60.763,False,False
+170218,CO,No,Nonpartisan,14706,39.237,False,False
+160514,CO,Yes,Nonpartisan,4670,73.083,False,False
+160514,CO,No,Nonpartisan,1720,26.917,False,False
+160428,CO,Yes,Nonpartisan,148665,63.619,False,False
+160428,CO,No,Nonpartisan,85016,36.381,False,False
+170216,CO,Yes,Nonpartisan,69,55.2,False,False
+170216,CO,No,Nonpartisan,56,44.8,False,False
+170322,CO,Yes,Nonpartisan,19445,50.68,False,False
+170322,CO,No,Nonpartisan,18923,49.32,False,False
+170627,CO,Tim Pasek,Unaffiliated,2252,100.0,False,False
+170406,CO,Yes,Nonpartisan,136123,72.852,False,False
+170406,CO,No,Nonpartisan,50725,27.148,False,False
+170320,CO,Yes,Nonpartisan,30,90.909,False,False
+170320,CO,No,Nonpartisan,3,9.091,False,False
+170433,CO,Kathy Elliott,Republican,14559,100.0,False,False
+170731,CO,Kevin Tedesco,Republican,9821,100.0,False,False
+170038,CO,Yes,Nonpartisan,927,75.182,False,False
+170038,CO,No,Nonpartisan,306,24.818,False,False
+170729,CO,Krystal Brown,Republican,10019,100.0,False,False
+160367,CO,Jamie Jackson,Democratic,22272,100.0,True,False
+170340,CO,Chris Gould,Democratic,3193,68.549,False,False
+170340,CO,Christopher Hardman,Libertarian,1465,31.451,False,False
+170261,CO,Yes,Nonpartisan,13580,70.134,False,False
+170261,CO,No,Nonpartisan,5783,29.866,False,False
+170367,CO,Taylor LoPresti,Republican,2039,100.0,False,False
+160471,CO,Yes,Nonpartisan,90329,68.869,False,False
+160471,CO,No,Nonpartisan,40831,31.131,False,False
+170061,CO,Yes,Nonpartisan,1755,55.52,False,False
+170061,CO,No,Nonpartisan,1406,44.48,False,False
+170557,CO,Peggy Michaels,Republican,6373,100.0,False,False
+170670,CO,Stacey Gould,Nonpartisan,1126,79.972,False,False
+170670,CO,Jennifer Griffin,Nonpartisan,263,18.679,False,False
+170670,CO,Robert Martin,Nonpartisan,19,1.349,False,False
+170584,CO,No,Nonpartisan,2492,51.809,False,False
+170584,CO,Yes,Nonpartisan,2318,48.191,False,False
+170363,CO,Holly McCuistion,Republican,1076,100.0,False,False
+170668,CO,Shawn Luce,Republican,2488,100.0,False,False
+170582,CO,Michael Fraher,Republican,3939,100.0,False,False
+170087,CO,No,Nonpartisan,11,52.381,False,False
+170087,CO,Yes,Nonpartisan,10,47.619,False,False
+160326,CO,Rod Pelton,Republican,56974,92.772,True,False
+160326,CO,Travis Star Nelson,Independent,2499,4.069,False,False
+160326,CO,Richard Graf,Libertarian,1940,3.159,False,False
+160326,CO,Duane L Gurule,Democratic,0,0.0,False,False
+170580,CO,Camie Herod,Republican,3892,100.0,False,False
+170085,CO,Yes,Nonpartisan,27364,82.571,False,False
+170085,CO,No,Nonpartisan,5776,17.429,False,False
+160324,CO,Emily Sirota,Democratic,49927,80.124,True,False
+160324,CO,Sydnnia Wulff,Republican,12385,19.876,False,False
+170570,CO,Eryn K Wintz,Republican,531,100.0,False,False
+170541,CO,Brad Doherty,Republican,3373,52.384,False,False
+170541,CO,Jim D. Montoya,Democratic,3066,47.616,False,False
+170654,CO,Ron Cook,Republican,2930,100.0,False,False
+170568,CO,No,Nonpartisan,17444,55.773,False,False
+170568,CO,Yes,Nonpartisan,13833,44.227,False,False
+160398,CO,Jack Rosenthal,Nonpartisan,35403,56.211,False,False
+160398,CO,Audrey DeBarros,Nonpartisan,27579,43.789,False,False
+170179,CO,Yes,Nonpartisan,1506,59.738,False,False
+170179,CO,No,Nonpartisan,1015,40.262,False,False
+160475,CO,Yes,Nonpartisan,111461,67.218,False,False
+160475,CO,No,Nonpartisan,54358,32.782,False,False
+160396,CO,Ian Harwick,Nonpartisan,51499,100.0,False,False
+160502,CO,Yes,Nonpartisan,2249,68.714,False,False
+160502,CO,No,Nonpartisan,1024,31.286,False,False
+170290,CO,Crista D. Figgins,Republican,1329,100.0,False,False
+170588,CO,Jerri Frizzell,Republican,7274,100.0,False,False
+170288,CO,Sharon Dubois,Democratic,1184,100.0,False,False
+170394,CO,Jake Bockenfeld,Republican,98586,51.059,False,False
+170394,CO,Irene Bonham,Democratic,94496,48.941,False,False
+170692,CO,Liza Marron,Democratic,1594,58.431,False,False
+170692,CO,Jeff Phillips,Republican,1134,41.569,False,False
+170613,CO,Nicole F. Hay,Unaffiliated,7709,100.0,False,False
+170719,CO,Eric Mamula,Democratic,10171,72.022,False,False
+170719,CO,Lori Cutunilli,Republican,3951,27.978,False,False
+170306,CO,Tina Marquis,Nonpartisan,18571,13.173,False,False
+170306,CO,Jill Adler Grano,Nonpartisan,18256,12.949,False,False
+170306,CO,Ryan Schuchard,Nonpartisan,17179,12.186,False,False
+170306,CO,Tara Winer,Nonpartisan,14733,10.45,False,False
+170306,CO,Sam Fuqua,Nonpartisan,13827,9.808,False,False
+170306,CO,Jamillah Richmond,Nonpartisan,11400,8.086,False,False
+170306,CO,Ryan Jamieson,Nonpartisan,11284,8.004,False,False
+170306,CO,Rachel Rose Isaacson,Nonpartisan,9600,6.81,False,False
+170306,CO,Benita Duran,Nonpartisan,8384,5.947,False,False
+170306,CO,Dave Martus,Nonpartisan,7760,5.504,False,False
+170306,CO,Scott Rendleman,Nonpartisan,5307,3.764,False,False
+170306,CO,Lee Gilbert,Nonpartisan,2548,1.807,False,False
+170306,CO,Lynn Segal,Nonpartisan,2130,1.511,False,False
+170419,CO,Emily Russell-Kinsley,Republican,201822,100.0,False,False
+160434,CO,Yes,Nonpartisan,31904,54.729,False,False
+160434,CO,No,Nonpartisan,26391,45.271,False,False
+170024,CO,Yes,Nonpartisan,10428,58.007,False,False
+170024,CO,No,Nonpartisan,7549,41.993,False,False
+160461,CO,Yes,Nonpartisan,77001,81.061,False,False
+160461,CO,No,Nonpartisan,17991,18.939,False,False
+170715,CO,Elmer Ruder,Republican,818,100.0,False,False
+170022,CO,Yes,Nonpartisan,1011,51.398,False,False
+170022,CO,No,Nonpartisan,956,48.602,False,False
+170134,CO,Yes,Nonpartisan,5305,54.634,False,False
+170134,CO,No,Nonpartisan,4405,45.366,False,False
+170439,CO,Brian Dreitz,Nonpartisan,165,11.636,False,False
+170439,CO,Kristina Graham-Webb,Nonpartisan,150,10.578,False,False
+170439,CO,Stephen Harrison,Nonpartisan,149,10.508,False,False
+170439,CO,David Hankins,Nonpartisan,146,10.296,False,False
+170439,CO,Skylar Miller,Nonpartisan,135,9.52,False,False
+170439,CO,Misty Smith,Nonpartisan,131,9.238,False,False
+170439,CO,Barbara Cameron,Nonpartisan,128,9.027,False,False
+170439,CO,Donnita Hawkins,Nonpartisan,101,7.123,False,False
+170439,CO,Alberta Winslow,Nonpartisan,96,6.77,False,False
+170439,CO,Brenda Orth,Nonpartisan,81,5.712,False,False
+170439,CO,Cathy Larson,Nonpartisan,73,5.148,False,False
+170439,CO,Gail Parrish,Nonpartisan,63,4.443,False,False
+170353,CO,Ashley Crowther,Republican,2668,100.0,False,False
+170132,CO,Yes,Nonpartisan,16461,67.424,False,False
+170132,CO,No,Nonpartisan,7953,32.576,False,False
+170437,CO,Randy V. Keller,Republican,14744,100.0,False,False
+170351,CO,Garth Crowther,Republican,2112,62.209,False,False
+170351,CO,Matthew Montoya,Democratic,1283,37.791,False,False
+170656,CO,Abbie Campbell,Republican,3007,100.0,False,False
+170206,CO,No,Nonpartisan,1195,73.044,False,False
+170206,CO,Yes,Nonpartisan,441,26.956,False,False
+170120,CO,Amy Becker,Nonpartisan,2696,61.665,False,False
+170120,CO,Brian O'Connor,Nonpartisan,1676,38.335,False,False
+170233,CO,Yes,Nonpartisan,402,90.95,False,False
+170233,CO,No,Nonpartisan,40,9.05,False,False
+170531,CO,Kenneth Forsythe,Democratic,83663,51.034,False,False
+170531,CO,Tina Harris,Republican,80274,48.966,False,False
+170310,CO,No,Nonpartisan,1789,73.621,False,False
+170310,CO,Yes,Nonpartisan,641,26.379,False,False
+170231,CO,Yes,Nonpartisan,398,89.64,False,False
+170231,CO,No,Nonpartisan,46,10.36,False,False
+170337,CO,Lacey Welsh,Republican,735,100.0,False,False
+170642,CO,Dennis James Jelden,Unaffiliated,1650,100.0,False,False
+160465,CO,No,Nonpartisan,30779,51.448,False,False
+160465,CO,Yes,Nonpartisan,29046,48.552,False,False
+170640,CO,Douglas D Kamery,Republican,1601,100.0,False,False
+170746,CO,John Damsma,Nonpartisan,3709,16.377,False,False
+170746,CO,Matt Holcomb,Nonpartisan,3423,15.114,False,False
+170746,CO,Kevin Botka,Nonpartisan,3308,14.606,False,False
+170746,CO,Troy Athmann,Nonpartisan,3134,13.838,False,False
+170746,CO,Michael W Ayres,Nonpartisan,2853,12.597,False,False
+170746,CO,Joel Marsh,Nonpartisan,2626,11.595,False,False
+170746,CO,Cale Gould,Nonpartisan,2395,10.575,False,False
+170746,CO,Joseph Jahan-Tigh,Nonpartisan,1200,5.298,False,False
+170053,CO,Yes,Nonpartisan,1811,63.255,False,False
+170053,CO,No,Nonpartisan,1052,36.745,False,False
+170165,CO,Yes,Nonpartisan,43220,74.474,False,False
+170165,CO,No,Nonpartisan,14814,25.526,False,False
+170051,CO,No,Nonpartisan,1741,51.026,False,False
+170051,CO,Yes,Nonpartisan,1671,48.974,False,False
+160488,CO,Yes,Nonpartisan,135960,77.238,False,False
+160488,CO,No,Nonpartisan,40068,22.762,False,False
+170660,CO,Angela Giron,Democratic,32916,50.603,False,False
+170660,CO,Zach Swearingen,Republican,32131,49.397,False,False
+170382,CO,Yes,Nonpartisan,199390,86.498,False,False
+170382,CO,No,Nonpartisan,31125,13.502,False,False
+170296,CO,Amanda Baker,Unaffiliated,1112,100.0,False,False
+170274,CO,Tyler Scott Brown,Democratic,134744,65.515,False,False
+170274,CO,Kevin Scott Edling,Republican,70925,34.485,False,False
+170380,CO,Yes,Nonpartisan,1212,60.6,False,False
+170380,CO,No,Nonpartisan,788,39.4,False,False
+170685,CO,Jenny Thomas,Unaffiliated,9155,100.0,False,False
+160316,CO,Adrienne Benavidez,Democratic,37645,63.786,True,False
+160316,CO,Frederick Alfred Jr,Republican,21373,36.214,False,False
+170705,CO,Dylan D. Brooks,Unaffiliated,2062,52.777,False,False
+170705,CO,Paul Reich,Democratic,1845,47.223,False,False
+170491,CO,Randall R. Miller,Republican,554,100.0,False,False
+160314,CO,Katie Wallace,Democratic,65535,74.871,True,False
+160314,CO,Pat Miller,Republican,21996,25.129,False,False
+170703,CO,Keri Lea Metzler,Unaffiliated,506,100.0,False,False
+170208,CO,No,Nonpartisan,503,56.772,False,False
+170208,CO,Yes,Nonpartisan,383,43.228,False,False
+170122,CO,Yes,Nonpartisan,3553,60.068,False,False
+170122,CO,No,Nonpartisan,2362,39.932,False,False
+160418,CO,Yes,Nonpartisan,134746,76.074,False,False
+160418,CO,No,Nonpartisan,42380,23.926,False,False
+170671,CO,Travis Mobley,Republican,2582,100.0,False,False
+160302,CO,Karla Esser,Democratic,202079,59.927,False,False
+160302,CO,Steve Barton,Republican,124737,36.991,False,False
+160302,CO,Ross Klopf,Libertarian,10394,3.082,False,False
+170090,CO,Yes,Nonpartisan,7319,60.734,False,False
+170090,CO,No,Nonpartisan,4732,39.266,False,False
+160386,CO,Matt Alexander,Republican,28571,65.903,True,False
+160386,CO,Kathryn Kester Green,Democratic,14782,34.097,False,False
+160300,CO,Lisa Escárcega,Democratic,199645,82.735,False,False
+160300,CO,Frederick Espinoza,Republican,37289,15.453,False,False
+160300,CO,Clayton Casciato,Libertarian,4374,1.813,False,False
+170088,CO,Carlin Walsh,Nonpartisan,846,55.805,False,False
+170088,CO,Devin Rowe,Nonpartisan,438,28.892,False,False
+170088,CO,Thomas Brown,Nonpartisan,232,15.303,False,False
+160519,CO,Yes,Nonpartisan,1545,76.183,False,False
+160519,CO,No,Nonpartisan,483,23.817,False,False
+170300,CO,Molly Fitzpatrick,Democratic,96908,100.0,False,False
+170278,CO,Robert Eber,Nonpartisan,1853,100.0,False,False
+160517,CO,Yes,Nonpartisan,1642,67.075,False,False
+160517,CO,No,Nonpartisan,806,32.925,False,False
+170106,CO,Yes,Nonpartisan,212,59.551,False,False
+170106,CO,No,Nonpartisan,144,40.449,False,False
+170411,CO,Rebecca Anderson,Democratic,13308,58.812,False,False
+170411,CO,James Van Beek,Republican,9320,41.188,False,False
+170517,CO,Miles Walsh,Democratic,14454,56.176,False,False
+170517,CO,Moni Grushkin,Unaffiliated,11276,43.824,False,False
+170409,CO,Teak Simonton,Democratic,16893,100.0,False,False
+170323,CO,Yes,Nonpartisan,27961,74.175,False,False
+170323,CO,No,Nonpartisan,9735,25.825,False,False
+170014,CO,Ben Hemphill,Nonpartisan,3375,52.472,False,False
+170014,CO,Delaney Dreckman,Nonpartisan,2571,39.972,False,False
+170014,CO,Dipak Basnet,Nonpartisan,486,7.556,False,False
+160451,CO,Yes,Nonpartisan,118383,71.914,False,False
+160451,CO,No,Nonpartisan,46234,28.086,False,False
+170041,CO,Yes,Nonpartisan,10563,58.411,False,False
+170041,CO,No,Nonpartisan,7521,41.589,False,False
+170626,CO,Justin Perry,Unaffiliated,2443,100.0,False,False
+160449,CO,Yes,Nonpartisan,119316,72.09,False,False
+160449,CO,No,Nonpartisan,46194,27.91,False,False
+170237,CO,Neal S. Shah,Nonpartisan,4158,100.0,False,False
+170343,CO,Donna Gee,Republican,3207,100.0,False,False
+170264,CO,Amy McKinley,Republican,4165,100.0,False,False
+170037,CO,Yes,Nonpartisan,11300,58.61,False,False
+170037,CO,No,Nonpartisan,7980,41.39,False,False
+170341,CO,Ursula Cruzalegui,Unaffiliated,2282,50.32,False,False
+170341,CO,Lisa Manifold,Democratic,2253,49.68,False,False
+170262,CO,Arlan Van Ry,Republican,3130,51.907,False,False
+170262,CO,Sherry Perdue,Democratic,2900,48.093,False,False
+170560,CO,Bonnie L. Jackson,Nonpartisan,138,27.006,False,False
+170560,CO,William R. Langridge,Nonpartisan,126,24.658,False,False
+170560,CO,Jenae Lorenzo Lock,Nonpartisan,124,24.266,False,False
+170560,CO,Scott Richard Walker,Nonpartisan,123,24.07,False,False
+170673,CO,Laura Smith,Republican,2471,100.0,False,False
+170452,CO,Corey Diekman,Democratic,2346,100.0,False,False
+170558,CO,Jeremy Leisure,Republican,6144,100.0,False,False
+170137,CO,Yes,Nonpartisan,969,59.013,False,False
+170137,CO,No,Nonpartisan,673,40.987,False,False
+170442,CO,Carrie Couey,Republican,14477,100.0,False,False
+170221,CO,No,Nonpartisan,10263,64.734,False,False
+170221,CO,Yes,Nonpartisan,5591,35.266,False,False
+170135,CO,Yes,Nonpartisan,474,62.451,False,False
+170135,CO,No,Nonpartisan,285,37.549,False,False
+170440,CO,Jonathan Godes,Democratic,13112,53.049,False,False
+170440,CO,Eric Rudd,Republican,11605,46.951,False,False
+170546,CO,Dominic Verquer,Republican,3436,53.562,False,False
+170546,CO,Leigh Elliott-Lopez,Democratic,2979,46.438,False,False
+160376,CO,Tommy Butler,Democratic,12949,60.343,True,False
+160376,CO,Ryan Gonzalez,Republican,8510,39.657,False,False
+170630,CO,Tyrene Cook,Republican,5228,56.191,False,False
+170630,CO,Truman Esmond,Democratic,4076,43.809,False,False
+170544,CO,Jodi M. Amato,Republican,4714,100.0,False,False
+170657,CO,Wylee Wollert,Republican,3030,100.0,False,False
+160480,CO,Yes,Nonpartisan,1012,64.872,False,False
+160480,CO,No,Nonpartisan,548,35.128,False,False
+170268,CO,Joseph Dzuris,Republican,4040,100.0,False,False
+160478,CO,Yes,Nonpartisan,74324,77.901,False,False
+160478,CO,No,Nonpartisan,21084,22.099,False,False
+170074,CO,Yes,Nonpartisan,363,68.233,False,False
+170074,CO,No,Nonpartisan,169,31.767,False,False
+170372,CO,Bradford L. Baltzly,Republican,2158,100.0,False,False
+170485,CO,No,Nonpartisan,2484,68.092,False,False
+170485,CO,Yes,Nonpartisan,1164,31.908,False,False
+170591,CO,Tyson Cox,Republican,7145,100.0,False,False
+170178,CO,Yes,Nonpartisan,275,57.652,False,False
+170178,CO,No,Nonpartisan,202,42.348,False,False
+170291,CO,Aaron Mack Shiplett,Republican,1255,100.0,False,False
+160306,CO,Byron Pelton,Republican,48251,67.956,True,False
+160306,CO,Jamie Jeffery,Democratic,22752,32.044,False,False
+170695,CO,Peter Peterson,Democratic,1771,100.0,False,False
+170616,CO,Timothy Knabenshue,Republican,5420,100.0,False,False
+170587,CO,Rodney Cox,Republican,6033,56.953,False,False
+170587,CO,Rebecca Busic,Democratic,4560,43.047,False,False
+170693,CO,Trish Gilbert,Republican,1864,100.0,False,False
+170614,CO,Mike Dahl,Republican,8180,100.0,False,False
+160437,CO,Yes,Nonpartisan,19716,55.629,False,False
+160437,CO,No,Nonpartisan,15726,44.371,False,False
+170027,CO,No,Nonpartisan,24389,64.837,False,False
+170027,CO,Yes,Nonpartisan,13227,35.163,False,False
+160329,CO,Gena Ozols,Democratic,24135,71.031,True,False
+160329,CO,Rebecca Winegar,Republican,9843,28.969,False,False
+160435,CO,Yes,Nonpartisan,31029,53.45,False,False
+160435,CO,No,Nonpartisan,27023,46.55,False,False
+170025,CO,No,Nonpartisan,10593,58.866,False,False
+170025,CO,Yes,Nonpartisan,7402,41.134,False,False
+160319,CO,William Lindstedt,Democratic,51679,65.738,True,False
+160319,CO,Paul Kohlhoff,Republican,24925,31.706,False,False
+160319,CO,Mark Philip Bromley,Independent,2009,2.556,False,False
+170573,CO,Terry Wetherill,Unaffiliated,492,100.0,False,False
+170686,CO,Lane Iacovetto,Unaffiliated,9488,100.0,False,False
+160317,CO,Monica Irasema Duran,Democratic,52181,72.289,True,False
+160317,CO,Steve Harkess,Republican,20003,27.711,False,False
+160423,CO,Yes,Nonpartisan,153765,65.521,False,False
+160423,CO,No,Nonpartisan,80917,34.479,False,False
+170403,CO,Mitchell Sawin,Nonpartisan,2940,62.727,False,False
+170403,CO,Patrick Reilly,Nonpartisan,1747,37.273,False,False
+160507,CO,Yes,Nonpartisan,91518,72.489,False,False
+160507,CO,No,Nonpartisan,34733,27.511,False,False
+160421,CO,Yes,Nonpartisan,137413,77.98,False,False
+160421,CO,No,Nonpartisan,38803,22.02,False,False
+170209,CO,Kent Hutson,Nonpartisan,705,58.12,False,False
+170209,CO,Atis O Jurka,Nonpartisan,508,41.88,False,False
+170315,CO,No,Nonpartisan,1506,62.724,False,False
+170315,CO,Yes,Nonpartisan,895,37.276,False,False
+170620,CO,Brian Lovato,Republican,3851,58.067,False,False
+170620,CO,Enrique Guzman,Center,2781,41.933,False,False
+170313,CO,No,Nonpartisan,1728,72.636,False,False
+170313,CO,Yes,Nonpartisan,651,27.364,False,False
+170426,CO,Sheryl Hewlett,Republican,13191,100.0,False,False
+160441,CO,Yes,Nonpartisan,13735,69.323,False,False
+160441,CO,No,Nonpartisan,6078,30.677,False,False
+160362,CO,Michael Carter,Democratic,20965,72.651,True,False
+160362,CO,Paul E. Nelson,Republican,7209,24.982,False,False
+160362,CO,Andrew Gibson,Libertarian,683,2.367,False,False
+160468,CO,Yes,Nonpartisan,101033,61.092,False,False
+160468,CO,No,Nonpartisan,64345,38.908,False,False
+170530,CO,Shane Atkinson,Democratic,99003,60.709,False,False
+170530,CO,Marc Roberson,Republican,58209,35.694,False,False
+170530,CO,Stephen Fowler,Center,5865,3.596,False,False
+170643,CO,Lori Lundgren,Nonpartisan,341,51.745,False,False
+170643,CO,David Green,Nonpartisan,318,48.255,False,False
+170141,CO,Yes,Nonpartisan,4427,55.001,False,False
+170141,CO,No,Nonpartisan,3622,44.999,False,False
+170254,CO,Emma Pinter,Democratic,114348,100.0,False,False
+170168,CO,Yes,Nonpartisan,2231,52.395,False,False
+170168,CO,No,Nonpartisan,2027,47.605,False,False
+160464,CO,Yes,Nonpartisan,39554,65.485,False,False
+160464,CO,No,Nonpartisan,20848,34.515,False,False
+170252,CO,No,Nonpartisan,2845,66.894,False,False
+170252,CO,Yes,Nonpartisan,1408,33.106,False,False
+170358,CO,Jason Maestas,Democratic,989,53.604,False,False
+170358,CO,Kirk Taylor,Republican,613,33.225,False,False
+170358,CO,Paul Quintana,Unaffiliated,243,13.171,False,False
+170663,CO,Tammi Pando,Republican,32910,50.688,False,False
+170663,CO,Naseem Zubi,Democratic,32016,49.312,False,False
+170385,CO,Yes,Nonpartisan,155484,67.581,False,False
+170385,CO,No,Nonpartisan,74586,32.419,False,False
+170356,CO,Michael Ray Vigil,Democratic,1315,100.0,False,False
+170661,CO,Candace Rivera,Democratic,39056,59.572,False,False
+170661,CO,Mary Vieth,Republican,26505,40.428,False,False
+170383,CO,Yes,Nonpartisan,146039,65.616,False,False
+170383,CO,No,Nonpartisan,76528,34.384,False,False
+170688,CO,Doug Scherar,Democratic,9152,100.0,False,False
+170346,CO,Yes,Nonpartisan,2302,52.932,False,False
+170346,CO,No,Nonpartisan,2047,47.068,False,False
+170125,CO,Ryan C. Schuiling,Nonpartisan,775,40.072,False,False
+170125,CO,Geoffrey Robinson,Nonpartisan,614,31.748,False,False
+170125,CO,Robert James Kunkle,Nonpartisan,545,28.18,False,False
+170238,CO,Stephanie Miller,Nonpartisan,3132,22.041,False,False
+170238,CO,John Heckman,Nonpartisan,2979,20.964,False,False
+170238,CO,Kelly Watt,Nonpartisan,2751,19.36,False,False
+170238,CO,Adam Vonnahme,Nonpartisan,2709,19.064,False,False
+170238,CO,Debra K. Bowes,Nonpartisan,2639,18.571,False,False
+170344,CO,Ron Thornton,Republican,3125,100.0,False,False
+170457,CO,Liz Newsom,Democratic,4544,53.358,False,False
+170457,CO,Jolene Stetson Linke,Republican,3972,46.642,False,False
+170755,CO,Javan Jones,Republican,3261,100.0,False,False
+170534,CO,John J. Feyen,Republican,98186,100.0,False,False
+170455,CO,No,Nonpartisan,2124,64.796,False,False
+170455,CO,Yes,Nonpartisan,1154,35.204,False,False
+170561,CO,Bobbie Daniel,Republican,52447,100.0,False,False
+160391,CO,Lori Garcia Sander,Republican,36207,100.0,True,False
+170172,CO,No,Nonpartisan,5108,56.939,False,False
+170172,CO,Yes,Nonpartisan,3863,43.061,False,False
+160389,CO,Dusty Johnson,Republican,27906,100.0,True,False
+160495,CO,Yes,Nonpartisan,148565,66.632,False,False
+160495,CO,No,Nonpartisan,74398,33.368,False,False
+170283,CO,Mike Le Roux,Republican,4792,100.0,False,False
+170197,CO,Yes,Nonpartisan,302,53.929,False,False
+170197,CO,No,Nonpartisan,258,46.071,False,False
+170303,CO,Curtis Johnson,Democratic,95165,100.0,False,False
+170281,CO,Elsa P. White,Republican,4572,100.0,False,False
+160520,CO,Yes,Nonpartisan,71348,64.552,False,False
+160520,CO,No,Nonpartisan,39180,35.448,False,False
+170493,CO,Lisa A. Cutter,Democratic,168561,62.565,False,False
+170493,CO,Stephanie VandenBerg,Republican,100858,37.435,False,False
+170606,CO,Christine Daniels,Nonpartisan,548,36.1,False,False
+170606,CO,Randi Latham,Nonpartisan,502,33.07,False,False
+170606,CO,Troy Masters,Nonpartisan,468,30.83,False,False
+170520,CO,Daryl Z Crites,Republican,17944,100.0,False,False
+170299,CO,Ashley Stolzmann,Democratic,94354,100.0,False,False
+170604,CO,Yes,Nonpartisan,505,50.45,False,False
+170604,CO,No,Nonpartisan,496,49.55,False,False
+170710,CO,J. David Foley,Democratic,3129,100.0,False,False
+170017,CO,Shannon Donnelly,Nonpartisan,1205,19.47,False,False
+170017,CO,Catherine Moya,Nonpartisan,1125,18.177,False,False
+170017,CO,Kathryn Hunt,Nonpartisan,1069,17.273,False,False
+170017,CO,David Ott,Nonpartisan,988,15.964,False,False
+170017,CO,Mary Lou Withrow,Nonpartisan,930,15.027,False,False
+170017,CO,Jacklyn White,Nonpartisan,872,14.09,False,False
+160454,CO,Yes,Nonpartisan,120223,72.913,False,False
+160454,CO,No,Nonpartisan,44662,27.087,False,False
+170708,CO,Sarah Enders,Unaffiliated,2744,100.0,False,False
+170015,CO,Todd Dixon,Nonpartisan,213,100.0,False,False
+160452,CO,Yes,Nonpartisan,119734,72.548,False,False
+160452,CO,No,Nonpartisan,45307,27.452,False,False
+170240,CO,Yes,Nonpartisan,148,54.613,False,False
+170240,CO,No,Nonpartisan,123,45.387,False,False
+160307,CO,Aaron Gutierrez,Democratic,36975,54.403,True,False
+160307,CO,Dana Charles,Republican,30990,45.597,False,False
+170696,CO,Dan Warwick,Republican,1631,100.0,False,False
+160334,CO,Lindsay Gilchrist,Democratic,38726,89.849,True,False
+160334,CO,Carolyn Barnes,Republican,3759,8.721,False,False
+160334,CO,Jesse Lashawn Parris,Unity,616,1.429,False,False
+170115,CO,Yes,Nonpartisan,925,57.134,False,False
+170115,CO,No,Nonpartisan,694,42.866,False,False
+160411,CO,Yes,Nonpartisan,142325,67.393,False,False
+160411,CO,No,Nonpartisan,68863,32.607,False,False
+160332,CO,Iris Halpern,Democratic,35304,88.566,True,False
+160332,CO,Kathleen Angel,Republican,4558,11.434,False,False
+160438,CO,Yes,Nonpartisan,11636,69.639,False,False
+160438,CO,No,Nonpartisan,5073,30.361,False,False
+170226,CO,No,Nonpartisan,851,64.13,False,False
+170226,CO,Yes,Nonpartisan,476,35.87,False,False
+170524,CO,Padraic D. Smith,Democratic,2531,100.0,False,False
+170224,CO,No,Nonpartisan,1619,56.215,False,False
+170224,CO,Yes,Nonpartisan,1261,43.785,False,False
+170330,CO,Jeff Graf,Democratic,9013,100.0,False,False
+170635,CO,Jack Kirby,Republican,6757,100.0,False,False
+170741,CO,Rudy Santos,Republican,95411,100.0,False,False
+170633,CO,Monica Jones,Republican,5538,60.393,False,False
+170633,CO,Natessia Leverington,Democratic,3632,39.607,False,False
+170547,CO,Wayne E. Ewing,Republican,1581,100.0,False,False
+170244,CO,No,Nonpartisan,2205,55.682,False,False
+170244,CO,Yes,Nonpartisan,1755,44.318,False,False
+170158,CO,Nathan Roth,Nonpartisan,402,100.0,False,False
+170271,CO,Joan Lopez,Democratic,140959,67.919,False,False
+170271,CO,Annette Budd,Republican,66581,32.081,False,False
+160375,CO,Lesley Smith,Democratic,35102,68.309,True,False
+160375,CO,Michael Sheperek,Republican,16285,31.691,False,False
+170156,CO,Bruce Sparrow,Nonpartisan,320,53.512,False,False
+170156,CO,Wendi Tyler,Nonpartisan,278,46.488,False,False
+170461,CO,Warren Ward,Republican,5317,100.0,False,False
+170375,CO,Rene D. Warner,Republican,11615,100.0,False,False
+170488,CO,Ekho Wyatt,Republican,498,100.0,False,False
+170267,CO,Anthony James Martin,Republican,3985,100.0,False,False
+170373,CO,No,Nonpartisan,147,62.288,False,False
+170373,CO,Yes,Nonpartisan,89,37.712,False,False
+170486,CO,John Lathrop,Republican,518,100.0,False,False
+160309,CO,Janice Rich,Republican,54384,100.0,True,False
+170698,CO,Pete Maisel,Unaffiliated,486,100.0,False,False
+170676,CO,No,Nonpartisan,1648,57.744,False,False
+170676,CO,Yes,Nonpartisan,1206,42.256,False,False
+170255,CO,Karen DeAguero,Democratic,99368,63.204,False,False
+170255,CO,Joseph P Domenico,Republican,57850,36.796,False,False
+170361,CO,Roy Elliott,Republican,1026,100.0,False,False
+170666,CO,Zolanye McCulley-Bachicha,Democratic,35008,53.749,False,False
+170666,CO,Gregory Grahek,Republican,30124,46.251,False,False
+170445,CO,Jason R. Neil,Unaffiliated,14622,100.0,False,False
+170359,CO,Sherri Vigil,Democratic,1299,100.0,False,False
+170664,CO,Allen Medina,Democratic,32130,50.235,False,False
+170664,CO,Leroy Mora,Unaffiliated,31830,49.765,False,False
+170578,CO,Stacy Morgan,Republican,4033,100.0,False,False
+170083,CO,Yes,Nonpartisan,19910,57.754,False,False
+170083,CO,No,Nonpartisan,14564,42.246,False,False
+160379,CO,Andy Boesenecker,Democratic,31490,81.16,True,False
+160379,CO,Daniel Frick,Republican,7310,18.84,False,False
+170576,CO,No,Nonpartisan,123,59.709,False,False
+170576,CO,Yes,Nonpartisan,83,40.291,False,False
+160406,CO,Yes,Nonpartisan,137781,64.949,False,False
+160406,CO,No,Nonpartisan,74355,35.051,False,False
+160512,CO,Yes,Nonpartisan,506,88.772,False,False
+160512,CO,No,Nonpartisan,64,11.228,False,False
+170101,CO,Yes,Nonpartisan,44754,51.313,False,False
+170101,CO,No,Nonpartisan,42464,48.687,False,False
+160510,CO,Yes,Nonpartisan,36758,60.416,False,False
+160510,CO,No,Nonpartisan,24083,39.584,False,False
+160424,CO,Yes,Nonpartisan,145764,62.23,False,False
+160424,CO,No,Nonpartisan,88472,37.77,False,False
+170596,CO,Caryn Webb Gibson,Republican,14391,100.0,False,False
+170510,CO,Susan Corliss,Republican,2501,100.0,False,False
+170623,CO,Damon Todd,Unaffiliated,2230,100.0,False,False
+170402,CO,Matt Smith,Nonpartisan,2411,43.457,False,False
+170402,CO,Tiffany Coyle,Nonpartisan,2220,40.014,False,False
+170402,CO,Chris Phelen,Nonpartisan,917,16.528,False,False
+170508,CO,No,Nonpartisan,426,61.65,False,False
+170508,CO,Yes,Nonpartisan,265,38.35,False,False
+160338,CO,Kyle Brown,Democratic,39548,81.313,True,False
+160338,CO,Ryan Rhatigan,Republican,9089,18.687,False,False
+160444,CO,Yes,Nonpartisan,101909,63.226,False,False
+160444,CO,No,Nonpartisan,59274,36.774,False,False
+160365,CO,Brandi Bradley,Republican,29738,53.881,True,False
+160365,CO,Christian Schilder,Democratic,25454,46.119,False,False
+170619,CO,Ken R Hood,Republican,5398,100.0,False,False
+160442,CO,Yes,Nonpartisan,3536,60.239,False,False
+160442,CO,No,Nonpartisan,2334,39.761,False,False
+160363,CO,Chad Clifford,Democratic,25410,61.506,True,False
+160363,CO,Jill Thompson,Republican,15903,38.494,False,False
+170144,CO,No,Nonpartisan,452,73.377,False,False
+170144,CO,Yes,Nonpartisan,164,26.623,False,False
+170257,CO,Jason Anaya-Ledeboer,Democratic,110939,100.0,False,False
+170030,CO,Yes,Nonpartisan,21271,59.76,False,False
+170030,CO,No,Nonpartisan,14323,40.24,False,False
+170142,CO,No,Nonpartisan,23710,69.935,False,False
+170142,CO,Yes,Nonpartisan,10193,30.065,False,False
+170713,CO,Kurt M Dilsaver,Unaffiliated,935,100.0,False,False
+170020,CO,No,Nonpartisan,55246,56.331,False,False
+170020,CO,Yes,Nonpartisan,42828,43.669,False,False
+160322,CO,Kevin Leung,Democratic,50367,52.45,True,False
+160322,CO,John Carson,Republican,45662,47.55,False,False
+170711,CO,Emil Sante,Democratic,3267,100.0,False,False
+170018,CO,No,Nonpartisan,58445,58.872,False,False
+170018,CO,Yes,Nonpartisan,40829,41.128,False,False
+170130,CO,No,Nonpartisan,4317,56.38,False,False
+170130,CO,Yes,Nonpartisan,3340,43.62,False,False
+170435,CO,Greg Owen,Republican,13831,76.907,False,False
+170435,CO,Skip Moreau,Unaffiliated,4153,23.093,False,False
+170214,CO,Chris VanWhy,Nonpartisan,261,32.382,False,False
+170214,CO,Glen Lester,Nonpartisan,197,24.442,False,False
+170214,CO,Charles Dixon,Nonpartisan,175,21.712,False,False
+170214,CO,Richard Wuehler,Nonpartisan,173,21.464,False,False
+170128,CO,Stefan P. Betley,Nonpartisan,87,55.769,False,False
+170128,CO,Krisandra Dawn Taylor,Nonpartisan,69,44.231,False,False
+170241,CO,Yes,Nonpartisan,30308,64.488,False,False
+170241,CO,No,Nonpartisan,16690,35.512,False,False
+170539,CO,No,Nonpartisan,122,53.982,False,False
+170539,CO,Yes,Nonpartisan,104,46.018,False,False
+160369,CO,"Robert ""Bob"" Marshall",Democratic,26955,56.771,True,False
+160369,CO,Nate Marsh,Republican,20525,43.229,False,False
+170537,CO,Yes,Nonpartisan,82257,50.111,False,False
+170537,CO,No,Nonpartisan,81894,49.889,False,False
+170650,CO,Michael Buglione,Democratic,7170,100.0,False,False
+170148,CO,No,Nonpartisan,714,54.839,False,False
+170148,CO,Yes,Nonpartisan,588,45.161,False,False
+170063,CO,Yes,Nonpartisan,78120,61.184,False,False
+170063,CO,No,Nonpartisan,49560,38.816,False,False
+170175,CO,Yes,Nonpartisan,5244,55.433,False,False
+170175,CO,No,Nonpartisan,4216,44.567,False,False
+170754,CO,Larry Gilliland,Republican,3218,100.0,False,False
+160392,CO,John Glenn,Nonpartisan,25112,56.304,False,False
+160392,CO,Bianka Emerson,Nonpartisan,19489,43.696,False,False
+170365,CO,Jonathan Mazzella,Republican,1027,100.0,False,False
+170478,CO,Jordan Kaminski,Republican,276,100.0,False,False
+170392,CO,Don Wilson,Unaffiliated,702,59.949,False,False
+170392,CO,Krista M Schear,Republican,469,40.051,False,False
+170171,CO,No,Nonpartisan,5225,53.03,False,False
+170171,CO,Yes,Nonpartisan,4628,46.97,False,False
+170476,CO,Lori Hanko,Republican,352,100.0,False,False
+170390,CO,Taylor L Funk,Republican,985,100.0,False,False
+170496,CO,Andy Kerr,Democratic,162333,60.39,False,False
+170496,CO,Vera King,Republican,90174,33.546,False,False
+170496,CO,Greg Ketcham,Unaffiliated,16299,6.063,False,False
+170609,CO,Kevin Strauch,Republican,8064,100.0,False,False
+170388,CO,Jerry Baxter,Republican,736,62.852,False,False
+170388,CO,Linda Yellowman,Unaffiliated,435,37.148,False,False
+170494,CO,Nicole Hensel,Democratic,171665,63.918,False,False
+170494,CO,Paul Poston,Republican,96905,36.082,False,False
+170607,CO,No,Nonpartisan,774,75.512,False,False
+170607,CO,Yes,Nonpartisan,251,24.488,False,False
+170378,CO,Quinn Archibeque,Republican,9256,58.17,False,False
+170378,CO,Demitri Stelter,Democratic,4042,25.402,False,False
+170378,CO,James D Lester,Unaffiliated,2614,16.428,False,False
+170349,CO,Donald E. Valdez,Democratic,1631,54.476,False,False
+170349,CO,Ron Dunn,Democratic,1363,45.524,False,False
+170462,CO,Tawnya Bailey,Republican,5512,100.0,False,False
+170376,CO,Brittany Kuhn,Republican,11454,100.0,False,False
+170681,CO,J.J. Mondragon,Republican,3580,100.0,False,False
+160504,CO,Yes,Nonpartisan,143487,68.254,False,False
+160504,CO,No,Nonpartisan,66738,31.746,False,False
+170566,CO,Jon Kobylarz,Republican,51171,100.0,False,False
+170679,CO,Cindy Hill,Republican,3622,100.0,False,False
+160310,CO,Dylan Roberts,Democratic,45213,59.836,True,False
+160310,CO,Corey Marshall,Republican,30349,40.164,False,False
+160416,CO,Yes,Nonpartisan,137271,77.86,False,False
+160416,CO,No,Nonpartisan,39035,22.14,False,False
+170396,CO,Tim Dietz,Republican,101603,52.669,False,False
+170396,CO,Dan Smith,Democratic,91304,47.331,False,False
+160414,CO,Yes,Nonpartisan,138066,78.004,False,False
+160414,CO,No,Nonpartisan,38933,21.996,False,False
+170202,CO,Yes,Nonpartisan,776,50.324,False,False
+170202,CO,No,Nonpartisan,766,49.676,False,False
+170500,CO,Shea Thomas,Nonpartisan,115,28.186,False,False
+170500,CO,David Wirtz,Nonpartisan,108,26.471,False,False
+170500,CO,Stacy Feehery,Nonpartisan,108,26.471,False,False
+170500,CO,Erik Strait,Nonpartisan,77,18.873,False,False
+170421,CO,Dan DeBoo,Nonpartisan,1509,100.0,False,False
+170527,CO,Jeffery Edmonds,Democratic,2478,100.0,False,False
+170114,CO,Yes,Nonpartisan,1433,53.351,False,False
+170114,CO,No,Nonpartisan,1253,46.649,False,False
+170227,CO,Alyssa Shenk,Nonpartisan,1148,100.0,False,False
+170717,CO,Tasha L Harris,Republican,833,100.0,False,False
+160355,CO,Lori Goldstein,Democratic,28355,64.636,True,False
+160355,CO,Kristine Ireland,Republican,15514,35.364,False,False
+170744,CO,Ty Kissler,Nonpartisan,52020,54.048,False,False
+170744,CO,Nancy Teksten,Nonpartisan,44227,45.952,False,False
+170523,CO,Andy Higby,Democratic,2118,64.299,False,False
+170523,CO,Tina Tekansik,Republican,1176,35.701,False,False
+160353,CO,Danielle Varda,Democratic,30045,63.847,True,False
+160353,CO,Eric Bodenstab,Republican,17013,36.153,False,False
+160459,CO,Yes,Nonpartisan,78020,81.954,False,False
+160459,CO,No,Nonpartisan,17180,18.046,False,False
+170247,CO,Yes,Nonpartisan,703,59.175,False,False
+170247,CO,No,Nonpartisan,485,40.825,False,False
+170161,CO,Yes,Nonpartisan,8805,67.214,False,False
+170161,CO,No,Nonpartisan,4295,32.786,False,False
+160457,CO,Yes,Nonpartisan,67193,60.974,False,False
+160457,CO,No,Nonpartisan,43007,39.026,False,False
+170245,CO,No,Nonpartisan,3209,60.308,False,False
+170245,CO,Yes,Nonpartisan,2112,39.692,False,False
+170159,CO,Gary Lagrimanta,Nonpartisan,295,53.539,False,False
+170159,CO,Karen Dusin,Nonpartisan,256,46.461,False,False
+170464,CO,Jimmy Strickland,Nonpartisan,413,16.095,False,False
+170464,CO,Rachel Regenold,Nonpartisan,413,16.095,False,False
+170464,CO,Kait Chase,Nonpartisan,360,14.03,False,False
+170464,CO,Nicole Schafer,Nonpartisan,325,12.666,False,False
+170464,CO,Jo Pfaff,Nonpartisan,272,10.6,False,False
+170464,CO,Carin Aichele,Nonpartisan,271,10.561,False,False
+170464,CO,Michael Mahoney,Nonpartisan,241,9.392,False,False
+170464,CO,Daniela Gosselova,Nonpartisan,142,5.534,False,False
+170464,CO,Deric Jason Duerst Jones,Nonpartisan,129,5.027,False,False
+160339,CO,Consuelo Redhorse,Democratic,27974,59.06,True,False
+160339,CO,Miguel Martinez,Republican,19391,40.94,False,False
+160445,CO,Yes,Nonpartisan,111130,68.755,False,False
+160445,CO,No,Nonpartisan,50503,31.245,False,False
+170035,CO,Yes,Nonpartisan,973,65.788,False,False
+170035,CO,No,Nonpartisan,506,34.212,False,False
+170339,CO,Donna March,Unaffiliated,697,100.0,False,False
+170118,CO,Yes,Nonpartisan,6969,61.019,False,False
+170118,CO,No,Nonpartisan,4452,38.981,False,False
+170033,CO,No,Nonpartisan,1659,54.18,False,False
+170033,CO,Yes,Nonpartisan,1403,45.82,False,False
+170145,CO,Mike Ensminger,Nonpartisan,370,100.0,False,False
+170450,CO,April Nielsen,Democratic,2034,61.265,False,False
+170450,CO,Kathleen Balfour,Republican,1286,38.735,False,False
+170748,CO,Zachary Reyes,Nonpartisan,256,20.949,False,False
+170748,CO,Matthew Cole,Nonpartisan,243,19.885,False,False
+170748,CO,Lisa Marie Buesgens,Nonpartisan,221,18.085,False,False
+170748,CO,Stephanie Edwards,Nonpartisan,167,13.666,False,False
+170748,CO,Jordan Iko,Nonpartisan,134,10.966,False,False
+170748,CO,Malissa Salisbury,Nonpartisan,106,8.674,False,False
+170748,CO,Christina Dix,Nonpartisan,95,7.774,False,False
+170448,CO,Joe Self,Democratic,1918,58.174,False,False
+170448,CO,Tara Gillivan,Republican,1379,41.826,False,False
+170554,CO,Jim Santomaso,Republican,6450,100.0,False,False
+160384,CO,Larry Don Suckla,Republican,27204,100.0,True,False
+160490,CO,Yes,Nonpartisan,115469,76.487,False,False
+160490,CO,No,Nonpartisan,35496,23.513,False,False
+160382,CO,Chris Richardson,Republican,34154,76.32,True,False
+160382,CO,Amy L. Lunde,Libertarian,10597,23.68,False,False
+170579,CO,Amy Wilson,Republican,3928,100.0,False,False
+170468,CO,Teresa Brown,Unaffiliated,5819,100.0,False,False
+170190,CO,Yes,Nonpartisan,127,73.837,False,False
+170190,CO,No,Nonpartisan,45,26.163,False,False
+170104,CO,No,Nonpartisan,1399,52.417,False,False
+170104,CO,Yes,Nonpartisan,1270,47.583,False,False
+170082,CO,Yes,Nonpartisan,160,85.106,False,False
+170082,CO,No,Nonpartisan,28,14.894,False,False
+170188,CO,No,Nonpartisan,3117,54.171,False,False
+170188,CO,Yes,Nonpartisan,2637,45.829,False,False
+170294,CO,Lynda G Moss,Unaffiliated,1288,100.0,False,False
+170599,CO,Rosemary Murphy,Republican,14904,100.0,False,False
+170513,CO,Travis Belden,Republican,2464,100.0,False,False
+170292,CO,Everett Brisendine,Republican,1269,100.0,False,False
+170597,CO,Ed Lafferty,Republican,14021,100.0,False,False
+170511,CO,Pamela J. Mills,Republican,2516,100.0,False,False
+160341,CO,Jeff K. Livingston,Democratic,19024,48.915,False,False
+160341,CO,Pricella Tiegen,Republican,18474,47.501,False,False
+160341,CO,Doug Jones,Libertarian,1394,3.584,False,False
+160447,CO,Yes,Nonpartisan,110375,68.542,False,False
+160447,CO,No,Nonpartisan,50657,31.458,False,False
+170701,CO,Kimberly Buck,Democratic,428,100.0,False,False
+170479,CO,Karl Sporleder,Republican,2432,100.0,False,False
+170585,CO,No,Nonpartisan,2598,54.035,False,False
+170585,CO,Yes,Nonpartisan,2210,45.965,False,False
+170691,CO,Trevor Gann,Nonpartisan,402,21.203,False,False
+170691,CO,Glen Frentress,Nonpartisan,376,19.831,False,False
+170691,CO,Dana Haskins,Nonpartisan,353,18.618,False,False
+170691,CO,Melinda Carlson,Nonpartisan,350,18.46,False,False
+170691,CO,Bob Reese,Nonpartisan,237,12.5,False,False
+170691,CO,Brandon Salveson,Nonpartisan,178,9.388,False,False
+170669,CO,Rebecca Balboa,Republican,2422,100.0,False,False
+170583,CO,Jesse Arthurs,Republican,4108,100.0,False,False
+170497,CO,Regina Marinelli,Democratic,171864,63.697,False,False
+170497,CO,Randall Doizaki,Republican,97951,36.303,False,False
+160327,CO,Javier Mabrey,Democratic,21955,73.586,True,False
+160327,CO,Joseph Montoya,Republican,7881,26.414,False,False
+170108,CO,Shanelle Hansen,Nonpartisan,136,100.0,False,False
+170086,CO,Yes,Nonpartisan,16686,54.174,False,False
+170086,CO,No,Nonpartisan,14115,45.826,False,False
+160325,CO,Chela Garcia Irlando,Democratic,57955,84.886,True,False
+160325,CO,Jennifer Qualteri,Republican,8937,13.09,False,False
+160325,CO,Jacob Luria,Libertarian,1382,2.024,False,False
+160431,CO,Yes,Nonpartisan,19719,70.127,False,False
+160431,CO,No,Nonpartisan,8400,29.873,False,False
+170219,CO,Yes,Nonpartisan,37556,59.364,False,False
+170219,CO,No,Nonpartisan,25708,40.636,False,False
+170325,CO,PT Wood,Democratic,7346,58.278,False,False
+170325,CO,Toby Taylor,Republican,5259,41.722,False,False
+170217,CO,No,Nonpartisan,23692,63.772,False,False
+170217,CO,Yes,Nonpartisan,13459,36.228,False,False
+170131,CO,No,Nonpartisan,4945,65.375,False,False
+170131,CO,Yes,Nonpartisan,2619,34.625,False,False
+160345,CO,Jillaire McMillan,Democratic,30093,58.255,True,False
+160345,CO,Dan Woog,Republican,21564,41.745,False,False
+170734,CO,Annie Kuntz,Republican,1938,100.0,False,False
+160372,CO,Tisha Mauro,Democratic,21434,56.659,True,False
+160372,CO,Jonathan Post,Republican,16396,43.341,False,False
+170434,CO,Stacey Seifert,Republican,14346,100.0,False,False
+170732,CO,Stephen Tomsky,Republican,9927,100.0,False,False
+170039,CO,No,Nonpartisan,137801,50.295,False,False
+170039,CO,Yes,Nonpartisan,136184,49.705,False,False
+170151,CO,Raymond R Tinkum,Nonpartisan,237,100.0,False,False
+170072,CO,Yes,Nonpartisan,8709,57.565,False,False
+170072,CO,No,Nonpartisan,6420,42.435,False,False
+160368,CO,Sarah Amelia Woodson,Democratic,14770,100.0,True,False
+170149,CO,Yes,Nonpartisan,391,68.476,False,False
+170149,CO,No,Nonpartisan,180,31.524,False,False
+170064,CO,No,Nonpartisan,16021,58.29,False,False
+170064,CO,Yes,Nonpartisan,11464,41.71,False,False
+170368,CO,Kelley S. Camper,Republican,2481,100.0,False,False
+170481,CO,Debra J Reynolds,Unaffiliated,2860,100.0,False,False
+170260,CO,Monica Broncucia-Jordan,Democratic,116167,100.0,False,False
+170366,CO,Kelli Jo Brubaker,Unaffiliated,1062,100.0,False,False
+160462,CO,Yes,Nonpartisan,38115,63.334,False,False
+160462,CO,No,Nonpartisan,22066,36.666,False,False
+170250,CO,Chris Sandoval,Nonpartisan,423,34.559,False,False
+170250,CO,Lance Fleming,Nonpartisan,418,34.15,False,False
+170250,CO,Robert McKeighan,Nonpartisan,383,31.291,False,False
+170023,CO,No,Nonpartisan,3837,59.295,False,False
+170023,CO,Yes,Nonpartisan,2634,40.705,False,False
+160460,CO,Yes,Nonpartisan,76740,80.762,False,False
+160460,CO,No,Nonpartisan,18280,19.238,False,False
+170248,CO,Yes,Nonpartisan,7459,51.541,False,False
+170248,CO,No,Nonpartisan,7013,48.459,False,False
+170354,CO,Patrick Roybal,Democratic,1249,100.0,False,False
+170659,CO,Anthony Letteer,Republican,1996,52.958,False,False
+170659,CO,Jamie Callaway,Unaffiliated,1773,47.042,False,False
+170438,CO,Gary W. Reed,Nonpartisan,177,26.068,False,False
+170438,CO,Alvin C. Jackson,Nonpartisan,169,24.89,False,False
+170438,CO,James L. Cox,Nonpartisan,168,24.742,False,False
+170438,CO,Lane Woodrich,Nonpartisan,165,24.3,False,False
+170352,CO,Toby Crowther,Republican,2608,100.0,False,False
+170465,CO,Katie Soles,Nonpartisan,404,25.881,False,False
+170465,CO,Adam Cwiklin,Nonpartisan,313,20.051,False,False
+170465,CO,Brian Roman,Nonpartisan,298,19.09,False,False
+170465,CO,Ken Jensen,Nonpartisan,293,18.77,False,False
+170465,CO,Lewis Gregory,Nonpartisan,253,16.208,False,False
+170571,CO,Amy Wetherill,Unaffiliated,510,100.0,False,False
+170076,CO,Yes,Nonpartisan,23846,55.103,False,False
+170076,CO,No,Nonpartisan,19429,44.897,False,False
+170569,CO,R. Scott Lamb,Democratic,509,100.0,False,False
+170682,CO,Anne M. Robinson,Republican,2981,63.358,False,False
+170682,CO,Gilbert Eloy Atencio,Democratic,1724,36.642,False,False
+170180,CO,Stephan K. Hucal,Nonpartisan,2447,73.638,False,False
+170180,CO,Colleen G. Whitlow,Nonpartisan,876,26.362,False,False
+170094,CO,Yes,Nonpartisan,647,53.251,False,False
+170094,CO,No,Nonpartisan,568,46.749,False,False
+170399,CO,Darrell E. Roberts,Republican,131088,100.0,False,False
+160503,CO,Yes,Nonpartisan,436,77.996,False,False
+160503,CO,No,Nonpartisan,123,22.004,False,False
+170092,CO,Yes,Nonpartisan,5175,64.382,False,False
+170092,CO,No,Nonpartisan,2863,35.618,False,False
+170589,CO,Ellen Black,Republican,7224,100.0,False,False
+170503,CO,Diana Flory,Republican,564,100.0,False,False
+170424,CO,Ken Madsen,Republican,12472,80.95,False,False
+170424,CO,Brandon C Davis,American Constitution,2935,19.05,False,False
+170395,CO,Sheri Davis,Republican,107792,55.811,False,False
+170395,CO,Jim Oehler,Democratic,85347,44.189,False,False
+170501,CO,Howard Robertson,Republican,522,100.0,False,False
+170422,CO,Marco P. Fiorito,Nonpartisan,2290,100.0,False,False
+170720,CO,Taryn Power,Democratic,10230,100.0,False,False
+160358,CO,Chris VanDijk,Democratic,20187,66.752,True,False
+160358,CO,Michelle D. Lee,Republican,10055,33.248,False,False
+170612,CO,Dave D. Martin,Republican,8101,100.0,False,False
+170718,CO,Yes,Nonpartisan,626,58.779,False,False
+170718,CO,No,Nonpartisan,439,41.221,False,False
+160356,CO,Rebekah Stewart,Democratic,25604,70.663,True,False
+160356,CO,William Tyler Switzer,Republican,10630,29.337,False,False
+170297,CO,Jake R Six,Republican,1012,100.0,False,False
+170602,CO,James Pierce Jr.,Republican,14093,100.0,False,False
+170381,CO,Melissa Adriana Mejia,Nonpartisan,56536,29.23,False,False
+170381,CO,Monica Martinez,Nonpartisan,31521,16.297,False,False
+170381,CO,Whitney Traylor,Nonpartisan,29328,15.163,False,False
+170381,CO,Alfredo Reyes,Nonpartisan,23364,12.08,False,False
+170381,CO,Jeff Walker,Nonpartisan,14425,7.458,False,False
+170381,CO,Gabriel Konkle,Nonpartisan,9020,4.664,False,False
+170381,CO,Cynthia Diaz,Nonpartisan,8807,4.553,False,False
+170381,CO,Raymon Anthony Doane,Nonpartisan,8278,4.28,False,False
+170381,CO,Julissa Soto,Nonpartisan,6125,3.167,False,False
+170381,CO,Jake Browne,Nonpartisan,6012,3.108,False,False
+170295,CO,Jennifer M Godfrey,Republican,1177,100.0,False,False
+170600,CO,Brad Hughes,Republican,14472,100.0,False,False
+170706,CO,Michael Wyszynski,Democratic,3195,100.0,False,False
+170211,CO,Yes,Nonpartisan,558,70.544,False,False
+170211,CO,No,Nonpartisan,233,29.456,False,False
+160315,CO,Sheila Lieder,Democratic,54579,59.902,True,False
+160315,CO,Richard (Rich) Mancuso,Republican,36535,40.098,False,False
+170704,CO,Yes,Nonpartisan,345,60.0,False,False
+170704,CO,No,Nonpartisan,230,40.0,False,False
+160342,CO,Steph Vigil,Democratic,19963,56.396,True,False
+160342,CO,Jill Haffley,Republican,14580,41.189,False,False
+160342,CO,John C Hjersman,Libertarian,855,2.415,False,False
+160342,CO,Isaac Contreras,Write-In,0,0.0,False,False
+170123,CO,Derek S. Ward,Nonpartisan,913,100.0,False,False
+170428,CO,Timothy D. Norton,Republican,13201,100.0,False,False
+170121,CO,Yes,Nonpartisan,3231,68.789,False,False
+170121,CO,No,Nonpartisan,1466,31.211,False,False
+170234,CO,Yes,Nonpartisan,402,90.95,False,False
+170234,CO,No,Nonpartisan,40,9.05,False,False
+170724,CO,Matthew Wentz,Unaffiliated,9424,100.0,False,False
+170645,CO,Yes,Nonpartisan,624,80.934,False,False
+170645,CO,No,Nonpartisan,147,19.066,False,False
+170751,CO,Haleigh Studer,Republican,3108,100.0,False,False
+170338,CO,Joseph Conner,Republican,706,100.0,False,False
+170451,CO,Greg Demo,Democratic,1883,56.344,False,False
+170451,CO,Zach Meyer,Republican,1459,43.656,False,False
+160466,CO,Yes,Nonpartisan,5789,58.534,False,False
+160466,CO,No,Nonpartisan,4101,41.466,False,False
+170056,CO,Yes,Nonpartisan,487265,56.382,False,False
+170056,CO,No,Nonpartisan,376955,43.618,False,False
+160493,CO,Yes,Nonpartisan,135876,60.807,False,False
+160493,CO,No,Nonpartisan,87578,39.193,False,False
+170747,CO,John Baker,Nonpartisan,180,16.775,False,False
+170747,CO,Laura Meisner,Nonpartisan,179,16.682,False,False
+170747,CO,Teresa Kahler,Nonpartisan,166,15.471,False,False
+170747,CO,Norman Martinez,Nonpartisan,155,14.445,False,False
+170747,CO,Melissa Agripino,Nonpartisan,141,13.141,False,False
+170747,CO,Linda Shutt,Nonpartisan,89,8.295,False,False
+170747,CO,Teresa Cole,Nonpartisan,85,7.922,False,False
+170747,CO,Alexander Cole,Nonpartisan,78,7.269,False,False
+170054,CO,No,Nonpartisan,943,69.186,False,False
+170054,CO,Yes,Nonpartisan,420,30.814,False,False
+170166,CO,Yes,Nonpartisan,40975,67.141,False,False
+170166,CO,No,Nonpartisan,20053,32.859,False,False
+170471,CO,Michael Barnes,Democratic,6607,100.0,False,False
+170193,CO,No,Nonpartisan,579,65.35,False,False
+170193,CO,Yes,Nonpartisan,307,34.65,False,False
+170164,CO,No,Nonpartisan,37919,59.855,False,False
+170164,CO,Yes,Nonpartisan,25432,40.145,False,False
+170469,CO,Alexandra Cohen,Democratic,6165,100.0,False,False
+170191,CO,Yes,Nonpartisan,124,71.676,False,False
+170191,CO,No,Nonpartisan,49,28.324,False,False
+170154,CO,Yes,Nonpartisan,307,58.7,False,False
+170154,CO,No,Nonpartisan,216,41.3,False,False
+160450,CO,Yes,Nonpartisan,117907,71.549,False,False
+160450,CO,No,Nonpartisan,46884,28.451,False,False
+170040,CO,No,Nonpartisan,140084,51.501,False,False
+170040,CO,Yes,Nonpartisan,131917,48.499,False,False
+170152,CO,No,Nonpartisan,328,62.476,False,False
+170152,CO,Yes,Nonpartisan,197,37.524,False,False
+170265,CO,Jason Duncan,Democratic,4084,100.0,False,False
+170563,CO,Greg Haitz,Republican,41759,56.414,False,False
+170563,CO,Dave Edwards,Democratic,26832,36.248,False,False
+170563,CO,Christina Aline Schultz,Forward,5432,7.338,False,False
+170342,CO,"Keith Vieweg, Jr",Democratic,3520,100.0,False,False
+170263,CO,Tina Espinoza,Republican,4156,100.0,False,False
+170369,CO,Virginia Trujillo,Republican,2332,100.0,False,False
+170674,CO,No,Nonpartisan,1663,58.29,False,False
+170674,CO,Yes,Nonpartisan,1190,41.71,False,False
+160497,CO,Yes,Nonpartisan,9011,54.175,False,False
+160497,CO,No,Nonpartisan,7622,45.825,False,False
+170672,CO,Jonathan Joy,Republican,2517,100.0,False,False
+160303,CO,Edie Hooton,Democratic,213231,70.394,False,False
+160303,CO,Marty Neilson,Republican,80058,26.43,False,False
+160303,CO,Richard Friend,Libertarian,9621,3.176,False,False
+170091,CO,Yes,Nonpartisan,5821,71.502,False,False
+170091,CO,No,Nonpartisan,2320,28.498,False,False
+160522,CO,Yes,Nonpartisan,67600,61.571,False,False
+160522,CO,No,Nonpartisan,42192,38.429,False,False
+170111,CO,No,Nonpartisan,188,59.119,False,False
+170111,CO,Yes,Nonpartisan,130,40.881,False,False
+170089,CO,Alexia McCarty,Nonpartisan,798,21.117,False,False
+170089,CO,Chris Sturm,Nonpartisan,724,19.159,False,False
+170089,CO,Anthony LaGreca,Nonpartisan,618,16.354,False,False
+170089,CO,Jason Eaves,Nonpartisan,483,12.781,False,False
+170089,CO,Feather Bokker,Nonpartisan,475,12.569,False,False
+170089,CO,Jared Lane,Nonpartisan,433,11.458,False,False
+170089,CO,Stacie Tolleson,Nonpartisan,248,6.563,False,False
+160328,CO,Scott Baldermann,Democratic,35718,77.677,True,False
+160328,CO,Carey Marin,Republican,10265,22.323,False,False
+170301,CO,Rachel Friend,Democratic,94622,100.0,False,False
+170414,CO,Yolanda L. Avila,Democratic,23881,58.286,False,False
+170414,CO,Lauren Nelson,Republican,17091,41.714,False,False
+170328,CO,Janie Williams,Unaffiliated,8311,100.0,False,False
+170107,CO,No,Nonpartisan,112,67.879,False,False
+170107,CO,Yes,Nonpartisan,53,32.121,False,False
+170412,CO,Claire Noble,Democratic,13965,64.233,False,False
+170412,CO,Christian Ryan,Republican,7776,35.767,False,False
+170518,CO,Carrie Woodson,Democratic,19937,100.0,False,False
+160348,CO,Ken deGraaf,Republican,20046,51.112,False,False
+160348,CO,Michael Pierson,Democratic,19174,48.888,False,False
+170737,CO,Robbie Furrow,Republican,1890,100.0,False,False
+170516,CO,Tiffany Lee,Unaffiliated,22328,100.0,False,False
+160346,CO,Jarvis Caldwell,Republican,35217,100.0,True,False
+170735,CO,Michelle Swan,Republican,1948,100.0,False,False
+170042,CO,Yes,Nonpartisan,2085,61.233,False,False
+170042,CO,No,Nonpartisan,1320,38.767,False,False
+170590,CO,Leslie Kennedy-Bugg,Unaffiliated,6877,100.0,False,False
+170504,CO,Marci Miller,Republican,590,100.0,False,False
+170617,CO,Lynda Scott,Republican,5493,100.0,False,False
+160440,CO,No,Nonpartisan,14275,58.199,False,False
+160440,CO,Yes,Nonpartisan,10253,41.801,False,False
+170694,CO,Regina Swartz,Republican,1696,100.0,False,False
+170615,CO,No,Nonpartisan,5072,53.328,False,False
+170615,CO,Yes,Nonpartisan,4439,46.672,False,False
+170721,CO,Jacqueline Kosel,Democratic,9921,100.0,False,False
+170028,CO,Yes,Nonpartisan,30396,80.763,False,False
+170028,CO,No,Nonpartisan,7240,19.237,False,False
+170332,CO,No,Nonpartisan,2420,70.431,False,False
+170332,CO,Yes,Nonpartisan,1016,29.569,False,False
+170026,CO,No,Nonpartisan,202,70.383,False,False
+170026,CO,Yes,Nonpartisan,85,29.617,False,False
+170138,CO,No,Nonpartisan,247,50.511,False,False
+170138,CO,Yes,Nonpartisan,242,49.489,False,False
+170443,CO,Jim Yellico,Republican,14717,100.0,False,False
+170549,CO,Ashley D. Erwin,Republican,1612,100.0,False,False
+170441,CO,Jacklyn K. Harmon,Republican,15031,100.0,False,False
+170355,CO,Adelia Romero,Democratic,1336,100.0,False,False
+170046,CO,No,Nonpartisan,13976,76.871,False,False
+170046,CO,Yes,Nonpartisan,4205,23.129,False,False
+160483,CO,Yes,Nonpartisan,141632,80.412,False,False
+160483,CO,No,Nonpartisan,34502,19.588,False,False
+170079,CO,Yes,Nonpartisan,2766,82.15,False,False
+170079,CO,No,Nonpartisan,601,17.85,False,False
+170658,CO,Samuel C. Zordel,Republican,2843,100.0,False,False
+160481,CO,No,Nonpartisan,669,56.936,False,False
+160481,CO,Yes,Nonpartisan,506,43.064,False,False
+170269,CO,Jessica Campbell,Democratic,31327,61.713,False,False
+170269,CO,Carl Schuldies,Republican,19435,38.287,False,False
+170183,CO,No,Nonpartisan,3069,63.357,False,False
+170183,CO,Yes,Nonpartisan,1775,36.643,False,False
+170097,CO,Yes,Nonpartisan,2226,84.191,False,False
+170097,CO,No,Nonpartisan,418,15.809,False,False
+170075,CO,Yes,Nonpartisan,1676,57.496,False,False
+170075,CO,No,Nonpartisan,1239,42.504,False,False
+170181,CO,Kim Heard,Nonpartisan,1974,19.847,False,False
+170181,CO,Ryan Hathorn,Nonpartisan,1933,19.435,False,False
+170181,CO,Jeff Morgan,Nonpartisan,1796,18.058,False,False
+170181,CO,Christine Smith,Nonpartisan,1674,16.831,False,False
+170181,CO,Lee Peterson,Nonpartisan,754,7.581,False,False
+170181,CO,Chris Cartwright,Nonpartisan,664,6.676,False,False
+170181,CO,David Broshous,Nonpartisan,630,6.334,False,False
+170181,CO,Chris T. Parr,Nonpartisan,521,5.238,False,False
+170095,CO,No,Nonpartisan,27413,59.445,False,False
+170095,CO,Yes,Nonpartisan,18702,40.555,False,False
+170592,CO,Rita Caffey,Unaffiliated,6872,100.0,False,False
+170506,CO,Jimmy Brown,Republican,556,100.0,False,False
+170484,CO,Vonnie Valdez,Unaffiliated,2932,100.0,False,False
+170057,CO,No,Nonpartisan,10797,54.026,False,False
+170057,CO,Yes,Nonpartisan,9188,45.974,False,False
+170169,CO,Yes,Nonpartisan,2167,51.012,False,False
+170169,CO,No,Nonpartisan,2081,48.988,False,False
+170474,CO,Kristine Borchers,Republican,298,100.0,False,False
+170253,CO,No,Nonpartisan,434,56.584,False,False
+170253,CO,Yes,Nonpartisan,333,43.416,False,False
+170167,CO,Yes,Nonpartisan,33468,58.563,False,False
+170167,CO,No,Nonpartisan,23681,41.437,False,False
+170472,CO,R. Alec Lindeman,Nonpartisan,375,31.646,False,False
+170472,CO,Steve Morris,Nonpartisan,319,26.92,False,False
+170472,CO,Roman Kolodziej,Nonpartisan,249,21.013,False,False
+170472,CO,Brock Walter Stai,Nonpartisan,242,20.422,False,False
+170386,CO,Yes,Nonpartisan,155973,66.914,False,False
+170386,CO,No,Nonpartisan,77123,33.086,False,False
+160408,CO,Yes,Nonpartisan,140194,66.415,False,False
+160408,CO,No,Nonpartisan,70893,33.585,False,False
+170662,CO,Kim Archuletta,Democratic,37134,57.017,False,False
+170662,CO,Jonathan Ambler,Republican,27994,42.983,False,False
+170384,CO,Yes,Nonpartisan,179385,79.71,False,False
+170384,CO,No,Nonpartisan,45661,20.29,False,False
+170689,CO,Tom Effinger,Nonpartisan,250,100.0,False,False
+160320,CO,Tom Sullivan,Democratic,46210,60.516,True,False
+160320,CO,Danielle Lammon,Republican,28637,37.503,False,False
+160320,CO,Michele Poague,Libertarian,1513,1.981,False,False
+160426,CO,Yes,Nonpartisan,152871,65.211,False,False
+160426,CO,No,Nonpartisan,81553,34.789,False,False
+160318,CO,Kyle Mullica,Democratic,40607,62.08,True,False
+160318,CO,Kevin Allen,Republican,24804,37.92,False,False
+170707,CO,Brandi R. Hatfield,Democratic,3092,100.0,False,False
+170404,CO,Yes,Nonpartisan,99283,52.099,False,False
+170404,CO,No,Nonpartisan,91282,47.901,False,False
+170318,CO,Yes,Nonpartisan,65,84.416,False,False
+170318,CO,No,Nonpartisan,12,15.584,False,False
+170431,CO,Gregory Carlson,Republican,14488,99.732,False,False
+170431,CO,Bryan Dean Sprague,Unaffiliated,39,0.268,False,False
+170210,CO,Rebecca Albright,Nonpartisan,696,14.907,False,False
+170210,CO,Eric Alan Burton,Nonpartisan,605,12.958,False,False
+170210,CO,William Bass,Nonpartisan,536,11.48,False,False
+170210,CO,Tony Beltran,Nonpartisan,511,10.945,False,False
+170210,CO,Dennis Stern,Nonpartisan,508,10.88,False,False
+170210,CO,Beth Harris,Nonpartisan,468,10.024,False,False
+170210,CO,Kathy Keeley,Nonpartisan,446,9.552,False,False
+170210,CO,Roger Moseley,Nonpartisan,346,7.411,False,False
+170210,CO,John Marble,Nonpartisan,277,5.933,False,False
+170210,CO,Karla Kerstner,Nonpartisan,276,5.911,False,False
+170316,CO,No,Nonpartisan,1600,67.425,False,False
+170316,CO,Yes,Nonpartisan,773,32.575,False,False
+170621,CO,Robert M Fowler,Republican,5978,100.0,False,False
+170727,CO,Carl E Andersen,Republican,7842,58.231,False,False
+170727,CO,Dennis Luttrell,Democratic,3632,26.97,False,False
+170727,CO,Don Moore,Nonpartisan,1993,14.799,False,False
+170648,CO,Ingrid K Grueter,Democratic,7215,100.0,False,False
+170427,CO,Susan Murphy,Republican,13072,100.0,False,False
+170725,CO,Amber Flenniken,Democratic,9984,100.0,False,False
+170646,CO,Rob Ittner,Democratic,4951,59.166,False,False
+170646,CO,John Doyle,Nonpartisan,3417,40.834,False,False
+160469,CO,Yes,Nonpartisan,116527,70.374,False,False
+160469,CO,No,Nonpartisan,49055,29.626,False,False
+170059,CO,Yes,Nonpartisan,10886,59.574,False,False
+170059,CO,No,Nonpartisan,7387,40.426,False,False
+160361,CO,Lorena Garcia,Democratic,21565,100.0,True,False
+160467,CO,Yes,Nonpartisan,115286,69.639,False,False
+160467,CO,No,Nonpartisan,50263,30.361,False,False
+170521,CO,Trever Nyx,Democratic,16694,60.009,False,False
+170521,CO,Cathy Lynn Seibel,Republican,11125,39.991,False,False
+160351,CO,Tammy Story,Democratic,30074,56.822,True,False
+160351,CO,Mark Herzfeld,Republican,22853,43.178,False,False
+170605,CO,Lorraine Garvey,Nonpartisan,593,43.571,False,False
+170605,CO,Ruth A. Reams,Nonpartisan,592,43.497,False,False
+170605,CO,Robert W. Ralph Sr.,Nonpartisan,176,12.932,False,False
+170519,CO,Sean Smith,Democratic,20377,100.0,False,False
+160349,CO,Alexis Hoffkling,Democratic,30157,71.91,True,False
+160349,CO,Ross Metler,Libertarian,11780,28.09,False,False
+160455,CO,Yes,Nonpartisan,114604,69.616,False,False
+160455,CO,No,Nonpartisan,50020,30.384,False,False
+170243,CO,No,Nonpartisan,696,53.912,False,False
+170243,CO,Yes,Nonpartisan,595,46.088,False,False
+170016,CO,Brandy Moralez,Nonpartisan,189,57.1,False,False
+170016,CO,Ted Hunt Watson II,Nonpartisan,142,42.9,False,False
+160453,CO,Yes,Nonpartisan,118168,71.764,False,False
+160453,CO,No,Nonpartisan,46495,28.236,False,False
+170043,CO,Yes,Nonpartisan,6049,54.926,False,False
+170043,CO,No,Nonpartisan,4964,45.074,False,False
+170347,CO,Randy Perea,Democratic,1876,54.393,False,False
+170347,CO,Colton Sutherland,Republican,1573,45.607,False,False
+170652,CO,Yes,Nonpartisan,5539,63.725,False,False
+170652,CO,No,Nonpartisan,3153,36.275,False,False
+170345,CO,Chris Hegmann,Republican,3223,100.0,False,False
+170458,CO,Marcy Wheatley,Republican,5423,100.0,False,False
+160473,CO,Yes,Nonpartisan,3828,72.61,False,False
+160473,CO,No,Nonpartisan,1444,27.39,False,False
+160394,CO,Coleman Erickson,Nonpartisan,47487,100.0,False,False
+160500,CO,Yes,Nonpartisan,4954,72.48,False,False
+160500,CO,No,Nonpartisan,1881,27.52,False,False
+170562,CO,Bobbie Gross,Republican,54656,100.0,False,False
+170675,CO,No,Nonpartisan,1687,59.276,False,False
+170675,CO,Yes,Nonpartisan,1159,40.724,False,False
+170173,CO,Yes,Nonpartisan,6884,75.301,False,False
+170173,CO,No,Nonpartisan,2258,24.699,False,False
+170286,CO,Yes,Nonpartisan,4650,68.202,False,False
+170286,CO,No,Nonpartisan,2168,31.798,False,False
+170200,CO,Yes,Nonpartisan,630,82.461,False,False
+170200,CO,No,Nonpartisan,134,17.539,False,False
+160496,CO,Yes,Nonpartisan,144796,64.875,False,False
+160496,CO,No,Nonpartisan,78398,35.125,False,False
+170284,CO,Ron Sutcliffe,Nonpartisan,400,100.0,False,False
+170198,CO,Yes,Nonpartisan,637,81.877,False,False
+170198,CO,No,Nonpartisan,141,18.123,False,False
+170304,CO,Kayce D. W. Keane,Democratic,94181,100.0,False,False
+170417,CO,Becky Fuller,Republican,145416,53.192,False,False
+170417,CO,David Traenkle,Democratic,127962,46.808,False,False
+170196,CO,No,Nonpartisan,183,79.913,False,False
+170196,CO,Yes,Nonpartisan,46,20.087,False,False
+170302,CO,Cynthia Braddock,Democratic,94440,100.0,False,False
+170415,CO,Steve Schleiker,Republican,155272,56.253,False,False
+170415,CO,Tracie Woods,Democratic,120751,43.747,False,False
+170186,CO,No,Nonpartisan,4936,51.583,False,False
+170186,CO,Yes,Nonpartisan,4633,48.417,False,False
+170157,CO,No,Nonpartisan,284,59.044,False,False
+170157,CO,Yes,Nonpartisan,197,40.956,False,False
+170270,CO,Leslie Summey,Democratic,24545,71.627,False,False
+170270,CO,Sonda Banka,Republican,9723,28.373,False,False
+170184,CO,Yes,Nonpartisan,4888,51.67,False,False
+170184,CO,No,Nonpartisan,4572,48.33,False,False
+170489,CO,Cheryl Corkle,Republican,389,62.44,False,False
+170489,CO,Hailey Vigil,Unaffiliated,234,37.56,False,False
+160312,CO,Tony Exum Sr,Democratic,29075,60.586,True,False
+160312,CO,Levon Stilson,Republican,17119,35.672,False,False
+160312,CO,Janet Turner,Libertarian,1796,3.742,False,False
+170374,CO,Matt Soper,Republican,10445,65.175,False,False
+170374,CO,Nathan Clay,Democratic,5581,34.825,False,False
+170487,CO,Jo McQueary,Republican,483,100.0,False,False
+170593,CO,George Deavers,Republican,7376,100.0,False,False
+170699,CO,Ladonna L. Jaramillo,Unaffiliated,504,100.0,False,False
+170204,CO,Melissa Dobbins,Nonpartisan,258,68.435,False,False
+170204,CO,Alvin Powell,Nonpartisan,119,31.565,False,False
+170697,CO,Tania Sanchez,Republican,1249,53.194,False,False
+170697,CO,Elizabeth Glenn,Unaffiliated,1099,46.806,False,False
+160335,CO,Monica VanBuskirk,Democratic,27182,79.82,True,False
+160335,CO,Tom Cowhick,Republican,6872,20.18,False,False
+170308,CO,Yes,Nonpartisan,81983,65.764,False,False
+170308,CO,No,Nonpartisan,42679,34.236,False,False
+170229,CO,Yes,Nonpartisan,1960,55.18,False,False
+170229,CO,No,Nonpartisan,1592,44.82,False,False
+170335,CO,Allison Brown,Republican,780,100.0,False,False
+160439,CO,Yes,Nonpartisan,10779,65.554,False,False
+160439,CO,No,Nonpartisan,5664,34.446,False,False
+170029,CO,Yes,Nonpartisan,20818,56.116,False,False
+170029,CO,No,Nonpartisan,16280,43.884,False,False
+170525,CO,Peleg Mark Wadsworth,Unaffiliated,2379,100.0,False,False
+170638,CO,Madene Zilla,Unaffiliated,1692,100.0,False,False
+170552,CO,Andrew S. Lorensen,Republican,1539,100.0,False,False
+170331,CO,No,Nonpartisan,2193,62.532,False,False
+170331,CO,Yes,Nonpartisan,1314,37.468,False,False
+170636,CO,David E. Kintz JR,Republican,5735,62.63,False,False
+170636,CO,Rob Shearer,Democratic,3422,37.37,False,False
+170742,CO,Jason A Marini,Republican,94229,100.0,False,False
+170049,CO,Yes,Nonpartisan,3483,67.815,False,False
+170049,CO,No,Nonpartisan,1653,32.185,False,False
+160486,CO,Yes,Nonpartisan,141059,80.284,False,False
+160486,CO,No,Nonpartisan,34641,19.716,False,False
+170740,CO,Scott James,Republican,35507,100.0,False,False
+170047,CO,Yes,Nonpartisan,160414,84.143,False,False
+170047,CO,No,Nonpartisan,30230,15.857,False,False
+160484,CO,Yes,Nonpartisan,141334,80.33,False,False
+160484,CO,No,Nonpartisan,34607,19.67,False,False
+170272,CO,Michael Westerberg,Democratic,141413,73.028,False,False
+170272,CO,Bennett Rutledge,Libertarian,52228,26.972,False,False
+170622,CO,Michelle Nauer,Unaffiliated,2226,100.0,False,False
+170728,CO,Stephanie Kees,Republican,10032,100.0,False,False
+160366,CO,Naquetta Ricks,Democratic,23499,67.604,True,False
+160366,CO,Clinton Porter,Republican,11261,32.396,False,False
+170147,CO,No,Nonpartisan,799,60.992,False,False
+170147,CO,Yes,Nonpartisan,511,39.008,False,False
+160443,CO,Yes,Nonpartisan,110561,68.186,False,False
+160443,CO,No,Nonpartisan,51585,31.814,False,False
+160364,CO,Gretchen Rydin,Democratic,28335,63.248,True,False
+160364,CO,Norm Olsen,Libertarian,6177,13.788,False,False
+160364,CO,Allison Madrigal,Independent,5456,12.179,False,False
+160364,CO,Tim Martin,Center,4832,10.786,False,False
+160470,CO,Yes,Nonpartisan,114554,69.511,False,False
+160470,CO,No,Nonpartisan,50245,30.489,False,False
+170258,CO,Thomas Swingle,Democratic,97045,69.321,False,False
+170258,CO,Glenna Marie Zavala,Unaffiliated,42948,30.679,False,False
+170556,CO,Patty Bartlett,Republican,6418,100.0,False,False
+170256,CO,Josh Zygielbaum,Democratic,100158,63.485,False,False
+170256,CO,Karen Hoopes,Republican,57609,36.515,False,False
+170362,CO,Melinda Carter,Republican,1126,100.0,False,False
+170667,CO,Travis Day,Republican,2450,100.0,False,False
+170581,CO,Chip Dio McIntyre,Republican,3958,100.0,False,False
+170665,CO,Randy Reeves,Democratic,49319,100.0,False,False
+170387,CO,Yes,Nonpartisan,163067,68.404,False,False
+170387,CO,No,Nonpartisan,75321,31.596,False,False
+170276,CO,Bill Lucas,Nonpartisan,1822,100.0,False,False
+160515,CO,Yes,Nonpartisan,5285,68.238,False,False
+160515,CO,No,Nonpartisan,2460,31.762,False,False
+160429,CO,Yes,Nonpartisan,27392,64.856,False,False
+160429,CO,No,Nonpartisan,14843,35.144,False,False
+160407,CO,Yes,Nonpartisan,141501,67.187,False,False
+160407,CO,No,Nonpartisan,69107,32.813,False,False
+160513,CO,Yes,Nonpartisan,2396,56.71,False,False
+160513,CO,No,Nonpartisan,1829,43.29,False,False
+170102,CO,No,Nonpartisan,901,56.524,False,False
+170102,CO,Yes,Nonpartisan,693,43.476,False,False
+170407,CO,Kathleen Brendza,Democratic,14163,63.279,False,False
+170407,CO,Wendy Sacks,Republican,8219,36.721,False,False
+170321,CO,Katie Peterson,Nonpartisan,5282,100.0,False,False
+170100,CO,No,Nonpartisan,2622,54.14,False,False
+170100,CO,Yes,Nonpartisan,2221,45.86,False,False
+170405,CO,Five District Commissioners who reside in districts to be elected by the voters only by the voters resident in the district; or,Nonpartisan,106052,58.024,False,False
+170405,CO,"Three District Commissioners who reside in districts to be elected by the voters only by the voters resident in the district, and two At-Large Commissioners to be elected by the voters of the whole county.",Nonpartisan,76722,41.976,False,False
+170319,CO,Yes,Nonpartisan,91,72.222,False,False
+170319,CO,No,Nonpartisan,35,27.778,False,False
+170624,CO,Trisha Oakland,Unaffiliated,2273,100.0,False,False
+170730,CO,Kurt Schoenberger,Republican,9887,100.0,False,False
+170509,CO,Cory Wall,Republican,2419,100.0,False,False
+170287,CO,Tyson Chick,Republican,1332,100.0,False,False
+170393,CO,Aaron Hankins,Republican,933,100.0,False,False
+170499,CO,Nick Lobello,Democratic,167632,63.599,False,False
+170499,CO,Allison Harmon,Republican,95946,36.401,False,False
+170477,CO,Allison Waddington,Republican,348,100.0,False,False
+170391,CO,Amber Blackmore,Unaffiliated,944,100.0,False,False
+170305,CO,Jeff Martin,Democratic,94486,100.0,False,False
+170610,CO,Kirstin M Watson,Republican,7867,100.0,False,False
+160433,CO,Yes,Nonpartisan,35032,59.75,False,False
+160433,CO,No,Nonpartisan,23599,40.25,False,False
+170608,CO,Robert W Pennington,Republican,7758,100.0,False,False
+170714,CO,Lori L Ehmke,Republican,939,100.0,False,False
+170021,CO,No,Nonpartisan,49071,51.968,False,False
+170021,CO,Yes,Nonpartisan,45354,48.032,False,False
+170133,CO,No,Nonpartisan,5250,53.122,False,False
+170133,CO,Yes,Nonpartisan,4633,46.878,False,False
+170019,CO,No,Nonpartisan,61844,62.404,False,False
+170019,CO,Yes,Nonpartisan,37258,37.596,False,False
+160456,CO,Yes,Nonpartisan,116486,70.843,False,False
+160456,CO,No,Nonpartisan,47943,29.157,False,False
+170628,CO,R. Glenn Boyd,Unaffiliated,2308,100.0,False,False
+170542,CO,Karrie L. Apple,Republican,3904,60.052,False,False
+170542,CO,Joseph Mestas,Democratic,2597,39.948,False,False
+170655,CO,Jana Coen,Republican,3089,100.0,False,False
+170242,CO,No,Nonpartisan,1007,77.402,False,False
+170242,CO,Yes,Nonpartisan,294,22.598,False,False
+170540,CO,Yes,Nonpartisan,89,61.379,False,False
+170540,CO,No,Nonpartisan,56,38.621,False,False
+160370,CO,Anthony Hartsook,Republican,23163,51.433,True,False
+160370,CO,Richard Bowness,Democratic,20835,46.264,False,False
+160370,CO,John H Sutton,Libertarian,1037,2.303,False,False
+160476,CO,Yes,Nonpartisan,119939,72.149,False,False
+160476,CO,No,Nonpartisan,46300,27.851,False,False
+160397,CO,Cindy Arcuri,Nonpartisan,59712,100.0,False,False
+170651,CO,Susan Marolt,Nonpartisan,764,29.521,False,False
+170651,CO,Britta Gustafson,Nonpartisan,721,27.859,False,False
+170651,CO,Thea Khan-Farooqi,Nonpartisan,430,16.615,False,False
+170651,CO,Brian McNellis,Nonpartisan,378,14.606,False,False
+170651,CO,Katie McKirahan,Nonpartisan,295,11.399,False,False
+160474,CO,Yes,Nonpartisan,122274,73.557,False,False
+160474,CO,No,Nonpartisan,43957,26.443,False,False
+160395,CO,Jessica Sandgren,Nonpartisan,27873,51.762,False,False
+160395,CO,Michael Farrington,Nonpartisan,25975,48.238,False,False
+170176,CO,Yes,Nonpartisan,4802,54.309,False,False
+170176,CO,No,Nonpartisan,4040,45.691,False,False
+170289,CO,Jozy Stegman,Republican,1307,100.0,False,False
+170062,CO,Yes,Nonpartisan,5140,77.667,False,False
+170062,CO,No,Nonpartisan,1478,22.333,False,False
+170174,CO,No,Nonpartisan,5970,63.028,False,False
+170174,CO,Yes,Nonpartisan,3502,36.972,False,False
+170639,CO,Steve D. Young,Republican,1566,100.0,False,False
+170745,CO,Elijah Hatch,Nonpartisan,18030,100.0,False,False
+170052,CO,No,Nonpartisan,16606,55.368,False,False
+170052,CO,Yes,Nonpartisan,13386,44.632,False,False
+160354,CO,David Rein,Democratic,28904,100.0,True,False
+170743,CO,Matt Turner,Republican,78203,59.743,False,False
+170743,CO,Fabian Rodriguez,Unaffiliated,52696,40.257,False,False
+170050,CO,No,Nonpartisan,1714,50.605,False,False
+170050,CO,Yes,Nonpartisan,1673,49.395,False,False
+170162,CO,Yes,Nonpartisan,216,89.627,False,False
+170162,CO,No,Nonpartisan,25,10.373,False,False
+170467,CO,Kathy Simillion,Democratic,6763,100.0,False,False
+170246,CO,No,Nonpartisan,3039,69.75,False,False
+170246,CO,Yes,Nonpartisan,1318,30.25,False,False
+170160,CO,Yes,Nonpartisan,293,50.257,False,False
+170160,CO,No,Nonpartisan,290,49.743,False,False
+170273,CO,PK Kaiser,Democratic,131831,63.997,False,False
+170273,CO,Jesse Lind,Republican,68288,33.15,False,False
+170273,CO,Lee D. Ormiston,Libertarian,5878,2.853,False,False
+170379,CO,Lance B. Boren,Republican,10467,67.015,False,False
+170379,CO,Jill Deneau,Democratic,5152,32.985,False,False
+170684,CO,Sonja Macys,Democratic,9101,100.0,False,False
+170377,CO,Jolene George,Republican,11486,100.0,False,False
+170490,CO,Andy Collins,Republican,491,100.0,False,False
+160505,CO,Yes,Nonpartisan,144285,68.761,False,False
+160505,CO,No,Nonpartisan,65551,31.239,False,False
+160419,CO,Yes,Nonpartisan,142543,80.692,False,False
+160419,CO,No,Nonpartisan,34107,19.308,False,False
+170207,CO,Yes,Nonpartisan,618,51.672,False,False
+170207,CO,No,Nonpartisan,578,48.328,False,False
+160311,CO,Terri Carver,Republican,51234,56.998,True,False
+160311,CO,William Delano Moses III,Democratic,38654,43.002,False,False
+160417,CO,Yes,Nonpartisan,137248,77.84,False,False
+160417,CO,No,Nonpartisan,39072,22.16,False,False
+170397,CO,Toby Damisch,Republican,102583,53.524,False,False
+170397,CO,Kara Garr,Democratic,89076,46.476,False,False
+170311,CO,No,Nonpartisan,1540,65.868,False,False
+170311,CO,Yes,Nonpartisan,798,34.132,False,False
+170232,CO,Yes,Nonpartisan,399,90.271,False,False
+170232,CO,No,Nonpartisan,43,9.729,False,False
+170203,CO,Yes,Nonpartisan,238,59.5,False,False
+170203,CO,No,Nonpartisan,162,40.5,False,False
+170309,CO,Three commissioners resident in districts to be elected only by voters resident in the district; plus two commissioners resident in any district to be elected by voters of the whole county.,Nonpartisan,60926,52.399,False,False
+170309,CO,Five commissioners resident in districts to be elected only by voters resident in the district,Nonpartisan,55347,47.601,False,False
+170230,CO,Yes,Nonpartisan,417,93.08,False,False
+170230,CO,No,Nonpartisan,31,6.92,False,False
+170528,CO,No,Nonpartisan,31,53.448,False,False
+170528,CO,Yes,Nonpartisan,27,46.552,False,False
+170641,CO,David Romero Jr.,Republican,1546,100.0,False,False
+170420,CO,Scott Gilson,Nonpartisan,2775,51.705,False,False
+170420,CO,Alex Valderrama,Nonpartisan,2592,48.295,False,False
+170526,CO,Heath Speckman,Republican,2494,100.0,False,False
+170105,CO,No,Nonpartisan,630,62.376,False,False
+170105,CO,Yes,Nonpartisan,380,37.624,False,False
+170410,CO,Andie Noakes,Democratic,14062,64.389,False,False
+170410,CO,Christopher Buono,Republican,7777,35.611,False,False
+170189,CO,Kenneth Kimple,Nonpartisan,3114,60.975,False,False
+170189,CO,Laura Kronick,Nonpartisan,1993,39.025,False,False
+170103,CO,No,Nonpartisan,922,59.216,False,False
+170103,CO,Yes,Nonpartisan,635,40.784,False,False
+170408,CO,Becky Close,Unaffiliated,16319,100.0,False,False
+170514,CO,Randy B. Gorton,Republican,2519,100.0,False,False
+160344,CO,Amy T Paschal,Democratic,24595,59.827,True,False
+160344,CO,Adriana Cuva,Republican,16515,40.173,False,False
+170598,CO,Tressa Guynes,Republican,15183,100.0,False,False
+170512,CO,Alexandra Navarro,Republican,1656,58.187,False,False
+170512,CO,Abbey Mullis,Democratic,1190,41.813,False,False
+170625,CO,Susie Mayfield,Unaffiliated,2337,100.0,False,False
+160448,CO,Yes,Nonpartisan,122312,73.829,False,False
+160448,CO,No,Nonpartisan,43357,26.171,False,False
+170236,CO,Yes,Nonpartisan,7435,52.712,False,False
+170236,CO,No,Nonpartisan,6670,47.288,False,False
+160446,CO,Yes,Nonpartisan,106114,65.915,False,False
+160446,CO,No,Nonpartisan,54872,34.085,False,False
+170036,CO,No,Nonpartisan,106812,54.649,False,False
+170036,CO,Yes,Nonpartisan,88638,45.351,False,False
+170532,CO,Joann Ginal,Democratic,99155,61.263,False,False
+170532,CO,Steve Olson,Republican,62696,38.737,False,False
+170453,CO,Zane Laubhan,Democratic,2434,100.0,False,False
+170559,CO,Jeff Brekel,Republican,501,100.0,False,False
+170146,CO,Ryan Banks,Nonpartisan,563,100.0,False,False
+170259,CO,Gene R. Claps,Democratic,98697,62.391,False,False
+170259,CO,Mark Goodell,Republican,59494,37.609,False,False
+170749,CO,Grant Walker,Nonpartisan,282,22.742,False,False
+170749,CO,Christopher Carl Miller,Nonpartisan,258,20.806,False,False
+170749,CO,Marcia L. Aden,Nonpartisan,256,20.645,False,False
+170749,CO,Hayden Staggs,Nonpartisan,237,19.113,False,False
+170749,CO,Lorelei Hood,Nonpartisan,207,16.694,False,False
+160387,CO,Eliza Hamrick,Democratic,25545,59.137,True,False
+160387,CO,Scott Shamblin,Republican,16825,38.95,False,False
+160387,CO,Kevin Gulbranson,Libertarian,826,1.912,False,False
+160301,CO,Sherri M Wright,Republican,162417,50.94,False,False
+160301,CO,Barb Clementi,Democratic,156423,49.06,False,False
+170555,CO,Pam Bacon,Republican,6504,100.0,False,False
+160385,CO,Katie Stewart,Democratic,27432,59.132,True,False
+160385,CO,Naomi Riess,Republican,18959,40.868,False,False
+160491,CO,Yes,Nonpartisan,111601,74.922,False,False
+160491,CO,No,Nonpartisan,37356,25.078,False,False
+170279,CO,Randy Betts,Republican,4371,100.0,False,False
+160518,CO,Yes,Nonpartisan,1580,66.921,False,False
+160518,CO,No,Nonpartisan,781,33.079,False,False
+160489,CO,Yes,Nonpartisan,140137,79.707,False,False
+160489,CO,No,Nonpartisan,35679,20.293,False,False
+170277,CO,Doug Kelsall,Nonpartisan,1814,100.0,False,False
+160516,CO,Yes,Nonpartisan,2791,77.787,False,False
+160516,CO,No,Nonpartisan,797,22.213,False,False
+160479,CO,Yes,Nonpartisan,74725,78.569,False,False
+160479,CO,No,Nonpartisan,20383,21.431,False,False
+170733,CO,Richard Alonso Holtorf,Republican,1873,100.0,False,False
+160371,CO,Max Brooks,Republican,27815,55.475,True,False
+160371,CO,Michael Clarkson,Democratic,21295,42.471,False,False
+160371,CO,Caryn Ann Harlos,Libertarian,1030,2.054,False,False
+160477,CO,Yes,Nonpartisan,79193,82.723,False,False
+160477,CO,No,Nonpartisan,16540,17.277,False,False
+170073,CO,Yes,Nonpartisan,421,64.571,False,False
+170073,CO,No,Nonpartisan,231,35.429,False,False
+170371,CO,Lloyd Rich Smith,Republican,2071,100.0,False,False
+170150,CO,No,Nonpartisan,246,72.353,False,False
+170150,CO,Yes,Nonpartisan,94,27.647,False,False
+170065,CO,Yes,Nonpartisan,9329,57.318,False,False
+170065,CO,No,Nonpartisan,6947,42.682,False,False
+170177,CO,Yes,Nonpartisan,5989,62.85,False,False
+170177,CO,No,Nonpartisan,3540,37.15,False,False
+170482,CO,Elisha Meadows,Democratic,2646,100.0,False,False
+160305,CO,Nolbert Chavez,Democratic,192239,57.265,False,False
+160305,CO,Paul Mueller,Republican,130005,38.727,False,False
+160305,CO,BetteRose Ryan,Libertarian,13455,4.008,False,False
+170480,CO,Erica Vigil,Unaffiliated,2878,100.0,False,False
+170586,CO,No,Nonpartisan,2589,53.949,False,False
+170586,CO,Yes,Nonpartisan,2210,46.051,False,False
+160409,CO,Yes,Nonpartisan,144170,68.451,False,False
+160409,CO,No,Nonpartisan,66447,31.549,False,False
+160330,CO,Cecelia Espenoza,Democratic,30763,84.824,True,False
+160330,CO,Ellwood Ervin,Republican,4786,13.197,False,False
+160330,CO,Bill Hare,Forward,718,1.98,False,False
+160436,CO,Yes,Nonpartisan,19877,55.651,False,False
+160436,CO,No,Nonpartisan,15840,44.349,False,False
+170498,CO,Robert Hennessy,Republican,162099,100.0,False,False
+170611,CO,Tim Amen,Republican,7938,100.0,False,False
+170109,CO,Vernon E. Bruse,Nonpartisan,117,36.0,False,False
+170109,CO,Wyatt A. Ransom,Nonpartisan,105,32.308,False,False
+170109,CO,N. J. Fulmer,Nonpartisan,103,31.692,False,False
+170222,CO,No,Nonpartisan,80,76.19,False,False
+170222,CO,Yes,Nonpartisan,25,23.81,False,False
+170136,CO,No,Nonpartisan,2217,56.326,False,False
+170136,CO,Yes,Nonpartisan,1719,43.674,False,False
+160432,CO,No,Nonpartisan,34496,58.555,False,False
+160432,CO,Yes,Nonpartisan,24416,41.445,False,False
+170220,CO,No,Nonpartisan,9830,60.705,False,False
+170220,CO,Yes,Nonpartisan,6363,39.295,False,False
+170326,CO,Sophia Gibb,Democratic,8741,100.0,False,False
+170631,CO,Milena Kassel,Republican,5544,61.73,False,False
+170631,CO,Tali Thomason,Democratic,3437,38.27,False,False
+170545,CO,Derek J. Navarette,Democratic,3665,57.185,False,False
+170545,CO,John Johnson,Republican,2744,42.815,False,False
+170324,CO,Yes,Nonpartisan,19299,50.091,False,False
+170324,CO,No,Nonpartisan,19229,49.909,False,False
+170629,CO,No,Nonpartisan,1900,56.733,False,False
+170629,CO,Yes,Nonpartisan,1449,43.267,False,False
+170543,CO,Sarah A. Martinez,Democratic,3526,54.922,False,False
+170543,CO,Luis A. Lopez II,Republican,2894,45.078,False,False
+160373,CO,Ty Winter,Republican,22936,62.727,True,False
+160373,CO,Vic Meyers,Democratic,13629,37.273,False,False
+87010,CO,Melat Kiros,Democratic,239082,78.359,True,False
+87010,CO,Christy Peterson,Republican,43070,14.116,False,False
+87010,CO,Shimon Blau,Independent,16650,5.457,False,False
+87010,CO,Chad Humphrey,Libertarian,5172,1.695,False,False
+87010,CO,Critter Milton,Unity,1136,0.372,False,False
+87010,CO,Kevin StClair,Write-In,0,0.0,False,False
+87010,CO,John Wren,Write-In,0,0.0,False,False
+87010,CO,Stephen Replin,Write-In,0,0.0,False,False
+87015,CO,Jason Crow,Democratic,195047,65.733,True,False
+87015,CO,Jason Clark,Republican,92314,31.111,False,False
+87015,CO,Patty McMahon,Libertarian,4687,1.58,False,False
+87015,CO,Samir Witta,Independent,2761,0.93,False,False
+87015,CO,Meredith Ryan,Unity,1916,0.646,False,False
+87016,CO,Brittany Pettersen,Democratic,230008,60.714,True,False
+87016,CO,Tim Bennett,Republican,136948,36.15,False,False
+87016,CO,Joe Krzeczkowski,Independent,4539,1.198,False,False
+87016,CO,"Dan ""Kilo"" Sallis",Libertarian,4216,1.113,False,False
+87016,CO,Susan Hall,Unity,1802,0.476,False,False
+87016,CO,Lawrence Kyle Clark,American Constitution,1323,0.349,False,False
+87014,CO,Jessica Killin,Democratic,157799,50.696,True,False
+87014,CO,Jeff Crank,Republican,141984,45.615,False,False
+87014,CO,"Mark ""Marky Jr"" Elworth",Libertarian,6088,1.956,False,False
+87014,CO,Christopher Mitchell,American Constitution,5397,1.734,False,False
+87014,CO,Steven Fuller,Write-In,0,0.0,False,False
+87013,CO,Eileen Laubacher,Democratic,187745,48.802,True,False
+87013,CO,Lauren Boebert,Republican,184220,47.886,False,False
+87013,CO,Douglas Mangeris,Libertarian,12742,3.312,False,False
+87013,CO,Luis Galvan,Write-In,0,0.0,False,False
+87011,CO,Joe Neguse,Democratic,278499,74.679,True,False
+87011,CO,Kelley Anne Dennison,Republican,87354,23.424,False,False
+87011,CO,Gaylon Kent,Libertarian,7075,1.897,False,False
+87017,CO,Manny Rutinel,Democratic,160954,55.515,True,False
+87017,CO,Gabe Evans,Republican,117709,40.599,False,False
+87017,CO,Dave Wood,Libertarian,11268,3.886,False,False
+87022,CO,John Hickenlooper,Democratic,1629507,60.498,True,False
+87022,CO,Mark Baisley,Republican,942089,34.976,False,False
+87022,CO,Bob Chew,Forward,70794,2.628,False,False
+87022,CO,Blake Huber,Libertarian,33136,1.23,False,False
+87022,CO,Adam Withrow,Unity,13717,0.509,False,False
+87022,CO,Christopher Baum,Approval Voting,4268,0.158,False,False
+87022,CO,Donald Willoughby,Write-In,0,0.0,False,False
+87022,CO,Will Powers,Write-In,0,0.0,False,False
+87022,CO,Ryan Apelbaum,Write-In,0,0.0,False,False
+87012,CO,Jeff Hurd,Republican,165497,49.247,True,False
+87012,CO,Dwayne L. Romero,Democratic,159512,47.466,False,False
+87012,CO,Cory Robertson,Libertarian,5645,1.68,False,False
+87012,CO,Clifton Brown,Independent,5400,1.607,False,False

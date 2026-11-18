@@ -1,0 +1,812 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+159513,FL,Florida State Senate,2026-11-03,94,,False,5,19,3800027,2026-11-18T13:05+00:00
+87070,FL,Florida Attorney General,2026-11-03,98.5,2026-11-04T06:53:42.308Z,False,2,67,8211391,2026-11-18T13:05+00:00
+159512,FL,Florida State House,2026-11-03,97.4,,False,7,92,6509240,2026-11-18T13:05+00:00
+87069,FL,Florida Governor,2026-11-03,92.6,2026-11-04T02:18:31.025Z,False,9,67,8279515,2026-11-18T13:05+00:00
+151043,FL,Florida Amendment 3 - Increased Homestead Exemption; Lower Cap on Increases in Non-Homestead Property Assessments,2026-11-03,98.5,2026-11-04T06:53:42.308Z,False,2,67,7942390,2026-11-18T13:05+00:00
+151041,FL,Florida Amendment 1 - Budget Stabilization Fund,2026-11-03,98.5,2026-11-04T06:53:42.308Z,False,2,67,7759787,2026-11-18T13:05+00:00
+151010,FL,Florida Supreme Court Justice Carlos G. Muniz Retention,2026-11-03,98.5,,False,2,67,7455745,2026-11-18T13:05+00:00
+87071,FL,Florida Chief Financial Officer,2026-11-03,98.5,2026-11-04T06:53:42.308Z,False,2,67,8158373,2026-11-18T13:05+00:00
+87072,FL,Florida Commissioner of Agriculture,2026-11-03,98.5,2026-11-17T03:50:43.245Z,False,3,67,8167494,2026-11-18T13:05+00:00
+151042,FL,Florida Amendment 2 - Exemption of Tangible Personal Property on Agricultural Land from Taxation,2026-11-03,98.5,2026-11-04T06:53:42.308Z,False,2,67,7811938,2026-11-18T13:05+00:00
+166279,FL,"North Miami Beach Group 6 Commissioner, Miami-Dade County",2026-11-03,92.3,,False,2,1,10013,2026-11-18T13:05+00:00
+150976,FL,Florida State House 72,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,91365,2026-11-18T13:05+00:00
+166345,FL,"PalmettoBay Village Owned Property, Miami-Dade County",2026-11-03,99.9,,False,2,1,10125,2026-11-18T13:05+00:00
+150992,FL,Florida State House 89,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,39558,2026-11-18T13:05+00:00
+166745,FL,"Lauderdale-by-the-Sea, Commissioner, Seat 2, Broward County",2026-11-03,99.9,,False,2,1,2905,2026-11-18T13:05+00:00
+166794,FL,"Deerfield Beach, Question A, Broward County",2026-11-03,99.9,,False,2,1,22387,2026-11-18T13:05+00:00
+166402,FL,Hillsborough County Board of County Commissioners District 5,2026-11-03,99.9,,False,2,1,508346,2026-11-18T13:05+00:00
+166810,FL,"Fort Lauderdale, Question 8, Broward County",2026-11-03,99.9,,False,2,1,58447,2026-11-18T13:05+00:00
+166418,FL,"Supervisor Lake St. Charles CDD Seat 2, Hillsborough County",2026-11-03,99.9,,False,2,1,772,2026-11-18T13:05+00:00
+166659,FL,"Oviedo, Charter Amendment Q4 Oviedo, Seminole County",2026-11-03,99.9,,False,2,1,16367,2026-11-18T13:05+00:00
+150922,FL,Florida State House 5,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,5,69634,2026-11-18T13:05+00:00
+166700,FL,St. Lucie County No. 6 Mosquito Control District,2026-11-03,99.9,,False,2,1,3099,2026-11-18T13:05+00:00
+166283,FL,"Palmetto Bay Council Member Seat 1, Miami-Dade County",2026-11-03,99.9,,False,2,1,9960,2026-11-18T13:05+00:00
+166349,FL,"PalmettoBay Roadway Improvements Projects, Miami-Dade County",2026-11-03,99.9,,False,2,1,10759,2026-11-18T13:05+00:00
+166757,FL,"Pompano Beach, Commissioner, District 4, Broward County",2026-11-03,99.9,,False,3,1,4519,2026-11-18T13:05+00:00
+166749,FL,"Margate, Commissioner, Seat 5, Broward County",2026-11-03,99.9,,False,3,1,17852,2026-11-18T13:05+00:00
+166357,FL,Duval County School Board - District 2,2026-11-03,99.9,,False,2,1,53726,2026-11-18T13:05+00:00
+166598,FL,"The Groves CDD Seat 1, Pasco County",2026-11-03,99.9,,False,2,1,852,2026-11-18T13:05+00:00
+166206,FL,"City of Archer Charter Amendment No. 2, Alachua County",2026-11-03,99.9,,False,2,1,363,2026-11-18T13:05+00:00
+166614,FL,Polk County School Board Referendum,2026-11-03,99.4,,False,2,1,246435,2026-11-18T13:05+00:00
+166222,FL,Bradford County Commissioner District 2,2026-11-03,99.9,,False,2,1,1936,2026-11-18T13:05+00:00
+166463,FL,"Leesburg Seat 1, District 1, Lake County",2026-11-03,99.9,,False,2,1,1509,2026-11-18T13:05+00:00
+166679,FL,St. Johns County Land Conservation Referendum,2026-11-03,99.9,,False,2,1,146515,2026-11-18T13:05+00:00
+166287,FL,"South Miami Mayor, Miami-Dade County",2026-11-03,99.9,,False,1,1,3854,2026-11-18T13:05+00:00
+166823,FL,"North Lauderdale, Question 1, Broward County",2026-11-03,99.9,,False,2,1,10401,2026-11-18T13:05+00:00
+150919,FL,Florida State House 2,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,2,68450,2026-11-18T13:05+00:00
+166288,FL,"South Miami Commissioner Group I, Miami-Dade County",2026-11-03,99.9,,False,1,1,3614,2026-11-18T13:05+00:00
+150935,FL,Florida State House 25,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,1,86162,2026-11-18T13:05+00:00
+166688,FL,"St. Lucie County School Board, District 3",2026-11-03,99.9,,False,2,1,112200,2026-11-18T13:05+00:00
+166538,FL,"Harrison Ranch CDD, Seat 2, Manatee County",2026-11-03,99.9,,False,2,1,1214,2026-11-18T13:05+00:00
+150993,FL,Florida State House 90,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,66968,2026-11-18T13:05+00:00
+166554,FL,"Parrish Fire District Referendum, Manatee County",2026-11-03,99.9,,False,2,1,15441,2026-11-18T13:05+00:00
+166354,FL,DeSoto County Commissioner District 2,2026-11-03,99.9,,False,3,1,9065,2026-11-18T13:05+00:00
+166595,FL,"Mirada CDD Seat 3, Pasco County",2026-11-03,99.9,,False,2,1,1553,2026-11-18T13:05+00:00
+166811,FL,"Fort Lauderdale, Question 9, Broward County",2026-11-03,99.9,,False,2,1,57826,2026-11-18T13:05+00:00
+166643,FL,"Seminole County Commissioner, District 4",2026-11-03,99.9,,False,2,1,192256,2026-11-18T13:05+00:00
+166827,FL,"North Lauderdale, Question 5, Broward County",2026-11-03,99.9,,False,2,1,10565,2026-11-18T13:05+00:00
+166268,FL,"El Portal Councilperson Seat 2, Miami-Dade County",2026-11-03,99.9,,False,3,1,933,2026-11-18T13:05+00:00
+166292,FL,"SunnyIslesBeach ResArea Commissioner Seat 4, Miami-Dade County",2026-11-03,99.9,,False,2,1,5399,2026-11-18T13:05+00:00
+166501,FL,Leon County Charter Amendment - Human Dignity,2026-11-03,99.9,,False,2,1,112446,2026-11-18T13:05+00:00
+166692,FL,"River Place on the St. Lucie, Seat 1",2026-11-03,99.9,,False,2,1,462,2026-11-18T13:05+00:00
+150948,FL,Florida State House 38,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,1,69483,2026-11-18T13:05+00:00
+166342,FL,"Opa-locka Comp Mayor/City Commissioners, Miami-Dade County",2026-11-03,62.5,,False,2,1,2842,2026-11-18T13:05+00:00
+166750,FL,"North Lauderdale, Mayor, At-Large, Broward County",2026-11-03,99.9,,False,3,1,11199,2026-11-18T13:05+00:00
+166550,FL,"City of Bradenton Referendum 1, Manatee County",2026-11-03,99.9,,False,2,1,15957,2026-11-18T13:05+00:00
+166766,FL,"Wilton Manors, Commissioner, Broward County",2026-11-03,99.9,,False,4,1,8933,2026-11-18T13:05+00:00
+166399,FL,"One-Half Cent Sales Surtax for Law Enforcement and Public Safety, Hernando County",2026-11-03,99.9,,False,2,1,77651,2026-11-18T13:05+00:00
+166615,FL,"Putnam County Board of County Commissioners, District 4",2026-11-03,99.9,,False,3,1,26255,2026-11-18T13:05+00:00
+166223,FL,"City of Crystal River - City Council - Seat 2, Citrus County",2026-11-03,99.9,,False,2,1,1174,2026-11-18T13:05+00:00
+166808,FL,"Fort Lauderdale, Question 6, Broward County",2026-11-03,99.9,,False,2,1,57118,2026-11-18T13:05+00:00
+166224,FL,Citrus County Community Charitable Foundation - Seat 2,2026-11-03,99.9,,False,2,1,63066,2026-11-18T13:05+00:00
+166632,FL,"City of Venice Council Member Seat 2, Sarasota County",2026-11-03,83.3,,False,3,1,14326,2026-11-18T13:05+00:00
+166624,FL,Sarasota County Board of County Commissioners District 4,2026-11-03,99.9,,False,2,1,48303,2026-11-18T13:05+00:00
+166481,FL,"Astatula Charter Amendment No. 3, Lake County",2026-11-03,66.7,,False,2,1,794,2026-11-18T13:05+00:00
+150936,FL,Florida State House 26,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,1,76948,2026-11-18T13:05+00:00
+166298,FL,"ConsAmdt3 Increased Homestead Exemption, Miami-Dade County",2026-11-03,0,,False,2,1,0,2026-11-18T13:05+00:00
+150945,FL,Florida State House 35,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,2,73158,2026-11-18T13:05+00:00
+166339,FL,"NMiaBeach Runoff Election/General Election, Miami-Dade County",2026-11-03,92.3,,False,2,1,10268,2026-11-18T13:05+00:00
+166555,FL,"City Commissioner Dist IV, Monroe County",2026-11-03,85.7,,False,2,1,1852,2026-11-18T13:05+00:00
+166771,FL,"Orchid Grove Community Development District, Seat 5, Broward County",2026-11-03,99.9,,False,2,1,324,2026-11-18T13:05+00:00
+166571,FL,"School District operating expenses, Marion County",2026-11-03,0.9,,False,2,1,155149,2026-11-18T13:05+00:00
+166204,FL,"City of Gainesville Charter Amendment, Alachua County",2026-11-03,90.9,,False,2,1,39913,2026-11-18T13:05+00:00
+166228,FL,"Fleming Island Plantation Community Development District, Seat 5, Clay County",2026-11-03,99.9,,False,2,1,2565,2026-11-18T13:05+00:00
+166444,FL,Jefferson County Board of County Commissioners - District 4,2026-11-03,99.9,,False,2,1,1762,2026-11-18T13:05+00:00
+166628,FL,Sarasota County School Board Member District 1,2026-11-03,99.9,,False,2,1,196934,2026-11-18T13:05+00:00
+150940,FL,Florida State House 30,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,2,82437,2026-11-18T13:05+00:00
+166494,FL,"City Commissioner, Seat 3, Leon County",2026-11-03,99.9,,False,2,1,69191,2026-11-18T13:05+00:00
+166294,FL,"Virginia Gardens Council, Miami-Dade County",2026-11-03,99.9,,False,3,1,1110,2026-11-18T13:05+00:00
+166510,FL,"Tim Osterhaus, Levy County",2026-11-03,99.9,,False,2,1,16281,2026-11-18T13:05+00:00
+150990,FL,Florida State House 87,2026-11-03,99.9,2026-11-12T01:54:12.313Z,False,2,1,76359,2026-11-18T13:05+00:00
+166359,FL,Duval County School Board - District 6,2026-11-03,99.9,,False,2,1,46628,2026-11-18T13:05+00:00
+166767,FL,"Central Broward Water Control District, Zone 6",2026-11-03,92.3,,False,2,1,8300,2026-11-18T13:05+00:00
+166567,FL,Marion County Board of County Commissioners - District 4,2026-11-03,0.9,,False,2,1,132490,2026-11-18T13:05+00:00
+166768,FL,"Coral Springs Improvement District, Seat 4, Broward County",2026-11-03,99.9,,False,2,1,12011,2026-11-18T13:05+00:00
+166376,FL,"City of Palm Coast Charter Amendment 1, Flagler County",2026-11-03,99.9,,False,2,1,43437,2026-11-18T13:05+00:00
+166368,FL,"School District Referendum - Continue current one (1) mill ad valorem millage?, Duval County",2026-11-03,99.9,,False,2,1,339057,2026-11-18T13:05+00:00
+166417,FL,"Supervisor Lake St. Charles CDD Seat 1, Hillsborough County",2026-11-03,99.9,,False,3,1,959,2026-11-18T13:05+00:00
+166633,FL,"City of Venice Council Member Seat 5, Sarasota County",2026-11-03,83.3,,False,2,1,14203,2026-11-18T13:05+00:00
+166433,FL,"Country Run Special Tax District Referendum, Hillsborough County",2026-11-03,99.9,,False,2,1,311,2026-11-18T13:05+00:00
+166233,FL,"Protect Student Safety and Retain Quality Teachers and Staff by Renewing an Ad Valorem Millage, Clay County",2026-11-03,99.9,,False,2,1,90419,2026-11-18T13:05+00:00
+166282,FL,"Palmetto Bay Mayor, Miami-Dade County",2026-11-03,99.9,,False,3,1,10717,2026-11-18T13:05+00:00
+166299,FL,"CntyChatAmdt Independent Salary Commission, Miami-Dade County",2026-11-03,94.3,,False,2,1,717196,2026-11-18T13:05+00:00
+166707,FL,"Village Community Development District 13 Seat 4, Sumter County",2026-11-03,99.9,,False,2,1,7266,2026-11-18T13:05+00:00
+166315,FL,"Miami Gen Obligation Bonds Oversight Cmte, Miami-Dade County",2026-11-03,92.9,,False,2,1,91698,2026-11-18T13:05+00:00
+166748,FL,"Margate, Commissioner, Seat 3, Broward County",2026-11-03,99.9,,False,4,1,18323,2026-11-18T13:05+00:00
+151011,FL,Florida District Court of Appeal 1 Judge Joseph Lewis Jr. Retention,2026-11-03,93.4,,False,2,29,730967,2026-11-18T13:05+00:00
+151035,FL,Florida Circuit Judge Circuit 11 Group 69,2026-11-03,94.3,,False,2,1,684101,2026-11-18T13:05+00:00
+166372,FL,"City of Palm Coast Council Member, District 2, Flagler County",2026-11-03,99.9,,False,2,1,40465,2026-11-18T13:05+00:00
+166637,FL,"Lakewood Ranch Stewardship Development District Seat 3, Sarasota County",2026-11-03,0,,False,2,1,0,2026-11-18T13:05+00:00
+166245,FL,"Talis Park CDD, Seat 3, Collier County",2026-11-03,99.9,,False,2,1,440,2026-11-18T13:05+00:00
+166237,FL,"City of Naples Airport Authority, Seat 5, Collier County",2026-11-03,99.9,,False,5,1,129535,2026-11-18T13:05+00:00
+166261,FL,"Cutler Bay Mayor, Miami-Dade County",2026-11-03,83.3,,False,4,1,14917,2026-11-18T13:05+00:00
+150933,FL,Florida State House 22,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,3,78819,2026-11-18T13:05+00:00
+150950,FL,Florida State House 40,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,1,52349,2026-11-18T13:05+00:00
+166511,FL,"Clay Roberts, Levy County",2026-11-03,99.9,,False,2,1,16287,2026-11-18T13:05+00:00
+166311,FL,"CGables Sale of certain city-owned property, Miami-Dade County",2026-11-03,99.9,,False,2,1,20168,2026-11-18T13:05+00:00
+166552,FL,"City of Holmes Beach Referendum, Manatee County",2026-11-03,99.9,,False,2,1,1534,2026-11-18T13:05+00:00
+150967,FL,Florida State House 61,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,75610,2026-11-18T13:05+00:00
+150959,FL,Florida State House 52,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,2,115085,2026-11-18T13:05+00:00
+151008,FL,Florida State House 118,2026-11-03,98.1,2026-11-04T07:09:42.050Z,False,2,1,62016,2026-11-18T13:05+00:00
+166377,FL,"City of Palm Coast Charter Amendment 2, Flagler County",2026-11-03,99.9,,False,2,1,43098,2026-11-18T13:05+00:00
+151024,FL,Florida District Court of Appeal 3 Judge Bronwyn Catherine Miller Retention,2026-11-03,94.5,,False,2,2,729037,2026-11-18T13:05+00:00
+166777,FL,"Turtle Run Community Development District, Seat 1, Broward County",2026-11-03,99.9,,False,2,1,1181,2026-11-18T13:05+00:00
+166826,FL,"North Lauderdale, Question 4, Broward County",2026-11-03,99.9,,False,2,1,10708,2026-11-18T13:05+00:00
+166434,FL,Indian River County Board of County Commissioners District 2,2026-11-03,97.3,,False,3,1,76023,2026-11-18T13:05+00:00
+166650,FL,"Longwood, Comm, Dist 3 Longwood, Seminole County",2026-11-03,99.9,,False,3,1,5646,2026-11-18T13:05+00:00
+166258,FL,"Coral Gables for Mayor Group I, Miami-Dade County",2026-11-03,99.9,,False,3,1,19904,2026-11-18T13:05+00:00
+166691,FL,Port St. Lucie City Council District 1,2026-11-03,99.9,,False,2,1,83345,2026-11-18T13:05+00:00
+166708,FL,Sumter County No. 1 County Referendum,2026-11-03,99.9,,False,2,1,87816,2026-11-18T13:05+00:00
+166732,FL,"Dania Beach, Commissioner, Broward County",2026-11-03,99.9,,False,6,1,11710,2026-11-18T13:05+00:00
+150963,FL,Florida State House 57,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,84895,2026-11-18T13:05+00:00
+166381,FL,Gadsden County School Board Member District 2,2026-11-03,99.9,,False,2,1,3848,2026-11-18T13:05+00:00
+166789,FL,"Coconut Creek, Question 4, Broward County",2026-11-03,99.9,,False,2,1,17765,2026-11-18T13:05+00:00
+166781,FL,"Walnut Creek Community Development District, Seat 3, Broward County",2026-11-03,99.9,,False,2,1,1040,2026-11-18T13:05+00:00
+166389,FL,Hamilton County School Board Member District 4,2026-11-03,99.9,,False,2,1,986,2026-11-18T13:05+00:00
+166630,FL,"City of North Port Commissioner District Seat 5, Sarasota County",2026-11-03,93.8,,False,2,1,34817,2026-11-18T13:05+00:00
+166238,FL,"Collier Mosquito Control District, Seat 2",2026-11-03,99.9,,False,2,1,133970,2026-11-18T13:05+00:00
+166454,FL,"Clermont City Council, Seat 3 (Mayor), Lake County",2026-11-03,99.9,,False,2,1,19083,2026-11-18T13:05+00:00
+166254,FL,Miami-Dade County Commissioner District 5,2026-11-03,98.2,,False,2,1,45267,2026-11-18T13:05+00:00
+166296,FL,"ConsAmdt1 Budget Stabilization Fund, Miami-Dade County",2026-11-03,0,,False,2,1,0,2026-11-18T13:05+00:00
+166512,FL,"Raymond Treadwell, Levy County",2026-11-03,99.9,,False,2,1,16293,2026-11-18T13:05+00:00
+150902,FL,Florida State Senate 8,2026-11-03,99.9,2026-11-04T07:09:42.047Z,False,3,2,225411,2026-11-18T13:05+00:00
+166705,FL,"Village Community Development District 2 Seat 2, Sumter County",2026-11-03,99.9,,False,2,1,2946,2026-11-18T13:05+00:00
+150968,FL,Florida State House 64,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,44371,2026-11-18T13:05+00:00
+166721,FL,Walton County Commissioner,2026-11-03,99.9,,False,2,1,29661,2026-11-18T13:05+00:00
+166521,FL,"Bradenton City Council, Ward 3, Manatee County",2026-11-03,99.9,,False,2,1,15258,2026-11-18T13:05+00:00
+166570,FL,"Soil & Water Conservation District - District 5, Marion County",2026-11-03,0.9,,False,2,1,133843,2026-11-18T13:05+00:00
+151025,FL,Florida District Court of Appeal 4 Judge Alan O. Forst Retention,2026-11-03,98.1,,False,2,6,1361427,2026-11-18T13:05+00:00
+166586,FL,"Abbott Square CDD Seat 5, Pasco County",2026-11-03,99.9,,False,2,1,411,2026-11-18T13:05+00:00
+166386,FL,Gulf County School Board District 1,2026-11-03,99.9,,False,2,1,1261,2026-11-18T13:05+00:00
+166627,FL,"Charter Review Board District 5, Sarasota County",2026-11-03,99.9,,False,2,1,216083,2026-11-18T13:05+00:00
+166651,FL,"Winter Springs, Mayor Winter Springs, Seminole County",2026-11-03,90.9,,False,2,1,16464,2026-11-18T13:05+00:00
+166675,FL,"Sweetwater Creek Community Development District Seat 1, St. Johns County",2026-11-03,99.9,,False,2,1,963,2026-11-18T13:05+00:00
+150906,FL,Florida State Senate 18,2026-11-03,99.9,2026-11-12T01:54:12.313Z,False,2,1,213047,2026-11-18T13:05+00:00
+150972,FL,Florida State House 68,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,63529,2026-11-18T13:05+00:00
+166533,FL,"Copperstone CDD, Seat 1, Manatee County",2026-11-03,99.9,,False,2,1,476,2026-11-18T13:05+00:00
+166525,FL,"City of Palmetto Commissioner, Ward 2, Manatee County",2026-11-03,99.9,,False,2,1,1865,2026-11-18T13:05+00:00
+150980,FL,Florida State House 76,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,3,82014,2026-11-18T13:05+00:00
+166374,FL,"Grand Haven CDD, Seat 3, Flagler County",2026-11-03,99.9,,False,3,1,1956,2026-11-18T13:05+00:00
+166782,FL,"Broward County, Question 1",2026-11-03,99.9,,False,2,1,613261,2026-11-18T13:05+00:00
+166582,FL,Pasco County Commissioner District 2,2026-11-03,99.9,,False,2,1,236284,2026-11-18T13:05+00:00
+166798,FL,"Deerfield Beach, Question E, Broward County",2026-11-03,99.9,,False,2,1,22556,2026-11-18T13:05+00:00
+166431,FL,No. 2 Hillsborough County Referendum,2026-11-03,99.9,,False,2,1,490089,2026-11-18T13:05+00:00
+166455,FL,"Clermont City Council, Seat 5, Lake County",2026-11-03,99.9,,False,2,1,18393,2026-11-18T13:05+00:00
+150910,FL,Florida State Senate 26,2026-11-03,99.9,2026-11-04T07:09:42.047Z,False,2,1,233129,2026-11-18T13:05+00:00
+166648,FL,"Casselberry, Comm, Seat 2 Casselberry, Seminole County",2026-11-03,99.9,,False,3,1,9151,2026-11-18T13:05+00:00
+150911,FL,Florida State Senate 28,2026-11-03,99.9,2026-11-04T07:09:42.047Z,False,2,3,228937,2026-11-18T13:05+00:00
+166664,FL,St. Johns County Anastasia Mosquito Control District Seat 2,2026-11-03,99.9,,False,4,1,124695,2026-11-18T13:05+00:00
+166464,FL,"Leesburg Seat 2, District 2, Lake County",2026-11-03,99.9,,False,2,1,1695,2026-11-18T13:05+00:00
+166314,FL,"Miami Safe and Ready: Bonds Police/Fire, Miami-Dade County",2026-11-03,92.9,,False,2,1,95658,2026-11-18T13:05+00:00
+166722,FL,"Joseph Lewis Jr., Walton County",2026-11-03,99.9,,False,2,1,31181,2026-11-18T13:05+00:00
+166330,FL,"MiamiLakes Comte/Intergovt Rel/Ann Address, Miami-Dade County",2026-11-03,99.9,,False,2,1,10365,2026-11-18T13:05+00:00
+150977,FL,Florida State House 73,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,89449,2026-11-18T13:05+00:00
+166371,FL,"Flagler County School Board, District 4",2026-11-03,99.9,,False,2,1,54338,2026-11-18T13:05+00:00
+166587,FL,"Bexley CDD Seat 3, Pasco County",2026-11-03,99.9,,False,2,1,1506,2026-11-18T13:05+00:00
+166611,FL,"Lake Ashton II CDD Seat 1, Polk County",2026-11-03,99.9,,False,2,1,817,2026-11-18T13:05+00:00
+166603,FL,"Zephyr Ridge CDD Seat 5, Pasco County",2026-11-03,99.9,,False,2,1,318,2026-11-18T13:05+00:00
+166236,FL,"City of Naples Airport Authority, Seat 4, Collier County",2026-11-03,99.9,,False,2,1,133687,2026-11-18T13:05+00:00
+150915,FL,Florida State Senate 36,2026-11-03,94.6,2026-11-12T01:54:12.313Z,False,2,1,140608,2026-11-18T13:05+00:00
+166476,FL,"Avalon Groves CDD Board, Seat 5, Lake County",2026-11-03,99.9,,False,2,1,1395,2026-11-18T13:05+00:00
+166468,FL,"Minneola Council Member, Seat 1, Lake County",2026-11-03,99.9,,False,2,1,6740,2026-11-18T13:05+00:00
+150965,FL,Florida State House 59,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,67456,2026-11-18T13:05+00:00
+166526,FL,"East Manatee Fire Rescue, Seat 3",2026-11-03,99.9,,False,2,1,45268,2026-11-18T13:05+00:00
+166326,FL,"MiamiLakes Terminology/Grammatical Cleanup, Miami-Dade County",2026-11-03,99.9,,False,2,1,10578,2026-11-18T13:05+00:00
+166542,FL,"Lakewood Ranch Stewardship, Seat 3, Manatee County",2026-11-03,0,,False,2,1,0,2026-11-18T13:05+00:00
+151022,FL,Florida District Court of Appeal 3 Judge Fleur Jeannine Lobree Retention,2026-11-03,94.5,,False,2,2,731079,2026-11-18T13:05+00:00
+166391,FL,HARDEE COUNTY SCHOOL DISTRICT AD VALOREM MILLAGE REFERENDUM,2026-11-03,99.9,,False,2,1,5867,2026-11-18T13:05+00:00
+166799,FL,"Deerfield Beach, Question F, Broward County",2026-11-03,99.9,,False,2,1,22244,2026-11-18T13:05+00:00
+166599,FL,"The Groves CDD Seat 2, Pasco County",2026-11-03,99.9,,False,2,1,825,2026-11-18T13:05+00:00
+166800,FL,"Deerfield Beach, Question G, Broward County",2026-11-03,99.9,,False,2,1,22318,2026-11-18T13:05+00:00
+166408,FL,"Supervisor Avelar Creek CDD Seat 4, Hillsborough County",2026-11-03,99.9,,False,2,1,447,2026-11-18T13:05+00:00
+166400,FL,Hillsborough County Board of County Commissioners District 1,2026-11-03,99.9,,False,2,1,118679,2026-11-18T13:05+00:00
+166257,FL,"Biscayne Park Commissioner, Miami-Dade County",2026-11-03,99.9,,False,3,1,1632,2026-11-18T13:05+00:00
+166665,FL,St. Johns County Anastasia Mosquito Control District Seat 4,2026-11-03,99.9,,False,4,1,121502,2026-11-18T13:05+00:00
+166273,FL,"Medley for Council Member, Miami-Dade County",2026-11-03,66.7,,False,5,1,819,2026-11-18T13:05+00:00
+150920,FL,Florida State House 3,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,2,68209,2026-11-18T13:05+00:00
+150962,FL,Florida State House 56,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,55070,2026-11-18T13:05+00:00
+166331,FL,"MiamiLakes Chtr Revision Commission Process, Miami-Dade County",2026-11-03,99.9,,False,2,1,10226,2026-11-18T13:05+00:00
+166739,FL,"Hallandale Beach, Commissioner, Seat 2, Broward County",2026-11-03,99.9,,False,2,1,9065,2026-11-18T13:05+00:00
+166347,FL,"PalmettoBay Single Mbr Dist Councilmembers, Miami-Dade County",2026-11-03,99.9,,False,2,1,9827,2026-11-18T13:05+00:00
+166780,FL,"Walnut Creek Community Development District, Seat 1, Broward County",2026-11-03,99.9,,False,2,1,1021,2026-11-18T13:05+00:00
+166804,FL,"Fort Lauderdale, Question 2, Broward County",2026-11-03,99.9,,False,2,1,59059,2026-11-18T13:05+00:00
+166220,FL,"City of Panama City Charter Officers, Bay County",2026-11-03,99.9,,False,2,1,11240,2026-11-18T13:05+00:00
+166404,FL,Hillsborough County School Board Member District 2,2026-11-03,99.9,,False,2,1,110238,2026-11-18T13:05+00:00
+166669,FL,"St. Augustine Port, Waterway, and Beach Commission Group 5, St. Johns County",2026-11-03,90.5,,False,2,1,27988,2026-11-18T13:05+00:00
+166277,FL,"North Miami Beach Group 2 Commissioner, Miami-Dade County",2026-11-03,92.3,,False,3,1,10041,2026-11-18T13:05+00:00
+150924,FL,Florida State House 9,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,3,89983,2026-11-18T13:05+00:00
+166293,FL,"Virginia Gardens Mayor, Miami-Dade County",2026-11-03,99.9,,False,2,1,840,2026-11-18T13:05+00:00
+166719,FL,"Town of Interlachen Charter Amendment, Question 2, Putnam County",2026-11-03,99.9,,False,2,1,451,2026-11-18T13:05+00:00
+150982,FL,Florida State House 78,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,65688,2026-11-18T13:05+00:00
+166543,FL,"Legends Bay CDD, Seat 3, Manatee County",2026-11-03,99.9,,False,2,1,161,2026-11-18T13:05+00:00
+166343,FL,"Opa-locka Comp Mayor/Comm Health/Life Ins, Miami-Dade County",2026-11-03,62.5,,False,2,1,2824,2026-11-18T13:05+00:00
+166584,FL,Pasco County School Board Member District 3,2026-11-03,99.9,,False,2,1,208914,2026-11-18T13:05+00:00
+150999,FL,Florida State House 101,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,50636,2026-11-18T13:05+00:00
+150991,FL,Florida State House 88,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,43406,2026-11-18T13:05+00:00
+151040,FL,Florida Tolomato Community Development District Seat 5,2026-11-03,99.9,,False,2,2,11066,2026-11-18T13:05+00:00
+166409,FL,"Supervisor Cory Lakes CDD Seat 5, Hillsborough County",2026-11-03,99.9,,False,2,1,1266,2026-11-18T13:05+00:00
+166209,FL,Bay County School Board Member District 3,2026-11-03,99.9,,False,2,1,61795,2026-11-18T13:05+00:00
+166809,FL,"Fort Lauderdale, Question 7, Broward County",2026-11-03,99.9,,False,2,1,56585,2026-11-18T13:05+00:00
+150905,FL,Florida State Senate 14,2026-11-03,99.9,2026-11-04T07:09:42.047Z,False,2,1,193830,2026-11-18T13:05+00:00
+166274,FL,"MiamiGardens Res Area Council Member Seat 4, Miami-Dade County",2026-11-03,99.9,,False,2,1,7279,2026-11-18T13:05+00:00
+166682,FL,"St. Lucie County Commissioner, District 4",2026-11-03,99.9,,False,3,1,134832,2026-11-18T13:05+00:00
+166290,FL,"Sunny Isles Beach Mayor, Miami-Dade County",2026-11-03,99.9,,False,3,1,6122,2026-11-18T13:05+00:00
+166524,FL,"City of Holmes Beach Commissioner City of Holmes Beach, Manatee County",2026-11-03,99.9,,False,3,1,2454,2026-11-18T13:05+00:00
+166740,FL,"Hollywood, Commissioner, District 1, Broward County",2026-11-03,99.9,,False,3,1,8476,2026-11-18T13:05+00:00
+166764,FL,"Weston, Commissioner, Seat 4, Broward County",2026-11-03,99.9,,False,2,1,21453,2026-11-18T13:05+00:00
+150995,FL,Florida State House 92,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,89438,2026-11-18T13:05+00:00
+166413,FL,"Supervisor Harbor Bay CDD Seat 2, Hillsborough County",2026-11-03,99.9,,False,2,1,1725,2026-11-18T13:05+00:00
+166821,FL,"Lauderdale-by-the-Sea, Question 7, Broward County",2026-11-03,99.9,,False,2,1,2928,2026-11-18T13:05+00:00
+166813,FL,"Hollywood, Question 1, Broward County",2026-11-03,99.9,,False,2,1,41220,2026-11-18T13:05+00:00
+166229,FL,"Magnolia West Community Development District, Seat 3, Clay County",2026-11-03,99.9,,False,2,1,470,2026-11-18T13:05+00:00
+166662,FL,"City of St. Augustine Commission Seat 5, St. Johns County",2026-11-03,99.9,,False,2,1,6201,2026-11-18T13:05+00:00
+150925,FL,Florida State House 10,2026-11-03,94.9,2026-11-04T07:09:42.048Z,False,3,5,64487,2026-11-18T13:05+00:00
+166486,FL,"Umatilla Ballot Question Number 2, Lake County",2026-11-03,99.9,,False,2,1,1599,2026-11-18T13:05+00:00
+166286,FL,"Pinecrest Councilmember Seat 4, Miami-Dade County",2026-11-03,99.9,,False,3,1,7941,2026-11-18T13:05+00:00
+166328,FL,"MiamiLakes Councilmember 6 to 4/CouncilVote, Miami-Dade County",2026-11-03,99.9,,False,2,1,10500,2026-11-18T13:05+00:00
+166544,FL,"Legends Bay CDD, Seat 5, Manatee County",2026-11-03,99.9,,False,2,1,157,2026-11-18T13:05+00:00
+166696,FL,"Tesoro Community Development District, Seat 1, St. Lucie County",2026-11-03,99.9,,False,2,1,305,2026-11-18T13:05+00:00
+150934,FL,Florida State House 23,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,2,85913,2026-11-18T13:05+00:00
+166737,FL,"Fort Lauderdale, Commissioner, District 1, Broward County",2026-11-03,99.9,,False,3,1,17435,2026-11-18T13:05+00:00
+151000,FL,Florida State House 102,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,71703,2026-11-18T13:05+00:00
+166753,FL,"Plantation, Councilmember, Group 4, Broward County",2026-11-03,99.9,,False,2,1,31597,2026-11-18T13:05+00:00
+166553,FL,"City of Palmetto Charter Amendment, Manatee County",2026-11-03,99.9,,False,2,1,4308,2026-11-18T13:05+00:00
+166602,FL,"Wiregrass II CDD Seat 4, Pasco County",2026-11-03,99.9,,False,2,1,795,2026-11-18T13:05+00:00
+166210,FL,"Callaway Commissioner Ward 1, Bay County",2026-11-03,99.9,,False,2,1,4186,2026-11-18T13:05+00:00
+166618,FL,"Milton City Council, W4S1, Santa Rosa County",2026-11-03,40,,False,2,1,2575,2026-11-18T13:05+00:00
+166226,FL,Citrus County Mosquito Control Board - Seat 3,2026-11-03,99.9,,False,2,1,63357,2026-11-18T13:05+00:00
+166467,FL,"Mascotte City Council, Seat 4, Lake County",2026-11-03,99.9,,False,2,1,2135,2026-11-18T13:05+00:00
+166683,FL,"Town of Pomona Park Mayor, Putnam County",2026-11-03,99.9,,False,2,1,255,2026-11-18T13:05+00:00
+166508,FL,"Joseph Lewis Jr., Levy County",2026-11-03,99.9,,False,2,1,16364,2026-11-18T13:05+00:00
+150938,FL,Florida State House 28,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,3,1,73855,2026-11-18T13:05+00:00
+151004,FL,Florida State House 113,2026-11-03,89.6,2026-11-04T07:09:42.049Z,False,3,1,45392,2026-11-18T13:05+00:00
+166565,FL,"Village Amend- Procedure for Filling Councilmember Vacancies Exceeding Half aTerm, Monroe County",2026-11-03,99.9,,False,2,1,3123,2026-11-18T13:05+00:00
+166557,FL,"Village Council Seat 1, Monroe County",2026-11-03,99.9,,False,2,1,3077,2026-11-18T13:05+00:00
+151012,FL,Florida District Court of Appeal 1 Judge Rachel Nordby Retention,2026-11-03,93.4,,False,2,29,727472,2026-11-18T13:05+00:00
+166406,FL,"Temple Terrace City Council, Hillsborough County",2026-11-03,99.9,,False,5,1,16944,2026-11-18T13:05+00:00
+166814,FL,"Hollywood, Question 2, Broward County",2026-11-03,99.9,,False,2,1,42982,2026-11-18T13:05+00:00
+166422,FL,"Supervisor South Fork III CDD Seat 3, Hillsborough County",2026-11-03,99.9,,False,2,1,1248,2026-11-18T13:05+00:00
+166830,FL,"Wilton Manors, Question, Broward County",2026-11-03,99.9,,False,2,1,5711,2026-11-18T13:05+00:00
+166271,FL,"Hialeah Councilmember Group II, Miami-Dade County",2026-11-03,93.5,,False,2,1,42265,2026-11-18T13:05+00:00
+166487,FL,"Umatilla Ballot Question Number 3, Lake County",2026-11-03,99.9,,False,2,1,1591,2026-11-18T13:05+00:00
+166631,FL,City of Sarasota Commissioner At-Large,2026-11-03,99.9,,False,3,1,28806,2026-11-18T13:05+00:00
+166680,FL,"City of St. Augustine Beach Charter Amendment, St. Johns County",2026-11-03,99.9,,False,2,1,3723,2026-11-18T13:05+00:00
+166697,FL,"Tesoro Community Development District, Seat 2, St. Lucie County",2026-11-03,99.9,,False,2,1,305,2026-11-18T13:05+00:00
+166497,FL,"Capital Region Community Development District, Seat 5, Leon County",2026-11-03,99.9,,False,2,1,2757,2026-11-18T13:05+00:00
+166297,FL,"ConsAmdt2 Personal Property Agric Land Tax, Miami-Dade County",2026-11-03,0,,False,2,1,0,2026-11-18T13:05+00:00
+166346,FL,"PalmettoBay Village Acq USDA Property, Miami-Dade County",2026-11-03,99.9,,False,2,1,10307,2026-11-18T13:05+00:00
+166754,FL,"Pompano Beach, Commissioner, District 1, Broward County",2026-11-03,99.9,,False,2,1,9008,2026-11-18T13:05+00:00
+166362,FL,"Beach CDD - Seat 2, Duval County",2026-11-03,0,,False,2,1,0,2026-11-18T13:05+00:00
+151009,FL,Florida State House 119,2026-11-03,99.9,2026-11-04T07:09:42.050Z,False,2,1,61283,2026-11-18T13:05+00:00
+166403,FL,Hillsborough County Board of County Commissioners District 7,2026-11-03,99.9,,False,2,1,507193,2026-11-18T13:05+00:00
+166619,FL,"Gulf Breeze City Council, Seat D, Santa Rosa County",2026-11-03,99.9,,False,2,1,2602,2026-11-18T13:05+00:00
+166451,FL,"Lake County School Board, District 1",2026-11-03,99.9,,False,2,1,131816,2026-11-18T13:05+00:00
+166635,FL,"Bobcat Trail CDD Seat 1, Sarasota County",2026-11-03,99.9,,False,3,1,570,2026-11-18T13:05+00:00
+150923,FL,Florida State House 6,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,1,69435,2026-11-18T13:05+00:00
+166701,FL,"No. 7 Referendum Ordinance-City of PSL Solid Waste Pickup, St. Lucie County",2026-11-03,99.9,,False,2,1,91152,2026-11-18T13:05+00:00
+166309,FL,"CGables ChatAmdt Residency Mayor/City Comm, Miami-Dade County",2026-11-03,99.9,,False,2,1,20199,2026-11-18T13:05+00:00
+166301,FL,"CntyChtrAmdt Vacancy Election/Muni Qualify, Miami-Dade County",2026-11-03,94.3,,False,2,1,730521,2026-11-18T13:05+00:00
+166709,FL,Sumter County No. 2 County Referendum,2026-11-03,99.9,,False,2,1,86295,2026-11-18T13:05+00:00
+150997,FL,Florida State House 94,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,3,1,76258,2026-11-18T13:05+00:00
+166558,FL,"Village Council Seat 2, Monroe County",2026-11-03,99.9,,False,2,1,3089,2026-11-18T13:05+00:00
+166358,FL,Duval County School Board - District 4,2026-11-03,99.9,,False,3,1,44446,2026-11-18T13:05+00:00
+166574,FL,"City of Fernandina Beach Mayor, Nassau County",2026-11-03,25,,False,2,1,6663,2026-11-18T13:05+00:00
+166207,FL,"City of Archer Charter Amendment No. 3, Alachua County",2026-11-03,99.9,,False,2,1,365,2026-11-18T13:05+00:00
+166423,FL,"Supervisor South Fork III CDD Seat 5, Hillsborough County",2026-11-03,99.9,,False,2,1,1248,2026-11-18T13:05+00:00
+166639,FL,"Windward at Lakewood Ranch CDD Seat 5, Sarasota County",2026-11-03,99.9,,False,2,1,532,2026-11-18T13:05+00:00
+166616,FL,"Santa Rosa County School Board Member, Dist. 5",2026-11-03,35.7,,False,2,1,67511,2026-11-18T13:05+00:00
+166640,FL,Sarasota County Referendum,2026-11-03,99.9,,False,2,1,210958,2026-11-18T13:05+00:00
+166440,FL,"City of Sebastian Referendum Question 1, Indian River County",2026-11-03,85.7,,False,2,1,12602,2026-11-18T13:05+00:00
+166432,FL,No. 3 Hillsborough County Referendum,2026-11-03,99.9,,False,2,1,497664,2026-11-18T13:05+00:00
+166289,FL,"South Miami Commissioner Group IV, Miami-Dade County",2026-11-03,99.9,,False,1,1,3552,2026-11-18T13:05+00:00
+166498,FL,"Piney-Z Community Development District, Seat 3, Leon County",2026-11-03,99.9,,False,2,1,867,2026-11-18T13:05+00:00
+150953,FL,Florida State House 45,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,2,77668,2026-11-18T13:05+00:00
+166706,FL,"Village Community Development District 2 Seat 3, Sumter County",2026-11-03,99.9,,False,2,1,2839,2026-11-18T13:05+00:00
+150994,FL,Florida State House 91,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,75422,2026-11-18T13:05+00:00
+166363,FL,"Beach CDD - Seat 4, Duval County",2026-11-03,0,,False,2,1,0,2026-11-18T13:05+00:00
+166579,FL,Nassau County School District Ad Valorem Millage Election,2026-11-03,5.3,,False,2,1,49239,2026-11-18T13:05+00:00
+166379,FL,City of Flagler Beach Charter Amendment,2026-11-03,99.9,,False,2,1,3136,2026-11-18T13:05+00:00
+166812,FL,"Fort Lauderdale, Question 10, Broward County",2026-11-03,99.9,,False,2,1,57924,2026-11-18T13:05+00:00
+166644,FL,"Seminole County Court Judge, Group 6",2026-11-03,99.9,,False,2,1,162193,2026-11-18T13:05+00:00
+166252,FL,"Fort White Town Council Member District 2, Columbia County",2026-11-03,99.9,,False,3,1,95,2026-11-18T13:05+00:00
+166436,FL,"City of Fellsmere City Council Member, Indian River County",2026-11-03,99.9,,False,4,1,1078,2026-11-18T13:05+00:00
+166694,FL,"River Place on the St. Lucie, Seat 3",2026-11-03,99.9,,False,2,1,457,2026-11-18T13:05+00:00
+166302,FL,"CntyChtrAmdt Rev Reestablish Cnty Const Ofc, Miami-Dade County",2026-11-03,94.3,,False,2,1,713572,2026-11-18T13:05+00:00
+150949,FL,Florida State House 39,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,2,73059,2026-11-18T13:05+00:00
+166318,FL,"MiamiLakes Fill Council/Mayoral Vacancies, Miami-Dade County",2026-11-03,99.9,,False,2,1,10551,2026-11-18T13:05+00:00
+166751,FL,"Oakland Park, Commissioner, Broward County",2026-11-03,99.9,,False,4,1,18297,2026-11-18T13:05+00:00
+151014,FL,Florida District Court of Appeal 1 Judge Clay Roberts Retention,2026-11-03,93.4,,False,2,29,726299,2026-11-18T13:05+00:00
+166575,FL,"Hilliard Town Council Member, Nassau County",2026-11-03,50,,False,3,1,1404,2026-11-18T13:05+00:00
+166375,FL,"Deer Run CDD, Seat 2, Flagler County",2026-11-03,99.9,,False,2,1,624,2026-11-18T13:05+00:00
+166576,FL,Nassau County Amelia Island Mosquito Control District Group 2,2026-11-03,14.3,,False,2,1,12811,2026-11-18T13:05+00:00
+151031,FL,Florida District Court of Appeal 5 Judge Scott D. Makar Retention,2026-11-03,81.2,,False,2,14,1806911,2026-11-18T13:05+00:00
+151023,FL,Florida District Court of Appeal 3 Judge Thomas Logue Retention,2026-11-03,94.5,,False,2,2,729233,2026-11-18T13:05+00:00
+166225,FL,Citrus County Mosquito Control Board - Seat 1,2026-11-03,99.9,,False,3,1,64668,2026-11-18T13:05+00:00
+166441,FL,"City of Sebastian Referendum Question 2, Indian River County",2026-11-03,85.7,,False,2,1,12514,2026-11-18T13:05+00:00
+166241,FL,"Greater Naples Fire Rescue District, Seat 4, Collier County",2026-11-03,99.9,,False,2,1,27930,2026-11-18T13:05+00:00
+166649,FL,"Casselberry, Comm, Seat 3 Casselberry, Seminole County",2026-11-03,99.9,,False,2,1,9144,2026-11-18T13:05+00:00
+150937,FL,Florida State House 27,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,3,78405,2026-11-18T13:05+00:00
+150954,FL,Florida State House 46,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,3,1,44906,2026-11-18T13:05+00:00
+166515,FL,"Fire Prevention Surtax, Liberty County",2026-11-03,99.9,,False,2,1,2579,2026-11-18T13:05+00:00
+150970,FL,Florida State House 66,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,75830,2026-11-18T13:05+00:00
+166556,FL,"Key Colony Bch City Commissioner, Monroe County",2026-11-03,99.9,,False,3,1,689,2026-11-18T13:05+00:00
+166772,FL,"South Broward Drainage District, Zone 2",2026-11-03,99.9,,False,2,1,12930,2026-11-18T13:05+00:00
+166796,FL,"Deerfield Beach, Question C, Broward County",2026-11-03,99.9,,False,2,1,23235,2026-11-18T13:05+00:00
+151027,FL,Florida District Court of Appeal 4 Judge Johnathan D. Lott Retention,2026-11-03,98.1,,False,2,6,1348894,2026-11-18T13:05+00:00
+166445,FL,Jefferson County School Board Member - District 2,2026-11-03,99.9,,False,2,1,1015,2026-11-18T13:05+00:00
+150900,FL,Florida State Senate 2,2026-11-03,99.9,2026-11-04T07:09:42.047Z,False,2,7,202644,2026-11-18T13:05+00:00
+166653,FL,"Winter Springs, Comm, Dist 4 Winter Springs, Seminole County",2026-11-03,90.9,,False,2,1,15821,2026-11-18T13:05+00:00
+150916,FL,Florida State Senate 38,2026-11-03,96.5,2026-11-12T01:54:12.313Z,False,3,1,187780,2026-11-18T13:05+00:00
+166495,FL,"City Commissioner, Seat 5, Leon County",2026-11-03,99.9,,False,2,1,68930,2026-11-18T13:05+00:00
+166711,FL,"St. Marks City Commissioner Seat 3 City of St Marks, Wakulla County",2026-11-03,99.9,,False,2,1,149,2026-11-18T13:05+00:00
+166319,FL,"MiamiLakes Jan Term/Annual ViceMayor Elec, Miami-Dade County",2026-11-03,99.9,,False,2,1,10381,2026-11-18T13:05+00:00
+150966,FL,Florida State House 60,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,68753,2026-11-18T13:05+00:00
+166360,FL,"Atlantic Beach - Mayor-Commissioner Seat 1, Duval County",2026-11-03,99.9,,False,2,1,6949,2026-11-18T13:05+00:00
+166728,FL,"Broward County School Board, District 6",2026-11-03,99.9,,False,2,1,86872,2026-11-18T13:05+00:00
+166720,FL,"Town of Interlachen Charter Amendment, Question 3, Putnam County",2026-11-03,99.9,,False,2,1,425,2026-11-18T13:05+00:00
+166769,FL,"Coral Springs Improvement District, Seat 5, Broward County",2026-11-03,99.9,,False,2,1,12200,2026-11-18T13:05+00:00
+151032,FL,Florida District Court of Appeal 5 Judge F. Rand Wallis Retention,2026-11-03,81.2,,False,2,14,1798397,2026-11-18T13:05+00:00
+166785,FL,"Broward County School Board, Question 1",2026-11-03,99.9,,False,2,1,628410,2026-11-18T13:05+00:00
+166585,FL,Pasco County Mosquito Control Commissioner Seat 2,2026-11-03,99.9,,False,2,1,69632,2026-11-18T13:05+00:00
+166634,FL,"Blackburn Creek CDD Seat 4, Sarasota County",2026-11-03,99.9,,False,2,1,1660,2026-11-18T13:05+00:00
+166242,FL,"North Collier Fire Control and Rescue District, Seat 4",2026-11-03,96.3,,False,2,1,51996,2026-11-18T13:05+00:00
+166458,FL,"Fruitland Park Commissioner, District 3, Lake County",2026-11-03,99.9,,False,2,1,768,2026-11-18T13:05+00:00
+150913,FL,Florida State Senate 32,2026-11-03,99.9,2026-11-04T07:09:42.047Z,False,2,1,165988,2026-11-18T13:05+00:00
+166300,FL,Miami-Dade County CntyChatAmdt Residency County Commissioner,2026-11-03,94.3,,False,2,1,740854,2026-11-18T13:05+00:00
+166516,FL,Manatee County Commissioner District 1,2026-11-03,99.9,,False,3,1,48404,2026-11-18T13:05+00:00
+166540,FL,"Heritage Harbour North CDD, Seat 1, Manatee County",2026-11-03,99.9,,False,2,1,1257,2026-11-18T13:05+00:00
+166724,FL,"Tim Osterhaus, Walton County",2026-11-03,99.9,,False,2,1,30962,2026-11-18T13:05+00:00
+151036,FL,Florida Circuit Judge Circuit 17 Group 52,2026-11-03,99.9,,False,2,1,565310,2026-11-18T13:05+00:00
+166597,FL,"Oak Creek CDD Seat 3, Pasco County",2026-11-03,99.9,,False,2,1,551,2026-11-18T13:05+00:00
+166589,FL,"LakeShore Ranch CDD Seat 3, Pasco County",2026-11-03,99.9,,False,2,1,888,2026-11-18T13:05+00:00
+166805,FL,"Fort Lauderdale, Question 3, Broward County",2026-11-03,99.9,,False,2,1,58948,2026-11-18T13:05+00:00
+166438,FL,"City of Vero Beach City Council Member, Indian River County",2026-11-03,99.9,,False,8,1,15686,2026-11-18T13:05+00:00
+166654,FL,"Longwood, Charter Amendment, Q1 Longwood, Seminole County",2026-11-03,99.9,,False,2,1,6050,2026-11-18T13:05+00:00
+166262,FL,"Cutler Bay Res Area Council Member Seat 1, Miami-Dade County",2026-11-03,83.3,,False,3,1,13979,2026-11-18T13:05+00:00
+150909,FL,Florida State Senate 24,2026-11-03,99.9,2026-11-04T07:09:42.047Z,False,2,1,154531,2026-11-18T13:05+00:00
+150951,FL,Florida State House 42,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,1,79745,2026-11-18T13:05+00:00
+166320,FL,"MiamiLakes Resign-to-Run Vacancies Election, Miami-Dade County",2026-11-03,99.9,,False,2,1,10470,2026-11-18T13:05+00:00
+166663,FL,"City of St. Augustine Beach Commission Seat 3, St. Johns County",2026-11-03,99.9,,False,2,1,3627,2026-11-18T13:05+00:00
+166513,FL,"Liberty County Commissioner, District 2",2026-11-03,99.9,,False,2,1,2635,2026-11-18T13:05+00:00
+166729,FL,"Coral Springs, Mayor, Broward County",2026-11-03,99.9,,False,2,1,41919,2026-11-18T13:05+00:00
+166529,FL,"West Manatee Fire and Rescue, Seat 2",2026-11-03,99.9,,False,2,1,10416,2026-11-18T13:05+00:00
+166329,FL,"MiamiLakes Town Mgr Removal/Acting Mgr, Miami-Dade County",2026-11-03,99.9,,False,2,1,10407,2026-11-18T13:05+00:00
+166378,FL,"City of Palm Coast Charter Amendment 3, Flagler County",2026-11-03,99.9,,False,2,1,43492,2026-11-18T13:05+00:00
+166786,FL,"Coconut Creek, Question 1, Broward County",2026-11-03,99.9,,False,2,1,18252,2026-11-18T13:05+00:00
+166394,FL,"Hernando County Commissioner, District 4",2026-11-03,99.9,,False,2,1,65893,2026-11-18T13:05+00:00
+166802,FL,"Deerfield Beach, Question I, Broward County",2026-11-03,99.9,,False,2,1,22440,2026-11-18T13:05+00:00
+166435,FL,Indian River County Board of County Commissioners District 4,2026-11-03,97.3,,False,2,1,75999,2026-11-18T13:05+00:00
+166459,FL,"Groveland Council District 1, Mayor, Lake County",2026-11-03,99.9,,False,2,1,8584,2026-11-18T13:05+00:00
+166483,FL,Lady Lake Amendment 2,2026-11-03,99.9,,False,2,1,6262,2026-11-18T13:05+00:00
+166667,FL,St. Johns County Airport Authority Group 3,2026-11-03,99.9,,False,3,1,121941,2026-11-18T13:05+00:00
+166733,FL,"Davie, Mayor, At-Large, Broward County",2026-11-03,99.9,,False,2,1,31208,2026-11-18T13:05+00:00
+166341,FL,"NMiaBeach Status Continued Empl Dept Heads, Miami-Dade County",2026-11-03,92.3,,False,2,1,10196,2026-11-18T13:05+00:00
+166333,FL,"MiamiSprings Revitalizing NW 36 St District, Miami-Dade County",2026-11-03,99.9,,False,2,1,5365,2026-11-18T13:05+00:00
+166741,FL,"Hollywood, Commissioner, District 3, Broward County",2026-11-03,99.9,,False,2,1,7722,2026-11-18T13:05+00:00
+151029,FL,Florida District Court of Appeal 4 Judge Caroline Cahill Shepherd Retention,2026-11-03,98.1,,False,2,6,1348916,2026-11-18T13:05+00:00
+166590,FL,"Lakeside CDD Seat 2, Pasco County",2026-11-03,99.9,,False,2,1,743,2026-11-18T13:05+00:00
+166390,FL,HARDEE COUNTY TOURIST DEVELOPMENT TAX INCREASE REFERENDUM,2026-11-03,99.9,,False,2,1,5805,2026-11-18T13:05+00:00
+166606,FL,Polk County Commissioner District 4,2026-11-03,99.4,,False,2,1,196467,2026-11-18T13:05+00:00
+166239,FL,"Collier Mosquito Control District, Seat 3",2026-11-03,99.9,,False,2,1,130137,2026-11-18T13:05+00:00
+166263,FL,"Cutler Bay Res Area Council Member Seat 3, Miami-Dade County",2026-11-03,83.3,,False,2,1,13705,2026-11-18T13:05+00:00
+166671,FL,"Brandy Creek Community Development District Seat 3, St. Johns County",2026-11-03,99.9,,False,2,1,564,2026-11-18T13:05+00:00
+166456,FL,"Eustis City Commissioner, Seat 2, Lake County",2026-11-03,99.9,,False,2,1,6910,2026-11-18T13:05+00:00
+166672,FL,"Heritage Landing Community Development District Seat 2, St. Johns County",2026-11-03,99.9,,False,2,1,1287,2026-11-18T13:05+00:00
+166472,FL,"Mount Dora Councilmember, At-Large, Lake County",2026-11-03,99.9,,False,3,1,6971,2026-11-18T13:05+00:00
+166272,FL,"Key Biscayne Village Council, Miami-Dade County",2026-11-03,99.9,,False,5,1,10959,2026-11-18T13:05+00:00
+150969,FL,Florida State House 65,2026-11-03,99.9,2026-11-12T01:54:12.313Z,False,2,1,72495,2026-11-18T13:05+00:00
+166530,FL,"West Manatee Fire and Rescue, Seat 3",2026-11-03,99.9,,False,2,1,11156,2026-11-18T13:05+00:00
+150985,FL,Florida State House 82,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,2,64568,2026-11-18T13:05+00:00
+166738,FL,"Hallandale Beach, Commissioner, Seat 1, Broward County",2026-11-03,99.9,,False,3,1,9052,2026-11-18T13:05+00:00
+151026,FL,Florida District Court of Appeal 4 Judge Mark W. Klingensmith Retention,2026-11-03,98.1,,False,2,6,1349132,2026-11-18T13:05+00:00
+166395,FL,"Hernando County School Board, District 5",2026-11-03,99.9,,False,2,1,73087,2026-11-18T13:05+00:00
+166419,FL,"Supervisor River Bend CDD Seat 3, Hillsborough County",2026-11-03,99.9,,False,2,1,833,2026-11-18T13:05+00:00
+166411,FL,"Supervisor Diamond Hill CDD Seat 2, Hillsborough County",2026-11-03,99.9,,False,2,1,490,2026-11-18T13:05+00:00
+166652,FL,"Winter Springs, Comm, Dist 2 Winter Springs, Seminole County",2026-11-03,90.9,,False,2,1,16171,2026-11-18T13:05+00:00
+166676,FL,"Trout Creek Community Development District Seat 1, St. Johns County",2026-11-03,99.9,,False,2,1,2398,2026-11-18T13:05+00:00
+166284,FL,"Palmetto Bay Council Member Seat 3, Miami-Dade County",2026-11-03,99.9,,False,4,1,9912,2026-11-18T13:05+00:00
+166276,FL,"North Miami Councilperson District 3, Miami-Dade County",2026-11-03,99.9,,False,3,1,3769,2026-11-18T13:05+00:00
+166726,FL,"Raymond Treadwell, Walton County",2026-11-03,99.9,,False,2,1,31058,2026-11-18T13:05+00:00
+166334,FL,"NMiaBeach Comm Comp/COLA/Health Ins, Miami-Dade County",2026-11-03,92.3,,False,2,1,9586,2026-11-18T13:05+00:00
+150981,FL,Florida State House 77,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,61716,2026-11-18T13:05+00:00
+166350,FL,"SMiami Franchise Definition City Property, Miami-Dade County",2026-11-03,99.9,,False,2,1,4143,2026-11-18T13:05+00:00
+166783,FL,"Broward County, Question 2",2026-11-03,99.9,,False,2,1,594477,2026-11-18T13:05+00:00
+159600,FL,Florida State Senate 21 Special,2026-11-03,99.9,2026-11-04T07:09:42.047Z,False,2,2,223729,2026-11-18T13:05+00:00
+166607,FL,Polk County School Board District 3,2026-11-03,99.4,,False,2,1,228438,2026-11-18T13:05+00:00
+166407,FL,"Supervisor Avelar Creek CDD Seat 3, Hillsborough County",2026-11-03,99.9,,False,2,1,449,2026-11-18T13:05+00:00
+166608,FL,"Lake Ashton CDD Seat 2, Polk County",2026-11-03,99.9,,False,2,1,1062,2026-11-18T13:05+00:00
+166216,FL,"City of Lynn Haven Clarifying the City Charter Review Process, Bay County",2026-11-03,99.9,,False,2,1,7616,2026-11-18T13:05+00:00
+166208,FL,"City of Archer Charter Amendment No. 4, Alachua County",2026-11-03,99.9,,False,2,1,368,2026-11-18T13:05+00:00
+150912,FL,Florida State Senate 30,2026-11-03,99.9,2026-11-04T07:09:42.047Z,False,2,2,183354,2026-11-18T13:05+00:00
+166473,FL,"Tavares City Council, Seat 3, Lake County",2026-11-03,99.9,,False,2,1,7055,2026-11-18T13:05+00:00
+150928,FL,Florida State House 15,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,3,2,89272,2026-11-18T13:05+00:00
+166681,FL,"St. Lucie County Commissioner, District 2",2026-11-03,99.9,,False,2,1,128539,2026-11-18T13:05+00:00
+166723,FL,"Rachel Nordby, Walton County",2026-11-03,99.9,,False,2,1,31069,2026-11-18T13:05+00:00
+150986,FL,Florida State House 83,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,4,60139,2026-11-18T13:05+00:00
+166547,FL,"Tara CDD, Seat 1, Manatee County",2026-11-03,99.9,,False,2,1,919,2026-11-18T13:05+00:00
+151002,FL,Florida State House 106,2026-11-03,95.8,2026-11-04T07:09:42.049Z,False,2,1,57313,2026-11-18T13:05+00:00
+166588,FL,"Epperson North CDD Seat 2, Pasco County",2026-11-03,99.9,,False,2,1,1287,2026-11-18T13:05+00:00
+166612,FL,"Lake Ashton II CDD Seat 3, Polk County",2026-11-03,99.9,,False,2,1,842,2026-11-18T13:05+00:00
+166828,FL,"Pembroke Pines, Question, Broward County",2026-11-03,99.9,,False,2,1,58432,2026-11-18T13:05+00:00
+166212,FL,"Panama City Beach Council Member Ward 1, Bay County",2026-11-03,99.9,,False,2,1,6525,2026-11-18T13:05+00:00
+166477,FL,Lake County School Board Resolution 2026-02,2026-11-03,99.9,,False,2,1,173168,2026-11-18T13:05+00:00
+150932,FL,Florida State House 20,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,4,73190,2026-11-18T13:05+00:00
+166685,FL,"Palatka City Commissioner, Group 2, Putnam County",2026-11-03,99.9,,False,2,1,2574,2026-11-18T13:05+00:00
+150941,FL,Florida State House 31,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,1,78332,2026-11-18T13:05+00:00
+166527,FL,"East Manatee Fire Rescue, Seat 5",2026-11-03,99.9,,False,2,1,44386,2026-11-18T13:05+00:00
+166743,FL,"Lauderdale-by-the-Sea, Mayor, Broward County",2026-11-03,99.9,,False,2,1,3027,2026-11-18T13:05+00:00
+166351,FL,"SMiami Online Publication Ordinance Notices, Miami-Dade County",2026-11-03,99.9,,False,2,1,4326,2026-11-18T13:05+00:00
+150998,FL,Florida State House 100,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,72573,2026-11-18T13:05+00:00
+166392,FL,Hendry County Central County Water Control District,2026-11-03,99.9,,False,2,1,625,2026-11-18T13:05+00:00
+166352,FL,"SMiami City Purchases Policies City Comm, Miami-Dade County",2026-11-03,99.9,,False,2,1,4300,2026-11-18T13:05+00:00
+166760,FL,"Tamarac, Commissioner, District 4, Broward County",2026-11-03,99.9,,False,2,1,6395,2026-11-18T13:05+00:00
+166752,FL,"Plantation, Mayor, Broward County",2026-11-03,99.9,,False,2,1,34253,2026-11-18T13:05+00:00
+166801,FL,"Deerfield Beach, Question H, Broward County",2026-11-03,99.9,,False,2,1,22641,2026-11-18T13:05+00:00
+166217,FL,"City of Lynn Haven Updating the Method of Compensation, Bay County",2026-11-03,99.9,,False,2,1,7583,2026-11-18T13:05+00:00
+166817,FL,"Lauderdale-by-the-Sea, Question 3, Broward County",2026-11-03,99.9,,False,2,1,2988,2026-11-18T13:05+00:00
+166617,FL,"City of Milton Mayor, Santa Rosa County",2026-11-03,40,,False,2,1,2727,2026-11-18T13:05+00:00
+166666,FL,St. Johns County Airport Authority Group 2,2026-11-03,99.9,,False,2,1,116111,2026-11-18T13:05+00:00
+150929,FL,Florida State House 17,2026-11-03,99.9,2026-11-12T01:54:12.313Z,False,2,1,68947,2026-11-18T13:05+00:00
+166490,FL,"Leon County Commissioner, District 3",2026-11-03,99.9,,False,2,1,23124,2026-11-18T13:05+00:00
+166699,FL,"No. 5 School District Referendum, St. Lucie County",2026-11-03,99.9,,False,2,1,130365,2026-11-18T13:05+00:00
+166332,FL,"MiamiLakes Interference with Administration, Miami-Dade County",2026-11-03,99.9,,False,2,1,10416,2026-11-18T13:05+00:00
+166548,FL,"Tara CDD, Seat 5, Manatee County",2026-11-03,99.9,,False,2,1,878,2026-11-18T13:05+00:00
+166572,FL,Marion County Parks Bond Referendum,2026-11-03,0.9,,False,2,1,156419,2026-11-18T13:05+00:00
+166756,FL,"Pompano Beach, Commissioner, District 3, Broward County",2026-11-03,99.9,,False,2,1,6202,2026-11-18T13:05+00:00
+166221,FL,"City of Panama City Clerical Revisions, Bay County",2026-11-03,99.9,,False,2,1,11213,2026-11-18T13:05+00:00
+166629,FL,"City of North Port Commissioner District Seat 4, Sarasota County",2026-11-03,93.8,,False,2,1,34550,2026-11-18T13:05+00:00
+166621,FL,"Navarre Beach Fire Rescue Dist. Seat 5, Santa Rosa County",2026-11-03,99.9,,False,2,1,477,2026-11-18T13:05+00:00
+166645,FL,"Altamonte Springs, Mayor Altamonte Springs, Seminole County",2026-11-03,99.9,,False,2,1,14194,2026-11-18T13:05+00:00
+166470,FL,"Minneola Council Member, Seat 5, Lake County",2026-11-03,99.9,,False,3,1,6866,2026-11-18T13:05+00:00
+166686,FL,"Palatka City Commissioner, Group 4, Putnam County",2026-11-03,99.9,,False,2,1,2600,2026-11-18T13:05+00:00
+150942,FL,Florida State House 32,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,1,86476,2026-11-18T13:05+00:00
+166695,FL,"St. Lucie West Service District, Seat 3",2026-11-03,99.9,,False,2,1,4942,2026-11-18T13:05+00:00
+150983,FL,Florida State House 80,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,2,91578,2026-11-18T13:05+00:00
+166504,FL,"School District Referendum - Extend Sales Tax, Leon County",2026-11-03,99.9,,False,2,1,117775,2026-11-18T13:05+00:00
+166496,FL,"Canopy Community Development District, Seat 1, Leon County",2026-11-03,99.9,,False,2,1,382,2026-11-18T13:05+00:00
+166545,FL,"Silverleaf CDD, Seat 1, Manatee County",2026-11-03,99.9,,False,3,1,718,2026-11-18T13:05+00:00
+166761,FL,"West Park, Commissioner, Seat 1, Broward County",2026-11-03,99.9,,False,2,1,4381,2026-11-18T13:05+00:00
+166561,FL,"Key Largo Wastewater Dist Bd Member, Monroe County",2026-11-03,99.9,,False,5,1,10250,2026-11-18T13:05+00:00
+166361,FL,"Atlantic Beach Commissioner - Seat 4, Duval County",2026-11-03,99.9,,False,2,1,6315,2026-11-18T13:05+00:00
+166410,FL,"Supervisor Covington Park CDD Seat 2, Hillsborough County",2026-11-03,99.9,,False,2,1,1062,2026-11-18T13:05+00:00
+166818,FL,"Lauderdale-by-the-Sea, Question 4, Broward County",2026-11-03,99.9,,False,2,1,2917,2026-11-18T13:05+00:00
+166426,FL,"Supervisor Triple Creek CDD Seat 1, Hillsborough County",2026-11-03,99.9,,False,2,1,2116,2026-11-18T13:05+00:00
+166642,FL,"City of Venice Charter Amendment, Sarasota County",2026-11-03,83.3,,False,2,1,15358,2026-11-18T13:05+00:00
+166275,FL,"North Miami Councilperson District 2, Miami-Dade County",2026-11-03,99.9,,False,2,1,2906,2026-11-18T13:05+00:00
+166491,FL,"Leon County Commissioner, District 5",2026-11-03,99.9,,False,2,1,26232,2026-11-18T13:05+00:00
+166316,FL,"Miami Rickenbacker/Marine Stadium Marinas, Miami-Dade County",2026-11-03,92.9,,False,2,1,98181,2026-11-18T13:05+00:00
+166500,FL,Leon County Charter Amendment - Street Naming,2026-11-03,99.9,,False,2,1,114231,2026-11-18T13:05+00:00
+166765,FL,"Wilton Manors, Mayor, Broward County",2026-11-03,99.9,,False,3,1,5735,2026-11-18T13:05+00:00
+166373,FL,"City of Palm Coast Council Member, District 4, Flagler County",2026-11-03,99.9,,False,2,1,39347,2026-11-18T13:05+00:00
+166365,FL,"Cypress Bluff CDD - Seat 2, Duval County",2026-11-03,99.9,,False,2,1,1758,2026-11-18T13:05+00:00
+166773,FL,"South Broward Drainage District, Zone 4",2026-11-03,88.9,,False,2,1,14230,2026-11-18T13:05+00:00
+166214,FL,"Lake Powell Community Development District Seat 2, Bay County",2026-11-03,99.9,,False,2,1,314,2026-11-18T13:05+00:00
+166622,FL,Santa Rosa County Half-Cent Surtax,2026-11-03,35.7,,False,2,1,72378,2026-11-18T13:05+00:00
+166230,FL,"South Village Community Development District, Seat 3, Clay County",2026-11-03,99.9,,False,2,1,1976,2026-11-18T13:05+00:00
+166638,FL,Sarasota National CDD Seat 4,2026-11-03,99.9,,False,2,1,1318,2026-11-18T13:05+00:00
+150926,FL,Florida State House 12,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,1,63567,2026-11-18T13:05+00:00
+150943,FL,Florida State House 33,2026-11-03,99.9,2026-11-12T01:54:12.313Z,False,2,1,72571,2026-11-18T13:05+00:00
+166439,FL,Indian River Mosquito Control District Seat 2,2026-11-03,97.2,,False,2,1,65864,2026-11-18T13:05+00:00
+166488,FL,"Umatilla Ballot Question Number 4, Lake County",2026-11-03,99.9,,False,2,1,1621,2026-11-18T13:05+00:00
+166505,FL,"School District Referendum- Teacher Compensation, Leon County",2026-11-03,99.9,,False,2,1,117067,2026-11-18T13:05+00:00
+166305,FL,"SchBrd Renew Ad Valorem Safety and Security, Miami-Dade County",2026-11-03,94.4,,False,2,1,727209,2026-11-18T13:05+00:00
+150952,FL,Florida State House 43,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,1,47643,2026-11-18T13:05+00:00
+151001,FL,Florida State House 103,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,68273,2026-11-18T13:05+00:00
+166562,FL,"KW Amend-Increase Term of Mayor to 4 yrs, Monroe County",2026-11-03,99.9,,False,2,1,8661,2026-11-18T13:05+00:00
+151017,FL,Florida District Court of Appeal 2 Judge Morris Silberman Retention,2026-11-03,99.9,,False,2,6,1392517,2026-11-18T13:05+00:00
+166770,FL,"Monterra Community Development District, Seat 2, Broward County",2026-11-03,99.9,,False,2,1,1244,2026-11-18T13:05+00:00
+166211,FL,"Callaway Commissioner Ward 2, Bay County",2026-11-03,99.9,,False,2,1,4162,2026-11-18T13:05+00:00
+166427,FL,"Supervisor Triple Creek CDD Seat 2, Hillsborough County",2026-11-03,99.9,,False,3,1,2097,2026-11-18T13:05+00:00
+166259,FL,"Coral Gables for Commissioner Group IV, Miami-Dade County",2026-11-03,99.9,,False,2,1,19943,2026-11-18T13:05+00:00
+166443,FL,"Jackson County School Board Member, District 5",2026-11-03,99.9,,False,2,1,3283,2026-11-18T13:05+00:00
+166684,FL,"Interlachen Town Council, Putnam County",2026-11-03,99.9,,False,3,1,693,2026-11-18T13:05+00:00
+166509,FL,"Rachel Nordby, Levy County",2026-11-03,99.9,,False,2,1,16322,2026-11-18T13:05+00:00
+150964,FL,Florida State House 58,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,73239,2026-11-18T13:05+00:00
+150956,FL,Florida State House 49,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,1,59155,2026-11-18T13:05+00:00
+166517,FL,Manatee County Commissioner District 2,2026-11-03,99.9,,False,2,1,20507,2026-11-18T13:05+00:00
+166758,FL,"Sunrise, Commissioner, Seat C, Broward County",2026-11-03,99.9,,False,3,1,28990,2026-11-18T13:05+00:00
+166366,FL,"Trails CDD - Seat 2, Duval County",2026-11-03,99.9,,False,2,1,538,2026-11-18T13:05+00:00
+151013,FL,Florida District Court of Appeal 1 Judge Tim Osterhaus Retention,2026-11-03,93.4,,False,2,29,726497,2026-11-18T13:05+00:00
+166382,FL,Gadsden County School Board Referendum,2026-11-03,99.9,,False,2,1,17432,2026-11-18T13:05+00:00
+166815,FL,"Lauderdale-by-the-Sea, Question 1, Broward County",2026-11-03,99.9,,False,2,1,2891,2026-11-18T13:05+00:00
+166231,FL,"Wilford Preserve Community Development District, Seat 1, Clay County",2026-11-03,0,,False,2,1,0,2026-11-18T13:05+00:00
+166447,FL,"City of Monticello Amendment 2, Jefferson County",2026-11-03,99.9,,False,2,1,1127,2026-11-18T13:05+00:00
+166424,FL,"Supervisor Southshore Bay CDD Seat 2, Hillsborough County",2026-11-03,99.9,,False,2,1,474,2026-11-18T13:05+00:00
+166448,FL,"City of Monticello Amendment 3, Jefferson County",2026-11-03,99.9,,False,2,1,1161,2026-11-18T13:05+00:00
+166248,FL,"City of Marco Island Referendum, Collier County",2026-11-03,99.9,,False,2,1,9593,2026-11-18T13:05+00:00
+166240,FL,"Greater Naples Fire Rescue District, Seat 3, Collier County",2026-11-03,99.9,,False,2,1,60223,2026-11-18T13:05+00:00
+166698,FL,"No. 4 Local Government Infrastructure 0.5 Percent Surtax, St. Lucie County",2026-11-03,99.9,,False,2,1,131721,2026-11-18T13:05+00:00
+166306,FL,"Aventura Elected Official's Annual Salary, Miami-Dade County",2026-11-03,88.9,,False,2,1,11866,2026-11-18T13:05+00:00
+166714,FL,"South Walton Fire District, Seat 4",2026-11-03,99.9,,False,2,1,13972,2026-11-18T13:05+00:00
+166514,FL,"Liberty County Judge, Group 1",2026-11-03,99.9,,False,2,1,2643,2026-11-18T13:05+00:00
+166755,FL,"Pompano Beach, Commissioner, District 2, Broward County",2026-11-03,99.9,,False,3,1,5205,2026-11-18T13:05+00:00
+151018,FL,Florida District Court of Appeal 2 Judge Daniel H. Sleet Retention,2026-11-03,99.9,,False,2,6,1391868,2026-11-18T13:05+00:00
+166387,FL,1/2 Cent Surtax Gulf School Bd,2026-11-03,99.9,,False,2,1,6543,2026-11-18T13:05+00:00
+151034,FL,Florida Circuit Judge Circuit 11 Group 5,2026-11-03,94.3,,False,2,1,681927,2026-11-18T13:05+00:00
+166620,FL,"Holley Navarre Fire Dist., Seat 3, Santa Rosa County",2026-11-03,28.6,,False,2,1,13030,2026-11-18T13:05+00:00
+166452,FL,"Astatula Mayor, (Seat 5), Lake County",2026-11-03,66.7,,False,2,1,796,2026-11-18T13:05+00:00
+150907,FL,Florida State Senate 20,2026-11-03,99.9,2026-11-04T07:09:42.047Z,False,2,2,241320,2026-11-18T13:05+00:00
+166244,FL,"Lely CDD, Seat 4, Collier County",2026-11-03,99.9,,False,2,1,1407,2026-11-18T13:05+00:00
+166502,FL,Leon County Charter Amendment - Outdated References,2026-11-03,99.9,,False,2,1,109155,2026-11-18T13:05+00:00
+150957,FL,Florida State House 50,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,3,1,59149,2026-11-18T13:05+00:00
+166710,FL,Wakulla County Commissioner District 4,2026-11-03,99.9,,False,3,1,15008,2026-11-18T13:05+00:00
+150973,FL,Florida State House 69,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,68622,2026-11-18T13:05+00:00
+166559,FL,"Village Council Seat 3, Monroe County",2026-11-03,99.9,,False,2,1,3035,2026-11-18T13:05+00:00
+166775,FL,"Sunshine Water Control District, Seat 4, Broward County",2026-11-03,99.9,,False,2,1,13256,2026-11-18T13:05+00:00
+166383,FL,Glades County Single Member Districts for County Commissioners,2026-11-03,99.9,,False,2,1,3664,2026-11-18T13:05+00:00
+151030,FL,Florida District Court of Appeal 5 Judge John M. Harris Retention,2026-11-03,81.2,,False,2,14,1820384,2026-11-18T13:05+00:00
+166384,FL,"Non-Binding Referendum on Funding Glades County, Florida's Fire and Emergen",2026-11-03,99.9,,False,2,1,3671,2026-11-18T13:05+00:00
+166792,FL,"Cooper City, Question 2, Broward County",2026-11-03,99.9,,False,2,1,13066,2026-11-18T13:05+00:00
+166784,FL,"Broward County, Question 3",2026-11-03,99.9,,False,2,1,605116,2026-11-18T13:05+00:00
+166641,FL,Sarasota County Bond Referendum,2026-11-03,99.9,,False,2,1,208975,2026-11-18T13:05+00:00
+166249,FL,Columbia County Commissioner District 2,2026-11-03,99.9,,False,2,1,4915,2026-11-18T13:05+00:00
+166657,FL,"Oviedo, Charter Amendment Q2 Oviedo, Seminole County",2026-11-03,99.9,,False,2,1,16381,2026-11-18T13:05+00:00
+166457,FL,"Fruitland Park Commissioner, District 1, Lake County",2026-11-03,99.9,,False,2,1,1143,2026-11-18T13:05+00:00
+166499,FL,Leon County Charter Amendment - Ordinances,2026-11-03,99.9,,False,2,1,111466,2026-11-18T13:05+00:00
+166715,FL,Walton County School District Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T13:05+00:00
+166323,FL,Miami-Dade County MiamiLakes Appointment of Town Clerk,2026-11-03,99.9,,False,2,1,10748,2026-11-18T13:05+00:00
+166731,FL,"Coral Springs, Commissioner, Seat 4, Broward County",2026-11-03,99.9,,False,3,1,40351,2026-11-18T13:05+00:00
+166364,FL,"Beach CDD - Seat 5, Duval County",2026-11-03,0,,False,2,1,0,2026-11-18T13:05+00:00
+166580,FL,Nassau County Town Charter Amendment Removing Residency Requirement for the Town Clerk,2026-11-03,50,,False,2,1,930,2026-11-18T13:05+00:00
+166604,FL,"Lake Padgett Estates ISD Seat 2, Pasco County",2026-11-03,99.9,,False,2,1,1153,2026-11-18T13:05+00:00
+166788,FL,"Coconut Creek, Question 3, Broward County",2026-11-03,99.9,,False,2,1,18117,2026-11-18T13:05+00:00
+166253,FL,Columbia County Referendum,2026-11-03,93.1,,False,2,1,21420,2026-11-18T13:05+00:00
+166661,FL,St. Johns County School Board Member District 4,2026-11-03,99.9,,False,2,1,28877,2026-11-18T13:05+00:00
+166461,FL,"Groveland Council Member, District 5, Lake County",2026-11-03,99.9,,False,2,1,1284,2026-11-18T13:05+00:00
+166677,FL,"Trout Creek Community Development District Seat 2, St. Johns County",2026-11-03,99.9,,False,3,1,2340,2026-11-18T13:05+00:00
+166303,FL,"CntyChtrAmdt Misc Matters/Technical Changes, Miami-Dade County",2026-11-03,94.3,,False,2,1,710913,2026-11-18T13:05+00:00
+166519,FL,Manatee County School Board Member District 2,2026-11-03,99.9,,False,2,1,18648,2026-11-18T13:05+00:00
+150974,FL,Florida State House 70,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,2,94197,2026-11-18T13:05+00:00
+166727,FL,"Referendum, Walton County",2026-11-03,99.9,,False,2,1,33908,2026-11-18T13:05+00:00
+151015,FL,Florida District Court of Appeal 1 Judge Raymond Treadwell Retention,2026-11-03,93.4,,False,2,29,726143,2026-11-18T13:05+00:00
+166536,FL,"Eagle Pointe CDD, Seat 3, Manatee County",2026-11-03,99.9,,False,2,1,322,2026-11-18T13:05+00:00
+166528,FL,"Parrish Fire District, Seat 1, Manatee County",2026-11-03,99.9,,False,2,1,13473,2026-11-18T13:05+00:00
+166577,FL,"Amelia Walk Community Development District Seat 2, Nassau County",2026-11-03,50,,False,2,1,1060,2026-11-18T13:05+00:00
+166793,FL,"Cooper City, Question 3, Broward County",2026-11-03,99.9,,False,2,1,13336,2026-11-18T13:05+00:00
+166593,FL,"Long Lake Ranch CDD Seat 5, Pasco County",2026-11-03,99.9,,False,2,1,870,2026-11-18T13:05+00:00
+166393,FL,"City of Clewiston Commissioner, Hendry County",2026-11-03,99.9,,False,5,1,3900,2026-11-18T13:05+00:00
+166442,FL,"City of Sebastian Referendum Question 3, Indian River County",2026-11-03,85.7,,False,2,1,12503,2026-11-18T13:05+00:00
+166658,FL,"Oviedo,Charter Amendment Q3 Oviedo, Seminole County",2026-11-03,99.9,,False,2,1,16530,2026-11-18T13:05+00:00
+166266,FL,"El Portal Mayor, Miami-Dade County",2026-11-03,99.9,,False,2,1,972,2026-11-18T13:05+00:00
+166674,FL,"Marshall Creek Community Development District Seat 3, St. Johns County",2026-11-03,99.9,,False,2,1,1486,2026-11-18T13:05+00:00
+150955,FL,Florida State House 48,2026-11-03,98.1,2026-11-04T07:09:42.048Z,False,2,1,66776,2026-11-18T13:05+00:00
+166324,FL,"MiamiLakes Recall Petition Sig Requirement, Miami-Dade County",2026-11-03,99.9,,False,2,1,10617,2026-11-18T13:05+00:00
+166348,FL,"PalmettoBay Council Term Limits/Service, Miami-Dade County",2026-11-03,99.9,,False,2,1,10502,2026-11-18T13:05+00:00
+166532,FL,"Manatee County Mosquito Control District, Group 1",2026-11-03,99.9,,False,3,1,148100,2026-11-18T13:05+00:00
+166797,FL,"Deerfield Beach, Question D, Broward County",2026-11-03,99.9,,False,2,1,23003,2026-11-18T13:05+00:00
+166405,FL,Hillsborough County School Board Member District 6,2026-11-03,99.9,,False,2,1,465830,2026-11-18T13:05+00:00
+166397,FL,"Brooksville City Council Member, Seat 4, Hernando County",2026-11-03,99.9,,False,2,1,3020,2026-11-18T13:05+00:00
+166613,FL,"Poinciana CDD Seat 1, Polk County",2026-11-03,99.9,,False,2,1,3353,2026-11-18T13:05+00:00
+166246,FL,"Talis Park CDD, Seat 5, Collier County",2026-11-03,99.9,,False,2,1,456,2026-11-18T13:05+00:00
+166462,FL,"Howey Town Councilor, Lake County",2026-11-03,66.7,,False,7,1,2554,2026-11-18T13:05+00:00
+150917,FL,Florida State Senate 40,2026-11-03,96.2,2026-11-04T07:09:42.048Z,False,3,2,172679,2026-11-18T13:05+00:00
+166670,FL,"Bannon Lakes Community Development District Seat 5, St. Johns County",2026-11-03,99.9,,False,2,1,950,2026-11-18T13:05+00:00
+166712,FL,"St. Marks City Commissioner Seat 4 City of St Marks, Wakulla County",2026-11-03,99.9,,False,2,1,149,2026-11-18T13:05+00:00
+150975,FL,Florida State House 71,2026-11-03,97.4,2026-11-04T07:09:42.049Z,False,3,1,57838,2026-11-18T13:05+00:00
+166471,FL,"Montverde Town Council, Lake County",2026-11-03,99.9,,False,4,1,1994,2026-11-18T13:05+00:00
+166321,FL,"MiamiLakes Term Limit Mayor/Councilmembers, Miami-Dade County",2026-11-03,99.9,,False,2,1,10683,2026-11-18T13:05+00:00
+166537,FL,"Harrison Ranch CDD, Seat 1, Manatee County",2026-11-03,99.9,,False,2,1,1228,2026-11-18T13:05+00:00
+166337,FL,"NMiaBeach Gen Elec/Qualify/Term/EarlyVoting, Miami-Dade County",2026-11-03,92.3,,False,2,1,9395,2026-11-18T13:05+00:00
+150984,FL,Florida State House 81,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,88260,2026-11-18T13:05+00:00
+151033,FL,Florida Circuit Judge Circuit 9 Group 1,2026-11-03,99.9,,False,2,2,545793,2026-11-18T13:05+00:00
+166594,FL,"Long Lake Reserve CDD Seat 3, Pasco County",2026-11-03,99.9,,False,2,1,331,2026-11-18T13:05+00:00
+166202,FL,"High Springs City Commissioner Seat 1, Alachua County",2026-11-03,99.9,,False,2,1,2886,2026-11-18T13:05+00:00
+166610,FL,"Lake Ashton CDD Seat 4, Polk County",2026-11-03,99.9,,False,2,1,1048,2026-11-18T13:05+00:00
+166243,FL,"Ave Maria Stewardship District, Seat 5, Collier County",2026-11-03,99.9,,False,2,1,5223,2026-11-18T13:05+00:00
+166267,FL,"El Portal Councilperson Seat 1, Miami-Dade County",2026-11-03,99.9,,False,4,1,956,2026-11-18T13:05+00:00
+166291,FL,"SunnyIslesBeach ResArea Commissioner Seat 2, Miami-Dade County",2026-11-03,99.9,,False,4,1,5555,2026-11-18T13:05+00:00
+166475,FL,"Avalon Groves CDD Board, Seat 4, Lake County",2026-11-03,99.9,,False,2,1,1424,2026-11-18T13:05+00:00
+166541,FL,"Lakewood Ranch CDD 2, Seat 5, Manatee County",2026-11-03,99.9,,False,3,1,1335,2026-11-18T13:05+00:00
+150996,FL,Florida State House 93,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,72365,2026-11-18T13:05+00:00
+150988,FL,Florida State House 85,2026-11-03,99.9,2026-11-12T01:54:12.313Z,False,4,2,86042,2026-11-18T13:05+00:00
+166549,FL,Manatee County Referendum,2026-11-03,99.9,,False,2,1,170492,2026-11-18T13:05+00:00
+166790,FL,"Coconut Creek, Question 5, Broward County",2026-11-03,99.9,,False,2,1,18025,2026-11-18T13:05+00:00
+166398,FL,"Sterling Hill Community Development District, Seat 2, Hernando County",2026-11-03,99.9,,False,2,1,1379,2026-11-18T13:05+00:00
+166806,FL,"Fort Lauderdale, Question 4, Broward County",2026-11-03,99.9,,False,2,1,59101,2026-11-18T13:05+00:00
+166414,FL,"Supervisor Hidden Creek CDD Seat 2, Hillsborough County",2026-11-03,99.9,,False,2,1,991,2026-11-18T13:05+00:00
+166655,FL,"Longwood, Bond Referendum, Q1 Longwood, Seminole County",2026-11-03,99.9,,False,2,1,6039,2026-11-18T13:05+00:00
+150918,FL,Florida State House 1,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,1,63851,2026-11-18T13:05+00:00
+166479,FL,"Astatula Charter Amendment 1, Lake County",2026-11-03,66.7,,False,2,1,777,2026-11-18T13:05+00:00
+166264,FL,"Doral Councilmember Seat 2, Miami-Dade County",2026-11-03,99.9,,False,2,1,19175,2026-11-18T13:05+00:00
+166480,FL,"Astatula Charter Amendment No. 2, Lake County",2026-11-03,66.7,,False,2,1,774,2026-11-18T13:05+00:00
+166280,FL,"Opa-locka Mayor, Miami-Dade County",2026-11-03,62.5,,False,2,1,2854,2026-11-18T13:05+00:00
+150927,FL,Florida State House 13,2026-11-03,0,2026-11-04T07:09:42.048Z,False,1,0,0,2026-11-18T13:05+00:00
+166730,FL,"Coral Springs, Commissioner, Seat 3, Broward County",2026-11-03,99.9,,False,5,1,40130,2026-11-18T13:05+00:00
+166338,FL,"NMiaBeach Residence Requirement Candidates, Miami-Dade County",2026-11-03,92.3,,False,2,1,9468,2026-11-18T13:05+00:00
+166746,FL,"Lauderhill, Mayor, Broward County",2026-11-03,99.9,,False,2,1,20847,2026-11-18T13:05+00:00
+166546,FL,"Silverleaf CDD, Seat 4, Manatee County",2026-11-03,99.9,,False,2,1,708,2026-11-18T13:05+00:00
+166787,FL,"Coconut Creek, Question 2, Broward County",2026-11-03,99.9,,False,2,1,18919,2026-11-18T13:05+00:00
+166203,FL,"High Springs City Commissioner Seat 2, Alachua County",2026-11-03,99.9,,False,2,1,2926,2026-11-18T13:05+00:00
+166227,FL,Clay County Board of County Commissioners District 2,2026-11-03,99.9,,False,2,1,16866,2026-11-18T13:05+00:00
+166219,FL,"City of Panama City Terms and Qualifications of Commissioners, Bay County",2026-11-03,99.9,,False,2,1,11481,2026-11-18T13:05+00:00
+166460,FL,"Groveland Council Member, District 3, Lake County",2026-11-03,99.9,,False,2,1,1838,2026-11-18T13:05+00:00
+166484,FL,"Tavares Charter Amendment Referendum, Lake County",2026-11-03,99.9,,False,2,1,7875,2026-11-18T13:05+00:00
+150939,FL,Florida State House 29,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,1,68195,2026-11-18T13:05+00:00
+150931,FL,Florida State House 19,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,2,92726,2026-11-18T13:05+00:00
+166534,FL,"Cross Creek CDD, Seat 2, Manatee County",2026-11-03,99.9,,False,2,1,418,2026-11-18T13:05+00:00
+150989,FL,Florida State House 86,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,2,82026,2026-11-18T13:05+00:00
+166742,FL,"Hollywood, Commissioner, District 5, Broward County",2026-11-03,99.9,,False,2,1,7071,2026-11-18T13:05+00:00
+151005,FL,Florida State House 115,2026-11-03,96.5,2026-11-04T07:09:42.049Z,False,2,1,71121,2026-11-18T13:05+00:00
+166591,FL,"Lakeside CDD Seat 5, Pasco County",2026-11-03,99.9,,False,2,1,744,2026-11-18T13:05+00:00
+166807,FL,"Fort Lauderdale, Question 5, Broward County",2026-11-03,99.9,,False,2,1,56757,2026-11-18T13:05+00:00
+166415,FL,"Supervisor Hidden Creek CDD Seat 5, Hillsborough County",2026-11-03,99.9,,False,3,1,977,2026-11-18T13:05+00:00
+166215,FL,"Lake Powell Community Development District Seat 5, Bay County",2026-11-03,99.9,,False,2,1,305,2026-11-18T13:05+00:00
+166200,FL,Alachua County Commissioner District 4,2026-11-03,99.9,,False,2,1,97978,2026-11-18T13:05+00:00
+166416,FL,"Supervisor K-Bar Ranch II CDD Seat 4, Hillsborough County",2026-11-03,99.9,,False,2,1,612,2026-11-18T13:05+00:00
+166824,FL,"North Lauderdale, Question 2, Broward County",2026-11-03,99.9,,False,2,1,10894,2026-11-18T13:05+00:00
+166816,FL,"Lauderdale-by-the-Sea, Question 2, Broward County",2026-11-03,99.9,,False,2,1,2998,2026-11-18T13:05+00:00
+166673,FL,"Julington Creek Plantation Community Development District Seat 1, St. Johns County",2026-11-03,99.9,,False,2,1,6221,2026-11-18T13:05+00:00
+166281,FL,"Opa-locka Commissioners, Miami-Dade County",2026-11-03,62.5,,False,4,1,3804,2026-11-18T13:05+00:00
+166689,FL,"St. Lucie County School Board, District 5",2026-11-03,99.9,,False,2,1,118710,2026-11-18T13:05+00:00
+166489,FL,"Leon County Commissioner, At Large, Group 2",2026-11-03,99.9,,False,2,1,100374,2026-11-18T13:05+00:00
+166531,FL,"West Manatee Fire and Rescue, Seat 4",2026-11-03,99.9,,False,2,1,10464,2026-11-18T13:05+00:00
+166747,FL,"Lauderhill, Commissioner, Seat 4, Broward County",2026-11-03,99.9,,False,4,1,20442,2026-11-18T13:05+00:00
+166355,FL,"Arcadia City Council, DeSoto County",2026-11-03,99.9,,False,5,1,2899,2026-11-18T13:05+00:00
+166763,FL,"Weston, Commissioner, Seat 3, Broward County",2026-11-03,99.9,,False,2,1,21594,2026-11-18T13:05+00:00
+166396,FL,"Brooksville City Council Member, Seat 1, Hernando County",2026-11-03,99.9,,False,2,1,3046,2026-11-18T13:05+00:00
+166420,FL,"Supervisor Rivercrest CDD Seat 1, Hillsborough County",2026-11-03,99.9,,False,2,1,1238,2026-11-18T13:05+00:00
+166636,FL,"Lakeside Plantation CDD Seat 2, Sarasota County",2026-11-03,99.9,,False,2,1,502,2026-11-18T13:05+00:00
+166820,FL,"Lauderdale-by-the-Sea, Question 6, Broward County",2026-11-03,99.9,,False,2,1,2896,2026-11-18T13:05+00:00
+166285,FL,"Pinecrest Councilmember Seat 3, Miami-Dade County",2026-11-03,99.9,,False,2,1,7915,2026-11-18T13:05+00:00
+166693,FL,"River Place on the St. Lucie, Seat 2",2026-11-03,99.9,,False,2,1,472,2026-11-18T13:05+00:00
+166493,FL,"Mayor, Leon County",2026-11-03,99.9,,False,2,1,72761,2026-11-18T13:05+00:00
+166702,FL,"City of Bushnell Mayor Seat 1, Sumter County",2026-11-03,99.9,,False,2,1,1135,2026-11-18T13:05+00:00
+166335,FL,"NMiaBeach MeetingSch/SpMeeting/Comm Attend, Miami-Dade County",2026-11-03,92.3,,False,2,1,9256,2026-11-18T13:05+00:00
+166551,FL,"City of Bradenton Referendum 2, Manatee County",2026-11-03,99.9,,False,2,1,16582,2026-11-18T13:05+00:00
+151006,FL,Florida State House 116,2026-11-03,96.2,2026-11-04T07:09:42.050Z,False,2,1,56647,2026-11-18T13:05+00:00
+166759,FL,"Sunrise, Commissioner, Seat D, Broward County",2026-11-03,99.9,,False,2,1,29169,2026-11-18T13:05+00:00
+151007,FL,Florida State House 117,2026-11-03,99.9,2026-11-04T07:09:42.050Z,False,2,1,45635,2026-11-18T13:05+00:00
+166568,FL,Marion County School Board - District 4,2026-11-03,0.9,,False,2,1,139170,2026-11-18T13:05+00:00
+166560,FL,"Village Council Seat 4, Monroe County",2026-11-03,99.9,,False,2,1,3045,2026-11-18T13:05+00:00
+166609,FL,"Lake Ashton CDD Seat 3, Polk County",2026-11-03,99.9,,False,2,1,1043,2026-11-18T13:05+00:00
+166825,FL,"North Lauderdale, Question 3, Broward County",2026-11-03,99.9,,False,2,1,10881,2026-11-18T13:05+00:00
+166625,FL,"Charter Review Board District 3, Sarasota County",2026-11-03,99.9,,False,2,1,217662,2026-11-18T13:05+00:00
+166425,FL,"Supervisor Spring Lake CDD Seat 1, Hillsborough County",2026-11-03,99.9,,False,2,1,911,2026-11-18T13:05+00:00
+166474,FL,"Avalon Groves CDD Board, Seat 3, Lake County",2026-11-03,99.9,,False,2,1,1412,2026-11-18T13:05+00:00
+166690,FL,City of Port St. Lucie Mayor,2026-11-03,99.9,,False,2,1,88397,2026-11-18T13:05+00:00
+150946,FL,Florida State House 36,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,1,69552,2026-11-18T13:05+00:00
+166507,FL,"Levy County Commissioner, Dist 2",2026-11-03,99.9,,False,3,1,17998,2026-11-18T13:05+00:00
+150987,FL,Florida State House 84,2026-11-03,99.9,2026-11-12T01:54:12.313Z,False,2,1,70669,2026-11-18T13:05+00:00
+166356,FL,Duval County Court Judge Group 13,2026-11-03,99.9,,False,2,1,311070,2026-11-18T13:05+00:00
+166380,FL,Gadsden County Commissioner District 4,2026-11-03,99.9,,False,2,1,3303,2026-11-18T13:05+00:00
+166564,FL,"Village Amend-3 Yr Staggered Terms for Councilmembers with Limit 3 Terms, Monroe County",2026-11-03,99.9,,False,2,1,3188,2026-11-18T13:05+00:00
+166829,FL,"Southwest Ranches, Question, Broward County",2026-11-03,99.9,,False,2,1,3340,2026-11-18T13:05+00:00
+166437,FL,"City of Sebastian City Council Member, Indian River County",2026-11-03,85.7,,False,5,1,19240,2026-11-18T13:05+00:00
+166429,FL,"Supervisor Waterleaf CDD Seat 3, Hillsborough County",2026-11-03,99.9,,False,2,1,745,2026-11-18T13:05+00:00
+166453,FL,"Astatula Council Member, Seats 3 and 4, Lake County",2026-11-03,66.7,,False,4,1,1283,2026-11-18T13:05+00:00
+166278,FL,"North Miami Beach Group 4 Commissioner, Miami-Dade County",2026-11-03,92.3,,False,4,1,10066,2026-11-18T13:05+00:00
+166295,FL,"Coronado Community Development Dist Seat 1, Miami-Dade County",2026-11-03,99.9,,False,2,1,162,2026-11-18T13:05+00:00
+166703,FL,"City of Center Hill Council Seat 3, Sumter County",2026-11-03,99.9,,False,2,1,276,2026-11-18T13:05+00:00
+166503,FL,Leon County Charter Amendment - Affirmation,2026-11-03,99.9,,False,2,1,111827,2026-11-18T13:05+00:00
+166744,FL,"Lauderdale-by-the-Sea, Commissioner, Seat 1, Broward County",2026-11-03,99.9,,False,2,1,3014,2026-11-18T13:05+00:00
+166312,FL,"Doral Term Limits for Mayor/Councilmembers, Miami-Dade County",2026-11-03,99.9,,False,2,1,19511,2026-11-18T13:05+00:00
+166304,FL,"CntyChtrAmdt Expand Allowable Advert Parks, Miami-Dade County",2026-11-03,94.3,,False,2,1,736538,2026-11-18T13:05+00:00
+166353,FL,"SMiami Special Elec to Fill Comm Vacancies, Miami-Dade County",2026-11-03,99.9,,False,2,1,4309,2026-11-18T13:05+00:00
+166569,FL,Marion County School Board - District 5,2026-11-03,0.9,,False,2,1,139310,2026-11-18T13:05+00:00
+166369,FL,"Flagler County Board of County Commissioners, District 2",2026-11-03,99.9,,False,2,1,59393,2026-11-18T13:05+00:00
+151016,FL,Florida District Court of Appeal 2 Judge Drew Atkinson Retention,2026-11-03,99.9,,False,2,6,1401190,2026-11-18T13:05+00:00
+166218,FL,"City of Lynn Haven Extending Time to Fill Vacancy on Commission, Bay County",2026-11-03,99.9,,False,2,1,7600,2026-11-18T13:05+00:00
+166626,FL,"Charter Review Board District 4, Sarasota County",2026-11-03,99.9,,False,2,1,217061,2026-11-18T13:05+00:00
+166234,FL,"Collier County Commissioner, District 2",2026-11-03,99.9,,False,2,1,34913,2026-11-18T13:05+00:00
+166450,FL,Lake County Commissioner District 4,2026-11-03,99.9,,False,3,1,173867,2026-11-18T13:05+00:00
+150930,FL,Florida State House 18,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,1,106310,2026-11-18T13:05+00:00
+150947,FL,Florida State House 37,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,2,58442,2026-11-18T13:05+00:00
+150971,FL,Florida State House 67,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,51990,2026-11-18T13:05+00:00
+166308,FL,"CGables Increase value public work projects, Miami-Dade County",2026-11-03,99.9,,False,2,1,19828,2026-11-18T13:05+00:00
+166573,FL,"Dunnellon Charter Amendment, Marion County",2026-11-03,50,,False,2,1,695,2026-11-18T13:05+00:00
+151028,FL,Florida District Court of Appeal 4 Judge Shannon K. Shaw Retention,2026-11-03,98.1,,False,2,6,1350363,2026-11-18T13:05+00:00
+151020,FL,Florida District Court of Appeal 3 Judge Kansas R. Gooden Retention,2026-11-03,94.5,,False,2,2,734216,2026-11-18T13:05+00:00
+166581,FL,"Town Charter Amendment Creating the Role of Town Manager as Chief Executive and Administrative Officer, Nassau County",2026-11-03,50,,False,2,1,924,2026-11-18T13:05+00:00
+166822,FL,"Lauderdale-by-the-Sea, Question 8, Broward County",2026-11-03,99.9,,False,2,1,2951,2026-11-18T13:05+00:00
+166430,FL,No. 1 Hillsborough County Referendum,2026-11-03,99.9,,False,2,1,495665,2026-11-18T13:05+00:00
+166646,FL,"Altamonte Springs, Comm, Dist 4 Altamonte Springs, Seminole County",2026-11-03,99.9,,False,2,1,13246,2026-11-18T13:05+00:00
+166446,FL,"City of Monticello Amendment 1, Jefferson County",2026-11-03,99.9,,False,2,1,1133,2026-11-18T13:05+00:00
+166687,FL,"Town of Welaka Referendum, Question No. 1, Putnam County",2026-11-03,99.9,,False,2,1,475,2026-11-18T13:05+00:00
+166704,FL,"Village Community Development District 2 Seat 1, Sumter County",2026-11-03,99.9,,False,2,1,2855,2026-11-18T13:05+00:00
+166247,FL,Collier County Tourist Development Tax,2026-11-03,99.9,,False,2,1,160588,2026-11-18T13:05+00:00
+150944,FL,Florida State House 34,2026-11-03,97.4,2026-11-04T07:09:42.048Z,False,2,2,87339,2026-11-18T13:05+00:00
+166313,FL,"KeyBiscayne Stormwater/Flood Prevention, Miami-Dade County",2026-11-03,99.9,,False,2,1,4721,2026-11-18T13:05+00:00
+150960,FL,Florida State House 53,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,3,2,71201,2026-11-18T13:05+00:00
+166713,FL,Wakulla County School Board Referendum No. 2026-35,2026-11-03,99.9,,False,2,1,14827,2026-11-18T13:05+00:00
+166762,FL,"West Park, Commissioner, Seat 2, Broward County",2026-11-03,99.9,,False,2,1,4294,2026-11-18T13:05+00:00
+166370,FL,"Flagler County Board of County Commissioners, District 4",2026-11-03,99.9,,False,2,1,47784,2026-11-18T13:05+00:00
+166778,FL,"Turtle Run Community Development District, Seat 2, Broward County",2026-11-03,99.9,,False,2,1,1151,2026-11-18T13:05+00:00
+166578,FL,"Amelia Walk Community Development District Seat 4, Nassau County",2026-11-03,50,,False,2,1,1075,2026-11-18T13:05+00:00
+166819,FL,"Lauderdale-by-the-Sea, Question 5, Broward County",2026-11-03,99.9,,False,2,1,2920,2026-11-18T13:05+00:00
+166235,FL,"Marco Island City Council, Collier County",2026-11-03,99.9,,False,6,1,26115,2026-11-18T13:05+00:00
+150914,FL,Florida State Senate 34,2026-11-03,96,2026-11-04T07:09:42.047Z,False,2,1,146454,2026-11-18T13:05+00:00
+166251,FL,"Fort White Town Council Member District 1, Columbia County",2026-11-03,99.9,,False,2,1,62,2026-11-18T13:05+00:00
+166492,FL,"Leon County School Board, District 1",2026-11-03,99.9,,False,2,1,23135,2026-11-18T13:05+00:00
+166317,FL,"MiamiBeach Lease Property 1691 Michigan Ave, Miami-Dade County",2026-11-03,99.9,,False,2,1,24610,2026-11-18T13:05+00:00
+166725,FL,"Clay Roberts, Walton County",2026-11-03,99.9,,False,2,1,30885,2026-11-18T13:05+00:00
+166717,FL,"Tourist Development Tax Referendum, Washington County",2026-11-03,99.9,,False,2,1,8799,2026-11-18T13:05+00:00
+166325,FL,"MiamiLakes Early Voting Req for Elections, Miami-Dade County",2026-11-03,99.9,,False,2,1,10868,2026-11-18T13:05+00:00
+166566,FL,"Village Amend-Req Supermajority Vote Relating to Village-Owned Property, Monroe County",2026-11-03,99.9,,False,2,1,3146,2026-11-18T13:05+00:00
+151021,FL,Florida District Court of Appeal 3 Judge Monica Gordo Retention,2026-11-03,94.5,,False,2,2,733643,2026-11-18T13:05+00:00
+166774,FL,"South Broward Drainage District, Zone 5",2026-11-03,99.9,,False,2,1,9969,2026-11-18T13:05+00:00
+151037,FL,Florida Lehigh Acres Municipal Services Improvement Dist Seat 4,2026-11-03,99.9,,False,2,2,25158,2026-11-18T13:05+00:00
+166623,FL,"School Renewal Sales Surtax, Santa Rosa County",2026-11-03,35.7,,False,2,1,72201,2026-11-18T13:05+00:00
+166647,FL,"Casselberry, Comm, Seat 1 Casselberry, Seminole County",2026-11-03,99.9,,False,2,1,9047,2026-11-18T13:05+00:00
+166255,FL,Miami-Dade County School Board Member District 1,2026-11-03,91.4,,False,2,1,74875,2026-11-18T13:05+00:00
+166232,FL,"Charter Amendment Revising Commissioner Salary Provisions, Clay County",2026-11-03,99.9,,False,2,1,88704,2026-11-18T13:05+00:00
+166256,FL,"Aventura Mayor, Miami-Dade County",2026-11-03,88.9,,False,2,1,12423,2026-11-18T13:05+00:00
+150903,FL,Florida State Senate 10,2026-11-03,99.9,2026-11-04T07:09:42.047Z,False,2,2,223634,2026-11-18T13:05+00:00
+166656,FL,"Oviedo, Charter Amendment Q1 Oviedo, Seminole County",2026-11-03,99.9,,False,2,1,16915,2026-11-18T13:05+00:00
+166506,FL,Leon County Straw Ballot Question - Consolidation,2026-11-03,99.9,,False,2,1,113419,2026-11-18T13:05+00:00
+150961,FL,Florida State House 55,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,86321,2026-11-18T13:05+00:00
+166522,FL,"Bradenton City Council, Ward 4, Manatee County",2026-11-03,99.9,,False,2,1,15444,2026-11-18T13:05+00:00
+166322,FL,"MiamiLakes Nov General Election/Dec Runoff, Miami-Dade County",2026-11-03,99.9,,False,2,1,10580,2026-11-18T13:05+00:00
+166563,FL,"KW Amend-Increase Term of Service Mayor to 12 yrs, Monroe County",2026-11-03,99.9,,False,2,1,8657,2026-11-18T13:05+00:00
+166779,FL,"Turtle Run Community Development District, Seat 3, Broward County",2026-11-03,99.9,,False,2,1,1123,2026-11-18T13:05+00:00
+166803,FL,"Fort Lauderdale, Question 1, Broward County",2026-11-03,99.9,,False,2,1,58484,2026-11-18T13:05+00:00
+166795,FL,"Deerfield Beach, Question B, Broward County",2026-11-03,99.9,,False,2,1,22525,2026-11-18T13:05+00:00
+166428,FL,"Supervisor Waterleaf CDD Seat 2, Hillsborough County",2026-11-03,99.9,,False,2,1,741,2026-11-18T13:05+00:00
+166260,FL,"Coral Gables for Commissioner Group V, Miami-Dade County",2026-11-03,99.9,,False,2,1,19280,2026-11-18T13:05+00:00
+166668,FL,"St. Augustine Port, Waterway, and Beach Commission Group 1, St. Johns County",2026-11-03,90.5,,False,2,1,29286,2026-11-18T13:05+00:00
+166660,FL,"Oviedo, Charter Amendment Q5 Oviedo, Seminole County",2026-11-03,99.9,,False,2,1,16478,2026-11-18T13:05+00:00
+166310,FL,"CGables Four-year term of office City Mayor, Miami-Dade County",2026-11-03,99.9,,False,2,1,20358,2026-11-18T13:05+00:00
+166718,FL,"Town of Interlachen Charter Amendment, Question 1, Putnam County",2026-11-03,99.9,,False,2,1,437,2026-11-18T13:05+00:00
+166518,FL,Manatee County Commissioner District 6 (At-Large),2026-11-03,99.9,,False,2,1,178909,2026-11-18T13:05+00:00
+166734,FL,"Davie, Councilmember, District 1, Broward County",2026-11-03,99.9,,False,3,1,4971,2026-11-18T13:05+00:00
+166367,FL,"Trails CDD - Seat 5, Duval County",2026-11-03,99.9,,False,2,1,543,2026-11-18T13:05+00:00
+166583,FL,Pasco County School Board Member District 1,2026-11-03,99.9,,False,2,1,210087,2026-11-18T13:05+00:00
+151038,FL,Florida Port LaBelle Community Development District Seat 5,2026-11-03,99.9,,False,2,2,1661,2026-11-18T13:05+00:00
+166791,FL,"Cooper City, Question 1, Broward County",2026-11-03,99.9,,False,2,1,13387,2026-11-18T13:05+00:00
+151039,FL,Florida Sebastian Inlet Tax District District 5,2026-11-03,99.9,,False,2,2,137094,2026-11-18T13:05+00:00
+166600,FL,"Watergrass II CDD Seat 4, Pasco County",2026-11-03,99.9,,False,2,1,1359,2026-11-18T13:05+00:00
+166592,FL,"Long Lake Ranch CDD Seat 4, Pasco County",2026-11-03,99.9,,False,2,1,860,2026-11-18T13:05+00:00
+166449,FL,Lake County Commissioner District 2,2026-11-03,99.9,,False,2,1,139560,2026-11-18T13:05+00:00
+150904,FL,Florida State Senate 12,2026-11-03,99.9,2026-11-12T01:54:12.313Z,False,2,1,186781,2026-11-18T13:05+00:00
+166465,FL,"Leesburg Seat 3, District 3, Lake County",2026-11-03,42.9,,False,2,1,3139,2026-11-18T13:05+00:00
+166265,FL,"Doral Councilmember Seat 4, Miami-Dade County",2026-11-03,99.9,,False,2,1,18836,2026-11-18T13:05+00:00
+166307,FL,"Aventura Ind Auditor Rotation Requirement, Miami-Dade County",2026-11-03,88.9,,False,2,1,11800,2026-11-18T13:05+00:00
+166523,FL,"City of Holmes Beach Mayor, Manatee County",2026-11-03,99.9,,False,2,1,1588,2026-11-18T13:05+00:00
+150978,FL,Florida State House 74,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,91855,2026-11-18T13:05+00:00
+166539,FL,"Harrison Ranch CDD, Seat 3, Manatee County",2026-11-03,99.9,,False,2,1,1149,2026-11-18T13:05+00:00
+151019,FL,Florida District Court of Appeal 2 Judge Andrea Teves Smith Retention,2026-11-03,99.9,,False,2,6,1390944,2026-11-18T13:05+00:00
+166388,FL,Hamilton County Commissioner District 4,2026-11-03,99.9,,False,2,1,1008,2026-11-18T13:05+00:00
+166412,FL,"Supervisor Fishhawk Ranch CDD Seat 4, Hillsborough County",2026-11-03,99.9,,False,2,1,5549,2026-11-18T13:05+00:00
+166596,FL,"Oak Creek CDD Seat 2, Pasco County",2026-11-03,99.9,,False,2,1,548,2026-11-18T13:05+00:00
+150908,FL,Florida State Senate 22,2026-11-03,99.9,2026-11-04T07:09:42.047Z,False,3,2,265563,2026-11-18T13:05+00:00
+166469,FL,"Minneola Council Member, Seat 3, Lake County",2026-11-03,99.9,,False,3,1,7070,2026-11-18T13:05+00:00
+166269,FL,"El Portal Councilperson Seat 3, Miami-Dade County",2026-11-03,99.9,,False,2,1,942,2026-11-18T13:05+00:00
+166485,FL,"Umatilla Ballot Question Number 1, Lake County",2026-11-03,99.9,,False,2,1,1611,2026-11-18T13:05+00:00
+150958,FL,Florida State House 51,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,1,69605,2026-11-18T13:05+00:00
+166327,FL,"MiamiLakes Filling Council Vacancies, Miami-Dade County",2026-11-03,99.9,,False,2,1,10684,2026-11-18T13:05+00:00
+166735,FL,"Davie, Councilmember, District 3, Broward County",2026-11-03,99.9,,False,4,1,8004,2026-11-18T13:05+00:00
+166535,FL,"Eagle Pointe CDD, Seat 1, Manatee County",2026-11-03,99.9,,False,2,1,318,2026-11-18T13:05+00:00
+166776,FL,"Sunshine Water Control District, Seat 5, Broward County",2026-11-03,99.9,,False,2,1,12528,2026-11-18T13:05+00:00
+166344,FL,"PalmettoBay Public Spkr Home Add Disclosure, Miami-Dade County",2026-11-03,99.9,,False,2,1,10082,2026-11-18T13:05+00:00
+166336,FL,"NMiaBeach Development Proj/Recall Procedure, Miami-Dade County",2026-11-03,92.3,,False,2,1,9389,2026-11-18T13:05+00:00
+166385,FL,Flexible Funding for Glades County Schools,2026-11-03,99.9,,False,2,1,3640,2026-11-18T13:05+00:00
+166601,FL,"Watergrass II CDD Seat 5, Pasco County",2026-11-03,99.9,,False,2,1,1367,2026-11-18T13:05+00:00
+166401,FL,Hillsborough County Board of County Commissioners District 3,2026-11-03,99.9,,False,2,1,98294,2026-11-18T13:05+00:00
+166201,FL,Alachua County School Board District 1,2026-11-03,99.9,,False,2,1,93780,2026-11-18T13:05+00:00
+166250,FL,Columbia County Commissioner District 4,2026-11-03,88.9,,False,2,1,4354,2026-11-18T13:05+00:00
+166466,FL,"Mascotte City Council, Seat 2, Lake County",2026-11-03,99.9,,False,2,1,2140,2026-11-18T13:05+00:00
+150921,FL,Florida State House 4,2026-11-03,99.9,2026-11-04T07:09:42.048Z,False,2,1,64185,2026-11-18T13:05+00:00
+166482,FL,Lady Lake Amendment 1,2026-11-03,99.9,,False,2,1,6341,2026-11-18T13:05+00:00
+166716,FL,Washington County School Board Ad Valorem Millage,2026-11-03,99.9,,False,2,1,8740,2026-11-18T13:05+00:00
+150979,FL,Florida State House 75,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,2,98050,2026-11-18T13:05+00:00
+151003,FL,Florida State House 108,2026-11-03,99.9,2026-11-04T07:09:42.049Z,False,2,1,48565,2026-11-18T13:05+00:00
+166340,FL,"NMiaBeach Muni Powers Public Health/Safety, Miami-Dade County",2026-11-03,92.3,,False,2,1,10230,2026-11-18T13:05+00:00
+166605,FL,Pasco School Board Millage,2026-11-03,99.9,,False,2,1,225088,2026-11-18T13:05+00:00
+166213,FL,"Panama City Beach Council Member Ward 3, Bay County",2026-11-03,99.9,,False,2,1,6417,2026-11-18T13:05+00:00
+166205,FL,"City of Archer Charter Amendment No. 1, Alachua County",2026-11-03,99.9,,False,2,1,364,2026-11-18T13:05+00:00
+166421,FL,"Supervisor Shell Point CDD Seat 2, Hillsborough County",2026-11-03,99.9,,False,2,1,585,2026-11-18T13:05+00:00
+150901,FL,Florida State Senate 6,2026-11-03,98.5,2026-11-04T07:09:42.047Z,False,3,7,210608,2026-11-18T13:05+00:00
+166270,FL,"El Portal Councilperson Seat 4, Miami-Dade County",2026-11-03,99.9,,False,2,1,932,2026-11-18T13:05+00:00
+166678,FL,"Twin Creeks North Community Development District Seat 4, St. Johns County",2026-11-03,99.9,,False,2,1,893,2026-11-18T13:05+00:00
+166478,FL,Lake County North Hospital District Continuation,2026-11-03,99.9,,False,2,1,97449,2026-11-18T13:05+00:00
+166520,FL,Manatee County School Board Member District 5,2026-11-03,99.9,,False,2,1,43664,2026-11-18T13:05+00:00
+166736,FL,"Davie, Councilmember, District 4, Broward County",2026-11-03,99.9,,False,3,1,9654,2026-11-18T13:05+00:00
+87068,FL,Florida US Senate Special,2026-11-03,92.7,2026-11-04T02:23:25.538Z,False,3,67,8281015,2026-11-18T13:05+00:00
+87064,FL,Florida US House 25,2026-11-03,91.4,2026-11-04T02:21:59.540Z,False,4,3,280907,2026-11-18T13:05+00:00
+87056,FL,Florida US House 17,2026-11-03,95.7,,False,3,3,357914,2026-11-18T13:05+00:00
+87048,FL,Florida US House 9,2026-11-03,82.8,2026-11-09T20:53:07.709Z,False,2,7,285139,2026-11-18T13:05+00:00
+87040,FL,Florida US House 1,2026-11-03,85.7,2026-11-04T01:47:49.805Z,False,3,4,291041,2026-11-18T13:05+00:00
+87057,FL,Florida US House 18,2026-11-03,90.8,2026-11-04T02:40:01.573Z,False,3,2,273618,2026-11-18T13:05+00:00
+87060,FL,Florida US House 21,2026-11-03,93.2,2026-11-04T01:47:49.804Z,False,4,3,342217,2026-11-18T13:05+00:00
+87052,FL,Florida US House 13,2026-11-03,89.8,2026-11-04T01:47:49.804Z,False,3,2,313670,2026-11-18T13:05+00:00
+87044,FL,Florida US House 5,2026-11-03,94.4,,False,3,2,334118,2026-11-18T13:05+00:00
+87061,FL,Florida US House 22,2026-11-03,92.2,2026-11-04T01:47:49.804Z,False,2,4,295126,2026-11-18T13:05+00:00
+87049,FL,Florida US House 10,2026-11-03,0,,False,1,1,0,2026-11-18T13:05+00:00
+87041,FL,Florida US House 2,2026-11-03,87.2,2026-11-04T02:21:59.540Z,False,2,16,309507,2026-11-18T13:05+00:00
+87065,FL,Florida US House 26,2026-11-03,92,2026-11-09T21:38:01.155Z,False,3,2,229832,2026-11-18T13:05+00:00
+87050,FL,Florida US House 11,2026-11-03,69.9,2026-11-04T01:47:49.804Z,False,3,3,365778,2026-11-18T13:05+00:00
+87053,FL,Florida US House 14,2026-11-03,92.2,2026-11-04T02:21:59.540Z,False,4,1,300617,2026-11-18T13:05+00:00
+87045,FL,Florida US House 6,2026-11-03,93.8,,False,4,6,331819,2026-11-18T13:05+00:00
+87062,FL,Florida US House 23,2026-11-03,90.8,,False,2,1,258967,2026-11-18T13:05+00:00
+87054,FL,Florida US House 15,2026-11-03,91.5,2026-11-04T01:47:49.804Z,False,3,4,301391,2026-11-18T13:05+00:00
+87042,FL,Florida US House 3,2026-11-03,84.5,2026-11-04T01:47:49.805Z,False,3,12,300461,2026-11-18T13:05+00:00
+87066,FL,Florida US House 27,2026-11-03,92.5,2026-11-10T22:52:35.317Z,False,2,1,247966,2026-11-18T13:05+00:00
+87058,FL,Florida US House 19,2026-11-03,94.6,,False,4,2,325257,2026-11-18T13:05+00:00
+87043,FL,Florida US House 4,2026-11-03,90.2,2026-11-04T01:47:49.805Z,False,4,3,301173,2026-11-18T13:05+00:00
+87046,FL,Florida US House 7,2026-11-03,93.2,2026-11-09T23:34:15.124Z,False,3,2,324469,2026-11-18T13:05+00:00
+87063,FL,Florida US House 24,2026-11-03,92.2,,False,3,2,204862,2026-11-18T13:05+00:00
+87055,FL,Florida US House 16,2026-11-03,90.6,2026-11-04T01:47:49.804Z,False,3,6,343074,2026-11-18T13:05+00:00
+87047,FL,Florida US House 8,2026-11-03,79.3,2026-11-04T01:47:49.804Z,False,2,2,319595,2026-11-18T13:05+00:00
+87067,FL,Florida US House 28,2026-11-03,91.7,2026-11-04T01:47:49.804Z,False,3,2,236386,2026-11-18T13:05+00:00
+87059,FL,Florida US House 20,2026-11-03,91.4,,False,3,1,245706,2026-11-18T13:05+00:00
+87051,FL,Florida US House 12,2026-11-03,93.2,2026-11-04T01:47:49.804Z,False,3,2,286137,2026-11-18T13:05+00:00

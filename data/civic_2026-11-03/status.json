@@ -1,0 +1,359 @@
+{
+ "AL": {
+  "races": 161,
+  "candidates": 237,
+  "region_rows": 2583,
+  "failed": 0,
+  "read_at": "2026-11-18T12:39+00:00"
+ },
+ "AK": {
+  "races": 78,
+  "candidates": 183,
+  "region_rows": 3076,
+  "failed": 0,
+  "read_at": "2026-11-18T12:40+00:00"
+ },
+ "AZ": {
+  "races": 179,
+  "candidates": 472,
+  "region_rows": 1879,
+  "failed": 0,
+  "read_at": "2026-11-18T12:41+00:00"
+ },
+ "AR": {
+  "races": 1317,
+  "candidates": 2378,
+  "region_rows": 5060,
+  "failed": 0,
+  "read_at": "2026-11-18T12:42+00:00"
+ },
+ "CA": {
+  "races": 801,
+  "candidates": 2157,
+  "region_rows": 6853,
+  "failed": 0,
+  "read_at": "2026-11-18T12:50+00:00"
+ },
+ "CO": {
+  "races": 988,
+  "candidates": 1893,
+  "region_rows": 7862,
+  "failed": 0,
+  "read_at": "2026-11-18T12:54+00:00"
+ },
+ "CT": {
+  "races": 365,
+  "candidates": 697,
+  "region_rows": 7172,
+  "failed": 0,
+  "read_at": "2026-11-18T13:00+00:00"
+ },
+ "DE": {
+  "races": 79,
+  "candidates": 130,
+  "region_rows": 307,
+  "failed": 0,
+  "read_at": "2026-11-18T13:03+00:00"
+ },
+ "DC": {
+  "races": 361,
+  "candidates": 754,
+  "region_rows": 242,
+  "failed": 0,
+  "read_at": "2026-11-18T13:03+00:00"
+ },
+ "FL": {
+  "races": 811,
+  "candidates": 1809,
+  "region_rows": 5126,
+  "failed": 0,
+  "read_at": "2026-11-18T13:05+00:00"
+ },
+ "GA": {
+  "races": 1151,
+  "candidates": 1721,
+  "region_rows": 7906,
+  "failed": 0,
+  "read_at": "2026-11-18T13:10+00:00"
+ },
+ "HI": {
+  "races": 65,
+  "candidates": 152,
+  "region_rows": 282,
+  "failed": 0,
+  "read_at": "2026-11-18T13:17+00:00"
+ },
+ "ID": {
+  "races": 514,
+  "candidates": 798,
+  "region_rows": 3276,
+  "failed": 0,
+  "read_at": "2026-11-18T13:18+00:00"
+ },
+ "IL": {
+  "races": 651,
+  "candidates": 1047,
+  "region_rows": 4622,
+  "failed": 0,
+  "read_at": "2026-11-18T13:21+00:00"
+ },
+ "IN": {
+  "races": 4148,
+  "candidates": 7555,
+  "region_rows": 10962,
+  "failed": 0,
+  "read_at": "2026-11-18T13:25+00:00"
+ },
+ "IA": {
+  "races": 3248,
+  "candidates": 7012,
+  "region_rows": 12183,
+  "failed": 0,
+  "read_at": "2026-11-18T13:52+00:00"
+ },
+ "KS": {
+  "races": 250,
+  "candidates": 433,
+  "region_rows": 4895,
+  "failed": 0,
+  "read_at": "2026-11-18T14:12+00:00"
+ },
+ "KY": {
+  "races": 3532,
+  "candidates": 10344,
+  "region_rows": 12771,
+  "failed": 0,
+  "read_at": "2026-11-18T14:13+00:00"
+ },
+ "LA": {
+  "races": 935,
+  "candidates": 2502,
+  "region_rows": 4591,
+  "failed": 0,
+  "read_at": "2026-11-18T14:36+00:00"
+ },
+ "ME": {
+  "races": 635,
+  "candidates": 1213,
+  "region_rows": 12928,
+  "failed": 0,
+  "read_at": "2026-11-18T14:42+00:00"
+ },
+ "MD": {
+  "races": 501,
+  "candidates": 1524,
+  "region_rows": 2930,
+  "failed": 0,
+  "read_at": "2026-11-18T14:46+00:00"
+ },
+ "MA": {
+  "races": 296,
+  "candidates": 413,
+  "region_rows": 13871,
+  "failed": 0,
+  "read_at": "2026-11-18T14:49+00:00"
+ },
+ "MI": {
+  "races": 1555,
+  "candidates": 4704,
+  "region_rows": 15238,
+  "failed": 0,
+  "read_at": "2026-11-18T14:51+00:00"
+ },
+ "MN": {
+  "races": 4736,
+  "candidates": 11376,
+  "region_rows": 18347,
+  "failed": 0,
+  "read_at": "2026-11-18T15:02+00:00"
+ },
+ "MS": {
+  "races": 133,
+  "candidates": 189,
+  "region_rows": 530,
+  "failed": 0,
+  "read_at": "2026-11-18T15:32+00:00"
+ },
+ "MO": {
+  "races": 255,
+  "candidates": 493,
+  "region_rows": 2803,
+  "failed": 0,
+  "read_at": "2026-11-18T15:33+00:00"
+ },
+ "MT": {
+  "races": 148,
+  "candidates": 288,
+  "region_rows": 1860,
+  "failed": 0,
+  "read_at": "2026-11-18T15:35+00:00"
+ },
+ "NE": {
+  "races": 464,
+  "candidates": 628,
+  "region_rows": 5418,
+  "failed": 0,
+  "read_at": "2026-11-18T15:36+00:00"
+ },
+ "NV": {
+  "races": 374,
+  "candidates": 664,
+  "region_rows": 1489,
+  "failed": 0,
+  "read_at": "2026-11-18T15:38+00:00"
+ },
+ "NH": {
+  "races": 308,
+  "candidates": 1194,
+  "region_rows": 15548,
+  "failed": 0,
+  "read_at": "2026-11-18T15:41+00:00"
+ },
+ "NJ": {
+  "races": 1019,
+  "candidates": 5016,
+  "region_rows": 7618,
+  "failed": 0,
+  "read_at": "2026-11-18T15:43+00:00"
+ },
+ "NM": {
+  "races": 428,
+  "candidates": 650,
+  "region_rows": 2230,
+  "failed": 0,
+  "read_at": "2026-11-18T15:49+00:00"
+ },
+ "NY": {
+  "races": 255,
+  "candidates": 765,
+  "region_rows": 3367,
+  "failed": 0,
+  "read_at": "2026-11-18T15:52+00:00"
+ },
+ "NC": {
+  "races": 1382,
+  "candidates": 2980,
+  "region_rows": 6442,
+  "failed": 0,
+  "read_at": "2026-11-18T15:53+00:00"
+ },
+ "ND": {
+  "races": 533,
+  "candidates": 1226,
+  "region_rows": 3586,
+  "failed": 0,
+  "read_at": "2026-11-18T16:05+00:00"
+ },
+ "OH": {
+  "races": 164,
+  "candidates": 349,
+  "region_rows": 3923,
+  "failed": 0,
+  "read_at": "2026-11-18T16:11+00:00"
+ },
+ "OK": {
+  "races": 184,
+  "candidates": 390,
+  "region_rows": 4684,
+  "failed": 0,
+  "read_at": "2026-11-18T16:13+00:00"
+ },
+ "OR": {
+  "races": 1090,
+  "candidates": 2908,
+  "region_rows": 4279,
+  "failed": 0,
+  "read_at": "2026-11-18T16:15+00:00"
+ },
+ "PA": {
+  "races": 248,
+  "candidates": 444,
+  "region_rows": 2437,
+  "failed": 0,
+  "read_at": "2026-11-18T16:23+00:00"
+ },
+ "RI": {
+  "races": 455,
+  "candidates": 1286,
+  "region_rows": 4764,
+  "failed": 0,
+  "read_at": "2026-11-18T16:27+00:00"
+ },
+ "SC": {
+  "races": 841,
+  "candidates": 2229,
+  "region_rows": 4831,
+  "failed": 0,
+  "read_at": "2026-11-18T16:33+00:00"
+ },
+ "SD": {
+  "races": 152,
+  "candidates": 367,
+  "region_rows": 2559,
+  "failed": 0,
+  "read_at": "2026-11-18T16:40+00:00"
+ },
+ "TN": {
+  "races": 129,
+  "candidates": 280,
+  "region_rows": 3726,
+  "failed": 0,
+  "read_at": "2026-11-18T16:41+00:00"
+ },
+ "TX": {
+  "races": 727,
+  "candidates": 1215,
+  "region_rows": 84956,
+  "failed": 0,
+  "read_at": "2026-11-18T16:42+00:00"
+ },
+ "UT": {
+  "races": 467,
+  "candidates": 797,
+  "region_rows": 2194,
+  "failed": 0,
+  "read_at": "2026-11-18T16:47+00:00"
+ },
+ "VT": {
+  "races": 475,
+  "candidates": 3139,
+  "region_rows": 19587,
+  "failed": 0,
+  "read_at": "2026-11-18T16:50+00:00"
+ },
+ "VA": {
+  "races": 581,
+  "candidates": 1967,
+  "region_rows": 3729,
+  "failed": 0,
+  "read_at": "2026-11-18T16:53+00:00"
+ },
+ "WA": {
+  "races": 790,
+  "candidates": 1876,
+  "region_rows": 4088,
+  "failed": 0,
+  "read_at": "2026-11-18T16:56+00:00"
+ },
+ "WV": {
+  "races": 323,
+  "candidates": 637,
+  "region_rows": 2013,
+  "failed": 0,
+  "read_at": "2026-11-18T17:02+00:00"
+ },
+ "WI": {
+  "races": 148,
+  "candidates": 332,
+  "region_rows": 3760,
+  "failed": 0,
+  "read_at": "2026-11-18T17:04+00:00"
+ },
+ "WY": {
+  "races": 89,
+  "candidates": 140,
+  "region_rows": 921,
+  "failed": 0,
+  "read_at": "2026-11-18T17:05+00:00"
+ }
+}

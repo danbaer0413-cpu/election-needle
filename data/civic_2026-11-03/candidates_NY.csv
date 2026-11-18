@@ -1,0 +1,766 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+159557,NY,Democratic,Democratic,3603825,63.44,False,False
+159557,NY,Republican,Republican,2035099,35.825,False,False
+159557,NY,Nonpartisan,Nonpartisan,19541,0.344,False,False
+159557,NY,Conservative,Conservative,7978,0.14,False,False
+159557,NY,Independent,Independent,7546,0.133,False,False
+159557,NY,Working Families,Working Families,6710,0.118,False,False
+87331,NY,Thomas DiNapoli,Democratic,3853334,64.656,True,False
+87331,NY,Joseph Hernandez,Republican,2101041,35.254,False,False
+87331,NY,Write-in,Nonpartisan,5336,0.09,False,False
+87329,NY,Kathy Hochul,Democratic,3632888,59.854,True,False
+87329,NY,Bruce Blakeman,Republican,2423909,39.935,False,False
+87329,NY,Write-in,Nonpartisan,12809,0.211,False,False
+159558,NY,Democratic,Democratic,3610392,62.091,False,False
+159558,NY,Republican,Republican,2164538,37.225,False,False
+159558,NY,Conservative,Conservative,24739,0.425,False,False
+159558,NY,Nonpartisan,Nonpartisan,15034,0.259,False,False
+87330,NY,Letitia James,Democratic,3612509,60.257,True,False
+87330,NY,Saritha Komatireddy,Republican,2378269,39.669,False,False
+87330,NY,Write-in,Nonpartisan,4440,0.074,False,False
+157969,NY,Chloe E. Pierce,Democratic,32525,51.914,True,False
+157969,NY,Scott H. Bendett,Republican,30076,48.005,False,False
+157969,NY,Write-in,Nonpartisan,51,0.081,False,False
+157877,NY,Paolo A. Pironi,Republican,23590,52.241,True,False
+157877,NY,Dean Tarulli,Democratic,21539,47.699,False,False
+157877,NY,Write-in,Nonpartisan,27,0.06,False,False
+158002,NY,William C. Conrad III,Democratic,34840,75.965,True,False
+158002,NY,Mohammed H. Faisal,Republican,10903,23.773,False,False
+158002,NY,Write-in,Nonpartisan,120,0.262,False,False
+157910,NY,Simcha Eichenstein,Democratic,21542,99.039,True,False
+157910,NY,Write-in,Nonpartisan,209,0.961,False,False
+157811,NY,Aber Kawas,Democratic,47294,74.327,True,False
+157811,NY,Han-Khon To,Republican,16165,25.405,False,False
+157811,NY,Write-in,Nonpartisan,171,0.269,False,False
+157936,NY,Keith Powers,Democratic,31866,83.384,True,False
+157936,NY,Veronica I. Gonzalez,Republican,6264,16.391,False,False
+157936,NY,Write-in,Nonpartisan,86,0.225,False,False
+157844,NY,Daniel G. Stec,Republican,66708,55.611,True,False
+157844,NY,Melissa T. Seale,Democratic,53202,44.352,False,False
+157844,NY,Write-in,Nonpartisan,44,0.037,False,False
+157976,NY,Matthew J. Simpson,Republican,32907,59.889,True,False
+157976,NY,John Gunther,Democratic,22024,40.082,False,False
+157976,NY,Write-in,Nonpartisan,16,0.029,False,False
+157884,NY,Michaelle C. Solages,Democratic,29436,69.211,True,False
+157884,NY,Robert G. Inzerillo,Republican,13063,30.714,False,False
+157884,NY,Write-in,Nonpartisan,32,0.075,False,False
+158009,NY,David J. DiPietro,Republican,47542,98.114,True,False
+158009,NY,Write-in,Nonpartisan,914,1.886,False,False
+157917,NY,Latrice M. Walker,Democratic,22273,99.669,True,False
+157917,NY,Write-in,Nonpartisan,74,0.331,False,False
+157818,NY,Roxanne J. Persaud,Democratic,55828,99.618,True,False
+157818,NY,Write-in,Nonpartisan,214,0.382,False,False
+157943,NY,Jeffrey Dinowitz,Democratic,25529,97.428,True,False
+157943,NY,Write-in,Nonpartisan,674,2.572,False,False
+157851,NY,Lea Webb,Democratic,63853,60.512,True,False
+157851,NY,Michael S. Bolles,Republican,41565,39.39,False,False
+157851,NY,Write-in,Nonpartisan,104,0.099,False,False
+157891,NY,Alicia L. Hyndman,Democratic,29941,99.734,True,False
+157891,NY,Write-in,Nonpartisan,80,0.266,False,False
+158016,NY,Kate Hogan,Republican,372736,19.121,False,False
+158016,NY,Tom Buchanan,Republican,333518,17.109,False,False
+158016,NY,Keith S. Massey Jr,Republican,317166,16.271,False,False
+158016,NY,Christine M. Clark,Democratic,315044,16.162,False,False
+158016,NY,John T. Ellis,Republican,309548,15.88,False,False
+158016,NY,Bradley M. Wanner,Democratic,296214,15.196,False,False
+158016,NY,Write-in,Nonpartisan,5100,0.262,False,False
+157924,NY,Michael W. Reilly Jr,Republican,36939,98.557,True,False
+157924,NY,Write-in,Nonpartisan,541,1.443,False,False
+157825,NY,Andrew S. Gounardes,Democratic,79625,83.221,True,False
+157825,NY,Tom Stanten,Republican,15881,16.598,False,False
+157825,NY,Write-in,Nonpartisan,173,0.181,False,False
+157950,NY,Amy Paulin,Democratic,39920,99.286,True,False
+157950,NY,Write-in,Nonpartisan,287,0.714,False,False
+157858,NY,Kristen Gonzalez,Democratic,76900,98.654,True,False
+157858,NY,Write-in,Nonpartisan,1049,1.346,False,False
+157983,NY,Joe Angelino,Republican,31563,64.265,True,False
+157983,NY,Vicki Davis,Democratic,17529,35.69,False,False
+157983,NY,Write-in,Nonpartisan,22,0.045,False,False
+157866,NY,Rebecca A. Kassay,Democratic,25574,57.949,True,False
+157866,NY,Will Sussman,Republican,18530,41.988,False,False
+157866,NY,Write-in,Nonpartisan,28,0.063,False,False
+158023,NY,Michael J. Pinto,Republican,78940,59.636,False,False
+158023,NY,Kelvin Richards,Democratic,53318,40.28,False,False
+158023,NY,Write-in,Nonpartisan,111,0.084,False,False
+157899,NY,Samantha Kattan,Democratic,29067,98.602,True,False
+157899,NY,Write-in,Nonpartisan,412,1.398,False,False
+157800,NY,E. Christopher Murray,Democratic,62408,51.663,True,False
+157800,NY,Anthony H. Palumbo,Republican,58344,48.298,False,False
+157800,NY,Write-in,Nonpartisan,47,0.039,False,False
+157957,NY,Dana Levenberg,Democratic,35698,69.127,True,False
+157957,NY,Laurie Ryan,Republican,15896,30.782,False,False
+157957,NY,Write-in,Nonpartisan,47,0.091,False,False
+157833,NY,Nathalia Fernandez,Democratic,48853,86.297,True,False
+157833,NY,Adrian Romero,Conservative,7628,13.475,False,False
+157833,NY,Write-in,Nonpartisan,129,0.228,False,False
+157990,NY,Pamela Jo Hunter,Democratic,29154,68.815,True,False
+157990,NY,Patrick J. Becher,Republican,13177,31.103,False,False
+157990,NY,Write-in,Nonpartisan,35,0.083,False,False
+157873,NY,Kwani B. O'Pharrow,Democratic,23595,61.034,True,False
+157873,NY,Joseph R. Cardinale,Republican,15042,38.909,False,False
+157873,NY,Write-in,Nonpartisan,22,0.057,False,False
+157998,NY,Sarah H. Clark,Democratic,35709,73.958,True,False
+157998,NY,Clianda A. Florence,Republican,12538,25.968,False,False
+157998,NY,Write-in,Nonpartisan,36,0.075,False,False
+157906,NY,Robert C. Carroll,Democratic,41913,89.619,True,False
+157906,NY,Glenn Nocera,Republican,4744,10.144,False,False
+157906,NY,Write-in,Nonpartisan,111,0.237,False,False
+157807,NY,Jarett C. Gandolfo,Republican,75961,61.021,True,False
+157807,NY,Joshua James Taveras,Democratic,48458,38.927,False,False
+157807,NY,Write-in,Nonpartisan,65,0.052,False,False
+157932,NY,Jordan J.G. Wright,Democratic,33538,98.836,True,False
+157932,NY,Write-in,Nonpartisan,395,1.164,False,False
+157840,NY,Michelle Hinchey,Democratic,86374,62.809,True,False
+157840,NY,Patrick Sheehan,Republican,51097,37.156,False,False
+157840,NY,Write-in,Nonpartisan,48,0.035,False,False
+157965,NY,Sarahana Shrestha,Democratic,40114,69.106,True,False
+157965,NY,Santos Lopez,Republican,17840,30.734,False,False
+157965,NY,Write-in,Nonpartisan,93,0.16,False,False
+157880,NY,Noah Burroughs,Democratic,26529,89.698,True,False
+157880,NY,Charlene Jackson,Republican,3037,10.268,False,False
+157880,NY,Write-in,Nonpartisan,10,0.034,False,False
+158005,NY,Ryan J. Taughrin,Democratic,23277,50.613,False,False
+158005,NY,Patrick J. Chludzinski,Republican,22691,49.339,False,False
+158005,NY,Write-in,Nonpartisan,22,0.048,False,False
+157913,NY,Marcela Mitaynes,Democratic,19434,84.754,True,False
+157913,NY,Carla Danielson,Republican,3432,14.967,False,False
+157913,NY,Write-in,Nonpartisan,64,0.279,False,False
+157814,NY,Joseph P. Addabbo Jr,Democratic,41721,81.153,True,False
+157814,NY,Danniel S. Maio,Conservative,9531,18.539,False,False
+157814,NY,Write-in,Nonpartisan,158,0.307,False,False
+157939,NY,Landon C. Dais,Democratic,15453,99.453,True,False
+157939,NY,Write-in,Nonpartisan,85,0.547,False,False
+157847,NY,Rachel May,Democratic,61123,58.098,True,False
+157847,NY,Richard McCarron Jr,Republican,44009,41.831,False,False
+157847,NY,Write-in,Nonpartisan,74,0.07,False,False
+157972,NY,Phillip G. Steck,Democratic,34594,62.58,True,False
+157972,NY,Frank A. Mauriello,Republican,20616,37.294,False,False
+157972,NY,Write-in,Nonpartisan,70,0.127,False,False
+157887,NY,Nily D. Rozic,Democratic,15220,97.771,True,False
+157887,NY,Write-in,Nonpartisan,347,2.229,False,False
+158012,NY,Andrew M. Molitor,Republican,26966,62.665,True,False
+158012,NY,Thomas A. Carle,Democratic,16053,37.305,False,False
+158012,NY,Write-in,Nonpartisan,13,0.03,False,False
+157920,NY,Monique Chandler-Waterman,Democratic,27575,99.815,True,False
+157920,NY,Write-in,Nonpartisan,51,0.185,False,False
+157821,NY,Sam Sutton,Democratic,37201,64.259,True,False
+157821,NY,Nachman Carl Caller,Republican,20456,35.335,False,False
+157821,NY,Write-in,Nonpartisan,235,0.406,False,False
+157946,NY,Amanda N. Septimo,Democratic,16879,94.386,True,False
+157946,NY,Tyreek Goodman,Conservative,961,5.374,False,False
+157946,NY,Write-in,Nonpartisan,43,0.24,False,False
+157854,NY,Samra G. Brouk,Democratic,83357,66.584,True,False
+157854,NY,Chris Brown,Republican,41749,33.348,False,False
+157854,NY,Write-in,Nonpartisan,85,0.068,False,False
+157979,NY,Tammie Nabywaniec,Republican,26355,68.513,True,False
+157979,NY,Dennis Gordon,Democratic,12089,31.427,False,False
+157979,NY,Write-in,Nonpartisan,23,0.06,False,False
+158019,NY,George E. Fufidio,Democratic,921886,31.286,False,False
+158019,NY,Maria G. Rosa,Democratic,641060,21.756,False,False
+158019,NY,Alden H. Wolfe,Democratic,603354,20.476,False,False
+158019,NY,Richard S. Fava Pastilha,Republican,408414,13.86,False,False
+158019,NY,John Ciampoli,Republican,368772,12.515,False,False
+158019,NY,Write-in,Nonpartisan,3128,0.106,False,False
+157927,NY,Illapa Sairitupac,Democratic,22293,74.671,True,False
+157927,NY,Helen Qiu,Republican,7464,25.001,False,False
+157927,NY,Write-in,Nonpartisan,98,0.328,False,False
+157828,NY,Jose M. Serrano,Democratic,54486,99.226,True,False
+157828,NY,Write-in,Nonpartisan,425,0.774,False,False
+157953,NY,Steven Otis,Democratic,31363,99.635,True,False
+157953,NY,Write-in,Nonpartisan,115,0.365,False,False
+157861,NY,Robert G. Ortt,Republican,72313,62.135,True,False
+157861,NY,Thomas E. Arida,Democratic,44029,37.832,False,False
+157861,NY,Write-in,Nonpartisan,39,0.034,False,False
+157986,NY,Christopher S. Friend,Republican,28338,59.804,True,False
+157986,NY,Andrew G. Fagan,Democratic,19022,40.144,False,False
+157986,NY,Write-in,Nonpartisan,25,0.053,False,False
+157894,NY,Nathaniel Hezekiah III,Democratic,23986,97.982,True,False
+157894,NY,Paul Nichols,Independent,426,1.74,False,False
+157894,NY,Write-in,Nonpartisan,68,0.278,False,False
+157994,NY,Philip A. Palmesano,Republican,38405,98.865,True,False
+157994,NY,Write-in,Nonpartisan,441,1.135,False,False
+157902,NY,Ron Kim,Democratic,12148,98.572,True,False
+157902,NY,Write-in,Nonpartisan,176,1.428,False,False
+157803,NY,Monica R. Martinez,Democratic,53189,66.229,True,False
+157803,NY,Brianne R. Wakefield,Republican,27017,33.64,False,False
+157803,NY,Write-in,Nonpartisan,105,0.131,False,False
+157928,NY,David Siffert,Democratic,34510,98.44,True,False
+157928,NY,Write-in,Nonpartisan,547,1.56,False,False
+157836,NY,Shelley B. Mayer,Democratic,76027,66.994,True,False
+157836,NY,Thomas H. Fix Jr,Republican,37392,32.949,False,False
+157836,NY,Write-in,Nonpartisan,65,0.057,False,False
+157961,NY,Christopher W. Eachus,Democratic,24349,64.424,True,False
+157961,NY,Richard A. Vargus,Republican,13423,35.515,False,False
+157961,NY,Write-in,Nonpartisan,23,0.061,False,False
+157869,NY,Dawn Marie D. Kuhn,Republican,27782,54.183,True,False
+157869,NY,Patricia A. Kopp,Democratic,23469,45.772,False,False
+157869,NY,Write-in,Nonpartisan,23,0.045,False,False
+158001,NY,Stephen M. Hawley,Republican,33003,69.655,True,False
+158001,NY,Sarah R. Wolcott,Democratic,14354,30.295,False,False
+158001,NY,Write-in,Nonpartisan,24,0.051,False,False
+157909,NY,William Colton,Democratic,11470,62.34,True,False
+157909,NY,John J. Ricottone,Republican,6886,37.426,False,False
+157909,NY,Write-in,Nonpartisan,43,0.234,False,False
+157810,NY,Toby Ann Stavisky,Democratic,48498,65.591,True,False
+157810,NY,Pamela H. Michos,Republican,25294,34.209,False,False
+157810,NY,Write-in,Nonpartisan,148,0.2,False,False
+157935,NY,Vanessa Aronson,Democratic,35902,98.013,True,False
+157935,NY,Write-in,Nonpartisan,728,1.987,False,False
+157843,NY,Sarah F. Rogerson,Democratic,66563,52.385,False,False
+157843,NY,James N. Tedisco,Republican,60440,47.566,False,False
+157843,NY,Write-in,Nonpartisan,63,0.05,False,False
+157968,NY,Didi Barrett,Democratic,34704,62.205,True,False
+157968,NY,Gregory Campus,Republican,21050,37.731,False,False
+157968,NY,Write-in,Nonpartisan,36,0.065,False,False
+157876,NY,Shannon R. Fredericks,Republican,28479,57.903,True,False
+157876,NY,John E. Brooks,Democratic,20688,42.062,False,False
+157876,NY,Write-in,Nonpartisan,17,0.035,False,False
+158008,NY,Karen M. McMahon,Democratic,30739,61.886,True,False
+158008,NY,Terence G. McGuire,Republican,18891,38.033,False,False
+158008,NY,Write-in,Nonpartisan,40,0.081,False,False
+157916,NY,Christian Celeste Tate,Democratic,18549,99.528,True,False
+157916,NY,Write-in,Nonpartisan,88,0.472,False,False
+157817,NY,Julia Salazar,Democratic,56539,99.141,True,False
+157817,NY,Write-in,Nonpartisan,490,0.859,False,False
+157942,NY,John Zaccaro Jr,Democratic,17672,87.502,True,False
+157942,NY,Denise Smith,Conservative,2451,12.136,False,False
+157942,NY,Write-in,Nonpartisan,73,0.361,False,False
+157850,NY,Christopher W. Tague,Republican,63787,53.942,True,False
+157850,NY,Michele Frazier,Democratic,54413,46.015,False,False
+157850,NY,Write-in,Nonpartisan,51,0.043,False,False
+157975,NY,Carrie Woerner,Democratic,32489,58.445,True,False
+157975,NY,Allen Caruso,Republican,21707,39.049,False,False
+157975,NY,Thomas J. Kenny,Working Families,1366,2.457,False,False
+157975,NY,Write-in,Nonpartisan,27,0.049,False,False
+157883,NY,Judy A. Griffin,Democratic,32188,60.355,True,False
+157883,NY,Irene V. Villacci,Republican,21129,39.619,False,False
+157883,NY,Write-in,Nonpartisan,14,0.026,False,False
+157923,NY,Charles D. Fall,Democratic,22582,72.08,True,False
+157923,NY,Casey Marie O’Connor-Manasia,Republican,8677,27.696,False,False
+157923,NY,Write-in,Nonpartisan,70,0.223,False,False
+157824,NY,Jabari Brisport,Democratic,78464,99.435,True,False
+157824,NY,Write-in,Nonpartisan,446,0.565,False,False
+157949,NY,Karines Reyes,Democratic,18082,91.273,True,False
+157949,NY,Zenobia Merced-Bonilla,Conservative,1114,5.623,False,False
+157949,NY,Zakir Choudhury,Independent,591,2.983,False,False
+157949,NY,Write-in,Nonpartisan,24,0.121,False,False
+157857,NY,Thomas Fellers O'Mara,Republican,74788,64.927,True,False
+157857,NY,James J. Bobreski,Democratic,40353,35.033,False,False
+157857,NY,Write-in,Nonpartisan,46,0.04,False,False
+157982,NY,Jim Weatherup,Republican,29301,63.045,True,False
+157982,NY,Timothy C. Allers,Democratic,17150,36.901,False,False
+157982,NY,Write-in,Nonpartisan,25,0.054,False,False
+157890,NY,Andrew D. Hevesi,Democratic,26106,89.407,True,False
+157890,NY,Jonathan Rinaldi,Independent,1680,5.754,False,False
+157890,NY,David J. Kemp,Independent,986,3.377,False,False
+157890,NY,Write-in,Nonpartisan,427,1.462,False,False
+158015,NY,Amy E. Joyce,Democratic,437982,51.016,False,False
+158015,NY,Jennifer G. Sober,Democratic,412346,48.03,False,False
+158015,NY,Write-in,Nonpartisan,8190,0.954,False,False
+157898,NY,Diana C. Moreno,Democratic,31214,84.664,True,False
+157898,NY,Edward Lee,Republican,5555,15.067,False,False
+157898,NY,Write-in,Nonpartisan,99,0.269,False,False
+157831,NY,Luis R. Sepulveda,Democratic,35478,99.412,True,False
+157831,NY,Write-in,Nonpartisan,210,0.588,False,False
+157956,NY,Matthew J. Slater,Republican,33893,57.128,True,False
+157956,NY,Daniel Guzman,Democratic,25420,42.847,False,False
+157956,NY,Write-in,Nonpartisan,15,0.025,False,False
+157832,NY,J. Gustavo Rivera,Democratic,44357,99.064,True,False
+157832,NY,Write-in,Nonpartisan,419,0.936,False,False
+157989,NY,Albert A. Stirpe Jr,Democratic,34493,60.305,True,False
+157989,NY,Timothy R. Kelly,Republican,22682,39.655,False,False
+157989,NY,Write-in,Nonpartisan,23,0.04,False,False
+157865,NY,Joshua P. Slaughter,Democratic,19948,51.13,True,False
+157865,NY,Joseph P. De Stefano,Republican,19040,48.803,False,False
+157865,NY,Write-in,Nonpartisan,26,0.067,False,False
+158022,NY,Alvin M. Yearwood,Democratic,199588,99.135,False,False
+158022,NY,Write-in,Nonpartisan,1741,0.865,False,False
+157905,NY,Brian-Christopher A. Cunningham,Democratic,35501,90.923,True,False
+157905,NY,Anna Shpilkovskaya,Republican,3447,8.828,False,False
+157905,NY,Write-in,Nonpartisan,97,0.248,False,False
+157806,NY,Jake Blumencranz,Republican,60047,51.838,True,False
+157806,NY,Rory Lancman,Democratic,55636,48.03,False,False
+157806,NY,Write-in,Nonpartisan,153,0.132,False,False
+157931,NY,Eli Northrup,Democratic,42885,98.579,True,False
+157931,NY,Write-in,Nonpartisan,618,1.421,False,False
+157839,NY,Peter B. Harckham,Democratic,81974,60.049,True,False
+157839,NY,Sergio J. Esposito,Republican,54474,39.904,False,False
+157839,NY,Write-in,Nonpartisan,64,0.047,False,False
+157964,NY,Marcus Molinaro,Republican,31124,55.531,True,False
+157964,NY,Janet S. Tweed,Democratic,24889,44.407,False,False
+157964,NY,Write-in,Nonpartisan,35,0.062,False,False
+157872,NY,Steve Stern,Democratic,29455,60.026,True,False
+157872,NY,Tiffany L. LeGrow,Republican,19587,39.916,False,False
+157872,NY,Write-in,Nonpartisan,28,0.057,False,False
+157997,NY,Jen Lunsford,Democratic,40098,64.025,True,False
+157997,NY,Kalinda Washington,Republican,22498,35.923,False,False
+157997,NY,Write-in,Nonpartisan,33,0.053,False,False
+157912,NY,Emily Gallagher,Democratic,22686,97.344,True,False
+157912,NY,Write-in,Nonpartisan,619,2.656,False,False
+157813,NY,Leroy G. Comrie Jr,Democratic,69135,99.118,True,False
+157813,NY,Write-in,Nonpartisan,615,0.882,False,False
+157938,NY,Rebecca A. Seawright,Democratic,35401,78.418,True,False
+157938,NY,Louis Puliafito,Republican,9673,21.427,False,False
+157938,NY,Write-in,Nonpartisan,70,0.155,False,False
+157846,NY,Erik D. Bottcher,Democratic,92603,84.85,True,False
+157846,NY,Charlotte Friedman,Republican,16331,14.964,False,False
+157846,NY,Write-in,Nonpartisan,203,0.186,False,False
+157971,NY,Gabriella Romero,Democratic,33494,98.782,True,False
+157971,NY,Write-in,Nonpartisan,413,1.218,False,False
+157879,NY,John K. Mikulin,Republican,26984,60.661,True,False
+157879,NY,Sunita J. Lofters,Democratic,17484,39.305,False,False
+157879,NY,Write-in,Nonpartisan,15,0.034,False,False
+158004,NY,Patrick B. Burke,Democratic,24849,53.143,True,False
+158004,NY,Gary A. Dickson,Republican,21840,46.708,False,False
+158004,NY,Write-in,Nonpartisan,70,0.15,False,False
+157919,NY,Phara Souffrant Forrest,Democratic,42581,95.394,True,False
+157919,NY,Yolanda Allison,Republican,1950,4.369,False,False
+157919,NY,Write-in,Nonpartisan,106,0.237,False,False
+157820,NY,Kevin S. Parker,Democratic,65966,83.513,True,False
+157820,NY,Ronald Seifert,Republican,12615,15.971,False,False
+157820,NY,Write-in,Nonpartisan,408,0.517,False,False
+157945,NY,Carl E. Heastie,Democratic,23157,96.075,True,False
+157945,NY,James Washington-Ward,Conservative,920,3.817,False,False
+157945,NY,Write-in,Nonpartisan,26,0.108,False,False
+157853,NY,Pamela A. Helming,Republican,75285,58.44,True,False
+157853,NY,Michael Mills,Democratic,53481,41.515,False,False
+157853,NY,Write-in,Nonpartisan,58,0.045,False,False
+157978,NY,Scott A. Gray,Republican,32927,98.969,True,False
+157978,NY,Write-in,Nonpartisan,343,1.031,False,False
+157886,NY,David I. Weprin,Democratic,18365,75.666,True,False
+157886,NY,Welson Chang,Republican,5847,24.09,False,False
+157886,NY,Write-in,Nonpartisan,59,0.243,False,False
+158011,NY,Adam L. Bojak,Democratic,26302,62.3,True,False
+158011,NY,Frank M. Bogulski,Republican,15874,37.6,False,False
+158011,NY,Write-in,Nonpartisan,42,0.099,False,False
+157827,NY,Liz Krueger,Democratic,71565,71.717,True,False
+157827,NY,Alina Bonsell,Republican,28129,28.189,False,False
+157827,NY,Write-in,Nonpartisan,94,0.094,False,False
+157952,NY,Frank Jereis,Democratic,22058,63.535,True,False
+157952,NY,John Isaac,Republican,12624,36.362,False,False
+157952,NY,Write-in,Nonpartisan,36,0.104,False,False
+157860,NY,Jonathan D. Rivera,Democratic,84025,98.391,True,False
+157860,NY,Write-in,Nonpartisan,1374,1.609,False,False
+157985,NY,Dan Norton,Democratic,23550,58.486,True,False
+157985,NY,Lynn E. Parker,Republican,16195,40.22,False,False
+157985,NY,Heather L. Micha,Independent,489,1.214,False,False
+157985,NY,Write-in,Nonpartisan,32,0.079,False,False
+157893,NY,Khaleel M. Anderson,Democratic,18880,99.447,True,False
+157893,NY,Write-in,Nonpartisan,105,0.553,False,False
+158018,NY,Robert N. Richardson,Democratic,937396,23.224,False,False
+158018,NY,Michael L. Amodeo,Democratic,876450,21.714,False,False
+158018,NY,Deanne M. Tripi,Republican,566226,14.028,False,False
+158018,NY,Anne E. Joynt,Democratic,526878,13.054,False,False
+158018,NY,Jonathan S. Hickey,Republican,521384,12.917,False,False
+158018,NY,Craig R. Bucki,Democratic,492578,12.204,False,False
+158018,NY,Robert R. Vario,Conservative,109322,2.708,False,False
+158018,NY,Write-in,Nonpartisan,6048,0.15,False,False
+157926,NY,Michael Tannousis,Republican,21972,60.534,True,False
+157926,NY,Tim Qorraj,Democratic,14276,39.331,False,False
+157926,NY,Write-in,Nonpartisan,49,0.135,False,False
+157802,NY,Dean Murray,Republican,56280,53.941,True,False
+157802,NY,Antonio Vargas-Ayala,Democratic,47982,45.988,False,False
+157802,NY,Write-in,Nonpartisan,74,0.071,False,False
+157959,NY,Aron B. Wieder,Democratic,26982,60.894,True,False
+157959,NY,Rob Bonomolo,Republican,16167,36.486,False,False
+157959,NY,Abraham Klein,Conservative,1038,2.343,False,False
+157959,NY,Write-in,Nonpartisan,123,0.278,False,False
+157835,NY,Jamaal T. Bailey,Democratic,61013,93.806,True,False
+157835,NY,Grace Marrero,Conservative,3955,6.081,False,False
+157835,NY,Write-in,Nonpartisan,74,0.114,False,False
+157960,NY,Karl A. Brabenec,Republican,29816,98.26,True,False
+157960,NY,Write-in,Nonpartisan,528,1.74,False,False
+157868,NY,Philip R. Ramos,Democratic,19149,76.361,True,False
+157868,NY,Dennis J. Barravecchio,Republican,5901,23.532,False,False
+157868,NY,Write-in,Nonpartisan,27,0.108,False,False
+157993,NY,Mark Benjamin,Republican,29372,55.759,True,False
+157993,NY,Phillip Fleming,Democratic,23279,44.192,False,False
+157993,NY,Write-in,Nonpartisan,26,0.049,False,False
+157901,NY,Catalina Cruz,Democratic,15355,74.265,True,False
+157901,NY,Ramses S. Frias,Republican,5227,25.281,False,False
+157901,NY,Write-in,Nonpartisan,94,0.455,False,False
+157809,NY,James Sanders Jr,Democratic,53705,98.761,True,False
+157809,NY,Write-in,Nonpartisan,674,1.239,False,False
+157934,NY,Manny De Los Santos,Democratic,24090,99.022,True,False
+157934,NY,Write-in,Nonpartisan,238,0.978,False,False
+157842,NY,Devin R. Lander,Democratic,61016,50.111,False,False
+157842,NY,Jake Ashby,Republican,60680,49.835,False,False
+157842,NY,Write-in,Nonpartisan,66,0.054,False,False
+157967,NY,Anil R. Beephan Jr,Republican,28850,54.232,True,False
+157967,NY,Brooklyn Talarico,Democratic,24319,45.715,False,False
+157967,NY,Write-in,Nonpartisan,28,0.053,False,False
+157875,NY,Charles D. Lavine,Democratic,24067,58.746,True,False
+157875,NY,Conner Phillip Dunleavy,Republican,16856,41.144,False,False
+157875,NY,Write-in,Nonpartisan,45,0.11,False,False
+158000,NY,Harry B. Bronson,Democratic,31722,67.783,True,False
+158000,NY,Tracy Diflorio,Republican,15022,32.099,False,False
+158000,NY,Write-in,Nonpartisan,55,0.118,False,False
+157908,NY,Chris McCreight,Democratic,16957,55.518,True,False
+157908,NY,Alec Brook-Krasny,Republican,13554,44.377,False,False
+157908,NY,Write-in,Nonpartisan,32,0.105,False,False
+157816,NY,Larry He,Democratic,22786,57.401,True,False
+157816,NY,Steve Chan,Republican,16827,42.39,False,False
+157816,NY,Write-in,Nonpartisan,83,0.209,False,False
+157941,NY,Chantel Jackson,Democratic,16218,94.959,True,False
+157941,NY,Emmanuel A. Findlay Jr,Conservative,831,4.866,False,False
+157941,NY,Write-in,Nonpartisan,30,0.176,False,False
+157849,NY,Christopher J. Ryan,Democratic,71945,56.868,True,False
+157849,NY,James Corl,Republican,54507,43.084,False,False
+157849,NY,Write-in,Nonpartisan,61,0.048,False,False
+157974,NY,Mary Beth Walsh,Republican,33636,55.328,True,False
+157974,NY,Mario L. Fantini,Democratic,27129,44.624,False,False
+157974,NY,Write-in,Nonpartisan,29,0.048,False,False
+157882,NY,Eric Ari Brown,Republican,29491,61.47,True,False
+157882,NY,Meir Fischer,Democratic,18454,38.465,False,False
+157882,NY,Write-in,Nonpartisan,31,0.065,False,False
+158007,NY,Becky Wydysh,Republican,27384,56.213,True,False
+158007,NY,Nathan D. McMurray,Democratic,21293,43.709,False,False
+158007,NY,Write-in,Nonpartisan,38,0.078,False,False
+157915,NY,Maritza Davila,Democratic,26099,99.164,True,False
+157915,NY,Write-in,Nonpartisan,220,0.836,False,False
+157948,NY,Yudelka Tapia,Democratic,13027,82.304,True,False
+157948,NY,Maria Diaz,Republican,2120,13.394,False,False
+157948,NY,Shery A. Olivo,Conservative,663,4.189,False,False
+157948,NY,Write-in,Nonpartisan,18,0.114,False,False
+157856,NY,George M. Borrello,Republican,78757,69.51,True,False
+157856,NY,Victoria A. Guite-Williams,Democratic,34516,30.463,False,False
+157856,NY,Write-in,Nonpartisan,30,0.026,False,False
+157981,NY,Michael C. Gentile,Republican,18578,52.414,True,False
+157981,NY,Jonathan E. Lipe,Democratic,16835,47.496,False,False
+157981,NY,Write-in,Nonpartisan,32,0.09,False,False
+157889,NY,Sam Berger,Democratic,19428,98.735,True,False
+157889,NY,Write-in,Nonpartisan,249,1.265,False,False
+158014,NY,Betsey Jean Jacques,Democratic,1086842,26.201,False,False
+158014,NY,Lola Waterman,Democratic,1011752,24.39,False,False
+158014,NY,Sherveal Mimes,Democratic,998854,24.079,False,False
+158014,NY,Hemalee J. Patel,Democratic,984498,23.733,False,False
+158014,NY,William D. Spain Jr,Conservative,43740,1.054,False,False
+158014,NY,Write-in,Nonpartisan,22468,0.542,False,False
+157922,NY,Nikki Lucas,Democratic,22349,93.526,True,False
+157922,NY,Norman H. Ramsay,Republican,1510,6.319,False,False
+157922,NY,Write-in,Nonpartisan,37,0.155,False,False
+157823,NY,Andrew J. Lanza,Republican,68646,70.633,True,False
+157823,NY,Alexis Rodriguez,Democratic,28460,29.284,False,False
+157823,NY,Write-in,Nonpartisan,81,0.083,False,False
+157955,NY,Chris Burdick,Democratic,38812,68.684,True,False
+157955,NY,Braille Diaz,Republican,17667,31.265,False,False
+157955,NY,Write-in,Nonpartisan,29,0.051,False,False
+157863,NY,Thomas J. Schiavoni,Democratic,28693,61.82,True,False
+157863,NY,Stephen F. Kiely,Republican,17700,38.135,False,False
+157863,NY,Write-in,Nonpartisan,21,0.045,False,False
+157988,NY,Ian Phillips,Democratic,29332,50.266,False,False
+157988,NY,John Lemondes Jr,Republican,28991,49.681,False,False
+157988,NY,Write-in,Nonpartisan,31,0.053,False,False
+157864,NY,Jodi A. Giglio,Republican,31513,58.48,True,False
+157864,NY,Michael J. Szika,Democratic,21672,40.217,False,False
+157864,NY,Kimberly Wilder,Independent,678,1.258,False,False
+157864,NY,Write-in,Nonpartisan,24,0.045,False,False
+158021,NY,Edwin I. Novillo,Democratic,653760,27.301,False,False
+158021,NY,Gail A. Adams,Democratic,637394,26.618,False,False
+158021,NY,Oma D. Phillips,Democratic,597050,24.933,False,False
+158021,NY,Gary Muraca,Republican,251622,10.508,False,False
+158021,NY,David A. Bellon,Republican,245738,10.262,False,False
+158021,NY,Write-in,Nonpartisan,9050,0.378,False,False
+157897,NY,Larinda C. Hooks,Democratic,14637,99.066,True,False
+157897,NY,Write-in,Nonpartisan,138,0.934,False,False
+157830,NY,Robert Jackson,Democratic,57418,99.192,True,False
+157830,NY,Write-in,Nonpartisan,468,0.808,False,False
+157930,NY,Diana I. Ayala,Democratic,28416,99.007,True,False
+157930,NY,Write-in,Nonpartisan,285,0.993,False,False
+157838,NY,Lisa Kaul,Democratic,62883,55.198,True,False
+157838,NY,Robert G. Rolison,Republican,51009,44.775,False,False
+157838,NY,Write-in,Nonpartisan,31,0.027,False,False
+157963,NY,Brian M. Maher,Republican,31478,98.64,True,False
+157963,NY,Write-in,Nonpartisan,434,1.36,False,False
+157871,NY,Michael A. Durso,Republican,28784,61.819,True,False
+157871,NY,Christopher J. Walis,Democratic,17756,38.134,False,False
+157871,NY,Write-in,Nonpartisan,22,0.047,False,False
+157996,NY,Josh Jensen,Republican,28528,55.845,True,False
+157996,NY,Kurt Vanwuyckhuyse,Democratic,22533,44.11,False,False
+157996,NY,Write-in,Nonpartisan,23,0.045,False,False
+157904,NY,Rodneyse Bichotte,Democratic,28339,88.926,True,False
+157904,NY,Herman G. Hall,Republican,3154,9.897,False,False
+157904,NY,Write-in,Nonpartisan,375,1.177,False,False
+157805,NY,Siela A. Bynoe,Democratic,64855,67.074,True,False
+157805,NY,Matthew J. Capp,Republican,31797,32.885,False,False
+157805,NY,Write-in,Nonpartisan,40,0.041,False,False
+157937,NY,Tony Simone,Democratic,31982,82.248,True,False
+157937,NY,Cristina Fontanelli,Republican,6820,17.539,False,False
+157937,NY,Write-in,Nonpartisan,83,0.213,False,False
+157845,NY,Patricia A. Fahy,Democratic,73705,62.883,True,False
+157845,NY,Martha G. McHugh,Republican,43376,37.007,False,False
+157845,NY,Write-in,Nonpartisan,128,0.109,False,False
+157970,NY,John T. McDonald III,Democratic,26942,67.247,True,False
+157970,NY,Joseph J. Adamo III,Republican,13089,32.67,False,False
+157970,NY,Write-in,Nonpartisan,33,0.082,False,False
+157878,NY,Kim Keiserman,Democratic,26226,52.008,True,False
+157878,NY,David Hassid,Republican,24164,47.919,False,False
+157878,NY,Write-in,Nonpartisan,37,0.073,False,False
+158003,NY,Leah M. Halton-Pope,Democratic,27471,99.213,True,False
+158003,NY,Write-in,Nonpartisan,218,0.787,False,False
+157911,NY,Joyce Xiaoqiong Xie,Democratic,7791,52.813,False,False
+157911,NY,Lester Chang,Republican,6930,46.977,False,False
+157911,NY,Write-in,Nonpartisan,31,0.21,False,False
+157812,NY,Jessica Gonzalez-Rojas,Democratic,35582,78.929,True,False
+157812,NY,John Patrick Healy,Republican,9277,20.579,False,False
+157812,NY,Write-in,Nonpartisan,222,0.492,False,False
+157944,NY,Michael R. Benedetto,Democratic,23318,72.504,True,False
+157944,NY,Irene Guanill,Republican,8771,27.272,False,False
+157944,NY,Write-in,Nonpartisan,72,0.224,False,False
+157852,NY,Joseph A. Griffo,Republican,76058,67.193,True,False
+157852,NY,Mandi Drake,Democratic,37084,32.762,False,False
+157852,NY,Write-in,Nonpartisan,51,0.045,False,False
+157977,NY,Michael Cashman,Democratic,36667,99.366,True,False
+157977,NY,Write-in,Nonpartisan,234,0.634,False,False
+157885,NY,Pesach Osina,Democratic,17863,51.921,False,False
+157885,NY,Thomas P. Sullivan,Republican,16492,47.936,False,False
+157885,NY,Write-in,Nonpartisan,49,0.142,False,False
+158010,NY,Joseph Sempolinski,Republican,35786,99.29,True,False
+158010,NY,Write-in,Nonpartisan,256,0.71,False,False
+157918,NY,Eon Huntley,Democratic,33558,98.103,True,False
+157918,NY,Write-in,Nonpartisan,649,1.897,False,False
+157819,NY,Zellnor Y. Myrie,Democratic,93454,99.477,True,False
+157819,NY,Write-in,Nonpartisan,491,0.523,False,False
+157859,NY,Patrick M. Gallivan,Republican,107860,97.767,True,False
+157859,NY,Write-in,Nonpartisan,2464,2.233,False,False
+157984,NY,Brian D. Miller,Republican,33646,62.798,True,False
+157984,NY,Ihor Semko,Democratic,19913,37.166,False,False
+157984,NY,Write-in,Nonpartisan,19,0.035,False,False
+157892,NY,Patrick Martinez,Democratic,15022,70.845,True,False
+157892,NY,Brandon P. Castro,Republican,6118,28.853,False,False
+157892,NY,Write-in,Nonpartisan,64,0.302,False,False
+158017,NY,Michael J. Manfredi,Republican,179884,52.091,False,False
+158017,NY,Joseph Zavaglia,Democratic,165291,47.865,False,False
+158017,NY,Write-in,Nonpartisan,149,0.043,False,False
+157925,NY,Sam T. Pirozzolo,Republican,18322,51.799,False,False
+157925,NY,Matthew Mobilia,Democratic,17009,48.087,False,False
+157925,NY,Write-in,Nonpartisan,40,0.113,False,False
+157826,NY,Grace Lee,Democratic,65996,83.061,True,False
+157826,NY,Jason C. Murillo,Republican,13303,16.743,False,False
+157826,NY,Write-in,Nonpartisan,156,0.196,False,False
+157951,NY,J Gary Pretlow,Democratic,25232,99.605,True,False
+157951,NY,Write-in,Nonpartisan,100,0.395,False,False
+157834,NY,Andrea Stewart-Cousins,Democratic,67583,71.452,True,False
+157834,NY,Anthony J. Merante,Republican,26942,28.484,False,False
+157834,NY,Write-in,Nonpartisan,60,0.063,False,False
+157991,NY,Maurice Mo Brown,Democratic,22380,65.362,True,False
+157991,NY,Shawn M. Fiato,Republican,11769,34.372,False,False
+157991,NY,Write-in,Nonpartisan,91,0.266,False,False
+157867,NY,Douglas M. Smith,Republican,26333,56.759,True,False
+157867,NY,Victoria A. Russell,Democratic,20036,43.187,False,False
+157867,NY,Write-in,Nonpartisan,25,0.054,False,False
+157992,NY,George Dobbins,Republican,30086,56.129,True,False
+157992,NY,Carl Fitzsimmons,Democratic,21904,40.864,False,False
+157992,NY,Joseph Lamanna,Independent,1591,2.968,False,False
+157992,NY,Write-in,Nonpartisan,21,0.039,False,False
+157900,NY,David Orkin,Democratic,16758,73.262,True,False
+157900,NY,Ruben D. Cruz II,Republican,6074,26.554,False,False
+157900,NY,Write-in,Nonpartisan,42,0.184,False,False
+157801,NY,Mario R. Mattera,Republican,72641,54.187,True,False
+157801,NY,Harjot Singh,Democratic,61362,45.773,False,False
+157801,NY,Write-in,Nonpartisan,54,0.04,False,False
+157958,NY,Patrick Carroll,Democratic,35059,66.212,True,False
+157958,NY,Brett L. Yagel,Republican,17852,33.715,False,False
+157958,NY,Write-in,Nonpartisan,39,0.074,False,False
+157841,NY,James G. Skoufis,Democratic,59378,60.321,True,False
+157841,NY,Jennifer R. Figueroa,Republican,35343,35.905,False,False
+157841,NY,Joshua Blumenthal,Conservative,3625,3.683,False,False
+157841,NY,Write-in,Nonpartisan,90,0.091,False,False
+157966,NY,Jonathan G. Jacobson,Democratic,30133,99.341,True,False
+157966,NY,Write-in,Nonpartisan,200,0.659,False,False
+157874,NY,Craig G. Herskowitz,Democratic,26734,51.553,True,False
+157874,NY,David D. Weber Jr,Republican,25093,48.389,False,False
+157874,NY,Write-in,Nonpartisan,30,0.058,False,False
+157999,NY,Demond L. Meeks,Democratic,19698,73.336,True,False
+157999,NY,Dave Ferris,Republican,6041,22.491,False,False
+157999,NY,Mercedes Vazquez-Simmons,Independent,1105,4.114,False,False
+157999,NY,Write-in,Nonpartisan,16,0.06,False,False
+157907,NY,Joey Cohen-Saban,Democratic,13636,61.59,True,False
+157907,NY,Michael Novakhov,Republican,8416,38.013,False,False
+157907,NY,Write-in,Nonpartisan,88,0.397,False,False
+157808,NY,Lisa Malkie Vider,Democratic,58862,51.236,True,False
+157808,NY,Patricia M. Canzoneri-Fitzpatrick,Republican,55950,48.701,False,False
+157808,NY,Write-in,Nonpartisan,73,0.064,False,False
+157933,NY,Al Taylor,Democratic,32995,99.311,True,False
+157933,NY,Write-in,Nonpartisan,229,0.689,False,False
+157848,NY,Mark C. Walczyk,Republican,70467,69.436,True,False
+157848,NY,Cassie L. Robbins-Forbus,Democratic,30994,30.54,False,False
+157848,NY,Write-in,Nonpartisan,24,0.024,False,False
+157973,NY,Angelo L. Santabarbara,Democratic,24655,66.043,True,False
+157973,NY,Nicholas J. Sokaris,Republican,12642,33.864,False,False
+157973,NY,Write-in,Nonpartisan,35,0.094,False,False
+157881,NY,Edward P. Ra,Republican,27858,59.091,True,False
+157881,NY,Colleen Connaughton,Democratic,19265,40.864,False,False
+157881,NY,Write-in,Nonpartisan,21,0.045,False,False
+158006,NY,Paul A. Bologna,Republican,34754,60.099,True,False
+158006,NY,Donna L. Dye Sholk,Democratic,23047,39.854,False,False
+158006,NY,Write-in,Nonpartisan,27,0.047,False,False
+157914,NY,Jo Anne Simon,Democratic,51707,92.395,True,False
+157914,NY,Brett Wynkoop,Republican,4129,7.378,False,False
+157914,NY,Write-in,Nonpartisan,127,0.227,False,False
+157815,NY,John C. Liu,Democratic,37347,98.248,True,False
+157815,NY,Write-in,Nonpartisan,666,1.752,False,False
+157940,NY,George A. Alvarez,Democratic,14746,99.3,True,False
+157940,NY,Write-in,Nonpartisan,104,0.7,False,False
+157980,NY,Heather A. Scribner,Republican,31773,66.15,True,False
+157980,NY,Colleen Maxwell,Democratic,16203,33.734,False,False
+157980,NY,Write-in,Nonpartisan,56,0.117,False,False
+157888,NY,Edward C. Braunstein,Democratic,21391,61.354,True,False
+157888,NY,Robert J. Speranza,Republican,13425,38.506,False,False
+157888,NY,Write-in,Nonpartisan,49,0.141,False,False
+158013,NY,Christopher Chin,Democratic,614520,13.925,False,False
+158013,NY,Kathleen Waterman-Marshall,Democratic,611444,13.856,False,False
+158013,NY,Manuel J. Mendez,Democratic,605564,13.722,False,False
+158013,NY,Shlomo S. Hagler,Democratic,589792,13.365,False,False
+158013,NY,Saliann Scarpulla,Democratic,569808,12.912,False,False
+158013,NY,Hasa A. Kingo,Democratic,558550,12.657,False,False
+158013,NY,Amy S. Taylor,Working Families,185234,4.197,False,False
+158013,NY,Sienna M. Fontaine,Working Families,169648,3.844,False,False
+158013,NY,Bob Cohen,Working Families,163888,3.714,False,False
+158013,NY,Joshua E. Goldfein,Working Families,158620,3.594,False,False
+158013,NY,Jeffrey W. Rizzo,Working Families,150352,3.407,False,False
+158013,NY,Write-in,Nonpartisan,35568,0.806,False,False
+157921,NY,Jaime R. Williams,Democratic,25402,89.674,True,False
+157921,NY,Jibreel Jalloh,Working Families,2818,9.948,False,False
+157921,NY,Write-in,Nonpartisan,107,0.378,False,False
+157822,NY,Jessica Scarcella-Spanton,Democratic,39715,64.325,True,False
+157822,NY,Ruslan Shamal,Republican,21907,35.482,False,False
+157822,NY,Write-in,Nonpartisan,119,0.193,False,False
+157947,NY,Emerita Torres,Democratic,16850,99.498,True,False
+157947,NY,Write-in,Nonpartisan,85,0.502,False,False
+157855,NY,Jeremy A. Cooney,Democratic,64476,66.65,True,False
+157855,NY,Orlando Rivera,Republican,32200,33.286,False,False
+157855,NY,Write-in,Nonpartisan,62,0.064,False,False
+157987,NY,Anna Kelles,Democratic,35035,99.103,True,False
+157987,NY,Write-in,Nonpartisan,317,0.897,False,False
+157895,NY,Clyde Vanel,Democratic,28799,91.612,True,False
+157895,NY,Oster Bryan,Working Families,2526,8.035,False,False
+157895,NY,Write-in,Nonpartisan,111,0.353,False,False
+158020,NY,Joy M. Watson,Democratic,1811358,12.215,False,False
+158020,NY,Leonard D. Steinman,Democratic,1807190,12.187,False,False
+158020,NY,Richard Ambro,Democratic,1730286,11.668,False,False
+158020,NY,Mary E. Porter,Democratic,962324,6.489,False,False
+158020,NY,John Kelly,Democratic,946662,6.384,False,False
+158020,NY,Eric Sachs,Democratic,945242,6.374,False,False
+158020,NY,Stephen L. Ukeiley,Democratic,934452,6.302,False,False
+158020,NY,James A. McDonaugh,Republican,931068,6.279,False,False
+158020,NY,William D. Wexler,Democratic,925792,6.243,False,False
+158020,NY,Mary Kate Mullen,Republican,923618,6.228,False,False
+158020,NY,Kelly A. Reape,Republican,923018,6.224,False,False
+158020,NY,Karen M. Wilutis,Republican,922528,6.221,False,False
+158020,NY,John Iliou,Republican,910424,6.14,False,False
+158020,NY,Anthony R. Portesy,Conservative,143926,0.971,False,False
+158020,NY,Write-in,Nonpartisan,11056,0.075,False,False
+157896,NY,Brian Romero,Democratic,21644,98.579,True,False
+157896,NY,Write-in,Nonpartisan,312,1.421,False,False
+157829,NY,Cordell Cleare,Democratic,76259,99.478,True,False
+157829,NY,Write-in,Nonpartisan,400,0.522,False,False
+157954,NY,MaryJane C. Shimsky,Democratic,39339,71.708,True,False
+157954,NY,Bob Welch,Republican,15482,28.221,False,False
+157954,NY,Write-in,Nonpartisan,39,0.071,False,False
+157862,NY,April N. McCants-Baskin,Democratic,58566,70.286,True,False
+157862,NY,Geoffrey M. Szymanski,Republican,24679,29.618,False,False
+157862,NY,Write-in,Nonpartisan,80,0.096,False,False
+157962,NY,Paula Elaine Kay,Democratic,25254,99.429,True,False
+157962,NY,Write-in,Nonpartisan,145,0.571,False,False
+157870,NY,Michael J. Fitzpatrick,Republican,34871,61.341,True,False
+157870,NY,Lynn M. Trupiano-O'Keefe,Democratic,21942,38.598,False,False
+157870,NY,Write-in,Nonpartisan,35,0.062,False,False
+157995,NY,Andrea K. Bailey,Republican,35106,62.173,True,False
+157995,NY,Gladys Flores,Democratic,21335,37.784,False,False
+157995,NY,Write-in,Nonpartisan,24,0.043,False,False
+157903,NY,Kalman Yeger,Democratic,27751,99.199,True,False
+157903,NY,Write-in,Nonpartisan,224,0.801,False,False
+157804,NY,Steven D. Rhoads,Republican,62538,57.133,True,False
+157804,NY,Andrew Piddoubny,Democratic,46884,42.832,False,False
+157804,NY,Write-in,Nonpartisan,39,0.036,False,False
+157929,NY,Linda B. Rosenthal,Democratic,42961,98.523,True,False
+157929,NY,Write-in,Nonpartisan,644,1.477,False,False
+157837,NY,Joseph W. Rand,Democratic,63588,54.193,True,False
+157837,NY,Bill Weber,Republican,53647,45.721,False,False
+157837,NY,Write-in,Nonpartisan,101,0.086,False,False
+87328,NY,Tim Kennedy,Democratic,165084,65.938,True,False
+87328,NY,Dennis Hannon,Republican,84908,33.914,False,False
+87328,NY,Write-in,Nonpartisan,371,0.148,False,False
+87327,NY,Joseph Morelle,Democratic,176500,62.868,True,False
+87327,NY,Virginia McIntyre,Republican,103471,36.856,False,False
+87327,NY,Write-in,Nonpartisan,775,0.276,False,False
+87326,NY,Claudia Tenney,Republican,171838,60.346,True,False
+87326,NY,Alissa Ellman,Democratic,112776,39.604,False,False
+87326,NY,Write-in,Nonpartisan,142,0.05,False,False
+87325,NY,Nick Langworthy,Republican,182886,60.109,True,False
+87325,NY,Aaron Gies,Democratic,121217,39.84,False,False
+87325,NY,Write-in,Nonpartisan,153,0.05,False,False
+87324,NY,John Mannion,Democratic,161708,58.459,True,False
+87324,NY,Kailee Buller,Republican,114691,41.462,False,False
+87324,NY,Write-in,Nonpartisan,221,0.08,False,False
+87323,NY,Anthony Constantino,Republican,141326,50.686,True,False
+87323,NY,Blake Gendebien,Democratic,136848,49.08,False,False
+87323,NY,Write-in,Nonpartisan,651,0.233,False,False
+87322,NY,Paul Tonko,Democratic,184356,63.712,True,False
+87322,NY,Ralph Ambrosio,Republican,104749,36.2,False,False
+87322,NY,Write-in,Nonpartisan,255,0.088,False,False
+87321,NY,Josh Riley,Democratic,167555,57.287,True,False
+87321,NY,Peter Oberacker,Republican,124621,42.608,False,False
+87321,NY,Write-in,Nonpartisan,306,0.105,False,False
+87320,NY,Pat Ryan,Democratic,169001,62.869,True,False
+87320,NY,Jacqueline Auringer,Republican,99621,37.059,False,False
+87320,NY,Write-in,Nonpartisan,194,0.072,False,False
+87319,NY,Cait Conley,Democratic,167892,52.998,True,False
+87319,NY,Mike Lawler,Republican,148557,46.894,False,False
+87319,NY,Write-in,Nonpartisan,341,0.108,False,False
+87318,NY,George Latimer,Democratic,175900,75.759,True,False
+87318,NY,Joseph Cinquemani,Republican,55549,23.924,False,False
+87318,NY,Write-in,Nonpartisan,736,0.317,False,False
+87310,NY,Hakeem Jeffries,Democratic,128197,78.937,True,False
+87310,NY,Lewis Mizrahi,Republican,31969,19.685,False,False
+87310,NY,Write-in,Nonpartisan,2238,1.378,False,False
+87317,NY,Ritchie Torres,Democratic,93812,76.789,True,False
+87317,NY,Stylo Sapaskis,Republican,13004,10.644,False,False
+87317,NY,Andre Easton,Socialism PSL,10647,8.715,False,False
+87317,NY,Jose Vega,Independent,2348,1.922,False,False
+87317,NY,Gonzalo Duran,Conservative,2075,1.698,False,False
+87317,NY,Write-in,Nonpartisan,283,0.232,False,False
+87316,NY,Alexandria Ocasio-Cortez,Democratic,107129,78.221,True,False
+87316,NY,Diamant Hysenaj,Republican,29505,21.543,False,False
+87316,NY,Write-in,Nonpartisan,322,0.235,False,False
+87315,NY,Darializa Avila Chevalier,Democratic,141014,87.523,True,False
+87315,NY,"Manual ""Jomo"" Williams",Republican,18308,11.363,False,False
+87315,NY,Write-in,Nonpartisan,1795,1.114,False,False
+87314,NY,Micah Lasher,Democratic,193614,77.204,True,False
+87314,NY,Caroline Shinkle,Republican,50212,20.022,False,False
+87314,NY,Karen Ortiz,Independent,3429,1.367,False,False
+87314,NY,Wilneida Negron,Independent,2894,1.154,False,False
+87314,NY,Write-in,Nonpartisan,632,0.252,False,False
+87313,NY,Nicole Malliotakis,Republican,101719,56.1,True,False
+87313,NY,Michael DeCillis,Democratic,79370,43.774,False,False
+87313,NY,Write-in,Nonpartisan,227,0.125,False,False
+87312,NY,Brad Lander,Democratic,167343,83.206,True,False
+87312,NY,Jennifer Moore,Republican,31912,15.867,False,False
+87312,NY,Write-in,Nonpartisan,1865,0.927,False,False
+87311,NY,Yvette Clarke,Democratic,146503,82.091,True,False
+87311,NY,Joel Anabilah-Azumah,Republican,30378,17.022,False,False
+87311,NY,Write-in,Nonpartisan,1584,0.888,False,False
+87303,NY,Nick LaLota,Republican,152546,51.09,True,False
+87303,NY,Chris Gallant,Democratic,145869,48.853,False,False
+87303,NY,Write-in,Nonpartisan,170,0.057,False,False
+87309,NY,Claire Valdez,Democratic,135179,83.332,True,False
+87309,NY,Melvin Rivera,Republican,24370,15.023,False,False
+87309,NY,Priscilla Ghaznavi,Independent,2155,1.328,False,False
+87309,NY,Write-in,Nonpartisan,514,0.317,False,False
+87308,NY,Grace Meng,Democratic,92474,68.627,True,False
+87308,NY,Joseph Chou,Republican,41225,30.594,False,False
+87308,NY,Write-in,Nonpartisan,1050,0.779,False,False
+87307,NY,Gregory Meeks,Democratic,129931,80.494,True,False
+87307,NY,George Marsh,Republican,31082,19.256,False,False
+87307,NY,Write-in,Nonpartisan,405,0.251,False,False
+87306,NY,Laura Gillen,Democratic,146755,56.552,True,False
+87306,NY,Jeanine Driscoll,Republican,111878,43.112,False,False
+87306,NY,Blay Tarnoff,Libertarian,637,0.245,False,False
+87306,NY,Write-in,Nonpartisan,234,0.09,False,False
+87305,NY,Tom Suozzi,Democratic,141870,55.011,True,False
+87305,NY,Mike LiPetri,Republican,115330,44.72,False,False
+87305,NY,Write-in,Nonpartisan,696,0.27,False,False
+87304,NY,Andrew Garbarino,Republican,124271,51.108,True,False
+87304,NY,Patrick Halpin,Democratic,118680,48.809,False,False
+87304,NY,Write-in,Nonpartisan,201,0.083,False,False

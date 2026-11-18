@@ -1,0 +1,842 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+142156,SC,South Carolina Treasurer,2026-11-03,92.4,,False,3,46,2026045,2026-11-18T16:33+00:00
+87410,SC,South Carolina Governor,2026-11-03,99,2026-11-04T05:46:58.308Z,False,5,46,2038395,2026-11-18T16:33+00:00
+142160,SC,South Carolina Agriculture Commissioner,2026-11-03,90.2,2026-11-17T03:50:43.246Z,False,5,46,2021964,2026-11-18T16:33+00:00
+142155,SC,South Carolina Secretary of State,2026-11-03,92.4,,False,3,46,2032529,2026-11-18T16:33+00:00
+142157,SC,South Carolina Attorney General,2026-11-03,92.3,,False,3,46,2026162,2026-11-18T16:33+00:00
+142159,SC,South Carolina Superintendent of Education,2026-11-03,90.2,2026-11-17T03:50:43.246Z,False,4,46,2026450,2026-11-18T16:33+00:00
+159567,SC,South Carolina State House,2026-11-03,78.8,,False,6,124,1972515,2026-11-18T16:33+00:00
+142158,SC,South Carolina Comptroller General,2026-11-03,92.3,,False,3,46,2015098,2026-11-18T16:33+00:00
+141614,SC,Dillon Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142118,SC,Watershed Conservation District Rabon Creek,2026-11-03,0,,False,3,2,0,2026-11-18T16:33+00:00
+177077,SC,Greenwood City Council District 4 - City of Greenwood,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141942,SC,Charleston School Board of Trustees District 5,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141863,SC,Greenville County Council District 19,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177007,SC,Town Council (Unexpired Term) - Town of Ware Shoals,2026-11-03,0,,False,3,2,0,2026-11-18T16:33+00:00
+141687,SC,Kershaw County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141800,SC,Chester County Council District 5,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141504,SC,South Carolina State House 40,2026-11-03,65.5,2026-11-04T07:09:42.110Z,False,3,2,15798,2026-11-18T16:33+00:00
+141617,SC,Florence Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141936,SC,Charleston School Board of Trustees District 3,2026-11-03,0,,False,5,1,0,2026-11-18T16:33+00:00
+142049,SC,Kershaw School Board District 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141554,SC,South Carolina State House 90,2026-11-03,68.5,2026-11-04T07:09:42.111Z,False,2,4,11094,2026-11-18T16:33+00:00
+141674,SC,Abbeville County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141979,SC,Saluda School Board 1 Seat 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141986,SC,Fairfield School Board District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141690,SC,Marion County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141611,SC,Chesterfield Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142115,SC,Watershed Conservation District Little Lynches Creek,2026-11-03,0,,False,3,2,0,2026-11-18T16:33+00:00
+177067,SC,Georgetown Local Option Sales Tax Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141939,SC,Barnwell School Trustee District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141860,SC,Horry County Council District 11,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177004,SC,Abbeville City Council District 6 - City of Abbeville,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141485,SC,South Carolina State House 21,2026-11-03,82,2026-11-04T07:09:42.110Z,False,3,1,19033,2026-11-18T16:33+00:00
+141797,SC,Calhoun County Council District 5,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141501,SC,South Carolina State House 37,2026-11-03,84,2026-11-04T07:09:42.110Z,False,3,1,14793,2026-11-18T16:33+00:00
+141670,SC,Saluda Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141982,SC,Abbeville School Board District 1,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141494,SC,South Carolina State House 30,2026-11-03,63,2026-11-04T07:09:42.110Z,False,3,2,12913,2026-11-18T16:33+00:00
+141607,SC,Berkeley Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142111,SC,Laurens Watershed Conservation District Duncan Creek,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177070,SC,Greenville City of Greenville Tax Relief Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141743,SC,Cherokee County Council District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141856,SC,Charleston County Council District 9,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177000,SC,Abbeville City Council District 1 - City of Abbeville,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141488,SC,South Carolina State House 24,2026-11-03,86,2026-11-12T01:54:12.338Z,False,3,1,19616,2026-11-18T16:33+00:00
+141793,SC,Allendale County Council District 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141497,SC,South Carolina State House 33,2026-11-03,88,2026-11-04T07:09:42.110Z,False,3,1,16173,2026-11-18T16:33+00:00
+177057,SC,Florence School Board District 5 Seat 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141929,SC,Anderson School Trustee District 1 Area 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142042,SC,Abbeville School Board District 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141746,SC,Clarendon County Council District 2,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141667,SC,Mccormick Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141972,SC,York Clover School District Trustee Seat 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141491,SC,South Carolina State House 27,2026-11-03,84,2026-11-12T01:54:12.338Z,False,3,1,18248,2026-11-18T16:33+00:00
+141604,SC,Anderson Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142108,SC,Horry Watershed Conservation District Buck Creek,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142029,SC,Aiken School Board District 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141740,SC,Barnwell County Council District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141853,SC,Lexington County Council District 8,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141550,SC,South Carolina State House 86,2026-11-03,69,2026-11-04T07:09:42.111Z,False,3,2,15297,2026-11-18T16:33+00:00
+141733,SC,Union County Council District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142038,SC,Orangeburg School Board District 5,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+142151,SC,Spartanburg Commissioner of Public Works Sanitary Sewer,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141663,SC,Laurens Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141975,SC,Richland School District At Large District 5,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+177126,SC,Sumter Mayor - Pinewood,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141600,SC,Hampton Sheriff,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142104,SC,Anderson Watershed Conservation District Big Creek,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142032,SC,Darlington School Board District 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141736,SC,Aiken County Council District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141849,SC,Chesterfield County Council District 8,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141962,SC,Anderson School Trustee District 2 Area 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141481,SC,South Carolina State House 17,2026-11-03,83,2026-11-04T07:09:42.110Z,False,3,1,19075,2026-11-18T16:33+00:00
+141786,SC,Lee County Council District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177129,SC,Union Southside Fire District Commissioner,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+177050,SC,Fairfield Wateree Creek Watershed Conservation District,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+141915,SC,Horry Board of Education District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141922,SC,Georgetown School Board At Large,2026-11-03,0,,False,6,1,0,2026-11-18T16:33+00:00
+142035,SC,Hampton School Board School Board Trustee District 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141547,SC,South Carolina State House 83,2026-11-03,71.5,2026-11-04T07:09:42.111Z,False,3,2,16297,2026-11-18T16:33+00:00
+141660,SC,Greenville Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141773,SC,Saluda County Council District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177123,SC,Sumter City Council District 1 - Sumter,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141597,SC,Berkeley Sheriff,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142101,SC,Edgefield Watershed Conservation District Beaverdam Creek,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177053,SC,Florence School Board District 3 Seat 4,2026-11-03,0,,False,5,1,0,2026-11-18T16:33+00:00
+177116,SC,Saluda Mayor - Saluda,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141782,SC,Edgefield County Council District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142094,SC,Laurens School Board District 56 Seat 6,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177046,SC,Darlington Board of Education Bond Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141918,SC,Horry Board of Education District 7,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141839,SC,Lexington County Council District 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141543,SC,South Carolina State House 79,2026-11-03,83,2026-11-04T07:09:42.111Z,False,2,1,15547,2026-11-18T16:33+00:00
+141656,SC,Dillon Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141776,SC,Barnwell County Council District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177119,SC,Saluda Commissioner of Public Works - Saluda,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141593,SC,South Carolina Solicitor Circuit 13,2026-11-03,0,,False,2,2,0,2026-11-18T16:33+00:00
+142097,SC,Anderson Board of Education District 3,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142025,SC,Kershaw School Board District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141729,SC,Orangeburg County Council District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141842,SC,Newberry County Council District 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141955,SC,Anderson School Trustee District 4 Area 4,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141467,SC,South Carolina State House 3,2026-11-03,84,2026-11-04T07:09:42.110Z,False,3,1,10365,2026-11-18T16:33+00:00
+141474,SC,South Carolina State House 10,2026-11-03,65.7,2026-11-04T07:09:42.110Z,False,3,3,14942,2026-11-18T16:33+00:00
+141779,SC,Calhoun County Council District 4,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142091,SC,Laurens School Board District 55 Seat 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177043,SC,Chesterfield Capital Project Sales Tax Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141908,SC,Saluda Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141836,SC,Georgetown County Council District 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141540,SC,South Carolina State House 76,2026-11-03,84,2026-11-04T07:09:42.111Z,False,2,1,12573,2026-11-18T16:33+00:00
+141653,SC,Cherokee Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141958,SC,Anderson School Trustee District 5 Area 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141533,SC,South Carolina State House 69,2026-11-03,85,2026-11-04T07:09:42.111Z,False,4,1,16469,2026-11-18T16:33+00:00
+141646,SC,Kershaw Coroner,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141951,SC,York Rock Hill School District Trustee Seat 2,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141470,SC,South Carolina State House 6,2026-11-03,83,2026-11-04T07:09:42.110Z,False,3,1,17391,2026-11-18T16:33+00:00
+141583,SC,South Carolina State House 119,2026-11-03,89,2026-11-04T07:09:42.112Z,False,3,1,19909,2026-11-18T16:33+00:00
+142087,SC,School Board 28 Greenville County,2026-11-03,0,,False,2,2,0,2026-11-18T16:33+00:00
+177039,SC,Cherokee Antioch Fire District Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141911,SC,Union Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141832,SC,Cherokee County Council District 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141536,SC,South Carolina State House 72,2026-11-03,83,2026-11-04T07:09:42.111Z,False,3,1,8314,2026-11-18T16:33+00:00
+141649,SC,Allendale Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141769,SC,Lee County Council District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177112,SC,Pickens Georges Creek Watershed Conservation District,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+141586,SC,South Carolina State House 122,2026-11-03,61,2026-11-12T01:54:12.338Z,False,3,4,18721,2026-11-18T16:33+00:00
+141898,SC,Laurens Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142011,SC,Chesterfield School Board District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142018,SC,Union School Board District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141722,SC,Florence County Council District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141643,SC,Cherokee Coroner,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142147,SC,Beaufort Public Service District Fripp Island Public Service Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177099,SC,McCormick School District Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141580,SC,South Carolina State House 116,2026-11-03,54,2026-11-12T01:54:12.338Z,False,3,2,20952,2026-11-18T16:33+00:00
+142084,SC,School Board 24 Greenville County,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177036,SC,Cherokee County Alcohol Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141709,SC,Jasper County Council Coosawhatchie Township,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141829,SC,Abbeville County Council District 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177029,SC,Berkeley City Council - Hanahan,2026-11-03,0,,False,7,1,0,2026-11-18T16:33+00:00
+141894,SC,Horry Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142014,SC,Hampton School Board School Board Trustee District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141718,SC,Chester County Council District 1,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141639,SC,Berkeley Clerk of Court,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142143,SC,Anderson Public Service District Homeland Park Water and Sewer,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+177102,SC,Newberry Town Council - Silverstreet,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+141576,SC,South Carolina State House 112,2026-11-03,87,2026-11-04T07:09:42.112Z,False,3,1,22976,2026-11-18T16:33+00:00
+142080,SC,School Board 20 Greenville County,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+177032,SC,Charleston Sales and Use Tax Referendum-Question 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141712,SC,Fairfield County Council District 5,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141825,SC,Richland County Council District 6,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141529,SC,South Carolina State House 65,2026-11-03,56.8,2026-11-04T07:09:42.111Z,False,3,4,14217,2026-11-18T16:33+00:00
+177089,SC,Lee Capital Project Sales Tax Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141755,SC,Pickens County Council District 2,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141762,SC,Calhoun County Council District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177105,SC,Oconee City of Seneca Tax Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177026,SC,Beaufort City Council - City of Beaufort,2026-11-03,0,,False,5,1,0,2026-11-18T16:33+00:00
+141891,SC,Greenville Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142004,SC,Newberry School Board District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141715,SC,Aiken County Council District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141636,SC,Union Probate Judge,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142140,SC,Charleston St Andrews Public Service District Section 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142061,SC,Orangeburg School Board District 7,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141573,SC,South Carolina State House 109,2026-11-03,74.5,2026-11-04T07:09:42.112Z,False,2,2,9318,2026-11-18T16:33+00:00
+142077,SC,Florence School Board District 1 Seat 8,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+177085,SC,Kershaw Mayor - Bethune,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141758,SC,Williamsburg County Council District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142070,SC,Chesterfield School Board District 9,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177022,SC,Beaufort Mayor - Hilton Head,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141887,SC,Edgefield Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142007,SC,Aiken School Board District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141519,SC,South Carolina State House 55,2026-11-03,58.5,2026-11-04T07:09:42.111Z,False,2,4,9602,2026-11-18T16:33+00:00
+141632,SC,Pickens Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142136,SC,Spartanburg Fire District Commissioner Holly Springs Fire District,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+142064,SC,Clarendon School Board District 8,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141569,SC,South Carolina State House 105,2026-11-03,90,2026-11-04T07:09:42.112Z,False,3,1,19972,2026-11-18T16:33+00:00
+142073,SC,Richland School Board District 11,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141994,SC,Beaufort School Board District 2,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141705,SC,Chester County Council at Large,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141818,SC,Florence County Council District 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141522,SC,South Carolina State House 58,2026-11-03,87,2026-11-04T07:09:42.111Z,False,3,1,15560,2026-11-18T16:33+00:00
+177082,SC,Greenwood Mayor - Town of Troy,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141947,SC,Charleston School Board of Trustees District 9,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142067,SC,Sumter School Board District 8,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+177019,SC,Bamberg School Board District 6,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+141884,SC,Darlington Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141805,SC,Laurens County Council District 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141516,SC,South Carolina State House 52,2026-11-03,77.5,2026-11-04T07:09:42.111Z,False,2,2,13378,2026-11-18T16:33+00:00
+141629,SC,Newberry Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142133,SC,Spartanburg Fire District Commissioner Cherokee Springs,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141509,SC,South Carolina State House 45,2026-11-03,69.5,2026-11-04T07:09:42.110Z,False,3,2,15546,2026-11-18T16:33+00:00
+141814,SC,Beaufort County Council District 6,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142126,SC,Horry Watershed Conservation District Todd Swamp,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177078,SC,Greenwood City Council District 6 - City of Greenwood,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141751,SC,Horry County Council District 2,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141871,SC,Abbeville Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177015,SC,Anderson Broadview Zoning Referendum Broadview,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141688,SC,Laurens County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141808,SC,Richland County Council District 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141512,SC,South Carolina State House 48,2026-11-03,86,2026-11-04T07:09:42.110Z,False,3,1,19069,2026-11-18T16:33+00:00
+141625,SC,Laurens Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142129,SC,Union Fire District Commissioner Jonesville,2026-11-03,0,,False,5,1,0,2026-11-18T16:33+00:00
+142057,SC,Georgetown School Board District 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141562,SC,South Carolina State House 98,2026-11-03,88,2026-11-12T01:54:12.338Z,False,3,1,13987,2026-11-18T16:33+00:00
+141874,SC,Anderson Soil and Water District Commission,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141987,SC,Greenwood School Board District 1,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+141691,SC,Mccormick County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141698,SC,Berkeley County Supervisor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141811,SC,Anderson County Council District 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142123,SC,Watershed Conservation District Thicketty Creek,2026-11-03,0,,False,3,2,0,2026-11-18T16:33+00:00
+177075,SC,Greenwood Mayor - City of Greenwood,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141940,SC,Lexington School Trustee District 4,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141868,SC,Colleton County Council District 45,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177012,SC,City Council At Large - City of North Augusta,2026-11-03,0,,False,4,2,0,2026-11-18T16:33+00:00
+141685,SC,Greenville County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141990,SC,Orangeburg School Board District 1,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141558,SC,South Carolina State House 94,2026-11-03,69.5,2026-11-12T01:54:12.338Z,False,3,2,15235,2026-11-18T16:33+00:00
+141678,SC,Beaufort County Treasurer,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141983,SC,Chesterfield School Board District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141694,SC,Saluda County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141615,SC,Edgefield Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142119,SC,Watershed Conservation District Rocky Creek,2026-11-03,0,,False,3,2,0,2026-11-18T16:33+00:00
+177071,SC,Greenville City of Mauldin Tax Relief Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141943,SC,Lexington School Trustee District 5,2026-11-03,0,,False,5,1,0,2026-11-18T16:33+00:00
+141864,SC,Colleton County Council District 23,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177008,SC,Aiken School Board District 6,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+141681,SC,Colleton County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141801,SC,Dillon County Council District 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141505,SC,South Carolina State House 41,2026-11-03,72.7,2026-11-12T01:54:12.338Z,False,3,3,17676,2026-11-18T16:33+00:00
+141618,SC,Greenville Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141930,SC,Charleston School Board of Trustees District 1,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+142043,SC,Berkeley School Board District 6,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142050,SC,Sumter School Board District 6,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141555,SC,South Carolina State House 91,2026-11-03,77,2026-11-04T07:09:42.111Z,False,3,3,14615,2026-11-18T16:33+00:00
+141675,SC,Allendale County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141980,SC,Saluda School Board 1 Seat 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141492,SC,South Carolina State House 28,2026-11-03,83,2026-11-12T01:54:12.338Z,False,3,1,19503,2026-11-18T16:33+00:00
+141612,SC,Colleton Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142116,SC,Florence Watershed Conservation District Lynches Lake - Camp Branch,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+177068,SC,Greenville Sales and Use Tax Referendum - Question 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141741,SC,Beaufort County Council District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141861,SC,Richland County Council District 11,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177061,SC,Florence City Council District 3 - Florence,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141926,SC,Anderson School Trustee District 1 Area 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142046,SC,Colleton School Board District 6,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141551,SC,South Carolina State House 87,2026-11-03,81,2026-11-04T07:09:42.111Z,False,3,1,18903,2026-11-18T16:33+00:00
+141671,SC,Spartanburg Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141976,SC,Horry Board of Education Chair,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141495,SC,South Carolina State House 31,2026-11-03,86,2026-11-04T07:09:42.110Z,False,3,1,8554,2026-11-18T16:33+00:00
+141608,SC,Charleston Probate Judge,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142112,SC,York Watershed Conservation District Fishing Creek,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177064,SC,Florence City Council District 13 - Lake City,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141744,SC,Chester County Council District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141857,SC,Lexington County Council District 9,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177001,SC,Abbeville City Council District 2 (Unexpired Term) - City of Abbeville,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141482,SC,South Carolina State House 18,2026-11-03,83,2026-11-04T07:09:42.110Z,False,3,1,17581,2026-11-18T16:33+00:00
+141787,SC,Marlboro County Council District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141794,SC,Anderson County Council District 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141498,SC,South Carolina State House 34,2026-11-03,87,2026-11-12T01:54:12.338Z,False,3,1,17707,2026-11-18T16:33+00:00
+177058,SC,Florence City Council At Large - Florence,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141923,SC,Mccormick School Board At Large,2026-11-03,0,,False,8,1,0,2026-11-18T16:33+00:00
+142036,SC,Lancaster School Board District 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141747,SC,Darlington County Council District 2,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141668,SC,Orangeburg Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141973,SC,York Rock Hill School District Trustee At-Large,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177124,SC,Sumter City Council District 3 - Sumter,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141605,SC,Barnwell Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142109,SC,Lancaster Watershed Conservation District Cane Creek,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141478,SC,South Carolina State House 14,2026-11-03,89,2026-11-04T07:09:42.110Z,False,4,1,14456,2026-11-18T16:33+00:00
+141790,SC,Union County Council District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177133,SC,Union City Council Union City Council Dist 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177054,SC,Florence School Board District 3 Seat 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141919,SC,Horry Board of Education District 10,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142039,SC,Sumter School Board District 5,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+142152,SC,Spartanburg Commissioner of Public Works Woodruff Roebuck Water District Area D,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141664,SC,Lee Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141969,SC,York Clover School District Trustee At-Large,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+177127,SC,Sumter Town Council - Pinewood,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141601,SC,Kershaw Sheriff,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142105,SC,Anderson Watershed Conservation District Broadmouth Creek,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142026,SC,Sumter School Board District 4,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141737,SC,Allendale County Council District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141850,SC,Darlington County Council District 8,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141963,SC,School Trustee District 2 At Large,2026-11-03,0,,False,3,2,0,2026-11-18T16:33+00:00
+141475,SC,South Carolina State House 11,2026-11-03,66,2026-11-04T07:09:42.110Z,False,4,3,13817,2026-11-18T16:33+00:00
+141780,SC,Chesterfield County Council District 4,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177130,SC,Union Education Capital Improvement and Use Tax Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177051,SC,Florence School Board District 3 Seat 1,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141916,SC,Horry Board of Education District 3,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141837,SC,Horry County Council District 7,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141548,SC,South Carolina State House 84,2026-11-03,89,2026-11-04T07:09:42.111Z,False,3,1,15440,2026-11-18T16:33+00:00
+141661,SC,Jasper Auditor,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141966,SC,Richland School District At Large District 1,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+142022,SC,Chester School Board District 4,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141541,SC,South Carolina State House 77,2026-11-03,81,2026-11-04T07:09:42.111Z,False,2,1,17334,2026-11-18T16:33+00:00
+141846,SC,Beaufort County Council District 8,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141959,SC,Anderson School Trustee District 5 Area 6,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141471,SC,South Carolina State House 7,2026-11-03,51,2026-11-12T01:54:12.338Z,False,3,3,12827,2026-11-18T16:33+00:00
+141783,SC,Kershaw County Council District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142095,SC,Laurens School Board District 56 Seat 7,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177047,SC,Dillon Capital Projects Sales Tax Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141912,SC,Williamsburg Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141840,SC,Marion County Council District 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141544,SC,South Carolina State House 80,2026-11-03,83,2026-11-04T07:09:42.111Z,False,3,1,19657,2026-11-18T16:33+00:00
+141657,SC,Edgefield Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141770,SC,Marion County Council District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177120,SC,Spartanburg Whitney Area Fire District Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141594,SC,South Carolina Solicitor Circuit 15,2026-11-03,0,,False,2,2,0,2026-11-18T16:33+00:00
+142098,SC,Anderson Board of Education District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142019,SC,Allendale School Board District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141723,SC,Georgetown County Council District 1,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141730,SC,Pickens County Council District 1,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141843,SC,Orangeburg County Council District 7,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141956,SC,Anderson School Trustee District 4 Area 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141468,SC,South Carolina State House 4,2026-11-03,89,2026-11-04T07:09:42.110Z,False,3,1,15196,2026-11-18T16:33+00:00
+141581,SC,South Carolina State House 117,2026-11-03,88,2026-11-12T01:54:12.338Z,False,3,1,19422,2026-11-18T16:33+00:00
+142092,SC,Laurens School Board District 55 Seat 6,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177044,SC,Chesterfield Town Council McBee,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141909,SC,Spartanburg Soil and Water District Commission,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+142085,SC,Dorchester School Board District 26,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141590,SC,South Carolina Solicitor Circuit 5,2026-11-03,0,,False,2,2,0,2026-11-18T16:33+00:00
+141902,SC,Mccormick Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142015,SC,Lancaster School Board District 3,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141726,SC,Laurens County Council District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141647,SC,Union Coroner,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141952,SC,Anderson School Trustee District 3 Area 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177103,SC,Newberry Town Council - Whitmire,2026-11-03,0,,False,11,1,0,2026-11-18T16:33+00:00
+141584,SC,South Carolina State House 120,2026-11-03,66,2026-11-04T07:09:42.112Z,False,3,2,23245,2026-11-18T16:33+00:00
+142088,SC,Dorchester School Board District 44,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177040,SC,Cherokee Grassy Pond Fire District Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141905,SC,Orangeburg Soil and Water District Commission,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141833,SC,Dillon County Council District 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141537,SC,South Carolina State House 73,2026-11-03,85,2026-11-04T07:09:42.111Z,False,3,1,12818,2026-11-18T16:33+00:00
+141650,SC,Bamberg Auditor,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141763,SC,Chesterfield County Council District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177106,SC,Oconee City of Walhalla Tax Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177113,SC,Pickens Town Council - Central,2026-11-03,0,,False,5,1,0,2026-11-18T16:33+00:00
+141587,SC,South Carolina State House 123,2026-11-03,58.5,2026-11-04T07:09:42.112Z,False,3,2,21885,2026-11-18T16:33+00:00
+141899,SC,Lexington Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142012,SC,Darlington School Board District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141716,SC,Anderson County Council District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141644,SC,Edgefield Coroner,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142148,SC,Aiken Commissioner of Public Works Bath Water & Sewer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177100,SC,Newberry Mayor Pomaria,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+141766,SC,Edgefield County Council District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142141,SC,Charleston St Andrews Public Service District At Large,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177093,SC,Marion Mayor - Nichols,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141759,SC,Allendale County Council District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177109,SC,Oconee City Council - Walhalla,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177030,SC,Calhoun Soil and Water District Commission,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+141895,SC,Jasper Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142008,SC,Bamberg School Board District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141719,SC,Clarendon County Council District 1,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141640,SC,Cherokee Clerk of Court,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142144,SC,Beaufort Public Service District Hilton Head District 1,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177096,SC,Marlboro Town Council - Blenheim,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141577,SC,South Carolina State House 113,2026-11-03,88,2026-11-04T07:09:42.112Z,False,2,1,9060,2026-11-18T16:33+00:00
+142081,SC,Dorchester School Board District 22,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177033,SC,Charleston Sales and Use Tax Referendum-Question 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141706,SC,Colleton County Council at Large,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141819,SC,Georgetown County Council District 6,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141826,SC,Spartanburg County Council District 6,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141530,SC,South Carolina State House 66,2026-11-03,82,2026-11-12T01:54:12.338Z,False,3,1,17665,2026-11-18T16:33+00:00
+177090,SC,Town of Irmo Form of Government Referendum,2026-11-03,0,,False,2,2,0,2026-11-18T16:33+00:00
+141756,SC,Spartanburg County Council District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142068,SC,Union School Board District 8,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177027,SC,City Council - City of Hardeeville,2026-11-03,0,,False,4,2,0,2026-11-18T16:33+00:00
+141892,SC,Greenwood Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142005,SC,Williamsburg School Board District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141517,SC,South Carolina State House 53,2026-11-03,64,2026-11-04T07:09:42.111Z,False,3,3,13340,2026-11-18T16:33+00:00
+141637,SC,York Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141998,SC,Clarendon School Board District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141702,SC,Kershaw County Council Chair,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141822,SC,Lee County Council District 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141526,SC,South Carolina State House 62,2026-11-03,68.5,2026-11-04T07:09:42.111Z,False,2,2,10080,2026-11-18T16:33+00:00
+177086,SC,Kershaw Town Council - Bethune,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141752,SC,Lancaster County Council District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142071,SC,Union School Board District 9,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177023,SC,Beaufort City Council Ward 2 - Hilton Head,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141888,SC,Fairfield Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142001,SC,Georgetown School Board District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141520,SC,South Carolina State House 56,2026-11-03,83,2026-11-04T07:09:42.111Z,False,3,1,22012,2026-11-18T16:33+00:00
+141633,SC,Richland Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142137,SC,Spartanburg Fire District Commissioner Mayo Fire District,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+142058,SC,Hampton School Board School Board Trustee District 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141563,SC,South Carolina State House 99,2026-11-03,85,2026-11-04T07:09:42.111Z,False,3,1,17297,2026-11-18T16:33+00:00
+141570,SC,South Carolina State House 106,2026-11-03,85,2026-11-04T07:09:42.112Z,False,3,1,22478,2026-11-18T16:33+00:00
+142074,SC,Richland School Board District 13,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141995,SC,Berkeley School Board District 2,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141699,SC,Union County Supervisor,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141812,SC,Bamberg County Council District 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141523,SC,South Carolina State House 59,2026-11-03,81,2026-11-04T07:09:42.111Z,False,2,2,9636,2026-11-18T16:33+00:00
+177083,SC,Greenwood City Council - Town of Troy,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141948,SC,York School District Trustee Seat 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141869,SC,Berkeley Register of Deeds,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177020,SC,Beaufort Special Sales and Use Tax Referendum Question 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141885,SC,Dillon Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142054,SC,Beaufort School Board District 7,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141566,SC,South Carolina State House 102,2026-11-03,77.5,2026-11-12T01:54:12.338Z,False,3,2,17325,2026-11-18T16:33+00:00
+141878,SC,Charleston Soil and Water District Commission,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141991,SC,Union School Board District 1,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141695,SC,Spartanburg County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141815,SC,Berkeley County Council District 6,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142127,SC,Colleton Watershed Conservation District Willow Swamp,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177079,SC,Greenwood Commissioner of Public Works - City of Greenwood,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141944,SC,Pickens School Trustee District 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141872,SC,Aiken Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177016,SC,Anderson Green Pond Station A Zoning Referendum Green Pond Statio,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141881,SC,Chesterfield Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141802,SC,Edgefield County Council District 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141513,SC,South Carolina State House 49,2026-11-03,88,2026-11-04T07:09:42.110Z,False,2,1,11185,2026-11-18T16:33+00:00
+141626,SC,Lexington Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142130,SC,Union Fire District Commissioner Santuc FD,2026-11-03,0,,False,5,1,0,2026-11-18T16:33+00:00
+142051,SC,Williamsburg School Board District 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141556,SC,South Carolina State House 92,2026-11-03,84,2026-11-12T01:54:12.338Z,False,3,1,14465,2026-11-18T16:33+00:00
+141875,SC,Barnwell Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141988,SC,Hampton School Board School Board Trustee District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141692,SC,Orangeburg County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141613,SC,Darlington Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142124,SC,Watershed Conservation District Three and Twenty,2026-11-03,0,,False,3,2,0,2026-11-18T16:33+00:00
+177076,SC,Greenwood City Council District 2 - City of Greenwood,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141941,SC,Pickens School Trustee District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142117,SC,Pickens Watershed Conservation District Oolenoy River,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141622,SC,Jasper Probate Judge,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141934,SC,Lexington School Trustee District 2,2026-11-03,0,,False,5,1,0,2026-11-18T16:33+00:00
+142047,SC,Edgefield School Board District 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141559,SC,South Carolina State House 95,2026-11-03,78,2026-11-04T07:09:42.111Z,False,2,2,11404,2026-11-18T16:33+00:00
+141679,SC,Cherokee County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141984,SC,Darlington School Board District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141496,SC,South Carolina State House 32,2026-11-03,88,2026-11-04T07:09:42.110Z,False,3,1,13971,2026-11-18T16:33+00:00
+141616,SC,Fairfield Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142120,SC,Florence Watershed Conservation District Salem Community,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177072,SC,Greenville Simpsonville City Tax Relief Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141937,SC,School Trustee District 3,2026-11-03,0,,False,4,2,0,2026-11-18T16:33+00:00
+141865,SC,Greenville County Council District 23,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177009,SC,Aiken Belvedere Fire District Commissioner,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+141682,SC,Dillon County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141795,SC,Beaufort County Council District 5,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141499,SC,South Carolina State House 35,2026-11-03,74.5,2026-11-04T07:09:42.110Z,False,3,2,20018,2026-11-18T16:33+00:00
+141506,SC,South Carolina State House 42,2026-11-03,79,2026-11-04T07:09:42.110Z,False,3,2,12963,2026-11-18T16:33+00:00
+141619,SC,Greenwood Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141931,SC,Lexington School Trustee District 1,2026-11-03,0,,False,9,1,0,2026-11-18T16:33+00:00
+142044,SC,Chester School Board District 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141748,SC,Dorchester County Council District 2,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141676,SC,Bamberg County Treasurer,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141981,SC,Saluda School Board 1 Seat 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141493,SC,South Carolina State House 29,2026-11-03,68.3,2026-11-04T07:09:42.110Z,False,3,3,13675,2026-11-18T16:33+00:00
+141798,SC,Charleston County Council District 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177005,SC,Abbeville Town Council - Town of Calhoun Falls,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141486,SC,South Carolina State House 22,2026-11-03,86,2026-11-12T01:54:12.338Z,False,3,1,18759,2026-11-18T16:33+00:00
+141791,SC,York County Council District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141502,SC,South Carolina State House 38,2026-11-03,86,2026-11-04T07:09:42.110Z,False,3,1,16539,2026-11-18T16:33+00:00
+177062,SC,Florence Mayor - Lake City,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141927,SC,Anderson School Trustee District 1 Area 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142040,SC,Union School Board District 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141552,SC,South Carolina State House 88,2026-11-03,85,2026-11-04T07:09:42.111Z,False,3,1,13892,2026-11-18T16:33+00:00
+141672,SC,Union Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141977,SC,Lee School Board District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141489,SC,South Carolina State House 25,2026-11-03,86,2026-11-04T07:09:42.110Z,False,2,1,11104,2026-11-18T16:33+00:00
+141609,SC,Cherokee Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142113,SC,Horry Watershed Conservation District Gapway Swamp,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177065,SC,Florence City Council District 16 - Lake City,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141738,SC,Anderson County Council District 2,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141851,SC,Florence County Council District 8,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141858,SC,Beaufort County Council District 10,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177002,SC,Abbeville City Council District 3 - City of Abbeville,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141483,SC,South Carolina State House 19,2026-11-03,82,2026-11-12T01:54:12.338Z,False,3,1,13145,2026-11-18T16:33+00:00
+141788,SC,Richland County Council District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177131,SC,Union City Council Union City Dist 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177059,SC,Florence City Council District 1 - Florence,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141924,SC,Orangeburg School Board At Large District 9,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+142037,SC,Newberry School Board District 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141549,SC,South Carolina State House 85,2026-11-03,83,2026-11-04T07:09:42.111Z,False,3,1,20062,2026-11-18T16:33+00:00
+141669,SC,Richland Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142030,SC,Beaufort School Board District 5,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141734,SC,Williamsburg County Council District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141854,SC,Marlboro County Council District 8,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141967,SC,York School District Trustee At-Large,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141479,SC,South Carolina State House 15,2026-11-03,71.5,2026-11-04T07:09:42.110Z,False,4,2,9664,2026-11-18T16:33+00:00
+141784,SC,Lancaster County Council District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177134,SC,Union Town Council - Carlisle,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177055,SC,Florence School Board District 3 Seat 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141920,SC,Bamberg School Board District 9 At Large,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142033,SC,Fairfield School Board District 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142153,SC,Spartanburg Commissioner of Public Works Woodruff Roebuck Water District Area B,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141665,SC,Marion Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141970,SC,York Clover School District Trustee Seat 2,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177121,SC,Spartanburg Roebuck Fire District Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141595,SC,Allendale Sheriff,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141602,SC,Abbeville Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142106,SC,Union Watershed Conservation District Browns Creek,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142027,SC,Union School Board District 4,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141731,SC,Richland County Council District 1,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141844,SC,Williamsburg County Council District 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141964,SC,Anderson School Trustee District 3 At-Large,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141476,SC,South Carolina State House 12,2026-11-03,83.5,2026-11-12T01:54:12.338Z,False,3,2,13763,2026-11-18T16:33+00:00
+141781,SC,Darlington County Council District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142093,SC,Laurens School Board District 56 Seat 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177052,SC,Florence School Board District 3 Seat 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141917,SC,Horry Board of Education District 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141774,SC,York County Council District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177117,SC,Saluda Town Council Ward 1 - Saluda,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141598,SC,Cherokee Sheriff,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142102,SC,Oconee Watershed Conservation District Beaverdam Creek,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142023,SC,Clarendon School Board District 4,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141727,SC,Marlboro County Council District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141847,SC,Berkeley County Council District 8,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141960,SC,Anderson School Trustee District 2 Area 1,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141472,SC,South Carolina State House 8,2026-11-03,86,2026-11-04T07:09:42.110Z,False,3,1,14946,2026-11-18T16:33+00:00
+141777,SC,Beaufort County Council District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142096,SC,Anderson Board of Education District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177048,SC,Dorchester Educational Capital Sales and Use Tax Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141913,SC,York Soil and Water District Commission,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141834,SC,Dorchester County Council District 7,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141545,SC,South Carolina State House 81,2026-11-03,90,2026-11-04T07:09:42.111Z,False,3,1,20144,2026-11-18T16:33+00:00
+141658,SC,Fairfield Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141771,SC,Newberry County Council District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177114,SC,Richland School Board District 1 Seat 2,2026-11-03,0,,False,5,1,0,2026-11-18T16:33+00:00
+141588,SC,South Carolina State House 124,2026-11-03,91,2026-11-04T07:09:42.112Z,False,3,1,17238,2026-11-18T16:33+00:00
+142099,SC,Board of Education District 5,2026-11-03,0,,False,2,2,0,2026-11-18T16:33+00:00
+142020,SC,Beaufort School Board District 4,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141724,SC,Greenwood County Council District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141645,SC,Hampton Coroner,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141957,SC,Anderson School Trustee District 5 Area 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141469,SC,South Carolina State House 5,2026-11-03,64,2026-11-04T07:09:42.110Z,False,3,2,15475,2026-11-18T16:33+00:00
+141830,SC,Anderson County Council District 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142149,SC,Aiken Commissioner of Public Works College Acres Water & Sewer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141654,SC,Clarendon Auditor,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141767,SC,Florence County Council District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177110,SC,Orangeburg Sales and Use Tax Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141591,SC,South Carolina Solicitor Circuit 6,2026-11-03,0,,False,2,3,0,2026-11-18T16:33+00:00
+141903,SC,Newberry Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142016,SC,Orangeburg School Board District 3,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141720,SC,Dorchester County Council District 1,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141648,SC,Abbeville Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141953,SC,York Rock Hill School District Trustee Seat 4,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141465,SC,South Carolina State House 1,2026-11-03,69.5,2026-11-04T07:09:42.110Z,False,3,2,18251,2026-11-18T16:33+00:00
+141578,SC,South Carolina State House 114,2026-11-03,76,2026-11-12T01:54:12.338Z,False,3,2,21134,2026-11-18T16:33+00:00
+142089,SC,Dorchester School Board District 45,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177041,SC,Chester Capital Project Sales & Use Tax Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141906,SC,Pickens Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141827,SC,Sumter County Council District 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141531,SC,South Carolina State House 67,2026-11-03,86,2026-11-12T01:54:12.338Z,False,3,1,15370,2026-11-18T16:33+00:00
+141538,SC,South Carolina State House 74,2026-11-03,89,2026-11-04T07:09:42.111Z,False,3,1,12871,2026-11-18T16:33+00:00
+141651,SC,Barnwell Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141764,SC,Clarendon County Council District 3,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177107,SC,Oconee City of Westminster Tax Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177028,SC,Berkeley Mayor - Hanahan,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141900,SC,Marion Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142013,SC,Fairfield School Board District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141717,SC,Charleston County Council District 1,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141893,SC,Hampton Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177037,SC,Spartanburg County School District 2 Referendum-Question 1,2026-11-03,0,,False,2,2,0,2026-11-18T16:33+00:00
+141710,SC,Fairfield County Council District 1,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141823,SC,Newberry County Council District 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141534,SC,South Carolina State House 70,2026-11-03,82,2026-11-04T07:09:42.111Z,False,2,2,12921,2026-11-18T16:33+00:00
+177094,SC,Marion Town Council - Nichols,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141760,SC,Anderson County Council District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142072,SC,Beaufort School Board District 10,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+177031,SC,Calhoun Capital Sale Tax Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141896,SC,Kershaw Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142009,SC,Beaufort School Board District 3,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141713,SC,Fairfield County Council District 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141641,SC,Allendale Coroner,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142145,SC,Beaufort Public Service District Hilton Head District 5,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177097,SC,Marlboro Mayor - Clio,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141571,SC,South Carolina State House 107,2026-11-03,85,2026-11-04T07:09:42.112Z,False,3,1,17891,2026-11-18T16:33+00:00
+142075,SC,Florence School Board District 1 Seat 4,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142082,SC,School Board 22 Greenville County,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177034,SC,Charleston Educational Capital Improvements Tax Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141707,SC,Hampton County Council at Large,2026-11-03,0,,False,7,1,0,2026-11-18T16:33+00:00
+141820,SC,Kershaw County Council District 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141524,SC,South Carolina State House 60,2026-11-03,89,2026-11-12T01:54:12.338Z,False,3,1,15216,2026-11-18T16:33+00:00
+177091,SC,Marion County Capital Project Sales and Use Tax Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141757,SC,Sumter County Council District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142069,SC,Abbeville School Board District 9,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141574,SC,South Carolina State House 110,2026-11-03,89,2026-11-12T01:54:12.338Z,False,3,1,19037,2026-11-18T16:33+00:00
+141949,SC,York School District Trustee Seat 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142062,SC,Beaufort School Board District 8,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141567,SC,South Carolina State House 103,2026-11-03,73.3,2026-11-04T07:09:42.111Z,False,2,3,10227,2026-11-18T16:33+00:00
+142078,SC,School Board 18 Greenville County,2026-11-03,0,,False,3,2,0,2026-11-18T16:33+00:00
+141999,SC,Colleton School Board District 2,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141703,SC,Saluda County Council Chair,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141816,SC,Darlington County Council District 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141527,SC,South Carolina State House 63,2026-11-03,85,2026-11-04T07:09:42.111Z,False,3,1,15637,2026-11-18T16:33+00:00
+177087,SC,Kershaw City Council - Camden,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141753,SC,Lexington County Council District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142065,SC,Greenwood School Board District 8,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+177024,SC,Beaufort City Council Ward 4 - Hilton Head,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141889,SC,Florence Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142002,SC,Greenwood School Board District 2,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+141514,SC,South Carolina State House 50,2026-11-03,77.7,2026-11-04T07:09:42.111Z,False,3,3,15342,2026-11-18T16:33+00:00
+141627,SC,Marlboro Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141634,SC,Spartanburg Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142138,SC,Fire District Commissioner Piedmont Public Service Area,2026-11-03,0,,False,5,2,0,2026-11-18T16:33+00:00
+142059,SC,Lancaster School Board District 7,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141564,SC,South Carolina State House 100,2026-11-03,87,2026-11-12T01:54:12.338Z,False,3,1,15970,2026-11-18T16:33+00:00
+141876,SC,Beaufort Soil and Water District Commission,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141996,SC,Calhoun School Board District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141700,SC,Williamsburg County Supervisor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141813,SC,Barnwell County Council District 6,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142125,SC,Watershed Conservation District Tinker's Creek,2026-11-03,0,,False,3,2,0,2026-11-18T16:33+00:00
+177084,SC,Hampton School District Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141806,SC,Marion County Council District 5,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141510,SC,South Carolina State House 46,2026-11-03,88,2026-11-12T01:54:12.338Z,False,3,1,16974,2026-11-18T16:33+00:00
+141630,SC,Oconee Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142134,SC,Greenville Fire District Commissioner Dunklin Fire District,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142055,SC,Darlington School Board District 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141560,SC,South Carolina State House 96,2026-11-03,83,2026-11-04T07:09:42.111Z,False,3,1,12744,2026-11-18T16:33+00:00
+141879,SC,Cherokee Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141992,SC,Aiken School Board District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141696,SC,Union County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141809,SC,Spartanburg County Council District 5,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142128,SC,Kershaw Fire District Commissioner Lugoff Fire District Commissioners,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177080,SC,Greenwood Mayor - Town of Hodges,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141945,SC,Charleston School Board of Trustees District 7,2026-11-03,0,,False,5,1,0,2026-11-18T16:33+00:00
+141866,SC,Greenville County Council District 26,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177010,SC,Aiken Commissioner of Public Works - Clearwater Water & Sewer,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+177017,SC,City Council - Clemson,2026-11-03,0,,False,6,2,0,2026-11-18T16:33+00:00
+141882,SC,Clarendon Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141803,SC,Horry County Council District 5,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141507,SC,South Carolina State House 43,2026-11-03,83,2026-11-04T07:09:42.110Z,False,3,2,15253,2026-11-18T16:33+00:00
+141620,SC,Hampton Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142131,SC,Fire District Commissioner South Lynches Fire District,2026-11-03,0,,False,3,2,0,2026-11-18T16:33+00:00
+142052,SC,Abbeville School Board District 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141557,SC,South Carolina State House 93,2026-11-03,74,2026-11-04T07:09:42.111Z,False,3,3,16531,2026-11-18T16:33+00:00
+141677,SC,Barnwell County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141989,SC,Lancaster School Board District 1,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141693,SC,Richland County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141862,SC,Greenville County Council District 17,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177013,SC,Allendale School Board District 2,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+141686,SC,Jasper County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141799,SC,Cherokee County Council District 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141503,SC,South Carolina State House 39,2026-11-03,78,2026-11-04T07:09:42.110Z,False,3,2,15897,2026-11-18T16:33+00:00
+141623,SC,Kershaw Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141935,SC,Pickens School Trustee District 2,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142048,SC,Greenwood School Board District 6,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+141553,SC,South Carolina State House 89,2026-11-03,86,2026-11-12T01:54:12.338Z,False,3,1,14430,2026-11-18T16:33+00:00
+141680,SC,Clarendon County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141985,SC,Edgefield School Board District 1,2026-11-03,0,,False,5,1,0,2026-11-18T16:33+00:00
+141689,SC,Lee County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141610,SC,Chester Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142121,SC,Horry Watershed Conservation District Simpson Creek,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177073,SC,Greenville Travelers Rest Tax Relief Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141938,SC,Oconee School Trustee District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141859,SC,Beaufort County Council District 11,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177003,SC,Abbeville City Council District 4 - City of Abbeville,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141683,SC,Edgefield County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141796,SC,Berkeley County Council District 5,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141500,SC,South Carolina State House 36,2026-11-03,80,2026-11-04T07:09:42.110Z,False,3,1,14343,2026-11-18T16:33+00:00
+177060,SC,Florence City Council District 2 - Florence,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141932,SC,Oconee School Trustee District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142045,SC,Clarendon School Board District 6,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141749,SC,Edgefield County Council District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141925,SC,Williamsburg School Board At Large,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177069,SC,Greenville Sales and Use Tax Referendum - Question 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141742,SC,Charleston County Council District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141855,SC,Beaufort County Council District 9,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177006,SC,Town Council - Town of Ware Shoals,2026-11-03,0,,False,11,2,0,2026-11-18T16:33+00:00
+141487,SC,South Carolina State House 23,2026-11-03,88,2026-11-04T07:09:42.110Z,False,2,1,9422,2026-11-18T16:33+00:00
+141792,SC,Aiken County Council District 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177135,SC,South Carolina State Senate 15 (Unexpired Term),2026-11-03,93,2026-11-12T01:54:12.338Z,False,3,1,49404,2026-11-18T16:33+00:00
+177063,SC,Florence City Council District 11 - Lake City,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141928,SC,Anderson School Trustee District 1 Area 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142041,SC,Williamsburg School Board District 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141745,SC,Chesterfield County Council District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141673,SC,Williamsburg Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141978,SC,Lee School Board District 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141490,SC,South Carolina State House 26,2026-11-03,79,2026-11-04T07:09:42.110Z,False,4,1,18381,2026-11-18T16:33+00:00
+141603,SC,Allendale Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142107,SC,Watershed Conservation District Brushy Creek,2026-11-03,0,,False,4,2,0,2026-11-18T16:33+00:00
+142114,SC,Lexington Watershed Conservation District Hollow Creek,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177066,SC,Florence Town Council - Olanta,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+141739,SC,Bamberg County Council District 2,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141852,SC,Horry County Council District 8,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141965,SC,Anderson School Trustee District 5 At-Large,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141484,SC,South Carolina State House 20,2026-11-03,86,2026-11-04T07:09:42.110Z,False,3,1,16196,2026-11-18T16:33+00:00
+141789,SC,Sumter County Council District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177132,SC,Union City Council Union City Dist 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141606,SC,Beaufort Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141974,SC,York Fort Mill School District Trustees,2026-11-03,0,,False,8,1,0,2026-11-18T16:33+00:00
+177125,SC,Sumter City Council District 5 - Sumter,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141599,SC,Chesterfield Sheriff,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142110,SC,Horry Watershed Conservation District Crabtree Swamp,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142031,SC,Calhoun School Board District 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141735,SC,Abbeville County Council District 2,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141848,SC,Charleston County Council District 8,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141968,SC,Richland School District At Large District 2,2026-11-03,0,,False,11,1,0,2026-11-18T16:33+00:00
+141480,SC,South Carolina State House 16,2026-11-03,67,2026-11-04T07:09:42.110Z,False,3,2,18511,2026-11-18T16:33+00:00
+141785,SC,Laurens County Council District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177128,SC,Union Monarch Fire Disrict Commissioner,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+177056,SC,Florence School Board District 5 At Large,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141921,SC,Chester School Board At Large,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142034,SC,Greenwood District 5 (Unexpired Term),2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141546,SC,South Carolina State House 82,2026-11-03,74,2026-11-04T07:09:42.111Z,False,3,3,13803,2026-11-18T16:33+00:00
+141659,SC,Florence Auditor,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141666,SC,Marlboro Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141971,SC,York Clover School District Trustee Seat 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177122,SC,Spartanburg Boiling Springs Fire District Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141596,SC,Beaufort Sheriff,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142100,SC,Anderson Board of Education District 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142028,SC,Williamsburg School Board District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141732,SC,Saluda County Council District 1,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141845,SC,York County Council District 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142150,SC,Aiken Commissioner of Public Works Langley Water & Sewer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141477,SC,South Carolina State House 13,2026-11-03,58,2026-11-04T07:09:42.110Z,False,3,2,16810,2026-11-18T16:33+00:00
+141725,SC,Horry County Council District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141838,SC,Lee County Council District 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141542,SC,South Carolina State House 78,2026-11-03,84,2026-11-04T07:09:42.111Z,False,4,1,18112,2026-11-18T16:33+00:00
+141662,SC,Kershaw Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141775,SC,Anderson County Council District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177118,SC,Saluda Town Council Ward 3 - Saluda,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141592,SC,South Carolina Solicitor Circuit 12,2026-11-03,0,,False,3,2,0,2026-11-18T16:33+00:00
+142103,SC,Laurens Watershed Conservation District Beaverdam - Warrior Creek,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142024,SC,Colleton School Board District 4,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141728,SC,Oconee County Council District 1,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141841,SC,Marlboro County Council District 7,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141961,SC,Anderson School Trustee District 2 Area 3,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141473,SC,South Carolina State House 9,2026-11-03,86,2026-11-04T07:09:42.110Z,False,3,1,13737,2026-11-18T16:33+00:00
+141778,SC,Berkeley County Council District 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142090,SC,Laurens School Board District 55 Seat 2,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177042,SC,Chesterfield Hills Creek Watershed Conservation District,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+177049,SC,Fairfield Jackson Mill Creek Watershed Conservation District,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+141914,SC,Horry Board of Education District 1,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141835,SC,Florence County Council District 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141539,SC,South Carolina State House 75,2026-11-03,88,2026-11-12T01:54:12.338Z,False,4,1,16142,2026-11-18T16:33+00:00
+141652,SC,Beaufort Auditor,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141772,SC,Oconee County Council District 3,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177115,SC,Saluda Capital Project Sales Tax Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141589,SC,South Carolina Solicitor Circuit 3,2026-11-03,0,,False,2,4,0,2026-11-18T16:33+00:00
+141901,SC,Marlboro Soil and Water District Commission,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142021,SC,Berkeley School Board District 4,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141582,SC,South Carolina State House 118,2026-11-03,92,2026-11-04T07:09:42.112Z,False,3,1,20719,2026-11-18T16:33+00:00
+142086,SC,School Board 26 Greenville County,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177045,SC,Darlington Fire District Commissioner Palmetto FD,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+141910,SC,Sumter Soil and Water District Commission,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141831,SC,Berkeley County Council District 7,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141535,SC,South Carolina State House 71,2026-11-03,55.5,2026-11-04T07:09:42.111Z,False,3,2,20353,2026-11-18T16:33+00:00
+141655,SC,Colleton Auditor,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141768,SC,Greenwood County Council District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177111,SC,Orangeburg Town Council (Unexpired Term) - Town of Livingston,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141585,SC,South Carolina State House 121,2026-11-03,83,2026-11-04T07:09:42.112Z,False,3,2,13872,2026-11-18T16:33+00:00
+141904,SC,Oconee Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142017,SC,Sumter School Board District 3,2026-11-03,0,,False,5,1,0,2026-11-18T16:33+00:00
+141721,SC,Edgefield County Council District 1,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141642,SC,Berkeley Coroner,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141954,SC,Anderson School Trustee District 4 Area 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141466,SC,South Carolina State House 2,2026-11-03,85,2026-11-04T07:09:42.110Z,False,4,1,16656,2026-11-18T16:33+00:00
+141579,SC,South Carolina State House 115,2026-11-03,88,2026-11-04T07:09:42.112Z,False,3,1,22761,2026-11-18T16:33+00:00
+142083,SC,Dorchester School Board District 24,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177035,SC,Charleston General Obligation Bond Referendum-Town of Hollywood,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141907,SC,Richland Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141828,SC,Williamsburg County Council District 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141532,SC,South Carolina State House 68,2026-11-03,81,2026-11-04T07:09:42.111Z,False,3,1,18049,2026-11-18T16:33+00:00
+177092,SC,Marion Board of Education District 4,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141765,SC,Dorchester County Council District 3,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177108,SC,Oconee Town of West Union Tax Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141638,SC,Allendale Clerk of Court,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141950,SC,Anderson School Trustee District 3 Area 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177101,SC,Newberry Town Council - Pomaria,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141575,SC,South Carolina State House 111,2026-11-03,89,2026-11-04T07:09:42.112Z,False,2,1,11908,2026-11-18T16:33+00:00
+142079,SC,Florence School Board District 1 Seat 9,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177038,SC,Spartanburg County School District 2 Referendum-Question 2,2026-11-03,0,,False,2,2,0,2026-11-18T16:33+00:00
+141711,SC,Fairfield County Council District 3,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141824,SC,Orangeburg County Council District 6,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141528,SC,South Carolina State House 64,2026-11-03,78.5,2026-11-12T01:54:12.338Z,False,3,2,16679,2026-11-18T16:33+00:00
+177095,SC,Marlboro Mayor - Blenheim,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141761,SC,Bamberg County Council District 3,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177104,SC,Oconee Town of Salem Tax Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177025,SC,Beaufort City Council Ward 5 - Hilton Head,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141897,SC,Lancaster Soil and Water District Commission,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142010,SC,Chester School Board District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141714,SC,Abbeville County Council District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141635,SC,Sumter Probate Judge,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142139,SC,Charleston James Island Public Service District,2026-11-03,0,,False,6,1,0,2026-11-18T16:33+00:00
+142146,SC,Beaufort Public Service District Hilton Head District 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177098,SC,Marlboro Town Council - Tatum,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141572,SC,South Carolina State House 108,2026-11-03,63,2026-11-04T07:09:42.112Z,False,3,2,22621,2026-11-18T16:33+00:00
+142076,SC,Florence School Board District 1 Seat 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141997,SC,Chesterfield School Board District 2,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141708,SC,Jasper County Council Robertville Township,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141821,SC,Lancaster County Council District 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141525,SC,South Carolina State House 61,2026-11-03,82,2026-11-04T07:09:42.111Z,False,4,1,14121,2026-11-18T16:33+00:00
+141701,SC,Horry County Council Chair,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142006,SC,Abbeville School Board District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141518,SC,South Carolina State House 54,2026-11-03,61.8,2026-11-04T07:09:42.111Z,False,2,4,9268,2026-11-18T16:33+00:00
+141631,SC,Orangeburg Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142142,SC,Charleston St Andrews Public Service District Section 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142063,SC,Berkeley School Board District 8,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141568,SC,South Carolina State House 104,2026-11-03,84,2026-11-04T07:09:42.111Z,False,3,1,26810,2026-11-18T16:33+00:00
+141880,SC,Chester Soil and Water District Commission,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142000,SC,Edgefield School Board District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141704,SC,Spartanburg County Council Chair,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141817,SC,Dillon County Council District 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141521,SC,South Carolina State House 57,2026-11-03,77.3,2026-11-12T01:54:12.338Z,False,3,3,15735,2026-11-18T16:33+00:00
+177088,SC,Lee School Board District 6,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+141754,SC,Mccormick County Council District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142066,SC,Kershaw School Board District 8,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177018,SC,Bamberg Soil and Water District Commission,2026-11-03,0,,False,1,1,0,2026-11-18T16:33+00:00
+141883,SC,Colleton Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141890,SC,Georgetown Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142003,SC,Kershaw School Board District 2,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141515,SC,South Carolina State House 51,2026-11-03,90,2026-11-04T07:09:42.111Z,False,2,1,10272,2026-11-18T16:33+00:00
+141628,SC,Mccormick Probate Judge,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142132,SC,Oconee Fire District Commissioner Keowee Fire Protection,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+142060,SC,Newberry School Board District 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141565,SC,South Carolina State House 101,2026-11-03,73.3,2026-11-12T01:54:12.338Z,False,3,3,14403,2026-11-18T16:33+00:00
+141877,SC,Berkeley Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177021,SC,Beaufort Special Sales and Use Tax Referendum Question 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141750,SC,Greenwood County Council District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141870,SC,Charleston Register of Deeds,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177014,SC,Allendale City Council - Allendale,2026-11-03,0,,False,9,1,0,2026-11-18T16:33+00:00
+141886,SC,Dorchester Soil and Water District Commission,2026-11-03,0,,False,4,1,0,2026-11-18T16:33+00:00
+141807,SC,Mccormick County Council District 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141511,SC,South Carolina State House 47,2026-11-03,88,2026-11-04T07:09:42.110Z,False,3,1,17449,2026-11-18T16:33+00:00
+141624,SC,Lancaster Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142135,SC,Spartanburg Fire District Commissioner Hilltop Fire,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+142056,SC,Fairfield School Board District 7,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141561,SC,South Carolina State House 97,2026-11-03,83,2026-11-04T07:09:42.111Z,False,3,2,16370,2026-11-18T16:33+00:00
+141873,SC,Allendale Soil and Water District Commission,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141993,SC,Bamberg School Board District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141697,SC,Williamsburg County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141810,SC,Aiken County Council District 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142122,SC,Greenville Watershed Conservation District South Tyger River,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177074,SC,Greenwood School District No.50 Bond Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+177081,SC,Greenwood City Council - Town of Hodges,2026-11-03,0,,False,5,1,0,2026-11-18T16:33+00:00
+141946,SC,Pickens School Trustee District 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141867,SC,Greenville County Council District 28,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+177011,SC,Aiken Wastewater Treatment Facilities Referendum,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141684,SC,Fairfield County Treasurer,2026-11-03,0,,False,3,1,0,2026-11-18T16:33+00:00
+141804,SC,Kershaw County Council District 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141508,SC,South Carolina State House 44,2026-11-03,79,2026-11-04T07:09:42.110Z,False,3,1,22995,2026-11-18T16:33+00:00
+141621,SC,Horry Probate Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+141933,SC,Barnwell School Trustee District 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+142053,SC,Aiken School Board District 7,2026-11-03,0,,False,2,1,0,2026-11-18T16:33+00:00
+87404,SC,South Carolina US House 3,2026-11-03,96.2,2026-11-04T01:47:49.805Z,False,4,11,273192,2026-11-18T16:33+00:00
+87402,SC,South Carolina US House 1,2026-11-03,99,2026-11-06T23:53:53.120Z,False,4,6,326423,2026-11-18T16:33+00:00
+87406,SC,South Carolina US House 5,2026-11-03,99,2026-11-04T03:11:28.760Z,False,3,10,287000,2026-11-18T16:33+00:00
+87408,SC,South Carolina US House 7,2026-11-03,99,2026-11-04T02:21:59.542Z,False,3,8,304088,2026-11-18T16:33+00:00
+87403,SC,South Carolina US House 2,2026-11-03,99,2026-11-10T00:31:45.410Z,False,4,5,296664,2026-11-18T16:33+00:00
+87405,SC,South Carolina US House 4,2026-11-03,99,2026-11-04T03:11:28.760Z,False,4,2,284193,2026-11-18T16:33+00:00
+87407,SC,South Carolina US House 6,2026-11-03,99,2026-11-04T01:47:49.805Z,False,3,14,261334,2026-11-18T16:33+00:00
+87409,SC,South Carolina US Senate,2026-11-03,99,2026-11-04T03:00:15.730Z,False,5,46,2041665,2026-11-18T16:33+00:00

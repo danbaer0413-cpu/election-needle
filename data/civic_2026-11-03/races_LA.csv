@@ -1,0 +1,936 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+143185,LA,Louisiana Amendment 9,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,64,1416416,2026-11-18T14:36+00:00
+143183,LA,Louisiana Amendment 7,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,64,1417317,2026-11-18T14:36+00:00
+87185,LA,Louisiana Amendment 5,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,64,1401852,2026-11-18T14:36+00:00
+143182,LA,Louisiana Amendment 6,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,64,1417392,2026-11-18T14:36+00:00
+87184,LA,Louisiana Amendment 1,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,64,1443219,2026-11-18T14:36+00:00
+143186,LA,Louisiana Amendment 10,2026-11-03,99.9,2026-11-17T03:50:43.245Z,False,2,64,1408961,2026-11-18T14:36+00:00
+143180,LA,Louisiana Amendment 3,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,64,1434613,2026-11-18T14:36+00:00
+143181,LA,Louisiana Amendment 4,2026-11-03,99.9,,False,2,64,1433302,2026-11-18T14:36+00:00
+143179,LA,Louisiana Amendment 2,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,64,1421468,2026-11-18T14:36+00:00
+143184,LA,Louisiana Amendment 8,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,64,1412662,2026-11-18T14:36+00:00
+143403,LA,"Louisiana Member of School Board - District 4, City of Baker",2026-11-03,99.9,,False,2,1,682,2026-11-18T14:36+00:00
+143260,LA,Louisiana Waterworks District No. Two - 19.17 Mills - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,761,2026-11-18T14:36+00:00
+143725,LA,Louisiana Aldermen - Town of Glenmora,2026-11-03,99.9,,False,11,1,2269,2026-11-18T14:36+00:00
+143305,LA,"Louisiana Alderman - Ward 3, Town of Vivian",2026-11-03,99.9,,False,2,1,220,2026-11-18T14:36+00:00
+143763,LA,Louisiana Justice of the Peace - Justice of the Peace District 4 - St. Charles Parish,2026-11-03,99.9,,False,2,1,2091,2026-11-18T14:36+00:00
+143620,LA,Louisiana Member of School Board - District 5 - Madison Parish,2026-11-03,99.9,,False,3,1,413,2026-11-18T14:36+00:00
+143477,LA,Louisiana Road District No. 5 - 10 Mills Renewal - PJ - 10 Yrs.,2026-11-03,99.9,,False,2,1,1118,2026-11-18T14:36+00:00
+143551,LA,Louisiana Parishwide Proposition - 1/2% S&U Tax Ext. & Reded. - PJ - 10 Yrs.,2026-11-03,99.9,,False,2,1,10068,2026-11-18T14:36+00:00
+143330,LA,Louisiana Chief of Police - Village of Grayson,2026-11-03,99.9,,False,2,1,178,2026-11-18T14:36+00:00
+143788,LA,Louisiana Aldermen at Large - Town of Gramercy,2026-11-03,99.9,,False,4,1,1893,2026-11-18T14:36+00:00
+143645,LA,Louisiana Chief of Police - Village of Ashland,2026-11-03,99.9,,False,2,1,81,2026-11-18T14:36+00:00
+143310,LA,"Louisiana City Judge - City Court, Division B, City of Lake Charles",2026-11-03,99.9,,False,2,1,27244,2026-11-18T14:36+00:00
+143768,LA,Louisiana Member of School Board - District 1 - St. Helena Parish,2026-11-03,99.9,,False,2,1,637,2026-11-18T14:36+00:00
+143205,LA,Louisiana Aldermen - Town of Iota,2026-11-03,99.9,,False,6,1,1485,2026-11-18T14:36+00:00
+143862,LA,"Louisiana City Marshal - City Court, East St. Tammany",2026-11-03,99.9,,False,2,1,29506,2026-11-18T14:36+00:00
+143527,LA,Louisiana Member of School Board - District 5 - Jefferson Parish,2026-11-03,99.9,,False,3,1,12174,2026-11-18T14:36+00:00
+143793,LA,Louisiana Member of School Board - District 4 - St. John the Baptist Parish,2026-11-03,99.9,,False,2,1,1280,2026-11-18T14:36+00:00
+143230,LA,"Louisiana Member of School Board - District 4, Seat A",2026-11-03,99.9,,False,2,1,7894,2026-11-18T14:36+00:00
+143695,LA,Louisiana Council Member at Large - City of New Roads,2026-11-03,99.9,,False,3,1,1976,2026-11-18T14:36+00:00
+143353,LA,Louisiana Member of School Board - District 7 - Claiborne Parish,2026-11-03,99.9,,False,2,1,436,2026-11-18T14:36+00:00
+144010,LA,Louisiana Parishwide Proposition No. 1 of 3 - 0.5 Mill Renewal - PC - 10 Yrs.,2026-11-03,99.9,,False,2,1,4560,2026-11-18T14:36+00:00
+143447,LA,Louisiana Aldermen - Village of Wilson,2026-11-03,99.9,,False,5,1,436,2026-11-18T14:36+00:00
+143912,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 5 - Terrebonne Parish,2026-11-03,99.9,,False,2,1,1822,2026-11-18T14:36+00:00
+143570,LA,"Louisiana Councilman - District B, City of Thibodaux",2026-11-03,99.9,,False,2,1,1550,2026-11-18T14:36+00:00
+143843,LA,Louisiana Chief of Police - City of Breaux Bridge,2026-11-03,99.9,,False,2,1,2949,2026-11-18T14:36+00:00
+143700,LA,"Louisiana City Marshal - City Court, City of Alexandria",2026-11-03,99.9,,False,3,1,17609,2026-11-18T14:36+00:00
+143280,LA,"Louisiana City Marshal - City Court, City of Bossier City",2026-11-03,99.9,,False,2,1,13181,2026-11-18T14:36+00:00
+143937,LA,Louisiana Chief of Police - Town of Erath,2026-11-03,99.9,,False,2,1,788,2026-11-18T14:36+00:00
+143804,LA,Louisiana Member of School Board - District 10 - St. Landry Parish,2026-11-03,99.9,,False,3,1,1698,2026-11-18T14:36+00:00
+143277,LA,Louisiana Town of Arcadia - 1% S&U Tax - M&TC - In Perp.,2026-11-03,99.9,,False,2,1,1041,2026-11-18T14:36+00:00
+143849,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 8 - St. Mary Parish,2026-11-03,99.9,,False,3,1,2426,2026-11-18T14:36+00:00
+143322,LA,"Louisiana Councilman - District 3, City of DeQuincy",2026-11-03,99.9,,False,2,1,201,2026-11-18T14:36+00:00
+143972,LA,Louisiana Constable - Justice of the Peace Ward 2 - Washington Parish,2026-11-03,99.9,,False,2,1,568,2026-11-18T14:36+00:00
+144021,LA,Louisiana Member of School Board - District 11 - Winn Parish,2026-11-03,99.9,,False,2,1,378,2026-11-18T14:36+00:00
+143302,LA,Louisiana Chief of Police - Town of Vivian,2026-11-03,99.9,,False,3,1,757,2026-11-18T14:36+00:00
+143682,LA,Louisiana Constable - Justice of the Peace Ward 3 - Plaquemines Parish,2026-11-03,99.9,,False,2,1,268,2026-11-18T14:36+00:00
+143539,LA,Louisiana City of Gretna (Fire) - 8.5 Mills - CC - 10 Yrs.,2026-11-03,99.9,,False,2,1,4171,2026-11-18T14:36+00:00
+143197,LA,Louisiana Chief of Police - Town of Church Point,2026-11-03,99.9,,False,2,1,1317,2026-11-18T14:36+00:00
+143854,LA,Louisiana Mayor - Town of Berwick,2026-11-03,99.9,,False,2,1,1765,2026-11-18T14:36+00:00
+143327,LA,Louisiana Member of School Board - District 4 - Caldwell Parish,2026-11-03,99.9,,False,4,1,295,2026-11-18T14:36+00:00
+143707,LA,"Louisiana Justice of the Peace - Justice of the Peace Ward 5, 2nd Just. Court",2026-11-03,99.9,,False,2,1,1629,2026-11-18T14:36+00:00
+143557,LA,Louisiana Chief of Police - City of Youngsville,2026-11-03,99.9,,False,3,1,6157,2026-11-18T14:36+00:00
+143414,LA,"Louisiana Justice of the Peace - Justice of the Peace, District 4",2026-11-03,99.9,,False,5,1,32992,2026-11-18T14:36+00:00
+143879,LA,Louisiana Aldermen - Town of Abita Springs,2026-11-03,99.9,,False,10,1,5596,2026-11-18T14:36+00:00
+143345,LA,"Louisiana Alderman - District 1, Town of Jonesville",2026-11-03,99.9,,False,2,1,138,2026-11-18T14:36+00:00
+143582,LA,Louisiana Chief of Police - Town of Tullos,2026-11-03,99.9,,False,2,1,107,2026-11-18T14:36+00:00
+143439,LA,"Louisiana Member of School Board - District 2, Division 1",2026-11-03,99.9,,False,2,1,1051,2026-11-18T14:36+00:00
+143904,LA,Louisiana Aldermen - Village of Waterproof,2026-11-03,99.9,,False,7,1,716,2026-11-18T14:36+00:00
+143370,LA,"Louisiana Member of School Board - District 4, Place B",2026-11-03,99.9,,False,2,1,1105,2026-11-18T14:36+00:00
+143799,LA,Louisiana Member of School Board - District 1 - St. Landry Parish,2026-11-03,99.9,,False,3,1,1505,2026-11-18T14:36+00:00
+143464,LA,Louisiana Chief of Police - Town of Mamou,2026-11-03,99.9,,False,2,1,1021,2026-11-18T14:36+00:00
+143129,LA,Louisiana District Judge - 31st Judicial District Court,2026-11-03,99.9,,False,2,1,10187,2026-11-18T14:36+00:00
+143395,LA,"Louisiana Member of School Board - District 1, Central Community",2026-11-03,99.9,,False,2,1,1990,2026-11-18T14:36+00:00
+143444,LA,Louisiana Constable - Justice of the Peace District 2 - East Feliciana Parish,2026-11-03,99.9,,False,3,1,1781,2026-11-18T14:36+00:00
+143824,LA,"Louisiana Alderman - District A, City of Opelousas",2026-11-03,99.9,,False,3,1,871,2026-11-18T14:36+00:00
+143297,LA,Louisiana Constable - Justice of the Peace Ward 9 - Caddo Parish,2026-11-03,99.9,,False,2,1,553,2026-11-18T14:36+00:00
+143947,LA,Louisiana Member of School Board - District 6 - Vernon Parish,2026-11-03,99.9,,False,4,1,706,2026-11-18T14:36+00:00
+143821,LA,"Louisiana Alderman - District 1, Town of Sunset",2026-11-03,99.9,,False,2,1,322,2026-11-18T14:36+00:00
+143401,LA,"Louisiana Member of School Board - District 3, Zachary Community",2026-11-03,99.9,,False,3,1,1470,2026-11-18T14:36+00:00
+143866,LA,Louisiana Member of School Board - District 7 - St. Tammany Parish,2026-11-03,99.9,,False,2,1,5553,2026-11-18T14:36+00:00
+143531,LA,Louisiana Justice of the Peace - 1st Justice Court,2026-11-03,99.9,,False,2,1,18895,2026-11-18T14:36+00:00
+143381,LA,Louisiana Member of School Board - District 8 - De Soto Parish,2026-11-03,99.9,,False,3,1,1299,2026-11-18T14:36+00:00
+143846,LA,Louisiana Member of School Board - District 8 - St. Mary Parish,2026-11-03,99.9,,False,2,1,1596,2026-11-18T14:36+00:00
+143426,LA,"Louisiana Councilman - District 3, City of Zachary",2026-11-03,99.9,,False,2,1,1491,2026-11-18T14:36+00:00
+143891,LA,Louisiana Mayor - Village of Tickfaw,2026-11-03,99.9,,False,3,1,222,2026-11-18T14:36+00:00
+143549,LA,Louisiana Aldermen - Village of Fenton,2026-11-03,99.9,,False,2,1,100,2026-11-18T14:36+00:00
+143406,LA,"Louisiana Member of School Board - District 5, Zachary Community",2026-11-03,99.9,,False,2,1,1123,2026-11-18T14:36+00:00
+143679,LA,Louisiana Member of Parish Council - District 9,2026-11-03,99.9,,False,4,1,610,2026-11-18T14:36+00:00
+143451,LA,Louisiana Member of School Board - District 3 - Evangeline Parish,2026-11-03,99.9,,False,2,1,689,2026-11-18T14:36+00:00
+143916,LA,Louisiana Road Lighting District No. 2 - 3.99 Mills Renewal - PC - 10 Yrs.,2026-11-03,99.9,,False,2,1,4724,2026-11-18T14:36+00:00
+143766,LA,Louisiana PW Proposition No. 1 of 2 (Recreation) - 2.68 Mills Renewal - PC - 10 Yrs.,2026-11-03,99.9,,False,2,1,18004,2026-11-18T14:36+00:00
+143623,LA,Louisiana Justice of the Peace - Justice of the Peace Districts 1 & 3,2026-11-03,99.9,,False,2,1,756,2026-11-18T14:36+00:00
+143896,LA,"Louisiana Council Member - District 5, City of Hammond",2026-11-03,99.9,,False,2,1,674,2026-11-18T14:36+00:00
+143333,LA,Louisiana Member of School Board - District 4 - Cameron Parish,2026-11-03,99.9,,False,2,1,242,2026-11-18T14:36+00:00
+143791,LA,Louisiana Member of School Board - District 1 - St. John the Baptist Parish,2026-11-03,99.9,,False,3,1,1735,2026-11-18T14:36+00:00
+143456,LA,Louisiana Member of School Board - District 13 - Evangeline Parish,2026-11-03,99.9,,False,2,1,980,2026-11-18T14:36+00:00
+143921,LA,Louisiana Member of School Board - District 6 - Union Parish,2026-11-03,99.9,,False,3,1,675,2026-11-18T14:36+00:00
+143159,LA,Louisiana Mayor - City of Eunice,2026-11-03,99.9,,False,3,2,2325,2026-11-18T14:36+00:00
+144008,LA,Louisiana Member of School Board - District 7 - West Feliciana Parish,2026-11-03,99.9,,False,3,1,562,2026-11-18T14:36+00:00
+143673,LA,Louisiana Member of Parish Council - District 1,2026-11-03,99.9,,False,2,1,718,2026-11-18T14:36+00:00
+143747,LA,Louisiana Aldermen - Town of Mangham,2026-11-03,99.9,,False,6,1,605,2026-11-18T14:36+00:00
+143796,LA,Louisiana Justice of the Peace - Justice of the Peace District 4 - St. John the Baptist Parish,2026-11-03,99.9,,False,2,1,2264,2026-11-18T14:36+00:00
+143376,LA,Louisiana Mayor - Village of Ridgecrest,2026-11-03,99.9,,False,2,1,147,2026-11-18T14:36+00:00
+143841,LA,Louisiana Constable - Justice of the Peace Ward 2 - St. Martin Parish,2026-11-03,99.9,,False,2,1,1293,2026-11-18T14:36+00:00
+143506,LA,Louisiana Constable - Justice of the Peace Ward 5 - Iberville Parish,2026-11-03,99.9,,False,3,1,1603,2026-11-18T14:36+00:00
+143164,LA,Louisiana Alderman at Large - Town of Basile,2026-11-03,99.9,,False,2,2,388,2026-11-18T14:36+00:00
+143610,LA,Louisiana Constable - Justice of the Peace Ward 5 - Livingston Parish,2026-11-03,99.9,,False,2,1,1255,2026-11-18T14:36+00:00
+143883,LA,"Louisiana City Marshal - City Court, City of Hammond",2026-11-03,99.9,,False,4,1,19470,2026-11-18T14:36+00:00
+143932,LA,Louisiana Member of School Board - District C - Vermilion Parish,2026-11-03,99.9,,False,2,1,1590,2026-11-18T14:36+00:00
+143398,LA,"Louisiana Member of School Board - District 2, City of Baker",2026-11-03,99.9,,False,2,1,780,2026-11-18T14:36+00:00
+143778,LA,Louisiana Member of School Board - District 2 - St. James Parish,2026-11-03,99.9,,False,2,1,1587,2026-11-18T14:36+00:00
+143635,LA,Louisiana Ward Two Cemetery Tax - 2 Mills - PJ - 10 Yrs.,2026-11-03,99.9,,False,2,1,330,2026-11-18T14:36+00:00
+143108,LA,"Louisiana District Judge - 4th Judicial District Court, ES 1, Div. H",2026-11-03,99.9,,False,2,1,7801,2026-11-18T14:36+00:00
+143950,LA,Louisiana Member(s) of School Board - District 1,2026-11-03,99.9,,False,10,1,11431,2026-11-18T14:36+00:00
+143423,LA,"Louisiana Council Member - District 3, City of Central",2026-11-03,99.9,,False,2,1,2274,2026-11-18T14:36+00:00
+143995,LA,"Louisiana Alderman - District 3, City of Springhill",2026-11-03,99.9,,False,2,1,274,2026-11-18T14:36+00:00
+143468,LA,"Louisiana Alderman - District 4, Town of Mamou",2026-11-03,99.9,,False,2,1,229,2026-11-18T14:36+00:00
+143325,LA,Louisiana Member of School Board - District 2 - Caldwell Parish,2026-11-03,99.9,,False,2,1,522,2026-11-18T14:36+00:00
+143975,LA,Louisiana Councilmen at Large - City of Bogalusa,2026-11-03,99.9,,False,6,1,4620,2026-11-18T14:36+00:00
+143640,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 3 - Natchitoches Parish,2026-11-03,99.9,,False,2,1,1272,2026-11-18T14:36+00:00
+143685,LA,Louisiana Member of School Board - District B - Pointe Coupee Parish,2026-11-03,99.9,,False,2,1,973,2026-11-18T14:36+00:00
+143343,LA,Louisiana Mayor - Village of Sicily Island,2026-11-03,99.9,,False,2,1,228,2026-11-18T14:36+00:00
+144000,LA,Louisiana Fire Protection District No. 3 - 15.59 Mills Cont. - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,858,2026-11-18T14:36+00:00
+143473,LA,Louisiana Council Members - Village of Turkey Creek,2026-11-03,99.9,,False,5,1,333,2026-11-18T14:36+00:00
+143710,LA,"Louisiana Constable - Justice of the Peace Ward 4, 1st Just. Court",2026-11-03,99.9,,False,3,1,1497,2026-11-18T14:36+00:00
+143368,LA,Louisiana Member of School Board - District 2 - Concordia Parish,2026-11-03,99.9,,False,2,1,596,2026-11-18T14:36+00:00
+143225,LA,Louisiana Ambulance Service District No. 1 - 9.76 Mills Renewal - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,3632,2026-11-18T14:36+00:00
+143498,LA,Louisiana Member of School Board - District B - Iberville Parish,2026-11-03,99.9,,False,2,1,1027,2026-11-18T14:36+00:00
+143156,LA,Louisiana District Attorney - 37th Judicial District Court,2026-11-03,99.9,,False,2,1,3106,2026-11-18T14:36+00:00
+143927,LA,Louisiana Chief of Police - Town of Bernice,2026-11-03,99.9,,False,2,1,327,2026-11-18T14:36+00:00
+143393,LA,Louisiana Member of School Board - District 1 - East Baton Rouge Parish,2026-11-03,99.9,,False,2,1,14381,2026-11-18T14:36+00:00
+143250,LA,Louisiana Aldermen - Village of Moreauville,2026-11-03,99.9,,False,6,1,1148,2026-11-18T14:36+00:00
+143523,LA,Louisiana Aldermen - Village of North Hodge,2026-11-03,99.9,,False,6,1,241,2026-11-18T14:36+00:00
+143373,LA,Louisiana Justice of the Peace - Justice of the Peace District 5B,2026-11-03,99.9,,False,2,1,655,2026-11-18T14:36+00:00
+143753,LA,"Louisiana Alderman - District A, Town of Many",2026-11-03,99.9,,False,2,1,157,2026-11-18T14:36+00:00
+143627,LA,Louisiana Member of School Board - District 3 - Morehouse Parish,2026-11-03,99.9,,False,2,1,1006,2026-11-18T14:36+00:00
+143292,LA,"Louisiana Justice of the Peace - Justice of the Peace Ward 3, Blanchard Dist.",2026-11-03,99.9,,False,2,1,6370,2026-11-18T14:36+00:00
+143750,LA,Louisiana Justice of the Peace - Justice of the Peace & Constable District 4,2026-11-03,99.9,,False,2,1,803,2026-11-18T14:36+00:00
+143529,LA,Louisiana Member of School Board - District 7 - Jefferson Parish,2026-11-03,99.9,,False,2,1,14058,2026-11-18T14:36+00:00
+143987,LA,Louisiana Member of School Board - District 9 - Webster Parish,2026-11-03,99.9,,False,3,1,803,2026-11-18T14:36+00:00
+143652,LA,Louisiana PW HRC Amendment - Amends Sec. 6-103 - CC,2026-11-03,99.9,,False,2,1,121279,2026-11-18T14:36+00:00
+143509,LA,Louisiana Aldermen - Town of Maringouin,2026-11-03,99.9,,False,9,1,2436,2026-11-18T14:36+00:00
+143775,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 3 - St. Helena Parish,2026-11-03,99.9,,False,2,1,891,2026-11-18T14:36+00:00
+143355,LA,Louisiana Member of School Board - District 10 - Claiborne Parish,2026-11-03,99.9,,False,2,1,328,2026-11-18T14:36+00:00
+144012,LA,Louisiana Parishwide Proposition No. 3 of 3 - 8.89 Mills Renewal - PC - 10 Yrs.,2026-11-03,99.9,,False,2,1,4552,2026-11-18T14:36+00:00
+143677,LA,Louisiana Member of Parish Council - District 7,2026-11-03,99.9,,False,5,1,993,2026-11-18T14:36+00:00
+143534,LA,Louisiana Constable - 4th Justice Court,2026-11-03,99.9,,False,2,1,509,2026-11-18T14:36+00:00
+143992,LA,Louisiana Chief of Police - City of Minden,2026-11-03,99.9,,False,4,1,3773,2026-11-18T14:36+00:00
+143429,LA,Louisiana Parishwide Proposition - .50 Mills Renewal - MC - 10 Yrs.,2026-11-03,99.9,,False,2,1,145889,2026-11-18T14:36+00:00
+143894,LA,"Louisiana Council Member - District 2, City of Hammond",2026-11-03,99.9,,False,4,1,1252,2026-11-18T14:36+00:00
+143360,LA,Louisiana Aldermen - Village of Athens,2026-11-03,99.9,,False,6,1,351,2026-11-18T14:36+00:00
+144017,LA,Louisiana Member of School Board - District 3 - Winn Parish,2026-11-03,99.9,,False,3,1,385,2026-11-18T14:36+00:00
+143262,LA,Louisiana Police Juror - District 2,2026-11-03,99.9,,False,4,1,787,2026-11-18T14:36+00:00
+143919,LA,Louisiana Member of School Board - District 1 - Union Parish,2026-11-03,99.9,,False,3,1,558,2026-11-18T14:36+00:00
+143577,LA,Louisiana Member of School Board - District 9 - La Salle Parish,2026-11-03,99.9,,False,2,1,471,2026-11-18T14:36+00:00
+143242,LA,Louisiana Police Juror - District 4,2026-11-03,99.9,,False,2,1,1319,2026-11-18T14:36+00:00
+143479,LA,Louisiana Cemetery District No. 5 - 1.01 Mills Cont. - PJ - 10 Yrs.,2026-11-03,99.9,,False,2,1,1119,2026-11-18T14:36+00:00
+143745,LA,"Louisiana Alderman - District D, Town of Delhi",2026-11-03,99.9,,False,2,1,161,2026-11-18T14:36+00:00
+143602,LA,Louisiana Aldermen - Village of Choudrant,2026-11-03,99.9,,False,6,1,1425,2026-11-18T14:36+00:00
+143875,LA,Louisiana Constable(s) - Justice of the Peace Ward 7,2026-11-03,99.9,,False,2,1,2701,2026-11-18T14:36+00:00
+143924,LA,Louisiana Member of School Board - District 9 - Union Parish,2026-11-03,99.9,,False,2,1,557,2026-11-18T14:36+00:00
+143312,LA,Louisiana Member of School Board - District 2 - Calcasieu Parish,2026-11-03,99.9,,False,2,1,3590,2026-11-18T14:36+00:00
+143962,LA,Louisiana Member of School Board - District 5 - Washington Parish,2026-11-03,99.9,,False,2,1,870,2026-11-18T14:36+00:00
+143836,LA,"Louisiana City Judge - City Court, City of Breaux Bridge",2026-11-03,99.9,,False,2,1,7187,2026-11-18T14:36+00:00
+143309,LA,"Louisiana City Judge - City Court, City of Sulphur",2026-11-03,99.9,,False,2,1,11964,2026-11-18T14:36+00:00
+143881,LA,"Louisiana Councilman - District A, City of Covington",2026-11-03,99.9,,False,3,1,470,2026-11-18T14:36+00:00
+143347,LA,"Louisiana Alderman - District 4, Town of Jonesville",2026-11-03,99.9,,False,2,1,168,2026-11-18T14:36+00:00
+143204,LA,"Louisiana Alderman - Ward 4, Division B, City of Crowley",2026-11-03,99.9,,False,2,1,603,2026-11-18T14:36+00:00
+143253,LA,Louisiana Member of School Board - District 3D,2026-11-03,99.9,,False,2,1,812,2026-11-18T14:36+00:00
+143526,LA,Louisiana Member of School Board - District 2 - Jefferson Parish,2026-11-03,99.9,,False,2,1,11831,2026-11-18T14:36+00:00
+143906,LA,"Louisiana City Marshal - City Court, City of Houma",2026-11-03,99.9,,False,3,1,28240,2026-11-18T14:36+00:00
+143564,LA,"Louisiana City Marshal - City Court, City of Thibodaux",2026-11-03,99.9,,False,2,1,6345,2026-11-18T14:36+00:00
+143421,LA,Louisiana Mayor - City of Central,2026-11-03,99.9,,False,4,1,12095,2026-11-18T14:36+00:00
+143886,LA,Louisiana Member of School Board - District G,2026-11-03,99.9,,False,2,1,3784,2026-11-18T14:36+00:00
+143352,LA,Louisiana Member of School Board - District 6 - Claiborne Parish,2026-11-03,99.9,,False,2,1,526,2026-11-18T14:36+00:00
+143931,LA,"Louisiana City Marshal - City Court, City of Kaplan",2026-11-03,99.9,,False,2,1,2905,2026-11-18T14:36+00:00
+143781,LA,Louisiana Member of School Board - District 6 - St. James Parish,2026-11-03,99.9,,False,4,1,1333,2026-11-18T14:36+00:00
+143638,LA,Louisiana Member of School Board - District 1 - Natchitoches Parish,2026-11-03,99.9,,False,2,1,1237,2026-11-18T14:36+00:00
+143111,LA,"Louisiana District Judge - 12th Judicial District Court, Division A",2026-11-03,99.9,,False,2,1,12155,2026-11-18T14:36+00:00
+143569,LA,"Louisiana Councilman at Large - Seat E, City of Thibodaux",2026-11-03,99.9,,False,2,1,4919,2026-11-18T14:36+00:00
+143806,LA,Louisiana Member of School Board - District 13 - St. Landry Parish,2026-11-03,99.9,,False,2,1,1593,2026-11-18T14:36+00:00
+143471,LA,"Louisiana Alderman - District F, City of Ville Platte",2026-11-03,99.9,,False,2,1,380,2026-11-18T14:36+00:00
+143136,LA,"Louisiana Judge - Civil District Court, Division M",2026-11-03,99.9,,False,2,1,120484,2026-11-18T14:36+00:00
+143594,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 5 - Lincoln Parish,2026-11-03,99.9,,False,2,1,2831,2026-11-18T14:36+00:00
+144023,LA,Louisiana Constable - Justice of the Peace Ward 8 - Winn Parish,2026-11-03,99.9,,False,3,1,390,2026-11-18T14:36+00:00
+143496,LA,Louisiana Hopkins Street Economic Development Dist. - 0.50% S&U Tax - BOC - In Perp.,2026-11-03,99.9,,False,2,1,556,2026-11-18T14:36+00:00
+143154,LA,Louisiana District Attorney - 33rd Judicial District Court,2026-11-03,99.9,,False,2,1,6497,2026-11-18T14:36+00:00
+143619,LA,Louisiana Member of School Board - District 4 - Madison Parish,2026-11-03,99.9,,False,2,1,293,2026-11-18T14:36+00:00
+143476,LA,Louisiana Road District No. 3 - 10.30 Mills Renewal - PJ - 10 Yrs.,2026-11-03,99.9,,False,2,1,1990,2026-11-18T14:36+00:00
+143856,LA,Louisiana Councilmen - Town of Berwick,2026-11-03,99.9,,False,9,1,7436,2026-11-18T14:36+00:00
+143521,LA,"Louisiana Alderman - District D, Town of Jonesboro",2026-11-03,99.9,,False,2,1,383,2026-11-18T14:36+00:00
+143979,LA,"Louisiana Councilman - District D, City of Bogalusa",2026-11-03,99.9,,False,2,1,457,2026-11-18T14:36+00:00
+143853,LA,Louisiana Mayor - Town of Baldwin,2026-11-03,99.9,,False,2,1,783,2026-11-18T14:36+00:00
+143625,LA,"Louisiana City Marshal - City Court, City of Bastrop",2026-11-03,99.9,,False,2,1,4551,2026-11-18T14:36+00:00
+143898,LA,Louisiana Member of School Board - District 5 - Tensas Parish,2026-11-03,99.9,,False,2,1,267,2026-11-18T14:36+00:00
+143556,LA,Louisiana Chief of Police - City of Scott,2026-11-03,99.9,,False,2,1,2853,2026-11-18T14:36+00:00
+143605,LA,"Louisiana City Judge - City Court, City of Denham Springs",2026-11-03,99.9,,False,2,1,13445,2026-11-18T14:36+00:00
+143878,LA,Louisiana Chief of Police - Town of Pearl River,2026-11-03,99.9,,False,2,1,1039,2026-11-18T14:36+00:00
+143458,LA,Louisiana Constable(s) - Justice of the Peace Ward 2 - Evangeline Parish,2026-11-03,99.9,,False,3,1,1239,2026-11-18T14:36+00:00
+143123,LA,"Louisiana District Judge - 22nd Judicial District Court, Division G",2026-11-03,99.9,,False,5,2,99920,2026-11-18T14:36+00:00
+143773,LA,Louisiana Member of School Board - District 6 - St. Helena Parish,2026-11-03,99.9,,False,2,1,857,2026-11-18T14:36+00:00
+143630,LA,Louisiana Constable - Justice of the Peace Ward 2 - Morehouse Parish,2026-11-03,99.9,,False,2,1,326,2026-11-18T14:36+00:00
+143903,LA,Louisiana Mayor - Village of Waterproof,2026-11-03,99.9,,False,3,1,271,2026-11-18T14:36+00:00
+143483,LA,Louisiana Chief of Police - Village of Gilbert,2026-11-03,99.9,,False,3,1,163,2026-11-18T14:36+00:00
+143141,LA,Louisiana Magistrate Judge - 14th Judicial District Court,2026-11-03,99.9,,False,2,1,54417,2026-11-18T14:36+00:00
+143990,LA,Louisiana Member of School Board - District 12 - Webster Parish,2026-11-03,99.9,,False,2,1,924,2026-11-18T14:36+00:00
+143655,LA,Louisiana Kenilworth Improvement Dist. - $225 Parcel Fee - CC - 8 Yrs.,2026-11-03,99.9,,False,2,1,832,2026-11-18T14:36+00:00
+143128,LA,"Louisiana District Judge - 30th Judicial District Court, Division C",2026-11-03,99.9,,False,3,1,10719,2026-11-18T14:36+00:00
+143166,LA,"Louisiana Alderman - Ward 2, City of Eunice",2026-11-03,99.9,,False,2,2,548,2026-11-18T14:36+00:00
+144015,LA,Louisiana Member of School Board - District 1 - Winn Parish,2026-11-03,99.9,,False,2,1,459,2026-11-18T14:36+00:00
+143488,LA,Louisiana Councilmen - Town of Pollock,2026-11-03,99.9,,False,8,1,638,2026-11-18T14:36+00:00
+143946,LA,Louisiana Member of School Board - District 5 - Vernon Parish,2026-11-03,99.9,,False,2,1,1149,2026-11-18T14:36+00:00
+143383,LA,Louisiana Member of School Board - District 10 - De Soto Parish,2026-11-03,99.9,,False,3,1,890,2026-11-18T14:36+00:00
+143240,LA,Louisiana Parishwide Proposition No. 1 of 2 - 1% S&U Tax Reded. - PJ,2026-11-03,99.9,,False,2,1,6700,2026-11-18T14:36+00:00
+143705,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 8 - Rapides Parish,2026-11-03,99.9,,False,2,1,2191,2026-11-18T14:36+00:00
+143971,LA,Louisiana Constable - Justice of the Peace Ward 1 - Washington Parish,2026-11-03,99.9,,False,2,1,892,2026-11-18T14:36+00:00
+144020,LA,Louisiana Member of School Board - District 7 - Winn Parish,2026-11-03,99.9,,False,2,1,436,2026-11-18T14:36+00:00
+143408,LA,Louisiana Member of School Board - District 7 - East Baton Rouge Parish,2026-11-03,99.9,,False,3,1,11983,2026-11-18T14:36+00:00
+143873,LA,Louisiana Constable(s) - Justice of the Peace Ward 4,2026-11-03,99.9,,False,3,1,29352,2026-11-18T14:36+00:00
+143730,LA,Louisiana Member of School Board - District 3 - Red River Parish,2026-11-03,99.9,,False,3,1,368,2026-11-18T14:36+00:00
+143388,LA,Louisiana Aldermen - Village of Grand Cane,2026-11-03,99.9,,False,6,1,276,2026-11-18T14:36+00:00
+143642,LA,Louisiana Mayor - Town of Campti,2026-11-03,99.9,,False,2,1,320,2026-11-18T14:36+00:00
+143115,LA,"Louisiana District Judge - 15th Judicial District Court, ES 3, Div. M",2026-11-03,99.9,,False,2,1,54785,2026-11-18T14:36+00:00
+143957,LA,"Louisiana City Judge - City Court, City of Bogalusa",2026-11-03,99.9,,False,2,1,4530,2026-11-18T14:36+00:00
+143622,LA,Louisiana Member of School Board - District 8 - Madison Parish,2026-11-03,99.9,,False,2,1,370,2026-11-18T14:36+00:00
+144002,LA,Louisiana Member of School Board - District 4 - West Carroll Parish,2026-11-03,99.9,,False,2,1,396,2026-11-18T14:36+00:00
+143667,LA,"Louisiana Member of School Board - District 6, City of Monroe",2026-11-03,99.9,,False,2,1,1545,2026-11-18T14:36+00:00
+143332,LA,Louisiana Member of School Board - District 2 - Cameron Parish,2026-11-03,99.9,,False,2,1,249,2026-11-18T14:36+00:00
+143982,LA,"Louisiana City Marshal - City Court, City of Springhill",2026-11-03,99.9,,False,3,1,3407,2026-11-18T14:36+00:00
+143455,LA,Louisiana Member of School Board - District 11 - Evangeline Parish,2026-11-03,99.9,,False,2,1,670,2026-11-18T14:36+00:00
+143227,LA,Louisiana Kinder Drainage District No. 2 - 4 Mills Renewal - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,1329,2026-11-18T14:36+00:00
+143500,LA,Louisiana Member of School Board - District H - Iberville Parish,2026-11-03,99.9,,False,2,1,1554,2026-11-18T14:36+00:00
+143350,LA,Louisiana Aldermen - Village of Sicily Island,2026-11-03,99.9,,False,4,1,511,2026-11-18T14:36+00:00
+143207,LA,Louisiana City of Crowley Proposition No. 1 of 4 - 1/2 of 1% S&U Tax Renewal - M&BOA - 15 Yrs.,2026-11-03,99.9,,False,2,1,3115,2026-11-18T14:36+00:00
+143672,LA,Louisiana Parish President,2026-11-03,99.9,,False,5,1,7871,2026-11-18T14:36+00:00
+143909,LA,Louisiana Member of School Board - District 7 - Terrebonne Parish,2026-11-03,99.9,,False,3,1,3476,2026-11-18T14:36+00:00
+143567,LA,Louisiana Mayor - City of Thibodaux,2026-11-03,99.9,,False,2,1,5034,2026-11-18T14:36+00:00
+143232,LA,"Louisiana Member of School Board - District 6, Seat B",2026-11-03,99.9,,False,3,1,7395,2026-11-18T14:36+00:00
+143505,LA,Louisiana Constable - Justice of the Peace Ward 4 - Iberville Parish,2026-11-03,99.9,,False,2,1,2092,2026-11-18T14:36+00:00
+143934,LA,Louisiana Justice(s) of the Peace - Justice of the Peace Ward 4,2026-11-03,99.9,,False,2,1,2661,2026-11-18T14:36+00:00
+143592,LA,Louisiana Member of School Board - District 11 - Lincoln Parish,2026-11-03,99.9,,False,3,1,770,2026-11-18T14:36+00:00
+143449,LA,"Louisiana City Marshal - City Court, City of Ville Platte",2026-11-03,99.9,,False,4,1,5046,2026-11-18T14:36+00:00
+143722,LA,"Louisiana Alderman - Seat D, Town of Ball",2026-11-03,99.9,,False,4,1,1252,2026-11-18T14:36+00:00
+143380,LA,Louisiana Member of School Board - District 5 - De Soto Parish,2026-11-03,99.9,,False,2,1,744,2026-11-18T14:36+00:00
+143952,LA,Louisiana Constable - Justice of the Peace Ward 4 - Vernon Parish,2026-11-03,99.9,,False,2,1,1059,2026-11-18T14:36+00:00
+143617,LA,Louisiana Member of School Board - District 2 - Madison Parish,2026-11-03,99.9,,False,2,1,323,2026-11-18T14:36+00:00
+143282,LA,Louisiana Constable(s) - Justice of the Peace District 5,2026-11-03,99.9,,False,2,1,5426,2026-11-18T14:36+00:00
+143740,LA,Louisiana Mayor - Town of Delhi,2026-11-03,99.9,,False,4,1,1100,2026-11-18T14:36+00:00
+143405,LA,"Louisiana Member of School Board - District 5, City of Baker",2026-11-03,99.9,,False,3,1,1060,2026-11-18T14:36+00:00
+143977,LA,"Louisiana Councilman - District B, City of Bogalusa",2026-11-03,99.9,,False,4,1,780,2026-11-18T14:36+00:00
+143194,LA,Louisiana Mayor - City of Rayne,2026-11-03,99.9,,False,2,1,2257,2026-11-18T14:36+00:00
+143659,LA,"Louisiana City Marshal - City Court, City of Monroe",2026-11-03,99.9,,False,2,1,15905,2026-11-18T14:36+00:00
+143516,LA,Louisiana Mayor - Village of Hodge,2026-11-03,99.9,,False,3,1,155,2026-11-18T14:36+00:00
+143974,LA,Louisiana Mayor - City of Bogalusa,2026-11-03,99.9,,False,4,1,3116,2026-11-18T14:36+00:00
+143362,LA,"Louisiana Selectman - District 2, Town of Homer",2026-11-03,99.9,,False,3,1,166,2026-11-18T14:36+00:00
+143219,LA,Louisiana Chief of Police - Village of Reeves,2026-11-03,99.9,,False,3,1,127,2026-11-18T14:36+00:00
+143684,LA,Louisiana Member of School Board - District A - Pointe Coupee Parish,2026-11-03,99.9,,False,2,1,989,2026-11-18T14:36+00:00
+143733,LA,Louisiana Constable - Justice of the Peace District A - Red River Parish,2026-11-03,99.9,,False,2,1,870,2026-11-18T14:36+00:00
+143999,LA,Louisiana North Webster Industrial District - 5.14 Mills Renewal - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,3251,2026-11-18T14:36+00:00
+143579,LA,Louisiana Justice of the Peace - Justice of the Peace District 3 - La Salle Parish,2026-11-03,99.9,,False,2,1,975,2026-11-18T14:36+00:00
+143244,LA,Louisiana Member of School Board - District 3 - Avoyelles Parish,2026-11-03,99.9,,False,2,1,1533,2026-11-18T14:36+00:00
+143901,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 2 - Tensas Parish,2026-11-03,99.9,,False,3,1,554,2026-11-18T14:36+00:00
+143559,LA,"Louisiana Council Member - District 2, City of Scott",2026-11-03,99.9,,False,2,1,463,2026-11-18T14:36+00:00
+143224,LA,Louisiana City of Oakdale - 3.10 Mills - M&CC - 10 Yrs.,2026-11-03,99.9,,False,2,1,1065,2026-11-18T14:36+00:00
+143461,LA,Louisiana Mayor - Town of Mamou,2026-11-03,99.9,,False,2,1,1010,2026-11-18T14:36+00:00
+143126,LA,"Louisiana District Judge - 24th Judicial District Court, ES 2, Div. F",2026-11-03,99.9,,False,2,1,66851,2026-11-18T14:36+00:00
+143584,LA,Louisiana Aldermen - Town of Tullos,2026-11-03,99.9,,False,6,1,345,2026-11-18T14:36+00:00
+143249,LA,Louisiana Aldermen - Town of Mansura,2026-11-03,99.9,,False,7,1,1484,2026-11-18T14:36+00:00
+143294,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 7 - Caddo Parish,2026-11-03,99.9,,False,2,1,7612,2026-11-18T14:36+00:00
+143944,LA,Louisiana Member of School Board - District 3 - Vernon Parish,2026-11-03,99.9,,False,2,1,1300,2026-11-18T14:36+00:00
+143801,LA,Louisiana Member of School Board - District 3 - St. Landry Parish,2026-11-03,99.9,,False,3,1,1602,2026-11-18T14:36+00:00
+143274,LA,"Louisiana Council Member - District 5, Town of Arcadia",2026-11-03,99.9,,False,2,1,229,2026-11-18T14:36+00:00
+143511,LA,Louisiana Member of School Board - District 3 - Jackson Parish,2026-11-03,99.9,,False,2,1,838,2026-11-18T14:36+00:00
+143969,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 2 - Washington Parish,2026-11-03,99.9,,False,3,1,559,2026-11-18T14:36+00:00
+143826,LA,"Louisiana Alderman - District C, City of Opelousas",2026-11-03,99.9,,False,2,1,1149,2026-11-18T14:36+00:00
+143107,LA,"Louisiana District Judge - 3rd Judicial District Court, Div. B",2026-11-03,99.9,,False,2,2,19507,2026-11-18T14:36+00:00
+143949,LA,Louisiana Member of School Board - District 8 - Vernon Parish,2026-11-03,99.9,,False,2,1,1280,2026-11-18T14:36+00:00
+143536,LA,Louisiana Councilmen - City of Harahan,2026-11-03,99.9,,False,9,1,16466,2026-11-18T14:36+00:00
+143211,LA,Louisiana Member of School Board - District 5 - Allen Parish,2026-11-03,99.9,,False,2,1,1054,2026-11-18T14:36+00:00
+143868,LA,Louisiana Member of School Board - District 11 - St. Tammany Parish,2026-11-03,99.9,,False,2,1,4917,2026-11-18T14:36+00:00
+143533,LA,Louisiana Constable - 2nd Justice Court - Jefferson Parish,2026-11-03,99.9,,False,3,1,26931,2026-11-18T14:36+00:00
+143113,LA,"Louisiana District Judge - 14th Judicial District Court, ES 1, Div. J",2026-11-03,99.9,,False,2,1,14449,2026-11-18T14:36+00:00
+143571,LA,Louisiana Hospital Service Dist. No. 2 - 2 Mills Renewal - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,7305,2026-11-18T14:36+00:00
+143428,LA,"Louisiana Councilman - District 5, City of Zachary",2026-11-03,99.9,,False,3,1,1467,2026-11-18T14:36+00:00
+143285,LA,Louisiana Member of School Board - District 4 - Caddo Parish,2026-11-03,99.9,,False,2,1,6393,2026-11-18T14:36+00:00
+143359,LA,Louisiana Marshal - Town of Homer,2026-11-03,99.9,,False,2,1,907,2026-11-18T14:36+00:00
+143138,LA,"Louisiana Judge - Criminal District Court, Section D",2026-11-03,99.9,,False,2,1,122414,2026-11-18T14:36+00:00
+143596,LA,Louisiana Mayor - City of Ruston,2026-11-03,99.9,,False,2,1,5002,2026-11-18T14:36+00:00
+143453,LA,Louisiana Member of School Board - District 9 - Evangeline Parish,2026-11-03,99.9,,False,2,1,911,2026-11-18T14:36+00:00
+143118,LA,"Louisiana District Judge - 19th Judicial District Court, Div. B",2026-11-03,99.9,,False,2,1,149406,2026-11-18T14:36+00:00
+143576,LA,Louisiana Member of School Board - District 8 - La Salle Parish,2026-11-03,99.9,,False,2,1,471,2026-11-18T14:36+00:00
+144005,LA,Louisiana Member of School Board - District 1 - West Feliciana Parish,2026-11-03,99.9,,False,2,1,712,2026-11-18T14:36+00:00
+143670,LA,Louisiana Constable - Justice of the Peace Ward 6 - Ouachita Parish,2026-11-03,99.9,,False,2,1,2670,2026-11-18T14:36+00:00
+143335,LA,Louisiana Member of School Board - District 8 - Cameron Parish,2026-11-03,99.9,,False,2,1,247,2026-11-18T14:36+00:00
+143601,LA,"Louisiana Alderman - Ward 5, City of Ruston",2026-11-03,99.9,,False,2,1,570,2026-11-18T14:36+00:00
+143838,LA,Louisiana Member of School Board - District 7 - St. Martin Parish,2026-11-03,99.9,,False,2,1,1428,2026-11-18T14:36+00:00
+143503,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 6 - Iberville Parish,2026-11-03,99.9,,False,2,1,2068,2026-11-18T14:36+00:00
+143161,LA,Louisiana Mayor - Town of Arnaudville,2026-11-03,99.9,,False,2,2,343,2026-11-18T14:36+00:00
+143818,LA,Louisiana Chief of Police - Town of Sunset,2026-11-03,99.9,,False,2,1,1164,2026-11-18T14:36+00:00
+143255,LA,Louisiana Justice of the Peace - Justice of the Peace District 5 - Beauregard Parish,2026-11-03,99.9,,False,2,1,1298,2026-11-18T14:36+00:00
+143720,LA,"Louisiana Alderman - Seat B, Town of Ball",2026-11-03,99.9,,False,2,1,1223,2026-11-18T14:36+00:00
+143378,LA,Louisiana Member of School Board - District 1 - De Soto Parish,2026-11-03,99.9,,False,3,1,871,2026-11-18T14:36+00:00
+143651,LA,Louisiana Constable - 1st City Court,2026-11-03,99.9,,False,2,1,104431,2026-11-18T14:36+00:00
+143508,LA,Louisiana Mayor - Town of Maringouin,2026-11-03,99.9,,False,2,1,558,2026-11-18T14:36+00:00
+143888,LA,Louisiana Constable - Justice of the Peace Ward 1 - Tangipahoa Parish,2026-11-03,99.9,,False,2,1,1212,2026-11-18T14:36+00:00
+143546,LA,Louisiana Constable - Justice of the Peace Ward 1 - Jefferson Davis Parish,2026-11-03,99.9,,False,3,1,1381,2026-11-18T14:36+00:00
+143612,LA,Louisiana Mayor - City of Denham Springs,2026-11-03,99.9,,False,3,1,2816,2026-11-18T14:36+00:00
+143885,LA,Louisiana Member of School Board - District E,2026-11-03,99.9,,False,2,1,3936,2026-11-18T14:36+00:00
+143657,LA,Louisiana Lake Willow Subdivision Imp. Dist. - $300 Parcel Fee - CC - 3 Yrs.,2026-11-03,99.9,,False,2,1,241,2026-11-18T14:36+00:00
+143130,LA,"Louisiana District Judge - 32nd Judicial District Court, Division D",2026-11-03,99.9,,False,2,1,26802,2026-11-18T14:36+00:00
+143780,LA,Louisiana Member of School Board - District 4 - St. James Parish,2026-11-03,99.9,,False,2,1,1227,2026-11-18T14:36+00:00
+143829,LA,Louisiana Aldermen - Town of Grand Coteau,2026-11-03,99.9,,False,8,1,1625,2026-11-18T14:36+00:00
+143110,LA,"Louisiana District Judge - 4th Judicial District Court, ES 2, Div. B",2026-11-03,99.9,,False,3,2,40288,2026-11-18T14:36+00:00
+143490,LA,Louisiana Member of School Board - District 1 - Iberia Parish,2026-11-03,99.9,,False,2,1,853,2026-11-18T14:36+00:00
+143148,LA,Louisiana District Attorney - 12th Judicial District Court,2026-11-03,99.9,,False,2,1,11880,2026-11-18T14:36+00:00
+143997,LA,"Louisiana Councilman - District C, City of Minden",2026-11-03,99.9,,False,5,1,677,2026-11-18T14:36+00:00
+143662,LA,Louisiana Member of School Board - District D - Ouachita Parish,2026-11-03,99.9,,False,2,1,3432,2026-11-18T14:36+00:00
+143135,LA,"Louisiana Judge - Civil District Court, Division L",2026-11-03,99.9,,False,2,1,122353,2026-11-18T14:36+00:00
+143515,LA,Louisiana Mayor - Town of Jonesboro,2026-11-03,99.9,,False,2,1,1369,2026-11-18T14:36+00:00
+143365,LA,Louisiana Sales Tax District No. 2 - 0.625% S&U Tax - PJ - 10 Yrs.,2026-11-03,99.9,,False,2,1,2753,2026-11-18T14:36+00:00
+143222,LA,"Louisiana Council Member - District 2, Town of Kinder",2026-11-03,99.9,,False,3,1,182,2026-11-18T14:36+00:00
+143687,LA,Louisiana Member of School Board - District D - Pointe Coupee Parish,2026-11-03,99.9,,False,2,1,1137,2026-11-18T14:36+00:00
+143153,LA,Louisiana District Attorney - 31st Judicial District Court,2026-11-03,99.9,,False,3,1,10231,2026-11-18T14:36+00:00
+143390,LA,"Louisiana Judge, Family Court - Election Section 2, Division C",2026-11-03,99.9,,False,2,1,55977,2026-11-18T14:36+00:00
+143247,LA,Louisiana Mayor - Town of Mansura,2026-11-03,99.9,,False,5,1,487,2026-11-18T14:36+00:00
+143712,LA,Louisiana Mayor - Town of Ball,2026-11-03,99.9,,False,2,1,1280,2026-11-18T14:36+00:00
+143178,LA,"Louisiana Councilman - District 2, City of Broussard",2026-11-03,99.9,,False,2,1,912,2026-11-18T14:36+00:00
+143607,LA,Louisiana Member of School Board - District 5 - Livingston Parish,2026-11-03,99.9,,False,2,1,4515,2026-11-18T14:36+00:00
+143272,LA,"Louisiana Council Member - District 2, Town of Arcadia",2026-11-03,99.9,,False,2,1,225,2026-11-18T14:36+00:00
+143929,LA,Louisiana Aldermen - Town of Marion,2026-11-03,99.9,,False,6,1,679,2026-11-18T14:36+00:00
+143203,LA,"Louisiana Alderman - Ward 3, Division B, City of Crowley",2026-11-03,99.9,,False,2,1,764,2026-11-18T14:36+00:00
+143252,LA,Louisiana Member of School Board - District 3C,2026-11-03,99.9,,False,2,1,947,2026-11-18T14:36+00:00
+143632,LA,Louisiana Aldermen - Village of Collinston,2026-11-03,99.9,,False,4,1,121,2026-11-18T14:36+00:00
+143105,LA,"Louisiana District Judge - 2nd Judicial District Court, Div. A",2026-11-03,99.9,,False,2,3,14855,2026-11-18T14:36+00:00
+143755,LA,Louisiana Member of School Board - District 11 - St. Bernard Parish,2026-11-03,99.9,,False,2,1,1169,2026-11-18T14:36+00:00
+143629,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 2 - Morehouse Parish,2026-11-03,99.9,,False,2,1,329,2026-11-18T14:36+00:00
+143209,LA,Louisiana City of Crowley Proposition No. 3 of 4 - 3 Mills Renewal - M&BOA - 10 Yrs.,2026-11-03,99.9,,False,2,1,3103,2026-11-18T14:36+00:00
+143674,LA,Louisiana Member of Parish Council - District 4,2026-11-03,99.9,,False,3,1,772,2026-11-18T14:36+00:00
+143339,LA,Louisiana Member of School Board - District 7 - Catahoula Parish,2026-11-03,99.9,,False,2,1,355,2026-11-18T14:36+00:00
+143189,LA,Louisiana Member of School Board - District 3 - Acadia Parish,2026-11-03,99.9,,False,4,1,1997,2026-11-18T14:36+00:00
+143654,LA,Louisiana Lake Bullard Neighborhood Imp. Dist. - $350 Parcel Fee - CC - 8 Yrs.,2026-11-03,99.9,,False,2,1,393,2026-11-18T14:36+00:00
+143234,LA,Louisiana Justice of the Peace - 3rd Justice Court,2026-11-03,99.9,,False,2,1,14933,2026-11-18T14:36+00:00
+143699,LA,Louisiana Parishwide Prop. No. 2 of 2 - 1/4% S&U Tax Renewal - PC - 10 Yrs.,2026-11-03,99.9,,False,2,1,8000,2026-11-18T14:36+00:00
+143357,LA,Louisiana Mayor - Town of Homer,2026-11-03,99.9,,False,2,1,913,2026-11-18T14:36+00:00
+143214,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 3 - Allen Parish,2026-11-03,99.9,,False,2,1,747,2026-11-18T14:36+00:00
+143487,LA,Louisiana Council Member(s) - Town of Montgomery,2026-11-03,99.9,,False,7,1,674,2026-11-18T14:36+00:00
+143259,LA,Louisiana Road District Number 8 - 26.46 Mills Cont. - PJ - 10 Yrs.,2026-11-03,99.9,,False,2,1,471,2026-11-18T14:36+00:00
+143724,LA,Louisiana Aldermen - Town of Boyce,2026-11-03,99.9,,False,11,1,1826,2026-11-18T14:36+00:00
+143574,LA,Louisiana Member of School Board - District 6 - La Salle Parish,2026-11-03,99.9,,False,2,1,399,2026-11-18T14:36+00:00
+143431,LA,Louisiana Parkwood Terrace Crime Prev. and Neigh. Imp. Dist. - $100.00 Parcel Fee Renewal - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,322,2026-11-18T14:36+00:00
+143704,LA,Louisiana Member of School Board - District I - Rapides Parish,2026-11-03,99.9,,False,2,1,2852,2026-11-18T14:36+00:00
+143742,LA,"Louisiana Alderman - District A, Town of Delhi",2026-11-03,99.9,,False,2,1,245,2026-11-18T14:36+00:00
+143599,LA,Louisiana Chief of Police - Town of Dubach,2026-11-03,99.9,,False,2,1,286,2026-11-18T14:36+00:00
+143264,LA,Louisiana Justice of the Peace - Justice of the Peace District 4 - Bienville Parish,2026-11-03,99.9,,False,2,1,1242,2026-11-18T14:36+00:00
+143729,LA,Louisiana Fire Protection District No. 18 - 20 Mills Renewal - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,697,2026-11-18T14:36+00:00
+143959,LA,Louisiana Member of School Board - District 1 - Washington Parish,2026-11-03,99.9,,False,2,1,944,2026-11-18T14:36+00:00
+143816,LA,Louisiana Chief of Police - Town of Grand Coteau,2026-11-03,99.9,,False,3,1,389,2026-11-18T14:36+00:00
+143481,LA,Louisiana Justice of the Peace - Justice of the Peace District 1 - Franklin Parish,2026-11-03,99.9,,False,2,1,511,2026-11-18T14:36+00:00
+143555,LA,Louisiana Mayor - City of Carencro,2026-11-03,99.9,,False,3,1,3049,2026-11-18T14:36+00:00
+143604,LA,Louisiana Council Members - City of Grambling,2026-11-03,99.9,,False,8,1,3429,2026-11-18T14:36+00:00
+143984,LA,Louisiana Member of School Board - District 5 - Webster Parish,2026-11-03,99.9,,False,3,1,905,2026-11-18T14:36+00:00
+143649,LA,Louisiana Councilmen - Town of Campti,2026-11-03,99.9,,False,7,1,1250,2026-11-18T14:36+00:00
+143314,LA,Louisiana Constable - Justice of the Peace Ward 2 - Calcasieu Parish,2026-11-03,99.9,,False,3,1,1211,2026-11-18T14:36+00:00
+143964,LA,Louisiana Member of School Board - District 9 - Washington Parish,2026-11-03,99.9,,False,2,1,671,2026-11-18T14:36+00:00
+143418,LA,"Louisiana Constable - Justice of the Peace, District 3",2026-11-03,99.9,,False,3,1,25918,2026-11-18T14:36+00:00
+143691,LA,Louisiana Justice of the Peace - Justice of the Peace District G,2026-11-03,99.9,,False,2,1,1073,2026-11-18T14:36+00:00
+143541,LA,Louisiana Member of School Board - District 2 - Jefferson Davis Parish,2026-11-03,99.9,,False,2,1,720,2026-11-18T14:36+00:00
+143206,LA,Louisiana Aldermen - Village of Mermentau,2026-11-03,99.9,,False,4,1,417,2026-11-18T14:36+00:00
+143586,LA,Louisiana Council Member(s) - Town of Jena,2026-11-03,99.9,,False,8,1,4267,2026-11-18T14:36+00:00
+143443,LA,Louisiana Member of School Board - District 7 - East Feliciana Parish,2026-11-03,99.9,,False,2,1,549,2026-11-18T14:36+00:00
+143908,LA,Louisiana Member of School Board - District 2 - Terrebonne Parish,2026-11-03,99.9,,False,2,1,2313,2026-11-18T14:36+00:00
+143758,LA,Louisiana Constable - Justice of the Peace Ward B,2026-11-03,99.9,,False,3,1,924,2026-11-18T14:36+00:00
+143231,LA,"Louisiana Member of School Board - District 5, Seat B",2026-11-03,99.9,,False,2,1,7173,2026-11-18T14:36+00:00
+143803,LA,Louisiana Member of School Board - District 9 - St. Landry Parish,2026-11-03,99.9,,False,4,1,2518,2026-11-18T14:36+00:00
+143276,LA,"Louisiana Councilman - District 4, Town of Ringgold",2026-11-03,99.9,,False,2,1,104,2026-11-18T14:36+00:00
+143133,LA,"Louisiana District Judge - 40th Judicial District Court, ES 1, Div. B",2026-11-03,99.9,,False,2,1,4029,2026-11-18T14:36+00:00
+143783,LA,Louisiana Constable - Justice of the Peace District 1 - St. James Parish,2026-11-03,99.9,,False,2,1,1083,2026-11-18T14:36+00:00
+143448,LA,"Louisiana Mem(s)., Bd. of Trustees - Town of Jackson",2026-11-03,99.9,,False,4,1,777,2026-11-18T14:36+00:00
+143493,LA,Louisiana Member of School Board - District 12 - Iberia Parish,2026-11-03,99.9,,False,2,1,1222,2026-11-18T14:36+00:00
+143151,LA,Louisiana District Attorney - 20th Judicial District Court,2026-11-03,99.9,,False,2,2,11938,2026-11-18T14:36+00:00
+143808,LA,Louisiana Constable(s) - Justice of the Peace District 6,2026-11-03,99.9,,False,4,1,3922,2026-11-18T14:36+00:00
+143281,LA,Louisiana Constable(s) - Justice of the Peace District 4,2026-11-03,99.9,,False,2,1,240,2026-11-18T14:36+00:00
+143518,LA,Louisiana Alderman at Large - Town of Jonesboro,2026-11-03,99.9,,False,3,1,1305,2026-11-18T14:36+00:00
+143176,LA,"Louisiana Councilman - District G, City of Shreveport",2026-11-03,99.9,,False,3,1,6731,2026-11-18T14:36+00:00
+144025,LA,Louisiana Fire Protection District No. 3 - 12.04 Mills Cont. - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,2932,2026-11-18T14:36+00:00
+143306,LA,Louisiana Aldermen - Town of Blanchard,2026-11-03,99.9,,False,6,1,3771,2026-11-18T14:36+00:00
+143956,LA,Louisiana Aldermen - Town of Hornbeck,2026-11-03,99.9,,False,6,1,436,2026-11-18T14:36+00:00
+143735,LA,Louisiana Member of School Board - District 3 - Richland Parish,2026-11-03,99.9,,False,2,1,584,2026-11-18T14:36+00:00
+143201,LA,"Louisiana Alderman - Ward 2, City of Rayne",2026-11-03,99.9,,False,2,1,467,2026-11-18T14:36+00:00
+143858,LA,Louisiana Water and Sewer Commission No. 3 - 9.08 Mills Continuation - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,1608,2026-11-18T14:36+00:00
+143331,LA,Louisiana Member of School Board - District 1 - Cameron Parish,2026-11-03,99.9,,False,2,1,269,2026-11-18T14:36+00:00
+143981,LA,Louisiana Fire Protection District Number 2 - 8 Mills Renewal - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,844,2026-11-18T14:36+00:00
+143561,LA,"Louisiana Council Member - Division B, City of Youngsville",2026-11-03,99.9,,False,2,1,5820,2026-11-18T14:36+00:00
+143435,LA,Louisiana Chief of Police - Town of Lake Providence,2026-11-03,99.9,,False,5,1,1356,2026-11-18T14:36+00:00
+143100,LA,Louisiana Public Service Commission District 1,2026-11-03,99.9,,False,3,10,299748,2026-11-18T14:36+00:00
+143558,LA,"Louisiana Council Member - District 1, City of Scott",2026-11-03,99.9,,False,2,1,773,2026-11-18T14:36+00:00
+143337,LA,Louisiana Member of School Board - District 1 - Catahoula Parish,2026-11-03,99.9,,False,2,1,277,2026-11-18T14:36+00:00
+143795,LA,Louisiana Member of School Board - District 11 - St. John the Baptist Parish,2026-11-03,99.9,,False,2,1,1153,2026-11-18T14:36+00:00
+143460,LA,Louisiana Mayor - City of Ville Platte,2026-11-03,99.9,,False,2,1,2501,2026-11-18T14:36+00:00
+143317,LA,Louisiana Chief of Police - Town of Iowa,2026-11-03,99.9,,False,2,1,1053,2026-11-18T14:36+00:00
+143583,LA,Louisiana Aldermen - Town of Olla,2026-11-03,99.9,,False,6,1,1173,2026-11-18T14:36+00:00
+143163,LA,Louisiana Chief of Police - Town of Basile,2026-11-03,99.9,,False,2,2,398,2026-11-18T14:36+00:00
+143820,LA,Louisiana Council Member at Large - Town of Washington,2026-11-03,99.9,,False,2,1,395,2026-11-18T14:36+00:00
+143485,LA,Louisiana Member of School Board - District 4 - Grant Parish,2026-11-03,99.9,,False,2,1,724,2026-11-18T14:36+00:00
+143143,LA,Louisiana District Attorney - 2nd Judicial District Court,2026-11-03,99.9,,False,4,3,14995,2026-11-18T14:36+00:00
+143800,LA,Louisiana Member of School Board - District 2 - St. Landry Parish,2026-11-03,99.9,,False,2,1,1762,2026-11-18T14:36+00:00
+143237,LA,Louisiana Member of School Board - Ward 1,2026-11-03,99.9,,False,3,1,1056,2026-11-18T14:36+00:00
+143702,LA,Louisiana Member of School Board - District F - Rapides Parish,2026-11-03,99.9,,False,2,1,3674,2026-11-18T14:36+00:00
+143168,LA,"Louisiana Aldermen - District 2, Town of Basile",2026-11-03,99.9,,False,6,2,671,2026-11-18T14:36+00:00
+143825,LA,"Louisiana Alderman - District B, City of Opelousas",2026-11-03,99.9,,False,5,1,830,2026-11-18T14:36+00:00
+143870,LA,Louisiana Justice(s) of the Peace - Justice of the Peace Ward 7,2026-11-03,99.9,,False,2,1,2923,2026-11-18T14:36+00:00
+143727,LA,"Louisiana Councilman - District 2, City of Alexandria",2026-11-03,99.9,,False,2,1,2376,2026-11-18T14:36+00:00
+143385,LA,Louisiana Justice of the Peace - Justice of the Peace District 2 - De Soto Parish,2026-11-03,99.9,,False,2,1,2568,2026-11-18T14:36+00:00
+143850,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 10 - St. Mary Parish,2026-11-03,99.9,,False,2,1,881,2026-11-18T14:36+00:00
+143287,LA,Louisiana Member of School Board - District 6 - Caddo Parish,2026-11-03,99.9,,False,3,1,4193,2026-11-18T14:36+00:00
+143553,LA,"Louisiana City Judge - City Court, Division B, City of Lafayette",2026-11-03,99.9,,False,3,1,38121,2026-11-18T14:36+00:00
+143410,LA,"Louisiana Member of School Board - District 8, Zachary Community",2026-11-03,99.9,,False,2,1,908,2026-11-18T14:36+00:00
+143683,LA,Louisiana Parishwide Proposition - 1% S&U Tax Reded. - PC - In Perp.,2026-11-03,99.9,,False,2,1,7459,2026-11-18T14:36+00:00
+143732,LA,Louisiana Member of School Board - District 5 - Red River Parish,2026-11-03,99.9,,False,2,1,391,2026-11-18T14:36+00:00
+143120,LA,"Louisiana District Judge - 19th Judicial District Court, ES 1, Div. M",2026-11-03,99.9,,False,3,1,60425,2026-11-18T14:36+00:00
+143770,LA,Louisiana Member of School Board - District 3 - St. Helena Parish,2026-11-03,99.9,,False,4,1,769,2026-11-18T14:36+00:00
+143644,LA,Louisiana Chief of Police - Town of Campti,2026-11-03,99.9,,False,4,1,311,2026-11-18T14:36+00:00
+143117,LA,"Louisiana District Judge - 18th Judicial District Court, ES 1, Div. C",2026-11-03,99.9,,False,3,1,6544,2026-11-18T14:36+00:00
+143689,LA,Louisiana Justice of the Peace - Justice of the Peace District A - Pointe Coupee Parish,2026-11-03,99.9,,False,2,1,852,2026-11-18T14:36+00:00
+143155,LA,Louisiana District Attorney - 35th Judicial District Court,2026-11-03,99.9,,False,2,1,6259,2026-11-18T14:36+00:00
+144004,LA,Louisiana Aldermen - Village of Epps,2026-11-03,99.9,,False,4,1,270,2026-11-18T14:36+00:00
+143861,LA,"Louisiana City Judge - City Court, East St. Tammany",2026-11-03,99.9,,False,3,1,33535,2026-11-18T14:36+00:00
+143334,LA,Louisiana Member of School Board - District 6 - Cameron Parish,2026-11-03,99.9,,False,2,1,308,2026-11-18T14:36+00:00
+143714,LA,Louisiana Mayor - Town of Glenmora,2026-11-03,99.9,,False,2,1,507,2026-11-18T14:36+00:00
+143372,LA,Louisiana Justice of the Peace - Justice of the Peace District 5A,2026-11-03,99.9,,False,2,1,578,2026-11-18T14:36+00:00
+143229,LA,Louisiana Member of School Board - District 3 - Ascension Parish,2026-11-03,99.9,,False,2,1,3474,2026-11-18T14:36+00:00
+143694,LA,Louisiana Mayor - City of New Roads,2026-11-03,99.9,,False,3,1,2025,2026-11-18T14:36+00:00
+143160,LA,Louisiana Mayor - City of Shreveport,2026-11-03,99.9,,False,7,2,54553,2026-11-18T14:36+00:00
+143739,LA,Louisiana Constable - Justice of the Peace Ward 4 - Richland Parish,2026-11-03,99.9,,False,2,1,691,2026-11-18T14:36+00:00
+143589,LA,Louisiana Police Juror - District 9,2026-11-03,99.9,,False,2,1,605,2026-11-18T14:36+00:00
+143446,LA,Louisiana Aldermen - Town of Slaughter,2026-11-03,99.9,,False,2,1,387,2026-11-18T14:36+00:00
+143911,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 4 - Terrebonne Parish,2026-11-03,99.9,,False,2,1,942,2026-11-18T14:36+00:00
+143377,LA,Louisiana Aldermen - Village of Ridgecrest,2026-11-03,99.9,,False,5,1,298,2026-11-18T14:36+00:00
+143614,LA,Louisiana Councilmen - Town of Albany,2026-11-03,99.9,,False,7,1,1183,2026-11-18T14:36+00:00
+143279,LA,Louisiana Fire Protection District No. 6 - 7.85 Mills Cont. - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,712,2026-11-18T14:36+00:00
+143936,LA,Louisiana Mayor - Town of Gueydan,2026-11-03,99.9,,False,3,1,369,2026-11-18T14:36+00:00
+143402,LA,Louisiana Member of School Board - District 4 - East Baton Rouge Parish,2026-11-03,99.9,,False,2,1,12750,2026-11-18T14:36+00:00
+143831,LA,Louisiana Aldermen - Village of Palmetto,2026-11-03,99.9,,False,4,1,100,2026-11-18T14:36+00:00
+143304,LA,"Louisiana Alderman - Ward 2, Town of Vivian",2026-11-03,99.9,,False,2,1,186,2026-11-18T14:36+00:00
+143954,LA,Louisiana Constable - Justice of the Peace Ward 8 - Vernon Parish,2026-11-03,99.9,,False,2,1,664,2026-11-18T14:36+00:00
+143427,LA,"Louisiana Councilman - District 4, City of Zachary",2026-11-03,99.9,,False,2,1,1455,2026-11-18T14:36+00:00
+143284,LA,Louisiana Member of School Board - District 2 - Caddo Parish,2026-11-03,99.9,,False,3,1,4684,2026-11-18T14:36+00:00
+143664,LA,"Louisiana Member of School Board - District 1, City of Monroe",2026-11-03,99.9,,False,2,1,1436,2026-11-18T14:36+00:00
+143329,LA,Louisiana Mayor - Village of Grayson,2026-11-03,99.9,,False,3,1,180,2026-11-18T14:36+00:00
+143787,LA,Louisiana Chief of Police - Town of Gramercy,2026-11-03,99.9,,False,2,1,1300,2026-11-18T14:36+00:00
+143661,LA,Louisiana Member of School Board - District A - Ouachita Parish,2026-11-03,99.9,,False,2,1,5008,2026-11-18T14:36+00:00
+143433,LA,Louisiana Member of School Board - District 3 - East Carroll Parish,2026-11-03,99.9,,False,3,1,370,2026-11-18T14:36+00:00
+143706,LA,"Louisiana Justice of the Peace - Justice of the Peace Ward 5, 1st Just. Court",2026-11-03,99.9,,False,2,1,1606,2026-11-18T14:36+00:00
+143364,LA,Louisiana Sales Tax District - 1.375% S&U Tax - PJ - 10 Yrs.,2026-11-03,99.9,,False,2,1,3026,2026-11-18T14:36+00:00
+143413,LA,"Louisiana Justice of the Peace - Justice of the Peace, District 3",2026-11-03,99.9,,False,3,1,26281,2026-11-18T14:36+00:00
+143686,LA,Louisiana Member of School Board - District C - Pointe Coupee Parish,2026-11-03,99.9,,False,2,1,852,2026-11-18T14:36+00:00
+143266,LA,Louisiana Mayor - Town of Arcadia,2026-11-03,99.9,,False,4,1,1113,2026-11-18T14:36+00:00
+143923,LA,Louisiana Member of School Board - District 8 - Union Parish,2026-11-03,99.9,,False,2,1,944,2026-11-18T14:36+00:00
+143581,LA,Louisiana Mayor - Town of Urania,2026-11-03,99.9,,False,2,1,188,2026-11-18T14:36+00:00
+143438,LA,Louisiana Member of School Board - District 1 - East Feliciana Parish,2026-11-03,99.9,,False,3,1,581,2026-11-18T14:36+00:00
+143711,LA,Louisiana Mayor - City of Alexandria,2026-11-03,99.9,,False,3,1,12374,2026-11-18T14:36+00:00
+143291,LA,Louisiana Member of School Board - District 12 - Caddo Parish,2026-11-03,99.9,,False,3,1,6034,2026-11-18T14:36+00:00
+143941,LA,Louisiana Cons. Grav. Drain. Dist. No. 1 - 16 Mills Renewal - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,3260,2026-11-18T14:36+00:00
+143798,LA,"Louisiana City Marshal - City Court, City of Opelousas",2026-11-03,99.9,,False,3,1,9959,2026-11-18T14:36+00:00
+143463,LA,Louisiana Chief of Police - City of Ville Platte,2026-11-03,99.9,,False,2,1,2421,2026-11-18T14:36+00:00
+143928,LA,Louisiana Chief of Police - Town of Marion,2026-11-03,99.9,,False,3,1,228,2026-11-18T14:36+00:00
+143966,LA,"Louisiana Member of School Board - District 2, City of Bogalusa",2026-11-03,99.9,,False,2,1,756,2026-11-18T14:36+00:00
+143823,LA,"Louisiana Alderman - District 4, Town of Sunset",2026-11-03,99.9,,False,2,1,317,2026-11-18T14:36+00:00
+143296,LA,Louisiana Constable - Justice of the Peace Ward 8 - Caddo Parish,2026-11-03,99.9,,False,2,1,7501,2026-11-18T14:36+00:00
+143754,LA,Louisiana Councilmen - Town of Zwolle,2026-11-03,99.9,,False,9,1,2380,2026-11-18T14:36+00:00
+143191,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 3 - Acadia Parish,2026-11-03,99.9,,False,2,1,2668,2026-11-18T14:36+00:00
+143848,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 7 - St. Mary Parish,2026-11-03,99.9,,False,2,1,328,2026-11-18T14:36+00:00
+143513,LA,Louisiana Member of School Board - District 7 - Jackson Parish,2026-11-03,99.9,,False,4,1,686,2026-11-18T14:36+00:00
+143779,LA,Louisiana Member of School Board - District 3 - St. James Parish,2026-11-03,99.9,,False,2,1,1231,2026-11-18T14:36+00:00
+143828,LA,"Louisiana Alderman - District E, City of Opelousas",2026-11-03,99.9,,False,3,1,810,2026-11-18T14:36+00:00
+143216,LA,Louisiana Mayor - Village of Reeves,2026-11-03,99.9,,False,2,1,130,2026-11-18T14:36+00:00
+143681,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 6 - Plaquemines Parish,2026-11-03,99.9,,False,4,1,4259,2026-11-18T14:36+00:00
+143538,LA,Louisiana City of Gretna (Police) - 8.00 Mills - CC - 10 Yrs.,2026-11-03,99.9,,False,2,1,4744,2026-11-18T14:36+00:00
+143196,LA,Louisiana Chief of Police - City of Crowley,2026-11-03,99.9,,False,2,1,3257,2026-11-18T14:36+00:00
+143785,LA,Louisiana Mayor - Town of Gramercy,2026-11-03,99.9,,False,2,1,1296,2026-11-18T14:36+00:00
+143450,LA,Louisiana Member of School Board - District 2 - Evangeline Parish,2026-11-03,99.9,,False,2,1,697,2026-11-18T14:36+00:00
+143915,LA,Louisiana PW Prop. No. 2 of 2 (Drainage Maintenance) - 7.31 Mills Renewal - PC - 10 Yrs.,2026-11-03,99.9,,False,2,1,27229,2026-11-18T14:36+00:00
+143765,LA,Louisiana Constable - Justice of the Peace District 1 - St. Charles Parish,2026-11-03,99.9,,False,2,1,2550,2026-11-18T14:36+00:00
+143430,LA,Louisiana Cross Gates Sub. Crime Prev. and Neigh. Imp. Dist. - $150 Parcel Fee - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,72,2026-11-18T14:36+00:00
+143810,LA,Louisiana Mayor - Town of Grand Coteau,2026-11-03,99.9,,False,4,1,394,2026-11-18T14:36+00:00
+143475,LA,Louisiana Road District No. 2 - 15.00 Mills Renewal - PJ - 10 Yrs.,2026-11-03,99.9,,False,2,1,926,2026-11-18T14:36+00:00
+143140,LA,"Louisiana Magistrate - Magistrate Section, Criminal District Court",2026-11-03,99.9,,False,2,1,119317,2026-11-18T14:36+00:00
+143790,LA,Louisiana District V Recreation District - $3M Bond - PC - 20 Yrs.,2026-11-03,99.9,,False,2,1,1158,2026-11-18T14:36+00:00
+143263,LA,Louisiana Member of School Board - District 4 - Bienville Parish,2026-11-03,99.9,,False,2,1,607,2026-11-18T14:36+00:00
+143835,LA,Louisiana Council Member(s) - Town of Leonville,2026-11-03,99.9,,False,7,1,1393,2026-11-18T14:36+00:00
+143308,LA,Louisiana Parishwide Proposition - $60M Bond - PC - 25 Yrs.,2026-11-03,99.9,,False,2,1,67511,2026-11-18T14:36+00:00
+143158,LA,"Louisiana City Marshal - City Court, City of Eunice",2026-11-03,99.9,,False,2,2,3473,2026-11-18T14:36+00:00
+144007,LA,Louisiana Member of School Board - District 5 - West Feliciana Parish,2026-11-03,99.9,,False,2,1,596,2026-11-18T14:36+00:00
+143480,LA,Louisiana Cemetery District No. 6 - 1.12 Mills Renewal - PJ - 10 Yrs.,2026-11-03,99.9,,False,2,1,703,2026-11-18T14:36+00:00
+143717,LA,Louisiana Chief of Police - Town of Glenmora,2026-11-03,99.9,,False,2,1,499,2026-11-18T14:36+00:00
+143375,LA,Louisiana Constable - Justice of the Peace District 3 - Concordia Parish,2026-11-03,99.9,,False,2,1,1227,2026-11-18T14:36+00:00
+143840,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 3 - St. Martin Parish,2026-11-03,99.9,,False,2,1,2181,2026-11-18T14:36+00:00
+143313,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 1 - Calcasieu Parish,2026-11-03,99.9,,False,2,1,6741,2026-11-18T14:36+00:00
+143543,LA,Louisiana Member of School Board - District 7 - Jefferson Davis Parish,2026-11-03,99.9,,False,2,1,892,2026-11-18T14:36+00:00
+143400,LA,"Louisiana Member of School Board - District 3, City of Baker",2026-11-03,99.9,,False,3,1,527,2026-11-18T14:36+00:00
+143257,LA,Louisiana Road District Number Six - 23.04 Mills Renewal - PJ - 10 Yrs.,2026-11-03,99.9,,False,2,1,2087,2026-11-18T14:36+00:00
+143530,LA,Louisiana Member of School Board - District 9 - Jefferson Parish,2026-11-03,99.9,,False,2,1,10960,2026-11-18T14:36+00:00
+143188,LA,Louisiana Member of School Board - District 2 - Acadia Parish,2026-11-03,99.9,,False,2,1,2757,2026-11-18T14:36+00:00
+143760,LA,Louisiana Member of School Board - District 5 - St. Charles Parish,2026-11-03,99.9,,False,2,1,2173,2026-11-18T14:36+00:00
+143425,LA,"Louisiana Councilman - District 2, City of Zachary",2026-11-03,99.9,,False,3,1,1698,2026-11-18T14:36+00:00
+143890,LA,Louisiana Mayor - Town of Kentwood,2026-11-03,99.9,,False,3,1,766,2026-11-18T14:36+00:00
+143548,LA,Louisiana Chief of Police - Town of Elton,2026-11-03,99.9,,False,2,1,333,2026-11-18T14:36+00:00
+143213,LA,Louisiana Member of School Board - District 8 - Allen Parish,2026-11-03,99.9,,False,2,1,897,2026-11-18T14:36+00:00
+143994,LA,"Louisiana Alderman - District 2, City of Springhill",2026-11-03,99.9,,False,2,1,177,2026-11-18T14:36+00:00
+143467,LA,"Louisiana Alderman - District 3, Town of Mamou",2026-11-03,99.9,,False,3,1,209,2026-11-18T14:36+00:00
+143324,LA,Louisiana City of DeQuincy - 1/2% S&U Tax Renewal - CC - 15 Yrs.,2026-11-03,99.9,,False,2,1,801,2026-11-18T14:36+00:00
+143782,LA,Louisiana Justice of the Peace - Justice of the Peace District 2 - St. James Parish,2026-11-03,99.9,,False,2,1,1532,2026-11-18T14:36+00:00
+143170,LA,Louisiana Aldermen - Town of Duson,2026-11-03,99.9,,False,7,2,1484,2026-11-18T14:36+00:00
+144019,LA,Louisiana Member of School Board - District 6 - Winn Parish,2026-11-03,99.9,,False,2,1,238,2026-11-18T14:36+00:00
+143492,LA,Louisiana Member of School Board - District 11 - Iberia Parish,2026-11-03,99.9,,False,2,1,1530,2026-11-18T14:36+00:00
+143342,LA,Louisiana Mayor - Village of Harrisonburg,2026-11-03,99.9,,False,2,1,160,2026-11-18T14:36+00:00
+143807,LA,Louisiana Constable - Justice of the Peace District 8,2026-11-03,99.9,,False,2,1,1033,2026-11-18T14:36+00:00
+143387,LA,Louisiana Constable - Justice of the Peace District 2 - De Soto Parish,2026-11-03,99.9,,False,2,1,2688,2026-11-18T14:36+00:00
+143852,LA,Louisiana Mayor - City of Patterson,2026-11-03,99.9,,False,2,1,2092,2026-11-18T14:36+00:00
+143709,LA,Louisiana Constable - Justice of the Peace Ward 11,2026-11-03,99.9,,False,3,1,3996,2026-11-18T14:36+00:00
+143367,LA,"Louisiana Member of School Board - District 1, Place B",2026-11-03,99.9,,False,2,1,1019,2026-11-18T14:36+00:00
+144024,LA,Louisiana Aldermen - Village of Dodson,2026-11-03,99.9,,False,4,1,178,2026-11-18T14:36+00:00
+143269,LA,Louisiana Chief of Police - Town of Ringgold,2026-11-03,99.9,,False,2,1,462,2026-11-18T14:36+00:00
+143926,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 2 - Union Parish,2026-11-03,99.9,,False,2,1,2391,2026-11-18T14:36+00:00
+143392,LA,"Louisiana City Judge - City Court, City of Baker",2026-11-03,99.9,,False,2,1,3991,2026-11-18T14:36+00:00
+143857,LA,Louisiana Parishwide Home Rule Charter Amendment - Charter Amendment - PC,2026-11-03,99.9,,False,2,1,14138,2026-11-18T14:36+00:00
+143102,LA,Louisiana BESE District 1,2026-11-03,99.9,,False,2,4,200792,2026-11-18T14:36+00:00
+143752,LA,Louisiana Chief of Police - Town of Zwolle,2026-11-03,99.9,,False,2,1,542,2026-11-18T14:36+00:00
+143609,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 10 - Livingston Parish,2026-11-03,99.9,,False,2,1,733,2026-11-18T14:36+00:00
+143882,LA,Louisiana Drainage District No. 4 - $253.00 Parcel Fee Renewal - BOC - 5 Yrs.,2026-11-03,99.9,,False,2,1,1153,2026-11-18T14:36+00:00
+143540,LA,Louisiana Police Juror - District 12,2026-11-03,99.9,,False,2,1,761,2026-11-18T14:36+00:00
+143319,LA,"Louisiana Council Member - District B, Town of Iowa",2026-11-03,99.9,,False,3,1,280,2026-11-18T14:36+00:00
+143777,LA,Louisiana Member of School Board - District 1 - St. James Parish,2026-11-03,99.9,,False,2,1,1261,2026-11-18T14:36+00:00
+143634,LA,Louisiana PW Prop. No. 2 of 2 (Morehouse Activity Complex) - 1.00 Mill - PJ - 5 Yrs.,2026-11-03,99.9,,False,2,1,6732,2026-11-18T14:36+00:00
+143907,LA,Louisiana Member of School Board - District 1 - Terrebonne Parish,2026-11-03,99.9,,False,3,1,2017,2026-11-18T14:36+00:00
+143757,LA,Louisiana Justice of the Peace - Justice of the Peace Ward D,2026-11-03,99.9,,False,2,1,624,2026-11-18T14:36+00:00
+143145,LA,Louisiana District Attorney - 6th Judicial District Court,2026-11-03,99.9,,False,2,3,6626,2026-11-18T14:36+00:00
+144011,LA,Louisiana Parishwide Proposition No. 2 of 3 - 1 Mill Renewal - PJ - 10 Yrs.,2026-11-03,99.9,,False,2,1,4570,2026-11-18T14:36+00:00
+143676,LA,Louisiana Member of Parish Council - District 6,2026-11-03,99.9,,False,3,1,521,2026-11-18T14:36+00:00
+143142,LA,Louisiana District Attorney - 1st Judicial District Court,2026-11-03,99.9,,False,4,1,71688,2026-11-18T14:36+00:00
+143913,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 8 - Terrebonne Parish,2026-11-03,99.9,,False,2,1,696,2026-11-18T14:36+00:00
+143379,LA,Louisiana Member of School Board - District 4 - De Soto Parish,2026-11-03,99.9,,False,2,1,745,2026-11-18T14:36+00:00
+143236,LA,Louisiana Constable - 3rd Justice Court,2026-11-03,99.9,,False,2,1,15562,2026-11-18T14:36+00:00
+143893,LA,Louisiana Aldermen - Town of Independence,2026-11-03,99.9,,False,2,1,534,2026-11-18T14:36+00:00
+143167,LA,"Louisiana Alderman - Ward 4, City of Eunice",2026-11-03,99.9,,False,2,1,497,2026-11-18T14:36+00:00
+143938,LA,Louisiana Chief of Police - Town of Maurice,2026-11-03,99.9,,False,2,1,1000,2026-11-18T14:36+00:00
+143404,LA,"Louisiana Member of School Board - District 4, Zachary Community",2026-11-03,99.9,,False,2,1,1542,2026-11-18T14:36+00:00
+143261,LA,Louisiana Waterworks District No. 5 - 16.29 Mills Cont. - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,134,2026-11-18T14:36+00:00
+143918,LA,Louisiana Recreation District No. 6 - 15 Mills Renewal - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,605,2026-11-18T14:36+00:00
+143384,LA,Louisiana Member of School Board - District 11 - De Soto Parish,2026-11-03,99.9,,False,3,1,745,2026-11-18T14:36+00:00
+143813,LA,Louisiana Mayor - Town of Sunset,2026-11-03,99.9,,False,2,1,1173,2026-11-18T14:36+00:00
+143478,LA,Louisiana Cemetery District No. 1 - 1.12 Mills Renewal - PJ - 10 Yrs.,2026-11-03,99.9,,False,2,1,2342,2026-11-18T14:36+00:00
+143744,LA,"Louisiana Alderman - District C, Town of Delhi",2026-11-03,99.9,,False,2,1,184,2026-11-18T14:36+00:00
+143409,LA,Louisiana Member of School Board - District 8 - East Baton Rouge Parish,2026-11-03,99.9,,False,2,1,17856,2026-11-18T14:36+00:00
+143646,LA,Louisiana Chief of Police - Village of Provencal,2026-11-03,99.9,,False,2,1,218,2026-11-18T14:36+00:00
+143311,LA,Louisiana Member of School Board - District 1 - Calcasieu Parish,2026-11-03,99.9,,False,2,1,4121,2026-11-18T14:36+00:00
+143961,LA,Louisiana Member of School Board - District 4 - Washington Parish,2026-11-03,99.9,,False,2,1,959,2026-11-18T14:36+00:00
+143626,LA,Louisiana Member of School Board - District 2 - Morehouse Parish,2026-11-03,99.9,,False,3,1,1024,2026-11-18T14:36+00:00
+143863,LA,Louisiana Member of School Board - District 1 - St. Tammany Parish,2026-11-03,99.9,,False,2,1,6462,2026-11-18T14:36+00:00
+143528,LA,Louisiana Member of School Board - District 6 - Jefferson Parish,2026-11-03,99.9,,False,2,1,11687,2026-11-18T14:36+00:00
+143986,LA,Louisiana Member of School Board - District 8 - Webster Parish,2026-11-03,99.9,,False,3,1,989,2026-11-18T14:36+00:00
+143459,LA,Louisiana Constable(s) - Justice of the Peace Ward 3,2026-11-03,99.9,,False,2,1,2055,2026-11-18T14:36+00:00
+143316,LA,Louisiana Mayor - Town of Iowa,2026-11-03,99.9,,False,4,1,1045,2026-11-18T14:36+00:00
+143696,LA,Louisiana Aldermen - Town of Fordoche,2026-11-03,99.9,,False,7,1,1541,2026-11-18T14:36+00:00
+143354,LA,Louisiana Member of School Board - District 8 - Claiborne Parish,2026-11-03,99.9,,False,2,1,522,2026-11-18T14:36+00:00
+143420,LA,"Louisiana Constable - Justice of the Peace, District 6",2026-11-03,99.9,,False,2,1,33746,2026-11-18T14:36+00:00
+143693,LA,Louisiana Constable - Justice of the Peace District D,2026-11-03,99.9,,False,2,1,1021,2026-11-18T14:36+00:00
+143465,LA,"Louisiana Alderman - District 1, Town of Mamou",2026-11-03,99.9,,False,2,1,323,2026-11-18T14:36+00:00
+143930,LA,Louisiana Parishwide Proposition - 12 Mills - PJ - 10 Yrs.,2026-11-03,99.9,,False,2,1,7265,2026-11-18T14:36+00:00
+143588,LA,Louisiana Whitehall Fire District Prop. No. 2 of 2 - 10.05 Mills Renewal - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,458,2026-11-18T14:36+00:00
+143637,LA,"Louisiana City Marshal - City Court, City of Natchitoches",2026-11-03,99.9,,False,2,1,6708,2026-11-18T14:36+00:00
+143910,LA,Louisiana Member of School Board - District 9 - Terrebonne Parish,2026-11-03,99.9,,False,2,1,2936,2026-11-18T14:36+00:00
+143298,LA,Louisiana Mayor - Town of Blanchard,2026-11-03,99.9,,False,2,1,1254,2026-11-18T14:36+00:00
+143948,LA,Louisiana Member of School Board - District 7 - Vernon Parish,2026-11-03,99.9,,False,2,1,1089,2026-11-18T14:36+00:00
+143805,LA,Louisiana Member of School Board - District 12 - St. Landry Parish,2026-11-03,99.9,,False,2,1,1519,2026-11-18T14:36+00:00
+143470,LA,"Louisiana Alderman - District E, City of Ville Platte",2026-11-03,99.9,,False,2,1,436,2026-11-18T14:36+00:00
+143935,LA,Louisiana Mayor - Town of Erath,2026-11-03,99.9,,False,2,1,782,2026-11-18T14:36+00:00
+143323,LA,Louisiana School District No. 30 - $74M Bond - SB - 25 Yrs.,2026-11-03,99.9,,False,2,1,8157,2026-11-18T14:36+00:00
+143173,LA,"Louisiana Councilman - District C, City of Shreveport",2026-11-03,99.9,,False,2,2,9259,2026-11-18T14:36+00:00
+144022,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 10 - Winn Parish,2026-11-03,99.9,,False,2,1,398,2026-11-18T14:36+00:00
+143495,LA,Louisiana City of New Iberia - Amends Section 3-06 - CC,2026-11-03,99.9,,False,2,1,6724,2026-11-18T14:36+00:00
+143953,LA,Louisiana Constable - Justice of the Peace Ward 5 - Vernon Parish,2026-11-03,99.9,,False,2,1,710,2026-11-18T14:36+00:00
+143198,LA,Louisiana Chief of Police - Village of Mermentau,2026-11-03,99.9,,False,2,1,169,2026-11-18T14:36+00:00
+143855,LA,Louisiana Council Member(s) - City of Patterson,2026-11-03,99.9,,False,11,1,8614,2026-11-18T14:36+00:00
+143520,LA,"Louisiana Alderman - District C, Town of Jonesboro",2026-11-03,99.9,,False,3,1,385,2026-11-18T14:36+00:00
+143978,LA,"Louisiana Councilman - District C, City of Bogalusa",2026-11-03,99.9,,False,3,1,639,2026-11-18T14:36+00:00
+143415,LA,"Louisiana Justice of the Peace - Justice of the Peace, District 5",2026-11-03,99.9,,False,3,1,31779,2026-11-18T14:36+00:00
+143880,LA,Louisiana Aldermen - Town of Pearl River,2026-11-03,99.9,,False,8,1,3920,2026-11-18T14:36+00:00
+143737,LA,Louisiana Member of School Board - District 9 - Richland Parish,2026-11-03,99.9,,False,2,1,645,2026-11-18T14:36+00:00
+144003,LA,Louisiana Justice of the Peace - Justice of the Peace District 1 - West Carroll Parish,2026-11-03,99.9,,False,2,1,456,2026-11-18T14:36+00:00
+143860,LA,Louisiana Sheriff,2026-11-03,99.9,,False,4,1,98086,2026-11-18T14:36+00:00
+143440,LA,"Louisiana Member of School Board - District 3, Division 2",2026-11-03,99.9,,False,2,1,1501,2026-11-18T14:36+00:00
+143905,LA,Louisiana Parishwide Proposition - 14.32 Mills Cont. - PJ - 10 Yrs.,2026-11-03,99.9,,False,2,1,1607,2026-11-18T14:36+00:00
+143563,LA,Louisiana Council Member(s) - City of Carencro,2026-11-03,99.9,,False,8,1,10356,2026-11-18T14:36+00:00
+143437,LA,Louisiana Parishwide Hospital Service District - 10.57 Mills Renewal - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,2006,2026-11-18T14:36+00:00
+144009,LA,"Louisiana Aldermen - Election Section 2, Town of St. Francisville",2026-11-03,99.9,,False,2,1,451,2026-11-18T14:36+00:00
+143482,LA,Louisiana Mayor - Town of Wisner,2026-11-03,99.9,,False,2,1,260,2026-11-18T14:36+00:00
+143940,LA,"Louisiana Councilman - District A, City of Abbeville",2026-11-03,99.9,,False,2,1,717,2026-11-18T14:36+00:00
+143989,LA,Louisiana Member of School Board - District 11 - Webster Parish,2026-11-03,99.9,,False,2,1,943,2026-11-18T14:36+00:00
+143462,LA,Louisiana Mayor - Village of Chataignier,2026-11-03,99.9,,False,5,1,133,2026-11-18T14:36+00:00
+143842,LA,Louisiana Mayor - Village of Parks,2026-11-03,99.9,,False,2,1,330,2026-11-18T14:36+00:00
+143507,LA,Louisiana Constable - Justice of the Peace Ward 6 - Iberville Parish,2026-11-03,99.9,,False,2,1,2085,2026-11-18T14:36+00:00
+143165,LA,"Louisiana Alderman - Ward 1, City of Eunice",2026-11-03,99.9,,False,2,1,561,2026-11-18T14:36+00:00
+144014,LA,"Louisiana City Marshal - City Court, City of Winnfield",2026-11-03,99.9,,False,2,1,3485,2026-11-18T14:36+00:00
+143295,LA,Louisiana Constable - Justice of the Peace Ward 7,2026-11-03,99.9,,False,2,1,7402,2026-11-18T14:36+00:00
+143867,LA,Louisiana Member of School Board - District 9 - St. Tammany Parish,2026-11-03,99.9,,False,2,1,6518,2026-11-18T14:36+00:00
+143532,LA,Louisiana Justice of the Peace - 4th Justice Court,2026-11-03,99.9,,False,2,1,504,2026-11-18T14:36+00:00
+143382,LA,Louisiana Member of School Board - District 9 - De Soto Parish,2026-11-03,99.9,,False,2,1,838,2026-11-18T14:36+00:00
+143239,LA,Louisiana Justice of the Peace - 1st Justice of the Peace Ward,2026-11-03,99.9,,False,3,1,2518,2026-11-18T14:36+00:00
+143512,LA,Louisiana Member of School Board - District 6 - Jackson Parish,2026-11-03,99.9,,False,2,1,605,2026-11-18T14:36+00:00
+143550,LA,Louisiana Council Member(s) - Town of Lake Arthur,2026-11-03,99.9,,False,9,1,2864,2026-11-18T14:36+00:00
+143407,LA,Louisiana Member of School Board - District 6 - East Baton Rouge Parish,2026-11-03,99.9,,False,3,1,17028,2026-11-18T14:36+00:00
+143872,LA,Louisiana Constable(s) - Justice of the Peace Ward 2 - St. Tammany Parish,2026-11-03,99.9,,False,3,1,6139,2026-11-18T14:36+00:00
+143537,LA,Louisiana City of Gretna (Ambulance) - 4.00 Mills - CC - 10 Yrs.,2026-11-03,99.9,,False,2,1,4750,2026-11-18T14:36+00:00
+143767,LA,Louisiana PW Proposition No. 2 of 2 (Council on Aging) - 1.25 Mills In-Lieu - PC - 10 Yrs.,2026-11-03,99.9,,False,2,1,17961,2026-11-18T14:36+00:00
+143624,LA,Louisiana Justice of the Peace - Justice of the Peace Districts 7 & 8,2026-11-03,99.9,,False,2,1,919,2026-11-18T14:36+00:00
+143289,LA,Louisiana Member of School Board - District 9 - Caddo Parish,2026-11-03,99.9,,False,2,1,8461,2026-11-18T14:36+00:00
+143363,LA,"Louisiana Selectman - District 3, Town of Homer",2026-11-03,0,,False,2,1,0,2026-11-18T14:36+00:00
+143412,LA,"Louisiana Justice of the Peace - Justice of the Peace Ward 2, District 3 (Unexpired Term)",2026-11-03,99.9,,False,3,1,9229,2026-11-18T14:36+00:00
+143792,LA,Louisiana Member of School Board - District 2 - St. John the Baptist Parish,2026-11-03,99.9,,False,2,1,1176,2026-11-18T14:36+00:00
+143457,LA,Louisiana Justice(s) of the Peace - Justice of the Peace Ward 5,2026-11-03,99.9,,False,2,1,1130,2026-11-18T14:36+00:00
+143122,LA,"Louisiana District Judge - 22nd Judicial District Court, Division E",2026-11-03,99.9,,False,2,2,103017,2026-11-18T14:36+00:00
+143772,LA,Louisiana Member of School Board - District 5 - St. Helena Parish,2026-11-03,99.9,,False,3,1,558,2026-11-18T14:36+00:00
+143226,LA,Louisiana Fire Protection District No. 5 - 13.49 Mills Renewal - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,1059,2026-11-18T14:36+00:00
+143499,LA,Louisiana Member of School Board - District C - Iberville Parish,2026-11-03,99.9,,False,3,1,1984,2026-11-18T14:36+00:00
+143349,LA,Louisiana Aldermen - Village of Harrisonburg,2026-11-03,99.9,,False,5,1,386,2026-11-18T14:36+00:00
+144006,LA,Louisiana Member of School Board - District 4 - West Feliciana Parish,2026-11-03,99.9,,False,3,1,487,2026-11-18T14:36+00:00
+143394,LA,"Louisiana Member of School Board - District 1, City of Baker",2026-11-03,99.9,,False,2,1,925,2026-11-18T14:36+00:00
+143251,LA,Louisiana Parishwide Proposition - 4 Mills Ext. & Reded. - PJ - 10 Yrs.,2026-11-03,99.9,,False,2,1,11730,2026-11-18T14:36+00:00
+143716,LA,Louisiana Chief of Police - Town of Boyce,2026-11-03,99.9,,False,2,1,370,2026-11-18T14:36+00:00
+143566,LA,Louisiana Justice of the Peace - 1st Justice of the Peace Court,2026-11-03,99.9,,False,3,1,7084,2026-11-18T14:36+00:00
+143839,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 2 - St. Martin Parish,2026-11-03,99.9,,False,4,1,1402,2026-11-18T14:36+00:00
+143611,LA,Louisiana Constable - Justice of the Peace Ward 9 - Livingston Parish,2026-11-03,99.9,,False,2,1,2301,2026-11-18T14:36+00:00
+143884,LA,Louisiana Member of School Board - District C - Tangipahoa Parish,2026-11-03,99.9,,False,2,1,4124,2026-11-18T14:36+00:00
+143933,LA,Louisiana Member of School Board - District F - Vermilion Parish,2026-11-03,99.9,,False,2,1,1316,2026-11-18T14:36+00:00
+143591,LA,Louisiana Member of School Board - District 2 - Lincoln Parish,2026-11-03,99.9,,False,2,1,476,2026-11-18T14:36+00:00
+143256,LA,Louisiana Constable - Justice of the Peace District 4,2026-11-03,99.9,,False,4,1,2800,2026-11-18T14:36+00:00
+143301,LA,Louisiana Chief of Police - Town of Blanchard,2026-11-03,99.9,,False,2,1,1245,2026-11-18T14:36+00:00
+143951,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 7 - Vernon Parish,2026-11-03,99.9,,False,2,1,1620,2026-11-18T14:36+00:00
+143616,LA,Louisiana Fire Protection Dist. No. 9 - 10.38 Mills Renewal - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,1276,2026-11-18T14:36+00:00
+143889,LA,Louisiana Mayor - City of Hammond,2026-11-03,99.9,,False,4,1,5126,2026-11-18T14:36+00:00
+143326,LA,Louisiana Member of School Board - District 3 - Caldwell Parish,2026-11-03,99.9,,False,2,1,454,2026-11-18T14:36+00:00
+143976,LA,"Louisiana Councilman - District A, City of Bogalusa",2026-11-03,99.9,,False,2,1,603,2026-11-18T14:36+00:00
+143833,LA,"Louisiana Council Member - District 3, Town of Washington",2026-11-03,99.9,,False,2,1,77,2026-11-18T14:36+00:00
+143114,LA,"Louisiana District Judge - 15th Judicial District Court, ES 3, Div. I",2026-11-03,99.9,,False,2,1,55192,2026-11-18T14:36+00:00
+143764,LA,Louisiana Justice of the Peace - Justice of the Peace District 5 - St. Charles Parish,2026-11-03,99.9,,False,2,1,2131,2026-11-18T14:36+00:00
+143344,LA,Louisiana Chief of Police - Village of Harrisonburg,2026-11-03,99.9,,False,2,1,162,2026-11-18T14:36+00:00
+144001,LA,Louisiana PW Prop. (Public Health Unit) - 1.75 Mills Renewal - PC - 10 Yrs.,2026-11-03,99.9,,False,2,1,9851,2026-11-18T14:36+00:00
+143666,LA,"Louisiana Member of School Board - District 5, City of Monroe",2026-11-03,99.9,,False,3,1,1830,2026-11-18T14:36+00:00
+143139,LA,"Louisiana Judge - Criminal District Court, Section H",2026-11-03,99.9,,False,2,1,122802,2026-11-18T14:36+00:00
+143789,LA,"Louisiana Alderman - District 1, Town of Gramercy",2026-11-03,99.9,,False,3,1,402,2026-11-18T14:36+00:00
+143369,LA,"Louisiana Member of School Board - District 4, Place A",2026-11-03,99.9,,False,2,1,1152,2026-11-18T14:36+00:00
+143243,LA,"Louisiana City Marshal - City Court, City of Bunkie",2026-11-03,99.9,,False,2,1,3739,2026-11-18T14:36+00:00
+143900,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 1 - Tensas Parish,2026-11-03,99.9,,False,2,1,731,2026-11-18T14:36+00:00
+143366,LA,"Louisiana Member of School Board - District 1, Place A",2026-11-03,99.9,,False,3,1,1168,2026-11-18T14:36+00:00
+143746,LA,"Louisiana Alderman - District E, Town of Delhi",2026-11-03,99.9,,False,2,1,222,2026-11-18T14:36+00:00
+143603,LA,"Louisiana Council Member - District A, Town of Dubach",2026-11-03,99.9,,False,2,1,104,2026-11-18T14:36+00:00
+143268,LA,Louisiana Chief of Police - Town of Arcadia,2026-11-03,99.9,,False,3,1,1107,2026-11-18T14:36+00:00
+143125,LA,"Louisiana District Judge - 23rd Judicial District Court, ES 2, Div. A",2026-11-03,99.9,,False,2,3,44337,2026-11-18T14:36+00:00
+143391,LA,"Louisiana Judge, Family Court - Election Section 3, Division A",2026-11-03,99.9,,False,2,1,53963,2026-11-18T14:36+00:00
+143963,LA,Louisiana Member of School Board - District 6 - Washington Parish,2026-11-03,99.9,,False,3,1,1062,2026-11-18T14:36+00:00
+143628,LA,Louisiana Member of School Board - District 7 - Morehouse Parish,2026-11-03,99.9,,False,2,1,706,2026-11-18T14:36+00:00
+143293,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 5 - Caddo Parish,2026-11-03,99.9,,False,2,1,7241,2026-11-18T14:36+00:00
+143943,LA,Louisiana Member of School Board - District 2 - Vernon Parish,2026-11-03,99.9,,False,2,1,1395,2026-11-18T14:36+00:00
+143608,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 1 - Livingston Parish,2026-11-03,99.9,,False,2,1,7164,2026-11-18T14:36+00:00
+143845,LA,Louisiana Member of School Board - District 6 - St. Mary Parish,2026-11-03,99.9,,False,3,1,1402,2026-11-18T14:36+00:00
+143510,LA,Louisiana Aldermen - Town of White Castle,2026-11-03,99.9,,False,6,1,2749,2026-11-18T14:36+00:00
+143968,LA,"Louisiana Member of School Board - District 7, City of Bogalusa",2026-11-03,99.9,,False,2,1,417,2026-11-18T14:36+00:00
+143633,LA,Louisiana PW Prop. No. 1 of 2 (LSU Ag Center) - 0.57 Mill Renewal - PJ - 10 Yrs.,2026-11-03,99.9,,False,2,1,6711,2026-11-18T14:36+00:00
+143678,LA,Louisiana Member of Parish Council - District 8,2026-11-03,99.9,,False,2,1,839,2026-11-18T14:36+00:00
+143535,LA,Louisiana Mayor - City of Harahan,2026-11-03,99.9,,False,2,1,4001,2026-11-18T14:36+00:00
+143193,LA,Louisiana Mayor - City of Crowley,2026-11-03,99.9,,False,2,1,3296,2026-11-18T14:36+00:00
+143658,LA,"Louisiana City Judge - City Court, City of West Monroe",2026-11-03,99.9,,False,2,1,12060,2026-11-18T14:36+00:00
+143895,LA,"Louisiana Council Member - District 4, City of Hammond",2026-11-03,99.9,,False,3,1,859,2026-11-18T14:36+00:00
+143361,LA,"Louisiana Selectman - District 1, Town of Homer",2026-11-03,99.9,,False,3,1,186,2026-11-18T14:36+00:00
+143218,LA,Louisiana Chief of Police - Town of Oberlin,2026-11-03,99.9,,False,2,1,589,2026-11-18T14:36+00:00
+143491,LA,Louisiana Member of School Board - District 9 - Iberia Parish,2026-11-03,99.9,,False,2,1,1698,2026-11-18T14:36+00:00
+143341,LA,Louisiana Mayor - Town of Jonesville,2026-11-03,99.9,,False,2,1,716,2026-11-18T14:36+00:00
+143920,LA,Louisiana Member of School Board - District 3 - Union Parish,2026-11-03,99.9,,False,2,1,980,2026-11-18T14:36+00:00
+143578,LA,Louisiana Member of School Board - District 10 - La Salle Parish,2026-11-03,99.9,,False,2,1,310,2026-11-18T14:36+00:00
+143452,LA,Louisiana Member of School Board - District 8 - Evangeline Parish,2026-11-03,99.9,,False,2,1,756,2026-11-18T14:36+00:00
+143917,LA,Louisiana Road Lighting District No. 4 - 4.75 Mills Renewal - PC - 10 Yrs.,2026-11-03,99.9,,False,2,1,922,2026-11-18T14:36+00:00
+143497,LA,Louisiana Member of School Board - At large,2026-11-03,99.9,,False,3,1,11760,2026-11-18T14:36+00:00
+143955,LA,Louisiana Mayor - Town of Rosepine,2026-11-03,99.9,,False,2,1,332,2026-11-18T14:36+00:00
+143812,LA,Louisiana Mayor - Town of Port Barre,2026-11-03,99.9,,False,2,1,559,2026-11-18T14:36+00:00
+143669,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 2 - Ouachita Parish,2026-11-03,99.9,,False,4,1,4784,2026-11-18T14:36+00:00
+143743,LA,"Louisiana Alderman - District B, Town of Delhi",2026-11-03,99.9,,False,3,1,237,2026-11-18T14:36+00:00
+143522,LA,Louisiana Aldermen - Village of Hodge,2026-11-03,99.9,,False,7,1,368,2026-11-18T14:36+00:00
+143980,LA,"Louisiana Councilman - District E, City of Bogalusa",2026-11-03,99.9,,False,2,1,453,2026-11-18T14:36+00:00
+143837,LA,Louisiana Member of School Board - District 3 - St. Martin Parish,2026-11-03,99.9,,False,2,1,1360,2026-11-18T14:36+00:00
+143502,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 5 - Iberville Parish,2026-11-03,99.9,,False,2,1,1671,2026-11-18T14:36+00:00
+143960,LA,Louisiana Member of School Board - District 3 - Washington Parish,2026-11-03,99.9,,False,2,1,946,2026-11-18T14:36+00:00
+143397,LA,Louisiana Member of School Board - District 2 - East Baton Rouge Parish,2026-11-03,99.9,,False,3,1,12612,2026-11-18T14:36+00:00
+143254,LA,Louisiana Justice of the Peace - Justice of the Peace District 1 - Beauregard Parish,2026-11-03,99.9,,False,2,1,739,2026-11-18T14:36+00:00
+143719,LA,"Louisiana Alderman - Seat A, Town of Ball",2026-11-03,99.9,,False,4,1,1233,2026-11-18T14:36+00:00
+143985,LA,Louisiana Member of School Board - District 7 - Webster Parish,2026-11-03,99.9,,False,2,1,889,2026-11-18T14:36+00:00
+143422,LA,Louisiana Chief of Police - City of Central,2026-11-03,99.9,,False,3,1,11994,2026-11-18T14:36+00:00
+143887,LA,Louisiana Member of School Board - District I - Tangipahoa Parish,2026-11-03,99.9,,False,2,1,4099,2026-11-18T14:36+00:00
+143545,LA,Louisiana Member of School Board - District 9 - Jefferson Davis Parish,2026-11-03,99.9,,False,4,1,846,2026-11-18T14:36+00:00
+143210,LA,Louisiana City of Crowley Proposition No. 4 of 4 - 1 Mill Renewal - M&BOA - 10 Yrs.,2026-11-03,99.9,,False,2,1,3108,2026-11-18T14:36+00:00
+143639,LA,Louisiana Member of School Board - District 8 - Natchitoches Parish,2026-11-03,99.9,,False,3,1,1020,2026-11-18T14:36+00:00
+143112,LA,"Louisiana District Judge - 12th Judicial District Court, Division B",2026-11-03,99.9,,False,4,1,12011,2026-11-18T14:36+00:00
+143762,LA,Louisiana Justice of the Peace - Justice of the Peace District 3 - St. Charles Parish,2026-11-03,99.9,,False,2,1,3026,2026-11-18T14:36+00:00
+143235,LA,Louisiana Constable - 2nd Justice Court - Ascension Parish,2026-11-03,99.9,,False,2,1,20203,2026-11-18T14:36+00:00
+143892,LA,Louisiana Chief of Police - Town of Kentwood,2026-11-03,99.9,,False,2,1,764,2026-11-18T14:36+00:00
+143472,LA,Louisiana Aldermen - Village of Chataignier,2026-11-03,99.9,,False,4,1,230,2026-11-18T14:36+00:00
+143137,LA,"Louisiana Judge - Civil District Court, Domestic Section 1",2026-11-03,99.9,,False,2,1,118729,2026-11-18T14:36+00:00
+143595,LA,Louisiana Mayor - City of Grambling,2026-11-03,99.9,,False,2,1,822,2026-11-18T14:36+00:00
+143469,LA,"Louisiana Alderman - District D, City of Ville Platte",2026-11-03,99.9,,False,2,1,490,2026-11-18T14:36+00:00
+143241,LA,Louisiana Parishwide Proposition No. 2 of 2 - 2 Mills Ext. & Reded. - PJ - 10 Yrs.,2026-11-03,99.9,,False,2,1,6725,2026-11-18T14:36+00:00
+143514,LA,Louisiana Justice of the Peace - Justice of the Peace District D,2026-11-03,99.9,,False,2,1,1828,2026-11-18T14:36+00:00
+143172,LA,"Louisiana Councilman - District B, City of Shreveport",2026-11-03,99.9,,False,5,2,5749,2026-11-18T14:36+00:00
+143221,LA,Louisiana Aldermen - Village of Reeves,2026-11-03,99.9,,False,4,1,269,2026-11-18T14:36+00:00
+143494,LA,Louisiana Member of School Board - District 13 - Iberia Parish,2026-11-03,99.9,,False,3,1,1107,2026-11-18T14:36+00:00
+143874,LA,Louisiana Constable(s) - Justice of the Peace Ward 6,2026-11-03,99.9,,False,2,1,2507,2026-11-18T14:36+00:00
+143731,LA,Louisiana Member of School Board - District 4 - Red River Parish,2026-11-03,99.9,,False,3,1,437,2026-11-18T14:36+00:00
+143389,LA,Louisiana Fire Protection District 5 - 10 Mills Renewal - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,552,2026-11-18T14:36+00:00
+143246,LA,Louisiana Constable - Justice of the Peace Ward 5 - Avoyelles Parish,2026-11-03,99.9,,False,2,1,560,2026-11-18T14:36+00:00
+143519,LA,"Louisiana Alderman - District B, Town of Jonesboro",2026-11-03,99.9,,False,2,1,270,2026-11-18T14:36+00:00
+143899,LA,Louisiana Member of School Board - District 7 - Tensas Parish,2026-11-03,99.9,,False,2,1,263,2026-11-18T14:36+00:00
+143749,LA,Louisiana Member of School Board - District 8 - Sabine Parish,2026-11-03,99.9,,False,2,1,799,2026-11-18T14:36+00:00
+143606,LA,Louisiana Member of School Board - District 3 - Livingston Parish,2026-11-03,99.9,,False,2,1,4185,2026-11-18T14:36+00:00
+143271,LA,"Louisiana Council Member - District 1, Town of Arcadia",2026-11-03,99.9,,False,2,1,217,2026-11-18T14:36+00:00
+143736,LA,Louisiana Member of School Board - District 7 - Richland Parish,2026-11-03,99.9,,False,2,1,734,2026-11-18T14:36+00:00
+143774,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 2 - St. Helena Parish,2026-11-03,99.9,,False,2,1,770,2026-11-18T14:36+00:00
+143631,LA,Louisiana Mayor - Village of Collinston,2026-11-03,99.9,,False,4,1,71,2026-11-18T14:36+00:00
+143104,LA,"Louisiana District Judge - 1st Judicial District Court, ES 3, Div. F",2026-11-03,99.9,,False,2,1,25985,2026-11-18T14:36+00:00
+143562,LA,"Louisiana Council Member - Division D, City of Youngsville",2026-11-03,99.9,,False,2,1,5848,2026-11-18T14:36+00:00
+143991,LA,Louisiana Mayor - City of Springhill,2026-11-03,99.9,,False,2,1,1368,2026-11-18T14:36+00:00
+143656,LA,Louisiana Lakewood East Sec. and Neighborhood Imp. Dist. - $300 Parcel Fee - CC - 8 Yrs.,2026-11-03,99.9,,False,2,1,147,2026-11-18T14:36+00:00
+143321,LA,"Louisiana Council Member - Division C, City of Westlake",2026-11-03,99.9,,False,2,1,1336,2026-11-18T14:36+00:00
+143587,LA,Louisiana Whitehall Fire District Prop. No. 1 of 2 - 10.05 Mills Renewal - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,458,2026-11-18T14:36+00:00
+143636,LA,"Louisiana City Judge - City Court, City of Natchitoches",2026-11-03,99.9,,False,2,1,6720,2026-11-18T14:36+00:00
+144016,LA,Louisiana Member of School Board - District 2 - Winn Parish,2026-11-03,99.9,,False,2,1,258,2026-11-18T14:36+00:00
+143489,LA,"Louisiana City Judge - City Court, City of New Iberia",2026-11-03,99.9,,False,2,1,6193,2026-11-18T14:36+00:00
+143147,LA,Louisiana District Attorney - 11th Judicial District Court,2026-11-03,99.9,,False,2,1,7866,2026-11-18T14:36+00:00
+143996,LA,"Louisiana Councilman - District B, City of Minden",2026-11-03,99.9,,False,3,1,583,2026-11-18T14:36+00:00
+144013,LA,Louisiana Sales Tax District No. 1 - 1/2% S&U Tax - PC - 7 Yrs.,2026-11-03,99.9,,False,2,1,3976,2026-11-18T14:36+00:00
+143593,LA,Louisiana Member of School Board - District 12 - Lincoln Parish,2026-11-03,99.9,,False,2,1,576,2026-11-18T14:36+00:00
+143258,LA,Louisiana Road District Number 7 - 32.2 Mills Renewal - PJ - 10 Yrs.,2026-11-03,99.9,,False,2,1,862,2026-11-18T14:36+00:00
+143723,LA,"Louisiana Alderman - Seat E, Town of Ball",2026-11-03,99.9,,False,2,1,1242,2026-11-18T14:36+00:00
+143573,LA,Louisiana Member of School Board - District 5 - La Salle Parish,2026-11-03,99.9,,False,2,1,535,2026-11-18T14:36+00:00
+143238,LA,Louisiana Member of School Board - Ward 6,2026-11-03,99.9,,False,2,1,918,2026-11-18T14:36+00:00
+143618,LA,Louisiana Member of School Board - District 3 - Madison Parish,2026-11-03,99.9,,False,3,1,391,2026-11-18T14:36+00:00
+143283,LA,Louisiana Aldermen - Town of Haughton,2026-11-03,99.9,,False,2,1,1172,2026-11-18T14:36+00:00
+143741,LA,Louisiana Chief of Police - Town of Delhi,2026-11-03,99.9,,False,2,1,1066,2026-11-18T14:36+00:00
+143598,LA,Louisiana Mayor - Village of Choudrant,2026-11-03,99.9,,False,2,1,587,2026-11-18T14:36+00:00
+143871,LA,Louisiana Justice(s) of the Peace - Justice of the Peace Ward 10,2026-11-03,99.9,,False,3,1,3928,2026-11-18T14:36+00:00
+143643,LA,Louisiana Mayor - Village of Robeline,2026-11-03,99.9,,False,3,1,75,2026-11-18T14:36+00:00
+143116,LA,"Louisiana District Judge - 17th Judicial District Court, Division D",2026-11-03,99.9,,False,2,1,26164,2026-11-18T14:36+00:00
+143958,LA,"Louisiana City Marshal - City Court, City of Bogalusa",2026-11-03,99.9,,False,2,1,4344,2026-11-18T14:36+00:00
+143815,LA,Louisiana Chief of Police - City of Opelousas,2026-11-03,99.9,,False,3,1,4709,2026-11-18T14:36+00:00
+143288,LA,Louisiana Member of School Board - District 8 - Caddo Parish,2026-11-03,99.9,,False,2,1,6826,2026-11-18T14:36+00:00
+143525,LA,"Louisiana Judge - 1st Parish Court, Division B",2026-11-03,99.9,,False,2,1,68408,2026-11-18T14:36+00:00
+143983,LA,Louisiana Member of School Board - District 3 - Webster Parish,2026-11-03,99.9,,False,2,1,980,2026-11-18T14:36+00:00
+143648,LA,Louisiana Aldermen - Village of Robeline,2026-11-03,99.9,,False,6,1,189,2026-11-18T14:36+00:00
+143121,LA,"Louisiana District Judge - 21st Judicial District Court, Division E",2026-11-03,99.9,,False,2,3,82794,2026-11-18T14:36+00:00
+143351,LA,Louisiana Member of School Board - District 2 - Claiborne Parish,2026-11-03,99.9,,False,2,1,459,2026-11-18T14:36+00:00
+143208,LA,Louisiana City of Crowley Proposition No. 2 of 4 - 3.5 Mills Renewal - M&BOA - 10 Yrs.,2026-11-03,99.9,,False,2,1,3119,2026-11-18T14:36+00:00
+143865,LA,Louisiana Member of School Board - District 6 - St. Tammany Parish,2026-11-03,99.9,,False,2,1,6359,2026-11-18T14:36+00:00
+143338,LA,Louisiana Member of School Board - District 2 - Catahoula Parish,2026-11-03,99.9,,False,3,1,458,2026-11-18T14:36+00:00
+143988,LA,Louisiana Member of School Board - District 10 - Webster Parish,2026-11-03,99.9,,False,3,1,942,2026-11-18T14:36+00:00
+143568,LA,"Louisiana Councilman at Large - Seat D, City of Thibodaux",2026-11-03,99.9,,False,2,1,4619,2026-11-18T14:36+00:00
+143233,LA,Louisiana Justice of the Peace - 2nd Justice Court,2026-11-03,99.9,,False,2,1,20560,2026-11-18T14:36+00:00
+143698,LA,Louisiana Parishwide Prop. No. 1 of 2 - 1/2% S&U Tax Renewal - PC - 15 Yrs.,2026-11-03,99.9,,False,2,1,7995,2026-11-18T14:36+00:00
+143356,LA,Louisiana Mayor - Town of Haynesville,2026-11-03,99.9,,False,2,1,668,2026-11-18T14:36+00:00
+143802,LA,Louisiana Member of School Board - District 4 - St. Landry Parish,2026-11-03,99.9,,False,3,1,2324,2026-11-18T14:36+00:00
+143275,LA,"Louisiana Councilman - District 2, Town of Ringgold",2026-11-03,99.9,,False,2,1,79,2026-11-18T14:36+00:00
+143132,LA,Louisiana District Judge - 35th Judicial District Court,2026-11-03,99.9,,False,2,1,6359,2026-11-18T14:36+00:00
+143590,LA,"Louisiana City Judge - City Court, City of Ruston",2026-11-03,99.9,,False,3,1,13360,2026-11-18T14:36+00:00
+143970,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 9,2026-11-03,99.9,,False,2,1,500,2026-11-18T14:36+00:00
+143827,LA,"Louisiana Alderman - District D, City of Opelousas",2026-11-03,99.9,,False,2,1,820,2026-11-18T14:36+00:00
+143300,LA,Louisiana Mayor - Village of Mooringsport,2026-11-03,99.9,,False,2,1,170,2026-11-18T14:36+00:00
+143150,LA,Louisiana District Attorney - 19th Judicial District Court,2026-11-03,99.9,,False,2,1,147597,2026-11-18T14:36+00:00
+143615,LA,Louisiana Fire Protection Dist. No. 8 - 15 Mills Renewal - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,1565,2026-11-18T14:36+00:00
+143195,LA,Louisiana Mayor - Village of Estherwood,2026-11-03,99.9,,False,2,1,203,2026-11-18T14:36+00:00
+143660,LA,"Louisiana City Marshal - City Court, City of West Monroe",2026-11-03,99.9,,False,2,1,12060,2026-11-18T14:36+00:00
+143517,LA,Louisiana Chief of Police - Village of East Hodge,2026-11-03,99.9,,False,2,1,72,2026-11-18T14:36+00:00
+143175,LA,"Louisiana Councilman - District F, City of Shreveport",2026-11-03,99.9,,False,4,1,5721,2026-11-18T14:36+00:00
+143832,LA,"Louisiana Council Member - District 1, Town of Washington",2026-11-03,99.9,,False,2,1,117,2026-11-18T14:36+00:00
+143877,LA,Louisiana Mayor - Town of Pearl River,2026-11-03,99.9,,False,2,1,1066,2026-11-18T14:36+00:00
+143734,LA,Louisiana Member of School Board - District 2 - Richland Parish,2026-11-03,99.9,,False,2,1,698,2026-11-18T14:36+00:00
+143200,LA,"Louisiana Alderman - Ward 1, Town of Church Point",2026-11-03,99.9,,False,2,1,315,2026-11-18T14:36+00:00
+143665,LA,"Louisiana Member of School Board - District 4, City of Monroe",2026-11-03,99.9,,False,2,1,1751,2026-11-18T14:36+00:00
+143902,LA,Louisiana Constable - Justice of the Peace Ward 1 - Tensas Parish,2026-11-03,99.9,,False,3,1,741,2026-11-18T14:36+00:00
+143560,LA,"Louisiana Council Member - District 4, City of Scott",2026-11-03,99.9,,False,2,1,759,2026-11-18T14:36+00:00
+143417,LA,"Louisiana Constable - Justice of the Peace, District 2",2026-11-03,99.9,,False,2,1,3293,2026-11-18T14:36+00:00
+143690,LA,Louisiana Justice of the Peace - Justice of the Peace District C,2026-11-03,99.9,,False,2,1,791,2026-11-18T14:36+00:00
+143348,LA,"Louisiana Alderman - District 5, Town of Jonesville",2026-11-03,99.9,,False,2,1,125,2026-11-18T14:36+00:00
+143127,LA,"Louisiana District Judge - 27th Judicial District Court, ES 1, Div. C",2026-11-03,99.9,,False,4,1,4979,2026-11-18T14:36+00:00
+143585,LA,Louisiana Aldermen - Town of Urania,2026-11-03,99.9,,False,6,1,730,2026-11-18T14:36+00:00
+143442,LA,Louisiana Member of School Board - District 5 - East Feliciana Parish,2026-11-03,99.9,,False,2,1,564,2026-11-18T14:36+00:00
+143715,LA,Louisiana Mayor - Town of Lecompte,2026-11-03,99.9,,False,3,1,325,2026-11-18T14:36+00:00
+143565,LA,Louisiana Member of School Board - District 5 - Lafourche Parish,2026-11-03,99.9,,False,2,1,2510,2026-11-18T14:36+00:00
+143945,LA,Louisiana Member of School Board - District 4 - Vernon Parish,2026-11-03,99.9,,False,2,1,938,2026-11-18T14:36+00:00
+143819,LA,Louisiana Alderman at Large - City of Opelousas,2026-11-03,99.9,,False,3,1,4494,2026-11-18T14:36+00:00
+143484,LA,Louisiana Aldermen - Village of Gilbert,2026-11-03,99.9,,False,4,1,408,2026-11-18T14:36+00:00
+143942,LA,Louisiana Hospital Service District No. 3 - 8.29 Mills Renewal - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,842,2026-11-18T14:36+00:00
+143721,LA,"Louisiana Alderman - Seat C, Town of Ball",2026-11-03,99.9,,False,4,1,1264,2026-11-18T14:36+00:00
+143187,LA,Louisiana City of Shreveport (Downtown Dev. Dist.) - 9.04 Mills Cont. - CC - 25 Yrs.,2026-11-03,99.9,,False,2,2,50935,2026-11-18T14:36+00:00
+143844,LA,Louisiana Member of School Board - District 5 - St. Mary Parish,2026-11-03,99.9,,False,2,1,1429,2026-11-18T14:36+00:00
+143701,LA,Louisiana Member of School Board - District D - Rapides Parish,2026-11-03,99.9,,False,3,1,2612,2026-11-18T14:36+00:00
+143967,LA,"Louisiana Member of School Board - District 6, City of Bogalusa",2026-11-03,99.9,,False,2,1,687,2026-11-18T14:36+00:00
+143547,LA,Louisiana Mayor - Town of Elton,2026-11-03,99.9,,False,3,1,344,2026-11-18T14:36+00:00
+143212,LA,Louisiana Member of School Board - District 6 - Allen Parish,2026-11-03,99.9,,False,2,1,784,2026-11-18T14:36+00:00
+143869,LA,Louisiana Member of School Board - District 12 - St. Tammany Parish,2026-11-03,99.9,,False,2,1,5049,2026-11-18T14:36+00:00
+143726,LA,Louisiana Aldermen - Town of Lecompte,2026-11-03,99.9,,False,10,1,1463,2026-11-18T14:36+00:00
+143192,LA,Louisiana Constable - Justice of the Peace Ward 2 - Acadia Parish,2026-11-03,99.9,,False,2,1,1896,2026-11-18T14:36+00:00
+143621,LA,Louisiana Member of School Board - District 7 - Madison Parish,2026-11-03,99.9,,False,2,1,358,2026-11-18T14:36+00:00
+143286,LA,Louisiana Member of School Board - District 5 - Caddo Parish,2026-11-03,99.9,,False,3,1,3663,2026-11-18T14:36+00:00
+143552,LA,Louisiana Road Sales Tax Dist. No. 1 - 2% S&U Tax Renewal - PJ - 20 Yrs.,2026-11-03,99.9,,False,2,1,5472,2026-11-18T14:36+00:00
+143217,LA,Louisiana Chief of Police - Town of Kinder,2026-11-03,99.9,,False,2,1,704,2026-11-18T14:36+00:00
+143454,LA,Louisiana Member of School Board - District 10 - Evangeline Parish,2026-11-03,99.9,,False,3,1,964,2026-11-18T14:36+00:00
+143119,LA,"Louisiana District Judge - 19th Judicial District Court, ES 1, Div. L",2026-11-03,99.9,,False,2,1,60939,2026-11-18T14:36+00:00
+143769,LA,Louisiana Member of School Board - District 2 - St. Helena Parish,2026-11-03,99.9,,False,2,1,712,2026-11-18T14:36+00:00
+143434,LA,Louisiana Mayor - Town of Lake Providence,2026-11-03,99.9,,False,4,1,1374,2026-11-18T14:36+00:00
+143671,LA,Louisiana Aldermen - Town of Sterlington,2026-11-03,99.9,,False,6,1,2092,2026-11-18T14:36+00:00
+143336,LA,Louisiana Gravity Drainage District No. 5 - 6.21 Mills Renewal - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,95,2026-11-18T14:36+00:00
+143794,LA,Louisiana Member of School Board - District 6 - St. John the Baptist Parish,2026-11-03,99.9,,False,3,1,1190,2026-11-18T14:36+00:00
+143267,LA,Louisiana Mayor - Town of Gibsland,2026-11-03,99.9,,False,3,1,344,2026-11-18T14:36+00:00
+143124,LA,"Louisiana District Judge - 22nd Judicial District Court, Division H",2026-11-03,99.9,,False,2,2,98835,2026-11-18T14:36+00:00
+143504,LA,Louisiana Constable - Justice of the Peace Ward 2 - Iberville Parish,2026-11-03,99.9,,False,3,1,2079,2026-11-18T14:36+00:00
+143162,LA,Louisiana Mayor - Town of Basile,2026-11-03,99.9,,False,3,2,403,2026-11-18T14:36+00:00
+143228,LA,Louisiana Member of School Board - District 1 - Ascension Parish,2026-11-03,99.9,,False,4,1,4263,2026-11-18T14:36+00:00
+143501,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 2 - Iberville Parish,2026-11-03,99.9,,False,2,1,2080,2026-11-18T14:36+00:00
+143273,LA,"Louisiana Council Member - District 3, Town of Arcadia",2026-11-03,99.9,,False,3,1,249,2026-11-18T14:36+00:00
+143738,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 4 - Richland Parish,2026-11-03,99.9,,False,2,1,706,2026-11-18T14:36+00:00
+143396,LA,"Louisiana Member of School Board - District 1, Zachary Community",2026-11-03,99.9,,False,2,1,1208,2026-11-18T14:36+00:00
+143445,LA,Louisiana Mayor - Town of Jackson,2026-11-03,99.9,,False,4,1,550,2026-11-18T14:36+00:00
+143718,LA,Louisiana Councilman at Large - City of Alexandria,2026-11-03,99.9,,False,2,1,11789,2026-11-18T14:36+00:00
+143106,LA,"Louisiana District Judge - 2nd Judicial District Court, Div. B",2026-11-03,99.9,,False,2,3,14900,2026-11-18T14:36+00:00
+143756,LA,Louisiana Justice of the Peace - Justice of the Peace Ward B,2026-11-03,99.9,,False,2,1,882,2026-11-18T14:36+00:00
+143613,LA,Louisiana Council Member(s) - City of Denham Springs,2026-11-03,99.9,,False,6,1,9763,2026-11-18T14:36+00:00
+143278,LA,Louisiana Hospital Service District No. 2 - 6.64 Mills Cont. - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,2420,2026-11-18T14:36+00:00
+143544,LA,Louisiana Member of School Board - District 8 - Jefferson Davis Parish,2026-11-03,99.9,,False,2,1,965,2026-11-18T14:36+00:00
+143131,LA,"Louisiana District Judge - 32nd Judicial District Court, Division E",2026-11-03,99.9,,False,2,1,27633,2026-11-18T14:36+00:00
+143973,LA,Louisiana Constable - Justice of the Peace Ward 9 - Washington Parish,2026-11-03,99.9,,False,2,1,484,2026-11-18T14:36+00:00
+143830,LA,Louisiana Aldermen - Town of Port Barre,2026-11-03,99.9,,False,10,1,2144,2026-11-18T14:36+00:00
+143303,LA,Louisiana Alderman at Large - Town of Vivian,2026-11-03,99.9,,False,2,1,753,2026-11-18T14:36+00:00
+143761,LA,Louisiana Member of School Board - District 8 - St. Charles Parish,2026-11-03,99.9,,False,2,1,2527,2026-11-18T14:36+00:00
+143998,LA,"Louisiana Councilman - District D, City of Minden",2026-11-03,99.9,,False,2,1,760,2026-11-18T14:36+00:00
+143663,LA,Louisiana Member of School Board - District F - Ouachita Parish,2026-11-03,99.9,,False,2,1,4507,2026-11-18T14:36+00:00
+143328,LA,Louisiana Member of School Board - District 7 - Caldwell Parish,2026-11-03,99.9,,False,3,1,503,2026-11-18T14:36+00:00
+143786,LA,Louisiana Mayor - Town of Lutcher,2026-11-03,99.9,,False,2,1,1566,2026-11-18T14:36+00:00
+143223,LA,"Louisiana Council Member - District 3, Town of Kinder",2026-11-03,99.9,,False,2,1,169,2026-11-18T14:36+00:00
+143688,LA,Louisiana Member of School Board - District F - Pointe Coupee Parish,2026-11-03,99.9,,False,2,1,996,2026-11-18T14:36+00:00
+143346,LA,"Louisiana Alderman - District 3, Town of Jonesville",2026-11-03,99.9,,False,2,1,129,2026-11-18T14:36+00:00
+143811,LA,Louisiana Mayor - Town of Melville,2026-11-03,99.9,,False,2,1,404,2026-11-18T14:36+00:00
+143668,LA,"Louisiana Member of School Board - District 7, City of Monroe",2026-11-03,99.9,,False,3,1,1289,2026-11-18T14:36+00:00
+143248,LA,Louisiana Mayor - Village of Moreauville,2026-11-03,99.9,,False,2,1,452,2026-11-18T14:36+00:00
+143713,LA,Louisiana Mayor - Town of Boyce,2026-11-03,99.9,,False,3,1,429,2026-11-18T14:36+00:00
+143371,LA,"Louisiana Member of School Board - District 5, Place A",2026-11-03,99.9,,False,2,1,1261,2026-11-18T14:36+00:00
+143245,LA,Louisiana Member of School Board - District 9 - Avoyelles Parish,2026-11-03,99.9,,False,2,1,1629,2026-11-18T14:36+00:00
+143817,LA,Louisiana Chief of Police - Town of Melville,2026-11-03,99.9,,False,2,1,401,2026-11-18T14:36+00:00
+143290,LA,Louisiana Member of School Board - District 10 - Caddo Parish,2026-11-03,99.9,,False,2,1,5395,2026-11-18T14:36+00:00
+143748,LA,Louisiana Member of School Board - District 2 - Sabine Parish,2026-11-03,99.9,,False,2,1,1014,2026-11-18T14:36+00:00
+143797,LA,Louisiana Constable - Justice of the Peace District 3 - St. John the Baptist Parish,2026-11-03,99.9,,False,2,1,1670,2026-11-18T14:36+00:00
+143270,LA,Louisiana Aldermen - Town of Gibsland,2026-11-03,99.9,,False,6,1,1152,2026-11-18T14:36+00:00
+143650,LA,Louisiana Fire Protection Dist. No. 5 - 7.19 Mills Renewal - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,777,2026-11-18T14:36+00:00
+143315,LA,Louisiana Mayor - City of DeQuincy,2026-11-03,99.9,,False,2,1,833,2026-11-18T14:36+00:00
+143965,LA,"Louisiana Member of School Board - District 1, City of Bogalusa",2026-11-03,99.9,,False,2,1,631,2026-11-18T14:36+00:00
+143822,LA,"Louisiana Alderman - District 3, Town of Sunset",2026-11-03,99.9,,False,3,1,227,2026-11-18T14:36+00:00
+143103,LA,Louisiana State House 92,2026-11-03,99.9,,False,3,1,11496,2026-11-18T14:36+00:00
+143675,LA,Louisiana Member of Parish Council - District 5,2026-11-03,99.9,,False,2,1,908,2026-11-18T14:36+00:00
+143340,LA,Louisiana Member of School Board - District 9 - Catahoula Parish,2026-11-03,99.9,,False,2,1,276,2026-11-18T14:36+00:00
+143190,LA,Louisiana Member of School Board - District 4 - Acadia Parish,2026-11-03,99.9,,False,2,1,1560,2026-11-18T14:36+00:00
+143847,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 5 - St. Mary Parish,2026-11-03,99.9,,False,2,1,2822,2026-11-18T14:36+00:00
+143320,LA,"Louisiana Council Member - District E, Town of Iowa",2026-11-03,99.9,,False,2,1,966,2026-11-18T14:36+00:00
+143358,LA,Louisiana Mayor - Village of Athens,2026-11-03,99.9,,False,2,1,147,2026-11-18T14:36+00:00
+143215,LA,Louisiana Mayor - Town of Kinder,2026-11-03,99.9,,False,3,1,719,2026-11-18T14:36+00:00
+143680,LA,Louisiana Member of School Board - District 7 - Plaquemines Parish,2026-11-03,99.9,,False,2,1,948,2026-11-18T14:36+00:00
+143146,LA,Louisiana District Attorney - 8th Judicial District Court,2026-11-03,99.9,,False,2,1,4116,2026-11-18T14:36+00:00
+143575,LA,Louisiana Member of School Board - District 7 - La Salle Parish,2026-11-03,99.9,,False,2,1,524,2026-11-18T14:36+00:00
+143432,LA,Louisiana Member of School Board - District 1 - East Carroll Parish,2026-11-03,99.9,,False,2,1,370,2026-11-18T14:36+00:00
+143897,LA,Louisiana Council Member(s) - Town of Kentwood,2026-11-03,99.9,,False,10,1,3117,2026-11-18T14:36+00:00
+143171,LA,"Louisiana Councilman - District A, City of Shreveport",2026-11-03,99.9,,False,2,2,6278,2026-11-18T14:36+00:00
+143220,LA,Louisiana Council Member at Large - Town of Kinder,2026-11-03,99.9,,False,2,1,706,2026-11-18T14:36+00:00
+143600,LA,Louisiana Chief of Police - Village of Choudrant,2026-11-03,99.9,,False,2,1,577,2026-11-18T14:36+00:00
+143265,LA,Louisiana Constable - Justice of the Peace District 1 - Bienville Parish,2026-11-03,99.9,,False,2,1,1473,2026-11-18T14:36+00:00
+143922,LA,Louisiana Member of School Board - District 7 - Union Parish,2026-11-03,99.9,,False,2,1,888,2026-11-18T14:36+00:00
+143580,LA,Louisiana Mayor - Town of Jena,2026-11-03,99.9,,False,2,1,991,2026-11-18T14:36+00:00
+143834,LA,"Louisiana Council Member - District 4, Town of Washington",2026-11-03,99.9,,False,2,1,86,2026-11-18T14:36+00:00
+143307,LA,Louisiana Council Member(s) - Village of Mooringsport,2026-11-03,99.9,,False,4,1,371,2026-11-18T14:36+00:00
+143157,LA,"Louisiana City Judge, City Court - Election Dist. 2, Div. D, City of Shreveport",2026-11-03,99.9,,False,3,2,16301,2026-11-18T14:36+00:00
+143814,LA,Louisiana Mayor - Town of Washington,2026-11-03,99.9,,False,2,1,409,2026-11-18T14:36+00:00
+143202,LA,"Louisiana Alderman - Ward 3, Division A, City of Crowley",2026-11-03,99.9,,False,2,1,772,2026-11-18T14:36+00:00
+143859,LA,Louisiana Water and Sewer Commission No. 4 - 15.35 Mills Continuation - BOC - 10 Yrs.,2026-11-03,99.9,,False,2,1,1544,2026-11-18T14:36+00:00
+143524,LA,"Louisiana Judge - 1st Parish Court, Division A",2026-11-03,99.9,,False,2,1,68695,2026-11-18T14:36+00:00
+143374,LA,Louisiana Constable - Justice of the Peace District 1 - Concordia Parish,2026-11-03,0,,False,2,1,0,2026-11-18T14:36+00:00
+143647,LA,Louisiana Aldermen - Village of Goldonna,2026-11-03,99.9,,False,4,1,300,2026-11-18T14:36+00:00
+143419,LA,"Louisiana Constable - Justice of the Peace, District 5",2026-11-03,99.9,,False,2,1,29058,2026-11-18T14:36+00:00
+143692,LA,Louisiana Constable - Justice of the Peace District A - Pointe Coupee Parish,2026-11-03,99.9,,False,2,1,901,2026-11-18T14:36+00:00
+143542,LA,Louisiana Member of School Board - District 3 - Jefferson Davis Parish,2026-11-03,99.9,,False,2,1,531,2026-11-18T14:36+00:00
+143399,LA,Louisiana Member of School Board - District 3 - East Baton Rouge Parish,2026-11-03,99.9,,False,4,1,10314,2026-11-18T14:36+00:00
+143864,LA,Louisiana Member of School Board - District 5 - St. Tammany Parish,2026-11-03,99.9,,False,3,1,7070,2026-11-18T14:36+00:00
+143109,LA,"Louisiana District Judge - 4th Judicial District Court, ES 1, Div. I",2026-11-03,99.9,,False,3,1,8134,2026-11-18T14:36+00:00
+143759,LA,Louisiana Constable - Justice of the Peace Ward I,2026-11-03,99.9,,False,2,1,2046,2026-11-18T14:36+00:00
+143424,LA,"Louisiana Councilman - District 1, City of Zachary",2026-11-03,99.9,,False,2,1,1834,2026-11-18T14:36+00:00
+143697,LA,"Louisiana Council Members - District 1, City of New Roads",2026-11-03,99.9,,False,3,1,1445,2026-11-18T14:36+00:00
+143134,LA,"Louisiana District Judge - 40th Judicial District Court, ES 2, Div. A",2026-11-03,99.9,,False,2,1,3775,2026-11-18T14:36+00:00
+143784,LA,Louisiana Constable - Justice of the Peace District 2 - St. James Parish,2026-11-03,99.9,,False,2,1,1473,2026-11-18T14:36+00:00
+143641,LA,Louisiana Constable - Justice of the Peace Ward 2 - Natchitoches Parish,2026-11-03,99.9,,False,2,1,1395,2026-11-18T14:36+00:00
+143914,LA,Louisiana PW Prop. No. 1 of 2 (TARC) - 5.33 Mills Renewal - PC - 10 Yrs.,2026-11-03,99.9,,False,2,1,27499,2026-11-18T14:36+00:00
+143572,LA,Louisiana Member of School Board - District 2 - La Salle Parish,2026-11-03,99.9,,False,2,1,317,2026-11-18T14:36+00:00
+143152,LA,Louisiana District Attorney - 21st Judicial District Court,2026-11-03,99.9,,False,2,3,82448,2026-11-18T14:36+00:00
+143809,LA,Louisiana Mayor - City of Opelousas,2026-11-03,99.9,,False,7,1,4785,2026-11-18T14:36+00:00
+143474,LA,Louisiana Road District No. 1 - 5.26 Mills Renewal - PJ - 10 Yrs.,2026-11-03,99.9,,False,2,1,4571,2026-11-18T14:36+00:00
+143939,LA,Louisiana Aldermen - Town of Maurice,2026-11-03,99.9,,False,6,1,3852,2026-11-18T14:36+00:00
+143597,LA,Louisiana Mayor - Town of Dubach,2026-11-03,99.9,,False,3,1,286,2026-11-18T14:36+00:00
+143177,LA,"Louisiana Councilman - District 1, City of Broussard",2026-11-03,99.9,,False,2,2,745,2026-11-18T14:36+00:00
+143851,LA,Louisiana Constable - Justice of the Peace Ward 8 - St. Mary Parish,2026-11-03,99.9,,False,2,1,2191,2026-11-18T14:36+00:00
+143708,LA,Louisiana Constable - Justice of the Peace Ward 2 - Rapides Parish,2026-11-03,99.9,,False,2,1,1768,2026-11-18T14:36+00:00
+143174,LA,"Louisiana Councilman - District E, City of Shreveport",2026-11-03,99.9,,False,3,1,7244,2026-11-18T14:36+00:00
+143554,LA,Louisiana Member of School Board - District 2 - Lafayette Parish,2026-11-03,99.9,,False,2,1,8237,2026-11-18T14:36+00:00
+143411,LA,"Louisiana Member of School Board - District 9, Zachary Community",2026-11-03,99.9,,False,2,1,947,2026-11-18T14:36+00:00
+143876,LA,Louisiana Mayor - Town of Abita Springs,2026-11-03,99.9,,False,2,1,1329,2026-11-18T14:36+00:00
+143925,LA,Louisiana Justice of the Peace - Justice of the Peace Ward 1 - Union Parish,2026-11-03,99.9,,False,4,1,2834,2026-11-18T14:36+00:00
+143199,LA,"Louisiana Alderman - Ward 1, City of Rayne",2026-11-03,99.9,,False,3,1,613,2026-11-18T14:36+00:00
+143771,LA,Louisiana Member of School Board - District 4 - St. Helena Parish,2026-11-03,99.9,,False,3,1,930,2026-11-18T14:36+00:00
+143436,LA,Louisiana Aldermen - Town of Lake Providence,2026-11-03,99.9,,False,12,1,5577,2026-11-18T14:36+00:00
+143101,LA,Louisiana Public Service Commission District 5,2026-11-03,99.9,,False,2,24,272226,2026-11-18T14:36+00:00
+143751,LA,Louisiana Constable - Justice of the Peace & Constable District 1,2026-11-03,99.9,,False,2,1,1331,2026-11-18T14:36+00:00
+143416,LA,"Louisiana Justice of the Peace - Justice of the Peace, District 6",2026-11-03,99.9,,False,5,1,35251,2026-11-18T14:36+00:00
+143653,LA,Louisiana Lake Oaks Subdivision Imp. Dist. - $800 Parcel Fee - CC - 4 Yrs.,2026-11-03,99.9,,False,2,1,382,2026-11-18T14:36+00:00
+143318,LA,"Louisiana Council Member - District A, Town of Iowa",2026-11-03,99.9,,False,2,1,293,2026-11-18T14:36+00:00
+143776,LA,Louisiana Constable - Justice of the Peace Ward 3 - St. Helena Parish,2026-11-03,99.9,,False,3,1,884,2026-11-18T14:36+00:00
+143441,LA,Louisiana Member of School Board - District 4 - East Feliciana Parish,2026-11-03,99.9,,False,2,1,559,2026-11-18T14:36+00:00
+143486,LA,Louisiana Justice of the Peace - Justice of the Peace District A - Grant Parish,2026-11-03,99.9,,False,2,1,982,2026-11-18T14:36+00:00
+143144,LA,Louisiana District Attorney - 4th Judicial District Court,2026-11-03,99.9,,False,2,2,50349,2026-11-18T14:36+00:00
+143993,LA,Louisiana Chief of Police - City of Springhill,2026-11-03,99.9,,False,2,1,1395,2026-11-18T14:36+00:00
+143466,LA,"Louisiana Alderman - District 2, Town of Mamou",2026-11-03,99.9,,False,3,1,236,2026-11-18T14:36+00:00
+143703,LA,Louisiana Member of School Board - District H - Rapides Parish,2026-11-03,99.9,,False,2,1,4272,2026-11-18T14:36+00:00
+143169,LA,Louisiana Aldermen - Town of Arnaudville,2026-11-03,99.9,,False,8,2,1356,2026-11-18T14:36+00:00
+144018,LA,Louisiana Member of School Board - District 5 - Winn Parish,2026-11-03,99.9,,False,2,1,465,2026-11-18T14:36+00:00
+143299,LA,Louisiana Mayor - Town of Vivian,2026-11-03,99.9,,False,2,1,764,2026-11-18T14:36+00:00
+143149,LA,Louisiana District Attorney - 15th Judicial District Court,2026-11-03,99.9,,False,2,3,108484,2026-11-18T14:36+00:00
+143728,LA,Louisiana Town of Boyce - COP Elected to Appointed - M&BOA,2026-11-03,99.9,,False,2,1,389,2026-11-18T14:36+00:00
+143386,LA,Louisiana Justice of the Peace - Justice of the Peace District 6,2026-11-03,99.9,,False,2,1,1036,2026-11-18T14:36+00:00
+87182,LA,Louisiana US House 6,2026-11-03,97.3,,False,10,11,262712,2026-11-18T14:36+00:00
+87177,LA,Louisiana US House 1,2026-11-03,98,2026-11-04T07:17:39.679Z,False,4,8,263391,2026-11-18T14:36+00:00
+87179,LA,Louisiana US House 3,2026-11-03,93.3,2026-11-04T07:17:39.679Z,False,6,11,234995,2026-11-18T14:36+00:00
+87181,LA,Louisiana US House 5,2026-11-03,91.8,,False,9,24,227923,2026-11-18T14:36+00:00
+87183,LA,Louisiana US Senate,2026-11-03,96.4,2026-11-04T05:46:58.308Z,False,2,64,1466982,2026-11-18T14:36+00:00
+87178,LA,Louisiana US House 2,2026-11-03,97.7,2026-11-04T07:17:39.679Z,False,5,10,240616,2026-11-18T14:36+00:00
+87180,LA,Louisiana US House 4,2026-11-03,96.4,2026-11-04T07:17:39.679Z,False,5,15,230359,2026-11-18T14:36+00:00

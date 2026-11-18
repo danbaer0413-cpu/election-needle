@@ -1,0 +1,375 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+156709,NV,Nevada Supreme Court Seat B,2026-11-03,90.7,,False,2,17,860870,2026-11-18T15:38+00:00
+157055,NV,Nevada Question 7,2026-11-03,90.7,,False,2,17,1066834,2026-11-18T15:38+00:00
+87260,NV,Nevada Governor,2026-11-03,88.5,2026-11-04T09:52:10.203Z,False,4,17,1091581,2026-11-18T15:38+00:00
+157054,NV,Nevada Question 6,2026-11-03,90.7,,False,2,17,1059451,2026-11-18T15:38+00:00
+87262,NV,Nevada Attorney General,2026-11-03,90.7,,False,3,17,1078871,2026-11-18T15:38+00:00
+159556,NV,Nevada State Senate,2026-11-03,27.7,,False,3,11,529410,2026-11-18T15:38+00:00
+87265,NV,Nevada State Controller,2026-11-03,0,2026-11-17T03:50:43.246Z,False,2,17,994673,2026-11-18T15:38+00:00
+87261,NV,Nevada Lieutenant Governor,2026-11-03,90.7,,False,4,17,1083802,2026-11-18T15:38+00:00
+159555,NV,Nevada State Assembly,2026-11-03,33.5,,False,5,42,1011207,2026-11-18T15:38+00:00
+87264,NV,Nevada State Treasurer,2026-11-03,90.7,,False,3,17,1077657,2026-11-18T15:38+00:00
+156710,NV,Nevada Supreme Court Seat D,2026-11-03,90.7,,False,2,17,859518,2026-11-18T15:38+00:00
+87263,NV,Nevada Secretary of State,2026-11-03,90.7,,False,5,17,1082701,2026-11-18T15:38+00:00
+156712,NV,Nevada District Court Judge Fifth Judicial District Department 1,2026-11-03,0,,False,2,2,17323,2026-11-18T15:38+00:00
+156927,NV,Nevada Humboldt County Sheriff,2026-11-03,0,,False,2,1,5281,2026-11-18T15:38+00:00
+156915,NV,Nevada Eureka County Sheriff,2026-11-03,0,,False,2,1,730,2026-11-18T15:38+00:00
+156906,NV,Nevada Esmeralda County Commissioner District 1,2026-11-03,0,,False,2,1,162,2026-11-18T15:38+00:00
+156894,NV,Nevada Elko County School Board Trustee Seat 7,2026-11-03,0,,False,1,1,8386,2026-11-18T15:38+00:00
+157045,NV,Nevada City of Sparks Mayor,2026-11-03,0,,False,2,1,32753,2026-11-18T15:38+00:00
+156800,NV,Nevada District Court Judge Eighth Judicial District Department 16,2026-11-03,0,,False,1,1,421957,2026-11-18T15:38+00:00
+156779,NV,Nevada Clark County District Attorney,2026-11-03,0,,False,1,1,494123,2026-11-18T15:38+00:00
+156770,NV,Nevada State House 29,2026-11-03,48.4,2026-11-12T01:54:12.332Z,False,2,1,24118,2026-11-18T15:38+00:00
+156733,NV,Nevada Churchill County District Attorney,2026-11-03,0,,False,1,1,7870,2026-11-18T15:38+00:00
+156948,NV,Nevada Lincoln County Sheriff,2026-11-03,0,,False,2,1,1863,2026-11-18T15:38+00:00
+156991,NV,Nevada Pershing County Commissioner Seat C,2026-11-03,0,,False,1,1,1388,2026-11-18T15:38+00:00
+156979,NV,Nevada Nye County Clerk,2026-11-03,0,,False,1,1,15040,2026-11-18T15:38+00:00
+156970,NV,Nevada Mineral County Clerk - Treasurer,2026-11-03,0,,False,1,1,1315,2026-11-18T15:38+00:00
+156741,NV,Nevada State Senate 9,2026-11-03,48.8,2026-11-12T01:54:12.331Z,False,2,1,46691,2026-11-18T15:38+00:00
+156924,NV,Nevada District Court Judge Sixth Judicial District Department 1,2026-11-03,0,,False,1,1,4793,2026-11-18T15:38+00:00
+156944,NV,Nevada Lincoln County Commissioner District D,2026-11-03,0,,False,1,1,1668,2026-11-18T15:38+00:00
+156871,NV,Nevada Douglas County Clerk-Treasurer,2026-11-03,0,,False,1,1,20756,2026-11-18T15:38+00:00
+156850,NV,Nevada Clark County Overton Moapa Valley Water District,2026-11-03,0,,False,2,1,890,2026-11-18T15:38+00:00
+157033,NV,Nevada District Court Judge Second Judicial District Department 14 Family Court,2026-11-03,0,,False,1,1,111766,2026-11-18T15:38+00:00
+157021,NV,Nevada District Court Judge Second Judicial District Department 2 Family Court,2026-11-03,0,,False,1,1,116996,2026-11-18T15:38+00:00
+157012,NV,Nevada Washoe County Commissioner District 2,2026-11-03,0,,False,2,1,43349,2026-11-18T15:38+00:00
+156776,NV,Nevada Clark County Commissioner District E,2026-11-03,0,,False,2,1,67758,2026-11-18T15:38+00:00
+156838,NV,Nevada District Court Judge Eighth Judicial District Family Division Department V,2026-11-03,0,,False,1,1,418706,2026-11-18T15:38+00:00
+157050,NV,Nevada White Pine County Commissioner Seat 5,2026-11-03,0,,False,2,1,3028,2026-11-18T15:38+00:00
+157041,NV,Nevada Reno City Attorney,2026-11-03,0,,False,1,1,58914,2026-11-18T15:38+00:00
+156805,NV,Nevada District Court Judge Eighth Judicial District Department 21,2026-11-03,0,,False,2,1,497761,2026-11-18T15:38+00:00
+156796,NV,Nevada District Court Judge Eighth Judicial District Department 12,2026-11-03,0,,False,2,1,509541,2026-11-18T15:38+00:00
+157008,NV,Nevada State House 30,2026-11-03,48,2026-11-12T01:54:12.332Z,False,2,1,20155,2026-11-18T15:38+00:00
+156967,NV,Nevada Fernley Councilmember Ward F3,2026-11-03,0,,False,2,1,1128,2026-11-18T15:38+00:00
+156953,NV,Nevada Lyon County Clerk-Treasurer,2026-11-03,0,,False,1,1,19257,2026-11-18T15:38+00:00
+156900,NV,Nevada City of Elko Councilmember,2026-11-03,0,,False,6,1,6382,2026-11-18T15:38+00:00
+156859,NV,Nevada City of Las Vegas Municipal Court Judge Department 1,2026-11-03,0,,False,2,1,140838,2026-11-18T15:38+00:00
+156847,NV,Nevada Clark County School Board Trustee District F,2026-11-03,0,,False,2,1,67578,2026-11-18T15:38+00:00
+156929,NV,Nevada Winnemucca City Council Seat 2,2026-11-03,0,,False,3,1,2352,2026-11-18T15:38+00:00
+156728,NV,Nevada Carson City Supervisor Ward 3,2026-11-03,0,,False,2,1,21759,2026-11-18T15:38+00:00
+156908,NV,Nevada Esmeralda County District Attorney,2026-11-03,0,,False,1,1,324,2026-11-18T15:38+00:00
+156867,NV,Nevada Clark County Justice Of The Peace Henderson Department 4,2026-11-03,0,,False,2,1,93097,2026-11-18T15:38+00:00
+156887,NV,Nevada Elko County District Attorney,2026-11-03,0,,False,1,1,9031,2026-11-18T15:38+00:00
+157038,NV,Nevada Washoe County School Board Trustee District F,2026-11-03,0,,False,2,1,66853,2026-11-18T15:38+00:00
+157017,NV,Nevada Washoe County District Attorney,2026-11-03,0,,False,1,1,121154,2026-11-18T15:38+00:00
+156772,NV,Nevada State House 35,2026-11-03,47.5,2026-11-12T01:54:12.332Z,False,2,1,28254,2026-11-18T15:38+00:00
+156962,NV,Nevada Lyon County School Board Trustee District 6,2026-11-03,0,,False,2,1,18952,2026-11-18T15:38+00:00
+156950,NV,Nevada Lyon County Commissioner District 2,2026-11-03,0,,False,1,1,18331,2026-11-18T15:38+00:00
+156941,NV,Nevada Lincoln County Assessor,2026-11-03,0,,False,1,1,1752,2026-11-18T15:38+00:00
+156993,NV,Nevada Pershing County Public Administrator,2026-11-03,0,,False,1,1,1412,2026-11-18T15:38+00:00
+156792,NV,Nevada District Court Judge Eighth Judicial District Department 8,2026-11-03,0,,False,2,1,510194,2026-11-18T15:38+00:00
+156972,NV,Nevada Mineral County Recorder,2026-11-03,0,,False,1,1,1285,2026-11-18T15:38+00:00
+156963,NV,Nevada Lyon County Silver Springs/Stagecoach Hospital District Trustee,2026-11-03,0,,False,4,1,4746,2026-11-18T15:38+00:00
+156958,NV,Nevada Central Lyon County Fire Protection District 5,2026-11-03,0,,False,2,1,9515,2026-11-18T15:38+00:00
+156725,NV,Nevada Carson City School Board Trustee District 4,2026-11-03,0,,False,1,1,18944,2026-11-18T15:38+00:00
+156896,NV,Nevada City of Carlin Mayor,2026-11-03,0,,False,1,1,153,2026-11-18T15:38+00:00
+156843,NV,Nevada Board of Regents District 2,2026-11-03,0,,False,2,1,46451,2026-11-18T15:38+00:00
+156834,NV,Nevada District Court Judge Eighth Judicial District Family Division Department R,2026-11-03,0,,False,2,1,491413,2026-11-18T15:38+00:00
+157014,NV,Nevada Washoe County Commissioner District 5,2026-11-03,0,,False,3,1,36511,2026-11-18T15:38+00:00
+157005,NV,Nevada State House 25,2026-11-03,48.4,2026-11-12T01:54:12.332Z,False,2,1,33931,2026-11-18T15:38+00:00
+156840,NV,Nevada District Court Judge Eighth Judicial District Family Division Department X,2026-11-03,0,,False,1,1,411118,2026-11-18T15:38+00:00
+156863,NV,Nevada City of North Las Vegas Mayor,2026-11-03,0,,False,2,1,64540,2026-11-18T15:38+00:00
+157043,NV,Nevada Reno City Councilmember Ward 4,2026-11-03,0,,False,2,1,10785,2026-11-18T15:38+00:00
+157034,NV,Nevada District Court Judge Second Judicial District Department 15,2026-11-03,0,,False,1,1,115678,2026-11-18T15:38+00:00
+157022,NV,Nevada District Court Judge Second Judicial District Department 3,2026-11-03,0,,False,1,1,117064,2026-11-18T15:38+00:00
+156789,NV,Nevada District Court Judge Eighth Judicial District Department 5,2026-11-03,0,,False,2,1,506044,2026-11-18T15:38+00:00
+156743,NV,Nevada State Senate 12,2026-11-03,49,2026-11-12T01:54:12.331Z,False,2,1,52069,2026-11-18T15:38+00:00
+156946,NV,Nevada Lincoln County Recorder/Auditor,2026-11-03,0,,False,1,1,1762,2026-11-18T15:38+00:00
+156713,NV,Nevada District Court Judge Fifth Judicial District Department 2,2026-11-03,0,,False,2,2,16722,2026-11-18T15:38+00:00
+156893,NV,Nevada Elko County School Board Trustee Seat 6,2026-11-03,0,,False,1,1,8415,2026-11-18T15:38+00:00
+156884,NV,Nevada Elko County Commissioner District 4,2026-11-03,0,,False,1,1,9055,2026-11-18T15:38+00:00
+156934,NV,Nevada Lander County Clerk,2026-11-03,0,,False,1,1,1792,2026-11-18T15:38+00:00
+156730,NV,Nevada Churchill County Commissioner District 2,2026-11-03,0,,False,1,1,7853,2026-11-18T15:38+00:00
+156721,NV,Nevada Carson City County Treasurer,2026-11-03,0,,False,1,1,19370,2026-11-18T15:38+00:00
+156869,NV,Nevada Douglas County Commissioner District 4,2026-11-03,0,,False,2,1,25761,2026-11-18T15:38+00:00
+156860,NV,Nevada City of Las Vegas Municipal Court Judge Department 2,2026-11-03,0,,False,2,1,138384,2026-11-18T15:38+00:00
+156880,NV,Nevada Douglas County Topaz Ranch Estates General Improvement District,2026-11-03,0,,False,4,1,1244,2026-11-18T15:38+00:00
+157031,NV,Nevada District Court Judge Second Judicial District Department 12 Family Court,2026-11-03,0,,False,1,1,112632,2026-11-18T15:38+00:00
+157010,NV,Nevada Washoe County Assessor,2026-11-03,0,,False,1,1,120538,2026-11-18T15:38+00:00
+156777,NV,Nevada Clark County Commissioner District F,2026-11-03,0,,False,3,1,108720,2026-11-18T15:38+00:00
+156765,NV,Nevada State House 20,2026-11-03,48.1,2026-11-12T01:54:12.332Z,False,2,1,16226,2026-11-18T15:38+00:00
+156955,NV,Nevada Lyon County District Attorney,2026-11-03,0,,False,2,1,22425,2026-11-18T15:38+00:00
+156943,NV,Nevada Lincoln County Commissioner District B,2026-11-03,0,,False,1,1,1725,2026-11-18T15:38+00:00
+156794,NV,Nevada District Court Judge Eighth Judicial District Department 10,2026-11-03,0,,False,1,1,425384,2026-11-18T15:38+00:00
+156785,NV,Nevada District Court Judge Eighth Judicial District Department 1,2026-11-03,0,,False,1,1,455155,2026-11-18T15:38+00:00
+156965,NV,Nevada City of Fernley Mayor,2026-11-03,0,,False,2,1,7123,2026-11-18T15:38+00:00
+156739,NV,Nevada State Senate 2,2026-11-03,0,2026-11-04T07:09:42.076Z,False,1,1,18991,2026-11-18T15:38+00:00
+156759,NV,Nevada State House 14,2026-11-03,0,2026-11-04T07:09:42.076Z,False,1,1,11136,2026-11-18T15:38+00:00
+156718,NV,Nevada Board of Regents District 8,2026-11-03,0,,False,2,7,62116,2026-11-18T15:38+00:00
+156889,NV,Nevada District Court Judge Fourth Judicial District Department 2,2026-11-03,0,,False,1,1,8788,2026-11-18T15:38+00:00
+156836,NV,Nevada District Court Judge Eighth Judicial District Family Division Department T,2026-11-03,0,,False,1,1,409423,2026-11-18T15:38+00:00
+157019,NV,Nevada Board of Regents District 10,2026-11-03,0,,False,2,1,67582,2026-11-18T15:38+00:00
+157007,NV,Nevada State House 27,2026-11-03,48.8,2026-11-12T01:54:12.332Z,False,2,1,24325,2026-11-18T15:38+00:00
+156998,NV,Nevada Storey County Assessor,2026-11-03,0,,False,1,1,1802,2026-11-18T15:38+00:00
+156865,NV,Nevada Clark County Constable Laughlin Township,2026-11-03,0,,False,2,1,2090,2026-11-18T15:38+00:00
+156856,NV,Nevada Henderson City Council Ward III,2026-11-03,0,,False,2,1,22919,2026-11-18T15:38+00:00
+157036,NV,Nevada Washoe County Incline Village General Improvement District,2026-11-03,0,,False,3,1,7131,2026-11-18T15:38+00:00
+157027,NV,Nevada District Court Judge Second Judicial District Department 8,2026-11-03,0,,False,1,1,117163,2026-11-18T15:38+00:00
+156823,NV,Nevada District Court Judge Eighth Judicial District Family Division Department G,2026-11-03,0,,False,1,1,414718,2026-11-18T15:38+00:00
+156782,NV,Nevada Clark County Recorder,2026-11-03,0,,False,3,1,657642,2026-11-18T15:38+00:00
+156960,NV,Nevada North Lyon County Fire Protection District Director,2026-11-03,0,,False,3,1,9182,2026-11-18T15:38+00:00
+156939,NV,Nevada Lander County School Board Trustee Area 1,2026-11-03,0,,False,4,1,4116,2026-11-18T15:38+00:00
+156706,NV,Nevada State House 38,2026-11-03,0,2026-11-04T07:09:42.076Z,False,1,5,21076,2026-11-18T15:38+00:00
+156886,NV,Nevada Elko County Treasurer,2026-11-03,0,,False,1,1,9133,2026-11-18T15:38+00:00
+156877,NV,Nevada Douglas County Indian Hills General Improvement District,2026-11-03,0,,False,5,1,3429,2026-11-18T15:38+00:00
+156936,NV,Nevada Lander County Recorder,2026-11-03,0,,False,1,1,1774,2026-11-18T15:38+00:00
+156735,NV,Nevada Churchill County Recorder,2026-11-03,0,,False,1,1,8012,2026-11-18T15:38+00:00
+156723,NV,Nevada Carson City District Attorney,2026-11-03,0,,False,2,1,21822,2026-11-18T15:38+00:00
+156714,NV,Nevada District Court Judge First Judicial District Department 1,2026-11-03,0,,False,1,2,21639,2026-11-18T15:38+00:00
+156702,NV,Nevada State Senate 17,2026-11-03,14,2026-11-12T01:54:12.331Z,False,2,6,65780,2026-11-18T15:38+00:00
+156853,NV,Nevada Boulder City Mayor,2026-11-03,0,,False,2,1,5925,2026-11-18T15:38+00:00
+157024,NV,Nevada District Court Judge Second Judicial District Department 5 Family Court,2026-11-03,0,,False,1,1,115952,2026-11-18T15:38+00:00
+157003,NV,Nevada State Senate 13,2026-11-03,48.9,2026-11-12T01:54:12.331Z,False,3,1,40371,2026-11-18T15:38+00:00
+156994,NV,Nevada Pershing County Recorder-Auditor,2026-11-03,0,,False,1,1,1484,2026-11-18T15:38+00:00
+156957,NV,Nevada District Court Judge Third Judicial District Department 2,2026-11-03,0,,False,1,1,18281,2026-11-18T15:38+00:00
+156756,NV,Nevada State House 11,2026-11-03,0,2026-11-04T07:09:42.076Z,False,1,1,8881,2026-11-18T15:38+00:00
+157000,NV,Nevada Storey County District Attorney,2026-11-03,0,,False,1,1,1777,2026-11-18T15:38+00:00
+156799,NV,Nevada District Court Judge Eighth Judicial District Department 15,2026-11-03,0,,False,1,1,428763,2026-11-18T15:38+00:00
+156787,NV,Nevada District Court Judge Eighth Judicial District Department 3,2026-11-03,0,,False,1,1,446926,2026-11-18T15:38+00:00
+156778,NV,Nevada Clark County Commissioner District G,2026-11-03,0,,False,2,1,103072,2026-11-18T15:38+00:00
+156766,NV,Nevada State House 21,2026-11-03,48.2,2026-11-12T01:54:12.332Z,False,3,1,26564,2026-11-18T15:38+00:00
+156732,NV,Nevada Churchill County Clerk-Treasurer,2026-11-03,0,,False,1,1,8022,2026-11-18T15:38+00:00
+156752,NV,Nevada State House 7,2026-11-03,47,2026-11-12T01:54:12.332Z,False,2,1,19639,2026-11-18T15:38+00:00
+156903,NV,Nevada City of West Wendover Councilmember,2026-11-03,0,,False,8,1,381,2026-11-18T15:38+00:00
+156882,NV,Nevada Elko County Clerk,2026-11-03,0,,False,1,1,9198,2026-11-18T15:38+00:00
+156841,NV,Nevada District Court Judge Eighth Judicial District Family Division Department Y,2026-11-03,0,,False,1,1,416124,2026-11-18T15:38+00:00
+156829,NV,Nevada District Court Judge Eighth Judicial District Family Division Department M,2026-11-03,0,,False,1,1,413892,2026-11-18T15:38+00:00
+156820,NV,Nevada District Court Judge Eighth Judicial District Family Division Department D,2026-11-03,0,,False,2,1,494659,2026-11-18T15:38+00:00
+170070,NV,Nevada Boulder City Ballot Question No. 1,2026-11-03,0,,False,2,1,6699,2026-11-18T15:38+00:00
+156858,NV,Nevada City of Las Vegas Councilman Ward 2,2026-11-03,0,,False,2,1,30473,2026-11-18T15:38+00:00
+156849,NV,Nevada Clark County Logandale Moapa Valley Water District,2026-11-03,0,,False,2,1,1136,2026-11-18T15:38+00:00
+157029,NV,Nevada District Court Judge Second Judicial District Department 10,2026-11-03,0,,False,1,1,112988,2026-11-18T15:38+00:00
+157020,NV,Nevada District Court Judge Second Judicial District Department 1,2026-11-03,0,,False,2,1,142520,2026-11-18T15:38+00:00
+156816,NV,Nevada District Court Judge Eighth Judicial District Department 32,2026-11-03,0,,False,1,1,408292,2026-11-18T15:38+00:00
+156775,NV,Nevada State House 42,2026-11-03,47.8,2026-11-12T01:54:12.332Z,False,2,1,21068,2026-11-18T15:38+00:00
+156761,NV,Nevada State House 16,2026-11-03,47.9,2026-11-12T01:54:12.332Z,False,2,1,18467,2026-11-18T15:38+00:00
+156708,NV,Nevada State House 40,2026-11-03,24.5,2026-11-12T01:54:12.332Z,False,2,3,33708,2026-11-18T15:38+00:00
+156891,NV,Nevada Elko TV Board Seat B,2026-11-03,0,,False,2,1,8517,2026-11-18T15:38+00:00
+156879,NV,Nevada Douglas County Oliver Park General Improvement District,2026-11-03,0,,False,4,1,282,2026-11-18T15:38+00:00
+156737,NV,Nevada Churchill County School Board Trustee,2026-11-03,0,,False,5,1,24790,2026-11-18T15:38+00:00
+156952,NV,Nevada Lyon County Assessor,2026-11-03,0,,False,1,1,18940,2026-11-18T15:38+00:00
+156716,NV,Nevada District Court Judge Seventh Judicial District Department 1,2026-11-03,0,,False,1,3,4969,2026-11-18T15:38+00:00
+156899,NV,Nevada City of Elko Mayor,2026-11-03,0,,False,3,1,3564,2026-11-18T15:38+00:00
+156919,NV,Nevada Humboldt County Commissioner Seat C,2026-11-03,0,,False,2,1,5244,2026-11-18T15:38+00:00
+156846,NV,Nevada Clark County School Board Trustee District D,2026-11-03,0,,False,2,1,42590,2026-11-18T15:38+00:00
+156825,NV,Nevada District Court Judge Eighth Judicial District Family Division Department I,2026-11-03,0,,False,1,1,418275,2026-11-18T15:38+00:00
+156996,NV,Nevada Lovelock City Council Seat C,2026-11-03,0,,False,4,1,472,2026-11-18T15:38+00:00
+156763,NV,Nevada State House 18,2026-11-03,48.4,2026-11-12T01:54:12.332Z,False,2,1,20120,2026-11-18T15:38+00:00
+156758,NV,Nevada State House 13,2026-11-03,48.8,2026-11-12T01:54:12.332Z,False,3,1,31167,2026-11-18T15:38+00:00
+156749,NV,Nevada State House 4,2026-11-03,49.2,2026-11-12T01:54:12.331Z,False,2,1,29247,2026-11-18T15:38+00:00
+156801,NV,Nevada District Court Judge Eighth Judicial District Department 17,2026-11-03,0,,False,2,1,498207,2026-11-18T15:38+00:00
+157016,NV,Nevada Washoe County Treasurer,2026-11-03,0,,False,1,1,121568,2026-11-18T15:38+00:00
+156780,NV,Nevada Clark County Assessor,2026-11-03,0,,False,3,1,659033,2026-11-18T15:38+00:00
+156771,NV,Nevada State House 34,2026-11-03,47.6,2026-11-12T01:54:12.332Z,False,2,1,22621,2026-11-18T15:38+00:00
+156983,NV,Nevada Nye County Public Administrator,2026-11-03,0,,False,1,1,14669,2026-11-18T15:38+00:00
+156949,NV,Nevada City of Caliente City Council,2026-11-03,0,,False,4,1,600,2026-11-18T15:38+00:00
+156704,NV,Nevada State House 33,2026-11-03,0,2026-11-04T07:09:42.076Z,False,1,5,18932,2026-11-18T15:38+00:00
+156875,NV,Nevada District Court Judge Ninth Judicial District Department 2,2026-11-03,0,,False,1,1,18944,2026-11-18T15:38+00:00
+170066,NV,Nevada Churchill County Ballot Question No. 1,2026-11-03,0,,False,2,1,9306,2026-11-18T15:38+00:00
+156822,NV,Nevada District Court Judge Eighth Judicial District Family Division Department F,2026-11-03,0,,False,1,1,415009,2026-11-18T15:38+00:00
+156813,NV,Nevada District Court Judge Eighth Judicial District Department 29,2026-11-03,0,,False,2,1,498708,2026-11-18T15:38+00:00
+156872,NV,Nevada Douglas County District Attorney,2026-11-03,0,,False,1,1,20324,2026-11-18T15:38+00:00
+156895,NV,Nevada Elko County Sheriff,2026-11-03,0,,False,2,1,10010,2026-11-18T15:38+00:00
+156851,NV,Nevada Clark County Mesquite Virgin Valley Water District,2026-11-03,0,,False,3,1,11004,2026-11-18T15:38+00:00
+156842,NV,Nevada District Court Judge Eighth Judicial District Family Division Department Z,2026-11-03,0,,False,1,1,413961,2026-11-18T15:38+00:00
+156830,NV,Nevada District Court Judge Eighth Judicial District Family Division Department N,2026-11-03,0,,False,2,1,495180,2026-11-18T15:38+00:00
+157013,NV,Nevada Washoe County Commissioner District 3,2026-11-03,0,,False,2,1,22432,2026-11-18T15:38+00:00
+156768,NV,Nevada State House 23,2026-11-03,49,2026-11-12T01:54:12.332Z,False,2,1,39354,2026-11-18T15:38+00:00
+156754,NV,Nevada State House 9,2026-11-03,47.6,2026-11-12T01:54:12.332Z,False,2,1,25453,2026-11-18T15:38+00:00
+156937,NV,Nevada Lander County Treasurer,2026-11-03,0,,False,1,1,1773,2026-11-18T15:38+00:00
+156701,NV,Nevada State Senate 16,2026-11-03,24.5,2026-11-12T01:54:12.331Z,False,2,3,74493,2026-11-18T15:38+00:00
+156916,NV,Nevada Eureka County Crescent Valley Town Advisory Board,2026-11-03,0,,False,4,1,288,2026-11-18T15:38+00:00
+156742,NV,Nevada State Senate 10,2026-11-03,0,2026-11-04T07:09:42.076Z,False,1,1,21629,2026-11-18T15:38+00:00
+156954,NV,Nevada Lyon County Recorder,2026-11-03,0,,False,1,1,19013,2026-11-18T15:38+00:00
+156945,NV,Nevada Lincoln County District Attorney,2026-11-03,0,,False,1,1,1733,2026-11-18T15:38+00:00
+156901,NV,Nevada City of Wells Mayor,2026-11-03,0,,False,1,1,125,2026-11-18T15:38+00:00
+156892,NV,Nevada Elko County School Board Trustee Seat 1,2026-11-03,0,,False,2,1,9017,2026-11-18T15:38+00:00
+156912,NV,Nevada Eureka County Treasurer,2026-11-03,0,,False,1,1,682,2026-11-18T15:38+00:00
+156839,NV,Nevada District Court Judge Eighth Judicial District Family Division Department W,2026-11-03,0,,False,1,1,418098,2026-11-18T15:38+00:00
+156818,NV,Nevada District Court Judge Eighth Judicial District Family Division Department B,2026-11-03,0,,False,1,1,424431,2026-11-18T15:38+00:00
+157001,NV,Nevada Storey County Recorder,2026-11-03,0,,False,1,1,1792,2026-11-18T15:38+00:00
+156989,NV,Nevada Pershing County Assessor,2026-11-03,0,,False,1,1,1511,2026-11-18T15:38+00:00
+156980,NV,Nevada Nye County Commissioner District 4,2026-11-03,0,,False,2,1,3448,2026-11-18T15:38+00:00
+156751,NV,Nevada State House 6,2026-11-03,48.4,2026-11-12T01:54:12.332Z,False,2,1,13097,2026-11-18T15:38+00:00
+157018,NV,Nevada Washoe County Public Administrator,2026-11-03,0,,False,2,1,184930,2026-11-18T15:38+00:00
+157009,NV,Nevada State House 31,2026-11-03,48.4,2026-11-12T01:54:12.332Z,False,2,1,36067,2026-11-18T15:38+00:00
+156773,NV,Nevada State House 37,2026-11-03,48.8,2026-11-12T01:54:12.332Z,False,2,1,31219,2026-11-18T15:38+00:00
+156764,NV,Nevada State House 19,2026-11-03,49.1,2026-11-12T01:54:12.332Z,False,2,1,31267,2026-11-18T15:38+00:00
+156976,NV,Nevada Mineral County Walker Lake General Improvement District (4 Year Term),2026-11-03,0,,False,2,1,174,2026-11-18T15:38+00:00
+156942,NV,Nevada Lincoln County Clerk,2026-11-03,0,,False,1,1,1811,2026-11-18T15:38+00:00
+156921,NV,Nevada Humboldt County Recorder,2026-11-03,0,,False,1,1,4752,2026-11-18T15:38+00:00
+170068,NV,Nevada Douglas County Ballot Question No. 1,2026-11-03,0,,False,2,1,24696,2026-11-18T15:38+00:00
+156827,NV,Nevada District Court Judge Eighth Judicial District Family Division Department K,2026-11-03,0,,False,1,1,421166,2026-11-18T15:38+00:00
+156815,NV,Nevada District Court Judge Eighth Judicial District Department 31,2026-11-03,0,,False,2,1,478083,2026-11-18T15:38+00:00
+156806,NV,Nevada District Court Judge Eighth Judicial District Department 22,2026-11-03,0,,False,1,1,421549,2026-11-18T15:38+00:00
+156897,NV,Nevada City of Carlin Councilmember 2 Year unexpired term,2026-11-03,0,,False,2,1,162,2026-11-18T15:38+00:00
+156888,NV,Nevada District Court Judge Fourth Judicial District Department 1,2026-11-03,0,,False,1,1,8764,2026-11-18T15:38+00:00
+156844,NV,Nevada Board of Regents District 3,2026-11-03,0,,False,2,1,46022,2026-11-18T15:38+00:00
+156835,NV,Nevada District Court Judge Eighth Judicial District Family Division Department S,2026-11-03,0,,False,2,1,491324,2026-11-18T15:38+00:00
+157047,NV,Nevada White Pine County Assessor,2026-11-03,0,,False,1,1,2611,2026-11-18T15:38+00:00
+157006,NV,Nevada State House 26,2026-11-03,48.5,2026-11-12T01:54:12.332Z,False,2,1,40408,2026-11-18T15:38+00:00
+156985,NV,Nevada Nye County Treasurer,2026-11-03,0,,False,1,1,14811,2026-11-18T15:38+00:00
+156747,NV,Nevada State House 2,2026-11-03,47.6,2026-11-12T01:54:12.331Z,False,2,1,29555,2026-11-18T15:38+00:00
+156930,NV,Nevada Lander County Commissioner District 1,2026-11-03,0,,False,2,1,1951,2026-11-18T15:38+00:00
+156918,NV,Nevada Humboldt County Clerk,2026-11-03,0,,False,1,1,4880,2026-11-18T15:38+00:00
+156909,NV,Nevada Eureka County Assessor,2026-11-03,0,,False,1,1,675,2026-11-18T15:38+00:00
+156744,NV,Nevada State Senate 20,2026-11-03,49,2026-11-12T01:54:12.331Z,False,2,1,73807,2026-11-18T15:38+00:00
+156959,NV,Nevada Lyon County Mason Valley Swimming Pool Gid Board Trustee,2026-11-03,0,,False,6,1,8155,2026-11-18T15:38+00:00
+156947,NV,Nevada Lincoln County Treasurer,2026-11-03,0,,False,1,1,1769,2026-11-18T15:38+00:00
+156938,NV,Nevada Lander County Sheriff,2026-11-03,0,,False,2,1,1971,2026-11-18T15:38+00:00
+156926,NV,Nevada Humboldt County Golconda Fire District Seat E,2026-11-03,0,,False,2,1,102,2026-11-18T15:38+00:00
+156885,NV,Nevada Elko County Recorder,2026-11-03,0,,False,1,1,9135,2026-11-18T15:38+00:00
+156832,NV,Nevada District Court Judge Eighth Judicial District Family Division Department P,2026-11-03,0,,False,2,1,478530,2026-11-18T15:38+00:00
+156811,NV,Nevada District Court Judge Eighth Judicial District Department 27,2026-11-03,0,,False,1,1,425020,2026-11-18T15:38+00:00
+156802,NV,Nevada District Court Judge Eighth Judicial District Department 18,2026-11-03,0,,False,1,1,419728,2026-11-18T15:38+00:00
+156982,NV,Nevada Nye County District Attorney,2026-11-03,0,,False,1,1,14368,2026-11-18T15:38+00:00
+156973,NV,Nevada Mineral County District Attorney,2026-11-03,0,,False,1,1,1226,2026-11-18T15:38+00:00
+156808,NV,Nevada District Court Judge Eighth Judicial District Department 24,2026-11-03,0,,False,1,1,423220,2026-11-18T15:38+00:00
+157023,NV,Nevada District Court Judge Second Judicial District Department 4,2026-11-03,0,,False,1,1,110790,2026-11-18T15:38+00:00
+157011,NV,Nevada Washoe County Clerk,2026-11-03,0,,False,2,1,185112,2026-11-18T15:38+00:00
+157002,NV,Nevada Storey County Justice Of The Peace Virginia Township,2026-11-03,0,,False,2,1,2002,2026-11-18T15:38+00:00
+156990,NV,Nevada Pershing County Clerk-Treasurer,2026-11-03,0,,False,2,1,1552,2026-11-18T15:38+00:00
+156956,NV,Nevada District Court Judge Third Judicial District Department 1,2026-11-03,0,,False,1,1,18540,2026-11-18T15:38+00:00
+156711,NV,Nevada District Court Judge Eleventh Judicial District Department 1,2026-11-03,0,,False,1,3,4403,2026-11-18T15:38+00:00
+156914,NV,Nevada Eureka County School Board Trustee Seat 2B,2026-11-03,0,,False,2,1,668,2026-11-18T15:38+00:00
+156873,NV,Nevada Douglas County Recorder,2026-11-03,0,,False,1,1,20205,2026-11-18T15:38+00:00
+157053,NV,Nevada White Pine County District Attorney,2026-11-03,0,,False,1,1,2581,2026-11-18T15:38+00:00
+157044,NV,Nevada Reno Municipal Court Judge Department 1,2026-11-03,0,,False,2,1,73633,2026-11-18T15:38+00:00
+156870,NV,Nevada Douglas County Assessor,2026-11-03,0,,False,1,1,20517,2026-11-18T15:38+00:00
+156890,NV,Nevada District Court Judge Fourth Judicial District Department 3,2026-11-03,0,,False,1,1,8744,2026-11-18T15:38+00:00
+156881,NV,Nevada Elko County Assessor,2026-11-03,0,,False,1,1,9079,2026-11-18T15:38+00:00
+156837,NV,Nevada District Court Judge Eighth Judicial District Family Division Department U,2026-11-03,0,,False,1,1,414915,2026-11-18T15:38+00:00
+156828,NV,Nevada District Court Judge Eighth Judicial District Family Division Department L,2026-11-03,0,,False,1,1,417967,2026-11-18T15:38+00:00
+157040,NV,Nevada City of Reno Mayor,2026-11-03,0,,False,2,1,86643,2026-11-18T15:38+00:00
+156999,NV,Nevada Storey County Clerk/Treasurer,2026-11-03,0,,False,1,1,1804,2026-11-18T15:38+00:00
+156978,NV,Nevada Nye County Assessor,2026-11-03,0,,False,1,1,15177,2026-11-18T15:38+00:00
+156932,NV,Nevada Lander County Commissioner District 5,2026-11-03,0,,False,1,1,1698,2026-11-18T15:38+00:00
+156923,NV,Nevada Humboldt County District Attorney,2026-11-03,0,,False,1,1,4649,2026-11-18T15:38+00:00
+156911,NV,Nevada Eureka County Commissioner District 2,2026-11-03,0,,False,1,1,658,2026-11-18T15:38+00:00
+156961,NV,Nevada Lyon County School Board Trustee District 2,2026-11-03,0,,False,2,1,18933,2026-11-18T15:38+00:00
+156760,NV,Nevada State House 15,2026-11-03,0,2026-11-04T07:09:42.076Z,False,1,1,9116,2026-11-18T15:38+00:00
+156940,NV,Nevada Lander County Kingston Town Board Seat E,2026-11-03,0,,False,2,1,57,2026-11-18T15:38+00:00
+156707,NV,Nevada State House 39,2026-11-03,32.6,2026-11-12T01:54:12.332Z,False,2,2,39331,2026-11-18T15:38+00:00
+156727,NV,Nevada Carson City Supervisor Ward 1,2026-11-03,0,,False,1,1,19288,2026-11-18T15:38+00:00
+156878,NV,Nevada Douglas County Kingsbury General Improvement District,2026-11-03,0,,False,6,1,1869,2026-11-18T15:38+00:00
+157049,NV,Nevada White Pine County Commissioner Seat 1,2026-11-03,0,,False,1,1,2669,2026-11-18T15:38+00:00
+156804,NV,Nevada District Court Judge Eighth Judicial District Department 20,2026-11-03,0,,False,1,1,420939,2026-11-18T15:38+00:00
+156987,NV,Nevada Nye County Justice Of The Peace Pahrump Department B,2026-11-03,0,,False,2,1,14758,2026-11-18T15:38+00:00
+156975,NV,Nevada Mineral County Television District No. 1 (4 Year Term),2026-11-03,0,,False,3,1,2361,2026-11-18T15:38+00:00
+156966,NV,Nevada Fernley Councilmember Ward F1,2026-11-03,0,,False,2,1,1464,2026-11-18T15:38+00:00
+157025,NV,Nevada District Court Judge Second Judicial District Department 6,2026-11-03,0,,False,1,1,118559,2026-11-18T15:38+00:00
+156824,NV,Nevada District Court Judge Eighth Judicial District Family Division Department H,2026-11-03,0,,False,1,1,420085,2026-11-18T15:38+00:00
+157004,NV,Nevada State House 24,2026-11-03,0,2026-11-04T07:09:42.076Z,False,1,1,14884,2026-11-18T15:38+00:00
+156995,NV,Nevada Pershing County School Board Trustee Seat C,2026-11-03,0,,False,2,1,1519,2026-11-18T15:38+00:00
+156791,NV,Nevada District Court Judge Eighth Judicial District Department 7,2026-11-03,0,,False,1,1,437960,2026-11-18T15:38+00:00
+156757,NV,Nevada State House 12,2026-11-03,48.2,2026-11-12T01:54:12.332Z,False,2,1,24521,2026-11-18T15:38+00:00
+156928,NV,Nevada City of Winnemucca Mayor,2026-11-03,0,,False,3,1,2477,2026-11-18T15:38+00:00
+156907,NV,Nevada Esmeralda County Recorder/Auditor,2026-11-03,0,,False,1,1,331,2026-11-18T15:38+00:00
+156866,NV,Nevada Clark County Constable North Las Vegas Township,2026-11-03,0,,False,2,1,61209,2026-11-18T15:38+00:00
+157046,NV,Nevada Sparks City Council Member Ward 2,2026-11-03,0,,False,2,1,4436,2026-11-18T15:38+00:00
+157037,NV,Nevada Washoe County Palomino Valley General Improvement District,2026-11-03,0,,False,5,1,1488,2026-11-18T15:38+00:00
+156904,NV,Nevada Esmeralda County Assessor,2026-11-03,0,,False,1,1,315,2026-11-18T15:38+00:00
+156703,NV,Nevada State House 32,2026-11-03,0,2026-11-04T07:09:42.076Z,False,1,6,20511,2026-11-18T15:38+00:00
+156883,NV,Nevada Elko County Commissioner District 2,2026-11-03,0,,False,1,1,8916,2026-11-18T15:38+00:00
+156874,NV,Nevada District Court Judge Ninth Judicial District Department 1,2026-11-03,0,,False,1,1,19546,2026-11-18T15:38+00:00
+156862,NV,Nevada City of Mesquite Councilmember Seat 4,2026-11-03,0,,False,2,1,9028,2026-11-18T15:38+00:00
+156821,NV,Nevada District Court Judge Eighth Judicial District Family Division Department E,2026-11-03,0,,False,2,1,484022,2026-11-18T15:38+00:00
+156992,NV,Nevada Pershing County District Attorney,2026-11-03,0,,False,2,1,1657,2026-11-18T15:38+00:00
+156971,NV,Nevada Mineral County Commissioner Seat C,2026-11-03,0,,False,3,1,1586,2026-11-18T15:38+00:00
+156745,NV,Nevada State Senate 21,2026-11-03,49.1,2026-11-12T01:54:12.331Z,False,2,1,39039,2026-11-18T15:38+00:00
+156925,NV,Nevada Humboldt County Golconda Fire District Seat D,2026-11-03,0,,False,2,1,114,2026-11-18T15:38+00:00
+156724,NV,Nevada Carson City School Board Trustee District 1,2026-11-03,0,,False,2,1,21566,2026-11-18T15:38+00:00
+156767,NV,Nevada State House 22,2026-11-03,47.9,,False,2,1,34469,2026-11-18T15:38+00:00
+156762,NV,Nevada State House 17,2026-11-03,0,2026-11-04T07:09:42.076Z,False,1,1,17842,2026-11-18T15:38+00:00
+156753,NV,Nevada State House 8,2026-11-03,47.9,2026-11-12T01:54:12.332Z,False,2,1,25614,2026-11-18T15:38+00:00
+156933,NV,Nevada Lander County Assessor,2026-11-03,0,,False,1,1,1726,2026-11-18T15:38+00:00
+156700,NV,Nevada State Senate 14,2026-11-03,0,2026-11-04T07:09:42.076Z,False,1,6,43652,2026-11-18T15:38+00:00
+156720,NV,Nevada Carson City County Clerk-Recorder,2026-11-03,0,,False,1,1,19637,2026-11-18T15:38+00:00
+170071,NV,Nevada Boulder City Ballot Question No. 2,2026-11-03,0,,False,2,1,6637,2026-11-18T15:38+00:00
+157042,NV,Nevada Reno City Councilmember Ward 2,2026-11-03,0,,False,2,1,19171,2026-11-18T15:38+00:00
+156809,NV,Nevada District Court Judge Eighth Judicial District Department 25,2026-11-03,0,,False,1,1,418504,2026-11-18T15:38+00:00
+156797,NV,Nevada District Court Judge Eighth Judicial District Department 13,2026-11-03,0,,False,1,1,426880,2026-11-18T15:38+00:00
+156788,NV,Nevada District Court Judge Eighth Judicial District Department 4,2026-11-03,0,,False,1,1,438525,2026-11-18T15:38+00:00
+156968,NV,Nevada Lyon County Yerington Councilmember At Large,2026-11-03,0,,False,4,1,1965,2026-11-18T15:38+00:00
+156826,NV,Nevada District Court Judge Eighth Judicial District Family Division Department J,2026-11-03,0,,False,1,1,415267,2026-11-18T15:38+00:00
+156817,NV,Nevada District Court Judge Eighth Judicial District Family Division Department A,2026-11-03,0,,False,1,1,424332,2026-11-18T15:38+00:00
+156997,NV,Nevada Storey County Commissioner District 2,2026-11-03,0,,False,1,1,1783,2026-11-18T15:38+00:00
+156988,NV,Nevada Nye County Amargosa Valley Town Board,2026-11-03,0,,False,4,1,502,2026-11-18T15:38+00:00
+156784,NV,Nevada Clark County Public Administrator,2026-11-03,0,,False,2,1,655136,2026-11-18T15:38+00:00
+156750,NV,Nevada State House 5,2026-11-03,47.5,2026-11-12T01:54:12.331Z,False,2,1,23032,2026-11-18T15:38+00:00
+156729,NV,Nevada Carson City Justice and Municipal Court Judge Department 3,2026-11-03,0,,False,2,1,21110,2026-11-18T15:38+00:00
+156868,NV,Nevada Douglas County Commissioner District 2,2026-11-03,0,,False,1,1,19562,2026-11-18T15:38+00:00
+157051,NV,Nevada White Pine County Recorder,2026-11-03,0,,False,1,1,2669,2026-11-18T15:38+00:00
+157039,NV,Nevada Washoe County Verdi TV District,2026-11-03,0,,False,4,1,8493,2026-11-18T15:38+00:00
+157030,NV,Nevada District Court Judge Second Judicial District Department 11 Family Court,2026-11-03,0,,False,1,1,113185,2026-11-18T15:38+00:00
+156705,NV,Nevada State House 36,2026-11-03,32.8,2026-11-12T01:54:12.332Z,False,2,2,38025,2026-11-18T15:38+00:00
+156920,NV,Nevada Humboldt County Commissioner Seat E,2026-11-03,0,,False,1,1,4692,2026-11-18T15:38+00:00
+156876,NV,Nevada Tahoe Douglas Fire Protection District,2026-11-03,0,,False,3,1,3414,2026-11-18T15:38+00:00
+170067,NV,Nevada Lincoln County Ballot Question No. 1,2026-11-03,0,,False,2,1,1891,2026-11-18T15:38+00:00
+156855,NV,Nevada City of Henderson Mayor,2026-11-03,0,,False,2,1,104048,2026-11-18T15:38+00:00
+156814,NV,Nevada District Court Judge Eighth Judicial District Department 30,2026-11-03,0,,False,2,1,485208,2026-11-18T15:38+00:00
+156793,NV,Nevada District Court Judge Eighth Judicial District Department 9,2026-11-03,0,,False,1,1,428913,2026-11-18T15:38+00:00
+156964,NV,Nevada Lyon County Sheriff,2026-11-03,0,,False,2,1,21301,2026-11-18T15:38+00:00
+156738,NV,Nevada City of Fallon Sheriff,2026-11-03,0,,False,2,1,8744,2026-11-18T15:38+00:00
+156726,NV,Nevada Carson City School Board Trustee District 6,2026-11-03,0,,False,1,1,19156,2026-11-18T15:38+00:00
+156717,NV,Nevada District Court Judge Seventh Judicial District Department 2,2026-11-03,0,,False,2,3,5372,2026-11-18T15:38+00:00
+156769,NV,Nevada State House 28,2026-11-03,0,2026-11-04T07:09:42.076Z,False,1,1,10024,2026-11-18T15:38+00:00
+156984,NV,Nevada Nye County Recorder,2026-11-03,0,,False,1,1,15035,2026-11-18T15:38+00:00
+156755,NV,Nevada State House 10,2026-11-03,0,2026-11-04T07:09:42.076Z,False,1,1,12388,2026-11-18T15:38+00:00
+156746,NV,Nevada State House 1,2026-11-03,0,2026-11-04T07:09:42.076Z,False,1,1,20205,2026-11-18T15:38+00:00
+156734,NV,Nevada Churchill County Public Administrator,2026-11-03,0,,False,1,1,7889,2026-11-18T15:38+00:00
+156917,NV,Nevada Humboldt County Assessor,2026-11-03,0,,False,1,1,4710,2026-11-18T15:38+00:00
+156864,NV,Nevada City of North Las Vegas Councilmember Ward 1,2026-11-03,0,,False,2,1,9208,2026-11-18T15:38+00:00
+157035,NV,Nevada District Court Judge Second Judicial District Department 16 Family Court,2026-11-03,0,,False,1,1,114168,2026-11-18T15:38+00:00
+157026,NV,Nevada District Court Judge Second Judicial District Department 7,2026-11-03,0,,False,1,1,114365,2026-11-18T15:38+00:00
+156790,NV,Nevada District Court Judge Eighth Judicial District Department 6,2026-11-03,0,,False,1,1,441797,2026-11-18T15:38+00:00
+156781,NV,Nevada Clark County Clerk,2026-11-03,0,,False,3,1,657821,2026-11-18T15:38+00:00
+157032,NV,Nevada District Court Judge Second Judicial District Department 13 Family Court,2026-11-03,0,,False,2,1,126682,2026-11-18T15:38+00:00
+156831,NV,Nevada District Court Judge Eighth Judicial District Family Division Department O,2026-11-03,0,,False,1,1,415269,2026-11-18T15:38+00:00
+156819,NV,Nevada District Court Judge Eighth Judicial District Family Division Department C,2026-11-03,0,,False,1,1,423465,2026-11-18T15:38+00:00
+156810,NV,Nevada District Court Judge Eighth Judicial District Department 26,2026-11-03,0,,False,1,1,428693,2026-11-18T15:38+00:00
+156798,NV,Nevada District Court Judge Eighth Judicial District Department 14,2026-11-03,0,,False,1,1,425116,2026-11-18T15:38+00:00
+156981,NV,Nevada Nye County Commissioner District 5,2026-11-03,0,,False,2,1,4670,2026-11-18T15:38+00:00
+156935,NV,Nevada Lander County District Attorney,2026-11-03,0,,False,1,1,1558,2026-11-18T15:38+00:00
+156722,NV,Nevada Carson City Sheriff,2026-11-03,0,,False,2,1,23459,2026-11-18T15:38+00:00
+156905,NV,Nevada Esmeralda County Clerk/Treasurer,2026-11-03,0,,False,1,1,332,2026-11-18T15:38+00:00
+156861,NV,Nevada City of Mesquite Councilmember Seat 1,2026-11-03,0,,False,2,1,9066,2026-11-18T15:38+00:00
+156852,NV,Nevada Clark County Moapa Valley Town Advisory Board,2026-11-03,0,,False,7,1,8338,2026-11-18T15:38+00:00
+156902,NV,Nevada City of Wells Councilmember,2026-11-03,0,,False,2,1,142,2026-11-18T15:38+00:00
+156922,NV,Nevada Humboldt County Treasurer,2026-11-03,0,,False,1,1,4829,2026-11-18T15:38+00:00
+156913,NV,Nevada Eureka County School Board Trustee Seat 2A,2026-11-03,0,,False,2,1,691,2026-11-18T15:38+00:00
+170069,NV,Nevada Washoe County Ballot Question No. 1,2026-11-03,0,,False,2,1,185833,2026-11-18T15:38+00:00
+157052,NV,Nevada White Pine County Treasurer,2026-11-03,0,,False,1,1,2675,2026-11-18T15:38+00:00
+156848,NV,Nevada Clark County School Board Trustee District G,2026-11-03,0,,False,2,1,67789,2026-11-18T15:38+00:00
+156807,NV,Nevada District Court Judge Eighth Judicial District Department 23,2026-11-03,0,,False,2,1,495883,2026-11-18T15:38+00:00
+156786,NV,Nevada District Court Judge Eighth Judicial District Department 2,2026-11-03,0,,False,1,1,443319,2026-11-18T15:38+00:00
+156969,NV,Nevada Mineral County Assessor,2026-11-03,0,,False,1,1,1234,2026-11-18T15:38+00:00
+156740,NV,Nevada State Senate 8,2026-11-03,48.8,2026-11-12T01:54:12.331Z,False,2,1,52888,2026-11-18T15:38+00:00
+156731,NV,Nevada Churchill County Assessor,2026-11-03,0,,False,1,1,7949,2026-11-18T15:38+00:00
+156719,NV,Nevada Carson City County Assessor,2026-11-03,0,,False,1,1,19750,2026-11-18T15:38+00:00
+156986,NV,Nevada Nye County Sheriff,2026-11-03,0,,False,2,1,17497,2026-11-18T15:38+00:00
+156977,NV,Nevada Mineral County Justice Of The Peace Hawthorne,2026-11-03,0,,False,2,1,1438,2026-11-18T15:38+00:00
+156748,NV,Nevada State House 3,2026-11-03,49,2026-11-12T01:54:12.331Z,False,2,1,19825,2026-11-18T15:38+00:00
+156931,NV,Nevada Lander County Commissioner District 2,2026-11-03,0,,False,1,1,1686,2026-11-18T15:38+00:00
+156951,NV,Nevada Lyon County Commissioner District 5,2026-11-03,0,,False,1,1,18748,2026-11-18T15:38+00:00
+156910,NV,Nevada Eureka County Clerk/Recorder,2026-11-03,0,,False,1,1,685,2026-11-18T15:38+00:00
+156857,NV,Nevada City of Henderson Municipal Court Judge Department 1,2026-11-03,0,,False,2,1,94786,2026-11-18T15:38+00:00
+157028,NV,Nevada District Court Judge Second Judicial District Department 9,2026-11-03,0,,False,1,1,116601,2026-11-18T15:38+00:00
+156795,NV,Nevada District Court Judge Eighth Judicial District Department 11,2026-11-03,0,,False,1,1,423006,2026-11-18T15:38+00:00
+156783,NV,Nevada Clark County Treasurer,2026-11-03,0,,False,3,1,657216,2026-11-18T15:38+00:00
+156774,NV,Nevada State House 41,2026-11-03,48.3,2026-11-12T01:54:12.332Z,False,2,1,25365,2026-11-18T15:38+00:00
+156833,NV,Nevada District Court Judge Eighth Judicial District Family Division Department Q,2026-11-03,0,,False,1,1,412892,2026-11-18T15:38+00:00
+157048,NV,Nevada White Pine County Clerk,2026-11-03,0,,False,2,1,3021,2026-11-18T15:38+00:00
+156812,NV,Nevada District Court Judge Eighth Judicial District Department 28,2026-11-03,0,,False,2,1,497725,2026-11-18T15:38+00:00
+156803,NV,Nevada District Court Judge Eighth Judicial District Department 19,2026-11-03,0,,False,1,1,422960,2026-11-18T15:38+00:00
+157015,NV,Nevada Washoe County Recorder,2026-11-03,0,,False,1,1,131049,2026-11-18T15:38+00:00
+156974,NV,Nevada Mineral County Public Administrator,2026-11-03,0,,False,1,1,1187,2026-11-18T15:38+00:00
+156736,NV,Nevada District Court Judge Tenth Judicial District,2026-11-03,0,,False,1,1,7882,2026-11-18T15:38+00:00
+156715,NV,Nevada District Court Judge First Judicial District Department 2,2026-11-03,0,,False,1,2,21594,2026-11-18T15:38+00:00
+156898,NV,Nevada City of Carlin Councilmember 4 Year term,2026-11-03,0,,False,2,1,218,2026-11-18T15:38+00:00
+156854,NV,Nevada Boulder City Councilmember,2026-11-03,0,,False,4,1,10516,2026-11-18T15:38+00:00
+156845,NV,Nevada Board of Regents District 5,2026-11-03,0,,False,2,1,25786,2026-11-18T15:38+00:00
+87256,NV,Nevada US House 1,2026-11-03,89.1,2026-11-04T09:05:33.177Z,False,4,1,238045,2026-11-18T15:38+00:00
+87257,NV,Nevada US House 2,2026-11-03,91.7,,False,3,13,322021,2026-11-18T15:38+00:00
+87258,NV,Nevada US House 3,2026-11-03,89.1,2026-11-04T09:05:33.177Z,False,3,1,270960,2026-11-18T15:38+00:00
+87259,NV,Nevada US House 4,2026-11-03,81.3,2026-11-04T08:59:40.288Z,False,4,7,252202,2026-11-18T15:38+00:00

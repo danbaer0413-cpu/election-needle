@@ -1,0 +1,131 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+159510,DE,Democratic,Democratic,222995,64.79,False,False
+159510,DE,Republican,Republican,120778,35.092,False,False
+159510,DE,Independent Party of Delaware,Independent Party of Delaware,406,0.118,False,False
+87038,DE,Lydia York,Democratic,227685,60.395,True,False
+87038,DE,April Callaway,Republican,130928,34.73,False,False
+87038,DE,Austin Cassidy,Independent Party of Delaware,18380,4.875,False,False
+159511,DE,Democratic,Democratic,116388,61.198,False,False
+159511,DE,Republican,Republican,72037,37.878,False,False
+159511,DE,Independent Party of Delaware,Independent Party of Delaware,1759,0.925,False,False
+87037,DE,Kathy Jennings,Democratic,240626,63.634,True,False
+87037,DE,Dave Graham,Republican,137516,36.366,False,False
+87039,DE,Ted Lauzen,Democratic,235779,62.443,True,False
+87039,DE,Mike Ramone,Republican,141812,37.557,False,False
+150709,DE,Brian G. Pettyjohn,Republican,13943,100.0,True,False
+150718,DE,"Sherae'a ""Rae"" Moore",Democratic,6763,66.109,True,False
+150718,DE,Gary Taylor,Republican,3467,33.891,False,False
+150737,DE,Eric Morrison,Democratic,6395,61.835,True,False
+150737,DE,"Mary ""Penny"" Kubin",Republican,3947,38.165,False,False
+150739,DE,William Bush,Democratic,8197,100.0,True,False
+150728,DE,Sophie Phillips,Democratic,5889,100.0,True,False
+150726,DE,Pamela Salaam,Democratic,6027,84.887,True,False
+150726,DE,Enala A. Mwashitete,Republican,1073,15.113,False,False
+150770,DE,Douglas B. Hudson,Republican,16202,55.505,False,False
+150770,DE,Justine Cuccia,Democratic,12988,44.495,False,False
+150717,DE,Larry Lambert,Democratic,5956,77.989,True,False
+150717,DE,Shane Stoneman,Republican,1681,22.011,False,False
+150715,DE,Kendra Johnson,Democratic,6292,100.0,True,False
+150734,DE,Ed Osienski,Democratic,5055,75.549,True,False
+150734,DE,Stephen P. Ondich,Republican,1636,24.451,False,False
+150704,DE,Jack Walsh,Democratic,10073,100.0,True,False
+150723,DE,DeShanna U. Neal,Democratic,5227,100.0,True,False
+150757,DE,Kira Alejandro,Democratic,13116,63.353,False,False
+150757,DE,Melissa S. Brayman,Republican,7587,36.647,False,False
+150744,DE,Annie Norman,Democratic,4908,50.776,True,False
+150744,DE,Lyndon D. Yearick,Republican,4758,49.224,False,False
+150714,DE,Gregg Lindner,Democratic,8044,51.219,True,False
+150714,DE,Dan Zitofsky,Republican,7661,48.781,False,False
+150731,DE,Frank Burns,Democratic,6694,100.0,True,False
+150703,DE,Mara Gorman,Democratic,9547,66.4,True,False
+150703,DE,Shane Cavanaugh,Republican,4831,33.6,False,False
+150701,DE,Shay Frisby,Democratic,12280,68.623,True,False
+150701,DE,Brent Burdge,Republican,4823,26.952,False,False
+150701,DE,Carolyn Frank,Independent Party of Delaware,792,4.426,False,False
+150720,DE,Melanie Ross Levin,Democratic,6826,69.103,True,False
+150720,DE,Dolores Dunleavy,Republican,3052,30.897,False,False
+150756,DE,Dee Durham,Democratic,14222,66.977,False,False
+150756,DE,Jamie Collins,Republican,7012,33.023,False,False
+150754,DE,Scott Phillips,Democratic,155352,100.0,False,False
+150741,DE,Sean M. Lynn,Democratic,5151,76.869,True,False
+150741,DE,Anton Brogden,Republican,1550,23.131,False,False
+150711,DE,Nnamdi O. Chukwuocha,Democratic,7150,91.269,True,False
+150711,DE,Lisa McInnis,Republican,684,8.731,False,False
+150762,DE,Norman R. Barlow,Republican,35207,100.0,False,False
+150764,DE,Jeff Hall,Democratic,6872,100.0,False,False
+150753,DE,Ciro Poppiti,Democratic,156163,100.0,False,False
+150751,DE,John Atkins,Republican,6176,53.15,True,False
+150751,DE,Ryan Stuckey,Democratic,5444,46.85,False,False
+150706,DE,Marie Pinkney,Democratic,12325,100.0,True,False
+150710,DE,Gerald W. Hocker,Republican,16694,56.481,True,False
+150710,DE,Harry S. Gold,Democratic,12863,43.519,False,False
+150708,DE,Emily A. Thompson,Republican,10286,56.785,True,False
+150708,DE,Nisha Lodhavia,Democratic,7828,43.215,False,False
+150759,DE,Valerie George,Democratic,10917,100.0,False,False
+150736,DE,Madinah Wilson-Anton,Democratic,5417,100.0,True,False
+150748,DE,Carlie Carey,Republican,9806,54.853,True,False
+150748,DE,Maureen Madden,Democratic,8071,45.147,False,False
+150725,DE,Kamela T. Smith,Democratic,7013,100.0,True,False
+150769,DE,Robert T. Lee,Republican,69404,100.0,False,False
+150771,DE,Jill Hicks,Democratic,11251,51.356,False,False
+150771,DE,John L. Rieley,Republican,10657,48.644,False,False
+150735,DE,Cyndie Romer,Democratic,5282,100.0,True,False
+150733,DE,Dave Redlawsk,Democratic,6275,100.0,True,False
+150713,DE,Branden Fletcher-Dominguez,Democratic,4363,82.135,True,False
+150713,DE,Shawn L. Dottery,Republican,543,10.222,False,False
+150713,DE,"Dexter ""Dizzy"" Bland",Independent Party of Delaware,406,7.643,False,False
+150724,DE,Claire Snyder-Hall,Democratic,9566,64.431,True,False
+150724,DE,Mike Simpler,Republican,5281,35.569,False,False
+150722,DE,Krista Griffith,Democratic,8924,69.356,True,False
+150722,DE,Steve Pickering,Republican,3943,30.644,False,False
+150766,DE,Paul Hertz,Republican,7934,100.0,False,False
+150743,DE,Morgan Hudson,Republican,4942,54.511,True,False
+150743,DE,Joshua Pennington,Democratic,4124,45.489,False,False
+150730,DE,Alonna Berry,Democratic,8398,56.069,True,False
+150730,DE,Gene Dvornick,Republican,6580,43.931,False,False
+150700,DE,Dan Cruce,Democratic,14567,76.291,True,False
+150700,DE,Hildi Bachtle,Republican,3560,18.645,False,False
+150700,DE,Steven Washington,Independent Party of Delaware,967,5.064,False,False
+150721,DE,Jeffrey N. Spiegelman,Republican,5463,61.313,True,False
+150721,DE,Tori Parker,Democratic,3447,38.687,False,False
+150719,DE,Ayanna Khan-Flowers,Democratic,8453,64.004,True,False
+150719,DE,Jamar Money,Republican,4754,35.996,False,False
+150738,DE,"Tyeisha ""Tye"" Grier",Democratic,5690,100.0,True,False
+150742,DE,Kerri Evelyn Harris,Democratic,4210,100.0,True,False
+150740,DE,Wm Shannon Morris,Republican,6280,100.0,True,False
+150727,DE,Melissa Minor Brown,Democratic,5965,100.0,True,False
+150761,DE,Ramona Bracy,Democratic,36232,57.387,False,False
+150761,DE,Eugenia Thornton,Republican,26904,42.613,False,False
+150716,DE,"Rachel ""Rae"" Krantz",Democratic,7459,73.042,True,False
+150716,DE,Tanya Hettler,Republican,2753,26.958,False,False
+150750,DE,Timothy Dale Dukes,Republican,5350,100.0,True,False
+150705,DE,Nicole Poore,Democratic,14514,72.483,True,False
+150705,DE,Mark Esposito,Republican,5510,27.517,False,False
+150707,DE,Kyra L. Hoffner,Democratic,12250,62.167,True,False
+150707,DE,Mark Pugh,Republican,7455,37.833,False,False
+150760,DE,David Carter,Democratic,13017,64.215,False,False
+150760,DE,Alison T. Gibbs,Republican,7254,35.785,False,False
+150758,DE,Jason Hoover,Democratic,13553,100.0,False,False
+150745,DE,Jesse R. Vanderwende,Republican,5450,100.0,True,False
+150749,DE,Daniel B. Short,Republican,4400,100.0,True,False
+150747,DE,Valerie Jones Giltner,Republican,5425,100.0,True,False
+150702,DE,Spiros Mantzavinos,Democratic,10141,67.266,True,False
+150702,DE,Chris Rowe,Republican,4935,32.734,False,False
+150768,DE,Greg Fuller,Republican,69792,100.0,False,False
+150755,DE,Brandon Toole,Democratic,10713,100.0,False,False
+150732,DE,Mike Smith,Republican,6402,53.803,True,False
+150732,DE,Alex Green,Democratic,5497,46.197,False,False
+150746,DE,Bryan William Shupe,Republican,5223,53.884,True,False
+150746,DE,"Andrew ""Andy"" Gorlich",Democratic,4470,46.116,False,False
+150712,DE,Michelle H. Booker,Democratic,4910,100.0,True,False
+150763,DE,Terry L. Pepper,Democratic,38856,61.383,False,False
+150763,DE,Frank E Coleman,Republican,24445,38.617,False,False
+150767,DE,Alexandra Reed Baker,Republican,69494,100.0,False,False
+150765,DE,"Robert ""Bobby"" Scott",Republican,7180,100.0,False,False
+150752,DE,David Tackett,Democratic,155586,100.0,False,False
+150729,DE,Kim Williams,Democratic,5443,68.543,True,False
+150729,DE,Janyce Colmery,Republican,2498,31.457,False,False
+87036,DE,Chris Coons,Democratic,240587,63.576,True,False
+87036,DE,"Michael ""Dr. Mike"" Katz",Republican,137837,36.424,False,False
+87035,DE,Sarah McBride,Democratic,243687,64.348,True,False
+87035,DE,"Joseph ""Dr. Joe"" Arminio",Republican,135016,35.652,False,False

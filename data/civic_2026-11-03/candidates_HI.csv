@@ -1,0 +1,153 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+151937,HI,Carmen Hulu Lindsey,Nonpartisan,115168,51.212,False,False
+151937,HI,Ke'eaumoku Kapu,Nonpartisan,109717,48.788,False,False
+159516,HI,Democratic,Democratic,146340,66.654,False,False
+159516,HI,Republican,Republican,67260,30.635,False,False
+159516,HI,Green,Green,4773,2.174,False,False
+159516,HI,Libertarian,Libertarian,1179,0.537,False,False
+87101,HI,Derek Kawakami,Democratic,279445,72.639,False,False
+87101,HI,Daniel Anthony,Republican,105258,27.361,False,False
+151938,HI,Kalei Akaka,Nonpartisan,147607,54.792,False,False
+151938,HI,Hinaleimoana (Hina) Wong,Nonpartisan,121787,45.208,False,False
+87100,HI,Josh Green,Democratic,279445,72.639,True,False
+87100,HI,Gary Cordery,Republican,105258,27.361,False,False
+189300,HI,Yes,Nonpartisan,242255,67.291,True,False
+189300,HI,No,Nonpartisan,117758,32.709,False,False
+87102,HI,Yes,Nonpartisan,227129,63.025,True,False
+87102,HI,No,Nonpartisan,133249,36.975,False,False
+159517,HI,Democratic,Democratic,56638,66.76,False,False
+159517,HI,Republican,Republican,24991,29.457,False,False
+159517,HI,Libertarian,Libertarian,2897,3.415,False,False
+159517,HI,Nonpartisan,Nonpartisan,312,0.368,False,False
+151939,HI,Keoni Souza,Nonpartisan,125084,17.834,False,False
+151939,HI,Ikaika Anderson,Nonpartisan,124370,17.733,False,False
+151939,HI,Brickwood M. Galuteria,Nonpartisan,118375,16.878,False,False
+151939,HI,John Waihee IV,Nonpartisan,117319,16.727,False,False
+151939,HI,Adrian (Kealii) Akina,Nonpartisan,116330,16.586,False,False
+151939,HI,Kanekoa (Koa) Crabbe,Nonpartisan,99884,14.241,False,False
+151914,HI,Mahina Poepoe,Democratic,6101,79.898,True,False
+151914,HI,Robin D. Vanderpool,Republican,1535,20.102,False,False
+151909,HI,Jeanne Kapela,Democratic,5675,73.855,True,False
+151909,HI,Dalene McCormick,Republican,2009,26.145,False,False
+151910,HI,David A. Tarnas,Democratic,5332,69.032,True,False
+151910,HI,Monique Perreira,Republican,2392,30.968,False,False
+151905,HI,Bob McDermott,Republican,6523,52.038,True,False
+151905,HI,Markus Owens,Democratic,6012,47.962,False,False
+151906,HI,Sue Keohokapu Lee Loy,Democratic,6548,78.892,True,False
+151906,HI,Jonathan Kennealy,Republican,1752,21.108,False,False
+151933,HI,Amy A. Perruso,Democratic,4092,63.58,True,False
+151933,HI,Daniel Michael Gabriel,Republican,2344,36.42,False,False
+151929,HI,Diamond Garcia,Republican,3002,51.107,True,False
+151929,HI,Anthony Makana Paris,Democratic,2872,48.893,False,False
+151925,HI,Micah Pookela Kim Aiu,Democratic,3472,50.984,True,False
+151925,HI,Garner M. Shimizu,Republican,3338,49.016,False,False
+151953,HI,Mel Rapozo,Nonpartisan,13927,60.199,False,False
+151953,HI,Bernard Carvalho Jr.,Nonpartisan,9208,39.801,False,False
+151948,HI,Kelly Takaya King,Nonpartisan,23686,53.074,False,False
+151948,HI,Tom Cook,Nonpartisan,20942,46.926,False,False
+151949,HI,Nohe U'u-Hodgins,Nonpartisan,26269,63.406,False,False
+151949,HI,Stevie Kathryn Chung,Nonpartisan,15161,36.594,False,False
+151919,HI,Tina Nakada Grandinetti,Democratic,6239,74.362,True,False
+151919,HI,David Asing,Republican,2151,25.638,False,False
+151920,HI,Ikaika M. Olds,Democratic,4507,79.349,True,False
+151920,HI,Victor Muh,Republican,1173,20.651,False,False
+151915,HI,Pa'ele Kiakona,Green,3025,42.172,True,False
+151915,HI,Sne Patel,Democratic,2906,40.513,False,False
+151915,HI,Elle Cochran,Republican,1242,17.315,False,False
+151911,HI,Tyson K. Miyake,Democratic,6877,75.638,True,False
+151911,HI,Travis Bumanglag,Republican,2215,24.362,False,False
+151907,HI,Christopher L.T. Todd,Democratic,5370,81.997,True,False
+151907,HI,Austin Martin,Libertarian,1179,18.003,False,False
+151934,HI,Sean Quinlan,Democratic,3211,54.405,True,False
+151934,HI,Mark Talaeai,Republican,2691,45.595,False,False
+151935,HI,Scot Matayoshi,Democratic,6316,75.244,True,False
+151935,HI,'Ale Rodas,Republican,2078,24.756,False,False
+151930,HI,Kanani Souza,Republican,2591,51.014,False,False
+151930,HI,Sheila Medeiros,Republican,2488,48.986,False,False
+151931,HI,Darius K. Kila,Democratic,3190,63.369,True,False
+151931,HI,Charla (Kahealani) Weaver,Republican,1844,36.631,False,False
+151901,HI,Stanley Chang,Democratic,14461,73.54,True,False
+151901,HI,David A. Croswell,Republican,5203,26.46,False,False
+151954,HI,Fern Anuenue Holland,Nonpartisan,12425,10.41,False,False
+151954,HI,Todd R. Ozaki,Nonpartisan,11557,9.683,False,False
+151954,HI,Arryl J. Kaneshiro,Nonpartisan,11501,9.636,False,False
+151954,HI,Michelle Kaleiohi Correa,Nonpartisan,11486,9.623,False,False
+151954,HI,Addison Bulosan,Nonpartisan,9684,8.114,False,False
+151954,HI,Dane Smith,Nonpartisan,9243,7.744,False,False
+151954,HI,Paul Noboru Applegate,Nonpartisan,8456,7.085,False,False
+151954,HI,Taylor H. Shigemoto,Nonpartisan,8235,6.9,False,False
+151954,HI,Billy D. Decosta,Nonpartisan,8048,6.743,False,False
+151954,HI,Mike Coots,Nonpartisan,7166,6.004,False,False
+151954,HI,Umi Martin,Nonpartisan,6431,5.388,False,False
+151954,HI,Cheree Rapozo,Nonpartisan,5842,4.895,False,False
+151954,HI,Keola Kaiminaauao,Nonpartisan,5091,4.265,False,False
+151954,HI,John H. (Scooby) Mattos,Nonpartisan,4190,3.511,False,False
+151950,HI,Bobby Pahia,Nonpartisan,30381,70.552,False,False
+151950,HI,Jon Masaru Yokouchi,Nonpartisan,12681,29.448,False,False
+151921,HI,Ian M.A. Ross,Democratic,5248,72.596,True,False
+151921,HI,Tony Silva,Republican,1981,27.404,False,False
+151916,HI,Luke A. Evslin,Democratic,5699,71.3,True,False
+151916,HI,David Hazlebeck,Republican,2294,28.7,False,False
+151917,HI,Daynette (Dee) Morikawa,Democratic,5611,72.691,True,False
+151917,HI,Misty Cluett,Republican,2108,27.309,False,False
+151944,HI,Shane Sinenci,Nonpartisan,25063,60.556,False,False
+151944,HI,Claire Kamalu Carroll,Nonpartisan,16325,39.444,False,False
+151945,HI,Tamara Akiko Maile Paltin,Nonpartisan,30389,71.154,False,False
+151945,HI,Mark Tillman,Nonpartisan,12320,28.846,False,False
+151940,HI,Lloyd K. Enriquez,Nonpartisan,3259,50.692,False,False
+151940,HI,Eileen Ohara,Nonpartisan,3170,49.308,False,False
+151936,HI,Mike Lee,Democratic,8355,82.698,True,False
+151936,HI,Jesse W.M. Fitzgerald,Green,1748,17.302,False,False
+151932,HI,Chris Muraoka,Republican,2447,54.149,True,False
+151932,HI,Kalehua Kaopua,Democratic,2072,45.851,False,False
+151902,HI,Tricia Kwai Lin Nakamatsu,Democratic,9795,76.47,True,False
+151902,HI,Wallyn Kanoelani Christian,Republican,3014,23.53,False,False
+151903,HI,Danielle Maliekekai Bass,Democratic,8795,54.753,True,False
+151903,HI,Kelly Puamailani Kitashima,Republican,6956,43.304,False,False
+151903,HI,Max G. Hanna,Nonpartisan,312,1.942,False,False
+151955,HI,Trevor Ozawa,Nonpartisan,23142,65.888,False,False
+151955,HI,Tara Malia Gregory,Nonpartisan,11981,34.112,False,False
+151956,HI,Tyler Dos Santos-Tam,Nonpartisan,16282,74.164,False,False
+151956,HI,Corey Morihara,Nonpartisan,5672,25.836,False,False
+151926,HI,Gregg Takayama,Democratic,5462,72.875,True,False
+151926,HI,Gaius (Kipi) Dupio II,Republican,2033,27.125,False,False
+151922,HI,Ikaika Hussey,Democratic,3073,71.9,True,False
+151922,HI,Tess Abalos,Republican,1201,28.1,False,False
+151918,HI,James (Jamie) Wataru,Democratic,5841,52.698,True,False
+151918,HI,Joe Gedeon,Republican,5243,47.302,False,False
+151946,HI,Marvin Moniz,Nonpartisan,25877,61.679,False,False
+151946,HI,Ashley Awakea Lindsey,Nonpartisan,16077,38.321,False,False
+151941,HI,Ikaika Rodenhurst,Nonpartisan,3166,54.352,False,False
+151941,HI,Shannon Lopeka Matson,Nonpartisan,2659,45.648,False,False
+151942,HI,Zed Kaapana Aki,Nonpartisan,3294,50.429,False,False
+151942,HI,Guy Enriques,Nonpartisan,3238,49.571,False,False
+151912,HI,Terez (T.Amato) Amato,Democratic,5813,70.299,True,False
+151912,HI,Sheila Walker,Republican,2456,29.701,False,False
+151913,HI,Kyle T. Yamashita,Democratic,7065,71.105,True,False
+151913,HI,Dan Johnson,Republican,2871,28.895,False,False
+151908,HI,Greggor Ilagan,Democratic,5601,77.191,True,False
+151908,HI,Zak Wittenhagen,Republican,1655,22.809,False,False
+151904,HI,Rachele F. Lamosao,Democratic,6720,67.099,True,False
+151904,HI,Elijah Pierick,Republican,3295,32.901,False,False
+151900,HI,Joy San Buenaventura,Democratic,10855,78.934,True,False
+151900,HI,Frederick F. Fogel,Libertarian,2897,21.066,False,False
+151927,HI,Corey Rosenlee,Democratic,4560,62.543,True,False
+151927,HI,Daniel (Danny) DeGracia,Republican,2731,37.457,False,False
+151928,HI,Julie Reyes Oda,Republican,2919,51.382,True,False
+151928,HI,Rose Martinez,Democratic,2762,48.618,False,False
+151923,HI,Shirley Ann Templo,Democratic,2131,66.761,True,False
+151923,HI,Amanda Ybanez,Republican,1061,33.239,False,False
+151924,HI,Linda Ichiyama,Democratic,4339,75.408,True,False
+151924,HI,Nancy Valdez,Republican,1415,24.592,False,False
+151951,HI,Gabe Johnson,Nonpartisan,33271,100.0,False,False
+151952,HI,Keani Rawlins-Fernandez,Nonpartisan,33123,100.0,False,False
+151947,HI,Kauanoe Batangan,Nonpartisan,22273,52.359,False,False
+151947,HI,Carol Lee Kamekona,Nonpartisan,20266,47.641,False,False
+151943,HI,Richard T. Bissen Jr.,Nonpartisan,27567,56.287,False,False
+151943,HI,Yuki Lei Kashiwa Sugimura,Nonpartisan,21409,43.713,False,False
+87099,HI,Jill Tokuda,Democratic,129931,66.504,True,False
+87099,HI,Brenton Awa,Republican,65441,33.496,False,False
+87098,HI,Ed Case,Democratic,126337,71.781,True,False
+87098,HI,Adriel Lam,Republican,40308,22.902,False,False
+87098,HI,Jordan S. Conley,Green,7011,3.983,False,False
+87098,HI,Nathan M. Berning,Nonpartisan,2348,1.334,False,False

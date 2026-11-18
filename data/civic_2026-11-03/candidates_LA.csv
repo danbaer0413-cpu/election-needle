@@ -1,0 +1,2503 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+143185,LA,Yes,Nonpartisan,824244,58.192,True,False
+143185,LA,No,Nonpartisan,592172,41.808,False,False
+143183,LA,Yes,Nonpartisan,924795,65.25,True,False
+143183,LA,No,Nonpartisan,492522,34.75,False,False
+87185,LA,No,Nonpartisan,875000,62.417,True,False
+87185,LA,Yes,Nonpartisan,526852,37.583,False,False
+143182,LA,Yes,Nonpartisan,900864,63.558,True,False
+143182,LA,No,Nonpartisan,516528,36.442,False,False
+87184,LA,Yes,Nonpartisan,1071821,74.266,True,False
+87184,LA,No,Nonpartisan,371398,25.734,False,False
+143186,LA,No,Nonpartisan,749477,53.194,True,False
+143186,LA,Yes,Nonpartisan,659484,46.806,False,False
+143180,LA,Yes,Nonpartisan,972731,67.804,True,False
+143180,LA,No,Nonpartisan,461882,32.196,False,False
+143181,LA,Yes,Nonpartisan,801623,55.928,True,False
+143181,LA,No,Nonpartisan,631679,44.072,False,False
+143179,LA,No,Nonpartisan,824812,58.025,True,False
+143179,LA,Yes,Nonpartisan,596656,41.975,False,False
+143184,LA,Yes,Nonpartisan,877475,62.115,True,False
+143184,LA,No,Nonpartisan,535187,37.885,False,False
+143403,LA,Monique Butler,Democratic,564,82.698,False,False
+143403,LA,Shaderick Emery,Democratic,118,17.302,False,False
+143260,LA,Yes,Nonpartisan,455,59.79,False,False
+143260,LA,No,Nonpartisan,306,40.21,False,False
+143725,LA,Lisa Melder Willis,Republican,268,11.811,False,False
+143725,LA,Diedre M. Guy,Nonpartisan,264,11.635,False,False
+143725,LA,"Clyde ""Red"" Myers",Nonpartisan,246,10.842,False,False
+143725,LA,Jerry Melder,Republican,242,10.665,False,False
+143725,LA,Willie Moore,Democratic,225,9.916,False,False
+143725,LA,"Howard Shaw, Jr.",Democratic,223,9.828,False,False
+143725,LA,Michael Woods,Nonpartisan,222,9.784,False,False
+143725,LA,Nedra Simmons,Nonpartisan,164,7.228,False,False
+143725,LA,Russell Norsworthy,Nonpartisan,162,7.14,False,False
+143725,LA,Darine Plummer,Nonpartisan,148,6.523,False,False
+143725,LA,Janine Rayburn,Republican,105,4.628,False,False
+143305,LA,"Chad Carroll, Sr.",Democratic,115,52.273,False,False
+143305,LA,Joshua Hayes,Nonpartisan,105,47.727,False,False
+143763,LA,Hunter McDonald,Republican,1066,50.98,False,False
+143763,LA,Rachelle M. Tregle,Nonpartisan,1025,49.02,False,False
+143620,LA,Paula Hamilton,Democratic,250,60.533,False,False
+143620,LA,Jennifer Gathrite-Davis,Nonpartisan,121,29.298,False,False
+143620,LA,"Diane ""Mrs. Ski"" Strozewski",Nonpartisan,42,10.169,False,False
+143477,LA,Yes,Nonpartisan,616,55.098,False,False
+143477,LA,No,Nonpartisan,502,44.902,False,False
+143551,LA,No,Nonpartisan,5051,50.169,False,False
+143551,LA,Yes,Nonpartisan,5017,49.831,False,False
+143330,LA,Tim Diel,Republican,138,77.528,False,False
+143330,LA,"Donnie Lee Brooks, Jr.",Republican,40,22.472,False,False
+143788,LA,"Claude ""Clyde"" Wiggins, Sr.",Democratic,667,35.235,False,False
+143788,LA,"Christopher ""Tip"" Hymel",Republican,439,23.191,False,False
+143788,LA,Craig B. Calcagno,Democratic,423,22.345,False,False
+143788,LA,Mikayla C. Kinler,Republican,364,19.229,False,False
+143645,LA,"Tom Ouzts, Jr.",Republican,52,64.198,False,False
+143645,LA,Shellie Pullig,Nonpartisan,29,35.802,False,False
+143310,LA,Ron Richard,Nonpartisan,15952,58.552,False,False
+143310,LA,"Walter ""Walt"" Sanchez",Republican,11292,41.448,False,False
+143768,LA,Linda Lee,Democratic,342,53.689,False,False
+143768,LA,"Neil ""Scott"" Spinks",Republican,295,46.311,False,False
+143205,LA,Brandon Hebert,Republican,276,18.586,False,False
+143205,LA,James Quillan Bertrand,Republican,267,17.98,False,False
+143205,LA,Shea A. Lantz,Republican,262,17.643,False,False
+143205,LA,Heather Faulk,Republican,240,16.162,False,False
+143205,LA,Seth Manuel,Republican,226,15.219,False,False
+143205,LA,"Morris ""Dukey"" Ledet",Republican,214,14.411,False,False
+143862,LA,Kevin O'Neill,Republican,16711,56.636,False,False
+143862,LA,John Gallaher,Republican,12795,43.364,False,False
+143527,LA,Simeon Dickerson,Democratic,5339,43.856,False,False
+143527,LA,Dionne Nichols-Condoll,Democratic,4282,35.173,False,False
+143527,LA,Roxanne Modica,Democratic,2553,20.971,False,False
+143793,LA,Derron Cook,Democratic,748,58.438,False,False
+143793,LA,"Raydel Morris, Sr.",Democratic,532,41.562,False,False
+143230,LA,Marty Bourgeois,Republican,5159,65.353,False,False
+143230,LA,Vickie Tolliver Auguste,Nonpartisan,2735,34.647,False,False
+143695,LA,"Cleotha Johnigan, Jr.",Democratic,864,43.725,False,False
+143695,LA,Shael Stringer,Republican,621,31.427,False,False
+143695,LA,"Anthony D. Hurst, Sr.",Democratic,491,24.848,False,False
+143353,LA,Kathy Johnston,Democratic,247,56.651,False,False
+143353,LA,Carolyn J. Lumpkin,Democratic,189,43.349,False,False
+144010,LA,Yes,Nonpartisan,2842,62.325,False,False
+144010,LA,No,Nonpartisan,1718,37.675,False,False
+143447,LA,Yvonne Allen,Democratic,123,28.211,False,False
+143447,LA,Pamela Armstead,Democratic,102,23.394,False,False
+143447,LA,Gregory Williams,Democratic,93,21.33,False,False
+143447,LA,Karen Ross,Democratic,67,15.367,False,False
+143447,LA,Jim Treloar,Republican,51,11.697,False,False
+143912,LA,Jerome C. Fabre,Republican,1523,83.589,False,False
+143912,LA,J.C. Naquin,Nonpartisan,299,16.411,False,False
+143570,LA,Ben Harang,Republican,837,54.0,False,False
+143570,LA,Lester Bimah,Republican,713,46.0,False,False
+143843,LA,"Albert ""Buz"" LeBlanc",Republican,1538,52.153,False,False
+143843,LA,Hubert Augustine,Nonpartisan,1411,47.847,False,False
+143700,LA,Jerome Hopewell,Republican,9063,51.468,False,False
+143700,LA,Cedric Green,Democratic,7275,41.314,False,False
+143700,LA,Raymond Eli Smith,Democratic,1271,7.218,False,False
+143280,LA,"Jimmie ""Jim"" Whitman",Republican,8203,62.234,False,False
+143280,LA,Brian Hammons,Republican,4978,37.766,False,False
+143937,LA,Randall Toups,Republican,418,53.046,False,False
+143937,LA,Anna Lapointe,Nonpartisan,370,46.954,False,False
+143804,LA,Elsie M. Semien,Democratic,581,34.217,False,False
+143804,LA,James Ronald Guillory,Democratic,577,33.981,False,False
+143804,LA,Quincy Richard,Democratic,540,31.802,False,False
+143277,LA,Yes,Nonpartisan,612,58.79,False,False
+143277,LA,No,Nonpartisan,429,41.21,False,False
+143849,LA,Nicole Cherry Landry,Republican,880,36.274,False,False
+143849,LA,Shawn Canty,Nonpartisan,803,33.1,False,False
+143849,LA,Glen Elliott,Republican,743,30.627,False,False
+143322,LA,Michael Streams,Republican,128,63.682,False,False
+143322,LA,"Thomas ""Tom"" Threet",Republican,73,36.318,False,False
+143972,LA,Randall W. Garcia,Republican,288,50.704,False,False
+143972,LA,Jeremy M. Freeman,Republican,280,49.296,False,False
+144021,LA,Lance Underwood,Republican,247,65.344,False,False
+144021,LA,Garrett Austin,Republican,131,34.656,False,False
+143302,LA,Ryan Nelson,Democratic,394,52.048,False,False
+143302,LA,Joey D. Paulette,Nonpartisan,286,37.781,False,False
+143302,LA,"James F. ""Jim"" Slagle",Republican,77,10.172,False,False
+143682,LA,Garen Encalade,Democratic,177,66.045,False,False
+143682,LA,Allen G. Simpson,Democratic,91,33.955,False,False
+143539,LA,Yes,Nonpartisan,2854,68.425,False,False
+143539,LA,No,Nonpartisan,1317,31.575,False,False
+143197,LA,Dale J. Thibodeaux,Republican,783,59.453,False,False
+143197,LA,"Terrance Garrick, Jr.",Republican,534,40.547,False,False
+143854,LA,"Ludness ""Lud"" Henry",Republican,1255,71.105,False,False
+143854,LA,Jason Romero,Republican,510,28.895,False,False
+143327,LA,Laura Roquemore,Democratic,147,49.831,False,False
+143327,LA,"Tamela ""Tammy"" King",Democratic,56,18.983,False,False
+143327,LA,Dexter Diane Moffitt,Democratic,48,16.271,False,False
+143327,LA,Jessica Brooks,Democratic,44,14.915,False,False
+143707,LA,Stacy Bonnette,Republican,1124,68.999,False,False
+143707,LA,Jerry Woodham Gordy,Republican,505,31.001,False,False
+143557,LA,"Jean Paul ""JP"" Broussard",Republican,3165,51.405,False,False
+143557,LA,"Art LeBreton, Jr.",Republican,1729,28.082,False,False
+143557,LA,"John Melvin Trahan, Jr.",Nonpartisan,1263,20.513,False,False
+143414,LA,C. Denise Marcelle,Democratic,15258,46.248,False,False
+143414,LA,Taneshia Flowers,Democratic,11212,33.984,False,False
+143414,LA,Antonia Caine,Democratic,3029,9.181,False,False
+143414,LA,Lee A. Cosey,Democratic,2155,6.532,False,False
+143414,LA,Carla Fowler,Democratic,1338,4.056,False,False
+143879,LA,Angela Whitehead,Republican,722,12.902,False,False
+143879,LA,"Robert ""Bob"" Krieger",Nonpartisan,698,12.473,False,False
+143879,LA,Sheldon Kerr,Republican,658,11.758,False,False
+143879,LA,John Zimek,Republican,572,10.222,False,False
+143879,LA,"Stewart ""ManyLightnings"" Eastman",Other,570,10.186,False,False
+143879,LA,E.J. Boudreaux,Republican,541,9.668,False,False
+143879,LA,John Preble,Republican,484,8.649,False,False
+143879,LA,John d'Hemecourt,Republican,483,8.631,False,False
+143879,LA,Carl A. Bayhi,Republican,476,8.506,False,False
+143879,LA,"Earl T. Carr, Jr.",Republican,392,7.005,False,False
+143345,LA,June Gayden,Democratic,103,74.638,False,False
+143345,LA,LaRonda Bowman,Democratic,35,25.362,False,False
+143582,LA,Scott Cockerham,Republican,82,76.636,False,False
+143582,LA,Gary W. McDaniel,Nonpartisan,25,23.364,False,False
+143439,LA,Alonzo Jones,Democratic,584,55.566,False,False
+143439,LA,Lindsay Wilson,Nonpartisan,467,44.434,False,False
+143904,LA,"Robert Clark, Jr.",Democratic,198,27.654,False,False
+143904,LA,Henry Jenkins,Democratic,160,22.346,False,False
+143904,LA,"Archie Turner, Jr.",Democratic,132,18.436,False,False
+143904,LA,"Roderick ""Chap"" Johnson",Democratic,80,11.173,False,False
+143904,LA,"Joseph ""Mose"" Ward",Democratic,62,8.659,False,False
+143904,LA,Joshua Smith,Democratic,55,7.682,False,False
+143904,LA,Elisha Hillard,Democratic,29,4.05,False,False
+143370,LA,Angela Hayes,Democratic,727,65.792,False,False
+143370,LA,Mark Cupit,Nonpartisan,378,34.208,False,False
+143799,LA,Rachel A. Richard,Democratic,742,49.302,False,False
+143799,LA,Richard Lewis III,Democratic,513,34.086,False,False
+143799,LA,Maurice J. Walker,Democratic,250,16.611,False,False
+143464,LA,"Charles ""Pat"" Hall",Nonpartisan,683,66.895,False,False
+143464,LA,Javata Jason,Nonpartisan,338,33.105,False,False
+143129,LA,Steve Gunnell,Republican,5809,57.024,False,False
+143129,LA,Karen Daniel Ancelet,Republican,4378,42.976,False,False
+143395,LA,Jason Leaphart,Republican,1257,63.166,False,False
+143395,LA,Jeffery LaCour,Democratic,733,36.834,False,False
+143444,LA,"Clifton ""Cliff"" Morris",Democratic,748,41.999,False,False
+143444,LA,Kimmi Sellers,Nonpartisan,537,30.152,False,False
+143444,LA,"William ""Bill"" Ford",Nonpartisan,496,27.85,False,False
+143824,LA,John Guilbeaux,Democratic,366,42.021,False,False
+143824,LA,Rachel Reed,Democratic,327,37.543,False,False
+143824,LA,Vanessa Brown Sostand,Democratic,178,20.436,False,False
+143297,LA,Harvey Dean Anders,Nonpartisan,311,56.239,False,False
+143297,LA,Jimmy Phillips,Nonpartisan,242,43.761,False,False
+143947,LA,Curtis Clay,Democratic,318,45.042,False,False
+143947,LA,"William Lewis, Jr.",Democratic,183,25.921,False,False
+143947,LA,Robert B. Blow,Democratic,108,15.297,False,False
+143947,LA,Sheneka Acey-Roy,Democratic,97,13.739,False,False
+143821,LA,J. Darrell Burleigh,Democratic,164,50.932,False,False
+143821,LA,Ignatius Pierre,Democratic,158,49.068,False,False
+143401,LA,"Craig ""CJ"" King II",Democratic,751,51.088,False,False
+143401,LA,Rebecca Fletcher,Nonpartisan,388,26.395,False,False
+143401,LA,Jonothan Borskey Edwards,Democratic,331,22.517,False,False
+143866,LA,Isabelle Moore,Republican,3208,57.771,False,False
+143866,LA,Ben Banchs,Nonpartisan,2345,42.229,False,False
+143531,LA,Vernon J. Wilty III,Democratic,12031,63.673,False,False
+143531,LA,Tyrus Norcise,Democratic,6864,36.327,False,False
+143381,LA,"William ""Bill"" Parker",Republican,931,71.671,False,False
+143381,LA,Megan Wedgeworth,Nonpartisan,258,19.861,False,False
+143381,LA,Jason L. Lee,Nonpartisan,110,8.468,False,False
+143846,LA,Chad Paradee,Republican,974,61.028,False,False
+143846,LA,Scott Babin,Republican,622,38.972,False,False
+143426,LA,Amanda Perry,Republican,814,54.594,False,False
+143426,LA,Ambre DeVirgilio,Republican,677,45.406,False,False
+143891,LA,Wade Piediscalzo,Republican,128,57.658,False,False
+143891,LA,Anthony Lamonte,Republican,66,29.73,False,False
+143891,LA,Jimmy Sparacello,Nonpartisan,28,12.613,False,False
+143549,LA,Letha Keyes Gordon,Democratic,66,66.0,False,False
+143549,LA,Elva J. Walker,Democratic,34,34.0,False,False
+143406,LA,Patrick Jenkins,Democratic,669,59.573,False,False
+143406,LA,Marty Dustin Nichols,Republican,454,40.427,False,False
+143679,LA,Cody Bulot,Republican,203,33.279,False,False
+143679,LA,Meda J. Prout,Democratic,160,26.23,False,False
+143679,LA,Marla Fisher Cooper,Nonpartisan,129,21.148,False,False
+143679,LA,Nicole Smith Williams,Democratic,118,19.344,False,False
+143451,LA,Miles Johnson,Republican,376,54.572,False,False
+143451,LA,Donovan Luke Fontenot,Other,313,45.428,False,False
+143916,LA,Yes,Nonpartisan,3627,76.778,False,False
+143916,LA,No,Nonpartisan,1097,23.222,False,False
+143766,LA,Yes,Nonpartisan,10071,55.938,False,False
+143766,LA,No,Nonpartisan,7933,44.062,False,False
+143623,LA,"J. ""Mark"" Federick",Republican,481,63.624,False,False
+143623,LA,Lashontay Douglas-Washington,Democratic,275,36.376,False,False
+143896,LA,"Steven ""Steve"" Leon",Republican,388,57.567,False,False
+143896,LA,Bethany Viviano,Nonpartisan,286,42.433,False,False
+143333,LA,Haley Baccigalopi,Republican,198,81.818,False,False
+143333,LA,Christa LeBoeuf,Democratic,44,18.182,False,False
+143791,LA,Devrin Jondrik Harper,Democratic,786,45.303,False,False
+143791,LA,Charo Bossier-Holden,Democratic,563,32.45,False,False
+143791,LA,Stephenie Sutherland-Aubert,Democratic,386,22.248,False,False
+143456,LA,Donald Anderson,Democratic,583,59.49,False,False
+143456,LA,Quentin Miller,Republican,397,40.51,False,False
+143921,LA,Christopher Snell,Republican,458,67.852,False,False
+143921,LA,Linda B. Evans,Democratic,138,20.444,False,False
+143921,LA,"Keith ""Bird"" Thompson",Democratic,79,11.704,False,False
+143159,LA,Scott A. Fontenot,Nonpartisan,1424,61.247,False,False
+143159,LA,Van Reed,Republican,707,30.409,False,False
+143159,LA,M. Guillory,Nonpartisan,194,8.344,False,False
+144008,LA,Elijah L. Lewis,Democratic,298,53.025,False,False
+144008,LA,Laura Bryan,Republican,149,26.512,False,False
+144008,LA,Donna Gibbon,Republican,115,20.463,False,False
+143673,LA,Blake M. Reddick,Democratic,471,65.599,False,False
+143673,LA,"John Barthelemy, Jr.",Democratic,247,34.401,False,False
+143747,LA,Pamela Vaughn,Democratic,122,20.165,False,False
+143747,LA,LeNette Romero,Republican,107,17.686,False,False
+143747,LA,Mary Nichols,Republican,104,17.19,False,False
+143747,LA,Blake Marchbank,Republican,101,16.694,False,False
+143747,LA,"Kathryn ""Paula"" Carter",Republican,97,16.033,False,False
+143747,LA,Tracy Burgess,Republican,74,12.231,False,False
+143796,LA,"Terry ""Tuni"" Toney-Jones",Democratic,1200,53.004,False,False
+143796,LA,Treyvon Johnson,Democratic,1064,46.996,False,False
+143376,LA,Connie Adair,Nonpartisan,77,52.381,False,False
+143376,LA,Veller R. Carroll,Nonpartisan,70,47.619,False,False
+143841,LA,"Leander ""Cush"" Williams",Democratic,937,72.467,False,False
+143841,LA,Jess Crosier,Democratic,356,27.533,False,False
+143506,LA,Brent Carline,Nonpartisan,770,48.035,False,False
+143506,LA,Hayden Morales,Democratic,425,26.513,False,False
+143506,LA,"Joseph ""Barry"" McBride",Democratic,408,25.452,False,False
+143164,LA,Otis Johnson,Democratic,245,63.144,False,False
+143164,LA,Tim Lavergne,Democratic,143,36.856,False,False
+143610,LA,"Keith ""Hawkeye"" Landry",Republican,717,57.131,False,False
+143610,LA,Travis Vernon,Republican,538,42.869,False,False
+143883,LA,Pat Farris,Republican,9349,48.017,False,False
+143883,LA,Becky Jackson,Democratic,6452,33.138,False,False
+143883,LA,David Bickford,Republican,2357,12.106,False,False
+143883,LA,Arden Wells,Republican,1312,6.739,False,False
+143932,LA,Coeyn Wise,Nonpartisan,902,56.73,False,False
+143932,LA,"Harry ""Gregg"" Meaux",Nonpartisan,688,43.27,False,False
+143398,LA,Willie Brooks III,Democratic,484,62.051,False,False
+143398,LA,Alteen Profit,Democratic,296,37.949,False,False
+143778,LA,Tim M. Detillier,Democratic,918,57.845,False,False
+143778,LA,Darlene F. Riley,Democratic,669,42.155,False,False
+143635,LA,Yes,Nonpartisan,167,50.606,False,False
+143635,LA,No,Nonpartisan,163,49.394,False,False
+143108,LA,Shirley Wilson Davis,Democratic,4840,62.043,False,False
+143108,LA,Carlton Parhms,Democratic,2961,37.957,False,False
+143950,LA,Kelly Kaiama-Goodwin,Republican,1575,13.778,False,False
+143950,LA,Bo Cryer,Republican,1455,12.729,False,False
+143950,LA,Rhonda H. Morrison,Republican,1402,12.265,False,False
+143950,LA,Jessica Rene Haymon,Republican,1356,11.862,False,False
+143950,LA,Betty Hicks,Republican,1265,11.066,False,False
+143950,LA,Raymond Haymon,Republican,1116,9.763,False,False
+143950,LA,Harold Rush,Republican,893,7.812,False,False
+143950,LA,Thomas Neubert,Nonpartisan,861,7.532,False,False
+143950,LA,Justin Brown,Nonpartisan,855,7.48,False,False
+143950,LA,Bonita Smith,Democratic,653,5.713,False,False
+143423,LA,Dave Freneaux,Republican,1195,52.551,False,False
+143423,LA,Hannah Brown,Republican,1079,47.449,False,False
+143995,LA,Marla Hanson,Republican,212,77.372,False,False
+143995,LA,Marcus Scott,Nonpartisan,62,22.628,False,False
+143468,LA,"Allen Noel, Jr.",Nonpartisan,142,62.009,False,False
+143468,LA,"Micheal ""Mike"" Fontenot",Republican,87,37.991,False,False
+143325,LA,Misty Dosher Soignier,Republican,278,53.257,False,False
+143325,LA,Judith Ann McKee,Democratic,244,46.743,False,False
+143975,LA,"Judson ""Teddy"" Drummond",Republican,1135,24.567,False,False
+143975,LA,"Melvin ""Chester"" Abram",Democratic,997,21.58,False,False
+143975,LA,Suzanne Belton,Democratic,967,20.931,False,False
+143975,LA,Penny Douglas,Democratic,645,13.961,False,False
+143975,LA,Tamira Moss Smith,Democratic,551,11.926,False,False
+143975,LA,Tobias Roberts,Nonpartisan,325,7.035,False,False
+143640,LA,"George ""Dwain"" Spillman, Jr.",Republican,908,71.384,False,False
+143640,LA,Celeste Ocon,Nonpartisan,364,28.616,False,False
+143685,LA,Gene Aubry Hendricks,Republican,557,57.246,False,False
+143685,LA,Jared Gibbs,Nonpartisan,416,42.754,False,False
+143343,LA,"Gwendolyn ""Gwen"" James-Robinson",Nonpartisan,131,57.456,False,False
+143343,LA,Shirley Cooper,Democratic,97,42.544,False,False
+144000,LA,Yes,Nonpartisan,632,73.66,False,False
+144000,LA,No,Nonpartisan,226,26.34,False,False
+143473,LA,Edwin Deville,Republican,81,24.324,False,False
+143473,LA,Jessie Johnson,Republican,79,23.724,False,False
+143473,LA,Joey Johnson,Democratic,60,18.018,False,False
+143473,LA,Eric Chapelle,Republican,58,17.417,False,False
+143473,LA,"Billy ""Neal"" King, Jr.",Republican,55,16.517,False,False
+143710,LA,"Randell ""Randy"" Bordelon",Republican,539,36.005,False,False
+143710,LA,Michael D. Vallery,Republican,485,32.398,False,False
+143710,LA,Melinda Strange,Republican,473,31.597,False,False
+143368,LA,"Fred Marsalis, Sr.",Democratic,301,50.503,False,False
+143368,LA,Raymond Riley,Nonpartisan,295,49.497,False,False
+143225,LA,Yes,Nonpartisan,2608,71.806,False,False
+143225,LA,No,Nonpartisan,1024,28.194,False,False
+143498,LA,Catherine Williams,Democratic,731,71.178,False,False
+143498,LA,Tonette Todd,Democratic,296,28.822,False,False
+143156,LA,Brian Frazier,Nonpartisan,1710,55.055,False,False
+143156,LA,W. Mark McKee,Nonpartisan,1396,44.945,False,False
+143927,LA,Larry Jones,Nonpartisan,182,55.657,False,False
+143927,LA,Gloria Ates,Republican,145,44.343,False,False
+143393,LA,Kimberly Marie Bainguel,Democratic,8121,56.47,False,False
+143393,LA,Megan Garretson,Republican,6260,43.53,False,False
+143250,LA,Grant Rabalais,Nonpartisan,275,23.955,False,False
+143250,LA,"Hilda ""Lucy"" Miller",Republican,222,19.338,False,False
+143250,LA,Timothy Hill,Democratic,196,17.073,False,False
+143250,LA,Sheli Simon,Nonpartisan,163,14.199,False,False
+143250,LA,Jermaine Williams,Nonpartisan,149,12.979,False,False
+143250,LA,Shannon Sampson,Democratic,143,12.456,False,False
+143523,LA,Sarah Heard,Republican,51,21.162,False,False
+143523,LA,Andrea Woods,Republican,47,19.502,False,False
+143523,LA,Chasity Pennington,Republican,44,18.257,False,False
+143523,LA,Tony Duffey,Nonpartisan,37,15.353,False,False
+143523,LA,Kimberly Reed,Republican,37,15.353,False,False
+143523,LA,Ernest Roden,Republican,25,10.373,False,False
+143373,LA,Linda Shirley McMillin,Republican,368,56.183,False,False
+143373,LA,Lee Anne Lipsey,Nonpartisan,287,43.817,False,False
+143753,LA,James D. Kennedy,Democratic,90,57.325,False,False
+143753,LA,Colette N. Parson,Democratic,67,42.675,False,False
+143627,LA,"John ""Robert"" Johnson, Jr.",Republican,698,69.384,False,False
+143627,LA,"Linda ""Logan"" Mays",Democratic,308,30.616,False,False
+143292,LA,Bruce W. Lee,Republican,4321,67.834,False,False
+143292,LA,Tony T. Williams,Libertarian,2049,32.166,False,False
+143750,LA,Chasity Mitchell Meshell,Republican,507,63.138,False,False
+143750,LA,Ashley Garcie,Republican,296,36.862,False,False
+143529,LA,"Ralph ""Rem"" Brandt",Republican,8561,60.898,False,False
+143529,LA,"James ""Jimmy"" Kytle",Republican,5497,39.102,False,False
+143987,LA,"Lloyd Davis, Jr.",Democratic,350,43.587,False,False
+143987,LA,Belinda Neloms Evans,Democratic,238,29.639,False,False
+143987,LA,Patricia Williams,Democratic,215,26.775,False,False
+143652,LA,Yes,Nonpartisan,74522,61.447,False,False
+143652,LA,No,Nonpartisan,46757,38.553,False,False
+143509,LA,"Jerome ""Gillis"" Martin, Jr.",Democratic,359,14.737,False,False
+143509,LA,Justin Bessix,Democratic,347,14.245,False,False
+143509,LA,Katrell Poole,Democratic,311,12.767,False,False
+143509,LA,Garrick Deon Scott,Democratic,300,12.315,False,False
+143509,LA,John E. Carriere,Nonpartisan,261,10.714,False,False
+143509,LA,"Veronica ""Bonnie"" Hill",Democratic,241,9.893,False,False
+143509,LA,"Edward James, Jr.",Democratic,237,9.729,False,False
+143509,LA,Sam W. Watson,Democratic,210,8.621,False,False
+143509,LA,"Edna ""Lil Bit"" Mitchel",Democratic,170,6.979,False,False
+143775,LA,Tundra Muse,Democratic,550,61.728,False,False
+143775,LA,Albert Franklin,Nonpartisan,341,38.272,False,False
+143355,LA,Lesia C. Key,Democratic,246,75.0,False,False
+143355,LA,Mark E. Perot,Nonpartisan,82,25.0,False,False
+144012,LA,Yes,Nonpartisan,2816,61.863,False,False
+144012,LA,No,Nonpartisan,1736,38.137,False,False
+143677,LA,"Jessie Isidore, Jr.",Nonpartisan,288,29.003,False,False
+143677,LA,Nerissa A. Antoine,Democratic,249,25.076,False,False
+143677,LA,"Gregory ""Greg"" Gibson",Democratic,229,23.061,False,False
+143677,LA,"Alexius ""Lexi"" Ancar",Democratic,128,12.89,False,False
+143677,LA,Christopher Bowers,Nonpartisan,99,9.97,False,False
+143534,LA,"Walter H. ""Beaver"" Maples, Jr.",Republican,269,52.849,False,False
+143534,LA,Jullian Bradberry,Nonpartisan,240,47.151,False,False
+143992,LA,Jared McIver,Nonpartisan,2328,61.702,False,False
+143992,LA,Ryan Barnette,Nonpartisan,1021,27.061,False,False
+143992,LA,Tim Morris,Republican,243,6.44,False,False
+143992,LA,Darrell Morris,Republican,181,4.797,False,False
+143429,LA,Yes,Nonpartisan,75737,51.914,False,False
+143429,LA,No,Nonpartisan,70152,48.086,False,False
+143894,LA,Jason Hood,Republican,689,55.032,False,False
+143894,LA,Drake Arnone,Republican,266,21.246,False,False
+143894,LA,Cody Garafola,Republican,173,13.818,False,False
+143894,LA,Adam Menszer,Republican,124,9.904,False,False
+143360,LA,Lori Ellis,Republican,86,24.501,False,False
+143360,LA,Bobbie S. Powell,Republican,70,19.943,False,False
+143360,LA,Del Marie Lewis,Democratic,61,17.379,False,False
+143360,LA,Christopher Ryan Spigener,Republican,55,15.67,False,False
+143360,LA,Bret Austin,Republican,43,12.251,False,False
+143360,LA,Eric J. Caldwell,Democratic,36,10.256,False,False
+144017,LA,David Stewart,Republican,195,50.649,False,False
+144017,LA,Amber Cox,Nonpartisan,120,31.169,False,False
+144017,LA,Alberta Foster,Nonpartisan,70,18.182,False,False
+143262,LA,Jerrica Roberson,Democratic,282,35.832,False,False
+143262,LA,Triveria Vernon Roberson,Nonpartisan,242,30.75,False,False
+143262,LA,Kenny Wayne Vernon,Democratic,153,19.441,False,False
+143262,LA,Brenda Dupree,Democratic,110,13.977,False,False
+143919,LA,Sharon Dixson,Democratic,276,49.462,False,False
+143919,LA,Heather Parson,Democratic,172,30.824,False,False
+143919,LA,Lashonda Bowie,Democratic,110,19.713,False,False
+143577,LA,"Judd ""Seth"" Corley",Republican,421,89.384,False,False
+143577,LA,Brandon Rowton,Republican,50,10.616,False,False
+143242,LA,Keenan Malveaux,Nonpartisan,759,57.544,False,False
+143242,LA,"Rashad ""Freddie Dupas"" Qaasim",Nonpartisan,560,42.456,False,False
+143479,LA,Yes,Nonpartisan,677,60.5,False,False
+143479,LA,No,Nonpartisan,442,39.5,False,False
+143745,LA,"Lennon ""Butch"" Whitney",Democratic,90,55.901,False,False
+143745,LA,"Nicholas ""Nick"" Burgess",Nonpartisan,71,44.099,False,False
+143602,LA,Rick Maier,Nonpartisan,307,21.544,False,False
+143602,LA,John Croswell,Republican,303,21.263,False,False
+143602,LA,Jake Haddox,Republican,268,18.807,False,False
+143602,LA,Corey Martin,Republican,234,16.421,False,False
+143602,LA,Donald Guillotte,Nonpartisan,169,11.86,False,False
+143602,LA,Bryce Rodgers,Republican,144,10.105,False,False
+143875,LA,Greg Chabreck,Republican,1765,65.346,False,False
+143875,LA,Adam C. Jacks,Republican,936,34.654,False,False
+143924,LA,Gail Neal,Democratic,385,69.12,False,False
+143924,LA,Lamonta Hill,Democratic,172,30.88,False,False
+143312,LA,Karen Hardy McReynolds,Democratic,2118,58.997,False,False
+143312,LA,"Lydia ""Lottie"" Larce",Democratic,1472,41.003,False,False
+143962,LA,Patsy Breland,Nonpartisan,500,57.471,False,False
+143962,LA,Ellen Taylor,Republican,370,42.529,False,False
+143836,LA,Bart Hebert,Republican,4466,62.14,False,False
+143836,LA,Lee C. Durio,Republican,2721,37.86,False,False
+143309,LA,Stacy Saltzman,Republican,7143,59.704,False,False
+143309,LA,Carla Sigler,Republican,4821,40.296,False,False
+143881,LA,Alva Drionne Smith,Democratic,187,39.787,False,False
+143881,LA,Maisha Harrell-Bijou,Democratic,169,35.957,False,False
+143881,LA,Pamala McKay,Democratic,114,24.255,False,False
+143347,LA,Angela Carter,Democratic,121,72.024,False,False
+143347,LA,Phillip Curry,Democratic,47,27.976,False,False
+143204,LA,"Samuel ""Sammy"" Reggie III",Nonpartisan,438,72.637,False,False
+143204,LA,Sherard M. Joseph,Democratic,165,27.363,False,False
+143253,LA,Bryan Redler,Republican,500,61.576,False,False
+143253,LA,Naomi M. Dickerson,Democratic,312,38.424,False,False
+143526,LA,Rachel Spears,Democratic,7571,63.993,False,False
+143526,LA,June Hollins,Democratic,4260,36.007,False,False
+143906,LA,Lonnie Lusco,Republican,11518,40.786,False,False
+143906,LA,Herbert Fitch,Republican,10501,37.185,False,False
+143906,LA,"Eugene ""Nunk"" Lagarde, Sr.",Democratic,6221,22.029,False,False
+143564,LA,"Calvin Cooks, Sr.",Nonpartisan,4318,68.054,False,False
+143564,LA,"Alfred ""Al"" Carter",Republican,2027,31.946,False,False
+143421,LA,Lon Vicknair,Republican,4239,35.048,False,False
+143421,LA,Aaron Moak,Republican,3757,31.062,False,False
+143421,LA,"Despo ""D'Ann"" Wells",Republican,2745,22.695,False,False
+143421,LA,Geno Guercio,Republican,1354,11.195,False,False
+143886,LA,Jerry Moore,Democratic,2628,69.45,False,False
+143886,LA,Donna Wallette,Republican,1156,30.55,False,False
+143352,LA,Tommy Garrett,Nonpartisan,424,80.608,False,False
+143352,LA,Stanley Ferrell,Democratic,102,19.392,False,False
+143931,LA,William J. Seaux,Republican,1641,56.489,False,False
+143931,LA,Ruby Thibeaux,Republican,1264,43.511,False,False
+143781,LA,Tori E. Bazile,Democratic,495,37.134,False,False
+143781,LA,Brad A. Batiste,Democratic,417,31.283,False,False
+143781,LA,Trinette M. Jasmin,Democratic,367,27.532,False,False
+143781,LA,Chaz E. Charles,Democratic,54,4.051,False,False
+143638,LA,Barbara Page,Nonpartisan,690,55.78,False,False
+143638,LA,Lee Waskom,Nonpartisan,547,44.22,False,False
+143111,LA,Mark Jeansonne,Republican,6759,55.607,False,False
+143111,LA,Alissa Piazza Tassin,Republican,5396,44.393,False,False
+143569,LA,Chad J. Mire,Nonpartisan,3297,67.026,False,False
+143569,LA,Burnell Tolbert,Democratic,1622,32.974,False,False
+143806,LA,Paul Trosclair,Democratic,1256,78.845,False,False
+143806,LA,Crystal Rougeau Wiley,Democratic,337,21.155,False,False
+143471,LA,Bryant Riggs,Democratic,259,68.158,False,False
+143471,LA,Leroy Robertson,Democratic,121,31.842,False,False
+143136,LA,Stephanie Bridges,Democratic,68856,57.149,False,False
+143136,LA,Shawn Lindsay,Democratic,51628,42.851,False,False
+143594,LA,Matthew Gaston,Republican,2058,72.695,False,False
+143594,LA,Terry Frazier,Nonpartisan,773,27.305,False,False
+144023,LA,William Walker,Democratic,182,46.667,False,False
+144023,LA,Brett Lang,Nonpartisan,147,37.692,False,False
+144023,LA,Evan Maurice Williams,Nonpartisan,61,15.641,False,False
+143496,LA,Yes,Nonpartisan,283,50.899,False,False
+143496,LA,No,Nonpartisan,273,49.101,False,False
+143154,LA,"Joseph ""Joe"" Green, Jr.",Republican,4537,69.832,False,False
+143154,LA,"Romelzy Willis, Jr.",Republican,1960,30.168,False,False
+143619,LA,Kathy Gultery,Nonpartisan,203,69.283,False,False
+143619,LA,Leandra Mitchell,Democratic,90,30.717,False,False
+143476,LA,Yes,Nonpartisan,1231,61.859,False,False
+143476,LA,No,Nonpartisan,759,38.141,False,False
+143856,LA,Kevin P. Hebert,Republican,1084,14.578,False,False
+143856,LA,Erica S. Brunson,Republican,986,13.26,False,False
+143856,LA,"Brandon ""J.H."" Monceaux",Republican,955,12.843,False,False
+143856,LA,Colleen Nicklas Askew,Republican,927,12.466,False,False
+143856,LA,Raymond Price,Republican,874,11.754,False,False
+143856,LA,George R. Underwood III,Republican,738,9.925,False,False
+143856,LA,James Richard,Republican,685,9.212,False,False
+143856,LA,"Earl Anslem, Jr.",Republican,606,8.15,False,False
+143856,LA,"Michael ""Mike"" Rodrigue",Republican,581,7.813,False,False
+143521,LA,Devin Flowers,Democratic,243,63.446,False,False
+143521,LA,"Cassandra ""San-San"" Wiley",Democratic,140,36.554,False,False
+143979,LA,Chanda K. Hillman,Nonpartisan,325,71.116,False,False
+143979,LA,Tiye Levias Yayu,Nonpartisan,132,28.884,False,False
+143853,LA,Clarence A. Vappie,Democratic,402,51.341,False,False
+143853,LA,Ajani Connor,Democratic,381,48.659,False,False
+143625,LA,Lisa Chafford,Democratic,3329,73.149,False,False
+143625,LA,Ronald Wilhite,Democratic,1222,26.851,False,False
+143898,LA,Emma Douglas,Democratic,167,62.547,False,False
+143898,LA,Krashondra Winston,Democratic,100,37.453,False,False
+143556,LA,Caleb Lege',Republican,1443,50.578,False,False
+143556,LA,Kert Thomas,Republican,1410,49.422,False,False
+143605,LA,"Jerry Denton, Jr.",Republican,8535,63.481,False,False
+143605,LA,Steven James Farber,Republican,4910,36.519,False,False
+143878,LA,Steven Ball,Republican,767,73.821,False,False
+143878,LA,John Polk,Republican,272,26.179,False,False
+143458,LA,Chesly D. Ortego,Republican,542,43.745,False,False
+143458,LA,Ricky Duhon,Democratic,430,34.705,False,False
+143458,LA,"Michael ""Mike"" Stockwell",Democratic,267,21.55,False,False
+143123,LA,Amanda A. Trosclair,Republican,34172,34.199,False,False
+143123,LA,Ben Clayton,Republican,20379,20.395,False,False
+143123,LA,Angelina Valuri,Republican,17050,17.064,False,False
+143123,LA,Jason Cuccia,Republican,16513,16.526,False,False
+143123,LA,"Theophile ""Theo"" Jones",Republican,11806,11.815,False,False
+143773,LA,Joshua Conleay,Republican,691,80.63,False,False
+143773,LA,Tangie Pounds-Rheams,Democratic,166,19.37,False,False
+143630,LA,"James ""Bodie"" Cooper",Nonpartisan,181,55.521,False,False
+143630,LA,Johnny Naff,Nonpartisan,145,44.479,False,False
+143903,LA,Jarrod Bottley,Democratic,188,69.373,False,False
+143903,LA,Bobby Higginbotham,Democratic,65,23.985,False,False
+143903,LA,"Ruby ""Elaine"" Scott",Democratic,18,6.642,False,False
+143483,LA,Danny R. Richardson,Republican,99,60.736,False,False
+143483,LA,David Wallace,Republican,42,25.767,False,False
+143483,LA,Bill Ezell,Nonpartisan,22,13.497,False,False
+143141,LA,"Joseph ""Joey"" Williams",Republican,32475,59.678,False,False
+143141,LA,Brent Hawkins,Nonpartisan,21942,40.322,False,False
+143990,LA,Susan Addington,Republican,751,81.277,False,False
+143990,LA,Jackie Lockett,Democratic,173,18.723,False,False
+143655,LA,Yes,Nonpartisan,433,52.043,False,False
+143655,LA,No,Nonpartisan,399,47.957,False,False
+143128,LA,Cindy Poston Lavespere,Republican,4731,44.137,False,False
+143128,LA,Lisa Nelson,Republican,3092,28.846,False,False
+143128,LA,Bryan Somers,Republican,2896,27.017,False,False
+143166,LA,Jackie JuJu Landry,Democratic,306,55.839,False,False
+143166,LA,Germaine Simpson,Democratic,242,44.161,False,False
+144015,LA,Brentin Chandler,Republican,269,58.606,False,False
+144015,LA,Lacey McManus,Nonpartisan,190,41.394,False,False
+143488,LA,Daryl Henry,Republican,109,17.085,False,False
+143488,LA,"Richard ""Rick"" Draper",Republican,105,16.458,False,False
+143488,LA,Sheldon Smith,Republican,89,13.95,False,False
+143488,LA,Mattison Brevelle,Nonpartisan,87,13.636,False,False
+143488,LA,Alan Williams,Republican,78,12.226,False,False
+143488,LA,Misty Kinn,Republican,67,10.502,False,False
+143488,LA,Timothy Kinn,Nonpartisan,62,9.718,False,False
+143488,LA,Kassandra Hooter,Republican,41,6.426,False,False
+143946,LA,"Paul Lemieux, Jr.",Republican,592,51.523,False,False
+143946,LA,Shad Stewart,Republican,557,48.477,False,False
+143383,LA,Clinton Fuller,Democratic,389,43.708,False,False
+143383,LA,"Roddrick ""Mr. No No"" Davis",Democratic,367,41.236,False,False
+143383,LA,Marty Williams,Nonpartisan,134,15.056,False,False
+143240,LA,No,Nonpartisan,4488,66.985,False,False
+143240,LA,Yes,Nonpartisan,2212,33.015,False,False
+143705,LA,Marsha S. Marcantel,Republican,1271,58.01,False,False
+143705,LA,Travis Worley,Nonpartisan,920,41.99,False,False
+143971,LA,Lynnette Sharp,Republican,558,62.556,False,False
+143971,LA,Lee E. Davis,Republican,334,37.444,False,False
+144020,LA,Gena Hatcher,Republican,252,57.798,False,False
+144020,LA,Shane Hyde,Republican,184,42.202,False,False
+143408,LA,Michael Vincent,Republican,4321,36.059,False,False
+143408,LA,Hannah Amoroso,Nonpartisan,4104,34.249,False,False
+143408,LA,Chris Spalatin,Democratic,3558,29.692,False,False
+143873,LA,Jared M. Schmidt,Republican,10201,34.754,False,False
+143873,LA,Natalie Russo Witman,Republican,10075,34.325,False,False
+143873,LA,Jonathan Witman,Republican,9076,30.921,False,False
+143730,LA,Rachal Henry,Nonpartisan,189,51.359,False,False
+143730,LA,Stephen Giddens,Nonpartisan,112,30.435,False,False
+143730,LA,Jacob Caldwell,Democratic,67,18.207,False,False
+143388,LA,John G. Russell,Republican,85,30.797,False,False
+143388,LA,Donna G. Basco,Nonpartisan,58,21.014,False,False
+143388,LA,"Clayton Davis, Jr.",Republican,53,19.203,False,False
+143388,LA,Sammy Chism,Republican,37,13.406,False,False
+143388,LA,Rhonda H. Meek,Republican,28,10.145,False,False
+143388,LA,Bailey Holder,Republican,15,5.435,False,False
+143642,LA,Katrina Evans,Democratic,172,53.75,False,False
+143642,LA,Jasmine Lewis,Nonpartisan,148,46.25,False,False
+143115,LA,Susan Theall,Republican,37916,69.209,False,False
+143115,LA,Dyan Schnaars,Republican,16869,30.791,False,False
+143957,LA,David Merlin Duke,Republican,2917,64.393,False,False
+143957,LA,"Lillian ""Tina"" Ratliff",Democratic,1613,35.607,False,False
+143622,LA,Daniel Stanley,Nonpartisan,233,62.973,False,False
+143622,LA,Aerial Perkins,Nonpartisan,137,37.027,False,False
+144002,LA,Shane Ray,Republican,349,88.131,False,False
+144002,LA,Angela Anderson,Nonpartisan,47,11.869,False,False
+143667,LA,Jesse C. Smith,Democratic,968,62.654,False,False
+143667,LA,"Willie J. Brown, Jr.",Democratic,577,37.346,False,False
+143332,LA,Ashley Stansel,Republican,162,65.06,False,False
+143332,LA,Trevor Rentrop,Republican,87,34.94,False,False
+143982,LA,Lance Stockman,Republican,1708,50.132,False,False
+143982,LA,Heath Stephens,Nonpartisan,1460,42.853,False,False
+143982,LA,Charles Edgell,Nonpartisan,239,7.015,False,False
+143455,LA,Bobby Max Hamlin,Republican,468,69.851,False,False
+143455,LA,Erin Hoffpauir Billiot,Nonpartisan,202,30.149,False,False
+143227,LA,Yes,Nonpartisan,976,73.439,False,False
+143227,LA,No,Nonpartisan,353,26.561,False,False
+143500,LA,Jasmine Carter,Democratic,781,50.257,False,False
+143500,LA,"Deborah ""Debbie"" Washington",Democratic,773,49.743,False,False
+143350,LA,Linda Kerry,Democratic,172,33.659,False,False
+143350,LA,Ramona Dunbar,Democratic,139,27.202,False,False
+143350,LA,"Emma ""Donna"" Hilliard",Nonpartisan,108,21.135,False,False
+143350,LA,Mary Free,Nonpartisan,92,18.004,False,False
+143207,LA,No,Nonpartisan,1655,53.13,False,False
+143207,LA,Yes,Nonpartisan,1460,46.87,False,False
+143672,LA,W. Keith Hinkley,Republican,2893,36.755,False,False
+143672,LA,"Benedict ""Benny"" Rousselle",Republican,2479,31.495,False,False
+143672,LA,Burghart H. Turner,Democratic,2240,28.459,False,False
+143672,LA,Sharon Branan Lincoln,Nonpartisan,204,2.592,False,False
+143672,LA,"Kenneth ""Kenny"" Woods",Nonpartisan,55,0.699,False,False
+143909,LA,Shawny Marmande Burgard,Republican,1484,42.693,False,False
+143909,LA,Mandy Verret,Republican,1064,30.61,False,False
+143909,LA,Heather Bonvillain,Republican,928,26.697,False,False
+143567,LA,Kevin Clement,Republican,2646,52.563,False,False
+143567,LA,Shawn Snow,Republican,2388,47.437,False,False
+143232,LA,Bart Himel,Republican,2900,39.216,False,False
+143232,LA,Sandra Denham-Lightfoot,Republican,2809,37.985,False,False
+143232,LA,Landon Lambert,Nonpartisan,1686,22.799,False,False
+143505,LA,Helen Hall Dotson,Democratic,1071,51.195,False,False
+143505,LA,Dakota Richard,Nonpartisan,1021,48.805,False,False
+143934,LA,Cheryl Granger,Republican,1829,68.734,False,False
+143934,LA,Philip DeBaillon,Republican,832,31.266,False,False
+143592,LA,"Evelyn ""Lewis"" Cooper",Democratic,465,60.39,False,False
+143592,LA,Richard Ray Anderson,Democratic,161,20.909,False,False
+143592,LA,Marsha Davis,Democratic,144,18.701,False,False
+143449,LA,Neal Lartigue,Democratic,2695,53.409,False,False
+143449,LA,Kevin Veillon,Republican,1718,34.047,False,False
+143449,LA,Darin Bordelon,Nonpartisan,421,8.343,False,False
+143449,LA,Darrian Guillory,Republican,212,4.201,False,False
+143722,LA,Kimberley Krischke,Republican,540,43.131,False,False
+143722,LA,Danny Winn,Nonpartisan,328,26.198,False,False
+143722,LA,Tiffany Cardwell,Republican,197,15.735,False,False
+143722,LA,Nathaniel Majors,Republican,187,14.936,False,False
+143380,LA,Bubba Patterson,Nonpartisan,407,54.704,False,False
+143380,LA,Rekeisha Fuller,Democratic,337,45.296,False,False
+143952,LA,"Kaden ""Buck"" O'Banion",Republican,611,57.696,False,False
+143952,LA,Brandon Lyons,Nonpartisan,448,42.304,False,False
+143617,LA,Shelly Crawford,Republican,253,78.328,False,False
+143617,LA,Lakyria McGowan,Nonpartisan,70,21.672,False,False
+143282,LA,"Peter ""Andy"" Modica",Republican,4403,81.146,False,False
+143282,LA,Stephen Donihoo,Nonpartisan,1023,18.854,False,False
+143740,LA,Jesse Washington,Democratic,408,37.091,False,False
+143740,LA,Perry Smith,Democratic,316,28.727,False,False
+143740,LA,Vivian Jones,Nonpartisan,303,27.545,False,False
+143740,LA,"LaToria ""Twin"" Ashley",Democratic,73,6.636,False,False
+143405,LA,Brenda G. Jackson,Democratic,516,48.679,False,False
+143405,LA,Sherri Hill Collins,Democratic,354,33.396,False,False
+143405,LA,Reatha Wright,Democratic,190,17.925,False,False
+143977,LA,Kyle Knight,Republican,245,31.41,False,False
+143977,LA,Cory K. Peters,Democratic,233,29.872,False,False
+143977,LA,Marilyn D. Lott,Democratic,166,21.282,False,False
+143977,LA,Damion Moss,Democratic,136,17.436,False,False
+143194,LA,Chuck Robichaux,Republican,1347,59.681,False,False
+143194,LA,Eric Jolivette,Democratic,910,40.319,False,False
+143659,LA,"Robert Cherry, Jr.",Nonpartisan,11747,73.857,False,False
+143659,LA,Chris Lewis,Nonpartisan,4158,26.143,False,False
+143516,LA,Martha Buchan,Republican,76,49.032,False,False
+143516,LA,"Gerald ""Thomas"" Palmer",Republican,48,30.968,False,False
+143516,LA,Micheal Mims,Nonpartisan,31,20.0,False,False
+143974,LA,Tyrin Z. Truong,Democratic,1445,46.374,False,False
+143974,LA,Michael Corey O'Ree,Nonpartisan,978,31.386,False,False
+143974,LA,Wendy Williams Dupont,Democratic,363,11.65,False,False
+143974,LA,Lori Simpson-Taylor,Republican,330,10.591,False,False
+143362,LA,"Troy Hamilton, Sr.",Democratic,88,53.012,False,False
+143362,LA,Jessica Dunn,Democratic,40,24.096,False,False
+143362,LA,Joyce M. Ivory,Democratic,38,22.892,False,False
+143219,LA,Waylin Bertrand,Republican,48,37.795,False,False
+143219,LA,Mick Estay,Republican,40,31.496,False,False
+143219,LA,Kade Conner,Republican,39,30.709,False,False
+143684,LA,Adrianne Williams,Democratic,572,57.836,False,False
+143684,LA,Brandon Bergeron,Republican,417,42.164,False,False
+143733,LA,Tangela Maxwell,Democratic,546,62.759,False,False
+143733,LA,Cherlonda Raymond,Democratic,324,37.241,False,False
+143999,LA,No,Nonpartisan,1659,51.03,False,False
+143999,LA,Yes,Nonpartisan,1592,48.97,False,False
+143579,LA,Candace Decker Hudnall,Republican,617,63.282,False,False
+143579,LA,Justin Vickers,Republican,358,36.718,False,False
+143244,LA,Stephen Mayeux,Democratic,943,61.513,False,False
+143244,LA,Jennifer Hazelton Spillman,Republican,590,38.487,False,False
+143901,LA,Thelma Bradford,Democratic,197,35.56,False,False
+143901,LA,Eric Walker,Democratic,194,35.018,False,False
+143901,LA,Lola Jordan,Republican,163,29.422,False,False
+143559,LA,Terry Montoucet,Republican,242,52.268,False,False
+143559,LA,Sherie Stutes Sonnier,Republican,221,47.732,False,False
+143224,LA,No,Nonpartisan,654,61.408,False,False
+143224,LA,Yes,Nonpartisan,411,38.592,False,False
+143461,LA,Ricky Fontenot,Nonpartisan,776,76.832,False,False
+143461,LA,Christian B. McGee,Nonpartisan,234,23.168,False,False
+143126,LA,"Joseph R. ""Joe"" McMahon III",Republican,35120,52.535,False,False
+143126,LA,Marko Marjanovic,Republican,31731,47.465,False,False
+143584,LA,Tracy Ponds,Republican,67,19.42,False,False
+143584,LA,Jim Oliveaux,Nonpartisan,61,17.681,False,False
+143584,LA,Sonya Oliveaux,Republican,61,17.681,False,False
+143584,LA,Shelby Loe,Nonpartisan,60,17.391,False,False
+143584,LA,Billie Jo Bird,Republican,53,15.362,False,False
+143584,LA,Samantha Sweeten,Nonpartisan,43,12.464,False,False
+143249,LA,Bruce Jackson,Democratic,247,16.644,False,False
+143249,LA,Darrell Sampson,Democratic,235,15.836,False,False
+143249,LA,Glenn Paul Mckinley,Democratic,215,14.488,False,False
+143249,LA,"Vernon ""Bim"" Augustine, Jr.",Nonpartisan,209,14.084,False,False
+143249,LA,"Nicholas ""Nicky"" Bordelon",Republican,208,14.016,False,False
+143249,LA,Kennie Augustine,Democratic,189,12.736,False,False
+143249,LA,Authuratte Sampson,Democratic,181,12.197,False,False
+143294,LA,Tony Nations,Republican,3818,50.158,False,False
+143294,LA,Eric Hatfield,Republican,3794,49.842,False,False
+143944,LA,Deidra Shell,Republican,989,76.077,False,False
+143944,LA,Ben Mount,Republican,311,23.923,False,False
+143801,LA,Janice Henry,Democratic,684,42.697,False,False
+143801,LA,Keith J. Scott,Democratic,504,31.461,False,False
+143801,LA,Toni Rosette,Democratic,414,25.843,False,False
+143274,LA,Timothy Williams,Democratic,130,56.769,False,False
+143274,LA,Rockettia S. Graham,Nonpartisan,99,43.231,False,False
+143511,LA,Rick Barlow,Republican,588,70.167,False,False
+143511,LA,Terry Driskill,Republican,250,29.833,False,False
+143969,LA,Joey Shane Seal,Republican,287,51.342,False,False
+143969,LA,"James ""Jim"" Miller",Republican,216,38.64,False,False
+143969,LA,Frank Smith,Republican,56,10.018,False,False
+143826,LA,Charles W. Cummings,Republican,737,64.143,False,False
+143826,LA,Theresa Thibodeaux,Republican,412,35.857,False,False
+143107,LA,Phillip Ellis,Republican,11975,61.388,False,False
+143107,LA,Lewis A. Jones,Republican,7532,38.612,False,False
+143949,LA,Candace Black,Republican,649,50.703,False,False
+143949,LA,Melissa Fulks,Republican,631,49.297,False,False
+143536,LA,Carrie Wheeler,Republican,2398,14.563,False,False
+143536,LA,Krisa Exsterstein,Republican,2330,14.15,False,False
+143536,LA,Linda Domangue,Republican,2147,13.039,False,False
+143536,LA,"Michael ""Mike"" Ricks",Republican,2021,12.274,False,False
+143536,LA,Craig Johnston,Republican,1998,12.134,False,False
+143536,LA,Lionel P. Hotard III,Republican,1803,10.95,False,False
+143536,LA,"Thomas ""Tommy"" Hughes",Nonpartisan,1706,10.361,False,False
+143536,LA,"Maurizio ""Mo"" Francescon",Republican,1439,8.739,False,False
+143536,LA,Ian Roche,Republican,624,3.79,False,False
+143211,LA,Joe Pitre,Republican,611,57.97,False,False
+143211,LA,"Stephen B. ""Kool"" Manuel",Nonpartisan,443,42.03,False,False
+143868,LA,Pamela Hotard,Republican,3054,62.111,False,False
+143868,LA,"Jesse ""Bert"" Stephens",Republican,1863,37.889,False,False
+143533,LA,Kendall Bussey,Democratic,15614,57.978,False,False
+143533,LA,"Luke LaBruzza, Jr.",Republican,8256,30.656,False,False
+143533,LA,"Marshall Pierre, Sr.",Democratic,3061,11.366,False,False
+143113,LA,Brittany Bell Chavis,Democratic,9139,63.25,False,False
+143113,LA,Sa Trica Williams Bensaadat,Democratic,5310,36.75,False,False
+143571,LA,Yes,Nonpartisan,4731,64.764,False,False
+143571,LA,No,Nonpartisan,2574,35.236,False,False
+143428,LA,Lael Montgomery,Democratic,843,57.464,False,False
+143428,LA,Jennifer Boyd Landry,Republican,357,24.335,False,False
+143428,LA,Dianne Dayton Fletcher,Nonpartisan,267,18.2,False,False
+143285,LA,Susannah W. Poljak,Nonpartisan,3686,57.657,False,False
+143285,LA,Matt Shields,Republican,2707,42.343,False,False
+143359,LA,Van McDaniel,Nonpartisan,584,64.388,False,False
+143359,LA,Bennie W. Holyfield IV,Nonpartisan,323,35.612,False,False
+143138,LA,Kimya Holmes,Democratic,70882,57.904,False,False
+143138,LA,Simone Levine,Democratic,51532,42.096,False,False
+143596,LA,Ronny Walker,Republican,3780,75.57,False,False
+143596,LA,William Faulkner,Nonpartisan,1222,24.43,False,False
+143453,LA,Raquel Manuel,Republican,492,54.007,False,False
+143453,LA,Cody Ardoin,Nonpartisan,419,45.993,False,False
+143118,LA,"Winston DeCuir, Jr.",Democratic,94306,63.121,False,False
+143118,LA,Justin DeLaune,Republican,55100,36.879,False,False
+143576,LA,Lanny Webb,Republican,323,68.577,False,False
+143576,LA,Jesse Hailey,Nonpartisan,148,31.423,False,False
+144005,LA,Taylor Sullivan,Republican,452,63.483,False,False
+144005,LA,Steven H. Comfort,Nonpartisan,260,36.517,False,False
+143670,LA,John Neighbors,Republican,2096,78.502,False,False
+143670,LA,Curtis Duke,Nonpartisan,574,21.498,False,False
+143335,LA,Randall Faulk,Republican,143,57.895,False,False
+143335,LA,Jacqueline Hebert,Nonpartisan,104,42.105,False,False
+143601,LA,Bruce Siegmund,Nonpartisan,360,63.158,False,False
+143601,LA,Galen Turner,Nonpartisan,210,36.842,False,False
+143838,LA,"Albert ""Da Da"" Menard",Democratic,981,68.697,False,False
+143838,LA,"Marvin ""Rock"" Crockett",Democratic,447,31.303,False,False
+143503,LA,Eugene Simpson,Nonpartisan,1124,54.352,False,False
+143503,LA,Stanley Washington,Democratic,944,45.648,False,False
+143161,LA,Todd Meche,Republican,187,54.519,False,False
+143161,LA,Ginger LeCompte,Republican,156,45.481,False,False
+143818,LA,Corey Fairchild,Nonpartisan,644,55.326,False,False
+143818,LA,"Aquieta ""Kiki"" Hebert",Nonpartisan,520,44.674,False,False
+143255,LA,"Gary ""Bud"" Crowe",Republican,862,66.41,False,False
+143255,LA,Jeremy L. Swisher,Republican,436,33.59,False,False
+143720,LA,Suzanne Duncan-Furby,Republican,834,68.193,False,False
+143720,LA,Neil Sayer,Republican,389,31.807,False,False
+143378,LA,Brent Gibson,Republican,405,46.498,False,False
+143378,LA,Kennie W. Barkley,Republican,343,39.38,False,False
+143378,LA,"Zebbulon ""Zebb"" Rogers",Republican,123,14.122,False,False
+143651,LA,Kristi Boissiere August,Democratic,76110,72.881,False,False
+143651,LA,Willie Jones,Democratic,28321,27.119,False,False
+143508,LA,Demi Vorise,Democratic,339,60.753,False,False
+143508,LA,Maurice L. Harris,Democratic,219,39.247,False,False
+143888,LA,"Obie Anthony Hookfin, Sr.",Democratic,715,58.993,False,False
+143888,LA,Jermey D. Robinson,Democratic,497,41.007,False,False
+143546,LA,"Justin ""Joe"" Abshire",Republican,874,63.287,False,False
+143546,LA,Terrie J. Guillory,Republican,283,20.492,False,False
+143546,LA,Kenny Hebert,Nonpartisan,224,16.22,False,False
+143612,LA,Ben Harris,Republican,1146,40.696,False,False
+143612,LA,Jim Gilbert,Republican,933,33.132,False,False
+143612,LA,John Cavalier,Nonpartisan,737,26.172,False,False
+143885,LA,Hunter Logan Smith,Republican,2352,59.756,False,False
+143885,LA,John W. Hatcher III,Nonpartisan,1584,40.244,False,False
+143657,LA,Yes,Nonpartisan,141,58.506,False,False
+143657,LA,No,Nonpartisan,100,41.494,False,False
+143130,LA,Amanda Mustin,Republican,14228,53.086,False,False
+143130,LA,Gregg J. Graffagnino,Republican,12574,46.914,False,False
+143780,LA,Marty J. Poche,Democratic,863,70.334,False,False
+143780,LA,Herbrena Gordon Boudreaux,Democratic,364,29.666,False,False
+143829,LA,Devin Thomas,Democratic,255,15.692,False,False
+143829,LA,Annette Charles,Democratic,249,15.323,False,False
+143829,LA,Eli Wheeler,Democratic,224,13.785,False,False
+143829,LA,Ted Andrew Miller,Democratic,206,12.677,False,False
+143829,LA,Gretchen Coco,Democratic,184,11.323,False,False
+143829,LA,Sandra K. Smith,Democratic,179,11.015,False,False
+143829,LA,"Shaterral ""Terra"" Johnson",Democratic,177,10.892,False,False
+143829,LA,Rebekah Taylor,Democratic,151,9.292,False,False
+143110,LA,Adam Cossey,Republican,23258,57.729,False,False
+143110,LA,Brandon Creekbaum,Republican,10779,26.755,False,False
+143110,LA,C. Bryan Racer,Republican,6251,15.516,False,False
+143490,LA,Krystal A. Boyance,Democratic,442,51.817,False,False
+143490,LA,"Marlon ""Marlo"" Lewis",Democratic,411,48.183,False,False
+143148,LA,Chad Guillot,Republican,9310,78.367,False,False
+143148,LA,Jonathan Terrel Gaspard,Republican,2570,21.633,False,False
+143997,LA,"Janice ""Louise"" Keener",Democratic,269,39.734,False,False
+143997,LA,Latasha Anderson Mitchell,Democratic,176,25.997,False,False
+143997,LA,Tracy Weston,Democratic,103,15.214,False,False
+143997,LA,Javelin Hardy,Democratic,74,10.931,False,False
+143997,LA,Eric Lee,Republican,55,8.124,False,False
+143662,LA,Tyler Soileau,Republican,2206,64.277,False,False
+143662,LA,Cody Futrell,Nonpartisan,1226,35.723,False,False
+143135,LA,Candace N. Newell,Democratic,69879,57.113,False,False
+143135,LA,Warren McKenna III,Democratic,52474,42.887,False,False
+143515,LA,"J. ""Spike"" Harris",Nonpartisan,696,50.84,False,False
+143515,LA,Leslie Thompson,Democratic,673,49.16,False,False
+143365,LA,Yes,Nonpartisan,2012,73.084,False,False
+143365,LA,No,Nonpartisan,741,26.916,False,False
+143222,LA,Brian Courville,Republican,79,43.407,False,False
+143222,LA,Maria C. Dewees,Republican,73,40.11,False,False
+143222,LA,Bruce Manuel,Democratic,30,16.484,False,False
+143687,LA,Erica Aguillard,Democratic,862,75.814,False,False
+143687,LA,Jennifer Woods Bollich,Republican,275,24.186,False,False
+143153,LA,Lauren Heinen,Republican,4283,41.863,False,False
+143153,LA,"Richard ""Ric"" Oustalet, Jr.",Republican,3129,30.584,False,False
+143153,LA,Daniel W. Sparks,Republican,2819,27.554,False,False
+143390,LA,"Lawrence ""L.T."" Dupre",Republican,28946,51.711,False,False
+143390,LA,Wendy Edwards Morice,Republican,27031,48.289,False,False
+143247,LA,"Kenneth Pickett, Sr.",Democratic,202,41.478,False,False
+143247,LA,"Sterling Hayes, Sr.",Democratic,94,19.302,False,False
+143247,LA,Judy James,Democratic,91,18.686,False,False
+143247,LA,Judy Augustine Bazert,Democratic,66,13.552,False,False
+143247,LA,Steven Augustine,Republican,34,6.982,False,False
+143712,LA,Gail Wilking,Republican,711,55.547,False,False
+143712,LA,Marc Mercer,Republican,569,44.453,False,False
+143178,LA,Trey Smith,Republican,598,65.57,False,False
+143178,LA,Charles Sharma,Republican,314,34.43,False,False
+143607,LA,Cecil Harris,Republican,2637,58.405,False,False
+143607,LA,Chris Taylor,Republican,1878,41.595,False,False
+143272,LA,Melanie Monroe,Democratic,127,56.444,False,False
+143272,LA,Becky Murphy Fields,Democratic,98,43.556,False,False
+143929,LA,Cassandra Crow,Democratic,144,21.208,False,False
+143929,LA,"Eugene ""Bubba"" Hoggatt",Republican,121,17.82,False,False
+143929,LA,Sydney Akers,Republican,115,16.937,False,False
+143929,LA,Adam Kennedy,Nonpartisan,105,15.464,False,False
+143929,LA,Addison Akers,Republican,100,14.728,False,False
+143929,LA,John McPherson,Republican,94,13.844,False,False
+143203,LA,"Byron K. Wilridge, Sr.",Democratic,522,68.325,False,False
+143203,LA,Smokey O. Wheeler,Democratic,242,31.675,False,False
+143252,LA,Jimmie B. Maricle,Republican,677,71.489,False,False
+143252,LA,Cody Lauderback,Republican,270,28.511,False,False
+143632,LA,Brenda Fenceroy,Democratic,43,35.537,False,False
+143632,LA,Dorothy Bradshaw,Democratic,41,33.884,False,False
+143632,LA,Emma Jones,Democratic,27,22.314,False,False
+143632,LA,Sharon Danette Daigle,Nonpartisan,10,8.264,False,False
+143105,LA,Rachel Wiggins Bays,Republican,8540,57.489,False,False
+143105,LA,Patrick O. Jefferson,Nonpartisan,6315,42.511,False,False
+143755,LA,Vicky Morales,Republican,672,57.485,False,False
+143755,LA,Lori Norrell,Republican,497,42.515,False,False
+143629,LA,"Karen ""Solomon"" Diel",Nonpartisan,244,74.164,False,False
+143629,LA,"Cassondra ""Cassie"" Naff",Nonpartisan,85,25.836,False,False
+143209,LA,Yes,Nonpartisan,1653,53.271,False,False
+143209,LA,No,Nonpartisan,1450,46.729,False,False
+143674,LA,Scott R. Rousselle,Republican,287,37.176,False,False
+143674,LA,David R. Clark,Republican,247,31.995,False,False
+143674,LA,"Thomas ""Tommy"" Monier",Republican,238,30.829,False,False
+143339,LA,Toshiro Fisher,Democratic,205,57.746,False,False
+143339,LA,Fredrick Smith,Democratic,150,42.254,False,False
+143189,LA,Tonya Breaux,Republican,695,34.802,False,False
+143189,LA,"James ""Jimbo"" Armentor",Republican,556,27.842,False,False
+143189,LA,Rena Richard Bertrand,Republican,431,21.582,False,False
+143189,LA,Angella Abshire,Republican,315,15.774,False,False
+143654,LA,Yes,Nonpartisan,235,59.796,False,False
+143654,LA,No,Nonpartisan,158,40.204,False,False
+143234,LA,Lynelle Johnson,Republican,8332,55.796,False,False
+143234,LA,John C. Hebert,Republican,6601,44.204,False,False
+143699,LA,Yes,Nonpartisan,4718,58.975,False,False
+143699,LA,No,Nonpartisan,3282,41.025,False,False
+143357,LA,Tommy Sanders,Nonpartisan,461,50.493,False,False
+143357,LA,Amri Warren,Nonpartisan,452,49.507,False,False
+143214,LA,Dawn Perkins,Nonpartisan,433,57.965,False,False
+143214,LA,Meagan Conner,Republican,314,42.035,False,False
+143487,LA,Joyce Dubois,Republican,116,17.211,False,False
+143487,LA,Sabrina Fletcher,Republican,106,15.727,False,False
+143487,LA,"Charles ""Chuck"" Lacroix",Republican,100,14.837,False,False
+143487,LA,Tonya Pennywell,Democratic,100,14.837,False,False
+143487,LA,Jayme Freeman,Republican,94,13.947,False,False
+143487,LA,Eleanor Sheffield,Nonpartisan,92,13.65,False,False
+143487,LA,"Teresa ""Waters"" Trichel",Nonpartisan,66,9.792,False,False
+143259,LA,Yes,Nonpartisan,287,60.934,False,False
+143259,LA,No,Nonpartisan,184,39.066,False,False
+143724,LA,"Lucretia ""Bonnie"" McCoy",Democratic,258,14.129,False,False
+143724,LA,Jennie Bobb,Democratic,211,11.555,False,False
+143724,LA,Peggy Brew,Democratic,206,11.281,False,False
+143724,LA,"Leslie ""Bobe"" Aaron",Democratic,192,10.515,False,False
+143724,LA,Mary Ann Fisher,Democratic,184,10.077,False,False
+143724,LA,Carolyn White-Pittman,Democratic,174,9.529,False,False
+143724,LA,Donna Lofton,Democratic,157,8.598,False,False
+143724,LA,Cathy Fisher,Democratic,143,7.831,False,False
+143724,LA,Linda Bobb Fisher,Democratic,123,6.736,False,False
+143724,LA,Fidelia Jackson-Sutherland,Democratic,118,6.462,False,False
+143724,LA,Pamela Bynog,Nonpartisan,60,3.286,False,False
+143574,LA,"Michael ""Mike"" Adams",Republican,285,71.429,False,False
+143574,LA,Kendra Webster Taylor,Democratic,114,28.571,False,False
+143431,LA,Yes,Nonpartisan,213,66.149,False,False
+143431,LA,No,Nonpartisan,109,33.851,False,False
+143704,LA,Ashley Nicole Baptiste,Democratic,2059,72.195,False,False
+143704,LA,Fredell Griffin,Democratic,793,27.805,False,False
+143742,LA,Larry Rancher,Democratic,130,53.061,False,False
+143742,LA,Frankie L. Ball,Democratic,115,46.939,False,False
+143599,LA,Don Dufour,Nonpartisan,179,62.587,False,False
+143599,LA,Heath Humble,Nonpartisan,107,37.413,False,False
+143264,LA,Ryanie Evans,Nonpartisan,627,50.483,False,False
+143264,LA,James C. Allums,Democratic,615,49.517,False,False
+143729,LA,Yes,Nonpartisan,552,79.197,False,False
+143729,LA,No,Nonpartisan,145,20.803,False,False
+143959,LA,Keith Giles,Republican,641,67.903,False,False
+143959,LA,Randall C. Penton,Nonpartisan,303,32.097,False,False
+143816,LA,Brad Randell,Democratic,146,37.532,False,False
+143816,LA,Wilton Guidry,Democratic,144,37.018,False,False
+143816,LA,Willie Troy Coco,Democratic,99,25.45,False,False
+143481,LA,"Henry G. Herford, Jr.",Republican,329,64.384,False,False
+143481,LA,Michael E. Garley,Nonpartisan,182,35.616,False,False
+143555,LA,Charlotte Stemmans Clavier,Republican,1191,39.062,False,False
+143555,LA,Eric Knight,Democratic,1069,35.061,False,False
+143555,LA,Don Chauvin,Republican,789,25.877,False,False
+143604,LA,"John F. Brown, Jr.",Democratic,527,15.369,False,False
+143604,LA,Delores Wilkerson Smith,Democratic,517,15.077,False,False
+143604,LA,DeVaria Hudson Ponton,Democratic,504,14.698,False,False
+143604,LA,Cathy Holmes,Democratic,465,13.561,False,False
+143604,LA,Mary Goree Gipson,Democratic,392,11.432,False,False
+143604,LA,Jerry Lewis,Democratic,378,11.024,False,False
+143604,LA,David Ferguson,Democratic,357,10.411,False,False
+143604,LA,Garnet Wagner I,Democratic,289,8.428,False,False
+143984,LA,Yolanda Shaw Palmer,Nonpartisan,393,43.425,False,False
+143984,LA,Mike Wilkes,Republican,263,29.061,False,False
+143984,LA,Ricky Thomas,Republican,249,27.514,False,False
+143649,LA,Da'Netta Prudhomme,Democratic,211,16.88,False,False
+143649,LA,La-Tia Beavers,Nonpartisan,208,16.64,False,False
+143649,LA,Mary Donaway Collins,Democratic,183,14.64,False,False
+143649,LA,Robin Washington,Democratic,182,14.56,False,False
+143649,LA,Sarah Ann Reliford,Democratic,161,12.88,False,False
+143649,LA,"Laquita ""Quita"" Arnold",Nonpartisan,153,12.24,False,False
+143649,LA,"James Evans, Jr.",Democratic,152,12.16,False,False
+143314,LA,Dana Aucoin,Republican,838,69.199,False,False
+143314,LA,Chris Holmes,Nonpartisan,230,18.993,False,False
+143314,LA,Chad E. Primeaux,Nonpartisan,143,11.808,False,False
+143964,LA,Penny Moses,Democratic,483,71.982,False,False
+143964,LA,"Gwendolyn ""Gwen"" Pigott",Democratic,188,28.018,False,False
+143418,LA,Sheila Freeman,Democratic,12577,48.526,False,False
+143418,LA,"Gordon Hutchinson, Jr.",Republican,9270,35.767,False,False
+143418,LA,Chris Johnson,Republican,4071,15.707,False,False
+143691,LA,Dana Jarreau,Democratic,784,73.066,False,False
+143691,LA,Claiborne Ashford,Democratic,289,26.934,False,False
+143541,LA,Donna Woods,Republican,517,71.806,False,False
+143541,LA,Brant R. Smith,Nonpartisan,203,28.194,False,False
+143206,LA,Amber Thibodeaux Hargrave,Republican,124,29.736,False,False
+143206,LA,"Ray J. Richard, Jr.",Republican,107,25.659,False,False
+143206,LA,Charles Clinch,Republican,105,25.18,False,False
+143206,LA,Darla L. Istre,Republican,81,19.424,False,False
+143586,LA,Russell Dorton,Republican,722,16.921,False,False
+143586,LA,Tommy D. Sandifer,Republican,671,15.725,False,False
+143586,LA,Donny Richardson,Republican,635,14.882,False,False
+143586,LA,Lester Francis,Republican,611,14.319,False,False
+143586,LA,Clint Masters,Republican,501,11.741,False,False
+143586,LA,Cindy White,Republican,489,11.46,False,False
+143586,LA,Brian Allison,Republican,456,10.687,False,False
+143586,LA,Timmy Renz,Republican,182,4.265,False,False
+143443,LA,W. Burke Jones,Nonpartisan,331,60.291,False,False
+143443,LA,"Kerwin Hardy, Jr.",Nonpartisan,218,39.709,False,False
+143908,LA,John Campbell,Democratic,1255,54.259,False,False
+143908,LA,Wendell Shelby-Wallace,Nonpartisan,1058,45.741,False,False
+143758,LA,Jason Landry,Democratic,539,58.333,False,False
+143758,LA,Peter Rupp,Republican,295,31.926,False,False
+143758,LA,Jason R. Danna,Republican,90,9.74,False,False
+143231,LA,Greg Hillensbeck,Republican,4447,61.996,False,False
+143231,LA,Breigh Rainey Rhodes,Nonpartisan,2726,38.004,False,False
+143803,LA,Greg Ardoin,Republican,913,36.259,False,False
+143803,LA,Derrick J. Comeaux,Republican,796,31.612,False,False
+143803,LA,Phyllis Mason-Fisher,Democratic,582,23.114,False,False
+143803,LA,Latasha Benson Romar-Lee,Democratic,227,9.015,False,False
+143276,LA,Tasha Scott,Nonpartisan,79,75.962,False,False
+143276,LA,Lesley King,Nonpartisan,25,24.038,False,False
+143133,LA,Nghana Lewis,Democratic,2374,58.923,False,False
+143133,LA,Eric Carter,Democratic,1655,41.077,False,False
+143783,LA,Andy M. Detillier,Democratic,677,62.512,False,False
+143783,LA,"Alexander ""Alex"" Gerhold IV",Democratic,406,37.488,False,False
+143448,LA,"Debra ""Debbie"" Allen Norsworthy",Nonpartisan,306,39.382,False,False
+143448,LA,"James ""Bubba"" McCrory",Nonpartisan,210,27.027,False,False
+143448,LA,Kevin Rome,Republican,135,17.375,False,False
+143448,LA,"Whittington ""Whit"" Vidrine",Republican,126,16.216,False,False
+143493,LA,Sasha Shavers-Nicholas,Democratic,880,72.013,False,False
+143493,LA,Butch Bourgeois,Republican,342,27.987,False,False
+143151,LA,"Cy D'Aquila, Jr.",Republican,7389,61.895,False,False
+143151,LA,"Kenneth ""Ken"" Fabre",Nonpartisan,4549,38.105,False,False
+143808,LA,Jason E. Brasseaux,Republican,1152,29.373,False,False
+143808,LA,Judy D. Meche,Democratic,1144,29.169,False,False
+143808,LA,Leo Meche,Democratic,1064,27.129,False,False
+143808,LA,Robert D. Forras,Republican,562,14.329,False,False
+143281,LA,"Ronald ""Ron"" Matlock",Republican,157,65.417,False,False
+143281,LA,H D Ainsworth,Nonpartisan,83,34.583,False,False
+143518,LA,Nita Cooper Hayes,Democratic,540,41.379,False,False
+143518,LA,Nia Evans Watkins,Democratic,485,37.165,False,False
+143518,LA,"David ""Poochie"" Hammock",Democratic,280,21.456,False,False
+143176,LA,Ursula Bowman,Democratic,3970,58.981,False,False
+143176,LA,Derrick L. Henderson,Democratic,1664,24.721,False,False
+143176,LA,Steven Hall,Democratic,1097,16.298,False,False
+144025,LA,Yes,Nonpartisan,1938,66.098,False,False
+144025,LA,No,Nonpartisan,994,33.902,False,False
+143306,LA,Gary Hart,Republican,764,20.26,False,False
+143306,LA,Laura Neubert,Republican,736,19.517,False,False
+143306,LA,Jim Roberts,Republican,658,17.449,False,False
+143306,LA,Jeff Guin,Republican,583,15.46,False,False
+143306,LA,John R. Fuller,Republican,546,14.479,False,False
+143306,LA,Judy Presley,Republican,484,12.835,False,False
+143956,LA,"Jonathan ""Jon"" Hyatt",Republican,88,20.183,False,False
+143956,LA,Cullen L. Parker,Republican,85,19.495,False,False
+143956,LA,Hogan Bennett,Republican,84,19.266,False,False
+143956,LA,John Fain,Republican,66,15.138,False,False
+143956,LA,Ida Bynum,Republican,63,14.45,False,False
+143956,LA,Tom Reeks,Nonpartisan,50,11.468,False,False
+143735,LA,Phyllis Dorsey,Democratic,324,55.479,False,False
+143735,LA,Reed Trisler,Republican,260,44.521,False,False
+143201,LA,Linda Alleman Conroy,Republican,277,59.315,False,False
+143201,LA,Kenneth Guidry,Republican,190,40.685,False,False
+143858,LA,No,Nonpartisan,808,50.249,False,False
+143858,LA,Yes,Nonpartisan,800,49.751,False,False
+143331,LA,Calise Romero,Republican,169,62.825,False,False
+143331,LA,Rock Davis,Republican,100,37.175,False,False
+143981,LA,Yes,Nonpartisan,493,58.412,False,False
+143981,LA,No,Nonpartisan,351,41.588,False,False
+143561,LA,Lindy Bolgiano,Republican,4018,69.038,False,False
+143561,LA,"James ""Bubba"" Savell",Republican,1802,30.962,False,False
+143435,LA,Eugene Styron,Nonpartisan,467,34.44,False,False
+143435,LA,Michael Threats,Democratic,417,30.752,False,False
+143435,LA,Albert Dismuke,Democratic,337,24.853,False,False
+143435,LA,Wytavaion Tibbs,Democratic,76,5.605,False,False
+143435,LA,Christopher Bradley,Democratic,59,4.351,False,False
+143100,LA,Stephanie Hilferty,Republican,176505,58.884,False,False
+143100,LA,Connie Norris,Democratic,83259,27.776,False,False
+143100,LA,"Christopher ""Chris"" Justin",Nonpartisan,39984,13.339,False,False
+143558,LA,Jakob Goodwin,Republican,633,81.889,False,False
+143558,LA,Nahia Simon,Nonpartisan,140,18.111,False,False
+143337,LA,John Chisum,Republican,163,58.845,False,False
+143337,LA,Wealthia Oliver-Jackson,Nonpartisan,114,41.155,False,False
+143795,LA,Lance McCormick,Democratic,656,56.895,False,False
+143795,LA,"Shondrell ""Shonnie P"" Perrilloux",Republican,497,43.105,False,False
+143460,LA,Ryan LeDay Williams,Democratic,1731,69.212,False,False
+143460,LA,Hilda Clark Edwards,Democratic,770,30.788,False,False
+143317,LA,"Erik B. Johnson, Sr.",Nonpartisan,548,52.042,False,False
+143317,LA,Christopher Lafleur,Republican,505,47.958,False,False
+143583,LA,Joel Sims,Republican,233,19.864,False,False
+143583,LA,Emily Emfinger,Republican,220,18.755,False,False
+143583,LA,Michael Duke,Nonpartisan,208,17.732,False,False
+143583,LA,Mike McDougald,Republican,206,17.562,False,False
+143583,LA,Anita Masoner,Republican,172,14.663,False,False
+143583,LA,Brandon Slade Martin,Nonpartisan,134,11.424,False,False
+143163,LA,Nicholas Paul Richardson,Nonpartisan,257,64.573,False,False
+143163,LA,Victor Fontenot,Republican,141,35.427,False,False
+143820,LA,Juwan Stevens,Democratic,203,51.392,False,False
+143820,LA,Erick G. Fontenot,Democratic,192,48.608,False,False
+143485,LA,Mason Briggs,Republican,405,55.939,False,False
+143485,LA,Kevin Simmons,Republican,319,44.061,False,False
+143143,LA,Colby Bowman,Nonpartisan,4968,33.131,False,False
+143143,LA,Rick Warren,Republican,4187,27.923,False,False
+143143,LA,Jim Colvin,Nonpartisan,3180,21.207,False,False
+143143,LA,Tammy Gantt Jump,Republican,2660,17.739,False,False
+143800,LA,Joyce Haynes,Democratic,1112,63.11,False,False
+143800,LA,Don Dejean,Democratic,650,36.89,False,False
+143237,LA,Patrick Lawless,Democratic,428,40.53,False,False
+143237,LA,"Andrea ""Peaches"" Johnson",Democratic,396,37.5,False,False
+143237,LA,Gil Verner,Nonpartisan,232,21.97,False,False
+143702,LA,Roosevelt L. Johnson,Democratic,2426,66.032,False,False
+143702,LA,Marie Ashmore,Nonpartisan,1248,33.968,False,False
+143168,LA,Melissa Bergeron Clavier,Republican,186,27.72,False,False
+143168,LA,"John ""JJ"" Jenkins",Republican,177,26.379,False,False
+143168,LA,Kristy Miller,Republican,131,19.523,False,False
+143168,LA,"Nickolas ""Nick"" Labauve",Nonpartisan,75,11.177,False,False
+143168,LA,Charetha Ceaser Rankins,Democratic,66,9.836,False,False
+143168,LA,Bryan L. Goodley,Nonpartisan,36,5.365,False,False
+143825,LA,Delita Rubin Broussard,Democratic,324,39.036,False,False
+143825,LA,"Charles Ray Tyler, Sr.",Democratic,220,26.506,False,False
+143825,LA,Belinda Stevenson,Democratic,188,22.651,False,False
+143825,LA,Paula Faye Lewis Victor,Democratic,56,6.747,False,False
+143825,LA,Big CB Dayon,Democratic,42,5.06,False,False
+143870,LA,Shannon Bordelon,Nonpartisan,2083,71.262,False,False
+143870,LA,Staci Sidhu Wright,Democratic,840,28.738,False,False
+143727,LA,Gary Johnson,Democratic,1617,68.056,False,False
+143727,LA,Gerber Porter,Democratic,759,31.944,False,False
+143385,LA,Angelia Granger,Republican,1597,62.188,False,False
+143385,LA,Vikki Parker,Republican,971,37.812,False,False
+143850,LA,Benny J. Druilhet,Democratic,513,58.229,False,False
+143850,LA,Cardell Bowser Ina,Democratic,368,41.771,False,False
+143287,LA,Cleveland Mouton III,Democratic,1728,41.212,False,False
+143287,LA,Dana Fergins-Hawthorne,Democratic,1604,38.254,False,False
+143287,LA,Kenny Gordon,Democratic,861,20.534,False,False
+143553,LA,James Klock,Republican,18212,47.774,False,False
+143553,LA,Emilia Pardo,Republican,13712,35.97,False,False
+143553,LA,Ryan Harris,Republican,6197,16.256,False,False
+143410,LA,Crystal London,Nonpartisan,621,68.392,False,False
+143410,LA,Andrea Graves,Republican,287,31.608,False,False
+143683,LA,Yes,Nonpartisan,3986,53.439,False,False
+143683,LA,No,Nonpartisan,3473,46.561,False,False
+143732,LA,Kenneth Bradley,Democratic,205,52.43,False,False
+143732,LA,Monique McDuffy-Jones,Democratic,186,47.57,False,False
+143120,LA,Vernon Thomas,Democratic,31416,51.992,False,False
+143120,LA,ReAzalia Allen,Democratic,16254,26.899,False,False
+143120,LA,"Allison ""AJ"" Sabine",Democratic,12755,21.109,False,False
+143770,LA,Shelia Haywood,Democratic,222,28.869,False,False
+143770,LA,Mittie C. Muse,Democratic,219,28.479,False,False
+143770,LA,"Idella ""Washington"" Smith",Democratic,168,21.847,False,False
+143770,LA,Marcus T. Downs,Nonpartisan,160,20.806,False,False
+143644,LA,"Quatashia ""Shae"" Phillips",Nonpartisan,107,34.405,False,False
+143644,LA,Rickey Armstead,Nonpartisan,100,32.154,False,False
+143644,LA,"Christopher Houston, Sr.",Republican,71,22.83,False,False
+143644,LA,Syreetta Evans,Nonpartisan,33,10.611,False,False
+143117,LA,"Victor Woods, Jr.",Democratic,2366,36.155,False,False
+143117,LA,Lori White,Democratic,2128,32.518,False,False
+143117,LA,Alycia Grace-O'Bear,Democratic,2050,31.326,False,False
+143689,LA,Sharon Carroll Hebert,Republican,722,84.742,False,False
+143689,LA,Gerald Amos,Republican,130,15.258,False,False
+143155,LA,James Patrick Lemoine,Republican,3819,61.016,False,False
+143155,LA,Ed Tarpley,Republican,2440,38.984,False,False
+144004,LA,Cristal Gayle Francis,Democratic,87,32.222,False,False
+144004,LA,Raylie Cox,Nonpartisan,67,24.815,False,False
+144004,LA,Ashley Herrington,Democratic,58,21.481,False,False
+144004,LA,Jayme Hogan,Nonpartisan,58,21.481,False,False
+143861,LA,d'Andrea McMooain Chatman,Democratic,13920,41.509,False,False
+143861,LA,Tracey Turgeau Powell,Republican,11618,34.644,False,False
+143861,LA,Tammy M. Nick,Republican,7997,23.847,False,False
+143334,LA,Kelsey Chesson Reeves,Republican,165,53.571,False,False
+143334,LA,Angela Nunez,Republican,143,46.429,False,False
+143714,LA,Jeffrey Botson,Nonpartisan,255,50.296,False,False
+143714,LA,Garry Goynes,Republican,252,49.704,False,False
+143372,LA,Yolanda Elliott McClure,Democratic,296,51.211,False,False
+143372,LA,Earl Banks,Democratic,282,48.789,False,False
+143229,LA,Rochelle Darville,Democratic,2301,66.235,False,False
+143229,LA,Torey Bennett,Democratic,1173,33.765,False,False
+143694,LA,Theron Smith,Nonpartisan,1179,58.222,False,False
+143694,LA,Kurt G. Kellerman,Nonpartisan,719,35.506,False,False
+143694,LA,"Kevin ""Cat"" Bridgewater",Democratic,127,6.272,False,False
+143160,LA,Tom Arceneaux,Republican,19401,35.564,False,False
+143160,LA,Stormy Gage Watts,Democratic,12331,22.604,False,False
+143160,LA,John-Paul Young,Republican,9945,18.23,False,False
+143160,LA,Tammy Phelps,Democratic,8723,15.99,False,False
+143160,LA,Michael D. Williams,Democratic,2666,4.887,False,False
+143160,LA,Chaunta Mero,Democratic,1101,2.018,False,False
+143160,LA,"Siavash ""Sia"" Fakhriravari",Nonpartisan,386,0.708,False,False
+143739,LA,"Frank Smith, Jr.",Republican,406,58.755,False,False
+143739,LA,"Weldon Torrey, Sr.",Republican,285,41.245,False,False
+143589,LA,"Troy Brooks, Sr.",Democratic,404,66.777,False,False
+143589,LA,Nakisha R. Evans,Democratic,201,33.223,False,False
+143446,LA,Galen Vaccaro,Republican,214,55.297,False,False
+143446,LA,Jeff Sloan,Republican,173,44.703,False,False
+143911,LA,Sharon Luke,Nonpartisan,628,66.667,False,False
+143911,LA,Kimberly Smith-Johnson,Nonpartisan,314,33.333,False,False
+143377,LA,"Bobby R. Sheppard, Sr.",Democratic,108,36.242,False,False
+143377,LA,Dorothy Evans,Nonpartisan,73,24.497,False,False
+143377,LA,Larry Lawrence,Nonpartisan,70,23.49,False,False
+143377,LA,Charles Brown,Libertarian,24,8.054,False,False
+143377,LA,"Donearl Williams, Sr.",Nonpartisan,23,7.718,False,False
+143614,LA,Kimberly Stewart,Republican,210,17.751,False,False
+143614,LA,"Joseph ""Joey"" Rogers",Republican,196,16.568,False,False
+143614,LA,Jared Lott,Republican,185,15.638,False,False
+143614,LA,S. Gerald Stilley,Republican,178,15.046,False,False
+143614,LA,John Thomas,Republican,158,13.356,False,False
+143614,LA,"Lloyd ""Bee"" Martin",Republican,154,13.018,False,False
+143614,LA,"Peter ""Don"" Onofry",Republican,102,8.622,False,False
+143279,LA,Yes,Nonpartisan,435,61.096,False,False
+143279,LA,No,Nonpartisan,277,38.904,False,False
+143936,LA,Jason Suire,Republican,133,36.043,False,False
+143936,LA,"Efrem ""Zim"" Livingston",Democratic,121,32.791,False,False
+143936,LA,Jeffrey Lamson,Nonpartisan,115,31.165,False,False
+143402,LA,Shashonnie Steward,Democratic,10932,85.741,False,False
+143402,LA,Tebbe Jackson,Nonpartisan,1818,14.259,False,False
+143831,LA,Guyton Budden,Nonpartisan,32,32.0,False,False
+143831,LA,Judy S. Dupre,Republican,32,32.0,False,False
+143831,LA,Tisha Barker Kimble,Republican,27,27.0,False,False
+143831,LA,L. J. Mouille,Republican,9,9.0,False,False
+143304,LA,Randy Slagle,Nonpartisan,106,56.989,False,False
+143304,LA,"Anthony Ray Stroy, Sr.",Democratic,80,43.011,False,False
+143954,LA,Justin Rose,Nonpartisan,359,54.066,False,False
+143954,LA,Ronald Hagan,Republican,305,45.934,False,False
+143427,LA,Mark Miles,Democratic,985,67.698,False,False
+143427,LA,James Graves,Republican,470,32.302,False,False
+143284,LA,Marvkevea Campbell,Democratic,1982,42.314,False,False
+143284,LA,Kenneth J. Coutee,Democratic,1501,32.045,False,False
+143284,LA,Gregory Powell,Democratic,1201,25.64,False,False
+143664,LA,Jackie Matthews,Democratic,896,62.396,False,False
+143664,LA,Kristi Hopper Vinson,Republican,540,37.604,False,False
+143329,LA,Wanda Stowe,Republican,73,40.556,False,False
+143329,LA,Hannah Masoner Sinclair,Nonpartisan,62,34.444,False,False
+143329,LA,Erin Chapman,Nonpartisan,45,25.0,False,False
+143787,LA,Devon M. Jackson,Democratic,702,54.0,False,False
+143787,LA,Dustin J. Jenkins,Nonpartisan,598,46.0,False,False
+143661,LA,Darris Waren,Republican,2657,53.055,False,False
+143661,LA,Karla Bendily,Republican,2351,46.945,False,False
+143433,LA,"Travis ""Red"" Jackson",Democratic,139,37.568,False,False
+143433,LA,Sharon Foster,Democratic,133,35.946,False,False
+143433,LA,"Dewayne ""Whaley"" Thompson",Democratic,98,26.486,False,False
+143706,LA,Sonya Rachal,Republican,1311,81.631,False,False
+143706,LA,Amanda Tankersley,Republican,295,18.369,False,False
+143364,LA,Yes,Nonpartisan,2178,71.976,False,False
+143364,LA,No,Nonpartisan,848,28.024,False,False
+143413,LA,Mark Miley,Republican,13295,50.588,False,False
+143413,LA,Henrietta Williams,Democratic,7503,28.549,False,False
+143413,LA,LaShawn Goodwin,Democratic,5483,20.863,False,False
+143686,LA,Valery Simon Dukes,Democratic,438,51.408,False,False
+143686,LA,"Harry ""Mr."" Wright",Democratic,414,48.592,False,False
+143266,LA,"O'landis ""Bubba"" Millican",Nonpartisan,456,40.97,False,False
+143266,LA,"Joseph Pruitt, Jr.",Nonpartisan,452,40.611,False,False
+143266,LA,Bonnie Stephenson,Republican,124,11.141,False,False
+143266,LA,LaShondra Russell,Nonpartisan,81,7.278,False,False
+143923,LA,Amanda White,Republican,843,89.301,False,False
+143923,LA,Eula Collins,Democratic,101,10.699,False,False
+143581,LA,Donna Lindsey,Republican,108,57.447,False,False
+143581,LA,Lucas Ledbetter,Republican,80,42.553,False,False
+143438,LA,Rufus Nesbitt,Democratic,336,57.831,False,False
+143438,LA,Nancy Demetria Matthews,Democratic,160,27.539,False,False
+143438,LA,Peidera Sims-Matthews,Democratic,85,14.63,False,False
+143711,LA,Jacques Roy,Democratic,6039,48.804,False,False
+143711,LA,Malcolm Larvadain,Democratic,5128,41.442,False,False
+143711,LA,"Lorenzo Davis, Sr.",Democratic,1207,9.754,False,False
+143291,LA,"Sheila ""Crosby"" Wimberly",Democratic,2209,36.609,False,False
+143291,LA,Larry Wilson,Democratic,1972,32.681,False,False
+143291,LA,Carter L. Bedford,Democratic,1853,30.709,False,False
+143941,LA,Yes,Nonpartisan,2017,61.871,False,False
+143941,LA,No,Nonpartisan,1243,38.129,False,False
+143798,LA,Paul Mouton,Democratic,3525,35.395,False,False
+143798,LA,Easton Shelvin,Democratic,3328,33.417,False,False
+143798,LA,Bruce Alsandor,Democratic,3106,31.188,False,False
+143463,LA,"Devinskie ""Dee"" Arvie",Democratic,1529,63.156,False,False
+143463,LA,Malcolm McKinney,Democratic,892,36.844,False,False
+143928,LA,Montral Ferguson,Nonpartisan,188,82.456,False,False
+143928,LA,"Gus Thorpe, Jr.",Republican,29,12.719,False,False
+143928,LA,Charles Brown,Republican,11,4.825,False,False
+143966,LA,"LaVerne Cook, Jr.",Democratic,398,52.646,False,False
+143966,LA,Karla Cefalu McGehee,Democratic,358,47.354,False,False
+143823,LA,Mark R. Pitre,Republican,168,52.997,False,False
+143823,LA,J. Kelley Eggleston,Republican,149,47.003,False,False
+143296,LA,Mark K. Yawn,Republican,6082,81.083,False,False
+143296,LA,Zac Taylor,Nonpartisan,1419,18.917,False,False
+143754,LA,Charles W. Miller,Nonpartisan,359,15.084,False,False
+143754,LA,Allen Rivers,Democratic,313,13.151,False,False
+143754,LA,Jane Rivers,Republican,312,13.109,False,False
+143754,LA,"Donald ""Hootie"" Remedies",Republican,278,11.681,False,False
+143754,LA,"Randel ""Randy"" Sepulvado",Republican,240,10.084,False,False
+143754,LA,Darlene Frazier,Democratic,233,9.79,False,False
+143754,LA,Harry Babers,Democratic,226,9.496,False,False
+143754,LA,James M. Hubbard,Republican,217,9.118,False,False
+143754,LA,"Sandra ""Love"" Newton",Democratic,202,8.487,False,False
+143191,LA,Christopher Savoy,Republican,1935,72.526,False,False
+143191,LA,Cindy Burleigh Walters,Republican,733,27.474,False,False
+143848,LA,Nekesia Jovia Bowie,Democratic,173,52.744,False,False
+143848,LA,"Stanley Johnson, Jr.",Democratic,155,47.256,False,False
+143513,LA,Angie Robinson,Republican,237,34.548,False,False
+143513,LA,Ryan Leach,Republican,208,30.321,False,False
+143513,LA,Toni Jackson,Democratic,140,20.408,False,False
+143513,LA,Clay Norman,Republican,101,14.723,False,False
+143779,LA,Jamie Mullen Vicknair,Nonpartisan,697,56.621,False,False
+143779,LA,Pamela L. Bourgeois,Nonpartisan,534,43.379,False,False
+143828,LA,Chasity Davis,Democratic,492,60.741,False,False
+143828,LA,"Larry ""Bull"" Martin",Democratic,213,26.296,False,False
+143828,LA,Johnny Tolbert,Democratic,105,12.963,False,False
+143216,LA,Chris Guillory,Republican,71,54.615,False,False
+143216,LA,Michael Saxby,Republican,59,45.385,False,False
+143681,LA,Mary Fay Legnon,Republican,1423,33.412,False,False
+143681,LA,"Wilbert J. ""Willie"" Wilcox, Jr.",Republican,1303,30.594,False,False
+143681,LA,Krystal B. Berthelot,Republican,846,19.864,False,False
+143681,LA,Kerry Lincoln,Nonpartisan,687,16.131,False,False
+143538,LA,Yes,Nonpartisan,2987,62.964,False,False
+143538,LA,No,Nonpartisan,1757,37.036,False,False
+143196,LA,Troy Hebert,Nonpartisan,2723,83.605,False,False
+143196,LA,Jerry Braun,Nonpartisan,534,16.395,False,False
+143785,LA,Donald L. Arbuthnot,Democratic,660,50.926,False,False
+143785,LA,Steven J. Bourgeois,Democratic,636,49.074,False,False
+143450,LA,Jeremy Ashford,Republican,428,61.406,False,False
+143450,LA,Rebecca Berzas,Republican,269,38.594,False,False
+143915,LA,Yes,Nonpartisan,19542,71.769,False,False
+143915,LA,No,Nonpartisan,7687,28.231,False,False
+143765,LA,Rose LeGaux,Democratic,1749,68.588,False,False
+143765,LA,David Schilling,Republican,801,31.412,False,False
+143430,LA,Yes,Nonpartisan,50,69.444,False,False
+143430,LA,No,Nonpartisan,22,30.556,False,False
+143810,LA,Patrick Richard,Democratic,164,41.624,False,False
+143810,LA,Milton Arceneaux,Democratic,107,27.157,False,False
+143810,LA,Elyse Jean Randell,Democratic,69,17.513,False,False
+143810,LA,Danielle Belson,Democratic,54,13.706,False,False
+143475,LA,Yes,Nonpartisan,592,63.931,False,False
+143475,LA,No,Nonpartisan,334,36.069,False,False
+143140,LA,Juana Marine Lombard,Democratic,63966,53.61,False,False
+143140,LA,Chanel Robinson Debose,Democratic,55351,46.39,False,False
+143790,LA,No,Nonpartisan,582,50.259,False,False
+143790,LA,Yes,Nonpartisan,576,49.741,False,False
+143263,LA,Cheryl Love Henry,Nonpartisan,368,60.626,False,False
+143263,LA,Darren B. Iverson,Nonpartisan,239,39.374,False,False
+143835,LA,Kerry Willingham,Democratic,240,17.229,False,False
+143835,LA,Benita A. Kennerson,Democratic,235,16.87,False,False
+143835,LA,Amanda O. Herpin,Nonpartisan,208,14.932,False,False
+143835,LA,Kirk Stelly,Republican,201,14.429,False,False
+143835,LA,"Patrick ""Ricky"" Lafleur",Nonpartisan,195,13.999,False,False
+143835,LA,"William J. ""Billy"" Lanclos",Nonpartisan,182,13.065,False,False
+143835,LA,Felicia Mallet,Nonpartisan,132,9.476,False,False
+143308,LA,No,Nonpartisan,39156,57.999,False,False
+143308,LA,Yes,Nonpartisan,28355,42.001,False,False
+143158,LA,Terry J. Darbonne,Republican,2449,70.515,False,False
+143158,LA,Michael DeVillier,Republican,1024,29.485,False,False
+144007,LA,Rose Coats,Democratic,344,57.718,False,False
+144007,LA,Jaime DeJean,Nonpartisan,252,42.282,False,False
+143480,LA,Yes,Nonpartisan,440,62.589,False,False
+143480,LA,No,Nonpartisan,263,37.411,False,False
+143717,LA,Matt R. Cloud,Republican,255,51.102,False,False
+143717,LA,Johnny Wade Fitt,Nonpartisan,244,48.898,False,False
+143375,LA,Jack Fletcher,Republican,838,68.297,False,False
+143375,LA,Susan Rabb,Republican,389,31.703,False,False
+143840,LA,Spencer Poirier,Republican,1205,55.25,False,False
+143840,LA,Lance Laviolette,Nonpartisan,976,44.75,False,False
+143313,LA,Jeanelle Matte,Republican,3730,55.333,False,False
+143313,LA,Dylan Young,Republican,3011,44.667,False,False
+143543,LA,Trisha Patterson,Republican,453,50.785,False,False
+143543,LA,"James ""Jimmy"" Segura",Nonpartisan,439,49.215,False,False
+143400,LA,Joyce Burges,Democratic,262,49.715,False,False
+143400,LA,"Gerald ""Gee"" Collins II",Democratic,203,38.52,False,False
+143400,LA,KeeMichael Comena,Democratic,62,11.765,False,False
+143257,LA,Yes,Nonpartisan,1215,58.218,False,False
+143257,LA,No,Nonpartisan,872,41.782,False,False
+143530,LA,Kevin Delahoussaye,Republican,6357,58.002,False,False
+143530,LA,John Cunningham II,Republican,4603,41.998,False,False
+143188,LA,Tran Daigle,Republican,1724,62.532,False,False
+143188,LA,"Douglas J. ""Doug"" LaCombe",Republican,1033,37.468,False,False
+143760,LA,Tommy Scott,Republican,1253,57.662,False,False
+143760,LA,Deborah Smith,Democratic,920,42.338,False,False
+143425,LA,"Devyn Baker, Sr.",Democratic,718,42.285,False,False
+143425,LA,John LeBlanc,Republican,602,35.453,False,False
+143425,LA,Randy Albarez,Republican,378,22.261,False,False
+143890,LA,Irma Thompson Gordon,Democratic,325,42.428,False,False
+143890,LA,"Michael ""Mike"" Hall",Democratic,228,29.765,False,False
+143890,LA,Xavier D. Diamond,Democratic,213,27.807,False,False
+143548,LA,Bruce A. Lemelle,Democratic,198,59.459,False,False
+143548,LA,Casey Laughlin,Republican,135,40.541,False,False
+143213,LA,Carleen Brown Mahaffey,Republican,558,62.207,False,False
+143213,LA,Jason LaVergne II,Republican,339,37.793,False,False
+143994,LA,Dennis Smith,Democratic,116,65.537,False,False
+143994,LA,Reva Rice,Republican,61,34.463,False,False
+143467,LA,Eugene Manuel,Nonpartisan,109,52.153,False,False
+143467,LA,James Fontenot II,Republican,71,33.971,False,False
+143467,LA,"Scott ""Skippy"" Trahan",Nonpartisan,29,13.876,False,False
+143324,LA,Yes,Nonpartisan,542,67.665,False,False
+143324,LA,No,Nonpartisan,259,32.335,False,False
+143782,LA,"Milton ""Bud"" Lambert",Democratic,803,52.415,False,False
+143782,LA,Roxie M. Batiste,Democratic,729,47.585,False,False
+143170,LA,"John ""Johnny"" Lagneaux II",Republican,237,15.97,False,False
+143170,LA,Glenn C. Cormier,Republican,236,15.903,False,False
+143170,LA,"Carolyn ""Pepe"" Richard",Republican,231,15.566,False,False
+143170,LA,Coby J. Duhon,Republican,218,14.69,False,False
+143170,LA,Blake Credeur,Nonpartisan,211,14.218,False,False
+143170,LA,Steve Hanks,Nonpartisan,186,12.534,False,False
+143170,LA,"Andrew ""Maxis"" Malaxonis",Nonpartisan,165,11.119,False,False
+144019,LA,Christy Creel VanBlaricum,Nonpartisan,140,58.824,False,False
+144019,LA,Carnesha Willis,Democratic,98,41.176,False,False
+143492,LA,Courtney Fitch,Nonpartisan,989,64.641,False,False
+143492,LA,Pamela Theodile Edwards,Democratic,541,35.359,False,False
+143342,LA,Laurie Stutson,Republican,88,55.0,False,False
+143342,LA,"Michael ""Mike"" Tubre",Republican,72,45.0,False,False
+143807,LA,Vickie Keys,Nonpartisan,537,51.985,False,False
+143807,LA,Jordan Lachney,Republican,496,48.015,False,False
+143387,LA,Stephen D. Holder,Republican,2031,75.558,False,False
+143387,LA,Todd Wedgeworth,Nonpartisan,657,24.442,False,False
+143852,LA,Slade Sanders,Republican,1159,55.402,False,False
+143852,LA,Rodney Grogan,Democratic,933,44.598,False,False
+143709,LA,Tommy J. Deville,Republican,1762,44.094,False,False
+143709,LA,Troy Verheyden,Republican,1234,30.881,False,False
+143709,LA,Danny Joe Daniels,Republican,1000,25.025,False,False
+143367,LA,Valerie T. Parker,Democratic,640,62.807,False,False
+143367,LA,Michelle D. Bethea,Democratic,379,37.193,False,False
+144024,LA,Karla Shively,Republican,53,29.775,False,False
+144024,LA,Wanda Brown,Republican,48,26.966,False,False
+144024,LA,Hunter Vines,Nonpartisan,39,21.91,False,False
+144024,LA,Linda Hall-Whitaker,Nonpartisan,38,21.348,False,False
+143269,LA,Anthony G. Hay,Nonpartisan,234,50.649,False,False
+143269,LA,Freddie Peterson,Nonpartisan,228,49.351,False,False
+143926,LA,Nancy Moon Hearn,Republican,1513,63.279,False,False
+143926,LA,Kathy Isaac,Nonpartisan,878,36.721,False,False
+143392,LA,Kirk A. Williams,Democratic,2457,61.564,False,False
+143392,LA,Shona Boxie,Democratic,1534,38.436,False,False
+143857,LA,No,Nonpartisan,8172,57.802,False,False
+143857,LA,Yes,Nonpartisan,5966,42.198,False,False
+143102,LA,Joseph Cao,Republican,127178,63.338,False,False
+143102,LA,Angela Hershey,Democratic,73614,36.662,False,False
+143752,LA,Daniel Thomas,Democratic,418,77.122,False,False
+143752,LA,"David R. ""Roach"" Remedies",Nonpartisan,124,22.878,False,False
+143609,LA,Diane Baum,Republican,380,51.842,False,False
+143609,LA,Jessica Albarado,Republican,353,48.158,False,False
+143882,LA,No,Nonpartisan,580,50.304,False,False
+143882,LA,Yes,Nonpartisan,573,49.696,False,False
+143540,LA,Roger Mallett,Republican,568,74.639,False,False
+143540,LA,Terry Jane Fontenot,Democratic,193,25.361,False,False
+143319,LA,"Miranda ""Vincent"" Priola",Nonpartisan,147,52.5,False,False
+143319,LA,Keegan Leonard,Republican,68,24.286,False,False
+143319,LA,Joe Becnel,Nonpartisan,65,23.214,False,False
+143777,LA,David P. Dufresne,Democratic,765,60.666,False,False
+143777,LA,Glenn P. Chenier,Democratic,496,39.334,False,False
+143634,LA,No,Nonpartisan,3599,53.461,False,False
+143634,LA,Yes,Nonpartisan,3133,46.539,False,False
+143907,LA,"Michael ""Mike"" Lagarde",Democratic,1057,52.405,False,False
+143907,LA,"William Scott, Jr.",Nonpartisan,523,25.93,False,False
+143907,LA,"Fa'Ron ""Feezy"" Richard",Democratic,437,21.666,False,False
+143757,LA,Patrick Giraud,Democratic,356,57.051,False,False
+143757,LA,Dirk F. McGill,Republican,268,42.949,False,False
+143145,LA,Edwin Moberley IV,Nonpartisan,4129,62.315,False,False
+143145,LA,Joy Jackson,Democratic,2497,37.685,False,False
+144011,LA,Yes,Nonpartisan,2873,62.867,False,False
+144011,LA,No,Nonpartisan,1697,37.133,False,False
+143676,LA,"Lloyd ""Ronnie"" Newsom, Jr.",Republican,255,48.944,False,False
+143676,LA,Rick Jackson,Republican,142,27.255,False,False
+143676,LA,Stacey M. Mattison,Nonpartisan,124,23.8,False,False
+143142,LA,"James E. Stewart, Sr.",Democratic,38541,53.762,False,False
+143142,LA,Alan Seabaugh,Republican,29568,41.245,False,False
+143142,LA,"Patricia ""Pat"" Gilley",Nonpartisan,1853,2.585,False,False
+143142,LA,Lauren Ray Anderson,Libertarian,1726,2.408,False,False
+143913,LA,"Alnetta ""Cindy"" Alridge",Democratic,481,69.109,False,False
+143913,LA,Lionel Diggs,Democratic,215,30.891,False,False
+143379,LA,Janice Lingle,Republican,414,55.57,False,False
+143379,LA,Melissa Dodson Rutherford,Republican,331,44.43,False,False
+143236,LA,James E. LeBlanc,Republican,10052,64.593,False,False
+143236,LA,Clint Boe,Nonpartisan,5510,35.407,False,False
+143893,LA,Gaye Guzzardo,Nonpartisan,332,62.172,False,False
+143893,LA,Lionel Basso,Nonpartisan,202,37.828,False,False
+143167,LA,Connie Thibodeaux,Republican,279,56.137,False,False
+143167,LA,"James ""Donnie"" Fontenot",Republican,218,43.863,False,False
+143938,LA,John Dayries,Republican,553,55.3,False,False
+143938,LA,Guy Nerren,Republican,447,44.7,False,False
+143404,LA,Kenneth R. Mackie,Democratic,1061,68.807,False,False
+143404,LA,Jason Partin,Nonpartisan,481,31.193,False,False
+143261,LA,Yes,Nonpartisan,94,70.149,False,False
+143261,LA,No,Nonpartisan,40,29.851,False,False
+143918,LA,Yes,Nonpartisan,433,71.57,False,False
+143918,LA,No,Nonpartisan,172,28.43,False,False
+143384,LA,"Joseph Hall, Jr.",Democratic,449,60.268,False,False
+143384,LA,Rosie Mae Mayweather,Democratic,229,30.738,False,False
+143384,LA,"Daniel ""Danny"" Lowery",Democratic,67,8.993,False,False
+143813,LA,"Charles ""Cha Cha"" James",Democratic,622,53.026,False,False
+143813,LA,Todd Broussard,Nonpartisan,551,46.974,False,False
+143478,LA,Yes,Nonpartisan,1286,54.91,False,False
+143478,LA,No,Nonpartisan,1056,45.09,False,False
+143744,LA,Sharric Young,Democratic,105,57.065,False,False
+143744,LA,"Gerald Smith, Sr.",Democratic,79,42.935,False,False
+143409,LA,Emily Soule',Republican,8995,50.375,False,False
+143409,LA,"Melissa ""Dani"" Altazin",Democratic,8861,49.625,False,False
+143646,LA,Eric Upchurch,Republican,193,88.532,False,False
+143646,LA,Virginia Salter,Nonpartisan,25,11.468,False,False
+143311,LA,"Howard ""Keith"" Vincent",Nonpartisan,2390,57.996,False,False
+143311,LA,Rick Batchelor,Republican,1731,42.004,False,False
+143961,LA,Tate Kennedy,Republican,587,61.21,False,False
+143961,LA,Calvin L. Wheat,Republican,372,38.79,False,False
+143626,LA,"Willie ""Wet"" Robinson",Democratic,402,39.258,False,False
+143626,LA,Charles Bradford,Democratic,314,30.664,False,False
+143626,LA,Benni Kay Pirtle,Republican,308,30.078,False,False
+143863,LA,"Geoffrey ""Geoff"" Hingle",Republican,3296,51.006,False,False
+143863,LA,Brandi Lopez,Republican,3166,48.994,False,False
+143528,LA,Michael Pedalino,Republican,6896,59.006,False,False
+143528,LA,"Alfred ""Al"" Galindo",Republican,4791,40.994,False,False
+143986,LA,Glenda Sherrill Broughton,Nonpartisan,355,35.895,False,False
+143986,LA,Miss Chris Broussard,Democratic,339,34.277,False,False
+143986,LA,Heather Feeback,Republican,295,29.828,False,False
+143459,LA,"Michael ""Gorilla"" Fruge",Republican,1804,87.786,False,False
+143459,LA,Parth Yadav,Nonpartisan,251,12.214,False,False
+143316,LA,Jordan Manela,Republican,506,48.421,False,False
+143316,LA,"Brian ""Shakey"" Schexnayder",Democratic,204,19.522,False,False
+143316,LA,"Neal Watkins, Jr.",Republican,203,19.426,False,False
+143316,LA,"Paul ""Hounddog"" Hesse",Nonpartisan,132,12.632,False,False
+143696,LA,Theresa Smith,Republican,257,16.677,False,False
+143696,LA,Joshua Sonnier,Nonpartisan,227,14.731,False,False
+143696,LA,Amie Smith Harris,Democratic,224,14.536,False,False
+143696,LA,Beth LaCombe,Nonpartisan,221,14.341,False,False
+143696,LA,Tori Robillard,Republican,207,13.433,False,False
+143696,LA,Lonnie Kimble,Republican,206,13.368,False,False
+143696,LA,Kirk LaCombe,Nonpartisan,199,12.914,False,False
+143354,LA,Rita Boyd Hamilton,Democratic,329,63.027,False,False
+143354,LA,Roy Mardis,Democratic,193,36.973,False,False
+143420,LA,David Wade,Republican,18963,56.193,False,False
+143420,LA,John Kay,Republican,14783,43.807,False,False
+143693,LA,Roger Dale Dixon,Democratic,539,52.791,False,False
+143693,LA,"Joseph ""Chinne"" Gosserand, Jr.",Democratic,482,47.209,False,False
+143465,LA,"Terry ""Chucky"" Richard",Democratic,184,56.966,False,False
+143465,LA,"Derrell ""Sheaky"" Thomas",Democratic,139,43.034,False,False
+143930,LA,No,Nonpartisan,4260,58.637,False,False
+143930,LA,Yes,Nonpartisan,3005,41.363,False,False
+143588,LA,Yes,Nonpartisan,322,70.306,False,False
+143588,LA,No,Nonpartisan,136,29.694,False,False
+143637,LA,Randy Williams,Democratic,5664,84.436,False,False
+143637,LA,Carl Sias,Nonpartisan,1044,15.564,False,False
+143910,LA,Rayette Chaisson,Republican,1645,56.029,False,False
+143910,LA,Geneva Verdin LeBeouf,Republican,1291,43.971,False,False
+143298,LA,Steve Umling,Republican,643,51.276,False,False
+143298,LA,Jim Galambos,Republican,611,48.724,False,False
+143948,LA,John Blankenbaker,Republican,783,71.901,False,False
+143948,LA,Chris Preece,Republican,306,28.099,False,False
+143805,LA,Kevin Johnwell,Democratic,982,64.648,False,False
+143805,LA,Timmakah Hardy,Democratic,537,35.352,False,False
+143470,LA,Christina Sam,Democratic,317,72.706,False,False
+143470,LA,Danyon Charles,Democratic,119,27.294,False,False
+143935,LA,Stephanie P. Broussard,Nonpartisan,561,71.739,False,False
+143935,LA,Marlene Menard,Republican,221,28.261,False,False
+143323,LA,Yes,Nonpartisan,4608,56.491,False,False
+143323,LA,No,Nonpartisan,3549,43.509,False,False
+143173,LA,Jim Taliaferro,Republican,6125,66.152,False,False
+143173,LA,Mark Black,Nonpartisan,3134,33.848,False,False
+144022,LA,D. Deona Austin,Republican,210,52.764,False,False
+144022,LA,Shirley Tubbs,Republican,188,47.236,False,False
+143495,LA,No,Nonpartisan,4212,62.641,False,False
+143495,LA,Yes,Nonpartisan,2512,37.359,False,False
+143953,LA,Chris Robinson,Republican,521,73.38,False,False
+143953,LA,Macy Willis,Republican,189,26.62,False,False
+143198,LA,Lucas Smith,Republican,104,61.538,False,False
+143198,LA,Nicholas Cooley,Republican,65,38.462,False,False
+143855,LA,"Ray ""Mr. Ray"" Dewey",Democratic,1043,12.108,False,False
+143855,LA,Miranda Weinbach,Democratic,896,10.402,False,False
+143855,LA,Keith Grimball,Republican,884,10.262,False,False
+143855,LA,Lee A. Condolle,Democratic,881,10.228,False,False
+143855,LA,Dawn Rentrop,Democratic,809,9.392,False,False
+143855,LA,Jeffery S. Lawrence,Republican,790,9.171,False,False
+143855,LA,"R. Demale Bowden, Jr.",Nonpartisan,725,8.417,False,False
+143855,LA,Patricia Lynn Jennings,Democratic,702,8.15,False,False
+143855,LA,Allis Jennings,Democratic,652,7.569,False,False
+143855,LA,"Bealizeia ""Billy"" Badeaux",Nonpartisan,645,7.488,False,False
+143855,LA,Mamie Soudelier Perry,Nonpartisan,587,6.814,False,False
+143520,LA,Katrina Bradford,Nonpartisan,190,49.351,False,False
+143520,LA,Robert Hunter,Democratic,148,38.442,False,False
+143520,LA,Bonita Raybon,Nonpartisan,47,12.208,False,False
+143978,LA,Desirae Pittman,Nonpartisan,317,49.609,False,False
+143978,LA,Shelby Temples,Republican,186,29.108,False,False
+143978,LA,Debbie Corsetti,Democratic,136,21.283,False,False
+143415,LA,J. Andrew Murrell,Republican,14512,45.665,False,False
+143415,LA,Franchesca Rich Brandon,Nonpartisan,11492,36.162,False,False
+143415,LA,Cortney Floyd,Republican,5775,18.172,False,False
+143880,LA,Tim Bennett,Republican,683,17.423,False,False
+143880,LA,"Mathieu ""Matt"" Daigle",Republican,591,15.077,False,False
+143880,LA,Tim Moray,Republican,590,15.051,False,False
+143880,LA,Maria Lee,Republican,542,13.827,False,False
+143880,LA,Kristy Franatovich,Republican,505,12.883,False,False
+143880,LA,Kory Kingston,Nonpartisan,386,9.847,False,False
+143880,LA,Dustin Shaffer,Republican,380,9.694,False,False
+143880,LA,John Masson,Republican,243,6.199,False,False
+143737,LA,Connie Williams,Republican,454,70.388,False,False
+143737,LA,Barry Sebren,Republican,191,29.612,False,False
+144003,LA,Gene Stephens,Republican,299,65.57,False,False
+144003,LA,Richard Roberts,Nonpartisan,157,34.43,False,False
+143860,LA,Daniel Seuzeneau,Republican,44929,45.806,False,False
+143860,LA,Robert Hodges,Republican,31321,31.932,False,False
+143860,LA,David Maki,Nonpartisan,11203,11.422,False,False
+143860,LA,Scott Illing,Republican,10633,10.84,False,False
+143440,LA,Louis Neyland Smith,Republican,902,60.093,False,False
+143440,LA,"J. D. Dantzler, Jr.",Democratic,599,39.907,False,False
+143905,LA,No,Nonpartisan,826,51.4,False,False
+143905,LA,Yes,Nonpartisan,781,48.6,False,False
+143563,LA,"Alfred ""Al"" Sinegal",Democratic,1850,17.864,False,False
+143563,LA,Carlos Stout,Republican,1539,14.861,False,False
+143563,LA,Danielle Capritto,Republican,1441,13.915,False,False
+143563,LA,Alex Savage,Republican,1203,11.616,False,False
+143563,LA,Damian Glover,Republican,1176,11.356,False,False
+143563,LA,Taylor James,Nonpartisan,1108,10.699,False,False
+143563,LA,Terrance St. Julien,Nonpartisan,1030,9.946,False,False
+143563,LA,"Todd ""Todd-O"" Olivier",Republican,1009,9.743,False,False
+143437,LA,Yes,Nonpartisan,1440,71.785,False,False
+143437,LA,No,Nonpartisan,566,28.215,False,False
+144009,LA,Cameron DeLaney,Republican,298,66.075,False,False
+144009,LA,Dyvar Anderson,Nonpartisan,153,33.925,False,False
+143482,LA,Marc McCarty,Republican,162,62.308,False,False
+143482,LA,Danielle Lorings,Nonpartisan,98,37.692,False,False
+143940,LA,"William ""Billy"" Noegel",Nonpartisan,465,64.854,False,False
+143940,LA,Cornelius Darby,Democratic,252,35.146,False,False
+143989,LA,Gary Cooper,Republican,687,72.853,False,False
+143989,LA,Tamara Tanner,Republican,256,27.147,False,False
+143462,LA,Justin Darbonne,Nonpartisan,59,44.361,False,False
+143462,LA,Henry James Watson,Nonpartisan,39,29.323,False,False
+143462,LA,J.C. Jack,Democratic,16,12.03,False,False
+143462,LA,Daniel Matthews,Republican,15,11.278,False,False
+143462,LA,Tom Frank,Democratic,4,3.008,False,False
+143842,LA,Kevin J. Kately,Democratic,270,81.818,False,False
+143842,LA,Amanda Poirier,Republican,60,18.182,False,False
+143507,LA,Thomas Jones,Nonpartisan,1262,60.528,False,False
+143507,LA,Larry Johnson,Democratic,823,39.472,False,False
+143165,LA,Chad Andrepont,Nonpartisan,311,55.437,False,False
+143165,LA,Darryl Hinds,Democratic,250,44.563,False,False
+144014,LA,Herman Grantadams,Republican,2191,62.869,False,False
+144014,LA,Jamey Maxwell,Nonpartisan,1294,37.131,False,False
+143295,LA,Patrick R. Young,Republican,4618,62.389,False,False
+143295,LA,Mark Hewitt,Republican,2784,37.611,False,False
+143867,LA,Reid Mahne,Republican,3517,53.958,False,False
+143867,LA,Samantha Ronquille,Republican,3001,46.042,False,False
+143532,LA,Gary Bradberry,Democratic,276,54.762,False,False
+143532,LA,Chris Santiny,Republican,228,45.238,False,False
+143382,LA,Latoya Washington Perry,Democratic,553,65.99,False,False
+143382,LA,"Ronnie L. Morris, Sr.",Democratic,285,34.01,False,False
+143239,LA,Daryl Ovide,Democratic,887,35.226,False,False
+143239,LA,Lakisha Knockum Harris,Democratic,825,32.764,False,False
+143239,LA,Christy Smith,Democratic,806,32.01,False,False
+143512,LA,Bruce Thomas,Nonpartisan,415,68.595,False,False
+143512,LA,Cherrise B. Bryan,Democratic,190,31.405,False,False
+143550,LA,Tammy B. Broussard,Republican,406,14.176,False,False
+143550,LA,Debbie Abshire-Sonnier,Republican,395,13.792,False,False
+143550,LA,Duke Broussard II,Republican,380,13.268,False,False
+143550,LA,Corey Conner,Republican,338,11.802,False,False
+143550,LA,"Ronchella ""Ronnie"" Turner",Democratic,319,11.138,False,False
+143550,LA,Mahlon J. LeBlanc,Republican,285,9.951,False,False
+143550,LA,Dusty Simon,Republican,264,9.218,False,False
+143550,LA,Lola Broussard,Republican,254,8.869,False,False
+143550,LA,"Samantha ""Sammy"" LeJeune",Republican,223,7.786,False,False
+143407,LA,Nathan Rust,Republican,10114,59.396,False,False
+143407,LA,Tristan Yperman,Democratic,4477,26.292,False,False
+143407,LA,Nicole Fitzgerald,Nonpartisan,2437,14.312,False,False
+143872,LA,Greg Galloway,Republican,2683,43.704,False,False
+143872,LA,John Thomas Mathies III,Republican,2016,32.839,False,False
+143872,LA,Samuel Lee Prevost,Republican,1440,23.457,False,False
+143537,LA,Yes,Nonpartisan,3161,66.547,False,False
+143537,LA,No,Nonpartisan,1589,33.453,False,False
+143767,LA,Yes,Nonpartisan,9946,55.376,False,False
+143767,LA,No,Nonpartisan,8015,44.624,False,False
+143624,LA,Cynthia Arender Machen,Nonpartisan,603,65.615,False,False
+143624,LA,Alaysia Hicks,Nonpartisan,316,34.385,False,False
+143289,LA,Kristin C. Parsons,Republican,4968,58.716,False,False
+143289,LA,Paige Hoffpauir,Republican,3493,41.284,False,False
+143363,LA,Leslie Banks,Democratic,0,,False,False
+143363,LA,John McCowen IV,Nonpartisan,0,,False,False
+143412,LA,Taneshia Flowers,Democratic,5791,62.748,False,False
+143412,LA,Antonia Caine,Democratic,1850,20.046,False,False
+143412,LA,Lee A. Cosey,Democratic,1588,17.207,False,False
+143792,LA,"Alvin Scioneaux, Sr.",Democratic,805,68.452,False,False
+143792,LA,Robert Roussel,Nonpartisan,371,31.548,False,False
+143457,LA,Amanda Guillory,Republican,777,68.761,False,False
+143457,LA,Joshua C. Estes,Nonpartisan,353,31.239,False,False
+143122,LA,Cameron Mary,Republican,53954,52.374,False,False
+143122,LA,Michele Moore Echols,Republican,49063,47.626,False,False
+143772,LA,Benny L. Warner,Democratic,258,46.237,False,False
+143772,LA,Betsy Ehret,Republican,162,29.032,False,False
+143772,LA,Kobe R. Cutrer,Nonpartisan,138,24.731,False,False
+143226,LA,Yes,Nonpartisan,765,72.238,False,False
+143226,LA,No,Nonpartisan,294,27.762,False,False
+143499,LA,Ursula F. Harris,Democratic,932,46.976,False,False
+143499,LA,Cindy Wille Prouty,Democratic,537,27.067,False,False
+143499,LA,Rachel Crochet,Nonpartisan,515,25.958,False,False
+143349,LA,Judy Cotten,Nonpartisan,95,24.611,False,False
+143349,LA,"Charles ""Greg"" Terry",Republican,86,22.28,False,False
+143349,LA,Emma S. Hatten,Democratic,83,21.503,False,False
+143349,LA,Andrew Sones,Republican,77,19.948,False,False
+143349,LA,"Stephen ""Steve"" Gibson",Republican,45,11.658,False,False
+144006,LA,"Angelia ""Angie"" Norwood",Republican,260,53.388,False,False
+144006,LA,Sara Cain Cooper,Nonpartisan,134,27.515,False,False
+144006,LA,Stephanie Ferguson,Nonpartisan,93,19.097,False,False
+143394,LA,Elaine G. Davis,Democratic,496,53.622,False,False
+143394,LA,Myra Victor Harris,Democratic,429,46.378,False,False
+143251,LA,Yes,Nonpartisan,6315,53.836,False,False
+143251,LA,No,Nonpartisan,5415,46.164,False,False
+143716,LA,Ronald Lamont Goudeau,Nonpartisan,189,51.081,False,False
+143716,LA,Austin Furlow,Nonpartisan,181,48.919,False,False
+143566,LA,"Joseph ""Tucker"" Daniels",Republican,4425,62.465,False,False
+143566,LA,Desirea Rodrigue,Democratic,2050,28.938,False,False
+143566,LA,Dawn Grazier Chadwick,Nonpartisan,609,8.597,False,False
+143839,LA,Mendy Girouard,Nonpartisan,486,34.665,False,False
+143839,LA,Syntara Fontenette,Democratic,453,32.311,False,False
+143839,LA,Lillian L. Lewis,Democratic,333,23.752,False,False
+143839,LA,Benjamin Crosier,Nonpartisan,130,9.272,False,False
+143611,LA,"Leroy ""Lee"" Owens",Republican,1369,59.496,False,False
+143611,LA,Nick Dimattia,Republican,932,40.504,False,False
+143884,LA,Lance Traylor,Republican,2580,62.561,False,False
+143884,LA,"John J. Polito, Jr.",Nonpartisan,1544,37.439,False,False
+143933,LA,Roderick Darby,Nonpartisan,820,62.31,False,False
+143933,LA,Tyrone Alexander,Democratic,496,37.69,False,False
+143591,LA,Sandra Woods,Democratic,302,63.445,False,False
+143591,LA,Greta Carter,Democratic,174,36.555,False,False
+143256,LA,Tony Deville,Republican,1201,42.893,False,False
+143256,LA,Danny Reeves,Republican,867,30.964,False,False
+143256,LA,David A. Higginbotham,Republican,562,20.071,False,False
+143256,LA,Jason T. Beebe,Republican,170,6.071,False,False
+143301,LA,Gerald Allen,Republican,669,53.735,False,False
+143301,LA,Dave Gardner,Republican,576,46.265,False,False
+143951,LA,Adam Ducote,Republican,930,57.407,False,False
+143951,LA,Trista Johnson,Republican,690,42.593,False,False
+143616,LA,Yes,Nonpartisan,1004,78.683,False,False
+143616,LA,No,Nonpartisan,272,21.317,False,False
+143889,LA,Tracy Washington Wells,Democratic,2093,40.831,False,False
+143889,LA,Lacy Landrum,Republican,1333,26.005,False,False
+143889,LA,Carlee White Gonzales,Republican,1290,25.166,False,False
+143889,LA,"Kiplyn ""Kip"" Andrews",Democratic,410,7.998,False,False
+143326,LA,Donald Foy,Republican,309,68.062,False,False
+143326,LA,Melinda Ballard,Republican,145,31.938,False,False
+143976,LA,Gloria W. Kates,Democratic,302,50.083,False,False
+143976,LA,"Eyvette ""Agee"" Preston",Democratic,301,49.917,False,False
+143833,LA,Tanya Doucet,Nonpartisan,55,71.429,False,False
+143833,LA,Laurie Dupre Sullivan,Nonpartisan,22,28.571,False,False
+143114,LA,David Way,Republican,29793,53.981,False,False
+143114,LA,Will Keaty II,Republican,25399,46.019,False,False
+143764,LA,Andrea Adams,Democratic,1346,63.163,False,False
+143764,LA,Faye Cockrham,Democratic,785,36.837,False,False
+143344,LA,"Lyndell ""Nell"" Atkins",Democratic,113,69.753,False,False
+143344,LA,Carmon Butts,Republican,49,30.247,False,False
+144001,LA,Yes,Nonpartisan,5032,51.081,False,False
+144001,LA,No,Nonpartisan,4819,48.919,False,False
+143666,LA,Betty Ward Cooper,Democratic,916,50.055,False,False
+143666,LA,Jeron Strickland,Democratic,492,26.885,False,False
+143666,LA,"Kenny Johnson, Sr.",Democratic,422,23.06,False,False
+143139,LA,Camille Buras,Democratic,71309,58.068,False,False
+143139,LA,Leon Roché,Democratic,51493,41.932,False,False
+143789,LA,Craig James,Democratic,196,48.756,False,False
+143789,LA,"Freddie Allen, Sr.",Democratic,111,27.612,False,False
+143789,LA,Percy Williams,Democratic,95,23.632,False,False
+143369,LA,Derrick D. Carson,Nonpartisan,666,57.812,False,False
+143369,LA,Devante Scott,Democratic,486,42.188,False,False
+143243,LA,"Stephen Gremillion, Sr.",Nonpartisan,2455,65.659,False,False
+143243,LA,"Brandon Perry, Sr.",Nonpartisan,1284,34.341,False,False
+143900,LA,Kara Ward,Republican,410,56.088,False,False
+143900,LA,Kirshalyn Dunmore,Democratic,321,43.912,False,False
+143366,LA,Glenn Henderson,Nonpartisan,476,40.753,False,False
+143366,LA,"Ernetria ""Netria"" Banks",Nonpartisan,376,32.192,False,False
+143366,LA,"Justin Lashan Conner, Sr.",Democratic,316,27.055,False,False
+143746,LA,Bill McKinney,Republican,124,55.856,False,False
+143746,LA,Ellen Oliver,Republican,98,44.144,False,False
+143603,LA,Etan Gipson,Democratic,65,62.5,False,False
+143603,LA,Ruby Dawson,Democratic,39,37.5,False,False
+143268,LA,Ciera Murphy,Democratic,634,57.272,False,False
+143268,LA,Steven Haulcy,Nonpartisan,269,24.3,False,False
+143268,LA,Charles Tibbs,Nonpartisan,204,18.428,False,False
+143125,LA,Kim Landry,Republican,22867,51.575,False,False
+143125,LA,Jason Verdigets,Republican,21470,48.425,False,False
+143391,LA,"Caulette ""Twin"" Jackson Guillard",Democratic,27932,51.761,False,False
+143391,LA,Joseph Cataldie,Republican,26031,48.239,False,False
+143963,LA,Scott Breland,Republican,688,64.783,False,False
+143963,LA,Regina Baillio,Republican,266,25.047,False,False
+143963,LA,Mark Curry-Theriot,Republican,108,10.169,False,False
+143628,LA,Adrin Williams,Democratic,561,79.462,False,False
+143628,LA,Danny McMillan,Democratic,145,20.538,False,False
+143293,LA,Robert McConnell,Nonpartisan,4591,63.403,False,False
+143293,LA,Brenda Hayes,Republican,2650,36.597,False,False
+143943,LA,"Larry ""Scooter"" Alexander",Republican,800,57.348,False,False
+143943,LA,Tammy Cecil,Nonpartisan,595,42.652,False,False
+143608,LA,Jeff Sachse,Republican,3777,52.722,False,False
+143608,LA,Chelsea Jordan,Republican,3387,47.278,False,False
+143845,LA,"Jameson ""Budd"" Sennette",Democratic,818,58.345,False,False
+143845,LA,"Jeffrey ""Jeff"" Hufstetler",Nonpartisan,333,23.752,False,False
+143845,LA,Noel Pisani,Republican,251,17.903,False,False
+143510,LA,Kipp V. Knight,Democratic,514,18.698,False,False
+143510,LA,"Mervin ""Merv"" Allen, Jr.",Democratic,510,18.552,False,False
+143510,LA,Chamarcus D. Lewis,Democratic,501,18.225,False,False
+143510,LA,"Erick ""Duck"" Batiste",Nonpartisan,494,17.97,False,False
+143510,LA,Candice Depron,Democratic,456,16.588,False,False
+143510,LA,Marko Bellock,Democratic,274,9.967,False,False
+143968,LA,Michelle Douglas,Democratic,305,73.141,False,False
+143968,LA,Khlilia Daniels,Democratic,112,26.859,False,False
+143633,LA,Yes,Nonpartisan,4073,60.691,False,False
+143633,LA,No,Nonpartisan,2638,39.309,False,False
+143678,LA,"Mitchell ""Mitch"" Jurisich",Republican,624,74.374,False,False
+143678,LA,"Bartol John Taliancich, Jr.",Republican,215,25.626,False,False
+143535,LA,Eric Chatelain,Republican,2331,58.26,False,False
+143535,LA,Carol Logreco,Republican,1670,41.74,False,False
+143193,LA,Chad Monceaux,Republican,2476,75.121,False,False
+143193,LA,Clint Cradeur,Republican,820,24.879,False,False
+143658,LA,Brandi Cole,Republican,8747,72.529,False,False
+143658,LA,Brian Harkins,Republican,3313,27.471,False,False
+143895,LA,Sam DiVittorio,Republican,476,55.413,False,False
+143895,LA,Justin Cashe,Nonpartisan,286,33.295,False,False
+143895,LA,Thomas T. Nealsson,Republican,97,11.292,False,False
+143361,LA,"Kuwayna ""Frazier"" Williams",Nonpartisan,63,33.871,False,False
+143361,LA,Barbara Morris,Nonpartisan,62,33.333,False,False
+143361,LA,Carl A. Warren,Democratic,61,32.796,False,False
+143218,LA,"Darrell ""Fig"" Pitre",Nonpartisan,355,60.272,False,False
+143218,LA,Wayne Courville,Nonpartisan,234,39.728,False,False
+143491,LA,Sarah Meche,Republican,1107,65.194,False,False
+143491,LA,Joel Dugas,Republican,591,34.806,False,False
+143341,LA,Loria Hollins,Democratic,366,51.117,False,False
+143341,LA,Milton Ceasar,Democratic,350,48.883,False,False
+143920,LA,Riley Johnson,Republican,621,63.367,False,False
+143920,LA,Jackie Hill,Democratic,359,36.633,False,False
+143578,LA,Kimberly Purvis,Democratic,201,64.839,False,False
+143578,LA,Jimmy Horton,Republican,109,35.161,False,False
+143452,LA,"Jerry ""Mr. B"" Bottley",Democratic,565,74.735,False,False
+143452,LA,Kimberly Coleman,Democratic,191,25.265,False,False
+143917,LA,Yes,Nonpartisan,639,69.306,False,False
+143917,LA,No,Nonpartisan,283,30.694,False,False
+143497,LA,Demetrius Franklin,Democratic,4804,40.85,False,False
+143497,LA,Becky Sue Bickham Landry,Nonpartisan,3870,32.908,False,False
+143497,LA,Jeanne Bujol Medine,Democratic,3086,26.241,False,False
+143955,LA,"Dennis ""BJ"" Bjornberg II",Republican,272,81.928,False,False
+143955,LA,Bruce Ward,Nonpartisan,60,18.072,False,False
+143812,LA,Kenneth J. Marks,Democratic,326,58.318,False,False
+143812,LA,"John ""Johnny"" Ardoin",Republican,233,41.682,False,False
+143669,LA,Brenda Roy,Democratic,1934,40.426,False,False
+143669,LA,Mark Booth,Republican,1581,33.048,False,False
+143669,LA,Mark Dennis,Republican,789,16.492,False,False
+143669,LA,"Willard ""Wayne"" Ray",Republican,480,10.033,False,False
+143743,LA,Bernard McDowell,Democratic,105,44.304,False,False
+143743,LA,Larry Houston,Democratic,80,33.755,False,False
+143743,LA,Carlos Harris,Nonpartisan,52,21.941,False,False
+143522,LA,Danielle Copeland,Democratic,74,20.109,False,False
+143522,LA,Steve Fox,Nonpartisan,62,16.848,False,False
+143522,LA,Linda Kirkendoff,Democratic,60,16.304,False,False
+143522,LA,Willard Willis,Democratic,52,14.13,False,False
+143522,LA,Sandra Plunkett,Republican,50,13.587,False,False
+143522,LA,Shavondolyn Dias,Democratic,37,10.054,False,False
+143522,LA,Jerry Walden,Republican,33,8.967,False,False
+143980,LA,Mark Irvine,Nonpartisan,266,58.72,False,False
+143980,LA,John McNabb,Democratic,187,41.28,False,False
+143837,LA,"Warrenina ""Weenie"" Batiste",Democratic,690,50.735,False,False
+143837,LA,"Edna ""Maw Maw"" Mitchell Johnson",Democratic,670,49.265,False,False
+143502,LA,Danielle Pugh,Democratic,877,52.484,False,False
+143502,LA,Karen Saurage,Republican,794,47.516,False,False
+143960,LA,Kelvin Brown,Nonpartisan,557,58.879,False,False
+143960,LA,Patricia Bickham Harvey,Democratic,389,41.121,False,False
+143397,LA,Vereta Lee,Democratic,4405,34.927,False,False
+143397,LA,Tristan J. George,Democratic,4373,34.673,False,False
+143397,LA,"Robert Signater, Sr.",Democratic,3834,30.4,False,False
+143254,LA,Tiffany Parker Mitchell,Republican,460,62.246,False,False
+143254,LA,Deborah Hollie,Republican,279,37.754,False,False
+143719,LA,Carroll Ward,Republican,458,37.145,False,False
+143719,LA,Glenda Bolen,Republican,355,28.792,False,False
+143719,LA,Bryan Adams,Republican,341,27.656,False,False
+143719,LA,Bradley Riccardi,Republican,79,6.407,False,False
+143985,LA,Terry Combs,Nonpartisan,450,50.619,False,False
+143985,LA,Tina Douglas,Democratic,439,49.381,False,False
+143422,LA,"Larry ""Lew"" Walters, Jr.",Republican,4552,37.952,False,False
+143422,LA,Roger Corcoran,Republican,4408,36.752,False,False
+143422,LA,Paul Kimball,Republican,3034,25.296,False,False
+143887,LA,Cindy Arnold Jenkins,Republican,3372,82.264,False,False
+143887,LA,Blandon Sorrell II,Republican,727,17.736,False,False
+143545,LA,"Malcolm ""Mac"" Bertrand",Nonpartisan,395,46.69,False,False
+143545,LA,Brandon Kelley,Republican,227,26.832,False,False
+143545,LA,Devaughn Dewayne Davis,Nonpartisan,172,20.331,False,False
+143545,LA,"John Richard, Jr.",Nonpartisan,52,6.147,False,False
+143210,LA,Yes,Nonpartisan,1690,54.376,False,False
+143210,LA,No,Nonpartisan,1418,45.624,False,False
+143639,LA,Chris Bush,Democratic,510,50.0,False,False
+143639,LA,Linda Davidson,Democratic,372,36.471,False,False
+143639,LA,"J D Samuel, Jr.",Democratic,138,13.529,False,False
+143112,LA,Barry Laiche,Republican,3919,32.628,False,False
+143112,LA,Elizabeth Williams,Nonpartisan,3409,28.382,False,False
+143112,LA,Wesley Elmer,Republican,2631,21.905,False,False
+143112,LA,Kirk Lacour,Republican,2052,17.084,False,False
+143762,LA,Webb Jay IV,Republican,1968,65.036,False,False
+143762,LA,Stephanie Gubert,Nonpartisan,1058,34.964,False,False
+143235,LA,Thomas Mayeux,Republican,11319,56.026,False,False
+143235,LA,Danny Thibodeaux,Republican,8884,43.974,False,False
+143892,LA,Lemmie Chapman III,Democratic,434,56.806,False,False
+143892,LA,Michael Kazerooni,Republican,330,43.194,False,False
+143472,LA,Blanche Monique Gallow,Nonpartisan,71,30.87,False,False
+143472,LA,Wilfred Jack,Democratic,62,26.957,False,False
+143472,LA,"Marcus ""Tony"" Calvin",Democratic,60,26.087,False,False
+143472,LA,Chalyne Arvie,Democratic,37,16.087,False,False
+143137,LA,"Michael ""Mike"" Hall",Democratic,76794,64.68,False,False
+143137,LA,Marie Williams,Democratic,41935,35.32,False,False
+143595,LA,Alvin Bradley,Democratic,536,65.207,False,False
+143595,LA,Edward R. Jones,Democratic,286,34.793,False,False
+143469,LA,Shawn C. Roy,Democratic,316,64.49,False,False
+143469,LA,Jorie L. Randle,Nonpartisan,174,35.51,False,False
+143241,LA,No,Nonpartisan,4536,67.45,False,False
+143241,LA,Yes,Nonpartisan,2189,32.55,False,False
+143514,LA,David D. Womack,Republican,949,51.915,False,False
+143514,LA,Eric Borland,Nonpartisan,879,48.085,False,False
+143172,LA,Gary Brooks,Democratic,2996,52.113,False,False
+143172,LA,Craig B. Lee,Democratic,1518,26.405,False,False
+143172,LA,Jeremy Taylor,Nonpartisan,499,8.68,False,False
+143172,LA,Louis Paul Gaiennie,Nonpartisan,374,6.505,False,False
+143172,LA,Bennett Prestridge,Democratic,362,6.297,False,False
+143221,LA,Glenn Ducharme,Republican,80,29.74,False,False
+143221,LA,Patrick Joseph Kirsch,Republican,67,24.907,False,False
+143221,LA,Scottie Jeffcoats,Republican,62,23.048,False,False
+143221,LA,Heyden Freeman,Republican,60,22.305,False,False
+143494,LA,"Constance ""Connie"" Langlinais",Republican,753,68.022,False,False
+143494,LA,Brandon Romero,Republican,226,20.416,False,False
+143494,LA,"Larry Darby, Jr.",Republican,128,11.563,False,False
+143874,LA,Jimmy Howell,Republican,1499,59.793,False,False
+143874,LA,Scott Allen Polk,Republican,1008,40.207,False,False
+143731,LA,Sharon Jenkins,Democratic,211,48.284,False,False
+143731,LA,Alan Miller,Democratic,123,28.146,False,False
+143731,LA,Alvester Barfield,Democratic,103,23.57,False,False
+143389,LA,Yes,Nonpartisan,421,76.268,False,False
+143389,LA,No,Nonpartisan,131,23.732,False,False
+143246,LA,Bradley Armand,Republican,384,68.571,False,False
+143246,LA,Sara Meyer,Nonpartisan,176,31.429,False,False
+143519,LA,Robbie Siadek,Republican,140,51.852,False,False
+143519,LA,Kenisha Smith,Nonpartisan,130,48.148,False,False
+143899,LA,Allen Carter,Nonpartisan,133,50.57,False,False
+143899,LA,Edna Cooper,Democratic,130,49.43,False,False
+143749,LA,Susan Rains,Democratic,514,64.33,False,False
+143749,LA,Jermaine Thomas,Nonpartisan,285,35.67,False,False
+143606,LA,Jeff Frizell,Republican,3283,78.447,False,False
+143606,LA,Philana Webb,Nonpartisan,902,21.553,False,False
+143271,LA,"Deborah ""Debbie"" Harris",Democratic,143,65.899,False,False
+143271,LA,"Shelitha ""Peaches"" Harris",Nonpartisan,74,34.101,False,False
+143736,LA,Scott McKay,Republican,530,72.207,False,False
+143736,LA,Linda Torrey,Republican,204,27.793,False,False
+143774,LA,Alfloyd Muse,Democratic,402,52.208,False,False
+143774,LA,"Dwayne Edward Franklin, Jr.",Democratic,368,47.792,False,False
+143631,LA,Rodney Fenceroy,Democratic,48,67.606,False,False
+143631,LA,Lori Crymes Buckner,Nonpartisan,10,14.085,False,False
+143631,LA,"Steven ""Steve"" Daigle",Republican,7,9.859,False,False
+143631,LA,John Fontenot,Nonpartisan,6,8.451,False,False
+143104,LA,"Hugo A. Holland, Jr.",Republican,13349,51.372,False,False
+143104,LA,Treneisha Jackson Hill,Democratic,12636,48.628,False,False
+143562,LA,Nick Niland,Republican,3705,63.355,False,False
+143562,LA,Todd Istre,Republican,2143,36.645,False,False
+143991,LA,Derek Melancon,Republican,703,51.389,False,False
+143991,LA,Adam Harris,Republican,665,48.611,False,False
+143656,LA,Yes,Nonpartisan,101,68.707,False,False
+143656,LA,No,Nonpartisan,46,31.293,False,False
+143321,LA,Cierra L. George,Republican,813,60.853,False,False
+143321,LA,Brandon Malbrough,Democratic,523,39.147,False,False
+143587,LA,Yes,Nonpartisan,326,71.179,False,False
+143587,LA,No,Nonpartisan,132,28.821,False,False
+143636,LA,Robert Owsley,Nonpartisan,3477,51.741,False,False
+143636,LA,"Cloyd Benjamin, Jr.",Nonpartisan,3243,48.259,False,False
+144016,LA,Katrina Nichols,Democratic,137,53.101,False,False
+144016,LA,Shera Williams Jacobs,Nonpartisan,121,46.899,False,False
+143489,LA,Nicole Burke,Republican,3854,62.232,False,False
+143489,LA,Kay Pitman Clark,Republican,2339,37.768,False,False
+143147,LA,Anna Garcie,Republican,4455,56.636,False,False
+143147,LA,Ronald D. Brandon,Republican,3411,43.364,False,False
+143996,LA,"Anthony ""A. D."" Douglas",Democratic,240,41.166,False,False
+143996,LA,"Terika ""Reek"" Walker",Democratic,182,31.218,False,False
+143996,LA,Shawn Hatcher,Nonpartisan,161,27.616,False,False
+144013,LA,No,Nonpartisan,2217,55.76,False,False
+144013,LA,Yes,Nonpartisan,1759,44.24,False,False
+143593,LA,Richard Bates,Democratic,297,51.562,False,False
+143593,LA,Aimee L. Blackham,Democratic,279,48.438,False,False
+143258,LA,Yes,Nonpartisan,560,64.965,False,False
+143258,LA,No,Nonpartisan,302,35.035,False,False
+143723,LA,Charlotte Williams-Smith,Republican,630,50.725,False,False
+143723,LA,John Cearley,Nonpartisan,612,49.275,False,False
+143573,LA,"Glen ""Slick"" Joiner",Republican,296,55.327,False,False
+143573,LA,Ethel Smith,Republican,239,44.673,False,False
+143238,LA,"Dontracy ""Don"" Carter",Democratic,552,60.131,False,False
+143238,LA,Carl B. Franklin,Democratic,366,39.869,False,False
+143618,LA,"Eddie Fountain, Sr.",Democratic,189,48.338,False,False
+143618,LA,Artis Brown,Democratic,119,30.435,False,False
+143618,LA,Clara Durr,Nonpartisan,83,21.228,False,False
+143283,LA,Beth McAnn,Republican,688,58.703,False,False
+143283,LA,Tarrah Dobbins,Republican,484,41.297,False,False
+143741,LA,"Nathaniel ""Roy"" Williams",Democratic,572,53.659,False,False
+143741,LA,Johnny Ray Cleveland,Democratic,494,46.341,False,False
+143598,LA,Kip Franklin,Republican,387,65.928,False,False
+143598,LA,Brandon J. Milner,Republican,200,34.072,False,False
+143871,LA,Clayton Borne,Republican,1553,39.537,False,False
+143871,LA,Patricia Kennedy Richards,Republican,1302,33.147,False,False
+143871,LA,Rebecca Hill,Democratic,1073,27.317,False,False
+143643,LA,Gordon Ocon,Republican,51,68.0,False,False
+143643,LA,Rodney Lane French,Nonpartisan,22,29.333,False,False
+143643,LA,Chase Collins,Nonpartisan,2,2.667,False,False
+143116,LA,Beau Brooks,Republican,22916,87.586,False,False
+143116,LA,Lantz Savage,Republican,3248,12.414,False,False
+143958,LA,John Sumrall,Nonpartisan,2573,59.231,False,False
+143958,LA,Tremon Ratliff,Democratic,1771,40.769,False,False
+143815,LA,"Graig ""Twin"" LeBlanc",Democratic,2218,47.101,False,False
+143815,LA,Yolanda Lewis,Democratic,2138,45.402,False,False
+143815,LA,Ebony Martin,Nonpartisan,353,7.496,False,False
+143288,LA,Jeri B. Bowen,Republican,4230,61.969,False,False
+143288,LA,Emma Shepard,Democratic,2596,38.031,False,False
+143525,LA,Jessica Raines,Republican,41032,59.981,False,False
+143525,LA,John Lee,Republican,27376,40.019,False,False
+143983,LA,Elizabeth Simmons,Republican,799,81.531,False,False
+143983,LA,Patricia McMurray,Democratic,181,18.469,False,False
+143648,LA,Martha Solice,Republican,40,21.164,False,False
+143648,LA,Bubba Ivy,Republican,37,19.577,False,False
+143648,LA,James Walker,Nonpartisan,32,16.931,False,False
+143648,LA,Anthony Freeman,Republican,30,15.873,False,False
+143648,LA,Pamela Jennings,Republican,26,13.757,False,False
+143648,LA,Wannetta French,Nonpartisan,24,12.698,False,False
+143121,LA,Lindon Bennett Magee,Republican,59227,71.535,False,False
+143121,LA,Jasper Brock,Nonpartisan,23567,28.465,False,False
+143351,LA,Tim Crittendon,Democratic,302,65.795,False,False
+143351,LA,Marilyn Goodwin,Nonpartisan,157,34.205,False,False
+143208,LA,Yes,Nonpartisan,1618,51.876,False,False
+143208,LA,No,Nonpartisan,1501,48.124,False,False
+143865,LA,Amanda Reed Martin,Republican,4654,73.188,False,False
+143865,LA,Erin Oramous,Republican,1705,26.812,False,False
+143338,LA,Christopher Ahmed,Republican,211,46.07,False,False
+143338,LA,"Larry Gadson, Jr.",Nonpartisan,166,36.245,False,False
+143338,LA,"James Blaney, Jr.",Republican,81,17.686,False,False
+143988,LA,Danielle Phenix,Democratic,510,54.14,False,False
+143988,LA,Jeanine Major Franklin,Democratic,319,33.864,False,False
+143988,LA,"Robert Louis Stewart, Jr.",Democratic,113,11.996,False,False
+143568,LA,"Michael ""Mike"" Naquin",Republican,3122,67.59,False,False
+143568,LA,John W. Toups,Republican,1497,32.41,False,False
+143233,LA,Christie Mayeux,Republican,13478,65.554,False,False
+143233,LA,James Landry,Republican,7082,34.446,False,False
+143698,LA,Yes,Nonpartisan,4832,60.438,False,False
+143698,LA,No,Nonpartisan,3163,39.562,False,False
+143356,LA,Roderick D. Hampton,Democratic,425,63.623,False,False
+143356,LA,Sharon Lee Swearingen,Nonpartisan,243,36.377,False,False
+143802,LA,Angela Guillory Cassimere,Democratic,1513,65.103,False,False
+143802,LA,Brenda Frank Lavergne,Democratic,443,19.062,False,False
+143802,LA,Johnnie Bob Fontenot,Democratic,368,15.835,False,False
+143275,LA,Chris Reed,Nonpartisan,44,55.696,False,False
+143275,LA,Eddy Higginbotham,Republican,35,44.304,False,False
+143132,LA,"Warren Daniel ""Danny"" Willett",Republican,4156,65.356,False,False
+143132,LA,"Renee ""Dugas"" Nugent",Republican,2203,34.644,False,False
+143590,LA,Mike Smith,Republican,5433,40.666,False,False
+143590,LA,"Addison ""Add"" Goff",Republican,4424,33.114,False,False
+143590,LA,Gina Jones,Nonpartisan,3503,26.22,False,False
+143970,LA,Rodney Bond,Republican,301,60.2,False,False
+143970,LA,Scott Brewster,Republican,199,39.8,False,False
+143827,LA,Madelyn Edwards Rosette,Democratic,558,68.049,False,False
+143827,LA,Sherell Roberts,Nonpartisan,262,31.951,False,False
+143300,LA,Tyler Gordon,Republican,87,51.176,False,False
+143300,LA,Joni Lindsay,Republican,83,48.824,False,False
+143150,LA,Hillar Moore III,Democratic,85409,57.866,False,False
+143150,LA,Ryan Thompson,Democratic,62188,42.134,False,False
+143615,LA,Yes,Nonpartisan,1166,74.505,False,False
+143615,LA,No,Nonpartisan,399,25.495,False,False
+143195,LA,Donna Bertrand,Republican,135,66.502,False,False
+143195,LA,"Robert James Simon, Jr.",Democratic,68,33.498,False,False
+143660,LA,Joel Dyke,Republican,6714,55.672,False,False
+143660,LA,John Rutledge,Republican,5346,44.328,False,False
+143517,LA,Terrence S. Leonard,Democratic,40,55.556,False,False
+143517,LA,Keith Dill,Democratic,32,44.444,False,False
+143175,LA,Lester Smith,Democratic,2569,44.905,False,False
+143175,LA,"Billy Roy Anderson, Jr.",Democratic,2414,42.195,False,False
+143175,LA,James R. Sneed,Nonpartisan,595,10.4,False,False
+143175,LA,Decarlous Muntaqim,Nonpartisan,143,2.5,False,False
+143832,LA,Ricky D. Ducote,Republican,82,70.085,False,False
+143832,LA,Marella Rue,Democratic,35,29.915,False,False
+143877,LA,Cheryl Schultheis,Republican,674,63.227,False,False
+143877,LA,Virgil R. Phillips,Nonpartisan,392,36.773,False,False
+143734,LA,"Eugene Young, Jr.",Democratic,371,53.152,False,False
+143734,LA,William Cleveland,Democratic,327,46.848,False,False
+143200,LA,"Certerra ""Chops"" Joseph",Democratic,172,54.603,False,False
+143200,LA,Gene Malbrough,Democratic,143,45.397,False,False
+143665,LA,Ernest Muhammad,Democratic,1025,58.538,False,False
+143665,LA,Joseph Burks I,Democratic,726,41.462,False,False
+143902,LA,"Carlton ""Wallace"" Ward",Republican,389,52.497,False,False
+143902,LA,Tettra Scott,Democratic,188,25.371,False,False
+143902,LA,Brenda Hill,Democratic,164,22.132,False,False
+143560,LA,Allyson Soeseno Richard,Democratic,383,50.461,False,False
+143560,LA,Bob Boudreaux,Republican,376,49.539,False,False
+143417,LA,Dwayne Rogers,Republican,2334,70.878,False,False
+143417,LA,Lee Russell,Nonpartisan,959,29.122,False,False
+143690,LA,Gloria Marie Harris,Democratic,418,52.845,False,False
+143690,LA,Donna Daisy Hammond,Democratic,373,47.155,False,False
+143348,LA,"Agatha ""Shiela"" Crumpton",Democratic,64,51.2,False,False
+143348,LA,Catina Branch,Democratic,61,48.8,False,False
+143127,LA,Ogden L. Pitre,Democratic,2217,44.527,False,False
+143127,LA,Charlee Renaud Lear,Democratic,1494,30.006,False,False
+143127,LA,Jarvis J. Claiborne,Democratic,966,19.401,False,False
+143127,LA,Greta Malbrough Marion,Democratic,302,6.065,False,False
+143585,LA,Stacie P. Strain,Republican,156,21.37,False,False
+143585,LA,Mike E. Russell,Republican,130,17.808,False,False
+143585,LA,"Carl ""Tom"" Douglas",Republican,129,17.671,False,False
+143585,LA,Clay Hutto,Nonpartisan,115,15.753,False,False
+143585,LA,Teresa Sanders Corley,Republican,113,15.479,False,False
+143585,LA,Trish Cook Taylor,Nonpartisan,87,11.918,False,False
+143442,LA,Ashley Ferguson,Nonpartisan,299,53.014,False,False
+143442,LA,"Clayton ""Cisco"" Elkins",Republican,265,46.986,False,False
+143715,LA,"Herman ""Greg"" Williams",Democratic,129,39.692,False,False
+143715,LA,"Albert ""Butch"" Butler",Democratic,110,33.846,False,False
+143715,LA,"Ashton Washington, Jr.",Nonpartisan,86,26.462,False,False
+143565,LA,Joshua Falgout,Republican,2005,79.88,False,False
+143565,LA,Guy Campbell,Democratic,505,20.12,False,False
+143945,LA,Martha Vinson,Republican,517,55.117,False,False
+143945,LA,Paul Eaves,Nonpartisan,421,44.883,False,False
+143819,LA,Jacqueline Angelle Martin,Democratic,2021,44.971,False,False
+143819,LA,Marvin Tyrone Richard,Democratic,2006,44.637,False,False
+143819,LA,Ron Jackson,Nonpartisan,467,10.392,False,False
+143484,LA,Susan McManus Britt,Nonpartisan,121,29.657,False,False
+143484,LA,Randy Lloyd,Nonpartisan,106,25.98,False,False
+143484,LA,Gene Miller,Republican,103,25.245,False,False
+143484,LA,DeWanda Major Owens,Nonpartisan,78,19.118,False,False
+143942,LA,Yes,Nonpartisan,559,66.39,False,False
+143942,LA,No,Nonpartisan,283,33.61,False,False
+143721,LA,Ursula Dewalt,Republican,641,50.712,False,False
+143721,LA,Terry Baker,Republican,455,35.997,False,False
+143721,LA,Robin Moody,Nonpartisan,94,7.437,False,False
+143721,LA,Richard Mitchell,Nonpartisan,74,5.854,False,False
+143187,LA,Yes,Nonpartisan,26282,51.599,False,False
+143187,LA,No,Nonpartisan,24653,48.401,False,False
+143844,LA,Calyn Swords Welch,Republican,988,69.139,False,False
+143844,LA,Sandra K. Turner,Democratic,441,30.861,False,False
+143701,LA,Frances Tennie,Democratic,1077,41.233,False,False
+143701,LA,Thomas D. Sands,Democratic,955,36.562,False,False
+143701,LA,Christopher Caffery,Nonpartisan,580,22.205,False,False
+143967,LA,Marie Gomez Goff,Republican,491,71.47,False,False
+143967,LA,Lazette L. Watterson,Democratic,196,28.53,False,False
+143547,LA,Mike Pierrotti,Republican,140,40.698,False,False
+143547,LA,Marilynn Broussard Moore,Republican,135,39.244,False,False
+143547,LA,"Cynthia ""Kay"" Hebert",Nonpartisan,69,20.058,False,False
+143212,LA,Jeremy Walker,Republican,397,50.638,False,False
+143212,LA,Rhonda Gordon Johnson,Republican,387,49.362,False,False
+143869,LA,Michelle Hirstius,Republican,3116,61.715,False,False
+143869,LA,Heath Panks,Republican,1933,38.285,False,False
+143726,LA,Eric Collins,Nonpartisan,230,15.721,False,False
+143726,LA,Lavern Clark,Democratic,184,12.577,False,False
+143726,LA,Michael Busch,Nonpartisan,179,12.235,False,False
+143726,LA,Michael Henton,Democratic,176,12.03,False,False
+143726,LA,Frank Spears,Democratic,153,10.458,False,False
+143726,LA,Pierre LaCaze,Nonpartisan,151,10.321,False,False
+143726,LA,"Dewayne Lair, Sr.",Democratic,138,9.433,False,False
+143726,LA,Maxine Mix,Nonpartisan,106,7.245,False,False
+143726,LA,"Mykell Kirk, Sr.",Democratic,80,5.468,False,False
+143726,LA,"James D. Dyess, Sr.",Democratic,66,4.511,False,False
+143192,LA,Dylan Hebert,Republican,1146,60.443,False,False
+143192,LA,Donald Borges,Republican,750,39.557,False,False
+143621,LA,Kendrell Robinson,Democratic,218,60.894,False,False
+143621,LA,Lisa Johnson,Nonpartisan,140,39.106,False,False
+143286,LA,Courtney N. Harris,Democratic,1617,44.144,False,False
+143286,LA,Karla A. McCulloch,Democratic,1370,37.401,False,False
+143286,LA,Rashima K. McMillon,Democratic,676,18.455,False,False
+143552,LA,Yes,Nonpartisan,2899,52.979,False,False
+143552,LA,No,Nonpartisan,2573,47.021,False,False
+143217,LA,Kevin P. Doise,Republican,408,57.955,False,False
+143217,LA,Voorhies Leger,Republican,296,42.045,False,False
+143454,LA,"C. ""Darnel"" Firmin",Republican,551,57.158,False,False
+143454,LA,Donald J. Bergeron,Republican,325,33.714,False,False
+143454,LA,Aaron Edwards,Nonpartisan,88,9.129,False,False
+143119,LA,Jermaine Guillory,Democratic,32472,53.286,False,False
+143119,LA,Elzie Alford,Democratic,28467,46.714,False,False
+143769,LA,Lolita Porter,Democratic,383,53.792,False,False
+143769,LA,Gwendolyn Muse Galmon,Democratic,329,46.208,False,False
+143434,LA,Jason Condrey,Nonpartisan,547,39.811,False,False
+143434,LA,Tony A. Hampton,Democratic,476,34.643,False,False
+143434,LA,Catherine Middlebrook,Democratic,231,16.812,False,False
+143434,LA,Stanley Pitts,Democratic,120,8.734,False,False
+143671,LA,"Zachary ""Zack"" Howse",Nonpartisan,402,19.216,False,False
+143671,LA,Billy Clarkson,Republican,387,18.499,False,False
+143671,LA,Erica Hughes,Republican,380,18.164,False,False
+143671,LA,Ashton Brown Courson,Republican,340,16.252,False,False
+143671,LA,"Rose ""Marla"" Green",Republican,293,14.006,False,False
+143671,LA,"Charles Hodnett, Jr.",Nonpartisan,290,13.862,False,False
+143336,LA,Yes,Nonpartisan,75,78.947,False,False
+143336,LA,No,Nonpartisan,20,21.053,False,False
+143794,LA,Keith Jones,Democratic,656,55.126,False,False
+143794,LA,Jennifer Frizzell,Democratic,393,33.025,False,False
+143794,LA,Jimmie Wade,Republican,141,11.849,False,False
+143267,LA,Jeannie Richardson,Democratic,220,63.953,False,False
+143267,LA,"Ray Ivory, Sr.",Nonpartisan,114,33.14,False,False
+143267,LA,Jessie Faye Manuel,Nonpartisan,10,2.907,False,False
+143124,LA,Luke Lancaster,Republican,51021,51.622,False,False
+143124,LA,Whitney Germany,Republican,47814,48.378,False,False
+143504,LA,"Stephenia ""Sue"" Jackson",Democratic,809,38.913,False,False
+143504,LA,Robert Tircuit,Nonpartisan,720,34.632,False,False
+143504,LA,Ricky Jones,Democratic,550,26.455,False,False
+143162,LA,Mark Denette,Republican,203,50.372,False,False
+143162,LA,Latoya Ivory,Democratic,151,37.469,False,False
+143162,LA,"Herbert ""Ripp"" Rippeon",Republican,49,12.159,False,False
+143228,LA,Vera Jones,Democratic,1351,31.691,False,False
+143228,LA,Michael Wright,Republican,1174,27.539,False,False
+143228,LA,"Steven ""Gob"" Joseph",Democratic,899,21.088,False,False
+143228,LA,"Natalie ""Ms. Nat"" Sullivan",Democratic,839,19.681,False,False
+143501,LA,"Ronald ""Ronnie"" Grace",Democratic,1042,50.096,False,False
+143501,LA,Tameshia Shuntel Hasten,Democratic,1038,49.904,False,False
+143273,LA,Jesse Eugene Smith,Nonpartisan,123,49.398,False,False
+143273,LA,Michelle Thomas Abney,Democratic,92,36.948,False,False
+143273,LA,"Timmy ""Big Show"" Willis",Democratic,34,13.655,False,False
+143738,LA,William Dear,Republican,524,74.221,False,False
+143738,LA,Jackson Torrey,Nonpartisan,182,25.779,False,False
+143396,LA,Tracey Johnson Taylor-Jarrell,Democratic,736,60.927,False,False
+143396,LA,Dewey Davis,Republican,472,39.073,False,False
+143445,LA,Rafe Stewart,Democratic,226,41.091,False,False
+143445,LA,Dane Brown,Nonpartisan,182,33.091,False,False
+143445,LA,David Guillory,Nonpartisan,100,18.182,False,False
+143445,LA,Linda Fontenot-Karam,Republican,42,7.636,False,False
+143718,LA,Jim Villard,Democratic,5987,50.785,False,False
+143718,LA,Gregory Scott,Democratic,5802,49.215,False,False
+143106,LA,Yumeaka Robinson Washington,Nonpartisan,7907,53.067,False,False
+143106,LA,Clay Carroll,Republican,6993,46.933,False,False
+143756,LA,Penny Hoffman Augustine,Nonpartisan,533,60.431,False,False
+143756,LA,Jack Serigne III,Republican,349,39.569,False,False
+143613,LA,Ann Green Harris,Republican,1785,18.283,False,False
+143613,LA,Jeff Wesley,Republican,1697,17.382,False,False
+143613,LA,Denver Ballard,Republican,1638,16.778,False,False
+143613,LA,"Raphineas ""Ray"" Riley",Nonpartisan,1556,15.938,False,False
+143613,LA,"William J. ""Bill"" Lawson",Republican,1547,15.846,False,False
+143613,LA,Robert Poole,Republican,1540,15.774,False,False
+143278,LA,Yes,Nonpartisan,1467,60.62,False,False
+143278,LA,No,Nonpartisan,953,39.38,False,False
+143544,LA,John Thomas Compton,Republican,537,55.648,False,False
+143544,LA,"Zackary ""Zack"" Lopez",Nonpartisan,428,44.352,False,False
+143131,LA,Kentley R. Fairchild,Republican,19381,70.137,False,False
+143131,LA,Kevin D. Thompson,Nonpartisan,8252,29.863,False,False
+143973,LA,Robert D. Stafford,Republican,291,60.124,False,False
+143973,LA,Cynthia Brewster,Republican,193,39.876,False,False
+143830,LA,Richard M. Mobile,Democratic,322,15.019,False,False
+143830,LA,Greg Hardy,Democratic,279,13.013,False,False
+143830,LA,Russell J. Aymond,Republican,270,12.593,False,False
+143830,LA,Lisa Abshire,Republican,244,11.381,False,False
+143830,LA,"Elizabeth ""Susie"" Hebert",Republican,236,11.007,False,False
+143830,LA,Donald J. Robin,Republican,198,9.235,False,False
+143830,LA,Sammy Wayne Hardy II,Republican,196,9.142,False,False
+143830,LA,Latoya Bush,Nonpartisan,171,7.976,False,False
+143830,LA,Ronald M. Kimble,Democratic,133,6.203,False,False
+143830,LA,"Christopher ""Chris"" Ortego",Republican,95,4.431,False,False
+143303,LA,Samuel Hodge,Democratic,433,57.503,False,False
+143303,LA,Sam Curry,Republican,320,42.497,False,False
+143761,LA,Joel Picolo,Republican,1324,52.394,False,False
+143761,LA,Daniel Burst,Republican,1203,47.606,False,False
+143998,LA,Michael Roy,Nonpartisan,482,63.421,False,False
+143998,LA,Braley Raborn,Nonpartisan,278,36.579,False,False
+143663,LA,"Arthur ""Dabo"" Graves",Democratic,2776,61.593,False,False
+143663,LA,Jared Benjamin,Nonpartisan,1731,38.407,False,False
+143328,LA,Mariah Nugent,Nonpartisan,369,73.36,False,False
+143328,LA,Cynthia Esters,Democratic,95,18.887,False,False
+143328,LA,Mary Wiley,Democratic,39,7.753,False,False
+143786,LA,Patrick P. St. Pierre,Democratic,1049,66.986,False,False
+143786,LA,"Nathaniel ""Nat"" Jones",Democratic,517,33.014,False,False
+143223,LA,"Jerry Nevils, Jr.",Republican,111,65.68,False,False
+143223,LA,Gerald Romero,Republican,58,34.32,False,False
+143688,LA,Jackie Knight,Republican,805,80.823,False,False
+143688,LA,"Myron Alvin Porche, Sr.",Democratic,191,19.177,False,False
+143346,LA,Adrian Burton-Hawkins,Democratic,72,55.814,False,False
+143346,LA,Sholonda Branch,Nonpartisan,57,44.186,False,False
+143811,LA,Natasha Faye Thomas Oliney,Democratic,212,52.475,False,False
+143811,LA,Caretta Robertson,Democratic,192,47.525,False,False
+143668,LA,Brenda Shelling,Democratic,497,38.557,False,False
+143668,LA,Jennifer Newman,Democratic,406,31.497,False,False
+143668,LA,"Tyrone ""K9"" Dickens",Democratic,386,29.946,False,False
+143248,LA,Timmy Lemoine,Republican,234,51.77,False,False
+143248,LA,Beryl Holmes,Democratic,218,48.23,False,False
+143713,LA,Kelvin V. McCoy,Democratic,218,50.816,False,False
+143713,LA,Alma Scott Moore,Democratic,137,31.935,False,False
+143713,LA,William Nichols,Democratic,74,17.249,False,False
+143371,LA,Wayne Wilson,Nonpartisan,1003,79.54,False,False
+143371,LA,"Christopher ""Chris"" Lee",Democratic,258,20.46,False,False
+143245,LA,"Cynthia ""Cindy"" Hill",Republican,1182,72.56,False,False
+143245,LA,Timothey Curry,Republican,447,27.44,False,False
+143817,LA,"Phillip Lucas, Jr.",Democratic,208,51.87,False,False
+143817,LA,Demetria Burks,Nonpartisan,193,48.13,False,False
+143290,LA,Michael Lafitte,Democratic,3133,58.072,False,False
+143290,LA,Katie McLain,Republican,2262,41.928,False,False
+143748,LA,Melissa B. Vines,Republican,894,88.166,False,False
+143748,LA,Harvey Spikes,Democratic,120,11.834,False,False
+143797,LA,Mala Toney Taylor,Democratic,886,53.054,False,False
+143797,LA,"Jeffrey ""Beak"" Jacob",Democratic,784,46.946,False,False
+143270,LA,"Angela ""Nub"" Adams",Nonpartisan,227,19.705,False,False
+143270,LA,Timmy Cato,Democratic,211,18.316,False,False
+143270,LA,Dianna Pearson,Democratic,208,18.056,False,False
+143270,LA,Julius Pearson,Democratic,201,17.448,False,False
+143270,LA,Grant Johnson,Democratic,193,16.753,False,False
+143270,LA,Gary Durham,Nonpartisan,112,9.722,False,False
+143650,LA,Yes,Nonpartisan,534,68.726,False,False
+143650,LA,No,Nonpartisan,243,31.274,False,False
+143315,LA,Vance Perkins,Nonpartisan,448,53.782,False,False
+143315,LA,Kim Rainwater,Republican,385,46.218,False,False
+143965,LA,Autainia Campbell-Self,Democratic,374,59.271,False,False
+143965,LA,Chiietra D. Brown,Nonpartisan,257,40.729,False,False
+143822,LA,Lydia Boxie,Democratic,104,45.815,False,False
+143822,LA,Janie Guilbeau,Democratic,63,27.753,False,False
+143822,LA,Katherine B. Charles,Democratic,60,26.432,False,False
+143103,LA,Gregory Carroll,Democratic,6620,57.585,False,False
+143103,LA,"Michael ""Mike"" Sigur",Republican,3050,26.531,False,False
+143103,LA,Alex Perdomo,Republican,1826,15.884,False,False
+143675,LA,Nancy LaHaye,Republican,459,50.551,False,False
+143675,LA,"Patricia ""Patty"" McCarty",Republican,449,49.449,False,False
+143340,LA,Marilyn Thompson,Nonpartisan,166,60.145,False,False
+143340,LA,"Phyllis ""Len"" Stevenson",Democratic,110,39.855,False,False
+143190,LA,Rebecca Foux Atkinson,Republican,996,63.846,False,False
+143190,LA,Jonas Thibodeaux,Republican,564,36.154,False,False
+143847,LA,Michelle D. Schexnayder,Democratic,1527,54.111,False,False
+143847,LA,Tempest Jackson,Nonpartisan,1295,45.889,False,False
+143320,LA,"Kautchia ""Kay"" Broussard",Republican,554,57.35,False,False
+143320,LA,Gerald Guidry,Republican,412,42.65,False,False
+143358,LA,Ann Brown,Republican,77,52.381,False,False
+143358,LA,Cindy Watkins,Republican,70,47.619,False,False
+143215,LA,Wayland Lafargue,Republican,325,45.202,False,False
+143215,LA,Angie Weatherford Van Norman,Republican,235,32.684,False,False
+143215,LA,Eric Fontenot,Republican,159,22.114,False,False
+143680,LA,Ranada Mackey St. Ann,Nonpartisan,666,70.253,False,False
+143680,LA,Robin Parker,Nonpartisan,282,29.747,False,False
+143146,LA,Keith Gates,Republican,2356,57.24,False,False
+143146,LA,Jacque Derr,Nonpartisan,1760,42.76,False,False
+143575,LA,Deborah B. Mayo,Republican,325,62.023,False,False
+143575,LA,Laura Gifford Raborn,Republican,199,37.977,False,False
+143432,LA,Debra Hopkins,Republican,263,71.081,False,False
+143432,LA,Joe A. Davis,Democratic,107,28.919,False,False
+143897,LA,"Terrell ""Teddy"" Hookfin, Sr.",Democratic,468,15.014,False,False
+143897,LA,Jakoiya Wilkerson,Democratic,451,14.469,False,False
+143897,LA,Joi A. Smith,Democratic,420,13.474,False,False
+143897,LA,Gary Callihan,Democratic,408,13.09,False,False
+143897,LA,Deanna Burton,Democratic,307,9.849,False,False
+143897,LA,Paul Stewart,Democratic,269,8.63,False,False
+143897,LA,John Williams,Democratic,266,8.534,False,False
+143897,LA,"Desiree ""Nikki"" Carrier",Republican,189,6.064,False,False
+143897,LA,Lotissa Hill Johnson,Democratic,184,5.903,False,False
+143897,LA,William Lawson,Nonpartisan,155,4.973,False,False
+143171,LA,"Tabatha ""Tab"" Taylor",Democratic,5335,84.979,False,False
+143171,LA,Hanh Williams,Republican,943,15.021,False,False
+143220,LA,"Susanne ""Sue"" Sonnier",Republican,481,68.13,False,False
+143220,LA,Angella South,Democratic,225,31.87,False,False
+143600,LA,John Clary,Republican,405,70.191,False,False
+143600,LA,Willard Sullivan,Republican,172,29.809,False,False
+143265,LA,Nicholas R. Ferrell,Nonpartisan,1023,69.45,False,False
+143265,LA,Austin Pike,Nonpartisan,450,30.55,False,False
+143922,LA,Kristy Fine,Republican,770,86.712,False,False
+143922,LA,Misti Weakley,Nonpartisan,118,13.288,False,False
+143580,LA,Mandy Sandifer,Republican,529,53.38,False,False
+143580,LA,Wayne Chapman,Republican,462,46.62,False,False
+143834,LA,Mary A. Lavergne,Democratic,47,54.651,False,False
+143834,LA,Rena Brown Washington,Democratic,39,45.349,False,False
+143307,LA,Ashley Anderson,Republican,110,29.65,False,False
+143307,LA,Sebastian Cranford,Republican,106,28.571,False,False
+143307,LA,Krista Fuller,Republican,84,22.642,False,False
+143307,LA,Kelvin Dunn,Democratic,71,19.137,False,False
+143157,LA,Kharmen Davis-Taylor,Democratic,6041,37.059,False,False
+143157,LA,Sheva Sims,Democratic,5712,35.041,False,False
+143157,LA,Trinicia Leonard,Democratic,4548,27.9,False,False
+143814,LA,William Dwight Landreneau,Democratic,239,58.435,False,False
+143814,LA,Mona C. Wilson,Democratic,170,41.565,False,False
+143202,LA,"Tracy ""Trey"" Garrick",Nonpartisan,454,58.808,False,False
+143202,LA,"Vernon ""Step"" Martin",Democratic,318,41.192,False,False
+143859,LA,No,Nonpartisan,784,50.777,False,False
+143859,LA,Yes,Nonpartisan,760,49.223,False,False
+143524,LA,"Salvador ""Sal"" Brocato III",Republican,41620,60.587,False,False
+143524,LA,Michael Marsiglia,Republican,27075,39.413,False,False
+143374,LA,Michael Kelly,Republican,0,,False,False
+143374,LA,"Marcus ""Slim"" Martin",Nonpartisan,0,,False,False
+143647,LA,Norvel Garner,Nonpartisan,88,29.333,False,False
+143647,LA,Larry McGee,Republican,84,28.0,False,False
+143647,LA,Reed Franklin,Republican,76,25.333,False,False
+143647,LA,Timmy Harris,Republican,52,17.333,False,False
+143419,LA,Ron Reynolds,Republican,17185,59.14,False,False
+143419,LA,Tucker Sharer,Republican,11873,40.86,False,False
+143692,LA,Carolyn Wells,Democratic,628,69.7,False,False
+143692,LA,"Michael ""Mike"" Porche",Democratic,273,30.3,False,False
+143542,LA,Elisha Neal Duhon,Republican,268,50.471,False,False
+143542,LA,Marcus Davis,Nonpartisan,263,49.529,False,False
+143399,LA,Carla Powell,Democratic,4764,46.19,False,False
+143399,LA,Thomasina Joseph,Democratic,2866,27.787,False,False
+143399,LA,"Eugene ""Rico"" Williams III",Democratic,2142,20.768,False,False
+143399,LA,"Stephen ""Stewart"" Stewart",Nonpartisan,542,5.255,False,False
+143864,LA,Tammy Harwell Penton,Republican,2981,42.164,False,False
+143864,LA,Charles Brandon Harrell,Republican,2359,33.366,False,False
+143864,LA,Miranda Buras,Democratic,1730,24.47,False,False
+143109,LA,Janet Floyd,Democratic,5092,62.601,False,False
+143109,LA,Jasmyne McConnell,Democratic,1666,20.482,False,False
+143109,LA,"Mary Alice ""Bryant"" Cezar",Democratic,1376,16.917,False,False
+143759,LA,David Clements,Republican,1160,56.696,False,False
+143759,LA,John Mayeaux,Nonpartisan,886,43.304,False,False
+143424,LA,Kendrick Slan,Nonpartisan,1010,55.071,False,False
+143424,LA,Travis Gaspard,Republican,824,44.929,False,False
+143697,LA,"James Hunter, Jr.",Democratic,551,38.131,False,False
+143697,LA,Joy Nelson,Democratic,477,33.01,False,False
+143697,LA,"Gregory ""Hoss"" Johnson",Nonpartisan,417,28.858,False,False
+143134,LA,Atoundra Pierre Lawson,Democratic,1991,52.742,False,False
+143134,LA,Vercell Fiffie,Democratic,1784,47.258,False,False
+143784,LA,Aaron A. Gordon,Democratic,802,54.447,False,False
+143784,LA,Rhonda Martin,Democratic,671,45.553,False,False
+143641,LA,Monty Trichel,Nonpartisan,981,70.323,False,False
+143641,LA,"Lynn ""Hoppy"" Layfield",Nonpartisan,414,29.677,False,False
+143914,LA,Yes,Nonpartisan,21124,76.817,False,False
+143914,LA,No,Nonpartisan,6375,23.183,False,False
+143572,LA,Cory Bermea,Republican,252,79.495,False,False
+143572,LA,Evelyn Smith,Nonpartisan,65,20.505,False,False
+143152,LA,Brad Cascio,Republican,53311,64.66,False,False
+143152,LA,Sherman Mack,Republican,29137,35.34,False,False
+143809,LA,Kenon Lamb,Democratic,1101,23.009,False,False
+143809,LA,Julius Alsandor,Democratic,905,18.913,False,False
+143809,LA,Elbert Lee Guillory,Republican,860,17.973,False,False
+143809,LA,Devin Manuel McKnight,Democratic,828,17.304,False,False
+143809,LA,Rod Sias,Democratic,485,10.136,False,False
+143809,LA,Donald Broussard,Democratic,342,7.147,False,False
+143809,LA,Sona Anderson,Democratic,264,5.517,False,False
+143474,LA,Yes,Nonpartisan,2495,54.583,False,False
+143474,LA,No,Nonpartisan,2076,45.417,False,False
+143939,LA,Troy Catalon,Republican,774,20.093,False,False
+143939,LA,Scott Trahan,Republican,725,18.821,False,False
+143939,LA,Megan Landry-Lalande,Nonpartisan,682,17.705,False,False
+143939,LA,Matthew Trahan,Republican,643,16.693,False,False
+143939,LA,Wayne Theriot,Republican,541,14.045,False,False
+143939,LA,Jonathan Schlicher,Nonpartisan,487,12.643,False,False
+143597,LA,Mona Durrett Wilson,Republican,121,42.308,False,False
+143597,LA,Corey Beckham,Republican,93,32.517,False,False
+143597,LA,Kimberly Gill,Nonpartisan,72,25.175,False,False
+143177,LA,Angel Racca,Republican,395,53.02,False,False
+143177,LA,Lori Landry,Republican,350,46.98,False,False
+143851,LA,"Jose M. Salvador, Jr.",Republican,1345,61.387,False,False
+143851,LA,Andros Williams,Republican,846,38.613,False,False
+143708,LA,Paul Ryland,Republican,1140,64.48,False,False
+143708,LA,Charles Butler,Republican,628,35.52,False,False
+143174,LA,Alan Jackson,Democratic,4116,56.819,False,False
+143174,LA,Alvin Oliver,Democratic,1975,27.264,False,False
+143174,LA,"Francine ""Monro"" Brown",Democratic,1153,15.917,False,False
+143554,LA,"Robert ""Ted"" Davidson",Republican,4439,53.891,False,False
+143554,LA,Stasia Herbert-McZeal,Democratic,3798,46.109,False,False
+143411,LA,Pamela Turner,Nonpartisan,563,59.451,False,False
+143411,LA,Tamara Kendrick Dayton,Republican,384,40.549,False,False
+143876,LA,Sandra Slifer,Nonpartisan,687,51.693,False,False
+143876,LA,"Stephen Duncan Saussy, Jr.",Republican,642,48.307,False,False
+143925,LA,Joshua Acree,Republican,1762,62.174,False,False
+143925,LA,Charlie Young,Democratic,502,17.713,False,False
+143925,LA,James M. Sims,Republican,378,13.338,False,False
+143925,LA,Jimmy Rose,Democratic,192,6.775,False,False
+143199,LA,Brian Seth Mouton,Democratic,402,65.579,False,False
+143199,LA,Byron J. Domingue,Democratic,166,27.08,False,False
+143199,LA,"Charles ""Pop"" Leblanc",Democratic,45,7.341,False,False
+143771,LA,Towana Jackson,Democratic,424,45.591,False,False
+143771,LA,Jennifer McMorris,Nonpartisan,401,43.118,False,False
+143771,LA,George Hughes,Democratic,105,11.29,False,False
+143436,LA,Sucletter Brown Crye,Democratic,583,10.454,False,False
+143436,LA,"Kojerion ""Koda"" Hawkins",Democratic,578,10.364,False,False
+143436,LA,Donnie Meadows,Democratic,567,10.167,False,False
+143436,LA,"Charlene ""Dorsey"" Bailey",Democratic,501,8.983,False,False
+143436,LA,Karl Magee,Democratic,471,8.445,False,False
+143436,LA,James Oscar Thornton V,Republican,468,8.392,False,False
+143436,LA,Patrick Shane Henderson,Democratic,460,8.248,False,False
+143436,LA,Tyler Webb,Nonpartisan,448,8.033,False,False
+143436,LA,Arlean Hampton,Democratic,443,7.943,False,False
+143436,LA,"Michael ""Smooth"" Collins",Democratic,415,7.441,False,False
+143436,LA,"James ""Edward"" Shaw",Democratic,400,7.172,False,False
+143436,LA,Lester Martin,Democratic,243,4.357,False,False
+143101,LA,John E. Atkins,Republican,161038,59.156,False,False
+143101,LA,James Edward Green,Democratic,111188,40.844,False,False
+143751,LA,"Joe Dewil, Jr.",Nonpartisan,1039,78.062,False,False
+143751,LA,"Joey J. ""Hook"" Huval",Nonpartisan,292,21.938,False,False
+143416,LA,Toni Higginbotham,Republican,12977,36.813,False,False
+143416,LA,Jen Racca,Republican,10069,28.564,False,False
+143416,LA,Dajuana Leduff W. Moore,Republican,6386,18.116,False,False
+143416,LA,Robert Ainsworth,Republican,5005,14.198,False,False
+143416,LA,Christoph Bajewski,Republican,814,2.309,False,False
+143653,LA,Yes,Nonpartisan,249,65.183,False,False
+143653,LA,No,Nonpartisan,133,34.817,False,False
+143318,LA,Julie P. Fontenot,Nonpartisan,166,56.655,False,False
+143318,LA,Chuck Hebert,Nonpartisan,127,43.345,False,False
+143776,LA,"Jerome Forbes, Jr.",Democratic,419,47.398,False,False
+143776,LA,Sam Topps,Nonpartisan,324,36.652,False,False
+143776,LA,Iola Martin,Democratic,141,15.95,False,False
+143441,LA,Brittany Morgan,Republican,379,67.8,False,False
+143441,LA,Melissa Davis,Nonpartisan,180,32.2,False,False
+143486,LA,"Vera ""Susie"" Waters",Republican,508,51.731,False,False
+143486,LA,Gretchen Miller,Republican,474,48.269,False,False
+143144,LA,"Mennon Campbell, Jr.",Republican,28535,56.674,False,False
+143144,LA,Alvin Sharp,Republican,21814,43.326,False,False
+143993,LA,Will Lynd,Nonpartisan,749,53.692,False,False
+143993,LA,Ronnie Coleman,Democratic,646,46.308,False,False
+143466,LA,Darrel Bellard,Nonpartisan,118,50.0,False,False
+143466,LA,Brook Chapman,Republican,62,26.271,False,False
+143466,LA,Troy Fontenot,Nonpartisan,56,23.729,False,False
+143703,LA,Greg Hackney,Republican,2326,54.448,False,False
+143703,LA,George Johnson,Republican,1946,45.552,False,False
+143169,LA,John Ray Taylor,Nonpartisan,215,15.855,False,False
+143169,LA,Ryan Courville,Republican,211,15.56,False,False
+143169,LA,Jamie Ulin Huval,Republican,181,13.348,False,False
+143169,LA,"Kathleen ""Kathy"" Richard",Democratic,179,13.201,False,False
+143169,LA,Cynthia Stelly,Republican,176,12.979,False,False
+143169,LA,Debbie Kidder,Democratic,165,12.168,False,False
+143169,LA,Chelsey Coody,Nonpartisan,139,10.251,False,False
+143169,LA,"Dakota ""Brown"" Arnaud",Nonpartisan,90,6.637,False,False
+144018,LA,Steve Vines,Republican,311,66.882,False,False
+144018,LA,Chuck Jurek,Republican,154,33.118,False,False
+143299,LA,"Robert T. Green, Jr.",Democratic,438,57.33,False,False
+143299,LA,Sibbie Comer,Republican,326,42.67,False,False
+143149,LA,"Donald ""Don"" Landry",Republican,60606,55.866,False,False
+143149,LA,Kristian Earles,Republican,47878,44.134,False,False
+143728,LA,Yes,Nonpartisan,233,59.897,False,False
+143728,LA,No,Nonpartisan,156,40.103,False,False
+143386,LA,Jere Guillotte,Republican,551,53.185,False,False
+143386,LA,Jana Suzanne Barber,Republican,485,46.815,False,False
+87182,LA,Chauna Banks,Democratic,51004,19.414,False,False
+87182,LA,Blake Miguez,Republican,50376,19.175,False,False
+87182,LA,Rick Edmonds,Republican,49420,18.811,False,False
+87182,LA,Lindsay Garcia,Democratic,33632,12.802,False,False
+87182,LA,Stephen Wagley,Republican,28239,10.749,False,False
+87182,LA,"Patrick ""Pat"" Forbes",Democratic,23869,9.086,False,False
+87182,LA,Larry Davis,Republican,11388,4.335,False,False
+87182,LA,Monique Appeaning,Republican,8139,3.098,False,False
+87182,LA,Rufus Craig,Libertarian,3478,1.324,False,False
+87182,LA,Michael Mebruer,Republican,3167,1.206,False,False
+87177,LA,Steve Scalise,Republican,159896,60.707,True,False
+87177,LA,Lauren Jewett,Democratic,89440,33.957,False,False
+87177,LA,Randall Arrington,Republican,9776,3.712,False,False
+87177,LA,"E. ""Liddy"" Glass",Nonpartisan,4279,1.625,False,False
+87179,LA,Clay Higgins,Republican,129203,54.981,True,False
+87179,LA,John Day,Democratic,49163,20.921,False,False
+87179,LA,Caleb Walker,Democratic,19932,8.482,False,False
+87179,LA,Priscilla Gonzalez,Democratic,16828,7.161,False,False
+87179,LA,Kate Cotten,Republican,15661,6.664,False,False
+87179,LA,Tia LeBrun,Nonpartisan,4208,1.791,False,False
+87181,LA,"Patricia ""Pat"" Moore",Democratic,40786,17.895,False,False
+87181,LA,Gabe Firment,Republican,39126,17.166,False,False
+87181,LA,Misti Cordell,Republican,33371,14.641,False,False
+87181,LA,Michael Echols,Republican,32905,14.437,False,False
+87181,LA,"Stewart Cathey, Jr.",Republican,28168,12.359,False,False
+87181,LA,Antonio Wilson,Democratic,27373,12.01,False,False
+87181,LA,Dan McKay,Democratic,16051,7.042,False,False
+87181,LA,Austin Magee,Republican,7910,3.47,False,False
+87181,LA,"Oscar ""Omar"" Dantzler",Republican,2233,0.98,False,False
+87183,LA,Julia Letlow,Republican,746466,50.884,True,False
+87183,LA,Jamie Davis,Democratic,720516,49.116,False,False
+87178,LA,Troy Carter,Democratic,192286,79.914,True,False
+87178,LA,Peter Williams,Republican,36369,15.115,False,False
+87178,LA,Lisa Ballay,Libertarian,6409,2.664,False,False
+87178,LA,Renada Collins,Nonpartisan,2999,1.246,False,False
+87178,LA,"Walter ""Rocky"" Beach",Nonpartisan,2553,1.061,False,False
+87180,LA,Mike Johnson,Republican,134750,58.496,True,False
+87180,LA,Conrad Cable,Democratic,52899,22.964,False,False
+87180,LA,Matt Gromlich,Democratic,32868,14.268,False,False
+87180,LA,Mike Nichols,Republican,7271,3.156,False,False
+87180,LA,Gordon Heslop,Republican,2571,1.116,False,False

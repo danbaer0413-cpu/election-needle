@@ -1,0 +1,350 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+158302,OH,Marilyn Zayas,Democratic,2307346,51.013,True,False
+158302,OH,Daniel R. Hawkins,Republican,2215728,48.987,False,False
+158300,OH,Frank LaRose,Republican,2310105,50.793,True,False
+158300,OH,Annette Blackwell,Democratic,2237955,49.207,False,False
+158301,OH,Seth Walsh,Democratic,2282546,50.551,True,False
+158301,OH,Jay Edwards,Republican,2232758,49.449,False,False
+158303,OH,Jennifer Brunner,Democratic,2324212,51.373,True,False
+158303,OH,Colleen O'Donnell,Republican,2200021,48.627,False,False
+87367,OH,Allison Russo,Democratic,2287160,50.253,True,False
+87367,OH,Robert Sprague,Republican,2129981,46.799,False,False
+87367,OH,Tom Pruss,Libertarian,134179,2.948,False,False
+87365,OH,Amy Acton,Democratic,2404178,52.296,True,False
+87365,OH,Vivek Ramaswamy,Republican,2039730,44.368,False,False
+87365,OH,Don Kissick,Libertarian,151874,3.304,False,False
+87365,OH,Heather Hill,Write-In,1186,0.026,False,False
+87365,OH,Timothy Grady,Write-In,235,0.005,False,False
+87365,OH,Renea Turner,Write-In,67,0.001,False,False
+87366,OH,John J. Kulewicz,Democratic,2285117,50.313,False,False
+87366,OH,Keith Faber,Republican,2256710,49.687,False,False
+159560,OH,Democratic,Democratic,1184023,53.314,False,False
+159560,OH,Republican,Republican,1033074,46.517,False,False
+159560,OH,Libertarian,Libertarian,3647,0.164,False,False
+159560,OH,Write-In,Write-In,86,0.004,False,False
+158443,OH,Yes,Nonpartisan,2934245,65.335,True,False
+158443,OH,No,Nonpartisan,1556864,34.665,False,False
+159559,OH,Democratic,Democratic,2253074,50.582,False,False
+159559,OH,Republican,Republican,2162126,48.54,False,False
+159559,OH,Libertarian,Libertarian,19852,0.446,False,False
+159559,OH,Independent,Independent,19026,0.427,False,False
+159559,OH,Write-In,Write-In,257,0.006,False,False
+158347,OH,Beryl Brown Piccolantonio,Democratic,42617,100.0,True,False
+158437,OH,Kevin Ritter,Republican,25078,60.873,True,False
+158437,OH,Wenda Sheard,Democratic,16119,39.127,False,False
+158356,OH,Tristan W. Rader,Democratic,32911,83.747,True,False
+158356,OH,Billy Fronimo,Republican,6387,16.253,False,False
+158371,OH,Karen Brownlee,Democratic,33453,60.695,True,False
+158371,OH,Jill Cole,Republican,21664,39.305,False,False
+158393,OH,Matthew Kishman,Republican,25435,58.851,True,False
+158393,OH,Rylan Z. Finzer,Democratic,17784,41.149,False,False
+158355,OH,Brian Stewart,Republican,28976,66.52,True,False
+158355,OH,Lee Yarsky,Democratic,14584,33.48,False,False
+158370,OH,Rachel Baker,Democratic,36956,60.1,True,False
+158370,OH,Nancy Reed Aichholz,Republican,24535,39.9,False,False
+158314,OH,Cynthia Curtin,Republican,0,,False,False
+158314,OH,Betty Sutton,Democratic,0,,False,False
+158400,OH,Jesse Styles,Republican,29588,52.632,True,False
+158400,OH,Rick Walker,Democratic,23401,41.626,False,False
+158400,OH,Belinda Grassi,Independent,3228,5.742,False,False
+158369,OH,Ashley Bryant Bailey,Democratic,39842,74.431,True,False
+158369,OH,Tom Brinkman,Republican,13687,25.569,False,False
+158313,OH,Jeffrey A. Crossman,Democratic,0,,False,False
+158392,OH,Krista L Allison,Democratic,21425,54.926,True,False
+158392,OH,Jim Thomas,Republican,17582,45.074,False,False
+158422,OH,Monica Robb Blasdel,Republican,29069,70.21,True,False
+158422,OH,Bob Guy,Democratic,12334,29.79,False,False
+158312,OH,Molly K. Johnson,Republican,0,,False,False
+158391,OH,Christina M. Hagan,Republican,30370,57.239,True,False
+158391,OH,Nick Morris,Democratic,22688,42.761,False,False
+158431,OH,Gary Click,Republican,23930,58.57,True,False
+158431,OH,Aaron W. Jones,Democratic,16927,41.43,False,False
+158350,OH,Ukeme Awakessien Jeter,Democratic,35462,70.01,True,False
+158350,OH,William Mercier,Republican,12259,24.202,False,False
+158350,OH,Cameron Koffel,Independent,2932,5.788,False,False
+158308,OH,Mark C. Miller,Republican,0,,False,False
+158430,OH,Jeffrey A. McClain,Republican,30215,68.19,True,False
+158430,OH,Lora Covrett,Democratic,11163,25.193,False,False
+158430,OH,Craig Swartz,Independent,2920,6.59,False,False
+158430,OH,Greg White,Write-In,12,0.027,False,False
+158349,OH,Christine Cockley,Democratic,22431,66.658,True,False
+158349,OH,Matthew Jackson,Republican,11220,33.342,False,False
+158396,OH,Matt Lundy,Democratic,27024,60.664,True,False
+158396,OH,Bradley Lacko,Republican,17523,39.336,False,False
+158386,OH,Michele Grim,Democratic,23569,65.791,True,False
+158386,OH,David Karmol,Republican,11070,30.901,False,False
+158386,OH,Zach Hall,Libertarian,1185,3.308,False,False
+158348,OH,Meredith R Lawson Rowe,Democratic,28216,68.043,True,False
+158348,OH,Richard Cole,Republican,13233,31.911,False,False
+158348,OH,Eboney C. Eldridge,Write-In,19,0.046,False,False
+158395,OH,Mike Baker,Democratic,28230,54.86,True,False
+158395,OH,Cliff Winkel,Republican,23228,45.14,False,False
+158435,OH,Mark Johnson,Republican,23912,64.242,True,False
+158435,OH,Sarah Senff,Democratic,13310,35.758,False,False
+158425,OH,Roy W. Klopfenstein,Republican,33656,72.313,True,False
+158425,OH,Maddux McCray,Democratic,11067,23.779,False,False
+158425,OH,Christopher Elder,Libertarian,1819,3.908,False,False
+158394,OH,Jodi Salvo,Republican,25970,65.277,True,False
+158394,OH,Amanda Fontana,Democratic,13814,34.723,False,False
+158434,OH,Bob Peterson,Republican,26158,72.202,True,False
+158434,OH,Amy Wright,Democratic,10071,27.798,False,False
+158385,OH,Elgin Rogers Jr.,Democratic,20675,70.865,True,False
+158385,OH,Robert McMahon,Republican,8500,29.135,False,False
+158433,OH,Justin Pizzulli,Republican,24915,70.479,True,False
+158433,OH,Collin Docterman,Democratic,10436,29.521,False,False
+158384,OH,Erika White,Democratic,27357,65.892,True,False
+158384,OH,Ian Chamberlin,Republican,14161,34.108,False,False
+158424,OH,Patti Rockey,Republican,29896,67.915,True,False
+158424,OH,David Swanson,Democratic,14124,32.085,False,False
+158311,OH,Michael R. Goulding,Republican,0,,False,False
+158333,OH,Gayle Manning,Republican,73773,50.734,True,False
+158333,OH,Joe Miller,Democratic,71639,49.266,False,False
+158383,OH,Rodney Creech,Republican,29651,65.37,True,False
+158383,OH,Timothy B. Hornbacker,Democratic,13460,29.674,False,False
+158383,OH,Joshua A. Umbaugh,Libertarian,2248,4.956,False,False
+158423,OH,Johnathan Newman,Republican,34768,67.289,True,False
+158423,OH,Katie Koehler Wagner,Democratic,16902,32.711,False,False
+158310,OH,Matthew George,Republican,0,,False,False
+158389,OH,Thomas Hall,Republican,27016,58.541,True,False
+158389,OH,Benjamin McCall,Democratic,19133,41.459,False,False
+158379,OH,Rose Lounsbury,Democratic,25727,55.544,True,False
+158379,OH,Andrea White,Republican,19496,42.092,False,False
+158379,OH,Chuck Horn,Independent,1095,2.364,False,False
+158309,OH,Jayme Hartley Fountain,Republican,0,,False,False
+158309,OH,Todd L. Grace,Democratic,0,,False,False
+158388,OH,Jennifer Gross,Republican,29055,55.968,True,False
+158388,OH,Jayson Ameer Rasheed,Democratic,22859,44.032,False,False
+158428,OH,Tim Barhorst,Republican,33853,74.981,True,False
+158428,OH,Victoria Maddox,Democratic,11296,25.019,False,False
+158418,OH,Haraz N. Ghanbari,Republican,23193,50.136,False,False
+158418,OH,Richard J. Rettig,Democratic,23067,49.864,False,False
+158387,OH,Edward L. Schimmel,Republican,26612,47.966,False,False
+158387,OH,David J. Fournier,Democratic,26556,47.865,False,False
+158387,OH,Lyndsey A. Stough,Independent,2313,4.169,False,False
+158427,OH,Angie King,Republican,36799,80.382,True,False
+158427,OH,Arienne C. Childrey,Democratic,8981,19.618,False,False
+158346,OH,Ismail Mohamed,Democratic,28140,83.902,True,False
+158346,OH,Bernadine Kennedy Kent,Republican,5365,15.996,False,False
+158346,OH,Elegant Afriyie,Write-In,34,0.101,False,False
+158432,OH,Caleb Stidham,Republican,27498,56.256,True,False
+158432,OH,Easton Michael Retzke,Democratic,21190,43.351,False,False
+158432,OH,Steve Kraus,Write-In,192,0.393,False,False
+158426,OH,Ty Mathews,Republican,30582,69.056,True,False
+158426,OH,Sheila Coressel,Democratic,13704,30.944,False,False
+158345,OH,Charity Martin King,Democratic,30880,100.0,True,False
+158417,OH,Bernard Willis,Republican,21575,55.033,True,False
+158417,OH,Darrell E Jackson,Democratic,17629,44.967,False,False
+158326,OH,Tavia Galonski,Democratic,0,,False,False
+158326,OH,Nathan Manning,Republican,0,,False,False
+158344,OH,Dontavius Jarrells,Democratic,33077,84.782,True,False
+158344,OH,Joel A. Greff,Republican,5937,15.218,False,False
+158416,OH,Jeff LaRe,Republican,27678,52.402,True,False
+158416,OH,Whittney Wood,Democratic,25141,47.598,False,False
+158335,OH,Shane Wilkin,Republican,74615,68.27,True,False
+158335,OH,Brian A. Deer,Democratic,34679,31.73,False,False
+158382,OH,Daquan Neal,Democratic,22677,51.661,True,False
+158382,OH,Mark Campbell,Republican,21219,48.339,False,False
+158340,OH,Mike Roberto,Democratic,86591,53.543,True,False
+158340,OH,Steve Demetriou,Republican,75132,46.457,False,False
+158415,OH,Heidi Workman,Republican,22880,49.153,True,False
+158415,OH,Jeff Clapper,Democratic,22179,47.647,False,False
+158415,OH,Michael Fricke,Libertarian,1490,3.201,False,False
+158334,OH,Latyna M. Humphrey,Democratic,92772,85.025,True,False
+158334,OH,Joseph Healy,Republican,16340,14.975,False,False
+158381,OH,Desiree Tims,Democratic,30408,100.0,True,False
+158421,OH,Matt Huffman,Republican,27531,69.32,True,False
+158421,OH,Jeffrey R. Givan,Democratic,12185,30.68,False,False
+158411,OH,Thad Claggett,Republican,25383,51.927,True,False
+158411,OH,Mason Blankenship,Democratic,23499,48.073,False,False
+158380,OH,Tom Herner,Democratic,26227,50.128,False,False
+158380,OH,Tom Young,Republican,26093,49.872,False,False
+158420,OH,Meredith Craig,Republican,26762,65.606,True,False
+158420,OH,Brooke Dillon,Democratic,14030,34.394,False,False
+158307,OH,Chris Epley,Republican,0,,False,False
+158329,OH,Phil Plummer,Republican,90591,64.058,True,False
+158329,OH,Jeffrey Harris,Democratic,50830,35.942,False,False
+158419,OH,Marilyn S. John,Republican,28606,65.544,True,False
+158419,OH,Colton Stidam,Democratic,15038,34.456,False,False
+158306,OH,Ginger S. Bock,Democratic,0,,False,False
+158410,OH,Melanie Miller,Republican,30838,63.973,True,False
+158410,OH,Heather L. Sample,Democratic,17367,36.027,False,False
+158305,OH,Willa Concannon,Nonpartisan,0,,False,False
+158409,OH,Sean M. Hutson,Republican,31210,56.421,True,False
+158409,OH,Chris Nardo,Democratic,22018,39.804,False,False
+158409,OH,Justin P. Peroli,Libertarian,2088,3.775,False,False
+158328,OH,Stacie A. Baker,Democratic,67338,51.883,True,False
+158328,OH,Michele Reynolds,Republican,62450,48.117,False,False
+158343,OH,Al Cutrona,Republican,72172,54.46,True,False
+158343,OH,Michael L. Kripchak,Democratic,60350,45.54,False,False
+158365,OH,Darnell T. Brewer,Democratic,31270,100.0,True,False
+158408,OH,David Thomas,Republican,27036,57.173,True,False
+158408,OH,John Barbo,Democratic,20252,42.827,False,False
+158327,OH,Craig S. Riedel,Republican,104450,100.0,True,False
+158342,OH,Al Landis,Republican,77423,65.56,True,False
+158342,OH,Laura Sirot,Democratic,40672,34.44,False,False
+158414,OH,Levi Dean,Republican,28484,64.113,True,False
+158414,OH,Krista Magaw,Democratic,15944,35.887,False,False
+158404,OH,Shawn Stevens,Republican,34554,55.608,True,False
+158404,OH,Vince McGrail,Democratic,27585,44.392,False,False
+158341,OH,Jane Timken,Republican,74864,55.073,True,False
+158341,OH,Thomas West,Democratic,61071,44.927,False,False
+158413,OH,Brian Lampton,Republican,28843,54.418,True,False
+158413,OH,Kim McCarthy,Democratic,24160,45.582,False,False
+158332,OH,Paula Hicks-Hudson,Democratic,71502,66.559,True,False
+158332,OH,James Nowak,Republican,32277,30.046,False,False
+158332,OH,Kenneth W. Sharp,Libertarian,3647,3.395,False,False
+158322,OH,Emanuella D. Groves,Democratic,0,,False,False
+158412,OH,Kevin D. Miller,Republican,33048,70.403,True,False
+158412,OH,Amy Rigsby,Democratic,13893,29.597,False,False
+158331,OH,Catherine Ingram,Democratic,95580,79.529,True,False
+158331,OH,Linda D. Matthews,Republican,24602,20.471,False,False
+158378,OH,Samantha Salamon,Democratic,34145,55.699,True,False
+158378,OH,Vik Sandhu,Republican,27158,44.301,False,False
+158336,OH,Ryan Rivers,Republican,88705,55.74,True,False
+158336,OH,Scott Charland,Democratic,70435,44.26,False,False
+158330,OH,Zac Haines,Republican,88157,52.842,True,False
+158330,OH,Cara Jacob,Democratic,78673,47.158,False,False
+158377,OH,Derrick Hall,Democratic,32503,61.157,True,False
+158377,OH,Craig A. Shubert,Republican,20644,38.843,False,False
+158321,OH,Robert J. Patton,Republican,0,,False,False
+158358,OH,Chris Glassburn,Democratic,26147,61.067,True,False
+158358,OH,Daniel Conway,Republican,16670,38.933,False,False
+158376,OH,Veronica Sims,Democratic,31061,79.877,True,False
+158376,OH,Napoleon Rodgers Jr,Republican,7825,20.123,False,False
+158320,OH,Michael John Ryan,Democratic,0,,False,False
+158367,OH,Dani Isaacsohn,Democratic,25507,100.0,True,False
+158407,OH,Nick Santucci,Republican,26736,100.0,True,False
+158372,OH,Cindy Abrams,Republican,23820,50.02,False,False
+158372,OH,Jonathan R. Bradner,Democratic,23801,49.98,False,False
+158319,OH,Mark Anthony Hanni,Republican,0,,False,False
+158319,OH,Katherine Rudzik,Democratic,0,,False,False
+158366,OH,Daniel P. Troy,Democratic,32113,57.935,True,False
+158366,OH,Julie A. Belich,Republican,23316,42.065,False,False
+158406,OH,Adam C. Bird,Republican,29875,68.284,True,False
+158406,OH,Debbie Davidson,Democratic,13876,31.716,False,False
+158325,OH,Ashley Kilbane,Democratic,0,,False,False
+158315,OH,Michael C. Mentel,Democratic,0,,False,False
+158405,OH,Jean Schmidt,Republican,28626,52.778,True,False
+158405,OH,Ian Schwartz,Democratic,22077,40.703,False,False
+158405,OH,Ron Grethel,Libertarian,3536,6.519,False,False
+158324,OH,Terri Jamison,Democratic,0,,False,False
+158339,OH,Bill DeMora,Democratic,89559,72.364,True,False
+158339,OH,Don Roberts,Republican,34116,27.566,False,False
+158339,OH,Raisheda D. Angus,Write-In,86,0.069,False,False
+158361,OH,Davida Russell,Democratic,46320,91.156,True,False
+158361,OH,Maureen Lynn,Republican,4494,8.844,False,False
+158323,OH,Anthony Alto,Republican,0,,False,False
+158323,OH,Anita Laster Mays,Democratic,0,,False,False
+158338,OH,Bride Rose Sweeney,Democratic,94458,78.097,True,False
+158338,OH,Robert E. Dintaman,Republican,26491,21.903,False,False
+158442,OH,Sarah Fowler Arthur,Republican,28521,58.507,True,False
+158442,OH,Louis Murphy,Democratic,20227,41.493,False,False
+158375,OH,Jack K. Daniels,Republican,22977,52.329,True,False
+158375,OH,Djordjije Popovic,Democratic,20932,47.671,False,False
+158337,OH,Kent Smith,Democratic,117874,87.45,True,False
+158337,OH,Mikhail Alterman,Republican,16916,12.55,False,False
+158441,OH,Mark Hiner,Republican,25155,70.983,True,False
+158441,OH,Scott Grund,Democratic,10283,29.017,False,False
+158360,OH,Megan Coy,Democratic,28778,52.217,True,False
+158360,OH,Mike Dovilla,Republican,26334,47.783,False,False
+158397,OH,Kellie Deeter,Republican,29138,59.965,True,False
+158397,OH,Brenda Buchanan,Democratic,19454,40.035,False,False
+158440,OH,Adam P. Holmes,Republican,24818,69.189,True,False
+158440,OH,Kris Geis,Independent,6538,18.227,False,False
+158440,OH,Tim Godwin,Libertarian,4514,12.584,False,False
+158359,OH,Scott DiMauro,Democratic,35072,64.226,True,False
+158359,OH,Sophia Tjotjos,Republican,19535,35.774,False,False
+158374,OH,J. Noah Spinner,Democratic,31326,57.054,True,False
+158374,OH,Mike Kahoe,Republican,23580,42.946,False,False
+158318,OH,Myron C. Duhart,Democratic,0,,False,False
+158318,OH,CJ Kamm,Republican,0,,False,False
+158436,OH,Jason Stephens,Republican,25332,70.067,True,False
+158436,OH,Jessica Harper,Democratic,10822,29.933,False,False
+158373,OH,Mike Odioso,Republican,32622,63.245,True,False
+158373,OH,Caleb Price,Democratic,18958,36.755,False,False
+158317,OH,Robert A. Hendrickson,Republican,0,,False,False
+158364,OH,Eric Synenberg,Democratic,39650,83.662,True,False
+158364,OH,Tina Barhams,Republican,7743,16.338,False,False
+158354,OH,Crystal Lett,Democratic,35397,62.265,True,False
+158354,OH,Shawn Kaeser,Republican,21452,37.735,False,False
+158316,OH,Marisa L. Cornachio,Republican,0,,False,False
+158363,OH,Eugene Miller,Democratic,23546,100.0,True,False
+158403,OH,Shelby Kimball,Democratic,32307,52.098,True,False
+158403,OH,Brian Lorenz,Republican,29705,47.902,False,False
+158368,OH,Cecil Thomas,Democratic,30656,100.0,True,False
+158362,OH,Nicole Sigurdson,Democratic,34676,61.48,True,False
+158362,OH,Ed Hargate,Republican,21726,38.52,False,False
+158402,OH,Tex Fischer,Republican,27956,55.671,True,False
+158402,OH,Wayne Penny Jr,Democratic,22260,44.329,False,False
+158353,OH,Mark Sigrist,Democratic,26428,59.26,True,False
+158353,OH,Denise D'Angelo,Republican,18169,40.74,False,False
+158390,OH,Diane Mullins,Republican,20424,52.638,True,False
+158390,OH,Jordan Haire,Democratic,17136,44.164,False,False
+158390,OH,Jason Purviance,Libertarian,1241,3.198,False,False
+158401,OH,John A Boccieri,Democratic,25642,63.551,True,False
+158401,OH,Heather Fronk,Republican,14707,36.449,False,False
+158352,OH,Munira Yasin Abdullahi,Democratic,28319,72.68,True,False
+158352,OH,Bruce Euans,Republican,10645,27.32,False,False
+158399,OH,Adam Mathews,Republican,29339,55.101,True,False
+158399,OH,Laalitya Acharya,Democratic,23907,44.899,False,False
+158439,OH,Ron Ferguson,Republican,24985,65.809,True,False
+158439,OH,Charrie L. Foglio,Democratic,12981,34.191,False,False
+158429,OH,Ben Weber,Republican,26269,59.2,True,False
+158429,OH,Kent Halloran,Democratic,18104,40.8,False,False
+158351,OH,Anita Somani,Democratic,35305,70.791,True,False
+158351,OH,Kelly Hunter- Kalagidis,Republican,14567,29.209,False,False
+158398,OH,C. Michelle Teska,Republican,37808,64.886,True,False
+158398,OH,Paul Michael Kurtz,Democratic,18729,32.143,False,False
+158398,OH,Philip L. Pirdy,Libertarian,1731,2.971,False,False
+158438,OH,Ty Moore,Republican,22414,60.266,True,False
+158438,OH,Paul Cameron,Democratic,14778,39.734,False,False
+158357,OH,Sean Patrick Brennan,Democratic,25387,65.691,True,False
+158357,OH,David J. Morgan,Republican,13259,34.309,False,False
+87527,OH,Sherrod Brown,Democratic,2301042,50.002,True,False
+87527,OH,Jon Husted,Republican,2077748,45.15,False,False
+87527,OH,William B. Redpath,Libertarian,128272,2.787,False,False
+87527,OH,Greg Levy,Other Party,94509,2.054,False,False
+87527,OH,Stephen Faris,Write-In,291,0.006,False,False
+87527,OH,Anthony Holliman,Write-In,36,0.001,False,False
+87527,OH,Timothy Telymonde,Write-In,27,0.001,False,False
+87363,OH,David P. Joyce,Republican,179467,55.031,True,False
+87363,OH,Maria Jukic,Democratic,146651,44.969,False,False
+87351,OH,David J. Taylor,Republican,175411,64.242,True,False
+87351,OH,Jen Mazzuckelli,Democratic,97638,35.758,False,False
+87364,OH,Don Leonard,Democratic,149287,51.88,True,False
+87364,OH,Mike Carey,Republican,130225,45.255,False,False
+87364,OH,Brennan Barrington,Libertarian,8135,2.827,False,False
+87364,OH,Samuel Ronan,Write-In,105,0.036,False,False
+87364,OH,Gary Josephson,Write-In,4,0.001,False,False
+87355,OH,Michael A. Rulli,Republican,163675,60.4,True,False
+87355,OH,Elizabeth Kirtley,Democratic,107310,39.6,False,False
+87361,OH,Troy Balderson,Republican,191926,59.395,True,False
+87361,OH,Jerrad Christian,Democratic,131211,40.605,False,False
+87356,OH,Brian Poindexter,Democratic,180614,54.892,True,False
+87356,OH,Max Miller,Republican,148177,45.034,False,False
+87356,OH,Andrey Joseph Martinichin,Write-In,237,0.072,False,False
+87356,OH,Thahbia Asad,Write-In,5,0.002,False,False
+87362,OH,Emilia Sykes,Democratic,190593,59.977,True,False
+87362,OH,Carey Coleman,Republican,122078,38.416,False,False
+87362,OH,Sandeep Dixit,Independent,5104,1.606,False,False
+87357,OH,Warren Davidson,Republican,168689,52.142,True,False
+87357,OH,Vanessa Enoch,Democratic,154828,47.858,False,False
+87359,OH,Kristina Knickerbocker,Democratic,149024,49.343,True,False
+87359,OH,Mike Turner,Republican,144086,47.708,False,False
+87359,OH,Thomas F. McMasters,Libertarian,8906,2.949,False,False
+87354,OH,Bob Latta,Republican,163382,54.262,True,False
+87354,OH,Brian A. Shaver,Democratic,128142,42.558,False,False
+87354,OH,Michael J. Veloff,Libertarian,9577,3.181,False,False
+87360,OH,Shontel M. Brown,Democratic,219971,83.53,True,False
+87360,OH,Mike Kirchner,Republican,43373,16.47,False,False
+87350,OH,Greg Landsman,Democratic,176453,54.382,True,False
+87350,OH,Eric Conroy,Republican,139343,42.945,False,False
+87350,OH,Nathan Weise,Libertarian,8675,2.674,False,False
+87352,OH,Joyce Beatty,Democratic,231925,77.223,True,False
+87352,OH,Cleophus Dulaney,Republican,68407,22.777,False,False
+87358,OH,Marcy Kaptur,Democratic,159306,52.696,True,False
+87358,OH,Derek Merrin,Republican,142830,47.246,False,False
+87358,OH,Kathy McKinstry,Write-In,175,0.058,False,False
+87353,OH,Jim Jordan,Republican,197084,64.494,True,False
+87353,OH,Joshua D. Kolasinski,Democratic,95497,31.25,False,False
+87353,OH,Tracey L. Tackett,Independent,13005,4.256,False,False

@@ -1,0 +1,1810 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+159513,FL,Democratic,Democratic,1906140,50.161,False,False
+159513,FL,Republican,Republican,1850866,48.707,False,False
+159513,FL,Independent,Independent,37036,0.975,False,False
+159513,FL,Libertarian,Libertarian,3941,0.104,False,False
+159513,FL,American Solidarity Party,American Solidarity Party,2044,0.054,False,False
+87070,FL,James Uthmeier,Republican,4181437,50.922,True,True
+87070,FL,Jose Javier Rodriguez,Democratic,4029954,49.078,False,False
+159512,FL,Republican,Republican,3483570,53.517,False,False
+159512,FL,Democratic,Democratic,2983284,45.832,False,False
+159512,FL,Independent,Independent,38609,0.593,False,False
+159512,FL,Libertarian,Libertarian,1370,0.021,False,False
+159512,FL,Constitution Party of Florida,Constitution Party of Florida,1185,0.018,False,False
+159512,FL,Nonpartisan,Nonpartisan,867,0.013,False,False
+159512,FL,MGT,MGT,355,0.005,False,False
+87069,FL,Byron Donalds,Republican,4135824,49.952,True,False
+87069,FL,David Jolly,Democratic,4029979,48.674,False,False
+87069,FL,Scott Eckhard Jewett,Libertarian,37945,0.458,False,False
+87069,FL,Frank J. Russo,Independent,23242,0.281,False,False
+87069,FL,Charles Burkett,Independent,15261,0.184,False,False
+87069,FL,Dean Ocean Abrams,Independent,12566,0.152,False,False
+87069,FL,Write-in,Nonpartisan,8759,0.106,False,False
+87069,FL,"Jeffrey Peter ""Dr. Jeff"" Datto",Independent,8331,0.101,False,False
+87069,FL,"Moliere ""Moe"" Dimanche",Independent,7608,0.092,False,False
+151043,FL,Yes,Nonpartisan,4922669,61.98,True,False
+151043,FL,No,Nonpartisan,3019721,38.02,False,False
+151041,FL,No,Nonpartisan,4585802,59.097,True,False
+151041,FL,Yes,Nonpartisan,3173985,40.903,False,False
+151010,FL,Yes,Nonpartisan,4300748,57.684,False,False
+151010,FL,No,Nonpartisan,3154997,42.316,False,False
+87071,FL,Blaise Ingoglia,Republican,4155082,50.93,True,True
+87071,FL,Annette Taddeo,Democratic,4003291,49.07,False,False
+87072,FL,Wilton Simpson,Republican,4164094,50.984,True,True
+87072,FL,Joey Mendoza Atkins,Democratic,3989969,48.852,False,False
+87072,FL,Write-in,Nonpartisan,13431,0.164,False,False
+151042,FL,Yes,Nonpartisan,4547358,58.21,False,False
+151042,FL,No,Nonpartisan,3264580,41.79,True,False
+166279,FL,Phyllis Smith,Nonpartisan,5424,54.17,False,False
+166279,FL,Ariel E. Vasquez,Nonpartisan,4589,45.83,False,False
+150976,FL,"William ""Bill"" Conerly",Republican,56214,61.527,True,True
+150976,FL,Harvey Shifrin,Democratic,35151,38.473,False,False
+166345,FL,Yes,Nonpartisan,7542,74.489,False,False
+166345,FL,No,Nonpartisan,2583,25.511,False,False
+150992,FL,Debra Tendrich,Democratic,25697,64.96,True,True
+150992,FL,Cathy Higgins,Republican,13861,35.04,False,False
+166745,FL,Patrick Ferguson,Nonpartisan,1669,57.453,False,False
+166745,FL,Justin Bartholomew,Nonpartisan,1236,42.547,False,False
+166794,FL,Yes,Nonpartisan,12511,55.885,False,False
+166794,FL,No,Nonpartisan,9876,44.115,False,False
+166402,FL,Neil Manimala,Democratic,278855,54.855,False,False
+166402,FL,Stacy Hahn,Republican,229491,45.145,False,False
+166810,FL,Yes,Nonpartisan,41297,70.657,False,False
+166810,FL,No,Nonpartisan,17150,29.343,False,False
+166418,FL,Yvonne Brown,Nonpartisan,448,58.031,False,False
+166418,FL,Toni Kristina Rhodus,Nonpartisan,324,41.969,False,False
+166659,FL,Yes,Nonpartisan,8356,51.054,False,False
+166659,FL,No,Nonpartisan,8011,48.946,False,False
+150922,FL,Shane Abbott,Republican,53987,77.53,True,True
+150922,FL,Alex Finney,Democratic,15647,22.47,False,False
+166700,FL,Yes,Nonpartisan,2565,82.769,False,False
+166700,FL,No,Nonpartisan,534,17.231,False,False
+166283,FL,Pam Gorman,Nonpartisan,5234,52.55,False,False
+166283,FL,Tana Llinas,Nonpartisan,4726,47.45,False,False
+166349,FL,Yes,Nonpartisan,7264,67.516,False,False
+166349,FL,No,Nonpartisan,3495,32.484,False,False
+166757,FL,Patricia Hawkins-Williams,Nonpartisan,2606,57.668,False,False
+166757,FL,Beverly Perkins,Nonpartisan,1547,34.233,False,False
+166757,FL,Mary Phillips,Nonpartisan,366,8.099,False,False
+166749,FL,Nina Culver,Nonpartisan,7308,40.937,False,False
+166749,FL,Theresa Booker,Nonpartisan,6391,35.8,False,False
+166749,FL,"Lesa ""LE"" Peerman",Nonpartisan,4153,23.263,False,False
+166357,FL,Donovan Bradley,Nonpartisan,28632,53.293,False,False
+166357,FL,Donna Mae Westrich,Nonpartisan,25094,46.707,False,False
+166598,FL,Mark Kearschner,Independent,478,56.103,False,False
+166598,FL,Patricia Penberthy,Nonpartisan,374,43.897,False,False
+166206,FL,Yes,Nonpartisan,245,67.493,False,False
+166206,FL,No,Nonpartisan,118,32.507,False,False
+166614,FL,Yes,Nonpartisan,149358,60.607,False,False
+166614,FL,No,Nonpartisan,97077,39.393,False,False
+166222,FL,Jason Bennett,Republican,1717,88.688,False,False
+166222,FL,Jenna Talleda,Democratic,219,11.312,False,False
+166463,FL,Allyson E. Berry,Nonpartisan,798,52.883,False,False
+166463,FL,Erika Jasper,Nonpartisan,711,47.117,False,False
+166679,FL,Yes,Nonpartisan,110300,75.282,False,False
+166679,FL,No,Nonpartisan,36215,24.718,False,False
+166287,FL,Javier E. Fernandez,Nonpartisan,3854,100.0,False,False
+166823,FL,Yes,Nonpartisan,7906,76.012,False,False
+166823,FL,No,Nonpartisan,2495,23.988,False,False
+150919,FL,Jon Fay,Republican,38772,56.643,True,False
+150919,FL,Johnny Austin Thompson,Democratic,29678,43.357,False,False
+166288,FL,Steve Calle,Nonpartisan,3614,100.0,False,False
+150935,FL,Taylor Yarkosky,Republican,44443,51.581,True,True
+150935,FL,Farmer Banks Helfrich,Democratic,41719,48.419,False,False
+166688,FL,Donna Mills,Nonpartisan,105050,93.627,False,False
+166688,FL,Write-in,Nonpartisan,7150,6.373,False,False
+166538,FL,Mike Lamb,Nonpartisan,711,58.567,False,False
+166538,FL,Tracy Joniec,Nonpartisan,503,41.433,False,False
+150993,FL,Rob Long,Democratic,42153,62.945,True,True
+150993,FL,Ionel Roiban,Republican,24815,37.055,False,False
+166554,FL,Yes,Nonpartisan,9044,58.571,False,False
+166554,FL,No,Nonpartisan,6397,41.429,False,False
+166354,FL,Buddy Johnson,Republican,5312,58.599,False,False
+166354,FL,Michael L. Martin,Democratic,2997,33.061,False,False
+166354,FL,Lorenzo Dixon,Independent,756,8.34,False,False
+166595,FL,Kimberly Ivory,Independent,797,51.32,False,False
+166595,FL,Preston Michael Baker,Independent,756,48.68,False,False
+166811,FL,Yes,Nonpartisan,31264,54.066,False,False
+166811,FL,No,Nonpartisan,26562,45.934,False,False
+166643,FL,Charline Lorraine Santos,Democratic,98858,51.42,False,False
+166643,FL,Amy Lockhart,Republican,93398,48.58,False,False
+166827,FL,Yes,Nonpartisan,7289,68.992,False,False
+166827,FL,No,Nonpartisan,3276,31.008,False,False
+166268,FL,Ashley Lucio,Nonpartisan,375,40.193,False,False
+166268,FL,"Edward ""Eddie"" Odabachian",Nonpartisan,321,34.405,False,False
+166268,FL,Charles Winters,Nonpartisan,237,25.402,False,False
+166292,FL,Carolina Cruz Gonzalez,Nonpartisan,3567,66.068,False,False
+166292,FL,"Magaly ""Maggie"" Gordo",Nonpartisan,1832,33.932,False,False
+166501,FL,Yes,Nonpartisan,73583,65.439,False,False
+166501,FL,No,Nonpartisan,38863,34.561,False,False
+166692,FL,Todd Dugmore,Nonpartisan,244,52.814,False,False
+166692,FL,Bruce W. Wills,Nonpartisan,218,47.186,False,False
+150948,FL,Nik Dean,Democratic,39077,56.24,True,False
+150948,FL,Emily Duda Buckley,Republican,30406,43.76,False,False
+166342,FL,No,Nonpartisan,1502,52.85,False,False
+166342,FL,Yes,Nonpartisan,1340,47.15,False,False
+166750,FL,Samson Borgelin,Nonpartisan,6403,57.175,False,False
+166750,FL,Willnae LaCroix,Nonpartisan,3458,30.878,False,False
+166750,FL,Tosha Chambers,Nonpartisan,1338,11.947,False,False
+166550,FL,Yes,Nonpartisan,8809,55.205,False,False
+166550,FL,No,Nonpartisan,7148,44.795,False,False
+166766,FL,Don D'Arminio,Nonpartisan,3228,36.136,False,False
+166766,FL,Angel Burgos,Nonpartisan,2710,30.337,False,False
+166766,FL,Scott Newton,Nonpartisan,2290,25.635,False,False
+166766,FL,Manish Kalra,Nonpartisan,705,7.892,False,False
+166399,FL,No,Nonpartisan,42906,55.255,False,False
+166399,FL,Yes,Nonpartisan,34745,44.745,False,False
+166615,FL,Larry Harvey,Republican,16909,64.403,False,False
+166615,FL,Joshua Florence,Democratic,8202,31.24,False,False
+166615,FL,Ron Burckhard,Independent,1144,4.357,False,False
+166223,FL,Mindi Hastings,Nonpartisan,649,55.281,False,False
+166223,FL,Jack P. Reynolds,Nonpartisan,525,44.719,False,False
+166808,FL,No,Nonpartisan,30750,53.836,False,False
+166808,FL,Yes,Nonpartisan,26368,46.164,False,False
+166224,FL,Phyllis Dixon,Nonpartisan,43660,69.229,False,False
+166224,FL,Heather Haendiges,Nonpartisan,19406,30.771,False,False
+166632,FL,Christopher Derbak,Nonpartisan,6250,43.627,False,False
+166632,FL,Jenny Heussner,Nonpartisan,4627,32.298,False,False
+166632,FL,Sue Perry,Nonpartisan,3449,24.075,False,False
+166624,FL,Jim DeNiro,Republican,27170,56.249,False,False
+166624,FL,Julie London,Democratic,21133,43.751,False,False
+166481,FL,No,Nonpartisan,542,68.262,False,False
+166481,FL,Yes,Nonpartisan,252,31.738,False,False
+150936,FL,Nan Cobb,Republican,47251,61.406,True,True
+150936,FL,Robyn Elaine Lawrence,Democratic,29697,38.594,False,False
+166298,FL,Yes,Nonpartisan,0,,False,False
+166298,FL,No,Nonpartisan,0,,False,False
+150945,FL,Eric Gray,Democratic,41043,56.102,True,False
+150945,FL,Erika Booth,Republican,32115,43.898,False,True
+166339,FL,Yes,Nonpartisan,6042,58.843,False,False
+166339,FL,No,Nonpartisan,4226,41.157,False,False
+166555,FL,Sarah Compton,Nonpartisan,968,52.268,False,False
+166555,FL,Wayne Garcia,Nonpartisan,884,47.732,False,False
+166771,FL,Jill Jernigan Quigley,Nonpartisan,208,64.198,False,False
+166771,FL,Edward K. Wolling,Nonpartisan,116,35.802,False,False
+166571,FL,Yes,Nonpartisan,105045,67.706,False,False
+166571,FL,No,Nonpartisan,50104,32.294,False,False
+166204,FL,Yes,Nonpartisan,20862,52.269,False,False
+166204,FL,No,Nonpartisan,19051,47.731,False,False
+166228,FL,Michelle Szafranski,Nonpartisan,1392,54.269,False,False
+166228,FL,Dennis Metheny,Nonpartisan,1173,45.731,False,False
+166444,FL,Austin Hosford,Republican,1108,62.883,False,False
+166444,FL,Lois Howell-Hunter,Democratic,654,37.117,False,False
+166628,FL,Heidi Brandt,Nonpartisan,111277,56.505,False,False
+166628,FL,Jimmy Glover,Nonpartisan,85657,43.495,False,False
+150940,FL,Chase Tramont,Republican,51381,62.328,True,True
+150940,FL,Edwin Munoz,Democratic,31056,37.672,False,False
+166494,FL,P.J. Perez,Nonpartisan,44427,64.209,False,False
+166494,FL,Tom Derzypolski,Nonpartisan,24764,35.791,False,False
+166294,FL,Jorge Arce,Nonpartisan,423,38.108,False,False
+166294,FL,Michael Tur,Nonpartisan,353,31.802,False,False
+166294,FL,Elizabeth K. Taylor-Martinez,Nonpartisan,334,30.09,False,False
+166510,FL,Yes,Nonpartisan,10598,65.094,False,False
+166510,FL,No,Nonpartisan,5683,34.906,False,False
+150990,FL,Jon Maples,Republican,38704,50.687,True,False
+150990,FL,Emily Gregory,Democratic,37655,49.313,False,True
+166359,FL,Lindsey Denmark,Nonpartisan,24754,53.088,False,False
+166359,FL,"Clarence ""CJ"" James",Nonpartisan,21874,46.912,False,False
+166767,FL,David Donzella,Nonpartisan,5381,64.831,False,False
+166767,FL,Patrick J. Mason,Nonpartisan,2919,35.169,False,False
+166567,FL,Jeff Bairstow,Republican,121697,91.854,False,False
+166567,FL,Write-in,Nonpartisan,10793,8.146,False,False
+166768,FL,Travis McEwen,Nonpartisan,6849,57.023,False,False
+166768,FL,Maryam Omidi,Nonpartisan,5162,42.977,False,False
+166376,FL,Yes,Nonpartisan,36028,82.943,False,False
+166376,FL,No,Nonpartisan,7409,17.057,False,False
+166368,FL,Yes,Nonpartisan,257438,75.928,False,False
+166368,FL,No,Nonpartisan,81619,24.072,False,False
+166417,FL,Stephanie Hinson,Nonpartisan,469,48.905,False,False
+166417,FL,Ginny Gianakos,Nonpartisan,400,41.71,False,False
+166417,FL,Ana Loney,Nonpartisan,90,9.385,False,False
+166633,FL,Rick Howard,Nonpartisan,9314,65.578,False,False
+166633,FL,David Gress,Nonpartisan,4889,34.422,False,False
+166433,FL,No,Nonpartisan,208,66.881,False,False
+166433,FL,Yes,Nonpartisan,103,33.119,False,False
+166233,FL,Yes,Nonpartisan,70142,77.574,False,False
+166233,FL,No,Nonpartisan,20277,22.426,False,False
+166282,FL,Karen Baez-Wallis,Nonpartisan,4900,45.722,False,False
+166282,FL,Tamara Mourino,Nonpartisan,3367,31.417,False,False
+166282,FL,David M. Singer,Nonpartisan,2450,22.861,False,False
+166299,FL,Yes,Nonpartisan,369949,51.583,False,False
+166299,FL,No,Nonpartisan,347247,48.417,False,False
+166707,FL,Kenneth Ivins,Independent,4826,66.419,False,False
+166707,FL,Chuck Krouse,Independent,2440,33.581,False,False
+166315,FL,Yes,Nonpartisan,65510,71.441,False,False
+166315,FL,No,Nonpartisan,26188,28.559,False,False
+166748,FL,Antonio V. Arserio,Nonpartisan,9059,49.441,False,False
+166748,FL,Mindy W. Lee,Nonpartisan,5821,31.769,False,False
+166748,FL,Jonathan Kraljic,Nonpartisan,2378,12.978,False,False
+166748,FL,Sloan Robbins,Nonpartisan,1065,5.812,False,False
+151011,FL,Yes,Nonpartisan,443327,60.649,False,False
+151011,FL,No,Nonpartisan,287640,39.351,False,False
+151035,FL,Rita Maria Baez,Nonpartisan,399034,58.33,False,False
+151035,FL,Bonita Jones-Peabody,Nonpartisan,285067,41.67,False,False
+166372,FL,"Antonio ""Tony"" Amaral Jr.",Nonpartisan,24406,60.314,False,False
+166372,FL,Jeani Duarte,Nonpartisan,16059,39.686,False,False
+166637,FL,Tryn Stimart,Nonpartisan,0,,False,False
+166637,FL,Henry N. White Jr.,Nonpartisan,0,,False,False
+166245,FL,Barry Sinoway,Nonpartisan,247,56.136,False,False
+166245,FL,William Dever,Nonpartisan,193,43.864,False,False
+166237,FL,Keith West,Nonpartisan,47134,36.387,False,False
+166237,FL,Don Antonacchio,Nonpartisan,27981,21.601,False,False
+166237,FL,Jason K. Brooke,Nonpartisan,24072,18.583,False,False
+166237,FL,David A. MacGregor Jr,Nonpartisan,23532,18.167,False,False
+166237,FL,Jason Schappert,Nonpartisan,6816,5.262,False,False
+166261,FL,Suzy Lord,Nonpartisan,5155,34.558,False,False
+166261,FL,"Robert ""B.J."" Duncan",Nonpartisan,4870,32.647,False,False
+166261,FL,Ricardo De Melo Gomes,Nonpartisan,4262,28.571,False,False
+166261,FL,Clint Rodriguez,Nonpartisan,630,4.223,False,False
+150933,FL,Amy Trask,Democratic,40475,51.352,True,False
+150933,FL,Chad Johnson,Republican,38344,48.648,False,True
+150950,FL,Ra'Shon Young,Democratic,39343,75.155,True,True
+150950,FL,Tuan Le,Republican,13006,24.845,False,False
+166511,FL,Yes,Nonpartisan,10413,63.934,False,False
+166511,FL,No,Nonpartisan,5874,36.066,False,False
+166311,FL,Yes,Nonpartisan,16614,82.378,False,False
+166311,FL,No,Nonpartisan,3554,17.622,False,False
+166552,FL,Yes,Nonpartisan,999,65.124,False,False
+166552,FL,No,Nonpartisan,535,34.876,False,False
+150967,FL,Linda Chaney,Republican,39077,51.682,True,True
+150967,FL,May Thach,Democratic,36533,48.318,False,False
+150959,FL,Samantha Scott,Republican,80410,69.87,True,True
+150959,FL,Pamala Kaye Bivins,Democratic,34675,30.13,False,False
+151008,FL,Mike Redondo,Republican,36165,58.316,True,True
+151008,FL,"Armando ""A.C."" Castillo",Democratic,25851,41.684,False,False
+166377,FL,Yes,Nonpartisan,36144,83.865,False,False
+166377,FL,No,Nonpartisan,6954,16.135,False,False
+151024,FL,Yes,Nonpartisan,438118,60.095,False,False
+151024,FL,No,Nonpartisan,290919,39.905,False,False
+166777,FL,"James ""Rob"" Shipe",Nonpartisan,790,66.892,False,False
+166777,FL,Chris Kapish,Nonpartisan,391,33.108,False,False
+166826,FL,Yes,Nonpartisan,8312,77.624,False,False
+166826,FL,No,Nonpartisan,2396,22.376,False,False
+166434,FL,Jennifer Pippin,Republican,45235,59.502,False,False
+166434,FL,Robbie Hardingham III,Democratic,30544,40.177,False,False
+166434,FL,Write-in,Nonpartisan,244,0.321,False,False
+166650,FL,Matt McMillan,Nonpartisan,2588,45.838,False,False
+166650,FL,Coury Matthew Knowles,Nonpartisan,1852,32.802,False,False
+166650,FL,Michael Pfenning,Nonpartisan,1206,21.36,False,False
+166258,FL,Vince Lago,Nonpartisan,11298,56.762,False,False
+166258,FL,Laureano Cancio,Nonpartisan,5119,25.718,False,False
+166258,FL,Jackson Rip Holmes,Nonpartisan,3487,17.519,False,False
+166691,FL,Rick Meltzer,Nonpartisan,47313,56.768,False,False
+166691,FL,Indony P. Jean Baptiste,Nonpartisan,36032,43.232,False,False
+166708,FL,Yes,Nonpartisan,55980,63.747,False,False
+166708,FL,No,Nonpartisan,31836,36.253,False,False
+166732,FL,Colman W. Ryan,Nonpartisan,3056,26.097,False,False
+166732,FL,Diana Fahmie,Nonpartisan,2762,23.587,False,False
+166732,FL,Kevin Johnson,Nonpartisan,2454,20.956,False,False
+166732,FL,Maoz Druskin,Nonpartisan,1478,12.622,False,False
+166732,FL,Kristof Von Anderson,Nonpartisan,1376,11.751,False,False
+166732,FL,"Aaron ""A-1"" Hollis",Nonpartisan,584,4.987,False,False
+150963,FL,Adam C. Anderson,Republican,46979,55.338,True,True
+150963,FL,Wendy Hoy,Democratic,37916,44.662,False,False
+166381,FL,Rodney Moore,Nonpartisan,2051,53.3,False,False
+166381,FL,Tracey Stallworth,Nonpartisan,1797,46.7,False,False
+166789,FL,Yes,Nonpartisan,10598,59.657,False,False
+166789,FL,No,Nonpartisan,7167,40.343,False,False
+166781,FL,Alison Hibbert Saffold,Nonpartisan,705,67.788,False,False
+166781,FL,Juan Manuel Vazquez Canas,Nonpartisan,335,32.212,False,False
+166389,FL,Larry Ogburn Sr.,Nonpartisan,525,53.245,False,False
+166389,FL,Kizzy L. Burch,Nonpartisan,461,46.755,False,False
+166630,FL,Oleg Lisitsyn,Nonpartisan,19329,55.516,False,False
+166630,FL,Phil Stokes,Nonpartisan,15488,44.484,False,False
+166238,FL,Sandra Lee Buxton,Nonpartisan,100870,75.293,False,False
+166238,FL,Bebe Kanter,Nonpartisan,33100,24.707,False,False
+166454,FL,Tim Murry,Nonpartisan,10770,56.438,False,False
+166454,FL,Joe Fumasi,Nonpartisan,8313,43.562,False,False
+166254,FL,Vicki L. Lopez,Nonpartisan,27385,60.497,False,False
+166254,FL,Rob Piper,Nonpartisan,17882,39.503,False,False
+166296,FL,Yes,Nonpartisan,0,,False,False
+166296,FL,No,Nonpartisan,0,,False,False
+166512,FL,Yes,Nonpartisan,10891,66.845,False,False
+166512,FL,No,Nonpartisan,5402,33.155,False,False
+150902,FL,Jake Johansson,Republican,125107,55.502,True,False
+150902,FL,Judy M. Ngying,Democratic,96363,42.75,False,False
+150902,FL,Gabriel Jude Wozniak,Libertarian,3941,1.748,False,False
+166705,FL,"James ""Jim"" Cipollone",Independent,1888,64.087,False,False
+166705,FL,David Stem,Independent,1058,35.913,False,False
+150968,FL,Luis Salazar,Democratic,26159,58.955,True,False
+150968,FL,Dan Weldon,Republican,18212,41.045,False,False
+166721,FL,Jim Bagby,Republican,28484,96.032,False,False
+166721,FL,Write-in,Nonpartisan,1177,3.968,False,False
+166521,FL,Thomas Schwarz,Nonpartisan,7716,50.57,False,False
+166521,FL,Kemp Schuessler,Nonpartisan,7542,49.43,False,False
+166570,FL,Deborah A. Edwards,Nonpartisan,99165,74.091,False,False
+166570,FL,Vivi Serena,Nonpartisan,34678,25.909,False,False
+151025,FL,Yes,Nonpartisan,758725,55.73,False,False
+151025,FL,No,Nonpartisan,602702,44.27,False,False
+166586,FL,Malinda Desruisseaux,Independent,215,52.311,False,False
+166586,FL,Matthew Ware,Independent,196,47.689,False,False
+166386,FL,Chad Bailey,Nonpartisan,746,59.159,False,False
+166386,FL,Dennis Peak,Nonpartisan,515,40.841,False,False
+166627,FL,Erin Halstead,Republican,123014,56.929,False,False
+166627,FL,Andrea Doria Kale,Democratic,93069,43.071,False,False
+166651,FL,Kevin McCann,Nonpartisan,8285,50.322,False,False
+166651,FL,Jesse Phillips,Nonpartisan,8179,49.678,False,False
+166675,FL,Kristen Cohen,Nonpartisan,530,55.036,False,False
+166675,FL,Paul Yonally,Nonpartisan,433,44.964,False,False
+150906,FL,Nick DiCeglie,Republican,108402,50.882,True,True
+150906,FL,Karla Kemp,Democratic,104645,49.118,False,False
+150972,FL,Ryan Gill,Republican,35943,56.577,True,False
+150972,FL,Tony Smith,Democratic,27586,43.423,False,False
+166533,FL,Adam Bailey,Nonpartisan,238,50.0,False,False
+166533,FL,Kyle Baber,Nonpartisan,238,50.0,False,False
+166525,FL,Sunshine Joiner,Nonpartisan,1009,54.102,False,False
+166525,FL,"Sheldon ""Mailman"" Jones",Nonpartisan,856,45.898,False,False
+150980,FL,Vanessa Oliver,Republican,54246,66.142,True,True
+150980,FL,Phillip Ray Carter,Democratic,27768,33.858,False,False
+166374,FL,Brian L. Unger,Nonpartisan,1340,68.507,False,False
+166374,FL,Joe Janukaitis,Nonpartisan,310,15.849,False,False
+166374,FL,Ray Krov,Nonpartisan,306,15.644,False,False
+166782,FL,Yes,Nonpartisan,335231,54.664,False,False
+166782,FL,No,Nonpartisan,278030,45.336,False,False
+166582,FL,Seth Weightman,Republican,130809,55.361,False,False
+166582,FL,Stephanie C. Vazquez,Democratic,105475,44.639,False,False
+166798,FL,No,Nonpartisan,17481,77.5,False,False
+166798,FL,Yes,Nonpartisan,5075,22.5,False,False
+166431,FL,Yes,Nonpartisan,253488,51.723,False,False
+166431,FL,No,Nonpartisan,236601,48.277,False,False
+166455,FL,"William ""Bill"" Petersen",Nonpartisan,10968,59.631,False,False
+166455,FL,Michael Gonzalez,Nonpartisan,7425,40.369,False,False
+150910,FL,David Silvers,Democratic,135328,58.049,True,False
+150910,FL,Rick Roth,Republican,97801,41.951,False,False
+166648,FL,Lourdes Crosby García,Nonpartisan,3943,43.088,False,False
+166648,FL,Lindsay Feist,Nonpartisan,2753,30.084,False,False
+166648,FL,Travis Kelley,Nonpartisan,2455,26.828,False,False
+150911,FL,Lauren Uhlich Melo,Republican,142426,62.212,True,False
+150911,FL,David Silverberg,Democratic,86511,37.788,False,False
+166664,FL,Tim Burton,Nonpartisan,45956,36.855,False,False
+166664,FL,Sandra Fein,Nonpartisan,34357,27.553,False,False
+166664,FL,Catherine Brandhorst,Nonpartisan,34292,27.501,False,False
+166664,FL,Ed Slavin,Nonpartisan,10090,8.092,False,False
+166464,FL,Alan Reisman,Nonpartisan,1058,62.419,False,False
+166464,FL,Darel Craine,Nonpartisan,637,37.581,False,False
+166314,FL,Yes,Nonpartisan,58295,60.941,False,False
+166314,FL,No,Nonpartisan,37363,39.059,False,False
+166722,FL,Yes,Nonpartisan,21717,69.648,False,False
+166722,FL,No,Nonpartisan,9464,30.352,False,False
+166330,FL,Yes,Nonpartisan,7769,74.954,False,False
+166330,FL,No,Nonpartisan,2596,25.046,False,False
+150977,FL,Fiona McFarland,Republican,47869,53.515,True,True
+150977,FL,Lisa Klein,Democratic,41580,46.485,False,False
+166371,FL,Christy Chong,Nonpartisan,27667,50.916,False,False
+166371,FL,Trevor Tucker,Nonpartisan,26671,49.084,False,False
+166587,FL,Kevin Burton,Independent,873,57.968,False,False
+166587,FL,Jim D. Reed,Independent,633,42.032,False,False
+166611,FL,Michael E. Lee,Nonpartisan,422,51.652,False,False
+166611,FL,Roy E. Aull,Nonpartisan,395,48.348,False,False
+166603,FL,Rosanne Cannizzo,Independent,187,58.805,False,False
+166603,FL,Chad F. Parish,Independent,131,41.195,False,False
+166236,FL,John Goede,Nonpartisan,72763,54.428,False,False
+166236,FL,Rick Mellon,Nonpartisan,60924,45.572,False,False
+150915,FL,Ileana Garcia,Republican,71136,50.592,True,True
+150915,FL,George Lavin,Democratic,69472,49.408,False,False
+166476,FL,Bonnie Raymond,Nonpartisan,846,60.645,False,False
+166476,FL,Eugene Mastrangeli,Nonpartisan,549,39.355,False,False
+166468,FL,Pam Serviss,Nonpartisan,3913,58.056,False,False
+166468,FL,Monica Luna,Nonpartisan,2827,41.944,False,False
+150965,FL,Berny Jacques,Republican,36085,53.494,True,True
+150965,FL,Susan Rochelle Leff,Democratic,31371,46.506,False,False
+166526,FL,William Bjork,Nonpartisan,26341,58.189,False,False
+166526,FL,Larry Luh,Nonpartisan,18927,41.811,False,False
+166326,FL,Yes,Nonpartisan,6906,65.286,False,False
+166326,FL,No,Nonpartisan,3672,34.714,False,False
+166542,FL,Tryn Stimart,Nonpartisan,0,,False,False
+166542,FL,Henry N. White Jr,Nonpartisan,0,,False,False
+151022,FL,Yes,Nonpartisan,445411,60.925,False,False
+151022,FL,No,Nonpartisan,285668,39.075,False,False
+166391,FL,Yes,Nonpartisan,3439,58.616,False,False
+166391,FL,No,Nonpartisan,2428,41.384,False,False
+166799,FL,No,Nonpartisan,11772,52.922,False,False
+166799,FL,Yes,Nonpartisan,10472,47.078,False,False
+166599,FL,Tammy Cox,Independent,422,51.152,False,False
+166599,FL,James Lewis,Independent,403,48.848,False,False
+166800,FL,No,Nonpartisan,15842,70.983,False,False
+166800,FL,Yes,Nonpartisan,6476,29.017,False,False
+166408,FL,Julie Campbell,Nonpartisan,284,63.535,False,False
+166408,FL,Edwin Guillot,Nonpartisan,163,36.465,False,False
+166400,FL,Harry Cohen,Democratic,66066,55.668,False,False
+166400,FL,Jackie Toledo,Republican,52613,44.332,False,False
+166257,FL,Judi Hamelburg,Nonpartisan,660,40.441,False,False
+166257,FL,Howard Goldmann,Nonpartisan,549,33.64,False,False
+166257,FL,Daniel Samaria,Nonpartisan,423,25.919,False,False
+166665,FL,Gary Howell,Nonpartisan,47516,39.107,False,False
+166665,FL,Jason Smith,Nonpartisan,40092,32.997,False,False
+166665,FL,George Tom Anagnos,Nonpartisan,22779,18.748,False,False
+166665,FL,Merrill Paul Roland,Nonpartisan,11115,9.148,False,False
+166273,FL,Juan Stefano,Nonpartisan,222,27.106,False,False
+166273,FL,Gloria Hernandez,Nonpartisan,208,25.397,False,False
+166273,FL,Edgar Ayala,Nonpartisan,149,18.193,False,False
+166273,FL,Lizelh Rodriguez,Nonpartisan,130,15.873,False,False
+166273,FL,Ivan Pacheco,Nonpartisan,110,13.431,False,False
+150920,FL,Nathan Boyles,Republican,49703,72.869,True,True
+150920,FL,Ingrid D. Wadsworth,Democratic,18506,27.131,False,False
+150962,FL,Brad Yeager,Republican,32324,58.696,True,True
+150962,FL,Jose Freites,Democratic,22746,41.304,False,False
+166331,FL,Yes,Nonpartisan,6434,62.918,False,False
+166331,FL,No,Nonpartisan,3792,37.082,False,False
+166739,FL,Joy D. Adams,Nonpartisan,6570,72.477,False,False
+166739,FL,"Cheryl ""WhoDat"" Robinson",Nonpartisan,2495,27.523,False,False
+166347,FL,No,Nonpartisan,5242,53.343,False,False
+166347,FL,Yes,Nonpartisan,4585,46.657,False,False
+166780,FL,Allan Beckmann Jr.,Nonpartisan,642,62.88,False,False
+166780,FL,Michael Cuevas,Nonpartisan,379,37.12,False,False
+166804,FL,Yes,Nonpartisan,47886,81.082,False,False
+166804,FL,No,Nonpartisan,11173,18.918,False,False
+166220,FL,No,Nonpartisan,5964,53.06,False,False
+166220,FL,Yes,Nonpartisan,5276,46.94,False,False
+166404,FL,Daniela Simic,Nonpartisan,57508,52.167,False,False
+166404,FL,Brittany Lyssy,Nonpartisan,52730,47.833,False,False
+166669,FL,Clay M. Hansen,Nonpartisan,14089,50.339,False,False
+166669,FL,Tom Rivers,Nonpartisan,13899,49.661,False,False
+166277,FL,Jasmine Rivera,Nonpartisan,4290,42.725,False,False
+166277,FL,Jay R. Chernoff,Nonpartisan,3277,32.636,False,False
+166277,FL,Whitney Padote,Nonpartisan,2474,24.639,False,False
+150924,FL,Allison Tant,Democratic,57126,63.485,True,True
+150924,FL,Tracy Robinson,Republican,32857,36.515,False,False
+166293,FL,Fred Spencer Deno IV,Nonpartisan,586,69.762,False,False
+166293,FL,Tim Boylan,Nonpartisan,254,30.238,False,False
+166719,FL,Yes,Nonpartisan,346,76.718,False,False
+166719,FL,No,Nonpartisan,105,23.282,False,False
+150982,FL,Susan Frantz,Republican,35569,54.148,True,False
+150982,FL,Cindy Banyai,Democratic,30119,45.852,False,False
+166543,FL,Michael A. Conner,Nonpartisan,93,57.764,False,False
+166543,FL,Angela Albrecht,Nonpartisan,68,42.236,False,False
+166343,FL,Yes,Nonpartisan,1822,64.518,False,False
+166343,FL,No,Nonpartisan,1002,35.482,False,False
+166584,FL,Matt Geiger,Independent,121882,58.341,False,False
+166584,FL,Mollyana Ward,Independent,87032,41.659,False,False
+150999,FL,Todd Delmay,Democratic,28351,55.99,True,False
+150999,FL,Hillary Cassel,Republican,22285,44.01,False,True
+150991,FL,"Jervonte ""Tae"" Edmonds",Democratic,34664,79.86,True,True
+150991,FL,William Joseph,Republican,8742,20.14,False,False
+151040,FL,Anthony Vetter,Nonpartisan,5575,50.38,False,False
+151040,FL,Ronald Howland,Nonpartisan,5491,49.62,False,False
+166409,FL,Pallu Gupta,Nonpartisan,718,56.714,False,False
+166409,FL,Cynthia McIntyre,Nonpartisan,548,43.286,False,False
+166209,FL,John Haley,Nonpartisan,34402,55.671,False,False
+166209,FL,Chris Moore,Nonpartisan,27393,44.329,False,False
+166809,FL,Yes,Nonpartisan,35238,62.274,False,False
+166809,FL,No,Nonpartisan,21347,37.726,False,False
+150905,FL,Brian Nathan,Democratic,101282,52.253,True,True
+150905,FL,Josie Tomkow,Republican,92548,47.747,False,False
+166274,FL,Mykita Cherry-Prime,Nonpartisan,4357,59.857,False,False
+166274,FL,Rod Mack,Nonpartisan,2922,40.143,False,False
+166682,FL,Jean Eddy Leroy,Democratic,66405,49.25,False,False
+166682,FL,Jamie Fowler,Republican,64758,48.029,False,False
+166682,FL,Nicholas R. Burgos,Independent,3669,2.721,False,False
+166290,FL,Larisa Svechin,Nonpartisan,3445,56.272,False,False
+166290,FL,Dana Goldman,Nonpartisan,2169,35.43,False,False
+166290,FL,Robert J. Spence III,Nonpartisan,508,8.298,False,False
+166524,FL,Carol Whitmore,Nonpartisan,866,35.289,False,False
+166524,FL,Mark Hebden,Nonpartisan,832,33.904,False,False
+166524,FL,John J. Azzata,Nonpartisan,756,30.807,False,False
+166740,FL,"Catherine ""Cat"" Uden",Nonpartisan,5148,60.736,False,False
+166740,FL,Brian A. Paruas,Nonpartisan,1933,22.806,False,False
+166740,FL,I. Feldman,Nonpartisan,1395,16.458,False,False
+166764,FL,Alfredo Ortega,Nonpartisan,11068,51.592,False,False
+166764,FL,Jaime A. Herrero,Nonpartisan,10385,48.408,False,False
+150995,FL,Kelly Skidmore,Democratic,51818,57.937,True,True
+150995,FL,Steve Byers,Republican,37620,42.063,False,False
+166413,FL,Daniel J. Leventry,Nonpartisan,1393,80.754,False,False
+166413,FL,John Vollbrecht,Nonpartisan,332,19.246,False,False
+166821,FL,Yes,Nonpartisan,1852,63.251,False,False
+166821,FL,No,Nonpartisan,1076,36.749,False,False
+166813,FL,Yes,Nonpartisan,26557,64.427,False,False
+166813,FL,No,Nonpartisan,14663,35.573,False,False
+166229,FL,Geoffrey Rovegno,Nonpartisan,330,70.213,False,False
+166229,FL,Judith Linde,Nonpartisan,140,29.787,False,False
+166662,FL,Matt Brown,Nonpartisan,4033,65.038,False,False
+166662,FL,Julie Settle,Nonpartisan,2168,34.962,False,False
+150925,FL,Marshall Rawson,Republican,43867,68.025,True,False
+150925,FL,Merrillee Malwitz Jipson,Democratic,20526,31.83,False,False
+150925,FL,Write-in,Nonpartisan,94,0.146,False,False
+166486,FL,Yes,Nonpartisan,956,59.787,False,False
+166486,FL,No,Nonpartisan,643,40.213,False,False
+166286,FL,Jill Lerner,Nonpartisan,3803,47.891,False,False
+166286,FL,Ken Fairman,Nonpartisan,2557,32.2,False,False
+166286,FL,Ramon Gonzalez Diez,Nonpartisan,1581,19.909,False,False
+166328,FL,No,Nonpartisan,5686,54.152,False,False
+166328,FL,Yes,Nonpartisan,4814,45.848,False,False
+166544,FL,Jack A. Knisley Jr,Nonpartisan,94,59.873,False,False
+166544,FL,Sandra K. Freas,Nonpartisan,63,40.127,False,False
+166696,FL,Emily Jones,Nonpartisan,174,57.049,False,False
+166696,FL,Anthony Donatélli,Nonpartisan,131,42.951,False,False
+150934,FL,J.J. Grow,Republican,61304,71.356,True,True
+150934,FL,Mark Leland Baker,Democratic,24609,28.644,False,False
+166737,FL,Heather Moraitis,Nonpartisan,8552,49.051,False,False
+166737,FL,John E. Rodstrom,Nonpartisan,8137,46.67,False,False
+166737,FL,Garry Smyth,Nonpartisan,746,4.279,False,False
+151000,FL,"Michael ""Mike"" Friend",Democratic,42933,59.876,True,False
+151000,FL,Mery Lopez-Palma,Republican,28770,40.124,False,False
+166753,FL,Aston Bright,Nonpartisan,19931,63.079,False,False
+166753,FL,H. Wayne Clark Jr.,Nonpartisan,11666,36.921,False,False
+166553,FL,Yes,Nonpartisan,3329,77.275,False,False
+166553,FL,No,Nonpartisan,979,22.725,False,False
+166602,FL,James Rossi,Independent,447,56.226,False,False
+166602,FL,Scott Derby,Independent,348,43.774,False,False
+166210,FL,Bobby Birdsell,Nonpartisan,2451,58.552,False,False
+166210,FL,Karen Custer,Nonpartisan,1735,41.448,False,False
+166618,FL,Makayla B. Charles,Nonpartisan,1585,61.553,False,False
+166618,FL,Shari Chantal Sebastiao,Nonpartisan,990,38.447,False,False
+166226,FL,Joe Adams,Nonpartisan,43173,68.142,False,False
+166226,FL,Greg Fountain,Nonpartisan,20184,31.858,False,False
+166467,FL,Jessica Bruno,Nonpartisan,1624,76.066,False,False
+166467,FL,Hugh Gravitt IV,Nonpartisan,511,23.934,False,False
+166683,FL,Nelson Frank Anderson,Nonpartisan,170,66.667,False,False
+166683,FL,Tony Cuevas,Nonpartisan,85,33.333,False,False
+166508,FL,Yes,Nonpartisan,10623,64.917,False,False
+166508,FL,No,Nonpartisan,5741,35.083,False,False
+150938,FL,Bill Partington,Republican,41126,55.685,True,True
+150938,FL,Sammy Jackson,Democratic,31359,42.46,False,False
+150938,FL,"Joseph ""Joe"" Hannoush",Libertarian,1370,1.855,False,False
+151004,FL,Gloria Romero Roses,Democratic,24778,54.587,True,False
+151004,FL,Bruno A. Barreiro,Republican,20556,45.286,False,False
+151004,FL,Write-in,Nonpartisan,58,0.128,False,False
+166565,FL,Yes,Nonpartisan,2571,82.325,False,False
+166565,FL,No,Nonpartisan,552,17.675,False,False
+166557,FL,Anna Richards,Nonpartisan,1885,61.261,False,False
+166557,FL,Joe Wischmeier,Nonpartisan,1192,38.739,False,False
+151012,FL,Yes,Nonpartisan,427580,58.776,False,False
+151012,FL,No,Nonpartisan,299892,41.224,False,False
+166406,FL,Alison McGillivray Fernandez,Nonpartisan,4828,28.494,False,False
+166406,FL,Karen Michalski,Nonpartisan,4270,25.201,False,False
+166406,FL,Amber Treat,Nonpartisan,3282,19.37,False,False
+166406,FL,Ryan Gessman,Nonpartisan,2611,15.41,False,False
+166406,FL,Eugene Papantoniou,Nonpartisan,1953,11.526,False,False
+166814,FL,Yes,Nonpartisan,25782,59.983,False,False
+166814,FL,No,Nonpartisan,17200,40.017,False,False
+166422,FL,Dustin Heflin,Nonpartisan,667,53.446,False,False
+166422,FL,Scott Corder,Nonpartisan,581,46.554,False,False
+166830,FL,Yes,Nonpartisan,4003,70.093,False,False
+166830,FL,No,Nonpartisan,1708,29.907,False,False
+166271,FL,Luis Gonzalez,Nonpartisan,22976,54.362,False,False
+166271,FL,Mariana V. Chavez,Nonpartisan,19289,45.638,False,False
+166487,FL,No,Nonpartisan,956,60.088,False,False
+166487,FL,Yes,Nonpartisan,635,39.912,False,False
+166631,FL,Jen Ahearn-Koch,Nonpartisan,11732,40.728,False,False
+166631,FL,Flo Entler,Nonpartisan,10106,35.083,False,False
+166631,FL,John Harshman,Nonpartisan,6968,24.189,False,False
+166680,FL,Yes,Nonpartisan,3270,87.832,False,False
+166680,FL,No,Nonpartisan,453,12.168,False,False
+166697,FL,Rosemary Jones,Nonpartisan,210,68.852,False,False
+166697,FL,Mike Wangle,Nonpartisan,95,31.148,False,False
+166497,FL,Jennifer Jankowski Green,Nonpartisan,1870,67.827,False,False
+166497,FL,Kurt V. Christensen,Nonpartisan,887,32.173,False,False
+166297,FL,Yes,Nonpartisan,0,,False,False
+166297,FL,No,Nonpartisan,0,,False,False
+166346,FL,Yes,Nonpartisan,8687,84.283,False,False
+166346,FL,No,Nonpartisan,1620,15.717,False,False
+166754,FL,Audrey Anne Fesik,Nonpartisan,4758,52.82,False,False
+166754,FL,Keriann Worley,Nonpartisan,4250,47.18,False,False
+166362,FL,Juan Canelones,Nonpartisan,0,,False,False
+166362,FL,Walter Repak,Nonpartisan,0,,False,False
+151009,FL,Juan Carlos Porras,Republican,34206,55.816,True,True
+151009,FL,Rey Lazaro Sordo,Democratic,27077,44.184,False,False
+166403,FL,Aileen Rodriguez,Democratic,285081,56.208,False,False
+166403,FL,Joshua Wostal,Republican,222112,43.792,False,False
+166619,FL,Randy Hebert,Nonpartisan,1564,60.108,False,False
+166619,FL,Jeffrey Alan Bowman,Nonpartisan,1038,39.892,False,False
+166451,FL,Pat Kelley,Republican,120314,91.274,False,False
+166451,FL,Write-in,Nonpartisan,11502,8.726,False,False
+166635,FL,Dave Filler,Nonpartisan,254,44.561,False,False
+166635,FL,Kristine Kaplan,Nonpartisan,226,39.649,False,False
+166635,FL,Paula Johnson Taylor,Nonpartisan,90,15.789,False,False
+150923,FL,Tricia Berry,Republican,48372,69.665,True,False
+150923,FL,Stephanie Lyn Leonard,Democratic,21063,30.335,False,False
+166701,FL,No,Nonpartisan,71181,78.09,False,False
+166701,FL,Yes,Nonpartisan,19971,21.91,False,False
+166309,FL,Yes,Nonpartisan,18585,92.01,False,False
+166309,FL,No,Nonpartisan,1614,7.99,False,False
+166301,FL,Yes,Nonpartisan,537942,73.638,False,False
+166301,FL,No,Nonpartisan,192579,26.362,False,False
+166709,FL,Yes,Nonpartisan,51408,59.572,False,False
+166709,FL,No,Nonpartisan,34887,40.428,False,False
+150997,FL,Elizabeth Holmes,Democratic,38397,50.351,True,False
+150997,FL,Megan Weinberger,Republican,36579,47.967,False,True
+150997,FL,Doug Barrow,Independent,1282,1.681,False,False
+166558,FL,Steve Friedman,Nonpartisan,1716,55.552,False,False
+166558,FL,Deb Gillis,Nonpartisan,1373,44.448,False,False
+166358,FL,"Rhodesia ""Rho"" Butler",Nonpartisan,22505,50.634,False,False
+166358,FL,"James ""Coach"" Jacobs",Nonpartisan,21720,48.868,False,False
+166358,FL,Write-in,Nonpartisan,221,0.497,False,False
+166574,FL,Genece Minshew,Nonpartisan,3736,56.071,False,False
+166574,FL,Timothy M. Poynter,Nonpartisan,2927,43.929,False,False
+166207,FL,Yes,Nonpartisan,259,70.959,False,False
+166207,FL,No,Nonpartisan,106,29.041,False,False
+166423,FL,Jessica Ocasio,Nonpartisan,791,63.381,False,False
+166423,FL,Darryl F. Dew,Nonpartisan,457,36.619,False,False
+166639,FL,John Noakes,Nonpartisan,418,78.571,False,False
+166639,FL,Roy Martin Winters,Nonpartisan,114,21.429,False,False
+166616,FL,Marie Locklin,Nonpartisan,35480,52.554,False,False
+166616,FL,Jill Broxson Teston,Nonpartisan,32031,47.446,False,False
+166640,FL,Yes,Nonpartisan,177729,84.249,False,False
+166640,FL,No,Nonpartisan,33229,15.751,False,False
+166440,FL,Yes,Nonpartisan,11383,90.327,False,False
+166440,FL,No,Nonpartisan,1219,9.673,False,False
+166432,FL,Yes,Nonpartisan,306289,61.545,False,False
+166432,FL,No,Nonpartisan,191375,38.455,False,False
+166289,FL,Lisa Bonich,Nonpartisan,3552,100.0,False,False
+166498,FL,Rick Hays,Nonpartisan,440,50.75,False,False
+166498,FL,Diane K. Lamb,Nonpartisan,427,49.25,False,False
+150953,FL,Leonard Spencer,Democratic,42850,55.171,True,True
+150953,FL,Erin Huntley,Republican,34818,44.829,False,False
+166706,FL,"James ""Jim"" Conti",Independent,1673,58.929,False,False
+166706,FL,"Harold ""Coach Hal"" Whiting",Independent,1166,41.071,False,False
+150994,FL,Peggy Gossett-Seidman,Republican,39907,52.912,True,True
+150994,FL,Luis Garcia,Democratic,35515,47.088,False,False
+166363,FL,Elena Korsakova,Nonpartisan,0,,False,False
+166363,FL,Karen Young,Nonpartisan,0,,False,False
+166579,FL,Yes,Nonpartisan,30634,62.215,False,False
+166579,FL,No,Nonpartisan,18605,37.785,False,False
+166379,FL,Yes,Nonpartisan,2446,77.997,False,False
+166379,FL,No,Nonpartisan,690,22.003,False,False
+166812,FL,Yes,Nonpartisan,31715,54.753,False,False
+166812,FL,No,Nonpartisan,26209,45.247,False,False
+166644,FL,Alena Chaban,Nonpartisan,102086,62.941,False,False
+166644,FL,Wayne Culver,Nonpartisan,60107,37.059,False,False
+166252,FL,Alexander Veiga,Nonpartisan,42,44.211,False,False
+166252,FL,Giorgio Joshua Thomas,Nonpartisan,27,28.421,False,False
+166252,FL,James F. Richardson,Nonpartisan,26,27.368,False,False
+166436,FL,Shayla Macias,Nonpartisan,361,33.488,False,False
+166436,FL,Javi Murillo,Nonpartisan,261,24.212,False,False
+166436,FL,Jose M. Zamarripa,Nonpartisan,233,21.614,False,False
+166436,FL,Fernando R. Herrera,Nonpartisan,223,20.686,False,False
+166694,FL,Christopher Hall,Nonpartisan,275,60.175,False,False
+166694,FL,Jeffrey Baldino,Nonpartisan,182,39.825,False,False
+166302,FL,Yes,Nonpartisan,489232,68.561,False,False
+166302,FL,No,Nonpartisan,224340,31.439,False,False
+150949,FL,Jarod Fox,Democratic,40520,55.462,True,False
+150949,FL,Doug Bankson,Republican,32539,44.538,False,True
+166318,FL,Yes,Nonpartisan,7631,72.325,False,False
+166318,FL,No,Nonpartisan,2920,27.675,False,False
+166751,FL,Tim Lonergan,Nonpartisan,6039,33.005,False,False
+166751,FL,Chris Fischer,Nonpartisan,5300,28.966,False,False
+166751,FL,David Anderson,Nonpartisan,3481,19.025,False,False
+166751,FL,Steven R. Arnst,Nonpartisan,3477,19.003,False,False
+151014,FL,Yes,Nonpartisan,419370,57.741,False,False
+151014,FL,No,Nonpartisan,306929,42.259,False,False
+166575,FL,Shane M. Barber,Nonpartisan,556,39.601,False,False
+166575,FL,Dallis Hunter,Nonpartisan,512,36.467,False,False
+166575,FL,Heather Gates,Nonpartisan,336,23.932,False,False
+166375,FL,Gary Masten,Nonpartisan,352,56.41,False,False
+166375,FL,Jeanna James,Nonpartisan,272,43.59,False,False
+166576,FL,Debby Portier,Nonpartisan,7656,59.761,False,False
+166576,FL,Todd Nuckols,Nonpartisan,5155,40.239,False,False
+151031,FL,Yes,Nonpartisan,1143982,63.311,False,False
+151031,FL,No,Nonpartisan,662929,36.689,False,False
+151023,FL,Yes,Nonpartisan,454733,62.358,False,False
+151023,FL,No,Nonpartisan,274500,37.642,False,False
+166225,FL,James Brooks,Nonpartisan,31673,48.978,False,False
+166225,FL,"Arthur ""AJ"" Green",Nonpartisan,24391,37.717,False,False
+166225,FL,Tyler Thompson,Nonpartisan,8604,13.305,False,False
+166441,FL,No,Nonpartisan,7172,57.312,False,False
+166441,FL,Yes,Nonpartisan,5342,42.688,False,False
+166241,FL,Patrick Dearborn,Nonpartisan,18305,65.539,False,False
+166241,FL,Elizabeth Flores,Nonpartisan,9625,34.461,False,False
+166649,FL,Amanda Hart,Nonpartisan,5444,59.536,False,False
+166649,FL,Mark Busch,Nonpartisan,3700,40.464,False,False
+150937,FL,Richard Gentry,Republican,50906,64.927,True,True
+150937,FL,Andy Ferrari,Democratic,27499,35.073,False,False
+150954,FL,Jose Alvarez,Democratic,30418,67.737,True,True
+150954,FL,Michael Cruz,Republican,13629,30.35,False,False
+150954,FL,Ivan A. Rivera,Independent,859,1.913,False,False
+166515,FL,Yes,Nonpartisan,1458,56.534,False,False
+166515,FL,No,Nonpartisan,1121,43.466,False,False
+150970,FL,Traci Koster,Republican,39835,52.532,True,True
+150970,FL,"Jose A. ""Dante"" Sanchez Sanchez",Democratic,35995,47.468,False,False
+166556,FL,Lynne Benton,Nonpartisan,245,35.559,False,False
+166556,FL,Freddie Lee Foster Jr.,Nonpartisan,227,32.946,False,False
+166556,FL,Kirk W. Diehl,Nonpartisan,217,31.495,False,False
+166772,FL,Alanna Orlen Mersinger,Nonpartisan,8341,64.509,False,False
+166772,FL,Steven Zucker,Nonpartisan,4589,35.491,False,False
+166796,FL,Yes,Nonpartisan,16120,69.378,False,False
+166796,FL,No,Nonpartisan,7115,30.622,False,False
+151027,FL,Yes,Nonpartisan,753004,55.824,False,False
+151027,FL,No,Nonpartisan,595890,44.176,False,False
+166445,FL,Jamia Bradley,Nonpartisan,612,60.296,False,False
+166445,FL,Donnie Burdick,Nonpartisan,403,39.704,False,False
+150900,FL,Jay Trumbull,Republican,145394,71.748,True,True
+150900,FL,Lauren Donahoo,Democratic,57250,28.252,False,False
+166653,FL,Cade Resnick,Nonpartisan,8380,52.968,False,False
+166653,FL,Kyle Stewart,Nonpartisan,7441,47.032,False,False
+150916,FL,Alexis Maria Calatayud,Republican,92972,49.511,True,True
+150916,FL,Richard Lamondin Jr.,Democratic,91425,48.687,False,False
+150916,FL,"Jeffrey ""Doc"" Solomon",Independent,3383,1.802,False,False
+166495,FL,Dianne Williams-Cox,Nonpartisan,35638,51.702,False,False
+166495,FL,Dot Inman-Johnson,Nonpartisan,33292,48.298,False,False
+166711,FL,Crystal McGrath,Independent,78,52.349,False,False
+166711,FL,Corey Ingram,Independent,71,47.651,False,False
+166319,FL,Yes,Nonpartisan,7704,74.213,False,False
+166319,FL,No,Nonpartisan,2677,25.787,False,False
+150966,FL,Lindsay Polega-Quigley,Democratic,40164,58.418,True,False
+150966,FL,Melissa Rutland,Republican,28589,41.582,False,False
+166360,FL,Curtis R. Ford,Nonpartisan,3847,55.36,False,False
+166360,FL,Nancy Staats,Nonpartisan,3102,44.64,False,False
+166728,FL,Adam Cervera,Nonpartisan,47126,54.248,False,False
+166728,FL,Roberto Fernandez III,Nonpartisan,39746,45.752,False,False
+166720,FL,Yes,Nonpartisan,304,71.529,False,False
+166720,FL,No,Nonpartisan,121,28.471,False,False
+166769,FL,Michael Kraus,Nonpartisan,7385,60.533,False,False
+166769,FL,Curt Tiefenbrun,Nonpartisan,4815,39.467,False,False
+151032,FL,Yes,Nonpartisan,1128924,62.774,False,False
+151032,FL,No,Nonpartisan,669473,37.226,False,False
+166785,FL,Yes,Nonpartisan,418460,66.59,False,False
+166785,FL,No,Nonpartisan,209950,33.41,False,False
+166585,FL,Shanon R. Holm,Independent,35221,50.582,False,False
+166585,FL,Greg Fuher,Independent,34411,49.418,False,False
+166634,FL,Tom Ratzki,Nonpartisan,965,58.133,False,False
+166634,FL,Kevin J. Johnson,Nonpartisan,695,41.867,False,False
+166242,FL,Christopher Lombardo,Nonpartisan,30308,58.289,False,False
+166242,FL,Matthew Boggan,Nonpartisan,21688,41.711,False,False
+166458,FL,Mitchell Langley,Nonpartisan,400,52.083,False,False
+166458,FL,Shayna Stanfield Grunewald,Nonpartisan,368,47.917,False,False
+150913,FL,Rosalind Osgood,Democratic,142960,86.127,True,True
+150913,FL,Crescente Furnaguera,Independent,23028,13.873,False,False
+166300,FL,Yes,Nonpartisan,570330,76.983,False,False
+166300,FL,No,Nonpartisan,170524,23.017,False,False
+166516,FL,"Elizabeth ""Liz"" Arnold",Republican,31934,65.974,False,False
+166516,FL,Sari Lindroos-Valimaki,Democratic,16422,33.927,False,False
+166516,FL,Write-in,Nonpartisan,48,0.099,False,False
+166540,FL,Nancy Quinn,Nonpartisan,700,55.688,False,False
+166540,FL,Grace Russolillo,Nonpartisan,557,44.312,False,False
+166724,FL,Yes,Nonpartisan,22287,71.982,False,False
+166724,FL,No,Nonpartisan,8675,28.018,False,False
+151036,FL,Tamar Hamilton,Nonpartisan,304073,53.789,False,False
+151036,FL,David Andrew Fry,Nonpartisan,261237,46.211,False,False
+166597,FL,Samuel Venger,Independent,292,52.995,False,False
+166597,FL,Michael Rudman,Independent,259,47.005,False,False
+166589,FL,Joe Lumpkin,Independent,487,54.842,False,False
+166589,FL,Raymond Lotito,Independent,401,45.158,False,False
+166805,FL,Yes,Nonpartisan,36901,62.599,False,False
+166805,FL,No,Nonpartisan,22047,37.401,False,False
+166438,FL,Aaron Vos,Nonpartisan,2784,17.748,False,False
+166438,FL,Linda Moore,Nonpartisan,2254,14.37,False,False
+166438,FL,Tracey Zudans,Nonpartisan,2228,14.204,False,False
+166438,FL,John O'Connor,Nonpartisan,2165,13.802,False,False
+166438,FL,Davis Benedict,Nonpartisan,2025,12.91,False,False
+166438,FL,Jay Kramer,Nonpartisan,1668,10.634,False,False
+166438,FL,Robert MacCallum,Nonpartisan,1589,10.13,False,False
+166438,FL,Brian Heady,Nonpartisan,973,6.203,False,False
+166654,FL,No,Nonpartisan,3045,50.331,False,False
+166654,FL,Yes,Nonpartisan,3005,49.669,False,False
+166262,FL,Mary Ann Mixon,Nonpartisan,6101,43.644,False,False
+166262,FL,Ricky Fernandez,Nonpartisan,5057,36.176,False,False
+166262,FL,James Richie Hawkins,Nonpartisan,2821,20.18,False,False
+150909,FL,Mack Bernard,Democratic,99840,64.608,True,True
+150909,FL,Jackie Green,Republican,54691,35.392,False,False
+150951,FL,Felipe Sousa Lazaballet,Democratic,49767,62.408,True,False
+150951,FL,Bonnie Jackson,Republican,29978,37.592,False,False
+166320,FL,Yes,Nonpartisan,8172,78.052,False,False
+166320,FL,No,Nonpartisan,2298,21.948,False,False
+166663,FL,Jacob Dascomb,Nonpartisan,2144,59.112,False,False
+166663,FL,Undine Celeste George,Nonpartisan,1483,40.888,False,False
+166513,FL,Andy Bailey,Republican,1761,66.831,False,False
+166513,FL,Jerome Flowers,Democratic,874,33.169,False,False
+166729,FL,Scott J. Brook,Nonpartisan,23412,55.851,False,False
+166729,FL,Joshua Antonio Simmons,Nonpartisan,18507,44.149,False,False
+166529,FL,Jacob R. Kyser,Nonpartisan,6376,61.214,False,False
+166529,FL,Derrick Warner,Nonpartisan,4040,38.786,False,False
+166329,FL,Yes,Nonpartisan,7491,71.98,False,False
+166329,FL,No,Nonpartisan,2916,28.02,False,False
+166378,FL,No,Nonpartisan,34585,79.52,False,False
+166378,FL,Yes,Nonpartisan,8907,20.48,False,False
+166786,FL,Yes,Nonpartisan,14963,81.98,False,False
+166786,FL,No,Nonpartisan,3289,18.02,False,False
+166394,FL,Jeff Holcomb,Republican,58118,88.201,False,False
+166394,FL,Write-in,Nonpartisan,7775,11.799,False,False
+166802,FL,No,Nonpartisan,11490,51.203,False,False
+166802,FL,Yes,Nonpartisan,10950,48.797,False,False
+166435,FL,Deryl Loar,Republican,47537,62.55,False,False
+166435,FL,Marc Jaffe,Democratic,28462,37.45,False,False
+166459,FL,"Keith ""Chef"" Keogh",Nonpartisan,5986,69.734,False,False
+166459,FL,Judith Fike,Nonpartisan,2598,30.266,False,False
+166483,FL,Yes,Nonpartisan,4750,75.854,False,False
+166483,FL,No,Nonpartisan,1512,24.146,False,False
+166667,FL,Sean Griswold,Nonpartisan,53616,43.969,False,False
+166667,FL,Sean Hess,Nonpartisan,37857,31.045,False,False
+166667,FL,Christopher Cannan,Nonpartisan,30468,24.986,False,False
+166733,FL,"Judith ""Judy"" Paul",Nonpartisan,18671,59.828,False,False
+166733,FL,"Jacqueline ""Jackie"" Rocha",Nonpartisan,12537,40.172,False,False
+166341,FL,No,Nonpartisan,5855,57.424,False,False
+166341,FL,Yes,Nonpartisan,4341,42.576,False,False
+166333,FL,No,Nonpartisan,2885,53.774,False,False
+166333,FL,Yes,Nonpartisan,2480,46.226,False,False
+166741,FL,Alex Recio,Nonpartisan,4654,60.269,False,False
+166741,FL,David Raskind,Nonpartisan,3068,39.731,False,False
+151029,FL,Yes,Nonpartisan,782490,58.009,False,False
+151029,FL,No,Nonpartisan,566426,41.991,False,False
+166590,FL,Linda Ramlot,Independent,374,50.336,False,False
+166590,FL,David Saad,Nonpartisan,369,49.664,False,False
+166390,FL,Yes,Nonpartisan,2929,50.457,False,False
+166390,FL,No,Nonpartisan,2876,49.543,False,False
+166606,FL,Omar Arroyo,Republican,172844,87.976,False,False
+166606,FL,Write-in,Nonpartisan,23623,12.024,False,False
+166239,FL,Ed Brandt,Nonpartisan,83137,63.884,False,False
+166239,FL,Jay Kohlhagen,Nonpartisan,47000,36.116,False,False
+166263,FL,Rene Gomez,Nonpartisan,7268,53.032,False,False
+166263,FL,Richard Ramirez,Nonpartisan,6437,46.968,False,False
+166671,FL,Barbara Little,Nonpartisan,348,61.702,False,False
+166671,FL,Joe Gregory,Nonpartisan,216,38.298,False,False
+166456,FL,Christine Cruz,Nonpartisan,4372,63.271,False,False
+166456,FL,Marie Aliberti,Nonpartisan,2538,36.729,False,False
+166672,FL,Christine Mallatt,Nonpartisan,648,50.35,False,False
+166672,FL,Brad Thompson,Nonpartisan,639,49.65,False,False
+166472,FL,Michael A. Garcia,Nonpartisan,2817,40.41,False,False
+166472,FL,Bailey Stack,Nonpartisan,2621,37.599,False,False
+166472,FL,Charity McClarty,Nonpartisan,1533,21.991,False,False
+166272,FL,Silvia P. Tarafa,Nonpartisan,3012,27.484,False,False
+166272,FL,"Luis F. ""Lucho"" de la Cruz",Nonpartisan,2407,21.964,False,False
+166272,FL,Oscar Sardinas,Nonpartisan,2352,21.462,False,False
+166272,FL,Fernando Vazquez,Nonpartisan,2060,18.797,False,False
+166272,FL,Claire Amerena London,Nonpartisan,1128,10.293,False,False
+150969,FL,Karen Gonzalez Pittman,Republican,36937,50.951,True,True
+150969,FL,Ben Braver,Democratic,35558,49.049,False,False
+166530,FL,Dana Tindall,Nonpartisan,5688,50.986,False,False
+166530,FL,John Agnelli,Nonpartisan,5468,49.014,False,False
+150985,FL,Liesa Priddy,Republican,39147,60.629,True,False
+150985,FL,Arthur Boyer,Democratic,25421,39.371,False,False
+166738,FL,Mike Butler,Nonpartisan,5072,56.032,False,False
+166738,FL,Viktor Vaynshteyn,Nonpartisan,2144,23.685,False,False
+166738,FL,Matthew Mickens,Nonpartisan,1836,20.283,False,False
+151026,FL,Yes,Nonpartisan,739997,54.85,False,False
+151026,FL,No,Nonpartisan,609135,45.15,False,False
+166395,FL,Kara Champion,Nonpartisan,39543,54.104,False,False
+166395,FL,Susan Duval,Nonpartisan,33544,45.896,False,False
+166419,FL,Shanell McMiller Brown,Nonpartisan,541,64.946,False,False
+166419,FL,Lance C. Belka,Nonpartisan,292,35.054,False,False
+166411,FL,John I. Pollard,Nonpartisan,257,52.449,False,False
+166411,FL,Linda L. Dunn,Nonpartisan,233,47.551,False,False
+166652,FL,Victoria Bruce,Nonpartisan,9392,58.079,False,False
+166652,FL,Ken Spalthoff,Nonpartisan,6779,41.921,False,False
+166676,FL,Bud Laudenslager,Nonpartisan,1504,62.719,False,False
+166676,FL,Lindsay Sutliff,Nonpartisan,894,37.281,False,False
+166284,FL,Lasaly Changkachith,Nonpartisan,3440,34.705,False,False
+166284,FL,Alan ''AlJohn'' Farquharson,Nonpartisan,2834,28.592,False,False
+166284,FL,Carl Crawford,Nonpartisan,2007,20.248,False,False
+166284,FL,A.J. ''AL'' Lara,Nonpartisan,1631,16.455,False,False
+166276,FL,Mary Estime-Irvin,Nonpartisan,1990,52.799,False,False
+166276,FL,Jobans Jules,Nonpartisan,1348,35.765,False,False
+166276,FL,Carolina Matamoros,Nonpartisan,431,11.435,False,False
+166726,FL,Yes,Nonpartisan,22636,72.883,False,False
+166726,FL,No,Nonpartisan,8422,27.117,False,False
+166334,FL,Yes,Nonpartisan,5447,56.822,False,False
+166334,FL,No,Nonpartisan,4139,43.178,False,False
+150981,FL,Tiffany Esposito,Republican,34241,55.482,True,True
+150981,FL,Cornelius Fowler,Democratic,27475,44.518,False,False
+166350,FL,No,Nonpartisan,2083,50.278,False,False
+166350,FL,Yes,Nonpartisan,2060,49.722,False,False
+166783,FL,Yes,Nonpartisan,301421,50.704,False,False
+166783,FL,No,Nonpartisan,293056,49.296,False,False
+159600,FL,Chris Nocco,Republican,129080,57.695,True,False
+159600,FL,Jordan Hensley,Democratic,94649,42.305,False,False
+166607,FL,Kate Wallace,Nonpartisan,121957,53.387,False,False
+166607,FL,Victor Sims,Nonpartisan,106481,46.613,False,False
+166407,FL,Sebastian Johnson,Nonpartisan,233,51.893,False,False
+166407,FL,Frank B. Franco,Nonpartisan,216,48.107,False,False
+166608,FL,Debby Landgrebe,Nonpartisan,562,52.919,False,False
+166608,FL,Deborah J. Murray,Nonpartisan,500,47.081,False,False
+166216,FL,Yes,Nonpartisan,6511,85.491,False,False
+166216,FL,No,Nonpartisan,1105,14.509,False,False
+166208,FL,Yes,Nonpartisan,245,66.576,False,False
+166208,FL,No,Nonpartisan,123,33.424,False,False
+150912,FL,Lauren Book,Democratic,115214,62.837,True,False
+150912,FL,Hector Rivera,Republican,68140,37.163,False,False
+166473,FL,Walter Price,Nonpartisan,4495,63.714,False,False
+166473,FL,Amir Asghar,Nonpartisan,2560,36.286,False,False
+150928,FL,Dean Black,Republican,54684,61.255,True,True
+150928,FL,Chadd Charland,Independent,33964,38.046,False,False
+150928,FL,Write-in,Nonpartisan,624,0.699,False,False
+166681,FL,Larry D. Leet,Republican,69316,53.926,False,False
+166681,FL,Rolin Dorsainvil,Independent,59223,46.074,False,False
+166723,FL,Yes,Nonpartisan,22620,72.806,False,False
+166723,FL,No,Nonpartisan,8449,27.194,False,False
+150986,FL,Kaylee Tuck,Republican,41309,68.689,True,True
+150986,FL,Leigh Estes,Democratic,18830,31.311,False,False
+166547,FL,Joseph Di Bartolomeo,Nonpartisan,564,61.371,False,False
+166547,FL,Karin Murphy,Nonpartisan,355,38.629,False,False
+151002,FL,Lucia Baez-Geller,Democratic,30932,53.97,True,False
+151002,FL,Fabian Basabe,Republican,26381,46.03,False,True
+166588,FL,Jessica Pisculli,Independent,739,57.42,False,False
+166588,FL,Brice Bird,Independent,548,42.58,False,False
+166612,FL,Cheryl Winchester,Nonpartisan,426,50.594,False,False
+166612,FL,Bob Zelazny,Nonpartisan,416,49.406,False,False
+166828,FL,Yes,Nonpartisan,31534,53.967,False,False
+166828,FL,No,Nonpartisan,26898,46.033,False,False
+166212,FL,Carlos Sanchez,Nonpartisan,3915,60.0,False,False
+166212,FL,Grant B. Wittstruck,Nonpartisan,2610,40.0,False,False
+166477,FL,Yes,Nonpartisan,119943,69.264,False,False
+166477,FL,No,Nonpartisan,53225,30.736,False,False
+150932,FL,Judson Sapp,Republican,51685,70.618,True,True
+150932,FL,Lee Butler,Democratic,21505,29.382,False,False
+166685,FL,James Norwood,Nonpartisan,1549,60.179,False,False
+166685,FL,Jamaad C. Batts Sr,Nonpartisan,1025,39.821,False,False
+150941,FL,Matt Woodside,Republican,46802,59.748,True,False
+150941,FL,Daniel Lewis Cicirelli,Democratic,31530,40.252,False,False
+166527,FL,Joseph Houlihan,Nonpartisan,25520,57.496,False,False
+166527,FL,Richard Jacobs,Nonpartisan,18866,42.504,False,False
+166743,FL,"Randolph ""Randy"" Strauss",Nonpartisan,1629,53.816,False,False
+166743,FL,Edmund Fred Malkoon,Nonpartisan,1398,46.184,False,False
+166351,FL,Yes,Nonpartisan,3252,75.173,False,False
+166351,FL,No,Nonpartisan,1074,24.827,False,False
+150998,FL,Michael Terence Ferguson,Democratic,37751,52.018,True,False
+150998,FL,Yoni Anijar,Republican,34822,47.982,False,False
+166392,FL,Arthur M. Gallagher,Nonpartisan,412,65.92,False,False
+166392,FL,Tim Hitsman,Nonpartisan,213,34.08,False,False
+166352,FL,Yes,Nonpartisan,2207,51.326,False,False
+166352,FL,No,Nonpartisan,2093,48.674,False,False
+166760,FL,Kicia Daniel,Nonpartisan,4180,65.364,False,False
+166760,FL,Carol Mendelson,Nonpartisan,2215,34.636,False,False
+166752,FL,Nick Sortal,Nonpartisan,22041,64.348,False,False
+166752,FL,Timothy J. Fadgen,Nonpartisan,12212,35.652,False,False
+166801,FL,No,Nonpartisan,16675,73.65,False,False
+166801,FL,Yes,Nonpartisan,5966,26.35,False,False
+166217,FL,Yes,Nonpartisan,5399,71.199,False,False
+166217,FL,No,Nonpartisan,2184,28.801,False,False
+166817,FL,No,Nonpartisan,1588,53.146,False,False
+166817,FL,Yes,Nonpartisan,1400,46.854,False,False
+166617,FL,Heather Lindsay,Nonpartisan,1836,67.327,False,False
+166617,FL,Howard J. Steele,Nonpartisan,891,32.673,False,False
+166666,FL,Jerry Dedge,Nonpartisan,66486,57.261,False,False
+166666,FL,John H. Wilson,Nonpartisan,49625,42.739,False,False
+150929,FL,Jessica Baker,Republican,34947,50.687,True,True
+150929,FL,Jacob Guerrero,Democratic,34000,49.313,False,False
+166490,FL,Rick Minor,Nonpartisan,16982,73.439,False,False
+166490,FL,C.B. Lorch,Nonpartisan,6142,26.561,False,False
+166699,FL,Yes,Nonpartisan,88144,67.613,False,False
+166699,FL,No,Nonpartisan,42221,32.387,False,False
+166332,FL,Yes,Nonpartisan,5690,54.627,False,False
+166332,FL,No,Nonpartisan,4726,45.373,False,False
+166548,FL,Eugene J. Rado,Nonpartisan,457,52.05,False,False
+166548,FL,Carl Teisch,Nonpartisan,421,47.95,False,False
+166572,FL,Yes,Nonpartisan,116797,74.669,False,False
+166572,FL,No,Nonpartisan,39622,25.331,False,False
+166756,FL,Alison Fournier,Nonpartisan,3940,63.528,False,False
+166756,FL,Tom McMahon,Nonpartisan,2262,36.472,False,False
+166221,FL,Yes,Nonpartisan,6548,58.397,False,False
+166221,FL,No,Nonpartisan,4665,41.603,False,False
+166629,FL,Elaine Allen-Emrich,Nonpartisan,17506,50.669,False,False
+166629,FL,Ludmila Dunchyk,Nonpartisan,17044,49.331,False,False
+166621,FL,"William ""Bill"" Heineken",Nonpartisan,316,66.247,False,False
+166621,FL,Kenneth Gerard Huete,Nonpartisan,161,33.753,False,False
+166645,FL,Dominique Douglas,Nonpartisan,8039,56.637,False,False
+166645,FL,Michael 'Mike' Brunscheen,Nonpartisan,6155,43.363,False,False
+166470,FL,Jennifer Morse,Nonpartisan,2521,36.717,False,False
+166470,FL,Chase Hansen,Nonpartisan,2198,32.013,False,False
+166470,FL,"Nathanael ""Nate"" Edmund",Nonpartisan,2147,31.27,False,False
+166686,FL,Justin R. Campbell,Nonpartisan,1466,56.385,False,False
+166686,FL,Breanna Pierce,Nonpartisan,1134,43.615,False,False
+150942,FL,Brian Hodgers,Republican,49863,57.661,True,True
+150942,FL,Juan J. Hinojosa,Democratic,36613,42.339,False,False
+166695,FL,Bill Davidson,Nonpartisan,2896,58.6,False,False
+166695,FL,Gregg Ney,Nonpartisan,2046,41.4,False,False
+150983,FL,Adam Botana,Republican,59799,65.298,True,True
+150983,FL,William Moskal,Democratic,31779,34.702,False,False
+166504,FL,Yes,Nonpartisan,79834,67.785,False,False
+166504,FL,No,Nonpartisan,37941,32.215,False,False
+166496,FL,Teegan Fiedler,Nonpartisan,213,55.759,False,False
+166496,FL,Rhod Jean Michlet Fenelus,Nonpartisan,169,44.241,False,False
+166545,FL,Jackie Petrovich,Nonpartisan,259,36.072,False,False
+166545,FL,Frank John Loviglio,Nonpartisan,246,34.262,False,False
+166545,FL,Joe Stanczyk,Nonpartisan,213,29.666,False,False
+166761,FL,Derrick Jones Jr.,Nonpartisan,2252,51.404,False,False
+166761,FL,Katrina V. Touchstone,Nonpartisan,2129,48.596,False,False
+166561,FL,Robby Majeska,Nonpartisan,2879,28.088,False,False
+166561,FL,John E. Brooke,Nonpartisan,2137,20.849,False,False
+166561,FL,Matthew Hardee,Nonpartisan,2026,19.766,False,False
+166561,FL,Anna Moon,Nonpartisan,1696,16.546,False,False
+166561,FL,Jose Peixoto,Nonpartisan,1512,14.751,False,False
+166361,FL,Lisa Herrold,Nonpartisan,3159,50.024,False,False
+166361,FL,Jennifer Lagner,Nonpartisan,3156,49.976,False,False
+166410,FL,Stephen J. Brown,Nonpartisan,660,62.147,False,False
+166410,FL,Rick L. Reidt,Nonpartisan,402,37.853,False,False
+166818,FL,No,Nonpartisan,1672,57.319,False,False
+166818,FL,Yes,Nonpartisan,1245,42.681,False,False
+166426,FL,Mirtha Amalia Moreno,Nonpartisan,1442,68.147,False,False
+166426,FL,Marc Carlton,Nonpartisan,674,31.853,False,False
+166642,FL,Yes,Nonpartisan,9928,64.644,False,False
+166642,FL,No,Nonpartisan,5430,35.356,False,False
+166275,FL,Kassandra Timothe,Nonpartisan,1924,66.208,False,False
+166275,FL,Brian Jinks,Nonpartisan,982,33.792,False,False
+166491,FL,David T. O'Keefe,Nonpartisan,18125,69.095,False,False
+166491,FL,David T. Hawkins,Nonpartisan,8107,30.905,False,False
+166316,FL,No,Nonpartisan,64035,65.221,False,False
+166316,FL,Yes,Nonpartisan,34146,34.779,False,False
+166500,FL,Yes,Nonpartisan,71898,62.941,False,False
+166500,FL,No,Nonpartisan,42333,37.059,False,False
+166765,FL,Julie A. Carson,Nonpartisan,3635,63.383,False,False
+166765,FL,Paul Rolli,Nonpartisan,1884,32.851,False,False
+166765,FL,Jerry Fisichelli,Nonpartisan,216,3.766,False,False
+166373,FL,Darlene Shelley,Nonpartisan,20214,51.374,False,False
+166373,FL,"Dylana ""Dee"" Galery",Nonpartisan,19133,48.626,False,False
+166365,FL,Carol Springer,Nonpartisan,1109,63.083,False,False
+166365,FL,William Cellar Jr.,Nonpartisan,649,36.917,False,False
+166773,FL,Mercedes B. Santana-Woodall,Nonpartisan,7276,51.131,False,False
+166773,FL,Luis Pedraza,Nonpartisan,6954,48.869,False,False
+166214,FL,Alyssa Finneyfrock,Nonpartisan,219,69.745,False,False
+166214,FL,Greg Porta,Nonpartisan,95,30.255,False,False
+166622,FL,Yes,Nonpartisan,52894,73.08,False,False
+166622,FL,No,Nonpartisan,19484,26.92,False,False
+166230,FL,Leslie G. Lewis,Nonpartisan,1065,53.897,False,False
+166230,FL,TJ Morales,Nonpartisan,911,46.103,False,False
+166638,FL,Jim Centner,Nonpartisan,826,62.671,False,False
+166638,FL,Douglas J. Kasl,Nonpartisan,492,37.329,False,False
+150926,FL,Terrance Freeman,Republican,32870,51.709,True,False
+150926,FL,Benjamin Sandlin,Democratic,30697,48.291,False,False
+150943,FL,Daniel R. McDow,Democratic,36430,50.199,True,False
+150943,FL,Monique Miller,Republican,36141,49.801,False,True
+166439,FL,Anna Kirkland,Nonpartisan,44060,66.895,False,False
+166439,FL,Craig MacCoy,Nonpartisan,21804,33.105,False,False
+166488,FL,No,Nonpartisan,1135,70.019,False,False
+166488,FL,Yes,Nonpartisan,486,29.981,False,False
+166505,FL,Yes,Nonpartisan,77542,66.237,False,False
+166505,FL,No,Nonpartisan,39525,33.763,False,False
+166305,FL,Yes,Nonpartisan,595018,81.822,False,False
+166305,FL,No,Nonpartisan,132191,18.178,False,False
+150952,FL,Samuel Vilchez Santiago,Democratic,31526,66.171,True,False
+150952,FL,Jorge Malavet,Republican,16117,33.829,False,False
+151001,FL,Robin Bartleman,Democratic,47341,69.341,True,True
+151001,FL,Imtiaz Mohammad,Republican,20932,30.659,False,False
+166562,FL,No,Nonpartisan,5674,65.512,False,False
+166562,FL,Yes,Nonpartisan,2987,34.488,False,False
+151017,FL,Yes,Nonpartisan,913434,65.596,False,False
+151017,FL,No,Nonpartisan,479083,34.404,False,False
+166770,FL,Adam Zee,Nonpartisan,778,62.54,False,False
+166770,FL,Syed Hashem,Nonpartisan,466,37.46,False,False
+166211,FL,"James ""Jamie"" Kirkland",Nonpartisan,2514,60.404,False,False
+166211,FL,Spring Overway,Nonpartisan,1648,39.596,False,False
+166427,FL,David Galloway,Nonpartisan,967,46.113,False,False
+166427,FL,Shannon Lewis,Nonpartisan,768,36.624,False,False
+166427,FL,Jodi Steel,Nonpartisan,362,17.263,False,False
+166259,FL,Nestor Menendez,Nonpartisan,10032,50.303,False,False
+166259,FL,Melissa Castro,Nonpartisan,9911,49.697,False,False
+166443,FL,Phyllis T. Daniels,Nonpartisan,2079,63.326,False,False
+166443,FL,"Michael ""MJ"" Jackson",Nonpartisan,1204,36.674,False,False
+166684,FL,Raymond Baxter,Nonpartisan,241,34.776,False,False
+166684,FL,Anna Rose Larsen,Nonpartisan,235,33.911,False,False
+166684,FL,"Joan A. ""Joni"" Conner",Nonpartisan,217,31.313,False,False
+166509,FL,Yes,Nonpartisan,10873,66.616,False,False
+166509,FL,No,Nonpartisan,5449,33.384,False,False
+150964,FL,"Kimberly ""Kim"" Berfield",Republican,39001,53.252,True,True
+150964,FL,Bryan Beckman,Democratic,34238,46.748,False,False
+150956,FL,Jennifer Kincart Jonsson,Republican,35212,59.525,True,True
+150956,FL,Robert Anzalone,Democratic,23943,40.475,False,False
+166517,FL,Amanda Ballard,Republican,10340,50.422,False,False
+166517,FL,Charles B. Smith Sr,Democratic,10167,49.578,False,False
+166758,FL,Neil C. Kerch,Nonpartisan,13803,47.613,False,False
+166758,FL,Evelyn B. Bryant,Nonpartisan,11356,39.172,False,False
+166758,FL,Emoni Nicole McGregor,Nonpartisan,3831,13.215,False,False
+166366,FL,Adesina Braxton,Nonpartisan,342,63.569,False,False
+166366,FL,Corina K. Buck,Nonpartisan,196,36.431,False,False
+151013,FL,Yes,Nonpartisan,420775,57.918,False,False
+151013,FL,No,Nonpartisan,305722,42.082,False,False
+166382,FL,Yes,Nonpartisan,10045,57.624,False,False
+166382,FL,No,Nonpartisan,7387,42.376,False,False
+166815,FL,Yes,Nonpartisan,1738,60.118,False,False
+166815,FL,No,Nonpartisan,1153,39.882,False,False
+166231,FL,Patrick Terrell,Nonpartisan,0,,False,False
+166231,FL,Sheila Torres,Nonpartisan,0,,False,False
+166447,FL,Yes,Nonpartisan,738,65.484,False,False
+166447,FL,No,Nonpartisan,389,34.516,False,False
+166424,FL,Diane C. Anderson,Nonpartisan,308,64.979,False,False
+166424,FL,Kathleen Robinson,Nonpartisan,166,35.021,False,False
+166448,FL,Yes,Nonpartisan,967,83.29,False,False
+166448,FL,No,Nonpartisan,194,16.71,False,False
+166248,FL,Yes,Nonpartisan,7569,78.901,False,False
+166248,FL,No,Nonpartisan,2024,21.099,False,False
+166240,FL,Brian O. Cross,Nonpartisan,34721,57.654,False,False
+166240,FL,Connie Bettinger,Nonpartisan,25502,42.346,False,False
+166698,FL,Yes,Nonpartisan,80098,60.809,False,False
+166698,FL,No,Nonpartisan,51623,39.191,False,False
+166306,FL,Yes,Nonpartisan,6635,55.916,False,False
+166306,FL,No,Nonpartisan,5231,44.084,False,False
+166714,FL,Brian Christenson,Nonpartisan,11302,80.89,False,False
+166714,FL,Jim Jaquess,Nonpartisan,2670,19.11,False,False
+166514,FL,"Christopher ""Chris"" Bufano",Nonpartisan,1511,57.17,False,False
+166514,FL,Laura Wahlquist Parish,Nonpartisan,1132,42.83,False,False
+166755,FL,Rhonda Eaton,Nonpartisan,3358,64.515,False,False
+166755,FL,Freddy York,Nonpartisan,1015,19.5,False,False
+166755,FL,Brandi Zabadal,Nonpartisan,832,15.985,False,False
+151018,FL,Yes,Nonpartisan,868002,62.362,False,False
+151018,FL,No,Nonpartisan,523866,37.638,False,False
+166387,FL,Yes,Nonpartisan,3461,52.896,False,False
+166387,FL,No,Nonpartisan,3082,47.104,False,False
+151034,FL,"Arthur LeMar ""Marty"" McNeil",Nonpartisan,349754,51.289,False,False
+151034,FL,Monica Segura,Nonpartisan,332173,48.711,False,False
+166620,FL,Jason Rocco,Nonpartisan,8051,61.788,False,False
+166620,FL,Christopher Tingle,Nonpartisan,4979,38.212,False,False
+166452,FL,Mike Hopper,Nonpartisan,635,79.774,False,False
+166452,FL,Zane Teeters,Nonpartisan,161,20.226,False,False
+150907,FL,Jim Boyd,Republican,134598,55.776,True,True
+150907,FL,Gerald Baldi,Democratic,106722,44.224,False,False
+166244,FL,"William H. ""Bill"" Lee",Nonpartisan,1031,73.276,False,False
+166244,FL,Eric F. Witzke,Nonpartisan,376,26.724,False,False
+166502,FL,Yes,Nonpartisan,78807,72.197,False,False
+166502,FL,No,Nonpartisan,30348,27.803,False,False
+150957,FL,Jennifer Canady,Republican,32126,54.314,True,True
+150957,FL,Ricky Santiago,Democratic,25842,43.69,False,False
+150957,FL,Jarvis Washington,Independent,1181,1.997,False,False
+166710,FL,Carrie Hughes,Republican,10489,69.889,False,False
+166710,FL,Beverly Keister,Democratic,4269,28.445,False,False
+166710,FL,Patricia Sue Dyszer,Independent,250,1.666,False,False
+150973,FL,Ashley Elizabeth Herrmann,Democratic,35455,51.667,True,False
+150973,FL,"Daniel ""Danny"" Alvarez",Republican,33167,48.333,False,True
+166559,FL,Sue Miller,Nonpartisan,1542,50.807,False,False
+166559,FL,Corie McGraw-Abel,Nonpartisan,1493,49.193,False,False
+166775,FL,"Jose ""Joe"" Morera",Nonpartisan,7997,60.327,False,False
+166775,FL,"Angelo ""Chuck"" LaRussell",Nonpartisan,5259,39.673,False,False
+166383,FL,Yes,Nonpartisan,2524,68.886,False,False
+166383,FL,No,Nonpartisan,1140,31.114,False,False
+151030,FL,Yes,Nonpartisan,1169319,64.235,False,False
+151030,FL,No,Nonpartisan,651065,35.765,False,False
+166384,FL,Yes,Nonpartisan,2303,62.735,False,False
+166384,FL,No,Nonpartisan,1368,37.265,False,False
+166792,FL,Yes,Nonpartisan,6919,52.954,False,False
+166792,FL,No,Nonpartisan,6147,47.046,False,False
+166784,FL,Yes,Nonpartisan,419832,69.38,False,False
+166784,FL,No,Nonpartisan,185284,30.62,False,False
+166641,FL,Yes,Nonpartisan,164417,78.678,False,False
+166641,FL,No,Nonpartisan,44558,21.322,False,False
+166249,FL,Clint Pittman,Nonpartisan,2728,55.504,False,False
+166249,FL,Rocky Ford,Nonpartisan,2187,44.496,False,False
+166657,FL,No,Nonpartisan,10438,63.72,False,False
+166657,FL,Yes,Nonpartisan,5943,36.28,False,False
+166457,FL,Patrick DeGrave,Nonpartisan,790,69.116,False,False
+166457,FL,Carl Yauk,Nonpartisan,353,30.884,False,False
+166499,FL,No,Nonpartisan,59753,53.606,False,False
+166499,FL,Yes,Nonpartisan,51713,46.394,False,False
+166715,FL,Yes,Nonpartisan,0,,False,False
+166715,FL,No,Nonpartisan,0,,False,False
+166323,FL,Yes,Nonpartisan,7715,71.781,False,False
+166323,FL,No,Nonpartisan,3033,28.219,False,False
+166731,FL,Jennifer Levi,Nonpartisan,17961,44.512,False,False
+166731,FL,"Jeffrey ""Jeff"" Adelman",Nonpartisan,17403,43.129,False,False
+166731,FL,Tristan Celestin,Nonpartisan,4987,12.359,False,False
+166364,FL,Raj Saralaya,Nonpartisan,0,,False,False
+166364,FL,Pawel Szeszko,Nonpartisan,0,,False,False
+166580,FL,No,Nonpartisan,576,61.935,False,False
+166580,FL,Yes,Nonpartisan,354,38.065,False,False
+166604,FL,Pamela Carr,Independent,680,58.977,False,False
+166604,FL,George Thomas,Independent,473,41.023,False,False
+166788,FL,Yes,Nonpartisan,11865,65.491,False,False
+166788,FL,No,Nonpartisan,6252,34.509,False,False
+166253,FL,No,Nonpartisan,11223,52.395,False,False
+166253,FL,Yes,Nonpartisan,10197,47.605,False,False
+166661,FL,Tammie McClafferty,Nonpartisan,17563,60.82,False,False
+166661,FL,Jillian Tozer,Nonpartisan,11314,39.18,False,False
+166461,FL,Amy Jo Carroll,Nonpartisan,800,62.305,False,False
+166461,FL,Michelle McIntyre,Nonpartisan,484,37.695,False,False
+166677,FL,Vincent Sajkowski,Nonpartisan,1172,50.085,False,False
+166677,FL,Adam Spencer,Nonpartisan,775,33.12,False,False
+166677,FL,Bruce S. Anderson,Nonpartisan,393,16.795,False,False
+166303,FL,Yes,Nonpartisan,450885,63.423,False,False
+166303,FL,No,Nonpartisan,260028,36.577,False,False
+166519,FL,Sharon Jefferson,Nonpartisan,9722,52.134,False,False
+166519,FL,Cindy Spray,Nonpartisan,8926,47.866,False,False
+150974,FL,Michael Owen,Republican,49394,52.437,True,True
+150974,FL,Luther Keith Wilkins,Democratic,44803,47.563,False,False
+166727,FL,Yes,Nonpartisan,27313,80.55,False,False
+166727,FL,No,Nonpartisan,6595,19.45,False,False
+151015,FL,Yes,Nonpartisan,424570,58.469,False,False
+151015,FL,No,Nonpartisan,301573,41.531,False,False
+166536,FL,James P. Casement,Nonpartisan,226,70.186,False,False
+166536,FL,Kevin G. Gagne,Nonpartisan,96,29.814,False,False
+166528,FL,Kyle L. Moore,Nonpartisan,9024,66.978,False,False
+166528,FL,Edward W. Stevens,Nonpartisan,4449,33.022,False,False
+166577,FL,David Swan,Nonpartisan,538,50.755,False,False
+166577,FL,William Knudsen,Nonpartisan,522,49.245,False,False
+166793,FL,Yes,Nonpartisan,9308,69.796,False,False
+166793,FL,No,Nonpartisan,4028,30.204,False,False
+166593,FL,Daniel Alvear,Independent,521,59.885,False,False
+166593,FL,Sharri Hoye,Independent,349,40.115,False,False
+166393,FL,Barbara Edmonds,Nonpartisan,1010,25.897,False,False
+166393,FL,"M. ""Mali"" Soto Gardner",Nonpartisan,908,23.282,False,False
+166393,FL,Hillary Hyslope,Nonpartisan,798,20.462,False,False
+166393,FL,Jennifer Evans,Nonpartisan,617,15.821,False,False
+166393,FL,Derrick S. Hughes,Nonpartisan,567,14.538,False,False
+166442,FL,Yes,Nonpartisan,10608,84.844,False,False
+166442,FL,No,Nonpartisan,1895,15.156,False,False
+166658,FL,Yes,Nonpartisan,11286,68.276,False,False
+166658,FL,No,Nonpartisan,5244,31.724,False,False
+166266,FL,George Alvarez,Nonpartisan,552,56.79,False,False
+166266,FL,Omarr C. Nickerson,Nonpartisan,420,43.21,False,False
+166674,FL,David Parrish,Nonpartisan,921,61.978,False,False
+166674,FL,Don Rehberg,Nonpartisan,565,38.022,False,False
+150955,FL,Jonathan Albert,Republican,34516,51.689,True,True
+150955,FL,Alethea Pugh,Democratic,32260,48.311,False,False
+166324,FL,Yes,Nonpartisan,7866,74.089,False,False
+166324,FL,No,Nonpartisan,2751,25.911,False,False
+166348,FL,Yes,Nonpartisan,6816,64.902,False,False
+166348,FL,No,Nonpartisan,3686,35.098,False,False
+166532,FL,Scott Johnson,Nonpartisan,64058,43.253,False,False
+166532,FL,"Charles ""Rick"" Richards",Nonpartisan,45107,30.457,False,False
+166532,FL,Rodney O'Quinn,Nonpartisan,38935,26.29,False,False
+166797,FL,No,Nonpartisan,13400,58.253,False,False
+166797,FL,Yes,Nonpartisan,9603,41.747,False,False
+166405,FL,Karen Perez,Nonpartisan,265068,56.902,False,False
+166405,FL,"Kenneth ""Ken"" Gay",Nonpartisan,200762,43.098,False,False
+166397,FL,Noah Hodges,Nonpartisan,1783,59.04,False,False
+166397,FL,Jennifer McCoskrie,Nonpartisan,1237,40.96,False,False
+166613,FL,Tony Reed,Nonpartisan,2239,66.776,False,False
+166613,FL,Michael C. Schouten,Nonpartisan,1114,33.224,False,False
+166246,FL,Michael Smale,Nonpartisan,269,58.991,False,False
+166246,FL,Allen Weiss,Nonpartisan,187,41.009,False,False
+166462,FL,Rick Thomas,Nonpartisan,558,21.848,False,False
+166462,FL,Jonathan Colon Mercado,Nonpartisan,510,19.969,False,False
+166462,FL,Brad Smith,Nonpartisan,467,18.285,False,False
+166462,FL,Leslie Manning,Nonpartisan,342,13.391,False,False
+166462,FL,Joshua Husemann,Nonpartisan,256,10.023,False,False
+166462,FL,Renee D. Lannaman,Nonpartisan,234,9.162,False,False
+166462,FL,Jonathan Arnold,Nonpartisan,187,7.322,False,False
+150917,FL,Ana Maria Rodriguez,Republican,95366,55.227,True,True
+150917,FL,Jose Antonio Stoute,Democratic,75447,43.692,False,False
+150917,FL,Ramiro Orta,Independent,1866,1.081,False,False
+166670,FL,Michael James Manzione,Nonpartisan,511,53.789,False,False
+166670,FL,Michael B. Sheldon,Nonpartisan,439,46.211,False,False
+166712,FL,Billy Bishop,Independent,102,68.456,False,False
+166712,FL,Jeremy Alday,Independent,47,31.544,False,False
+150975,FL,Jordan Varnadore,Republican,31183,53.914,True,False
+150975,FL,Ocean Fitts,Democratic,25332,43.798,False,False
+150975,FL,Joseph Hoolihan,Independent,1323,2.287,False,False
+166471,FL,Joe Morganelli,Nonpartisan,555,27.834,False,False
+166471,FL,Carol Womack,Nonpartisan,506,25.376,False,False
+166471,FL,Aaron Wadsworth,Nonpartisan,487,24.423,False,False
+166471,FL,Jimmy Rogers,Nonpartisan,446,22.367,False,False
+166321,FL,Yes,Nonpartisan,8387,78.508,False,False
+166321,FL,No,Nonpartisan,2296,21.492,False,False
+166537,FL,Marko Krstic,Nonpartisan,713,58.062,False,False
+166537,FL,Joyce Lynn Calderon,Nonpartisan,515,41.938,False,False
+166337,FL,No,Nonpartisan,6590,70.144,False,False
+166337,FL,Yes,Nonpartisan,2805,29.856,False,False
+150984,FL,Yvette Benarroch,Republican,56996,64.577,True,True
+150984,FL,Kim Finer,Democratic,31264,35.423,False,False
+151033,FL,Temika Hampton-Johnson,Nonpartisan,353084,64.692,False,False
+151033,FL,Charles Hart,Nonpartisan,192709,35.308,False,False
+166594,FL,Sara Schwartz,Independent,205,61.934,False,False
+166594,FL,Clinton McMahan,Independent,126,38.066,False,False
+166202,FL,Andrew Miller,Independent,1633,56.584,False,False
+166202,FL,"Timothy ""Timmy"" Guinn Jr",Independent,1253,43.416,False,False
+166610,FL,Kevin R. Marsh,Nonpartisan,579,55.248,False,False
+166610,FL,Jonathan Ridpath,Nonpartisan,469,44.752,False,False
+166243,FL,Thomas DiFlorio,Nonpartisan,2870,54.949,False,False
+166243,FL,Greg Colker,Nonpartisan,2353,45.051,False,False
+166267,FL,Kerby J. Altidor,Nonpartisan,395,41.318,False,False
+166267,FL,Edna Edelman,Nonpartisan,264,27.615,False,False
+166267,FL,Thomas Pulliam,Nonpartisan,238,24.895,False,False
+166267,FL,Anders Urbom,Nonpartisan,59,6.172,False,False
+166291,FL,Steve Hirsch,Nonpartisan,2158,38.848,False,False
+166291,FL,Alex Brisk,Nonpartisan,1239,22.304,False,False
+166291,FL,Robert Balciunas,Nonpartisan,1177,21.188,False,False
+166291,FL,David Vergel,Nonpartisan,981,17.66,False,False
+166475,FL,Robert Wolski,Nonpartisan,756,53.09,False,False
+166475,FL,John Christopher Donahue,Nonpartisan,668,46.91,False,False
+166541,FL,Jonathan Dayton,Nonpartisan,525,39.326,False,False
+166541,FL,Bill Mariotti,Nonpartisan,456,34.157,False,False
+166541,FL,Arthur Taber,Nonpartisan,354,26.517,False,False
+150996,FL,August Mangeney,Democratic,40672,56.204,True,False
+150996,FL,Anne Gerwig,Republican,31693,43.796,False,True
+150988,FL,Anthony Bonna,Republican,43124,50.12,True,False
+150988,FL,Wayne Richter,Democratic,42472,49.362,False,False
+150988,FL,Amr Metwally,MGT,355,0.413,False,False
+150988,FL,Write-in,Nonpartisan,91,0.106,False,False
+166549,FL,Yes,Nonpartisan,129288,75.832,False,False
+166549,FL,No,Nonpartisan,41204,24.168,False,False
+166790,FL,Yes,Nonpartisan,14857,82.424,False,False
+166790,FL,No,Nonpartisan,3168,17.576,False,False
+166398,FL,Laura Clark,Nonpartisan,838,60.769,False,False
+166398,FL,Darrin Bagnuolo,Nonpartisan,541,39.231,False,False
+166806,FL,Yes,Nonpartisan,48524,82.104,False,False
+166806,FL,No,Nonpartisan,10577,17.896,False,False
+166414,FL,Barbara A. Kargol,Nonpartisan,538,54.289,False,False
+166414,FL,Zoe Anene,Nonpartisan,453,45.711,False,False
+166655,FL,Yes,Nonpartisan,3126,51.764,False,False
+166655,FL,No,Nonpartisan,2913,48.236,False,False
+150918,FL,Michelle Salzman,Republican,38031,59.562,True,True
+150918,FL,Francesca Yabraian,Democratic,25820,40.438,False,False
+166479,FL,Yes,Nonpartisan,481,61.905,False,False
+166479,FL,No,Nonpartisan,296,38.095,False,False
+166264,FL,Maureen Porras,Nonpartisan,9595,50.039,False,False
+166264,FL,Fernanda Gomes,Nonpartisan,9580,49.961,False,False
+166480,FL,No,Nonpartisan,462,59.69,False,False
+166480,FL,Yes,Nonpartisan,312,40.31,False,False
+166280,FL,Natasha L. Ervin,Nonpartisan,2026,70.988,False,False
+166280,FL,Rose Tydus,Nonpartisan,828,29.012,False,False
+150927,FL,Audrey Gibson,Democratic,0,,True,False
+166730,FL,"William ""Bill"" Capplis",Nonpartisan,15616,38.914,False,False
+166730,FL,Marly Metayer,Nonpartisan,14045,34.999,False,False
+166730,FL,Terry Ann Williams Edden,Nonpartisan,6085,15.163,False,False
+166730,FL,Kohy Holmes,Nonpartisan,2713,6.761,False,False
+166730,FL,Erick Nyatenya,Nonpartisan,1671,4.164,False,False
+166338,FL,Yes,Nonpartisan,6447,68.093,False,False
+166338,FL,No,Nonpartisan,3021,31.907,False,False
+166746,FL,Denise D. Grant,Nonpartisan,17673,84.775,False,False
+166746,FL,Pauline L. Ricketts,Nonpartisan,3174,15.225,False,False
+166546,FL,Timothy Abramski,Nonpartisan,400,56.497,False,False
+166546,FL,Judy Cummings,Nonpartisan,308,43.503,False,False
+166787,FL,Yes,Nonpartisan,15825,83.646,False,False
+166787,FL,No,Nonpartisan,3094,16.354,False,False
+166203,FL,Ross Ambrose,Independent,1611,55.058,False,False
+166203,FL,Gigi Buigas,Independent,1315,44.942,False,False
+166227,FL,Leroy A. Edwards,Democratic,9284,55.046,False,False
+166227,FL,Lolita Smoak,Republican,7582,44.954,False,False
+166219,FL,No,Nonpartisan,5835,50.823,False,False
+166219,FL,Yes,Nonpartisan,5646,49.177,False,False
+166460,FL,Khrystyna McCoy-Tremaine,Nonpartisan,1217,66.213,False,False
+166460,FL,Barbara Gaines,Nonpartisan,621,33.787,False,False
+166484,FL,No,Nonpartisan,4344,55.162,False,False
+166484,FL,Yes,Nonpartisan,3531,44.838,False,False
+150939,FL,Webster Barnaby,Republican,35104,51.476,True,True
+150939,FL,Don Kanfer,Democratic,33091,48.524,False,False
+150931,FL,Sam Greco,Republican,54291,58.55,True,True
+150931,FL,Suzanna Pavelle,Democratic,38435,41.45,False,False
+166534,FL,Frank Sacca,Nonpartisan,295,70.574,False,False
+166534,FL,Bruce R. Stolarz,Nonpartisan,123,29.426,False,False
+150989,FL,John Snyder,Republican,50981,62.152,True,True
+150989,FL,Elizabeth Brendel Pandich,Democratic,31045,37.848,False,False
+166742,FL,Adam Roberti,Nonpartisan,3747,52.991,False,False
+166742,FL,Erin Marvasti,Nonpartisan,3324,47.009,False,False
+151005,FL,Omar Blanco,Republican,37724,53.042,True,True
+151005,FL,Marcos Reyes,Democratic,33397,46.958,False,False
+166591,FL,Barbara Callahan,Independent,483,64.919,False,False
+166591,FL,Marco Urrusquieta,Nonpartisan,261,35.081,False,False
+166807,FL,Yes,Nonpartisan,37005,65.199,False,False
+166807,FL,No,Nonpartisan,19752,34.801,False,False
+166415,FL,"Elizabeth ""Liz"" Santeramo",Nonpartisan,390,39.918,False,False
+166415,FL,Thomas H. Marrone,Nonpartisan,338,34.596,False,False
+166415,FL,Harry Payton Gibson,Nonpartisan,249,25.486,False,False
+166215,FL,Tim Rosson,Nonpartisan,160,52.459,False,False
+166215,FL,Kenneth Black,Nonpartisan,145,47.541,False,False
+166200,FL,Ken Cornell,Democratic,73104,74.613,False,False
+166200,FL,Dewayne Baines,Independent,24874,25.387,False,False
+166416,FL,Kamolika Batabyal,Nonpartisan,347,56.699,False,False
+166416,FL,Michele Emery,Nonpartisan,265,43.301,False,False
+166824,FL,Yes,Nonpartisan,8606,78.998,False,False
+166824,FL,No,Nonpartisan,2288,21.002,False,False
+166816,FL,No,Nonpartisan,1604,53.502,False,False
+166816,FL,Yes,Nonpartisan,1394,46.498,False,False
+166673,FL,Patricia Jacob,Nonpartisan,3313,53.255,False,False
+166673,FL,Zachary Malamud,Nonpartisan,2908,46.745,False,False
+166281,FL,Sherelean Bass,Nonpartisan,1443,37.934,False,False
+166281,FL,Audrey Dominguez,Nonpartisan,1023,26.893,False,False
+166281,FL,Brian Dennis,Nonpartisan,744,19.558,False,False
+166281,FL,Randolph Aikens,Nonpartisan,594,15.615,False,False
+166689,FL,Troy Ingersoll,Nonpartisan,60148,50.668,False,False
+166689,FL,Lisa Kessler,Nonpartisan,58562,49.332,False,False
+166489,FL,Nick Maddox,Nonpartisan,95502,95.146,False,False
+166489,FL,Write-in,Nonpartisan,4872,4.854,False,False
+166531,FL,Billy Burke,Nonpartisan,5606,53.574,False,False
+166531,FL,Keith D. Miller,Nonpartisan,4858,46.426,False,False
+166747,FL,Richard Campbell,Nonpartisan,11119,54.393,False,False
+166747,FL,Mary Smith,Nonpartisan,4511,22.067,False,False
+166747,FL,Madline Noel,Nonpartisan,3496,17.102,False,False
+166747,FL,Jalecia K. Mack,Nonpartisan,1316,6.438,False,False
+166355,FL,Ashley Brown,Nonpartisan,959,33.08,False,False
+166355,FL,Judy Wertz Strickland,Nonpartisan,607,20.938,False,False
+166355,FL,Dee Washington,Nonpartisan,539,18.593,False,False
+166355,FL,Jerome C. Reaves,Nonpartisan,401,13.832,False,False
+166355,FL,Addison Reesor,Nonpartisan,393,13.556,False,False
+166763,FL,Patricia C. Bernardini,Nonpartisan,14614,67.676,False,False
+166763,FL,German Melo,Nonpartisan,6980,32.324,False,False
+166396,FL,Robert Dan Watson,Nonpartisan,1637,53.743,False,False
+166396,FL,Betty Erhard,Nonpartisan,1409,46.257,False,False
+166420,FL,Joseph A. McGee Sr.,Nonpartisan,653,52.746,False,False
+166420,FL,Robert F. Fuhrmeister IV,Nonpartisan,585,47.254,False,False
+166636,FL,Frank Wilmer,Nonpartisan,291,57.968,False,False
+166636,FL,Bud Sabol,Nonpartisan,211,42.032,False,False
+166820,FL,Yes,Nonpartisan,1658,57.251,False,False
+166820,FL,No,Nonpartisan,1238,42.749,False,False
+166285,FL,Ralph Sanchez,Nonpartisan,4227,53.405,False,False
+166285,FL,James Suarez,Nonpartisan,3688,46.595,False,False
+166693,FL,Christina Lang Lynch,Nonpartisan,319,67.585,False,False
+166693,FL,John Hanlon,Nonpartisan,153,32.415,False,False
+166493,FL,Jeremy Matlow,Nonpartisan,37063,50.938,False,False
+166493,FL,Loranne Ausley,Nonpartisan,35698,49.062,False,False
+166702,FL,Dale Barnes,Independent,700,61.674,False,False
+166702,FL,Erica Miller,Independent,435,38.326,False,False
+166335,FL,Yes,Nonpartisan,5382,58.146,False,False
+166335,FL,No,Nonpartisan,3874,41.854,False,False
+166551,FL,Yes,Nonpartisan,14791,89.199,False,False
+166551,FL,No,Nonpartisan,1791,10.801,False,False
+151006,FL,Ashley Perez-Biliskov,Republican,33536,59.202,True,False
+151006,FL,Nicolas Ramos,Democratic,23111,40.798,False,False
+166759,FL,Jacqueline A. Guzman,Nonpartisan,20000,68.566,False,False
+166759,FL,Niccole M. Pazos,Nonpartisan,9169,31.434,False,False
+151007,FL,Kevin Chambliss,Democratic,29319,64.247,True,True
+151007,FL,Miguel Granda,Republican,16316,35.753,False,False
+166568,FL,Mike Mills,Nonpartisan,78999,56.764,False,False
+166568,FL,Brigitte Smith,Nonpartisan,60171,43.236,False,False
+166560,FL,Don Horton,Nonpartisan,1702,55.895,False,False
+166560,FL,Tom Raffanello,Nonpartisan,1343,44.105,False,False
+166609,FL,Frank J. Svarczkopf,Nonpartisan,536,51.39,False,False
+166609,FL,Daniel Davis,Nonpartisan,507,48.61,False,False
+166825,FL,Yes,Nonpartisan,6772,62.237,False,False
+166825,FL,No,Nonpartisan,4109,37.763,False,False
+166625,FL,Chip Adams,Republican,123867,56.908,False,False
+166625,FL,Jim Tate,Democratic,93795,43.092,False,False
+166425,FL,Kenneth A. Hoefle,Nonpartisan,476,52.25,False,False
+166425,FL,Danny R. Donegan Jr.,Nonpartisan,435,47.75,False,False
+166474,FL,David Allen Wagner,Nonpartisan,738,52.266,False,False
+166474,FL,Samuel Harrison Jones III,Nonpartisan,674,47.734,False,False
+166690,FL,Steven Giordano,Nonpartisan,45499,51.471,False,False
+166690,FL,Shannon M. Martin,Nonpartisan,42898,48.529,False,False
+150946,FL,Darryl Block,Democratic,38071,54.737,True,False
+150946,FL,Rachel Plakon,Republican,31481,45.263,False,True
+166507,FL,Matt Lemery,Republican,11932,66.296,False,False
+166507,FL,Lincoln Cannon,Democratic,5363,29.798,False,False
+166507,FL,Emily Ann Casey,Ecology Party of Florida,703,3.906,False,False
+150987,FL,Dana Trabulsy,Republican,35844,50.721,True,True
+150987,FL,Jennifer Massey,Democratic,34825,49.279,False,False
+166356,FL,Melina Buncome,Nonpartisan,162947,52.383,False,False
+166356,FL,Octavius A. Holliday Jr.,Nonpartisan,148123,47.617,False,False
+166380,FL,Michael K. Brown,Democratic,2602,78.777,False,False
+166380,FL,Marcella Blocker,Republican,701,21.223,False,False
+166564,FL,Yes,Nonpartisan,2034,63.802,False,False
+166564,FL,No,Nonpartisan,1154,36.198,False,False
+166829,FL,No,Nonpartisan,2240,67.066,False,False
+166829,FL,Yes,Nonpartisan,1100,32.934,False,False
+166437,FL,Sherrie Matthews,Nonpartisan,6137,31.897,False,False
+166437,FL,"Deborah ""Deb"" Shellenberger",Nonpartisan,4137,21.502,False,False
+166437,FL,Rob Gable,Nonpartisan,3953,20.546,False,False
+166437,FL,Richard H. Gillmor,Nonpartisan,3718,19.324,False,False
+166437,FL,Damien H. Gilliams,Nonpartisan,1295,6.731,False,False
+166429,FL,Nichole Ann Hawkins,Nonpartisan,398,53.423,False,False
+166429,FL,Matthew Lenard,Nonpartisan,347,46.577,False,False
+166453,FL,Kay MacQueen,Nonpartisan,508,39.595,False,False
+166453,FL,Barry Mosley,Nonpartisan,478,37.256,False,False
+166453,FL,Nolene Meeks,Nonpartisan,163,12.705,False,False
+166453,FL,Cheryl Marinelli,Nonpartisan,134,10.444,False,False
+166278,FL,Linda Joseph,Nonpartisan,4836,48.043,False,False
+166278,FL,Dayanara Torres,Nonpartisan,3041,30.211,False,False
+166278,FL,Margaret Mary ''Margie'' Love,Nonpartisan,1221,12.13,False,False
+166278,FL,Eunice Diona Flowers,Nonpartisan,968,9.617,False,False
+166295,FL,Giovanna Sousa,Nonpartisan,96,59.259,False,False
+166295,FL,Erwin Santacruz,Nonpartisan,66,40.741,False,False
+166703,FL,Don M. Buckner Sr.,Independent,178,64.493,False,False
+166703,FL,Daniel Shimasaki,Independent,98,35.507,False,False
+166503,FL,Yes,Nonpartisan,72422,64.763,False,False
+166503,FL,No,Nonpartisan,39405,35.237,False,False
+166744,FL,Theo Poulopoulos,Nonpartisan,1523,50.531,False,False
+166744,FL,Howard Goldberg,Nonpartisan,1491,49.469,False,False
+166312,FL,Yes,Nonpartisan,14288,73.23,False,False
+166312,FL,No,Nonpartisan,5223,26.77,False,False
+166304,FL,No,Nonpartisan,444960,60.412,False,False
+166304,FL,Yes,Nonpartisan,291578,39.588,False,False
+166353,FL,Yes,Nonpartisan,2762,64.098,False,False
+166353,FL,No,Nonpartisan,1547,35.902,False,False
+166569,FL,Sarah James,Nonpartisan,76999,55.272,False,False
+166569,FL,"Donald ""Donny"" Barber",Nonpartisan,62311,44.728,False,False
+166369,FL,Theresa Pontieri,Republican,38478,64.785,False,False
+166369,FL,Raymond Royer,Independent,20915,35.215,False,False
+151016,FL,Yes,Nonpartisan,873462,62.337,False,False
+151016,FL,No,Nonpartisan,527728,37.663,False,False
+166218,FL,Yes,Nonpartisan,5365,70.592,False,False
+166218,FL,No,Nonpartisan,2235,29.408,False,False
+166626,FL,Taylor T. Collins,Republican,122909,56.624,False,False
+166626,FL,Robin Williams,Democratic,94152,43.376,False,False
+166234,FL,Chris Hall,Republican,26537,76.009,False,False
+166234,FL,JEF Cody Davis,JEF,8376,23.991,False,False
+166450,FL,Leslie Campione,Republican,101395,58.318,False,False
+166450,FL,Egor Emery,Democratic,71959,41.387,False,False
+166450,FL,Write-in,Nonpartisan,513,0.295,False,False
+150930,FL,Kim Kendall,Republican,69240,65.13,True,True
+150930,FL,Art Stresing,Democratic,37070,34.87,False,False
+150947,FL,Jane Aman,Democratic,34332,58.745,True,False
+150947,FL,Robert Prater,Republican,24110,41.255,False,False
+150971,FL,Luis Viera,Democratic,34511,66.38,True,False
+150971,FL,Lisette Bonano,Republican,17479,33.62,False,False
+166308,FL,No,Nonpartisan,11038,55.669,False,False
+166308,FL,Yes,Nonpartisan,8790,44.331,False,False
+166573,FL,Yes,Nonpartisan,404,58.129,False,False
+166573,FL,No,Nonpartisan,291,41.871,False,False
+151028,FL,Yes,Nonpartisan,772331,57.194,False,False
+151028,FL,No,Nonpartisan,578032,42.806,False,False
+151020,FL,Yes,Nonpartisan,435920,59.372,False,False
+151020,FL,No,Nonpartisan,298296,40.628,False,False
+166581,FL,Yes,Nonpartisan,477,51.623,False,False
+166581,FL,No,Nonpartisan,447,48.377,False,False
+166822,FL,Yes,Nonpartisan,2003,67.875,False,False
+166822,FL,No,Nonpartisan,948,32.125,False,False
+166430,FL,Yes,Nonpartisan,287996,58.103,False,False
+166430,FL,No,Nonpartisan,207669,41.897,False,False
+166646,FL,Eric R. Soto,Nonpartisan,7878,59.475,False,False
+166646,FL,Jeff Boebinger,Nonpartisan,5368,40.525,False,False
+166446,FL,Yes,Nonpartisan,735,64.872,False,False
+166446,FL,No,Nonpartisan,398,35.128,False,False
+166687,FL,No,Nonpartisan,284,59.789,False,False
+166687,FL,Yes,Nonpartisan,191,40.211,False,False
+166704,FL,Tom Swiers,Independent,1540,53.94,False,False
+166704,FL,Frank Shallis,Independent,1315,46.06,False,False
+166247,FL,Yes,Nonpartisan,112812,70.249,False,False
+166247,FL,No,Nonpartisan,47776,29.751,False,False
+150944,FL,Robert Brackett,Republican,55024,63.0,True,True
+150944,FL,Jordyn Guadalupe Balderas,Democratic,32315,37.0,False,False
+166313,FL,Yes,Nonpartisan,3395,71.913,False,False
+166313,FL,No,Nonpartisan,1326,28.087,False,False
+150960,FL,Brian Hawkins,Republican,44396,62.353,True,False
+150960,FL,Tony Claude,Democratic,25620,35.983,False,False
+150960,FL,Christopher Anger,Constitution Party of Florida,1185,1.664,False,False
+166713,FL,Yes,Nonpartisan,8300,55.979,False,False
+166713,FL,No,Nonpartisan,6527,44.021,False,False
+166762,FL,Jajuan Burton,Nonpartisan,2368,55.147,False,False
+166762,FL,Brandon Smith,Nonpartisan,1926,44.853,False,False
+166370,FL,Leann Pennington,Republican,44755,93.661,False,False
+166370,FL,Write-in,Nonpartisan,3029,6.339,False,False
+166778,FL,Lloyd List,Nonpartisan,586,50.912,False,False
+166778,FL,"Virginia ""Ginny"" Tropea",Nonpartisan,565,49.088,False,False
+166578,FL,Jeffrey E. Robinson,Nonpartisan,544,50.605,False,False
+166578,FL,Cathleen Rutsey,Nonpartisan,531,49.395,False,False
+166819,FL,Yes,Nonpartisan,1759,60.24,False,False
+166819,FL,No,Nonpartisan,1161,39.76,False,False
+166235,FL,Dennis Bartolucci,Nonpartisan,5198,19.904,False,False
+166235,FL,Rick Woodworth,Nonpartisan,4684,17.936,False,False
+166235,FL,Teri Sommerfeld,Nonpartisan,4557,17.45,False,False
+166235,FL,Darrin Palumbo,Nonpartisan,4086,15.646,False,False
+166235,FL,Jason Bailey,Nonpartisan,4042,15.478,False,False
+166235,FL,Chris Ricci,Nonpartisan,3548,13.586,False,False
+150914,FL,Ashley Viola Gantt,Democratic,115457,78.835,True,False
+150914,FL,Elizabeth Jeanty,Republican,30997,21.165,False,False
+166251,FL,Dennis Rivera,Nonpartisan,42,67.742,False,False
+166251,FL,Kathryn Terry,Nonpartisan,20,32.258,False,False
+166492,FL,"Alva ""Striplin"" Smith",Nonpartisan,21938,94.826,False,False
+166492,FL,Write-in,Nonpartisan,1197,5.174,False,False
+166317,FL,No,Nonpartisan,15407,62.605,False,False
+166317,FL,Yes,Nonpartisan,9203,37.395,False,False
+166725,FL,Yes,Nonpartisan,21420,69.354,False,False
+166725,FL,No,Nonpartisan,9465,30.646,False,False
+166717,FL,No,Nonpartisan,4927,55.995,False,False
+166717,FL,Yes,Nonpartisan,3872,44.005,False,False
+166325,FL,Yes,Nonpartisan,8644,79.536,False,False
+166325,FL,No,Nonpartisan,2224,20.464,False,False
+166566,FL,Yes,Nonpartisan,2634,83.725,False,False
+166566,FL,No,Nonpartisan,512,16.275,False,False
+151021,FL,Yes,Nonpartisan,457009,62.293,False,False
+151021,FL,No,Nonpartisan,276634,37.707,False,False
+166774,FL,Richard Andrews,Nonpartisan,5931,59.494,False,False
+166774,FL,Sean Knowles,Nonpartisan,4038,40.506,False,False
+151037,FL,Mike Bonacolta,Nonpartisan,15720,62.485,False,True
+151037,FL,Derek Felder,Nonpartisan,9438,37.515,False,False
+166623,FL,Yes,Nonpartisan,48692,67.44,False,False
+166623,FL,No,Nonpartisan,23509,32.56,False,False
+166647,FL,Tyler Knight,Nonpartisan,5487,60.65,False,False
+166647,FL,Tim Veigle,Nonpartisan,3560,39.35,False,False
+166255,FL,Linda Cothiere,Nonpartisan,38617,51.575,False,False
+166255,FL,Katrina Wilson,Nonpartisan,36258,48.425,False,False
+166232,FL,No,Nonpartisan,60794,68.536,False,False
+166232,FL,Yes,Nonpartisan,27910,31.464,False,False
+166256,FL,Howard S. Weinberg,Nonpartisan,9801,78.894,False,False
+166256,FL,Alberto Zaltzberg,Nonpartisan,2622,21.106,False,False
+150903,FL,John Lowndes,Democratic,125129,55.953,True,False
+150903,FL,Jason Brodeur,Republican,98505,44.047,False,True
+166656,FL,No,Nonpartisan,11653,68.892,False,False
+166656,FL,Yes,Nonpartisan,5262,31.108,False,False
+166506,FL,No,Nonpartisan,68627,60.507,False,False
+166506,FL,Yes,Nonpartisan,44792,39.493,False,False
+150961,FL,Walter Price,Republican,50971,59.048,True,False
+150961,FL,Zach Funkhouser,Democratic,35350,40.952,False,False
+166522,FL,Lisa Gonzalez Moore,Nonpartisan,8632,55.892,False,False
+166522,FL,Keith J. Green,Nonpartisan,6812,44.108,False,False
+166322,FL,Yes,Nonpartisan,8082,76.389,False,False
+166322,FL,No,Nonpartisan,2498,23.611,False,False
+166563,FL,No,Nonpartisan,7627,88.102,False,False
+166563,FL,Yes,Nonpartisan,1030,11.898,False,False
+166779,FL,"Elzbieta ""Liz"" Jochim",Nonpartisan,585,52.093,False,False
+166779,FL,Kenneth Murray,Nonpartisan,538,47.907,False,False
+166803,FL,Yes,Nonpartisan,45972,78.606,False,False
+166803,FL,No,Nonpartisan,12512,21.394,False,False
+166795,FL,Yes,Nonpartisan,12226,54.277,False,False
+166795,FL,No,Nonpartisan,10299,45.723,False,False
+166428,FL,Palmer Johnson,Nonpartisan,437,58.974,False,False
+166428,FL,Alex Auld,Nonpartisan,304,41.026,False,False
+166260,FL,Nikki Whiting,Nonpartisan,10801,56.022,False,False
+166260,FL,Gonzalo Sanabria,Nonpartisan,8479,43.978,False,False
+166668,FL,Lynda I. Kirker,Nonpartisan,16161,55.183,False,False
+166668,FL,Melanie Sunshine Neale,Nonpartisan,13125,44.817,False,False
+166660,FL,Yes,Nonpartisan,12789,77.613,False,False
+166660,FL,No,Nonpartisan,3689,22.387,False,False
+166310,FL,No,Nonpartisan,10853,53.311,False,False
+166310,FL,Yes,Nonpartisan,9505,46.689,False,False
+166718,FL,Yes,Nonpartisan,320,73.227,False,False
+166718,FL,No,Nonpartisan,117,26.773,False,False
+166518,FL,Tara Poulton,Republican,103902,58.075,False,False
+166518,FL,Reggie Bellamy,Democratic,75007,41.925,False,False
+166734,FL,Michelle Whitman,Nonpartisan,2621,52.726,False,False
+166734,FL,Heloise Giraldo,Nonpartisan,1303,26.212,False,False
+166734,FL,Lains Love Albert,Nonpartisan,1047,21.062,False,False
+166367,FL,Ashley Guioa,Nonpartisan,291,53.591,False,False
+166367,FL,Terence Douglas,Nonpartisan,252,46.409,False,False
+166583,FL,Kimberly D. Coward,Independent,109022,51.894,False,False
+166583,FL,Gino Collura,Independent,101065,48.106,False,False
+151038,FL,Rebekah Lewis,Nonpartisan,970,58.399,False,False
+151038,FL,Alexandra Platonova,Nonpartisan,691,41.601,False,False
+166791,FL,No,Nonpartisan,6721,50.205,False,False
+166791,FL,Yes,Nonpartisan,6666,49.795,False,False
+151039,FL,Lisa Leger Frazier,Nonpartisan,72952,53.213,False,True
+151039,FL,Calvin Holton,Nonpartisan,64142,46.787,False,False
+166600,FL,Stephany Segatti,Independent,962,70.787,False,False
+166600,FL,Sunil Mohammed,Independent,397,29.213,False,False
+166592,FL,Bill Pellan,Independent,433,50.349,False,False
+166592,FL,David Hutsell,Independent,427,49.651,False,False
+166449,FL,Sean M. Parks,Republican,123439,88.449,False,False
+166449,FL,Write-in,Nonpartisan,16121,11.551,False,False
+150904,FL,Colleen Burton,Republican,94012,50.333,True,True
+150904,FL,Alfred Reynolds,Democratic,92769,49.667,False,False
+166465,FL,James E. DeCastro,Nonpartisan,2371,75.534,False,False
+166465,FL,Michele Fiore,Nonpartisan,768,24.466,False,False
+166265,FL,Peter Espinosa,Nonpartisan,11118,59.025,False,False
+166265,FL,Gustavo Garagorry,Nonpartisan,7718,40.975,False,False
+166307,FL,Yes,Nonpartisan,6233,52.822,False,False
+166307,FL,No,Nonpartisan,5567,47.178,False,False
+166523,FL,Dan Diggins,Nonpartisan,829,52.204,False,False
+166523,FL,David L. Zaccagnino,Nonpartisan,759,47.796,False,False
+150978,FL,Nick Pachota,Republican,54575,59.414,True,False
+150978,FL,Ryan Neill,Democratic,37280,40.586,False,False
+166539,FL,Tony Beazley,Nonpartisan,707,61.532,False,False
+166539,FL,Victor G. Colombo,Nonpartisan,442,38.468,False,False
+151019,FL,Yes,Nonpartisan,906453,65.168,False,False
+151019,FL,No,Nonpartisan,484491,34.832,False,False
+166388,FL,Travis Erixton,Republican,557,55.258,False,False
+166388,FL,Annie Pinello,Democratic,451,44.742,False,False
+166412,FL,India Crawford,Nonpartisan,3162,56.983,False,False
+166412,FL,Dennis Moore,Nonpartisan,2387,43.017,False,False
+166596,FL,Jeff Stone,Independent,328,59.854,False,False
+166596,FL,Ryan Gilbertsen,Independent,220,40.146,False,False
+150908,FL,James Buchanan,Republican,147072,55.381,True,False
+150908,FL,Lew Wasserman,Democratic,109732,41.321,False,False
+150908,FL,Martin Hyde,Independent,8759,3.298,False,False
+166469,FL,Erick Hernandez,Nonpartisan,3438,48.628,False,False
+166469,FL,Denise Calderon,Nonpartisan,2005,28.359,False,False
+166469,FL,Juan P. Camacho,Nonpartisan,1627,23.013,False,False
+166269,FL,Denise White,Nonpartisan,704,74.735,False,False
+166269,FL,Velvet S. Connally,Nonpartisan,238,25.265,False,False
+166485,FL,No,Nonpartisan,858,53.259,False,False
+166485,FL,Yes,Nonpartisan,753,46.741,False,False
+150958,FL,Octavio E. Hernandez,Democratic,36316,52.174,True,False
+150958,FL,Hilary Holley,Republican,33289,47.826,False,True
+166327,FL,Yes,Nonpartisan,7805,73.053,False,False
+166327,FL,No,Nonpartisan,2879,26.947,False,False
+166735,FL,Susan Starkey,Nonpartisan,4687,58.558,False,False
+166735,FL,Stephen Korka,Nonpartisan,1515,18.928,False,False
+166735,FL,Jordan Nelson,Nonpartisan,1156,14.443,False,False
+166735,FL,Toula Amanna,Nonpartisan,646,8.071,False,False
+166535,FL,William John Hathaway,Nonpartisan,166,52.201,False,False
+166535,FL,Leah Ogren,Nonpartisan,152,47.799,False,False
+166776,FL,Paul Stepler,Nonpartisan,7690,61.383,False,False
+166776,FL,Prem Mirpuri,Nonpartisan,4838,38.617,False,False
+166344,FL,Yes,Nonpartisan,6498,64.451,False,False
+166344,FL,No,Nonpartisan,3584,35.549,False,False
+166336,FL,Yes,Nonpartisan,6019,64.107,False,False
+166336,FL,No,Nonpartisan,3370,35.893,False,False
+166385,FL,Yes,Nonpartisan,1975,54.258,False,False
+166385,FL,No,Nonpartisan,1665,45.742,False,False
+166601,FL,Toshiya Arciaga,Independent,898,65.691,False,False
+166601,FL,Craig Margelowsky,Independent,469,34.309,False,False
+166401,FL,Gwen Myers,Democratic,71204,72.44,False,False
+166401,FL,Luiz F. F. Garcia,Republican,27090,27.56,False,False
+166201,FL,Hunter Miller,Independent,55160,58.819,False,False
+166201,FL,Janine Plavac,Independent,38620,41.181,False,False
+166250,FL,Chris Dicks,Nonpartisan,2392,54.938,False,False
+166250,FL,Everett Phillips,Nonpartisan,1962,45.062,False,False
+166466,FL,Meghan A. DeSoto,Nonpartisan,1509,70.514,False,False
+166466,FL,John F. Benavidez,Nonpartisan,631,29.486,False,False
+150921,FL,Patt Maney,Republican,43562,67.869,True,True
+150921,FL,John Peter Emerling,Democratic,20623,32.131,False,False
+166482,FL,Yes,Nonpartisan,4661,73.506,False,False
+166482,FL,No,Nonpartisan,1680,26.494,False,False
+166716,FL,Yes,Nonpartisan,6046,69.176,False,False
+166716,FL,No,Nonpartisan,2694,30.824,False,False
+150979,FL,Danny Nix Jr.,Republican,62874,64.124,True,True
+150979,FL,Cynthia L. Butler,Democratic,35176,35.876,False,False
+151003,FL,Daphne Campbell,Democratic,39278,80.877,True,False
+151003,FL,Wancito Francius,Republican,9287,19.123,False,False
+166340,FL,Yes,Nonpartisan,8028,78.475,False,False
+166340,FL,No,Nonpartisan,2202,21.525,False,False
+166605,FL,Yes,Nonpartisan,167813,74.554,False,False
+166605,FL,No,Nonpartisan,57275,25.446,False,False
+166213,FL,Mary Coburn,Nonpartisan,3244,50.553,False,False
+166213,FL,Nick Atkinson,Nonpartisan,3173,49.447,False,False
+166205,FL,Yes,Nonpartisan,263,72.253,False,False
+166205,FL,No,Nonpartisan,101,27.747,False,False
+166421,FL,Brittany Schwartzbauer,Nonpartisan,363,62.051,False,False
+166421,FL,Jayce E. Donley,Nonpartisan,222,37.949,False,False
+150901,FL,Jennifer Bradley,Republican,122619,58.221,True,True
+150901,FL,Jason Bellamy-Fults,Democratic,85945,40.808,False,False
+150901,FL,Joseph Thornton,American Solidarity Party,2044,0.971,False,False
+166270,FL,Danny Rojas,Nonpartisan,619,66.416,False,False
+166270,FL,Nick Schmidt,Nonpartisan,313,33.584,False,False
+166678,FL,Bertram Kamin,Nonpartisan,503,56.327,False,False
+166678,FL,Claire Karp,Nonpartisan,390,43.673,False,False
+166478,FL,Yes,Nonpartisan,55216,56.661,False,False
+166478,FL,No,Nonpartisan,42233,43.339,False,False
+166520,FL,"Camden ""Cam"" Bedinghaus",Nonpartisan,22557,51.66,False,False
+166520,FL,Jonathan Mullis,Nonpartisan,21107,48.34,False,False
+166736,FL,"Alexander ""Alex"" Barr",Nonpartisan,4123,42.708,False,False
+166736,FL,Marlon Luis,Nonpartisan,3788,39.238,False,False
+166736,FL,Roxana Milan,Nonpartisan,1743,18.055,False,False
+87068,FL,Ashley Moody,Republican,4211589,50.858,True,True
+87068,FL,Angie Nixon,Democratic,3974751,47.998,False,False
+87068,FL,Neil J. Gillespie,Independent,94675,1.143,False,False
+87064,FL,Jared Moskowitz,Democratic,143930,51.238,True,False
+87064,FL,Scott Singer,Republican,130881,46.592,False,False
+87064,FL,Peter Jassenoff,Libertarian,5882,2.094,False,False
+87064,FL,Write-in,Nonpartisan,214,0.076,False,False
+87056,FL,Greg Steube,Republican,209188,58.446,True,True
+87056,FL,Matthew Montavon,Democratic,143712,40.153,False,False
+87056,FL,Michael J. Quirk,Independent,5014,1.401,False,False
+87048,FL,Darren Soto,Democratic,143329,50.266,True,True
+87048,FL,Dan Green,Republican,141810,49.734,False,False
+87040,FL,Jimmy Patronis,Republican,181952,62.518,True,True
+87040,FL,Gay Valimont,Democratic,103752,35.649,False,False
+87040,FL,Tyler L. Davis,Independent,5337,1.834,False,False
+87057,FL,Scott Franklin,Republican,137715,50.331,True,True
+87057,FL,Curtis Gibson,Democratic,127771,46.697,False,False
+87057,FL,Deva Simmons,Independent,8132,2.972,False,False
+87060,FL,Brian Mast,Republican,184334,53.865,True,True
+87060,FL,James Martin,Democratic,153268,44.787,False,False
+87060,FL,Alexander Cooke,Independent,4474,1.307,False,False
+87060,FL,Write-in,Nonpartisan,141,0.041,False,False
+87052,FL,Anna Paulina Luna,Republican,155189,49.475,True,True
+87052,FL,Leela Gray,Democratic,152699,48.681,False,False
+87052,FL,Tony D'Arrigo,Independent,5782,1.843,False,False
+87044,FL,John Rutherford,Republican,188076,56.29,True,True
+87044,FL,Rachel Grage,Democratic,145345,43.501,False,False
+87044,FL,Write-in,Nonpartisan,697,0.209,False,False
+87061,FL,Pia Dandiya,Democratic,153183,51.904,True,False
+87061,FL,Casey Askar,Republican,141943,48.096,False,False
+87049,FL,Maxwell Frost,Democratic,0,,True,False
+87041,FL,Austin Rogers,Republican,161188,52.079,True,False
+87041,FL,Amanda Green,Democratic,148319,47.921,False,False
+87065,FL,Mario Diaz-Balart,Republican,114581,49.854,True,True
+87065,FL,Nicole Locklin,Democratic,112899,49.122,False,False
+87065,FL,Deborah Ann Meidinger Hosey,Independent,2352,1.023,False,False
+87050,FL,Joe Strada,Republican,193591,52.926,True,False
+87050,FL,James Pericola,Democratic,168226,45.991,False,False
+87050,FL,Ralph Groves,Libertarian,3961,1.083,False,False
+87053,FL,Kathy Castor,Democratic,153841,51.175,True,True
+87053,FL,Mike Beltran,Republican,137716,45.811,False,False
+87053,FL,Brian Lambert,Libertarian,8748,2.91,False,False
+87053,FL,Write-in,Nonpartisan,312,0.104,False,False
+87045,FL,Randy Fine,Republican,195388,58.884,True,True
+87045,FL,Eric Yonce,Democratic,132374,39.893,False,False
+87045,FL,Andrew Parrott,Libertarian,3729,1.124,False,False
+87045,FL,Write-in,Nonpartisan,328,0.099,False,False
+87062,FL,Lois Frankel,Democratic,170028,65.656,True,False
+87062,FL,Deborah Adeimy,Republican,88939,34.344,False,False
+87054,FL,Laurel Lee,Republican,163377,54.208,True,True
+87054,FL,Robert People,Democratic,137564,45.643,False,False
+87054,FL,Write-in,Nonpartisan,450,0.149,False,False
+87042,FL,Kat Cammack,Republican,165664,55.137,True,True
+87042,FL,Seth Harp,Democratic,129176,42.993,False,False
+87042,FL,Mike Klein,Independent,5621,1.871,False,False
+87066,FL,Maria Elvira Salazar,Republican,124528,50.22,True,True
+87066,FL,Eliott Rodriguez,Democratic,123438,49.78,False,False
+87058,FL,Jim Schwartzel,Republican,198766,61.11,True,False
+87058,FL,Victor Arias,Democratic,122441,37.644,False,False
+87058,FL,Seth Haskin,Independent,3998,1.229,False,False
+87058,FL,Write-in,Nonpartisan,52,0.016,False,False
+87043,FL,Aaron Bean,Republican,151217,50.209,True,True
+87043,FL,LaShonda Holloway,Democratic,144926,48.121,False,False
+87043,FL,Todd Schaefer,Independent,3195,1.061,False,False
+87043,FL,Mike Sell,Florida Forward Party,1835,0.609,False,False
+87046,FL,Ryan Elijah,Republican,161302,49.713,True,False
+87046,FL,Bale Dalton,Democratic,159682,49.213,False,False
+87046,FL,Christopher Dennison,Libertarian,3485,1.074,False,False
+87063,FL,Oliver Gilbert,Democratic,164895,80.491,True,False
+87063,FL,Mayonna Te Brown,Republican,39547,19.304,False,False
+87063,FL,Write-in,Nonpartisan,420,0.205,False,False
+87055,FL,Sydney Gruters,Republican,175653,51.2,True,False
+87055,FL,Kelly Kirschner,Democratic,161138,46.969,False,False
+87055,FL,Mark Davis,Independent,6283,1.831,False,False
+87047,FL,Mike Haridopolos,Republican,169928,53.17,True,True
+87047,FL,Jennifer Jenkins,Democratic,149667,46.83,False,False
+87067,FL,Carlos Giménez,Republican,125034,52.894,True,True
+87067,FL,Phil Ehr,Democratic,107907,45.649,False,False
+87067,FL,Eddy Rojas,Independent,3445,1.457,False,False
+87059,FL,Debbie Wasserman Schultz,Democratic,182712,74.362,True,False
+87059,FL,Brent Andersen,Republican,53396,21.732,False,False
+87059,FL,Kedner Maxime,Independent Party of Florida,9598,3.906,False,False
+87051,FL,Gus Bilirakis,Republican,150879,52.73,True,True
+87051,FL,Kimberly Overman,Democratic,131468,45.946,False,False
+87051,FL,Branden Scrivener,Independent,3790,1.325,False,False

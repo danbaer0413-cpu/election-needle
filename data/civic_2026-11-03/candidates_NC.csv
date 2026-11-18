@@ -1,0 +1,2981 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+140117,NC,Yes,Nonpartisan,2571388,61.928,True,False
+140117,NC,No,Nonpartisan,1580808,38.072,False,False
+159547,NC,Democratic,Democratic,2357478,57.783,False,False
+159547,NC,Republican,Republican,1708677,41.881,False,False
+159547,NC,Libertarian,Libertarian,12338,0.302,False,False
+159547,NC,Green,Green,1377,0.034,False,False
+140108,NC,Tobias Hampson,Democratic,2372763,56.824,True,False
+140108,NC,George Cooper Bell,Republican,1802870,43.176,False,False
+159546,NC,Democratic,Democratic,2357119,59.236,False,False
+159546,NC,Republican,Republican,1574649,39.572,False,False
+159546,NC,Libertarian,Libertarian,29988,0.754,False,False
+159546,NC,Unaffiliated,Unaffiliated,13992,0.352,False,False
+159546,NC,Green,Green,3432,0.086,False,False
+140115,NC,Anita Earls,Democratic,2469442,58.898,True,False
+140115,NC,Sarah Stevens,Republican,1723279,41.102,False,False
+140116,NC,Yes,Nonpartisan,2474609,59.612,True,False
+140116,NC,No,Nonpartisan,1676587,40.388,False,False
+140107,NC,John S. Arrowood,Democratic,2374490,56.809,True,False
+140107,NC,Michael C. Byrne,Republican,1805258,43.191,False,False
+140109,NC,Christine Marie Walczyk,Democratic,2384766,57.161,True,False
+140109,NC,Craig Collins,Republican,1787258,42.839,False,False
+140118,NC,Yes,Nonpartisan,2503667,60.419,True,False
+140118,NC,No,Nonpartisan,1640182,39.581,False,False
+140265,NC,Mitch Walker,Republican,40751,100.0,False,False
+140236,NC,Yes,Nonpartisan,72409,58.285,False,False
+140236,NC,No,Nonpartisan,51823,41.715,False,False
+140761,NC,David Shore,Nonpartisan,26422,37.817,False,False
+140761,NC,Drew Brannon,Nonpartisan,23407,33.502,False,False
+140761,NC,Brent P. Coston,Nonpartisan,19304,27.629,False,False
+140761,NC,Write-In,Nonpartisan,735,1.052,False,False
+140924,NC,Eddie Shuford,Republican,11803,92.776,False,False
+140924,NC,Write-In,Nonpartisan,919,7.224,False,False
+141311,NC,Aaron Siniard,Nonpartisan,10291,50.389,False,False
+141311,NC,Bob Twomey,Nonpartisan,9991,48.92,False,False
+141311,NC,Write-In,Nonpartisan,141,0.69,False,False
+141026,NC,Jennie Thomason,Democratic,57516,56.873,False,False
+141026,NC,Jan Giacalone Kennedy,Republican,43614,43.127,False,False
+141413,NC,Julie Whitfield,Republican,24933,100.0,False,False
+140338,NC,Rodney Adams,Democratic,4449,51.416,False,False
+140338,NC,Ron Bradsher,Republican,4204,48.584,False,False
+141077,NC,Write-In,Nonpartisan,8,100.0,False,False
+140472,NC,Frances McDuffie Britt,Democratic,68987,100.0,False,False
+140411,NC,Mark Buchanan,Republican,4674,100.0,False,False
+140389,NC,Jan Griggs,Republican,9661,100.0,False,False
+140907,NC,Alex Robinson,Republican,3078,55.29,False,False
+140907,NC,A.j. Brownstein,Democratic,2489,44.71,False,False
+140846,NC,Lou Miller,Democratic,391,66.047,False,False
+140846,NC,Ralph Gray,Republican,201,33.953,False,False
+141457,NC,Anita Darnell,Nonpartisan,508,94.6,False,False
+141457,NC,Write-In,Nonpartisan,29,5.4,False,False
+141179,NC,David Lee Edge,Republican,2397,50.115,False,False
+141179,NC,Ray Cox,Democratic,2386,49.885,False,False
+140190,NC,Angela Todd,Democratic,5277,100.0,False,False
+140484,NC,Sheila Cuffee,Democratic,18434,50.557,False,False
+140484,NC,Glenn Adams,Democratic,18028,49.443,False,False
+140231,NC,Kim Roney,Nonpartisan,25676,57.878,False,False
+140231,NC,Esther Manheimer,Nonpartisan,18375,41.421,False,False
+140231,NC,Write-In,Nonpartisan,311,0.701,False,False
+140426,NC,Ronnie D. Strickland,Republican,7624,61.578,False,False
+140426,NC,Beatrice Addison,Democratic,4757,38.422,False,False
+140948,NC,Samantha C. Mobley,Democratic,357207,100.0,False,False
+140343,NC,Christine Fields Strader,Republican,30074,100.0,False,False
+141437,NC,Leslie Thomas Atkinson,Democratic,2593,100.0,False,False
+141408,NC,Chad Cole,Nonpartisan,2610,57.603,False,False
+141408,NC,Megan Kornhauser,Nonpartisan,1881,41.514,False,False
+141408,NC,Write-In,Nonpartisan,40,0.883,False,False
+140586,NC,Valerie Brockenbrough,Democratic,91111,24.466,False,False
+140586,NC,Elisabeth Motsinger,Democratic,89932,24.149,False,False
+140586,NC,Ronda Mays,Democratic,89576,24.054,False,False
+140586,NC,Michael Quinones,Republican,52589,14.122,False,False
+140586,NC,Jason Lucero,Republican,49194,13.21,False,False
+141133,NC,Ann Floyd Huggins,Democratic,7840,100.0,False,False
+140304,NC,Noah James Starnes,Nonpartisan,16287,49.803,False,False
+140304,NC,Ed Spivey,Nonpartisan,15892,48.595,False,False
+140304,NC,Write-In,Nonpartisan,524,1.602,False,False
+141014,NC,Jerry Barnes,Republican,4471,100.0,False,False
+140192,NC,Rickey Freeman,Nonpartisan,2992,52.216,False,False
+140192,NC,Latrica Hines-Miller,Nonpartisan,2713,47.347,False,False
+140192,NC,Write-In,Nonpartisan,25,0.436,False,False
+141347,NC,Samantha Krop,Nonpartisan,250757,31.168,False,False
+141347,NC,Cece Grant,Nonpartisan,208499,25.916,False,False
+141347,NC,Beth Pugh Farrell,Nonpartisan,139256,17.309,False,False
+141347,NC,Jim White,Nonpartisan,106232,13.204,False,False
+141347,NC,Brian K. Lewis,Nonpartisan,48088,5.977,False,False
+141347,NC,Terence Thomas,Nonpartisan,47165,5.862,False,False
+141347,NC,Write-In,Nonpartisan,4532,0.563,False,False
+140902,NC,Diedre Breeden,Nonpartisan,9097,67.395,False,False
+140902,NC,Robert Perkins,Nonpartisan,4401,32.605,False,False
+140902,NC,Write-In,Nonpartisan,0,0.0,False,False
+141196,NC,Brandy Cook,Republican,35087,100.0,False,False
+140121,NC,Chris Smith,Republican,1897,100.0,False,False
+141084,NC,David Gaskins,Nonpartisan,238,20.084,False,False
+141084,NC,Kenny Campen,Nonpartisan,217,18.312,False,False
+141084,NC,Anita Smithwick,Nonpartisan,207,17.468,False,False
+141084,NC,Patrick O'Donnelll,Nonpartisan,164,13.84,False,False
+141084,NC,Emmett Reynolds,Nonpartisan,156,13.165,False,False
+141084,NC,Adam Garfinkel,Nonpartisan,128,10.802,False,False
+141084,NC,Gary Konyesni,Nonpartisan,68,5.738,False,False
+141084,NC,Write-In,Nonpartisan,7,0.591,False,False
+141055,NC,Rani Dasi,Democratic,59845,100.0,False,False
+140194,NC,Vernetta M. Henderson,Nonpartisan,3460,60.819,False,False
+140194,NC,David Ray,Nonpartisan,2218,38.988,False,False
+140194,NC,Write-In,Nonpartisan,11,0.193,False,False
+140172,NC,Matthew Rupp,Republican,37435,100.0,False,False
+141298,NC,Donna McKee Kiger,Nonpartisan,370,91.584,False,False
+141298,NC,Write-In,Nonpartisan,34,8.416,False,False
+141045,NC,Tim Foster,Republican,28422,23.387,False,False
+141045,NC,Whitney Cantrell,Republican,27986,23.028,False,False
+141045,NC,Royce Bennett,Republican,26478,21.787,False,False
+141045,NC,Rebecca Cooper,Democratic,20743,17.068,False,False
+141045,NC,"Michel Leandre, Jr.",Democratic,17900,14.729,False,False
+140440,NC,Anna Richardson,Nonpartisan,752,97.283,False,False
+140440,NC,Write-In,Nonpartisan,21,2.717,False,False
+140162,NC,Beth M. Brooke,Republican,8699,100.0,False,False
+140357,NC,Nathaniel J. Poovey,Republican,41297,100.0,False,False
+141067,NC,Pete Anderson,Nonpartisan,3485,52.683,False,False
+141067,NC,Bob Lyon,Nonpartisan,3012,45.533,False,False
+141067,NC,Write-In,Nonpartisan,118,1.784,False,False
+141006,NC,Don Zawlocki,Nonpartisan,23574,34.626,False,False
+141006,NC,Jim Pedersen,Nonpartisan,17537,25.759,False,False
+141006,NC,Anthony B. McCauley,Nonpartisan,14398,21.148,False,False
+141006,NC,Olivia Oxendine,Nonpartisan,12128,17.814,False,False
+141006,NC,Write-In,Nonpartisan,444,0.652,False,False
+140625,NC,Chad Brown,Republican,42628,73.376,False,False
+140625,NC,Charley Killian,Write-In,12980,22.343,False,False
+140625,NC,Write-In,Nonpartisan,2487,4.281,False,False
+141339,NC,Randy Oxendine,Democratic,1473,100.0,False,False
+140350,NC,Sherry Edmonds Butler,Republican,33781,20.753,False,False
+140350,NC,Jay Moore,Republican,33118,20.346,False,False
+140350,NC,Cole Terrell Setzer,Republican,33083,20.324,False,False
+140350,NC,Aubrey Gregory,Democratic,21512,13.216,False,False
+140350,NC,Jesse Alden,Democratic,20945,12.867,False,False
+140350,NC,Phyllis Michaux,Democratic,20336,12.493,False,False
+141444,NC,"F. T. Franks, Jr.",Nonpartisan,1935,42.905,False,False
+141444,NC,Jennifer Bennington,Nonpartisan,1366,30.288,False,False
+141444,NC,Maria Salazar,Nonpartisan,1158,25.676,False,False
+141444,NC,Write-In,Nonpartisan,51,1.131,False,False
+140782,NC,Casey B. Peele,Nonpartisan,4518,32.737,False,False
+140782,NC,Shelia J. Porter,Nonpartisan,3861,27.976,False,False
+140782,NC,Brunet V. Parker,Nonpartisan,3007,21.788,False,False
+140782,NC,Lagina Hanson,Nonpartisan,2341,16.963,False,False
+140782,NC,Write-In,Nonpartisan,74,0.536,False,False
+140593,NC,Fred Adams,Democratic,106527,100.0,False,False
+140916,NC,"Hallet S. Davis, Jr.",Nonpartisan,4098,32.071,False,False
+140916,NC,Chad Hardison,Nonpartisan,3262,25.528,False,False
+140916,NC,Jean C. Brownfield,Nonpartisan,2756,21.568,False,False
+140916,NC,"Rupert W. Hasty, Jr.",Nonpartisan,2585,20.23,False,False
+140916,NC,Write-In,Nonpartisan,77,0.603,False,False
+141303,NC,Allyson Barnes,Republican,3456,100.0,False,False
+141405,NC,Arlo Norman,Democratic,3756,100.0,False,False
+140167,NC,Mike Henley,Republican,5386,100.0,False,False
+140938,NC,Yes,Nonpartisan,204868,63.692,False,False
+140938,NC,No,Nonpartisan,116785,36.308,False,False
+140493,NC,Jeffrey Walker,Republican,9962,100.0,False,False
+141264,NC,James Kluttz,Nonpartisan,515,94.322,False,False
+141264,NC,Write-In,Nonpartisan,31,5.678,False,False
+140189,NC,Ronald Roberson,Democratic,4780,100.0,False,False
+141344,NC,Claudia C. Croom,Democratic,362340,70.368,False,False
+141344,NC,"Joe E. Teague, Jr.",Republican,152582,29.632,False,False
+141315,NC,Danielle Davis Carawan,Nonpartisan,895,50.852,False,False
+141315,NC,Carl Jones,Nonpartisan,845,48.011,False,False
+141315,NC,Write-In,Nonpartisan,20,1.136,False,False
+140262,NC,Crystal R. Carpenter,Republican,21307,100.0,False,False
+140233,NC,Gordon Grant,Nonpartisan,13668,20.726,False,False
+140233,NC,Liza English-Kelly,Nonpartisan,13610,20.638,False,False
+140233,NC,Sarah Thornburg,Nonpartisan,12235,18.553,False,False
+140233,NC,Rebecca Strimer,Nonpartisan,12044,18.263,False,False
+140233,NC,Daniel Shetley,Nonpartisan,10499,15.92,False,False
+140233,NC,Daria Datnoff,Nonpartisan,3731,5.658,False,False
+140233,NC,Write-In,Nonpartisan,160,0.243,False,False
+141244,NC,Shaun Morgan,Republican,18083,100.0,False,False
+140415,NC,Aaron Bridges,Republican,19624,18.852,False,False
+140415,NC,Ronnie Grigg,Republican,19105,18.353,False,False
+140415,NC,Danny Lee Blanton,Republican,18653,17.919,False,False
+140415,NC,Robert Queen,Republican,17957,17.251,False,False
+140415,NC,Coleman Hunt,Democratic,15326,14.723,False,False
+140415,NC,Jenny White,Democratic,13430,12.902,False,False
+140361,NC,Jennifer Canrobert,Republican,1523,52.015,False,False
+140361,NC,Tim Hayes,Republican,1405,47.985,False,False
+141132,NC,Jennifer Hodgson,Democratic,5834,100.0,False,False
+140466,NC,Lisa Scales,Democratic,70280,100.0,False,False
+141013,NC,Gwen Wilkins,Democratic,4305,100.0,False,False
+140408,NC,Jason Shook,Republican,3711,29.085,False,False
+140408,NC,Kevin Crawford,Republican,3634,28.482,False,False
+140408,NC,Brett Woody,Republican,3539,27.737,False,False
+140408,NC,Marcelline Fuerch,Unaffiliated,1875,14.696,False,False
+140130,NC,Matthew Lynn Reese,Republican,1262,100.0,False,False
+141317,NC,Linda O. Robinson,Republican,54446,54.729,False,False
+141317,NC,Alexis Stadler,Democratic,45036,45.271,False,False
+141227,NC,Chip Crumpler,Republican,2655,100.0,False,False
+141173,NC,Ethan Clewis,Republican,15607,52.878,False,False
+141173,NC,Krystle Melvin,Democratic,13908,47.122,False,False
+140568,NC,Christina Jones,Nonpartisan,28022,70.171,False,False
+140568,NC,Marc Scruggs,Nonpartisan,11788,29.519,False,False
+140568,NC,Write-In,Nonpartisan,124,0.311,False,False
+141307,NC,Owen Carson,Democratic,8341,27.663,False,False
+141307,NC,Bryan O'Neill,Democratic,7674,25.451,False,False
+141307,NC,George C. Sutherland,Republican,7145,23.697,False,False
+141307,NC,Kevin Howell,Republican,6992,23.189,False,False
+141310,NC,Chuck Owenby,Republican,10481,100.0,False,False
+141412,NC,Ray Russell,Democratic,3361,73.193,False,False
+141412,NC,Savva Kostis,Republican,1231,26.807,False,False
+140942,NC,Roderick G. Davis,Democratic,358577,100.0,False,False
+140561,NC,Myra Griffin,Democratic,107580,100.0,False,False
+141076,NC,Lester Carey,Nonpartisan,69,33.495,False,False
+141076,NC,John Wood,Nonpartisan,65,31.553,False,False
+141076,NC,James Wood,Nonpartisan,64,31.068,False,False
+141076,NC,Write-In,Nonpartisan,8,3.883,False,False
+140471,NC,Toni S. King,Democratic,69529,100.0,False,False
+140772,NC,Preston Blakely,Nonpartisan,3018,96.422,False,False
+140772,NC,Write-In,Nonpartisan,112,3.578,False,False
+141127,NC,Gary Weaver,Republican,6870,58.808,False,False
+141127,NC,Blake C. Price,Democratic,4812,41.192,False,False
+140906,NC,Craig D. Goforth,Democratic,5857,56.112,False,False
+140906,NC,John H. Bratz,Republican,4581,43.888,False,False
+141453,NC,Megan Sizemore,Nonpartisan,319,91.667,False,False
+141453,NC,Write-In,Nonpartisan,29,8.333,False,False
+141232,NC,"Thaddeus Godwin, Sr.",Democratic,2379,100.0,False,False
+140349,NC,Brian Totten,Democratic,1195,100.0,False,False
+140512,NC,Sandie Tysinger Chappell,Republican,47374,100.0,False,False
+140675,NC,Dana C. Suggs,Nonpartisan,51,92.727,False,False
+140675,NC,Write-In,Nonpartisan,4,7.273,False,False
+140230,NC,Quentin Miller,Democratic,90324,69.846,False,False
+140230,NC,Gary Parris,Republican,38995,30.154,False,False
+140201,NC,Walter Hester,Republican,2784,100.0,False,False
+141302,NC,Lisa Loftis,Republican,2445,26.373,False,False
+141302,NC,Brandy Monteith,Democratic,2316,24.981,False,False
+141302,NC,Jason Lambert,Republican,2307,24.884,False,False
+141302,NC,Dannie Shuler,Democratic,2203,23.762,False,False
+141081,NC,Brandi Robertson,Nonpartisan,141,92.763,False,False
+141081,NC,Write-In,Nonpartisan,11,7.237,False,False
+140166,NC,Teresa I. Benfield,Republican,4494,69.653,False,False
+140166,NC,Susannah McCoury Dibble,Unaffiliated,1958,30.347,False,False
+141321,NC,Surluta B. Anthony,Democratic,6653,57.802,False,False
+141321,NC,David Dotson,Republican,4780,41.529,False,False
+141321,NC,Bob Yanacsek,Write-In,47,0.408,False,False
+141321,NC,Write-In,Nonpartisan,30,0.261,False,False
+140300,NC,Mike Labrose,Republican,16388,34.024,False,False
+140300,NC,Corey Moore,Republican,15240,31.641,False,False
+140300,NC,Roger Patterson,Democratic,7817,16.229,False,False
+140300,NC,Faith Naff,Democratic,7451,15.469,False,False
+140300,NC,Write-In,Nonpartisan,1270,2.637,False,False
+141426,NC,G. Keith Elmore,Republican,15191,41.907,False,False
+141426,NC,H. S. Greene,Republican,13783,38.023,False,False
+141426,NC,Joe Woodie,Democratic,7275,20.07,False,False
+141180,NC,Mike Ferguson,Democratic,2302,56.215,False,False
+141180,NC,Lance Herndon,Republican,1793,43.785,False,False
+140767,NC,Gene B. Johnson,Republican,51801,100.0,False,False
+140290,NC,Kimberly Herrick,Republican,49069,100.0,False,False
+140677,NC,Greg Drumwright,Democratic,142467,66.535,False,False
+140677,NC,Mike Perdue,Republican,71657,33.465,False,False
+141195,NC,Cheryl McCoy Correll,Nonpartisan,29551,50.509,False,False
+141195,NC,Kristin May,Nonpartisan,27960,47.79,False,False
+141195,NC,Write-In,Nonpartisan,995,1.701,False,False
+140341,NC,Katy L. Gregg,Republican,29648,100.0,False,False
+140920,NC,Chris Allison,Republican,9251,21.421,False,False
+140920,NC,Tony G. Brown,Republican,8973,20.777,False,False
+140920,NC,David Walker,Republican,8495,19.67,False,False
+140920,NC,Terry English,Democratic,6355,14.715,False,False
+140920,NC,Matt Suttles,Democratic,5256,12.17,False,False
+140920,NC,Stephanie Tenery,Democratic,4857,11.246,False,False
+140667,NC,Brooks Edmondson,Nonpartisan,3301,49.691,False,False
+140667,NC,Chad Murphy,Nonpartisan,3260,49.074,False,False
+140667,NC,Write-In,Nonpartisan,82,1.234,False,False
+141054,NC,Karen Stegman,Democratic,57946,81.487,False,False
+141054,NC,Jeffrey Hoagland,Republican,13165,18.513,False,False
+141163,NC,Robbie Walker,Nonpartisan,1528,64.418,False,False
+141163,NC,Lori C. Bass,Nonpartisan,832,35.076,False,False
+141163,NC,Write-In,Nonpartisan,12,0.506,False,False
+140302,NC,Angela Ashley Kidd,Republican,20300,100.0,False,False
+140721,NC,Brad Abate,Republican,6802,100.0,False,False
+141044,NC,Mark McGee,Nonpartisan,4826,54.194,False,False
+141044,NC,"Gregory Lewis Harris, Sr.",Nonpartisan,4013,45.065,False,False
+141044,NC,Write-In,Nonpartisan,66,0.741,False,False
+140439,NC,David Flowers,Nonpartisan,645,98.926,False,False
+140439,NC,Write-In,Nonpartisan,7,1.074,False,False
+140932,NC,Ellen M. Shelley,Republican,29083,100.0,False,False
+141095,NC,Andy Jessie Devane,Republican,17050,100.0,False,False
+140874,NC,Mary G. Alphin,Republican,11891,100.0,False,False
+141005,NC,Ronnie Fields,Republican,30098,100.0,False,False
+141200,NC,James Randolph,Republican,35080,100.0,False,False
+141309,NC,Kristi B. Brown,Republican,9969,100.0,False,False
+140864,NC,Kirk D. Smith,Republican,2699,57.377,False,False
+140864,NC,Write-In,Nonpartisan,2005,42.623,False,False
+140643,NC,Emily Truman,Unaffiliated,2890,100.0,False,False
+140589,NC,Bobby F. Kimbrough,Democratic,116383,77.864,False,False
+140589,NC,Ernie Leyba,Republican,33087,22.136,False,False
+140368,NC,Dana M. Hackney,Democratic,29384,100.0,False,False
+140470,NC,Billy West,Democratic,71004,100.0,False,False
+141241,NC,No,Nonpartisan,5812,60.247,False,False
+141241,NC,Yes,Nonpartisan,3835,39.753,False,False
+141212,NC,Aaron Ellenburg,Republican,17586,100.0,False,False
+140489,NC,Matt Beickert,Republican,8680,68.938,False,False
+140489,NC,Reggie Saunders,Democratic,3911,31.062,False,False
+141260,NC,C.j. Crisco,Nonpartisan,185,95.361,False,False
+141260,NC,Write-In,Nonpartisan,9,4.639,False,False
+140985,NC,Peter Herron,Republican,6667,100.0,False,False
+140348,NC,Cathy Lucas,Republican,1150,100.0,False,False
+140927,NC,Neil Brackett,Nonpartisan,10991,53.336,False,False
+140927,NC,Stephen Banner,Nonpartisan,9380,45.519,False,False
+140927,NC,Write-In,Nonpartisan,236,1.145,False,False
+140450,NC,Guy D. Smith,Republican,5176,100.0,False,False
+140837,NC,Kevin Donovan,Republican,52964,100.0,False,False
+140754,NC,Lee King,Republican,36380,100.0,False,False
+141301,NC,Jason Kirkland,Republican,2510,26.937,False,False
+141301,NC,Lisa Stevenson Barker,Republican,2201,23.621,False,False
+141301,NC,Erika Smith,Democratic,1955,20.981,False,False
+141301,NC,Chris Reed,Democratic,1651,17.718,False,False
+141301,NC,Cynthia Womble,Unaffiliated,1001,10.743,False,False
+140888,NC,Bill Beam,Republican,26755,82.121,False,False
+140888,NC,Anthony Huss,Libertarian,5825,17.879,False,False
+140827,NC,Abigail Blakley Clayton,Nonpartisan,11155,96.597,False,False
+140827,NC,Write-In,Nonpartisan,393,3.403,False,False
+140414,NC,Doug Bridges,Republican,19508,30.58,False,False
+140414,NC,Wayne King,Republican,19272,30.21,False,False
+140414,NC,Curtis Pressley,Democratic,13314,20.87,False,False
+140414,NC,David Peace,Democratic,11700,18.34,False,False
+140331,NC,Glenn Howell,Nonpartisan,15994,41.295,False,False
+140331,NC,Dennis Collins,Nonpartisan,11616,29.991,False,False
+140331,NC,Mickey Simmons,Nonpartisan,10431,26.932,False,False
+140331,NC,Write-In,Nonpartisan,690,1.782,False,False
+141262,NC,Wes Tucker,Nonpartisan,600,28.249,False,False
+141262,NC,Latoya Jackson,Nonpartisan,589,27.731,False,False
+141262,NC,Lanny Hathcock,Nonpartisan,487,22.928,False,False
+141262,NC,Bud Smith,Nonpartisan,423,19.915,False,False
+141262,NC,Write-In,Nonpartisan,25,1.177,False,False
+140881,NC,Billy Davis,Republican,2907,100.0,False,False
+141204,NC,Tara Moose Sigmon,Nonpartisan,262,20.485,False,False
+141204,NC,Randall Barger,Nonpartisan,259,20.25,False,False
+141204,NC,Laura Evans,Nonpartisan,223,17.435,False,False
+141204,NC,Jayne Lingle,Nonpartisan,187,14.621,False,False
+141204,NC,Jeff File,Nonpartisan,175,13.683,False,False
+141204,NC,Emory Sharp,Nonpartisan,152,11.884,False,False
+141204,NC,Write-In,Nonpartisan,21,1.642,False,False
+140407,NC,"Dwight S. McClure, Sr.",Republican,3402,25.189,False,False
+140407,NC,Andy James,Republican,3277,24.263,False,False
+140407,NC,Jason A. Rickett,Republican,3178,23.53,False,False
+140407,NC,Keyla Youngblood-Stillwell,Democratic,1905,14.105,False,False
+140407,NC,Sandy Zimmerman,Unaffiliated,1744,12.913,False,False
+140900,NC,Yes,Nonpartisan,10672,70.187,False,False
+140900,NC,No,Nonpartisan,4533,29.813,False,False
+141447,NC,Todd Martin,Republican,9233,34.739,False,False
+141447,NC,Frank C. Zachary,Republican,8722,32.817,False,False
+141447,NC,Ricky Oliver,Republican,8623,32.444,False,False
+140842,NC,Jason Waller,Republican,54036,100.0,False,False
+141172,NC,Matt Scott,Democratic,20852,100.0,False,False
+140567,NC,Ms. Stormie Denise Forte,Nonpartisan,112034,37.291,False,False
+140567,NC,Sana Siddiqui,Nonpartisan,97653,32.504,False,False
+140567,NC,Clark Rinehart,Nonpartisan,45102,15.012,False,False
+140567,NC,Joshua Bradley,Nonpartisan,43351,14.43,False,False
+140567,NC,Write-In,Nonpartisan,2292,0.763,False,False
+140861,NC,Yes,Nonpartisan,89,73.554,False,False
+140861,NC,No,Nonpartisan,32,26.446,False,False
+141024,NC,Rob Zapple,Democratic,56259,28.969,False,False
+141024,NC,Leshonda Wallace,Democratic,51063,26.293,False,False
+141024,NC,Leann Pierce,Republican,42217,21.738,False,False
+141024,NC,Richard M. Collier,Republican,39369,20.272,False,False
+141024,NC,Bob Drach,Libertarian,5299,2.729,False,False
+140803,NC,Jw Spencer,Nonpartisan,1393,64.134,False,False
+140803,NC,Manley Palmer,Nonpartisan,733,33.748,False,False
+140803,NC,Write-In,Nonpartisan,46,2.118,False,False
+140557,NC,Christy A. Hamilton Malott,Democratic,130399,100.0,False,False
+141328,NC,Brandi Smith,Republican,9796,52.018,False,False
+141328,NC,Evan Metaxatos,Democratic,9036,47.982,False,False
+140438,NC,Scott Floyd,Republican,1377,60.983,False,False
+140438,NC,Jeff Register,Democratic,881,39.017,False,False
+141209,NC,Kala Suttle,Republican,14831,65.697,False,False
+141209,NC,Kisha McDowell,Democratic,7744,34.303,False,False
+140771,NC,Jerry Frady,Nonpartisan,1895,55.949,False,False
+140771,NC,Katrina McGuire,Nonpartisan,1469,43.372,False,False
+140771,NC,Write-In,Nonpartisan,23,0.679,False,False
+140326,NC,Brooke Cash,Republican,25565,100.0,False,False
+141449,NC,James Collins,Republican,11485,100.0,False,False
+141420,NC,Yes,Nonpartisan,19884,55.879,False,False
+141420,NC,No,Nonpartisan,15700,44.121,False,False
+141145,NC,Steve Nelon,Nonpartisan,558,50.225,False,False
+141145,NC,Bill Crowell,Nonpartisan,527,47.435,False,False
+141145,NC,Write-In,Nonpartisan,26,2.34,False,False
+140316,NC,Meader Harriss,Republican,43842,100.0,False,False
+141087,NC,Tommy Wooten,Republican,8986,100.0,False,False
+141410,NC,Adam Hege,Democratic,3008,88.653,False,False
+141410,NC,Rick Woods,Republican,385,11.347,False,False
+140997,NC,Trisha Mabe,Nonpartisan,165,32.29,False,False
+140997,NC,Larry Christiana,Nonpartisan,152,29.746,False,False
+140997,NC,Lynn Kennedy Parks,Nonpartisan,139,27.202,False,False
+140997,NC,Russ Aronis,Nonpartisan,45,8.806,False,False
+140997,NC,Write-In,Nonpartisan,10,1.957,False,False
+140722,NC,Whitney Pearce,Republican,28778,100.0,False,False
+140469,NC,Yolanda Volcy,Nonpartisan,32033,22.765,False,False
+140469,NC,Ellison L. Ellison,Nonpartisan,27792,19.751,False,False
+140469,NC,Dianna Chambers,Nonpartisan,26842,19.076,False,False
+140469,NC,Jeremy Stanley,Nonpartisan,15752,11.195,False,False
+140469,NC,Dwayne Waterford,Nonpartisan,14221,10.107,False,False
+140469,NC,Chris Rivas,Nonpartisan,13070,9.289,False,False
+140469,NC,Joe Hallatschek,Nonpartisan,10276,7.303,False,False
+140469,NC,Write-In,Nonpartisan,725,0.515,False,False
+140856,NC,Keith Metts,Nonpartisan,2339,51.702,False,False
+140856,NC,Samantha Jo Bennett,Nonpartisan,2123,46.927,False,False
+140856,NC,Write-In,Nonpartisan,62,1.37,False,False
+140795,NC,Michael Stone,Republican,36789,100.0,False,False
+140773,NC,John Brandon Olsen,Nonpartisan,1653,50.061,False,False
+140773,NC,Amber McKinney,Nonpartisan,1639,49.637,False,False
+140773,NC,Write-In,Nonpartisan,10,0.303,False,False
+141291,NC,Ben Cooke,Republican,2666,100.0,False,False
+141230,NC,Eric L. Johnson,Nonpartisan,7475,37.99,False,False
+141230,NC,Henry E. Moore III,Nonpartisan,7179,36.486,False,False
+141230,NC,Brandon Wooldridge,Nonpartisan,4652,23.643,False,False
+141230,NC,Write-In,Nonpartisan,370,1.88,False,False
+140241,NC,Susan Dotson-Smith,Democratic,96161,100.0,False,False
+140763,NC,Andrew Murray,Republican,51144,100.0,False,False
+141374,NC,Chris Brooks,Democratic,74091,100.0,False,False
+141060,NC,W. Chris Hogan,Nonpartisan,31599,36.935,False,False
+141060,NC,Richal Vanhook,Nonpartisan,29776,34.805,False,False
+141060,NC,K. Alexander Foreman,Nonpartisan,22886,26.751,False,False
+141060,NC,Write-In,Nonpartisan,1291,1.509,False,False
+140807,NC,Brent Goddard,Republican,41698,23.235,False,False
+140807,NC,Bert Connolly,Republican,41252,22.986,False,False
+140807,NC,Scottie Brown,Republican,40833,22.753,False,False
+140807,NC,Terence Clark,Democratic,28215,15.722,False,False
+140807,NC,Amanda Brown Kotis,Democratic,27465,15.304,False,False
+140810,NC,Darren E. Campbell,Republican,53456,100.0,False,False
+140340,NC,Lynn W. Massey,Nonpartisan,5589,54.564,False,False
+140340,NC,Joan C. Slade,Nonpartisan,4502,43.952,False,False
+140340,NC,Write-In,Nonpartisan,152,1.484,False,False
+140727,NC,Jason P. Kimble,Republican,93823,100.0,False,False
+141021,NC,Shawn Dwight Lucas,Nonpartisan,24423,54.875,False,False
+141021,NC,Betty P. Brown,Nonpartisan,19341,43.456,False,False
+141021,NC,Write-In,Nonpartisan,743,1.669,False,False
+141191,NC,Jacqui Smith Watson,Republican,28759,60.964,False,False
+141191,NC,Chariel Minnette Dye,Democratic,18415,39.036,False,False
+141162,NC,Eddie Eaton,Nonpartisan,1604,67.909,False,False
+141162,NC,Ed Lohr,Nonpartisan,744,31.499,False,False
+141162,NC,Write-In,Nonpartisan,14,0.593,False,False
+140909,NC,Buddy Harwood,Democratic,6337,61.915,False,False
+140909,NC,Robin Lyles,Republican,3898,38.085,False,False
+140688,NC,Danny Rogers,Democratic,143283,66.645,False,False
+140688,NC,Phil Byrd,Republican,71711,33.355,False,False
+140406,NC,Florence B. Winslow,Nonpartisan,1126,69.981,False,False
+140406,NC,Deanna Daniel,Nonpartisan,456,28.341,False,False
+140406,NC,Write-In,Nonpartisan,27,1.678,False,False
+140576,NC,Wayne S. Boyette,Democratic,62856,100.0,False,False
+140931,NC,Michelle McEntire,Republican,29196,100.0,False,False
+140486,NC,Alicia M. Flowers,Democratic,14061,100.0,False,False
+141305,NC,Brian E. Kirkland,Republican,3344,65.274,False,False
+141305,NC,David Southards,Democratic,1779,34.726,False,False
+140476,NC,Rosalyn Hood,Democratic,68812,100.0,False,False
+140447,NC,Mark P. Larkin,Nonpartisan,1925,53.696,False,False
+140447,NC,Tyrone Cantey,Nonpartisan,1638,45.69,False,False
+140447,NC,Write-In,Nonpartisan,22,0.614,False,False
+140585,NC,Marsie West,Democratic,65018,57.406,False,False
+140585,NC,Chris Parker,Republican,48241,42.594,False,False
+140556,NC,Dorothy Hairston Mitchell,Democratic,130443,100.0,False,False
+140882,NC,David M. Carpenter,Republican,22335,51.146,False,False
+140882,NC,Bud Cesena,Republican,21334,48.854,False,False
+140437,NC,Jeanne McPherson,Republican,1965,100.0,False,False
+140824,NC,Kim Coggins Poteet,Democratic,9519,59.684,False,False
+140824,NC,Rollie L. James,Republican,6430,40.316,False,False
+141346,NC,Jane Harrison,Nonpartisan,22079,81.23,False,False
+141346,NC,Jevon Smith-Cook,Nonpartisan,4939,18.171,False,False
+141346,NC,Write-In,Nonpartisan,163,0.6,False,False
+140741,NC,Myra Keener Watson,Nonpartisan,10077,46.892,False,False
+140741,NC,Terry Ramey,Nonpartisan,6516,30.321,False,False
+140741,NC,James Robertson,Nonpartisan,4815,22.406,False,False
+140741,NC,Write-In,Nonpartisan,82,0.382,False,False
+140459,NC,Robert Toler,Nonpartisan,107,63.69,False,False
+140459,NC,Bill Slack,Nonpartisan,61,36.31,False,False
+140459,NC,Write-In,Nonpartisan,0,0.0,False,False
+140398,NC,Dwayne Goodwin,Unaffiliated,4470,100.0,False,False
+140401,NC,Ricky Browder,Nonpartisan,1300,64.644,False,False
+140401,NC,Ollie Inglis,Nonpartisan,695,34.56,False,False
+140401,NC,Write-In,Nonpartisan,16,0.796,False,False
+140923,NC,Chuck Abernathy,Republican,12276,100.0,False,False
+140734,NC,Don Godfrey,Republican,4002,100.0,False,False
+141028,NC,Kelly McConnell,Nonpartisan,51902,37.898,False,False
+141028,NC,Cate Calson,Nonpartisan,41537,30.329,False,False
+141028,NC,Frank Christopher Meares,Nonpartisan,32187,23.502,False,False
+141028,NC,Deandre Corniffe,Nonpartisan,9629,7.031,False,False
+141028,NC,Write-In,Nonpartisan,1698,1.24,False,False
+140366,NC,Katie Kenlan,Democratic,27125,63.873,False,False
+140366,NC,John M. Crowell,Republican,15342,36.127,False,False
+140177,NC,Sherry Gravely,Republican,14324,100.0,False,False
+141300,NC,Robert Brown,Republican,2046,40.157,False,False
+141300,NC,Jeramy Shuler,Democratic,1736,34.073,False,False
+141300,NC,Fred Crawford,Unaffiliated,1313,25.77,False,False
+140887,NC,Melissa L. Elmore,Republican,28115,100.0,False,False
+141188,NC,Todd Wyrick,Republican,35704,100.0,False,False
+140551,NC,David Harris,Nonpartisan,108970,50.76,False,False
+140551,NC,Mark W. Waller,Nonpartisan,103358,48.146,False,False
+140551,NC,Write-In,Nonpartisan,2350,1.095,False,False
+140330,NC,John Nyberg,Republican,21876,64.693,False,False
+140330,NC,Franklin Rice,Unaffiliated,11939,35.307,False,False
+141069,NC,Sally Truitt Belangia,Nonpartisan,645,96.847,False,False
+141069,NC,Write-In,Nonpartisan,21,3.153,False,False
+140656,NC,Jason West Dixon,Nonpartisan,13258,51.826,False,False
+140656,NC,James J. Jones,Nonpartisan,11548,45.141,False,False
+140656,NC,Write-In,Nonpartisan,776,3.033,False,False
+141373,NC,Cheryl F. Stallings,Democratic,58495,100.0,False,False
+140928,NC,No,Nonpartisan,9849,62.78,False,False
+140928,NC,Yes,Nonpartisan,5839,37.22,False,False
+141091,NC,Clifford Shaw,Democratic,2442,100.0,False,False
+141446,NC,Tekicey Jones,Nonpartisan,1743,68.033,False,False
+141446,NC,Lauranita Glenn,Nonpartisan,751,29.313,False,False
+141446,NC,Write-In,Nonpartisan,68,2.654,False,False
+141417,NC,Kevin Johnson,Republican,20394,53.096,False,False
+141417,NC,Beatrice Jones,Democratic,18016,46.904,False,False
+140726,NC,Travis N. Wheeler,Republican,95028,100.0,False,False
+140636,NC,William Anthony,Republican,51295,100.0,False,False
+141190,NC,Jody Burleyson,Republican,35699,100.0,False,False
+140937,NC,Barbara Bleiweis,Nonpartisan,210845,30.906,False,False
+140937,NC,Michael Betterly,Nonpartisan,181264,26.57,False,False
+140937,NC,Makenzie Pearce,Nonpartisan,127870,18.744,False,False
+140937,NC,Jillian King,Nonpartisan,97854,14.344,False,False
+140937,NC,Long Tran,Nonpartisan,57464,8.423,False,False
+140937,NC,Write-In,Nonpartisan,6906,1.012,False,False
+140524,NC,Carlos E. Jane',Republican,62347,100.0,False,False
+141042,NC,Laquitta Cooper Chambers,Democratic,5197,100.0,False,False
+140405,NC,Lisa Perry,Republican,1470,100.0,False,False
+140191,NC,Tyrone M. Ruffin,Democratic,5509,100.0,False,False
+141314,NC,Major Shively,Unaffiliated,854,63.494,False,False
+141314,NC,Joey Elliott,Republican,491,36.506,False,False
+140901,NC,Gary Shields,Nonpartisan,6743,47.16,False,False
+140901,NC,Kaleena Keener Messer,Nonpartisan,3780,26.437,False,False
+140901,NC,Stephanie Hyder Laseter,Nonpartisan,3775,26.402,False,False
+140901,NC,Write-In,Nonpartisan,0,0.0,False,False
+140619,NC,Darin Wilder,Democratic,3852,58.275,False,False
+140619,NC,Roxanne Bragg,Republican,2758,41.725,False,False
+140757,NC,Roger Bass,Nonpartisan,1788,98.621,False,False
+140757,NC,Write-In,Nonpartisan,25,1.379,False,False
+141144,NC,Becky Kennedy,Nonpartisan,273,34.383,False,False
+141144,NC,Richard Hall,Nonpartisan,256,32.242,False,False
+141144,NC,Mark Phillips,Nonpartisan,247,31.108,False,False
+141144,NC,Write-In,Nonpartisan,18,2.267,False,False
+141083,NC,Carol Demoranville,Nonpartisan,353,96.712,False,False
+141083,NC,Write-In,Nonpartisan,12,3.288,False,False
+141086,NC,Jennifer S. Thompson,Republican,8907,100.0,False,False
+140996,NC,Perry Wallace,Nonpartisan,198,96.585,False,False
+140996,NC,Write-In,Nonpartisan,7,3.415,False,False
+140718,NC,James Wayne Short II,Nonpartisan,8484,50.097,False,False
+140718,NC,Frederick Dunn,Nonpartisan,8235,48.627,False,False
+140718,NC,Write-In,Nonpartisan,216,1.275,False,False
+140145,NC,Jamie Caudle,Republican,4939,100.0,False,False
+140468,NC,Tom Hatch,Nonpartisan,26038,11.435,False,False
+140468,NC,Jacquelyn Brown,Nonpartisan,22240,9.767,False,False
+140468,NC,Broxie P. Pone,Nonpartisan,20680,9.082,False,False
+140468,NC,Robyn Chadwick,Nonpartisan,19000,8.344,False,False
+140468,NC,Bryan Moore,Nonpartisan,18670,8.199,False,False
+140468,NC,Demetrius Stocks,Nonpartisan,16037,7.043,False,False
+140468,NC,Bradley Williams,Nonpartisan,15363,6.747,False,False
+140468,NC,Carol Stubbs,Nonpartisan,15217,6.683,False,False
+140468,NC,Rebecca West,Nonpartisan,13406,5.887,False,False
+140468,NC,Franklin Matthew Crockett,Nonpartisan,12740,5.595,False,False
+140468,NC,Keith Byrd,Nonpartisan,11706,5.141,False,False
+140468,NC,Chris Young,Nonpartisan,9723,4.27,False,False
+140468,NC,Theodore Lee Miller,Nonpartisan,8696,3.819,False,False
+140468,NC,Quincei Lovejoy,Nonpartisan,8131,3.571,False,False
+140468,NC,Karelle Ward,Nonpartisan,4913,2.158,False,False
+140468,NC,Johnathaun Lee,Nonpartisan,4147,1.821,False,False
+140468,NC,Write-In,Nonpartisan,998,0.438,False,False
+140855,NC,Matthew J. Wineman,Republican,2781,100.0,False,False
+141156,NC,Darren C. Allen,Republican,37100,100.0,False,False
+140519,NC,Mary F. Covington,Republican,62757,100.0,False,False
+140298,NC,Steve Huber,Nonpartisan,1723,96.907,False,False
+140298,NC,Write-In,Nonpartisan,55,3.093,False,False
+141229,NC,Jimmy Thornton,Republican,10572,58.018,False,False
+141229,NC,Donald Earl Edwards,Democratic,7650,41.982,False,False
+140624,NC,Tom Keigher,Republican,42202,51.606,False,False
+140624,NC,Jessica Maria Moreno,Democratic,39576,48.394,False,False
+140925,NC,Melissa Holland Adams,Republican,12093,92.859,False,False
+140925,NC,Write-In,Nonpartisan,930,7.141,False,False
+140288,NC,Christy E. Wilhelm,Republican,50078,100.0,False,False
+140259,NC,Tiana Beachler,Republican,18148,61.143,False,False
+140259,NC,Mark Smith,Democratic,11533,38.857,False,False
+140614,NC,Mike Waters,Republican,57684,100.0,False,False
+140592,NC,Valene K. McMasters,Democratic,106394,100.0,False,False
+140886,NC,Stacey Leonard Crouse,Republican,28114,100.0,False,False
+140473,NC,Sherry Miller,Democratic,69197,100.0,False,False
+140550,NC,Clarence F. Birkhead,Democratic,130447,100.0,False,False
+140905,NC,Mark Snelson,Democratic,5680,18.954,False,False
+140905,NC,Connie Molland,Democratic,5006,16.705,False,False
+140905,NC,C. William Briggs III,Republican,4858,16.211,False,False
+140905,NC,Alan C. Wyatt,Republican,4831,16.121,False,False
+140905,NC,Jeremy Hensley,Republican,4827,16.108,False,False
+140905,NC,Shannon Dowler,Democratic,4765,15.901,False,False
+140684,NC,Ebony Burnett,Democratic,20068,61.763,False,False
+140684,NC,Tracy Gaskins,Republican,12424,38.237,False,False
+140210,NC,Sarah McPherson,Republican,74117,100.0,False,False
+140572,NC,"Cleveland Atkinson, Jr.",Democratic,15378,100.0,False,False
+141151,NC,Greg Seabolt,Republican,37506,100.0,False,False
+140866,NC,Jamey Laudate,Democratic,4026,59.302,False,False
+140866,NC,Eric N. Davidson,Republican,2763,40.698,False,False
+141253,NC,Matthew L. Hamilton,Republican,18202,100.0,False,False
+140178,NC,Scott Hammonds,Republican,12927,65.503,False,False
+140178,NC,Corey Dixon,Democratic,6808,34.497,False,False
+140725,NC,Joy A. Jones,Republican,95898,100.0,False,False
+140312,NC,Brian Lannon,Nonpartisan,2627,49.744,False,False
+140312,NC,Abner Wayne Staples,Nonpartisan,2619,49.593,False,False
+140312,NC,Write-In,Nonpartisan,35,0.663,False,False
+141243,NC,Lane Furr,Republican,18230,100.0,False,False
+141438,NC,Sherry Lucas,Democratic,2755,100.0,False,False
+140747,NC,Jim Francis,Nonpartisan,921,49.703,False,False
+140747,NC,Chad McMahon,Nonpartisan,910,49.11,False,False
+140747,NC,Write-In,Nonpartisan,22,1.187,False,False
+140686,NC,Deena Hayes-Greene,Democratic,17574,100.0,False,False
+141105,NC,Shelton White,Republican,4557,100.0,False,False
+141428,NC,Chris Shew,Republican,18756,100.0,False,False
+140823,NC,Sean Bridgers,Democratic,9192,57.677,False,False
+140823,NC,John W. Smith,Republican,6745,42.323,False,False
+140324,NC,Anne Scott,Republican,25723,100.0,False,False
+141063,NC,"Edward Riggs, Jr.",Republican,695,100.0,False,False
+141258,NC,Derek Starnes,Nonpartisan,133,30.505,False,False
+141258,NC,Timothy Higgins,Nonpartisan,124,28.44,False,False
+141258,NC,Sidney Lanier,Nonpartisan,95,21.789,False,False
+141258,NC,Julie Wittman,Nonpartisan,83,19.037,False,False
+141258,NC,Write-In,Nonpartisan,1,0.229,False,False
+140397,NC,Ellis Lawrence,Democratic,1226,100.0,False,False
+140983,NC,Michael Criscoe,Republican,4376,36.132,False,False
+140983,NC,Steve Hair,Republican,4210,34.762,False,False
+140983,NC,Alan Parker,Democratic,3525,29.106,False,False
+140285,NC,No,Nonpartisan,42115,51.011,False,False
+140285,NC,Yes,Nonpartisan,40446,48.989,False,False
+141248,NC,Ginger D. Efird,Republican,18619,100.0,False,False
+141219,NC,Perry Whisnant,Nonpartisan,86,19.326,False,False
+141219,NC,Lee Allen,Nonpartisan,80,17.978,False,False
+141219,NC,Rachel Lawson,Nonpartisan,78,17.528,False,False
+141219,NC,Pamela Padgett,Nonpartisan,67,15.056,False,False
+141219,NC,Warren C. Smith,Nonpartisan,64,14.382,False,False
+141219,NC,Allan Black,Nonpartisan,61,13.708,False,False
+141219,NC,Write-In,Nonpartisan,9,2.022,False,False
+140173,NC,Ed Booth,Democratic,7189,36.651,False,False
+140173,NC,John T. Edwards,Republican,5958,30.375,False,False
+140173,NC,Ashley Woolard,Republican,3600,18.353,False,False
+140173,NC,Stan Deatherage,Republican,2868,14.621,False,False
+140944,NC,Jennifer L. Fleet,Democratic,357962,100.0,False,False
+140854,NC,Chris Henderson,Democratic,2648,100.0,False,False
+140633,NC,Bill Ward,Nonpartisan,35958,38.131,False,False
+140633,NC,Dan Brandon,Nonpartisan,31248,33.136,False,False
+140633,NC,Colby Watts,Nonpartisan,25464,27.003,False,False
+140633,NC,Write-In,Nonpartisan,1632,1.731,False,False
+140604,NC,Tonya McDaniel,Democratic,26789,44.997,False,False
+140604,NC,Mali Woodbury,Democratic,26722,44.885,False,False
+140604,NC,Contessa Smith,Republican,6024,10.118,False,False
+141065,NC,Steven E. Hollowell,Democratic,4314,100.0,False,False
+140652,NC,John D. Lovin,Nonpartisan,2375,57.969,False,False
+140652,NC,Dave Thiessen,Nonpartisan,1620,39.541,False,False
+140652,NC,Write-In,Nonpartisan,102,2.49,False,False
+140569,NC,Yes,Nonpartisan,127508,68.253,False,False
+140569,NC,No,Nonpartisan,59309,31.747,False,False
+140732,NC,Sharon McNeill Gainey,Democratic,5408,100.0,False,False
+140319,NC,Robert Trivette,Republican,37562,56.649,False,False
+140319,NC,Eula Reid,Democratic,28745,43.351,False,False
+140834,NC,"R.s. Lawter, Jr.",Republican,53272,100.0,False,False
+141221,NC,John Mark Bennett,Nonpartisan,967,32.813,False,False
+141221,NC,Carl Ramsey,Nonpartisan,803,27.248,False,False
+141221,NC,Marc Duncan,Nonpartisan,590,20.02,False,False
+141221,NC,Anastasia Haulk,Nonpartisan,569,19.308,False,False
+141221,NC,Write-In,Nonpartisan,18,0.611,False,False
+141138,NC,Danielle E. Gibbs,Republican,6404,100.0,False,False
+140885,NC,Krista Heavner,Republican,28062,100.0,False,False
+141272,NC,Jonathan Young,Nonpartisan,8391,31.326,False,False
+141272,NC,Johnny East,Nonpartisan,7398,27.619,False,False
+141272,NC,Joe Bennett,Nonpartisan,6515,24.322,False,False
+141272,NC,Joshua Francis,Nonpartisan,4218,15.747,False,False
+141272,NC,Write-In,Nonpartisan,264,0.986,False,False
+141211,NC,Steve H. Owens,Republican,17200,100.0,False,False
+141189,NC,John Brindle,Republican,34586,89.439,False,False
+141189,NC,Write-In,Nonpartisan,4084,10.561,False,False
+140715,NC,Vernon J. Bryant,Democratic,10757,23.644,False,False
+140715,NC,Chenoa Richardson Davis,Democratic,9936,21.839,False,False
+140715,NC,Tyus S. Few,Democratic,9362,20.578,False,False
+140715,NC,Chuck Hasty,Republican,6285,13.814,False,False
+140715,NC,Sammy Davis Webb,Republican,5330,11.715,False,False
+140715,NC,John Whichard,Republican,3826,8.41,False,False
+140654,NC,Yancey Washington,Republican,15295,100.0,False,False
+140465,NC,Charles Evans,Democratic,54270,33.632,False,False
+140465,NC,Veronica B. Jones,Democratic,51203,31.731,False,False
+140465,NC,Greg West,Republican,31921,19.782,False,False
+140465,NC,Ron Ross,Republican,23971,14.855,False,False
+140187,NC,Miles Davis,Democratic,4930,100.0,False,False
+140990,NC,Phillip Cornett,Republican,24795,100.0,False,False
+141284,NC,Jade McCormick Kiger,Republican,14267,100.0,False,False
+141031,NC,Lindsey L. McKee,Republican,75030,100.0,False,False
+141226,NC,Ricky Gilbert,Nonpartisan,585,24.074,False,False
+141226,NC,Jeff Wells,Nonpartisan,492,20.247,False,False
+141226,NC,Christy Freeman Houser,Nonpartisan,427,17.572,False,False
+141226,NC,Doris Crute,Nonpartisan,356,14.65,False,False
+141226,NC,"Bobby Ray Miller, Jr.",Nonpartisan,319,13.128,False,False
+141226,NC,Stanley Lennon Clements,Nonpartisan,228,9.383,False,False
+141226,NC,Write-In,Nonpartisan,23,0.947,False,False
+140756,NC,John Gerni,Nonpartisan,1930,98.721,False,False
+140756,NC,Write-In,Nonpartisan,25,1.279,False,False
+141143,NC,Matt Davis,Nonpartisan,6524,54.353,False,False
+141143,NC,Mitchel Modlin,Nonpartisan,5343,44.514,False,False
+141143,NC,Write-In,Nonpartisan,136,1.133,False,False
+140445,NC,Chip Hughes,Republican,24284,58.383,False,False
+140445,NC,Mickey Tillman,Democratic,17310,41.617,False,False
+140416,NC,Lacey Ingle Ange,Republican,24103,100.0,False,False
+141386,NC,David K. Baker,Democratic,53556,100.0,False,False
+140141,NC,Laura Byrd Luffman,Republican,42283,100.0,False,False
+141104,NC,Todd Tilley,Republican,4547,100.0,False,False
+140822,NC,Casey Walawender,Democratic,8897,55.805,False,False
+140822,NC,Steven J. Sutton,Republican,7046,44.195,False,False
+140992,NC,Thai Vang,Republican,24778,100.0,False,False
+140355,NC,D. Scott Reilly,Republican,41026,100.0,False,False
+140710,NC,Moshera Mills,Democratic,143950,67.484,False,False
+140710,NC,Erik R. Hamner,Republican,69361,32.516,False,False
+140204,NC,Ray Marlowe,Unaffiliated,5709,47.623,False,False
+140204,NC,Jim McVicker,Republican,4241,35.377,False,False
+140204,NC,Chris Hunt,Democratic,2038,17.0,False,False
+140921,NC,Terry Frank,Republican,12265,100.0,False,False
+140892,NC,Terry Lee Turbyfill,Nonpartisan,18218,35.11,False,False
+140892,NC,Daniel Miller,Nonpartisan,16988,32.74,False,False
+140892,NC,Carrol D. Mitchem,Nonpartisan,16089,31.007,False,False
+140892,NC,Write-In,Nonpartisan,593,1.143,False,False
+140863,NC,Robert Reives,Democratic,2830,77.301,False,False
+140863,NC,Louis D. Williams,Republican,831,22.699,False,False
+140994,NC,Angela E. Smith,Nonpartisan,510,54.313,False,False
+140994,NC,Deidra Murphy Steed,Nonpartisan,399,42.492,False,False
+140994,NC,Write-In,Nonpartisan,30,3.195,False,False
+140780,NC,Shirley Gatling Johnson,Democratic,5644,100.0,False,False
+141106,NC,Richard Saunders,Nonpartisan,4002,49.981,False,False
+141106,NC,Thomas Roach,Nonpartisan,3927,49.045,False,False
+141106,NC,Write-In,Nonpartisan,78,0.974,False,False
+140853,NC,Debbie Philyaw,Republican,2048,26.594,False,False
+140853,NC,Lisa Byrd,Republican,2043,26.529,False,False
+140853,NC,Charles Gray III,Republican,1914,24.854,False,False
+140853,NC,Keith Parrish,Democratic,1696,22.023,False,False
+141240,NC,Edward T. Carmichael,Nonpartisan,5799,54.446,False,False
+141240,NC,Guthrie Gibson,Nonpartisan,4732,44.428,False,False
+141240,NC,Write-In,Nonpartisan,120,1.127,False,False
+140770,NC,James Cantrell,Nonpartisan,2985,98.58,False,False
+140770,NC,Write-In,Nonpartisan,43,1.42,False,False
+141157,NC,Jodi M. Allred,Republican,37093,100.0,False,False
+140875,NC,Jackie Rogers,Republican,12397,100.0,False,False
+140814,NC,Brian Sloan,Republican,6154,94.285,False,False
+140814,NC,Write-In,Nonpartisan,373,5.715,False,False
+141425,NC,No,Nonpartisan,620,62.69,False,False
+141425,NC,Yes,Nonpartisan,369,37.31,False,False
+140347,NC,Finch Holt,Republican,983,55.38,False,False
+140347,NC,Antonio Foster,Democratic,792,44.62,False,False
+141150,NC,Krista M. Lowe,Republican,37907,100.0,False,False
+140452,NC,Dan Murphy,Nonpartisan,2165,96.955,False,False
+140452,NC,Write-In,Nonpartisan,68,3.045,False,False
+140590,NC,Betsy Johnson,Nonpartisan,71157,38.38,False,False
+140590,NC,Toby Bost,Nonpartisan,44847,24.189,False,False
+140590,NC,Mark D. Apple,Nonpartisan,39307,21.201,False,False
+140590,NC,Andrew Kepins,Nonpartisan,14928,8.052,False,False
+140590,NC,Salvet Kalu,Nonpartisan,12475,6.729,False,False
+140590,NC,Write-In,Nonpartisan,2687,1.449,False,False
+141194,NC,Daniel Holder,Republican,27904,59.031,False,False
+141194,NC,Alisha Byrd-Clark,Democratic,19366,40.969,False,False
+140724,NC,James Michael Byrd,Nonpartisan,24706,51.777,False,False
+140724,NC,Jeff Turlington,Nonpartisan,22015,46.138,False,False
+140724,NC,Write-In,Nonpartisan,995,2.085,False,False
+140311,NC,Chris Purcell,Nonpartisan,2037,22.523,False,False
+140311,NC,Leslie White,Nonpartisan,2002,22.136,False,False
+140311,NC,Eleanora Doane-Butts,Nonpartisan,1758,19.438,False,False
+140311,NC,G. Wayne White,Nonpartisan,1640,18.134,False,False
+140311,NC,Magen O'Neal,Nonpartisan,1552,17.161,False,False
+140311,NC,Write-In,Nonpartisan,55,0.608,False,False
+140413,NC,Bill Carter,Republican,4152,100.0,False,False
+140775,NC,Mark J. Morse,Nonpartisan,813,35.134,False,False
+140775,NC,Mary Margaret Licisyn,Nonpartisan,738,31.893,False,False
+140775,NC,Deb Bridges,Nonpartisan,736,31.806,False,False
+140775,NC,Write-In,Nonpartisan,27,1.167,False,False
+140746,NC,Roy Wijewickrama,Democratic,29512,100.0,False,False
+141293,NC,Chad Hutchens,Nonpartisan,2082,69.354,False,False
+141293,NC,Wes Parker,Nonpartisan,898,29.913,False,False
+141293,NC,Write-In,Nonpartisan,22,0.733,False,False
+140272,NC,Mark L. Killian,Republican,81468,100.0,False,False
+140989,NC,T. Lynn Clodfelter,Republican,24558,100.0,False,False
+140352,NC,Don Brown,Republican,41927,100.0,False,False
+140323,NC,Chris Chadwick,Republican,25388,100.0,False,False
+141062,NC,Doug Brinson,Republican,3164,42.08,False,False
+141062,NC,Derek Potter,Republican,2712,36.069,False,False
+141062,NC,Jennifer Sanders Williford,Unaffiliated,1643,21.851,False,False
+141033,NC,Melinda H. Crouch,Democratic,69718,55.171,False,False
+141033,NC,Janelle L. Cline,Republican,56649,44.829,False,False
+140252,NC,Brittany W. Williams,Nonpartisan,3047,38.279,False,False
+140252,NC,John Richardson,Nonpartisan,1666,20.93,False,False
+140252,NC,C. Michael Sobol,Nonpartisan,1645,20.666,False,False
+140252,NC,Michael Roberts,Nonpartisan,1555,19.535,False,False
+140252,NC,Write-In,Nonpartisan,47,0.59,False,False
+141215,NC,Mike Hollifield,Nonpartisan,101,48.095,False,False
+141215,NC,Billy Lattimore,Nonpartisan,92,43.81,False,False
+141215,NC,Write-In,Nonpartisan,17,8.095,False,False
+141161,NC,Richard McNabb,Nonpartisan,1207,50.418,False,False
+141161,NC,Jeff Mullins,Nonpartisan,786,32.832,False,False
+141161,NC,Jack Carico,Nonpartisan,379,15.831,False,False
+141161,NC,Write-In,Nonpartisan,22,0.919,False,False
+140140,NC,Andrew Warren,Republican,42222,100.0,False,False
+141266,NC,David Hunt,Nonpartisan,595,54.637,False,False
+141266,NC,Jake Furr,Nonpartisan,325,29.844,False,False
+141266,NC,Tom Stubbs,Nonpartisan,150,13.774,False,False
+141266,NC,Write-In,Nonpartisan,19,1.745,False,False
+140821,NC,Marcia Almond,Democratic,8998,56.393,False,False
+140821,NC,David J. Rogers,Republican,6958,43.607,False,False
+141208,NC,Joshua Millwood,Republican,15189,66.992,False,False
+141208,NC,Erica Carson Davenport,Democratic,7484,33.008,False,False
+140930,NC,Robert K. Martelle,Republican,29225,100.0,False,False
+140325,NC,Clark Jenkins,Republican,25539,100.0,False,False
+140235,NC,Yes,Nonpartisan,79595,64.219,False,False
+140235,NC,No,Nonpartisan,44349,35.781,False,False
+140181,NC,Tom Anglim,Republican,24052,100.0,False,False
+140984,NC,John K. Deaton,Republican,6627,100.0,False,False
+140315,NC,Jeffrey Moreland,Republican,43646,100.0,False,False
+141118,NC,Amy Cole,Democratic,5143,94.039,False,False
+141118,NC,Write-In,Nonpartisan,326,5.961,False,False
+140420,NC,Micah J. Sanderson,Republican,51559,100.0,False,False
+140750,NC,Rudd Orr,Republican,36043,100.0,False,False
+141361,NC,Corey Branch,Nonpartisan,23362,71.804,False,False
+141361,NC,Jared S. Ollison,Nonpartisan,9040,27.785,False,False
+141361,NC,Write-In,Nonpartisan,134,0.412,False,False
+140884,NC,Jennifer S. Raimey,Republican,26908,82.608,False,False
+140884,NC,Write-In,Nonpartisan,5665,17.392,False,False
+141271,NC,Joey Lemons,Republican,14785,100.0,False,False
+140580,NC,George B. Thorne,Democratic,1981,100.0,False,False
+140135,NC,Gary Justin West,Republican,3754,100.0,False,False
+140714,NC,John A. Glass,Nonpartisan,2060,61.862,False,False
+140714,NC,Laura Heflin,Nonpartisan,1253,37.628,False,False
+140714,NC,Write-In,Nonpartisan,17,0.511,False,False
+140461,NC,Denny Bucher,Republican,5690,100.0,False,False
+140240,NC,Ben Scales,Democratic,95878,100.0,False,False
+141149,NC,Pam Hill,Republican,38015,100.0,False,False
+141312,NC,Jordan R. Davis,Republican,766,56.531,False,False
+141312,NC,Nina Basnight Griswell,Democratic,345,25.461,False,False
+141312,NC,Mark Mixon,Democratic,244,18.007,False,False
+140483,NC,Lou Olivera,Democratic,36408,100.0,False,False
+141030,NC,Jason W. Smith,Republican,75264,100.0,False,False
+141001,NC,Cameron Dockery,Republican,28983,100.0,False,False
+140310,NC,J. Kevin Jones,Republican,3708,100.0,False,False
+140889,NC,Jill Tipton,Republican,1879,53.655,False,False
+140889,NC,Jim R. Watson,Democratic,1610,45.974,False,False
+140889,NC,Write-In,Nonpartisan,13,0.371,False,False
+140774,NC,Trevor C. Lance,Nonpartisan,2453,99.071,False,False
+140774,NC,Write-In,Nonpartisan,23,0.929,False,False
+140329,NC,Karen Hardesty,Republican,26088,100.0,False,False
+141100,NC,Alan W. Cutler,Republican,17309,100.0,False,False
+140434,NC,No,Nonpartisan,9467,58.489,False,False
+140434,NC,Yes,Nonpartisan,6719,41.511,False,False
+140188,NC,"Corey Ballance, Sr.",Democratic,4815,100.0,False,False
+140575,NC,Pell Cooper,Democratic,62348,100.0,False,False
+141090,NC,Steve Harris,Nonpartisan,8949,52.465,False,False
+141090,NC,"Maurice K. Berry, Jr.",Nonpartisan,7967,46.708,False,False
+141090,NC,Write-In,Nonpartisan,141,0.827,False,False
+141285,NC,Jeremy Johnson,Nonpartisan,14807,54.302,False,False
+141285,NC,Brad Boyd,Nonpartisan,11940,43.788,False,False
+141285,NC,Write-In,Nonpartisan,521,1.911,False,False
+140203,NC,Wendy A. Martin,Republican,7250,100.0,False,False
+141141,NC,Sydney Love Burrell,Republican,6492,100.0,False,False
+140536,NC,Pam Edwards,Republican,2502,100.0,False,False
+140475,NC,Cheri Siler-Mack,Democratic,61867,66.181,False,False
+140475,NC,Jonathan C. Strange,Republican,31614,33.819,False,False
+140862,NC,Yes,Nonpartisan,2512,66.755,False,False
+140862,NC,No,Nonpartisan,1251,33.245,False,False
+140779,NC,Andre M. Lassiter,Democratic,5464,100.0,False,False
+141102,NC,Jennifer Hornacek,Nonpartisan,8713,29.783,False,False
+141102,NC,Michael Shaun Wells,Nonpartisan,7055,24.116,False,False
+141102,NC,Gene Buron Lanier,Nonpartisan,6773,23.152,False,False
+141102,NC,"W.w. Murrell, Jr.",Nonpartisan,4027,13.765,False,False
+141102,NC,Ivan Christopher Blume,Nonpartisan,2280,7.794,False,False
+141102,NC,Write-In,Nonpartisan,407,1.391,False,False
+140529,NC,Jason Lawrence,Republican,14960,100.0,False,False
+140852,NC,Ashley Norris,Republican,329,66.197,False,False
+140852,NC,Vernon Lee Harris,Unaffiliated,168,33.803,False,False
+141239,NC,Roger Alford,Democratic,5535,53.165,False,False
+141239,NC,Jason L. Butler,Republican,4876,46.835,False,False
+140740,NC,Larry D. Henson,Nonpartisan,17756,99.184,False,False
+140740,NC,Write-In,Nonpartisan,146,0.816,False,False
+140103,NC,Stephanie Long Enoch,Nonpartisan,29281,18.284,False,False
+140103,NC,Samira Khan,Nonpartisan,25756,16.083,False,False
+140103,NC,Kyle Ward,Nonpartisan,24238,15.135,False,False
+140103,NC,Brandy Whittaker,Nonpartisan,24183,15.101,False,False
+140103,NC,Katharine Frazier,Nonpartisan,21809,13.619,False,False
+140103,NC,Charles Parker,Nonpartisan,20414,12.747,False,False
+140103,NC,Eric Hall,Nonpartisan,13884,8.67,False,False
+140103,NC,Write-In,Nonpartisan,577,0.36,False,False
+140682,NC,Alan Sherouse,Democratic,154615,100.0,False,False
+140621,NC,Jonathan Vanderford,Nonpartisan,2782,54.442,False,False
+140621,NC,Chris Perry,Nonpartisan,2226,43.562,False,False
+140621,NC,Write-In,Nonpartisan,102,1.996,False,False
+140208,NC,Bryan D. Wilson,Republican,73539,100.0,False,False
+140317,NC,Kyle Jones,Republican,36811,55.817,False,False
+140317,NC,Jennifer Wells,Democratic,29138,44.183,False,False
+140672,NC,Sandra T. Stocks,Nonpartisan,80,54.422,False,False
+140672,NC,Tyler S. Shirley,Nonpartisan,63,42.857,False,False
+140672,NC,Write-In,Nonpartisan,4,2.721,False,False
+141443,NC,Beverly P. Boyette,Nonpartisan,2935,69.848,False,False
+141443,NC,Danny Howell,Nonpartisan,1228,29.224,False,False
+141443,NC,Write-In,Nonpartisan,39,0.928,False,False
+141389,NC,Christina A. Gordon,Nonpartisan,35477,68.681,False,False
+141389,NC,Ann Schubarg,Nonpartisan,15674,30.344,False,False
+141389,NC,Write-In,Nonpartisan,504,0.976,False,False
+141168,NC,Melvin Ellison,Democratic,3102,100.0,False,False
+141270,NC,Brad Lankford,Republican,12143,69.908,False,False
+141270,NC,Kathy Kiser Shinault,Democratic,5227,30.092,False,False
+141049,NC,Emily Walton,Nonpartisan,22220,35.844,False,False
+141049,NC,Robert Johnson,Nonpartisan,14684,23.688,False,False
+141049,NC,Jacob Shepard,Nonpartisan,13445,21.689,False,False
+141049,NC,Carroll Harrod,Nonpartisan,10875,17.543,False,False
+141049,NC,Write-In,Nonpartisan,766,1.236,False,False
+140220,NC,Steve Gainey,Republican,48675,56.914,False,False
+140220,NC,Brian D. Rupp,Democratic,36849,43.086,False,False
+140134,NC,Amy Bottomley,Republican,3355,35.286,False,False
+140134,NC,Rick Wooten,Republican,3172,33.361,False,False
+140134,NC,Donna Moxley Rea,Republican,2981,31.353,False,False
+141289,NC,Kyle Leonard,Republican,1763,50.271,False,False
+141289,NC,Tim Matthews,Democratic,1744,49.729,False,False
+140268,NC,Matthew D. Cabe,Republican,81519,100.0,False,False
+140594,NC,Theodore Kazakos,Republican,75612,100.0,False,False
+141148,NC,Duffy Johnson,Republican,37169,100.0,False,False
+140735,NC,David Burnette,Republican,13519,18.639,False,False
+140735,NC,Jeff Stines,Republican,12404,17.102,False,False
+140735,NC,Tommy Long,Republican,12086,16.663,False,False
+140735,NC,Michael T. Sorrells,Democratic,11647,16.058,False,False
+140735,NC,Carly Pugh,Democratic,10449,14.406,False,False
+140735,NC,Vicki Hyatt,Unaffiliated,9272,12.784,False,False
+140735,NC,Blake T. Hart,Unaffiliated,3153,4.347,False,False
+141250,NC,Curtis R. Furr,Nonpartisan,14746,50.768,False,False
+141250,NC,Danny Poplin,Nonpartisan,13765,47.39,False,False
+141250,NC,Write-In,Nonpartisan,535,1.842,False,False
+140645,NC,Ray Campbell,Republican,3064,100.0,False,False
+140562,NC,Josephine Kerr Davis,Democratic,107301,100.0,False,False
+140309,NC,Jennifer Gray,Republican,3581,100.0,False,False
+140696,NC,Avery Michelle Crump,Democratic,154714,100.0,False,False
+140635,NC,Cameron Harrison,Republican,50993,100.0,False,False
+141214,NC,Mitch Harrill,Nonpartisan,114,89.062,False,False
+141214,NC,Write-In,Nonpartisan,14,10.938,False,False
+141131,NC,Dennis McLawhorn,Democratic,7208,59.208,False,False
+141131,NC,Mark C. Smith,Republican,4966,40.792,False,False
+140270,NC,Gregory R. Hayes,Republican,81799,100.0,False,False
+140689,NC,Grace Summers,Nonpartisan,90660,31.824,False,False
+140689,NC,"Andrew J. Courts, Jr.",Nonpartisan,56805,19.94,False,False
+140689,NC,Tahir Bashir,Nonpartisan,54550,19.148,False,False
+140689,NC,Jeffrey R. Egerton,Nonpartisan,43693,15.337,False,False
+140689,NC,Ryan Blankenship,Nonpartisan,36580,12.84,False,False
+140689,NC,Write-In,Nonpartisan,2595,0.911,False,False
+141012,NC,Deleon Parker,Republican,3838,60.536,False,False
+141012,NC,Erica Mitchell,Democratic,2502,39.464,False,False
+141207,NC,Scott J. Haynes,Republican,15276,67.533,False,False
+141207,NC,Phil Burney,Democratic,7344,32.467,False,False
+140708,NC,Lisa Y. Johnson-Tonkins,Democratic,18079,100.0,False,False
+140455,NC,Lee Kirkman,Republican,4593,100.0,False,False
+140650,NC,Kimberly Trull Lequire,Republican,3039,100.0,False,False
+140180,NC,Archie Griffin,Nonpartisan,9277,42.05,False,False
+140180,NC,Forrest Howell,Nonpartisan,7158,32.445,False,False
+140180,NC,Adam Philipps,Nonpartisan,5012,22.718,False,False
+140180,NC,Write-In,Nonpartisan,615,2.788,False,False
+140375,NC,C. Todd Roper,Democratic,90141,100.0,False,False
+140669,NC,Sonya Davis,Democratic,32667,50.908,False,False
+140669,NC,Roy A. Dawson,Republican,31502,49.092,False,False
+140832,NC,Adam Caldwell,Republican,53901,100.0,False,False
+140611,NC,Paige Sayles,Nonpartisan,14947,50.996,False,False
+140611,NC,Jennifer Paylor,Nonpartisan,14133,48.219,False,False
+140611,NC,Write-In,Nonpartisan,230,0.785,False,False
+141357,NC,Keith Gregory,Democratic,71842,100.0,False,False
+140336,NC,Tim Yarbrough,Republican,1393,100.0,False,False
+141238,NC,W. Philip McRae,Democratic,6381,61.545,False,False
+141238,NC,Scott Sellers,Republican,3987,38.455,False,False
+140217,NC,Randy Thompson,Republican,48602,56.585,False,False
+140217,NC,Gary Woods,Democratic,37290,43.415,False,False
+140387,NC,Mark Stiles,Republican,9884,100.0,False,False
+140457,NC,Joshua D. Whitford,Republican,4247,78.706,False,False
+140457,NC,Jeffrey O'Neill,Green,1149,21.294,False,False
+140428,NC,Chris Worley,Republican,8765,100.0,False,False
+140153,NC,Chevonne Wallace,Democratic,21807,100.0,False,False
+141116,NC,Mary Perkins-Williams,Democratic,5918,100.0,False,False
+140895,NC,Kellie McConnell Burns,Republican,8430,29.303,False,False
+140895,NC,Dylan Castle,Republican,8324,28.935,False,False
+140895,NC,Terry Bell,Democratic,6442,22.393,False,False
+140895,NC,Janet Jacobs Greene,Democratic,5572,19.369,False,False
+140418,NC,Larry D. Corry,Nonpartisan,22504,51.17,False,False
+140418,NC,Sherry A. Greene,Nonpartisan,20626,46.9,False,False
+140418,NC,Write-In,Nonpartisan,849,1.93,False,False
+140805,NC,Bobby O'Neal,Nonpartisan,411,34.684,False,False
+140805,NC,Flavia Burton,Nonpartisan,393,33.165,False,False
+140805,NC,William Caswell,Nonpartisan,378,31.899,False,False
+140805,NC,Write-In,Nonpartisan,3,0.253,False,False
+140530,NC,J.d. Hartman,Republican,15074,100.0,False,False
+141269,NC,Thomas Sands,Republican,11341,47.099,False,False
+141269,NC,John Turpin,Republican,10720,44.52,False,False
+141269,NC,Write-In,Nonpartisan,2018,8.381,False,False
+140664,NC,Holly Medlin,Republican,2927,18.02,False,False
+140664,NC,Mason R. Dyer,Republican,2882,17.743,False,False
+140664,NC,Joe Smith,Republican,2756,16.967,False,False
+140664,NC,Natasha Sutton,Democratic,2748,16.918,False,False
+140664,NC,Leisa Edwards Batts,Democratic,2520,15.514,False,False
+140664,NC,Darius F. Shackleford,Democratic,2410,14.837,False,False
+140603,NC,Carrie Vickery,Democratic,23931,100.0,False,False
+140581,NC,David Batts,Democratic,1327,73.845,False,False
+140581,NC,Write-In,Nonpartisan,470,26.155,False,False
+140299,NC,Mandy Watson,Nonpartisan,1079,22.257,False,False
+140299,NC,Richard Burr,Nonpartisan,815,16.811,False,False
+140299,NC,Patty Harris,Nonpartisan,754,15.553,False,False
+140299,NC,Jeff Claiborne,Nonpartisan,589,12.149,False,False
+140299,NC,Barry Sims,Nonpartisan,557,11.489,False,False
+140299,NC,Roger L. Hypes,Nonpartisan,391,8.065,False,False
+140299,NC,Joseph Abbatiello,Nonpartisan,333,6.869,False,False
+140299,NC,George Prisco,Nonpartisan,285,5.879,False,False
+140299,NC,Write-In,Nonpartisan,45,0.928,False,False
+140238,NC,Ward D. Scott,Democratic,95719,100.0,False,False
+141041,NC,Kelvin Edwards,Democratic,5118,100.0,False,False
+140571,NC,Carol Allen White,Democratic,12459,69.549,False,False
+140571,NC,Lisa Preku Webb,Republican,5455,30.451,False,False
+140382,NC,David Ricks,Republican,9804,100.0,False,False
+140868,NC,Susie K. Thomas,Democratic,14935,100.0,False,False
+141415,NC,Chris West,Nonpartisan,5402,95.526,False,False
+141415,NC,Write-In,Nonpartisan,253,4.474,False,False
+140618,NC,Cindy Sturges,Republican,57231,100.0,False,False
+141140,NC,Sherry Horne Page,Republican,6387,100.0,False,False
+140535,NC,Dexter Edwards,Republican,2038,72.89,False,False
+140535,NC,Write-In,Nonpartisan,758,27.11,False,False
+140829,NC,Amanda C. Woods,Nonpartisan,7111,63.559,False,False
+140829,NC,Sandy Jennings,Nonpartisan,3945,35.261,False,False
+140829,NC,Write-In,Nonpartisan,132,1.18,False,False
+140800,NC,Brandy Cahoon Pugh,Democratic,1618,100.0,False,False
+140170,NC,Eric F. Eller,Republican,27486,50.421,False,False
+140170,NC,Andrew Brooks,Democratic,27027,49.579,False,False
+140717,NC,Tyree Davis,Democratic,13326,76.114,False,False
+140717,NC,Tracy Story,Unaffiliated,4182,23.886,False,False
+140496,NC,Dana Parker,Nonpartisan,5275,51.635,False,False
+140496,NC,William Dobney,Nonpartisan,4876,47.729,False,False
+140496,NC,Write-In,Nonpartisan,65,0.636,False,False
+141206,NC,Adam Yelton,Republican,16933,100.0,False,False
+140384,NC,Amanda Anderson Carroll,Republican,10053,100.0,False,False
+140739,NC,Stacy Cutshaw Moore,Republican,18781,100.0,False,False
+141094,NC,Ryan Collins,Republican,15141,59.702,False,False
+141094,NC,Brookey Hardee,Democratic,10220,40.298,False,False
+140313,NC,Jeff Cruden,Republican,43493,100.0,False,False
+141276,NC,Marion McNeil Boone,Republican,32709,100.0,False,False
+141247,NC,Meghan Almond,Republican,15034,37.636,False,False
+141247,NC,Hannah Chavis Lear,Republican,12933,32.376,False,False
+141247,NC,Chody Harris,Democratic,6119,15.318,False,False
+141247,NC,Patrice Barringer,Democratic,5860,14.67,False,False
+141385,NC,Jasmine Zavala,Nonpartisan,26096,48.695,False,False
+141385,NC,Bonnie Greaves,Nonpartisan,19148,35.73,False,False
+141385,NC,Sebrina Pierce,Nonpartisan,7942,14.82,False,False
+141385,NC,Write-In,Nonpartisan,405,0.756,False,False
+140364,NC,Amanda Tyler McGuire,Republican,1618,100.0,False,False
+140690,NC,Yes,Nonpartisan,129732,62.854,False,False
+140690,NC,No,Nonpartisan,76669,37.146,False,False
+141237,NC,Loretta McNeil,Democratic,4840,27.845,False,False
+141237,NC,Daniel Jermaine Dockery,Democratic,4679,26.919,False,False
+141237,NC,Jason Clark,Republican,4270,24.566,False,False
+141237,NC,Jacob E. Pate,Republican,3593,20.671,False,False
+140632,NC,Chad E. Hawkins,Republican,50772,100.0,False,False
+140354,NC,Brett Little,Nonpartisan,33826,51.233,False,False
+140354,NC,William Shillito,Nonpartisan,31099,47.103,False,False
+140354,NC,Write-In,Nonpartisan,1099,1.665,False,False
+140549,NC,Aminah Thompson,Democratic,130552,100.0,False,False
+141259,NC,Jon Byers,Nonpartisan,52,31.902,False,False
+141259,NC,Lane Peeler,Nonpartisan,51,31.288,False,False
+141259,NC,Stephanie Webster,Nonpartisan,51,31.288,False,False
+141259,NC,Write-In,Nonpartisan,9,5.521,False,False
+141198,NC,Beth S. Dixon,Republican,35602,100.0,False,False
+140209,NC,"Will M. Callihan, Jr.",Republican,73401,100.0,False,False
+140731,NC,Dewayne Lee,Republican,6028,100.0,False,False
+140542,NC,Morgan H. Swinson,Republican,57318,100.0,False,False
+140836,NC,Terry Tippett,Republican,53275,100.0,False,False
+141166,NC,Mark B. Gulledge,Republican,7535,55.844,False,False
+141166,NC,Tahid Rucker,Democratic,5958,44.156,False,False
+140977,NC,George Guise,Democratic,48020,100.0,False,False
+140308,NC,Troy Leary,Republican,3520,100.0,False,False
+140695,NC,Yes,Nonpartisan,55017,51.927,False,False
+140695,NC,No,Nonpartisan,50934,48.073,False,False
+140797,NC,Jan Moore,Republican,1273,100.0,False,False
+141351,NC,Margaret Eagles,Democratic,113650,100.0,False,False
+141130,NC,Brenda Gatlin Hawkins,Nonpartisan,114,34.03,False,False
+141130,NC,Dianne Thomas,Nonpartisan,110,32.836,False,False
+141130,NC,James Vincent,Nonpartisan,100,29.851,False,False
+141130,NC,Write-In,Nonpartisan,11,3.284,False,False
+140877,NC,Yes,Nonpartisan,482,60.936,False,False
+140877,NC,No,Nonpartisan,309,39.064,False,False
+141456,NC,Dawn E. Hobson,Nonpartisan,168,46.027,False,False
+141456,NC,Kurt Held,Nonpartisan,141,38.63,False,False
+141456,NC,Write-In,Nonpartisan,56,15.342,False,False
+140381,NC,Randy Phillips,Republican,6361,54.85,False,False
+140381,NC,Philip Watson,Unaffiliated,2695,23.239,False,False
+140381,NC,Tom Beasley,Unaffiliated,2541,21.911,False,False
+140736,NC,Jeff Haynes,Democratic,17646,100.0,False,False
+140899,NC,Yes,Nonpartisan,10711,70.034,False,False
+140899,NC,No,Nonpartisan,4583,29.966,False,False
+140454,NC,Jason R. Jones,Republican,3720,58.842,False,False
+140454,NC,Gregory Holmes,Democratic,2602,41.158,False,False
+140425,NC,W. A. Rogers,Republican,11723,100.0,False,False
+141436,NC,Bryan Lamm,Nonpartisan,16819,53.754,False,False
+141436,NC,Gary Scott,Nonpartisan,13978,44.674,False,False
+141436,NC,Write-In,Nonpartisan,492,1.572,False,False
+140799,NC,Rachael Chestnut,Democratic,1336,100.0,False,False
+140553,NC,Dave Hall,Democratic,130621,100.0,False,False
+141324,NC,Errol Wedra,Republican,53758,54.221,False,False
+141324,NC,Madeleine Byl,Democratic,45389,45.779,False,False
+140850,NC,Frank Emory,Republican,412,100.0,False,False
+141205,NC,Allen Hardin,Republican,16870,100.0,False,False
+140991,NC,Stacy D. Fulcher,Republican,24648,100.0,False,False
+140322,NC,Jimmy Paylor,Republican,24112,69.777,False,False
+140322,NC,Chris Monteleon,Democratic,10444,30.223,False,False
+140709,NC,William Wood,Democratic,26956,100.0,False,False
+141419,NC,Yes,Nonpartisan,19941,55.506,False,False
+141419,NC,No,Nonpartisan,15985,44.494,False,False
+141365,NC,Ms. Sam Hamadani,Democratic,41662,100.0,False,False
+140152,NC,Chris Rhue,Democratic,21856,100.0,False,False
+140891,NC,Todd Burgin,Republican,1679,48.289,False,False
+140891,NC,Tommy Huskey,Democratic,1576,45.326,False,False
+140891,NC,Jedi Lykins,Libertarian,222,6.385,False,False
+140891,NC,Write-In,Nonpartisan,0,0.0,False,False
+140894,NC,John Shearl,Republican,8649,54.606,False,False
+140894,NC,Russ Lunn,Democratic,7190,45.394,False,False
+140804,NC,"Charles Gibbs, Jr.",Nonpartisan,81,75.0,False,False
+140804,NC,Write-In,Nonpartisan,27,25.0,False,False
+141326,NC,Trey Robison,Republican,65163,100.0,False,False
+140945,NC,Matt Newton,Democratic,358005,100.0,False,False
+141268,NC,Mike Marshall,Republican,12821,31.013,False,False
+141268,NC,Josh Bohannon,Republican,11807,28.56,False,False
+141268,NC,Ronnie Mendenhall,Republican,11580,28.011,False,False
+141268,NC,R.a. Reaves,Democratic,5133,12.416,False,False
+140663,NC,Ray Johnson,Republican,3772,100.0,False,False
+140164,NC,Ryan Huffman,Nonpartisan,7883,53.495,False,False
+140164,NC,Terry Munday,Nonpartisan,6628,44.978,False,False
+140164,NC,Write-In,Nonpartisan,225,1.527,False,False
+141319,NC,Wendy Maynard,Republican,65882,100.0,False,False
+141098,NC,Jason Spivey,Republican,16949,100.0,False,False
+140237,NC,Martin Moore,Democratic,96237,100.0,False,False
+141424,NC,Kathy Meyer Larson,Nonpartisan,3022,56.528,False,False
+141424,NC,Wade Leatham,Nonpartisan,2263,42.331,False,False
+141424,NC,Write-In,Nonpartisan,61,1.141,False,False
+140541,NC,Mario White,Democratic,46576,100.0,False,False
+141088,NC,Angela Spear Cobb,Nonpartisan,8726,50.928,False,False
+141088,NC,Rodney Walton,Nonpartisan,7217,42.121,False,False
+141088,NC,Write-In,Nonpartisan,1191,6.951,False,False
+141059,NC,Charles Blackwood,Democratic,62300,100.0,False,False
+141414,NC,Larry M. Pierce,Republican,19726,51.397,False,False
+141414,NC,Reginald Edwards,Democratic,18654,48.603,False,False
+141392,NC,Victor Hunt,Democratic,6449,100.0,False,False
+140694,NC,No,Nonpartisan,61047,58.284,False,False
+140694,NC,Yes,Nonpartisan,43693,41.716,False,False
+141273,NC,Quentin E. Harris,Republican,32389,100.0,False,False
+141350,NC,Wiley Nickel,Democratic,389771,100.0,False,False
+140713,NC,Herb Andrews,Nonpartisan,2938,98.624,False,False
+140713,NC,Write-In,Nonpartisan,41,1.376,False,False
+140492,NC,Ray Matusko,Republican,9995,100.0,False,False
+140818,NC,Kenny Godwin,Nonpartisan,40,32.258,False,False
+140818,NC,Larry Keith,Nonpartisan,40,32.258,False,False
+140818,NC,Liz Ruddy,Nonpartisan,37,29.839,False,False
+140818,NC,Write-In,Nonpartisan,7,5.645,False,False
+141372,NC,Megan Patton,Nonpartisan,29276,98.536,False,False
+141372,NC,Write-In,Nonpartisan,435,1.464,False,False
+140159,NC,Mike Eldreth,Republican,7502,24.847,False,False
+140159,NC,Todd A. McNeill,Republican,7477,24.764,False,False
+140159,NC,Jerry D. Powers,Republican,6823,22.598,False,False
+140159,NC,Leslie Colvard,Democratic,4318,14.301,False,False
+140159,NC,Caroline Renfro,Democratic,4073,13.49,False,False
+140674,NC,"Julian Jones, Jr.",Nonpartisan,101,58.721,False,False
+140674,NC,Henry Pasour,Nonpartisan,65,37.791,False,False
+140674,NC,Write-In,Nonpartisan,6,3.488,False,False
+140261,NC,Aaron Johnson,Republican,21070,100.0,False,False
+140978,NC,VIC Burleson,Republican,3720,25.485,False,False
+140978,NC,Steve Pitman,Republican,3695,25.313,False,False
+140978,NC,Harley Masters,Republican,3623,24.82,False,False
+140978,NC,Chelsea Wilson Thayer,Unaffiliated,1841,12.612,False,False
+140978,NC,Jeremy Boston Wise,Democratic,1718,11.77,False,False
+140533,NC,Joe Caudle,Republican,14101,33.438,False,False
+140533,NC,Kim McClure,Republican,14091,33.415,False,False
+140533,NC,Marie Helms,Republican,13978,33.147,False,False
+141112,NC,Deborah L. Barker,Democratic,11047,100.0,False,False
+140251,NC,Ryan Stone,Nonpartisan,3730,96.06,False,False
+140251,NC,Write-In,Nonpartisan,153,3.94,False,False
+140446,NC,William C. Farmer,Nonpartisan,25684,56.476,False,False
+140446,NC,O'Neal Simmons,Nonpartisan,19130,42.064,False,False
+140446,NC,Write-In,Nonpartisan,664,1.46,False,False
+140555,NC,Kevin E. Jones,Democratic,130496,100.0,False,False
+140494,NC,Jason Banks,Nonpartisan,8700,97.698,False,False
+140494,NC,Write-In,Nonpartisan,205,2.302,False,False
+140113,NC,Doug Green,Democratic,43611,100.0,False,False
+140436,NC,Barbara Roseboro Featherson,Democratic,1694,100.0,False,False
+140631,NC,Thomas Brown,Republican,51258,100.0,False,False
+141124,NC,Lee Teague,Republican,33655,100.0,False,False
+140679,NC,Scott A. Jones,Democratic,13076,51.399,False,False
+140679,NC,Alan Perdue,Republican,12364,48.601,False,False
+140266,NC,David W. Aycock,Republican,81933,100.0,False,False
+141197,NC,Chris Sease,Republican,35283,100.0,False,False
+140791,NC,Beth Tanner,Republican,37295,100.0,False,False
+141085,NC,"Timothy C. Stallings, Jr.",Democratic,7216,34.223,False,False
+141085,NC,Carl Witten,Republican,5720,27.128,False,False
+141085,NC,Charles Jordan,Democratic,4305,20.417,False,False
+141085,NC,"Ernest Cartwright, Jr.",Unaffiliated,3844,18.231,False,False
+140256,NC,Lonnie Israel,Democratic,23958,60.038,False,False
+140256,NC,Greg Parks,Republican,15947,39.962,False,False
+141027,NC,Ed McMahon,Republican,63771,100.0,False,False
+140973,NC,Susan Rodriguez-McDowell,Democratic,60462,100.0,False,False
+140752,NC,Alyssa Norman,Republican,29161,21.186,False,False
+140752,NC,Mary Ellen Kustin,Democratic,28561,20.751,False,False
+140752,NC,Randy Beaver,Republican,26633,19.35,False,False
+140752,NC,Shelia Dale,Republican,26479,19.238,False,False
+140752,NC,Reid J. Barwick,Democratic,25686,18.662,False,False
+140752,NC,Write-In,Nonpartisan,1120,0.814,False,False
+140662,NC,"Tyrone Sutton, Jr.",Democratic,4113,100.0,False,False
+141433,NC,Mick Rankin,Republican,2838,100.0,False,False
+141404,NC,Colby Davenport,Nonpartisan,2646,49.849,False,False
+141404,NC,Gerda Rhodes,Nonpartisan,2613,49.228,False,False
+141404,NC,Write-In,Nonpartisan,49,0.923,False,False
+140873,NC,W. D. Anderson,Democratic,2606,100.0,False,False
+141452,NC,Greg Moxley,Nonpartisan,10007,54.194,False,False
+141452,NC,Benjamin Hobson,Nonpartisan,8166,44.224,False,False
+141452,NC,Write-In,Nonpartisan,292,1.581,False,False
+141369,NC,Rashad A. Hauter,Republican,46885,100.0,False,False
+140540,NC,Ernie Lee,Republican,58198,100.0,False,False
+141119,NC,Sara Beth Fulford Rhodes,Democratic,45606,100.0,False,False
+140642,NC,Joshua Miller,Unaffiliated,2116,52.26,False,False
+140642,NC,Brian Keith Rountree,Democratic,1933,47.74,False,False
+140229,NC,Jean Marie Christy,Democratic,96712,100.0,False,False
+140146,NC,Robbie Hill,Republican,4093,52.936,False,False
+140146,NC,Kevin Adams,Unaffiliated,3639,47.064,False,False
+140693,NC,Yes,Nonpartisan,53893,51.003,False,False
+140693,NC,No,Nonpartisan,51773,48.997,False,False
+140280,NC,Ingrid Nurse,Democratic,43743,18.488,False,False
+140280,NC,Dan Redding,Democratic,43518,18.393,False,False
+140280,NC,Phil Henry,Democratic,39022,16.493,False,False
+140280,NC,James N. Bailey,Republican,35816,15.138,False,False
+140280,NC,Kristel Swayze,Republican,35599,15.046,False,False
+140280,NC,Ian Patrick,Republican,33557,14.183,False,False
+140280,NC,Thomas Hill,Libertarian,5345,2.259,False,False
+140219,NC,Paige Morgan,Republican,48863,56.978,False,False
+140219,NC,Susanne Duncan,Democratic,36895,43.022,False,False
+140798,NC,Phillip Holloway,Democratic,1047,52.09,False,False
+140798,NC,Dustin Nails,Republican,963,47.91,False,False
+140523,NC,Jon Welborn,Republican,62286,100.0,False,False
+141454,NC,Greg Wagoner,Nonpartisan,209,35.126,False,False
+141454,NC,Michael G. Wilkins,Nonpartisan,200,33.613,False,False
+141454,NC,William Paul Baity,Nonpartisan,172,28.908,False,False
+141454,NC,Write-In,Nonpartisan,14,2.353,False,False
+141265,NC,Brent E. Holbrooks,Nonpartisan,462,46.016,False,False
+141265,NC,Greg Lucas,Nonpartisan,382,38.048,False,False
+141265,NC,Marcus Christensen,Nonpartisan,152,15.139,False,False
+141265,NC,Write-In,Nonpartisan,8,0.797,False,False
+140987,NC,Sloan E. Bourgeois,Nonpartisan,646,96.131,False,False
+140987,NC,Write-In,Nonpartisan,26,3.869,False,False
+140599,NC,Amanda Johnson-Anthony,Democratic,584,36.845,False,False
+140599,NC,Michael Woodcock,Unaffiliated,459,28.959,False,False
+140599,NC,Mark Lane,Republican,455,28.707,False,False
+140599,NC,Write-In,Nonpartisan,87,5.489,False,False
+141092,NC,Sean Lavin,Republican,2444,100.0,False,False
+140839,NC,Craig Olive,Republican,56296,100.0,False,False
+140234,NC,Sara Nichols,Nonpartisan,78939,44.452,False,False
+140234,NC,Anthony D. Cole,Nonpartisan,59325,33.407,False,False
+140234,NC,Trent Duncan,Nonpartisan,24830,13.982,False,False
+140234,NC,Alan Ditmore,Nonpartisan,13694,7.711,False,False
+140234,NC,Write-In,Nonpartisan,793,0.447,False,False
+141364,NC,Mitchell Silver,Nonpartisan,22287,60.484,False,False
+141364,NC,Whitney Hill,Nonpartisan,14418,39.128,False,False
+141364,NC,Write-In,Nonpartisan,143,0.388,False,False
+140151,NC,Jamie Adams,Democratic,15860,50.025,False,False
+140151,NC,Todd G. Scott,Republican,15844,49.975,False,False
+141245,NC,Matthew Swain,Republican,18127,100.0,False,False
+141216,NC,Nicholas Sottile,Nonpartisan,43,39.815,False,False
+141216,NC,W. Bennett Phillips,Nonpartisan,36,33.333,False,False
+141216,NC,Richard Duffy,Nonpartisan,26,24.074,False,False
+141216,NC,Write-In,Nonpartisan,3,2.778,False,False
+140195,NC,Blount Knowles,Nonpartisan,3575,75.105,False,False
+140195,NC,Write-In,Nonpartisan,1185,24.895,False,False
+140941,NC,Spencer Merriweather,Democratic,358019,100.0,False,False
+140912,NC,Joe R. Ayers,Republican,4464,48.985,False,False
+140912,NC,Ronnie Smith,Democratic,3542,38.868,False,False
+140912,NC,"J. C. Edwards, Jr.",Unaffiliated,1107,12.147,False,False
+140630,NC,Tod Kinlaw,Republican,42223,52.279,False,False
+140630,NC,David Gain-Tang Chee,Democratic,38541,47.721,False,False
+141401,NC,Sherri Blount Gilliam,Democratic,3342,100.0,False,False
+141155,NC,Sarah Neely Lanier,Republican,37333,100.0,False,False
+140518,NC,Robert S. Taylor III,Republican,62294,100.0,False,False
+141004,NC,William Britton,Republican,29225,100.0,False,False
+140537,NC,Amy Price,Republican,10871,100.0,False,False
+140508,NC,Rodney Rawls,Republican,12892,100.0,False,False
+141279,NC,Eddie Harris,Republican,18440,100.0,False,False
+140802,NC,"Carl Cahoon, Jr.",Democratic,1126,58.131,False,False
+140802,NC,Odell Williams,Unaffiliated,811,41.869,False,False
+140588,NC,Kevin Edwards,Democratic,106203,100.0,False,False
+140114,NC,Craig Turner,Republican,39574,100.0,False,False
+140661,NC,Tammy Jennette,Democratic,3216,52.386,False,False
+140661,NC,Jerry R. Jones,Republican,2923,47.614,False,False
+140248,NC,Anna V. Stearns,Democratic,29705,66.826,False,False
+140248,NC,Rob Stetson,Republican,14746,33.174,False,False
+140578,NC,Caroline Farris Quinn,Democratic,62235,100.0,False,False
+140165,NC,Robert Burleson,Republican,4333,35.513,False,False
+140165,NC,Dennis Aldridge,Republican,3944,32.325,False,False
+140165,NC,Jason Grindstaff,Republican,3924,32.161,False,False
+140683,NC,Crissy Pratt,Republican,14982,100.0,False,False
+140622,NC,Scott Graham,Nonpartisan,3702,59.739,False,False
+140622,NC,Meghan Jordan,Nonpartisan,2409,38.874,False,False
+140622,NC,Write-In,Nonpartisan,86,1.388,False,False
+140433,NC,Yes,Nonpartisan,8718,54.563,False,False
+140433,NC,No,Nonpartisan,7260,45.437,False,False
+141147,NC,David L. Allen,Republican,37405,100.0,False,False
+140158,NC,Steve Adams,Democratic,785,99.493,False,False
+140158,NC,George Truman,Democratic,4,0.507,False,False
+140158,NC,Steven T. Adams,Democratic,0,0.0,False,False
+141252,NC,"Michael E. Snyder, Jr.",Nonpartisan,411,30.399,False,False
+141252,NC,David Morgan,Nonpartisan,332,24.556,False,False
+141252,NC,Peter Asciutto,Nonpartisan,313,23.151,False,False
+141252,NC,Scott St. John,Nonpartisan,175,12.944,False,False
+141252,NC,Bill Shafer,Nonpartisan,112,8.284,False,False
+141252,NC,Write-In,Nonpartisan,9,0.666,False,False
+140199,NC,Charles Ray Peterson,Republican,2674,100.0,False,False
+140202,NC,Cristin Hursey,Republican,7344,100.0,False,False
+140532,NC,Mark White,Republican,14265,50.598,False,False
+140532,NC,Benita Finney,Republican,13928,49.402,False,False
+141111,NC,"John R. Byrd, Sr.",Republican,8311,53.474,False,False
+141111,NC,Peter L. Baker,Democratic,7231,46.526,False,False
+141213,NC,Clint Green,Nonpartisan,10378,32.881,False,False
+141213,NC,Shannon Buckley,Nonpartisan,9821,31.117,False,False
+141213,NC,Cathy Darnell,Nonpartisan,4789,15.173,False,False
+141213,NC,Reggie Hines,Nonpartisan,4401,13.944,False,False
+141213,NC,Mortellus Amorello,Nonpartisan,1825,5.782,False,False
+141213,NC,Write-In,Nonpartisan,348,1.103,False,False
+140583,NC,L. Lamont Wiggins,Democratic,10233,100.0,False,False
+140554,NC,Doretta L. Walker,Democratic,130480,100.0,False,False
+140301,NC,Teresa Branch,Republican,17571,25.971,False,False
+140301,NC,Joe Sims,Republican,16969,25.081,False,False
+140301,NC,William Fore,Republican,16634,24.586,False,False
+140301,NC,Lesa Bolick Widener,Republican,16483,24.363,False,False
+141072,NC,Myra Stokes Carter,Democratic,571,100.0,False,False
+140598,NC,Susan Hawks Gordon,Unaffiliated,554,51.679,False,False
+140598,NC,Terry M. Bennett,Republican,373,34.795,False,False
+140598,NC,Sebastian Jimenez-Barreras,Unaffiliated,137,12.78,False,False
+140598,NC,Write-In,Nonpartisan,8,0.746,False,False
+141152,NC,Mike Brown,Republican,3795,27.306,False,False
+141152,NC,Brad Thomas,Republican,3770,27.126,False,False
+141152,NC,Hilda Decortez,Unaffiliated,3260,23.457,False,False
+141152,NC,Mikayla Cassidy,Unaffiliated,3073,22.111,False,False
+141123,NC,Watsi M. Sutton,Democratic,34030,54.813,False,False
+141123,NC,Daniel Hines Entzminger,Republican,28054,45.187,False,False
+140870,NC,Michael L. Gaster,Nonpartisan,9595,35.692,False,False
+140870,NC,John Gross,Nonpartisan,9306,34.617,False,False
+140870,NC,Luke Arnold,Nonpartisan,7520,27.973,False,False
+140870,NC,Write-In,Nonpartisan,462,1.719,False,False
+140841,NC,John Michael Langdon,Nonpartisan,25589,20.898,False,False
+140841,NC,Dewitt Hardee,Nonpartisan,22727,18.56,False,False
+140841,NC,Gracie Chamblee,Nonpartisan,20702,16.907,False,False
+140841,NC,Brad A. Barefoot,Nonpartisan,12006,9.805,False,False
+140841,NC,Caitlin Marsh,Nonpartisan,10944,8.938,False,False
+140841,NC,Luke Smith,Nonpartisan,10870,8.877,False,False
+140841,NC,Christine A. Livingston,Nonpartisan,9797,8.001,False,False
+140841,NC,Travis Allen Floyd,Nonpartisan,4515,3.687,False,False
+140841,NC,Joe David Austin,Nonpartisan,3952,3.227,False,False
+140841,NC,Write-In,Nonpartisan,1347,1.1,False,False
+140860,NC,Joshua McKinney,Nonpartisan,59,35.976,False,False
+140860,NC,Wendy Winslow,Nonpartisan,53,32.317,False,False
+140860,NC,Allyson Williamson,Nonpartisan,48,29.268,False,False
+140860,NC,Write-In,Nonpartisan,4,2.439,False,False
+140223,NC,Mike Barbee,Nonpartisan,38384,38.371,False,False
+140223,NC,Jody E. Clemmons,Nonpartisan,38216,38.203,False,False
+140223,NC,Anthony Street,Nonpartisan,21552,21.544,False,False
+140223,NC,Write-In,Nonpartisan,1883,1.882,False,False
+140169,NC,Seth Banks,Republican,36890,100.0,False,False
+140940,NC,Yes,Nonpartisan,214184,66.555,False,False
+140940,NC,No,Nonpartisan,107632,33.445,False,False
+140274,NC,Tim Rooks,Republican,41653,100.0,False,False
+140629,NC,A.m. Stephens III,Republican,41283,51.042,False,False
+140629,NC,Barbara Walls,Democratic,39598,48.958,False,False
+140216,NC,Theresa Jacobs,Democratic,2722,100.0,False,False
+140738,NC,Greg West,Republican,19568,100.0,False,False
+140133,NC,William B. Arnold,Republican,3153,28.781,False,False
+140133,NC,Tommy C. McKnight,Republican,2917,26.627,False,False
+140133,NC,Timmy Evans,Republican,2904,26.508,False,False
+140133,NC,Brad Mabe,Democratic,1981,18.083,False,False
+140651,NC,Caleb Stiles,Republican,2310,63.322,False,False
+140651,NC,Write-In,Nonpartisan,882,24.178,False,False
+140651,NC,Reba Louanne Jenkins McMahan,Democratic,456,12.5,False,False
+140981,NC,Shane Vance,Republican,4968,100.0,False,False
+140792,NC,Yohan Namkung,Republican,36547,100.0,False,False
+141115,NC,No,Nonpartisan,9102,62.142,False,False
+141115,NC,Yes,Nonpartisan,5545,37.858,False,False
+140126,NC,Carole A. Hicks,Republican,63034,100.0,False,False
+141220,NC,Steve Holland,Nonpartisan,1388,69.96,False,False
+141220,NC,Kimberly McCurry,Nonpartisan,588,29.637,False,False
+141220,NC,Write-In,Nonpartisan,8,0.403,False,False
+140558,NC,Amanda L. Maris,Democratic,130230,100.0,False,False
+140369,NC,Steve Maynor,Democratic,28246,66.538,False,False
+140369,NC,Marcus A. Globuschutz,Republican,10946,25.785,False,False
+140369,NC,William Bruce Coble,Write-In,3137,7.39,False,False
+140369,NC,Write-In,Nonpartisan,122,0.287,False,False
+140692,NC,Yes,Nonpartisan,60641,57.327,False,False
+140692,NC,No,Nonpartisan,45139,42.673,False,False
+140279,NC,Kress Berry,Nonpartisan,377,35.234,False,False
+140279,NC,Darel Malcolm,Nonpartisan,344,32.15,False,False
+140279,NC,Starr-Nell Bowman,Nonpartisan,336,31.402,False,False
+140279,NC,Write-In,Nonpartisan,13,1.215,False,False
+141380,NC,Maddie Segal,Nonpartisan,24387,48.015,False,False
+141380,NC,Amita Gupta,Nonpartisan,15491,30.5,False,False
+141380,NC,Jacob Arthur,Nonpartisan,10733,21.132,False,False
+141380,NC,Write-In,Nonpartisan,179,0.352,False,False
+140935,NC,Elisa Chinn Gary,Democratic,355183,100.0,False,False
+140522,NC,Jim Hedrick,Republican,62484,100.0,False,False
+141261,NC,Carson Yuckel,Nonpartisan,156,41.053,False,False
+141261,NC,Kevin Almond,Nonpartisan,136,35.789,False,False
+141261,NC,David D. Fraley,Nonpartisan,86,22.632,False,False
+141261,NC,Write-In,Nonpartisan,2,0.526,False,False
+141040,NC,Melvetta Broadnax Taylor,Democratic,5070,100.0,False,False
+140157,NC,Lisa G. Davis,Democratic,672,100.0,False,False
+140320,NC,Steven Overby,Republican,25426,100.0,False,False
+141283,NC,Kent Whitaker,Republican,14337,100.0,False,False
+140838,NC,Michelle Creech Ball,Republican,54884,100.0,False,False
+140809,NC,Renee L. Holland,Republican,52504,100.0,False,False
+141110,NC,Ricky Hughes,Democratic,8471,35.992,False,False
+141110,NC,Jimmy Wilkins,Republican,7854,33.37,False,False
+141110,NC,Donald Long,Republican,7211,30.638,False,False
+140697,NC,Marc Ross Tyrey,Democratic,154454,100.0,False,False
+141020,NC,Ricky D. Jenkins,Nonpartisan,4345,95.684,False,False
+141020,NC,Write-In,Nonpartisan,196,4.316,False,False
+140582,NC,Larry D. Woodley,Democratic,2184,100.0,False,False
+141129,NC,Rich Zeck,Nonpartisan,141,91.558,False,False
+141129,NC,Write-In,Nonpartisan,13,8.442,False,False
+140908,NC,Mark A. Cody,Democratic,8893,100.0,False,False
+141234,NC,Ronnie Nicholson,Democratic,5930,58.678,False,False
+141234,NC,Bo Frizzell,Republican,4176,41.322,False,False
+140988,NC,Scott Maynor,Nonpartisan,5187,52.236,False,False
+140988,NC,Misty W. Maness,Nonpartisan,4623,46.556,False,False
+140988,NC,Write-In,Nonpartisan,120,1.208,False,False
+140383,NC,Jason Murphy,Republican,7633,37.407,False,False
+140383,NC,Shannon D. Raper,Republican,6829,33.467,False,False
+140383,NC,Joy Stein,Democratic,3128,15.33,False,False
+140383,NC,Carmen Owens Garland,Unaffiliated,2815,13.796,False,False
+140898,NC,Brent Holbrooks,Republican,11261,100.0,False,False
+141093,NC,Shayne Frey,Republican,14112,55.71,False,False
+141093,NC,Tim Zizack,Democratic,11219,44.29,False,False
+141003,NC,Todd E. Maness,Republican,28772,100.0,False,False
+140149,NC,Scott Howell,Unaffiliated,4696,58.995,False,False
+140149,NC,Tim Watkins,Democratic,3264,41.005,False,False
+141336,NC,Cassandra D. Neal,Democratic,10881,100.0,False,False
+141275,NC,Tom Langan,Republican,32760,100.0,False,False
+141278,NC,Frank Fleming,Republican,18771,100.0,False,False
+140587,NC,Lee Childress,Democratic,60461,14.365,False,False
+140587,NC,Susan Conway,Democratic,60207,14.305,False,False
+140587,NC,Curtis Fentress,Democratic,59225,14.072,False,False
+140587,NC,Marie Jackson,Democratic,58878,13.989,False,False
+140587,NC,Robert Weiss,Republican,46985,11.163,False,False
+140587,NC,Allen Daniel,Republican,46434,11.032,False,False
+140587,NC,Robert Barr,Republican,45009,10.694,False,False
+140587,NC,Jill Nelson Berlin,Republican,43685,10.379,False,False
+140110,NC,Bryan Ray,Republican,38597,100.0,False,False
+140337,NC,Randy D. Simmons,Republican,4705,54.633,False,False
+140337,NC,Jelesa Hardin,Democratic,3907,45.367,False,False
+140660,NC,Amanda J. Labrecque,Republican,2174,55.29,False,False
+140660,NC,Lahoma Smith Romocki,Democratic,1758,44.71,False,False
+140247,NC,Rob Elliot,Nonpartisan,12686,98.762,False,False
+140247,NC,Write-In,Nonpartisan,159,1.238,False,False
+140548,NC,No,Nonpartisan,327,54.866,False,False
+140548,NC,Yes,Nonpartisan,269,45.134,False,False
+140903,NC,Pamela Peek Bell,Nonpartisan,8192,43.177,False,False
+140903,NC,Matthew Reynolds,Nonpartisan,6944,36.599,False,False
+140903,NC,Greg Zickgraf,Nonpartisan,3837,20.223,False,False
+140903,NC,Write-In,Nonpartisan,0,0.0,False,False
+140490,NC,Mike Payment,Republican,9671,100.0,False,False
+141421,NC,Yes,Nonpartisan,22451,62.576,False,False
+141421,NC,No,Nonpartisan,13427,37.424,False,False
+141008,NC,Scott Sheffield,Nonpartisan,20874,31.891,False,False
+141008,NC,Lewin Blue,Nonpartisan,18762,28.664,False,False
+141008,NC,Marcia Woodfield,Nonpartisan,13954,21.319,False,False
+141008,NC,Zachary Tuttle Riley,Nonpartisan,11667,17.825,False,False
+141008,NC,Write-In,Nonpartisan,197,0.301,False,False
+141117,NC,Rodney D. Harris,Democratic,6298,55.489,False,False
+141117,NC,Benji Holloman,Republican,5052,44.511,False,False
+140480,NC,Stephen Craig Stokes,Democratic,18603,70.694,False,False
+140480,NC,Rob Hasty,Republican,7712,29.306,False,False
+140451,NC,Cleopatra Hargett-Lawton,Democratic,3263,50.865,False,False
+140451,NC,Jennifer Dacey,Republican,3152,49.135,False,False
+140998,NC,Craig Jones,Nonpartisan,564,97.409,False,False
+140998,NC,Write-In,Nonpartisan,15,2.591,False,False
+140176,NC,Jennifer Cox Cornelius,Republican,1969,83.432,False,False
+140176,NC,Elise Ross Manning,Unaffiliated,391,16.568,False,False
+140278,NC,"Yates Jensen, Jr.",Nonpartisan,410,95.571,False,False
+140278,NC,Write-In,Nonpartisan,19,4.429,False,False
+140857,NC,Jay Bender,Nonpartisan,88,94.624,False,False
+140857,NC,Write-In,Nonpartisan,5,5.376,False,False
+140934,NC,Charles Deloach,Democratic,57700,100.0,False,False
+141097,NC,Jason K. Jordan,Republican,16958,100.0,False,False
+141068,NC,John Riggs,Nonpartisan,137,34.86,False,False
+141068,NC,Courtney Norfleet,Nonpartisan,90,22.901,False,False
+141068,NC,Eric Hopkins,Nonpartisan,82,20.865,False,False
+141068,NC,Jeff Polaski,Nonpartisan,71,18.066,False,False
+141068,NC,Write-In,Nonpartisan,13,3.308,False,False
+141394,NC,Rolanda D. Hedgepeth,Democratic,6628,100.0,False,False
+140156,NC,Bobbie Little,Democratic,741,72.647,False,False
+140156,NC,Write-In,Nonpartisan,279,27.353,False,False
+141343,NC,Mona Singh,Democratic,326008,36.8,False,False
+141343,NC,Christine Kushner,Democratic,298865,33.736,False,False
+141343,NC,Kyle Stogoski,Republican,134748,15.21,False,False
+141343,NC,Gary Dale Hartong,Republican,126279,14.254,False,False
+140258,NC,Randy Burns,Republican,18176,39.86,False,False
+140258,NC,Phil Smith,Republican,15771,34.586,False,False
+140258,NC,Pam Genant,Democratic,11653,25.555,False,False
+141445,NC,Joanne Daniels,Democratic,2532,80.972,False,False
+141445,NC,Patrick Vanhook,Republican,595,19.028,False,False
+140370,NC,Sarah D'Amato,Nonpartisan,22502,63.534,False,False
+140370,NC,Adele Sommerville,Nonpartisan,8671,24.483,False,False
+140370,NC,Michelle L. May,Nonpartisan,4074,11.503,False,False
+140370,NC,Write-In,Nonpartisan,170,0.48,False,False
+141109,NC,Daniel L. Flores,Nonpartisan,16,50.0,False,False
+141109,NC,"Jason Baker, Sr.",Nonpartisan,15,46.875,False,False
+141109,NC,Write-In,Nonpartisan,1,3.125,False,False
+140504,NC,Ron Payne,Republican,11314,100.0,False,False
+141435,NC,Brandon L. Barbrey,Democratic,18122,62.52,False,False
+141435,NC,Bobby Knight,Republican,10864,37.48,False,False
+140222,NC,Brian M. Chism,Republican,57861,100.0,False,False
+140139,NC,Robert Crumpton,Republican,42423,100.0,False,False
+141070,NC,Paul Jordan,Nonpartisan,516,21.243,False,False
+141070,NC,Lou Ostendorff,Nonpartisan,473,19.473,False,False
+141070,NC,Charlie Overcash,Nonpartisan,460,18.938,False,False
+141070,NC,Iris Cooper,Nonpartisan,456,18.773,False,False
+141070,NC,Don McGuire,Nonpartisan,454,18.691,False,False
+141070,NC,Write-In,Nonpartisan,70,2.882,False,False
+140497,NC,William L. Powell,Nonpartisan,4242,31.054,False,False
+140497,NC,Joseph Hobbs,Nonpartisan,3801,27.826,False,False
+140497,NC,Harvey Roberts,Nonpartisan,2872,21.025,False,False
+140497,NC,John Mack Duncan,Nonpartisan,2604,19.063,False,False
+140497,NC,Write-In,Nonpartisan,141,1.032,False,False
+140820,NC,Jack Shoemaker,Nonpartisan,118,79.195,False,False
+140820,NC,Write-In,Nonpartisan,31,20.805,False,False
+140215,NC,Arthur A. Bullock,Democratic,2245,62.465,False,False
+140215,NC,Levi Roberts,Unaffiliated,1349,37.535,False,False
+140516,NC,Trisha Garner,Nonpartisan,20605,24.239,False,False
+140516,NC,Sheila Blower,Nonpartisan,17956,21.123,False,False
+140516,NC,Lynn Fritts,Nonpartisan,15587,18.336,False,False
+140516,NC,Caleb Fogle,Nonpartisan,14927,17.56,False,False
+140516,NC,Amber Goins,Nonpartisan,9526,11.206,False,False
+140516,NC,Michael Dale Kuykendall,Nonpartisan,6006,7.065,False,False
+140516,NC,Write-In,Nonpartisan,399,0.469,False,False
+141255,NC,Charlie Council,Nonpartisan,289,97.966,False,False
+141255,NC,Write-In,Nonpartisan,6,2.034,False,False
+141450,NC,Tate C. Williams,Republican,11484,100.0,False,False
+140980,NC,Shana W. Buchanan,Republican,5104,100.0,False,False
+141175,NC,Angelica Chavis McIntyre,Democratic,20966,100.0,False,False
+140477,NC,Caitlin Evans,Democratic,68991,100.0,False,False
+141440,NC,Rob Boyette,Democratic,3313,100.0,False,False
+141411,NC,Ellen Lamont,Nonpartisan,1682,61.208,False,False
+141411,NC,Yolanda Adams,Nonpartisan,1038,37.773,False,False
+141411,NC,Write-In,Nonpartisan,28,1.019,False,False
+140365,NC,Michael R. Roberson,Democratic,29359,100.0,False,False
+141136,NC,David Moore,Republican,4832,26.797,False,False
+141136,NC,Ray Gasperson,Democratic,4764,26.42,False,False
+141136,NC,Andre Overholt,Republican,4520,25.067,False,False
+141136,NC,Jon Klimstra,Democratic,3916,21.717,False,False
+140246,NC,Kim Plemmons,Nonpartisan,9044,76.761,False,False
+140246,NC,Taras Shevchenko,Nonpartisan,2661,22.585,False,False
+140246,NC,Write-In,Nonpartisan,77,0.654,False,False
+141017,NC,Jamon Whitfield,Nonpartisan,3033,97.902,False,False
+141017,NC,Write-In,Nonpartisan,65,2.098,False,False
+141187,NC,Karla Foster Leonard,Republican,28103,20.531,False,False
+141187,NC,Jason Scott Hinson,Republican,27707,20.242,False,False
+141187,NC,Daniel R. Lancaster,Republican,27408,20.023,False,False
+141187,NC,Alissa Redmond,Democratic,18611,13.596,False,False
+141187,NC,Hannah Addair,Democratic,18023,13.167,False,False
+141187,NC,Ray Pope,Democratic,17029,12.441,False,False
+141257,NC,Tate P. Daniels,Nonpartisan,209,92.478,False,False
+141257,NC,Write-In,Nonpartisan,17,7.522,False,False
+141228,NC,Tammy Grady,Republican,12058,100.0,False,False
+140953,NC,Kimberly Y. Best,Democratic,356631,100.0,False,False
+140124,NC,Chad Pennell,Republican,11492,100.0,False,False
+140511,NC,Matt Mizell,Republican,41791,20.379,False,False
+140511,NC,Dexter M. Short,Republican,40623,19.81,False,False
+140511,NC,Robbie Beasley,Republican,40341,19.672,False,False
+140511,NC,Dwight D. Cornelison,Republican,39412,19.219,False,False
+140511,NC,Tonya A. Lanier,Democratic,21686,10.575,False,False
+140511,NC,Andrea N. Tate,Democratic,21213,10.344,False,False
+141218,NC,Jim Proctor,Nonpartisan,431,32.309,False,False
+141218,NC,Dave Lusk,Nonpartisan,383,28.711,False,False
+141218,NC,Friedrich Jaeger-Faber,Nonpartisan,253,18.966,False,False
+141218,NC,Richard Sayles,Nonpartisan,253,18.966,False,False
+141218,NC,Write-In,Nonpartisan,14,1.049,False,False
+140613,NC,Ricky May,Nonpartisan,16624,53.827,False,False
+140613,NC,Seth Champion,Nonpartisan,13785,44.635,False,False
+140613,NC,Write-In,Nonpartisan,475,1.538,False,False
+141330,NC,Stephen Smith,Republican,11339,59.953,False,False
+141330,NC,Brittany Cabuno,Democratic,7574,40.047,False,False
+140277,NC,Ben Honeycutt,Nonpartisan,239,16.483,False,False
+140277,NC,Chris M. Bailey,Nonpartisan,234,16.138,False,False
+140277,NC,Candice Withers,Nonpartisan,207,14.276,False,False
+140277,NC,Michael Smith,Nonpartisan,207,14.276,False,False
+140277,NC,Jody York,Nonpartisan,189,13.034,False,False
+140277,NC,Travis E. Foster,Nonpartisan,165,11.379,False,False
+140277,NC,Roy D. Cooke,Nonpartisan,162,11.172,False,False
+140277,NC,Write-In,Nonpartisan,47,3.241,False,False
+141464,NC,Keith Boone,Nonpartisan,5563,51.112,False,False
+141464,NC,Jim Edwards,Nonpartisan,5177,47.565,False,False
+141464,NC,Write-In,Nonpartisan,144,1.323,False,False
+141403,NC,Brian Keith Phelps,Democratic,3808,100.0,False,False
+141381,NC,Safiyah Jackson,Democratic,47517,57.838,False,False
+141381,NC,John B. Adcock,Republican,34638,42.162,False,False
+141099,NC,Camille Costin Harrell,Republican,14803,77.547,False,False
+141099,NC,Write-In,Nonpartisan,4286,22.453,False,False
+141038,NC,Kelly Colquette Hanley,Democratic,22062,50.439,False,False
+141038,NC,G. Frank Jones,Republican,21678,49.561,False,False
+140849,NC,Zachary Simons,Unaffiliated,219,61.69,False,False
+140849,NC,Michael D. Pretty,Democratic,136,38.31,False,False
+140379,NC,Steve Coleman,Republican,8629,71.22,False,False
+140379,NC,Judith Bodley,Democratic,3487,28.78,False,False
+141182,NC,Philip Butler,Republican,19541,24.797,False,False
+141182,NC,Kimberly McMichael,Republican,19271,24.454,False,False
+141182,NC,Kimberley Thompson-Hairston,Republican,17985,22.822,False,False
+141182,NC,Trina Jones,Democratic,12009,15.239,False,False
+141182,NC,Hamid Kamara,Democratic,9999,12.688,False,False
+140676,NC,Jesse Best II,Nonpartisan,48,18.75,False,False
+140676,NC,Ricky Holloman,Nonpartisan,45,17.578,False,False
+140676,NC,Dianne M. Morris,Nonpartisan,41,16.016,False,False
+140676,NC,Jarrod McKeel,Nonpartisan,41,16.016,False,False
+140676,NC,Ronald Turner,Nonpartisan,39,15.234,False,False
+140676,NC,Felicia Speight,Nonpartisan,36,14.062,False,False
+140676,NC,Write-In,Nonpartisan,6,2.344,False,False
+141223,NC,Ricky Ledbetter,Nonpartisan,509,29.287,False,False
+141223,NC,Rosaleen M. Francis,Nonpartisan,489,28.136,False,False
+141223,NC,Todd Hines,Nonpartisan,375,21.577,False,False
+141223,NC,Andrew Kegley,Nonpartisan,355,20.426,False,False
+141223,NC,Write-In,Nonpartisan,10,0.575,False,False
+141418,NC,Ronald W. Parks,Nonpartisan,20708,56.019,False,False
+141418,NC,Phil Yelverton,Nonpartisan,15704,42.482,False,False
+141418,NC,Write-In,Nonpartisan,554,1.499,False,False
+140148,NC,Katie Scarborough,Unaffiliated,4243,53.566,False,False
+140148,NC,Thedis Spencer,Democratic,3678,46.434,False,False
+141335,NC,Eric Burwell,Democratic,9247,70.923,False,False
+141335,NC,Write-In,Nonpartisan,3791,29.077,False,False
+140637,NC,David A. Phillips,Republican,52079,100.0,False,False
+140608,NC,Harry Foy,Republican,17002,51.829,False,False
+140608,NC,Milltrene Brodie Newell,Democratic,15802,48.171,False,False
+140778,NC,Leroy Douglas II,Democratic,5250,100.0,False,False
+141325,NC,No,Nonpartisan,58968,63.757,False,False
+141325,NC,Yes,Nonpartisan,33521,36.243,False,False
+141296,NC,Jennifer Kleinheksel,Republican,1781,100.0,False,False
+140214,NC,Aaron Russ,Republican,2427,61.693,False,False
+140214,NC,Jerome L. Purdie,Democratic,1507,38.307,False,False
+141184,NC,Billy Parker,Republican,17470,51.133,False,False
+141184,NC,Franklin Moore,Democratic,10840,31.727,False,False
+141184,NC,Ryan Boone Young,Unaffiliated,5856,17.14,False,False
+140547,NC,David J. Jones,Republican,2894,100.0,False,False
+140102,NC,Shannon Long,Unaffiliated,34633,52.407,False,False
+140102,NC,Terry S. Johnson,Republican,31452,47.593,False,False
+140396,NC,Larry McLaughlin,Republican,1512,64.671,False,False
+140396,NC,Kathleen Miglorie,Democratic,826,35.329,False,False
+141113,NC,Dennis Morris Allen,Democratic,8663,54.639,False,False
+141113,NC,Jason Wilborn,Republican,7192,45.361,False,False
+140284,NC,Victoria P. Porter,Nonpartisan,50288,50.604,False,False
+140284,NC,Jeff Goforth,Nonpartisan,47456,47.754,False,False
+140284,NC,Write-In,Nonpartisan,1632,1.642,False,False
+140255,NC,Clay Hamilton,Nonpartisan,256,35.117,False,False
+140255,NC,Mason Blake,Nonpartisan,240,32.922,False,False
+140255,NC,Danny Sharpe,Nonpartisan,225,30.864,False,False
+140255,NC,Write-In,Nonpartisan,8,1.097,False,False
+140393,NC,William Jones,Democratic,48440,100.0,False,False
+141164,NC,Terry Lewis,Republican,6618,15.728,False,False
+141164,NC,Justin Dawkins,Republican,6617,15.725,False,False
+141164,NC,Cameron Wright,Democratic,6423,15.264,False,False
+141164,NC,Laverne Schultz,Republican,6330,15.043,False,False
+141164,NC,Jason R. Gainey,Republican,6161,14.642,False,False
+141164,NC,Linda S. Ross,Democratic,5853,13.91,False,False
+141164,NC,Michael Legrand,Unaffiliated,4077,9.689,False,False
+140498,NC,No,Nonpartisan,7897,65.421,False,False
+140498,NC,Yes,Nonpartisan,4174,34.579,False,False
+140245,NC,Alan Thornburg,Democratic,97509,100.0,False,False
+141432,NC,Doug Combs,Nonpartisan,73,71.569,False,False
+141432,NC,Write-In,Nonpartisan,29,28.431,False,False
+141154,NC,Jason Austin,Nonpartisan,26655,40.26,False,False
+141154,NC,Carrie Guess-Slatosky,Nonpartisan,22802,34.44,False,False
+141154,NC,Kristina Hare,Nonpartisan,16210,24.484,False,False
+141154,NC,Write-In,Nonpartisan,540,0.816,False,False
+141349,NC,Yes,Nonpartisan,317278,62.656,False,False
+141349,NC,No,Nonpartisan,189101,37.344,False,False
+140267,NC,Wes W. Barkley,Republican,81912,100.0,False,False
+140206,NC,No,Nonpartisan,8064,70.195,False,False
+140206,NC,Yes,Nonpartisan,3424,29.805,False,False
+140817,NC,Anita Kurn,Republican,7775,100.0,False,False
+140539,NC,Luke Britt,Nonpartisan,8407,53.753,False,False
+140539,NC,Franklin O. Williams,Nonpartisan,6925,44.277,False,False
+140539,NC,Write-In,Nonpartisan,308,1.969,False,False
+141342,NC,Charisse Meadows Fain,Democratic,932,48.542,False,False
+141342,NC,Angie Ryan,Republican,632,32.917,False,False
+141342,NC,Gordon Wilder,Unaffiliated,188,9.792,False,False
+141342,NC,"Charles Turrentine, Jr.",Unaffiliated,168,8.75,False,False
+140644,NC,Monica Horton-Wiggins,Democratic,3167,100.0,False,False
+140174,NC,Charles Hickman,Republican,1501,100.0,False,False
+140785,NC,Evelyn M. McLeod,Democratic,12408,100.0,False,False
+141108,NC,Yes,Nonpartisan,4091,74.954,False,False
+141108,NC,No,Nonpartisan,1367,25.046,False,False
+140503,NC,Stephen Nichols,Republican,10028,53.446,False,False
+140503,NC,Kelleta Govan,Democratic,8735,46.554,False,False
+140605,NC,Trevonia Brown-Gaither,Democratic,26810,46.347,False,False
+140605,NC,Alex B. Bohannon,Democratic,25409,43.925,False,False
+140605,NC,Mike Klinetobe,Republican,5627,9.728,False,False
+141159,NC,James P. Hill,Republican,37422,100.0,False,False
+140138,NC,Lee Boone Bollinger,Republican,41783,100.0,False,False
+140685,NC,Khem D. Irby,Democratic,18817,65.196,False,False
+140685,NC,Maritza Gomez,Republican,10045,34.804,False,False
+140464,NC,Michael Bryant,Nonpartisan,120,20.101,False,False
+140464,NC,Danny Moore,Nonpartisan,114,19.095,False,False
+140464,NC,James Gibson,Nonpartisan,98,16.415,False,False
+140464,NC,Michael Schauer,Nonpartisan,93,15.578,False,False
+140464,NC,Seth Staten,Nonpartisan,87,14.573,False,False
+140464,NC,Gerald Baldwin,Nonpartisan,85,14.238,False,False
+140464,NC,Write-In,Nonpartisan,0,0.0,False,False
+141181,NC,Greg Ziglar,Republican,19662,41.597,False,False
+141181,NC,Kevin Suthard,Republican,18710,39.583,False,False
+141181,NC,R. Michael Jordan,Libertarian,8896,18.82,False,False
+140544,NC,Robert H. Gilmore,Republican,57339,100.0,False,False
+140515,NC,James Davis,Nonpartisan,23072,25.619,False,False
+140515,NC,Tyler Lohr Forrest,Nonpartisan,21547,23.925,False,False
+140515,NC,Kent Beck,Nonpartisan,18627,20.683,False,False
+140515,NC,Will Brinkley,Nonpartisan,16807,18.662,False,False
+140515,NC,Christopher Lynn,Nonpartisan,9225,10.243,False,False
+140515,NC,Write-In,Nonpartisan,781,0.867,False,False
+141254,NC,Dale Ward,Nonpartisan,327,96.746,False,False
+141254,NC,Write-In,Nonpartisan,11,3.254,False,False
+141225,NC,Jimmy G. Dancy,Nonpartisan,978,79.967,False,False
+141225,NC,Write-In,Nonpartisan,245,20.033,False,False
+140444,NC,Lexanne Huffman,Republican,28149,100.0,False,False
+141407,NC,"Len Hagaman, Jr.",Democratic,15903,67.825,False,False
+141407,NC,Darin Church,Republican,7544,32.175,False,False
+141353,NC,Kevin Boxberger,Democratic,113524,100.0,False,False
+140332,NC,Matt Wareham,Republican,57714,100.0,False,False
+141458,NC,Scott Darnell,Nonpartisan,441,49.109,False,False
+141458,NC,Andy Green,Nonpartisan,426,47.439,False,False
+141458,NC,Write-In,Nonpartisan,31,3.452,False,False
+140213,NC,Cameron McGill,Republican,2661,100.0,False,False
+141400,NC,Carlos Riddick,Democratic,3339,100.0,False,False
+141122,NC,Faris Dixon,Democratic,44640,100.0,False,False
+140517,NC,Steve Shook,Republican,37992,63.244,False,False
+140517,NC,Charles Slipetsky,Democratic,19594,32.618,False,False
+140517,NC,Felicia Dreher,Libertarian,2486,4.138,False,False
+140427,NC,Irvin Enzor,Republican,8734,100.0,False,False
+140373,NC,Richard Hayes,Nonpartisan,25656,51.037,False,False
+140373,NC,John S. Glosson,Nonpartisan,24283,48.306,False,False
+140373,NC,Write-In,Nonpartisan,330,0.656,False,False
+140760,NC,Gina Baxter,Nonpartisan,4226,36.312,False,False
+140760,NC,Melinda P. Lowrance,Nonpartisan,3410,29.301,False,False
+140760,NC,Jeff Groh,Nonpartisan,2600,22.341,False,False
+140760,NC,Brett Werner,Nonpartisan,1346,11.566,False,False
+140760,NC,Write-In,Nonpartisan,56,0.481,False,False
+140507,NC,Cheryl House,Republican,11575,100.0,False,False
+140510,NC,No,Nonpartisan,11273,61.712,False,False
+140510,NC,Yes,Nonpartisan,6994,38.288,False,False
+140612,NC,Steven Gupton,Nonpartisan,3198,59.933,False,False
+140612,NC,Earvin Doyle,Nonpartisan,2102,39.393,False,False
+140612,NC,Write-In,Nonpartisan,36,0.675,False,False
+141134,NC,Mary Nobles Maultsby,Democratic,4695,100.0,False,False
+140753,NC,J. Tyler Ray,Republican,36066,100.0,False,False
+140276,NC,Vicky A. Carpenter,Nonpartisan,317,59.252,False,False
+140276,NC,Karen Robinson,Nonpartisan,209,39.065,False,False
+140276,NC,Write-In,Nonpartisan,9,1.682,False,False
+141463,NC,Shane Hilliard,Republican,6280,100.0,False,False
+140964,NC,Karen Eady-Williams,Democratic,50116,100.0,False,False
+140327,NC,Kathryn Smith Chadwick,Republican,25440,100.0,False,False
+140106,NC,Scott Wells Drorbaugh,Democratic,34737,51.704,False,False
+140106,NC,Sean Boone,Republican,32447,48.296,False,False
+140653,NC,Daniel Joseph Sinnema,Republican,2306,58.188,False,False
+140653,NC,Tonya N. Sneed,Democratic,1657,41.812,False,False
+140432,NC,Yes,Nonpartisan,8039,50.63,False,False
+140432,NC,No,Nonpartisan,7839,49.37,False,False
+141341,NC,Ben Hunter,Democratic,10859,100.0,False,False
+140896,NC,Shawna Thun Lamb,Republican,11530,100.0,False,False
+140867,NC,Patrick Kelly,Democratic,12403,29.901,False,False
+140867,NC,Laura Stryffeler,Republican,10059,24.25,False,False
+140867,NC,Alan Rummel,Republican,9545,23.011,False,False
+140867,NC,Karla Koballa,Republican,9473,22.838,False,False
+141222,NC,Charlie Brooks,Nonpartisan,733,62.65,False,False
+141222,NC,Jonathan M. Bland,Nonpartisan,388,33.162,False,False
+141222,NC,Wyvern Mason,Nonpartisan,43,3.675,False,False
+141222,NC,Write-In,Nonpartisan,6,0.513,False,False
+141193,NC,"James Greene, Jr.",Republican,33531,100.0,False,False
+140502,NC,Rob Ross,Republican,11386,100.0,False,False
+140281,NC,Bill Baggs,Republican,49245,100.0,False,False
+140358,NC,Sherri Wilson Elliott,Republican,40861,100.0,False,False
+140521,NC,Wendy Joyce Terry,Republican,62387,100.0,False,False
+141292,NC,Jon Cawley,Nonpartisan,2042,61.973,False,False
+141292,NC,Bill Goins,Nonpartisan,1230,37.329,False,False
+141292,NC,Write-In,Nonpartisan,23,0.698,False,False
+140626,NC,Dot Cherry,Republican,42031,51.214,False,False
+140626,NC,Brenda Eskridge,Democratic,40039,48.786,False,False
+140380,NC,Sue Lynn Ledford,Republican,10012,100.0,False,False
+140959,NC,Elizabeth Thornton Trosch,Democratic,36820,100.0,False,False
+141282,NC,Jill Inman,Republican,14296,100.0,False,False
+140869,NC,Brian Estes,Republican,13547,100.0,False,False
+140786,NC,Roderick Virgil,Democratic,12674,100.0,False,False
+141333,NC,Gloria Jefferson White,Democratic,1814,100.0,False,False
+140120,NC,Marty Loudermilt,Republican,9459,30.068,False,False
+140120,NC,Ronnie L. Reese,Republican,9173,29.159,False,False
+140120,NC,Andrew Johnson,Republican,9117,28.981,False,False
+140120,NC,Steven Warren,Democratic,3710,11.793,False,False
+140859,NC,Rick Green,Nonpartisan,59,92.188,False,False
+140859,NC,Write-In,Nonpartisan,5,7.812,False,False
+141246,NC,Trent Hatley,Republican,17619,100.0,False,False
+140363,NC,Keyhisa Hannah,Democratic,898,100.0,False,False
+141294,NC,Phillip Thacker,Nonpartisan,2592,98.931,False,False
+141294,NC,Write-In,Nonpartisan,28,1.069,False,False
+140913,NC,Amanda G. Bramble,Democratic,7026,100.0,False,False
+141236,NC,Summer Woodside,Democratic,6040,52.659,False,False
+141236,NC,"Herman L. Tyson, Jr.",Democratic,5430,47.341,False,False
+141431,NC,Write-In,Nonpartisan,80,32.52,False,False
+141431,NC,Victor Varela,Nonpartisan,59,23.984,False,False
+141431,NC,Kevin Reece,Nonpartisan,56,22.764,False,False
+141431,NC,Chris Nelson,Nonpartisan,51,20.732,False,False
+140132,NC,Josh Dagenhart,Republican,1336,100.0,False,False
+141287,NC,Ricky K. Draughn,Nonpartisan,286,92.258,False,False
+141287,NC,Write-In,Nonpartisan,24,7.742,False,False
+141066,NC,Chris Davis,Republican,4358,100.0,False,False
+140205,NC,Charles Wendell Gillespie,Nonpartisan,6109,42.108,False,False
+140205,NC,Albert R. Shaw,Nonpartisan,4129,28.46,False,False
+140205,NC,Paul Skinner,Nonpartisan,4077,28.102,False,False
+140205,NC,Write-In,Nonpartisan,193,1.33,False,False
+140400,NC,George Lewis,Nonpartisan,3154,66.554,False,False
+140400,NC,Darin C. Miglorie,Nonpartisan,1498,31.61,False,False
+140400,NC,Write-In,Nonpartisan,87,1.836,False,False
+140509,NC,Clarence Wood Beasley,Nonpartisan,9501,51.757,False,False
+140509,NC,Matthew J. Paulson,Nonpartisan,8453,46.048,False,False
+140509,NC,Write-In,Nonpartisan,403,2.195,False,False
+141056,NC,Beth Bronson,Democratic,58210,81.867,False,False
+141056,NC,Louis D. Capitanio,Republican,12893,18.133,False,False
+140835,NC,Michelle Antoine,Republican,52439,100.0,False,False
+140781,NC,Dexter A. Hayes,Democratic,6005,100.0,False,False
+141360,NC,"Vince Rozier, Jr.",Democratic,50384,100.0,False,False
+141462,NC,John Robinson,Republican,5940,100.0,False,False
+140441,NC,Theron McCabe,Democratic,2018,51.231,False,False
+140441,NC,Shevel Hunt,Republican,1921,48.769,False,False
+140412,NC,Glen Cheeks,Nonpartisan,4298,91.175,False,False
+140412,NC,Write-In,Nonpartisan,416,8.825,False,False
+140681,NC,Lisa McMillan,Democratic,20234,100.0,False,False
+140460,NC,John Helms,Nonpartisan,112,23.779,False,False
+140460,NC,Randy Alexander,Nonpartisan,102,21.656,False,False
+140460,NC,Paul Marc Tremblay,Nonpartisan,98,20.807,False,False
+140460,NC,Cynthia A. Williams,Nonpartisan,70,14.862,False,False
+140460,NC,Keith Lee Tyndall,Nonpartisan,70,14.862,False,False
+140460,NC,Write-In,Nonpartisan,19,4.034,False,False
+141177,NC,Mark Simeon Brooks,Republican,16158,55.258,False,False
+141177,NC,Graham Gurnee,Democratic,13083,44.742,False,False
+141340,NC,Omega T. Perry,Democratic,1165,100.0,False,False
+140127,NC,Martin J. Gottholm,Republican,62516,100.0,False,False
+141442,NC,Richard Fulghum,Democratic,2621,51.092,False,False
+141442,NC,Michael T. Wetherington,Republican,2509,48.908,False,False
+141029,NC,Yes,Nonpartisan,65712,67.848,False,False
+141029,NC,No,Nonpartisan,31140,32.152,False,False
+140946,NC,Paige McThenia,Democratic,357513,100.0,False,False
+140501,NC,David Twiddy,Republican,11830,100.0,False,False
+141080,NC,Carolyn Jones,Nonpartisan,85,23.352,False,False
+141080,NC,Dave Snipes,Nonpartisan,62,17.033,False,False
+141080,NC,Beth Sanderson,Nonpartisan,59,16.209,False,False
+141080,NC,Steve Lacy,Nonpartisan,56,15.385,False,False
+141080,NC,Melvin Mann,Nonpartisan,51,14.011,False,False
+141080,NC,Koen Van Meeteren,Nonpartisan,47,12.912,False,False
+141080,NC,Write-In,Nonpartisan,4,1.099,False,False
+141019,NC,Lashawnda Washington,Nonpartisan,4030,97.531,False,False
+141019,NC,Write-In,Nonpartisan,102,2.469,False,False
+141406,NC,Holly Fehl,Democratic,13844,58.976,False,False
+141406,NC,Charles M. Haynes,Republican,9630,41.024,False,False
+141323,NC,Wayne S. Moser,Nonpartisan,55882,49.256,False,False
+141323,NC,Taylor Moyer,Nonpartisan,55370,48.804,False,False
+141323,NC,Write-In,Nonpartisan,2174,1.916,False,False
+141323,NC,Zack Quill,Write-In,27,0.024,False,False
+140462,NC,Beatrice Smith,Democratic,3806,100.0,False,False
+141073,NC,Keith D. Cowell,Nonpartisan,152,95.597,False,False
+141073,NC,Write-In,Nonpartisan,7,4.403,False,False
+141396,NC,Brenda Collier,Nonpartisan,6182,89.724,False,False
+141396,NC,Write-In,Nonpartisan,708,10.276,False,False
+141399,NC,Tracey A. Johnson,Democratic,937,100.0,False,False
+140100,NC,Ramona Allen,Democratic,33064,26.624,False,False
+140100,NC,Sean C. Ewing,Democratic,32731,26.356,False,False
+140100,NC,Steve Carter,Republican,29231,23.538,False,False
+140100,NC,Kelly Allen,Republican,29161,23.482,False,False
+140647,NC,Natasha Williams,Republican,2241,34.621,False,False
+140647,NC,Brian Johnson,Republican,2201,34.003,False,False
+140647,NC,Jacob Nelms,Republican,2031,31.376,False,False
+141034,NC,Katherine Corpening,Democratic,67405,53.351,False,False
+141034,NC,Chad Hogston,Republican,58938,46.649,False,False
+140372,NC,Diana Hales,Nonpartisan,27715,99.22,False,False
+140372,NC,Write-In,Nonpartisan,218,0.78,False,False
+140759,NC,"Jerry Smith, Jr.",Nonpartisan,3725,54.056,False,False
+140759,NC,Jennifer Hensley,Nonpartisan,3153,45.755,False,False
+140759,NC,Write-In,Nonpartisan,13,0.189,False,False
+140253,NC,Cheryl L. Milton,Nonpartisan,2216,52.512,False,False
+140253,NC,Larry B. Harris,Nonpartisan,1978,46.872,False,False
+140253,NC,Write-In,Nonpartisan,26,0.616,False,False
+140224,NC,Yes,Nonpartisan,45076,54.947,False,False
+140224,NC,No,Nonpartisan,36960,45.053,False,False
+140995,NC,Ellen M. Jones,Nonpartisan,1082,75.087,False,False
+140995,NC,Jandavian Little Lilly,Nonpartisan,341,23.664,False,False
+140995,NC,Write-In,Nonpartisan,18,1.249,False,False
+140749,NC,J. Michael Edney,Republican,35789,100.0,False,False
+140528,NC,Larry Pierce,Nonpartisan,1647,33.448,False,False
+140528,NC,Daniel Efird,Nonpartisan,1621,32.92,False,False
+140528,NC,Pauline Weaver,Nonpartisan,1612,32.738,False,False
+140528,NC,Write-In,Nonpartisan,44,0.894,False,False
+141430,NC,Chadley G. Blackburn,Nonpartisan,78,72.897,False,False
+141430,NC,Write-In,Nonpartisan,29,27.103,False,False
+140409,NC,J. Tim Barrett,Republican,4516,100.0,False,False
+140163,NC,B. Phil Howell,Republican,8737,100.0,False,False
+141318,NC,Barry Tucker,Republican,11381,86.396,False,False
+141318,NC,Kaitlyn Sirico,Write-In,1420,10.78,False,False
+141318,NC,Write-In,Nonpartisan,372,2.824,False,False
+140620,NC,David Bunn,Republican,3374,56.782,False,False
+140620,NC,Michelle D. Strong,Democratic,2568,43.218,False,False
+141337,NC,Curtis Brame,Democratic,11225,100.0,False,False
+141308,NC,John Lanier,Democratic,8227,27.052,False,False
+141308,NC,Bonnie Kelley,Democratic,7531,24.763,False,False
+141308,NC,Chad Owen,Republican,7410,24.365,False,False
+141308,NC,Shanaia Powell,Republican,7244,23.82,False,False
+140287,NC,Ashlie Shanley,Republican,49065,100.0,False,False
+140610,NC,Kevin White,Republican,17393,52.658,False,False
+140610,NC,Tim Gupton,Democratic,15637,47.342,False,False
+141388,NC,Yes,Nonpartisan,5768,60.576,False,False
+141388,NC,No,Nonpartisan,3754,39.424,False,False
+140914,NC,Drew Robinson,Unaffiliated,5564,61.237,False,False
+140914,NC,Marvin Hilliard,Democratic,3522,38.763,False,False
+141461,NC,Ronald Randolph,Democratic,4105,26.153,False,False
+141461,NC,Lavenia Peterson Burnette,Democratic,4087,26.038,False,False
+141461,NC,Gretchen England Banks,Republican,3974,25.319,False,False
+141461,NC,"Wade Dahlberg, Jr.",Republican,3530,22.49,False,False
+141048,NC,Chris Thomas,Republican,34393,100.0,False,False
+140386,NC,Chris Wood,Republican,10296,100.0,False,False
+140965,NC,Monifa Drayton,Democratic,54548,83.504,False,False
+140965,NC,Angela White Edwards,Republican,10776,16.496,False,False
+140491,NC,Steve Hedrick,Republican,8586,68.628,False,False
+140491,NC,"Jekeith Cowell, Sr.",Democratic,3925,31.372,False,False
+140430,NC,R. Byron Fisher,Nonpartisan,1941,53.251,False,False
+140430,NC,Edward A. Squires,Nonpartisan,1659,45.514,False,False
+140430,NC,Write-In,Nonpartisan,45,1.235,False,False
+141233,NC,Allen McLamb,Republican,2962,100.0,False,False
+140955,NC,George Dunlap,Democratic,57590,100.0,False,False
+140574,NC,Rena Spellman,Democratic,49878,57.233,False,False
+140574,NC,Jeffrey A. Marsigli,Republican,37271,42.767,False,False
+140260,NC,Leslie Ritchie Taylor,Republican,20930,100.0,False,False
+140999,NC,Angela Elkins,Nonpartisan,400,25.575,False,False
+140999,NC,Kayren Brantley,Nonpartisan,354,22.634,False,False
+140999,NC,Bruce Hamilton,Nonpartisan,330,21.1,False,False
+140999,NC,Joseph Huntley IV,Nonpartisan,311,19.885,False,False
+140999,NC,Andrew M. Gahagan,Nonpartisan,156,9.974,False,False
+140999,NC,Write-In,Nonpartisan,13,0.831,False,False
+141002,NC,Kurt J. Cook,Republican,28976,100.0,False,False
+141332,NC,Joanne Evans,Democratic,1529,55.701,False,False
+141332,NC,Joseph Falkner,Republican,1216,44.299,False,False
+140919,NC,Gene Scott,Nonpartisan,875,93.184,False,False
+140919,NC,Write-In,Nonpartisan,64,6.816,False,False
+140221,NC,Katie Madon,Republican,56149,100.0,False,False
+140391,NC,Donna Forga,Republican,59898,100.0,False,False
+140362,NC,Sarah Ferrell Temple,Democratic,1302,100.0,False,False
+141101,NC,Jimmy T. Tate,Republican,18033,100.0,False,False
+140880,NC,J. Mac Daughety,Republican,2960,100.0,False,False
+141398,NC,"Julius Walker, Jr.",Democratic,970,100.0,False,False
+140160,NC,Dianne Eldreth,Republican,7981,29.731,False,False
+140160,NC,Shane E. Little,Republican,7184,26.762,False,False
+140160,NC,Janet Ward,Republican,7160,26.673,False,False
+140160,NC,Jamie McNeill,Democratic,4519,16.834,False,False
+140131,NC,Tim Fox,Republican,1395,75.774,False,False
+140131,NC,Cindy Thomas Sellers,Democratic,446,24.226,False,False
+140678,NC,Carlvena Foster,Democratic,15447,100.0,False,False
+140649,NC,Tammy H. Holloway,Democratic,2440,64.98,False,False
+140649,NC,William-Wayne Adams,Republican,1162,30.945,False,False
+140649,NC,Rhae Lynne Millsaps,Unaffiliated,153,4.075,False,False
+140505,NC,Rich Shope,Republican,10798,78.411,False,False
+140505,NC,Write-In,Nonpartisan,2973,21.589,False,False
+140668,NC,Jeff Cannon,Republican,40107,100.0,False,False
+141439,NC,Debora Powell,Nonpartisan,2152,75.882,False,False
+141439,NC,Joe Flowers,Nonpartisan,453,15.973,False,False
+141439,NC,Cornell L. Mercer,Nonpartisan,210,7.405,False,False
+141439,NC,Write-In,Nonpartisan,21,0.74,False,False
+140777,NC,Summer Mauldin Flynn,Nonpartisan,172,26.75,False,False
+140777,NC,Ellie Varn,Nonpartisan,155,24.106,False,False
+140777,NC,Teddy Stevens,Nonpartisan,104,16.174,False,False
+140777,NC,Curtis Flower,Nonpartisan,91,14.152,False,False
+140777,NC,Chad Blotner,Nonpartisan,78,12.131,False,False
+140777,NC,Cory Emory,Nonpartisan,40,6.221,False,False
+140777,NC,Write-In,Nonpartisan,3,0.467,False,False
+140748,NC,Scott Sutton,Nonpartisan,2170,99.314,False,False
+140748,NC,Write-In,Nonpartisan,15,0.686,False,False
+141074,NC,Jane Potter,Nonpartisan,123,56.422,False,False
+141074,NC,Joseph Cole,Nonpartisan,93,42.661,False,False
+141074,NC,Write-In,Nonpartisan,2,0.917,False,False
+141429,NC,"Claude Shew, Jr.",Nonpartisan,15628,52.721,False,False
+141429,NC,Brian Lee Parker,Nonpartisan,13566,45.765,False,False
+141429,NC,Write-In,Nonpartisan,449,1.515,False,False
+141016,NC,Keith Stone,Republican,22533,55.262,False,False
+141016,NC,David Brake,Democratic,18242,44.738,False,False
+140546,NC,Justin Edwards,Republican,2876,100.0,False,False
+140933,NC,"Arthur Griffin, Jr.",Democratic,338636,33.48,False,False
+140933,NC,Leigh Altman,Democratic,338604,33.477,False,False
+140933,NC,Yvette Townsend-Ingram,Democratic,334209,33.043,False,False
+141451,NC,Nick Smitherman,Republican,11170,100.0,False,False
+140789,NC,No,Nonpartisan,11140,73.986,False,False
+140789,NC,Yes,Nonpartisan,3917,26.014,False,False
+141393,NC,Patrick Brown,Democratic,4065,50.415,False,False
+141393,NC,Joey Andrews,Unaffiliated,2593,32.159,False,False
+141393,NC,Thomas Fleming,Republican,1405,17.425,False,False
+140123,NC,Kevin Powell,Republican,11245,100.0,False,False
+140926,NC,Nathan Mace,Republican,12493,100.0,False,False
+140228,NC,Al Whitesides,Democratic,38191,100.0,False,False
+141358,NC,Vickie Adamson,Democratic,55646,100.0,False,False
+141169,NC,Shelena Smith,Democratic,21206,100.0,False,False
+140500,NC,Ervin Bateman,Republican,10676,56.463,False,False
+140500,NC,Aida Havel,Democratic,8232,43.537,False,False
+141079,NC,Sandra Snipes,Nonpartisan,72,96.0,False,False
+141079,NC,Write-In,Nonpartisan,3,4.0,False,False
+140388,NC,Colby Davis,Nonpartisan,8088,49.429,False,False
+140388,NC,Jamie Lance,Nonpartisan,8076,49.355,False,False
+140388,NC,Write-In,Nonpartisan,199,1.216,False,False
+140743,NC,Steven Kirkpatrick,Nonpartisan,17442,99.487,False,False
+140743,NC,Write-In,Nonpartisan,90,0.513,False,False
+141322,NC,Kensley McCoy,Democratic,6622,27.727,False,False
+141322,NC,Parker Mills,Republican,4601,19.265,False,False
+141322,NC,Michelle Ball,Republican,4411,18.469,False,False
+141322,NC,Heidi Petterson,Republican,4324,18.105,False,False
+141322,NC,Abigail Pepper,Unaffiliated,3555,14.885,False,False
+141322,NC,Write-In,Nonpartisan,210,0.879,False,False
+141322,NC,Bob Yanacsek,Write-In,160,0.67,False,False
+140269,NC,"Robert A. Mullinax, Jr.",Republican,82206,100.0,False,False
+140848,NC,John H. Bender III,Unaffiliated,366,58.842,False,False
+140848,NC,Fernanda Copeland,Unaffiliated,152,24.437,False,False
+140848,NC,"Richard Avery, Jr.",Unaffiliated,104,16.72,False,False
+140573,NC,Ken Guill,Nonpartisan,11326,58.243,False,False
+140573,NC,Brian Womble,Nonpartisan,7888,40.564,False,False
+140573,NC,Write-In,Nonpartisan,232,1.193,False,False
+141120,NC,Paula S. Dance,Democratic,44801,100.0,False,False
+140291,NC,Jennifer Taylor,Republican,48461,99.612,False,False
+140291,NC,Brent Cloninger,Republican,189,0.388,False,False
+140646,NC,Robert Miller,Nonpartisan,2562,51.046,False,False
+140646,NC,Richard Morgan,Nonpartisan,2387,47.559,False,False
+140646,NC,Write-In,Nonpartisan,70,1.395,False,False
+140617,NC,John M. Dunlow,Republican,57292,100.0,False,False
+140918,NC,Pat C. Nelson,Nonpartisan,952,97.541,False,False
+140918,NC,Write-In,Nonpartisan,24,2.459,False,False
+140828,NC,Kim Moore,Nonpartisan,9339,81.364,False,False
+140828,NC,Write-In,Nonpartisan,2139,18.636,False,False
+140390,NC,Ashley Hornsby Welch,Republican,59943,100.0,False,False
+140137,NC,Jena Smith Reeves,Nonpartisan,3304,51.617,False,False
+140137,NC,Dustin Clark Sheets,Nonpartisan,3046,47.586,False,False
+140137,NC,Write-In,Nonpartisan,51,0.797,False,False
+140716,NC,Chris Kidd,Democratic,13959,100.0,False,False
+140242,NC,Ed Clontz,Democratic,96160,100.0,False,False
+141397,NC,Melinda Porter,Democratic,2809,62.339,False,False
+141397,NC,Jonathan B. Sawyer IV,Republican,1697,37.661,False,False
+141183,NC,Abner M. Bullins,Republican,24715,100.0,False,False
+140514,NC,Richie Simmons,Republican,48011,97.051,False,False
+140514,NC,Write-In,Nonpartisan,1459,2.949,False,False
+140101,NC,Kristie Miller Culler,Republican,40071,100.0,False,False
+140811,NC,Dave Fago,Nonpartisan,30396,35.938,False,False
+140811,NC,"H. William Compton, Jr.",Nonpartisan,26175,30.948,False,False
+140811,NC,Cierra Bradford,Nonpartisan,26108,30.869,False,False
+140811,NC,Write-In,Nonpartisan,1899,2.245,False,False
+140949,NC,Karen D. McCallum,Democratic,356819,100.0,False,False
+140344,NC,Erica Standfield Brandon,Republican,30584,100.0,False,False
+140283,NC,Pam Escobar,Democratic,40830,19.072,False,False
+140283,NC,Mishell Williams,Democratic,40093,18.727,False,False
+140283,NC,Courtney Steinberg,Democratic,36943,17.256,False,False
+140283,NC,Robert Kirk,Republican,33233,15.523,False,False
+140283,NC,William L. Barbee,Republican,32011,14.952,False,False
+140283,NC,Bubba Hartsell,Republican,30978,14.47,False,False
+140286,NC,No,Nonpartisan,42914,51.98,False,False
+140286,NC,Yes,Nonpartisan,39644,48.02,False,False
+140196,NC,Kim Gourrier Scott,Democratic,28946,100.0,False,False
+140910,NC,Scott Boone,Nonpartisan,5524,35.257,False,False
+140910,NC,Ross Young,Nonpartisan,5226,33.355,False,False
+140910,NC,Jimmie Ramsey,Nonpartisan,4773,30.463,False,False
+140910,NC,Write-In,Nonpartisan,145,0.925,False,False
+141137,NC,Mike Ashworth,Republican,6501,100.0,False,False
+141460,NC,David Grindstaff,Republican,3971,16.846,False,False
+141460,NC,Stacey McEntyre Greene,Republican,3872,16.426,False,False
+141460,NC,Amber Westall Briggs,Democratic,3745,15.887,False,False
+141460,NC,Sandi Norton,Republican,3715,15.76,False,False
+141460,NC,Landon Beaver,Democratic,3517,14.92,False,False
+141460,NC,Carol Golightly,Democratic,3031,12.858,False,False
+141460,NC,Nute Nicholson,Unaffiliated,1722,7.305,False,False
+141047,NC,Cindy P. Casteen,Republican,33464,100.0,False,False
+141348,NC,Yes,Nonpartisan,320989,63.426,False,False
+141348,NC,No,Nonpartisan,185094,36.574,False,False
+140711,NC,Lewis W. Dorsett,Nonpartisan,3036,97.558,False,False
+140711,NC,Write-In,Nonpartisan,76,2.442,False,False
+141290,NC,Kasey Martin,Republican,2541,100.0,False,False
+140429,NC,Jimmy Malpass,Nonpartisan,5771,26.97,False,False
+140429,NC,Latoya Beatty,Nonpartisan,5675,26.521,False,False
+140429,NC,Lanny Formyduval,Nonpartisan,4940,23.086,False,False
+140429,NC,Frank Galloway,Nonpartisan,4845,22.642,False,False
+140429,NC,Write-In,Nonpartisan,167,0.78,False,False
+140816,NC,Boen Nutting,Republican,6337,100.0,False,False
+140125,NC,Bryant Chapman,Nonpartisan,9607,53.063,False,False
+140125,NC,Jd Sink,Nonpartisan,8286,45.766,False,False
+140125,NC,Write-In,Nonpartisan,212,1.171,False,False
+141280,NC,L. Neil Brendle,Republican,18667,100.0,False,False
+141251,NC,Mike Lambert,Nonpartisan,1787,38.848,False,False
+141251,NC,Chris Bramlett,Nonpartisan,1702,37.0,False,False
+141251,NC,Lisa Kiser,Nonpartisan,1046,22.739,False,False
+141251,NC,Write-In,Nonpartisan,65,1.413,False,False
+140806,NC,Jeffrey Stotesberry,Nonpartisan,127,40.063,False,False
+140806,NC,Jc Williams III,Nonpartisan,101,31.861,False,False
+140806,NC,Seldon Taylor,Nonpartisan,86,27.129,False,False
+140806,NC,Write-In,Nonpartisan,3,0.946,False,False
+140784,NC,Allen Thomas,Democratic,9372,24.703,False,False
+140784,NC,Deborah McMillan-Evans,Democratic,8955,23.604,False,False
+140784,NC,Harry Southerland,Democratic,8390,22.114,False,False
+140784,NC,Stephanie Carter,Republican,5753,15.164,False,False
+140784,NC,David Frump,Republican,5469,14.415,False,False
+141078,NC,Theron Jones,Nonpartisan,48,21.525,False,False
+141078,NC,Admire Gibbs,Nonpartisan,47,21.076,False,False
+141078,NC,Lois Smith Credle,Nonpartisan,45,20.179,False,False
+141078,NC,Craig Baker,Nonpartisan,42,18.834,False,False
+141078,NC,Natarsha Garner,Nonpartisan,40,17.937,False,False
+141078,NC,Write-In,Nonpartisan,1,0.448,False,False
+140665,NC,Holly Jones Little,Democratic,4832,100.0,False,False
+140742,NC,Marla Ferguson Morris,Nonpartisan,17542,99.354,False,False
+140742,NC,Write-In,Nonpartisan,114,0.646,False,False
+140105,NC,Kourtney J. Royster,Democratic,35563,52.987,False,False
+140105,NC,Samuel C. Powell,Republican,31554,47.013,False,False
+140876,NC,Mark Rouse,Nonpartisan,10806,55.169,False,False
+140876,NC,Taylor Best,Nonpartisan,8518,43.488,False,False
+140876,NC,Write-In,Nonpartisan,263,1.343,False,False
+140402,NC,Sherronne Battle,Nonpartisan,1044,97.297,False,False
+140402,NC,Write-In,Nonpartisan,29,2.703,False,False
+140764,NC,Abe Hudson,Republican,51357,100.0,False,False
+140351,NC,Kim R. Sigmon,Republican,41729,100.0,False,False
+141058,NC,Amy Jo McLamb,Democratic,60706,100.0,False,False
+140453,NC,Gene Foster,Nonpartisan,1642,28.868,False,False
+140453,NC,Shane Turney,Nonpartisan,1561,27.444,False,False
+140453,NC,Billy Joiner,Nonpartisan,1450,25.492,False,False
+140453,NC,Jeff Cullipher,Nonpartisan,989,17.387,False,False
+140453,NC,Write-In,Nonpartisan,46,0.809,False,False
+141170,NC,Burnis Wilkins,Democratic,21770,74.644,False,False
+141170,NC,Dakota Dimery,Republican,7219,24.752,False,False
+141170,NC,Write-In,Nonpartisan,176,0.603,False,False
+140917,NC,Abby Mason,Nonpartisan,808,92.449,False,False
+140917,NC,Write-In,Nonpartisan,66,7.551,False,False
+141304,NC,Diana Kirkland,Democratic,3461,100.0,False,False
+140443,NC,Tracy Jacques Derby,Republican,3425,100.0,False,False
+140830,NC,Lisa Kelly,Nonpartisan,7052,31.999,False,False
+140830,NC,John Wittekind,Nonpartisan,6159,27.947,False,False
+140830,NC,Doug Parker,Nonpartisan,5969,27.085,False,False
+140830,NC,David Ivey,Nonpartisan,2751,12.483,False,False
+140830,NC,Write-In,Nonpartisan,107,0.486,False,False
+140939,NC,Yes,Nonpartisan,199281,61.935,False,False
+140939,NC,No,Nonpartisan,122477,38.065,False,False
+140878,NC,Bj Murphy,Republican,2927,100.0,False,False
+141297,NC,Mike Bovender,Nonpartisan,868,25.291,False,False
+141297,NC,Jeffrey C. Eidson,Nonpartisan,819,23.864,False,False
+141297,NC,Cicely McCulloch,Nonpartisan,814,23.718,False,False
+141297,NC,Graham Ray,Nonpartisan,531,15.472,False,False
+141297,NC,Deryal Walker,Nonpartisan,360,10.49,False,False
+141297,NC,Write-In,Nonpartisan,40,1.166,False,False
+140628,NC,Tim Taylor,Republican,42408,51.867,False,False
+140628,NC,Che'Z Adams,Democratic,39355,48.133,False,False
+141015,NC,Nancy D. Blount,Democratic,21573,53.236,False,False
+141015,NC,Linda Thorne,Republican,18950,46.764,False,False
+141316,NC,Melissa M. Merrell,Republican,52056,25.881,False,False
+141316,NC,Brian W. Helms,Republican,51249,25.479,False,False
+141316,NC,Sam Harris,Republican,50969,25.34,False,False
+141316,NC,Christina Dupont,Democratic,46865,23.3,False,False
+140263,NC,Banks Hinceman,Republican,22283,100.0,False,False
+140458,NC,"Ray Gaskins, Jr.",Nonpartisan,1095,40.391,False,False
+140458,NC,Greg Holt,Nonpartisan,835,30.8,False,False
+140458,NC,Tommy Dunn,Nonpartisan,764,28.181,False,False
+140458,NC,Write-In,Nonpartisan,17,0.627,False,False
+140788,NC,Neill McKenzie,Nonpartisan,7886,48.229,False,False
+140788,NC,Pat Lyons,Nonpartisan,7254,44.364,False,False
+140788,NC,Write-In,Nonpartisan,1211,7.406,False,False
+140183,NC,Lloyd Williams,Republican,19453,53.222,False,False
+140183,NC,D. Cole Phelps,Democratic,17098,46.778,False,False
+141277,NC,Brandon K. Whitaker,Republican,18763,100.0,False,False
+140448,NC,Clinton Jones,Nonpartisan,1105,19.187,False,False
+140448,NC,Karen Lewis,Nonpartisan,1099,19.083,False,False
+140448,NC,Timothy Thierry,Nonpartisan,919,15.958,False,False
+140448,NC,Prudencio Irizarry,Nonpartisan,911,15.819,False,False
+140448,NC,Diane Menger,Nonpartisan,844,14.655,False,False
+140448,NC,Bear McGillem,Nonpartisan,454,7.883,False,False
+140448,NC,Carly Rios,Nonpartisan,390,6.772,False,False
+140448,NC,Write-In,Nonpartisan,37,0.642,False,False
+140419,NC,Mike Miller,Republican,51752,100.0,False,False
+141165,NC,Vickie Daniel,Democratic,10279,100.0,False,False
+140144,NC,William Short,Republican,4016,50.187,False,False
+140144,NC,Priscilla Little-Reid,Democratic,3986,49.813,False,False
+141046,NC,Angie Todd,Republican,29917,34.794,False,False
+141046,NC,Bill Lanier,Republican,28069,32.645,False,False
+141046,NC,Doug Davis,Republican,27996,32.56,False,False
+140825,NC,Shandra Sims,Democratic,11616,100.0,False,False
+140796,NC,Write-In,Nonpartisan,558,100.0,False,False
+140675,NC,Dana C. Suggs,Nonpartisan,51,92.727,False,False
+140675,NC,Write-In,Nonpartisan,4,7.273,False,False
+140806,NC,Jeffrey Stotesberry,Nonpartisan,127,40.063,False,False
+140806,NC,Jc Williams III,Nonpartisan,101,31.861,False,False
+140806,NC,Seldon Taylor,Nonpartisan,86,27.129,False,False
+140806,NC,Write-In,Nonpartisan,3,0.946,False,False
+140191,NC,Tyrone M. Ruffin,Democratic,5509,100.0,False,False
+140984,NC,John K. Deaton,Republican,6627,100.0,False,False
+140561,NC,Myra Griffin,Democratic,107580,100.0,False,False
+140714,NC,John A. Glass,Nonpartisan,2060,61.862,False,False
+140714,NC,Laura Heflin,Nonpartisan,1253,37.628,False,False
+140714,NC,Write-In,Nonpartisan,17,0.511,False,False
+140643,NC,Emily Truman,Unaffiliated,2890,100.0,False,False
+141411,NC,Ellen Lamont,Nonpartisan,1682,61.208,False,False
+141411,NC,Yolanda Adams,Nonpartisan,1038,37.773,False,False
+141411,NC,Write-In,Nonpartisan,28,1.019,False,False
+140358,NC,Sherri Wilson Elliott,Republican,40861,100.0,False,False
+141151,NC,Greg Seabolt,Republican,37506,100.0,False,False
+140536,NC,Pam Edwards,Republican,2502,100.0,False,False
+140721,NC,Brad Abate,Republican,6802,100.0,False,False
+140682,NC,Alan Sherouse,Democratic,154615,100.0,False,False
+140771,NC,Jerry Frady,Nonpartisan,1895,55.949,False,False
+140771,NC,Katrina McGuire,Nonpartisan,1469,43.372,False,False
+140771,NC,Write-In,Nonpartisan,23,0.679,False,False
+140319,NC,Robert Trivette,Republican,37562,56.649,False,False
+140319,NC,Eula Reid,Democratic,28745,43.351,False,False
+140696,NC,Avery Michelle Crump,Democratic,154714,100.0,False,False
+140881,NC,Billy Davis,Republican,2907,100.0,False,False
+140650,NC,Kimberly Trull Lequire,Republican,3039,100.0,False,False
+140810,NC,Darren E. Campbell,Republican,53456,100.0,False,False
+140931,NC,Michelle McEntire,Republican,29196,100.0,False,False
+140863,NC,Robert Reives,Democratic,2830,77.301,False,False
+140863,NC,Louis D. Williams,Republican,831,22.699,False,False
+140664,NC,Holly Medlin,Republican,2927,18.02,False,False
+140664,NC,Mason R. Dyer,Republican,2882,17.743,False,False
+140664,NC,Joe Smith,Republican,2756,16.967,False,False
+140664,NC,Natasha Sutton,Democratic,2748,16.918,False,False
+140664,NC,Leisa Edwards Batts,Democratic,2520,15.514,False,False
+140664,NC,Darius F. Shackleford,Democratic,2410,14.837,False,False
+141240,NC,Edward T. Carmichael,Nonpartisan,5799,54.446,False,False
+141240,NC,Guthrie Gibson,Nonpartisan,4732,44.428,False,False
+141240,NC,Write-In,Nonpartisan,120,1.127,False,False
+140817,NC,Anita Kurn,Republican,7775,100.0,False,False
+140170,NC,Eric F. Eller,Republican,27486,50.421,False,False
+140170,NC,Andrew Brooks,Democratic,27027,49.579,False,False
+141091,NC,Clifford Shaw,Democratic,2442,100.0,False,False
+140230,NC,Quentin Miller,Democratic,90324,69.846,False,False
+140230,NC,Gary Parris,Republican,38995,30.154,False,False
+140415,NC,Aaron Bridges,Republican,19624,18.852,False,False
+140415,NC,Ronnie Grigg,Republican,19105,18.353,False,False
+140415,NC,Danny Lee Blanton,Republican,18653,17.919,False,False
+140415,NC,Robert Queen,Republican,17957,17.251,False,False
+140415,NC,Coleman Hunt,Democratic,15326,14.723,False,False
+140415,NC,Jenny White,Democratic,13430,12.902,False,False
+141208,NC,Joshua Millwood,Republican,15189,66.992,False,False
+141208,NC,Erica Carson Davenport,Democratic,7484,33.008,False,False
+140177,NC,Sherry Gravely,Republican,14324,100.0,False,False
+141130,NC,Brenda Gatlin Hawkins,Nonpartisan,114,34.03,False,False
+141130,NC,Dianne Thomas,Nonpartisan,110,32.836,False,False
+141130,NC,James Vincent,Nonpartisan,100,29.851,False,False
+141130,NC,Write-In,Nonpartisan,11,3.284,False,False
+140259,NC,Tiana Beachler,Republican,18148,61.143,False,False
+140259,NC,Mark Smith,Democratic,11533,38.857,False,False
+140835,NC,Michelle Antoine,Republican,52439,100.0,False,False
+140390,NC,Ashley Hornsby Welch,Republican,59943,100.0,False,False
+140575,NC,Pell Cooper,Democratic,62348,100.0,False,False
+140152,NC,Chris Rhue,Democratic,21856,100.0,False,False
+140145,NC,Jamie Caudle,Republican,4939,100.0,False,False
+141098,NC,Jason Spivey,Republican,16949,100.0,False,False
+141226,NC,Ricky Gilbert,Nonpartisan,585,24.074,False,False
+141226,NC,Jeff Wells,Nonpartisan,492,20.247,False,False
+141226,NC,Christy Freeman Houser,Nonpartisan,427,17.572,False,False
+141226,NC,Doris Crute,Nonpartisan,356,14.65,False,False
+141226,NC,"Bobby Ray Miller, Jr.",Nonpartisan,319,13.128,False,False
+141226,NC,Stanley Lennon Clements,Nonpartisan,228,9.383,False,False
+141226,NC,Write-In,Nonpartisan,23,0.947,False,False
+140995,NC,Ellen M. Jones,Nonpartisan,1082,75.087,False,False
+140995,NC,Jandavian Little Lilly,Nonpartisan,341,23.664,False,False
+140995,NC,Write-In,Nonpartisan,18,1.249,False,False
+140735,NC,David Burnette,Republican,13519,18.639,False,False
+140735,NC,Jeff Stines,Republican,12404,17.102,False,False
+140735,NC,Tommy Long,Republican,12086,16.663,False,False
+140735,NC,Michael T. Sorrells,Democratic,11647,16.058,False,False
+140735,NC,Carly Pugh,Democratic,10449,14.406,False,False
+140735,NC,Vicki Hyatt,Unaffiliated,9272,12.784,False,False
+140735,NC,Blake T. Hart,Unaffiliated,3153,4.347,False,False
+141112,NC,Deborah L. Barker,Democratic,11047,100.0,False,False
+141105,NC,Shelton White,Republican,4557,100.0,False,False
+140266,NC,David W. Aycock,Republican,81933,100.0,False,False
+140355,NC,D. Scott Reilly,Republican,41026,100.0,False,False
+140895,NC,Kellie McConnell Burns,Republican,8430,29.303,False,False
+140895,NC,Dylan Castle,Republican,8324,28.935,False,False
+140895,NC,Terry Bell,Democratic,6442,22.393,False,False
+140895,NC,Janet Jacobs Greene,Democratic,5572,19.369,False,False
+140280,NC,Ingrid Nurse,Democratic,43743,18.488,False,False
+140280,NC,Dan Redding,Democratic,43518,18.393,False,False
+140280,NC,Phil Henry,Democratic,39022,16.493,False,False
+140280,NC,James N. Bailey,Republican,35816,15.138,False,False
+140280,NC,Kristel Swayze,Republican,35599,15.046,False,False
+140280,NC,Ian Patrick,Republican,33557,14.183,False,False
+140280,NC,Thomas Hill,Libertarian,5345,2.259,False,False
+140465,NC,Charles Evans,Democratic,54270,33.632,False,False
+140465,NC,Veronica B. Jones,Democratic,51203,31.731,False,False
+140465,NC,Greg West,Republican,31921,19.782,False,False
+140465,NC,Ron Ross,Republican,23971,14.855,False,False
+141233,NC,Allen McLamb,Republican,2962,100.0,False,False
+141194,NC,Daniel Holder,Republican,27904,59.031,False,False
+141194,NC,Alisha Byrd-Clark,Democratic,19366,40.969,False,False
+140323,NC,Chris Chadwick,Republican,25388,100.0,False,False
+141247,NC,Meghan Almond,Republican,15034,37.636,False,False
+141247,NC,Hannah Chavis Lear,Republican,12933,32.376,False,False
+141247,NC,Chody Harris,Democratic,6119,15.318,False,False
+141247,NC,Patrice Barringer,Democratic,5860,14.67,False,False
+140248,NC,Anna V. Stearns,Democratic,29705,66.826,False,False
+140248,NC,Rob Stetson,Republican,14746,33.174,False,False
+140632,NC,Chad E. Hawkins,Republican,50772,100.0,False,False
+141393,NC,Patrick Brown,Democratic,4065,50.415,False,False
+141393,NC,Joey Andrews,Unaffiliated,2593,32.159,False,False
+141393,NC,Thomas Fleming,Republican,1405,17.425,False,False
+140554,NC,Doretta L. Walker,Democratic,130480,100.0,False,False
+140483,NC,Lou Olivera,Democratic,36408,100.0,False,False
+140614,NC,Mike Waters,Republican,57684,100.0,False,False
+140991,NC,Stacy D. Fulcher,Republican,24648,100.0,False,False
+140792,NC,Yohan Namkung,Republican,36547,100.0,False,False
+141361,NC,Corey Branch,Nonpartisan,23362,71.804,False,False
+141361,NC,Jared S. Ollison,Nonpartisan,9040,27.785,False,False
+141361,NC,Write-In,Nonpartisan,134,0.412,False,False
+140522,NC,Jim Hedrick,Republican,62484,100.0,False,False
+141443,NC,Beverly P. Boyette,Nonpartisan,2935,69.848,False,False
+141443,NC,Danny Howell,Nonpartisan,1228,29.224,False,False
+141443,NC,Write-In,Nonpartisan,39,0.928,False,False
+140419,NC,Mike Miller,Republican,51752,100.0,False,False
+140166,NC,Teresa I. Benfield,Republican,4494,69.653,False,False
+140166,NC,Susannah McCoury Dibble,Unaffiliated,1958,30.347,False,False
+140159,NC,Mike Eldreth,Republican,7502,24.847,False,False
+140159,NC,Todd A. McNeill,Republican,7477,24.764,False,False
+140159,NC,Jerry D. Powers,Republican,6823,22.598,False,False
+140159,NC,Leslie Colvard,Democratic,4318,14.301,False,False
+140159,NC,Caroline Renfro,Democratic,4073,13.49,False,False
+141336,NC,Cassandra D. Neal,Democratic,10881,100.0,False,False
+140529,NC,Jason Lawrence,Republican,14960,100.0,False,False
+140490,NC,Mike Payment,Republican,9671,100.0,False,False
+140387,NC,Mark Stiles,Republican,9884,100.0,False,False
+141119,NC,Sara Beth Fulford Rhodes,Democratic,45606,100.0,False,False
+140504,NC,Ron Payne,Republican,11314,100.0,False,False
+140689,NC,Grace Summers,Nonpartisan,90660,31.824,False,False
+140689,NC,"Andrew J. Courts, Jr.",Nonpartisan,56805,19.94,False,False
+140689,NC,Tahir Bashir,Nonpartisan,54550,19.148,False,False
+140689,NC,Jeffrey R. Egerton,Nonpartisan,43693,15.337,False,False
+140689,NC,Ryan Blankenship,Nonpartisan,36580,12.84,False,False
+140689,NC,Write-In,Nonpartisan,2595,0.911,False,False
+141450,NC,Tate C. Williams,Republican,11484,100.0,False,False
+140618,NC,Cindy Sturges,Republican,57231,100.0,False,False
+140739,NC,Stacy Cutshaw Moore,Republican,18781,100.0,False,False
+141279,NC,Eddie Harris,Republican,18440,100.0,False,False
+141464,NC,Keith Boone,Nonpartisan,5563,51.112,False,False
+141464,NC,Jim Edwards,Nonpartisan,5177,47.565,False,False
+141464,NC,Write-In,Nonpartisan,144,1.323,False,False
+141041,NC,Kelvin Edwards,Democratic,5118,100.0,False,False
+140625,NC,Chad Brown,Republican,42628,73.376,False,False
+140625,NC,Charley Killian,Write-In,12980,22.343,False,False
+140625,NC,Write-In,Nonpartisan,2487,4.281,False,False
+140778,NC,Leroy Douglas II,Democratic,5250,100.0,False,False
+140899,NC,Yes,Nonpartisan,10711,70.034,False,False
+140899,NC,No,Nonpartisan,4583,29.966,False,False
+141030,NC,Jason W. Smith,Republican,75264,100.0,False,False
+141215,NC,Mike Hollifield,Nonpartisan,101,48.095,False,False
+141215,NC,Billy Lattimore,Nonpartisan,92,43.81,False,False
+141215,NC,Write-In,Nonpartisan,17,8.095,False,False
+140216,NC,Theresa Jacobs,Democratic,2722,100.0,False,False
+140977,NC,George Guise,Democratic,48020,100.0,False,False
+140138,NC,Lee Boone Bollinger,Republican,41783,100.0,False,False
+141059,NC,Charles Blackwood,Democratic,62300,100.0,False,False
+141190,NC,Jody Burleyson,Republican,35699,100.0,False,False
+140383,NC,Jason Murphy,Republican,7633,37.407,False,False
+140383,NC,Shannon D. Raper,Republican,6829,33.467,False,False
+140383,NC,Joy Stein,Democratic,3128,15.33,False,False
+140383,NC,Carmen Owens Garland,Unaffiliated,2815,13.796,False,False
+140760,NC,Gina Baxter,Nonpartisan,4226,36.312,False,False
+140760,NC,Melinda P. Lowrance,Nonpartisan,3410,29.301,False,False
+140760,NC,Jeff Groh,Nonpartisan,2600,22.341,False,False
+140760,NC,Brett Werner,Nonpartisan,1346,11.566,False,False
+140760,NC,Write-In,Nonpartisan,56,0.481,False,False
+140945,NC,Matt Newton,Democratic,358005,100.0,False,False
+140106,NC,Scott Wells Drorbaugh,Democratic,34737,51.704,False,False
+140106,NC,Sean Boone,Republican,32447,48.296,False,False
+140234,NC,Sara Nichols,Nonpartisan,78939,44.452,False,False
+140234,NC,Anthony D. Cole,Nonpartisan,59325,33.407,False,False
+140234,NC,Trent Duncan,Nonpartisan,24830,13.982,False,False
+140234,NC,Alan Ditmore,Nonpartisan,13694,7.711,False,False
+140234,NC,Write-In,Nonpartisan,793,0.447,False,False
+140803,NC,Jw Spencer,Nonpartisan,1393,64.134,False,False
+140803,NC,Manley Palmer,Nonpartisan,733,33.748,False,False
+140803,NC,Write-In,Nonpartisan,46,2.118,False,False
+141343,NC,Mona Singh,Democratic,326008,36.8,False,False
+141343,NC,Christine Kushner,Democratic,298865,33.736,False,False
+141343,NC,Kyle Stogoski,Republican,134748,15.21,False,False
+141343,NC,Gary Dale Hartong,Republican,126279,14.254,False,False
+140120,NC,Marty Loudermilt,Republican,9459,30.068,False,False
+140120,NC,Ronnie L. Reese,Republican,9173,29.159,False,False
+140120,NC,Andrew Johnson,Republican,9117,28.981,False,False
+140120,NC,Steven Warren,Democratic,3710,11.793,False,False
+140113,NC,Doug Green,Democratic,43611,100.0,False,False
+141066,NC,Chris Davis,Republican,4358,100.0,False,False
+141155,NC,Sarah Neely Lanier,Republican,37333,100.0,False,False
+140511,NC,Matt Mizell,Republican,41791,20.379,False,False
+140511,NC,Dexter M. Short,Republican,40623,19.81,False,False
+140511,NC,Robbie Beasley,Republican,40341,19.672,False,False
+140511,NC,Dwight D. Cornelison,Republican,39412,19.219,False,False
+140511,NC,Tonya A. Lanier,Democratic,21686,10.575,False,False
+140511,NC,Andrea N. Tate,Democratic,21213,10.344,False,False
+141080,NC,Carolyn Jones,Nonpartisan,85,23.352,False,False
+141080,NC,Dave Snipes,Nonpartisan,62,17.033,False,False
+141080,NC,Beth Sanderson,Nonpartisan,59,16.209,False,False
+141080,NC,Steve Lacy,Nonpartisan,56,15.385,False,False
+141080,NC,Melvin Mann,Nonpartisan,51,14.011,False,False
+141080,NC,Koen Van Meeteren,Nonpartisan,47,12.912,False,False
+141080,NC,Write-In,Nonpartisan,4,1.099,False,False
+141265,NC,Brent E. Holbrooks,Nonpartisan,462,46.016,False,False
+141265,NC,Greg Lucas,Nonpartisan,382,38.048,False,False
+141265,NC,Marcus Christensen,Nonpartisan,152,15.139,False,False
+141265,NC,Write-In,Nonpartisan,8,0.797,False,False
+140241,NC,Susan Dotson-Smith,Democratic,96161,100.0,False,False
+140202,NC,Cristin Hursey,Republican,7344,100.0,False,False
+141123,NC,Watsi M. Sutton,Democratic,34030,54.813,False,False
+141123,NC,Daniel Hines Entzminger,Republican,28054,45.187,False,False
+140255,NC,Clay Hamilton,Nonpartisan,256,35.117,False,False
+140255,NC,Mason Blake,Nonpartisan,240,32.922,False,False
+140255,NC,Danny Sharpe,Nonpartisan,225,30.864,False,False
+140255,NC,Write-In,Nonpartisan,8,1.097,False,False
+141048,NC,Chris Thomas,Republican,34393,100.0,False,False
+141432,NC,Doug Combs,Nonpartisan,73,71.569,False,False
+141432,NC,Write-In,Nonpartisan,29,28.431,False,False
+140401,NC,Ricky Browder,Nonpartisan,1300,64.644,False,False
+140401,NC,Ollie Inglis,Nonpartisan,695,34.56,False,False
+140401,NC,Write-In,Nonpartisan,16,0.796,False,False
+140362,NC,Sarah Ferrell Temple,Democratic,1302,100.0,False,False
+141283,NC,Kent Whitaker,Republican,14337,100.0,False,False
+141414,NC,Larry M. Pierce,Republican,19726,51.397,False,False
+141414,NC,Reginald Edwards,Democratic,18654,48.603,False,False
+140799,NC,Rachael Chestnut,Democratic,1336,100.0,False,False
+141400,NC,Carlos Riddick,Democratic,3339,100.0,False,False
+140369,NC,Steve Maynor,Democratic,28246,66.538,False,False
+140369,NC,Marcus A. Globuschutz,Republican,10946,25.785,False,False
+140369,NC,William Bruce Coble,Write-In,3137,7.39,False,False
+140369,NC,Write-In,Nonpartisan,122,0.287,False,False
+141322,NC,Kensley McCoy,Democratic,6622,27.727,False,False
+141322,NC,Parker Mills,Republican,4601,19.265,False,False
+141322,NC,Michelle Ball,Republican,4411,18.469,False,False
+141322,NC,Heidi Petterson,Republican,4324,18.105,False,False
+141322,NC,Abigail Pepper,Unaffiliated,3555,14.885,False,False
+141322,NC,Write-In,Nonpartisan,210,0.879,False,False
+141322,NC,Bob Yanacsek,Write-In,160,0.67,False,False
+140451,NC,Cleopatra Hargett-Lawton,Democratic,3263,50.865,False,False
+140451,NC,Jennifer Dacey,Republican,3152,49.135,False,False
+141219,NC,Perry Whisnant,Nonpartisan,86,19.326,False,False
+141219,NC,Lee Allen,Nonpartisan,80,17.978,False,False
+141219,NC,Rachel Lawson,Nonpartisan,78,17.528,False,False
+141219,NC,Pamela Padgett,Nonpartisan,67,15.056,False,False
+141219,NC,Warren C. Smith,Nonpartisan,64,14.382,False,False
+141219,NC,Allan Black,Nonpartisan,61,13.708,False,False
+141219,NC,Write-In,Nonpartisan,9,2.022,False,False
+140774,NC,Trevor C. Lance,Nonpartisan,2453,99.071,False,False
+140774,NC,Write-In,Nonpartisan,23,0.929,False,False
+140959,NC,Elizabeth Thornton Trosch,Democratic,36820,100.0,False,False
+140344,NC,Erica Standfield Brandon,Republican,30584,100.0,False,False
+140337,NC,Randy D. Simmons,Republican,4705,54.633,False,False
+140337,NC,Jelesa Hardin,Democratic,3907,45.367,False,False
+141290,NC,Kasey Martin,Republican,2541,100.0,False,False
+141187,NC,Karla Foster Leonard,Republican,28103,20.531,False,False
+141187,NC,Jason Scott Hinson,Republican,27707,20.242,False,False
+141187,NC,Daniel R. Lancaster,Republican,27408,20.023,False,False
+141187,NC,Alissa Redmond,Democratic,18611,13.596,False,False
+141187,NC,Hannah Addair,Democratic,18023,13.167,False,False
+141187,NC,Ray Pope,Democratic,17029,12.441,False,False
+140127,NC,Martin J. Gottholm,Republican,62516,100.0,False,False
+141304,NC,Diana Kirkland,Democratic,3461,100.0,False,False
+140497,NC,William L. Powell,Nonpartisan,4242,31.054,False,False
+140497,NC,Joseph Hobbs,Nonpartisan,3801,27.826,False,False
+140497,NC,Harvey Roberts,Nonpartisan,2872,21.025,False,False
+140497,NC,John Mack Duncan,Nonpartisan,2604,19.063,False,False
+140497,NC,Write-In,Nonpartisan,141,1.032,False,False
+140458,NC,"Ray Gaskins, Jr.",Nonpartisan,1095,40.391,False,False
+140458,NC,Greg Holt,Nonpartisan,835,30.8,False,False
+140458,NC,Tommy Dunn,Nonpartisan,764,28.181,False,False
+140458,NC,Write-In,Nonpartisan,17,0.627,False,False
+141418,NC,Ronald W. Parks,Nonpartisan,20708,56.019,False,False
+141418,NC,Phil Yelverton,Nonpartisan,15704,42.482,False,False
+141418,NC,Write-In,Nonpartisan,554,1.499,False,False
+140547,NC,David J. Jones,Republican,2894,100.0,False,False
+140287,NC,Ashlie Shanley,Republican,49065,100.0,False,False
+140472,NC,Frances McDuffie Britt,Democratic,68987,100.0,False,False
+140849,NC,Zachary Simons,Unaffiliated,219,61.69,False,False
+140849,NC,Michael D. Pretty,Democratic,136,38.31,False,False
+141425,NC,No,Nonpartisan,620,62.69,False,False
+141425,NC,Yes,Nonpartisan,369,37.31,False,False
+140586,NC,Valerie Brockenbrough,Democratic,91111,24.466,False,False
+140586,NC,Elisabeth Motsinger,Democratic,89932,24.149,False,False
+140586,NC,Ronda Mays,Democratic,89576,24.054,False,False
+140586,NC,Michael Quinones,Republican,52589,14.122,False,False
+140586,NC,Jason Lucero,Republican,49194,13.21,False,False
+140515,NC,James Davis,Nonpartisan,23072,25.619,False,False
+140515,NC,Tyler Lohr Forrest,Nonpartisan,21547,23.925,False,False
+140515,NC,Kent Beck,Nonpartisan,18627,20.683,False,False
+140515,NC,Will Brinkley,Nonpartisan,16807,18.662,False,False
+140515,NC,Christopher Lynn,Nonpartisan,9225,10.243,False,False
+140515,NC,Write-In,Nonpartisan,781,0.867,False,False
+140838,NC,Michelle Creech Ball,Republican,54884,100.0,False,False
+140223,NC,Mike Barbee,Nonpartisan,38384,38.371,False,False
+140223,NC,Jody E. Clemmons,Nonpartisan,38216,38.203,False,False
+140223,NC,Anthony Street,Nonpartisan,21552,21.544,False,False
+140223,NC,Write-In,Nonpartisan,1883,1.882,False,False
+141016,NC,Keith Stone,Republican,22533,55.262,False,False
+141016,NC,David Brake,Democratic,18242,44.738,False,False
+140785,NC,Evelyn M. McLeod,Democratic,12408,100.0,False,False
+140938,NC,Yes,Nonpartisan,204868,63.692,False,False
+140938,NC,No,Nonpartisan,116785,36.308,False,False
+140867,NC,Patrick Kelly,Democratic,12403,29.901,False,False
+140867,NC,Laura Stryffeler,Republican,10059,24.25,False,False
+140867,NC,Alan Rummel,Republican,9545,23.011,False,False
+140867,NC,Karla Koballa,Republican,9473,22.838,False,False
+140998,NC,Craig Jones,Nonpartisan,564,97.409,False,False
+140998,NC,Write-In,Nonpartisan,15,2.591,False,False
+141183,NC,Abner M. Bullins,Republican,24715,100.0,False,False
+140568,NC,Christina Jones,Nonpartisan,28022,70.171,False,False
+140568,NC,Marc Scruggs,Nonpartisan,11788,29.519,False,False
+140568,NC,Write-In,Nonpartisan,124,0.311,False,False
+140753,NC,J. Tyler Ray,Republican,36066,100.0,False,False
+140906,NC,Craig D. Goforth,Democratic,5857,56.112,False,False
+140906,NC,John H. Bratz,Republican,4581,43.888,False,False
+141034,NC,Katherine Corpening,Democratic,67405,53.351,False,False
+141034,NC,Chad Hogston,Republican,58938,46.649,False,False
+140611,NC,Paige Sayles,Nonpartisan,14947,50.996,False,False
+140611,NC,Jennifer Paylor,Nonpartisan,14133,48.219,False,False
+140611,NC,Write-In,Nonpartisan,230,0.785,False,False
+140351,NC,Kim R. Sigmon,Republican,41729,100.0,False,False
+140920,NC,Chris Allison,Republican,9251,21.421,False,False
+140920,NC,Tony G. Brown,Republican,8973,20.777,False,False
+140920,NC,David Walker,Republican,8495,19.67,False,False
+140920,NC,Terry English,Democratic,6355,14.715,False,False
+140920,NC,Matt Suttles,Democratic,5256,12.17,False,False
+140920,NC,Stephanie Tenery,Democratic,4857,11.246,False,False
+140913,NC,Amanda G. Bramble,Democratic,7026,100.0,False,False
+140874,NC,Mary G. Alphin,Republican,11891,100.0,False,False
+140163,NC,B. Phil Howell,Republican,8737,100.0,False,False
+141311,NC,Aaron Siniard,Nonpartisan,10291,50.389,False,False
+141311,NC,Bob Twomey,Nonpartisan,9991,48.92,False,False
+141311,NC,Write-In,Nonpartisan,141,0.69,False,False
+140888,NC,Bill Beam,Republican,26755,82.121,False,False
+140888,NC,Anthony Huss,Libertarian,5825,17.879,False,False
+141073,NC,Keith D. Cowell,Nonpartisan,152,95.597,False,False
+141073,NC,Write-In,Nonpartisan,7,4.403,False,False
+140842,NC,Jason Waller,Republican,54036,100.0,False,False
+141002,NC,Kurt J. Cook,Republican,28976,100.0,False,False
+140131,NC,Tim Fox,Republican,1395,75.774,False,False
+140131,NC,Cindy Thomas Sellers,Democratic,446,24.226,False,False
+141055,NC,Rani Dasi,Democratic,59845,100.0,False,False
+140856,NC,Keith Metts,Nonpartisan,2339,51.702,False,False
+140856,NC,Samantha Jo Bennett,Nonpartisan,2123,46.927,False,False
+140856,NC,Write-In,Nonpartisan,62,1.37,False,False
+140440,NC,Anna Richardson,Nonpartisan,752,97.283,False,False
+140440,NC,Write-In,Nonpartisan,21,2.717,False,False
+140209,NC,"Will M. Callihan, Jr.",Republican,73401,100.0,False,False
+141162,NC,Eddie Eaton,Nonpartisan,1604,67.909,False,False
+141162,NC,Ed Lohr,Nonpartisan,744,31.499,False,False
+141162,NC,Write-In,Nonpartisan,14,0.593,False,False
+140291,NC,Jennifer Taylor,Republican,48461,99.612,False,False
+140291,NC,Brent Cloninger,Republican,189,0.388,False,False
+141222,NC,Charlie Brooks,Nonpartisan,733,62.65,False,False
+141222,NC,Jonathan M. Bland,Nonpartisan,388,33.162,False,False
+141222,NC,Wyvern Mason,Nonpartisan,43,3.675,False,False
+141222,NC,Write-In,Nonpartisan,6,0.513,False,False
+141407,NC,"Len Hagaman, Jr.",Democratic,15903,67.825,False,False
+141407,NC,Darin Church,Republican,7544,32.175,False,False
+140408,NC,Jason Shook,Republican,3711,29.085,False,False
+140408,NC,Kevin Crawford,Republican,3634,28.482,False,False
+140408,NC,Brett Woody,Republican,3539,27.737,False,False
+140408,NC,Marcelline Fuerch,Unaffiliated,1875,14.696,False,False
+141169,NC,Shelena Smith,Democratic,21206,100.0,False,False
+140330,NC,John Nyberg,Republican,21876,64.693,False,False
+140330,NC,Franklin Rice,Unaffiliated,11939,35.307,False,False
+141251,NC,Mike Lambert,Nonpartisan,1787,38.848,False,False
+141251,NC,Chris Bramlett,Nonpartisan,1702,37.0,False,False
+141251,NC,Lisa Kiser,Nonpartisan,1046,22.739,False,False
+141251,NC,Write-In,Nonpartisan,65,1.413,False,False
+141027,NC,Ed McMahon,Republican,63771,100.0,False,False
+140582,NC,Larry D. Woodley,Democratic,2184,100.0,False,False
+140767,NC,Gene B. Johnson,Republican,51801,100.0,False,False
+141144,NC,Becky Kennedy,Nonpartisan,273,34.383,False,False
+141144,NC,Richard Hall,Nonpartisan,256,32.242,False,False
+141144,NC,Mark Phillips,Nonpartisan,247,31.108,False,False
+141144,NC,Write-In,Nonpartisan,18,2.267,False,False
+141137,NC,Mike Ashworth,Republican,6501,100.0,False,False
+140298,NC,Steve Huber,Nonpartisan,1723,96.907,False,False
+140298,NC,Write-In,Nonpartisan,55,3.093,False,False
+140195,NC,Blount Knowles,Nonpartisan,3575,75.105,False,False
+140195,NC,Write-In,Nonpartisan,1185,24.895,False,False
+140927,NC,Neil Brackett,Nonpartisan,10991,53.336,False,False
+140927,NC,Stephen Banner,Nonpartisan,9380,45.519,False,False
+140927,NC,Write-In,Nonpartisan,236,1.145,False,False
+140312,NC,Brian Lannon,Nonpartisan,2627,49.744,False,False
+140312,NC,Abner Wayne Staples,Nonpartisan,2619,49.593,False,False
+140312,NC,Write-In,Nonpartisan,35,0.663,False,False
+141297,NC,Mike Bovender,Nonpartisan,868,25.291,False,False
+141297,NC,Jeffrey C. Eidson,Nonpartisan,819,23.864,False,False
+141297,NC,Cicely McCulloch,Nonpartisan,814,23.718,False,False
+141297,NC,Graham Ray,Nonpartisan,531,15.472,False,False
+141297,NC,Deryal Walker,Nonpartisan,360,10.49,False,False
+141297,NC,Write-In,Nonpartisan,40,1.166,False,False
+141258,NC,Derek Starnes,Nonpartisan,133,30.505,False,False
+141258,NC,Timothy Higgins,Nonpartisan,124,28.44,False,False
+141258,NC,Sidney Lanier,Nonpartisan,95,21.789,False,False
+141258,NC,Julie Wittman,Nonpartisan,83,19.037,False,False
+141258,NC,Write-In,Nonpartisan,1,0.229,False,False
+140426,NC,Ronnie D. Strickland,Republican,7624,61.578,False,False
+140426,NC,Beatrice Addison,Democratic,4757,38.422,False,False
+141347,NC,Samantha Krop,Nonpartisan,250757,31.168,False,False
+141347,NC,Cece Grant,Nonpartisan,208499,25.916,False,False
+141347,NC,Beth Pugh Farrell,Nonpartisan,139256,17.309,False,False
+141347,NC,Jim White,Nonpartisan,106232,13.204,False,False
+141347,NC,Brian K. Lewis,Nonpartisan,48088,5.977,False,False
+141347,NC,Terence Thomas,Nonpartisan,47165,5.862,False,False
+141347,NC,Write-In,Nonpartisan,4532,0.563,False,False
+141087,NC,Tommy Wooten,Republican,8986,100.0,False,False
+141272,NC,Jonathan Young,Nonpartisan,8391,31.326,False,False
+141272,NC,Johnny East,Nonpartisan,7398,27.619,False,False
+141272,NC,Joe Bennett,Nonpartisan,6515,24.322,False,False
+141272,NC,Joshua Francis,Nonpartisan,4218,15.747,False,False
+141272,NC,Write-In,Nonpartisan,264,0.986,False,False
+141457,NC,Anita Darnell,Nonpartisan,508,94.6,False,False
+141457,NC,Write-In,Nonpartisan,29,5.4,False,False
+140433,NC,Yes,Nonpartisan,8718,54.563,False,False
+140433,NC,No,Nonpartisan,7260,45.437,False,False
+141386,NC,David K. Baker,Democratic,53556,100.0,False,False
+141315,NC,Danielle Davis Carawan,Nonpartisan,895,50.852,False,False
+141315,NC,Carl Jones,Nonpartisan,845,48.011,False,False
+141315,NC,Write-In,Nonpartisan,20,1.136,False,False
+140447,NC,Mark P. Larkin,Nonpartisan,1925,53.696,False,False
+140447,NC,Tyrone Cantey,Nonpartisan,1638,45.69,False,False
+140447,NC,Write-In,Nonpartisan,22,0.614,False,False
+141439,NC,Debora Powell,Nonpartisan,2152,75.882,False,False
+141439,NC,Joe Flowers,Nonpartisan,453,15.973,False,False
+141439,NC,Cornell L. Mercer,Nonpartisan,210,7.405,False,False
+141439,NC,Write-In,Nonpartisan,21,0.74,False,False
+140824,NC,Kim Coggins Poteet,Democratic,9519,59.684,False,False
+140824,NC,Rollie L. James,Republican,6430,40.316,False,False
+140593,NC,Fred Adams,Democratic,106527,100.0,False,False
+140746,NC,Roy Wijewickrama,Democratic,29512,100.0,False,False
+87335,NC,Valerie Foushee,Democratic,284548,79.135,True,False
+87335,NC,Max Ganorkar,Republican,68019,18.917,False,False
+87335,NC,Guy Meilleur,Libertarian,7004,1.948,False,False
+140700,NC,Amos Quick,Democratic,25101,100.0,True,False
+140793,NC,Garland E. Pierce,Democratic,16004,60.711,True,False
+140793,NC,Ralph Carter,Republican,10357,39.289,False,False
+140968,NC,Terry Brown,Democratic,29678,100.0,True,False
+140197,NC,Patricia Smith,Democratic,20805,61.553,True,False
+140197,NC,Brent Roberson,Republican,12995,38.447,False,False
+87338,NC,David Rouzer,Republican,160702,49.866,True,False
+87338,NC,Kim Hardy,Democratic,158391,49.149,False,False
+87338,NC,Maad Abu-Ghazalah,Libertarian,3173,0.985,False,False
+140640,NC,Mark D. Carver,Democratic,18843,51.678,True,False
+140640,NC,Donnie Loftis,Republican,17619,48.322,False,False
+140111,NC,Levon Barnes,Democratic,18385,52.82,True,False
+140111,NC,Dennis Riddell,Republican,16422,47.18,False,False
+140972,NC,Laura Budd,Democratic,25698,100.0,True,False
+87345,NC,Lakesha Womack,Democratic,147920,51.135,True,False
+87345,NC,Tim Moore,Republican,141353,48.865,False,False
+140703,NC,Mary Price Harrison,Democratic,28925,100.0,True,False
+140707,NC,Gladys A. Robinson,Democratic,61383,100.0,True,False
+140423,NC,Caroline Eason,Republican,16757,57.973,True,False
+140423,NC,Mary Silver,Democratic,12148,42.027,False,False
+140893,NC,Heather Rhyne,Republican,25557,67.007,True,False
+140893,NC,Greg McBryde,Democratic,12584,32.993,False,False
+140243,NC,Brian Turner,Democratic,38886,100.0,True,False
+140720,NC,Rodney D. Pierce,Democratic,20758,63.556,True,False
+140720,NC,David Woodson,Republican,11903,36.444,False,False
+140966,NC,Aisha O. Dew,Democratic,29815,100.0,True,False
+141329,NC,David Willis,Republican,21724,53.245,True,False
+141329,NC,Derek Warriner,Democratic,19076,46.755,False,False
+140871,NC,April Montgomery,Unaffiliated,13992,50.749,True,False
+140871,NC,Charles M. Taylor,Republican,13579,49.251,False,False
+141387,NC,James A. Roberson,Democratic,30026,72.597,True,False
+141387,NC,Jorge Cordova,Republican,10365,25.06,False,False
+141387,NC,Wayne Cockrell,Libertarian,969,2.343,False,False
+141050,NC,Wyatt Gable,Republican,10579,100.0,True,False
+141022,NC,Dante Pittman,Democratic,18132,58.31,True,False
+141022,NC,Blake Boykin,Republican,12964,41.69,False,False
+140333,NC,Celeste Cairns,Republican,25605,65.242,True,False
+140333,NC,Jason Moore,Democratic,13641,34.758,False,False
+140376,NC,Robert T. Reives II,Democratic,30616,100.0,True,False
+140597,NC,Dana Caudill Jones,Republican,50134,53.635,True,False
+140597,NC,Andy Bowline,Democratic,43338,46.365,False,False
+141362,NC,Abe Jones,Democratic,27996,100.0,True,False
+140481,NC,Janene Ackles,Democratic,15899,52.148,True,False
+140481,NC,Diane Wheatley,Republican,14589,47.852,False,False
+140478,NC,Frances Jackson,Democratic,18074,100.0,True,False
+140244,NC,Julie Mayfield,Democratic,77461,77.147,True,False
+140244,NC,Cj Domingo,Republican,22946,22.853,False,False
+141023,NC,Lorenza M. Wilkins,Democratic,20563,52.762,True,False
+141023,NC,Allen Chesser,Republican,17392,44.626,False,False
+141023,NC,Nick Taylor,Libertarian,1018,2.612,False,False
+140345,NC,Renee A. Price,Democratic,30032,100.0,True,False
+140559,NC,Marcia Morey,Democratic,34935,92.949,True,False
+140559,NC,Ray Ubinger,Libertarian,2650,7.051,False,False
+140485,NC,Charles Smith,Democratic,17929,100.0,True,False
+141186,NC,Seth Woodall,Republican,21522,63.133,True,False
+141186,NC,Gavin McGaughey,Democratic,12568,36.867,False,False
+140227,NC,Charlie Miller,Republican,29843,55.265,True,False
+140227,NC,Scott Nasiff,Democratic,24157,44.735,False,False
+140960,NC,Brandon Lofton,Democratic,24956,64.986,True,False
+140960,NC,Trina Boyd,Republican,13446,35.014,False,False
+140765,NC,Jake Johnson,Republican,23153,58.559,True,False
+140765,NC,John Morgan,Democratic,16385,41.441,False,False
+140435,NC,Brenden H. Jones,Republican,15137,59.34,True,False
+140435,NC,Brittany Newton,Democratic,10372,40.66,False,False
+140745,NC,James M. Rogers,Republican,19559,50.8,True,False
+140745,NC,Danny E. Davis,Democratic,18943,49.2,False,False
+140671,NC,Jessica Rivera,Democratic,37821,51.158,True,False
+140671,NC,Buck Newton,Republican,36109,48.842,False,False
+140970,NC,Ken McCool,Democratic,24647,57.117,True,False
+140970,NC,Tricia Ann Cotham,Republican,18505,42.883,False,False
+140967,NC,Mujtaba A. Mohammed,Democratic,75320,100.0,True,False
+140356,NC,Mitchell Smith Setzer,Republican,23953,67.509,True,False
+140356,NC,Robert Thompson,Democratic,11528,32.491,False,False
+141370,NC,Phil Rubin,Democratic,31524,80.802,True,False
+141370,NC,Lucas Everett Jones,Libertarian,7490,19.198,False,False
+140951,NC,Becky Carney,Democratic,32017,100.0,True,False
+140294,NC,Todd Johnson,Republican,52239,53.994,True,False
+140294,NC,Christine E. Winward,Democratic,44511,46.006,False,False
+140657,NC,Bryan K. Cohn,Democratic,18562,55.5,True,False
+140657,NC,Frank Sossamon,Republican,14883,44.5,False,False
+140974,NC,Rodney Sadler,Democratic,33346,100.0,True,False
+141355,NC,Jay J. Chaudhuri,Democratic,61597,75.101,True,False
+141355,NC,David Bankert,Republican,20422,24.899,False,False
+140961,NC,Mrs. Woodson Bradley,Democratic,57296,58.883,True,False
+140961,NC,Stacie McGinn,Republican,40008,41.117,False,False
+140958,NC,Julia Greenfield,Democratic,22461,100.0,True,False
+140212,NC,Brent Jackson,Republican,48596,100.0,True,False
+140728,NC,"Howard L. Penny, Jr.",Republican,17680,51.511,True,False
+140728,NC,Kevin G. Thurman,Democratic,15915,46.368,False,False
+140728,NC,Christopher Sessions,Libertarian,728,2.121,False,False
+140956,NC,Jordan Lopez,Democratic,26430,100.0,True,False
+140601,NC,Amy Taylor North,Democratic,23516,57.062,True,False
+140601,NC,Jeff Zenger,Republican,17695,42.938,False,False
+140616,NC,James D. Gailliard,Democratic,45634,51.456,True,False
+140616,NC,Lisa Stone Barnes,Republican,40966,46.193,False,False
+140616,NC,Gavin Bell,Libertarian,2085,2.351,False,False
+140421,NC,Paul Scott,Republican,18686,65.951,True,False
+140421,NC,Jerry Blake,Democratic,9647,34.049,False,False
+140699,NC,Tracy Clark,Democratic,28917,100.0,True,False
+140249,NC,Eric Ager,Democratic,32914,100.0,True,False
+140527,NC,Sam Watford,Republican,19762,67.971,True,False
+140527,NC,Jacquez Johnson,Democratic,9312,32.029,False,False
+140812,NC,Jeffrey C. McNeely,Republican,22284,100.0,True,False
+140706,NC,Michael K. Garrett,Democratic,61401,100.0,True,False
+140543,NC,Jimmy Dixon,Republican,13831,55.007,True,False
+140543,NC,Vernon Moore,Democratic,11313,44.993,False,False
+140963,NC,Deandrea Salvador,Democratic,69754,100.0,True,False
+87343,NC,Alma Adams,Democratic,220770,81.228,True,False
+87343,NC,Jack Codiga,Republican,51022,18.772,False,False
+140701,NC,Elma Hairston,Democratic,22477,51.875,True,False
+140701,NC,Alan Branson,Republican,20852,48.125,False,False
+140563,NC,Vernetta Alston,Democratic,41114,100.0,True,False
+140560,NC,Sophia Chitlik,Democratic,73404,85.249,True,False
+140560,NC,Lakeshia M. Alston,Republican,12701,14.751,False,False
+141382,NC,Julie Von Haefen,Democratic,26715,62.986,True,False
+141382,NC,Mary Insprucker,Republican,15699,37.014,False,False
+141201,NC,Greg Edds,Republican,16121,53.112,True,False
+141201,NC,Scott Huffman,Democratic,14232,46.888,False,False
+140487,NC,Mike Colvin,Democratic,14786,100.0,True,False
+140395,NC,Kevin Corbin,Republican,55526,58.173,True,False
+140395,NC,Tom Downing,Democratic,39924,41.827,False,False
+87337,NC,Cyril Jefferson,Democratic,140707,51.202,True,False
+87337,NC,Addison McDowell,Republican,134103,48.798,False,False
+140638,NC,John A. Torbett,Republican,16868,54.021,True,False
+140638,NC,Sydnie Hutchinson,Democratic,14357,45.979,False,False
+140813,NC,Vickie Sawyer,Republican,51818,56.609,True,False
+140813,NC,Raygan J. Angel,Democratic,39719,43.391,False,False
+141176,NC,John L. Lowery,Republican,11284,53.929,True,False
+141176,NC,Eshonda Hooper,Democratic,9640,46.071,False,False
+140526,NC,Steve Jarvis,Republican,52335,66.076,True,False
+140526,NC,Pamela D. McAfee,Democratic,26869,33.924,False,False
+141202,NC,Carl Ford,Republican,46878,62.415,True,False
+141202,NC,Gary R. Weart,Democratic,28229,37.585,False,False
+87344,NC,Paul Barringer,Democratic,160860,50.548,True,False
+87344,NC,Brad Knott,Republican,152864,48.035,False,False
+87344,NC,Steven Swinton,Libertarian,4511,1.418,False,False
+87341,NC,Pat Harrigan,Republican,146590,49.627,True,False
+87341,NC,Ashley Bell,Democratic,144081,48.778,False,False
+87341,NC,Steve Feldman,Libertarian,4710,1.595,False,False
+140564,NC,Zack Hawkins,Democratic,37286,100.0,True,False
+140831,NC,Mark Burrows,Democratic,19617,52.42,True,False
+140831,NC,Anna Ferguson,Republican,17806,47.58,False,False
+141052,NC,Phillip Shepard,Republican,13681,56.834,True,False
+141052,NC,Christopher Schulte,Democratic,10391,43.166,False,False
+140377,NC,Natalie S. Murdock,Democratic,85783,100.0,True,False
+141359,NC,Tim Longest,Democratic,29897,81.597,True,False
+141359,NC,Ed George,Libertarian,6743,18.403,False,False
+140293,NC,April Cook,Democratic,47029,57.732,True,False
+140293,NC,Kevin Crutchfield,Republican,34432,42.268,False,False
+140226,NC,Bill Rabon,Republican,59587,52.157,True,False
+140226,NC,Richard Combes,Democratic,52142,45.641,False,False
+140226,NC,Tim White,Libertarian,2516,2.202,False,False
+140768,NC,Lynne Russo,Democratic,22717,51.724,True,False
+140768,NC,Chelsea Walsh,Republican,21203,48.276,False,False
+87333,NC,Deborah Ross,Democratic,246446,75.077,True,False
+87333,NC,Gene Douglass,Republican,76976,23.45,False,False
+87333,NC,Matt Laszacs,Libertarian,4299,1.31,False,False
+87333,NC,Brian McGinnis,Write-In,270,0.082,False,False
+87333,NC,Write-In,Nonpartisan,265,0.081,False,False
+140844,NC,Larry C. Strickland,Republican,17180,58.172,True,False
+140844,NC,D. Matthew Bailey,Democratic,12353,41.828,False,False
+140969,NC,Veleria M. Levy,Democratic,24127,100.0,True,False
+140479,NC,Val Applewhite,Democratic,45711,73.592,True,False
+140479,NC,Venus De La Cruz,Republican,16403,26.408,False,False
+140394,NC,Karl Gillespie,Republican,25669,67.843,True,False
+140394,NC,Caleb Brown,Democratic,12167,32.157,False,False
+141383,NC,Winn Decker,Democratic,26755,54.743,True,False
+141383,NC,Erin Pare,Republican,22119,45.257,False,False
+141053,NC,Carson Smith,Republican,22024,62.568,True,False
+141053,NC,Jim Harris,Democratic,13176,37.432,False,False
+140794,NC,"Danny Earl Britt, Jr.",Republican,28055,50.201,False,False
+140794,NC,Catina Hamm,Democratic,27830,49.799,False,False
+141367,NC,Monika Johnson-Hostler,Democratic,29605,79.115,True,False
+141367,NC,Matthew Orr,Republican,7815,20.885,False,False
+141126,NC,Claire Kempner,Democratic,18358,50.304,False,False
+141126,NC,Timothy Reeder,Republican,18136,49.696,False,False
+140273,NC,Hugh Blackwell,Republican,19049,63.359,True,False
+140273,NC,Wesley E. Hendrix,Democratic,11016,36.641,False,False
+141390,NC,Sarah Crawford,Democratic,29708,100.0,True,False
+140171,NC,Dudley Greene,Republican,23154,64.985,True,False
+140171,NC,Suzanne Gavenus,Democratic,12476,35.015,False,False
+140993,NC,Cody Huneycutt,Republican,22594,67.852,True,False
+140993,NC,Jocelyn Torres,Democratic,10705,32.148,False,False
+140766,NC,Tim Moffitt,Republican,49460,55.213,True,False
+140766,NC,"Doyle G. Brown, Jr.",Democratic,40120,44.787,False,False
+140845,NC,Benton Sawrey,Republican,44010,49.631,True,False
+140845,NC,Pat Legrand,Democratic,42874,48.35,False,False
+140845,NC,Kevin Terrett,Libertarian,1791,2.02,False,False
+140952,NC,Caleb Theodros,Democratic,70084,84.56,True,False
+140952,NC,Kevin Gray,Republican,12797,15.44,False,False
+87332,NC,Don Davis,Democratic,157490,50.135,True,False
+87332,NC,Laurie Buckhout,Republican,146696,46.699,False,False
+87332,NC,Tom Bailey,Libertarian,9944,3.166,False,False
+140658,NC,Haseeb Fatmi,Democratic,54360,54.813,True,False
+140658,NC,Chris Stock,Republican,42402,42.755,False,False
+140658,NC,Brad Hessel,Libertarian,2412,2.432,False,False
+140449,NC,Steve Tyson,Republican,20926,55.88,True,False
+140449,NC,Diannia Bright,Democratic,15630,41.738,False,False
+140449,NC,Angela Humphries,Libertarian,892,2.382,False,False
+140254,NC,Warren Daniel,Republican,42754,56.15,True,False
+140254,NC,Kyle Whisnant,Democratic,33388,43.85,False,False
+140155,NC,Dave Craven,Republican,43275,60.916,True,False
+140155,NC,Judy Little,Democratic,27766,39.084,False,False
+87336,NC,Chuck Hubbard,Democratic,139770,48.736,False,False
+87336,NC,Virginia Foxx,Republican,139439,48.621,False,False
+87336,NC,Robert Luffman,Libertarian,7579,2.643,False,False
+141327,NC,Dean Arp,Republican,20645,53.422,True,False
+141327,NC,Heidi Sinsley,Democratic,18000,46.578,False,False
+141036,NC,Tim Merrick,Democratic,22156,50.087,False,False
+141036,NC,Dane Scalise,Republican,22079,49.913,False,False
+140962,NC,Mary Belk,Democratic,23604,77.976,True,False
+140962,NC,Ray Craig,Republican,6667,22.024,False,False
+141375,NC,Ya Liu,Democratic,29221,71.332,True,False
+141375,NC,Bryson Johnson,Republican,11744,28.668,False,False
+140579,NC,Kandie D. Smith,Democratic,50024,61.846,True,False
+140579,NC,Henry Hostetler,Republican,30861,38.154,False,False
+140704,NC,Shelly Headen,Democratic,21425,50.314,False,False
+140704,NC,John M. Blust,Republican,21158,49.686,False,False
+140733,NC,Joe Pike,Republican,14620,50.967,True,False
+140733,NC,Tony Spears,Democratic,14065,49.033,False,False
+141363,NC,Dan Blue,Democratic,68329,82.025,True,False
+141363,NC,Angela B. McCarty,Republican,14974,17.975,False,False
+140976,NC,Beth Helfrich,Democratic,23498,60.082,True,False
+140976,NC,John Rhodes,Republican,15612,39.918,False,False
+140198,NC,Jerry Tillett,Republican,43069,52.005,True,False
+140198,NC,Melissa Zehner,Democratic,39748,47.995,False,False
+141009,NC,Ben Moss,Republican,15959,51.682,True,False
+141009,NC,Joe Parfitt,Democratic,14920,48.318,False,False
+140295,NC,Thomas J. Monks,Democratic,17434,53.86,True,False
+140295,NC,Jonathan Almond,Republican,14935,46.14,False,False
+141035,NC,Deb Butler,Democratic,25033,70.418,True,False
+141035,NC,Latisha Grady,Republican,10516,29.582,False,False
+140346,NC,Jonah Garson,Democratic,69464,72.568,True,False
+140346,NC,Laura Pichardo,Republican,26259,27.432,False,False
+87334,NC,Raymond Smith Jr.,Democratic,118434,49.427,True,False
+87334,NC,Greg Murphy,Republican,118176,49.319,False,False
+87334,NC,Daniel Cavender,Libertarian,3004,1.254,False,False
+141037,NC,Jessica Bichler,Democratic,48535,52.611,True,False
+141037,NC,Michael Lee,Republican,43718,47.389,False,False
+140184,NC,Darren Armstrong,Republican,26480,100.0,True,False
+140334,NC,Norman Sanderson,Republican,47311,53.752,True,False
+140334,NC,Roy Surrett,Democratic,40707,46.248,False,False
+141010,NC,Neal Jackson,Republican,24618,68.22,True,False
+141010,NC,Matt Holway,Democratic,11468,31.78,False,False
+140705,NC,Sam Page,Republican,50369,53.71,True,False
+140705,NC,Steve Luking,Democratic,43410,46.29,False,False
+140702,NC,Amanda Cook,Democratic,20300,72.591,True,False
+140702,NC,Joseph Perrotta,Republican,7665,27.409,False,False
+140596,NC,Jen Wiles,Democratic,18637,54.033,True,False
+140596,NC,Donny C. Lambeth,Republican,15855,45.967,False,False
+140639,NC,Brad Overcash,Republican,39263,50.867,True,False
+140639,NC,Steve Rutherford,Democratic,37925,49.133,False,False
+87339,NC,Mark Harris,Republican,147683,50.361,True,False
+87339,NC,Colby Watson,Democratic,142659,48.647,False,False
+87339,NC,Bo Whitehead,Green,2909,0.992,False,False
+140185,NC,Bob Brinson,Republican,44488,54.922,True,False
+140185,NC,Charles Dudley,Democratic,36514,45.078,False,False
+140815,NC,Richard Carver,Republican,20015,55.859,True,False
+140815,NC,Michael Robinson,Democratic,15816,44.141,False,False
+141125,NC,Gloristine Brown,Democratic,18813,71.451,True,False
+141125,NC,Cathy Thorne Bynum,Republican,7517,28.549,False,False
+141051,NC,Michael Anthony Lazzara,Republican,30285,60.294,True,False
+141051,NC,Andi Morrow,Democratic,19944,39.706,False,False
+141376,NC,Lisa Grafstein,Democratic,63972,60.795,True,False
+141376,NC,Robert Van Brederode,Republican,41253,39.205,False,False
+140534,NC,Julia Howard,Republican,25505,70.755,True,False
+140534,NC,Sabrina Harris,Democratic,10542,29.245,False,False
+141356,NC,Gale Adcock,Democratic,66849,74.596,True,False
+141356,NC,Philip Hensley,Republican,21001,23.435,False,False
+141356,NC,Jonathan D. Miller,Libertarian,1765,1.97,False,False
+140482,NC,Tom McInnis,Republican,42089,54.366,True,False
+140482,NC,Paul Taylor,Democratic,35329,45.634,False,False
+87342,NC,Jamie Ager,Democratic,196251,57.132,True,False
+87342,NC,Jennifer Balkcom,Republican,141885,41.305,False,False
+87342,NC,Travis Groo,Libertarian,5369,1.563,False,False
+87346,NC,Roy Cooper,Democratic,2480640,58.751,True,False
+87346,NC,Michael Whatley,Republican,1648870,39.051,False,False
+87346,NC,Shannon Bray,Libertarian,56084,1.328,False,False
+87346,NC,Michael Dublin,Green,36710,0.869,False,False
+140615,NC,Mark Speed,Democratic,19997,51.617,True,False
+140615,NC,Cory Thornton,Republican,18744,48.383,False,False
+87340,NC,Richard Ojeda,Democratic,139456,51.148,True,False
+87340,NC,Richard Hudson,Republican,133196,48.852,False,False
+140602,NC,"Paul Lowe, Jr.",Democratic,57567,75.962,True,False
+140602,NC,Peter Antinozzi,Republican,16840,22.221,False,False
+140602,NC,Keenen Altic,Green,1377,1.817,False,False
+140112,NC,Amy Scott Galey,Republican,42774,51.487,True,False
+140112,NC,Southey Blanton,Democratic,40304,48.513,False,False
+141158,NC,Brian Biggs,Republican,18991,67.025,True,False
+141158,NC,William McCaskill,Democratic,9343,32.975,False,False
+140305,NC,Destin Hall,Republican,19720,66.64,True,False
+140305,NC,Iris Bender,Democratic,9872,33.36,False,False
+141422,NC,John Bell,Republican,16084,54.803,True,False
+141422,NC,Zyaire Webb,Democratic,13265,45.197,False,False
+140971,NC,Carolyn G. Logan,Democratic,27115,100.0,True,False
+140225,NC,Frank Iler,Republican,30075,54.512,True,False
+140225,NC,Dennis A. Breen,Democratic,25096,45.488,False,False
+140606,NC,Kanika Brown,Democratic,25367,88.083,True,False
+140606,NC,Mathew Mena,Green,3432,11.917,False,False
+140525,NC,Larry W. Potts,Republican,20018,63.322,True,False
+140525,NC,Dylan R. Tucker,Democratic,11595,36.678,False,False
+141368,NC,Allison A. Dahle,Democratic,30075,81.4,True,False
+141368,NC,Matthew Kordon,Libertarian,6872,18.6,False,False
+140565,NC,Ray Jeffers,Democratic,28308,100.0,True,False
+140306,NC,Mark Hollo,Republican,49160,62.73,True,False
+140306,NC,Greg Cranford,Democratic,29207,37.27,False,False
+140257,NC,Lindsey Prather,Democratic,24475,60.0,True,False
+140257,NC,Anthony J. Penland,Republican,16317,40.0,False,False
+140670,NC,Chris Humphrey,Republican,15486,52.057,True,False
+140670,NC,Don Hardy,Democratic,14262,47.943,False,False
+141371,NC,Evonne S. Hopkins,Democratic,25659,54.957,True,False
+141371,NC,Mike Schietzelt,Republican,21030,45.043,False,False
+140729,NC,Jim Burgin,Republican,35025,51.72,True,False
+140729,NC,Tanya White Anderson,Democratic,32695,48.28,False,False
+140143,NC,Ralph Hise,Republican,48754,55.495,True,False
+140143,NC,Frank Patton Hughes III,Democratic,39099,44.505,False,False
+141061,NC,Allen Buansi,Democratic,35455,93.104,True,False
+141061,NC,Matthew P. Clements,Libertarian,2626,6.896,False,False
+141378,NC,Maria Cervania,Democratic,27720,76.254,True,False
+141378,NC,Bruce Forster,Republican,8632,23.746,False,False
+140607,NC,Amber M. Baker,Democratic,24901,100.0,True,False
+141379,NC,Mrs. Sydney Batch,Democratic,61775,72.704,True,False
+141379,NC,Shirley Johnson,Republican,21424,25.214,False,False
+141379,NC,Patrick J. Bowersox,Libertarian,1769,2.082,False,False
+140128,NC,Blair Eddins,Republican,22490,72.56,True,False
+140128,NC,Andy Warren,Democratic,8505,27.44,False,False
+140957,NC,Joyce Waddell,Democratic,57230,83.582,True,False
+140957,NC,Bobbie Shields,Republican,11242,16.418,False,False
+140211,NC,Wellie Jackson,Republican,19187,100.0,True,False
+140297,NC,Grant Campbell,Republican,18277,56.261,True,False
+140297,NC,Johnnie Jones,Democratic,14209,43.739,False,False
+140422,NC,Ted Alexander,Republican,50426,64.393,True,False
+140422,NC,Rod Powell,Democratic,27884,35.607,False,False
+141354,NC,Cynthia Ball,Democratic,25363,79.027,True,False
+141354,NC,Daran Thomas,Republican,6731,20.973,False,False
+140359,NC,Jay Adams,Republican,17309,54.582,True,False
+140359,NC,Park Inglefield,Democratic,14403,45.418,False,False
+140292,NC,Chris Bishopp,Democratic,21045,56.017,True,False
+140292,NC,Brian Echevarria,Republican,16524,43.983,False,False
+140154,NC,Clancy Baucom,Republican,16002,55.665,True,False
+140154,NC,John J. Kirkpatrick IV,Democratic,12745,44.335,False,False
+140119,NC,Ian Baltutis,Democratic,16575,50.435,False,False
+140119,NC,Ryan Moffitt,Republican,16289,49.565,False,False
+141286,NC,Dan Kiger,Republican,21221,70.784,True,False
+141286,NC,Ken Badgett,Democratic,8759,29.216,False,False
+140600,NC,Kyle Hall,Republican,18473,59.059,True,False
+140600,NC,Lucille Puckett,Democratic,12806,40.941,False,False
+140142,NC,Charlie Wallin,Democratic,19070,50.451,False,False
+140142,NC,Ray Pickett,Republican,18729,49.549,False,False
+140843,NC,L'Bertrice Solomon,Democratic,21749,53.03,True,False
+140843,NC,Donna McDowell White,Republican,19264,46.97,False,False
+140129,NC,Eddie Settle,Republican,54239,72.845,True,False
+140129,NC,Trevor Cole Hardwick,Democratic,20219,27.155,False,False
+140318,NC,Sam Davis III,Democratic,16223,52.933,True,False
+140318,NC,Bill Ward,Republican,14425,47.067,False,False
+140404,NC,Edward C. Goodwin,Republican,22515,60.103,True,False
+140404,NC,Miriam Rollin,Democratic,14946,39.897,False,False

@@ -1,0 +1,534 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+158484,ND,North Dakota Agriculture Commissioner,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,3,53,233674,2026-11-18T16:05+00:00
+158485,ND,North Dakota Public Service Commissioner,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,3,53,230596,2026-11-18T16:05+00:00
+158490,ND,North Dakota Justice of the Supreme Court,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,3,53,193379,2026-11-18T16:05+00:00
+158925,ND,North Dakota Constitutional Measure 1,2026-11-03,99.9,,False,2,53,233967,2026-11-18T16:05+00:00
+158489,ND,North Dakota Justice of the Supreme Court Unexpired 8-Year Term,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,53,185138,2026-11-18T16:05+00:00
+158926,ND,North Dakota Constitutional Measure 2,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,2,53,235786,2026-11-18T16:05+00:00
+158487,ND,North Dakota Tax Commissioner,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,3,53,228719,2026-11-18T16:05+00:00
+87348,ND,North Dakota Secretary of State,2026-11-03,99.9,,False,3,53,232708,2026-11-18T16:05+00:00
+158486,ND,North Dakota Public Service Commissioner Unexpired 2-Year Term,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,3,53,230568,2026-11-18T16:05+00:00
+87349,ND,North Dakota Attorney General,2026-11-03,99.9,,False,3,53,233054,2026-11-18T16:05+00:00
+159549,ND,North Dakota State Senate,2026-11-03,95.9,,False,3,24,114767,2026-11-18T16:05+00:00
+158488,ND,North Dakota Superintendent of Public Instruction Unexpired 2-Year Term,2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,3,53,204194,2026-11-18T16:05+00:00
+159548,ND,North Dakota State House,2026-11-03,96.3,,False,4,27,215995,2026-11-18T16:05+00:00
+158296,ND,North Dakota State Senate 13,2026-11-03,99.9,2026-11-12T01:54:12.336Z,False,3,1,5648,2026-11-18T16:05+00:00
+158459,ND,North Dakota State House 5,2026-11-03,99.9,2026-11-12T01:54:12.336Z,False,5,1,7828,2026-11-18T16:05+00:00
+158895,ND,North Dakota Sioux County Official Newspaper,2026-11-03,99.9,,False,1,1,561,2026-11-18T16:05+00:00
+158861,ND,North Dakota Cass County Official Newspaper,2026-11-03,99.9,,False,2,1,52571,2026-11-18T16:05+00:00
+158881,ND,North Dakota Mercer County Official Newspaper,2026-11-03,99.9,,False,2,1,3149,2026-11-18T16:05+00:00
+158463,ND,North Dakota State House 13,2026-11-03,99.9,2026-11-12T01:54:12.336Z,False,5,1,10444,2026-11-18T16:05+00:00
+158483,ND,North Dakota State House 42 Unexpired 2-Year Term,2026-11-03,99.9,2026-11-04T07:09:42.097Z,False,3,1,2764,2026-11-18T16:05+00:00
+158449,ND,North Dakota State Senate 33,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,3,4,6679,2026-11-18T16:05+00:00
+158469,ND,North Dakota State House 25,2026-11-03,99.9,2026-11-12T01:54:12.336Z,False,4,2,8591,2026-11-18T16:05+00:00
+158521,ND,North Dakota Towner County Commissioner District 2,2026-11-03,99.9,,False,2,1,763,2026-11-18T16:05+00:00
+158292,ND,North Dakota State Senate 5,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,2,1,3430,2026-11-18T16:05+00:00
+158871,ND,North Dakota Grant County Official Newspaper,2026-11-03,99.9,,False,1,1,799,2026-11-18T16:05+00:00
+158699,ND,North Dakota Bowman County Recorder/Clerk of District Court,2026-11-03,99.9,,False,2,1,1157,2026-11-18T16:05+00:00
+158837,ND,North Dakota Bowman/Slope Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,2,1350,2026-11-18T16:05+00:00
+158665,ND,North Dakota Stutsman County State's Attorney,2026-11-03,99.9,,False,2,1,4566,2026-11-18T16:05+00:00
+158493,ND,North Dakota Benson County Commissioner District 1,2026-11-03,99.9,,False,2,1,370,2026-11-18T16:05+00:00
+160133,ND,North Dakota Billings County Commissioner At-Large By District District 5,2026-11-03,99.9,,False,1,1,253,2026-11-18T16:05+00:00
+158555,ND,North Dakota Sioux County Commissioner District 3,2026-11-03,99.9,,False,3,1,308,2026-11-18T16:05+00:00
+158607,ND,North Dakota Renville County Auditor,2026-11-03,99.9,,False,2,1,794,2026-11-18T16:05+00:00
+158765,ND,North Dakota Morton County Sheriff,2026-11-03,99.9,,False,2,1,7971,2026-11-18T16:05+00:00
+158593,ND,North Dakota Burke County Auditor,2026-11-03,99.9,,False,2,1,641,2026-11-18T16:05+00:00
+158559,ND,North Dakota Traill County Commissioner District 1,2026-11-03,99.9,,False,3,1,573,2026-11-18T16:05+00:00
+158803,ND,North Dakota Golden Valley County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,2,604,2026-11-18T16:05+00:00
+160143,ND,"North Dakota Supervisor, Soil Conservation District South McLean",2026-11-03,99.9,,False,1,1,338,2026-11-18T16:05+00:00
+158789,ND,North Dakota Benson County Clerk of District Court,2026-11-03,99.9,,False,2,1,1152,2026-11-18T16:05+00:00
+158841,ND,North Dakota Turtle Mountain District Supervisor,2026-11-03,99.9,,False,2,1,1543,2026-11-18T16:05+00:00
+160129,ND,North Dakota Bismarck Public School Dist. 1 Measure No. 1 - School Board Bond,2026-11-03,99.9,,False,2,1,32367,2026-11-18T16:05+00:00
+158775,ND,North Dakota Rolette County Sheriff,2026-11-03,99.9,,False,2,1,2490,2026-11-18T16:05+00:00
+158827,ND,North Dakota Williams County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,5142,2026-11-18T16:05+00:00
+160053,ND,North Dakota Foster County Measure No. 1,2026-11-03,99.9,,False,2,1,1145,2026-11-18T16:05+00:00
+158569,ND,North Dakota Oliver County Commissioner Unexpired 2-Year Term,2026-11-03,99.9,,False,3,1,865,2026-11-18T16:05+00:00
+158813,ND,North Dakota Oliver County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,763,2026-11-18T16:05+00:00
+158882,ND,North Dakota Morton County Official Newspaper,2026-11-03,99.9,,False,2,1,8663,2026-11-18T16:05+00:00
+158518,ND,North Dakota Slope County Commissioner District 3,2026-11-03,99.9,,False,3,1,266,2026-11-18T16:05+00:00
+158656,ND,North Dakota Pierce County State's Attorney,2026-11-03,99.9,,False,3,1,1380,2026-11-18T16:05+00:00
+158676,ND,North Dakota Burleigh County Recorder,2026-11-03,99.9,,False,2,1,27195,2026-11-18T16:05+00:00
+158504,ND,North Dakota Emmons County Commissioner District 2,2026-11-03,99.9,,False,3,1,1255,2026-11-18T16:05+00:00
+158886,ND,North Dakota Pembina County Official Newspaper,2026-11-03,99.9,,False,1,1,2120,2026-11-18T16:05+00:00
+158714,ND,North Dakota Burke County Treasurer,2026-11-03,99.9,,False,2,1,635,2026-11-18T16:05+00:00
+158680,ND,North Dakota Foster County Recorder,2026-11-03,99.9,,False,2,1,1113,2026-11-18T16:05+00:00
+158700,ND,North Dakota Burke County Recorder/Clerk of District Court,2026-11-03,99.9,,False,2,1,615,2026-11-18T16:05+00:00
+160057,ND,North Dakota McIntosh County Increase Mill Levy for County Historical Society,2026-11-03,99.9,,False,2,1,1023,2026-11-18T16:05+00:00
+158666,ND,North Dakota Towner County State's Attorney,2026-11-03,99.9,,False,2,1,759,2026-11-18T16:05+00:00
+158494,ND,North Dakota Benson County Commissioner District 3,2026-11-03,99.9,,False,2,1,192,2026-11-18T16:05+00:00
+158731,ND,North Dakota Steele County Treasurer,2026-11-03,99.9,,False,2,1,613,2026-11-18T16:05+00:00
+158460,ND,North Dakota State House 7,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,5,1,11893,2026-11-18T16:05+00:00
+158896,ND,North Dakota Slope County Official Newspaper,2026-11-03,99.9,,False,2,1,274,2026-11-18T16:05+00:00
+158916,ND,North Dakota Judge of the District Court No. 2 Northwest,2026-11-03,99.9,,False,2,3,8412,2026-11-18T16:05+00:00
+158862,ND,North Dakota Cavalier County Official Newspaper,2026-11-03,99.9,,False,1,1,1293,2026-11-18T16:05+00:00
+158838,ND,North Dakota North McHenry Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,699,2026-11-18T16:05+00:00
+158752,ND,North Dakota Golden Valley County Sheriff,2026-11-03,99.9,,False,2,1,665,2026-11-18T16:05+00:00
+158580,ND,North Dakota Ward County Commissioner,2026-11-03,99.9,,False,3,1,22004,2026-11-18T16:05+00:00
+158632,ND,North Dakota Burke County State's Attorney,2026-11-03,99.9,,False,2,1,616,2026-11-18T16:05+00:00
+158598,ND,North Dakota Kidder County Auditor,2026-11-03,99.9,,False,2,1,962,2026-11-18T16:05+00:00
+158618,ND,North Dakota Dunn County Auditor/Treasurer,2026-11-03,99.9,,False,2,1,1365,2026-11-18T16:05+00:00
+158584,ND,North Dakota Grand Forks County Commissioner,2026-11-03,99.9,,False,6,1,38278,2026-11-18T16:05+00:00
+158828,ND,North Dakota North Central Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,1126,2026-11-18T16:05+00:00
+158570,ND,North Dakota Oliver County Commissioner,2026-11-03,99.9,,False,3,1,866,2026-11-18T16:05+00:00
+158814,ND,North Dakota Pembina County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,2043,2026-11-18T16:05+00:00
+158450,ND,North Dakota State Senate 35,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,3,1,5747,2026-11-18T16:05+00:00
+158556,ND,North Dakota Steele County Commissioner District 1,2026-11-03,99.9,,False,2,1,131,2026-11-18T16:05+00:00
+158608,ND,North Dakota Sargent County Auditor,2026-11-03,99.9,,False,2,1,1344,2026-11-18T16:05+00:00
+158293,ND,North Dakota State Senate 7,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,3,1,6354,2026-11-18T16:05+00:00
+158766,ND,North Dakota Mountrail County Sheriff,2026-11-03,99.9,,False,3,1,2439,2026-11-18T16:05+00:00
+158594,ND,North Dakota Burleigh County Auditor,2026-11-03,99.9,,False,3,1,27189,2026-11-18T16:05+00:00
+158887,ND,North Dakota Pierce County Official Newspaper,2026-11-03,99.9,,False,1,1,1220,2026-11-18T16:05+00:00
+158907,ND,North Dakota Judge of the District Court No. 10 Unexpired 4-Year Term East Central,2026-11-03,99.9,,False,2,3,49111,2026-11-18T16:05+00:00
+158536,ND,North Dakota Golden Valley County Commissioner District 3,2026-11-03,99.9,,False,3,1,668,2026-11-18T16:05+00:00
+158701,ND,North Dakota Dunn County Recorder/Clerk of District Court,2026-11-03,99.9,,False,2,1,1374,2026-11-18T16:05+00:00
+158721,ND,North Dakota Logan County Treasurer,2026-11-03,99.9,,False,2,1,696,2026-11-18T16:05+00:00
+158911,ND,North Dakota Judge of the District Court No. 9 East Central,2026-11-03,99.9,,False,2,3,49287,2026-11-18T16:05+00:00
+158732,ND,North Dakota Traill County Treasurer,2026-11-03,99.9,,False,2,1,2447,2026-11-18T16:05+00:00
+158897,ND,North Dakota Stark County Official Newspaper,2026-11-03,99.9,,False,1,1,6792,2026-11-18T16:05+00:00
+158917,ND,North Dakota Judge of the District Court No. 3 Northwest,2026-11-03,99.9,,False,2,3,8507,2026-11-18T16:05+00:00
+160144,ND,"North Dakota Supervisor, Soil Conservation District Towner County",2026-11-03,99.9,,False,1,1,93,2026-11-18T16:05+00:00
+158883,ND,North Dakota Mountrail County Official Newspaper,2026-11-03,99.9,,False,1,1,2302,2026-11-18T16:05+00:00
+158519,ND,North Dakota Stark County Commissioner District 2,2026-11-03,99.9,,False,2,1,6551,2026-11-18T16:05+00:00
+160130,ND,North Dakota School Building Fund Levy Center/Stanton School District,2026-11-03,99.9,,False,2,2,919,2026-11-18T16:05+00:00
+158677,ND,North Dakota Cavalier County Recorder,2026-11-03,99.9,,False,2,1,1259,2026-11-18T16:05+00:00
+158505,ND,North Dakota Emmons County Commissioner District 4,2026-11-03,99.9,,False,3,1,1231,2026-11-18T16:05+00:00
+160054,ND,North Dakota Hettinger County Authorized Mill Levy for Extension Services,2026-11-03,99.9,,False,2,1,987,2026-11-18T16:05+00:00
+158599,ND,North Dakota McIntosh County Auditor,2026-11-03,99.9,,False,2,1,931,2026-11-18T16:05+00:00
+158619,ND,North Dakota Emmons County Auditor/Treasurer,2026-11-03,99.9,,False,2,1,1174,2026-11-18T16:05+00:00
+158863,ND,North Dakota Dickey County Official Newspaper,2026-11-03,99.9,,False,1,1,1613,2026-11-18T16:05+00:00
+158829,ND,North Dakota Grant County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,949,2026-11-18T16:05+00:00
+158849,ND,North Dakota Stutsman County Garrison Diversion Conservancy Director,2026-11-03,99.9,,False,2,1,4466,2026-11-18T16:05+00:00
+158623,ND,North Dakota McHenry County Auditor/Treasurer,2026-11-03,99.9,,False,2,1,1669,2026-11-18T16:05+00:00
+158451,ND,North Dakota State Senate 37,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,2,1,3123,2026-11-18T16:05+00:00
+158609,ND,North Dakota Sheridan County Auditor,2026-11-03,99.9,,False,2,1,544,2026-11-18T16:05+00:00
+158294,ND,North Dakota State Senate 9,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,2,6,3341,2026-11-18T16:05+00:00
+158681,ND,North Dakota Kidder County Recorder,2026-11-03,99.9,,False,2,1,975,2026-11-18T16:05+00:00
+158595,ND,North Dakota Cavalier County Auditor,2026-11-03,99.9,,False,2,1,1280,2026-11-18T16:05+00:00
+158839,ND,North Dakota Slope/Hettinger Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,2,1038,2026-11-18T16:05+00:00
+158667,ND,North Dakota Traill County State's Attorney,2026-11-03,99.9,,False,2,1,2343,2026-11-18T16:05+00:00
+158581,ND,North Dakota Burleigh County Commissioner,2026-11-03,99.9,,False,7,1,81249,2026-11-18T16:05+00:00
+158633,ND,North Dakota Burleigh County State's Attorney,2026-11-03,99.9,,False,2,1,27243,2026-11-18T16:05+00:00
+158461,ND,North Dakota State House 9,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,3,6,4966,2026-11-18T16:05+00:00
+158702,ND,North Dakota Eddy County Recorder/Clerk of District Court,2026-11-03,99.9,,False,2,1,902,2026-11-18T16:05+00:00
+158722,ND,North Dakota McIntosh County Treasurer,2026-11-03,99.9,,False,3,1,1006,2026-11-18T16:05+00:00
+158767,ND,North Dakota Nelson County Sheriff,2026-11-03,99.9,,False,2,1,1074,2026-11-18T16:05+00:00
+158496,ND,North Dakota Billings County Commissioner District 2,2026-11-03,99.9,,False,3,1,542,2026-11-18T16:05+00:00
+158733,ND,North Dakota Williams County Treasurer/Recorder,2026-11-03,99.9,,False,2,1,5127,2026-11-18T16:05+00:00
+158753,ND,North Dakota Grand Forks County Sheriff,2026-11-03,99.9,,False,2,1,16037,2026-11-18T16:05+00:00
+158726,ND,North Dakota Oliver County Treasurer,2026-11-03,99.9,,False,2,1,798,2026-11-18T16:05+00:00
+158547,ND,North Dakota Pembina County Commissioner District 3,2026-11-03,99.9,,False,2,1,486,2026-11-18T16:05+00:00
+159912,ND,North Dakota Cedar River Ambulance District Ambulance District No. 1,2026-11-03,99.9,,False,2,2,181,2026-11-18T16:05+00:00
+160131,ND,North Dakota Fargo School District #1 Excess Mill Levy,2026-11-03,99.9,,False,2,1,29064,2026-11-18T16:05+00:00
+158585,ND,North Dakota Mercer County Commissioner,2026-11-03,99.9,,False,7,1,8696,2026-11-18T16:05+00:00
+158506,ND,North Dakota Hettinger County Commissioner District 2,2026-11-03,99.9,,False,2,1,922,2026-11-18T16:05+00:00
+160055,ND,North Dakota LaMoure County Road and Bridge Levy Increase,2026-11-03,99.9,,False,2,1,1454,2026-11-18T16:05+00:00
+158571,ND,North Dakota Ramsey County Commissioner Unexpired 2-Year Term,2026-11-03,99.9,,False,2,1,2931,2026-11-18T16:05+00:00
+158908,ND,North Dakota Judge of the District Court No. 11 Unexpired 4-Year Term East Central,2026-11-03,99.9,,False,2,3,49126,2026-11-18T16:05+00:00
+158537,ND,North Dakota Grant County Commissioner District 3,2026-11-03,99.9,,False,2,1,916,2026-11-18T16:05+00:00
+158557,ND,North Dakota Steele County Commissioner District 3,2026-11-03,99.9,,False,2,1,132,2026-11-18T16:05+00:00
+158850,ND,North Dakota Traill County Garrison Diversion Conservancy Director,2026-11-03,99.9,,False,2,1,2437,2026-11-18T16:05+00:00
+158678,ND,North Dakota Dickey County Recorder,2026-11-03,99.9,,False,2,1,1580,2026-11-18T16:05+00:00
+158816,ND,North Dakota Ramsey County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,2985,2026-11-18T16:05+00:00
+158644,ND,North Dakota Hettinger County State's Attorney,2026-11-03,99.9,,False,2,1,904,2026-11-18T16:05+00:00
+158472,ND,North Dakota State House 31,2026-11-03,99.9,2026-11-04T07:09:42.097Z,False,5,4,8868,2026-11-18T16:05+00:00
+158854,ND,North Dakota Barnes County Official Newspaper,2026-11-03,99.9,,False,2,1,3539,2026-11-18T16:05+00:00
+158874,ND,North Dakota Kidder County Official Newspaper,2026-11-03,99.9,,False,1,1,1007,2026-11-18T16:05+00:00
+158648,ND,North Dakota McKenzie County State's Attorney,2026-11-03,99.9,,False,2,1,2802,2026-11-18T16:05+00:00
+158668,ND,North Dakota Walsh County State's Attorney,2026-11-03,99.9,,False,2,1,2700,2026-11-18T16:05+00:00
+158634,ND,North Dakota Cass County State's Attorney,2026-11-03,99.9,,False,2,1,46586,2026-11-18T16:05+00:00
+158462,ND,North Dakota State House 11,2026-11-03,99.9,2026-11-12T01:54:12.336Z,False,4,1,7028,2026-11-18T16:05+00:00
+158898,ND,North Dakota Steele County Official Newspaper,2026-11-03,99.9,,False,1,1,537,2026-11-18T16:05+00:00
+158620,ND,North Dakota Grant County Auditor/Treasurer,2026-11-03,99.9,,False,3,1,1006,2026-11-18T16:05+00:00
+158864,ND,North Dakota Divide County Official Newspaper,2026-11-03,99.9,,False,1,1,900,2026-11-18T16:05+00:00
+158884,ND,North Dakota Nelson County Official Newspaper,2026-11-03,99.9,,False,1,1,909,2026-11-18T16:05+00:00
+158830,ND,North Dakota Stark Billings Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,2,7084,2026-11-18T16:05+00:00
+158582,ND,North Dakota Cavalier County Commissioner,2026-11-03,99.9,,False,5,1,3460,2026-11-18T16:05+00:00
+158727,ND,North Dakota Ramsey County Treasurer,2026-11-03,99.9,,False,2,1,3094,2026-11-18T16:05+00:00
+158740,ND,North Dakota Bottineau County Sheriff,2026-11-03,99.9,,False,2,1,2176,2026-11-18T16:05+00:00
+158792,ND,North Dakota McKenzie County Soil Conservation District Supervisor Unexpired 4-Year Term,2026-11-03,99.9,,False,2,1,2737,2026-11-18T16:05+00:00
+158758,ND,North Dakota LaMoure County Sheriff,2026-11-03,99.9,,False,2,1,1355,2026-11-18T16:05+00:00
+158778,ND,North Dakota Sioux County Sheriff,2026-11-03,99.9,,False,2,1,602,2026-11-18T16:05+00:00
+158744,ND,North Dakota Cass County Sheriff,2026-11-03,99.9,,False,2,1,49998,2026-11-18T16:05+00:00
+158572,ND,North Dakota Bowman County Commissioner,2026-11-03,99.9,,False,4,1,2268,2026-11-18T16:05+00:00
+158538,ND,North Dakota Griggs County Commissioner District 1,2026-11-03,99.9,,False,3,1,190,2026-11-18T16:05+00:00
+158558,ND,North Dakota Steele County Commissioner District 5,2026-11-03,99.9,,False,2,1,116,2026-11-18T16:05+00:00
+158610,ND,North Dakota Sioux County Auditor,2026-11-03,99.9,,False,3,1,647,2026-11-18T16:05+00:00
+158723,ND,North Dakota Mercer County Treasurer,2026-11-03,99.9,,False,2,1,2719,2026-11-18T16:05+00:00
+158768,ND,North Dakota Oliver County Sheriff,2026-11-03,99.9,,False,3,1,865,2026-11-18T16:05+00:00
+158596,ND,North Dakota Dickey County Auditor,2026-11-03,99.9,,False,2,1,1597,2026-11-18T16:05+00:00
+158734,ND,North Dakota Sargent County Treasurer/Recorder/Clerk of District Court,2026-11-03,99.9,,False,2,1,1302,2026-11-18T16:05+00:00
+158754,ND,North Dakota Grant County Sheriff,2026-11-03,99.9,,False,3,1,995,2026-11-18T16:05+00:00
+158855,ND,North Dakota Benson County Official Newspaper,2026-11-03,99.9,,False,1,1,1178,2026-11-18T16:05+00:00
+158875,ND,North Dakota LaMoure County Official Newspaper,2026-11-03,99.9,,False,1,1,1324,2026-11-18T16:05+00:00
+158703,ND,North Dakota Emmons County Recorder/Clerk of District Court,2026-11-03,99.9,,False,2,1,1117,2026-11-18T16:05+00:00
+158669,ND,North Dakota Ward County State's Attorney,2026-11-03,99.9,,False,2,1,13536,2026-11-18T16:05+00:00
+158689,ND,North Dakota Mountrail County Recorder,2026-11-03,99.9,,False,2,1,2290,2026-11-18T16:05+00:00
+158879,ND,North Dakota McKenzie County Official Newspaper,2026-11-03,99.9,,False,1,1,2678,2026-11-18T16:05+00:00
+158899,ND,North Dakota Stutsman County Official Newspaper,2026-11-03,99.9,,False,1,1,4852,2026-11-18T16:05+00:00
+158865,ND,North Dakota Dunn County Official Newspaper,2026-11-03,99.9,,False,2,1,1514,2026-11-18T16:05+00:00
+158885,ND,North Dakota Oliver County Official Newspaper,2026-11-03,99.9,,False,1,1,761,2026-11-18T16:05+00:00
+159987,ND,North Dakota Dickey County One Mill Levy Increase For Senior Ciizen Services,2026-11-03,99.9,,False,2,1,1765,2026-11-18T16:05+00:00
+158851,ND,North Dakota Ward County Garrison Diversion Conservancy Director,2026-11-03,99.9,,False,2,1,13619,2026-11-18T16:05+00:00
+158679,ND,North Dakota Divide County Recorder,2026-11-03,99.9,,False,2,1,919,2026-11-18T16:05+00:00
+158507,ND,North Dakota McLean County Commissioner District 1,2026-11-03,99.9,,False,2,1,3159,2026-11-18T16:05+00:00
+158645,ND,North Dakota Logan County State's Attorney,2026-11-03,99.9,,False,2,1,729,2026-11-18T16:05+00:00
+158473,ND,North Dakota State House 33,2026-11-03,99.9,2026-11-04T07:09:42.097Z,False,5,4,12274,2026-11-18T16:05+00:00
+158909,ND,North Dakota Judge of the District Court No. 5 East Central,2026-11-03,99.9,,False,2,3,49401,2026-11-18T16:05+00:00
+158759,ND,North Dakota Logan County Sheriff,2026-11-03,99.9,,False,3,1,784,2026-11-18T16:05+00:00
+158779,ND,North Dakota Slope County Sheriff,2026-11-03,99.9,,False,2,1,269,2026-11-18T16:05+00:00
+158831,ND,North Dakota Sheridan County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,539,2026-11-18T16:05+00:00
+158573,ND,North Dakota Kidder County Commissioner,2026-11-03,99.9,,False,5,1,1921,2026-11-18T16:05+00:00
+158817,ND,North Dakota Renville County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,820,2026-11-18T16:05+00:00
+158783,ND,North Dakota Towner County Sheriff,2026-11-03,99.9,,False,3,1,841,2026-11-18T16:05+00:00
+158611,ND,North Dakota Steele County Auditor,2026-11-03,99.9,,False,2,1,648,2026-11-18T16:05+00:00
+158769,ND,North Dakota Pembina County Sheriff,2026-11-03,99.9,,False,3,1,2226,2026-11-18T16:05+00:00
+158597,ND,North Dakota Golden Valley County Auditor,2026-11-03,99.9,,False,2,1,627,2026-11-18T16:05+00:00
+158649,ND,North Dakota McLean County State's Attorney,2026-11-03,99.9,,False,2,1,3119,2026-11-18T16:05+00:00
+158755,ND,North Dakota Griggs County Sheriff,2026-11-03,99.9,,False,2,1,861,2026-11-18T16:05+00:00
+158583,ND,North Dakota Dunn County Commissioner,2026-11-03,99.9,,False,6,1,4038,2026-11-18T16:05+00:00
+158635,ND,North Dakota Cavalier County State's Attorney,2026-11-03,99.9,,False,2,1,1156,2026-11-18T16:05+00:00
+158741,ND,North Dakota Bowman County Sheriff,2026-11-03,99.9,,False,3,1,1260,2026-11-18T16:05+00:00
+158793,ND,North Dakota McKenzie County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,2757,2026-11-18T16:05+00:00
+158621,ND,North Dakota Griggs County Auditor/Treasurer,2026-11-03,99.9,,False,2,1,831,2026-11-18T16:05+00:00
+158690,ND,North Dakota Oliver County Recorder,2026-11-03,99.9,,False,2,1,783,2026-11-18T16:05+00:00
+158735,ND,North Dakota Sioux County Treasurer/Recorder/Clerk of District Court,2026-11-03,99.9,,False,2,1,611,2026-11-18T16:05+00:00
+158464,ND,North Dakota State House 15,2026-11-03,99.9,2026-11-12T01:54:12.336Z,False,4,3,8469,2026-11-18T16:05+00:00
+158900,ND,North Dakota Towner County Official Newspaper,2026-11-03,99.9,,False,1,1,725,2026-11-18T16:05+00:00
+158920,ND,North Dakota Judge of the District Court No. 2 Unexpired 4-Year Term South Central,2026-11-03,99.9,,False,2,9,43595,2026-11-18T16:05+00:00
+158694,ND,North Dakota Renville County Recorder,2026-11-03,99.9,,False,3,1,855,2026-11-18T16:05+00:00
+158522,ND,North Dakota Towner County Commissioner District 4,2026-11-03,99.9,,False,2,1,773,2026-11-18T16:05+00:00
+158904,ND,North Dakota Wells County Official Newspaper,2026-11-03,99.9,,False,1,1,1398,2026-11-18T16:05+00:00
+158508,ND,North Dakota McLean County Commissioner District 3,2026-11-03,99.9,,False,2,1,3198,2026-11-18T16:05+00:00
+158745,ND,North Dakota Cavalier County Sheriff,2026-11-03,99.9,,False,3,1,1374,2026-11-18T16:05+00:00
+158474,ND,North Dakota State House 35,2026-11-03,99.9,2026-11-12T01:54:12.336Z,False,5,1,10671,2026-11-18T16:05+00:00
+158910,ND,North Dakota Judge of the District Court No. 7 East Central,2026-11-03,99.9,,False,2,3,49826,2026-11-18T16:05+00:00
+158539,ND,North Dakota Griggs County Commissioner District 3,2026-11-03,99.9,,False,2,1,140,2026-11-18T16:05+00:00
+158876,ND,North Dakota Logan County Official Newspaper,2026-11-03,99.9,,False,1,1,715,2026-11-18T16:05+00:00
+158704,ND,North Dakota Golden Valley County Recorder/Clerk of District Court,2026-11-03,99.9,,False,2,1,632,2026-11-18T16:05+00:00
+158724,ND,North Dakota Morton County Treasurer,2026-11-03,99.9,,False,2,1,7681,2026-11-18T16:05+00:00
+158670,ND,North Dakota Wells County State's Attorney,2026-11-03,99.9,,False,2,1,1312,2026-11-18T16:05+00:00
+158646,ND,North Dakota McHenry County State's Attorney,2026-11-03,99.9,,False,2,1,1606,2026-11-18T16:05+00:00
+158560,ND,North Dakota Traill County Commissioner District 3,2026-11-03,99.9,,False,3,1,622,2026-11-18T16:05+00:00
+158804,ND,North Dakota Grand Forks County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,14605,2026-11-18T16:05+00:00
+158297,ND,North Dakota State Senate 15,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,2,3,4531,2026-11-18T16:05+00:00
+158822,ND,North Dakota Steele County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,593,2026-11-18T16:05+00:00
+158842,ND,North Dakota Benson County Garrison Diversion Conservancy Director,2026-11-03,99.9,,False,2,1,1103,2026-11-18T16:05+00:00
+158808,ND,North Dakota Mercer County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,2678,2026-11-18T16:05+00:00
+158636,ND,North Dakota Dickey County State's Attorney,2026-11-03,99.9,,False,3,1,1744,2026-11-18T16:05+00:00
+158794,ND,North Dakota Barnes County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,3112,2026-11-18T16:05+00:00
+158622,ND,North Dakota Hettinger County Auditor/Treasurer,2026-11-03,99.9,,False,2,1,946,2026-11-18T16:05+00:00
+158866,ND,North Dakota Eddy County Official Newspaper,2026-11-03,99.9,,False,1,1,897,2026-11-18T16:05+00:00
+158780,ND,North Dakota Stark County Sheriff,2026-11-03,99.9,,False,2,1,6953,2026-11-18T16:05+00:00
+158832,ND,North Dakota Traill County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,2488,2026-11-18T16:05+00:00
+158852,ND,North Dakota Wells County Garrison Diversion Conservancy Director,2026-11-03,99.9,,False,2,1,1397,2026-11-18T16:05+00:00
+158574,ND,North Dakota McIntosh County Commissioner,2026-11-03,99.9,,False,4,1,1853,2026-11-18T16:05+00:00
+158818,ND,North Dakota Richland County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,4589,2026-11-18T16:05+00:00
+158695,ND,North Dakota Rolette County Recorder,2026-11-03,99.9,,False,2,1,2421,2026-11-18T16:05+00:00
+158715,ND,North Dakota Cavalier County Treasurer,2026-11-03,99.9,,False,2,1,1259,2026-11-18T16:05+00:00
+160134,ND,North Dakota County State's Attorney Kidder,2026-11-03,99.9,,False,1,1,73,2026-11-18T16:05+00:00
+158509,ND,North Dakota Mountrail County Commissioner District 2,2026-11-03,99.9,,False,3,1,2387,2026-11-18T16:05+00:00
+160058,ND,North Dakota Oliver County Home Rule Charter,2026-11-03,99.9,,False,2,1,807,2026-11-18T16:05+00:00
+158719,ND,North Dakota Kidder County Treasurer,2026-11-03,99.9,,False,2,1,978,2026-11-18T16:05+00:00
+158540,ND,North Dakota Griggs County Commissioner District 5,2026-11-03,99.9,,False,2,1,182,2026-11-18T16:05+00:00
+158705,ND,North Dakota Grant County Recorder/Clerk of District Court,2026-11-03,99.9,,False,2,1,946,2026-11-18T16:05+00:00
+158725,ND,North Dakota Mountrail County Treasurer,2026-11-03,99.9,,False,2,1,2285,2026-11-18T16:05+00:00
+158770,ND,North Dakota Pierce County Sheriff,2026-11-03,99.9,,False,2,1,1272,2026-11-18T16:05+00:00
+158691,ND,North Dakota Pierce County Recorder,2026-11-03,99.9,,False,2,1,1257,2026-11-18T16:05+00:00
+158736,ND,North Dakota Adams County Sheriff,2026-11-03,99.9,,False,2,1,730,2026-11-18T16:05+00:00
+158756,ND,North Dakota Hettinger County Sheriff,2026-11-03,99.9,,False,3,1,1024,2026-11-18T16:05+00:00
+158901,ND,North Dakota Traill County Official Newspaper,2026-11-03,99.9,,False,1,1,2654,2026-11-18T16:05+00:00
+158921,ND,North Dakota Judge of the District Court No. 6 South Central,2026-11-03,99.9,,False,2,9,43501,2026-11-18T16:05+00:00
+158742,ND,North Dakota Burke County Sheriff,2026-11-03,99.9,,False,2,1,643,2026-11-18T16:05+00:00
+158823,ND,North Dakota Stutsman County Soil Conservation County Supervisor,2026-11-03,99.9,,False,2,1,4633,2026-11-18T16:05+00:00
+158843,ND,North Dakota Cass County Garrison Diversion Conservancy Director,2026-11-03,99.9,,False,2,1,46341,2026-11-18T16:05+00:00
+158671,ND,North Dakota Williams County State's Attorney,2026-11-03,99.9,,False,2,1,4909,2026-11-18T16:05+00:00
+158637,ND,North Dakota Divide County State's Attorney,2026-11-03,99.9,,False,2,1,860,2026-11-18T16:05+00:00
+158657,ND,North Dakota Ramsey County State's Attorney,2026-11-03,99.9,,False,2,1,2948,2026-11-18T16:05+00:00
+158847,ND,North Dakota Renville County Garrison Diversion Conservancy Director,2026-11-03,99.9,,False,2,1,796,2026-11-18T16:05+00:00
+158867,ND,North Dakota Emmons County Official Newspaper,2026-11-03,99.9,,False,1,1,772,2026-11-18T16:05+00:00
+158833,ND,North Dakota Adams County Soil Conservation District Supervisor Unexpired 2-Year Term,2026-11-03,99.9,,False,2,1,771,2026-11-18T16:05+00:00
+158853,ND,North Dakota Adams County Official Newspaper,2026-11-03,99.9,,False,1,1,784,2026-11-18T16:05+00:00
+158905,ND,North Dakota Williams County Official Newspaper,2026-11-03,99.9,,False,1,1,5140,2026-11-18T16:05+00:00
+158819,ND,North Dakota Rolette County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,2362,2026-11-18T16:05+00:00
+158647,ND,North Dakota McIntosh County State's Attorney,2026-11-03,99.9,,False,3,1,988,2026-11-18T16:05+00:00
+158475,ND,North Dakota State House 37,2026-11-03,99.9,2026-11-04T07:09:42.097Z,False,5,1,6381,2026-11-18T16:05+00:00
+158805,ND,North Dakota Griggs County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,834,2026-11-18T16:05+00:00
+158298,ND,North Dakota State Senate 17,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,3,1,5822,2026-11-18T16:05+00:00
+158877,ND,North Dakota McHenry County Official Newspaper,2026-11-03,99.9,,False,2,1,1840,2026-11-18T16:05+00:00
+158510,ND,North Dakota Mountrail County Commissioner District 3,2026-11-03,99.9,,False,3,1,2424,2026-11-18T16:05+00:00
+160059,ND,North Dakota Sioux County Measure No. 1 relating to Additional Mill Levy for NDSU Extension Services,2026-11-03,99.9,,False,2,1,636,2026-11-18T16:05+00:00
+158575,ND,North Dakota McKenzie County Commissioner,2026-11-03,99.9,,False,4,1,5080,2026-11-18T16:05+00:00
+158912,ND,North Dakota Judge of the District Court No. 3 Northeast,2026-11-03,99.9,,False,2,11,18106,2026-11-18T16:05+00:00
+158541,ND,North Dakota LaMoure County Commissioner District 2,2026-11-03,99.9,,False,2,1,248,2026-11-18T16:05+00:00
+158561,ND,North Dakota Traill County Commissioner District 5,2026-11-03,99.9,,False,3,1,603,2026-11-18T16:05+00:00
+160125,ND,North Dakota City of Harwood’s Sales and Use Tax Ordinance Amendment,2026-11-03,99.9,,False,2,1,397,2026-11-18T16:05+00:00
+158771,ND,North Dakota Ramsey County Sheriff,2026-11-03,99.9,,False,2,1,3043,2026-11-18T16:05+00:00
+158737,ND,North Dakota Barnes County Sheriff,2026-11-03,99.9,,False,2,1,3285,2026-11-18T16:05+00:00
+158757,ND,North Dakota Kidder County Sheriff,2026-11-03,99.9,,False,3,1,1055,2026-11-18T16:05+00:00
+158809,ND,North Dakota Morton County Soil Conservation District Supervisor Unexpired 2-Year Term,2026-11-03,99.9,,False,2,1,7456,2026-11-18T16:05+00:00
+158922,ND,North Dakota Judge of the District Court No. 7 South Central,2026-11-03,99.9,,False,2,9,43354,2026-11-18T16:05+00:00
+158743,ND,North Dakota Burleigh County Sheriff,2026-11-03,99.9,,False,2,1,27591,2026-11-18T16:05+00:00
+158795,ND,North Dakota Burke County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,647,2026-11-18T16:05+00:00
+158716,ND,North Dakota Dickey County Treasurer,2026-11-03,99.9,,False,3,1,1694,2026-11-18T16:05+00:00
+160135,ND,North Dakota County State's Attorney LaMoure,2026-11-03,99.9,,False,1,1,83,2026-11-18T16:05+00:00
+158781,ND,North Dakota Steele County Sheriff,2026-11-03,99.9,,False,2,1,655,2026-11-18T16:05+00:00
+158658,ND,North Dakota Ransom County State's Attorney,2026-11-03,99.9,,False,2,1,1549,2026-11-18T16:05+00:00
+158902,ND,North Dakota Walsh County Official Newspaper,2026-11-03,99.9,,False,2,1,3249,2026-11-18T16:05+00:00
+158624,ND,North Dakota McKenzie County Auditor/Treasurer,2026-11-03,99.9,,False,2,1,2750,2026-11-18T16:05+00:00
+158452,ND,North Dakota State Senate 39,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,2,8,5104,2026-11-18T16:05+00:00
+158888,ND,North Dakota Ramsey County Official Newspaper,2026-11-03,99.9,,False,1,1,2443,2026-11-18T16:05+00:00
+158662,ND,North Dakota Sargent County State's Attorney,2026-11-03,99.9,,False,2,1,1245,2026-11-18T16:05+00:00
+158682,ND,North Dakota LaMoure County Recorder,2026-11-03,99.9,,False,2,1,1364,2026-11-18T16:05+00:00
+158456,ND,North Dakota State Senate 47,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,3,1,6696,2026-11-18T16:05+00:00
+158476,ND,North Dakota State House 39,2026-11-03,99.9,2026-11-12T01:54:12.336Z,False,4,8,9406,2026-11-18T16:05+00:00
+158299,ND,North Dakota State Senate 19,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,3,3,5533,2026-11-18T16:05+00:00
+158878,ND,North Dakota McIntosh County Official Newspaper,2026-11-03,99.9,,False,1,1,942,2026-11-18T16:05+00:00
+158706,ND,North Dakota Griggs County Recorder/Clerk of District Court,2026-11-03,99.9,,False,2,1,831,2026-11-18T16:05+00:00
+158844,ND,North Dakota McLean County Garrison Diversion Conservancy Director,2026-11-03,99.9,,False,2,1,3188,2026-11-18T16:05+00:00
+158672,ND,North Dakota Adams County Recorder,2026-11-03,99.9,,False,2,1,782,2026-11-18T16:05+00:00
+158692,ND,North Dakota Ramsey County Recorder,2026-11-03,99.9,,False,2,1,3036,2026-11-18T16:05+00:00
+158638,ND,North Dakota Dunn County State's Attorney,2026-11-03,99.9,,False,2,1,1298,2026-11-18T16:05+00:00
+158806,ND,North Dakota Kidder County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,970,2026-11-18T16:05+00:00
+158528,ND,North Dakota Barnes County Commissioner District 4,2026-11-03,99.9,,False,3,1,659,2026-11-18T16:05+00:00
+158548,ND,North Dakota Pembina County Commissioner District 5,2026-11-03,99.9,,False,2,1,378,2026-11-18T16:05+00:00
+158600,ND,North Dakota McLean County Auditor,2026-11-03,99.9,,False,2,1,3264,2026-11-18T16:05+00:00
+158566,ND,North Dakota Adams County Commissioner,2026-11-03,99.9,,False,2,1,770,2026-11-18T16:05+00:00
+158586,ND,North Dakota Richland County Commissioner,2026-11-03,99.9,,False,4,1,10220,2026-11-18T16:05+00:00
+158552,ND,North Dakota Renville County Commissioner District 1,2026-11-03,99.9,,False,2,1,320,2026-11-18T16:05+00:00
+158796,ND,North Dakota Cass County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,46685,2026-11-18T16:05+00:00
+160136,ND,"North Dakota Director, Garrison Diversion Conservancy McHenry",2026-11-03,99.9,,False,1,1,221,2026-11-18T16:05+00:00
+158782,ND,North Dakota Stutsman County Sheriff,2026-11-03,99.9,,False,2,1,5120,2026-11-18T16:05+00:00
+158834,ND,North Dakota Adams County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,782,2026-11-18T16:05+00:00
+160060,ND,North Dakota Traill County Veteran's Service Office,2026-11-03,99.9,,False,2,1,2855,2026-11-18T16:05+00:00
+158576,ND,North Dakota Morton County Commissioner,2026-11-03,99.9,,False,3,1,13142,2026-11-18T16:05+00:00
+158820,ND,North Dakota Wild Rice Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,1246,2026-11-18T16:05+00:00
+158542,ND,North Dakota LaMoure County Commissioner District 4,2026-11-03,99.9,,False,2,1,247,2026-11-18T16:05+00:00
+158562,ND,North Dakota Williams County Commissioner District 1,2026-11-03,99.9,,False,2,1,881,2026-11-18T16:05+00:00
+158663,ND,North Dakota Slope County State's Attorney,2026-11-03,99.9,,False,2,1,233,2026-11-18T16:05+00:00
+158683,ND,North Dakota Logan County Recorder,2026-11-03,99.9,,False,2,1,718,2026-11-18T16:05+00:00
+158511,ND,North Dakota Mountrail County Commissioner District 4,2026-11-03,99.9,,False,2,1,2229,2026-11-18T16:05+00:00
+158477,ND,North Dakota State House 41,2026-11-03,99.9,,False,5,1,11383,2026-11-18T16:05+00:00
+158497,ND,North Dakota Cass County Commissioner District 2,2026-11-03,99.9,,False,2,1,46652,2026-11-18T16:05+00:00
+158687,ND,North Dakota Mercer County Recorder,2026-11-03,99.9,,False,2,1,2681,2026-11-18T16:05+00:00
+158707,ND,North Dakota Hettinger County Recorder/Clerk of District Court,2026-11-03,99.9,,False,2,1,924,2026-11-18T16:05+00:00
+158673,ND,North Dakota Barnes County Recorder,2026-11-03,99.9,,False,2,1,3205,2026-11-18T16:05+00:00
+158693,ND,North Dakota Ransom County Recorder,2026-11-03,99.9,,False,2,1,1520,2026-11-18T16:05+00:00
+158738,ND,North Dakota Benson County Sheriff,2026-11-03,99.9,,False,2,1,1144,2026-11-18T16:05+00:00
+158659,ND,North Dakota Renville County State's Attorney,2026-11-03,99.9,,False,2,1,757,2026-11-18T16:05+00:00
+158903,ND,North Dakota Ward County Official Newspaper,2026-11-03,99.9,,False,2,1,15883,2026-11-18T16:05+00:00
+158923,ND,North Dakota Judge of the District Court No. 8 South Central,2026-11-03,99.9,,False,2,9,43253,2026-11-18T16:05+00:00
+158453,ND,North Dakota State Senate 41,2026-11-03,99.9,2026-11-12T01:54:12.336Z,False,3,1,6215,2026-11-18T16:05+00:00
+158889,ND,North Dakota Ransom County Official Newspaper,2026-11-03,99.9,,False,2,1,1731,2026-11-18T16:05+00:00
+158717,ND,North Dakota Eddy County Treasurer,2026-11-03,99.9,,False,3,1,986,2026-11-18T16:05+00:00
+158567,ND,North Dakota Logan County Commissioner,2026-11-03,99.9,,False,3,1,785,2026-11-18T16:05+00:00
+158587,ND,North Dakota Sargent County Commissioner,2026-11-03,99.9,,False,7,1,3827,2026-11-18T16:05+00:00
+158639,ND,North Dakota Eddy County State's Attorney,2026-11-03,99.9,,False,2,1,850,2026-11-18T16:05+00:00
+158797,ND,North Dakota Cavalier County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,1272,2026-11-18T16:05+00:00
+158625,ND,North Dakota Pembina County Auditor/Treasurer,2026-11-03,99.9,,False,2,1,2085,2026-11-18T16:05+00:00
+158591,ND,North Dakota Bottineau County Auditor,2026-11-03,99.9,,False,2,1,2118,2026-11-18T16:05+00:00
+158835,ND,North Dakota West McLean Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,1334,2026-11-18T16:05+00:00
+158577,ND,North Dakota Ramsey County Commissioner,2026-11-03,99.9,,False,5,1,5711,2026-11-18T16:05+00:00
+158821,ND,North Dakota Cedar Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,590,2026-11-18T16:05+00:00
+158457,ND,North Dakota State House 1,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,5,1,5237,2026-11-18T16:05+00:00
+158563,ND,North Dakota Williams County Commissioner District 3,2026-11-03,99.9,,False,2,1,792,2026-11-18T16:05+00:00
+158807,ND,North Dakota LaMoure County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,1348,2026-11-18T16:05+00:00
+158304,ND,North Dakota State Senate 21,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,2,1,3151,2026-11-18T16:05+00:00
+158549,ND,North Dakota Pierce County Commissioner District 1,2026-11-03,99.9,,False,2,1,198,2026-11-18T16:05+00:00
+158601,ND,North Dakota Mercer County Auditor,2026-11-03,99.9,,False,2,1,2706,2026-11-18T16:05+00:00
+158845,ND,North Dakota Pierce County Garrison Diversion Conservancy Director,2026-11-03,99.9,,False,2,1,1228,2026-11-18T16:05+00:00
+158498,ND,North Dakota Cass County Commissioner District 4,2026-11-03,99.9,,False,2,1,46252,2026-11-18T16:05+00:00
+158543,ND,North Dakota McHenry County Commissioner District 1,2026-11-03,99.9,,False,3,1,396,2026-11-18T16:05+00:00
+158880,ND,North Dakota McLean County Official Newspaper,2026-11-03,99.9,,False,2,1,3353,2026-11-18T16:05+00:00
+158708,ND,North Dakota McIntosh County Recorder/Clerk of District Court,2026-11-03,99.9,,False,2,1,966,2026-11-18T16:05+00:00
+158529,ND,North Dakota Bottineau County Commissioner District 1,2026-11-03,99.9,,False,2,1,421,2026-11-18T16:05+00:00
+158502,ND,North Dakota Divide County Commissioner District 1,2026-11-03,99.9,,False,2,1,900,2026-11-18T16:05+00:00
+160051,ND,North Dakota Authorize An Increase Of Two Mill For Dickey County Extension Work,2026-11-03,99.9,,False,2,1,1750,2026-11-18T16:05+00:00
+158712,ND,North Dakota Bottineau County Treasurer,2026-11-03,99.9,,False,2,1,2081,2026-11-18T16:05+00:00
+158924,ND,North Dakota Judge of the District Court No. 1 Unexpired 4-Year Term Southeast,2026-11-03,99.9,,False,2,14,23290,2026-11-18T16:05+00:00
+158553,ND,North Dakota Renville County Commissioner District 3,2026-11-03,99.9,,False,2,1,197,2026-11-18T16:05+00:00
+158890,ND,North Dakota Renville County Official Newspaper,2026-11-03,99.9,,False,1,1,815,2026-11-18T16:05+00:00
+158718,ND,North Dakota Golden Valley County Treasurer,2026-11-03,99.9,,False,2,1,637,2026-11-18T16:05+00:00
+160137,ND,North Dakota County State's Attorney Sheridan,2026-11-03,99.9,,False,1,1,51,2026-11-18T16:05+00:00
+158684,ND,North Dakota McHenry County Recorder,2026-11-03,99.9,,False,2,1,1652,2026-11-18T16:05+00:00
+158512,ND,North Dakota Nelson County Commissioner District 1,2026-11-03,99.9,,False,2,1,1055,2026-11-18T16:05+00:00
+160061,ND,North Dakota Traill County Measure,2026-11-03,99.9,,False,2,1,2934,2026-11-18T16:05+00:00
+158478,ND,North Dakota State House 43,2026-11-03,99.9,2026-11-04T07:09:42.097Z,False,5,1,7056,2026-11-18T16:05+00:00
+158454,ND,North Dakota State Senate 43,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,3,1,3964,2026-11-18T16:05+00:00
+158784,ND,North Dakota Traill County Sheriff,2026-11-03,99.9,,False,3,1,2955,2026-11-18T16:05+00:00
+158612,ND,North Dakota Traill County Auditor,2026-11-03,99.9,,False,2,1,2382,2026-11-18T16:05+00:00
+158856,ND,North Dakota Billings County Official Newspaper,2026-11-03,99.9,,False,1,1,513,2026-11-18T16:05+00:00
+158630,ND,North Dakota Bottineau County State's Attorney,2026-11-03,99.9,,False,2,1,2050,2026-11-18T16:05+00:00
+158650,ND,North Dakota Mercer County State's Attorney,2026-11-03,99.9,,False,2,1,2582,2026-11-18T16:05+00:00
+158616,ND,North Dakota Billings County Auditor/Treasurer,2026-11-03,99.9,,False,3,1,545,2026-11-18T16:05+00:00
+158444,ND,North Dakota State Senate 23,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,2,1,1381,2026-11-18T16:05+00:00
+158602,ND,North Dakota Morton County Auditor,2026-11-03,99.9,,False,2,1,7701,2026-11-18T16:05+00:00
+158846,ND,North Dakota Ramsey County Garrison Diversion Conservancy Director,2026-11-03,99.9,,False,2,1,2955,2026-11-18T16:05+00:00
+158674,ND,North Dakota Benson County Recorder,2026-11-03,99.9,,False,2,1,1161,2026-11-18T16:05+00:00
+158588,ND,North Dakota Stutsman County Commissioner,2026-11-03,99.9,,False,5,1,12820,2026-11-18T16:05+00:00
+158640,ND,North Dakota Emmons County State's Attorney,2026-11-03,99.9,,False,2,1,1059,2026-11-18T16:05+00:00
+158660,ND,North Dakota Richland County State's Attorney,2026-11-03,99.9,,False,2,1,4510,2026-11-18T16:05+00:00
+158798,ND,North Dakota James River Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,1615,2026-11-18T16:05+00:00
+158626,ND,North Dakota Stark County Auditor/Treasurer,2026-11-03,99.9,,False,2,1,6721,2026-11-18T16:05+00:00
+158503,ND,North Dakota Divide County Commissioner District 3,2026-11-03,99.9,,False,3,1,968,2026-11-18T16:05+00:00
+158523,ND,North Dakota Towner County Commissioner Unexpired 2-Year Term District 5,2026-11-03,99.9,,False,2,1,756,2026-11-18T16:05+00:00
+158760,ND,North Dakota McHenry County Sheriff,2026-11-03,99.9,,False,2,1,1689,2026-11-18T16:05+00:00
+158534,ND,North Dakota Foster County Commissioner District 2,2026-11-03,99.9,,False,2,1,231,2026-11-18T16:05+00:00
+158746,ND,North Dakota Dickey County Sheriff,2026-11-03,99.9,,False,2,1,1613,2026-11-18T16:05+00:00
+158527,ND,North Dakota Barnes County Commissioner District 3,2026-11-03,99.9,,False,2,1,573,2026-11-18T16:05+00:00
+160138,ND,North Dakota County Auditor Slope,2026-11-03,99.9,,False,1,1,127,2026-11-18T16:05+00:00
+158513,ND,North Dakota Nelson County Commissioner District 3,2026-11-03,99.9,,False,2,1,1038,2026-11-18T16:05+00:00
+160124,ND,North Dakota One Percent (1%) Additional Sales Tax for Garrison Fire Department Projects,2026-11-03,99.9,,False,2,1,480,2026-11-18T16:05+00:00
+158578,ND,North Dakota Ransom County Commissioner,2026-11-03,99.9,,False,4,1,3160,2026-11-18T16:05+00:00
+158499,ND,North Dakota Dickey County Commissioner District 1,2026-11-03,99.9,,False,2,1,1548,2026-11-18T16:05+00:00
+158544,ND,North Dakota McHenry County Commissioner District 3,2026-11-03,99.9,,False,3,1,370,2026-11-18T16:05+00:00
+158564,ND,North Dakota Williams County Commissioner District 5,2026-11-03,99.9,,False,3,1,1519,2026-11-18T16:05+00:00
+158709,ND,North Dakota Pembina County Recorder/Clerk of District Court,2026-11-03,99.9,,False,2,1,2057,2026-11-18T16:05+00:00
+158530,ND,North Dakota Bottineau County Commissioner District 3,2026-11-03,99.9,,False,2,1,379,2026-11-18T16:05+00:00
+158550,ND,North Dakota Pierce County Commissioner District 3,2026-11-03,99.9,,False,2,1,236,2026-11-18T16:05+00:00
+158631,ND,North Dakota Bowman County State's Attorney,2026-11-03,99.9,,False,2,1,1115,2026-11-18T16:05+00:00
+158651,ND,North Dakota Morton County State's Attorney,2026-11-03,99.9,,False,2,1,7440,2026-11-18T16:05+00:00
+158479,ND,North Dakota State House 45,2026-11-03,99.9,2026-11-12T01:54:12.336Z,False,5,1,10076,2026-11-18T16:05+00:00
+158445,ND,North Dakota State Senate 25,2026-11-03,99.9,2026-11-12T01:54:12.336Z,False,3,2,5407,2026-11-18T16:05+00:00
+158465,ND,North Dakota State House 17,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,4,1,8699,2026-11-18T16:05+00:00
+158655,ND,North Dakota Pembina County State's Attorney,2026-11-03,99.9,,False,2,1,2003,2026-11-18T16:05+00:00
+158675,ND,North Dakota Bottineau County Recorder,2026-11-03,99.9,,False,2,1,2076,2026-11-18T16:05+00:00
+158641,ND,North Dakota Foster County State's Attorney,2026-11-03,99.9,,False,2,1,1060,2026-11-18T16:05+00:00
+158661,ND,North Dakota Rolette County State's Attorney,2026-11-03,99.9,,False,2,1,2320,2026-11-18T16:05+00:00
+158713,ND,North Dakota Bowman County Treasurer,2026-11-03,99.9,,False,2,1,1173,2026-11-18T16:05+00:00
+158627,ND,North Dakota Adams County State's Attorney,2026-11-03,99.9,,False,2,1,717,2026-11-18T16:05+00:00
+158455,ND,North Dakota State Senate 45,2026-11-03,99.9,2026-11-12T01:54:12.336Z,False,3,1,5409,2026-11-18T16:05+00:00
+158891,ND,North Dakota Richland County Official Newspaper,2026-11-03,99.9,,False,1,1,4593,2026-11-18T16:05+00:00
+158613,ND,North Dakota Williams County Auditor,2026-11-03,99.9,,False,2,1,5379,2026-11-18T16:05+00:00
+158857,ND,North Dakota Bottineau County Official Newspaper,2026-11-03,99.9,,False,1,1,2168,2026-11-18T16:05+00:00
+158685,ND,North Dakota McKenzie County Recorder,2026-11-03,99.9,,False,2,1,2802,2026-11-18T16:05+00:00
+158535,ND,North Dakota Golden Valley County Commissioner District 1,2026-11-03,99.9,,False,3,1,670,2026-11-18T16:05+00:00
+158747,ND,North Dakota Divide County Sheriff,2026-11-03,99.9,,False,3,1,980,2026-11-18T16:05+00:00
+158799,ND,North Dakota Divide County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,904,2026-11-18T16:05+00:00
+158720,ND,North Dakota LaMoure County Treasurer,2026-11-03,99.9,,False,2,1,1344,2026-11-18T16:05+00:00
+160139,ND,"North Dakota Supervisor, Soil Conservation District Emmons County",2026-11-03,99.9,,False,1,1,175,2026-11-18T16:05+00:00
+158785,ND,North Dakota Walsh County Sheriff,2026-11-03,99.9,,False,3,1,3299,2026-11-18T16:05+00:00
+158751,ND,North Dakota Foster County Sheriff,2026-11-03,99.9,,False,2,1,1134,2026-11-18T16:05+00:00
+158579,ND,North Dakota Rolette County Commissioner,2026-11-03,99.9,,False,3,1,3623,2026-11-18T16:05+00:00
+158545,ND,North Dakota McHenry County Commissioner District 5,2026-11-03,99.9,,False,2,1,320,2026-11-18T16:05+00:00
+158565,ND,North Dakota Eddy County Commissioner Districts At-Large,2026-11-03,99.9,,False,4,1,1848,2026-11-18T16:05+00:00
+158617,ND,North Dakota Divide County Auditor/Treasurer,2026-11-03,99.9,,False,3,1,962,2026-11-18T16:05+00:00
+158531,ND,North Dakota Bottineau County Commissioner District 5,2026-11-03,99.9,,False,2,1,399,2026-11-18T16:05+00:00
+158551,ND,North Dakota Pierce County Commissioner District 5,2026-11-03,99.9,,False,3,1,260,2026-11-18T16:05+00:00
+158603,ND,North Dakota Mountrail County Auditor,2026-11-03,99.9,,False,2,1,2310,2026-11-18T16:05+00:00
+158524,ND,North Dakota Wells County Commissioner District 2,2026-11-03,99.9,,False,3,1,1362,2026-11-18T16:05+00:00
+158761,ND,North Dakota McIntosh County Sheriff,2026-11-03,99.9,,False,3,1,1032,2026-11-18T16:05+00:00
+158589,ND,North Dakota Walsh County Commissioner,2026-11-03,99.9,,False,5,1,8141,2026-11-18T16:05+00:00
+158466,ND,North Dakota State House 19,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,4,3,8762,2026-11-18T16:05+00:00
+158710,ND,North Dakota Slope County Recorder/Clerk of District Court,2026-11-03,99.9,,False,3,1,258,2026-11-18T16:05+00:00
+158848,ND,North Dakota Richland County Garrison Diversion Conservancy Director,2026-11-03,99.9,,False,2,1,4604,2026-11-18T16:05+00:00
+158868,ND,North Dakota Foster County Official Newspaper,2026-11-03,99.9,,False,1,1,1115,2026-11-18T16:05+00:00
+158696,ND,North Dakota Sheridan County Recorder,2026-11-03,99.9,,False,2,1,546,2026-11-18T16:05+00:00
+158470,ND,North Dakota State House 27,2026-11-03,99.9,2026-11-12T01:54:12.336Z,False,4,1,9337,2026-11-18T16:05+00:00
+158906,ND,North Dakota Judge of the District Court No. 1 East Central,2026-11-03,99.9,,False,2,3,49776,2026-11-18T16:05+00:00
+158872,ND,North Dakota Griggs County Official Newspaper,2026-11-03,99.9,,False,1,1,838,2026-11-18T16:05+00:00
+158892,ND,North Dakota Rolette County Official Newspaper,2026-11-03,99.9,,False,1,1,2490,2026-11-18T16:05+00:00
+158858,ND,North Dakota Bowman County Official Newspaper,2026-11-03,99.9,,False,1,1,1191,2026-11-18T16:05+00:00
+158686,ND,North Dakota McLean County Recorder,2026-11-03,99.9,,False,2,1,3262,2026-11-18T16:05+00:00
+158514,ND,North Dakota Nelson County Commissioner District 5,2026-11-03,99.9,,False,2,1,1052,2026-11-18T16:05+00:00
+158652,ND,North Dakota Mountrail County State's Attorney,2026-11-03,99.9,,False,2,1,2246,2026-11-18T16:05+00:00
+158480,ND,North Dakota State House 47,2026-11-03,99.9,2026-11-04T07:09:42.097Z,False,6,1,12670,2026-11-18T16:05+00:00
+158500,ND,North Dakota Dickey County Commissioner District 3,2026-11-03,99.9,,False,2,1,1584,2026-11-18T16:05+00:00
+158446,ND,North Dakota State Senate 27,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,2,1,4933,2026-11-18T16:05+00:00
+158614,ND,North Dakota Adams County Auditor/Treasurer,2026-11-03,99.9,,False,2,1,788,2026-11-18T16:05+00:00
+160126,ND,North Dakota City of Harwood Home Rule Charter Amendment,2026-11-03,99.9,,False,2,1,430,2026-11-18T16:05+00:00
+158772,ND,North Dakota Ransom County Sheriff,2026-11-03,99.9,,False,2,1,1615,2026-11-18T16:05+00:00
+158824,ND,North Dakota Walsh County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,2850,2026-11-18T16:05+00:00
+158790,ND,North Dakota McHenry County Clerk of District Court,2026-11-03,99.9,,False,2,1,1684,2026-11-18T16:05+00:00
+158810,ND,North Dakota Morton County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,7644,2026-11-18T16:05+00:00
+158776,ND,North Dakota Sargent County Sheriff,2026-11-03,99.9,,False,2,1,1309,2026-11-18T16:05+00:00
+158604,ND,North Dakota Oliver County Auditor,2026-11-03,99.9,,False,2,1,772,2026-11-18T16:05+00:00
+158762,ND,North Dakota McKenzie County Sheriff,2026-11-03,99.9,,False,3,1,3185,2026-11-18T16:05+00:00
+158590,ND,North Dakota Barnes County Auditor,2026-11-03,99.9,,False,3,1,3388,2026-11-18T16:05+00:00
+158642,ND,North Dakota Grand Forks County State's Attorney,2026-11-03,99.9,,False,2,1,14963,2026-11-18T16:05+00:00
+158748,ND,North Dakota Dunn County Sheriff,2026-11-03,99.9,,False,3,1,1545,2026-11-18T16:05+00:00
+158800,ND,North Dakota Dunn County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,1350,2026-11-18T16:05+00:00
+158628,ND,North Dakota Barnes County State's Attorney,2026-11-03,99.9,,False,2,1,3069,2026-11-18T16:05+00:00
+160140,ND,"North Dakota Supervisor, Soil Conservation District Logan County",2026-11-03,99.9,,False,1,1,138,2026-11-18T16:05+00:00
+158786,ND,North Dakota Ward County Sheriff,2026-11-03,99.9,,False,2,1,13992,2026-11-18T16:05+00:00
+158471,ND,North Dakota State House 29,2026-11-03,99.9,2026-11-04T07:09:42.097Z,False,4,5,9284,2026-11-18T16:05+00:00
+158491,ND,North Dakota Grand Forks County Commissioner Unexpired 2-Year Term Districts At-Large,2026-11-03,99.9,,False,3,1,14668,2026-11-18T16:05+00:00
+158728,ND,North Dakota Ransom County Treasurer,2026-11-03,99.9,,False,2,1,1582,2026-11-18T16:05+00:00
+158893,ND,North Dakota Sargent County Official Newspaper,2026-11-03,99.9,,False,1,1,1341,2026-11-18T16:05+00:00
+158913,ND,North Dakota Judge of the District Court No. 2 Unexpired 4-Year Term Northeast Central,2026-11-03,99.9,,False,3,2,16389,2026-11-18T16:05+00:00
+158495,ND,North Dakota Benson County Commissioner District 5,2026-11-03,99.9,,False,3,1,157,2026-11-18T16:05+00:00
+158515,ND,North Dakota Sheridan County Commissioner District 1,2026-11-03,99.9,,False,2,1,540,2026-11-18T16:05+00:00
+158481,ND,North Dakota State House 20 Unexpired 2-Year Term,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,3,3,5964,2026-11-18T16:05+00:00
+158501,ND,North Dakota Dickey County Commissioner District 5,2026-11-03,99.9,,False,3,1,1725,2026-11-18T16:05+00:00
+158546,ND,North Dakota Pembina County Commissioner District 1,2026-11-03,99.9,,False,2,1,340,2026-11-18T16:05+00:00
+158467,ND,North Dakota State House 21,2026-11-03,99.9,2026-11-04T07:09:42.097Z,False,3,1,5281,2026-11-18T16:05+00:00
+158711,ND,North Dakota Barnes County Treasurer,2026-11-03,99.9,,False,2,1,3202,2026-11-18T16:05+00:00
+158532,ND,North Dakota Burke County Commissioner District 2,2026-11-03,99.9,,False,3,1,247,2026-11-18T16:05+00:00
+158869,ND,North Dakota Golden Valley County Official Newspaper,2026-11-03,99.9,,False,1,1,652,2026-11-18T16:05+00:00
+158697,ND,North Dakota Traill County Recorder,2026-11-03,99.9,,False,3,1,2697,2026-11-18T16:05+00:00
+158525,ND,North Dakota Wells County Commissioner District 4,2026-11-03,99.9,,False,2,1,1374,2026-11-18T16:05+00:00
+158791,ND,North Dakota Traill County Clerk of District Court,2026-11-03,99.9,,False,2,1,2445,2026-11-18T16:05+00:00
+158811,ND,North Dakota Mountrail County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,2224,2026-11-18T16:05+00:00
+158447,ND,North Dakota State Senate 29,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,3,5,5968,2026-11-18T16:05+00:00
+158605,ND,North Dakota Ramsey County Auditor,2026-11-03,99.9,,False,2,1,3030,2026-11-18T16:05+00:00
+158290,ND,North Dakota State Senate 1,2026-11-03,99.9,2026-11-04T07:09:42.095Z,False,2,1,2515,2026-11-18T16:05+00:00
+158815,ND,North Dakota Pierce County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,1265,2026-11-18T16:05+00:00
+158643,ND,North Dakota Griggs County State's Attorney,2026-11-03,99.9,,False,2,1,777,2026-11-18T16:05+00:00
+158801,ND,North Dakota Eddy County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,912,2026-11-18T16:05+00:00
+158629,ND,North Dakota Benson County State's Attorney,2026-11-03,99.9,,False,2,1,1139,2026-11-18T16:05+00:00
+158873,ND,North Dakota Hettinger County Official Newspaper,2026-11-03,99.9,,False,1,1,937,2026-11-18T16:05+00:00
+158787,ND,North Dakota Wells County Sheriff,2026-11-03,99.9,,False,3,1,1470,2026-11-18T16:05+00:00
+158615,ND,North Dakota Benson County Auditor/Treasurer,2026-11-03,99.9,,False,2,1,1161,2026-11-18T16:05+00:00
+158859,ND,North Dakota Burke County Official Newspaper,2026-11-03,99.9,,False,1,1,661,2026-11-18T16:05+00:00
+158773,ND,North Dakota Renville County Sheriff,2026-11-03,99.9,,False,3,1,856,2026-11-18T16:05+00:00
+158825,ND,North Dakota Ward County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,13583,2026-11-18T16:05+00:00
+158653,ND,North Dakota Nelson County State's Attorney,2026-11-03,99.9,,False,2,1,1047,2026-11-18T16:05+00:00
+158914,ND,North Dakota Judge of the District Court No. 5 Northeast Central,2026-11-03,99.9,,False,2,2,15375,2026-11-18T16:05+00:00
+160141,ND,"North Dakota Supervisor, Soil Conservation District McIntosh County",2026-11-03,99.9,,False,1,1,115,2026-11-18T16:05+00:00
+158688,ND,North Dakota Morton County Recorder,2026-11-03,99.9,,False,2,1,7548,2026-11-18T16:05+00:00
+158516,ND,North Dakota Sheridan County Commissioner District 3,2026-11-03,99.9,,False,3,1,598,2026-11-18T16:05+00:00
+160127,ND,North Dakota City of Horace Firework Ordinance Amendment,2026-11-03,99.9,,False,2,1,2027,2026-11-18T16:05+00:00
+158918,ND,North Dakota Judge of the District Court No. 4 Northwest,2026-11-03,99.9,,False,2,3,8494,2026-11-18T16:05+00:00
+158739,ND,North Dakota Billings County Sheriff,2026-11-03,99.9,,False,3,1,530,2026-11-18T16:05+00:00
+158520,ND,North Dakota Stark County Commissioner District 4,2026-11-03,99.9,,False,3,1,7215,2026-11-18T16:05+00:00
+158533,ND,North Dakota Foster County Commissioner District 4,2026-11-03,99.9,,False,2,1,210,2026-11-18T16:05+00:00
+158777,ND,North Dakota Sheridan County Sheriff,2026-11-03,99.9,,False,2,1,550,2026-11-18T16:05+00:00
+158698,ND,North Dakota Billings County Recorder/Clerk of District Court,2026-11-03,99.9,,False,2,1,493,2026-11-18T16:05+00:00
+158526,ND,North Dakota Barnes County Commissioner District 2,2026-11-03,99.9,,False,2,1,571,2026-11-18T16:05+00:00
+158763,ND,North Dakota McLean County Sheriff,2026-11-03,99.9,,False,2,1,3305,2026-11-18T16:05+00:00
+158492,ND,North Dakota Billings County Commissioner At-Large By District Unexpired 2-Year Term District 4,2026-11-03,99.9,,False,3,1,545,2026-11-18T16:05+00:00
+158729,ND,North Dakota Sheridan County Treasurer,2026-11-03,99.9,,False,2,1,553,2026-11-18T16:05+00:00
+158749,ND,North Dakota Eddy County Sheriff,2026-11-03,99.9,,False,3,1,981,2026-11-18T16:05+00:00
+158894,ND,North Dakota Sheridan County Official Newspaper,2026-11-03,99.9,,False,1,1,424,2026-11-18T16:05+00:00
+158870,ND,North Dakota Grand Forks County Official Newspaper,2026-11-03,99.9,,False,1,1,15666,2026-11-18T16:05+00:00
+158592,ND,North Dakota Bowman County Auditor,2026-11-03,99.9,,False,2,1,1208,2026-11-18T16:05+00:00
+158836,ND,North Dakota Burleigh County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,26825,2026-11-18T16:05+00:00
+158664,ND,North Dakota Stark County State's Attorney,2026-11-03,99.9,,False,2,1,6610,2026-11-18T16:05+00:00
+158295,ND,North Dakota State Senate 11,2026-11-03,99.9,2026-11-12T01:54:12.336Z,False,3,1,5187,2026-11-18T16:05+00:00
+158458,ND,North Dakota State House 3,2026-11-03,99.9,2026-11-12T01:54:12.336Z,False,5,1,6797,2026-11-18T16:05+00:00
+158840,ND,North Dakota South McHenry Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,933,2026-11-18T16:05+00:00
+158860,ND,North Dakota Burleigh County Official Newspaper,2026-11-03,99.9,,False,1,1,25737,2026-11-18T16:05+00:00
+158826,ND,North Dakota Wells County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,1377,2026-11-18T16:05+00:00
+158654,ND,North Dakota Oliver County State's Attorney,2026-11-03,99.9,,False,3,1,798,2026-11-18T16:05+00:00
+158482,ND,North Dakota State House 26 Unexpired 2-Year Term,2026-11-03,99.9,2026-11-04T07:09:42.097Z,False,2,2,3754,2026-11-18T16:05+00:00
+158812,ND,North Dakota Nelson County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,1116,2026-11-18T16:05+00:00
+158448,ND,North Dakota State Senate 31,2026-11-03,99.9,2026-11-04T07:09:42.096Z,False,3,4,4900,2026-11-18T16:05+00:00
+158468,ND,North Dakota State House 23,2026-11-03,99.9,2026-11-04T07:09:42.097Z,False,3,1,2112,2026-11-18T16:05+00:00
+158606,ND,North Dakota Ransom County Auditor,2026-11-03,99.9,,False,2,1,1539,2026-11-18T16:05+00:00
+158291,ND,North Dakota State Senate 3,2026-11-03,99.9,2026-11-04T07:09:42.095Z,False,3,1,3729,2026-11-18T16:05+00:00
+158774,ND,North Dakota Richland County Sheriff,2026-11-03,99.9,,False,2,1,4624,2026-11-18T16:05+00:00
+158919,ND,North Dakota Judge of the District Court No. 10 South Central,2026-11-03,99.9,,False,2,9,42905,2026-11-18T16:05+00:00
+160052,ND,North Dakota Divide County be allowed to exceed the 3% budget cap by an additional 2%,2026-11-03,99.9,,False,2,1,942,2026-11-18T16:05+00:00
+158568,ND,North Dakota Mercer County Commissioner Unexpired 2-Year Term,2026-11-03,99.9,,False,3,1,2892,2026-11-18T16:05+00:00
+160132,ND,North Dakota Surrey School District School District Measure No. 1,2026-11-03,99.9,,False,2,2,782,2026-11-18T16:05+00:00
+158554,ND,North Dakota Sioux County Commissioner District 1,2026-11-03,99.9,,False,3,1,176,2026-11-18T16:05+00:00
+160056,ND,North Dakota Logan County Appointment of State's Attorney,2026-11-03,99.9,,False,2,1,770,2026-11-18T16:05+00:00
+158764,ND,North Dakota Mercer County Sheriff,2026-11-03,99.9,,False,2,1,2792,2026-11-18T16:05+00:00
+158730,ND,North Dakota Slope County Treasurer,2026-11-03,99.9,,False,2,1,253,2026-11-18T16:05+00:00
+158750,ND,North Dakota Emmons County Sheriff,2026-11-03,99.9,,False,3,1,1229,2026-11-18T16:05+00:00
+158802,ND,North Dakota Foster County Soil Conservation District Supervisor,2026-11-03,99.9,,False,2,1,1126,2026-11-18T16:05+00:00
+158915,ND,North Dakota Judge of the District Court No. 6 Unexpired 4-Year Term Northeast Central,2026-11-03,99.9,,False,2,2,15291,2026-11-18T16:05+00:00
+160142,ND,"North Dakota Supervisor, Soil Conservation District Ransom County",2026-11-03,99.9,,False,1,1,185,2026-11-18T16:05+00:00
+158788,ND,North Dakota Williams County Sheriff,2026-11-03,99.9,,False,3,1,5967,2026-11-18T16:05+00:00
+158517,ND,North Dakota Slope County Commissioner District 1,2026-11-03,99.9,,False,2,1,249,2026-11-18T16:05+00:00
+160128,ND,North Dakota Fire Department Capital Improvements Levy Rolette,2026-11-03,99.9,,False,2,1,123,2026-11-18T16:05+00:00
+87347,ND,North Dakota US House At-Large,2026-11-03,99,2026-11-04T03:11:28.760Z,False,5,53,234970,2026-11-18T16:05+00:00

@@ -1,0 +1,494 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+156339,MO,Yes,Nonpartisan,986068,57.762,True,False
+156339,MO,No,Nonpartisan,721059,42.238,False,False
+156341,MO,Yes,Nonpartisan,899730,53.151,True,False
+156341,MO,No,Nonpartisan,793059,46.849,False,False
+159541,MO,Republican,Republican,926590,54.691,False,False
+159541,MO,Democratic,Democratic,756289,44.639,False,False
+159541,MO,Libertarian,Libertarian,7033,0.415,False,False
+159541,MO,Independent,Independent,4319,0.255,False,False
+156342,MO,No,Nonpartisan,1004119,59.54,True,False
+156342,MO,Yes,Nonpartisan,682356,40.46,False,False
+87242,MO,Scott Fitzpatrick,Republican,0,,False,False
+87242,MO,Quentin Wilson,Democratic,0,,False,False
+87242,MO,Dustin Coffell,Libertarian,0,,False,False
+159542,MO,Republican,Republican,565941,56.891,False,False
+159542,MO,Democratic,Democratic,426952,42.919,False,False
+159542,MO,Libertarian,Libertarian,1894,0.19,False,False
+156289,MO,Yes,Nonpartisan,0,,False,False
+156289,MO,No,Nonpartisan,0,,False,False
+156340,MO,No,Nonpartisan,1005899,59.471,True,False
+156340,MO,Yes,Nonpartisan,685498,40.529,False,False
+87243,MO,No,Nonpartisan,903761,52.166,True,False
+87243,MO,Yes,Nonpartisan,828701,47.834,False,False
+156299,MO,Yes,Nonpartisan,0,,False,False
+156299,MO,No,Nonpartisan,0,,False,False
+156335,MO,Yes,Nonpartisan,0,,False,False
+156335,MO,No,Nonpartisan,0,,False,False
+156236,MO,Cameron Bunting Parker,Republican,0,,True,False
+156304,MO,Yes,Nonpartisan,0,,False,False
+156304,MO,No,Nonpartisan,0,,False,False
+156148,MO,Jeff Myers,Republican,9700,66.85,True,False
+156148,MO,Amy Pritchard,Democratic,4810,33.15,False,False
+156138,MO,Justin Geiser,Democratic,7688,53.142,True,False
+156138,MO,Ron Fowler,Republican,6779,46.858,False,False
+156231,MO,Bryant Wolfin,Republican,8129,69.065,True,False
+156231,MO,Carl Kinsky,Democratic,3641,30.935,False,False
+156150,MO,John Martin,Republican,7769,52.468,True,False
+156150,MO,Bekki Brewer,Democratic,7038,47.532,False,False
+156243,MO,Mitch Boggs,Republican,8651,74.719,True,False
+156243,MO,Bradley Bos,Democratic,2927,25.281,False,False
+156311,MO,Yes,Nonpartisan,0,,False,False
+156311,MO,No,Nonpartisan,0,,False,False
+156155,MO,Terry Thompson,Republican,8212,63.996,True,False
+156155,MO,Beth Grubb,Democratic,4620,36.004,False,False
+156177,MO,Connie Steinmetz,Democratic,9344,70.293,True,False
+156177,MO,Dan Hyatt,Republican,3949,29.707,False,False
+156270,MO,David Tyson Smith,Democratic,0,,True,False
+156114,MO,Jill Carter,Republican,36143,70.111,True,False
+156114,MO,Imma J Curl,Democratic,15408,29.889,False,False
+156125,MO,Paul Gatewood,Republican,4956,54.69,True,False
+156125,MO,LaTonya T. Williams,Democratic,4106,45.31,False,False
+156250,MO,Brittney R. Smith,Republican,0,,False,False
+156286,MO,Jo Doll,Democratic,0,,True,False
+156130,MO,Dan Kinate,Democratic,8324,54.395,True,False
+156130,MO,Chris Brown,Republican,6979,45.605,False,False
+156209,MO,Jeff Vernetti,Republican,10921,70.204,True,False
+156209,MO,Cody Hutcheson,Democratic,4635,29.796,False,False
+156277,MO,Kennedy Moore,Democratic,7408,87.451,True,False
+156277,MO,Joy Denise Dabney,Libertarian,1063,12.549,False,False
+156121,MO,Kelly Gatts,Republican,7200,66.716,True,False
+156121,MO,Robert Johnson,Democratic,3063,28.382,False,False
+156121,MO,John Davison,Libertarian,529,4.902,False,False
+156132,MO,Wick Thomas,Democratic,5879,84.553,True,False
+156132,MO,Karen Irene Spalding,Republican,1074,15.447,False,False
+156193,MO,Mark Matthiesen,Republican,7557,50.387,True,False
+156193,MO,Gary Wester,Democratic,7441,49.613,False,False
+156101,MO,Jake Vogel,Republican,43761,68.822,True,False
+156101,MO,J. Don Salcedo,Democratic,19825,31.178,False,False
+156137,MO,Kevin Grover,Democratic,10083,57.309,True,False
+156137,MO,Jeff Martin,Republican,7511,42.691,False,False
+156216,MO,Bishop Davidson,Republican,7297,57.16,True,False
+156216,MO,Leslie Jones,Democratic,5469,42.84,False,False
+156230,MO,Chris Dodson Dinkins,Republican,8470,73.232,True,False
+156230,MO,Andrew J Eye,Democratic,3096,26.768,False,False
+156252,MO,Daniel Green,Republican,0,,False,False
+156320,MO,Yes,Nonpartisan,0,,False,False
+156320,MO,No,Nonpartisan,0,,False,False
+156171,MO,Marla Smith,Democratic,8021,88.738,True,False
+156171,MO,Jack Howard,Republican,1018,11.262,False,False
+156232,MO,Lucas Green,Republican,11282,72.46,True,False
+156232,MO,Mary Harriet Talbut,Democratic,4288,27.54,False,False
+156332,MO,Yes,Nonpartisan,0,,False,False
+156332,MO,No,Nonpartisan,0,,False,False
+156176,MO,Yolonda Fountain Henderson,Democratic,7906,95.081,True,False
+156176,MO,Jerron J Sutton,Republican,409,4.919,False,False
+156191,MO,Cat Clayton,Democratic,6643,55.599,True,False
+156191,MO,Colin Wellenkamp,Republican,5305,44.401,False,False
+156269,MO,Kathy Steinhoff,Democratic,0,,True,False
+156259,MO,Gina Mitten,Democratic,0,,True,False
+156327,MO,Yes,Nonpartisan,0,,False,False
+156327,MO,No,Nonpartisan,0,,False,False
+156203,MO,Becky Laubinger,Republican,5846,62.847,True,False
+156203,MO,Eli Flowers,Democratic,3456,37.153,False,False
+156271,MO,Adrian Plank,Democratic,0,,True,False
+156147,MO,Doyle Justus,Republican,8513,66.695,True,False
+156147,MO,Matthew Beger,Democratic,3875,30.359,False,False
+156147,MO,Dalton P. Johnson,Libertarian,376,2.946,False,False
+156208,MO,Tara J Peters,Republican,6472,61.305,True,False
+156208,MO,Dan Victor,Democratic,4085,38.695,False,False
+156276,MO,Nicole Greer,Democratic,0,,True,False
+156298,MO,Yes,Nonpartisan,0,,False,False
+156298,MO,No,Nonpartisan,0,,False,False
+156142,MO,Michael Scott,Democratic,10932,61.889,True,False
+156142,MO,Jacquie Aziere Stenger,Republican,6732,38.111,False,False
+156278,MO,Marlon Anderson,Democratic,0,,True,False
+156154,MO,Israel Baeza,Republican,6037,63.904,True,False
+156154,MO,Rene Vance,Democratic,3410,36.096,False,False
+156215,MO,Will Worsham,Republican,8941,69.24,True,False
+156215,MO,John Gray,Democratic,3972,30.76,False,False
+156283,MO,Ray Reed,Democratic,12937,84.247,True,False
+156283,MO,Andrew Bolin,Libertarian,2419,15.753,False,False
+156113,MO,Betsy Fogle,Democratic,32356,57.979,True,False
+156113,MO,Melanie Stinnett,Republican,21556,38.627,False,False
+156113,MO,Cecil Ince,Libertarian,1894,3.394,False,False
+156181,MO,Cathy A Summers,Democratic,7683,54.102,True,False
+156181,MO,Maryellen Murphy,Republican,6518,45.898,False,False
+156242,MO,Brian H. Seitz,Republican,8483,73.275,True,False
+156242,MO,Trent Davis,Democratic,3094,26.725,False,False
+156253,MO,Cotton Walker,Republican,0,,False,False
+156129,MO,Ashley Aune,Democratic,9801,61.36,True,False
+156129,MO,Frank Pendleton,Republican,6172,38.64,False,False
+156190,MO,Tara Murray,Democratic,8605,55.16,True,False
+156190,MO,Terri Violet,Republican,6995,44.84,False,False
+156258,MO,Michael Randazzo,Republican,0,,False,False
+156120,MO,Roth Mcelvain,Republican,8809,73.304,True,False
+156120,MO,John Paul Tomko,Democratic,3208,26.696,False,False
+156326,MO,Yes,Nonpartisan,0,,False,False
+156326,MO,No,Nonpartisan,0,,False,False
+156156,MO,Brandon Phelps,Republican,6989,60.479,True,False
+156156,MO,Taigan Rayne Plummer,Democratic,4567,39.521,False,False
+156249,MO,Cathy Jo Loy,Republican,6998,69.729,True,False
+156249,MO,Brenna Barksdale,Democratic,3038,30.271,False,False
+156292,MO,Yes,Nonpartisan,0,,False,False
+156292,MO,No,Nonpartisan,0,,False,False
+156328,MO,Yes,Nonpartisan,0,,False,False
+156328,MO,No,Nonpartisan,0,,False,False
+156229,MO,Bennie Cook,Republican,9868,78.461,True,False
+156229,MO,Marsha Snodgrass,Democratic,2709,21.539,False,False
+156297,MO,Yes,Nonpartisan,0,,False,False
+156297,MO,No,Nonpartisan,0,,False,False
+156319,MO,Yes,Nonpartisan,0,,False,False
+156319,MO,No,Nonpartisan,0,,False,False
+156141,MO,Kemp Strickler,Democratic,9371,60.989,True,False
+156141,MO,Sean Smith,Republican,5994,39.011,False,False
+156163,MO,Bruce Sassmann,Republican,9673,73.464,True,False
+156163,MO,Stacy Bax,Democratic,3494,26.536,False,False
+156224,MO,Burt Whaley,Republican,12233,76.137,True,False
+156224,MO,Chris Daugherty,Democratic,3834,23.863,False,False
+156107,MO,Greg Sharpe,Republican,36241,71.364,True,False
+156107,MO,Nick Miller,Democratic,14542,28.636,False,False
+156143,MO,Anthony T. Ealy Jr,Democratic,7946,68.312,True,False
+156143,MO,Dave Thomas,Republican,3686,31.688,False,False
+156268,MO,Karissa Marie Varga,Democratic,0,,True,False
+156112,MO,Sam Alexander,Republican,41640,71.354,True,False
+156112,MO,Mike McCaffree,Democratic,16717,28.646,False,False
+156180,MO,Michael Burton,Democratic,9347,62.551,True,False
+156180,MO,Kenneth Abram,Republican,5596,37.449,False,False
+156170,MO,Patrick James Wroblewski,Democratic,7788,74.08,True,False
+156170,MO,Jeffrey Jacks,Republican,2725,25.92,False,False
+156263,MO,Tony L. Van Trece,Democratic,0,,True,False
+156182,MO,Bob Mahacek,Republican,8714,51.492,True,False
+156182,MO,Meredith Sumenek,Democratic,8209,48.508,False,False
+156275,MO,Stephanie Boykin,Democratic,0,,True,False
+156119,MO,Keith Gudehus,Republican,8233,77.117,True,False
+156119,MO,Tristan Sutton,Democratic,2443,22.883,False,False
+156187,MO,Paul Lentz,Democratic,9540,51.112,True,False
+156187,MO,Ben Keathley,Republican,8873,47.538,False,False
+156187,MO,Jeff Coleman,Libertarian,252,1.35,False,False
+156202,MO,Jason Green,Republican,6131,63.258,True,False
+156202,MO,Whitney Wisker-Brooks,Democratic,3561,36.742,False,False
+156302,MO,Yes,Nonpartisan,0,,False,False
+156302,MO,No,Nonpartisan,0,,False,False
+156338,MO,Yes,Nonpartisan,0,,False,False
+156338,MO,No,Nonpartisan,0,,False,False
+156157,MO,William (Bill) Irwin,Republican,9465,61.657,True,False
+156157,MO,Jon Pennell,Democratic,5886,38.343,False,False
+156282,MO,Nick Kimble,Democratic,0,,True,False
+156318,MO,Yes,Nonpartisan,0,,False,False
+156318,MO,No,Nonpartisan,0,,False,False
+156162,MO,Suzanne Luther,Democratic,6329,50.758,True,False
+156162,MO,Shane Kampeter,Republican,6140,49.242,False,False
+156241,MO,Matthew Overcast,Republican,11153,79.111,True,False
+156241,MO,Joshua Berzins,Democratic,2945,20.889,False,False
+156309,MO,Yes,Nonpartisan,0,,False,False
+156309,MO,No,Nonpartisan,0,,False,False
+156153,MO,Stephanie Gooden,Republican,7210,65.438,True,False
+156153,MO,Ron Fauss,Democratic,3808,34.562,False,False
+156164,MO,Sherri Gallick,Republican,9728,65.504,True,False
+156164,MO,Liz Davenport,Democratic,5123,34.496,False,False
+156225,MO,Bob Titus,Republican,0,,True,False
+156325,MO,Yes,Nonpartisan,0,,False,False
+156325,MO,No,Nonpartisan,0,,False,False
+156169,MO,Scott Miller,Republican,8421,50.2,False,False
+156169,MO,Chris Chapman,Democratic,8354,49.8,False,False
+156248,MO,Roger Koch,Republican,0,,True,False
+156262,MO,Yolanda Young,Democratic,0,,True,False
+156284,MO,Jeff Hales,Democratic,0,,True,False
+156128,MO,John Elliott,Republican,9625,60.025,True,False
+156128,MO,Jacoby Wynkoop,Democratic,6410,39.975,False,False
+156196,MO,Niles Stephens,Republican,9310,51.134,True,False
+156196,MO,Claire Heinrich,Democratic,8897,48.866,False,False
+156264,MO,Kevin Garner,Democratic,0,,True,False
+156140,MO,Carolyn Caton,Republican,8253,51.991,True,False
+156140,MO,Troy Latterell,Democratic,7621,48.009,False,False
+156201,MO,Bill Lucas,Republican,7700,64.392,True,False
+156201,MO,David George,Democratic,4258,35.608,False,False
+156223,MO,Darin Chappell,Republican,11318,62.437,True,False
+156223,MO,Bryce F. Lockwood,Democratic,6809,37.563,False,False
+156301,MO,Yes,Nonpartisan,0,,False,False
+156301,MO,No,Nonpartisan,0,,False,False
+156291,MO,Yes,Nonpartisan,0,,False,False
+156291,MO,No,Nonpartisan,0,,False,False
+156135,MO,Donna Barnes,Democratic,8975,76.539,True,False
+156135,MO,Steven W Hinton,Republican,2751,23.461,False,False
+156235,MO,Scott Crumpecker,Republican,5621,67.633,True,False
+156235,MO,John Armbruster,Democratic,2690,32.367,False,False
+156303,MO,Yes,Nonpartisan,0,,False,False
+156303,MO,No,Nonpartisan,0,,False,False
+156179,MO,George Hruza,Republican,9329,52.17,True,False
+156179,MO,Bryan Troop,Democratic,8553,47.83,False,False
+156240,MO,Lisa K Durnell,Republican,8369,78.018,True,False
+156240,MO,Jojo Stewart,Democratic,2358,21.982,False,False
+156308,MO,Yes,Nonpartisan,0,,False,False
+156308,MO,No,Nonpartisan,0,,False,False
+156106,MO,Bill Hardwick,Republican,33786,73.691,True,False
+156106,MO,Virginia Staabs,Democratic,12062,26.309,False,False
+156174,MO,Elizabeth (Lilly) Fuchs,Democratic,10634,89.852,True,False
+156174,MO,Jennie Drag,Republican,1201,10.148,False,False
+156310,MO,Yes,Nonpartisan,0,,False,False
+156310,MO,No,Nonpartisan,0,,False,False
+156186,MO,Mary Ann Perkins,Democratic,9770,56.648,True,False
+156186,MO,Philip Oehlerking,Republican,7158,41.503,False,False
+156186,MO,Ken Newhouse,Libertarian,319,1.85,False,False
+156247,MO,Louise Secker,Republican,4585,53.714,True,False
+156247,MO,Aaron Joseph Metzger,Democratic,3951,46.286,False,False
+156247,MO,Thomas Ross,Republican,0,0.0,False,False
+156315,MO,Yes,Nonpartisan,0,,False,False
+156315,MO,No,Nonpartisan,0,,False,False
+156337,MO,Yes,Nonpartisan,0,,False,False
+156337,MO,No,Nonpartisan,0,,False,False
+156206,MO,John W Hewkin,Republican,8341,74.794,True,False
+156206,MO,Ray Bruno,Democratic,2811,25.206,False,False
+156274,MO,Kem Smith,Democratic,0,,True,False
+156285,MO,Mark Boyko,Democratic,0,,True,False
+156161,MO,Carrie Tergin,Republican,10461,66.39,True,False
+156161,MO,Becky Kroll,Democratic,5296,33.61,False,False
+156222,MO,Stephanie Hein,Democratic,8524,60.527,True,False
+156222,MO,Jacey Buckles,Republican,5559,39.473,False,False
+156290,MO,Yes,Nonpartisan,0,,False,False
+156290,MO,No,Nonpartisan,0,,False,False
+156152,MO,Jim Schulte,Republican,7642,62.481,True,False
+156152,MO,Jessica O’Neal-Slisz,Democratic,4589,37.519,False,False
+156134,MO,Will Jobe,Democratic,5024,60.363,True,False
+156134,MO,Michael Young,Republican,3299,39.637,False,False
+156213,MO,Brenden J. Kelley,Republican,9127,75.542,True,False
+156213,MO,Marvin Manring,Democratic,2128,17.613,False,False
+156213,MO,Racheal Martin,Independent,827,6.845,False,False
+156281,MO,James (Jimmy) Lappe,Democratic,0,,True,False
+156100,MO,Nick Schroer,Republican,40607,54.946,True,False
+156100,MO,Susan Shumway,Democratic,33296,45.054,False,False
+156136,MO,Tedi H. Rowland,Democratic,8050,61.856,True,False
+156136,MO,Robert Bruette,Republican,4964,38.144,False,False
+156261,MO,Eric Woods,Democratic,0,,True,False
+156105,MO,Raychel Proudie,Democratic,45166,82.644,True,False
+156105,MO,Vernon Norman,Republican,9485,17.356,False,False
+156127,MO,Tracey Steele,Democratic,9268,58.521,True,False
+156127,MO,Jerry Hickey,Republican,6569,41.479,False,False
+156173,MO,Rachel D’Souza,Democratic,8893,93.601,True,False
+156173,MO,Mike Hebron,Republican,608,6.399,False,False
+156188,MO,Richard W West,Republican,10008,57.061,True,False
+156188,MO,David Rogers,Democratic,7531,42.939,False,False
+156256,MO,Scott A. Lipke,Republican,0,,False,False
+156331,MO,Yes,Nonpartisan,0,,False,False
+156331,MO,No,Nonpartisan,0,,False,False
+156175,MO,Del Taylor,Democratic,8901,90.752,True,False
+156175,MO,Robert Vroman,Republican,907,9.248,False,False
+156300,MO,Yes,Nonpartisan,0,,False,False
+156300,MO,No,Nonpartisan,0,,False,False
+156336,MO,Yes,Nonpartisan,0,,False,False
+156336,MO,No,Nonpartisan,0,,False,False
+156205,MO,Brad Banderman,Republican,7549,60.615,True,False
+156205,MO,Amy Thompson,Democratic,4905,39.385,False,False
+156195,MO,John Simmons,Republican,10177,61.787,True,False
+156195,MO,Trent Leslie,Democratic,6294,38.213,False,False
+156295,MO,Yes,Nonpartisan,0,,False,False
+156295,MO,No,Nonpartisan,0,,False,False
+156207,MO,Keith Pritchard,Republican,2925,61.141,True,False
+156207,MO,Miguel Arellanes,Democratic,1859,38.859,False,False
+156307,MO,Yes,Nonpartisan,0,,False,False
+156307,MO,No,Nonpartisan,0,,False,False
+156151,MO,Tim Taylor,Republican,8233,65.336,True,False
+156151,MO,Hope Tinker,Democratic,4368,34.664,False,False
+156212,MO,Jim Kalberloh,Republican,9088,72.087,True,False
+156212,MO,Melissa Perry,Democratic,3519,27.913,False,False
+156234,MO,David A. Dolan,Republican,7238,72.605,True,False
+156234,MO,Casey Carlisle,Democratic,2731,27.395,False,False
+156110,MO,Tracy McCreery,Democratic,52453,63.44,True,False
+156110,MO,LaVanna Wrobley,Republican,30228,36.56,False,False
+156146,MO,Chad Perkins,Republican,8364,70.185,True,False
+156146,MO,Thomas D McBeth,Democratic,3127,26.24,False,False
+156146,MO,Sheri Jay,Libertarian,426,3.575,False,False
+156214,MO,Christopher D. Warwick,Republican,7372,55.617,True,False
+156214,MO,Shane Sawyer,Independent,3492,26.345,False,False
+156214,MO,Michael L. Martin,Democratic,2391,18.038,False,False
+156314,MO,Yes,Nonpartisan,0,,False,False
+156314,MO,No,Nonpartisan,0,,False,False
+156126,MO,Taylor Crouse,Republican,6386,55.924,True,False
+156126,MO,Luke Rae,Democratic,5033,44.076,False,False
+156219,MO,Katelyn Zach,Democratic,5711,61.074,True,False
+156219,MO,Jerry Angelo,Republican,3640,38.926,False,False
+156273,MO,Tonya Rush,Democratic,0,,True,False
+156117,MO,Phil Fox,Republican,8586,74.59,True,False
+156117,MO,Casey Scott,Democratic,2635,22.891,False,False
+156117,MO,Shelby Dreier,Libertarian,290,2.519,False,False
+156185,MO,Jaclyn Zimmermann,Democratic,10061,60.678,True,False
+156185,MO,Timothy Bosch,Republican,6520,39.322,False,False
+156189,MO,Dave Hinman,Republican,6622,51.029,True,False
+156189,MO,Don Crozier,Democratic,6355,48.971,False,False
+156257,MO,Kacey L. Proctor,Republican,0,,False,False
+156133,MO,Jeff Spicer,Democratic,6150,51.404,True,False
+156133,MO,Mike Steinmeyer,Republican,5814,48.596,False,False
+156194,MO,Mike Costlow,Republican,8229,53.76,True,False
+156194,MO,Stephen Scott,Democratic,7078,46.24,False,False
+156280,MO,Marty Joe Murray,Democratic,0,,True,False
+156294,MO,Yes,Nonpartisan,0,,False,False
+156294,MO,No,Nonpartisan,0,,False,False
+156316,MO,Yes,Nonpartisan,0,,False,False
+156316,MO,No,Nonpartisan,0,,False,False
+156160,MO,Willard Haley,Republican,8210,75.55,True,False
+156160,MO,Roger Korenberg,Democratic,2657,24.45,False,False
+156228,MO,Jeff Brown,Republican,8310,75.877,True,False
+156228,MO,Josh Ray,Democratic,2642,24.123,False,False
+156296,MO,Yes,Nonpartisan,0,,False,False
+156296,MO,No,Nonpartisan,0,,False,False
+156172,MO,Chanel Mosley,Democratic,9329,81.327,True,False
+156172,MO,Brandon Wilke,Republican,2142,18.673,False,False
+156233,MO,John Voss,Republican,5667,53.767,True,False
+156233,MO,Tim Palmer,Democratic,4390,41.651,False,False
+156233,MO,Greg Tlapek,Libertarian,483,4.583,False,False
+156255,MO,Aaron Koeppen,Republican,0,,False,False
+156109,MO,Jim Avery,Republican,35597,57.61,True,False
+156109,MO,Jeff Abney,Democratic,26193,42.39,False,False
+156323,MO,Yes,Nonpartisan,0,,False,False
+156323,MO,No,Nonpartisan,0,,False,False
+156167,MO,Wendy L. Hausman,Republican,7336,51.24,True,False
+156167,MO,Dale Conoyer,Democratic,6981,48.76,False,False
+156267,MO,Melissa A Douglas,Democratic,0,,True,False
+156111,MO,Ben Brown,Republican,44018,65.844,True,False
+156111,MO,Vicky Wors,Democratic,22834,34.156,False,False
+156204,MO,Amy DeClue,Republican,8372,70.662,True,False
+156204,MO,Sarah Rachel Puckett,Democratic,3476,29.338,False,False
+156272,MO,Gregg Bush,Democratic,0,,True,False
+156116,MO,Jeff Farnan,Republican,0,,True,False
+156330,MO,Yes,Nonpartisan,0,,False,False
+156330,MO,No,Nonpartisan,0,,False,False
+156199,MO,Phil Amato,Republican,7119,55.678,True,False
+156199,MO,Ashley Drury,Democratic,5667,44.322,False,False
+156118,MO,P. Jeremy Mosley,Republican,6667,66.187,True,False
+156118,MO,Corey Luebbering,Democratic,3406,33.813,False,False
+156211,MO,Dane Diehl,Republican,8110,72.853,True,False
+156211,MO,Lynda C Jones,Democratic,3022,27.147,False,False
+156279,MO,Kimberly-Ann Collins,Democratic,9260,93.715,True,False
+156279,MO,Michael Corey,Libertarian,621,6.285,False,False
+156123,MO,Josh Hurlbert,Republican,9364,58.576,True,False
+156123,MO,Amy Minich,Democratic,6622,41.424,False,False
+156145,MO,Mark Meirath,Republican,8323,54.638,True,False
+156145,MO,Tanya Lakins,Democratic,6910,45.362,False,False
+156238,MO,Jeff Shawan,Republican,6302,72.196,True,False
+156238,MO,Corretta Bishop,Democratic,2427,27.804,False,False
+156306,MO,Yes,Nonpartisan,0,,False,False
+156306,MO,No,Nonpartisan,0,,False,False
+156317,MO,Yes,Nonpartisan,0,,False,False
+156317,MO,No,Nonpartisan,0,,False,False
+156218,MO,Jeremy Dean,Democratic,4539,62.383,True,False
+156218,MO,Russ Gosselin,Republican,2737,37.617,False,False
+156254,MO,Edward L Page,Republican,0,,False,False
+156322,MO,Yes,Nonpartisan,0,,False,False
+156322,MO,No,Nonpartisan,0,,False,False
+156184,MO,David Robertson,Republican,6496,53.611,True,False
+156184,MO,Dan Schaefer,Democratic,5621,46.389,False,False
+156166,MO,Deanna Self,Republican,8632,56.704,True,False
+156166,MO,Amber Teson,Democratic,6591,43.296,False,False
+156245,MO,Joel Mace,Republican,0,,True,False
+156313,MO,Yes,Nonpartisan,0,,False,False
+156313,MO,No,Nonpartisan,0,,False,False
+156324,MO,Yes,Nonpartisan,0,,False,False
+156324,MO,No,Nonpartisan,0,,False,False
+156168,MO,Marlene Terry,Democratic,6922,91.043,True,False
+156168,MO,Laura Mitchell-Riley,Republican,681,8.957,False,False
+156293,MO,Yes,Nonpartisan,0,,False,False
+156293,MO,No,Nonpartisan,0,,False,False
+156329,MO,Yes,Nonpartisan,0,,False,False
+156329,MO,No,Nonpartisan,0,,False,False
+156159,MO,Matt Sergent,Republican,9029,73.038,True,False
+156159,MO,Michael D. Walbom,Democratic,3333,26.962,False,False
+156198,MO,Ed Callahan,Republican,7956,58.842,True,False
+156198,MO,Dave Rekosh,Democratic,5565,41.158,False,False
+156220,MO,Alex Riley,Republican,8577,54.644,True,False
+156220,MO,K. Grant,Democratic,7119,45.356,False,False
+156288,MO,Tori Schafer,Democratic,0,,True,False
+156139,MO,Michael Todd,Republican,7799,57.06,True,False
+156139,MO,Jennifer Cassidy,Democratic,5869,42.94,False,False
+156200,MO,Ann Moloney,Republican,7225,58.247,True,False
+156200,MO,Jessie Shepherd,Democratic,5179,41.753,False,False
+156108,MO,Lori Rook,Republican,45553,67.377,True,False
+156108,MO,Sean Falconer,Democratic,22056,32.623,False,False
+156144,MO,Martin (Marty) Jacobs,Democratic,9405,60.463,True,False
+156144,MO,Mary Hill,Republican,6150,39.537,False,False
+156237,MO,Steve W Jordan,Republican,8545,77.351,True,False
+156237,MO,Pam Proffitt-Rowland,Democratic,2502,22.649,False,False
+156227,MO,Melissa Schmidt,Republican,10968,83.451,True,False
+156227,MO,Darrel (Mike) Swofford,Democratic,2175,16.549,False,False
+156103,MO,Mike Deering,Republican,39000,64.807,True,False
+156103,MO,John Wells,Democratic,21179,35.193,False,False
+156239,MO,Keith Wayne Elliott,Republican,9518,78.785,True,False
+156239,MO,Les Majors,Democratic,2563,21.215,False,False
+156115,MO,Mike Jones,Republican,33284,50.423,True,False
+156115,MO,Shereka Barnes,Democratic,32725,49.577,False,False
+156183,MO,Matt Vitale,Democratic,9809,53.235,True,False
+156183,MO,Brad Christ,Republican,8362,45.382,False,False
+156183,MO,Shane Ferguson,Libertarian,255,1.384,False,False
+156244,MO,Scott Cupps,Republican,8799,75.69,True,False
+156244,MO,Chris Foster,Democratic,2826,24.31,False,False
+156266,MO,Tiffany Price,Democratic,0,,True,False
+156334,MO,Yes,Nonpartisan,0,,False,False
+156334,MO,No,Nonpartisan,0,,False,False
+156178,MO,Holly Jones,Republican,8551,51.649,True,False
+156178,MO,Jennifer Trickey,Democratic,8005,48.351,False,False
+156246,MO,Cheryle Perkins,Republican,8783,72.004,True,False
+156246,MO,Angela Thomas,Democratic,3415,27.996,False,False
+156122,MO,Jeremy Clevenger,Republican,8565,71.716,True,False
+156122,MO,Adrian Cooper,Democratic,3378,28.284,False,False
+156158,MO,Staci Czar,Democratic,6956,52.697,True,False
+156158,MO,Steve Baker,Republican,6244,47.303,False,False
+156251,MO,Josh Devine,Republican,0,,False,False
+156305,MO,Yes,Nonpartisan,0,,False,False
+156305,MO,No,Nonpartisan,0,,False,False
+156149,MO,Brendan Webber,Republican,7548,71.437,True,False
+156149,MO,Rich Gold,Democratic,3018,28.563,False,False
+156210,MO,Kevin Onstott,Republican,8866,76.662,True,False
+156210,MO,Tara Hallmark,Democratic,2699,23.338,False,False
+156221,MO,John Michael (Johnny) Chiles,Democratic,7327,63.602,True,False
+156221,MO,Michael Hasty,Republican,4193,36.398,False,False
+156321,MO,Yes,Nonpartisan,0,,False,False
+156321,MO,No,Nonpartisan,0,,False,False
+156165,MO,Tony Lovasco,Republican,6987,53.651,True,False
+156165,MO,Donald R Looney Jr,Democratic,6036,46.349,False,False
+156226,MO,Jamie Ray Gragg,Republican,9988,69.174,True,False
+156226,MO,Julia E. Curran,Democratic,4451,30.826,False,False
+156312,MO,Yes,Nonpartisan,0,,False,False
+156312,MO,No,Nonpartisan,0,,False,False
+156102,MO,Keri Ingle,Democratic,42462,55.244,True,False
+156102,MO,Jon Patterson,Republican,34401,44.756,False,False
+156124,MO,Dean VanSchoiack,Republican,8439,68.498,True,False
+156124,MO,Gena Puckett,Democratic,3881,31.502,False,False
+156217,MO,Bill Owen,Republican,10443,70.012,True,False
+156217,MO,Ashley Cossins,Democratic,4473,29.988,False,False
+156260,MO,Kenneth Jamison,Democratic,0,,True,False
+156104,MO,Rusty Black,Republican,40641,69.687,True,False
+156104,MO,Judy McNeece,Democratic,17678,30.313,False,False
+156197,MO,Cecelie Williams,Republican,8376,60.359,True,False
+156197,MO,Stacey Hagen,Democratic,5501,39.641,False,False
+156265,MO,Pattie Mansur,Democratic,0,,True,False
+156287,MO,Bridget Walsh Moore,Democratic,0,,True,False
+156333,MO,Yes,Nonpartisan,0,,False,False
+156333,MO,No,Nonpartisan,0,,False,False
+156131,MO,Susan Hoisington,Democratic,7642,59.185,True,False
+156131,MO,Bill Allen,Republican,5270,40.815,False,False
+156192,MO,Jewel Kelly,Democratic,8762,55.671,True,False
+156192,MO,Travis Wilson,Republican,6977,44.329,False,False
+87235,MO,Fred Wellman,Democratic,169523,51.142,True,False
+87235,MO,Ann Wagner,Republican,153171,46.208,False,False
+87235,MO,Brandon Coulter Daugherty,Libertarian,8784,2.65,False,False
+87239,MO,Chris Stigall,Republican,151374,58.703,True,False
+87239,MO,Josh Smead,Democratic,100460,38.958,False,False
+87239,MO,Andy Maidment,Libertarian,6031,2.339,False,False
+87241,MO,Jason Smith,Republican,152685,67.729,True,False
+87241,MO,Christopher Reichard,Democratic,65754,29.167,False,False
+87241,MO,Rebecca Sharpe Lombard,Libertarian,6997,3.104,False,False
+87236,MO,Bob Onder,Republican,149372,52.873,True,False
+87236,MO,Bethany Mann,Democratic,125433,44.399,False,False
+87236,MO,Jim Higgins,Libertarian,7708,2.728,False,False
+87234,MO,Wesley Bell,Democratic,189175,81.488,True,False
+87234,MO,Paul Berry,Republican,32362,13.94,False,False
+87234,MO,Tom Schmitz,Libertarian,10613,4.572,False,False
+87240,MO,Eric Burlison,Republican,158413,62.186,True,False
+87240,MO,Missi Hesketh,Democratic,90186,35.403,False,False
+87240,MO,Kevin Craig,Libertarian,6141,2.411,False,False
+87238,MO,Emanuel Cleaver,Democratic,179256,69.491,True,False
+87238,MO,Rick Brattin,Republican,72572,28.133,False,False
+87238,MO,Randall (Randy) Langkraehr,Libertarian,6128,2.376,False,False
+87237,MO,Mark Alford,Republican,154256,61.52,True,False
+87237,MO,Jordan Herrera,Democratic,89196,35.573,False,False
+87237,MO,Thomas Holbrook,Libertarian,7290,2.907,False,False

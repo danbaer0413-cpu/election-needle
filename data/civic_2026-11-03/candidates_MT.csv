@@ -1,0 +1,289 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+143053,MT,Yes,Nonpartisan,307112,65.559,True,False
+143053,MT,No,Nonpartisan,161338,34.441,False,False
+87249,MT,Annie Bukacek,Republican,51561,52.707,False,False
+87249,MT,Kevin Hamm,Democratic,46264,47.293,False,False
+87248,MT,Jeff Pattison,Republican,50407,65.338,False,False
+87248,MT,Angeline Cheek,Democratic,26741,34.662,False,False
+143052,MT,Yes,Nonpartisan,308586,65.407,True,False
+143052,MT,No,Nonpartisan,163205,34.593,False,False
+143051,MT,Yes,Nonpartisan,328131,68.215,True,False
+143051,MT,No,Nonpartisan,152897,31.785,False,False
+159545,MT,Republican,Republican,118424,51.741,False,False
+159545,MT,Democratic,Democratic,107240,46.854,False,False
+159545,MT,Libertarian,Libertarian,3215,1.405,False,False
+87250,MT,Amy Eddy,Nonpartisan,275739,59.394,True,False
+87250,MT,Dan Wilson,Nonpartisan,188516,40.606,False,False
+159544,MT,Republican,Republican,256234,54.743,False,False
+159544,MT,Democratic,Democratic,208551,44.556,False,False
+159544,MT,Independent,Independent,1816,0.388,False,False
+159544,MT,Libertarian,Libertarian,1465,0.313,False,False
+143023,MT,Daniel Zolnikov,Republican,5678,100.0,True,False
+144028,MT,Peter Strand,Democratic,3330,65.026,True,False
+144028,MT,Lawrence R Moore,Republican,1791,34.974,False,False
+144046,MT,Janet Ellis,Democratic,3182,60.714,True,False
+144046,MT,John J Looney Sr,Republican,2059,39.286,False,False
+143064,MT,Shane A Morigeau,Democratic,8431,100.0,True,False
+143079,MT,Mike Vinton,Republican,2631,69.806,True,False
+143079,MT,Gabriel Bradshaw,Democratic,1138,30.194,False,False
+143013,MT,Amy Regier,Republican,5176,59.735,True,False
+143013,MT,Kyle Waterman,Democratic,3489,40.265,False,False
+143031,MT,Jim Riley,Republican,4091,63.318,True,False
+143031,MT,Darren Fix,Democratic,2370,36.682,False,False
+144036,MT,Scott Demarois,Democratic,2898,63.192,True,False
+144036,MT,Suzzann Nordwick,Republican,1688,36.808,False,False
+144051,MT,Wayne Rusk,Republican,3314,59.993,True,False
+144051,MT,Archie Thomas,Democratic,2210,40.007,False,False
+143069,MT,Morgan Thiel,Republican,2769,81.947,True,False
+143069,MT,Jason Boeshore,Democratic,610,18.053,False,False
+143027,MT,Tom Millett,Republican,3789,75.358,True,False
+143027,MT,Jane Maahs,Democratic,1239,24.642,False,False
+144050,MT,Kim Dailey,Republican,4411,72.359,True,False
+144050,MT,Laura Jackson,Democratic,1685,27.641,False,False
+143036,MT,Ed Byrne,Republican,4510,75.355,True,False
+143036,MT,Maeve Kintzler,Democratic,1475,24.645,False,False
+144041,MT,Trish Schreiber,Republican,3632,66.667,True,False
+144041,MT,Shayne Morgan,Independent,1816,33.333,False,False
+144031,MT,Eric Matthews,Democratic,4090,63.313,True,False
+144031,MT,Owen Lang,Republican,2370,36.687,False,False
+143035,MT,Terry Falk,Republican,3288,68.543,True,False
+143035,MT,Catherine C Allen,Democratic,1509,31.457,False,False
+144040,MT,Mark Reinschmidt,Republican,3754,62.05,True,False
+144040,MT,Patrick Sullivan,Democratic,2046,33.818,False,False
+144040,MT,Greg Devries,Libertarian,250,4.132,False,False
+143001,MT,Yes,Nonpartisan,0,,False,False
+143001,MT,No,Nonpartisan,0,,False,False
+143016,MT,Llew Jones,Republican,7032,75.12,True,False
+143016,MT,Noy Holland,Democratic,2329,24.88,False,False
+144039,MT,Marc J Lee,Democratic,3478,66.134,True,False
+144039,MT,Trenin Bayless,Republican,1781,33.866,False,False
+143025,MT,Dennis Lenz,Republican,4985,57.03,True,False
+143025,MT,Julie Hippler,Democratic,3756,42.97,False,False
+143072,MT,Brandon Ler,Republican,3109,77.127,True,False
+143072,MT,Tristan Veverka,Democratic,922,22.873,False,False
+143006,MT,Yes,Nonpartisan,0,,False,False
+143006,MT,No,Nonpartisan,0,,False,False
+143024,MT,Emma Kerr-Carpenter,Democratic,4464,56.99,True,False
+143024,MT,Joanna Oblander,Republican,3369,43.01,False,False
+144029,MT,Brady Bremer,Democratic,3114,61.505,True,False
+144029,MT,Daniel Ricardo Martinez,Republican,1949,38.495,False,False
+144044,MT,Luke Muszkiewicz,Democratic,3593,60.194,True,False
+144044,MT,Chiko Olson,Republican,2376,39.806,False,False
+143062,MT,Andrea Olsen,Democratic,8732,100.0,True,False
+143020,MT,Eric Albus,Republican,5057,66.061,True,False
+143020,MT,Blake Borst,Democratic,2598,33.939,False,False
+143014,MT,Mark Noland,Republican,8520,68.743,True,False
+143014,MT,Patrick Fitzpatrick,Democratic,3874,31.257,False,False
+143029,MT,Paula Koch,Democratic,2797,54.501,True,False
+143029,MT,Shaun Pandina,Republican,2335,45.499,False,False
+144034,MT,Trevor Walter,Republican,4532,100.0,True,False
+143098,MT,Katie Fire Thunder,Democratic,4630,64.837,True,False
+143098,MT,Marc Greendorfer,Republican,2511,35.163,False,False
+143028,MT,Debo Powers,Democratic,3431,54.634,True,False
+143028,MT,Derek Peachey,Republican,2849,45.366,False,False
+144033,MT,Randy Chamberlin,Republican,3120,67.343,True,False
+144033,MT,Jocelyn Kent,Democratic,1513,32.657,False,False
+144048,MT,Joe Cohenour,Democratic,3376,62.196,True,False
+144048,MT,Aaron J Leas,Republican,2052,37.804,False,False
+143009,MT,Yes,Nonpartisan,94,87.037,False,False
+143009,MT,No,Nonpartisan,14,12.963,False,False
+144032,MT,Jedediah Hinkle,Republican,2457,53.251,True,False
+144032,MT,Logan Henke,Democratic,2157,46.749,False,False
+143018,MT,Steven Galloway,Republican,3680,54.382,True,False
+143018,MT,Valynda Holland,Democratic,3087,45.618,False,False
+143065,MT,Russel Miner,Republican,3579,69.468,True,False
+143065,MT,Paul Jefferson,Democratic,1573,30.532,False,False
+143055,MT,Scott Rosenzweig,Democratic,6950,56.339,True,False
+143055,MT,Jason Gunderson,Republican,5386,43.661,False,False
+144060,MT,Zooey Zephyr,Democratic,4951,100.0,True,False
+143017,MT,Margaret Mitchell,Democratic,3703,56.664,True,False
+143017,MT,Jessica Dyrdahl,Republican,2832,43.336,False,False
+143096,MT,Becky Edwards,Democratic,3654,55.406,True,False
+143096,MT,Bob Crank,Republican,2941,44.594,False,False
+144037,MT,Donavon Hawk,Democratic,2932,69.578,True,False
+144037,MT,Michael Saul,Republican,1282,30.422,False,False
+143045,MT,Steve Keller,Democratic,1988,50.611,False,False
+143045,MT,Melissa Nikolakakos,Republican,1940,49.389,False,False
+143063,MT,Willis Curdy,Democratic,7004,66.762,True,False
+143063,MT,Brad Tschida,Republican,3487,33.238,False,False
+143007,MT,Yes,Nonpartisan,0,,False,False
+143007,MT,No,Nonpartisan,0,,False,False
+143022,MT,Chris Rindal,Republican,8165,79.08,True,False
+143022,MT,Deanna J Daigrepont,Democratic,2160,20.92,False,False
+144027,MT,Joshua A Seckinger,Democratic,2868,59.738,True,False
+144027,MT,Esther Fishbaugh,Republican,1933,40.262,False,False
+143059,MT,Erin Farris-Olsen,Democratic,6084,65.426,True,False
+143059,MT,Dru Koester,Libertarian,3215,34.574,False,False
+143021,MT,Greg Kmetz,Republican,6393,74.859,True,False
+143021,MT,Stan Taylor,Democratic,2147,25.141,False,False
+143068,MT,Valerie Moore,Republican,3661,79.294,True,False
+143068,MT,Tess Fahlgren,Democratic,956,20.706,False,False
+143012,MT,Steve Gunderson,Republican,8339,75.678,True,False
+143012,MT,Jonathan Russell Jameson,Democratic,2680,24.322,False,False
+144063,MT,Jonathan Karlen,Democratic,3518,67.446,True,False
+144063,MT,Bryan Muzzana,Republican,1698,32.554,False,False
+143067,MT,Chisholm B Christensen,Republican,3649,100.0,True,False
+143011,MT,Yes,Nonpartisan,0,,False,False
+143011,MT,No,Nonpartisan,0,,False,False
+143026,MT,Michelle Bianco,Republican,4546,76.096,True,False
+143026,MT,Dakota V Adams,Democratic,1428,23.904,False,False
+143048,MT,Eric Tilleman,Republican,1848,51.419,True,False
+143048,MT,Rebecca Bogden-Richards,Democratic,1746,48.581,False,False
+143010,MT,Yes,Nonpartisan,84,77.064,False,False
+143010,MT,No,Nonpartisan,25,22.936,False,False
+143057,MT,Kelly Kortum,Democratic,6547,63.736,True,False
+143057,MT,Neal Ganser,Republican,3725,36.264,False,False
+144030,MT,Brian Close,Democratic,3333,62.792,True,False
+144030,MT,Joe Flynn,Republican,1975,37.208,False,False
+143094,MT,Brad Barker,Republican,4169,69.103,True,False
+143094,MT,Richard Gessling,Democratic,1864,30.897,False,False
+143038,MT,Finley Warden,Republican,2780,54.638,True,False
+143038,MT,Dalton Bradford,Democratic,2308,45.362,False,False
+143056,MT,Kathleen Williams,Democratic,5382,69.724,True,False
+143056,MT,Richard Aungier,Republican,2337,30.276,False,False
+144061,MT,Bob Carter,Democratic,3723,100.0,True,False
+143015,MT,Tyson T Running Wolf,Democratic,4044,62.015,True,False
+143015,MT,Christopher Paul Buckles,Republican,2477,37.985,False,False
+143084,MT,Denise Baum,Democratic,2406,58.985,True,False
+143084,MT,Bryce Walston,Republican,1673,41.015,False,False
+143046,MT,Trevor P Funseth,Republican,2511,58.273,True,False
+143046,MT,Lela Graham,Democratic,1798,41.727,False,False
+143061,MT,David Bedey,Republican,8532,73.864,True,False
+143061,MT,Stephen Leuchtman,Democratic,3019,26.136,False,False
+143005,MT,Yes,Nonpartisan,0,,False,False
+143005,MT,No,Nonpartisan,0,,False,False
+144056,MT,Shelly Fyant,Democratic,2992,59.166,True,False
+144056,MT,Charles Headley,Republican,2065,40.834,False,False
+143060,MT,Mary Ann Dunwell,Democratic,5851,50.549,True,False
+143060,MT,Stephen Lapraim,Republican,5724,49.451,False,False
+144065,MT,Sj Howell,Democratic,4095,83.674,True,False
+144065,MT,Michael Daniel Bowles,Republican,651,13.302,False,False
+144065,MT,Jc Windmueller,Libertarian,148,3.024,False,False
+143019,MT,George Nikolakakos,Republican,3965,52.096,True,False
+143019,MT,Mindy Leach,Democratic,3646,47.904,False,False
+143041,MT,Lona R Running Wolf,Democratic,2546,100.0,True,False
+144064,MT,Tom France,Democratic,3632,64.0,True,False
+144064,MT,Ryan Darling,Republican,2043,36.0,False,False
+143050,MT,Steve Gist,Republican,3017,70.722,True,False
+143050,MT,Jerry Ferderer,Democratic,1249,29.278,False,False
+143097,MT,Jamie L Isaly,Democratic,3515,61.559,True,False
+143097,MT,Joshua Congleton,Republican,2195,38.441,False,False
+143087,MT,Curtis Schomer,Republican,1760,50.257,False,False
+143087,MT,Tucker Colvin,Democratic,1742,49.743,False,False
+143049,MT,Steve Fitzpatrick,Republican,2355,58.292,True,False
+143049,MT,Pam Carroll,Democratic,1685,41.708,False,False
+144054,MT,Mark A Thane,Democratic,3412,62.172,True,False
+144054,MT,Lyn Hellegaard,Republican,2076,37.828,False,False
+143008,MT,Yes,Nonpartisan,0,,False,False
+143008,MT,No,Nonpartisan,0,,False,False
+143077,MT,Greg Oblander,Republican,4604,100.0,True,False
+143095,MT,Fiona B Nave,Republican,4576,100.0,True,False
+143039,MT,Paul Fielder,Republican,4245,73.621,True,False
+143039,MT,Colleen Hinds,Democratic,1521,26.379,False,False
+143054,MT,Forrest J Mandeville,Republican,7924,68.6,True,False
+143054,MT,Kelly Hale,Democratic,3627,31.4,False,False
+144059,MT,Robin Kendall,Democratic,4104,65.455,True,False
+144059,MT,Greg Woodward,Republican,2166,34.545,False,False
+143091,MT,Stacy Zinn,Republican,3519,61.704,True,False
+143091,MT,Elizabeth Heald,Democratic,2184,38.296,False,False
+143085,MT,Denise Joy,Democratic,2163,57.45,True,False
+143085,MT,Kim Welzenbach,Republican,1602,42.55,False,False
+144026,MT,Rio Roland,Democratic,2421,85.821,True,False
+144026,MT,Eric Jacobs,Republican,400,14.179,False,False
+143044,MT,Jane Weber,Democratic,1657,64.175,True,False
+143044,MT,Hannah Trebas,Republican,925,35.825,False,False
+143034,MT,Steven C Kelly,Republican,3730,69.292,True,False
+143034,MT,Kate McLaughlin,Democratic,1653,30.708,False,False
+143099,MT,Alanah Griffith,Democratic,3035,56.225,True,False
+143099,MT,Greg Leman,Republican,2363,43.775,False,False
+143043,MT,"Bruce ""butch"" Gillespie",Republican,3708,100.0,True,False
+143058,MT,Caleb Hinkle,Republican,5641,60.806,True,False
+143058,MT,Carl Anderson,Democratic,3636,39.194,False,False
+143080,MT,Jade Sooktis,Democratic,1674,100.0,True,False
+143042,MT,Justin W Cleveland,Republican,3751,70.034,True,False
+143042,MT,Chris Bechtold,Democratic,1605,29.966,False,False
+143089,MT,Stewart Harris,Republican,3003,61.79,True,False
+143089,MT,Mark Peters,Democratic,1857,38.21,False,False
+144062,MT,Melody J Cunningham,Democratic,3440,66.874,True,False
+144062,MT,Michael P Hagestad,Republican,1704,33.126,False,False
+144052,MT,Terry Nelson,Republican,4251,70.98,True,False
+144052,MT,Bill Jones,Democratic,1738,29.02,False,False
+143070,MT,Natalie Oneal,Democratic,1724,100.0,True,False
+143088,MT,Charlie Loveridge,Republican,2088,54.403,True,False
+143088,MT,Rebecca Noell,Democratic,1750,45.597,False,False
+143032,MT,Courtenay Sprunger,Republican,2195,55.767,True,False
+143032,MT,Madison Evans,Democratic,1741,44.233,False,False
+143047,MT,Jason Lorang,Republican,1325,53.622,True,False
+143047,MT,Neal Miller,Democratic,1146,46.378,False,False
+144042,MT,Jane Gillette,Republican,4582,100.0,True,False
+143078,MT,Kerri Seekins Crowe,Republican,2269,61.077,True,False
+143078,MT,Melissa Smith,Democratic,1446,38.923,False,False
+143093,MT,Lee Deming,Republican,2610,68.432,True,False
+143093,MT,Janine Coole,Democratic,1204,31.568,False,False
+143037,MT,Tracy A Sharp,Republican,4200,65.996,True,False
+143037,MT,Cindy L Bruckner,Democratic,2164,34.004,False,False
+143002,MT,Scott W Herring,Nonpartisan,246,63.077,False,False
+143002,MT,Brett Irigoin,Nonpartisan,144,36.923,False,False
+143092,MT,Troy Charbonneau,Republican,3664,72.098,True,False
+143092,MT,Matthew J Hankins,Democratic,1418,27.902,False,False
+143004,MT,Yes,Nonpartisan,0,,False,False
+143004,MT,No,Nonpartisan,0,,False,False
+143083,MT,Katie Zolnikov,Republican,2782,62.587,True,False
+143083,MT,Mike Eaton,Democratic,1663,37.413,False,False
+143073,MT,Jerry Schillinger,Republican,4391,86.882,True,False
+143073,MT,Jasmine Erickson,Democratic,663,13.118,False,False
+143003,MT,Yes,Nonpartisan,190,79.498,False,False
+143003,MT,No,Nonpartisan,49,20.502,False,False
+143082,MT,Larry Brewster,Republican,2119,58.682,True,False
+143082,MT,Rudolf Haden,Democratic,1492,41.318,False,False
+144055,MT,Jeff Stanek,Republican,4301,100.0,True,False
+144045,MT,Megan Lane,Democratic,2603,57.819,True,False
+144045,MT,Katie Fruits,Republican,1899,42.181,False,False
+143081,MT,Sidney Chip Fitzpatrick,Democratic,1622,54.723,True,False
+143081,MT,Jeremiah Jabs,Republican,1342,45.277,False,False
+143000,MT,Daniel Guzynski,Nonpartisan,96,100.0,False,False
+143040,MT,Thedis B Crowe,Democratic,1914,59.33,True,False
+143040,MT,Ralph Foster,Republican,1312,40.67,False,False
+144035,MT,Shannon Maness,Republican,3592,68.825,True,False
+144035,MT,Kobi Craddock,Democratic,1627,31.175,False,False
+144053,MT,Greg Overstreet,Republican,4028,65.21,True,False
+144053,MT,Evan Schroedel,Democratic,2149,34.79,False,False
+143071,MT,Mike Fox,Democratic,1941,100.0,True,False
+143086,MT,James Reavis,Democratic,1605,60.772,True,False
+143086,MT,John Maxwell,Republican,1036,39.228,False,False
+143030,MT,Braxton Mitchell,Republican,3790,70.735,True,False
+143030,MT,Luca Welle,Democratic,1568,29.265,False,False
+144049,MT,Roy Caldwell,Republican,3815,63.194,True,False
+144049,MT,Tia Nelson,Democratic,2222,36.806,False,False
+144043,MT,Randyn Gregg,Republican,3956,77.371,True,False
+144043,MT,Mark White,Democratic,1157,22.629,False,False
+144058,MT,Ben Davis,Democratic,3918,68.092,True,False
+144058,MT,Roy Handley,Republican,1836,31.908,False,False
+143076,MT,Shane Klakken,Republican,3810,74.283,True,False
+143076,MT,Tracey Miller Karcher,Democratic,1319,25.717,False,False
+143066,MT,Paul Tuss,Democratic,2157,66.904,True,False
+143066,MT,Jordan Ophus,Libertarian,1067,33.096,False,False
+144057,MT,Monica Tranel,Democratic,4107,100.0,True,False
+143075,MT,Ty Linger,Republican,2766,73.059,True,False
+143075,MT,Benjamin Keyes,Democratic,1020,26.941,False,False
+143090,MT,Jodee Etchart,Republican,2544,57.531,True,False
+143090,MT,Precious McKenzie,Democratic,1878,42.469,False,False
+144038,MT,Jennifer Lynch,Democratic,2425,66.933,True,False
+144038,MT,Gerry Kennedy,Republican,1198,33.067,False,False
+143074,MT,Gary Parry,Republican,3822,80.599,True,False
+143074,MT,Natalie Parker,Democratic,920,19.401,False,False
+144047,MT,Pete Elverum,Democratic,2695,60.426,True,False
+144047,MT,Clinton McKay,Republican,1765,39.574,False,False
+143033,MT,Lukas Schubert,Republican,3135,67.145,True,False
+143033,MT,Calvin Lime,Democratic,1534,32.855,False,False
+87246,MT,Troy Downing,Republican,128186,58.105,True,False
+87246,MT,Brian Miller,Democratic,71179,32.265,False,False
+87246,MT,Michael Eisenhauer,Independent,17199,7.796,False,False
+87246,MT,Patrick McCracken,Libertarian,4046,1.834,False,False
+87247,MT,Kurt Alme,Republican,235693,48.172,True,False
+87247,MT,Seth Bodnar,Independent,184578,37.725,False,False
+87247,MT,Alani Bankhead,Democratic,59984,12.26,False,False
+87247,MT,Kyle Austin,Libertarian,9018,1.843,False,False
+87245,MT,Sam Forstag,Democratic,135136,50.478,True,False
+87245,MT,Aaron Flint,Republican,124854,46.638,False,False
+87245,MT,Nick Sheedy,Libertarian,7721,2.884,False,False

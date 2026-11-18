@@ -1,0 +1,1020 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+180777,NJ,Monmouth County Rumson Borough Board of Education,2026-11-03,99.9,,False,4,1,5975,2026-11-18T15:43+00:00
+180947,NJ,Passaic County Members of Board of Education Woodland Park,2026-11-03,99.9,,False,4,1,7259,2026-11-18T15:43+00:00
+180925,NJ,Passaic County Members of Board of Education Pompton Lakes,2026-11-03,99.9,,False,5,1,6059,2026-11-18T15:43+00:00
+180423,NJ,Burlington County Pemberton Township Township Council,2026-11-03,94,,False,10,1,12812,2026-11-18T15:43+00:00
+180792,NJ,Monmouth County Shore Regional Board of Education (West Long Branch) (2 Year Unexpire,2026-11-03,99.9,,False,1,1,356,2026-11-18T15:43+00:00
+180578,NJ,Essex County Roseland Borough Council,2026-11-03,99.9,,False,4,1,5529,2026-11-18T15:43+00:00
+180364,NJ,Atlantic County Mullica Member of the GEHR Board of Education,2026-11-03,99.9,,False,1,1,0,2026-11-18T15:43+00:00
+180534,NJ,Cape May County Member of the Council 1st Ward-City of North Wildwood,2026-11-03,80,,False,2,1,694,2026-11-18T15:43+00:00
+180224,NJ,Morris County Jefferson Township Mayor,2026-11-03,99.9,,False,2,1,5683,2026-11-18T15:43+00:00
+180401,NJ,Burlington County Delran Township Council Ward 1,2026-11-03,86,,False,3,1,1774,2026-11-18T15:43+00:00
+180379,NJ,Atlantic County Somers PT Members of the Local Board of Education,2026-11-03,99.9,,False,3,1,7066,2026-11-18T15:43+00:00
+180165,NJ,Mercer County Hopewell Borough Fire Commissioner,2026-11-03,67,,False,3,1,1331,2026-11-18T15:43+00:00
+180335,NJ,Atlantic County Buena Borough Council,2026-11-03,99.9,,False,2,1,1724,2026-11-18T15:43+00:00
+180025,NJ,Cumberland County Downe Board of Education - Unexpired 1 Year Term,2026-11-03,67,,False,1,1,11,2026-11-18T15:43+00:00
+180010,NJ,Cumberland County Greenwich Township Committee,2026-11-03,50,,False,4,1,210,2026-11-18T15:43+00:00
+180980,NJ,Somerset County Board of Education Bedminster,2026-11-03,99.9,,False,3,1,4271,2026-11-18T15:43+00:00
+180958,NJ,Somerset County Township Council Franklin Ward 1,2026-11-03,99.9,,False,2,1,3974,2026-11-18T15:43+00:00
+180744,NJ,Monmouth County Holmdel Township Board of Education,2026-11-03,99.9,,False,7,1,16572,2026-11-18T15:43+00:00
+180626,NJ,Middlesex County Plainsboro Township Committee,2026-11-03,93,,False,2,1,5259,2026-11-18T15:43+00:00
+180803,NJ,Monmouth County Board of Fire Commissioners Tinton Falls Borough FD2,2026-11-03,99.9,,False,2,1,2558,2026-11-18T15:43+00:00
+180397,NJ,Burlington County Chesterfield Township Township Committee,2026-11-03,80,,False,5,1,4850,2026-11-18T15:43+00:00
+180759,NJ,Monmouth County Manasquan Board of Education (Full Term),2026-11-03,99.9,,False,3,1,4140,2026-11-18T15:43+00:00
+180545,NJ,Cape May County Board of Education-Lower Cape May Regional-West Cape May,2026-11-03,67,,False,2,1,412,2026-11-18T15:43+00:00
+180043,NJ,Gloucester County Clayton Board of Education,2026-11-03,99.9,,False,3,1,4032,2026-11-18T15:43+00:00
+180412,NJ,Burlington County Mansfield Township Township Committee,2026-11-03,89,,False,6,1,7942,2026-11-18T15:43+00:00
+180198,NJ,Morris County Butler Borough Board of Education,2026-11-03,99.9,,False,5,1,4455,2026-11-18T15:43+00:00
+180368,NJ,Atlantic County Northfield Members of the Mainland Regional Board of Education,2026-11-03,99.9,,False,3,1,4209,2026-11-18T15:43+00:00
+180346,NJ,Atlantic County Egg Harbor TWP Members of the Local Board of Education,2026-11-03,99.9,,False,7,1,32056,2026-11-18T15:43+00:00
+180132,NJ,Hudson County Town of Guttenberg Board of Education-3 Years,2026-11-03,99.9,,False,2,1,952,2026-11-18T15:43+00:00
+180622,NJ,Middlesex County Piscataway Township Council Ward 1,2026-11-03,92,,False,3,1,4685,2026-11-18T15:43+00:00
+180191,NJ,Morris County Boonton Township Committee,2026-11-03,99.9,,False,5,1,4302,2026-11-18T15:43+00:00
+180307,NJ,Salem County Pennsville Township Committee,2026-11-03,0,,False,3,1,5618,2026-11-18T15:43+00:00
+180285,NJ,Morris County Wharton Borough Mayor,2026-11-03,99.9,,False,3,1,2297,2026-11-18T15:43+00:00
+180782,NJ,Monmouth County Tinton Falls Schools Board of Education (Shrewsbury Township),2026-11-03,99.9,,False,1,1,9,2026-11-18T15:43+00:00
+180152,NJ,Mercer County Surrogate,2026-11-03,94,,False,3,1,108371,2026-11-18T15:43+00:00
+180930,NJ,Passaic County Members of Board of Education Prospect Park,2026-11-03,99.9,,False,4,1,1547,2026-11-18T15:43+00:00
+180716,NJ,Monmouth County Township Committee Upper Freehold Township,2026-11-03,99.9,,False,2,1,2070,2026-11-18T15:43+00:00
+180886,NJ,Ocean County Seaside Park Crsd Member of the Board of Education,2026-11-03,99.9,,False,1,1,175,2026-11-18T15:43+00:00
+180583,NJ,Essex County West Orange Councilmembers At-Large,2026-11-03,99.9,,False,5,1,27861,2026-11-18T15:43+00:00
+180753,NJ,Monmouth County Little Silver Board of Education,2026-11-03,99.9,,False,7,1,6244,2026-11-18T15:43+00:00
+180731,NJ,Monmouth County Freehold Regional HS Dist Board of Education (Rep Colts Neck),2026-11-03,99.9,,False,3,1,13314,2026-11-18T15:43+00:00
+180517,NJ,Burlington County Riverside Township Fire District No. 1 Board of Fire Commissioners,2026-11-03,89,,False,3,1,2394,2026-11-18T15:43+00:00
+180687,NJ,Monmouth County Township Committee Hazlet Township,2026-11-03,99.9,,False,3,1,7152,2026-11-18T15:43+00:00
+180384,NJ,Atlantic County Weymouth Member of the Board of Fire Comm,2026-11-03,99.9,,False,1,1,0,2026-11-18T15:43+00:00
+180170,NJ,Mercer County Hopewell Township Hopewell Valley Regional - Members of the Board of Education,2026-11-03,93,,False,4,1,16627,2026-11-18T15:43+00:00
+180340,NJ,Atlantic County Corbin City Mayor,2026-11-03,99.9,,False,1,1,177,2026-11-18T15:43+00:00
+180318,NJ,Salem County Salem City School Board,2026-11-03,0,,False,3,1,1415,2026-11-18T15:43+00:00
+180104,NJ,Gloucester County Woodbury Council Ward 1,2026-11-03,99.9,,False,3,1,905,2026-11-18T15:43+00:00
+180185,NJ,Mercer County West Windsor Township West Windsor-Plainsboro Regional - Members of the Board of Education,2026-11-03,96,,False,4,1,15626,2026-11-18T15:43+00:00
+180963,NJ,Somerset County Mayor Millstone,2026-11-03,99.9,,False,2,1,159,2026-11-18T15:43+00:00
+180749,NJ,Monmouth County Keansburg Board of Education,2026-11-03,99.9,,False,4,1,4283,2026-11-18T15:43+00:00
+180119,NJ,Hudson County Commissioner District 3,2026-11-03,91,,False,2,1,13156,2026-11-18T15:43+00:00
+180897,NJ,Ocean County Township of Lacey Public Question,2026-11-03,99.9,,False,2,1,11522,2026-11-18T15:43+00:00
+180786,NJ,Monmouth County Tinton Falls Schools Board of Education (Tinton Falls),2026-11-03,99.9,,False,4,1,11104,2026-11-18T15:43+00:00
+180764,NJ,Monmouth County Middletown Township Board of Education,2026-11-03,99.9,,False,4,1,41190,2026-11-18T15:43+00:00
+180550,NJ,Cape May County Board of Education-Borough of Wildwood Crest(Unex),2026-11-03,83,,False,3,1,970,2026-11-18T15:43+00:00
+180720,NJ,Monmouth County Matawan-Aberdeen Regional Board of Education (Aberdeen),2026-11-03,99.9,,False,5,1,10798,2026-11-18T15:43+00:00
+180698,NJ,Monmouth County Borough Council Manasquan Borough,2026-11-03,99.9,,False,5,1,5976,2026-11-18T15:43+00:00
+180484,NJ,Burlington County Medford Township Board of Education 2 Year Unexpired,2026-11-03,95,,False,22,1,7194,2026-11-18T15:43+00:00
+180373,NJ,Atlantic County Port Republic Council Ward 1,2026-11-03,99.9,,False,1,1,0,2026-11-18T15:43+00:00
+180543,NJ,Cape May County Member of the Township Committee-Township of Upper,2026-11-03,94,,False,2,1,3625,2026-11-18T15:43+00:00
+180137,NJ,Hudson County Town of Harrison Council Ward 3,2026-11-03,99.9,,False,2,1,747,2026-11-18T15:43+00:00
+180637,NJ,Middlesex County Carteret Board of Education Unexpired,2026-11-03,95,,False,2,1,3581,2026-11-18T15:43+00:00
+180142,NJ,Hudson County Town of Kearny Council Ward 1,2026-11-03,99.9,,False,2,1,1315,2026-11-18T15:43+00:00
+180504,NJ,Burlington County Chesterfield Township Fire District No. 1 Board of Fire Commissioners,2026-11-03,80,,False,13,1,146,2026-11-18T15:43+00:00
+180290,NJ,Salem County Commissioner - 1 Year Unexpired Term,2026-11-03,0,,False,3,1,19073,2026-11-18T15:43+00:00
+180076,NJ,Gloucester County Newfield Mayor,2026-11-03,99.9,,False,3,1,689,2026-11-18T15:43+00:00
+180246,NJ,Morris County Mendham Township Board of Education - West Morris Regional,2026-11-03,99.9,,False,2,1,2124,2026-11-18T15:43+00:00
+180935,NJ,Passaic County Members of Borough Council Totowa,2026-11-03,99.9,,False,3,1,5817,2026-11-18T15:43+00:00
+180113,NJ,Gloucester County Woolwich Township Committee,2026-11-03,99.9,,False,5,1,11460,2026-11-18T15:43+00:00
+180091,NJ,Gloucester County Wenonah Mayor,2026-11-03,99.9,,False,3,1,943,2026-11-18T15:43+00:00
+180869,NJ,Ocean County Lavallette Board of Education 1 Year Unexpired Term,2026-11-03,99.9,,False,2,1,712,2026-11-18T15:43+00:00
+180047,NJ,Gloucester County Elk Township Committee,2026-11-03,99.9,,False,5,1,3737,2026-11-18T15:43+00:00
+180736,NJ,Monmouth County Rumson-Fair Haven Regional HS Board of Education (Fair Haven),2026-11-03,99.9,,False,2,1,2189,2026-11-18T15:43+00:00
+180522,NJ,Cape May County Board of Education-City of Cape May,2026-11-03,83,,False,3,1,1561,2026-11-18T15:43+00:00
+180692,NJ,Monmouth County Mayor Keyport Borough,2026-11-03,99.9,,False,3,1,2647,2026-11-18T15:43+00:00
+180670,NJ,Monmouth County Borough Council Allentown Borough,2026-11-03,99.9,,False,3,1,1069,2026-11-18T15:43+00:00
+180456,NJ,Burlington County Medford Lakes Borough Board of Education,2026-11-03,80,,False,22,1,1007,2026-11-18T15:43+00:00
+180537,NJ,Cape May County Board of Education-City of Ocean City,2026-11-03,95,,False,8,1,12659,2026-11-18T15:43+00:00
+180323,NJ,Atlantic County Sheriff,2026-11-03,99.9,,False,2,1,91456,2026-11-18T15:43+00:00
+180109,NJ,Gloucester County Woodbury Heights Mayor,2026-11-03,99.9,,False,3,1,1019,2026-11-18T15:43+00:00
+180471,NJ,Burlington County Southampton Township Board of Education,2026-11-03,89,,False,15,1,9224,2026-11-18T15:43+00:00
+180257,NJ,Morris County Mount Arlington Borough Mayor,2026-11-03,99.9,,False,2,1,1820,2026-11-18T15:43+00:00
+180146,NJ,Hudson County Town of Kearny Board of Education-3 Years,2026-11-03,99.9,,False,6,1,10888,2026-11-18T15:43+00:00
+180124,NJ,Hudson County Commissioner District 8,2026-11-03,99.9,,False,2,1,13821,2026-11-18T15:43+00:00
+180902,NJ,Passaic County Members of the Board of County Commissioners,2026-11-03,99.9,,False,5,1,254447,2026-11-18T15:43+00:00
+180080,NJ,Gloucester County Paulsboro Board of Education,2026-11-03,99.9,,False,4,1,3038,2026-11-18T15:43+00:00
+180058,NJ,Gloucester County Harrison Township Committee,2026-11-03,99.9,,False,3,1,5548,2026-11-18T15:43+00:00
+180555,NJ,Essex County Board of County Comissioners at Large,2026-11-03,97,,False,9,1,756443,2026-11-18T15:43+00:00
+180836,NJ,Ocean County Ocean Gate Mayor,2026-11-03,99.9,,False,2,1,541,2026-11-18T15:43+00:00
+180725,NJ,Monmouth County Henry Hudson Regional Sch Dist Board of Education (Atlantic Highlands) (1,2026-11-03,99.9,,False,1,1,244,2026-11-18T15:43+00:00
+180895,NJ,Ocean County Tuckerton Member of the Board of Education,2026-11-03,99.9,,False,1,1,45,2026-11-18T15:43+00:00
+180489,NJ,Burlington County Eastampton Township Rancocas Valley Regional School District Board of Education,2026-11-03,86,,False,8,1,2040,2026-11-18T15:43+00:00
+180659,NJ,Middlesex County South Amboy Board of Education Unexpired,2026-11-03,90,,False,3,1,1930,2026-11-18T15:43+00:00
+180996,NJ,Somerset County Board of Education North Plainfield (2),2026-11-03,99.9,,False,2,1,4187,2026-11-18T15:43+00:00
+180494,NJ,Burlington County Medford Township Lenape Regional High School District Board of Education 2 Year Unexpired,2026-11-03,95,,False,9,1,7587,2026-11-18T15:43+00:00
+180856,NJ,Ocean County Beach Haven Member of the Board of Education,2026-11-03,99.9,,False,3,1,791,2026-11-18T15:43+00:00
+180642,NJ,Middlesex County Edison Board of Education,2026-11-03,99,,False,7,1,67975,2026-11-18T15:43+00:00
+180428,NJ,Burlington County Riverton Borough Borough Council,2026-11-03,75,,False,6,1,1836,2026-11-18T15:43+00:00
+180797,NJ,Monmouth County Board of Fire Commissioners Manalapan Township FD2,2026-11-03,99.9,,False,3,1,6650,2026-11-18T15:43+00:00
+180295,NJ,Salem County Elmer Borough Council,2026-11-03,0,,False,3,1,805,2026-11-18T15:43+00:00
+180465,NJ,Burlington County Palmyra Borough Board of Education,2026-11-03,90,,False,23,1,6149,2026-11-18T15:43+00:00
+180443,NJ,Burlington County Burlington City Board of Education,2026-11-03,85,,False,10,1,5712,2026-11-18T15:43+00:00
+180229,NJ,Morris County Kinnelon Borough Mayor,2026-11-03,99.9,,False,2,1,3082,2026-11-18T15:43+00:00
+180406,NJ,Burlington County Evesham Township Mayor,2026-11-03,97,,False,20,1,15861,2026-11-18T15:43+00:00
+180096,NJ,Gloucester County Westville Mayor,2026-11-03,99.9,,False,3,1,1157,2026-11-18T15:43+00:00
+180874,NJ,Ocean County Manchester Member of the Board of Education,2026-11-03,99.9,,False,7,1,37993,2026-11-18T15:43+00:00
+180052,NJ,Gloucester County Glassboro Mayor,2026-11-03,99.9,,False,3,1,5675,2026-11-18T15:43+00:00
+180030,NJ,Cumberland County Greenwich Board of Education - Unexpired Term,2026-11-03,50,,False,2,1,245,2026-11-18T15:43+00:00
+180207,NJ,Morris County Chester Borough/Township Board of Education,2026-11-03,99.9,,False,4,1,7026,2026-11-18T15:43+00:00
+180889,NJ,Ocean County Stafford Srhsd Member of the Board of Education,2026-11-03,99.9,,False,3,1,13277,2026-11-18T15:43+00:00
+180675,NJ,Monmouth County Borough Council Belmar Borough,2026-11-03,99.9,,False,3,1,2567,2026-11-18T15:43+00:00
+180461,NJ,Burlington County Mount Laurel Township Board of Education 2 Year Unexpired,2026-11-03,97,,False,19,1,13218,2026-11-18T15:43+00:00
+180823,NJ,Ocean County Jackson Member of Council,2026-11-03,99.9,,False,7,1,42771,2026-11-18T15:43+00:00
+180808,NJ,Monmouth County Deal Question,2026-11-03,99.9,,False,2,1,161,2026-11-18T15:43+00:00
+180498,NJ,Burlington County Southampton Township Lenape Regional High School District Board of Education,2026-11-03,89,,False,13,1,3182,2026-11-18T15:43+00:00
+180476,NJ,Burlington County Washington Township Board of Education 2 Year Unexpired,2026-11-03,50,,False,1,1,10,2026-11-18T15:43+00:00
+180262,NJ,Morris County Mount Olive Township Board of Education,2026-11-03,99.9,,False,4,1,19055,2026-11-18T15:43+00:00
+180432,NJ,Burlington County Springfield Township Municipal Public Question,2026-11-03,75,,False,2,1,1215,2026-11-18T15:43+00:00
+180609,NJ,Middlesex County Cranbury Township Committee,2026-11-03,75,,False,3,1,1898,2026-11-18T15:43+00:00
+180907,NJ,Passaic County Council-at-Large Clifton,2026-11-03,99.9,,False,20,1,121360,2026-11-18T15:43+00:00
+180085,NJ,Gloucester County Swedesboro Council,2026-11-03,99.9,,False,4,1,997,2026-11-18T15:43+00:00
+180255,NJ,Morris County Morris Plains Borough Board of Education,2026-11-03,99.9,,False,6,1,5892,2026-11-18T15:43+00:00
+180841,NJ,Ocean County Point Pleasant Mayor,2026-11-03,99.9,,False,2,1,5771,2026-11-18T15:43+00:00
+180019,NJ,Cumberland County Commercial Board of Education - Unexpired Term,2026-11-03,60,,False,2,1,748,2026-11-18T15:43+00:00
+180216,NJ,Morris County East Hanover Board of Education - Hanover Park Regional,2026-11-03,99.9,,False,2,1,3172,2026-11-18T15:43+00:00
+181362,NJ,Somerset County Board of Education South Bound Brook,2026-11-03,99.9,,False,3,1,1333,2026-11-18T15:43+00:00
+180179,NJ,Mercer County Princeton Princeton Public Schools - Members of the Board of Education,2026-11-03,95,,False,4,1,20175,2026-11-18T15:43+00:00
+180157,NJ,Mercer County Ewing Township Council,2026-11-03,96,,False,5,1,24554,2026-11-18T15:43+00:00
+180647,NJ,Middlesex County Middlesex Board of Education,2026-11-03,91,,False,4,1,7295,2026-11-18T15:43+00:00
+180817,NJ,Ocean County Beach Haven Member of Council,2026-11-03,99.9,,False,3,1,779,2026-11-18T15:43+00:00
+180002,NJ,Cumberland County Bridgeton Mayor,2026-11-03,92,,False,3,1,2774,2026-11-18T15:43+00:00
+180588,NJ,Essex County West Essex Regional School District Bond Proposal 1,2026-11-03,99.9,,False,2,1,7949,2026-11-18T15:43+00:00
+180758,NJ,Monmouth County Manalapan-Englishtown Board of Education (Manalapan) (1 Year Unexpire,2026-11-03,99.9,,False,2,1,8727,2026-11-18T15:43+00:00
+180448,NJ,Burlington County Eastampton Township Board of Education,2026-11-03,86,,False,21,1,2308,2026-11-18T15:43+00:00
+180234,NJ,Morris County Lincoln Park Borough Board of Education,2026-11-03,99.9,,False,3,1,4364,2026-11-18T15:43+00:00
+180603,NJ,Essex County Verona Board of Education (Unexpired Term),2026-11-03,99.9,,False,3,1,4636,2026-11-18T15:43+00:00
+180389,NJ,Burlington County Burlington City Board of Island Managers - Manager,2026-11-03,85,,False,15,1,4080,2026-11-18T15:43+00:00
+180559,NJ,Essex County Board of County Comissioners (4th County Commissioner District),2026-11-03,99.9,,False,2,1,58486,2026-11-18T15:43+00:00
+180249,NJ,Morris County Mine Hill Township Board of Education,2026-11-03,99.9,,False,1,1,183,2026-11-18T15:43+00:00
+180035,NJ,Cumberland County Millville Board of Education,2026-11-03,95,,False,17,1,16882,2026-11-18T15:43+00:00
+180212,NJ,Morris County Dover Town Council Ward 3,2026-11-03,99.9,,False,2,1,764,2026-11-18T15:43+00:00
+180190,NJ,Morris County Boonton Town Council Ward 4,2026-11-03,99.9,,False,3,1,869,2026-11-18T15:43+00:00
+180968,NJ,Somerset County Mayor Peapack-Gladstone,2026-11-03,99.9,,False,2,1,832,2026-11-18T15:43+00:00
+180850,NJ,Ocean County Surf City Member of Council,2026-11-03,99.9,,False,3,1,920,2026-11-18T15:43+00:00
+180828,NJ,Ocean County Lavallette Mayor,2026-11-03,99.9,,False,2,1,857,2026-11-18T15:43+00:00
+180813,NJ,Ocean County Barnegat Light Mayor,2026-11-03,99.9,,False,2,1,318,2026-11-18T15:43+00:00
+180983,NJ,Somerset County Board of Education Branchburg,2026-11-03,99.9,,False,4,1,10463,2026-11-18T15:43+00:00
+180769,NJ,Monmouth County Township of Ocean Board of Education,2026-11-03,99.9,,False,4,1,18101,2026-11-18T15:43+00:00
+180267,NJ,Morris County Parsippany-Troy Hills Township Board of Education,2026-11-03,99.9,,False,8,1,36295,2026-11-18T15:43+00:00
+180437,NJ,Burlington County Willingboro Township Township Council Unexpired,2026-11-03,97,,False,7,1,11155,2026-11-18T15:43+00:00
+180614,NJ,Middlesex County Jamesburg Borough Council,2026-11-03,80,,False,3,1,2001,2026-11-18T15:43+00:00
+180592,NJ,Essex County Glen Ridge Board of Education,2026-11-03,99.9,,False,3,1,5940,2026-11-18T15:43+00:00
+180570,NJ,Essex County Glen Ridge Borough Council,2026-11-03,99.9,,False,2,1,3693,2026-11-18T15:43+00:00
+180356,NJ,Atlantic County Hamilton Members of the Local Board of Education,2026-11-03,99.9,,False,6,1,17076,2026-11-18T15:43+00:00
+180846,NJ,Ocean County Ship Bottom Mayor,2026-11-03,99.9,,False,3,1,642,2026-11-18T15:43+00:00
+180361,NJ,Atlantic County Linwood Members of the Local Board of Education,2026-11-03,99.9,,False,3,1,5767,2026-11-18T15:43+00:00
+180531,NJ,Cape May County Member of the Township Committee-Township of Middle,2026-11-03,95,,False,2,1,4972,2026-11-18T15:43+00:00
+180509,NJ,Burlington County Delran Township Fire District Public Question,2026-11-03,86,,False,2,1,5418,2026-11-18T15:43+00:00
+180014,NJ,Cumberland County Shiloh Borough Council,2026-11-03,50,,False,3,1,303,2026-11-18T15:43+00:00
+180376,NJ,Atlantic County Somers Point Council Ward 1,2026-11-03,99.9,,False,2,1,2020,2026-11-18T15:43+00:00
+180162,NJ,Mercer County Hightstown Borough Common Council,2026-11-03,80,,False,3,1,2573,2026-11-18T15:43+00:00
+180940,NJ,Passaic County Members of Board of Education Wanaque,2026-11-03,99.9,,False,7,1,7499,2026-11-18T15:43+00:00
+180118,NJ,Hudson County Commissioner District 2,2026-11-03,95,,False,2,1,14451,2026-11-18T15:43+00:00
+180007,NJ,Cumberland County Downe Township Committee,2026-11-03,67,,False,6,1,820,2026-11-18T15:43+00:00
+180977,NJ,Somerset County Public Question Warren,2026-11-03,99.9,,False,2,1,6784,2026-11-18T15:43+00:00
+180955,NJ,Somerset County Township Committee Branchburg,2026-11-03,99.9,,False,3,1,7155,2026-11-18T15:43+00:00
+180741,NJ,Monmouth County Freehold Township Board of Education,2026-11-03,99.9,,False,5,1,24074,2026-11-18T15:43+00:00
+180911,NJ,Passaic County Members of Borough Council Haledon,2026-11-03,99.9,,False,4,1,3649,2026-11-18T15:43+00:00
+180800,NJ,Monmouth County Board of Fire Commissioners Ocean Township FD1,2026-11-03,99.9,,False,2,1,4684,2026-11-18T15:43+00:00
+180394,NJ,Burlington County Burlington Township Township Council,2026-11-03,95,,False,14,1,23096,2026-11-18T15:43+00:00
+180564,NJ,Essex County Bloomfield Ward 3 Township Council,2026-11-03,99.9,,False,1,1,3243,2026-11-18T15:43+00:00
+180542,NJ,Cape May County Stone Harbor Bond Question,2026-11-03,67,,False,2,1,359,2026-11-18T15:43+00:00
+180328,NJ,Atlantic County Atlantic City Member of the Local Board of Education 2 Unexpired,2026-11-03,99.9,,False,1,1,3844,2026-11-18T15:43+00:00
+180409,NJ,Burlington County Fieldsboro Borough Borough Council Unexpired,2026-11-03,50,,False,2,1,124,2026-11-18T15:43+00:00
+180195,NJ,Morris County Butler Borough Mayor,2026-11-03,99.9,,False,2,1,1732,2026-11-18T15:43+00:00
+180973,NJ,Somerset County Borough Council Rocky Hill,2026-11-03,99.9,,False,3,1,524,2026-11-18T15:43+00:00
+180343,NJ,Atlantic County Egg Harbor CTY Members of the Local Board of Education,2026-11-03,99.9,,False,3,1,1542,2026-11-18T15:43+00:00
+180129,NJ,Hudson County Borough of East Newark Board of Education-3 Years,2026-11-03,99.9,,False,4,1,700,2026-11-18T15:43+00:00
+180619,NJ,Middlesex County New Brunswick City Council,2026-11-03,97,,False,4,1,15912,2026-11-18T15:43+00:00
+180988,NJ,Somerset County Board of Education Franklin,2026-11-03,99.9,,False,4,1,46876,2026-11-18T15:43+00:00
+180774,NJ,Monmouth County Roosevelt Board of Education (Full Term),2026-11-03,99.9,,False,4,1,717,2026-11-18T15:43+00:00
+180944,NJ,Passaic County Members of Board of Education West Milford,2026-11-03,99.9,,False,4,1,14972,2026-11-18T15:43+00:00
+180922,NJ,Passaic County Members of Board of Education Paterson,2026-11-03,99.9,,False,8,1,43335,2026-11-18T15:43+00:00
+180708,NJ,Monmouth County Borough Council Sea Bright Borough,2026-11-03,99.9,,False,6,1,1415,2026-11-18T15:43+00:00
+180597,NJ,Essex County North Caldwell Board of Education,2026-11-03,99.9,,False,2,1,3138,2026-11-18T15:43+00:00
+180767,NJ,Monmouth County Neptune City Board of Education,2026-11-03,99.9,,False,1,1,256,2026-11-18T15:43+00:00
+180883,NJ,Ocean County Point Pleasant Beach Member of the Board of Education,2026-11-03,99.9,,False,2,1,1215,2026-11-18T15:43+00:00
+180861,NJ,Ocean County Island Heights Member of the Board of Education,2026-11-03,99.9,,False,4,1,1256,2026-11-18T15:43+00:00
+180366,NJ,Atlantic County Northfield Council Ward 1,2026-11-03,99.9,,False,2,1,1674,2026-11-18T15:43+00:00
+180728,NJ,Monmouth County Bradley Beach Board of Education,2026-11-03,99.9,,False,4,1,3342,2026-11-18T15:43+00:00
+180514,NJ,Burlington County Mount Holly Township Fire District No. 1 Board of Fire Commissioners,2026-11-03,88,,False,6,1,4552,2026-11-18T15:43+00:00
+180300,NJ,Salem County Lower Alloways Creek School Board,2026-11-03,0,,False,2,1,588,2026-11-18T15:43+00:00
+180470,NJ,Burlington County Shamong Township Board of Education,2026-11-03,80,,False,20,1,4045,2026-11-18T15:43+00:00
+180167,NJ,Mercer County Hopewell Township Committee,2026-11-03,93,,False,5,1,15962,2026-11-18T15:43+00:00
+180337,NJ,Atlantic County Buena Vsta Members of the Buena Regional Board of Education,2026-11-03,99.9,,False,1,1,1643,2026-11-18T15:43+00:00
+180315,NJ,Salem County Salem City Council East Ward,2026-11-03,0,,False,3,1,402,2026-11-18T15:43+00:00
+180101,NJ,Gloucester County Westville Fire District Fire Commissioner,2026-11-03,99.9,,False,3,1,1841,2026-11-18T15:43+00:00
+180271,NJ,Morris County Randolph Township Board of Education,2026-11-03,99.9,,False,7,1,22518,2026-11-18T15:43+00:00
+180960,NJ,Somerset County Township Committee Hillsborough,2026-11-03,99.9,,False,5,1,32135,2026-11-18T15:43+00:00
+180746,NJ,Monmouth County Howell Township Board of Education (1 Year Unexpired Term),2026-11-03,99.9,,False,1,1,1108,2026-11-18T15:43+00:00
+180916,NJ,Passaic County Members of Township Council Little Falls,2026-11-03,99.9,,False,7,1,13386,2026-11-18T15:43+00:00
+180894,NJ,Ocean County Tuckerton Prsd Member of the Board of Education,2026-11-03,99.9,,False,2,1,771,2026-11-18T15:43+00:00
+180680,NJ,Monmouth County Borough Council Eatontown Borough,2026-11-03,99.9,,False,5,1,8553,2026-11-18T15:43+00:00
+180761,NJ,Monmouth County Marlboro Township Board of Education (Full Term),2026-11-03,99.9,,False,7,1,29895,2026-11-18T15:43+00:00
+180547,NJ,Cape May County Board of Education-Borough of West Wildwood,2026-11-03,50,,False,3,1,326,2026-11-18T15:43+00:00
+180333,NJ,Atlantic County Brigantine Mayor,2026-11-03,99.9,,False,1,1,2772,2026-11-18T15:43+00:00
+180695,NJ,Monmouth County Borough Council Lake Como Borough,2026-11-03,99.9,,False,3,1,1000,2026-11-18T15:43+00:00
+180481,NJ,Burlington County Woodland Township Board of Education 1 Year Unexpired,2026-11-03,50,,False,3,1,38,2026-11-18T15:43+00:00
+180370,NJ,Atlantic County Pleasantville Council Ward 1,2026-11-03,99.9,,False,1,1,1757,2026-11-18T15:43+00:00
+180348,NJ,Atlantic County Estell Manor Member of the Local Board of Education,2026-11-03,99.9,,False,1,1,0,2026-11-18T15:43+00:00
+180134,NJ,Hudson County Mayor Town of Harrison,2026-11-03,99.9,,False,2,1,2760,2026-11-18T15:43+00:00
+180304,NJ,Salem County Oldmans School Board,2026-11-03,0,,False,4,1,2029,2026-11-18T15:43+00:00
+180282,NJ,Morris County Washington Township Committee,2026-11-03,99.9,,False,2,1,5116,2026-11-18T15:43+00:00
+180779,NJ,Monmouth County Red Bank Regional HS Board of Education (Shrewsbury Borough),2026-11-03,99.9,,False,2,1,1380,2026-11-18T15:43+00:00
+180068,NJ,Gloucester County Mantua Fire District Fire Commissioner,2026-11-03,99.9,,False,3,1,9399,2026-11-18T15:43+00:00
+180949,NJ,Somerset County Township Committee Bedminster,2026-11-03,99.9,,False,3,1,3771,2026-11-18T15:43+00:00
+180127,NJ,Hudson County City of Bayonne Board of Education-1 Year,2026-11-03,99.9,,False,3,1,7174,2026-11-18T15:43+00:00
+180713,NJ,Monmouth County Borough Council Spring Lake Borough,2026-11-03,99.9,,False,3,1,2203,2026-11-18T15:43+00:00
+180221,NJ,Morris County Hanover Board of Education - Hanover Park Regional,2026-11-03,99.9,,False,2,1,3896,2026-11-18T15:43+00:00
+180718,NJ,Monmouth County Mayor West Long Branch Borough,2026-11-03,99.9,,False,2,1,2237,2026-11-18T15:43+00:00
+180088,NJ,Gloucester County Washington Council,2026-11-03,99.9,,False,7,1,56866,2026-11-18T15:43+00:00
+180866,NJ,Ocean County Lakehurst Member of the Board of Education,2026-11-03,99.9,,False,3,1,658,2026-11-18T15:43+00:00
+180652,NJ,Middlesex County Perth Amboy Board of Education,2026-11-03,97,,False,4,1,12400,2026-11-18T15:43+00:00
+180822,NJ,Ocean County Jackson Mayor,2026-11-03,99.9,,False,4,1,22379,2026-11-18T15:43+00:00
+180519,NJ,Cape May County Member of the Board of County Commissioners,2026-11-03,98,,False,5,1,76052,2026-11-18T15:43+00:00
+180689,NJ,Monmouth County Township Committee Holmdel Township,2026-11-03,99.9,,False,3,1,8404,2026-11-18T15:43+00:00
+180667,NJ,Monmouth County Surrogate,2026-11-03,99,,False,3,1,228252,2026-11-18T15:43+00:00
+180453,NJ,Burlington County Lumberton Township Board of Education,2026-11-03,91,,False,66,1,4234,2026-11-18T15:43+00:00
+180623,NJ,Middlesex County Piscataway Township Council Ward 2,2026-11-03,92,,False,2,1,4230,2026-11-18T15:43+00:00
+180320,NJ,Salem County Upper Pittsgrove School Board,2026-11-03,0,,False,4,1,3101,2026-11-18T15:43+00:00
+180106,NJ,Gloucester County Woodbury Council Unexpired Ward 2,2026-11-03,99.9,,False,3,1,907,2026-11-18T15:43+00:00
+180276,NJ,Morris County Rockaway Borough Board of Education,2026-11-03,99.9,,False,3,1,2798,2026-11-18T15:43+00:00
+180254,NJ,Morris County Morris Township Committee (Unexpired Term),2026-11-03,99.9,,False,3,1,10343,2026-11-18T15:43+00:00
+180040,NJ,Cumberland County Vineland Board of Education,2026-11-03,97,,False,47,1,38574,2026-11-18T15:43+00:00
+180121,NJ,Hudson County Commissioner District 5,2026-11-03,99.9,,False,2,1,15261,2026-11-18T15:43+00:00
+180899,NJ,Ocean County Township of Ocean Public Question,2026-11-03,99.9,,False,2,1,4137,2026-11-18T15:43+00:00
+180685,NJ,Monmouth County Borough Council Freehold Borough,2026-11-03,99.9,,False,5,1,5272,2026-11-18T15:43+00:00
+180055,NJ,Gloucester County Greenwich Mayor,2026-11-03,99.9,,False,3,1,2121,2026-11-18T15:43+00:00
+180833,NJ,Ocean County Mantoloking Mayor,2026-11-03,99.9,,False,2,1,121,2026-11-18T15:43+00:00
+180722,NJ,Monmouth County Upper Freehold Regional Board of Education (Allentown),2026-11-03,99.9,,False,2,1,498,2026-11-18T15:43+00:00
+180700,NJ,Monmouth County Township Committee Middletown Township,2026-11-03,99.9,,False,5,1,46927,2026-11-18T15:43+00:00
+180486,NJ,Burlington County Bordentown Regional School District Bond Proposal Question,2026-11-03,80,,False,2,1,5923,2026-11-18T15:43+00:00
+180656,NJ,Middlesex County Sayreville Board of Education,2026-11-03,97,,False,5,1,24881,2026-11-18T15:43+00:00
+180634,NJ,Middlesex County South River Borough Council,2026-11-03,93,,False,5,1,7316,2026-11-18T15:43+00:00
+180139,NJ,Hudson County City of Hoboken Board of Education-3 Years,2026-11-03,99.9,,False,5,1,25183,2026-11-18T15:43+00:00
+180420,NJ,Burlington County Palmyra Borough Borough Council,2026-11-03,90,,False,13,1,4128,2026-11-18T15:43+00:00
+180309,NJ,Salem County Pilesgrove Township Committee,2026-11-03,0,,False,2,1,1163,2026-11-18T15:43+00:00
+180479,NJ,Burlington County Willingboro Township Board of Education,2026-11-03,97,,False,17,1,26768,2026-11-18T15:43+00:00
+180073,NJ,Gloucester County National Park Council Unexpired,2026-11-03,99.9,,False,3,1,742,2026-11-18T15:43+00:00
+180243,NJ,Morris County Mendham Borough Council,2026-11-03,99.9,,False,5,1,4791,2026-11-18T15:43+00:00
+180440,NJ,Burlington County Bass River Township Board of Education,2026-11-03,50,,False,2,1,412,2026-11-18T15:43+00:00
+180226,NJ,Morris County Jefferson Township Council (Unexpired Term),2026-11-03,99.9,,False,4,1,7444,2026-11-18T15:43+00:00
+180403,NJ,Burlington County Delran Township Council Ward 3,2026-11-03,86,,False,5,1,1916,2026-11-18T15:43+00:00
+180381,NJ,Atlantic County Weymouth Members of the Local Board of Education,2026-11-03,99.9,,False,1,1,0,2026-11-18T15:43+00:00
+180871,NJ,Ocean County Little Egg Harbor Prsd Board of Education 2 Year Unexpired Term,2026-11-03,99.9,,False,1,1,274,2026-11-18T15:43+00:00
+180049,NJ,Gloucester County Franklin Township Committee,2026-11-03,99.9,,False,5,1,12389,2026-11-18T15:43+00:00
+180027,NJ,Cumberland County Fairfield Board of Education,2026-11-03,80,,False,9,1,3322,2026-11-18T15:43+00:00
+180012,NJ,Cumberland County Lawrence Township Committee,2026-11-03,50,,False,3,1,785,2026-11-18T15:43+00:00
+180982,NJ,Somerset County Board of Education Bound Brook,2026-11-03,99.9,,False,4,1,3095,2026-11-18T15:43+00:00
+180672,NJ,Monmouth County Councilmember At-Large Asbury Park City,2026-11-03,99.9,,False,4,1,3790,2026-11-18T15:43+00:00
+180458,NJ,Burlington County Moorestown Township Board of Education,2026-11-03,95,,False,38,1,19148,2026-11-18T15:43+00:00
+180628,NJ,Middlesex County South Amboy Mayor,2026-11-03,90,,False,3,1,2732,2026-11-18T15:43+00:00
+180805,NJ,Monmouth County Board of Fire Commissioners Wall Township FD2,2026-11-03,99.9,,False,1,1,382,2026-11-18T15:43+00:00
+180783,NJ,Monmouth County Spring Lake Borough Board of Education,2026-11-03,99.9,,False,2,1,1063,2026-11-18T15:43+00:00
+180473,NJ,Burlington County Springfield Township Board of Education 1 Year Unexpired,2026-11-03,75,,False,3,1,823,2026-11-18T15:43+00:00
+180259,NJ,Morris County Town of Morristown Board of Education,2026-11-03,93,,False,3,1,5932,2026-11-18T15:43+00:00
+180045,NJ,Gloucester County East Greenwich Township Committee,2026-11-03,99.9,,False,5,1,9623,2026-11-18T15:43+00:00
+180414,NJ,Burlington County Moorestown Township Township Council,2026-11-03,95,,False,34,1,12846,2026-11-18T15:43+00:00
+180200,NJ,Morris County Chatham Township Committee,2026-11-03,99.9,,False,4,1,7553,2026-11-18T15:43+00:00
+180082,NJ,Gloucester County Pitman Board of Education,2026-11-03,99.9,,False,4,1,6233,2026-11-18T15:43+00:00
+180060,NJ,Gloucester County Harrison Board of Education,2026-11-03,99.9,,False,4,1,11897,2026-11-18T15:43+00:00
+180838,NJ,Ocean County Pine Beach Member of Council,2026-11-03,99.9,,False,3,1,1351,2026-11-18T15:43+00:00
+180016,NJ,Cumberland County Upper Deerfield Township Committee,2026-11-03,80,,False,10,1,1828,2026-11-18T15:43+00:00
+180993,NJ,Somerset County Board of Education Manville (2),2026-11-03,99.9,,False,4,1,3319,2026-11-18T15:43+00:00
+180491,NJ,Burlington County Fieldsboro Borough Bordentown Regional School District Board of Education,2026-11-03,50,,False,2,1,164,2026-11-18T15:43+00:00
+180661,NJ,Middlesex County South Plainfield Board of Education,2026-11-03,94,,False,4,1,13885,2026-11-18T15:43+00:00
+180831,NJ,Ocean County Manchester Mayor,2026-11-03,99.9,,False,4,1,17560,2026-11-18T15:43+00:00
+180425,NJ,Burlington County Pemberton Township Municipal Public Question,2026-11-03,94,,False,2,1,4639,2026-11-18T15:43+00:00
+180794,NJ,Monmouth County West Long Branch Borough Board of Education (1 Year Unexpired Term),2026-11-03,99.9,,False,1,1,373,2026-11-18T15:43+00:00
+180580,NJ,Essex County West Caldwell Mayor,2026-11-03,99.9,,False,1,1,2757,2026-11-18T15:43+00:00
+180078,NJ,Gloucester County Newfield Board of Education,2026-11-03,99.9,,False,2,1,441,2026-11-18T15:43+00:00
+180585,NJ,Essex County Bloomfield Board of Education,2026-11-03,99.9,,False,6,1,31077,2026-11-18T15:43+00:00
+180755,NJ,Monmouth County Long Branch Board of Education (Full Term),2026-11-03,99.9,,False,8,1,15498,2026-11-18T15:43+00:00
+180733,NJ,Monmouth County Borough of Deal Board of Education,2026-11-03,99.9,,False,1,1,18,2026-11-18T15:43+00:00
+180231,NJ,Morris County Lincoln Park Borough Mayor,2026-11-03,99.9,,False,2,1,2456,2026-11-18T15:43+00:00
+180600,NJ,Essex County Roseland West Essex Board of Education,2026-11-03,99.9,,False,1,1,1727,2026-11-18T15:43+00:00
+180386,NJ,Burlington County Surrogate,2026-11-03,89,,False,20,1,160463,2026-11-18T15:43+00:00
+180172,NJ,Mercer County Hopewell Township Fire Commissioner,2026-11-03,93,,False,4,1,11308,2026-11-18T15:43+00:00
+180342,NJ,Atlantic County Egg Harbor City Common Council,2026-11-03,99.9,,False,8,1,3797,2026-11-18T15:43+00:00
+180032,NJ,Cumberland County Hopewell/Shiloh Board of Education - Unexpired Term,2026-11-03,67,,False,5,1,1436,2026-11-18T15:43+00:00
+180209,NJ,Morris County Denville Township Board of Education,2026-11-03,99.9,,False,5,1,13039,2026-11-18T15:43+00:00
+180187,NJ,Morris County Boonton Town Council Ward 1,2026-11-03,99.9,,False,3,1,994,2026-11-18T15:43+00:00
+180965,NJ,Somerset County Township Committee Montgomery,2026-11-03,99.9,,False,3,1,9006,2026-11-18T15:43+00:00
+180143,NJ,Hudson County Town of Kearny Council Ward 2,2026-11-03,99.9,,False,2,1,1155,2026-11-18T15:43+00:00
+180825,NJ,Ocean County Lakehurst Member of Council,2026-11-03,99.9,,False,3,1,721,2026-11-18T15:43+00:00
+180810,NJ,Monmouth County Rumson Question,2026-11-03,99.9,,False,2,1,2693,2026-11-18T15:43+00:00
+180788,NJ,Monmouth County Upper Freehold Regional Board of Education (Upper Freehold),2026-11-03,99.9,,False,3,1,3853,2026-11-18T15:43+00:00
+180766,NJ,Monmouth County Monmouth Beach Board of Education,2026-11-03,99.9,,False,4,1,2867,2026-11-18T15:43+00:00
+180552,NJ,Cape May County Member of the Council-Borough of Woodbine,2026-11-03,67,,False,3,1,615,2026-11-18T15:43+00:00
+180434,NJ,Burlington County Washington Township Township Committee,2026-11-03,50,,False,3,1,201,2026-11-18T15:43+00:00
+180611,NJ,Middlesex County East Brunswick Township Council,2026-11-03,98,,False,7,1,49519,2026-11-18T15:43+00:00
+180205,NJ,Morris County Chester Township Council (Unexpired Term),2026-11-03,99.9,,False,3,1,3381,2026-11-18T15:43+00:00
+180567,NJ,Essex County Essex Fells Borough Council,2026-11-03,99.9,,False,2,1,1321,2026-11-18T15:43+00:00
+180353,NJ,Atlantic County Galloway Members of the Local Board of Education,2026-11-03,99.9,,False,5,1,22859,2026-11-18T15:43+00:00
+180843,NJ,Ocean County Point Pleasant Beach Member of Council,2026-11-03,99.9,,False,3,1,2655,2026-11-18T15:43+00:00
+180021,NJ,Cumberland County Deerfield Board of Education,2026-11-03,50,,False,5,1,1652,2026-11-18T15:43+00:00
+180998,NJ,Somerset County Board of Education Somerset Hills Peapack-Gladsto,2026-11-03,99.9,,False,2,1,905,2026-11-18T15:43+00:00
+180176,NJ,Mercer County Pennington Borough Common Council,2026-11-03,75,,False,3,1,2198,2026-11-18T15:43+00:00
+180154,NJ,Mercer County East Windsor Township Council - 1 Year Unexpired Term,2026-11-03,94,,False,3,1,8516,2026-11-18T15:43+00:00
+180932,NJ,Passaic County Member of the Lakeland Regional Bd of Ed Ringwood,2026-11-03,99.9,,False,2,1,2711,2026-11-18T15:43+00:00
+180430,NJ,Burlington County Southampton Township Township Committee,2026-11-03,89,,False,24,1,2825,2026-11-18T15:43+00:00
+180991,NJ,Somerset County Board of Education Hillsborough-Millstone,2026-11-03,99.9,,False,7,1,32686,2026-11-18T15:43+00:00
+180115,NJ,Gloucester County Swedesboro-Woolwich Board of Education,2026-11-03,99.9,,False,4,1,8679,2026-11-18T15:43+00:00
+180093,NJ,Gloucester County Wenonah Board of Education,2026-11-03,99.9,,False,1,1,251,2026-11-18T15:43+00:00
+180590,NJ,Essex County Fairfield West Essex Board of Education,2026-11-03,99.9,,False,3,1,4116,2026-11-18T15:43+00:00
+180952,NJ,Somerset County Mayor Bernardsville,2026-11-03,99.9,,False,3,1,3514,2026-11-18T15:43+00:00
+180738,NJ,Monmouth County Farmingdale Borough Board of Education,2026-11-03,99.9,,False,1,1,67,2026-11-18T15:43+00:00
+180524,NJ,Cape May County Member of the Township Committee-Township of Dennis,2026-11-03,89,,False,5,1,5589,2026-11-18T15:43+00:00
+180694,NJ,Monmouth County Mayor Lake Como Borough,2026-11-03,99.9,,False,2,1,529,2026-11-18T15:43+00:00
+180391,NJ,Burlington County Burlington City Municipal Public Question,2026-11-03,85,,False,2,1,2248,2026-11-18T15:43+00:00
+180561,NJ,Essex County Belleville Ward 2 Township Council (Unexpired Term),2026-11-03,88,,False,1,1,1617,2026-11-18T15:43+00:00
+180539,NJ,Cape May County Board of Education-City of Sea Isle City,2026-11-03,80,,False,3,1,1383,2026-11-18T15:43+00:00
+180325,NJ,Atlantic County Commissioner-at-Large,2026-11-03,99.9,,False,4,1,180670,2026-11-18T15:43+00:00
+180495,NJ,Burlington County Mount Holly Township Rancocas Valley Regional School District Board of Education,2026-11-03,88,,False,8,1,4254,2026-11-18T15:43+00:00
+180192,NJ,Morris County Town of Boonton Board of Education,2026-11-03,99.9,,False,3,1,3995,2026-11-18T15:43+00:00
+180970,NJ,Somerset County Mayor Raritan,2026-11-03,99.9,,False,3,1,2736,2026-11-18T15:43+00:00
+180148,NJ,Hudson County Town of Secaucus Council Ward 2,2026-11-03,99.9,,False,2,1,1273,2026-11-18T15:43+00:00
+180126,NJ,Hudson County City of Bayonne Board of Education-3 Years,2026-11-03,99.9,,False,5,1,21657,2026-11-18T15:43+00:00
+180904,NJ,Passaic County Mayor Bloomingdale,2026-11-03,99.9,,False,2,1,2048,2026-11-18T15:43+00:00
+180985,NJ,Somerset County School Bond 2 Branchburg,2026-11-03,99.9,,False,2,1,6480,2026-11-18T15:43+00:00
+180771,NJ,Monmouth County Oceanport Board of Education,2026-11-03,99.9,,False,4,1,6856,2026-11-18T15:43+00:00
+180557,NJ,Essex County Board of County Comissioners (2nd County Commissioner District),2026-11-03,95,,False,1,1,31695,2026-11-18T15:43+00:00
+180919,NJ,Passaic County Mayor North Haledon,2026-11-03,99.9,,False,2,1,2506,2026-11-18T15:43+00:00
+180705,NJ,Monmouth County Borough Council Oceanport Borough,2026-11-03,99.9,,False,3,1,4039,2026-11-18T15:43+00:00
+180594,NJ,Essex County Maplewood South Orange - Board of Education,2026-11-03,97,,False,4,1,33378,2026-11-18T15:43+00:00
+180572,NJ,Essex County Maplewood Township Committee,2026-11-03,95,,False,2,1,17201,2026-11-18T15:43+00:00
+180358,NJ,Atlantic County Hammonton Members of the Local Board of Education,2026-11-03,99.9,,False,4,1,11067,2026-11-18T15:43+00:00
+180528,NJ,Cape May County Member of Council-Township of Lower-Ward 3,2026-11-03,90,,False,3,1,3375,2026-11-18T15:43+00:00
+180506,NJ,Burlington County Delanco Township Fire District No. 1 Board of Fire Commissioners,2026-11-03,86,,False,7,1,2756,2026-11-18T15:43+00:00
+180292,NJ,Salem County Alloway School Board,2026-11-03,0,,False,2,1,1442,2026-11-18T15:43+00:00
+180181,NJ,Mercer County Robbinsville Township Members of the Board of Education,2026-11-03,90,,False,4,1,12307,2026-11-18T15:43+00:00
+180351,NJ,Atlantic County Folsom Council,2026-11-03,99.9,,False,2,1,898,2026-11-18T15:43+00:00
+180937,NJ,Passaic County Mayor Wanaque,2026-11-03,99.9,,False,3,1,4270,2026-11-18T15:43+00:00
+180467,NJ,Burlington County Pemberton Township Board of Education 1 Year Unexpired,2026-11-03,90,,False,20,1,3706,2026-11-18T15:43+00:00
+180445,NJ,Burlington County Chesterfield Township Board of Education,2026-11-03,80,,False,13,1,3325,2026-11-18T15:43+00:00
+180942,NJ,Passaic County Members of Board of Education Wayne,2026-11-03,99.9,,False,7,1,35896,2026-11-18T15:43+00:00
+180312,NJ,Salem County Pittsgrove/Elmer School Board,2026-11-03,0,,False,5,1,9170,2026-11-18T15:43+00:00
+180098,NJ,Gloucester County Westville Council Unexpired,2026-11-03,99.9,,False,4,1,1193,2026-11-18T15:43+00:00
+180876,NJ,Ocean County Ocean Board of Education 1 Year Unexpired Term,2026-11-03,99.9,,False,1,1,163,2026-11-18T15:43+00:00
+180054,NJ,Gloucester County Glassboro Board of Education,2026-11-03,99.9,,False,7,1,12721,2026-11-18T15:43+00:00
+180743,NJ,Monmouth County Henry Hudson Regional Sch Dist Board of Education (Highlands),2026-11-03,99.9,,False,5,1,2683,2026-11-18T15:43+00:00
+180913,NJ,Passaic County Members of Board of Education Haledon,2026-11-03,99.9,,False,4,1,3488,2026-11-18T15:43+00:00
+180891,NJ,Ocean County Stafford Board of Education 1 Year Unexpired Term,2026-11-03,99.9,,False,3,1,6926,2026-11-18T15:43+00:00
+180677,NJ,Monmouth County Borough Council Brielle Borough (1 Year Unexpired Term),2026-11-03,99.9,,False,3,1,2429,2026-11-18T15:43+00:00
+180847,NJ,Ocean County Ship Bottom Member of Council,2026-11-03,99.9,,False,3,1,904,2026-11-18T15:43+00:00
+180544,NJ,Cape May County Board of Education-Township of Upper,2026-11-03,94,,False,5,1,9592,2026-11-18T15:43+00:00
+180330,NJ,Atlantic County Absecon Council Ward 1,2026-11-03,99.9,,False,2,1,1996,2026-11-18T15:43+00:00
+180500,NJ,Burlington County Beverly City Fire District No. 1 Board of Fire Commissioners,2026-11-03,75,,False,4,1,562,2026-11-18T15:43+00:00
+180478,NJ,Burlington County Westampton Township Board of Education 1 Year Unexpired,2026-11-03,78,,False,6,1,2797,2026-11-18T15:43+00:00
+180264,NJ,Morris County Mount Olive Bond Proposal,2026-11-03,99.9,,False,2,1,9691,2026-11-18T15:43+00:00
+180345,NJ,Atlantic County Egg Harbor TWP Township Committee 1YUNEXP,2026-11-03,99.9,,False,2,1,16560,2026-11-18T15:43+00:00
+180131,NJ,Hudson County Council at-Large Town of Guttenberg,2026-11-03,99.9,,False,3,1,3729,2026-11-18T15:43+00:00
+180909,NJ,Passaic County Member of Board of Education 1YR Unexpired Clifton,2026-11-03,99.9,,False,3,1,11831,2026-11-18T15:43+00:00
+180279,NJ,Morris County Rockaway Township Board of Education (Unexpired Term),2026-11-03,99.9,,False,2,1,5945,2026-11-18T15:43+00:00
+180065,NJ,Gloucester County Mantua Board of Education - Clearview Regional,2026-11-03,99.9,,False,3,1,9400,2026-11-18T15:43+00:00
+180946,NJ,Passaic County Members of Passaic Valley Regional Bd Woodland Park,2026-11-03,99.9,,False,2,1,2647,2026-11-18T15:43+00:00
+180924,NJ,Passaic County Public Question Pompton Lakes,2026-11-03,99.9,,False,2,1,2502,2026-11-18T15:43+00:00
+180710,NJ,Monmouth County Mayor Shrewsbury Borough,2026-11-03,99.9,,False,2,1,1438,2026-11-18T15:43+00:00
+180880,NJ,Ocean County Plumsted Member of the Board of Education,2026-11-03,99.9,,False,4,1,3803,2026-11-18T15:43+00:00
+180858,NJ,Ocean County Brick Member of the Board of Education,2026-11-03,99.9,,False,5,1,34764,2026-11-18T15:43+00:00
+180363,NJ,Atlantic County Mullica TWP Township Committee,2026-11-03,99.9,,False,2,1,2252,2026-11-18T15:43+00:00
+180644,NJ,Middlesex County Jamesburg Board of Education,2026-11-03,80,,False,3,1,1693,2026-11-18T15:43+00:00
+180533,NJ,Cape May County Member of the Council at Large-City of North Wildwood(UN,2026-11-03,89,,False,2,1,1201,2026-11-18T15:43+00:00
+180703,NJ,Monmouth County Borough Council Neptune City Borough (1 Year Unexpired Te,2026-11-03,99.9,,False,2,1,1196,2026-11-18T15:43+00:00
+180297,NJ,Salem County Elsinboro School Board,2026-11-03,0,,False,3,1,783,2026-11-18T15:43+00:00
+180004,NJ,Cumberland County Bridgeton Binding Referendum Question,2026-11-03,92,,False,2,1,2395,2026-11-18T15:43+00:00
+180302,NJ,Salem County Mannington School Board,2026-11-03,0,,False,1,1,84,2026-11-18T15:43+00:00
+180664,NJ,Middlesex County Woodbridge Board of Education,2026-11-03,99,,False,4,1,47079,2026-11-18T15:43+00:00
+180450,NJ,Burlington County Evesham Township Board of Education,2026-11-03,97,,False,48,1,40584,2026-11-18T15:43+00:00
+180236,NJ,Morris County Long Hill Township Committee,2026-11-03,99.9,,False,5,1,8205,2026-11-18T15:43+00:00
+180605,NJ,Middlesex County Surrogate,2026-11-03,95,,False,3,1,233389,2026-11-18T15:43+00:00
+180103,NJ,Gloucester County Woodbury Mayor,2026-11-03,99.9,,False,3,1,2660,2026-11-18T15:43+00:00
+180273,NJ,Morris County Riverdale Borough Council,2026-11-03,99.9,,False,3,1,2022,2026-11-18T15:43+00:00
+180251,NJ,Morris County Morris Plains Borough Mayor,2026-11-03,99.9,,False,3,1,3111,2026-11-18T15:43+00:00
+180037,NJ,Cumberland County Stow Creek Board of Education,2026-11-03,50,,False,3,1,913,2026-11-18T15:43+00:00
+180214,NJ,Morris County East Hanover Township Council,2026-11-03,99.9,,False,3,1,7494,2026-11-18T15:43+00:00
+180896,NJ,Ocean County Question No. 1,2026-11-03,99.9,,False,2,1,179128,2026-11-18T15:43+00:00
+180682,NJ,Monmouth County Mayor Fair Haven Borough,2026-11-03,99.9,,False,4,1,2978,2026-11-18T15:43+00:00
+180852,NJ,Ocean County Tuckerton Member of Council,2026-11-03,99.9,,False,3,1,1721,2026-11-18T15:43+00:00
+180830,NJ,Ocean County Little Egg Harbor Member of the Township Committee,2026-11-03,99.9,,False,5,1,16232,2026-11-18T15:43+00:00
+180616,NJ,Middlesex County Middlesex Borough Council,2026-11-03,91,,False,5,1,8889,2026-11-18T15:43+00:00
+180697,NJ,Monmouth County Township Committee Manalapan Township,2026-11-03,99.9,,False,4,1,24357,2026-11-18T15:43+00:00
+180483,NJ,Burlington County Cinnaminson Township Board of Education,2026-11-03,95,,False,39,1,17184,2026-11-18T15:43+00:00
+180269,NJ,Morris County Randolph Township Council,2026-11-03,99.9,,False,9,1,41378,2026-11-18T15:43+00:00
+180631,NJ,Middlesex County South Brunswick Township Council,2026-11-03,97,,False,3,1,15102,2026-11-18T15:43+00:00
+180417,NJ,Burlington County Mount Laurel Township Township Council,2026-11-03,97,,False,13,1,35120,2026-11-18T15:43+00:00
+180306,NJ,Salem County Penns Grove School Board,2026-11-03,0,,False,1,1,228,2026-11-18T15:43+00:00
+180284,NJ,Morris County Washington Township Board of Education,2026-11-03,99.9,,False,7,1,15890,2026-11-18T15:43+00:00
+180070,NJ,Gloucester County Monroe Council-At-Large,2026-11-03,99.9,,False,7,1,42755,2026-11-18T15:43+00:00
+180240,NJ,Morris County Long Hill Township Board of Education,2026-11-03,99.9,,False,5,1,6797,2026-11-18T15:43+00:00
+180218,NJ,Morris County Florham Park Borough Council,2026-11-03,99.9,,False,5,1,9791,2026-11-18T15:43+00:00
+180715,NJ,Monmouth County Borough Council Union Beach Borough,2026-11-03,99.9,,False,3,1,2627,2026-11-18T15:43+00:00
+180885,NJ,Ocean County Seaside Heights Member of the Board of Education,2026-11-03,99.9,,False,4,1,605,2026-11-18T15:43+00:00
+180063,NJ,Gloucester County Logan Board of Education,2026-11-03,99.9,,False,3,1,3164,2026-11-18T15:43+00:00
+180649,NJ,Middlesex County Monroe Board of Education,2026-11-03,98,,False,6,1,41550,2026-11-18T15:43+00:00
+180819,NJ,Ocean County Eagleswood Member of the Township Committee,2026-11-03,99.9,,False,2,1,482,2026-11-18T15:43+00:00
+180024,NJ,Cumberland County Downe Board of Education - Unexpired 2 Year Term,2026-11-03,67,,False,1,1,14,2026-11-18T15:43+00:00
+180009,NJ,Cumberland County Fairfield Township Committee,2026-11-03,80,,False,3,1,1092,2026-11-18T15:43+00:00
+180979,NJ,Somerset County Borough Council Watchung,2026-11-03,99.9,,False,5,1,5552,2026-11-18T15:43+00:00
+180957,NJ,Somerset County Borough Council Far Hills,2026-11-03,99.9,,False,3,1,690,2026-11-18T15:43+00:00
+180455,NJ,Burlington County Maple Shade Township Board of Education,2026-11-03,85,,False,15,1,9825,2026-11-18T15:43+00:00
+180625,NJ,Middlesex County Piscataway Township Council Ward 4,2026-11-03,89,,False,2,1,2420,2026-11-18T15:43+00:00
+180802,NJ,Monmouth County Board of Fire Commissioners Tinton Falls Borough FD1,2026-11-03,99.9,,False,3,1,3544,2026-11-18T15:43+00:00
+180396,NJ,Burlington County Burlington Township Proposal,2026-11-03,95,,False,2,1,6391,2026-11-18T15:43+00:00
+180566,NJ,Essex County Caldwell Borough Council,2026-11-03,99.9,,False,4,1,5993,2026-11-18T15:43+00:00
+180256,NJ,Morris County Morris Township Board of Education,2026-11-03,99.9,,False,2,1,6332,2026-11-18T15:43+00:00
+180042,NJ,Gloucester County Clayton Council,2026-11-03,99.9,,False,4,1,4805,2026-11-18T15:43+00:00
+180411,NJ,Burlington County Lumberton Township Township Committee,2026-11-03,91,,False,7,1,9190,2026-11-18T15:43+00:00
+180197,NJ,Morris County Chatham Borough Council,2026-11-03,99.9,,False,4,1,6409,2026-11-18T15:43+00:00
+180367,NJ,Atlantic County Northfield Council Ward 2,2026-11-03,99.9,,False,1,1,1119,2026-11-18T15:43+00:00
+180057,NJ,Gloucester County Greenwich Board of Education Unexpired,2026-11-03,99.9,,False,3,1,1740,2026-11-18T15:43+00:00
+180835,NJ,Ocean County Ocean Member of the Township Committee,2026-11-03,99.9,,False,3,1,4321,2026-11-18T15:43+00:00
+180621,NJ,Middlesex County Perth Amboy City Council,2026-11-03,97,,False,7,1,20954,2026-11-18T15:43+00:00
+180990,NJ,Somerset County Board of Education Green Brook (2),2026-11-03,99.9,,False,1,1,102,2026-11-18T15:43+00:00
+180776,NJ,Monmouth County Rumson-Fair Haven Regional HS Board of Education (Rumson),2026-11-03,99.9,,False,3,1,4121,2026-11-18T15:43+00:00
+180658,NJ,Middlesex County South Amboy Board of Education,2026-11-03,90,,False,6,1,4713,2026-11-18T15:43+00:00
+180636,NJ,Middlesex County Carteret Board of Education,2026-11-03,95,,False,6,1,11674,2026-11-18T15:43+00:00
+180422,NJ,Burlington County Pemberton Township Mayor,2026-11-03,94,,False,8,1,6551,2026-11-18T15:43+00:00
+180791,NJ,Monmouth County Shore Regional Board of Education (West Long Branch) (Full Term),2026-11-03,99.9,,False,3,1,3050,2026-11-18T15:43+00:00
+180577,NJ,Essex County Roseland Mayor,2026-11-03,99.9,,False,1,1,2028,2026-11-18T15:43+00:00
+180075,NJ,Gloucester County National Park Board of Education,2026-11-03,99.9,,False,3,1,1483,2026-11-18T15:43+00:00
+180245,NJ,Morris County Mendham Borough Board of Education,2026-11-03,99.9,,False,4,1,4872,2026-11-18T15:43+00:00
+180415,NJ,Burlington County Mount Holly Township Township Council,2026-11-03,88,,False,6,1,4256,2026-11-18T15:43+00:00
+180400,NJ,Burlington County Delanco Township Township Committee Unexpired,2026-11-03,86,,False,3,1,1931,2026-11-18T15:43+00:00
+180378,NJ,Atlantic County Somers PT Member of the Mainland Regional Board of Education,2026-11-03,99.9,,False,1,1,2467,2026-11-18T15:43+00:00
+180164,NJ,Mercer County Hopewell Borough Common Council,2026-11-03,67,,False,4,1,1793,2026-11-18T15:43+00:00
+180654,NJ,Middlesex County Piscataway Board of Education,2026-11-03,91,,False,5,1,33678,2026-11-18T15:43+00:00
+180169,NJ,Mercer County Hopewell Township Charter Study Commissioners,2026-11-03,93,,False,10,1,27078,2026-11-18T15:43+00:00
+180339,NJ,Atlantic County Buena Vsta Member of the Buena Regional Board of Education 1Yunexp,2026-11-03,99.9,,False,1,1,1417,2026-11-18T15:43+00:00
+180317,NJ,Salem County Salem City Council West Ward - 1 Year Unexpired Term,2026-11-03,0,,False,2,1,340,2026-11-18T15:43+00:00
+180814,NJ,Ocean County Barnegat Light Member of Council,2026-11-03,99.9,,False,3,1,589,2026-11-18T15:43+00:00
+180184,NJ,Mercer County Trenton Trenton Public Schools - Members of the Board of Education,2026-11-03,92,,False,6,1,22105,2026-11-18T15:43+00:00
+180962,NJ,Somerset County Borough Council Manville,2026-11-03,99.9,,False,5,1,5496,2026-11-18T15:43+00:00
+180748,NJ,Monmouth County Interlaken Board of Education (1 Year Unexpired Term),2026-11-03,99.9,,False,2,1,314,2026-11-18T15:43+00:00
+180918,NJ,Passaic County Members of Board of Education Little Falls,2026-11-03,99.9,,False,5,1,7756,2026-11-18T15:43+00:00
+180807,NJ,Monmouth County Colts Neck Question,2026-11-03,99.9,,False,2,1,3570,2026-11-18T15:43+00:00
+180785,NJ,Monmouth County Monmouth Regional HS Board of Education (Tinton Falls),2026-11-03,99.9,,False,3,1,6083,2026-11-18T15:43+00:00
+180763,NJ,Monmouth County Matawan-Aberdeen Regional Board of Education (Matawan),2026-11-03,99.9,,False,3,1,2491,2026-11-18T15:43+00:00
+180549,NJ,Cape May County Board of Education-Borough of Wildwood Crest,2026-11-03,83,,False,2,1,1018,2026-11-18T15:43+00:00
+180719,NJ,Monmouth County Borough Council West Long Branch Borough,2026-11-03,99.9,,False,5,1,5263,2026-11-18T15:43+00:00
+180608,NJ,Middlesex County Carteret Borough Council,2026-11-03,95,,False,3,1,8911,2026-11-18T15:43+00:00
+180202,NJ,Morris County Chester Borough Council,2026-11-03,99.9,,False,5,1,1490,2026-11-18T15:43+00:00
+180372,NJ,Atlantic County Pleasantville Members of the Local Board of Education,2026-11-03,99.9,,False,5,1,6960,2026-11-18T15:43+00:00
+180350,NJ,Atlantic County Folsom Member of the Local Board of Education 1Yunexp,2026-11-03,99.9,,False,1,1,0,2026-11-18T15:43+00:00
+180136,NJ,Hudson County Town of Harrison Council Ward 2,2026-11-03,99.9,,False,2,1,827,2026-11-18T15:43+00:00
+180018,NJ,Cumberland County Commercial Board of Education,2026-11-03,60,,False,7,1,2173,2026-11-18T15:43+00:00
+180995,NJ,Somerset County Board of Education North Plainfield,2026-11-03,99.9,,False,4,1,6618,2026-11-18T15:43+00:00
+180781,NJ,Monmouth County Monmouth Regional Board of Education (Shrewsbury Township),2026-11-03,99.9,,False,1,1,9,2026-11-18T15:43+00:00
+180151,NJ,Mercer County Sheriff,2026-11-03,94,,False,3,1,108972,2026-11-18T15:43+00:00
+180929,NJ,Passaic County Member of the Manchester Regional Bd of Ed Prospect PK,2026-11-03,99.9,,False,2,1,793,2026-11-18T15:43+00:00
+180427,NJ,Burlington County Riverside Township Township Council,2026-11-03,89,,False,19,1,2386,2026-11-18T15:43+00:00
+180796,NJ,Monmouth County Board of Fire Commissioners Hazlet Township FD1,2026-11-03,99.9,,False,3,1,9256,2026-11-18T15:43+00:00
+180582,NJ,Essex County West Orange Mayor,2026-11-03,99.9,,False,7,1,17689,2026-11-18T15:43+00:00
+180752,NJ,Monmouth County Red Bank Regional HS Board of Education (Little Silver),2026-11-03,99.9,,False,2,1,2040,2026-11-18T15:43+00:00
+180730,NJ,Monmouth County Freehold Regional HS Dist Board of Education (Rep Marlboro),2026-11-03,99.9,,False,3,1,13325,2026-11-18T15:43+00:00
+180516,NJ,Burlington County Mount Laurel Township Fire District No. 1 Board of Fire Commissioners Unexpired,2026-11-03,97,,False,11,1,13761,2026-11-18T15:43+00:00
+180405,NJ,Burlington County Edgewater Park Township Township Committee,2026-11-03,89,,False,10,1,4135,2026-11-18T15:43+00:00
+180575,NJ,Essex County North Caldwell Mayor,2026-11-03,99.9,,False,1,1,1763,2026-11-18T15:43+00:00
+180691,NJ,Monmouth County Borough Council Interlaken Borough,2026-11-03,99.9,,False,3,1,557,2026-11-18T15:43+00:00
+180669,NJ,Monmouth County Councilmembers At-Large Aberdeen Township (1 Year Unexpired,2026-11-03,99.9,,False,3,1,6938,2026-11-18T15:43+00:00
+180174,NJ,Mercer County Lawrence Township Council - 1 Year Unexpired Term,2026-11-03,95,,False,2,1,9484,2026-11-18T15:43+00:00
+180536,NJ,Cape May County Board of Education-City of North Wildwood,2026-11-03,89,,False,2,1,1243,2026-11-18T15:43+00:00
+180322,NJ,Salem County Woodstown School Board,2026-11-03,0,,False,2,1,1445,2026-11-18T15:43+00:00
+180108,NJ,Gloucester County Woodbury Board of Education,2026-11-03,99.9,,False,4,1,6353,2026-11-18T15:43+00:00
+180278,NJ,Morris County Rockaway Township Board of Education,2026-11-03,99.9,,False,4,1,12096,2026-11-18T15:43+00:00
+180967,NJ,Somerset County Borough Council North Plainfield,2026-11-03,99.9,,False,9,1,21046,2026-11-18T15:43+00:00
+180145,NJ,Hudson County Town of Kearny Council Ward 4,2026-11-03,99.9,,False,2,1,1595,2026-11-18T15:43+00:00
+180123,NJ,Hudson County Commissioner District 7,2026-11-03,99.9,,False,2,1,12925,2026-11-18T15:43+00:00
+180901,NJ,Passaic County Surrogate,2026-11-03,99.9,,False,3,1,127908,2026-11-18T15:43+00:00
+180079,NJ,Gloucester County Paulsboro Council,2026-11-03,99.9,,False,4,1,2512,2026-11-18T15:43+00:00
+180768,NJ,Monmouth County Neptune Township Board of Education,2026-11-03,99.9,,False,5,1,20185,2026-11-18T15:43+00:00
+180554,NJ,Essex County Executive,2026-11-03,97,,False,2,1,202921,2026-11-18T15:43+00:00
+180724,NJ,Monmouth County Henry Hudson Regional Sch Dist Board of Education (Atlantic Highlands) (Fu,2026-11-03,99.9,,False,4,1,1540,2026-11-18T15:43+00:00
+180702,NJ,Monmouth County Borough Council Neptune City Borough (Full Term),2026-11-03,99.9,,False,3,1,2410,2026-11-18T15:43+00:00
+180488,NJ,Burlington County Chesterfield Township Northern Burlington County Regional School District Board of Education Unexpired,2026-11-03,80,,False,7,1,1888,2026-11-18T15:43+00:00
+180569,NJ,Essex County Fairfield Township Council,2026-11-03,99.9,,False,2,1,4450,2026-11-18T15:43+00:00
+180355,NJ,Atlantic County Hamilton Member of the GEHR Board of Education,2026-11-03,99.9,,False,1,1,5498,2026-11-18T15:43+00:00
+180141,NJ,Hudson County City of Jersey City Board of Education-1 Year,2026-11-03,94,,False,4,1,31411,2026-11-18T15:43+00:00
+180503,NJ,Burlington County Bordentown Township Fire District No. 2 Board of Fire Commissioners,2026-11-03,86,,False,10,1,4305,2026-11-18T15:43+00:00
+180289,NJ,Salem County Commissioner - 3 Year Term,2026-11-03,0,,False,3,1,18807,2026-11-18T15:43+00:00
+180178,NJ,Mercer County Princeton Council,2026-11-03,95,,False,4,1,16921,2026-11-18T15:43+00:00
+180156,NJ,Mercer County Ewing Township Mayor,2026-11-03,96,,False,3,1,12487,2026-11-18T15:43+00:00
+180934,NJ,Passaic County Mayor Totowa,2026-11-03,99.9,,False,2,1,3039,2026-11-18T15:43+00:00
+180112,NJ,Gloucester County Woodbury Heights Board of Education,2026-11-03,99.9,,False,4,1,2833,2026-11-18T15:43+00:00
+180090,NJ,Gloucester County Washington Fire District Fire Commissioner,2026-11-03,99.9,,False,3,1,25888,2026-11-18T15:43+00:00
+180868,NJ,Ocean County Lavallette Member of the Board of Education,2026-11-03,99.9,,False,3,1,1504,2026-11-18T15:43+00:00
+180757,NJ,Monmouth County Manalapan-Englishtown Board of Education (Manalapan) (Full Term),2026-11-03,99.9,,False,5,1,29492,2026-11-18T15:43+00:00
+180927,NJ,Passaic County Mayor Prospect Park,2026-11-03,99.9,,False,3,1,1540,2026-11-18T15:43+00:00
+180521,NJ,Cape May County Member of the Council-City of Cape May,2026-11-03,83,,False,4,1,2443,2026-11-18T15:43+00:00
+180029,NJ,Cumberland County Greenwich Board of Education,2026-11-03,50,,False,2,1,28,2026-11-18T15:43+00:00
+180526,NJ,Cape May County Member of Council-Township of Lower-Ward 1,2026-11-03,89,,False,2,1,1536,2026-11-18T15:43+00:00
+180888,NJ,Ocean County Ship Bottom Lbicsd Member of the Board of Education,2026-11-03,99.9,,False,2,1,408,2026-11-18T15:43+00:00
+180674,NJ,Monmouth County Mayor Belmar Borough,2026-11-03,99.9,,False,3,1,2589,2026-11-18T15:43+00:00
+180460,NJ,Burlington County Mount Laurel Township Board of Education,2026-11-03,97,,False,33,1,39287,2026-11-18T15:43+00:00
+180630,NJ,Middlesex County South Brunswick Mayor,2026-11-03,97,,False,3,1,15239,2026-11-18T15:43+00:00
+180327,NJ,Atlantic County Atlantic City Members of the Local Board of Education,2026-11-03,99.9,,False,3,1,11107,2026-11-18T15:43+00:00
+180497,NJ,Burlington County North Hanover Township Northern Burlington County Regional School District Board of Education,2026-11-03,80,,False,4,1,1219,2026-11-18T15:43+00:00
+180475,NJ,Burlington County Washington Township Board of Education,2026-11-03,50,,False,2,1,15,2026-11-18T15:43+00:00
+180261,NJ,Morris County Mountain Lakes Borough Council,2026-11-03,99.9,,False,6,1,5004,2026-11-18T15:43+00:00
+180431,NJ,Burlington County Springfield Township Township Council,2026-11-03,75,,False,11,1,2876,2026-11-18T15:43+00:00
+180128,NJ,Hudson County Council at-Large Borough of East Newark,2026-11-03,99.9,,False,3,1,540,2026-11-18T15:43+00:00
+180906,NJ,Passaic County Members of Board of Education Bloomingdale,2026-11-03,99.9,,False,5,1,5402,2026-11-18T15:43+00:00
+180084,NJ,Gloucester County South Harrison Board of Education,2026-11-03,99.9,,False,4,1,2752,2026-11-18T15:43+00:00
+180062,NJ,Gloucester County Logan Council,2026-11-03,99.9,,False,3,1,1745,2026-11-18T15:43+00:00
+180840,NJ,Ocean County Plumsted Board of Fire Commissioners,2026-11-03,99.9,,False,2,1,2254,2026-11-18T15:43+00:00
+180921,NJ,Passaic County Members of the Board of Education North Haledon,2026-11-03,99.9,,False,6,1,6431,2026-11-18T15:43+00:00
+180707,NJ,Monmouth County Borough Council Rumson Borough,2026-11-03,99.9,,False,3,1,4309,2026-11-18T15:43+00:00
+180493,NJ,Burlington County Medford Township Lenape Regional High School District Board of Education,2026-11-03,95,,False,13,1,7877,2026-11-18T15:43+00:00
+180855,NJ,Ocean County Beach Haven Srhsd Member of the Board of Education,2026-11-03,99.9,,False,2,1,436,2026-11-18T15:43+00:00
+180641,NJ,Middlesex County East Brunswick Board of Education,2026-11-03,98,,False,7,1,36468,2026-11-18T15:43+00:00
+180530,NJ,Cape May County Board of Education-Township of Lower Elementary,2026-11-03,97,,False,6,1,17366,2026-11-18T15:43+00:00
+180508,NJ,Burlington County Delran Township Fire District No. 1 Board of Fire Commissioners Unexpired,2026-11-03,86,,False,5,1,3876,2026-11-18T15:43+00:00
+180294,NJ,Salem County Carneys Point School Board,2026-11-03,0,,False,3,1,1859,2026-11-18T15:43+00:00
+180464,NJ,Burlington County North Hanover Township Board of Education,2026-11-03,80,,False,8,1,2335,2026-11-18T15:43+00:00
+180442,NJ,Burlington County Beverly City Board of Education Unexpired,2026-11-03,75,,False,4,1,45,2026-11-18T15:43+00:00
+180939,NJ,Passaic County Member of Lakeland Regional Bd of Ed Wanaque,2026-11-03,99.9,,False,3,1,4794,2026-11-18T15:43+00:00
+180228,NJ,Morris County Jefferson Township Board of Education,2026-11-03,99.9,,False,4,1,12948,2026-11-18T15:43+00:00
+180117,NJ,Hudson County Commissioner District 1,2026-11-03,99.9,,False,2,1,12426,2026-11-18T15:43+00:00
+180287,NJ,Morris County Wharton Borough Board of Education,2026-11-03,99.9,,False,4,1,2868,2026-11-18T15:43+00:00
+180873,NJ,Ocean County Long Beach Lbicsd Member of the Board of Education,2026-11-03,99.9,,False,2,1,1202,2026-11-18T15:43+00:00
+180051,NJ,Gloucester County Franklin Board of Education,2026-11-03,99.9,,False,3,1,8861,2026-11-18T15:43+00:00
+180248,NJ,Morris County Montville Township Committee,2026-11-03,99.9,,False,5,1,17278,2026-11-18T15:43+00:00
+180034,NJ,Cumberland County Maurice River Board of Education,2026-11-03,67,,False,5,1,1728,2026-11-18T15:43+00:00
+180211,NJ,Morris County Dover Town Council Ward 2,2026-11-03,99.9,,False,2,1,720,2026-11-18T15:43+00:00
+180189,NJ,Morris County Boonton Town Council Ward 3,2026-11-03,99.9,,False,3,1,674,2026-11-18T15:43+00:00
+180679,NJ,Monmouth County Mayor Eatontown Borough,2026-11-03,99.9,,False,3,1,4346,2026-11-18T15:43+00:00
+180849,NJ,Ocean County South Toms River Member of Council,2026-11-03,99.9,,False,5,1,1675,2026-11-18T15:43+00:00
+180827,NJ,Ocean County Lakewood Board of Fire Commissioners,2026-11-03,99.9,,False,4,1,32379,2026-11-18T15:43+00:00
+180812,NJ,Ocean County Barnegat Member of the Township Committee,2026-11-03,99.9,,False,5,1,20312,2026-11-18T15:43+00:00
+180790,NJ,Monmouth County Wall Township Board of Education (1 Year Unexpired Term),2026-11-03,99.9,,False,2,1,6539,2026-11-18T15:43+00:00
+180480,NJ,Burlington County Woodland Township Board of Education,2026-11-03,50,,False,5,1,340,2026-11-18T15:43+00:00
+180266,NJ,Morris County Netcong Borough Board of Education,2026-11-03,99.9,,False,3,1,1524,2026-11-18T15:43+00:00
+180436,NJ,Burlington County Westampton Township Township Committee,2026-11-03,78,,False,11,1,5544,2026-11-18T15:43+00:00
+180613,NJ,Middlesex County Highland Park Borough Council,2026-11-03,93,,False,3,1,8147,2026-11-18T15:43+00:00
+180591,NJ,Essex County Fairfield Board of Education,2026-11-03,99.9,,False,2,1,3525,2026-11-18T15:43+00:00
+180281,NJ,Morris County Victory Gardens Borough Council,2026-11-03,99.9,,False,4,1,474,2026-11-18T15:43+00:00
+180067,NJ,Gloucester County Mantua Board of Education Unexpired,2026-11-03,99.9,,False,1,1,229,2026-11-18T15:43+00:00
+180845,NJ,Ocean County Seaside Park Member of Council,2026-11-03,99.9,,False,5,1,2280,2026-11-18T15:43+00:00
+180215,NJ,Morris County Town of Dover Board of Education,2026-11-03,99.9,,False,4,1,5110,2026-11-18T15:43+00:00
+181361,NJ,Somerset County Board of Education Somerville (2),2026-11-03,99.9,,False,2,1,3167,2026-11-18T15:43+00:00
+180882,NJ,Ocean County Point Pleasant Member of the Board of Education,2026-11-03,99.9,,False,7,1,10575,2026-11-18T15:43+00:00
+180860,NJ,Ocean County Island Heights Crsd Board of Education 1 Year Unexpired Term,2026-11-03,99.9,,False,3,1,684,2026-11-18T15:43+00:00
+180646,NJ,Middlesex County Metuchen Board of Education Unexpired,2026-11-03,93,,False,2,1,3817,2026-11-18T15:43+00:00
+180816,NJ,Ocean County Bay Head Member of Council,2026-11-03,99.9,,False,4,1,857,2026-11-18T15:43+00:00
+180001,NJ,Cumberland County Board of County Commissioners,2026-11-03,86,,False,14,1,111047,2026-11-18T15:43+00:00
+180299,NJ,Salem County Lower Alloways Creek Township Committee - 2 Year Unexpired Term,2026-11-03,0,,False,2,1,564,2026-11-18T15:43+00:00
+180469,NJ,Burlington County Riverton Borough Board of Education,2026-11-03,75,,False,6,1,2793,2026-11-18T15:43+00:00
+180639,NJ,Middlesex County Dunellen Board of Education,2026-11-03,86,,False,3,1,2405,2026-11-18T15:43+00:00
+180233,NJ,Morris County Kinnelon Borough Board of Education,2026-11-03,99.9,,False,5,1,6152,2026-11-18T15:43+00:00
+180602,NJ,Essex County Verona Board of Education,2026-11-03,99.9,,False,2,1,4827,2026-11-18T15:43+00:00
+180388,NJ,Burlington County Bordentown Township Township Committee,2026-11-03,82,,False,12,1,7556,2026-11-18T15:43+00:00
+180878,NJ,Ocean County Ocean Gate Member of the Board of Education,2026-11-03,99.9,,False,3,1,759,2026-11-18T15:43+00:00
+180393,NJ,Burlington County Burlington Township Mayor,2026-11-03,95,,False,6,1,8377,2026-11-18T15:43+00:00
+180563,NJ,Essex County Bloomfield Ward 2 Township Council,2026-11-03,99.9,,False,1,1,4698,2026-11-18T15:43+00:00
+180541,NJ,Cape May County Board of Education-Borough of Stone Harbor,2026-11-03,67,,False,4,1,611,2026-11-18T15:43+00:00
+180039,NJ,Cumberland County Upper Deerfield Board of Education - Unexpired Term,2026-11-03,80,,False,4,1,2160,2026-11-18T15:43+00:00
+180408,NJ,Burlington County Fieldsboro Borough Borough Council,2026-11-03,50,,False,3,1,334,2026-11-18T15:43+00:00
+180194,NJ,Morris County Boonton Township Question,2026-11-03,99.9,,False,2,1,1748,2026-11-18T15:43+00:00
+180972,NJ,Somerset County Mayor Rocky Hill,2026-11-03,99.9,,False,2,1,264,2026-11-18T15:43+00:00
+180150,NJ,Hudson County Town of Secaucus Board of Education-3 Years,2026-11-03,99.9,,False,4,1,5906,2026-11-18T15:43+00:00
+180832,NJ,Ocean County Manchester Member of Council,2026-11-03,99.9,,False,3,1,23721,2026-11-18T15:43+00:00
+180618,NJ,Middlesex County New Brunswick Mayor,2026-11-03,97,,False,2,1,5418,2026-11-18T15:43+00:00
+180987,NJ,Somerset County Board of Education Bridgewater-Raritan Raritan,2026-11-03,99.9,,False,2,1,2039,2026-11-18T15:43+00:00
+180773,NJ,Monmouth County Red Bank Borough Board of Education,2026-11-03,99.9,,False,4,1,6905,2026-11-18T15:43+00:00
+180943,NJ,Passaic County Member of Township Council West Milford,2026-11-03,99.9,,False,4,1,15165,2026-11-18T15:43+00:00
+180633,NJ,Middlesex County South Plainfield Borough Council,2026-11-03,94,,False,3,1,8908,2026-11-18T15:43+00:00
+180419,NJ,Burlington County North Hanover Township Township Committee,2026-11-03,80,,False,10,1,1049,2026-11-18T15:43+00:00
+180596,NJ,Essex County Montclair Board of Education,2026-11-03,99.9,,False,7,1,31340,2026-11-18T15:43+00:00
+180574,NJ,Essex County Montclair Council-At-Large (Unexpired Term),2026-11-03,99.9,,False,3,1,12082,2026-11-18T15:43+00:00
+180360,NJ,Atlantic County Linwood Council Ward 2,2026-11-03,99.9,,False,1,1,992,2026-11-18T15:43+00:00
+180242,NJ,Morris County Mendham Borough Mayor,2026-11-03,99.9,,False,2,1,1735,2026-11-18T15:43+00:00
+180220,NJ,Morris County Florham Park Borough Board of Education,2026-11-03,99.9,,False,3,1,5948,2026-11-18T15:43+00:00
+181366,NJ,Somerset County Board of Education Watchung Hills Watchung,2026-11-03,99.9,,False,3,1,2012,2026-11-18T15:43+00:00
+180375,NJ,Atlantic County Port Repub Members of the Local Board of Education,2026-11-03,99.9,,False,3,1,1098,2026-11-18T15:43+00:00
+180161,NJ,Mercer County Hightstown Borough Mayor,2026-11-03,80,,False,2,1,1312,2026-11-18T15:43+00:00
+180651,NJ,Middlesex County Old Bridge Board of Education,2026-11-03,95,,False,9,1,39912,2026-11-18T15:43+00:00
+180821,NJ,Ocean County Island Heights Member of Council,2026-11-03,99.9,,False,3,1,1283,2026-11-18T15:43+00:00
+180006,NJ,Cumberland County Deerfield Township Committee,2026-11-03,50,,False,8,1,1371,2026-11-18T15:43+00:00
+180976,NJ,Somerset County Township Committee Warren,2026-11-03,99.9,,False,5,1,14089,2026-11-18T15:43+00:00
+180954,NJ,Somerset County Borough Council Bound Brook,2026-11-03,99.9,,False,5,1,4062,2026-11-18T15:43+00:00
+180740,NJ,Monmouth County Freehold Borough Board of Education,2026-11-03,99.9,,False,5,1,4628,2026-11-18T15:43+00:00
+180238,NJ,Morris County Madison Borough Council,2026-11-03,99.9,,False,3,1,9162,2026-11-18T15:43+00:00
+180799,NJ,Monmouth County Board of Fire Commissioners Millstone Township FD1,2026-11-03,99.9,,False,3,1,4918,2026-11-18T15:43+00:00
+180745,NJ,Monmouth County Howell Township Board of Education (Full Term),2026-11-03,99.9,,False,4,1,25788,2026-11-18T15:43+00:00
+180915,NJ,Passaic County Members of Board of Education Hawthorne,2026-11-03,99.9,,False,6,1,12156,2026-11-18T15:43+00:00
+180893,NJ,Ocean County Toms River Trrsd Member of the Board of Education,2026-11-03,99.9,,False,8,1,67762,2026-11-18T15:43+00:00
+180398,NJ,Burlington County Cinnaminson Township Township Committee,2026-11-03,95,,False,7,1,14215,2026-11-18T15:43+00:00
+180760,NJ,Monmouth County Manasquan Board of Education (2 Year Unexpired Term),2026-11-03,99.9,,False,2,1,1783,2026-11-18T15:43+00:00
+180546,NJ,Cape May County Board of Education-Borough of West Cape May,2026-11-03,67,,False,2,1,399,2026-11-18T15:43+00:00
+180332,NJ,Atlantic County Brigantine Council-at-Large,2026-11-03,99.9,,False,2,1,5251,2026-11-18T15:43+00:00
+180502,NJ,Burlington County Bordentown Township Fire District No. 1 Public Question,2026-11-03,75,,False,2,1,1475,2026-11-18T15:43+00:00
+180199,NJ,Morris County Chatham Borough Board of Education,2026-11-03,99.9,,False,3,1,5360,2026-11-18T15:43+00:00
+180369,NJ,Atlantic County Northfield Members of the Local Board of Education,2026-11-03,99.9,,False,1,1,2071,2026-11-18T15:43+00:00
+180347,NJ,Atlantic County Estell Manor Council,2026-11-03,99.9,,False,1,1,590,2026-11-18T15:43+00:00
+180133,NJ,Hudson County Town of Guttenberg Public Question,2026-11-03,99.9,,False,2,1,1702,2026-11-18T15:43+00:00
+180303,NJ,Salem County Oldmans Township Committee,2026-11-03,0,,False,4,1,1353,2026-11-18T15:43+00:00
+180992,NJ,Somerset County Board of Education Manville,2026-11-03,99.9,,False,5,1,4522,2026-11-18T15:43+00:00
+180778,NJ,Monmouth County Sea Girt Board of Education,2026-11-03,99.9,,False,3,1,1415,2026-11-18T15:43+00:00
+180948,NJ,Somerset County Commissioner,2026-11-03,99.9,,False,5,1,247265,2026-11-18T15:43+00:00
+180926,NJ,Passaic County Member of Board of Education 1YR Unexpired Pompton Lakes,2026-11-03,99.9,,False,2,1,1318,2026-11-18T15:43+00:00
+180712,NJ,Monmouth County Township Committee Shrewsbury Township,2026-11-03,99.9,,False,3,1,364,2026-11-18T15:43+00:00
+180793,NJ,Monmouth County West Long Branch Borough Board of Education (Full Term),2026-11-03,99.9,,False,4,1,4164,2026-11-18T15:43+00:00
+180579,NJ,Essex County Verona Township Council Vacancy (Unexpired Term),2026-11-03,99.9,,False,4,1,5447,2026-11-18T15:43+00:00
+180365,NJ,Atlantic County Mullica Members of the Local Board of Education,2026-11-03,99.9,,False,2,1,2076,2026-11-18T15:43+00:00
+180727,NJ,Monmouth County Belmar Board of Education,2026-11-03,99.9,,False,3,1,3092,2026-11-18T15:43+00:00
+180513,NJ,Burlington County Florence Township Fire District No. 1 Board of Fire Commissioners,2026-11-03,90,,False,6,1,6421,2026-11-18T15:43+00:00
+180402,NJ,Burlington County Delran Township Council Ward 2,2026-11-03,86,,False,3,1,2209,2026-11-18T15:43+00:00
+180380,NJ,Atlantic County Weymouth Township Committee,2026-11-03,99.9,,False,1,1,831,2026-11-18T15:43+00:00
+180166,NJ,Mercer County Hopewell Borough Fire Election Question,2026-11-03,67,,False,2,1,898,2026-11-18T15:43+00:00
+180336,NJ,Atlantic County Buena Vista Township Committee,2026-11-03,99.9,,False,2,1,2509,2026-11-18T15:43+00:00
+180314,NJ,Salem County Quinton School Board,2026-11-03,0,,False,5,1,2261,2026-11-18T15:43+00:00
+180100,NJ,Gloucester County Westville Board of Education,2026-11-03,99.9,,False,2,1,1013,2026-11-18T15:43+00:00
+180981,NJ,Somerset County Board of Education Bernards,2026-11-03,99.9,,False,4,1,23274,2026-11-18T15:43+00:00
+180159,NJ,Mercer County Hamilton Township Members of the Board of Education,2026-11-03,98,,False,5,1,59778,2026-11-18T15:43+00:00
+180275,NJ,Morris County Riverdale Borough Board of Education,2026-11-03,99.9,,False,2,1,975,2026-11-18T15:43+00:00
+180253,NJ,Morris County Morris Township Committee,2026-11-03,99.9,,False,5,1,20599,2026-11-18T15:43+00:00
+180750,NJ,Monmouth County Keyport Board of Education,2026-11-03,99.9,,False,6,1,5379,2026-11-18T15:43+00:00
+180120,NJ,Hudson County Commissioner District 4,2026-11-03,94,,False,3,1,13667,2026-11-18T15:43+00:00
+180898,NJ,Ocean County Township of Lakewood Public Question,2026-11-03,99.9,,False,2,1,16830,2026-11-18T15:43+00:00
+180684,NJ,Monmouth County Borough Council Farmingdale Borough,2026-11-03,99.9,,False,3,1,817,2026-11-18T15:43+00:00
+180854,NJ,Ocean County Bay Head Member of the Board of Education,2026-11-03,99.9,,False,2,1,376,2026-11-18T15:43+00:00
+180551,NJ,Cape May County Mayor-Borough of Woodbine,2026-11-03,67,,False,2,1,346,2026-11-18T15:43+00:00
+180721,NJ,Monmouth County Allenhurst Board of Education,2026-11-03,99.9,,False,1,1,82,2026-11-18T15:43+00:00
+180699,NJ,Monmouth County Borough Council Matawan Borough,2026-11-03,99.9,,False,5,1,6360,2026-11-18T15:43+00:00
+180485,NJ,Burlington County Bordentown City Bordentown Regional School District Board of Education,2026-11-03,86,,False,6,1,1416,2026-11-18T15:43+00:00
+180655,NJ,Middlesex County Plainsboro Board of Education,2026-11-03,93,,False,2,1,3761,2026-11-18T15:43+00:00
+180352,NJ,Atlantic County Galloway Member of the GEHR Board of Education,2026-11-03,99.9,,False,1,1,7930,2026-11-18T15:43+00:00
+180138,NJ,Hudson County Town of Harrison Council Ward 4,2026-11-03,99.9,,False,2,1,619,2026-11-18T15:43+00:00
+180308,NJ,Salem County Pennsville School Board,2026-11-03,0,,False,4,1,8961,2026-11-18T15:43+00:00
+180286,NJ,Morris County Wharton Borough Council,2026-11-03,99.9,,False,5,1,4512,2026-11-18T15:43+00:00
+180072,NJ,Gloucester County National Park Council,2026-11-03,99.9,,False,4,1,1506,2026-11-18T15:43+00:00
+180153,NJ,Mercer County Board of County Commissioners,2026-11-03,94,,False,5,1,214522,2026-11-18T15:43+00:00
+180931,NJ,Passaic County Member of Board of Education 1YR Unexpired Prospect Park,2026-11-03,99.9,,False,2,1,729,2026-11-18T15:43+00:00
+180717,NJ,Monmouth County Township Committee Wall Township,2026-11-03,99.9,,False,3,1,15829,2026-11-18T15:43+00:00
+180087,NJ,Gloucester County Swedesboro Board of Education - Kingsway Regional,2026-11-03,99.9,,False,2,1,586,2026-11-18T15:43+00:00
+180865,NJ,Ocean County Lacey Board of Education 1 Year Unexpired Term,2026-11-03,99.9,,False,2,1,6538,2026-11-18T15:43+00:00
+180754,NJ,Monmouth County Village of Loch Arbour Board of Education,2026-11-03,99.9,,False,2,1,175,2026-11-18T15:43+00:00
+180732,NJ,Monmouth County Colts Neck Township Board of Education,2026-11-03,99.9,,False,10,1,10082,2026-11-18T15:43+00:00
+180518,NJ,Cape May County Sheriff,2026-11-03,98,,False,2,1,25449,2026-11-18T15:43+00:00
+180688,NJ,Monmouth County Borough Council Highlands Borough,2026-11-03,99.9,,False,5,1,2752,2026-11-18T15:43+00:00
+180666,NJ,Middlesex County Sayreville Public Question,2026-11-03,97,,False,2,1,10847,2026-11-18T15:43+00:00
+180171,NJ,Mercer County Hopewell Township Hopewell Valley Regional - Member of the Board of Education - 2 Year Unexpired Term,2026-11-03,93,,False,2,1,5975,2026-11-18T15:43+00:00
+180452,NJ,Burlington County Hainesport Township Board of Education,2026-11-03,83,,False,20,1,6278,2026-11-18T15:43+00:00
+180341,NJ,Atlantic County Corbin City Council,2026-11-03,99.9,,False,1,1,185,2026-11-18T15:43+00:00
+180511,NJ,Burlington County Edgewater Park Township Fire District No. 1 Board of Fire Commissioners,2026-11-03,89,,False,7,1,3459,2026-11-18T15:43+00:00
+180105,NJ,Gloucester County Woodbury Council Ward 2,2026-11-03,99.9,,False,3,1,914,2026-11-18T15:43+00:00
+180804,NJ,Monmouth County Board of Fire Commissioners Wall Township FD1,2026-11-03,99.9,,False,3,1,2043,2026-11-18T15:43+00:00
+180110,NJ,Gloucester County Woodbury Heights Council,2026-11-03,99.9,,False,5,1,2575,2026-11-18T15:43+00:00
+180472,NJ,Burlington County Springfield Township Board of Education,2026-11-03,75,,False,6,1,2783,2026-11-18T15:43+00:00
+180258,NJ,Morris County Mount Arlington Borough Council,2026-11-03,99.9,,False,5,1,5098,2026-11-18T15:43+00:00
+180044,NJ,Gloucester County Deptford Board of Education,2026-11-03,99.9,,False,6,1,23717,2026-11-18T15:43+00:00
+180413,NJ,Burlington County Maple Shade Township Township Council,2026-11-03,85,,False,8,1,8380,2026-11-18T15:43+00:00
+180903,NJ,Passaic County Commissioner Unexpired Term,2026-11-03,99.9,,False,3,1,126291,2026-11-18T15:43+00:00
+180081,NJ,Gloucester County Pitman Council,2026-11-03,99.9,,False,5,1,8037,2026-11-18T15:43+00:00
+180059,NJ,Gloucester County Harrison Board of Education - Clearview Regional,2026-11-03,99.9,,False,2,1,4116,2026-11-18T15:43+00:00
+180837,NJ,Ocean County Ocean Gate Member of Council,2026-11-03,99.9,,False,5,1,1438,2026-11-18T15:43+00:00
+180015,NJ,Cumberland County Stow Creek Township Committee,2026-11-03,50,,False,5,1,447,2026-11-18T15:43+00:00
+180704,NJ,Monmouth County Township Committee Neptune Township,2026-11-03,99.9,,False,2,1,8480,2026-11-18T15:43+00:00
+180490,NJ,Burlington County Evesham Township Lenape Regional High School District Board of Education,2026-11-03,97,,False,39,1,13857,2026-11-18T15:43+00:00
+180660,NJ,Middlesex County South Brunswick Board of Education,2026-11-03,97,,False,5,1,28145,2026-11-18T15:43+00:00
+180638,NJ,Middlesex County Cranbury Board of Education,2026-11-03,75,,False,3,1,2613,2026-11-18T15:43+00:00
+180424,NJ,Burlington County Pemberton Township Township Council Unexpired,2026-11-03,94,,False,5,1,6442,2026-11-18T15:43+00:00
+180505,NJ,Burlington County Cinnaminson Township Fire District No. 1 Board of Fire Commissioners,2026-11-03,95,,False,15,1,5207,2026-11-18T15:43+00:00
+180291,NJ,Salem County Alloway Township Committee,2026-11-03,0,,False,2,1,1136,2026-11-18T15:43+00:00
+180077,NJ,Gloucester County Newfield Council,2026-11-03,99.9,,False,4,1,958,2026-11-18T15:43+00:00
+180439,NJ,Burlington County Wrightstown Borough Borough Council,2026-11-03,50,,False,3,1,110,2026-11-18T15:43+00:00
+180225,NJ,Morris County Jefferson Township Council,2026-11-03,99.9,,False,3,1,10694,2026-11-18T15:43+00:00
+180114,NJ,Gloucester County Woolwich Board of Education - Kingsway Regional,2026-11-03,99.9,,False,3,1,8201,2026-11-18T15:43+00:00
+180092,NJ,Gloucester County Wenonah Council,2026-11-03,99.9,,False,4,1,1879,2026-11-18T15:43+00:00
+180870,NJ,Ocean County Little Egg Harbor Prsd Member of the BRD of Ed,2026-11-03,99.9,,False,2,1,5033,2026-11-18T15:43+00:00
+180048,NJ,Gloucester County Elk Board of Education,2026-11-03,99.9,,False,4,1,3839,2026-11-18T15:43+00:00
+180026,NJ,Cumberland County Cumberland Regional Board of Education (Fairfield),2026-11-03,80,,False,10,1,62,2026-11-18T15:43+00:00
+180523,NJ,Cape May County Board of Education-Borough of Cape May Point,2026-11-03,50,,False,2,1,92,2026-11-18T15:43+00:00
+180693,NJ,Monmouth County Borough Council Keyport Borough,2026-11-03,99.9,,False,5,1,5235,2026-11-18T15:43+00:00
+180863,NJ,Ocean County Jackson Member of the Board of Education,2026-11-03,99.9,,False,3,1,24255,2026-11-18T15:43+00:00
+180457,NJ,Burlington County Medford Township Board of Education,2026-11-03,95,,False,24,1,21155,2026-11-18T15:43+00:00
+180627,NJ,Middlesex County Sayreville Borough Council,2026-11-03,97,,False,5,1,26385,2026-11-18T15:43+00:00
+180824,NJ,Ocean County Lacey Member of the Township Committee,2026-11-03,99.9,,False,3,1,11398,2026-11-18T15:43+00:00
+180809,NJ,Monmouth County Neptune City Question,2026-11-03,99.9,,False,2,1,1609,2026-11-18T15:43+00:00
+180787,NJ,Monmouth County Union Beach Board of Education,2026-11-03,99.9,,False,3,1,2266,2026-11-18T15:43+00:00
+180765,NJ,Monmouth County Millstone Township Board of Education,2026-11-03,99.9,,False,7,1,10102,2026-11-18T15:43+00:00
+180263,NJ,Morris County Mountain Lakes Borough Board of Education,2026-11-03,99.9,,False,7,1,4055,2026-11-18T15:43+00:00
+180433,NJ,Burlington County Tabernacle Township Township Committee,2026-11-03,86,,False,19,1,1921,2026-11-18T15:43+00:00
+180610,NJ,Middlesex County Dunellen Borough Council,2026-11-03,86,,False,5,1,4257,2026-11-18T15:43+00:00
+180204,NJ,Morris County Chester Township Council,2026-11-03,99.9,,False,3,1,4445,2026-11-18T15:43+00:00
+180374,NJ,Atlantic County Port Republic Council Ward 2,2026-11-03,99.9,,False,1,1,225,2026-11-18T15:43+00:00
+180064,NJ,Gloucester County Mantua Township Committee,2026-11-03,99.9,,False,3,1,6274,2026-11-18T15:43+00:00
+180842,NJ,Ocean County Point Pleasant Member of Council,2026-11-03,99.9,,False,4,1,13285,2026-11-18T15:43+00:00
+180020,NJ,Cumberland County Cumberland Regional Board of Education (Deerfield),2026-11-03,50,,False,3,1,835,2026-11-18T15:43+00:00
+180997,NJ,Somerset County Board of Education Somerset Hills Bernardsville,2026-11-03,99.9,,False,3,1,4207,2026-11-18T15:43+00:00
+180175,NJ,Mercer County Lawrence Township Members of the Board of Education,2026-11-03,95,,False,4,1,26926,2026-11-18T15:43+00:00
+180857,NJ,Ocean County Berkeley Member of the Board of Education,2026-11-03,99.9,,False,3,1,17069,2026-11-18T15:43+00:00
+180643,NJ,Middlesex County Highland Park Board of Education,2026-11-03,93,,False,7,1,11263,2026-11-18T15:43+00:00
+180429,NJ,Burlington County Shamong Township Township Committee,2026-11-03,80,,False,6,1,2550,2026-11-18T15:43+00:00
+180798,NJ,Monmouth County Board of Fire Commissioners Marlboro Township FD1,2026-11-03,99.9,,False,3,1,7864,2026-11-18T15:43+00:00
+180584,NJ,Essex County Belleville Board of Education,2026-11-03,92,,False,4,1,11875,2026-11-18T15:43+00:00
+180466,NJ,Burlington County Pemberton Township Board of Education,2026-11-03,90,,False,16,1,14690,2026-11-18T15:43+00:00
+180444,NJ,Burlington County Burlington Township Board of Education,2026-11-03,95,,False,48,1,12591,2026-11-18T15:43+00:00
+180230,NJ,Morris County Kinnelon Borough Council,2026-11-03,99.9,,False,3,1,5547,2026-11-18T15:43+00:00
+180599,NJ,Essex County Orange Board of Education,2026-11-03,99.9,,False,3,1,8328,2026-11-18T15:43+00:00
+180385,NJ,Atlantic County Weymouth Member of the Board of Fire Comm - 1YUxp,2026-11-03,99.9,,False,1,1,0,2026-11-18T15:43+00:00
+180875,NJ,Ocean County Ocean Member of the Board of Education,2026-11-03,99.9,,False,3,1,4984,2026-11-18T15:43+00:00
+180053,NJ,Gloucester County Glassboro Council,2026-11-03,99.9,,False,5,1,11260,2026-11-18T15:43+00:00
+180223,NJ,Morris County Harding Township Committee,2026-11-03,99.9,,False,4,1,3244,2026-11-18T15:43+00:00
+180208,NJ,Morris County Denville Board of Education - Morris Hills Regional,2026-11-03,99.9,,False,2,1,4967,2026-11-18T15:43+00:00
+180186,NJ,Morris County Board of County Commissioners,2026-11-03,99,,False,3,1,189395,2026-11-18T15:43+00:00
+180964,NJ,Somerset County Borough Council Millstone,2026-11-03,99.9,,False,4,1,322,2026-11-18T15:43+00:00
+180462,NJ,Burlington County Mount Laurel Township Board of Education 1 Year Unexpired,2026-11-03,97,,False,22,1,13952,2026-11-18T15:43+00:00
+180969,NJ,Somerset County Borough Council Peapack-Gladstone,2026-11-03,99.9,,False,5,1,2337,2026-11-18T15:43+00:00
+180147,NJ,Hudson County Town of Secaucus Council Ward 1,2026-11-03,99.9,,False,2,1,595,2026-11-18T15:43+00:00
+180125,NJ,Hudson County Commissioner District 9,2026-11-03,98,,False,3,1,13636,2026-11-18T15:43+00:00
+180615,NJ,Middlesex County Metuchen Borough Council,2026-11-03,93,,False,3,1,8915,2026-11-18T15:43+00:00
+180984,NJ,Somerset County School Bond 1 Branchburg,2026-11-03,99.9,,False,2,1,6520,2026-11-18T15:43+00:00
+180770,NJ,Monmouth County Shore Regional HS Board of Education (Oceanport),2026-11-03,99.9,,False,2,1,1984,2026-11-18T15:43+00:00
+180556,NJ,Essex County Board of County Comissioners (1st County Commissioner District),2026-11-03,91,,False,1,1,15352,2026-11-18T15:43+00:00
+180726,NJ,Monmouth County Avon Board of Education,2026-11-03,99.9,,False,3,1,1254,2026-11-18T15:43+00:00
+180416,NJ,Burlington County Mount Holly Township Township Council Unexpired,2026-11-03,88,,False,3,1,2418,2026-11-18T15:43+00:00
+180593,NJ,Essex County Livingston Board of Education,2026-11-03,99.9,,False,2,1,7576,2026-11-18T15:43+00:00
+180571,NJ,Essex County Livingston Township Council,2026-11-03,99.9,,False,4,1,23161,2026-11-18T15:43+00:00
+180357,NJ,Atlantic County Hammonton Council,2026-11-03,99.9,,False,3,1,10978,2026-11-18T15:43+00:00
+180527,NJ,Cape May County Member of Council-Township of Lower-Ward 2,2026-11-03,92,,False,4,1,3205,2026-11-18T15:43+00:00
+180217,NJ,Morris County East Hanover Township Board of Education,2026-11-03,99.9,,False,6,1,7348,2026-11-18T15:43+00:00
+181363,NJ,Somerset County Board of Education Warren,2026-11-03,99.9,,False,4,1,10299,2026-11-18T15:43+00:00
+180180,NJ,Mercer County Robbinsville Township Council - 1 Year Unexpired Term,2026-11-03,90,,False,3,1,4740,2026-11-18T15:43+00:00
+180158,NJ,Mercer County Ewing Township Members of the Board of Education,2026-11-03,96,,False,4,1,26293,2026-11-18T15:43+00:00
+180936,NJ,Passaic County Member of Passaic Valley Regional Bd of Ed Totowa,2026-11-03,99.9,,False,2,1,1951,2026-11-18T15:43+00:00
+180818,NJ,Ocean County Beachwood Member of Council,2026-11-03,99.9,,False,3,1,4179,2026-11-18T15:43+00:00
+180003,NJ,Cumberland County Bridgeton Council-at-Large,2026-11-03,92,,False,16,1,12127,2026-11-18T15:43+00:00
+180589,NJ,Essex County West Essex Regional School District Bond Proposal 2,2026-11-03,99.9,,False,2,1,7875,2026-11-18T15:43+00:00
+180951,NJ,Somerset County Township Committee Bernards,2026-11-03,99.9,,False,5,1,22931,2026-11-18T15:43+00:00
+180737,NJ,Monmouth County Fair Haven Board of Education,2026-11-03,99.9,,False,3,1,4070,2026-11-18T15:43+00:00
+180235,NJ,Morris County Lincoln Park Board of Education (Unexpired Term),2026-11-03,99.9,,False,1,1,147,2026-11-18T15:43+00:00
+180604,NJ,Essex County West Orange Board of Education,2026-11-03,99.9,,False,3,1,15775,2026-11-18T15:43+00:00
+180390,NJ,Burlington County Burlington City Board of Island Managers - Treasurer,2026-11-03,85,,False,15,1,76,2026-11-18T15:43+00:00
+180560,NJ,Essex County Board of County Comissioners (5th County Commissioner District),2026-11-03,98,,False,2,1,47818,2026-11-18T15:43+00:00
+180538,NJ,Cape May County Board of Education-City of Ocean City(Unex),2026-11-03,95,,False,2,1,1873,2026-11-18T15:43+00:00
+180324,NJ,Atlantic County Clerk,2026-11-03,99.9,,False,2,1,91273,2026-11-18T15:43+00:00
+180213,NJ,Morris County Dover Town Council Ward 4,2026-11-03,99.9,,False,2,1,397,2026-11-18T15:43+00:00
+180383,NJ,Atlantic County Weymouth Member of the Local Board of Education 1YUxp,2026-11-03,99.9,,False,1,1,0,2026-11-18T15:43+00:00
+180499,NJ,Burlington County Springfield Township Northern Burlington County Regional School District Board of Education,2026-11-03,75,,False,3,1,1065,2026-11-18T15:43+00:00
+180477,NJ,Burlington County Westampton Township Board of Education,2026-11-03,78,,False,17,1,7577,2026-11-18T15:43+00:00
+180974,NJ,Somerset County Borough Council Somerville,2026-11-03,99.9,,False,3,1,7435,2026-11-18T15:43+00:00
+180344,NJ,Atlantic County Egg Harbor TWP Township Committee,2026-11-03,99.9,,False,4,1,33447,2026-11-18T15:43+00:00
+180130,NJ,Hudson County East Newark Board of Education Question,2026-11-03,99.9,,False,2,1,326,2026-11-18T15:43+00:00
+180908,NJ,Passaic County Members of Board of Education Clifton,2026-11-03,99.9,,False,5,1,40291,2026-11-18T15:43+00:00
+180086,NJ,Gloucester County Swedesboro Council Unexpired,2026-11-03,99.9,,False,3,1,618,2026-11-18T15:43+00:00
+180775,NJ,Monmouth County Roosevelt Board of Education (2 Year Unexpired Term),2026-11-03,99.9,,False,1,1,29,2026-11-18T15:43+00:00
+180945,NJ,Passaic County Mayor Woodland Park,2026-11-03,99.9,,False,2,1,3114,2026-11-18T15:43+00:00
+180923,NJ,Passaic County Members of Borough Council Pompton Lakes,2026-11-03,99.9,,False,3,1,4438,2026-11-18T15:43+00:00
+180709,NJ,Monmouth County Sea Bright Council Unexpired,2026-11-03,99.9,,False,3,1,704,2026-11-18T15:43+00:00
+180879,NJ,Ocean County Ocean Gate Board of Education 1 Year Unexpired Term,2026-11-03,99.9,,False,1,1,96,2026-11-18T15:43+00:00
+180576,NJ,Essex County North Caldwell Borough Council,2026-11-03,99.9,,False,2,1,3314,2026-11-18T15:43+00:00
+180362,NJ,Atlantic County Longport Member of the Local Board of Education,2026-11-03,99.9,,False,1,1,265,2026-11-18T15:43+00:00
+180532,NJ,Cape May County Board of Education-Township of Middle,2026-11-03,95,,False,8,1,17622,2026-11-18T15:43+00:00
+180510,NJ,Burlington County Eastampton Township Fire District No. 1 Board of Fire Commissioners,2026-11-03,86,,False,5,1,1903,2026-11-18T15:43+00:00
+180296,NJ,Salem County Elsinboro Township Committee,2026-11-03,0,,False,2,1,429,2026-11-18T15:43+00:00
+180377,NJ,Atlantic County Somers Point Council Ward 2,2026-11-03,99.9,,False,2,1,1792,2026-11-18T15:43+00:00
+180163,NJ,Mercer County Hightstown Borough East Windsor Regional - Member of the Board of Education,2026-11-03,80,,False,2,1,1308,2026-11-18T15:43+00:00
+180941,NJ,Passaic County 5th Ward Council Unexpired Term Wayne,2026-11-03,99.9,,False,3,1,2576,2026-11-18T15:43+00:00
+180311,NJ,Salem County Pittsgrove Township Committee,2026-11-03,0,,False,3,1,5133,2026-11-18T15:43+00:00
+180097,NJ,Gloucester County Westville Council,2026-11-03,99.9,,False,6,1,2443,2026-11-18T15:43+00:00
+180978,NJ,Somerset County Mayor Watchung,2026-11-03,99.9,,False,3,1,2832,2026-11-18T15:43+00:00
+180956,NJ,Somerset County Mayor Far Hills,2026-11-03,99.9,,False,2,1,365,2026-11-18T15:43+00:00
+180742,NJ,Monmouth County Hazlet Township Board of Education,2026-11-03,99.9,,False,4,1,12582,2026-11-18T15:43+00:00
+180912,NJ,Passaic County Members of the Manchester Regional Bd of Ed Haledon,2026-11-03,99.9,,False,3,1,2324,2026-11-18T15:43+00:00
+180890,NJ,Ocean County Stafford Member of the Board of Education,2026-11-03,99.9,,False,4,1,18572,2026-11-18T15:43+00:00
+180676,NJ,Monmouth County Borough Council Brielle Borough (Full Term),2026-11-03,99.9,,False,3,1,3218,2026-11-18T15:43+00:00
+180565,NJ,Essex County Caldwell Mayor,2026-11-03,99.9,,False,2,1,3030,2026-11-18T15:43+00:00
+180735,NJ,Monmouth County Eatontown Board of Education,2026-11-03,99.9,,False,3,1,5063,2026-11-18T15:43+00:00
+180329,NJ,Atlantic County Absecon Members of the Local Board of Education,2026-11-03,99.9,,False,3,1,4954,2026-11-18T15:43+00:00
+180829,NJ,Ocean County Lavallette Member of Council,2026-11-03,99.9,,False,3,1,1630,2026-11-18T15:43+00:00
+180334,NJ,Atlantic County Buena BGH Member of the Buena Regional Board of Education,2026-11-03,99.9,,False,1,1,810,2026-11-18T15:43+00:00
+180696,NJ,Monmouth County Borough Council Little Silver Borough,2026-11-03,99.9,,False,3,1,3977,2026-11-18T15:43+00:00
+180482,NJ,Burlington County North Hanover Township Board of Education 2 Year Unexpired,2026-11-03,80,,False,3,1,1208,2026-11-18T15:43+00:00
+180268,NJ,Morris County Pequannock Township Council,2026-11-03,99.9,,False,6,1,16708,2026-11-18T15:43+00:00
+180438,NJ,Burlington County Woodland Township Township Committee,2026-11-03,50,,False,7,1,306,2026-11-18T15:43+00:00
+180135,NJ,Hudson County Town of Harrison Council Ward 1,2026-11-03,99.9,,False,2,1,512,2026-11-18T15:43+00:00
+180305,NJ,Salem County Penns Grove Borough Council,2026-11-03,0,,False,5,1,1340,2026-11-18T15:43+00:00
+180283,NJ,Morris County Washington Township Board of Education - West Morris Regional,2026-11-03,99.9,,False,2,1,5227,2026-11-18T15:43+00:00
+180069,NJ,Gloucester County Monroe Mayor,2026-11-03,99.9,,False,3,1,14462,2026-11-18T15:43+00:00
+180239,NJ,Morris County Long Hill Board of Education - Watchung Hills Regional,2026-11-03,99.9,,False,1,1,395,2026-11-18T15:43+00:00
+180928,NJ,Passaic County Members of Borough Council Prospect Park,2026-11-03,99.9,,False,5,1,3035,2026-11-18T15:43+00:00
+180714,NJ,Monmouth County Borough Council Spring Lake Heights Borough,2026-11-03,99.9,,False,3,1,3211,2026-11-18T15:43+00:00
+180884,NJ,Ocean County Seaside Heights Crsd Member of the Board of Education,2026-11-03,99.9,,False,2,1,339,2026-11-18T15:43+00:00
+180862,NJ,Ocean County Island Heights Board of Education 1 Year Unexpired Term,2026-11-03,99.9,,False,2,1,596,2026-11-18T15:43+00:00
+180648,NJ,Middlesex County Milltown Board of Education,2026-11-03,90,,False,5,1,4675,2026-11-18T15:43+00:00
+180729,NJ,Monmouth County Brielle Board of Education,2026-11-03,99.9,,False,4,1,4634,2026-11-18T15:43+00:00
+180515,NJ,Burlington County Mount Laurel Township Fire District No. 1 Board of Fire Commissioners,2026-11-03,97,,False,16,1,26723,2026-11-18T15:43+00:00
+180301,NJ,Salem County Mannington Township Committee,2026-11-03,0,,False,2,1,356,2026-11-18T15:43+00:00
+180663,NJ,Middlesex County Spotswood & Helmetta Board of Education,2026-11-03,80,,False,1,1,324,2026-11-18T15:43+00:00
+180449,NJ,Burlington County Edgewater Park Township Board of Education,2026-11-03,89,,False,12,1,5682,2026-11-18T15:43+00:00
+180338,NJ,Atlantic County Buena Vsta Member of the Buena Regional Board of Education 2Yunexp,2026-11-03,99.9,,False,1,1,1604,2026-11-18T15:43+00:00
+180316,NJ,Salem County Salem City Council West Ward - 4 Year Term,2026-11-03,0,,False,2,1,347,2026-11-18T15:43+00:00
+180102,NJ,Gloucester County Westville Fire District Fire Commissioner Unexpired,2026-11-03,99.9,,False,2,1,908,2026-11-18T15:43+00:00
+180272,NJ,Morris County Pequannock Township Question,2026-11-03,99.9,,False,2,1,5790,2026-11-18T15:43+00:00
+180250,NJ,Morris County Montville Township Board of Education,2026-11-03,99.9,,False,7,1,19916,2026-11-18T15:43+00:00
+180747,NJ,Monmouth County Interlaken Board of Education (Full Term),2026-11-03,99.9,,False,2,1,347,2026-11-18T15:43+00:00
+180036,NJ,Cumberland County Millville Board of Education - Unexpired Term,2026-11-03,95,,False,10,1,4858,2026-11-18T15:43+00:00
+180917,NJ,Passaic County Member of Passaic Valley Regional Bd of Ed Little Falls,2026-11-03,99.9,,False,2,1,2631,2026-11-18T15:43+00:00
+180095,NJ,Gloucester County West Deptford Board of Education,2026-11-03,99.9,,False,4,1,17320,2026-11-18T15:43+00:00
+180681,NJ,Monmouth County Borough Council Englishtown Borough,2026-11-03,99.9,,False,3,1,736,2026-11-18T15:43+00:00
+180851,NJ,Ocean County Tuckerton Mayor,2026-11-03,99.9,,False,2,1,882,2026-11-18T15:43+00:00
+180056,NJ,Gloucester County Greenwich Board of Education,2026-11-03,99.9,,False,3,1,1711,2026-11-18T15:43+00:00
+180834,NJ,Ocean County Mantoloking Member of Council,2026-11-03,99.9,,False,3,1,248,2026-11-18T15:43+00:00
+180620,NJ,Middlesex County North Brunswick Township Council,2026-11-03,96,,False,3,1,18134,2026-11-18T15:43+00:00
+180989,NJ,Somerset County Board of Education Green Brook,2026-11-03,99.9,,False,3,1,2961,2026-11-18T15:43+00:00
+180487,NJ,Burlington County Bordentown Township Bordentown Regional School District Board of Education,2026-11-03,82,,False,18,1,3303,2026-11-18T15:43+00:00
+180657,NJ,Middlesex County Sayreville Board of Education Unexpired,2026-11-03,97,,False,2,1,7640,2026-11-18T15:43+00:00
+180635,NJ,Middlesex County Spotswood Borough Council,2026-11-03,88,,False,6,1,5480,2026-11-18T15:43+00:00
+180421,NJ,Burlington County Pemberton Borough Borough Council,2026-11-03,50,,False,4,1,507,2026-11-18T15:43+00:00
+180598,NJ,Essex County Nutley Board of Education,2026-11-03,99.9,,False,7,1,20615,2026-11-18T15:43+00:00
+180288,NJ,Morris County Wharton Borough Board of Education (Unexpired Term),2026-11-03,99.9,,False,2,1,1398,2026-11-18T15:43+00:00
+180074,NJ,Gloucester County National Park Board of Education - Gateway Regional,2026-11-03,99.9,,False,2,1,749,2026-11-18T15:43+00:00
+180244,NJ,Morris County Mendham Township Committee,2026-11-03,99.9,,False,3,1,2866,2026-11-18T15:43+00:00
+180222,NJ,Morris County Hanover Township Board of Education,2026-11-03,99.9,,False,4,1,11143,2026-11-18T15:43+00:00
+180399,NJ,Burlington County Delanco Township Township Committee,2026-11-03,86,,False,5,1,1484,2026-11-18T15:43+00:00
+180089,NJ,Gloucester County Washington Board of Education,2026-11-03,99.9,,False,11,1,46203,2026-11-18T15:43+00:00
+180867,NJ,Ocean County Lakewood Member of the Board of Education,2026-11-03,99.9,,False,3,1,37579,2026-11-18T15:43+00:00
+180653,NJ,Middlesex County Perth Amboy Board of Education Unexpired,2026-11-03,97,,False,2,1,4188,2026-11-18T15:43+00:00
+180023,NJ,Cumberland County Downe Board of Education,2026-11-03,67,,False,5,1,78,2026-11-18T15:43+00:00
+180008,NJ,Cumberland County Downe Township Referendum Question,2026-11-03,67,,False,2,1,487,2026-11-18T15:43+00:00
+180690,NJ,Monmouth County Councilmembers At-Large Howell Township,2026-11-03,99.9,,False,4,1,34322,2026-11-18T15:43+00:00
+180668,NJ,Monmouth County Board of County Commissioners,2026-11-03,99,,False,5,1,456271,2026-11-18T15:43+00:00
+180454,NJ,Burlington County Mansfield Township Board of Education,2026-11-03,89,,False,48,1,5504,2026-11-18T15:43+00:00
+180624,NJ,Middlesex County Piscataway Township Council Ward 3,2026-11-03,90,,False,2,1,2833,2026-11-18T15:43+00:00
+180801,NJ,Monmouth County Board of Fire Commissioners Ocean Township FD2,2026-11-03,99.9,,False,3,1,2978,2026-11-18T15:43+00:00
+180107,NJ,Gloucester County Woodbury Council Ward 3,2026-11-03,99.9,,False,3,1,1061,2026-11-18T15:43+00:00
+180277,NJ,Morris County Rockaway Township Board of Education - Morris Hills Regional,2026-11-03,99.9,,False,3,1,11841,2026-11-18T15:43+00:00
+180447,NJ,Burlington County Delran Township Board of Education,2026-11-03,86,,False,18,1,13258,2026-11-18T15:43+00:00
+180041,NJ,Gloucester County Commissioner,2026-11-03,99.9,,False,7,1,335408,2026-11-18T15:43+00:00
+180410,NJ,Burlington County Hainesport Township Township Committee,2026-11-03,83,,False,5,1,5424,2026-11-18T15:43+00:00
+180196,NJ,Morris County Butler Borough Council,2026-11-03,99.9,,False,3,1,3322,2026-11-18T15:43+00:00
+180686,NJ,Monmouth County Township Committee Freehold Township,2026-11-03,99.9,,False,3,1,16850,2026-11-18T15:43+00:00
+180607,NJ,Middlesex County Carteret Mayor,2026-11-03,95,,False,2,1,4569,2026-11-18T15:43+00:00
+180201,NJ,Morris County Chester Borough Mayor,2026-11-03,99.9,,False,2,1,528,2026-11-18T15:43+00:00
+180371,NJ,Atlantic County Pleasantville Council Ward 2,2026-11-03,99.9,,False,1,1,1820,2026-11-18T15:43+00:00
+180349,NJ,Atlantic County Folsom Members of the Local Board of Education,2026-11-03,99.9,,False,2,1,780,2026-11-18T15:43+00:00
+180839,NJ,Ocean County Plumsted Member of the Township Committee,2026-11-03,99.9,,False,2,1,2421,2026-11-18T15:43+00:00
+180017,NJ,Cumberland County Bridgeton Board of Education,2026-11-03,92,,False,15,1,7586,2026-11-18T15:43+00:00
+180994,NJ,Somerset County Board of Education Montgomery-Rocky Hill,2026-11-03,99.9,,False,10,1,21039,2026-11-18T15:43+00:00
+180780,NJ,Monmouth County Shrewsbury Borough Board of Education,2026-11-03,99.9,,False,4,1,3607,2026-11-18T15:43+00:00
+180950,NJ,Somerset County Township Committee Bedminster (2),2026-11-03,99.9,,False,3,1,3751,2026-11-18T15:43+00:00
+180640,NJ,Middlesex County Dunellen Board of Education Unexpired,2026-11-03,86,,False,2,1,1281,2026-11-18T15:43+00:00
+180426,NJ,Burlington County Pemberton Township Charter Study Commission,2026-11-03,94,,False,51,1,4913,2026-11-18T15:43+00:00
+180795,NJ,Monmouth County Borough Council Sea Girt Borough,2026-11-03,99.9,,False,3,1,1588,2026-11-18T15:43+00:00
+180581,NJ,Essex County West Caldwell Township Council,2026-11-03,99.9,,False,2,1,5198,2026-11-18T15:43+00:00
+180751,NJ,Monmouth County Lake Como Board of Education,2026-11-03,99.9,,False,3,1,935,2026-11-18T15:43+00:00
+180441,NJ,Burlington County Beverly City Board of Education,2026-11-03,75,,False,3,1,62,2026-11-18T15:43+00:00
+180227,NJ,Morris County Harding Township Board of Education,2026-11-03,99.9,,False,3,1,2318,2026-11-18T15:43+00:00
+180404,NJ,Burlington County Eastampton Township Township Council,2026-11-03,86,,False,14,1,4015,2026-11-18T15:43+00:00
+180382,NJ,Atlantic County Weymouth Member of the Local Board of Education 2YUxp,2026-11-03,99.9,,False,1,1,0,2026-11-18T15:43+00:00
+180168,NJ,Mercer County Hopewell Township Municipal Question,2026-11-03,93,,False,2,1,6401,2026-11-18T15:43+00:00
+180050,NJ,Gloucester County Franklin Board of Education - Delsea Regional,2026-11-03,99.9,,False,4,1,13075,2026-11-18T15:43+00:00
+180028,NJ,Cumberland County Cumberland Regional Board of Education (Greenwich),2026-11-03,50,,False,2,1,15,2026-11-18T15:43+00:00
+180013,NJ,Cumberland County Maurice River Township Committee,2026-11-03,67,,False,8,1,803,2026-11-18T15:43+00:00
+180183,NJ,Mercer County Trenton Council at Large,2026-11-03,92,,False,7,1,20911,2026-11-18T15:43+00:00
+180961,NJ,Somerset County Fire District Hillsborough,2026-11-03,99.9,,False,2,1,12232,2026-11-18T15:43+00:00
+180459,NJ,Burlington County Mount Holly Township Board of Education,2026-11-03,88,,False,19,1,190,2026-11-18T15:43+00:00
+180629,NJ,Middlesex County South Amboy City Council At-Large,2026-11-03,90,,False,5,1,5128,2026-11-18T15:43+00:00
+180806,NJ,Monmouth County Board of Fire Commissioners Wall Township FD3,2026-11-03,99.9,,False,3,1,6238,2026-11-18T15:43+00:00
+180784,NJ,Monmouth County Spring Lake Heights Board of Education,2026-11-03,99.9,,False,2,1,1554,2026-11-18T15:43+00:00
+180762,NJ,Monmouth County Marlboro Township Board of Education (2 Year Unexpired Term),2026-11-03,99.9,,False,3,1,10410,2026-11-18T15:43+00:00
+180548,NJ,Cape May County Board of Education-City of Wildwood,2026-11-03,83,,False,2,1,797,2026-11-18T15:43+00:00
+180046,NJ,Gloucester County East Greenwich Board of Education,2026-11-03,99.9,,False,1,1,462,2026-11-18T15:43+00:00
+180553,NJ,Cape May County Board of Education-Borough of Woodbine,2026-11-03,67,,False,3,1,660,2026-11-18T15:43+00:00
+180723,NJ,Monmouth County Asbury Park Board of Education,2026-11-03,99.9,,False,5,1,8917,2026-11-18T15:43+00:00
+180701,NJ,Monmouth County Township Committee Millstone Township,2026-11-03,99.9,,False,3,1,5677,2026-11-18T15:43+00:00
+180206,NJ,Morris County Chester Township Board of Education - West Morris Regional,2026-11-03,99.9,,False,3,1,2636,2026-11-18T15:43+00:00
+180568,NJ,Essex County Fairfield Municipal Public Question,2026-11-03,99.9,,False,2,1,2334,2026-11-18T15:43+00:00
+180354,NJ,Atlantic County Hamilton Township Committee,2026-11-03,99.9,,False,2,1,9862,2026-11-18T15:43+00:00
+180140,NJ,Hudson County City of Jersey City Board of Education-3 Years,2026-11-03,94,,False,10,1,108483,2026-11-18T15:43+00:00
+180310,NJ,Salem County Pilesgrove School Board,2026-11-03,0,,False,2,1,1229,2026-11-18T15:43+00:00
+180999,NJ,Somerset County Board of Education Somerville,2026-11-03,99.9,,False,4,1,7397,2026-11-18T15:43+00:00
+180177,NJ,Mercer County Pennington Borough Fire Commissioner,2026-11-03,75,,False,3,1,1935,2026-11-18T15:43+00:00
+180155,NJ,Mercer County East Windsor Township East Windsor Regional - Members of the Board of Education,2026-11-03,94,,False,6,1,14670,2026-11-18T15:43+00:00
+180933,NJ,Passaic County Members of Board of Education Ringwood,2026-11-03,99.9,,False,6,1,9271,2026-11-18T15:43+00:00
+180111,NJ,Gloucester County Woodbury Heights Board of Education - Gateway Regional,2026-11-03,99.9,,False,3,1,1054,2026-11-18T15:43+00:00
+180000,NJ,Cumberland County Sheriff,2026-11-03,86,,False,5,1,37640,2026-11-18T15:43+00:00
+180586,NJ,Essex County Caldwell West Caldwell - Board of Education,2026-11-03,99.9,,False,1,1,4355,2026-11-18T15:43+00:00
+180756,NJ,Monmouth County Long Branch Board of Education (1 Year Unexpired Term),2026-11-03,99.9,,False,3,1,5404,2026-11-18T15:43+00:00
+180734,NJ,Monmouth County Monmouth Regional HS Board of Education (Eatontown),2026-11-03,99.9,,False,2,1,3079,2026-11-18T15:43+00:00
+180520,NJ,Cape May County Board of Education-Borough of Avalon,2026-11-03,75,,False,3,1,867,2026-11-18T15:43+00:00
+180601,NJ,Essex County Roseland Board of Education,2026-11-03,99.9,,False,2,1,3346,2026-11-18T15:43+00:00
+180387,NJ,Burlington County Commissioner,2026-11-03,89,,False,32,1,319186,2026-11-18T15:43+00:00
+180173,NJ,Mercer County Hopewell Township Fire Election Question,2026-11-03,93,,False,2,1,7041,2026-11-18T15:43+00:00
+180535,NJ,Cape May County Member of the Council 2nd Ward-City of North Wildwood,2026-11-03,80,,False,2,1,534,2026-11-18T15:43+00:00
+180321,NJ,Salem County Woodstown Borough Council,2026-11-03,0,,False,5,1,2687,2026-11-18T15:43+00:00
+180210,NJ,Morris County Dover Town Council Ward 1,2026-11-03,99.9,,False,2,1,640,2026-11-18T15:43+00:00
+180188,NJ,Morris County Boonton Town Council Ward 2,2026-11-03,99.9,,False,3,1,788,2026-11-18T15:43+00:00
+180966,NJ,Somerset County Township Committee Montgomery (2),2026-11-03,99.9,,False,3,1,8967,2026-11-18T15:43+00:00
+180144,NJ,Hudson County Town of Kearny Council Ward 3,2026-11-03,99.9,,False,3,1,2654,2026-11-18T15:43+00:00
+180122,NJ,Hudson County Commissioner District 6,2026-11-03,98,,False,2,1,14210,2026-11-18T15:43+00:00
+180900,NJ,Ocean County Borough of Point Pleasant Beach Public Question,2026-11-03,99.9,,False,2,1,1815,2026-11-18T15:43+00:00
+180789,NJ,Monmouth County Wall Township Board of Education (Full Term),2026-11-03,99.9,,False,5,1,17241,2026-11-18T15:43+00:00
+180959,NJ,Somerset County Township Committee Green Brook,2026-11-03,99.9,,False,5,1,5530,2026-11-18T15:43+00:00
+180083,NJ,Gloucester County South Harrison Township Committee,2026-11-03,99.9,,False,4,1,1950,2026-11-18T15:43+00:00
+180061,NJ,Gloucester County Harrison Board of Education Unexpired,2026-11-03,99.9,,False,2,1,3981,2026-11-18T15:43+00:00
+180558,NJ,Essex County Board of County Comissioners (3rd County Commissioner District),2026-11-03,97,,False,1,1,33611,2026-11-18T15:43+00:00
+180920,NJ,Passaic County Members of Borough Council North Haledon,2026-11-03,99.9,,False,3,1,4868,2026-11-18T15:43+00:00
+180706,NJ,Monmouth County Borough Council Roosevelt Borough,2026-11-03,99.9,,False,3,1,625,2026-11-18T15:43+00:00
+180492,NJ,Burlington County Mansfield Township Northern Burlington County Regional School District Board of Education,2026-11-03,89,,False,15,1,2919,2026-11-18T15:43+00:00
+180662,NJ,Middlesex County South River Board of Education,2026-11-03,93,,False,4,1,6060,2026-11-18T15:43+00:00
+180359,NJ,Atlantic County Linwood Council Ward 1,2026-11-03,99.9,,False,1,1,993,2026-11-18T15:43+00:00
+180529,NJ,Cape May County Board of Education-Lower Cape May Regional-Lower Township,2026-11-03,97,,False,4,1,12304,2026-11-18T15:43+00:00
+180507,NJ,Burlington County Delran Township Fire District No. 1 Board of Fire Commissioners,2026-11-03,86,,False,7,1,4351,2026-11-18T15:43+00:00
+180293,NJ,Salem County Carneys Point Township Committee,2026-11-03,0,,False,5,1,3788,2026-11-18T15:43+00:00
+180463,NJ,Burlington County New Hanover Township Board of Education,2026-11-03,50,,False,3,1,667,2026-11-18T15:43+00:00
+180160,NJ,Mercer County Hamilton Township Member of the Board of Education - 2 Year Unexpired Term,2026-11-03,98,,False,5,1,24144,2026-11-18T15:43+00:00
+180938,NJ,Passaic County Members of Borough Council Wanaque,2026-11-03,99.9,,False,5,1,8435,2026-11-18T15:43+00:00
+180116,NJ,Hudson County Register,2026-11-03,97,,False,3,1,136712,2026-11-18T15:43+00:00
+180094,NJ,Gloucester County West Deptford Township Committee,2026-11-03,99.9,,False,4,1,12673,2026-11-18T15:43+00:00
+180872,NJ,Ocean County Little Egg Harbor Member of the Board of Education,2026-11-03,99.9,,False,2,1,4959,2026-11-18T15:43+00:00
+180953,NJ,Somerset County Borough Council Bernardsville,2026-11-03,99.9,,False,5,1,6937,2026-11-18T15:43+00:00
+180739,NJ,Monmouth County Freehold Regional HS Dist Board of Education (Rep Freehold Township),2026-11-03,99.9,,False,2,1,11042,2026-11-18T15:43+00:00
+180525,NJ,Cape May County Board of Education-Township of Dennis,2026-11-03,89,,False,4,1,4735,2026-11-18T15:43+00:00
+180887,NJ,Ocean County Seaside Park Member of the Board of Education,2026-11-03,99.9,,False,2,1,569,2026-11-18T15:43+00:00
+180673,NJ,Monmouth County Borough Council Atlantic Highlands Borough,2026-11-03,99.9,,False,5,1,3772,2026-11-18T15:43+00:00
+180562,NJ,Essex County Bloomfield Ward 1 Township Council,2026-11-03,99.9,,False,1,1,3826,2026-11-18T15:43+00:00
+180540,NJ,Cape May County Member of the Council-Borough of Stone Harbor,2026-11-03,67,,False,4,1,667,2026-11-18T15:43+00:00
+180326,NJ,Atlantic County Commissioner District 3,2026-11-03,99.9,,False,2,1,19279,2026-11-18T15:43+00:00
+180496,NJ,Burlington County Mount Laurel Township Lenape Regional High School District Board of Education,2026-11-03,97,,False,29,1,14430,2026-11-18T15:43+00:00
+180474,NJ,Burlington County Tabernacle Township Board of Education,2026-11-03,86,,False,25,1,4300,2026-11-18T15:43+00:00
+180971,NJ,Somerset County Borough Council Raritan,2026-11-03,99.9,,False,5,1,5379,2026-11-18T15:43+00:00
+180260,NJ,Morris County Mount Arlington Borough Board of Education,2026-11-03,99.9,,False,4,1,4783,2026-11-18T15:43+00:00
+180149,NJ,Hudson County Town of Secaucus Council Ward 3,2026-11-03,99.9,,False,2,1,1084,2026-11-18T15:43+00:00
+180319,NJ,Salem County Upper Pittsgrove Township Committee,2026-11-03,0,,False,3,1,2050,2026-11-18T15:43+00:00
+180905,NJ,Passaic County Members of Borough Council Bloomingdale,2026-11-03,99.9,,False,5,1,5725,2026-11-18T15:43+00:00
+180612,NJ,Middlesex County Helmetta Borough Council,2026-11-03,50,,False,2,1,468,2026-11-18T15:43+00:00
+180910,NJ,Passaic County Mayor Haledon,2026-11-03,99.9,,False,2,1,1883,2026-11-18T15:43+00:00
+180280,NJ,Morris County Roxbury Township Board of Education,2026-11-03,99.9,,False,4,1,17729,2026-11-18T15:43+00:00
+180066,NJ,Gloucester County Mantua Board of Education,2026-11-03,99.9,,False,4,1,14042,2026-11-18T15:43+00:00
+180844,NJ,Ocean County Seaside Heights Member of Council,2026-11-03,99.9,,False,4,1,826,2026-11-18T15:43+00:00
+180022,NJ,Cumberland County Deerfield Board of Education - Unexpired Term,2026-11-03,50,,False,2,1,836,2026-11-18T15:43+00:00
+180711,NJ,Monmouth County Borough Council Shrewsbury Borough,2026-11-03,99.9,,False,4,1,3232,2026-11-18T15:43+00:00
+180881,NJ,Ocean County Plumsted Board of Education 2 Year Unexpired Term,2026-11-03,99.9,,False,2,1,1922,2026-11-18T15:43+00:00
+180859,NJ,Ocean County Eagleswood Member of the Board of Education,2026-11-03,99.9,,False,3,1,715,2026-11-18T15:43+00:00
+180645,NJ,Middlesex County Metuchen Board of Education,2026-11-03,93,,False,4,1,11830,2026-11-18T15:43+00:00
+180815,NJ,Ocean County Barnegat Light Member of Council 1 Year Unexpired Term,2026-11-03,99.9,,False,2,1,301,2026-11-18T15:43+00:00
+180512,NJ,Burlington County Evesham Township Fire District No. 1 Board of Fire Commissioners,2026-11-03,97,,False,18,1,12848,2026-11-18T15:43+00:00
+180298,NJ,Salem County Lower Alloways Creek Township Committee - 3 Year Term,2026-11-03,0,,False,2,1,539,2026-11-18T15:43+00:00
+180468,NJ,Burlington County Riverside Township Board of Education,2026-11-03,89,,False,10,1,3757,2026-11-18T15:43+00:00
+180446,NJ,Burlington County Delanco Township Board of Education,2026-11-03,86,,False,14,1,3041,2026-11-18T15:43+00:00
+180232,NJ,Morris County Lincoln Park Borough Council At-Large,2026-11-03,99.9,,False,7,1,10508,2026-11-18T15:43+00:00
+180313,NJ,Salem County Quinton Township Committee,2026-11-03,0,,False,2,1,799,2026-11-18T15:43+00:00
+180099,NJ,Gloucester County Westville Board of Education - Gateway Regional,2026-11-03,99.9,,False,1,1,97,2026-11-18T15:43+00:00
+180877,NJ,Ocean County Ocean Gate Crsd Member of the Board of Education,2026-11-03,99.9,,False,2,1,443,2026-11-18T15:43+00:00
+180247,NJ,Morris County Mendham Township Board of Education,2026-11-03,99.9,,False,3,1,3732,2026-11-18T15:43+00:00
+180033,NJ,Cumberland County Lawrence Board of Education,2026-11-03,50,,False,5,1,1595,2026-11-18T15:43+00:00
+180914,NJ,Passaic County Member of Board of Education 1YR Unexpired Haledon,2026-11-03,99.9,,False,3,1,1329,2026-11-18T15:43+00:00
+180892,NJ,Ocean County Surf City Lbicsd Member of the Board of Education,2026-11-03,99.9,,False,2,1,443,2026-11-18T15:43+00:00
+180678,NJ,Monmouth County Township Committee Colts Neck Township,2026-11-03,99.9,,False,3,1,6045,2026-11-18T15:43+00:00
+180848,NJ,Ocean County South Toms River Mayor,2026-11-03,99.9,,False,3,1,862,2026-11-18T15:43+00:00
+180826,NJ,Ocean County Lakewood Member of the Township Committee,2026-11-03,99.9,,False,5,1,42542,2026-11-18T15:43+00:00
+180331,NJ,Atlantic County Absecon Council Ward 2,2026-11-03,99.9,,False,2,1,1853,2026-11-18T15:43+00:00
+180501,NJ,Burlington County Bordentown Township Fire District No. 1 Board of Fire Commissioners,2026-11-03,75,,False,8,1,1092,2026-11-18T15:43+00:00
+180671,NJ,Monmouth County Mayor Asbury Park City,2026-11-03,99.9,,False,3,1,3953,2026-11-18T15:43+00:00
+180265,NJ,Morris County Netcong Borough Council,2026-11-03,99.9,,False,4,1,1539,2026-11-18T15:43+00:00
+180435,NJ,Burlington County Washington Township Proposal,2026-11-03,50,,False,2,1,255,2026-11-18T15:43+00:00
+180632,NJ,Middlesex County South Plainfield Mayor,2026-11-03,94,,False,2,1,4659,2026-11-18T15:43+00:00
+180418,NJ,Burlington County New Hanover Township Township Committee,2026-11-03,50,,False,4,1,456,2026-11-18T15:43+00:00
+180595,NJ,Essex County Millburn Board of Education,2026-11-03,99.9,,False,7,1,15695,2026-11-18T15:43+00:00
+180573,NJ,Essex County Millburn Township Committee,2026-11-03,99.9,,False,4,1,13632,2026-11-18T15:43+00:00
+180071,NJ,Gloucester County Monroe Board of Education,2026-11-03,99.9,,False,8,1,32488,2026-11-18T15:43+00:00
+180241,NJ,Morris County Madison Borough Board of Education,2026-11-03,99.9,,False,4,1,12260,2026-11-18T15:43+00:00
+180219,NJ,Morris County Hanover Township Committee,2026-11-03,99.9,,False,4,1,10274,2026-11-18T15:43+00:00
+181365,NJ,Somerset County Board of Education Watchung Hills Warren,2026-11-03,99.9,,False,3,1,5162,2026-11-18T15:43+00:00
+180182,NJ,Mercer County Trenton Mayor,2026-11-03,92,,False,7,1,12052,2026-11-18T15:43+00:00
+180864,NJ,Ocean County Lacey Member of the Board of Education,2026-11-03,99.9,,False,4,1,14415,2026-11-18T15:43+00:00
+180650,NJ,Middlesex County North Brunswick Board of Education,2026-11-03,96,,False,3,1,13127,2026-11-18T15:43+00:00
+180820,NJ,Ocean County Island Heights Mayor,2026-11-03,99.9,,False,2,1,727,2026-11-18T15:43+00:00
+180005,NJ,Cumberland County Commercial Township Committee,2026-11-03,60,,False,6,1,977,2026-11-18T15:43+00:00
+180975,NJ,Somerset County Borough Council South Bound Brook,2026-11-03,99.9,,False,3,1,1854,2026-11-18T15:43+00:00
+180665,NJ,Middlesex County Old Bridge Public Question,2026-11-03,95,,False,2,1,15730,2026-11-18T15:43+00:00
+180451,NJ,Burlington County Florence Township Board of Education,2026-11-03,90,,False,50,1,959,2026-11-18T15:43+00:00
+180237,NJ,Morris County Long Hill Township Committee (Unexpired Term),2026-11-03,99.9,,False,3,1,4115,2026-11-18T15:43+00:00
+180606,NJ,Middlesex County Commissioners,2026-11-03,95,,False,5,1,461529,2026-11-18T15:43+00:00
+180392,NJ,Burlington County Burlington City Council Ward 4 Unexpired,2026-11-03,75,,False,3,1,804,2026-11-18T15:43+00:00
+180274,NJ,Morris County Rockaway Borough Council,2026-11-03,99.9,,False,5,1,4623,2026-11-18T15:43+00:00
+180252,NJ,Morris County Morris Plains Borough Council,2026-11-03,99.9,,False,5,1,6254,2026-11-18T15:43+00:00
+180038,NJ,Cumberland County Upper Deerfield Board of Education,2026-11-03,80,,False,16,1,2256,2026-11-18T15:43+00:00
+180407,NJ,Burlington County Evesham Township Township Council,2026-11-03,97,,False,16,1,31205,2026-11-18T15:43+00:00
+180193,NJ,Morris County Boonton Township Board of Education,2026-11-03,99.9,,False,4,1,4096,2026-11-18T15:43+00:00
+180683,NJ,Monmouth County Borough Council Fair Haven Borough,2026-11-03,99.9,,False,5,1,5856,2026-11-18T15:43+00:00
+180853,NJ,Ocean County Barnegat Member of the Board of Education,2026-11-03,99.9,,False,6,1,16776,2026-11-18T15:43+00:00
+180031,NJ,Cumberland County Hopewell/Shiloh Board of Education,2026-11-03,67,,False,12,1,4457,2026-11-18T15:43+00:00
+180617,NJ,Middlesex County Milltown Borough Council,2026-11-03,90,,False,5,1,5257,2026-11-18T15:43+00:00
+180986,NJ,Somerset County Board of Education Bridgewater-Raritan Bridgewate,2026-11-03,99.9,,False,6,1,27623,2026-11-18T15:43+00:00
+180772,NJ,Monmouth County Red Bank Regional HS Board of Education (Red Bank),2026-11-03,99.9,,False,2,1,2813,2026-11-18T15:43+00:00
+180270,NJ,Morris County Pequannock Township Board of Education,2026-11-03,99.9,,False,4,1,11401,2026-11-18T15:43+00:00
+180245,NJ,Morris County Mendham Borough Board of Education,2026-11-03,99.9,,False,4,1,4872,2026-11-18T15:43+00:00
+180821,NJ,Ocean County Island Heights Member of Council,2026-11-03,99.9,,False,3,1,1283,2026-11-18T15:43+00:00
+180053,NJ,Gloucester County Glassboro Council,2026-11-03,99.9,,False,5,1,11260,2026-11-18T15:43+00:00
+180629,NJ,Middlesex County South Amboy City Council At-Large,2026-11-03,90,,False,5,1,5128,2026-11-18T15:43+00:00
+180853,NJ,Ocean County Barnegat Member of the Board of Education,2026-11-03,99.9,,False,6,1,16776,2026-11-18T15:43+00:00
+180437,NJ,Burlington County Willingboro Township Township Council Unexpired,2026-11-03,97,,False,7,1,11155,2026-11-18T15:43+00:00
+87298,NJ,New Jersey US House 9,2026-11-03,77.1,2026-11-04T03:39:20.972Z,False,4,3,185651,2026-11-18T15:43+00:00
+87296,NJ,New Jersey US House 7,2026-11-03,88.8,2026-11-04T02:56:10.392Z,False,4,6,334791,2026-11-18T15:43+00:00
+87299,NJ,New Jersey US House 10,2026-11-03,75.8,2026-11-04T02:21:59.541Z,False,3,3,182398,2026-11-18T15:43+00:00
+87290,NJ,New Jersey US House 1,2026-11-03,82.6,2026-11-04T02:21:59.541Z,False,21,3,258591,2026-11-18T15:43+00:00
+87291,NJ,New Jersey US House 2,2026-11-03,85,,False,9,6,270977,2026-11-18T15:43+00:00
+87300,NJ,New Jersey US House 11,2026-11-03,79.8,2026-11-04T02:21:59.541Z,False,4,3,280749,2026-11-18T15:43+00:00
+87292,NJ,New Jersey US House 3,2026-11-03,82.5,2026-11-04T02:21:59.541Z,False,77,3,276997,2026-11-18T15:43+00:00
+87301,NJ,New Jersey US House 12,2026-11-03,83.3,2026-11-04T02:21:59.541Z,False,5,4,238822,2026-11-18T15:43+00:00
+87302,NJ,New Jersey US Senate,2026-11-03,82.5,,False,114,21,2947148,2026-11-18T15:43+00:00
+87293,NJ,New Jersey US House 4,2026-11-03,83.8,2026-11-04T02:40:01.574Z,False,3,2,267734,2026-11-18T15:43+00:00
+87294,NJ,New Jersey US House 5,2026-11-03,81.4,2026-11-04T02:21:59.541Z,False,4,3,272460,2026-11-18T15:43+00:00
+87295,NJ,New Jersey US House 6,2026-11-03,81.6,2026-11-04T02:21:59.541Z,False,3,2,214300,2026-11-18T15:43+00:00
+87297,NJ,New Jersey US House 8,2026-11-03,66.9,2026-11-04T02:21:59.541Z,False,5,3,127376,2026-11-18T15:43+00:00

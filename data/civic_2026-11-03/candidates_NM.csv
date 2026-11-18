@@ -1,0 +1,651 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+157301,NM,Raul Torrez,Democratic,454142,63.022,True,False
+157301,NM,Samuel Isaiah Kane Sr.,Republican,266471,36.978,False,False
+157463,NM,Yes,Nonpartisan,400874,68.646,False,False
+157463,NM,No,Nonpartisan,183099,31.354,False,False
+157465,NM,Yes,Nonpartisan,385336,67.386,False,False
+157465,NM,No,Nonpartisan,186502,32.614,False,False
+157304,NM,Juan De Jesus Sanchez IIi,Democratic,434085,60.696,True,False
+157304,NM,Michael Jack Perry,Republican,281091,39.304,False,False
+87289,NM,Deb Haaland,Democratic,416372,57.36,True,False
+87289,NM,Gregg Hull,Republican,309524,42.64,False,False
+159553,NM,Democratic,Democratic,382416,60.387,False,False
+159553,NM,Republican,Republican,244867,38.667,False,False
+159553,NM,Independent,Independent,5994,0.947,False,False
+157673,NM,Yes,Nonpartisan,445110,69.959,True,False
+157673,NM,No,Nonpartisan,191138,30.041,False,False
+157675,NM,Yes,Nonpartisan,453903,69.629,True,False
+157675,NM,No,Nonpartisan,197981,30.371,False,False
+157464,NM,Yes,Nonpartisan,397732,68.439,False,False
+157464,NM,No,Nonpartisan,183418,31.561,False,False
+157676,NM,Yes,Nonpartisan,427655,65.989,True,False
+157676,NM,No,Nonpartisan,220414,34.011,False,False
+157671,NM,Yes,Nonpartisan,497904,75.078,True,False
+157671,NM,No,Nonpartisan,165277,24.922,False,False
+157300,NM,Amanda López Askin,Democratic,436830,60.935,True,False
+157300,NM,Ramona L Goolsby,Republican,280053,39.065,False,False
+157302,NM,Joseph M Maestas,Democratic,431580,60.53,True,False
+157302,NM,Joshua James Ryan Lawrence,Republican,281424,39.47,False,False
+157674,NM,Yes,Nonpartisan,418548,63.46,True,False
+157674,NM,No,Nonpartisan,240995,36.54,False,False
+157303,NM,Laura M Montoya,Democratic,426985,59.799,True,False
+157303,NM,James F Ellison,Republican,287049,40.201,False,False
+157376,NM,Kris Houghton,Democratic,477289,100.0,True,False
+157677,NM,Yes,Nonpartisan,416062,64.296,True,False
+157677,NM,No,Nonpartisan,231046,35.704,False,False
+157672,NM,Yes,Nonpartisan,426862,64.819,True,False
+157672,NM,No,Nonpartisan,231687,35.181,False,False
+157642,NM,Willard Lewis Hall,Republican,2649,56.639,False,False
+157642,NM,Sandy R Jones,Democratic,2028,43.361,False,False
+157395,NM,Ramon J Maestas,Democratic,153209,64.7,False,False
+157395,NM,Kerry J Morris,Republican,83589,35.3,False,False
+157333,NM,Pamelya Paulette Herndon,Democratic,8486,61.024,True,False
+157333,NM,Brenda J Olson,Republican,5420,38.976,False,False
+157502,NM,Yes,Nonpartisan,128949,68.68,False,False
+157502,NM,No,Nonpartisan,58804,31.32,False,False
+159824,NM,Yes,Nonpartisan,7091,67.714,False,False
+159824,NM,No,Nonpartisan,3381,32.286,False,False
+157616,NM,Durward A Dixon,Republican,573,100.0,False,False
+157401,NM,Kelly J Calicoat,Republican,2308,100.0,False,False
+157531,NM,Dusty W Leatherwood,Republican,1675,100.0,False,False
+157316,NM,Javier I Martinez,Democratic,9423,100.0,True,False
+157421,NM,Warren G Walton,Republican,2817,59.518,False,False
+157421,NM,Linda E Baca,Democratic,1916,40.482,False,False
+157622,NM,Elouise Brown,Democratic,2894,42.064,False,False
+157622,NM,Gary M McDaniel,Republican,2346,34.099,False,False
+157622,NM,Ervin Chavez,Independent,1640,23.837,False,False
+157528,NM,Joseph J Martinez Jr.,Republican,2393,50.603,False,False
+157528,NM,Linda L Gallegos,Democratic,2336,49.397,False,False
+157313,NM,Brian G Baca,Republican,6195,53.674,True,False
+157313,NM,Katherine Joanna Gauer,Democratic,5347,46.326,False,False
+157322,NM,Cynthia D Borrego,Democratic,7247,62.067,True,False
+157322,NM,Brenda Diane Boatman,Republican,4429,37.933,False,False
+157491,NM,Yes,Nonpartisan,122251,65.056,False,False
+157491,NM,No,Nonpartisan,65667,34.944,False,False
+157436,NM,Cory Tanner,Republican,5905,100.0,False,False
+157605,NM,Jessica Lynn Suggs,Republican,11607,100.0,False,False
+157582,NM,Jeff Casalina,Democratic,4869,53.172,False,False
+157582,NM,James Curtis Wernicke Jr.,Libertarian,4288,46.828,False,False
+159833,NM,Yes,Nonpartisan,40490,68.621,False,False
+159833,NM,No,Nonpartisan,18515,31.379,False,False
+157305,NM,Rex A Wilson,Republican,10452,62.196,True,False
+157305,NM,William Neil Griffin,Democratic,6353,37.804,False,False
+157410,NM,Jimmie Jones,Republican,2449,100.0,False,False
+157410,NM,Shannon Elizabeth Arguello,Republican,0,0.0,False,False
+157611,NM,Alex M Naranjo,Democratic,2972,100.0,False,False
+157517,NM,Michael L Taylor,Republican,11811,100.0,False,False
+159839,NM,Yes,Nonpartisan,12994,53.557,False,False
+159839,NM,No,Nonpartisan,11268,46.443,False,False
+157407,NM,Stephen R Whittington,Republican,5361,100.0,False,False
+157608,NM,Jefferson L Byrd,Republican,2105,100.0,False,False
+157594,NM,Edward Becenti Jr.,Democratic,15460,100.0,False,False
+157532,NM,Michael Dean Brockett,Republican,7954,100.0,False,False
+159822,NM,Yes,Nonpartisan,146201,65.929,False,False
+159822,NM,No,Nonpartisan,75553,34.071,False,False
+157591,NM,Ernest C Becenti IIi,Democratic,6010,100.0,False,False
+157600,NM,Kelley A Fahey-Alcon,Democratic,1528,100.0,False,False
+157506,NM,Yes,Nonpartisan,124453,67.091,False,False
+157506,NM,No,Nonpartisan,61047,32.909,False,False
+159828,NM,No,Nonpartisan,4377,50.345,False,False
+159828,NM,Yes,Nonpartisan,4317,49.655,False,False
+157396,NM,Andrea Inez Gunderson,Democratic,162005,100.0,False,False
+157405,NM,James A Mason,Republican,7955,100.0,False,False
+157503,NM,Yes,Nonpartisan,125857,67.313,False,False
+157503,NM,No,Nonpartisan,61117,32.687,False,False
+159825,NM,Yes,Nonpartisan,7993,75.648,False,False
+159825,NM,No,Nonpartisan,2573,24.352,False,False
+157617,NM,Kenneth D Reed,Republican,841,100.0,False,False
+157411,NM,Keith Clayton,Republican,2763,100.0,False,False
+157580,NM,David E Hampton,Democratic,5493,17.315,False,False
+157580,NM,Steven S Lynne,Democratic,5426,17.104,False,False
+157580,NM,Theresa Ann Cull,Democratic,5411,17.056,False,False
+157580,NM,Melanee M Hand,Democratic,5125,16.155,False,False
+157580,NM,Jason Alan Chappel,Republican,3709,11.691,False,False
+157580,NM,Eric Roland Stromberg,Republican,3358,10.585,False,False
+157580,NM,Chris Luchini,Libertarian,3202,10.093,False,False
+159808,NM,Yes,Nonpartisan,124773,69.562,False,False
+159808,NM,No,Nonpartisan,54597,30.438,False,False
+157472,NM,Yes,Nonpartisan,9930,67.24,False,False
+157472,NM,No,Nonpartisan,4838,32.76,False,False
+157385,NM,Bryan T Fox,Democratic,161597,100.0,False,False
+157586,NM,Colette M Chandler,Republican,1234,54.553,False,False
+157586,NM,Thomas John Wakely,Democratic,1028,45.447,False,False
+157492,NM,Yes,Nonpartisan,129215,68.419,False,False
+157492,NM,No,Nonpartisan,59644,31.581,False,False
+157501,NM,Yes,Nonpartisan,126741,67.613,False,False
+157501,NM,No,Nonpartisan,60710,32.387,False,False
+157382,NM,Denise Marie Thomas,Democratic,69583,100.0,False,False
+157583,NM,Perry C Klare,Democratic,6636,100.0,False,False
+159834,NM,Yes,Nonpartisan,42926,72.752,False,False
+159834,NM,No,Nonpartisan,16077,27.248,False,False
+157498,NM,Yes,Nonpartisan,125108,66.728,False,False
+157498,NM,No,Nonpartisan,62382,33.272,False,False
+157507,NM,Yes,Nonpartisan,126477,67.966,False,False
+157507,NM,No,Nonpartisan,59613,32.034,False,False
+157459,NM,Trubert Wayne Flowers,Republican,313,100.0,False,False
+157397,NM,Michael R Roybal,Democratic,51071,80.585,False,False
+157397,NM,Harry B Montoya,Forward,12304,19.415,False,False
+157566,NM,William Eugene Chadborn Jr.,Republican,1013,100.0,False,False
+157351,NM,Andrea D Romero,Democratic,11013,100.0,True,False
+157481,NM,Yes,Nonpartisan,127596,67.579,False,False
+157481,NM,No,Nonpartisan,61213,32.421,False,False
+159803,NM,Yes,Nonpartisan,1306,54.034,False,False
+159803,NM,No,Nonpartisan,1111,45.966,False,False
+157595,NM,Monica Martinez,Democratic,15081,100.0,False,False
+157380,NM,Stewart Alan Ingham,Republican,48946,100.0,False,False
+157478,NM,Yes,Nonpartisan,13157,69.091,False,False
+157478,NM,No,Nonpartisan,5886,30.909,False,False
+159800,NM,Yes,Nonpartisan,227,51.945,False,False
+159800,NM,No,Nonpartisan,210,48.055,False,False
+157592,NM,Genevieve Jackson,Democratic,5037,100.0,False,False
+157377,NM,Kenneth James Pascoe,Republican,47503,100.0,False,False
+157386,NM,Diana Lynn Garcia,Democratic,162931,100.0,False,False
+157555,NM,Ricky Alex Chavez,Democratic,1100,75.862,False,False
+157555,NM,Levi Michael Chavez II,Independent,350,24.138,False,False
+157493,NM,Barbara Christine Baca,Democratic,37213,100.0,False,False
+157669,NM,Burgandy Bree Casias,Republican,13422,52.448,False,False
+157669,NM,Torres G Leyba,Democratic,12169,47.552,False,False
+157646,NM,Cari Leann Powell,Democratic,536,55.258,False,False
+157646,NM,Pauline Jaramillo,Republican,434,44.742,False,False
+157360,NM,Cathrynn N Brown,Republican,6874,100.0,True,False
+157561,NM,Misty R Lewis,Republican,296,100.0,False,False
+159812,NM,Yes,Nonpartisan,23708,68.578,False,False
+159812,NM,No,Nonpartisan,10863,31.422,False,False
+157476,NM,Yes,Nonpartisan,32499,67.448,False,False
+157476,NM,No,Nonpartisan,15685,32.552,False,False
+157581,NM,Antonio L Maggiore,Democratic,6889,100.0,False,False
+157366,NM,Randall Thomas Pettigrew,Republican,2667,100.0,True,False
+159809,NM,Yes,Nonpartisan,130638,71.998,False,False
+159809,NM,No,Nonpartisan,50808,28.002,False,False
+157473,NM,Yes,Nonpartisan,12231,75.724,False,False
+157473,NM,No,Nonpartisan,3921,24.276,False,False
+157658,NM,Thomas J Holt,Republican,1009,63.619,False,False
+157658,NM,William F Peifer,Democratic,577,36.381,False,False
+157596,NM,Eloida Wanda Martinez,Democratic,1230,58.101,False,False
+157596,NM,Francisco R Chavez,Libertarian,887,41.899,False,False
+157349,NM,Kathleen M Cates,Democratic,8336,57.446,True,False
+157349,NM,Adam Stanley Prior,Republican,6175,42.554,False,False
+157326,NM,Debra Marie Sarinana,Democratic,5413,65.351,True,False
+157326,NM,Robert L Mason,Republican,2870,34.649,False,False
+157655,NM,Christina L Ramirez,Democratic,10788,82.991,False,False
+157655,NM,Douglas Jackson True,Republican,2211,17.009,False,False
+157664,NM,Hollie S Sandoval,Republican,1102,100.0,False,False
+157570,NM,Brian Wayne Pointer,Republican,2377,100.0,False,False
+157355,NM,Sarah Boses,Democratic,11282,66.896,True,False
+157355,NM,Kenneth Donald Brennan,Republican,5583,33.104,False,False
+157460,NM,Catherine E Taylor,Democratic,6842,100.0,False,False
+157469,NM,Yes,Nonpartisan,8281,77.829,False,False
+157469,NM,No,Nonpartisan,2359,22.171,False,False
+157567,NM,Rahab Michole De La Garza,Democratic,746,51.342,False,False
+157567,NM,Eddie G Parra,Republican,707,48.658,False,False
+157352,NM,Reena C Szczepanski,Democratic,14391,100.0,True,False
+157482,NM,Yes,Nonpartisan,36101,63.852,False,False
+157482,NM,No,Nonpartisan,20438,36.148,False,False
+159813,NM,Yes,Nonpartisan,25802,73.676,False,False
+159813,NM,No,Nonpartisan,9219,26.324,False,False
+157644,NM,Virginia G Womack,Republican,3207,100.0,False,False
+157335,NM,Elizabeth Diane Torres-Velasquez,Democratic,7248,60.765,True,False
+157335,NM,Jerry L Trujillo,Republican,4680,39.235,False,False
+157536,NM,Adolfo Lucero,Republican,583,100.0,False,False
+157449,NM,Christopher Anthony Baca,Democratic,1244,100.0,False,False
+157650,NM,Gilbert George Peralta,Democratic,4007,100.0,False,False
+157556,NM,Randal W Brown,Democratic,1056,100.0,False,False
+157565,NM,John Wesley Samuel,Republican,751,51.757,False,False
+157565,NM,Anthony J Mora,Democratic,700,48.243,False,False
+157446,NM,Alfredo Aguirre,Republican,3220,100.0,False,False
+157647,NM,John J Aguilar,Democratic,842,100.0,False,False
+157361,NM,Harlan H Vincent,Republican,8226,100.0,True,False
+157338,NM,Micaela Lara Cadena,Democratic,5909,65.343,True,False
+157338,NM,Enrique Kiki Vigil,Republican,3134,34.657,False,False
+157571,NM,Mark Timothy Rhoads,Republican,10473,100.0,False,False
+157324,NM,Janelle I Anyanonu,Democratic,5211,100.0,True,False
+157461,NM,Tony L Mace,Democratic,5662,100.0,False,False
+157630,NM,Dwight James Torres,Democratic,6840,100.0,False,False
+157415,NM,Bryan Michael Gelecki,Democratic,47221,100.0,False,False
+157545,NM,Cara A Cooke,Republican,12796,100.0,False,False
+157330,NM,Cristina S Parajon,Democratic,9185,75.553,True,False
+157330,NM,Denis Litvinenko,Republican,2972,24.447,False,False
+157659,NM,Thomas D Carter,Republican,4064,100.0,False,False
+157444,NM,Day G Thornton,Democratic,10569,100.0,False,False
+157542,NM,Vanessa Ordoñez,Democratic,39999,61.49,False,False
+157542,NM,Todd J Garrison,Republican,25051,38.51,False,False
+157327,NM,Stefani Lord,Republican,8008,51.781,True,False
+157327,NM,William (Bill) Scott,Democratic,5580,36.081,False,False
+157327,NM,Zachary P Withers,Independent,1877,12.137,False,False
+157656,NM,Suzanne Valerio,Democratic,10583,100.0,False,False
+157441,NM,Alexandra C Naranjo,Democratic,9223,100.0,False,False
+157450,NM,Felix William Saavedra,Democratic,3359,58.336,False,False
+157450,NM,Judith A Holcomb,Republican,2399,41.664,False,False
+157619,NM,George S Beggs,Republican,3665,100.0,False,False
+157557,NM,Jonathan M Gonzales,Democratic,1208,100.0,False,False
+157310,NM,Doreen Wonda Johnson,Democratic,7334,100.0,True,False
+157511,NM,Audrey H McQueen,Republican,1059,56.874,False,False
+157511,NM,Amber Pauline Treto,Independent,803,43.126,False,False
+157424,NM,Nicholas J Montoya,Democratic,6949,100.0,False,False
+157625,NM,Gary Risley,Republican,27723,100.0,False,False
+157339,NM,Raymundo Lara,Democratic,5369,100.0,True,False
+157540,NM,Daisy Ann Maldonado,Democratic,8261,59.802,False,False
+157540,NM,Samantha R Barncastle Salopek,Republican,5553,40.198,False,False
+157645,NM,Tara Lynne Edgmon,Republican,3131,100.0,False,False
+157430,NM,Eric Montano,Republican,13168,51.794,False,False
+157430,NM,Rorik S Rivenburgh,Democratic,12256,48.206,False,False
+157336,NM,Nicole Chavez,Republican,8073,52.313,True,False
+157336,NM,Lisa K Curtis,Democratic,7359,47.687,False,False
+157537,NM,Joshua R Jaramillo,Republican,418,62.952,False,False
+157537,NM,Kayden Wayne Cones,Republican,246,37.048,False,False
+157546,NM,Henry T Castaneda,Republican,2221,100.0,False,False
+159836,NM,Yes,Nonpartisan,54006,83.906,False,False
+159836,NM,No,Nonpartisan,10359,16.094,False,False
+157660,NM,Crystal M Garcia,Republican,3386,63.101,False,False
+157660,NM,Hugh G Jones,Democratic,1980,36.899,False,False
+157413,NM,Linda L Flores,Democratic,47713,100.0,False,False
+157390,NM,Timothy L Rose,Independent,0,,False,False
+157520,NM,Richard Allen Cerno,Democratic,1227,100.0,False,False
+159842,NM,Yes,Nonpartisan,14963,61.833,False,False
+159842,NM,No,Nonpartisan,9236,38.167,False,False
+157634,NM,Gerred Prairie,Democratic,33923,53.866,False,False
+157634,NM,Lawrence D Griego,Republican,29054,46.134,False,False
+157419,NM,Hector C Grijalva,Democratic,8348,100.0,False,False
+157325,NM,Meredith A Dixon,Democratic,8422,100.0,True,False
+157526,NM,Mary Lou Kern,Republican,805,52.205,False,False
+157526,NM,Lydia M Garcia,Democratic,737,47.795,False,False
+157631,NM,Paul J Madrid,Democratic,9328,62.6,False,False
+157631,NM,Rebecca Lynn Skartwed,Republican,5573,37.4,False,False
+157416,NM,Chrystian Julian Gonzalez,Democratic,47232,100.0,False,False
+157402,NM,Megan S Fish,Republican,5012,100.0,False,False
+157340,NM,Angelica Rubio,Democratic,6880,100.0,True,False
+157509,NM,Yes,Nonpartisan,125624,67.855,False,False
+157509,NM,No,Nonpartisan,59511,32.145,False,False
+157486,NM,Yes,Nonpartisan,58225,80.472,False,False
+157486,NM,No,Nonpartisan,14129,19.528,False,False
+157399,NM,Maria M Sanchez,Democratic,53575,100.0,False,False
+157408,NM,Clipper G Miller,Republican,3483,100.0,False,False
+157314,NM,"Patricia ""Patty"" A Lundstrom",Democratic,5439,100.0,True,False
+157515,NM,J Shay Wagner,Republican,1928,100.0,False,False
+157620,NM,Kendall G Terry,Republican,3694,100.0,False,False
+157629,NM,Dorene J Garcia,Democratic,6809,100.0,False,False
+157311,NM,Martha Garcia,Democratic,5490,66.312,True,False
+157311,NM,Paul L Spencer,Republican,2789,33.688,False,False
+157512,NM,Keith Shannon Hughes,Republican,1377,71.273,False,False
+157512,NM,Adrian Sandoval,Democratic,555,28.727,False,False
+157425,NM,Philip L Leger,Democratic,7028,100.0,False,False
+157635,NM,Donna IVen Tillman,Democratic,32979,53.071,False,False
+157635,NM,Rebecca A Torres,Republican,29162,46.929,False,False
+157388,NM,Isabel D Jerabek,Democratic,48300,100.0,False,False
+157495,NM,John D Allen,Democratic,166975,100.0,False,False
+159817,NM,Yes,Nonpartisan,163744,73.484,False,False
+159817,NM,No,Nonpartisan,59085,26.516,False,False
+157609,NM,Christina Lucille Mayfield Wilson,Republican,2114,100.0,False,False
+157394,NM,Lori L Willard,Republican,17734,100.0,False,False
+159837,NM,Yes,Nonpartisan,51797,80.649,False,False
+159837,NM,No,Nonpartisan,12428,19.351,False,False
+157309,NM,Heather Scott Ellison,Republican,5299,100.0,True,False
+157606,NM,Brian Dale Fortner,Republican,2167,100.0,False,False
+157391,NM,Bradley Lyle Keeler,Democratic,36344,100.0,False,False
+157521,NM,Martin M Vigil,Democratic,1185,100.0,False,False
+157306,NM,Rod Montoya,Republican,8344,100.0,True,False
+157315,NM,G Andres Romero,Democratic,5896,68.257,True,False
+157315,NM,Christopher P Crane,Republican,2742,31.743,False,False
+157484,NM,Yes,Nonpartisan,13379,69.386,False,False
+157484,NM,No,Nonpartisan,5903,30.614,False,False
+157621,NM,Lonnie W Todacheene,Democratic,3579,53.642,False,False
+157621,NM,Danielle Todacheene,Republican,3093,46.358,False,False
+157374,NM,Michelle Paulene Abeyta,Democratic,5571,100.0,True,False
+157575,NM,Sherrie L Huddleston,Republican,5658,100.0,False,False
+159826,NM,Yes,Nonpartisan,6665,54.784,False,False
+159826,NM,No,Nonpartisan,5501,45.216,False,False
+157490,NM,Yes,Nonpartisan,53584,66.688,False,False
+157490,NM,No,Nonpartisan,26766,33.312,False,False
+157403,NM,Jimmy C Foster Jr.,Republican,5429,100.0,False,False
+157604,NM,James M Bowman,Republican,11826,100.0,False,False
+159823,NM,Yes,Nonpartisan,169318,79.379,False,False
+159823,NM,No,Nonpartisan,43985,20.621,False,False
+157487,NM,Yes,Nonpartisan,128044,67.881,False,False
+157487,NM,No,Nonpartisan,60587,32.119,False,False
+157400,NM,Donita O Sena,Democratic,53264,100.0,False,False
+157601,NM,Christopher Wayne Glidden,Republican,2603,53.09,False,False
+157601,NM,Alan David Gonzalez,Democratic,2300,46.91,False,False
+157610,NM,Barney R Trujillo,Democratic,2793,100.0,False,False
+157363,NM,Angelita Mejia,Republican,3667,100.0,True,False
+159838,NM,Yes,Nonpartisan,53083,82.708,False,False
+159838,NM,No,Nonpartisan,11098,17.292,False,False
+157470,NM,Yes,Nonpartisan,25461,68.851,False,False
+157470,NM,No,Nonpartisan,11519,31.149,False,False
+157454,NM,Saydee M Lindsey,Republican,1479,100.0,False,False
+157584,NM,Elizabeth K Allen,Democratic,6950,100.0,False,False
+157369,NM,Andrea R Reeb,Republican,7152,100.0,True,False
+157499,NM,Yes,Nonpartisan,126482,67.525,False,False
+157499,NM,No,Nonpartisan,60830,32.475,False,False
+159821,NM,Yes,Nonpartisan,180563,80.575,False,False
+159821,NM,No,Nonpartisan,43529,19.425,False,False
+157389,NM,Eileen P Riordan,Republican,35084,100.0,False,False
+157590,NM,Yes,Nonpartisan,11674,73.523,False,False
+157590,NM,No,Nonpartisan,4204,26.477,False,False
+157496,NM,Linda Stover,Democratic,160907,67.392,False,False
+157496,NM,Michael Ray Maine,Republican,77855,32.608,False,False
+159818,NM,Yes,Nonpartisan,160775,72.274,False,False
+159818,NM,No,Nonpartisan,61676,27.726,False,False
+157466,NM,Yes,Nonpartisan,58048,80.115,False,False
+157466,NM,No,Nonpartisan,14408,19.885,False,False
+157404,NM,Jonathan A Duecker,Republican,3717,100.0,False,False
+157573,NM,Sandra Kay Goad,Republican,10404,100.0,False,False
+157550,NM,Jenny N Ferranti,Democratic,1592,100.0,False,False
+159801,NM,Yes,Nonpartisan,23947,68.93,False,False
+159801,NM,No,Nonpartisan,10794,31.07,False,False
+159810,NM,Yes,Nonpartisan,30296,85.161,False,False
+159810,NM,No,Nonpartisan,5279,14.839,False,False
+157378,NM,Jacob A Trujillo,Democratic,52657,80.021,False,False
+157378,NM,Dennis C Dinge,Forward,13147,19.979,False,False
+157579,NM,Rhonda B Burrows,Republican,5094,68.486,False,False
+157579,NM,Pamela A Beckman,Democratic,2344,31.514,False,False
+157485,NM,Yes,Nonpartisan,53651,66.289,False,False
+157485,NM,No,Nonpartisan,27284,33.711,False,False
+159807,NM,Yes,Nonpartisan,103384,56.516,False,False
+159807,NM,No,Nonpartisan,79544,43.484,False,False
+157375,NM,Anita Amalia Gonzales,Democratic,7274,100.0,True,False
+157576,NM,Samantha J Serna,Republican,842,100.0,False,False
+159827,NM,No,Nonpartisan,5036,56.776,False,False
+159827,NM,Yes,Nonpartisan,3834,43.224,False,False
+157562,NM,Michael E Shumate,Republican,235,62.834,False,False
+157562,NM,Robert Aragon,Democratic,139,37.166,False,False
+157500,NM,Yes,Nonpartisan,125125,66.812,False,False
+157500,NM,No,Nonpartisan,62155,33.188,False,False
+157452,NM,Katie Graham Lund,Republican,5653,100.0,False,False
+157559,NM,Albert J Elevario,Democratic,1175,100.0,False,False
+157344,NM,Raul S Turrieta,Democratic,6325,53.281,True,False
+157344,NM,Luis M Terrazas,Republican,5546,46.719,False,False
+157474,NM,Yes,Nonpartisan,9881,76.101,False,False
+157474,NM,No,Nonpartisan,3103,23.899,False,False
+157458,NM,Cindy J Garza,Democratic,1804,100.0,False,False
+157364,NM,Stephen Ryan Dodson,Republican,6655,100.0,True,False
+157373,NM,Charlotte L Little,Democratic,6658,57.023,True,False
+157373,NM,David E Adkins,Republican,5018,42.977,False,False
+157471,NM,Yes,Nonpartisan,11363,72.307,False,False
+157471,NM,No,Nonpartisan,4352,27.693,False,False
+157455,NM,Ann Marie Maxwell-Chavez,Democratic,40836,100.0,False,False
+157585,NM,Eddie M Mesa,Democratic,937,59.872,False,False
+157585,NM,David William Lindberg,Republican,474,30.288,False,False
+157585,NM,Mary Louise Meade,Independent,154,9.84,False,False
+157379,NM,Sharon E Clahchischilliage,Republican,39685,100.0,False,False
+157548,NM,Rhonda E Hatch,Republican,11260,70.45,False,False
+157548,NM,Gemma L Ferguson,Democratic,4723,29.55,False,False
+157438,NM,Erich F Cole,Republican,4049,100.0,False,False
+157639,NM,Ivan Barry,Democratic,53334,100.0,False,False
+157353,NM,Tara L Lujan,Democratic,9511,84.213,True,False
+157353,NM,Victoria May Garcia,Republican,1783,15.787,False,False
+157554,NM,Alfred L Sedillo,Democratic,8177,100.0,False,False
+157467,NM,Yes,Nonpartisan,125174,66.078,False,False
+157467,NM,No,Nonpartisan,64259,33.922,False,False
+157668,NM,Joseph Eugene Rowland,Republican,13512,52.513,False,False
+157668,NM,Alan Fredrick Montano,Democratic,12219,47.487,False,False
+157350,NM,Linda Michelle Serrato,Democratic,9978,100.0,True,False
+157551,NM,Eloy H Medina,Democratic,1439,100.0,False,False
+159802,NM,No,Nonpartisan,291,51.779,False,False
+159802,NM,Yes,Nonpartisan,271,48.221,False,False
+157665,NM,Sharon M Loera,Republican,1044,100.0,False,False
+157475,NM,Yes,Nonpartisan,9564,73.813,False,False
+157475,NM,No,Nonpartisan,3393,26.187,False,False
+157427,NM,Virginia A Yazzie,Democratic,15204,100.0,False,False
+157365,NM,Joshua N Hernandez,Republican,6077,51.574,True,False
+157365,NM,Luke Nicholas Jungmann,Democratic,5706,48.426,False,False
+157534,NM,Hollie L Barnett,Republican,7902,100.0,False,False
+157319,NM,Miguel P Garcia,Democratic,6635,78.604,True,False
+157319,NM,Richard Victor Zubia,Republican,1806,21.396,False,False
+157648,NM,Lee Polo Armijo,Republican,3991,100.0,False,False
+157433,NM,Joseph W Cutts,Republican,11826,100.0,False,False
+157563,NM,Gilbert Eddie Deschamps,Republican,311,100.0,False,False
+157348,NM,Christine Chandler,Democratic,9606,100.0,True,False
+157453,NM,Josephine Dolores Cones,Republican,642,100.0,False,False
+157654,NM,Steve Miera Jr.,Democratic,10372,100.0,False,False
+157560,NM,A Raymond Gutierrez,Democratic,201,100.0,False,False
+157345,NM,Joseph L Sanchez,Democratic,7744,71.196,True,False
+157345,NM,Landon McGuire Dooley,Republican,3133,28.804,False,False
+157354,NM,"Gail ""Missy"" Armstrong",Republican,8566,100.0,True,False
+157523,NM,Jenna M Rodriguez,Democratic,5378,100.0,False,False
+157468,NM,Yes,Nonpartisan,40463,72.378,False,False
+157468,NM,No,Nonpartisan,15442,27.622,False,False
+157637,NM,Camilla M Bustamante,Democratic,7522,100.0,False,False
+157614,NM,Elias Coriz,Democratic,8193,68.332,False,False
+157614,NM,Darlene G Armijo,Republican,3797,31.668,False,False
+157328,NM,Alan T Martinez,Republican,9146,100.0,True,False
+157529,NM,Roy J Manfredi,Republican,3262,100.0,False,False
+157442,NM,Mary Louise Harkins,Independent,1112,100.0,False,False
+157643,NM,Joshua D Baker,Republican,3238,100.0,False,False
+157549,NM,John M Caraway,Republican,12842,100.0,False,False
+157334,NM,Joy I Garratt,Democratic,9043,61.371,True,False
+157334,NM,Carolyn Stith,Republican,5692,38.629,False,False
+157439,NM,Stacey D Biel,Republican,4105,100.0,False,False
+157640,NM,Ami S Jaeger,Democratic,52739,100.0,False,False
+157626,NM,Doris R Gallegos,Democratic,1274,100.0,False,False
+157564,NM,Elvia Veronica Hazen,Republican,310,100.0,False,False
+157317,NM,Art De La Cruz,Democratic,5028,73.145,True,False
+157317,NM,Steven E Tafoya,Republican,1846,26.855,False,False
+159831,NM,Yes,Nonpartisan,33985,59.244,False,False
+159831,NM,No,Nonpartisan,23379,40.756,False,False
+157623,NM,Kenneth W Christesen,Republican,28163,100.0,False,False
+157632,NM,Frank James Smith Jr.,Democratic,7983,51.068,False,False
+157632,NM,Edwin Paul Linson,Republican,7649,48.932,False,False
+157538,NM,Brandi Foster,Republican,614,100.0,False,False
+157323,NM,Marianna A Anaya,Democratic,10707,100.0,True,False
+157428,NM,Raymond D Calderon,Democratic,13592,72.743,False,False
+157428,NM,Steve C Hester,Republican,5093,27.257,False,False
+157437,NM,Trudy M Chase,Democratic,3980,100.0,False,False
+157535,NM,Joe Sena,Democratic,462,100.0,False,False
+157320,NM,"Dayan ""Day"" Mercedes Hochman-Vigil",Democratic,9123,100.0,True,False
+157649,NM,Elaine M Briggs,Democratic,4051,100.0,False,False
+157443,NM,J Scott Chandler,Republican,3276,59.836,False,False
+157443,NM,Frances Jo Kava,Forward,2199,40.164,False,False
+157612,NM,Monica L Salazar,Democratic,8531,69.358,False,False
+157612,NM,Robert R Vigil,Republican,3769,30.642,False,False
+159840,NM,Yes,Nonpartisan,15664,64.751,False,False
+159840,NM,No,Nonpartisan,8527,35.249,False,False
+157504,NM,Yes,Nonpartisan,125452,67.248,False,False
+157504,NM,No,Nonpartisan,61100,32.752,False,False
+157417,NM,Jannette Alicia Mondragon,Democratic,47179,100.0,False,False
+157618,NM,Javier Sanchez,Republican,3794,100.0,False,False
+157524,NM,Corrine C Padilla,Democratic,5463,100.0,False,False
+157533,NM,Candace R London,Republican,7804,100.0,False,False
+157414,NM,Rosenda Maria Chavez Lara,Democratic,47399,100.0,False,False
+157615,NM,Roy L Criswell,Republican,808,100.0,False,False
+157329,NM,Elizabeth L Thomson,Democratic,8776,100.0,True,False
+159843,NM,No,Nonpartisan,9744,68.302,False,False
+159843,NM,Yes,Nonpartisan,4522,31.698,False,False
+157539,NM,Lutrica E Drake,Republican,605,100.0,False,False
+159829,NM,Yes,Nonpartisan,4595,52.938,False,False
+159829,NM,No,Nonpartisan,4085,47.062,False,False
+157429,NM,John R Chavez,Republican,17845,100.0,False,False
+157598,NM,Americk Padilla,Democratic,1312,59.501,False,False
+157598,NM,Michael G Benjamin,Republican,893,40.499,False,False
+157383,NM,Anastasia Rose Martin,Democratic,69119,100.0,False,False
+157513,NM,Scott Ashton Johnston,Republican,1460,100.0,False,False
+159835,NM,Yes,Nonpartisan,54681,84.702,False,False
+159835,NM,No,Nonpartisan,9876,15.298,False,False
+157627,NM,Antonio J Padilla,Democratic,1483,100.0,False,False
+157412,NM,Nathan William Graff,Democratic,47697,100.0,False,False
+157510,NM,Buster Floyd Green,Republican,1059,56.874,False,False
+157510,NM,Martin Robert Treat Sr.,Independent,803,43.126,False,False
+159832,NM,Yes,Nonpartisan,46357,79.478,False,False
+159832,NM,No,Nonpartisan,11970,20.522,False,False
+157624,NM,John D Kuhn,Republican,27787,100.0,False,False
+157409,NM,Willie R Henry,Republican,1062,57.561,False,False
+157409,NM,Boris Dwayne Smith,Democratic,783,42.439,False,False
+157418,NM,Gian Alexander Rossario,Democratic,46938,100.0,False,False
+157587,NM,Glenn R Chadborn,Republican,2807,51.213,False,False
+157587,NM,Michael Keith Brown,Independent,2324,42.401,False,False
+157587,NM,Jose Leopoldo Martinez,Democratic,350,6.386,False,False
+157525,NM,Si S Trujillo,Republican,950,61.688,False,False
+157525,NM,Robert Jay Thompson,Democratic,590,38.312,False,False
+159815,NM,Yes,Nonpartisan,12124,77.828,False,False
+159815,NM,No,Nonpartisan,3454,22.172,False,False
+157479,NM,Yes,Nonpartisan,54431,67.237,False,False
+157479,NM,No,Nonpartisan,26523,32.763,False,False
+157392,NM,Brian D Decker,Republican,28600,50.575,False,False
+157392,NM,Brenna Clani-Washinawatok,Democratic,27950,49.425,False,False
+157593,NM,James Maiorano IIi,Democratic,13685,71.047,False,False
+157593,NM,Jeremy S Shirley,Republican,5577,28.953,False,False
+157307,NM,P Mark Duncan,Republican,5875,100.0,True,False
+157508,NM,Yes,Nonpartisan,124024,66.957,False,False
+157508,NM,No,Nonpartisan,61205,33.043,False,False
+157613,NM,Joaquin Valdez,Democratic,9132,100.0,False,False
+157398,NM,Melissa Y Mascarenas,Democratic,53955,100.0,False,False
+159841,NM,Yes,Nonpartisan,14846,61.193,False,False
+159841,NM,No,Nonpartisan,9415,38.807,False,False
+157505,NM,Yes,Nonpartisan,125891,67.428,False,False
+157505,NM,No,Nonpartisan,60812,32.572,False,False
+157514,NM,Lucinda Mae Howell,Republican,1453,100.0,False,False
+159804,NM,Yes,Nonpartisan,425,74.956,False,False
+159804,NM,No,Nonpartisan,142,25.044,False,False
+157628,NM,Darin J Romero,Democratic,6743,100.0,False,False
+157381,NM,Frederick Walton Parker,Democratic,38555,65.455,False,False
+157381,NM,John Foreman,Republican,20348,34.545,False,False
+157358,NM,Sarah Angelina Silva,Democratic,4780,61.487,True,False
+157358,NM,Ben Luna Jr.,Republican,2994,38.513,False,False
+157488,NM,Yes,Nonpartisan,25757,70.579,False,False
+157488,NM,No,Nonpartisan,10737,29.421,False,False
+157497,NM,Veronica Hernandez,Democratic,161515,100.0,False,False
+157602,NM,Jonathan T Emery,Republican,2966,64.088,False,False
+157602,NM,Evan Christopher Lambert,Independent,1662,35.912,False,False
+157387,NM,Crystal Emerald Lees,Democratic,160313,100.0,False,False
+159830,NM,No,Nonpartisan,10012,62.905,False,False
+159830,NM,Yes,Nonpartisan,5904,37.095,False,False
+157494,NM,Eric Olivas,Democratic,34203,60.846,False,False
+157494,NM,Thomas Wayne Riley,Republican,22009,39.154,False,False
+157599,NM,Mark A Montoya,Democratic,1672,100.0,False,False
+157384,NM,Matthew Edwin Chavez,Democratic,163977,100.0,False,False
+157370,NM,Derrick J Lente,Democratic,6499,100.0,True,False
+157308,NM,William A Hall II,Republican,7405,100.0,True,False
+157477,NM,Yes,Nonpartisan,32946,67.776,False,False
+157477,NM,No,Nonpartisan,15664,32.224,False,False
+157367,NM,Elaine Sena Cortez,Republican,5565,100.0,True,False
+157568,NM,Tracy L Chavez,Republican,1059,100.0,False,False
+159819,NM,Yes,Nonpartisan,174684,77.951,False,False
+159819,NM,No,Nonpartisan,49411,22.049,False,False
+157483,NM,Yes,Nonpartisan,25635,70.217,False,False
+157483,NM,No,Nonpartisan,10873,29.783,False,False
+157588,NM,Javier J Reyes,Democratic,4204,100.0,False,False
+157597,NM,David J Maestas,Democratic,1249,68.664,False,False
+157597,NM,Trinnie B Cordova,Democratic,570,31.336,False,False
+159816,NM,Yes,Nonpartisan,52905,85.759,False,False
+159816,NM,No,Nonpartisan,8785,14.241,False,False
+157480,NM,Yes,Nonpartisan,59085,80.586,False,False
+157480,NM,No,Nonpartisan,14234,19.414,False,False
+157393,NM,Stephen M Wayne,Republican,38388,100.0,False,False
+157603,NM,Geraldine Yazza Martinez,Republican,12569,100.0,False,False
+157356,NM,John Block,Republican,5060,55.138,True,False
+157356,NM,Grace A Nagamine,Independent,4117,44.862,False,False
+157662,NM,Martin J Mathis,Republican,817,57.333,False,False
+157662,NM,Lynette C Keeth,Republican,608,42.667,False,False
+157447,NM,Craig M Davis,Republican,3972,100.0,False,False
+157577,NM,Timothy Aaron Prather,Republican,1294,100.0,False,False
+157577,NM,Randall T Camp,Republican,0,0.0,False,False
+157362,NM,Chriselle Verene Martinez,Democratic,7407,53.951,True,False
+157362,NM,Catherine Jeanette Cullen,Republican,6322,46.049,False,False
+159805,NM,Yes,Nonpartisan,215,58.266,False,False
+159805,NM,No,Nonpartisan,154,41.734,False,False
+159814,NM,Yes,Nonpartisan,21675,64.004,False,False
+159814,NM,No,Nonpartisan,12190,35.996,False,False
+157574,NM,Shannan L Hemphill,Republican,5740,100.0,False,False
+157359,NM,Jonathan Allen Henry,Republican,6339,100.0,True,False
+157489,NM,Yes,Nonpartisan,32099,66.469,False,False
+157489,NM,No,Nonpartisan,16193,33.531,False,False
+159811,NM,Yes,Nonpartisan,23998,69.045,False,False
+159811,NM,No,Nonpartisan,10759,30.955,False,False
+159820,NM,Yes,Nonpartisan,168717,75.711,False,False
+159820,NM,No,Nonpartisan,54127,24.289,False,False
+157651,NM,F R Bob Romero,Democratic,2110,100.0,False,False
+157589,NM,Pilar Pacheco Salcido,Democratic,2882,49.248,False,False
+157589,NM,Roy Scott Chandler,Republican,2357,40.277,False,False
+157589,NM,Robert Allen Moran,Independent,613,10.475,False,False
+157342,NM,Lori A Martinez,Democratic,6920,64.546,True,False
+157342,NM,Isabella Solis,Republican,3801,35.454,False,False
+157543,NM,Eugenia Montoya Ortega,Democratic,47594,100.0,False,False
+157456,NM,F Kenneth Eichwald,Democratic,40823,100.0,False,False
+157657,NM,Nathan Allen Schafer,Republican,999,53.623,False,False
+157657,NM,Albert Chavez,Democratic,675,36.232,False,False
+157657,NM,Stephen E Garrett,Independent,189,10.145,False,False
+157371,NM,Leanne Gandy,Republican,5496,100.0,True,False
+157572,NM,Ava Benge,Republican,10476,100.0,False,False
+157670,NM,Wendy Emily Wallace,Republican,12955,50.728,False,False
+157670,NM,Pedro Rael,Democratic,12583,49.272,False,False
+157462,NM,Jessica M Melonas,Democratic,4661,65.889,False,False
+157462,NM,Robert Scott Windhorst,Republican,2413,34.111,False,False
+157368,NM,Seth H Martin,Republican,4173,100.0,True,False
+157569,NM,Bradley D Weber,Republican,2701,100.0,False,False
+157578,NM,Phillip Ray Herrera,Republican,932,100.0,False,False
+157331,NM,Eleanor Chavez,Democratic,5314,69.184,True,False
+157331,NM,Corey Rubin Zimmerman,Republican,2367,30.816,False,False
+159806,NM,No,Nonpartisan,102,52.308,False,False
+159806,NM,Yes,Nonpartisan,93,47.692,False,False
+157445,NM,Sara Anne Blankenhorn,Democratic,10596,100.0,False,False
+157422,NM,Noreen L Hendrickson,Republican,1554,56.304,False,False
+157422,NM,Amanda L Hammer,Democratic,1206,43.696,False,False
+157552,NM,Raul D Villanueva,Democratic,6805,59.908,False,False
+157552,NM,Wayne R Olver,Republican,4554,40.092,False,False
+157337,NM,Jenifer Marie Jones,Republican,4009,53.212,True,False
+157337,NM,Laura Mairel Parra,Democratic,3525,46.788,False,False
+157666,NM,Christopher K Williams,Republican,3013,51.085,False,False
+157666,NM,Sharalaina Piro-Rael,Democratic,2885,48.915,False,False
+157451,NM,Mickie L Vega,Republican,5730,100.0,False,False
+157357,NM,Doreen Yvonne Gallegos,Democratic,6275,100.0,True,False
+157558,NM,Roberta R Chavez,Democratic,1159,100.0,False,False
+157663,NM,Curtis Skaggs,Republican,1115,100.0,False,False
+157448,NM,Mark D Thomas,Democratic,1114,100.0,False,False
+157434,NM,Russell L Bradford,Republican,6165,100.0,False,False
+157372,NM,Jackey O Chatfield,Republican,5939,66.79,True,False
+157372,NM,Vincent M Soule,Democratic,2953,33.21,False,False
+157541,NM,Willie D Madrid,Democratic,7112,59.425,False,False
+157541,NM,Patricia Susan Kimble,Independent,4580,38.269,False,False
+157541,NM,Julia Tondaleah Brown,Democratic,276,2.306,False,False
+157518,NM,Sandra P Stewart,Republican,11567,100.0,False,False
+157431,NM,Miles Ross Tafoya,Republican,17674,100.0,False,False
+157440,NM,Joseph Madrid,Democratic,9482,100.0,False,False
+157346,NM,Yolanda R Jaramillo,Democratic,7653,100.0,True,False
+157547,NM,James William Bowen IIi,Republican,3047,100.0,False,False
+157652,NM,Miguel Alfonso Romero,Democratic,1816,100.0,False,False
+157661,NM,Mary Ann Anaya-Hernandez,Republican,4018,100.0,False,False
+157343,NM,David L Mooney,Democratic,4891,52.973,True,False
+157343,NM,Rebecca Dow,Republican,4342,47.027,False,False
+157544,NM,Judith Ann Baca,Democratic,47199,100.0,False,False
+157457,NM,Delilah M Montano-Baca,Democratic,40271,100.0,False,False
+157667,NM,Sharon L Smith,Republican,2526,50.591,False,False
+157667,NM,Karla J Laurie,Democratic,2467,49.409,False,False
+157420,NM,Amy A Hronich,Republican,3327,100.0,False,False
+157527,NM,Nolberto Dominguez Jr.,Democratic,2506,53.536,False,False
+157527,NM,Bill Cody Ayon,Republican,2175,46.464,False,False
+157312,NM,Rickie Allen Gonzales II,Democratic,4280,51.961,True,False
+157312,NM,Tanya R Mirabal Moya,Republican,3957,48.039,False,False
+157641,NM,Douglas E Whitehead,Republican,3223,100.0,False,False
+157426,NM,Rochelle Garnenez,Democratic,15267,100.0,False,False
+157332,NM,Abby Christine Foster,Democratic,7927,57.004,True,False
+157332,NM,Jahnelle Louise Garcia,Republican,5979,42.996,False,False
+157341,NM,Nathan P Small,Democratic,6936,59.726,True,False
+157341,NM,Julia E Ruiz,Republican,4677,40.274,False,False
+157638,NM,Paul Michael Joye,Democratic,53536,100.0,False,False
+157423,NM,Christopher A Mitchell,Republican,3725,100.0,False,False
+157553,NM,Misty Autumn Trujillo,Democratic,8223,100.0,False,False
+157530,NM,Fidel Magin Madrid,Democratic,980,100.0,False,False
+157347,NM,Kristina Ortez,Democratic,9657,100.0,True,False
+157516,NM,Will Cavin,Republican,2221,100.0,False,False
+157653,NM,Ronald J Mascarenas,Democratic,1530,63.856,False,False
+157653,NM,Nehemiah J Vasquez,Independent,866,36.144,False,False
+157406,NM,Janemarie A Vander Dussen,Republican,1841,51.082,False,False
+157406,NM,Terry Martin,Democratic,1763,48.918,False,False
+157607,NM,Dennis Victor Garcia,Republican,2298,100.0,False,False
+157321,NM,Yanira Gurrola Valenzuela,Democratic,8077,100.0,True,False
+157522,NM,Larry D Diaz,Democratic,4452,62.274,False,False
+157522,NM,Aaron Henry Baca,Republican,2697,37.726,False,False
+157435,NM,Eugenia Jean Charles Newton,Democratic,4362,100.0,False,False
+157636,NM,Henry Roybal,Democratic,10856,100.0,False,False
+157318,NM,Patricia A Roybal Caballero,Democratic,5377,100.0,True,False
+157519,NM,Eric J Coll,Republican,11674,100.0,False,False
+157432,NM,John Robinson Secrest IIi,Republican,11881,100.0,False,False
+157633,NM,John Paul Trujillo,Democratic,34082,53.787,False,False
+157633,NM,Victor J Rodriguez,Republican,29283,46.213,False,False
+87286,NM,Gabe Vasquez,Democratic,123753,58.754,True,False
+87286,NM,Greg Cunningham,Republican,86875,41.246,False,False
+87287,NM,Teresa Leger Fernandez,Democratic,141444,61.656,True,False
+87287,NM,Martin Zamora,Republican,87964,38.344,False,False
+87288,NM,Ben Ray Luján,Democratic,458963,63.264,True,False
+87288,NM,Larry Marker,Republican,266507,36.736,False,False
+87285,NM,Melanie Stansbury,Democratic,179858,63.636,True,False
+87285,NM,Didi Okpareke,Republican,102778,36.364,False,False

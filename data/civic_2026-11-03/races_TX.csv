@@ -1,0 +1,728 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+55859,TX,Texas Supreme Court Place 2,2026-11-03,99,2026-11-17T03:50:43.246Z,False,2,254,9719029,2026-11-18T16:42+00:00
+87442,TX,Texas Court of Criminal Appeals Place 3,2026-11-03,99,2026-11-17T03:50:43.246Z,False,3,254,9691821,2026-11-18T16:42+00:00
+55855,TX,Texas Agriculture Commissioner,2026-11-03,99,2026-11-17T03:50:43.246Z,False,3,254,9749523,2026-11-18T16:42+00:00
+87443,TX,Texas Court of Criminal Appeals Place 4,2026-11-03,99,2026-11-17T03:50:43.246Z,False,2,254,9675806,2026-11-18T16:42+00:00
+159568,TX,Texas State House,2026-11-03,94.4,,False,6,151,9605253,2026-11-18T16:42+00:00
+159569,TX,Texas State Senate,2026-11-03,91.7,,False,3,17,4998587,2026-11-18T16:42+00:00
+162408,TX,Texas Supreme Court Chief Justice,2026-11-03,99,2026-11-17T03:50:43.246Z,False,2,254,9748076,2026-11-18T16:42+00:00
+44210,TX,Texas Comptroller,2026-11-03,99,,False,4,254,9794738,2026-11-18T16:42+00:00
+162711,TX,Texas Supreme Court Place 7,2026-11-03,99,2026-11-17T03:50:43.246Z,False,2,254,9704551,2026-11-18T16:42+00:00
+87439,TX,Texas Lieutenant Governor,2026-11-03,99.1,,False,7,254,9849669,2026-11-18T16:42+00:00
+87441,TX,Texas Railroad Commissioner,2026-11-03,99,,False,3,254,9737193,2026-11-18T16:42+00:00
+87440,TX,Texas Attorney General,2026-11-03,99,,False,3,254,9821779,2026-11-18T16:42+00:00
+55857,TX,Texas Governor,2026-11-03,99,2026-11-04T04:19:08.955Z,False,8,254,9930196,2026-11-18T16:42+00:00
+87444,TX,Texas Court of Criminal Appeals Place 9,2026-11-03,99,2026-11-17T03:50:43.246Z,False,2,254,9665367,2026-11-18T16:42+00:00
+55858,TX,Texas Land Commissioner,2026-11-03,99,2026-11-17T03:50:43.246Z,False,3,254,9766945,2026-11-18T16:42+00:00
+55860,TX,Texas Supreme Court Place 8,2026-11-03,99,2026-11-17T03:50:43.246Z,False,2,254,9696701,2026-11-18T16:42+00:00
+162488,TX,"Lamb District Judge, 154th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162455,TX,Criminal District Judge Dallas County Number 1,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162614,TX,"Potter District Judge, 320th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162603,TX,"Gregg District Judge, 307th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55947,TX,"Harris Judge, County Criminal Court at Law No. 5",2026-11-03,0,,False,2,1157,0,2026-11-18T16:42+00:00
+162761,TX,Texas State House 30,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,6,61576,2026-11-18T16:42+00:00
+56080,TX,Texas State House 84,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,1,48893,2026-11-18T16:42+00:00
+162724,TX,Texas State House 101,2026-11-03,98,2026-11-04T07:09:42.117Z,False,1,1,46862,2026-11-18T16:42+00:00
+56068,TX,Texas State House 63,2026-11-03,95,2026-11-12T01:54:12.340Z,False,2,1,73374,2026-11-18T16:42+00:00
+56035,TX,Texas State House 135,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,1,56086,2026-11-18T16:42+00:00
+162433,TX,Criminal District Attorney Lubbock County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162805,TX,Texas State Senate 2,2026-11-03,96,2026-11-12T01:54:12.339Z,False,2,7,351479,2026-11-18T16:42+00:00
+55925,TX,"Harris Criminal District Judge, 248th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55892,TX,"Cameron County Justice of the Peace Precinct 3, Place 2",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162702,TX,"Texas Justice, 1st Court of Appeals District, Place 4 - Unexpired Term",2026-11-03,0,,False,2,10,0,2026-11-18T16:42+00:00
+162477,TX,"Texas District Judge, 118th Judicial District",2026-11-03,0,,False,1,3,0,2026-11-18T16:42+00:00
+162636,TX,"Texas District Judge, 36th Judicial District",2026-11-03,0,,False,1,5,0,2026-11-18T16:42+00:00
+55969,TX,Jim Wells County Justice of the Peace Precinct 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162783,TX,Texas State House 71,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,4,56455,2026-11-18T16:42+00:00
+162750,TX,Texas State House 144,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,1,37375,2026-11-18T16:42+00:00
+55866,TX,Bastrop County Chair,2026-11-03,0,,False,2,26,0,2026-11-18T16:42+00:00
+162583,TX,"Bexar District Judge, 285th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162550,TX,"Ector District Judge, 244th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162539,TX,"Tarrant District Judge, 231st Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56082,TX,Texas State House 96,2026-11-03,94,2026-11-12T01:54:12.340Z,False,2,1,75085,2026-11-18T16:42+00:00
+162704,TX,"Texas Justice, 2nd Court of Appeals District, Place 2",2026-11-03,0,,False,1,12,0,2026-11-18T16:42+00:00
+162447,TX,Criminal District Attorney Van Zandt County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162660,TX,"Guadalupe District Judge, 456th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162627,TX,"Montgomery District Judge, 359th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55971,TX,Kaufman Justice of the Peace Pct 2,2026-11-03,0,,False,2,8,0,2026-11-18T16:42+00:00
+55938,TX,"Harris Judge, County Criminal Court at Law No. 1",2026-11-03,0,,False,2,1157,0,2026-11-18T16:42+00:00
+162741,TX,Texas State House 13,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,7,59441,2026-11-18T16:42+00:00
+55868,TX,Bastrop Justice of the Peace Pct 2,2026-11-03,0,,False,2,7,0,2026-11-18T16:42+00:00
+56027,TX,Texas State House 119,2026-11-03,89,2026-11-04T07:09:42.118Z,False,2,1,54660,2026-11-18T16:42+00:00
+55983,TX,"Maverick County Justice of the Peace Precinct 3, Place 1",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162797,TX,Texas State House 93,2026-11-03,59,,False,2,1,77274,2026-11-18T16:42+00:00
+162764,TX,Texas State House 39,2026-11-03,97,2026-11-04T07:09:42.117Z,False,1,1,36268,2026-11-18T16:42+00:00
+55905,TX,Duval County Commissioner Precinct 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55879,TX,Brazoria County Criminal District Attorney,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162693,TX,"Texas District Judge, 87th Judicial District",2026-11-03,0,,False,1,4,0,2026-11-18T16:42+00:00
+55994,TX,Panola County Justice of the Peace Precinct 1 & 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162616,TX,"Tarrant District Judge, 322nd Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162493,TX,"Angelina District Judge, 159th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162674,TX,"Harris District Judge, 486th Judicial District - Unexpired Term",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162449,TX,Criminal District Attorney Walker County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55985,TX,Medina County Justice of the Peace Precinct 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162575,TX,"Hidalgo District Judge, 275th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162788,TX,Texas State House 80,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,6,45547,2026-11-18T16:42+00:00
+162563,TX,"Texas District Judge, 259th Judicial District",2026-11-03,0,,False,1,2,0,2026-11-18T16:42+00:00
+55907,TX,Edwards County Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56073,TX,Texas State House 72,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,10,53273,2026-11-18T16:42+00:00
+162684,TX,"Texas District Judge, 69th Judicial District",2026-11-03,0,,False,1,4,0,2026-11-18T16:42+00:00
+55996,TX,Potter County District Clerk,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55963,TX,Jeff Davis County Commissioner Precinct 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55919,TX,"Harris County Commissioner, Precinct 4",2026-11-03,0,,False,2,231,0,2026-11-18T16:42+00:00
+162733,TX,Texas State House 112,2026-11-03,75,2026-11-12T01:54:12.340Z,False,2,1,80843,2026-11-18T16:42+00:00
+162707,TX,"Texas Justice, 5th Court of Appeals District, Place 6",2026-11-03,0,,False,2,6,0,2026-11-18T16:42+00:00
+56040,TX,Texas State House 145,2026-11-03,99.9,2026-11-04T07:09:42.118Z,False,2,1,56017,2026-11-18T16:42+00:00
+162438,TX,Criminal District Attorney Panola County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162405,TX,"Texas Chief Justice, 7th Court of Appeals District",2026-11-03,0,,False,1,46,0,2026-11-18T16:42+00:00
+55930,TX,"Harris Criminal District Judge, 497th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162552,TX,"Harris District Judge, 247th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56088,TX,Texas State Senate 24,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,13,339474,2026-11-18T16:42+00:00
+162802,TX,Texas State Senate 11,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,3,340271,2026-11-18T16:42+00:00
+162577,TX,"Texas District Judge, 278th Judicial District",2026-11-03,0,,False,1,3,0,2026-11-18T16:42+00:00
+55921,TX,"Harris Criminal District Judge, 185th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162518,TX,"Dallas District Judge, 203rd Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55884,TX,Brazos County Constable Precinct 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162506,TX,"Bexar District Judge, 187th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56042,TX,Texas State House 147,2026-11-03,99.9,2026-11-04T07:09:42.118Z,False,2,1,60188,2026-11-18T16:42+00:00
+162632,TX,"Collin District Judge, 366th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162812,TX,"Denton District Judge, 477th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55932,TX,"Harris Family District Judge, 280th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55899,TX,Culberson County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162709,TX,"Texas Justice, 6th Court of Appeals District, Place 3",2026-11-03,0,,False,1,19,0,2026-11-18T16:42+00:00
+162676,TX,"Harris District Judge, 496th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55988,TX,Morris County Justice of the Peace Precinct 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162599,TX,"Dallas District Judge, 303rd Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162566,TX,"Bell District Judge, 264th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56102,TX,"Tarrant Judge, County Criminal Court, No. 5",2026-11-03,0,,False,2,707,0,2026-11-18T16:42+00:00
+55873,TX,"Bexar County Commissioner, Precinct No. 2",2026-11-03,0,,False,2,188,0,2026-11-18T16:42+00:00
+162495,TX,"El Paso District Judge, 168th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162462,TX,"Texas District Attorney, 452nd Judicial District",2026-11-03,0,,False,1,5,0,2026-11-18T16:42+00:00
+162621,TX,"Wharton District Judge, 329th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162520,TX,"Texas District Judge, 205th Judicial District",2026-11-03,0,,False,1,3,0,2026-11-18T16:42+00:00
+56056,TX,Texas State House 35,2026-11-03,96,2026-11-04T07:09:42.117Z,False,2,2,34945,2026-11-18T16:42+00:00
+162454,TX,Criminal District Judge #3 Tarrant County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162443,TX,Criminal District Attorney Smith County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55979,TX,"La Salle County Justice of the Peace Precinct 1, 5 & 6",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162601,TX,"Dallas District Judge, 305th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55913,TX,Goliad County Commissioner Precinct 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55901,TX,Dallas County Judge,2026-11-03,0,,False,2,1582,0,2026-11-18T16:42+00:00
+55875,TX,"Bexar Judge, County Court at Law No. 1",2026-11-03,0,,False,2,806,0,2026-11-18T16:42+00:00
+56034,TX,Texas State House 133,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,1,67139,2026-11-18T16:42+00:00
+162645,TX,"Brazoria District Judge, 412th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162804,TX,Texas State Senate 19,2026-11-03,99.3,2026-11-12T01:54:12.339Z,False,2,14,281415,2026-11-18T16:42+00:00
+55924,TX,"Harris Criminal District Judge, 230th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162535,TX,"Bexar District Judge, 224th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56078,TX,Texas State House 82,2026-11-03,99.9,2026-11-04T07:09:42.117Z,False,2,3,46858,2026-11-18T16:42+00:00
+56045,TX,Texas State House 16,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,1,78132,2026-11-18T16:42+00:00
+56001,TX,Rusk County Chair,2026-11-03,0,,False,2,22,0,2026-11-18T16:42+00:00
+162623,TX,"Travis District Judge, 331st Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162590,TX,"Dallas District Judge, 292nd Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162749,TX,Texas State House 142,2026-11-03,99.9,2026-11-04T07:09:42.118Z,False,2,1,49198,2026-11-18T16:42+00:00
+162738,TX,Texas State House 125,2026-11-03,97,2026-11-04T07:09:42.118Z,False,2,1,67316,2026-11-18T16:42+00:00
+162423,TX,Criminal District Attorney Galveston County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162582,TX,"Montgomery District Judge, 284th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162571,TX,"Harris District Judge, 270th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55915,TX,"Harris Civil District Judge, 190th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162537,TX,"Bexar District Judge, 227th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56048,TX,Texas State House 20,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,1,99252,2026-11-18T16:42+00:00
+162500,TX,"Henderson District Judge, 173rd Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56036,TX,Texas State House 136,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,1,67323,2026-11-18T16:42+00:00
+56003,TX,Starr County Justice of the Peace Precinct 6,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55970,TX,Kaufman County Commissioner Pct 2,2026-11-03,0,,False,2,8,0,2026-11-18T16:42+00:00
+162773,TX,Texas State House 52,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,1,104939,2026-11-18T16:42+00:00
+162740,TX,Texas State House 129,2026-11-03,99.9,,False,2,1,74367,2026-11-18T16:42+00:00
+55867,TX,Bastrop Justice of the Peace Pct 1,2026-11-03,0,,False,2,9,0,2026-11-18T16:42+00:00
+162670,TX,"Williamson District Judge, 480th Judicial District - Unexpired Term",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162637,TX,"Hidalgo District Judge, 370th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162604,TX,"Harris District Judge, 308th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162784,TX,Texas State House 74,2026-11-03,97.9,2026-11-12T01:54:12.340Z,False,2,11,48327,2026-11-18T16:42+00:00
+162751,TX,Texas State House 149,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,1,42140,2026-11-18T16:42+00:00
+162526,TX,"Galveston District Judge, 212th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162681,TX,"Texas District Judge, 64th Judicial District",2026-11-03,0,,False,1,3,0,2026-11-18T16:42+00:00
+162456,TX,"Criminal District Judge, Dallas County Number 5",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56087,TX,Texas State Senate 21,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,16,272275,2026-11-18T16:42+00:00
+162514,TX,"Hunt District Judge, 196th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56050,TX,Texas State House 24,2026-11-03,99.9,2026-11-04T07:09:42.117Z,False,2,1,83664,2026-11-18T16:42+00:00
+162672,TX,"Cameron District Judge, 484th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162415,TX,Criminal District Attorney Calhoun County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+188184,TX,Texas State House 93 - Unexpired Term,2026-11-03,59,2026-11-12T01:54:12.340Z,False,2,1,77118,2026-11-18T16:42+00:00
+162403,TX,"Texas Chief Justice, 3rd Court of Appeals District",2026-11-03,0,,False,2,24,0,2026-11-18T16:42+00:00
+162786,TX,Texas State House 76,2026-11-03,96,2026-11-12T01:54:12.340Z,False,2,1,67114,2026-11-18T16:42+00:00
+55906,TX,Eastland County Justice of the Peace Precinct 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162716,TX,"Texas Member, State Board of Education, District 5",2026-11-03,0,,False,2,7,0,2026-11-18T16:42+00:00
+162683,TX,"Dallas District Judge, 68th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55995,TX,Parker County Chair,2026-11-03,0,,False,2,47,0,2026-11-18T16:42+00:00
+162798,TX,Texas State House 94,2026-11-03,93,2026-11-12T01:54:12.340Z,False,2,1,70108,2026-11-18T16:42+00:00
+162765,TX,Texas State House 40,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,1,43167,2026-11-18T16:42+00:00
+162540,TX,"Harris District Judge, 232nd Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55880,TX,Brazoria County District Clerk,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162694,TX,"Nueces District Judge, 94th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162661,TX,"Fort Bend District Judge, 458th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162809,TX,Texas State Senate 4,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,5,352764,2026-11-18T16:42+00:00
+162584,TX,"Texas District Judge, 286th Judicial District",2026-11-03,0,,False,1,2,0,2026-11-18T16:42+00:00
+56120,TX,Williamson County Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162642,TX,"Texas District Judge, 39th Judicial District",2026-11-03,0,,False,1,4,0,2026-11-18T16:42+00:00
+162417,TX,Criminal District Attorney Collin County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162800,TX,Texas State House 97,2026-11-03,79,2026-11-12T01:54:12.340Z,False,2,1,80732,2026-11-18T16:42+00:00
+56112,TX,Val Verde County District Clerk,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162756,TX,Texas State House 25,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,1,68180,2026-11-18T16:42+00:00
+56100,TX,"Tarrant Family District Judge, 323rd Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55882,TX,"Brazoria County Justice of the Peace Precinct 3, Place 2",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56041,TX,Texas State House 146,2026-11-03,99.9,2026-11-04T07:09:42.118Z,False,2,1,51671,2026-11-18T16:42+00:00
+162652,TX,"Bexar District Judge, 436th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162811,TX,"Texas Chief Justice, 15th Court of Appeals District",2026-11-03,0,,False,2,254,0,2026-11-18T16:42+00:00
+55931,TX,"Harris Family District Judge, 245th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162734,TX,Texas State House 118,2026-11-03,90,2026-11-12T01:54:12.340Z,False,2,1,69689,2026-11-18T16:42+00:00
+162708,TX,"Texas Justice, 5th Court of Appeals District, Place 8",2026-11-03,0,,False,2,6,0,2026-11-18T16:42+00:00
+162675,TX,"Collin District Judge, 494th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162439,TX,Criminal District Attorney Polk County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162406,TX,"Texas Chief Justice, 8th Court of Appeals District",2026-11-03,0,,False,1,17,0,2026-11-18T16:42+00:00
+55942,TX,"Harris Judge, County Criminal Court at Law No. 13",2026-11-03,0,,False,2,1157,0,2026-11-18T16:42+00:00
+162745,TX,Texas State House 137,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,1,26001,2026-11-18T16:42+00:00
+56089,TX,Texas State Senate 28,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,41,277121,2026-11-18T16:42+00:00
+56063,TX,Texas State House 53,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,16,83305,2026-11-18T16:42+00:00
+162461,TX,"Cherokee District Attorney, 2nd Judicial District - Unexpired Term",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162770,TX,Texas State House 49,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,1,87487,2026-11-18T16:42+00:00
+56114,TX,Victoria County Treasurer,2026-11-03,0,,False,2,35,0,2026-11-18T16:42+00:00
+162736,TX,Texas State House 122,2026-11-03,92,2026-11-12T01:54:12.340Z,False,2,1,99558,2026-11-18T16:42+00:00
+56055,TX,Texas State House 34,2026-11-03,72,2026-11-04T07:09:42.117Z,False,2,1,42773,2026-11-18T16:42+00:00
+162699,TX,"Texas Justice, 13th Court of Appeals District, Place 6",2026-11-03,0,,False,2,20,0,2026-11-18T16:42+00:00
+162474,TX,"Texas District Judge, 115th Judicial District",2026-11-03,0,,False,1,2,0,2026-11-18T16:42+00:00
+162441,TX,Criminal District Attorney Rockwall County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162792,TX,Texas State House 89,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,1,86920,2026-11-18T16:42+00:00
+162780,TX,Texas State House 67,2026-11-03,99.9,,False,2,1,84929,2026-11-18T16:42+00:00
+162747,TX,Texas State House 139,2026-11-03,99.9,2026-11-04T07:09:42.118Z,False,2,1,56118,2026-11-18T16:42+00:00
+55874,TX,"Bexar District Judge, 225th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162485,TX,"Nueces District Judge, 148th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162644,TX,"Ellis District Judge, 40th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162803,TX,Texas State Senate 13,2026-11-03,99,2026-11-04T07:09:42.116Z,False,1,2,202858,2026-11-18T16:42+00:00
+162567,TX,"Dallas District Judge, 265th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56103,TX,"Tarrant Judge, County Criminal Court, No. 9",2026-11-03,0,,False,2,707,0,2026-11-18T16:42+00:00
+55885,TX,Brewster County Justice of the Peace Precinct 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162688,TX,"Texas District Judge, 81st Judicial District",2026-11-03,0,,False,1,5,0,2026-11-18T16:42+00:00
+162463,TX,"Montgomery District Attorney, 9th Judicial District - Unexpired Term",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162430,TX,Criminal District Attorney Jefferson County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162589,TX,"Dallas District Judge, 291st Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56057,TX,Texas State House 38,2026-11-03,99.9,2026-11-04T07:09:42.117Z,False,2,1,40597,2026-11-18T16:42+00:00
+56024,TX,Texas State House 115,2026-11-03,82,2026-11-04T07:09:42.118Z,False,2,1,62575,2026-11-18T16:42+00:00
+162422,TX,Criminal District Attorney Eastland County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162411,TX,Criminal District Attorney Bastrop County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162794,TX,Texas State House 90,2026-11-03,93,2026-11-04T07:09:42.117Z,False,1,1,37556,2026-11-18T16:42+00:00
+162569,TX,"Texas District Judge, 267th Judicial District",2026-11-03,0,,False,1,6,0,2026-11-18T16:42+00:00
+162728,TX,Texas State House 106,2026-11-03,94,2026-11-12T01:54:12.340Z,False,2,1,91807,2026-11-18T16:42+00:00
+55876,TX,"Bexar Judge, County Court at Law No. 4",2026-11-03,0,,False,2,806,0,2026-11-18T16:42+00:00
+162690,TX,"Texas District Judge, 83rd Judicial District",2026-11-03,0,,False,1,3,0,2026-11-18T16:42+00:00
+56002,TX,Starr County Justice of the Peace Precinct 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162613,TX,"Texas District Judge, 31st Judicial District",2026-11-03,0,,False,1,5,0,2026-11-18T16:42+00:00
+162772,TX,Texas State House 50,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,1,59336,2026-11-18T16:42+00:00
+162739,TX,Texas State House 126,2026-11-03,99.9,,False,2,1,67866,2026-11-18T16:42+00:00
+162510,TX,"Dallas District Judge, 192nd Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56046,TX,Texas State House 17,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,5,73580,2026-11-18T16:42+00:00
+162444,TX,Criminal District Attorney Taylor County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162816,TX,"Ellis District Judge, 504th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162591,TX,"Texas District Judge, 293rd Judicial District",2026-11-03,0,,False,1,3,0,2026-11-18T16:42+00:00
+162558,TX,"Dallas District Judge, 254th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162525,TX,"Denton District Judge, 211th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162713,TX,"Texas Member, State Board of Education, District 14",2026-11-03,0,,False,2,19,0,2026-11-18T16:42+00:00
+55960,TX,Hidalgo County District Clerk,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56119,TX,Williamson County Clerk,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56108,TX,"Tarrant Justice, 15th Court of Appeals District, Place 3",2026-11-03,0,,False,2,254,0,2026-11-18T16:42+00:00
+162730,TX,Texas State House 108,2026-11-03,88,2026-11-04T07:09:42.117Z,False,2,1,92518,2026-11-18T16:42+00:00
+162512,TX,"Dallas District Judge, 194th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56016,TX,Texas State House 4,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,2,77447,2026-11-18T16:42+00:00
+162468,TX,"Texas District Judge, 106th Judicial District",2026-11-03,0,,False,1,4,0,2026-11-18T16:42+00:00
+162435,TX,Criminal District Attorney McLennan County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162818,TX,"Fort Bend District Judge, 502nd Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162785,TX,Texas State House 75,2026-11-03,91,2026-11-04T07:09:42.117Z,False,1,1,36680,2026-11-18T16:42+00:00
+162549,TX,"El Paso District Judge, 243rd Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162715,TX,"Texas Member, State Board of Education, District 4 - Unexpired Term",2026-11-03,0,,False,2,2,0,2026-11-18T16:42+00:00
+162682,TX,"Hill District Judge, 66th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162638,TX,"Tarrant District Judge, 372nd Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162605,TX,"Wichita District Judge, 30th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162572,TX,"Texas District Judge, 271st Judicial District",2026-11-03,0,,False,1,2,0,2026-11-18T16:42+00:00
+162752,TX,Texas State House 150,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,1,68864,2026-11-18T16:42+00:00
+162527,TX,"Tarrant District Judge, 213th Judicial District - Unexpired Term",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162501,TX,"Texas District Judge, 181st Judicial District",2026-11-03,0,,False,1,2,0,2026-11-18T16:42+00:00
+162649,TX,"Texas District Judge, 424th Judicial District",2026-11-03,0,,False,1,4,0,2026-11-18T16:42+00:00
+162424,TX,Criminal District Attorney Gregg County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56062,TX,Texas State House 51,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,1,64131,2026-11-18T16:42+00:00
+162482,TX,"Tarrant District Judge, 141st Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56018,TX,Texas State House 8,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,4,61490,2026-11-18T16:42+00:00
+162640,TX,"Midland District Judge, 385th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55952,TX,"Harris Judge, County Probate Court No. 2",2026-11-03,0,,False,2,1157,0,2026-11-18T16:42+00:00
+162596,TX,"Brazoria District Judge, 300th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55940,TX,"Harris Judge, County Criminal Court at Law No. 11",2026-11-03,0,,False,2,1157,0,2026-11-18T16:42+00:00
+162754,TX,Texas State House 22,2026-11-03,99.9,2026-11-04T07:09:42.117Z,False,1,1,32238,2026-11-18T16:42+00:00
+55881,TX,"Brazoria County Justice of the Peace Precinct 2, Place 2",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162492,TX,"Denton District Judge, 158th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162651,TX,"Collin District Judge, 429th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162810,TX,Texas State Senate 5,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,11,371380,2026-11-18T16:42+00:00
+162766,TX,Texas State House 41,2026-11-03,88,2026-11-12T01:54:12.339Z,False,2,1,53075,2026-11-18T16:42+00:00
+162541,TX,"Tarrant District Judge, 233rd Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162515,TX,"Texas District Judge, 197th Judicial District",2026-11-03,0,,False,1,2,0,2026-11-18T16:42+00:00
+162695,TX,"Texas District Judge, Judicial District 1a",2026-11-03,0,,False,1,3,0,2026-11-18T16:42+00:00
+162662,TX,"Travis District Judge, 459th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55974,TX,Kinney County Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162777,TX,Texas State House 60,2026-11-03,99.9,2026-11-04T07:09:42.117Z,False,2,3,88261,2026-11-18T16:42+00:00
+56121,TX,Williamson County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55896,TX,Culberson County Commissioner Precinct 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162610,TX,"Jefferson District Judge, 317th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55954,TX,"Harris Justice of the Peace, Precinct 8, Place 2",2026-11-03,0,,False,2,84,0,2026-11-18T16:42+00:00
+162768,TX,Texas State House 46,2026-11-03,99.9,2026-11-04T07:09:42.117Z,False,1,1,69136,2026-11-18T16:42+00:00
+55888,TX,Caldwell County Justice of the Peace Precinct 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162532,TX,"Montgomery District Judge, 221st Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56075,TX,Texas State House 77,2026-11-03,99.9,2026-11-04T07:09:42.117Z,False,2,1,42661,2026-11-18T16:42+00:00
+162697,TX,"Texas Justice, 11th Court of Appeals District, Place 2",2026-11-03,0,,False,1,28,0,2026-11-18T16:42+00:00
+162440,TX,Criminal District Attorney Randall County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162620,TX,"Fort Bend District Judge, 328th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162779,TX,Texas State House 64,2026-11-03,98.5,2026-11-12T01:54:12.340Z,False,2,2,83784,2026-11-18T16:42+00:00
+162746,TX,Texas State House 138,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,1,66155,2026-11-18T16:42+00:00
+162517,TX,"Travis District Judge, 201st Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162484,TX,"Travis District Judge, 147th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162643,TX,"Travis District Judge, 403rd Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162407,TX,"Texas Chief Justice, 9th Court of Appeals District",2026-11-03,0,,False,1,10,0,2026-11-18T16:42+00:00
+55943,TX,"Harris Judge, County Criminal Court at Law No. 15",2026-11-03,0,,False,2,1157,0,2026-11-18T16:42+00:00
+55910,TX,Frio County Constable Precinct 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162720,TX,"Texas Member, State Board of Education, District 9",2026-11-03,0,,False,2,24,0,2026-11-18T16:42+00:00
+56064,TX,Texas State House 54,2026-11-03,97,2026-11-12T01:54:12.339Z,False,2,1,48684,2026-11-18T16:42+00:00
+56031,TX,Texas State House 127,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,1,79614,2026-11-18T16:42+00:00
+162429,TX,Criminal District Attorney Jasper County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55890,TX,"Cameron County Justice of the Peace Precinct 2, Place 2",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55864,TX,Atascosa County Commissioner Precinct 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56023,TX,Texas State House 114,2026-11-03,86,2026-11-04T07:09:42.118Z,False,2,1,62615,2026-11-18T16:42+00:00
+162667,TX,"Collin District Judge, 471st Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162634,TX,"Williamson District Judge, 368th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162409,TX,Criminal District Attorney Anderson County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162760,TX,Texas State House 3,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,1,84878,2026-11-18T16:42+00:00
+162748,TX,Texas State House 14,2026-11-03,99.9,,False,3,1,62813,2026-11-18T16:42+00:00
+162722,TX,Texas State House 10,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,1,85497,2026-11-18T16:42+00:00
+162689,TX,"Texas District Judge, 82nd Judicial District",2026-11-03,0,,False,1,2,0,2026-11-18T16:42+00:00
+162453,TX,Criminal District Attorney Yoakum County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162612,TX,"Nueces District Judge, 319th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162771,TX,Texas State House 5,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,6,70475,2026-11-18T16:42+00:00
+56104,TX,"Tarrant Justice of the Peace, Precinct No. 2",2026-11-03,0,,False,2,91,0,2026-11-18T16:42+00:00
+55886,TX,Brewster County Justice of the Peace Precinct 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162700,TX,"Texas Justice, 14th Court of Appeals District, Place 7",2026-11-03,0,,False,2,10,0,2026-11-18T16:42+00:00
+162656,TX,"Dallas District Judge, 44th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162431,TX,Criminal District Attorney Kaufman County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55967,TX,Jim Wells County Clerk,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162557,TX,"Texas District Judge, 253rd Judicial District",2026-11-03,0,,False,1,2,0,2026-11-18T16:42+00:00
+162546,TX,"Fort Bend District Judge, 240th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55992,TX,Nueces County District Clerk,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55959,TX,Hidalgo County Criminal District Attorney,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55948,TX,"Harris Judge, County Criminal Court at Law No. 6",2026-11-03,0,,False,2,1157,0,2026-11-18T16:42+00:00
+162762,TX,Texas State House 36,2026-11-03,84,2026-11-04T07:09:42.117Z,False,1,1,33326,2026-11-18T16:42+00:00
+56106,TX,"Tarrant Justice of the Peace, Precinct No. 7",2026-11-03,0,,False,2,113,0,2026-11-18T16:42+00:00
+162703,TX,"Texas Justice, 1st Court of Appeals District, Place 5",2026-11-03,0,,False,2,10,0,2026-11-18T16:42+00:00
+56069,TX,Texas State House 65,2026-11-03,93,2026-11-12T01:54:12.340Z,False,2,1,89558,2026-11-18T16:42+00:00
+162691,TX,"Brazos District Judge, 85th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162658,TX,"Texas District Judge, 452nd Judicial District",2026-11-03,0,,False,1,5,0,2026-11-18T16:42+00:00
+162817,TX,"Fort Bend District Judge, 501st Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162581,TX,"Dallas District Judge, 283rd Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162548,TX,"Texas District Judge, 242nd Judicial District",2026-11-03,0,,False,1,3,0,2026-11-18T16:42+00:00
+162714,TX,"Texas Member, State Board of Education, District 2",2026-11-03,0,,False,2,14,0,2026-11-18T16:42+00:00
+162478,TX,"El Paso District Judge, 120th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162445,TX,Criminal District Attorney Tyler County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162412,TX,Criminal District Attorney Bexar County,2026-11-03,0,,False,3,1,0,2026-11-18T16:42+00:00
+162592,TX,"Van Zandt District Judge, 294th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162559,TX,"Dallas District Judge, 255th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56095,TX,Tarrant District Clerk,2026-11-03,0,,False,2,707,0,2026-11-18T16:42+00:00
+162489,TX,"Texas District Judge, 155th Judicial District",2026-11-03,0,,False,1,2,0,2026-11-18T16:42+00:00
+56025,TX,Texas State House 116,2026-11-03,93,2026-11-04T07:09:42.118Z,False,2,1,52342,2026-11-18T16:42+00:00
+55895,TX,Culberson County Clerk/District Clerk,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56083,TX,Texas State House 99,2026-11-03,72,2026-11-12T01:54:12.340Z,False,2,1,66488,2026-11-18T16:42+00:00
+162705,TX,"Texas Justice, 2nd Court of Appeals District, Place 7",2026-11-03,0,,False,1,12,0,2026-11-18T16:42+00:00
+162480,TX,"Dallas District Judge, 134th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55984,TX,Maverick County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162628,TX,"Brazos District Judge, 361st Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55972,TX,Kendall County Justice of the Peace Precinct 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162594,TX,"Dallas District Judge, 298th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162753,TX,Texas State House 19,2026-11-03,99.9,2026-11-04T07:09:42.117Z,False,2,5,111037,2026-11-18T16:42+00:00
+162524,TX,"El Paso District Judge, 210th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162491,TX,"Harris District Judge, 157th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162650,TX,"Hays District Judge, 428th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162606,TX,"Harris District Judge, 310th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162573,TX,"Texas District Judge, 273rd Judicial District",2026-11-03,0,,False,1,3,0,2026-11-18T16:42+00:00
+56109,TX,Taylor County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162528,TX,"Angelina District Judge, 217th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162502,TX,"Harris District Judge, 182nd Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162469,TX,"Cameron District Judge, 107th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162617,TX,"Tarrant District Judge, 324th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55961,TX,"Hidalgo County Justice of the Peace Precinct 1, Place 2",2026-11-03,0,,False,2,48,0,2026-11-18T16:42+00:00
+55928,TX,"Harris Criminal District Judge, 482nd Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162450,TX,Criminal District Attorney Waller County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55986,TX,Medina County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162608,TX,"Harris District Judge, 315th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55920,TX,"Harris Criminal District Judge, 180th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162564,TX,"Orange District Judge, 260th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55908,TX,Falls County Commissioner Precinct 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162530,TX,"Collin District Judge, 219th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162696,TX,"Texas Justice, 10th Court of Appeals District, Place 2",2026-11-03,0,,False,1,18,0,2026-11-18T16:42+00:00
+162460,TX,"Fort Bend District Attorney, 268th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162619,TX,"El Paso District Judge, 327th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162778,TX,Texas State House 61,2026-11-03,99.9,,False,3,1,91078,2026-11-18T16:42+00:00
+162542,TX,"Harris District Judge, 234th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162516,TX,"Texas District Judge, 198th Judicial District",2026-11-03,0,,False,1,2,0,2026-11-18T16:42+00:00
+162483,TX,"Bexar District Judge, 144th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162663,TX,"Bexar District Judge, 45th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55975,TX,Kinney County Justice of the Peace,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162789,TX,Texas State House 85,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,6,79786,2026-11-18T16:42+00:00
+162553,TX,"Texas District Judge, 249th Judicial District",2026-11-03,0,,False,1,2,0,2026-11-18T16:42+00:00
+55897,TX,Culberson County Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55871,TX,Bell County Commissioner Precinct 2,2026-11-03,0,,False,2,18,0,2026-11-18T16:42+00:00
+56030,TX,Texas State House 124,2026-11-03,93,2026-11-04T07:09:42.118Z,False,4,1,44456,2026-11-18T16:42+00:00
+162578,TX,"Jefferson District Judge, 279th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55922,TX,"Harris Criminal District Judge, 208th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162544,TX,"Midland District Judge, 238th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55863,TX,Armstrong County Commissioner Precinct 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162507,TX,"Gregg District Judge, 188th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56043,TX,Texas State House 148,2026-11-03,99.9,2026-11-04T07:09:42.118Z,False,2,1,47656,2026-11-18T16:42+00:00
+162665,TX,"Denton District Judge, 467th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162600,TX,"Dallas District Judge, 304th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162588,TX,"Bexar District Judge, 290th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162555,TX,"Texas District Judge, 251st Judicial District",2026-11-03,0,,False,1,2,0,2026-11-18T16:42+00:00
+162721,TX,Texas State House 1,2026-11-03,99.9,2026-11-04T07:09:42.116Z,False,2,5,62713,2026-11-18T16:42+00:00
+56054,TX,Texas State House 33,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,2,83974,2026-11-18T16:42+00:00
+162452,TX,Criminal District Attorney Wood County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162611,TX,"Midland District Judge, 318th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55944,TX,"Harris Judge, County Criminal Court at Law No. 2",2026-11-03,0,,False,2,1157,0,2026-11-18T16:42+00:00
+55911,TX,Frio County Justice of the Peace Precinct 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162725,TX,Texas State House 102,2026-11-03,86,2026-11-04T07:09:42.117Z,False,2,1,45772,2026-11-18T16:42+00:00
+162496,TX,"Bell District Judge, 169th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56032,TX,Texas State House 128,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,1,54716,2026-11-18T16:42+00:00
+55999,TX,Reeves County Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55966,TX,Jefferson County Treasurer,2026-11-03,0,,False,2,104,0,2026-11-18T16:42+00:00
+55865,TX,Bailey County Commissioner Precinct 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162679,TX,"Jefferson District Judge, 58th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55991,TX,Nacogdoches County Justice of the Peace Precinct 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55980,TX,La Salle County Justice of the Peace Precinct 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162602,TX,"Galveston District Judge, 306th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55946,TX,"Harris Judge, County Criminal Court at Law No. 4",2026-11-03,0,,False,2,1157,0,2026-11-18T16:42+00:00
+162536,TX,"Bexar District Judge, 226th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162723,TX,Texas State House 100,2026-11-03,80,2026-11-04T07:09:42.117Z,False,2,1,38828,2026-11-18T16:42+00:00
+162498,TX,"El Paso District Judge, 171st Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162657,TX,"Kendall District Judge, 451st Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162421,TX,Criminal District Attorney Denton County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162580,TX,"Dallas District Judge, 282nd Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162547,TX,"Smith District Judge, 241st Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56079,TX,Texas State House 83,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,11,68453,2026-11-18T16:42+00:00
+162701,TX,"Texas Justice, 1st Court of Appeals District, Place 3",2026-11-03,0,,False,2,10,0,2026-11-18T16:42+00:00
+162668,TX,"Bell District Judge, 478th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162624,TX,"Hood District Judge, 355th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55968,TX,Jim Wells County Commissioner Precinct 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55935,TX,"Harris Family District Judge, 312th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56094,TX,Tarrant County Chair,2026-11-03,0,,False,2,707,0,2026-11-18T16:42+00:00
+162521,TX,"Hidalgo District Judge, 206th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162807,TX,Texas State Senate 26,2026-11-03,90,2026-11-04T07:09:42.116Z,False,2,1,215727,2026-11-18T16:42+00:00
+55927,TX,"Harris Criminal District Judge, 263rd Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55916,TX,"Harris Civil District Judge, 269th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162538,TX,"Texas District Judge, 229th Judicial District",2026-11-03,0,,False,1,3,0,2026-11-18T16:42+00:00
+56081,TX,Texas State House 87,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,8,43149,2026-11-18T16:42+00:00
+162671,TX,"Denton District Judge, 481st Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56037,TX,Texas State House 140,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,1,29906,2026-11-18T16:42+00:00
+162659,TX,"Travis District Judge, 455th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162626,TX,"Ector District Judge, 358th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162593,TX,"Collin District Judge, 296th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56118,TX,Willacy County Justice of the Peace Precinct 5,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162523,TX,"Harris District Judge, 209th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162490,TX,"Texas District Judge, 156th Judicial District",2026-11-03,0,,False,1,5,0,2026-11-18T16:42+00:00
+162446,TX,Criminal District Attorney Upshur County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162413,TX,Criminal District Attorney Bowie County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55949,TX,"Harris Judge, County Criminal Court at Law No. 8",2026-11-03,0,,False,2,1157,0,2026-11-18T16:42+00:00
+162560,TX,"Dallas District Judge, 256th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56096,TX,"Tarrant District Judge, 236th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56070,TX,Texas State House 66,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,1,85432,2026-11-18T16:42+00:00
+162457,TX,"Criminal District Judge, Dallas County Number 6",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55993,TX,Nueces County Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55870,TX,Bee County Justice of the Peace Precinct 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56051,TX,Texas State House 29,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,1,71626,2026-11-18T16:42+00:00
+162673,TX,"Tarrant District Judge, 485th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162448,TX,Criminal District Attorney Victoria County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162799,TX,Texas State House 95,2026-11-03,93,2026-11-04T07:09:42.117Z,False,1,1,43569,2026-11-18T16:42+00:00
+162404,TX,"Texas Chief Justice, 4th Court of Appeals District",2026-11-03,0,,False,2,32,0,2026-11-18T16:42+00:00
+162787,TX,Texas State House 78,2026-11-03,98,2026-11-04T07:09:42.117Z,False,1,1,43104,2026-11-18T16:42+00:00
+162562,TX,"Texas District Judge, 258th Judicial District",2026-11-03,0,,False,1,3,0,2026-11-18T16:42+00:00
+162529,TX,"Texas District Judge, 218th Judicial District",2026-11-03,0,,False,1,5,0,2026-11-18T16:42+00:00
+56061,TX,Texas State House 48,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,1,95255,2026-11-18T16:42+00:00
+162459,TX,"Angelina District Attorney, 159th Judicial District - Unexpired Term",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162618,TX,"Taylor District Judge, 326th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162574,TX,"Texas District Judge, 274th Judicial District",2026-11-03,0,,False,1,3,0,2026-11-18T16:42+00:00
+56110,TX,Tom Green County Justice of the Peace Precinct 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56084,TX,Texas State Senate 1,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,19,320620,2026-11-18T16:42+00:00
+162503,TX,"Harris District Judge, 183rd Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162470,TX,"Texas District Judge, 109th Judicial District",2026-11-03,0,,False,1,3,0,2026-11-18T16:42+00:00
+162629,TX,"Dallas District Judge, 363rd Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162585,TX,"Texas District Judge, 287th Judicial District",2026-11-03,0,,False,1,2,0,2026-11-18T16:42+00:00
+55929,TX,"Harris Criminal District Judge, 495th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162743,TX,Texas State House 131,2026-11-03,99.9,2026-11-04T07:09:42.118Z,False,2,1,42556,2026-11-18T16:42+00:00
+162418,TX,Criminal District Attorney Comal County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162801,TX,Texas State House 98,2026-11-03,71,2026-11-04T07:09:42.117Z,False,2,1,86632,2026-11-18T16:42+00:00
+162576,TX,"Williamson District Judge, 277th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162735,TX,Texas State House 120,2026-11-03,86,2026-11-04T07:09:42.118Z,False,1,1,37740,2026-11-18T16:42+00:00
+56101,TX,"Tarrant Family District Judge, 325th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55883,TX,Brazoria County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162505,TX,"Bexar District Judge, 186th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162664,TX,"Comal District Judge, 466th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162428,TX,Criminal District Attorney Jackson County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162587,TX,"Bexar District Judge, 289th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162554,TX,"Travis District Judge, 250th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56086,TX,Texas State Senate 18,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,18,362048,2026-11-18T16:42+00:00
+56053,TX,Texas State House 32,2026-11-03,92.5,2026-11-04T07:09:42.117Z,False,2,2,66134,2026-11-18T16:42+00:00
+162451,TX,Criminal District Attorney Wichita County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55976,TX,Kleberg County Commissioner Precinct 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162790,TX,Texas State House 86,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,7,62258,2026-11-18T16:42+00:00
+162757,TX,Texas State House 26,2026-11-03,99.9,,False,2,1,73596,2026-11-18T16:42+00:00
+56090,TX,Texas State Senate 31,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,45,223511,2026-11-18T16:42+00:00
+55872,TX,Bexar County Chair,2026-11-03,0,,False,2,806,0,2026-11-18T16:42+00:00
+162686,TX,"McLennan District Judge, 74th Judicial District - Unexpired Term",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55998,TX,Reeves County Commissioner Precinct 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162737,TX,Texas State House 123,2026-11-03,87,2026-11-04T07:09:42.118Z,False,1,1,44640,2026-11-18T16:42+00:00
+162519,TX,"Dallas District Judge, 204th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162678,TX,"McLennan District Judge, 54th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162475,TX,"Dallas District Judge, 116th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162442,TX,Criminal District Attorney San Jacinto County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55978,TX,Kleberg County Justice of the Peace Precinct 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162568,TX,"Erath District Judge, 266th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162556,TX,"Jefferson District Judge, 252nd Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56092,TX,"Criminal District Judge, Court No. 1",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162497,TX,"McLennan District Judge, 170th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56022,TX,Texas State House 113,2026-11-03,70,2026-11-04T07:09:42.117Z,False,2,1,55920,2026-11-18T16:42+00:00
+162420,TX,Criminal District Attorney Deaf Smith County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162579,TX,"Harris District Judge, 281st Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55912,TX,Frio County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162726,TX,Texas State House 104,2026-11-03,81,2026-11-04T07:09:42.117Z,False,1,1,35234,2026-11-18T16:42+00:00
+162508,TX,"Harris District Judge, 189th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162464,TX,"Dallas District Judge, 101st Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56000,TX,Robertson County Justice of the Peace Precinct 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162814,TX,"Rockwall District Judge, 503rd Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55934,TX,"Harris Family District Judge, 311th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56115,TX,Webb County Clerk,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162647,TX,"Collin District Judge, 417th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162806,TX,Texas State Senate 22,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,12,333273,2026-11-18T16:42+00:00
+162795,TX,Texas State House 91,2026-11-03,56,2026-11-12T01:54:12.340Z,False,2,1,62788,2026-11-18T16:42+00:00
+162570,TX,"Fort Bend District Judge, 268th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55914,TX,"Harris Civil District Judge, 113th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162511,TX,"Dallas District Judge, 193rd Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55877,TX,Brazoria County Clerk,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162499,TX,"Jefferson District Judge, 172nd Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162466,TX,"Cameron District Judge, 103rd Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162625,TX,"Cameron District Judge, 357th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55958,TX,Hays County Justice of the Peace Precinct 2 Place 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56117,TX,Willacy County Justice of the Peace Precinct 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162522,TX,"Texas District Judge, 207th Judicial District",2026-11-03,0,,False,1,3,0,2026-11-18T16:42+00:00
+56047,TX,Texas State House 18,2026-11-03,99.9,2026-11-04T07:09:42.117Z,False,2,4,67002,2026-11-18T16:42+00:00
+162669,TX,"Texas District Judge, 47th Judicial District",2026-11-03,0,,False,1,3,0,2026-11-18T16:42+00:00
+55981,TX,Live Oak County Justice of the Peace Precinct 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162400,TX,Texas 1st Multicounty Court at Law,2026-11-03,0,,False,1,3,0,2026-11-18T16:42+00:00
+55936,TX,"Harris Judge, County Civil Court at Law No. 1",2026-11-03,0,,False,2,1157,0,2026-11-18T16:42+00:00
+55903,TX,Denton County Clerk,2026-11-03,0,,False,2,252,0,2026-11-18T16:42+00:00
+56058,TX,Texas State House 42,2026-11-03,99.9,2026-11-04T07:09:42.117Z,False,2,1,42987,2026-11-18T16:42+00:00
+162680,TX,"Texas District Judge, 62nd Judicial District",2026-11-03,0,,False,1,4,0,2026-11-18T16:42+00:00
+162742,TX,Texas State House 130,2026-11-03,99.9,2026-11-04T07:09:42.118Z,False,2,1,79852,2026-11-18T16:42+00:00
+162731,TX,Texas State House 110,2026-11-03,85,2026-11-04T07:09:42.117Z,False,1,1,32350,2026-11-18T16:42+00:00
+162513,TX,"Dallas District Judge, 195th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56049,TX,Texas State House 21,2026-11-03,99.9,2026-11-04T07:09:42.117Z,False,2,3,63428,2026-11-18T16:42+00:00
+162639,TX,"Victoria District Judge, 377th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162436,TX,Criminal District Attorney Navarro County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+188183,TX,Texas State Senate 22 - Unexpired Term,2026-11-03,99,2026-11-12T01:54:12.339Z,False,2,1,106733,2026-11-18T16:42+00:00
+162402,TX,"Texas Chief Justice, 14th Court of Appeals District",2026-11-03,0,,False,2,10,0,2026-11-18T16:42+00:00
+162561,TX,"Harris District Judge, 257th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55894,TX,Comal County Justice of the Peace Precinct 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56060,TX,Texas State House 45,2026-11-03,99.9,2026-11-04T07:09:42.117Z,False,2,1,91631,2026-11-18T16:42+00:00
+162458,TX,"Criminal District Judge, Dallas County Number 7",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162414,TX,Criminal District Attorney Caldwell County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55950,TX,"Harris Judge, County Criminal Court at Law No. 9",2026-11-03,0,,False,2,1157,0,2026-11-18T16:42+00:00
+55917,TX,"Harris Civil District Judge, 295th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56097,TX,"Tarrant District Judge, 297th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56071,TX,Texas State House 68,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,12,74606,2026-11-18T16:42+00:00
+56038,TX,Texas State House 141,2026-11-03,99.9,2026-11-04T07:09:42.118Z,False,2,1,36269,2026-11-18T16:42+00:00
+162425,TX,Criminal District Attorney Harrison County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162808,TX,Texas State Senate 3,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,18,304904,2026-11-18T16:42+00:00
+162775,TX,Texas State House 58,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,2,72491,2026-11-18T16:42+00:00
+162685,TX,"Ector District Judge, 70th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56019,TX,Texas State House 103,2026-11-03,78,2026-11-04T07:09:42.117Z,False,2,1,48722,2026-11-18T16:42+00:00
+162641,TX,"Grayson District Judge, 397th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162416,TX,Criminal District Attorney Cass County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162767,TX,Texas State House 44,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,2,75247,2026-11-18T16:42+00:00
+55941,TX,"Harris Judge, County Criminal Court at Law No. 12",2026-11-03,0,,False,2,1157,0,2026-11-18T16:42+00:00
+162755,TX,Texas State House 23,2026-11-03,99.9,2026-11-04T07:09:42.117Z,False,2,2,67917,2026-11-18T16:42+00:00
+56099,TX,"Tarrant District Judge, 432nd Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162504,TX,"Harris District Judge, 184th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56029,TX,Texas State House 121,2026-11-03,89,2026-11-12T01:54:12.340Z,False,2,1,86169,2026-11-18T16:42+00:00
+162427,TX,Criminal District Attorney Hidalgo County,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162586,TX,"Bexar District Judge, 288th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56111,TX,Uvalde County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56085,TX,Texas State Senate 9,2026-11-03,69,2026-11-12T01:54:12.339Z,False,2,1,342734,2026-11-18T16:42+00:00
+56052,TX,Texas State House 31,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,11,54391,2026-11-18T16:42+00:00
+162471,TX,"Texas District Judge, 110th Judicial District",2026-11-03,0,,False,1,4,0,2026-11-18T16:42+00:00
+162630,TX,"Lubbock District Judge, 364th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162597,TX,"Dallas District Judge, 301st Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56122,TX,Wilson County Commissioner Precinct 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162744,TX,Texas State House 134,2026-11-03,99.9,2026-11-04T07:09:42.118Z,False,2,1,89877,2026-11-18T16:42+00:00
+162718,TX,"Texas Member, State Board of Education, District 7",2026-11-03,0,,False,2,12,0,2026-11-18T16:42+00:00
+55955,TX,"Harris Juvenile District Judge, 313th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162769,TX,Texas State House 47,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,1,90834,2026-11-18T16:42+00:00
+56113,TX,Val Verde County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162710,TX,"Texas Justice, 7th Court of Appeals District, Place 2 - Unexpired Term",2026-11-03,0,,False,1,46,0,2026-11-18T16:42+00:00
+56076,TX,Texas State House 79,2026-11-03,96,2026-11-04T07:09:42.117Z,False,2,1,53298,2026-11-18T16:42+00:00
+162698,TX,"Texas Justice, 12th Court of Appeals District, Place 3 - Unexpired Term",2026-11-03,0,,False,1,17,0,2026-11-18T16:42+00:00
+162473,TX,"Texas District Judge, 112th Judicial District",2026-11-03,0,,False,1,5,0,2026-11-18T16:42+00:00
+55977,TX,Kleberg County Constable Precinct 1 Special,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55965,TX,Jefferson County Clerk,2026-11-03,0,,False,2,104,0,2026-11-18T16:42+00:00
+56124,TX,"Wood County Commissioner, Precinct No. 2",2026-11-03,0,,False,2,3,0,2026-11-18T16:42+00:00
+56091,TX,Criminal District Attorney Tarrant County,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55862,TX,Angelina County Justice of the Peace Precinct 1 Place 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56021,TX,Texas State House 11,2026-11-03,99.9,2026-11-04T07:09:42.117Z,False,2,6,62193,2026-11-18T16:42+00:00
+162419,TX,Criminal District Attorney Dallas County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162791,TX,Texas State House 88,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,19,46747,2026-11-18T16:42+00:00
+162758,TX,Texas State House 27,2026-11-03,98,2026-11-04T07:09:42.117Z,False,2,1,79546,2026-11-18T16:42+00:00
+162533,TX,"Texas District Judge, 222nd Judicial District",2026-11-03,0,,False,1,2,0,2026-11-18T16:42+00:00
+56065,TX,Texas State House 55,2026-11-03,99.9,,False,2,1,60569,2026-11-18T16:42+00:00
+162687,TX,"Liberty District Judge, 75th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162654,TX,"Coryell District Judge, 440th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162813,TX,"Kendall District Judge, 498th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162712,TX,"Texas Member, State Board of Education, District 13",2026-11-03,0,,False,2,2,0,2026-11-18T16:42+00:00
+162487,TX,"Bexar District Judge, 150th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162646,TX,"McLennan District Judge, 414th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162635,TX,"Texas District Judge, 369th Judicial District",2026-11-03,0,,False,1,3,0,2026-11-18T16:42+00:00
+162410,TX,Criminal District Attorney Austin County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162793,TX,Texas State House 9,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,6,67481,2026-11-18T16:42+00:00
+56105,TX,"Tarrant Justice of the Peace, Precinct No. 4",2026-11-03,0,,False,2,76,0,2026-11-18T16:42+00:00
+56093,TX,"Criminal District Judge, Court No. 4",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56067,TX,Texas State House 62,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,4,71660,2026-11-18T16:42+00:00
+162465,TX,"Texas District Judge, 102nd Judicial District",2026-11-03,0,,False,1,2,0,2026-11-18T16:42+00:00
+55990,TX,Nacogdoches County Justice of the Peace Precinct 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55957,TX,Harrison County Commissioner Precinct 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56116,TX,Wilbarger County Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162727,TX,Texas State House 105,2026-11-03,88,2026-11-04T07:09:42.117Z,False,1,1,30307,2026-11-18T16:42+00:00
+162509,TX,"Dallas District Judge, 191st Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162476,TX,"Nueces District Judge, 117th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162432,TX,Criminal District Attorney Kendall County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162815,TX,"Williamson District Judge, 512th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162782,TX,Texas State House 70,2026-11-03,99.9,2026-11-04T07:09:42.117Z,False,2,1,65068,2026-11-18T16:42+00:00
+55902,TX,Dallas County Treasurer,2026-11-03,0,,False,2,1582,0,2026-11-18T16:42+00:00
+55891,TX,"Cameron County Justice of the Peace Precinct 2, Place 3",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162615,TX,"Smith District Judge, 321st Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162774,TX,Texas State House 56,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,1,69024,2026-11-18T16:42+00:00
+162763,TX,Texas State House 37,2026-11-03,99.9,2026-11-04T07:09:42.117Z,False,2,2,48717,2026-11-18T16:42+00:00
+56107,TX,"Tarrant Justice, 15th Court of Appeals District, Place 2",2026-11-03,0,,False,2,254,0,2026-11-18T16:42+00:00
+162729,TX,Texas State House 107,2026-11-03,73,2026-11-04T07:09:42.117Z,False,1,1,31564,2026-11-18T16:42+00:00
+162479,TX,"Galveston District Judge, 122nd Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162692,TX,"Kaufman District Judge, 86th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162467,TX,"Texas District Judge, 105th Judicial District",2026-11-03,0,,False,1,3,0,2026-11-18T16:42+00:00
+162434,TX,Criminal District Attorney Madison County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162401,TX,"Texas Chief Justice, 12th Court of Appeals District",2026-11-03,0,,False,1,17,0,2026-11-18T16:42+00:00
+55926,TX,"Harris Criminal District Judge, 262nd Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55893,TX,Collin County Clerk,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56059,TX,Texas State House 43,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,6,53539,2026-11-18T16:42+00:00
+56015,TX,Texas State House 2,2026-11-03,97.3,2026-11-04T07:09:42.117Z,False,2,3,71878,2026-11-18T16:42+00:00
+55982,TX,Maverick County Justice of the Peace Precinct 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162796,TX,Texas State House 92,2026-11-03,96,2026-11-04T07:09:42.117Z,False,2,1,45676,2026-11-18T16:42+00:00
+55937,TX,"Harris Judge, County Civil Court at Law No. 4",2026-11-03,0,,False,2,1157,0,2026-11-18T16:42+00:00
+55904,TX,Denton County Judge,2026-11-03,0,,False,2,252,0,2026-11-18T16:42+00:00
+55878,TX,Brazoria County Commissioner Precinct 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56026,TX,Texas State House 117,2026-11-03,89,2026-11-04T07:09:42.118Z,False,2,1,64785,2026-11-18T16:42+00:00
+162648,TX,"Travis District Judge, 419th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162717,TX,"Texas Member, State Board of Education, District 6",2026-11-03,0,,False,2,2,0,2026-11-18T16:42+00:00
+162706,TX,"Texas Justice, 5th Court of Appeals District, Place 3",2026-11-03,0,,False,2,6,0,2026-11-18T16:42+00:00
+162481,TX,"Lubbock District Judge, 137th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56017,TX,Texas State House 6,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,1,69186,2026-11-18T16:42+00:00
+162607,TX,"Harris District Judge, 314th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55973,TX,Kinney County Commissioner Precinct 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162595,TX,"Travis District Judge, 299th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55939,TX,"Harris Judge, County Criminal Court at Law No. 10",2026-11-03,0,,False,2,1157,0,2026-11-18T16:42+00:00
+56098,TX,"Tarrant District Judge, 371st Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55869,TX,Bastrop Justice of the Peace Pct 4,2026-11-03,0,,False,2,6,0,2026-11-18T16:42+00:00
+56028,TX,Texas State House 12,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,6,72729,2026-11-18T16:42+00:00
+162426,TX,Criminal District Attorney Hays County,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55951,TX,"Harris Judge, County Probate Court No. 1",2026-11-03,0,,False,2,1157,0,2026-11-18T16:42+00:00
+55918,TX,"Harris Civil District Judge, 55th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162732,TX,Texas State House 111,2026-11-03,80,2026-11-04T07:09:42.117Z,False,1,1,52018,2026-11-18T16:42+00:00
+56072,TX,Texas State House 69,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,14,53994,2026-11-18T16:42+00:00
+56039,TX,Texas State House 143,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,1,34916,2026-11-18T16:42+00:00
+162437,TX,Criminal District Attorney Newton County,2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55962,TX,Jasper County Justice of the Peace Precinct 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162776,TX,Texas State House 59,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,4,65618,2026-11-18T16:42+00:00
+162551,TX,"Harris District Judge, 246th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55987,TX,Midland County Chair,2026-11-03,0,,False,2,47,0,2026-11-18T16:42+00:00
+162609,TX,"Hutchinson District Judge, 316th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55953,TX,"Harris Judge, County Probate Court No. 3",2026-11-03,0,,False,2,1157,0,2026-11-18T16:42+00:00
+162543,TX,"Lubbock District Judge, 237th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55909,TX,Freestone County Justice of the Peace Precinct 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162531,TX,"Texas District Judge, 220th Judicial District",2026-11-03,0,,False,1,3,0,2026-11-18T16:42+00:00
+56074,TX,Texas State House 73,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,2,112730,2026-11-18T16:42+00:00
+162472,TX,"Webb District Judge, 111th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55997,TX,Potter County Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55964,TX,"Criminal District Judge, Jefferson County",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56123,TX,Wood County Chair,2026-11-03,0,,False,2,14,0,2026-11-18T16:42+00:00
+55887,TX,Caldwell County Commissioner Precinct 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55861,TX,Angelina County Commissioner Precinct 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+56020,TX,Texas State House 109,2026-11-03,70,2026-11-04T07:09:42.117Z,False,2,1,64547,2026-11-18T16:42+00:00
+162631,TX,"Texas District Judge, 365th Judicial District",2026-11-03,0,,False,1,3,0,2026-11-18T16:42+00:00
+162598,TX,"Dallas District Judge, 302nd Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162565,TX,"Travis District Judge, 261st Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55898,TX,Culberson County Justice of the Peace Precinct 3,2026-11-03,0,,False,2,2,0,2026-11-18T16:42+00:00
+162719,TX,"Texas Member, State Board of Education, District 8",2026-11-03,0,,False,2,11,0,2026-11-18T16:42+00:00
+162494,TX,"Dallas District Judge, 160th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162653,TX,"Bexar District Judge, 437th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162545,TX,"Brazoria District Judge, 239th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55889,TX,Cameron County Justice of the Peace Precinct 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162486,TX,"Brazoria District Judge, 149th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56044,TX,Texas State House 15,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,3,1,79979,2026-11-18T16:42+00:00
+162666,TX,"Texas District Judge, 46th Judicial District",2026-11-03,0,,False,1,3,0,2026-11-18T16:42+00:00
+162633,TX,"Denton District Judge, 367th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+55945,TX,"Harris Judge, County Criminal Court at Law No. 3",2026-11-03,0,,False,2,1157,0,2026-11-18T16:42+00:00
+55933,TX,"Harris Family District Judge, 309th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55900,TX,Dallas County District Clerk,2026-11-03,0,,False,2,1582,0,2026-11-18T16:42+00:00
+56066,TX,Texas State House 57,2026-11-03,91,2026-11-12T01:54:12.340Z,False,3,1,79733,2026-11-18T16:42+00:00
+162677,TX,"Texas District Judge, 49th Judicial District",2026-11-03,0,,False,1,2,0,2026-11-18T16:42+00:00
+55989,TX,Nacogdoches County Commissioner Precinct 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+55956,TX,Harrison County Clerk,2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+162759,TX,Texas State House 28,2026-11-03,98,2026-11-12T01:54:12.339Z,False,2,1,89487,2026-11-18T16:42+00:00
+162534,TX,"Gray District Judge, 223rd Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+56077,TX,Texas State House 81,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,4,33014,2026-11-18T16:42+00:00
+56033,TX,Texas State House 132,2026-11-03,99.9,2026-11-12T01:54:12.340Z,False,2,1,84741,2026-11-18T16:42+00:00
+162655,TX,"Midland District Judge, 441st Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162622,TX,"Dallas District Judge, 330th Judicial District",2026-11-03,0,,False,1,1,0,2026-11-18T16:42+00:00
+162781,TX,Texas State House 7,2026-11-03,99.9,2026-11-12T01:54:12.339Z,False,2,3,64994,2026-11-18T16:42+00:00
+55923,TX,"Harris Criminal District Judge, 228th Judicial District",2026-11-03,0,,False,2,1,0,2026-11-18T16:42+00:00
+87422,TX,Texas US House 15,2026-11-03,99,2026-11-04T05:46:58.308Z,False,2,11,202770,2026-11-18T16:42+00:00
+87425,TX,Texas US House 18,2026-11-03,99,2026-11-04T02:00:13.670Z,False,2,2,225206,2026-11-18T16:42+00:00
+87435,TX,Texas US House 35,2026-11-03,97.5,2026-11-04T06:30:56.318Z,False,2,4,254085,2026-11-18T16:42+00:00
+56006,TX,Texas US House 10,2026-11-03,95.6,2026-11-04T06:09:43.616Z,False,2,13,300257,2026-11-18T16:42+00:00
+87423,TX,Texas US House 16,2026-11-03,95.6,2026-11-04T02:21:59.542Z,False,2,1,197117,2026-11-18T16:42+00:00
+87426,TX,Texas US House 19,2026-11-03,90.2,2026-11-04T02:00:13.670Z,False,2,33,221753,2026-11-18T16:42+00:00
+87411,TX,Texas US House 1,2026-11-03,93.8,2026-11-04T03:11:28.760Z,False,2,13,263585,2026-11-18T16:42+00:00
+56007,TX,Texas US House 21,2026-11-03,99,2026-11-04T05:46:58.308Z,False,2,9,357919,2026-11-18T16:42+00:00
+87424,TX,Texas US House 17,2026-11-03,97.2,2026-11-04T07:03:08.605Z,False,2,11,268027,2026-11-18T16:42+00:00
+87427,TX,Texas US House 20,2026-11-03,97,2026-11-04T02:00:13.670Z,False,2,1,194620,2026-11-18T16:42+00:00
+87412,TX,Texas US House 2,2026-11-03,99,2026-11-04T22:15:35.169Z,False,2,2,284265,2026-11-18T16:42+00:00
+56008,TX,Texas US House 22,2026-11-03,99,2026-11-04T22:15:35.169Z,False,2,3,290635,2026-11-18T16:42+00:00
+56011,TX,Texas US House 28,2026-11-03,98.4,2026-11-04T05:46:58.308Z,False,3,12,172498,2026-11-18T16:42+00:00
+87428,TX,Texas US House 23,2026-11-03,95.3,2026-11-04T06:09:43.616Z,False,3,27,274354,2026-11-18T16:42+00:00
+87413,TX,Texas US House 3,2026-11-03,99,2026-11-04T07:27:44.490Z,False,2,7,320965,2026-11-18T16:42+00:00
+56009,TX,Texas US House 26,2026-11-03,99,2026-11-04T06:09:43.616Z,False,3,3,336134,2026-11-18T16:42+00:00
+56012,TX,Texas US House 31,2026-11-03,98.8,2026-11-04T05:46:58.308Z,False,3,7,305360,2026-11-18T16:42+00:00
+87436,TX,Texas US House 37,2026-11-03,96.6,2026-11-04T02:00:13.670Z,False,2,1,304426,2026-11-18T16:42+00:00
+87414,TX,Texas US House 5,2026-11-03,98.1,2026-11-04T22:15:35.170Z,False,2,5,253436,2026-11-18T16:42+00:00
+56010,TX,Texas US House 27,2026-11-03,99,2026-11-04T22:21:15.785Z,False,4,17,282810,2026-11-18T16:42+00:00
+56013,TX,Texas US House 34,2026-11-03,94.4,2026-11-04T04:02:17.867Z,False,4,5,202645,2026-11-18T16:42+00:00
+87437,TX,Texas US House 38,2026-11-03,98,2026-11-04T22:15:35.170Z,False,3,1,305878,2026-11-18T16:42+00:00
+87415,TX,Texas US House 6,2026-11-03,99,2026-11-04T07:27:44.490Z,False,2,5,268677,2026-11-18T16:42+00:00
+87418,TX,Texas US House 11,2026-11-03,91.2,2026-11-04T02:00:13.670Z,False,2,20,232980,2026-11-18T16:42+00:00
+56014,TX,Texas US House 36,2026-11-03,96,2026-11-04T06:42:37.178Z,False,2,9,257969,2026-11-18T16:42+00:00
+87438,TX,Texas US Senate,2026-11-03,99,2026-11-04T03:42:08.969Z,False,9,254,9915046,2026-11-18T16:42+00:00
+87416,TX,Texas US House 7,2026-11-03,99,2026-11-04T02:00:13.670Z,False,3,2,227388,2026-11-18T16:42+00:00
+87419,TX,Texas US House 12,2026-11-03,99,2026-11-04T08:36:54.554Z,False,2,2,272542,2026-11-18T16:42+00:00
+87429,TX,Texas US House 24,2026-11-03,98.9,2026-11-04T06:42:37.178Z,False,2,2,322136,2026-11-18T16:42+00:00
+87432,TX,Texas US House 30,2026-11-03,97.7,2026-11-04T02:00:13.670Z,False,2,2,226425,2026-11-18T16:42+00:00
+87417,TX,Texas US House 9,2026-11-03,98.2,2026-11-04T18:06:00.131Z,False,2,2,170714,2026-11-18T16:42+00:00
+87420,TX,Texas US House 13,2026-11-03,91.7,2026-11-04T02:00:13.670Z,False,2,38,242591,2026-11-18T16:42+00:00
+87430,TX,Texas US House 25,2026-11-03,97.8,2026-11-04T07:09:42.036Z,False,2,13,265906,2026-11-18T16:42+00:00
+87433,TX,Texas US House 32,2026-11-03,97.8,2026-11-04T22:15:35.169Z,False,2,8,277922,2026-11-18T16:42+00:00
+56004,TX,Texas US House 4,2026-11-03,99,2026-11-04T05:46:58.308Z,False,2,7,306465,2026-11-18T16:42+00:00
+87421,TX,Texas US House 14,2026-11-03,98.8,2026-11-04T05:46:58.308Z,False,2,6,282945,2026-11-18T16:42+00:00
+87431,TX,Texas US House 29,2026-11-03,98,2026-11-04T02:00:13.670Z,False,2,1,167975,2026-11-18T16:42+00:00
+87434,TX,Texas US House 33,2026-11-03,96.8,2026-11-04T02:00:13.670Z,False,4,1,192691,2026-11-18T16:42+00:00
+56005,TX,Texas US House 8,2026-11-03,99,2026-11-04T06:09:43.616Z,False,2,4,266714,2026-11-18T16:42+00:00

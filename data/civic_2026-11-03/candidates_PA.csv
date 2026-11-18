@@ -1,0 +1,445 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+159563,PA,Democratic,Democratic,2705916,56.53,False,False
+159563,PA,Republican,Republican,2035683,42.528,False,False
+159563,PA,Democratic / Republican,Democratic / Republican,20214,0.422,False,False
+159563,PA,Independent Party,Independent Party,13396,0.28,False,False
+159563,PA,Independent,Independent,7784,0.163,False,False
+159563,PA,Progress for Pennsylvania,Progress for Pennsylvania,3010,0.063,False,False
+159563,PA,Forward Independent,Forward Independent,713,0.015,False,False
+159564,PA,Democratic,Democratic,1420502,55.531,False,False
+159564,PA,Republican,Republican,1095762,42.836,False,False
+159564,PA,Independent Party,Independent Party,39621,1.549,False,False
+159564,PA,Green,Green,2157,0.084,False,False
+87393,PA,Josh Shapiro,Democratic,3039711,60.563,True,False
+87393,PA,Stacy Garrity,Republican,1914345,38.142,False,False
+87393,PA,Ken Krawchuk,Libertarian,64992,1.295,False,False
+159334,PA,Tina Pickett,Republican,16602,70.915,True,False
+159334,PA,Pamela J Hemann,Democratic,6809,29.085,False,False
+159235,PA,Marci Mustello,Republican,19427,100.0,True,False
+159335,PA,Jonathan Fritz,Republican,18362,70.234,True,False
+159335,PA,Kyle Devlin,Democratic,7782,29.766,False,False
+159204,PA,Steve Santarsiero,Democratic,82809,64.281,True,False
+159204,PA,Greg Bankos,Republican,46014,35.719,False,False
+159336,PA,Kyle J Mullins,Democratic,18256,67.682,True,False
+159336,PA,Joseph J Sabia Jr,Republican,8717,32.318,False,False
+159333,PA,Robert Leadbeter,Republican,13776,61.363,True,False
+159333,PA,Justin C Hummel,Democratic,8674,38.637,False,False
+159234,PA,Amen Brown,Democratic,17442,100.0,True,False
+159242,PA,Bryan Allen,Democratic,13234,54.99,True,False
+159242,PA,Kathleen KC Tomlinson,Republican,10832,45.01,False,False
+159342,PA,Jim Haddock,Democratic,16887,61.744,True,False
+159342,PA,John Lombardo,Republican,10463,38.256,False,False
+159211,PA,Chris Thomas,Democratic,63518,54.426,True,False
+159211,PA,Tracy E Pennycuick,Republican,51031,43.726,False,False
+159211,PA,Mike Schonewolf,Green,2157,1.848,False,False
+159343,PA,Alec J Ryncavage,Republican,12627,58.771,True,False
+159343,PA,Lauren McCurdy,Democratic,8858,41.229,False,False
+159212,PA,Tim Kearney,Democratic,70646,68.542,True,False
+159212,PA,Gail Scott,Republican,32424,31.458,False,False
+159241,PA,Tim Bonner,Republican,18266,100.0,True,False
+159341,PA,Jamie Walsh,Republican,16617,66.858,True,False
+159341,PA,Jeremy Benscoter,Democratic,8237,33.142,False,False
+159249,PA,Brandon J Markosek,Democratic,16940,67.493,True,False
+159249,PA,Amy Noone,Republican,8159,32.507,False,False
+159349,PA,Joe Kerwin,Republican,19098,62.093,True,False
+159349,PA,Kathryn Waters,Democratic,11659,37.907,False,False
+159218,PA,Lindsey Williams,Democratic,74356,63.766,True,False
+159218,PA,Thomas West,Republican,42251,36.234,False,False
+159350,PA,Jacklyn Rusnock,Democratic,11796,67.661,True,False
+159350,PA,Miguel Vasquez,Republican,5638,32.339,False,False
+159219,PA,Brian Wrightson,Democratic,50549,51.534,True,False
+159219,PA,Rosemary Brown,Republican,47540,48.466,False,False
+159248,PA,La'Tasha D Mayes,Democratic,21764,100.0,True,False
+159348,PA,Jamie Barton,Republican,15304,64.585,True,False
+159348,PA,Tina Burns,Democratic,8392,35.415,False,False
+159256,PA,Joe McAndrew,Democratic,20166,75.554,True,False
+159256,PA,Gary Motor,Republican,6525,24.446,False,False
+159356,PA,Mike Schlossberg,Democratic,18148,66.982,True,False
+159356,PA,Caren Lowrey,Republican,8946,33.018,False,False
+159225,PA,Patrick J Harkins,Democratic,13875,100.0,True,False
+159357,PA,Jeanne McNeill,Democratic,18021,100.0,True,False
+159226,PA,Bob Merski,Democratic / Republican,20214,100.0,True,False
+159255,PA,Perry Warren,Democratic,28113,100.0,True,False
+159355,PA,Meriam Sabih,Democratic,16521,51.241,True,False
+159355,PA,Milou Mackenzie,Republican,15721,48.759,False,False
+159263,PA,Andrew Kuzma,Republican,14554,53.345,True,False
+159263,PA,Dylan Altemara,Democratic,12729,46.655,False,False
+159363,PA,Jeff Olsommer,Republican,18033,63.665,True,False
+159363,PA,Dominique Azzollini,Democratic,10292,36.335,False,False
+159232,PA,Aaron Bernstine,Republican,18460,62.93,True,False
+159232,PA,Rick Telesz,Democratic,10874,37.07,False,False
+159332,PA,Michael Stender,Republican,14081,62.853,True,False
+159332,PA,Amber L Neidig,Democratic,8322,37.147,False,False
+159233,PA,Marla Gallo Brown,Republican,13750,61.563,True,False
+159233,PA,Shay Micco,Democratic,8585,38.437,False,False
+159262,PA,John Inglis,Democratic,16494,65.726,True,False
+159262,PA,Stone Sobieralski,Republican,8601,34.274,False,False
+159362,PA,Ann Flood,Republican,16318,56.485,True,False
+159362,PA,Jared Bitting,Democratic,12571,43.515,False,False
+159238,PA,Roman Kozak,Republican,14925,57.885,True,False
+159238,PA,Jake Young,Democratic,10859,42.115,False,False
+159395,PA,Kerry A Benninghoff,Republican,15841,66.654,True,False
+159395,PA,John Zangari,Democratic,7925,33.346,False,False
+159239,PA,Joshua D Kail,Republican,15976,62.096,True,False
+159239,PA,Sydney Speicher,Democratic,9752,37.904,False,False
+159339,PA,Maureen Madden,Democratic,13670,63.03,True,False
+159339,PA,Rich Szabo,Republican,8018,36.97,False,False
+159240,PA,Robert F Matzie,Democratic,14606,60.772,True,False
+159240,PA,John Costanza,Republican,9428,39.228,False,False
+159237,PA,Madelyn Alvarino,Democratic,13907,51.329,True,False
+159237,PA,John Lawrence,Republican,13187,48.671,False,False
+159340,PA,Dane Watro,Republican,10431,100.0,True,False
+159394,PA,Martina White,Republican,10263,57.242,True,False
+159394,PA,Rob Gurtcheff,Democratic,7666,42.758,False,False
+159370,PA,Joe Ciresi,Democratic,18026,70.151,True,False
+159370,PA,Jeffrey T Fartro,Republican,7670,29.849,False,False
+159246,PA,Ce-Ce Gerlach,Democratic,8106,71.093,True,False
+159246,PA,Robert E Smith Jr,Republican,3296,28.907,False,False
+159346,PA,Doyle Heffley,Republican,14682,59.666,True,False
+159346,PA,Christian Bartulovich,Democratic,9925,40.334,False,False
+159247,PA,Dan Frankel,Democratic,23336,100.0,True,False
+159347,PA,Tim Twardzik,Republican,13601,61.828,True,False
+159347,PA,John Deatrich,Democratic,8397,38.172,False,False
+159369,PA,Craig Staats,Republican,15709,53.974,True,False
+159369,PA,Rebecca Prendergast,Independent Party,13396,46.026,False,False
+159245,PA,Lindsay Powell,Democratic,23188,100.0,True,False
+159377,PA,Ben Sanchez,Democratic,23638,74.856,True,False
+159377,PA,Cory L Toner,Republican,7940,25.144,False,False
+159253,PA,Tim Brennan,Democratic,23537,63.423,True,False
+159253,PA,Sean Duffy,Republican,13574,36.577,False,False
+159353,PA,Johanny Cepeda-Freytiz,Democratic,13963,100.0,True,False
+159254,PA,Arvind Venkat,Democratic,19637,63.409,True,False
+159254,PA,Libby Blackburn,Republican,11332,36.591,False,False
+159354,PA,Melissa Brewer,Republican,15472,57.766,True,False
+159354,PA,Erik Bonnett,Democratic,11312,42.234,False,False
+159376,PA,Nancy Guenst,Democratic,18325,68.43,True,False
+159376,PA,Eric Maier,Republican,8454,31.57,False,False
+159252,PA,Jeremy Shaffer,Republican,16367,52.556,True,False
+159252,PA,Jeremy Ferderber,Democratic,14775,47.444,False,False
+159384,PA,Elizabeth Moro,Democratic,18009,55.149,True,False
+159384,PA,Craig Williams,Republican,14646,44.851,False,False
+159260,PA,Jessica Benham,Democratic,17106,77.783,True,False
+159260,PA,Timothy McCune,Republican,4886,22.217,False,False
+159360,PA,Robert Freeman,Democratic,15505,70.867,True,False
+159360,PA,Pilar Cavallo-Campisi,Republican,6374,29.133,False,False
+159261,PA,Mindy Fee,Republican,19357,62.072,True,False
+159261,PA,Chad Gleissl,Democratic,11828,37.928,False,False
+159361,PA,Jeff Warren,Democratic,16842,54.748,True,False
+159361,PA,Joe Emrick,Republican,13921,45.252,False,False
+159383,PA,Carol Kazeem,Democratic,13152,76.045,True,False
+159383,PA,Mike Bannon Jr,Republican,4143,23.955,False,False
+159259,PA,Dan Goughnour,Democratic,14473,70.614,True,False
+159259,PA,Jim Edwards,Republican,6023,29.386,False,False
+159391,PA,Kristine Howard,Democratic,20563,67.522,True,False
+159391,PA,Joe Lewis,Republican,9891,32.478,False,False
+159267,PA,Keith J Greiner,Republican,13877,64.628,True,False
+159267,PA,Bryan Peirson,Democratic,7595,35.372,False,False
+159392,PA,Lisa A Borowski,Democratic,19188,66.434,True,False
+159392,PA,Kathryn Buckley,Republican,9695,33.566,False,False
+159236,PA,Scott Timko,Republican,16634,50.834,True,False
+159236,PA,Brandon Dukes,Democratic,16088,49.166,False,False
+159393,PA,Kate A Klunk,Republican,16468,63.273,True,False
+159393,PA,Austin Graham,Democratic,9559,36.727,False,False
+159390,PA,Judy Trombetta,Democratic,21843,67.642,True,False
+159390,PA,Joe Walker,Republican,10449,32.358,False,False
+159266,PA,Jen Mazzocco,Democratic,24876,100.0,True,False
+159274,PA,Ben Humble,Republican,12735,62.113,True,False
+159274,PA,Lois Bower-Bjornson,Democratic,7768,37.887,False,False
+159367,PA,Tim Hayes,Democratic,16723,49.371,False,False
+159367,PA,Shelby Labs,Republican,16436,48.524,False,False
+159367,PA,Chris Gambino,Forward Independent,713,2.105,False,False
+159243,PA,Aerion Andrew Abney,Democratic,16523,100.0,True,False
+159368,PA,Brian Munroe,Democratic,18327,59.366,True,False
+159368,PA,Mike Murphy,Republican,12544,40.634,False,False
+159365,PA,Tina Davis,Democratic,16572,70.793,True,False
+159365,PA,Ken Velez,Republican,6837,29.207,False,False
+159244,PA,Emily Kinkead,Democratic,18619,68.875,True,False
+159244,PA,Joseph Aguglia,Republican,8414,31.125,False,False
+159273,PA,Izzy Smith-Wade-El,Democratic,12308,74.265,True,False
+159273,PA,Vanessa Acosta,Republican,4265,25.735,False,False
+159366,PA,Kristin Egan,Democratic,15822,53.057,True,False
+159366,PA,Joe Hogan,Republican,13999,46.943,False,False
+159281,PA,Eric Nelson,Republican,15382,58.037,True,False
+159281,PA,Rob Francis,Democratic,11122,41.963,False,False
+159374,PA,Joe Webster,Democratic,19476,67.149,True,False
+159374,PA,Frank J Pastella,Republican,9528,32.851,False,False
+159250,PA,Paul Friel,Democratic,19584,65.221,True,False
+159250,PA,Samantha Horosky,Republican,10443,34.779,False,False
+159375,PA,Melissa Cerrato,Democratic,22593,69.648,True,False
+159375,PA,Allen Arthur Anderson,Republican,9846,30.352,False,False
+159251,PA,Dan Deasy,Democratic,20091,100.0,True,False
+159280,PA,Brian Rasel,Republican,19256,100.0,True,False
+159373,PA,Tim Briggs,Democratic,24008,100.0,True,False
+159288,PA,R Lee James,Republican,14762,68.875,True,False
+159288,PA,Amanda Shaffer,Democratic,6671,31.125,False,False
+159381,PA,Melissa Shusterman,Democratic,21840,68.43,True,False
+159381,PA,Justin J Pak,Republican,10076,31.57,False,False
+159257,PA,Mandy Steele,Democratic,16963,64.545,True,False
+159257,PA,Mike Hammill,Republican,9318,35.455,False,False
+159382,PA,Christina D Sappey,Democratic,21088,100.0,True,False
+159258,PA,Abigail Salisbury,Democratic,24292,100.0,True,False
+159287,PA,Josh Bashline,Republican,16962,74.917,True,False
+159287,PA,Andrew Harbaugh,Democratic,5679,25.083,False,False
+159380,PA,Chris Pielli,Democratic,19812,67.791,True,False
+159380,PA,Kris R Vollrath,Republican,9413,32.209,False,False
+159295,PA,Jim Rigby,Republican,19129,100.0,True,False
+159388,PA,Gina H Curry,Democratic,16225,100.0,True,False
+159264,PA,Natalie Mihalek,Republican,16813,51.413,True,False
+159264,PA,Jon Lloyd,Democratic,15889,48.587,False,False
+159389,PA,Jennifer O'Mara,Democratic,21416,68.063,True,False
+159389,PA,Deirdre McCleary,Republican,10049,31.937,False,False
+159265,PA,Brad Chambers,Democratic,14291,50.049,False,False
+159265,PA,Brett R Miller,Republican,14263,49.951,False,False
+159294,PA,Matt Bradford,Democratic,23870,100.0,True,False
+159387,PA,Heather Boyd,Democratic,18463,100.0,True,False
+159270,PA,Jason Ortitay,Republican,14930,52.489,True,False
+159270,PA,Mike Crossey,Democratic,13514,47.511,False,False
+159203,PA,Anthony Hardy Williams,Democratic,75064,100.0,True,False
+159271,PA,Joe D'Orsie,Republican,14862,55.002,True,False
+159271,PA,Edward Ritter,Democratic,12159,44.998,False,False
+159364,PA,Jim Prokopiak,Democratic,15465,63.371,True,False
+159364,PA,Michael J Gettis,Republican,8939,36.629,False,False
+159272,PA,Tim Oneal,Republican,14169,56.665,True,False
+159272,PA,Rebecca Mactaggart,Democratic,10836,43.335,False,False
+159269,PA,Brittany Bloam,Democratic,15510,59.843,True,False
+159269,PA,James Julius,Republican,10408,40.157,False,False
+159202,PA,Eileen Hartnett Albillar,Democratic,62183,51.173,True,False
+159202,PA,Frank Farry,Republican,59333,48.827,False,False
+159402,PA,Kristin Marcell,Republican,18108,53.511,True,False
+159402,PA,Monica Weninger,Democratic,15732,46.489,False,False
+159278,PA,Greg Scott,Democratic,16239,100.0,True,False
+159371,PA,Margaret Burke,Democratic,16017,50.419,False,False
+159371,PA,Donna M Scheuren,Republican,15751,49.581,False,False
+159279,PA,Jill Cooper,Republican,16571,60.604,True,False
+159279,PA,Davon Magwood,Democratic,10772,39.396,False,False
+159372,PA,Megan Griffin-Shelley,Democratic,27551,100.0,True,False
+159401,PA,Joe Hohenstein,Democratic,12652,73.967,True,False
+159401,PA,Robyn Bird,Republican,4453,26.033,False,False
+159277,PA,Steve Malagari,Democratic,18827,67.977,True,False
+159277,PA,Yanni Lambros,Republican,8869,32.023,False,False
+159409,PA,Regina Young,Democratic,15065,100.0,True,False
+159285,PA,Liz Hanbidge,Democratic,22625,68.702,True,False
+159285,PA,Angela Illingworth,Republican,10307,31.298,False,False
+159378,PA,Napoleon Nelson,Democratic,27565,90.155,True,False
+159378,PA,Stephanie Berardi,Progress for Pennsylvania,3010,9.845,False,False
+159286,PA,Jim Struzzi,Republican,14051,62.882,True,False
+159286,PA,Trajan Jones,Democratic,8294,37.118,False,False
+159379,PA,Danielle Friel Otten,Democratic,22839,100.0,True,False
+159408,PA,Elizabeth Fiedler,Democratic,17304,100.0,True,False
+159284,PA,Abby Major,Republican,15762,65.541,True,False
+159284,PA,Dustyn A Dorn,Democratic,8287,34.459,False,False
+159416,PA,Morgan Cephas,Democratic,20261,95.987,True,False
+159416,PA,Tiffany Vann Brown,Republican,847,4.013,False,False
+159292,PA,Clint Owlett,Republican,17707,78.197,True,False
+159292,PA,Quentin Gee,Democratic,4937,21.803,False,False
+159385,PA,Leanne Krueger,Democratic,18848,67.199,True,False
+159385,PA,John Mancinelli Jr,Republican,9200,32.801,False,False
+159293,PA,Carl Walker Metzgar,Republican,20557,100.0,True,False
+159386,PA,Dave Delloso,Democratic,16096,66.83,True,False
+159386,PA,Mike Murphy,Republican,7989,33.17,False,False
+159415,PA,Joanna E McClinton,Democratic,17994,100.0,True,False
+159291,PA,Martin T Causer,Republican,15507,76.498,True,False
+159291,PA,Zachary Ware,Democratic,4764,23.502,False,False
+159423,PA,Barb Gleim,Republican,13972,52.653,True,False
+159423,PA,Tawanda Hunter Stallworth,Democratic,12564,47.347,False,False
+159299,PA,Mike Armanini,Republican,16248,70.828,True,False
+159299,PA,Kim Kohlhepp,Democratic,6692,29.172,False,False
+159200,PA,Christine M Tartaglione,Democratic,39355,100.0,True,False
+159268,PA,Hadley Haas,Democratic,15454,53.337,True,False
+159268,PA,Valerie Gaydos,Republican,13520,46.663,False,False
+159201,PA,Art Haywood,Democratic,104695,88.264,True,False
+159201,PA,Todd Johnson,Republican,13921,11.736,False,False
+159422,PA,Darisha K Parker,Democratic,17828,100.0,True,False
+159298,PA,Dan Williams,Democratic,14837,64.372,True,False
+159298,PA,Lorenzo Kelley,Republican,8212,35.628,False,False
+159306,PA,Paul Takac,Democratic,13224,62.058,True,False
+159306,PA,Kirsten McTernan,Republican,8085,37.942,False,False
+159399,PA,Marylouise Isaacson,Democratic,26756,100.0,True,False
+159275,PA,Charity Grimm Krupa,Republican,13434,100.0,True,False
+159400,PA,Jack Rader,Republican,13656,55.919,True,False
+159400,PA,Thomas Kucer,Democratic,10765,44.081,False,False
+159397,PA,Pat Gallagher,Democratic,9440,66.559,True,False
+159397,PA,Bill Griffin,Republican,4743,33.441,False,False
+159276,PA,Ryan Warner,Republican,14885,100.0,True,False
+159305,PA,Rich Irvin,Republican,17537,74.839,True,False
+159305,PA,Caleb J Donahue,Democratic,5896,25.161,False,False
+159398,PA,Ed Neilson,Democratic,11624,100.0,True,False
+159313,PA,Rob Kauffman,Republican,15619,63.751,True,False
+159313,PA,Shannon Michael Jackson,Democratic,8881,36.249,False,False
+159406,PA,Ben Waxman,Democratic,28097,100.0,True,False
+159282,PA,Eric Davanzo,Republican,15051,60.577,True,False
+159282,PA,Cherri Rogers,Democratic,9795,39.423,False,False
+159407,PA,Zach Mako,Republican,16061,55.87,True,False
+159407,PA,Deirdre Kamber Todd,Democratic,12686,44.13,False,False
+159283,PA,Leslie Rossi,Republican,16515,61.495,True,False
+159283,PA,Jordan Omlor,Democratic,10341,38.505,False,False
+159312,PA,Sara Agerton,Democratic,17431,56.906,True,False
+159312,PA,Jeff Clark,Republican,13200,43.094,False,False
+159405,PA,Malcolm Kenyatta,Democratic,18451,100.0,True,False
+159320,PA,Nikki Rivera,Democratic,19411,68.109,True,False
+159320,PA,Babita Rusyn,Republican,9089,31.891,False,False
+159413,PA,Tarah Probst,Democratic,13940,64.69,True,False
+159413,PA,Danica Hartenfels,Republican,7609,35.31,False,False
+159289,PA,Kathy L Rapp,Republican,14574,67.208,True,False
+159289,PA,Destiny Howard,Democratic,7111,32.792,False,False
+159414,PA,Roni Green,Democratic,17794,100.0,True,False
+159290,PA,Brian Smith,Republican,15648,75.671,True,False
+159290,PA,Lisa Gourley,Democratic,5031,24.329,False,False
+159319,PA,Carol Hill-Evans,Democratic,11296,69.871,True,False
+159319,PA,Jasmine Rivera,Republican,4871,30.129,False,False
+159412,PA,Rick Krajewski,Democratic,20947,100.0,True,False
+159327,PA,Nate Davidson,Democratic,17160,68.533,True,False
+159327,PA,Cindi Ward,Republican,7879,31.467,False,False
+159420,PA,George Margetas,Republican,16014,59.474,True,False
+159420,PA,Ron Ruman,Democratic,10912,40.526,False,False
+159296,PA,Frank Burns,Democratic,13346,58.808,True,False
+159296,PA,Phil Rice,Republican,9348,41.192,False,False
+159421,PA,Danilo Burgos,Democratic,12041,100.0,True,False
+159297,PA,Dallas Kephart,Republican,18714,100.0,True,False
+159326,PA,Russ Diamond,Republican,15819,65.032,True,False
+159326,PA,Matthew Duvall,Democratic,8506,34.968,False,False
+159419,PA,Sierra McNeil,Democratic,21114,100.0,True,False
+159302,PA,Jesse Topper,Republican,21433,100.0,True,False
+159427,PA,Anthony Bellmon,Democratic,13662,100.0,True,False
+159303,PA,Andrea C Verobish,Republican,12068,58.688,True,False
+159303,PA,Caleb McCoy,Democratic,8495,41.312,False,False
+159396,PA,Sean M Dougherty,Democratic,12349,100.0,True,False
+159304,PA,Scott Barger,Republican,17861,73.066,True,False
+159304,PA,Sarah Holland,Democratic,6584,26.934,False,False
+159301,PA,H Scott Conklin,Democratic,14854,67.647,True,False
+159301,PA,Michelle Schellberg,Republican,7104,32.353,False,False
+159426,PA,Jared Solomon,Democratic,7819,100.0,True,False
+159210,PA,Marty Flynn,Democratic,58460,65.634,True,False
+159210,PA,Sharon Soltis Sparano,Republican,30610,34.366,False,False
+159310,PA,Perry Stambaugh,Republican,17798,73.664,True,False
+159310,PA,Wendy Morgan,Democratic,6363,26.336,False,False
+159403,PA,Jason T Dawkins,Democratic,10176,100.0,True,False
+159311,PA,Thomas Kutz,Republican,17982,54.316,True,False
+159311,PA,Jessica ST Clair,Democratic,15124,45.684,False,False
+159404,PA,Jose A Giral,Democratic,7920,100.0,True,False
+159209,PA,Lisa Baker,Republican,65910,61.353,True,False
+159209,PA,Jackie Baker,Democratic,41518,38.647,False,False
+159309,PA,David H Rowe,Republican,18355,100.0,True,False
+159217,PA,Tom Jones,Republican,65326,54.481,True,False
+159217,PA,James Andrew Malone,Democratic,54579,45.519,False,False
+159317,PA,Mike Jones,Republican,16547,57.928,True,False
+159317,PA,Missy Barnes,Democratic,12018,42.072,False,False
+159410,PA,Jordan A Harris,Democratic,22320,100.0,True,False
+159318,PA,Wendy Fink,Republican,15469,62.671,True,False
+159318,PA,Konnor John-Richard Grimek,Democratic,9214,37.329,False,False
+159411,PA,Rachel Cuevas,Democratic,15720,51.235,True,False
+159411,PA,Gary Day,Republican,14962,48.765,False,False
+159216,PA,Greg Rothman,Republican,65030,56.854,True,False
+159216,PA,Nathan Wood,Democratic,49351,43.146,False,False
+159316,PA,Marc Anderson,Republican,19642,63.568,True,False
+159316,PA,Krista Jean Anderson,Democratic,11257,36.432,False,False
+159224,PA,Michele Brooks,Republican,59708,64.235,True,False
+159224,PA,Sue Mulvey,Democratic,33244,35.765,False,False
+159324,PA,Dave Nissley,Republican,12575,67.423,True,False
+159324,PA,Dale Hamby,Independent,6076,32.577,False,False
+159417,PA,Catherine Wallen,Republican,15430,63.553,True,False
+159417,PA,Todd Crawley,Democratic,8849,36.447,False,False
+159325,PA,John Schlegel,Republican,14320,100.0,True,False
+159418,PA,Tarik Khan,Democratic,25933,100.0,True,False
+159223,PA,Chris Gebhard,Republican,61276,61.983,True,False
+159223,PA,Wayne Moyer,Democratic,37583,38.017,False,False
+159323,PA,Dave Zimmerman,Republican,15311,67.94,True,False
+159323,PA,Ethan Gabrick,Democratic,7225,32.06,False,False
+159231,PA,Parke Wentling,Republican,12770,56.93,True,False
+159231,PA,Christopher A Crumby-Ford,Democratic,9661,43.07,False,False
+159331,PA,Joanne Stehr,Republican,14590,70.602,True,False
+159331,PA,Ryan T Coleman,Democratic,6075,29.398,False,False
+159424,PA,Chris Johnson,Democratic,30712,100.0,True,False
+159300,PA,Stephanie Borowicz,Republican,12646,60.082,True,False
+159300,PA,Sara Eggler,Democratic,8402,39.918,False,False
+159425,PA,Andre D Carroll,Democratic,20892,100.0,True,False
+159230,PA,Brad Roae,Republican,14324,63.163,True,False
+159230,PA,Michael Walker,Democratic,8354,36.837,False,False
+159330,PA,Tom Mehaffie,Republican,16817,57.463,True,False
+159330,PA,Anju Singh,Democratic,12449,42.537,False,False
+159338,PA,Bridget Malloy Kosierowski,Democratic,17537,67.713,True,False
+159338,PA,Logan Lombardo,Republican,8362,32.287,False,False
+159207,PA,Mark Pinsley,Democratic,64157,51.437,True,False
+159207,PA,Jarrett Coleman,Republican,60572,48.563,False,False
+159307,PA,Jamie L Flick,Republican,14689,100.0,True,False
+159208,PA,Lisa Boscola,Democratic,68035,65.012,True,False
+159208,PA,Scott Janney,Republican,36615,34.988,False,False
+159205,PA,Maria Collett,Democratic,82680,66.345,True,False
+159205,PA,Robert F Costello III,Republican,41942,33.655,False,False
+159308,PA,Joe Hamm,Republican,22108,100.0,True,False
+159337,PA,Kyle T Donahue,Democratic,13667,67.548,True,False
+159337,PA,Lucas O'Brien,Republican,6566,32.452,False,False
+159206,PA,Nick Miller,Democratic,55235,62.644,True,False
+159206,PA,Omy Maldonado,Republican,32938,37.356,False,False
+159345,PA,Jessica McClay,Democratic,9382,58.295,True,False
+159345,PA,Mike Harostock,Republican,6712,41.705,False,False
+159214,PA,Judy Ward,Republican,63357,72.309,True,False
+159214,PA,Sean Steeg,Democratic,24263,27.691,False,False
+159314,PA,Chad G Reichard,Republican,19463,100.0,True,False
+159215,PA,Pat Stefano,Republican,60822,70.501,True,False
+159215,PA,Jacob Cecil,Democratic,25449,29.499,False,False
+159315,PA,Dan Moul,Republican,16167,58.853,True,False
+159315,PA,Kathleen Pratt,Democratic,11303,41.147,False,False
+159344,PA,Brenda Pugh,Republican,13963,54.082,True,False
+159344,PA,Fern Leard,Democratic,11855,45.918,False,False
+159213,PA,Kristin Phillips-Hill,Republican,65546,61.441,True,False
+159213,PA,Thomas Johnson,Democratic,41136,38.559,False,False
+159352,PA,Mark M Gillen,Republican,14214,53.662,True,False
+159352,PA,Andy Wagner,Democratic,12274,46.338,False,False
+159221,PA,Katie Muth,Democratic,77968,64.349,True,False
+159221,PA,Melissa Dicranian,Republican,43196,35.651,False,False
+159321,PA,Steve Mentzer,Republican,16898,55.509,True,False
+159321,PA,Jess Branas,Democratic,13544,44.491,False,False
+159222,PA,Camera Bartolotta,Republican,50400,55.987,True,False
+159222,PA,Jodi Borello,Independent Party,39621,44.013,False,False
+159322,PA,Nicky Woods,Republican,16073,53.84,True,False
+159322,PA,Hugh Darlington,Democratic,12072,40.438,False,False
+159322,PA,Joshua Deering,Independent,1708,5.721,False,False
+159351,PA,Manny Guzman,Democratic,8434,100.0,True,False
+159220,PA,Wayne D Fontana,Democratic,83669,100.0,True,False
+159359,PA,Steve Samuelson,Democratic,17772,73.587,True,False
+159359,PA,Joe Poplawski,Republican,6379,26.413,False,False
+159228,PA,Jake Banta,Republican,14156,59.168,True,False
+159228,PA,Kathryn Divittorio,Democratic,9769,40.832,False,False
+159328,PA,Dave Madsen,Democratic,15060,100.0,True,False
+159229,PA,Eric Weaknecht,Republican,15534,60.889,True,False
+159229,PA,Andres R F Santiago,Democratic,9978,39.111,False,False
+159329,PA,Justin Fleming,Democratic,21858,100.0,True,False
+159358,PA,Peter Schweyer,Democratic,12480,69.046,True,False
+159358,PA,Miriam Maldonado,Republican,5595,30.954,False,False
+159227,PA,Ryan A Bizzarro,Democratic,18327,65.547,True,False
+159227,PA,Donna Reese,Republican,9633,34.453,False,False
+87378,PA,Chris Rabb,Democratic,258437,93.615,True,False
+87378,PA,Dennis Mahoney,The Independent Party,17628,6.385,False,False
+87384,PA,Dan Meuser,Republican,165751,61.44,True,False
+87384,PA,Rachel Wallace,Democratic,104028,38.56,False,False
+87379,PA,Madeleine Dean,Democratic,234207,67.26,True,False
+87379,PA,Aurora Stuski,Republican,114006,32.74,False,False
+87387,PA,Summer Lee,Democratic,197115,65.684,True,False
+87387,PA,James Hayes,Republican,102980,34.316,False,False
+87389,PA,Guy Reschenthaler,Republican,159503,57.443,True,False
+87389,PA,Alan Bradstock,Democratic,118167,42.557,False,False
+87377,PA,Brendan Boyle,Democratic,150784,80.872,True,False
+87377,PA,Jessica Arriaga,Republican,35663,19.128,False,False
+87390,PA,Glenn Thompson,Republican,171287,63.782,True,False
+87390,PA,Ray Bilger,Democratic,97263,36.218,False,False
+87392,PA,Chris Deluzio,Democratic,209838,62.966,True,False
+87392,PA,Tony Guy,Republican,123420,37.034,False,False
+87380,PA,Mary Gay Scanlon,Democratic,215985,72.221,True,False
+87380,PA,Nicholas Manganaro,Republican,83075,27.779,False,False
+87382,PA,Bob Brooks,Democratic,166671,56.288,True,False
+87382,PA,Ryan Mackenzie,Republican,129431,43.712,False,False
+87388,PA,John Joyce,Republican,189919,67.432,True,False
+87388,PA,Beth Farnham,Democratic,91726,32.568,False,False
+87383,PA,Paige Cognetti,Democratic,154060,54.477,True,False
+87383,PA,Rob Bresnahan,Republican,128739,45.523,False,False
+87385,PA,Janelle Stelson,Democratic,175175,55.186,True,False
+87385,PA,Scott Perry,Republican,142253,44.814,False,False
+87391,PA,Mike Kelly,Republican,154693,53.828,True,False
+87391,PA,Justin Wagner,Democratic,132690,46.172,False,False
+87386,PA,Lloyd Smucker,Republican,167894,55.389,True,False
+87386,PA,Nancy Mannion,Democratic,135225,44.611,False,False
+87381,PA,Chrissy Houlahan,Democratic,201240,64.483,True,False
+87381,PA,Marty Young,Republican,110841,35.517,False,False
+87376,PA,Bob Harvie,Democratic,189926,52.878,True,False
+87376,PA,Brian Fitzpatrick,Republican,169255,47.122,False,False

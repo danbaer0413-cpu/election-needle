@@ -1,0 +1,1525 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+154929,MD,Yes,Nonpartisan,225325,86.666,False,False
+154929,MD,No,Nonpartisan,34666,13.334,False,False
+154930,MD,Yes,Nonpartisan,1569294,84.123,False,False
+154930,MD,No,Nonpartisan,296187,15.877,False,False
+155237,MD,Yes,Nonpartisan,1337095,61.97,True,False
+155237,MD,No,Nonpartisan,820545,38.03,False,False
+155235,MD,Yes,Nonpartisan,1591840,76.165,True,False
+155235,MD,No,Nonpartisan,498162,23.835,False,False
+155236,MD,Yes,Nonpartisan,1434971,68.398,True,False
+155236,MD,No,Nonpartisan,663010,31.602,False,False
+87198,MD,Wes Moore,Democratic,1460213,65.186,True,False
+87198,MD,Dan Cox,Republican,682141,30.452,False,False
+87198,MD,Andy Ellis,Green,48328,2.157,False,False
+87198,MD,Cathy White,Working Class Party,43463,1.94,False,False
+87198,MD,Write-in,Nonpartisan,5916,0.264,False,False
+87199,MD,Anthony Brown,Democratic,1549940,69.646,True,False
+87199,MD,James B. Rutledge III,Republican,673172,30.249,False,False
+87199,MD,Write-in,Nonpartisan,2329,0.105,False,False
+87200,MD,Brooke Lierman,Democratic,1536219,69.545,True,False
+87200,MD,Sonya Dunn,Republican,670567,30.357,False,False
+87200,MD,Write-in,Nonpartisan,2164,0.098,False,False
+159533,MD,Democratic,Democratic,3417257,77.221,False,False
+159533,MD,Republican,Republican,973148,21.991,False,False
+159533,MD,Nonpartisan,Nonpartisan,24726,0.559,False,False
+159533,MD,Green,Green,4566,0.103,False,False
+159533,MD,Working Class,Working Class,3087,0.07,False,False
+159533,MD,Unaffiliated,Unaffiliated,2506,0.057,False,False
+159533,MD,Write-In,Write-In,2,0.0,False,False
+159534,MD,Democratic,Democratic,1545738,72.876,False,False
+159534,MD,Republican,Republican,553618,26.101,False,False
+159534,MD,Nonpartisan,Nonpartisan,18423,0.869,False,False
+159534,MD,Working Class,Working Class,3284,0.155,False,False
+155161,MD,Christy Kelly,Republican,28180,96.829,False,False
+155161,MD,Write-in,Nonpartisan,923,3.171,False,False
+154804,MD,Justin Ready,Republican,32761,58.789,True,False
+154804,MD,Gary Foote,Democratic,22926,41.141,False,False
+154804,MD,Write-in,Nonpartisan,39,0.07,False,False
+154987,MD,Jourdan Sturdivant,Republican,23344,96.651,False,False
+154987,MD,Write-in,Nonpartisan,809,3.349,False,False
+154822,MD,Ron Watson,Democratic,51830,90.569,True,False
+154822,MD,James A. T. Amah,Republican,5092,8.898,False,False
+154822,MD,Write-in,Nonpartisan,305,0.533,False,False
+154881,MD,Jeffrie E. Long Jr.,Democratic,14239,68.847,True,False
+154881,MD,Dan L. Thomas,Republican,6407,30.979,False,False
+154881,MD,Write-in,Nonpartisan,36,0.174,False,False
+154813,MD,Craig J. Zucker,Democratic,41181,96.696,True,False
+154813,MD,Write-in,Nonpartisan,1407,3.304,False,False
+154840,MD,Malcolm P. Ruff,Democratic,35111,98.427,True,False
+154840,MD,Write-in,Nonpartisan,561,1.573,False,False
+154899,MD,Sheree Sample-Hughes,Democratic,9395,96.418,True,False
+154899,MD,Write-in,Nonpartisan,349,3.582,False,False
+154831,MD,Mark S. Chang,Democratic,30932,73.6,True,False
+154831,MD,Justin Gallucci,Republican,11040,26.269,False,False
+154831,MD,Write-in,Nonpartisan,55,0.131,False,False
+186034,MD,Yes,Nonpartisan,65069,57.841,False,False
+186034,MD,No,Nonpartisan,47428,42.159,False,False
+154949,MD,MK Fowler,Democratic,115531,59.153,False,False
+154949,MD,Douglas Finbar Graham,Republican,79623,40.768,False,False
+154949,MD,Write-in,Nonpartisan,154,0.079,False,False
+155100,MD,Albert Nickerson,Republican,3410,17.925,False,False
+155100,MD,John F. Price,Republican,3410,17.925,False,False
+155100,MD,Ron Fithian,Republican,3279,17.236,False,False
+155100,MD,Sam Shoge,Democratic,3144,16.526,False,False
+155100,MD,John T. Carroll,Democratic,2889,15.186,False,False
+155100,MD,Thad L. Bench,Democratic,2867,15.07,False,False
+155100,MD,Write-in,Nonpartisan,25,0.131,False,False
+154960,MD,Paul Dongarra,Democratic,14550,60.96,False,False
+154960,MD,Rheagan Kindle,Republican,5879,24.631,False,False
+154960,MD,"Joseph D. ""Joe"" Hooe",Unaffiliated,3408,14.279,False,False
+154960,MD,Write-in,Nonpartisan,31,0.13,False,False
+154926,MD,LaKeecia Allen,Nonpartisan,176549,12.663,False,False
+154926,MD,Stacey Cobb Smith,Nonpartisan,162396,11.648,False,False
+154926,MD,Althea Stewart Jones,Nonpartisan,161746,11.601,False,False
+154926,MD,Ada Elizabeth Clark-Edwards,Nonpartisan,158598,11.375,False,False
+154926,MD,Donnaka Varner Lewis,Nonpartisan,153468,11.007,False,False
+154926,MD,Scott M. Carrington,Nonpartisan,149945,10.755,False,False
+154926,MD,Michael Ray Pearson,Nonpartisan,148272,10.635,False,False
+154926,MD,Joseph C. Ruddy III,Nonpartisan,140516,10.078,False,False
+154926,MD,Todd Steuart,Nonpartisan,138661,9.945,False,False
+154926,MD,Write-in,Nonpartisan,4082,0.293,False,False
+154978,MD,Julie C. Henn,Nonpartisan,24436,97.701,False,False
+154978,MD,Write-in,Nonpartisan,575,2.299,False,False
+186024,MD,Yes,Nonpartisan,173534,74.386,False,False
+186024,MD,No,Nonpartisan,59755,25.614,False,False
+155099,MD,Mark E. Covington,Nonpartisan,60197,36.553,False,False
+155099,MD,Lanlan Xu,Nonpartisan,59508,36.135,False,False
+155099,MD,Linda Frascarella,Nonpartisan,43307,26.297,False,False
+155099,MD,Write-in,Nonpartisan,1670,1.014,False,False
+154866,MD,Amy Brooks,Democratic,40467,32.538,True,False
+154866,MD,Pam Lanman Guzzone,Democratic,36143,29.062,True,False
+154866,MD,Gabriel Maximilian Moreno,Democratic,35933,28.893,True,False
+154866,MD,Mark Fisher,Republican,11214,9.017,False,False
+154866,MD,Write-in,Nonpartisan,610,0.49,False,False
+154925,MD,Sharon V. Burrell,Nonpartisan,216364,26.101,False,False
+154925,MD,Catherine H. McQueen,Nonpartisan,207586,25.043,False,False
+154925,MD,Victor M. Del Pino,Nonpartisan,202737,24.458,False,False
+154925,MD,James J. Dietrich,Nonpartisan,197556,23.833,False,False
+154925,MD,Write-in,Nonpartisan,4691,0.566,False,False
+155009,MD,Marsha B. Herbert,Nonpartisan,25612,17.579,False,False
+155009,MD,Shannon Hinkhaus,Nonpartisan,25472,17.483,False,False
+155009,MD,Julie V. Walsh,Nonpartisan,25078,17.213,False,False
+155009,MD,Sharon Wilhide,Nonpartisan,24301,16.68,False,False
+155009,MD,Lisa Maisano,Nonpartisan,22691,15.575,False,False
+155009,MD,Cleveland Christopher Friday,Nonpartisan,21996,15.097,False,False
+155009,MD,Write-in,Nonpartisan,543,0.373,False,False
+154916,MD,Diana M. Fennell,Democratic,15219,50.454,True,False
+154916,MD,Robert Julian Ivey,Democratic,13456,44.609,True,False
+154916,MD,Fred M. Price Jr.,Republican,1365,4.525,False,False
+154916,MD,Write-in,Nonpartisan,124,0.411,False,False
+155160,MD,Scott R. Ostrow,Republican,20236,55.583,False,False
+155160,MD,Ryan B. Daniels,Democratic,16080,44.167,False,False
+155160,MD,Write-in,Nonpartisan,91,0.25,False,False
+155160,MD,Darryl Randall,Write-In,0,0.0,False,False
+155027,MD,Lisa E. Yates,Democratic,50479,98.139,False,False
+155027,MD,Write-in,Nonpartisan,957,1.861,False,False
+154934,MD,Mary Beth Pirolozzi,Republican,16472,98.765,False,False
+154934,MD,Write-in,Nonpartisan,206,1.235,False,False
+154986,MD,Bob Harvey,Republican,23699,96.345,False,False
+154986,MD,Write-in,Nonpartisan,899,3.655,False,False
+154853,MD,Jerry Donald,Democratic,29901,17.734,False,False
+154853,MD,Andrew Duck,Democratic,29106,17.262,False,False
+154853,MD,Jesse T. Pippy,Republican,28015,16.615,False,False
+154853,MD,Alleria Stanley,Democratic,27888,16.54,False,False
+154853,MD,April Fleming Miller,Republican,27084,16.063,False,False
+154853,MD,Jason E. Keckler,Republican,26530,15.734,False,False
+154853,MD,Write-in,Nonpartisan,87,0.052,False,False
+154812,MD,Guy Guzzone,Democratic,44653,97.638,True,False
+154812,MD,Write-in,Nonpartisan,1080,2.362,False,False
+155063,MD,Ryan S. Savage,Republican,7321,80.886,False,False
+155063,MD,Jesse deVore,Democratic,1693,18.705,False,False
+155063,MD,Write-in,Nonpartisan,37,0.409,False,False
+186006,MD,Yes,Nonpartisan,102635,84.722,False,False
+186006,MD,No,Nonpartisan,18508,15.278,False,False
+155081,MD,Derek K. Hopkins,Republican,56077,59.219,False,False
+155081,MD,Jo Wanda Strickland-Lucas,Democratic,38530,40.689,False,False
+155081,MD,Write-in,Nonpartisan,88,0.093,False,False
+154976,MD,Kelli Slattery McClelland,Nonpartisan,16577,53.422,False,False
+154976,MD,Maggie Litz Domanowski,Nonpartisan,14151,45.604,False,False
+154976,MD,Write-in,Nonpartisan,302,0.973,False,False
+154811,MD,Clarence Lam,Democratic,40139,96.788,True,False
+154811,MD,Write-in,Nonpartisan,1332,3.212,False,False
+154994,MD,Peggy A. Gallagher,Republican,8440,96.745,False,False
+154994,MD,Write-in,Nonpartisan,284,3.255,False,False
+186005,MD,Yes,Nonpartisan,100068,82.713,False,False
+186005,MD,No,Nonpartisan,20914,17.287,False,False
+155112,MD,Kate Stewart,Democratic,40280,98.429,False,False
+155112,MD,Write-in,Nonpartisan,643,1.571,False,False
+154820,MD,Jim Rosapepe,Democratic,30806,84.474,True,False
+154820,MD,Lee Havis,Republican,5586,15.318,False,False
+154820,MD,Write-in,Nonpartisan,76,0.208,False,False
+186023,MD,Yes,Nonpartisan,170234,73.085,False,False
+186023,MD,No,Nonpartisan,62691,26.915,False,False
+155130,MD,Shayla D. Adams-Stafford,Democratic,22248,98.906,False,False
+155130,MD,Write-in,Nonpartisan,246,1.094,False,False
+186014,MD,Yes,Nonpartisan,159598,71.006,False,False
+186014,MD,No,Nonpartisan,65168,28.994,False,False
+154865,MD,Gary Simmons,Democratic,7937,64.429,True,False
+154865,MD,Blair L. Brannock,Republican,4359,35.384,False,False
+154865,MD,Write-in,Nonpartisan,21,0.17,False,False
+154865,MD,Timothy McGarrahan,Write-In,2,0.016,False,False
+154956,MD,"Charles ""Chuck"" Bernstein",Democratic,91158,33.738,False,False
+154956,MD,Michele E. Loewenthal,Democratic,90209,33.387,False,False
+154956,MD,Lewyn Scott Garrett,Democratic,87683,32.452,False,False
+154956,MD,Write-in,Nonpartisan,1141,0.422,False,False
+154915,MD,Luke Clippinger,Democratic,27799,31.83,True,False
+154915,MD,Robbyn Lewis,Democratic,27242,31.193,True,False
+154915,MD,Mark Edelson,Democratic,26892,30.792,True,False
+154915,MD,Jeremy L. Amason,Republican,5147,5.893,False,False
+154915,MD,Write-in,Nonpartisan,255,0.292,False,False
+155191,MD,Lisa Hayes,Nonpartisan,1168,55.198,False,False
+155191,MD,Kate Taylor Logan,Nonpartisan,940,44.423,False,False
+155191,MD,Write-in,Nonpartisan,8,0.378,False,False
+154933,MD,Dawne Lindsey,Republican,16414,98.559,False,False
+154933,MD,Write-in,Nonpartisan,240,1.441,False,False
+155209,MD,"James ""Bo"" McAllister",Democratic,21713,96.498,False,False
+155209,MD,Write-in,Nonpartisan,788,3.502,False,False
+154914,MD,Jackie Addison,Democratic,26903,32.658,True,False
+154914,MD,Chanel A. Branch,Democratic,25855,31.386,True,False
+154914,MD,Caylin Young,Democratic,24646,29.918,True,False
+154914,MD,Renaud De'Aundre Brown,Green,4566,5.543,False,False
+154914,MD,Write-in,Nonpartisan,408,0.495,False,False
+186049,MD,Yes,Nonpartisan,20467,75.499,False,False
+186049,MD,No,Nonpartisan,6642,24.501,False,False
+154932,MD,James F. Elliott,Republican,15832,98.14,False,False
+154932,MD,Write-in,Nonpartisan,300,1.86,False,False
+154824,MD,Nick Charles,Democratic,45643,99.274,True,False
+154824,MD,Write-in,Nonpartisan,334,0.726,False,False
+154923,MD,Maurice C. Frazier,Nonpartisan,87331,98.11,False,False
+154923,MD,Write-in,Nonpartisan,1682,1.89,False,False
+154975,MD,Jane E. Lichter,Nonpartisan,25595,98.67,False,False
+154975,MD,Write-in,Nonpartisan,345,1.33,False,False
+155034,MD,Denise M. Joseph,Nonpartisan,10286,54.751,False,False
+155034,MD,"Michael ""Mike"" Lukas",Nonpartisan,8215,43.727,False,False
+155034,MD,Write-in,Nonpartisan,286,1.522,False,False
+154966,MD,David Marks,Republican,18911,59.906,False,False
+154966,MD,"Caridad ""Cari"" Santiago",Democratic,12630,40.009,False,False
+154966,MD,Write-in,Nonpartisan,27,0.086,False,False
+154993,MD,Joel J. Todd,Republican,8454,97.791,False,False
+154993,MD,Write-in,Nonpartisan,191,2.209,False,False
+154860,MD,Courtney Watson,Democratic,14578,97.103,True,False
+154860,MD,Write-in,Nonpartisan,435,2.897,False,False
+154819,MD,Will Smith,Democratic,38666,98.771,True,False
+154819,MD,Write-in,Nonpartisan,481,1.229,False,False
+154878,MD,Denise Roberts,Democratic,40386,34.651,True,False
+154878,MD,Kent Roberson,Democratic,38688,33.194,True,False
+154878,MD,Karen Toles,Democratic,36862,31.627,True,False
+154878,MD,Write-in,Nonpartisan,616,0.529,False,False
+186013,MD,Yes,Nonpartisan,187641,81.436,False,False
+186013,MD,No,Nonpartisan,42775,18.564,False,False
+155088,MD,Joseph L. Alton Jr.,Nonpartisan,7736,56.074,False,False
+155088,MD,Kawaniee Flowe,Nonpartisan,5906,42.81,False,False
+155088,MD,Write-in,Nonpartisan,154,1.116,False,False
+155079,MD,Alison M. Healey,Republican,72800,94.427,False,False
+155079,MD,Write-in,Nonpartisan,4297,5.573,False,False
+154809,MD,Ben Brooks,Democratic,40046,98.065,True,False
+154809,MD,Write-in,Nonpartisan,790,1.935,False,False
+186012,MD,Yes,Nonpartisan,165016,72.076,False,False
+186012,MD,No,Nonpartisan,63932,27.924,False,False
+186003,MD,Yes,Nonpartisan,103135,83.929,False,False
+186003,MD,No,Nonpartisan,19748,16.071,False,False
+155078,MD,Tamie M. Wainwright,Democratic,9057,54.742,False,False
+155078,MD,Glen Glass,Republican,7468,45.138,False,False
+155078,MD,Write-in,Nonpartisan,20,0.121,False,False
+154945,MD,Amanda Fiedler,Republican,17284,51.021,False,False
+154945,MD,Natalie Ogilvie,Democratic,16559,48.881,False,False
+154945,MD,Write-in,Nonpartisan,33,0.097,False,False
+186021,MD,Yes,Nonpartisan,164910,71.673,False,False
+186021,MD,No,Nonpartisan,65178,28.327,False,False
+186048,MD,Yes,Nonpartisan,17008,63.051,False,False
+186048,MD,No,Nonpartisan,9967,36.949,False,False
+155180,MD,James White Jr.,Nonpartisan,724,49.725,False,False
+155180,MD,Samantha D. Windsor,Nonpartisan,713,48.97,False,False
+155180,MD,Write-in,Nonpartisan,19,1.305,False,False
+186039,MD,Yes,Nonpartisan,207468,87.848,False,False
+186039,MD,No,Nonpartisan,28700,12.152,False,False
+154922,MD,Elizabeth Adams,Nonpartisan,104934,37.111,False,False
+154922,MD,Sidney A. Butcher,Nonpartisan,91732,32.442,False,False
+154922,MD,Ginina A. Jackson-Stevenson,Nonpartisan,83937,29.685,False,False
+154922,MD,Write-in,Nonpartisan,2157,0.763,False,False
+155006,MD,Paul G. Zimmermann,Republican,50062,97.41,False,False
+155006,MD,Write-in,Nonpartisan,1331,2.59,False,False
+154965,MD,"Michael ""Mike"" P. Ertel",Democratic,19090,74.05,False,False
+154965,MD,Christine L. Vondersmith,Republican,6656,25.818,False,False
+154965,MD,Write-in,Nonpartisan,34,0.132,False,False
+155216,MD,Stewart Soper,Nonpartisan,3043,95.632,False,False
+155216,MD,Write-in,Nonpartisan,139,4.368,False,False
+154983,MD,Kenneth B. Lee,Republican,23007,95.39,False,False
+154983,MD,Write-in,Nonpartisan,1112,4.61,False,False
+155234,MD,Todd A. Ferrante,Nonpartisan,2027,98.446,False,False
+155234,MD,Write-in,Nonpartisan,32,1.554,False,False
+154912,MD,Eric Ebersole,Democratic,8505,69.361,True,False
+154912,MD,Chuck Linton,Republican,3737,30.476,False,False
+154912,MD,Write-in,Nonpartisan,20,0.163,False,False
+154964,MD,Nino Mangione,Republican,16835,48.717,False,False
+154964,MD,Shawn McIntosh,Democratic,15607,45.163,False,False
+154964,MD,Cory Shaffer,Unaffiliated,2087,6.039,False,False
+154964,MD,Write-in,Nonpartisan,28,0.081,False,False
+155122,MD,Sally A. McCarthy,Nonpartisan,163130,67.2,False,False
+155122,MD,"Cassandra ""Cassi"" Sung",Nonpartisan,75130,30.949,False,False
+155122,MD,Write-in,Nonpartisan,4493,1.851,False,False
+154982,MD,Mike Hart,Republican,18464,54.545,False,False
+154982,MD,Ethan Cox,Democratic,15331,45.29,False,False
+154982,MD,Write-in,Nonpartisan,56,0.165,False,False
+154849,MD,Terry Baker,Republican,10239,69.182,True,False
+154849,MD,Seth Funk,Democratic,4549,30.736,False,False
+154849,MD,Write-in,Nonpartisan,12,0.081,False,False
+154973,MD,Clyde E. Boatwright,Democratic,150329,63.772,False,False
+154973,MD,Michael F. Burke,Republican,85022,36.068,False,False
+154973,MD,Write-in,Nonpartisan,376,0.16,False,False
+154973,MD,Dana R. Robinson,Write-In,0,0.0,False,False
+154808,MD,Katie Fry Hester,Democratic,37548,67.572,True,False
+154808,MD,Ben Hightower,Republican,17946,32.296,False,False
+154808,MD,Write-in,Nonpartisan,73,0.131,False,False
+154867,MD,Anne R. Kaiser,Democratic,38060,34.3,True,False
+154867,MD,Matt Post,Democratic,35655,32.133,True,False
+154867,MD,Bernice Mireku-North,Democratic,35065,31.601,True,False
+154867,MD,Write-in,Nonpartisan,2182,1.966,False,False
+154991,MD,Lisa Grenis,Nonpartisan,14286,27.574,False,False
+154991,MD,Jana Post,Nonpartisan,13270,25.613,False,False
+154991,MD,Dona Cox Ostenso,Nonpartisan,12072,23.301,False,False
+154991,MD,Anne Jones,Nonpartisan,11854,22.88,False,False
+154991,MD,Write-in,Nonpartisan,327,0.631,False,False
+186002,MD,Yes,Nonpartisan,131183,71.669,False,False
+186002,MD,No,Nonpartisan,51858,28.331,False,False
+155109,MD,Julie Yang,Democratic,41887,79.035,False,False
+155109,MD,"Reardon ""Sully"" Sullivan",Republican,11016,20.786,False,False
+155109,MD,Write-in,Nonpartisan,95,0.179,False,False
+186020,MD,Yes,Nonpartisan,174230,75.602,False,False
+186020,MD,No,Nonpartisan,56226,24.398,False,False
+154903,MD,Wayne A. Hartman,Republican,16137,97.024,True,False
+154903,MD,Write-in,Nonpartisan,495,2.976,False,False
+155086,MD,Melissa Hahn,Nonpartisan,9279,60.742,False,False
+155086,MD,Rachelle A. Johnson,Nonpartisan,5825,38.132,False,False
+155086,MD,Write-in,Nonpartisan,172,1.126,False,False
+155145,MD,Jack Wilson,Republican,16235,96.954,False,False
+155145,MD,Write-in,Nonpartisan,510,3.046,False,False
+155232,MD,Frederick D. Grant Sr.,Nonpartisan,2209,98.091,False,False
+155232,MD,Write-in,Nonpartisan,43,1.909,False,False
+186019,MD,Yes,Nonpartisan,167750,73.065,False,False
+186019,MD,No,Nonpartisan,61841,26.935,False,False
+154834,MD,Jason C. Gallion,Republican,37412,66.209,True,False
+154834,MD,Neil Jennings,Democratic,19046,33.706,False,False
+154834,MD,Write-in,Nonpartisan,48,0.085,False,False
+155085,MD,Cathy Kowalewski,Nonpartisan,8010,54.287,False,False
+155085,MD,Joe Fleckenstein,Nonpartisan,6624,44.893,False,False
+155085,MD,Write-in,Nonpartisan,121,0.82,False,False
+155169,MD,Craig N. Mathies Sr.,Democratic,753,95.802,False,False
+155169,MD,Write-in,Nonpartisan,33,4.198,False,False
+155076,MD,John B. Carl Jr.,Republican,13902,75.534,False,False
+155076,MD,Jean Salvatore,Democratic,4485,24.368,False,False
+155076,MD,Write-in,Nonpartisan,18,0.098,False,False
+154911,MD,Cathi Forbes,Democratic,11677,98.449,True,False
+154911,MD,Write-in,Nonpartisan,184,1.551,False,False
+154995,MD,Linda Dunn,Republican,8578,98.158,False,False
+154995,MD,Write-in,Nonpartisan,161,1.842,False,False
+155094,MD,Cat Carter,Democratic,14105,52.947,False,False
+155094,MD,Ryan P. O'Connor,Republican,12511,46.963,False,False
+155094,MD,Write-in,Nonpartisan,24,0.09,False,False
+155121,MD,Grace Rivera-Oven,Nonpartisan,225022,97.485,False,False
+155121,MD,Write-in,Nonpartisan,5805,2.515,False,False
+155013,MD,James A. Dellmyer,Republican,21997,97.224,False,False
+155013,MD,Write-in,Nonpartisan,628,2.776,False,False
+154972,MD,Michelle Arvin-Greer,Democratic,156025,34.688,False,False
+154972,MD,Juliet Fisher,Democratic,146046,32.47,False,False
+154972,MD,Andrew G. Bailey,Democratic,142387,31.656,False,False
+154972,MD,Write-in,Nonpartisan,5336,1.186,False,False
+155031,MD,Bernadette Smith,Nonpartisan,6049,30.012,False,False
+155031,MD,Shawna Marks,Nonpartisan,5419,26.887,False,False
+155031,MD,Henry Thompson,Nonpartisan,5234,25.969,False,False
+155031,MD,Samichie K. Thomas,Nonpartisan,3187,15.812,False,False
+155031,MD,Write-in,Nonpartisan,266,1.32,False,False
+155214,MD,Emanuel Fletcher III,Nonpartisan,1120,65.689,False,False
+155214,MD,Howard F. Travers Jr.,Nonpartisan,538,31.554,False,False
+155214,MD,Write-in,Nonpartisan,47,2.757,False,False
+155049,MD,Tiffany Grant,Democratic,52052,29.017,False,False
+155049,MD,Renee Knapp,Democratic,49482,27.584,False,False
+155049,MD,Jack Felton,Republican,38907,21.689,False,False
+155049,MD,Diane Fouche,Republican,38761,21.608,False,False
+155049,MD,Write-in,Nonpartisan,182,0.101,False,False
+155143,MD,Erica K. Bennett,Nonpartisan,19171,54.093,False,False
+155143,MD,Chandrai CJ Jackson-Saunders,Nonpartisan,16026,45.219,False,False
+155143,MD,Write-in,Nonpartisan,244,0.688,False,False
+154971,MD,Alexis Burrell-Rohde,Democratic,152081,64.395,False,False
+154971,MD,Nicole Schroeder,Republican,83881,35.517,False,False
+154971,MD,Write-in,Nonpartisan,207,0.088,False,False
+154937,MD,Lori D. Lepley,Nonpartisan,9683,23.908,False,False
+154937,MD,Linda Alderman Widmyer,Nonpartisan,8075,19.938,False,False
+154937,MD,David A. Bohn,Nonpartisan,7870,19.432,False,False
+154937,MD,Caren Phillips Kurtz,Nonpartisan,5674,14.01,False,False
+154937,MD,Steven Jay Moon,Nonpartisan,5358,13.229,False,False
+154937,MD,Gary Taylor,Nonpartisan,3691,9.113,False,False
+154937,MD,Write-in,Nonpartisan,150,0.37,False,False
+155213,MD,Gene Malone,Nonpartisan,4138,97.068,False,False
+155213,MD,Write-in,Nonpartisan,125,2.932,False,False
+186032,MD,Write-in,Nonpartisan,473,100.0,False,False
+154980,MD,Stacy L. McNish,Nonpartisan,11742,54.614,False,False
+154980,MD,Rod McMillion,Nonpartisan,9436,43.888,False,False
+154980,MD,Write-in,Nonpartisan,322,1.498,False,False
+155231,MD,Glen Ennis,Nonpartisan,1293,53.364,False,False
+155231,MD,Caroline H. Bloxom,Nonpartisan,1124,46.389,False,False
+155231,MD,Write-in,Nonpartisan,6,0.248,False,False
+154874,MD,Ben Barnes,Democratic,28817,34.73,True,False
+154874,MD,Joseline A. Peña-Melnyk,Democratic,26732,32.217,True,False
+154874,MD,Mary A. Lehman,Democratic,26578,32.032,True,False
+154874,MD,Write-in,Nonpartisan,847,1.021,False,False
+155222,MD,Steve Green,Republican,2487,97.224,False,False
+155222,MD,Write-in,Nonpartisan,71,2.776,False,False
+154833,MD,Mary-Dulany James,Democratic,31161,60.316,True,False
+154833,MD,Raj Goel,Republican,20397,39.481,False,False
+154833,MD,Write-in,Nonpartisan,105,0.203,False,False
+155116,MD,John McCarthy,Democratic,266085,97.766,False,False
+155116,MD,Write-in,Nonpartisan,6080,2.234,False,False
+155075,MD,Paula S. Etting,Republican,9777,58.541,False,False
+155075,MD,Jessica Ryley Hammond,Democratic,6910,41.375,False,False
+155075,MD,Write-in,Nonpartisan,14,0.084,False,False
+154942,MD,Catelyn Middlebrooks,Democratic,14052,60.421,False,False
+154942,MD,Cory Malinowski,Republican,9182,39.481,False,False
+154942,MD,Write-in,Nonpartisan,23,0.099,False,False
+155093,MD,Janssen Evelyn,Democratic,19505,97.364,False,False
+155093,MD,Write-in,Nonpartisan,528,2.636,False,False
+155152,MD,Kimberly Jean Cascia,Republican,12524,22.526,False,False
+155152,MD,John T. McQueeney Jr.,Republican,12148,21.85,False,False
+155152,MD,Laurie J. Plemons,Republican,11418,20.537,False,False
+155152,MD,Barry A. Schwartz,Democratic,6881,12.377,False,False
+155152,MD,Don McKeough,Democratic,6356,11.432,False,False
+155152,MD,Jeff H. Starling,Democratic,6240,11.224,False,False
+155152,MD,Write-in,Nonpartisan,30,0.054,False,False
+155074,MD,Stephanie Flasch,Republican,10658,65.535,False,False
+155074,MD,Isabela Dela Cruz,Democratic,5588,34.36,False,False
+155074,MD,Write-in,Nonpartisan,17,0.105,False,False
+186017,MD,Yes,Nonpartisan,153665,66.46,False,False
+186017,MD,No,Nonpartisan,77549,33.54,False,False
+155092,MD,Christiana Rigby,Democratic,18949,97.625,False,False
+155092,MD,Write-in,Nonpartisan,461,2.375,False,False
+154984,MD,Catherine M. Grasso,Republican,18044,53.615,False,False
+154984,MD,Michael Bennett,Democratic,15571,46.267,False,False
+154984,MD,Write-in,Nonpartisan,40,0.119,False,False
+155083,MD,Donna Blasdell,Nonpartisan,5809,53.347,False,False
+155083,MD,Shernice Shermaine Mundell,Nonpartisan,4943,45.394,False,False
+155083,MD,Write-in,Nonpartisan,137,1.258,False,False
+155142,MD,Tyra Janet Bennett,Nonpartisan,13771,54.422,False,False
+155142,MD,Ashley Kearney,Nonpartisan,11386,44.997,False,False
+155142,MD,Write-in,Nonpartisan,147,0.581,False,False
+155002,MD,Michael R. Guerin,Republican,9933,96.287,False,False
+155002,MD,Write-in,Nonpartisan,383,3.713,False,False
+154909,MD,Steve Patten,Republican,12479,64.985,True,False
+154909,MD,Corynne Courpas,Democratic,6709,34.937,False,False
+154909,MD,Write-in,Nonpartisan,15,0.078,False,False
+154936,MD,David R. Morgan,Republican,16009,97.866,False,False
+154936,MD,Write-in,Nonpartisan,349,2.134,False,False
+154936,MD,Juliana Marie Hong,Write-In,0,0.0,False,False
+154828,MD,Jack Bailey,Republican,27655,54.436,True,False
+154828,MD,Chuck Borges,Democratic,23103,45.476,False,False
+154828,MD,Write-in,Nonpartisan,45,0.089,False,False
+154927,MD,Kevin R. Hill,Nonpartisan,27891,98.433,False,False
+154927,MD,Write-in,Nonpartisan,444,1.567,False,False
+154979,MD,Christina Pumphrey,Nonpartisan,16333,65.126,False,False
+154979,MD,Darren M. Badillo,Nonpartisan,8522,33.981,False,False
+154979,MD,Write-in,Nonpartisan,224,0.893,False,False
+154846,MD,Malcolm Augustine,Democratic,22287,98.799,True,False
+154846,MD,Write-in,Nonpartisan,271,1.201,False,False
+155221,MD,Eric Fiori,Republican,2737,97.298,False,False
+155221,MD,Write-in,Nonpartisan,76,2.702,False,False
+155056,MD,Megan LeRoux,Democratic,51136,54.005,False,False
+155056,MD,Sandra K. Dalton,Republican,43514,45.955,False,False
+155056,MD,Write-in,Nonpartisan,38,0.04,False,False
+155047,MD,Sheri R. Hubbard,Nonpartisan,1868,98.732,False,False
+155047,MD,Write-in,Nonpartisan,24,1.268,False,False
+154969,MD,Sarah R. David,Democratic,179825,96.149,False,False
+154969,MD,Write-in,Nonpartisan,7202,3.851,False,False
+155220,MD,Roxie V. Dennis,Democratic,1703,96.433,False,False
+155220,MD,Write-in,Nonpartisan,63,3.567,False,False
+155211,MD,Melissa Pollitt Bright,Democratic,14458,22.692,False,False
+155211,MD,Jim Jester,Republican,13264,20.818,False,False
+155211,MD,John Sharpe,Republican,12671,19.887,False,False
+155211,MD,Michael A. Hammond Sr.,Democratic,11770,18.473,False,False
+155211,MD,Demetria Marshall,Democratic,11294,17.726,False,False
+155211,MD,Write-in,Nonpartisan,257,0.403,False,False
+155046,MD,Talibah Chikwendu,Nonpartisan,900,96.567,False,False
+155046,MD,Write-in,Nonpartisan,32,3.433,False,False
+155105,MD,Dennis W. Hickman Jr.,Republican,5229,97.976,False,False
+155105,MD,Write-in,Nonpartisan,108,2.024,False,False
+155229,MD,Mary F. Burgess,Republican,11519,28.689,False,False
+155229,MD,John Simms III,Republican,10378,25.847,False,False
+155229,MD,Cheryl K. Jacobs,Republican,10308,25.673,False,False
+155229,MD,Martin A. Radinsky,Democratic,7779,19.374,False,False
+155229,MD,Write-in,Nonpartisan,167,0.416,False,False
+186016,MD,Yes,Nonpartisan,149193,65.691,False,False
+186016,MD,No,Nonpartisan,77920,34.309,False,False
+155123,MD,Elma-Lorraine Diggs,Nonpartisan,221488,97.704,False,False
+155123,MD,Write-in,Nonpartisan,5205,2.296,False,False
+186007,MD,Yes,Nonpartisan,74554,63.721,False,False
+186007,MD,No,Nonpartisan,42447,36.279,False,False
+155082,MD,Jeffrey R. Gahler,Republican,56442,58.838,False,False
+155082,MD,Terrence Rogers,Democratic,39136,40.798,False,False
+155082,MD,Write-in,Nonpartisan,349,0.364,False,False
+155166,MD,Steve A. Hall,Republican,23746,65.263,False,False
+155166,MD,Carl Sturgis,Democratic,12587,34.594,False,False
+155166,MD,Write-in,Nonpartisan,52,0.143,False,False
+154908,MD,Michele Guyton,Democratic,10203,66.215,True,False
+154908,MD,Jeffry K. McDonald,Republican,5191,33.688,False,False
+154908,MD,Write-in,Nonpartisan,15,0.097,False,False
+155184,MD,Kathi Dulin Duvall,Republican,12092,97.951,False,False
+155184,MD,Write-in,Nonpartisan,253,2.049,False,False
+155150,MD,Katherine Beane Hager,Republican,16615,98.11,False,False
+155150,MD,Write-in,Nonpartisan,320,1.89,False,False
+155202,MD,James Winn,Republican,3430,60.859,False,False
+155202,MD,Jim Adkins,Democratic,2203,39.088,False,False
+155202,MD,Write-in,Nonpartisan,3,0.053,False,False
+155072,MD,Billy Boniface,Republican,54229,56.347,False,False
+155072,MD,Mike Ciufo,Democratic,41804,43.437,False,False
+155072,MD,Write-in,Nonpartisan,208,0.216,False,False
+154907,MD,Charles Edward Murphy III,Republican,11555,55.139,True,False
+154907,MD,Jyoti Mohan,Democratic,9361,44.67,False,False
+154907,MD,Write-in,Nonpartisan,40,0.191,False,False
+186042,MD,Yes,Nonpartisan,173231,75.486,False,False
+186042,MD,No,Nonpartisan,56256,24.514,False,False
+155149,MD,Lance G. Richardson,Republican,17017,97.9,False,False
+155149,MD,Write-in,Nonpartisan,365,2.1,False,False
+154817,MD,Jeff Waldstreicher,Democratic,39820,97.682,True,False
+154817,MD,Write-in,Nonpartisan,945,2.318,False,False
+155140,MD,Terence J. Clegg,Nonpartisan,9716,58.838,False,False
+155140,MD,Caroline Decaire-Goldin,Nonpartisan,6681,40.459,False,False
+155140,MD,Write-in,Nonpartisan,116,0.702,False,False
+154968,MD,Tim Fazenbaker,Republican,11094,48.838,False,False
+154968,MD,Arkia A. Wade,Democratic,10020,44.11,False,False
+154968,MD,Donna Eve Radtke Sekora,Unaffiliated,1556,6.85,False,False
+154968,MD,Write-in,Nonpartisan,46,0.203,False,False
+154968,MD,A. Scott Pappas,Write-In,0,0.0,False,False
+154835,MD,Steve Hershey,Republican,32117,59.202,True,False
+154835,MD,Nivek Johnson,Democratic,22099,40.735,False,False
+154835,MD,Write-in,Nonpartisan,34,0.063,False,False
+155158,MD,Tom Phelan,Republican,20275,55.549,False,False
+155158,MD,Brandon Russell,Democratic,16205,44.398,False,False
+155158,MD,Write-in,Nonpartisan,19,0.052,False,False
+155210,MD,Karen A. Lemon,Republican,22194,95.883,False,False
+155210,MD,Write-in,Nonpartisan,953,4.117,False,False
+186029,MD,Yes,Nonpartisan,7042,70.689,False,False
+186029,MD,No,Nonpartisan,2920,29.311,False,False
+155228,MD,Terri Delaney Westcott,Republican,15993,97.99,False,False
+155228,MD,Write-in,Nonpartisan,328,2.01,False,False
+154871,MD,Aaron M. Kaufman,Democratic,37105,33.492,True,False
+154871,MD,Emily Shetty,Democratic,36840,33.253,True,False
+154871,MD,Jared Solomon,Democratic,35592,32.126,True,False
+154871,MD,Write-in,Nonpartisan,1251,1.129,False,False
+155054,MD,Mason Carter,Republican,12058,62.897,False,False
+155054,MD,Johnny Mercer,Democratic,7096,37.014,False,False
+155054,MD,Write-in,Nonpartisan,17,0.089,False,False
+154889,MD,Brian A. Chisholm,Republican,27474,18.193,False,False
+154889,MD,Mike Jacobs,Republican,26354,17.452,False,False
+154889,MD,LaToya Marie Caldwell-Nkongolo,Republican,24927,16.507,False,False
+154889,MD,Heidi Buchanan Schmidt,Democratic,24662,16.331,False,False
+154889,MD,Joan Barone Cole,Democratic,24435,16.181,False,False
+154889,MD,Ryan Kelly Shaban,Democratic,23002,15.232,False,False
+154889,MD,Write-in,Nonpartisan,158,0.105,False,False
+155200,MD,Ernest Davis,Democratic,14757,51.013,False,False
+155200,MD,Julie M. Giordano,Republican,14125,48.828,False,False
+155200,MD,Write-in,Nonpartisan,46,0.159,False,False
+155227,MD,Susan Richardson Braniecki,Republican,16083,97.71,False,False
+155227,MD,Write-in,Nonpartisan,377,2.29,False,False
+154802,MD,Karen Lewis Young,Democratic,36337,74.189,True,False
+154802,MD,Shelley Aloi,Republican,12583,25.691,False,False
+154802,MD,Write-in,Nonpartisan,59,0.12,False,False
+155053,MD,Kavonte Duckett,Democratic,12952,69.381,False,False
+155053,MD,Chaz Packan,Republican,5698,30.523,False,False
+155053,MD,Write-in,Nonpartisan,18,0.096,False,False
+154920,MD,Philip T. Cronan,Nonpartisan,12760,98.999,False,False
+154920,MD,Write-in,Nonpartisan,129,1.001,False,False
+155044,MD,Don Murphy,Republican,4844,41.275,False,False
+155044,MD,Bernie Dryden,Republican,3773,32.149,False,False
+155044,MD,Amy J. Sareen,Democratic,1624,13.838,False,False
+155044,MD,Benjamin James Cullen,Democratic,1488,12.679,False,False
+155044,MD,Write-in,Nonpartisan,7,0.06,False,False
+155071,MD,Bob Cassilly,Republican,54986,57.469,False,False
+155071,MD,Barbara Osborn Kreamer,Democratic,40323,42.144,False,False
+155071,MD,Write-in,Nonpartisan,370,0.387,False,False
+154938,MD,Raymond Morriss,Nonpartisan,2533,59.572,False,False
+154938,MD,Darrell Lee Powell,Nonpartisan,1719,40.428,False,False
+155062,MD,Paul C. Edwards,Republican,7898,97.905,False,False
+155062,MD,Write-in,Nonpartisan,169,2.095,False,False
+186041,MD,Yes,Nonpartisan,202682,87.99,False,False
+186041,MD,No,Nonpartisan,27665,12.01,False,False
+155173,MD,Randy Laird,Democratic,729,51.556,False,False
+155173,MD,Ricky Thomas,Republican,684,48.373,False,False
+155173,MD,Write-in,Nonpartisan,1,0.071,False,False
+155139,MD,John D. B. Carr,Democratic,222784,98.533,False,False
+155139,MD,Write-in,Nonpartisan,3316,1.467,False,False
+155139,MD,Dave Grogan,Write-In,0,0.0,False,False
+154999,MD,Joe Vigliotti,Republican,9046,70.529,False,False
+154999,MD,Aaron M. Goldsmith,Democratic,3761,29.323,False,False
+154999,MD,Write-in,Nonpartisan,19,0.148,False,False
+155157,MD,Eric Scott Colvin,Republican,22071,60.374,False,False
+155157,MD,Sheila Milburn,Democratic,14465,39.568,False,False
+155157,MD,Write-in,Nonpartisan,21,0.057,False,False
+155017,MD,Todd Creek,Republican,22310,96.023,False,False
+155017,MD,Write-in,Nonpartisan,924,3.977,False,False
+155138,MD,Wendy Alise Cartwright,Democratic,201113,34.899,False,False
+155138,MD,Athena Malloy Groves,Democratic,189823,32.94,False,False
+155138,MD,Jason A. DeLoach,Democratic,183276,31.804,False,False
+155138,MD,Write-in,Nonpartisan,2062,0.358,False,False
+155097,MD,Byron E. Macfarlane,Democratic,92035,97.868,False,False
+155097,MD,Write-in,Nonpartisan,2005,2.132,False,False
+155156,MD,Roy H. Alvey,Republican,21044,57.461,False,False
+155156,MD,AnnMarie Abell,Democratic,15545,42.446,False,False
+155156,MD,Write-in,Nonpartisan,34,0.093,False,False
+186000,MD,Yes,Nonpartisan,130899,70.201,False,False
+186000,MD,No,Nonpartisan,55563,29.799,False,False
+155147,MD,Barry Donadio,Republican,13233,66.847,False,False
+155147,MD,Lamont D. Wright Sr.,Unaffiliated,6454,32.603,False,False
+155147,MD,Write-in,Nonpartisan,109,0.551,False,False
+155199,MD,Linda Murray,Nonpartisan,21858,21.798,False,False
+155199,MD,Pieter Bickford,Nonpartisan,21734,21.674,False,False
+155199,MD,Mike Guessford,Nonpartisan,20538,20.481,False,False
+155199,MD,Robin A. Merchant-Spickler,Nonpartisan,19773,19.719,False,False
+155199,MD,Darrell E. Evans,Nonpartisan,15813,15.769,False,False
+155199,MD,Write-in,Nonpartisan,560,0.558,False,False
+154842,MD,Mary Washington,Democratic,37297,98.79,True,False
+154842,MD,Write-in,Nonpartisan,457,1.21,False,False
+155190,MD,Mike Butler,Nonpartisan,1525,69.161,False,False
+155190,MD,Emily L. Jackson,Nonpartisan,672,30.476,False,False
+155190,MD,Write-in,Nonpartisan,8,0.363,False,False
+154801,MD,Paul D. Corderman,Republican,23212,54.694,True,False
+154801,MD,Eric Martin Van Buren,Democratic,19183,45.2,False,False
+154801,MD,Write-in,Nonpartisan,45,0.106,False,False
+186036,MD,Yes,Nonpartisan,176755,76.397,False,False
+186036,MD,No,Nonpartisan,54608,23.603,False,False
+155043,MD,Jerome Junior Harris,Democratic,3035,96.81,False,False
+155043,MD,Write-in,Nonpartisan,100,3.19,False,False
+155102,MD,Sherise L. Kennard,Democratic,5344,97.804,False,False
+155102,MD,Write-in,Nonpartisan,120,2.196,False,False
+155061,MD,S. Larry Tichnell,Republican,7291,79.989,False,False
+155061,MD,Jeff Hovis,Democratic,1789,19.627,False,False
+155061,MD,Write-in,Nonpartisan,35,0.384,False,False
+154896,MD,Mike Griffith,Republican,24419,34.515,True,False
+154896,MD,Teresa Reilly,Republican,22198,31.376,True,False
+154896,MD,Gregory V. Anderson,Democratic,12487,17.65,False,False
+154896,MD,Michael A. Eckels Jr.,Democratic,11579,16.366,False,False
+154896,MD,Write-in,Nonpartisan,66,0.093,False,False
+154887,MD,Dylan Behler,Democratic,23274,49.133,True,False
+154887,MD,Dana Jones,Democratic,22843,48.224,True,False
+154887,MD,Write-in,Nonpartisan,1252,2.643,False,False
+155225,MD,Joseph M. Mitrecic,Republican,2219,97.154,False,False
+155225,MD,Write-in,Nonpartisan,65,2.846,False,False
+155060,MD,Casey Day,Nonpartisan,43708,14.748,False,False
+155060,MD,Rae Gallagher,Nonpartisan,41060,13.854,False,False
+155060,MD,Dean Rose,Nonpartisan,39753,13.413,False,False
+155060,MD,Heather Fletcher,Nonpartisan,39462,13.315,False,False
+155060,MD,Shelley L. Potter,Nonpartisan,36232,12.225,False,False
+155060,MD,Chad King Wilson Sr.,Nonpartisan,35526,11.987,False,False
+155060,MD,Tyler Walker,Nonpartisan,31004,10.461,False,False
+155060,MD,Geoffrey Seidel,Nonpartisan,28801,9.718,False,False
+155060,MD,Write-in,Nonpartisan,823,0.278,False,False
+155051,MD,Jamie Shopland,Democratic,10131,51.487,False,False
+155051,MD,Dan Iampieri,Republican,9521,48.386,False,False
+155051,MD,Write-in,Nonpartisan,25,0.127,False,False
+154886,MD,Todd B. Morgan,Republican,10811,56.217,True,False
+154886,MD,Shaara Watts,Democratic,8386,43.607,False,False
+154886,MD,Write-in,Nonpartisan,34,0.177,False,False
+155162,MD,Jaymi Sterling,Republican,28972,97.085,False,False
+155162,MD,Write-in,Nonpartisan,870,2.915,False,False
+155069,MD,Sadie M. Liller,Nonpartisan,6927,98.633,False,False
+155069,MD,Write-in,Nonpartisan,96,1.367,False,False
+155096,MD,Jen Terrasa,Democratic,91728,97.758,False,False
+155096,MD,Write-in,Nonpartisan,2104,2.242,False,False
+154988,MD,Margaret H. Phipps,Democratic,18714,55.879,False,False
+154988,MD,Mark S. Lynch,Republican,14758,44.067,False,False
+154988,MD,Write-in,Nonpartisan,18,0.054,False,False
+155087,MD,Robert S. Wagner,Nonpartisan,6510,50.563,False,False
+155087,MD,Aaron D. Boyle,Nonpartisan,6181,48.008,False,False
+155087,MD,Write-in,Nonpartisan,184,1.429,False,False
+155146,MD,Patrick McLaughlin,Republican,13761,64.509,False,False
+155146,MD,Andrea Alduino,Democratic,7555,35.416,False,False
+155146,MD,Write-in,Nonpartisan,16,0.075,False,False
+154814,MD,Brian J. Feldman,Democratic,40804,96.256,True,False
+154814,MD,Write-in,Nonpartisan,1587,3.744,False,False
+155189,MD,Amy R. Dodson,Nonpartisan,1225,58.057,False,False
+155189,MD,Anne F. Rosen,Nonpartisan,869,41.185,False,False
+155189,MD,Write-in,Nonpartisan,16,0.758,False,False
+155024,MD,McKayla Wilkes,Democratic,12306,86.895,False,False
+155024,MD,Julian D. Clark,Republican,1834,12.95,False,False
+155024,MD,Write-in,Nonpartisan,22,0.155,False,False
+155207,MD,Megan Outten,Democratic,1789,44.972,False,False
+155207,MD,Ross Evans,Republican,1510,37.959,False,False
+155207,MD,Joe Venosa,Unaffiliated,675,16.968,False,False
+155207,MD,Write-in,Nonpartisan,4,0.101,False,False
+155042,MD,Terry Dayton Wheatley,Democratic,5519,51.666,False,False
+155042,MD,"Walter ""Dan"" Kurth",Republican,5156,48.268,False,False
+155042,MD,Write-in,Nonpartisan,7,0.066,False,False
+155136,MD,Qiana Johnson,Democratic,221011,98.867,False,False
+155136,MD,Write-in,Nonpartisan,2532,1.133,False,False
+155188,MD,Xavier A. Rahim,Nonpartisan,798,96.845,False,False
+155188,MD,Write-in,Nonpartisan,26,3.155,False,False
+155154,MD,Linda Kohler,Nonpartisan,8514,52.468,False,False
+155154,MD,Mark Wade Jr.,Nonpartisan,7547,46.509,False,False
+155154,MD,Write-in,Nonpartisan,166,1.023,False,False
+155206,MD,"Michael ""Hooch"" Houck",Republican,3706,69.362,False,False
+155206,MD,Sarah Ashley,Democratic,1632,30.545,False,False
+155206,MD,Write-in,Nonpartisan,5,0.094,False,False
+186025,MD,Yes,Nonpartisan,146825,65.949,False,False
+186025,MD,No,Nonpartisan,75808,34.051,False,False
+155197,MD,Debra Breeding,Republican,23179,18.745,False,False
+155197,MD,Paul D. Banister,Republican,22909,18.526,False,False
+155197,MD,Jim Nipps,Republican,22406,18.119,False,False
+155197,MD,Melinda S. Malott,Democratic,19976,16.154,False,False
+155197,MD,Mark P. Brugh,Democratic,17623,14.252,False,False
+155197,MD,Shawn Perry,Democratic,17509,14.159,False,False
+155197,MD,Write-in,Nonpartisan,55,0.044,False,False
+155224,MD,Lou H. Taylor,Republican,2699,96.496,False,False
+155224,MD,Write-in,Nonpartisan,98,3.504,False,False
+186043,MD,Yes,Nonpartisan,206196,86.518,False,False
+186043,MD,No,Nonpartisan,32130,13.482,False,False
+155215,MD,Susan W. Beauchamp,Nonpartisan,2408,71.433,False,False
+155215,MD,Seth C. Roberts,Nonpartisan,900,26.698,False,False
+155215,MD,Write-in,Nonpartisan,63,1.869,False,False
+155050,MD,Louisa Conklin,Democratic,12296,56.239,False,False
+155050,MD,Frank J. Hollewa,Republican,9542,43.643,False,False
+155050,MD,Write-in,Nonpartisan,26,0.119,False,False
+154917,MD,Deni Taveras,Democratic,5178,98.61,True,False
+154917,MD,Write-in,Nonpartisan,73,1.39,False,False
+155068,MD,Bryson Meyers,Republican,8345,99.133,False,False
+155068,MD,Write-in,Nonpartisan,73,0.867,False,False
+155127,MD,Victor Ramirez,Democratic,13132,98.522,False,False
+155127,MD,Write-in,Nonpartisan,197,1.478,False,False
+154894,MD,Andre V. Johnson Jr.,Democratic,19789,42.42,True,False
+154894,MD,Steve Johnson,Democratic,15457,33.134,True,False
+154894,MD,Elliott Joseph Herneker,Republican,11146,23.893,False,False
+154894,MD,Write-in,Nonpartisan,258,0.553,False,False
+154953,MD,Ivan J. Bates,Democratic,114672,98.894,False,False
+154953,MD,Write-in,Nonpartisan,1283,1.106,False,False
+155040,MD,Kenneth E. Thalheimer,Republican,8260,95.558,False,False
+155040,MD,Write-in,Nonpartisan,384,4.442,False,False
+155067,MD,Michael Beard,Republican,6234,33.307,False,False
+155067,MD,Jeffrey D. Murphy,Republican,6233,33.301,False,False
+155067,MD,John Ross Sines,Republican,6135,32.778,False,False
+155067,MD,Write-in,Nonpartisan,115,0.614,False,False
+186010,MD,Yes,Nonpartisan,90438,76.833,False,False
+186010,MD,No,Nonpartisan,27270,23.167,False,False
+154893,MD,Heather A. Bagnall,Democratic,12594,61.608,True,False
+154893,MD,Kristin M. Norris,Republican,7822,38.264,False,False
+154893,MD,Write-in,Nonpartisan,26,0.127,False,False
+154977,MD,Brenda Hatcher-Savoy,Nonpartisan,27226,98.688,False,False
+154977,MD,Write-in,Nonpartisan,362,1.312,False,False
+154884,MD,Matt Morgan,Republican,11709,64.906,True,False
+154884,MD,Jennifer Lynn Clancy,Democratic,6324,35.055,False,False
+154884,MD,Write-in,Nonpartisan,7,0.039,False,False
+155135,MD,Tara Jackson,Democratic,225847,99.127,False,False
+155135,MD,Write-in,Nonpartisan,1990,0.873,False,False
+154803,MD,Lara Westdorp,Democratic,30870,51.899,False,False
+154803,MD,"William ""Bill"" Folden",Republican,28565,48.024,False,False
+154803,MD,Write-in,Nonpartisan,46,0.077,False,False
+154902,MD,Josh Hastings,Democratic,8189,60.605,True,False
+154902,MD,Barry S. Beauchamp,Republican,5309,39.291,False,False
+154902,MD,Write-in,Nonpartisan,14,0.104,False,False
+155153,MD,Gary Hofmann,Republican,17794,97.861,False,False
+155153,MD,Write-in,Nonpartisan,389,2.139,False,False
+154821,MD,Alonzo T. Washington,Democratic,29563,92.622,True,False
+154821,MD,Jim Wass,Republican,2279,7.14,False,False
+154821,MD,Write-in,Nonpartisan,76,0.238,False,False
+155196,MD,Lacy M. Flook,Republican,33449,96.92,False,False
+155196,MD,Write-in,Nonpartisan,1063,3.08,False,False
+154839,MD,Antonio Hayes,Democratic,27646,89.066,True,False
+154839,MD,Alan Rebar,Working Class Party,3284,10.58,False,False
+154839,MD,Write-in,Nonpartisan,110,0.354,False,False
+155022,MD,"Gilbert ""BJ"" Bowling",Democratic,9932,62.789,False,False
+155022,MD,"Walton ""Walt"" Merchant",Republican,5847,36.964,False,False
+155022,MD,Write-in,Nonpartisan,39,0.247,False,False
+154857,MD,Lauren Arikan,Republican,12304,60.866,True,False
+154857,MD,Candace Hart,Democratic,7893,39.045,False,False
+154857,MD,Write-in,Nonpartisan,18,0.089,False,False
+154951,MD,Stacey Scott,Democratic,106391,20.162,False,False
+154951,MD,Loni Moyer,Democratic,102833,19.488,False,False
+154951,MD,Matt O'Connell,Democratic,100659,19.076,False,False
+154951,MD,Maureen Carr-York,Republican,75587,14.324,False,False
+154951,MD,Tony McConkey,Republican,72296,13.701,False,False
+154951,MD,Alan Rzepkowski,Republican,69505,13.172,False,False
+154951,MD,Write-in,Nonpartisan,415,0.079,False,False
+155195,MD,Kevin R. Tucker,Republican,33657,97.019,False,False
+155195,MD,Write-in,Nonpartisan,1034,2.981,False,False
+154962,MD,Makeda Scott,Democratic,22160,85.765,False,False
+154962,MD,Chike Anyanwu,Republican,3641,14.092,False,False
+154962,MD,Write-in,Nonpartisan,37,0.143,False,False
+155021,MD,Amanda Stewart,Democratic,44896,76.578,False,False
+155021,MD,Joe Crawford,Republican,13573,23.151,False,False
+155021,MD,Write-in,Nonpartisan,159,0.271,False,False
+155080,MD,Michelle L. Karczeski,Republican,55439,58.213,False,False
+155080,MD,Matthew J. Brown,Democratic,39712,41.699,False,False
+155080,MD,Write-in,Nonpartisan,83,0.087,False,False
+155204,MD,Erin Patterson,Democratic,2134,53.457,False,False
+155204,MD,Bobby Lee Leath Jr.,Republican,1853,46.418,False,False
+155204,MD,Write-in,Nonpartisan,5,0.125,False,False
+155039,MD,Mike Detmer,Republican,1837,77.088,False,False
+155039,MD,Semuel Thompson Jr.,Democratic,538,22.577,False,False
+155039,MD,Write-in,Nonpartisan,8,0.336,False,False
+155098,MD,Marcus Harris,Democratic,92019,97.797,False,False
+155098,MD,Write-in,Nonpartisan,2073,2.203,False,False
+155030,MD,Troy Berry,Democratic,51820,98.375,False,False
+155030,MD,Write-in,Nonpartisan,856,1.625,False,False
+186009,MD,Yes,Nonpartisan,87793,75.457,False,False
+186009,MD,No,Nonpartisan,28555,24.543,False,False
+154924,MD,Julia Ann Minner,Nonpartisan,70136,98.434,False,False
+154924,MD,Write-in,Nonpartisan,1116,1.566,False,False
+154883,MD,Debra Davis,Democratic,40475,28.107,True,False
+154883,MD,Abena Affum-McAllister,Democratic,39436,27.385,True,False
+154883,MD,Edith J. Patterson,Democratic,38127,26.476,True,False
+154883,MD,James Emerson Ashburn,Republican,13050,9.062,False,False
+154883,MD,Winfield W. Clark Jr.,Republican,12338,8.568,False,False
+154883,MD,Write-in,Nonpartisan,578,0.401,False,False
+155159,MD,John O'Connor,Republican,16893,46.336,False,False
+155159,MD,Joshua Kyte,Democratic,14025,38.469,False,False
+155159,MD,Mike Alderson Jr.,Unaffiliated,5513,15.122,False,False
+155159,MD,Write-in,Nonpartisan,27,0.074,False,False
+154901,MD,C. L. Marshall III,Republican,9730,57.615,True,False
+154901,MD,Shelley Johnson,Democratic,7148,42.326,False,False
+154901,MD,Write-in,Nonpartisan,10,0.059,False,False
+155177,MD,Stephen Willing,Republican,4240,34.407,False,False
+155177,MD,Libby Hall,Republican,3951,32.062,False,False
+155177,MD,Kathleen L. Crossan,Republican,3870,31.405,False,False
+155177,MD,Write-in,Nonpartisan,262,2.126,False,False
+154882,MD,Mark N. Fisher,Republican,10852,54.579,True,False
+154882,MD,Jennifer M. Davidson,Democratic,9011,45.32,False,False
+154882,MD,Write-in,Nonpartisan,20,0.101,False,False
+155065,MD,Bill Bittinger,Republican,8272,99.161,False,False
+155065,MD,Write-in,Nonpartisan,70,0.839,False,False
+154900,MD,Tom Hutchinson,Republican,22634,30.137,True,False
+154900,MD,Chris Adams,Republican,21683,28.871,True,False
+154900,MD,Michele W. Johnson,Democratic,15877,21.14,False,False
+154900,MD,Edmund J. Barrett,Democratic,14874,19.805,False,False
+154900,MD,Write-in,Nonpartisan,35,0.047,False,False
+155208,MD,Jamie Dykes,Republican,22025,94.817,False,False
+155208,MD,Write-in,Nonpartisan,1204,5.183,False,False
+154891,MD,Andrew C. Pruski,Democratic,13377,96.217,True,False
+154891,MD,Write-in,Nonpartisan,526,3.783,False,False
+154950,MD,Jasmine M. Jackson,Democratic,115200,59.032,False,False
+154950,MD,Jason D. Lambert,Republican,79801,40.892,False,False
+154950,MD,Write-in,Nonpartisan,148,0.076,False,False
+154810,MD,Shelly L. Hettleman,Democratic,37812,76.339,True,False
+154810,MD,Jim Simpson,Republican,11668,23.556,False,False
+154810,MD,Write-in,Nonpartisan,52,0.105,False,False
+155133,MD,Edward Burroughs III,Democratic,24288,98.627,False,False
+155133,MD,Write-in,Nonpartisan,338,1.373,False,False
+154961,MD,Ruben Amaya,Democratic,21315,83.203,False,False
+154961,MD,James Amos,Republican,4261,16.633,False,False
+154961,MD,Write-in,Nonpartisan,42,0.164,False,False
+186004,MD,Yes,Nonpartisan,105572,86.544,False,False
+186004,MD,No,Nonpartisan,16415,13.456,False,False
+155151,MD,Laura Nan Cook,Republican,16675,98.129,False,False
+155151,MD,Write-in,Nonpartisan,318,1.871,False,False
+155203,MD,Habacuc Petion,Democratic,1581,76.599,False,False
+155203,MD,Tony Hilligoss,Republican,479,23.207,False,False
+155203,MD,Write-in,Nonpartisan,4,0.194,False,False
+186022,MD,Yes,Nonpartisan,160254,70.238,False,False
+186022,MD,No,Nonpartisan,67906,29.762,False,False
+155029,MD,Darlene M. Breck,Democratic,40530,30.041,False,False
+155029,MD,Tisha R. Tyler,Democratic,39957,29.617,False,False
+155029,MD,Russell Yates,Democratic,38571,28.589,False,False
+155029,MD,Angela Parker,Republican,15322,11.357,False,False
+155029,MD,Write-in,Nonpartisan,534,0.396,False,False
+154864,MD,Jessica Feldmark,Democratic,27283,45.864,True,False
+154864,MD,Terri Hill,Democratic,24769,41.638,True,False
+154864,MD,Frank Glover,Republican,7200,12.103,False,False
+154864,MD,Write-in,Nonpartisan,235,0.395,False,False
+154855,MD,Bob Long,Republican,17041,18.793,False,False
+154855,MD,Ric Metzgar,Republican,16217,17.884,False,False
+154855,MD,Robin L. Grammer,Republican,16014,17.66,False,False
+154855,MD,Megan Ann Mioduszewski,Democratic,14247,15.712,False,False
+154855,MD,Artus W. Huffman,Democratic,13566,14.961,False,False
+154855,MD,Rayneika Robinson,Democratic,13460,14.844,False,False
+154855,MD,Write-in,Nonpartisan,133,0.147,False,False
+155193,MD,John McElroy,Republican,33640,96.34,False,False
+155193,MD,Write-in,Nonpartisan,1278,3.66,False,False
+155028,MD,Loraine Davies Hennessy,Democratic,46399,78.984,False,False
+155028,MD,Latisha Shorter,Republican,12282,20.907,False,False
+155028,MD,Write-in,Nonpartisan,64,0.109,False,False
+155019,MD,Sheila A. Tome,Nonpartisan,14725,62.766,False,False
+155019,MD,Brian Hampton,Nonpartisan,8619,36.739,False,False
+155019,MD,Write-in,Nonpartisan,116,0.494,False,False
+154854,MD,Chris Tomlinson,Republican,30787,19.686,True,False
+154854,MD,April R. Rose,Republican,30607,19.571,True,False
+154854,MD,Steve Whisler,Republican,29552,18.897,True,False
+154854,MD,Alison Rudolph,Democratic,22572,14.433,False,False
+154854,MD,Dayana Bergman,Democratic,21831,13.96,False,False
+154854,MD,Courtney Alexa Welch,Democratic,20881,13.352,False,False
+154854,MD,Write-in,Nonpartisan,158,0.101,False,False
+154913,MD,Aletheia McCaskill,Democratic,23261,45.321,True,False
+154913,MD,Sheila Ruth,Democratic,22405,43.653,True,False
+154913,MD,Domonic Martin,Republican,5482,10.681,False,False
+154913,MD,Write-in,Nonpartisan,177,0.345,False,False
+155037,MD,Ricky C. Travers,Democratic,1481,65.91,False,False
+155037,MD,Grady Wilson Jr.,Republican,764,34.001,False,False
+155037,MD,Write-in,Nonpartisan,2,0.089,False,False
+155064,MD,Christian Mash,Republican,8255,99.016,False,False
+155064,MD,Write-in,Nonpartisan,82,0.984,False,False
+154931,MD,Dave Caporale,Republican,12138,24.324,False,False
+154931,MD,Bill Atkinson,Republican,10488,21.018,False,False
+154931,MD,Creade Brodie Jr.,Republican,9138,18.312,False,False
+154931,MD,Chelsea Boor,Democratic,7692,15.415,False,False
+154931,MD,Kit Pepper Lescallette,Unaffiliated,5756,11.535,False,False
+154931,MD,Carol Taccino,Democratic,4564,9.146,False,False
+154931,MD,Write-in,Nonpartisan,125,0.25,False,False
+155055,MD,Charlie Smith,Republican,62039,93.828,False,False
+155055,MD,Write-in,Nonpartisan,4081,6.172,False,False
+154890,MD,J. Sandy Bartlett,Democratic,28629,24.896,True,False
+154890,MD,Mike Rogers,Democratic,27731,24.115,True,False
+154890,MD,Spencer F. Dixon,Democratic,27057,23.529,True,False
+154890,MD,Mary Phelps,Republican,11052,9.611,False,False
+154890,MD,Colin McEvers,Republican,10621,9.236,False,False
+154890,MD,Marcus Damon Snipes Jr.,Republican,9789,8.513,False,False
+154890,MD,Write-in,Nonpartisan,115,0.1,False,False
+154974,MD,Candice Logan-Washington,Nonpartisan,12676,50.869,False,False
+154974,MD,Lisa A. Mack,Nonpartisan,11992,48.124,False,False
+154974,MD,Write-in,Nonpartisan,251,1.007,False,False
+155132,MD,Krystal Oriadha,Democratic,19111,97.714,False,False
+155132,MD,Write-in,Nonpartisan,447,2.286,False,False
+154992,MD,J. Travis Breeding,Republican,6902,30.138,False,False
+154992,MD,Larry C. Porter,Republican,6303,27.523,False,False
+154992,MD,Michael A. Mann,Republican,6207,27.104,False,False
+154992,MD,Savannah Winston,Democratic,3359,14.667,False,False
+154992,MD,Write-in,Nonpartisan,130,0.568,False,False
+154958,MD,Ashley Ash Esposito,Nonpartisan,50086,27.671,False,False
+154958,MD,Domonique A. Flowers,Nonpartisan,48775,26.947,False,False
+154958,MD,Kwame Jamal Kenyatta-Bey,Nonpartisan,40684,22.477,False,False
+154958,MD,Jamar Day,Nonpartisan,40542,22.398,False,False
+154958,MD,Write-in,Nonpartisan,918,0.507,False,False
+155010,MD,Ray Conger,Republican,18801,65.742,False,False
+155010,MD,Jasmin R. Howell,Democratic,9768,34.156,False,False
+155010,MD,Write-in,Nonpartisan,29,0.101,False,False
+154880,MD,Darrell C. Odom Sr.,Democratic,15419,85.466,True,False
+154880,MD,Jim Crawford,Republican,2581,14.306,False,False
+154880,MD,Write-in,Nonpartisan,41,0.227,False,False
+155131,MD,Danielle I. Hunter,Democratic,35498,94.935,False,False
+155131,MD,Jonathan White,Republican,1746,4.669,False,False
+155131,MD,Write-in,Nonpartisan,148,0.396,False,False
+155090,MD,Kevin Chin,Democratic,17348,96.63,False,False
+155090,MD,Write-in,Nonpartisan,605,3.37,False,False
+154957,MD,Sabrina Tapp-Harper,Democratic,108667,98.75,False,False
+154957,MD,Write-in,Nonpartisan,1375,1.25,False,False
+155233,MD,Jackie Cutlip,Nonpartisan,1695,55.793,False,False
+155233,MD,Kathy Cater,Nonpartisan,1330,43.779,False,False
+155233,MD,Write-in,Nonpartisan,13,0.428,False,False
+154948,MD,Anne Colt Leitess,Democratic,141769,94.376,False,False
+154948,MD,Write-in,Nonpartisan,8448,5.624,False,False
+155192,MD,Randy Leatherman,Republican,23689,11.449,False,False
+155192,MD,Dan Young,Republican,23270,11.246,False,False
+155192,MD,Charles Burkett,Republican,22740,10.99,False,False
+155192,MD,Jeffrey A. Cline,Republican,21291,10.29,False,False
+155192,MD,John F. Barr,Republican,20111,9.719,False,False
+155192,MD,Lara A. Shepherd,Democratic,19256,9.306,False,False
+155192,MD,Dave Williams,Democratic,17554,8.484,False,False
+155192,MD,Les McIntosh Sr.,Democratic,17517,8.466,False,False
+155192,MD,Jonathan Fish,Democratic,17094,8.261,False,False
+155192,MD,Teri Pailen,Democratic,14442,6.98,False,False
+155192,MD,Taj Smith,Unaffiliated,9380,4.533,False,False
+155192,MD,Write-in,Nonpartisan,570,0.275,False,False
+186011,MD,Yes,Nonpartisan,86471,71.584,False,False
+186011,MD,No,Nonpartisan,34326,28.416,False,False
+154959,MD,Julian Jones,Democratic,151256,62.331,False,False
+154959,MD,Patrick V. Dyer,Republican,90372,37.242,False,False
+154959,MD,Write-in,Nonpartisan,1036,0.427,False,False
+154959,MD,Rob Daniels,Write-In,0,0.0,False,False
+155018,MD,Dominick F. Mannella Jr.,Nonpartisan,11314,51.026,False,False
+155018,MD,Joe Ferdinando,Nonpartisan,10677,48.153,False,False
+155018,MD,Write-in,Nonpartisan,182,0.821,False,False
+155077,MD,Douglas J. Phillips,Republican,7778,51.114,False,False
+155077,MD,Hunter Baker,Democratic,7426,48.801,False,False
+155077,MD,Write-in,Nonpartisan,13,0.085,False,False
+155036,MD,Yvonne D. Penn,Democratic,1114,98.671,False,False
+155036,MD,Write-in,Nonpartisan,15,1.329,False,False
+186047,MD,Yes,Nonpartisan,17188,62.978,False,False
+186047,MD,No,Nonpartisan,10104,37.022,False,False
+154862,MD,Cheryl E. Pasteur,Democratic,12838,98.564,True,False
+154862,MD,Write-in,Nonpartisan,187,1.436,False,False
+155113,MD,Kristin Mink,Democratic,35764,84.493,False,False
+155113,MD,Josephine Salazar,Republican,6510,15.38,False,False
+155113,MD,Write-in,Nonpartisan,54,0.128,False,False
+155008,MD,Jim DeWees,Republican,41421,65.342,False,False
+155008,MD,Gail F. Wickless,Democratic,21808,34.402,False,False
+155008,MD,Write-in,Nonpartisan,162,0.256,False,False
+155035,MD,Robert Edwin Kramer Jr.,Republican,1727,66.809,False,False
+155035,MD,David Wayne Beverley II,Democratic,853,32.998,False,False
+155035,MD,Write-in,Nonpartisan,5,0.193,False,False
+155218,MD,David Plotts,Nonpartisan,2091,61.974,False,False
+155218,MD,Kenisha LeCole,Nonpartisan,1248,36.989,False,False
+155218,MD,Write-in,Nonpartisan,35,1.037,False,False
+154861,MD,Robin Harvey,Democratic,35913,34.949,True,False
+154861,MD,Jennifer White Holland,Democratic,33519,32.619,True,False
+154861,MD,N. Scott Phillips,Democratic,32238,31.372,True,False
+154861,MD,Write-in,Nonpartisan,1089,1.06,False,False
+155144,MD,Jim Moran,Republican,14022,64.641,False,False
+155144,MD,Liz Filter,Democratic,7641,35.225,False,False
+155144,MD,Write-in,Nonpartisan,29,0.134,False,False
+154852,MD,Kris Fair,Democratic,34988,29.872,True,False
+154852,MD,Ken Kerr,Democratic,34433,29.398,True,False
+154852,MD,Karen Simpson,Democratic,34036,29.059,True,False
+154852,MD,Angela McIntosh,Republican,13091,11.177,False,False
+154852,MD,Write-in,Nonpartisan,579,0.494,False,False
+154879,MD,Veronica Turner,Democratic,38529,33.488,True,False
+154879,MD,Jamila J. Woods,Democratic,36652,31.856,True,False
+154879,MD,Kriselda Valderrama,Democratic,34807,30.253,True,False
+154879,MD,JoAnn Y. Fisher,Republican,2578,2.241,False,False
+154879,MD,Ike Puzon,Republican,2270,1.973,False,False
+154879,MD,Write-in,Nonpartisan,218,0.189,False,False
+154963,MD,Karson B. Kamenetz,Democratic,22447,82.65,False,False
+154963,MD,Gary Schuman,Republican,4675,17.213,False,False
+154963,MD,Write-in,Nonpartisan,37,0.136,False,False
+154870,MD,Julie Palakovich Carr,Democratic,34970,35.2,True,False
+154870,MD,Ryan Spiegel,Democratic,31771,31.98,True,False
+154870,MD,Joe Vogel,Democratic,31406,31.613,True,False
+154870,MD,Write-in,Nonpartisan,1199,1.207,False,False
+155089,MD,Vanessa Atterbeary,Democratic,83922,80.692,False,False
+155089,MD,Nater Kane,Green,17937,17.247,False,False
+155089,MD,Write-in,Nonpartisan,2144,2.061,False,False
+154981,MD,Patti Stueckler,Republican,15757,25.875,False,False
+154981,MD,Jason Scaggs,Republican,14551,23.894,False,False
+154981,MD,Judy Pedersen,Democratic,12725,20.896,False,False
+154981,MD,Antoine S. White,Democratic,12677,20.817,False,False
+154981,MD,Steve Jones,Unaffiliated,5095,8.367,False,False
+154981,MD,Write-in,Nonpartisan,92,0.151,False,False
+154947,MD,Dawn Pulliam,Republican,16509,52.133,False,False
+154947,MD,Spencer Jones,Democratic,15130,47.778,False,False
+154947,MD,Write-in,Nonpartisan,28,0.088,False,False
+154807,MD,Carl Jackson,Democratic,28135,71.179,True,False
+154807,MD,Yahu Blackwell,Republican,11321,28.641,False,False
+154807,MD,Write-in,Nonpartisan,71,0.18,False,False
+155182,MD,Chuck F. Callahan III,Republican,8318,11.092,False,False
+155182,MD,Pete Lesher,Democratic,8053,10.738,False,False
+155182,MD,Dave Stepp,Republican,7896,10.529,False,False
+155182,MD,Wade Strickland,Republican,7753,10.338,False,False
+155182,MD,Frank Gunsallus,Republican,7661,10.215,False,False
+155182,MD,Susan E. Delean-Botkin,Democratic,7365,9.821,False,False
+155182,MD,Christian MacKendrick,Republican,7289,9.719,False,False
+155182,MD,Marvin Foster,Democratic,6966,9.289,False,False
+155182,MD,Brian R. Naranjo,Democratic,6882,9.177,False,False
+155182,MD,Michael Bibb,Democratic,6743,8.991,False,False
+155182,MD,Write-in,Nonpartisan,68,0.091,False,False
+154825,MD,C. Anthony Muse,Democratic,41784,98.935,True,False
+154825,MD,Write-in,Nonpartisan,450,1.065,False,False
+154946,MD,Gavin Buckley,Democratic,19068,62.846,False,False
+154946,MD,George Gallagher,Republican,11152,36.756,False,False
+154946,MD,Write-in,Nonpartisan,121,0.399,False,False
+154905,MD,Tiffany Welch,Democratic,24776,33.682,True,False
+154905,MD,Marlon D. Amprey,Democratic,24718,33.603,True,False
+154905,MD,Melissa Wells,Democratic,23629,32.123,True,False
+154905,MD,Write-in,Nonpartisan,435,0.591,False,False
+155181,MD,Ron Purnell,Nonpartisan,776,61.247,False,False
+155181,MD,Vanessa F. Jones,Nonpartisan,485,38.279,False,False
+155181,MD,Write-in,Nonpartisan,6,0.474,False,False
+155048,MD,Jessica Fitzwater,Democratic,53086,55.521,False,False
+155048,MD,William J. Holtzinger,Republican,42316,44.257,False,False
+155048,MD,Write-in,Nonpartisan,213,0.223,False,False
+154955,MD,Belinda K. Conaway,Democratic,107399,89.884,False,False
+154955,MD,Andy Zipay,Republican,11667,9.764,False,False
+154955,MD,Write-in,Nonpartisan,420,0.352,False,False
+155007,MD,Margaret Peggy Bair,Republican,43828,34.236,False,False
+155007,MD,Tina Mawhinney,Republican,41283,32.248,False,False
+155007,MD,LaRue G. Lennon,Republican,40863,31.92,False,False
+155007,MD,Write-in,Nonpartisan,2043,1.596,False,False
+186018,MD,Yes,Nonpartisan,152294,65.343,False,False
+186018,MD,No,Nonpartisan,80776,34.657,False,False
+154998,MD,Patrick Troy Plutschak,Nonpartisan,2019,71.142,False,False
+154998,MD,Jean Hayhurst,Nonpartisan,802,28.259,False,False
+154998,MD,Write-in,Nonpartisan,17,0.599,False,False
+155217,MD,Bonnie H. Ennis,Nonpartisan,3316,79.028,False,False
+155217,MD,Hanson W. Egerland,Nonpartisan,826,19.685,False,False
+155217,MD,Write-in,Nonpartisan,54,1.287,False,False
+155084,MD,Keri L. Geibler,Nonpartisan,7844,63.679,False,False
+155084,MD,Dominic J. Heath,Nonpartisan,4178,33.918,False,False
+155084,MD,Write-in,Nonpartisan,296,2.403,False,False
+154851,MD,Matthew J. Schindler,Democratic,6532,65.721,True,False
+154851,MD,Brenda J. Thiam,Republican,3385,34.058,False,False
+154851,MD,Write-in,Nonpartisan,22,0.221,False,False
+154910,MD,Regina T. Boyce,Democratic,23846,54.265,True,False
+154910,MD,Elizabeth Embry,Democratic,19869,45.214,True,False
+154910,MD,Write-in,Nonpartisan,229,0.521,False,False
+154869,MD,Marc Korman,Democratic,44065,31.041,True,False
+154869,MD,Sarah Wolek,Democratic,43168,30.409,True,False
+154869,MD,Teresa Saavedra Woorman,Democratic,40499,28.529,True,False
+154869,MD,Ann Guthrie Hingston,Republican,10584,7.456,False,False
+154869,MD,Bob White,Working Class Party,3087,2.175,False,False
+154869,MD,Write-in,Nonpartisan,556,0.392,False,False
+155120,MD,Omar Lazo,Nonpartisan,134550,50.484,False,False
+155120,MD,Brenda M. Diaz,Nonpartisan,130027,48.787,False,False
+155120,MD,Write-in,Nonpartisan,1945,0.73,False,False
+155111,MD,Jud Ashman,Democratic,33392,82.653,False,False
+155111,MD,Ricky Fai Mui,Republican,6898,17.074,False,False
+155111,MD,Write-in,Nonpartisan,110,0.272,False,False
+155033,MD,Dottery A. Butler-Washington,Nonpartisan,7363,33.359,False,False
+155033,MD,Nicole M. Kreamer,Nonpartisan,5597,25.358,False,False
+155033,MD,Christopher O. J. Alberts,Nonpartisan,4827,21.869,False,False
+155033,MD,Aqsa Siddique,Nonpartisan,4152,18.811,False,False
+155033,MD,Write-in,Nonpartisan,133,0.603,False,False
+154868,MD,Linda Foley,Democratic,37096,30.971,True,False
+154868,MD,Lily Qi,Democratic,35274,29.449,True,False
+154868,MD,David V. Fraser-Hidalgo,Democratic,34890,29.129,True,False
+154868,MD,Peter Chan,Republican,11821,9.869,False,False
+154868,MD,Write-in,Nonpartisan,697,0.582,False,False
+154859,MD,Chao Wu,Democratic,21546,31.348,True,False
+154859,MD,Natalie Ziegler,Democratic,21108,30.711,True,False
+154859,MD,Fitzgerald Mofor,Republican,11957,17.397,False,False
+154859,MD,Spencer Rhoda,Republican,11546,16.799,False,False
+154859,MD,Saif Rehman,Unaffiliated,2506,3.646,False,False
+154859,MD,Write-in,Nonpartisan,69,0.1,False,False
+155110,MD,Marilyn Balcombe,Democratic,37115,96.009,False,False
+155110,MD,Write-in,Nonpartisan,1543,3.991,False,False
+155110,MD,Arian Borghei,Write-In,0,0.0,False,False
+155110,MD,Joseph Abdalla,Write-In,0,0.0,False,False
+154970,MD,Julie Ensor,Democratic,158554,66.408,False,False
+154970,MD,Christina Mulligan,Republican,80001,33.507,False,False
+154970,MD,Write-in,Nonpartisan,203,0.085,False,False
+154877,MD,Derrick L. Coley,Democratic,36472,33.835,True,False
+154877,MD,LaTasha R. Ward,Democratic,35462,32.898,True,False
+154877,MD,Andrea Fletcher Harrison,Democratic,35210,32.664,True,False
+154877,MD,Write-in,Nonpartisan,649,0.602,False,False
+154904,MD,Gabriel Acevero,Democratic,29533,33.917,True,False
+154904,MD,Lesley J. Lopez,Democratic,28217,32.405,True,False
+154904,MD,Greg Wims,Democratic,27709,31.822,True,False
+154904,MD,Write-in,Nonpartisan,1616,1.856,False,False
+155212,MD,Mike Lewis,Republican,15949,55.309,False,False
+155212,MD,Lana Foley,Democratic,12772,44.292,False,False
+155212,MD,Write-in,Nonpartisan,115,0.399,False,False
+154895,MD,Jake Taylor,Republican,9828,50.506,False,False
+154895,MD,Anthony Lyon,Democratic,9603,49.35,False,False
+154895,MD,Write-in,Nonpartisan,28,0.144,False,False
+154954,MD,Xavier A. Conaway,Democratic,109719,98.864,False,False
+154954,MD,Write-in,Nonpartisan,1261,1.136,False,False
+155230,MD,Matt Crisafulli,Republican,16013,97.789,False,False
+155230,MD,Write-in,Nonpartisan,362,2.211,False,False
+154997,MD,Donnie Baker,Republican,8310,97.398,False,False
+154997,MD,Write-in,Nonpartisan,222,2.602,False,False
+154832,MD,Dawn D. Gile,Democratic,37066,63.785,True,False
+154832,MD,Amy Leahy,Republican,20972,36.09,False,False
+154832,MD,Write-in,Nonpartisan,73,0.126,False,False
+155015,MD,Amanda J. Pierce,Republican,22314,97.843,False,False
+155015,MD,Write-in,Nonpartisan,492,2.157,False,False
+154850,MD,William J. Wivell,Republican,18014,29.438,True,False
+154850,MD,William Valentine,Republican,17752,29.01,True,False
+154850,MD,John D. Leonard,Democratic,12732,20.806,False,False
+154850,MD,Brandon Thompson,Democratic,12653,20.677,False,False
+154850,MD,Write-in,Nonpartisan,42,0.069,False,False
+154944,MD,Julie Hummer,Democratic,19978,77.926,False,False
+154944,MD,Thomas Dale Wieland,Republican,5616,21.906,False,False
+154944,MD,Write-in,Nonpartisan,43,0.168,False,False
+154996,MD,Jeff Porter,Republican,7392,36.888,False,False
+154996,MD,Ellery Adams,Republican,6483,32.352,False,False
+154996,MD,Hugh Smith,Republican,5954,29.712,False,False
+154996,MD,Write-in,Nonpartisan,210,1.048,False,False
+155179,MD,Valentina Downing,Nonpartisan,502,59.338,False,False
+155179,MD,Sharyn Yuloff,Nonpartisan,337,39.835,False,False
+155179,MD,Write-in,Nonpartisan,7,0.827,False,False
+155014,MD,Charlene M. Notarcola,Republican,19006,66.939,False,False
+155014,MD,Jamie Marshall,Democratic,9374,33.015,False,False
+155014,MD,Write-in,Nonpartisan,13,0.046,False,False
+155073,MD,Nolanda Robert,Democratic,7850,61.661,False,False
+155073,MD,Jeff Beck,Republican,4866,38.222,False,False
+155073,MD,Write-in,Nonpartisan,15,0.118,False,False
+155005,MD,Heather S. DeWees,Republican,49046,96.589,False,False
+155005,MD,Write-in,Nonpartisan,1732,3.411,False,False
+155032,MD,Jamila Smith,Nonpartisan,7320,32.869,False,False
+155032,MD,Eileen G. Parks,Nonpartisan,5868,26.349,False,False
+155032,MD,Jason Henry,Nonpartisan,5099,22.896,False,False
+155032,MD,Joseph W. Sampson Jr.,Nonpartisan,3759,16.879,False,False
+155032,MD,Write-in,Nonpartisan,224,1.006,False,False
+155091,MD,Jessica I. Nichols,Democratic,18283,98.006,False,False
+155091,MD,Write-in,Nonpartisan,372,1.994,False,False
+155023,MD,Brandon A. Paulin,Democratic,11976,78.403,False,False
+155023,MD,Eric Reed,Republican,3266,21.381,False,False
+155023,MD,Write-in,Nonpartisan,33,0.216,False,False
+155023,MD,Claytron A. Hall,Write-In,0,0.0,False,False
+154858,MD,Nick Allen,Democratic,25028,23.451,True,False
+154858,MD,Harry Bhandari,Democratic,24609,23.059,True,False
+154858,MD,Kim L. Ross,Democratic,24412,22.874,True,False
+154858,MD,Brian A. Campbell,Republican,11523,10.797,False,False
+154858,MD,Glen Geelhaar,Republican,10535,9.871,False,False
+154858,MD,Steven J. Riemer,Republican,10469,9.809,False,False
+154858,MD,Write-in,Nonpartisan,148,0.139,False,False
+155141,MD,Juan Arango-Millan,Nonpartisan,8368,58.375,False,False
+155141,MD,Jamie McGonnigal,Nonpartisan,5892,41.102,False,False
+155141,MD,Write-in,Nonpartisan,75,0.523,False,False
+154876,MD,Marvin E. Holmes Jr.,Democratic,47319,31.692,True,False
+154876,MD,Kym Taylor,Democratic,45744,30.637,True,False
+154876,MD,Keenon James,Democratic,44663,29.913,True,False
+154876,MD,Kimberly Simmons Robinson,Republican,5296,3.547,False,False
+154876,MD,Michael Riker,Republican,5283,3.538,False,False
+154876,MD,Write-in,Nonpartisan,1006,0.674,False,False
+154876,MD,Lisa Russell,Write-In,0,0.0,False,False
+154935,MD,Craig Robertson,Republican,13971,37.375,False,False
+154935,MD,Penny Lyn Walker,Republican,11593,31.013,False,False
+154935,MD,Edward C. Crossland,Republican,11493,30.746,False,False
+154935,MD,Write-in,Nonpartisan,324,0.867,False,False
+155118,MD,Barbara Ebel,Democratic,247628,81.457,False,False
+155118,MD,T. Dolores Reyes,Republican,55835,18.367,False,False
+155118,MD,Write-in,Nonpartisan,535,0.176,False,False
+155170,MD,Darryl K. Webster,Republican,719,93.864,False,False
+155170,MD,Write-in,Nonpartisan,47,6.136,False,False
+154848,MD,Jason C. Buckel,Republican,8789,58.597,True,False
+154848,MD,Rhiannon C. Brown,Democratic,6198,41.323,False,False
+154848,MD,Write-in,Nonpartisan,12,0.08,False,False
+154875,MD,Tracy Gant,Democratic,26460,35.788,True,False
+154875,MD,Ashanti Martinez,Democratic,24036,32.509,True,False
+154875,MD,Molly McKee-Seabrook,Democratic,22917,30.996,True,False
+154875,MD,Write-in,Nonpartisan,523,0.707,False,False
+155058,MD,Susan Reeder Jessee,Democratic,50009,19.23,False,False
+155058,MD,Shuan Butcher,Democratic,48951,18.823,False,False
+155058,MD,Lois Jarman,Democratic,48435,18.625,False,False
+155058,MD,Susan W. Wilson,Republican,38053,14.633,False,False
+155058,MD,Karen Dacey,Republican,37580,14.451,False,False
+155058,MD,Rebecca Chmelik,Republican,36899,14.189,False,False
+155058,MD,Write-in,Nonpartisan,128,0.049,False,False
+155117,MD,Karen Bushell,Democratic,261947,98.02,False,False
+155117,MD,Write-in,Nonpartisan,5291,1.98,False,False
+155201,MD,Shanie P. Shields,Democratic,2856,96.421,False,False
+155201,MD,Write-in,Nonpartisan,106,3.579,False,False
+155108,MD,Laurie-Anne Sayles,Democratic,229435,23.207,False,False
+155108,MD,Scott Evan Goldberg,Democratic,228991,23.163,False,False
+155108,MD,Karla Silvestre,Democratic,226732,22.934,False,False
+155108,MD,Marc Elrich,Democratic,226461,22.907,False,False
+155108,MD,Sherwin Wells,Republican,70854,7.167,False,False
+155108,MD,Write-in,Nonpartisan,6155,0.623,False,False
+154943,MD,Nathan Volke,Republican,18337,60.293,False,False
+154943,MD,Rebecca Baucom,Democratic,12048,39.615,False,False
+154943,MD,Write-in,Nonpartisan,28,0.092,False,False
+155219,MD,Caryn Abbott,Republican,1877,93.198,False,False
+155219,MD,Write-in,Nonpartisan,137,6.802,False,False
+155126,MD,Michelle García,Democratic,22606,98.738,False,False
+155126,MD,Write-in,Nonpartisan,289,1.262,False,False
+155178,MD,Ronald Howard,Republican,5418,97.045,False,False
+155178,MD,Write-in,Nonpartisan,165,2.955,False,False
+155045,MD,Mark K. Lewis,Republican,6885,63.892,False,False
+155045,MD,Christine LaMonica,Democratic,3866,35.876,False,False
+155045,MD,Write-in,Nonpartisan,25,0.232,False,False
+155004,MD,George Psoras,Republican,47934,94.977,False,False
+155004,MD,Write-in,Nonpartisan,2535,5.023,False,False
+186015,MD,Yes,Nonpartisan,133735,59.381,False,False
+186015,MD,No,Nonpartisan,91481,40.619,False,False
+154830,MD,Nicholaus Kipke,Republican,29612,54.383,True,False
+154830,MD,Brent Mulrooney,Democratic,24783,45.514,False,False
+154830,MD,Write-in,Nonpartisan,56,0.103,False,False
+186033,MD,No,Nonpartisan,61899,54.289,False,False
+186033,MD,Yes,Nonpartisan,52119,45.711,False,False
+155168,MD,Kim D. Summers,Nonpartisan,26554,98.637,False,False
+155168,MD,Write-in,Nonpartisan,367,1.363,False,False
+155003,MD,Susan W. Krebs,Republican,7609,56.924,False,False
+155003,MD,Megan Foelber,Democratic,5744,42.971,False,False
+155003,MD,Write-in,Nonpartisan,14,0.105,False,False
+155186,MD,Michelle Ewing,Republican,8725,26.525,False,False
+155186,MD,Elizabeth A. Ferguson,Republican,8560,26.024,False,False
+155186,MD,Carol van Erven,Republican,8246,25.069,False,False
+155186,MD,Philip Carey Foster,Democratic,7199,21.886,False,False
+155186,MD,Write-in,Nonpartisan,163,0.496,False,False
+154829,MD,Shaneka T. Henson,Democratic,31776,58.918,True,False
+154829,MD,Jessica Haire,Republican,22043,40.871,False,False
+154829,MD,Write-in,Nonpartisan,114,0.211,False,False
+154888,MD,Seth Howard,Republican,9701,51.725,True,False
+154888,MD,Matt Johnston,Democratic,9043,48.216,False,False
+154888,MD,Write-in,Nonpartisan,11,0.059,False,False
+155012,MD,Wayne L. Tome Sr.,Republican,22030,96.466,False,False
+155012,MD,Write-in,Nonpartisan,807,3.534,False,False
+154847,MD,Dan Duggan,Republican,11438,75.518,True,False
+154847,MD,Jason M. Jobe,Democratic,3670,24.231,False,False
+154847,MD,Write-in,Nonpartisan,38,0.251,False,False
+154906,MD,"S. I. ""Sandy"" Rosenberg",Democratic,31067,34.918,True,False
+154906,MD,Sean A. Stinnett,Democratic,28668,32.221,True,False
+154906,MD,Ryan Turner,Democratic,28652,32.203,True,False
+154906,MD,Write-in,Nonpartisan,585,0.658,False,False
+154838,MD,Amar Mukunda,Democratic,32544,96.866,True,False
+154838,MD,Write-in,Nonpartisan,1053,3.134,False,False
+155057,MD,Chris Manners,Democratic,50104,53.542,False,False
+155057,MD,Mary C. Rolle,Republican,43436,46.416,False,False
+155057,MD,Write-in,Nonpartisan,39,0.042,False,False
+155148,MD,Chris Corchiarino,Republican,16055,97.291,False,False
+155148,MD,Write-in,Nonpartisan,447,2.709,False,False
+155107,MD,Will Jawando,Democratic,243415,77.901,False,False
+155107,MD,Esther Wells,Republican,67869,21.72,False,False
+155107,MD,Write-in,Nonpartisan,1185,0.379,False,False
+154967,MD,Josh Sines,Republican,14144,54.073,False,False
+154967,MD,Sharonda Dillard-Huffman,Democratic,11993,45.85,False,False
+154967,MD,Write-in,Nonpartisan,20,0.076,False,False
+155125,MD,Sydney Harrison,Democratic,197977,50.581,False,False
+155125,MD,Jolene Ivey,Democratic,189861,48.508,False,False
+155125,MD,Write-in,Nonpartisan,3564,0.911,False,False
+154985,MD,Amanda N. Dolina,Republican,23629,96.174,False,False
+154985,MD,Write-in,Nonpartisan,940,3.826,False,False
+155106,MD,Trish McGee,Nonpartisan,5019,43.278,False,False
+155106,MD,Cameron Brooks,Nonpartisan,2929,25.257,False,False
+155106,MD,Zeke Falcon,Nonpartisan,2716,23.42,False,False
+155106,MD,Write-in,Nonpartisan,933,8.045,False,False
+155106,MD,Frank B. Rhodes,Write-In,0,0.0,False,False
+154873,MD,David Moon,Democratic,35389,33.334,True,False
+154873,MD,Lorig Charkoudian,Democratic,35224,33.179,True,False
+154873,MD,Jheanelle K. Wilkins,Democratic,34769,32.75,True,False
+154873,MD,Write-in,Nonpartisan,783,0.738,False,False
+155124,MD,Aisha Braveboy,Democratic,186948,83.344,False,False
+155124,MD,Write-in,Nonpartisan,37362,16.656,False,False
+155124,MD,Moisette Tonya Sweat,Write-In,0,0.0,False,False
+155016,MD,Carolyn L. Crouch,Republican,16475,25.272,False,False
+155016,MD,Donna Caudell,Republican,15300,23.47,False,False
+155016,MD,Jackie Gregory,Republican,15226,23.356,False,False
+155016,MD,Teresa M. DiFabbio-Crawley,Democratic,9302,14.269,False,False
+155016,MD,David M. Schaeffer Sr.,Democratic,8624,13.229,False,False
+155016,MD,Write-in,Nonpartisan,263,0.403,False,False
+155115,MD,Dawn Luedtke,Democratic,33751,72.659,False,False
+155115,MD,Harold Maldonado,Republican,12617,27.162,False,False
+155115,MD,Write-in,Nonpartisan,83,0.179,False,False
+155167,MD,Liz Cooper,Nonpartisan,15742,53.729,False,False
+155167,MD,Dorothy Andrews,Nonpartisan,13266,45.278,False,False
+155167,MD,Write-in,Nonpartisan,291,0.993,False,False
+155226,MD,Kris Heiser,Republican,15902,97.07,False,False
+155226,MD,Write-in,Nonpartisan,480,2.93,False,False
+154941,MD,Kelly M. Smith,Democratic,15742,65.466,False,False
+154941,MD,Justin Sherlock,Republican,8288,34.467,False,False
+154941,MD,Write-in,Nonpartisan,16,0.067,False,False
+155185,MD,"Patricia ""Patti"" E. Campen",Democratic,12031,98.036,False,False
+155185,MD,Write-in,Nonpartisan,241,1.964,False,False
+155052,MD,Christian Benford,Democratic,11471,72.606,False,False
+155052,MD,Tammie Baugher,Republican,4306,27.255,False,False
+155052,MD,Write-in,Nonpartisan,22,0.139,False,False
+155011,MD,Al Miller,Republican,19365,67.214,False,False
+155011,MD,Krystal Gorman,Democratic,9389,32.588,False,False
+155011,MD,Write-in,Nonpartisan,57,0.198,False,False
+155070,MD,Rodney B. Glotfelty,Nonpartisan,7340,98.935,False,False
+155070,MD,Write-in,Nonpartisan,79,1.065,False,False
+154837,MD,Mary Beth Carozza,Republican,31748,61.233,True,False
+154837,MD,Lino V. Cressotti,Democratic,20067,38.704,False,False
+154837,MD,Write-in,Nonpartisan,33,0.064,False,False
+186040,MD,Yes,Nonpartisan,191967,83.73,False,False
+186040,MD,No,Nonpartisan,37302,16.27,False,False
+186031,MD,Yes,Nonpartisan,75787,82.616,False,False
+186031,MD,No,Nonpartisan,15947,17.384,False,False
+155001,MD,Tom Gordon,Republican,6703,58.84,False,False
+155001,MD,Dennis E. Frazier,Democratic,4681,41.09,False,False
+155001,MD,Write-in,Nonpartisan,8,0.07,False,False
+154836,MD,Johnny Mautz,Republican,29419,55.24,True,False
+154836,MD,Katie G. Clendaniel,Democratic,23819,44.725,False,False
+154836,MD,Write-in,Nonpartisan,19,0.036,False,False
+154827,MD,C. T. Wilson,Democratic,48477,97.024,True,False
+154827,MD,Write-in,Nonpartisan,1487,2.976,False,False
+186030,MD,Yes,Nonpartisan,8222,81.213,False,False
+186030,MD,No,Nonpartisan,1902,18.787,False,False
+155137,MD,Jocelyn Route,Democratic,221800,99.208,False,False
+155137,MD,Write-in,Nonpartisan,1770,0.792,False,False
+154845,MD,Bill Ferguson,Democratic,30467,87.665,True,False
+154845,MD,Emmanuel Digman,Republican,4065,11.696,False,False
+154845,MD,Write-in,Nonpartisan,222,0.639,False,False
+154872,MD,Charlotte Crutchfield,Democratic,34180,34.188,True,False
+154872,MD,Vaughn Stewart,Democratic,32307,32.314,True,False
+154872,MD,Christa Tichy,Democratic,31806,31.813,True,False
+154872,MD,Write-in,Nonpartisan,1684,1.684,False,False
+155155,MD,Shannon Long Bent,Nonpartisan,8243,53.439,False,False
+155155,MD,Chris Blanton,Nonpartisan,7039,45.634,False,False
+155155,MD,Write-in,Nonpartisan,143,0.927,False,False
+154863,MD,Jon S. Cardin,Democratic,24250,42.625,True,False
+154863,MD,Dana Stein,Democratic,22147,38.928,True,False
+154863,MD,John C. Gordon,Republican,10322,18.143,False,False
+154863,MD,Write-in,Nonpartisan,173,0.304,False,False
+155114,MD,Natali Fani-González,Democratic,30392,81.946,False,False
+155114,MD,Louella Tham,Republican,6551,17.663,False,False
+155114,MD,Write-in,Nonpartisan,145,0.391,False,False
+155198,MD,Brian K. Albert,Republican,26802,59.573,False,False
+155198,MD,Junior P. McLeod,Democratic,18124,40.285,False,False
+155198,MD,Write-in,Nonpartisan,64,0.142,False,False
+154940,MD,Allison M. Pickard,Democratic,116839,58.534,False,False
+154940,MD,Dave Crawford,Republican,82521,41.341,False,False
+154940,MD,Write-in,Nonpartisan,249,0.125,False,False
+154800,MD,Mike McKay,Republican,30691,67.949,True,False
+154800,MD,Ashley Emerick,Democratic,14419,31.923,False,False
+154800,MD,Write-in,Nonpartisan,58,0.128,False,False
+155175,MD,Charles T. Horner Sr.,Republican,5520,97.303,False,False
+155175,MD,Write-in,Nonpartisan,153,2.697,False,False
+154818,MD,Ben Kramer,Democratic,36824,97.176,True,False
+154818,MD,Write-in,Nonpartisan,1070,2.824,False,False
+155104,MD,Joseph L. Holt,Republican,4281,35.705,False,False
+155104,MD,Elroy G. Boyer Jr.,Democratic,3856,32.16,False,False
+155104,MD,Allan W. Schauber,Democratic,3759,31.351,False,False
+155104,MD,Write-in,Nonpartisan,94,0.784,False,False
+154939,MD,James Leo Furstenberg III,Nonpartisan,2681,38.855,False,False
+154939,MD,Joe George,Nonpartisan,2187,31.696,False,False
+154939,MD,Brandon Timothy Scarlett,Nonpartisan,813,11.783,False,False
+154939,MD,William Valois,Nonpartisan,678,9.826,False,False
+154939,MD,Gregory Elias Triantafillides,Nonpartisan,541,7.841,False,False
+154898,MD,Steve Arentz,Republican,29149,20.532,False,False
+154898,MD,Jay A. Jacobs,Republican,28279,19.919,False,False
+154898,MD,Jeff Ghrist,Republican,25936,18.269,False,False
+154898,MD,Crystal Woodward,Democratic,20294,14.295,False,False
+154898,MD,Michelle Ravert,Democratic,20143,14.188,False,False
+154898,MD,Nevin Crouse,Democratic,18085,12.739,False,False
+154898,MD,Write-in,Nonpartisan,84,0.059,False,False
+155174,MD,Wess Garner,Republican,5370,96.966,False,False
+155174,MD,Write-in,Nonpartisan,168,3.034,False,False
+155041,MD,Amy J. Craig,Republican,8811,97.295,False,False
+155041,MD,Write-in,Nonpartisan,245,2.705,False,False
+155165,MD,Bill Mattingly,Republican,20352,29.363,False,False
+155165,MD,"Albert ""Allie"" Babcock",Republican,17102,24.674,False,False
+155165,MD,Michael R. White,Republican,16152,23.303,False,False
+155165,MD,Curtis J. King,Democratic,15302,22.077,False,False
+155165,MD,Write-in,Nonpartisan,404,0.583,False,False
+155000,MD,Kenneth A. Kiler,Republican,10577,95.815,False,False
+155000,MD,Write-in,Nonpartisan,462,4.185,False,False
+155059,MD,Karl Bickel,Democratic,52257,55.558,False,False
+155059,MD,Chuck Jenkins,Republican,41675,44.308,False,False
+155059,MD,Write-in,Nonpartisan,126,0.134,False,False
+155183,MD,Joseph Coale,Republican,11653,97.003,False,False
+155183,MD,Write-in,Nonpartisan,360,2.997,False,False
+154826,MD,Kevin M. Harris,Democratic,39213,66.65,True,False
+154826,MD,Al Larsen,Republican,19548,33.226,False,False
+154826,MD,Write-in,Nonpartisan,73,0.124,False,False
+154885,MD,Adrianne M. Mathis,Democratic,7973,59.651,True,False
+154885,MD,BJ Hall,Republican,5379,40.244,False,False
+154885,MD,Write-in,Nonpartisan,14,0.105,False,False
+154844,MD,Cory V. McCray,Democratic,31905,99.038,True,False
+154844,MD,Write-in,Nonpartisan,310,0.962,False,False
+155095,MD,Rich Gibson,Democratic,91772,97.504,False,False
+155095,MD,Write-in,Nonpartisan,2349,2.496,False,False
+186038,MD,Yes,Nonpartisan,182631,77.596,False,False
+186038,MD,No,Nonpartisan,52731,22.404,False,False
+154921,MD,Sherrie R. Bailey,Nonpartisan,147000,22.304,False,False
+154921,MD,Jan Marshall Alexander,Nonpartisan,135639,20.58,False,False
+154921,MD,Evelyn Lombardo Cusson,Nonpartisan,133633,20.276,False,False
+154921,MD,Thomas R. Tompsett Jr.,Nonpartisan,120774,18.325,False,False
+154921,MD,Ralph Sapia,Nonpartisan,117392,17.811,False,False
+154921,MD,Write-in,Nonpartisan,4643,0.704,False,False
+154816,MD,Cheryl C. Kagan,Democratic,35589,84.037,True,False
+154816,MD,Helene Meister,Republican,6633,15.663,False,False
+154816,MD,Write-in,Nonpartisan,127,0.3,False,False
+154843,MD,Charles E. Sydnor III,Democratic,36505,97.586,True,False
+154843,MD,Write-in,Nonpartisan,903,2.414,False,False
+155026,MD,"Anthony ""Tony"" Covington",Democratic,50054,97.653,False,False
+155026,MD,Write-in,Nonpartisan,1203,2.347,False,False
+186037,MD,Yes,Nonpartisan,191312,83.865,False,False
+186037,MD,No,Nonpartisan,36808,16.135,False,False
+154952,MD,Everett Sesker,Democratic,111518,57.033,False,False
+154952,MD,Jim Fredericks,Republican,83810,42.863,False,False
+154952,MD,Write-in,Nonpartisan,203,0.104,False,False
+186028,MD,Yes,Nonpartisan,6846,68.632,False,False
+186028,MD,No,Nonpartisan,3129,31.368,False,False
+155103,MD,Kristi Osborn,Democratic,5437,98.265,False,False
+155103,MD,Write-in,Nonpartisan,96,1.735,False,False
+155187,MD,Joe Gamble,Republican,12189,97.325,False,False
+155187,MD,Write-in,Nonpartisan,335,2.675,False,False
+186046,MD,Yes,Nonpartisan,21207,75.81,False,False
+186046,MD,No,Nonpartisan,6767,24.19,False,False
+154897,MD,Derek J. Howell,Republican,10558,65.811,True,False
+154897,MD,Blessing T. Oluwadare,Democratic,5465,34.065,False,False
+154897,MD,Write-in,Nonpartisan,20,0.125,False,False
+155205,MD,Joe White,Republican,2505,55.878,False,False
+155205,MD,Aaron C. Sadberry,Democratic,1973,44.011,False,False
+155205,MD,Write-in,Nonpartisan,5,0.112,False,False
+155164,MD,Phyllis A. Superior,Republican,27933,97.579,False,False
+155164,MD,Write-in,Nonpartisan,693,2.421,False,False
+155223,MD,Joe Schanno,Republican,2021,62.377,False,False
+155223,MD,Vicky A. Wallace,Democratic,1214,37.469,False,False
+155223,MD,Write-in,Nonpartisan,5,0.154,False,False
+154990,MD,Ricky Cox,Republican,24533,96.48,False,False
+154990,MD,Write-in,Nonpartisan,895,3.52,False,False
+186001,MD,Yes,Nonpartisan,93234,51.991,False,False
+186001,MD,No,Nonpartisan,86092,48.009,False,False
+155163,MD,Debbie Mills Burch,Republican,28236,97.54,False,False
+155163,MD,Write-in,Nonpartisan,712,2.46,False,False
+155129,MD,Tim Adams,Democratic,30661,97.33,False,False
+155129,MD,Write-in,Nonpartisan,841,2.67,False,False
+154989,MD,Leslie M. Downs,Republican,18370,34.6,False,False
+154989,MD,Ted LeBlanc,Republican,17106,32.219,False,False
+154989,MD,Rick Piereck,Democratic,17023,32.063,False,False
+154989,MD,Write-in,Nonpartisan,594,1.119,False,False
+154856,MD,Ryan Nawrocki,Republican,18685,28.774,True,False
+154856,MD,Kathy Szeliga,Republican,18284,28.157,True,False
+154856,MD,Satish Chapagain,Democratic,14078,21.679,False,False
+154856,MD,Ly Xinzhen Brown,Democratic,13820,21.282,False,False
+154856,MD,Write-in,Nonpartisan,70,0.108,False,False
+155172,MD,Bryant C. Owens,Republican,1605,97.806,False,False
+155172,MD,Write-in,Nonpartisan,36,2.194,False,False
+154815,MD,Sara N. Love,Democratic,47257,97.518,True,False
+154815,MD,Write-in,Nonpartisan,1203,2.482,False,False
+155066,MD,Rita L. Watson,Republican,8369,99.3,False,False
+155066,MD,Write-in,Nonpartisan,59,0.7,False,False
+154806,MD,J. B. Jennings,Republican,31518,56.544,True,False
+154806,MD,Bill Geibler,Democratic,24170,43.361,False,False
+154806,MD,Write-in,Nonpartisan,53,0.095,False,False
+155025,MD,Ralph E. Patterson II,Democratic,10436,76.962,False,False
+155025,MD,Eric Vrem,Unaffiliated,2625,19.358,False,False
+155025,MD,Artiium Arbyummi,Green,450,3.319,False,False
+155025,MD,Write-in,Nonpartisan,49,0.361,False,False
+154892,MD,Chuck Cook,Democratic,11623,54.875,True,False
+154892,MD,Stuart M. Schmidt Jr.,Republican,9534,45.012,False,False
+154892,MD,Write-in,Nonpartisan,24,0.113,False,False
+186027,MD,Yes,Nonpartisan,7099,70.595,False,False
+186027,MD,No,Nonpartisan,2957,29.405,False,False
+155134,MD,Tamara Davis Brown,Democratic,37735,93.125,False,False
+155134,MD,Jesse A. Peed,Republican,2689,6.636,False,False
+155134,MD,Write-in,Nonpartisan,97,0.239,False,False
+186045,MD,Write-in,Nonpartisan,617,100.0,False,False
+186045,MD,Joyce Farrare,Write-In,0,0.0,False,False
+154928,MD,Kimberly C. McBride,Nonpartisan,82275,18.529,False,False
+154928,MD,Catherine Chen,Nonpartisan,78819,17.751,False,False
+154928,MD,Lawrence P. Fletcher-Hill,Nonpartisan,73699,16.598,False,False
+154928,MD,Hope Tipton,Nonpartisan,73046,16.451,False,False
+154928,MD,Piper Faith McKeithen,Nonpartisan,68944,15.527,False,False
+154928,MD,Levi S. Zaslow,Nonpartisan,65232,14.691,False,False
+154928,MD,Write-in,Nonpartisan,2018,0.454,False,False
+154919,MD,Robert E. Sentman,Nonpartisan,20114,98.069,False,False
+154919,MD,Write-in,Nonpartisan,396,1.931,False,False
+186026,MD,Yes,Nonpartisan,17886,67.568,False,False
+186026,MD,No,Nonpartisan,8585,32.432,False,False
+154841,MD,Kevin Ford,Republican,29667,53.298,True,False
+154841,MD,Stephanie Popescu,Democratic,25942,46.606,False,False
+154841,MD,Write-in,Nonpartisan,53,0.095,False,False
+186044,MD,Yes,Nonpartisan,208892,87.942,False,False
+186044,MD,No,Nonpartisan,28642,12.058,False,False
+155176,MD,Keith B. Ward,Republican,5439,97.701,False,False
+155176,MD,Write-in,Nonpartisan,128,2.299,False,False
+186035,MD,Yes,Nonpartisan,176374,74.445,False,False
+186035,MD,No,Nonpartisan,60545,25.555,False,False
+154918,MD,Kristina Watkowski,Nonpartisan,15154,98.511,False,False
+154918,MD,Write-in,Nonpartisan,229,1.489,False,False
+155194,MD,Gina M. Cirincion,Republican,33415,96.214,False,False
+155194,MD,Write-in,Nonpartisan,1315,3.786,False,False
+155101,MD,Matt Crouch,Republican,4042,57.398,False,False
+155101,MD,Bryan DiGregory,Democratic,2999,42.587,False,False
+155101,MD,Write-in,Nonpartisan,1,0.014,False,False
+155128,MD,Eric C. Olson,Democratic,16761,98.879,False,False
+155128,MD,Write-in,Nonpartisan,190,1.121,False,False
+155020,MD,Grant Handley,Nonpartisan,19041,98.332,False,False
+155020,MD,Write-in,Nonpartisan,323,1.668,False,False
+155119,MD,Will Milam,Democratic,261440,97.82,False,False
+155119,MD,Write-in,Nonpartisan,5827,2.18,False,False
+155171,MD,Eldon S. Willing,Republican,1258,95.087,False,False
+155171,MD,Write-in,Nonpartisan,65,4.913,False,False
+155038,MD,Lenny Pfeffer,Republican,1808,96.17,False,False
+155038,MD,Write-in,Nonpartisan,72,3.83,False,False
+154805,MD,Johnny Ray Salling,Republican,18068,52.229,True,False
+154805,MD,Justin Holliday,Democratic,16453,47.56,False,False
+154805,MD,Write-in,Nonpartisan,73,0.211,False,False
+186008,MD,Yes,Nonpartisan,75820,64.819,False,False
+186008,MD,No,Nonpartisan,41151,35.181,False,False
+154823,MD,Tiffany Alston,Democratic,42034,98.804,True,False
+154823,MD,Write-in,Nonpartisan,509,1.196,False,False
+87197,MD,Jamie Raskin,Democratic,240249,83.496,True,False
+87197,MD,Cheryl Riley,Republican,42007,14.599,False,False
+87197,MD,Nancy Wallace,Green,4951,1.721,False,False
+87197,MD,Write-in,Nonpartisan,530,0.184,False,False
+87195,MD,April McClain Delaney,Democratic,163621,59.196,True,False
+87195,MD,Robin Ficker,Republican,104381,37.764,False,False
+87195,MD,Moshe Y. Landman,Green,7721,2.793,False,False
+87195,MD,Write-in,Nonpartisan,683,0.247,False,False
+87190,MD,Andy Harris,Republican,165256,52.118,True,False
+87190,MD,Dan Schwartz,Democratic,151285,47.711,False,False
+87190,MD,Write-in,Nonpartisan,479,0.151,False,False
+87190,MD,Edward Shlikas,Write-In,63,0.02,False,False
+87192,MD,Sarah Elfreth,Democratic,212087,67.745,True,False
+87192,MD,Berney Flowers,Republican,100088,31.97,False,False
+87192,MD,Write-in,Nonpartisan,860,0.275,False,False
+87192,MD,Robert L. Coffman,Write-In,32,0.01,False,False
+87194,MD,Adrian Boafo,Democratic,227894,70.605,True,False
+87194,MD,Chris Chaffee,Republican,92558,28.676,False,False
+87194,MD,Write-in,Nonpartisan,2236,0.693,False,False
+87194,MD,Mildred Marie Hall,Write-In,86,0.027,False,False
+87196,MD,Kweisi Mfume,Democratic,186917,85.119,True,False
+87196,MD,Scott Collier,Republican,31816,14.488,False,False
+87196,MD,Write-in,Nonpartisan,862,0.393,False,False
+87193,MD,Glenn Ivey,Democratic,179350,89.256,True,False
+87193,MD,George McDermott,Republican,12003,5.973,False,False
+87193,MD,Sam Husseini,Green,9262,4.609,False,False
+87193,MD,Write-in,Nonpartisan,323,0.161,False,False
+87191,MD,Johnny Olszewski,Democratic,189851,65.036,True,False
+87191,MD,Dave Wallace,Republican,101464,34.758,False,False
+87191,MD,Write-in,Nonpartisan,601,0.206,False,False

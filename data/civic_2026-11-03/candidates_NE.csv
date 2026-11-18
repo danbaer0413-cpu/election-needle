@@ -1,0 +1,629 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+132496,NE,Joey  Spellerberg,Republican,431672,58.196,True,False
+132496,NE,Daniel  Ebers,Democratic,310086,41.804,False,False
+132409,NE,No,Nonpartisan,408469,54.478,True,False
+132409,NE,Yes,Nonpartisan,341316,45.522,False,False
+132403,NE,Mike  Hilgers,Republican,415360,55.834,True,False
+132403,NE,Jocelyn  Brasher,Democratic,328563,44.166,False,False
+132404,NE,Mike  Foley,Republican,504099,74.399,True,False
+132404,NE,John  Knight,America First,173461,25.601,False,False
+132466,NE,Scott  Petersen,Republican,401887,53.497,True,False
+132466,NE,Sarah J. Slattery,Democratic,306355,40.78,False,False
+132466,NE,Paul  Rumbaugh,Nebraska Working People,23430,3.119,False,False
+132466,NE,Bob  Krist,America First,19562,2.604,False,False
+87255,NE,Jim Pillen,Republican,384296,50.269,True,False
+87255,NE,Lynne Walz,Democratic,326085,42.654,False,False
+87255,NE,Brett Lindstrom,America First,33633,4.399,False,False
+87255,NE,Rick Beard,Legal Marijuana Now,20470,2.678,False,False
+132459,NE,No,Nonpartisan,595497,81.367,True,False
+132459,NE,Yes,Nonpartisan,136369,18.633,False,False
+159550,NE,Nonpartisan,Nonpartisan,345830,100.0,False,False
+159550,NE,Republican,Republican,0,0.0,False,False
+159550,NE,Democratic,Democratic,0,0.0,False,False
+132408,NE,No,Nonpartisan,411672,54.9,True,False
+132408,NE,Yes,Nonpartisan,338190,45.1,False,False
+132410,NE,Yes,Nonpartisan,502572,67.711,True,False
+132410,NE,No,Nonpartisan,239663,32.289,False,False
+132597,NE,Kevin  Blair,Nonpartisan,758,100.0,False,False
+132389,NE,Cindy L. Duncan,Nonpartisan,4994,100.0,False,False
+132231,NE,Mark  Ormesher,Nonpartisan,400,100.0,False,False
+132439,NE,Yes,Nonpartisan,20491,73.563,False,False
+132439,NE,No,Nonpartisan,7364,26.437,False,False
+132505,NE,Patricia K. Coates,Nonpartisan,1114,100.0,False,False
+132521,NE,Delbert J. Ames,Nonpartisan,9031,100.0,False,False
+132580,NE,Keegan C. Meismer,Nonpartisan,2623,100.0,False,False
+132230,NE,Diane M. Linster,Nonpartisan,429,100.0,False,False
+132347,NE,Thomas  McKnight,Nonpartisan,15399,100.0,False,False
+132214,NE,Eric  Packer,Nonpartisan,1781,100.0,False,False
+132504,NE,Doug  Iske,Nonpartisan,1468,100.0,False,False
+132264,NE,Gary  Arehart,Nonpartisan,1944,100.0,False,False
+132554,NE,Christopher M. Reid,Nonpartisan,21157,100.0,False,False
+132314,NE,Robert  Lorenz,Nonpartisan,1064,100.0,False,False
+132492,NE,Danielle  Conrad,Nonpartisan,5516,100.0,False,False
+132558,NE,Larry D. Benson,Nonpartisan,1069,50.472,False,False
+132558,NE,Courtney  Retzlaff,Nonpartisan,1049,49.528,False,False
+132542,NE,Judy A. Rieken,Nonpartisan,437,50.637,False,False
+132542,NE,Mark J. Wyman,Nonpartisan,426,49.363,False,False
+132185,NE,Charles R. Maser,Nonpartisan,2476,100.0,False,False
+132617,NE,Tyler  Turner,Nonpartisan,342,100.0,False,False
+132267,NE,Wende L. Heckert,Nonpartisan,1746,100.0,False,False
+132443,NE,Yes,Nonpartisan,64202,70.669,False,False
+132443,NE,No,Nonpartisan,26647,29.331,False,False
+132317,NE,James G. Aschoff,Nonpartisan,15302,59.78,False,False
+132317,NE,Layne  Roth,Nonpartisan,10295,40.22,False,False
+132184,NE,Brian D. Keiser,Nonpartisan,3829,100.0,False,False
+132525,NE,Julie M. Robinson,Nonpartisan,4750,56.34,False,False
+132525,NE,Timothy  Miller,Nonpartisan,3681,43.66,False,False
+132584,NE,Kevin  Peterson,Nonpartisan,1999,100.0,False,False
+132234,NE,Susan  Strahm,Nonpartisan,687,100.0,False,False
+132602,NE,John  Kraye,Nonpartisan,580,100.0,False,False
+132284,NE,Roxanne  Dockter,Nonpartisan,12042,32.442,False,False
+132284,NE,Jason  Boyd,Nonpartisan,10968,29.549,False,False
+132284,NE,Ken  Waters,Nonpartisan,7959,21.442,False,False
+132284,NE,David  Preston Jr.,Nonpartisan,6149,16.566,False,False
+132396,NE,Casey J. Foster,Nonpartisan,2025,70.607,False,False
+132396,NE,Stephanie  Ladely,Nonpartisan,843,29.393,False,False
+132238,NE,Conny  Dunn,Nonpartisan,2571,100.0,False,False
+132222,NE,Julie  Boettcher,Nonpartisan,1407,100.0,False,False
+132480,NE,George  Dungan,Nonpartisan,7770,67.081,False,False
+132480,NE,Tobias  Howard,Nonpartisan,3813,32.919,False,False
+132528,NE,Gregory  Nelson,Nonpartisan,331,51.159,False,False
+132528,NE,Kevin R. Connot,Nonpartisan,316,48.841,False,False
+132171,NE,Karl J. Koch,Nonpartisan,1196,100.0,False,False
+132354,NE,Dustin  Woita,Nonpartisan,8887,53.047,False,False
+132354,NE,Allie  Bush,Nonpartisan,7866,46.953,False,False
+132413,NE,Yes,Nonpartisan,18162,76.866,False,False
+132413,NE,No,Nonpartisan,5466,23.134,False,False
+132479,NE,Jana  Hughes,Nonpartisan,11045,78.876,False,False
+132479,NE,Dan  Winter,Nonpartisan,2958,21.124,False,False
+132621,NE,Coral E. Richards,Nonpartisan,4757,100.0,False,False
+132271,NE,Rhonda  Fleischer,Nonpartisan,1035,100.0,False,False
+132369,NE,David L. Bartels,Nonpartisan,4931,100.0,False,False
+132513,NE,Linda  Jedlicka,Nonpartisan,420,100.0,False,False
+132188,NE,Lon  Bohn,Nonpartisan,4242,100.0,False,False
+132499,NE,Tracy  Ensor,Nonpartisan,12470,100.0,False,False
+132565,NE,Jeffrey  Ryan,Nonpartisan,5836,100.0,False,False
+132549,NE,Mark  Halstead,Nonpartisan,664,100.0,False,False
+132384,NE,Gwen  Howard,Nonpartisan,12664,62.289,False,False
+132384,NE,Andrew  Adams,Nonpartisan,7667,37.711,False,False
+132400,NE,Shane  Rippen,Nonpartisan,1118,100.0,False,False
+132242,NE,Marla  Fries,Nonpartisan,11905,100.0,False,False
+132450,NE,Yes,Nonpartisan,88359,55.962,False,False
+132450,NE,No,Nonpartisan,69532,44.038,False,False
+132324,NE,Roger  Gustafson,Nonpartisan,2096,55.464,False,False
+132324,NE,Graham  Christensen,Nonpartisan,1683,44.536,False,False
+132383,NE,Mary  Trecek,Nonpartisan,45177,100.0,False,False
+132532,NE,Sara  Kohen,Nonpartisan,20880,60.622,False,False
+132532,NE,Christian  Mapes,Nonpartisan,13563,39.378,False,False
+132591,NE,Gale D. Holmes,Nonpartisan,1574,100.0,False,False
+132465,NE,Wendy  DeBoer,Democratic,84500,68.14,False,False
+132465,NE,Dennis  McCann,Republican,39509,31.86,False,False
+132609,NE,Michael  Strasburger,Nonpartisan,6618,100.0,False,False
+132291,NE,Mathias  Weinandt,Nonpartisan,1085,100.0,False,False
+132245,NE,June  Bowers,Nonpartisan,1237,100.0,False,False
+132229,NE,Connie  Lentz,Nonpartisan,415,100.0,False,False
+132295,NE,Russell D. Ochsner,Nonpartisan,11204,100.0,False,False
+132503,NE,Russel  Moss,Nonpartisan,1430,100.0,False,False
+132569,NE,Joseph  Bilka,Nonpartisan,914,100.0,False,False
+132169,NE,Gary L. Kucera,Nonpartisan,335,100.0,False,False
+132420,NE,Yes,Nonpartisan,96299,61.87,False,False
+132420,NE,No,Nonpartisan,59348,38.13,False,False
+132294,NE,Bill  Glenn,Nonpartisan,0,,False,False
+132212,NE,Galen  Kronhofman,Nonpartisan,1096,100.0,False,False
+132278,NE,Eric  McDaniel,Nonpartisan,660,100.0,False,False
+132568,NE,Brian  Bergstrom,Nonpartisan,1057,100.0,False,False
+132328,NE,Henry  Thoene,Nonpartisan,2625,100.0,False,False
+132195,NE,Russell  Yosten,Nonpartisan,226,100.0,False,False
+132179,NE,Timothy J. Boyle,Nonpartisan,433,51.548,False,False
+132179,NE,Raleigh  Nott,Nonpartisan,407,48.452,False,False
+132556,NE,Joann  Herrington Pitcher,Nonpartisan,28243,100.0,False,False
+132199,NE,Wayne V. Licking,Nonpartisan,0,,False,False
+132199,NE,Bradley  Bartak,Nonpartisan,0,,False,False
+132599,NE,Matthew  Beckman,Nonpartisan,778,100.0,False,False
+132249,NE,Faye Allison Hayes,Nonpartisan,1012,100.0,False,False
+132265,NE,Cindy  Hild,Nonpartisan,2293,100.0,False,False
+132331,NE,Andy  Daniels,Nonpartisan,1161,55.844,False,False
+132331,NE,Robert  Ita,Nonpartisan,918,44.156,False,False
+132198,NE,Leroy  Mostek,Nonpartisan,818,100.0,False,False
+132507,NE,Eric  Wilke,Nonpartisan,1318,100.0,False,False
+132182,NE,Nancy J. Garrelts,Nonpartisan,3099,100.0,False,False
+132248,NE,Susan  LeGrand,Nonpartisan,1564,100.0,False,False
+132424,NE,Yes,Nonpartisan,108345,69.429,False,False
+132424,NE,No,Nonpartisan,47706,30.571,False,False
+132298,NE,Ty  Mangers,Nonpartisan,1405,50.161,False,False
+132298,NE,Kim  Hermann,Nonpartisan,1396,49.839,False,False
+132474,NE,Ted  Japp,Nonpartisan,9869,63.696,False,False
+132474,NE,Cindy  Chatt,Nonpartisan,5625,36.304,False,False
+132348,NE,Lon  Olson,Nonpartisan,0,,False,False
+132236,NE,Tabitha  Gilsdorf,Nonpartisan,2347,100.0,False,False
+132302,NE,Kyle  Knight,Nonpartisan,1107,100.0,False,False
+132286,NE,Sarah  Dragon,Nonpartisan,8538,32.826,False,False
+132286,NE,Linda  Vermooten,Nonpartisan,6953,26.732,False,False
+132286,NE,Tonya  Ward,Nonpartisan,5542,21.307,False,False
+132286,NE,Mayra  Piedrahita,Nonpartisan,4977,19.135,False,False
+132544,NE,Brenda  Darnell,Nonpartisan,220,100.0,False,False
+132585,NE,Maxwell D. Nordmeyer,Nonpartisan,1974,100.0,False,False
+132619,NE,R.J.  Savely Jr.,Nonpartisan,4672,100.0,False,False
+132603,NE,Christopher M. Higgins,Nonpartisan,439,100.0,False,False
+132477,NE,John  Fredrickson,Nonpartisan,10041,60.903,False,False
+132477,NE,Chris  Anderson,Nonpartisan,6446,39.097,False,False
+132543,NE,David  Howell,Nonpartisan,162,100.0,False,False
+132269,NE,Scott B. Boyles,Nonpartisan,2196,100.0,False,False
+132335,NE,Brenda  Wendt,Nonpartisan,0,,False,False
+132202,NE,Craig  Wietjes,Nonpartisan,0,,False,False
+132570,NE,Joel  Grams,Nonpartisan,1154,100.0,False,False
+132444,NE,Yes,Nonpartisan,62280,68.753,False,False
+132444,NE,No,Nonpartisan,28305,31.247,False,False
+132563,NE,Bruce  Bair,Nonpartisan,502,100.0,False,False
+132206,NE,Marilyn  Bohn,Nonpartisan,4919,100.0,False,False
+132190,NE,Jerry  Milner,Nonpartisan,3999,100.0,False,False
+132224,NE,William  Mackley Jr.,Nonpartisan,897,100.0,False,False
+132464,NE,Jerry L. Chlopek,Nonpartisan,7490,57.43,False,False
+132464,NE,Mike  Ebel,Nonpartisan,5552,42.57,False,False
+132530,NE,Lee  Ahrens,Nonpartisan,788,100.0,False,False
+132514,NE,Charles P. Zangger,Nonpartisan,137,100.0,False,False
+132381,NE,Maureen K. Monahan,Nonpartisan,45264,100.0,False,False
+132223,NE,Vicki  Spahn,Nonpartisan,1141,100.0,False,False
+132589,NE,William  Kuehner,Nonpartisan,2382,100.0,False,False
+132431,NE,Yes,Nonpartisan,53061,62.397,False,False
+132431,NE,No,Nonpartisan,31977,37.603,False,False
+132529,NE,Dustin A. Waugh,Nonpartisan,285,100.0,False,False
+132257,NE,Andy  Grosshans,Nonpartisan,3272,100.0,False,False
+132355,NE,Jerry  Johnson,Nonpartisan,8823,54.119,False,False
+132355,NE,Marlin  Fujan,Nonpartisan,7480,45.881,False,False
+132243,NE,Brett  Kuhn,Nonpartisan,10907,66.918,False,False
+132243,NE,Dale William Brandsberg,Nonpartisan,5392,33.082,False,False
+132309,NE,Grady  Gydesen,Nonpartisan,1919,53.07,False,False
+132309,NE,Al  Kowalski,Nonpartisan,1697,46.93,False,False
+132293,NE,Dietrich M. Brinegar,Nonpartisan,0,,False,False
+132359,NE,Mark G. Spangler,Nonpartisan,0,,False,False
+132567,NE,Edwin  Harris,Nonpartisan,1078,100.0,False,False
+132402,NE,Daniel  Nelsen,Nonpartisan,973,100.0,False,False
+132610,NE,David E. Kadlecek,Nonpartisan,6542,100.0,False,False
+132484,NE,Loren  Lippincott,Nonpartisan,9187,64.088,False,False
+132484,NE,Ben  Blodgett,Nonpartisan,5148,35.912,False,False
+132358,NE,David M. Landis,Nonpartisan,84640,100.0,False,False
+132276,NE,Loren L. Studley,Nonpartisan,1011,100.0,False,False
+132342,NE,Kevin L. Randa,Nonpartisan,1782,100.0,False,False
+132209,NE,Kim R. Scoville,Nonpartisan,1152,100.0,False,False
+132577,NE,Joe  Wahlgren,Nonpartisan,3159,100.0,False,False
+132451,NE,Yes,Nonpartisan,109978,69.657,False,False
+132451,NE,No,Nonpartisan,47907,30.343,False,False
+132405,NE,Brent  Comstock,Nonpartisan,39454,57.169,False,False
+132405,NE,Jeremy  Hosein,Nonpartisan,29559,42.831,False,False
+132197,NE,Glen  Pfeifer,Nonpartisan,468,100.0,False,False
+132455,NE,Yes,Nonpartisan,401973,71.505,False,False
+132455,NE,No,Nonpartisan,160185,28.495,False,False
+132247,NE,Mary L. Stewart Lyon,Nonpartisan,1034,100.0,False,False
+132313,NE,Larry  Barta,Nonpartisan,1868,100.0,False,False
+132329,NE,Rick D. Vlach,Nonpartisan,2242,100.0,False,False
+132388,NE,Tyler S. Pribbeno,Nonpartisan,5196,100.0,False,False
+132454,NE,Yes,Nonpartisan,22083,78.253,False,False
+132454,NE,No,Nonpartisan,6137,21.747,False,False
+132372,NE,Matt  Harrison,Nonpartisan,848,100.0,False,False
+132438,NE,Yes,Nonpartisan,21463,76.329,False,False
+132438,NE,No,Nonpartisan,6656,23.671,False,False
+132312,NE,Bruce  Weise,Nonpartisan,1155,53.997,False,False
+132312,NE,Doug  Pieper,Nonpartisan,984,46.003,False,False
+132488,NE,Barry  DeKay,Nonpartisan,14108,100.0,False,False
+132362,NE,Melissa  Baker,Nonpartisan,7527,100.0,False,False
+132538,NE,Christian  Gray,Nonpartisan,6857,60.58,False,False
+132538,NE,Jim  Thompson,Nonpartisan,4462,39.42,False,False
+132300,NE,James L. Weldon,Nonpartisan,2039,100.0,False,False
+132366,NE,Luke  Peterson,Nonpartisan,6077,100.0,False,False
+132350,NE,David W. Saalfeld,Nonpartisan,15566,100.0,False,False
+132601,NE,David  Vinton,Nonpartisan,495,100.0,False,False
+132425,NE,Yes,Nonpartisan,31907,75.897,False,False
+132425,NE,No,Nonpartisan,10133,24.103,False,False
+132491,NE,Teresa  Ibach,Nonpartisan,10224,100.0,False,False
+132251,NE,Timothy D. McAllister,Nonpartisan,1425,100.0,False,False
+132541,NE,Mark W. Becker,Nonpartisan,1152,100.0,False,False
+132600,NE,Patrick  Wright,Nonpartisan,1539,100.0,False,False
+132333,NE,Brad S. Luchsinger,Nonpartisan,1544,100.0,False,False
+132392,NE,Martin J. Riddle,Nonpartisan,235,100.0,False,False
+132458,NE,Yes,Nonpartisan,43905,71.661,False,False
+132458,NE,No,Nonpartisan,17363,28.339,False,False
+132218,NE,Allison  Sandman,Nonpartisan,656,100.0,False,False
+132508,NE,Alan  Romine,Nonpartisan,1529,100.0,False,False
+132204,NE,Page  Peterson,Nonpartisan,2672,100.0,False,False
+132462,NE,Kirk D. Olson,Nonpartisan,13922,100.0,False,False
+132446,NE,Yes,Nonpartisan,62177,69.585,False,False
+132446,NE,No,Nonpartisan,27177,30.415,False,False
+132288,NE,Jeffrey  Steffen,Nonpartisan,905,100.0,False,False
+132336,NE,Brett R. Fuchtman,Nonpartisan,0,,False,False
+132587,NE,Cody S. McGowan,Nonpartisan,1434,61.256,False,False
+132587,NE,Eugene R. Ulmer,Nonpartisan,907,38.744,False,False
+132571,NE,Andrew  Stade,Nonpartisan,665,65.068,False,False
+132571,NE,Colby J. Emal,Nonpartisan,357,34.932,False,False
+132221,NE,Martin W. Conroy,Nonpartisan,558,100.0,False,False
+132287,NE,Daniel  Kollars,Nonpartisan,4933,100.0,False,False
+132429,NE,Yes,Nonpartisan,22118,78.653,False,False
+132429,NE,No,Nonpartisan,6003,21.347,False,False
+132495,NE,Erin  Feichtinger,Nonpartisan,9594,73.041,False,False
+132495,NE,Josh  Livingston,Nonpartisan,3541,26.959,False,False
+132170,NE,Lyle R. Jakub,Nonpartisan,356,100.0,False,False
+132321,NE,Todd  Scheer,Nonpartisan,3874,100.0,False,False
+132604,NE,Max  Fay,Nonpartisan,354,100.0,False,False
+132307,NE,Steven T. Otten,Nonpartisan,3355,51.767,False,False
+132307,NE,Dick  Tooley,Nonpartisan,3126,48.233,False,False
+132174,NE,Diane R. Keller,Nonpartisan,17132,100.0,False,False
+132357,NE,Mark  Patton,Nonpartisan,0,,False,False
+132357,NE,David  Hibler,Nonpartisan,0,,False,False
+132192,NE,Kevin  Werner,Nonpartisan,1958,100.0,False,False
+132208,NE,Karen K. Harmoney,Nonpartisan,4366,100.0,False,False
+132274,NE,David  Hoefer,Nonpartisan,1528,100.0,False,False
+132258,NE,Donald  Graff,Nonpartisan,1905,100.0,False,False
+132548,NE,Kerry  Ferguson,Nonpartisan,642,100.0,False,False
+132191,NE,Ed  Stoltenberg,Nonpartisan,3478,100.0,False,False
+132340,NE,Shaun L. Higgins,Nonpartisan,1770,100.0,False,False
+132399,NE,Jay A. Schilling,Nonpartisan,930,100.0,False,False
+132273,NE,Tim D. Means,Nonpartisan,1132,100.0,False,False
+132417,NE,Yes,Nonpartisan,51284,69.149,False,False
+132417,NE,No,Nonpartisan,22881,30.851,False,False
+132515,NE,Theresa M. Petska,Nonpartisan,534,100.0,False,False
+132469,NE,Elizabeth  Tegtmeier,Nonpartisan,68830,100.0,False,False
+132453,NE,Yes,Nonpartisan,22694,79.068,False,False
+132453,NE,No,Nonpartisan,6008,20.932,False,False
+132519,NE,Lane  Darnall,Nonpartisan,10988,100.0,False,False
+132311,NE,Ryan  Birkett,Nonpartisan,1159,59.711,False,False
+132311,NE,Anne  DeVries,Nonpartisan,782,40.289,False,False
+132370,NE,Toby  tenBensel,Nonpartisan,1451,100.0,False,False
+132578,NE,Jake  Tiedeman,Nonpartisan,2099,100.0,False,False
+132228,NE,Donald  Connell,Nonpartisan,485,100.0,False,False
+132518,NE,Ryan  Reuter,Nonpartisan,11181,100.0,False,False
+132436,NE,Yes,Nonpartisan,18840,77.175,False,False
+132436,NE,No,Nonpartisan,5572,22.825,False,False
+132502,NE,Timothy  Schaardt,Nonpartisan,1517,100.0,False,False
+132177,NE,Lynne R. Werner,Nonpartisan,12790,100.0,False,False
+132552,NE,Michael  Schoop,Nonpartisan,25794,100.0,False,False
+132611,NE,Tod M. Dorshorst,Nonpartisan,6562,100.0,False,False
+132595,NE,Marv  Fritz,Nonpartisan,700,100.0,False,False
+132373,NE,Christopher  Grams,Nonpartisan,577,59.362,False,False
+132373,NE,Mike  Delka,Nonpartisan,395,40.638,False,False
+132364,NE,Suzanne  Mealer,Nonpartisan,5458,100.0,False,False
+132615,NE,Thomas  Arterburn,Nonpartisan,315,100.0,False,False
+132407,NE,Justin  Solomon,Nonpartisan,31586,61.101,False,False
+132407,NE,Susanne  Shore,Nonpartisan,20109,38.899,False,False
+132473,NE,Bill  Bowes,Nonpartisan,7714,50.673,False,False
+132473,NE,SuAnn  Witt,Nonpartisan,7509,49.327,False,False
+132489,NE,Joe  Johnson,Nonpartisan,7597,63.308,False,False
+132489,NE,Jeremy  Heneger,Nonpartisan,4403,36.692,False,False
+132555,NE,Carina  McCormick,Nonpartisan,14656,71.468,False,False
+132555,NE,David  Bruno,Nonpartisan,5851,28.532,False,False
+132614,NE,Terry  Martin,Nonpartisan,254,100.0,False,False
+132315,NE,Dean  Roehr,Nonpartisan,1419,100.0,False,False
+132598,NE,Aaron  Rice,Nonpartisan,834,100.0,False,False
+132472,NE,Christy  Knorr,Nonpartisan,6811,55.837,False,False
+132472,NE,Merv  Riepe,Nonpartisan,5387,44.163,False,False
+132232,NE,Lisa  Ryan,Nonpartisan,781,100.0,False,False
+132522,NE,Carol A. Sibbel,Nonpartisan,9690,100.0,False,False
+132282,NE,Brad  Waits,Nonpartisan,434,100.0,False,False
+132460,NE,Mary  Harding,Nonpartisan,14937,100.0,False,False
+132526,NE,Ronald  Stech,Nonpartisan,549,100.0,False,False
+132510,NE,John D. Novotny,Nonpartisan,1748,56.588,False,False
+132510,NE,Mark P. Kujath,Nonpartisan,1341,43.412,False,False
+132352,NE,Mark  Seier,Nonpartisan,15285,100.0,False,False
+132393,NE,Adrian J. Lewandowski,Nonpartisan,352,100.0,False,False
+132427,NE,Yes,Nonpartisan,21747,73.539,False,False
+132427,NE,No,Nonpartisan,7825,26.461,False,False
+132411,NE,Yes,Nonpartisan,18115,80.148,False,False
+132411,NE,No,Nonpartisan,4487,19.852,False,False
+132285,NE,Suzie  Fogarty,Nonpartisan,17514,50.339,False,False
+132285,NE,Maggie  Duffy,Nonpartisan,10434,29.99,False,False
+132285,NE,Corwin  Keller,Nonpartisan,6844,19.671,False,False
+132351,NE,Chris D. Yosten,Nonpartisan,15375,100.0,False,False
+132493,NE,Brian  Hardin,Nonpartisan,7570,64.951,False,False
+132493,NE,Jessica M. Landers,Nonpartisan,4085,35.049,False,False
+132559,NE,Dean L. Klute,Nonpartisan,1642,100.0,False,False
+132618,NE,Lori  Liggett,Nonpartisan,4344,100.0,False,False
+132378,NE,Kristen  DuPree,Nonpartisan,143458,65.763,False,False
+132378,NE,Paul  Anderson,Nonpartisan,74685,34.237,False,False
+132252,NE,Carla J. Loemker,Nonpartisan,1386,100.0,False,False
+132172,NE,Larry E. Domina,Nonpartisan,1132,100.0,False,False
+132622,NE,Lisa  Rien,Nonpartisan,3678,100.0,False,False
+132606,NE,Steven M. Sandberg,Nonpartisan,6483,100.0,False,False
+132448,NE,Yes,Nonpartisan,106003,67.264,False,False
+132448,NE,No,Nonpartisan,51589,32.736,False,False
+132272,NE,James  Geyer,Nonpartisan,1099,100.0,False,False
+132338,NE,Ross D. Nielsen,Nonpartisan,0,,False,False
+132322,NE,Kris M. Loberg,Nonpartisan,3533,100.0,False,False
+132189,NE,Deborah  VanMatre,Nonpartisan,3075,100.0,False,False
+132447,NE,Yes,Nonpartisan,106178,67.148,False,False
+132447,NE,No,Nonpartisan,51948,32.852,False,False
+132397,NE,Martin  Graff,Nonpartisan,2503,100.0,False,False
+132239,NE,Corrine  Forbes,Nonpartisan,3131,100.0,False,False
+132337,NE,Matt  Keating,Nonpartisan,1088,54.4,False,False
+132337,NE,Paul E. Allen,Nonpartisan,912,45.6,False,False
+132481,NE,Patty  Pansing Brooks,Nonpartisan,9467,75.567,False,False
+132481,NE,Colby L. Woodson,Nonpartisan,3061,24.433,False,False
+132572,NE,Scott  Russell,Nonpartisan,211,100.0,False,False
+132467,NE,Angie  Eberspacher,Nonpartisan,45407,55.705,False,False
+132467,NE,Michaela  Conway,Nonpartisan,36107,44.295,False,False
+132533,NE,Jay  Ignowski,Nonpartisan,10627,55.191,False,False
+132533,NE,Mark  Gudgel,Nonpartisan,8628,44.809,False,False
+132517,NE,Peter C. Lapaseotes,Nonpartisan,11275,100.0,False,False
+132167,NE,Daryl K. Crook,Nonpartisan,409,100.0,False,False
+132176,NE,Gary G. Smith,Nonpartisan,8365,50.947,False,False
+132176,NE,Roger P. Davis,Nonpartisan,8054,49.053,False,False
+132210,NE,Julie  Freburg,Nonpartisan,950,100.0,False,False
+132418,NE,Yes,Nonpartisan,63497,70.963,False,False
+132418,NE,No,Nonpartisan,25982,29.037,False,False
+132292,NE,Tyler  Schweers,Nonpartisan,1094,100.0,False,False
+132166,NE,Scott  Lindstrom,Nonpartisan,1663,58.025,False,False
+132166,NE,Dwane  Piere,Nonpartisan,1203,41.975,False,False
+132500,NE,Kevin L. Thorne,Nonpartisan,0,,False,False
+132566,NE,G. Reed Philips,Nonpartisan,1040,100.0,False,False
+132433,NE,Yes,Nonpartisan,22324,74.805,False,False
+132433,NE,No,Nonpartisan,7519,25.195,False,False
+132385,NE,Tim  Cavanaugh,Nonpartisan,31531,100.0,False,False
+132259,NE,Amy  Blaser,Nonpartisan,1584,100.0,False,False
+132213,NE,Mandy  Plog,Nonpartisan,1841,100.0,False,False
+132613,NE,Jay  Lee,Nonpartisan,260,100.0,False,False
+132263,NE,Craig  Brewster,Nonpartisan,1958,100.0,False,False
+132471,NE,Cindy  Johnson,Nonpartisan,8080,58.832,False,False
+132471,NE,Rebecca  Rens,Nonpartisan,5654,41.168,False,False
+132537,NE,Tim  McCormick,Nonpartisan,12318,56.917,False,False
+132537,NE,Barb  Nichols,Nonpartisan,9324,43.083,False,False
+132553,NE,Brandon  Gunther,Nonpartisan,28017,100.0,False,False
+132196,NE,Butch L. Gray,Nonpartisan,336,100.0,False,False
+132262,NE,John  Sayer,Nonpartisan,840,100.0,False,False
+132180,NE,Dale D. Blum,Nonpartisan,1574,62.361,False,False
+132180,NE,Dudley L. Nelson,Nonpartisan,950,37.639,False,False
+132246,NE,Jeff  Bacon,Nonpartisan,1549,100.0,False,False
+132536,NE,Fred  Conley,Nonpartisan,11798,100.0,False,False
+132296,NE,Alan  Kenning,Nonpartisan,0,,False,False
+132579,NE,David  Colvin,Nonpartisan,2149,100.0,False,False
+132346,NE,David R. Poppe,Nonpartisan,0,,False,False
+132524,NE,Terry F. Nelson,Nonpartisan,8551,100.0,False,False
+132583,NE,Justin D. Elge,Nonpartisan,15951,100.0,False,False
+132375,NE,Todd  Deatrich,Nonpartisan,85,100.0,False,False
+132217,NE,Jon  Lechtenberg,Nonpartisan,712,100.0,False,False
+132233,NE,Joe  Wanning,Nonpartisan,1149,100.0,False,False
+132299,NE,Ronald  Seymour,Nonpartisan,549,100.0,False,False
+132582,NE,Brent A. Ballou,Nonpartisan,702,100.0,False,False
+132475,NE,Jess  Goldoni,Nonpartisan,8209,51.474,False,False
+132475,NE,Taylor  Royal,Nonpartisan,7739,48.526,False,False
+132349,NE,John J. Goldsberry,Nonpartisan,15529,100.0,False,False
+132216,NE,Carolyn  Applegate,Nonpartisan,1561,100.0,False,False
+132557,NE,Joel W. Kuehn,Nonpartisan,1201,100.0,False,False
+132200,NE,Duane  Kimball,Nonpartisan,0,,False,False
+132266,NE,Troy  Berryman,Nonpartisan,1477,100.0,False,False
+132442,NE,Yes,Nonpartisan,50295,70.23,False,False
+132442,NE,No,Nonpartisan,21320,29.77,False,False
+132316,NE,Matthew  Mason,Nonpartisan,1489,100.0,False,False
+132620,NE,Allan  Kreman,Nonpartisan,4508,100.0,False,False
+132270,NE,Danna  Wolford,Nonpartisan,1779,100.0,False,False
+132254,NE,Kevin  Wingard,Nonpartisan,3257,100.0,False,False
+132512,NE,Brian  Fanta,Nonpartisan,382,100.0,False,False
+132560,NE,Dana D. Meyer,Nonpartisan,866,100.0,False,False
+132395,NE,Robert  Shelbourn,Nonpartisan,1579,52.112,False,False
+132395,NE,Justin  Hammond,Nonpartisan,1451,47.888,False,False
+132379,NE,Phillip  Klein,Nonpartisan,44496,100.0,False,False
+132445,NE,Yes,Nonpartisan,65810,71.385,False,False
+132445,NE,No,Nonpartisan,26380,28.615,False,False
+132511,NE,Mark  Knobel,Nonpartisan,5929,100.0,False,False
+132237,NE,Matt  Connealy,Nonpartisan,3032,100.0,False,False
+132303,NE,Scott  Klinginsmith,Nonpartisan,946,100.0,False,False
+132586,NE,Dave  Brauer,Nonpartisan,2161,100.0,False,False
+132545,NE,McKenna  Edens,Nonpartisan,204,100.0,False,False
+132412,NE,Yes,Nonpartisan,23091,77.627,False,False
+132412,NE,No,Nonpartisan,6655,22.373,False,False
+132531,NE,Ethan  Skinner,Nonpartisan,427,100.0,False,False
+132590,NE,Anthony J. Bohaty,Nonpartisan,1806,100.0,False,False
+132574,NE,Steve  Hornickel,Nonpartisan,166,100.0,False,False
+132608,NE,Kevin  Oligmueller,Nonpartisan,4819,68.686,False,False
+132608,NE,Larry Lee Scott Bolinger,Nonpartisan,2197,31.314,False,False
+132432,NE,Yes,Nonpartisan,15313,74.95,False,False
+132432,NE,No,Nonpartisan,5118,25.05,False,False
+132498,NE,Klark  Knipe,Nonpartisan,0,,False,False
+132482,NE,Cally  Ideus,Nonpartisan,10036,58.096,False,False
+132482,NE,Janet M. Bock,Nonpartisan,7239,41.904,False,False
+132356,NE,Larissa  Schultz,Nonpartisan,14902,100.0,False,False
+132607,NE,Nancy  Fisher,Nonpartisan,0,,False,False
+132564,NE,Darin J. Petersen,Nonpartisan,1335,53.701,False,False
+132564,NE,Gary E. Koehlmoos,Nonpartisan,1151,46.299,False,False
+132207,NE,Ronald H. Tuttle,Nonpartisan,4299,100.0,False,False
+132497,NE,Adam M. Howard,Nonpartisan,0,,False,False
+132225,NE,Cheryl  Bales,Nonpartisan,706,100.0,False,False
+132323,NE,Mark  Burenheide,Nonpartisan,3823,100.0,False,False
+132211,NE,Bill  Gilbreath,Nonpartisan,995,100.0,False,False
+132277,NE,Scottie L. Reynolds,Nonpartisan,340,100.0,False,False
+132261,NE,April  Emeigh,Nonpartisan,955,100.0,False,False
+132327,NE,Colton R. DeBower,Nonpartisan,1994,100.0,False,False
+132535,NE,Jason  Taylor,Nonpartisan,13989,52.081,False,False
+132535,NE,Anthony J. Strawn,Nonpartisan,12871,47.919,False,False
+132178,NE,Linda  Aerni,Nonpartisan,15369,100.0,False,False
+132386,NE,Tanya  Cook,Nonpartisan,20201,100.0,False,False
+132452,NE,Yes,Nonpartisan,21467,71.762,False,False
+132452,NE,No,Nonpartisan,8447,28.238,False,False
+132326,NE,Tim  Bartak,Nonpartisan,2056,100.0,False,False
+132244,NE,Brenda  Sherman,Nonpartisan,15267,100.0,False,False
+132310,NE,Jason  Pohlmann,Nonpartisan,9505,100.0,False,False
+132593,NE,Trevor C. Gotschall,Nonpartisan,1019,100.0,False,False
+132360,NE,Gary  Hellerich,Nonpartisan,6421,59.625,False,False
+132360,NE,Karis  Ahlberg,Nonpartisan,4348,40.375,False,False
+132419,NE,Yes,Nonpartisan,106579,67.818,False,False
+132419,NE,No,Nonpartisan,50575,32.182,False,False
+132181,NE,Greg W. Wilke,Nonpartisan,5781,53.767,False,False
+132181,NE,Kyle  Shepherd,Nonpartisan,4971,46.233,False,False
+132581,NE,Bruce A. Lans,Nonpartisan,939,100.0,False,False
+132423,NE,Yes,Nonpartisan,105311,66.885,False,False
+132423,NE,No,Nonpartisan,52141,33.115,False,False
+132215,NE,Caroline B. Winchester,Nonpartisan,1696,100.0,False,False
+132281,NE,Joshua  Wright,Nonpartisan,0,,False,False
+132297,NE,Robert L. Riddle,Nonpartisan,0,,False,False
+132297,NE,William  Ondrak,Nonpartisan,0,,False,False
+132363,NE,Ted  Kessler,Nonpartisan,12109,100.0,False,False
+132422,NE,Yes,Nonpartisan,97383,61.906,False,False
+132422,NE,No,Nonpartisan,59926,38.094,False,False
+132539,NE,Tim N. Fowler,Nonpartisan,15545,100.0,False,False
+132406,NE,Elizabeth  Butler,Nonpartisan,45140,54.735,False,False
+132406,NE,Jill  Wolfe,Nonpartisan,37330,45.265,False,False
+132280,NE,Patty  Andersen,Nonpartisan,0,,False,False
+132456,NE,Yes,Nonpartisan,401173,71.896,False,False
+132456,NE,No,Nonpartisan,156821,28.104,False,False
+132330,NE,Tom  Knutson,Nonpartisan,1929,100.0,False,False
+132506,NE,J. Duane Sugden,Nonpartisan,1438,100.0,False,False
+132268,NE,Debra J. Adams,Nonpartisan,1370,100.0,False,False
+132334,NE,Justin  King,Nonpartisan,1590,100.0,False,False
+132318,NE,Chad A. Korth,Nonpartisan,4244,100.0,False,False
+132377,NE,Dennis  Reiners,Nonpartisan,216,100.0,False,False
+132201,NE,Molly  Dixon,Nonpartisan,0,,False,False
+132235,NE,Kimberly  Snyder,Nonpartisan,2217,100.0,False,False
+132219,NE,Michael  Harris,Nonpartisan,817,100.0,False,False
+132509,NE,Stewart  Huneke,Nonpartisan,1676,100.0,False,False
+132376,NE,Lucas  Glodowski,Nonpartisan,203,100.0,False,False
+132301,NE,Aaron  Paus,Nonpartisan,1116,100.0,False,False
+132367,NE,Tom  Green,Nonpartisan,9037,100.0,False,False
+132426,NE,Yes,Nonpartisan,21961,74.313,False,False
+132426,NE,No,Nonpartisan,7591,25.687,False,False
+132186,NE,Thomas R. Downey,Nonpartisan,3046,100.0,False,False
+132476,NE,Dean  Helmick,Nonpartisan,9797,52.267,False,False
+132476,NE,Caitlin  Knutson,Nonpartisan,8947,47.733,False,False
+132588,NE,Micheal D. Nuss,Nonpartisan,2549,100.0,False,False
+132430,NE,Yes,Nonpartisan,21841,79.111,False,False
+132430,NE,No,Nonpartisan,5767,20.889,False,False
+132414,NE,Yes,Nonpartisan,18912,78.506,False,False
+132414,NE,No,Nonpartisan,5178,21.494,False,False
+132256,NE,Eric G. Malina,Nonpartisan,3191,100.0,False,False
+132304,NE,Larry  Gorecki,Nonpartisan,265,100.0,False,False
+132562,NE,Camie M. Cox,Nonpartisan,439,51.526,False,False
+132562,NE,Kenneth  Ham,Nonpartisan,413,48.474,False,False
+132546,NE,David  Hamburger,Nonpartisan,382,100.0,False,False
+132605,NE,Ronald  Bolze,Nonpartisan,0,,False,False
+132255,NE,Nancy  Meyer,Nonpartisan,3132,100.0,False,False
+132205,NE,Kay  Grimminger,Nonpartisan,3341,100.0,False,False
+132463,NE,Wayne  Williams,Nonpartisan,14990,100.0,False,False
+132561,NE,Brent  Evans,Nonpartisan,653,100.0,False,False
+132289,NE,David  Condon,Nonpartisan,1095,100.0,False,False
+132380,NE,Tammy L. Wright,Nonpartisan,32359,100.0,False,False
+132275,NE,Rocky  Ondracek,Nonpartisan,179,100.0,False,False
+132341,NE,Shane  Lechtenberg,Nonpartisan,1879,100.0,False,False
+132325,NE,Jeremy J. Eschliman,Nonpartisan,18127,100.0,False,False
+132576,NE,Jon  Walz,Nonpartisan,2335,100.0,False,False
+132592,NE,Chris  Dierks,Nonpartisan,5547,100.0,False,False
+132434,NE,Yes,Nonpartisan,23150,77.508,False,False
+132434,NE,No,Nonpartisan,6718,22.492,False,False
+132226,NE,Sherry  Polk,Nonpartisan,1508,100.0,False,False
+132516,NE,Miles  Danner,Nonpartisan,494,100.0,False,False
+132575,NE,Eric  Brown,Nonpartisan,11986,100.0,False,False
+132308,NE,Richard  Aerni,Nonpartisan,5606,100.0,False,False
+132175,NE,Rita  Skiles,Nonpartisan,16290,100.0,False,False
+132241,NE,Stan  Turner,Nonpartisan,15530,100.0,False,False
+132193,NE,Amy  Kyes,Nonpartisan,3987,100.0,False,False
+132483,NE,Mark  Schoenrock,Nonpartisan,8615,61.177,False,False
+132483,NE,Shay  Smith,Nonpartisan,5467,38.823,False,False
+132437,NE,Yes,Nonpartisan,20377,74.633,False,False
+132437,NE,No,Nonpartisan,6926,25.367,False,False
+132421,NE,Yes,Nonpartisan,101789,64.828,False,False
+132421,NE,No,Nonpartisan,55225,35.172,False,False
+132487,NE,Cindy  Maxwell-Ostdiek,Nonpartisan,9187,51.03,False,False
+132487,NE,R. Brad  von Gillern,Nonpartisan,8816,48.97,False,False
+132279,NE,Tyler  Ammon,Nonpartisan,0,,False,False
+132345,NE,Larry  Baumeister,Nonpartisan,1664,100.0,False,False
+132361,NE,Kenny  Fischer,Nonpartisan,8965,100.0,False,False
+132612,NE,Brock  Stromberger,Nonpartisan,2485,100.0,False,False
+132486,NE,Tim  Anderson,Nonpartisan,8061,51.334,False,False
+132486,NE,Janell  Anderson Ehrke,Nonpartisan,7642,48.666,False,False
+132596,NE,Tony  Sanderson,Nonpartisan,740,100.0,False,False
+132470,NE,Lou Ann  Goding,Nonpartisan,40352,51.194,False,False
+132470,NE,Sherrye  Hutcherson,Nonpartisan,38469,48.806,False,False
+132344,NE,Dwain  Marcellus,Nonpartisan,1623,100.0,False,False
+132520,NE,Kent  Andreas,Nonpartisan,10997,100.0,False,False
+132387,NE,Kimberly A. Korgan,Nonpartisan,5394,100.0,False,False
+132371,NE,Troy M. Fletcher,Nonpartisan,1149,100.0,False,False
+132332,NE,Gary A. Kruse,Nonpartisan,1914,100.0,False,False
+132391,NE,Tricia  Schaffer,Nonpartisan,4486,100.0,False,False
+132183,NE,Keith A. Ostermeier,Nonpartisan,32242,100.0,False,False
+132441,NE,Yes,Nonpartisan,48320,68.734,False,False
+132441,NE,No,Nonpartisan,21980,31.266,False,False
+132457,NE,Yes,Nonpartisan,105961,67.506,False,False
+132457,NE,No,Nonpartisan,51005,32.494,False,False
+132523,NE,Steven M. Anderson,Nonpartisan,6316,100.0,False,False
+132390,NE,Benjamin A. Lashley,Nonpartisan,5857,100.0,False,False
+132283,NE,Scott E. Hallock,Nonpartisan,0,,False,False
+132374,NE,Don  Duffy,Nonpartisan,884,100.0,False,False
+132440,NE,Yes,Nonpartisan,48694,68.73,False,False
+132440,NE,No,Nonpartisan,22154,31.27,False,False
+132365,NE,Alex  Johnson,Nonpartisan,5137,100.0,False,False
+132616,NE,Dean  Large,Nonpartisan,329,100.0,False,False
+132490,NE,Mike  Jacobson,Nonpartisan,10036,74.352,False,False
+132490,NE,Shaylee S. Scranton,Nonpartisan,3462,25.648,False,False
+132250,NE,Betty J. Meyer,Nonpartisan,1520,100.0,False,False
+132540,NE,Jeffrey W. Obermier,Nonpartisan,1792,100.0,False,False
+132428,NE,Yes,Nonpartisan,12733,76.788,False,False
+132428,NE,No,Nonpartisan,3849,23.212,False,False
+132494,NE,Patrick  Leahy,Nonpartisan,8223,57.467,False,False
+132494,NE,Nate  Ostdiek,Nonpartisan,6086,42.533,False,False
+132478,NE,Dawson  Brunswick,Nonpartisan,9517,100.0,False,False
+132320,NE,Melissa C. Temple,Nonpartisan,2844,100.0,False,False
+132368,NE,Donna  Baur,Nonpartisan,6023,59.369,False,False
+132368,NE,Robert C. Andersen,Nonpartisan,4122,40.631,False,False
+132203,NE,Pat  Hecox,Nonpartisan,1811,53.771,False,False
+132203,NE,Kurt M. Karlberg,Nonpartisan,1557,46.229,False,False
+132187,NE,Luke  Ourada,Nonpartisan,3328,100.0,False,False
+132253,NE,Duane W. Smith,Nonpartisan,1301,100.0,False,False
+132319,NE,Brad  Lowe,Nonpartisan,2090,50.144,False,False
+132319,NE,Scott  Clausen,Nonpartisan,2078,49.856,False,False
+132461,NE,Bill  Tielke,Nonpartisan,8011,53.848,False,False
+132461,NE,Dennis  Sperling,Nonpartisan,6866,46.152,False,False
+132527,NE,Leslie H. Albrecht,Nonpartisan,512,100.0,False,False
+132394,NE,Mark  Monroe,Nonpartisan,1800,59.269,False,False
+132394,NE,Tonny W. Beck,Nonpartisan,1237,40.731,False,False
+132353,NE,Ryan J. Sabata,Nonpartisan,15659,100.0,False,False
+132220,NE,Jesse L. Stevens,Nonpartisan,752,100.0,False,False
+132339,NE,Deborah  Hansen,Nonpartisan,0,,False,False
+132398,NE,Andy  O'Dea,Nonpartisan,1304,100.0,False,False
+132382,NE,Martha  Bruckner,Nonpartisan,33090,100.0,False,False
+132416,NE,Yes,Nonpartisan,50968,68.344,False,False
+132416,NE,No,Nonpartisan,23608,31.656,False,False
+132240,NE,Richard  McGill,Nonpartisan,1856,100.0,False,False
+132306,NE,Dana  Schultz,Nonpartisan,881,100.0,False,False
+132290,NE,Carly  Christensen,Nonpartisan,1256,100.0,False,False
+132573,NE,Tim  Wells,Nonpartisan,316,100.0,False,False
+132415,NE,Yes,Nonpartisan,15404,73.556,False,False
+132415,NE,No,Nonpartisan,5538,26.444,False,False
+132173,NE,Dean  Kleinschmit,Nonpartisan,1271,100.0,False,False
+132623,NE,Marcus  Milanuk,Nonpartisan,842,54.393,False,False
+132623,NE,Toni L. Blomenkamp,Nonpartisan,706,45.607,False,False
+132305,NE,Randy  Treptow,Nonpartisan,76,100.0,False,False
+132449,NE,Yes,Nonpartisan,109493,68.901,False,False
+132449,NE,No,Nonpartisan,49420,31.099,False,False
+132547,NE,Mark E. Zalman,Nonpartisan,395,100.0,False,False
+132435,NE,Yes,Nonpartisan,18908,77.153,False,False
+132435,NE,No,Nonpartisan,5599,22.847,False,False
+132501,NE,Dick  James,Nonpartisan,0,,False,False
+132485,NE,Rick  Holdcroft,Nonpartisan,8607,52.075,False,False
+132485,NE,Darin  Tompkins,Nonpartisan,7921,47.925,False,False
+132551,NE,Kathryn E. Narjes,Nonpartisan,581,100.0,False,False
+132343,NE,Gene  Chohon,Nonpartisan,1223,67.05,False,False
+132343,NE,Terry  Julesgard,Nonpartisan,601,32.95,False,False
+132594,NE,John W. Vogel,Nonpartisan,686,100.0,False,False
+132194,NE,Travis  Petersen,Nonpartisan,1078,54.116,False,False
+132194,NE,Kaden  Hall,Nonpartisan,914,45.884,False,False
+132260,NE,Steven P. Heinisch,Nonpartisan,1443,100.0,False,False
+132550,NE,David L. Kucera,Nonpartisan,667,100.0,False,False
+132468,NE,Sherry  Jones,Nonpartisan,41090,62.211,False,False
+132468,NE,Grady  Erickson,Nonpartisan,24959,37.789,False,False
+132534,NE,Carol  Blood,Nonpartisan,17456,53.435,False,False
+132534,NE,Jim  Smith,Nonpartisan,15212,46.565,False,False
+132401,NE,Kevin  Fornoff,Nonpartisan,1137,100.0,False,False
+132168,NE,James R. Woita,Nonpartisan,378,100.0,False,False
+132227,NE,Judy  Seger,Nonpartisan,1341,100.0,False,False
+87252,NE,Denise  Powell,Democratic,145503,56.66,True,False
+87252,NE,Brinker  Harding,Republican,104611,40.736,False,False
+87252,NE,Eric Michael Foreman,Libertarian,6686,2.604,False,False
+87253,NE,Adrian  Smith,Republican,174289,70.999,True,False
+87253,NE,Becky Stille,Democratic,49066,19.988,False,False
+87253,NE,Mark  Cohen,Independent,8109,3.303,False,False
+87253,NE,David Else,Legal Marijuana Now,7140,2.909,False,False
+87253,NE,Macey  Budke,Nebraska Working People,6876,2.801,False,False
+87254,NE,Pete  Ricketts,Republican,381045,49.941,True,False
+87254,NE,Dan  Osborn,Independent,336296,44.076,False,False
+87254,NE,Robin  Richards,Nebraska Working People,19886,2.606,False,False
+87254,NE,Mike  Marvin,Legal Marijuana Now,16547,2.169,False,False
+87254,NE,Chuck  Conboy,America First,9222,1.209,False,False
+87251,NE,Mike  Flood,Republican,128772,49.65,True,False
+87251,NE,Chris  Backemeyer,Democratic,121340,46.784,False,False
+87251,NE,Nik  Sandman,Libertarian,4739,1.827,False,False
+87251,NE,Dan  Hartong,America First,4509,1.739,False,False

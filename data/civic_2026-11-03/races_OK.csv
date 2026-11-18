@@ -1,0 +1,185 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+158945,OK,Oklahoma Court of Civil Appeals District 2 Office 2 Retention,2026-11-03,0,,False,2,77,0,2026-11-18T16:13+00:00
+158930,OK,Oklahoma Superintendent of Public Instruction,2026-11-03,1.3,2026-11-17T03:50:43.246Z,False,2,77,1109588,2026-11-18T16:13+00:00
+158929,OK,Oklahoma State Treasurer,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,77,1036007,2026-11-18T16:13+00:00
+158942,OK,Oklahoma Court of Civil Appeals District 1 Office 1 Retention,2026-11-03,0,,False,2,77,0,2026-11-18T16:13+00:00
+159561,OK,Oklahoma State House,2026-11-03,38.3,,False,4,55,629251,2026-11-18T16:13+00:00
+87582,OK,Oklahoma Governor,2026-11-03,85.5,2026-11-04T04:54:22.572Z,False,5,77,1120930,2026-11-18T16:13+00:00
+158932,OK,Oklahoma Insurance Commissioner,2026-11-03,1.3,2026-11-17T03:50:43.246Z,False,2,77,1110455,2026-11-18T16:13+00:00
+158938,OK,Oklahoma Supreme Court District 4 Retention,2026-11-03,0,,False,2,77,0,2026-11-18T16:13+00:00
+158947,OK,Oklahoma State Question 847,2026-11-03,99.9,,False,2,77,1079201,2026-11-18T16:13+00:00
+158928,OK,Oklahoma Attorney General,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,77,1116342,2026-11-18T16:13+00:00
+158941,OK,Oklahoma Court of Criminal Appeals District 2 Retention,2026-11-03,0,,False,2,77,0,2026-11-18T16:13+00:00
+158944,OK,Oklahoma Court of Civil Appeals District 2 Office 1 Retention,2026-11-03,0,,False,2,77,0,2026-11-18T16:13+00:00
+159573,OK,Oklahoma State Auditor and Inspector,2026-11-03,98.7,,False,1,77,0,2026-11-18T16:13+00:00
+158931,OK,Oklahoma Commissioner of Labor,2026-11-03,1.3,2026-11-17T03:50:43.246Z,False,3,77,1110867,2026-11-18T16:13+00:00
+158940,OK,Oklahoma Supreme Court District 9 Retention,2026-11-03,0,,False,2,77,0,2026-11-18T16:13+00:00
+158946,OK,Oklahoma State Question 845,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,77,1071708,2026-11-18T16:13+00:00
+158927,OK,Oklahoma Lieutenant Governor,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,77,1118976,2026-11-18T16:13+00:00
+158937,OK,Oklahoma Supreme Court District 1 Retention,2026-11-03,0,,False,2,77,0,2026-11-18T16:13+00:00
+158943,OK,Oklahoma Court of Civil Appeals District 1 Office 2 Retention,2026-11-03,0,,False,2,77,0,2026-11-18T16:13+00:00
+159562,OK,Oklahoma State Senate,2026-11-03,30.4,,False,3,15,353521,2026-11-18T16:13+00:00
+158933,OK,Oklahoma Corporation Commissioner,2026-11-03,1.3,2026-11-17T03:50:43.246Z,False,2,77,1108225,2026-11-18T16:13+00:00
+158939,OK,Oklahoma Supreme Court District 6 Retention,2026-11-03,0,,False,2,77,0,2026-11-18T16:13+00:00
+159047,OK,Oklahoma Oklahoma County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159037,OK,Oklahoma State House 81,2026-11-03,50,2026-11-12T01:54:12.336Z,False,2,1,13913,2026-11-18T16:13+00:00
+158956,OK,Oklahoma Caddo County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159042,OK,Oklahoma State House 87,2026-11-03,50,2026-11-04T07:09:42.101Z,False,2,1,9105,2026-11-18T16:13+00:00
+159089,OK,Oklahoma State House 80,2026-11-03,50,2026-11-04T07:09:42.100Z,False,2,1,14330,2026-11-18T16:13+00:00
+158958,OK,Oklahoma Town of Carnegie Proposition No. 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158948,OK,Oklahoma State House 58,2026-11-03,16.7,2026-11-04T07:09:42.100Z,False,2,5,10675,2026-11-18T16:13+00:00
+159034,OK,Oklahoma Nowata County Associate District Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158953,OK,Oklahoma District Judge District 4 Office 2,2026-11-03,0,,False,2,4,0,2026-11-18T16:13+00:00
+159064,OK,Oklahoma City of Pawnee Proposition,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159061,OK,Oklahoma District Judge District 14 Office 1,2026-11-03,0,,False,2,2,0,2026-11-18T16:13+00:00
+158977,OK,Oklahoma State House 53,2026-11-03,50,2026-11-12T01:54:12.336Z,False,2,1,11583,2026-11-18T16:13+00:00
+159031,OK,Oklahoma State House 16,2026-11-03,25,2026-11-04T07:09:42.100Z,False,2,3,10434,2026-11-18T16:13+00:00
+158982,OK,Oklahoma City of Moore Proposition,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159011,OK,Oklahoma Jefferson County Commissioner District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159090,OK,Oklahoma State House 98,2026-11-03,33.3,2026-11-04T07:09:42.101Z,False,2,2,11535,2026-11-18T16:13+00:00
+159023,OK,Oklahoma State House 33,2026-11-03,33.3,2026-11-04T07:09:42.100Z,False,2,2,12135,2026-11-18T16:13+00:00
+159006,OK,Oklahoma Jackson County Proposition No. 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159053,OK,Oklahoma City of Harrah Proposition,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159082,OK,Oklahoma State Senate 36,2026-11-03,33.3,2026-11-04T07:09:42.100Z,False,2,2,21769,2026-11-18T16:13+00:00
+159040,OK,Oklahoma State House 84,2026-11-03,50,2026-11-12T01:54:12.336Z,False,2,1,9838,2026-11-18T16:13+00:00
+158966,OK,Oklahoma State House 49,2026-11-03,25,2026-11-04T07:09:42.100Z,False,2,3,10217,2026-11-18T16:13+00:00
+159077,OK,Oklahoma State House 74,2026-11-03,33.3,2026-11-04T07:09:42.100Z,False,2,2,12639,2026-11-18T16:13+00:00
+159003,OK,Oklahoma Bridge Creek Fire Member of Board of Directors,2026-11-03,0,,False,3,1,0,2026-11-18T16:13+00:00
+158951,OK,Oklahoma Beaver County Commissioner District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159069,OK,Oklahoma Pittsburg County Proposition,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158995,OK,Oklahoma State House 30,2026-11-03,33.3,2026-11-04T07:09:42.100Z,False,2,2,10625,2026-11-18T16:13+00:00
+159074,OK,Oklahoma State Senate 2,2026-11-03,33.3,2026-11-04T07:09:42.099Z,False,2,2,27420,2026-11-18T16:13+00:00
+159000,OK,Oklahoma Town of Shattuck Proposition,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159029,OK,Oklahoma Mayes County Commissioner District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159019,OK,Oklahoma Town of Davenport Proposition No. 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159098,OK,Oklahoma City of Bartlesville Councilmember Ward 5,2026-11-03,0,,False,3,1,0,2026-11-18T16:13+00:00
+158992,OK,Oklahoma State Senate 8,2026-11-03,16.7,2026-11-04T07:09:42.099Z,False,2,5,21947,2026-11-18T16:13+00:00
+158975,OK,Oklahoma State House 36,2026-11-03,33.3,2026-11-04T07:09:42.100Z,False,2,2,13319,2026-11-18T16:13+00:00
+158972,OK,Oklahoma State Senate 24,2026-11-03,50,2026-11-04T07:09:42.100Z,False,3,1,24260,2026-11-18T16:13+00:00
+159016,OK,Oklahoma State Senate 28,2026-11-03,16.7,2026-11-04T07:09:42.100Z,False,2,5,24869,2026-11-18T16:13+00:00
+158935,OK,Oklahoma State House 86,2026-11-03,20,2026-11-04T07:09:42.101Z,False,2,4,9620,2026-11-18T16:13+00:00
+159021,OK,Oklahoma Town of Wellston Proposition,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159050,OK,Oklahoma City of Choctaw Proposition No. 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159001,OK,Oklahoma State House 38,2026-11-03,16.7,2026-11-04T07:09:42.100Z,False,2,5,12337,2026-11-18T16:13+00:00
+159087,OK,Oklahoma State House 78,2026-11-03,50,2026-11-04T07:09:42.100Z,False,2,1,11094,2026-11-18T16:13+00:00
+159045,OK,Oklahoma State House 100,2026-11-03,50,2026-11-04T07:09:42.101Z,False,2,1,12242,2026-11-18T16:13+00:00
+158964,OK,Oklahoma City of El Reno Councilmember Ward 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159072,OK,Oklahoma State House 28,2026-11-03,33.3,2026-11-04T07:09:42.100Z,False,2,2,9852,2026-11-18T16:13+00:00
+159062,OK,Oklahoma District Judge District 14 Office 12,2026-11-03,0,,False,2,2,0,2026-11-18T16:13+00:00
+158988,OK,Oklahoma City of Lawton Council Member Ward 2 Unexpired Term,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159067,OK,Oklahoma Pittsburg County Sheriff Unexpired Term,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158961,OK,Oklahoma State House 41,2026-11-03,20,2026-11-04T07:09:42.100Z,False,2,4,16263,2026-11-18T16:13+00:00
+158990,OK,Oklahoma Town of Big Cabin Proposition No. 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158980,OK,Oklahoma State House 91,2026-11-03,50,2026-11-12T01:54:12.336Z,False,2,1,14001,2026-11-18T16:13+00:00
+159059,OK,Oklahoma City of Bartlesville Councilmember Ward 4,2026-11-03,0,,False,3,2,0,2026-11-18T16:13+00:00
+158985,OK,Oklahoma State House 63,2026-11-03,20,2026-11-12T01:54:12.336Z,False,2,4,8421,2026-11-18T16:13+00:00
+159096,OK,Oklahoma City of Bartlesville Councilmember Ward 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159093,OK,Oklahoma Oak Grove Fire Millage Proposition,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159083,OK,Oklahoma State House 69,2026-11-03,50,2026-11-04T07:09:42.100Z,False,2,1,14625,2026-11-18T16:13+00:00
+159009,OK,Oklahoma Jackson County Proposition No. 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159056,OK,Oklahoma Osage County Commissioner District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159014,OK,Oklahoma Kiowa County Associate District Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159043,OK,Oklahoma State House 96,2026-11-03,50,2026-11-04T07:09:42.101Z,False,2,1,16103,2026-11-18T16:13+00:00
+158962,OK,Oklahoma State House 47,2026-11-03,50,2026-11-04T07:09:42.100Z,False,2,1,14432,2026-11-18T16:13+00:00
+159080,OK,Oklahoma Verdigris Fire Member of the Board of Directors,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159038,OK,Oklahoma State House 82,2026-11-03,50,2026-11-04T07:09:42.101Z,False,2,1,15596,2026-11-18T16:13+00:00
+159085,OK,Oklahoma State House 75,2026-11-03,50,2026-11-12T01:54:12.336Z,False,2,1,8638,2026-11-18T16:13+00:00
+158954,OK,Oklahoma State House 56,2026-11-03,25,2026-11-04T07:09:42.100Z,False,2,3,9727,2026-11-18T16:13+00:00
+159065,OK,Oklahoma State House 34,2026-11-03,50,2026-11-04T07:09:42.100Z,False,2,1,7506,2026-11-18T16:13+00:00
+158998,OK,Oklahoma City of Clinton Mayor,2026-11-03,0,,False,2,2,0,2026-11-18T16:13+00:00
+158949,OK,Oklahoma Alfalfa County Associate District Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159035,OK,Oklahoma Okfuskee County Proposition,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158983,OK,Oklahoma State Senate 32,2026-11-03,50,2026-11-12T01:54:12.336Z,False,3,1,15693,2026-11-18T16:13+00:00
+158973,OK,Oklahoma State House 20,2026-11-03,33.3,2026-11-04T07:09:42.100Z,False,2,2,13207,2026-11-18T16:13+00:00
+159027,OK,Oklahoma City of Eufaula Proposition,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158978,OK,Oklahoma State House 54,2026-11-03,33.3,2026-11-12T01:54:12.336Z,False,2,2,9675,2026-11-18T16:13+00:00
+159032,OK,Oklahoma Town of Marland Proposition,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159054,OK,Oklahoma Okmulgee County Commissioner District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159051,OK,Oklahoma City of Choctaw Proposition No. 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158970,OK,Oklahoma Choctaw County Commissioner District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159024,OK,Oklahoma Logan County Associate District Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159007,OK,Oklahoma Jackson County Proposition No. 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159004,OK,Oklahoma Greer County Commissioner District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159048,OK,Oklahoma Oklahoma County Commissioner District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158967,OK,Oklahoma City of Healdton Proposition,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159078,OK,Oklahoma Rogers County Assessor,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159075,OK,Oklahoma State House 9,2026-11-03,33.3,2026-11-04T07:09:42.100Z,False,2,2,11920,2026-11-18T16:13+00:00
+159033,OK,Oklahoma State House 10,2026-11-03,25,2026-11-04T07:09:42.100Z,False,2,3,11351,2026-11-18T16:13+00:00
+158959,OK,Oklahoma State Senate 18,2026-11-03,33.3,2026-11-04T07:09:42.099Z,False,2,2,26458,2026-11-18T16:13+00:00
+159070,OK,Oklahoma City of McAlester Proposition,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158996,OK,Oklahoma State House 68,2026-11-03,33.3,2026-11-04T07:09:42.100Z,False,2,2,10465,2026-11-18T16:13+00:00
+158993,OK,Oklahoma State Senate 12,2026-11-03,33.3,2026-11-04T07:09:42.099Z,False,2,2,24062,2026-11-18T16:13+00:00
+158976,OK,Oklahoma State House 45,2026-11-03,50,2026-11-04T07:09:42.100Z,False,2,1,12531,2026-11-18T16:13+00:00
+159094,OK,Oklahoma Washington County Associate District Judge,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159020,OK,Oklahoma Town of Davenport Proposition No. 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159099,OK,Oklahoma Woodward County Assessor,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159022,OK,Oklahoma Southwest Lin. Co. Fire #1 Member of the Board of Directors,2026-11-03,0,,False,3,1,0,2026-11-18T16:13+00:00
+159012,OK,Oklahoma State Senate 10,2026-11-03,25,2026-11-04T07:09:42.099Z,False,2,3,24412,2026-11-18T16:13+00:00
+159091,OK,Oklahoma District Judge District 14 Office 4,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159017,OK,Oklahoma State House 32,2026-11-03,25,2026-11-04T07:09:42.100Z,False,2,3,11543,2026-11-18T16:13+00:00
+158936,OK,Oklahoma Adair County Commissioner District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158965,OK,Oklahoma City of Yukon Councilmember Ward 3 Unexpired Term,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158955,OK,Oklahoma Caddo County Assessor,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159041,OK,Oklahoma State House 85,2026-11-03,50,2026-11-04T07:09:42.101Z,False,2,1,16203,2026-11-18T16:13+00:00
+159088,OK,Oklahoma State House 79,2026-11-03,50,2026-11-04T07:09:42.100Z,False,2,1,10308,2026-11-18T16:13+00:00
+159046,OK,Oklahoma Oklahoma County Assessor,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159068,OK,Oklahoma Pittsburg County Commissioner District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158994,OK,Oklahoma State House 24,2026-11-03,25,2026-11-04T07:09:42.100Z,False,2,3,12349,2026-11-18T16:13+00:00
+158952,OK,Oklahoma Blaine County Commissioner District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159063,OK,Oklahoma City of Cleveland Proposition,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158957,OK,Oklahoma Town of Carnegie Proposition No. 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158986,OK,Oklahoma State House 64,2026-11-03,50,2026-11-12T01:54:12.336Z,False,2,1,7141,2026-11-18T16:13+00:00
+159097,OK,Oklahoma City of Bartlesville Councilmember Ward 3,2026-11-03,0,,False,3,1,0,2026-11-18T16:13+00:00
+159030,OK,Oklahoma Mayes County Commissioner District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158981,OK,Oklahoma State House 95,2026-11-03,33.3,2026-11-04T07:09:42.101Z,False,3,2,10037,2026-11-18T16:13+00:00
+159060,OK,Oklahoma Pawnee County Treasurer,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159015,OK,Oklahoma State House 3,2026-11-03,50,2026-11-04T07:09:42.100Z,False,2,1,9098,2026-11-18T16:13+00:00
+159005,OK,Oklahoma Harper County Proposition,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159084,OK,Oklahoma State House 72,2026-11-03,50,2026-11-04T07:09:42.100Z,False,2,1,7190,2026-11-18T16:13+00:00
+159010,OK,Oklahoma Town of Headrick Proposition,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159057,OK,Oklahoma City of Tulsa Council District 1,2026-11-03,0,,False,2,2,0,2026-11-18T16:13+00:00
+159086,OK,Oklahoma State House 76,2026-11-03,50,2026-11-04T07:09:42.100Z,False,2,1,11888,2026-11-18T16:13+00:00
+159076,OK,Oklahoma State House 23,2026-11-03,25,2026-11-04T07:09:42.100Z,False,2,3,9070,2026-11-18T16:13+00:00
+159002,OK,Oklahoma Grady County Commissioner District 3,2026-11-03,0,,False,3,1,0,2026-11-18T16:13+00:00
+159081,OK,Oklahoma State Senate 34,2026-11-03,50,2026-11-12T01:54:12.336Z,False,2,1,18079,2026-11-18T16:13+00:00
+159039,OK,Oklahoma State House 83,2026-11-03,50,2026-11-04T07:09:42.101Z,False,2,1,15449,2026-11-18T16:13+00:00
+159036,OK,Oklahoma State Senate 42,2026-11-03,50,2026-11-04T07:09:42.100Z,False,2,1,25056,2026-11-18T16:13+00:00
+159073,OK,Oklahoma Pushmataha County Commissioner District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158999,OK,Oklahoma City of Clinton Councilman Ward 4,2026-11-03,0,,False,2,2,0,2026-11-18T16:13+00:00
+158950,OK,Oklahoma State Senate 6,2026-11-03,16.7,2026-11-04T07:09:42.099Z,False,2,5,20923,2026-11-18T16:13+00:00
+158979,OK,Oklahoma State House 90,2026-11-03,33.3,2026-11-12T01:54:12.336Z,False,2,2,7992,2026-11-18T16:13+00:00
+159058,OK,Oklahoma City of Tulsa Hotel Tax Proposition No. 1,2026-11-03,0,,False,2,4,0,2026-11-18T16:13+00:00
+158991,OK,Oklahoma Town of Big Cabin Proposition No. 2,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158974,OK,Oklahoma State House 27,2026-11-03,33.3,2026-11-04T07:09:42.100Z,False,2,2,12417,2026-11-18T16:13+00:00
+159028,OK,Oklahoma Marshall County Proposition,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159025,OK,Oklahoma McCurtain County Commissioner District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159008,OK,Oklahoma Jackson County Proposition No. 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158934,OK,Oklahoma State Senate 4,2026-11-03,20,2026-11-04T07:09:42.099Z,False,2,4,21036,2026-11-18T16:13+00:00
+159052,OK,Oklahoma City of Choctaw Proposition No. 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158971,OK,Oklahoma State Senate 17 Unexpired Term,2026-11-03,25,2026-11-04T07:09:42.099Z,False,2,3,23663,2026-11-18T16:13+00:00
+159079,OK,Oklahoma Rogers County Commissioner District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159044,OK,Oklahoma State House 99,2026-11-03,50,2026-11-04T07:09:42.101Z,False,2,1,9872,2026-11-18T16:13+00:00
+158963,OK,Oklahoma State House 60,2026-11-03,50,2026-11-04T07:09:42.100Z,False,2,1,14364,2026-11-18T16:13+00:00
+159049,OK,Oklahoma Oklahoma County Proposition,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158968,OK,Oklahoma State House 4,2026-11-03,33.3,2026-11-04T07:09:42.100Z,False,2,2,10285,2026-11-18T16:13+00:00
+158997,OK,Oklahoma Creek County Commissioner District 3,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158987,OK,Oklahoma District Judge District 5 Office 1,2026-11-03,0,,False,2,4,0,2026-11-18T16:13+00:00
+159066,OK,Oklahoma City of Cushing Proposition,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158960,OK,Oklahoma State Senate 22,2026-11-03,33.3,2026-11-04T07:09:42.100Z,False,2,2,33874,2026-11-18T16:13+00:00
+159071,OK,Oklahoma State House 26,2026-11-03,50,2026-11-04T07:09:42.100Z,False,2,1,10205,2026-11-18T16:13+00:00
+159100,OK,Oklahoma City of Woodward Proposition,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159026,OK,Oklahoma McIntosh County Commissioner District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158984,OK,Oklahoma State House 62,2026-11-03,50,2026-11-12T01:54:12.336Z,False,2,1,8200,2026-11-18T16:13+00:00
+159095,OK,Oklahoma City of Bartlesville Councilmember Ward 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+158989,OK,Oklahoma Craig County Commissioner District 1,2026-11-03,0,,False,2,1,0,2026-11-18T16:13+00:00
+159018,OK,Oklahoma District Judge District 23 Office 2,2026-11-03,0,,False,2,2,0,2026-11-18T16:13+00:00
+158969,OK,Oklahoma State House 14,2026-11-03,25,2026-11-04T07:09:42.100Z,False,2,3,9751,2026-11-18T16:13+00:00
+159055,OK,Oklahoma State House 66,2026-11-03,33.3,2026-11-04T07:09:42.100Z,False,2,2,11113,2026-11-18T16:13+00:00
+159013,OK,Oklahoma District Judge District 8 Office 1,2026-11-03,0,,False,2,2,0,2026-11-18T16:13+00:00
+159092,OK,Oklahoma State House 12,2026-11-03,50,2026-11-04T07:09:42.100Z,False,2,1,14822,2026-11-18T16:13+00:00
+87510,OK,Oklahoma US House 2,2026-11-03,78.8,2026-11-04T02:21:59.541Z,False,3,28,211983,2026-11-18T16:13+00:00
+87512,OK,Oklahoma US House 4,2026-11-03,84.1,2026-11-04T02:21:59.541Z,False,3,14,218128,2026-11-18T16:13+00:00
+87526,OK,Oklahoma US Senate,2026-11-03,85.4,2026-11-04T02:40:01.574Z,False,5,77,1118730,2026-11-18T16:13+00:00
+87509,OK,Oklahoma US House 1,2026-11-03,88,2026-11-04T05:03:40.274Z,False,2,4,232104,2026-11-18T16:13+00:00
+87511,OK,Oklahoma US House 3,2026-11-03,84.4,2026-11-04T02:21:59.541Z,False,2,32,191013,2026-11-18T16:13+00:00
+87513,OK,Oklahoma US House 5,2026-11-03,91.1,2026-11-04T22:15:35.169Z,False,4,6,264784,2026-11-18T16:13+00:00

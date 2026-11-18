@@ -1,0 +1,1968 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+139733,VA,Yes,Nonpartisan,2260108,62.867,True,False
+139733,VA,No,Nonpartisan,1334935,37.133,False,False
+139734,VA,Yes,Nonpartisan,2100100,57.885,True,False
+139734,VA,No,Nonpartisan,1527943,42.115,False,False
+139732,VA,Yes,Nonpartisan,2061741,56.943,True,False
+139732,VA,No,Nonpartisan,1558955,43.057,False,False
+139741,VA,Olivia C. Bailey,Nonpartisan,1712,27.493,False,False
+139741,VA,R. Wayne Austin,Nonpartisan,1711,27.477,False,False
+139741,VA,J. Greg Lilly,Nonpartisan,1095,17.585,False,False
+139741,VA,Frank Goodpasture IV,Nonpartisan,820,13.168,False,False
+139741,VA,"William P. ""Bill"" Anderson",Nonpartisan,803,12.895,False,False
+139741,VA,Write-in,Nonpartisan,86,1.381,False,False
+139452,VA,Suzanne Carter Abramson,Nonpartisan,302,54.909,False,False
+139452,VA,"R. Eugene Call, Jr.",Nonpartisan,237,43.091,False,False
+139452,VA,Write-in,Nonpartisan,11,2.0,False,False
+139682,VA,Benjamin A. Gibson,Nonpartisan,79,87.778,False,False
+139682,VA,Write-in,Nonpartisan,11,12.222,False,False
+139727,VA,Zachery C. Taylor,Nonpartisan,11761,57.539,False,False
+139727,VA,"James C. ""Chris"" Lewis",Nonpartisan,8518,41.673,False,False
+139727,VA,Write-in,Nonpartisan,161,0.788,False,False
+139643,VA,Cletis Wilton Lassiter,Nonpartisan,186,95.385,False,False
+139643,VA,Write-in,Nonpartisan,9,4.615,False,False
+139681,VA,Kevin D. Jones,Nonpartisan,586,20.634,False,False
+139681,VA,Ollie L. Riddick Jr.,Nonpartisan,560,19.718,False,False
+139681,VA,"Thomas H. Jones, Jr.",Nonpartisan,507,17.852,False,False
+139681,VA,Tara Leigh Norris,Nonpartisan,484,17.042,False,False
+139681,VA,Amanda Sheffield Korsah,Nonpartisan,449,15.81,False,False
+139681,VA,Nick M. Kinsley,Nonpartisan,238,8.38,False,False
+139681,VA,Write-in,Nonpartisan,16,0.563,False,False
+139502,VA,Terri L. Tatem,Nonpartisan,164,19.759,False,False
+139502,VA,"Robert K. ""Bo"" Lewis, Sr.",Nonpartisan,146,17.59,False,False
+139502,VA,"B. B. ""Barry"" Downing Jr.",Nonpartisan,145,17.47,False,False
+139502,VA,Norma P. Spencer,Nonpartisan,135,16.265,False,False
+139502,VA,Matthew Yancy III,Nonpartisan,104,12.53,False,False
+139502,VA,Sheila M. Traina,Nonpartisan,95,11.446,False,False
+139502,VA,Write-in,Nonpartisan,41,4.94,False,False
+139405,VA,"John R. Nein, Jr.",Nonpartisan,876,34.286,False,False
+139405,VA,"James M. ""Jamie"" Pruett",Nonpartisan,834,32.642,False,False
+139405,VA,Taylor Nash Bloom,Nonpartisan,797,31.194,False,False
+139405,VA,Write-in,Nonpartisan,48,1.879,False,False
+139642,VA,Debra A. Hayes,Nonpartisan,870,16.289,False,False
+139642,VA,Mavis S. Williams,Nonpartisan,860,16.102,False,False
+139642,VA,"James R. ""Jim"" Barker",Nonpartisan,816,15.278,False,False
+139642,VA,Gregory Allen Taylor,Nonpartisan,773,14.473,False,False
+139642,VA,Suzanne B. Jennings,Nonpartisan,715,13.387,False,False
+139642,VA,Tricia L. Spencer,Nonpartisan,650,12.17,False,False
+139642,VA,Larry W. Carter,Nonpartisan,602,11.271,False,False
+139642,VA,Write-in,Nonpartisan,55,1.03,False,False
+139463,VA,T. Justin Rose,Nonpartisan,857,95.011,False,False
+139463,VA,Write-in,Nonpartisan,45,4.989,False,False
+139359,VA,Jason C. Aikens,Nonpartisan,3290,50.507,False,False
+139359,VA,Vaughn S. Whitacre,Nonpartisan,1630,25.023,False,False
+139359,VA,Rebecca L. Rager,Nonpartisan,1552,23.826,False,False
+139359,VA,Write-in,Nonpartisan,42,0.645,False,False
+139596,VA,"Earnest M. ""Bubby"" Short",Nonpartisan,256,59.535,False,False
+139596,VA,Jodi L. Eaton,Nonpartisan,168,39.07,False,False
+139596,VA,Tommy W. Testerman,Nonpartisan,5,1.163,False,False
+139596,VA,Write-in,Nonpartisan,1,0.233,False,False
+139417,VA,Write-in,Nonpartisan,171,100.0,False,False
+139537,VA,Lakeshia J. Tinsley,Nonpartisan,741,59.951,False,False
+139537,VA,Lois A. Long,Nonpartisan,489,39.563,False,False
+139537,VA,Write-in,Nonpartisan,6,0.485,False,False
+139550,VA,Barbara S. Brown,Nonpartisan,2353,94.46,False,False
+139550,VA,Write-in,Nonpartisan,138,5.54,False,False
+139371,VA,"Ira K. ""Kenny"" McGrady Jr",Nonpartisan,56,68.293,False,False
+139371,VA,Amy Lynn Taylor,Nonpartisan,25,30.488,False,False
+139371,VA,Write-in,Nonpartisan,1,1.22,False,False
+139491,VA,Joshua L. Howell,Nonpartisan,3498,51.792,False,False
+139491,VA,Adale M. Martin,Nonpartisan,3103,45.943,False,False
+139491,VA,Write-in,Nonpartisan,153,2.265,False,False
+139728,VA,Alveta J. Green,Nonpartisan,8395,67.144,False,False
+139728,VA,Melisa D. Herum,Nonpartisan,4006,32.04,False,False
+139728,VA,Write-in,Nonpartisan,102,0.816,False,False
+139356,VA,Peggy B. Steele,Nonpartisan,67,51.938,False,False
+139356,VA,Rhonda J. McFalls,Nonpartisan,43,33.333,False,False
+139356,VA,Write-in,Nonpartisan,19,14.729,False,False
+139401,VA,Valerie Cofer Butler,Nonpartisan,2140,22.257,False,False
+139401,VA,Gene S. Monroe Jr.,Nonpartisan,1912,19.886,False,False
+139401,VA,Nicholas F. Hess,Nonpartisan,1826,18.991,False,False
+139401,VA,Jeff D. Brooks,Nonpartisan,1781,18.523,False,False
+139401,VA,A. Russ MacConnell,Nonpartisan,1776,18.471,False,False
+139401,VA,Write-in,Nonpartisan,180,1.872,False,False
+139446,VA,Brandon M. Rawlings,Nonpartisan,226,94.167,False,False
+139446,VA,Write-in,Nonpartisan,14,5.833,False,False
+139355,VA,Sandra Cundiff Ingram,Nonpartisan,3183,97.518,False,False
+139355,VA,Write-in,Nonpartisan,81,2.482,False,False
+139400,VA,Stella V. Bradshaw,Nonpartisan,2956,96.381,False,False
+139400,VA,Write-in,Nonpartisan,111,3.619,False,False
+139533,VA,Joe D. Morrissey,Nonpartisan,806,62.675,False,False
+139533,VA,W. Howard Myers,Nonpartisan,460,35.77,False,False
+139533,VA,Write-in,Nonpartisan,20,1.555,False,False
+139354,VA,No,Nonpartisan,15112,64.238,False,False
+139354,VA,Yes,Nonpartisan,8413,35.762,False,False
+140029,VA,Chris A. Mitchell,Nonpartisan,176,91.667,False,False
+140029,VA,Write-in,Nonpartisan,16,8.333,False,False
+139487,VA,Courtney R. Doyle,Nonpartisan,14370,95.431,False,False
+139487,VA,Write-in,Nonpartisan,688,4.569,False,False
+139724,VA,Stacy Cummings Jr.,Nonpartisan,11867,55.536,False,False
+139724,VA,Chris Taylor,Nonpartisan,9344,43.729,False,False
+139724,VA,Write-in,Nonpartisan,157,0.735,False,False
+139545,VA,David A. Arthur,Nonpartisan,308,33.624,False,False
+139545,VA,"Robert W. ""Bob"" Majure",Nonpartisan,295,32.205,False,False
+139545,VA,Jeremiah M. Knowles,Nonpartisan,272,29.694,False,False
+139545,VA,Write-in,Nonpartisan,41,4.476,False,False
+139239,VA,No,Nonpartisan,22659,65.959,False,False
+139239,VA,Yes,Nonpartisan,11694,34.041,False,False
+139678,VA,No,Nonpartisan,2067,56.383,False,False
+139678,VA,Yes,Nonpartisan,1599,43.617,False,False
+139499,VA,Write-in,Nonpartisan,179,100.0,False,False
+139626,VA,Daniel J. Harshman,Nonpartisan,355,94.415,False,False
+139626,VA,Write-in,Nonpartisan,21,5.585,False,False
+139447,VA,Shawn E. Donahue,Nonpartisan,563,93.367,False,False
+139447,VA,Write-in,Nonpartisan,40,6.633,False,False
+139252,VA,Paige Wright Ware,Nonpartisan,230,35.222,False,False
+139252,VA,Pamela D. Binns,Nonpartisan,205,31.394,False,False
+139252,VA,Edward D. Bordett,Nonpartisan,189,28.943,False,False
+139252,VA,Write-in,Nonpartisan,29,4.441,False,False
+139484,VA,Terri L. Best,Nonpartisan,15120,96.472,False,False
+139484,VA,Write-in,Nonpartisan,553,3.528,False,False
+139529,VA,Douglas L. Purdham,Nonpartisan,342,29.688,False,False
+139529,VA,Bruce W. Stoneberger,Nonpartisan,287,24.913,False,False
+139529,VA,Jason L. Campbell,Nonpartisan,184,15.972,False,False
+139529,VA,Robyn C. Good,Nonpartisan,176,15.278,False,False
+139529,VA,"Donald E. ""JR"" Good Jr.",Nonpartisan,148,12.847,False,False
+139529,VA,Write-in,Nonpartisan,15,1.302,False,False
+139766,VA,No,Nonpartisan,6977,63.398,False,False
+139766,VA,Yes,Nonpartisan,4028,36.602,False,False
+139669,VA,Karen L. Jenkins,Nonpartisan,5462,96.536,False,False
+139669,VA,Write-in,Nonpartisan,196,3.464,False,False
+139483,VA,Douglas C. Brown,Nonpartisan,15256,96.533,False,False
+139483,VA,Write-in,Nonpartisan,548,3.467,False,False
+139528,VA,"Gary A. ""Red"" Taylor",Nonpartisan,566,36.777,False,False
+139528,VA,Nathan T. Comer,Nonpartisan,483,31.384,False,False
+139528,VA,Lynn E. Fox,Nonpartisan,418,27.16,False,False
+139528,VA,Write-in,Nonpartisan,72,4.678,False,False
+139235,VA,Yes,Nonpartisan,87929,88.179,False,False
+139235,VA,No,Nonpartisan,11788,11.821,False,False
+139482,VA,Lisa R. Surles-Law,Nonpartisan,12867,65.658,False,False
+139482,VA,Adina R. Rivera,Nonpartisan,6540,33.372,False,False
+139482,VA,Write-in,Nonpartisan,190,0.97,False,False
+139303,VA,Erecka L. Gibson,Nonpartisan,1862,96.778,False,False
+139303,VA,Write-in,Nonpartisan,62,3.222,False,False
+139622,VA,Brittany LePaige Darnell,Nonpartisan,51,20.238,False,False
+139622,VA,Nina Osborne Begley,Nonpartisan,43,17.063,False,False
+139622,VA,Katherine S. Lane,Nonpartisan,41,16.27,False,False
+139622,VA,"Mary ""Beth"" Hensley",Nonpartisan,38,15.079,False,False
+139622,VA,Tiffany Lynn Ausman,Nonpartisan,34,13.492,False,False
+139622,VA,Terrina M. Ward,Nonpartisan,33,13.095,False,False
+139622,VA,Write-in,Nonpartisan,12,4.762,False,False
+139443,VA,Kirsten Sides Lockhart,Nonpartisan,5925,54.978,False,False
+139443,VA,"Thomas D. ""Tom"" Peterson",Nonpartisan,4791,44.456,False,False
+139443,VA,Write-in,Nonpartisan,61,0.566,False,False
+139247,VA,Raymond L. Christian,Nonpartisan,428,96.18,False,False
+139247,VA,Write-in,Nonpartisan,17,3.82,False,False
+139576,VA,"Michael W. ""Mike"" Stovall",Nonpartisan,1557,53.745,False,False
+139576,VA,Sabrina M. McCarty,Nonpartisan,1248,43.079,False,False
+139576,VA,Write-in,Nonpartisan,92,3.176,False,False
+139397,VA,No,Nonpartisan,11084,54.55,False,False
+139397,VA,Yes,Nonpartisan,9235,45.45,False,False
+139410,VA,Randy S. Reeves Jr.,Nonpartisan,105,38.745,False,False
+139410,VA,Kara G. Everett,Nonpartisan,90,33.21,False,False
+139410,VA,Thomas Woodrow Wilson III,Nonpartisan,74,27.306,False,False
+139410,VA,Write-in,Nonpartisan,2,0.738,False,False
+139338,VA,Yes,Nonpartisan,6091,55.702,False,False
+139338,VA,No,Nonpartisan,4844,44.298,False,False
+139767,VA,Dale T. Yontz,Nonpartisan,399,37.22,False,False
+139767,VA,Michael K. Duncan,Nonpartisan,366,34.142,False,False
+139767,VA,Jeffrey C. Butz,Nonpartisan,271,25.28,False,False
+139767,VA,Write-in,Nonpartisan,36,3.358,False,False
+140014,VA,Rose Ann Moore,Nonpartisan,35,24.306,False,False
+140014,VA,Anna L. Hart,Nonpartisan,34,23.611,False,False
+140014,VA,Teresa E. Guy,Nonpartisan,33,22.917,False,False
+140014,VA,Linda A. Guy,Nonpartisan,31,21.528,False,False
+140014,VA,Write-in,Nonpartisan,11,7.639,False,False
+139223,VA,Write-in,Nonpartisan,138,18.573,False,False
+139223,VA,Elizabeth P. Thomas,Nonpartisan,131,17.631,False,False
+139223,VA,Tracy King Pruitt,Nonpartisan,125,16.824,False,False
+139223,VA,Kelly Charnock Wheatley,Nonpartisan,120,16.151,False,False
+139223,VA,Anna E. Pruitt-Parks,Nonpartisan,116,15.612,False,False
+139223,VA,"William T. ""Tommy"" Eskridge III",Nonpartisan,113,15.209,False,False
+139478,VA,Cleon M. Long,Nonpartisan,9244,45.523,False,False
+139478,VA,Andrea R. Diggs,Nonpartisan,7209,35.502,False,False
+139478,VA,Michael A. Gale,Nonpartisan,3716,18.3,False,False
+139478,VA,Write-in,Nonpartisan,137,0.675,False,False
+139381,VA,No,Nonpartisan,1884,58.765,False,False
+139381,VA,Yes,Nonpartisan,1322,41.235,False,False
+139394,VA,Tavorise K. Marks,Nonpartisan,576,75.491,False,False
+139394,VA,Matthew R. Mellon,Nonpartisan,183,23.984,False,False
+139394,VA,Write-in,Nonpartisan,4,0.524,False,False
+139222,VA,"K. C. ""Kasey"" Grier",Nonpartisan,411,93.197,False,False
+139222,VA,Write-in,Nonpartisan,30,6.803,False,False
+139572,VA,Write-in,Nonpartisan,50,100.0,False,False
+139393,VA,Anthony N. Sylvester,Nonpartisan,709,63.022,False,False
+139393,VA,Jeffrey Maurice Torres,Nonpartisan,407,36.178,False,False
+139393,VA,Write-in,Nonpartisan,9,0.8,False,False
+139630,VA,Kaylee Lynn Tanner,Nonpartisan,1500,18.585,False,False
+139630,VA,"A. D. Carter, IV",Nonpartisan,1411,17.482,False,False
+139630,VA,Seth J. Newman,Nonpartisan,1335,16.541,False,False
+139630,VA,Gabrielle M. Pywtorak,Nonpartisan,1294,16.033,False,False
+139630,VA,"Elton Van Welton, Jr.",Nonpartisan,892,11.052,False,False
+139630,VA,H. Brad Stover,Nonpartisan,865,10.717,False,False
+139630,VA,Andrew C. Lowder,Nonpartisan,727,9.008,False,False
+139630,VA,Write-in,Nonpartisan,47,0.582,False,False
+139334,VA,No,Nonpartisan,1012,58.261,False,False
+139334,VA,Yes,Nonpartisan,725,41.739,False,False
+139763,VA,Write-in,Nonpartisan,234,36.111,False,False
+139763,VA,Deventae T. Mooney,Nonpartisan,231,35.648,False,False
+139763,VA,Sharon P. Still,Nonpartisan,183,28.241,False,False
+140010,VA,Christopher Duer Bott,Nonpartisan,1025,33.097,False,False
+140010,VA,K. Jay Savage,Nonpartisan,937,30.255,False,False
+140010,VA,Ellen W. Richardson,Nonpartisan,872,28.156,False,False
+140010,VA,Write-in,Nonpartisan,263,8.492,False,False
+139704,VA,Lisa R. Thompson,Nonpartisan,115,62.842,False,False
+139704,VA,David B. Whitaker,Nonpartisan,68,37.158,False,False
+139704,VA,Write-in,Nonpartisan,0,0.0,False,False
+139525,VA,Write-in,Nonpartisan,113,100.0,False,False
+139538,VA,Steven L. Pierce,Nonpartisan,967,97.284,False,False
+139538,VA,Write-in,Nonpartisan,27,2.716,False,False
+139665,VA,Will J. Smith,Nonpartisan,3400,53.883,False,False
+139665,VA,Leroy Bennett,Nonpartisan,2825,44.77,False,False
+139665,VA,Write-in,Nonpartisan,85,1.347,False,False
+139287,VA,Monica L. Robinson,Nonpartisan,6879,35.604,False,False
+139287,VA,Dany R. Fleming,Nonpartisan,6319,32.705,False,False
+139287,VA,Sal T. Romero Jr.,Nonpartisan,5728,29.646,False,False
+139287,VA,Write-in,Nonpartisan,395,2.044,False,False
+139300,VA,Stacy E. Kern-Scheerer,Nonpartisan,4179,42.405,False,False
+139300,VA,Carolyn A. Murphy,Nonpartisan,2877,29.193,False,False
+139300,VA,Eino I. Korpela,Nonpartisan,2638,26.768,False,False
+139300,VA,Write-in,Nonpartisan,161,1.634,False,False
+139619,VA,Alisha Ann Phillips,Nonpartisan,14,100.0,False,False
+139619,VA,Write-in,Nonpartisan,0,0.0,False,False
+139581,VA,"Theodore W. ""Ted"" Flory",Nonpartisan,2264,96.67,False,False
+139581,VA,Write-in,Nonpartisan,78,3.33,False,False
+139701,VA,John R. Marks,Nonpartisan,41,34.746,False,False
+139701,VA,Shannon Franklin Reed,Nonpartisan,41,34.746,False,False
+139701,VA,Ken L. Swanson,Nonpartisan,36,30.508,False,False
+139701,VA,Write-in,Nonpartisan,0,0.0,False,False
+139522,VA,Nick L. Paxton,Nonpartisan,346,49.358,False,False
+139522,VA,"Mary C. ""Cyd"" Black",Nonpartisan,307,43.795,False,False
+139522,VA,Write-in,Nonpartisan,48,6.847,False,False
+139567,VA,Yes,Nonpartisan,3072,64.687,False,False
+139567,VA,No,Nonpartisan,1677,35.313,False,False
+139284,VA,Jennifer M. Frazier,Nonpartisan,3273,24.899,False,False
+139284,VA,John E. Piotrowski,Nonpartisan,3113,23.682,False,False
+139284,VA,Betsy Gentry Luck,Nonpartisan,2986,22.716,False,False
+139284,VA,John T. Wood,Nonpartisan,2150,16.356,False,False
+139284,VA,"Randolph F. Thomas, Jr.",Nonpartisan,1503,11.434,False,False
+139284,VA,Write-in,Nonpartisan,120,0.913,False,False
+139521,VA,No,Nonpartisan,8798,51.258,False,False
+139521,VA,Yes,Nonpartisan,8366,48.742,False,False
+139342,VA,Sabrina A. Bruce,Nonpartisan,4423,12.798,False,False
+139342,VA,"Yasmin ""Soniya"" Shafiq",Nonpartisan,4098,11.857,False,False
+139342,VA,Meron T. Yohannes,Nonpartisan,3718,10.758,False,False
+139342,VA,Clark A. Hedrick,Nonpartisan,3260,9.433,False,False
+139342,VA,Josif N. Ezekilov,Nonpartisan,3096,8.958,False,False
+139342,VA,Justin K. Britt,Nonpartisan,2823,8.168,False,False
+139342,VA,Cesar A. Del Aguila,Nonpartisan,2584,7.477,False,False
+139342,VA,Kelvin Garcia,Nonpartisan,2436,7.048,False,False
+139342,VA,"Douglas Isaac ""Doug"" Mejia",Nonpartisan,2151,6.224,False,False
+139342,VA,"Alexis ""Alex"" Reyes",Nonpartisan,2145,6.206,False,False
+139342,VA,Michael T. Lloyd,Nonpartisan,1779,5.147,False,False
+139342,VA,Stevan Michael Porter,Nonpartisan,1740,5.035,False,False
+139342,VA,Write-in,Nonpartisan,308,0.891,False,False
+139661,VA,Yes,Nonpartisan,40910,67.344,False,False
+139661,VA,No,Nonpartisan,19838,32.656,False,False
+139283,VA,"Janelle K.""Dr. J"" St Louis",Nonpartisan,42017,9.722,False,False
+139283,VA,Amanda L. Newins,Nonpartisan,40984,9.483,False,False
+139283,VA,Santiera Brown-Yearling,Nonpartisan,40576,9.389,False,False
+139283,VA,"Daniel E. ""Lieutenant Dan"" Rosinski",Nonpartisan,39645,9.173,False,False
+139283,VA,"E.R. ""Jeff"" Jefferies Jr.",Nonpartisan,39165,9.062,False,False
+139283,VA,Jennifer P. Naperala,Nonpartisan,38622,8.937,False,False
+139283,VA,Daniel W. Whitaker,Nonpartisan,38602,8.932,False,False
+139283,VA,Todd A. Mayfield,Nonpartisan,38352,8.874,False,False
+139283,VA,Eric V. Wray II,Nonpartisan,35667,8.253,False,False
+139283,VA,George M. Yacus,Nonpartisan,31964,7.396,False,False
+139283,VA,Clayton L. Spruill,Nonpartisan,17236,3.988,False,False
+139283,VA,Nichelle Buffalow,Nonpartisan,9521,2.203,False,False
+139283,VA,Gayle M. Gilmore,Nonpartisan,7880,1.823,False,False
+139283,VA,"Ozan M. ""Oz"" Duran",Nonpartisan,5678,1.314,False,False
+139283,VA,Brandy L.A. Deel,Nonpartisan,5175,1.197,False,False
+139283,VA,Write-in,Nonpartisan,1095,0.253,False,False
+139296,VA,H. Hunter Holliday III,Nonpartisan,4423,26.947,False,False
+139296,VA,"Jonathan D. ""J.D."" Taylor",Nonpartisan,3609,21.987,False,False
+139296,VA,Jeffrey K. Hoeflich-Nickels,Nonpartisan,3420,20.836,False,False
+139296,VA,Mark W. Henrickson,Nonpartisan,2850,17.363,False,False
+139296,VA,A.J. Harpold,Nonpartisan,1943,11.837,False,False
+139296,VA,Write-in,Nonpartisan,169,1.03,False,False
+139615,VA,Tammy R. Meade,Nonpartisan,13,92.857,False,False
+139615,VA,Write-in,Nonpartisan,1,7.143,False,False
+139219,VA,James N. Sturgis,Nonpartisan,57,20.43,False,False
+139219,VA,"Samuel L. Lewis, Jr.",Nonpartisan,45,16.129,False,False
+139219,VA,Josephine B. Hearne,Nonpartisan,42,15.054,False,False
+139219,VA,Thomas L. Willett,Nonpartisan,42,15.054,False,False
+139219,VA,Eric Talmadge Harris,Nonpartisan,41,14.695,False,False
+139219,VA,F. C. Duer III,Nonpartisan,39,13.978,False,False
+139219,VA,Write-in,Nonpartisan,13,4.659,False,False
+139673,VA,Wallace E. Faison Jr.,Nonpartisan,116,92.063,False,False
+139673,VA,Write-in,Nonpartisan,10,7.937,False,False
+139377,VA,Scott L. Cornett,Nonpartisan,62,18.507,False,False
+139377,VA,Tina Michelle Delp,Nonpartisan,58,17.313,False,False
+139377,VA,"Samuel J. ""Sam"" Pennington",Nonpartisan,53,15.821,False,False
+139377,VA,Write-in,Nonpartisan,50,14.925,False,False
+139377,VA,Dawn G. Leake,Nonpartisan,44,13.134,False,False
+139377,VA,"H. M. ""Mike"" Leake",Nonpartisan,42,12.537,False,False
+139377,VA,Dwight A. Taylor,Nonpartisan,26,7.761,False,False
+139390,VA,Denise S. Botkin,Nonpartisan,67,42.675,False,False
+139390,VA,"Robert A. ""Rob"" Weiss",Nonpartisan,53,33.758,False,False
+139390,VA,Write-in,Nonpartisan,37,23.567,False,False
+139627,VA,"Donald I. ""Donnie"" Pifer",Nonpartisan,468,95.51,False,False
+139627,VA,Write-in,Nonpartisan,22,4.49,False,False
+139331,VA,Mark S. Lilly,Nonpartisan,196,94.686,False,False
+139331,VA,Write-in,Nonpartisan,11,5.314,False,False
+139568,VA,Yes,Nonpartisan,2169,53.45,False,False
+139568,VA,No,Nonpartisan,1889,46.55,False,False
+139612,VA,R. Jane Swing,Nonpartisan,2569,28.396,False,False
+139612,VA,Gloria W. Boyd,Nonpartisan,2428,26.838,False,False
+139612,VA,Ed J. Dickenson,Nonpartisan,1986,21.952,False,False
+139612,VA,Fallon H. Kreye,Nonpartisan,1921,21.234,False,False
+139612,VA,Write-in,Nonpartisan,143,1.581,False,False
+139657,VA,Write-in,Nonpartisan,101,36.201,False,False
+139657,VA,John B. Carter,Nonpartisan,95,34.05,False,False
+139657,VA,Diane L. Dovell,Nonpartisan,83,29.749,False,False
+139695,VA,"S. Jackson ""Jack"" Dunavant, Jr.",Nonpartisan,114,89.062,False,False
+139695,VA,Write-in,Nonpartisan,14,10.938,False,False
+140062,VA,Yes,Nonpartisan,73,69.524,False,False
+140062,VA,No,Nonpartisan,32,30.476,False,False
+139656,VA,Megan B. Demsko,Nonpartisan,144,27.376,False,False
+139656,VA,Roland N. Britt,Nonpartisan,133,25.285,False,False
+139656,VA,"B. Frank Cook, Jr.",Nonpartisan,132,25.095,False,False
+139656,VA,Brett T. Menne,Nonpartisan,114,21.673,False,False
+139656,VA,Write-in,Nonpartisan,3,0.57,False,False
+139373,VA,No,Nonpartisan,4067,67.896,False,False
+139373,VA,Yes,Nonpartisan,1923,32.104,False,False
+140061,VA,No,Nonpartisan,3846,66.448,False,False
+140061,VA,Yes,Nonpartisan,1942,33.552,False,False
+139431,VA,"Robert B. ""Bob"" Spedden",Nonpartisan,132,91.667,False,False
+139431,VA,Write-in,Nonpartisan,12,8.333,False,False
+139327,VA,Susan M. Smith Tiller,Nonpartisan,46,29.114,False,False
+139327,VA,Lilly Dalene Thacker,Nonpartisan,42,26.582,False,False
+139327,VA,Michael S. Harris,Nonpartisan,37,23.418,False,False
+139327,VA,Tracie A. Wallace,Nonpartisan,27,17.089,False,False
+139327,VA,Write-in,Nonpartisan,6,3.797,False,False
+139564,VA,No,Nonpartisan,1463,56.465,False,False
+139564,VA,Yes,Nonpartisan,1128,43.535,False,False
+139385,VA,Michelle Taylor Ferebee,Nonpartisan,22520,21.7,False,False
+139385,VA,Martha M. Mugler,Nonpartisan,22358,21.544,False,False
+139385,VA,"Joseph M. ""Joe"" Griffith",Nonpartisan,20010,19.281,False,False
+139385,VA,Steve L. Brown,Nonpartisan,18266,17.601,False,False
+139385,VA,Aaron T. Weaver,Nonpartisan,10568,10.183,False,False
+139385,VA,Chris L. Bowman,Nonpartisan,9448,9.104,False,False
+139385,VA,Write-in,Nonpartisan,609,0.587,False,False
+139505,VA,Georgette J. Press,Nonpartisan,102,19.355,False,False
+139505,VA,"Thomas W. Rippon, Jr.",Nonpartisan,87,16.509,False,False
+139505,VA,Andrea D. Fox,Nonpartisan,83,15.75,False,False
+139505,VA,Jerome W. Nottingham IV,Nonpartisan,69,13.093,False,False
+139505,VA,Lisa Lindberg,Nonpartisan,68,12.903,False,False
+139505,VA,Edward Dirk Lynch,Nonpartisan,60,11.385,False,False
+139505,VA,"John W. Hallett, Sr.",Nonpartisan,56,10.626,False,False
+139505,VA,Write-in,Nonpartisan,2,0.38,False,False
+139518,VA,Brenda H. Payne,Nonpartisan,589,95.617,False,False
+139518,VA,Write-in,Nonpartisan,27,4.383,False,False
+139339,VA,Yes,Nonpartisan,311406,69.786,False,False
+139339,VA,No,Nonpartisan,134825,30.214,False,False
+139466,VA,"William H. ""Bill"" Coleman",Nonpartisan,115,34.639,False,False
+139466,VA,Paul Ray Cherry,Nonpartisan,106,31.928,False,False
+139466,VA,Ronald C. Worley,Nonpartisan,102,30.723,False,False
+139466,VA,Write-in,Nonpartisan,9,2.711,False,False
+139696,VA,"Edward L. ""Ned"" Covington",Nonpartisan,194,97.487,False,False
+139696,VA,Write-in,Nonpartisan,5,2.513,False,False
+139709,VA,Debra P. Andrews,Nonpartisan,129,17.48,False,False
+139709,VA,Kermit E. Jones,Nonpartisan,120,16.26,False,False
+139709,VA,Brenda D. Haskins,Nonpartisan,116,15.718,False,False
+139709,VA,Brette A. Arbogast,Nonpartisan,102,13.821,False,False
+139709,VA,Chad Crawford,Nonpartisan,83,11.247,False,False
+139709,VA,Terrill W. Ramsey,Nonpartisan,81,10.976,False,False
+139709,VA,Thomas E. Da Silva,Nonpartisan,59,7.995,False,False
+139709,VA,Write-in,Nonpartisan,48,6.504,False,False
+139324,VA,Danny W. Lambert,Nonpartisan,381,74.706,False,False
+139324,VA,"Charles H. ""Charlie"" Wynn",Nonpartisan,125,24.51,False,False
+139324,VA,Write-in,Nonpartisan,4,0.784,False,False
+139369,VA,"John K. Hale, Jr.",Nonpartisan,366,34.561,False,False
+139369,VA,Alicia D. Lane,Nonpartisan,362,34.183,False,False
+139369,VA,Richard W. Duncan,Nonpartisan,314,29.651,False,False
+139369,VA,Write-in,Nonpartisan,17,1.605,False,False
+139606,VA,TyQuan J. Graves,Nonpartisan,7841,28.144,False,False
+139606,VA,Trina A. McLaughlin,Nonpartisan,7765,27.872,False,False
+139606,VA,Keisha L. Averett,Nonpartisan,7581,27.211,False,False
+139606,VA,David A. Jones,Nonpartisan,4495,16.134,False,False
+139606,VA,Write-in,Nonpartisan,178,0.639,False,False
+139323,VA,Robert E. Lee,Nonpartisan,39,30.709,False,False
+139323,VA,Karen S. Crush,Nonpartisan,39,30.709,False,False
+139323,VA,Robyn Leigh Foster,Nonpartisan,36,28.346,False,False
+139323,VA,Write-in,Nonpartisan,13,10.236,False,False
+139368,VA,Christopher Eric Sharp,Nonpartisan,627,67.784,False,False
+139368,VA,Kenneth M. Weidman,Nonpartisan,285,30.811,False,False
+139368,VA,Write-in,Nonpartisan,13,1.405,False,False
+139501,VA,Ian Alan McDonald,Nonpartisan,521,29.552,False,False
+139501,VA,Kenneth R. Butta,Nonpartisan,464,26.319,False,False
+139501,VA,Mark L. Usry,Nonpartisan,453,25.695,False,False
+139501,VA,Craig C. Felker,Nonpartisan,285,16.166,False,False
+139501,VA,Write-in,Nonpartisan,40,2.269,False,False
+139322,VA,"James ""Lenny"" Macdonald",Nonpartisan,52,98.113,False,False
+139322,VA,Write-in,Nonpartisan,1,1.887,False,False
+139751,VA,"William Henry ""Will"" Nuckols III",Nonpartisan,938,28.143,False,False
+139751,VA,"Rebecca J. ""Becky"" Stuart",Nonpartisan,829,24.872,False,False
+139751,VA,"Robert C. ""Bobby"" Duke, Jr",Nonpartisan,806,24.182,False,False
+139751,VA,Jeff L. Eisensmith,Nonpartisan,709,21.272,False,False
+139751,VA,Write-in,Nonpartisan,51,1.53,False,False
+139462,VA,Write-in,Nonpartisan,117,100.0,False,False
+139692,VA,Cecil Mears Ashby,Nonpartisan,134,21.543,False,False
+139692,VA,Edwin R. Long,Nonpartisan,126,20.257,False,False
+139692,VA,Douglas R. Wehner,Nonpartisan,123,19.775,False,False
+139692,VA,Larry S. Baxter,Nonpartisan,109,17.524,False,False
+139692,VA,Troy A. Brown,Nonpartisan,107,17.203,False,False
+139692,VA,Write-in,Nonpartisan,23,3.698,False,False
+139513,VA,Nathaniel L. Miller,Nonpartisan,167,97.093,False,False
+139513,VA,Write-in,Nonpartisan,5,2.907,False,False
+139416,VA,LaTonya Ann Douglas,Nonpartisan,1308,49.044,False,False
+139416,VA,Justin G. Davis,Nonpartisan,1305,48.931,False,False
+139416,VA,Write-in,Nonpartisan,54,2.025,False,False
+139653,VA,Shameka M. Key,Nonpartisan,70,56.0,False,False
+139653,VA,Perry Allen Goodwyn,Nonpartisan,30,24.0,False,False
+139653,VA,Lydia S. Pittman,Nonpartisan,25,20.0,False,False
+139653,VA,Write-in,Nonpartisan,0,0.0,False,False
+139666,VA,Timothy J. Johnson,Nonpartisan,6386,96.32,False,False
+139666,VA,Write-in,Nonpartisan,244,3.68,False,False
+140041,VA,Sarah K. Underdue,Nonpartisan,71,34.634,False,False
+140041,VA,Frances Peterson Weddingt,Nonpartisan,61,29.756,False,False
+140041,VA,Rebecca L. Spengler,Nonpartisan,59,28.78,False,False
+140041,VA,Write-in,Nonpartisan,14,6.829,False,False
+139607,VA,Carolyn S. Pitches,Nonpartisan,5365,21.289,False,False
+139607,VA,Sarah M. Kelsey,Nonpartisan,5048,20.031,False,False
+139607,VA,Kristina M. Cecere,Nonpartisan,4947,19.63,False,False
+139607,VA,Amit Sarah Hickman,Nonpartisan,4793,19.019,False,False
+139607,VA,Lauren A. Bartelme,Nonpartisan,4688,18.602,False,False
+139607,VA,Write-in,Nonpartisan,360,1.429,False,False
+139202,VA,"John W. Poulson, Jr.",Nonpartisan,34,97.143,False,False
+139202,VA,Write-in,Nonpartisan,1,2.857,False,False
+139497,VA,Charles Kolakowski,Nonpartisan,137,66.505,False,False
+139497,VA,Write-in,Nonpartisan,69,33.495,False,False
+139318,VA,David B. Goff,Nonpartisan,260,97.015,False,False
+139318,VA,Write-in,Nonpartisan,8,2.985,False,False
+139637,VA,Christopher J. Easter,Nonpartisan,2539,43.603,False,False
+139637,VA,K. L. Schomburg,Nonpartisan,2229,38.279,False,False
+139637,VA,Bryan P. Longest,Nonpartisan,774,13.292,False,False
+139637,VA,Thomas G. Justis,Nonpartisan,269,4.62,False,False
+139637,VA,Write-in,Nonpartisan,12,0.206,False,False
+139458,VA,Joel Lee Hash Jr.,Nonpartisan,2069,67.526,False,False
+139458,VA,"Michael C. ""Doc"" Scheneman",Nonpartisan,978,31.919,False,False
+139458,VA,Write-in,Nonpartisan,17,0.555,False,False
+139496,VA,Adam M. Charney,Nonpartisan,702,92.368,False,False
+139496,VA,Write-in,Nonpartisan,58,7.632,False,False
+139412,VA,Terry K. Pope,Nonpartisan,294,96.078,False,False
+139412,VA,Write-in,Nonpartisan,12,3.922,False,False
+139457,VA,Bennie J. Savedge,Nonpartisan,93,98.936,False,False
+139457,VA,Write-in,Nonpartisan,1,1.064,False,False
+139470,VA,Yes,Nonpartisan,2997,51.152,False,False
+139470,VA,No,Nonpartisan,2862,48.848,False,False
+140028,VA,Yes,Nonpartisan,1199,61.393,False,False
+140028,VA,No,Nonpartisan,754,38.607,False,False
+139603,VA,Vanessa B. Guffey,Nonpartisan,2409,26.403,False,False
+139603,VA,Rhoda A. Blackwell,Nonpartisan,1989,21.8,False,False
+139603,VA,Bryan D. Kimberlin,Nonpartisan,1957,21.449,False,False
+139603,VA,Shannon T. Love,Nonpartisan,1710,18.742,False,False
+139603,VA,Ric S. Watts,Nonpartisan,952,10.434,False,False
+139603,VA,Write-in,Nonpartisan,107,1.173,False,False
+139424,VA,Yes,Nonpartisan,132680,74.407,False,False
+139424,VA,No,Nonpartisan,45637,25.593,False,False
+139544,VA,Deborah P. Moran,Nonpartisan,303,39.198,False,False
+139544,VA,Michael L. Bond,Nonpartisan,245,31.695,False,False
+139544,VA,H. Wayne Wood,Nonpartisan,209,27.038,False,False
+139544,VA,Write-in,Nonpartisan,16,2.07,False,False
+139365,VA,"Calvin D. ""Tom"" Spangler, Jr.",Nonpartisan,569,95.151,False,False
+139365,VA,Write-in,Nonpartisan,29,4.849,False,False
+139378,VA,Michael A. Payne,Nonpartisan,79,91.86,False,False
+139378,VA,Write-in,Nonpartisan,7,8.14,False,False
+139306,VA,Michele L. Beck,Nonpartisan,10740,65.055,False,False
+139306,VA,Cheryln D. Carter,Nonpartisan,5606,33.957,False,False
+139306,VA,Write-in,Nonpartisan,163,0.987,False,False
+139735,VA,Lori Athey Cockrell,Nonpartisan,4169,95.052,False,False
+139735,VA,Write-in,Nonpartisan,217,4.948,False,False
+139748,VA,Adam L. Seipel,Nonpartisan,1461,59.657,False,False
+139748,VA,"Catherine J. "" Cathe"" Myers",Nonpartisan,968,39.526,False,False
+139748,VA,Write-in,Nonpartisan,20,0.817,False,False
+139459,VA,Ronald R. Sciamacco,Nonpartisan,127,91.367,False,False
+139459,VA,Write-in,Nonpartisan,12,8.633,False,False
+139408,VA,"Vivian S. ""Viv"" Ralls",Nonpartisan,213,30.603,False,False
+139408,VA,R. Wayne Nunnally,Nonpartisan,168,24.138,False,False
+139408,VA,Philip A. Robinson,Nonpartisan,154,22.126,False,False
+139408,VA,Sam C. Van Saun,Nonpartisan,129,18.534,False,False
+139408,VA,Write-in,Nonpartisan,32,4.598,False,False
+139645,VA,Danny R. Williams,Nonpartisan,234,53.425,False,False
+139645,VA,"Latane W. ""Chip"" Talley Jr.",Nonpartisan,201,45.89,False,False
+139645,VA,Write-in,Nonpartisan,3,0.685,False,False
+139349,VA,No,Nonpartisan,7324,53.554,False,False
+139349,VA,Yes,Nonpartisan,6352,46.446,False,False
+139362,VA,Diane H. Newman Shannon,Nonpartisan,502,41.351,False,False
+139362,VA,Jeffrey H. Pennington,Nonpartisan,372,30.643,False,False
+139362,VA,Jacob D. Skeith,Nonpartisan,330,27.183,False,False
+139362,VA,Write-in,Nonpartisan,10,0.824,False,False
+139407,VA,Irving T. Brittingham,Nonpartisan,134,97.101,False,False
+139407,VA,Write-in,Nonpartisan,4,2.899,False,False
+139540,VA,Kenneth L. Pritchett,Nonpartisan,1192,63.102,False,False
+139540,VA,Freda L. Curtis,Nonpartisan,691,36.58,False,False
+139540,VA,Write-in,Nonpartisan,6,0.318,False,False
+139361,VA,No,Nonpartisan,22439,56.114,False,False
+139361,VA,Yes,Nonpartisan,17549,43.886,False,False
+140045,VA,Robert J. Schaefer,Nonpartisan,204,94.444,False,False
+140045,VA,Write-in,Nonpartisan,12,5.556,False,False
+139302,VA,Ryan Tibbens,Nonpartisan,471,98.33,False,False
+139302,VA,Write-in,Nonpartisan,8,1.67,False,False
+139731,VA,Carolyn D. Weems,Nonpartisan,8882,50.269,False,False
+139731,VA,Suzanne F. Berman,Nonpartisan,8704,49.261,False,False
+139731,VA,Write-in,Nonpartisan,83,0.47,False,False
+139744,VA,"Kenneth B. ""Kenny"" Lee, Sr.",Nonpartisan,1738,96.288,False,False
+139744,VA,Write-in,Nonpartisan,67,3.712,False,False
+139246,VA,Write-in,Nonpartisan,3369,39.922,False,False
+139246,VA,Jennifer A. Ziros,Nonpartisan,1852,21.946,False,False
+139246,VA,Alex J. Salle,Nonpartisan,1719,20.37,False,False
+139246,VA,"John M. ""Jay"" Hunter",Nonpartisan,1499,17.763,False,False
+139493,VA,Jodi M. Slaughter,Nonpartisan,11409,96.662,False,False
+139493,VA,Write-in,Nonpartisan,394,3.338,False,False
+139506,VA,Frank C. DiGiovanni,Nonpartisan,986,65.69,False,False
+139506,VA,Write-in,Nonpartisan,515,34.31,False,False
+139633,VA,"Harry E. Wine, Jr.",Nonpartisan,424,35.69,False,False
+139633,VA,"Bert A. P. ""Buz"" Menhardt",Nonpartisan,415,34.933,False,False
+139633,VA,"Thomas E. Welch, IV",Nonpartisan,312,26.263,False,False
+139633,VA,Write-in,Nonpartisan,37,3.114,False,False
+139454,VA,David C. Watkins Jr.,Nonpartisan,158,95.758,False,False
+139454,VA,Write-in,Nonpartisan,7,4.242,False,False
+139467,VA,LaTrisha M. McCargo,Nonpartisan,369,28.627,False,False
+139467,VA,Brenda A. Hatcher,Nonpartisan,359,27.851,False,False
+139467,VA,James E. Bohannon,Nonpartisan,288,22.343,False,False
+139467,VA,Dora W. Garner,Nonpartisan,255,19.783,False,False
+139467,VA,Write-in,Nonpartisan,18,1.396,False,False
+140013,VA,Thomas E. Hines,Nonpartisan,105,27.632,False,False
+140013,VA,Mary E. Dahlke,Nonpartisan,77,20.263,False,False
+140013,VA,Christopher W. Newman,Nonpartisan,69,18.158,False,False
+140013,VA,Jon J. Mindurski,Nonpartisan,67,17.632,False,False
+140013,VA,Write-in,Nonpartisan,62,16.316,False,False
+139549,VA,No,Nonpartisan,19605,61.252,False,False
+139549,VA,Yes,Nonpartisan,12402,38.748,False,False
+139243,VA,Jason S. Miller,Nonpartisan,335,99.407,False,False
+139243,VA,Write-in,Nonpartisan,2,0.593,False,False
+139490,VA,"Tommy R. Smigiel, Jr.",Nonpartisan,12408,94.862,False,False
+139490,VA,Write-in,Nonpartisan,672,5.138,False,False
+139535,VA,Herbert V. Coulton Jr.,Nonpartisan,551,38.667,False,False
+139535,VA,Arnold A. Westbrook Jr.,Nonpartisan,546,38.316,False,False
+139535,VA,Bobby Beverly,Nonpartisan,171,12.0,False,False
+139535,VA,Write-in,Nonpartisan,157,11.018,False,False
+139451,VA,Seth J. Gillespie,Nonpartisan,3628,93.241,False,False
+139451,VA,Write-in,Nonpartisan,263,6.759,False,False
+139489,VA,"John E. ""J.P."" Paige",Nonpartisan,7592,60.907,False,False
+139489,VA,Jacquetta D. Garris,Nonpartisan,2395,19.214,False,False
+139489,VA,Jazmine Emily Garcia,Nonpartisan,2357,18.909,False,False
+139489,VA,Write-in,Nonpartisan,121,0.971,False,False
+139310,VA,Emily D. Ligon,Nonpartisan,2895,97.903,False,False
+139310,VA,Write-in,Nonpartisan,62,2.097,False,False
+139629,VA,Luis O. Krug,Nonpartisan,338,96.848,False,False
+139629,VA,Write-in,Nonpartisan,11,3.152,False,False
+139450,VA,Write-in,Nonpartisan,448,76.976,False,False
+139450,VA,Sarah Hamlett Blackwell,Nonpartisan,134,23.024,False,False
+139255,VA,Lawanda V. Tatum,Nonpartisan,286,97.611,False,False
+139255,VA,Write-in,Nonpartisan,7,2.389,False,False
+140009,VA,Arthur J. Mendez,Nonpartisan,82,82.828,False,False
+140009,VA,Write-in,Nonpartisan,17,17.172,False,False
+139404,VA,Chase Turner Evans,Nonpartisan,901,34.561,False,False
+139404,VA,Elliot G. Jenkins,Nonpartisan,851,32.643,False,False
+139404,VA,Leslie-Ann A. Sturtz,Nonpartisan,823,31.569,False,False
+139404,VA,Write-in,Nonpartisan,32,1.227,False,False
+139641,VA,J. Brent Foster,Nonpartisan,322,26.415,False,False
+139641,VA,Lewis W. Shortt Jr.,Nonpartisan,262,21.493,False,False
+139641,VA,Robert L. Jeter,Nonpartisan,195,15.997,False,False
+139641,VA,W. Jeff Jones,Nonpartisan,190,15.587,False,False
+139641,VA,L. Becca Wilkinson-Smith,Nonpartisan,161,13.208,False,False
+139641,VA,J. David Gary,Nonpartisan,79,6.481,False,False
+139641,VA,Write-in,Nonpartisan,10,0.82,False,False
+139345,VA,Patty D. Pratt,Nonpartisan,2046,35.209,False,False
+139345,VA,R. Christian Malott,Nonpartisan,1839,31.647,False,False
+139345,VA,Tammy L. Lake,Nonpartisan,1834,31.561,False,False
+139345,VA,Write-in,Nonpartisan,92,1.583,False,False
+139358,VA,Albert L. Orndorff,Nonpartisan,3825,57.132,False,False
+139358,VA,Elizabeth P. Aylor,Nonpartisan,2836,42.36,False,False
+139358,VA,Write-in,Nonpartisan,34,0.508,False,False
+140042,VA,Teya J. Whitehead,Nonpartisan,133,73.077,False,False
+140042,VA,Write-in,Nonpartisan,49,26.923,False,False
+139299,VA,"William L. ""Billy"" Vaughn",Nonpartisan,6270,34.507,False,False
+139299,VA,Alice L. Woods,Nonpartisan,6052,33.308,False,False
+139299,VA,Brad D. Arrowood,Nonpartisan,5453,30.011,False,False
+139299,VA,Write-in,Nonpartisan,395,2.174,False,False
+139536,VA,Samuel D. Parham,Nonpartisan,1150,59.616,False,False
+139536,VA,Michael L. Moore-Storrs,Nonpartisan,772,40.021,False,False
+139536,VA,Write-in,Nonpartisan,7,0.363,False,False
+140006,VA,Write-in,Nonpartisan,42,100.0,False,False
+139625,VA,"Steve ""Pee Wee"" Smith",Nonpartisan,224,15.534,False,False
+139625,VA,Greg W. Smith,Nonpartisan,210,14.563,False,False
+139625,VA,Anthony J. Hass,Nonpartisan,192,13.315,False,False
+139625,VA,Michial A. Kerney,Nonpartisan,179,12.413,False,False
+139625,VA,Jeff D. Flanary,Nonpartisan,169,11.72,False,False
+139625,VA,Keltie Baker Kerney,Nonpartisan,165,11.442,False,False
+139625,VA,Eileen Roberts Deckard,Nonpartisan,137,9.501,False,False
+139625,VA,Teresa A. Tilson,Nonpartisan,125,8.669,False,False
+139625,VA,Write-in,Nonpartisan,41,2.843,False,False
+139237,VA,Yes,Nonpartisan,75718,76.44,False,False
+139237,VA,No,Nonpartisan,23337,23.56,False,False
+140005,VA,"Bryan P. Shreaves, Jr.",Nonpartisan,73,93.59,False,False
+140005,VA,Write-in,Nonpartisan,5,6.41,False,False
+139624,VA,Danny L. Dixon,Nonpartisan,100,22.936,False,False
+139624,VA,Stephen L. Glovier,Nonpartisan,77,17.661,False,False
+139624,VA,Sharon Craft Castle,Nonpartisan,74,16.972,False,False
+139624,VA,Rebecca J. Devine,Nonpartisan,71,16.284,False,False
+139624,VA,Brenda Kaye Isaacs,Nonpartisan,65,14.908,False,False
+139624,VA,Write-in,Nonpartisan,49,11.239,False,False
+139341,VA,Yes,Nonpartisan,311280,69.629,False,False
+139341,VA,No,Nonpartisan,135772,30.371,False,False
+140004,VA,Yes,Nonpartisan,30925,53.581,False,False
+140004,VA,No,Nonpartisan,26791,46.419,False,False
+139591,VA,Gleamer L. Sullivan,Nonpartisan,725,22.063,False,False
+139591,VA,Christopher W. Dodson,Nonpartisan,701,21.333,False,False
+139591,VA,Kara M. H. Dodson,Nonpartisan,662,20.146,False,False
+139591,VA,David L. Raynes,Nonpartisan,580,17.651,False,False
+139591,VA,"Jeffrey C. Ditmer, Jr.",Nonpartisan,579,17.62,False,False
+139591,VA,Write-in,Nonpartisan,39,1.187,False,False
+139295,VA,Raekwon M. Moore,Nonpartisan,16408,20.481,False,False
+139295,VA,"S. M. ""Danny"" Clawson",Nonpartisan,12867,16.061,False,False
+139295,VA,Vivian Y. Sanchez-Jones,Nonpartisan,12577,15.699,False,False
+139295,VA,David A. Bowers,Nonpartisan,10283,12.835,False,False
+139295,VA,Stephanie M. Moon,Nonpartisan,10251,12.795,False,False
+139295,VA,Amanda F. Marko,Nonpartisan,8835,11.028,False,False
+139295,VA,Kathy S. Cohen,Nonpartisan,8403,10.489,False,False
+139295,VA,Write-in,Nonpartisan,491,0.613,False,False
+139532,VA,Jeffery D. Houchins,Nonpartisan,250,35.261,False,False
+139532,VA,Rebecca J. Adcock,Nonpartisan,248,34.979,False,False
+139532,VA,Robert D. Pittis,Nonpartisan,205,28.914,False,False
+139532,VA,Write-in,Nonpartisan,6,0.846,False,False
+139353,VA,"Clyde Holland Perdue, III",Nonpartisan,1308,84.825,False,False
+139353,VA,Write-in,Nonpartisan,234,15.175,False,False
+139672,VA,Write-in,Nonpartisan,40,64.516,False,False
+139672,VA,Daryl W. Graham,Nonpartisan,22,35.484,False,False
+139486,VA,Scott R. Guirlinger,Nonpartisan,6151,96.034,False,False
+139486,VA,Write-in,Nonpartisan,254,3.966,False,False
+139307,VA,"Katherine Minter ""Katie"" Salgado",Nonpartisan,15650,98.757,False,False
+139307,VA,Write-in,Nonpartisan,197,1.243,False,False
+139434,VA,Allen D. Smith,Nonpartisan,507,96.388,False,False
+139434,VA,Write-in,Nonpartisan,19,3.612,False,False
+139238,VA,Yes,Nonpartisan,80264,80.58,False,False
+139238,VA,No,Nonpartisan,19344,19.42,False,False
+139677,VA,Brian Magee Laine,Nonpartisan,310,94.801,False,False
+139677,VA,Write-in,Nonpartisan,17,5.199,False,False
+139292,VA,Joseph E. Fawbush,Nonpartisan,629,27.289,False,False
+139292,VA,Stacy L. Salyers,Nonpartisan,608,26.377,False,False
+139292,VA,"George E. ""Skipper"" Dorton, Jr.",Nonpartisan,572,24.816,False,False
+139292,VA,Nina Sue Honaker,Nonpartisan,467,20.26,False,False
+139292,VA,Write-in,Nonpartisan,29,1.258,False,False
+139337,VA,"Kenneth A. ""Skip"" Gillis",Nonpartisan,316,19.713,False,False
+139337,VA,Robert Tyler Lowery,Nonpartisan,307,19.152,False,False
+139337,VA,Dianna L. Carneal,Nonpartisan,287,17.904,False,False
+139337,VA,James M. Frazier Jr.,Nonpartisan,286,17.842,False,False
+139337,VA,M. Jeans Owens,Nonpartisan,202,12.601,False,False
+139337,VA,J. Erin Kelley,Nonpartisan,192,11.978,False,False
+139337,VA,Write-in,Nonpartisan,13,0.811,False,False
+139574,VA,"Jacqueline T. ""Jackie"" McDonnough",Nonpartisan,5198,64.829,False,False
+139574,VA,Anne B. Holton,Nonpartisan,2765,34.485,False,False
+139574,VA,Write-in,Nonpartisan,55,0.686,False,False
+139291,VA,Michael E. Greene,Nonpartisan,1873,26.417,False,False
+139291,VA,Charles J. Niederstadt Jr,Nonpartisan,1791,25.261,False,False
+139291,VA,L C Jones,Nonpartisan,1474,20.79,False,False
+139291,VA,"Verna L. ""Tina"" Jenkins",Nonpartisan,1037,14.626,False,False
+139291,VA,Chad L. Hall,Nonpartisan,855,12.059,False,False
+139291,VA,Write-in,Nonpartisan,60,0.846,False,False
+139336,VA,No,Nonpartisan,2873,58.146,False,False
+139336,VA,Yes,Nonpartisan,2068,41.854,False,False
+139668,VA,Karima M. Lockwood,Nonpartisan,4095,55.783,False,False
+139668,VA,Kim A. Slingluff,Nonpartisan,3212,43.754,False,False
+139668,VA,Write-in,Nonpartisan,34,0.463,False,False
+139290,VA,Roberto Maldonado Jr.,Nonpartisan,2830,34.977,False,False
+139290,VA,Kevin J. Moreau,Nonpartisan,2524,31.195,False,False
+139290,VA,Maya I. Miernik,Nonpartisan,2508,30.997,False,False
+139290,VA,Write-in,Nonpartisan,229,2.83,False,False
+139719,VA,Nolan T. Rayfield,Nonpartisan,3307,56.86,False,False
+139719,VA,Kristin N. Willis,Nonpartisan,2496,42.916,False,False
+139719,VA,Write-in,Nonpartisan,13,0.224,False,False
+139430,VA,Mitch S. Seipt,Nonpartisan,2775,25.011,False,False
+139430,VA,Paul E. McCray,Nonpartisan,2662,23.993,False,False
+139430,VA,Kevin B. Wright,Nonpartisan,2653,23.912,False,False
+139430,VA,"H. Sam Brown, Jr.",Nonpartisan,1057,9.527,False,False
+139430,VA,Greg F. Paris,Nonpartisan,954,8.598,False,False
+139430,VA,Hank J. Speckhardt,Nonpartisan,901,8.121,False,False
+139430,VA,Write-in,Nonpartisan,93,0.838,False,False
+139234,VA,Yes,Nonpartisan,79196,79.576,False,False
+139234,VA,No,Nonpartisan,20326,20.424,False,False
+139481,VA,No,Nonpartisan,33944,59.019,False,False
+139481,VA,Yes,Nonpartisan,23570,40.981,False,False
+139384,VA,Catherine A. Ellixson,Nonpartisan,52,17.747,False,False
+139384,VA,Susan A. Bagbey,Nonpartisan,51,17.406,False,False
+139384,VA,Tommie S. Glasscock,Nonpartisan,51,17.406,False,False
+139384,VA,Patricia E. Honeycutt,Nonpartisan,49,16.724,False,False
+139384,VA,Jason H. Johnson,Nonpartisan,45,15.358,False,False
+139384,VA,Mary M. Jordan,Nonpartisan,44,15.017,False,False
+139384,VA,Write-in,Nonpartisan,1,0.341,False,False
+139621,VA,Amber M. Shupe,Nonpartisan,19,43.182,False,False
+139621,VA,Billy Travis Bowen,Nonpartisan,16,36.364,False,False
+139621,VA,Write-in,Nonpartisan,9,20.455,False,False
+139634,VA,Stephen D. Heishman,Nonpartisan,1265,37.66,False,False
+139634,VA,A. Paje Cross,Nonpartisan,1056,31.438,False,False
+139634,VA,Frank H. Haun,Nonpartisan,958,28.52,False,False
+139634,VA,Write-in,Nonpartisan,80,2.382,False,False
+139754,VA,Nate J. Prezzy,Nonpartisan,1320,59.567,False,False
+139754,VA,Klio N. Stroubakis,Nonpartisan,878,39.621,False,False
+139754,VA,Write-in,Nonpartisan,18,0.812,False,False
+139575,VA,Jonathan B. English,Nonpartisan,340,28.286,False,False
+139575,VA,Randall L. Phelps,Nonpartisan,306,25.458,False,False
+139575,VA,Paul G. Yackel,Nonpartisan,283,23.544,False,False
+139575,VA,Michael P. Stone,Nonpartisan,253,21.048,False,False
+139575,VA,Write-in,Nonpartisan,20,1.664,False,False
+139588,VA,Travis L. McDaniel,Nonpartisan,349,37.811,False,False
+139588,VA,Trevor A. Cockburn,Nonpartisan,292,31.636,False,False
+139588,VA,L. Joey Henry,Nonpartisan,252,27.302,False,False
+139588,VA,Write-in,Nonpartisan,30,3.25,False,False
+139664,VA,Mary Ellen Hill,Nonpartisan,4062,55.537,False,False
+139664,VA,Shelley S. Butler Barlow,Nonpartisan,3165,43.273,False,False
+139664,VA,Write-in,Nonpartisan,87,1.189,False,False
+139286,VA,Anthony T. Amos,Nonpartisan,6362,13.183,False,False
+139286,VA,Kelly M. O'Brien,Nonpartisan,5924,12.275,False,False
+139286,VA,Sandi W. Slappey Brown,Nonpartisan,5524,11.447,False,False
+139286,VA,María José Padmore,Nonpartisan,5363,11.113,False,False
+139286,VA,Stacy R. Hall,Nonpartisan,5258,10.895,False,False
+139286,VA,Rachel M McQuillen,Nonpartisan,4769,9.882,False,False
+139286,VA,Steve S Chang,Nonpartisan,4041,8.374,False,False
+139286,VA,Susan Hartley Kuiler,Nonpartisan,3809,7.893,False,False
+139286,VA,Jessica L. Lough,Nonpartisan,3754,7.779,False,False
+139286,VA,Russell A. Jones,Nonpartisan,1730,3.585,False,False
+139286,VA,Stephen S. Kim,Nonpartisan,1413,2.928,False,False
+139286,VA,Write-in,Nonpartisan,312,0.647,False,False
+140056,VA,Robert H. Tyler,Nonpartisan,1949,61.521,False,False
+140056,VA,Jacqueline S. Stewart,Nonpartisan,1186,37.437,False,False
+140056,VA,Write-in,Nonpartisan,33,1.042,False,False
+139618,VA,Justin M. Addington,Nonpartisan,239,80.743,False,False
+139618,VA,Write-in,Nonpartisan,57,19.257,False,False
+139663,VA,Yes,Nonpartisan,6299,57.123,False,False
+139663,VA,No,Nonpartisan,4728,42.877,False,False
+139380,VA,Richard N. Early Jr.,Nonpartisan,51,26.02,False,False
+139380,VA,Doris Rorrer Swenson,Nonpartisan,49,25.0,False,False
+139380,VA,"Matthew A. ""Matt"" Kime",Nonpartisan,48,24.49,False,False
+139380,VA,Kevin A. Kelley,Nonpartisan,38,19.388,False,False
+139380,VA,Write-in,Nonpartisan,10,5.102,False,False
+139617,VA,Rebecca Leigh Bryant,Nonpartisan,102,97.143,False,False
+139617,VA,Write-in,Nonpartisan,3,2.857,False,False
+139438,VA,Yes,Nonpartisan,2065,50.061,False,False
+139438,VA,No,Nonpartisan,2060,49.939,False,False
+139750,VA,Keisha M. Washington,Nonpartisan,1254,97.892,False,False
+139750,VA,Write-in,Nonpartisan,27,2.108,False,False
+139571,VA,Deborah L. Harris,Nonpartisan,69,100.0,False,False
+139571,VA,Write-in,Nonpartisan,0,0.0,False,False
+139584,VA,Tasha L. Hoover,Nonpartisan,126,70.787,False,False
+139584,VA,Write-in,Nonpartisan,52,29.213,False,False
+139512,VA,Ronald L. Frisby,Nonpartisan,506,27.879,False,False
+139512,VA,Eric M. Nash,Nonpartisan,493,27.163,False,False
+139512,VA,Chris C. Page Sr.,Nonpartisan,423,23.306,False,False
+139512,VA,Durby A. Wilson,Nonpartisan,385,21.212,False,False
+139512,VA,Write-in,Nonpartisan,8,0.441,False,False
+139333,VA,Alvina B. Matthews,Nonpartisan,90,52.941,False,False
+139333,VA,"Kenneth L. ""Kenny"" Speller",Nonpartisan,77,45.294,False,False
+139333,VA,Write-in,Nonpartisan,3,1.765,False,False
+139346,VA,Richard L. Heflin Jr.,Nonpartisan,142,18.734,False,False
+139346,VA,Van M. Loving,Nonpartisan,131,17.282,False,False
+139346,VA,Susan L. Tiffany,Nonpartisan,126,16.623,False,False
+139346,VA,Lisa M. Schulz,Nonpartisan,122,16.095,False,False
+139346,VA,Zechariah J. Tiemens,Nonpartisan,118,15.567,False,False
+139346,VA,Richard Kent Moxley,Nonpartisan,110,14.512,False,False
+139346,VA,Write-in,Nonpartisan,9,1.187,False,False
+139473,VA,Lisa M. Powers,Nonpartisan,202,27.978,False,False
+139473,VA,Martha J. Lowe,Nonpartisan,196,27.147,False,False
+139473,VA,Anthony C. Pearce,Nonpartisan,152,21.053,False,False
+139473,VA,John William Ryland III,Nonpartisan,111,15.374,False,False
+139473,VA,Jim B. Thrift,Nonpartisan,45,6.233,False,False
+139473,VA,Write-in,Nonpartisan,16,2.216,False,False
+139703,VA,R. Daniel Gritsko,Nonpartisan,101,25.0,False,False
+139703,VA,Edward A. Payne Jr.,Nonpartisan,99,24.505,False,False
+139703,VA,Meredith C. Hynes,Nonpartisan,96,23.762,False,False
+139703,VA,Molly Jordan Angevine,Nonpartisan,91,22.525,False,False
+139703,VA,Write-in,Nonpartisan,17,4.208,False,False
+139716,VA,Sara E. Crawford,Nonpartisan,4260,98.361,False,False
+139716,VA,Write-in,Nonpartisan,71,1.639,False,False
+139427,VA,Write-in,Nonpartisan,40,100.0,False,False
+139389,VA,"Warren E. ""Jay"" Garber, Jr",Nonpartisan,67,91.781,False,False
+139389,VA,Write-in,Nonpartisan,6,8.219,False,False
+139509,VA,Gerald E. Smith,Nonpartisan,135,94.406,False,False
+139509,VA,Write-in,Nonpartisan,8,5.594,False,False
+139330,VA,Clifton Threat,Nonpartisan,273,97.153,False,False
+139330,VA,Write-in,Nonpartisan,8,2.847,False,False
+139375,VA,Cynthia S. Grant,Nonpartisan,112,11.582,False,False
+139375,VA,Sarah Yvonne Burr,Nonpartisan,110,11.375,False,False
+139375,VA,Melissa J. Carpenter,Nonpartisan,101,10.445,False,False
+139375,VA,Travis W. Jones,Nonpartisan,100,10.341,False,False
+139375,VA,Jennifer M. Durham,Nonpartisan,100,10.341,False,False
+139375,VA,Write-in,Nonpartisan,94,9.721,False,False
+139375,VA,Karen L. Snyder,Nonpartisan,89,9.204,False,False
+139375,VA,Brenden L. Lyman,Nonpartisan,84,8.687,False,False
+139375,VA,Albert W. Griffin Jr.,Nonpartisan,83,8.583,False,False
+139375,VA,Sara M. Farnsworth,Nonpartisan,59,6.101,False,False
+139375,VA,Mary Ann Cubbage,Nonpartisan,35,3.619,False,False
+139700,VA,Jessica L. Arnold,Nonpartisan,45,95.745,False,False
+139700,VA,Write-in,Nonpartisan,2,4.255,False,False
+139329,VA,"M. E. ""Beth"" Anderson",Nonpartisan,74,24.749,False,False
+139329,VA,Sarah A. Woodland,Nonpartisan,73,24.415,False,False
+139329,VA,Anna M. Modrall,Nonpartisan,59,19.732,False,False
+139329,VA,Write-in,Nonpartisan,59,19.732,False,False
+139329,VA,Cheryl A. Epps,Nonpartisan,34,11.371,False,False
+139758,VA,Kylie Gaynor Zoller,Nonpartisan,5502,53.615,False,False
+139758,VA,Melissa A. Harris,Nonpartisan,4587,44.699,False,False
+139758,VA,Write-in,Nonpartisan,173,1.686,False,False
+139469,VA,G. Bryant Thomas,Nonpartisan,148,86.55,False,False
+139469,VA,Write-in,Nonpartisan,23,13.45,False,False
+139699,VA,Write-in,Nonpartisan,939,36.005,False,False
+139699,VA,Jeffrey L. Crane,Nonpartisan,928,35.583,False,False
+139699,VA,Zachary M. Ashworth,Nonpartisan,741,28.413,False,False
+139712,VA,Robert T. Berryman,Nonpartisan,70,21.538,False,False
+139712,VA,Milton E. Berryman,Nonpartisan,67,20.615,False,False
+139712,VA,Jason N. Wiedel,Nonpartisan,62,19.077,False,False
+139712,VA,Joe A. Garcia,Nonpartisan,62,19.077,False,False
+139712,VA,Brian L. Agor,Nonpartisan,57,17.538,False,False
+139712,VA,Write-in,Nonpartisan,7,2.154,False,False
+139423,VA,Yes,Nonpartisan,118045,66.25,False,False
+139423,VA,No,Nonpartisan,60137,33.75,False,False
+139660,VA,Yes,Nonpartisan,42788,70.431,False,False
+139660,VA,No,Nonpartisan,17964,29.569,False,False
+139474,VA,Leslie C. Harwood,Nonpartisan,7299,53.653,False,False
+139474,VA,Joel L. Goodhart,Nonpartisan,5887,43.274,False,False
+139474,VA,Write-in,Nonpartisan,418,3.073,False,False
+140050,VA,LeQuan M. Hylton,Nonpartisan,23534,96.297,False,False
+140050,VA,Write-in,Nonpartisan,905,3.703,False,False
+139614,VA,Kristin M. Siegel,Nonpartisan,6084,30.924,False,False
+139614,VA,Barbara A. White,Nonpartisan,4132,21.002,False,False
+139614,VA,Cecilia H. Carpenter,Nonpartisan,3797,19.3,False,False
+139614,VA,Fontella L. Brown-Bundy,Nonpartisan,3265,16.596,False,False
+139614,VA,Jordan K. Zipser,Nonpartisan,2172,11.04,False,False
+139614,VA,Write-in,Nonpartisan,224,1.139,False,False
+139435,VA,David L. Haywood Sr.,Nonpartisan,260,33.592,False,False
+139435,VA,Michael R. Bender,Nonpartisan,256,33.075,False,False
+139435,VA,Jodi Lynn Powers-Bernhardt,Nonpartisan,230,29.716,False,False
+139435,VA,Write-in,Nonpartisan,28,3.618,False,False
+139747,VA,Debra M. Freeman,Nonpartisan,1202,61.327,False,False
+139747,VA,Kelvin J. Washington,Nonpartisan,720,36.735,False,False
+139747,VA,Write-in,Nonpartisan,38,1.939,False,False
+139376,VA,"William F. ""Buddy"" Halsey",Nonpartisan,190,36.68,False,False
+139376,VA,"M. V. ""Ginger"" Meier",Nonpartisan,149,28.764,False,False
+139376,VA,Gregory P. Moore,Nonpartisan,93,17.954,False,False
+139376,VA,Michael S. Johnson,Nonpartisan,77,14.865,False,False
+139376,VA,Write-in,Nonpartisan,9,1.737,False,False
+139420,VA,Christopher M. Hornbaker,Nonpartisan,666,56.155,False,False
+139420,VA,Christina M. Grace,Nonpartisan,442,37.268,False,False
+139420,VA,Write-in,Nonpartisan,78,6.577,False,False
+139465,VA,Ashley Cox Hardee,Nonpartisan,370,39.03,False,False
+139465,VA,"G. Randy Crocker, Jr.",Nonpartisan,300,31.646,False,False
+139465,VA,Write-in,Nonpartisan,278,29.325,False,False
+139503,VA,D. Allen Philpot III,Nonpartisan,92,19.785,False,False
+139503,VA,Anne G. Sayers,Nonpartisan,81,17.419,False,False
+139503,VA,Annette Marie Brown,Nonpartisan,73,15.699,False,False
+139503,VA,Logan C. Small,Nonpartisan,71,15.269,False,False
+139503,VA,Bonny W. Lewis,Nonpartisan,70,15.054,False,False
+139503,VA,John D. Crockett,Nonpartisan,67,14.409,False,False
+139503,VA,Write-in,Nonpartisan,11,2.366,False,False
+139611,VA,"Cardell C. Patillo, Jr.",Nonpartisan,14919,17.47,False,False
+139611,VA,Melvin Cotton Jr.,Nonpartisan,13356,15.64,False,False
+139611,VA,Tamara L. Shewmake,Nonpartisan,13080,15.317,False,False
+139611,VA,"Quniana D. ""Q"" Futrell",Nonpartisan,12715,14.889,False,False
+139611,VA,Denzel E. Glover,Nonpartisan,10678,12.504,False,False
+139611,VA,Ingrid P. Whitaker,Nonpartisan,8664,10.145,False,False
+139611,VA,Justin V. Randall-Jenkins,Nonpartisan,5877,6.882,False,False
+139611,VA,Luis F. Padilla,Nonpartisan,5581,6.535,False,False
+139611,VA,Write-in,Nonpartisan,528,0.618,False,False
+139464,VA,Lillie Feggins-Boone,Nonpartisan,140,55.556,False,False
+139464,VA,Write-in,Nonpartisan,112,44.444,False,False
+139270,VA,Barry L. Jessup,Nonpartisan,206,96.262,False,False
+139270,VA,Write-in,Nonpartisan,8,3.738,False,False
+140044,VA,Deborah T. Kennedy,Nonpartisan,171,96.067,False,False
+140044,VA,Write-in,Nonpartisan,7,3.933,False,False
+139610,VA,Abbi R. Rutherford,Nonpartisan,576,26.916,False,False
+139610,VA,Gordon D. Scott,Nonpartisan,522,24.393,False,False
+139610,VA,Jonathan E. Broskey,Nonpartisan,517,24.159,False,False
+139610,VA,William B. Bott,Nonpartisan,502,23.458,False,False
+139610,VA,Write-in,Nonpartisan,23,1.075,False,False
+139206,VA,"Henry E. ""Ned"" Finney",Nonpartisan,166,91.713,False,False
+139206,VA,Write-in,Nonpartisan,15,8.287,False,False
+139743,VA,Kimberly M. Sweat,Nonpartisan,343,43.036,False,False
+139743,VA,Steven R. White,Nonpartisan,317,39.774,False,False
+139743,VA,Write-in,Nonpartisan,137,17.189,False,False
+139372,VA,Savanna S. Cornett,Nonpartisan,71,100.0,False,False
+139372,VA,Write-in,Nonpartisan,0,0.0,False,False
+140060,VA,Dale E. Burdette,Nonpartisan,717,31.174,False,False
+140060,VA,Deborah A. Laudermilk,Nonpartisan,584,25.391,False,False
+140060,VA,Michael L. Foster,Nonpartisan,550,23.913,False,False
+140060,VA,Pamela E. Lightfoot,Nonpartisan,403,17.522,False,False
+140060,VA,Write-in,Nonpartisan,46,2.0,False,False
+139313,VA,Christopher M. Dolen,Nonpartisan,31740,97.734,False,False
+139313,VA,Write-in,Nonpartisan,736,2.266,False,False
+139326,VA,"James R. ""Jim"" Childress",Nonpartisan,312,40.467,False,False
+139326,VA,"James Andrew ""Andy"" Rose",Nonpartisan,258,33.463,False,False
+139326,VA,Curtis A. Edwards,Nonpartisan,185,23.995,False,False
+139326,VA,Write-in,Nonpartisan,16,2.075,False,False
+139755,VA,"Jennifer E. ""Jenny"" McDonald",Nonpartisan,761,52.123,False,False
+139755,VA,Emily Rose Windle,Nonpartisan,694,47.534,False,False
+139755,VA,Write-in,Nonpartisan,5,0.342,False,False
+139266,VA,Randal S. Hageman,Nonpartisan,304,37.67,False,False
+139266,VA,Daniel C. Webb,Nonpartisan,265,32.838,False,False
+139266,VA,Philip K. Edwards IV,Nonpartisan,217,26.89,False,False
+139266,VA,Write-in,Nonpartisan,21,2.602,False,False
+139504,VA,Bryon P. Heaster,Nonpartisan,228,29.045,False,False
+139504,VA,Stephanie L. Lilliston,Nonpartisan,224,28.535,False,False
+139504,VA,Claudia C. Andrews,Nonpartisan,220,28.025,False,False
+139504,VA,Brad W. Lowery,Nonpartisan,97,12.357,False,False
+139504,VA,Write-in,Nonpartisan,16,2.038,False,False
+139517,VA,Lloyette R. Wynn,Nonpartisan,186,97.895,False,False
+139517,VA,Write-in,Nonpartisan,4,2.105,False,False
+139740,VA,"Benjamin A. ""Andy"" Puckett",Nonpartisan,1517,61.243,False,False
+139740,VA,Janet S. Lester,Nonpartisan,921,37.182,False,False
+139740,VA,Write-in,Nonpartisan,39,1.574,False,False
+140031,VA,Barbara M. Laprade,Nonpartisan,286,97.279,False,False
+140031,VA,Write-in,Nonpartisan,8,2.721,False,False
+139414,VA,Travis C. Mullins,Nonpartisan,211,17.569,False,False
+139414,VA,Paul Doug Alsup,Nonpartisan,202,16.819,False,False
+139414,VA,Jimmy L. Warner,Nonpartisan,188,15.654,False,False
+139414,VA,E. Ty  Harber Jr.,Nonpartisan,177,14.738,False,False
+139414,VA,Darrell W. Hayes,Nonpartisan,155,12.906,False,False
+139414,VA,Megan L.L. Kennedy,Nonpartisan,102,8.493,False,False
+139414,VA,Loretta L. See,Nonpartisan,92,7.66,False,False
+139414,VA,Orville D. Overton,Nonpartisan,62,5.162,False,False
+139414,VA,Write-in,Nonpartisan,12,0.999,False,False
+139739,VA,Ricky R. Call,Nonpartisan,305,56.377,False,False
+139739,VA,William Cody Thomas,Nonpartisan,230,42.514,False,False
+139739,VA,Write-in,Nonpartisan,6,1.109,False,False
+140030,VA,Rebecca L. Shortridge-Elkins,Nonpartisan,163,34.461,False,False
+140030,VA,M. Wade McGeorge,Nonpartisan,151,31.924,False,False
+140030,VA,Patty Marie Street,Nonpartisan,146,30.867,False,False
+140030,VA,Write-in,Nonpartisan,13,2.748,False,False
+139309,VA,Carman N. Viar,Nonpartisan,1848,96.906,False,False
+139309,VA,Write-in,Nonpartisan,59,3.094,False,False
+139738,VA,Katie M. Lamb,Nonpartisan,165,75.688,False,False
+139738,VA,Write-in,Nonpartisan,53,24.312,False,False
+139559,VA,Kevin P. Brown,Nonpartisan,60,48.0,False,False
+139559,VA,Jennifer L. Stoltz,Nonpartisan,50,40.0,False,False
+139559,VA,Write-in,Nonpartisan,15,12.0,False,False
+139254,VA,"Robert W. Hayes, Sr.",Nonpartisan,98,98.0,False,False
+139254,VA,Write-in,Nonpartisan,2,2.0,False,False
+139500,VA,Write-in,Nonpartisan,40,100.0,False,False
+139321,VA,Jonathan M. Arritt,Nonpartisan,1497,97.019,False,False
+139321,VA,Write-in,Nonpartisan,46,2.981,False,False
+139640,VA,No,Nonpartisan,7185,71.514,False,False
+139640,VA,Yes,Nonpartisan,2862,28.486,False,False
+139461,VA,Bruce F. Woerner,Nonpartisan,526,94.946,False,False
+139461,VA,Write-in,Nonpartisan,28,5.054,False,False
+139267,VA,Angela F. Golden,Nonpartisan,42,22.951,False,False
+139267,VA,Nathanael E. Ulfers,Nonpartisan,37,20.219,False,False
+139267,VA,Robert B. Giles Sr.,Nonpartisan,35,19.126,False,False
+139267,VA,Monica G. Chenault,Nonpartisan,34,18.579,False,False
+139267,VA,Alexander Long IV,Nonpartisan,31,16.94,False,False
+139267,VA,Write-in,Nonpartisan,4,2.186,False,False
+139594,VA,Jennifer G. Coffman,Nonpartisan,606,36.287,False,False
+139594,VA,Sarah C. Berry,Nonpartisan,499,29.88,False,False
+139594,VA,Carsen M. Frey,Nonpartisan,449,26.886,False,False
+139594,VA,Write-in,Nonpartisan,116,6.946,False,False
+139415,VA,Yes,Nonpartisan,1477,69.604,False,False
+139415,VA,No,Nonpartisan,645,30.396,False,False
+139652,VA,Reginald T. Vaughan Sr.,Nonpartisan,52,21.138,False,False
+139652,VA,Phillip C. McGee,Nonpartisan,45,18.293,False,False
+139652,VA,Allene S. Edwards,Nonpartisan,40,16.26,False,False
+139652,VA,Ronald E. Carr Jr.,Nonpartisan,38,15.447,False,False
+139652,VA,Timothy M. Futrell,Nonpartisan,34,13.821,False,False
+139652,VA,Dean M. Burgess,Nonpartisan,31,12.602,False,False
+139652,VA,Write-in,Nonpartisan,6,2.439,False,False
+139251,VA,Shean C. Bowers,Nonpartisan,301,53.274,False,False
+139251,VA,"Marlon E. ""Marty"" Rickman",Nonpartisan,225,39.823,False,False
+139251,VA,Write-in,Nonpartisan,39,6.903,False,False
+139305,VA,"Charles W. ""Chad"" Simmons",Nonpartisan,13682,97.757,False,False
+139305,VA,Write-in,Nonpartisan,314,2.243,False,False
+139542,VA,R. Keith Motley,Nonpartisan,267,63.121,False,False
+139542,VA,Barbara P. Hubbard,Nonpartisan,153,36.17,False,False
+139542,VA,Write-in,Nonpartisan,3,0.709,False,False
+139445,VA,Paul E. Kaplan,Nonpartisan,1239,39.981,False,False
+139445,VA,Linwood W. Johnson,Nonpartisan,1197,38.625,False,False
+139445,VA,Write-in,Nonpartisan,663,21.394,False,False
+139249,VA,Mary Bess Smith,Nonpartisan,289,96.333,False,False
+139249,VA,Write-in,Nonpartisan,11,3.667,False,False
+139304,VA,"Kathryn L. ""Kate"" Spence",Nonpartisan,3471,72.237,False,False
+139304,VA,Blake A. Jones,Nonpartisan,955,19.875,False,False
+139304,VA,"Francis P. ""Fritz"" Lages",Nonpartisan,343,7.138,False,False
+139304,VA,Write-in,Nonpartisan,36,0.749,False,False
+139636,VA,Gregory W. Six,Nonpartisan,45908,60.202,False,False
+139636,VA,Rickey R. Dandridge,Nonpartisan,30092,39.462,False,False
+139636,VA,Write-in,Nonpartisan,256,0.336,False,False
+139248,VA,John M. Seward,Nonpartisan,635,96.799,False,False
+139248,VA,Write-in,Nonpartisan,21,3.201,False,False
+139687,VA,Lynna M. Mitchell,Nonpartisan,948,25.395,False,False
+139687,VA,Frances D. Meadows,Nonpartisan,929,24.886,False,False
+139687,VA,Laura A. Mollo,Nonpartisan,837,22.422,False,False
+139687,VA,Rick L. Wood II,Nonpartisan,510,13.662,False,False
+139687,VA,"Daniel L. ""DJ"" Lankford",Nonpartisan,462,12.376,False,False
+139687,VA,Write-in,Nonpartisan,47,1.259,False,False
+139590,VA,"D. E. ""Gene"" Kite",Nonpartisan,789,23.931,False,False
+139590,VA,"Phillip ""Rick"" Workman II",Nonpartisan,765,23.203,False,False
+139590,VA,Joe M. Dawson-Testa,Nonpartisan,644,19.533,False,False
+139590,VA,W. Josh Davidson,Nonpartisan,567,17.197,False,False
+139590,VA,Write-in,Nonpartisan,532,16.136,False,False
+139411,VA,Jerry L. Harris,Nonpartisan,198,88.0,False,False
+139411,VA,Write-in,Nonpartisan,27,12.0,False,False
+139648,VA,Orris G. Lane,Nonpartisan,5856,96.506,False,False
+139648,VA,Write-in,Nonpartisan,212,3.494,False,False
+139352,VA,Write-in,Nonpartisan,361,100.0,False,False
+140015,VA,Robert F. Bilicki,Nonpartisan,96,16.299,False,False
+140015,VA,Stephen B. Joseph,Nonpartisan,96,16.299,False,False
+140015,VA,Glenn J. Schagelin,Nonpartisan,95,16.129,False,False
+140015,VA,James E. Bell,Nonpartisan,91,15.45,False,False
+140015,VA,Write-in,Nonpartisan,89,15.11,False,False
+140015,VA,Aileen Z. Joeckel,Nonpartisan,87,14.771,False,False
+140015,VA,Robert E. Hipple Jr.,Nonpartisan,35,5.942,False,False
+140051,VA,Yes,Nonpartisan,87580,50.473,False,False
+140051,VA,No,Nonpartisan,85937,49.527,False,False
+139722,VA,Janet L. Byrnes,Nonpartisan,6846,55.29,False,False
+139722,VA,Amelia N. Ross-Hammond,Nonpartisan,5407,43.668,False,False
+139722,VA,Write-in,Nonpartisan,129,1.042,False,False
+139543,VA,Teresa D. Easley,Nonpartisan,310,25.578,False,False
+139543,VA,Janet Royster Bishop,Nonpartisan,293,24.175,False,False
+139543,VA,Benjamin A. Paris,Nonpartisan,239,19.719,False,False
+139543,VA,William P. Black,Nonpartisan,192,15.842,False,False
+139543,VA,Jason L. Mays,Nonpartisan,162,13.366,False,False
+139543,VA,Write-in,Nonpartisan,16,1.32,False,False
+139556,VA,Derrick R. Wood,Nonpartisan,911,57.513,False,False
+139556,VA,Brian K. Fields,Nonpartisan,664,41.919,False,False
+139556,VA,Write-in,Nonpartisan,9,0.568,False,False
+139632,VA,M. Kay Pool Whetzel,Nonpartisan,293,23.125,False,False
+139632,VA,W. Todd Holtzman,Nonpartisan,276,21.784,False,False
+139632,VA,Robert A. Frye,Nonpartisan,217,17.127,False,False
+139632,VA,Michael E. Cain,Nonpartisan,180,14.207,False,False
+139632,VA,Devin M. Ross,Nonpartisan,152,11.997,False,False
+139632,VA,Kyle B. Kennedy,Nonpartisan,133,10.497,False,False
+139632,VA,Write-in,Nonpartisan,16,1.263,False,False
+139453,VA,Joe R. Beasley,Nonpartisan,1137,96.356,False,False
+139453,VA,Write-in,Nonpartisan,43,3.644,False,False
+139765,VA,"James Patrick ""Sean"" Viars",Nonpartisan,369,62.226,False,False
+139765,VA,Timothy G. Litz,Nonpartisan,217,36.594,False,False
+139765,VA,Write-in,Nonpartisan,7,1.18,False,False
+140012,VA,"Samuel H. Bloxom, Jr.",Nonpartisan,61,15.803,False,False
+140012,VA,Rosemary G. Gibbons,Nonpartisan,60,15.544,False,False
+140012,VA,Kasey G. Bagwell,Nonpartisan,59,15.285,False,False
+140012,VA,James T. Bagwell II,Nonpartisan,59,15.285,False,False
+140012,VA,Thomas W. Beasley,Nonpartisan,58,15.026,False,False
+140012,VA,"Charles Edward Roe, Jr.",Nonpartisan,51,13.212,False,False
+140012,VA,Write-in,Nonpartisan,38,9.845,False,False
+139631,VA,Bradley M. Dellinger,Nonpartisan,284,35.678,False,False
+139631,VA,Fay M. Wymer-Hollar,Nonpartisan,256,32.161,False,False
+139631,VA,Steve D. Wood,Nonpartisan,243,30.528,False,False
+139631,VA,Write-in,Nonpartisan,13,1.633,False,False
+139348,VA,No,Nonpartisan,4268,57.135,False,False
+139348,VA,Yes,Nonpartisan,3202,42.865,False,False
+140011,VA,"John W. Smith, Jr.",Nonpartisan,28,28.571,False,False
+140011,VA,Pamela G. Riffey,Nonpartisan,26,26.531,False,False
+140011,VA,Write-in,Nonpartisan,23,23.469,False,False
+140011,VA,Dawn A. Thornton,Nonpartisan,21,21.429,False,False
+139598,VA,Jennifer Ann Short,Nonpartisan,252,24.466,False,False
+139598,VA,Scott D. McGlothlin,Nonpartisan,227,22.039,False,False
+139598,VA,Cathy L. Ray,Nonpartisan,190,18.447,False,False
+139598,VA,Dewey Benton Chafin,Nonpartisan,180,17.476,False,False
+139598,VA,Nancy C. Taylor,Nonpartisan,174,16.893,False,False
+139598,VA,Write-in,Nonpartisan,7,0.68,False,False
+139718,VA,Tiffanie Seay Hairston,Nonpartisan,15764,98.23,False,False
+139718,VA,Write-in,Nonpartisan,284,1.77,False,False
+139539,VA,Crystal Brown,Nonpartisan,761,53.366,False,False
+139539,VA,Adrian T. Dance,Nonpartisan,651,45.652,False,False
+139539,VA,Write-in,Nonpartisan,14,0.982,False,False
+139552,VA,Yes,Nonpartisan,4189,54.558,False,False
+139552,VA,No,Nonpartisan,3489,45.442,False,False
+139480,VA,John R. Eley III,Nonpartisan,11298,65.701,False,False
+139480,VA,Devon P. Hamilton,Nonpartisan,3463,20.138,False,False
+139480,VA,Clifton J. Atkins,Nonpartisan,2258,13.131,False,False
+139480,VA,Write-in,Nonpartisan,177,1.029,False,False
+139301,VA,Patrick M. Irish,Nonpartisan,340,96.866,False,False
+139301,VA,Write-in,Nonpartisan,11,3.134,False,False
+139314,VA,Joshua R. Evans,Nonpartisan,2766,56.128,False,False
+139314,VA,Stephen W. Mullins,Nonpartisan,2132,43.263,False,False
+139314,VA,Write-in,Nonpartisan,30,0.609,False,False
+139441,VA,Richard C. Conner,Nonpartisan,519,95.229,False,False
+139441,VA,Write-in,Nonpartisan,26,4.771,False,False
+139245,VA,Paul Grey Richardson,Nonpartisan,2995,58.11,False,False
+139245,VA,Robert J. Williams,Nonpartisan,2107,40.881,False,False
+139245,VA,Write-in,Nonpartisan,52,1.009,False,False
+139684,VA,Karen L. Rich,Nonpartisan,1057,33.534,False,False
+139684,VA,"Anglis Trigg, Jr.",Nonpartisan,1038,32.931,False,False
+139684,VA,Cathy C. Payne,Nonpartisan,986,31.282,False,False
+139684,VA,Write-in,Nonpartisan,71,2.253,False,False
+139587,VA,Stephanie L. Curtis,Nonpartisan,1426,24.676,False,False
+139587,VA,A. Fontaine Canada,Nonpartisan,1424,24.641,False,False
+139587,VA,Vincenzo G. Coppola,Nonpartisan,1337,23.135,False,False
+139587,VA,"James M. ""Jim"" Tongue",Nonpartisan,1279,22.132,False,False
+139587,VA,Write-in,Nonpartisan,313,5.416,False,False
+139357,VA,A. Ralph Casey,Nonpartisan,1013,33.213,False,False
+139357,VA,Ben K. Mullins,Nonpartisan,994,32.59,False,False
+139357,VA,David K. Clements,Nonpartisan,939,30.787,False,False
+139357,VA,Write-in,Nonpartisan,104,3.41,False,False
+139477,VA,Jessica L. Stewart,Nonpartisan,1890,97.624,False,False
+139477,VA,Write-in,Nonpartisan,46,2.376,False,False
+139298,VA,"D. W. ""Danny"" Marshall III",Nonpartisan,6956,53.344,False,False
+139298,VA,"Jasmine D. ""Wisdom"" Lipscomb",Nonpartisan,6002,46.028,False,False
+139298,VA,Write-in,Nonpartisan,82,0.629,False,False
+139343,VA,Devada R. Allison Jr.,Nonpartisan,165,94.286,False,False
+139343,VA,Write-in,Nonpartisan,10,5.714,False,False
+139242,VA,"James W. ""Jay"" Bryan, III",Nonpartisan,348,98.864,False,False
+139242,VA,Write-in,Nonpartisan,4,1.136,False,False
+139297,VA,William E. Kerr,Nonpartisan,1677,97.105,False,False
+139297,VA,Write-in,Nonpartisan,50,2.895,False,False
+139726,VA,Betty J. Spencer,Nonpartisan,8021,56.73,False,False
+139726,VA,Kathleen J. Brown,Nonpartisan,6016,42.549,False,False
+139726,VA,Write-in,Nonpartisan,102,0.721,False,False
+139437,VA,No,Nonpartisan,3332,51.01,False,False
+139437,VA,Yes,Nonpartisan,3200,48.99,False,False
+139241,VA,Emmett B. Cole,Nonpartisan,217,40.335,False,False
+139241,VA,Veronica L. Moran,Nonpartisan,147,27.323,False,False
+139241,VA,Richard L. Fox,Nonpartisan,146,27.138,False,False
+139241,VA,Write-in,Nonpartisan,28,5.204,False,False
+139680,VA,Dennis P. Mason,Nonpartisan,247,19.312,False,False
+139680,VA,Michael W. Kessinger,Nonpartisan,228,17.826,False,False
+139680,VA,"Oscar E. ""Chip"" Parker III",Nonpartisan,214,16.732,False,False
+139680,VA,Brian K. Wills,Nonpartisan,204,15.95,False,False
+139680,VA,Jesse A. Wills,Nonpartisan,189,14.777,False,False
+139680,VA,R. Frances J. Chambers,Nonpartisan,184,14.386,False,False
+139680,VA,Write-in,Nonpartisan,13,1.016,False,False
+139583,VA,Joshua J. Gooden,Nonpartisan,812,54.278,False,False
+139583,VA,Wayne E. Printz,Nonpartisan,610,40.775,False,False
+139583,VA,Virginia H. Fulginiti,Nonpartisan,67,4.479,False,False
+139583,VA,Write-in,Nonpartisan,7,0.468,False,False
+139628,VA,Jeremy D. McCleary,Nonpartisan,1576,96.039,False,False
+139628,VA,Write-in,Nonpartisan,65,3.961,False,False
+139449,VA,Phillip D. Jones,Nonpartisan,39392,69.217,False,False
+139449,VA,Phillip A. Hamilton,Nonpartisan,11471,20.156,False,False
+139449,VA,Sharon P. Scott,Nonpartisan,5815,10.218,False,False
+139449,VA,Write-in,Nonpartisan,233,0.409,False,False
+139761,VA,Write-in,Nonpartisan,225,41.209,False,False
+139761,VA,Jackie L. Johnson,Nonpartisan,173,31.685,False,False
+139761,VA,Renee Jo Trosper,Nonpartisan,148,27.106,False,False
+140008,VA,Write-in,Nonpartisan,47,100.0,False,False
+139595,VA,Linda I. Couch,Nonpartisan,56,100.0,False,False
+139595,VA,Write-in,Nonpartisan,0,0.0,False,False
+139715,VA,Kim M. Rucker,Nonpartisan,79702,86.003,False,False
+139715,VA,Aasim S. Rawoot,Nonpartisan,11890,12.83,False,False
+139715,VA,Write-in,Nonpartisan,1081,1.166,False,False
+139344,VA,Renard J. Carlos,Nonpartisan,1826,41.823,False,False
+139344,VA,David A. McGuire,Nonpartisan,1681,38.502,False,False
+139344,VA,Darine P. Barbour,Nonpartisan,836,19.148,False,False
+139344,VA,Write-in,Nonpartisan,23,0.527,False,False
+139580,VA,"David ""Chris"" Robertson",Nonpartisan,96,31.068,False,False
+139580,VA,Michael E. Hicks,Nonpartisan,94,30.421,False,False
+139580,VA,Derrick G. Ogden,Nonpartisan,65,21.036,False,False
+139580,VA,Jeff H. Shaffer,Nonpartisan,48,15.534,False,False
+139580,VA,Write-in,Nonpartisan,6,1.942,False,False
+139433,VA,Wanda G. Morrison,Nonpartisan,370,94.148,False,False
+139433,VA,Write-in,Nonpartisan,23,5.852,False,False
+139670,VA,DawnMarie Brittingham,Nonpartisan,4276,62.151,False,False
+139670,VA,Wendy M. VanHosen,Nonpartisan,2540,36.919,False,False
+139670,VA,Write-in,Nonpartisan,64,0.93,False,False
+139579,VA,Write-in,Nonpartisan,259,39.663,False,False
+139579,VA,Natalie H. Harris,Nonpartisan,147,22.511,False,False
+139579,VA,Brandall B. Branch,Nonpartisan,111,16.998,False,False
+139579,VA,Marcie Knick Hill,Nonpartisan,83,12.711,False,False
+139579,VA,Kris K. Springer,Nonpartisan,53,8.116,False,False
+139432,VA,Maggie M. Larson,Nonpartisan,112,17.391,False,False
+139432,VA,Cara J. Lundgren-Stowe,Nonpartisan,102,15.839,False,False
+139432,VA,"Rebecca T. ""Becky"" McGehee",Nonpartisan,87,13.509,False,False
+139432,VA,Christopher D. Dillard,Nonpartisan,81,12.578,False,False
+139432,VA,Michelle V. Covert,Nonpartisan,77,11.957,False,False
+139432,VA,C. Blair Nipper,Nonpartisan,71,11.025,False,False
+139432,VA,Afton K. Von Tye,Nonpartisan,49,7.609,False,False
+139432,VA,Cean Nicole G. Washington,Nonpartisan,38,5.901,False,False
+139432,VA,Write-in,Nonpartisan,27,4.193,False,False
+139757,VA,Yes,Nonpartisan,5152,56.073,False,False
+139757,VA,No,Nonpartisan,4036,43.927,False,False
+139578,VA,Thomas O. McCraw,Nonpartisan,80,74.074,False,False
+139578,VA,Write-in,Nonpartisan,28,25.926,False,False
+139399,VA,Write-in,Nonpartisan,408,100.0,False,False
+139711,VA,Brooks R. Dawson,Nonpartisan,1430,33.846,False,False
+139711,VA,Michael W. Williams,Nonpartisan,1289,30.509,False,False
+139711,VA,Jeremy L. Clark,Nonpartisan,1247,29.515,False,False
+139711,VA,Write-in,Nonpartisan,259,6.13,False,False
+139340,VA,"Keven J LeBlanc, Jr",Nonpartisan,6526,94.552,False,False
+139340,VA,Write-in,Nonpartisan,376,5.448,False,False
+140003,VA,Carter S. Allen,Nonpartisan,535,97.806,False,False
+140003,VA,Write-in,Nonpartisan,12,2.194,False,False
+139281,VA,"Nathaniel X. ""Nat"" Marshall",Nonpartisan,12623,16.272,False,False
+139281,VA,Christina Anne Delzingaro,Nonpartisan,12600,16.242,False,False
+139281,VA,R. Dave Henderson Jr,Nonpartisan,12346,15.915,False,False
+139281,VA,Stephanie T. Reed,Nonpartisan,7930,10.222,False,False
+139281,VA,Larry L. Taylor,Nonpartisan,7800,10.055,False,False
+139281,VA,Veronica T. Bratton,Nonpartisan,7506,9.676,False,False
+139281,VA,Martin J. Misjuns,Nonpartisan,7435,9.584,False,False
+139281,VA,Chris M. Boswell,Nonpartisan,7085,9.133,False,False
+139281,VA,"Eli ""Shawn Hunter"" Rybinni",Nonpartisan,1780,2.295,False,False
+139281,VA,Write-in,Nonpartisan,471,0.607,False,False
+139294,VA,P. Doug Kanipe,Nonpartisan,1925,24.454,False,False
+139294,VA,Jonathan E. Stewart,Nonpartisan,1853,23.539,False,False
+139294,VA,Bill J. Kovarik,Nonpartisan,1632,20.732,False,False
+139294,VA,Chad L. McClanahan,Nonpartisan,1569,19.931,False,False
+139294,VA,C. Charlie Meeks,Nonpartisan,802,10.188,False,False
+139294,VA,Write-in,Nonpartisan,91,1.156,False,False
+139723,VA,"Robert W. ""Worth"" Remick",Nonpartisan,10792,63.801,False,False
+139723,VA,"Richard W. ""RK"" Kowalewitch",Nonpartisan,6032,35.661,False,False
+139723,VA,Write-in,Nonpartisan,91,0.538,False,False
+139217,VA,Cynthia W. Holdren,Nonpartisan,309,31.79,False,False
+139217,VA,Ashley G. Pettit,Nonpartisan,301,30.967,False,False
+139217,VA,Ann M. Quigley,Nonpartisan,294,30.247,False,False
+139217,VA,Write-in,Nonpartisan,68,6.996,False,False
+139671,VA,Steven Cheeks,Nonpartisan,2763,60.039,False,False
+139671,VA,Jeffrey E. Ferrin,Nonpartisan,1787,38.831,False,False
+139671,VA,Write-in,Nonpartisan,52,1.13,False,False
+139485,VA,No,Nonpartisan,36611,55.84,False,False
+139485,VA,Yes,Nonpartisan,28953,44.16,False,False
+139708,VA,Ann E. DeLong,Nonpartisan,1663,27.46,False,False
+139708,VA,Stacey L. Hailey,Nonpartisan,1552,25.627,False,False
+139708,VA,Danny L. Kirby,Nonpartisan,1452,23.976,False,False
+139708,VA,Timothy R. Brooke,Nonpartisan,1288,21.268,False,False
+139708,VA,Write-in,Nonpartisan,101,1.668,False,False
+139753,VA,Miles K. Davis,Nonpartisan,2005,54.395,False,False
+139753,VA,Nancy G. Campbell,Nonpartisan,1666,45.198,False,False
+139753,VA,Write-in,Nonpartisan,15,0.407,False,False
+139382,VA,Ralph O. Murray Jr.,Nonpartisan,55,98.214,False,False
+139382,VA,Write-in,Nonpartisan,1,1.786,False,False
+139707,VA,"Carolyn S. ""Carrie"" Moore",Nonpartisan,856,31.727,False,False
+139707,VA,Glen A. Keen Jr.,Nonpartisan,824,30.541,False,False
+139707,VA,Renee Dawn Adair,Nonpartisan,623,23.091,False,False
+139707,VA,Billy Ray Jeffers,Nonpartisan,346,12.824,False,False
+139707,VA,Write-in,Nonpartisan,49,1.816,False,False
+139752,VA,Clinton A. Watson Jr.,Nonpartisan,113,33.235,False,False
+139752,VA,Stacy P. Messenger,Nonpartisan,111,32.647,False,False
+139752,VA,Christopher L. Garrett,Nonpartisan,109,32.059,False,False
+139752,VA,Write-in,Nonpartisan,7,2.059,False,False
+139269,VA,"Gregory D. ""Greg"" Yonce",Nonpartisan,239,98.76,False,False
+139269,VA,Write-in,Nonpartisan,3,1.24,False,False
+139706,VA,Beth Davidson Takach,Nonpartisan,1047,96.944,False,False
+139706,VA,Write-in,Nonpartisan,33,3.056,False,False
+139527,VA,Jerry R. Dofflemyer,Nonpartisan,1091,36.833,False,False
+139527,VA,"Ronald C. ""Ron"" Vickers",Nonpartisan,912,30.79,False,False
+139527,VA,"Ryan B. ""Beaver"" Dean",Nonpartisan,890,30.047,False,False
+139527,VA,Write-in,Nonpartisan,69,2.33,False,False
+139205,VA,Fletcher D. Fosque,Nonpartisan,456,89.941,False,False
+139205,VA,Write-in,Nonpartisan,51,10.059,False,False
+139667,VA,"Dwight S. ""D.J."" James",Nonpartisan,1844,38.099,False,False
+139667,VA,Tyron D. Riddick,Nonpartisan,1778,36.736,False,False
+139667,VA,John T. Rector,Nonpartisan,1073,22.169,False,False
+139667,VA,Write-in,Nonpartisan,145,2.996,False,False
+139289,VA,Dianne Lane,Nonpartisan,6665,20.809,False,False
+139289,VA,Jill M. Spall,Nonpartisan,6118,19.101,False,False
+139289,VA,Helen Anne Zurita,Nonpartisan,5707,17.818,False,False
+139289,VA,Theresa Coates Ellis,Nonpartisan,5037,15.726,False,False
+139289,VA,Lynn Forkell Greene,Nonpartisan,3765,11.755,False,False
+139289,VA,Colin J. Turner,Nonpartisan,2939,9.176,False,False
+139289,VA,"Eugene E. ""Doc"" Brown",Nonpartisan,1664,5.195,False,False
+139289,VA,Write-in,Nonpartisan,135,0.421,False,False
+140059,VA,Write-in,Nonpartisan,54,100.0,False,False
+139429,VA,Megan E. Cox,Nonpartisan,804,31.357,False,False
+139429,VA,Jared T. McCrory,Nonpartisan,611,23.83,False,False
+139429,VA,"Robert R. ""Rob"" Hill, Jr.",Nonpartisan,587,22.894,False,False
+139429,VA,Paul Richard Pico,Nonpartisan,489,19.072,False,False
+139429,VA,Write-in,Nonpartisan,73,2.847,False,False
+139442,VA,David A. McCaleb,Nonpartisan,150,79.365,False,False
+139442,VA,Lawrence Burr Willcox II,Nonpartisan,33,17.46,False,False
+139442,VA,Write-in,Nonpartisan,6,3.175,False,False
+139562,VA,Jenn M. Loges,Nonpartisan,317,29.991,False,False
+139562,VA,"Robert E. ""Bob"" Love",Nonpartisan,294,27.815,False,False
+139562,VA,Eliot R. Perkins,Nonpartisan,273,25.828,False,False
+139562,VA,Write-in,Nonpartisan,173,16.367,False,False
+139383,VA,Sharon M. Harris,Nonpartisan,1664,41.016,False,False
+139383,VA,J. Brian Burton,Nonpartisan,1312,32.339,False,False
+139383,VA,Barbara C. Speece,Nonpartisan,982,24.205,False,False
+139383,VA,Write-in,Nonpartisan,99,2.44,False,False
+139620,VA,Andy Meade,Nonpartisan,13,21.667,False,False
+139620,VA,Richard P. Merrill,Nonpartisan,11,18.333,False,False
+139620,VA,Jonathan David Phillips,Nonpartisan,11,18.333,False,False
+139620,VA,Mary Jane Carter,Nonpartisan,9,15.0,False,False
+139620,VA,Austin T. Potts,Nonpartisan,7,11.667,False,False
+139620,VA,Curtis E. Page,Nonpartisan,7,11.667,False,False
+139620,VA,Write-in,Nonpartisan,2,3.333,False,False
+139472,VA,R. Bruce Murray,Nonpartisan,174,60.839,False,False
+139472,VA,J. Dan Snead,Nonpartisan,109,38.112,False,False
+139472,VA,Write-in,Nonpartisan,3,1.049,False,False
+139702,VA,Ryan Jeffrey Comer,Nonpartisan,370,30.155,False,False
+139702,VA,Tracy Stephenson Prater,Nonpartisan,318,25.917,False,False
+139702,VA,Cary D. Sauls,Nonpartisan,289,23.553,False,False
+139702,VA,Stephen A. Hennegar,Nonpartisan,224,18.256,False,False
+139702,VA,Write-in,Nonpartisan,26,2.119,False,False
+139605,VA,Lisa Hales Kochuba,Nonpartisan,3933,44.714,False,False
+139605,VA,Steven R. Neece,Nonpartisan,2978,33.856,False,False
+139605,VA,Lance L. LaLonde,Nonpartisan,1799,20.452,False,False
+139605,VA,Write-in,Nonpartisan,86,0.978,False,False
+139426,VA,Rebecca A. Jones,Nonpartisan,182,32.675,False,False
+139426,VA,Cathy E. Salter,Nonpartisan,170,30.521,False,False
+139426,VA,Craig M. Green,Nonpartisan,151,27.11,False,False
+139426,VA,Write-in,Nonpartisan,54,9.695,False,False
+139471,VA,"Robert E. ""Robbie"" Wilson, III",Nonpartisan,287,95.987,False,False
+139471,VA,Write-in,Nonpartisan,12,4.013,False,False
+140053,VA,Write-in,Nonpartisan,38,100.0,False,False
+139425,VA,Write-in,Nonpartisan,81,100.0,False,False
+139221,VA,Denise E. Chance,Nonpartisan,81,16.667,False,False
+139221,VA,Beverly L. Hart,Nonpartisan,78,16.049,False,False
+139221,VA,"Aubrey Lee Miles, Jr.",Nonpartisan,78,16.049,False,False
+139221,VA,Bradley J. Taylor,Nonpartisan,76,15.638,False,False
+139221,VA,Darrell D. Marshall,Nonpartisan,71,14.609,False,False
+139221,VA,Raymond Paul Paoletti,Nonpartisan,55,11.317,False,False
+139221,VA,"K. N. ""Katie Morrison"" Stitely",Nonpartisan,40,8.23,False,False
+139221,VA,Write-in,Nonpartisan,7,1.44,False,False
+139558,VA,"Earnie W. Porta, Jr.",Nonpartisan,417,96.977,False,False
+139558,VA,Write-in,Nonpartisan,13,3.023,False,False
+139379,VA,No,Nonpartisan,5237,53.581,False,False
+139379,VA,Yes,Nonpartisan,4537,46.419,False,False
+139392,VA,"Vannette T. ""Moonie"" Taylor",Nonpartisan,347,53.385,False,False
+139392,VA,Michael B. Harris,Nonpartisan,303,46.615,False,False
+139392,VA,Write-in,Nonpartisan,0,0.0,False,False
+139320,VA,No,Nonpartisan,1178,68.488,False,False
+139320,VA,Yes,Nonpartisan,542,31.512,False,False
+139749,VA,Laura Tabler Allison,Nonpartisan,1085,53.03,False,False
+139749,VA,Patrice A. Lyburn,Nonpartisan,926,45.259,False,False
+139749,VA,Write-in,Nonpartisan,35,1.711,False,False
+139762,VA,Jeffrey R. Proulex,Nonpartisan,275,54.672,False,False
+139762,VA,Write-in,Nonpartisan,115,22.863,False,False
+139762,VA,"Jimmy F. Williams, Jr.",Nonpartisan,113,22.465,False,False
+139690,VA,Timothy Wayne Garrett,Nonpartisan,402,37.326,False,False
+139690,VA,Mary Lou Spiggle,Nonpartisan,347,32.219,False,False
+139690,VA,Danielle R. Ulmer,Nonpartisan,305,28.319,False,False
+139690,VA,Write-in,Nonpartisan,23,2.136,False,False
+139511,VA,No,Nonpartisan,2786,54.066,False,False
+139511,VA,Yes,Nonpartisan,2367,45.934,False,False
+139524,VA,Jon R. Griffith,Nonpartisan,1007,58.581,False,False
+139524,VA,Codi E. Henry,Nonpartisan,375,21.815,False,False
+139524,VA,Karen M. Marcum,Nonpartisan,319,18.557,False,False
+139524,VA,Write-in,Nonpartisan,18,1.047,False,False
+139201,VA,Christopher F. Kreisl,Nonpartisan,78,84.783,False,False
+139201,VA,Write-in,Nonpartisan,14,15.217,False,False
+139613,VA,Michael A. Cartolaro,Nonpartisan,1646,97.743,False,False
+139613,VA,Write-in,Nonpartisan,38,2.257,False,False
+139317,VA,"Matthew D. ""Matt"" de Ferranti",Nonpartisan,65730,69.523,False,False
+139317,VA,Audrey R. Clement,Nonpartisan,20174,21.338,False,False
+139317,VA,David P. Sisson,Nonpartisan,7790,8.24,False,False
+139317,VA,Write-in,Nonpartisan,850,0.899,False,False
+139746,VA,Yes,Nonpartisan,5601,63.274,False,False
+139746,VA,No,Nonpartisan,3251,36.726,False,False
+140046,VA,James D. Gregory,Nonpartisan,143,27.395,False,False
+140046,VA,"Peery A. Wells, Sr.",Nonpartisan,118,22.605,False,False
+140046,VA,"Elizabeth ""Liz"" Davis",Nonpartisan,111,21.264,False,False
+140046,VA,Thomas W. Pettus,Nonpartisan,104,19.923,False,False
+140046,VA,Write-in,Nonpartisan,46,8.812,False,False
+139508,VA,Lafayette Dickens,Nonpartisan,816,75.138,False,False
+139508,VA,Jesse Lee Bean II,Nonpartisan,262,24.125,False,False
+139508,VA,Write-in,Nonpartisan,8,0.737,False,False
+139745,VA,"Samuel A. ""Sam"" Hostetter",Nonpartisan,1358,53.889,False,False
+139745,VA,"James F. ""Jim "" Wood",Nonpartisan,1151,45.675,False,False
+139745,VA,Write-in,Nonpartisan,11,0.437,False,False
+139566,VA,Debbie P. Hager,Nonpartisan,353,35.406,False,False
+139566,VA,Jared M. Smith,Nonpartisan,332,33.3,False,False
+139566,VA,P. Douglas Poe,Nonpartisan,290,29.087,False,False
+139566,VA,Write-in,Nonpartisan,22,2.207,False,False
+139686,VA,Karen M. LaFon,Nonpartisan,76,25.083,False,False
+139686,VA,Ted Michael Sluss,Nonpartisan,70,23.102,False,False
+139686,VA,A. Brad Belcher,Nonpartisan,64,21.122,False,False
+139686,VA,Nadja Ann Brodesser,Nonpartisan,58,19.142,False,False
+139686,VA,Write-in,Nonpartisan,35,11.551,False,False
+139507,VA,Jackie A. Green-August,Nonpartisan,762,96.701,False,False
+139507,VA,Write-in,Nonpartisan,26,3.299,False,False
+139520,VA,Anne O. Stinson,Nonpartisan,459,21.712,False,False
+139520,VA,T. Sean Davis,Nonpartisan,280,13.245,False,False
+139520,VA,Robin P. Sapp,Nonpartisan,264,12.488,False,False
+139520,VA,"Melissa H. ""Lisa"" Estes",Nonpartisan,232,10.974,False,False
+139520,VA,"Marvin E. ""Marv"" Farmer",Nonpartisan,218,10.312,False,False
+139520,VA,Anthony M. Munir,Nonpartisan,207,9.792,False,False
+139520,VA,Ralph C. Vick Jr.,Nonpartisan,171,8.089,False,False
+139520,VA,William J. Williams,Nonpartisan,139,6.575,False,False
+139520,VA,Ralph C. Vick V,Nonpartisan,124,5.866,False,False
+139520,VA,Write-in,Nonpartisan,20,0.946,False,False
+139647,VA,Write-in,Nonpartisan,75,100.0,False,False
+139468,VA,Scott A. Heath,Nonpartisan,354,28.457,False,False
+139468,VA,Garland D. Pittard,Nonpartisan,326,26.206,False,False
+139468,VA,"Richard B. ""Rick"" Buchanan",Nonpartisan,303,24.357,False,False
+139468,VA,Michelle D. Hektor,Nonpartisan,246,19.775,False,False
+139468,VA,Write-in,Nonpartisan,15,1.206,False,False
+139282,VA,Jake Preston Holmes,Nonpartisan,2549,23.957,False,False
+139282,VA,F. Neal Osborne,Nonpartisan,2423,22.773,False,False
+139282,VA,Michael W. Pollard,Nonpartisan,2197,20.648,False,False
+139282,VA,Jackie L. Nophlin,Nonpartisan,1387,13.036,False,False
+139282,VA,Melissa K. Brown,Nonpartisan,1231,11.57,False,False
+139282,VA,Elijah D. Walker,Nonpartisan,756,7.105,False,False
+139282,VA,Write-in,Nonpartisan,97,0.912,False,False
+139601,VA,Jonathan P. Martin,Nonpartisan,10740,69.05,False,False
+139601,VA,Joseph H. M. Schenk Jr.,Nonpartisan,4643,29.851,False,False
+139601,VA,Write-in,Nonpartisan,171,1.099,False,False
+139422,VA,Yes,Nonpartisan,135074,75.653,False,False
+139422,VA,No,Nonpartisan,43471,24.347,False,False
+139218,VA,"W. R. ""Bill"" Ferguson",Nonpartisan,128,16.976,False,False
+139218,VA,Woody W. Zember,Nonpartisan,128,16.976,False,False
+139218,VA,Rodney C. Lang,Nonpartisan,127,16.844,False,False
+139218,VA,Jason A. Campbell,Nonpartisan,119,15.782,False,False
+139218,VA,Brian A. Corbin,Nonpartisan,115,15.252,False,False
+139218,VA,"Daniel Keith Bloxom, Jr.",Nonpartisan,106,14.058,False,False
+139218,VA,Write-in,Nonpartisan,31,4.111,False,False
+139555,VA,"A. D. ""Chuckie"" Reid",Nonpartisan,195,70.397,False,False
+139555,VA,Patrick B. Carwile,Nonpartisan,80,28.881,False,False
+139555,VA,Write-in,Nonpartisan,2,0.722,False,False
+140047,VA,Wendy B. Gallion,Nonpartisan,161,48.06,False,False
+140047,VA,Rachael B. Clark,Nonpartisan,154,45.97,False,False
+140047,VA,Write-in,Nonpartisan,20,5.97,False,False
+139644,VA,William Nick Kitchen IV,Nonpartisan,51,91.071,False,False
+139644,VA,Write-in,Nonpartisan,5,8.929,False,False
+139265,VA,"Richard F. ""Tank"" Worley",Nonpartisan,208,40.0,False,False
+139265,VA,"Cynthia B. ""Cindy"" Johnson",Nonpartisan,183,35.192,False,False
+139265,VA,Carlton R. Payne,Nonpartisan,109,20.962,False,False
+139265,VA,Write-in,Nonpartisan,20,3.846,False,False
+139311,VA,Lindsay A. Lane,Nonpartisan,10520,97.742,False,False
+139311,VA,Write-in,Nonpartisan,243,2.258,False,False
+139419,VA,"C. B. ""Kelly"" Burk",Nonpartisan,16147,93.687,False,False
+139419,VA,Write-in,Nonpartisan,1088,6.313,False,False
+139264,VA,John E. Roark III,Nonpartisan,607,34.006,False,False
+139264,VA,J. Scott Lowman,Nonpartisan,574,32.157,False,False
+139264,VA,Tim H. George,Nonpartisan,547,30.644,False,False
+139264,VA,Write-in,Nonpartisan,57,3.193,False,False
+139694,VA,Gail W. Bosiger,Nonpartisan,70,100.0,False,False
+139694,VA,Write-in,Nonpartisan,0,0.0,False,False
+139597,VA,Thomas A. Vance,Nonpartisan,49,28.994,False,False
+139597,VA,Megan Guinn Chumbley,Nonpartisan,35,20.71,False,False
+139597,VA,Ty Logan Harris,Nonpartisan,30,17.751,False,False
+139597,VA,"Jeremiah W. ""Tiny"" Neal",Nonpartisan,29,17.16,False,False
+139597,VA,Write-in,Nonpartisan,26,15.385,False,False
+139418,VA,Write-in,Nonpartisan,201,100.0,False,False
+139655,VA,Lou Anne Davis,Nonpartisan,87,38.839,False,False
+139655,VA,Madison Edwards Berryman,Nonpartisan,86,38.393,False,False
+139655,VA,Jeffrey L. Dodson,Nonpartisan,50,22.321,False,False
+139655,VA,Write-in,Nonpartisan,1,0.446,False,False
+139551,VA,No,Nonpartisan,11391,67.687,False,False
+139551,VA,Yes,Nonpartisan,5438,32.313,False,False
+140043,VA,Alice B. Talbert,Nonpartisan,83,80.583,False,False
+140043,VA,Write-in,Nonpartisan,20,19.417,False,False
+139609,VA,Lisa Anne Stevens,Nonpartisan,6216,19.703,False,False
+139609,VA,Marcus S. Still,Nonpartisan,6102,19.341,False,False
+139609,VA,Murina V. Dove,Nonpartisan,5941,18.831,False,False
+139609,VA,Sara J. Brescia,Nonpartisan,5928,18.79,False,False
+139609,VA,Raul O. Campoverde Lindao,Nonpartisan,3626,11.493,False,False
+139609,VA,Javanese M. Hailey,Nonpartisan,3626,11.493,False,False
+139609,VA,Write-in,Nonpartisan,110,0.349,False,False
+139729,VA,Antoinette D. Kahan,Nonpartisan,7778,48.851,False,False
+139729,VA,Brigid A. Kahng,Nonpartisan,5923,37.2,False,False
+139729,VA,Kendra G. Edwards,Nonpartisan,2085,13.095,False,False
+139729,VA,Write-in,Nonpartisan,136,0.854,False,False
+139742,VA,Charles E. Fields,Nonpartisan,160,31.128,False,False
+139742,VA,"Ward S. ""Buddy"" Albro IV",Nonpartisan,152,29.572,False,False
+139742,VA,Bryan Blanton Bryant,Nonpartisan,135,26.265,False,False
+139742,VA,Write-in,Nonpartisan,67,13.035,False,False
+139563,VA,"S. ""Steve"" Kang",Nonpartisan,71,15.708,False,False
+139563,VA,"Jason R. ""Jae"" Stoltz",Nonpartisan,65,14.381,False,False
+139563,VA,Brandi M. Maly,Nonpartisan,57,12.611,False,False
+139563,VA,Sammoto Yomosa Dabney,Nonpartisan,52,11.504,False,False
+139563,VA,Todd D. Zirkle,Nonpartisan,52,11.504,False,False
+139563,VA,"Shanon ""Red"" Sullivan",Nonpartisan,43,9.513,False,False
+139563,VA,Robert Teron Freeman,Nonpartisan,35,7.743,False,False
+139563,VA,Nadia Madjid,Nonpartisan,34,7.522,False,False
+139563,VA,"Ingrid S. ""Suzi"" Nedrow",Nonpartisan,21,4.646,False,False
+139563,VA,"Samuel Cachola, Jr.",Nonpartisan,14,3.097,False,False
+139563,VA,Write-in,Nonpartisan,8,1.77,False,False
+139683,VA,Rod David Cury,Nonpartisan,1074,83.71,False,False
+139683,VA,Write-in,Nonpartisan,209,16.29,False,False
+139312,VA,Shellie Marcellous Bowman,Nonpartisan,30973,52.76,False,False
+139312,VA,"Chris J. ""Yak"" Yakabouski",Nonpartisan,27367,46.618,False,False
+139312,VA,Write-in,Nonpartisan,365,0.622,False,False
+139325,VA,Carter J. Branham,Nonpartisan,48,64.0,False,False
+139325,VA,T. Jane Vandyke Moore,Nonpartisan,25,33.333,False,False
+139325,VA,Write-in,Nonpartisan,2,2.667,False,False
+139548,VA,Debbie Diggs Bunting,Nonpartisan,1788,95.157,False,False
+139548,VA,Write-in,Nonpartisan,91,4.843,False,False
+139593,VA,Dennis S. Driver,Nonpartisan,152,35.597,False,False
+139593,VA,"Robert E. ""Bobby"" Taylor",Nonpartisan,138,32.319,False,False
+139593,VA,Toni B. Ray,Nonpartisan,130,30.445,False,False
+139593,VA,Write-in,Nonpartisan,7,1.639,False,False
+139638,VA,Tim Andrew Brown,Nonpartisan,21327,62.241,False,False
+139638,VA,Robert G. Page,Nonpartisan,12743,37.19,False,False
+139638,VA,Write-in,Nonpartisan,195,0.569,False,False
+139547,VA,Write-in,Nonpartisan,355,100.0,False,False
+139592,VA,Alexander Miller Erskine,Nonpartisan,160,99.379,False,False
+139592,VA,Write-in,Nonpartisan,1,0.621,False,False
+139725,VA,"Joashua F. ""Joash"" Schulman",Nonpartisan,8929,50.721,False,False
+139725,VA,John D. Moss,Nonpartisan,8569,48.676,False,False
+139725,VA,Write-in,Nonpartisan,106,0.602,False,False
+139546,VA,Stephen K. Geissinger,Nonpartisan,1565,92.658,False,False
+139546,VA,Write-in,Nonpartisan,124,7.342,False,False
+139367,VA,Christopher S. Thornton,Nonpartisan,162,67.22,False,False
+139367,VA,Write-in,Nonpartisan,79,32.78,False,False
+139679,VA,"C.M. ""Chet"" Bulls, Jr.",Nonpartisan,56,18.182,False,False
+139679,VA,John F. Kollmann,Nonpartisan,52,16.883,False,False
+139679,VA,Geral A. Lacerte,Nonpartisan,51,16.558,False,False
+139679,VA,Kimberly Ross Taylor,Nonpartisan,48,15.584,False,False
+139679,VA,"James M. ""Jimmy"" Matthews",Nonpartisan,48,15.584,False,False
+139679,VA,Anne Johnson Petts,Nonpartisan,45,14.61,False,False
+139679,VA,Write-in,Nonpartisan,8,2.597,False,False
+139308,VA,Keith R. Kapinskis,Nonpartisan,4608,97.689,False,False
+139308,VA,Write-in,Nonpartisan,109,2.311,False,False
+139737,VA,W. Lee Brannon,Nonpartisan,2046,85.179,False,False
+139737,VA,Write-in,Nonpartisan,356,14.821,False,False
+139448,VA,David G. Sigler,Nonpartisan,1460,73.256,False,False
+139448,VA,Nicholas A. Betts,Nonpartisan,495,24.837,False,False
+139448,VA,Write-in,Nonpartisan,38,1.907,False,False
+139253,VA,Granville E. Grant,Nonpartisan,104,45.614,False,False
+139253,VA,Henry John Cook Jr.,Nonpartisan,98,42.982,False,False
+139253,VA,Write-in,Nonpartisan,26,11.404,False,False
+139691,VA,John D. Miller,Nonpartisan,1703,97.37,False,False
+139691,VA,Write-in,Nonpartisan,46,2.63,False,False
+139402,VA,David E. Carraway,Nonpartisan,548,30.226,False,False
+139402,VA,Amanda M. Baig,Nonpartisan,443,24.435,False,False
+139402,VA,"Edward G. ""Gibbie"" Dowdy II",Nonpartisan,424,23.387,False,False
+139402,VA,Braden L. Overman,Nonpartisan,359,19.801,False,False
+139402,VA,Write-in,Nonpartisan,39,2.151,False,False
+139639,VA,Gary L. Heninger,Nonpartisan,359,70.254,False,False
+139639,VA,J. Paige Wright,Nonpartisan,148,28.963,False,False
+139639,VA,Write-in,Nonpartisan,4,0.783,False,False
+139460,VA,Alden D. Fahringer,Nonpartisan,518,95.046,False,False
+139460,VA,Write-in,Nonpartisan,27,4.954,False,False
+139676,VA,Melinda G. Baicy,Nonpartisan,65,89.041,False,False
+139676,VA,Write-in,Nonpartisan,8,10.959,False,False
+139721,VA,Barbara M. Henley,Nonpartisan,8537,41.134,False,False
+139721,VA,Jeff L. Bruzzesi,Nonpartisan,7153,34.466,False,False
+139721,VA,K. Elaine L. Fekete,Nonpartisan,4852,23.379,False,False
+139721,VA,Write-in,Nonpartisan,212,1.021,False,False
+139350,VA,Gregory McLemore,Nonpartisan,239,54.943,False,False
+139350,VA,Charlie L. Ashburn Jr.,Nonpartisan,195,44.828,False,False
+139350,VA,Write-in,Nonpartisan,1,0.23,False,False
+139236,VA,Yes,Nonpartisan,81504,81.677,False,False
+139236,VA,No,Nonpartisan,18284,18.323,False,False
+139675,VA,Thomas L. Byrd,Nonpartisan,101,17.627,False,False
+139675,VA,"W.E. ""Bill"" Richardson Jr",Nonpartisan,95,16.579,False,False
+139675,VA,James W. Brown Jr.,Nonpartisan,93,16.23,False,False
+139675,VA,Edward Eugene Joyner,Nonpartisan,90,15.707,False,False
+139675,VA,Hunter E. Lackey,Nonpartisan,87,15.183,False,False
+139675,VA,Adam E. Chubb Jr.,Nonpartisan,86,15.009,False,False
+139675,VA,Write-in,Nonpartisan,21,3.665,False,False
+139720,VA,Jennifer Valentine Rouse,Nonpartisan,12353,95.923,False,False
+139720,VA,Write-in,Nonpartisan,525,4.077,False,False
+139444,VA,Brian Richard Vincent,Nonpartisan,1177,61.462,False,False
+139444,VA,W. Christian Fox,Nonpartisan,659,34.413,False,False
+139444,VA,Write-in,Nonpartisan,79,4.125,False,False
+139674,VA,Sue W. Gilbert,Nonpartisan,123,25.205,False,False
+139674,VA,Quinton T.  Jones,Nonpartisan,95,19.467,False,False
+139674,VA,Rodney Dale Perkinson Jr.,Nonpartisan,90,18.443,False,False
+139674,VA,Thomas G. Kent,Nonpartisan,86,17.623,False,False
+139674,VA,Louise A. Hansch,Nonpartisan,78,15.984,False,False
+139674,VA,Write-in,Nonpartisan,16,3.279,False,False
+139495,VA,Ken D. Paulson,Nonpartisan,7541,56.084,False,False
+139495,VA,Jevon W. Baskerville,Nonpartisan,5682,42.258,False,False
+139495,VA,Write-in,Nonpartisan,223,1.658,False,False
+139398,VA,Write-in,Nonpartisan,1492,100.0,False,False
+139635,VA,Gary C. Hash,Nonpartisan,6382,98.594,False,False
+139635,VA,Write-in,Nonpartisan,91,1.406,False,False
+139456,VA,Ashley B. Michael,Nonpartisan,678,95.359,False,False
+139456,VA,Write-in,Nonpartisan,33,4.641,False,False
+139768,VA,No,Nonpartisan,20025,61.015,False,False
+139768,VA,Yes,Nonpartisan,12795,38.985,False,False
+139589,VA,Chad W. Moore,Nonpartisan,497,50.663,False,False
+139589,VA,"Deborah L. ""Deb"" Peggans Crank",Nonpartisan,446,45.464,False,False
+139589,VA,Write-in,Nonpartisan,38,3.874,False,False
+139602,VA,Francis C. Jacobson,Nonpartisan,26297,49.806,False,False
+139602,VA,Gary B. Hunter,Nonpartisan,25841,48.942,False,False
+139602,VA,Write-in,Nonpartisan,661,1.252,False,False
+139530,VA,Crystal P. Harris,Nonpartisan,771,55.508,False,False
+139530,VA,Richard D. Cox,Nonpartisan,599,43.125,False,False
+139530,VA,Write-in,Nonpartisan,19,1.368,False,False
+139351,VA,Wynndolyn H. Copeland,Nonpartisan,262,57.456,False,False
+139351,VA,Ricky L. Sykes,Nonpartisan,188,41.228,False,False
+139351,VA,Write-in,Nonpartisan,6,1.316,False,False
+139364,VA,Justin Michael Carter,Nonpartisan,6331,73.428,False,False
+139364,VA,Write-in,Nonpartisan,2291,26.572,False,False
+139440,VA,D. Dwayne Tuggle,Nonpartisan,821,94.694,False,False
+139440,VA,Write-in,Nonpartisan,46,5.306,False,False
+139244,VA,Stephen W. Hiner,Nonpartisan,323,96.997,False,False
+139244,VA,Write-in,Nonpartisan,10,3.003,False,False
+139573,VA,Yes,Nonpartisan,61331,67.824,False,False
+139573,VA,No,Nonpartisan,29096,32.176,False,False
+139586,VA,Billy B. Kyger Jr.,Nonpartisan,2219,96.9,False,False
+139586,VA,Write-in,Nonpartisan,71,3.1,False,False
+139439,VA,No,Nonpartisan,2473,52.439,False,False
+139439,VA,Yes,Nonpartisan,2243,47.561,False,False
+139764,VA,Billy R. Large,Nonpartisan,209,35.364,False,False
+139764,VA,Ronnie A. Brock,Nonpartisan,188,31.81,False,False
+139764,VA,Leabern D. Kennedy,Nonpartisan,95,16.074,False,False
+139764,VA,Doris J. Mullins,Nonpartisan,94,15.905,False,False
+139764,VA,Write-in,Nonpartisan,5,0.846,False,False
+139585,VA,Isaac G. Kelley,Nonpartisan,522,58.983,False,False
+139585,VA,Clarence L. Fox,Nonpartisan,340,38.418,False,False
+139585,VA,Write-in,Nonpartisan,23,2.599,False,False
+139406,VA,No,Nonpartisan,2041,61.383,False,False
+139406,VA,Yes,Nonpartisan,1284,38.617,False,False
+139526,VA,Brit Adam Thomas,Nonpartisan,1320,96.28,False,False
+139526,VA,Write-in,Nonpartisan,51,3.72,False,False
+139347,VA,Heidi H. Van Voorhis,Nonpartisan,75,33.632,False,False
+139347,VA,Joyce W. Heflin,Nonpartisan,71,31.839,False,False
+139347,VA,Noah J. Portugal,Nonpartisan,66,29.596,False,False
+139347,VA,Write-in,Nonpartisan,11,4.933,False,False
+139360,VA,Mariah C. Smith,Nonpartisan,583,58.3,False,False
+139360,VA,Bill M. Ewing,Nonpartisan,404,40.4,False,False
+139360,VA,Write-in,Nonpartisan,13,1.3,False,False
+139288,VA,David G. Sigler,Nonpartisan,1334,31.747,False,False
+139288,VA,Meghan N.S. Ferguson,Nonpartisan,1204,28.653,False,False
+139288,VA,Amber Ansted,Nonpartisan,874,20.8,False,False
+139288,VA,Write-in,Nonpartisan,790,18.801,False,False
+139717,VA,Shana Lynn Hetzell,Nonpartisan,11223,97.388,False,False
+139717,VA,Write-in,Nonpartisan,301,2.612,False,False
+139730,VA,Natalie L. Bray,Nonpartisan,11587,55.192,False,False
+139730,VA,"Andrew G. ""Andy"" Baan",Nonpartisan,9266,44.136,False,False
+139730,VA,Write-in,Nonpartisan,141,0.672,False,False
+139232,VA,No,Nonpartisan,3975,62.549,False,False
+139232,VA,Yes,Nonpartisan,2380,37.451,False,False
+139479,VA,Curtis D. Bethany III,Nonpartisan,15335,95.587,False,False
+139479,VA,Write-in,Nonpartisan,708,4.413,False,False
+139492,VA,Veleka S. Gatling,Nonpartisan,9858,61.868,False,False
+139492,VA,Michael C. Spencer,Nonpartisan,3927,24.645,False,False
+139492,VA,"Shawn D. Wilkerson, Jr.",Nonpartisan,1927,12.094,False,False
+139492,VA,Write-in,Nonpartisan,222,1.393,False,False
+139395,VA,Colonel K.D. Pratt,Nonpartisan,429,57.2,False,False
+139395,VA,Lovena B. Rapole,Nonpartisan,231,30.8,False,False
+139395,VA,Write-in,Nonpartisan,90,12.0,False,False
+140007,VA,James Wyatt Eskridge,Nonpartisan,121,88.321,False,False
+140007,VA,Write-in,Nonpartisan,16,11.679,False,False
+139285,VA,Alonzo L. Jones,Nonpartisan,6546,14.493,False,False
+139285,VA,Shakeva Q. Frazier,Nonpartisan,6485,14.358,False,False
+139285,VA,A. Bryant Hood,Nonpartisan,6190,13.704,False,False
+139285,VA,Gary P. Miller,Nonpartisan,6050,13.394,False,False
+139285,VA,Dustin C. Whittle,Nonpartisan,5157,11.417,False,False
+139285,VA,James B. Buckner,Nonpartisan,4889,10.824,False,False
+139285,VA,Shelby J. Irving,Nonpartisan,4317,9.558,False,False
+139285,VA,Tony D. L. Howerton,Nonpartisan,3434,7.603,False,False
+139285,VA,Lonnie F. Jones,Nonpartisan,1920,4.251,False,False
+139285,VA,Write-in,Nonpartisan,180,0.399,False,False
+139714,VA,Cathy Dunkley Pattison,Nonpartisan,1230,25.231,False,False
+139714,VA,Randy W. Hamm Jr.,Nonpartisan,1158,23.754,False,False
+139714,VA,"Candice N. ""Candi"" Johnson",Nonpartisan,1129,23.159,False,False
+139714,VA,Aubrey L. Whitlow Sr.,Nonpartisan,673,13.805,False,False
+139714,VA,Kerry A. Eans,Nonpartisan,647,13.272,False,False
+139714,VA,Write-in,Nonpartisan,38,0.779,False,False
+139759,VA,Don M. Comer,Nonpartisan,1056,55.962,False,False
+139759,VA,Max Wise,Nonpartisan,796,42.183,False,False
+139759,VA,Write-in,Nonpartisan,35,1.855,False,False
+139476,VA,No,Nonpartisan,8474,60.746,False,False
+139476,VA,Yes,Nonpartisan,5476,39.254,False,False
+139713,VA,Robin D. Dotson,Nonpartisan,682,37.514,False,False
+139713,VA,Teresa Ann Adkins,Nonpartisan,537,29.538,False,False
+139713,VA,Virginia L. Roberts,Nonpartisan,534,29.373,False,False
+139713,VA,Write-in,Nonpartisan,65,3.575,False,False
+139534,VA,Marlow A. Jones,Nonpartisan,859,83.156,False,False
+139534,VA,Write-in,Nonpartisan,174,16.844,False,False
+139220,VA,Kimberly C. Smith,Nonpartisan,210,37.234,False,False
+139220,VA,Mark S. Layne,Nonpartisan,168,29.787,False,False
+139220,VA,Rick W. Mattson,Nonpartisan,147,26.064,False,False
+139220,VA,Write-in,Nonpartisan,39,6.915,False,False
+139475,VA,No,Nonpartisan,3918,51.069,False,False
+139475,VA,Yes,Nonpartisan,3754,48.931,False,False
+139488,VA,Mamie B. Johnson,Nonpartisan,7755,61.621,False,False
+139488,VA,Sikaiadah Newton,Nonpartisan,4644,36.901,False,False
+139488,VA,Write-in,Nonpartisan,186,1.478,False,False
+139391,VA,"Deborah  B. ""Debbie"" Randolp",Nonpartisan,456,59.221,False,False
+139391,VA,Rita Everett Joyner,Nonpartisan,304,39.481,False,False
+139391,VA,Write-in,Nonpartisan,10,1.299,False,False
+139436,VA,Christopher T. Garrett,Nonpartisan,375,35.646,False,False
+139436,VA,"James G. ""Greg"" Elam Jr.",Nonpartisan,334,31.749,False,False
+139436,VA,Johnnie W. Brame,Nonpartisan,318,30.228,False,False
+139436,VA,Write-in,Nonpartisan,25,2.376,False,False
+139240,VA,Katherine J. McElveen,Nonpartisan,2729,57.72,False,False
+139240,VA,"Stephen R. ""Steve"" Kyle",Nonpartisan,1970,41.667,False,False
+139240,VA,Write-in,Nonpartisan,29,0.613,False,False
+139569,VA,Joseph J. Whited,Nonpartisan,65,97.015,False,False
+139569,VA,Write-in,Nonpartisan,2,2.985,False,False
+139582,VA,Samuel S. Lee,Nonpartisan,642,96.252,False,False
+139582,VA,Write-in,Nonpartisan,25,3.748,False,False
+139403,VA,"J.T. ""Jack"" Lawson",Nonpartisan,854,58.815,False,False
+139403,VA,"C. Joe Sanders, Jr.",Nonpartisan,584,40.22,False,False
+139403,VA,Write-in,Nonpartisan,14,0.964,False,False
+139523,VA,Clinton O. Lucas Jr.,Nonpartisan,512,67.546,False,False
+139523,VA,Write-in,Nonpartisan,246,32.454,False,False
+139760,VA,Elijah R. Cauthorne,Nonpartisan,181,58.013,False,False
+139760,VA,Melissa Renee Bell,Nonpartisan,123,39.423,False,False
+139760,VA,Write-in,Nonpartisan,8,2.564,False,False
+139388,VA,James B. Hairston,Nonpartisan,134,27.515,False,False
+139388,VA,Michael R. Bass,Nonpartisan,117,24.025,False,False
+139388,VA,Maeve S. McCulloch,Nonpartisan,103,21.15,False,False
+139388,VA,William W. Westberg Jr.,Nonpartisan,102,20.945,False,False
+139388,VA,Write-in,Nonpartisan,31,6.366,False,False
+139216,VA,James R. Wilson,Nonpartisan,130,29.748,False,False
+139216,VA,Robert Douglas Mears,Nonpartisan,118,27.002,False,False
+139216,VA,Ricky C. Marsh,Nonpartisan,110,25.172,False,False
+139216,VA,Write-in,Nonpartisan,79,18.078,False,False
+139271,VA,John F. Jewell,Nonpartisan,18407,52.127,False,False
+139271,VA,Alexander M. Ritter,Nonpartisan,16503,46.735,False,False
+139271,VA,Write-in,Nonpartisan,402,1.138,False,False
+139387,VA,"Craig A. G. Oder, Jr.",Nonpartisan,198,95.652,False,False
+139387,VA,Write-in,Nonpartisan,9,4.348,False,False
+139207,VA,Connie Widgeon Campbell,Nonpartisan,79,91.86,False,False
+139207,VA,Write-in,Nonpartisan,7,8.14,False,False
+139565,VA,No,Nonpartisan,7906,61.544,False,False
+139565,VA,Yes,Nonpartisan,4940,38.456,False,False
+139386,VA,Richard M. Mason Jr.,Nonpartisan,25311,26.672,False,False
+139386,VA,Joseph C. Kilgore,Nonpartisan,24124,25.422,False,False
+139386,VA,Natalie M. Kidd,Nonpartisan,22967,24.202,False,False
+139386,VA,Jason S. Samuels,Nonpartisan,21812,22.985,False,False
+139386,VA,Write-in,Nonpartisan,682,0.719,False,False
+139623,VA,Dexter L. Harmon,Nonpartisan,470,48.454,False,False
+139623,VA,Howard Pat Elliott,Nonpartisan,459,47.32,False,False
+139623,VA,Write-in,Nonpartisan,41,4.227,False,False
+139519,VA,Kevin E. Jones Jr.,Nonpartisan,118,26.049,False,False
+139519,VA,Brandon S. Cummings,Nonpartisan,109,24.062,False,False
+139519,VA,Tahra J. Daniels,Nonpartisan,102,22.517,False,False
+139519,VA,"James G. ""Jay"" Horn Jr.",Nonpartisan,96,21.192,False,False
+139519,VA,Write-in,Nonpartisan,28,6.181,False,False
+139756,VA,Kim M. Herbstritt,Nonpartisan,932,64.632,False,False
+139756,VA,Brenda K. Crouse,Nonpartisan,495,34.327,False,False
+139756,VA,Write-in,Nonpartisan,15,1.04,False,False
+139577,VA,J. Toria Brown,Nonpartisan,1822,96.351,False,False
+139577,VA,Write-in,Nonpartisan,69,3.649,False,False
+139697,VA,Anne F. Brown,Nonpartisan,170,19.86,False,False
+139697,VA,Dana Y. Kinsley,Nonpartisan,162,18.925,False,False
+139697,VA,Gregory Adam Byers,Nonpartisan,152,17.757,False,False
+139697,VA,Y. Omar Smith,Nonpartisan,146,17.056,False,False
+139697,VA,Eric B. Schmack,Nonpartisan,145,16.939,False,False
+139697,VA,Write-in,Nonpartisan,81,9.463,False,False
+139710,VA,David M. Purcell,Nonpartisan,496,49.109,False,False
+139710,VA,Graven W. Craig,Nonpartisan,466,46.139,False,False
+139710,VA,Write-in,Nonpartisan,48,4.752,False,False
+139531,VA,Jerry W. Woods,Nonpartisan,1183,98.996,False,False
+139531,VA,Write-in,Nonpartisan,12,1.004,False,False
+139658,VA,Yes,Nonpartisan,41727,68.611,False,False
+139658,VA,No,Nonpartisan,19090,31.389,False,False
+139280,VA,Christina Romers Brady,Nonpartisan,20073,58.392,False,False
+139280,VA,Elizabeth L. Schultz,Nonpartisan,13964,40.621,False,False
+139280,VA,Write-in,Nonpartisan,339,0.986,False,False
+139293,VA,"Vernon Lamont Tillage, Jr.",Nonpartisan,19026,26.364,False,False
+139293,VA,Lisa L. Lucas-Burke,Nonpartisan,15244,21.123,False,False
+139293,VA,"William E. ""Bill"" Moody, Jr.",Nonpartisan,12755,17.674,False,False
+139293,VA,Mark M. Whitaker,Nonpartisan,12692,17.587,False,False
+139293,VA,Mark A. Hugel,Nonpartisan,12078,16.736,False,False
+139293,VA,Write-in,Nonpartisan,372,0.515,False,False
+139516,VA,Carolyn A. Williams,Nonpartisan,179,96.757,False,False
+139516,VA,Write-in,Nonpartisan,6,3.243,False,False
+139561,VA,Matthew J. Gallagher,Nonpartisan,389,19.867,False,False
+139561,VA,Jen Armstrong Schenck,Nonpartisan,379,19.356,False,False
+139561,VA,David L. Capossela,Nonpartisan,373,19.05,False,False
+139561,VA,"Joseph R. ""Joe"" Pasanello",Nonpartisan,354,18.08,False,False
+139561,VA,"Kenneth M. ""Ken"" Luersen",Nonpartisan,344,17.569,False,False
+139561,VA,Write-in,Nonpartisan,119,6.078,False,False
+140057,VA,"Randall ""Randy"" Tucker",Nonpartisan,4807,97.743,False,False
+140057,VA,Write-in,Nonpartisan,111,2.257,False,False
+139515,VA,Jacob L. Allman,Nonpartisan,212,66.044,False,False
+139515,VA,G. Allen Queen III,Nonpartisan,107,33.333,False,False
+139515,VA,Write-in,Nonpartisan,2,0.623,False,False
+139560,VA,Caetrina A. Peterson,Nonpartisan,912,25.661,False,False
+139560,VA,Selonia Bernice Miles,Nonpartisan,756,21.272,False,False
+139560,VA,Tyrone Brown,Nonpartisan,738,20.765,False,False
+139560,VA,Ebony Evonne Lofton,Nonpartisan,574,16.151,False,False
+139560,VA,Monae' S. Nickerson,Nonpartisan,545,15.335,False,False
+139560,VA,Write-in,Nonpartisan,29,0.816,False,False
+139693,VA,Sylvia S. Bailey,Nonpartisan,64,98.462,False,False
+139693,VA,Write-in,Nonpartisan,1,1.538,False,False
+139514,VA,Wesley Gormus Jr.,Nonpartisan,95,54.913,False,False
+139514,VA,Benjamin D. Eaheart III,Nonpartisan,74,42.775,False,False
+139514,VA,Write-in,Nonpartisan,4,2.312,False,False
+139335,VA,Carolyn S. Barrett,Nonpartisan,393,50.907,False,False
+139335,VA,Troy L. Balderson,Nonpartisan,377,48.834,False,False
+139335,VA,Write-in,Nonpartisan,2,0.259,False,False
+139654,VA,Jason C. Fowler,Nonpartisan,114,54.286,False,False
+139654,VA,David C. Gibbs,Nonpartisan,94,44.762,False,False
+139654,VA,Write-in,Nonpartisan,2,0.952,False,False
+139268,VA,Gregory N. Crowder,Nonpartisan,535,56.375,False,False
+139268,VA,Katie M. Horton,Nonpartisan,315,33.193,False,False
+139268,VA,Andrew Kaufman,Nonpartisan,83,8.746,False,False
+139268,VA,Write-in,Nonpartisan,16,1.686,False,False
+139705,VA,Vicky Ann Harte,Nonpartisan,349,50.216,False,False
+139705,VA,Durvin B. Corker,Nonpartisan,329,47.338,False,False
+139705,VA,Write-in,Nonpartisan,17,2.446,False,False
+139608,VA,Emma Phillips,Nonpartisan,7815,34.42,False,False
+139608,VA,Debra Stevens Fitzgerald,Nonpartisan,7693,33.882,False,False
+139608,VA,Rachel G. Smallwood,Nonpartisan,6848,30.161,False,False
+139608,VA,Write-in,Nonpartisan,349,1.537,False,False
+139203,VA,S. Beth J. Hart,Nonpartisan,39,95.122,False,False
+139203,VA,Write-in,Nonpartisan,2,4.878,False,False
+139233,VA,No,Nonpartisan,7057,50.657,False,False
+139233,VA,Yes,Nonpartisan,6874,49.343,False,False
+139370,VA,Mark D. Miller,Nonpartisan,239,95.984,False,False
+139370,VA,Write-in,Nonpartisan,10,4.016,False,False
+140058,VA,Write-in,Nonpartisan,41,100.0,False,False
+139428,VA,Brendan W. Murphy,Nonpartisan,11903,36.072,False,False
+139428,VA,Neil R. Steinberg,Nonpartisan,10814,32.772,False,False
+139428,VA,Todd A. Cimino-Johnson,Nonpartisan,9201,27.884,False,False
+139428,VA,Write-in,Nonpartisan,1080,3.273,False,False
+139689,VA,"S.S. ""Sonny"" Sundaramurthy",Nonpartisan,605,54.358,False,False
+139689,VA,Ventris C. Gibson,Nonpartisan,456,40.97,False,False
+139689,VA,Write-in,Nonpartisan,52,4.672,False,False
+139510,VA,Ela Engmann,Nonpartisan,609,96.209,False,False
+139510,VA,Write-in,Nonpartisan,24,3.791,False,False
+139413,VA,Rebecca Riggs Hines,Nonpartisan,143,18.766,False,False
+139413,VA,B. Kenny Hounshell,Nonpartisan,142,18.635,False,False
+139413,VA,Summer M. Wynn,Nonpartisan,142,18.635,False,False
+139413,VA,Michael J. Litton,Nonpartisan,135,17.717,False,False
+139413,VA,Danielle R. Stapleton,Nonpartisan,130,17.06,False,False
+139413,VA,Write-in,Nonpartisan,70,9.186,False,False
+139650,VA,Victoria M. Edwards,Nonpartisan,1186,97.855,False,False
+139650,VA,Write-in,Nonpartisan,26,2.145,False,False
+139688,VA,Harold O. Thomas Jr.,Nonpartisan,526,60.46,False,False
+139688,VA,Kenneth G. Bunch,Nonpartisan,323,37.126,False,False
+139688,VA,Write-in,Nonpartisan,21,2.414,False,False
+139604,VA,Kim A. Scott,Nonpartisan,45230,10.723,False,False
+139604,VA,"Janika N.""Dr. Jay"" Phillips",Nonpartisan,44773,10.615,False,False
+139604,VA,Amanda F. Quillin,Nonpartisan,44736,10.606,False,False
+139604,VA,Jeremiah O. Harrell,Nonpartisan,40517,9.606,False,False
+139604,VA,Andrea G. Bolden,Nonpartisan,40303,9.555,False,False
+139604,VA,Antonia F. Fauntleroy,Nonpartisan,39912,9.462,False,False
+139604,VA,John Michael McCormick,Nonpartisan,39296,9.316,False,False
+139604,VA,Mike J. Cassidy,Nonpartisan,38879,9.217,False,False
+139604,VA,Bruce E. Bossuot,Nonpartisan,37736,8.946,False,False
+139604,VA,Mina A. Nolen,Nonpartisan,34922,8.279,False,False
+139604,VA,Olivia E. Duran,Nonpartisan,5931,1.406,False,False
+139604,VA,Alexiss M. McLain,Nonpartisan,4680,1.11,False,False
+139604,VA,Bradrick J. Fields,Nonpartisan,3570,0.846,False,False
+139604,VA,Write-in,Nonpartisan,1320,0.313,False,False
+139649,VA,Amy D. Turner,Nonpartisan,1271,98.68,False,False
+139649,VA,Write-in,Nonpartisan,17,1.32,False,False
+139662,VA,No,Nonpartisan,33408,50.474,False,False
+139662,VA,Yes,Nonpartisan,32780,49.526,False,False
+139366,VA,No,Nonpartisan,4002,61.127,False,False
+139366,VA,Yes,Nonpartisan,2545,38.873,False,False
+140052,VA,Yes,Nonpartisan,13854,71.779,False,False
+140052,VA,No,Nonpartisan,5447,28.221,False,False
+139616,VA,Melissa Hensley Gillenwater,Nonpartisan,55,87.302,False,False
+139616,VA,Write-in,Nonpartisan,8,12.698,False,False
+139736,VA,H. Bruce Rappaport,Nonpartisan,2766,26.55,False,False
+139736,VA,Amber Faith Veitenthal,Nonpartisan,2638,25.322,False,False
+139736,VA,Joshua L. Ingram,Nonpartisan,2268,21.77,False,False
+139736,VA,Donald R. E. Stallings,Nonpartisan,1354,12.997,False,False
+139736,VA,L. Allen R. Neel,Nonpartisan,1183,11.355,False,False
+139736,VA,Write-in,Nonpartisan,209,2.006,False,False
+139557,VA,Tracy Lynn Pater,Nonpartisan,561,95.571,False,False
+139557,VA,Write-in,Nonpartisan,26,4.429,False,False
+139570,VA,John Fox Sullivan,Nonpartisan,59,21.147,False,False
+139570,VA,Thomas W. Bruce,Nonpartisan,59,21.147,False,False
+139570,VA,J. Drew Beard,Nonpartisan,58,20.789,False,False
+139570,VA,Patrick J. O'Connell,Nonpartisan,52,18.638,False,False
+139570,VA,Bradley C. Schneider,Nonpartisan,43,15.412,False,False
+139570,VA,Write-in,Nonpartisan,8,2.867,False,False
+139498,VA,Eleanor C. Gordon,Nonpartisan,66,57.391,False,False
+139498,VA,Diane Leigh Crockett,Nonpartisan,48,41.739,False,False
+139498,VA,Write-in,Nonpartisan,1,0.87,False,False
+139319,VA,Milton E. Helton Jr.,Nonpartisan,142,49.135,False,False
+139319,VA,Michael L. Green,Nonpartisan,139,48.097,False,False
+139319,VA,Write-in,Nonpartisan,8,2.768,False,False
+139332,VA,Doris T. White,Nonpartisan,146,84.884,False,False
+139332,VA,Write-in,Nonpartisan,26,15.116,False,False
+139651,VA,Janice B. Boone,Nonpartisan,153,23.042,False,False
+139651,VA,Linda E. Beatty,Nonpartisan,138,20.783,False,False
+139651,VA,"F. W. ""Freddy"" Felts",Nonpartisan,125,18.825,False,False
+139651,VA,Robert Chet Poland,Nonpartisan,125,18.825,False,False
+139651,VA,Ella Dee Clary,Nonpartisan,110,16.566,False,False
+139651,VA,Write-in,Nonpartisan,13,1.958,False,False
+139421,VA,Erin K. Rayner,Nonpartisan,2948,72.22,False,False
+139421,VA,Christopher M. Bertaut,Nonpartisan,1096,26.85,False,False
+139421,VA,Write-in,Nonpartisan,38,0.931,False,False
+139541,VA,Alisa B. Davis,Nonpartisan,441,93.83,False,False
+139541,VA,Write-in,Nonpartisan,29,6.17,False,False
+139554,VA,Adam B. Yoelin,Nonpartisan,122,97.6,False,False
+139554,VA,Write-in,Nonpartisan,3,2.4,False,False
+139599,VA,Nina J. Fields,Nonpartisan,608,25.302,False,False
+139599,VA,J. Leonard Kegley,Nonpartisan,563,23.429,False,False
+139599,VA,Carri Lynn Bradshaw,Nonpartisan,499,20.766,False,False
+139599,VA,David W. Boyd,Nonpartisan,492,20.474,False,False
+139599,VA,Andrew D. Mays,Nonpartisan,217,9.03,False,False
+139599,VA,Write-in,Nonpartisan,24,0.999,False,False
+139316,VA,Patrick R. Jensen,Nonpartisan,26388,96.571,False,False
+139316,VA,Write-in,Nonpartisan,937,3.429,False,False
+139553,VA,John F. Hardy,Nonpartisan,601,96.469,False,False
+139553,VA,Write-in,Nonpartisan,22,3.531,False,False
+139374,VA,Amanda J. Davis,Nonpartisan,234,96.694,False,False
+139374,VA,Write-in,Nonpartisan,8,3.306,False,False
+139494,VA,Tiffany R. Moore-Buffaloe,Nonpartisan,7680,62.771,False,False
+139494,VA,Candiase B. Driver,Nonpartisan,4449,36.363,False,False
+139494,VA,Write-in,Nonpartisan,106,0.866,False,False
+139315,VA,Christopher Paul Reagan,Nonpartisan,2769,65.976,False,False
+139315,VA,J. Grant Spears,Nonpartisan,1390,33.119,False,False
+139315,VA,Write-in,Nonpartisan,38,0.905,False,False
+139328,VA,Dwayne A. Sneade,Nonpartisan,72,51.429,False,False
+139328,VA,Meagan S. Haire Abbey,Nonpartisan,64,45.714,False,False
+139328,VA,Write-in,Nonpartisan,4,2.857,False,False
+139455,VA,"Dabney T.P. ""Dexter"" Gilliam, Jr.",Nonpartisan,454,95.983,False,False
+139455,VA,Write-in,Nonpartisan,19,4.017,False,False
+139685,VA,Joe Blair McGlothlin,Nonpartisan,226,36.102,False,False
+139685,VA,Kenneth M. Shepard,Nonpartisan,203,32.428,False,False
+139685,VA,Travis M. Bender,Nonpartisan,179,28.594,False,False
+139685,VA,Write-in,Nonpartisan,18,2.875,False,False
+139698,VA,Cynthia L. Scott,Nonpartisan,333,23.254,False,False
+139698,VA,"Paul J. ""PJ"" Jones",Nonpartisan,308,21.508,False,False
+139698,VA,Matthew A. Cunningham,Nonpartisan,274,19.134,False,False
+139698,VA,Sean T. Bowles,Nonpartisan,256,17.877,False,False
+139698,VA,"M. Cameron ""Cammie"" Smith",Nonpartisan,238,16.62,False,False
+139698,VA,Write-in,Nonpartisan,23,1.606,False,False
+139409,VA,George H. Kuper,Nonpartisan,142,47.333,False,False
+139409,VA,Judith M. Penniman,Nonpartisan,80,26.667,False,False
+139409,VA,Mary Windsor Cline,Nonpartisan,77,25.667,False,False
+139409,VA,Write-in,Nonpartisan,1,0.333,False,False
+139646,VA,Tara Burgess Kea,Nonpartisan,196,97.03,False,False
+139646,VA,Write-in,Nonpartisan,6,2.97,False,False
+139659,VA,Yes,Nonpartisan,41732,68.603,False,False
+139659,VA,No,Nonpartisan,19099,31.397,False,False
+139363,VA,"Linden A. ""Pete"" Fravel III",Nonpartisan,447,21.944,False,False
+139363,VA,"James ""Jim"" Vogt",Nonpartisan,447,21.944,False,False
+139363,VA,Andrew R. Guyer,Nonpartisan,388,19.048,False,False
+139363,VA,Martha W. Dilg,Nonpartisan,365,17.919,False,False
+139363,VA,Regina Swygert-Smith,Nonpartisan,356,17.477,False,False
+139363,VA,Write-in,Nonpartisan,34,1.669,False,False
+139600,VA,Bethany Zecher Sutton,Nonpartisan,72359,78.05,False,False
+139600,VA,James Vell Rives IV,Nonpartisan,19365,20.888,False,False
+139600,VA,Write-in,Nonpartisan,985,1.062,False,False
+87468,VA,Don Beyer,Democratic,259261,79.486,True,False
+87468,VA,Tony Sabio,Republican,57992,17.78,False,False
+87468,VA,Tim S. Sharman,Independent,4138,1.269,False,False
+87468,VA,Shelly M. Arnoldi,Libertarian,3883,1.19,False,False
+87468,VA,Write-in,Nonpartisan,899,0.276,False,False
+87469,VA,Morgan Griffith,Republican,195308,65.319,True,False
+87469,VA,Joy Powers,Democratic,103087,34.477,False,False
+87469,VA,Write-in,Nonpartisan,610,0.204,False,False
+87467,VA,Eugene Vindman,Democratic,196075,59.999,True,False
+87467,VA,Doug Ollivant,Republican,122195,37.392,False,False
+87467,VA,Alaha Ahrar,Independent,3195,0.978,False,False
+87467,VA,Taner E. Demirci Lopez,Libertarian,2734,0.837,False,False
+87467,VA,Randall A. Terry,Independent,1232,0.377,False,False
+87467,VA,Joshua E. Ertle,Independent,811,0.248,False,False
+87467,VA,Write-in,Nonpartisan,556,0.17,False,False
+87461,VA,Shannon Taylor,Democratic,212154,51.341,True,False
+87461,VA,Rob Wittman,Republican,200049,48.412,False,False
+87461,VA,Write-in,Nonpartisan,1021,0.247,False,False
+87470,VA,Suhas Subramanyam,Democratic,207223,61.653,True,False
+87470,VA,Dave Beckwith,Republican,122089,36.324,False,False
+87470,VA,Ahsen Mujeeb Malik,Independent,6145,1.828,False,False
+87470,VA,Write-in,Nonpartisan,657,0.195,False,False
+87462,VA,Elaine Luria,Democratic,182932,53.251,True,False
+87462,VA,Jen Kiggans,Republican,152130,44.285,False,False
+87462,VA,J. Matt Baker,Independent,4913,1.43,False,False
+87462,VA,"Geral D. ""Bishop"" Staten",Independent,3137,0.913,False,False
+87462,VA,Write-in,Nonpartisan,415,0.121,False,False
+87471,VA,James Walkinshaw,Democratic,256593,74.344,True,False
+87471,VA,Arthur Purves,Republican,83080,24.071,False,False
+87471,VA,Dianne L. Blais,Green,4377,1.268,False,False
+87471,VA,Write-in,Nonpartisan,1095,0.317,False,False
+87472,VA,Mark Warner,Democratic,2251628,61.602,True,False
+87472,VA,Bert Mizusawa,Republican,1393714,38.13,False,False
+87472,VA,Write-in,Nonpartisan,9800,0.268,False,False
+87463,VA,Bobby Scott,Democratic,186251,72.909,True,False
+87463,VA,Edwin Rivera,Republican,60387,23.639,False,False
+87463,VA,Makiba A. Gaines,Independent,4219,1.652,False,False
+87463,VA,Stephen C. Woll,Independent,4067,1.592,False,False
+87463,VA,Write-in,Nonpartisan,532,0.208,False,False
+87466,VA,Ben Cline,Republican,177180,55.025,True,False
+87466,VA,Beth Macy,Democratic,144195,44.781,False,False
+87466,VA,Write-in,Nonpartisan,625,0.194,False,False
+87464,VA,Jennifer McClellan,Democratic,230609,72.643,True,False
+87464,VA,Robert Murray,Republican,81794,25.766,False,False
+87464,VA,"Joan E. ""Andrews"" Bell",Independent,4289,1.351,False,False
+87464,VA,Write-in,Nonpartisan,762,0.24,False,False
+87465,VA,John McGuire,Republican,184142,49.864,True,False
+87465,VA,Tom Perriello,Democratic,178403,48.31,False,False
+87465,VA,Cooke C. Harvey,Independent,5992,1.623,False,False
+87465,VA,Write-in,Nonpartisan,749,0.203,False,False
+139396,VA,Sonia Ruth Vasquez Luna,Democratic,16825,70.02,False,False
+139396,VA,"Nathaniel ""Nate"" Fritzen",Republican,7150,29.756,False,False
+139396,VA,Write-in,Nonpartisan,54,0.225,False,False

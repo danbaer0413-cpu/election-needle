@@ -1,0 +1,180 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+86930,AZ,Arizona Attorney General,2026-11-03,99.7,,False,3,15,2548602,2026-11-18T12:41+00:00
+158264,AZ,Arizona Proposition 320 - Require 60% of School Operating Budgets on Direct Instruction,2026-11-03,99.7,2026-11-17T03:50:43.245Z,False,2,15,2431897,2026-11-18T12:41+00:00
+86932,AZ,Arizona Superintendent of Public Instruction,2026-11-03,99.7,2026-11-17T03:50:43.245Z,False,5,15,2529438,2026-11-18T12:41+00:00
+86926,AZ,Arizona State Mine Inspector,2026-11-03,99.7,2026-11-17T03:50:43.245Z,False,3,15,2493627,2026-11-18T12:41+00:00
+158260,AZ,Arizona Proposition 316 - Require Voter Approval for Local Grocery Tax Increases,2026-11-03,99.7,2026-11-04T06:53:42.308Z,False,2,15,2469999,2026-11-18T12:41+00:00
+159504,AZ,Arizona State House,2026-11-03,94.9,,False,6,30,4061389,2026-11-18T12:41+00:00
+158262,AZ,Arizona Proposition 318 - Designate School Athletic Teams by Biological Sex,2026-11-03,99.7,,False,2,15,2485780,2026-11-18T12:41+00:00
+158257,AZ,Arizona Proposition 141 - Prohibit Vehicle Miles Traveled Tax,2026-11-03,99.7,2026-11-17T03:50:43.245Z,False,2,15,2442609,2026-11-18T12:41+00:00
+158263,AZ,Arizona Proposition 319 - Require Voter Approval for Local Photo Enforcement Systems,2026-11-03,99.7,,False,2,15,2471968,2026-11-18T12:41+00:00
+158265,AZ,Arizona Supreme Court - John Lopez IV Retention,2026-11-03,99.7,2026-11-17T03:50:43.245Z,False,2,15,1992627,2026-11-18T12:41+00:00
+149106,AZ,Arizona Corporation Commissioner,2026-11-03,0,,False,5,15,0,2026-11-18T12:41+00:00
+86927,AZ,Arizona Corporation Commission,2026-11-03,99.7,2026-11-17T03:50:43.245Z,False,6,15,4686276,2026-11-18T12:41+00:00
+86929,AZ,Arizona Secretary of State,2026-11-03,99.7,,False,4,15,2555203,2026-11-18T12:41+00:00
+159505,AZ,Arizona State Senate,2026-11-03,94.9,,False,5,30,2495546,2026-11-18T12:41+00:00
+158258,AZ,Arizona Proposition 142 - Prohibit DEI Preferences in Public Institutions,2026-11-03,99.7,2026-11-04T06:53:42.308Z,False,2,15,2453971,2026-11-18T12:41+00:00
+86933,AZ,Arizona State Treasurer,2026-11-03,99.7,2026-11-17T03:50:43.245Z,False,3,15,2525179,2026-11-18T12:41+00:00
+158259,AZ,Arizona Proposition 144 - Citizenship and Voter ID Requirements,2026-11-03,99.7,2026-11-17T03:50:43.245Z,False,2,15,2489315,2026-11-18T12:41+00:00
+158261,AZ,Arizona Proposition 317 - Designate Drug Cartels as Terrorist Organizations,2026-11-03,99.7,,False,2,15,2478138,2026-11-18T12:41+00:00
+86928,AZ,Arizona Governor,2026-11-03,81,2026-11-04T03:12:53.963Z,False,7,15,2579147,2026-11-18T12:41+00:00
+149186,AZ,Arizona State House 2,2026-11-03,99.9,2026-11-12T01:54:12.309Z,False,4,1,107157,2026-11-18T12:41+00:00
+149144,AZ,Arizona Maricopa Justice of the Peace - Kyrene,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149220,AZ,Arizona State Senate 23,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,3,4,59802,2026-11-18T12:41+00:00
+149203,AZ,Arizona State House 8,2026-11-03,93.1,2026-11-08T00:05:37.797Z,False,4,1,103153,2026-11-18T12:41+00:00
+149136,AZ,Arizona Maricopa Constable - White Tank,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149183,AZ,Arizona State House 17,2026-11-03,99.9,2026-11-12T01:54:12.309Z,False,5,2,243073,2026-11-18T12:41+00:00
+149170,AZ,Arizona Pinal Clerk of the Superior Court,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+158267,AZ,Arizona Court of Appeals Division One - Randall M. Howe Retention,2026-11-03,98.3,,False,2,1,887210,2026-11-18T12:41+00:00
+149175,AZ,Arizona State House 1,2026-11-03,99.1,2026-11-08T00:05:37.797Z,False,5,2,178842,2026-11-18T12:41+00:00
+149133,AZ,Arizona Maricopa Constable - University Lakes,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149115,AZ,Arizona La Paz Clerk of the Superior Court,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149209,AZ,Arizona State Senate 13,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,3,1,92156,2026-11-18T12:41+00:00
+149192,AZ,Arizona State House 25,2026-11-03,99.9,2026-11-12T01:54:12.309Z,False,4,2,129062,2026-11-18T12:41+00:00
+158271,AZ,Arizona Court of Appeals Division One - Michael S. Catlett Retention,2026-11-03,98.3,,False,2,1,910128,2026-11-18T12:41+00:00
+149236,AZ,Arizona Yavapai Clerk of the Superior Court,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149187,AZ,Arizona State House 20,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,3,1,87434,2026-11-18T12:41+00:00
+149159,AZ,Arizona Navajo Clerk of the Superior Court,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149109,AZ,Arizona Flagstaff Mayor,2026-11-03,0,,False,2,1,0,2026-11-18T12:41+00:00
+149154,AZ,Arizona Maricopa Maricopa Community College District 3,2026-11-03,0,,False,4,1,0,2026-11-18T12:41+00:00
+149137,AZ,Arizona Maricopa Justice of the Peace - Agua Fria,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149101,AZ,Arizona Apache Clerk of the Superior Court,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149181,AZ,Arizona State House 15,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,3,2,117261,2026-11-18T12:41+00:00
+149196,AZ,Arizona State House 29,2026-11-03,99.9,2026-11-12T01:54:12.309Z,False,4,1,130736,2026-11-18T12:41+00:00
+158275,AZ,Arizona Court of Appeals Division Two - Karl Eppich Retention,2026-11-03,83.3,,False,2,6,181164,2026-11-18T12:41+00:00
+149176,AZ,Arizona State House 10,2026-11-03,99.9,2026-11-12T01:54:12.309Z,False,6,2,164827,2026-11-18T12:41+00:00
+149131,AZ,Arizona Maricopa Constable - San Marcos,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149210,AZ,Arizona State Senate 14,2026-11-03,99.9,2026-11-12T01:54:12.308Z,False,3,1,94711,2026-11-18T12:41+00:00
+149200,AZ,Arizona State House 5,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,3,1,107905,2026-11-18T12:41+00:00
+158272,AZ,Arizona Court of Appeals Division One - Anni Hill Foster Retention,2026-11-03,98.3,,False,2,1,938219,2026-11-18T12:41+00:00
+149237,AZ,Arizona Yavapai Governing Board - Yavapai College District 5,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149234,AZ,Arizona State Senate 9,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,3,1,61102,2026-11-18T12:41+00:00
+149160,AZ,Arizona Peoria Mayor,2026-11-03,0,,False,2,1,0,2026-11-18T12:41+00:00
+149214,AZ,Arizona State Senate 18,2026-11-03,99.9,2026-11-08T00:05:37.797Z,False,3,1,106090,2026-11-18T12:41+00:00
+149229,AZ,Arizona State Senate 4,2026-11-03,99.9,2026-11-12T01:54:12.308Z,False,3,1,118056,2026-11-18T12:41+00:00
+149155,AZ,Arizona Maricopa Maricopa Community College District 4,2026-11-03,0,,False,5,1,0,2026-11-18T12:41+00:00
+149120,AZ,Arizona Maricopa Constable - Arrowhead,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149102,AZ,Arizona Carefree City Council,2026-11-03,0,,False,2,1,0,2026-11-18T12:41+00:00
+149164,AZ,Arizona Phoenix City Council - District 2,2026-11-03,0,,False,3,1,0,2026-11-18T12:41+00:00
+149147,AZ,Arizona Maricopa Justice of the Peace - North Valley,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+158276,AZ,Arizona Court of Appeals Division Two - Sean Brearcliffe Retention,2026-11-03,0,,False,2,1,275003,2026-11-18T12:41+00:00
+149223,AZ,Arizona State Senate 26,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,3,1,36335,2026-11-18T12:41+00:00
+149174,AZ,Arizona South Tucson City Council,2026-11-03,0,,False,4,1,0,2026-11-18T12:41+00:00
+149218,AZ,Arizona State Senate 21,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,3,3,66996,2026-11-18T12:41+00:00
+149201,AZ,Arizona State House 6,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,5,7,104886,2026-11-18T12:41+00:00
+158270,AZ,Arizona Court of Appeals Division One - David D. Weinzweig Retention,2026-11-03,98.3,,False,2,1,932130,2026-11-18T12:41+00:00
+149235,AZ,Arizona Yavapai Board of Supervisors Dist. 2,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149168,AZ,Arizona Pima Board of Supervisors Dist. 5,2026-11-03,0,,False,2,1,0,2026-11-18T12:41+00:00
+149215,AZ,Arizona State Senate 19,2026-11-03,99.9,2026-11-08T00:05:37.797Z,False,3,5,92355,2026-11-18T12:41+00:00
+149195,AZ,Arizona State House 28,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,5,1,212912,2026-11-18T12:41+00:00
+149121,AZ,Arizona Maricopa Constable - Canyon Trails,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149207,AZ,Arizona State Senate 11,2026-11-03,88.6,2026-11-04T07:09:42.039Z,False,3,1,56760,2026-11-18T12:41+00:00
+149165,AZ,Arizona Phoenix City Council - District 4,2026-11-03,0,,False,8,1,0,2026-11-18T12:41+00:00
+149148,AZ,Arizona Maricopa Justice of the Peace - San Marcos,2026-11-03,0,,False,2,1,0,2026-11-18T12:41+00:00
+149112,AZ,Arizona Graham Clerk of the Superior Court,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149224,AZ,Arizona State Senate 27,2026-11-03,99.9,2026-11-12T01:54:12.308Z,False,3,1,75431,2026-11-18T12:41+00:00
+149125,AZ,Arizona Maricopa Constable - Hassayampa,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149107,AZ,Arizona El Mirage City Council,2026-11-03,0,,False,2,1,0,2026-11-18T12:41+00:00
+149219,AZ,Arizona State Senate 22,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,2,1,43140,2026-11-18T12:41+00:00
+149184,AZ,Arizona State House 18,2026-11-03,99.9,2026-11-08T00:05:37.797Z,False,4,1,164626,2026-11-18T12:41+00:00
+149142,AZ,Arizona Maricopa Justice of the Peace - Hassayampa,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149179,AZ,Arizona State House 13,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,5,1,172907,2026-11-18T12:41+00:00
+149169,AZ,Arizona Pima Clerk of the Superior Court,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149134,AZ,Arizona Maricopa Constable - West McDowell,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149213,AZ,Arizona State Senate 17,2026-11-03,99.9,2026-11-12T01:54:12.308Z,False,3,2,130211,2026-11-18T12:41+00:00
+149228,AZ,Arizona State Senate 30,2026-11-03,91.7,2026-11-04T07:09:42.039Z,False,2,4,71332,2026-11-18T12:41+00:00
+149129,AZ,Arizona Maricopa Constable - McDowell Mountain,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149208,AZ,Arizona State Senate 12,2026-11-03,96,2026-11-04T07:09:42.039Z,False,4,1,87628,2026-11-18T12:41+00:00
+149163,AZ,"Arizona Peoria, Pine District City Council",2026-11-03,0,,False,2,1,0,2026-11-18T12:41+00:00
+149113,AZ,Arizona Greenlee Clerk of the Superior Court,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149232,AZ,Arizona State Senate 7,2026-11-03,99.9,2026-11-08T00:05:37.797Z,False,3,4,99498,2026-11-18T12:41+00:00
+149126,AZ,Arizona Maricopa Constable - Ironwood,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149108,AZ,Arizona Flagstaff City Council,2026-11-03,0,,False,5,1,0,2026-11-18T12:41+00:00
+149105,AZ,Arizona Coconino Clerk of the Superior Court,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149185,AZ,Arizona State House 19,2026-11-03,99.9,2026-11-12T01:54:12.309Z,False,5,5,166115,2026-11-18T12:41+00:00
+149118,AZ,Arizona Maricopa Clerk of the Superior Court,2026-11-03,0,,False,2,1,0,2026-11-18T12:41+00:00
+158279,AZ,Arizona Court of Appeals Division Two - Christopher J. O'Neil Retention,2026-11-03,83.3,,False,2,6,180035,2026-11-18T12:41+00:00
+149180,AZ,Arizona State House 14,2026-11-03,99.9,2026-11-12T01:54:12.309Z,False,4,1,136384,2026-11-18T12:41+00:00
+149152,AZ,Arizona Maricopa Justice of the Peace - West Mesa,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149135,AZ,Arizona Maricopa Constable - West Mesa,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149189,AZ,Arizona State House 22,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,3,1,69934,2026-11-18T12:41+00:00
+149172,AZ,Arizona Santa Cruz County School Superintendent,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149130,AZ,Arizona Maricopa Constable - North Valley,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+158273,AZ,Arizona Court of Appeals Division One - Daniel J. Kiley Retention,2026-11-03,98.3,,False,2,1,887332,2026-11-18T12:41+00:00
+149206,AZ,Arizona State Senate 10,2026-11-03,99.9,2026-11-12T01:54:12.308Z,False,4,2,88264,2026-11-18T12:41+00:00
+158268,AZ,Arizona Court of Appeals Division One - James B. Morse Jr. Retention,2026-11-03,98.3,,False,2,1,903647,2026-11-18T12:41+00:00
+149233,AZ,Arizona State Senate 8,2026-11-03,93.1,2026-11-04T07:09:42.039Z,False,3,1,65861,2026-11-18T12:41+00:00
+149198,AZ,Arizona State House 30,2026-11-03,91.7,2026-11-08T00:05:37.797Z,False,4,4,132687,2026-11-18T12:41+00:00
+149124,AZ,Arizona Maricopa Constable - Encanto,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149139,AZ,Arizona Maricopa Justice of the Peace - East Mesa,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149193,AZ,Arizona State House 26,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,6,1,66694,2026-11-18T12:41+00:00
+149119,AZ,Arizona Maricopa Constable - Agua Fria,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149227,AZ,Arizona State Senate 3,2026-11-03,96.7,2026-11-04T07:09:42.039Z,False,4,1,130628,2026-11-18T12:41+00:00
+149153,AZ,Arizona Maricopa Justice of the Peace - White Tank,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149110,AZ,Arizona Gila Clerk of the Superior Court,2026-11-03,0,,False,2,1,0,2026-11-18T12:41+00:00
+149190,AZ,Arizona State House 23,2026-11-03,99.9,2026-11-08T00:05:37.797Z,False,5,4,106629,2026-11-18T12:41+00:00
+149173,AZ,Arizona Scottsdale City Council,2026-11-03,0,,False,3,1,0,2026-11-18T12:41+00:00
+149145,AZ,Arizona Maricopa Justice of the Peace - Manistee,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+158274,AZ,Arizona Court of Appeals Division Two - Jeffrey L. Sklar Retention,2026-11-03,0,,False,2,1,267917,2026-11-18T12:41+00:00
+149157,AZ,Arizona Mesa City Council - District 5,2026-11-03,0,,False,2,1,0,2026-11-18T12:41+00:00
+149140,AZ,Arizona Maricopa Justice of the Peace - El Centro,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+158269,AZ,Arizona Court of Appeals Division One - Jennifer M. Perkins Retention,2026-11-03,98.3,,False,2,1,937933,2026-11-18T12:41+00:00
+149216,AZ,Arizona State Senate 2,2026-11-03,99.9,2026-11-12T01:54:12.308Z,False,3,1,78351,2026-11-18T12:41+00:00
+149199,AZ,Arizona State House 4,2026-11-03,99.9,2026-11-12T01:54:12.309Z,False,5,1,222477,2026-11-18T12:41+00:00
+158278,AZ,Arizona Court of Appeals Division Two - Michael F. Kelly Retention,2026-11-03,0,,False,2,1,267537,2026-11-18T12:41+00:00
+149211,AZ,Arizona State Senate 15,2026-11-03,99.9,2026-11-08T00:05:37.797Z,False,3,2,103362,2026-11-18T12:41+00:00
+149194,AZ,Arizona State House 27,2026-11-03,99.9,,False,4,1,107699,2026-11-18T12:41+00:00
+149166,AZ,Arizona Phoenix City Council - District 6,2026-11-03,0,,False,2,1,0,2026-11-18T12:41+00:00
+149116,AZ,Arizona La Paz County School Superintendent,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149161,AZ,"Arizona Peoria, Acacia District City Council",2026-11-03,0,,False,2,1,0,2026-11-18T12:41+00:00
+149111,AZ,Arizona Gila Recorder,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149188,AZ,Arizona State House 21,2026-11-03,99.9,2026-11-08T00:05:37.797Z,False,4,3,100423,2026-11-18T12:41+00:00
+149146,AZ,Arizona Maricopa Justice of the Peace - McDowell Mountain,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149103,AZ,Arizona Cochise Clerk of the Superior Court,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149158,AZ,Arizona Mohave Clerk of the Superior Court,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149141,AZ,Arizona Maricopa Justice of the Peace - Encanto,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149138,AZ,Arizona Maricopa Justice of the Peace - Arrowhead,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149217,AZ,Arizona State Senate 20,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,2,1,50684,2026-11-18T12:41+00:00
+149150,AZ,Arizona Maricopa Justice of the Peace - University Lakes,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149100,AZ,Arizona Apache Attorney,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149212,AZ,Arizona State Senate 16,2026-11-03,80,2026-11-12T01:54:12.308Z,False,3,3,81006,2026-11-18T12:41+00:00
+149177,AZ,Arizona State House 11,2026-11-03,88.6,2026-11-04T07:09:42.039Z,False,5,1,102534,2026-11-18T12:41+00:00
+149167,AZ,Arizona Phoenix City Council - District 8,2026-11-03,0,,False,3,1,0,2026-11-18T12:41+00:00
+149221,AZ,Arizona State Senate 24,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,3,1,39394,2026-11-18T12:41+00:00
+149204,AZ,Arizona State House 9,2026-11-03,99.9,2026-11-08T00:05:37.797Z,False,4,1,92966,2026-11-18T12:41+00:00
+149162,AZ,"Arizona Peoria, Palo Verde District City Council",2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149127,AZ,Arizona Maricopa Constable - Kyrene,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149238,AZ,Arizona Yuma Clerk of the Superior Court,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149122,AZ,Arizona Maricopa Constable - East Mesa,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149104,AZ,Arizona Cochise Recorder,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149230,AZ,Arizona State Senate 5,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,3,1,72480,2026-11-18T12:41+00:00
+149156,AZ,Arizona Maricopa Maricopa County Community College District,2026-11-03,0,,False,2,1,0,2026-11-18T12:41+00:00
+149171,AZ,Arizona Santa Cruz Clerk of the Superior Court,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149225,AZ,Arizona State Senate 28,2026-11-03,99.9,2026-11-08T00:05:37.797Z,False,3,1,113189,2026-11-18T12:41+00:00
+149151,AZ,Arizona Maricopa Justice of the Peace - West McDowell,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+158277,AZ,Arizona Court of Appeals Division Two - Lacey Stover Gard Retention,2026-11-03,83.3,,False,2,6,180504,2026-11-18T12:41+00:00
+149178,AZ,Arizona State House 12,2026-11-03,96,2026-11-08T00:05:37.797Z,False,4,1,147468,2026-11-18T12:41+00:00
+149143,AZ,Arizona Maricopa Justice of the Peace - Ironwood,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149222,AZ,Arizona State Senate 25,2026-11-03,99.9,2026-11-12T01:54:12.308Z,False,3,2,90508,2026-11-18T12:41+00:00
+149205,AZ,Arizona State Senate 1,2026-11-03,99.1,2026-11-08T00:05:37.797Z,False,3,2,119168,2026-11-18T12:41+00:00
+149202,AZ,Arizona State House 7,2026-11-03,99.9,2026-11-08T00:05:37.797Z,False,5,4,162476,2026-11-18T12:41+00:00
+149128,AZ,Arizona Maricopa Constable - Manistee,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149182,AZ,Arizona State House 16,2026-11-03,80,2026-11-12T01:54:12.309Z,False,4,3,115982,2026-11-18T12:41+00:00
+149197,AZ,Arizona State House 3,2026-11-03,96.7,2026-11-08T00:05:37.797Z,False,6,1,244170,2026-11-18T12:41+00:00
+149123,AZ,Arizona Maricopa Constable - El Centro,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+158266,AZ,Arizona Court of Appeals Division One - Andrew M. Jacobs Retention,2026-11-03,98.3,,False,2,1,916023,2026-11-18T12:41+00:00
+149231,AZ,Arizona State Senate 6,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,3,7,79311,2026-11-18T12:41+00:00
+149132,AZ,Arizona Maricopa Constable - South Mountain,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149114,AZ,Arizona La Paz Assessor,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+149226,AZ,Arizona State Senate 29,2026-11-03,99.9,2026-11-12T01:54:12.309Z,False,3,1,91737,2026-11-18T12:41+00:00
+149191,AZ,Arizona State House 24,2026-11-03,99.9,2026-11-04T07:09:42.039Z,False,4,1,61970,2026-11-18T12:41+00:00
+149149,AZ,Arizona Maricopa Justice of the Peace - South Mountain,2026-11-03,0,,False,1,1,0,2026-11-18T12:41+00:00
+86919,AZ,Arizona US House 3,2026-11-03,80.1,2026-11-04T03:11:28.759Z,False,5,1,150872,2026-11-18T12:41+00:00
+86920,AZ,Arizona US House 4,2026-11-03,80.1,2026-11-04T03:39:20.972Z,False,5,1,255611,2026-11-18T12:41+00:00
+86925,AZ,Arizona US House 9,2026-11-03,74.5,2026-11-04T03:12:53.963Z,False,5,4,289987,2026-11-18T12:41+00:00
+86923,AZ,Arizona US House 7,2026-11-03,82.7,2026-11-04T03:12:53.962Z,False,3,6,206263,2026-11-18T12:41+00:00
+86924,AZ,Arizona US House 8,2026-11-03,80.1,2026-11-06T18:29:26.888Z,False,3,1,287827,2026-11-18T12:41+00:00
+86918,AZ,Arizona US House 2,2026-11-03,80.9,2026-11-09T17:59:39.549Z,False,4,9,329857,2026-11-18T12:41+00:00
+86917,AZ,Arizona US House 1,2026-11-03,80.1,2026-11-05T17:04:24.207Z,False,6,1,354903,2026-11-18T12:41+00:00
+86922,AZ,Arizona US House 6,2026-11-03,84.1,2026-11-04T03:18:45.355Z,False,6,5,359224,2026-11-18T12:41+00:00
+86921,AZ,Arizona US House 5,2026-11-03,81,2026-11-06T16:30:28.755Z,False,3,2,325574,2026-11-18T12:41+00:00

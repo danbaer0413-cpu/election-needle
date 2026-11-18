@@ -1,0 +1,456 @@
+race_id,state,election_name,election_date,percent_reporting,called_at,test_data,candidates,regions,total_votes,read_at
+179725,RI,"Rhode Island Question 2: Housing and Homeownership - $120,000,000",2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,2,44,347538,2026-11-18T16:27+00:00
+159566,RI,Rhode Island State Senate,2026-11-03,97.3,,False,4,38,301944,2026-11-18T16:27+00:00
+87400,RI,Rhode Island Attorney General,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,3,44,352978,2026-11-18T16:27+00:00
+87401,RI,Rhode Island State Treasurer,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,3,44,351160,2026-11-18T16:27+00:00
+87399,RI,Rhode Island Secretary of State,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,2,44,287948,2026-11-18T16:27+00:00
+179728,RI,"Rhode Island Question 5: Green Economy Bonds - $55,000,000",2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,2,44,346646,2026-11-18T16:27+00:00
+159565,RI,Rhode Island State House,2026-11-03,98.6,,False,5,75,306521,2026-11-18T16:27+00:00
+179727,RI,"Rhode Island Question 4: Cultural Economy - $50,000,000",2026-11-03,99.9,,False,2,44,344888,2026-11-18T16:27+00:00
+87397,RI,Rhode Island Governor,2026-11-03,84.5,2026-11-04T02:18:31.025Z,False,6,44,359709,2026-11-18T16:27+00:00
+179726,RI,"Rhode Island Question 3: Economic Development - $100,000,000",2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,2,44,341559,2026-11-18T16:27+00:00
+87398,RI,Rhode Island Lieutenant Governor,2026-11-03,99.9,2026-11-04T06:53:42.309Z,False,3,44,356579,2026-11-18T16:27+00:00
+179724,RI,"Rhode Island Question 1: Higher Education Facilities - $275,000,000",2026-11-03,99.9,2026-11-17T03:50:43.246Z,False,2,44,348413,2026-11-18T16:27+00:00
+179656,RI,Portsmouth School Committee,2026-11-03,99.9,,False,5,2,18321,2026-11-18T16:27+00:00
+179704,RI,Warwick City Council Ward 8,2026-11-03,99.9,,False,2,2,2390,2026-11-18T16:27+00:00
+179706,RI,Warwick School Committee District 1,2026-11-03,99.9,,False,2,2,8753,2026-11-18T16:27+00:00
+179587,RI,Hopkinton Town Sergeant,2026-11-03,99.9,,False,2,2,2574,2026-11-18T16:27+00:00
+179589,RI,Jamestown Town Council,2026-11-03,99.9,,False,7,2,11847,2026-11-18T16:27+00:00
+153214,RI,Rhode Island State Senate 15,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,3,6793,2026-11-18T16:27+00:00
+179829,RI,Westerly Question 7: School Committee,2026-11-03,99.9,,False,2,2,8489,2026-11-18T16:27+00:00
+179831,RI,Westerly Question 9: General Provisions - Adoption of Ordinances,2026-11-03,99.9,,False,2,2,8400,2026-11-18T16:27+00:00
+179641,RI,North Providence School Committee At-Large,2026-11-03,99.9,,False,2,2,8535,2026-11-18T16:27+00:00
+179721,RI,Woonsocket Mayor,2026-11-03,99.9,,False,3,2,7865,2026-11-18T16:27+00:00
+179531,RI,Cranston City Council - City Wide,2026-11-03,99.9,,False,7,2,66756,2026-11-18T16:27+00:00
+179572,RI,Foster Town Clerk,2026-11-03,99.9,,False,2,2,1654,2026-11-18T16:27+00:00
+179574,RI,Foster Town Council,2026-11-03,99.9,,False,7,2,7715,2026-11-18T16:27+00:00
+153245,RI,Rhode Island State House 8,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,2,3097,2026-11-18T16:27+00:00
+179800,RI,Smithfield Question 8: Ordinances,2026-11-03,99.9,,False,2,2,7229,2026-11-18T16:27+00:00
+179802,RI,Smithfield Question 10: Police Department,2026-11-03,99.9,,False,2,2,7980,2026-11-18T16:27+00:00
+153281,RI,Rhode Island State House 44,2026-11-03,99.9,2026-11-12T01:54:12.338Z,False,3,4,6567,2026-11-18T16:27+00:00
+153283,RI,Rhode Island State House 46,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,3,4865,2026-11-18T16:27+00:00
+153285,RI,Rhode Island State House 48,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,3,4252,2026-11-18T16:27+00:00
+179733,RI,Central Falls Question 6: Mayoral Term Limits,2026-11-03,99.9,,False,2,2,2245,2026-11-18T16:27+00:00
+179735,RI,Central Falls Question 8: Compliance With Ethics Laws,2026-11-03,99.9,,False,2,2,2237,2026-11-18T16:27+00:00
+179545,RI,Cumberland Fire Committee At-Large,2026-11-03,99.9,,False,3,2,14523,2026-11-18T16:27+00:00
+179817,RI,Tiverton Question 8: Article Viii Town Officials and Offices,2026-11-03,99.9,,False,2,2,5862,2026-11-18T16:27+00:00
+179819,RI,Tiverton Question 10: Article II Elections,2026-11-03,99.9,,False,2,2,5885,2026-11-18T16:27+00:00
+153266,RI,Rhode Island State House 29,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,3,4075,2026-11-18T16:27+00:00
+179677,RI,Scituate Town Moderator,2026-11-03,99.9,,False,2,2,3375,2026-11-18T16:27+00:00
+179750,RI,"Foster Question 6: Article X, Financial Procedures",2026-11-03,99.9,,False,2,2,2022,2026-11-18T16:27+00:00
+179560,RI,East Providence School Committee Ward 1,2026-11-03,99.9,,False,2,2,3595,2026-11-18T16:27+00:00
+153302,RI,Rhode Island State House 65,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,2,4804,2026-11-18T16:27+00:00
+179713,RI,West Greenwich Town Moderator,2026-11-03,99.9,,False,2,2,2164,2026-11-18T16:27+00:00
+179786,RI,Pawtucket Question 7: Construction and Reconstruction of Sanitary Sewers and Storm Sewers,2026-11-03,99.9,,False,2,2,15280,2026-11-18T16:27+00:00
+179788,RI,"Pawtucket Question 9: Construction, Renovation, and Improvements to Public Buildings",2026-11-03,99.9,,False,2,2,14782,2026-11-18T16:27+00:00
+179790,RI,Pawtucket Question 11: Repaving of Streets,2026-11-03,99.9,,False,2,2,14880,2026-11-18T16:27+00:00
+153235,RI,Rhode Island State Senate 36,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,4,10807,2026-11-18T16:27+00:00
+153237,RI,Rhode Island State Senate 38,2026-11-03,99.9,2026-11-12T01:54:12.337Z,False,3,4,12239,2026-11-18T16:27+00:00
+179648,RI,Pawtucket City Council At-Large,2026-11-03,99.9,,False,5,2,30888,2026-11-18T16:27+00:00
+179696,RI,Warren Charter Review Commission,2026-11-03,99.9,,False,5,2,7984,2026-11-18T16:27+00:00
+179506,RI,Bristol Regional School Committee,2026-11-03,99.9,,False,5,2,14744,2026-11-18T16:27+00:00
+179771,RI,Little Compton Question 15: Article Ix Town Departments,2026-11-03,0,,False,2,2,124,2026-11-18T16:27+00:00
+179581,RI,Glocester School Committee,2026-11-03,99.9,,False,8,2,9429,2026-11-18T16:27+00:00
+179821,RI,Tiverton Question 12: Article X Boards and Commissions,2026-11-03,99.9,,False,2,2,5914,2026-11-18T16:27+00:00
+179631,RI,New Shoreham Town Council,2026-11-03,99.9,,False,4,2,1515,2026-11-18T16:27+00:00
+153206,RI,Rhode Island State Senate 7,2026-11-03,99.9,2026-11-04T07:09:42.107Z,False,2,3,3990,2026-11-18T16:27+00:00
+179809,RI,Smithfield Question 17: Municipal Library System,2026-11-03,99.9,,False,2,2,8015,2026-11-18T16:27+00:00
+179665,RI,Providence City Council Ward 7,2026-11-03,99.9,,False,2,2,1667,2026-11-18T16:27+00:00
+179667,RI,Providence City Council Ward 9,2026-11-03,99.9,,False,3,2,2036,2026-11-18T16:27+00:00
+179740,RI,Charlestown Question 9: Purchasing,2026-11-03,99.9,,False,2,2,3830,2026-11-18T16:27+00:00
+179742,RI,Cranston Question 6: Storm Drainage Improvements,2026-11-03,99.9,,False,2,2,27438,2026-11-18T16:27+00:00
+179552,RI,East Greenwich School Committee,2026-11-03,99.9,,False,5,2,16067,2026-11-18T16:27+00:00
+179600,RI,Lincoln Town Administrator,2026-11-03,99.9,,False,3,2,8562,2026-11-18T16:27+00:00
+153225,RI,Rhode Island State Senate 26,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,2,7917,2026-11-18T16:27+00:00
+153273,RI,Rhode Island State House 36,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,5,6036,2026-11-18T16:27+00:00
+179684,RI,Smithfield Town Council,2026-11-03,99.9,,False,12,2,36955,2026-11-18T16:27+00:00
+179732,RI,Barrington Question 9: Financial Town Referendum,2026-11-03,99.9,,False,2,2,7427,2026-11-18T16:27+00:00
+179535,RI,Cranston City Council Ward 4,2026-11-03,99.9,,False,3,2,6019,2026-11-18T16:27+00:00
+179720,RI,West Warwick School Committee Ward 3,2026-11-03,99.9,,False,2,2,1199,2026-11-18T16:27+00:00
+179569,RI,Exeter Town Treasurer,2026-11-03,99.9,,False,2,2,2202,2026-11-18T16:27+00:00
+179571,RI,Foster Town Moderator,2026-11-03,99.9,,False,2,2,1566,2026-11-18T16:27+00:00
+153242,RI,Rhode Island State House 5,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,3,2,2735,2026-11-18T16:27+00:00
+153244,RI,Rhode Island State House 7,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,3,2,3305,2026-11-18T16:27+00:00
+179655,RI,Pawtucket School Committee,2026-11-03,99.9,,False,9,2,62927,2026-11-18T16:27+00:00
+153292,RI,Rhode Island State House 55,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,2,4175,2026-11-18T16:27+00:00
+153294,RI,Rhode Island State House 57,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,3,2695,2026-11-18T16:27+00:00
+179705,RI,Warwick City Council Ward 9,2026-11-03,99.9,,False,3,2,4276,2026-11-18T16:27+00:00
+179778,RI,North Smithfield Question 9: Board of Canvassers and Registration,2026-11-03,99.9,,False,2,2,4515,2026-11-18T16:27+00:00
+179588,RI,Jamestown Town Moderator,2026-11-03,99.9,,False,2,2,2596,2026-11-18T16:27+00:00
+179828,RI,Westerly Question 6: Town Council Vacancies,2026-11-03,99.9,,False,2,2,8414,2026-11-18T16:27+00:00
+179830,RI,Westerly Question 8: School Committee Vacancies,2026-11-03,99.9,,False,2,2,8439,2026-11-18T16:27+00:00
+153309,RI,Rhode Island State House 72,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,3,4787,2026-11-18T16:27+00:00
+153263,RI,Rhode Island State House 26,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,4,3635,2026-11-18T16:27+00:00
+153265,RI,Rhode Island State House 28,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,2,4429,2026-11-18T16:27+00:00
+179747,RI,Cranston Question 11: Schools and School Facilities,2026-11-03,99.9,,False,2,2,27574,2026-11-18T16:27+00:00
+179749,RI,Coventry Question 7: Municipal Fire and Emergency Medical Services Department,2026-11-03,99.9,,False,2,2,13195,2026-11-18T16:27+00:00
+179559,RI,East Providence School Committee At-Large,2026-11-03,99.9,,False,2,2,12969,2026-11-18T16:27+00:00
+179797,RI,Scituate Question 6: Motions at the Annual Financial Town Meeting,2026-11-03,99.9,,False,2,2,4286,2026-11-18T16:27+00:00
+179799,RI,Smithfield Question 7: Notices of Public Hearing,2026-11-03,99.9,,False,2,2,7845,2026-11-18T16:27+00:00
+179801,RI,Smithfield Question 9: Ordinances,2026-11-03,99.9,,False,2,2,7462,2026-11-18T16:27+00:00
+153280,RI,Rhode Island State House 43,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,2,3609,2026-11-18T16:27+00:00
+153282,RI,Rhode Island State House 45,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,3,4196,2026-11-18T16:27+00:00
+179515,RI,Charlestown Town Moderator,2026-11-03,99.9,,False,3,2,3856,2026-11-18T16:27+00:00
+179734,RI,Central Falls Question 7: City Council Term Limits,2026-11-03,99.9,,False,2,2,2225,2026-11-18T16:27+00:00
+153213,RI,Rhode Island State Senate 14,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,3,2,8533,2026-11-18T16:27+00:00
+179816,RI,Tiverton Question 7: Article VI Financial Services,2026-11-03,99.9,,False,2,2,5888,2026-11-18T16:27+00:00
+179544,RI,Cranston School Committee Ward 6,2026-11-03,99.9,,False,2,2,3663,2026-11-18T16:27+00:00
+179770,RI,Little Compton Question 14: Article Vii Boards and Commissions,2026-11-03,0,,False,2,2,123,2026-11-18T16:27+00:00
+179626,RI,New Shoreham Assistant Town Moderator,2026-11-03,99.9,,False,1,2,76,2026-11-18T16:27+00:00
+179628,RI,New Shoreham Second Warden,2026-11-03,99.9,,False,2,2,589,2026-11-18T16:27+00:00
+179630,RI,New Shoreham Town Sergeant,2026-11-03,99.9,,False,2,2,619,2026-11-18T16:27+00:00
+153299,RI,Rhode Island State House 62,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,2,2727,2026-11-18T16:27+00:00
+153301,RI,Rhode Island State House 64,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,3,3096,2026-11-18T16:27+00:00
+179712,RI,Regional School Committee Town of West Greenwich,2026-11-03,99.9,,False,3,2,3064,2026-11-18T16:27+00:00
+179785,RI,Pawtucket Question 6: Construction and Reconstruction of Streets and Sidewalks,2026-11-03,99.9,,False,2,2,15335,2026-11-18T16:27+00:00
+179787,RI,Pawtucket Question 8: Improvement and Replacement of Road Safety Infrastructure and Traffic Control Devices,2026-11-03,99.9,,False,2,2,14857,2026-11-18T16:27+00:00
+179611,RI,Lincoln Water Commissioner District 5,2026-11-03,99.9,,False,1,2,113,2026-11-18T16:27+00:00
+153236,RI,Rhode Island State Senate 37,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,2,8207,2026-11-18T16:27+00:00
+153284,RI,Rhode Island State House 47,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,3,4008,2026-11-18T16:27+00:00
+179695,RI,Warren Regional School Committee,2026-11-03,99.9,,False,2,2,3168,2026-11-18T16:27+00:00
+179647,RI,Pawtucket Mayor,2026-11-03,99.9,,False,2,2,14285,2026-11-18T16:27+00:00
+153272,RI,Rhode Island State House 35,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,3,2,4255,2026-11-18T16:27+00:00
+179729,RI,Barrington Question 6: Financial Town Referendum,2026-11-03,99.9,,False,2,2,7463,2026-11-18T16:27+00:00
+179731,RI,Barrington Question 8: Financial Town Referendum,2026-11-03,99.9,,False,2,2,7468,2026-11-18T16:27+00:00
+179534,RI,Cranston City Council Ward 3,2026-11-03,99.9,,False,3,2,2922,2026-11-18T16:27+00:00
+153203,RI,Rhode Island State Senate 4,2026-11-03,99.9,2026-11-04T07:09:42.107Z,False,2,3,7797,2026-11-18T16:27+00:00
+153205,RI,Rhode Island State Senate 6,2026-11-03,99.9,2026-11-04T07:09:42.107Z,False,2,2,5222,2026-11-18T16:27+00:00
+179808,RI,Smithfield Question 16: Town Engineer,2026-11-03,99.9,,False,2,2,7711,2026-11-18T16:27+00:00
+153255,RI,Rhode Island State House 18,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,3,2,4063,2026-11-18T16:27+00:00
+179666,RI,Providence City Council Ward 8,2026-11-03,99.9,,False,2,2,1746,2026-11-18T16:27+00:00
+179522,RI,Coventry Town Council District 3,2026-11-03,99.9,,False,2,2,1763,2026-11-18T16:27+00:00
+179741,RI,Charlestown Question 10: Charter Revisions,2026-11-03,99.9,,False,2,2,3905,2026-11-18T16:27+00:00
+179789,RI,"Pawtucket Question 10: Construction, Reconstruction, and Repair of Bridges",2026-11-03,99.9,,False,2,2,14910,2026-11-18T16:27+00:00
+179599,RI,Johnston School Committee District 5,2026-11-03,99.9,,False,2,2,1650,2026-11-18T16:27+00:00
+179551,RI,East Greenwich Town Council,2026-11-03,99.9,,False,10,2,26273,2026-11-18T16:27+00:00
+179777,RI,North Smithfield Question 8: Department of Facilities and Capital Assets,2026-11-03,99.9,,False,2,2,4633,2026-11-18T16:27+00:00
+179825,RI,Tiverton Question 16: Article X Boards and Commissions,2026-11-03,99.9,,False,2,2,5844,2026-11-18T16:27+00:00
+179827,RI,Question 18: Tiverton Home Rule Charter,2026-11-03,99.9,,False,2,2,5901,2026-11-18T16:27+00:00
+153306,RI,Rhode Island State House 69,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,4,3522,2026-11-18T16:27+00:00
+153308,RI,Rhode Island State House 71,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,4,4873,2026-11-18T16:27+00:00
+179719,RI,West Warwick School Committee Ward 2,2026-11-03,99.9,,False,2,2,1163,2026-11-18T16:27+00:00
+179760,RI,Jamestown Question 6: Affordable Housing Projects,2026-11-03,99.9,,False,2,2,3135,2026-11-18T16:27+00:00
+179570,RI,Exeter Zoning Inspector,2026-11-03,99.9,,False,3,2,2744,2026-11-18T16:27+00:00
+179618,RI,Narragansett School Committee,2026-11-03,99.9,,False,7,2,17696,2026-11-18T16:27+00:00
+153243,RI,Rhode Island State House 6,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,3,3525,2026-11-18T16:27+00:00
+153291,RI,Rhode Island State House 54,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,2,3628,2026-11-18T16:27+00:00
+153293,RI,Rhode Island State House 56,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,2,1389,2026-11-18T16:27+00:00
+153279,RI,Rhode Island State House 42,2026-11-03,99.9,2026-11-12T01:54:12.338Z,False,3,3,4806,2026-11-18T16:27+00:00
+179512,RI,Central Falls City Council Ward 3,2026-11-03,99.9,,False,2,2,258,2026-11-18T16:27+00:00
+179514,RI,Central Falls City Council Ward 5,2026-11-03,99.9,,False,2,2,373,2026-11-18T16:27+00:00
+153210,RI,Rhode Island State Senate 11,2026-11-03,99.9,2026-11-04T07:09:42.107Z,False,2,4,8242,2026-11-18T16:27+00:00
+153212,RI,Rhode Island State Senate 13,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,3,7713,2026-11-18T16:27+00:00
+179815,RI,Tiverton Question 6: Article IV Town Council,2026-11-03,99.9,,False,2,2,5973,2026-11-18T16:27+00:00
+179637,RI,North Providence Town Council At-Large,2026-11-03,99.9,,False,2,2,8824,2026-11-18T16:27+00:00
+179639,RI,North Providence Town Council District 2,2026-11-03,99.9,,False,2,2,3120,2026-11-18T16:27+00:00
+153264,RI,Rhode Island State House 27,2026-11-03,99.9,2026-11-12T01:54:12.337Z,False,3,3,5456,2026-11-18T16:27+00:00
+179529,RI,Coventry School Committee District 4,2026-11-03,99.9,,False,2,2,1738,2026-11-18T16:27+00:00
+179748,RI,Question 6: Real Estate Conveyance Tax — Coventry Land Trust Allocation,2026-11-03,99.9,,False,2,2,12960,2026-11-18T16:27+00:00
+179796,RI,"Richmond Question 6: Construction, Furnishing, and Equipping of Elementary School on Single Campus",2026-11-03,99.9,,False,2,2,3556,2026-11-18T16:27+00:00
+179798,RI,Smithfield Question 6: Town Council,2026-11-03,99.9,,False,2,2,7925,2026-11-18T16:27+00:00
+179654,RI,Pawtucket City Council District 6,2026-11-03,99.9,,False,2,2,2239,2026-11-18T16:27+00:00
+179608,RI,Lincoln School Committee District 5,2026-11-03,99.9,,False,1,2,163,2026-11-18T16:27+00:00
+179610,RI,Lincoln Water Commissioner District 3,2026-11-03,99.9,,False,2,2,1677,2026-11-18T16:27+00:00
+179690,RI,Tiverton Judge of Probate,2026-11-03,99.9,,False,2,2,4420,2026-11-18T16:27+00:00
+179692,RI,Tiverton Town Sergeant,2026-11-03,99.9,,False,2,2,4020,2026-11-18T16:27+00:00
+179694,RI,Warren Town Council,2026-11-03,99.9,,False,6,2,9411,2026-11-18T16:27+00:00
+179541,RI,Cranston School Committee Ward 3,2026-11-03,99.9,,False,2,2,2286,2026-11-18T16:27+00:00
+179543,RI,Cranston School Committee Ward 5,2026-11-03,99.9,,False,2,2,3555,2026-11-18T16:27+00:00
+179769,RI,Little Compton Question 13: Article VI Town Officials,2026-11-03,0,,False,2,2,123,2026-11-18T16:27+00:00
+179625,RI,New Shoreham Town Moderator,2026-11-03,99.9,,False,2,2,485,2026-11-18T16:27+00:00
+179627,RI,New Shoreham First Warden,2026-11-03,99.9,,False,2,2,588,2026-11-18T16:27+00:00
+179675,RI,Richmond Chariho School Committee,2026-11-03,99.9,,False,4,2,5358,2026-11-18T16:27+00:00
+153300,RI,Rhode Island State House 63,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,3,4587,2026-11-18T16:27+00:00
+179558,RI,East Providence City Council Ward 4,2026-11-03,99.9,,False,3,2,4715,2026-11-18T16:27+00:00
+179784,RI,North Smithfield Question 15: Ethics Provisions Update,2026-11-03,99.9,,False,2,2,4552,2026-11-18T16:27+00:00
+179711,RI,West Greenwich Town Council,2026-11-03,99.9,,False,6,2,8208,2026-11-18T16:27+00:00
+179521,RI,Coventry Town Council District 2,2026-11-03,99.9,,False,3,2,2596,2026-11-18T16:27+00:00
+179594,RI,Johnston Town Council District 3,2026-11-03,99.9,,False,2,2,1459,2026-11-18T16:27+00:00
+179596,RI,Johnston Town Council District 5,2026-11-03,99.9,,False,2,2,1723,2026-11-18T16:27+00:00
+179598,RI,Johnston School Committee District 3,2026-11-03,99.9,,False,2,2,1421,2026-11-18T16:27+00:00
+179644,RI,North Providence School Committee District 3,2026-11-03,99.9,,False,2,2,2830,2026-11-18T16:27+00:00
+179646,RI,North Smithfield School Committee,2026-11-03,99.9,,False,4,2,6779,2026-11-18T16:27+00:00
+153271,RI,Rhode Island State House 34,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,3,4663,2026-11-18T16:27+00:00
+179504,RI,Bristol Town Clerk,2026-11-03,99.9,,False,2,2,6888,2026-11-18T16:27+00:00
+179730,RI,Barrington Question 7: Financial Town Referendum,2026-11-03,99.9,,False,2,2,7366,2026-11-18T16:27+00:00
+179579,RI,Glocester Town Sergeant,2026-11-03,99.9,,False,3,2,4073,2026-11-18T16:27+00:00
+153204,RI,Rhode Island State Senate 5,2026-11-03,99.9,2026-11-04T07:09:42.107Z,False,3,2,8239,2026-11-18T16:27+00:00
+179629,RI,New Shoreham Tax Assessor,2026-11-03,99.9,,False,2,2,521,2026-11-18T16:27+00:00
+153254,RI,Rhode Island State House 17,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,2,4010,2026-11-18T16:27+00:00
+179807,RI,Smithfield Question 15: Boards & Commissions,2026-11-03,99.9,,False,2,2,7809,2026-11-18T16:27+00:00
+179617,RI,Middletown Town Council,2026-11-03,99.9,,False,12,2,25730,2026-11-18T16:27+00:00
+153288,RI,Rhode Island State House 51,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,3,2542,2026-11-18T16:27+00:00
+153290,RI,Rhode Island State House 53,2026-11-03,99.9,2026-11-12T01:54:12.338Z,False,3,3,4939,2026-11-18T16:27+00:00
+179548,RI,Cumberland Fire Committee District 3,2026-11-03,99.9,,False,2,2,1966,2026-11-18T16:27+00:00
+179550,RI,Cumberland Fire Committee District 5,2026-11-03,99.9,,False,1,2,261,2026-11-18T16:27+00:00
+179776,RI,North Smithfield Question 7: Personnel Board Duties and Responsibilities,2026-11-03,99.9,,False,2,2,4616,2026-11-18T16:27+00:00
+153223,RI,Rhode Island State Senate 24,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,3,4158,2026-11-18T16:27+00:00
+179826,RI,Tiverton Question 17: Article Xi School Department,2026-11-03,99.9,,False,2,2,5842,2026-11-18T16:27+00:00
+179682,RI,Scituate Director of Public Welfare,2026-11-03,99.9,,False,2,2,3241,2026-11-18T16:27+00:00
+153307,RI,Rhode Island State House 70,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,2,3909,2026-11-18T16:27+00:00
+179533,RI,Cranston City Council Ward 2,2026-11-03,99.9,,False,4,2,4627,2026-11-18T16:27+00:00
+179759,RI,Hopkinton Question 7: Charter Amendment - Town Clerk,2026-11-03,99.9,,False,2,2,3489,2026-11-18T16:27+00:00
+179528,RI,Coventry School Committee District 3,2026-11-03,99.9,,False,2,2,1692,2026-11-18T16:27+00:00
+179793,RI,Portsmouth Question 7: Non-Partisan Town Council and School Committee Elections,2026-11-03,99.9,,False,2,2,7507,2026-11-18T16:27+00:00
+179795,RI,Providence Question 7: An Ordinance Divesting From Foreign Countries Conducting Severe Violation of Human Rights,2026-11-03,99.9,,False,2,2,35707,2026-11-18T16:27+00:00
+179651,RI,Pawtucket City Council District 3,2026-11-03,99.9,,False,2,2,2825,2026-11-18T16:27+00:00
+179653,RI,Pawtucket City Council District 5,2026-11-03,99.9,,False,2,2,1915,2026-11-18T16:27+00:00
+153278,RI,Rhode Island State House 41,2026-11-03,99.9,2026-11-12T01:54:12.337Z,False,3,3,6297,2026-11-18T16:27+00:00
+179701,RI,Warwick City Council Ward 5,2026-11-03,99.9,,False,2,2,2853,2026-11-18T16:27+00:00
+179703,RI,Warwick City Council Ward 7,2026-11-03,99.9,,False,2,2,2868,2026-11-18T16:27+00:00
+179513,RI,Central Falls City Council Ward 4,2026-11-03,99.9,,False,2,2,392,2026-11-18T16:27+00:00
+179586,RI,Hopkinton Town Moderator,2026-11-03,99.9,,False,2,2,2596,2026-11-18T16:27+00:00
+153211,RI,Rhode Island State Senate 12,2026-11-03,99.9,2026-11-04T07:09:42.107Z,False,2,5,8724,2026-11-18T16:27+00:00
+179636,RI,North Kingstown School Committee,2026-11-03,99.9,,False,5,2,22444,2026-11-18T16:27+00:00
+179638,RI,North Providence Town Council District 1,2026-11-03,99.9,,False,2,2,2673,2026-11-18T16:27+00:00
+179718,RI,West Warwick School Committee Ward 1,2026-11-03,99.9,,False,2,2,1633,2026-11-18T16:27+00:00
+179672,RI,Providence City Council Ward 14,2026-11-03,99.9,,False,2,2,2051,2026-11-18T16:27+00:00
+179674,RI,Richmond Town Council,2026-11-03,99.9,,False,8,2,12766,2026-11-18T16:27+00:00
+179555,RI,East Providence City Council Ward 1,2026-11-03,99.9,,False,3,2,4200,2026-11-18T16:27+00:00
+179557,RI,East Providence City Council Ward 3,2026-11-03,99.9,,False,3,2,3614,2026-11-18T16:27+00:00
+179783,RI,North Smithfield Question 14: School Committee Powers Reference,2026-11-03,99.9,,False,2,2,4447,2026-11-18T16:27+00:00
+179605,RI,Lincoln Town Council District 5,2026-11-03,99.9,,False,2,2,944,2026-11-18T16:27+00:00
+179607,RI,Lincoln School Committee District 3,2026-11-03,99.9,,False,2,2,1570,2026-11-18T16:27+00:00
+179609,RI,Lincoln Water Commissioner District 1,2026-11-03,99.9,,False,2,2,1553,2026-11-18T16:27+00:00
+179689,RI,Tiverton School Committee,2026-11-03,99.9,,False,5,2,7748,2026-11-18T16:27+00:00
+179691,RI,Tiverton Town Council,2026-11-03,99.9,,False,14,2,25448,2026-11-18T16:27+00:00
+179540,RI,Cranston School Committee Ward 2,2026-11-03,99.9,,False,2,2,3630,2026-11-18T16:27+00:00
+179542,RI,Cranston School Committee Ward 4,2026-11-03,99.9,,False,2,2,4585,2026-11-18T16:27+00:00
+179814,RI,South Kingstown Question 6: Police Department Rules and Regulations - Town Council Approval,2026-11-03,99.9,,False,2,2,12187,2026-11-18T16:27+00:00
+179624,RI,Newport School Committee,2026-11-03,99.9,,False,10,2,24406,2026-11-18T16:27+00:00
+179768,RI,Little Compton Question 12: Article V Financial Procedures - Town Funds,2026-11-03,0,,False,2,2,125,2026-11-18T16:27+00:00
+179578,RI,Glocester Town Clerk,2026-11-03,99.9,,False,2,2,3786,2026-11-18T16:27+00:00
+153249,RI,Rhode Island State House 12,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,2,2134,2026-11-18T16:27+00:00
+153251,RI,Rhode Island State House 14,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,3,2613,2026-11-18T16:27+00:00
+153253,RI,Rhode Island State House 16,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,2,3799,2026-11-18T16:27+00:00
+179708,RI,Warwick School Committee District 3,2026-11-03,99.9,,False,2,2,8430,2026-11-18T16:27+00:00
+179710,RI,Westerly School Committee,2026-11-03,99.9,,False,7,2,23560,2026-11-18T16:27+00:00
+179520,RI,Coventry Town Council District 1,2026-11-03,99.9,,False,2,2,2224,2026-11-18T16:27+00:00
+179593,RI,Johnston Town Council District 2,2026-11-03,99.9,,False,2,2,1451,2026-11-18T16:27+00:00
+179595,RI,Johnston Town Council District 4,2026-11-03,99.9,,False,2,2,1635,2026-11-18T16:27+00:00
+153234,RI,Rhode Island State Senate 35,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,5,10413,2026-11-18T16:27+00:00
+179645,RI,North Smithfield Town Council,2026-11-03,99.9,,False,9,2,16809,2026-11-18T16:27+00:00
+179693,RI,Tiverton Budget Committee,2026-11-03,99.9,,False,1,2,252,2026-11-18T16:27+00:00
+179503,RI,Bristol Town Administrator,2026-11-03,99.9,,False,2,2,7139,2026-11-18T16:27+00:00
+153270,RI,Rhode Island State House 33,2026-11-03,99.9,2026-11-12T01:54:12.337Z,False,3,3,6526,2026-11-18T16:27+00:00
+179681,RI,Scituate School Committee,2026-11-03,99.9,,False,4,2,7736,2026-11-18T16:27+00:00
+179754,RI,"Glocester Question 7: SCHOOL FINANCIAL ACCOUNTING (Art. VI, Sec. C6-9)",2026-11-03,99.9,,False,2,2,4230,2026-11-18T16:27+00:00
+179756,RI,"Glocester Question 9: INCREASE CAPITAL RESERVE FUND (Art. VIII, Sec. C8-8)",2026-11-03,99.9,,False,2,2,4153,2026-11-18T16:27+00:00
+179758,RI,"Hopkinton Question 6: Construction, Furnishing, and Equipping of Elementary School on Single Campus",2026-11-03,99.9,,False,2,2,3581,2026-11-18T16:27+00:00
+179804,RI,Smithfield Question 12: Town Solicitor,2026-11-03,99.9,,False,2,2,7799,2026-11-18T16:27+00:00
+179806,RI,Smithfield Question 14: Building Official,2026-11-03,99.9,,False,2,2,7485,2026-11-18T16:27+00:00
+179616,RI,Middletown School Committee,2026-11-03,99.9,,False,4,2,9448,2026-11-18T16:27+00:00
+179664,RI,Providence City Council Ward 6,2026-11-03,99.9,,False,3,2,1221,2026-11-18T16:27+00:00
+153289,RI,Rhode Island State House 52,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,2,4722,2026-11-18T16:27+00:00
+179739,RI,Charlestown Question 8: Ordinances,2026-11-03,99.9,,False,2,2,3853,2026-11-18T16:27+00:00
+179549,RI,Cumberland Fire Committee District 4,2026-11-03,99.9,,False,2,2,2143,2026-11-18T16:27+00:00
+179597,RI,Johnston School Committee District 2,2026-11-03,99.9,,False,2,2,1406,2026-11-18T16:27+00:00
+153222,RI,Rhode Island State Senate 23,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,4,9186,2026-11-18T16:27+00:00
+179775,RI,North Smithfield Question 6: Town Council Terms,2026-11-03,99.9,,False,2,2,4623,2026-11-18T16:27+00:00
+179585,RI,Hopkinton Director of Public Welfare,2026-11-03,99.9,,False,2,2,2648,2026-11-18T16:27+00:00
+179633,RI,New Shoreham Block Island Land Trust Trustee,2026-11-03,99.9,,False,4,2,1649,2026-11-18T16:27+00:00
+179635,RI,North Kingstown Town Council,2026-11-03,99.9,,False,9,2,49008,2026-11-18T16:27+00:00
+179715,RI,West Warwick Town Council Ward 1,2026-11-03,99.9,,False,2,2,1683,2026-11-18T16:27+00:00
+179717,RI,West Warwick Town Council Ward 3,2026-11-03,99.9,,False,3,2,1467,2026-11-18T16:27+00:00
+179527,RI,Coventry School Committee District 2,2026-11-03,99.9,,False,2,2,2111,2026-11-18T16:27+00:00
+179568,RI,Exeter Town Sergeant,2026-11-03,99.9,,False,2,2,2467,2026-11-18T16:27+00:00
+179794,RI,Question 6: Providence Housing Trust Fund to Finance Affordable Multi-Family Housing Projects in the City,2026-11-03,99.9,,False,2,2,35791,2026-11-18T16:27+00:00
+153241,RI,Rhode Island State House 4,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,2,5832,2026-11-18T16:27+00:00
+179652,RI,Pawtucket City Council District 4,2026-11-03,99.9,,False,2,2,2151,2026-11-18T16:27+00:00
+179700,RI,Warwick City Council Ward 4,2026-11-03,99.9,,False,3,2,3296,2026-11-18T16:27+00:00
+179702,RI,Warwick City Council Ward 6,2026-11-03,99.9,,False,4,2,3471,2026-11-18T16:27+00:00
+179688,RI,Tiverton Town Clerk,2026-11-03,99.9,,False,2,2,4711,2026-11-18T16:27+00:00
+179537,RI,Cranston City Council Ward 6,2026-11-03,99.9,,False,3,2,4762,2026-11-18T16:27+00:00
+179539,RI,Cranston School Committee Ward 1,2026-11-03,99.9,,False,2,2,3638,2026-11-18T16:27+00:00
+179811,RI,Smithfield Question 19: Capital Items,2026-11-03,99.9,,False,2,2,7734,2026-11-18T16:27+00:00
+179813,RI,Smithfield Question 21: Town Council and School Committee Work Sessions,2026-11-03,99.9,,False,2,2,7936,2026-11-18T16:27+00:00
+179623,RI,Newport City Council Ward 3,2026-11-03,99.9,,False,2,2,1786,2026-11-18T16:27+00:00
+153260,RI,Rhode Island State House 23,2026-11-03,99.9,2026-11-12T01:54:12.337Z,False,3,2,5293,2026-11-18T16:27+00:00
+153262,RI,Rhode Island State House 25,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,3,2982,2026-11-18T16:27+00:00
+179673,RI,Providence City Council Ward 15,2026-11-03,99.9,,False,2,2,1288,2026-11-18T16:27+00:00
+179746,RI,Cranston Question 10: Fire and Public Safety Equipment,2026-11-03,99.9,,False,2,2,27430,2026-11-18T16:27+00:00
+179556,RI,East Providence City Council Ward 2,2026-11-03,99.9,,False,3,2,2632,2026-11-18T16:27+00:00
+179604,RI,Lincoln Town Council District 4,2026-11-03,99.9,,False,3,2,1879,2026-11-18T16:27+00:00
+179606,RI,Lincoln School Committee District 1,2026-11-03,99.9,,False,2,2,1414,2026-11-18T16:27+00:00
+153277,RI,Rhode Island State House 40,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,5,5000,2026-11-18T16:27+00:00
+153231,RI,Rhode Island State Senate 32,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,5,10705,2026-11-18T16:27+00:00
+153233,RI,Rhode Island State Senate 34,2026-11-03,99.9,2026-11-12T01:54:12.337Z,False,3,7,12854,2026-11-18T16:27+00:00
+179722,RI,Woonsocket City Council,2026-11-03,99.9,,False,14,2,37087,2026-11-18T16:27+00:00
+179500,RI,Barrington Town Moderator,2026-11-03,99.9,,False,2,2,6338,2026-11-18T16:27+00:00
+179502,RI,Barrington School Committee,2026-11-03,99.9,,False,3,2,10252,2026-11-18T16:27+00:00
+179765,RI,Little Compton Question 9: Article III Financial Town Meeting Organization,2026-11-03,0,,False,2,2,125,2026-11-18T16:27+00:00
+179767,RI,Little Compton Question 11: Article V Financial Procedures - Budget Committee Responsibilities,2026-11-03,0,,False,2,2,128,2026-11-18T16:27+00:00
+179577,RI,Glocester Town Council,2026-11-03,99.9,,False,8,2,15897,2026-11-18T16:27+00:00
+153248,RI,Rhode Island State House 11,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,2,2503,2026-11-18T16:27+00:00
+153250,RI,Rhode Island State House 13,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,3,3,2422,2026-11-18T16:27+00:00
+153298,RI,Rhode Island State House 61,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,2,3346,2026-11-18T16:27+00:00
+179709,RI,Westerly Town Council,2026-11-03,99.9,,False,7,2,23785,2026-11-18T16:27+00:00
+179782,RI,North Smithfield Question 13: Planning Board Powers and Comprehensive Plan,2026-11-03,99.9,,False,2,2,4442,2026-11-18T16:27+00:00
+179592,RI,Johnston Town Council District 1,2026-11-03,99.9,,False,2,2,1341,2026-11-18T16:27+00:00
+179519,RI,Coventry Town Council At-Large,2026-11-03,99.9,,False,3,2,14165,2026-11-18T16:27+00:00
+179738,RI,Charlestown Question 7: Planning Commission,2026-11-03,99.9,,False,2,2,3873,2026-11-18T16:27+00:00
+153217,RI,Rhode Island State Senate 18,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,3,7205,2026-11-18T16:27+00:00
+153219,RI,Rhode Island State Senate 20,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,3,5769,2026-11-18T16:27+00:00
+153221,RI,Rhode Island State Senate 22,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,4,8745,2026-11-18T16:27+00:00
+153267,RI,Rhode Island State House 30,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,3,4816,2026-11-18T16:27+00:00
+153269,RI,Rhode Island State House 32,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,2,5364,2026-11-18T16:27+00:00
+179680,RI,Scituate Town Council,2026-11-03,99.9,,False,9,2,18287,2026-11-18T16:27+00:00
+179753,RI,Glocester Question 6: Appointment of Town Administrator,2026-11-03,99.9,,False,2,2,4241,2026-11-18T16:27+00:00
+179755,RI,"Glocester Question 8: BOARD OF ASSESSMENT REVIEW MEMBERSHIP (Art. VII, Sec. C7-9)",2026-11-03,99.9,,False,2,2,4210,2026-11-18T16:27+00:00
+153202,RI,Rhode Island State Senate 3,2026-11-03,99.9,2026-11-04T07:09:42.107Z,False,2,2,8030,2026-11-18T16:27+00:00
+179805,RI,Smithfield Question 13: Human Services Department,2026-11-03,99.9,,False,2,2,7674,2026-11-18T16:27+00:00
+153252,RI,Rhode Island State House 15,2026-11-03,99.9,2026-11-12T01:54:12.337Z,False,4,2,6459,2026-11-18T16:27+00:00
+179663,RI,Providence City Council Ward 5,2026-11-03,99.9,,False,4,2,3556,2026-11-18T16:27+00:00
+179615,RI,Little Compton School Committee,2026-11-03,0,,False,5,2,278,2026-11-18T16:27+00:00
+153240,RI,Rhode Island State House 3,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,2,2072,2026-11-18T16:27+00:00
+179697,RI,Warwick City Council Ward 1,2026-11-03,99.9,,False,4,2,4251,2026-11-18T16:27+00:00
+179699,RI,Warwick City Council Ward 3,2026-11-03,99.9,,False,2,2,2544,2026-11-18T16:27+00:00
+179772,RI,"Little Compton Question 16: Article X Appointments, Qualifications and Vacancies",2026-11-03,0,,False,2,2,125,2026-11-18T16:27+00:00
+179774,RI,"Narragansett Question 6: Fire Station Equipment, Expansion, Improvement, and Renovations",2026-11-03,99.9,,False,2,2,6535,2026-11-18T16:27+00:00
+179584,RI,Hopkinton Town Clerk,2026-11-03,99.9,,False,2,2,3079,2026-11-18T16:27+00:00
+179824,RI,Tiverton Question 15: Article X Boards and Commissions,2026-11-03,99.9,,False,2,2,5781,2026-11-18T16:27+00:00
+179634,RI,New Shoreham Block Island Housing Board,2026-11-03,99.9,,False,1,2,60,2026-11-18T16:27+00:00
+153305,RI,Rhode Island State House 68,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,3,4666,2026-11-18T16:27+00:00
+179716,RI,West Warwick Town Council Ward 2,2026-11-03,99.9,,False,2,2,1209,2026-11-18T16:27+00:00
+179757,RI,"Glocester Question 10: EMERGENCY MANAGEMENT DIRECTOR QUALIFICATION (Art. XI, Sec. C11-4)",2026-11-03,99.9,,False,2,2,4206,2026-11-18T16:27+00:00
+179567,RI,Exeter Town Council,2026-11-03,99.9,,False,10,2,11814,2026-11-18T16:27+00:00
+179745,RI,"Cranston Question 9: Streets, Sidewalks, and Bridges",2026-11-03,99.9,,False,2,2,27573,2026-11-18T16:27+00:00
+179601,RI,Lincoln Town Council District 1,2026-11-03,99.9,,False,2,2,1543,2026-11-18T16:27+00:00
+179603,RI,Lincoln Town Council District 3,2026-11-03,99.9,,False,2,2,1748,2026-11-18T16:27+00:00
+153274,RI,Rhode Island State House 37,2026-11-03,99.9,2026-11-12T01:54:12.337Z,False,3,2,5927,2026-11-18T16:27+00:00
+153276,RI,Rhode Island State House 39,2026-11-03,99.9,2026-11-12T01:54:12.337Z,False,3,4,6528,2026-11-18T16:27+00:00
+179687,RI,South Kingstown School Committee,2026-11-03,99.9,,False,6,2,31620,2026-11-18T16:27+00:00
+179509,RI,Central Falls City Council At-Large,2026-11-03,99.9,,False,3,2,2477,2026-11-18T16:27+00:00
+179511,RI,Central Falls City Council Ward 2,2026-11-03,99.9,,False,2,2,417,2026-11-18T16:27+00:00
+179538,RI,Cranston School Committee - City Wide,2026-11-03,99.9,,False,2,2,21852,2026-11-18T16:27+00:00
+153209,RI,Rhode Island State Senate 10,2026-11-03,99.9,2026-11-04T07:09:42.107Z,False,2,5,8500,2026-11-18T16:27+00:00
+179812,RI,Smithfield Question 20: Key Performance Indicators and Independent Assessment,2026-11-03,99.9,,False,2,2,7790,2026-11-18T16:27+00:00
+153259,RI,Rhode Island State House 22,2026-11-03,99.9,2026-11-12T01:54:12.337Z,False,3,2,5228,2026-11-18T16:27+00:00
+153261,RI,Rhode Island State House 24,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,3,5283,2026-11-18T16:27+00:00
+179526,RI,Coventry School Committee District 1,2026-11-03,99.9,,False,2,2,2000,2026-11-18T16:27+00:00
+153247,RI,Rhode Island State House 10,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,2,2106,2026-11-18T16:27+00:00
+153295,RI,Rhode Island State House 58,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,2,2382,2026-11-18T16:27+00:00
+153297,RI,Rhode Island State House 60,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,3,1982,2026-11-18T16:27+00:00
+179779,RI,North Smithfield Question 10: Terminology Correction,2026-11-03,99.9,,False,2,2,4664,2026-11-18T16:27+00:00
+179781,RI,North Smithfield Question 12: Municipal Audit Requirements,2026-11-03,99.9,,False,2,2,4516,2026-11-18T16:27+00:00
+179591,RI,Johnston Mayor,2026-11-03,99.9,,False,2,2,7891,2026-11-18T16:27+00:00
+153228,RI,Rhode Island State Senate 29,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,2,7772,2026-11-18T16:27+00:00
+153230,RI,Rhode Island State Senate 31,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,4,8928,2026-11-18T16:27+00:00
+153232,RI,Rhode Island State Senate 33,2026-11-03,99.9,2026-11-12T01:54:12.337Z,False,3,3,10246,2026-11-18T16:27+00:00
+153312,RI,Rhode Island State House 75,2026-11-03,99.9,2026-11-04T07:09:42.110Z,False,2,2,3584,2026-11-18T16:27+00:00
+179723,RI,Woonsocket School Committee,2026-11-03,99.9,,False,6,2,19793,2026-11-18T16:27+00:00
+179764,RI,Little Compton Question 8: Article III Financial Procedures,2026-11-03,0,,False,2,2,119,2026-11-18T16:27+00:00
+179766,RI,Little Compton Question 10: Article IV Town Council,2026-11-03,0,,False,2,2,125,2026-11-18T16:27+00:00
+179622,RI,Newport City Council Ward 2,2026-11-03,99.9,,False,3,2,2656,2026-11-18T16:27+00:00
+179576,RI,Foster Tax Board of Review,2026-11-03,99.9,,False,2,2,1491,2026-11-18T16:27+00:00
+153201,RI,Rhode Island State Senate 2,2026-11-03,99.9,2026-11-04T07:09:42.107Z,False,2,2,4048,2026-11-18T16:27+00:00
+179658,RI,Providence Mayor,2026-11-03,99.9,,False,3,2,37916,2026-11-18T16:27+00:00
+179660,RI,Providence City Council Ward 2,2026-11-03,99.9,,False,2,2,3318,2026-11-18T16:27+00:00
+179662,RI,Providence City Council Ward 4,2026-11-03,99.9,,False,2,2,2254,2026-11-18T16:27+00:00
+179516,RI,Charlestown Chariho School Committee,2026-11-03,99.9,,False,6,2,9968,2026-11-18T16:27+00:00
+179518,RI,Charlestown Planning Commission,2026-11-03,99.9,,False,8,2,10246,2026-11-18T16:27+00:00
+179737,RI,"Charlestown Question 6: Construction, Furnishing, and Equipping of Elementary School on Single Campus",2026-11-03,99.9,,False,2,2,4012,2026-11-18T16:27+00:00
+153216,RI,Rhode Island State Senate 17,2026-11-03,99.9,2026-11-12T01:54:12.337Z,False,5,4,11159,2026-11-18T16:27+00:00
+153218,RI,Rhode Island State Senate 19,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,3,7941,2026-11-18T16:27+00:00
+179643,RI,North Providence School Committee District 2,2026-11-03,99.9,,False,3,2,3475,2026-11-18T16:27+00:00
+153268,RI,Rhode Island State House 31,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,3,5192,2026-11-18T16:27+00:00
+179501,RI,Barrington Town Council,2026-11-03,99.9,,False,5,2,12954,2026-11-18T16:27+00:00
+179752,RI,"Foster Question 8: Article X, Financial Procedures",2026-11-03,99.9,,False,2,2,2044,2026-11-18T16:27+00:00
+179679,RI,Scituate Town Sergeant,2026-11-03,99.9,,False,3,2,4392,2026-11-18T16:27+00:00
+153304,RI,Rhode Island State House 67,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,3,3,5744,2026-11-18T16:27+00:00
+179562,RI,East Providence School Committee Ward 3,2026-11-03,99.9,,False,3,2,3438,2026-11-18T16:27+00:00
+179564,RI,Exeter Town Moderator,2026-11-03,99.9,,False,2,2,2164,2026-11-18T16:27+00:00
+179566,RI,Regional School Committee Town of Exeter,2026-11-03,99.9,,False,2,2,2111,2026-11-18T16:27+00:00
+179612,RI,Little Compton Town Moderator,2026-11-03,0,,False,2,2,95,2026-11-18T16:27+00:00
+179614,RI,Little Compton Town Council,2026-11-03,0,,False,9,2,534,2026-11-18T16:27+00:00
+153239,RI,Rhode Island State House 2,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,2,3778,2026-11-18T16:27+00:00
+153287,RI,Rhode Island State House 50,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,2,2435,2026-11-18T16:27+00:00
+179698,RI,Warwick City Council Ward 2,2026-11-03,99.9,,False,3,2,3094,2026-11-18T16:27+00:00
+179547,RI,Cumberland Fire Committee District 2,2026-11-03,99.9,,False,1,2,565,2026-11-18T16:27+00:00
+179773,RI,Little Compton Question 17: Article Xi Transitional Provisions,2026-11-03,0,,False,2,2,123,2026-11-18T16:27+00:00
+153220,RI,Rhode Island State Senate 21,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,6,9115,2026-11-18T16:27+00:00
+179823,RI,Tiverton Question 14: Article X Boards and Commissions,2026-11-03,99.9,,False,2,2,5798,2026-11-18T16:27+00:00
+179583,RI,Hopkinton Chariho School Committee,2026-11-03,99.9,,False,7,2,9150,2026-11-18T16:27+00:00
+153208,RI,Rhode Island State Senate 9,2026-11-03,99.9,2026-11-04T07:09:42.107Z,False,2,2,7056,2026-11-18T16:27+00:00
+153256,RI,Rhode Island State House 19,2026-11-03,99.9,2026-11-12T01:54:12.337Z,False,3,4,6855,2026-11-18T16:27+00:00
+153258,RI,Rhode Island State House 21,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,2,3782,2026-11-18T16:27+00:00
+179523,RI,Coventry Town Council District 4,2026-11-03,99.9,,False,2,2,1884,2026-11-18T16:27+00:00
+179525,RI,Coventry School Committee At-Large,2026-11-03,99.9,,False,3,2,13194,2026-11-18T16:27+00:00
+179744,RI,Cranston Question 8: Playgrounds and Athletic Fields,2026-11-03,99.9,,False,2,2,27380,2026-11-18T16:27+00:00
+179792,RI,Portsmouth Question 6: School Construction and Renovation Projects,2026-11-03,99.9,,False,2,2,7567,2026-11-18T16:27+00:00
+179602,RI,Lincoln Town Council District 2,2026-11-03,99.9,,False,3,2,1860,2026-11-18T16:27+00:00
+179650,RI,Pawtucket City Council District 2,2026-11-03,99.9,,False,2,2,2323,2026-11-18T16:27+00:00
+153275,RI,Rhode Island State House 38,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,3,4084,2026-11-18T16:27+00:00
+179508,RI,Burrillville School Committee,2026-11-03,99.9,,False,10,2,18465,2026-11-18T16:27+00:00
+179510,RI,Central Falls City Council Ward 1,2026-11-03,99.9,,False,2,2,400,2026-11-18T16:27+00:00
+153311,RI,Rhode Island State House 74,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,3,4395,2026-11-18T16:27+00:00
+179761,RI,Question 6: AMENDMENT TO THE JOHNSTON HOME RULE CHARTER SECTION 1-3 - CONDEMNATION Town of Johnston,2026-11-03,99.9,,False,2,2,8792,2026-11-18T16:27+00:00
+179763,RI,Little Compton Question 7: Article II Elections,2026-11-03,0,,False,2,2,122,2026-11-18T16:27+00:00
+179619,RI,Narragansett Town Council,2026-11-03,99.9,,False,11,2,26253,2026-11-18T16:27+00:00
+179621,RI,Newport City Council Ward 1,2026-11-03,99.9,,False,3,2,1641,2026-11-18T16:27+00:00
+153246,RI,Rhode Island State House 9,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,2,2337,2026-11-18T16:27+00:00
+179669,RI,Providence City Council Ward 11,2026-11-03,99.9,,False,2,2,1728,2026-11-18T16:27+00:00
+179671,RI,Providence City Council Ward 13,2026-11-03,99.9,,False,2,2,3472,2026-11-18T16:27+00:00
+153296,RI,Rhode Island State House 59,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,2,2883,2026-11-18T16:27+00:00
+179554,RI,East Providence City Council At-Large,2026-11-03,99.9,,False,3,2,14795,2026-11-18T16:27+00:00
+179780,RI,North Smithfield Question 11: Ordinance Publication and Electronic Notice,2026-11-03,99.9,,False,2,2,4541,2026-11-18T16:27+00:00
+153227,RI,Rhode Island State Senate 28,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,3,7204,2026-11-18T16:27+00:00
+153229,RI,Rhode Island State Senate 30,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,2,9695,2026-11-18T16:27+00:00
+179686,RI,South Kingstown Town Council,2026-11-03,99.9,,False,6,2,37901,2026-11-18T16:27+00:00
+179640,RI,North Providence Town Council District 3,2026-11-03,99.9,,False,2,2,2812,2026-11-18T16:27+00:00
+179642,RI,North Providence School Committee District 1,2026-11-03,99.9,,False,2,2,2660,2026-11-18T16:27+00:00
+179530,RI,Coventry School Committee District 5,2026-11-03,99.9,,False,1,2,231,2026-11-18T16:27+00:00
+179532,RI,Cranston City Council Ward 1,2026-11-03,99.9,,False,2,2,4044,2026-11-18T16:27+00:00
+179751,RI,"Foster Question 7: Article X, Financial Procedures",2026-11-03,99.9,,False,2,2,2009,2026-11-18T16:27+00:00
+179573,RI,Foster School Committee,2026-11-03,99.9,,False,5,2,2998,2026-11-18T16:27+00:00
+179575,RI,Foster Town Sergeant,2026-11-03,99.9,,False,3,2,2044,2026-11-18T16:27+00:00
+153200,RI,Rhode Island State Senate 1,2026-11-03,99.9,2026-11-04T07:09:42.107Z,False,2,2,4476,2026-11-18T16:27+00:00
+179657,RI,Portsmouth Town Council,2026-11-03,99.9,,False,13,2,42661,2026-11-18T16:27+00:00
+179659,RI,Providence City Council Ward 1,2026-11-03,99.9,,False,2,2,3260,2026-11-18T16:27+00:00
+179707,RI,Warwick School Committee District 2,2026-11-03,99.9,,False,2,2,7806,2026-11-18T16:27+00:00
+179517,RI,Charlestown Town Council,2026-11-03,99.9,,False,9,2,15998,2026-11-18T16:27+00:00
+179590,RI,Jamestown School Committee,2026-11-03,99.9,,False,3,2,4283,2026-11-18T16:27+00:00
+153215,RI,Rhode Island State Senate 16,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,3,2967,2026-11-18T16:27+00:00
+179736,RI,Central Falls Question 9: Appointment of Police and Fire Chiefs,2026-11-03,99.9,,False,2,2,2248,2026-11-18T16:27+00:00
+179546,RI,Cumberland Fire Committee District 1,2026-11-03,99.9,,False,2,2,1544,2026-11-18T16:27+00:00
+179818,RI,Tiverton Question 9: Article Viii Town Officials and Offices,2026-11-03,99.9,,False,2,2,5852,2026-11-18T16:27+00:00
+179820,RI,Tiverton Question 11: Article Vii Budget Committee,2026-11-03,99.9,,False,2,2,5725,2026-11-18T16:27+00:00
+179822,RI,Tiverton Question 13: Article X Boards and Commissions,2026-11-03,99.9,,False,2,2,5847,2026-11-18T16:27+00:00
+179676,RI,Scituate Town Clerk,2026-11-03,99.9,,False,2,2,3640,2026-11-18T16:27+00:00
+179678,RI,Scituate Town Treasurer,2026-11-03,99.9,,False,2,2,3302,2026-11-18T16:27+00:00
+153303,RI,Rhode Island State House 66,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,4,5238,2026-11-18T16:27+00:00
+179561,RI,East Providence School Committee Ward 2,2026-11-03,99.9,,False,3,2,2521,2026-11-18T16:27+00:00
+179563,RI,East Providence School Committee Ward 4,2026-11-03,99.9,,False,3,2,4669,2026-11-18T16:27+00:00
+179803,RI,Smithfield Question 11: Public Works and Recreation,2026-11-03,99.9,,False,2,2,7732,2026-11-18T16:27+00:00
+179613,RI,Little Compton Town Clerk,2026-11-03,0,,False,2,2,111,2026-11-18T16:27+00:00
+179661,RI,Providence City Council Ward 3,2026-11-03,99.9,,False,2,2,4501,2026-11-18T16:27+00:00
+153286,RI,Rhode Island State House 49,2026-11-03,99.9,,False,3,3,2651,2026-11-18T16:27+00:00
+153238,RI,Rhode Island State House 1,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,2,2878,2026-11-18T16:27+00:00
+179649,RI,Pawtucket City Council District 1,2026-11-03,99.9,,False,2,2,2336,2026-11-18T16:27+00:00
+179505,RI,Bristol Town Council,2026-11-03,99.9,,False,7,2,27632,2026-11-18T16:27+00:00
+179507,RI,Burrillville Town Council,2026-11-03,99.9,,False,8,2,18607,2026-11-18T16:27+00:00
+179580,RI,Glocester Director of Human Services,2026-11-03,99.9,,False,2,2,3302,2026-11-18T16:27+00:00
+179582,RI,Hopkinton Town Council,2026-11-03,99.9,,False,8,2,12204,2026-11-18T16:27+00:00
+153207,RI,Rhode Island State Senate 8,2026-11-03,99.9,2026-11-04T07:09:42.107Z,False,2,2,5233,2026-11-18T16:27+00:00
+179632,RI,New Shoreham School Committee,2026-11-03,99.9,,False,3,2,1148,2026-11-18T16:27+00:00
+153257,RI,Rhode Island State House 20,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,2,4058,2026-11-18T16:27+00:00
+179714,RI,West Greenwich Town Sergeant,2026-11-03,99.9,,False,2,2,2156,2026-11-18T16:27+00:00
+179524,RI,Coventry Town Council District 5,2026-11-03,99.9,,False,2,2,1972,2026-11-18T16:27+00:00
+179565,RI,Exeter Town Clerk,2026-11-03,99.9,,False,2,2,2356,2026-11-18T16:27+00:00
+179791,RI,"Pawtucket Question 12: Construction, Renovation, and Equipping of Public Recreation Facilities",2026-11-03,99.9,,False,2,2,14909,2026-11-18T16:27+00:00
+179743,RI,Cranston Question 7: Public Buildings,2026-11-03,99.9,,False,2,2,26976,2026-11-18T16:27+00:00
+179553,RI,East Providence Mayor,2026-11-03,99.9,,False,3,2,16002,2026-11-18T16:27+00:00
+153224,RI,Rhode Island State Senate 25,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,2,7097,2026-11-18T16:27+00:00
+153226,RI,Rhode Island State Senate 27,2026-11-03,99.9,2026-11-04T07:09:42.108Z,False,2,4,9019,2026-11-18T16:27+00:00
+179683,RI,Scituate Board of Assessment Review,2026-11-03,99.9,,False,2,2,2981,2026-11-18T16:27+00:00
+179685,RI,Smithfield School Committee,2026-11-03,99.9,,False,6,2,19692,2026-11-18T16:27+00:00
+153310,RI,Rhode Island State House 73,2026-11-03,99.9,2026-11-04T07:09:42.109Z,False,2,3,3085,2026-11-18T16:27+00:00
+179536,RI,Cranston City Council Ward 5,2026-11-03,99.9,,False,2,2,3873,2026-11-18T16:27+00:00
+179762,RI,Little Compton Question 6: Article I Incorporation and Powers of the Town,2026-11-03,0,,False,2,2,126,2026-11-18T16:27+00:00
+179810,RI,Smithfield Question 18: Planning & Economic Development,2026-11-03,99.9,,False,2,2,7792,2026-11-18T16:27+00:00
+179620,RI,Newport City Council At-Large,2026-11-03,99.9,,False,9,2,19925,2026-11-18T16:27+00:00
+179668,RI,Providence City Council Ward 10,2026-11-03,99.9,,False,2,2,1875,2026-11-18T16:27+00:00
+179670,RI,Providence City Council Ward 12,2026-11-03,99.9,,False,2,2,1702,2026-11-18T16:27+00:00
+87396,RI,Rhode Island US Senate,2026-11-03,84.6,,False,4,45,360424,2026-11-18T16:27+00:00
+87394,RI,Rhode Island US House 1,2026-11-03,84.1,2026-11-04T02:21:59.542Z,False,4,23,163455,2026-11-18T16:27+00:00
+87395,RI,Rhode Island US House 2,2026-11-03,84.5,2026-11-04T02:21:59.542Z,False,3,25,195447,2026-11-18T16:27+00:00

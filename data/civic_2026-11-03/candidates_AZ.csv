@@ -1,0 +1,473 @@
+race_id,state,candidate,party,votes,pct,winner,incumbent
+86930,AZ,Kris Mayes,Democratic,1414242,55.491,True,False
+86930,AZ,Warren Petersen,Republican,1132437,44.434,False,False
+86930,AZ,Write-in,Nonpartisan,1923,0.075,False,False
+158264,AZ,No,Nonpartisan,1262089,51.897,True,False
+158264,AZ,Yes,Nonpartisan,1169808,48.103,False,False
+86932,AZ,Teresa Ruiz,Democratic,1346133,53.219,True,False
+86932,AZ,Kimberly Yee,Republican,1180320,46.663,False,False
+86932,AZ,Write-in,Nonpartisan,2218,0.088,False,False
+86932,AZ,"Stephen ""Dr.Stephen Neal"" Neal jr.",No Labels,636,0.025,False,False
+86932,AZ,Gerard Davis,Green,131,0.005,False,False
+86926,AZ,Brian Matlock,Democratic,1314969,52.733,True,False
+86926,AZ,Les Presmyk,Republican,1175949,47.158,False,False
+86926,AZ,Write-in,Nonpartisan,2709,0.109,False,False
+158260,AZ,Yes,Nonpartisan,1533417,62.082,True,False
+158260,AZ,No,Nonpartisan,936582,37.918,False,False
+159504,AZ,Democratic,Democratic,2115481,52.088,False,False
+159504,AZ,Republican,Republican,1900169,46.786,False,False
+159504,AZ,Green,Green,24907,0.613,False,False
+159504,AZ,Nonpartisan,Nonpartisan,16001,0.394,False,False
+159504,AZ,No Labels,No Labels,4705,0.116,False,False
+159504,AZ,Libertarian,Libertarian,126,0.003,False,False
+158262,AZ,Yes,Nonpartisan,1459944,58.732,True,False
+158262,AZ,No,Nonpartisan,1025836,41.268,False,False
+158257,AZ,Yes,Nonpartisan,1245550,50.993,True,False
+158257,AZ,No,Nonpartisan,1197059,49.007,False,False
+158263,AZ,Yes,Nonpartisan,1543597,62.444,True,False
+158263,AZ,No,Nonpartisan,928371,37.556,False,False
+158265,AZ,Yes,Nonpartisan,1180798,59.258,True,False
+158265,AZ,No,Nonpartisan,811829,40.742,False,False
+149106,AZ,Clara Pratte,Democratic,0,,False,False
+149106,AZ,Jonathon Hill,Democratic,0,,False,False
+149106,AZ,Kevin Thompson,Republican,0,,False,False
+149106,AZ,Ralph Heap,Republican,0,,False,False
+149106,AZ,Mike Cease,Green,0,,False,False
+86927,AZ,Clara Pratte,Democratic,1276108,27.231,True,False
+86927,AZ,Jonathon Hill,Democratic,1224900,26.138,True,False
+86927,AZ,Kevin Thompson,Republican,1091206,23.285,False,False
+86927,AZ,Ralph Heap,Republican,1020919,21.785,False,False
+86927,AZ,Mike Cease,Green,70804,1.511,False,False
+86927,AZ,Write-in,Nonpartisan,2339,0.05,False,False
+86929,AZ,Adrian Fontes,Democratic,1402340,54.882,True,False
+86929,AZ,Alexander Kolodin,Republican,1113173,43.565,False,False
+86929,AZ,Duwayne Collier,Green,38381,1.502,False,False
+86929,AZ,Write-in,Nonpartisan,1309,0.051,False,False
+159505,AZ,Democratic,Democratic,1356598,54.361,False,False
+159505,AZ,Republican,Republican,1091170,43.725,False,False
+159505,AZ,No Labels,No Labels,36338,1.456,False,False
+159505,AZ,Nonpartisan,Nonpartisan,8086,0.324,False,False
+159505,AZ,Independent,Independent,3354,0.134,False,False
+158258,AZ,No,Nonpartisan,1470755,59.934,True,False
+158258,AZ,Yes,Nonpartisan,983216,40.066,False,False
+86933,AZ,Nick Mansour,Democratic,1360017,53.858,True,False
+86933,AZ,Elijah Norton,Republican,1162900,46.052,False,False
+86933,AZ,Write-in,Nonpartisan,2262,0.09,False,False
+158259,AZ,No,Nonpartisan,1327018,53.309,True,False
+158259,AZ,Yes,Nonpartisan,1162297,46.691,False,False
+158261,AZ,Yes,Nonpartisan,1404174,56.662,True,False
+158261,AZ,No,Nonpartisan,1073964,43.338,False,False
+86928,AZ,Katie Hobbs,Democratic,1434824,55.632,True,False
+86928,AZ,Andy Biggs,Republican,1094393,42.432,False,False
+86928,AZ,Risa Lombardo,Green,24644,0.956,False,False
+86928,AZ,Teri Hourihan,No Labels,23520,0.912,False,False
+86928,AZ,Write-in,Nonpartisan,1737,0.067,False,False
+86928,AZ,Alice Novoa,Republican,18,0.001,False,False
+86928,AZ,Gertritrude Gonzalez,Republican,11,0.0,False,False
+149186,AZ,Stephanie Simacek,Democratic,44418,41.451,True,False
+149186,AZ,Justin Wilmeth,Republican,32442,30.275,True,False
+149186,AZ,Paul Carver,Republican,29930,27.931,False,False
+149186,AZ,Write-in,Nonpartisan,367,0.342,False,False
+149144,AZ,Sharron L. Sauls,Democratic,0,,False,False
+149220,AZ,Brian Fernandez,Democratic,38168,63.824,True,False
+149220,AZ,Michelle Altherr,Republican,21562,36.056,False,False
+149220,AZ,Write-in,Nonpartisan,72,0.12,False,False
+149203,AZ,Janeen Connolly,Democratic,41836,40.557,True,False
+149203,AZ,Brian Garcia,Democratic,41418,40.152,True,False
+149203,AZ,Donald Hawker,Republican,19605,19.006,False,False
+149203,AZ,Write-in,Nonpartisan,294,0.285,False,False
+149136,AZ,Steven Gayle Conner,Republican,0,,False,False
+149183,AZ,Kevin Volk,Democratic,65533,26.96,True,False
+149183,AZ,"Hollace ""Holly"" Lyon",Democratic,65219,26.831,True,False
+149183,AZ,John Winchester,Republican,57320,23.581,False,False
+149183,AZ,"Rachel ""Jones"" Keshel",Republican,54851,22.566,False,False
+149183,AZ,Write-in,Nonpartisan,150,0.062,False,False
+149170,AZ,Rebecca Padilla,Republican,0,,False,False
+158267,AZ,Yes,Nonpartisan,620074,69.89,False,False
+158267,AZ,No,Nonpartisan,267136,30.11,False,False
+149175,AZ,Selina Bliss,Republican,69444,38.83,True,False
+149175,AZ,Quang Huu Nguyen,Republican,66134,36.979,True,False
+149175,AZ,Sandy Zalecki,Democratic,42795,23.929,False,False
+149175,AZ,Write-in,Nonpartisan,343,0.192,False,False
+149175,AZ,"Charles ""Charlie"" Eakins",Libertarian,126,0.07,False,False
+149133,AZ,Karyn Lathan,Democratic,0,,False,False
+149115,AZ,Hollie Lucas,Republican,0,,False,False
+149209,AZ,Kristie O'Brien,Democratic,50676,54.989,True,False
+149209,AZ,Julie Willoughby,Republican,41421,44.947,False,False
+149209,AZ,Write-in,Nonpartisan,59,0.064,False,False
+149192,AZ,Michael Carbone,Republican,45548,35.292,True,False
+149192,AZ,"Nickolas ""Nick"" Kupper",Republican,42827,33.183,True,False
+149192,AZ,Tiffany Byrne,Democratic,40281,31.211,False,False
+149192,AZ,Write-in,Nonpartisan,406,0.315,False,False
+158271,AZ,Yes,Nonpartisan,569899,62.617,False,False
+158271,AZ,No,Nonpartisan,340229,37.383,False,False
+149236,AZ,Charlie Van Landingham,Republican,0,,False,False
+149187,AZ,Sally Ann Gonzales,Democratic,43170,49.374,True,False
+149187,AZ,Betty Villegas,Democratic,42510,48.62,True,False
+149187,AZ,Write-in,Nonpartisan,1754,2.006,False,False
+149159,AZ,Michael Sample,Republican,0,,False,False
+149109,AZ,Becky Dagget,Nonpartisan,0,,False,False
+149109,AZ,Dennis Givens,Nonpartisan,0,,False,False
+149154,AZ,Angel B. Algarin,Nonpartisan,0,,False,False
+149154,AZ,Kelly J. Barr,Nonpartisan,0,,False,False
+149154,AZ,Susan Hightower Winder,Nonpartisan,0,,False,False
+149154,AZ,"William ""Bill"" Sandweg",Nonpartisan,0,,False,False
+149137,AZ,Lupe Chavira Contreras,Democratic,0,,False,False
+149101,AZ,Samceita Begay,Democratic,0,,False,False
+149181,AZ,Neal Carter,Republican,58586,49.962,True,False
+149181,AZ,Michael Way,Republican,55594,47.41,True,False
+149181,AZ,Write-in,Nonpartisan,3081,2.627,False,False
+149196,AZ,Christine Marie Scianna,Democratic,44612,34.124,True,False
+149196,AZ,Steve Montenegro,Republican,43532,33.298,True,False
+149196,AZ,James Taylor,Republican,42126,32.222,False,False
+149196,AZ,Write-in,Nonpartisan,466,0.356,False,False
+158275,AZ,Yes,Nonpartisan,132932,73.377,False,False
+158275,AZ,No,Nonpartisan,48232,26.623,False,False
+149176,AZ,Justin Olson,Republican,45009,27.307,True,False
+149176,AZ,James Rogers,Republican,43988,26.687,True,False
+149176,AZ,Helen Hunter,Democratic,37390,22.684,False,False
+149176,AZ,Brian Calaway,Democratic,35402,21.478,False,False
+149176,AZ,David Scott,No Labels,2976,1.806,False,False
+149176,AZ,Write-in,Nonpartisan,62,0.038,False,False
+149131,AZ,Nathan F Wallace,Republican,0,,False,False
+149210,AZ,Stephanie Walsh,Democratic,48319,51.017,True,False
+149210,AZ,Mylie Biggs,Republican,46305,48.891,False,False
+149210,AZ,Write-in,Nonpartisan,87,0.092,False,False
+149200,AZ,Sarah Liguori,Democratic,54479,50.488,True,False
+149200,AZ,Aaron Marquez,Democratic,51702,47.914,True,False
+149200,AZ,Write-in,Nonpartisan,1724,1.598,False,False
+158272,AZ,Yes,Nonpartisan,473738,50.493,False,False
+158272,AZ,No,Nonpartisan,464481,49.507,False,False
+149237,AZ,Steve Bracety,Nonpartisan,0,,False,False
+149234,AZ,Kiana Maria Sears,Democratic,37000,60.554,True,False
+149234,AZ,Bridget Fitzgibbons,Republican,24047,39.356,False,False
+149234,AZ,Write-in,Nonpartisan,55,0.09,False,False
+149160,AZ,Art Miller,Nonpartisan,0,,False,False
+149160,AZ,Michael Finn,Nonpartisan,0,,False,False
+149214,AZ,Priya Sundareshan,Democratic,70184,66.155,True,False
+149214,AZ,Douglas Everett,Republican,35774,33.72,False,False
+149214,AZ,Write-in,Nonpartisan,132,0.124,False,False
+149229,AZ,Aaron Lieberman,Democratic,61825,52.369,True,False
+149229,AZ,Carine Werner,Republican,56137,47.551,False,False
+149229,AZ,Write-in,Nonpartisan,94,0.08,False,False
+149155,AZ,Donna J Davis,Nonpartisan,0,,False,False
+149155,AZ,Jack Hastings,Nonpartisan,0,,False,False
+149155,AZ,Jolynn Herber,Nonpartisan,0,,False,False
+149155,AZ,Ryan Caracciolo,Nonpartisan,0,,False,False
+149155,AZ,Woody Thomas,Nonpartisan,0,,False,False
+149120,AZ,Darren Troy Emfinger,Republican,0,,False,False
+149102,AZ,Sharon P. Smith,Nonpartisan,0,,False,False
+149102,AZ,Ted Taylor,Nonpartisan,0,,False,False
+149164,AZ,Danny Mazza,Nonpartisan,0,,False,False
+149164,AZ,Julie Read,Nonpartisan,0,,False,False
+149164,AZ,Matt Evans,Nonpartisan,0,,False,False
+149147,AZ,Desarae Tucker,Republican,0,,False,False
+158276,AZ,Yes,Nonpartisan,154413,56.15,False,False
+158276,AZ,No,Nonpartisan,120590,43.85,False,False
+149223,AZ,Flavio Bravo,Democratic,28241,77.724,True,False
+149223,AZ,Jim Bishop,Republican,8046,22.144,False,False
+149223,AZ,Write-in,Nonpartisan,48,0.132,False,False
+149174,AZ,Brian Flagg,Nonpartisan,0,,False,False
+149174,AZ,Cesar Aguirre,Nonpartisan,0,,False,False
+149174,AZ,Debbie Federico,Nonpartisan,0,,False,False
+149174,AZ,Eduardo Baca,Nonpartisan,0,,False,False
+149218,AZ,Rosanna Gabaldon,Democratic,46187,68.94,True,False
+149218,AZ,Esteban Flores,Republican,20699,30.896,False,False
+149218,AZ,Write-in,Nonpartisan,110,0.164,False,False
+149201,AZ,Mae Peshlakai,Democratic,48289,46.04,True,False
+149201,AZ,Ian Teller,Democratic,44673,42.592,True,False
+149201,AZ,Brendan Trachsel,Green,10161,9.688,False,False
+149201,AZ,Write-in,Nonpartisan,1058,1.009,False,False
+149201,AZ,"Royce ""Rj"" Mark Jenkins",Republican,705,0.672,False,False
+158270,AZ,Yes,Nonpartisan,499915,53.631,False,False
+158270,AZ,No,Nonpartisan,432215,46.369,False,False
+149235,AZ,Marie Moore,Republican,0,,False,False
+149168,AZ,Andrés Cano,Democratic,0,,False,False
+149168,AZ,Jeff Rhodes,Republican,0,,False,False
+149215,AZ,Gail Griffin,Republican,53230,57.636,True,False
+149215,AZ,Bob Karp,Democratic,38994,42.222,False,False
+149215,AZ,Write-in,Nonpartisan,131,0.142,False,False
+149195,AZ,David Livingston,Republican,61802,29.027,True,False
+149195,AZ,Beverly Pingerelli,Republican,61340,28.81,True,False
+149195,AZ,Barbara Fike,Democratic,45659,21.445,False,False
+149195,AZ,Marc Graham,Democratic,44015,20.673,False,False
+149195,AZ,Write-in,Nonpartisan,96,0.045,False,False
+149121,AZ,Jeremiah Schultz,Republican,0,,False,False
+149207,AZ,Catherine Miranda,Democratic,45902,80.87,True,False
+149207,AZ,Joshua Ayala,Republican,10794,19.017,False,False
+149207,AZ,Write-in,Nonpartisan,64,0.113,False,False
+149165,AZ,Ashley Harder,Nonpartisan,0,,False,False
+149165,AZ,Cassandra Hernandez,Nonpartisan,0,,False,False
+149165,AZ,Ed Hermes,Nonpartisan,0,,False,False
+149165,AZ,Megan Schmitz,Nonpartisan,0,,False,False
+149165,AZ,Michael Mazzocco,Nonpartisan,0,,False,False
+149165,AZ,Patricia Jimenez,Nonpartisan,0,,False,False
+149165,AZ,Robb Olivieri,Nonpartisan,0,,False,False
+149165,AZ,Zachary Lauer,Nonpartisan,0,,False,False
+149148,AZ,J.D. Mesnard,Republican,0,,False,False
+149148,AZ,Jennifer Jermaine,Democratic,0,,False,False
+149112,AZ,Heidi Torrio,Republican,0,,False,False
+149224,AZ,Kyle Clayton,Democratic,39981,53.003,True,False
+149224,AZ,Kevin Payne,Republican,35373,46.895,False,False
+149224,AZ,Write-in,Nonpartisan,77,0.102,False,False
+149125,AZ,Scott Blake,Republican,0,,False,False
+149107,AZ,Cindy Gentry-Oliveres,Nonpartisan,0,,False,False
+149107,AZ,Todd Balash,Nonpartisan,0,,False,False
+149219,AZ,Eva Diaz,Democratic,41864,97.042,True,False
+149219,AZ,Write-in,Nonpartisan,1276,2.958,False,False
+149184,AZ,Nancy Gutierrez,Democratic,66530,40.413,True,False
+149184,AZ,Chris Mathis,Democratic,62073,37.705,True,False
+149184,AZ,Bob Dohse,Republican,35485,21.555,False,False
+149184,AZ,Write-in,Nonpartisan,538,0.327,False,False
+149142,AZ,Danielle Blake,Republican,0,,False,False
+149179,AZ,"Racquel ""Rockee"" Armstrong",Democratic,47265,27.336,True,False
+149179,AZ,Jacob Weinberg,Democratic,46700,27.009,True,False
+149179,AZ,Kevin Hartke,Republican,40950,23.683,False,False
+149179,AZ,Janet Weninger,Republican,37905,21.922,False,False
+149179,AZ,Write-in,Nonpartisan,87,0.05,False,False
+149169,AZ,James Giacomino,Democratic,0,,False,False
+149134,AZ,Byron L Rhymes Jr,Democratic,0,,False,False
+149213,AZ,Edgar Soto,Democratic,70299,53.989,True,False
+149213,AZ,Christopher King,Republican,59774,45.905,False,False
+149213,AZ,Write-in,Nonpartisan,138,0.106,False,False
+149228,AZ,Leo Biasiucci,Republican,69982,98.107,True,False
+149228,AZ,Write-in,Nonpartisan,1350,1.893,False,False
+149129,AZ,Dan Diaz,Republican,0,,False,False
+149208,AZ,"Patricia ""Patty"" Contreras",Democratic,61554,70.245,True,False
+149208,AZ,Anthony Jason Ramirez,No Labels,25413,29.001,False,False
+149208,AZ,Write-in,Nonpartisan,410,0.468,False,False
+149208,AZ,Gary Hatch,Republican,251,0.286,False,False
+149163,AZ,Eva Osuna,Nonpartisan,0,,False,False
+149163,AZ,Joysaphine Waitman-Powell,Nonpartisan,0,,False,False
+149113,AZ,Madeline Montoya,Democratic,0,,False,False
+149232,AZ,Wendy Rogers,Republican,59967,60.27,True,False
+149232,AZ,"Michiel ""Mike"" Montiel",Democratic,39416,39.615,False,False
+149232,AZ,Write-in,Nonpartisan,115,0.116,False,False
+149126,AZ,Daniel Birchfield,Republican,0,,False,False
+149108,AZ,Austin Aslan,Nonpartisan,0,,False,False
+149108,AZ,Khara House,Nonpartisan,0,,False,False
+149108,AZ,Lori Matthews,Nonpartisan,0,,False,False
+149108,AZ,Nancy Baca,Nonpartisan,0,,False,False
+149108,AZ,Patty Hansen,Nonpartisan,0,,False,False
+149105,AZ,Bradley Crossland,Democratic,0,,False,False
+149185,AZ,David Gowan,Republican,49502,29.8,True,False
+149185,AZ,Lupe Diaz,Republican,45615,27.46,True,False
+149185,AZ,Jackie O'Donnell Anderson,Democratic,36375,21.897,False,False
+149185,AZ,Aiden Nicholette Swallow,Democratic,34468,20.749,False,False
+149185,AZ,Write-in,Nonpartisan,155,0.093,False,False
+149118,AZ,Jeff Dial,Republican,0,,False,False
+149118,AZ,Sebastian Seb Maximiliano Matta,Democratic,0,,False,False
+158279,AZ,Yes,Nonpartisan,135790,75.424,False,False
+158279,AZ,No,Nonpartisan,44245,24.576,False,False
+149180,AZ,Mary Rose,Democratic,46659,34.211,True,False
+149180,AZ,Tyler Andrew Farnsworth,Republican,45436,33.315,True,False
+149180,AZ,Laurin Hendrix,Republican,43822,32.131,False,False
+149180,AZ,Write-in,Nonpartisan,467,0.342,False,False
+149152,AZ,Elaissia Sears,Democratic,0,,False,False
+149135,AZ,Brandon Giles,Republican,0,,False,False
+149189,AZ,Betsy Munoz,Democratic,34432,49.235,True,False
+149189,AZ,Elda Luna-Nájera,Democratic,33683,48.164,True,False
+149189,AZ,Write-in,Nonpartisan,1819,2.601,False,False
+149172,AZ,Maya Donnelly,Democratic,0,,False,False
+149130,AZ,Mike Rowe,Republican,0,,False,False
+158273,AZ,Yes,Nonpartisan,566720,63.868,False,False
+158273,AZ,No,Nonpartisan,320612,36.132,False,False
+149206,AZ,David Christian Farnsworth,Republican,46735,52.949,True,False
+149206,AZ,Blair Moses,Democratic,38134,43.204,False,False
+149206,AZ,Nick Fierro,Independent,3354,3.8,False,False
+149206,AZ,Write-in,Nonpartisan,41,0.046,False,False
+158268,AZ,Yes,Nonpartisan,544620,60.269,False,False
+158268,AZ,No,Nonpartisan,359027,39.731,False,False
+149233,AZ,Lauren Kuby,Democratic,46138,70.054,True,False
+149233,AZ,Bill Loughrige,Republican,19652,29.839,False,False
+149233,AZ,Write-in,Nonpartisan,71,0.108,False,False
+149198,AZ,Mike Gannuscio,Republican,55763,42.026,True,False
+149198,AZ,David Rose,Republican,53355,40.211,True,False
+149198,AZ,Brian McMahan,Democratic,23292,17.554,False,False
+149198,AZ,Write-in,Nonpartisan,277,0.209,False,False
+149124,AZ,Maria Ligocki-Russell,Democratic,0,,False,False
+149139,AZ,Fred Arnett,Republican,0,,False,False
+149193,AZ,Cesar Aguilar,Democratic,26608,39.896,True,False
+149193,AZ,Quanta Crews,Democratic,24324,36.471,True,False
+149193,AZ,Frank Roberts,Republican,7417,11.121,False,False
+149193,AZ,Jonathan McKenna,Republican,7012,10.514,False,False
+149193,AZ,Hector Gomez,Green,1299,1.948,False,False
+149193,AZ,Write-in,Nonpartisan,34,0.051,False,False
+149119,AZ,Michael A Flores,Democratic,0,,False,False
+149227,AZ,John Kavanagh,Republican,79509,60.867,True,False
+149227,AZ,Jeffrey Fortney,Democratic,51022,39.059,False,False
+149227,AZ,Write-in,Nonpartisan,91,0.07,False,False
+149227,AZ,Frank Bertone,Republican,6,0.005,False,False
+149153,AZ,Heidi Marie Owens,Republican,0,,False,False
+149110,AZ,Anita Escobedo,Democratic,0,,False,False
+149110,AZ,Yvette Hoffman,Independent,0,,False,False
+149190,AZ,Emilia Cortez,Democratic,34186,32.061,True,False
+149190,AZ,Mariana Sandoval,Democratic,34172,32.048,True,False
+149190,AZ,Michele Pena,Republican,20012,18.768,False,False
+149190,AZ,Gary Garcia Snyder,Republican,18165,17.036,False,False
+149190,AZ,Write-in,Nonpartisan,94,0.088,False,False
+149173,AZ,Barry Graham,Nonpartisan,0,,False,False
+149173,AZ,Michelle Ugenti-Rita,Nonpartisan,0,,False,False
+149173,AZ,Raoul Zubia,Nonpartisan,0,,False,False
+149145,AZ,"Lizbeth ""Liz"" Feria",Republican,0,,False,False
+158274,AZ,Yes,Nonpartisan,176438,65.855,False,False
+158274,AZ,No,Nonpartisan,91479,34.145,False,False
+149157,AZ,Aleks Vranicic,Nonpartisan,0,,False,False
+149157,AZ,Alicia Goforth,Nonpartisan,0,,False,False
+149140,AZ,Jennifer Hernandez Sama,Democratic,0,,False,False
+158269,AZ,Yes,Nonpartisan,521619,55.614,False,False
+158269,AZ,No,Nonpartisan,416314,44.386,False,False
+149216,AZ,Amelia Gallitano,Democratic,43890,56.017,True,False
+149216,AZ,Shawnna Bolick,Republican,34385,43.886,False,False
+149216,AZ,Write-in,Nonpartisan,76,0.097,False,False
+149199,AZ,Tammy Caputi,Democratic,58505,26.297,True,False
+149199,AZ,Karen Gresham,Democratic,58246,26.181,True,False
+149199,AZ,Matt Gress,Republican,54995,24.719,False,False
+149199,AZ,Pamela Carter,Republican,50631,22.758,False,False
+149199,AZ,Write-in,Nonpartisan,100,0.045,False,False
+158278,AZ,Yes,Nonpartisan,177315,66.277,False,False
+158278,AZ,No,Nonpartisan,90222,33.723,False,False
+149211,AZ,Jake Hoffman,Republican,59668,57.727,True,False
+149211,AZ,Jayme Accalia,Democratic,43584,42.166,False,False
+149211,AZ,Write-in,Nonpartisan,110,0.106,False,False
+149194,AZ,Deborah Howard,Democratic,40167,37.296,False,False
+149194,AZ,Lisa Fink,Republican,33731,31.32,False,False
+149194,AZ,Tony Rivero,Republican,33418,31.029,False,False
+149194,AZ,Write-in,Nonpartisan,383,0.356,False,False
+149166,AZ,Kevin Robinson,Nonpartisan,0,,False,False
+149166,AZ,Michael Del Prete,Nonpartisan,0,,False,False
+149116,AZ,Lonnie Lewis,Republican,0,,False,False
+149161,AZ,Emily Saeteurn,Nonpartisan,0,,False,False
+149161,AZ,Jennifer Crawford,Nonpartisan,0,,False,False
+149111,AZ,Wendy Mannigel-Smith,Republican,0,,False,False
+149188,AZ,Miranda Lopez,Democratic,40391,40.221,True,False
+149188,AZ,Consuelo Hernandez,Democratic,38708,38.545,True,False
+149188,AZ,Christopher Kibbey,Republican,20863,20.775,False,False
+149188,AZ,Write-in,Nonpartisan,461,0.459,False,False
+149146,AZ,Michele Reagan,Republican,0,,False,False
+149103,AZ,Amy Hunley,Republican,0,,False,False
+149158,AZ,Christina Spurlock,Republican,0,,False,False
+149141,AZ,Deborah Ann Begay,Democratic,0,,False,False
+149138,AZ,Craig W. Wismer,Republican,0,,False,False
+149217,AZ,Alma Hernandez,Democratic,48371,95.436,True,False
+149217,AZ,Write-in,Nonpartisan,2313,4.564,False,False
+149150,AZ,Tyler Kissell,Democratic,0,,False,False
+149100,AZ,Jasmine Blackwater-Nygren,Democratic,0,,False,False
+149212,AZ,Elaine Aldrete,Democratic,41534,51.273,True,False
+149212,AZ,"Thomas ""T.J."" Shope",Republican,39354,48.582,False,False
+149212,AZ,Write-in,Nonpartisan,118,0.146,False,False
+149177,AZ,Oscar De Los Santos,Democratic,42293,41.248,True,False
+149177,AZ,Junelle Cavero,Democratic,40735,39.728,True,False
+149177,AZ,Joseph Charles Dailey,Republican,9790,9.548,False,False
+149177,AZ,Cesar Aleman,Republican,9640,9.402,False,False
+149177,AZ,Write-in,Nonpartisan,76,0.074,False,False
+149167,AZ,Frank Abasciano Jr.,Nonpartisan,0,,False,False
+149167,AZ,Jarrett Barton Maupin Jr.,Nonpartisan,0,,False,False
+149167,AZ,Kesha Hodge Washington,Nonpartisan,0,,False,False
+149221,AZ,Analise Ortiz,Democratic,29547,75.004,True,False
+149221,AZ,Frank Steele,Republican,9802,24.882,False,False
+149221,AZ,Write-in,Nonpartisan,45,0.114,False,False
+149204,AZ,Lorena Austin,Democratic,34330,36.927,True,False
+149204,AZ,Jacob D. Martinez,Democratic,34244,36.835,True,False
+149204,AZ,Bradley D. Bettencourt,Republican,24006,25.822,False,False
+149204,AZ,Write-in,Nonpartisan,386,0.415,False,False
+149162,AZ,Tad Snidecor,Nonpartisan,0,,False,False
+149127,AZ,Bridget Bellavigna,Democratic,0,,False,False
+149238,AZ,Bobbie Jo Daily,Republican,0,,False,False
+149122,AZ,Luke Thompson,Republican,0,,False,False
+149104,AZ,Billy Cloud,Republican,0,,False,False
+149230,AZ,Christine Marsh,Democratic,61086,84.28,True,False
+149230,AZ,Jason LaForest,No Labels,10925,15.073,False,False
+149230,AZ,Write-in,Nonpartisan,469,0.647,False,False
+149156,AZ,John David Crow,Nonpartisan,0,,False,False
+149156,AZ,Judy Schwiebert,Nonpartisan,0,,False,False
+149171,AZ,Juan Pablo Guzman,Democratic,0,,False,False
+149225,AZ,Frank Carroll,Republican,65621,57.975,True,False
+149225,AZ,Michael Braun,Democratic,47482,41.949,False,False
+149225,AZ,Write-in,Nonpartisan,86,0.076,False,False
+149151,AZ,Teresa Lopez,Democratic,0,,False,False
+158277,AZ,Yes,Nonpartisan,133282,73.839,False,False
+158277,AZ,No,Nonpartisan,47222,26.161,False,False
+149178,AZ,Stacey Travers,Democratic,56756,38.487,True,False
+149178,AZ,Armando Montero,Democratic,55727,37.789,True,False
+149178,AZ,David Richardson,Republican,34596,23.46,False,False
+149178,AZ,Write-in,Nonpartisan,389,0.264,False,False
+149143,AZ,Lori A. Burkhardt,Republican,0,,False,False
+149222,AZ,"Timothy ""Tim"" Dunn",Republican,50679,55.994,True,False
+149222,AZ,Laura Huber,Democratic,39765,43.935,False,False
+149222,AZ,Write-in,Nonpartisan,64,0.071,False,False
+149205,AZ,Mark Finchem,Republican,73920,62.03,True,False
+149205,AZ,Christine Ellen Dargon,Democratic,45114,37.857,False,False
+149205,AZ,Write-in,Nonpartisan,134,0.112,False,False
+149202,AZ,"Walter ""Walt"" Blackman",Republican,56666,34.877,True,False
+149202,AZ,David Cook Sr.,Republican,54213,33.367,True,False
+149202,AZ,"Samuel ""Sam"" Martin",Democratic,37995,23.385,False,False
+149202,AZ,Richard Grayson,Green,13447,8.276,False,False
+149202,AZ,Write-in,Nonpartisan,155,0.095,False,False
+149128,AZ,April Flores,Republican,0,,False,False
+149182,AZ,Julia Romero Gusse,Democratic,42928,37.013,True,False
+149182,AZ,Teresa Martinez,Republican,37259,32.125,True,False
+149182,AZ,Chris Lopez,Republican,35276,30.415,False,False
+149182,AZ,Write-in,Nonpartisan,519,0.447,False,False
+149197,AZ,Cody Reim,Republican,72895,29.854,True,False
+149197,AZ,George Khalaf,Republican,70918,29.045,True,False
+149197,AZ,Julie Gable,Democratic,51744,21.192,False,False
+149197,AZ,"Richard ""Rick"" Robert Spargo",Democratic,46788,19.162,False,False
+149197,AZ,John Skirbst,No Labels,1729,0.708,False,False
+149197,AZ,Write-in,Nonpartisan,96,0.039,False,False
+149123,AZ,Darlene T Martinez,Democratic,0,,False,False
+158266,AZ,Yes,Nonpartisan,575756,62.854,False,False
+158266,AZ,No,Nonpartisan,340267,37.146,False,False
+149231,AZ,Jamescita Peshlakai,Democratic,57641,72.677,True,False
+149231,AZ,Lloyd Johnson,Republican,21502,27.111,False,False
+149231,AZ,Write-in,Nonpartisan,168,0.212,False,False
+149132,AZ,Mahogany Kennedy,Democratic,0,,False,False
+149114,AZ,Kari Ann Noeltner,Republican,0,,False,False
+149226,AZ,Janae Shamp,Republican,46975,51.206,True,False
+149226,AZ,Eric Stafford,Democratic,44680,48.704,False,False
+149226,AZ,Write-in,Nonpartisan,82,0.089,False,False
+149191,AZ,Alberto Flores,Democratic,26343,42.509,True,False
+149191,AZ,Lisbeth Arescurenaga,Democratic,25413,41.009,True,False
+149191,AZ,Delores McLaughlin,Republican,10050,16.218,False,False
+149191,AZ,Write-in,Nonpartisan,164,0.265,False,False
+149149,AZ,Rebecca Rios,Democratic,0,,False,False
+86919,AZ,Yassamin Ansari,Democratic,130716,86.64,True,False
+86919,AZ,Alan Aversa,No Labels,9068,6.01,False,False
+86919,AZ,David Redkey,Green,7782,5.158,False,False
+86919,AZ,Jacob Parkman,Republican,2020,1.339,False,False
+86919,AZ,Write-in,Nonpartisan,1286,0.852,False,False
+86920,AZ,Greg Stanton,Democratic,159251,62.302,True,False
+86920,AZ,Zuhdi Jasser,Republican,89811,35.136,False,False
+86920,AZ,Tisha Benoit,No Labels,5986,2.342,False,False
+86920,AZ,Write-in,Nonpartisan,493,0.193,False,False
+86920,AZ,Steven Sanders,No Labels,70,0.027,False,False
+86925,AZ,Paul Gosar,Republican,166469,57.406,True,False
+86925,AZ,Danielle Sterbinsky,Democratic,123129,42.46,False,False
+86925,AZ,Write-in,Nonpartisan,316,0.109,False,False
+86925,AZ,William Perry,Independent,47,0.016,False,False
+86925,AZ,G. Seville Hatch,Independent,26,0.009,False,False
+86923,AZ,Adelita Grijalva,Democratic,148177,71.839,True,False
+86923,AZ,Daniel Butierez,Republican,57712,27.98,False,False
+86923,AZ,Write-in,Nonpartisan,374,0.181,False,False
+86924,AZ,Abraham Hamadeh,Republican,147023,51.08,True,False
+86924,AZ,Bernadette Greene-Placentia,Democratic,140203,48.711,False,False
+86924,AZ,Write-in,Nonpartisan,601,0.209,False,False
+86918,AZ,Eli Crane,Republican,163530,49.576,True,False
+86918,AZ,Jonathan Nez,Democratic,160084,48.531,False,False
+86918,AZ,Curtis Goodwin,Libertarian,6042,1.832,False,False
+86918,AZ,Write-in,Nonpartisan,201,0.061,False,False
+86917,AZ,Amish Shah,Democratic,185813,52.356,True,False
+86917,AZ,Jay Feely,Republican,161118,45.398,False,False
+86917,AZ,Monica Alponte,Libertarian,7700,2.17,False,False
+86917,AZ,Write-in,Nonpartisan,243,0.068,False,False
+86917,AZ,Gage Dylan Thunder,Other,15,0.004,False,False
+86917,AZ,Dev Gupta,Independent,14,0.004,False,False
+86922,AZ,JoAnna Mendoza,Democratic,190058,52.908,True,False
+86922,AZ,Juan Ciscomani,Republican,160972,44.811,False,False
+86922,AZ,Jereme Peters,Libertarian,4514,1.257,False,False
+86922,AZ,Gary Swing,Green,3264,0.909,False,False
+86922,AZ,Write-in,Nonpartisan,326,0.091,False,False
+86922,AZ,Michael Dorland,Independent,90,0.025,False,False
+86921,AZ,Mark Lamb,Republican,167969,51.592,True,False
+86921,AZ,Elizabeth Lee,Democratic,157036,48.234,False,False
+86921,AZ,Write-in,Nonpartisan,569,0.175,False,False
