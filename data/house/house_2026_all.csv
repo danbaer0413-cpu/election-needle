@@ -1,0 +1,1428 @@
+state,district,candidate,party,votes,pct,winner,pct_in,race_id,race_name,as_of
+AL,1,Jerry Carl,Republican,137025,59.07,True,95.5,86900,Alabama US House 1,2026-11-18T12:28+00:00
+AL,1,Clyde Jones,Democratic,94940,40.93,False,95.5,86900,Alabama US House 1,2026-11-18T12:28+00:00
+AL,2,Shomari Figures,Democratic,124422,53.75,True,98.4,86901,Alabama US House 2,2026-11-18T12:28+00:00
+AL,2,Rhett Marques,Republican,107049,46.25,False,98.4,86901,Alabama US House 2,2026-11-18T12:28+00:00
+AL,3,Mike Rogers,Republican,141800,63.95,True,95.4,86902,Alabama US House 3,2026-11-18T12:28+00:00
+AL,3,Lee McInnis,Democratic,79926,36.05,False,95.4,86902,Alabama US House 3,2026-11-18T12:28+00:00
+AL,4,Robert Aderholt,Republican,160008,74.9,True,92.2,86903,Alabama US House 4,2026-11-18T12:28+00:00
+AL,4,Amanda Pusczek,Democratic,53633,25.1,False,92.2,86903,Alabama US House 4,2026-11-18T12:28+00:00
+AL,5,Dale Strong,Republican,142080,53.24,True,99,86904,Alabama US House 5,2026-11-18T12:28+00:00
+AL,5,Andrew Sneed,Democratic,124763,46.76,False,99,86904,Alabama US House 5,2026-11-18T12:28+00:00
+AL,6,Gary Palmer,Republican,149921,57.47,True,99,86905,Alabama US House 6,2026-11-18T12:28+00:00
+AL,6,Maurice Mercer,Democratic,110957,42.53,False,99,86905,Alabama US House 6,2026-11-18T12:28+00:00
+AL,7,Terri Sewell,Democratic,174823,69.4,True,98.3,86906,Alabama US House 7,2026-11-18T12:28+00:00
+AL,7,Ammie Akin,Republican,77085,30.6,False,98.3,86906,Alabama US House 7,2026-11-18T12:28+00:00
+AK,0,Nick Begich III,Republican,136215,47.61,False,98.2,86915,Alaska US House At-Large,2026-11-18T12:28+00:00
+AK,0,Bill Hill,Nonpartisan,119689,41.83,False,98.2,86915,Alaska US House At-Large,2026-11-18T12:28+00:00
+AK,0,Eric Hafner,Democratic,22669,7.92,False,98.2,86915,Alaska US House At-Large,2026-11-18T12:28+00:00
+AK,0,"James C. ""Jim"" McDermott",Libertarian,7533,2.63,False,98.2,86915,Alaska US House At-Large,2026-11-18T12:28+00:00
+AZ,1,Amish Shah,Democratic,185813,52.36,True,80.1,86917,Arizona US House 1,2026-11-18T12:28+00:00
+AZ,1,Jay Feely,Republican,161118,45.4,False,80.1,86917,Arizona US House 1,2026-11-18T12:28+00:00
+AZ,1,Monica Alponte,Libertarian,7700,2.17,False,80.1,86917,Arizona US House 1,2026-11-18T12:28+00:00
+AZ,1,Write-in,Nonpartisan,243,0.07,False,80.1,86917,Arizona US House 1,2026-11-18T12:28+00:00
+AZ,1,Gage Dylan Thunder,Other,15,0.0,False,80.1,86917,Arizona US House 1,2026-11-18T12:28+00:00
+AZ,1,Dev Gupta,Independent,14,0.0,False,80.1,86917,Arizona US House 1,2026-11-18T12:28+00:00
+AZ,2,Eli Crane,Republican,163530,49.58,True,80.9,86918,Arizona US House 2,2026-11-18T12:28+00:00
+AZ,2,Jonathan Nez,Democratic,160084,48.53,False,80.9,86918,Arizona US House 2,2026-11-18T12:28+00:00
+AZ,2,Curtis Goodwin,Libertarian,6042,1.83,False,80.9,86918,Arizona US House 2,2026-11-18T12:28+00:00
+AZ,2,Write-in,Nonpartisan,201,0.06,False,80.9,86918,Arizona US House 2,2026-11-18T12:28+00:00
+AZ,3,Yassamin Ansari,Democratic,130716,86.64,True,80.1,86919,Arizona US House 3,2026-11-18T12:28+00:00
+AZ,3,Alan Aversa,No Labels,9068,6.01,False,80.1,86919,Arizona US House 3,2026-11-18T12:28+00:00
+AZ,3,David Redkey,Green,7782,5.16,False,80.1,86919,Arizona US House 3,2026-11-18T12:28+00:00
+AZ,3,Jacob Parkman,Republican,2020,1.34,False,80.1,86919,Arizona US House 3,2026-11-18T12:28+00:00
+AZ,3,Write-in,Nonpartisan,1286,0.85,False,80.1,86919,Arizona US House 3,2026-11-18T12:28+00:00
+AZ,4,Greg Stanton,Democratic,159251,62.3,True,80.1,86920,Arizona US House 4,2026-11-18T12:28+00:00
+AZ,4,Zuhdi Jasser,Republican,89811,35.14,False,80.1,86920,Arizona US House 4,2026-11-18T12:28+00:00
+AZ,4,Tisha Benoit,No Labels,5986,2.34,False,80.1,86920,Arizona US House 4,2026-11-18T12:28+00:00
+AZ,4,Write-in,Nonpartisan,493,0.19,False,80.1,86920,Arizona US House 4,2026-11-18T12:28+00:00
+AZ,4,Steven Sanders,No Labels,70,0.03,False,80.1,86920,Arizona US House 4,2026-11-18T12:28+00:00
+AZ,5,Mark Lamb,Republican,167969,51.59,True,81,86921,Arizona US House 5,2026-11-18T12:28+00:00
+AZ,5,Elizabeth Lee,Democratic,157036,48.23,False,81,86921,Arizona US House 5,2026-11-18T12:28+00:00
+AZ,5,Write-in,Nonpartisan,569,0.17,False,81,86921,Arizona US House 5,2026-11-18T12:28+00:00
+AZ,6,JoAnna Mendoza,Democratic,190058,52.91,True,84.1,86922,Arizona US House 6,2026-11-18T12:28+00:00
+AZ,6,Juan Ciscomani,Republican,160972,44.81,False,84.1,86922,Arizona US House 6,2026-11-18T12:28+00:00
+AZ,6,Jereme Peters,Libertarian,4514,1.26,False,84.1,86922,Arizona US House 6,2026-11-18T12:28+00:00
+AZ,6,Gary Swing,Green,3264,0.91,False,84.1,86922,Arizona US House 6,2026-11-18T12:28+00:00
+AZ,6,Write-in,Nonpartisan,326,0.09,False,84.1,86922,Arizona US House 6,2026-11-18T12:28+00:00
+AZ,6,Michael Dorland,Independent,90,0.03,False,84.1,86922,Arizona US House 6,2026-11-18T12:28+00:00
+AZ,7,Adelita Grijalva,Democratic,148177,71.84,True,82.7,86923,Arizona US House 7,2026-11-18T12:28+00:00
+AZ,7,Daniel Butierez,Republican,57712,27.98,False,82.7,86923,Arizona US House 7,2026-11-18T12:28+00:00
+AZ,7,Write-in,Nonpartisan,374,0.18,False,82.7,86923,Arizona US House 7,2026-11-18T12:28+00:00
+AZ,8,Abraham Hamadeh,Republican,147023,51.08,True,80.1,86924,Arizona US House 8,2026-11-18T12:28+00:00
+AZ,8,Bernadette Greene-Placentia,Democratic,140203,48.71,False,80.1,86924,Arizona US House 8,2026-11-18T12:28+00:00
+AZ,8,Write-in,Nonpartisan,601,0.21,False,80.1,86924,Arizona US House 8,2026-11-18T12:28+00:00
+AZ,9,Paul Gosar,Republican,166469,57.41,True,74.5,86925,Arizona US House 9,2026-11-18T12:28+00:00
+AZ,9,Danielle Sterbinsky,Democratic,123129,42.46,False,74.5,86925,Arizona US House 9,2026-11-18T12:28+00:00
+AZ,9,Write-in,Nonpartisan,316,0.11,False,74.5,86925,Arizona US House 9,2026-11-18T12:28+00:00
+AZ,9,William Perry,Independent,47,0.02,False,74.5,86925,Arizona US House 9,2026-11-18T12:28+00:00
+AZ,9,G. Seville Hatch,Independent,26,0.01,False,74.5,86925,Arizona US House 9,2026-11-18T12:28+00:00
+AR,1,Rick Crawford,Republican,127253,65.41,True,85.8,86945,Arkansas US House 1,2026-11-18T12:28+00:00
+AR,1,Terri Yarbrough Green,Democratic,60338,31.01,False,85.8,86945,Arkansas US House 1,2026-11-18T12:28+00:00
+AR,1,Steve G. Parsons,Libertarian,6955,3.57,False,85.8,86945,Arkansas US House 1,2026-11-18T12:28+00:00
+AR,2,French Hill,Republican,127649,50.81,True,91.2,86946,Arkansas US House 2,2026-11-18T12:28+00:00
+AR,2,Chris Jones,Democratic,123567,49.19,False,91.2,86946,Arkansas US House 2,2026-11-18T12:28+00:00
+AR,3,Steve Womack,Republican,127497,54.83,True,93.6,86947,Arkansas US House 3,2026-11-18T12:28+00:00
+AR,3,Robb Ryerse,Democratic,96591,41.54,False,93.6,86947,Arkansas US House 3,2026-11-18T12:28+00:00
+AR,3,Bobby Wilson,Libertarian,8427,3.62,False,93.6,86947,Arkansas US House 3,2026-11-18T12:28+00:00
+AR,4,Bruce Westerman,Republican,131510,65.47,True,85.4,86948,Arkansas US House 4,2026-11-18T12:28+00:00
+AR,4,James Russell,Democratic,69372,34.53,False,85.4,86948,Arkansas US House 4,2026-11-18T12:28+00:00
+CA,1,Mike McGuire,Democratic,168056,58.72,True,94.5,86968,California US House 1,2026-11-18T12:28+00:00
+CA,1,James Gallagher,Republican,118144,41.28,False,94.5,86968,California US House 1,2026-11-18T12:28+00:00
+CA,2,Jared Huffman,Democratic,211029,66.52,True,92.6,86979,California US House 2,2026-11-18T12:28+00:00
+CA,2,Robin Littau,Republican,106197,33.48,False,92.6,86979,California US House 2,2026-11-18T12:28+00:00
+CA,3,Ami Bera,Democratic,176968,58.71,True,90.9,86990,California US House 3,2026-11-18T12:28+00:00
+CA,3,Robb Tucker,Republican,124450,41.29,False,90.9,86990,California US House 3,2026-11-18T12:28+00:00
+CA,4,Eric Jones,Democratic,133646,52.54,True,89.8,87001,California US House 4,2026-11-18T12:28+00:00
+CA,4,Mike Thompson,Democratic,120747,47.46,False,89.8,87001,California US House 4,2026-11-18T12:28+00:00
+CA,5,Tom McClintock,Republican,164058,55.65,True,96.2,87005,California US House 5,2026-11-18T12:28+00:00
+CA,5,Michael Masuda,Democratic,130750,44.35,False,96.2,87005,California US House 5,2026-11-18T12:28+00:00
+CA,6,Richard Pan,Democratic,159679,58.85,True,90.8,87006,California US House 6,2026-11-18T12:28+00:00
+CA,6,Kevin Kiley,No Party Preference,111663,41.15,False,90.8,87006,California US House 6,2026-11-18T12:28+00:00
+CA,7,Doris Matsui,Democratic,132239,52.41,True,88.3,87007,California US House 7,2026-11-18T12:28+00:00
+CA,7,Mai Vang,Democratic,120074,47.59,False,88.3,87007,California US House 7,2026-11-18T12:28+00:00
+CA,8,John Garamendi,Democratic,189185,73.42,True,94.9,87008,California US House 8,2026-11-18T12:28+00:00
+CA,8,Rudy Recile,Republican,68485,26.58,False,94.9,87008,California US House 8,2026-11-18T12:28+00:00
+CA,9,Josh Harder,Democratic,143330,67.15,True,94.2,87009,California US House 9,2026-11-18T12:28+00:00
+CA,9,John McBride,Republican,70118,32.85,False,94.2,87009,California US House 9,2026-11-18T12:28+00:00
+CA,10,Mark DeSaulnier,Democratic,213271,69.7,True,92.8,86958,California US House 10,2026-11-18T12:28+00:00
+CA,10,Jeff Frese,Republican,92693,30.3,False,92.8,86958,California US House 10,2026-11-18T12:28+00:00
+CA,11,Scott Wiener,Democratic,160970,53.3,True,92.8,86959,California US House 11,2026-11-18T12:28+00:00
+CA,11,Connie Chan,Democratic,141021,46.7,False,92.8,86959,California US House 11,2026-11-18T12:28+00:00
+CA,12,Lateefah Simon,Democratic,207160,80.41,True,87.9,86960,California US House 12,2026-11-18T12:28+00:00
+CA,12,Jamie Joyce,Democratic,50459,19.59,False,87.9,86960,California US House 12,2026-11-18T12:28+00:00
+CA,13,Adam Gray,Democratic,109031,62.69,True,99,86961,California US House 13,2026-11-18T12:28+00:00
+CA,13,Kevin Lincoln,Republican,64900,37.31,False,99,86961,California US House 13,2026-11-18T12:28+00:00
+CA,14,Aisha Wahab,Democratic,122290,57.57,True,87.9,86962,California US House 14,2026-11-18T12:28+00:00
+CA,14,Melissa Hernandez,Democratic,90133,42.43,False,87.9,86962,California US House 14,2026-11-18T12:28+00:00
+CA,15,Kevin Mullin,Democratic,196894,79.95,True,93.9,86963,California US House 15,2026-11-18T12:28+00:00
+CA,15,Charles Hoelter,Republican,49371,20.05,False,93.9,86963,California US House 15,2026-11-18T12:28+00:00
+CA,16,Sam Liccardo,Democratic,219560,77.99,True,93.7,86964,California US House 16,2026-11-18T12:28+00:00
+CA,16,Peter Sundin Soulé,Republican,61974,22.01,False,93.7,86964,California US House 16,2026-11-18T12:28+00:00
+CA,17,Ro Khanna,Democratic,154449,72.77,True,92.8,86965,California US House 17,2026-11-18T12:28+00:00
+CA,17,Ritesh Tandon,Republican,57803,27.23,False,92.8,86965,California US House 17,2026-11-18T12:28+00:00
+CA,18,Zoe Lofgren,Democratic,145594,73.07,True,96.1,86966,California US House 18,2026-11-18T12:28+00:00
+CA,18,Shane Lewis,Republican,53664,26.93,False,96.1,86966,California US House 18,2026-11-18T12:28+00:00
+CA,19,Jimmy Panetta,Democratic,223452,71.99,True,95.6,86967,California US House 19,2026-11-18T12:28+00:00
+CA,19,Peter Verbica,Republican,86961,28.01,False,95.6,86967,California US House 19,2026-11-18T12:28+00:00
+CA,20,Vince Fong,Republican,153467,61.24,True,97.9,86969,California US House 20,2026-11-18T12:28+00:00
+CA,20,Sandra Van Scotter,Democratic,97116,38.76,False,97.9,86969,California US House 20,2026-11-18T12:28+00:00
+CA,21,Jim Costa,Democratic,106887,64.71,True,95.6,86970,California US House 21,2026-11-18T12:28+00:00
+CA,21,Kyle Kirkland,Republican,58297,35.29,False,95.6,86970,California US House 21,2026-11-18T12:28+00:00
+CA,22,Randy Villegas,Democratic,101088,67.84,True,97.5,86971,California US House 22,2026-11-18T12:28+00:00
+CA,22,David Valadao,Republican,47922,32.16,False,97.5,86971,California US House 22,2026-11-18T12:28+00:00
+CA,23,Jay Obernolte,Republican,109355,50.82,True,98.8,86972,California US House 23,2026-11-18T12:28+00:00
+CA,23,Tessa Lynn Hodge,Democratic,105808,49.18,False,98.8,86972,California US House 23,2026-11-18T12:28+00:00
+CA,24,Salud Carbajal,Democratic,194958,66.3,True,96.7,86973,California US House 24,2026-11-18T12:28+00:00
+CA,24,Bob Smith,Republican,99086,33.7,False,96.7,86973,California US House 24,2026-11-18T12:28+00:00
+CA,25,Raul Ruiz,Democratic,142710,65.91,True,94.6,86974,California US House 25,2026-11-18T12:28+00:00
+CA,25,Joe Males,Republican,73822,34.09,False,94.6,86974,California US House 25,2026-11-18T12:28+00:00
+CA,26,Jacqui Irwin,Democratic,178099,63.46,True,97.2,86975,California US House 26,2026-11-18T12:28+00:00
+CA,26,Sam Gallucci,Republican,102561,36.54,False,97.2,86975,California US House 26,2026-11-18T12:28+00:00
+CA,27,George Whitesides,Democratic,149140,64.22,True,94.2,86976,California US House 27,2026-11-18T12:28+00:00
+CA,27,Jason Gibbs,Republican,83104,35.78,False,94.2,86976,California US House 27,2026-11-18T12:28+00:00
+CA,28,Judy Chu,Democratic,181538,69.6,True,95.2,86977,California US House 28,2026-11-18T12:28+00:00
+CA,28,April Verlato,Republican,79276,30.4,False,95.2,86977,California US House 28,2026-11-18T12:28+00:00
+CA,29,Luz Rivas,Democratic,100194,57.27,True,94.2,86978,California US House 29,2026-11-18T12:28+00:00
+CA,29,Angélica María Dueñas,Democratic,74743,42.73,False,94.2,86978,California US House 29,2026-11-18T12:28+00:00
+CA,30,Laura Friedman,Democratic,201787,77.64,True,94.2,86980,California US House 30,2026-11-18T12:28+00:00
+CA,30,Scott Meyers,Republican,58127,22.36,False,94.2,86980,California US House 30,2026-11-18T12:28+00:00
+CA,31,Gil Cisneros,Democratic,158314,66.4,True,94.9,86981,California US House 31,2026-11-18T12:28+00:00
+CA,31,Eric Ching,Republican,80112,33.6,False,94.9,86981,California US House 31,2026-11-18T12:28+00:00
+CA,32,Brad Sherman,Democratic,185257,67.12,True,95,86982,California US House 32,2026-11-18T12:28+00:00
+CA,32,Larry Thompson,Republican,90732,32.88,False,95,86982,California US House 32,2026-11-18T12:28+00:00
+CA,33,Pete Aguilar,Democratic,139999,68.95,True,99,86983,California US House 33,2026-11-18T12:28+00:00
+CA,33,Stephanie Vargas,Republican,63036,31.05,False,99,86983,California US House 33,2026-11-18T12:28+00:00
+CA,34,Angela Gonzales-Torres,Democratic,108707,62.2,True,94.2,86984,California US House 34,2026-11-18T12:28+00:00
+CA,34,Jimmy Gomez,Democratic,66062,37.8,False,94.2,86984,California US House 34,2026-11-18T12:28+00:00
+CA,35,Norma Torres,Democratic,139981,66.85,True,97.1,86985,California US House 35,2026-11-18T12:28+00:00
+CA,35,Mike Cargile,Republican,69430,33.15,False,97.1,86985,California US House 35,2026-11-18T12:28+00:00
+CA,36,Ted Lieu,Democratic,224104,73.03,True,94.2,86986,California US House 36,2026-11-18T12:28+00:00
+CA,36,Houston Brignano,Republican,82747,26.97,False,94.2,86986,California US House 36,2026-11-18T12:28+00:00
+CA,37,Sydney Kamlager-Dove,Democratic,111585,60.79,True,94.2,86987,California US House 37,2026-11-18T12:28+00:00
+CA,37,Samantha Mota,Democratic,71965,39.21,False,94.2,86987,California US House 37,2026-11-18T12:28+00:00
+CA,38,Hilda Solis,Democratic,145447,67.46,True,94.3,86988,California US House 38,2026-11-18T12:28+00:00
+CA,38,Pedro Antonio Casas,Republican,70166,32.54,False,94.3,86988,California US House 38,2026-11-18T12:28+00:00
+CA,39,Mark Takano,Democratic,130980,69.01,True,93.1,86989,California US House 39,2026-11-18T12:28+00:00
+CA,39,Steve Manos,Republican,58831,30.99,False,93.1,86989,California US House 39,2026-11-18T12:28+00:00
+CA,40,Ken Calvert,Republican,129655,52.56,True,93.6,86991,California US House 40,2026-11-18T12:28+00:00
+CA,40,Young Kim,Republican,117018,47.44,False,93.6,86991,California US House 40,2026-11-18T12:28+00:00
+CA,41,Linda Sánchez,Democratic,171235,67.59,True,94.3,86992,California US House 41,2026-11-18T12:28+00:00
+CA,41,Mitch Clemmons,Republican,82109,32.41,False,94.3,86992,California US House 41,2026-11-18T12:28+00:00
+CA,42,Robert Garcia,Democratic,175453,61.96,True,94.6,86993,California US House 42,2026-11-18T12:28+00:00
+CA,42,Brian Burley,Republican,107715,38.04,False,94.6,86993,California US House 42,2026-11-18T12:28+00:00
+CA,43,Maxine Waters,Democratic,156172,82.97,True,94.2,86994,California US House 43,2026-11-18T12:28+00:00
+CA,43,Cristian Morales,Republican,32056,17.03,False,94.2,86994,California US House 43,2026-11-18T12:28+00:00
+CA,44,Nanette Barragán,Democratic,148865,81.77,True,94.2,86995,California US House 44,2026-11-18T12:28+00:00
+CA,44,Genevieve Angel,Republican,33184,18.23,False,94.2,86995,California US House 44,2026-11-18T12:28+00:00
+CA,45,Derek Tran,Democratic,151887,61.02,True,94.7,86996,California US House 45,2026-11-18T12:28+00:00
+CA,45,Chuong Vo,Republican,97027,38.98,False,94.7,86996,California US House 45,2026-11-18T12:28+00:00
+CA,46,Lou Correa,Democratic,139693,71.55,True,94.8,86997,California US House 46,2026-11-18T12:28+00:00
+CA,46,David Pan,Republican,55535,28.45,False,94.8,86997,California US House 46,2026-11-18T12:28+00:00
+CA,47,Dave Min,Democratic,167075,58.58,True,94.8,86998,California US House 47,2026-11-18T12:28+00:00
+CA,47,Jenny Le Roux,Republican,118136,41.42,False,94.8,86998,California US House 47,2026-11-18T12:28+00:00
+CA,48,Marni von Wilpert,Democratic,165082,59.74,True,95.4,86999,California US House 48,2026-11-18T12:28+00:00
+CA,48,Jim Desmond,Republican,111244,40.26,False,95.4,86999,California US House 48,2026-11-18T12:28+00:00
+CA,49,Mike Levin,Democratic,192196,59.51,True,97.2,87000,California US House 49,2026-11-18T12:28+00:00
+CA,49,Armen Kurdian,Republican,130775,40.49,False,97.2,87000,California US House 49,2026-11-18T12:28+00:00
+CA,50,Scott Peters,Democratic,197145,63.71,True,97.7,87002,California US House 50,2026-11-18T12:28+00:00
+CA,50,Steve Cohen,Republican,112315,36.29,False,97.7,87002,California US House 50,2026-11-18T12:28+00:00
+CA,51,Sara Jacobs,Democratic,191997,66.18,True,97.7,87003,California US House 51,2026-11-18T12:28+00:00
+CA,51,Ricardo Cabrera,Republican,98103,33.82,False,97.7,87003,California US House 51,2026-11-18T12:28+00:00
+CA,52,Juan Vargas,Democratic,158278,71.79,True,97.7,87004,California US House 52,2026-11-18T12:28+00:00
+CA,52,Jeff Belle,Republican,62184,28.21,False,97.7,87004,California US House 52,2026-11-18T12:28+00:00
+CO,1,Melat Kiros,Democratic,239082,78.36,True,90.9,87010,Colorado US House 1,2026-11-18T12:28+00:00
+CO,1,Christy Peterson,Republican,43070,14.12,False,90.9,87010,Colorado US House 1,2026-11-18T12:28+00:00
+CO,1,Shimon Blau,Independent,16650,5.46,False,90.9,87010,Colorado US House 1,2026-11-18T12:28+00:00
+CO,1,Chad Humphrey,Libertarian,5172,1.7,False,90.9,87010,Colorado US House 1,2026-11-18T12:28+00:00
+CO,1,Critter Milton,Unity,1136,0.37,False,90.9,87010,Colorado US House 1,2026-11-18T12:28+00:00
+CO,1,Kevin StClair,Write-In,0,0.0,False,90.9,87010,Colorado US House 1,2026-11-18T12:28+00:00
+CO,1,John Wren,Write-In,0,0.0,False,90.9,87010,Colorado US House 1,2026-11-18T12:28+00:00
+CO,1,Stephen Replin,Write-In,0,0.0,False,90.9,87010,Colorado US House 1,2026-11-18T12:28+00:00
+CO,2,Joe Neguse,Democratic,278499,74.68,True,95.2,87011,Colorado US House 2,2026-11-18T12:28+00:00
+CO,2,Kelley Anne Dennison,Republican,87354,23.42,False,95.2,87011,Colorado US House 2,2026-11-18T12:28+00:00
+CO,2,Gaylon Kent,Libertarian,7075,1.9,False,95.2,87011,Colorado US House 2,2026-11-18T12:28+00:00
+CO,3,Jeff Hurd,Republican,165497,49.25,True,92.3,87012,Colorado US House 3,2026-11-18T12:28+00:00
+CO,3,Dwayne L. Romero,Democratic,159512,47.47,False,92.3,87012,Colorado US House 3,2026-11-18T12:28+00:00
+CO,3,Cory Robertson,Libertarian,5645,1.68,False,92.3,87012,Colorado US House 3,2026-11-18T12:28+00:00
+CO,3,Clifton Brown,Independent,5400,1.61,False,92.3,87012,Colorado US House 3,2026-11-18T12:28+00:00
+CO,4,Eileen Laubacher,Democratic,187745,48.8,True,92,87013,Colorado US House 4,2026-11-18T12:28+00:00
+CO,4,Lauren Boebert,Republican,184220,47.89,False,92,87013,Colorado US House 4,2026-11-18T12:28+00:00
+CO,4,Douglas Mangeris,Libertarian,12742,3.31,False,92,87013,Colorado US House 4,2026-11-18T12:28+00:00
+CO,4,Luis Galvan,Write-In,0,0.0,False,92,87013,Colorado US House 4,2026-11-18T12:28+00:00
+CO,5,Jessica Killin,Democratic,157799,50.7,True,95.8,87014,Colorado US House 5,2026-11-18T12:28+00:00
+CO,5,Jeff Crank,Republican,141984,45.61,False,95.8,87014,Colorado US House 5,2026-11-18T12:28+00:00
+CO,5,"Mark ""Marky Jr"" Elworth",Libertarian,6088,1.96,False,95.8,87014,Colorado US House 5,2026-11-18T12:28+00:00
+CO,5,Christopher Mitchell,American Constitution,5397,1.73,False,95.8,87014,Colorado US House 5,2026-11-18T12:28+00:00
+CO,5,Steven Fuller,Write-In,0,0.0,False,95.8,87014,Colorado US House 5,2026-11-18T12:28+00:00
+CO,6,Jason Crow,Democratic,195047,65.73,True,92.7,87015,Colorado US House 6,2026-11-18T12:28+00:00
+CO,6,Jason Clark,Republican,92314,31.11,False,92.7,87015,Colorado US House 6,2026-11-18T12:28+00:00
+CO,6,Patty McMahon,Libertarian,4687,1.58,False,92.7,87015,Colorado US House 6,2026-11-18T12:28+00:00
+CO,6,Samir Witta,Independent,2761,0.93,False,92.7,87015,Colorado US House 6,2026-11-18T12:28+00:00
+CO,6,Meredith Ryan,Unity,1916,0.65,False,92.7,87015,Colorado US House 6,2026-11-18T12:28+00:00
+CO,7,Brittany Pettersen,Democratic,230008,60.71,True,96.3,87016,Colorado US House 7,2026-11-18T12:28+00:00
+CO,7,Tim Bennett,Republican,136948,36.15,False,96.3,87016,Colorado US House 7,2026-11-18T12:28+00:00
+CO,7,Joe Krzeczkowski,Independent,4539,1.2,False,96.3,87016,Colorado US House 7,2026-11-18T12:28+00:00
+CO,7,"Dan ""Kilo"" Sallis",Libertarian,4216,1.11,False,96.3,87016,Colorado US House 7,2026-11-18T12:28+00:00
+CO,7,Susan Hall,Unity,1802,0.48,False,96.3,87016,Colorado US House 7,2026-11-18T12:28+00:00
+CO,7,Lawrence Kyle Clark,American Constitution,1323,0.35,False,96.3,87016,Colorado US House 7,2026-11-18T12:28+00:00
+CO,8,Manny Rutinel,Democratic,160954,55.51,True,98.9,87017,Colorado US House 8,2026-11-18T12:28+00:00
+CO,8,Gabe Evans,Republican,117709,40.6,False,98.9,87017,Colorado US House 8,2026-11-18T12:28+00:00
+CO,8,Dave Wood,Libertarian,11268,3.89,False,98.9,87017,Colorado US House 8,2026-11-18T12:28+00:00
+CT,1,Luke Bronin,Democratic,170482,67.28,True,79.7,87023,Connecticut US House 1,2026-11-18T12:28+00:00
+CT,1,Amy Chai,Republican,78462,30.96,False,79.7,87023,Connecticut US House 1,2026-11-18T12:28+00:00
+CT,1,Mary L. Sanders,Green,4435,1.75,False,79.7,87023,Connecticut US House 1,2026-11-18T12:28+00:00
+CT,1,Mark Stewart Greenstein,Write-In,17,0.01,False,79.7,87023,Connecticut US House 1,2026-11-18T12:28+00:00
+CT,2,Joe Courtney,Democratic,182381,62.45,True,83,87027,Connecticut US House 2,2026-11-18T12:28+00:00
+CT,2,George Austin,Republican,109653,37.54,False,83,87027,Connecticut US House 2,2026-11-18T12:28+00:00
+CT,2,Kyle Gauck,Write-In,30,0.01,False,83,87027,Connecticut US House 2,2026-11-18T12:28+00:00
+CT,3,Rosa DeLauro,Democratic,151261,61.21,True,93.6,87028,Connecticut US House 3,2026-11-18T12:28+00:00
+CT,3,Christopher Lancia,Republican,87885,35.56,False,93.6,87028,Connecticut US House 3,2026-11-18T12:28+00:00
+CT,3,Thomas Egan,Independent,7322,2.96,False,93.6,87028,Connecticut US House 3,2026-11-18T12:28+00:00
+CT,3,Andrew Rice,Write-In,663,0.27,False,93.6,87028,Connecticut US House 3,2026-11-18T12:28+00:00
+CT,4,Jim Himes,Democratic,157485,65.58,True,98.8,87024,Connecticut US House 4,2026-11-18T12:28+00:00
+CT,4,Michael Goldstein,Republican,78059,32.51,False,98.8,87024,Connecticut US House 4,2026-11-18T12:28+00:00
+CT,4,Benjamin Wesley,Independent,4594,1.91,False,98.8,87024,Connecticut US House 4,2026-11-18T12:28+00:00
+CT,5,Jahana Hayes,Democratic,146365,57.83,True,92.8,87025,Connecticut US House 5,2026-11-18T12:28+00:00
+CT,5,Chris Shea,Republican,106670,42.15,False,92.8,87025,Connecticut US House 5,2026-11-18T12:28+00:00
+CT,5,Jonathan DeBarros,Write-In,62,0.02,False,92.8,87025,Connecticut US House 5,2026-11-18T12:28+00:00
+DE,0,Sarah McBride,Democratic,243687,64.35,True,90.5,87035,Delaware US House At-Large,2026-11-18T12:28+00:00
+DE,0,"Joseph ""Dr. Joe"" Arminio",Republican,135016,35.65,False,90.5,87035,Delaware US House At-Large,2026-11-18T12:28+00:00
+FL,1,Jimmy Patronis,Republican,181952,62.52,True,85.7,87040,Florida US House 1,2026-11-18T12:28+00:00
+FL,1,Gay Valimont,Democratic,103752,35.65,False,85.7,87040,Florida US House 1,2026-11-18T12:28+00:00
+FL,1,Tyler L. Davis,Independent,5337,1.83,False,85.7,87040,Florida US House 1,2026-11-18T12:28+00:00
+FL,2,Austin Rogers,Republican,161188,52.08,True,87.2,87041,Florida US House 2,2026-11-18T12:28+00:00
+FL,2,Amanda Green,Democratic,148319,47.92,False,87.2,87041,Florida US House 2,2026-11-18T12:28+00:00
+FL,3,Kat Cammack,Republican,165664,55.14,True,84.5,87042,Florida US House 3,2026-11-18T12:28+00:00
+FL,3,Seth Harp,Democratic,129176,42.99,False,84.5,87042,Florida US House 3,2026-11-18T12:28+00:00
+FL,3,Mike Klein,Independent,5621,1.87,False,84.5,87042,Florida US House 3,2026-11-18T12:28+00:00
+FL,4,Aaron Bean,Republican,151217,50.21,True,90.2,87043,Florida US House 4,2026-11-18T12:28+00:00
+FL,4,LaShonda Holloway,Democratic,144926,48.12,False,90.2,87043,Florida US House 4,2026-11-18T12:28+00:00
+FL,4,Todd Schaefer,Independent,3195,1.06,False,90.2,87043,Florida US House 4,2026-11-18T12:28+00:00
+FL,4,Mike Sell,Florida Forward Party,1835,0.61,False,90.2,87043,Florida US House 4,2026-11-18T12:28+00:00
+FL,5,John Rutherford,Republican,188076,56.29,True,94.4,87044,Florida US House 5,2026-11-18T12:28+00:00
+FL,5,Rachel Grage,Democratic,145345,43.5,False,94.4,87044,Florida US House 5,2026-11-18T12:28+00:00
+FL,5,Write-in,Nonpartisan,697,0.21,False,94.4,87044,Florida US House 5,2026-11-18T12:28+00:00
+FL,6,Randy Fine,Republican,195388,58.88,True,93.8,87045,Florida US House 6,2026-11-18T12:28+00:00
+FL,6,Eric Yonce,Democratic,132374,39.89,False,93.8,87045,Florida US House 6,2026-11-18T12:28+00:00
+FL,6,Andrew Parrott,Libertarian,3729,1.12,False,93.8,87045,Florida US House 6,2026-11-18T12:28+00:00
+FL,6,Write-in,Nonpartisan,328,0.1,False,93.8,87045,Florida US House 6,2026-11-18T12:28+00:00
+FL,7,Ryan Elijah,Republican,161302,49.71,True,93.2,87046,Florida US House 7,2026-11-18T12:28+00:00
+FL,7,Bale Dalton,Democratic,159682,49.21,False,93.2,87046,Florida US House 7,2026-11-18T12:28+00:00
+FL,7,Christopher Dennison,Libertarian,3485,1.07,False,93.2,87046,Florida US House 7,2026-11-18T12:28+00:00
+FL,8,Mike Haridopolos,Republican,169928,53.17,True,79.3,87047,Florida US House 8,2026-11-18T12:28+00:00
+FL,8,Jennifer Jenkins,Democratic,149667,46.83,False,79.3,87047,Florida US House 8,2026-11-18T12:28+00:00
+FL,9,Darren Soto,Democratic,143329,50.27,True,82.8,87048,Florida US House 9,2026-11-18T12:28+00:00
+FL,9,Dan Green,Republican,141810,49.73,False,82.8,87048,Florida US House 9,2026-11-18T12:28+00:00
+FL,10,Maxwell Frost,Democratic,0,,True,0,87049,Florida US House 10,2026-11-18T12:28+00:00
+FL,11,Joe Strada,Republican,193591,52.93,True,69.9,87050,Florida US House 11,2026-11-18T12:28+00:00
+FL,11,James Pericola,Democratic,168226,45.99,False,69.9,87050,Florida US House 11,2026-11-18T12:28+00:00
+FL,11,Ralph Groves,Libertarian,3961,1.08,False,69.9,87050,Florida US House 11,2026-11-18T12:28+00:00
+FL,12,Gus Bilirakis,Republican,150879,52.73,True,93.2,87051,Florida US House 12,2026-11-18T12:28+00:00
+FL,12,Kimberly Overman,Democratic,131468,45.95,False,93.2,87051,Florida US House 12,2026-11-18T12:28+00:00
+FL,12,Branden Scrivener,Independent,3790,1.32,False,93.2,87051,Florida US House 12,2026-11-18T12:28+00:00
+FL,13,Anna Paulina Luna,Republican,155189,49.48,True,89.8,87052,Florida US House 13,2026-11-18T12:28+00:00
+FL,13,Leela Gray,Democratic,152699,48.68,False,89.8,87052,Florida US House 13,2026-11-18T12:28+00:00
+FL,13,Tony D'Arrigo,Independent,5782,1.84,False,89.8,87052,Florida US House 13,2026-11-18T12:28+00:00
+FL,14,Kathy Castor,Democratic,153841,51.18,True,92.2,87053,Florida US House 14,2026-11-18T12:28+00:00
+FL,14,Mike Beltran,Republican,137716,45.81,False,92.2,87053,Florida US House 14,2026-11-18T12:28+00:00
+FL,14,Brian Lambert,Libertarian,8748,2.91,False,92.2,87053,Florida US House 14,2026-11-18T12:28+00:00
+FL,14,Write-in,Nonpartisan,312,0.1,False,92.2,87053,Florida US House 14,2026-11-18T12:28+00:00
+FL,15,Laurel Lee,Republican,163377,54.21,True,91.5,87054,Florida US House 15,2026-11-18T12:28+00:00
+FL,15,Robert People,Democratic,137564,45.64,False,91.5,87054,Florida US House 15,2026-11-18T12:28+00:00
+FL,15,Write-in,Nonpartisan,450,0.15,False,91.5,87054,Florida US House 15,2026-11-18T12:28+00:00
+FL,16,Sydney Gruters,Republican,175653,51.2,True,90.6,87055,Florida US House 16,2026-11-18T12:28+00:00
+FL,16,Kelly Kirschner,Democratic,161138,46.97,False,90.6,87055,Florida US House 16,2026-11-18T12:28+00:00
+FL,16,Mark Davis,Independent,6283,1.83,False,90.6,87055,Florida US House 16,2026-11-18T12:28+00:00
+FL,17,Greg Steube,Republican,209188,58.45,True,95.7,87056,Florida US House 17,2026-11-18T12:28+00:00
+FL,17,Matthew Montavon,Democratic,143712,40.15,False,95.7,87056,Florida US House 17,2026-11-18T12:28+00:00
+FL,17,Michael J. Quirk,Independent,5014,1.4,False,95.7,87056,Florida US House 17,2026-11-18T12:28+00:00
+FL,18,Scott Franklin,Republican,137715,50.33,True,90.8,87057,Florida US House 18,2026-11-18T12:28+00:00
+FL,18,Curtis Gibson,Democratic,127771,46.7,False,90.8,87057,Florida US House 18,2026-11-18T12:28+00:00
+FL,18,Deva Simmons,Independent,8132,2.97,False,90.8,87057,Florida US House 18,2026-11-18T12:28+00:00
+FL,19,Jim Schwartzel,Republican,198766,61.11,True,94.6,87058,Florida US House 19,2026-11-18T12:28+00:00
+FL,19,Victor Arias,Democratic,122441,37.64,False,94.6,87058,Florida US House 19,2026-11-18T12:28+00:00
+FL,19,Seth Haskin,Independent,3998,1.23,False,94.6,87058,Florida US House 19,2026-11-18T12:28+00:00
+FL,19,Write-in,Nonpartisan,52,0.02,False,94.6,87058,Florida US House 19,2026-11-18T12:28+00:00
+FL,20,Debbie Wasserman Schultz,Democratic,182712,74.36,True,91.4,87059,Florida US House 20,2026-11-18T12:28+00:00
+FL,20,Brent Andersen,Republican,53396,21.73,False,91.4,87059,Florida US House 20,2026-11-18T12:28+00:00
+FL,20,Kedner Maxime,Independent Party of Florida,9598,3.91,False,91.4,87059,Florida US House 20,2026-11-18T12:28+00:00
+FL,21,Brian Mast,Republican,184334,53.86,True,93.2,87060,Florida US House 21,2026-11-18T12:28+00:00
+FL,21,James Martin,Democratic,153268,44.79,False,93.2,87060,Florida US House 21,2026-11-18T12:28+00:00
+FL,21,Alexander Cooke,Independent,4474,1.31,False,93.2,87060,Florida US House 21,2026-11-18T12:28+00:00
+FL,21,Write-in,Nonpartisan,141,0.04,False,93.2,87060,Florida US House 21,2026-11-18T12:28+00:00
+FL,22,Pia Dandiya,Democratic,153183,51.9,True,92.2,87061,Florida US House 22,2026-11-18T12:28+00:00
+FL,22,Casey Askar,Republican,141943,48.1,False,92.2,87061,Florida US House 22,2026-11-18T12:28+00:00
+FL,23,Lois Frankel,Democratic,170028,65.66,True,90.8,87062,Florida US House 23,2026-11-18T12:28+00:00
+FL,23,Deborah Adeimy,Republican,88939,34.34,False,90.8,87062,Florida US House 23,2026-11-18T12:28+00:00
+FL,24,Oliver Gilbert,Democratic,164895,80.49,True,92.2,87063,Florida US House 24,2026-11-18T12:28+00:00
+FL,24,Mayonna Te Brown,Republican,39547,19.3,False,92.2,87063,Florida US House 24,2026-11-18T12:28+00:00
+FL,24,Write-in,Nonpartisan,420,0.21,False,92.2,87063,Florida US House 24,2026-11-18T12:28+00:00
+FL,25,Jared Moskowitz,Democratic,143930,51.24,True,91.4,87064,Florida US House 25,2026-11-18T12:28+00:00
+FL,25,Scott Singer,Republican,130881,46.59,False,91.4,87064,Florida US House 25,2026-11-18T12:28+00:00
+FL,25,Peter Jassenoff,Libertarian,5882,2.09,False,91.4,87064,Florida US House 25,2026-11-18T12:28+00:00
+FL,25,Write-in,Nonpartisan,214,0.08,False,91.4,87064,Florida US House 25,2026-11-18T12:28+00:00
+FL,26,Mario Diaz-Balart,Republican,114581,49.85,True,92,87065,Florida US House 26,2026-11-18T12:28+00:00
+FL,26,Nicole Locklin,Democratic,112899,49.12,False,92,87065,Florida US House 26,2026-11-18T12:28+00:00
+FL,26,Deborah Ann Meidinger Hosey,Independent,2352,1.02,False,92,87065,Florida US House 26,2026-11-18T12:28+00:00
+FL,27,Maria Elvira Salazar,Republican,124528,50.22,True,92.5,87066,Florida US House 27,2026-11-18T12:28+00:00
+FL,27,Eliott Rodriguez,Democratic,123438,49.78,False,92.5,87066,Florida US House 27,2026-11-18T12:28+00:00
+FL,28,Carlos Giménez,Republican,125034,52.89,True,91.7,87067,Florida US House 28,2026-11-18T12:28+00:00
+FL,28,Phil Ehr,Democratic,107907,45.65,False,91.7,87067,Florida US House 28,2026-11-18T12:28+00:00
+FL,28,Eddy Rojas,Independent,3445,1.46,False,91.7,87067,Florida US House 28,2026-11-18T12:28+00:00
+GA,1,Jim Kingston,Republican,140266,51.4,True,84.9,87073,Georgia US House 1,2026-11-18T12:28+00:00
+GA,1,Amanda Hollowell,Democratic,132609,48.6,False,84.9,87073,Georgia US House 1,2026-11-18T12:28+00:00
+GA,2,Sanford Bishop,Democratic,148422,60.81,True,83,87074,Georgia US House 2,2026-11-18T12:28+00:00
+GA,2,Matt Day,Republican,95638,39.19,False,83,87074,Georgia US House 2,2026-11-18T12:28+00:00
+GA,3,Brian Jack,Republican,188624,58.6,True,90.3,87075,Georgia US House 3,2026-11-18T12:28+00:00
+GA,3,Maura Keller,Democratic,133240,41.4,False,90.3,87075,Georgia US House 3,2026-11-18T12:28+00:00
+GA,4,Hank Johnson,Democratic,217340,82.64,True,89.4,87076,Georgia US House 4,2026-11-18T12:28+00:00
+GA,4,James Duffie,Republican,45644,17.36,False,89.4,87076,Georgia US House 4,2026-11-18T12:28+00:00
+GA,5,Nikema Williams,Democratic,274922,90.2,True,87.6,87077,Georgia US House 5,2026-11-18T12:28+00:00
+GA,5,John Salvesen,Republican,29862,9.8,False,87.6,87077,Georgia US House 5,2026-11-18T12:28+00:00
+GA,6,Lucy McBath,Democratic,264024,80.89,True,90.6,87078,Georgia US House 6,2026-11-18T12:28+00:00
+GA,6,Kevin Martin,Republican,62379,19.11,False,90.6,87078,Georgia US House 6,2026-11-18T12:28+00:00
+GA,7,Rich McCormick,Republican,191625,56.18,True,91.1,87079,Georgia US House 7,2026-11-18T12:28+00:00
+GA,7,Anthony Kozycki,Democratic,149457,43.82,False,91.1,87079,Georgia US House 7,2026-11-18T12:28+00:00
+GA,8,Austin Scott,Republican,160171,60.4,True,86.3,87080,Georgia US House 8,2026-11-18T12:28+00:00
+GA,8,Kelly Esti,Democratic,105005,39.6,False,86.3,87080,Georgia US House 8,2026-11-18T12:28+00:00
+GA,9,Andrew Clyde,Republican,182986,59.29,True,92.6,87081,Georgia US House 9,2026-11-18T12:28+00:00
+GA,9,Caitlyn Gegen,Democratic,125653,40.71,False,92.6,87081,Georgia US House 9,2026-11-18T12:28+00:00
+GA,10,Houston Gaines,Republican,174844,53.64,True,90.8,87082,Georgia US House 10,2026-11-18T12:28+00:00
+GA,10,Pamela DeLancy,Democratic,151125,46.36,False,90.8,87082,Georgia US House 10,2026-11-18T12:28+00:00
+GA,11,John Cowan,Republican,182230,55.36,True,92.4,87083,Georgia US House 11,2026-11-18T12:28+00:00
+GA,11,Chris Harden,Democratic,146967,44.64,False,92.4,87083,Georgia US House 11,2026-11-18T12:28+00:00
+GA,12,Rick Allen,Republican,140904,52.08,True,85.1,87084,Georgia US House 12,2026-11-18T12:28+00:00
+GA,12,Ceretta Smith,Democratic,129637,47.92,False,85.1,87084,Georgia US House 12,2026-11-18T12:28+00:00
+GA,13,Jasmine Clark,Democratic,248094,79.83,True,91.1,87085,Georgia US House 13,2026-11-18T12:28+00:00
+GA,13,Jonathan Chavez,Republican,62680,20.17,False,91.1,87085,Georgia US House 13,2026-11-18T12:28+00:00
+GA,14,Clay Fuller,Republican,168830,58.77,True,88.8,87086,Georgia US House 14,2026-11-18T12:28+00:00
+GA,14,Shawn Harris,Democratic,118446,41.23,False,88.8,87086,Georgia US House 14,2026-11-18T12:28+00:00
+HI,1,Ed Case,Democratic,126337,71.78,True,80.4,87098,Hawaii US House 1,2026-11-18T12:28+00:00
+HI,1,Adriel Lam,Republican,40308,22.9,False,80.4,87098,Hawaii US House 1,2026-11-18T12:28+00:00
+HI,1,Jordan S. Conley,Green,7011,3.98,False,80.4,87098,Hawaii US House 1,2026-11-18T12:28+00:00
+HI,1,Nathan M. Berning,Nonpartisan,2348,1.33,False,80.4,87098,Hawaii US House 1,2026-11-18T12:28+00:00
+HI,2,Jill Tokuda,Democratic,129931,66.5,True,87.2,87099,Hawaii US House 2,2026-11-18T12:28+00:00
+HI,2,Brenton Awa,Republican,65441,33.5,False,87.2,87099,Hawaii US House 2,2026-11-18T12:28+00:00
+ID,1,Russ Fulcher,Republican,244717,64.17,True,98.1,87104,Idaho US House 1,2026-11-18T12:28+00:00
+ID,1,Kaylee Peterson,Democratic,110112,28.87,False,98.1,87104,Idaho US House 1,2026-11-18T12:28+00:00
+ID,1,Sarah Zabel Peterson,Independent,23106,6.06,False,98.1,87104,Idaho US House 1,2026-11-18T12:28+00:00
+ID,1,Brendan Gomez,Constitution,3421,0.9,False,98.1,87104,Idaho US House 1,2026-11-18T12:28+00:00
+ID,2,Mike Simpson,Republican,170868,51.67,True,96.3,87105,Idaho US House 2,2026-11-18T12:28+00:00
+ID,2,Ellie Gilbreath,Democratic,133156,40.27,False,96.3,87105,Idaho US House 2,2026-11-18T12:28+00:00
+ID,2,Tripp Hutchinson,Independent,11641,3.52,False,96.3,87105,Idaho US House 2,2026-11-18T12:28+00:00
+ID,2,Emre Houser,Independent,7857,2.38,False,96.3,87105,Idaho US House 2,2026-11-18T12:28+00:00
+ID,2,Will Johanson,Libertarian,7145,2.16,False,96.3,87105,Idaho US House 2,2026-11-18T12:28+00:00
+IL,1,Jonathan Jackson,Democratic,176829,72.54,True,91.8,87112,Illinois US House 1,2026-11-18T12:28+00:00
+IL,1,Christian Maxwell,Republican,66948,27.46,False,91.8,87112,Illinois US House 1,2026-11-18T12:28+00:00
+IL,2,Donna Miller,Democratic,160859,73.69,True,95.9,87113,Illinois US House 2,2026-11-18T12:28+00:00
+IL,2,Mike Noack,Republican,57430,26.31,False,95.9,87113,Illinois US House 2,2026-11-18T12:28+00:00
+IL,3,Delia Ramirez,Democratic,158936,77.56,True,85.8,87114,Illinois US House 3,2026-11-18T12:28+00:00
+IL,3,Angel Oakley,Republican,45981,22.44,False,85.8,87114,Illinois US House 3,2026-11-18T12:28+00:00
+IL,4,Patty Garcia,Democratic,117273,71.39,True,86.5,87115,Illinois US House 4,2026-11-18T12:28+00:00
+IL,4,Lupe Castillo,Republican,25936,15.79,False,86.5,87115,Illinois US House 4,2026-11-18T12:28+00:00
+IL,4,Chris Getty,Independent,15020,9.14,False,86.5,87115,Illinois US House 4,2026-11-18T12:28+00:00
+IL,4,Ed Hershey,Working Class Party,6032,3.67,False,86.5,87115,Illinois US House 4,2026-11-18T12:28+00:00
+IL,5,Mike Quigley,Democratic,216862,77.3,True,99,87116,Illinois US House 5,2026-11-18T12:28+00:00
+IL,5,Tom Hanson,Republican,63673,22.7,False,99,87116,Illinois US House 5,2026-11-18T12:28+00:00
+IL,6,Sean Casten,Democratic,169468,63.0,True,85.9,87117,Illinois US House 6,2026-11-18T12:28+00:00
+IL,6,Niki Conforti,Republican,99524,37.0,False,85.9,87117,Illinois US House 6,2026-11-18T12:28+00:00
+IL,7,La Shawn Ford,Democratic,187845,89.35,True,88.8,87118,Illinois US House 7,2026-11-18T12:28+00:00
+IL,7,Chad Koppie,Republican,22379,10.65,False,88.8,87118,Illinois US House 7,2026-11-18T12:28+00:00
+IL,8,Melissa Bean,Democratic,140071,64.43,True,84.8,87119,Illinois US House 8,2026-11-18T12:28+00:00
+IL,8,Jennifer Davis,Republican,77335,35.57,False,84.8,87119,Illinois US House 8,2026-11-18T12:28+00:00
+IL,9,Daniel K. Biss,Democratic,204450,76.95,True,99,87120,Illinois US House 9,2026-11-18T12:28+00:00
+IL,9,John Elleson,Republican,61256,23.05,False,99,87120,Illinois US House 9,2026-11-18T12:28+00:00
+IL,10,Brad Schneider,Democratic,171351,70.45,True,74.4,87121,Illinois US House 10,2026-11-18T12:28+00:00
+IL,10,Carl Lambrecht,Republican,71862,29.55,False,74.4,87121,Illinois US House 10,2026-11-18T12:28+00:00
+IL,11,Bill Foster,Democratic,174306,64.48,True,81.6,87122,Illinois US House 11,2026-11-18T12:28+00:00
+IL,11,Jeffrey Walter,Republican,96039,35.52,False,81.6,87122,Illinois US House 11,2026-11-18T12:28+00:00
+IL,12,Mike Bost,Republican,195989,69.51,True,90.2,87123,Illinois US House 12,2026-11-18T12:28+00:00
+IL,12,Julie Fortier,Democratic,85985,30.49,False,90.2,87123,Illinois US House 12,2026-11-18T12:28+00:00
+IL,13,Nikki Budzinski,Democratic,158246,62.71,True,92,87124,Illinois US House 13,2026-11-18T12:28+00:00
+IL,13,Jeff Wilson,Republican,94097,37.29,False,92,87124,Illinois US House 13,2026-11-18T12:28+00:00
+IL,14,Lauren Underwood,Democratic,156669,62.86,True,92.2,87125,Illinois US House 14,2026-11-18T12:28+00:00
+IL,14,James Marter,Republican,92569,37.14,False,92.2,87125,Illinois US House 14,2026-11-18T12:28+00:00
+IL,15,Mary Miller,Republican,192776,66.89,True,89.2,87126,Illinois US House 15,2026-11-18T12:28+00:00
+IL,15,Jennifer Todd,Democratic,95427,33.11,False,89.2,87126,Illinois US House 15,2026-11-18T12:28+00:00
+IL,16,Darin LaHood,Republican,173643,58.73,True,92.1,87127,Illinois US House 16,2026-11-18T12:28+00:00
+IL,16,Paul Nolley,Democratic,122006,41.27,False,92.1,87127,Illinois US House 16,2026-11-18T12:28+00:00
+IL,17,Eric Sorensen,Democratic,142152,60.17,True,91.4,87128,Illinois US House 17,2026-11-18T12:28+00:00
+IL,17,Dillan Vancil,Republican,94093,39.83,False,91.4,87128,Illinois US House 17,2026-11-18T12:28+00:00
+IN,1,Frank Mrvan,Democratic,142270,63.01,True,99,87135,Indiana US House 1,2026-11-18T12:28+00:00
+IN,1,Barb Regnitz,Republican,83468,36.96,False,99,87135,Indiana US House 1,2026-11-18T12:28+00:00
+IN,1,Alexander R (Alex) Degman,Independent,50,0.02,False,99,87135,Indiana US House 1,2026-11-18T12:28+00:00
+IN,1,"Prescription Dope Deaths Johnson, Jr",Write-In,17,0.01,False,99,87135,Indiana US House 1,2026-11-18T12:28+00:00
+IN,2,Rudy Yakym,Republican,98843,51.15,True,99,87136,Indiana US House 2,2026-11-18T12:28+00:00
+IN,2,Jamee Decio,Democratic,89179,46.15,False,99,87136,Indiana US House 2,2026-11-18T12:28+00:00
+IN,2,William Henry,Libertarian,5217,2.7,False,99,87136,Indiana US House 2,2026-11-18T12:28+00:00
+IN,3,Marlin Stutzman,Republican,109736,54.85,True,99,87137,Indiana US House 3,2026-11-18T12:28+00:00
+IN,3,Kelly Thompson,Democratic,90254,45.11,False,99,87137,Indiana US House 3,2026-11-18T12:28+00:00
+IN,3,Phillip D. Beachy (Phil),Independent,69,0.03,False,99,87137,Indiana US House 3,2026-11-18T12:28+00:00
+IN,4,Jim Baird,Republican,115174,54.18,True,99,87138,Indiana US House 4,2026-11-18T12:28+00:00
+IN,4,Drew Cox,Democratic,97224,45.74,False,99,87138,Indiana US House 4,2026-11-18T12:28+00:00
+IN,4,David E. Bokash,Independent,170,0.08,False,99,87138,Indiana US House 4,2026-11-18T12:28+00:00
+IN,5,J. D. Ford,Democratic,134511,51.66,True,99,87139,Indiana US House 5,2026-11-18T12:28+00:00
+IN,5,Victoria Spartz,Republican,125884,48.34,False,99,87139,Indiana US House 5,2026-11-18T12:28+00:00
+IN,6,Jefferson Shreve,Republican,111179,55.08,True,99,87140,Indiana US House 6,2026-11-18T12:28+00:00
+IN,6,Cinde Wirth,Democratic,90672,44.92,False,99,87140,Indiana US House 6,2026-11-18T12:28+00:00
+IN,7,André Carson,Democratic,159348,76.96,True,99,87141,Indiana US House 7,2026-11-18T12:28+00:00
+IN,7,Patrick McAuley,Republican,42252,20.41,False,99,87141,Indiana US House 7,2026-11-18T12:28+00:00
+IN,7,James Sceniak,Libertarian,5453,2.63,False,99,87141,Indiana US House 7,2026-11-18T12:28+00:00
+IN,8,Mark Messmer,Republican,117718,55.24,True,99,87142,Indiana US House 8,2026-11-18T12:28+00:00
+IN,8,Mary Allen,Democratic,95375,44.76,False,99,87142,Indiana US House 8,2026-11-18T12:28+00:00
+IN,9,Erin Houchin,Republican,122206,54.06,True,99,87143,Indiana US House 9,2026-11-18T12:28+00:00
+IN,9,Brad Meyer,Democratic,98250,43.47,False,99,87143,Indiana US House 9,2026-11-18T12:28+00:00
+IN,9,Tonya Hudson,Libertarian,5520,2.44,False,99,87143,Indiana US House 9,2026-11-18T12:28+00:00
+IN,9,Floyd Michael Taylor,Independent,60,0.03,False,99,87143,Indiana US House 9,2026-11-18T12:28+00:00
+IA,1,Christina Bohannan,Democratic,184011,52.97,True,99,87147,Iowa US House 1,2026-11-18T12:28+00:00
+IA,1,Mariannette Miller-Meeks,Republican,150720,43.39,False,99,87147,Iowa US House 1,2026-11-18T12:28+00:00
+IA,1,Michael Bridgford,Independent,12376,3.56,False,99,87147,Iowa US House 1,2026-11-18T12:28+00:00
+IA,1,Write-in,Nonpartisan,287,0.08,False,99,87147,Iowa US House 1,2026-11-18T12:28+00:00
+IA,2,Lindsay James,Democratic,171577,49.51,True,99,87148,Iowa US House 2,2026-11-18T12:28+00:00
+IA,2,Joe Mitchell,Republican,157775,45.53,False,99,87148,Iowa US House 2,2026-11-18T12:28+00:00
+IA,2,Rick Stewart,Libertarian,9505,2.74,False,99,87148,Iowa US House 2,2026-11-18T12:28+00:00
+IA,2,Dave Bushaw,Independent,7477,2.16,False,99,87148,Iowa US House 2,2026-11-18T12:28+00:00
+IA,2,Write-in,Nonpartisan,226,0.07,False,99,87148,Iowa US House 2,2026-11-18T12:28+00:00
+IA,3,Sarah Trone Garriott,Democratic,189435,53.51,True,99,87149,Iowa US House 3,2026-11-18T12:28+00:00
+IA,3,Zach Nunn,Republican,163687,46.24,False,99,87149,Iowa US House 3,2026-11-18T12:28+00:00
+IA,3,Write-in,Nonpartisan,869,0.25,False,99,87149,Iowa US House 3,2026-11-18T12:28+00:00
+IA,4,Chris McGowan,Republican,178960,58.97,True,93.5,87150,Iowa US House 4,2026-11-18T12:28+00:00
+IA,4,Dave Dawson,Democratic,124128,40.9,False,93.5,87150,Iowa US House 4,2026-11-18T12:28+00:00
+IA,4,Write-in,Nonpartisan,402,0.13,False,93.5,87150,Iowa US House 4,2026-11-18T12:28+00:00
+KS,1,Tracey Mann,Republican,150544,59.43,True,90.3,87158,Kansas US House 1,2026-11-18T12:28+00:00
+KS,1,Lauren Reinhold,Democratic,95911,37.86,False,90.3,87158,Kansas US House 1,2026-11-18T12:28+00:00
+KS,1,Steven Jacob,Libertarian,6863,2.71,False,90.3,87158,Kansas US House 1,2026-11-18T12:28+00:00
+KS,2,Derek Schmidt,Republican,125843,51.21,True,91.3,87159,Kansas US House 2,2026-11-18T12:28+00:00
+KS,2,Don Coover,Democratic,110677,45.04,False,91.3,87159,Kansas US House 2,2026-11-18T12:28+00:00
+KS,2,John Hauer,Libertarian,9201,3.74,False,91.3,87159,Kansas US House 2,2026-11-18T12:28+00:00
+KS,3,Sharice Davids,Democratic,201050,59.57,True,99,87160,Kansas US House 3,2026-11-18T12:28+00:00
+KS,3,Eric Jenkins,Republican,129537,38.38,False,99,87160,Kansas US House 3,2026-11-18T12:28+00:00
+KS,3,Steven A Hohe,Libertarian,6922,2.05,False,99,87160,Kansas US House 3,2026-11-18T12:28+00:00
+KS,4,Ron Estes,Republican,139155,53.54,True,96.9,87161,Kansas US House 4,2026-11-18T12:28+00:00
+KS,4,Katy Tyndell,Democratic,114568,44.08,False,96.9,87161,Kansas US House 4,2026-11-18T12:28+00:00
+KS,4,Drew Cranmer,Libertarian,6187,2.38,False,96.9,87161,Kansas US House 4,2026-11-18T12:28+00:00
+KY,1,James Comer,Republican,153992,67.57,True,82.4,87168,Kentucky US House 1,2026-11-18T12:28+00:00
+KY,1,Drew Williams,Democratic,73910,32.43,False,82.4,87168,Kentucky US House 1,2026-11-18T12:28+00:00
+KY,1,Write-in,Nonpartisan,0,0.0,False,82.4,87168,Kentucky US House 1,2026-11-18T12:28+00:00
+KY,2,Brett Guthrie,Republican,145139,62.82,True,85.5,87169,Kentucky US House 2,2026-11-18T12:28+00:00
+KY,2,Megan Wingfield,Democratic,81111,35.1,False,85.5,87169,Kentucky US House 2,2026-11-18T12:28+00:00
+KY,2,Thomas A. Loecken,Independent,4807,2.08,False,85.5,87169,Kentucky US House 2,2026-11-18T12:28+00:00
+KY,2,Write-in,Nonpartisan,0,0.0,False,85.5,87169,Kentucky US House 2,2026-11-18T12:28+00:00
+KY,3,Morgan McGarvey,Democratic,174775,70.33,True,86.5,87170,Kentucky US House 3,2026-11-18T12:28+00:00
+KY,3,Maria Teresa Rodriguez,Republican,73717,29.67,False,86.5,87170,Kentucky US House 3,2026-11-18T12:28+00:00
+KY,3,Write-in,Nonpartisan,0,0.0,False,86.5,87170,Kentucky US House 3,2026-11-18T12:28+00:00
+KY,4,Ed Gallrein,Republican,137623,54.22,True,91.1,87171,Kentucky US House 4,2026-11-18T12:28+00:00
+KY,4,Melissa Strange,Democratic,103713,40.86,False,91.1,87171,Kentucky US House 4,2026-11-18T12:28+00:00
+KY,4,Jeremy Todd,Libertarian,12484,4.92,False,91.1,87171,Kentucky US House 4,2026-11-18T12:28+00:00
+KY,4,Write-in,Nonpartisan,0,0.0,False,91.1,87171,Kentucky US House 4,2026-11-18T12:28+00:00
+KY,5,Hal Rogers,Republican,139808,71.15,True,78.7,87172,Kentucky US House 5,2026-11-18T12:28+00:00
+KY,5,Ned Pillersdorf,Democratic,49805,25.35,False,78.7,87172,Kentucky US House 5,2026-11-18T12:28+00:00
+KY,5,Mikel Wein,Independent,4117,2.1,False,78.7,87172,Kentucky US House 5,2026-11-18T12:28+00:00
+KY,5,Gerardo Serrano,Independent,2738,1.39,False,78.7,87172,Kentucky US House 5,2026-11-18T12:28+00:00
+KY,5,Write-in,Nonpartisan,38,0.02,False,78.7,87172,Kentucky US House 5,2026-11-18T12:28+00:00
+KY,6,Zach Dembo,Democratic,138777,52.7,True,88.3,87173,Kentucky US House 6,2026-11-18T12:28+00:00
+KY,6,Ralph Alvarado,Republican,114030,43.3,False,88.3,87173,Kentucky US House 6,2026-11-18T12:28+00:00
+KY,6,Jay J. Bowman,Independent,6710,2.55,False,88.3,87173,Kentucky US House 6,2026-11-18T12:28+00:00
+KY,6,Pete Lynch,Kentucky Party,3836,1.46,False,88.3,87173,Kentucky US House 6,2026-11-18T12:28+00:00
+KY,6,Write-in,Nonpartisan,0,0.0,False,88.3,87173,Kentucky US House 6,2026-11-18T12:28+00:00
+LA,1,Steve Scalise,Republican,159896,60.71,True,98,87177,Louisiana US House 1,2026-11-18T12:28+00:00
+LA,1,Lauren Jewett,Democratic,89440,33.96,False,98,87177,Louisiana US House 1,2026-11-18T12:28+00:00
+LA,1,Randall Arrington,Republican,9776,3.71,False,98,87177,Louisiana US House 1,2026-11-18T12:28+00:00
+LA,1,"E. ""Liddy"" Glass",Nonpartisan,4279,1.62,False,98,87177,Louisiana US House 1,2026-11-18T12:28+00:00
+LA,2,Troy Carter,Democratic,192286,79.91,True,97.7,87178,Louisiana US House 2,2026-11-18T12:28+00:00
+LA,2,Peter Williams,Republican,36369,15.11,False,97.7,87178,Louisiana US House 2,2026-11-18T12:28+00:00
+LA,2,Lisa Ballay,Libertarian,6409,2.66,False,97.7,87178,Louisiana US House 2,2026-11-18T12:28+00:00
+LA,2,Renada Collins,Nonpartisan,2999,1.25,False,97.7,87178,Louisiana US House 2,2026-11-18T12:28+00:00
+LA,2,"Walter ""Rocky"" Beach",Nonpartisan,2553,1.06,False,97.7,87178,Louisiana US House 2,2026-11-18T12:28+00:00
+LA,3,Clay Higgins,Republican,129203,54.98,True,93.3,87179,Louisiana US House 3,2026-11-18T12:28+00:00
+LA,3,John Day,Democratic,49163,20.92,False,93.3,87179,Louisiana US House 3,2026-11-18T12:28+00:00
+LA,3,Caleb Walker,Democratic,19932,8.48,False,93.3,87179,Louisiana US House 3,2026-11-18T12:28+00:00
+LA,3,Priscilla Gonzalez,Democratic,16828,7.16,False,93.3,87179,Louisiana US House 3,2026-11-18T12:28+00:00
+LA,3,Kate Cotten,Republican,15661,6.66,False,93.3,87179,Louisiana US House 3,2026-11-18T12:28+00:00
+LA,3,Tia LeBrun,Nonpartisan,4208,1.79,False,93.3,87179,Louisiana US House 3,2026-11-18T12:28+00:00
+LA,4,Mike Johnson,Republican,134750,58.5,True,96.4,87180,Louisiana US House 4,2026-11-18T12:28+00:00
+LA,4,Conrad Cable,Democratic,52899,22.96,False,96.4,87180,Louisiana US House 4,2026-11-18T12:28+00:00
+LA,4,Matt Gromlich,Democratic,32868,14.27,False,96.4,87180,Louisiana US House 4,2026-11-18T12:28+00:00
+LA,4,Mike Nichols,Republican,7271,3.16,False,96.4,87180,Louisiana US House 4,2026-11-18T12:28+00:00
+LA,4,Gordon Heslop,Republican,2571,1.12,False,96.4,87180,Louisiana US House 4,2026-11-18T12:28+00:00
+LA,5,"Patricia ""Pat"" Moore",Democratic,40786,17.89,False,91.8,87181,Louisiana US House 5,2026-11-18T12:28+00:00
+LA,5,Gabe Firment,Republican,39126,17.17,False,91.8,87181,Louisiana US House 5,2026-11-18T12:28+00:00
+LA,5,Misti Cordell,Republican,33371,14.64,False,91.8,87181,Louisiana US House 5,2026-11-18T12:28+00:00
+LA,5,Michael Echols,Republican,32905,14.44,False,91.8,87181,Louisiana US House 5,2026-11-18T12:28+00:00
+LA,5,"Stewart Cathey, Jr.",Republican,28168,12.36,False,91.8,87181,Louisiana US House 5,2026-11-18T12:28+00:00
+LA,5,Antonio Wilson,Democratic,27373,12.01,False,91.8,87181,Louisiana US House 5,2026-11-18T12:28+00:00
+LA,5,Dan McKay,Democratic,16051,7.04,False,91.8,87181,Louisiana US House 5,2026-11-18T12:28+00:00
+LA,5,Austin Magee,Republican,7910,3.47,False,91.8,87181,Louisiana US House 5,2026-11-18T12:28+00:00
+LA,5,"Oscar ""Omar"" Dantzler",Republican,2233,0.98,False,91.8,87181,Louisiana US House 5,2026-11-18T12:28+00:00
+LA,6,Chauna Banks,Democratic,51004,19.41,False,97.3,87182,Louisiana US House 6,2026-11-18T12:28+00:00
+LA,6,Blake Miguez,Republican,50376,19.18,False,97.3,87182,Louisiana US House 6,2026-11-18T12:28+00:00
+LA,6,Rick Edmonds,Republican,49420,18.81,False,97.3,87182,Louisiana US House 6,2026-11-18T12:28+00:00
+LA,6,Lindsay Garcia,Democratic,33632,12.8,False,97.3,87182,Louisiana US House 6,2026-11-18T12:28+00:00
+LA,6,Stephen Wagley,Republican,28239,10.75,False,97.3,87182,Louisiana US House 6,2026-11-18T12:28+00:00
+LA,6,"Patrick ""Pat"" Forbes",Democratic,23869,9.09,False,97.3,87182,Louisiana US House 6,2026-11-18T12:28+00:00
+LA,6,Larry Davis,Republican,11388,4.33,False,97.3,87182,Louisiana US House 6,2026-11-18T12:28+00:00
+LA,6,Monique Appeaning,Republican,8139,3.1,False,97.3,87182,Louisiana US House 6,2026-11-18T12:28+00:00
+LA,6,Rufus Craig,Libertarian,3478,1.32,False,97.3,87182,Louisiana US House 6,2026-11-18T12:28+00:00
+LA,6,Michael Mebruer,Republican,3167,1.21,False,97.3,87182,Louisiana US House 6,2026-11-18T12:28+00:00
+ME,1,Chellie Pingree,Democratic,247947,66.11,True,95.9,87186,Maine US House 1,2026-11-18T12:28+00:00
+ME,1,Ronald Russell,Republican,127098,33.89,False,95.9,87186,Maine US House 1,2026-11-18T12:28+00:00
+ME,2,Paul LePage,Republican,170360,50.8,True,95.5,87187,Maine US House 2,2026-11-18T12:28+00:00
+ME,2,Matthew Dunlap,Democratic,164855,49.15,False,95.5,87187,Maine US House 2,2026-11-18T12:28+00:00
+ME,2,Write-in,Nonpartisan,165,0.05,False,95.5,87187,Maine US House 2,2026-11-18T12:28+00:00
+MD,1,Andy Harris,Republican,165256,52.12,True,87.9,87190,Maryland US House 1,2026-11-18T12:28+00:00
+MD,1,Dan Schwartz,Democratic,151285,47.71,False,87.9,87190,Maryland US House 1,2026-11-18T12:28+00:00
+MD,1,Write-in,Nonpartisan,479,0.15,False,87.9,87190,Maryland US House 1,2026-11-18T12:28+00:00
+MD,1,Edward Shlikas,Write-In,63,0.02,False,87.9,87190,Maryland US House 1,2026-11-18T12:28+00:00
+MD,2,Johnny Olszewski,Democratic,189851,65.04,True,88.3,87191,Maryland US House 2,2026-11-18T12:28+00:00
+MD,2,Dave Wallace,Republican,101464,34.76,False,88.3,87191,Maryland US House 2,2026-11-18T12:28+00:00
+MD,2,Write-in,Nonpartisan,601,0.21,False,88.3,87191,Maryland US House 2,2026-11-18T12:28+00:00
+MD,3,Sarah Elfreth,Democratic,212087,67.74,True,91.4,87192,Maryland US House 3,2026-11-18T12:28+00:00
+MD,3,Berney Flowers,Republican,100088,31.97,False,91.4,87192,Maryland US House 3,2026-11-18T12:28+00:00
+MD,3,Write-in,Nonpartisan,860,0.27,False,91.4,87192,Maryland US House 3,2026-11-18T12:28+00:00
+MD,3,Robert L. Coffman,Write-In,32,0.01,False,91.4,87192,Maryland US House 3,2026-11-18T12:28+00:00
+MD,4,Glenn Ivey,Democratic,179350,89.26,True,86.1,87193,Maryland US House 4,2026-11-18T12:28+00:00
+MD,4,George McDermott,Republican,12003,5.97,False,86.1,87193,Maryland US House 4,2026-11-18T12:28+00:00
+MD,4,Sam Husseini,Green,9262,4.61,False,86.1,87193,Maryland US House 4,2026-11-18T12:28+00:00
+MD,4,Write-in,Nonpartisan,323,0.16,False,86.1,87193,Maryland US House 4,2026-11-18T12:28+00:00
+MD,5,Adrian Boafo,Democratic,227894,70.6,True,90.3,87194,Maryland US House 5,2026-11-18T12:28+00:00
+MD,5,Chris Chaffee,Republican,92558,28.68,False,90.3,87194,Maryland US House 5,2026-11-18T12:28+00:00
+MD,5,Write-in,Nonpartisan,2236,0.69,False,90.3,87194,Maryland US House 5,2026-11-18T12:28+00:00
+MD,5,Mildred Marie Hall,Write-In,86,0.03,False,90.3,87194,Maryland US House 5,2026-11-18T12:28+00:00
+MD,6,April McClain Delaney,Democratic,163621,59.2,True,87.5,87195,Maryland US House 6,2026-11-18T12:28+00:00
+MD,6,Robin Ficker,Republican,104381,37.76,False,87.5,87195,Maryland US House 6,2026-11-18T12:28+00:00
+MD,6,Moshe Y. Landman,Green,7721,2.79,False,87.5,87195,Maryland US House 6,2026-11-18T12:28+00:00
+MD,6,Write-in,Nonpartisan,683,0.25,False,87.5,87195,Maryland US House 6,2026-11-18T12:28+00:00
+MD,7,Kweisi Mfume,Democratic,186917,85.12,True,83.5,87196,Maryland US House 7,2026-11-18T12:28+00:00
+MD,7,Scott Collier,Republican,31816,14.49,False,83.5,87196,Maryland US House 7,2026-11-18T12:28+00:00
+MD,7,Write-in,Nonpartisan,862,0.39,False,83.5,87196,Maryland US House 7,2026-11-18T12:28+00:00
+MD,8,Jamie Raskin,Democratic,240249,83.5,True,89.6,87197,Maryland US House 8,2026-11-18T12:28+00:00
+MD,8,Cheryl Riley,Republican,42007,14.6,False,89.6,87197,Maryland US House 8,2026-11-18T12:28+00:00
+MD,8,Nancy Wallace,Green,4951,1.72,False,89.6,87197,Maryland US House 8,2026-11-18T12:28+00:00
+MD,8,Write-in,Nonpartisan,530,0.18,False,89.6,87197,Maryland US House 8,2026-11-18T12:28+00:00
+MA,1,Richard E. Neal,Democratic,177639,65.43,True,84.4,87266,Massachusetts US House 1,2026-11-18T12:28+00:00
+MA,1,Nadia Donya Milleron,Independent/Unenrolled,93840,34.57,False,84.4,87266,Massachusetts US House 1,2026-11-18T12:28+00:00
+MA,2,James P. McGovern,Democratic,198782,100.0,True,74.2,87267,Massachusetts US House 2,2026-11-18T12:28+00:00
+MA,3,Lori Loureiro Trahan,Democratic,174853,67.2,True,76.9,87268,Massachusetts US House 3,2026-11-18T12:28+00:00
+MA,3,Gary J. Grossi,Republican,78849,30.3,False,76.9,87268,Massachusetts US House 3,2026-11-18T12:28+00:00
+MA,3,Dennis R. Conlon,Unenrolled,6488,2.49,False,76.9,87268,Massachusetts US House 3,2026-11-18T12:28+00:00
+MA,4,Jake Auchincloss,Democratic,192770,66.38,True,85.3,87269,Massachusetts US House 4,2026-11-18T12:28+00:00
+MA,4,Thomas Stalcup,Republican,97619,33.62,False,85.3,87269,Massachusetts US House 4,2026-11-18T12:28+00:00
+MA,5,Katherine M. Clark,Democratic,206925,100.0,True,75.3,87270,Massachusetts US House 5,2026-11-18T12:28+00:00
+MA,6,Dan Koh,Democratic,206663,63.4,True,86.2,87271,Massachusetts US House 6,2026-11-18T12:28+00:00
+MA,6,Micah Quinney Jones,Republican,119293,36.6,False,86.2,87271,Massachusetts US House 6,2026-11-18T12:28+00:00
+MA,7,Ayanna S. Pressley,Democratic,158384,100.0,True,71.9,87272,Massachusetts US House 7,2026-11-18T12:28+00:00
+MA,8,Stephen F. Lynch,Democratic,195606,69.41,True,83.4,87273,Massachusetts US House 8,2026-11-18T12:28+00:00
+MA,8,Robert G. Burke,Republican,75619,26.83,False,83.4,87273,Massachusetts US House 8,2026-11-18T12:28+00:00
+MA,8,Rasheed Nicholas Walters,Independent,10579,3.75,False,83.4,87273,Massachusetts US House 8,2026-11-18T12:28+00:00
+MA,9,Bill Keating,Democratic,213587,60.87,True,93,87274,Massachusetts US House 9,2026-11-18T12:28+00:00
+MA,9,R. Tyler Macallister,Republican,137282,39.13,False,93,87274,Massachusetts US House 9,2026-11-18T12:28+00:00
+MI,1,Jack Bergman,Republican,217728,53.77,True,91,87201,Michigan US House 1,2026-11-18T12:28+00:00
+MI,1,Callie Barr,Democratic,179076,44.22,False,91,87201,Michigan US House 1,2026-11-18T12:28+00:00
+MI,1,Arnett Satterla,Libertarian,2765,0.68,False,91,87201,Michigan US House 1,2026-11-18T12:28+00:00
+MI,1,Liz Hakola,Working Class,2391,0.59,False,91,87201,Michigan US House 1,2026-11-18T12:28+00:00
+MI,1,Doc Kovaly,U.S. Taxpayers,1232,0.3,False,91,87201,Michigan US House 1,2026-11-18T12:28+00:00
+MI,1,Zebulon Featherly,No Party Affiliation,925,0.23,False,91,87201,Michigan US House 1,2026-11-18T12:28+00:00
+MI,1,LaVeta Davenport,Green,776,0.19,False,91,87201,Michigan US House 1,2026-11-18T12:28+00:00
+MI,1,Write-in,Nonpartisan,57,0.01,False,91,87201,Michigan US House 1,2026-11-18T12:28+00:00
+MI,2,John Moolenaar,Republican,220406,61.44,True,91.6,87202,Michigan US House 2,2026-11-18T12:28+00:00
+MI,2,Benjamin Ambrose,Democratic,132543,36.95,False,91.6,87202,Michigan US House 2,2026-11-18T12:28+00:00
+MI,2,Charlotte Magoon,Green,3851,1.07,False,91.6,87202,Michigan US House 2,2026-11-18T12:28+00:00
+MI,2,Richard Sills,Natural Law,1765,0.49,False,91.6,87202,Michigan US House 2,2026-11-18T12:28+00:00
+MI,2,Write-in,Nonpartisan,177,0.05,False,91.6,87202,Michigan US House 2,2026-11-18T12:28+00:00
+MI,3,Hillary Scholten,Democratic,212868,57.16,True,99,87203,Michigan US House 3,2026-11-18T12:28+00:00
+MI,3,Terri DeBoer,Republican,153724,41.28,False,99,87203,Michigan US House 3,2026-11-18T12:28+00:00
+MI,3,Joe Jock,Green,5375,1.44,False,99,87203,Michigan US House 3,2026-11-18T12:28+00:00
+MI,3,Write-in,Nonpartisan,461,0.12,False,99,87203,Michigan US House 3,2026-11-18T12:28+00:00
+MI,4,Sean McCann,Democratic,186238,50.1,True,97.9,87204,Michigan US House 4,2026-11-18T12:28+00:00
+MI,4,Bill Huizenga,Republican,179505,48.29,False,97.9,87204,Michigan US House 4,2026-11-18T12:28+00:00
+MI,4,Shafina Che Barnett,Green,5698,1.53,False,97.9,87204,Michigan US House 4,2026-11-18T12:28+00:00
+MI,4,Write-in,Nonpartisan,313,0.08,False,97.9,87204,Michigan US House 4,2026-11-18T12:28+00:00
+MI,5,Tim Walberg,Republican,199526,59.1,True,90.8,87205,Michigan US House 5,2026-11-18T12:28+00:00
+MI,5,Christian Vukasovich,Democratic,130093,38.54,False,90.8,87205,Michigan US House 5,2026-11-18T12:28+00:00
+MI,5,Ronald A Muszynski,Libertarian,3463,1.03,False,90.8,87205,Michigan US House 5,2026-11-18T12:28+00:00
+MI,5,Sharon Marie Renier,U.S. Taxpayers,3125,0.93,False,90.8,87205,Michigan US House 5,2026-11-18T12:28+00:00
+MI,5,Jim Bronke,Green,1232,0.36,False,90.8,87205,Michigan US House 5,2026-11-18T12:28+00:00
+MI,5,Write-in,Nonpartisan,156,0.05,False,90.8,87205,Michigan US House 5,2026-11-18T12:28+00:00
+MI,6,Debbie Dingell,Democratic,262933,67.38,True,98.8,87206,Michigan US House 6,2026-11-18T12:28+00:00
+MI,6,Heather Smiley,Republican,118422,30.35,False,98.8,87206,Michigan US House 6,2026-11-18T12:28+00:00
+MI,6,Linda Rayburn,Working Class,2830,0.73,False,98.8,87206,Michigan US House 6,2026-11-18T12:28+00:00
+MI,6,Timothy A. Teagan,Libertarian,2689,0.69,False,98.8,87206,Michigan US House 6,2026-11-18T12:28+00:00
+MI,6,Clyde Shabazz,Green,2105,0.54,False,98.8,87206,Michigan US House 6,2026-11-18T12:28+00:00
+MI,6,Mike Mickevicius,U.S. Taxpayers,1019,0.26,False,98.8,87206,Michigan US House 6,2026-11-18T12:28+00:00
+MI,6,Write-in,Nonpartisan,220,0.06,False,98.8,87206,Michigan US House 6,2026-11-18T12:28+00:00
+MI,6,Bree Arlene Taylor,Nonpartisan,0,0.0,False,98.8,87206,Michigan US House 6,2026-11-18T12:28+00:00
+MI,7,William Lawrence,Democratic,202761,51.01,True,98.4,87207,Michigan US House 7,2026-11-18T12:28+00:00
+MI,7,Tom Barrett,Republican,189490,47.67,False,98.4,87207,Michigan US House 7,2026-11-18T12:28+00:00
+MI,7,Shane Dedrick,Green,4972,1.25,False,98.4,87207,Michigan US House 7,2026-11-18T12:28+00:00
+MI,7,Write-in,Nonpartisan,263,0.07,False,98.4,87207,Michigan US House 7,2026-11-18T12:28+00:00
+MI,8,Kristen McDonald Rivet,Democratic,195877,55.5,True,94.3,87208,Michigan US House 8,2026-11-18T12:28+00:00
+MI,8,Tom Smith,Republican,147857,41.89,False,94.3,87208,Michigan US House 8,2026-11-18T12:28+00:00
+MI,8,Kathy Goodwin,Working Class,5170,1.46,False,94.3,87208,Michigan US House 8,2026-11-18T12:28+00:00
+MI,8,C. Mia Pettus,Libertarian,2857,0.81,False,94.3,87208,Michigan US House 8,2026-11-18T12:28+00:00
+MI,8,Jim Casha,Green,1044,0.3,False,94.3,87208,Michigan US House 8,2026-11-18T12:28+00:00
+MI,8,Write-in,Nonpartisan,119,0.03,False,94.3,87208,Michigan US House 8,2026-11-18T12:28+00:00
+MI,9,Lisa McClain,Republican,247831,62.61,True,94.5,87209,Michigan US House 9,2026-11-18T12:28+00:00
+MI,9,Ray Pooley,Democratic,137295,34.69,False,94.5,87209,Michigan US House 9,2026-11-18T12:28+00:00
+MI,9,Jim Walkowicz,Working Class,4088,1.03,False,94.5,87209,Michigan US House 9,2026-11-18T12:28+00:00
+MI,9,Kevin Vayko,Libertarian,3457,0.87,False,94.5,87209,Michigan US House 9,2026-11-18T12:28+00:00
+MI,9,John Vlahos,U.S. Taxpayers,1578,0.4,False,94.5,87209,Michigan US House 9,2026-11-18T12:28+00:00
+MI,9,Destiny Clayton,Green,1377,0.35,False,94.5,87209,Michigan US House 9,2026-11-18T12:28+00:00
+MI,9,Write-in,Nonpartisan,205,0.05,False,94.5,87209,Michigan US House 9,2026-11-18T12:28+00:00
+MI,10,Christina Hines,Democratic,188166,52.37,True,96.8,87210,Michigan US House 10,2026-11-18T12:28+00:00
+MI,10,Michael Bouchard Jr.,Republican,162371,45.19,False,96.8,87210,Michigan US House 10,2026-11-18T12:28+00:00
+MI,10,Andrea L. Kirby,Working Class,3983,1.11,False,96.8,87210,Michigan US House 10,2026-11-18T12:28+00:00
+MI,10,Mike Saliba,Libertarian,3089,0.86,False,96.8,87210,Michigan US House 10,2026-11-18T12:28+00:00
+MI,10,Kwabena Nkromo,Green,1175,0.33,False,96.8,87210,Michigan US House 10,2026-11-18T12:28+00:00
+MI,10,Write-in,Nonpartisan,502,0.14,False,96.8,87210,Michigan US House 10,2026-11-18T12:28+00:00
+MI,11,Jeremy Moss,Democratic,238750,60.86,True,97.6,87211,Michigan US House 11,2026-11-18T12:28+00:00
+MI,11,Ethan Baker,Republican,144529,36.84,False,97.6,87211,Michigan US House 11,2026-11-18T12:28+00:00
+MI,11,Anil Kumar,No Party Affiliation,3174,0.81,False,97.6,87211,Michigan US House 11,2026-11-18T12:28+00:00
+MI,11,Farid Ishac,Libertarian,2946,0.75,False,97.6,87211,Michigan US House 11,2026-11-18T12:28+00:00
+MI,11,Ryan Teasdale,Green,2902,0.74,False,97.6,87211,Michigan US House 11,2026-11-18T12:28+00:00
+MI,12,Rashida Tlaib,Democratic,247185,75.84,True,96.8,87212,Michigan US House 12,2026-11-18T12:28+00:00
+MI,12,James Hooper,Republican,68960,21.16,False,96.8,87212,Michigan US House 12,2026-11-18T12:28+00:00
+MI,12,Gary Walkowicz,Working Class,3776,1.16,False,96.8,87212,Michigan US House 12,2026-11-18T12:28+00:00
+MI,12,Brenda K. Sanders,Green,3365,1.03,False,96.8,87212,Michigan US House 12,2026-11-18T12:28+00:00
+MI,12,Marc Joseph Sosnowski,U.S. Taxpayers,2036,0.62,False,96.8,87212,Michigan US House 12,2026-11-18T12:28+00:00
+MI,12,Write-in,Nonpartisan,605,0.19,False,96.8,87212,Michigan US House 12,2026-11-18T12:28+00:00
+MI,13,Donavan McKinney,Democratic,209882,76.27,True,96.7,87213,Michigan US House 13,2026-11-18T12:28+00:00
+MI,13,T.P. Nykoriak,Republican,54484,19.8,False,96.7,87213,Michigan US House 13,2026-11-18T12:28+00:00
+MI,13,Simone R. Coleman,Working Class,5743,2.09,False,96.7,87213,Michigan US House 13,2026-11-18T12:28+00:00
+MI,13,Chris Dardzinski,U.S. Taxpayers,2666,0.97,False,96.7,87213,Michigan US House 13,2026-11-18T12:28+00:00
+MI,13,Raelyn Light,Green,1549,0.56,False,96.7,87213,Michigan US House 13,2026-11-18T12:28+00:00
+MI,13,Write-in,Nonpartisan,868,0.32,False,96.7,87213,Michigan US House 13,2026-11-18T12:28+00:00
+MN,1,Jake Johnson,Democratic,163055,49.99,False,97.3,87221,Minnesota US House 1,2026-11-18T12:28+00:00
+MN,1,Brad Finstad,Republican,162733,49.89,False,97.3,87221,Minnesota US House 1,2026-11-18T12:28+00:00
+MN,1,Write-in,Nonpartisan,391,0.12,False,97.3,87221,Minnesota US House 1,2026-11-18T12:28+00:00
+MN,2,Matt Little,Democratic,214282,57.11,True,99,87222,Minnesota US House 2,2026-11-18T12:28+00:00
+MN,2,Eric Pratt,Republican,160645,42.81,False,99,87222,Minnesota US House 2,2026-11-18T12:28+00:00
+MN,2,Write-in,Nonpartisan,314,0.08,False,99,87222,Minnesota US House 2,2026-11-18T12:28+00:00
+MN,3,Kelly Morrison,Democratic,242079,64.04,True,99,87223,Minnesota US House 3,2026-11-18T12:28+00:00
+MN,3,Tyler Bass,Republican,135504,35.85,False,99,87223,Minnesota US House 3,2026-11-18T12:28+00:00
+MN,3,Write-in,Nonpartisan,413,0.11,False,99,87223,Minnesota US House 3,2026-11-18T12:28+00:00
+MN,4,Betty McCollum,Democratic,245699,73.07,True,99,87224,Minnesota US House 4,2026-11-18T12:28+00:00
+MN,4,Paul Wikstrom,Republican,90067,26.79,False,99,87224,Minnesota US House 4,2026-11-18T12:28+00:00
+MN,4,Write-in,Nonpartisan,477,0.14,False,99,87224,Minnesota US House 4,2026-11-18T12:28+00:00
+MN,5,Ilhan Omar,Democratic,263496,76.48,True,99,87225,Minnesota US House 5,2026-11-18T12:28+00:00
+MN,5,John Nagel,Republican,55851,16.21,False,99,87225,Minnesota US House 5,2026-11-18T12:28+00:00
+MN,5,DeVelle L. Jackson,Independent,24236,7.03,False,99,87225,Minnesota US House 5,2026-11-18T12:28+00:00
+MN,5,Write-in,Nonpartisan,934,0.27,False,99,87225,Minnesota US House 5,2026-11-18T12:28+00:00
+MN,6,Tom Emmer,Republican,204702,55.73,True,99,87226,Minnesota US House 6,2026-11-18T12:28+00:00
+MN,6,Doug Chapin,Democratic,162212,44.16,False,99,87226,Minnesota US House 6,2026-11-18T12:28+00:00
+MN,6,Write-in,Nonpartisan,427,0.12,False,99,87226,Minnesota US House 6,2026-11-18T12:28+00:00
+MN,7,Michelle Fischbach,Republican,214677,64.88,True,96.3,87227,Minnesota US House 7,2026-11-18T12:28+00:00
+MN,7,Erik Osberg,Democratic,115859,35.02,False,96.3,87227,Minnesota US House 7,2026-11-18T12:28+00:00
+MN,7,Write-in,Nonpartisan,322,0.1,False,96.3,87227,Minnesota US House 7,2026-11-18T12:28+00:00
+MN,8,Pete Stauber,Republican,190667,53.04,True,98.1,87228,Minnesota US House 8,2026-11-18T12:28+00:00
+MN,8,Trina Swanson,Democratic,168427,46.86,False,98.1,87228,Minnesota US House 8,2026-11-18T12:28+00:00
+MN,8,Write-in,Nonpartisan,359,0.1,False,98.1,87228,Minnesota US House 8,2026-11-18T12:28+00:00
+MS,1,Trent Kelly,Republican,141401,57.97,True,99,81000,Mississippi US House 1,2026-11-18T12:28+00:00
+MS,1,Cliff Johnson,Democratic,99147,40.64,False,99,81000,Mississippi US House 1,2026-11-18T12:28+00:00
+MS,1,Johnny Baucom,Libertarian,3390,1.39,False,99,81000,Mississippi US House 1,2026-11-18T12:28+00:00
+MS,2,Bennie Thompson,Democratic,169048,67.89,True,99,81001,Mississippi US House 2,2026-11-18T12:28+00:00
+MS,2,Ron Eller,Republican,73941,29.7,False,99,81001,Mississippi US House 2,2026-11-18T12:28+00:00
+MS,2,Bennie Foster,Independent,6004,2.41,False,99,81001,Mississippi US House 2,2026-11-18T12:28+00:00
+MS,3,Michael Guest,Republican,147295,57.28,True,99,81002,Mississippi US House 3,2026-11-18T12:28+00:00
+MS,3,Michael Chiaradio,Democratic,106650,41.47,False,99,81002,Mississippi US House 3,2026-11-18T12:28+00:00
+MS,3,Erik Kiehle,Libertarian,3225,1.25,False,99,81002,Mississippi US House 3,2026-11-18T12:28+00:00
+MS,4,Mike Ezell,Republican,133614,60.81,True,95.4,81003,Mississippi US House 4,2026-11-18T12:28+00:00
+MS,4,Jeffrey Hulum,Democratic,79367,36.12,False,95.4,81003,Mississippi US House 4,2026-11-18T12:28+00:00
+MS,4,Carl Boyanton,Independent,6726,3.06,False,95.4,81003,Mississippi US House 4,2026-11-18T12:28+00:00
+MO,1,Wesley Bell,Democratic,189175,81.49,True,99,87234,Missouri US House 1,2026-11-18T12:28+00:00
+MO,1,Paul Berry,Republican,32362,13.94,False,99,87234,Missouri US House 1,2026-11-18T12:28+00:00
+MO,1,Tom Schmitz,Libertarian,10613,4.57,False,99,87234,Missouri US House 1,2026-11-18T12:28+00:00
+MO,2,Fred Wellman,Democratic,169523,51.14,True,99,87235,Missouri US House 2,2026-11-18T12:28+00:00
+MO,2,Ann Wagner,Republican,153171,46.21,False,99,87235,Missouri US House 2,2026-11-18T12:28+00:00
+MO,2,Brandon Coulter Daugherty,Libertarian,8784,2.65,False,99,87235,Missouri US House 2,2026-11-18T12:28+00:00
+MO,3,Bob Onder,Republican,149372,52.87,True,99,87236,Missouri US House 3,2026-11-18T12:28+00:00
+MO,3,Bethany Mann,Democratic,125433,44.4,False,99,87236,Missouri US House 3,2026-11-18T12:28+00:00
+MO,3,Jim Higgins,Libertarian,7708,2.73,False,99,87236,Missouri US House 3,2026-11-18T12:28+00:00
+MO,4,Mark Alford,Republican,154256,61.52,True,99,87237,Missouri US House 4,2026-11-18T12:28+00:00
+MO,4,Jordan Herrera,Democratic,89196,35.57,False,99,87237,Missouri US House 4,2026-11-18T12:28+00:00
+MO,4,Thomas Holbrook,Libertarian,7290,2.91,False,99,87237,Missouri US House 4,2026-11-18T12:28+00:00
+MO,5,Emanuel Cleaver,Democratic,179256,69.49,True,99,87238,Missouri US House 5,2026-11-18T12:28+00:00
+MO,5,Rick Brattin,Republican,72572,28.13,False,99,87238,Missouri US House 5,2026-11-18T12:28+00:00
+MO,5,Randall (Randy) Langkraehr,Libertarian,6128,2.38,False,99,87238,Missouri US House 5,2026-11-18T12:28+00:00
+MO,6,Chris Stigall,Republican,151374,58.7,True,99,87239,Missouri US House 6,2026-11-18T12:28+00:00
+MO,6,Josh Smead,Democratic,100460,38.96,False,99,87239,Missouri US House 6,2026-11-18T12:28+00:00
+MO,6,Andy Maidment,Libertarian,6031,2.34,False,99,87239,Missouri US House 6,2026-11-18T12:28+00:00
+MO,7,Eric Burlison,Republican,158413,62.19,True,99,87240,Missouri US House 7,2026-11-18T12:28+00:00
+MO,7,Missi Hesketh,Democratic,90186,35.4,False,99,87240,Missouri US House 7,2026-11-18T12:28+00:00
+MO,7,Kevin Craig,Libertarian,6141,2.41,False,99,87240,Missouri US House 7,2026-11-18T12:28+00:00
+MO,8,Jason Smith,Republican,152685,67.73,True,99,87241,Missouri US House 8,2026-11-18T12:28+00:00
+MO,8,Christopher Reichard,Democratic,65754,29.17,False,99,87241,Missouri US House 8,2026-11-18T12:28+00:00
+MO,8,Rebecca Sharpe Lombard,Libertarian,6997,3.1,False,99,87241,Missouri US House 8,2026-11-18T12:28+00:00
+MT,1,Sam Forstag,Democratic,135136,50.48,True,90,87245,Montana US House 1,2026-11-18T12:28+00:00
+MT,1,Aaron Flint,Republican,124854,46.64,False,90,87245,Montana US House 1,2026-11-18T12:28+00:00
+MT,1,Nick Sheedy,Libertarian,7721,2.88,False,90,87245,Montana US House 1,2026-11-18T12:28+00:00
+MT,2,Troy Downing,Republican,128186,58.11,True,81.8,87246,Montana US House 2,2026-11-18T12:28+00:00
+MT,2,Brian Miller,Democratic,71179,32.26,False,81.8,87246,Montana US House 2,2026-11-18T12:28+00:00
+MT,2,Michael Eisenhauer,Independent,17199,7.8,False,81.8,87246,Montana US House 2,2026-11-18T12:28+00:00
+MT,2,Patrick McCracken,Libertarian,4046,1.83,False,81.8,87246,Montana US House 2,2026-11-18T12:28+00:00
+NE,1,Mike  Flood,Republican,128772,49.65,True,99,87251,Nebraska US House 1,2026-11-18T12:28+00:00
+NE,1,Chris  Backemeyer,Democratic,121340,46.78,False,99,87251,Nebraska US House 1,2026-11-18T12:28+00:00
+NE,1,Nik  Sandman,Libertarian,4739,1.83,False,99,87251,Nebraska US House 1,2026-11-18T12:28+00:00
+NE,1,Dan  Hartong,America First,4509,1.74,False,99,87251,Nebraska US House 1,2026-11-18T12:28+00:00
+NE,2,Denise  Powell,Democratic,145503,56.66,True,99,87252,Nebraska US House 2,2026-11-18T12:28+00:00
+NE,2,Brinker  Harding,Republican,104611,40.74,False,99,87252,Nebraska US House 2,2026-11-18T12:28+00:00
+NE,2,Eric Michael Foreman,Libertarian,6686,2.6,False,99,87252,Nebraska US House 2,2026-11-18T12:28+00:00
+NE,3,Adrian  Smith,Republican,174289,71.0,True,93.7,87253,Nebraska US House 3,2026-11-18T12:28+00:00
+NE,3,Becky Stille,Democratic,49066,19.99,False,93.7,87253,Nebraska US House 3,2026-11-18T12:28+00:00
+NE,3,Mark  Cohen,Independent,8109,3.3,False,93.7,87253,Nebraska US House 3,2026-11-18T12:28+00:00
+NE,3,David Else,Legal Marijuana Now,7140,2.91,False,93.7,87253,Nebraska US House 3,2026-11-18T12:28+00:00
+NE,3,Macey  Budke,Nebraska Working People,6876,2.8,False,93.7,87253,Nebraska US House 3,2026-11-18T12:28+00:00
+NV,1,Dina Titus,Democratic,140944,59.21,True,89.1,87256,Nevada US House 1,2026-11-18T12:28+00:00
+NV,1,Carrie Buck,Republican,89724,37.69,False,89.1,87256,Nevada US House 1,2026-11-18T12:28+00:00
+NV,1,"Steven ""Chap"" St John",No Political Party,4116,1.73,False,89.1,87256,Nevada US House 1,2026-11-18T12:28+00:00
+NV,1,"Afzal ""Bobby"" Khan",No Political Party,3261,1.37,False,89.1,87256,Nevada US House 1,2026-11-18T12:28+00:00
+NV,2,Teresa Benitez-Thompson,Democratic,161624,50.19,True,91.7,87257,Nevada US House 2,2026-11-18T12:28+00:00
+NV,2,Dave Flippo,Republican,142761,44.33,False,91.7,87257,Nevada US House 2,2026-11-18T12:28+00:00
+NV,2,Lynn Chapman,Independent American,17636,5.48,False,91.7,87257,Nevada US House 2,2026-11-18T12:28+00:00
+NV,3,Susie Lee,Democratic,161418,59.57,True,89.1,87258,Nevada US House 3,2026-11-18T12:28+00:00
+NV,3,Martin O'Donnell,Republican,103197,38.09,False,89.1,87258,Nevada US House 3,2026-11-18T12:28+00:00
+NV,3,Jon Kamerath,Independent American,6345,2.34,False,89.1,87258,Nevada US House 3,2026-11-18T12:28+00:00
+NV,4,Steven Horsford,Democratic,152281,60.38,True,81.3,87259,Nevada US House 4,2026-11-18T12:28+00:00
+NV,4,Cody Whipple,Republican,95097,37.71,False,81.3,87259,Nevada US House 4,2026-11-18T12:28+00:00
+NV,4,Russell Best,Independent American,2544,1.01,False,81.3,87259,Nevada US House 4,2026-11-18T12:28+00:00
+NV,4,William Johnson,No Political Party,2280,0.9,False,81.3,87259,Nevada US House 4,2026-11-18T12:28+00:00
+NH,1,Stefany Shaheen,Democratic,180683,56.96,True,93.3,87281,New Hampshire US House 1,2026-11-18T12:28+00:00
+NH,1,Anthony DiLorenzo,Republican,136041,42.88,False,93.3,87281,New Hampshire US House 1,2026-11-18T12:28+00:00
+NH,1,Write-in,Nonpartisan,508,0.16,False,93.3,87281,New Hampshire US House 1,2026-11-18T12:28+00:00
+NH,2,Maggie Goodlander,Democratic,187657,59.01,True,90.9,87282,New Hampshire US House 2,2026-11-18T12:28+00:00
+NH,2,Lily Tang Williams,Republican,122645,38.57,False,90.9,87282,New Hampshire US House 2,2026-11-18T12:28+00:00
+NH,2,Robbie Mahrou,Independent,7478,2.35,False,90.9,87282,New Hampshire US House 2,2026-11-18T12:28+00:00
+NH,2,Write-in,Nonpartisan,234,0.07,False,90.9,87282,New Hampshire US House 2,2026-11-18T12:28+00:00
+NJ,1,Donald Norcross,Democratic,181836,70.32,True,82.6,87290,New Jersey US House 1,2026-11-18T12:28+00:00
+NJ,1,Damon Galdo,Republican,76463,29.57,False,82.6,87290,New Jersey US House 1,2026-11-18T12:28+00:00
+NJ,1,Write-in,Nonpartisan,271,0.1,False,82.6,87290,New Jersey US House 1,2026-11-18T12:28+00:00
+NJ,1,Robin Brownfield,Write-In,3,0.0,False,82.6,87290,New Jersey US House 1,2026-11-18T12:28+00:00
+NJ,1,Carole Roskoph,Write-In,2,0.0,False,82.6,87290,New Jersey US House 1,2026-11-18T12:28+00:00
+NJ,1,Jesus,Write-In,1,0.0,False,82.6,87290,New Jersey US House 1,2026-11-18T12:28+00:00
+NJ,1,Theodore Plush Do,Write-In,1,0.0,False,82.6,87290,New Jersey US House 1,2026-11-18T12:28+00:00
+NJ,1,Lynn Sarsillo,Write-In,1,0.0,False,82.6,87290,New Jersey US House 1,2026-11-18T12:28+00:00
+NJ,1,Simon,Write-In,1,0.0,False,82.6,87290,New Jersey US House 1,2026-11-18T12:28+00:00
+NJ,1,Brian K Everett,Write-In,1,0.0,False,82.6,87290,New Jersey US House 1,2026-11-18T12:28+00:00
+NJ,1,Larry Merrill,Write-In,1,0.0,False,82.6,87290,New Jersey US House 1,2026-11-18T12:28+00:00
+NJ,1,Lee Widman,Write-In,1,0.0,False,82.6,87290,New Jersey US House 1,2026-11-18T12:28+00:00
+NJ,1,Veronica Fernandez,Write-In,1,0.0,False,82.6,87290,New Jersey US House 1,2026-11-18T12:28+00:00
+NJ,1,Not A. Norcross,Write-In,1,0.0,False,82.6,87290,New Jersey US House 1,2026-11-18T12:28+00:00
+NJ,1,Abby Walker,Write-In,1,0.0,False,82.6,87290,New Jersey US House 1,2026-11-18T12:28+00:00
+NJ,1,Monkey D. Luffy,Write-In,1,0.0,False,82.6,87290,New Jersey US House 1,2026-11-18T12:28+00:00
+NJ,1,Donald Duck,Write-In,1,0.0,False,82.6,87290,New Jersey US House 1,2026-11-18T12:28+00:00
+NJ,1,Isaiah Fletcher,Write-In,1,0.0,False,82.6,87290,New Jersey US House 1,2026-11-18T12:28+00:00
+NJ,1,Mohammad,Write-In,1,0.0,False,82.6,87290,New Jersey US House 1,2026-11-18T12:28+00:00
+NJ,1,Motaharaa,Write-In,1,0.0,False,82.6,87290,New Jersey US House 1,2026-11-18T12:28+00:00
+NJ,1,Bill Finn,Write-In,1,0.0,False,82.6,87290,New Jersey US House 1,2026-11-18T12:28+00:00
+NJ,2,Zack Mullock,Democratic,137722,50.82,True,85,87291,New Jersey US House 2,2026-11-18T12:28+00:00
+NJ,2,Jeff Van Drew,Republican,130305,48.09,False,85,87291,New Jersey US House 2,2026-11-18T12:28+00:00
+NJ,2,Ramon Mora Jr.,Independent,2841,1.05,False,85,87291,New Jersey US House 2,2026-11-18T12:28+00:00
+NJ,2,Write-in,Nonpartisan,103,0.04,False,85,87291,New Jersey US House 2,2026-11-18T12:28+00:00
+NJ,2,Tim Alexander,Independent,2,0.0,False,85,87291,New Jersey US House 2,2026-11-18T12:28+00:00
+NJ,2,Andres Jinete,Independent,1,0.0,False,85,87291,New Jersey US House 2,2026-11-18T12:28+00:00
+NJ,2,Layla Narzikulov,Independent,1,0.0,False,85,87291,New Jersey US House 2,2026-11-18T12:28+00:00
+NJ,2,Joe Kent,Independent,1,0.0,False,85,87291,New Jersey US House 2,2026-11-18T12:28+00:00
+NJ,2,Jenna Weber,Independent,1,0.0,False,85,87291,New Jersey US House 2,2026-11-18T12:28+00:00
+NJ,3,Herb Conaway,Democratic,173675,62.7,True,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Michael McGuire,Republican,97630,35.25,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Ryan Michael Kelly,Independent,3687,1.33,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Steven Welzer,Green,1722,0.62,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Write-in,Nonpartisan,190,0.07,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Jason Cullen,Write-In,16,0.01,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Thomas Massie,Write-In,3,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Aaron Mitchell,Write-In,2,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Fred A. Hartley Jr.,Write-In,2,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,No One,Write-In,2,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,None of the Above,Write-In,2,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Gary Stout,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,William Bishop,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Joseph Koreg Jr.,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Caileigh Valig,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Denise Trautmann,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Fred Porter,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Birdi Zasoski,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Anna Evans,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Orion Pax,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Kevin Cureton,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Anthony Chigounis,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Joseph C Defeo,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Peter Toich,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Adam Hamawy,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Laura Fitzgerald,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,John Quinones,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Undecided,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Lana Leguia,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Joseph D. Quinn II,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Steven Bowker,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Hind Rajab,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Richard A. Coupe,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Ayishat Akanbi,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Jerry L. Woodard,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Al Roach,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,John Potts,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Mom,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Brendan Meyers,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Dan Kennedy,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Jason Method,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Seamus O'tool,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Gerrad Doran Jr.,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Nancy Berkley,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Troy Green,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Verstappan,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Muhhamad Jawaad Hussian,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Matthew Christ,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Emily Connerly,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Michael Yekenchik,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Richard Evano,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,John Ferry,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Tom Hammer,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Aaron Glenn,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Ralph Cifaretto,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Impeach Trump,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Matthew Heberlig,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Jesus Christ,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Richard I. Carpenter,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Me,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Steve Rinella,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Stetson Brown,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,LeBron James,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Thomas Terifay Sr,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Dewey,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Brande Kelley,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Bonnie Watson Coleman,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Tineen Howard,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,William L Odom Jr.,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Rush Holt,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Vic Kaplan,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,St. Augustine of Hippo,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Dominic Sorretino,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Term Limits,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,David Smith,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Nick Foles,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,3,Crap Options,Write-In,1,0.0,False,82.5,87292,New Jersey US House 3,2026-11-18T12:28+00:00
+NJ,4,Chris Smith,Republican,157739,58.92,True,83.8,87293,New Jersey US House 4,2026-11-18T12:28+00:00
+NJ,4,Rachel Peace,Democratic,109668,40.96,False,83.8,87293,New Jersey US House 4,2026-11-18T12:28+00:00
+NJ,4,Write-in,Nonpartisan,327,0.12,False,83.8,87293,New Jersey US House 4,2026-11-18T12:28+00:00
+NJ,5,Josh Gottheimer,Democratic,170168,62.46,True,81.4,87294,New Jersey US House 5,2026-11-18T12:28+00:00
+NJ,5,Sean Kirrane,Republican,94149,34.56,False,81.4,87294,New Jersey US House 5,2026-11-18T12:28+00:00
+NJ,5,Adam Rueda,Independent,8120,2.98,False,81.4,87294,New Jersey US House 5,2026-11-18T12:28+00:00
+NJ,5,Write-in,Nonpartisan,23,0.01,False,81.4,87294,New Jersey US House 5,2026-11-18T12:28+00:00
+NJ,6,Frank Pallone,Democratic,148155,69.13,True,81.6,87295,New Jersey US House 6,2026-11-18T12:28+00:00
+NJ,6,Hillary Herzig,Republican,65247,30.45,False,81.6,87295,New Jersey US House 6,2026-11-18T12:28+00:00
+NJ,6,Write-in,Nonpartisan,898,0.42,False,81.6,87295,New Jersey US House 6,2026-11-18T12:28+00:00
+NJ,7,Rebecca Bennett,Democratic,192270,57.43,True,88.8,87296,New Jersey US House 7,2026-11-18T12:28+00:00
+NJ,7,Thomas Kean Jr.,Republican,137128,40.96,False,88.8,87296,New Jersey US House 7,2026-11-18T12:28+00:00
+NJ,7,Seamus Patrick O'Toole,Independent,5184,1.55,False,88.8,87296,New Jersey US House 7,2026-11-18T12:28+00:00
+NJ,7,Write-in,Nonpartisan,209,0.06,False,88.8,87296,New Jersey US House 7,2026-11-18T12:28+00:00
+NJ,8,Rob Menendez,Democratic,112079,87.99,True,66.9,87297,New Jersey US House 8,2026-11-18T12:28+00:00
+NJ,8,Craig Honts,Socialist Workers,5406,4.24,False,66.9,87297,New Jersey US House 8,2026-11-18T12:28+00:00
+NJ,8,Aristotle Eliopoulos,Independent,5350,4.2,False,66.9,87297,New Jersey US House 8,2026-11-18T12:28+00:00
+NJ,8,Da'Shone Hughey,Independent,3708,2.91,False,66.9,87297,New Jersey US House 8,2026-11-18T12:28+00:00
+NJ,8,Write-in,Nonpartisan,833,0.65,False,66.9,87297,New Jersey US House 8,2026-11-18T12:28+00:00
+NJ,9,Nellie Pou,Democratic,123779,66.67,True,77.1,87298,New Jersey US House 9,2026-11-18T12:28+00:00
+NJ,9,Rosie Pino,Republican,58909,31.73,False,77.1,87298,New Jersey US House 9,2026-11-18T12:28+00:00
+NJ,9,Terrisa Bukovinac,Independent,2714,1.46,False,77.1,87298,New Jersey US House 9,2026-11-18T12:28+00:00
+NJ,9,Write-in,Nonpartisan,249,0.13,False,77.1,87298,New Jersey US House 9,2026-11-18T12:28+00:00
+NJ,10,LaMonica McIver,Democratic,154299,84.59,True,75.8,87299,New Jersey US House 10,2026-11-18T12:28+00:00
+NJ,10,Carmen Bucco,Republican,28007,15.35,False,75.8,87299,New Jersey US House 10,2026-11-18T12:28+00:00
+NJ,10,Write-in,Nonpartisan,92,0.05,False,75.8,87299,New Jersey US House 10,2026-11-18T12:28+00:00
+NJ,11,Analilia Mejia,Democratic,170498,60.73,True,79.8,87300,New Jersey US House 11,2026-11-18T12:28+00:00
+NJ,11,Joe Hathaway,Republican,107369,38.24,False,79.8,87300,New Jersey US House 11,2026-11-18T12:28+00:00
+NJ,11,Alan B. Bond,Independent,2513,0.9,False,79.8,87300,New Jersey US House 11,2026-11-18T12:28+00:00
+NJ,11,Write-in,Nonpartisan,369,0.13,False,79.8,87300,New Jersey US House 11,2026-11-18T12:28+00:00
+NJ,12,Adam Hamawy,Democratic,168166,70.41,True,83.3,87301,New Jersey US House 12,2026-11-18T12:28+00:00
+NJ,12,Gregg Mele,Republican,66417,27.81,False,83.3,87301,New Jersey US House 12,2026-11-18T12:28+00:00
+NJ,12,Winston Jordan,Independent,1865,0.78,False,83.3,87301,New Jersey US House 12,2026-11-18T12:28+00:00
+NJ,12,Andres Jinete,Green,1738,0.73,False,83.3,87301,New Jersey US House 12,2026-11-18T12:28+00:00
+NJ,12,Write-in,Nonpartisan,636,0.27,False,83.3,87301,New Jersey US House 12,2026-11-18T12:28+00:00
+NM,1,Melanie Stansbury,Democratic,179858,63.64,True,90.6,87285,New Mexico US House 1,2026-11-18T12:28+00:00
+NM,1,Didi Okpareke,Republican,102778,36.36,False,90.6,87285,New Mexico US House 1,2026-11-18T12:28+00:00
+NM,2,Gabe Vasquez,Democratic,123753,58.75,True,88.4,87286,New Mexico US House 2,2026-11-18T12:28+00:00
+NM,2,Greg Cunningham,Republican,86875,41.25,False,88.4,87286,New Mexico US House 2,2026-11-18T12:28+00:00
+NM,3,Teresa Leger Fernandez,Democratic,141444,61.66,True,86.4,87287,New Mexico US House 3,2026-11-18T12:28+00:00
+NM,3,Martin Zamora,Republican,87964,38.34,False,86.4,87287,New Mexico US House 3,2026-11-18T12:28+00:00
+NY,1,Nick LaLota,Republican,152546,51.09,True,83.9,87303,New York US House 1,2026-11-18T12:28+00:00
+NY,1,Chris Gallant,Democratic,145869,48.85,False,83.9,87303,New York US House 1,2026-11-18T12:28+00:00
+NY,1,Write-in,Nonpartisan,170,0.06,False,83.9,87303,New York US House 1,2026-11-18T12:28+00:00
+NY,2,Andrew Garbarino,Republican,124271,51.11,True,83.7,87304,New York US House 2,2026-11-18T12:28+00:00
+NY,2,Patrick Halpin,Democratic,118680,48.81,False,83.7,87304,New York US House 2,2026-11-18T12:28+00:00
+NY,2,Write-in,Nonpartisan,201,0.08,False,83.7,87304,New York US House 2,2026-11-18T12:28+00:00
+NY,3,Tom Suozzi,Democratic,141870,55.01,True,82,87305,New York US House 3,2026-11-18T12:28+00:00
+NY,3,Mike LiPetri,Republican,115330,44.72,False,82,87305,New York US House 3,2026-11-18T12:28+00:00
+NY,3,Write-in,Nonpartisan,696,0.27,False,82,87305,New York US House 3,2026-11-18T12:28+00:00
+NY,4,Laura Gillen,Democratic,146755,56.55,True,81.7,87306,New York US House 4,2026-11-18T12:28+00:00
+NY,4,Jeanine Driscoll,Republican,111878,43.11,False,81.7,87306,New York US House 4,2026-11-18T12:28+00:00
+NY,4,Blay Tarnoff,Libertarian,637,0.25,False,81.7,87306,New York US House 4,2026-11-18T12:28+00:00
+NY,4,Write-in,Nonpartisan,234,0.09,False,81.7,87306,New York US House 4,2026-11-18T12:28+00:00
+NY,5,Gregory Meeks,Democratic,129931,80.49,True,82.6,87307,New York US House 5,2026-11-18T12:28+00:00
+NY,5,George Marsh,Republican,31082,19.26,False,82.6,87307,New York US House 5,2026-11-18T12:28+00:00
+NY,5,Write-in,Nonpartisan,405,0.25,False,82.6,87307,New York US House 5,2026-11-18T12:28+00:00
+NY,6,Grace Meng,Democratic,92474,68.63,True,82.6,87308,New York US House 6,2026-11-18T12:28+00:00
+NY,6,Joseph Chou,Republican,41225,30.59,False,82.6,87308,New York US House 6,2026-11-18T12:28+00:00
+NY,6,Write-in,Nonpartisan,1050,0.78,False,82.6,87308,New York US House 6,2026-11-18T12:28+00:00
+NY,7,Claire Valdez,Democratic,135179,83.33,True,82.1,87309,New York US House 7,2026-11-18T12:28+00:00
+NY,7,Melvin Rivera,Republican,24370,15.02,False,82.1,87309,New York US House 7,2026-11-18T12:28+00:00
+NY,7,Priscilla Ghaznavi,Independent,2155,1.33,False,82.1,87309,New York US House 7,2026-11-18T12:28+00:00
+NY,7,Write-in,Nonpartisan,514,0.32,False,82.1,87309,New York US House 7,2026-11-18T12:28+00:00
+NY,8,Hakeem Jeffries,Democratic,128197,78.94,True,81.8,87310,New York US House 8,2026-11-18T12:28+00:00
+NY,8,Lewis Mizrahi,Republican,31969,19.68,False,81.8,87310,New York US House 8,2026-11-18T12:28+00:00
+NY,8,Write-in,Nonpartisan,2238,1.38,False,81.8,87310,New York US House 8,2026-11-18T12:28+00:00
+NY,9,Yvette Clarke,Democratic,146503,82.09,True,81.8,87311,New York US House 9,2026-11-18T12:28+00:00
+NY,9,Joel Anabilah-Azumah,Republican,30378,17.02,False,81.8,87311,New York US House 9,2026-11-18T12:28+00:00
+NY,9,Write-in,Nonpartisan,1584,0.89,False,81.8,87311,New York US House 9,2026-11-18T12:28+00:00
+NY,10,Brad Lander,Democratic,167343,83.21,True,82.2,87312,New York US House 10,2026-11-18T12:28+00:00
+NY,10,Jennifer Moore,Republican,31912,15.87,False,82.2,87312,New York US House 10,2026-11-18T12:28+00:00
+NY,10,Write-in,Nonpartisan,1865,0.93,False,82.2,87312,New York US House 10,2026-11-18T12:28+00:00
+NY,11,Nicole Malliotakis,Republican,101719,56.1,True,80.2,87313,New York US House 11,2026-11-18T12:28+00:00
+NY,11,Michael DeCillis,Democratic,79370,43.77,False,80.2,87313,New York US House 11,2026-11-18T12:28+00:00
+NY,11,Write-in,Nonpartisan,227,0.13,False,80.2,87313,New York US House 11,2026-11-18T12:28+00:00
+NY,12,Micah Lasher,Democratic,193614,77.2,True,82.7,87314,New York US House 12,2026-11-18T12:28+00:00
+NY,12,Caroline Shinkle,Republican,50212,20.02,False,82.7,87314,New York US House 12,2026-11-18T12:28+00:00
+NY,12,Karen Ortiz,Independent,3429,1.37,False,82.7,87314,New York US House 12,2026-11-18T12:28+00:00
+NY,12,Wilneida Negron,Independent,2894,1.15,False,82.7,87314,New York US House 12,2026-11-18T12:28+00:00
+NY,12,Write-in,Nonpartisan,632,0.25,False,82.7,87314,New York US House 12,2026-11-18T12:28+00:00
+NY,13,Darializa Avila Chevalier,Democratic,141014,87.52,True,81.9,87315,New York US House 13,2026-11-18T12:28+00:00
+NY,13,"Manual ""Jomo"" Williams",Republican,18308,11.36,False,81.9,87315,New York US House 13,2026-11-18T12:28+00:00
+NY,13,Write-in,Nonpartisan,1795,1.11,False,81.9,87315,New York US House 13,2026-11-18T12:28+00:00
+NY,14,Alexandria Ocasio-Cortez,Democratic,107129,78.22,True,80.4,87316,New York US House 14,2026-11-18T12:28+00:00
+NY,14,Diamant Hysenaj,Republican,29505,21.54,False,80.4,87316,New York US House 14,2026-11-18T12:28+00:00
+NY,14,Write-in,Nonpartisan,322,0.24,False,80.4,87316,New York US House 14,2026-11-18T12:28+00:00
+NY,15,Ritchie Torres,Democratic,93812,76.79,True,78.3,87317,New York US House 15,2026-11-18T12:28+00:00
+NY,15,Stylo Sapaskis,Republican,13004,10.64,False,78.3,87317,New York US House 15,2026-11-18T12:28+00:00
+NY,15,Andre Easton,Socialism PSL,10647,8.71,False,78.3,87317,New York US House 15,2026-11-18T12:28+00:00
+NY,15,Jose Vega,Independent,2348,1.92,False,78.3,87317,New York US House 15,2026-11-18T12:28+00:00
+NY,15,Gonzalo Duran,Conservative,2075,1.7,False,78.3,87317,New York US House 15,2026-11-18T12:28+00:00
+NY,15,Write-in,Nonpartisan,283,0.23,False,78.3,87317,New York US House 15,2026-11-18T12:28+00:00
+NY,16,George Latimer,Democratic,175900,75.76,True,89.9,87318,New York US House 16,2026-11-18T12:28+00:00
+NY,16,Joseph Cinquemani,Republican,55549,23.92,False,89.9,87318,New York US House 16,2026-11-18T12:28+00:00
+NY,16,Write-in,Nonpartisan,736,0.32,False,89.9,87318,New York US House 16,2026-11-18T12:28+00:00
+NY,17,Cait Conley,Democratic,167892,53.0,True,93.2,87319,New York US House 17,2026-11-18T12:28+00:00
+NY,17,Mike Lawler,Republican,148557,46.89,False,93.2,87319,New York US House 17,2026-11-18T12:28+00:00
+NY,17,Write-in,Nonpartisan,341,0.11,False,93.2,87319,New York US House 17,2026-11-18T12:28+00:00
+NY,18,Pat Ryan,Democratic,169001,62.87,True,87.4,87320,New York US House 18,2026-11-18T12:28+00:00
+NY,18,Jacqueline Auringer,Republican,99621,37.06,False,87.4,87320,New York US House 18,2026-11-18T12:28+00:00
+NY,18,Write-in,Nonpartisan,194,0.07,False,87.4,87320,New York US House 18,2026-11-18T12:28+00:00
+NY,19,Josh Riley,Democratic,167555,57.29,True,88.8,87321,New York US House 19,2026-11-18T12:28+00:00
+NY,19,Peter Oberacker,Republican,124621,42.61,False,88.8,87321,New York US House 19,2026-11-18T12:28+00:00
+NY,19,Write-in,Nonpartisan,306,0.1,False,88.8,87321,New York US House 19,2026-11-18T12:28+00:00
+NY,20,Paul Tonko,Democratic,184356,63.71,True,90.9,87322,New York US House 20,2026-11-18T12:28+00:00
+NY,20,Ralph Ambrosio,Republican,104749,36.2,False,90.9,87322,New York US House 20,2026-11-18T12:28+00:00
+NY,20,Write-in,Nonpartisan,255,0.09,False,90.9,87322,New York US House 20,2026-11-18T12:28+00:00
+NY,21,Anthony Constantino,Republican,141326,50.69,True,88.9,87323,New York US House 21,2026-11-18T12:28+00:00
+NY,21,Blake Gendebien,Democratic,136848,49.08,False,88.9,87323,New York US House 21,2026-11-18T12:28+00:00
+NY,21,Write-in,Nonpartisan,651,0.23,False,88.9,87323,New York US House 21,2026-11-18T12:28+00:00
+NY,22,John Mannion,Democratic,161708,58.46,True,90.9,87324,New York US House 22,2026-11-18T12:28+00:00
+NY,22,Kailee Buller,Republican,114691,41.46,False,90.9,87324,New York US House 22,2026-11-18T12:28+00:00
+NY,22,Write-in,Nonpartisan,221,0.08,False,90.9,87324,New York US House 22,2026-11-18T12:28+00:00
+NY,23,Nick Langworthy,Republican,182886,60.11,True,89.3,87325,New York US House 23,2026-11-18T12:28+00:00
+NY,23,Aaron Gies,Democratic,121217,39.84,False,89.3,87325,New York US House 23,2026-11-18T12:28+00:00
+NY,23,Write-in,Nonpartisan,153,0.05,False,89.3,87325,New York US House 23,2026-11-18T12:28+00:00
+NY,24,Claudia Tenney,Republican,171838,60.35,True,88.3,87326,New York US House 24,2026-11-18T12:28+00:00
+NY,24,Alissa Ellman,Democratic,112776,39.6,False,88.3,87326,New York US House 24,2026-11-18T12:28+00:00
+NY,24,Write-in,Nonpartisan,142,0.05,False,88.3,87326,New York US House 24,2026-11-18T12:28+00:00
+NY,25,Joseph Morelle,Democratic,176500,62.87,True,88.5,87327,New York US House 25,2026-11-18T12:28+00:00
+NY,25,Virginia McIntyre,Republican,103471,36.86,False,88.5,87327,New York US House 25,2026-11-18T12:28+00:00
+NY,25,Write-in,Nonpartisan,775,0.28,False,88.5,87327,New York US House 25,2026-11-18T12:28+00:00
+NY,26,Tim Kennedy,Democratic,165084,65.94,True,90.3,87328,New York US House 26,2026-11-18T12:28+00:00
+NY,26,Dennis Hannon,Republican,84908,33.91,False,90.3,87328,New York US House 26,2026-11-18T12:28+00:00
+NY,26,Write-in,Nonpartisan,371,0.15,False,90.3,87328,New York US House 26,2026-11-18T12:28+00:00
+NC,1,Don Davis,Democratic,157490,50.14,True,96.7,87332,North Carolina US House 1,2026-11-18T12:28+00:00
+NC,1,Laurie Buckhout,Republican,146696,46.7,False,96.7,87332,North Carolina US House 1,2026-11-18T12:28+00:00
+NC,1,Tom Bailey,Libertarian,9944,3.17,False,96.7,87332,North Carolina US House 1,2026-11-18T12:28+00:00
+NC,2,Deborah Ross,Democratic,246446,75.08,True,99,87333,North Carolina US House 2,2026-11-18T12:28+00:00
+NC,2,Gene Douglass,Republican,76976,23.45,False,99,87333,North Carolina US House 2,2026-11-18T12:28+00:00
+NC,2,Matt Laszacs,Libertarian,4299,1.31,False,99,87333,North Carolina US House 2,2026-11-18T12:28+00:00
+NC,2,Brian McGinnis,Write-In,270,0.08,False,99,87333,North Carolina US House 2,2026-11-18T12:28+00:00
+NC,2,Write-In,Nonpartisan,265,0.08,False,99,87333,North Carolina US House 2,2026-11-18T12:28+00:00
+NC,3,Raymond Smith Jr.,Democratic,118434,49.43,True,89.4,87334,North Carolina US House 3,2026-11-18T12:28+00:00
+NC,3,Greg Murphy,Republican,118176,49.32,False,89.4,87334,North Carolina US House 3,2026-11-18T12:28+00:00
+NC,3,Daniel Cavender,Libertarian,3004,1.25,False,89.4,87334,North Carolina US House 3,2026-11-18T12:28+00:00
+NC,4,Valerie Foushee,Democratic,284548,79.14,True,98.6,87335,North Carolina US House 4,2026-11-18T12:28+00:00
+NC,4,Max Ganorkar,Republican,68019,18.92,False,98.6,87335,North Carolina US House 4,2026-11-18T12:28+00:00
+NC,4,Guy Meilleur,Libertarian,7004,1.95,False,98.6,87335,North Carolina US House 4,2026-11-18T12:28+00:00
+NC,5,Chuck Hubbard,Democratic,139770,48.74,False,87.6,87336,North Carolina US House 5,2026-11-18T12:28+00:00
+NC,5,Virginia Foxx,Republican,139439,48.62,False,87.6,87336,North Carolina US House 5,2026-11-18T12:28+00:00
+NC,5,Robert Luffman,Libertarian,7579,2.64,False,87.6,87336,North Carolina US House 5,2026-11-18T12:28+00:00
+NC,6,Cyril Jefferson,Democratic,140707,51.2,True,92.5,87337,North Carolina US House 6,2026-11-18T12:28+00:00
+NC,6,Addison McDowell,Republican,134103,48.8,False,92.5,87337,North Carolina US House 6,2026-11-18T12:28+00:00
+NC,7,David Rouzer,Republican,160702,49.87,True,94.2,87338,North Carolina US House 7,2026-11-18T12:28+00:00
+NC,7,Kim Hardy,Democratic,158391,49.15,False,94.2,87338,North Carolina US House 7,2026-11-18T12:28+00:00
+NC,7,Maad Abu-Ghazalah,Libertarian,3173,0.98,False,94.2,87338,North Carolina US House 7,2026-11-18T12:28+00:00
+NC,8,Mark Harris,Republican,147683,50.36,True,94.6,87339,North Carolina US House 8,2026-11-18T12:28+00:00
+NC,8,Colby Watson,Democratic,142659,48.65,False,94.6,87339,North Carolina US House 8,2026-11-18T12:28+00:00
+NC,8,Bo Whitehead,Green,2909,0.99,False,94.6,87339,North Carolina US House 8,2026-11-18T12:28+00:00
+NC,9,Richard Ojeda,Democratic,139456,51.15,True,93.9,87340,North Carolina US House 9,2026-11-18T12:28+00:00
+NC,9,Richard Hudson,Republican,133196,48.85,False,93.9,87340,North Carolina US House 9,2026-11-18T12:28+00:00
+NC,10,Pat Harrigan,Republican,146590,49.63,True,95,87341,North Carolina US House 10,2026-11-18T12:28+00:00
+NC,10,Ashley Bell,Democratic,144081,48.78,False,95,87341,North Carolina US House 10,2026-11-18T12:28+00:00
+NC,10,Steve Feldman,Libertarian,4710,1.59,False,95,87341,North Carolina US House 10,2026-11-18T12:28+00:00
+NC,11,Jamie Ager,Democratic,196251,57.13,True,94.7,87342,North Carolina US House 11,2026-11-18T12:28+00:00
+NC,11,Jennifer Balkcom,Republican,141885,41.31,False,94.7,87342,North Carolina US House 11,2026-11-18T12:28+00:00
+NC,11,Travis Groo,Libertarian,5369,1.56,False,94.7,87342,North Carolina US House 11,2026-11-18T12:28+00:00
+NC,12,Alma Adams,Democratic,220770,81.23,True,98.5,87343,North Carolina US House 12,2026-11-18T12:28+00:00
+NC,12,Jack Codiga,Republican,51022,18.77,False,98.5,87343,North Carolina US House 12,2026-11-18T12:28+00:00
+NC,13,Paul Barringer,Democratic,160860,50.55,True,97.7,87344,North Carolina US House 13,2026-11-18T12:28+00:00
+NC,13,Brad Knott,Republican,152864,48.03,False,97.7,87344,North Carolina US House 13,2026-11-18T12:28+00:00
+NC,13,Steven Swinton,Libertarian,4511,1.42,False,97.7,87344,North Carolina US House 13,2026-11-18T12:28+00:00
+NC,14,Lakesha Womack,Democratic,147920,51.14,True,93.6,87345,North Carolina US House 14,2026-11-18T12:28+00:00
+NC,14,Tim Moore,Republican,141353,48.86,False,93.6,87345,North Carolina US House 14,2026-11-18T12:28+00:00
+ND,0,Julie Fedorchak,Republican,134636,57.3,True,99,87347,North Dakota US House At-Large,2026-11-18T12:28+00:00
+ND,0,Trygve Hammer,Democratic,86088,36.64,False,99,87347,North Dakota US House At-Large,2026-11-18T12:28+00:00
+ND,0,Charles Tuttle,Independent,9294,3.96,False,99,87347,North Dakota US House At-Large,2026-11-18T12:28+00:00
+ND,0,Helene Neville,Independent,4610,1.96,False,99,87347,North Dakota US House At-Large,2026-11-18T12:28+00:00
+ND,0,Write-in,Nonpartisan,342,0.15,False,99,87347,North Dakota US House At-Large,2026-11-18T12:28+00:00
+OH,1,Greg Landsman,Democratic,176453,54.38,True,98.2,87350,Ohio US House 1,2026-11-18T12:28+00:00
+OH,1,Eric Conroy,Republican,139343,42.94,False,98.2,87350,Ohio US House 1,2026-11-18T12:28+00:00
+OH,1,Nathan Weise,Libertarian,8675,2.67,False,98.2,87350,Ohio US House 1,2026-11-18T12:28+00:00
+OH,2,David J. Taylor,Republican,175411,64.24,True,90.6,87351,Ohio US House 2,2026-11-18T12:28+00:00
+OH,2,Jen Mazzuckelli,Democratic,97638,35.76,False,90.6,87351,Ohio US House 2,2026-11-18T12:28+00:00
+OH,3,Joyce Beatty,Democratic,231925,77.22,True,98.2,87352,Ohio US House 3,2026-11-18T12:28+00:00
+OH,3,Cleophus Dulaney,Republican,68407,22.78,False,98.2,87352,Ohio US House 3,2026-11-18T12:28+00:00
+OH,4,Jim Jordan,Republican,197084,64.49,True,95.6,87353,Ohio US House 4,2026-11-18T12:28+00:00
+OH,4,Joshua D. Kolasinski,Democratic,95497,31.25,False,95.6,87353,Ohio US House 4,2026-11-18T12:28+00:00
+OH,4,Tracey L. Tackett,Independent,13005,4.26,False,95.6,87353,Ohio US House 4,2026-11-18T12:28+00:00
+OH,5,Bob Latta,Republican,163382,54.26,True,96.5,87354,Ohio US House 5,2026-11-18T12:28+00:00
+OH,5,Brian A. Shaver,Democratic,128142,42.56,False,96.5,87354,Ohio US House 5,2026-11-18T12:28+00:00
+OH,5,Michael J. Veloff,Libertarian,9577,3.18,False,96.5,87354,Ohio US House 5,2026-11-18T12:28+00:00
+OH,6,Michael A. Rulli,Republican,163675,60.4,True,90,87355,Ohio US House 6,2026-11-18T12:28+00:00
+OH,6,Elizabeth Kirtley,Democratic,107310,39.6,False,90,87355,Ohio US House 6,2026-11-18T12:28+00:00
+OH,7,Brian Poindexter,Democratic,180614,54.89,True,93.4,87356,Ohio US House 7,2026-11-18T12:28+00:00
+OH,7,Max Miller,Republican,148177,45.03,False,93.4,87356,Ohio US House 7,2026-11-18T12:28+00:00
+OH,7,Andrey Joseph Martinichin,Write-In,237,0.07,False,93.4,87356,Ohio US House 7,2026-11-18T12:28+00:00
+OH,7,Thahbia Asad,Write-In,5,0.0,False,93.4,87356,Ohio US House 7,2026-11-18T12:28+00:00
+OH,8,Warren Davidson,Republican,168689,52.14,True,97.2,87357,Ohio US House 8,2026-11-18T12:28+00:00
+OH,8,Vanessa Enoch,Democratic,154828,47.86,False,97.2,87357,Ohio US House 8,2026-11-18T12:28+00:00
+OH,9,Marcy Kaptur,Democratic,159306,52.7,True,95.7,87358,Ohio US House 9,2026-11-18T12:28+00:00
+OH,9,Derek Merrin,Republican,142830,47.25,False,95.7,87358,Ohio US House 9,2026-11-18T12:28+00:00
+OH,9,Kathy McKinstry,Write-In,175,0.06,False,95.7,87358,Ohio US House 9,2026-11-18T12:28+00:00
+OH,10,Kristina Knickerbocker,Democratic,149024,49.34,True,96.7,87359,Ohio US House 10,2026-11-18T12:28+00:00
+OH,10,Mike Turner,Republican,144086,47.71,False,96.7,87359,Ohio US House 10,2026-11-18T12:28+00:00
+OH,10,Thomas F. McMasters,Libertarian,8906,2.95,False,96.7,87359,Ohio US House 10,2026-11-18T12:28+00:00
+OH,11,Shontel M. Brown,Democratic,219971,83.53,True,94.1,87360,Ohio US House 11,2026-11-18T12:28+00:00
+OH,11,Mike Kirchner,Republican,43373,16.47,False,94.1,87360,Ohio US House 11,2026-11-18T12:28+00:00
+OH,12,Troy Balderson,Republican,191926,59.39,True,96,87361,Ohio US House 12,2026-11-18T12:28+00:00
+OH,12,Jerrad Christian,Democratic,131211,40.61,False,96,87361,Ohio US House 12,2026-11-18T12:28+00:00
+OH,13,Emilia Sykes,Democratic,190593,59.98,True,97.5,87362,Ohio US House 13,2026-11-18T12:28+00:00
+OH,13,Carey Coleman,Republican,122078,38.42,False,97.5,87362,Ohio US House 13,2026-11-18T12:28+00:00
+OH,13,Sandeep Dixit,Independent,5104,1.61,False,97.5,87362,Ohio US House 13,2026-11-18T12:28+00:00
+OH,14,David P. Joyce,Republican,179467,55.03,True,95.2,87363,Ohio US House 14,2026-11-18T12:28+00:00
+OH,14,Maria Jukic,Democratic,146651,44.97,False,95.2,87363,Ohio US House 14,2026-11-18T12:28+00:00
+OH,15,Don Leonard,Democratic,149287,51.88,True,95,87364,Ohio US House 15,2026-11-18T12:28+00:00
+OH,15,Mike Carey,Republican,130225,45.26,False,95,87364,Ohio US House 15,2026-11-18T12:28+00:00
+OH,15,Brennan Barrington,Libertarian,8135,2.83,False,95,87364,Ohio US House 15,2026-11-18T12:28+00:00
+OH,15,Samuel Ronan,Write-In,105,0.04,False,95,87364,Ohio US House 15,2026-11-18T12:28+00:00
+OH,15,Gary Josephson,Write-In,4,0.0,False,95,87364,Ohio US House 15,2026-11-18T12:28+00:00
+OK,1,Mark Tedford,Republican,121397,52.3,True,88,87509,Oklahoma US House 1,2026-11-18T12:28+00:00
+OK,1,John Croisant,Democratic,110707,47.7,False,88,87509,Oklahoma US House 1,2026-11-18T12:28+00:00
+OK,2,Josh Brecheen,Republican,144054,67.96,True,78.8,87510,Oklahoma US House 2,2026-11-18T12:28+00:00
+OK,2,Brandon Wade,Democratic,61409,28.97,False,78.8,87510,Oklahoma US House 2,2026-11-18T12:28+00:00
+OK,2,Ronnie Hopkins,Independent,6520,3.08,False,78.8,87510,Oklahoma US House 2,2026-11-18T12:28+00:00
+OK,3,Frank Lucas,Republican,122181,63.96,True,84.4,87511,Oklahoma US House 3,2026-11-18T12:28+00:00
+OK,3,Suzie Byrd,Democratic,68832,36.04,False,84.4,87511,Oklahoma US House 3,2026-11-18T12:28+00:00
+OK,4,Tom Cole,Republican,125631,57.6,True,84.1,87512,Oklahoma US House 4,2026-11-18T12:28+00:00
+OK,4,Mitchell Jacob,Democratic,86108,39.48,False,84.1,87512,Oklahoma US House 4,2026-11-18T12:28+00:00
+OK,4,Rocco Bonacci,Independent,6389,2.93,False,84.1,87512,Oklahoma US House 4,2026-11-18T12:28+00:00
+OK,5,Stephanie Bice,Republican,131023,49.48,True,91.1,87513,Oklahoma US House 5,2026-11-18T12:28+00:00
+OK,5,Jena Nelson,Democratic,127687,48.22,False,91.1,87513,Oklahoma US House 5,2026-11-18T12:28+00:00
+OK,5,Robert P. Henri,Independent,4027,1.52,False,91.1,87513,Oklahoma US House 5,2026-11-18T12:28+00:00
+OK,5,Austin Nieves,Independent,2047,0.77,False,91.1,87513,Oklahoma US House 5,2026-11-18T12:28+00:00
+OR,1,Suzanne Bonamici,Democratic,230771,71.23,True,95.2,87368,Oregon US House 1,2026-11-18T12:28+00:00
+OR,1,Barbara Kahl,Republican,92675,28.61,False,95.2,87368,Oregon US House 1,2026-11-18T12:28+00:00
+OR,1,Write-in,Nonpartisan,535,0.17,False,95.2,87368,Oregon US House 1,2026-11-18T12:28+00:00
+OR,2,Cliff Bentz,Republican,189878,61.42,True,90.4,87369,Oregon US House 2,2026-11-18T12:28+00:00
+OR,2,Chris Beck,Democratic,118865,38.45,False,90.4,87369,Oregon US House 2,2026-11-18T12:28+00:00
+OR,2,Write-in,Nonpartisan,402,0.13,False,90.4,87369,Oregon US House 2,2026-11-18T12:28+00:00
+OR,3,Maxine Dexter,Democratic,236642,77.36,True,93.8,87370,Oregon US House 3,2026-11-18T12:28+00:00
+OR,3,Loran Ayles,Republican,68585,22.42,False,93.8,87370,Oregon US House 3,2026-11-18T12:28+00:00
+OR,3,Write-in,Nonpartisan,681,0.22,False,93.8,87370,Oregon US House 3,2026-11-18T12:28+00:00
+OR,4,Val Hoyle,Democratic,183102,53.63,True,95.2,87371,Oregon US House 4,2026-11-18T12:28+00:00
+OR,4,Monique DeSpain,Republican,145997,42.76,False,95.2,87371,Oregon US House 4,2026-11-18T12:28+00:00
+OR,4,Justin Filip,Pacific Green,11898,3.48,False,95.2,87371,Oregon US House 4,2026-11-18T12:28+00:00
+OR,4,Write-in,Nonpartisan,426,0.12,False,95.2,87371,Oregon US House 4,2026-11-18T12:28+00:00
+OR,5,Janelle Bynum,Democratic,195975,53.88,True,97.3,87372,Oregon US House 5,2026-11-18T12:28+00:00
+OR,5,Patti Adair,Republican,159356,43.81,False,97.3,87372,Oregon US House 5,2026-11-18T12:28+00:00
+OR,5,Andrea Townsend,Pacific Green,8082,2.22,False,97.3,87372,Oregon US House 5,2026-11-18T12:28+00:00
+OR,5,Write-in,Nonpartisan,296,0.08,False,97.3,87372,Oregon US House 5,2026-11-18T12:28+00:00
+OR,6,Andrea Salinas,Democratic,177727,58.38,True,95.9,87373,Oregon US House 6,2026-11-18T12:28+00:00
+OR,6,David Russ,Republican,126331,41.5,False,95.9,87373,Oregon US House 6,2026-11-18T12:28+00:00
+OR,6,Write-in,Nonpartisan,355,0.12,False,95.9,87373,Oregon US House 6,2026-11-18T12:28+00:00
+PA,1,Bob Harvie,Democratic,189926,52.88,True,88.6,87376,Pennsylvania US House 1,2026-11-18T12:28+00:00
+PA,1,Brian Fitzpatrick,Republican,169255,47.12,False,88.6,87376,Pennsylvania US House 1,2026-11-18T12:28+00:00
+PA,2,Brendan Boyle,Democratic,150784,80.87,True,75.5,87377,Pennsylvania US House 2,2026-11-18T12:28+00:00
+PA,2,Jessica Arriaga,Republican,35663,19.13,False,75.5,87377,Pennsylvania US House 2,2026-11-18T12:28+00:00
+PA,3,Chris Rabb,Democratic,258437,93.61,True,75.5,87378,Pennsylvania US House 3,2026-11-18T12:28+00:00
+PA,3,Dennis Mahoney,The Independent Party,17628,6.39,False,75.5,87378,Pennsylvania US House 3,2026-11-18T12:28+00:00
+PA,4,Madeleine Dean,Democratic,234105,67.25,True,86,87379,Pennsylvania US House 4,2026-11-18T12:28+00:00
+PA,4,Aurora Stuski,Republican,113993,32.75,False,86,87379,Pennsylvania US House 4,2026-11-18T12:28+00:00
+PA,5,Mary Gay Scanlon,Democratic,215985,72.22,True,83.5,87380,Pennsylvania US House 5,2026-11-18T12:28+00:00
+PA,5,Nicholas Manganaro,Republican,83075,27.78,False,83.5,87380,Pennsylvania US House 5,2026-11-18T12:28+00:00
+PA,6,Chrissy Houlahan,Democratic,201240,64.48,True,85.6,87381,Pennsylvania US House 6,2026-11-18T12:28+00:00
+PA,6,Marty Young,Republican,110841,35.52,False,85.6,87381,Pennsylvania US House 6,2026-11-18T12:28+00:00
+PA,7,Bob Brooks,Democratic,166671,56.29,True,86.3,87382,Pennsylvania US House 7,2026-11-18T12:28+00:00
+PA,7,Ryan Mackenzie,Republican,129431,43.71,False,86.3,87382,Pennsylvania US House 7,2026-11-18T12:28+00:00
+PA,8,Paige Cognetti,Democratic,154060,54.48,True,85.3,87383,Pennsylvania US House 8,2026-11-18T12:28+00:00
+PA,8,Rob Bresnahan,Republican,128739,45.52,False,85.3,87383,Pennsylvania US House 8,2026-11-18T12:28+00:00
+PA,9,Dan Meuser,Republican,165751,61.44,True,79.3,87384,Pennsylvania US House 9,2026-11-18T12:28+00:00
+PA,9,Rachel Wallace,Democratic,104028,38.56,False,79.3,87384,Pennsylvania US House 9,2026-11-18T12:28+00:00
+PA,10,Janelle Stelson,Democratic,175175,55.19,True,88.8,87385,Pennsylvania US House 10,2026-11-18T12:28+00:00
+PA,10,Scott Perry,Republican,142253,44.81,False,88.8,87385,Pennsylvania US House 10,2026-11-18T12:28+00:00
+PA,11,Lloyd Smucker,Republican,167894,55.39,True,86.6,87386,Pennsylvania US House 11,2026-11-18T12:28+00:00
+PA,11,Nancy Mannion,Democratic,135225,44.61,False,86.6,87386,Pennsylvania US House 11,2026-11-18T12:28+00:00
+PA,12,Summer Lee,Democratic,197115,65.68,True,81.6,87387,Pennsylvania US House 12,2026-11-18T12:28+00:00
+PA,12,James Hayes,Republican,102980,34.32,False,81.6,87387,Pennsylvania US House 12,2026-11-18T12:28+00:00
+PA,13,John Joyce,Republican,189919,67.43,True,79.8,87388,Pennsylvania US House 13,2026-11-18T12:28+00:00
+PA,13,Beth Farnham,Democratic,91726,32.57,False,79.8,87388,Pennsylvania US House 13,2026-11-18T12:28+00:00
+PA,14,Guy Reschenthaler,Republican,159235,57.5,True,76.8,87389,Pennsylvania US House 14,2026-11-18T12:28+00:00
+PA,14,Alan Bradstock,Democratic,117716,42.5,False,76.8,87389,Pennsylvania US House 14,2026-11-18T12:28+00:00
+PA,15,Glenn Thompson,Republican,171287,63.78,True,78,87390,Pennsylvania US House 15,2026-11-18T12:28+00:00
+PA,15,Ray Bilger,Democratic,97262,36.22,False,78,87390,Pennsylvania US House 15,2026-11-18T12:28+00:00
+PA,16,Mike Kelly,Republican,154693,53.83,True,80.3,87391,Pennsylvania US House 16,2026-11-18T12:28+00:00
+PA,16,Justin Wagner,Democratic,132690,46.17,False,80.3,87391,Pennsylvania US House 16,2026-11-18T12:28+00:00
+PA,17,Chris Deluzio,Democratic,209838,62.97,True,82,87392,Pennsylvania US House 17,2026-11-18T12:28+00:00
+PA,17,Tony Guy,Republican,123420,37.03,False,82,87392,Pennsylvania US House 17,2026-11-18T12:28+00:00
+RI,1,Gabriel Amo,Democratic,112112,68.59,True,84.1,87394,Rhode Island US House 1,2026-11-18T12:28+00:00
+RI,1,Kellie Keenan,Republican,44902,27.47,False,84.1,87394,Rhode Island US House 1,2026-11-18T12:28+00:00
+RI,1,Pedro DeSouza,Independent,6212,3.8,False,84.1,87394,Rhode Island US House 1,2026-11-18T12:28+00:00
+RI,1,Write-in,Nonpartisan,229,0.14,False,84.1,87394,Rhode Island US House 1,2026-11-18T12:28+00:00
+RI,2,Seth Magaziner,Democratic,121027,61.92,True,84.5,87395,Rhode Island US House 2,2026-11-18T12:28+00:00
+RI,2,Victor Mellor,Republican,73909,37.82,False,84.5,87395,Rhode Island US House 2,2026-11-18T12:28+00:00
+RI,2,Write-in,Nonpartisan,511,0.26,False,84.5,87395,Rhode Island US House 2,2026-11-18T12:28+00:00
+SC,1,Nancy Lacore,Democratic,162103,49.66,True,99,87402,South Carolina US House 1,2026-11-18T12:28+00:00
+SC,1,Jenny Costa Honeycutt,Republican,158751,48.63,False,99,87402,South Carolina US House 1,2026-11-18T12:28+00:00
+SC,1,Bill Reeside,Libertarian,5351,1.64,False,99,87402,South Carolina US House 1,2026-11-18T12:28+00:00
+SC,1,Write-in,Nonpartisan,218,0.07,False,99,87402,South Carolina US House 1,2026-11-18T12:28+00:00
+SC,2,Joe Wilson,Republican,147791,49.82,True,99,87403,South Carolina US House 2,2026-11-18T12:28+00:00
+SC,2,Zyon Khalifa,Democratic,144865,48.83,False,99,87403,South Carolina US House 2,2026-11-18T12:28+00:00
+SC,2,Dayna Alane Smith,Workers,3674,1.24,False,99,87403,South Carolina US House 2,2026-11-18T12:28+00:00
+SC,2,Write-in,Nonpartisan,334,0.11,False,99,87403,South Carolina US House 2,2026-11-18T12:28+00:00
+SC,3,Sheri Biggs,Republican,173968,63.68,True,96.2,87404,South Carolina US House 3,2026-11-18T12:28+00:00
+SC,3,Eunice Lehmacher,Democratic,93962,34.39,False,96.2,87404,South Carolina US House 3,2026-11-18T12:28+00:00
+SC,3,Brian Corriea,Libertarian,5112,1.87,False,96.2,87404,South Carolina US House 3,2026-11-18T12:28+00:00
+SC,3,Write-in,Nonpartisan,150,0.05,False,96.2,87404,South Carolina US House 3,2026-11-18T12:28+00:00
+SC,4,William Timmons,Republican,146944,51.71,True,99,87405,South Carolina US House 4,2026-11-18T12:28+00:00
+SC,4,Courtney McClain,Democratic,129742,45.65,False,99,87405,South Carolina US House 4,2026-11-18T12:28+00:00
+SC,4,Jessica Ethridge,Libertarian,7215,2.54,False,99,87405,South Carolina US House 4,2026-11-18T12:28+00:00
+SC,4,Write-in,Nonpartisan,292,0.1,False,99,87405,South Carolina US House 4,2026-11-18T12:28+00:00
+SC,5,Wes Climer,Republican,151611,52.83,True,99,87406,South Carolina US House 5,2026-11-18T12:28+00:00
+SC,5,Mallory Dittmer,Democratic,135234,47.12,False,99,87406,South Carolina US House 5,2026-11-18T12:28+00:00
+SC,5,Write-in,Nonpartisan,155,0.05,False,99,87406,South Carolina US House 5,2026-11-18T12:28+00:00
+SC,6,Jim Clyburn,Democratic,181118,69.31,True,99,87407,South Carolina US House 6,2026-11-18T12:28+00:00
+SC,6,John Peterson,Republican,79898,30.57,False,99,87407,South Carolina US House 6,2026-11-18T12:28+00:00
+SC,6,Write-in,Nonpartisan,318,0.12,False,99,87407,South Carolina US House 6,2026-11-18T12:28+00:00
+SC,7,Russell Fry,Republican,172439,56.71,True,99,87408,South Carolina US House 7,2026-11-18T12:28+00:00
+SC,7,John Vincent,Democratic,131445,43.23,False,99,87408,South Carolina US House 7,2026-11-18T12:28+00:00
+SC,7,Write-in,Nonpartisan,204,0.07,False,99,87408,South Carolina US House 7,2026-11-18T12:28+00:00
+SD,0,Marty Jackley,Republican,195588,64.0,True,79.3,87445,South Dakota US House At-Large,2026-11-18T12:28+00:00
+SD,0,Nikki Gronli,Democratic,109997,36.0,False,79.3,87445,South Dakota US House At-Large,2026-11-18T12:28+00:00
+TN,1,Diana Harshbarger,Republican,133592,63.81,True,86.4,87448,Tennessee US House 1,2026-11-18T12:28+00:00
+TN,1,Kristi Burke,Democratic,69207,33.06,False,86.4,87448,Tennessee US House 1,2026-11-18T12:28+00:00
+TN,1,Joshua Ray Ashburn,Independent,2102,1.0,False,86.4,87448,Tennessee US House 1,2026-11-18T12:28+00:00
+TN,1,Billy Cody,Independent,1398,0.67,False,86.4,87448,Tennessee US House 1,2026-11-18T12:28+00:00
+TN,1,Chris Campbell,Independent,1296,0.62,False,86.4,87448,Tennessee US House 1,2026-11-18T12:28+00:00
+TN,1,Richard G. Baker,Independent,1219,0.58,False,86.4,87448,Tennessee US House 1,2026-11-18T12:28+00:00
+TN,1,Tyler Brice Mitchell McClain,Independent,541,0.26,False,86.4,87448,Tennessee US House 1,2026-11-18T12:28+00:00
+TN,2,Tim Burchett,Republican,144892,57.73,True,92.5,87449,Tennessee US House 2,2026-11-18T12:28+00:00
+TN,2,Michaela Barnett,Democratic,103311,41.16,False,92.5,87449,Tennessee US House 2,2026-11-18T12:28+00:00
+TN,2,Bruce Fine,Independent,1827,0.73,False,92.5,87449,Tennessee US House 2,2026-11-18T12:28+00:00
+TN,2,Adam Heimerman,Independent,950,0.38,False,92.5,87449,Tennessee US House 2,2026-11-18T12:28+00:00
+TN,3,Chuck Fleischmann,Republican,136110,57.59,True,89.2,87450,Tennessee US House 3,2026-11-18T12:28+00:00
+TN,3,Anna Golladay,Democratic,95051,40.21,False,89.2,87450,Tennessee US House 3,2026-11-18T12:28+00:00
+TN,3,Dean Arnold,Independent,2136,0.9,False,89.2,87450,Tennessee US House 3,2026-11-18T12:28+00:00
+TN,3,Rodney Joe King,Independent,1207,0.51,False,89.2,87450,Tennessee US House 3,2026-11-18T12:28+00:00
+TN,3,Jean Howard-Hill,Independent,923,0.39,False,89.2,87450,Tennessee US House 3,2026-11-18T12:28+00:00
+TN,3,Donnie Lynn Ownby,Independent,527,0.22,False,89.2,87450,Tennessee US House 3,2026-11-18T12:28+00:00
+TN,3,Edward John Roland,Independent,404,0.17,False,89.2,87450,Tennessee US House 3,2026-11-18T12:28+00:00
+TN,4,Victoria Broderick,Democratic,95588,48.87,True,99,87451,Tennessee US House 4,2026-11-18T12:28+00:00
+TN,4,Scott DesJarlais,Republican,95316,48.73,False,99,87451,Tennessee US House 4,2026-11-18T12:28+00:00
+TN,4,Jacob Kristopher Anders,Independent,2833,1.45,False,99,87451,Tennessee US House 4,2026-11-18T12:28+00:00
+TN,4,Clay Faircloth,Independent,1853,0.95,False,99,87451,Tennessee US House 4,2026-11-18T12:28+00:00
+TN,5,Charlie Hatcher,Republican,110408,51.66,True,84.8,87452,Tennessee US House 5,2026-11-18T12:28+00:00
+TN,5,Chaz Molder,Democratic,99841,46.72,False,84.8,87452,Tennessee US House 5,2026-11-18T12:28+00:00
+TN,5,James A. Johnson,Independent,2641,1.24,False,84.8,87452,Tennessee US House 5,2026-11-18T12:28+00:00
+TN,5,Micheál O'Leary,Independent,815,0.38,False,84.8,87452,Tennessee US House 5,2026-11-18T12:28+00:00
+TN,6,Johnny Garrett,Republican,120950,50.77,True,84,87453,Tennessee US House 6,2026-11-18T12:28+00:00
+TN,6,Mike Croley,Democratic,113177,47.51,False,84,87453,Tennessee US House 6,2026-11-18T12:28+00:00
+TN,6,Christopher B. Monday,Independent,2707,1.14,False,84,87453,Tennessee US House 6,2026-11-18T12:28+00:00
+TN,6,Angus Purdy,Independent,1390,0.58,False,84,87453,Tennessee US House 6,2026-11-18T12:28+00:00
+TN,7,Matt Van Epps,Republican,121100,50.27,True,88.1,87454,Tennessee US House 7,2026-11-18T12:28+00:00
+TN,7,Darden Copeland,Democratic,115867,48.1,False,88.1,87454,Tennessee US House 7,2026-11-18T12:28+00:00
+TN,7,Andrew J. Koontz,Independent,2603,1.08,False,88.1,87454,Tennessee US House 7,2026-11-18T12:28+00:00
+TN,7,Lowell Reynolds,Independent,1316,0.55,False,88.1,87454,Tennessee US House 7,2026-11-18T12:28+00:00
+TN,8,David Kustoff,Republican,114045,51.63,True,85.4,87455,Tennessee US House 8,2026-11-18T12:28+00:00
+TN,8,Heidi Kuhn,Democratic,102406,46.36,False,85.4,87455,Tennessee US House 8,2026-11-18T12:28+00:00
+TN,8,"Pamela Jeanine ""P."" Moses",Independent,1035,0.47,False,85.4,87455,Tennessee US House 8,2026-11-18T12:28+00:00
+TN,8,Horace Taylor,Independent,861,0.39,False,85.4,87455,Tennessee US House 8,2026-11-18T12:28+00:00
+TN,8,Adam D. Austill,Independent,854,0.39,False,85.4,87455,Tennessee US House 8,2026-11-18T12:28+00:00
+TN,8,"Wendell ""Wells"" Blankenship",Independent,714,0.32,False,85.4,87455,Tennessee US House 8,2026-11-18T12:28+00:00
+TN,8,Antonio Futch,Independent,506,0.23,False,85.4,87455,Tennessee US House 8,2026-11-18T12:28+00:00
+TN,8,"Henry J. Ward, III",Independent,485,0.22,False,85.4,87455,Tennessee US House 8,2026-11-18T12:28+00:00
+TN,9,Brent Taylor,Republican,111968,49.63,True,90,87456,Tennessee US House 9,2026-11-18T12:28+00:00
+TN,9,Justin Pearson,Democratic,109429,48.5,False,90,87456,Tennessee US House 9,2026-11-18T12:28+00:00
+TN,9,Dennis Clark,Independent,2413,1.07,False,90,87456,Tennessee US House 9,2026-11-18T12:28+00:00
+TN,9,Michelle Davis Head,Independent,1804,0.8,False,90,87456,Tennessee US House 9,2026-11-18T12:28+00:00
+TX,1,Nathaniel Moran,Republican,181987,69.04,True,93.8,87411,Texas US House 1,2026-11-18T12:28+00:00
+TX,1,Yolanda Prince,Democratic,81598,30.96,False,93.8,87411,Texas US House 1,2026-11-18T12:28+00:00
+TX,2,Steve Toth,Republican,144881,50.97,True,99,87412,Texas US House 2,2026-11-18T12:28+00:00
+TX,2,Shaun Finnie,Democratic,139384,49.03,False,99,87412,Texas US House 2,2026-11-18T12:28+00:00
+TX,3,Keith Self,Republican,169276,52.74,True,99,87413,Texas US House 3,2026-11-18T12:28+00:00
+TX,3,Evan Hunt,Democratic,151689,47.26,False,99,87413,Texas US House 3,2026-11-18T12:28+00:00
+TX,4,Pat Fallon,Republican,171745,56.04,True,99,56004,Texas US House 4,2026-11-18T12:28+00:00
+TX,4,Jason Pearce,Democratic,134720,43.96,False,99,56004,Texas US House 4,2026-11-18T12:28+00:00
+TX,5,Lance Gooden,Republican,130395,51.45,True,98.1,87414,Texas US House 5,2026-11-18T12:28+00:00
+TX,5,Chelsey Hockett,Democratic,123041,48.55,False,98.1,87414,Texas US House 5,2026-11-18T12:28+00:00
+TX,6,Jake Ellzey,Republican,140111,52.15,True,99,87415,Texas US House 6,2026-11-18T12:28+00:00
+TX,6,Danny Minton,Democratic,128566,47.85,False,99,87415,Texas US House 6,2026-11-18T12:28+00:00
+TX,7,Lizzie Fletcher,Democratic,161126,70.86,True,99,87416,Texas US House 7,2026-11-18T12:28+00:00
+TX,7,Alexander Hale,Republican,62600,27.53,False,99,87416,Texas US House 7,2026-11-18T12:28+00:00
+TX,7,Espoir Ngabo,Green,3662,1.61,False,99,87416,Texas US House 7,2026-11-18T12:28+00:00
+TX,8,Jessica Steinmann,Republican,141874,53.19,True,99,56005,Texas US House 8,2026-11-18T12:28+00:00
+TX,8,Laura Jones,Democratic,124840,46.81,False,99,56005,Texas US House 8,2026-11-18T12:28+00:00
+TX,9,Leticia Gutierrez,Democratic,98269,57.56,True,98.2,87417,Texas US House 9,2026-11-18T12:28+00:00
+TX,9,Alex Mealer,Republican,72445,42.44,False,98.2,87417,Texas US House 9,2026-11-18T12:28+00:00
+TX,10,Chris Gober,Republican,161425,53.76,True,95.6,56006,Texas US House 10,2026-11-18T12:28+00:00
+TX,10,Caitlin Rourk,Democratic,138832,46.24,False,95.6,56006,Texas US House 10,2026-11-18T12:28+00:00
+TX,11,August Pfluger,Republican,138627,59.5,True,91.2,87418,Texas US House 11,2026-11-18T12:28+00:00
+TX,11,Claire Reynolds,Democratic,94353,40.5,False,91.2,87418,Texas US House 11,2026-11-18T12:28+00:00
+TX,12,Craig Goldman,Republican,144714,53.1,True,99,87419,Texas US House 12,2026-11-18T12:28+00:00
+TX,12,Angela Rodriguez Prilliman,Democratic,127828,46.9,False,99,87419,Texas US House 12,2026-11-18T12:28+00:00
+TX,13,Ronny Jackson,Republican,158206,65.22,True,91.7,87420,Texas US House 13,2026-11-18T12:28+00:00
+TX,13,Mark Nair,Democratic,84385,34.78,False,91.7,87420,Texas US House 13,2026-11-18T12:28+00:00
+TX,14,Randy Weber,Republican,152776,53.99,True,98.8,87421,Texas US House 14,2026-11-18T12:28+00:00
+TX,14,Thurman Bartie,Democratic,130169,46.01,False,98.8,87421,Texas US House 14,2026-11-18T12:28+00:00
+TX,15,Bobby Pulido,Democratic,126395,62.33,True,99,87422,Texas US House 15,2026-11-18T12:28+00:00
+TX,15,Monica De La Cruz,Republican,76375,37.67,False,99,87422,Texas US House 15,2026-11-18T12:28+00:00
+TX,16,Veronica Escobar,Democratic,139555,70.8,True,95.6,87423,Texas US House 16,2026-11-18T12:28+00:00
+TX,16,Adam Bauman,Republican,57562,29.2,False,95.6,87423,Texas US House 16,2026-11-18T12:28+00:00
+TX,17,Pete Sessions,Republican,143558,53.56,True,97.2,87424,Texas US House 17,2026-11-18T12:28+00:00
+TX,17,Casey Shepard,Democratic,124469,46.44,False,97.2,87424,Texas US House 17,2026-11-18T12:28+00:00
+TX,18,Christian Menefee,Democratic,193768,86.04,True,99,87425,Texas US House 18,2026-11-18T12:28+00:00
+TX,18,Ronald Whitfield,Republican,31438,13.96,False,99,87425,Texas US House 18,2026-11-18T12:28+00:00
+TX,19,Tom Sell,Republican,154079,69.48,True,90.2,87426,Texas US House 19,2026-11-18T12:28+00:00
+TX,19,Kyle Rable,Democratic,67674,30.52,False,90.2,87426,Texas US House 19,2026-11-18T12:28+00:00
+TX,20,Joaquin Castro,Democratic,151058,77.62,True,97,87427,Texas US House 20,2026-11-18T12:28+00:00
+TX,20,Edgardo Baez,Republican,43562,22.38,False,97,87427,Texas US House 20,2026-11-18T12:28+00:00
+TX,21,Mark Teixeira,Republican,194898,54.45,True,99,56007,Texas US House 21,2026-11-18T12:28+00:00
+TX,21,Kristin Hook,Democratic,163021,45.55,False,99,56007,Texas US House 21,2026-11-18T12:28+00:00
+TX,22,Trever Nehls,Republican,150520,51.79,True,99,56008,Texas US House 22,2026-11-18T12:28+00:00
+TX,22,Marquette Greene-Scott,Democratic,140115,48.21,False,99,56008,Texas US House 22,2026-11-18T12:28+00:00
+TX,23,Katy Padilla Stout,Democratic,143130,52.17,True,95.3,87428,Texas US House 23,2026-11-18T12:28+00:00
+TX,23,Brandon Herrera,Republican,120566,43.95,False,95.3,87428,Texas US House 23,2026-11-18T12:28+00:00
+TX,23,Ben Mendoza,Independent,10658,3.88,False,95.3,87428,Texas US House 23,2026-11-18T12:28+00:00
+TX,24,Beth Van Duyne,Republican,172011,53.4,True,98.9,87429,Texas US House 24,2026-11-18T12:28+00:00
+TX,24,Kevin Burge,Democratic,150125,46.6,False,98.9,87429,Texas US House 24,2026-11-18T12:28+00:00
+TX,25,Roger Williams,Republican,142827,53.71,True,97.8,87430,Texas US House 25,2026-11-18T12:28+00:00
+TX,25,Dione Sims,Democratic,123079,46.29,False,97.8,87430,Texas US House 25,2026-11-18T12:28+00:00
+TX,26,Brandon Gill,Republican,183221,54.51,True,99,56009,Texas US House 26,2026-11-18T12:28+00:00
+TX,26,Steven Shook,Democratic,148596,44.21,False,99,56009,Texas US House 26,2026-11-18T12:28+00:00
+TX,26,Phil Gray,Libertarian,4317,1.28,False,99,56009,Texas US House 26,2026-11-18T12:28+00:00
+TX,27,Michael Cloud,Republican,144627,51.14,True,99,56010,Texas US House 27,2026-11-18T12:28+00:00
+TX,27,Tanya Lloyd,Democratic,138072,48.82,False,99,56010,Texas US House 27,2026-11-18T12:28+00:00
+TX,27,Write-in,Nonpartisan,89,0.03,False,99,56010,Texas US House 27,2026-11-18T12:28+00:00
+TX,27,Wayne Raasch,Write-In,22,0.01,False,99,56010,Texas US House 27,2026-11-18T12:28+00:00
+TX,28,Henry Cuellar,Democratic,113433,65.76,True,98.4,56011,Texas US House 28,2026-11-18T12:28+00:00
+TX,28,Tano Tijerina,Republican,51126,29.64,False,98.4,56011,Texas US House 28,2026-11-18T12:28+00:00
+TX,28,Marlón Durán,Green,7939,4.6,False,98.4,56011,Texas US House 28,2026-11-18T12:28+00:00
+TX,29,Sylvia Garcia,Democratic,134277,79.94,True,98,87431,Texas US House 29,2026-11-18T12:28+00:00
+TX,29,Martha Fierro,Republican,33698,20.06,False,98,87431,Texas US House 29,2026-11-18T12:28+00:00
+TX,30,Frederick Haynes III,Democratic,187119,82.64,True,97.7,87432,Texas US House 30,2026-11-18T12:28+00:00
+TX,30,Everett Jackson,Republican,39306,17.36,False,97.7,87432,Texas US House 30,2026-11-18T12:28+00:00
+TX,31,John Carter,Republican,164167,53.76,True,98.8,56012,Texas US House 31,2026-11-18T12:28+00:00
+TX,31,Justin Early,Democratic,136961,44.85,False,98.8,56012,Texas US House 31,2026-11-18T12:28+00:00
+TX,31,Greg Stoker,Green,4232,1.39,False,98.8,56012,Texas US House 31,2026-11-18T12:28+00:00
+TX,32,Jace Yarbrough,Republican,142977,51.45,True,97.8,87433,Texas US House 32,2026-11-18T12:28+00:00
+TX,32,Dan Barrios,Democratic,134945,48.55,False,97.8,87433,Texas US House 32,2026-11-18T12:28+00:00
+TX,33,Colin Allred,Democratic,151093,78.41,True,96.8,87434,Texas US House 33,2026-11-18T12:28+00:00
+TX,33,Patrick Gillespie,Republican,41198,21.38,False,96.8,87434,Texas US House 33,2026-11-18T12:28+00:00
+TX,33,Write-in,Nonpartisan,348,0.18,False,96.8,87434,Texas US House 33,2026-11-18T12:28+00:00
+TX,33,Michelle Craig,Write-In,52,0.03,False,96.8,87434,Texas US House 33,2026-11-18T12:28+00:00
+TX,34,Vicente Gonzalez,Democratic,112667,55.6,True,94.4,56013,Texas US House 34,2026-11-18T12:28+00:00
+TX,34,Eric Flores,Republican,80572,39.76,False,94.4,56013,Texas US House 34,2026-11-18T12:28+00:00
+TX,34,Eddie Espinoza,Green,4740,2.34,False,94.4,56013,Texas US House 34,2026-11-18T12:28+00:00
+TX,34,Chris Royal,Libertarian,4666,2.3,False,94.4,56013,Texas US House 34,2026-11-18T12:28+00:00
+TX,35,Johnny Garcia,Democratic,140973,55.48,True,97.5,87435,Texas US House 35,2026-11-18T12:28+00:00
+TX,35,Carlos De La Cruz,Republican,113112,44.52,False,97.5,87435,Texas US House 35,2026-11-18T12:28+00:00
+TX,36,Brian Babin,Republican,138121,53.54,True,96,56014,Texas US House 36,2026-11-18T12:28+00:00
+TX,36,Rhonda Hart,Democratic,119848,46.46,False,96,56014,Texas US House 36,2026-11-18T12:28+00:00
+TX,37,Greg Casar,Democratic,254957,83.75,True,96.6,87436,Texas US House 37,2026-11-18T12:28+00:00
+TX,37,Lauren Peña,Republican,49469,16.25,False,96.6,87436,Texas US House 37,2026-11-18T12:28+00:00
+TX,38,Jon Bonck,Republican,157590,51.52,True,98,87437,Texas US House 38,2026-11-18T12:28+00:00
+TX,38,Melissa McDonough,Democratic,144833,47.35,False,98,87437,Texas US House 38,2026-11-18T12:28+00:00
+TX,38,Alex McMenemy,Green,3455,1.13,False,98,87437,Texas US House 38,2026-11-18T12:28+00:00
+UT,1,Ben McAdams,Democratic,181258,70.43,True,99,87457,Utah US House 1,2026-11-18T12:28+00:00
+UT,1,Riley Owen,Republican,66222,25.73,False,99,87457,Utah US House 1,2026-11-18T12:28+00:00
+UT,1,Jesse West,Libertarian,5996,2.33,False,99,87457,Utah US House 1,2026-11-18T12:28+00:00
+UT,1,Elias Henry Montgomery,Unaffiliated,3732,1.45,False,99,87457,Utah US House 1,2026-11-18T12:28+00:00
+UT,1,"Babak ""Bobby"" Darvish",Unaffiliated,78,0.03,False,99,87457,Utah US House 1,2026-11-18T12:28+00:00
+UT,1,Write-in,Nonpartisan,78,0.03,False,99,87457,Utah US House 1,2026-11-18T12:28+00:00
+UT,2,Blake Moore,Republican,128179,49.72,True,99,87458,Utah US House 2,2026-11-18T12:28+00:00
+UT,2,Peter Crosby,Democratic,109840,42.6,False,99,87458,Utah US House 2,2026-11-18T12:28+00:00
+UT,2,Carlton E. Bowen,Independent American,8542,3.31,False,99,87458,Utah US House 2,2026-11-18T12:28+00:00
+UT,2,Robert M. Moesinger,Unaffiliated,6607,2.56,False,99,87458,Utah US House 2,2026-11-18T12:28+00:00
+UT,2,Daniel Cottam,Libertarian,4646,1.8,False,99,87458,Utah US House 2,2026-11-18T12:28+00:00
+UT,3,Celeste Maloy,Republican,146721,56.4,True,96.5,87459,Utah US House 3,2026-11-18T12:28+00:00
+UT,3,Kent Udell,Democratic,93342,35.88,False,96.5,87459,Utah US House 3,2026-11-18T12:28+00:00
+UT,3,Cassie Easley,Constitution,8106,3.12,False,96.5,87459,Utah US House 3,2026-11-18T12:28+00:00
+UT,3,Michael R. Stoddard,Libertarian,5805,2.23,False,96.5,87459,Utah US House 3,2026-11-18T12:28+00:00
+UT,3,Ayden Scott,Unaffiliated,4302,1.65,False,96.5,87459,Utah US House 3,2026-11-18T12:28+00:00
+UT,3,Adonis Hooslyn,Unaffiliated,1887,0.73,False,96.5,87459,Utah US House 3,2026-11-18T12:28+00:00
+UT,4,Mike Kennedy,Republican,144089,53.12,True,99,87460,Utah US House 4,2026-11-18T12:28+00:00
+UT,4,Jonny Larsen,Democratic,106593,39.3,False,99,87460,Utah US House 4,2026-11-18T12:28+00:00
+UT,4,Steven Burt,Unaffiliated,11735,4.33,False,99,87460,Utah US House 4,2026-11-18T12:28+00:00
+UT,4,Taylor Wright,Libertarian,8819,3.25,False,99,87460,Utah US House 4,2026-11-18T12:28+00:00
+VT,0,Becca Balint,Democratic,198758,65.24,True,92.7,87502,Vermont US House At-Large,2026-11-18T12:28+00:00
+VT,0,Gerald Malloy,Republican,94078,30.88,False,92.7,87502,Vermont US House At-Large,2026-11-18T12:28+00:00
+VT,0,"Suzanne ""Suz"" Seymour",Independent,4362,1.43,False,92.7,87502,Vermont US House At-Large,2026-11-18T12:28+00:00
+VT,0,Ryan P. Walton,Independent,2700,0.89,False,92.7,87502,Vermont US House At-Large,2026-11-18T12:28+00:00
+VT,0,Phoenix K. Altair,Independent,2335,0.77,False,92.7,87502,Vermont US House At-Large,2026-11-18T12:28+00:00
+VT,0,Adam Ortiz,Independent,2196,0.72,False,92.7,87502,Vermont US House At-Large,2026-11-18T12:28+00:00
+VT,0,Write-in,Nonpartisan,246,0.08,False,92.7,87502,Vermont US House At-Large,2026-11-18T12:28+00:00
+VA,1,Shannon Taylor,Democratic,212154,51.34,True,99,87461,Virginia US House 1,2026-11-18T12:28+00:00
+VA,1,Rob Wittman,Republican,200049,48.41,False,99,87461,Virginia US House 1,2026-11-18T12:28+00:00
+VA,1,Write-in,Nonpartisan,1021,0.25,False,99,87461,Virginia US House 1,2026-11-18T12:28+00:00
+VA,2,Elaine Luria,Democratic,182932,53.25,True,99,87462,Virginia US House 2,2026-11-18T12:28+00:00
+VA,2,Jen Kiggans,Republican,152130,44.28,False,99,87462,Virginia US House 2,2026-11-18T12:28+00:00
+VA,2,J. Matt Baker,Independent,4913,1.43,False,99,87462,Virginia US House 2,2026-11-18T12:28+00:00
+VA,2,"Geral D. ""Bishop"" Staten",Independent,3137,0.91,False,99,87462,Virginia US House 2,2026-11-18T12:28+00:00
+VA,2,Write-in,Nonpartisan,415,0.12,False,99,87462,Virginia US House 2,2026-11-18T12:28+00:00
+VA,3,Bobby Scott,Democratic,186251,72.91,True,88.6,87463,Virginia US House 3,2026-11-18T12:28+00:00
+VA,3,Edwin Rivera,Republican,60387,23.64,False,88.6,87463,Virginia US House 3,2026-11-18T12:28+00:00
+VA,3,Makiba A. Gaines,Independent,4219,1.65,False,88.6,87463,Virginia US House 3,2026-11-18T12:28+00:00
+VA,3,Stephen C. Woll,Independent,4067,1.59,False,88.6,87463,Virginia US House 3,2026-11-18T12:28+00:00
+VA,3,Write-in,Nonpartisan,532,0.21,False,88.6,87463,Virginia US House 3,2026-11-18T12:28+00:00
+VA,4,Jennifer McClellan,Democratic,230609,72.64,True,99,87464,Virginia US House 4,2026-11-18T12:28+00:00
+VA,4,Robert Murray,Republican,81794,25.77,False,99,87464,Virginia US House 4,2026-11-18T12:28+00:00
+VA,4,"Joan E. ""Andrews"" Bell",Independent,4289,1.35,False,99,87464,Virginia US House 4,2026-11-18T12:28+00:00
+VA,4,Write-in,Nonpartisan,762,0.24,False,99,87464,Virginia US House 4,2026-11-18T12:28+00:00
+VA,5,John McGuire,Republican,184142,49.86,True,99,87465,Virginia US House 5,2026-11-18T12:28+00:00
+VA,5,Tom Perriello,Democratic,178403,48.31,False,99,87465,Virginia US House 5,2026-11-18T12:28+00:00
+VA,5,Cooke C. Harvey,Independent,5992,1.62,False,99,87465,Virginia US House 5,2026-11-18T12:28+00:00
+VA,5,Write-in,Nonpartisan,749,0.2,False,99,87465,Virginia US House 5,2026-11-18T12:28+00:00
+VA,6,Ben Cline,Republican,177180,55.02,True,95,87466,Virginia US House 6,2026-11-18T12:28+00:00
+VA,6,Beth Macy,Democratic,144195,44.78,False,95,87466,Virginia US House 6,2026-11-18T12:28+00:00
+VA,6,Write-in,Nonpartisan,625,0.19,False,95,87466,Virginia US House 6,2026-11-18T12:28+00:00
+VA,7,Eugene Vindman,Democratic,196075,60.0,True,99,87467,Virginia US House 7,2026-11-18T12:28+00:00
+VA,7,Doug Ollivant,Republican,122195,37.39,False,99,87467,Virginia US House 7,2026-11-18T12:28+00:00
+VA,7,Alaha Ahrar,Independent,3195,0.98,False,99,87467,Virginia US House 7,2026-11-18T12:28+00:00
+VA,7,Taner E. Demirci Lopez,Libertarian,2734,0.84,False,99,87467,Virginia US House 7,2026-11-18T12:28+00:00
+VA,7,Randall A. Terry,Independent,1232,0.38,False,99,87467,Virginia US House 7,2026-11-18T12:28+00:00
+VA,7,Joshua E. Ertle,Independent,811,0.25,False,99,87467,Virginia US House 7,2026-11-18T12:28+00:00
+VA,7,Write-in,Nonpartisan,556,0.17,False,99,87467,Virginia US House 7,2026-11-18T12:28+00:00
+VA,8,Don Beyer,Democratic,259261,79.49,True,99,87468,Virginia US House 8,2026-11-18T12:28+00:00
+VA,8,Tony Sabio,Republican,57992,17.78,False,99,87468,Virginia US House 8,2026-11-18T12:28+00:00
+VA,8,Tim S. Sharman,Independent,4138,1.27,False,99,87468,Virginia US House 8,2026-11-18T12:28+00:00
+VA,8,Shelly M. Arnoldi,Libertarian,3883,1.19,False,99,87468,Virginia US House 8,2026-11-18T12:28+00:00
+VA,8,Write-in,Nonpartisan,899,0.28,False,99,87468,Virginia US House 8,2026-11-18T12:28+00:00
+VA,9,Morgan Griffith,Republican,195308,65.32,True,88.3,87469,Virginia US House 9,2026-11-18T12:28+00:00
+VA,9,Joy Powers,Democratic,103087,34.48,False,88.3,87469,Virginia US House 9,2026-11-18T12:28+00:00
+VA,9,Write-in,Nonpartisan,610,0.2,False,88.3,87469,Virginia US House 9,2026-11-18T12:28+00:00
+VA,10,Suhas Subramanyam,Democratic,207223,61.65,True,99,87470,Virginia US House 10,2026-11-18T12:28+00:00
+VA,10,Dave Beckwith,Republican,122089,36.32,False,99,87470,Virginia US House 10,2026-11-18T12:28+00:00
+VA,10,Ahsen Mujeeb Malik,Independent,6145,1.83,False,99,87470,Virginia US House 10,2026-11-18T12:28+00:00
+VA,10,Write-in,Nonpartisan,657,0.2,False,99,87470,Virginia US House 10,2026-11-18T12:28+00:00
+VA,11,James Walkinshaw,Democratic,256593,74.34,True,99,87471,Virginia US House 11,2026-11-18T12:28+00:00
+VA,11,Arthur Purves,Republican,83080,24.07,False,99,87471,Virginia US House 11,2026-11-18T12:28+00:00
+VA,11,Dianne L. Blais,Green,4377,1.27,False,99,87471,Virginia US House 11,2026-11-18T12:28+00:00
+VA,11,Write-in,Nonpartisan,1095,0.32,False,99,87471,Virginia US House 11,2026-11-18T12:28+00:00
+WA,1,Suzan DelBene,Democratic,199211,67.48,True,99,87514,Washington US House 1,2026-11-18T12:28+00:00
+WA,1,Mary Silva,Republican,95059,32.2,False,99,87514,Washington US House 1,2026-11-18T12:28+00:00
+WA,1,Write-in,Nonpartisan,931,0.32,False,99,87514,Washington US House 1,2026-11-18T12:28+00:00
+WA,2,Rick Larsen,Democratic,231326,66.5,True,99,87515,Washington US House 2,2026-11-18T12:28+00:00
+WA,2,Edwin H. Feller,Republican,115142,33.1,False,99,87515,Washington US House 2,2026-11-18T12:28+00:00
+WA,2,Write-in,Nonpartisan,1365,0.39,False,99,87515,Washington US House 2,2026-11-18T12:28+00:00
+WA,3,Marie Gluesenkamp Perez,Democratic,190131,53.67,True,99,87516,Washington US House 3,2026-11-18T12:28+00:00
+WA,3,John Braun,Republican,160815,45.4,False,99,87516,Washington US House 3,2026-11-18T12:28+00:00
+WA,3,Write-in,Nonpartisan,3296,0.93,False,99,87516,Washington US House 3,2026-11-18T12:28+00:00
+WA,4,Amanda McKinney,Republican,130794,53.76,True,99,87517,Washington US House 4,2026-11-18T12:28+00:00
+WA,4,John Duresky,Democratic,111948,46.01,False,99,87517,Washington US House 4,2026-11-18T12:28+00:00
+WA,4,Write-in,Nonpartisan,562,0.23,False,99,87517,Washington US House 4,2026-11-18T12:28+00:00
+WA,5,Michael Baumgartner,Republican,170519,52.22,True,99,87518,Washington US House 5,2026-11-18T12:28+00:00
+WA,5,Carmela Conroy,Democratic,154843,47.42,False,99,87518,Washington US House 5,2026-11-18T12:28+00:00
+WA,5,Write-in,Nonpartisan,1173,0.36,False,99,87518,Washington US House 5,2026-11-18T12:28+00:00
+WA,6,Emily Randall,Democratic,224615,62.47,True,99,87519,Washington US House 6,2026-11-18T12:28+00:00
+WA,6,Teresa Fox,Republican,134227,37.33,False,99,87519,Washington US House 6,2026-11-18T12:28+00:00
+WA,6,Write-in,Nonpartisan,712,0.2,False,99,87519,Washington US House 6,2026-11-18T12:28+00:00
+WA,7,Pramila Jayapal,Democratic,326508,87.6,True,99,87520,Washington US House 7,2026-11-18T12:28+00:00
+WA,7,Nirav Sheth,Republican,44850,12.03,False,99,87520,Washington US House 7,2026-11-18T12:28+00:00
+WA,7,Write-in,Nonpartisan,1359,0.36,False,99,87520,Washington US House 7,2026-11-18T12:28+00:00
+WA,8,Kim Schrier,Democratic,194450,57.09,True,99,87521,Washington US House 8,2026-11-18T12:28+00:00
+WA,8,Spencer Meline,Republican,145258,42.65,False,99,87521,Washington US House 8,2026-11-18T12:28+00:00
+WA,8,Write-in,Nonpartisan,880,0.26,False,99,87521,Washington US House 8,2026-11-18T12:28+00:00
+WA,9,Adam Smith,Democratic,191135,75.7,True,99,87522,Washington US House 9,2026-11-18T12:28+00:00
+WA,9,Doug Basler,Republican,59506,23.57,False,99,87522,Washington US House 9,2026-11-18T12:28+00:00
+WA,9,Write-in,Nonpartisan,1841,0.73,False,99,87522,Washington US House 9,2026-11-18T12:28+00:00
+WA,10,Marilyn Strickland,Democratic,176487,63.95,True,99,87523,Washington US House 10,2026-11-18T12:28+00:00
+WA,10,Chris D. Chung,Republican,97853,35.45,False,99,87523,Washington US House 10,2026-11-18T12:28+00:00
+WA,10,Write-in,Nonpartisan,1655,0.6,False,99,87523,Washington US House 10,2026-11-18T12:28+00:00
+WV,1,Carol Miller,Republican,119087,57.06,True,71.2,87473,West Virginia US House 1,2026-11-18T12:28+00:00
+WV,1,Vince George,Democratic,82705,39.63,False,71.2,87473,West Virginia US House 1,2026-11-18T12:28+00:00
+WV,1,Belinda Fox-Spencer,Constitution,6921,3.32,False,71.2,87473,West Virginia US House 1,2026-11-18T12:28+00:00
+WV,2,Riley Moore,Republican,144109,59.37,True,76.7,87474,West Virginia US House 2,2026-11-18T12:28+00:00
+WV,2,Ace Parsi,Democratic,98615,40.63,False,76.7,87474,West Virginia US House 2,2026-11-18T12:28+00:00
+WI,1,Mitchell Berman,Democratic,158839,51.96,True,85.4,87483,Wisconsin US House 1,2026-11-18T12:28+00:00
+WI,1,Bryan Steil,Republican,146885,48.04,False,85.4,87483,Wisconsin US House 1,2026-11-18T12:28+00:00
+WI,2,Mark Pocan,Democratic,317125,100.0,True,76.7,87484,Wisconsin US House 2,2026-11-18T12:28+00:00
+WI,3,Rebecca Cooke,Democratic,172757,52.44,True,89.5,87485,Wisconsin US House 3,2026-11-18T12:28+00:00
+WI,3,Derrick Van Orden,Republican,150873,45.79,False,89.5,87485,Wisconsin US House 3,2026-11-18T12:28+00:00
+WI,3,Alexander Valiensi Kent,Independent,4035,1.22,False,89.5,87485,Wisconsin US House 3,2026-11-18T12:28+00:00
+WI,3,Rustin Provance,Independent,1799,0.55,False,89.5,87485,Wisconsin US House 3,2026-11-18T12:28+00:00
+WI,3,Write-in,Nonpartisan,0,0.0,False,89.5,87485,Wisconsin US House 3,2026-11-18T12:28+00:00
+WI,4,Gwen Moore,Democratic,211898,79.98,True,84.9,87486,Wisconsin US House 4,2026-11-18T12:28+00:00
+WI,4,Tim Rogers,Republican,46301,17.48,False,84.9,87486,Wisconsin US House 4,2026-11-18T12:28+00:00
+WI,4,Arthur Burks,Independent,6733,2.54,False,84.9,87486,Wisconsin US House 4,2026-11-18T12:28+00:00
+WI,5,Scott Fitzgerald,Republican,220992,59.05,True,89,87487,Wisconsin US House 5,2026-11-18T12:28+00:00
+WI,5,Andrew Beck,Democratic,153277,40.95,False,89,87487,Wisconsin US House 5,2026-11-18T12:28+00:00
+WI,6,Glenn Grothman,Republican,172138,52.78,True,86.6,87488,Wisconsin US House 6,2026-11-18T12:28+00:00
+WI,6,Brad Smith,Democratic,141346,43.34,False,86.6,87488,Wisconsin US House 6,2026-11-18T12:28+00:00
+WI,6,Elizabeth Anne Fitzgibbon,Nonpartisan,5282,1.62,False,86.6,87488,Wisconsin US House 6,2026-11-18T12:28+00:00
+WI,6,Mike Thurow,Nonpartisan,3879,1.19,False,86.6,87488,Wisconsin US House 6,2026-11-18T12:28+00:00
+WI,6,Matthew Arndt,Nonpartisan,3491,1.07,False,86.6,87488,Wisconsin US House 6,2026-11-18T12:28+00:00
+WI,6,Write-in,Nonpartisan,23,0.01,False,86.6,87488,Wisconsin US House 6,2026-11-18T12:28+00:00
+WI,7,Michael Alfonso,Republican,193911,56.9,True,89.2,87489,Wisconsin US House 7,2026-11-18T12:28+00:00
+WI,7,Fred Clark,Democratic,146869,43.09,False,89.2,87489,Wisconsin US House 7,2026-11-18T12:28+00:00
+WI,7,Write-in,Nonpartisan,24,0.01,False,89.2,87489,Wisconsin US House 7,2026-11-18T12:28+00:00
+WI,8,Tony Wied,Republican,177258,53.92,True,87.7,87490,Wisconsin US House 8,2026-11-18T12:28+00:00
+WI,8,Rick Crosson,Democratic,151471,46.08,False,87.7,87490,Wisconsin US House 8,2026-11-18T12:28+00:00
+WY,0,Chuck Gray,Republican,99906,54.53,True,84.1,87495,Wyoming US House At-Large,2026-11-18T12:28+00:00
+WY,0,Lisa F. Kinney,Democratic,61689,33.67,False,84.1,87495,Wyoming US House At-Large,2026-11-18T12:28+00:00
+WY,0,Shawn Johnson,Libertarian,13667,7.46,False,84.1,87495,Wyoming US House At-Large,2026-11-18T12:28+00:00
+WY,0,Jeffrey Haggit,Constitution,7961,4.34,False,84.1,87495,Wyoming US House At-Large,2026-11-18T12:28+00:00
